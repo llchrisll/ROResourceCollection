@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<servicetype>america</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+
+	<connection>
+		<display>iRO Server</display>
+		<desc>None</desc>
+		<address>128.241.92.36</address>
+		<port>6800</port>
+		<version>18</version>
+		<langtype>1</langtype>
+		<registrationweb>http://enweb.gravity.co.kr/e_regist.htm</registrationweb>
+		<aid>
+			<admin>231656</admin><admin>1650290</admin><admin>1650292</admin><admin>1650297</admin>
+			<admin>1650302</admin><admin>1650306</admin><admin>1650310</admin><admin>1650313</admin>
+			<admin>1650315</admin><admin>1650319</admin><admin>1650330</admin><admin>1650296</admin>
+			<admin>1650298</admin><admin>1650300</admin><admin>1650303</admin><admin>231656</admin>
+			<admin>1650304</admin><admin>1650309</admin><admin>1650312</admin><admin>1650314</admin>
+			<admin>1650317</admin><admin>1650320</admin><admin>527214</admin><admin>527215</admin>
+			<admin>4025205</admin><admin>4025207</admin><admin>4025208</admin><admin>4025209</admin>
+			<admin>4031694</admin><admin>4112623</admin><admin>4245507</admin><admin>4245509</admin>
+			<admin>4245510</admin><admin>4245511</admin><admin>4245513</admin><admin>4245512</admin>
+			<admin>4245514</admin><admin>4245515</admin><admin>4245517</admin><admin>3642487</admin>
+			<admin>3642489</admin><admin>4527131</admin><admin>4527132</admin><admin>4527155</admin>
+			<admin>4527144</admin><admin>4531823</admin><admin>4695819</admin><admin>4695820</admin>
+			<admin>4695803</admin><admin>4695802</admin><admin>4695739</admin><admin>4695717</admin>
+		</aid>
+		<yellow>
+			<admin>231656</admin><admin>1650290</admin><admin>1650292</admin><admin>1650297</admin>
+			<admin>1650302</admin><admin>1650306</admin><admin>1650310</admin><admin>1650313</admin>
+			<admin>1650315</admin><admin>1650319</admin><admin>1650330</admin><admin>1650296</admin>
+			<admin>1650298</admin><admin>1650300</admin><admin>1650303</admin><admin>231656</admin>
+			<admin>1650304</admin><admin>1650309</admin><admin>1650312</admin><admin>1650314</admin>
+			<admin>1650317</admin><admin>1650320</admin><admin>527214</admin><admin>527215</admin>
+			<admin>4025205</admin><admin>4025207</admin><admin>4025208</admin><admin>4025209</admin>
+			<admin>4031694</admin><admin>4112623</admin><admin>4245507</admin><admin>4245509</admin>
+			<admin>4245510</admin><admin>4245511</admin><admin>4245513</admin><admin>4245512</admin>
+			<admin>4245514</admin><admin>4245515</admin><admin>4245517</admin><admin>3642487</admin>
+			<admin>3642489</admin><admin>4527131</admin><admin>4527132</admin><admin>4527155</admin>
+			<admin>4527144</admin><admin>4531823</admin><admin>4695819</admin><admin>4695820</admin>
+			<admin>4695803</admin><admin>4695802</admin><admin>4695739</admin><admin>4695717</admin>
+		</yellow>
+		<agencyAddress>128.241.92.36</agencyAddress>
+		<agencyPort>6950</agencyPort>
+	</connection>
+
+</clientinfo>

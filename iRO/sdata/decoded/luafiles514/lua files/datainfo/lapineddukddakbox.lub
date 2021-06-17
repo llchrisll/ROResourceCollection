@@ -1,0 +1,61 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\sdata\luafiles514\lua files\datainfo\LapineDdukDDakBox.lub 
+
+-- params : ...
+-- function num : 0
+tblLapineDdukddakBox = {
+sources = {
+IDTest_Special = {ItemID = 100000, NeedCount = 3, NeedRefineMin = 0, 
+SourceItems = {
+{"Jellopy", 1, 909}
+, 
+{"Fluff", 1, 914}
+, 
+{"Shell", 1, 935}
+}
+, NeedSource_String = "Jellopy,Fluff,Shell"}
+}
+, get_lapine_box = function(in_box_id)
+  -- function num : 0_0
+  for box_name,box_info in pairs(tblLapineDdukddakBox.sources) do
+    if box_info.ItemID == in_box_id then
+      return box_info
+    end
+  end
+  return nil
+end
+, get_need_item_count = function(in_box_id)
+  -- function num : 0_1
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedCount
+  end
+  return 0
+end
+, get_min_need_refine = function(in_box_id)
+  -- function num : 0_2
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedRefineMin
+  end
+  return 0
+end
+, get_need_source_string = function(in_box_id)
+  -- function num : 0_3
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedSource_String
+  end
+  return 0
+end
+, set_resource_item_list = function(in_box_id)
+  -- function num : 0_4
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    for k,v in pairs(box.SourceItems) do
+      add_ingredient(v[3], v[2])
+    end
+  end
+end
+}
+

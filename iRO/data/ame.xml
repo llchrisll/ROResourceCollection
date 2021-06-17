@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<servicetype>america</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+	<readfolder></readfolder>
+
+	<connection>
+		<display>iRO Server</display>
+		<desc>None</desc>
+		<address>192.168.21.11</address>
+		<port>6900</port>
+		<version>1</version>
+		<langtype>1</langtype>
+		<registrationweb>http://enweb.gravity.co.kr/e_regist.htm</registrationweb>
+		<aid>
+			<admin>231656</admin><admin>1650290</admin><admin>1650292</admin><admin>1650297</admin>
+			<admin>1650302</admin><admin>1650306</admin><admin>1650310</admin><admin>1650313</admin>
+			<admin>1650315</admin><admin>1650319</admin><admin>1650330</admin><admin>1650296</admin>
+			<admin>1650298</admin><admin>1650300</admin><admin>1650303</admin>
+			<admin>1650304</admin><admin>1650309</admin><admin>1650312</admin><admin>1650314</admin>
+			<admin>1650317</admin><admin>1650320</admin><admin>527214</admin><admin>527215</admin>
+		</aid>
+		<yellow>
+			<admin>231656</admin><admin>1650290</admin><admin>1650292</admin><admin>1650297</admin>
+			<admin>1650302</admin><admin>1650306</admin><admin>1650310</admin><admin>1650313</admin>
+			<admin>1650315</admin><admin>1650319</admin><admin>1650330</admin><admin>1650296</admin>
+			<admin>1650298</admin><admin>1650300</admin><admin>1650303</admin>
+			<admin>1650304</admin><admin>1650309</admin><admin>1650312</admin><admin>1650314</admin>
+			<admin>1650317</admin><admin>1650320</admin><admin>527214</admin><admin>527215</admin>
+		</yellow>
+	</connection>
+
+</clientinfo>

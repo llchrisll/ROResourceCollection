@@ -1,0 +1,1368 @@
+/*
+quest (퀘스트번호, "퀘스트 이름")
+	hunt("몹 디비명", 최대 사냥 수)
+	헌팅 최대 3개 
+	time(플레이시간) (1sec = 1)
+end
+
+-- 플레이어가 퀘스트를 받으려면 퀘스트가 반드시 정의가 되어 있어야 한다.
+-- quest / end 조건은 반드시 지켜져야 한다.
+-- 미션이 존재하지 않다면.. 미션은 넣지 않아도 된다.
+-- 헌팅 미션은 최대 3개 까지 가능하다.
+-- 타임 미션은 1개 이상 불가하다.
+
+//예제
+quest (1, "퀘스트")
+	hunt("POPORING", 10)
+	hunt("VERIT", 10)
+	hunt("POPORING", 10)
+	time(60)
+end
+*/
+// 하치원
+quest (1000, "Transcendent")
+end
+
+quest (1001, "Job Changes to Acolyte")
+end
+
+quest (1002, "Job Changes to Acolyte")
+end
+
+quest (1003, "Job Changes to Acolyte")
+end
+
+quest (1004, "Job Changes to Archer")
+end
+
+quest (1005, "Job Changes to Mage")
+end
+
+quest (1006, "Job Changes to Mage")
+end
+
+quest (1007, "Job Changes to Mage")
+end
+
+quest (1008, "Job Changes to Mage")
+end
+
+quest (1009, "Job Changes to Merchant")
+end
+
+quest (1010, "Job Changes to Merchant")
+end
+
+quest (1011, "Job Changes to Merchant")
+end
+
+quest (1012, "Job Changes to Merchant")
+end
+
+quest (1013, "Job Changes to Thief")
+end
+
+quest (1014, "Job Changes to Swordman")
+end
+
+// 조미정
+
+quest (2000, "Job Changes to Blacksmith")
+end
+
+quest (2001, "Job Changes to Blacksmith")
+end
+
+quest (2002, "Job Changes to Blacksmith")
+end
+
+quest (2003, "Job Changes to Blacksmith")
+end
+
+quest (2004, "Job Changes to Blacksmith")
+end
+
+quest (2005, "Job Changes to Blacksmith")
+end
+
+quest (2006, "Job Changes to Blacksmith")
+end
+
+quest (2007, "Job Changes to Blacksmith")
+end
+
+quest (2008, "Job Changes to Blacksmith")
+end
+
+quest (2009, "Job Changes to Blacksmith")
+end
+
+quest (2010, "Job Changes to Blacksmith")
+end
+
+quest (2011, "Job Changes to Blacksmith")
+end
+
+quest (2012, "Job Changes to Blacksmith")
+end
+
+quest (2013, "Job Changes to Blacksmith")
+end
+
+quest (2014, "Job Changes to Blacksmith")
+end
+
+quest (2015, "Job Changes to Blacksmith")
+end
+
+quest (2016, "Job Changes to Blacksmith")
+end
+
+quest (2017, "Job Changes to Rogue")
+end
+
+quest (2018, "Job Changes to Rogue")
+end
+
+quest (2019, "Job Changes to Rogue")
+end
+
+quest (2020, "Job Changes to Rogue")
+end
+
+quest (2021, "Job Changes to Rogue")
+end
+
+quest (2022, "Job Changes to Rogue")
+end
+
+quest (2023, "Job Changes to Rogue")
+end
+
+quest (2024, "Job Changes to Rogue")
+end
+
+quest (2025, "Job Changes to Rogue")
+end
+
+quest (2026, "Job Changes to Rogue")
+end
+
+quest (2027, "Job Changes to Rogue")
+end
+
+quest (2028, "Job Changes to Alchemist")
+end
+
+quest (2029, "Job Changes to Alchemist")
+end
+
+quest (2030, "Job Changes to Alchemist")
+end
+
+quest (2031, "Job Changes to Alchemist")
+end
+
+quest (2032, "Job Changes to Alchemist")
+end
+
+quest (2033, "Job Changes to Alchemist")
+end
+
+quest (2034, "Job Changes to Alchemist")
+end
+
+quest (2035, "Job Changes to Alchemist")
+end
+
+quest (2036, "Job Changes to Alchemist")
+end
+
+quest (2037, "Job Changes to Alchemist")
+end
+
+quest (2038, "Job Changes to Alchemist")
+end
+
+quest (2039, "Job Changes to Alchemist")
+end
+
+quest (2040, "Job Changes to Alchemist")
+end
+
+quest (2041, "Job Changes to Sage")
+end
+
+quest (2042, "Job Changes to Sage")
+end
+
+quest (2043, "Job Changes to Sage")
+end
+
+quest (2044, "Job Changes to Sage")
+end
+
+quest (2045, "Job Changes to Sage")
+end
+
+quest (2046, "Job Changes to Sage")
+end
+
+quest (2047, "Job Changes to Sage")
+end
+
+quest (2048, "Job Changes to Sage")
+end
+
+quest (2049, "Job Changes to Sage")
+end
+
+quest (2050, "Job Changes to Sage")
+end
+
+quest (2051, "Job Changes to Sage")
+end
+
+quest (2052, "Job Changes to Sage")
+end
+
+quest (2053, "Job Changes to Sage")
+end
+
+quest (2054, "Job Changes to Sage")
+end
+
+quest (2055, "Job Changes to Sage")
+end
+
+quest (2056, "Job Changes to Sage")
+end
+
+quest (2057, "Job Changes to Sage")
+end
+
+quest (2058, "Job Changes to Sage")
+end
+
+quest (2059, "Job Changes to Sage")
+end
+
+quest (2060, "Job Changes to Sage")
+end
+
+quest (2061, "Job Changes to Sage")
+end
+
+quest (2062, "Job Changes to Sage")
+end
+
+quest (2063, "The Crow of the Fate")
+end
+
+quest (2064, "The Crow of the Fate")
+end
+
+quest (2065, "The Crow of the Fate")
+end
+
+quest (2066, "The Crow of the Fate")
+end
+
+quest (2067, "The Crow of the Fate")
+end
+
+quest (2068, "The Crow of the Fate")
+end
+
+
+// 김은동
+
+quest (3000, "Job Changes to Bard - Beautiful Song")
+end
+
+quest (3001, "#Job Changes to Bard - Pay by Flower?")
+end
+
+quest (3002, "Job Changes to Bard - The first step of becoming a Bard")
+end
+
+quest (3003, "Job Changes to Bard - Following a song")
+end
+
+quest (3004, "Job Changes to Bard - Final test")
+end
+
+
+quest (3006, "Job Changes to Crusader")
+end
+
+quest (3007, "Job Changes to Crusader")
+end
+
+quest (3008, "Job Changes to Crusader")
+end
+
+quest (3009, "Job Changes to Crusader")
+end
+
+quest (3010, "Job Changes to Crusader")
+end
+
+quest (3011, "Job Changes to Crusader")
+end
+
+quest (3012, "Job Changes to Crusader")
+end
+
+quest (3013, "Job Changes to Crusader")
+end
+
+quest (3014, "Job Changes to Crusader")
+end
+
+quest (3015, "Job Changes to Crusader")
+end
+
+
+
+
+quest (3016, "Job Changes to Monk")
+end
+
+quest (3017, "Job Changes to Monk")
+end
+
+quest (3018, "Job Changes to Monk")
+end
+
+quest (3019, "Job Changes to Monk")
+end
+
+quest (3020, "Job Changes to Monk")
+end
+
+quest (3021, "Job Changes to Monk")
+end
+
+quest (3022, "Job Changes to Monk")
+end
+
+quest (3023, "Job Changes to Monk")
+end
+
+quest (3024, "Job Changes to Monk")
+end
+
+quest (3025, "Job Changes to Monk")
+end
+
+quest (3026, "Job Changes to Monk")
+end
+
+quest (3027, "Job Changes to Monk")
+end
+
+quest (3028, "Job Changes to Monk")
+end
+
+quest (3029, "Job Changes to Monk")
+end
+
+quest (3030, "Job Changes to Monk")
+end
+
+quest (3031, "Job Changes to Monk")
+end
+
+quest (3032, "Job Changes to Monk")
+end
+
+
+//===== 12.1 Resurrection of Satan Morocc 
+quest (3050, "Resurrection of Satan Morocc - News about Morocc Village")
+end
+
+quest (3051, "Resurrection of Satan Morocc - Test of Quealification")
+end
+
+quest (3052, "Resurrection of Satan Morocc - Test of Quealification2")
+end
+
+quest (3053, "Resurrection of Satan Morocc - Joining Continental Guard")
+end
+
+quest (3054, "Resurrection of Satan Morocc - Defeating Satan Morocc!")
+end
+
+quest (3055, "Resurrection of Satan Morocc - Time-Space Gap")
+end
+
+quest (3056, "Resurrection of Satan Morocc - Rewards")
+end
+
+
+// ===================== Memorial Baphomet   ========================
+
+quest (3040, "The curse of Baphomet - Fatigue of Grave")
+	time(43200)
+end
+
+quest (3041, "The curse of Baphomet - Dearth of magical power")
+	time(180)
+end
+
+quest (3042, "The identity of the Cursed Baphomet Doll - Finding Rust Blackhand...")
+end
+
+quest (3043, "The identity of the Cursed Baphomet Doll - The true Gigantic Magestic Goat?")
+end
+
+
+//============================= 베인스의 남매 ========================
+quest (3060, "Kids in Veins - Where's the Little Sis?")
+end
+
+quest(3061, "Kids in Veins - Find a way to unlock the shackles!")
+end
+
+quest(3062, "Kids in Veins - Find the Locksmith!")
+end
+
+
+quest(3063, "Kids in Veins - Mr. Lockenlock?")
+end
+
+quest(3064, "Kids in Veins - Organic Chamelepu Soap")
+end
+
+quest(3065, "#Kids in Veins - Soap Ingredients")
+end
+
+quest(3066, "Kids in Veins - To make a Chamelepu Soap...")
+end
+
+quest(3067, "Kids in Veins - Camel Appetite Stimulants")
+end
+
+quest(3068, "Kids in Veins - Getting the Camel Dung")
+end
+
+quest(3069, "Kids in Veins - Where's the Silk Sand Camel?")
+end
+
+quest(3070, "Kids in Veins - Silk Sand Camel is gone!")
+end
+
+quest(3071, "Kids in Veins - Silk Sand Camel is found!")
+end
+
+quest(3072, "Kids in Veins - 1 lump of Camel dung obtained")
+end
+
+quest(3073, "Kids in Veins - 2 lumps of Camel dung obtained")
+end
+
+quest(3074, "Kids in Veins - 3 lumps of Camel dung obtained")
+end
+
+quest(3075, "Kids in Veins - 4 lumps of Camel dung obtained")
+end
+
+quest(3076, "Kids in Veins - 5 lumps of Camel dung obtained")
+end
+
+quest(3077, "Kids in Veins - Go to Ms. Ivory")
+end
+
+quest(3078, "Kids in Veins - Chamalepu Soap is completed!")
+end
+
+quest(3079, "Kids in Veins - Making the key mold")
+end
+
+quest(3080, "Kids in Veins - Bringing the key mold")
+end
+
+quest(3081, "Kids in Veins - All you need is Steel!")
+end
+
+quest(3082, "Kids in Veins - The Key is Made!")
+end
+
+quest(3083, "Kids in Veins - Mr. Lockenlock's key")
+end
+
+
+// 오남경
+//----------------------헌터전직------------------------------
+quest (4000, "Job Chages to Hunter")
+end
+
+quest (4001, "Job Chages to Hunter")
+end
+
+quest (4002, "Job Chages to Hunter")
+end
+
+quest (4003, "Job Chages to Hunter")
+end
+
+quest (4004, "Job Chages to Hunter")
+end
+
+quest (4005, "Job Chages to Hunter")
+end
+
+quest (4006, "Job Chages to Hunter")
+end
+
+quest (4007, "Job Chages to Hunter")
+end
+
+quest (4008, "Job Chages to Hunter")
+end
+
+quest (4009, "Job Chages to Hunter")
+end
+
+quest (4010, "Job Chages to Hunter")
+end
+
+quest (4011, "Job Chages to Hunter")
+end
+
+quest (4012, "Job Chages to Hunter")
+end
+
+quest (4013, "Job Chages to Hunter")
+end
+
+
+//--------------------국왕선출--------------------------------
+quest (4015, "Election of the King")
+end
+
+quest (4016, "Election of the King")
+end
+
+quest (4017, "Election of the King")
+end
+
+quest (4018, "Election of the King")
+end
+
+quest (4019, "Election of the King")
+end
+
+quest (4020, "Election of the King")
+end
+
+quest (4021, "Election of the King")
+end
+
+quest (4022, "Election of the King")
+end
+
+quest (4023, "Election of the King")
+end
+
+quest (4024, "Election of the King")
+end
+
+quest (4025, "Election of the King")
+end
+
+quest (4026, "Election of the King")
+end
+
+quest (4027, "Election of the King")
+end
+
+quest (4028, "Election of the King")
+end
+
+quest (4029, "Election of the King")
+end
+
+quest (4030, "Election of the King")
+end
+
+quest (4031, "Election of the King")
+end
+
+quest (4032, "Election of the King")
+end
+
+quest (4033, "Election of the King")
+end
+
+
+// 권오민
+//태권 
+
+quest (6000, "Job Changes to Taekwon")
+end
+
+quest (6001, "Job Changes to Taekwon")
+end
+
+quest (6002, "Job Changes to Taekwon")
+end
+
+
+//소울링커
+quest (6005, "Job Changes to Soul-Linker")
+end
+
+quest (6006, "Job Changes to Soul-Linker")
+end
+
+quest (6007, "Job Changes to Soul-Linker")
+end
+
+quest (6008, "Job Changes to Soul-Linker")
+end
+
+
+//슈노
+quest (6010, "Job Changes to Super Novice")
+end
+
+
+
+
+//닌자
+quest (6015, "A favor from Couga")
+end
+
+quest (6016, "A favor from a Suspicious Man")
+end
+
+quest (6017, "Red Leopard Joe's Reply")
+end
+
+quest (6018, "Cougar's Madness")
+end
+
+
+
+
+//건슬링거
+quest (6020, "Master Miller's Letter")
+end
+
+quest (6021, "Wise Bull Horn's voucher")
+end
+
+quest (6022, "Making a voucher")
+end
+
+quest (6023, "Wise Bull Horn's Favor")
+end
+
+quest (6024, "Job Changes to Gunslinger!")
+end
+
+// 배혜령
+quest (7000, "Job Changes to Dancer!")
+end
+
+quest (7001, "Job Changes to Dancer!")
+end
+
+quest (7002, "Job Changes to Dancer!")
+end
+
+quest (7003, "Job Changes to Dancer!")
+end
+
+quest (7004, "Job Changes to Dancer!")
+end
+
+quest (7005, "Job Changes to Dancer!")
+end
+
+quest (7006, "Job Changes to Dancer!")
+end
+
+//---권성 전직 퀘스트------------------
+quest (7007, "Warrior of the Sun, the Moon, and the Stars")
+end
+
+quest (7008, "Warrior of the Sun, the Moon, and the Stars")
+end
+
+quest (7009, "Warrior of the Sun, the Moon, and the Stars")
+end
+
+quest (7010, "Warrior of the Sun, the Moon, and the Stars")
+end
+
+quest (7011, "Warrior of the Sun, the Moon, and the Stars")
+end
+
+
+// 이경숙
+//--------------------어쎄신전직--------------------------------
+quest (8000, "Job Changes to Assassin")
+end
+
+quest (8001, "Job Changes to Assassin")
+end
+
+quest (8002, "Job Changes to Assassin")
+end
+
+quest (8003, "Job Changes to Assassin")
+end
+
+quest (8004, "Job Changes to Assassin")
+end
+
+quest (8005, "Job Changes to Assassin")
+end
+
+quest (8006, "Job Changes to Assassin")
+end
+
+quest (8007, "Job Changes to Assassin")
+end
+
+quest (8008, "Job Changes to Assassin")
+end
+
+
+quest (8009, "Job Change to Priest")
+end
+
+quest (8010, "Job Change to Priest")
+end
+
+quest (8011, "Job Change to Priest")
+end
+
+quest (8012, "Job Change to Priest")
+end
+
+quest (8013, "Job Change to Priest")
+end
+
+quest (8014, "Job Change to Priest")
+end
+
+quest (8015, "Job Change to Priest")
+end
+
+quest (8016, "Job Change to Priest")
+end
+
+// 아인브로크 공장 퀘스트
+quest (8017, "Einbroch Factory")
+end
+
+quest (8018, "Einbroch Factory")
+end
+
+quest (8019, "Einbroch Factory")
+end
+
+quest (8020, "Einbroch Factory")
+end
+
+quest (8021, "Einbroch Factory")
+end
+
+quest (8022, "Einbroch Factory")
+end
+
+quest (8023, "Einbroch Factory")
+end
+
+quest (8024, "Einbroch Factory")
+end
+
+quest (8025, "Einbroch Factory")
+end
+
+quest (8026, "Einbroch Factory")
+end
+
+quest (8027, "Einbroch Factory")
+end
+
+quest (8028, "Einbroch Factory")
+end
+
+quest (8029, "Einbroch Factory")
+end
+
+quest (8030, "Einbroch Factory")
+end
+
+quest (8031, "Einbroch Factory")
+end
+
+
+// 리히타르젠 : 비공정 퀘스트
+quest (8032, "Lighthalzen Airship")
+end
+
+quest (8033, "Lighthalzen Airship")
+end
+
+quest (8034, "Lighthalzen Airship")
+end
+
+quest (8035, "Lighthalzen Airship")
+end
+
+
+// 리히타르젠 : 유사 이미르 퀘스트
+quest (8036, "Ymir's Heart Piece")
+end
+
+quest (8037, "Ymir's Heart Piece")
+end
+
+quest (8038, "Ymir's Heart Piece")
+end
+
+quest (8039, "Ymir's Heart Piece")
+end
+
+quest (8040, "Ymir's Heart Piece")
+end
+
+quest (8041, "Ymir's Heart Piece")
+end
+
+quest (8042, "Ymir's Heart Piece")
+end
+
+quest (8043, "Ymir's Heart Piece")
+end
+
+
+// 휘겔 : 약 구하기 퀘스트
+quest (8044, "Hugel: Getting Medicine")
+end
+
+quest (8045, "Hugel: Getting Medicine")
+end
+
+quest (8046, "Hugel: Getting Medicine")
+end
+
+quest (8047, "Hugel: Getting Medicine")
+end
+
+quest (8048, "Hugel: Getting Medicine")
+end
+
+quest (8049, "Hugel: Getting Medicine")
+end
+
+quest (8050, "Hugel: Getting Medicine")
+end
+
+quest (8051, "Hugel: Getting Medicine")
+end
+
+quest (8052, "Hugel: Getting Medicine")
+end
+
+
+// 휘겔 : 약초 퀘스트 (hg_herv.sc)
+quest (8053, "Hugel: Herb")
+end
+
+quest (8054, "Hugel: Herb")
+end
+
+quest (8055, "Hugel: Herb")
+end
+
+quest (8056, "Hugel: Herb")
+end
+
+
+// 휘겔 : 추억 퀘스트 (hg_memo.sc)
+quest (8057, "Hugel: Memories")
+end
+
+quest (8058, "Hugel: Memories")
+end
+
+quest (8059, "Hugel: Memories")
+end
+
+quest (8060, "Hugel: Memories")
+end
+
+quest (8061, "Hugel: Memories")
+end
+
+quest (8062, "Hugel: Memories")
+end
+
+quest (8063, "Hugel: Memories")
+end
+
+
+// 휘겔 : 오뎅 퀘스트 (hg_odeng.sc)
+quest (8064, "Hugel: Fish Cake Soup")
+end
+
+quest (8065, "Hugel: Fish Cake Soup")
+end
+
+quest (8066, "Hugel: Fish Cake Soup")
+end
+
+quest (8067, "Hugel: Fish Cake Soup")
+end
+
+quest (8068, "Hugel: Fish Cake Soup")
+end
+
+quest (8069, "Hugel: Fish Cake Soup")
+end
+
+quest (8070, "Hugel: Fish Cake Soup")
+end
+
+quest (8071, "Hugel: Fish Cake Soup")
+end
+
+quest (8072, "Hugel: Fish Cake Soup")
+end
+
+quest (8073, "Hugel: Fish Cake Soup")
+end
+
+quest (8074, "Hugel: Fish Cake Soup")
+end
+
+quest (8075, "Hugel: Fish Cake Soup")
+end
+
+
+// 아인브로크 : 연인 퀘스트 (ein_ryu.sc)
+quest (8076, "Lovers in Einbroch")
+end
+
+quest (8077, "Lovers in Einbroch")
+end
+
+quest (8078, "Lovers in Einbroch")
+end
+
+quest (8079, "Lovers in Einbroch")
+end
+
+quest (8080, "Lovers in Einbroch")
+end
+
+quest (8081, "Lovers in Einbroch")
+end
+
+quest (8082, "Lovers in Einbroch")
+end
+
+quest (8083, "Lovers in Einbroch")
+end
+
+quest (8084, "Lovers in Einbroch")
+end
+
+quest (8085, "Lovers in Einbroch")
+end
+
+quest (8086, "Lovers in Einbroch")
+end
+
+quest (8087, "Lovers in Einbroch")
+end
+
+quest (8088, "Lovers in Einbroch")
+end
+
+// 라헬 : 잘못된 심부름 퀘스트 (rachel_wonjumin.sc)
+quest (8089, "Stolen Gemstone")
+end
+
+quest (8090, "Stolen Gemstone")
+end
+
+quest (8091, "Stolen Gemstone")
+end
+
+quest (8092, "Stolen Gemstone")
+end
+
+quest (8093, "Stolen Gemstone")
+end
+
+quest (8094, "Stolen Gemstone")
+end
+
+quest (8095, "Stolen Gemstone")
+end
+
+quest (8096, "Stolen Gemstone")
+end
+
+quest (8097, "Stolen Gemstone")
+end
+
+quest (8098, "Stolen Gemstone")
+end
+
+quest (8099, "Stolen Gemstone")
+end
+
+
+// 라헬 : 신관 퀘스트 (rachel_ma1.sc)
+quest (8100, "Recommendation from High Priest Zhed")
+end
+
+quest (8101, "Recommendation from High Priest Zhed")
+end
+
+quest (8102, "Recommendation from High Priest Zhed")
+end
+
+quest (8103, "Recommendation from High Priest Zhed")
+end
+
+quest (8104, "Recommendation from High Priest Zhed")
+end
+
+quest (8105, "Recommendation from High Priest Zhed")
+end
+
+// 라헬 : 개척하지 못한 운명 퀘스트 (rachel_ryu.sc)
+quest (8106, "Rachel: Tragic Destiny")
+end
+
+quest (8107, "Rachel: Tragic Destiny")
+end
+
+quest (8108, "Rachel: Tragic Destiny")
+end
+
+quest (8109, "Rachel: Tragic Destiny")
+end
+
+quest (8110, "Rachel: Tragic Destiny")
+end
+
+quest (8111, "Rachel: Tragic Destiny")
+end
+
+quest (8112, "Rachel: Tragic Destiny")
+end
+
+quest (8113, "Rachel: Tragic Destiny")
+end
+
+quest (8114, "Rachel: Tragic Destiny")
+end
+
+quest (8115, "Rachel: Tragic Destiny")
+end
+
+quest (8116, "Rachel: Tragic Destiny")
+end
+
+quest (8117, "Rachel: Tragic Destiny")
+end
+
+quest (8118, "Rachel: Tragic Destiny")
+end
+
+quest (8119, "Rachel: Tragic Destiny")
+end
+
+quest (8120, "Rachel: Tragic Destiny")
+end
+
+quest (8121, "Rachel: Tragic Destiny")
+end
+
+quest (8122, "Rachel: Tragic Destiny")
+end
+
+// 박선구
+
+
+// ===================== 나이트 ========================
+quest (9000, "Job Changes to Knight")
+end
+
+
+quest (9001, "Loyalty of a Knight")
+end
+
+quest (9002, "Loyalty of a Knight")
+end
+
+quest (9003, "The Honor of a Knight")
+end
+
+quest (9004, "The Honor of a Knight")
+end
+
+quest (9005, "Tenacity of a Knight")
+end
+
+quest (9006, "Tenacity of a Knight")
+end
+
+quest (9007, "The Honor of a Knight")
+end
+
+quest (9008, "Etiquette as a Knight")
+end
+
+quest (9009, "Life as a Knight")
+end
+
+quest (9010, "Quality of reverence")
+end
+
+quest (9011, "Life as a Knight")
+end
+
+quest (9012, "Glory of a Knight!")
+end
+
+
+// ===================== 위자드 ========================
+quest (9013, "Let's become a Wizard!")
+end
+
+quest (9014, "Let's become a Wizard!")
+end
+
+quest (9015, "Gloomy Wizard?")
+end
+
+quest (9016, "Understanding of Magic and Matter")
+end
+
+quest (9017, "Application of the Magic")
+end
+
+quest (9018, "Certified as a Wizard!")
+end
+
+
+
+
+// ===================== Battle Ground  ========================
+quest (2069, "Tierra Gorge Battle")
+  	time(300)	
+end
+
+quest (2070, "Flavius Battle")
+  	time(300)	
+end
+
+//---------------------------Endless tower------------------------------
+quest (12000, "Infiltrating Endless tower")
+end
+
+quest (12001, "Defeat Nacht Sieger")
+end
+
+quest (12002, "The Curse of Endless tower")
+end
+
+
+
+//==================== 왕위조례 ========================
+quest (10000, "To the Prontera Royal Court")
+end
+
+quest (10001, "Qualification Test")
+end
+
+quest (10002, "Qualification Review")
+end
+
+quest (10003, "Instruction on what to do")
+end
+
+quest (10004, "Interim Report")
+end
+
+quest (10005, "Prince Eigen Ahrum")
+end
+
+quest (10006, "Prince Ernst")
+end
+
+quest (10007, "Prince Poe")
+end
+
+quest (10008, "Prince Peter")
+end
+
+quest (10009, "Prince Urugen")
+end
+
+quest (10010, "Prince Helmut")
+end
+
+quest (10011, "Prince Erich")
+end
+
+quest (10012, "Conversation of two princes")
+end
+
+quest (10013, "Searching for the unknown girl")
+end
+
+quest (10014, "Back to Peter")
+end
+
+quest (10015, "Test 15")
+end
+
+quest (10016, "A man of Walter Family")
+end
+
+quest (10017, "Conspiracy")
+end
+
+quest (10018, "Villainous Ahrum - Poe")
+end
+
+quest (10019, "Villainous Ahrum - Peter")
+end
+
+quest (10020, "Villainous Ahrum - Erich")
+end
+
+quest (10021, "Villainous Ahrum - Urugen")
+end
+
+quest (10022, "Villainous Ahrum - Helmut")
+end
+
+quest (10023, "Eigen Ahrum and Ernst -Former-")
+end
+
+quest (10024, "Eigen Ahrum and Ernst -Latter-")
+end
+
+quest (10025, "Good-byd, dear!")
+end
+
+// 송송이
+// ----------오딘신전, 생체연구, 도서관, 돌줍는노인
+quest (11000, "Inspection of Odin Shrine")
+end
+
+quest (11001, "Inspection of Odin Shrine")
+end
+
+quest (11002, "Inspection of Odin Shrine")
+end
+
+quest (11003, "Inspection of Odin Shrine")
+end
+
+quest (11004, "Inspection of Odin Shrine")
+end
+
+quest (11005, "Inspection of Odin Shrine")
+end
+
+quest (11006, "Inspection of Odin Shrine")
+end
+
+quest (11007, "Inspection of Odin Shrine")
+end
+
+quest (11008, "Inspection of Odin Shrine")
+end
+
+quest (11009, "Bio-researcher")
+end
+
+quest (11010, "Bio-researcher")
+end
+
+quest (11011, "Bio-researcher")
+end
+
+quest (11012, "Bio-researcher")
+end
+
+quest (11013, "Bio-researcher")
+end
+
+quest (11014, "Bio-researcher")
+end
+
+quest (11015, "Bio-researcher")
+end
+
+quest (11016, "Bio-researcher")
+end
+
+quest (11017, "Exploring Juperos")
+end
+
+quest (11018, "Exploring Juperos")
+end
+
+quest (11019, "Exploring Juperos")
+end
+
+quest (11020, "Exploring Juperos")
+end
+
+quest (11021, "Exploring Juperos")
+end
+
+quest (11022, "Exploring Juperos")
+end
+
+quest (11023, "Wincing Old Man")
+end
+
+quest (11024, "Wincing Old Man")
+end
+
+quest (11025, "Wincing Old Man")
+end
+
+quest (11026, "Wincing Old Man")
+end
+
+quest (11027, "Wincing Old Man")
+end
+
+quest (11028, "Wincing Old Man")
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

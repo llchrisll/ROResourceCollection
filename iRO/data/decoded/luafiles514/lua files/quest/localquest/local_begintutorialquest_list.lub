@@ -1,0 +1,19 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\quest\localquest\local_begintutorialquest_list.lub 
+
+-- params : ...
+-- function num : 0
+LOCAL_BeginTuTorialQuest_list = {
+{name = "Beginner\'s Tutorial", imagefile = "ep_test_sample.bmp", 
+list = {
+{name = "Ragnarok beginner\'s road", 
+list = {
+{name = "First step to the World", scrfilename = "BeginTutorialQuest", questID = 7472}
+, 
+{name = "The most delicious..", scrfilename = "BeginTutorialQuest", questID = 11339}
+}
+}
+}
+}
+}
+

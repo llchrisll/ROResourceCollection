@@ -1,0 +1,123 @@
+﻿%f5f5dc
+^000088Prontera palace commissary exchange item -consumable item^000000
+
+^ff0000[City Map]^000000
+Guiding map inside the city. 
+Using it activates Agility Boost Lv. 1. 
+Caution! No effect will become activated if used while casting. 
+Caution! It basically consumes 15 HP, so if your HP falls short of 15, no effect will become activated even if you use it, but your City Map will still be removed.
+Weight : 1
+
+^ff0000[Holy_Water]^000000
+Decreases damage inflicted in the Room of Consciousness and the Prontera Invasion Dungeon by 10% for 3 minutes.
+Removes Poison, Curse, and Silence and recovers 1,000 HP.
+Weight : 1.5
+
+^ff0000[Prison Key]^000000
+Several old and dirty keys are hung.
+Can transport to the underground dungeon of the Prontera Castle.
+Weight : 1
+
+^ff0000[Prontera_Badge]^000000
+A badge where the coordinates for Prontera are saved.
+Using it transports you to Prontera.
+Weight : 1
+
+
+^000088Prontera palace commissary exchange item -armor item^000000
+
+^ff0000[City Map]^000000
+Guiding map inside the city.
+Boosts agility. Available for Lv. 3. 
+Line : Accessory 
+Defense : 0
+Weight : 10 
+Required lvl : 40 
+Equip : All jobs
+Slot : 1
+
+^ff0000[Holy_Water]^000000
+Decreases damage inflicted in the Room of Consciousness and the Prontera Invasion Dungeon by 20%. 
+Recovers HP by 100 and SP by 5 every 10 seconds. 
+Line: Accessory Defense: 0 
+Weight : 15 
+Required lvl : 100 
+Equip : All jobs
+Slot : 1
+
+^ff0000[Royal Guard_Shield]^000000
+Knight Guard's Shield 
+Available to use 'Shield Spell' Lv. 1 
+Activates 'Assumptio' Lv. 3 on you with a certain probability if melee physical damage is inflicted. 
+Increases the activation rate of 'Assumptio' Lv. 3 depending on the refine level. 
+DEF +10 and MDEF +1 per refinement 
+Line: Shield 
+Defense : 30 
+Weight : 300 
+Required lvl : 100 
+Equip : All jobs 
+Slot : 1
+
+^ff0000[Prontera_Badge]^000000
+'Return to Prontera' skill is available to use. 
+Becomes unavailable for 15 minutes after used. 
+Line : Accessory 
+Defense : 0 
+Weight : 10 
+Required lvl : 40 
+Equip : All jobs
+
+^ff0000Flattery_Robe^000000
+Attire for those who would use whatever means necessary to bring their desires to pass. 
+Available to use Endure Lv. 1.
+MATK + 50 
+MATK+50 if the equipper's level is 120 and up. 
+MATK+50 if the equipper's level is 140 and up.
+
+If equipped with the Old Lord's Cloak, 
+MSP + 10%. Boosts MSP by +1% for Armor Refine Level 1. 
+FLEE + 10. Boosts FLEE by + 1 for Armor Refine Level 1. 
+If equipped with the Survival Cloak, 
+MHP + 10%. Boosts MHP by + 1 for Armor Refine Level 1. 
+MATK + 2%. Boosts MATK by + 1 for Armor Refine Level 1. 
+Line : Armor 
+Defense : 0 
+Weight : 10 
+Required lvl : 100 
+Equip : All jobs
+Slot : 1
+
+^ff0000Invective_Robe^000000
+Attire for those who can inflict critical damage straight to the soul by talking. 
+Available to use Focus Enhance Lv. 1. 
+Nullifies additional 4% of the physical defense from the human/demon/undead enemy by Armor Refine Lv. 1. 
+If equipped with Morianee's Cloak, 
+Nullifies the physical defense from the human/demon/undead enemy by 15%. 
+LUK + 3. Boosts LUK by + 1 for Armor Refine Level 1. 
+CRI + 10. Boosts CRI by + 1 for Armor Refine Level 1. 
+If equipped with Valkyrie's Cloak, 
+Nullifies the physical defense from the human/demon/undead enemy by 15%. 
+MHP + 10%. Boosts MHP by + 1 for Armor Refine Level 1. 
+ATK + 2%. Boosts ATK by + 1 for Armor Refine Level 1. 
+Line : Armor 
+Defense : 0 
+Weight : 10 
+Required lvl : 100 
+Equip : All jobs
+Slot : 1
+
+^ff0000Costume_Time_Décor^000000
+It feels as if I'm locked inside the cascading time. 
+Line : Costume 
+Defense : 0 
+Position : Middle 
+Weight : 0 
+Required lvl : 1 
+Equip : All jobs
+
+^ff0000[Black Hand of Destiny]^000000
+It feels as if destiny is grabbing the back of my head to carry me around. 
+Line : Costume Defense: 0 
+Position : Top weight : 0 
+Required lvl : 1 
+Equip : All jobs

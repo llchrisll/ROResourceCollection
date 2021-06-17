@@ -1,0 +1,32 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\entryqueue\entryqueuelist.lub 
+
+-- params : ...
+-- function num : 0
+EntryQueueList = {
+[1] = {BattleFieldName = "Tierra Gorge", DisplayBattleFieldName = "Tierra Gorge(1-80)", AllianceNum = 6, EnemyNum = 6, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 4, EnterCondType = 2, EnterCondValue1 = 1, EnterCondValue2 = 80, RewardWin = "10 Bravery Badges", RewardDraw = "4 Bravery Badge", RewardLose = "4 Bravery Badge", VictoryCond = "Enemy Food Depot", MiniMapFile = "bat_a01.bmp"}
+, 
+[2] = {BattleFieldName = "Tierra Gorge_2", DisplayBattleFieldName = "Tierra Gorge(81-99)", AllianceNum = 6, EnemyNum = 6, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 4, EnterCondType = 2, EnterCondValue1 = 81, EnterCondValue2 = 99, RewardWin = "10 Bravery Badges", RewardDraw = "4 Bravery Badge", RewardLose = "4 Bravery Badge", VictoryCond = "Enemy Food Depot", MiniMapFile = "bat_a01.bmp"}
+, 
+[3] = {BattleFieldName = "Tierra Gorge_3", DisplayBattleFieldName = "Tierra Gorge(80+)", AllianceNum = 6, EnemyNum = 6, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 4, EnterCondType = 2, EnterCondValue1 = 80, EnterCondValue2 = 0, RewardWin = "10 Bravery Badges", RewardDraw = "4 Bravery Badge", RewardLose = "4 Bravery Badge", VictoryCond = "Enemy Food Depot", MiniMapFile = "bat_a01.bmp"}
+, 
+[4] = {BattleFieldName = "Flavius", DisplayBattleFieldName = "Flavian(1-99)", AllianceNum = 4, EnemyNum = 4, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 4, EnterCondType = 2, EnterCondValue1 = 1, EnterCondValue2 = 80, RewardWin = "10 Bravery Badges", RewardDraw = "4 Bravery Badges", RewardLose = "4 Bravery Badges", VictoryCond = "Destroy enemy Crystal", MiniMapFile = "bat_b01.bmp"}
+, 
+[5] = {BattleFieldName = "Flavius_2", DisplayBattleFieldName = "Flavian(81-99)", AllianceNum = 4, EnemyNum = 4, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 4, EnterCondType = 2, EnterCondValue1 = 81, EnterCondValue2 = 99, RewardWin = "10 Bravery Badges", RewardDraw = "4 Bravery Badges", RewardLose = "4 Bravery Badges", VictoryCond = "Destroy enemy Crystal", MiniMapFile = "bat_b01.bmp"}
+, 
+[6] = {BattleFieldName = "Flavius_3", DisplayBattleFieldName = "Flavian(80+)", AllianceNum = 4, EnemyNum = 4, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 4, EnterCondType = 2, EnterCondValue1 = 80, EnterCondValue2 = 0, RewardWin = "10 Bravery Badges", RewardDraw = "4 Bravery Badges", RewardLose = "4 Bravery Badges", VictoryCond = "Destroy enemy Crystal", MiniMapFile = "bat_b01.bmp"}
+, 
+[7] = {BattleFieldName = "KVM_1", DisplayBattleFieldName = "KVM (1-80)", AllianceNum = 3, EnemyNum = 3, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 0, EnterCondType = 2, EnterCondValue1 = 1, EnterCondValue2 = 80, RewardWin = "KVM point 5", RewardDraw = "KVM point 1", RewardLose = "KVM point 1", VictoryCond = "Kill all opponents", MiniMapFile = "bat_c01.bmp"}
+, 
+[8] = {BattleFieldName = "KVM_2", DisplayBattleFieldName = "KVM (81-99)", AllianceNum = 3, EnemyNum = 3, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 0, EnterCondType = 3, EnterCondValue1 = 81, EnterCondValue2 = 99, RewardWin = "KVM point 5", RewardDraw = "KVM point 1", RewardLose = "KVM point 1", VictoryCond = "Kill all opponents", MiniMapFile = "bat_c01.bmp"}
+, 
+[9] = {BattleFieldName = "KVM_3", DisplayBattleFieldName = "KVM (80+)", AllianceNum = 3, EnemyNum = 3, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 0, EnterCondType = 1, EnterCondValue1 = 80, EnterCondValue2 = 0, RewardWin = "KVM point 5", RewardDraw = "KVM point 1", RewardLose = "KVM point 1", VictoryCond = "Kill all opponents", MiniMapFile = "bat_c01.bmp"}
+}
+ReadEntryQueueList = function()
+  -- function num : 0_0
+  for id,table in pairs(EntryQueueList) do
+    AddEntryQueue(id, table.BattleFieldName, table.DisplayBattleFieldName, table.AllianceNum, table.EnemyNum, table.PrivateApply, table.PartyApply, table.GuildApply, table.JobGroup, table.EnterCondType, table.EnterCondValue1, table.EnterCondValue2, table.RewardWin, table.RewardDraw, table.RewardLose, table.VictoryCond, table.MiniMapFile)
+  end
+end
+
+

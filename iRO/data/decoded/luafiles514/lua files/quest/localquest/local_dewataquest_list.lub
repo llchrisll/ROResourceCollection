@@ -1,0 +1,85 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\quest\localquest\local_dewataquest_list.lub 
+
+-- params : ...
+-- function num : 0
+LOCAL_DewataQuest_List = {
+{name = "Dewata", imagefile = "ep_test_sample.bmp", 
+list = {
+{name = "Traditional Drink!!", 
+list = {
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5035}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5036}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5037}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5038}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5039}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5040}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5041}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5042}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5043}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5044}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5045}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5046}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5047}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5048}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5049}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5050}
+, 
+{name = "Help the old man !!", scrfilename = "DewataQuest", questID = 5051}
+}
+}
+, 
+{name = "Traditional Weapon!!", 
+list = {
+{name = "Traditional Weapon", scrfilename = "DewataQuest", questID = 5052}
+, 
+{name = "Traditional Weapon", scrfilename = "DewataQuest", questID = 5053}
+, 
+{name = "Traditional Weapon", scrfilename = "DewataQuest", questID = 5054}
+}
+}
+, 
+{name = "Legend", 
+list = {
+{name = "Collecting Jaty Crown ingredient", scrfilename = "DewataQuest", questID = 9155}
+, 
+{name = "Making Jaty Crown", scrfilename = "DewataQuest", questID = 9156}
+, 
+{name = "Reward from the sage Kasyapa", scrfilename = "DewataQuest", questID = 9157}
+, 
+{name = "Delivering the good news(1)", scrfilename = "DewataQuest", questID = 9158}
+, 
+{name = "Return to Failko", scrfilename = "DewataQuest", questID = 9159}
+, 
+{name = "Delivering the good news(2)", scrfilename = "DewataQuest", questID = 9160}
+, 
+{name = "Return to Failko", scrfilename = "DewataQuest", questID = 9161}
+, 
+{name = "Delivering the good news(3)", scrfilename = "DewataQuest", questID = 9162}
+, 
+{name = "Return to Failko", scrfilename = "DewataQuest", questID = 9163}
+, 
+{name = "Delivering the good news(4)", scrfilename = "DewataQuest", questID = 9164}
+, 
+{name = "Failko\'s reward for Jaty crown", scrfilename = "DewataQuest", questID = 9165}
+}
+}
+}
+}
+}
+
