@@ -1,0 +1,4640 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\Enchant\EnchantList.lub 
+
+-- params : ...
+-- function num : 0
+-- DECOMPILER ERROR at PC3: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[1] = CreateEnchantInfo()
+;
+(Table[1]):SetSlotOrder(3, 2, 1)
+;
+(Table[1]):AddTargetItem("Gray_W_Suits")
+;
+(Table[1]):AddTargetItem("Gray_W_Robe")
+;
+(Table[1]):SetCondition(7, 0)
+;
+(Table[1]):ApproveRandomOption(true)
+;
+(Table[1]):SetReset(true, 100000, 100000, {"Ep18_Amethyst_Fragment", 25})
+;
+(Table[1]):SetCaution("7¡¶∑√ ¿ÃªÛ¿« ±◊∑π¿Ã øÔ«¡ Ω¥√˜, ∑Œ∫Íø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿œπ› ¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 100%")
+;
+(((Table[1]).Slot)[3]):SetRequire(100000, {"Ep18_Amethyst_Fragment", 15})
+;
+(((Table[1]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[1]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[1]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[1]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_1", 9900)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_1", 9900)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_1", 9900)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_1", 9900)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_1", 9900)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_1", 9900)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_2", 2500)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_2", 2500)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_2", 2500)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_2", 2500)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_2", 2500)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_2", 2500)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Def_1", 9900)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Def_2", 2500)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Mdef_1", 9900)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Mdef_2", 2499)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Ran_1", 234)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_War_1", 234)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Mag_1", 234)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Ran_2", 33)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_War_2", 33)
+;
+(((Table[1]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Mag_2", 33)
+;
+(((Table[1]).Slot)[2]):SetRequire(150000, {"Ep18_Amethyst_Fragment", 25})
+;
+(((Table[1]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[1]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[1]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[1]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Str_1", 10001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Dex_1", 10001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Agi_1", 10001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Int_1", 10001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Vit_1", 10001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_luk_1", 10001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Str_2", 2000)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Dex_2", 2000)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Agi_2", 2000)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Int_2", 2000)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Vit_2", 2000)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_luk_2", 2000)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Str_3", 400)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Dex_3", 400)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Agi_3", 400)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Int_3", 400)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Vit_3", 400)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_luk_3", 400)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Def_1", 10001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Def_2", 2001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Def_3", 400)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Mdef_1", 10001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Mdef_2", 2001)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Mdef_3", 400)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Ran_1", 200)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_War_1", 200)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Mag_1", 200)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Ran_2", 50)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_War_2", 50)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Mag_2", 50)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Ran_3", 10)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_War_3", 10)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Mag_3", 10)
+;
+(((Table[1]).Slot)[2]):SetEnchant(0, "Wolf_Orb_S_Delay", 10)
+;
+(((Table[1]).Slot)[1]):SetRequire(200000, {"Ep18_Amethyst_Fragment", 50})
+;
+(((Table[1]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[1]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[1]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[1]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_R_Reject_1", 1848)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_R_Reject_2", 500)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_R_Reject_3", 100)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Force", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_1", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_2", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_3", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_4", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_5", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_6", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_7", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_8", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_9", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_10", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_11", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_12", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_13", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_14", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_15", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_16", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_17", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_18", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_19", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_20", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_21", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_22", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_23", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_24", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_25", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_26", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_27", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_28", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_29", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_30", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_31", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_32", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_33", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_34", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_35", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_36", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_37", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_38", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_39", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_40", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_41", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_42", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_43", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_44", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_45", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_46", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_47", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_48", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_49", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_50", 1876)
+;
+(((Table[1]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Skill_51", 1876)
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_R_Reject_3", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Force", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_1", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_2", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_3", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_5", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_6", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_7", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_8", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_9", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_10", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_11", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_12", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_13", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_14", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_15", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_16", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_17", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_18", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_19", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_20", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_21", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_22", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_23", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_24", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_25", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_26", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_27", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_28", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_29", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_30", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_31", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_32", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_33", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_34", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_35", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_36", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_37", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_38", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_39", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_40", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_41", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_42", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_43", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_44", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_45", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_46", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_47", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_48", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_49", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_50", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[1]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Skill_51", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+-- DECOMPILER ERROR at PC1812: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[2] = CreateEnchantInfo()
+;
+(Table[2]):SetSlotOrder(3, 2, 1)
+;
+(Table[2]):AddTargetItem("Gray_W_Manteau")
+;
+(Table[2]):AddTargetItem("Gray_W_Muffler")
+;
+(Table[2]):SetCondition(7, 0)
+;
+(Table[2]):ApproveRandomOption(true)
+;
+(Table[2]):SetReset(true, 100000, 100000, {"Ep18_Amethyst_Fragment", 25})
+;
+(Table[2]):SetCaution("7¡¶∑√ ¿ÃªÛ¿« ±◊∑π¿Ã øÔ«¡ ∏¡≈‰, ∏”«√∑Øø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿œπ› ¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 100%")
+;
+(((Table[2]).Slot)[3]):SetRequire(100000, {"Ep18_Amethyst_Fragment", 15})
+;
+(((Table[2]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[2]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[2]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[2]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_1", 13666)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_1", 13667)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_1", 13667)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_1", 13666)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_1", 13667)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_1", 13667)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_2", 2500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_2", 2500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_2", 2500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_2", 2500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_2", 2500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_2", 2500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_3", 500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_3", 500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_3", 500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_3", 500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_3", 500)
+;
+(((Table[2]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_3", 500)
+;
+(((Table[2]).Slot)[2]):SetRequire(150000, {"Ep18_Amethyst_Fragment", 25})
+;
+(((Table[2]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[2]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[2]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[2]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Speed_1", 20000)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Caster_1", 20000)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Critical_1", 20000)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Guide_1", 20000)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Speed_2", 4500)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Caster_2", 4500)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Critical_2", 4500)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Guide_2", 4500)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Speed_3", 500)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Caster_3", 500)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Critical_3", 500)
+;
+(((Table[2]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Guide_3", 500)
+;
+(((Table[2]).Slot)[1]):SetRequire(200000, {"Ep18_Amethyst_Fragment", 50})
+;
+(((Table[2]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[2]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[2]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[2]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Above_1", 30033)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Above_2", 3000)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Above_3", 300)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_P_Full_1", 30034)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_P_Full_2", 3000)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_P_Full_3", 300)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_M_Counter_1", 30033)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_M_Counter_2", 3000)
+;
+(((Table[2]).Slot)[1]):SetEnchant(0, "Wolf_Orb_M_Counter_3", 300)
+;
+(((Table[2]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Above_3", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[2]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_P_Full_3", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[2]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_M_Counter_3", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+-- DECOMPILER ERROR at PC2373: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[3] = CreateEnchantInfo()
+;
+(Table[3]):SetSlotOrder(3, 2, 1)
+;
+(Table[3]):AddTargetItem("Gray_W_Boots")
+;
+(Table[3]):AddTargetItem("Gray_W_Shoes")
+;
+(Table[3]):SetCondition(7, 0)
+;
+(Table[3]):ApproveRandomOption(true)
+;
+(Table[3]):SetReset(true, 100000, 100000, {"Ep18_Amethyst_Fragment", 25})
+;
+(Table[3]):SetCaution("7¡¶∑√ ¿ÃªÛ¿« ±◊∑π¿Ã øÔ«¡ ∫Œ√˜, Ω¥¡Óø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿œπ› ¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 100%")
+;
+(((Table[3]).Slot)[3]):SetRequire(100000, {"Ep18_Amethyst_Fragment", 15})
+;
+(((Table[3]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[3]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[3]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[3]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Hp_1", 21500)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Sp_1", 21500)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Heal_1", 21500)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Robust_1", 21500)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Hp_2", 3000)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Sp_2", 3000)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Heal_2", 3000)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Robust_2", 3000)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Hp_3", 500)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Sp_3", 500)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Heal_3", 500)
+;
+(((Table[3]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Robust_3", 500)
+;
+(((Table[3]).Slot)[2]):SetRequire(150000, {"Ep18_Amethyst_Fragment", 25})
+;
+(((Table[3]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[3]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[3]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[3]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Cast_1", 30033)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Cast_2", 3000)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Cast_3", 300)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_M_F_1", 30034)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_M_F_2", 3000)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_M_F_3", 300)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_P_F_1", 30033)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_P_F_2", 3000)
+;
+(((Table[3]).Slot)[2]):SetEnchant(0, "Wolf_Orb_P_F_3", 300)
+;
+(((Table[3]).Slot)[1]):SetRequire(200000, {"Ep18_Amethyst_Fragment", 50})
+;
+(((Table[3]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[3]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[3]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[3]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[3]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Un_Vit", 16667)
+;
+(((Table[3]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Sp_Int", 16667)
+;
+(((Table[3]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fi_Dex", 16667)
+;
+(((Table[3]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Ov_Str", 16667)
+;
+(((Table[3]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fa_Agi", 16666)
+;
+(((Table[3]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Lu_Luk", 16666)
+;
+(((Table[3]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Un_Vit", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[3]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Sp_Int", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[3]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Fi_Dex", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[3]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Ov_Str", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[3]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Fa_Agi", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[3]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Lu_Luk", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+-- DECOMPILER ERROR at PC2862: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[4] = CreateEnchantInfo()
+;
+(Table[4]):SetSlotOrder(3, 2, 1)
+;
+(Table[4]):AddTargetItem("Gray_W_Pendant")
+;
+(Table[4]):AddTargetItem("Gray_W_Earing")
+;
+(Table[4]):SetCondition(0, 0)
+;
+(Table[4]):ApproveRandomOption(true)
+;
+(Table[4]):SetReset(true, 100000, 100000, {"Ep18_Amethyst_Fragment", 25})
+;
+(Table[4]):SetCaution("±◊∑π¿Ã øÔ«¡ ∆Ê¥¯∆Æ, ¿ÃæÓ∏µø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…(¡¶∑√µµø° µ˚∏• √ﬂ∞°ø…º«¿Ã ¿˚øÎµ«¡ˆ æ Ω¿¥œ¥Ÿ.)\n¿œπ› ¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 100%")
+;
+(((Table[4]).Slot)[3]):SetRequire(100000, {"Ep18_Amethyst_Fragment", 15})
+;
+(((Table[4]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[4]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[4]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[4]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_1", 13617)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_1", 13617)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_1", 13617)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_1", 13617)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_1", 13616)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_1", 13616)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_2", 2550)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_2", 2550)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_2", 2550)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_2", 2550)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_2", 2550)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_2", 2550)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_3", 500)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_3", 500)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_3", 500)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_3", 500)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_3", 500)
+;
+(((Table[4]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_3", 500)
+;
+(((Table[4]).Slot)[2]):SetRequire(150000, {"Ep18_Amethyst_Fragment", 25})
+;
+(((Table[4]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[4]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[4]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[4]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealHP_1", 13800)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealHP_2", 2007)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealHP_3", 400)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealHP_4", 50)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealSP_1", 13800)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealSP_2", 2007)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealSP_3", 400)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealSP_4", 50)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_E_Archer_1", 13800)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_E_Archer_2", 2007)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_E_Archer_3", 400)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_E_Archer_4", 50)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Fatal_1", 13800)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Fatal_2", 2007)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Fatal_3", 400)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Fatal_4", 50)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Spirit_1", 13800)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Spirit_2", 2007)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Spirit_3", 400)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Spirit_4", 50)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Spell_1", 13800)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Spell_2", 2007)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Spell_3", 400)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Spell_4", 50)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_A_Delay_2", 2008)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_A_Delay_3", 400)
+;
+(((Table[4]).Slot)[2]):SetEnchant(0, "Wolf_Orb_A_Delay_4", 50)
+;
+(((Table[4]).Slot)[1]):SetRequire(200000, {"Ep18_Amethyst_Fragment", 50})
+;
+(((Table[4]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[4]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[4]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[4]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Life", 3600)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_M_Heal", 3600)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_A_Force", 3600)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_E_Archer_1", 19200)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fatal_1", 19200)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_F_Spirit_1", 19200)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Spell_1", 19200)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_A_Delay_2", 2000)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_E_Archer_2", 2000)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fatal_2", 2000)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_F_Spirit_2", 2000)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Spell_2", 2000)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_A_Delay_3", 400)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_E_Archer_3", 400)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fatal_3", 400)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_F_Spirit_3", 400)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Spell_3", 400)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_A_Delay_4", 80)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_E_Archer_4", 80)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fatal_4", 80)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_F_Spirit_4", 80)
+;
+(((Table[4]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Spell_4", 80)
+;
+(((Table[4]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Life", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[4]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_M_Heal", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[4]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_A_Force", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[4]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_E_Archer_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[4]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Fatal_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[4]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_F_Spirit_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[4]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Spell_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[4]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_A_Delay_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+-- DECOMPILER ERROR at PC3735: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[5] = CreateEnchantInfo()
+;
+(Table[5]):SetSlotOrder(3, 2, 1)
+;
+(Table[5]):AddTargetItem("Gray_W_Ring")
+;
+(Table[5]):AddTargetItem("Gray_W_Necklace")
+;
+(Table[5]):SetCondition(0, 0)
+;
+(Table[5]):ApproveRandomOption(true)
+;
+(Table[5]):SetReset(true, 100000, 100000, {"Ep18_Amethyst_Fragment", 25})
+;
+(Table[5]):SetCaution("±◊∑π¿Ã øÔ«¡ ∏µ, ≥◊≈¨∏ÆΩ∫ø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…(¡¶∑√µµø° µ˚∏• √ﬂ∞°ø…º«¿Ã ¿˚øÎµ«¡ˆ æ Ω¿¥œ¥Ÿ.)\n¿œπ› ¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 100%")
+;
+(((Table[5]).Slot)[3]):SetRequire(100000, {"Ep18_Amethyst_Fragment", 15})
+;
+(((Table[5]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[5]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[5]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[5]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_1", 13617)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_1", 13617)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_1", 13617)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_1", 13617)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_1", 13616)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_1", 13616)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_2", 2550)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_2", 2550)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_2", 2550)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_2", 2550)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_2", 2550)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_2", 2550)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Str_3", 500)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Dex_3", 500)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Agi_3", 500)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Int_3", 500)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_Vit_3", 500)
+;
+(((Table[5]).Slot)[3]):SetEnchant(0, "Wolf_Orb_luk_3", 500)
+;
+(((Table[5]).Slot)[2]):SetRequire(150000, {"Ep18_Amethyst_Fragment", 25})
+;
+(((Table[5]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[5]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[5]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[5]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealHP_1", 13800)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealHP_2", 2007)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealHP_3", 400)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealHP_4", 50)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealSP_1", 13800)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealSP_2", 2007)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealSP_3", 400)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_HealSP_4", 50)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_E_Archer_1", 13800)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_E_Archer_2", 2007)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_E_Archer_3", 400)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_E_Archer_4", 50)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Fatal_1", 13800)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Fatal_2", 2007)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Fatal_3", 400)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Fatal_4", 50)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Spirit_1", 13800)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Spirit_2", 2007)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Spirit_3", 400)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_F_Spirit_4", 50)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Spell_1", 13800)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Spell_2", 2007)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Spell_3", 400)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_Spell_4", 50)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_A_Delay_2", 2008)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_A_Delay_3", 400)
+;
+(((Table[5]).Slot)[2]):SetEnchant(0, "Wolf_Orb_A_Delay_4", 50)
+;
+(((Table[5]).Slot)[1]):SetRequire(200000, {"Ep18_Amethyst_Fragment", 50})
+;
+(((Table[5]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[5]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[5]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[5]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Soul", 3600)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_M_Soul", 3600)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_A_Force", 3600)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_E_Archer_1", 19200)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fatal_1", 19200)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_F_Spirit_1", 19200)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Spell_1", 19200)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_A_Delay_2", 2000)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_E_Archer_2", 2000)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fatal_2", 2000)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_F_Spirit_2", 2000)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Spell_2", 2000)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_A_Delay_3", 400)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_E_Archer_3", 400)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fatal_3", 400)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_F_Spirit_3", 400)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Spell_3", 400)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_A_Delay_4", 80)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_E_Archer_4", 80)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Fatal_4", 80)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_F_Spirit_4", 80)
+;
+(((Table[5]).Slot)[1]):SetEnchant(0, "Wolf_Orb_Spell_4", 80)
+;
+(((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Soul", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_M_Soul", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_A_Force", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_E_Archer_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Fatal_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_F_Spirit_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_Spell_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+;
+(((Table[5]).Slot)[1]):AddPerfectEnchant("Wolf_Orb_A_Delay_4", 10000000, {"Ep18_Amethyst_Fragment", 2500})
+-- DECOMPILER ERROR at PC4608: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[6] = CreateEnchantInfo()
+;
+(Table[6]):SetSlotOrder(0)
+;
+(Table[6]):AddTargetItem("Cherryblossom_Fan")
+;
+(Table[6]):SetCondition(0, 0)
+;
+(Table[6]):ApproveRandomOption(true)
+;
+(Table[6]):SetReset(true, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[6]):SetCaution("2021 ∫Ω≤… ¿Ã∫•∆Æ æ∆¿Ã≈€ ¿Œ√¶∆Æ\n±‚∫ª º∫∞¯»Æ∑¸ 100%\n√ ±‚»≠ »Æ∑¸ 100% Ω«∆–Ω√ ∆ƒ±´æ»µ ")
+;
+(((Table[6]).Slot)[0]):SetRequire(10000, {"Small_Spray_Of_Flowers", 5})
+;
+(((Table[6]).Slot)[0]):SetSuccessRate(100000)
+;
+(((Table[6]).Slot)[0]):SetGradeBonus(1, 0)
+;
+(((Table[6]).Slot)[0]):SetGradeBonus(2, 0)
+;
+(((Table[6]).Slot)[0]):SetGradeBonus(3, 0)
+;
+(((Table[6]).Slot)[0]):SetEnchant(0, "Spring_Energy_1", 50000)
+;
+(((Table[6]).Slot)[0]):SetEnchant(0, "Spring_Warmth_1", 50000)
+;
+(((Table[6]).Slot)[0]):AddUpgradeEnchant("Spring_Energy_1", "Spring_Energy_2", 10000, {"Small_Spray_Of_Flowers", 10})
+;
+(((Table[6]).Slot)[0]):AddUpgradeEnchant("Spring_Energy_2", "Spring_Energy_3", 10000, {"Small_Spray_Of_Flowers", 15})
+;
+(((Table[6]).Slot)[0]):AddUpgradeEnchant("Spring_Warmth_1", "Spring_Warmth_2", 10000, {"Small_Spray_Of_Flowers", 10})
+;
+(((Table[6]).Slot)[0]):AddUpgradeEnchant("Spring_Warmth_2", "Spring_Warmth_3", 10000, {"Small_Spray_Of_Flowers", 15})
+-- DECOMPILER ERROR at PC4774: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[7] = CreateEnchantInfo()
+;
+(Table[7]):SetSlotOrder(3, 2, 1)
+;
+(Table[7]):AddTargetItem("Star_Armor_Of_Pow")
+;
+(Table[7]):SetCondition(9, 0)
+;
+(Table[7]):ApproveRandomOption(true)
+;
+(Table[7]):SetReset(true, 80000, 1000000, {"Meteorite_Dust", 10})
+;
+(Table[7]):SetCaution("9¡¶∑√ »˚¿« º∫øÓ æ∆∏”ø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[7]).Slot)[3]):SetRequire(50000, {"Meteorite_Dust", 5})
+;
+(((Table[7]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[7]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[7]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[7]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[7]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[7]).Slot)[2]):SetRequire(100000, {"Pow_Meteorite_Dust", 5})
+;
+(((Table[7]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[7]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[7]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[7]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP1", 14000)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP2", 2400)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP3", 200)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL3", 300)
+;
+(((Table[7]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP3", 300)
+;
+(((Table[7]).Slot)[1]):SetRequire(1000000, {"Pow_Meteorite_Fragment", 5})
+;
+(((Table[7]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[7]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[7]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[7]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow1", 42000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow2", 7200)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow3", 900)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow1", 42000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow2", 7200)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow3", 900)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow1", 42000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow2", 7200)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow3", 900)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow1", 42000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow2", 7200)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow3", 900)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow1", 42000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow2", 7200)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow3", 900)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[7]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis3", 300)
+-- DECOMPILER ERROR at PC7785: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[8] = CreateEnchantInfo()
+;
+(Table[8]):SetSlotOrder(3, 2, 1)
+;
+(Table[8]):AddTargetItem("Star_Armor_Of_Sta")
+;
+(Table[8]):SetCondition(9, 0)
+;
+(Table[8]):ApproveRandomOption(true)
+;
+(Table[8]):SetReset(true, 80000, 1000000, {"Meteorite_Dust", 10})
+;
+(Table[8]):SetCaution("9¡¶∑√ √º∑¬¿« º∫øÓ æ∆∏”ø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[8]).Slot)[3]):SetRequire(50000, {"Meteorite_Dust", 5})
+;
+(((Table[8]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[8]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[8]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[8]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[8]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[8]).Slot)[2]):SetRequire(100000, {"Sta_Meteorite_Dust", 5})
+;
+(((Table[8]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[8]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[8]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[8]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP1", 14000)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP2", 2400)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP3", 200)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL3", 300)
+;
+(((Table[8]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP3", 300)
+;
+(((Table[8]).Slot)[1]):SetRequire(1000000, {"Sta_Meteorite_Fragment", 5})
+;
+(((Table[8]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[8]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[8]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[8]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta1", 42000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta2", 7200)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta3", 900)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta1", 42000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta2", 7200)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta3", 900)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta1", 42000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta2", 7200)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta3", 900)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta1", 42000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta2", 7200)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta3", 900)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta1", 42000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta2", 7200)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta3", 900)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[8]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis3", 300)
+-- DECOMPILER ERROR at PC10796: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[9] = CreateEnchantInfo()
+;
+(Table[9]):SetSlotOrder(3, 2, 1)
+;
+(Table[9]):AddTargetItem("Star_Suit_Of_Con")
+;
+(Table[9]):SetCondition(9, 0)
+;
+(Table[9]):ApproveRandomOption(true)
+;
+(Table[9]):SetReset(true, 80000, 1000000, {"Meteorite_Dust", 10})
+;
+(Table[9]):SetCaution("9¡¶∑√ πŒ√∏¿« º∫øÓ Ω¥√˜ø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[9]).Slot)[3]):SetRequire(50000, {"Meteorite_Dust", 5})
+;
+(((Table[9]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[9]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[9]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[9]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[9]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[9]).Slot)[2]):SetRequire(100000, {"Con_Meteorite_Dust", 5})
+;
+(((Table[9]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[9]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[9]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[9]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP1", 14000)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP2", 2400)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP3", 200)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL3", 300)
+;
+(((Table[9]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP3", 300)
+;
+(((Table[9]).Slot)[1]):SetRequire(1000000, {"Con_Meteorite_Fragment", 5})
+;
+(((Table[9]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[9]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[9]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[9]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con1", 42000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con2", 7200)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con3", 900)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con1", 42000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con2", 7200)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con3", 900)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con1", 42000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con2", 7200)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con3", 900)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con1", 42000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con2", 7200)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con3", 900)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con1", 42000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con2", 7200)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con3", 900)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[9]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis3", 300)
+-- DECOMPILER ERROR at PC13807: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[10] = CreateEnchantInfo()
+;
+(Table[10]):SetSlotOrder(3, 2, 1)
+;
+(Table[10]):AddTargetItem("Star_Suit_Of_Crt")
+;
+(Table[10]):SetCondition(9, 0)
+;
+(Table[10]):ApproveRandomOption(true)
+;
+(Table[10]):SetReset(true, 80000, 1000000, {"Meteorite_Dust", 10})
+;
+(Table[10]):SetCaution("9¡¶∑√ «‡øÓ¿« º∫øÓ Ω¥√˜ø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[10]).Slot)[3]):SetRequire(50000, {"Meteorite_Dust", 5})
+;
+(((Table[10]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[10]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[10]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[10]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[10]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[10]).Slot)[2]):SetRequire(100000, {"Crt_Meteorite_Dust", 5})
+;
+(((Table[10]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[10]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[10]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[10]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP1", 14000)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP2", 2400)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP3", 200)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL3", 300)
+;
+(((Table[10]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP3", 300)
+;
+(((Table[10]).Slot)[1]):SetRequire(1000000, {"Crt_Meteorite_Fragment", 5})
+;
+(((Table[10]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[10]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[10]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[10]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt1", 42000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis1", 7600)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt2", 7200)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt3", 900)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt1", 42000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis1", 7600)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt2", 7200)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt3", 900)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt1", 42000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis1", 7600)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt2", 7200)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt3", 900)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt1", 42000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis1", 7600)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt2", 7200)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt3", 900)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt1", 42000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis1", 7600)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt2", 7200)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt3", 900)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[10]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis3", 300)
+-- DECOMPILER ERROR at PC16818: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[11] = CreateEnchantInfo()
+;
+(Table[11]):SetSlotOrder(3, 2, 1)
+;
+(Table[11]):AddTargetItem("Star_Robe_Of_Spl")
+;
+(Table[11]):SetCondition(9, 0)
+;
+(Table[11]):ApproveRandomOption(true)
+;
+(Table[11]):SetReset(true, 80000, 1000000, {"Meteorite_Dust", 10})
+;
+(Table[11]):SetCaution("9¡¶∑√ ¡ˆ«˝¿« º∫øÓ ∑Œ∫Íø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[11]).Slot)[3]):SetRequire(50000, {"Meteorite_Dust", 5})
+;
+(((Table[11]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[11]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[11]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[11]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[11]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[11]).Slot)[2]):SetRequire(100000, {"Spl_Meteorite_Dust", 5})
+;
+(((Table[11]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[11]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[11]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[11]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP1", 14000)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP2", 2400)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP3", 200)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL3", 300)
+;
+(((Table[11]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP3", 300)
+;
+(((Table[11]).Slot)[1]):SetRequire(1000000, {"Spl_Meteorite_Fragment", 5})
+;
+(((Table[11]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[11]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[11]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[11]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl1", 42000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl2", 7200)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl3", 900)
+;
+(((Table[11]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl1", 42000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl2", 7200)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl3", 900)
+;
+(((Table[11]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl1", 42000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl2", 7200)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl3", 900)
+;
+(((Table[11]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl1", 42000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl2", 7200)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl3", 900)
+;
+(((Table[11]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl1", 42000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis1", 7700)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl2", 7200)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis2", 2000)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl3", 900)
+;
+(((Table[11]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis3", 300)
+-- DECOMPILER ERROR at PC19829: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[12] = CreateEnchantInfo()
+;
+(Table[12]):SetSlotOrder(3, 2, 1)
+;
+(Table[12]):AddTargetItem("Star_Robe_Of_Wis")
+;
+(Table[12]):SetCondition(9, 0)
+;
+(Table[12]):ApproveRandomOption(true)
+;
+(Table[12]):SetReset(true, 80000, 1000000, {"Meteorite_Dust", 10})
+;
+(Table[12]):SetCaution("9¡¶∑√ ¡§Ω≈¿« º∫øÓ ∑Œ∫Íø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[12]).Slot)[3]):SetRequire(50000, {"Meteorite_Dust", 5})
+;
+(((Table[12]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[12]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[12]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[12]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[12]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[12]).Slot)[2]):SetRequire(100000, {"Wis_Meteorite_Dust", 5})
+;
+(((Table[12]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[12]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[12]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[12]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_FS3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_EA3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_SH3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_SP3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_HL3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(0, "Nebula_Of_HP3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_FS3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_EA3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_SH3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_SP3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_HL3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(1, "Nebula_Of_HP3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_FS3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_EA3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_SH3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_SP3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_HL3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(2, "Nebula_Of_HP3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_FS3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_EA3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_SH3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_SP3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_HL3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(3, "Nebula_Of_HP3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP1", 14000)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP2", 2400)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_FS3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_EA3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_SH3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_SP3", 200)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_HL3", 300)
+;
+(((Table[12]).Slot)[2]):SetEnchant(4, "Nebula_Of_HP3", 300)
+;
+(((Table[12]).Slot)[1]):SetRequire(1000000, {"Wis_Meteorite_Fragment", 5})
+;
+(((Table[12]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[12]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[12]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[12]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis1", 42000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis2", 7200)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(0, "Star_Cluster_Of_Wis3", 900)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis1", 42000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis2", 7200)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(1, "Star_Cluster_Of_Wis3", 900)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis1", 42000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis2", 7200)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(2, "Star_Cluster_Of_Wis3", 900)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis1", 42000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis2", 7200)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(3, "Star_Cluster_Of_Wis3", 900)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt1", 7600)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl1", 7700)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis1", 42000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl2", 2000)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis2", 7200)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Pow3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Sta3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Con3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Crt3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Spl3", 300)
+;
+(((Table[12]).Slot)[1]):SetEnchant(4, "Star_Cluster_Of_Wis3", 900)
+-- DECOMPILER ERROR at PC22840: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[13] = CreateEnchantInfo()
+;
+(Table[13]):SetSlotOrder(3, 2)
+;
+(Table[13]):AddTargetItem("Signet_Of_Pow_Star")
+;
+(Table[13]):AddTargetItem("Signet_Of_Sta_Star")
+;
+(Table[13]):AddTargetItem("Signet_Of_Con_Star")
+;
+(Table[13]):AddTargetItem("Signet_Of_Crt_Star")
+;
+(Table[13]):AddTargetItem("Signet_Of_Spl_Star")
+;
+(Table[13]):AddTargetItem("Signet_Of_Wis_Star")
+;
+(Table[13]):SetCondition(0, 0)
+;
+(Table[13]):ApproveRandomOption(true)
+;
+(Table[13]):SetReset(true, 80000, 500000, {"Meteorite_Dust", 30})
+;
+(Table[13]):SetCaution("∫∞¿« ¿Œ¿Âø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[13]).Slot)[3]):SetRequire(300000, {"Meteorite_Fragment", 5})
+;
+(((Table[13]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[13]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[13]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[13]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "∏∂∑¬3", 10000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "∏Ì±√3", 10050)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "≈ı¡ˆ3", 10050)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "√∑øπ3", 10050)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "∏∂∑¬4", 1750)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "∏Ì±√4", 1750)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "≈ı¡ˆ4", 1750)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "√∑øπ4", 1750)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Mettle1", 4000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_MasterArcher1", 4000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Sharp1", 4000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spell1", 4000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Speed1", 4000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Vital1", 4000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spirit1", 4000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Mettle2", 2000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_MasterArcher2", 2000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Sharp2", 2000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spell2", 2000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Speed2", 2000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Vital2", 2000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spirit2", 2000)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Mettle3", 1250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_MasterArcher3", 1250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Sharp3", 1250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spell3", 1250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Speed3", 1250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Vital3", 1250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spirit3", 1250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Mettle4", 250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_MasterArcher4", 250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Sharp4", 250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spell4", 250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Speed4", 250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Vital4", 250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spirit4", 250)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Mettle5", 50)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_MasterArcher5", 50)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Sharp5", 50)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spell5", 50)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Speed5", 50)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Vital5", 50)
+;
+(((Table[13]).Slot)[3]):SetEnchant(0, "Star_Of_Spirit5", 50)
+;
+(((Table[13]).Slot)[2]):SetRequire(500000, {"Meteorite_Fragment", 10})
+;
+(((Table[13]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[13]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[13]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[13]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "∏∂∑¬3", 10000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "∏Ì±√3", 10050)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "≈ı¡ˆ3", 10050)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "√∑øπ3", 10050)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "∏∂∑¬4", 1750)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "∏Ì±√4", 1750)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "≈ı¡ˆ4", 1750)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "√∑øπ4", 1750)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Mettle1", 4000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_MasterArcher1", 4000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Sharp1", 4000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spell1", 4000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Speed1", 4000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Vital1", 4000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spirit1", 4000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Mettle2", 2000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_MasterArcher2", 2000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Sharp2", 2000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spell2", 2000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Speed2", 2000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Vital2", 2000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spirit2", 2000)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Mettle3", 1250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_MasterArcher3", 1250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Sharp3", 1250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spell3", 1250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Speed3", 1250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Vital3", 1250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spirit3", 1250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Mettle4", 250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_MasterArcher4", 250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Sharp4", 250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spell4", 250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Speed4", 250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Vital4", 250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spirit4", 250)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Mettle5", 50)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_MasterArcher5", 50)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Sharp5", 50)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spell5", 50)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Speed5", 50)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Vital5", 50)
+;
+(((Table[13]).Slot)[2]):SetEnchant(0, "Star_Of_Spirit5", 50)
+-- DECOMPILER ERROR at PC23969: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[14] = CreateEnchantInfo()
+;
+(Table[14]):SetSlotOrder(0)
+;
+(Table[14]):AddTargetItem("Limesoda_In_Mouth")
+;
+(Table[14]):SetCondition(0, 0)
+;
+(Table[14]):ApproveRandomOption(true)
+;
+(Table[14]):SetReset(true, 100000, 10000, {"¿Ã±€¿Ã±€±∏ΩΩ", 1}, {"»≤±›ø¡ºˆºˆ", 5}, {"∏ˆø°¡¡¿∫«„∫Í", 5})
+;
+(Table[14]):SetCaution("2021 ø©∏ß ∆Àƒ‹ ¿Ã∫•∆Æ æ∆¿Ã≈€ ¿Œ√¶∆Æ\n±‚∫ª º∫∞¯»Æ∑¸ 100%\n√ ±‚»≠ »Æ∑¸ 100% Ω«∆–Ω√ ∆ƒ±´æ»µ ")
+;
+(((Table[14]).Slot)[0]):SetRequire(10000, {"¿Ã±€¿Ã±€±∏ΩΩ", 1}, {"»≤±›ø¡ºˆºˆ", 5}, {"∏ˆø°¡¡¿∫«„∫Í", 5})
+;
+(((Table[14]).Slot)[0]):SetSuccessRate(100000)
+;
+(((Table[14]).Slot)[0]):SetGradeBonus(1, 0)
+;
+(((Table[14]).Slot)[0]):SetGradeBonus(2, 0)
+;
+(((Table[14]).Slot)[0]):SetGradeBonus(3, 0)
+;
+(((Table[14]).Slot)[0]):SetEnchant(0, "Summer_Hot_Lv1", 50000)
+;
+(((Table[14]).Slot)[0]):SetEnchant(0, "Summer_Cool_Lv1", 50000)
+;
+(((Table[14]).Slot)[0]):AddUpgradeEnchant("Summer_Hot_Lv1", "Summer_Hot_Lv2", 50000, {"¿Ã±€¿Ã±€±∏ΩΩ", 3}, {"»≤±›ø¡ºˆºˆ", 10}, {"∏ˆø°¡¡¿∫«„∫Í", 10})
+;
+(((Table[14]).Slot)[0]):AddUpgradeEnchant("Summer_Hot_Lv2", "Summer_Hot_Lv3", 100000, {"¿Ã±€¿Ã±€±∏ΩΩ", 5}, {"»≤±›ø¡ºˆºˆ", 15}, {"∏ˆø°¡¡¿∫«„∫Í", 15})
+;
+(((Table[14]).Slot)[0]):AddUpgradeEnchant("Summer_Cool_Lv1", "Summer_Cool_Lv2", 50000, {"¿Ã±€¿Ã±€±∏ΩΩ", 3}, {"»≤±›ø¡ºˆºˆ", 10}, {"∏ˆø°¡¡¿∫«„∫Í", 10})
+;
+(((Table[14]).Slot)[0]):AddUpgradeEnchant("Summer_Cool_Lv2", "Summer_Cool_Lv3", 100000, {"¿Ã±€¿Ã±€±∏ΩΩ", 5}, {"»≤±›ø¡ºˆºˆ", 15}, {"∏ˆø°¡¡¿∫«„∫Í", 15})
+

@@ -1,0 +1,18 @@
+loadingscreen#
+5#
+
+weather#prontera.rsw#sakura#
+weather#amatsu.rsw#sakura#
+
+//weather#prontera.rsw#snow#
+//weather#izlude.rsw#snow#
+//weather#geffen.rsw#snow#
+//weather#aldebaran.rsw#snow#
+//weather#alberta.rsw#snow#
+//weather#payon.rsw#snow#
+//weather#yuno.rsw#snow#
+//weather#lighthalzen.rsw#snow#
+//weather#hugel.rsw#snow#
+//event#1#
+
+//file end 
