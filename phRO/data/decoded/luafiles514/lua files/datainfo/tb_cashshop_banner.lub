@@ -1,0 +1,24 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\datainfo\tb_cashshop_banner.lub 
+
+-- params : ...
+-- function num : 0
+tb_cashshop_banner = {
+[1] = {"2021-04_gachapon.bmp", "https://roextreme.com/msp/news/gachapon-system"}
+, 
+[2] = {"2021-06_osm1.bmp", "https://roextreme.com/msp/news/patch-notes-02062021"}
+, 
+[3] = {"2021-06_osm2.bmp", "https://roextreme.com/msp/news/patch-notes-10062021"}
+, 
+[4] = {"2021-06_apple1.bmp", "https://roextreme.com/msp/news/patch-notes-17062021"}
+, 
+[5] = {"2021-06_apple2.bmp", "https://roextreme.com/msp/news/patch-notes-17062021"}
+}
+set_cashshop_banner = function()
+  -- function num : 0_0
+  for key,value in ipairs(tb_cashshop_banner) do
+    add_cashshop_banner(value[1], value[2])
+  end
+end
+
+
