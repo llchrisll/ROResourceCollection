@@ -1,5 +1,5 @@
 loadingscreen#
-5#
+8#
 
 //クリスマスデコレーション
 //event#

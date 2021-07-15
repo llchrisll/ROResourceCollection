@@ -6689,6 +6689,102 @@ MonsterEff = {EFFECT.EF_LEVEL99_3}
 [21479] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_LEVEL99_3}
 }
+, 
+[21480] = {MonsterSize = 0.8, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21481] = {MonsterSize = 0.8, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21482] = {MonsterSize = 0.8, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21483] = {MonsterSize = 0.8, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21484] = {MonsterSize = 0.9, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21485] = {MonsterSize = 0.9, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21486] = {MonsterSize = 0.9, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21487] = {MonsterSize = 0.9, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21488] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21489] = {MonsterSize = 0.9, 
+MonsterEff = {EFFECT.EF_GRAYBODY}
+}
+, 
+[21490] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21491] = {MonsterSize = 0.9, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21492] = {MonsterSize = 0.9, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21493] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21494] = {MonsterSize = 1.1, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21495] = {MonsterSize = 1.1, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21496] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21497] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING, EFFECT.EF_SUPER_STAR, EFFECT.EF_ANGELUS}
+}
+, 
+[21503] = {MonsterSize = 0.8, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21504] = {MonsterSize = 3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21505] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21506] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21507] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21508] = {MonsterSize = 3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
 }
 main = function()
   -- function num : 0_0

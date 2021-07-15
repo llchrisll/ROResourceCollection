@@ -1,0 +1,78 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\mapeffectinfo\mapeffecttable.lub 
+
+-- params : ...
+-- function num : 0
+Map_Effect_Table = {
+["pab_camp.rsw"] = {
+BG_Color = {172, 225, 238}
+, Star_Effect = false, 
+Cloud_Effect = {}
+}
+}
+is_use_custom_effect = function(in_map_name)
+  -- function num : 0_0
+  for map_name,info in pairs(Map_Effect_Table) do
+    if in_map_name == map_name then
+      return true
+    end
+  end
+  return false
+end
+
+get_map_effect_table = function(in_map_name)
+  -- function num : 0_1
+  for map_name,info in pairs(Map_Effect_Table) do
+    if in_map_name == map_name then
+      return info
+    end
+  end
+  return nil
+end
+
+get_bg_color = function(in_map_name)
+  -- function num : 0_2
+  local info = get_map_effect_table(in_map_name)
+  if info ~= nil then
+    return (info.BG_Color)[1], (info.BG_Color)[2], (info.BG_Color)[3]
+  else
+    return 0, 0, 0
+  end
+  return 0, 0, 0
+end
+
+is_draw_star = function(in_map_name)
+  -- function num : 0_3
+  local info = get_map_effect_table(in_map_name)
+  if info ~= nil then
+    return info.Star_Effect
+  end
+  return false
+end
+
+get_cloud_effect_count = function(in_map_name)
+  -- function num : 0_4
+  local info = get_map_effect_table(in_map_name)
+  if info ~= nil then
+    return #info.Cloud_Effect
+  end
+  return 0
+end
+
+get_cloud_effect_info = function(in_map_name, in_index)
+  -- function num : 0_5
+  local info = get_map_effect_table(in_map_name)
+  do
+    if info ~= nil then
+      local cloud = (info.Cloud_Effect)[in_index]
+      if cloud ~= nil then
+        return cloud.Count, cloud.Size_Basic, cloud.Size_Add, cloud.Expand_Rate, (cloud.Color)[1], (cloud.Color)[2], (cloud.Color)[3], cloud.Alpha_Increase_Process, cloud.Alpha_Decrease_Process, cloud.Alpha_Decrease_Process_Add, cloud.Alpha_Increase_Speed, cloud.Alpha_Decrease_Speed, cloud.Pos_XZ, cloud.Pos_Y, cloud.Gap_XZ, cloud.Gap_Y
+      else
+        return nil
+      end
+    end
+    return nil
+  end
+end
+
+

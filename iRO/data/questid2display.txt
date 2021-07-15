@@ -4625,99 +4625,6 @@ Vitre#
 The Secret Service have taken Vitre away for Espionage. You should probably go back to Lasda and let him know what happened to Vitre.#
 Lasda Midar#
 
-//----------Gaebolg Family Curse-----------
-18030#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Oh, thank you so much! You don't understand how much I dread those Airships. Now, would you please deliver these books to ^ff0000Mr. Karlomoff^000000 near the Juno Library?"#
-Mr. Karlomoff#
-
-18031#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"It would be a great help to me if you could get this report to her right away. Ah, her name is Rodafrian. I'm certain you can find her somewhere in that desert town."#
-Rodafrian#
-
-18032#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Find Mondo in Mt. Mjolnir. Tell him your version of the story "The great serpent swallowed the sea. The eagle of the rainbow swallowed the serpent. Then the eagle built its nest. A nest upon the swallowed sea."#
-Mondo#
-
-18033#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Ahh, if you want to learn more, then you should try to find the kid that was singing the song. Hmm, he might be around ^3131ddthe river near here^000000. Hopefully it won't be too hard to find him."#
-Dazed Boy#
-
-18034#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Deliver the herbs from the Exhausted-Looking Woman to Father Bamph in Prontera Church.#
-Father Bamph#
-
-18035#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Please visit Bonnie Imbullea in Mount Mjolnir to see if you can learn more about that song, or about what happened after the attempted exorcism of the Jormungand curse."#
-Bonnie Imbullea#
-
-18036#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Head back to Prontera Church and tell Father Bamph what you learned from speaking to Bonnie Imbullea.#
-Father Bamph#
-
-18037#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Come with me, adventurer, to the secret ceremonial grounds for the royal family. Just use the switch hidden within the bookshelf and I will meet you there."#
-Hidden switch#
-
-18038#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-You've examined the body of the king's first son, the crown prince. Examine the body of the second prince.#
-Second prince#
-
-18039#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-You've examined the body of the king's second son. Examine the body of the third prince.#
-Third prince#
-
-18040#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Brave adventurer, would you please visit the Assassin Guild in Morroc and see if you can learn anything about how we can verify whether poison was used to kill the princes?"#
-Assassin Guild#
-
-18041#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"There is an Assassin's Private Pub in the 7 o'clock direction in Morroc. Go find someone named ^3131ffMarjana^000000 inside."#
-Marjana#
-
-18042#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Well, it's easier for me to visit Rodafrian now. She's much closer than Father Bamph, so I guess that I'll go talk to her first."#
-Rodafrian#
-
-18043#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Well, it's more important that I go see Father Bamph and investigate the princes bodies. I better head over to Prontera right away."#
-Father Bamph#
-
-18044#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Drat, she didn't give me any help... All I did was reveal a huge secret to her that she might spread around! Oh well, I guess I better head back to the priests..."#
-Prontera Church#
-
-18045#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Rodafrian seemed very happy and began to read through Karlomoff's report. For now, it would be best to return to Father Bamph."#
-Father Bamph#
-
-18046#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Then, would you please bring 1 Yellow Gemstone and 1 Green Potion to the secret ceremonial grounds as soon as you can? I will wait over there for you once again."#
-1 Yellow Gemstone and 1 Green Potion#
-
-18047#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-The solution worked to remove the scale marks from the princes. Report your findings to Father Bamph.#
-Father Bamph#
-
-18048#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Father Bamph thanks you for helping them find out the truth. Speak to Father Biscuss and relate your findings to him as well.#
-Father Biscuss#
-
-18049#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Father Bamph thanks you for helping them find out the truth. Speak to Bonnie Imbullea and tell her that it was not her fault.#
-Bonnie Imbullea#
-
-18050#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Tell Bonnie Imbullea what you have discovered about the prince's deaths.#
-Bonnie Imbullea#
-
-18051#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-After telling Bonnie Imbullea the truth, you should speak to Rodfrian for the last time.#
-Rodafrian#
-
-18052#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Speak to Father Bamph one more time.#
-#
-
 //--------Broken Matrushka--------
 18060#Missing boy Mikhail#SG_FEEL#QUE_GALLINA#
 You have agreed to find the Gallina's timid son Mikhail. He couldn't have gone far, search around and see if he is hiding somewhere.#
@@ -6289,7 +6196,7 @@ The old man in the village said that there is girl who shows up in the same plac
 #
 
 //-----------2009 A training place for novice
-		#Your first quest!#SG_FEEL#QUE_NOIMAGE#
+7117#Your first quest!#SG_FEEL#QUE_NOIMAGE#
 Cross the bridge to the right. Go through the castle entrance, into the Training Center, and talk to Sprakki inside.#
 #
 
@@ -25260,3 +25167,273 @@ Happy Pet Vending Machine#
 63715#Corridor of Phantom#SG_FEEL#QUE_NOIMAGE#
 <NAVI>[Phantom's Spirit]<INFO>comodo,214,186,0,101,0</INFO></NAVI> gives away sells Phantom Ticket to play the corridor for two hours once a day.#
 #
+
+
+8280#I don't look good in bells.#SG_FEEL#QUE_NOIMAGE#
+Get advices from Tortell, Couscous, Coco, and Ravi Ravi and go back to Olive Olive.#
+Talking to Dorams#
+
+8281#Poor thing#SG_FEEL#QUE_NOIMAGE#
+Tortell comforted you greatly when the bells didn't match.#
+#
+
+8282#Let me help you#SG_FEEL#QUE_NOIMAGE#
+Couscous suggested putting flowers on the bell.#
+#
+
+8283#With all one's wits#SG_FEEL#QUE_NOIMAGE#
+Coco tried to trick you once again after being bewitched by Olive Olive, but she is not a bad cat.#
+#
+
+8284#I'm gonna put a bell on you.#SG_FEEL#QUE_NOIMAGE#
+If you have 10 Fluff, Ravi Ravi will find the way to match bell on you.#
+10 Fluff#
+
+
+8285#To those who face the new spring#SG_FEEL#QUE_NOIMAGE#
+Arles ask you to bring ^4d4dff15 Spray of Flower^000000 from ^4d4dffFlower Tree Aura^000000 near Flower Tree for students.#
+15 Spray of Flowers# 
+
+8286#To those who face a new beginning#SG_FEEL#QUE_NOIMAGE#
+At Arles' request, Arles' disciples Seminy, Lysony, and Lumaca must each be delivered 5 Spray of Flowers.#
+Spray of Flowers Delivery#
+
+
+8287#Spray of Flowers Delivery to Seminy#SG_FEEL#QUE_NOIMAGE#
+Delivery to Seminy#
+#
+
+8288#Spray of Flowers Delivery to Lysony#SG_FEEL#QUE_NOIMAGE#
+Delivery to Lysony#
+#
+
+8289#Spray of Flowers Delivery to Lumaca#SG_FEEL#QUE_NOIMAGE#
+Delivery to Lumaca#
+#
+
+8311#We are hosting a big Melon Contest#SG_FEEL#QUE_NOIMAGE#
+Have you heard about Suspicious Melon.#
+#
+8312#We are hosting a big Melon Contest-Stand by#SG_FEEL#QUE_NOIMAGE#
+Suspicious melong size has been measured. We should try tomorrow again.#
+#
+
+
+8530#I will grind melons for you.#SG_FEEL#QUE_NOIMAGE#
+Sweet Melon Juice will be provided if Lavender brings 10 of Sweet Melons to Dalcom.#
+Bring 10 Sweet Melons#
+8531#Go to Aldebaran to find Flour#SG_FEEL#QUE_NOIMAGE#
+Lavender asked for organic flour, milk, and sweet melon. There is a man who is ready to sell organic flour in Aldeberan.#
+Chat with mysterious merchant#
+8532#Deliver Flour to Lavender#SG_FEEL#QUE_NOIMAGE#
+We've got flour. Let's bring milk and sweet melon to Lavender in Geffen.#
+Deliver flour to Lavender#
+8533#Melon Festival Hat(1)#SG_FEEL#QUE_NOIMAGE#
+Lavender's cousin 'Nannabi' is collecting Dalcom Skin. According to Lavender, probably we can make a special hat.#
+Chat with Nannabi#
+8534#Melon Festival Hat(2)#SG_FEEL#QUE_NOIMAGE#
+Geffen's Nannabi is having a problem with making a hat since there is not enough Dalcom skins. Let's bring 30 skins to him.#
+Deliver 30 Dalcom Skins#
+
+
+
+
+
+// The last update 14. 9. 17
+//-- Do not delete 1
+1#Blank#SG_FEEL#QUE_NOIMAGE#
+Turtle#
+Shell#
+
+
+// ===== TE God Item Upgrade Ganbantein
+14182#Talk to him again#SG_FEEL#QUE_NOIMAGE#
+I think I signed a suspicious document. Let's ask Feynman for sure!#
+Signature#
+
+14183#1st Item#SG_FEEL#QUE_NOIMAGE#
+Material : 2 Ripple, 2 Omen of Tempest, 2 Drifting Air, 2 Freya's Jewel, 2 Cat Tread, 1 Dusk Glow, and 1 Dawn Essence / Meet Feynman's student and listen to monster information to defeat at Valkyrie Realm#
+Item and Monster#
+
+14184#Next step#SG_FEEL#QUE_NOIMAGE#
+We made first item, Faith Silence. What is next step?#
+To Feynman#
+
+14185#2nd Item#SG_FEEL#QUE_NOIMAGE#
+Material : 2 Silver Ornament, 2 Snow Crystal, 2 Feather of Angel Wing, 2 Sputum of Bird, 2 Root of Stone, 1 Cold Moonlight, and 1 Hazy Starlight / Meet Feynman's student and listen to monster information to defeat at Britoniah#
+Item and Monster#
+
+14186#Next trial?#SG_FEEL#QUE_NOIMAGE#
+After many twists and turns, we made White snake's scales. I wonder what kind of trials will wait next. Let's ask Feynman.#
+To Feynman#
+
+14187#3rd Item#SG_FEEL#QUE_NOIMAGE#
+50 Flame Hearts and 150 Dwarf's Sweat that can be obtained by opening the treasure box on guild dungeon.#
+Required Items#
+
+14188#Next penance?#SG_FEEL#QUE_NOIMAGE#
+After all the hard work, we made Treasure Dwarf. Let's go to Feynman because I wonder what the next penance is.#
+To Feynman#
+
+14189#4th Monster#SG_FEEL#QUE_NOIMAGE#
+If you defeat 500 Zakudam, 500 Hell Apocalypse, and 300 Cobalt Mineral on Nidhoggu, you can get a Ganbantein!#
+Hunt Monsters!#
+
+
+
+// ===== TE God Item Upgrade Alvitr
+
+14190#Talk to him again#SG_FEEL#QUE_NOIMAGE#
+I think I signed a suspicious document. Let's ask Feynman for sure!#
+Signature#
+
+14191#1st Item#SG_FEEL#QUE_NOIMAGE#
+Material : 2 Breath of Spirit, 2 Spirit of Fish, 2 Thor's Gauntlets, 2 Iron Maiden, 2 Wheel of the Unknown, 1 Hero's Remains, 1 Goddess Tear, and 1 Valkyrie's Token / Meet Feynman's student and listen to monster information to defeat at Luina#
+Item and Monster#
+
+14192#Next step#SG_FEEL#QUE_NOIMAGE#
+We made first item, Warrior's Tears. What is next step?#
+To Feynman#
+
+14193#2nd Item#SG_FEEL#QUE_NOIMAGE#
+Material : 2 Wrath of Valkyrie, 2 Emblem of the Sun God, 2 Sinew of Bear, 2 Woman's Moustache, 2 Billow, 1 Brynhild Armor Piece, and 1 Andvari's Ring / Meet Feynman's student and listen to monster information to defeat at Balder#
+Item and Monster#
+
+14194#Next trial?#SG_FEEL#QUE_NOIMAGE#
+After many twists and turns, we made Warrior Anger. I wonder what kind of trials will wait next. Let's ask Feynman.#
+To Feynman#
+
+14195#3rd Item#SG_FEEL#QUE_NOIMAGE#
+20 Four Leaf Clover and 150 Warrior's Medal that can be obtained by opening the treasure box on guild dungeon.#
+Required Items#
+
+14196#Next penance?#SG_FEEL#QUE_NOIMAGE#
+After all the hard work, we made Guardian's Flower. Let's go to Feynman because I wonder what the next penance is.#
+To Feynman#
+
+
+14197#4th Monster#SG_FEEL#QUE_NOIMAGE#
+You can make Hervor Alvitr defeating 550 Aunoe, 550 Banshee Master, and 100 Fanat on Valfreyja!#
+Hunt Monsters!#
+
+
+
+// ===== Add
+14198#Monster Defeating#SG_FEEL#QUE_NOIMAGE#
+Let's report to Feynman after defeating the monster that 1st disciple tells us.#
+Hunt Monsters!#
+
+14199#Monster Defeating#SG_FEEL#QUE_NOIMAGE#
+After defeating the monsters taught by 2nd and 3rd disciples, come back and report.#
+Hunt Monsters!#
+
+14200#Monster Defeating#SG_FEEL#QUE_NOIMAGE#
+Let's defeat the missing monsters and report in again.#
+Missing Monsters#
+
+14201#Report to Feynman#SG_FEEL#QUE_NOIMAGE#
+You've defeated all the monsters. Let's check if all the items Feynman told us are there and report to him.#
+To Feynman#
+
+14202#Monster Defeating#SG_FEEL#QUE_NOIMAGE#
+Let's report to Feynman after defeating the monster that 1st disciple tells us.#
+Hunt Monsters!#
+
+14203#Monster Defeating#SG_FEEL#QUE_NOIMAGE#
+After defeating the monsters taught by 2nd and 3rd disciples, come back and report.#
+Hunt Monsters!#
+
+14204#Monster Defeating#SG_FEEL#QUE_NOIMAGE#
+Let's defeat the missing monsters and report in again.#
+Missing Monsters#
+
+14205#Report to Feynman#SG_FEEL#QUE_NOIMAGE#
+You've defeated all the monsters. Let's check if all the items Feynman told us are there and report to him.#
+To Feynman#
+
+14206#Ganbantein complete#SG_FEEL#QUE_NOIMAGE#
+Ganbantein has been made.#
+Ganbantein#
+
+14207#Hervor Alvitr Complete#SG_FEEL#QUE_NOIMAGE#
+Hervor Alvitr has been made.#
+Hervor Alvitr#
+
+12377#Playing weekend dungeon#SG_FEEL#QUE_NOIMAGE#
+This is a token that allows you to enter the Weekend Memorial dungeon. You can enter without restrictions for an hour.#
+Weekend dungeon#
+
+12378#Need to recover from fatigue#SG_FEEL#QUE_NOIMAGE#
+You can't enter the weekend dungeon because of accumulated fatigue. All fatigue will be recovered by midnight.#
+Accumulated Fatigue#
+
+
+12379#Need to recover from fatigue#SG_FEEL#QUE_NOIMAGE#
+You can't enter the friday dungeon because of accumulated fatigue. All fatigue will be recovered by midnight.#
+Accumulated Fatigue#
+
+
+//--- 2017년 6월 팝콘 페스타 --- 안지현
+16161#Hot Monster Hunt|#SG_FEEL#QUE_NOIMAGE#
+Hunt Hot Imp x 10 and Hot Explosion x 10 to get tasty Gold Corn and report back to <NAVI>[Dr. Corn]<INFO>comodo,161,177,0,101,0</INFO></NAVI> with your progress.#
+Report to Dr. Corn#
+   
+16162#Hot Monster Hunt- Stand by#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest that players can repeatedly get after stand by time during the event period. You can get the quest from Dr. Corn at Comodo.#
+Reset at 04:00#
+
+16163#Hot Monster Hunt- Repeat#SG_FEEL#QUE_NOIMAGE#
+Hunt Hot Imp x 10 and Hot Explosion x 10 again to get tasty Gold Corn and report back to <NAVI>[Dr. Corn]<INFO>comodo,161,177,0,101,0</INFO></NAVI> with your progress.#
+Report to Dr. Corn#
+
+16164#About a trip to Corodo#SG_FEEL#QUE_NOIMAGE#
+Corodo Helper <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI>gave me a guide to Corodo. Check the Corodo Trip Sign to go to the island.#
+Check the Corodo Trip Sign#
+
+16165#Corodo the Volcanic Island!#SG_FEEL#QUE_NOIMAGE#
+Corodo Helper [Pakiha] gave me a guide to Corodo. Visit Corodo with Pakiha.#
+Visit Corodo#
+
+16166#Corodo the Volcanic Island! - Stand by#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest that players can repeatedly get after stand by time during the event period. You can get the quest from Corodo Helper at Comodo.#
+Reset at 04:00#
+
+16167#Corodo the Volcanic Island! - Repeat#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16168#Costume Disposable 3D Glasses Rental#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest that players can repeatedly get after stand by time during the event period. Comodo Joy Booster <NAVI>[Yeon]<INFO>comodo,260,126,0,101,0</INFO></NAVI>gives out the quest to the player.#
+Reset at 04:00#
+
+16169#Rent Disposable Popcorn Hat Costume#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest that players can repeatedly get after stand by time during the event period. Comodo Joy Booster <NAVI>[Yeon]<INFO>comodo,260,126,0,101,0</INFO></NAVI>gives out the quest to the player.#
+Reset at 04:00#
+
+16170#Soda In Mouth Costume gift#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16171#Guide of Popcorn Master#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16172#Mighty Fine Bonfire#SG_FEEL#QUE_NOIMAGE#
+You inhaled the good smoke from the herbal bonfire. You can get back to it in 20 minutes.#
+Visit again in 20 minutes#
+
+16173#Wise and Fine Bonfire#SG_FEEL#QUE_NOIMAGE#
+You inhaled the good smoke from the herbal bonfire. You can get back to it in 20 minutes.#
+Visit again in 20 minutes#
+
+16174#Sharp and Fine Bonfire#SG_FEEL#QUE_NOIMAGE#
+You inhaled the good smoke from the herbal bonfire. You can get back to it in 10 minutes.#
+Visit again in 10 minutes#
+
+16175#Summer Solstice Day Bonfire#SG_FEEL#QUE_NOIMAGE#
+You inhaled the good smoke from the herbal bonfire. You can get back to it in 1 hour and 10 minutes.#
+Visit again in 70 minutes#
+
+16176#Summer Solstice Night Bonfire#SG_FEEL#QUE_NOIMAGE#
+You inhaled the good smoke from the herbal bonfire. You can get back to it in 50 minutes.#
+Visit again in 50 minutes#

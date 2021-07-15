@@ -3,7 +3,6 @@ echo Japanese RO Client
 echo -------------------------------
 echo System:
 luadec.exe ".\System\achievement_list.lub" > ".\System\achievement_list.lua"
-luadec.exe ".\System\CheckAttendance.lub" > ".\System\CheckAttendance.lua"
 luadec.exe ".\System\iteminfo.lub" > ".\System\iteminfo.lua"
 luadec.exe ".\System\monster_size_effect.lub" > ".\System\monster_size_effect.lua"
 luadec.exe ".\System\monster_size_effect_new.lub" > ".\System\monster_size_effect_new.lua"

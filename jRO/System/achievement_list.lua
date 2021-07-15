@@ -1125,6 +1125,148 @@ resource = {
 , 
 reward = {title = 2102}
 , score = 1}
+, 
+[500106] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索①」", 
+content = {summary = "ゴールのフロアに到達する", details = "「遺跡群探索」にてゴールのフロアに達した後、　　　「廃亡遺跡群【醒覚ヘオース】」の座標(54,71)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2103}
+, score = 1}
+, 
+[500107] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索②」", 
+content = {summary = "最大到達フロアが規定数以上", details = "「遺跡群探索」にて最大到達フロアが200を超えた後、 「廃亡遺跡群【醒覚ヘオース】」の座標(54,71)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2104}
+, score = 1}
+, 
+[500108] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索③」", 
+content = {summary = "宝箱の開封数が規定数以上", details = "「遺跡群探索」にて宝箱の開封回数が20個を超えた後、「廃亡遺跡群【醒覚ヘオース】」の座標(54,71)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2105}
+, score = 1}
+, 
+[500109] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索④」", 
+content = {summary = "宝箱の開封失敗数が規定数以上", details = "「遺跡群探索」にて宝箱の開封回数で失敗回数が　　　 5個を超えた後、「廃亡遺跡群【醒覚ヘオース】」の 座標(54,71)にいるNPC「記録官」に話しかけて　　　　 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2106}
+, score = 1}
+, 
+[500110] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索⑤」", 
+content = {summary = "シュミッツヘルム仮面を規定数以上利用", details = "「遺跡群探索」にて「シュミッツヘルム仮面」の　　　 利用回数が15回を超えた後、　　　　　　　　　　　 「廃亡遺跡群【醒覚ヘオース】」の座標(54,71)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2107}
+, score = 1}
+, 
+[500111] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索⑥」", 
+content = {summary = "ハードラックと規定数以上遭遇", details = "「遺跡群探索」にて「ハードラック」との遭遇回数が　 13回を超えた後、「廃亡遺跡群【醒覚ヘオース】」の 座標(54,71)にいるNPC「記録官」に話しかけて　　　　 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2108}
+, score = 1}
+, 
+[500112] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索(特別)」", 
+content = {summary = "ヒットクイーン宝箱を討伐する", details = "廃亡遺跡群に出現する「ヒットクイーン宝箱」を　　　 1体討伐する"}
+, 
+resource = {
+[1] = {text = "「ヒットクイーン宝箱」討伐", count = 1}
+}
+, 
+reward = {title = 2109}
+, score = 1}
+, 
+[500113] = {UI_Type = 0, group = "ADVENTURE", major = 4, minor = 0, title = "「最も強き者」", 
+content = {summary = "最も強き者を自分の力だけで倒す。", details = "「深淵の回廊～混血のプリンセス～」を闘技場で挑戦するところまで進めた後、「虚ろわざる剣士」の助けを借りずに真の力を解放した最も強き者を倒し、総合評価1000点を達成する。その後、最も強き者に話を聞く。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2110, item = 31818}
+, score = 1}
+, 
+[500114] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(メロン武器)」", 
+content = {summary = "メロンクッキングでメロン武器を1種類作成する", details = "メロンクッキングで作成したメロン武器を メロンフェスタ会場の座標(112,68)にいる NPC「メロン鑑定士」に見せる。 作成したメロン武器の種類が「1」種類到達で達成。 ※装備したままでは見せられないので注意"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2111}
+, score = 1}
+, 
+[500115] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を1種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(112,68)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「1」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2112}
+, score = 1}
+, 
+[500116] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を2種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(112,68)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「2」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2113}
+, score = 1}
+, 
+[500117] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を3種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(112,68)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「3」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2114}
+, score = 1}
+, 
+[500118] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を5種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(112,68)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「5」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2115}
+, score = 1}
+, 
+[500119] = {UI_Type = 1, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンハンティング」", 
+content = {summary = "「ミニメロリン」と「堕メロリン」を討伐する", details = "「ミニメロリン」「堕メロリン」を それぞれ500体討伐する"}
+, 
+resource = {
+[1] = {text = "「ミニメロリン」討伐", count = 500}
+, 
+[2] = {text = "「堕メロリン」討伐", count = 500}
+}
+, 
+reward = {title = 2116}
+, score = 1}
 }
 main = function()
   -- function num : 0_0

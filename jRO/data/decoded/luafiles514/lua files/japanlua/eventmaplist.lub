@@ -1,0 +1,7 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\japanlua\eventmaplist.lub 
+
+-- params : ...
+-- function num : 0
+EVENT_MAP_LIST = {"1@pag.rsw", "pab_dun01.rsw", "pab_dun01c.rsw", "pab_dun05.rsw", "pab_dun05c.rsw", "schg_fld1a.rsw", "schg_fld2a.rsw", "schg_fld3a.rsw", "schg_fld4a.rsw", "schg_fld5a.rsw", "schg_fld1b.rsw", "schg_fld2b.rsw", "schg_fld3b.rsw", "schg_fld4b.rsw", "schg_fld5b.rsw", "schp_fld1.rsw", "schp_fld2.rsw", "schp_fld3.rsw", "schp_fld4.rsw", "schp_fld5.rsw", "schi_fld1.rsw", "schi_fld2.rsw", "schi_fld3.rsw", "schi_fld4.rsw", "schi_fld5.rsw", "pab_dun01q.rsw", "valkyrie_ex.rsw", "jp_ev_map58.rsw", "jp_ev_map59.rsw", "int_map01.rsw", "int_map02.rsw", "int_map03.rsw", "ev_f_fes01.rsw", "ev_f_fes02.rsw", "mt1_epi_1.rsw", "mt2_epi_1.rsw", "mt3_epi_1.rsw", "mt4_epi_1.rsw", "mt5_epi_1.rsw", "mt6_epi_1.rsw", "mt7_epi_1.rsw", "mt8_epi_1.rsw"}
+

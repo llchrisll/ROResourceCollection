@@ -1,0 +1,1821 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\SignBoardList.lub 
+
+-- params : ...
+-- function num : 0
+IT_NONE = 0
+IT_BMP = 1
+IT_SPRITE = 2
+IT_SIGNBOARD = 3
+SignBoardList = {
+{"Default", 157, 278, 0, IT_BMP, "signboard\\bg_signboard.bmp"}
+, 
+{"sec_in02", 81, 187, 10, IT_SIGNBOARD, "signboard\\bulb.bmp", "サンプルサインボード", "255,255,255"}
+, 
+{"ev_city", 160, 293, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"ev_city", 231, 293, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"ev_city", 231, 186, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"ev_city", 160, 186, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"ev_city", 266, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"ev_city", 195, 222, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  古代のゴーレム", "255,255,255"}
+, 
+{"ev_city", 191, 222, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  遺物商店OPEN中！", "255,255,255"}
+, 
+{"ev_city", 167, 293, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  古代のゴーレム案内人", "255,255,255"}
+, 
+{"ev_city", 224, 293, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  古代のゴーレム案内人", "255,255,255"}
+, 
+{"ev_city", 221, 187, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  古代のゴーレム案内人", "255,255,255"}
+, 
+{"ev_city", 170, 187, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  古代のゴーレム案内人", "255,255,255"}
+, 
+{"ev_city", 260, 98, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  古代のゴーレム案内人", "255,255,255"}
+, 
+{"ev_city", 168, 288, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_city", 223, 288, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_city", 223, 191, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_city", 168, 191, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_city", 270, 96, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_city", 154, 148, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  Zeny補給", "255,255,255"}
+, 
+{"ev_city", 244, 348, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  Zeny補給", "255,255,255"}
+, 
+{"ev_city", 116, 322, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  Zeny補給", "255,255,255"}
+, 
+{"ev_city", 213, 148, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  髪型/髪染/服染", "255,255,255"}
+, 
+{"ev_city", 249, 348, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  髪型/髪染/服染", "255,255,255"}
+, 
+{"ev_city", 123, 322, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  髪型/髪染/服染", "255,255,255"}
+, 
+{"ev_city", 195, 211, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ベースキャンプへ", "255,255,255"}
+, 
+{"ev_city", 164, 148, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬", "255,255,255"}
+, 
+{"ev_city", 255, 318, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬", "255,255,255"}
+, 
+{"ev_city", 110, 314, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬", "255,255,255"}
+, 
+{"ev_city", 244, 324, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ステータス・スキルリセット", "255,255,255"}
+, 
+{"ev_city", 116, 315, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ステータス・スキルリセット", "255,255,255"}
+, 
+{"ev_city", 175, 148, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ステータス・スキルリセット", "255,255,255"}
+, 
+{"ev_city", 246, 311, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ベースキャンプへ", "255,255,255"}
+, 
+{"ev_city", 225, 148, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ベースキャンプへ", "255,255,255"}
+, 
+{"ev_city", 119, 305, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ベースキャンプへ", "255,255,255"}
+, 
+{"ev_city", 249, 324, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アイテム回収はこちら", "255,255,255"}
+, 
+{"ev_city", 123, 315, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アイテム回収はこちら", "255,255,255"}
+, 
+{"ev_city", 200, 148, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アイテム回収はこちら", "255,255,255"}
+, 
+{"ev_city", 237, 320, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  上位の時空ブーツ", "255,255,255"}
+, 
+{"ev_city", 110, 317, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  上位の時空ブーツ", "255,255,255"}
+, 
+{"ev_city", 188, 148, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  上位の時空ブーツ", "255,255,255"}
+, 
+{"ev_city", 154, 153, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ホラーおもちゃ工場", "255,255,255"}
+, 
+{"ev_city", 255, 346, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ホラーおもちゃ工場", "255,255,255"}
+, 
+{"ev_city", 116, 326, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ホラーおもちゃ工場", "255,255,255"}
+, 
+{"ev_city", 154, 143, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  職業セット", "255,255,255"}
+, 
+{"ev_city", 123, 326, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  職業セット", "255,255,255"}
+, 
+{"ev_city", 238, 346, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  職業セット", "255,255,255"}
+, 
+{"ev_city", 206, 153, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  エクセリオン装備", "255,255,255"}
+, 
+{"ev_city", 128, 316, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  エクセリオン装備", "255,255,255"}
+, 
+{"ev_city", 229, 327, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  エクセリオン装備", "255,255,255"}
+, 
+{"ev_city", 154, 158, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  外見に反映される肩", "255,255,255"}
+, 
+{"ev_city", 116, 329, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  外見に反映される肩", "255,255,255"}
+, 
+{"ev_city", 234, 343, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  外見に反映される肩", "255,255,255"}
+, 
+{"ev_city", 206, 158, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  サラのピアス", "255,255,255"}
+, 
+{"ev_city", 123, 329, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  サラのピアス", "255,255,255"}
+, 
+{"ev_city", 259, 337, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  サラのピアス", "255,255,255"}
+, 
+{"ev_city", 200, 158, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  マランエンチャント", "255,255,255"}
+, 
+{"ev_city", 128, 313, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  マランエンチャント", "255,255,255"}
+, 
+{"ev_city", 232, 324, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  マランエンチャント", "255,255,255"}
+, 
+{"ev_city", 213, 158, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  幻影の刻印", "255,255,255"}
+, 
+{"ev_city", 128, 329, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  幻影の刻印", "255,255,255"}
+, 
+{"ev_city", 241, 318, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  幻影の刻印", "255,255,255"}
+, 
+{"ev_city", 220, 158, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  マヌクエンチャント", "255,255,255"}
+, 
+{"ev_city", 239, 326, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  マヌクエンチャント", "255,255,255"}
+, 
+{"ev_city", 132, 329, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  マヌクエンチャント", "255,255,255"}
+, 
+{"ev_city", 220, 153, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  プロンテラ軍エンチャント", "255,255,255"}
+, 
+{"ev_city", 236, 329, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  プロンテラ軍エンチャント", "255,255,255"}
+, 
+{"ev_city", 107, 333, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  プロンテラ軍エンチャント", "255,255,255"}
+, 
+{"ev_city", 154, 138, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  スペシャルエンチャント", "255,255,255"}
+, 
+{"ev_city", 269, 329, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  スペシャルエンチャント", "255,255,255"}
+, 
+{"ev_city", 107, 311, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  スペシャルエンチャント", "255,255,255"}
+, 
+{"ev_city", 158, 138, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  熱狂信徒エンチャント", "255,255,255"}
+, 
+{"ev_city", 266, 325, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  熱狂信徒エンチャント", "255,255,255"}
+, 
+{"ev_city", 110, 311, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  熱狂信徒エンチャント", "255,255,255"}
+, 
+{"ev_city", 164, 138, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ニーヴエンチャント", "255,255,255"}
+, 
+{"ev_city", 224, 327, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ニーヴエンチャント", "255,255,255"}
+, 
+{"ev_city", 131, 310, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ニーヴエンチャント", "255,255,255"}
+, 
+{"ev_city", 169, 138, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  エクスエンチャント", "255,255,255"}
+, 
+{"ev_city", 234, 337, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  エクスエンチャント", "255,255,255"}
+, 
+{"ev_city", 128, 310, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  エクスエンチャント", "255,255,255"}
+, 
+{"ev_city", 175, 138, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  騎士団エンチャント", "255,255,255"}
+, 
+{"ev_city", 224, 331, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  騎士団エンチャント", "255,255,255"}
+, 
+{"ev_city", 131, 307, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  騎士団エンチャント", "255,255,255"}
+, 
+{"ev_pre_rg", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[1]入場", "255,255,255"}
+, 
+{"ev_pre_wl", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[10]入場", "255,255,255"}
+, 
+{"ev_pre_rn", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[4]入場", "255,255,255"}
+, 
+{"ev_pre_ab", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[8]入場", "255,255,255"}
+, 
+{"ev_pre_rk", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[9]入場", "255,255,255"}
+, 
+{"ev_pre_wm", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[12]入場", "255,255,255"}
+, 
+{"ev_pre_sc", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[3]入場", "255,255,255"}
+, 
+{"ev_pre_mn", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[6]入場", "255,255,255"}
+, 
+{"ev_pre_sr", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[2]入場", "255,255,255"}
+, 
+{"ev_pre_so", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[5]入場", "255,255,255"}
+, 
+{"ev_pre_gc", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[11]入場", "255,255,255"}
+, 
+{"ev_pre_gt", 99, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点[7]入場", "255,255,255"}
+, 
+{"ev_city", 213, 153, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  コスチュームチェンジ", "255,255,255"}
+, 
+{"ev_city", 123, 319, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  コスチュームチェンジ", "255,255,255"}
+, 
+{"ev_city", 258, 343, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  コスチュームチェンジ", "255,255,255"}
+, 
+{"ev_clone", 50, 167, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  スキル変更員はこちら", "255,255,255"}
+, 
+{"ev_clone2", 49, 75, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  出口", "255,255,255"}
+, 
+{"ev_city", 203, 324, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ギルド作成", "255,255,255"}
+, 
+{"ev_skill_1", 272, 146, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  街への帰還はこちら", "255,255,255"}
+, 
+{"ev_skill_2", 272, 146, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  街への帰還はこちら", "255,255,255"}
+, 
+{"ev_skill_3", 272, 146, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  街への帰還はこちら", "255,255,255"}
+, 
+{"ev_city", 158, 143, 6, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  武器（剣、槍、鈍器、楽器、鞭）", "255,255,255"}
+, 
+{"ev_city", 164, 143, 6, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  武器（本、杖、斧、爪、弓、ｶﾀｰﾙ）", "255,255,255"}
+, 
+{"ev_city", 169, 143, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（兜）", "255,255,255"}
+, 
+{"ev_city", 175, 143, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  メカニック・ウォーロック関連", "255,255,255"}
+, 
+{"ev_city", 181, 143, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  制限アイテム", "255,255,255"}
+, 
+{"ev_city", 188, 143, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（アクセサリー）", "255,255,255"}
+, 
+{"ev_city", 193, 143, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（靴）", "255,255,255"}
+, 
+{"ev_city", 200, 143, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（盾）", "255,255,255"}
+, 
+{"ev_city", 206, 143, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（鎧）", "255,255,255"}
+, 
+{"ev_city", 213, 143, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（肩にかけるもの）", "255,255,255"}
+, 
+{"ev_city", 158, 153, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（武器）", "255,255,255"}
+, 
+{"ev_city", 164, 153, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（盾）", "255,255,255"}
+, 
+{"ev_city", 170, 153, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（鎧）", "255,255,255"}
+, 
+{"ev_city", 175, 153, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（肩にかけるもの）", "255,255,255"}
+, 
+{"ev_city", 182, 153, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（靴）", "255,255,255"}
+, 
+{"ev_city", 188, 153, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（アクセサリー）", "255,255,255"}
+, 
+{"ev_city", 194, 153, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（兜）", "255,255,255"}
+, 
+{"ev_city", 200, 153, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_city", 107, 329, 6, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  武器（剣、槍、鈍器、楽器、鞭）", "255,255,255"}
+, 
+{"ev_city", 107, 326, 6, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  武器（本、杖、斧、爪、弓、ｶﾀｰﾙ）", "255,255,255"}
+, 
+{"ev_city", 107, 320, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（兜）", "255,255,255"}
+, 
+{"ev_city", 107, 323, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  メカニック・ウォーロック関連", "255,255,255"}
+, 
+{"ev_city", 107, 317, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  制限アイテム", "255,255,255"}
+, 
+{"ev_city", 107, 314, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（アクセサリー）", "255,255,255"}
+, 
+{"ev_city", 110, 329, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（靴）", "255,255,255"}
+, 
+{"ev_city", 110, 326, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（盾）", "255,255,255"}
+, 
+{"ev_city", 110, 320, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（鎧）", "255,255,255"}
+, 
+{"ev_city", 110, 323, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（肩にかけるもの）", "255,255,255"}
+, 
+{"ev_city", 131, 325, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（武器）", "255,255,255"}
+, 
+{"ev_city", 131, 322, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（盾）", "255,255,255"}
+, 
+{"ev_city", 131, 319, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（鎧）", "255,255,255"}
+, 
+{"ev_city", 131, 316, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（肩にかけるもの）", "255,255,255"}
+, 
+{"ev_city", 131, 313, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（靴）", "255,255,255"}
+, 
+{"ev_city", 128, 325, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（アクセサリー）", "255,255,255"}
+, 
+{"ev_city", 128, 322, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（兜）", "255,255,255"}
+, 
+{"ev_city", 128, 319, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_city", 249, 354, 6, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  武器（剣、槍、鈍器、楽器、鞭）", "255,255,255"}
+, 
+{"ev_city", 256, 354, 6, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  武器（本、杖、斧、爪、弓、ｶﾀｰﾙ）", "255,255,255"}
+, 
+{"ev_city", 260, 354, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（兜）", "255,255,255"}
+, 
+{"ev_city", 264, 345, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  メカニック・ウォーロック関連", "255,255,255"}
+, 
+{"ev_city", 264, 341, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  制限アイテム", "255,255,255"}
+, 
+{"ev_city", 264, 337, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（アクセサリー）", "255,255,255"}
+, 
+{"ev_city", 264, 333, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（靴）", "255,255,255"}
+, 
+{"ev_city", 264, 329, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（盾）", "255,255,255"}
+, 
+{"ev_city", 261, 325, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（鎧）", "255,255,255"}
+, 
+{"ev_city", 258, 321, 6, IT_SIGNBOARD, "signboard\\over_armorshops.bmp", "  防具（肩にかけるもの）", "255,255,255"}
+, 
+{"ev_city", 244, 354, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（武器）", "255,255,255"}
+, 
+{"ev_city", 237, 354, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（盾）", "255,255,255"}
+, 
+{"ev_city", 233, 354, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（鎧）", "255,255,255"}
+, 
+{"ev_city", 230, 347, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（肩にかけるもの）", "255,255,255"}
+, 
+{"ev_city", 229, 343, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（靴）", "255,255,255"}
+, 
+{"ev_city", 229, 339, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（アクセサリー）", "255,255,255"}
+, 
+{"ev_city", 229, 335, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（兜）", "255,255,255"}
+, 
+{"ev_city", 229, 331, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_rg", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_sr", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_sc", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_rn", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_so", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_mn", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_gt", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_ab", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_rk", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_wl", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_gc", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_pre_wm", 106, 26, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売はこちら", "255,255,255"}
+, 
+{"ev_city", 113, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その１）", "255,255,255"}
+, 
+{"ev_city", 116, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その２）", "255,255,255"}
+, 
+{"ev_city", 119, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その３）", "255,255,255"}
+, 
+{"ev_city", 122, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その４）", "255,255,255"}
+, 
+{"ev_city", 125, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その５）", "255,255,255"}
+, 
+{"ev_city", 128, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その６）", "255,255,255"}
+, 
+{"ev_city", 238, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その１）", "255,255,255"}
+, 
+{"ev_city", 241, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その２）", "255,255,255"}
+, 
+{"ev_city", 244, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その３）", "255,255,255"}
+, 
+{"ev_city", 247, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その４）", "255,255,255"}
+, 
+{"ev_city", 250, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その５）", "255,255,255"}
+, 
+{"ev_city", 253, 333, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その６）", "255,255,255"}
+, 
+{"ev_city", 158, 158, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その１）", "255,255,255"}
+, 
+{"ev_city", 164, 158, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その２）", "255,255,255"}
+, 
+{"ev_city", 170, 158, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その３）", "255,255,255"}
+, 
+{"ev_city", 175, 158, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その４）", "255,255,255"}
+, 
+{"ev_city", 182, 158, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その５）", "255,255,255"}
+, 
+{"ev_city", 188, 158, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  衣装販売（その６）", "255,255,255"}
+, 
+{"ev_city", 220, 143, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（全部位）", "255,255,255"}
+, 
+{"ev_city", 254, 326, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（全部位）", "255,255,255"}
+, 
+{"ev_city", 110, 333, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード販売員（全部位）", "255,255,255"}
+, 
+{"ev_ck_aa", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_da", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_ea", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_ba", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_fa", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_ca", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_ga", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_ha", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_ia", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_ja", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_ka", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_ck_la", 49, 171, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お帰りはこちら", "255,255,255"}
+, 
+{"ev_pre_rg", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_sr", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_sc", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_rn", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_so", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_mn", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_gt", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_ab", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_rk", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_wl", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_gc", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_wm", 106, 16, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  修理", "255,255,255"}
+, 
+{"ev_pre_rg", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_sr", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_sc", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_rn", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_so", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_mn", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_gt", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_ab", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_rk", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_wl", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_gc", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_wm", 95, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  人数表示板", "255,255,255"}
+, 
+{"ev_pre_rg", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_sr", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_sc", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_rn", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_so", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_mn", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_gt", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_ab", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_rk", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_wl", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_gc", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_wm", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"ev_pre_rg", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_sr", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_sc", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_rn", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_so", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_mn", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_gt", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_ab", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_rk", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_wl", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_gc", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"ev_pre_wm", 96, 30, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  調査地点転送", "255,255,255"}
+, 
+{"nif_in", 18, 34, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アヴェンジャー", "255,255,255"}
+, 
+{"glast_01", 190, 273, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  超時空エンチャント", "255,255,255"}
+, 
+{"glast_01", 186, 269, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  魔力の集合体交換", "255,255,255"}
+, 
+{"prontera", 36, 336, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  軍装備安全圏精錬", "255,255,255"}
+, 
+{"prontera", 41, 336, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  軍装備精錬", "255,255,255"}
+, 
+{"prontera", 35, 325, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  軍装備交換", "255,255,255"}
+, 
+{"prontera", 40, 325, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  軍装備強化", "255,255,255"}
+, 
+{"prontera", 35, 316, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  時の砂交換", "255,255,255"}
+, 
+{"prontera", 40, 316, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  プロンテラ軍薬販売", "255,255,255"}
+, 
+{"prontera", 76, 62, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  マヌクエンチャント ", "255,255,255"}
+, 
+{"prontera", 80, 66, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテムエクスチェンジ", "255,255,255"}
+, 
+{"malangdo", 213, 167, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  マランエンチャント", "255,255,255"}
+, 
+{"dali", 100, 82, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  時の通路案内", "255,255,255"}
+, 
+{"dali02", 100, 82, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  時の通路案内", "255,255,255"}
+, 
+{"prontera", 111, 87, 6, IT_SPRITE, "signboard\\carat.spr"}
+, 
+{"prt_castle", 106, 27, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  祝宴会場へ", "255,255,255"}
+, 
+{"prt_cas_q", 130, 8, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  貴賓室", "255,255,255"}
+, 
+{"prt_cas_q", 130, 32, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ハイネン家", "255,255,255"}
+, 
+{"prt_cas_q", 130, 56, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ネリウス家", "255,255,255"}
+, 
+{"prt_cas_q", 130, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  バルター家", "255,255,255"}
+, 
+{"prt_cas_q", 153, 119, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ウィグナー家", "255,255,255"}
+, 
+{"prt_cas_q", 153, 143, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  リハルト家", "255,255,255"}
+, 
+{"prt_cas_q", 153, 167, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲオルグ家", "255,255,255"}
+, 
+{"prt_cas_q", 153, 191, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レベンブルグ家", "255,255,255"}
+, 
+{"prt_cas", 152, 163, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  離宮　西側", "255,255,255"}
+, 
+{"prt_cas", 278, 163, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  離宮　東側", "255,255,255"}
+, 
+{"prt_cas", 216, 183, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  祝宴会場", "255,255,255"}
+, 
+{"prt_cas", 216, 142, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  プロンテラの街へ", "255,255,255"}
+, 
+{"prt_cas", 178, 148, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  冒険者歓迎室", "255,255,255"}
+, 
+{"prt_cas", 15, 33, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"prt_cas", 18, 33, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  王家貢献の証", "255,255,255"}
+, 
+{"prt_cas", 21, 33, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  交換・エンチャント", "255,255,255"}
+, 
+{"prt_cas", 27, 16, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  パワフルカード", "255,255,255"}
+, 
+{"prt_cas", 27, 27, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"prt_cas", 9, 23, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  プロンテラの街へ", "255,255,255"}
+, 
+{"prt_q", 250, 61, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  空中要塞", "255,255,255"}
+, 
+{"prt_q", 256, 71, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  シュピーゲル隊長の元へ", "255,255,255"}
+, 
+{"prt_pri00", 51, 116, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  プロンテラ地下監獄", "255,255,255"}
+, 
+{"prt_cas", 78, 250, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  至極の宴会料理", "255,255,255"}
+, 
+{"prontera", 70, 68, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  スペシャルエンチャント", "255,255,255"}
+, 
+{"rachel", 164, 157, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  熱狂信徒エンチャント", "255,255,255"}
+, 
+{"prontera", 45, 325, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エクスエンチャント", "255,255,255"}
+, 
+{"payon", 180, 67, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"morocc", 182, 56, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"aldebaran", 172, 126, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"comodo", 165, 177, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"alberta", 147, 62, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"lighthalzen", 169, 124, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"mid_camp", 46, 163, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"brasilis", 177, 225, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"ref_room01", 22, 40, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"ref_room02", 22, 40, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"tra_hall", 55, 169, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
+, 
+{"ac_cl_area", 41, 145, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
+, 
+{"monbt1_a0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_b0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_c0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_d0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_e0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_f0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_g0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_h0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_i0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_j0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_k0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_l0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_m0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_n0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_o0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt1_p0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_a0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_b0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_c0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_d0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_e0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_f0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_g0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_h0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_i0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_j0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_k0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_l0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_m0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_n0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_o0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"monbt2_p0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
+, 
+{"arena_room", 109, 89, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
+, 
+{"mora", 105, 91, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  温泉サービス", "255,255,255"}
+, 
+{"ecl_in01", 76, 89, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"malangdo", 184, 139, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"t_crack", 102, 88, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  位置セーブと倉庫", "255,255,255"}
+, 
+{"prontera", 249, 54, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  時の狭間へ", "255,255,255"}
+, 
+{"t_crack", 107, 71, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  プロンテラへ", "255,255,255"}
+, 
+{"t_crack", 120, 90, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  永劫の戦へ", "255,255,255"}
+, 
+{"t_crack", 123, 76, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  教えてドゥクスさん", "255,255,255"}
+, 
+{"izlude", 116, 129, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード分離", "255,255,255"}
+, 
+{"prontera", 45, 316, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ソウルドリンク", "255,255,255"}
+, 
+{"rebel_in", 99, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  銃弾の研究者", "255,255,255"}
+, 
+{"rebel_in", 70, 78, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  双子の真実", "255,255,255"}
+, 
+{"rebel_in", 109, 54, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アーニャのお菓子", "255,255,255"}
+, 
+{"rebel_in", 91, 67, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  隊長の贖罪", "255,255,255"}
+, 
+{"ein_fild04", 284, 332, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  基地の中へ", "255,255,255"}
+, 
+{"ein_fild04", 281, 337, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ハートハンター軍事基地", "255,255,255"}
+, 
+{"ein_fild04", 280, 309, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  Y.S.F.0.1エンチャント", "255,255,255"}
+, 
+{"que_swat", 155, 61, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ヴェルナー研究所", "255,255,255"}
+, 
+{"que_swat", 141, 57, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  基地の外へ", "255,255,255"}
+, 
+{"que_swat", 161, 53, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"slabw01_qjp", 236, 91, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  研究所中央室", "255,255,255"}
+, 
+{"einbech", 195, 134, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  名誉の勲章", "255,255,255"}
+, 
+{"einbech", 195, 129, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  交換・エンチャント", "255,255,255"}
+, 
+{"einbech", 195, 124, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  スロットエンチャント", "255,255,255"}
+, 
+{"prt_cas", 27, 21, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  シュバルツバルドへ", "255,255,255"}
+, 
+{"izlude", 132, 42, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  クエスト緩和", "255,255,255"}
+, 
+{"alberta", 240, 103, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ロックリッジ", "255,255,255"}
+, 
+{"harboro1", 80, 218, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ロックリッジ", "255,255,255"}
+, 
+{"harboro1", 291, 200, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  大陸案内", "255,255,255"}
+, 
+{"harboro1", 324, 124, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ロックリッジ地下街", "255,255,255"}
+, 
+{"rockrdg2", 295, 328, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ガスターアレルギー", "255,255,255"}
+, 
+{"harboro1", 347, 65, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  困りもののワンちゃん", "255,255,255"}
+, 
+{"harboro1", 344, 61, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  愛犬の復讐", "255,255,255"}
+, 
+{"harboro2", 164, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  花火大会の準備", "255,255,255"}
+, 
+{"rockrdg1", 341, 133, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  荒野の厄介者", "255,255,255"}
+, 
+{"harboro1", 357, 163, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  食材がない！", "255,255,255"}
+, 
+{"harboro1", 357, 155, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  治安維持活動初級", "255,255,255"}
+, 
+{"harboro1", 357, 152, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  治安維持活動上級", "255,255,255"}
+, 
+{"harboro1", 334, 135, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  配管整備作業", "255,255,255"}
+, 
+{"harboro1", 231, 254, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  異国の商人", "255,255,255"}
+, 
+{"harboro1", 138, 157, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  排水パイプ掃除", "255,255,255"}
+, 
+{"rockrdg1", 262, 90, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  原住民の頼み", "255,255,255"}
+, 
+{"harboro1", 275, 206, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ロックリッジコイン交換", "255,255,255"}
+, 
+{"harboro1", 275, 199, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ロックリッジエンチャント", "255,255,255"}
+, 
+{"new_do1", 95, 264, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  シェレ", "255,255,255"}
+, 
+{"new_do2", 95, 264, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  シェレ", "255,255,255"}
+, 
+{"new_do3", 95, 264, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  シェレ", "255,255,255"}
+, 
+{"new_do4", 95, 264, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  シェレ", "255,255,255"}
+, 
+{"new_do5", 95, 264, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  シェレ", "255,255,255"}
+, 
+{"do_tu01a", 35, 288, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アジェニャー", "255,255,255"}
+, 
+{"do_tu01a", 60, 322, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アリオ", "255,255,255"}
+, 
+{"do_tu01a", 52, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の行商人", "255,255,255"}
+, 
+{"do_tu01a", 66, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の鍛冶屋", "255,255,255"}
+, 
+{"do_tu02a", 224, 126, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  治療師ハル", "255,255,255"}
+, 
+{"do_tu02a", 235, 198, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ペロン団長", "255,255,255"}
+, 
+{"do_tu02a", 203, 324, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  エッグリン", "255,255,255"}
+, 
+{"do_tu04a", 340, 251, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  大きなトゲの生えた枝", "255,255,255"}
+, 
+{"do_tu05a", 186, 57, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  料理長", "255,255,255"}
+, 
+{"do_tu05a", 26, 64, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ガムベリー船長", "255,255,255"}
+, 
+{"do_tu06a", 29, 146, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu06a", 153, 103, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu07a", 162, 158, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  タルトゥーフィ", "255,255,255"}
+, 
+{"do_tu01b", 35, 288, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アジェニャー", "255,255,255"}
+, 
+{"do_tu01b", 60, 322, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アリオ", "255,255,255"}
+, 
+{"do_tu01b", 52, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の行商人", "255,255,255"}
+, 
+{"do_tu01b", 66, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の鍛冶屋", "255,255,255"}
+, 
+{"do_tu02b", 224, 126, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  治療師ハル", "255,255,255"}
+, 
+{"do_tu02b", 235, 198, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ペロン団長", "255,255,255"}
+, 
+{"do_tu02b", 203, 324, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  エッグリン", "255,255,255"}
+, 
+{"do_tu04b", 340, 251, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  大きなトゲの生えた枝", "255,255,255"}
+, 
+{"do_tu05b", 186, 57, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  料理長", "255,255,255"}
+, 
+{"do_tu05b", 26, 64, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ガムベリー船長", "255,255,255"}
+, 
+{"do_tu06b", 29, 146, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu06b", 153, 103, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu07b", 162, 158, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  タルトゥーフィ", "255,255,255"}
+, 
+{"do_tu01c", 35, 288, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アジェニャー", "255,255,255"}
+, 
+{"do_tu01c", 60, 322, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アリオ", "255,255,255"}
+, 
+{"do_tu01c", 52, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の行商人", "255,255,255"}
+, 
+{"do_tu01c", 66, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の鍛冶屋", "255,255,255"}
+, 
+{"do_tu02c", 224, 126, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  治療師ハル", "255,255,255"}
+, 
+{"do_tu02c", 235, 198, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ペロン団長", "255,255,255"}
+, 
+{"do_tu02c", 203, 324, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  エッグリン", "255,255,255"}
+, 
+{"do_tu04c", 340, 251, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  大きなトゲの生えた枝", "255,255,255"}
+, 
+{"do_tu05c", 186, 57, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  料理長", "255,255,255"}
+, 
+{"do_tu05c", 26, 64, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ガムベリー船長", "255,255,255"}
+, 
+{"do_tu06c", 29, 146, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu06c", 153, 103, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu07c", 162, 158, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  タルトゥーフィ", "255,255,255"}
+, 
+{"do_tu01d", 35, 288, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アジェニャー", "255,255,255"}
+, 
+{"do_tu01d", 60, 322, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アリオ", "255,255,255"}
+, 
+{"do_tu01d", 52, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の行商人", "255,255,255"}
+, 
+{"do_tu01d", 66, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の鍛冶屋", "255,255,255"}
+, 
+{"do_tu02d", 224, 126, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  治療師ハル", "255,255,255"}
+, 
+{"do_tu02d", 235, 198, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ペロン団長", "255,255,255"}
+, 
+{"do_tu02d", 203, 324, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  エッグリン", "255,255,255"}
+, 
+{"do_tu04d", 340, 251, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  大きなトゲの生えた枝", "255,255,255"}
+, 
+{"do_tu05d", 186, 57, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  料理長", "255,255,255"}
+, 
+{"do_tu05d", 26, 64, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ガムベリー船長", "255,255,255"}
+, 
+{"do_tu06d", 29, 146, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu06d", 153, 103, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu07d", 162, 158, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  タルトゥーフィ", "255,255,255"}
+, 
+{"do_tu01e", 35, 288, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アジェニャー", "255,255,255"}
+, 
+{"do_tu01e", 60, 322, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員アリオ", "255,255,255"}
+, 
+{"do_tu01e", 52, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の行商人", "255,255,255"}
+, 
+{"do_tu01e", 66, 323, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旅の鍛冶屋", "255,255,255"}
+, 
+{"do_tu02e", 224, 126, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  治療師ハル", "255,255,255"}
+, 
+{"do_tu02e", 235, 198, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ペロン団長", "255,255,255"}
+, 
+{"do_tu02e", 203, 324, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  エッグリン", "255,255,255"}
+, 
+{"do_tu04e", 340, 251, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  大きなトゲの生えた枝", "255,255,255"}
+, 
+{"do_tu05e", 186, 57, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  料理長", "255,255,255"}
+, 
+{"do_tu05e", 26, 64, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ガムベリー船長", "255,255,255"}
+, 
+{"do_tu06e", 29, 146, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu06e", 153, 103, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  自警団員", "255,255,255"}
+, 
+{"do_tu07e", 162, 158, 15, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  タルトゥーフィ", "255,255,255"}
+, 
+{"lasagna", 323, 229, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  育成サポート", "255,255,255"}
+, 
+{"lasagna", 318, 229, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  クエスト転送", "255,255,255"}
+, 
+{"lasagna", 313, 229, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｽﾃｰﾀｽｽｷﾙﾘｾｯﾄ", "255,255,255"}
+, 
+{"lasagna", 328, 229, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  追加報酬配布", "255,255,255"}
+, 
+{"lasagna", 328, 241, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  簡易倉庫", "255,255,255"}
+, 
+{"lasagna", 300, 242, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  セーブ・街転送", "255,255,255"}
+, 
+{"lasagna", 346, 249, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  髪型・髪色変更", "255,255,255"}
+, 
+{"lasagna", 312, 259, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売", "255,255,255"}
+, 
+{"lasagna", 293, 289, 6, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  ドラム武具販売", "255,255,255"}
+, 
+{"lasagna", 298, 289, 6, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  アップグレード", "255,255,255"}
+, 
+{"lasagna", 289, 287, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬・修理", "255,255,255"}
+, 
+{"lasagna", 291, 248, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ラウンジ転送員", "255,255,255"}
+, 
+{"lasagna", 296, 248, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ｾｷｭｱﾛｸﾞｲﾝﾎﾞｰﾅｽ", "255,255,255"}
+, 
+{"lasagna", 346, 244, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ｽﾍﾟｼｬﾙｱｲﾃﾑ販売", "255,255,255"}
+, 
+{"lasagna", 305, 242, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  完全回復", "255,255,255"}
+, 
+{"lasagna", 141, 249, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ブルート", "255,255,255"}
+, 
+{"lasagna", 297, 229, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  チュートリアル", "255,255,255"}
+, 
+{"verus04", 161, 222, 15, IT_SIGNBOARD, "signboard\\over_store.bmp", "  古びた燃料交換", "255,255,255"}
+, 
+{"verus04", 163, 219, 15, IT_SIGNBOARD, "signboard\\over_weaponshop.bmp", "  装備/設計図生産", "255,255,255"}
+, 
+{"verus04", 165, 217, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エンチャント", "255,255,255"}
+, 
+{"lasagna", 131, 255, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  月食の装束交換", "255,255,255"}
+, 
+{"ice_d03_i", 155, 43, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  フローズンメモリー", "255,255,255"}
+, 
+{"payon", 164, 229, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  月夜花の悪夢", "255,255,255"}
+, 
+{"pay_d03_i", 152, 45, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"prontera", 56, 144, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イリュージョンエンチャント", "255,255,255"}
+, 
+{"gef_dun01", 132, 223, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  魔法使いのノート", "255,255,255"}
+, 
+{"gef_d01_j", 81, 135, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ボミの依頼", "255,255,255"}
+, 
+{"prontera", 123, 86, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ボーナスチケット交換", "255,255,255"}
+, 
+{"prontera", 130, 94, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ワールド倉庫", "255,255,255"}
+, 
+{"alberta", 211, 28, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  陽居村の幽霊少女", "255,255,255"}
+, 
+{"tur_d03_j", 139, 186, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  願いごとを叶えて", "255,255,255"}
+, 
+{"izlude", 139, 125, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  転生チケット", "255,255,255"}
+, 
+{"poring_ad", 20, 35, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  育成サポート", "255,255,255"}
+, 
+{"poring_ad", 27, 26, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  クエスト転送", "255,255,255"}
+, 
+{"poring_ad", 29, 40, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｽﾃｰﾀｽｽｷﾙﾘｾｯﾄ", "255,255,255"}
+, 
+{"poring_ad", 22, 40, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  追加報酬配布", "255,255,255"}
+, 
+{"poring_ad", 32, 36, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  セーブ・簡易倉庫", "255,255,255"}
+, 
+{"poring_ad", 19, 31, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  街・転職場所転送", "255,255,255"}
+, 
+{"poring_ad", 21, 17, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬・修理", "255,255,255"}
+, 
+{"poring_ad", 18, 26, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  完全回復", "255,255,255"}
+, 
+{"prontera", 110, 191, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ｽﾛｯﾄｴﾝﾁｬﾝﾄ-EX級", "255,255,255"}
+, 
+{"einbroch", 149, 242, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ネジリアン帝国の陰謀", "255,255,255"}
+, 
+{"ein_d02_i", 170, 193, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"beach_dun2", 248, 254, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ルワンダに伝える話", "255,255,255"}
+, 
+{"com_d02_i", 249, 250, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"pab_base001", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base001", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base001", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base001", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base001", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base002", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base002", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base002", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base002", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base002", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base003", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base003", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base003", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base003", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base003", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base004", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base004", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base004", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base004", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base004", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base005", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base005", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base005", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base005", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base005", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base006", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base006", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base006", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base006", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base006", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base007", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base007", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base007", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base007", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base007", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base008", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base008", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base008", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base008", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base008", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base009", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base009", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base009", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base009", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base009", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base010", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base010", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base010", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base010", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base010", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base011", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base011", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base011", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base011", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base011", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base012", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base012", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base012", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base012", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base012", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base013", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base013", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base013", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base013", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base013", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base014", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base014", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base014", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base014", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base014", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base015", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base015", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base015", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base015", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base015", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pab_base016", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦YE", "255,255,255"}
+, 
+{"pab_base016", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base016", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base016", 348, 99, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"pab_base016", 346, 94, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pronterar", 100, 63, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ティアマト攻城戦YEへ", "255,255,255"}
+, 
+{"pronterar2", 100, 63, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ティアマト攻城戦YEへ", "255,255,255"}
+, 
+{"pronterar3", 100, 63, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ティアマト攻城戦YEへ", "255,255,255"}
+, 
+{"pronterar4", 100, 63, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ティアマト攻城戦YEへ", "255,255,255"}
+, 
+{"yuno", 216, 345, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  生体工学研究所の記録", "255,255,255"}
+, 
+{"yuno", 213, 348, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  戦闘モード", "255,255,255"}
+, 
+{"yuno", 220, 352, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  思念体武器エンチャント", "255,255,255"}
+, 
+{"yuno", 223, 343, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  思念体武器精錬", "255,255,255"}
+, 
+{"izlude", 153, 139, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  レベルアップチケット", "255,255,255"}
+, 
+{"lasagna", 335, 248, 6, IT_SIGNBOARD, "signboard\\wedding.bmp", "  結婚", "255,255,255"}
+, 
+{"lasagna", 339, 248, 6, IT_SIGNBOARD, "signboard\\diamondring.bmp", "  婚礼用品", "255,255,255"}
+, 
+{"fashion_02", 198, 284, 6, IT_SIGNBOARD, "signboard\\4_BLACKDRAGON.bmp", "  クロモ棟", "255,255,255"}
+, 
+{"fashion_02", 209, 284, 6, IT_SIGNBOARD, "signboard\\4_M_BABYCAT.bmp", "  クロミ棟", "255,255,255"}
+, 
+{"izlude", 117, 133, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  コスチュームミッション", "255,255,255"}
+, 
+{"alberta", 72, 175, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  所持限界量増加R", "255,255,255"}
+, 
+{"izlude", 150, 142, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チケット交換", "255,255,255"}
+, 
+{"sp_cor", 106, 136, 17, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  イルシオンエンチャント", "255,255,255"}
+, 
+{"prt_maze01", 91, 22, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  新人アコライトの幽霊", "255,255,255"}
+, 
+{"prt_mz01_i", 105, 24, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト受注", "255,255,255"}
+, 
+{"prt_mz01_i", 111, 24, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト報告", "255,255,255"}
+, 
+{"prt_mz01_i", 108, 22, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  歪んだ裂け目", "255,255,255"}
+, 
+{"prt_mz01_q", 108, 22, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  歪んだ裂け目", "255,255,255"}
+, 
+{"yuno", 124, 173, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ノーグロード 3層の調査", "255,255,255"}
+, 
+{"yuno", 118, 173, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エッセンスの提供", "255,255,255"}
+, 
+{"mag_dun02", 247, 68, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ノーグロード 3層へ", "255,255,255"}
+, 
+{"glast_01", 191, 289, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  グラストヘイムアビスの調査", "255,255,255"}
+, 
+{"gl_cas01_", 205, 35, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  グラストヘイムへ帰還", "255,255,255"}
+, 
+{"gl_cas01_a", 205, 35, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  グラストヘイムへ帰還", "255,255,255"}
+, 
+{"glast_01", 241, 290, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  グラストヘイムの没落", "255,255,255"}
+, 
+{"glast_01", 241, 296, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｼｭﾐｯﾂｴﾝﾁｬﾝ\196", "255,255,255"}
+, 
+{"prontera", 115, 191, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ｽﾛｯﾄｴﾝﾁｬﾝﾄ-DX級", "255,255,255"}
+, 
+{"izlude", 156, 136, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  転職チケット", "255,255,255"}
+, 
+{"prontera", 86, 63, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  神秘の館へ", "255,255,255"}
+, 
+{"ev_season01", 37, 116, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  デモニッシュ交換", "255,255,255"}
+, 
+{"ev_season01", 44, 98, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  アミノVit platinum", "255,255,255"}
+, 
+{"ev_season01", 48, 102, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  記念硬貨", "255,255,255"}
+, 
+{"ev_season01", 38, 120, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  装備の覚醒", "255,255,255"}
+, 
+{"ev_season01", 36, 123, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  星座の欠片", "255,255,255"}
+, 
+{"ev_season01", 40, 94, 3, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  スウィートチョココイン", "255,255,255"}
+, 
+{"ev_season01", 16, 119, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  王宮交換員", "255,255,255"}
+, 
+{"ev_season01", 20, 122, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  称号管理", "255,255,255"}
+, 
+{"ev_season01", 17, 92, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  思い出の雛人形", "255,255,255"}
+, 
+{"ev_season01", 21, 98, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ﾎﾜｲﾄﾘﾘｰﾛｰﾌﾞ交浬183", "255,255,255"}
+, 
+{"ev_season01", 14, 100, 3, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  歴戦の盾", "255,255,255"}
+, 
+{"ev_season01", 8, 100, 3, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  愛の結晶", "255,255,255"}
+, 
+{"ev_season01", 19, 108, 3, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  メロリンコイン", "255,255,255"}
+, 
+{"ba_maison", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  バルムント邸案内", "255,255,255"}
+, 
+{"mt1_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
+, 
+{"mt1_camp_y", 43, 339, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"mt1_camp_y", 61, 344, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"mt1_camp_y", 56, 349, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"mt1_camp_y", 54, 342, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"mt2_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
+, 
+{"mt2_camp_y", 43, 339, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"mt2_camp_y", 61, 344, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"mt2_camp_y", 56, 349, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"mt2_camp_y", 54, 342, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"mt3_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
+, 
+{"mt3_camp_y", 43, 339, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"mt3_camp_y", 61, 344, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"mt3_camp_y", 56, 349, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"mt3_camp_y", 54, 342, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"mt4_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
+, 
+{"mt4_camp_y", 43, 339, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"mt4_camp_y", 61, 344, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"mt4_camp_y", 56, 349, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"mt4_camp_y", 54, 342, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"mt5_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
+, 
+{"mt5_camp_y", 43, 339, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"mt5_camp_y", 61, 344, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"mt5_camp_y", 56, 349, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"mt5_camp_y", 54, 342, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"mt6_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
+, 
+{"mt6_camp_y", 43, 339, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"mt6_camp_y", 61, 344, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"mt6_camp_y", 56, 349, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"mt6_camp_y", 54, 342, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"mt7_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
+, 
+{"mt7_camp_y", 43, 339, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"mt7_camp_y", 61, 344, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"mt7_camp_y", 56, 349, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"mt7_camp_y", 54, 342, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"mt8_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
+, 
+{"mt8_camp_y", 43, 339, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"mt8_camp_y", 61, 344, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"mt8_camp_y", 56, 349, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  基地間転送", "255,255,255"}
+, 
+{"mt8_camp_y", 54, 342, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム補給", "255,255,255"}
+, 
+{"pronterar", 89, 62, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  蜃気楼の塔YEへ", "255,255,255"}
+, 
+{"pronterar2", 89, 62, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  蜃気楼の塔YEへ", "255,255,255"}
+, 
+{"pronterar3", 89, 62, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  蜃気楼の塔YEへ", "255,255,255"}
+, 
+{"pronterar4", 89, 62, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  蜃気楼の塔YEへ", "255,255,255"}
+, 
+{"izlude", 136, 159, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  微力の究極精錬", "255,255,255"}
+, 
+{"izlude", 157, 145, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジメジメ少女", "255,255,255"}
+, 
+{"ac_cl_area", 49, 187, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  職業装備精錬", "255,255,255"}
+, 
+{"yuno", 193, 349, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  思念体武器アップグレード", "255,255,255"}
+, 
+{"yuno", 198, 349, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  思念体武器精錬", "255,255,255"}
+, 
+{"val_tea2", 323, 185, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
+, 
+{"val_tea2", 323, 191, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
+, 
+{"val_tea2", 319, 218, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  神秘の館転送", "255,255,255"}
+, 
+{"val_tea1", 295, 99, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  キッチンへ", "255,255,255"}
+, 
+{"val_tea2", 319, 179, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ティールームへ", "255,255,255"}
+, 
+{"val_tea1", 294, 129, 4, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
+, 
+{"val_tea1", 304, 120, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"val_tea1", 287, 119, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  納品クエスト", "255,255,255"}
+, 
+{"val_tea1", 304, 112, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  配達クエスト", "255,255,255"}
+, 
+{"val_tea1", 298, 129, 6, IT_SIGNBOARD, "signboard\\sign_val06.bmp", "  依頼達成回数判定", "255,255,255"}
+, 
+{"val_tea2", 305, 201, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ショコラツアーズ", "255,255,255"}
+, 
+{"val_tea1", 298, 124, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"val_tea2", 329, 208, 6, IT_SIGNBOARD, "signboard\\sign_val05.bmp", "  イベントポイント交換", "255,255,255"}
+, 
+{"val_tea2", 327, 200, 6, IT_SIGNBOARD, "signboard\\sign_val04.bmp", "  ｴﾝﾁｬﾝﾄｱｲﾃﾑ交換", "255,255,255"}
+, 
+{"val_tea2", 323, 207, 6, IT_SIGNBOARD, "signboard\\sign_val01.bmp", "  お菓子作成", "255,255,255"}
+, 
+{"val_tea2", 314, 203, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  材料販売", "255,255,255"}
+, 
+{"val_tea2", 314, 214, 6, IT_SIGNBOARD, "signboard\\sign_val02.bmp", "  カカオ割り", "255,255,255"}
+, 
+{"val_tea2", 305, 215, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お菓子に記名", "255,255,255"}
+, 
+{"val_tea2", 325, 216, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"march_01", 130, 46, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  神秘の館転送", "255,255,255"}
+, 
+{"march_01", 130, 59, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
+, 
+{"march_01", 119, 12, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  目覚める", "255,255,255"}
+, 
+{"march_01", 140, 102, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  目覚める", "255,255,255"}
+, 
+{"march_01", 98, 102, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  目覚める", "255,255,255"}
+, 
+{"march_01", 120, 100, 4, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
+, 
+{"march_01", 112, 82, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"march_01", 127, 82, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ひな飾り", "255,255,255"}
+, 
+{"march_01", 119, 121, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"march_01", 128, 37, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"march_01", 110, 60, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  毎日白酒プレゼント", "255,255,255"}
+, 
+{"march_01", 110, 46, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  白酒販売", "255,255,255"}
+, 
+{"march_01", 110, 37, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  イベントポイント交換", "255,255,255"}
+, 
+{"march_01", 138, 121, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  厄払い(バトル)", "255,255,255"}
+, 
+{"march_01", 102, 121, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  厄払い(バトル)", "255,255,255"}
+, 
+{"glast_01", 143, 288, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  並行世界のヒメルメズ", "255,255,255"}
+, 
+{"glast_01", 141, 293, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"apr_main1", 135, 76, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
+, 
+{"apr_main1", 164, 76, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
+, 
+{"apr_main1", 162, 62, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  神秘の館転送", "255,255,255"}
+, 
+{"apr_main1", 142, 104, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  賢者のアトリエへ", "255,255,255"}
+, 
+{"apr_main1", 157, 104, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  賢者のアトリエへ", "255,255,255"}
+, 
+{"apr_main1", 140, 49, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  賢者のアトリエへ", "255,255,255"}
+, 
+{"apr_main1", 159, 49, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  賢者のアトリエへ", "255,255,255"}
+, 
+{"apr_forge1", 85, 48, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  アトリエ出口", "255,255,255"}
+, 
+{"apr_forge2", 85, 48, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  アトリエ出口", "255,255,255"}
+, 
+{"apr_forge3", 85, 48, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  アトリエ出口", "255,255,255"}
+, 
+{"apr_forge4", 85, 48, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  アトリエ出口", "255,255,255"}
+, 
+{"apr_forge5", 85, 48, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  アトリエ出口", "255,255,255"}
+, 
+{"apr_main1", 157, 92, 4, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
+, 
+{"apr_main1", 154, 100, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"apr_main1", 145, 100, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  納品クエスト", "255,255,255"}
+, 
+{"apr_main1", 142, 92, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  観光スポット巡り", "255,255,255"}
+, 
+{"apr_main1", 150, 104, 6, IT_SIGNBOARD, "signboard\\sign_apr03.bmp", "  依頼達成回数判定", "255,255,255"}
+, 
+{"apr_main1", 148, 55, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  廃亡遺跡群　入口", "255,255,255"}
+, 
+{"apr_ruins_s", 49, 73, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  探索開始", "255,255,255"}
+, 
+{"apr_ruins_s", 54, 71, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  探索の記録と称号", "255,255,255"}
+, 
+{"apr_ruins_s", 44, 71, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  遺跡群の報酬", "255,255,255"}
+, 
+{"apr_ruins_s", 64, 66, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  遺跡群の出口", "255,255,255"}
+, 
+{"apr_ruins_g", 102, 119, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゴール!!", "255,255,255"}
+, 
+{"apr_main1", 158, 82, 4, IT_SIGNBOARD, "signboard\\sign_apr01.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"apr_main1", 141, 82, 6, IT_SIGNBOARD, "signboard\\sign_apr02.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"apr_main1", 158, 69, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  通常精錬", "255,255,255"}
+, 
+{"apr_main1", 141, 66, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  合成精錬", "255,255,255"}
+, 
+{"apr_main1", 141, 71, 2, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  リストア精錬", "255,255,255"}
+, 
+{"apr_forge1", 91, 59, 4, IT_SIGNBOARD, "signboard\\sign_apr01.bmp", "  装備品の全解除", "255,255,255"}
+, 
+{"apr_forge2", 91, 59, 4, IT_SIGNBOARD, "signboard\\sign_apr01.bmp", "  装備品の全解除", "255,255,255"}
+, 
+{"apr_forge3", 91, 59, 4, IT_SIGNBOARD, "signboard\\sign_apr01.bmp", "  装備品の全解除", "255,255,255"}
+, 
+{"apr_forge4", 91, 59, 4, IT_SIGNBOARD, "signboard\\sign_apr01.bmp", "  装備品の全解除", "255,255,255"}
+, 
+{"apr_forge5", 91, 59, 4, IT_SIGNBOARD, "signboard\\sign_apr01.bmp", "  装備品の全解除", "255,255,255"}
+, 
+{"apr_main1", 135, 64, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_ruins_s", 37, 68, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_forge1", 75, 57, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_forge2", 75, 57, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_forge3", 75, 57, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_forge4", 75, 57, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_forge5", 75, 57, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"izlude", 144, 213, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  行方不明者の釣り竿", "255,255,255"}
+, 
+{"iz_d04_i", 132, 228, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"melon_f1", 119, 56, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
+, 
+{"melon_f1", 132, 64, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
+, 
+{"melon_f1", 135, 61, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  神秘の館転送", "255,255,255"}
+, 
+{"melon_f1", 120, 110, 38, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
+, 
+{"melon_f1", 124, 106, 10, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"melon_f1", 115, 106, 10, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  納品クエスト", "255,255,255"}
+, 
+{"melon_f1", 103, 102, 18, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  迷子のメロリン探し", "255,255,255"}
+, 
+{"melon_f1", 115, 72, 12, IT_SIGNBOARD, "signboard\\sign_jul02.bmp", "  依頼達成状況", "255,255,255"}
+, 
+{"melon_f1", 112, 68, 6, IT_SIGNBOARD, "signboard\\melon.bmp", "  メロンクッキング", "255,255,255"}
+, 
+{"melon_f1", 108, 104, 18, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  メロリン遠征隊", "255,255,255"}
+, 
+{"melon_f1", 124, 72, 4, IT_SIGNBOARD, "signboard\\sign_apr01.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"melon_f1", 128, 69, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"melon_f1", 130, 104, 10, IT_SIGNBOARD, "signboard\\sign_jul01.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"melon_f1", 136, 103, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"melon_f1", 109, 65, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  1日3回無料精錬", "255,255,255"}
+, 
+{"melon_f1", 105, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  素材の案内", "255,255,255"}
+, 
+{"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
+, 
+{"lby_in", 44, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐依頼", "255,255,255"}
+, 
+{"lby_in", 57, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  迷宮ガイド", "255,255,255"}
+, 
+{"lby_in", 59, 86, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  調査報告", "255,255,255"}
+, 
+{"lby_in", 48, 85, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  街への帰還", "255,255,255"}
+, 
+{"lby_in", 42, 88, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  簡易倉庫", "255,255,255"}
+, 
+{"geffen", 128, 64, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  夢幻の迷宮へ", "255,255,255"}
+, 
+{"prontera", 111, 78, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  夢幻の迷宮へ", "255,255,255"}
+, 
+{"pab_base01", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ティアマト攻城戦", "255,255,255"}
+, 
+{"pab_base01", 336, 95, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  チケット交換", "255,255,255"}
+, 
+{"pab_base02", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ティアマト攻城戦", "255,255,255"}
+, 
+{"pab_base02", 336, 95, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  チケット交換", "255,255,255"}
+, 
+{"pab_base03", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ティアマト攻城戦", "255,255,255"}
+, 
+{"pab_base03", 336, 95, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  チケット交換", "255,255,255"}
+, 
+{"pab_base04", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ティアマト攻城戦", "255,255,255"}
+, 
+{"pab_base04", 336, 95, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  チケット交換", "255,255,255"}
+, 
+{"pab_base05", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ティアマト攻城戦", "255,255,255"}
+, 
+{"pab_base05", 336, 95, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  チケット交換", "255,255,255"}
+, 
+{"pab_castle", 281, 241, 50, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  深淵の古城", "255,255,255"}
+, 
+{"pab_camp", 41, 190, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  深淵の王墓", "255,255,255"}
+, 
+{"pab_alter", 67, 29, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  深淵の試練場", "255,255,255"}
+, 
+{"pab_arena", 32, 119, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  深淵の闘技場", "255,255,255"}
+, 
+{"pab_base01", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base01", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base02", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base02", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base03", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base03", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base04", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base04", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_base05", 334, 102, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_base05", 355, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_camp", 48, 192, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  プロンテラへの帰還", "255,255,255"}
+, 
+{"pab_camp", 19, 190, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  祭祀場へ", "255,255,255"}
+, 
+{"pab_camp", 40, 211, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  庭園へ", "255,255,255"}
+, 
+{"pab_camp", 64, 189, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  回廊へ", "255,255,255"}
+, 
+{"pab_camp", 40, 168, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  旧市街地へ", "255,255,255"}
+, 
+{"pab_camp", 33, 201, 6, IT_SIGNBOARD, "signboard\\abyss_coin.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"pab_camp", 30, 205, 6, IT_SIGNBOARD, "signboard\\abyss_coin.bmp", "  特殊アイテム交換", "255,255,255"}
+, 
+{"pab_camp", 26, 205, 6, IT_SIGNBOARD, "signboard\\abyss_jewel.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"pab_camp", 56, 208, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_camp", 49, 198, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  各種アイテム販売", "255,255,255"}
+, 
+{"pab_camp", 53, 198, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  各種アイテム作成", "255,255,255"}
+, 
+{"pab_camp", 25, 181, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  各種サービス", "255,255,255"}
+, 
+{"pab_camp", 14, 180, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  深淵の回廊ｴﾝﾁｬﾝﾄ", "255,255,255"}
+, 
+{"pab_camp", 32, 172, 20, IT_SIGNBOARD, "signboard\\over_card.bmp", "  アルカナカード交換", "255,255,255"}
+, 
+{"pab_camp", 32, 192, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"pab_camp", 19, 205, 6, IT_SIGNBOARD, "signboard\\melon.bmp", "  メロン鑑定", "255,255,255"}
+, 
+{"pab_camp", 15, 174, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ティアマト攻城戦へ", "255,255,255"}
+, 
+{"pab_camp", 13, 203, 6, IT_SIGNBOARD, "signboard\\abyss_stone.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"pab_castle", 256, 244, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  プロンテラ深淵へ", "255,255,255"}
+, 
+{"pab_castle", 268, 222, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  森林へ", "255,255,255"}
+, 
+{"pab_castle", 290, 247, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  渓谷へ", "255,255,255"}
+, 
+{"pab_castle", 271, 251, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  草原へ", "255,255,255"}
+, 
+{"pab_castle", 251, 241, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ﾃｨｱﾏﾄｴﾝﾁｬﾝ\196", "255,255,255"}
+, 
+{"pab_castle", 293, 234, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  栄光の道へ", "255,255,255"}
+, 
+{"pab_camp", 36, 193, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  シンソウの王", "255,255,255"}
+, 
+{"pab_church", 73, 90, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  深淵の回廊", "255,255,255"}
+, 
+{"pab_camp", 21, 171, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｾｷｭｱﾛｸﾞｲﾝﾎﾞｰﾅｽ", "255,255,255"}
+, 
+{"ev_summer01", 238, 269, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  welcome!", "255,255,255"}
+, 
+{"ev_summer01", 237, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  HITトレーニング", "255,255,255"}
+, 
+{"ev_summer01", 231, 200, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  HITトレーニング", "255,255,255"}
+, 
+{"ev_summer01", 228, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  フィッシング・エクササイズ", "255,255,255"}
+, 
+{"ev_summer01", 239, 169, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  フィッシング・エクササイズ", "255,255,255"}
+, 
+{"ev_summer01", 233, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ラクテート・レイド", "255,255,255"}
+, 
+{"ev_summer01", 231, 182, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ラクテート・レイド", "255,255,255"}
+, 
+{"ev_summer01", 278, 285, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  BAR　ナイス・マッチョ", "255,255,255"}
+, 
+{"ev_summer01", 288, 277, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  神秘の館へ", "255,255,255"}
+, 
+{"ev_summer01", 232, 261, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  プロンテラへ", "255,255,255"}
+, 
+{"ev_summer02", 112, 208, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　トレーニング！", "255,255,255"}
+, 
+{"ev_summer02", 243, 90, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ナイス　トレーニング！", "255,255,255"}
+, 
+{"ev_summer02", 128, 206, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer06", 173, 180, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  釣り具あり升", "255,255,255"}
+, 
+{"ev_summer06", 179, 189, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  釣りマガジン", "255,255,255"}
+, 
+{"ev_summer06", 179, 180, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  漁場転送", "255,255,255"}
+, 
+{"ev_summer06", 173, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  釣果納品", "255,255,255"}
+, 
+{"ev_summer06", 157, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer37", 173, 180, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  釣り具あり升", "255,255,255"}
+, 
+{"ev_summer37", 179, 189, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  釣りマガジン", "255,255,255"}
+, 
+{"ev_summer37", 179, 180, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  漁場転送", "255,255,255"}
+, 
+{"ev_summer37", 173, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  釣果納品", "255,255,255"}
+, 
+{"ev_summer37", 157, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer07", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer07", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer08", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer08", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer09", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer09", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer10", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer10", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer11", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer11", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer12", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer12", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer13", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer13", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer14", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer14", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer15", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer15", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"ev_summer16", 50, 5, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer16", 49, 51, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  レッツ　バトル！", "255,255,255"}
+, 
+{"hal_main", 193, 200, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  HalloweenParty!!", "255,255,255"}
+, 
+{"hal_main", 188, 201, 12, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ガーリンを退治して", "255,255,255"}
+, 
+{"hal_main", 201, 185, 8, IT_SIGNBOARD, "signboard\\sign_hal07.bmp", "  ﾒﾓﾘｱﾙｽﾄｰﾘｰ", "255,255,255"}
+, 
+{"hal_main", 181, 163, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  プロンテラへ帰還", "255,255,255"}
+, 
+{"hal_main", 180, 189, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"hal_main", 198, 201, 12, IT_SIGNBOARD, "signboard\\sign_hal02.bmp", "  ﾊﾛｳｨﾝｷｬﾝﾃﾞ\168!!", "255,255,255"}
+, 
+{"hal_main", 203, 204, 6, IT_SIGNBOARD, "signboard\\sign_hal03.bmp", "  お菓子販売", "255,255,255"}
+, 
+{"hal_main", 211, 199, 6, IT_SIGNBOARD, "signboard\\sign_hal06.bmp", "  ｷｭｰﾍﾟｯﾄｸﾞｯｽﾞ", "255,255,255"}
+, 
+{"hal_main", 216, 197, 6, IT_SIGNBOARD, "signboard\\sign_hal05.bmp", "  ｷｭｰﾍﾟｯﾄの予145", "255,255,255"}
+, 
+{"hal_main", 220, 193, 6, IT_SIGNBOARD, "signboard\\sign_hal04.bmp", "  ｷｭｰﾍﾟｯﾄｱｸｾｻﾘ\176", "255,255,255"}
+, 
+{"hal_main", 180, 179, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  モンスター変身", "255,255,255"}
+, 
+{"hal_main", 167, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  特殊転送", "255,255,255"}
+, 
+{"hal_main", 207, 165, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  果物販売", "255,255,255"}
+, 
+{"hal_main", 197, 158, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  騎乗物の貸出", "255,255,255"}
+, 
+{"hal_main", 203, 158, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ﾎﾑﾝｸﾙｽ親密度アップ", "255,255,255"}
+, 
+{"hal_field1", 229, 267, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  マップ転送", "255,255,255"}
+, 
+{"hal_field2", 370, 236, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  マップ転送", "255,255,255"}
+, 
+{"hal_field3", 150, 208, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  マップ転送", "255,255,255"}
+, 
+{"hal_fes1", 203, 177, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  イベント会場へ", "255,255,255"}
+, 
+{"hal_fes2", 355, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  イベント会場へ", "255,255,255"}
+, 
+{"hal_mostro1", 22, 10, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  イベント会場へ", "255,255,255"}
+, 
+{"hal_mostro1", 95, 107, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  店長の部屋", "255,255,255"}
+, 
+{"hal_fes2", 338, 86, 0, IT_BMP, "signboard\\sign_hal01.bmp"}
+, 
+{"ev_june01", 169, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  神秘の館転送", "255,255,255"}
+, 
+{"ev_june01", 174, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
+, 
+{"ev_june01", 157, 185, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
+, 
+{"ev_june01", 140, 167, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  Bond Of Lovers", "255,255,255"}
+, 
+{"ev_june01", 144, 178, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"ev_june01", 171, 178, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  お土産処「お福分け」", "255,255,255"}
+, 
+{"ev_june01", 174, 167, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  イベントポイント交換", "255,255,255"}
+, 
+{"ev_june01", 170, 157, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  プロンテラへ", "255,255,255"}
+, 
+{"ev_june01", 146, 156, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"ev_june01", 157, 151, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  結婚式場へ", "255,255,255"}
+, 
+{"ev_june01", 157, 166, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  福音", "255,255,255"}
+, 
+{"ev_june01", 147, 187, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  伝言板", "255,255,255"}
+, 
+{"ev_june01", 177, 184, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+}
+

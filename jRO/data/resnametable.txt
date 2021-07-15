@@ -18758,4 +18758,9 @@ ev_june01.gnd#yuno.gnd#
 1@bond1.gnd#1@jtb.gnd#
 유저인터페이스\map\1@bond1.bmp#유저인터페이스\map\1@jtb.bmp#
 //------------------------------------------------
+iz_d04_i_q.gat#iz_d04_i.gat#
+iz_d04_i_q.rsw#iz_d04_i.rsw#
+iz_d04_i_q.gnd#iz_d04_i.gnd#
+유저인터페이스\map\iz_d04_i_q.bmp#유저인터페이스\map\iz_d04_i.bmp#
+//------------------------------------------------
 //[file end]

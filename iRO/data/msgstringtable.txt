@@ -3524,13 +3524,13 @@ Forced Removal#
 #
 #
 #
+Emblem Frame#
+Emblem will have a border.#
+Emblem will not have a border.#
 #
 #
 #
-#
-#
-#
-#
+/frame#
 #
 #
 #
@@ -3584,8 +3584,8 @@ Failed to feed homun. You are not possible to feed right now.#
 #
 #
 Destination#
-#
-#
+Please try again soon.#
+The file cannot be registered.#
 Delete#
 Delete All#
 Are you sure you want to delete all mail in the mailbox?#

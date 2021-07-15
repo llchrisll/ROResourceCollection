@@ -27143,6 +27143,62 @@ Description = {"탄력있는 줄 15개랑 코볼트의 털 3개를 <NAVI>[토른]<INFO>moc_para0
 Description = {"오래된 곡괭이 15개를 <NAVI>[미하엘]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>님께 가져다 드리면 고급 무기를 주실 거야."}
 , Summary = "무기의 재료"}
 , 
+[17554] = {Title = "분실물 주인찾기", IconName = "ico_ev.bmp", 
+Description = {"남쪽 낚시터 근처에 <NAVI>[오리 인형]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>이 있던데, 주인이 찾으러 오지 않는다면 분실물 센터에 가져다 주세요."}
+, Summary = "오리 인형"}
+, 
+[17555] = {Title = "국수의 재료들", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[저에게]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI> 작은 소용돌이에서 가늘고 긴 국수 5개와 멋쟁이 별에서 나비 국수 5개, 흔들 꼬리에서 매끈한 국수 5개, 돼지 감자 1개를 가지고 오십시오."}
+, Summary = "돼지 감자, 국수 재료"}
+, 
+[17556] = {Title = "쿠폰: 암호명 완료", IconName = "ico_ev.bmp", 
+Description = {"오리 인형들을 도와줬지. 이벤트 4개를 모두 완료 했으니 <NAVI>[쿠폰 접수]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 찍자."}
+, Summary = "오리 인형 쿵덕 확인"}
+, 
+[17557] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[그곳]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>에 내 동족들이 엄청나게 많았지! 그중에서 나처럼 눈을 뜬 동족들이 있을 거야. 그 동족들을 데려와 줘어."}
+, Summary = "냐일굴로"}
+, 
+[17558] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"굴 안 어딘가에 <NAVI>[오리 인형]<INFO>lasa_sea,74,202,0,101,0,</INFO></NAVI> 소리가 들린다. 찾아 보자."}
+, Summary = "오리 인형 찾기"}
+, 
+[17559] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"굴 안 어딘가에 <NAVI>[오리 인형]<INFO>lasa_sea,135,70,0,101,0,</INFO></NAVI> 소리가 들린다. 찾아 보자."}
+, Summary = "오리 인형 찾기"}
+, 
+[17560] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"굴 안 어딘가에 <NAVI>[오리 인형]<INFO>lasa_sea,18,51,0,101,0,</INFO></NAVI> 소리가 들린다. 찾아 보자."}
+, Summary = "오리 인형 찾기"}
+, 
+[17561] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"굴 안 어딘가에 <NAVI>[오리 인형]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI> 소리가 들린다. 찾아 보자."}
+, Summary = "오리 인형 찾기"}
+, 
+[17562] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"오리 인형을 모두 찾았으니 <NAVI>[쿵덕]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>에게 돌아가자."}
+, Summary = "오리 인형 찾기"}
+, 
+[17563] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"미안하게 됐지. 잠깐만 기다려 줘어. 다들 이름 짓는게 서툴러서 <NAVI>[내]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>가 감독해줘야겠다."}
+, Summary = "혼란한 이름짓기"}
+, 
+[17564] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[쿵덕]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>이 대화를 요청했다. 세계 정복을 막기 위한 계획이 있는 것 같다."}
+, Summary = "쿵덕과 대화"}
+, 
+[17565] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"멋쟁이 별이나 나 같은 오리 인형을 털면 별단추인가?!를 얻을 수 있지. 20개만 <NAVI>[나]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>한테 가져다 줘어."}
+, Summary = "별단추인가?! 20개"}
+, 
+[17566] = {Title = "대기: 암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"아직 별단추를 찾느라 정신이 없어 보이는데. 아직 충분한 것 같은데. 조금 쉬다가 다시 찾자아. - <NAVI>[쿵덕]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>"}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17567] = {Title = "암호명! 별단추인가?!", IconName = "ico_ev.bmp", 
+Description = {"멋쟁이 별이나 나 같은 오리 인형을 털면 별단추인가?!를 얻을 수 있지. 20개만 <NAVI>[나]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>한테 가져다 줘어."}
+, Summary = "별단추인가?! 20"}
+, 
 [18000] = {Title = "진입 준비", IconName = "ico_ep.bmp", 
 Description = {"드디어 하수관의 잠금장치 해제에 성공한 리벨리온. 루키는 하수관으로 진입할 준비가 다 되면 다시 말을 걸어 달라고 했다."}
 , Summary = "루키와 대화"}

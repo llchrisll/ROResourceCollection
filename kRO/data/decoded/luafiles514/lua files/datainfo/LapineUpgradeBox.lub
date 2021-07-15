@@ -44,6 +44,16 @@ TargetItems = {
 {"Slate_Sword_LT", 500040}
 , 
 {"Sword_Of_Bluefire_LT", 500039}
+, 
+{"Trumpet_Shell_K_LT", 570027}
+, 
+{"Barb_Wire_K_LT", 580027}
+, 
+{"Narcis_Bow_LT", 700049}
+, 
+{"Avenger_LT", 620015}
+, 
+{"Meteor_Striker_LT", 590034}
 }
 , NeedSource_String = "영웅의 무기-LT"}
 , 
@@ -80,6 +90,16 @@ TargetItems = {
 {"Slate_Sword_LT", 500040}
 , 
 {"Sword_Of_Bluefire_LT", 500039}
+, 
+{"Trumpet_Shell_K_LT", 570027}
+, 
+{"Barb_Wire_K_LT", 580027}
+, 
+{"Narcis_Bow_LT", 700049}
+, 
+{"Avenger_LT", 620015}
+, 
+{"Meteor_Striker_LT", 590034}
 }
 , NeedSource_String = "영웅의 무기-LT"}
 , 
@@ -4890,6 +4910,16 @@ TargetItems = {
 {"S_Hasty_Shield", 24732}
 , 
 {"S_Infinity_Shield", 24733}
+, 
+{"S_Durable_Weapon", 24734}
+, 
+{"S_Durable_Shield", 24735}
+, 
+{"S_Clever_Weapon", 24736}
+, 
+{"S_Clever_Shield", 24737}
+, 
+{"S_CriticalHit_Weapon", 24738}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6236,6 +6266,16 @@ TargetItems = {
 {"S_Hasty_Shield", 24732}
 , 
 {"S_Infinity_Shield", 24733}
+, 
+{"S_Durable_Weapon", 24734}
+, 
+{"S_Durable_Shield", 24735}
+, 
+{"S_Clever_Weapon", 24736}
+, 
+{"S_Clever_Shield", 24737}
+, 
+{"S_CriticalHit_Weapon", 24738}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -7402,6 +7442,16 @@ TargetItems = {
 {"S_Hasty_Shield", 24732}
 , 
 {"S_Infinity_Shield", 24733}
+, 
+{"S_Durable_Weapon", 24734}
+, 
+{"S_Durable_Shield", 24735}
+, 
+{"S_Clever_Weapon", 24736}
+, 
+{"S_Clever_Shield", 24737}
+, 
+{"S_CriticalHit_Weapon", 24738}
 }
 , NeedSource_String = "+7 쉐도우 아이템"}
 , 

@@ -10,12 +10,6 @@ IT_SIGNBOARD = 3
 SignBoardList = {
 {"Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "입력안하셨습니다", "#0x009EBDFF"}
 , 
-{"prontera", 166, 300, 6, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", "  부스터 프로모션", "#0x00FFFFFF"}
-, 
-{"sp_cor", 98, 136, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터일루시온인챈트", "#0x00FFFFFF"}
-, 
-{"malangdo", 152, 136, 0, IT_SIGNBOARD, "item\\다람쥐귀모자.bmp", "  부스터 의상 인챈트", "#0x00FFFFFF"}
-, 
 {"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
 , 
 {"ein_dun02", 16, 250, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  180Lv미만 출입금지", "#0x00FFFFFF"}

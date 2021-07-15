@@ -1,0 +1,177 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\hotkey_jp.lub 
+
+-- params : ...
+-- function num : 0
+-- DECOMPILER ERROR at PC1: Confused about usage of register: R0 in 'UnsetPending'
+
+KEYNAME[44] = "PrintScreen"
+-- DECOMPILER ERROR at PC4: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_2[28]).KEY1 = 73
+-- DECOMPILER ERROR at PC7: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_2[28]).KEY2 = 18
+-- DECOMPILER ERROR at PC10: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_2[29]).KEY1 = 80
+-- DECOMPILER ERROR at PC13: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_2[29]).KEY2 = 18
+-- DECOMPILER ERROR at PC16: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_2[8]).KEY1 = 190
+-- DECOMPILER ERROR at PC19: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_2[8]).KEY2 = 18
+-- DECOMPILER ERROR at PC22: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[0]).KEY1 = 90
+-- DECOMPILER ERROR at PC25: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[1]).KEY1 = 88
+-- DECOMPILER ERROR at PC28: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[2]).KEY1 = 67
+-- DECOMPILER ERROR at PC31: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[3]).KEY1 = 86
+-- DECOMPILER ERROR at PC34: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[4]).KEY1 = 66
+-- DECOMPILER ERROR at PC37: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[5]).KEY1 = 78
+-- DECOMPILER ERROR at PC40: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[6]).KEY1 = 77
+-- DECOMPILER ERROR at PC43: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[7]).KEY1 = 188
+-- DECOMPILER ERROR at PC46: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[8]).KEY1 = 190
+-- DECOMPILER ERROR at PC49: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[9]).KEY1 = 65
+-- DECOMPILER ERROR at PC52: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[10]).KEY1 = 83
+-- DECOMPILER ERROR at PC55: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[11]).KEY1 = 68
+-- DECOMPILER ERROR at PC58: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[12]).KEY1 = 70
+-- DECOMPILER ERROR at PC61: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[13]).KEY1 = 71
+-- DECOMPILER ERROR at PC64: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[14]).KEY1 = 72
+-- DECOMPILER ERROR at PC67: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[15]).KEY1 = 74
+-- DECOMPILER ERROR at PC70: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[16]).KEY1 = 75
+-- DECOMPILER ERROR at PC73: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[17]).KEY1 = 76
+-- DECOMPILER ERROR at PC76: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[18]).KEY1 = 81
+-- DECOMPILER ERROR at PC79: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[19]).KEY1 = 87
+-- DECOMPILER ERROR at PC82: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[20]).KEY1 = 69
+-- DECOMPILER ERROR at PC85: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[21]).KEY1 = 82
+-- DECOMPILER ERROR at PC88: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[22]).KEY1 = 84
+-- DECOMPILER ERROR at PC91: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[23]).KEY1 = 89
+-- DECOMPILER ERROR at PC94: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[24]).KEY1 = 85
+-- DECOMPILER ERROR at PC97: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[25]).KEY1 = 73
+-- DECOMPILER ERROR at PC100: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[26]).KEY1 = 79
+-- DECOMPILER ERROR at PC103: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[27]).KEY1 = 49
+-- DECOMPILER ERROR at PC106: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[28]).KEY1 = 50
+-- DECOMPILER ERROR at PC109: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[29]).KEY1 = 51
+-- DECOMPILER ERROR at PC112: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[30]).KEY1 = 52
+-- DECOMPILER ERROR at PC115: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[31]).KEY1 = 53
+-- DECOMPILER ERROR at PC118: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[32]).KEY1 = 54
+-- DECOMPILER ERROR at PC121: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[33]).KEY1 = 55
+-- DECOMPILER ERROR at PC124: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[34]).KEY1 = 56
+-- DECOMPILER ERROR at PC127: Confused about usage of register: R0 in 'UnsetPending'
+
+;
+(HOTKEY_1[35]).KEY1 = 57
+

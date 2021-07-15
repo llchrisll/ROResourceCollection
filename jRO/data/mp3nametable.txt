@@ -1,4 +1,4 @@
-login#bgm\\64.mp3#
+login#bgm\\98.mp3#
 dewata.rsw#bgm\\142.mp3#
 dew_in01.rsw#bgm\\143.mp3#
 dew_fild01.rsw#bgm\\143.mp3#
@@ -5661,5 +5661,11 @@ scht_fld5b.rsw#bgm\\66.mp3#
 ev_june01.rsw#bgm\\140.mp3#
 1@bond0.rsw#bgm\\111.mp3#
 1@bond1.rsw#bgm\\89.mp3#
+//------------------------------------------------
+iz_d04_i_q.rsw#bgm\\49.mp3#
+iz_d04_i.rsw#bgm\\49.mp3#
+iz_d05_i.rsw#bgm\\49.mp3#
+//------------------------------------------------
+melon_f1.rsw#bgm\\139.mp3#
 //------------------------------------------------
 //[file end]

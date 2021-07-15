@@ -1,0 +1,781 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\datainfo\LapineUpgradeBox.lub 
+
+-- params : ...
+-- function num : 0
+tblLapineUpgradeBox = {
+targets = {
+EP17_1_SPC05 = {ItemID = 23776, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Beam_Claymore_OS", 21047}
+, 
+{"Blasti_OS", 28136}
+, 
+{"Meuchler_OS", 28038}
+, 
+{"Virtual_Bow_OS", 18178}
+, 
+{"MH_P89_OS", 18179}
+, 
+{"AC_B44_OS", 18180}
+, 
+{"HR_S55_OS", 28253}
+, 
+{"Cannon_Rapier_OS", 13493}
+, 
+{"Rutilus_Stick_OS", 26151}
+, 
+{"Circuit_Board_OS", 28629}
+, 
+{"Saphir_Hall_OS", 16088}
+, 
+{"Burning_Knuckle_OS", 1862}
+, 
+{"Kuroiro_OS", 28755}
+, 
+{"Boost_Lance_OS", 32019}
+, 
+{"Ultio_Spes_OS", 16089}
+, 
+{"ElectricFox_OS", 26164}
+}
+, NeedSource_String = "OS武器シリーズ"}
+, 
+EP17_1_SPC06 = {ItemID = 23777, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Beam_Claymore_OS", 21047}
+, 
+{"Blasti_OS", 28136}
+, 
+{"Meuchler_OS", 28038}
+, 
+{"Virtual_Bow_OS", 18178}
+, 
+{"MH_P89_OS", 18179}
+, 
+{"AC_B44_OS", 18180}
+, 
+{"HR_S55_OS", 28253}
+, 
+{"Cannon_Rapier_OS", 13493}
+, 
+{"Rutilus_Stick_OS", 26151}
+, 
+{"Circuit_Board_OS", 28629}
+, 
+{"Saphir_Hall_OS", 16088}
+, 
+{"Burning_Knuckle_OS", 1862}
+, 
+{"Kuroiro_OS", 28755}
+, 
+{"Boost_Lance_OS", 32019}
+, 
+{"Ultio_Spes_OS", 16089}
+, 
+{"ElectricFox_OS", 26164}
+}
+, NeedSource_String = "OS武器シリーズ"}
+, 
+EP17_1_SPC07 = {ItemID = 23778, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Beam_Claymore_OS", 21047}
+, 
+{"Blasti_OS", 28136}
+, 
+{"Meuchler_OS", 28038}
+, 
+{"Virtual_Bow_OS", 18178}
+, 
+{"MH_P89_OS", 18179}
+, 
+{"AC_B44_OS", 18180}
+, 
+{"HR_S55_OS", 28253}
+, 
+{"Cannon_Rapier_OS", 13493}
+, 
+{"Rutilus_Stick_OS", 26151}
+, 
+{"Circuit_Board_OS", 28629}
+, 
+{"Saphir_Hall_OS", 16088}
+, 
+{"Burning_Knuckle_OS", 1862}
+, 
+{"Kuroiro_OS", 28755}
+, 
+{"Boost_Lance_OS", 32019}
+, 
+{"Ultio_Spes_OS", 16089}
+, 
+{"ElectricFox_OS", 26164}
+}
+, NeedSource_String = "OS武器シリーズ"}
+, 
+EP17_1_SPC08 = {ItemID = 23779, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Beam_Claymore_OS", 21047}
+, 
+{"Blasti_OS", 28136}
+, 
+{"Meuchler_OS", 28038}
+, 
+{"Virtual_Bow_OS", 18178}
+, 
+{"MH_P89_OS", 18179}
+, 
+{"AC_B44_OS", 18180}
+, 
+{"HR_S55_OS", 28253}
+, 
+{"Cannon_Rapier_OS", 13493}
+, 
+{"Rutilus_Stick_OS", 26151}
+, 
+{"Circuit_Board_OS", 28629}
+, 
+{"Saphir_Hall_OS", 16088}
+, 
+{"Burning_Knuckle_OS", 1862}
+, 
+{"Kuroiro_OS", 28755}
+, 
+{"Boost_Lance_OS", 32019}
+, 
+{"Ultio_Spes_OS", 16089}
+, 
+{"ElectricFox_OS", 26164}
+}
+, NeedSource_String = "OS武器シリーズ"}
+, 
+EP17_1_SPC09 = {ItemID = 23780, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Beam_Claymore_OS", 21047}
+, 
+{"Blasti_OS", 28136}
+, 
+{"Meuchler_OS", 28038}
+, 
+{"Virtual_Bow_OS", 18178}
+, 
+{"MH_P89_OS", 18179}
+, 
+{"AC_B44_OS", 18180}
+, 
+{"HR_S55_OS", 28253}
+, 
+{"Cannon_Rapier_OS", 13493}
+, 
+{"Rutilus_Stick_OS", 26151}
+, 
+{"Circuit_Board_OS", 28629}
+, 
+{"Saphir_Hall_OS", 16088}
+, 
+{"Burning_Knuckle_OS", 1862}
+, 
+{"Kuroiro_OS", 28755}
+, 
+{"Boost_Lance_OS", 32019}
+, 
+{"Ultio_Spes_OS", 16089}
+, 
+{"ElectricFox_OS", 26164}
+}
+, NeedSource_String = "OS武器シリーズ"}
+, 
+EP17_1_SPC10 = {ItemID = 23781, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Beam_Claymore_OS", 21047}
+, 
+{"Blasti_OS", 28136}
+, 
+{"Meuchler_OS", 28038}
+, 
+{"Virtual_Bow_OS", 18178}
+, 
+{"MH_P89_OS", 18179}
+, 
+{"AC_B44_OS", 18180}
+, 
+{"HR_S55_OS", 28253}
+, 
+{"Cannon_Rapier_OS", 13493}
+, 
+{"Rutilus_Stick_OS", 26151}
+, 
+{"Circuit_Board_OS", 28629}
+, 
+{"Saphir_Hall_OS", 16088}
+, 
+{"Burning_Knuckle_OS", 1862}
+, 
+{"Kuroiro_OS", 28755}
+, 
+{"Boost_Lance_OS", 32019}
+, 
+{"Ultio_Spes_OS", 16089}
+, 
+{"ElectricFox_OS", 26164}
+}
+, NeedSource_String = "OS武器シリーズ"}
+, 
+Helm_ScrollI = {ItemID = 100281, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"BIJOUHAT", 19186}
+}
+, NeedSource_String = "ヘルムスクロールI"}
+, 
+Weapon_ScrollI = {ItemID = 100282, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Twin_Edge_B", 13412}
+, 
+{"Twin_Edge_R", 13413}
+, 
+{"FaceWormQueen_Leg", 13090}
+}
+, NeedSource_String = "ウェポンスクロールI"}
+, 
+Armor_ScrollI = {ItemID = 100283, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Hero_Plate", 15093}
+, 
+{"Hero_Magic_Coat", 15094}
+, 
+{"Hero_Judgement_Shawl", 15095}
+, 
+{"Hero_Trade_Mail", 15096}
+, 
+{"Hero_Hidden_Cloth", 15097}
+, 
+{"Hero_Taget_Suits", 15098}
+}
+, NeedSource_String = "メイルスクロールI"}
+, 
+Shoes_ScrollI = {ItemID = 100284, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Vet_Nepen_Heel", 22035}
+, 
+{"Vet_SliverFox_Boots", 22036}
+, 
+{"Vet_Ungo_Boots", 22037}
+}
+, NeedSource_String = "シューズスクロールI"}
+, 
+Accessory_ScrollI = {ItemID = 100285, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Buwaya_Tattoo", 2907}
+, 
+{"Bakonawa_Tattoo", 2910}
+, 
+{"Bangungot_Tattoo", 2911}
+, 
+{"Pendant_Of_Maelstorm", 2992}
+, 
+{"Broken_Chip_1_J", 28370}
+, 
+{"Broken_Chip_2_J", 28371}
+}
+, NeedSource_String = "アクセサリースクロールI"}
+, 
+Holy_Egg = {ItemID = 12019, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Robot\'s_Arm_J", 16047}
+}
+, NeedSource_String = "開運招福の鈴"}
+, 
+Magma_Essence = {ItemID = 23815, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Lava_Leather_Armor", 15378}
+, 
+{"Lava_Leather_Suits", 15379}
+, 
+{"Lava_Leather_Robe", 15380}
+, 
+{"Lava_Leather_Manteau", 20935}
+, 
+{"Lava_Leather_Muffler", 20936}
+, 
+{"Lava_Leather_Hode", 20937}
+, 
+{"Lava_Leather_Boots", 22199}
+, 
+{"Lava_Leather_Shoes", 22200}
+, 
+{"Lava_Leather_Sandle", 22201}
+}
+, NeedSource_String = "守護のエッセンス"}
+, 
+Essence1_JP = {ItemID = 100348, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Wand_Of_Flame", 26138}
+, 
+{"Wand_Of_Ice", 26139}
+, 
+{"Prisoner_Dairy", 28619}
+}
+, NeedSource_String = "闘気のエッセンス"}
+, 
+Essence2_JP = {ItemID = 100349, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Staff_Of_Blue_Flame", 2049}
+, 
+{"T_Sword_Of_Kingdom", 21039}
+, 
+{"T_Lance_Of_Kingdom", 26016}
+}
+, NeedSource_String = "猛気のエッセンス"}
+, 
+Helm_C_unit_1_JP = {ItemID = 100532, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Cor_Core_Headset", 410014}
+}
+, NeedSource_String = "兜改造装置I"}
+, 
+Helm_C_unit_2_JP = {ItemID = 100533, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Cor_Core_Headset_", 410015}
+}
+, NeedSource_String = "兜改造装置II"}
+, 
+Illu_Enhance_Cube = {ItemID = 100251, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Illusion_Armor_A", 15376}
+, 
+{"Illusion_Armor_B", 15377}
+, 
+{"Illusion_Engine_A", 20933}
+, 
+{"Illusion_Engine_B", 20934}
+, 
+{"Illusion_Leg_A", 22196}
+, 
+{"Illusion_Leg_B", 22197}
+}
+, NeedSource_String = "エンハンスキューブ(イルシオン)"}
+, 
+Auto_Enhance_Cube = {ItemID = 100252, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Auto_Armor_A", 450127}
+, 
+{"Auto_Armor_B", 450128}
+, 
+{"Auto_Leg_A", 470022}
+, 
+{"Auto_Leg_B", 470023}
+, 
+{"Auto_Engine_A", 480020}
+, 
+{"Auto_Engine_B", 480021}
+}
+, NeedSource_String = "エンハンスキューブ(オートマティック)"}
+, 
+Auto_Imp_Melee_1 = {ItemID = 100164, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器改造装置(Type1)"}
+, 
+Auto_Imp_Melee_2 = {ItemID = 100165, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器改造装置(Type2)"}
+, 
+Auto_Imp_Melee_3 = {ItemID = 100166, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器改造装置(Type3)"}
+, 
+Auto_Imp_Magic_1 = {ItemID = 100167, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器改造装置(Type4)"}
+, 
+Auto_Imp_Magic_2 = {ItemID = 100168, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器改造装置(Type5)"}
+, 
+Auto_Imp_Magic_3 = {ItemID = 100169, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器改造装置(Type6)"}
+, 
+Illu_Enhance_Cube2 = {ItemID = 100729, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Illusion_Armor_A", 15376}
+, 
+{"Illusion_Armor_B", 15377}
+, 
+{"Illusion_Engine_A", 20933}
+, 
+{"Illusion_Engine_B", 20934}
+, 
+{"Illusion_Leg_A", 22196}
+, 
+{"Illusion_Leg_B", 22197}
+}
+, NeedSource_String = "エンハンスキューブII(イルシオン)"}
+, 
+Illegal_Parts_A = {ItemID = 100794, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Demons_Familiar", 410070}
+}
+, NeedSource_String = "違法パーツI"}
+, 
+Illegal_Parts_B = {ItemID = 100795, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Demons_Familiar_", 410071}
+}
+, NeedSource_String = "違法パーツII"}
+}
+, get_lapine_box = function(in_box_id)
+  -- function num : 0_0
+  for box_name,box_info in pairs(tblLapineUpgradeBox.targets) do
+    if box_info.ItemID == in_box_id then
+      return box_info
+    end
+  end
+  return nil
+end
+, get_min_need_refine = function(in_box_id)
+  -- function num : 0_1
+  local box = (tblLapineUpgradeBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedRefineMin
+  end
+  return 0
+end
+, get_min_need_option_num = function(in_box_id)
+  -- function num : 0_2
+  local box = (tblLapineUpgradeBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedOptionNumMin
+  end
+  return 0
+end
+, get_need_source_string = function(in_box_id)
+  -- function num : 0_3
+  local box = (tblLapineUpgradeBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedSource_String
+  end
+  return 0
+end
+, set_resource_item_list = function(in_box_id)
+  -- function num : 0_4
+  local box = (tblLapineUpgradeBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    for k,v in pairs(box.TargetItems) do
+      add_ingredient_lapine_upgrade_box(v[2])
+    end
+  end
+end
+}
+

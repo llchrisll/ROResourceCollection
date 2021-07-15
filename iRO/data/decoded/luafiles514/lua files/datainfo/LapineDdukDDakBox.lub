@@ -5,16 +5,6 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
-IDTest_Special = {ItemID = 100000, NeedCount = 3, NeedRefineMin = 0, 
-SourceItems = {
-{"Jellopy", 1, 909}
-, 
-{"Fluff", 1, 914}
-, 
-{"Shell", 1, 935}
-}
-, NeedSource_String = "Jellopy,Fluff,Shell"}
-, 
 StatusShadow_Mix = {ItemID = 23247, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 20, 
 SourceItems = {
 {"S_Lucky_Weapon", 1, 24034}
@@ -42,6 +32,12 @@ SourceItems = {
 {"S_Athletic_Shoes", 1, 24045}
 }
 , NeedSource_String = "+7 Status Shadow"}
+, 
+Silver_Statue = {ItemID = 23545, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Bloody_Knight_Shield", 1, 28942}
+}
+, NeedSource_String = "Cursed Knight\'s Shield"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

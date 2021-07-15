@@ -2373,3 +2373,24 @@ rwc_arena12.rsw#rwc_arena04.rsw#
 1@jtb2.gat#1@jtb.gat#
 1@jtb2.rsw#1@jtb.rsw#
 유저인터페이스\map\1@jtb2.bmp#유저인터페이스\map\1@jtb.bmp#
+
+
+//20160701
+1@md_gef.gnd#1@md_gef.gnd#
+1@md_gef.gat#1@md_gef.gat#
+1@md_gef.rsw#1@md_gef.rsw#
+
+
+//WOE TE COPY
+
+te_prt_gld.gnd#te_prt_gld.gnd#
+te_prt_gld.gat#te_prt_gld.gat#
+te_prt_gld.rsw#te_prt_gld.rsw#
+유저인터페이스\map\te_prt_gld.bmp#유저인터페이스\map\te_prt_gld.bmp#
+
+
+//2017 팝콘 페스타
+1@crd.gnd#1@crd.gnd#
+1@crd.gat#1@crd.gat#
+1@crd.rsw#1@crd.rsw#
+유저인터페이스\map\1@crd.bmp#유저인터페이스\map\1@crd.bmp#

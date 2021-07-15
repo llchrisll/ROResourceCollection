@@ -5,6 +5,38 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+MagicalShadow_Mix = {ItemID = 100887, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"매지컬웨폰S", 1, 24022}
+, 
+{"매지컬이어링S", 1, 24021}
+, 
+{"매지컬펜던트S", 1, 24023}
+, 
+{"S_Magical_Shoes", 1, 24396}
+, 
+{"S_Magical_Armor", 1, 24398}
+, 
+{"S_Magical_Shield", 1, 24397}
+}
+, NeedSource_String = "매지컬 쉐도우"}
+, 
+PhysicalShadow_Mix = {ItemID = 100888, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"피지컬웨폰S", 1, 24019}
+, 
+{"피지컬이어링S", 1, 24018}
+, 
+{"피지컬펜던트S", 1, 24020}
+, 
+{"S_Physical_Shoes", 1, 24393}
+, 
+{"S_Physical_Armor", 1, 24395}
+, 
+{"S_Physical_Shield", 1, 24394}
+}
+, NeedSource_String = "피지컬 쉐도우"}
+, 
 MajorAutoSpell_Mix = {ItemID = 100783, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_AutoSpell_Shoes", 1, 24724}
@@ -1406,6 +1438,16 @@ SourceItems = {
 {"S_Hasty_Shield", 1, 24732}
 , 
 {"S_Infinity_Shield", 1, 24733}
+, 
+{"S_Durable_Weapon", 1, 24734}
+, 
+{"S_Durable_Shield", 1, 24735}
+, 
+{"S_Clever_Weapon", 1, 24736}
+, 
+{"S_Clever_Shield", 1, 24737}
+, 
+{"S_CriticalHit_Weapon", 1, 24738}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5024,6 +5066,16 @@ SourceItems = {
 {"S_Hasty_Shield", 1, 24732}
 , 
 {"S_Infinity_Shield", 1, 24733}
+, 
+{"S_Durable_Weapon", 1, 24734}
+, 
+{"S_Durable_Shield", 1, 24735}
+, 
+{"S_Clever_Weapon", 1, 24736}
+, 
+{"S_Clever_Shield", 1, 24737}
+, 
+{"S_CriticalHit_Weapon", 1, 24738}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6080,6 +6132,8 @@ SourceItems = {
 {"미야비인형알", 1, 9048}
 , 
 {"리프캣알", 1, 9041}
+, 
+{"Dark_Priest_Egg", 1, 9128}
 }
 , NeedSource_String = "펫 알"}
 , 

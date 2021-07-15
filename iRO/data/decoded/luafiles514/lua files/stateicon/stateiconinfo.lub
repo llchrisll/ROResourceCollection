@@ -5219,4 +5219,63 @@ descript = {
 {"Increase Magical damage with property."}
 }
 }
+-- DECOMPILER ERROR at PC10762: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CHUSEOK_TUESDAY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Boost Attribute", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Additional damage to Earth Attribute Monsters."}
+, 
+{"Increased Fire Tolerance."}
+}
+}
+-- DECOMPILER ERROR at PC10789: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CHUSEOK_WEEKEND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Boost Attribute", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Additional damage to Neutral Monsters."}
+, 
+{"Increased Neutral Tolerance"}
+}
+}
+-- DECOMPILER ERROR at PC10813: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ATK_POPCORN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Boost Attack", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATK + 3%"}
+}
+}
+-- DECOMPILER ERROR at PC10837: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_MATK_POPCORN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Boost Magic Attack", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MATK + 3%"}
+}
+}
+-- DECOMPILER ERROR at PC10861: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Boost Attack Speed", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"After Skill Delay - 10%"}
+}
+}
 

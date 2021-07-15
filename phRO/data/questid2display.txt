@@ -17306,7 +17306,7 @@ First encounter.#
 
 
 12317#Trace of Time Travel#SG_FEEL#QUE_NOIMAGE#
-Time travel to Old Glast Heim has been prohibited for 23hours.#
+You can enter Old Glast Heim again after 23 hours.#
 Dimension distorted.#
 
 
@@ -21258,12 +21258,12 @@ Defeat Heater 100 ea #
 
 ///Hunting
 295186#Comeback Stage Daily Quest - Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunting ^0000FFTamruan and Hellhound^000000#
-Defeat Tamruan and Hellhound 100 ea#
+Hunting ^0000FFMerman and Spring Rabbit^000000#
+Defeat Merman and Spring Rabbit 100 ea#
 
 ///Collecting
 295404#Comeback Stage Daily Quest - Collecting Item#SG_FEEL#QUE_NOIMAGE#
-^0000FFCollect below items^000000                                                          1. Tassel 100 ea                                                             2. Skel-Bone 100 ea#
+^0000FFCollect below items^000000                                                          1. Maneater Root 100 ea                                                      2. Horrendous Hair 100 ea#
 Collecting items#
 
 //Training Ground Renovation Part3
@@ -23097,3 +23097,63 @@ nameless_i (84,206)#
 295785#Organic Seed Daily#SG_FEEL#QUE_NOIMAGE#
 Give Organic Seed to Fairy Ai to plant at her fairy's world#
 You able to accept again at 05:00 AM#
+
+295786#Trace of Time Travel VIP#SG_FEEL#QUE_NOIMAGE#
+You can enter Old Glast Heim again after 13 hours.#
+Dimension distorted.#
+
+295790#Daily Mission Key#SG_FEEL#QUE_NOIMAGE#
+Daily Quest - Mission Key can do again after 5.00 AM #
+Cool Time 5.00 AM #
+
+295791#Mission Key - Turtle Shell#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1. Turtle Shell 100 ea#   
+Collecting items#
+
+295792#Mission Key - Orcish Voucher#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1. Orcish Voucher 100 ea#   
+Collecting items#
+
+295793#Mission Key - Screw#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1. Screw 100 ea#   
+Collecting items#
+
+295794#Mission Key - Rotten Meat#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1. Rotten Meat 100 ea#   
+Collecting items#
+
+295795#Mission Key - Maneater Root#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1. Maneater Root 100 ea#   
+Collecting items#
+
+295796#Mission Key - Freezer#SG_FEEL#QUE_NOIMAGE#
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 Freezer#   
+Defeat monster#
+
+295797#Mission Key - High Orc#SG_FEEL#QUE_NOIMAGE#
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 High Orc#   
+Defeat monster#
+
+295798#Mission Key - Geographer#SG_FEEL#QUE_NOIMAGE#
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 Geographer#   
+Defeat monster#
+
+295799#Mission Key - Roween#SG_FEEL#QUE_NOIMAGE#
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 Roween#   
+Defeat monster#
+
+295800#Mission Key - Teddy Bear#SG_FEEL#QUE_NOIMAGE#
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 Teddy Bear#   
+Defeat monster#
+
+295787#Treasure Key Mission#SG_FEEL#QUE_NOIMAGE#
+Finding Treasure Key from Sappun to open Tiffany's Treasure Box#
+Get Treasure Key from Sappun.#
+
+295788#Kard Exchange Mission#SG_FEEL#QUE_NOIMAGE#
+Finding Treasure Kard from Kwangya to exchange reward with Tiffany's Treasure Box#
+Get Treasure Kard from Kwangya.#
+
+295789#Tiffany Hunting Mission#SG_FEEL#QUE_NOIMAGE#
+Defeating Sappun and Kwangya 2,500 ea each to exchange with Sake Cup (N-OSM), Available one time only#
+Defeating Sappun and Kwangya#

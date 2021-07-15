@@ -78,8 +78,8 @@ luadec.exe ".\data\luafiles514\lua files\datainfo\drawitemonaura.lub" > ".\data\
 luadec.exe ".\data\luafiles514\lua files\datainfo\EnumVar.lub" > ".\data\decoded\luafiles514\lua files\datainfo\EnumVar.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\exceptionitemproducer.lub" > ".\data\decoded\luafiles514\lua files\datainfo\exceptionitemproducer.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\helpmsgstr.lub" > ".\data\decoded\luafiles514\lua files\datainfo\helpmsgstr.lub"
-luadec.exe ".\data\luafiles514\lua files\datainfo\iteminfo.lub" > ".\data\decoded\luafiles514\lua files\datainfo\helpmsgstr.lub"
-luadec.exe ".\data\luafiles514\lua files\datainfo\jobidentity.lub" > ".\data\decoded\luafiles514\lua files\datainfo\iteminfo.lub"
+luadec.exe ".\data\luafiles514\lua files\datainfo\iteminfo.lub" > ".\data\decoded\luafiles514\lua files\datainfo\iteminfo.lub"
+luadec.exe ".\data\luafiles514\lua files\datainfo\jobidentity.lub" > ".\data\decoded\luafiles514\lua files\datainfo\jobidentity.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\jobName.lub" > ".\data\decoded\luafiles514\lua files\datainfo\jobName.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\jobname_f.lub" > ".\data\decoded\luafiles514\lua files\datainfo\jobname_f.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\kaframovemapservicelist.lub" > ".\data\decoded\luafiles514\lua files\datainfo\kaframovemapservicelist.lub"
@@ -141,7 +141,7 @@ luadec.exe ".\data\luafiles514\lua files\navigation\navi_map_krpri.lub" > ".\dat
 luadec.exe ".\data\luafiles514\lua files\navigation\navi_mob_krpri.lub" > ".\data\decoded\luafiles514\lua files\navigation\navi_mob_krpri.lub"
 luadec.exe ".\data\luafiles514\lua files\navigation\navi_npc_krpri.lub" > ".\data\decoded\luafiles514\lua files\navigation\navi_npc_krpri.lub"
 luadec.exe ".\data\luafiles514\lua files\navigation\navi_npcdistance_krpri.lub" > ".\data\decoded\luafiles514\lua files\navigation\navi_npcdistance_krpri.lub"
-luadec.exe ".\data\luafiles514\lua files\navigation\navi_picknpc_krpri.lub" > ".\data\decoded\luafiles514\lua files\navigation\navi_picknpc_krpri.lua"
+luadec.exe ".\data\luafiles514\lua files\navigation\navi_picknpc_krpri.lub" > ".\data\decoded\luafiles514\lua files\navigation\navi_picknpc_krpri.lub"
 luadec.exe ".\data\luafiles514\lua files\navigation\navi_scroll_krpri.lub" > ".\data\decoded\luafiles514\lua files\navigation\navi_scroll_krpri.lub"
 echo -------------------------------
 echo data\luafiles514\lua files\newskillinfo:
@@ -229,7 +229,7 @@ luadec.exe ".\data\luafiles514\lua files\worldviewdata\worldviewdata_table.lub" 
 echo -------------------------------
 echo Switchting to rdata\luafiles514\lua files\
 luadec.exe ".\rdata\luafiles514\lua files\msgstring_kr_s.lub" > ".\rdata\decoded\luafiles514\lua files\msgstring_kr_s.lub"
-luadec.exe ".\rdata\luafiles514\lua files\signboardlist.lub" > ".\rdata\decoded\luafiles514\lua files\signboardlist.lua"
+luadec.exe ".\rdata\luafiles514\lua files\signboardlist.lub" > ".\rdata\decoded\luafiles514\lua files\signboardlist.lub"
 echo -------------------------------
 echo rdata\luafiles514\lua files\datainfo:
 luadec.exe ".\rdata\luafiles514\lua files\datainfo\accessoryid.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\accessoryid.lub"
@@ -257,8 +257,8 @@ luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_map_krsak.lub" > ".\rd
 luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_mob_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_mob_krsak.lub"
 luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_npc_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_npc_krsak.lub"
 luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_npcdistance_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_npcdistance_krsak.lub"
-luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_picknpc_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_picknpc_krsak.lua"
-luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_scroll_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_scroll_krsak.lua"
+luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_picknpc_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_picknpc_krsak.lub"
+luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_scroll_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_scroll_krsak.lub"
 echo -------------------------------
 echo rdata\luafiles514\lua files\offsetitempos:
 luadec.exe ".\rdata\luafiles514\lua files\offsetitempos\offsetitempos.lub" > ".\rdata\decoded\luafiles514\lua files\offsetitempos\offsetitempos.lub"
