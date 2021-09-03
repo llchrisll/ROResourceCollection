@@ -2394,3 +2394,9 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 1@crd.gat#1@crd.gat#
 1@crd.rsw#1@crd.rsw#
 유저인터페이스\map\1@crd.bmp#유저인터페이스\map\1@crd.bmp#
+
+
+1@drdo.gnd#1@drdo.gnd#
+1@drdo.gat#1@drdo.gat#
+1@drdo.rsw#1@drdo.rsw#
+유저인터페이스\map\1@drdo.bmp#유저인터페이스\map\1@drdo.bmp#
