@@ -5835,7 +5835,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.LG_BANISHINGPOINT] = {"LG_BANISHINGPOINT"; SkillName = "배니싱 포인트", MaxLv = 10, 
-SpAmount = {20, 20, 20, 20, 20, 25, 25, 25, 25, 25}
+SpAmount = {20, 22, 24, 26, 28, 30, 32, 34, 36, 38}
 , bSeperateLv = true, 
 AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
 , 
@@ -8023,7 +8023,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.LG_RAYOFGENESIS] = {"LG_RAYOFGENESIS"; SkillName = "레이 오브 제네시스", MaxLv = 10, 
-SpAmount = {30, 40, 50, 60, 70, 80, 90, 100, 110, 120}
+SpAmount = {45, 50, 55, 60, 65, 70, 75, 80, 85, 90}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
@@ -8769,7 +8769,7 @@ _NeedSkillList = {
 [SKID.SC_FATALMENACE] = {"SC_FATALMENACE"; SkillName = "페이탈 메나스", MaxLv = 10, 
 SpAmount = {10, 14, 18, 22, 26, 30, 34, 38, 42, 46}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
 , 
 _NeedSkillList = {
 {SKID.RG_INTIMIDATE, 5}
@@ -11790,6 +11790,12 @@ SpAmount = {30, 40, 50, 60, 70}
 AttackRange = {1, 1, 1, 1, 1}
 }
 , 
+[SKID.DK_SERVANTWEAPON_ATK] = {"DK_SERVANTWEAPON_ATK"; SkillName = "서번트 웨폰", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
 [SKID.DK_SERVANT_W_SIGN] = {"DK_SERVANT_W_SIGN"; SkillName = "서번트 웨폰 - 사인", MaxLv = 5, 
 SpAmount = {15, 15, 15, 15, 15}
 , bSeperateLv = true, 
@@ -11891,7 +11897,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.DK_STORMSLASH] = {"DK_STORMSLASH"; SkillName = "스톰 슬래쉬", MaxLv = 5, 
-SpAmount = {30, 35, 40, 45, 50}
+SpAmount = {40, 45, 50, 55, 60}
 , bSeperateLv = true, 
 AttackRange = {2, 2, 2, 2, 2}
 , 
@@ -11996,6 +12002,12 @@ _NeedSkillList = {
 }
 }
 , 
+[SKID.AG_CRYSTAL_IMPACT_ATK] = {"AG_CRYSTAL_IMPACT_ATK"; SkillName = "크리스탈 임팩트", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
 [SKID.AG_TORNADO_STORM] = {"AG_TORNADO_STORM"; SkillName = "토네이도 스톰", MaxLv = 5, 
 SpAmount = {45, 55, 65, 75, 85}
 , bSeperateLv = true, 
@@ -12019,7 +12031,7 @@ _NeedSkillList = {
 [SKID.AG_CLIMAX] = {"AG_CLIMAX"; SkillName = "클라이막스", MaxLv = 5, 
 SpAmount = {60, 60, 60, 60, 60}
 , 
-ApAmount = {200, 200, 200, 200, 200}
+ApAmount = {150, 150, 150, 150, 150}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -12074,6 +12086,12 @@ AttackRange = {9, 9, 9, 9, 9}
 _NeedSkillList = {
 {SKID.AG_FLORAL_FLARE_ROAD, 1}
 }
+}
+, 
+[SKID.AG_CRIMSON_ARROW_ATK] = {"AG_CRIMSON_ARROW_ATK"; SkillName = "크림즌 애로우", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {9, 9, 9, 9, 9}
 }
 , 
 [SKID.AG_FROZEN_SLASH] = {"AG_FROZEN_SLASH"; SkillName = "프로즌 슬래쉬", MaxLv = 5, 
@@ -12251,7 +12269,7 @@ _NeedSkillList = {
 [SKID.IQ_JUDGE] = {"IQ_JUDGE"; SkillName = "제2장 : 심판자", MaxLv = 5, 
 SpAmount = {60, 60, 60, 60, 60}
 , 
-ApAmount = {100, 100, 100, 100, 100}
+ApAmount = {50, 50, 50, 50, 50}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -12263,7 +12281,7 @@ _NeedSkillList = {
 [SKID.IQ_THIRD_EXOR_FLAME] = {"IQ_THIRD_EXOR_FLAME"; SkillName = "최종장 : 멸마의 불꽃", MaxLv = 5, 
 SpAmount = {60, 60, 60, 60, 60}
 , 
-ApAmount = {150, 150, 150, 150, 150}
+ApAmount = {100, 100, 100, 100, 100}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -12391,7 +12409,7 @@ _NeedSkillList = {
 [SKID.IG_OVERSLASH] = {"IG_OVERSLASH"; SkillName = "오버 슬래쉬", MaxLv = 10, 
 SpAmount = {41, 44, 47, 50, 53, 56, 59, 62, 65, 68}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+AttackRange = {3, 3, 3, 3, 3, 3, 3, 3, 3, 3}
 , 
 _NeedSkillList = {
 {SKID.IG_ATTACK_STANCE, 3}
@@ -12596,6 +12614,12 @@ _NeedSkillList = {
 , 
 {SKID.CD_FRAMEN, 3}
 }
+}
+, 
+[SKID.CD_ARBITRIUM_ATK] = {"CD_ARBITRIUM_ATK"; SkillName = "아르비트리움", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 }
 , 
 [SKID.CD_PRESENS_ACIES] = {"CD_PRESENS_ACIES"; SkillName = "프레센스 아치에스", MaxLv = 5, 
@@ -12847,7 +12871,7 @@ _NeedSkillList = {
 [SKID.BO_HELLTREE] = {"BO_HELLTREE"; SkillName = "크리에이팅 헬 트리", MaxLv = 5, 
 SpAmount = {100, 100, 100, 100, 100}
 , 
-ApAmount = {100, 100, 100, 100, 100}
+ApAmount = {100, 90, 80, 70, 60}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -12921,7 +12945,7 @@ _NeedSkillList = {
 [SKID.WH_HAWKBOOMERANG] = {"WH_HAWKBOOMERANG"; SkillName = "호크 부메랑", MaxLv = 5, 
 SpAmount = {120, 120, 120, 120, 120}
 , 
-ApAmount = {50, 50, 50, 50, 50}
+ApAmount = {15, 15, 15, 15, 15}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9}
 , 
@@ -13009,7 +13033,7 @@ _NeedSkillList = {
 [SKID.TR_MYSTIC_SYMPHONY] = {"TR_MYSTIC_SYMPHONY"; SkillName = "미스틱 심포니", MaxLv = 1, 
 SpAmount = {250}
 , 
-ApAmount = {100}
+ApAmount = {125}
 , bSeperateLv = false, 
 AttackRange = {1}
 , 
@@ -13035,7 +13059,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.TR_ROSEBLOSSOM] = {"TR_ROSEBLOSSOM"; SkillName = "로제 블라썸", MaxLv = 5, 
-SpAmount = {215, 230, 245, 260, 275}
+SpAmount = {105, 110, 115, 120, 125}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9}
 , 
@@ -13044,8 +13068,14 @@ _NeedSkillList = {
 }
 }
 , 
+[SKID.TR_ROSEBLOSSOM_ATK] = {"TR_ROSEBLOSSOM_ATK"; SkillName = "로제 블라썸", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+}
+, 
 [SKID.TR_RHYTHMSHOOTING] = {"TR_RHYTHMSHOOTING"; SkillName = "리듬 슈팅", MaxLv = 5, 
-SpAmount = {80, 92, 104, 116, 128}
+SpAmount = {66, 72, 78, 84, 90}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9}
 }
@@ -13187,7 +13217,7 @@ _NeedSkillList = {
 [SKID.ABC_UNLUCKY_RUSH] = {"ABC_UNLUCKY_RUSH"; SkillName = "언럭키 러쉬", MaxLv = 5, 
 SpAmount = {30, 35, 40, 45, 50}
 , bSeperateLv = true, 
-AttackRange = {7, 7, 7, 7, 7}
+AttackRange = {9, 9, 9, 9, 9}
 , 
 _NeedSkillList = {
 {SKID.ABC_ABYSS_DAGGER, 3}
@@ -13271,7 +13301,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.ABC_FRENZY_SHOT] = {"ABC_FRENZY_SHOT"; SkillName = "프렌지 샷", MaxLv = 10, 
-SpAmount = {40, 45, 50, 55, 60, 65, 70, 75, 80, 85}
+SpAmount = {35, 45, 55, 65, 75, 85, 95, 105, 115, 125}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 

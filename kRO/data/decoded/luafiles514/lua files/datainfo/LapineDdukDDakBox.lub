@@ -1448,6 +1448,8 @@ SourceItems = {
 {"S_Clever_Shield", 1, 24737}
 , 
 {"S_CriticalHit_Weapon", 1, 24738}
+, 
+{"S_KingbirdAnc_Weapon", 1, 24745}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5076,6 +5078,8 @@ SourceItems = {
 {"S_Clever_Shield", 1, 24737}
 , 
 {"S_CriticalHit_Weapon", 1, 24738}
+, 
+{"S_KingbirdAnc_Weapon", 1, 24745}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5556,6 +5560,30 @@ SourceItems = {
 {"Magic_Stone_Middle", 1, 1000529}
 , 
 {"Magic_Stone_Bottom", 1, 1000530}
+, 
+{"Range_Stone_Robe_D", 1, 1000523}
+, 
+{"MinorCastStone_Robe_D", 1, 1000521}
+, 
+{"SPdrainStone_Robe_D", 1, 1000525}
+, 
+{"RuneknightStone_Top3", 1, 1000610}
+, 
+{"RuneknightStone_Middle3", 1, 1000611}
+, 
+{"RuneknightStone_Bottom3", 1, 1000612}
+, 
+{"WarlockStone_Top3", 1, 1000613}
+, 
+{"WarlockStone_Middle3", 1, 1000614}
+, 
+{"WarlockStone_Bottom3", 1, 1000615}
+, 
+{"RoyalguardStone_Top3", 1, 1000616}
+, 
+{"RoyalguardStone_Middle3", 1, 1000617}
+, 
+{"RoyalguardStone_Bottom3", 1, 1000618}
 }
 , NeedSource_String = "의상인챈트스톤"}
 , 
@@ -6774,6 +6802,22 @@ SourceItems = {
 {"C_Sting_Silk_Ribbon", 1, 31448}
 , 
 {"C_Adventure_Cat_Bag", 1, 480110}
+, 
+{"C플라워섬머햇", 1, 20339}
+, 
+{"C_Cherry_Ribbon", 1, 410063}
+, 
+{"C_Feather_Stola", 1, 420071}
+, 
+{"C_Samba_Carnival", 1, 480122}
+, 
+{"C_Whale_Cap", 1, 400163}
+, 
+{"C_Sailor_Collar_WH", 1, 420044}
+, 
+{"C_Giant_Shark", 1, 480126}
+, 
+{"C_Triple_Ice_Cream", 1, 480129}
 }
 , NeedSource_String = "냥다래 의상"}
 }

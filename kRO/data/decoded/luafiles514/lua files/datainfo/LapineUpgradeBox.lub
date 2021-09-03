@@ -54,6 +54,14 @@ TargetItems = {
 {"Avenger_LT", 620015}
 , 
 {"Meteor_Striker_LT", 590034}
+, 
+{"Oriental_Sword_LT", 600023}
+, 
+{"Dragonic_Slayer_LT", 600024}
+, 
+{"Shiver_Katar_K_LT", 610033}
+, 
+{"Blade_Katar_LT", 610034}
 }
 , NeedSource_String = "영웅의 무기-LT"}
 , 
@@ -100,6 +108,14 @@ TargetItems = {
 {"Avenger_LT", 620015}
 , 
 {"Meteor_Striker_LT", 590034}
+, 
+{"Oriental_Sword_LT", 600023}
+, 
+{"Dragonic_Slayer_LT", 600024}
+, 
+{"Shiver_Katar_K_LT", 610033}
+, 
+{"Blade_Katar_LT", 610034}
 }
 , NeedSource_String = "영웅의 무기-LT"}
 , 
@@ -4920,6 +4936,8 @@ TargetItems = {
 {"S_Clever_Shield", 24737}
 , 
 {"S_CriticalHit_Weapon", 24738}
+, 
+{"S_KingbirdAnc_Weapon", 24745}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6276,6 +6294,8 @@ TargetItems = {
 {"S_Clever_Shield", 24737}
 , 
 {"S_CriticalHit_Weapon", 24738}
+, 
+{"S_KingbirdAnc_Weapon", 24745}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -7452,6 +7472,8 @@ TargetItems = {
 {"S_Clever_Shield", 24737}
 , 
 {"S_CriticalHit_Weapon", 24738}
+, 
+{"S_KingbirdAnc_Weapon", 24745}
 }
 , NeedSource_String = "+7 쉐도우 아이템"}
 , 

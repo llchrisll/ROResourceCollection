@@ -4193,6 +4193,26 @@ Description = {"팝콘 페스타 등록을 위해 ^4d4dff이글이글 구슬 10개^000000를 케를�
 Description = {"^4d4dff의상 애완용 팝콘 상자^000000 제작을 위해 ^4d4dff이글이글 구슬 20개^000000를 케를린에게 가져다 주자."}
 , Summary = "이글이글 구슬 20개"}
 , 
+[3514] = {Title = "한올 모험가 찾기", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[페이욘 던전 1층]<INFO>pay_arche.gat,39,131,0,101,0</INFO></NAVI>에서 길을 잃은 모험가를 찾아낼 수 있도록 하자."}
+, Summary = ""}
+, 
+[3515] = {Title = "양갱 모험가 찾기", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[게펜 타워 지하 던전 1층]<INFO>gef_tower.gat,153,31,0,101,0</INFO></NAVI>에서 길을 잃은 모험가를 찾아낼 수 있도록 하자."}
+, Summary = ""}
+, 
+[3516] = {Title = "린하 모험가 찾기", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[알베르타 난파선 1층]<INFO>alb2trea.gat,86,109,0,101,0</INFO></NAVI>에서 길을 잃은 모험가를 찾아낼 수 있도록 하자."}
+, Summary = ""}
+, 
+[3517] = {Title = "자린 모험가 찾기", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[모로크 피라미드 1층]<INFO>moc_ruins.gat,57,162,0,101,0</INFO></NAVI>에서 길을 잃은 모험가를 찾아낼 수 있도록 하자."}
+, Summary = ""}
+, 
+[3518] = {Title = "19주년 감사 보상", IconName = "ico_ev.bmp", 
+Description = {"19주년 감사에 대한 보상을 지급받았다."}
+, Summary = ""}
+, 
 [4000] = {Title = "셰린의 면접", 
 Description = {"셰린의 면접 시험에 통과해서 다음 과정으로 넘어가자."}
 , Summary = ""}
@@ -17158,7 +17178,7 @@ Description = {"빈 자리로 가서 초 울트라 수퍼 미라클 럭셔리 네오 근사하게EX한 연
 , Summary = "빈 자리로 이동"}
 , 
 [11399] = {Title = "연회준비를 내가 왜?", IconName = "ico_ep.bmp", 
-Description = {"완성한 특제 소스를 끼얹은 껍질은 바삭하고 속은 촉촉한 그리핀 통구이를 <NAVI>[식당]<INFO>prt_cas,358,124,0,101,0</INFO></NAVI>으로 옮기자."}
+Description = {"완성한 특제 소스를 끼얹은 껍질은 바삭하고 속은 촉촉한 그리핀 통구이를 <NAVI>[식당]<INFO>prt_cas,361,124,0,101,0</INFO></NAVI>으로 옮기자."}
 , Summary = "식당으로 배달"}
 , 
 [11400] = {Title = "게오보르그 가문", IconName = "ico_ep.bmp", 
@@ -20205,7 +20225,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 , 
 [12456] = {Title = "세계를 구한 후유증을 없앤 후유증", 
 Description = {"세계를 구하고 발생한 후유증을 초월적인 힘으로 없앤 후유증이 남아있습니다."}
-, Summary = "6시간 후 초기화", CoolTimeQuest = 1}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [12457] = {Title = "몰락의 순간", 
 Description = {"시공룡 오스카를 따라 과거의 시간으로 돌아가 최강의 요새였던 글래스트 헤임이 어떻게 몰락하게 되었는지 지켜보아야 합니다."}
@@ -20526,6 +20546,22 @@ Description = {"회색늑대의 숲 동쪽 어딘가에 짐이 있을 지 모른다. 찾아보고 회수하
 [12539] = {Title = "흩어진 짐 (남쪽)", IconName = "ico_ep.bmp", 
 Description = {"회색늑대의 숲 남쪽 어딘가에 짐이 있을 지 모른다. 찾아보고 회수하도록 하자.", "<NAVI>[추정장소]<INFO>gw_fild01,228,59,0,101,0</INFO></NAVI>"}
 , Summary = "물품 회수."}
+, 
+[12540] = {Title = "가라앉은 탑", 
+Description = {"베텔기우스가 부숴버린 탑의 지하에 창궐한 비틀린 존재들을 청소해줄 누군가가 절실히 필요합니다."}
+, Summary = "지하정화"}
+, 
+[12541] = {Title = "밀물시간", 
+Description = {"물이 밀려들어오는 시간에는 가라앉은 탑의 입구로 들어갈 수 없습니다."}
+, Summary = "3일후 새벽4시 재입장", CoolTimeQuest = 1}
+, 
+[12542] = {Title = "여신의 가호", 
+Description = {"여신의 가호가 당신과 함께합니다. 가호를 안고 일정한 지점까지 도달하면 성장에 도움이 될 것입니다."}
+, Summary = "어서 내려갑시다."}
+, 
+[12543] = {Title = "차원의 균열 여름프로모션", 
+Description = {"차원의 균열 여름 프로모션을 완료하였습니다."}
+, Summary = "여름프로모션"}
 , 
 [13000] = {Title = "RWC2011카드 구하기", 
 Description = {"파란카드를 모아서 RWC2011를 완성하자"}
@@ -28865,7 +28901,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행 할 
 , 
 [21274] = {Title = "지하묘지 안정화", IconName = "ico_dq.bmp", 
 Description = {"수도원의 지하묘지에 안장되었던 옛 사제들이 언데드로 깨어나 골치라고 한다. 다크 프리스트와 분노한 다크 프리스트를 처치해 수도원 정화를 도와주자."}
-, Summary = "다크 프리트스트, 분노의 다크프리스트 처치"}
+, Summary = "다크 프리스트, 분노의 다크프리스트 처치"}
 , 
 [21275] = {Title = "지하묘지 안정화-대기", IconName = "ico_dq.bmp", 
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행 할 수 있습니다. 낙원단 게시판 또는 글래스트헤임 수도원 앞 <NAVI>[클로드]<INFO>glast_01,205,131,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}

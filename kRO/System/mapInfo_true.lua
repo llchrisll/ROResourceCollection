@@ -4,6 +4,10 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["1@ch_u.rsw"] = {displayName = "가라앉은 탑", notifyEnter = true, 
+signName = {subTitle = "옛 엔들리스 타워 침식지", mainTitle = "가라앉은 탑"}
+, backgroundBmp = "noname"}
+, 
 ["ant_d02_i.rsw"] = {displayName = "인식의 정원", notifyEnter = true, 
 signName = {subTitle = "일루전", mainTitle = "인식의 정원"}
 , backgroundBmp = "dungeon"}

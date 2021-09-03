@@ -44,6 +44,10 @@ prt_fild05 = {
 {name = "도구점", X = 290, Y = 221, TYPE = 0}
 }
 , 
+prt_monk = {
+{name = "무기점", X = 135, Y = 263, TYPE = 1}
+}
+, 
 izlude = {
 {name = "편의서비스", X = 128, Y = 148, TYPE = 6}
 , 
