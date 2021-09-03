@@ -6,13 +6,13 @@
 tb_cashshop_banner = {
 [1] = {"2021-04_gachapon.bmp", "https://roextreme.com/msp/news/gachapon-system"}
 , 
-[2] = {"2021-07_osm1.bmp", "https://roextreme.com/msp/news/patch-notes-01072021"}
+[2] = {"2021-09-osm1.bmp", "https://roextreme.com/msp/news/patch-notes-09092021"}
 , 
-[3] = {"2021-07_osm2.bmp", "https://roextreme.com/msp/news/patch-notes-07072021"}
+[3] = {"2021-09-osm2.bmp", "https://roextreme.com/msp/news/patch-notes-16092021"}
 , 
-[4] = {"2021-07_osm3.bmp", "https://roextreme.com/msp/news/patch-notes-15072021"}
+[4] = {"2021-09-osm3.bmp", "https://roextreme.com/msp/news/patch-notes-23092021"}
 , 
-[5] = {"2021-07_osm4.bmp", "https://roextreme.com/msp/news/patch-notes-22072021"}
+[5] = {"2021-09-osm4.bmp", "https://roextreme.com/msp/news/patch-notes-30092021"}
 }
 set_cashshop_banner = function()
   -- function num : 0_0

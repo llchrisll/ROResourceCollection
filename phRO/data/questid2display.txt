@@ -21258,12 +21258,12 @@ Defeat Heater 100 ea #
 
 ///Hunting
 295186#Comeback Stage Daily Quest - Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunting ^0000FFMerman and Spring Rabbit^000000#
-Defeat Merman and Spring Rabbit 100 ea#
+Hunting ^0000FFSide Winder and Isis^000000#
+Defeat Side Winder and Isis 100 ea#
 
 ///Collecting
 295404#Comeback Stage Daily Quest - Collecting Item#SG_FEEL#QUE_NOIMAGE#
-^0000FFCollect below items^000000                                                          1. Maneater Root 100 ea                                                      2. Horrendous Hair 100 ea#
+^0000FFCollect below items^000000                                                          1. Broken Sword 100 ea                                                       2. Rotten Bandage 100 ea#
 Collecting items#
 
 //Training Ground Renovation Part3
@@ -23127,23 +23127,23 @@ Collecting items#
 Collecting items#
 
 295796#Mission Key - Freezer#SG_FEEL#QUE_NOIMAGE#
-^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 Freezer#   
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 200 Freezer#   
 Defeat monster#
 
 295797#Mission Key - High Orc#SG_FEEL#QUE_NOIMAGE#
-^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 High Orc#   
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 200 High Orc#   
 Defeat monster#
 
 295798#Mission Key - Geographer#SG_FEEL#QUE_NOIMAGE#
-^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 Geographer#   
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 200 Geographer#   
 Defeat monster#
 
 295799#Mission Key - Roween#SG_FEEL#QUE_NOIMAGE#
-^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 Roween#   
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 200 Roween#   
 Defeat monster#
 
 295800#Mission Key - Teddy Bear#SG_FEEL#QUE_NOIMAGE#
-^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 100 Teddy Bear#   
+^0000FFMission 1 Defeat Monster below^000000                                               1. Defeat 200 Teddy Bear#   
 Defeat monster#
 
 295787#Treasure Key Mission#SG_FEEL#QUE_NOIMAGE#
@@ -23157,3 +23157,252 @@ Get Treasure Kard from Kwangya.#
 295789#Tiffany Hunting Mission#SG_FEEL#QUE_NOIMAGE#
 Defeating Sappun and Kwangya 2,500 ea each to exchange with Sake Cup (N-OSM), Available one time only#
 Defeating Sappun and Kwangya#
+
+295801#Incarnation of Angel Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Incarnation of Angel 100 ea #
+Defeat Incarnation of Angel 100 ea #
+
+295802#Incarnation of Demon Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Incarnation of Demon 100 ea #
+Defeat Incarnation of Demon 100 ea #
+
+295803#Incarnation of Human Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Incarnation of Human 100 ea #
+Defeat Incarnation of Human 100 ea #
+
+295804#Incarnation of Ghost Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Incarnation of Ghost 100 ea #
+Defeat Incarnation of Ghost 100 ea #
+
+295805#Nightmare Minorous Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Nightmare Minorous 100 ea #
+Defeat Nightmare Minorous 100 ea #
+
+295806#Nightmare Mummy#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Nightmare Mummy 100 ea #
+Defeat Nightmare Mummy 100 ea #
+
+295807#Nightmare Verit Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Nightmare Verit 100 ea #
+Defeat Nightmare Verit 100 ea #
+
+295808#Nightmare Mimic Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Nightmare Mimic 100 ea #
+Defeat Nightmare Mimic 100 ea #
+
+295809#Nightmare Arclouse Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Nightmare Arclouse 100 ea #
+Defeat Nightmare Arclouse 100 ea #
+
+295810#Nightmare Ancient Mummy Billboard#SG_FEEL#QUE_NOIMAGE#
+Billboard Mission 70+ Defeat Nightmare Ancient Mummy 100 ea #
+Defeat Nightmare Ancient Mummy 100 ea #
+
+295843#Song of The Year#SG_FEEL#QUE_NOIMAGE#
+^0000FFFind below items^000000                                                             1.Lyrical Note ,comodo(194,165)                                              2.Idol Mic ,comodo(185,163)                                        3.Dance Tutorial VDO ,comodo(192,163)                                           4.Demo Soundtrack ,comodo(192,163)#   
+Finding items#
+
+295844#Finding the lyrics#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1.Lyric Piece 50 ea (Zenorc,Grove,Siorava)                                   2.Power Glue 10 ea (Ambernite)#   
+Collecting items#
+
+295845#Decoration Microphone#SG_FEEL#QUE_NOIMAGE#
+Asking Aivy about Decoration Microphone                                      1.cmd_in02 (77,91)                                                        2.cmd_in02 (105,61)                                                       3.cmd_in02 (164,112)                                                         4.cmd_in02 (197,81)                                                          5.cmd_in02 (43,145)                                                          6.cmd_in02 (59,141)                                                          7.cmd_in02 (53,137)                                                          8.cmd_in02 (21,141)                                                          9.comodo (54,213)                                                            10.comodo (263,206)                                                          11.comodo (165,351)                                                          12.comodo (184,128)#   
+Collecting items#
+
+295846#Suspicious Case#SG_FEEL#QUE_NOIMAGE#
+Suspicious Case #   
+Completequest#
+
+295847#Suspicious Shelf#SG_FEEL#QUE_NOIMAGE#
+Suspicious Shelf #   
+Completequest#
+
+295848#Suspicious Box#SG_FEEL#QUE_NOIMAGE#
+Suspicious Box #   
+Completequest#
+
+295849#Suspicious Barrel#SG_FEEL#QUE_NOIMAGE#
+Suspicious Barrel #   
+Completequest#
+
+295850#Standing Mic#SG_FEEL#QUE_NOIMAGE#
+You receive Standing Mic from decorating microphone  #   
+#
+
+295851#Suspicious Clock#SG_FEEL#QUE_NOIMAGE#
+Suspicious Clock #   
+Completequest#
+
+295852#Suspicious Book#SG_FEEL#QUE_NOIMAGE#
+Suspicious Book #   
+Completequest#
+
+295853#Suspicious Drawer#SG_FEEL#QUE_NOIMAGE#
+Suspicious Drawer #   
+Completequest#
+
+295854#Suspicious Lamp#SG_FEEL#QUE_NOIMAGE#
+Suspicious Lamp#   
+Completequest#
+
+295855#Charisma Inner#SG_FEEL#QUE_NOIMAGE#
+You got Charisma Inner from decorating microphone #   
+#
+
+295856#Suspicious Shell#SG_FEEL#QUE_NOIMAGE#
+Suspicious Shell#   
+Completequest#
+
+295857#Suspicious Conch#SG_FEEL#QUE_NOIMAGE#
+Suspicious Conch#   
+Completequest#
+
+295858#Suspicious Totem#SG_FEEL#QUE_NOIMAGE#
+Suspicious Totem#   
+Completequest#
+
+295859#Suspicious Boat#SG_FEEL#QUE_NOIMAGE#
+Suspicious Boat#   
+Completequest#
+
+295860#Fancy Feather#SG_FEEL#QUE_NOIMAGE#
+You got Fancy Feather from decorating microphone #   
+#
+
+295861#Demo Tape and Dance Tutorial#SG_FEEL#QUE_NOIMAGE#
+Dance and singing practice with  Teacher Abby ,Teacher Benj#   
+#
+
+295862#Daily Quest Raglady#SG_FEEL#QUE_NOIMAGE#
+Daily Quest for Raglady. You can accept again after 05.00 AM#
+You able to accept again at 05:00 AM#
+
+
+295835#Daily Quest New Morroc#SG_FEEL#QUE_NOIMAGE#
+Daily Quest for New Morroc. Limited 5 quests per day#
+You able to accept again at 05:00 AM#
+
+295811#Hunt Incarnation of Angel#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 100 Incarnation of Angel#
+Defeat monster#
+
+295812#Hunt Incarnation of Demon#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 100 Incarnation of Demon#
+Defeat monster#
+
+295813#Hunt Incarnation of Human#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 100 Incarnation of Human#
+Defeat monster#
+
+295814#Hunt Incarnation of Ghost#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 100 Incarnation of Ghost#
+Defeat monster#
+
+295815#Hunt Nightmare Minorous#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 200 Nightmare Minorous#
+Defeat monster#
+
+295816#Hunt Nightmare Mummy#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 200 Nightmare Mummy#
+Defeat monster#
+
+295817#Hunt Nightmare Verit#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 200 Nightmare Verit#
+Defeat monster#
+
+295818#Hunt Nightmare Mimic#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 200 Nightmare Mimic#
+Defeat monster#
+
+295819#Hunt Nightmare Arclouse#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 200 Nightmare Arclouse#
+Defeat monster#
+
+295820#Hunt Nightmare Ancient Mummy#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 200 Nightmare Ancient Mummy#
+Defeat monster#
+
+295821#Collect Fragment of Darkness#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1.Fragment of Darkness 100 ea#   
+Collecting items#
+
+295822#Collect Crystal of Darkness#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1.Crystal of Darkness 100 ea#   
+Collecting items#
+
+295823#Collect Morocc Artifact#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1.Morocc Artifact 100 ea#   
+Collecting items#
+
+295824#Finding Jewel of Death #SG_FEEL#QUE_NOIMAGE#
+Asking Yezi Collector about Jewel of Death#   
+moc_fild19 (85,65)#
+
+295825#Finding Agony Soul #SG_FEEL#QUE_NOIMAGE#
+Asking San-E Hunter about Agony Soul#   
+moc_ruins (94,61)#
+
+295826#Collecting Piece of Death Jewel#SG_FEEL#QUE_NOIMAGE#
+^0000FFCollect below items^000000                                                          1.moc_fild03 (61,78)                                                         2.moc_fild13 (307,282)                                                       3.moc_fild02 (344,184)                                                       4.moc_fild04 (314,75)                                                        5.moc_fild08 (67,54)                                                         6.moc_fild14 (40,338)                                                        7.moc_fild05 (361,32)                                                       8.moc_fild09 (255,141)                                                       9.moc_fild15 (214,121)                                                      10.moc_fild16 (206,308)                                                      11.moc_fild06 (307,158)                                                      12.moc_fild11 (200,215)                                                      13.moc_fild17 (258,244)#   
+Collecting items#
+
+295827#Set's Totem#SG_FEEL#QUE_NOIMAGE#
+Set's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295828#Osiris's Totem#SG_FEEL#QUE_NOIMAGE#
+Osiris's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295829#Khonsu's Totem#SG_FEEL#QUE_NOIMAGE#
+Khonsu's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295830#Amun's Totem#SG_FEEL#QUE_NOIMAGE#
+Amun's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295831#Seshat's Totem#SG_FEEL#QUE_NOIMAGE#
+Seshat's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295832#Wedjet' Totem#SG_FEEL#QUE_NOIMAGE#
+Wedjet' Totem of The Piece of Death Jewel#   
+Completequest#
+
+295833#Nut's Totem#SG_FEEL#QUE_NOIMAGE#
+Nut's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295834#Horus's Totem#SG_FEEL#QUE_NOIMAGE#
+Horus's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295836#Anhur's Totem#SG_FEEL#QUE_NOIMAGE#
+Anhur's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295837#Ra's Totem#SG_FEEL#QUE_NOIMAGE#
+Ra's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295838#Shu' Totem#SG_FEEL#QUE_NOIMAGE#
+Shu' Totem of The Piece of Death Jewel#   
+Completequest#
+
+295839#Amun's Totem#SG_FEEL#QUE_NOIMAGE#
+Amun's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295840#Isis's Totem#SG_FEEL#QUE_NOIMAGE#
+Isis's Totem of The Piece of Death Jewel#   
+Completequest#
+
+295841#Hunt Agony Soul#SG_FEEL#QUE_NOIMAGE#
+^0000FFDefeat Monster below^000000                                                         1.Defeat 500 Isis                                                            2.Defeat 500 Minorous                                                        3.Defeat 500 Ancient Mummy #
+Defeat monster#
+
+295842#Daily Convert Morocc Symbol#SG_FEEL#QUE_NOIMAGE#
+Convert Morocc Symbol limited 1 time per day#
+You able to convert again at 05:00 AM#

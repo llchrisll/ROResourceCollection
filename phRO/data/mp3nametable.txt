@@ -51,6 +51,8 @@ teg_dun02.rsw#bgm\\44.mp3#
 //피라미드 나이트메어 던젼 (복사맵)
 moc_pryd1.rsw#bgm\\22.mp3#
 moc_pryd2.rsw#bgm\\22.mp3#
+moc_prydn1.rsw#bgm\\22.mp3#
+moc_prydn2.rsw#bgm\\22.mp3#
 
 eclage.rsw#bgm\\155.mp3#
 ecl_fild01.rsw#bgm\\140.mp3#
