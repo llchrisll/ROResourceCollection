@@ -807,7 +807,7 @@ reward = {title = 2070}
 , score = 1}
 , 
 [500074] = {UI_Type = 0, group = "TAMING", major = 1, minor = 0, title = "捨てられちゃった……", 
-content = {summary = "「捨てられたクマ人形」の進化達成", details = "「ベアドール」を「捨てられたクマ人形」に進化させる"}
+content = {summary = "「ベアドール」の進化達成", details = "「ベアドール」を進化させる"}
 , 
 resource = {
 [1] = {text = ""}

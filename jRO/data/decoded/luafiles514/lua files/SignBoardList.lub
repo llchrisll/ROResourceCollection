@@ -1817,5 +1817,13 @@ SignBoardList = {
 {"ev_june01", 147, 187, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  伝言板", "255,255,255"}
 , 
 {"ev_june01", 177, 184, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"ev_summer01", 220, 282, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  マシンガンHighタッチ", "255,255,255"}
+, 
+{"ev_summer01", 244, 200, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  マシンガンHighタッチ", "255,255,255"}
+, 
+{"ev_summer38", 167, 51, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ダンシング！", "255,255,255"}
+, 
+{"ev_summer01", 286, 268, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
 }
 

@@ -692,6 +692,14 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR] = {Default = 195, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_FANCY_PHANTOM_MAS] = {Default = 503, 
+Direction = {[3] = 321, [4] = 321, [5] = 321}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_RD] = {Default = 150, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

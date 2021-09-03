@@ -8557,4 +8557,682 @@
 	</so_full>
 </child_admin2>
 
+<pet_kiel>
+	<hungry>
+		<feeding>いまさらか……？	</feeding>
+		<dead>生体エナジー分析結果 : 0% / 状態 : 不適合	</dead>
+		<stand>遅すぎたとは思わないか？	</stand>
+		<levelup>ERROR : 生体エナジーの活性度測定結果 : 101%	</levelup>
+		<perfor_1>ERROR : 分……析、不可……能。</perfor_1>
+		<perfor_2>休憩だ。</perfor_2>
+		<perfor_2>モード実行 : 睡眠</perfor_2>
+		<perfor_3>だめだ!!</perfor_3>
+	</hungry>
+	<bit_hungry>
+		<feeding>まあまあ食べられるな……	</feeding>
+		<dead>生体エナジー分析結果 : 0% / 状態 : 不適合	</dead>
+		<stand>何か忘れたみたいだな？</stand>
+		<levelup>ERROR : 生体エナジーの活性度測定結果 : 101%	</levelup>
+		<perfor_1>ERROR : 分……析、不可……能。</perfor_1>
+		<perfor_2>休憩だ。</perfor_2>
+		<perfor_2>モード実行 : 睡眠</perfor_2>
+		<perfor_3>だめだ!!</perfor_3>
+	</bit_hungry>
+	<noting>
+		<feeding>まあまあ食べられるな……	</feeding>
+		<dead>生体エナジー分析結果 : 0% / 状態 : 不適合	</dead>
+		<stand>感情？心？労り？	</stand>
+		<stand>理解するしないの問題ではない。</stand>
+		<levelup>ERROR : 生体エナジーの活性度測定結果 : 101%	</levelup>
+		<perfor_1>ERROR : 分……析、不可……能。</perfor_1>
+		<perfor_2>休憩だ。</perfor_2>
+		<perfor_2>モード実行 : 睡眠</perfor_2>
+		<perfor_3>だめだ!!</perfor_3>
+	</noting>
+	<full>
+		<feeding>これ以上、食べられない。</feeding>
+		<dead>生体エナジー分析結果 : 0% / 状態 : 不適合	</dead>
+		<stand>感情？心？労り？	</stand>
+		<stand>理解するしないの問題ではない。</stand>
+		<stand>分析できないデータに過ぎない……	</stand>
+		<levelup>ERROR : 生体エナジーの活性度測定結果 : 101%	</levelup>
+		<perfor_1>ERROR : 分……析、不可……能。</perfor_1>
+		<perfor_2>休憩だ。</perfor_2>
+		<perfor_2>モード実行 : 睡眠</perfor_2>
+		<perfor_3>だめだ!!</perfor_3>
+	</full>
+	<so_full>
+		<feeding>これ以上、食べられない。</feeding>
+		<dead>生体エナジー分析結果 : 0% / 状態 : 不適合	</dead>
+		<stand>感情？心？労り？	</stand>
+		<stand>理解するしないの問題ではない。</stand>
+		<stand>分析できないデータに過ぎない……	</stand>
+		<levelup>ERROR : 生体エナジーの活性度測定結果 : 101%	</levelup>
+		<perfor_1>ERROR : 分……析、不可……能。</perfor_1>
+		<perfor_2>休憩だ。</perfor_2>
+		<perfor_2>モード実行 : 睡眠</perfor_2>
+		<perfor_3>だめだ!!</perfor_3>
+	</so_full>
+</pet_kiel>
+
+<wander_man_mj>
+	<hungry>
+		<feeding>喉が渇いたのだが？</feeding>
+		<feeding>これで喉を潤すことができるか？</feeding>
+		<feeding>喉が渇き過ぎた。</feeding>
+		<hunting>貴様、つまみ代わりくらいにはなりそうだな？</hunting>
+		<hunting>酒一杯にもならないよな。</hunting>
+		<hunting>この程度じゃ面白くない。</hunting>
+		<danger>危ない。あんたの血で酒を仕込むところだった。</danger>
+		<danger>油断するでない。</danger>
+		<dead>より精進せよ。</dead>
+		<dead>これから酒を誰と飲めばいいんだ？</dead>
+		<dead>この程度だとはガッカリだ。</dead>
+		<stand>喉が……渇く……。</stand>
+		<stand>私のことは気にするな……。</stand>
+		<stand>あんたのような者と相対する喜び。長年忘れていたんだ！</stand>
+		<stand>つらい人生だったな……。</stand>
+		<connect>良く来たな……私と一杯どうだ？</connect>
+		<connect>そこ酒残ってない？</connect>
+		<levelup>さぁ、祝杯をあげよう。もっと強くなった姿を見せようじゃないか。</levelup>
+		<levelup>強くなるほど、渇いてしまう……。</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>喉が渇いたのだが？</feeding>
+		<feeding>これで喉を潤すことができるか？</feeding>
+		<feeding>喉が渇き過ぎた。</feeding>
+		<hunting>貴様、つまみ代わりくらいにはなりそうだな？</hunting>
+		<hunting>酒一杯にもならないよな。</hunting>
+		<hunting>この程度じゃ面白くない。</hunting>
+		<danger>危ない。あんたの血で酒を仕込むところだった。</danger>
+		<danger>油断するでない。</danger>
+		<dead>より精進せよ。</dead>
+		<dead>これから酒を誰と飲めばいいんだ？</dead>
+		<dead>この程度だとはガッカリだ。</dead>
+		<stand>喉が……渇く……。</stand>
+		<stand>私のことは気にするな……。</stand>
+		<stand>あんたのような者と相対する喜び。長年忘れていたんだ！</stand>
+		<stand>つらい人生だったな……。</stand>
+		<connect>良く来たな……私と一杯どうだ？</connect>
+		<connect>そこ酒残ってない？</connect>
+		<levelup>さぁ、祝杯をあげよう。もっと強くなった姿を見せようじゃないか。</levelup>
+		<levelup>強くなるほど、渇いてしまう……。</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>喉が渇いたのだが？</feeding>
+		<feeding>これで喉を潤すことができるか？</feeding>
+		<feeding>喉が渇き過ぎた。</feeding>
+		<hunting>貴様、つまみ代わりくらいにはなりそうだな？</hunting>
+		<hunting>酒一杯にもならないよな。</hunting>
+		<hunting>この程度じゃ面白くない。</hunting>
+		<danger>危ない。あんたの血で酒を仕込むところだった。</danger>
+		<danger>油断するでない。</danger>
+		<dead>より精進せよ。</dead>
+		<dead>これから酒を誰と飲めばいいんだ？</dead>
+		<dead>この程度だとはガッカリだ。</dead>
+		<stand>喉が……渇く……。</stand>
+		<stand>私のことは気にするな……。</stand>
+		<stand>あんたのような者と相対する喜び。長年忘れていたんだ！</stand>
+		<stand>つらい人生だったな……。</stand>
+		<connect>良く来たな……私と一杯どうだ？</connect>
+		<connect>そこ酒残ってない？</connect>
+		<levelup>さぁ、祝杯をあげよう。もっと強くなった姿を見せようじゃないか。</levelup>
+		<levelup>強くなるほど、渇いてしまう……。</levelup>
+	</noting>
+	<full>
+		<feeding>少し酔ったようだ。残してもいいか？</feeding>
+		<hunting>貴様、つまみ代わりくらいにはなりそうだな？</hunting>
+		<hunting>酒一杯にもならないよな。</hunting>
+		<hunting>この程度じゃ面白くない。</hunting>
+		<danger>危ない。あんたの血で酒を仕込むところだった。</danger>
+		<danger>油断するでない。</danger>
+		<dead>より精進せよ。</dead>
+		<dead>これから酒を誰と飲めばいいんだ？</dead>
+		<dead>この程度だとはガッカリだ。</dead>
+		<stand>喉が……渇く……。</stand>
+		<stand>私のことは気にするな……。</stand>
+		<stand>あんたのような者と相対する喜び。長年忘れていたんだ！</stand>
+		<stand>つらい人生だったな……。</stand>
+		<connect>良く来たな……私と一杯どうだ？</connect>
+		<connect>そこ酒残ってない？</connect>
+		<levelup>さぁ、祝杯をあげよう。もっと強くなった姿を見せようじゃないか。</levelup>
+		<levelup>強くなるほど、渇いてしまう……。</levelup>
+	</full>
+	<so_full>
+		<feeding>飲み過ぎたようだ。お断り申す。</feeding>
+		<hunting>貴様、つまみ代わりくらいにはなりそうだな？</hunting>
+		<hunting>酒一杯にもならないよな。</hunting>
+		<hunting>この程度じゃ面白くない。</hunting>
+		<danger>危ない。あんたの血で酒を仕込むところだった。</danger>
+		<danger>油断するでない。</danger>
+		<dead>より精進せよ。</dead>
+		<dead>これから酒を誰と飲めばいいんだ？</dead>
+		<dead>この程度だとはガッカリだ。</dead>
+		<stand>喉が……渇く……。</stand>
+		<stand>私のことは気にするな……。</stand>
+		<stand>あんたのような者と相対する喜び。長年忘れていたんだ！</stand>
+		<stand>つらい人生だったな……。</stand>
+		<connect>良く来たな……私と一杯どうだ？</connect>
+		<connect>そこ酒残ってない？</connect>
+		<levelup>さぁ、祝杯をあげよう。もっと強くなった姿を見せようじゃないか。</levelup>
+		<levelup>強くなるほど、渇いてしまう……。</levelup>
+	</so_full>
+</wander_man_mj>
+
+<ALIOT>
+	<hungry>
+		<feeding>もっとエンジンオイルが必要だ。</feeding>
+		<feeding>これで稼働には問題なさそうだ。</feeding>
+		<feeding>本当にありがとうな。</feeding>
+		<hunting>大したことねぇな？</hunting>
+		<hunting>この程度じゃ面白くねぇんだよ！</hunting>
+		<danger>修理すべきなのは、俺じゃなく君のようだが？</danger>
+		<danger>ネジが外れないように気を付けな。</danger>
+		<dead> 君を修理しなくては。</dead>
+		<dead>早く起きてくれ。</dead>
+		<dead>本当、失望したよ。</dead>
+		<stand>おい、ここのネジを締めてくれ。</stand>
+		<stand>どうして腕から軋む音が絶えない？</stand>
+		<stand>俺とジャンケンするか？俺はチョキしか出せないんだ！</stand>
+		<connect>やっと来たか。どうしてこんなに遅くなったんだ？</connect>
+		<connect>どうして今更？……待ってたんだぞ。</connect>
+		<levelup>おい、俺の部品もアップグレードしてくれよ？</levelup>
+		<levelup>おめでとうな！だけど自慢は良くないぞ！</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>もっとエンジンオイルが必要だ。</feeding>
+		<feeding>これで稼働には問題なさそうだ。</feeding>
+		<feeding>本当にありがとうな。</feeding>
+		<hunting>大したことねぇな？</hunting>
+		<hunting>この程度じゃ面白くねぇんだよ！</hunting>
+		<danger>修理すべきなのは、俺じゃなく君のようだが？</danger>
+		<danger>ネジが外れないように気を付けな。</danger>
+		<dead> 君を修理しなくては。</dead>
+		<dead>早く起きてくれ。</dead>
+		<dead>本当、失望したよ。</dead>
+		<stand>おい、ここのネジを締めてくれ。</stand>
+		<stand>どうして腕から軋む音が絶えない？</stand>
+		<stand>俺とジャンケンするか？俺はチョキしか出せないんだ！</stand>
+		<connect>やっと来たか。どうしてこんなに遅くなったんだ？</connect>
+		<connect>どうして今更？……待ってたんだぞ。</connect>
+		<levelup>おい、俺の部品もアップグレードしてくれよ？</levelup>
+		<levelup>おめでとうな！だけど自慢は良くないぞ！</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>もっとエンジンオイルが必要だ。</feeding>
+		<feeding>これで稼働には問題なさそうだ。</feeding>
+		<feeding>本当にありがとうな。</feeding>
+		<hunting>大したことねぇな？</hunting>
+		<hunting>この程度じゃ面白くねぇんだよ！</hunting>
+		<danger>修理すべきなのは、俺じゃなく君のようだが？</danger>
+		<danger>ネジが外れないように気を付けな。</danger>
+		<dead> 君を修理しなくては。</dead>
+		<dead>早く起きてくれ。</dead>
+		<dead>本当、失望したよ。</dead>
+		<stand>おい、ここのネジを締めてくれ。</stand>
+		<stand>どうして腕から軋む音が絶えない？</stand>
+		<stand>俺とジャンケンするか？俺はチョキしか出せないんだ！</stand>
+		<connect>やっと来たか。どうしてこんなに遅くなったんだ？</connect>
+		<connect>どうして今更？……待ってたんだぞ。</connect>
+		<levelup>おい、俺の部品もアップグレードしてくれよ？</levelup>
+		<levelup>おめでとうな！だけど自慢は良くないぞ！</levelup>
+	</noting>
+	<full>
+		<feeding>おい、もう止めてくれ！</feeding>
+		<hunting>大したことねぇな？</hunting>
+		<hunting>この程度じゃ面白くねぇんだよ！</hunting>
+		<danger>修理すべきなのは、俺じゃなく君のようだが？</danger>
+		<danger>ネジが外れないように気を付けな。</danger>
+		<dead> 君を修理しなくては。</dead>
+		<dead>早く起きてくれ。</dead>
+		<dead>本当、失望したよ。</dead>
+		<stand>おい、ここのネジを締めてくれ。</stand>
+		<stand>どうして腕から軋む音が絶えない？</stand>
+		<stand>俺とジャンケンするか？俺はチョキしか出せないんだ！</stand>
+		<connect>やっと来たか。どうしてこんなに遅くなったんだ？</connect>
+		<connect>どうして今更？……待ってたんだぞ。</connect>
+		<levelup>おい、俺の部品もアップグレードしてくれよ？</levelup>
+		<levelup>おめでとうな！だけど自慢は良くないぞ！</levelup>
+	</full>
+	<so_full>
+		<feeding>エンジンオイルが溢れ出しそうだ！</feeding>
+		<hunting>大したことねぇな？</hunting>
+		<hunting>この程度じゃ面白くねぇんだよ！</hunting>
+		<danger>修理すべきなのは、俺じゃなく君のようだが？</danger>
+		<danger>ネジが外れないように気を付けな。</danger>
+		<dead> 君を修理しなくては。</dead>
+		<dead>早く起きてくれ。</dead>
+		<dead>本当、失望したよ。</dead>
+		<stand>おい、ここのネジを締めてくれ。</stand>
+		<stand>どうして腕から軋む音が絶えない？</stand>
+		<stand>俺とジャンケンするか？俺はチョキしか出せないんだ！</stand>
+		<connect>やっと来たか。どうしてこんなに遅くなったんだ？</connect>
+		<connect>どうして今更？……待ってたんだぞ。</connect>
+		<levelup>おい、俺の部品もアップグレードしてくれよ？</levelup>
+		<levelup>おめでとうな！だけど自慢は良くないぞ！</levelup>
+	</so_full>
+</ALIOT>
+
+<ALICEL>
+	<hungry>
+		<feeding>あの……エンジンオイルはありませんか？</feeding>
+		<feeding>本当にありがとうございます。</feeding>
+		<feeding>いただきます。</feeding>
+		<hunting>興味を引くほどの相手ではありませんでしたね。</hunting>
+		<hunting>私がお手伝いしましょうか？</hunting>
+		<danger>あなた、ちょっと危険そうですね。</danger>
+		<danger>油断しちゃいけませんよ。</danger>
+		<dead>起こしてあげましょうか？</dead>
+		<dead>少し失望しました……。</dead>
+		<dead>自分の行いを省みて欲しいです。</dead>
+		<stand>退屈でしたら私と遊んでください。</stand>
+		<stand>たまに「人間だったら良かったな」と思います。</stand>
+		<stand>私とジャンケンしてみますか？</stand>
+		<connect>逢いたかったです。何か手伝いましょうか？</connect>
+		<levelup>おめでとうございます。私の腕もアップグレードしていただけますか？</levelup>
+		<levelup>自慢するにはまだ早いです。</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>あの……エンジンオイルはありませんか？</feeding>
+		<feeding>本当にありがとうございます。</feeding>
+		<feeding>いただきます。</feeding>
+		<hunting>興味を引くほどの相手ではありませんでしたね。</hunting>
+		<hunting>私がお手伝いしましょうか？</hunting>
+		<danger>あなた、ちょっと危険そうですね。</danger>
+		<danger>油断しちゃいけませんよ。</danger>
+		<dead>起こしてあげましょうか？</dead>
+		<dead>少し失望しました……。</dead>
+		<dead>自分の行いを省みて欲しいです。</dead>
+		<stand>退屈でしたら私と遊んでください。</stand>
+		<stand>たまに「人間だったら良かったな」と思います。</stand>
+		<stand>私とジャンケンしてみますか？</stand>
+		<connect>逢いたかったです。何か手伝いましょうか？</connect>
+		<levelup>おめでとうございます。私の腕もアップグレードしていただけますか？</levelup>
+		<levelup>自慢するにはまだ早いです。</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>あの……エンジンオイルはありませんか？</feeding>
+		<feeding>本当にありがとうございます。</feeding>
+		<feeding>いただきます。</feeding>
+		<hunting>興味を引くほどの相手ではありませんでしたね。</hunting>
+		<hunting>私がお手伝いしましょうか？</hunting>
+		<danger>あなた、ちょっと危険そうですね。</danger>
+		<danger>油断しちゃいけませんよ。</danger>
+		<dead>起こしてあげましょうか？</dead>
+		<dead>少し失望しました……。</dead>
+		<dead>自分の行いを省みて欲しいです。</dead>
+		<stand>退屈でしたら私と遊んでください。</stand>
+		<stand>たまに「人間だったら良かったな」と思います。</stand>
+		<stand>私とジャンケンしてみますか？</stand>
+		<connect>逢いたかったです。何か手伝いましょうか？</connect>
+		<levelup>おめでとうございます。私の腕もアップグレードしていただけますか？</levelup>
+		<levelup>自慢するにはまだ早いです。</levelup>
+	</noting>
+	<full>
+		<feeding>もうやめてください。溢れそうです。</feeding>
+		<hunting>興味を引くほどの相手ではありませんでしたね。</hunting>
+		<hunting>私がお手伝いしましょうか？</hunting>
+		<danger>あなた、ちょっと危険そうですね。</danger>
+		<danger>油断しちゃいけませんよ。</danger>
+		<dead>起こしてあげましょうか？</dead>
+		<dead>少し失望しました……。</dead>
+		<dead>自分の行いを省みて欲しいです。</dead>
+		<stand>退屈でしたら私と遊んでください。</stand>
+		<stand>たまに「人間だったら良かったな」と思います。</stand>
+		<stand>私とジャンケンしてみますか？</stand>
+		<connect>逢いたかったです。何か手伝いましょうか？</connect>
+		<levelup>おめでとうございます。私の腕もアップグレードしていただけますか？</levelup>
+		<levelup>自慢するにはまだ早いです。</levelup>
+	</full>
+	<so_full>
+		<feeding>もうやめてください。溢れそうです。</feeding>
+		<hunting>興味を引くほどの相手ではありませんでしたね。</hunting>
+		<hunting>私がお手伝いしましょうか？</hunting>
+		<danger>あなた、ちょっと危険そうですね。</danger>
+		<danger>油断しちゃいけませんよ。</danger>
+		<dead>起こしてあげましょうか？</dead>
+		<dead>少し失望しました……。</dead>
+		<dead>自分の行いを省みて欲しいです。</dead>
+		<stand>退屈でしたら私と遊んでください。</stand>
+		<stand>たまに「人間だったら良かったな」と思います。</stand>
+		<stand>私とジャンケンしてみますか？</stand>
+		<connect>逢いたかったです。何か手伝いましょうか？</connect>
+		<levelup>おめでとうございます。私の腕もアップグレードしていただけますか？</levelup>
+		<levelup>自慢するにはまだ早いです。</levelup>
+	</so_full>
+</ALICEL>
+
+<ALIZA>
+	<hungry>
+		<feeding>ご主人様、お腹が減って仕事ができません。</feeding>
+		<feeding>ご主人様、ボクが食事の用意をしましょうか？	</feeding>
+		<feeding>ご主人様、もう少しだけ良いですか？	</feeding>
+		<feeding>ご主人様、ありがとうございます。</feeding>
+		<hunting>ボクはご主人様のことを信じます。</hunting>
+		<hunting>ご主人様、勝てますよね？</hunting>
+		<hunting>ご主人様が勝てると信じてます。</hunting>
+		<danger>ご主人様、警戒してください！</danger>
+		<danger>隙を見せてはいけません！</danger>
+		<danger>気を付けてください、ご主人様!!	</danger>
+		<dead>……ボクのせいです。</dead>
+		<dead>起きてください、ご主人様	</dead>
+		<dead>地面は冷たいですよ。</dead>
+		<stand>ご主人様！邪魔です！掃除できないじゃないですか！</stand>
+		<stand>ボクの面倒も見れてないのに、結婚はどうやってするおつもりですか？</stand>
+		<stand>ボクのこと構ってくださいね？ご主人様。</stand>
+		<stand>ご主人様、退屈ですか？	</stand>
+		<stand>ご主人様？ぼーっとしてないでボクと遊びましょう。</stand>
+		<connect>待つのは辛いです。</connect>
+		<connect>なぜいつも来るのが遅いのですか？	</connect>
+		<connect>ご主人様のせいで泣きたい時もあります。</connect>
+		<levelup>ウキウキしてますね？	</levelup>
+		<levelup>おめでとうございます……！でもボクのことも忘れないでください。</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>ご主人様、お腹が減って仕事ができません。</feeding>
+		<feeding>ご主人様、ボクが食事の用意をしましょうか？	</feeding>
+		<feeding>ご主人様、もう少しだけ良いですか？	</feeding>
+		<feeding>ご主人様、ありがとうございます。</feeding>
+		<hunting>ボクはご主人様のことを信じます。</hunting>
+		<hunting>ご主人様、勝てますよね？</hunting>
+		<hunting>ご主人様が勝てると信じてます。</hunting>
+		<danger>ご主人様、警戒してください！</danger>
+		<danger>隙を見せてはいけません！</danger>
+		<danger>気を付けてください、ご主人様!!	</danger>
+		<dead>……ボクのせいです。</dead>
+		<dead>起きてください、ご主人様	</dead>
+		<dead>地面は冷たいですよ。</dead>
+		<stand>ご主人様！邪魔です！掃除できないじゃないですか！</stand>
+		<stand>ボクの面倒も見れてないのに、結婚はどうやってするおつもりですか？</stand>
+		<stand>ボクのこと構ってくださいね？ご主人様。</stand>
+		<stand>ご主人様、退屈ですか？	</stand>
+		<stand>ご主人様？ぼーっとしてないでボクと遊びましょう。</stand>
+		<connect>待つのは辛いです。</connect>
+		<connect>なぜいつも来るのが遅いのですか？	</connect>
+		<connect>ご主人様のせいで泣きたい時もあります。</connect>
+		<levelup>ウキウキしてますね？	</levelup>
+		<levelup>おめでとうございます……！でもボクのことも忘れないでください。</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>ご主人様、お腹が減って仕事ができません。</feeding>
+		<feeding>ご主人様、ボクが食事の用意をしましょうか？	</feeding>
+		<feeding>ご主人様、もう少しだけ良いですか？	</feeding>
+		<feeding>ご主人様、ありがとうございます。</feeding>
+		<hunting>ボクはご主人様のことを信じます。</hunting>
+		<hunting>ご主人様、勝てますよね？</hunting>
+		<hunting>ご主人様が勝てると信じてます。</hunting>
+		<danger>ご主人様、警戒してください！</danger>
+		<danger>隙を見せてはいけません！</danger>
+		<danger>気を付けてください、ご主人様!!	</danger>
+		<dead>……ボクのせいです。</dead>
+		<dead>起きてください、ご主人様	</dead>
+		<dead>地面は冷たいですよ。</dead>
+		<stand>ご主人様！邪魔です！掃除できないじゃないですか！</stand>
+		<stand>ボクの面倒も見れてないのに、結婚はどうやってするおつもりですか？</stand>
+		<stand>ボクのこと構ってくださいね？ご主人様。</stand>
+		<stand>ご主人様、退屈ですか？	</stand>
+		<stand>ご主人様？ぼーっとしてないでボクと遊びましょう。</stand>
+		<connect>待つのは辛いです。</connect>
+		<connect>なぜいつも来るのが遅いのですか？	</connect>
+		<connect>ご主人様のせいで泣きたい時もあります。</connect>
+		<levelup>ウキウキしてますね？	</levelup>
+		<levelup>おめでとうございます……！でもボクのことも忘れないでください。</levelup>
+	</noting>
+	<full>
+		<feeding>ご主人様、もうお腹いっぱいです。</feeding>
+		<hunting>ボクはご主人様のことを信じます。</hunting>
+		<hunting>ご主人様、勝てますよね？</hunting>
+		<hunting>ご主人様が勝てると信じてます。</hunting>
+		<danger>ご主人様、警戒してください！</danger>
+		<danger>隙を見せてはいけません！</danger>
+		<danger>気を付けてください、ご主人様!!	</danger>
+		<dead>……ボクのせいです。</dead>
+		<dead>起きてください、ご主人様	</dead>
+		<dead>地面は冷たいですよ。</dead>
+		<stand>ご主人様！邪魔です！掃除できないじゃないですか！</stand>
+		<stand>ボクの面倒も見れてないのに、結婚はどうやってするおつもりですか？</stand>
+		<stand>ボクのこと構ってくださいね？ご主人様。</stand>
+		<stand>ご主人様、退屈ですか？	</stand>
+		<stand>ご主人様？ぼーっとしてないでボクと遊びましょう。</stand>
+		<connect>待つのは辛いです。</connect>
+		<connect>なぜいつも来るのが遅いのですか？	</connect>
+		<connect>ご主人様のせいで泣きたい時もあります。</connect>
+		<levelup>ウキウキしてますね？	</levelup>
+		<levelup>おめでとうございます……！でもボクのことも忘れないでください。</levelup>
+	</full>
+	<so_full>
+		<feeding>ご主人様、マジでお腹いっぱいですから！</feeding>
+		<hunting>ボクはご主人様のことを信じます。</hunting>
+		<hunting>ご主人様、勝てますよね？</hunting>
+		<hunting>ご主人様が勝てると信じてます。</hunting>
+		<danger>ご主人様、警戒してください！</danger>
+		<danger>隙を見せてはいけません！</danger>
+		<danger>気を付けてください、ご主人様!!	</danger>
+		<dead>……ボクのせいです。</dead>
+		<dead>起きてください、ご主人様	</dead>
+		<dead>地面は冷たいですよ。</dead>
+		<stand>ご主人様！邪魔です！掃除できないじゃないですか！</stand>
+		<stand>ボクの面倒も見れてないのに、結婚はどうやってするおつもりですか？</stand>
+		<stand>ボクのこと構ってくださいね？ご主人様。</stand>
+		<stand>ご主人様、退屈ですか？	</stand>
+		<stand>ご主人様？ぼーっとしてないでボクと遊びましょう。</stand>
+		<connect>待つのは辛いです。</connect>
+		<connect>なぜいつも来るのが遅いのですか？	</connect>
+		<connect>ご主人様のせいで泣きたい時もあります。</connect>
+		<levelup>ウキウキしてますね？	</levelup>
+		<levelup>おめでとうございます……！でもボクのことも忘れないでください。</levelup>
+	</so_full>
+</ALIZA>
+
+<WILD_ROSE2>
+	<hungry>
+		<feeding>ひゃ～！　お腹減ってたんだ！　キミは気が利くニャァ！</feeding>
+		<feeding>いっただきま～～す！　う～ん、至福のひと時ニャァ！</feeding>
+		<connect>遅いよ～！　いつまでボクを待たせるつもりニャ？	</connect>
+		<connect>どこか行く前に、まずはご飯を食べさせて欲しいニャァ！</connect>
+		<danger>ちょっとちょっと！　ピンチなんじゃないの!?	</danger>
+		<danger>あわわわ……こ、これはまずいニャァ……	</danger>
+		<dead>あ～ぁ……だから危ないって言ってたのにぃ！</dead>
+		<dead>無理しすぎだってば！　次からは気を付けるニャァ！</dead>
+		<stand>今日も気ままにのんびり、行きましょうニャァ。</stand>
+		<stand>さ～て、今日はどんな面白いことが起こるのかニャァ？</stand>
+		<stand>狩りばっかりじゃリラックスできないニャ。　一緒に日向ぼっこでもするニャよ。</stand>
+		<levelup>やるじゃん！　キミならもっと強くなれるんじゃニャイ？	</levelup>
+		<levelup>お祝いにボクの日向ぼっこスポットを教えてあげちゃうニャ。</levelup>
+		<levelup>まったくそんなに強くなってどうするのさ？　世界でも救っちゃう？	</levelup>
+		<levelup>ボクもそろそろ、キミに本気を見せニャイといけないかもね？	</levelup>
+		<perfor_1>動くものを見ると飛びついちゃうミャ！</perfor_1>
+		<perfor_2>うみゃ！　うみゃ！　うみゃみゃみゃみゃ～～！</perfor_2>
+	</hungry>
+	<bit_hungry>
+		<feeding>ひゃ～！　お腹減ってたんだ！　キミは気が利くニャァ！</feeding>
+		<feeding>いっただきま～～す！　う～ん、至福のひと時ニャァ！</feeding>
+		<connect>遅いよ～！　いつまでボクを待たせるつもりニャ？	</connect>
+		<connect>どこか行く前に、まずはご飯を食べさせて欲しいニャァ！</connect>
+		<danger>ちょっとちょっと！　ピンチなんじゃないの!?	</danger>
+		<danger>あわわわ……こ、これはまずいニャァ……	</danger>
+		<dead>あ～ぁ……だから危ないって言ってたのにぃ！</dead>
+		<dead>無理しすぎだってば！　次からは気を付けるニャァ！</dead>
+		<stand>今日も気ままにのんびり、行きましょうニャァ。</stand>
+		<stand>さ～て、今日はどんな面白いことが起こるのかニャァ？</stand>
+		<stand>狩りばっかりじゃリラックスできないニャ。　一緒に日向ぼっこでもするニャよ。</stand>
+		<levelup>やるじゃん！　キミならもっと強くなれるんじゃニャイ？	</levelup>
+		<levelup>お祝いにボクの日向ぼっこスポットを教えてあげちゃうニャ。</levelup>
+		<levelup>まったくそんなに強くなってどうするのさ？　世界でも救っちゃう？	</levelup>
+		<levelup>ボクもそろそろ、キミに本気を見せニャイといけないかもね？	</levelup>
+		<perfor_1>動くものを見ると飛びついちゃうミャ！</perfor_1>
+		<perfor_2>うみゃ！　うみゃ！　うみゃみゃみゃみゃ～～！</perfor_2>
+	</bit_hungry>
+	<noting>
+		<feeding>ご飯の時間は大切ニャ！　キミもそう思うでしょ？	</feeding>
+		<feeding>ボクの辞書に遠慮という文字は無いからね。いただきま～す！</feeding>
+		<connect>あっ、来た来た。遊びに行く準備はできてるニャよ。</connect>
+		<connect>待ってたニャァ。ひとりだと退屈で死んじゃうかと思ったよ。</connect>
+		<danger>ちょっとちょっと！　ピンチなんじゃないの!?	</danger>
+		<danger>あわわわ……こ、これはまずいニャァ……	</danger>
+		<dead>あ～ぁ……だから危ないって言ってたのにぃ！</dead>
+		<dead>無理しすぎだってば！　次からは気を付けるニャァ！</dead>
+		<stand>今日も気ままにのんびり、行きましょうニャァ。</stand>
+		<stand>さ～て、今日はどんな面白いことが起こるのかニャァ？</stand>
+		<stand>狩りばっかりじゃリラックスできないニャ。　一緒に日向ぼっこでもするニャよ。</stand>
+		<levelup>やるじゃん！　キミならもっと強くなれるんじゃニャイ？	</levelup>
+		<levelup>お祝いにボクの日向ぼっこスポットを教えてあげちゃうニャ。</levelup>
+		<levelup>まったくそんなに強くなってどうするのさ？　世界でも救っちゃう？	</levelup>
+		<levelup>ボクもそろそろ、キミに本気を見せニャイといけないかもね？	</levelup>
+		<perfor_1>動くものを見ると飛びついちゃうミャ！</perfor_1>
+		<perfor_2>うみゃ！　うみゃ！　うみゃみゃみゃみゃ～～！</perfor_2>
+	</noting>
+	<full>
+		<feeding>美味しいんだけど、そろそろお腹いっぱいニャァ！</feeding>
+		<feeding>何事にも節度というものがあるんじゃニャイかな？	</feeding>
+		<connect>あっ、来た来た。遊びに行く準備はできてるニャよ。</connect>
+		<connect>待ってたニャァ。ひとりだと退屈で死んじゃうかと思ったよ。</connect>
+		<danger>ちょっとちょっと！　ピンチなんじゃないの!?	</danger>
+		<danger>あわわわ……こ、これはまずいニャァ……	</danger>
+		<dead>あ～ぁ……だから危ないって言ってたのにぃ！</dead>
+		<dead>無理しすぎだってば！　次からは気を付けるニャァ！</dead>
+		<stand>今日も気ままにのんびり、行きましょうニャァ。</stand>
+		<stand>さ～て、今日はどんな面白いことが起こるのかニャァ？</stand>
+		<stand>狩りばっかりじゃリラックスできないニャ。　一緒に日向ぼっこでもするニャよ。</stand>
+		<levelup>やるじゃん！　キミならもっと強くなれるんじゃニャイ？	</levelup>
+		<levelup>お祝いにボクの日向ぼっこスポットを教えてあげちゃうニャ。</levelup>
+		<levelup>まったくそんなに強くなってどうするのさ？　世界でも救っちゃう？	</levelup>
+		<levelup>ボクもそろそろ、キミに本気を見せニャイといけないかもね？	</levelup>
+		<perfor_1>動くものを見ると飛びついちゃうミャ！</perfor_1>
+		<perfor_2>うみゃ！　うみゃ！　うみゃみゃみゃみゃ～～！</perfor_2>
+	</full>
+	<so_full>
+		<feeding>も、もう、お腹いっぱいニャァ……	</feeding>
+		<feeding>キミ、もう少し気遣いというものを学びたまえよ。</feeding>
+		<connect>あっ、来た来た。遊びに行く準備はできてるニャよ。</connect>
+		<connect>待ってたニャァ。ひとりだと退屈で死んじゃうかと思ったよ。</connect>
+		<danger>ちょっとちょっと！　ピンチなんじゃないの!?	</danger>
+		<danger>あわわわ……こ、これはまずいニャァ……	</danger>
+		<dead>あ～ぁ……だから危ないって言ってたのにぃ！</dead>
+		<dead>無理しすぎだってば！　次からは気を付けるニャァ！</dead>
+		<stand>今日も気ままにのんびり、行きましょうニャァ。</stand>
+		<stand>さ～て、今日はどんな面白いことが起こるのかニャァ？</stand>
+		<stand>狩りばっかりじゃリラックスできないニャ。　一緒に日向ぼっこでもするニャよ。</stand>
+		<levelup>やるじゃん！　キミならもっと強くなれるんじゃニャイ？	</levelup>
+		<levelup>お祝いにボクの日向ぼっこスポットを教えてあげちゃうニャ。</levelup>
+		<levelup>まったくそんなに強くなってどうするのさ？　世界でも救っちゃう？	</levelup>
+		<levelup>ボクもそろそろ、キミに本気を見せニャイといけないかもね？	</levelup>
+		<perfor_1>動くものを見ると飛びついちゃうミャ！</perfor_1>
+		<perfor_2>うみゃ！　うみゃ！　うみゃみゃみゃみゃ～～！</perfor_2>
+	</so_full>
+</WILD_ROSE2>
+
+<EDDGA2>
+	<hungry>
+		<feeding>吾輩は、この時を待っていたのだ！　うむ！　美味!!	</feeding>
+		<feeding>吾輩、腹が減ると気が立ってしまう性質でな。ありがたく頂戴する！</feeding>
+		<connect>来たか、主殿！　まずは腹ごしらえといこうではないか！</connect>
+		<connect>腹が減ってはなんとやら。　主殿もそうであろう！</connect>
+		<danger>主殿！　ここはいったん退くのだ！　三十六計逃げるに如かず！</danger>
+		<danger>形勢は不利……この難局を打開する手を探さねば！</danger>
+		<dead>ここで終わる主殿ではない！　必ずや雪辱を果たしてみせよう！</dead>
+		<dead>むぅ……勝負はお預けだ！　主殿、今日のところは退きましょうぞ！</dead>
+		<stand>主殿、今日はどうなさるおつもりか？　一服ついたら出かけようではないか。</stand>
+		<stand>絶好の狩猟日和！　吾輩、すぐにでも狩りに行きたい気分！</stand>
+		<stand>主殿も一服いかがですかな？　何も考えずに一服つくのもオツなものですぞ？	</stand>
+		<perfor_1>おお！　吾輩にぴったりの箱ではないか！</perfor_1>
+		<perfor_1>この箱は……いいものだ……ふぅ。落ち着きますなぁ。</perfor_1>
+		<perfor_2>うみゃぁぁ～～～ん……うっ、背伸びが気持ちよくて変な声が出てしまった!?	</perfor_2>
+		<perfor_3>ううぅむ……吾輩の野生が……失われていく……ごろにゃん……	</perfor_3>
+		<perfor_3>吾輩の自慢の毛並みをご照覧あれ。いかがですかな？	</perfor_3>
+		<levelup>主殿がまた強くなったか！　吾輩も負けてはおられぬ！　ウオォォ！</levelup>
+		<levelup>主殿の成長を間近で見られるとは！　吾輩は幸せ者であるな！</levelup>
+		<levelup>お見事！　またひとつ武を磨かれましたな！　いずれ天下も獲れましょうぞ！</levelup>
+		<levelup>ガハハハハ！　主殿の強さは天井知らずですな！</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>吾輩は、この時を待っていたのだ！　うむ！　美味!!	</feeding>
+		<feeding>ありがたき幸せ！　では遠慮なくいただくとしよう！</feeding>
+		<connect>来たか、主殿！　まずは腹ごしらえといこうではないか！</connect>
+		<connect>腹が減ってはなんとやら。　主殿もそうであろう！</connect>
+		<danger>主殿！　ここはいったん退くのだ！　三十六計逃げるに如かず！</danger>
+		<danger>形勢は不利……この難局を打開する手を探さねば！</danger>
+		<dead>ここで終わる主殿ではない！　必ずや雪辱を果たしてみせよう！</dead>
+		<dead>むぅ……勝負はお預けだ！　主殿、今日のところは退きましょうぞ！</dead>
+		<stand>主殿、今日はどうなさるおつもりか？　一服ついたら出かけようではないか。</stand>
+		<stand>絶好の狩猟日和！　吾輩、すぐにでも狩りに行きたい気分！</stand>
+		<stand>主殿も一服いかがですかな？　何も考えずに一服つくのもオツなものですぞ？	</stand>
+		<perfor_1>おお！　吾輩にぴったりの箱ではないか！</perfor_1>
+		<perfor_1>この箱は……いいものだ……ふぅ。落ち着きますなぁ。</perfor_1>
+		<perfor_2>うみゃぁぁ～～～ん……うっ、背伸びが気持ちよくて変な声が出てしまった!?	</perfor_2>
+		<perfor_3>ううぅむ……吾輩の野生が……失われていく……ごろにゃん……	</perfor_3>
+		<perfor_3>吾輩の自慢の毛並みをご照覧あれ。いかがですかな？	</perfor_3>
+		<levelup>主殿がまた強くなったか！　吾輩も負けてはおられぬ！　ウオォォ！</levelup>
+		<levelup>主殿の成長を間近で見られるとは！　吾輩は幸せ者であるな！</levelup>
+		<levelup>お見事！　またひとつ武を磨かれましたな！　いずれ天下も獲れましょうぞ！</levelup>
+		<levelup>ガハハハハ！　主殿の強さは天井知らずですな！</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>ありがたき幸せ！　では遠慮なくいただくとしよう！</feeding>
+		<feeding>ふむ……急いては事を仕損じるとも申しますしな。　では、頂戴する。</feeding>
+		<connect>待っておりましたぞ、主殿！　さあ、吾輩と共に大暴れしましょうぞ！</connect>
+		<connect>主殿が戻られるのを心待ちにしておりましたぞ。　何処へでもお供いたしましょう！		</connect>
+		<danger>主殿！　ここはいったん退くのだ！　三十六計逃げるに如かず！</danger>
+		<danger>形勢は不利……この難局を打開する手を探さねば！</danger>
+		<dead>ここで終わる主殿ではない！　必ずや雪辱を果たしてみせよう！</dead>
+		<dead>むぅ……勝負はお預けだ！　主殿、今日のところは退きましょうぞ！</dead>
+		<stand>主殿、今日はどうなさるおつもりか？　一服ついたら出かけようではないか。</stand>
+		<stand>絶好の狩猟日和！　吾輩、すぐにでも狩りに行きたい気分！</stand>
+		<stand>主殿も一服いかがですかな？　何も考えずに一服つくのもオツなものですぞ？	</stand>
+		<perfor_1>おお！　吾輩にぴったりの箱ではないか！</perfor_1>
+		<perfor_1>この箱は……いいものだ……ふぅ。落ち着きますなぁ。</perfor_1>
+		<perfor_2>うみゃぁぁ～～～ん……うっ、背伸びが気持ちよくて変な声が出てしまった!?	</perfor_2>
+		<perfor_3>ううぅむ……吾輩の野生が……失われていく……ごろにゃん……	</perfor_3>
+		<perfor_3>吾輩の自慢の毛並みをご照覧あれ。いかがですかな？	</perfor_3>
+		<levelup>主殿がまた強くなったか！　吾輩も負けてはおられぬ！　ウオォォ！</levelup>
+		<levelup>主殿の成長を間近で見られるとは！　吾輩は幸せ者であるな！</levelup>
+		<levelup>お見事！　またひとつ武を磨かれましたな！　いずれ天下も獲れましょうぞ！</levelup>
+		<levelup>ガハハハハ！　主殿の強さは天井知らずですな！</levelup>
+	</noting>
+	<full>
+		<feeding>ぅ……む……主殿からいただいた物を粗末にはできぬ。</feeding>
+		<feeding>吾輩、最近は腹回りを気にしておりましてな。これ以上は、もう結構ですぞ！</feeding>
+		<connect>待っておりましたぞ、主殿！　さあ、吾輩と共に大暴れしましょうぞ！</connect>
+		<connect>主殿が戻られるのを心待ちにしておりましたぞ。　何処へでもお供いたしましょう！</connect>
+		<danger>主殿！　ここはいったん退くのだ！　三十六計逃げるに如かず！</danger>
+		<danger>形勢は不利……この難局を打開する手を探さねば！</danger>
+		<dead>ここで終わる主殿ではない！　必ずや雪辱を果たしてみせよう！</dead>
+		<dead>むぅ……勝負はお預けだ！　主殿、今日のところは退きましょうぞ！</dead>
+		<stand>主殿、今日はどうなさるおつもりか？　一服ついたら出かけようではないか。</stand>
+		<stand>絶好の狩猟日和！　吾輩、すぐにでも狩りに行きたい気分！</stand>
+		<stand>主殿も一服いかがですかな？　何も考えずに一服つくのもオツなものですぞ？	</stand>
+		<perfor_1>おお！　吾輩にぴったりの箱ではないか！</perfor_1>
+		<perfor_1>この箱は……いいものだ……ふぅ。落ち着きますなぁ。</perfor_1>
+		<perfor_2>うみゃぁぁ～～～ん……うっ、背伸びが気持ちよくて変な声が出てしまった!?	</perfor_2>
+		<perfor_3>ううぅむ……吾輩の野生が……失われていく……ごろにゃん……	</perfor_3>
+		<perfor_3>吾輩の自慢の毛並みをご照覧あれ。いかがですかな？	</perfor_3>
+		<levelup>主殿がまた強くなったか！　吾輩も負けてはおられぬ！　ウオォォ！</levelup>
+		<levelup>主殿の成長を間近で見られるとは！　吾輩は幸せ者であるな！</levelup>
+		<levelup>お見事！　またひとつ武を磨かれましたな！　いずれ天下も獲れましょうぞ！</levelup>
+		<levelup>ガハハハハ！　主殿の強さは天井知らずですな！</levelup>
+	</full>
+	<so_full>
+		<feeding>ゲフ……し、失礼。これ以上は、吾輩、必要ありませぬ。</feeding>
+		<feeding>これ以上、吾輩のお腹が丸くなってしまっては威厳が保てませぬ！</feeding>
+		<connect>待っておりましたぞ、主殿！　さあ、吾輩と共に大暴れしましょうぞ！</connect>
+		<connect>主殿が戻られるのを心待ちにしておりましたぞ。　何処へでもお供いたしましょう！</connect>
+		<danger>主殿！　ここはいったん退くのだ！　三十六計逃げるに如かず！</danger>
+		<danger>形勢は不利……この難局を打開する手を探さねば！</danger>
+		<dead>ここで終わる主殿ではない！　必ずや雪辱を果たしてみせよう！</dead>
+		<dead>むぅ……勝負はお預けだ！　主殿、今日のところは退きましょうぞ！</dead>
+		<stand>主殿、今日はどうなさるおつもりか？　一服ついたら出かけようではないか。</stand>
+		<stand>絶好の狩猟日和！　吾輩、すぐにでも狩りに行きたい気分！</stand>
+		<stand>主殿も一服いかがですかな？　何も考えずに一服つくのもオツなものですぞ？	</stand>
+		<perfor_1>おお！　吾輩にぴったりの箱ではないか！</perfor_1>
+		<perfor_1>この箱は……いいものだ……ふぅ。落ち着きますなぁ。</perfor_1>
+		<perfor_2>うみゃぁぁ～～～ん……うっ、背伸びが気持ちよくて変な声が出てしまった!?	</perfor_2>
+		<perfor_3>ううぅむ……吾輩の野生が……失われていく……ごろにゃん……	</perfor_3>
+		<perfor_3>吾輩の自慢の毛並みをご照覧あれ。いかがですかな？	</perfor_3>
+		<levelup>主殿がまた強くなったか！　吾輩も負けてはおられぬ！　ウオォォ！</levelup>
+		<levelup>主殿の成長を間近で見られるとは！　吾輩は幸せ者であるな！</levelup>
+		<levelup>お見事！　またひとつ武を磨かれましたな！　いずれ天下も獲れましょうぞ！</levelup>
+		<levelup>ガハハハハ！　主殿の強さは天井知らずですな！</levelup>
+	</so_full>
+</EDDGA2>
+
 </monster_talk_table>
