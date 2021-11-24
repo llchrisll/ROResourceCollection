@@ -1143,3 +1143,6 @@ sp_rudus3.rsw#bgm\\176.mp3#
 tur_d03_i.rsw#bgm\\65.mp3#
 tur_d04_i.rsw#bgm\\65.mp3#
 1@md_gef.rsw#bgm\\50.mp3#
+
+// 2018 ÇÒ·ÎÀ©
+1@halo.rsw#bgm\\84.mp3#

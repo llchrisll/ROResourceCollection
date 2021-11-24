@@ -3539,6 +3539,16 @@ resource = {
 , 
 reward = {title = 9980}
 , score = 5}
+, 
+[999964] = {UI_Type = 0, group = "ADVENTURE", major = 4, minor = 1, title = "Ragnarok Memes 2021", 
+content = {summary = "Ragnarok Memes 2021", details = "Winner of the Ragnarok Memes 2021 Contest."}
+, 
+resource = {
+[1] = {text = "Winner of the Ragnarok Memes 2021 Contest."}
+}
+, 
+reward = {title = 9979}
+, score = 5}
 }
 main = function()
   -- function num : 0_0

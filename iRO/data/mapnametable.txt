@@ -999,3 +999,6 @@ sp_rudus.rsw#Laboratory Waste Disposal Plant Rudus Floor 1#
 sp_rudus2.rsw#Laboratory Waste Disposal Plant Rudus Floor 2#
 sp_rudus3.rsw#Laboratory Waste Disposal Plant Rudus Floor 3#
 1@md_gef.rsw#Fri-Memorial#
+
+// 2018 «“∑Œ¿©
+1@halo.rsw#Halloween Festival#

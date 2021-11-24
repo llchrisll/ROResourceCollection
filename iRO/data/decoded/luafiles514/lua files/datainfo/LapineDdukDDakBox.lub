@@ -38,6 +38,182 @@ SourceItems = {
 {"Bloody_Knight_Shield", 1, 28942}
 }
 , NeedSource_String = "Cursed Knight\'s Shield"}
+, 
+JobShadow_Mix_Weapon = {ItemID = 23236, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_SuperNovice_Weapon", 1, 24282}
+, 
+{"S_Gunslinger_Weapon", 1, 24283}
+, 
+{"S_Taekwon_Weapon", 1, 24284}
+, 
+{"S_Ninja_Weapon", 1, 24285}
+, 
+{"S_DoramMagical_Weapon", 1, 24286}
+, 
+{"S_DoramPhysical_Weapon", 1, 24287}
+, 
+{"S_Runeknight_Weapon", 1, 24288}
+, 
+{"S_Royalguard_Weapon", 1, 24289}
+, 
+{"S_Mechanic_weapon", 1, 24290}
+, 
+{"S_Genetic_Weapon", 1, 24291}
+, 
+{"S_Archbishop_Weapon", 1, 24292}
+, 
+{"S_Sura_weapon", 1, 24293}
+, 
+{"S_Guillotine_Weapon", 1, 24294}
+, 
+{"S_Shadowchaser_Weapon", 1, 24295}
+, 
+{"S_Warlock_Weapon", 1, 24296}
+, 
+{"S_Sorcerer_Weapon", 1, 24297}
+, 
+{"S_Ranger_Weapon", 1, 24298}
+, 
+{"S_Minstrel_Weapon", 1, 24299}
+, 
+{"S_Wanderer_Weapon", 1, 24300}
+}
+, NeedSource_String = "+7 Job Shadow Weapon"}
+, 
+JobShadow_Mix_Armor = {ItemID = 23237, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Knight_Armor", 1, 24269}
+, 
+{"S_Crusader_Armor", 1, 24270}
+, 
+{"S_Blacksmith_Armor", 1, 24271}
+, 
+{"S_Alchemist_Armor", 1, 24272}
+, 
+{"S_Priest_Armor", 1, 24273}
+, 
+{"S_Monk_Armor", 1, 24274}
+, 
+{"S_Assassin_Armor", 1, 24275}
+, 
+{"S_Rogue_Armor", 1, 24276}
+, 
+{"S_Wizard_Armor", 1, 24277}
+, 
+{"S_Sage_Armor", 1, 24278}
+, 
+{"S_Hunter_Armor", 1, 24279}
+, 
+{"S_Bard_Armor", 1, 24280}
+, 
+{"S_Dancer_Armor", 1, 24281}
+}
+, NeedSource_String = "+7 Job Shadow Armor"}
+, 
+JobShadow_Mix_Shoes = {ItemID = 23238, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Knight_Shoes", 1, 24256}
+, 
+{"S_Crusader_Shoes", 1, 24257}
+, 
+{"S_Blacksmith_Shoes", 1, 24258}
+, 
+{"S_Alchemist_Shoes", 1, 24259}
+, 
+{"S_Priest_Shoes", 1, 24260}
+, 
+{"S_Monk_Shoes", 1, 24261}
+, 
+{"S_Assassin_Shoes", 1, 24262}
+, 
+{"S_Rogue_Shoes", 1, 24263}
+, 
+{"S_Wizard_Shoes", 1, 24264}
+, 
+{"S_Sage_Shoes", 1, 24265}
+, 
+{"S_Hunter_Shoes", 1, 24266}
+, 
+{"S_Bard_Shoes", 1, 24267}
+, 
+{"S_Dancer_Shoes", 1, 24268}
+}
+, NeedSource_String = "+7 Job Shadow Shoes"}
+, 
+JobShadow_Mix_Shield = {ItemID = 23239, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Runeknight_Shield", 1, 24301}
+, 
+{"S_Royalguard_Shield", 1, 24302}
+, 
+{"S_Mechanic_Shield", 1, 24303}
+, 
+{"S_Genetic_Shield", 1, 24304}
+, 
+{"S_Archbishop_Shield", 1, 24305}
+, 
+{"S_Sura_Shield", 1, 24306}
+, 
+{"S_Guillotine_Shield", 1, 24307}
+, 
+{"S_Shadowchaser_Shield", 1, 24308}
+, 
+{"S_Warlock_Shield", 1, 24309}
+, 
+{"S_Sorcerer_Shield", 1, 24310}
+, 
+{"S_Ranger_Shield", 1, 24311}
+, 
+{"S_Minstrel_Shield", 1, 24312}
+, 
+{"S_Wanderer_Shield", 1, 24313}
+, 
+{"S_Ninja_Shield", 1, 24314}
+, 
+{"S_Taekwon_Shield", 1, 24315}
+, 
+{"S_DoramPhysical_Shield", 1, 24316}
+, 
+{"S_DoramMagical_Shield", 1, 24317}
+, 
+{"S_SuperNovice_Shield", 1, 24318}
+, 
+{"S_Gunslinger_Shield", 1, 24319}
+}
+, NeedSource_String = "+7 Job Shadow Shield"}
+, 
+JobShadow_Mix_Pendant = {ItemID = 23240, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Swordman_Pendant", 1, 24250}
+, 
+{"S_Merchant_Pendant", 1, 24251}
+, 
+{"S_Acolyte_Pendant", 1, 24252}
+, 
+{"S_Thief_Pendant", 1, 24253}
+, 
+{"S_Magician_Pendant", 1, 24254}
+, 
+{"S_Archer_Pendant", 1, 24255}
+}
+, NeedSource_String = "+7 Job Shadow Pendant"}
+, 
+JobShadow_Mix_Earing = {ItemID = 23241, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Swordman_earring", 1, 24246}
+, 
+{"S_Merchant_earring", 1, 24247}
+, 
+{"S_Acolyte_earring", 1, 24248}
+, 
+{"S_Magician_earring", 1, 24249}
+, 
+{"S_Thief_earring", 1, 28391}
+, 
+{"S_Archer_earring", 1, 28392}
+}
+, NeedSource_String = "+7 Job Shadow Earring"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

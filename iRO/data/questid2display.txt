@@ -1439,7 +1439,7 @@ The old scholar Defaria requested for some materials to unseal the scroll.#
 30 of each Holy Water, Rune of Darkness, Bloody Rune#
 
 7025#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
-You need to get all the required materials. Defaria said, 'I¡¯ll be waiting for your return.'#
+You need to get all the required materials. Defaria said, 'I'll be waiting for your return.'#
 Conversation with Defaria#
 
 7026#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
@@ -1509,19 +1509,19 @@ Defaria#
 //----- EP 13
 //---- Ä·ÇÁÀÇ »çÀ°»ç
 7042#Part-time Job - Tatacho's feed#SG_FEEL#QUE_NOIMAGE#
-Please bring me 50 Fresh Fish. They¡¯re feed for Tatachoes. I¡¯m fresh out, and I¡¯ll need to restock very soon. You can find them from Tatachoes in the fields.#
+Please bring me 50 Fresh Fish. They're feed for Tatachoes. I'm fresh out, and I'll need to restock very soon. You can find them from Tatachoes in the fields.#
 50 Fresh Fish#
 
 7043#Part-time Job - Cornus's feed#SG_FEEL#QUE_NOIMAGE#
-I¡¯ve just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields.#
+I've just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields.#
 30 Great Leaf & 30 Brown Root#
 
 7044#Part-time Job - Hillslion's feed1#SG_FEEL#QUE_NOIMAGE#
-I¡¯ve just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I¡¯ve been trying to feed them various things.. This time¡¦ I¡¯d like to try Monster¡¯s Feed. Can you please bring me 20 Monster¡¯s Feeds and 30 Pet Foods?#
-20 Monster¡¯s Feeds and 30 Pet Foods#
+I've just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I've been trying to feed them various things.. This time¡¦ I'd like to try Monster's Feed. Can you please bring me 20 Monster's Feeds and 30 Pet Foods?#
+20 Monster's Feeds and 30 Pet Foods#
 
 7045#Part-time Job - Hillslion's feed2#SG_FEEL#QUE_NOIMAGE#
-This is perfect because I was going to try some new feed for Hillslions. I tried Monster¡¯s Feed, but I don¡¯t know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?#
+This is perfect because I was going to try some new feed for Hillslions. I tried Monster's Feed, but I don't know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?#
 50 Meats and 30 Pet Foods#
 
 7046#Part-time Job - warm rugs#SG_FEEL#QUE_NOIMAGE#
@@ -13710,63 +13710,63 @@ Raccoon Hooray Team Captain is depressed for failing to make the Cookie house. Y
 Speak to Raccoon Hooray Captain#
 
 1281#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.2. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.2. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1282#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.5. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.5. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1283#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.12. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.12. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1284#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.20. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.20. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1285#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.25. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.25. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1286#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.1. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.1. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1287#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.15. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.15. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1288#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.7. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.7. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1289#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.17. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.17. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1290#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.24. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.24. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1291#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.3. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.3. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1292#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.10. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.10. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1293#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.11. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.11. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1294#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.19. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.19. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1295#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray¡¯s No.23. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.23. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1296#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
@@ -17075,7 +17075,7 @@ On the second floor of Luina guild dungeon, fight off 40 Killer Mantises and 50 
 Monsters eliminated from the second floor of guild dungeon#
 
 7530# Luina Challenge 3#SG_FEEL#QUE_NOIMAGE#
-Fight off Gioia and Elvira in Hero¡¯s Tear in Corridor of the Abyss in Luina.#
+Fight off Gioia and Elvira in Hero's Tear in Corridor of the Abyss in Luina.#
 Battle in Corridor of the Abyss#
 
 7531# Britoniah Challenge 1#SG_FEEL#QUE_NOIMAGE#
@@ -17087,7 +17087,7 @@ On the second floor of Britoniah guild dungeon, fight off 20 Abysmal Dark Frames
 Monsters eliminated from the second floor of guild dungeon#
 
 7533# Britoniah Challenge 3#SG_FEEL#QUE_NOIMAGE#
-Fight off Kades and Rudo, the guardians of the dead, in the Dead Man¡¯s Hill in Corridor of the Abyss in Britoniah.#
+Fight off Kades and Rudo, the guardians of the dead, in the Dead Man's Hill in Corridor of the Abyss in Britoniah.#
 Battle in Corridor of the Abyss#
 
 7534# Greenwood Lake Challenge 1#SG_FEEL#QUE_NOIMAGE#
@@ -17626,7 +17626,7 @@ You have discovered the owner of the old ring.#
 #
 
 12327#The memory of old photo album#SG_FEEL#QUE_NOIMAGE#
-The merchant will be happy if he receives the photo album. Let¡¯s find other photo albums that he may have lost and bring them to him.#
+The merchant will be happy if he receives the photo album. Let's find other photo albums that he may have lost and bring them to him.#
 #
 
 12328#Dol-Seoi's Sorrow#SG_FEEL#QUE_NOIMAGE#
@@ -18523,7 +18523,7 @@ Register for the ^8B4513Magic Competition^000000#
 
 9286#Stop Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
 Stop^0000FF Geffen Gangsters ^000000who is bullying^8B4513A student^000000#
-Let¡¯s save ^8B4513 A student^000000#
+Let's save ^8B4513 A student^000000#
 
 9287#defeating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
 You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
@@ -18538,15 +18538,15 @@ A salary of a resident was returned from the ^8B4513Geffen Shoplifter^000000 I t
 Register for the ^8B4513Magic Competition^000000#
 
 9290#Participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let¡¯s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain..#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain..#
 #
 
 9291# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let¡¯s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
 #
 
 9292# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let¡¯s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
 #
 
 9293# Register in Magic Competition#SG_FEEL#QUE_NOIMAGE#
@@ -19121,7 +19121,7 @@ Message from ^8B4513Professor Bernhard ^000000: I ask that you enter the ^0000FF
 Obtained shard from Ancient Gigantes. #
 
 9336#Go back to Professor Bernhard#SG_FEEL#QUE_NOIMAGE#
-Message from ^8B4513 Professor Bernhard^000000: I don¡¯t have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door.#
+Message from ^8B4513 Professor Bernhard^000000: I don't have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door.#
 Reunited after 7 days.#
 
 9337#Wrapping up the Adventure#SG_FEEL#QUE_NOIMAGE#
@@ -19947,7 +19947,7 @@ A  small, white object quickly passed the entrance not so long ago. They are not
 Talk to nervous Jakk#
 
 11488#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
-Jakk said that Jakk's kitty went to the place called ¡¯there'. Let's inform Jakk, who is trying to find the kitty.#
+Jakk said that Jakk's kitty went to the place called 'there'. Let's inform Jakk, who is trying to find the kitty.#
 Talk to Jakk#
 
 11489#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
@@ -19967,7 +19967,7 @@ If you go near the harbor, you can find many cats who want to take fish from you
 Investigation on Alberta harbor#
 
 11493#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
-You found a white cat, but it doesn't look like Jakk¡¯s kitty. The pile of sand behind is suspicious. Let's investigate.#
+You found a white cat, but it doesn't look like Jakk's kitty. The pile of sand behind is suspicious. Let's investigate.#
 Investigation on the pile_of_sand#
 
 11494#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
@@ -23936,11 +23936,11 @@ Come back to Jelloshaker(Payon) in 20 hours to see if there is more volunteer wo
 
 //²Þ°ú ±×¸²ÀÚ MD
 16215#The Shadowed Dream#SG_FEEL#QUE_NOIMAGE#
-You¡¯ve agreed to accompany Loreche¡¯s investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap.#
+You've agreed to accompany Loreche's investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap.#
 Dimensional Gap Investigation#
 
 16216#The Bubbly Illusion#SG_FEEL#QUE_NOIMAGE#
-You¡¯ve agreed to accompany Loreche¡¯s investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap.#
+You've agreed to accompany Loreche's investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap.#
 Dimensional Gap Investigation#
 
 16217#Rest and Relaxation#SG_FEEL#QUE_NOIMAGE#
@@ -23948,7 +23948,7 @@ This is a daily quest, and you can re-take it when the cooldown resets. Speak to
 Resets at 4 am#
 
 16218#Modification and Calculation#SG_FEEL#QUE_NOIMAGE#
-Let¡¯s go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap.#
+Let's go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap.#
 Speak with Eugenie#
 
 16219#Kindness and Gratitude#SG_FEEL#QUE_NOIMAGE#
@@ -24005,7 +24005,7 @@ An Adventurer by the name ¡°Murian¡± is currently on a quest for the Merchant Un
 Box Retrieved#
 
 8335#Return to Merchant Union#SG_FEEL#QUE_NOIMAGE#
-Let¡¯s deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department.#
+Let's deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department.#
 Box Submitted#
 
 8336#Defeat 10 Bongun#SG_FEEL#QUE_NOIMAGE#
@@ -24037,7 +24037,7 @@ An Adventurer named Elbury is currently at the Sphinx B3F fulfilling a quest for
 Box Retrieved#
 
 8343#Return to Merchant Union#SG_FEEL#QUE_NOIMAGE#
-Let¡¯s deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department.#
+Let's deliver the Box to Masha, who works for the Alberta Merchant Union Human Resources Department.#
 Box Submitted#
 
 8344#Collection of Biolabs Data#SG_FEEL#QUE_NOIMAGE#
@@ -24045,7 +24045,7 @@ Check the small sign somewhere in the Biolabs 3F for a slot to insert a card. Ta
 Data Retrieved#
 
 8345#Deliver Card to Masha#SG_FEEL#QUE_NOIMAGE#
-Let¡¯s deliver the data retrieval card to Masha, who works for the Alberta Merchant Union Human Resources Department.#
+Let's deliver the data retrieval card to Masha, who works for the Alberta Merchant Union Human Resources Department.#
 Card submitted#
 
 8346#Defeat 3 Eremes Guile#SG_FEEL#QUE_NOIMAGE#
@@ -24087,12 +24087,12 @@ To hire a street stall staffer, you must have an employment certificate given by
 
 //½ÅÂû½ºÅÏ===MD ¿ÕÀÇ ±¸µÎ±Á¿¡¼­
 
-8401#Into the King¡¯s Heel#SG_FEEL#QUE_NOIMAGE#
+8401#Into the King's Heel#SG_FEEL#QUE_NOIMAGE#
 #
 Enter Dungeon#
 
-8538#Tomorrow at the King¡¯s Heel#SG_FEEL#QUE_NOIMAGE#
-I never want to see another card again... But maybe I¡¯ll feel differently tomorrow! Let¡¯s go talk to Dr. Magnatum again tomorrow.#
+8538#Tomorrow at the King's Heel#SG_FEEL#QUE_NOIMAGE#
+I never want to see another card again... But maybe I'll feel differently tomorrow! Let's go talk to Dr. Magnatum again tomorrow.#
 Resets at 4 am#
 
 8527#Delay Insurance: EXP Card and step#SG_FEEL#QUE_NOIMAGE#
@@ -24103,7 +24103,7 @@ If you defeat 50 wild Steps and EXP Cards within the Summoning Room, you can rec
 Delay Insurance re-registration cannot be instantly processed. Please wait and try again.#
 Resets at 4 am#
 
-8529#Master of the King¡¯s Heel#SG_FEEL#QUE_NOIMAGE#
+8529#Master of the King's Heel#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
@@ -25437,3 +25437,181 @@ Visit again in 70 minutes#
 16176#Summer Solstice Night Bonfire#SG_FEEL#QUE_NOIMAGE#
 You inhaled the good smoke from the herbal bonfire. You can get back to it in 50 minutes.#
 Visit again in 50 minutes#
+
+
+
+16378#Insect Monster Hunt#SG_FEEL#QUE_NOIMAGE#
+Received The Royal Hunt mission. Hunt Insect Monster x 30 that are at level 50 or above and report to <NAVI>[Deputy Officer Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>.#
+#
+
+16379#Insect Monster Hunt- Stand by#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest that players can repeatedly get after stand by time. You can get the quest from <NAVI>[Deputy Officer Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>.#
+Reset at 04:00#
+
+16380#Animal Monster Hunt#SG_FEEL#QUE_NOIMAGE#
+Received The Royal Hunt mission. Hunt Animal Monster x 30 that are at level 50 or above and report to <NAVI>[Deputy Officer Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>.#
+#
+
+16381#Animal Monster Hunt- Stand by#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest that players can repeatedly get after stand by time. You can get the quest from <NAVI>[Deputy Officer Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>.#
+Reset at 04:00#
+
+16382#Fish Monster Hunt#SG_FEEL#QUE_NOIMAGE#
+Received The Royal Hunt mission. Hunt Fish Monster x 30 that are at level 50 or above and report to <NAVI>[Deputy Officer Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>.#
+#
+
+16383#Fish Monster Hunt- Stand by#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest that players can repeatedly get after stand by time. You can get the quest from <NAVI>[Deputy Officer Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>.#
+Reset at 04:00#
+
+16384#Dragon Monster Hunt#SG_FEEL#QUE_NOIMAGE#
+Received The Royal Hunt mission. Hunt Dragon Monster x 30 that are at level 50 or above and report to <NAVI>[Deputy Officer Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>.#
+#
+
+16385#Dragon Monster Hunt- Stand by#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest that players can repeatedly get after stand by time. You can get the quest from <NAVI>[Deputy Officer Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>.#
+Reset at 04:00#
+
+16386#Today's Help#SG_FEEL#QUE_NOIMAGE#
+Today's free fragrance test is finished. Bring one Rose of Choice before dawn to get perfume from <NAVI>[Master Cydorus]<INFO>prt_fild01,95,194,0,101,0</INFO></NAVI>.#
+Reset at 04:00#
+
+16387#Participate in The Royal Hunt#SG_FEEL#QUE_NOIMAGE#
+I have received a simple test to join The Royal Hunt. Hunt any 30 Insect Monsters and report to <NAVI>[Commander Nadezhda]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>.#
+The Royal Hunt Participation Test#
+
+11498#Jakk and Jakk's Days Like Jakk#SG_FEEL#QUE_NOIMAGE#
+When I came to my senses, I heard the whispers of ghosts. I was at Niflheim, the city of the dead. Let's hear what the ghosts have to say.#
+Talk to Hororong#
+
+11499#Jakk and Jakk's Days Like Jakk#SG_FEEL#QUE_NOIMAGE#
+Hororong says that Jakk at the square might know something. Let's ask Jakk at the square.#
+Talk to Jakk#
+
+11500#Jakk and Jakk's Days Like Jakk#SG_FEEL#QUE_NOIMAGE#
+I heard where Jakk was. Let's go back to Hururong.#
+Talk to Hururong#
+
+11501#Jakk and Jakk's Days Like Jakk#SG_FEEL#QUE_NOIMAGE#
+Defeat about 10 Runaway Jakks found in fields and dungeons and bring Pumpkin Decorations x 10 and Fully Dried White Stem x 20 to Hororong.#
+Jakk to Niflheim#
+
+11502#Jakk and Jakk's Days Like Jakk#SG_FEEL#QUE_NOIMAGE#
+I brought Jakk to Nifleheim. According to the ghosts, Jakk ends up developing stems when he stays in the land of the living for too long. Let him have a good rest.#
+Jakk's Rest#
+
+11503#Jakk and Jakk's Days Like Jakk#SG_FEEL#QUE_NOIMAGE#
+Defeat about 10 Runaway Jakks found in fields and dungeons and bring Pumpkin Decorations x 10 and Fully Dried White Stem x 20 to Hororing.#
+Jakk to Niflheim#
+
+11504#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+It's hard to understand, but I suppose I should get Fully Dried White Stem x 1 and return to Jakk.#
+Obtain a Fully Dried White Stem#
+
+11505#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+It seems that the cat was frightened by Jakk when he was brought in, and jumped out. Let's ask Harorong who was with Jakk then.#
+Talk to Harorong#
+
+11506#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+It's said that Nible at the entrance might have seen the kitty. Let's talk to Nible who is at the West Gate of Niflheim.#
+Nible at the West of Niflheim#
+
+11507#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+Nible says that it's not sure whether or not it was a cat, but a small white thing dashed through the gate not too long ago. Let's ask the one outside the gate.#
+Talk to the Shivering Jakk#
+
+11508#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+Jakk's cat went to the place called That Place. Let's tell Jakk who is looking for his kitty.#
+Talk to Jakk#
+
+11509#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+It seems that Jakk's kitty went to Midgard through the stem of Yggdrasil. It should pass Umbala, so let's investigate.#
+Investigate the North Gate of Umbala#
+
+11510#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+The Researcher told me that he showed the small and white thing the way to Morocc. Let's investigate the area around the North Gate of Morocc.#
+Investigate the gate of Morocc#
+
+11511#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+Merchant says that he showed the way to Alberta to someone. Let's investigate the North Gate of Alberta.#
+Investigate the gate of Alberta#
+
+11512#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+There are many cats that are trying to steal fish at the port. Let's investigate the area around the port.#
+Investigate Port Alberta#
+
+11513#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+I found a white cat, but it doesn't look like Jakk's cat. The sand pile behind there is suspicious. Let's investigate.#
+Investigate the sand pile#
+
+11514#Jakk and Jakk's Cat#SG_FEEL#QUE_NOIMAGE#
+I found a small animal's bones and a red choker with a bell. Let's go back to Jakk.#
+Talk to Jakk at Niflheim#
+
+11515#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+Jakk's Cat is being strange. Let's meet Jakk's Cat that is south of Jakk. #
+Talk to the cat#
+
+11516#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+The cat evolved into Teacher Scatleton, having learned much from his adventure. But he is now a different cat and can't go back to his old self. Let's bring the news to Jakk.#
+Talk to Jakk#
+
+11517#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+There are many cats at the center of the Valley of Gyol. Let's find the cat at the center of the Valley of Gyol.#
+Find the cat#
+
+11518#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+I found many Scatletons at the center of the Valley of Gyol, but they all seemed to be in bad condition. Let's get ^ff0000Black Fur x 5^000000 to make Scatleton warm#
+Black Fur x 5#
+
+11519#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+Scatletons are too enraged to continue the conversation. Let's to back to Jakk.#
+Talk to Jakk#
+
+11520#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+He says that he likes his cat, not just any cat. Let's talk to Teacher Scatleton again.#
+Talk to Teacher Scatleton#
+
+11521#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+It seems that Teacher Scatleton doesn't seem to be in the mood to talk. Let's go back to Jakk.#
+Talk to Jakk#
+
+11522#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+Jakk says he will wait for his cat and asks the player to look after the new cats. Get ^ff0000Fully Dried White Stem x 10 ^000000and help Scatleton at the Valley of Gyol.#
+To the Valley of Gyol#
+
+11523#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+Now that Scatleton can move, it seems hungry. Let's get ^ff0000Fresh Fish x 10 ^000000. #
+Fresh Fish x 10#
+
+11524#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+Scatleton is asking me to get additional ^ff0000Fully Dried White Stem x 20^000000. Let's get the stems.#
+Fully Dried White Stem x 20#
+
+11525#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+The scatleton has the same energy as the Teacher Scatleton. Let's ask the Teacher Scatleton.#
+Talk to Teacher Scatleton#
+
+11526#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+Even the Teacher Scatleton is going to go on a journey. Let's tell this news to Jakk.#
+Talk to Jakk#
+
+11527#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+Jakk seems to be tired. Let's visit after 04:00.#
+See you tomorrow, Jakk!#
+
+11528#Wind From the Black Hill#SG_FEEL#QUE_NOIMAGE#
+While this quest lasts, you can get Black Fur from monsters at the Valley of Gyol.#
+Black Fur Collector#
+
+11604#Jakk the Giant Pumpkin#SG_FEEL#QUE_NOIMAGE#
+To complete decorating the Halloween Festival ground, we need red and hot ^ff0000Elder Willow x 10^000000. Let's catch Elder Willow and return to Hurarong.#
+Elder Willow x 10#
+
+11605#Jakk the Giant Pumpkin#SG_FEEL#QUE_NOIMAGE#
+Have a look around Halloween Festival and complete ^ff0000Catch the Jakk Game^000000. You can go to Halloween Festival through Festival Guide.#
+Catch Jakk the Giant#
+
+11606#Jakk the Giant Pumpkin#SG_FEEL#QUE_NOIMAGE#
+Visit after 04:00 to go to Halloween Festival.#
+#

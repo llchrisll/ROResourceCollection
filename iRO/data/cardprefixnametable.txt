@@ -789,3 +789,7 @@
 27222#Half Fear#
 27224#of Half Devilish#
 27225#Half Wise Man's#
+27330#Of Kronecker#
+27331#Of Grantz Heine#
+27332#Of Skia#
+27333#Of Shiny Nerius#
