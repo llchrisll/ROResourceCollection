@@ -21258,12 +21258,12 @@ Defeat Heater 100 ea #
 
 ///Hunting
 295186#Comeback Stage Daily Quest - Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunting ^0000FFSide Winder and Isis^000000#
-Defeat Side Winder and Isis 100 ea#
+Hunting ^0000FFJejeling and Mavka^000000#
+Defeat Jejeling and Mavka 100 ea#
 
 ///Collecting
 295404#Comeback Stage Daily Quest - Collecting Item#SG_FEEL#QUE_NOIMAGE#
-^0000FFCollect below items^000000                                                          1. Broken Sword 100 ea                                                       2. Rotten Bandage 100 ea#
+^0000FFCollect below items^000000                                                          1. Wing of Dragonfly 100 ea                                                  2. Log 100 ea#
 Collecting items#
 
 //Training Ground Renovation Part3
@@ -23406,3 +23406,171 @@ Defeat monster#
 295842#Daily Convert Morocc Symbol#SG_FEEL#QUE_NOIMAGE#
 Convert Morocc Symbol limited 1 time per day#
 You able to convert again at 05:00 AM#
+
+295863#Daily Mission Ragna Pass#SG_FEEL#QUE_NOIMAGE#
+Daily Mission Ragna Pass. You can accept again after 05.00 AM#
+You able to accept again at 05:00 AM#
+
+295864#Better Weapon#SG_FEEL#QUE_NOIMAGE#
+Collecting "Oridecon" 10 ea#
+Collecting items#
+
+295865#Better Armor#SG_FEEL#QUE_NOIMAGE#
+Collecing "Elunium" 10 ea#
+Collecting items#
+
+295866#Stone Heart#SG_FEEL#QUE_NOIMAGE#
+Collecting "Stone Heart" 100 ea#
+Collecting items#
+
+295867#Leaf of Death#SG_FEEL#QUE_NOIMAGE#
+Collecting "Ectoplasm" 100 ea#
+Collecting items#
+
+295868#Sticky Sticky#SG_FEEL#QUE_NOIMAGE#
+Collecting "Sticky Mucus" 100 ea#
+Collecting items#
+
+295869#Cookie Jars#SG_FEEL#QUE_NOIMAGE#
+Collecting "Well-baked Cookie" 100 ea#
+Collecting items#
+
+295870#Gift for you#SG_FEEL#QUE_NOIMAGE#
+Collecting "Gift Box" 5 ea#
+Collecting items#
+
+295871#Risky Risky#SG_FEEL#QUE_NOIMAGE#
+Collecting "Anolian Skin" 100 ea#
+Collecting items#
+
+295872#Home Bakery#SG_FEEL#QUE_NOIMAGE#
+Collecting "Bread" 100 ea#
+Collecting items#
+
+295873#Crimson Rock#SG_FEEL#QUE_NOIMAGE#
+Collecting "Red Gemstone" 100 ea#
+Collecting items#
+
+295874#Tasty Sushi#SG_FEEL#QUE_NOIMAGE#
+Collecting "Gill" 100 ea#
+Collecting items#
+
+295875#Leaf of Life#SG_FEEL#QUE_NOIMAGE#
+Collecting "Huge Leaf" 100 ea#
+Collecting items#
+
+295876#Hot Hot#SG_FEEL#QUE_NOIMAGE#
+Collecting "Burning Horseshoe" 100 ea#
+Collecting items#
+
+295877#Chilling Mist#SG_FEEL#QUE_NOIMAGE#
+Collecting "Ice Cubic" 100 ea#
+Collecting items#
+
+295878#Bang Bang#SG_FEEL#QUE_NOIMAGE#
+Defeat "Cruiser" 150 times#
+Defeat Cruiser#
+
+295879#Crazy Crocodile#SG_FEEL#QUE_NOIMAGE#
+Defeat "Anolian" 150 times#
+Defeat Anolian#
+
+295880#Inside Pyramid#SG_FEEL#QUE_NOIMAGE#
+Defeat "Mummy" 150 times#
+Defeat Mummy#
+
+295881#Sappun Sappun#SG_FEEL#QUE_NOIMAGE#
+Defeat "Leaf Cat" 150 times#
+Defeat Leaf Cat#
+
+295882#Hip Hop Poring#SG_FEEL#QUE_NOIMAGE#
+Defeat "Jejeling" 150 times#
+Defeat Jejeling#
+
+295883#Helicopter#SG_FEEL#QUE_NOIMAGE#
+Defeat "Dragon Tail" 150 times#
+Defeat Dragon Tail#
+
+295884#Dancing Tiger#SG_FEEL#QUE_NOIMAGE#
+Defeat "Jing Guai" 150 times#
+Defeat Jing Guai#
+
+295885#Only Human#SG_FEEL#QUE_NOIMAGE#
+Defeat "High Orc" 150 times#
+Defeat High Orc#
+
+295886#Song of Angel#SG_FEEL#QUE_NOIMAGE#
+Defeat "Cendrawasih" 150 times#
+Defeat Cendrawasih#
+
+295887#Tiny Dragon#SG_FEEL#QUE_NOIMAGE#
+Defeat "Petite (Ground)" 150 times#
+Defeat Petite (Ground)#
+
+295888#Star in the Sea#SG_FEEL#QUE_NOIMAGE#
+Defeat "Red Eruma" 150 times#
+Defeat Red Eruma#
+
+295889#Moving Tree#SG_FEEL#QUE_NOIMAGE#
+Defeat "Wood Goblin" 150 times#
+Defeat Wood Goblin#
+
+295890#Safety First#SG_FEEL#QUE_NOIMAGE#
+Defeat "Remover" 150 times#
+Defeat Remover#
+
+295891#Ice Cream#SG_FEEL#QUE_NOIMAGE#
+Defeat "Snowier" 150 times#
+Defeat Snowier#
+
+295892#Burning Poring#SG_FEEL#QUE_NOIMAGE#
+Defeat "Magmaring" 150 times#
+Defeat Magmaring#
+
+295893#Kafra Tax#SG_FEEL#QUE_NOIMAGE#
+Donate "10,000" Zeny to Ragna Grandma#
+Donate Zeny#
+
+295894#Season Mission Ragna Pass#SG_FEEL#QUE_NOIMAGE#
+You have done Season Mission for 10 quests#
+Finish Season Mission#
+
+295895#Deja Vu#SG_FEEL#QUE_NOIMAGE#
+Defeat "Corrupted Root" 5 Times, from "Old Glast Heim" Instance Dungeon#
+Defeat Corrupted Root#
+
+295896#Be Brave#SG_FEEL#QUE_NOIMAGE#
+Defeat "Depraved Orc Hero" 5 Times, from "Orc Memorial" Instance Dungeon#
+Defeat Depraved Orc Hero#
+
+295897#Summer Time#SG_FEEL#QUE_NOIMAGE#
+Defeat "Disgusting Octopus" 5 Times, from "Octopus Cave" Instance Dungeon#
+Defeat Disgusting Octopus#
+
+295898#Ancient Pyramid#SG_FEEL#QUE_NOIMAGE#
+Defeat "Isis" 500 times#
+Defeat Isis#
+
+295899#Walking Dead#SG_FEEL#QUE_NOIMAGE#
+Defeat "Ghoul" 500 times#
+Defeat Ghoul#
+
+295900#Stone Heart#SG_FEEL#QUE_NOIMAGE#
+Defeat "Stapo" 500 times#
+Defeat Stapo#
+
+295901#Stone Heart#SG_FEEL#QUE_NOIMAGE#
+Collecting "Soul of Umbala" 200 ea#
+Collecting items#
+
+295902#Dewata Treasure#SG_FEEL#QUE_NOIMAGE#
+Collecting "Mysterious Kard" 200 ea#
+Collecting items#
+
+295903#Break the Ice#SG_FEEL#QUE_NOIMAGE#
+Collecting "Inferno Candle" 200 ea#
+Collecting items#
+
+295904#Young Money#SG_FEEL#QUE_NOIMAGE#
+Donate "10,000,000" Zeny to Ragna Grandma#
+Donate Zeny#
