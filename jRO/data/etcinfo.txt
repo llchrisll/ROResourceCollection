@@ -1,9 +1,9 @@
 loadingscreen#
-5#
+7#
 
 //クリスマスデコレーション
-//event#
-//1#
+event#
+1#
 //
 //HaloweenMap用エフェクト
 //以下、永久実装（ハロウィン専用マップ）

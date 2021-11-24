@@ -630,58 +630,6 @@ SignBoardList = {
 , 
 {"monbt1_f0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
 , 
-{"monbt1_g0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_h0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_i0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_j0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_k0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_l0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_m0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_n0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_o0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt1_p0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_a0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_b0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_c0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_d0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_e0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_f0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_g0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_h0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_i0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_j0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_k0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_l0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_m0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_n0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_o0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
-{"monbt2_p0", 306, 259, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  突撃隊　倉庫員", "255,255,255"}
-, 
 {"arena_room", 109, 89, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
 , 
 {"mora", 105, 91, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  温泉サービス", "255,255,255"}
@@ -1542,6 +1490,14 @@ SignBoardList = {
 , 
 {"melon_f1", 105, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  素材の案内", "255,255,255"}
 , 
+{"cmd_fild07", 58, 278, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ファロス燈台地下迷宮", "255,255,255"}
+, 
+{"cmd_fild07", 57, 275, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"cmd_fild07", 62, 275, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  エンチャント", "255,255,255"}
+, 
+{"cmd_fild07", 42, 268, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
 , 
 {"lby_in", 44, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐依頼", "255,255,255"}
@@ -1768,14 +1724,6 @@ SignBoardList = {
 , 
 {"hal_main", 180, 179, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  モンスター変身", "255,255,255"}
 , 
-{"hal_main", 167, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  特殊転送", "255,255,255"}
-, 
-{"hal_main", 207, 165, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  果物販売", "255,255,255"}
-, 
-{"hal_main", 197, 158, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  騎乗物の貸出", "255,255,255"}
-, 
-{"hal_main", 203, 158, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ﾎﾑﾝｸﾙｽ親密度アップ", "255,255,255"}
-, 
 {"hal_field1", 229, 267, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  マップ転送", "255,255,255"}
 , 
 {"hal_field2", 370, 236, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  マップ転送", "255,255,255"}
@@ -1791,6 +1739,10 @@ SignBoardList = {
 {"hal_mostro1", 95, 107, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  店長の部屋", "255,255,255"}
 , 
 {"hal_fes2", 338, 86, 0, IT_BMP, "signboard\\sign_hal01.bmp"}
+, 
+{"hal_main", 212, 171, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"hal_main", 190, 165, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
 , 
 {"ev_june01", 169, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  神秘の館転送", "255,255,255"}
 , 
@@ -1825,5 +1777,29 @@ SignBoardList = {
 {"ev_summer38", 167, 51, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ダンシング！", "255,255,255"}
 , 
 {"ev_summer01", 286, 268, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
+, 
+{"prontera", 98, 62, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エンドレスタワーアナザー ", "255,255,255"}
+, 
+{"lasagna", 303, 224, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エンドレスタワーアナザー ", "255,255,255"}
+, 
+{"e_tower", 83, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エンドレスタワーアナザー ", "255,255,255"}
+, 
+{"ad_island", 79, 87, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント会場案内員 ", "255,255,255"}
+, 
+{"ad_island", 267, 86, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  タワーへ ", "255,255,255"}
+, 
+{"ad_island", 92, 100, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス ", "255,255,255"}
+, 
+{"ad_island", 89, 120, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  コンブチャお渡し ", "255,255,255"}
+, 
+{"ad_island", 83, 116, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
+, 
+{"ad_island", 93, 75, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  プロンテラへ ", "255,255,255"}
+, 
+{"ad_island", 126, 87, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  タワーへ ", "255,255,255"}
+, 
+{"prontera", 105, 68, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  モンスター大討伐", "255,255,255"}
+, 
+{"prontera", 116, 66, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  人気投票くじ roro", "255,255,255"}
 }
 

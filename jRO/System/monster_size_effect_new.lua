@@ -3337,6 +3337,12 @@ EFFECT.EF_BLACK_BUBBLE2 = 1618
 -- DECOMPILER ERROR at PC4190: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_BLACK_BUBBLE3 = 1619
+-- DECOMPILER ERROR at PC4194: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_LEVEL185 = 1226
+-- DECOMPILER ERROR at PC4198: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_LEVEL185_SUB = 1227
 tbl = {
 [3000] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_PINKBODY}
@@ -3968,46 +3974,6 @@ MonsterEff = {EFFECT.EF_LEVEL99_3}
 , 
 [3564] = {MonsterSize = 1.2, 
 MonsterEff = {EFFECT.EF_LEVEL99_3}
-}
-, 
-[3421] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
-}
-, 
-[3422] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
-}
-, 
-[3423] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
-}
-, 
-[3424] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
-}
-, 
-[3425] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
-}
-, 
-[3426] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_WHITEBODY}
-}
-, 
-[3427] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_WHITEBODY}
-}
-, 
-[3428] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_WHITEBODY}
-}
-, 
-[3429] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_WHITEBODY}
-}
-, 
-[3430] = {MonsterSize = 1.2, 
-MonsterEff = {EFFECT.EF_WHITEBODY}
 }
 , 
 [3139] = {MonsterSize = 1, 
@@ -6784,6 +6750,330 @@ MonsterEff = {EFFECT.EF_NONE}
 , 
 [21508] = {MonsterSize = 3, 
 MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[3384] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3385] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3386] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3387] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3388] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3389] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3390] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3391] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3392] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3393] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3394] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3395] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3396] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3397] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3398] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3399] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3400] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3401] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3402] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3403] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3404] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3405] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3406] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3407] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3408] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3409] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3410] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3411] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3412] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3413] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3414] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3415] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3416] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3417] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3418] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3419] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3420] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3421] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3422] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3423] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3424] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3425] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3426] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3427] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3428] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3429] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3430] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3431] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3432] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3433] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3434] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3435] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3436] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3437] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3438] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3439] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_WHITEBODY}
+}
+, 
+[3440] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_CHAINGEHOLY}
+}
+, 
+[3421] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3422] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3423] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3424] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3425] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3426] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3427] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3428] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3429] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL99_3}
+}
+, 
+[3430] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21121] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_DEFENDER}
+}
+, 
+[21122] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_DARKCASTING}
+}
+, 
+[21123] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_CHANGEPOISON}
+}
+, 
+[21127] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_SANCTUARY, EFFECT.EF_DEFENDER}
+}
+, 
+[21128] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_CHANGEWIND}
+}
+, 
+[21129] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_CHANGEDARK}
+}
+, 
+[21130] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_CHANGEPOISON}
+}
+, 
+[21133] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_KG_KAGEHUMI}
+}
+, 
+[21134] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_KG_KAGEHUMI}
+}
+, 
+[21135] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_KO_ZENKAI_WATER}
+}
+, 
+[21136] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_KO_ZENKAI_LAND}
+}
+, 
+[21137] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21138] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_RK_DRAGONBREATH_WATER}
+}
+, 
+[21139] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_RK_DRAGONBREATH_WATER}
 }
 }
 main = function()

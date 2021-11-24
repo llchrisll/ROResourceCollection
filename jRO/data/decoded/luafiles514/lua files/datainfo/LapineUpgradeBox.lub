@@ -734,6 +734,286 @@ TargetItems = {
 {"Demons_Familiar_", 410071}
 }
 , NeedSource_String = "違法パーツII"}
+, 
+EWorld_Item007 = {ItemID = 25521, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Variant_Axe", 1331}
+, 
+{"Variant_Claw", 1861}
+, 
+{"Variant_Staff", 2053}
+, 
+{"Variant_Huuma", 13343}
+, 
+{"Variant_Blade", 13492}
+, 
+{"Variant_Mace", 16087}
+, 
+{"Variant_Wing", 18177}
+, 
+{"Variant_Claymore", 21046}
+, 
+{"Variant_Lance", 26021}
+, 
+{"Variant_Wand", 26149}
+, 
+{"Variant_Foxtail", 26150}
+, 
+{"Variant_Katar", 28037}
+, 
+{"Variant_Twohand_Axe", 28135}
+, 
+{"Variant_Rifle", 28249}
+, 
+{"Variant_Gatling_Gun", 28250}
+, 
+{"Variant_Shotgun", 28251}
+, 
+{"Variant_Launcher", 28252}
+, 
+{"Variant_Book", 28627}
+, 
+{"Variant_Dagger", 28753}
+, 
+{"Variant_Spear", 32017}
+, 
+{"Variant_Viollin", 32105}
+, 
+{"Variant_Blade_Whip", 32106}
+, 
+{"Variant_Handgun", 32300}
+}
+, NeedSource_String = "ディープストーン(物理)"}
+, 
+EWorld_Item008 = {ItemID = 25522, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Variant_Axe", 1331}
+, 
+{"Variant_Claw", 1861}
+, 
+{"Variant_Staff", 2053}
+, 
+{"Variant_Huuma", 13343}
+, 
+{"Variant_Blade", 13492}
+, 
+{"Variant_Mace", 16087}
+, 
+{"Variant_Wing", 18177}
+, 
+{"Variant_Claymore", 21046}
+, 
+{"Variant_Lance", 26021}
+, 
+{"Variant_Wand", 26149}
+, 
+{"Variant_Foxtail", 26150}
+, 
+{"Variant_Katar", 28037}
+, 
+{"Variant_Twohand_Axe", 28135}
+, 
+{"Variant_Rifle", 28249}
+, 
+{"Variant_Gatling_Gun", 28250}
+, 
+{"Variant_Shotgun", 28251}
+, 
+{"Variant_Launcher", 28252}
+, 
+{"Variant_Book", 28627}
+, 
+{"Variant_Dagger", 28753}
+, 
+{"Variant_Spear", 32017}
+, 
+{"Variant_Viollin", 32105}
+, 
+{"Variant_Blade_Whip", 32106}
+, 
+{"Variant_Handgun", 32300}
+}
+, NeedSource_String = "ディープストーン(魔法)"}
+, 
+EWorld_Item009 = {ItemID = 25523, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Robot\'s_Arm_J", 16047}
+}
+, NeedSource_String = "さび落としクリーナー"}
+, 
+EWorld_Item010 = {ItemID = 25524, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Demons_Familiar_", 410071}
+}
+, NeedSource_String = "超違法パーツ"}
+, 
+EWorld_Item022 = {ItemID = 25536, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器魔改造装置(Type4)"}
+, 
+EWorld_Item023 = {ItemID = 25537, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器魔改造装置(Type5)"}
+, 
+EWorld_Item024 = {ItemID = 25538, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+, 
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Hammer", 590006}
+}
+, NeedSource_String = "大罪武器魔改造装置(Type6)"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

@@ -700,6 +700,58 @@ Direction = {[3] = 321, [4] = 321, [5] = 321}
 [ACCESSORY_IDs.ACCESSORY_C_RK_Hair_RD] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Hill_Wind_Mask] = {Default = 195, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Poulet_TW] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cat_Footprints] = {Default = 75, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_White_Cat_On_Shoulder] = {Default = 450, 
+Direction = {[3] = 321, [4] = 321, [5] = 321}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Inner_Color_Long] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Avenger] = {Default = 193, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Ghost_Bat_TW] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Straw_Rice_Bag] = {Default = 193, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BU] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig_Peach] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Kururinpa_Hair_BD] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_LBW] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Fluffy_Lovely_Fox] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
