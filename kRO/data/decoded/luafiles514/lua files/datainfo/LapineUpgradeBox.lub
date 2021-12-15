@@ -172,6 +172,30 @@ TargetItems = {
 {"MV_B_Violin", 570010}
 , 
 {"MV_B_Whip", 580010}
+, 
+{"SP_B_Fox", 550050}
+, 
+{"GB_B_Fox", 550051}
+, 
+{"ML_B_Book", 540039}
+, 
+{"SS_B_Book", 540040}
+, 
+{"FCH_B_Huuma", 650017}
+, 
+{"SN_B_Huuma", 650018}
+, 
+{"DF_B_Revolver", 800008}
+, 
+{"FR_B_Gatling", 830007}
+, 
+{"ES_B_Staff", 550052}
+, 
+{"EC_B_Staff", 550053}
+, 
+{"SP_B_Saber", 500042}
+, 
+{"SI_B_Saber", 500043}
 }
 , NeedSource_String = "부스터 무기"}
 , 
@@ -228,6 +252,30 @@ TargetItems = {
 {"MV_B_Violin", 570010}
 , 
 {"MV_B_Whip", 580010}
+, 
+{"SP_B_Fox", 550050}
+, 
+{"GB_B_Fox", 550051}
+, 
+{"ML_B_Book", 540039}
+, 
+{"SS_B_Book", 540040}
+, 
+{"FCH_B_Huuma", 650017}
+, 
+{"SN_B_Huuma", 650018}
+, 
+{"DF_B_Revolver", 800008}
+, 
+{"FR_B_Gatling", 830007}
+, 
+{"ES_B_Staff", 550052}
+, 
+{"EC_B_Staff", 550053}
+, 
+{"SP_B_Saber", 500042}
+, 
+{"SI_B_Saber", 500043}
 }
 , NeedSource_String = "부스터 무기"}
 , 
@@ -532,6 +580,32 @@ TargetItems = {
 {"Vivatus_F_Mace", 590023}
 , 
 {"Vivatus_F_Hall", 590024}
+, 
+{"Vivatus_F_D_Wand", 550063}
+, 
+{"Vivatus_F_S_Stick", 550064}
+, 
+{"Vivatus_F_F_Wand", 550065}
+, 
+{"Vivatus_F_F_model", 550066}
+, 
+{"Vivatus_F_Star_B", 540045}
+, 
+{"Vivatus_F_Moon_B", 540046}
+, 
+{"Vivatus_F_Gatling", 830011}
+, 
+{"Vivatus_F_Launcher", 840007}
+, 
+{"Vivatus_F_Rifle", 810008}
+, 
+{"Vivatus_F_Shotgun", 820006}
+, 
+{"Vivatus_F_Revolver", 800012}
+, 
+{"Vivatus_F_C_Humma", 650021}
+, 
+{"Vivatus_F_Humma", 650022}
 }
 , NeedSource_String = "정화된 믿음의 무기"}
 , 
@@ -588,6 +662,32 @@ TargetItems = {
 {"Vivatus_F_Mace", 590023}
 , 
 {"Vivatus_F_Hall", 590024}
+, 
+{"Vivatus_F_D_Wand", 550063}
+, 
+{"Vivatus_F_S_Stick", 550064}
+, 
+{"Vivatus_F_F_Wand", 550065}
+, 
+{"Vivatus_F_F_model", 550066}
+, 
+{"Vivatus_F_Star_B", 540045}
+, 
+{"Vivatus_F_Moon_B", 540046}
+, 
+{"Vivatus_F_Gatling", 830011}
+, 
+{"Vivatus_F_Launcher", 840007}
+, 
+{"Vivatus_F_Rifle", 810008}
+, 
+{"Vivatus_F_Shotgun", 820006}
+, 
+{"Vivatus_F_Revolver", 800012}
+, 
+{"Vivatus_F_C_Humma", 650021}
+, 
+{"Vivatus_F_Humma", 650022}
 }
 , NeedSource_String = "정화된 믿음의 무기"}
 , 
@@ -690,6 +790,28 @@ TargetItems = {
 {"Poenitentia_Flagellum", 580013}
 , 
 {"Poenetentia_Vatia", 700025}
+, 
+{"Poenitentia_Foramen", 800011}
+, 
+{"Poenitentia_Penet", 810007}
+, 
+{"Poenitentia_Veloci", 830010}
+, 
+{"Poenitentia_Ruina", 840006}
+, 
+{"Poenitentia_Orbis", 500046}
+, 
+{"Poenitentia_Sol", 510056}
+, 
+{"Poenitentia_Jana", 510057}
+, 
+{"Poenitentia_Radius", 540044}
+, 
+{"Poenitentia_Ramus", 550060}
+, 
+{"Poenitentia_Planta", 550061}
+, 
+{"Poenitentia_Ferrum", 550062}
 }
 , NeedSource_String = "페니텐티아 무기(물리)"}
 , 
@@ -744,6 +866,28 @@ TargetItems = {
 {"Poenitentia_Flagellum", 580013}
 , 
 {"Poenetentia_Vatia", 700025}
+, 
+{"Poenitentia_Foramen", 800011}
+, 
+{"Poenitentia_Penet", 810007}
+, 
+{"Poenitentia_Veloci", 830010}
+, 
+{"Poenitentia_Ruina", 840006}
+, 
+{"Poenitentia_Orbis", 500046}
+, 
+{"Poenitentia_Sol", 510056}
+, 
+{"Poenitentia_Jana", 510057}
+, 
+{"Poenitentia_Radius", 540044}
+, 
+{"Poenitentia_Ramus", 550060}
+, 
+{"Poenitentia_Planta", 550061}
+, 
+{"Poenitentia_Ferrum", 550062}
 }
 , NeedSource_String = "페니텐티아 무기(물리)"}
 , 
@@ -798,6 +942,28 @@ TargetItems = {
 {"Poenitentia_Flagellum", 580013}
 , 
 {"Poenetentia_Vatia", 700025}
+, 
+{"Poenitentia_Foramen", 800011}
+, 
+{"Poenitentia_Penet", 810007}
+, 
+{"Poenitentia_Veloci", 830010}
+, 
+{"Poenitentia_Ruina", 840006}
+, 
+{"Poenitentia_Orbis", 500046}
+, 
+{"Poenitentia_Sol", 510056}
+, 
+{"Poenitentia_Jana", 510057}
+, 
+{"Poenitentia_Radius", 540044}
+, 
+{"Poenitentia_Ramus", 550060}
+, 
+{"Poenitentia_Planta", 550061}
+, 
+{"Poenitentia_Ferrum", 550062}
 }
 , NeedSource_String = "페니텐티아 무기(마법)"}
 , 
@@ -852,6 +1018,28 @@ TargetItems = {
 {"Poenitentia_Flagellum", 580013}
 , 
 {"Poenetentia_Vatia", 700025}
+, 
+{"Poenitentia_Foramen", 800011}
+, 
+{"Poenitentia_Penet", 810007}
+, 
+{"Poenitentia_Veloci", 830010}
+, 
+{"Poenitentia_Ruina", 840006}
+, 
+{"Poenitentia_Orbis", 500046}
+, 
+{"Poenitentia_Sol", 510056}
+, 
+{"Poenitentia_Jana", 510057}
+, 
+{"Poenitentia_Radius", 540044}
+, 
+{"Poenitentia_Ramus", 550060}
+, 
+{"Poenitentia_Planta", 550061}
+, 
+{"Poenitentia_Ferrum", 550062}
 }
 , NeedSource_String = "페니텐티아 무기(마법)"}
 , 
@@ -8672,6 +8860,12 @@ TargetItems = {
 {"메탈카타르", 1296}
 , 
 {"메탈보우", 18116}
+, 
+{"메탈강아지풀", 26111}
+, 
+{"메탈리볼버", 13125}
+, 
+{"메탈풍마수리검", 13322}
 }
 , NeedSource_String = "메탈 무기"}
 , 
@@ -8836,6 +9030,30 @@ TargetItems = {
 {"MV_B_Violin", 570010}
 , 
 {"MV_B_Whip", 580010}
+, 
+{"SP_B_Fox", 550050}
+, 
+{"GB_B_Fox", 550051}
+, 
+{"ML_B_Book", 540039}
+, 
+{"SS_B_Book", 540040}
+, 
+{"FCH_B_Huuma", 650017}
+, 
+{"SN_B_Huuma", 650018}
+, 
+{"DF_B_Revolver", 800008}
+, 
+{"FR_B_Gatling", 830007}
+, 
+{"ES_B_Staff", 550052}
+, 
+{"EC_B_Staff", 550053}
+, 
+{"SP_B_Saber", 500042}
+, 
+{"SI_B_Saber", 500043}
 }
 , NeedSource_String = "부스터 무기"}
 , 

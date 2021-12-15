@@ -10,6 +10,12 @@ IT_SIGNBOARD = 3
 SignBoardList = {
 {"Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "입력안하셨습니다", "#0x009EBDFF"}
 , 
+{"prontera", 166, 300, 6, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", "  부스터 프로모션", "#0x00FFFFFF"}
+, 
+{"sp_cor", 98, 136, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터일루시온인챈트", "#0x00FFFFFF"}
+, 
+{"malangdo", 152, 136, 0, IT_SIGNBOARD, "item\\Black_Moon_Cat.bmp", "  부스터 의상 인챈트", "#0x00FFFFFF"}
+, 
 {"malangdo", 124, 152, 0, IT_SIGNBOARD, "item\\suffragium.bmp", "  마일리지 스톤교환", "#0x00FFFFFF"}
 , 
 {"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
@@ -19,6 +25,14 @@ SignBoardList = {
 {"odin_tem03", 276, 236, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  180Lv미만 출입금지", "#0x00FFFFFF"}
 , 
 {"abyss_03", 91, 110, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  190Lv미만 출입금지", "#0x00FFFFFF"}
+, 
+{"ba_in01", 310, 38, 0, IT_SIGNBOARD, "item\\wl_frostmisty.bmp", "  표본 환경 - 혹한", "#0x00FFFFFF"}
+, 
+{"ba_in01", 311, 56, 0, IT_SIGNBOARD, "item\\gs_grounddrift.bmp", "  표본 환경 - 화염", "#0x00FFFFFF"}
+, 
+{"ba_in01", 325, 56, 0, IT_SIGNBOARD, "item\\sg_star_bless.bmp", "  표본 환경 - 초원", "#0x00FFFFFF"}
+, 
+{"ba_in01", 339, 56, 0, IT_SIGNBOARD, "item\\rl_banishing_buster.bmp", "  표본 환경 - 죽음", "#0x00FFFFFF"}
 , 
 {"moc_para01", 105, 41, 10, IT_SIGNBOARD, "information\\over_nmtrade.bmp", "  파라마켓", "#0x00FFFFFF"}
 , 

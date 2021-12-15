@@ -34,6 +34,10 @@ echo Switching to System\LuaFiles514\
 luadec.exe ".\System\LuaFiles514\MsgString.lub" > ".\System\LuaFiles514\MsgString.lua"
 luadec.exe ".\System\LuaFiles514\OptionInfo.lub" > ".\System\LuaFiles514\OptionInfo.lua"
 echo -------------------------------
+echo Switching to data\luafiles514\datainfo\
+luadec.exe ".\data\luafiles514\datainfo\jobname_f.lub" > ".\data\decoded\luafiles514\datainfo\jobname_f.lub"
+luadec.exe ".\data\luafiles514\datainfo\petinfo.lub" > ".\data\decoded\luafiles514\datainfo\petinfo.lub"
+echo -------------------------------
 echo Switching to data\luafiles514\lua files\
 luadec.exe ".\data\luafiles514\lua files\accessoryid.lub" > ".\data\decoded\luafiles514\lua files\accessoryid.lub"
 luadec.exe ".\data\luafiles514\lua files\accname.lub" > ".\data\decoded\luafiles514\lua files\accname.lub"
@@ -45,7 +49,7 @@ luadec.exe ".\data\luafiles514\lua files\hotkey_v2.lub" > ".\data\decoded\luafil
 luadec.exe ".\data\luafiles514\lua files\ItemDBNameTbl.lub" > ".\data\decoded\luafiles514\lua files\ItemDBNameTbl.lub"
 luadec.exe ".\data\luafiles514\lua files\msgstring_kr.lub" > ".\data\decoded\luafiles514\lua files\msgstring_kr.lub"
 luadec.exe ".\data\luafiles514\lua files\SignBoardList.lub" > ".\data\decoded\luafiles514\lua files\SignBoardList.lub"
-luadec.exe ".\data\luafiles514\lua files\SignBoardList_F.lub" > ".\data\decoded\luafiles514\lua files\SignBoardList_F.lub"
+luadec.exe ".\data\luafiles514\lua files\signboardlist_f.lub" > ".\data\decoded\luafiles514\lua files\signboardlist_f.lub"
 luadec.exe ".\data\luafiles514\lua files\wndinfo.lub" > ".\data\decoded\luafiles514\lua files\wndinfo.lub"
 echo -------------------------------
 echo data\luafiles514\lua files\admin:
@@ -70,6 +74,7 @@ echo -------------------------------
 echo data\luafiles514\lua files\datainfo:
 luadec.exe ".\data\luafiles514\lua files\datainfo\AccessoryId.lub" > ".\data\decoded\luafiles514\lua files\datainfo\AccessoryId.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\AccName.lub" > ".\data\decoded\luafiles514\lua files\datainfo\AccName.lub"
+luadec.exe ".\data\luafiles514\lua files\datainfo\accname_eng.lub" > ".\data\decoded\luafiles514\lua files\datainfo\accname_eng.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\accname_f.lub" > ".\data\decoded\luafiles514\lua files\datainfo\accname_f.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\addrandomoption_f.lub" > ".\data\decoded\luafiles514\lua files\datainfo\addrandomoption_f.lub"
 luadec.exe ".\data\luafiles514\lua files\datainfo\AddRandomOptionNameTable.lub" > ".\data\decoded\luafiles514\lua files\datainfo\AddRandomOptionNameTable.lub"
@@ -132,6 +137,9 @@ luadec.exe ".\data\luafiles514\lua files\HatEffectInfo\HatEffectInfo.lub" > ".\d
 echo -------------------------------
 echo data\luafiles514\lua files\ItemReform:
 luadec.exe ".\data\luafiles514\lua files\ItemReform\ItemReformSystem.lub" > ".\data\decoded\luafiles514\lua files\ItemReform\ItemReformSystem.lub"
+echo -------------------------------
+echo data\luafiles514\lua files\MapSkyData:
+luadec.exe ".\data\luafiles514\lua files\MapSkyData\MapSkyData.lub" > ".\data\decoded\luafiles514\lua files\MapSkyData\MapSkyData.lub"
 echo -------------------------------
 echo data\luafiles514\lua files\navigation:
 luadec.exe ".\data\luafiles514\lua files\navigation\navi_f_krpri.lub" > ".\data\decoded\luafiles514\lua files\navigation\navi_f_krpri.lub"
@@ -228,26 +236,65 @@ luadec.exe ".\data\luafiles514\lua files\worldviewdata\worldviewdata_list.lub" >
 luadec.exe ".\data\luafiles514\lua files\worldviewdata\worldviewdata_table.lub" > ".\data\decoded\luafiles514\lua files\worldviewdata\worldviewdata_table.lub"
 echo -------------------------------
 echo Switchting to rdata\luafiles514\lua files\
+luadec.exe ".\rdata\luafiles514\lua files\hotkey.lub" > ".\rdata\decoded\luafiles514\lua files\hotkey.lub"
+luadec.exe ".\rdata\luafiles514\lua files\ItemDBNameTbl.lub" > ".\rdata\decoded\luafiles514\lua files\ItemDBNameTbl.lub"
+luadec.exe ".\rdata\luafiles514\lua files\msgstring_kr.lub" > ".\rdata\decoded\luafiles514\lua files\msgstring_kr.lub"
 luadec.exe ".\rdata\luafiles514\lua files\msgstring_kr_s.lub" > ".\rdata\decoded\luafiles514\lua files\msgstring_kr_s.lub"
-luadec.exe ".\rdata\luafiles514\lua files\signboardlist.lub" > ".\rdata\decoded\luafiles514\lua files\signboardlist.lub"
+luadec.exe ".\rdata\luafiles514\lua files\SignBoardList.lub" > ".\rdata\decoded\luafiles514\lua files\SignBoardList.lub"
 echo -------------------------------
-echo rdata\luafiles514\lua files\datainfo:
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\accessoryid.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\accessoryid.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\accname.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\accname.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\jobidentity.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\jobidentity.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\jobname.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\jobname.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\lapineddukddakbox.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\lapineddukddakbox.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\lapineupgradebox.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\lapineupgradebox.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\npcidentity.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\npcidentity.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\petinfo.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\petinfo.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\questinfo_f.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\questinfo_f.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\shadowtable.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\shadowtable.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\spriterobeid.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\spriterobeid.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\spriterobename.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\spriterobename.lub"
-luadec.exe ".\rdata\luafiles514\lua files\datainfo\tb_layer_priority.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\tb_layer_priority.lub"
+echo rdata\luafiles514\lua files\Agit:
+luadec.exe ".\rdata\luafiles514\lua files\Agit\AgitConfig.lub" > ".\rdata\decoded\luafiles514\lua files\Agit\AgitConfig.lub"
 echo -------------------------------
-echo rdata\luafiles514\lua files\hateffectinfo:
-luadec.exe ".\rdata\luafiles514\lua files\hateffectinfo\hateffectinfo.lub" > ".\rdata\decoded\luafiles514\lua files\hateffectinfo\hateffectinfo.lub"
+echo rdata\luafiles514\lua files\Datainfo:
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\AccessoryId.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\AccessoryId.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\AccName.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\AccName.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\AddRandomOption_F.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\AddRandomOption_F.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\AddRandomOptionNameTable.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\AddRandomOptionNameTable.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\DrawItemOnAura.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\DrawItemOnAura.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\EnumVar.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\EnumVar.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\JobIdentity.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\JobIdentity.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\jobName.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\jobName.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\jobName_F.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\jobName_F.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\LapineDdukDDakBox.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\LapineDdukDDakBox.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\LapineUpgradeBox.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\LapineUpgradeBox.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\NPCIdentity.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\NPCIdentity.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\NpcLocationRadius.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\NpcLocationRadius.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\petInfo.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\petInfo.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\QuestInfo_f.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\QuestInfo_f.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\ShadowTable.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\ShadowTable.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\SpriteRobeId.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\SpriteRobeId.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\SpriteRobeName.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\SpriteRobeName.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\tb_cashshop_banner.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\tb_cashshop_banner.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\tb_checkAttendance_banner.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\tb_checkAttendance_banner.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\TB_Layer_Priority.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\TB_Layer_Priority.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\TitleTable.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\TitleTable.lub"
+luadec.exe ".\rdata\luafiles514\lua files\datainfo\WeaponTable.lub" > ".\rdata\decoded\luafiles514\lua files\datainfo\WeaponTable.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\DebugUI:
+luadec.exe ".\rdata\luafiles514\lua files\DebugUI\_DebugWndInfo.lub" > ".\rdata\decoded\luafiles514\lua files\DebugUI\_DebugWndInfo.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\DressRoom:
+luadec.exe ".\rdata\luafiles514\lua files\DressRoom\Dress_f.lub" > ".\rdata\decoded\luafiles514\lua files\DressRoom\Dress_f.lub"
+luadec.exe ".\rdata\luafiles514\lua files\DressRoom\jobDressList.lub" > ".\rdata\decoded\luafiles514\lua files\DressRoom\jobDressList.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\effecttool:
+luadec.exe ".\rdata\luafiles514\lua files\effecttool\effectfunc.lub" > ".\rdata\decoded\luafiles514\lua files\effecttool\effectfunc.lub"
+luadec.exe ".\rdata\luafiles514\lua files\effecttool\effectmsgid.lub" > ".\rdata\decoded\luafiles514\lua files\effecttool\effectmsgid.lub"
+luadec.exe ".\rdata\luafiles514\lua files\effecttool\EffectToolUtil.lub" > ".\rdata\decoded\luafiles514\lua files\effecttool\EffectToolUtil.lub"
+luadec.exe ".\rdata\luafiles514\lua files\effecttool\ForceRenderEffect.lub" > ".\rdata\decoded\luafiles514\lua files\effecttool\ForceRenderEffect.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\Enchant:
+luadec.exe ".\rdata\luafiles514\lua files\Enchant\EnchantList.lub" > ".\rdata\decoded\luafiles514\lua files\Enchant\EnchantList.lub"
+luadec.exe ".\rdata\luafiles514\lua files\Enchant\EnchantList_f.lub" > ".\rdata\decoded\luafiles514\lua files\Enchant\EnchantList_f.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\HatEffectInfo:
+luadec.exe ".\rdata\luafiles514\lua files\HatEffectInfo\HatEffectInfo.lub" > ".\rdata\decoded\luafiles514\lua files\HatEffectInfo\HatEffectInfo.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\ItemReform:
+luadec.exe ".\rdata\luafiles514\lua files\ItemReform\ItemReformSystem.lub" > ".\rdata\decoded\luafiles514\lua files\ItemReform\ItemReformSystem.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\MapSkyData:
+luadec.exe ".\rdata\luafiles514\lua files\MapSkyData\MapSkyData.lub" > ".\rdata\decoded\luafiles514\lua files\MapSkyData\MapSkyData.lub"
 echo -------------------------------
 echo rdata\luafiles514\lua files\navigation:
 luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_f_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_f_krsak.lub"
@@ -260,33 +307,45 @@ luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_npcdistance_krsak.lub"
 luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_picknpc_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_picknpc_krsak.lub"
 luadec.exe ".\rdata\luafiles514\lua files\navigation\navi_scroll_krsak.lub" > ".\rdata\decoded\luafiles514\lua files\navigation\navi_scroll_krsak.lub"
 echo -------------------------------
-echo rdata\luafiles514\lua files\offsetitempos:
-luadec.exe ".\rdata\luafiles514\lua files\offsetitempos\offsetitempos.lub" > ".\rdata\decoded\luafiles514\lua files\offsetitempos\offsetitempos.lub"
+echo rdata\luafiles514\lua files\OffsetItemPos:
+luadec.exe ".\rdata\luafiles514\lua files\OffsetItemPos\OffsetItemPos.lub" > ".\rdata\decoded\luafiles514\lua files\OffsetItemPos\OffsetItemPos.lub"
 echo -------------------------------
 echo rdata\luafiles514\lua files\service_korea:
-luadec.exe ".\rdata\luafiles514\lua files\service_korea\externalsettings_kr_sak.lub" > ".\rdata\decoded\luafiles514\lua files\service_korea\externalsettings_kr_sak.lub"
-luadec.exe ".\rdata\luafiles514\lua files\service_korea\externalsettings_kr_sak_qm.lub" > ".\rdata\decoded\luafiles514\lua files\service_korea\externalsettings_kr_sak_qm.lub"
+luadec.exe ".\rdata\luafiles514\lua files\service_korea\ExternalSettings_kr.lub" > ".\rdata\decoded\luafiles514\lua files\service_korea\ExternalSettings_kr.lub"
+luadec.exe ".\rdata\luafiles514\lua files\service_korea\ExternalSettings_kr_sak.lub" > ".\rdata\decoded\luafiles514\lua files\service_korea\ExternalSettings_kr_sak.lub"
+luadec.exe ".\rdata\luafiles514\lua files\service_korea\ExternalSettings_kr_sak_qm.lub" > ".\rdata\decoded\luafiles514\lua files\service_korea\ExternalSettings_kr_sak_qm.lub"
 echo -------------------------------
 echo rdata\luafiles514\lua files\skillinfoz:
-luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\jobinheritlist.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\jobinheritlist.lub"
-luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\skilldescript.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\skilldescript.lub"
-luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\skillid.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\skillid.lub"
-luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\skillinfo_f.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\skillinfo_f.lub"
-luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\skillinfolist.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\skillinfolist.lub"
-luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\skilltreeview.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\skilltreeview.lub"
+luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\JobInheritList.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\JobInheritList.lub"
+luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\SkillDescript.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\SkillDescript.lub"
+luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\SkillID.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\SkillID.lub"
+luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\SkillInfoList.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\SkillInfoList.lub"
+luadec.exe ".\rdata\luafiles514\lua files\skillinfoz\SkillTreeView.lub" > ".\rdata\decoded\luafiles514\lua files\skillinfoz\SkillTreeView.lub"
 echo -------------------------------
 echo rdata\luafiles514\lua files\spreditinfo:
 luadec.exe ".\rdata\luafiles514\lua files\spreditinfo\_new_2dlayerdir_f.lub" > ".\rdata\decoded\luafiles514\lua files\spreditinfo\_new_2dlayerdir_f.lub"
 luadec.exe ".\rdata\luafiles514\lua files\spreditinfo\_new_biglayerdir_female.lub" > ".\rdata\decoded\luafiles514\lua files\spreditinfo\_new_biglayerdir_female.lub"
 luadec.exe ".\rdata\luafiles514\lua files\spreditinfo\_new_biglayerdir_male.lub" > ".\rdata\decoded\luafiles514\lua files\spreditinfo\_new_biglayerdir_male.lub"
+luadec.exe ".\rdata\luafiles514\lua files\spreditinfo\_new_smalllayerdir_female.lub" > ".\rdata\decoded\luafiles514\lua files\spreditinfo\_new_smalllayerdir_female.lub"
+luadec.exe ".\rdata\luafiles514\lua files\spreditinfo\_new_smalllayerdir_male.lub" > ".\rdata\decoded\luafiles514\lua files\spreditinfo\_new_smalllayerdir_male.lub"
 echo -------------------------------
-echo rdata\luafiles514\lua files\stateicon:
-luadec.exe ".\rdata\luafiles514\lua files\stateicon\efstids.lub" > ".\rdata\decoded\luafiles514\lua files\stateicon\efstids.lub"
-luadec.exe ".\rdata\luafiles514\lua files\stateicon\stateiconimginfo.lub" > ".\rdata\decoded\luafiles514\lua files\stateicon\stateiconimginfo.lub"
-luadec.exe ".\rdata\luafiles514\lua files\stateicon\stateiconinfo.lub" > ".\rdata\decoded\luafiles514\lua files\stateicon\stateiconinfo.lub"
+echo rdata\luafiles514\lua files\StateIcon:
+luadec.exe ".\rdata\luafiles514\lua files\StateIcon\EFSTIDs.lub" > ".\rdata\decoded\luafiles514\lua files\StateIcon\EFSTIDs.lub"
+luadec.exe ".\rdata\luafiles514\lua files\StateIcon\StateIconImgInfo.lub" > ".\rdata\decoded\luafiles514\lua files\StateIcon\StateIconImgInfo.lub"
+luadec.exe ".\rdata\luafiles514\lua files\StateIcon\stateiconinfo.lub" > ".\rdata\decoded\luafiles514\lua files\StateIcon\stateiconinfo.lub"
 echo -------------------------------
-echo rdata\luafiles514\lua files\transparentitem:
-luadec.exe ".\rdata\luafiles514\lua files\transparentitem\transparentitem.lub" > ".\rdata\decoded\luafiles514\lua files\transparentitem\transparentitem.lub"
+echo rdata\luafiles514\lua files\StylingShop:
+luadec.exe ".\rdata\luafiles514\lua files\StylingShop\StylingShopInfo.lub" > ".\rdata\decoded\luafiles514\lua files\StylingShop\StylingShopInfo.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\transparentItem:
+luadec.exe ".\rdata\luafiles514\lua files\transparentItem\transparentItem.lub" > ".\rdata\decoded\luafiles514\lua files\transparentItem\transparentItem.lub"
+luadec.exe ".\rdata\luafiles514\lua files\transparentItem\transparentItem_f.lub" > ".\rdata\decoded\luafiles514\lua files\transparentItem\transparentItem_f.lub"
+echo -------------------------------
+echo rdata\luafiles514\lua files\worldviewdata:
+luadec.exe ".\rdata\luafiles514\lua files\worldviewdata\worldviewdata_info.lub" > ".\rdata\decoded\luafiles514\lua files\worldviewdata\worldviewdata_info.lub"
+luadec.exe ".\rdata\luafiles514\lua files\worldviewdata\worldviewdata_Language.lub" > ".\rdata\decoded\luafiles514\lua files\worldviewdata\worldviewdata_Language.lub"
+luadec.exe ".\rdata\luafiles514\lua files\worldviewdata\worldviewdata_list.lub" > ".\rdata\decoded\luafiles514\lua files\worldviewdata\worldviewdata_list.lub"
+luadec.exe ".\rdata\luafiles514\lua files\worldviewdata\worldviewdata_table.lub" > ".\rdata\decoded\luafiles514\lua files\worldviewdata\worldviewdata_table.lub"
 echo -------------------------------
 echo Decoding completed.
 pause

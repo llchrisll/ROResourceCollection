@@ -6,3 +6,6 @@ Pre-packed with sprite and texture files from each server can be found here:
  * [iRO GRF](https://www.mediafire.com/file/cnnqqs6zcgbg3d1/iro-data.grf/file)
  * [phRO GRF](https://www.mediafire.com/file/dgdubc3ho53zwvt/phro-data.grf/file)
  * [jRO GRF](https://www.mediafire.com/file/ctp77vy0u7iwk1a/jro-data.grf/file)
+
+If you don't wanna download each of them above, here is a merged one:
+ * [Merged GRF](https://www.mediafire.com/file/58imyxg8r7u0jyx/officials-data.grf/file)

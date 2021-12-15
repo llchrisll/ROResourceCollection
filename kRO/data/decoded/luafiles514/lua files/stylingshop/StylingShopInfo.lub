@@ -165,6 +165,14 @@
 ;
 (StylingShop.AddDoramBodyPalette)(3, {itid = 6046, boxitid = 16854})
 ;
+(StylingShop.AddDoramBodyPalette)(4, {itid = 6046, boxitid = 16854})
+;
+(StylingShop.AddDoramBodyPalette)(5, {itid = 6046, boxitid = 16854})
+;
+(StylingShop.AddDoramBodyPalette)(6, {itid = 6046, boxitid = 16854})
+;
+(StylingShop.AddDoramBodyPalette)(7, {itid = 6046, boxitid = 16854})
+;
 (StylingShop.AddSecondCostume)(0, {itid = 6959, boxitid = 6959})
 ;
 (StylingShop.AddSecondCostume)(1, {itid = 6959, boxitid = 6959})
