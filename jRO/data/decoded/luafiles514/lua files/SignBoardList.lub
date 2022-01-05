@@ -1777,29 +1777,5 @@ SignBoardList = {
 {"ev_summer38", 167, 51, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ダンシング！", "255,255,255"}
 , 
 {"ev_summer01", 286, 268, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
-, 
-{"prontera", 98, 62, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エンドレスタワーアナザー ", "255,255,255"}
-, 
-{"lasagna", 303, 224, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エンドレスタワーアナザー ", "255,255,255"}
-, 
-{"e_tower", 83, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  エンドレスタワーアナザー ", "255,255,255"}
-, 
-{"ad_island", 79, 87, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント会場案内員 ", "255,255,255"}
-, 
-{"ad_island", 267, 86, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  タワーへ ", "255,255,255"}
-, 
-{"ad_island", 92, 100, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス ", "255,255,255"}
-, 
-{"ad_island", 89, 120, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  コンブチャお渡し ", "255,255,255"}
-, 
-{"ad_island", 83, 116, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
-, 
-{"ad_island", 93, 75, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  プロンテラへ ", "255,255,255"}
-, 
-{"ad_island", 126, 87, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  タワーへ ", "255,255,255"}
-, 
-{"prontera", 105, 68, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  モンスター大討伐", "255,255,255"}
-, 
-{"prontera", 116, 66, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  人気投票くじ roro", "255,255,255"}
 }
 

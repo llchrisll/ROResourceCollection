@@ -752,6 +752,114 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_Fluffy_Lovely_Fox] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_BU] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_RD] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_YL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_GN] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_BL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_WH] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_LPP] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PP] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BD] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_SV] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_BU] = {Default = 170, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_RD] = {Default = 170, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_YL] = {Default = 170, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_GN] = {Default = 170, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_BL] = {Default = 170, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_WH] = {Default = 170, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_OM] = {Default = 170, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_PP] = {Default = 170, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bun_Twin_Tail_BU] = {Default = 160, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bun_Twin_Tail_RD] = {Default = 160, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bun_Twin_Tail_YL] = {Default = 160, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bun_Twin_Tail_GN] = {Default = 160, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bun_Twin_Tail_BL] = {Default = 160, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bun_Twin_Tail_WH] = {Default = 160, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bun_Twin_Tail_OM] = {Default = 160, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bun_Twin_Tail_PP] = {Default = 160, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cons_Of_Darkness] = {Default = 480, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

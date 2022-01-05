@@ -5728,10 +5728,6 @@ MonsterEff = {EFFECT.EF_NONE}
 MonsterEff = {EFFECT.EF_MAP_MAGICZONE2, EFFECT.EF_SELFSCROLL}
 }
 , 
-[10236] = {MonsterSize = 1.5, 
-MonsterEff = {EFFECT.EF_NONE}
-}
-, 
 [662] = {MonsterSize = 1.5, 
 MonsterEff = {EFFECT.EF_NONE}
 }
@@ -7074,6 +7070,22 @@ MonsterEff = {EFFECT.EF_RK_DRAGONBREATH_WATER}
 , 
 [21139] = {MonsterSize = 0.7, 
 MonsterEff = {EFFECT.EF_RK_DRAGONBREATH_WATER}
+}
+, 
+[2047] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_VENOMFOG}
+}
+, 
+[2048] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_VENOMFOG}
+}
+, 
+[2049] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_VENOMFOG}
+}
+, 
+[2050] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_VENOMFOG}
 }
 }
 main = function()

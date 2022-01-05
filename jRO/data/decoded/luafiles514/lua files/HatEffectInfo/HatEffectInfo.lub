@@ -313,7 +313,7 @@ hatEffectTable = {
 , 
 [HatEFID.HAT_EF_C_Phigasia_Scarf_EXE] = {resourceFileName = "efst_C_Phigasia_Scarf_EXE\\singa.str", hatEffectPos = 0, hatEffectPosX = 0, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 , 
-[HatEFID.HAT_EF_C_Kyel_hyre_Ulti_TW] = {resourceFileName = "EFST_Kyel_hyre_Ulti_TW\\tentaKaiser.str", hatEffectPos = 0, hatEffectPosX = 0, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
+[HatEFID.HAT_EF_C_Kyel_hyre_Ulti_TW] = {resourceFileName = "EFST_Kyel_hyre_Ulti_TW\\tentaKaiser.str", hatEffectPos = -14, hatEffectPosX = 0, isRenderBeforeCharacter = true, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 , 
 [HatEFID.HAT_EF_C_Master] = {resourceFileName = "efst_C_Master\\13123123.str", hatEffectPos = -7, hatEffectPosX = 0, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 , 

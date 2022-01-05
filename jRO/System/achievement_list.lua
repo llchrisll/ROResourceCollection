@@ -1267,6 +1267,16 @@ resource = {
 , 
 reward = {title = 2116}
 , score = 1}
+, 
+[500127] = {UI_Type = 1, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「除夜の餅つき」", 
+content = {summary = "「ちびモチリン」を討伐する", details = "「ちびモチリン」を108体討伐する"}
+, 
+resource = {
+[1] = {text = "「ちびモチリン」を討伐する", count = 108}
+}
+, 
+reward = {title = 2124}
+, score = 1}
 }
 main = function()
   -- function num : 0_0
