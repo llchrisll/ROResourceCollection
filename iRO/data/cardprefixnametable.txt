@@ -793,3 +793,22 @@
 27331#Of Grantz Heine#
 27332#Of Skia#
 27333#Of Shiny Nerius#
+//Abyss and Nogrod 3rd floor
+27346#Orb of Howling#
+27347#Crack#
+27348#Nowhere#
+27349#Orb of Flame Barrier#
+27350#Orb of Dragon Spirit#
+27351#Orb of Dragon Heart#
+27352#Slumber#
+27353#Orb of Demonic Barrier#
+27354#Orb of Deprave#
+27355#Deapraved#
+27356#Orb of Frozen Guard#
+27357#Orb of Dirty Glove#
+27358#Breaking#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Heavy Blade#
+27362#Orb of Queen Spider#
+27363#Doomed#

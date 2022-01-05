@@ -5253,7 +5253,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"ATK + 3%"}
+{"ATK + 10%"}
 }
 }
 -- DECOMPILER ERROR at PC10837: Confused about usage of register: R0 in 'UnsetPending'
@@ -5264,7 +5264,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"MATK + 3%"}
+{"MATK + 10%"}
 }
 }
 -- DECOMPILER ERROR at PC10861: Confused about usage of register: R0 in 'UnsetPending'
@@ -5276,6 +5276,54 @@ descript = {
 {"%s", COLOR_TIME}
 , 
 {"After Skill Delay - 10%"}
+}
+}
+-- DECOMPILER ERROR at PC10888: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Counter Stance", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Counter Slash"}
+, 
+{"Available"}
+}
+}
+-- DECOMPILER ERROR at PC10915: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ANCILLA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"ANCILLA", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase Healing by 15%"}
+, 
+{"Increase SP recovery by 30%."}
+}
+}
+-- DECOMPILER ERROR at PC10939: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"LAUDAAGNUS", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase max HP"}
+}
+}
+-- DECOMPILER ERROR at PC10963: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LAUDARAMUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"LAUDARAMUS", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase critical damage."}
 }
 }
 

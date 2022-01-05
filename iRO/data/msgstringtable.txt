@@ -2866,7 +2866,7 @@ Sort out concurrent guild member#
 Loyalty : %s#
 Not confirmed#
 Party Name#
-Party Leader#
+PT lead#
 Exceed time limit. Shutting down client.#
 Invalid input. Client Shutting down.#
 Correct. Bonus buff will be rewarded.#
@@ -3236,8 +3236,8 @@ Got Job EXP %lld#
 #
 #
 #
-#
-#
+Open on startup#
+Tipbox#
 #
 Try Again#
 [Try Again] is unavailable. Please choose refine ingredient again.#
@@ -3251,7 +3251,7 @@ Your item is destroyed.#
 #
 #
 #
-#
+Search#
 #
 #
 #
@@ -3354,29 +3354,29 @@ There is no attack target for Homun. Please set target with Alt + Right click.#
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Adventurer Agency Registration#
+Register for Adventurer Agency#
+Stop Recruiting#
+Memo#
+Quest#
+Field#
+Dungeon#
+MD#
+Eden Quest#
+Etc#
+Search#
+Reset#
+Join#
+Purpose#
+You may be punished if you use it for purposes that violate operating rules.#
+Post#
+Contains words that are not available#
+Join#
+1:1 Chat#
+Stop Recruiting#
+Edit#
+All#
+[%s] would like to join the party.#
 #
 #
 #
@@ -3398,6 +3398,27 @@ Confirm#
 #
 #
 #
+Quest#
+Contents#
+Monster#
+Reward#
+EXP#
+JEXP#
+Item#
+Progress/Pending#
+Move to Bottom#
+Display in Easy Quest Window#
+#
+#
+#
+#
+#
+Leader#
+You are not at a level to join a party.#
+Failed to post on Adventurer Agency.#
+Posted on Adventurer Agency.#
+Enter your search#
+Tank#
 #
 #
 #
@@ -3419,33 +3440,12 @@ Confirm#
 #
 #
 #
+This party leader is unable to receive requests.#
+This party could not be found.#
+DPS#
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+¡ã#
+¡å#
 #
 #
 #
@@ -3457,7 +3457,7 @@ Confirm#
 %d Day Login Reward#
 #
 #
-#
+Party Recuriting has been stopped.#
 #
 #
 #
@@ -3480,43 +3480,43 @@ There is no event period now.#
 #
 #
 #
-#
-#
+Can only be used by a party leader.#
+Partner's SP is insufficient or skill cannot be used now.#
 Notice about Forced Removal of Part time vending#
 Hello, Adventurer.\r\nWe closed your part time vending because there is a policy violation matter.\r\n If you need futher information, please send us 1:1 message.\r\nThanks.#
 #
 #
 #
-#
-#
-#
-#
+Accept#
+Deny#
+Healer#
+This character could not be found.#
 Forced Removal#
+No party leader found for this party.#
+You cannot join this party due to low JobLV.#
+Currently the requester is in the area where can't join the party.#
+Party participation has been exceeded.#
+The party leader of the %s party has approved joining the party.#
+The party leader of the %s party refused to join the party.#
+%s is already joining the party.#
+You have accepted party sign up from %s.#
+You have refused party sign up from %s.#
+Application from %s was automatically rejected because you were unable to receive a request to join the party.#
+Adventurer Agency List#
+Sign up for party#
+Only the party leader can recruit the party member on the Adventurer Agency.#
+Unable to abort party recruitment.#
+Support#
 #
 #
 #
 #
 #
+Adventurer Agency#
 #
+The maximum level must be higher than the minimum level.#
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+This player's party join request has been blocked(Valid until client close)#
 #
 #
 #
@@ -3556,8 +3556,8 @@ Failed to feed homun. You are not possible to feed right now.#
 #
 #
 #
-#
-#
+Death#
+PvP#
 #
 #
 #
@@ -3699,3 +3699,242 @@ Do you want to receive all mail in the mailbox?#
 #
 #
 Message#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+Open on startup#

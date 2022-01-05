@@ -25615,3 +25615,92 @@ Catch Jakk the Giant#
 11606#Jakk the Giant Pumpkin#SG_FEEL#QUE_NOIMAGE#
 Visit after 04:00 to go to Halloween Festival.#
 #
+// 19년 12월 눈꽃 축제
+
+17382#Snow Flower Bouquet Making#SG_FEEL#QUE_NOIMAGE#
+You want to make a Snow Flower Bouquet? Then bring 10 <ITEM>Magical Snow Flowers<INFO>25425</INFO></ITEM> and come back <NAVI>[here]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>.#
+Magical Snow Flower X 10#
+
+17383#Snow Flower Bouquet Making#SG_FEEL#QUE_NOIMAGE#
+Going forward, <NAVI>[Illusion Snow Magician]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> will be in charge of the Snow Bouquet Making event. If you’re interested, pay a visit.#
+To Illusion Snow Magician#
+
+17384#Heartwarming Winter Days#SG_FEEL#QUE_NOIMAGE#
+White snow to warm regions and warm cotton-padded coats to cold regions! Want to help out making heartwarming winter days? Then go to <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> and Woolsie.#
+To Cotti#
+
+17385#Exchange Festa Cards#SG_FEEL#QUE_NOIMAGE#
+You found a special card from your Gift Box? Then take them to <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI> and Bling. You can get special gifts from them.#
+To Twinkle#
+
+17386#Mingle with participants#SG_FEEL#QUE_NOIMAGE#
+How about enjoying Snow Festa with other <NAVI>[participants]<INFO>aldebaran,162,127,0,101,0</INFO></NAVI>?#
+To the Clock Tower#
+
+17387#Snow Flower Bouquet Making#SG_FEEL#QUE_NOIMAGE#
+To make a Snow Bouquet, you need 10 <ITEM>Magical Snow Flowers<INFO>25425</INFO></ITEM>. Don't forget to bring one <ITEM>Carrot<INFO>515</INFO></ITEM> because snowmen want to have a nose. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>#
+Snow Flower x 10, Carrot x 1#
+
+17388#Stand by: The chill remains#SG_FEEL#QUE_NOIMAGE#
+You still have the effect of Magical Snow Flower. Please come back after dawn. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>#
+Reset at 04:00#
+
+17389#Heartwarming Winter Days#SG_FEEL#QUE_NOIMAGE#
+Snow for children who don’t get to see snow! Warm cotton-padded coat for children in cold regions! <NAVI>[We]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>take donations of Warm Cotton x 10!#
+Warm Cotton x 10#
+
+17390#Stand by: Packing cotton#SG_FEEL#QUE_NOIMAGE#
+We’re packing cotton. I think we’ll be done by dawn. Please come back after dawn! - <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>#
+Reset at 04:00#
+
+17391#Exchange Festa Cards#SG_FEEL#QUE_NOIMAGE#
+Your lucky word is DECEMBER!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Collect D, E, C, E, M, B, E, and R cards and bring them to me. That will be eight cards. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Collect DECEMBER cards#
+
+17392#Exchange Festa Cards#SG_FEEL#QUE_NOIMAGE#
+Your lucky word is SNOW!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Bring S, N, O, and W cards to me. That will be four cards. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Collect SNOW Cards#
+
+17393#Exchange Festa Cards#SG_FEEL#QUE_NOIMAGE#
+Your lucky word is FESTIVAL!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Bring F, E, S, T, I, V, A, and L cards to me. That will be eight cards. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Collect FESTIVAL Cards#
+
+17394#Exchange Festa Cards#SG_FEEL#QUE_NOIMAGE#
+Your lucky word is WHITE!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Collect W, H, I, T, and E cards and bring them to me. There will be five of them. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Collect WHITE Cards#
+
+17395#Stand by: 카드 교환은 1일 1회#SG_FEEL#QUE_NOIMAGE#
+You can only exchange letter cards once a day. Got it? So come back after dawn! - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>#
+Reset at 04:00#
+
+17396#O time, halt your hasty feet.#SG_FEEL#QUE_NOIMAGE#
+Pacify <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> who is crying and listen to his story.#
+Talk to Sparkle#
+
+17397#O time, halt your hasty feet.#SG_FEEL#QUE_NOIMAGE#
+Bring me Sweet Potato x 3, Milk x 3, and Blue Card L, O, V, and E one each! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>#
+Winter Snack of Love#
+
+17398#O time, halt your hasty feet.#SG_FEEL#QUE_NOIMAGE#
+Right! Come on, let’s bring these lovely snacks to the <NAVI>[Villain]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>!#
+Winter Snacks for Villains 1#
+
+17399#O time, halt your hasty feet.#SG_FEEL#QUE_NOIMAGE#
+Come on, let’s bring these snacks for the next <NAVI>[Villain]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>!#
+Winter Snacks for Villains 2#
+
+17400#O time, halt your hasty feet.#SG_FEEL#QUE_NOIMAGE#
+Let’s go to the last <NAVI>[Villain]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>!#
+Winter Snacks for Villains 3#
+
+17401#O time, halt your hasty feet.#SG_FEEL#QUE_NOIMAGE#
+Now let’s go back to the Clock Tower and stop the <NAVI>[Villain Boss]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> from executing their plan!#
+To the Clock Tower#
+
+17402#Need attention#SG_FEEL#QUE_NOIMAGE#
+I knew that even villains would love winter snacks. Get Sweet Potato x 3 and Snow Festa Card Pack x 3 by defeating Your Gift Box x 5! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>#
+Gifts for the Villains#
+
+17403#Stand by: Need Attention#SG_FEEL#QUE_NOIMAGE#
+I knew that the winter snacks and the affectionate cards would work. Now take a good rest and help us again after dawn. - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>#
+Reset at 04:00#

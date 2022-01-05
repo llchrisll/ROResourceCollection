@@ -248,6 +248,8 @@ Navi_Map = {
 , 
 {"evt_zombie", "Run_From_Zombies", 5001, 300, 360}
 , 
+{"gef_d01_i", "250 Page", 5001, 300, 300}
+, 
 {"gef_dun00", "Geffen Dungeon", 5001, 200, 200}
 , 
 {"gef_dun01", "Geffen Dungeon", 5001, 300, 300}
@@ -301,6 +303,8 @@ Navi_Map = {
 {"geffen_in", "Inside Geffen", 5003, 200, 200}
 , 
 {"gl_cas01", "Glast Heim 1f", 5001, 400, 400}
+, 
+{"gl_cas01_", "Glast Heim Abyss", 5001, 400, 400}
 , 
 {"gl_cas02", "Glast Heim 2f", 5001, 200, 200}
 , 
@@ -422,7 +426,7 @@ Navi_Map = {
 , 
 {"iz_ac01", "Academy1st floor", 5003, 220, 200}
 , 
-{"iz_ac02", "Academy2nd floor", 5003, 200, 240}
+{"iz_ac02", "Academy2nd floor", 5003, 240, 240}
 , 
 {"iz_dun00", "Undersea Tunnel", 5001, 400, 400}
 , 
@@ -446,7 +450,7 @@ Navi_Map = {
 , 
 {"iz_dun05", "Undersea Tunnel", 5001, 280, 280}
 , 
-{"iz_int", "Intro", 5003, 200, 200}
+{"iz_int", "Intro", 5003, 80, 80}
 , 
 {"iz_ng01", "Ninja Tutorial map", 5001, 160, 100}
 , 
@@ -593,6 +597,8 @@ Navi_Map = {
 {"mag_dun01", "Nogg Road", 5001, 260, 260}
 , 
 {"mag_dun02", "Nogg Road", 5001, 260, 260}
+, 
+{"mag_dun03", "Nogg Road", 5001, 260, 260}
 , 
 {"mal_dun01", "Starry Coral Area", 5001, 260, 260}
 , 
@@ -796,6 +802,8 @@ Navi_Map = {
 , 
 {"pay_arche", "Archer Village", 5001, 200, 200}
 , 
+{"pay_d03_i", "Nightmare_of_the_Moonlight_Flower", 5001, 300, 300}
+, 
 {"pay_dun00", "Payon Cave", 5001, 200, 200}
 , 
 {"pay_dun01", "Payon Cave", 5001, 300, 300}
@@ -914,6 +922,8 @@ Navi_Map = {
 , 
 {"prt_sewb4", "Prontera Culvert", 5001, 200, 200}
 , 
+{"pub_cat", "Cat on a Bullet", 5001, 200, 160}
+, 
 {"que_bingo", "Bingo Game Room", 5001, 100, 200}
 , 
 {"que_dan02", "Inside of the Abandoned House in Juno", 5001, 120, 60}
@@ -988,6 +998,8 @@ Navi_Map = {
 , 
 {"rebel_in", "Clana Nemieri", 5003, 220, 100}
 , 
+{"rgsr_in", "Regenschirm Laboratory", 5003, 260, 260}
+, 
 {"rockmi1", "Rock Ridge Mine", 5001, 400, 400}
 , 
 {"rockmi2", "Rock Ridge Mine", 5001, 140, 140}
@@ -1001,6 +1013,16 @@ Navi_Map = {
 {"schg_dun01", "Subterranean Guild Dungeon", 5001, 400, 400}
 , 
 {"slabw01", "Werner Laboratory", 5001, 300, 180}
+, 
+{"sp_cor", "Special Security Area, Cor", 5001, 300, 320}
+, 
+{"sp_os", "Special Security Area, Os", 5001, 400, 400}
+, 
+{"sp_rudus", "Laboratory Waste Disposal Plant Rudus Floor 1", 5001, 400, 400}
+, 
+{"sp_rudus2", "Laboratory Waste Disposal Plant Rudus Floor 2", 5001, 400, 400}
+, 
+{"sp_rudus3", "Laboratory Waste Disposal Plant Rudus Floor 3", 5001, 400, 400}
 , 
 {"spl_fild01", "Splendide Field", 5001, 400, 400}
 , 
@@ -1179,8 +1201,6 @@ Navi_Map = {
 {"yuno_in04", "Republic Library", 5003, 200, 140}
 , 
 {"yuno_pre", "Schwaltzvalt Government Buildings", 5001, 140, 140}
-, 
-{"1@sara", "Sara\'s Memory", 5001, 300, 360}
 , 
 {"NULL", "", 0, 0, 0}
 }

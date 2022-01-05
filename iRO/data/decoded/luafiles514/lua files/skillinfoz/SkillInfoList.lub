@@ -14,6 +14,30 @@ _NeedSkillList = {
 }
 }
 , 
+[SKID.AB_VITUPERATUM] = {"AB_VITUPERATUM"; SkillName = "Vituperatum", MaxLv = 5, 
+SpAmount = {144, 120, 106, 92, 78}
+, bSeperateLv = false, 
+AttackRange = {3, 3, 3, 5, 5}
+, 
+_NeedSkillList = {
+{SKID.AB_EXPIATIO, 1}
+, 
+{SKID.AB_EPICLESIS, 1}
+}
+}
+, 
+[SKID.AB_CONVENIO] = {"AB_CONVENIO"; SkillName = "Convenio", MaxLv = 1, 
+SpAmount = {70}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.AB_ANCILLA, 1}
+, 
+{SKID.AB_ORATIO, 5}
+}
+}
+, 
 [SKID.AL_RUWACH] = {"AL_RUWACH"; SkillName = "Ruwach", MaxLv = 1, 
 SpAmount = {10}
 , bSeperateLv = false, 
@@ -1270,10 +1294,10 @@ SpAmount = {2, 2, 2, 2, 2}
 AttackRange = {1, 1, 1, 1, 1}
 }
 , 
-[SKID.RK_ENCHANTBLADE] = {"RK_ENCHANTBLADE"; SkillName = "Enchant Blade", MaxLv = 5, 
-SpAmount = {40, 45, 50, 55, 60}
+[SKID.RK_ENCHANTBLADE] = {"RK_ENCHANTBLADE"; SkillName = "Enchant Blade", MaxLv = 10, 
+SpAmount = {34, 38, 42, 46, 50, 54, 58, 62, 66, 70}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.RK_RUNEMASTERY, 2}
@@ -1402,10 +1426,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.GC_COUNTERSLASH] = {"GC_COUNTERSLASH"; SkillName = "Counter Slash", MaxLv = 5, 
-SpAmount = {5, 8, 11, 14, 17}
+[SKID.GC_COUNTERSLASH] = {"GC_COUNTERSLASH"; SkillName = "Counter Slash", MaxLv = 10, 
+SpAmount = {5, 8, 11, 14, 17, 19, 21, 23, 25, 27}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.GC_WEAPONBLOCKING, 1}
@@ -3558,10 +3582,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.NC_POWERSWING] = {"NC_POWERSWING"; SkillName = "Power Swing", MaxLv = 5, 
-SpAmount = {10, 12, 14, 16, 18}
+[SKID.NC_POWERSWING] = {"NC_POWERSWING"; SkillName = "Power Swing", MaxLv = 10, 
+SpAmount = {20, 22, 24, 26, 28, 30, 32, 34, 36, 38}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.NC_AXEBOOMERANG, 3}
@@ -4612,10 +4636,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.RK_SONICWAVE] = {"RK_SONICWAVE"; SkillName = "Sonic Wave", MaxLv = 5, 
-SpAmount = {30, 35, 40, 45, 50}
+[SKID.RK_SONICWAVE] = {"RK_SONICWAVE"; SkillName = "Sonic Wave", MaxLv = 10, 
+SpAmount = {33, 36, 39, 42, 45, 48, 51, 54, 57, 60}
 , bSeperateLv = true, 
-AttackRange = {7, 8, 9, 10, 11}
+AttackRange = {7, 7, 8, 8, 9, 9, 10, 10, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.RK_ENCHANTBLADE, 3}
@@ -4776,10 +4800,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.AB_JUDEX] = {"AB_JUDEX"; SkillName = "Judex", MaxLv = 5, 
-SpAmount = {20, 23, 26, 29, 32}
+[SKID.AB_JUDEX] = {"AB_JUDEX"; SkillName = "Judex", MaxLv = 10, 
+SpAmount = {20, 23, 26, 29, 32, 34, 36, 38, 40, 42}
 , bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
+AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.PR_TURNUNDEAD, 1}
@@ -4787,7 +4811,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.AB_ADORAMUS] = {"AB_ADORAMUS"; SkillName = "Adoramus", MaxLv = 10, 
-SpAmount = {20, 24, 28, 32, 36, 40, 44, 48, 52, 56}
+SpAmount = {32, 40, 48, 56, 64, 72, 80, 88, 96, 104}
 , bSeperateLv = true, 
 AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 , 
@@ -4847,6 +4871,16 @@ AttackRange = {11, 11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.AB_LAUDARAMUS, 2}
+}
+}
+, 
+[SKID.AB_DUPLELIGHT] = {"AB_DUPLELIGHT"; SkillName = "Duplelight", MaxLv = 10, 
+SpAmount = {55, 60, 65, 70, 75, 80, 85, 90, 95, 100}
+, bSeperateLv = true, 
+AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
+, 
+_NeedSkillList = {
+{SKID.PR_ASPERSIO, 1}
 }
 }
 , 
@@ -5012,10 +5046,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.WL_FREEZE_SP] = {"WL_FREEZE_SP"; SkillName = "Freezing Spell", MaxLv = 5, 
-SpAmount = {0, 0, 0, 0, 0}
+[SKID.WL_FREEZE_SP] = {"WL_FREEZE_SP"; SkillName = "Freezing Spell", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
 , 
 [SKID.AS_VENOMDUST] = {"AS_VENOMDUST"; SkillName = "Venom Dust", MaxLv = 10, 
@@ -5044,10 +5078,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.RA_RESEARCHTRAP] = {"RA_RESEARCHTRAP"; SkillName = "Trap Research", MaxLv = 5, 
-SpAmount = {0, 0, 0, 0, 0}
+[SKID.RA_RESEARCHTRAP] = {"RA_RESEARCHTRAP"; SkillName = "Trap Research", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.HT_CLAYMORETRAP, 1}
@@ -5168,10 +5202,10 @@ SpAmount = {0}
 AttackRange = {1}
 }
 , 
-[SKID.SC_FEINTBOMB] = {"SC_FEINTBOMB"; SkillName = "Feint Bomb", MaxLv = 3, 
-SpAmount = {24, 28, 32}
+[SKID.SC_FEINTBOMB] = {"SC_FEINTBOMB"; SkillName = "Feint Bomb", MaxLv = 10, 
+SpAmount = {24, 28, 32, 36, 40, 44, 48, 52, 56, 60}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.SC_DIMENSIONDOOR, 3}
@@ -5952,10 +5986,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.LG_SHIELDPRESS] = {"LG_SHIELDPRESS"; SkillName = "Shield Press", MaxLv = 5, 
-SpAmount = {10, 12, 14, 16, 18}
+[SKID.LG_SHIELDPRESS] = {"LG_SHIELDPRESS"; SkillName = "Shield Press", MaxLv = 10, 
+SpAmount = {10, 12, 14, 16, 18, 20, 22, 24, 26, 28}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.CR_SHIELDCHARGE, 3}
@@ -6470,10 +6504,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.GN_CART_TORNADO] = {"GN_CART_TORNADO"; SkillName = "Cart Tornado", MaxLv = 5, 
-SpAmount = {30, 30, 30, 30, 30}
+[SKID.GN_CART_TORNADO] = {"GN_CART_TORNADO"; SkillName = "Cart Tornado", MaxLv = 10, 
+SpAmount = {30, 30, 30, 30, 30, 30, 30, 30, 30, 30}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.GN_REMODELING_CART, 1}
@@ -6860,10 +6894,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SO_VARETYR_SPEAR] = {"SO_VARETYR_SPEAR"; SkillName = "Varetyr Spear", MaxLv = 5, 
-SpAmount = {55, 62, 69, 76, 83}
+[SKID.SO_VARETYR_SPEAR] = {"SO_VARETYR_SPEAR"; SkillName = "Varetyr Spear", MaxLv = 10, 
+SpAmount = {65, 70, 75, 80, 85, 90, 95, 100, 105, 110}
 , bSeperateLv = false, 
-AttackRange = {9, 9, 9, 9, 9}
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
 _NeedSkillList = {
 {SKID.SA_SEISMICWEAPON, 1}
@@ -6964,10 +6998,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SO_SPELLFIST] = {"SO_SPELLFIST"; SkillName = "Spell Fist", MaxLv = 5, 
-SpAmount = {40, 44, 48, 52, 56}
+[SKID.SO_SPELLFIST] = {"SO_SPELLFIST"; SkillName = "Spell Fist", MaxLv = 10, 
+SpAmount = {40, 44, 48, 52, 56, 60, 64, 68, 72, 76}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.SA_AUTOSPELL, 4}
@@ -7214,10 +7248,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.WL_TETRAVORTEX] = {"WL_TETRAVORTEX"; SkillName = "Tetra Vortex", MaxLv = 5, 
-SpAmount = {120, 150, 180, 210, 240}
+[SKID.WL_TETRAVORTEX] = {"WL_TETRAVORTEX"; SkillName = "Tetra Vortex", MaxLv = 10, 
+SpAmount = {120, 150, 180, 210, 240, 200, 240, 280, 320, 360}
 , bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
+AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.WL_CHAINLIGHTNING, 5}
@@ -7490,10 +7524,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.LG_RAYOFGENESIS] = {"LG_RAYOFGENESIS"; SkillName = "Genesis Ray", MaxLv = 5, 
-SpAmount = {60, 65, 70, 75, 80}
+[SKID.LG_RAYOFGENESIS] = {"LG_RAYOFGENESIS"; SkillName = "Genesis Ray", MaxLv = 10, 
+SpAmount = {45, 50, 55, 60, 65, 70, 75, 80, 85, 90}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.CR_GRANDCROSS, 5}
@@ -7512,7 +7546,7 @@ SpAmount = {18, 21, 24, 27, 30, 33, 36, 39, 42, 45}
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
-{SKID.SR_DRAGONCOMBO, 3}
+{SKID.SR_DRAGONCOMBO, 1}
 }
 }
 , 
@@ -7856,10 +7890,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.GN_SPORE_EXPLOSION] = {"GN_SPORE_EXPLOSION"; SkillName = "Spore Explosion", MaxLv = 5, 
-SpAmount = {55, 60, 65, 70, 75}
+[SKID.GN_SPORE_EXPLOSION] = {"GN_SPORE_EXPLOSION"; SkillName = "Spore Explosion", MaxLv = 10, 
+SpAmount = {48, 52, 56, 60, 64, 68, 72, 76, 80, 84}
 , bSeperateLv = true, 
-AttackRange = {11, 11, 11, 11, 11}
+AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.GN_S_PHARMACY, 4}
@@ -8298,10 +8332,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SC_FATALMENACE] = {"SC_FATALMENACE"; SkillName = "Fatal Menace", MaxLv = 5, 
-SpAmount = {40, 45, 50, 55, 60}
+[SKID.SC_FATALMENACE] = {"SC_FATALMENACE"; SkillName = "Fatal Menace", MaxLv = 10, 
+SpAmount = {10, 14, 18, 22, 26, 30, 34, 38, 42, 46}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1}
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.RG_INTIMIDATE, 5}
@@ -8440,10 +8474,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.NC_ARMSCANNON] = {"NC_ARMSCANNON"; SkillName = "Arm Cannon", MaxLv = 3, 
-SpAmount = {30, 45, 60}
+[SKID.NC_ARMSCANNON] = {"NC_ARMSCANNON"; SkillName = "Arm Cannon", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
 , bSeperateLv = true, 
-AttackRange = {9, 11, 13}
+AttackRange = {9, 9, 11, 11, 13}
 , 
 _NeedSkillList = {
 {SKID.NC_FLAMELAUNCHER, 2}
@@ -8552,8 +8586,8 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.RA_AIMEDBOLT] = {"RA_AIMEDBOLT"; SkillName = "Aimed Bolt ", MaxLv = 10, 
-SpAmount = {30, 32, 34, 36, 38, 40, 42, 44, 46, 48}
+[SKID.RA_AIMEDBOLT] = {"RA_AIMEDBOLT"; SkillName = "Aimed Bolt", MaxLv = 10, 
+SpAmount = {40, 40, 40, 40, 40, 40, 40, 40, 40, 40}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
@@ -8736,10 +8770,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.AB_RENOVATIO] = {"AB_RENOVATIO"; SkillName = "Renovatio", MaxLv = 1, 
-SpAmount = {70}
+[SKID.AB_RENOVATIO] = {"AB_RENOVATIO"; SkillName = "Renovatio", MaxLv = 4, 
+SpAmount = {240, 280, 320, 360}
 , bSeperateLv = false, 
-AttackRange = {11}
+AttackRange = {11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.AB_CHEAL, 3}
@@ -8847,7 +8881,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.AB_ANCILLA] = {"AB_ANCILLA"; SkillName = "Ancilla", MaxLv = 1, 
-SpAmount = {30}
+SpAmount = {10}
 , bSeperateLv = false, 
 AttackRange = {1}
 , 

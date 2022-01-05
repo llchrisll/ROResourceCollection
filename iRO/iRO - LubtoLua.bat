@@ -46,6 +46,7 @@ luadec.exe ".\data\lua files\datainfo\npcidentity.lub" > ".\data\decoded\lua fil
 luadec.exe ".\data\lua files\datainfo\npclocationradius.lub" > ".\data\decoded\lua files\datainfo\npclocationradius.lub"
 luadec.exe ".\data\lua files\datainfo\npclocationradius_f.lub" > ".\data\decoded\lua files\datainfo\npclocationradius_f.lub"
 luadec.exe ".\data\lua files\datainfo\petinfo.lub" > ".\data\decoded\lua files\datainfo\petinfo.lub"
+luadec.exe ".\data\lua files\datainfo\QuestInfo_f.lub" > ".\data\decoded\lua files\datainfo\QuestInfo_f.lub"
 luadec.exe ".\data\lua files\datainfo\spriterobeid.lub" > ".\data\decoded\lua files\datainfo\spriterobeid.lub"
 luadec.exe ".\data\lua files\datainfo\spriterobename.lub" > ".\data\decoded\lua files\datainfo\spriterobename.lub"
 luadec.exe ".\data\lua files\datainfo\spriterobename_f.lub" > ".\data\decoded\lua files\datainfo\spriterobename_f.lub"

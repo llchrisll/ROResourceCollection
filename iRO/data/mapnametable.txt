@@ -432,6 +432,7 @@ job_cru.rsw#Crusader Realm#
 job_monk.rsw#Saint Capitolina Abbey#
 monk_test.rsw#Saint Capitolina Abbey#
 in_rogue.rsw#Inside the Rogue Guild#
+mag_dun03.rsw#Nogg Road#
 mag_dun02.rsw#Nogg Road#
 mag_dun01.rsw#Nogg Road#
 yuno_fild04.rsw#El Mes Plateau#
@@ -708,6 +709,7 @@ arena_room.rsw#Waiting room#
 prt_arena01.rsw#ARENA#
 prt_are01.rsw#ARENA#
 glast_01.rsw#Glast Heim#
+gl_cas01_.rsw#Glast Heim Abyss#
 alde_dun01.rsw#Clock Tower B1f#
 alde_dun02.rsw#Clock Tower B2f#
 alde_dun03.rsw#Clock Tower B3f#
@@ -1002,3 +1004,8 @@ sp_rudus3.rsw#Laboratory Waste Disposal Plant Rudus Floor 3#
 
 // 2018 할로윈
 1@halo.rsw#Halloween Festival#
+
+// 교황 메모리얼 낮에나온 반달
+1@pop1.rsw#Pope's Office#
+1@pop2.rsw#The Way Home#
+1@pop3.rsw#Sky Garden#
