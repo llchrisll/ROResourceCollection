@@ -1,0 +1,308 @@
+998#
+1 Minério de Ferro
+#
+999#
+5 Ferro
+1 Carvão
+#
+1000#
+10 Poeira Estelar
+#
+994#
+10 Sangue Escarlate
+#
+995#
+10 Cristal Azul
+#
+997#
+10 Vida Verdejante
+#
+996#
+10 Frescor do Vento
+#
+1101#
+2 Ferro
+#
+1104#
+30 Ferro
+#
+1107#
+45 Ferro
+25 Dente de Morcego
+#
+1110#
+20 Aço
+#
+1113#
+35 Aço
+#
+1122#
+40 Aço
+50 Garra de Lobo
+#
+1119#
+8 Oridecon
+15 Aço
+1 Granada
+#
+1123#
+8 Oridecon
+10 Aço
+1 Topazio
+#
+1129#
+16 Oridecon
+1 Rubi Amaldiçoado
+#
+1201#
+1 Ferro
+10 Jellopy
+#
+1204#
+25 Ferro
+#
+1207#
+50 Ferro
+#
+1210#
+17 Aço
+#
+1213#
+30 Aço
+#
+1216#
+40 Aço
+#
+1219#
+4 Oridecon
+40 Aço
+1 Safira
+#
+1222#
+4 Oridecon
+60 Aço
+1 Zircônio
+#
+1116#
+35 Ferro
+15 Mandíbula Horrenda
+#
+1151#
+25 Aço
+20 Unha Apodrecida
+#
+1154#
+45 Aço
+#
+1157#
+12 Oridecon
+10 Aço
+#
+1160#
+12 Oridecon
+20 Aço
+#
+1163#
+16 Oridecon
+20 Aço
+1 Diamante Rachado
+#
+1301#
+10 Ferro
+#
+1351#
+110 Ferro
+#
+1354#
+30 Aço
+#
+1357#
+4 Oridecon
+20 Aço
+30 Presa de Orc
+#
+1360#
+8 Oridecon
+10 Aço
+1 Ametista
+#
+1501#
+3 Ferro
+#
+1504#
+30 Ferro
+#
+1507#
+20 Aço
+#
+1510#
+33 Aço
+#
+1519#
+45 Aço
+#
+1513#
+85 Aço
+1 Diamante de 1 quilate
+#
+1516#
+100 Aço
+20 Escama aquática
+#
+1522#
+120  Aço
+1 Insígnia do herói
+#
+1401#
+3 Ferro
+#
+1404#
+35 Ferro
+#
+1407#
+70 Ferro
+#
+1451#
+25 Aço
+#
+1454#
+40 Aço
+#
+1457#
+55 Aço
+#
+1460#
+8 Oridecon
+10 Aço
+5 Aquamarina
+#
+1463#
+12 Oridecon
+10 Aço
+#
+1410#
+12 Oridecon
+3 Ruby
+2 Chifre diabólico
+#
+1801#
+160 Ferro
+1 Pérola
+#
+1803#
+50 Aço
+#
+1805#
+65 Aço
+#
+1807#
+4 Oridecon
+10 Ruby
+#
+1809#
+8 Oridecon
+10 Topazio
+#
+1811#
+4 Oridecon
+10 Opala
+#
+7135#
+1 Álcool
+1 Tecido
+1 Garrafa vazia
+#
+7136#
+1 Coração imortal
+1 Garrafa vazia
+#
+7137#
+2 Flor de planta carnívora
+1 Garrafa vazia
+#
+7138#
+1 Neurônio
+1 Tendão
+1 Garrafa vazia
+#
+7139#
+1 Álcool
+1 Presa de Zenorc
+1 Coração de sereia
+1 Garrafa vazia
+#
+545#
+1 Poção vermelha
+1 Tubo de ensaio
+1 Espinho de cacto
+#
+546#
+1 Poção amarela
+1 Tubo de ensaio
+1 Bigode de toupeira
+#
+547#
+1 Poção branca
+1 Tubo de ensaio
+1 Areia estelar de bruxa
+#
+501#
+1 Poção vermelha
+1 Garrafa de poção
+#
+503#
+1 Erva amarela
+1 Garrafa de poção
+#
+504#
+1 Erva branca
+1 Garrafa de poção
+#
+970#
+5 Caule
+1 Garrafa vazia
+5 Esporo venenoso
+1 Tubo de ensaio
+#
+505#
+1 Erva azul
+1 Scell
+1 Garrafa de poção
+#
+605#
+1 Menta
+1 Álcool
+1 Garrafa vazia
+#
+606#
+1 Aloe
+1 Mel
+1 Garrafa vazia
+#
+12118#
+2 Brasão
+1 Gema vermelha
+1 Garrafa de poção
+#
+
+//11.1
+12119#
+3 Coração de sereia
+1 Gema azul
+1 Garrafa de poção
+#
+12120#
+2 Jellopy tamanho família
+1 Gema amarela
+1 Garrafa de poção
+#
+12121#
+3 Pó de borboleta
+1 Gema azul
+1 Garrafa de poção
+#
+7142#
+1 Orvalho de Yggdrasil
+1 Semente da vida
+1 Capsula de criação
+#

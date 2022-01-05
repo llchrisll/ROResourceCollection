@@ -1,0 +1,122 @@
+/savechat  :  Use esse comando para salvar o texto de sua conversa do chat.
+#
+Segure a tecla CTRL e aperte * para definir a transparência do mini mapa. 
+#
+Segure a tecla SHIFT e movimente o mouse com o botão direito pressionado para ajustar o ângulo de visualização. Para retornar a posição normal, basta segurar a tecla SHIFT e dar um clique duplo no botão direito do mouse. 
+#
+Segure a tecla CTRL e movimente o mouse, com o botão direito pressionado, para cima e para baixo ativando assim o zoom da câmera. Para retornar a posição normal de zoom, basta segurar a tecla CTRL e dar um clique duplo com o botão direito do mouse. Os mouses com botão rotativo no centro, acionam automaticamente o zoom da câmera.
+#
+Quando você mover o cursor em cima de um monstro, você visualizará o nome do monstro e o cursor irá mudar para o ícone de uma espada, isso significa que você poderá atacar o monstro.
+#
+A experiência ganha após matar um monstro é proporcional ao dano que você faz ao monstro. Quando mais de um jogador atacam o mesmo monstro, o jogador que atacou primeiro ganhará mais experiência.
+#
+Para atacar continuamente um monstro sem a necessidade de ficar clicando sobre ele, basta segurar a tecla CTRL, enquanto ataca a primeira vez, ou então digitar o comando /noctrl. Para mudar o alvo ou suspender o ataque, basta clicar em outra área qualquer. Para desativar o ataque contínuo sem usar a tecla CTRL, repita o comando /noctrl.
+#
+Para pegar um item do chão basta clicar sobre o mesmo com o botão esquerdo do mouse.
+#
+Para ver a descrição de determinado item, clique com o botão direito do mouse sobre ele.
+#
+As duas barras que aparecem embaixo do seu personagem representam seu HP e seu SP. A barra verde representa seu HP (sua energia), quando essa barra atingir 25% do total, ela ficará vermelha. Lembre-se, se essa barra chegar a 0, seu personagem morrerá. A barra azul representa seu SP (pontos de habilidade) é com ele que você poderá usar suas habilidades especiais.
+#
+Quando a barra de experiência (EXP) estiver cheia (100%), você receberá o anjo da evolução, esse anjo dará a você um novo nível e como recomepensa você terá novos pontos de atributos para investir no atributo que você preferir. Lembre-se que você pode acumular pontos para usar no próximo nível, caso deseje subir apenas um atributo. Para aumentar seu atributo após avançar de nível, clique sobre o quadrado com uma flecha no lado inferior esquerdo da tela.
+#
+Quando a barra de Experiência de Classe ficar cheia (100%), você ganhará os pontos de habilidade para investir na habilidade que você desejar.
+#
+Seu HP e SP, irão se recuperar automaticamente, porém de forma lenta enquanto você estiver de pé. A velocidade de recuperação será dobrada quando você estiver sentado. No entanto se você estiver carregando mais do que 50% de peso limite, o seu HP e SP não serão recuperados. Para sentar, pressione a tecla INSERT, mas lembre-se que isso só será possível a partir do nível de classe 3.
+#
+Peso: Mostra o limite de peso que você pode carregar. Os jogadores não podem carregar mais peso do que o limite permite. Sempre que você chagar a 50% do peso máximo os números do seu demonstrativo de peso aparecerão em vermelho e um ícone com uma balança em vermelho aparecerá no lado esquerdo da tela. Quando isso ocorrer sua recuperação automática de HP e SP irá parar. Se você ultrapassar 90% do peso permitido, ficará impossibilitado de usar habilidades especiais e lutar.
+#
+Zeny: Esta é a moeda usada em Ragnarök Online. A melhor forma de obter dinheiro é com a venda de itens. Toda vez que você vender ou comprar algo sua quantia de zeny será automaticamente atualizada.
+#
+STR (força): Afeta diretamente no ataque do personagem. E também quanto mais forte, maior será o peso que o personagem aguentará carregar.
+#
+DEX (destreza): Afeta diretamente o uso das armas. Quanto maior for a destreza, mais eficiente as armas serão. A destreza influencia diretamente no acerto aos inimigos. Quando estiver usando arco e flecha a DEX, além do acerto, influenciará na força do ataque. Em personagens que usam magias, a DEX influencia na velocidade de invocação da mesma.
+#
+AGI (agilidade): Afeta diretamente a agilidade do personagem. Aumentando a AGI, você aumentará sua esquiva, bem como a velocidade no seu ataque.
+#
+VIT (vitalidade): Afeta diretamente a defesa e o HP do personagem. Quanto maior a VIT, maior será a redução dos danos recebidos e maior serão o HP e a taxa de recuperação de HP.
+#
+INT (inteligência): Quanto maior seu INT, maior serão sua recuperação de SP, o ataque mágico (MATK) e a defesa mágica (MDEF).
+#
+LUK (sorte): Aumentando a LUK, você aumentará a probabilidade de dar Ataques Certeiros (critical) e maior serão as chances de das Esquivas Perfeitas.
+#
+As teclas [Print Screen] e/ou [Scroll Lock]: Tiram uma "foto" da sua tela de jogo. As fotos (Screenshots) serão salvas no diretório [ScreenShot].
+#
+A tecla [F10]: Ajusta o tamanho da janela de chat.
+#
+A tecla [F11]: Deixa apenas as janelas de informações básicas e de chat abertas. Ela fechará todas as demais janelas.
+#
+A tecla [F12]: Abrirá e fechará suas teclas de acesso rápido (hot key). Você usará frequentemente essas teclas, para isso, basta arrastar o item ou habilidade em uma das janelinhas das teclas de acesso rápido. Elas serão ativadas quando usada a tecla correspondente à mini-janela, ou seja, as teclas F1 a F9.
+#
+A tecla [INSERT] : Fará você sentar ou ficar de pé. O equivalente a essa tecla é o comando [/sit] (sentar) e/ou [/stand] (de pé).
+#
+As teclas [Alt] + [End] simultâneamente farão suas barras de HP e SP serem exibidas, ou não, embaixo do seu personagem.
+#
+As teclas [Alt] + [F10] simultâneamente farão sua janela de chat ser exibida ou não.
+#
+As teclas [Alt] + [1~9] simultâneamente acionam emoticons pré-configurados. Caso queira mudar a configuração original pressione ALT + M.
+#
+O comando /WHERE exibe as informações de sua localização.
+#
+O comando /H exibe a descrição dos comando básicos.
+#
+O comando /BGM ativa e/ou desativa a música, a opção de controle da música pode ser visualizada também usando as teclas [Alt] + [O] simultaneamente.
+#
+O comando /SOUND ativa e/ou desativa os efeitos sonoros do jogo, a opção de controle dos efeitos também pode ser visualizada usando as teclas [Alt] + [O] simultaneamente.
+#
+O comando /EFFECT ativa e/ou desativa vários efeitos gráficos do jogo.
+#
+O comando /SKIP ativa e/ou desativa a sincronia da tela do jogo.
+#
+O comando /EX "nome de determinado personagem", ignora todos os chats particulares vindos desse personagem.
+#
+O comando /IN "nome de determinado personagem", aceitará todos os chats partiulares vindos desse personagem.
+#
+O comando /EXALL, ignora a conversa vinda de qualquer personagem.
+#
+O comando /INALL, aceita a conversa vinda de qualquer personagem.
+#
+O comando /EX, mostra a sua lista de ignorados.
+#
+O comando /ORGANIZE "nome do grupo", permite a você criar um grupo de jogadores (party). Os capitães de cada grupo podem chamar outros jogadores para se unirem ao grupo, bem como definir o tipo de ganho de experiência: individual ou coletivo.
+#
+Se você estiver em um grupo e for o capitão do mesmo, clique com o botão direito do mouse sobre o personagem que gostaria de convitar para o grupo e escolha a opção: "Convidar para grupo".
+#
+O comando /LEAVE, faz você abandonar o grupo em que está.
+#
+O comando /EXPEL "nome do personagem", possibilita ao capitão do grupo retirar um membro específico do grupo.
+#
+Para enviar mensagens apenas para o seu grupo, clique sobre o círculo no canto inferior direito do seu chat e escolha a opção: "Canal do Grupo".
+#
+Usar % no começo de uma mensagem fará com que a mensagem seja enviada apenas para seu grupo. O mesmo ocorre se ao enviar a mensagem no lugar de [ENTER] você usar as teclas [CTRL] + [ENTER].
+#
+O mini-mapa no canto superior direito da tela mostrará sua localização e a localização dos demais companheiros do seu grupo, desde que eles estejam no mesmo mapa que você. Para vizualizar todos os membros de seu grupo aperte [ALT] + [Z].
+#
+Para criar um chat particulares entre você e um outro personagem, escreva o nome do personagem na janela inferior no canto esquerdo da sua janela de chat. Você pode pular rapidamente entre as janelas usando a tecla [TAB].
+#
+Os sinais de [+/-]  no mini mapa aumentarão e diminuirão o zoom do mesmo.
+#
+MVP system: Quando você enfrentar um monstro Chefe você entrará no sistema de MVP, esse sistema visa garantir ao jogador que trocou mais dano com o Chefe que ele pegará o item após a luta. Quando o Chefe não soltar nenhum item, o jogador será recompensado com 50% da experiência.
+#
+Para mover a janela do jogo quando você estiver jogando no "Modo de janela", segure [Alt] + [Espaço] e aperte [m]. Use as flechas de direção ou o mouse para mover a janela.
+#
+O comando /fog, habilita ou desabilita o efeito de névoa do jogo.
+#
+Quando você encontrar um item não identificado que for solto por um monstro, use as lupas de identificação que podem ser compradas nos shoppings de ferramentas. Assim, o item será identificado e se tornará usável.
+#
+É preciso ter um Emperium para criar um clã. O comando é:  /GUILD "nome do clã", (não pode conter caracteres especiais). [ALT] + [G] abre a janela de informações do clã.
+#
+Os membros da guilda podem usar /GC [mensagem] ou $ [mensagem] ou apertar [Alt] + [Enter] para enviar mensagens para a guilda.
+#
+Para colocar uma carta em um equipamento com "slot", primeiro desequipe o item, em seguida dê um clique duplo na carta. Uma lista com os equipamentos que podem usar a carta será mostrada, clique no equipamento que você deseja. Lembre-se, uma vez equipada a carta ela nunca mais poderá ser retirada.
+#
+Sempre que seu personagem morrer, você perderá 1% de experiência, exceto se isto acontecer dentro de uma cidade. Após lutar ou usar habilidades, você terá um atraso de 10 segundos para poder deslogar do jogo.
+#
+Use as Kafras para guardar itens ou alugar carrinhos e para salvar sua posição no jogo.
+#
+[Alt] + [J] pode ser usado para ver os "status" do seu bichinho de estimação se você tiver domado um.
+#
+Para seguir uma pessoa automaticamente, use a tecla [Shift] + [clique direito do mouse] em cima do personagem a ser seguido.
+#
+[Alt] + [L], abre o menu de emoticons que você pode usar no jogo.
+#

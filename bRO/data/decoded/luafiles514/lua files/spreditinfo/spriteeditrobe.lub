@@ -1,0 +1,40 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\spreditinfo\spriteeditrobe.lub 
+
+-- params : ...
+-- function num : 0
+ReverseDrawRobeList = {}
+AcceRobeList = {}
+GetReverseDrawRobeListSize = function()
+  -- function num : 0_0
+  if ReverseDrawRobeList == nil then
+    return 0
+  end
+  return #ReverseDrawRobeList
+end
+
+GetReverseDrawSpriteNumber = function(Index)
+  -- function num : 0_1
+  if ReverseDrawRobeList[Index] == nil then
+    return 0
+  end
+  return ReverseDrawRobeList[Index]
+end
+
+GetAcceRobeListSize = function()
+  -- function num : 0_2
+  if AcceRobeList == nil then
+    return 0
+  end
+  return #AcceRobeList
+end
+
+GetAcceRobeSpriteNumber = function(Index)
+  -- function num : 0_3
+  if AcceRobeList[Index] == nil then
+    return 0
+  end
+  return AcceRobeList[Index]
+end
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	<servicetype>brazil</servicetype>
+	<servertype>primary</servertype>
+	<extendedslot></extendedslot>
+	<connection>
+		<display>Servidor Premium</display>
+		<desc>None</desc>
+		<address>200.229.50.36</address>
+		<port>6900</port>
+		<version>1</version>		
+		<registrationweb>http://www.WarpportalBR.com</registrationweb>		
+	</connection>
+	<connection>
+		<display>Servidor de Acesso Gratuito</display>
+		<desc>None</desc>
+		<address>200.229.50.3</address>
+		<port>6900</port>
+		<version>1</version>		
+		<registrationweb>http://www.WarpportalBR.com</registrationweb>
+	</connection>
+</clientinfo>

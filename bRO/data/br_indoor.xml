@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<servicetype>brazil</servicetype>
+	<servertype>primary</servertype>
+
+	<connection>
+		<display>india server indoor</display>
+		<desc>None</desc>
+		<address>192.168.0.60</address>
+		<port>6900</port>
+		<version>1</version>		
+		<registrationweb>http://www.ragnarokonline.jp</registrationweb>
+		<aid>
+			<admin>100001</admin><admin>100002</admin><admin>100003</admin><admin>100004</admin><admin>100005</admin>
+			<admin>100006</admin><admin>100007</admin><admin>100008</admin><admin>100009</admin><admin>100010</admin>
+			<admin>100011</admin><admin>100012</admin><admin>100013</admin><admin>100014</admin><admin>100015</admin>
+			<admin>100016</admin><admin>100017</admin><admin>100018</admin><admin>100019</admin><admin>100020</admin>
+			<admin>100021</admin><admin>100022</admin><admin>100023</admin><admin>100024</admin><admin>100025</admin>
+			<admin>100026</admin><admin>100027</admin><admin>100028</admin><admin>100029</admin><admin>100030</admin>
+		</aid>
+	</connection>
+
+</clientinfo>

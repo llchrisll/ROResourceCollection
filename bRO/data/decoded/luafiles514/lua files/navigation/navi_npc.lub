@@ -1,0 +1,5175 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\navigation\navi_npc.lub 
+
+-- params : ...
+-- function num : 0
+Navi_Npc = {
+{"airplane", 14943, 101, 67, "assistente do aeroplano", "airplane", 250, 58}
+, 
+{"airplane", 14944, 101, 852, "piloto", "airplane", 221, 158}
+, 
+{"airplane", 14945, 101, 714, "maelin", "01airplane", 65, 63}
+, 
+{"airplane", 14946, 101, 834, "zerta", "01airplane", 80, 71}
+, 
+{"airplane", 14947, 101, 702, "aalos", "01airplane", 72, 34}
+, 
+{"airplane", 15387, 101, 873, "capitão do aeroplano", "03", 236, 163}
+, 
+{"airplane", 15611, 101, 86, "mercador de maçãs", "airplane", 50, 66}
+, 
+{"airplane", 15664, 101, 857, "saída", "airplane1a", 240, 64}
+, 
+{"airplane", 15665, 101, 857, "saída", "airplane1b", 247, 64}
+, 
+{"airplane", 15666, 101, 857, "saída", "airplane2a", 240, 40}
+, 
+{"airplane", 15667, 101, 857, "saída", "airplane2b", 247, 40}
+, 
+{"airplane", 15728, 101, 787, "criança de umbala", "ein_p", 64, 94}
+, 
+{"airplane", 15729, 101, 783, "moça de umbala", "ein_p", 66, 93}
+, 
+{"airplane", 15730, 101, 789, "homem de umbala", "ein_p", 71, 91}
+, 
+{"airplane", 15791, 101, 833, "crewman", "ein", 47, 61}
+, 
+{"airplane", 16338, 101, 88, "aventureiro", "", 238, 54}
+, 
+{"airplane", 16581, 101, 724, "jovem odalisca", "sch", 76, 56}
+, 
+{"airplane", 16582, 101, 724, "odalisca animada", "sch", 75, 53}
+, 
+{"airplane", 16583, 101, 724, "odalisca adulta", "sch", 79, 55}
+, 
+{"airplane", 20817, 101, 878, "eocatt", "decoy01", 246, 47}
+, 
+{"airplane_01", 14930, 101, 74, "clarice", "airplane", 33, 69}
+, 
+{"airplane_01", 14931, 101, 86, "mercador de maçãs", "airplane", 50, 66}
+, 
+{"airplane_01", 14932, 101, 49, "nils", "ein", 32, 61}
+, 
+{"airplane_01", 14933, 101, 873, "capitão do aeroplano", "02", 246, 54}
+, 
+{"airplane_01", 14934, 101, 873, "capitão do aeroplano", "01", 238, 154}
+, 
+{"airplane_01", 14935, 101, 67, "assistente do aeroplano", "airplane_01", 250, 58}
+, 
+{"airplane_01", 14936, 101, 852, "piloto", "airplane_01", 221, 158}
+, 
+{"airplane_01", 14940, 101, 72, "diana", "01airplane_01", 83, 61}
+, 
+{"airplane_01", 14941, 101, 55, "mendel", "01airplane_01", 69, 63}
+, 
+{"airplane_01", 14942, 101, 106, "espadachim shimizu", "01airplane_01", 71, 31}
+, 
+{"airplane_01", 15668, 101, 857, "saída", "airplane_011a", 240, 64}
+, 
+{"airplane_01", 15669, 101, 857, "saída", "airplane_011b", 247, 64}
+, 
+{"airplane_01", 15670, 101, 857, "saída", "airplane_012a", 240, 40}
+, 
+{"airplane_01", 15671, 101, 857, "saída", "airplane_012b", 247, 40}
+, 
+{"airplane_01", 16607, 101, 899, "agente", "pc1", 95, 61}
+, 
+{"airport", 15612, 101, 90, "assistente do aeroporto", "airport1a", 143, 43}
+, 
+{"airport", 15615, 101, 90, "assistente do aeroporto", "airport1b", 158, 43}
+, 
+{"airport", 15618, 101, 90, "assistente do aeroporto", "airport1c", 126, 43}
+, 
+{"airport", 15621, 101, 90, "assistente do aeroporto", "airport2a", 143, 49}
+, 
+{"airport", 15623, 101, 90, "assistente do aeroporto", "airport2b", 126, 51}
+, 
+{"airport", 15625, 101, 90, "assistente do aeroporto", "airport2c", 158, 50}
+, 
+{"airport", 15717, 101, 99, "jovem", "air", 174, 41}
+, 
+{"airport", 15718, 101, 88, "velho", "air", 176, 41}
+, 
+{"airport", 17014, 101, 852, "gerente do trem de carga", "toast", 148, 41}
+, 
+{"alb2trea", 14512, 101, 100, "marinheiro", "", 39, 50}
+, 
+{"alb2trea", 16797, 102, 83, "vendedor de ferramentas", "", 87, 65}
+, 
+{"alb2trea", 17125, 101, 117, "funcionária kafra", "", 59, 69}
+, 
+{"alb2trea", 19964, 101, 837, "quadro de avisos", "sunken", 75, 101}
+, 
+{"alberta", 10001, 101, 64, "abra", "mall", 120, 60}
+, 
+{"alberta", 10082, 101, 537, "curundu", "2016xmas", 234, 119}
+, 
+{"alberta", 10092, 101, 73, "alberta branch", "2016xmas", 46, 193}
+, 
+{"alberta", 10998, 101, 553, "gato mercador tremendo", "2016hw", 45, 239}
+, 
+{"alberta", 10999, 101, 876, "gato branco", "2016hw", 198, 50}
+, 
+{"alberta", 11000, 101, 557, "monte de areia", "2016hw", 199, 51}
+, 
+{"alberta", 12242, 101, 554, "odgnalam", "albe", 200, 151}
+, 
+{"alberta", 12578, 101, 899, "torsen", "Give Goods", 148, 60}
+, 
+{"alberta", 12632, 101, 506, "buzzy bol machine", "01", 116, 66}
+, 
+{"alberta", 12986, 101, 109, "agente vip", "", 104, 60}
+, 
+{"alberta", 13412, 101, 477, "marinheiro", "bra2", 247, 115}
+, 
+{"alberta", 14061, 101, 89, "comedor de porcarias", "", 91, 70}
+, 
+{"alberta", 14063, 101, 709, "barqueiro", "", 247, 122}
+, 
+{"alberta", 14067, 101, 121, "pesquisador", "", 248, 89}
+, 
+{"alberta", 14502, 101, 84, "mercador", "", 97, 51}
+, 
+{"alberta", 14503, 101, 100, "mercador", "", 53, 39}
+, 
+{"alberta", 14505, 101, 54, "velho bêbado", "", 131, 139}
+, 
+{"alberta", 14506, 101, 99, "mercador", "", 58, 80}
+, 
+{"alberta", 14507, 101, 102, "phina", "", 62, 156}
+, 
+{"alberta", 14508, 101, 103, "vov\243 ", "", 93, 174}
+, 
+{"alberta", 14509, 101, 100, "marinheiro", "", 189, 151}
+, 
+{"alberta", 14514, 101, 86, "poch", "", 195, 151}
+, 
+{"alberta", 14516, 101, 85, "phelix", "", 190, 173}
+, 
+{"alberta", 14519, 101, 87, "cabeleireiro cigano", "", 33, 141}
+, 
+{"alberta", 15181, 101, 116, "funcionária de votação kafra ", "alberta", 119, 70}
+, 
+{"alberta", 15216, 101, 874, "funcionário de votação eventos incríveis", "alberta", 114, 70}
+, 
+{"alberta", 16720, 101, 536, "marinheiro de dewata", "alberta", 240, 47}
+, 
+{"alberta", 16874, 102, 712, "cozinheiro auxiliar", "", 167, 135}
+, 
+{"alberta", 16963, 101, 105, "guarda", "s10", 98, 202}
+, 
+{"alberta", 16964, 101, 89, "mercador pobre", "", 43, 49}
+, 
+{"alberta", 17108, 101, 116, "funcionária kafra", "", 28, 229}
+, 
+{"alberta", 17112, 101, 112, "kafra recepcioniosta", "", 113, 60}
+, 
+{"alberta", 17155, 101, 83, "funcionário kafra", "", 26, 229}
+, 
+{"alberta", 19533, 101, 71, "tempestra", "", 136, 79}
+, 
+{"alberta", 19534, 101, 51, "mercador estiloso", "new30", 120, 53}
+, 
+{"alberta", 19540, 101, 92, "dona risadinha", "", 113, 53}
+, 
+{"alberta", 19870, 101, 98, "neco", "", 83, 96}
+, 
+{"alberta", 19871, 101, 107, "shyailron", "", 119, 221}
+, 
+{"alberta", 19872, 101, 57, "gusangs", "", 232, 106}
+, 
+{"alberta", 19898, 101, 99, "turista", "thai", 43, 244}
+, 
+{"alberta", 19910, 101, 709, "capitão", "", 245, 93}
+, 
+{"alberta", 19913, 101, 776, "barqueiro de kunlun", "", 245, 69}
+, 
+{"alberta", 19920, 101, 815, "kunyang", "0", 245, 45}
+, 
+{"alberta", 19924, 101, 843, "aibakthing", "0", 247, 42}
+, 
+{"alberta", 19963, 101, 837, "quadro de avisos", "alberta", 111, 59}
+, 
+{"alberta", 20426, 101, 486, "bardo", "job_min", 196, 133}
+, 
+{"alberta", 20760, 101, 86, "vendedor de projéteis", "airplane", 118, 160}
+, 
+{"alberta", 20761, 101, 83, "kenny", "airplane", 118, 157}
+, 
+{"alberta", 20764, 101, 99, "capitão contrabandista", "", 168, 138}
+, 
+{"alberta", 20777, 101, 730, "akaki", "", 30, 65}
+, 
+{"alberta", 20964, 101, 85, "belder", "", 127, 143}
+, 
+{"alberta", 20967, 101, 86, "jhonnita", "", 102, 80}
+, 
+{"alberta", 21089, 101, 960, "r. públicas de moscóvia", "0", 245, 66}
+, 
+{"alberta", 21108, 101, 729, "oficial do Éden", "4", 124, 67}
+, 
+{"alberta", 21221, 101, 828, "funfi", "", 215, 111}
+, 
+{"alberta", 21244, 101, 709, "captain janssen", "", 214, 77}
+, 
+{"alberta", 21418, 101, 998, "guarda continental", "alber_edq", 127, 64}
+, 
+{"alberta_in", 12577, 101, 91, "estilista", "", 61, 146}
+, 
+{"alberta_in", 13003, 101, 706, "iromo", "", 131, 95}
+, 
+{"alberta_in", 13004, 101, 53, "mãe de iromo", "", 120, 93}
+, 
+{"alberta_in", 14062, 101, 120, "vov\244 tartaruga", "", 23, 104}
+, 
+{"alberta_in", 14504, 101, 49, "jovem", "", 20, 183}
+, 
+{"alberta_in", 14517, 101, 53, "empregada da estalagem", "", 32, 142}
+, 
+{"alberta_in", 14518, 101, 91, "estilista", "", 55, 142}
+, 
+{"alberta_in", 16728, 101, 84, "louitz", "", 133, 55}
+, 
+{"alberta_in", 16736, 101, 61, "farmacêutico", "", 16, 28}
+, 
+{"alberta_in", 16787, 102, 73, "vendedor de ferramentas", "", 182, 97}
+, 
+{"alberta_in", 16788, 102, 74, "vendedor de itens", "", 165, 96}
+, 
+{"alberta_in", 16789, 102, 49, "vendedor de armas", "", 188, 21}
+, 
+{"alberta_in", 16790, 102, 101, "vendedor de armaduras", "", 180, 15}
+, 
+{"alberta_in", 16867, 102, 82, "vendedor de armas", "", 175, 97}
+, 
+{"alberta_in", 16959, 101, 807, "mercador abastado", "", 125, 101}
+, 
+{"alberta_in", 16960, 101, 758, "empregada", "s10", 154, 171}
+, 
+{"alberta_in", 16962, 101, 109, "homem estranho", "", 114, 178}
+, 
+{"alberta_in", 19519, 101, 47, "cherokee", "", 122, 53}
+, 
+{"alberta_in", 19522, 101, 120, "quepe do vov\244 ", "", 29, 140}
+, 
+{"alberta_in", 19527, 101, 125, "domador de monstros", "", 173, 76}
+, 
+{"alberta_in", 19873, 101, 84, "xenopoe", "", 21, 63}
+, 
+{"alberta_in", 19874, 101, 86, "kahlamanlith", "", 13, 71}
+, 
+{"alberta_in", 19875, 101, 85, "fredrik", "", 28, 58}
+, 
+{"alberta_in", 19939, 101, 86, "restaurador", "", 31, 65}
+, 
+{"alberta_in", 20006, 101, 86, "mercador", "", 53, 43}
+, 
+{"alberta_in", 20514, 101, 59, "sr. huh", "qskill_buy01", 58, 52}
+, 
+{"alberta_in", 20751, 102, 900, "trading merchant", "", 176, 81}
+, 
+{"alberta_in", 20984, 101, 788, "xam\227 ", "", 70, 109}
+, 
+{"alberta_in", 21120, 101, 729, "oficial do Éden", "10", 75, 39}
+, 
+{"alde_alche", 16741, 102, 755, "vendedor de materiais", "", 38, 184}
+, 
+{"alde_alche", 16923, 101, 740, "mercador da guilda", "", 24, 188}
+, 
+{"alde_alche", 16961, 101, 749, "alquimista", "s", 169, 162}
+, 
+{"alde_alche", 16984, 101, 748, "morseland", "Masked Alarm", 88, 180}
+, 
+{"alde_alche", 16985, 101, 1193, " ", "Masked Alarm1", 86, 184}
+, 
+{"alde_alche", 16986, 101, 1193, " ", "Masked Alarm2", 89, 184}
+, 
+{"alde_alche", 16987, 101, 1193, " ", "Masked Alarm3", 92, 184}
+, 
+{"alde_alche", 16988, 101, 1193, " ", "Masked Alarm4", 95, 184}
+, 
+{"alde_alche", 20521, 101, 883, "vendedor de livros", "alde", 31, 186}
+, 
+{"alde_dun03", 19631, 101, 101, "gatekeeper", "", 264, 16}
+, 
+{"alde_gld", 12030, 101, 549, "megrez", "", 186, 157}
+, 
+{"alde_gld", 12031, 101, 421, "gerente do portal", "alde_f00", 191, 164}
+, 
+{"alde_gld", 12033, 101, 857, "placa de investimentos", "fund04", 188, 158}
+, 
+{"alde_gld", 15560, 101, 845, "guia da turbo track", "Entrance", 186, 199}
+, 
+{"alde_gld", 15561, 101, 845, "encarregada do pecopeco", "", 181, 199}
+, 
+{"alde_gld", 15562, 101, 837, "sinal", "TBT", 178, 180}
+, 
+{"alde_gld", 15563, 101, 845, "gm_tbt", "GM", 5, 5}
+, 
+{"alde_gld", 19136, 101, 722, "sirius", "", 61, 87}
+, 
+{"alde_gld", 19137, 101, 722, " sirius", "", 61, 79}
+, 
+{"alde_gld", 19138, 101, 722, " sirius", "", 45, 87}
+, 
+{"alde_gld", 19139, 101, 722, " sirius", "", 51, 87}
+, 
+{"alde_gld", 19140, 101, 722, "astrum", "", 99, 251}
+, 
+{"alde_gld", 19141, 101, 722, "astrum", "", 99, 244}
+, 
+{"alde_gld", 19142, 101, 722, "canopus", "", 146, 82}
+, 
+{"alde_gld", 19143, 101, 722, " canopus", "", 138, 83}
+, 
+{"alde_gld", 19144, 101, 722, "rigel", "", 239, 246}
+, 
+{"alde_gld", 19145, 101, 722, "rigel", "", 239, 239}
+, 
+{"alde_gld", 19146, 101, 722, "acrux", "", 265, 93}
+, 
+{"alde_gld", 19147, 101, 722, "acrux", "", 265, 87}
+, 
+{"aldeba_in", 14966, 101, 859, "funcionária kafra", "lt3", 155, 240}
+, 
+{"aldeba_in", 16798, 102, 83, "vendedor de ferramentas", "", 94, 56}
+, 
+{"aldeba_in", 16799, 102, 49, "vendedor de armas", "", 28, 54}
+, 
+{"aldeba_in", 16800, 102, 101, "vendedor de armaduras", "", 20, 60}
+, 
+{"aldeba_in", 16869, 102, 713, "vendedor de armas", "", 22, 47}
+, 
+{"aldeba_in", 16951, 101, 805, "sir jore", "", 155, 101}
+, 
+{"aldeba_in", 16952, 101, 102, "assistente", "Piru", 156, 118}
+, 
+{"aldeba_in", 17095, 101, 113, "funcionária kafra", "", 96, 181}
+, 
+{"aldeba_in", 17130, 101, 115, "funcionária kafra", "", 79, 161}
+, 
+{"aldeba_in", 19497, 101, 48, "cidadão de al de baran", "", 232, 241}
+, 
+{"aldeba_in", 19498, 101, 63, "homem louco", "", 223, 121}
+, 
+{"aldeba_in", 19499, 101, 109, "homem gentil", "", 219, 61}
+, 
+{"aldeba_in", 19500, 101, 97, "homem chateado", "", 152, 47}
+, 
+{"aldeba_in", 19501, 101, 61, "gerente do bar", "", 156, 179}
+, 
+{"aldeba_in", 19502, 101, 117, "kafra denise", "", 84, 166}
+, 
+{"aldeba_in", 19503, 101, 116, "kafra tatiana", "", 83, 245}
+, 
+{"aldeba_in", 19504, 101, 115, "kafra marianne", "", 24, 245}
+, 
+{"aldeba_in", 19505, 101, 114, "kafra bianca", "", 142, 238}
+, 
+{"aldeba_in", 19506, 101, 112, "kafra deborah", "", 91, 244}
+, 
+{"aldeba_in", 19515, 101, 53, "empregada da estalagem", "", 92, 58}
+, 
+{"aldeba_in", 19521, 101, 86, "mercador", "", 152, 166}
+, 
+{"aldeba_in", 19529, 101, 125, "domador de monstros", "", 168, 175}
+, 
+{"aldeba_in", 19945, 101, 86, "restaurador", "", 38, 60}
+, 
+{"aldeba_in", 19989, 101, 115, "funcionária kafra", "", 88, 161}
+, 
+{"aldeba_in", 19990, 101, 709, "tzerero", "", 223, 167}
+, 
+{"aldebaran", 10048, 101, 851, "decorador de carrinhos", "", 177, 179}
+, 
+{"aldebaran", 10083, 101, 929, "askar", "2016xmas", 183, 170}
+, 
+{"aldebaran", 10093, 101, 61, "filial de aldebaran", "2016xmas", 43, 172}
+, 
+{"aldebaran", 12229, 101, 553, "dolangmal", "alde", 170, 104}
+, 
+{"aldebaran", 12630, 101, 506, "buzzy bol machine", "01", 160, 115}
+, 
+{"aldebaran", 12637, 101, 402, "engenheiro mecatrônico", "Aldebaran", 133, 112}
+, 
+{"aldebaran", 12663, 101, 571, "colecionador", "ticket", 183, 127}
+, 
+{"aldebaran", 12985, 101, 109, "agente vip", "", 146, 116}
+, 
+{"aldebaran", 14965, 101, 116, "funcionária kafra", "lt3", 58, 225}
+, 
+{"aldebaran", 15188, 101, 116, "funcionária de votação kafra ", "aldebaran", 145, 102}
+, 
+{"aldebaran", 15223, 101, 874, "funcionário de votação eventos incríveis", "alde", 138, 102}
+, 
+{"aldebaran", 16875, 102, 97, "cozinheiro auxiliar", "", 165, 107}
+, 
+{"aldebaran", 17090, 101, 113, "funcionária kafra", "", 143, 119}
+, 
+{"aldebaran", 19222, 101, 722, "sirius", "", 152, 97}
+, 
+{"aldebaran", 19223, 101, 722, "astrum", "", 149, 97}
+, 
+{"aldebaran", 19224, 101, 722, "canopus", "", 134, 97}
+, 
+{"aldebaran", 19226, 101, 722, "acrux", "", 128, 97}
+, 
+{"aldebaran", 19486, 101, 48, "refinador", "", 113, 70}
+, 
+{"aldebaran", 19487, 101, 55, "sr quattro", "", 64, 104}
+, 
+{"aldebaran", 19488, 101, 83, "miguel", "", 49, 93}
+, 
+{"aldebaran", 19489, 101, 101, "catadora de mariscos", "", 81, 61}
+, 
+{"aldebaran", 19490, 101, 97, "panam\225 ", "", 46, 129}
+, 
+{"aldebaran", 19491, 101, 98, "jovem montanhista", "", 67, 154}
+, 
+{"aldebaran", 19492, 101, 47, "edu", "", 90, 170}
+, 
+{"aldebaran", 19493, 101, 48, "juliano", "", 117, 181}
+, 
+{"aldebaran", 19494, 101, 49, "estudante de alquimia", "", 121, 231}
+, 
+{"aldebaran", 19495, 101, 62, "criança", "", 86, 228}
+, 
+{"aldebaran", 19496, 101, 119, "tio inseto", "", 159, 242}
+, 
+{"aldebaran", 19507, 101, 69, "senhorita", "", 60, 70}
+, 
+{"aldebaran", 19508, 101, 48, "jovem apaixonado", "", 93, 80}
+, 
+{"aldebaran", 19509, 101, 88, "oriental", "", 180, 46}
+, 
+{"aldebaran", 19510, 101, 97, "cidadão de al de baran", "", 212, 122}
+, 
+{"aldebaran", 19511, 101, 101, "menina", "", 146, 124}
+, 
+{"aldebaran", 19512, 101, 105, "soldado", "", 139, 63}
+, 
+{"aldebaran", 19513, 101, 105, "soldado", "", 133, 108}
+, 
+{"aldebaran", 19514, 101, 89, "guardião do sino", "A", 143, 136}
+, 
+{"aldebaran", 19538, 101, 92, "dona risadinha", "", 136, 135}
+, 
+{"aldebaran", 19730, 101, 718, "papai noel", "", 223, 222}
+, 
+{"aldebaran", 19783, 101, 64, "mortengard", "", 44, 53}
+, 
+{"aldebaran", 19965, 101, 837, "quadro de avisos", "alde", 146, 106}
+, 
+{"aldebaran", 19971, 101, 837, "quadro de avisos", "clocktower", 136, 133}
+, 
+{"aldebaran", 19992, 101, 117, "funcionária kafra", "", 54, 238}
+, 
+{"aldebaran", 19996, 101, 85, "mercador", "alde", 152, 63}
+, 
+{"aldebaran", 20457, 101, 486, "karian", "cmd8", 142, 128}
+, 
+{"aldebaran", 20526, 101, 105, "soldado de aldebaran", "", 133, 109}
+, 
+{"aldebaran", 20990, 101, 828, "agente arruaceiro", "nd0", 114, 56}
+, 
+{"aldebaran", 21110, 101, 729, "oficial do Éden", "5", 133, 119}
+, 
+{"aldebaran", 21219, 101, 900, "jeanbai", "", 144, 230}
+, 
+{"aldebaran", 21220, 101, 869, "lizingshetter", "", 105, 116}
+, 
+{"aldebaran", 21313, 101, 728, "emissária de maroll", "", 146, 109}
+, 
+{"aldebaran", 21419, 101, 998, "guarda continental", "alde_edq", 135, 128}
+, 
+{"aldebaran", 21424, 101, 96, "garota", "prince", 132, 184}
+, 
+{"aldebaran", 21529, 101, 100, "equipe de promoções", "", 127, 138}
+, 
+{"ama_in01", 14538, 101, 761, "vov\243 ", "", 22, 111}
+, 
+{"ama_in01", 14542, 101, 769, "xam\227 ", "", 169, 173}
+, 
+{"ama_in01", 14543, 101, 762, "máscara de raposa", "", 180, 173}
+, 
+{"ama_in01", 14544, 101, 765, "mestre do sushi", "", 162, 17}
+, 
+{"ama_in01", 16821, 102, 763, "vendedor de ferramentas", "", 24, 30}
+, 
+{"ama_in01", 16822, 102, 757, "vendedor de armaduras", "", 89, 28}
+, 
+{"ama_in01", 16823, 102, 766, "vendedor de armas", "", 102, 28}
+, 
+{"ama_in02", 14522, 101, 767, "guarda do portão", "3", 207, 40}
+, 
+{"ama_in02", 14523, 101, 767, "guarda do portão", "4", 207, 49}
+, 
+{"ama_in02", 14526, 101, 767, "soldado", "1", 187, 57}
+, 
+{"ama_in02", 14527, 101, 767, "soldado", "2", 170, 62}
+, 
+{"ama_in02", 14528, 101, 767, "soldado", "3", 37, 157}
+, 
+{"ama_in02", 14529, 101, 767, "soldado", "4", 32, 51}
+, 
+{"ama_in02", 14530, 101, 767, "soldado", "5", 40, 167}
+, 
+{"ama_in02", 14531, 101, 767, "soldado", "6", 32, 167}
+, 
+{"ama_in02", 14532, 101, 767, "soldado", "7", 42, 34}
+, 
+{"ama_in02", 14533, 101, 767, "soldado", "8", 203, 156}
+, 
+{"ama_in02", 14534, 101, 767, "soldado", "9", 195, 156}
+, 
+{"ama_in02", 14535, 101, 767, "soldado", "10", 115, 177}
+, 
+{"ama_in02", 14537, 101, 768, "o senhor do palácio", "", 200, 176}
+, 
+{"ama_test", 14547, 101, 109, "assistente", "", 52, 44}
+, 
+{"ama_test", 14552, 101, 766, "vov\244", "ama", 49, 93}
+, 
+{"ama_test", 14553, 101, 761, "vov\243", "ama", 50, 93}
+, 
+{"ama_test", 14554, 101, 762, "treinador", "", 50, 100}
+, 
+{"amatsu", 12997, 101, 109, "agente vip", "", 102, 152}
+, 
+{"amatsu", 14520, 101, 767, "guarda do portão", "1", 112, 164}
+, 
+{"amatsu", 14521, 101, 767, "guarda do portão", "2", 119, 164}
+, 
+{"amatsu", 14524, 101, 767, "guarda do portão", "5", 164, 174}
+, 
+{"amatsu", 14525, 101, 767, "guarda do portão", "6", 171, 174}
+, 
+{"amatsu", 14541, 101, 764, "kouji", "", 189, 166}
+, 
+{"amatsu", 14545, 101, 763, "editor", "", 223, 236}
+, 
+{"amatsu", 14560, 101, 757, "sadako", "", 230, 160}
+, 
+{"amatsu", 14561, 101, 86, "lucas noglie", "", 179, 107}
+, 
+{"amatsu", 14562, 101, 759, "mimi", "", 205, 163}
+, 
+{"amatsu", 14563, 101, 765, "bêbado", "", 185, 115}
+, 
+{"amatsu", 14564, 101, 760, "vov\243 hatsue", "", 217, 179}
+, 
+{"amatsu", 14565, 101, 766, "jyaburo", "", 287, 266}
+, 
+{"amatsu", 14566, 101, 758, "casamenteira", "", 269, 221}
+, 
+{"amatsu", 14567, 101, 760, "professora de teatro", "", 243, 202}
+, 
+{"amatsu", 14568, 101, 1323, "bonubonu", "1", 283, 203}
+, 
+{"amatsu", 14569, 101, 735, "veterinário ", "", 274, 178}
+, 
+{"amatsu", 16881, 102, 83, "cozinheiro auxiliar", "", 206, 150}
+, 
+{"amatsu", 17033, 101, 758, "guia de amatsu", "amatsu", 202, 91}
+, 
+{"amatsu", 17145, 101, 116, "funcionária kafra", "", 102, 149}
+, 
+{"amatsu", 19911, 101, 709, "capitão", "", 194, 79}
+, 
+{"amatsu", 21144, 101, 729, "oficial do Éden", "22", 100, 145}
+, 
+{"arena_room", 15497, 101, 97, "vendigos", "", 94, 93}
+, 
+{"arena_room", 15498, 101, 57, "escriturário da arena", "", 105, 82}
+, 
+{"arena_room", 15499, 101, 726, "auxiliar pat", "", 68, 135}
+, 
+{"arena_room", 15500, 101, 750, "auxiliar ben", "", 41, 93}
+, 
+{"arena_room", 15501, 101, 730, "auxiliar vinicius", "", 53, 49}
+, 
+{"arena_room", 15502, 101, 727, "auxiliar epin", "", 147, 49}
+, 
+{"arena_room", 15503, 101, 828, "auxiliar lunico", "", 158, 93}
+, 
+{"arena_room", 15504, 101, 828, "auxiliar lonik", "", 158, 82}
+, 
+{"arena_room", 15505, 101, 55, "teleportador", "arena", 105, 93}
+, 
+{"arena_room", 15539, 101, 79, "funcionária de recordes da arena", "acolyte", 94, 82}
+, 
+{"arena_room", 15540, 101, 729, "guia alias", "", 140, 136}
+, 
+{"aru_gld", 19234, 101, 722, "mardol", "", 164, 270}
+, 
+{"aru_gld", 19235, 101, 722, "mardol", "", 142, 235}
+, 
+{"aru_gld", 19236, 101, 722, "mardol", "", 164, 245}
+, 
+{"aru_gld", 19237, 101, 722, "mardol", "", 182, 255}
+, 
+{"aru_gld", 19238, 101, 722, "syr", "", 80, 41}
+, 
+{"aru_gld", 19239, 101, 722, "syr", "", 80, 52}
+, 
+{"aru_gld", 19240, 101, 722, "horn", "", 60, 174}
+, 
+{"aru_gld", 19241, 101, 722, "horn", "", 74, 174}
+, 
+{"aru_gld", 19242, 101, 722, "gepun", "", 306, 359}
+, 
+{"aru_gld", 19243, 101, 722, "gefn", "", 306, 348}
+, 
+{"aru_gld", 19244, 101, 722, "gefn", "", 301, 318}
+, 
+{"aru_gld", 19245, 101, 722, "gepun", "", 313, 318}
+, 
+{"aru_gld", 19246, 101, 722, "vanadis", "", 289, 103}
+, 
+{"aru_gld", 19247, 101, 722, "vanadis", "", 289, 112}
+, 
+{"aru_gld", 19248, 101, 722, "vanadis", "", 350, 98}
+, 
+{"aru_gld", 19249, 101, 722, "vanadis", "", 350, 88}
+, 
+{"arug_dun01", 21673, 101, 826, "anão", "aru_gd", 199, 195}
+, 
+{"arug_que01", 21679, 101, 715, "pierrot doll", "aru_gd", 100, 81}
+, 
+{"arug_que01", 21681, 101, 412, "gergoth", "aru_gd", 100, 75}
+, 
+{"ayo_fild02", 15969, 101, 843, "aik", "thai", 25, 154}
+, 
+{"ayo_in01", 16835, 102, 840, "vendedor de ferramentas", "", 18, 182}
+, 
+{"ayo_in01", 16836, 102, 842, "vendedor de armaduras", "", 90, 160}
+, 
+{"ayo_in01", 16837, 102, 843, "vendedor de armas", "", 90, 192}
+, 
+{"ayothaya", 12998, 101, 109, "agente vip", "", 212, 173}
+, 
+{"ayothaya", 15955, 101, 843, "jovem", "Thang", 189, 120}
+, 
+{"ayothaya", 15956, 101, 838, "menina", "Lalitha", 171, 152}
+, 
+{"ayothaya", 15957, 101, 842, "velho", "ayothaya", 143, 102}
+, 
+{"ayothaya", 15958, 101, 841, "jovem", "1ayothaya", 197, 189}
+, 
+{"ayothaya", 15959, 101, 843, "jovem", "5ayothaya", 214, 142}
+, 
+{"ayothaya", 15960, 101, 843, "jovem", "5ayothaya", 241, 264}
+, 
+{"ayothaya", 16884, 102, 83, "cozinheiro auxiliar", "", 203, 178}
+, 
+{"ayothaya", 17034, 101, 839, "guia de ayothaya", "01ayothaya", 203, 169}
+, 
+{"ayothaya", 17035, 101, 839, "guia de ayothaya noa", "02ayothaya", 146, 86}
+, 
+{"ayothaya", 17151, 101, 116, "funcionária kafra", "", 212, 169}
+, 
+{"ayothaya", 21146, 101, 729, "oficial do Éden", "23", 221, 191}
+, 
+{"bat_room", 21255, 101, 418, "oficial do desfiladeiro", "01a", 124, 178}
+, 
+{"bat_room", 21258, 101, 414, "oficial do desfiladeiro", "01b", 125, 121}
+, 
+{"bat_room", 21263, 101, 418, "oficial de flavius", "01a", 133, 178}
+, 
+{"bat_room", 21266, 101, 414, "oficial de flavius", "01b", 133, 121}
+, 
+{"bat_room", 21271, 101, 416, "príncipe croix", "", 160, 141}
+, 
+{"bat_room", 21272, 101, 415, "pajem de croix", "01", 161, 140}
+, 
+{"bat_room", 21273, 101, 415, "pajem de croix", "02", 161, 142}
+, 
+{"bat_room", 21274, 101, 420, "general guillaume", "", 160, 159}
+, 
+{"bat_room", 21275, 101, 419, "pajem de guillaume", "01", 161, 158}
+, 
+{"bat_room", 21276, 101, 419, "pajem de guillaume", "03", 161, 160}
+, 
+{"bat_room", 21277, 101, 417, "cavaleiro de guillaume", "", 127, 178}
+, 
+{"bat_room", 21278, 101, 417, "cavaleiro de guillaume", "", 135, 178}
+, 
+{"bat_room", 21279, 101, 417, "cavaleiro de guillaume", "", 143, 178}
+, 
+{"bat_room", 21280, 101, 417, "cavaleiro de guillaume", "", 151, 178}
+, 
+{"bat_room", 21281, 101, 413, "cavaleiro de croix", "", 127, 121}
+, 
+{"bat_room", 21282, 101, 413, "cavaleiro de croix", "", 135, 121}
+, 
+{"bat_room", 21283, 101, 413, "cavaleiro de croix", "", 143, 121}
+, 
+{"bat_room", 21284, 101, 413, "cavaleiro de croix", "", 151, 121}
+, 
+{"bat_room", 21301, 101, 124, "transportadora", "Battlefield", 148, 150}
+, 
+{"bat_room", 21323, 101, 861, "funcionária kafra", "", 148, 147}
+, 
+{"bat_room", 21324, 101, 109, "erundek", "", 160, 150}
+, 
+{"bat_room", 21743, 101, 734, "negociante de kvm", "kvm01", 151, 144}
+, 
+{"bat_room", 21744, 101, 418, "oficial de kvm", "Guillaume", 164, 178}
+, 
+{"bat_room", 21748, 101, 417, "cavaleiro de guillaume", "kvm", 167, 178}
+, 
+{"bat_room", 21749, 101, 414, "oficial de kvm", "Croix", 164, 121}
+, 
+{"bat_room", 21753, 101, 413, "cavaleiro de croix", "kvm", 167, 121}
+, 
+{"bif_fild01", 11633, 101, 10007, "dispositivo de bifrost", "gate03", 318, 159}
+, 
+{"bif_fild01", 11635, 101, 852, "guia da fissura", "gk05", 314, 155}
+, 
+{"bif_fild01", 11636, 101, 852, "guia da fissura", "gk06", 320, 154}
+, 
+{"bif_fild02", 11714, 101, 421, "gato do teleporte no.2", "", 293, 325}
+, 
+{"bra_dun01", 13417, 101, 472, "Índio picidae", "", 38, 70}
+, 
+{"bra_fild01", 13436, 101, 472, "Índio guerreiro", "nk", 210, 292}
+, 
+{"bra_in01", 13409, 101, 478, "recepcionista", "bra1", 27, 24}
+, 
+{"brasilis", 13002, 101, 109, "agente vip", "", 200, 224}
+, 
+{"brasilis", 13404, 101, 85, "vendedor de sorvete", "", 137, 77}
+, 
+{"brasilis", 13405, 101, 858, "placa", "bra", 155, 165}
+, 
+{"brasilis", 13406, 101, 858, "placa", "bra", 240, 248}
+, 
+{"brasilis", 13407, 101, 858, "placa", "bra", 303, 309}
+, 
+{"brasilis", 13408, 101, 858, "placa", "bra", 278, 137}
+, 
+{"brasilis", 13410, 101, 100, "marinheiro", "bra1", 316, 57}
+, 
+{"brasilis", 13414, 101, 478, "guia brasiliseira", "", 214, 159}
+, 
+{"brasilis", 13415, 101, 412, "guia brasiliseiro", "", 199, 324}
+, 
+{"brasilis", 13416, 101, 57, "guia brasiliseiro", "", 157, 165}
+, 
+{"brasilis", 13418, 101, 430, "guia brasiliseira", "", 191, 224}
+, 
+{"brasilis", 13419, 101, 831, "guia brasiliseira", "", 306, 330}
+, 
+{"brasilis", 16917, 102, 477, "vendedor de frutas", "", 221, 128}
+, 
+{"brasilis", 16918, 102, 476, "adestrador", "", 201, 309}
+, 
+{"brasilis", 16919, 102, 477, "vendedor de armas", "", 244, 243}
+, 
+{"brasilis", 16920, 102, 478, "vendedor de ferramentas", "", 252, 257}
+, 
+{"brasilis", 17165, 101, 117, "funcionária kafra", "", 197, 221}
+, 
+{"brasilis", 17212, 101, 826, "brokk", "prt", 152, 150}
+, 
+{"brasilis", 21154, 101, 729, "oficial do Éden", "27", 178, 227}
+, 
+{"c_tower3", 19629, 101, 84, "gatekeeper", "", 10, 249}
+, 
+{"cmd_fild07", 16809, 102, 83, "vendedor de ferramentas", "", 257, 126}
+, 
+{"cmd_fild07", 16810, 102, 49, "vendedor de armas", "", 250, 98}
+, 
+{"cmd_fild07", 16811, 102, 101, "vendedor de armaduras", "", 277, 85}
+, 
+{"cmd_fild07", 17132, 101, 721, "funcionária kafra", "", 136, 134}
+, 
+{"cmd_fild07", 19768, 101, 100, "ramadi", "", 192, 58}
+, 
+{"cmd_fild07", 19769, 101, 100, "hamilton", "", 52, 280}
+, 
+{"cmd_fild07", 19770, 101, 100, "zain", "", 299, 83}
+, 
+{"cmd_fild07", 19773, 101, 100, "samir", "", 94, 134}
+, 
+{"cmd_in01", 16805, 102, 83, "vendedor de ferramentas", "", 79, 182}
+, 
+{"cmd_in01", 16806, 102, 49, "vendedor de armas", "", 128, 165}
+, 
+{"cmd_in01", 16807, 102, 101, "vendedor de armaduras", "", 117, 165}
+, 
+{"cmd_in01", 16957, 101, 724, "examinadora", "s", 33, 25}
+, 
+{"cmd_in02", 15908, 101, 828, "homem", "megin", 190, 94}
+, 
+{"cmd_in02", 16608, 101, 97, "larjes", "pc1", 174, 89}
+, 
+{"cmd_in02", 16609, 101, 97, "larjes", "pc2", 111, 52}
+, 
+{"cmd_in02", 16955, 101, 806, "cara estranho", "s", 88, 51}
+, 
+{"cmd_in02", 17131, 101, 721, "funcionária kafra", "", 146, 180}
+, 
+{"cmd_in02", 19753, 101, 49, "prefeito", "", 32, 140}
+, 
+{"cmd_in02", 19754, 101, 48, "martim", "", 73, 81}
+, 
+{"cmd_in02", 19755, 101, 51, "mito", "", 48, 55}
+, 
+{"cmd_in02", 19756, 101, 709, "roberto", "", 64, 43}
+, 
+{"cmd_in02", 19757, 101, 89, "queiroz", "", 89, 72}
+, 
+{"cmd_in02", 19758, 101, 101, "sharon", "", 178, 92}
+, 
+{"cmd_in02", 19759, 101, 98, "estevão", "", 178, 86}
+, 
+{"cmd_in02", 19760, 101, 86, "j.c.", "", 172, 105}
+, 
+{"cmd_in02", 19761, 101, 83, "levir", "", 174, 126}
+, 
+{"cmd_in02", 19762, 101, 109, "jonas", "", 57, 62}
+, 
+{"cmd_in02", 19780, 101, 85, "manzi", "", 189, 99}
+, 
+{"cmd_in02", 20972, 101, 828, "investigador", "", 94, 208}
+, 
+{"comodo", 12572, 101, 69, "garota fashion", "Hair_Brush", 236, 164}
+, 
+{"comodo", 12996, 101, 109, "agente vip", "", 199, 149}
+, 
+{"comodo", 14682, 101, 84, "raede", "", 170, 137}
+, 
+{"comodo", 14683, 101, 92, "heis", "", 171, 137}
+, 
+{"comodo", 16600, 101, 809, "rapaz", "sch", 135, 299}
+, 
+{"comodo", 16808, 102, 101, "vendedora de conchas", "", 296, 125}
+, 
+{"comodo", 16876, 102, 83, "cozinheiro auxiliar", "", 225, 164}
+, 
+{"comodo", 16921, 102, 724, "vendedora de frutas", "", 106, 213}
+, 
+{"comodo", 16922, 102, 479, "harive", "Äµµð»óÀÎ", 196, 162}
+, 
+{"comodo", 17135, 101, 721, "funcionária kafra", "", 195, 150}
+, 
+{"comodo", 19531, 101, 700, "garota", "", 228, 159}
+, 
+{"comodo", 19532, 101, 702, "viajante", "", 273, 137}
+, 
+{"comodo", 19741, 101, 700, "guia turístico", "", 322, 178}
+, 
+{"comodo", 19742, 101, 700, "guia turístico", "", 176, 350}
+, 
+{"comodo", 19743, 101, 700, "guia turístico", "", 37, 219}
+, 
+{"comodo", 19744, 101, 704, "rochito", "", 206, 310}
+, 
+{"comodo", 19745, 101, 65, "aníbal", "", 204, 310}
+, 
+{"comodo", 19746, 101, 71, "emília", "", 209, 305}
+, 
+{"comodo", 19747, 101, 706, "roger", "", 209, 314}
+, 
+{"comodo", 19748, 101, 86, "rinta", "", 221, 310}
+, 
+{"comodo", 19749, 101, 90, "razy", "", 218, 309}
+, 
+{"comodo", 19750, 101, 50, "papai bbq", "", 216, 310}
+, 
+{"comodo", 19751, 101, 74, "bbq mama", "", 215, 307}
+, 
+{"comodo", 19752, 101, 706, "garoto bbq", "", 213, 310}
+, 
+{"comodo", 19776, 101, 109, "turuna", "", 88, 97}
+, 
+{"comodo", 19777, 101, 73, "sokoko", "", 164, 291}
+, 
+{"comodo", 19778, 101, 98, "kirichi", "", 169, 284}
+, 
+{"comodo", 19779, 101, 55, "magatu", "", 163, 280}
+, 
+{"comodo", 19781, 101, 701, "hullaris", "", 187, 153}
+, 
+{"comodo", 19785, 101, 106, "wong", "", 232, 87}
+, 
+{"comodo", 19900, 101, 120, "velho", "thai", 68, 195}
+, 
+{"comodo", 19906, 101, 103, "vov\243 da munak", "", 112, 182}
+, 
+{"comodo", 19946, 101, 91, "kachua", "", 219, 158}
+, 
+{"comodo", 19947, 101, 90, "devellin", "", 204, 148}
+, 
+{"comodo", 19948, 101, 118, "cara suspeito", "", 210, 154}
+, 
+{"comodo", 19968, 101, 837, "quadro de avisos", "comodo", 210, 148}
+, 
+{"comodo", 20203, 101, 741, "bardo andarilho", "", 211, 155}
+, 
+{"comodo", 20206, 101, 90, "snowtora", "1", 180, 153}
+, 
+{"comodo", 20207, 101, 86, "bor roben", "1", 193, 151}
+, 
+{"comodo", 20453, 101, 486, "karian", "cmd6", 184, 109}
+, 
+{"comodo", 20454, 101, 98, "mestre kayak", "job_min", 192, 119}
+, 
+{"comodo", 20455, 101, 701, "churrasqueira", "job_min", 159, 316}
+, 
+{"comodo", 20502, 101, 479, "trovador desanimado", "", 140, 86}
+, 
+{"comodo", 20613, 101, 724, "canella", "qsk_dan01", 204, 172}
+, 
+{"comodo", 20700, 101, 730, "mestre andarilho", "job_star", 172, 230}
+, 
+{"comodo", 20963, 101, 86, "muff", "", 224, 187}
+, 
+{"comodo", 20982, 101, 881, "homem escondido", "nd", 339, 224}
+, 
+{"comodo", 20983, 101, 742, "sábio", "", 139, 184}
+, 
+{"comodo", 20993, 101, 810, "agente da guilda", "nd3", 233, 199}
+, 
+{"comodo", 21134, 101, 729, "oficial do Éden", "17", 202, 151}
+, 
+{"comodo", 21224, 101, 55, "membro do grupo Éden", "2nd02", 173, 354}
+, 
+{"dali", 11646, 102, 496, "gato negociante", "dari01", 109, 94}
+, 
+{"dali", 11647, 101, 496, "gato do armazém", "dari02", 112, 95}
+, 
+{"dew_dun01", 16724, 101, 541, "guardião do vulcão krakatau", "dew_dun01", 292, 164}
+, 
+{"dew_fild01", 16662, 101, 541, "guerreiro da tribo jaty", "dew_fild01", 78, 288}
+, 
+{"dew_fild01", 16663, 101, 541, "intendente da tribo", "dew_fild01", 185, 300}
+, 
+{"dew_fild01", 16718, 101, 541, "guardião da tribo jaty", "dew_fild01", 101, 259}
+, 
+{"dew_fild01", 16719, 101, 541, "guerreiro recluso", "dew_fild01", 106, 306}
+, 
+{"dew_fild01", 16726, 101, 813, "gatti", "weapon", 127, 240}
+, 
+{"dewata", 16664, 101, 534, "guardião do vulcão krakatau", "dewata", 235, 56}
+, 
+{"dewata", 16669, 101, 536, "supervisor do templo borobudur", "dewata", 78, 192}
+, 
+{"dewata", 16676, 101, 536, "jovem dos cocos", "dewaduck1", 221, 237}
+, 
+{"dewata", 16677, 101, 536, "garoto preguiçoso", "dewaduck2", 114, 243}
+, 
+{"dewata", 16678, 101, 881, "nasolo", "dewaduck3", 159, 81}
+, 
+{"dewata", 16679, 101, 886, "sr. dwi oblo", "dewaduck4", 146, 109}
+, 
+{"dewata", 16680, 101, 85, "rustam", "dewaduck5", 147, 107}
+, 
+{"dewata", 16681, 101, 86, "turista de passagem", "dewaduck6", 154, 107}
+, 
+{"dewata", 16682, 101, 536, "guia turístico", "dewaduck7", 95, 203}
+, 
+{"dewata", 16683, 101, 803, "waldo", "A", 97, 207}
+, 
+{"dewata", 16684, 101, 59, "turista", "B", 100, 206}
+, 
+{"dewata", 16685, 101, 90, "turista", "C", 101, 206}
+, 
+{"dewata", 16686, 101, 755, "turista", "D", 99, 203}
+, 
+{"dewata", 16687, 101, 834, "puwong", "A", 67, 186}
+, 
+{"dewata", 16688, 101, 834, "touwang", "B", 65, 188}
+, 
+{"dewata", 16689, 101, 834, "rinung", "C", 63, 190}
+, 
+{"dewata", 16690, 101, 834, "baawang", "D", 62, 192}
+, 
+{"dewata", 16691, 101, 834, "monge calmo", "TowerA", 75, 122}
+, 
+{"dewata", 16692, 101, 834, "monge budista", "TowerB", 69, 101}
+, 
+{"dewata", 16693, 101, 834, "monge", "TowerC", 71, 79}
+, 
+{"dewata", 16694, 101, 534, "sr. jiawang", "dewaduck8", 211, 272}
+, 
+{"dewata", 16695, 101, 536, "sr. dingwan", "dewaduck9", 245, 244}
+, 
+{"dewata", 16696, 101, 828, "casal adorável", "Husband", 233, 263}
+, 
+{"dewata", 16697, 101, 727, "casal adorável", "Wife", 234, 263}
+, 
+{"dewata", 16698, 101, 887, "josho", "dewaduck11", 279, 213}
+, 
+{"dewata", 16699, 101, 538, "diwing", "dewaduck12", 269, 208}
+, 
+{"dewata", 16700, 101, 538, "sarr", "dewaduck13", 227, 129}
+, 
+{"dewata", 16701, 101, 539, "siyak", "dewaduck14", 239, 140}
+, 
+{"dewata", 16702, 101, 538, "sipo", "dewaduck15", 193, 145}
+, 
+{"dewata", 16703, 101, 538, "majya", "dewaduck16", 228, 177}
+, 
+{"dewata", 16704, 101, 703, "ukki", "dewaduck17", 278, 100}
+, 
+{"dewata", 16705, 101, 101, "mãe", "dewaduck18", 249, 87}
+, 
+{"dewata", 16706, 101, 97, "pai", "dewaduck19", 251, 85}
+, 
+{"dewata", 16707, 101, 534, "vov\244 jwang", "dewata", 278, 281}
+, 
+{"dewata", 16708, 101, 534, "aventureiro semangatt", "dewata", 165, 103}
+, 
+{"dewata", 16709, 101, 535, "vov\243 karing", "dewata", 280, 277}
+, 
+{"dewata", 16710, 101, 535, "esposa do aventureiro", "dewata", 139, 114}
+, 
+{"dewata", 16711, 101, 536, "jovem em dewata", "dewata", 181, 88}
+, 
+{"dewata", 16712, 101, 537, "jovenzinha", "dewata", 179, 204}
+, 
+{"dewata", 16713, 101, 726, "ex-viajante", "dewata", 280, 236}
+, 
+{"dewata", 16714, 101, 537, "mulher de dieta", "dewata", 204, 230}
+, 
+{"dewata", 16715, 101, 538, "jovem sonhador", "dewata", 117, 156}
+, 
+{"dewata", 16716, 101, 538, "desiring kid", "dewata", 144, 216}
+, 
+{"dewata", 16717, 101, 539, "criança persistente", "dewata", 127, 248}
+, 
+{"dewata", 16722, 101, 536, "marinheiro de alberta", "dewata", 229, 49}
+, 
+{"dewata", 16927, 102, 536, "vendedor de armas", "", 218, 164}
+, 
+{"dewata", 16928, 102, 536, "vendedor de ferramentas", "", 182, 164}
+, 
+{"dewata", 16929, 102, 535, "vendedora de frutas", "", 145, 267}
+, 
+{"dewata", 16930, 102, 536, "vendedor de armaduras", "", 158, 182}
+, 
+{"dewata", 17040, 101, 537, "guia de dewata", "dewata", 202, 106}
+, 
+{"dewata", 17041, 101, 537, "guia de dewata", "dewata2", 197, 184}
+, 
+{"dewata", 17166, 101, 117, "funcionária kafra", "dewata", 202, 184}
+, 
+{"dewata", 21156, 101, 729, "oficial do Éden", "28", 182, 179}
+, 
+{"dic_dun01", 12303, 101, 450, "vigilante sujo", "ep13_3", 284, 102}
+, 
+{"dic_dun01", 12305, 101, 449, "manuk curioso", "seller", 266, 113}
+, 
+{"dic_dun01", 12493, 101, 450, "vigilante", "ep133_23", 286, 104}
+, 
+{"dic_dun01", 12495, 101, 492, "vigilante", "ep133_23", 294, 106}
+, 
+{"dic_dun01", 12497, 101, 492, "vigilante", "ep133_26", 30, 216}
+, 
+{"dic_dun01", 12551, 101, 490, "brian", "13_3", 205, 43}
+, 
+{"dic_dun02", 12554, 101, 489, "rose", "13_3", 111, 127}
+, 
+{"dic_fild01", 11734, 101, 421, "gato do teleporte no.6", "", 161, 266}
+, 
+{"dic_fild01", 12427, 101, 496, "jahbong", "pa0829", 228, 159}
+, 
+{"dic_fild01", 12428, 101, 421, "agente pata de gato", "04pa0829", 232, 189}
+, 
+{"dic_fild01", 12430, 101, 495, "jalapeño", "pa0829", 240, 198}
+, 
+{"dic_fild01", 12431, 101, 495, "mancho", "pa0829", 251, 183}
+, 
+{"dic_fild01", 12432, 101, 495, "brare", "pa0829", 259, 172}
+, 
+{"dic_fild01", 12476, 101, 492, "capital guard", "ep133_10", 146, 281}
+, 
+{"dic_fild01", 12479, 101, 450, "capital guard", "ep133_10", 153, 281}
+, 
+{"dic_fild01", 12492, 101, 496, "b. k.", "ep133_18", 231, 174}
+, 
+{"dic_fild02", 11637, 101, 10007, "dispositivo el dicastes", "gate04", 241, 31}
+, 
+{"dic_fild02", 11639, 101, 852, "guia da fissura", "gk07", 236, 33}
+, 
+{"dic_fild02", 11640, 101, 852, "guia da fissura", "gk08", 239, 36}
+, 
+{"dic_in01", 12433, 101, 460, "kareka", "pa0829", 353, 37}
+, 
+{"dic_in01", 12434, 101, 453, "papyrus", "0001", 40, 193}
+, 
+{"dic_in01", 12436, 101, 449, "gerente de caça", "pa0829", 48, 263}
+, 
+{"dic_in01", 12438, 101, 449, "2\186 gerente - caça", "pa0829", 51, 266}
+, 
+{"dic_in01", 12440, 101, 449, "gerente de suprimentos", "pa0829", 51, 270}
+, 
+{"dic_in01", 12442, 101, 449, "2\186 gerente - suprimentos", "pa0829", 48, 273}
+, 
+{"dic_in01", 12444, 101, 449, "gerente de transportes", "pa0829", 43, 273}
+, 
+{"dic_in01", 12446, 101, 449, "2\186 gerente - transportes", "pa0829", 40, 270}
+, 
+{"dic_in01", 12482, 101, 453, "adventurer processor", "ep133_12", 42, 264}
+, 
+{"dic_in01", 12509, 101, 491, "mineiro cansado", "a", 341, 113}
+, 
+{"dic_in01", 12511, 101, 455, "mineiro cansado", "b", 149, 104}
+, 
+{"dic_in01", 12517, 101, 490, "mineiro falante", "a", 335, 34}
+, 
+{"dic_in01", 12518, 101, 454, "mineiro de manuk", "a", 387, 30}
+, 
+{"dic_in01", 12519, 101, 491, "piom\227, o cansado", "c", 168, 116}
+, 
+{"dic_in01", 12520, 101, 490, "mineiro alegre", "a", 372, 116}
+, 
+{"dic_in01", 12521, 101, 449, "venknick sério", "", 360, 125}
+, 
+{"dic_in01", 12522, 101, 489, "mineiro amedrontado", "a", 98, 110}
+, 
+{"dic_in01", 12523, 101, 489, "mineiro desconfiado", "a", 91, 113}
+, 
+{"dic_in01", 12524, 101, 492, "garton perdido", "a", 98, 96}
+, 
+{"dic_in01", 12525, 101, 454, "piom descansando", "01", 87, 102}
+, 
+{"dic_in01", 12526, 101, 489, "piom descansando", "04", 29, 119}
+, 
+{"dic_in01", 12527, 101, 449, "venknick", "el_01", 32, 54}
+, 
+{"dic_in01", 12528, 101, 492, "garton impaciente", "in_1", 349, 282}
+, 
+{"dic_in01", 12529, 101, 492, "garton impaciente", "in_2", 370, 261}
+, 
+{"dic_in01", 12530, 101, 492, "garton sonolento", "in_3", 381, 261}
+, 
+{"dic_in01", 12531, 101, 492, "garton paciente", "in_4", 370, 282}
+, 
+{"dic_in01", 12532, 101, 492, "garton descansando", "in_5", 354, 219}
+, 
+{"dic_in01", 12533, 101, 492, "garton descansando", "in_6", 365, 197}
+, 
+{"dic_in01", 12534, 101, 489, "guia dior", "diel_1", 42, 250}
+, 
+{"dic_in01", 12535, 101, 711, "aventureiro faminto", "tre", 252, 103}
+, 
+{"dic_in01", 16924, 102, 900, "peddler", "dic", 238, 107}
+, 
+{"dicastes01", 12435, 101, 453, "laponte", "pa0829", 187, 230}
+, 
+{"dicastes01", 12437, 101, 453, "kalipo", "pa0829", 175, 217}
+, 
+{"dicastes01", 12439, 101, 453, "pura", "pa0829", 208, 230}
+, 
+{"dicastes01", 12441, 101, 453, "tragis", "pa0829", 225, 211}
+, 
+{"dicastes01", 12443, 101, 453, "calyon", "pa0829", 223, 190}
+, 
+{"dicastes01", 12445, 101, 453, "moltuka", "pa0829", 211, 178}
+, 
+{"dicastes01", 12484, 101, 449, "strolling nit", "ep133_15", 207, 210}
+, 
+{"dicastes01", 12485, 101, 491, "resting peom", "ep133_16", 112, 248}
+, 
+{"dicastes01", 12486, 101, 450, "garton treinador", "ep133_17", 249, 140}
+, 
+{"dicastes01", 12500, 101, 449, "venknick, o louco", "fihsing1-1", 202, 197}
+, 
+{"dicastes01", 12501, 101, 450, "garton reclamão", "fihsing1-2", 191, 202}
+, 
+{"dicastes01", 12502, 101, 450, " garton treinador", "ÈÆ·ÃÀå01", 234, 158}
+, 
+{"dicastes01", 12503, 101, 450, " garton treinador", "ÈÆ·ÃÀå02", 244, 166}
+, 
+{"dicastes01", 12504, 101, 450, " garton treinador", "ÈÆ·ÃÀå03", 272, 166}
+, 
+{"dicastes01", 12505, 101, 450, " garton treinador", "ÈÆ·ÃÀå04", 248, 129}
+, 
+{"dicastes01", 12506, 101, 450, " garton treinador", "ÈÆ·ÃÀå05", 271, 152}
+, 
+{"dicastes01", 12507, 101, 450, "sentinela", "a", 202, 86}
+, 
+{"dicastes01", 12508, 101, 450, "sentinela", "b", 193, 86}
+, 
+{"dicastes01", 12510, 101, 492, "garton exaltado", "a", 194, 166}
+, 
+{"dicastes01", 12512, 101, 489, "mineiro manco", "a", 164, 180}
+, 
+{"dicastes01", 12513, 101, 490, "mineiro exaltado", "a", 235, 245}
+, 
+{"dicastes01", 12514, 101, 453, "atendente favorecido", "a", 284, 262}
+, 
+{"dicastes01", 12515, 101, 453, "escrivão livre", "a", 282, 208}
+, 
+{"dicastes01", 12516, 101, 449, "venknick livre", "a", 246, 210}
+, 
+{"dicastes01", 12549, 101, 455, "frede", "13_3", 117, 262}
+, 
+{"dicastes01", 12640, 101, 402, "engenheiro mecatrônico", "Dicastes", 187, 207}
+, 
+{"dicastes01", 17031, 101, 481, "traveler ichack", "info", 189, 191}
+, 
+{"dicastes01", 20529, 101, 105, "soldado de el dicastes", "", 187, 200}
+, 
+{"e_tower", 21247, 101, 406, "tower protection stone", "", 81, 105}
+, 
+{"e_tower", 21250, 101, 406, "pedra purificadora", "102tower", 69, 117}
+, 
+{"ecl_fild01", 11711, 101, 421, "gato do teleporte no.1", "", 118, 311}
+, 
+{"ecl_in01", 11319, 101, 10007, "círculo de fogo", "143_1", 38, 98}
+, 
+{"ecl_in01", 11321, 101, 620, "estudante armandi", "143_2", 35, 89}
+, 
+{"ecl_in01", 11322, 101, 611, "estudante lemony", "143_3", 37, 90}
+, 
+{"ecl_in01", 11330, 101, 447, "guarda de eclage", "143_6", 40, 96}
+, 
+{"ecl_in01", 11686, 101, 445, "replicador paltu", "", 67, 39}
+, 
+{"ecl_in01", 11803, 101, 436, "mercadora naphara", "ecl", 66, 95}
+, 
+{"ecl_in01", 11804, 101, 436, "especialista nattuer", "ecl", 64, 97}
+, 
+{"ecl_in01", 11805, 101, 443, "mercador de ervas", "ecl", 33, 98}
+, 
+{"ecl_in02", 11793, 101, 835, "placa", "prison_inn", 96, 22}
+, 
+{"ecl_in02", 11796, 101, 437, "receptionista", "Laphine", 164, 56}
+, 
+{"ecl_in02", 11797, 101, 441, "esplêndido ferido", "", 135, 45}
+, 
+{"ecl_in02", 11798, 101, 442, "esplêndido médico", "Médico", 137, 44}
+, 
+{"ein_in01", 15735, 101, 851, "teinz", "", 113, 211}
+, 
+{"ein_in01", 15736, 101, 851, "lowe", "", 48, 220}
+, 
+{"ein_in01", 15737, 101, 850, "dinje", "", 87, 237}
+, 
+{"ein_in01", 15738, 101, 851, "tsuen", "", 84, 218}
+, 
+{"ein_in01", 15739, 101, 849, "gesin", "", 103, 239}
+, 
+{"ein_in01", 15740, 101, 848, "pevtatin", "", 33, 275}
+, 
+{"ein_in01", 15741, 101, 851, "rombell", "", 36, 204}
+, 
+{"ein_in01", 15742, 101, 855, "vonstein", "", 64, 271}
+, 
+{"ein_in01", 15743, 101, 851, "dorf", "", 49, 202}
+, 
+{"ein_in01", 15744, 101, 852, "khashurantze", "", 68, 209}
+, 
+{"ein_in01", 15746, 101, 851, "zherin", "", 85, 261}
+, 
+{"ein_in01", 15747, 101, 852, "canphotii", "", 43, 252}
+, 
+{"ein_in01", 15753, 101, 855, "funcionário do hotel", "", 206, 224}
+, 
+{"ein_in01", 15773, 101, 851, "cendadt", "", 31, 217}
+, 
+{"ein_in01", 15774, 101, 854, "moça da taverna", "", 279, 92}
+, 
+{"ein_in01", 15775, 101, 855, "ryan danger", "air#einbech_bar", 277, 95}
+, 
+{"ein_in01", 15776, 101, 849, "bêbado", "einbech_bar", 281, 85}
+, 
+{"ein_in01", 15779, 101, 853, "megass", "", 21, 147}
+, 
+{"ein_in01", 15789, 101, 855, "decii", "", 208, 86}
+, 
+{"ein_in01", 15790, 101, 849, "supineque", "", 192, 90}
+, 
+{"ein_in01", 16584, 101, 724, "jovem odalisca", "sch", 174, 266}
+, 
+{"ein_in01", 16585, 101, 724, "odalisca animada", "sch", 172, 266}
+, 
+{"ein_in01", 16586, 101, 724, "odalisca adulta", "sch", 170, 266}
+, 
+{"ein_in01", 16588, 101, 903, "gerente do hotel", "sch", 279, 221}
+, 
+{"ein_in01", 16589, 101, 904, "empregado", "sch", 166, 282}
+, 
+{"ein_in01", 16590, 101, 109, "executivo", "", 181, 284}
+, 
+{"ein_in01", 16591, 101, 920, "diplomata", "", 181, 285}
+, 
+{"ein_in01", 16592, 101, 109, "executivo", "sch", 168, 274}
+, 
+{"ein_in01", 16593, 101, 920, "diplomata", "sch", 170, 284}
+, 
+{"ein_in01", 16838, 102, 850, "vendedor de ferramentas", "", 189, 15}
+, 
+{"ein_in01", 16839, 102, 850, "vendedora de armas de uma m?", "", 106, 27}
+, 
+{"ein_in01", 16840, 102, 850, "vendedora de armas de duas m?s", "", 109, 27}
+, 
+{"ein_in01", 16863, 102, 855, "vendedor de armas", "", 119, 26}
+, 
+{"ein_in01", 19889, 101, 84, "matistein", "", 18, 82}
+, 
+{"ein_in01", 19890, 101, 86, "tireyhas", "", 15, 87}
+, 
+{"ein_in01", 19891, 101, 826, "mantasman", "", 24, 87}
+, 
+{"ein_in01", 20145, 101, 731, "mestre ferreiro", "BLS", 18, 28}
+, 
+{"ein_in01", 20146, 101, 63, "mestre ferreiro", "alberta", 201, 27}
+, 
+{"ein_in01", 20152, 101, 726, "mestre ferreiro", "moc", 24, 41}
+, 
+{"ein_in01", 20155, 101, 63, "paul spanner", "", 38, 29}
+, 
+{"einbech", 15606, 101, 847, "cavitar", "", 97, 167}
+, 
+{"einbech", 15687, 101, 855, "jovem", "ein_main", 57, 210}
+, 
+{"einbech", 15688, 101, 846, "shena", "", 46, 107}
+, 
+{"einbech", 15689, 101, 850, "luda", "", 48, 107}
+, 
+{"einbech", 15690, 101, 855, "jung", "", 148, 242}
+, 
+{"einbech", 15691, 101, 851, "franz", "", 148, 246}
+, 
+{"einbech", 15719, 101, 855, "nemuk", "", 172, 113}
+, 
+{"einbech", 15720, 101, 855, "jovem", "air", 197, 139}
+, 
+{"einbech", 15721, 101, 848, "mogan", "", 128, 238}
+, 
+{"einbech", 15722, 101, 848, "hander", "", 129, 234}
+, 
+{"einbech", 15723, 101, 848, "gushenmu", "", 105, 218}
+, 
+{"einbech", 15724, 101, 852, "funcionário da estação de trem", "ein-3", 39, 215}
+, 
+{"einbech", 15726, 101, 852, "gerente da estação de trem", "ein", 157, 215}
+, 
+{"einbech", 15731, 101, 855, "tollaf", "", 151, 168}
+, 
+{"einbech", 15732, 101, 847, "raust", "", 93, 139}
+, 
+{"einbech", 15733, 101, 850, "mjunia", "", 149, 154}
+, 
+{"einbech", 15734, 101, 848, "ekuri", "", 130, 253}
+, 
+{"einbech", 15751, 101, 852, "guia", "", 67, 37}
+, 
+{"einbech", 15752, 101, 852, "guia", "", 48, 214}
+, 
+{"einbech", 15754, 101, 858, "quadro de avisos", "einbech11", 135, 250}
+, 
+{"einbech", 15755, 101, 858, "quadro de avisos", "einbech22", 90, 214}
+, 
+{"einbech", 15756, 101, 858, "quadro de avisos", "einbech33", 158, 189}
+, 
+{"einbech", 15757, 101, 858, "quadro de avisos", "einbech44", 180, 136}
+, 
+{"einbech", 15758, 101, 858, "quadro de avisos", "einbech55", 133, 114}
+, 
+{"einbech", 15759, 101, 858, "quadro de avisos", "einbech01", 77, 105}
+, 
+{"einbech", 15760, 101, 858, "quadro de avisos", "einbech03", 181, 127}
+, 
+{"einbech", 15786, 101, 854, "catzllanpu", "", 216, 118}
+, 
+{"einbech", 15788, 101, 850, "ellhenje", "", 176, 125}
+, 
+{"einbech", 16105, 101, 851, " boomer ", "", 208, 124}
+, 
+{"einbech", 17011, 101, 91, "metelle", "", 70, 222}
+, 
+{"einbech", 17154, 101, 860, "funcionária kafra", "ein3", 181, 132}
+, 
+{"einbroch", 12991, 101, 109, "agente vip", "", 235, 207}
+, 
+{"einbroch", 14939, 101, 91, "assistente do aeroplano", "ein01", 94, 267}
+, 
+{"einbroch", 15607, 101, 85, "uwe kleine", "", 215, 180}
+, 
+{"einbroch", 15684, 101, 852, "soldado do laboratório", "ein-1", 51, 46}
+, 
+{"einbroch", 15685, 101, 852, "soldado do laboratório", "ein-2", 51, 56}
+, 
+{"einbroch", 15695, 101, 854, "morei", "", 175, 196}
+, 
+{"einbroch", 15699, 101, 855, "oberu", "", 173, 229}
+, 
+{"einbroch", 15702, 101, 855, "khemko", "", 176, 172}
+, 
+{"einbroch", 15709, 101, 846, "passageira", "ein_1", 259, 326}
+, 
+{"einbroch", 15710, 101, 855, "jovem", "ein", 236, 191}
+, 
+{"einbroch", 15711, 101, 855, "pequeno toby", "ein-1", 228, 121}
+, 
+{"einbroch", 15712, 101, 855, "engenheiro do aeroplano", "ein-1", 40, 116}
+, 
+{"einbroch", 15713, 101, 854, "centzu", "", 294, 312}
+, 
+{"einbroch", 15714, 101, 847, "khowropher", "", 232, 255}
+, 
+{"einbroch", 15715, 101, 855, "khetine", "", 143, 109}
+, 
+{"einbroch", 15716, 101, 854, "sleik", "", 229, 149}
+, 
+{"einbroch", 15748, 101, 852, "guia", "ein", 72, 202}
+, 
+{"einbroch", 15749, 101, 852, "guia", "", 155, 43}
+, 
+{"einbroch", 15750, 101, 852, "guia", "", 162, 317}
+, 
+{"einbroch", 15761, 101, 858, "quadro de avisos", "", 244, 255}
+, 
+{"einbroch", 15762, 101, 858, "quadro de avisos", "", 253, 203}
+, 
+{"einbroch", 15763, 101, 858, "quadro de avisos", "", 68, 206}
+, 
+{"einbroch", 15764, 101, 858, "quadro de avisos", "einbroch03", 90, 84}
+, 
+{"einbroch", 15765, 101, 858, "quadro de avisos", "einbroch04", 101, 106}
+, 
+{"einbroch", 15766, 101, 858, "quadro de avisos", "einbroch05", 220, 208}
+, 
+{"einbroch", 15767, 101, 858, "quadro de avisos", "einbroch06", 132, 76}
+, 
+{"einbroch", 15768, 101, 858, "quadro de avisos", "einbroch11", 152, 46}
+, 
+{"einbroch", 15769, 101, 858, "quadro de avisos", "einbroch22", 235, 141}
+, 
+{"einbroch", 15770, 101, 858, "quadro de avisos", "einbroch33", 162, 256}
+, 
+{"einbroch", 15771, 101, 858, "quadro de avisos", "einbroch44", 183, 174}
+, 
+{"einbroch", 15772, 101, 858, "quadro de avisos", "einbroch55", 104, 202}
+, 
+{"einbroch", 15785, 101, 855, "keneshiotz", "", 188, 72}
+, 
+{"einbroch", 15787, 101, 850, "kesunboss", "", 208, 208}
+, 
+{"einbroch", 16841, 102, 850, "vendedora de m?caras", "ein", 138, 66}
+, 
+{"einbroch", 16842, 102, 855, "remador profissional", "ein", 82, 199}
+, 
+{"einbroch", 16879, 102, 83, "cozinheiro auxiliar", "", 224, 207}
+, 
+{"einbroch", 16916, 102, 49, "pe?s para m.e.c.h.a.", "", 122, 250}
+, 
+{"einbroch", 17152, 101, 861, "funcionária kafra", "ein1", 59, 203}
+, 
+{"einbroch", 17153, 101, 860, "funcionária kafra", "ein2", 242, 205}
+, 
+{"einbroch", 21140, 101, 729, "oficial do Éden", "20", 250, 211}
+, 
+{"force_4-1", 15466, 101, 124, "octusa", "arena", 99, 20}
+, 
+{"gef_fild05", 13353, 101, 877, "myu", "08_hat", 80, 149}
+, 
+{"gef_fild07", 12574, 101, 1012, "roda frog", "Frog_Cap", 108, 161}
+, 
+{"gef_fild08", 19980, 101, 836, "quadro de avisos", "kobold2", 211, 24}
+, 
+{"gef_fild09", 19977, 101, 835, "quadro de avisos", "orcvillage1", 227, 29}
+, 
+{"gef_fild10", 17128, 101, 116, "funcionária kafra", "", 73, 340}
+, 
+{"gef_fild10", 19976, 101, 837, "quadro de avisos", "orcdungeon", 69, 340}
+, 
+{"gef_fild10", 19981, 101, 836, "quadro de avisos", "goblin1", 109, 23}
+, 
+{"gef_fild10", 21741, 101, 406, "altar dimensional", "", 242, 202}
+, 
+{"gef_fild10", 21742, 101, 865, "cientista maluco", "", 238, 202}
+, 
+{"gef_fild13", 12034, 101, 549, "meraq", "", 187, 208}
+, 
+{"gef_fild13", 12035, 101, 421, "gerente do portal", "gef_f00", 189, 206}
+, 
+{"gef_fild13", 12037, 101, 857, "placa de investimentos", "fund01", 190, 209}
+, 
+{"gef_fild13", 19148, 101, 722, "arsulf", "", 148, 51}
+, 
+{"gef_fild13", 19149, 101, 722, "arsulf", "", 155, 54}
+, 
+{"gef_fild13", 19150, 101, 722, "arsulf", "", 212, 79}
+, 
+{"gef_fild13", 19151, 101, 722, "arsulf", "", 211, 71}
+, 
+{"gef_fild13", 19152, 101, 722, "trapesac", "", 303, 243}
+, 
+{"gef_fild13", 19153, 101, 722, "trapesac", "", 312, 243}
+, 
+{"gef_fild13", 19154, 101, 722, "trapesac", "", 290, 243}
+, 
+{"gef_fild13", 19155, 101, 722, "trapesac", "", 324, 243}
+, 
+{"gef_fild13", 19156, 101, 722, "ruaden", "", 78, 182}
+, 
+{"gef_fild13", 19157, 101, 722, "ruaden", "", 87, 182}
+, 
+{"gef_fild13", 19158, 101, 722, "ruaden", "", 73, 295}
+, 
+{"gef_fild13", 19159, 101, 722, "ruaden", "", 113, 274}
+, 
+{"gef_fild13", 19160, 101, 722, "ruaden", "", 144, 235}
+, 
+{"gef_fild13", 19161, 101, 722, "ruaden", "", 144, 244}
+, 
+{"gef_fild13", 19162, 101, 722, "saffran", "", 190, 283}
+, 
+{"gef_fild13", 19163, 101, 722, "saffran", "", 199, 274}
+, 
+{"gef_fild13", 19164, 101, 722, "arima", "", 302, 87}
+, 
+{"gef_fild13", 19165, 101, 722, "arima", "", 313, 83}
+, 
+{"gef_fild13", 19166, 101, 722, "arima", "", 252, 51}
+, 
+{"gef_fild13", 19978, 101, 835, "quadro de avisos", "orcvillage2", 202, 31}
+, 
+{"gef_fild13", 19979, 101, 836, "quadro de avisos", "kobold1", 29, 206}
+, 
+{"gef_fild13", 20611, 101, 751, "soldier", "277", 297, 242}
+, 
+{"gef_tower", 16968, 101, 64, "homem irritado", "", 118, 36}
+, 
+{"gef_tower", 19959, 101, 837, "quadro de avisos", "gefdun", 55, 142}
+, 
+{"gef_tower", 20176, 101, 81, "cão branco", "", 107, 36}
+, 
+{"gef_tower", 20519, 101, 700, "vendedora de pontos", "Sorcerer", 105, 172}
+, 
+{"gef_tower", 20692, 101, 876, "miau", "", 115, 36}
+, 
+{"geffen", 10078, 101, 97, "kantina", "2016xmas", 45, 154}
+, 
+{"geffen", 10089, 101, 68, "filial de geffen", "2016xmas", 133, 200}
+, 
+{"geffen", 12225, 101, 553, "dolangmal", "geffen", 109, 61}
+, 
+{"geffen", 12625, 101, 57, "oliveira", "bindepend", 195, 124}
+, 
+{"geffen", 12631, 101, 506, "buzzy bol machine", "01", 127, 64}
+, 
+{"geffen", 12635, 101, 402, "engenheiro mecatrônico", "Geffen", 103, 55}
+, 
+{"geffen", 12984, 101, 109, "agente vip", "", 126, 64}
+, 
+{"geffen", 14285, 101, 91, "senhora", "", 59, 143}
+, 
+{"geffen", 14286, 101, 82, "jovem", "", 156, 190}
+, 
+{"geffen", 14288, 101, 97, "jovem", "", 147, 26}
+, 
+{"geffen", 14289, 101, 101, "senhora", "", 111, 48}
+, 
+{"geffen", 14292, 101, 99, "desconhecido", "", 146, 148}
+, 
+{"geffen", 14316, 101, 700, "nia", "yagu", 122, 77}
+, 
+{"geffen", 15167, 101, 116, "funcionária de votação kafra ", "geffen", 122, 37}
+, 
+{"geffen", 15202, 101, 874, "funcionário de votação eventos incríveis", "geffen", 117, 37}
+, 
+{"geffen", 16786, 102, 124, "adestrador", "", 193, 152}
+, 
+{"geffen", 16873, 102, 85, "cozinheiro auxiliar", "", 196, 111}
+, 
+{"geffen", 16993, 101, 700, "ayeepu", "", 67, 87}
+, 
+{"geffen", 17001, 101, 716, "sanshee", "", 83, 189}
+, 
+{"geffen", 17002, 101, 779, "aeroken", "", 129, 148}
+, 
+{"geffen", 17080, 101, 115, "funcionária kafra", "", 120, 62}
+, 
+{"geffen", 17085, 101, 114, "funcionária kafra", "", 203, 123}
+, 
+{"geffen", 19228, 101, 722, "trapesac", "", 112, 129}
+, 
+{"geffen", 19229, 101, 722, "ruaden", "", 120, 132}
+, 
+{"geffen", 19230, 101, 722, "saffran", "", 127, 130}
+, 
+{"geffen", 19231, 101, 722, "arima", "", 131, 123}
+, 
+{"geffen", 19539, 101, 92, "dona risadinha", "", 119, 107}
+, 
+{"geffen", 19933, 101, 97, "cidadão", "", 203, 146}
+, 
+{"geffen", 19950, 101, 51, "bardo", "2", 132, 38}
+, 
+{"geffen", 19958, 101, 837, "quadro de avisos", "geffen", 124, 65}
+, 
+{"geffen", 19997, 101, 85, "mercador", "geff", 173, 88}
+, 
+{"geffen", 20524, 101, 105, "domador de feras", "", 100, 55}
+, 
+{"geffen", 20690, 101, 726, "akkie", "", 178, 72}
+, 
+{"geffen", 20691, 101, 826, "goodman", "", 172, 52}
+, 
+{"geffen", 20784, 101, 709, "tetsu", "gungun", 63, 70}
+, 
+{"geffen", 21106, 101, 729, "oficial do Éden", "3", 132, 66}
+, 
+{"geffen", 21218, 101, 906, "ancellia", "", 146, 132}
+, 
+{"geffen", 21315, 101, 728, "emissária de maroll", "", 109, 66}
+, 
+{"geffen_in", 14287, 101, 64, "bruxo sombrio", "", 164, 109}
+, 
+{"geffen_in", 14290, 101, 47, "jovem", "", 34, 170}
+, 
+{"geffen_in", 14291, 101, 63, "christopher", "", 110, 172}
+, 
+{"geffen_in", 14293, 101, 52, "beberrão", "", 22, 125}
+, 
+{"geffen_in", 14294, 101, 61, "beberrão", "", 59, 61}
+, 
+{"geffen_in", 14295, 101, 91, "garçonete", "", 27, 134}
+, 
+{"geffen_in", 14296, 101, 90, "arrumadeira", "", 70, 67}
+, 
+{"geffen_in", 14297, 101, 120, "merc. daiven", "", 79, 76}
+, 
+{"geffen_in", 14298, 101, 709, "mercador de schuvaltzbalt", "", 114, 73}
+, 
+{"geffen_in", 14299, 101, 704, "amigo da juventude", "", 39, 127}
+, 
+{"geffen_in", 14300, 101, 90, "perito em monstros", "", 109, 72}
+, 
+{"geffen_in", 14301, 101, 53, "empregada da estalagem", "", 70, 64}
+, 
+{"geffen_in", 14641, 101, 731, "ferreiro", "", 71, 112}
+, 
+{"geffen_in", 14645, 101, 716, "garota", "", 106, 106}
+, 
+{"geffen_in", 16780, 102, 68, "vendedor de ferramentas", "", 77, 167}
+, 
+{"geffen_in", 16781, 102, 64, "vendedor m?ico", "", 77, 173}
+, 
+{"geffen_in", 16782, 102, 66, "vendedor de armaduras", "", 26, 178}
+, 
+{"geffen_in", 16783, 102, 47, "vendedor de armas", "", 30, 178}
+, 
+{"geffen_in", 16784, 102, 66, "vendedora", "", 74, 144}
+, 
+{"geffen_in", 16785, 102, 64, "vendedor de ferramentas", "", 171, 123}
+, 
+{"geffen_in", 16868, 102, 84, "vendedor de armas", "", 22, 171}
+, 
+{"geffen_in", 19517, 101, 63, "ferreiro", "", 144, 166}
+, 
+{"geffen_in", 19525, 101, 83, "zenhizha", "", 30, 71}
+, 
+{"geffen_in", 19860, 101, 64, "o grande mago", "", 151, 119}
+, 
+{"geffen_in", 19944, 101, 99, "restaurador", "", 34, 166}
+, 
+{"geffen_in", 20003, 101, 123, "instrutora", "", 164, 124}
+, 
+{"geffen_in", 21116, 101, 729, "oficial do Éden", "8", 160, 104}
+, 
+{"gl_prison1", 17008, 101, 1200, "zealotus", "hat", 137, 138}
+, 
+{"gl_prison1", 17009, 101, 1202, "phendark", "hat", 97, 104}
+, 
+{"gl_prison1", 17010, 101, 1201, "rybio", "hat", 100, 48}
+, 
+{"glast_01", 19988, 101, 837, "quadro de avisos", "castle", 369, 308}
+, 
+{"glast_01", 21226, 101, 95, "membro do grupo do Éden", "2nd03", 195, 131}
+, 
+{"gon_fild01", 19915, 101, 776, "anunciante de kunlun", "", 255, 79}
+, 
+{"gon_fild01", 19917, 101, 776, "anunciante de kunlun", "", 187, 239}
+, 
+{"gon_in", 14632, 101, 774, "kuha woo", "", 173, 27}
+, 
+{"gon_in", 14636, 101, 702, "anfitri\227 ", "", 152, 35}
+, 
+{"gon_in", 14638, 101, 771, "madame", "", 18, 27}
+, 
+{"gon_test", 14658, 101, 774, "conjurador", "", 42, 89}
+, 
+{"gon_test", 14659, 101, 770, "guia da batalha", "", 46, 14}
+, 
+{"gon_test", 14662, 101, 773, "chowan an", "", 70, 103}
+, 
+{"gonryun", 12570, 101, 50, "yotang", "Flower_Of_Fairy", 149, 189}
+, 
+{"gonryun", 13000, 101, 109, "agente vip", "", 156, 122}
+, 
+{"gonryun", 14624, 101, 776, "yunkyo ham", "", 237, 226}
+, 
+{"gonryun", 14625, 101, 774, "sungson gam", "", 200, 82}
+, 
+{"gonryun", 14626, 101, 776, "joonpo lyang", "", 268, 88}
+, 
+{"gonryun", 14627, 101, 89, "wonsuk chen", "", 118, 111}
+, 
+{"gonryun", 14628, 101, 773, "moonjin chung", "", 181, 161}
+, 
+{"gonryun", 14629, 101, 780, "guardião", "gon", 113, 135}
+, 
+{"gonryun", 14630, 101, 780, "guardião", "gon", 113, 127}
+, 
+{"gonryun", 14633, 101, 780, "soldado", "", 166, 196}
+, 
+{"gonryun", 14634, 101, 770, "guia", "", 169, 71}
+, 
+{"gonryun", 14639, 101, 772, "garota sa", "", 139, 142}
+, 
+{"gonryun", 14640, 101, 733, "estranho", "", 100, 241}
+, 
+{"gonryun", 14655, 101, 85, "homem de ferro", "", 180, 118}
+, 
+{"gonryun", 16824, 102, 777, "vendedor de ferramentas", "", 147, 84}
+, 
+{"gonryun", 16825, 102, 770, "vendedor de armaduras", "", 173, 84}
+, 
+{"gonryun", 16826, 102, 774, "vendedor de armas", "", 174, 101}
+, 
+{"gonryun", 16883, 102, 83, "cozinheiro auxiliar", "", 147, 101}
+, 
+{"gonryun", 17036, 101, 780, "guia de kunlun", "01gonryun", 163, 60}
+, 
+{"gonryun", 17146, 101, 116, "funcionária kafra", "", 159, 122}
+, 
+{"gonryun", 19918, 101, 776, "anunciante de kunlun", "", 153, 64}
+, 
+{"gonryun", 21150, 101, 729, "oficial do Éden", "25", 145, 120}
+, 
+{"hu_fild01", 15424, 101, 852, "gerente da torre", "", 140, 163}
+, 
+{"hu_fild05", 20505, 101, 879, "odalisca kim", "fild", 342, 130}
+, 
+{"hu_fild06", 16037, 101, 701, "mãe do torpy", "", 190, 367}
+, 
+{"hu_fild06", 16041, 101, 97, "postell schuwell", "1", 34, 123}
+, 
+{"hu_fild06", 16058, 101, 896, "burupu", "Hugel", 217, 270}
+, 
+{"hu_in01", 16039, 101, 849, "allen schuwell", "Hugel1", 387, 245}
+, 
+{"hu_in01", 16040, 101, 97, "postell schuwell", "2", 385, 247}
+, 
+{"hu_in01", 16066, 101, 74, "cellette lavit", "hg", 15, 372}
+, 
+{"hu_in01", 16099, 101, 49, "assistente temporário", "1", 18, 94}
+, 
+{"hu_in01", 16100, 101, 50, "assistente temporário", "2", 26, 77}
+, 
+{"hu_in01", 16104, 101, 891, "garota", "Wintzil Trony", 310, 380}
+, 
+{"hu_in01", 16110, 101, 53, "estalagem", "", 246, 107}
+, 
+{"hu_in01", 16111, 101, 793, "garota", "hgtre", 365, 170}
+, 
+{"hu_in01", 16112, 101, 892, "vov\243 do bar ", "hgtre", 377, 106}
+, 
+{"hu_in01", 16738, 101, 105, "falcoeiro", "", 381, 304}
+, 
+{"hu_in01", 16887, 101, 898, "vendedor de fogos", "", 23, 311}
+, 
+{"hu_in01", 16888, 102, 898, "vendedor de armas", "", 93, 390}
+, 
+{"hu_in01", 16889, 102, 86, "vendedor de armas", "", 100, 390}
+, 
+{"hu_in01", 16890, 102, 86, "vendedor de armaduras", "", 94, 313}
+, 
+{"hu_in01", 16891, 102, 53, "vendedor de ferramentas", "", 241, 368}
+, 
+{"hu_in01", 16892, 102, 90, "vendedor de ferramentas", "", 252, 368}
+, 
+{"hu_in01", 20374, 101, 79, "crente", "benew", 205, 204}
+, 
+{"hu_in01", 20431, 101, 486, "karian", "job_min2", 267, 5}
+, 
+{"hu_in01", 20432, 101, 995, "tone-deaf person", "job_min", 361, 103}
+, 
+{"hu_in01", 20504, 101, 879, "moça forasteira", "wander", 305, 251}
+, 
+{"hugel", 12992, 101, 109, "agente vip", "", 80, 152}
+, 
+{"hugel", 16034, 101, 90, "lisa", "3459", 71, 197}
+, 
+{"hugel", 16035, 101, 90, "emily", "3459", 126, 151}
+, 
+{"hugel", 16036, 101, 706, "torpy", "", 107, 67}
+, 
+{"hugel", 16038, 101, 898, "homem estranho", "out", 100, 174}
+, 
+{"hugel", 16057, 101, 709, "kurupe", "Hugel", 56, 104}
+, 
+{"hugel", 16059, 101, 889, "a vaca bubu ", "Hugel", 68, 99}
+, 
+{"hugel", 16060, 101, 896, "kayplas", "hg", 85, 165}
+, 
+{"hugel", 16061, 101, 898, "jovem", "hg", 189, 143}
+, 
+{"hugel", 16062, 101, 897, "marius", "hg", 175, 115}
+, 
+{"hugel", 16063, 101, 892, "velha nikki", "hg", 169, 112}
+, 
+{"hugel", 16067, 101, 101, "neha", "hg", 76, 134}
+, 
+{"hugel", 16068, 101, 86, "maewan", "hg", 87, 139}
+, 
+{"hugel", 16069, 101, 700, "layoma", "hg", 84, 125}
+, 
+{"hugel", 16070, 101, 100, "erjan", "hg", 102, 161}
+, 
+{"hugel", 16071, 101, 837, "aviso", "", 91, 152}
+, 
+{"hugel", 16080, 101, 709, "barqueiro", "", 209, 109}
+, 
+{"hugel", 16740, 102, 892, "vendedora de frutas", "", 77, 167}
+, 
+{"hugel", 16893, 102, 53, "vendedor de leite", "", 105, 169}
+, 
+{"hugel", 17021, 101, 897, "ghenirhemin", "", 147, 103}
+, 
+{"hugel", 17160, 101, 874, "corp. eventos incríveis", "", 88, 168}
+, 
+{"hugel", 20805, 101, 798, "eckar erenes", "double", 62, 69}
+, 
+{"hugel", 20816, 101, 900, "wayne", "", 71, 83}
+, 
+{"hugel", 20818, 101, 866, "mudie", "dummy01", 85, 93}
+, 
+{"hugel", 21136, 101, 729, "oficial do Éden", "18", 93, 153}
+, 
+{"ice_dun01", 20477, 101, 836, "espírito detector", "1", 274, 274}
+, 
+{"ice_dun01", 21228, 101, 726, "membro do grupo do Éden", "2nd02", 154, 13}
+, 
+{"ice_dun02", 16346, 101, 924, "homem no gelo", "cave", 120, 105}
+, 
+{"ice_dun02", 20472, 101, 802, "chama vermelha", "sc_f02", 206, 223}
+, 
+{"ice_dun03", 16349, 101, 802, "chama ardente", "ice1", 126, 126}
+, 
+{"ice_dun03", 16350, 101, 802, "chama ardente", "ice2", 172, 126}
+, 
+{"ice_dun03", 16351, 101, 802, "chama ardente", "ice3", 172, 173}
+, 
+{"ice_dun03", 16352, 101, 802, "chama ardente", "ice4", 127, 172}
+, 
+{"ice_dun04", 16357, 101, 925, "garoto congelado", "", 33, 166}
+, 
+{"in_moc_16", 16742, 102, 880, "mercador sepulcral", "", 22, 20}
+, 
+{"in_moc_16", 20014, 101, 55, "membro da guilda", "", 19, 33}
+, 
+{"in_moc_16", 20019, 101, 730, "membro da guilda", "", 21, 91}
+, 
+{"in_moc_16", 20020, 101, 730, "membro da guilda", "", 25, 90}
+, 
+{"in_moc_16", 20033, 101, 725, "guia", "", 21, 165}
+, 
+{"in_moc_16", 20125, 101, 118, "dante", "", 89, 98}
+, 
+{"in_moc_16", 20128, 101, 725, "bastit", "", 87, 48}
+, 
+{"in_moc_16", 20137, 101, 55, "assistente do líder", "", 186, 81}
+, 
+{"in_moc_16", 20598, 101, 884, "mercenário", "realman", 14, 27}
+, 
+{"in_moc_16", 20599, 101, 885, "mercenária", "realgirl", 23, 27}
+, 
+{"in_orcs01", 13355, 101, 1273, "senhora orc", "2008hat03", 119, 106}
+, 
+{"in_orcs01", 17004, 101, 1023, "guerreiro orc 1", "", 31, 93}
+, 
+{"in_orcs01", 17006, 101, 1087, "herói dos orcs 1", "", 162, 33}
+, 
+{"in_orcs01", 21205, 101, 803, "absalom", "para07", 38, 175}
+, 
+{"in_rogue", 15905, 101, 748, "homem suspeito", "megin", 243, 61}
+, 
+{"in_rogue", 20314, 101, 747, "arruaceira da guilda", "", 363, 122}
+, 
+{"in_rogue", 20315, 101, 57, "smithrato", "", 376, 23}
+, 
+{"in_rogue", 20320, 101, 85, "hermanthorn jr", "", 272, 135}
+, 
+{"in_rogue", 20328, 101, 99, "aragham jr.", "", 244, 39}
+, 
+{"in_rogue", 20332, 101, 85, "holgrehen jr.", "", 160, 34}
+, 
+{"in_rogue", 20336, 101, 88, "antonio jr.", "", 177, 109}
+, 
+{"in_rogue", 20465, 101, 828, "membro da guilda", "sc01", 376, 100}
+, 
+{"in_rogue", 20466, 101, 747, "membro da guilda", "sc02", 379, 99}
+, 
+{"in_rogue", 20467, 101, 810, "homem assustador", "sc03", 379, 101}
+, 
+{"in_rogue", 20624, 101, 705, "matador", "Rogueguild", 357, 174}
+, 
+{"in_rogue", 20625, 101, 46, "haijara greg", "rogueguild", 355, 179}
+, 
+{"in_rogue", 20626, 101, 84, "louis greg", "rogueguild", 152, 29}
+, 
+{"in_rogue", 20627, 101, 86, "thor greg", "rogueguild", 268, 125}
+, 
+{"in_rogue", 20631, 101, 85, "jay greg", "rogueguild", 181, 114}
+, 
+{"in_rogue", 20971, 101, 828, "investigador", "", 366, 46}
+, 
+{"in_rogue", 20975, 101, 747, "marybell", "", 359, 116}
+, 
+{"in_rogue", 20989, 101, 118, "agente arruaceiro", "", 355, 28}
+, 
+{"iz_dun04", 14125, 101, 413, "guardião da caverna", "iz_dun", 130, 234}
+, 
+{"iz_dun04", 21206, 101, 745, "callandiva", "para08", 43, 46}
+, 
+{"iz_dun05", 14127, 101, 413, "guardião da caverna", "iz_dun", 142, 190}
+, 
+{"izlu2dun", 14111, 101, 100, "marinheiro", "", 108, 27}
+, 
+{"izlu2dun", 17124, 101, 116, "funcionária kafra", "", 106, 58}
+, 
+{"izlu2dun", 19985, 101, 837, "quadro de avisos", "izlude", 104, 91}
+, 
+{"izlude", 10002, 101, 726, "ferreiro sombrio", "nomal", 138, 126}
+, 
+{"izlude", 10047, 101, 858, "placa", "US13", 174, 186}
+, 
+{"izlude", 10086, 101, 846, "brechen", "2016xmas", 108, 131}
+, 
+{"izlude", 10088, 101, 709, "filial de izlude", "2016xmas", 131, 176}
+, 
+{"izlude", 12237, 101, 554, "odgnalam", "iz", 182, 192}
+, 
+{"izlude", 12659, 101, 48, "aprendiz de couraria", "", 213, 125}
+, 
+{"izlude", 12662, 101, 570, "carteiro", "ticket", 127, 116}
+, 
+{"izlude", 12995, 101, 109, "agente vip", "", 134, 92}
+, 
+{"izlude", 14108, 101, 100, "marinheiro", "", 201, 181}
+, 
+{"izlude", 14113, 101, 90, "paula", "", 55, 74}
+, 
+{"izlude", 14114, 101, 91, "charfri", "", 135, 78}
+, 
+{"izlude", 14115, 101, 124, "cuskoal", "", 119, 121}
+, 
+{"izlude", 14116, 101, 84, "dega", "", 150, 118}
+, 
+{"izlude", 14117, 101, 97, "kylick", "", 150, 143}
+, 
+{"izlude", 14118, 101, 85, "dan", "", 56, 126}
+, 
+{"izlude", 14119, 101, 98, "rami", "", 58, 126}
+, 
+{"izlude", 14121, 101, 105, "soldado", "", 124, 178}
+, 
+{"izlude", 14122, 101, 49, "edgar", "", 182, 186}
+, 
+{"izlude", 14884, 101, 71, "agente matrimonial", "Izlude", 171, 185}
+, 
+{"izlude", 15383, 101, 853, "velhaco", "", 186, 57}
+, 
+{"izlude", 15651, 101, 90, "assistente do aeroplano", "izlude", 206, 55}
+, 
+{"izlude", 16758, 102, 53, "vendedora de frutas", "", 94, 98}
+, 
+{"izlude", 16759, 102, 54, "a?ugueiro", "", 105, 99}
+, 
+{"izlude", 16760, 102, 90, "vendedor de leite", "", 105, 92}
+, 
+{"izlude", 16764, 102, 124, "adestrador", "", 164, 138}
+, 
+{"izlude", 17023, 101, 734, "gerente do cl\227 de assistentes", "Sword", 46, 139}
+, 
+{"izlude", 17026, 101, 893, "itens para assistentes", "Sword", 56, 139}
+, 
+{"izlude", 17075, 101, 117, "funcionária kafra", "", 134, 88}
+, 
+{"izlude", 19542, 101, 92, "dona risadinha", "", 129, 118}
+, 
+{"izlude", 19973, 101, 837, "quadro de avisos", "izlude", 131, 116}
+, 
+{"izlude", 20762, 101, 86, "vendedor de projéteis", "airplane", 171, 133}
+, 
+{"izlude", 20763, 101, 83, "vendedor de carregadores", "airplane", 171, 127}
+, 
+{"izlude", 21160, 101, 729, "oficial do Éden", "30", 134, 98}
+, 
+{"izlude", 21531, 101, 100, "equipe de promoções", "", 99, 136}
+, 
+{"izlude_in", 10040, 101, 866, "vov\244 potter", "US13", 73, 110}
+, 
+{"izlude_in", 13879, 101, 102, "nahlen", "", 173, 88}
+, 
+{"izlude_in", 14120, 101, 65, "aaron", "", 125, 164}
+, 
+{"izlude_in", 16761, 102, 72, "vendedor de armas", "", 60, 127}
+, 
+{"izlude_in", 16762, 102, 62, "vendedor de armaduras", "", 70, 127}
+, 
+{"izlude_in", 16763, 102, 47, "vendedor de ferramentas", "", 115, 61}
+, 
+{"izlude_in", 19528, 101, 125, "domador de monstros", "", 129, 64}
+, 
+{"izlude_in", 19865, 101, 98, "cavaleiro ditomaso", "", 175, 130}
+, 
+{"izlude_in", 20010, 101, 119, "espadachim", "", 74, 172}
+, 
+{"izlude_in", 20534, 101, 733, "shurank", "", 82, 163}
+, 
+{"izlude_in", 20750, 102, 900, "trading merchant", "", 121, 64}
+, 
+{"izlude_in", 20965, 101, 878, "dorian", "", 110, 64}
+, 
+{"izlude_in", 21112, 101, 729, "oficial do Éden", "6", 68, 162}
+, 
+{"jawaii", 14886, 101, 100, "marinheiro", "toizu", 239, 112}
+, 
+{"jawaii", 14888, 101, 100, "marinheiro", "toalbe", 122, 263}
+, 
+{"jawaii", 14890, 101, 80, "recepcionista", "", 188, 218}
+, 
+{"jawaii", 14891, 101, 724, "cidad\227 jawaiiana", "heart", 220, 235}
+, 
+{"jawaii", 14892, 101, 724, "cidad\227 jawaiiana", "desc1", 240, 146}
+, 
+{"jawaii", 14893, 101, 724, "cidad\227 jawaiiana", "desc2", 168, 247}
+, 
+{"jawaii", 14894, 101, 724, "cidad\227 jawaiiana", "desc3", 165, 121}
+, 
+{"jawaii", 14895, 101, 798, "atendente", "sroom", 141, 200}
+, 
+{"jawaii", 14896, 101, 74, "atendente", "antroom", 108, 199}
+, 
+{"jawaii", 14897, 101, 93, "atendente", "horoom", 107, 189}
+, 
+{"jawaii", 14898, 101, 93, "atendente", "villroom", 112, 173}
+, 
+{"jawaii", 14899, 101, 71, "agente matrimonial", "Jawaii", 214, 168}
+, 
+{"jawaii", 14900, 102, 85, "vendedor de sorvete", "", 186, 174}
+, 
+{"jawaii_in", 14872, 101, 724, "atendente", "jaw1", 25, 94}
+, 
+{"jawaii_in", 14873, 101, 724, "atendente", "jaw2", 25, 96}
+, 
+{"jawaii_in", 14874, 101, 724, "atendente", "jaw3", 25, 98}
+, 
+{"jawaii_in", 14875, 101, 724, "atendente", "jaw4", 25, 100}
+, 
+{"jawaii_in", 14876, 101, 724, "atendente", "jaw5", 30, 94}
+, 
+{"jawaii_in", 14877, 101, 724, "atendente", "jaw6", 30, 96}
+, 
+{"jawaii_in", 14878, 101, 724, "atendente", "jaw7", 30, 98}
+, 
+{"jawaii_in", 14879, 101, 724, "atendente", "jaw8", 30, 100}
+, 
+{"jawaii_in", 14880, 101, 80, "atendente de Área", "jawaii", 15, 104}
+, 
+{"jawaii_in", 14881, 101, 46, "garçom", "jaw", 28, 124}
+, 
+{"jawaii_in", 14882, 101, 97, "cliente", "jaw_1", 43, 115}
+, 
+{"jawaii_in", 14883, 101, 98, "cliente", "Cage", 41, 106}
+, 
+{"jawaii_in", 15909, 101, 734, "segurança", "megin", 44, 110}
+, 
+{"job_duncer", 16574, 101, 892, "instrutora de dança", "sch", 93, 106}
+, 
+{"job_duncer", 16575, 101, 724, "jovem odalisca", "sch", 85, 49}
+, 
+{"job_duncer", 16577, 101, 724, "odalisca animada", "sch", 83, 52}
+, 
+{"job_duncer", 16579, 101, 724, "odalisca adulta", "sch", 87, 50}
+, 
+{"job_duncer", 20209, 101, 724, "ale", "", 43, 93}
+, 
+{"job_duncer", 20210, 101, 101, "borwaju", "", 95, 93}
+, 
+{"job_duncer", 20213, 101, 66, "sala de espera", "click", 32, 154}
+, 
+{"job_duncer", 20222, 101, 724, "dançarina", "1", 63, 110}
+, 
+{"job_duncer", 20223, 101, 724, "dançarina", "2", 66, 113}
+, 
+{"job_duncer", 20224, 101, 724, "dançarina", "3", 72, 113}
+, 
+{"job_duncer", 20225, 101, 724, "dançarina", "4", 75, 110}
+, 
+{"job_monk", 20284, 101, 89, "examinador", "", 225, 180}
+, 
+{"job_star", 20709, 101, 59, "daru", "job_star", 29, 33}
+, 
+{"job_star", 20720, 101, 106, "beeryu", "job_star", 95, 33}
+, 
+{"job_star", 20730, 101, 77, "cheehee", "job_star", 161, 33}
+, 
+{"jupe_cave", 20388, 101, 883, "sábio", "", 37, 55}
+, 
+{"kh_dun01", 20882, 101, 857, "placa", "kh", 163, 223}
+, 
+{"kh_mansion", 20862, 101, 109, "steward", "kh", 78, 54}
+, 
+{"kh_mansion", 20870, 101, 894, "allysia", "", 18, 30}
+, 
+{"kh_mansion", 20871, 101, 903, "kiel hyre", "kh", 22, 28}
+, 
+{"kh_mansion", 20873, 101, 727, "mulher misteriosa", "kh", 25, 79}
+, 
+{"kh_school", 20833, 101, 893, "estudante", "kha", 57, 142}
+, 
+{"kh_school", 20834, 101, 893, "estudante", "khb", 57, 139}
+, 
+{"kh_school", 20835, 101, 101, "sra lecollane", "kh", 176, 60}
+, 
+{"kh_school", 20840, 101, 895, "garota bonita", "kh", 179, 39}
+, 
+{"kh_school", 20847, 101, 895, "elly", "", 177, 180}
+, 
+{"kh_school", 20849, 101, 894, "bela moça", "kh1", 117, 149}
+, 
+{"kh_school", 20850, 101, 894, "bela moça", "kh1", 118, 149}
+, 
+{"kh_school", 20851, 101, 894, "bela moça", "kh1", 120, 149}
+, 
+{"kh_school", 20852, 101, 894, "bela moça", "kh1", 121, 149}
+, 
+{"kh_school", 20853, 101, 894, "bela moça", "kh1", 119, 149}
+, 
+{"kh_school", 20857, 101, 894, "bela moça", "kh2", 122, 186}
+, 
+{"kh_vila", 20841, 101, 81, "cachorro bravo", "khp1", 181, 178}
+, 
+{"lhz_airport", 15627, 101, 90, "assistente do aeroporto", "lhz_airport1a", 143, 43}
+, 
+{"lhz_airport", 15630, 101, 90, "assistente do aeroporto", "lhz_airport1b", 158, 43}
+, 
+{"lhz_airport", 15633, 101, 90, "assistente do aeroplano", "lhz_airport1c", 126, 43}
+, 
+{"lhz_airport", 15636, 101, 90, "assistente do desembarque", "lhz_airport2a", 143, 49}
+, 
+{"lhz_airport", 15638, 101, 90, "assistente do desembarque", "lhz_airport2b", 126, 51}
+, 
+{"lhz_airport", 15640, 101, 90, "assistente do desembarque", "lhz_airport2c", 158, 50}
+, 
+{"lhz_dun02", 15298, 101, 837, "aviso", "lhz_east", 177, 150}
+, 
+{"lhz_dun02", 15299, 101, 837, "aviso", "lhz_south", 150, 122}
+, 
+{"lhz_dun02", 15300, 101, 837, "aviso", "lhz_west", 122, 149}
+, 
+{"lhz_dun02", 15301, 101, 837, "aviso", "lhz_north", 149, 178}
+, 
+{"lhz_dun04", 12090, 101, 865, "pesquisador", "memo", 151, 276}
+, 
+{"lhz_fild01", 14969, 101, 859, "mulher misteriosa", "lt7", 66, 219}
+, 
+{"lhz_fild02", 14967, 101, 849, "homem ferido", "lt", 228, 214}
+, 
+{"lhz_in01", 14970, 101, 865, "pesquisador", "lt", 93, 45}
+, 
+{"lhz_in01", 14971, 101, 865, "pesquisador", "lt1", 285, 169}
+, 
+{"lhz_in01", 14972, 101, 868, "guarda", "lt5", 180, 28}
+, 
+{"lhz_in01", 14973, 101, 868, "guarda", "lt5", 173, 28}
+, 
+{"lhz_in01", 14978, 101, 862, "guia", "lt2", 73, 188}
+, 
+{"lhz_in01", 14979, 101, 90, "guia", "lt1", 72, 195}
+, 
+{"lhz_in01", 14980, 101, 862, "guia", "lt1", 72, 209}
+, 
+{"lhz_in01", 15075, 101, 71, "atendente", "li_01", 114, 181}
+, 
+{"lhz_in01", 15076, 101, 71, "atendente", "li_02", 27, 247}
+, 
+{"lhz_in01", 15077, 101, 865, "cientista louco", "li", 273, 121}
+, 
+{"lhz_in01", 15078, 101, 831, "secretária slierre", "li", 286, 226}
+, 
+{"lhz_in01", 15083, 101, 867, "guarda da rekenber", "li01", 35, 226}
+, 
+{"lhz_in01", 15084, 101, 867, "guarda da rekenber", "li02", 23, 132}
+, 
+{"lhz_in01", 15085, 101, 867, "guarda da rekenber", "li03", 46, 125}
+, 
+{"lhz_in01", 15086, 101, 98, "jorje", "zero", 144, 53}
+, 
+{"lhz_in01", 15087, 101, 869, "mereth", "erem", 129, 54}
+, 
+{"lhz_in01", 15088, 101, 89, "jorjerro", "fhero", 110, 40}
+, 
+{"lhz_in01", 15089, 101, 841, "ninjose", "nina", 116, 53}
+, 
+{"lhz_in01", 15090, 101, 704, "joshua", "aya", 116, 45}
+, 
+{"lhz_in01", 15091, 101, 822, "kejulle rekenber", "reken", 116, 39}
+, 
+{"lhz_in01", 15093, 101, 91, "eiya", "iaiai", 164, 45}
+, 
+{"lhz_in01", 15094, 101, 797, "mareth", "seram", 157, 47}
+, 
+{"lhz_in01", 15095, 101, 828, "mazwon", "minus1", 147, 40}
+, 
+{"lhz_in01", 15096, 101, 97, "noama", "amano", 148, 45}
+, 
+{"lhz_in01", 15097, 101, 53, "enoz", "oz", 139, 40}
+, 
+{"lhz_in01", 15098, 101, 73, "leimi", "mimir", 139, 48}
+, 
+{"lhz_in01", 15099, 101, 869, "chenko dekdam", "delic", 134, 45}
+, 
+{"lhz_in01", 15100, 101, 798, "bankri kun", "kagun", 134, 38}
+, 
+{"lhz_in01", 15101, 101, 849, "leekal", "lackee", 125, 46}
+, 
+{"lhz_in01", 15102, 101, 843, "dowbow ryuei", "ryusei", 125, 40}
+, 
+{"lhz_in01", 15103, 101, 66, "ellette", "tre", 124, 28}
+, 
+{"lhz_in01", 15105, 101, 865, "cientista", "li_01", 221, 131}
+, 
+{"lhz_in01", 15106, 101, 851, "técnico", "li_01", 217, 121}
+, 
+{"lhz_in01", 15107, 101, 750, "cientista", "li_02", 203, 123}
+, 
+{"lhz_in01", 15108, 101, 865, "cientista", "li_03", 199, 137}
+, 
+{"lhz_in01", 15120, 101, 109, "atendente", "", 14, 28}
+, 
+{"lhz_in01", 15121, 101, 703, "luccet", "li_party", 43, 52}
+, 
+{"lhz_in01", 15122, 101, 706, "hanccet", "li_party", 28, 33}
+, 
+{"lhz_in01", 15123, 101, 91, "annette", "li_party", 21, 50}
+, 
+{"lhz_in01", 15362, 101, 868, "guarda de regenschirm", "40", 24, 140}
+, 
+{"lhz_in01", 15379, 101, 868, "jovem", "", 174, 258}
+, 
+{"lhz_in01", 20587, 101, 57, "kellasus", "", 224, 140}
+, 
+{"lhz_in01", 20588, 101, 754, "skrajjad", "", 225, 122}
+, 
+{"lhz_in01", 20589, 101, 750, "keshibien", "", 204, 138}
+, 
+{"lhz_in01", 20594, 101, 98, "alchemist", "", 218, 141}
+, 
+{"lhz_in01", 21503, 101, 903, "gerhart", "", 110, 174}
+, 
+{"lhz_in01", 21533, 101, 967, "munkenro", "", 136, 260}
+, 
+{"lhz_in01", 21534, 101, 868, "sikaiz", "", 132, 259}
+, 
+{"lhz_in01", 21535, 101, 899, "guarda", "", 115, 250}
+, 
+{"lhz_in01", 21536, 101, 899, "guarda", "", 115, 252}
+, 
+{"lhz_in01", 21537, 101, 899, "guarda", "", 147, 252}
+, 
+{"lhz_in01", 21538, 101, 899, "guarda", "", 147, 250}
+, 
+{"lhz_in01", 21539, 101, 899, "guarda", "", 124, 234}
+, 
+{"lhz_in01", 21540, 101, 899, "guarda", "", 121, 234}
+, 
+{"lhz_in01", 21541, 101, 899, "guarda", "", 137, 234}
+, 
+{"lhz_in01", 21542, 101, 899, "guarda", "", 140, 234}
+, 
+{"lhz_in01", 21543, 101, 899, "guarda", "", 130, 232}
+, 
+{"lhz_in01", 21545, 101, 904, "membro da aliança", "", 128, 249}
+, 
+{"lhz_in01", 21546, 101, 869, "membro da aliança", "", 136, 245}
+, 
+{"lhz_in01", 21547, 101, 85, "membro da aliança", "", 140, 245}
+, 
+{"lhz_in01", 21548, 101, 865, "membro da aliança", "", 136, 249}
+, 
+{"lhz_in01", 21549, 101, 932, "membro da aliança", "", 124, 245}
+, 
+{"lhz_in01", 21550, 101, 849, "membro da aliança", "", 136, 241}
+, 
+{"lhz_in01", 21551, 101, 930, "membro da aliança", "", 126, 249}
+, 
+{"lhz_in01", 21552, 101, 882, "membro da aliança", "", 122, 245}
+, 
+{"lhz_in01", 21554, 101, 109, "primeiro oficial", "", 32, 22}
+, 
+{"lhz_in01", 21555, 101, 109, "segundo oficial", "", 30, 24}
+, 
+{"lhz_in02", 12571, 101, 748, "beberrão", "Necktie", 276, 281}
+, 
+{"lhz_in02", 14981, 101, 831, "funcionária da eventos incríveis", "Saera", 36, 274}
+, 
+{"lhz_in02", 14982, 101, 833, "planejador de evento", "", 40, 280}
+, 
+{"lhz_in02", 14983, 101, 853, "gerente da eventos incríveis", "", 110, 286}
+, 
+{"lhz_in02", 14984, 101, 874, "funcionário da eventos incríveis", "Cesuna", 36, 284}
+, 
+{"lhz_in02", 14985, 101, 851, "rapaz da manutenção", "", 19, 274}
+, 
+{"lhz_in02", 14987, 101, 869, "digotz", "", 201, 210}
+, 
+{"lhz_in02", 14999, 101, 753, "lutador marcial", "", 289, 277}
+, 
+{"lhz_in02", 15013, 101, 869, "hermes", "zen8", 221, 276}
+, 
+{"lhz_in02", 15027, 101, 747, "diana", "npc", 267, 25}
+, 
+{"lhz_in02", 15028, 101, 91, "vendedora", "cobo", 267, 22}
+, 
+{"lhz_in02", 15030, 101, 91, "maggie", "05", 34, 212}
+, 
+{"lhz_in02", 15031, 101, 853, "mileto", "05", 153, 206}
+, 
+{"lhz_in02", 15032, 101, 870, "hinkley", "06", 157, 201}
+, 
+{"lhz_in02", 15033, 101, 849, "togii", "07", 145, 177}
+, 
+{"lhz_in02", 15034, 101, 863, "tanoue", "zen04", 229, 217}
+, 
+{"lhz_in02", 15035, 101, 85, "oficial guo", "06", 147, 221}
+, 
+{"lhz_in02", 15036, 101, 870, "suspeito", "06", 142, 222}
+, 
+{"lhz_in02", 15044, 101, 86, "funcionário do hotel", "", 230, 284}
+, 
+{"lhz_in02", 15045, 101, 869, "funcionário do hotel", "zen1", 238, 275}
+, 
+{"lhz_in02", 15046, 101, 84, "ben allen", "zen11", 209, 277}
+, 
+{"lhz_in02", 15047, 101, 868, "funcionário do hotel", "zen2", 251, 212}
+, 
+{"lhz_in02", 15048, 101, 849, "christopher michael", "zen12", 210, 189}
+, 
+{"lhz_in02", 15049, 101, 853, "safuat farmy", "", 201, 181}
+, 
+{"lhz_in02", 15050, 101, 868, "funcionário do hotel", "zen3", 242, 172}
+, 
+{"lhz_in02", 15051, 101, 868, "funcionário do hotel", "zen4", 247, 275}
+, 
+{"lhz_in02", 15058, 101, 849, "arthur", "zen16", 34, 41}
+, 
+{"lhz_in02", 15059, 101, 703, "helen", "zen6", 28, 39}
+, 
+{"lhz_in02", 15060, 101, 847, "tadem", "zen6", 31, 34}
+, 
+{"lhz_in02", 15061, 101, 863, "graça", "5", 31, 33}
+, 
+{"lhz_in02", 15062, 101, 86, "bancário", "1", 21, 38}
+, 
+{"lhz_in02", 15063, 101, 86, "bancário", "2", 21, 25}
+, 
+{"lhz_in02", 15064, 101, 755, "bancário", "3", 34, 22}
+, 
+{"lhz_in02", 15116, 101, 85, "garoto saudável", "hol", 159, 198}
+, 
+{"lhz_in02", 15117, 101, 122, "cabeleireiro", "li", 100, 143}
+, 
+{"lhz_in02", 15118, 101, 850, "tintureira", "lich", 100, 134}
+, 
+{"lhz_in02", 15119, 101, 862, "assistente do salão", "lich", 91, 155}
+, 
+{"lhz_in02", 15372, 101, 61, "garçom", "amano07", 277, 285}
+, 
+{"lhz_in02", 15373, 101, 865, "funcionário do laboratório", "amano08", 265, 273}
+, 
+{"lhz_in02", 15374, 101, 47, "cidadão", "amano09", 271, 281}
+, 
+{"lhz_in02", 15375, 101, 853, "cliente", "amano10", 287, 282}
+, 
+{"lhz_in02", 15376, 101, 50, "cliente", "amano11", 287, 273}
+, 
+{"lhz_in02", 15377, 101, 815, "cliente", "amano12", 283, 276}
+, 
+{"lhz_in02", 15378, 101, 816, "cliente", "amano13", 281, 280}
+, 
+{"lhz_in02", 16848, 102, 851, "vendedor de armas", "", 276, 99}
+, 
+{"lhz_in02", 16849, 102, 854, "vendedor de cajados", "", 273, 35}
+, 
+{"lhz_in02", 16850, 102, 851, "vendedor de armaduras", "", 271, 99}
+, 
+{"lhz_in02", 16851, 102, 62, "mercador superaprendiz", "", 286, 95}
+, 
+{"lhz_in02", 16852, 102, 91, "joalheira", "", 105, 21}
+, 
+{"lhz_in02", 16853, 102, 102, "vendedora de frutas", "", 21, 220}
+, 
+{"lhz_in02", 16854, 102, 91, "vendedora de vegetais", "", 17, 220}
+, 
+{"lhz_in02", 16855, 102, 54, "a?ugueiro", "", 32, 219}
+, 
+{"lhz_in02", 16856, 102, 91, "vendedora", "", 38, 145}
+, 
+{"lhz_in02", 16857, 102, 862, "vendedor de bonecos", "", 85, 216}
+, 
+{"lhz_in02", 16858, 102, 715, "vendedor de ?ulos", "", 87, 208}
+, 
+{"lhz_in02", 16859, 102, 90, "vendedor de ferramentas", "", 31, 145}
+, 
+{"lhz_in02", 16906, 102, 71, "itens para casamento", "", 47, 148}
+, 
+{"lhz_in02", 17007, 101, 90, "margaret merry", "hat", 91, 38}
+, 
+{"lhz_in02", 17158, 101, 861, "funcionária kafra", "", 237, 284}
+, 
+{"lhz_in02", 19892, 101, 84, "fruel", "", 281, 24}
+, 
+{"lhz_in02", 19893, 101, 86, "krugg", "", 278, 24}
+, 
+{"lhz_in02", 19894, 101, 869, "fulerr", "", 282, 20}
+, 
+{"lhz_in02", 20517, 101, 877, "vendedora de ervas", "", 16, 205}
+, 
+{"lhz_in02", 20590, 101, 709, "broncher", "", 278, 273}
+, 
+{"lhz_in02", 20956, 101, 84, "seiyablem", "lhz", 281, 35}
+, 
+{"lhz_in02", 20962, 101, 97, "jovem", "lhz", 269, 33}
+, 
+{"lhz_in03", 15005, 101, 863, "sofepa", "zen1", 32, 99}
+, 
+{"lhz_in03", 15006, 101, 869, "gopal", "zen4", 25, 105}
+, 
+{"lhz_in03", 15017, 101, 849, "avetis", "zen10", 239, 38}
+, 
+{"lhz_in03", 15024, 101, 55, "bocão", "", 184, 38}
+, 
+{"lhz_in03", 15025, 101, 855, "haggar", "zen1", 192, 19}
+, 
+{"lhz_in03", 15070, 101, 53, "garota aleijada", "li_tre", 32, 162}
+, 
+{"lhz_in03", 15074, 101, 850, "shayna", "li", 26, 167}
+, 
+{"lhz_in03", 15128, 101, 81, "rocky", "li_house", 100, 18}
+, 
+{"lhz_in03", 15129, 101, 850, "faxineira jane", "li_house1", 129, 22}
+, 
+{"lhz_in03", 15130, 101, 706, "jay", "li_house", 130, 41}
+, 
+{"lhz_in03", 15131, 101, 74, "faxineira brenda", "li_house2", 124, 117}
+, 
+{"lhz_in03", 15364, 101, 61, "garçom", "12", 193, 25}
+, 
+{"lhz_in03", 15365, 101, 869, "freguês melancólico", "12", 186, 29}
+, 
+{"lhz_in03", 15366, 101, 869, "homem alegre", "amano01", 189, 87}
+, 
+{"lhz_in03", 15367, 101, 870, "homem alegre", "amano02", 183, 82}
+, 
+{"lhz_in03", 15368, 101, 86, "cidadão", "amano03", 180, 83}
+, 
+{"lhz_in03", 15369, 101, 869, "cidadão", "amano04", 176, 85}
+, 
+{"lhz_in03", 15370, 101, 862, "cidad\227", "amano05", 192, 93}
+, 
+{"lhz_in03", 15371, 101, 869, "homem chato", "amano06", 185, 20}
+, 
+{"lhz_in03", 16033, 101, 83, "makkie", "1234", 193, 28}
+, 
+{"lhz_in03", 16103, 101, 97, "enquro carson", "", 39, 44}
+, 
+{"lhz_in03", 16860, 102, 850, "vendedor de ferramentas", "", 239, 106}
+, 
+{"lhz_in03", 16861, 102, 855, "vendedor de flechas", "", 258, 101}
+, 
+{"lhz_in03", 16862, 102, 855, "mercador", "", 249, 24}
+, 
+{"lhz_in03", 16915, 102, 49, "pe?s para m.e.c.h.a.", "", 181, 17}
+, 
+{"lhz_in03", 20591, 101, 706, "koring", "", 106, 34}
+, 
+{"lhz_in03", 20592, 101, 90, "beninne", "", 109, 31}
+, 
+{"lighthalzen", 12069, 101, 847, "velhinho estranho", "Bio4Reward", 342, 291}
+, 
+{"lighthalzen", 12070, 101, 904, "giacomo girolamo", "kiup2", 303, 303}
+, 
+{"lighthalzen", 12233, 101, 553, "dolangmal", "light", 254, 83}
+, 
+{"lighthalzen", 12989, 101, 109, "agente vip", "", 167, 97}
+, 
+{"lighthalzen", 14948, 101, 98, "homem comum", "lt1", 179, 170}
+, 
+{"lighthalzen", 14986, 101, 870, "maku", "", 337, 232}
+, 
+{"lighthalzen", 14990, 101, 868, "guarda", "", 267, 200}
+, 
+{"lighthalzen", 14994, 101, 868, "guarda", "", 294, 223}
+, 
+{"lighthalzen", 14998, 101, 869, "kosi", "zen1", 107, 107}
+, 
+{"lighthalzen", 15000, 101, 862, "joyce", "", 190, 134}
+, 
+{"lighthalzen", 15001, 101, 869, "dan song", "zen2", 191, 134}
+, 
+{"lighthalzen", 15002, 101, 862, "maivi", "zen1", 78, 120}
+, 
+{"lighthalzen", 15003, 101, 869, "sigmund", "zen3", 232, 156}
+, 
+{"lighthalzen", 15004, 101, 862, "jade", "zen2", 239, 64}
+, 
+{"lighthalzen", 15007, 101, 866, "collins", "zen1", 115, 159}
+, 
+{"lighthalzen", 15008, 101, 862, "kimmy", "zen3", 176, 65}
+, 
+{"lighthalzen", 15009, 101, 863, "samnang", "zen2", 220, 244}
+, 
+{"lighthalzen", 15010, 101, 870, "bodger", "zen5", 364, 282}
+, 
+{"lighthalzen", 15011, 101, 870, "grinnel", "zen6", 326, 249}
+, 
+{"lighthalzen", 15012, 101, 870, "shenguen", "zen7", 306, 324}
+, 
+{"lighthalzen", 15014, 101, 847, "wallace", "zen2", 202, 94}
+, 
+{"lighthalzen", 15015, 101, 847, "mauro", "zen3", 138, 50}
+, 
+{"lighthalzen", 15016, 101, 869, "victor perfecto", "zen9", 77, 203}
+, 
+{"lighthalzen", 15018, 101, 866, "srinivas", "zen4", 258, 223}
+, 
+{"lighthalzen", 15019, 101, 92, "natasha", "zen1", 192, 63}
+, 
+{"lighthalzen", 15020, 101, 700, "merpi", "zen2", 123, 212}
+, 
+{"lighthalzen", 15021, 101, 866, "klaubisa", "zen3", 230, 182}
+, 
+{"lighthalzen", 15022, 101, 869, "vergil", "zen4", 40, 107}
+, 
+{"lighthalzen", 15023, 101, 866, "lucius", "zen5", 182, 102}
+, 
+{"lighthalzen", 15026, 101, 79, "monja", "light", 330, 276}
+, 
+{"lighthalzen", 15029, 101, 863, "janice", "zen03", 45, 59}
+, 
+{"lighthalzen", 15037, 101, 706, "berru", "lhz_01", 296, 239}
+, 
+{"lighthalzen", 15038, 101, 818, "pilia", "lhz_01", 297, 239}
+, 
+{"lighthalzen", 15039, 101, 870, "reuben", "lhz_02", 311, 194}
+, 
+{"lighthalzen", 15040, 101, 777, "mendigo", "lhz_02", 312, 233}
+, 
+{"lighthalzen", 15041, 101, 870, "cara suspeito", "lhz_01", 240, 216}
+, 
+{"lighthalzen", 15042, 101, 870, "cara suspeito", "lhz_02", 220, 169}
+, 
+{"lighthalzen", 15043, 101, 870, "cara suspeito", "lhz_03", 164, 127}
+, 
+{"lighthalzen", 15052, 101, 716, "sung", "A", 233, 82}
+, 
+{"lighthalzen", 15053, 101, 97, "kemp", "zen13", 125, 68}
+, 
+{"lighthalzen", 15054, 101, 862, "ruth", "zen4", 261, 112}
+, 
+{"lighthalzen", 15055, 101, 869, "oyoung", "zen14", 259, 108}
+, 
+{"lighthalzen", 15056, 101, 862, "jiwon", "zen5", 198, 285}
+, 
+{"lighthalzen", 15057, 101, 854, "samir", "zen15", 89, 73}
+, 
+{"lighthalzen", 15104, 101, 868, "funcionário da rekenber", "li", 337, 296}
+, 
+{"lighthalzen", 15109, 101, 866, "villagomez", "li_01", 77, 157}
+, 
+{"lighthalzen", 15110, 101, 734, "sefith", "li_01", 132, 103}
+, 
+{"lighthalzen", 15111, 101, 869, "laqumet", "li_02", 147, 105}
+, 
+{"lighthalzen", 15112, 101, 863, "margie keays", "li_02", 65, 94}
+, 
+{"lighthalzen", 15113, 101, 866, "elmer keays", "li_03", 66, 94}
+, 
+{"lighthalzen", 15114, 101, 72, "kariya", "li_01", 233, 121}
+, 
+{"lighthalzen", 15115, 101, 853, "homem ganancioso", "li_01", 205, 208}
+, 
+{"lighthalzen", 15124, 101, 109, "funcionário da rekenber", "li", 159, 222}
+, 
+{"lighthalzen", 15125, 101, 868, "guarda drew da rekenber", "li_kafra", 162, 304}
+, 
+{"lighthalzen", 15126, 101, 867, "guarda tan da rekenber", "li_kafra_1", 163, 306}
+, 
+{"lighthalzen", 15127, 101, 102, "delna", "li_reken", 70, 227}
+, 
+{"lighthalzen", 15195, 101, 861, "funcionária de votação kafra ", "lght", 163, 60}
+, 
+{"lighthalzen", 15230, 101, 874, "funcionário de votação eventos incríveis", "lght", 154, 60}
+, 
+{"lighthalzen", 15361, 101, 868, "espinha", "", 341, 224}
+, 
+{"lighthalzen", 15380, 101, 85, "velho", "", 141, 162}
+, 
+{"lighthalzen", 16032, 101, 85, "dono", "", 88, 79}
+, 
+{"lighthalzen", 16843, 102, 90, "florista", "", 112, 44}
+, 
+{"lighthalzen", 16844, 102, 90, "vendedor de leite", "", 220, 122}
+, 
+{"lighthalzen", 16845, 102, 102, "vendedora de frutas", "", 69, 75}
+, 
+{"lighthalzen", 16846, 102, 91, "vendedora de vegetais", "", 124, 129}
+, 
+{"lighthalzen", 16847, 102, 125, "adestrador", "", 222, 191}
+, 
+{"lighthalzen", 16880, 102, 83, "cozinheiro auxiliar", "", 126, 126}
+, 
+{"lighthalzen", 16910, 102, 66, "vendedora de armadilha", "", 337, 240}
+, 
+{"lighthalzen", 17012, 101, 706, "garoto", "Pacifier", 360, 313}
+, 
+{"lighthalzen", 17015, 101, 47, "cara estranho", "", 143, 68}
+, 
+{"lighthalzen", 17016, 101, 91, "senhora com aparência descansada", "", 182, 89}
+, 
+{"lighthalzen", 17156, 101, 860, "funcionária kafra", "", 164, 100}
+, 
+{"lighthalzen", 17157, 101, 861, "funcionária kafra", "", 191, 320}
+, 
+{"lighthalzen", 17159, 101, 874, "corp. eventos incríveis", "", 94, 248}
+, 
+{"lighthalzen", 20149, 101, 734, "krongast", "BLS", 209, 80}
+, 
+{"lighthalzen", 20435, 101, 891, "little girl", "job_min", 162, 126}
+, 
+{"lighthalzen", 20436, 101, 486, "karian", "cmd3", 160, 124}
+, 
+{"lighthalzen", 20593, 101, 86, "nannan", "", 226, 210}
+, 
+{"lighthalzen", 20746, 101, 86, "raabe", "gungun", 322, 247}
+, 
+{"lighthalzen", 20748, 101, 85, "harrison", "gun", 205, 284}
+, 
+{"lighthalzen", 20837, 101, 46, "dono do moinho", "kh", 366, 299}
+, 
+{"lighthalzen", 20838, 101, 97, "ajudante do moinho", "kh", 366, 289}
+, 
+{"lighthalzen", 21142, 101, 729, "oficial do Éden", "21", 164, 86}
+, 
+{"lighthalzen", 21252, 101, 86, "leablem", "", 96, 137}
+, 
+{"lighthalzen", 21319, 101, 728, "emissária de maroll", "", 153, 86}
+, 
+{"lighthalzen", 21532, 101, 899, "guia", "", 220, 292}
+, 
+{"lou_fild01", 14822, 101, 819, "guyeonbo", "1-1", 195, 177}
+, 
+{"lou_fild01", 14825, 101, 819, "guyeonbo", "1-2", 175, 173}
+, 
+{"lou_fild01", 14852, 101, 817, "mulher jovem", "Entrega em Mandokmoon", 224, 348}
+, 
+{"lou_fild01", 19922, 101, 815, "kunyang", "1", 190, 100}
+, 
+{"lou_in01", 14835, 101, 750, "produtor de pólvora", "", 43, 147}
+, 
+{"lou_in01", 14836, 101, 825, "soldado", "Gunpowder Inspection", 45, 138}
+, 
+{"lou_in01", 14837, 101, 825, "soldado", "Gunpo", 82, 139}
+, 
+{"lou_in01", 14858, 101, 821, "governador", "Bai Long", 99, 158}
+, 
+{"lou_in01", 14860, 101, 825, "soldado", "Bai Long1", 111, 151}
+, 
+{"lou_in01", 14862, 101, 825, "soldado", "Bai Long2", 91, 151}
+, 
+{"lou_in01", 14864, 101, 825, "soldado", "Bai Long3", 102, 144}
+, 
+{"lou_in01", 14866, 101, 825, "soldado", "Bai Long4", 99, 144}
+, 
+{"lou_in01", 14868, 101, 817, "moça gentil", "", 25, 23}
+, 
+{"lou_in02", 14818, 101, 822, "funcionário", "1", 53, 174}
+, 
+{"lou_in02", 14819, 101, 822, "funcionário", "2", 76, 181}
+, 
+{"lou_in02", 14820, 101, 818, "funcionária", "3", 61, 175}
+, 
+{"lou_in02", 14821, 101, 820, "cozinheiro", "1-2", 62, 183}
+, 
+{"lou_in02", 14828, 101, 823, "assistente de cozinha", "", 58, 183}
+, 
+{"lou_in02", 14829, 101, 746, "imigrante", "", 80, 173}
+, 
+{"lou_in02", 14830, 101, 816, "yugarim", "", 42, 186}
+, 
+{"lou_in02", 14831, 101, 827, "jangwong", "", 43, 169}
+, 
+{"lou_in02", 14834, 101, 824, "pessoa escondida", "", 77, 37}
+, 
+{"lou_in02", 14838, 101, 814, "doutora", "Medicina", 265, 69}
+, 
+{"lou_in02", 14839, 101, 798, "paciente", "", 272, 55}
+, 
+{"lou_in02", 14840, 101, 824, "vendedor de ferramentas", "", 248, 166}
+, 
+{"lou_in02", 14841, 101, 819, "especialista em lanças", "", 201, 166}
+, 
+{"lou_in02", 14842, 101, 825, "soldado", "", 210, 47}
+, 
+{"lou_in02", 14843, 101, 822, "homem dos papéis", "", 156, 38}
+, 
+{"lou_in02", 14848, 101, 824, "o rei dos venenos", "", 123, 39}
+, 
+{"lou_in02", 14850, 101, 822, "bibliotecário", "Man Dok Moon", 253, 45}
+, 
+{"lou_in02", 16832, 102, 818, "vendedor de ferramentas", "", 239, 176}
+, 
+{"lou_in02", 16833, 102, 818, "vendedor de armaduras", "", 121, 182}
+, 
+{"lou_in02", 16834, 102, 822, "vendedor de armas", "", 130, 182}
+, 
+{"louyang", 12999, 101, 109, "agente vip", "", 210, 107}
+, 
+{"louyang", 14803, 101, 815, "mulher de personalidade", "", 297, 167}
+, 
+{"louyang", 14804, 101, 819, "homem de personalidade ", "", 274, 136}
+, 
+{"louyang", 14805, 101, 819, "pessoa realizada", "", 276, 136}
+, 
+{"louyang", 14806, 101, 819, "discípulo", "1", 276, 133}
+, 
+{"louyang", 14807, 101, 819, "discípulo", "2", 276, 131}
+, 
+{"louyang", 14808, 101, 819, "discípulo", "3", 276, 129}
+, 
+{"louyang", 14809, 101, 819, "discípulo", "4", 274, 133}
+, 
+{"louyang", 14810, 101, 819, "discípulo", "5", 274, 131}
+, 
+{"louyang", 14811, 101, 819, "discípulo", "6", 274, 129}
+, 
+{"louyang", 14812, 101, 819, "discípulo", "7", 278, 133}
+, 
+{"louyang", 14813, 101, 819, "discípulo", "8", 278, 131}
+, 
+{"louyang", 14814, 101, 819, "discípulo", "9", 278, 129}
+, 
+{"louyang", 14815, 101, 819, "discípulo", "10", 272, 133}
+, 
+{"louyang", 14816, 101, 819, "discípulo", "11", 272, 131}
+, 
+{"louyang", 14817, 101, 819, "discípulo", "12", 272, 129}
+, 
+{"louyang", 14832, 101, 824, "juckopyung", "", 261, 123}
+, 
+{"louyang", 14833, 101, 815, "gujarung", "", 174, 150}
+, 
+{"louyang", 16882, 102, 820, "cozinheiro auxiliar", "", 256, 123}
+, 
+{"louyang", 17037, 101, 818, "guia de louyang", "01louyang", 224, 104}
+, 
+{"louyang", 17150, 101, 116, "funcionária kafra", "", 210, 104}
+, 
+{"louyang", 21148, 101, 729, "oficial do Éden", "24", 227, 107}
+, 
+{"ma_dun01", 11898, 101, 569, "enfermeira", "ma_n2", 35, 108}
+, 
+{"ma_dun01", 11912, 101, 858, "vareta suspeita", "ma_d1", 152, 23}
+, 
+{"ma_dun01", 12027, 101, 569, "enfermeira", "ma_dun01", 147, 10}
+, 
+{"ma_fild01", 11858, 101, 580, "kiko em mumbaki", "mal", 261, 208}
+, 
+{"ma_fild01", 11859, 101, 570, "guarda dhong", "mal", 239, 253}
+, 
+{"ma_fild01", 11860, 101, 972, "cão de guarda vantai", "mal", 238, 257}
+, 
+{"ma_fild01", 11861, 101, 579, "maries", "mal01", 200, 190}
+, 
+{"ma_fild01", 11862, 101, 576, "garotinha", "mal01", 203, 189}
+, 
+{"ma_fild01", 11863, 101, 576, "criança perdida", "mal01", 251, 93}
+, 
+{"ma_fild01", 11864, 101, 576, "criancinha", "mal02", 114, 141}
+, 
+{"ma_fild01", 11865, 101, 576, "criancinha", "mal03", 130, 314}
+, 
+{"ma_fild01", 11874, 101, 582, "imigrante de malaya", "bako2", 165, 237}
+, 
+{"ma_fild01", 11885, 101, 582, "trabalhador hostil", "bako2", 54, 253}
+, 
+{"ma_fild01", 11886, 101, 577, "trabalhador queixoso", "bako2", 236, 119}
+, 
+{"ma_fild01", 11966, 101, 582, "ferreiro da tribo", "malaya", 158, 243}
+, 
+{"ma_fild01", 11970, 101, 575, "velhinha em dilema", "Greater Agimat", 166, 214}
+, 
+{"ma_fild01", 11971, 101, 582, "perito em tikbalang", "malaya", 238, 198}
+, 
+{"ma_fild01", 11972, 101, 572, "criatura desconhecida", "01", 74, 367}
+, 
+{"ma_fild01", 11973, 101, 572, "criatura desconhecida", "02", 109, 116}
+, 
+{"ma_fild01", 11974, 101, 572, "criatura desconhecida", "03", 280, 150}
+, 
+{"ma_fild01", 11975, 101, 572, "criatura desconhecida", "04", 309, 221}
+, 
+{"ma_fild01", 11986, 101, 577, "ajudante do festival", "pin", 179, 260}
+, 
+{"ma_fild01", 11987, 101, 574, "tatuador", "pin", 172, 223}
+, 
+{"ma_fild01", 11988, 101, 58, "turista", "pin01", 192, 200}
+, 
+{"ma_fild01", 11989, 101, 775, "turista", "pin02", 211, 200}
+, 
+{"ma_fild01", 11990, 101, 824, "turista", "pin03", 251, 205}
+, 
+{"ma_fild01", 11991, 101, 582, "jovem tatuador", "pin04", 249, 206}
+, 
+{"ma_fild01", 11992, 101, 815, "turista", "pin05", 162, 235}
+, 
+{"ma_fild01", 11993, 101, 578, "jovem tamborilando", "pin06", 164, 234}
+, 
+{"ma_fild01", 11994, 101, 578, "jovem tamborilando", "pin07", 170, 231}
+, 
+{"ma_fild01", 11995, 101, 578, "jovem tamborilando", "pin08", 164, 228}
+, 
+{"ma_fild01", 11996, 101, 577, "garoto no ritmo", "pin09", 170, 234}
+, 
+{"ma_fild01", 11997, 101, 577, "garoto no ritmo", "pin10", 164, 231}
+, 
+{"ma_fild01", 11998, 101, 577, "garoto no ritmo", "pin11", 170, 228}
+, 
+{"ma_fild02", 11836, 101, 570, "guarda", "", 312, 317}
+, 
+{"ma_fild02", 11866, 101, 572, "capre bom budidai", "", 241, 39}
+, 
+{"ma_fild02", 11873, 101, 578, "imigrante de malaya", "bako1", 40, 240}
+, 
+{"ma_fild02", 11937, 101, 557, "rastro desconhecido", "buwaya_1", 155, 235}
+, 
+{"ma_fild02", 11938, 101, 557, "rastro desconhecido", "buwaya_2", 143, 142}
+, 
+{"ma_fild02", 11939, 101, 557, "rastro desconhecido", "buwaya_3", 266, 155}
+, 
+{"ma_fild02", 11940, 101, 557, "rastro desconhecido", "buwaya_4", 221, 91}
+, 
+{"ma_fild02", 11941, 101, 557, "rastro desconhecido", "buwaya_5", 205, 85}
+, 
+{"ma_fild02", 11942, 101, 557, "rastro desconhecido", "buwaya_6", 300, 98}
+, 
+{"ma_fild02", 11943, 101, 557, "rastro desconhecido", "buwaya_7", 100, 275}
+, 
+{"ma_fild02", 11944, 101, 81, "cachorro", "buwaya", 312, 259}
+, 
+{"ma_fild02", 11945, 101, 570, "guarda", "buwayacave", 308, 262}
+, 
+{"ma_fild02", 11976, 101, 572, "criatura desconhecida", "05", 282, 41}
+, 
+{"ma_fild02", 11977, 101, 572, "criatura desconhecida", "06", 246, 324}
+, 
+{"ma_fild02", 11978, 101, 572, "criatura desconhecida", "07", 71, 296}
+, 
+{"ma_fild02", 11979, 101, 572, "criatura desconhecida", "08", 32, 263}
+, 
+{"ma_in01", 11850, 101, 1752, "fantasma diwata", "mal", 125, 107}
+, 
+{"ma_in01", 11933, 101, 577, "totoy", "buwaya", 47, 101}
+, 
+{"ma_in01", 11934, 101, 81, "cachorro", "buwaya_totoi", 43, 101}
+, 
+{"ma_in01", 11969, 101, 583, "estalajadeira", "ma", 30, 94}
+, 
+{"ma_in01", 16932, 102, 536, "vendedor de armas", "ma", 73, 22}
+, 
+{"ma_in01", 16933, 102, 536, "vendedor de utilidades", "ma", 22, 23}
+, 
+{"ma_in01", 16935, 102, 536, "vendedor de armaduras", "ma", 67, 13}
+, 
+{"ma_scene01", 11887, 101, 578, "trabalhador covarde", "bako2", 177, 89}
+, 
+{"ma_scene01", 11888, 101, 582, "trabalhador melancólico", "bako2", 141, 118}
+, 
+{"ma_scene01", 11889, 101, 578, "trabalhador sentimental", "bako2", 175, 170}
+, 
+{"ma_scene01", 11980, 101, 572, "criatura desconhecida", "09", 195, 92}
+, 
+{"ma_scene01", 11981, 101, 572, "criatura desconhecida", "10", 158, 139}
+, 
+{"ma_scene01", 11982, 101, 572, "criatura desconhecida", "11", 167, 112}
+, 
+{"ma_scene01", 12026, 101, 541, "taho", "", 174, 179}
+, 
+{"mal_dun01", 12134, 101, 549, "linguista devore", "mald", 136, 120}
+, 
+{"mal_dun01", 12135, 101, 551, "bolacha", "mal", 136, 122}
+, 
+{"mal_dun01", 12137, 101, 552, "doce estelar", "mal", 133, 125}
+, 
+{"mal_dun01", 12298, 101, 551, "estrela do mar", "", 151, 235}
+, 
+{"mal_in01", 12122, 101, 547, "rican", "mal", 114, 169}
+, 
+{"mal_in01", 12123, 101, 563, "máquina de secar", "mal", 116, 168}
+, 
+{"mal_in01", 12170, 101, 549, "diretor dos jogos", "gamer", 31, 210}
+, 
+{"mal_in01", 12176, 101, 544, "ser", "gamer", 91, 216}
+, 
+{"mal_in01", 12177, 101, 544, "paa", "gamer", 86, 222}
+, 
+{"mal_in01", 12178, 101, 422, "kuka", "gamer", 91, 222}
+, 
+{"mal_in01", 12179, 101, 422, "kungkung", "gamer", 134, 221}
+, 
+{"mal_in01", 12180, 101, 546, "líder", "gamer", 133, 214}
+, 
+{"mal_in01", 12181, 101, 553, "seichi", "gamer", 136, 216}
+, 
+{"mal_in01", 12182, 101, 559, "row", "gamer", 136, 215}
+, 
+{"mal_in01", 12183, 101, 876, "debong", "gamer", 136, 214}
+, 
+{"mal_in01", 12184, 101, 421, "libs", "gamer", 136, 213}
+, 
+{"mal_in01", 12185, 101, 554, "yongyong", "gamer", 136, 212}
+, 
+{"mal_in01", 12187, 101, 858, "placa", "Cat G 1F", 15, 221}
+, 
+{"mal_in01", 12188, 101, 858, "placa", "Cat G B1", 77, 214}
+, 
+{"mal_in01", 12189, 101, 858, "placa", "Cat G B2", 142, 220}
+, 
+{"mal_in01", 12190, 101, 890, "uneet", "gamer", 155, 222}
+, 
+{"mal_in01", 12191, 101, 560, "candidato", "gamer", 30, 222}
+, 
+{"mal_in01", 12192, 101, 555, "gato aguardando", "gamer", 19, 213}
+, 
+{"mal_in01", 12212, 101, 561, "bigodes", "pa0829", 172, 28}
+, 
+{"mal_in01", 12213, 101, 544, "amy", "pa0829", 172, 26}
+, 
+{"mal_in01", 12299, 101, 545, "missing, the cleaner", "", 160, 34}
+, 
+{"mal_in02", 12091, 101, 505, "ajudante de investimento", "malang", 134, 31}
+, 
+{"mal_in02", 12093, 101, 495, "samuel", "mal", 28, 56}
+, 
+{"mal_in02", 12094, 101, 556, "tomas", "mal", 22, 62}
+, 
+{"mal_in02", 12095, 101, 421, "presidente do conselho", "mal", 182, 61}
+, 
+{"mal_in02", 12096, 101, 422, "scottfold", "mal", 178, 66}
+, 
+{"mal_in02", 12097, 101, 546, "koon", "mal", 177, 58}
+, 
+{"mal_in02", 12098, 101, 549, "linguista devore", "mal", 174, 64}
+, 
+{"mal_in02", 12099, 101, 559, "geologista mali", "mal", 179, 57}
+, 
+{"mal_in02", 12100, 101, 553, "bob", "mal", 140, 94}
+, 
+{"mal_in02", 12121, 101, 545, "brie", "mal", 181, 55}
+, 
+{"mal_in02", 12136, 101, 544, "cleaning staff", "mal", 102, 94}
+, 
+{"mal_in02", 12151, 101, 495, "banam", "mal", 1, 1}
+, 
+{"mal_in02", 12162, 101, 547, "mia", "ml", 184, 72}
+, 
+{"mal_in02", 12166, 101, 548, "chef nyas", "malqook01", 187, 58}
+, 
+{"mal_in02", 12167, 101, 544, "cleanyang", "malqook02", 76, 63}
+, 
+{"mal_in02", 12204, 101, 555, "luna", "nyaong01", 166, 74}
+, 
+{"mal_in02", 12205, 101, 561, "lili", "nyaong02", 132, 95}
+, 
+{"mal_in02", 12206, 101, 545, "mymy", "nyaong03", 109, 62}
+, 
+{"malangdo", 12066, 101, 564, "máquina do agradecimento", "Invest", 215, 119}
+, 
+{"malangdo", 12067, 101, 857, "comunicado da corporação", "Investment Event", 218, 126}
+, 
+{"malangdo", 12068, 101, 545, "namis", "Investment Event", 218, 123}
+, 
+{"malangdo", 12092, 101, 560, "gerente de armazém", "storage", 184, 139}
+, 
+{"malangdo", 12101, 101, 550, "rachadura", "mal1", 114, 157}
+, 
+{"malangdo", 12103, 101, 550, "rachadura", "mal2", 284, 237}
+, 
+{"malangdo", 12105, 101, 550, "rachadura", "mal3", 134, 150}
+, 
+{"malangdo", 12107, 101, 550, "rachadura", "mal4", 173, 199}
+, 
+{"malangdo", 12109, 101, 550, "rachadura", "mal5", 233, 197}
+, 
+{"malangdo", 12111, 101, 550, "rachadura", "mal6", 137, 239}
+, 
+{"malangdo", 12113, 101, 550, "rachadura", "mal7", 239, 157}
+, 
+{"malangdo", 12115, 101, 550, "rachadura", "mal8", 221, 155}
+, 
+{"malangdo", 12117, 101, 550, "rachadura", "mal9", 217, 109}
+, 
+{"malangdo", 12119, 101, 550, "rachadura", "mal10", 162, 183}
+, 
+{"malangdo", 12124, 101, 557, "montinho de areia", "mal1", 221, 139}
+, 
+{"malangdo", 12125, 101, 557, "montinho de areia", "mal2", 208, 174}
+, 
+{"malangdo", 12126, 101, 557, "montinho de areia", "mal3", 191, 223}
+, 
+{"malangdo", 12127, 101, 557, "montinho de areia", "mal4", 150, 195}
+, 
+{"malangdo", 12128, 101, 557, "montinho de areia", "mal5", 116, 196}
+, 
+{"malangdo", 12129, 101, 557, "montinho de areia", "mal6", 178, 145}
+, 
+{"malangdo", 12130, 101, 557, "montinho de areia", "mal7", 142, 120}
+, 
+{"malangdo", 12131, 101, 557, "montinho de areia", "mal8", 136, 122}
+, 
+{"malangdo", 12132, 101, 557, "montinho de areia", "mal9", 152, 143}
+, 
+{"malangdo", 12133, 101, 557, "montinho de areia", "mal10", 242, 175}
+, 
+{"malangdo", 12138, 101, 546, "portali", "mal", 190, 167}
+, 
+{"malangdo", 12152, 101, 561, "el gatom sem rabom", "ml", 175, 206}
+, 
+{"malangdo", 12153, 101, 547, "hina", "ml1", 181, 205}
+, 
+{"malangdo", 12154, 101, 547, "felícia", "ml1", 180, 202}
+, 
+{"malangdo", 12155, 101, 547, "pérola", "ml1", 186, 201}
+, 
+{"malangdo", 12156, 101, 547, "clara", "ml2", 177, 202}
+, 
+{"malangdo", 12157, 101, 547, "leona", "ml3", 183, 202}
+, 
+{"malangdo", 12158, 101, 543, "negociante suspeito", "ml", 203, 116}
+, 
+{"malangdo", 12159, 101, 543, "vendedor muito suspeito", "ml1", 205, 116}
+, 
+{"malangdo", 12160, 101, 546, "gato tolo", "ml", 197, 120}
+, 
+{"malangdo", 12161, 101, 543, "vendedor suspeitíssimo", "ml2", 171, 163}
+, 
+{"malangdo", 12163, 101, 545, "líder da patrulha", "ml", 125, 147}
+, 
+{"malangdo", 12164, 101, 545, "oficial de prevenção", "ml", 129, 146}
+, 
+{"malangdo", 12165, 101, 549, "agência de latas", "", 175, 145}
+, 
+{"malangdo", 12168, 101, 557, "montinho de areia", "malq07", 133, 134}
+, 
+{"malangdo", 12169, 101, 557, "montinho de areia", "malq12", 197, 237}
+, 
+{"malangdo", 12171, 101, 547, "gato estranho", "gamer", 127, 111}
+, 
+{"malangdo", 12172, 101, 876, "eryu", "gamer", 161, 197}
+, 
+{"malangdo", 12173, 101, 555, "stew", "gamer", 230, 197}
+, 
+{"malangdo", 12174, 101, 546, "ketchup", "gamer", 244, 144}
+, 
+{"malangdo", 12175, 101, 560, "eff", "gamer", 181, 119}
+, 
+{"malangdo", 12186, 101, 858, "placa", "Cat G Entrance", 120, 140}
+, 
+{"malangdo", 12193, 101, 544, "clink", "Malang Normal", 224, 172}
+, 
+{"malangdo", 12194, 101, 559, "holink", "Malang Cash", 221, 174}
+, 
+{"malangdo", 12195, 101, 554, "mercadora negra tica", "", 236, 179}
+, 
+{"malangdo", 12196, 101, 564, "máquina sombria tx100", "", 233, 180}
+, 
+{"malangdo", 12197, 101, 561, "harry", "nya_01", 165, 223}
+, 
+{"malangdo", 12198, 101, 560, "Ízis", "nya_11", 211, 203}
+, 
+{"malangdo", 12199, 101, 559, "maria eduarda", "nya_09", 214, 204}
+, 
+{"malangdo", 12200, 101, 553, "mione", "nya_10", 215, 201}
+, 
+{"malangdo", 12201, 101, 544, "marinheiro bubi", "nya_16", 176, 165}
+, 
+{"malangdo", 12202, 101, 560, "detetive", "nya_14", 172, 178}
+, 
+{"malangdo", 12203, 101, 559, "amigo do detetive", "nya_15", 173, 177}
+, 
+{"malangdo", 12207, 101, 549, "leleco", "", 137, 200}
+, 
+{"malangdo", 12208, 101, 555, "snow", "pa0829", 213, 167}
+, 
+{"malangdo", 12209, 101, 553, "pookie", "pa0829", 215, 166}
+, 
+{"malangdo", 12210, 101, 564, "máquina de câmbio cx-1", "pa0829", 220, 167}
+, 
+{"malangdo", 12211, 101, 562, "máquina especial", "pa0829", 218, 165}
+, 
+{"malangdo", 12214, 101, 495, "mercador andarilho", "", 162, 146}
+, 
+{"malangdo", 12215, 101, 496, "mercador stinky", "", 173, 145}
+, 
+{"malangdo", 12216, 101, 495, "mercador viajante", "", 150, 135}
+, 
+{"malangdo", 12217, 101, 554, "atendente da pousada", "malang", 147, 117}
+, 
+{"malangdo", 12219, 101, 479, "trovador andarilho", "malang", 151, 120}
+, 
+{"malangdo", 12220, 101, 485, "musa andarilha", "malang", 149, 120}
+, 
+{"malangdo", 12221, 101, 558, "treinadora de gatos", "malang", 216, 168}
+, 
+{"malangdo", 12222, 101, 853, "treinador de gatos", "malang1", 164, 203}
+, 
+{"malangdo", 12247, 101, 545, "kong", "sailor malang", 219, 86}
+, 
+{"malangdo", 12300, 101, 546, "guia de malangdo", "malangdo", 218, 101}
+, 
+{"malangdo", 12660, 101, 559, "richard", "pa0829", 208, 166}
+, 
+{"malangdo", 16931, 102, 560, "vendedor de ferramentas", "", 232, 163}
+, 
+{"malaya", 11839, 101, 475, "imelda", "pm03", 169, 350}
+, 
+{"malaya", 11867, 101, 578, "homem cantando", "bako1", 280, 331}
+, 
+{"malaya", 11868, 101, 579, "mulher cantando", "bako1", 275, 333}
+, 
+{"malaya", 11869, 101, 577, "menino assustado", "bako1", 290, 329}
+, 
+{"malaya", 11870, 101, 576, "donzela assustada", "bako1", 264, 338}
+, 
+{"malaya", 11871, 101, 575, "velha cartomante", "bako1", 272, 339}
+, 
+{"malaya", 11876, 101, 578, "homem irritado", "bako2", 286, 269}
+, 
+{"malaya", 11877, 101, 579, "mulher calma", "bako2", 276, 269}
+, 
+{"malaya", 11878, 101, 577, "garoto irrigado", "bako2", 276, 262}
+, 
+{"malaya", 11983, 101, 576, "garotinha", "ma04", 88, 252}
+, 
+{"malaya", 11984, 101, 577, "garotinho", "ma05", 219, 92}
+, 
+{"malaya", 11985, 101, 583, "mulher", "ma08", 63, 185}
+, 
+{"malaya", 11999, 101, 582, "motorista de jeepney", "01", 237, 240}
+, 
+{"malaya", 12002, 101, 582, "motorista de jeepney", "02", 67, 44}
+, 
+{"malaya", 12005, 101, 582, "motorista de jeepney", "03", 282, 129}
+, 
+{"malaya", 12008, 101, 582, "motorista de jeepney", "04", 134, 250}
+, 
+{"malaya", 12011, 101, 582, "motorista de jeepney", "05", 341, 153}
+, 
+{"malaya", 12014, 101, 582, "motorista de jeepney", "06", 293, 290}
+, 
+{"malaya", 12017, 101, 582, "motorista de jeepney", "07", 242, 221}
+, 
+{"malaya", 12020, 101, 582, "motorista de jeepney", "08", 62, 245}
+, 
+{"malaya", 12023, 101, 582, "motorista de jeepney", "09", 257, 58}
+, 
+{"malaya", 16934, 102, 535, "vendedor de frutas", "ma", 150, 261}
+, 
+{"malaya", 17042, 101, 579, "guia de porto malaya", "01", 71, 72}
+, 
+{"malaya", 17167, 101, 581, "funcionária kafra", "01", 71, 79}
+, 
+{"malaya", 17168, 101, 581, "funcionária kafra", "02", 234, 204}
+, 
+{"malaya", 21198, 101, 729, "oficial do Éden", "42", 238, 206}
+, 
+{"man_fild02", 11729, 101, 421, "gato do teleporte no.5", "", 135, 49}
+, 
+{"man_fild02", 13145, 101, 421, "ag. pata de gato", "", 132, 47}
+, 
+{"man_in01", 13034, 101, 454, "repairmanep13bs", "", 360, 137}
+, 
+{"man_in01", 13051, 101, 454, "mercador manuko", "", 286, 16}
+, 
+{"man_in01", 13244, 101, 450, "guarda manuk", "1_edq", 286, 61}
+, 
+{"man_in01", 13245, 101, 450, "guarda manuk", "2_edq", 295, 61}
+, 
+{"man_in01", 13246, 101, 437, "prisioneira de esplendor", "edq", 291, 62}
+, 
+{"manuk", 12474, 101, 450, "controlador garton", "ep133_09", 321, 182}
+, 
+{"manuk", 12641, 101, 402, "engenheiro mecatrônico", "Manuk", 273, 212}
+, 
+{"manuk", 13006, 101, 454, "phiom", "", 100, 100}
+, 
+{"manuk", 13007, 101, 449, "benknee", "", 188, 216}
+, 
+{"manuk", 13008, 101, 455, "phiom", "", 169, 260}
+, 
+{"manuk", 13009, 101, 450, "kalton", "", 218, 163}
+, 
+{"manuk", 13010, 101, 450, "kalton", "", 266, 199}
+, 
+{"manuk", 13011, 101, 449, "benknee", "", 225, 129}
+, 
+{"manuk", 13012, 101, 454, "phiom", "", 286, 147}
+, 
+{"manuk", 13013, 101, 454, "phiom", "", 183, 185}
+, 
+{"manuk", 13014, 101, 450, "kalton", "", 256, 143}
+, 
+{"manuk", 13015, 101, 455, "phiom", "", 245, 124}
+, 
+{"manuk", 13054, 101, 460, "piom manuko", "tre1", 99, 334}
+, 
+{"manuk", 13055, 101, 455, "piom manuko", "tre2", 103, 311}
+, 
+{"manuk", 13056, 101, 454, "piom manuko", "tre4", 293, 203}
+, 
+{"manuk", 13057, 101, 449, "benknee manuko", "tre5", 253, 173}
+, 
+{"manuk", 13066, 101, 454, "camponês", "ep13_11", 278, 177}
+, 
+{"manuk", 13067, 101, 449, "camponês", "ep13_12", 281, 177}
+, 
+{"manuk", 13216, 101, 450, "manuk garton", "ep13_2dayq01", 252, 116}
+, 
+{"manuk", 20530, 101, 105, "soldado dos manuks", "", 273, 206}
+, 
+{"mid_camp", 11625, 101, 10007, "portal da fissura", "gate01", 210, 292}
+, 
+{"mid_camp", 11627, 101, 852, "guia da fissura", "gk01", 207, 290}
+, 
+{"mid_camp", 11628, 101, 852, "guia da fissura", "gk02", 212, 290}
+, 
+{"mid_camp", 11724, 101, 421, "gato do teleporte no.4", "", 207, 234}
+, 
+{"mid_camp", 12463, 101, 930, "viajante ben", "ep133_is01", 220, 246}
+, 
+{"mid_camp", 12464, 101, 868, "viajante maha", "ep133_is02", 223, 246}
+, 
+{"mid_camp", 12643, 101, 402, "engenheiro mecatrônico", "Midgards", 242, 243}
+, 
+{"mid_camp", 16907, 102, 66, "vendedora de armadilha", "", 129, 284}
+, 
+{"mid_camp", 16912, 102, 49, "pe?s para m.e.c.h.a.", "", 184, 263}
+, 
+{"mid_camp", 20396, 101, 468, "cavaleiro rúnico sábio", "", 238, 250}
+, 
+{"mid_camp", 20397, 101, 83, "cavaleiro rúnico despachante", "rune1", 13, 138}
+, 
+{"mid_camp", 20520, 101, 700, "vendedora de pontos", "Midgard", 224, 237}
+, 
+{"mid_camp", 20532, 101, 105, "soldado de midgard ", "", 242, 238}
+, 
+{"mid_camp", 21490, 101, 712, "henry clifford", "", 66, 122}
+, 
+{"mid_camp", 21491, 101, 876, "minerador p. de gato", "", 88, 100}
+, 
+{"mid_camp", 21513, 101, 1989, "leão da montanha", "alba01", 152, 316}
+, 
+{"mid_camp", 21514, 101, 1986, "tatacho", "alba02", 145, 313}
+, 
+{"mid_camp", 21515, 101, 1992, "cornus", "alba03", 162, 306}
+, 
+{"mid_camp", 21520, 101, 852, "guarda do acampamento", "man2", 13, 143}
+, 
+{"mid_camp", 21522, 101, 852, "guarda do acampamento", "man3", 9, 215}
+, 
+{"mid_camp", 21563, 101, 707, "guarda da expedição", "", 213, 286}
+, 
+{"mid_camp", 21622, 101, 931, "diego", "ep13bs", 264, 263}
+, 
+{"mid_camp", 21629, 101, 886, "soldado cozinheiro", "ep13bs", 159, 282}
+, 
+{"mid_camp", 21630, 101, 937, "mago", "ep13bs", 166, 248}
+, 
+{"mid_campin", 12466, 101, 852, "soldado", "ep133_is04", 111, 120}
+, 
+{"mid_campin", 12470, 101, 997, "hound", "ep133_is06", 168, 125}
+, 
+{"mid_campin", 21494, 101, 751, "instrutor igrid", "", 85, 118}
+, 
+{"mid_campin", 21621, 101, 89, "recepcionista brink", "ep13bs", 106, 122}
+, 
+{"mid_campin", 21625, 101, 849, "davi", "ep13bs", 292, 120}
+, 
+{"mjolnir_01", 13446, 101, 81, "cão", "prt", 312, 269}
+, 
+{"mjolnir_02", 17129, 101, 116, "funcionária kafra", "", 82, 362}
+, 
+{"mjolnir_02", 19986, 101, 837, "quadro de avisos", "coal", 76, 362}
+, 
+{"mjolnir_11", 20581, 101, 95, "acolyte", "tu", 40, 83}
+, 
+{"moc_fild12", 19766, 101, 59, "serutero", "", 35, 303}
+, 
+{"moc_fild15", 19982, 101, 837, "quadro de avisos", "anthell", 267, 264}
+, 
+{"moc_fild16", 14225, 101, 55, "hasisit", "07rhea_29", 199, 212}
+, 
+{"moc_fild16", 14226, 101, 118, "d. b. seven", "07rhea_30", 211, 254}
+, 
+{"moc_fild16", 20456, 101, 486, "karian", "cmd7", 204, 231}
+, 
+{"moc_fild19", 19984, 101, 837, "quadro de avisos", "sphinx", 107, 101}
+, 
+{"moc_fild20", 12561, 101, 876, "gato", "to22", 368, 197}
+, 
+{"moc_fild20", 21351, 101, 707, "continental guard", "11_edq", 354, 183}
+, 
+{"moc_fild20", 21358, 101, 707, "guarda continental", "12_edq", 354, 174}
+, 
+{"moc_fild20", 21365, 101, 707, "guarda continental", "21_edq", 38, 174}
+, 
+{"moc_fild20", 21372, 101, 707, "guarda continental", "22_edq", 38, 183}
+, 
+{"moc_fild20", 21379, 101, 707, "guarda continental", "31_edq", 189, 21}
+, 
+{"moc_fild20", 21386, 101, 707, "guarda continental", "32_edq", 200, 21}
+, 
+{"moc_fild20", 21393, 101, 707, "guarda continental", "41_edq", 203, 336}
+, 
+{"moc_fild20", 21404, 101, 707, "guarda continental", "42_edq", 215, 336}
+, 
+{"moc_fild22b", 11629, 101, 10007, "dispositivo de morroc", "gate02", 222, 200}
+, 
+{"moc_fild22b", 11631, 101, 707, "guia da fissura", "gk03", 225, 198}
+, 
+{"moc_fild22b", 11632, 101, 707, "guia da fissura", "gk04", 223, 203}
+, 
+{"moc_fild22b", 12563, 101, 495, "agente tat", "Tat", 182, 179}
+, 
+{"moc_para01", 10049, 101, 891, "elena", "2016xmas", 37, 20}
+, 
+{"moc_para01", 12301, 101, 857, "placa de missões 86-90", "", 48, 175}
+, 
+{"moc_para01", 12302, 101, 857, "placa de missões 91-99", "", 48, 177}
+, 
+{"moc_para01", 12569, 101, 704, "catalogador mágico", "catal01", 22, 16}
+, 
+{"moc_para01", 12685, 101, 941, "wonka", "2016VE", 184, 36}
+, 
+{"moc_para01", 12686, 101, 876, "waffle", "2016VE", 186, 36}
+, 
+{"moc_para01", 12687, 101, 88, "vendedor de farinha", "2016VE", 187, 30}
+, 
+{"moc_para01", 21098, 101, 857, "solicitações [11 - 25]", "Tuto", 36, 38}
+, 
+{"moc_para01", 21100, 101, 857, "solicitações [41 - 55]", "", 40, 38}
+, 
+{"moc_para01", 21101, 101, 952, "secretária lenore", "eden", 27, 35}
+, 
+{"moc_para01", 21194, 101, 900, "velho aventureiro", "eden", 16, 22}
+, 
+{"moc_para01", 21195, 101, 886, "chef de Éden", "eden", 182, 48}
+, 
+{"moc_para01", 21196, 101, 883, "estagiário de Éden", "eden", 172, 28}
+, 
+{"moc_para01", 21197, 101, 814, "assistente do escritório", "eden", 20, 35}
+, 
+{"moc_para01", 21200, 101, 469, "instrutora boya", "para01", 25, 35}
+, 
+{"moc_para01", 21207, 101, 967, "administrador mihael", "para09", 112, 96}
+, 
+{"moc_para01", 21208, 101, 820, "chef", "", 179, 44}
+, 
+{"moc_para01", 21209, 101, 857, "solicitações [26 - 40]", "09tuto_rhea01", 38, 38}
+, 
+{"moc_para01", 21216, 101, 857, "solicitações [71 - 85]", "", 44, 38}
+, 
+{"moc_para01", 21222, 101, 857, "solicitações [55 - 70]", "", 42, 38}
+, 
+{"moc_para01", 21223, 101, 468, "instrutor uru", "2nd01", 23, 35}
+, 
+{"moc_para01", 21232, 101, 813, "ferreiro torhen", "2nd10", 111, 83}
+, 
+{"moc_para01", 21233, 101, 851, "especialista bk", "2nd11", 112, 79}
+, 
+{"moc_prydb1", 11827, 101, 547, "gato suspeito", "nightmare1", 103, 54}
+, 
+{"moc_prydb1", 19863, 101, 118, "yuji", "", 154, 128}
+, 
+{"moc_prydb1", 20011, 101, 69, "gatuna ajudante", "", 39, 129}
+, 
+{"moc_prydb1", 20012, 101, 118, "thief guildsman", "", 42, 133}
+, 
+{"moc_prydb1", 21118, 101, 729, "oficial do Éden", "9", 53, 126}
+, 
+{"moc_prydn1", 11829, 101, 547, "gato suspeito", "nightmare1", 94, 98}
+, 
+{"moc_ruins", 14210, 101, 99, "adolescente", "07rhea_14", 123, 154}
+, 
+{"moc_ruins", 14211, 101, 61, "velinho", "07rhea_15", 128, 153}
+, 
+{"moc_ruins", 14212, 101, 85, "homem sábio", "07rhea_16", 132, 144}
+, 
+{"moc_ruins", 14213, 101, 83, "jovem mercador", "07rhea_17", 115, 144}
+, 
+{"moc_ruins", 14214, 101, 99, "jovem minerador", "07rhea_18", 109, 138}
+, 
+{"moc_ruins", 14216, 101, 48, "homem pálido", "07rhea_22", 94, 117}
+, 
+{"moc_ruins", 14217, 101, 703, "garotinha", "07rhea_31", 115, 82}
+, 
+{"moc_ruins", 14218, 101, 706, "garotinho", "07rhea_32", 118, 82}
+, 
+{"moc_ruins", 14219, 101, 66, "silviaje", "07rhea_23", 121, 116}
+, 
+{"moc_ruins", 14220, 101, 47, "arikari", "07rhea_24", 155, 107}
+, 
+{"moc_ruins", 14221, 101, 118, "jovem assassino", "07rhea_25", 143, 43}
+, 
+{"moc_ruins", 14222, 101, 49, "desertry", "07rhea_26", 173, 141}
+, 
+{"moc_ruins", 14223, 101, 54, "miuda armani", "07rhea_27", 174, 120}
+, 
+{"moc_ruins", 14224, 101, 48, "flannet", "07rhea_28", 173, 70}
+, 
+{"moc_ruins", 15160, 101, 116, "funcionária de votação kafra", "morocc", 104, 133}
+, 
+{"moc_ruins", 16633, 101, 880, "mercador estrangeiro", "aru1", 167, 106}
+, 
+{"moc_ruins", 16634, 101, 929, "mercador estrangeiro", "aru2", 101, 133}
+, 
+{"moc_ruins", 16765, 102, 93, "vendedor de ferramentas", "", 91, 128}
+, 
+{"moc_ruins", 16766, 102, 99, "vendedor de ferramentas", "", 114, 63}
+, 
+{"moc_ruins", 16767, 102, 85, "vendedor de itens", "", 93, 53}
+, 
+{"moc_ruins", 16768, 102, 85, "vendedor de itens", "", 81, 113}
+, 
+{"moc_ruins", 16769, 102, 102, "joalheira", "", 110, 105}
+, 
+{"moc_ruins", 16770, 102, 99, "joalheiro", "", 52, 85}
+, 
+{"moc_ruins", 16771, 102, 99, "comerciante de espelho", "", 113, 126}
+, 
+{"moc_ruins", 16772, 102, 93, "vendedora de rosas", "", 131, 138}
+, 
+{"moc_ruins", 16773, 102, 93, "vendedora de anel", "", 71, 139}
+, 
+{"moc_ruins", 16774, 102, 89, "vendedor de armas", "", 125, 135}
+, 
+{"moc_ruins", 16775, 102, 58, "a?ugueiro", "", 87, 109}
+, 
+{"moc_ruins", 16776, 102, 99, "vendedor de bananas", "", 90, 149}
+, 
+{"moc_ruins", 16777, 102, 125, "adestrador", "", 118, 170}
+, 
+{"moc_ruins", 16872, 102, 86, "cozinheiro auxiliar", "", 115, 123}
+, 
+{"moc_ruins", 17127, 101, 114, "funcionária kafra", "", 59, 157}
+, 
+{"moc_ruins", 19520, 101, 89, "stair", "", 113, 181}
+, 
+{"moc_ruins", 19526, 101, 64, "guilda de alquimia", "", 118, 176}
+, 
+{"moc_ruins", 19537, 101, 92, "dona risadinha", "", 59, 154}
+, 
+{"moc_ruins", 19868, 101, 88, "kyulnari", "", 118, 99}
+, 
+{"moc_ruins", 19899, 101, 50, "jacob", "thai", 105, 62}
+, 
+{"moc_ruins", 19905, 101, 716, "toni", "thai", 107, 62}
+, 
+{"moc_ruins", 19940, 101, 99, "restaurador", "", 107, 94}
+, 
+{"moc_ruins", 19983, 101, 837, "quadro de avisos", "pyramid", 61, 164}
+, 
+{"moc_ruins", 20005, 101, 93, "part-timer", "", 91, 150}
+, 
+{"moc_ruins", 20013, 101, 83, "sr. irrelevante", "", 141, 125}
+, 
+{"moc_ruins", 20313, 101, 118, "sujeito estranho", "", 87, 103}
+, 
+{"moc_ruins", 20568, 101, 84, "treinador gatuno", "T", 66, 164}
+, 
+{"moc_ruins", 20966, 101, 732, "ibrahim", "", 152, 147}
+, 
+{"moc_ruins", 20978, 101, 99, "homem suspeito", "1", 90, 67}
+, 
+{"moc_ruins", 20979, 101, 99, "homem suspeito", "2", 75, 171}
+, 
+{"moc_ruins", 21104, 101, 729, "oficial do Éden", "2", 68, 164}
+, 
+{"moc_ruins", 21211, 101, 89, "drigo do dieshin", "09tuto_rhea03", 173, 55}
+, 
+{"moc_ruins", 21254, 101, 86, "leablem", "", 154, 86}
+, 
+{"moc_ruins", 21311, 101, 728, "emissária de maroll", "", 75, 162}
+, 
+{"moc_ruins", 21325, 101, 48, "homem com livro", "garas", 137, 70}
+, 
+{"moc_ruins", 21565, 101, 707, "guarda da fenda", "", 137, 89}
+, 
+{"monk_in", 20232, 101, 60, "monge muhae", "", 99, 58}
+, 
+{"monk_in", 20549, 101, 110, "sacerdote gardron", "tu", 18, 38}
+, 
+{"monk_in", 20555, 101, 60, "karven", "", 103, 176}
+, 
+{"monk_in", 20586, 101, 60, "bispo maugins", "", 19, 43}
+, 
+{"monk_test", 20237, 101, 753, "um assistente", "", 329, 61}
+, 
+{"monk_test", 20242, 101, 110, "assistente", "", 386, 388}
+, 
+{"monk_test", 20292, 101, 52, "taomon", "", 319, 139}
+, 
+{"monk_test", 20297, 101, 95, "inspetora", "", 82, 85}
+, 
+{"monk_test", 20301, 101, 52, "instrutor", "", 88, 91}
+, 
+{"monk_test", 20304, 101, 79, "inspetor", "", 95, 85}
+, 
+{"monk_test", 20312, 101, 79, "switchreset", "monkmonk", 137, 338}
+, 
+{"monk_test", 20622, 101, 823, "monge", "", 316, 69}
+, 
+{"monk_test", 21241, 101, 412, "frei patrick", "edq", 309, 146}
+, 
+{"monk_test", 21243, 101, 406, "pedra da purificação", "monk", 308, 134}
+, 
+{"mora", 12235, 101, 553, "dolangmal", "Mora", 57, 150}
+, 
+{"mora", 12334, 101, 516, "gerente do armazém", "", 185, 163}
+, 
+{"mora", 12335, 101, 513, "rondo", "", 35, 119}
+, 
+{"mora", 12336, 101, 518, "lilitia", "", 98, 66}
+, 
+{"mora", 12337, 101, 515, "humming", "", 139, 102}
+, 
+{"mora", 12338, 101, 495, "jones", "", 55, 124}
+, 
+{"mora", 12343, 101, 509, "elephantine", "pa0829", 133, 80}
+, 
+{"mora", 12344, 101, 509, "hotcha", "pa0829", 115, 98}
+, 
+{"mora", 12345, 101, 513, "chow-chow", "pa0829", 119, 103}
+, 
+{"mora", 12346, 101, 516, "artigos diversos", "pa0829", 119, 118}
+, 
+{"mora", 12347, 101, 514, "labrador", "pa0829", 124, 108}
+, 
+{"mora", 12348, 101, 518, "negociante mercadora", "pa0829", 127, 112}
+, 
+{"mora", 12349, 101, 515, "guia das almas", "pa0829", 170, 101}
+, 
+{"mora", 12350, 101, 520, "cliente distraída", "pa0829", 131, 165}
+, 
+{"mora", 12351, 101, 520, "cliente ingênua", "pa0829", 125, 174}
+, 
+{"mora", 12352, 101, 520, "cliente insatisfeita", "pa0829", 104, 172}
+, 
+{"mora", 12353, 101, 525, "1o. cavaleiro vizinho", "mo", 118, 166}
+, 
+{"mora", 12354, 101, 524, "2o. cavaleiro vizinho", "mo", 116, 165}
+, 
+{"mora", 12355, 101, 522, "3o. amazona vizinha", "mo", 114, 163}
+, 
+{"mora", 12356, 101, 523, "4o. cavaleiro vizinho", "", 112, 161}
+, 
+{"mora", 12362, 101, 516, "mungmung", "p", 52, 138}
+, 
+{"mora", 12363, 101, 517, "nemnem", "p", 160, 123}
+, 
+{"mora", 12364, 101, 514, "fanfarrão", "podo", 105, 104}
+, 
+{"mora", 12367, 101, 515, "chamariz", "podo", 99, 100}
+, 
+{"mora", 12368, 101, 516, "rafflen agitado", "podo", 98, 104}
+, 
+{"mora", 12369, 101, 517, "rafflen aliviado", "podo", 102, 107}
+, 
+{"mora", 12370, 101, 518, "rafflen empolgado", "podo", 101, 107}
+, 
+{"mora", 12371, 101, 518, "rafflen espantado", "podo", 103, 100}
+, 
+{"mora", 12372, 101, 515, "visitante de mora", "podo1", 123, 94}
+, 
+{"mora", 12373, 101, 513, "visitante de mora", "podo2", 155, 72}
+, 
+{"mora", 12374, 101, 516, "trabalhador", "mo1", 184, 169}
+, 
+{"mora", 12375, 101, 516, "trabalhador novato", "mo", 179, 155}
+, 
+{"mora", 12376, 101, 518, "trabalhadora imparcial", "mo", 177, 157}
+, 
+{"mora", 12377, 101, 516, "trabalhador", "mo4", 108, 182}
+, 
+{"mora", 12378, 101, 522, "pesquisador de mora", "ep14.1_muk", 31, 138}
+, 
+{"mora", 12379, 101, 517, "rafflen relaxando", "ep14_1", 122, 97}
+, 
+{"mora", 12380, 101, 518, "perninha do armazém", "ep14_1", 174, 171}
+, 
+{"mora", 12381, 101, 516, "rafflen lendo", "ep14_1", 113, 185}
+, 
+{"mora", 12382, 101, 516, "banana rafflen", "ep14_1", 99, 65}
+, 
+{"mora", 12383, 101, 514, "viajante relaxando", "ep14_1", 30, 128}
+, 
+{"mora", 12384, 101, 513, "viajante relaxando", "ep14_1", 130, 96}
+, 
+{"mora", 12385, 101, 517, "rafflen apreensivo", "ep14_1", 43, 113}
+, 
+{"mora", 12386, 101, 513, "lively", "ep14_1", 168, 161}
+, 
+{"mora", 12387, 101, 518, "kuorita", "ep14_1", 175, 161}
+, 
+{"mora", 12388, 101, 517, "filósofo rafflen", "ep14_1", 140, 186}
+, 
+{"mora", 12389, 101, 513, "viajante chateado", "ep14_1", 140, 72}
+, 
+{"mora", 12393, 101, 513, "viajante nervoso", "ep14_1", 138, 72}
+, 
+{"mora", 12397, 101, 513, "viajante apartador", "ep14_1", 139, 73}
+, 
+{"mora", 12401, 101, 521, "euridi", "pa", 117, 66}
+, 
+{"mora", 12402, 101, 520, "amiga de euridi", "pa", 115, 68}
+, 
+{"mora", 12403, 101, 519, "pitt", "pa", 65, 145}
+, 
+{"mora", 12405, 101, 509, "mestre tecelão", "pa0829", 105, 176}
+, 
+{"mora", 12406, 101, 509, "joalheiro", "pa0829", 123, 177}
+, 
+{"mora", 12407, 101, 509, "bulberry westhood", "pa0829", 134, 166}
+, 
+{"mora", 12408, 101, 518, "alde\227 de mora", "sleep5", 132, 185}
+, 
+{"mora", 12409, 101, 524, "aldeão de mora", "sleep2", 133, 185}
+, 
+{"mora", 12410, 101, 525, "alde\227 de mora", "sleep1", 134, 185}
+, 
+{"mora", 12411, 101, 522, "aldeão de mora", "sleep6", 132, 184}
+, 
+{"mora", 12412, 101, 1162, "aldeão de mora", "sleep4", 133, 184}
+, 
+{"mora", 12413, 101, 516, "aldeão de mora", "sleep3", 134, 184}
+, 
+{"mora", 12414, 101, 524, "aldeão de mora", "sleep7", 132, 183}
+, 
+{"mora", 12415, 101, 518, "alde\227 de mora", "sleep8", 133, 183}
+, 
+{"mora", 12416, 101, 522, "aldeão de mora", "sleep9", 134, 183}
+, 
+{"mora", 12417, 101, 522, "atendente", "mora_inn", 43, 127}
+, 
+{"mora", 12419, 101, 516, "criador de aljavas", "mora", 106, 117}
+, 
+{"mora", 12420, 101, 495, "guardião dos segredos", "pa0829", 88, 89}
+, 
+{"mora", 12421, 101, 495, "mestre das relíquias", "pa0829-war", 96, 74}
+, 
+{"mora", 12422, 101, 495, "guardião de artefatos", "pa0829", 104, 76}
+, 
+{"mora", 12423, 101, 495, "forjador de artefatos", "pa0829-war", 99, 93}
+, 
+{"mora", 12425, 101, 510, "moça das flores", "ep14_1", 46, 152}
+, 
+{"mora", 12426, 101, 512, "jovem desconfiado", "ep14_1", 48, 152}
+, 
+{"mora", 16925, 102, 518, "mora chef", "", 138, 110}
+, 
+{"mora", 16926, 102, 517, "vendedor de ferramentas", "", 100, 118}
+, 
+{"mora", 17214, 101, 515, "guardi\227 do poder", "pa0829", 152, 97}
+, 
+{"mora", 17215, 101, 521, "curadora de artefatos", "new10", 148, 98}
+, 
+{"mora", 17216, 101, 522, "mestre dos artefatos", "blank", 124, 82}
+, 
+{"moro_cav", 11618, 101, 730, "rastreador sênior", "a1", 61, 69}
+, 
+{"moro_cav", 11619, 101, 482, "negociante especial", "1", 32, 73}
+, 
+{"moro_cav", 11621, 101, 49, "encantador byrnes", "morocav", 34, 65}
+, 
+{"moro_cav", 11624, 101, 510, "guardi\227 nidhogg", "epeom01", 41, 73}
+, 
+{"moro_vol", 11332, 102, 553, "comerciante especial", "", 95, 96}
+, 
+{"moro_vol", 11377, 101, 10007, "portal para eclage", "143_1", 91, 105}
+, 
+{"moro_vol", 11552, 101, 10027, "tamarin", "ep14bs_st", 198, 179}
+, 
+{"morocc", 10079, 101, 58, "brutaqual", "2016xmas", 89, 246}
+, 
+{"morocc", 10091, 101, 85, "filial de morroc", "2016xmas", 265, 97}
+, 
+{"morocc", 10968, 101, 10011, "hoororong", "2016hw_moc", 168, 95}
+, 
+{"morocc", 10969, 101, 10011, "horolrong", "2016hw_moc", 170, 94}
+, 
+{"morocc", 10970, 101, 10011, "heururung", "2016hw_moc", 168, 93}
+, 
+{"morocc", 10971, 101, 10011, "hoorirong", "2016hw_moc", 170, 96}
+, 
+{"morocc", 10997, 101, 807, "mercador amedrontado", "2016hw", 154, 248}
+, 
+{"morocc", 11561, 101, 813, "chefe dos carpinteiros", "ep14_3", 285, 70}
+, 
+{"morocc", 11562, 101, 50, "ajudante de carpinteiro", "ep14_3", 278, 80}
+, 
+{"morocc", 11563, 101, 59, "chefe dos artesões", "ep14_3", 282, 284}
+, 
+{"morocc", 11564, 101, 798, "chefe dos pedreiros", "ep14_3", 42, 73}
+, 
+{"morocc", 11565, 101, 464, "mímico irritado", "ep14_3", 40, 72}
+, 
+{"morocc", 11566, 101, 979, "tia do lanche", "ep14_3", 40, 190}
+, 
+{"morocc", 11567, 101, 997, "centurião van", "ep14_3", 47, 193}
+, 
+{"morocc", 11568, 101, 564, "caixa registradora", "ep14_3", 52, 197}
+, 
+{"morocc", 11569, 101, 83, "contador", "ep14_3", 50, 197}
+, 
+{"morocc", 11570, 101, 88, "carpinteiro", "", 265, 74}
+, 
+{"morocc", 11571, 101, 10026, "pilha de mandeira", "1", 270, 75}
+, 
+{"morocc", 11572, 101, 10026, "pilha de mandeira", "2", 272, 75}
+, 
+{"morocc", 11573, 101, 10026, "pilha de mandeira", "3", 274, 75}
+, 
+{"morocc", 11574, 101, 10026, "pilha de mandeira", "4", 276, 75}
+, 
+{"morocc", 11575, 101, 10026, "pilha de mandeira", "5", 278, 75}
+, 
+{"morocc", 11576, 101, 10026, "pilha de mandeira", "6", 270, 73}
+, 
+{"morocc", 11577, 101, 10026, "pilha de mandeira", "7", 272, 73}
+, 
+{"morocc", 11578, 101, 10026, "pilha de mandeira", "8", 274, 73}
+, 
+{"morocc", 11579, 101, 10026, "pilha de mandeira", "9", 276, 73}
+, 
+{"morocc", 11580, 101, 10026, "pilha de mandeira", "10", 278, 73}
+, 
+{"morocc", 11581, 101, 88, "marceneiro", "", 162, 112}
+, 
+{"morocc", 11582, 101, 10026, "pilha de mandeira", "no", 162, 109}
+, 
+{"morocc", 11583, 101, 85, "pedreiro", "", 55, 67}
+, 
+{"morocc", 11584, 101, 10025, "pilha de tijolos", "1", 50, 67}
+, 
+{"morocc", 11585, 101, 10025, "pilha de tijolos", "2", 48, 67}
+, 
+{"morocc", 11586, 101, 10025, "pilha de tijolos", "3", 46, 67}
+, 
+{"morocc", 11587, 101, 10025, "pilha de tijolos", "4", 44, 67}
+, 
+{"morocc", 11588, 101, 10025, "pilha de tijolos", "5", 42, 67}
+, 
+{"morocc", 11589, 101, 10025, "pilha de tijolos", "6", 50, 65}
+, 
+{"morocc", 11590, 101, 10025, "pilha de tijolos", "7", 48, 65}
+, 
+{"morocc", 11591, 101, 10025, "pilha de tijolos", "8", 46, 65}
+, 
+{"morocc", 11592, 101, 10025, "pilha de tijolos", "9", 44, 65}
+, 
+{"morocc", 11593, 101, 10025, "pilha de tijolos", "10", 42, 65}
+, 
+{"morocc", 11594, 101, 85, "brick recipient", "", 155, 112}
+, 
+{"morocc", 11595, 101, 10025, "pilha de tijolos", "no", 155, 109}
+, 
+{"morocc", 11596, 101, 87, "artesão", "", 266, 288}
+, 
+{"morocc", 11597, 101, 10024, "pilha de corda", "1", 270, 287}
+, 
+{"morocc", 11598, 101, 10024, "pilha de corda", "2", 272, 287}
+, 
+{"morocc", 11599, 101, 10024, "pilha de corda", "3", 274, 287}
+, 
+{"morocc", 11600, 101, 10024, "pilha de corda", "4", 276, 287}
+, 
+{"morocc", 11601, 101, 10024, "pilha de corda", "5", 278, 287}
+, 
+{"morocc", 11602, 101, 10024, "pilha de corda", "6", 270, 289}
+, 
+{"morocc", 11603, 101, 10024, "pilha de corda", "7", 272, 289}
+, 
+{"morocc", 11604, 101, 10024, "pilha de corda", "8", 274, 289}
+, 
+{"morocc", 11605, 101, 10024, "pilha de corda", "9", 276, 289}
+, 
+{"morocc", 11606, 101, 10024, "pilha de corda", "10", 278, 289}
+, 
+{"morocc", 11607, 101, 87, "rope recipient", "", 148, 112}
+, 
+{"morocc", 11608, 101, 10024, "pilha de corda", "no", 148, 109}
+, 
+{"morocc", 11609, 101, 748, "encarregado de obras", "", 57, 196}
+, 
+{"morocc", 11610, 101, 709, "supervisor de rh", "siro", 161, 117}
+, 
+{"morocc", 11611, 101, 709, "gestor de rh", "brick", 50, 75}
+, 
+{"morocc", 11612, 101, 709, "gestor de rh", "wood", 275, 68}
+, 
+{"morocc", 11613, 101, 709, "gestor de rh", "rope", 270, 282}
+, 
+{"morocc", 11614, 101, 755, "mestre de obras", "", 54, 190}
+, 
+{"morocc", 11615, 101, 857, "quadro de avisos", "moc_re", 43, 191}
+, 
+{"morocc", 11616, 101, 923, "restoration project director", "", 50, 188}
+, 
+{"morocc", 12231, 101, 553, "dolangmal", "morocc", 168, 275}
+, 
+{"morocc", 12987, 101, 109, "agente vip", "", 164, 255}
+, 
+{"morocc", 13878, 101, 97, "shaze", "", 281, 178}
+, 
+{"morocc", 14215, 101, 89, "festeiro", "07rhea_19", 54, 251}
+, 
+{"morocc", 16566, 101, 707, "vigia da prisão", "sch", 53, 87}
+, 
+{"morocc", 16594, 101, 51, "bardo magrelo", "sch", 297, 154}
+, 
+{"morocc", 16996, 101, 99, "um viajante", "", 273, 79}
+, 
+{"morocc", 17096, 101, 114, "funcionária kafra", "", 160, 258}
+, 
+{"morocc", 17102, 101, 113, "funcionária kafra", "", 156, 97}
+, 
+{"morocc", 19784, 101, 99, "zaka", "", 201, 30}
+, 
+{"morocc", 19897, 101, 86, "jovem", "magum1", 248, 159}
+, 
+{"morocc", 19934, 101, 92, "cidadão", "", 289, 230}
+, 
+{"morocc", 19951, 101, 741, "bardo", "3", 134, 111}
+, 
+{"morocc", 19952, 101, 703, "garotinha", "Jorti", 132, 111}
+, 
+{"morocc", 19972, 101, 837, "quadro de avisos", "morroc", 152, 110}
+, 
+{"morocc", 19994, 101, 85, "mercador", "morroc", 180, 259}
+, 
+{"morocc", 20148, 101, 725, "wickebine", "BLS", 27, 112}
+, 
+{"morocc", 20464, 101, 93, "garota", "sc00", 156, 70}
+, 
+{"morocc", 20516, 101, 877, "vendedora de ervas", "", 191, 94}
+, 
+{"morocc", 20542, 101, 84, "muetro", "", 82, 292}
+, 
+{"morocc", 20543, 101, 86, "hans", "", 240, 72}
+, 
+{"morocc", 20958, 101, 84, "seiyablem", "moc", 51, 41}
+, 
+{"morocc", 20961, 101, 97, "jovem", "moc", 60, 42}
+, 
+{"morocc", 20980, 101, 929, "maltrapilho", "nd", 143, 63}
+, 
+{"morocc", 20981, 101, 98, "homem", "zdan", 102, 298}
+, 
+{"morocc", 20994, 101, 779, "agente da guilda", "nd4", 116, 39}
+, 
+{"morocc", 21158, 101, 729, "oficial do Éden", "29", 161, 97}
+, 
+{"morocc", 21217, 101, 729, "meidi", "", 35, 174}
+, 
+{"morocc", 21420, 101, 754, "guarda continental", "", 176, 103}
+, 
+{"morocc", 21421, 101, 752, "chefe balrog", "", 159, 113}
+, 
+{"morocc", 21572, 101, 82, "garoto esperto", "dan_07", 43, 108}
+, 
+{"morocc_in", 12581, 101, 735, "velho professor tyus", "hellion", 116, 101}
+, 
+{"morocc_in", 13354, 101, 82, "aprendiz elgo", "2008hat01", 137, 102}
+, 
+{"morocc_in", 13444, 101, 702, "historiadora", "prt02", 45, 126}
+, 
+{"morocc_in", 15904, 101, 66, "funcionária", "megin1", 146, 179}
+, 
+{"morocc_in", 16567, 101, 748, "funcionário de segurança", "sch", 114, 130}
+, 
+{"morocc_in", 16735, 101, 58, "dullihan", "", 146, 99}
+, 
+{"morocc_in", 16778, 102, 58, "vendedor de armas", "", 141, 67}
+, 
+{"morocc_in", 16779, 102, 58, "vendedor de armaduras", "", 141, 60}
+, 
+{"morocc_in", 16865, 102, 99, "vendedor de armas", "", 132, 57}
+, 
+{"morocc_in", 16940, 101, 810, "arruaceiro", "s", 115, 154}
+, 
+{"morocc_in", 16942, 101, 118, "jovem", "s", 114, 162}
+, 
+{"morocc_in", 17205, 101, 826, "bestry", "moc", 64, 41}
+, 
+{"morocc_in", 17206, 101, 826, "austry", "", 60, 38}
+, 
+{"morocc_in", 19879, 101, 99, "abdula", "", 72, 32}
+, 
+{"morocc_in", 19880, 101, 99, "sade", "", 63, 32}
+, 
+{"morocc_in", 19881, 101, 99, "aragham", "", 73, 38}
+, 
+{"morocc_in", 20008, 101, 86, "estudante", "", 140, 102}
+, 
+{"morocc_in", 20541, 101, 89, "geil", "", 51, 101}
+, 
+{"morocc_in", 20544, 101, 97, "bankley", "", 12, 156}
+, 
+{"morocc_in", 20601, 101, 741, "bardo maldoso", "skill_bard02", 169, 72}
+, 
+{"morocc_in", 20607, 101, 54, "cliente", "bard_skill01", 178, 73}
+, 
+{"morocc_in", 20608, 101, 50, "cliente", "bard_skill02", 175, 70}
+, 
+{"morocc_in", 20609, 101, 46, "garçom", "bard_qskill", 166, 76}
+, 
+{"morocc_in", 20694, 101, 716, "garoto", "link1", 174, 30}
+, 
+{"moscovia", 13001, 101, 109, "agente vip", "", 220, 191}
+, 
+{"moscovia", 17038, 101, 959, "guia de moscóvia", "01moscovia", 161, 76}
+, 
+{"moscovia", 17039, 101, 959, "guia de moscóvia", "02moscovia", 226, 191}
+, 
+{"moscovia", 20995, 101, 967, "vendedor de avelãs", "mos", 208, 182}
+, 
+{"moscovia", 21003, 101, 966, "soldado", "mos_so1", 253, 166}
+, 
+{"moscovia", 21009, 101, 968, "berbayeff", "npc", 171, 71}
+, 
+{"moscovia", 21010, 101, 964, "sr. ibanoff", "npc", 135, 49}
+, 
+{"moscovia", 21031, 101, 958, "irina", "edq", 211, 93}
+, 
+{"moscovia", 21032, 101, 837, "placa de aviso", "mosk", 135, 52}
+, 
+{"moscovia", 21039, 101, 958, "menina", "mos1", 252, 203}
+, 
+{"moscovia", 21040, 101, 968, "jovem", "mos2", 233, 204}
+, 
+{"moscovia", 21041, 101, 964, "senhor", "mos3", 219, 229}
+, 
+{"moscovia", 21042, 101, 962, "menino", "mos4", 255, 203}
+, 
+{"moscovia", 21043, 101, 959, "jovem", "mos5", 204, 188}
+, 
+{"moscovia", 21044, 101, 961, "senhora", "mos6", 167, 97}
+, 
+{"moscovia", 21045, 101, 962, "menino", "mos7", 202, 102}
+, 
+{"moscovia", 21046, 101, 968, "jovem", "mos8", 220, 172}
+, 
+{"moscovia", 21047, 101, 964, "um homem", "mos9", 253, 175}
+, 
+{"moscovia", 21048, 101, 961, "uma mulher", "mos10", 168, 135}
+, 
+{"moscovia", 21049, 101, 959, "jovem mulher", "mos11", 192, 80}
+, 
+{"moscovia", 21050, 101, 967, "um jovem", "mos12", 211, 215}
+, 
+{"moscovia", 21051, 101, 964, "homem", "mos13", 149, 112}
+, 
+{"moscovia", 21052, 101, 968, "jovem", "mos14", 196, 71}
+, 
+{"moscovia", 21053, 101, 964, "um homem", "mos15", 234, 168}
+, 
+{"moscovia", 21054, 101, 962, "menininho", "mos16", 228, 80}
+, 
+{"moscovia", 21087, 101, 114, "funcionária kafra", "", 223, 191}
+, 
+{"moscovia", 21091, 101, 960, "relações públicas", "1", 166, 53}
+, 
+{"moscovia", 21096, 102, 968, "vendedor de frutas", "", 152, 71}
+, 
+{"moscovia", 21097, 102, 959, "vendedora de leite", "", 199, 110}
+, 
+{"moscovia", 21152, 101, 729, "oficial do Éden", "26", 209, 197}
+, 
+{"mosk_in", 21004, 101, 966, "soldado", "mos_so2", 113, 124}
+, 
+{"mosk_in", 21005, 101, 966, "soldado", "mos_so3", 118, 66}
+, 
+{"mosk_in", 21006, 101, 966, "soldado", "mos_so4", 133, 110}
+, 
+{"mosk_in", 21007, 101, 966, "soldado", "mos_so5", 133, 73}
+, 
+{"mosk_in", 21093, 102, 968, "vendedor de utilidades", "", 21, 254}
+, 
+{"mosk_in", 21094, 102, 961, "vendedor de armaduras", "", 79, 178}
+, 
+{"mosk_in", 21095, 102, 968, "vendedor de armas", "", 31, 180}
+, 
+{"nameless_n", 16628, 101, 97, "larjes", "Boat1", 259, 218}
+, 
+{"nif_fild02", 10995, 101, 10015, "jakk medroso", "2016hw_ex", 366, 247}
+, 
+{"nif_in", 14763, 101, 738, "advogado sombrio", "", 190, 112}
+, 
+{"nif_in", 16829, 102, 801, "vendedor de itens", "", 145, 23}
+, 
+{"nif_in", 16830, 102, 801, "vendedor de machados", "", 37, 93}
+, 
+{"nif_in", 16831, 102, 801, "vendedor de capas", "", 37, 84}
+, 
+{"niflheim", 10974, 101, 10011, "hororong", "2016hw", 177, 242}
+, 
+{"niflheim", 10975, 101, 10011, "hooroorong", "2016hw", 180, 242}
+, 
+{"niflheim", 10976, 101, 10011, "hohorong", "2016hw", 179, 240}
+, 
+{"niflheim", 10977, 101, 10174, "jakk", "2016hw_j1", 184, 199}
+, 
+{"niflheim", 10978, 101, 10174, "jakk", "2016hw_j2", 187, 190}
+, 
+{"niflheim", 10979, 101, 10174, "jakk", "2016hw_j3", 196, 183}
+, 
+{"niflheim", 10980, 101, 10174, "jakk", "2016hw_j4", 203, 181}
+, 
+{"niflheim", 10981, 101, 10174, "jakk", "2016hw_j5", 202, 194}
+, 
+{"niflheim", 10982, 101, 10174, "jakk", "2016hw_j6", 184, 202}
+, 
+{"niflheim", 10983, 101, 10174, "jakk", "2016hw_j7", 185, 198}
+, 
+{"niflheim", 10984, 101, 10174, "jakk", "2016hw_j8", 197, 193}
+, 
+{"niflheim", 10985, 101, 10174, "jakk", "2016hw_j9", 194, 193}
+, 
+{"niflheim", 10986, 101, 10174, "jakk", "2016hw_j10", 208, 197}
+, 
+{"niflheim", 10987, 101, 10174, "jakk", "2016hw_j11", 189, 178}
+, 
+{"niflheim", 10988, 101, 10174, "jakk", "2016hw_j12", 203, 191}
+, 
+{"niflheim", 10989, 101, 10174, "jakk", "2016hw_j13", 183, 184}
+, 
+{"niflheim", 10990, 101, 10174, "jakk", "2016hw", 172, 244}
+, 
+{"niflheim", 10991, 101, 10011, "herorong", "2016hw", 167, 242}
+, 
+{"niflheim", 10992, 101, 10011, "hirorong", "2016hw", 166, 241}
+, 
+{"niflheim", 10993, 101, 10011, "harorong", "2016hw", 169, 240}
+, 
+{"niflheim", 10994, 101, 792, "nibble", "2016hw", 43, 147}
+, 
+{"niflheim", 14726, 101, 798, "homem nervoso", "", 186, 190}
+, 
+{"niflheim", 15910, 101, 796, "egnigem", "", 109, 254}
+, 
+{"niflheim", 16886, 102, 83, "cozinheiro auxiliar", "", 209, 180}
+, 
+{"niflheim", 17149, 101, 791, "funcionária kafra", "34", 202, 180}
+, 
+{"odin_tem01", 16082, 101, 709, "barqueiro", "", 93, 146}
+, 
+{"p_track01", 20793, 101, 899, "ajudante de tickets", "single", 73, 22}
+, 
+{"p_track01", 20794, 101, 845, "distribuidor de medalhas", "single", 67, 45}
+, 
+{"p_track01", 20803, 101, 845, "guia do jogo", "single", 39, 49}
+, 
+{"p_track01", 20822, 101, 853, "drunkard", "single", 27, 47}
+, 
+{"p_track01", 20823, 101, 107, "ferreiro da guilda", "single", 69, 31}
+, 
+{"p_track01", 20824, 101, 881, "homem distraído", "single", 45, 42}
+, 
+{"p_track02", 20810, 101, 899, "ajudante de tickets", "double", 73, 22}
+, 
+{"p_track02", 20811, 101, 845, "guia do jogo", "double", 39, 49}
+, 
+{"p_track02", 20812, 101, 845, "distribuidor de medalhas", "medal", 67, 45}
+, 
+{"p_track02", 20813, 101, 798, "guia de saída", "double", 76, 38}
+, 
+{"p_track02", 20819, 101, 755, "estudioso extravagante", "double", 32, 45}
+, 
+{"p_track02", 20820, 101, 726, "ferreira da guilda", "double1", 69, 31}
+, 
+{"p_track02", 20821, 101, 733, "cavaleiro corajoso", "double", 53, 45}
+, 
+{"pay_arche", 14350, 101, 88, "arqueiro josma", "", 77, 131}
+, 
+{"pay_arche", 17024, 101, 732, "gerente do cl\227 de assistentes", "Bow", 99, 167}
+, 
+{"pay_arche", 17027, 101, 879, "itens para assistentes", "Bow", 102, 167}
+, 
+{"pay_arche", 17126, 101, 117, "funcionária kafra", "", 55, 123}
+, 
+{"pay_arche", 19961, 101, 837, "quadro de avisos", "archervil", 79, 31}
+, 
+{"pay_arche", 19962, 101, 837, "quadro de avisos", "paydun", 39, 134}
+, 
+{"pay_arche", 20574, 101, 835, "placa", "arc", 127, 154}
+, 
+{"pay_dun03", 16989, 101, 1180, "nove caudas", "Mask of Fox (Fox Version)", 48, 84}
+, 
+{"pay_fild01", 10041, 101, 866, "vov\244 potter", "US13_Pa", 114, 367}
+, 
+{"pay_fild01", 10044, 101, 899, "gangue de lighthalzen", "US13", 112, 365}
+, 
+{"pay_fild01", 10045, 101, 863, "vov\243 potter", "US13", 111, 367}
+, 
+{"pay_gld", 12038, 101, 549, "phecda", "", 203, 189}
+, 
+{"pay_gld", 12039, 101, 421, "gerente do portal", "pay_f00", 206, 189}
+, 
+{"pay_gld", 12041, 101, 857, "placa de investimento", "fund03", 200, 189}
+, 
+{"pay_gld", 19167, 101, 722, "palácio do sol", "", 125, 236}
+, 
+{"pay_gld", 19168, 101, 722, "palácio do sol", "", 110, 233}
+, 
+{"pay_gld", 19169, 101, 722, "palácio do sol", "", 116, 233}
+, 
+{"pay_gld", 19170, 101, 722, "palácio do sol", "", 91, 239}
+, 
+{"pay_gld", 19171, 101, 722, "palácio do lago sagrado", "", 292, 112}
+, 
+{"pay_gld", 19172, 101, 722, "palácio do lago sagrado", "", 292, 120}
+, 
+{"pay_gld", 19173, 101, 722, "palácio do lago sagrado", "", 291, 135}
+, 
+{"pay_gld", 19174, 101, 722, "palácio do lago sagrado", "", 271, 163}
+, 
+{"pay_gld", 19175, 101, 722, "palácio da sombra", "", 321, 298}
+, 
+{"pay_gld", 19176, 101, 722, "palácio da sombra", "", 321, 289}
+, 
+{"pay_gld", 19177, 101, 722, "palácio da sombra", "", 327, 304}
+, 
+{"pay_gld", 19178, 101, 722, "palácio da sombra", "", 333, 254}
+, 
+{"pay_gld", 19179, 101, 722, "palácio escarlate", "", 137, 160}
+, 
+{"pay_gld", 19180, 101, 722, "palácio escarlate", "", 143, 160}
+, 
+{"pay_gld", 19181, 101, 722, "palácio escarlate", "", 133, 151}
+, 
+{"pay_gld", 19182, 101, 722, "palácio escarlate", "", 153, 166}
+, 
+{"pay_gld", 19183, 101, 722, "palácio da colina", "", 208, 268}
+, 
+{"pay_gld", 19184, 101, 722, "palácio da colina", "", 199, 268}
+, 
+{"pay_gld", 19185, 101, 722, "palácio da colina", "", 190, 277}
+, 
+{"pay_gld", 19186, 101, 722, "palácio da colina", "", 187, 294}
+, 
+{"payon", 10084, 101, 77, "vinpa", "2016xmas", 243, 240}
+, 
+{"payon", 10090, 101, 76, "filial de payon", "2016xmas", 90, 231}
+, 
+{"payon", 10962, 101, 10011, "hoororong", "2016hw_pay", 188, 104}
+, 
+{"payon", 10963, 101, 10011, "horolrong", "2016hw_pay", 190, 105}
+, 
+{"payon", 10964, 101, 10011, "heururung", "2016hw_pay", 186, 106}
+, 
+{"payon", 10965, 101, 10011, "hoorirong", "2016hw_pay", 192, 103}
+, 
+{"payon", 12227, 101, 553, "dolangmal", "payon", 200, 106}
+, 
+{"payon", 12636, 101, 402, "engenheiro mecatrônico", "Payon", 166, 106}
+, 
+{"payon", 12988, 101, 109, "agente vip", "", 184, 102}
+, 
+{"payon", 14339, 101, 90, "jovem senhora", "", 246, 154}
+, 
+{"payon", 14340, 101, 59, "jovem senhor", "", 134, 211}
+, 
+{"payon", 14341, 101, 88, "jovem senhor", "", 176, 85}
+, 
+{"payon", 14343, 101, 708, "guarda", "", 158, 246}
+, 
+{"payon", 14345, 101, 66, "mulher", "", 249, 156}
+, 
+{"payon", 14346, 101, 66, "mulher", "", 246, 158}
+, 
+{"payon", 14347, 101, 120, "arqueiro alterado", "", 210, 110}
+, 
+{"payon", 14351, 101, 98, "pesquisador de monstros", "02", 132, 235}
+, 
+{"payon", 14423, 101, 754, "[jade]", "", 173, 238}
+, 
+{"payon", 15174, 101, 116, "funcionária de votação kafra ", "payon", 158, 182}
+, 
+{"payon", 15209, 101, 874, "funcionário de votação eventos incríveis", "payon", 153, 182}
+, 
+{"payon", 15944, 101, 95, "friar", "G5", 79, 171}
+, 
+{"payon", 16791, 102, 88, "vendedor de ferramentas", "", 159, 96}
+, 
+{"payon", 16792, 102, 124, "adestrador", "", 177, 131}
+, 
+{"payon", 16871, 102, 89, "cozinheiro auxiliar", "", 206, 119}
+, 
+{"payon", 16911, 102, 66, "vendedora de armadilha", "", 123, 109}
+, 
+{"payon", 16994, 101, 725, "konekone", "", 115, 131}
+, 
+{"payon", 17019, 101, 97, "chungwolmang", "", 135, 320}
+, 
+{"payon", 17116, 101, 113, "funcionária kafra", "", 181, 104}
+, 
+{"payon", 17120, 101, 116, "kafra recepcioniosta", "", 175, 226}
+, 
+{"payon", 19212, 101, 722, "palácio do sol", "", 90, 322}
+, 
+{"payon", 19214, 101, 722, "palácio da sombra", "", 113, 322}
+, 
+{"payon", 19215, 101, 722, "palácio escarlate", "", 118, 322}
+, 
+{"payon", 19216, 101, 722, "palácio da colina", "", 123, 322}
+, 
+{"payon", 19217, 101, 722, "palácio do sol", "", 166, 177}
+, 
+{"payon", 19219, 101, 722, "palácio da sombra", "", 166, 169}
+, 
+{"payon", 19220, 101, 722, "palácio escarlate", "", 166, 165}
+, 
+{"payon", 19221, 101, 722, "palácio da colina", "", 166, 161}
+, 
+{"payon", 19541, 101, 92, "dona risadinha", "", 186, 104}
+, 
+{"payon", 19882, 101, 88, "shakim", "", 137, 178}
+, 
+{"payon", 19883, 101, 88, "becknahd", "", 145, 178}
+, 
+{"payon", 19884, 101, 88, "antonio", "", 144, 173}
+, 
+{"payon", 19928, 101, 88, "servo", "", 209, 127}
+, 
+{"payon", 19941, 101, 88, "restaurador", "", 143, 165}
+, 
+{"payon", 19995, 101, 85, "mercador", "pay", 200, 134}
+, 
+{"payon", 20525, 101, 105, "soldado", "", 166, 102}
+, 
+{"payon", 20955, 101, 84, "seiyablem", "pay", 140, 151}
+, 
+{"payon", 20960, 101, 97, "jovem", "pay", 143, 143}
+, 
+{"payon", 21124, 101, 729, "oficial do Éden", "12", 177, 111}
+, 
+{"payon", 21251, 101, 86, "leablem", "", 236, 199}
+, 
+{"payon", 21317, 101, 728, "emissária de maroll", "", 189, 105}
+, 
+{"payon", 21417, 101, 997, "guarda continental", "payon_edq", 200, 113}
+, 
+{"payon_in01", 14342, 101, 90, "garçonete", "", 180, 7}
+, 
+{"payon_in01", 14348, 101, 88, "arqueiro zakk", "", 66, 64}
+, 
+{"payon_in01", 14349, 101, 88, "arqueiro wolt", "", 47, 59}
+, 
+{"payon_in01", 14354, 101, 53, "taverneiro", "", 132, 62}
+, 
+{"payon_in01", 14424, 101, 89, "inventor jaax", "", 5, 134}
+, 
+{"payon_in01", 16793, 102, 88, "vendedor de ferramentas", "", 5, 49}
+, 
+{"payon_in01", 16794, 102, 77, "vendedor de armas", "", 15, 119}
+, 
+{"payon_in01", 16795, 102, 76, "vendedor de armaduras", "", 7, 119}
+, 
+{"payon_in01", 16866, 102, 703, "vendedor de armas", "", 5, 129}
+, 
+{"payon_in01", 17207, 101, 826, "bestry", "pay", 18, 132}
+, 
+{"payon_in01", 17208, 101, 826, "austry", "", 14, 125}
+, 
+{"payon_in01", 19516, 101, 103, "vov\243 ", "", 99, 72}
+, 
+{"payon_in01", 19518, 101, 76, "senhora mística", "", 18, 10}
+, 
+{"payon_in01", 19535, 101, 89, "jovem", "", 56, 12}
+, 
+{"payon_in02", 16796, 102, 75, "vendedor de ferramentas", "", 87, 34}
+, 
+{"payon_in02", 19524, 101, 86, "jovem", "", 25, 71}
+, 
+{"payon_in02", 21122, 101, 729, "oficial do Éden", "11", 58, 58}
+, 
+{"payon_in03", 14344, 101, 708, "chefe da guarda", "", 96, 116}
+, 
+{"payon_in03", 14352, 101, 107, "chefe", "", 99, 190}
+, 
+{"payon_in03", 14353, 101, 708, "guarda", "", 102, 185}
+, 
+{"payon_in03", 16733, 101, 86, "marxhansen", "", 188, 146}
+, 
+{"payon_in03", 16944, 101, 1170, "empregada", "1", 81, 22}
+, 
+{"payon_in03", 16945, 101, 1404, "empregada", "2", 79, 22}
+, 
+{"payon_in03", 16946, 101, 1170, "empregada", "3", 81, 15}
+, 
+{"payon_in03", 16947, 101, 1404, "empregada", "4", 79, 15}
+, 
+{"payon_in03", 16948, 101, 1416, "empregada", "5", 8, 31}
+, 
+{"payon_in03", 16949, 101, 1416, "empregada", "6", 13, 31}
+, 
+{"payon_in03", 16999, 101, 77, "lan xiang", "", 8, 193}
+, 
+{"payon_in03", 17020, 101, 88, "han garam", "", 139, 124}
+, 
+{"payon_in03", 19907, 101, 704, "vidente", "", 117, 128}
+, 
+{"payon_in03", 19908, 101, 704, "vidente de poring", "", 75, 129}
+, 
+{"payon_in03", 19909, 101, 101, "asceta", "", 118, 119}
+, 
+{"payon_in03", 20160, 101, 59, "caçadora", "htnGM", 131, 7}
+, 
+{"payon_in03", 20970, 101, 75, "wola", "", 167, 149}
+, 
+{"prontera", 10039, 101, 114, "funcionária kafra", "", 149, 191}
+, 
+{"prontera", 10046, 101, 870, "homem suspeito", "US13", 186, 276}
+, 
+{"prontera", 10050, 101, 69, "ballery", "2016xmas", 213, 316}
+, 
+{"prontera", 10051, 101, 10097, "tepicy", "2016xmas", 218, 310}
+, 
+{"prontera", 10094, 101, 90, "filial de prontera", "2016xmas", 125, 249}
+, 
+{"prontera", 10956, 101, 10011, "hoororong", "2016hw_prt", 162, 98}
+, 
+{"prontera", 10957, 101, 10011, "horolrong", "2016hw_prt", 160, 99}
+, 
+{"prontera", 10958, 101, 10011, "heururung", "2016hw_prt", 160, 95}
+, 
+{"prontera", 10959, 101, 10011, "hoorirong", "2016hw_prt", 161, 97}
+, 
+{"prontera", 12223, 101, 553, "dolangmal", "Pron", 114, 77}
+, 
+{"prontera", 12576, 101, 951, "negociadora de ovos", "prt", 221, 209}
+, 
+{"prontera", 12580, 101, 124, "hipnotizadora", "2", 146, 232}
+, 
+{"prontera", 12588, 101, 562, "máquina de promoções", "prt", 141, 226}
+, 
+{"prontera", 12627, 101, 749, "resetador rino", "prontera", 150, 284}
+, 
+{"prontera", 12628, 101, 861, "kafra de promoções", "prt", 144, 229}
+, 
+{"prontera", 12629, 101, 506, "buzzy bol machine", "01", 155, 284}
+, 
+{"prontera", 12633, 101, 97, "estilista especial", "", 105, 66}
+, 
+{"prontera", 12634, 101, 402, "engenheiro mecatrônico", "", 163, 178}
+, 
+{"prontera", 12647, 101, 811, "valquíria ajudante", "arch_pass", 162, 166}
+, 
+{"prontera", 12649, 101, 811, "valquíria ajudante", "gc_pass", 185, 208}
+, 
+{"prontera", 12650, 101, 811, "valquíria ajudante", "rune_pass", 58, 217}
+, 
+{"prontera", 12651, 101, 851, "mestre do refino", "", 184, 177}
+, 
+{"prontera", 12653, 101, 904, "piercing brosnan", "pa0829", 103, 65}
+, 
+{"prontera", 12654, 101, 97, "mestre dos slots", "pa0829", 101, 65}
+, 
+{"prontera", 12657, 101, 63, "encantador diabólico", "prq", 107, 65}
+, 
+{"prontera", 12658, 101, 403, "ze summoner", "jdm", 10, 10}
+, 
+{"prontera", 12665, 101, 409, "hypno faz tudo", "", 106, 58}
+, 
+{"prontera", 12983, 101, 109, "agente vip", "", 146, 93}
+, 
+{"prontera", 13352, 101, 73, "aprendiz de encantamento", "", 165, 60}
+, 
+{"prontera", 13857, 101, 105, "guarda", "", 160, 330}
+, 
+{"prontera", 13858, 101, 105, "soldado", "", 223, 99}
+, 
+{"prontera", 13859, 101, 105, "soldado", "", 229, 104}
+, 
+{"prontera", 13860, 101, 105, "soldado", "", 47, 339}
+, 
+{"prontera", 13861, 101, 105, "soldado", "", 52, 344}
+, 
+{"prontera", 13862, 101, 98, "homem", "", 101, 288}
+, 
+{"prontera", 13863, 101, 97, "teodoro", "", 54, 240}
+, 
+{"prontera", 13864, 101, 91, "mulher", "", 106, 116}
+, 
+{"prontera", 13865, 101, 102, "yuni", "", 160, 133}
+, 
+{"prontera", 13866, 101, 700, "gabiroba", "", 149, 202}
+, 
+{"prontera", 13867, 101, 48, "george", "", 216, 70}
+, 
+{"prontera", 15139, 101, 116, "funcionária de votação kafra ", "pron", 164, 125}
+, 
+{"prontera", 15153, 101, 874, "funcionário de votação eventos incríveis", "pron", 147, 125}
+, 
+{"prontera", 16727, 101, 86, "vendedor de leite", "", 73, 140}
+, 
+{"prontera", 16734, 101, 90, "darlene", "", 78, 150}
+, 
+{"prontera", 16737, 101, 105, "criador de pecopecos", "", 55, 350}
+, 
+{"prontera", 16743, 102, 90, "vendedor de leite", "", 73, 134}
+, 
+{"prontera", 16744, 102, 102, "vendedora de frutas", "", 104, 49}
+, 
+{"prontera", 16745, 102, 91, "vendedora de vegetais", "", 48, 58}
+, 
+{"prontera", 16746, 102, 87, "a?ugueiro", "", 64, 125}
+, 
+{"prontera", 16747, 102, 96, "florista jess", "", 58, 182}
+, 
+{"prontera", 16748, 102, 90, "florista mell", "", 113, 42}
+, 
+{"prontera", 16749, 102, 91, "vendedora", "", 105, 87}
+, 
+{"prontera", 16750, 102, 85, "vendedor de bonecos", "", 248, 153}
+, 
+{"prontera", 16751, 102, 125, "adestrador", "", 218, 211}
+, 
+{"prontera", 16870, 102, 700, "cozinheira auxiliar", "", 156, 212}
+, 
+{"prontera", 16992, 101, 744, "phya da noite", "", 165, 232}
+, 
+{"prontera", 17022, 101, 105, "gerente do cl\227 de assistentes", "Spear", 41, 337}
+, 
+{"prontera", 17025, 101, 700, "itens para assistentes", "Spear", 30, 337}
+, 
+{"prontera", 17043, 101, 116, "funcionária kafra", "", 248, 42}
+, 
+{"prontera", 17045, 101, 117, "funcionária kafra", "", 146, 89}
+, 
+{"prontera", 17052, 101, 115, "funcionária kafra", "", 151, 29}
+, 
+{"prontera", 17059, 101, 114, "funcionária kafra", "", 282, 200}
+, 
+{"prontera", 17066, 101, 113, "funcionária kafra", "", 29, 207}
+, 
+{"prontera", 17073, 101, 112, "funcionária kafra", "", 152, 326}
+, 
+{"prontera", 17169, 101, 109, "salvio cintos", "", 111, 78}
+, 
+{"prontera", 17170, 102, 892, "calabouços secretos1", "", 120, 90}
+, 
+{"prontera", 17171, 102, 892, "calabouços secretos2", "", 130, 90}
+, 
+{"prontera", 17172, 102, 892, "headgears", "", 107, 77}
+, 
+{"prontera", 17173, 102, 892, "proteção a-c", "", 105, 74}
+, 
+{"prontera", 17174, 102, 892, "proteção d-g", "", 107, 74}
+, 
+{"prontera", 17175, 102, 892, "proteção h-m", "", 109, 74}
+, 
+{"prontera", 17176, 102, 892, "proteção n-r", "", 111, 74}
+, 
+{"prontera", 17177, 102, 892, "proteção s-y", "", 105, 71}
+, 
+{"prontera", 17178, 102, 892, "cartas a-d", "", 105, 82}
+, 
+{"prontera", 17179, 102, 892, "cartas e-l", "", 107, 82}
+, 
+{"prontera", 17180, 102, 892, "cartas m-r", "", 109, 82}
+, 
+{"prontera", 17181, 102, 892, "cartas s-z", "", 111, 82}
+, 
+{"prontera", 17182, 102, 892, "flechas, proj., extras", "", 116, 83}
+, 
+{"prontera", 17183, 102, 892, "armas a-b", "", 118, 83}
+, 
+{"prontera", 17184, 102, 892, "armas c-d", "", 120, 83}
+, 
+{"prontera", 17185, 102, 892, "armas e-g", "", 122, 83}
+, 
+{"prontera", 17186, 102, 892, "armas h-j", "", 124, 83}
+, 
+{"prontera", 17187, 102, 892, "armas k-m", "", 124, 81}
+, 
+{"prontera", 17188, 102, 892, "armas n-r", "", 122, 81}
+, 
+{"prontera", 17189, 102, 892, "armas s", "", 120, 81}
+, 
+{"prontera", 17190, 102, 892, "armas t-v", "", 118, 81}
+, 
+{"prontera", 17191, 102, 892, "armas w-z", "", 116, 81}
+, 
+{"prontera", 17192, 102, 892, "itens gerais 1", "", 116, 79}
+, 
+{"prontera", 17193, 102, 892, "itens gerais 2", "", 118, 79}
+, 
+{"prontera", 17194, 102, 108, "woe:se", "", 120, 79}
+, 
+{"prontera", 17195, 102, 107, "morroc - equips", "", 118, 77}
+, 
+{"prontera", 17196, 102, 107, "morroc - cartas", "", 120, 77}
+, 
+{"prontera", 17197, 102, 864, "itens 13.2", "", 122, 77}
+, 
+{"prontera", 17198, 102, 864, "equips 13.2", "", 124, 77}
+, 
+{"prontera", 17199, 102, 864, "itens visuais", "", 116, 75}
+, 
+{"prontera", 17200, 102, 864, "itens 13.3", "", 118, 75}
+, 
+{"prontera", 17201, 102, 864, "equipamentos 13.3", "", 120, 75}
+, 
+{"prontera", 17202, 102, 864, "itens Úteis", "", 116, 77}
+, 
+{"prontera", 17209, 101, 899, "mister peso", "im", 99, 64}
+, 
+{"prontera", 17210, 101, 826, "ferreiro certeiro", "im", 122, 67}
+, 
+{"prontera", 17213, 101, 85, "suhnbi", "", 169, 228}
+, 
+{"prontera", 19208, 101, 722, "hrist", "", 146, 194}
+, 
+{"prontera", 19209, 101, 722, "brynhildr", "", 143, 203}
+, 
+{"prontera", 19210, 101, 722, "skoegul", "", 167, 203}
+, 
+{"prontera", 19211, 101, 722, "gondul", "", 165, 194}
+, 
+{"prontera", 19536, 101, 92, "dona risadinha", "", 157, 187}
+, 
+{"prontera", 19957, 101, 837, "quadro de avisos", "pron", 148, 49}
+, 
+{"prontera", 19993, 101, 85, "mercador", "pron", 123, 102}
+, 
+{"prontera", 20205, 101, 105, "peco peco breeder", "", 232, 318}
+, 
+{"prontera", 20518, 101, 853, "vendedor de runas", "", 168, 228}
+, 
+{"prontera", 20522, 101, 105, "domador de feras", "", 130, 213}
+, 
+{"prontera", 20523, 101, 105, "soldado", "", 125, 208}
+, 
+{"prontera", 20584, 101, 753, "mestre da guilda", "tu", 167, 281}
+, 
+{"prontera", 20585, 101, 123, "mago", "tu", 144, 301}
+, 
+{"prontera", 20616, 101, 733, "grand master", "", 72, 352}
+, 
+{"prontera", 20617, 101, 734, "cavaleiro", "zabii", 78, 354}
+, 
+{"prontera", 20618, 101, 734, "cavaleiro", "drake", 73, 357}
+, 
+{"prontera", 20619, 101, 734, "cavaleiro", "sasword", 78, 357}
+, 
+{"prontera", 20620, 101, 733, "cavaleiro", "gattack", 66, 358}
+, 
+{"prontera", 20786, 101, 83, "mercador kashin", "airplane", 178, 240}
+, 
+{"prontera", 20792, 102, 83, "comerciante de amatsu", "nin", 178, 244}
+, 
+{"prontera", 21102, 101, 729, "oficial do Éden", "1", 124, 76}
+, 
+{"prontera", 21309, 101, 728, "emissária de maroll", "", 123, 83}
+, 
+{"prontera", 21415, 101, 997, "guarda continental", "pron_edq", 164, 304}
+, 
+{"prontera", 21423, 101, 105, "mensageiro", "prince1", 154, 353}
+, 
+{"prt_are_in", 15565, 101, 732, "encarregado da arena", "", 103, 11}
+, 
+{"prt_church", 13451, 101, 60, "padre bamph", "", 185, 106}
+, 
+{"prt_church", 13452, 101, 60, "padre biscuss", "", 184, 110}
+, 
+{"prt_church", 13874, 101, 67, "hemera", "", 103, 76}
+, 
+{"prt_church", 13875, 101, 120, "kostario", "", 103, 71}
+, 
+{"prt_church", 13881, 101, 71, "assistente de casamento", "", 97, 100}
+, 
+{"prt_church", 13889, 101, 108, "rei tristan iii", "Switch", 28, 178}
+, 
+{"prt_church", 13893, 101, 71, "encarregada de divórcio", "", 20, 179}
+, 
+{"prt_church", 13894, 101, 71, "encarregada de re-casamento", "", 22, 179}
+, 
+{"prt_church", 16753, 102, 79, "madre", "", 108, 124}
+, 
+{"prt_church", 20169, 101, 60, "bispo", "", 16, 41}
+, 
+{"prt_church", 20170, 101, 79, "irm\227 cecília ", "", 27, 24}
+, 
+{"prt_church", 20204, 101, 745, "templária", "", 95, 127}
+, 
+{"prt_church", 20369, 101, 60, "crente", "arch", 103, 88}
+, 
+{"prt_church", 21114, 101, 729, "oficial do Éden", "7", 103, 78}
+, 
+{"prt_fild05", 13855, 101, 105, "encarregado dos esgotos", "", 270, 212}
+, 
+{"prt_fild05", 16752, 102, 83, "vendedor de ferramentas", "", 290, 221}
+, 
+{"prt_fild05", 17074, 101, 114, "funcionária kafra", "", 290, 224}
+, 
+{"prt_fild05", 19987, 101, 837, "quadro de avisos", "sewer", 278, 220}
+, 
+{"prt_fild08", 10087, 101, 706, "vendedor de lenha", "2016xmas", 164, 367}
+, 
+{"prt_fild08", 12589, 101, 909, "emissário poring", "wop", 159, 371}
+, 
+{"prt_fild08", 12683, 101, 904, "edgard valentine", "2016VE", 138, 364}
+, 
+{"prt_fild08", 12684, 101, 904, "placa dos namorados", "2016VE", 10, 50}
+, 
+{"prt_gld", 12028, 101, 421, "gerente de votação", "Invest1", 164, 98}
+, 
+{"prt_gld", 12042, 101, 549, "dubae", "", 158, 96}
+, 
+{"prt_gld", 12043, 101, 421, "gerente do portal", "prt_f00", 161, 96}
+, 
+{"prt_gld", 12045, 101, 857, "placa de investimentos", "fund01", 163, 99}
+, 
+{"prt_gld", 19187, 101, 722, "kriemhild", "", 131, 60}
+, 
+{"prt_gld", 19188, 101, 722, "kriemhild", "", 138, 68}
+, 
+{"prt_gld", 19189, 101, 722, "kriemhild", "", 138, 60}
+, 
+{"prt_gld", 19190, 101, 722, "kriemhild", "", 135, 60}
+, 
+{"prt_gld", 19191, 101, 722, "hrist", "", 244, 126}
+, 
+{"prt_gld", 19192, 101, 722, "hrist", "", 244, 128}
+, 
+{"prt_gld", 19193, 101, 722, "hrist", "", 236, 126}
+, 
+{"prt_gld", 19194, 101, 722, "hrist", "", 236, 128}
+, 
+{"prt_gld", 19195, 101, 722, "brynhildr", "", 147, 140}
+, 
+{"prt_gld", 19196, 101, 722, "brynhildr", "", 147, 136}
+, 
+{"prt_gld", 19197, 101, 722, "brynhildr", "", 158, 140}
+, 
+{"prt_gld", 19198, 101, 722, "brynhildr", "", 158, 136}
+, 
+{"prt_gld", 19199, 101, 722, "skoegul", "", 120, 243}
+, 
+{"prt_gld", 19200, 101, 722, "skoegul", "", 120, 236}
+, 
+{"prt_gld", 19201, 101, 722, "skoegul", "", 122, 243}
+, 
+{"prt_gld", 19202, 101, 722, "skoegul", "", 122, 236}
+, 
+{"prt_gld", 19203, 101, 722, "gondul", "", 199, 243}
+, 
+{"prt_gld", 19204, 101, 722, "gondul", "", 199, 236}
+, 
+{"prt_gld", 19205, 101, 722, "gondul", "", 197, 243}
+, 
+{"prt_gld", 19206, 101, 722, "gondul", "", 197, 236}
+, 
+{"prt_in", 10042, 101, 866, "vov\244 potter", "US13_Fe", 70, 171}
+, 
+{"prt_in", 10043, 101, 863, "vov\243 potter", "US13_Fe", 69, 171}
+, 
+{"prt_in", 13848, 101, 71, "bibliotecária", "", 175, 50}
+, 
+{"prt_in", 13849, 101, 53, "estalajadeira", "", 244, 135}
+, 
+{"prt_in", 13850, 101, 53, "estalajadeira", "", 61, 141}
+, 
+{"prt_in", 13870, 101, 61, "garçom", "", 180, 20}
+, 
+{"prt_in", 16754, 102, 53, "vendedor de ferramentas", "", 126, 76}
+, 
+{"prt_in", 16755, 102, 54, "vendedor de armas", "", 172, 130}
+, 
+{"prt_in", 16756, 102, 47, "vendedor de armas", "", 171, 140}
+, 
+{"prt_in", 16757, 102, 48, "vendedor de armaduras", "", 172, 132}
+, 
+{"prt_in", 16864, 102, 66, "vendedor de armas", "", 165, 140}
+, 
+{"prt_in", 16905, 102, 71, "itens para casamento", "", 211, 169}
+, 
+{"prt_in", 16908, 102, 66, "vendedora de armadilha", "", 109, 68}
+, 
+{"prt_in", 16913, 102, 49, "pe?s para m.e.c.h.a.", "", 175, 137}
+, 
+{"prt_in", 17211, 101, 826, "ferreiro magnífico", "prt", 52, 56}
+, 
+{"prt_in", 19523, 101, 53, "professora", "", 38, 108}
+, 
+{"prt_in", 19876, 101, 84, "dietrich", "", 63, 69}
+, 
+{"prt_in", 19877, 101, 86, "vurewell", "", 56, 68}
+, 
+{"prt_in", 19878, 101, 85, "hugo", "", 63, 60}
+, 
+{"prt_in", 19942, 101, 86, "restaurador", "", 63, 54}
+, 
+{"prt_in", 20957, 101, 84, "seiyablem", "prt", 33, 70}
+, 
+{"prt_in", 20959, 101, 97, "jovem", "prt", 31, 57}
+, 
+{"prt_in", 21253, 101, 86, "leablem", "", 22, 61}
+, 
+{"prt_in", 21326, 101, 57, "bibliotecário", "garas", 178, 90}
+, 
+{"prt_monk", 16820, 102, 726, "vendedor de armas", "", 135, 263}
+, 
+{"que_bingo", 16044, 101, 47, "ajudante", "bingo1", 49, 31}
+, 
+{"que_bingo", 16045, 101, 66, "ajudante", "bingo2", 42, 31}
+, 
+{"que_bingo", 16046, 101, 712, "proprietário", "bingo", 54, 17}
+, 
+{"que_bingo", 16048, 101, 778, "eukran", "bingo", 53, 190}
+, 
+{"ra_fild12", 16371, 101, 934, "guia do aeroplano", "fild", 45, 230}
+, 
+{"ra_in01", 16894, 102, 919, "vendedor de ferramentas", "", 257, 269}
+, 
+{"ra_in01", 16895, 102, 931, "vendedor de frutas", "", 254, 300}
+, 
+{"ra_in01", 16896, 102, 931, "vendedor de armas", "", 176, 389}
+, 
+{"ra_in01", 16897, 102, 919, "vendedor de armaduras", "", 175, 364}
+, 
+{"ra_in01", 16909, 102, 66, "vendedora de armadilha", "", 263, 281}
+, 
+{"ra_in01", 16914, 102, 49, "pe?s para m.e.c.h.a.", "", 257, 266}
+, 
+{"rachel", 12639, 101, 402, "engenheiro mecatrônico", "Rachel", 106, 134}
+, 
+{"rachel", 12990, 101, 109, "agente vip", "", 111, 143}
+, 
+{"rachel", 16341, 101, 919, "lachellen", "", 73, 244}
+, 
+{"rachel", 16342, 101, 921, "criança", "", 196, 77}
+, 
+{"rachel", 16343, 101, 921, "criança", "", 151, 155}
+, 
+{"rachel", 16344, 101, 918, "vov\243 ", "", 266, 35}
+, 
+{"rachel", 16359, 101, 921, "cidadão", "1", 124, 132}
+, 
+{"rachel", 16361, 101, 914, "garota", "1", 74, 150}
+, 
+{"rachel", 16374, 101, 51, "bardo", "aru", 197, 137}
+, 
+{"rachel", 16898, 102, 919, "vendedora de vegetais", "", 65, 80}
+, 
+{"rachel", 17161, 101, 874, "corp. ev. incríveis", "", 109, 138}
+, 
+{"rachel", 20528, 101, 105, "soldado de rachel", "", 106, 130}
+, 
+{"rachel", 21132, 101, 729, "oficial do Éden", "16", 125, 144}
+, 
+{"rachel", 21321, 101, 728, "emissária de maroll", "", 149, 138}
+, 
+{"spl_fild02", 11719, 101, 421, "gato do teleporte no.3", "", 53, 242}
+, 
+{"splendide", 12642, 101, 402, "engenheiro mecatrônico", "Splendide", 180, 174}
+, 
+{"splendide", 13016, 101, 461, "fada", "", 159, 164}
+, 
+{"splendide", 13017, 101, 439, "fada", "", 229, 54}
+, 
+{"splendide", 13018, 101, 446, "fada", "", 89, 235}
+, 
+{"splendide", 13019, 101, 462, "fada", "", 245, 243}
+, 
+{"splendide", 13020, 101, 439, "fada", "", 230, 142}
+, 
+{"splendide", 13021, 101, 444, "fada", "", 274, 203}
+, 
+{"splendide", 13022, 101, 447, "fada", "", 275, 141}
+, 
+{"splendide", 13023, 101, 440, "fada", "", 224, 230}
+, 
+{"splendide", 13024, 101, 462, "fada", "", 223, 36}
+, 
+{"splendide", 13025, 101, 436, "fada", "", 305, 129}
+, 
+{"splendide", 13026, 101, 462, "fada", "", 142, 315}
+, 
+{"splendide", 13027, 101, 462, "fada", "", 181, 107}
+, 
+{"splendide", 20531, 101, 105, "soldado do esplendor", "", 180, 169}
+, 
+{"sword_1-1", 20488, 101, 753, "colega", "job_shuÀÀÁ¢", 223, 243}
+, 
+{"sword_1-1", 20494, 101, 484, "bruno", "job_shu", 222, 169}
+, 
+{"sword_1-1", 20497, 101, 483, "mestre", "job_shu", 223, 167}
+, 
+{"sword_2-1", 20490, 101, 753, "colega", "job_shuaneh", 223, 205}
+, 
+{"tur_dun01", 14065, 101, 709, "barqueiro", "", 165, 29}
+, 
+{"turbo_room", 15543, 101, 115, "funcionária kafra", "", 130, 92}
+, 
+{"turbo_room", 15544, 102, 90, "mercador da turbo track", "", 124, 86}
+, 
+{"turbo_room", 15545, 101, 124, "guia_tbt", "Broadcast", 99, 120}
+, 
+{"turbo_room", 15546, 101, 857, "hall da fama", "", 102, 117}
+, 
+{"turbo_room", 15547, 101, 857, "modo solo", "", 77, 115}
+, 
+{"turbo_room", 15548, 101, 857, "recorde das partidas do modo normal", "", 87, 114}
+, 
+{"turbo_room", 15549, 101, 857, "recorde das partidas do modo avançado", "", 112, 114}
+, 
+{"turbo_room", 15550, 101, 857, "hall da fama do turbo track", "", 97, 117}
+, 
+{"turbo_room", 15551, 101, 857, "modo solo", "1", 75, 95}
+, 
+{"turbo_room", 15552, 101, 857, "recorde das partidas do modo normal", "1", 67, 95}
+, 
+{"turbo_room", 15553, 101, 857, "recorde das partidas do modo avançado", "1", 71, 95}
+, 
+{"turbo_room", 15554, 101, 125, "distribuidor de pontos", "", 93, 117}
+, 
+{"turbo_room", 15555, 101, 833, "encarregado da turbo track", "", 106, 117}
+, 
+{"um_in", 14686, 101, 787, "morador de wotan", "", 158, 71}
+, 
+{"um_in", 16827, 102, 788, "vendedor de ferramentas", "", 104, 124}
+, 
+{"um_in", 16828, 102, 789, "vendedor de armas", "", 160, 125}
+, 
+{"umbala", 10996, 101, 865, "pesquisador amedrontado", "2016hw", 113, 287}
+, 
+{"umbala", 14667, 101, 785, "jovem wootan", "1", 140, 157}
+, 
+{"umbala", 14668, 101, 786, "jovem wootan", "2", 146, 157}
+, 
+{"umbala", 14669, 101, 787, "menina wootan", "2", 194, 104}
+, 
+{"umbala", 14670, 101, 781, "menina wootan", "3", 149, 165}
+, 
+{"umbala", 14671, 101, 789, "jovem wootan", "3", 193, 208}
+, 
+{"umbala", 14672, 101, 787, "menino wootan", "", 59, 243}
+, 
+{"umbala", 14673, 101, 785, "jovem wootan", "5", 139, 205}
+, 
+{"umbala", 14681, 101, 753, "milkkey", "", 80, 146}
+, 
+{"umbala", 14687, 101, 781, "menina de umbala", "", 70, 106}
+, 
+{"umbala", 14688, 101, 97, "pasto", "", 177, 153}
+, 
+{"umbala", 14689, 101, 785, "bertan", "", 92, 159}
+, 
+{"umbala", 16877, 102, 83, "cozinheiro auxiliar", "", 102, 154}
+, 
+{"umbala", 16970, 101, 121, "rapaz meticuloso", "", 169, 107}
+, 
+{"umbala", 17147, 101, 721, "funcionária kafra", "", 87, 160}
+, 
+{"umbala", 19974, 101, 837, "quadro de avisos", "umbala", 137, 94}
+, 
+{"umbala", 21162, 101, 729, "oficial do Éden", "31", 105, 158}
+, 
+{"ve_fild05", 16601, 101, 945, "homem trêmulo", "ve", 257, 130}
+, 
+{"ve_fild05", 20385, 101, 466, "garota", "3rdgc14", 327, 308}
+, 
+{"ve_in", 16452, 101, 947, "barman", "ve", 235, 135}
+, 
+{"ve_in", 16453, 101, 940, "cliente", "ve1", 237, 131}
+, 
+{"ve_in", 16454, 101, 943, "cliente", "ve2", 239, 107}
+, 
+{"ve_in", 16517, 101, 709, "estalajadeiro", "veinsin", 157, 219}
+, 
+{"ve_in", 16547, 101, 946, "prisioneiro", "", 119, 386}
+, 
+{"ve_in", 16548, 101, 946, "vigia", "", 111, 379}
+, 
+{"ve_in", 16549, 101, 946, "vigia", "", 126, 378}
+, 
+{"ve_in", 16550, 101, 943, "habitante", "", 101, 314}
+, 
+{"ve_in", 16551, 101, 849, "habitante", "", 90, 298}
+, 
+{"ve_in", 16552, 101, 849, "habitante", "", 361, 243}
+, 
+{"ve_in", 16553, 101, 849, "habitante", "", 242, 124}
+, 
+{"ve_in", 16554, 101, 946, "habitante", "", 180, 232}
+, 
+{"ve_in", 16555, 101, 940, "habitante", "", 163, 212}
+, 
+{"ve_in", 16556, 101, 946, "habitante", "", 190, 215}
+, 
+{"ve_in", 16557, 101, 943, "habitante", "", 318, 121}
+, 
+{"ve_in", 16558, 101, 943, "habitante", "", 222, 125}
+, 
+{"ve_in", 16559, 101, 940, "habitante", "", 222, 122}
+, 
+{"ve_in", 16560, 101, 946, "habitante", "", 232, 135}
+, 
+{"ve_in", 16561, 101, 946, "habitante", "", 239, 135}
+, 
+{"ve_in", 16562, 101, 943, "habitante", "", 232, 124}
+, 
+{"ve_in", 16563, 101, 946, "habitante", "", 234, 105}
+, 
+{"ve_in", 16899, 102, 931, "vendedor de armas", "", 386, 245}
+, 
+{"ve_in", 16900, 102, 931, "vendedor de armas", "", 336, 243}
+, 
+{"ve_in", 16901, 102, 919, "vendedor de armaduras", "", 374, 230}
+, 
+{"ve_in", 16902, 102, 943, "vendedor de ferramentas", "", 243, 303}
+, 
+{"ve_in", 16903, 102, 941, "vendedora de frutas", "", 253, 304}
+, 
+{"ve_in", 16904, 102, 942, "vendedora m?ica", "", 252, 313}
+, 
+{"veins", 12648, 101, 811, "valquíria ajudante", "gc_pass", 236, 128}
+, 
+{"veins", 12993, 101, 109, "agente vip", "", 210, 109}
+, 
+{"veins", 16518, 101, 943, "habitante", "", 162, 34}
+, 
+{"veins", 16519, 101, 940, "habitante", "", 148, 41}
+, 
+{"veins", 16520, 101, 943, "habitante", "", 137, 179}
+, 
+{"veins", 16521, 101, 946, "habitante", "", 166, 91}
+, 
+{"veins", 16522, 101, 941, "garota", "", 138, 71}
+, 
+{"veins", 16523, 101, 944, "garoto", "", 253, 133}
+, 
+{"veins", 16524, 101, 945, "homem idoso", "", 270, 164}
+, 
+{"veins", 16525, 101, 946, "habitante", "", 310, 195}
+, 
+{"veins", 16526, 101, 943, "habitante", "", 320, 254}
+, 
+{"veins", 16527, 101, 940, "habitante", "", 333, 318}
+, 
+{"veins", 16528, 101, 945, "habitante", "", 218, 323}
+, 
+{"veins", 16529, 101, 941, "garota", "", 206, 275}
+, 
+{"veins", 16530, 101, 943, "habitante", "", 171, 256}
+, 
+{"veins", 16531, 101, 943, "habitante", "", 197, 219}
+, 
+{"veins", 16532, 101, 942, "mulher idosa", "", 232, 169}
+, 
+{"veins", 16533, 101, 945, "homem idoso", "", 121, 199}
+, 
+{"veins", 16534, 101, 943, "habitante", "", 111, 50}
+, 
+{"veins", 16535, 101, 940, "habitante", "", 112, 51}
+, 
+{"veins", 16536, 101, 945, "homem idoso", "", 191, 134}
+, 
+{"veins", 16537, 101, 942, "mulher idosa", "", 177, 147}
+, 
+{"veins", 16538, 101, 944, "garoto", "", 223, 165}
+, 
+{"veins", 16539, 101, 943, "habitante", "", 263, 153}
+, 
+{"veins", 16540, 101, 940, "habitante", "", 296, 184}
+, 
+{"veins", 16541, 101, 944, "garoto", "", 291, 205}
+, 
+{"veins", 16542, 101, 945, "homem idoso", "", 291, 259}
+, 
+{"veins", 16543, 101, 942, "mulher idosa", "", 291, 284}
+, 
+{"veins", 16544, 101, 944, "garoto", "", 248, 301}
+, 
+{"veins", 16545, 101, 945, "homem idoso", "", 161, 63}
+, 
+{"veins", 16546, 101, 946, "habitante", "", 157, 123}
+, 
+{"veins", 17163, 101, 874, "corp. eventos incríveis", "", 208, 128}
+, 
+{"veins", 21138, 101, 729, "oficial do Éden", "19", 220, 109}
+, 
+{"xmas", 16885, 102, 83, "cozinheiro auxiliar", "", 152, 137}
+, 
+{"xmas", 16997, 101, 793, "nani", "", 183, 267}
+, 
+{"xmas", 16998, 101, 712, "foo soon", "", 175, 156}
+, 
+{"xmas", 19530, 101, 704, "homem da máquina de vender", "", 117, 295}
+, 
+{"xmas", 19967, 101, 837, "quadro de avisos", "toy", 147, 311}
+, 
+{"xmas_fild01", 19966, 101, 837, "quadro de avisos", "lutie", 75, 80}
+, 
+{"xmas_in", 16801, 102, 83, "vendedor de ferramentas", "", 40, 38}
+, 
+{"xmas_in", 16802, 102, 49, "vendedor de armas", "", 174, 98}
+, 
+{"xmas_in", 16803, 102, 101, "vendedor de armaduras", "", 168, 104}
+, 
+{"xmas_in", 16804, 102, 702, "vendedora de artefatos", "", 169, 34}
+, 
+{"xmas_in", 17003, 101, 797, "comerciante", "", 35, 30}
+, 
+{"xmas_in", 19732, 101, 718, "papai noel", "", 100, 96}
+, 
+{"xmas_in", 19734, 101, 711, "garota do natal", "", 167, 173}
+, 
+{"y_airport", 15642, 101, 90, "assistente do aeroporto", "y_airport1a", 143, 43}
+, 
+{"y_airport", 15645, 101, 90, "assistente do aeroporto", "y_airport1b", 158, 43}
+, 
+{"y_airport", 15648, 101, 90, "assistente do aeroplano", "y_airport1c", 126, 43}
+, 
+{"y_airport", 15654, 101, 90, "assistente do aeroporto", "y_airport2a", 143, 49}
+, 
+{"y_airport", 15656, 101, 90, "assistente do aeroporto", "y_airport2b", 126, 51}
+, 
+{"y_airport", 15658, 101, 90, "assistente do aeroporto", "y_airport2c", 158, 50}
+, 
+{"y_airport", 15660, 101, 91, "aux. vôos domésticos", "y_airport2d", 145, 63}
+, 
+{"y_airport", 15662, 101, 91, "aux. vôos internacionais", "y_airport2d", 140, 63}
+, 
+{"yuno", 12626, 101, 734, "leandro", "bindepend", 166, 187}
+, 
+{"yuno", 12638, 101, 402, "engenheiro mecatrônico", "Yuno", 167, 187}
+, 
+{"yuno", 12994, 101, 109, "agente vip", "", 149, 187}
+, 
+{"yuno", 13895, 101, 700, "guia de juno", "", 153, 47}
+, 
+{"yuno", 13897, 101, 729, "cidadão de juno", "", 184, 173}
+, 
+{"yuno", 13901, 101, 103, "vov\243 de juno", "", 337, 227}
+, 
+{"yuno", 13902, 101, 732, "lutador marcial", "", 328, 239}
+, 
+{"yuno", 13903, 101, 730, "poder supremo de juno", "", 343, 68}
+, 
+{"yuno", 13905, 101, 123, "sábia de juno", "", 165, 111}
+, 
+{"yuno", 13908, 101, 54, "artesão de juno", "", 157, 205}
+, 
+{"yuno", 13909, 101, 105, "soldado de juno", "", 150, 283}
+, 
+{"yuno", 13910, 101, 105, "soldado de juno", "", 165, 283}
+, 
+{"yuno", 13911, 101, 105, "soldado de juno", "", 227, 292}
+, 
+{"yuno", 13912, 101, 105, "soldado de juno", "", 165, 228}
+, 
+{"yuno", 13913, 101, 105, "soldado de juno", "", 150, 228}
+, 
+{"yuno", 13914, 101, 105, "soldado de juno", "", 334, 182}
+, 
+{"yuno", 13915, 101, 105, "soldado de juno", "", 263, 320}
+, 
+{"yuno", 14937, 101, 91, "assistente do aeroplano", "yuno01", 14, 262}
+, 
+{"yuno", 14938, 101, 91, "assistente do aeroplano", "yuno02", 88, 263}
+, 
+{"yuno", 15132, 101, 861, "funcionária de votação kafra ", "yuno", 162, 191}
+, 
+{"yuno", 15146, 101, 874, "funcionário de votação eventos incríveis", "yuno", 153, 191}
+, 
+{"yuno", 16815, 102, 124, "adestradora", "", 197, 114}
+, 
+{"yuno", 16816, 102, 125, "vendedor de armas", "", 205, 103}
+, 
+{"yuno", 16817, 102, 84, "vendedor de ferramentas", "", 218, 97}
+, 
+{"yuno", 16818, 102, 83, "vendedor de ferramentas", "", 226, 107}
+, 
+{"yuno", 16819, 102, 90, "vendedora m?ica", "", 163, 187}
+, 
+{"yuno", 16878, 102, 83, "cozinheiro auxiliar", "", 130, 173}
+, 
+{"yuno", 16995, 101, 813, "velho ferreiro", "", 241, 52}
+, 
+{"yuno", 17013, 101, 851, "kasis", "crunch", 222, 116}
+, 
+{"yuno", 17139, 101, 860, "funcionária kafra", "", 327, 108}
+, 
+{"yuno", 17141, 101, 861, "funcionária kafra", "", 277, 221}
+, 
+{"yuno", 17143, 101, 860, "funcionária kafra", "", 152, 187}
+, 
+{"yuno", 19250, 101, 722, "himinn", "", 109, 167}
+, 
+{"yuno", 19251, 101, 722, "andlangr", "", 110, 171}
+, 
+{"yuno", 19252, 101, 722, "vidblainn", "", 111, 175}
+, 
+{"yuno", 19253, 101, 722, "hljod", "", 112, 179}
+, 
+{"yuno", 19254, 101, 722, "skatyrnir", "", 114, 183}
+, 
+{"yuno", 19969, 101, 837, "quadro de avisos", "juno", 153, 113}
+, 
+{"yuno", 20527, 101, 105, "soldado de juno", "", 171, 187}
+, 
+{"yuno", 21130, 101, 729, "oficial do Éden", "15", 144, 189}
+, 
+{"yuno_fild03", 19970, 101, 837, "quadro de avisos", "noggroad", 37, 143}
+, 
+{"yuno_in01", 16812, 102, 49, "vendedor de armas", "", 103, 35}
+, 
+{"yuno_in01", 16813, 102, 101, "vendedor de armaduras", "", 112, 26}
+, 
+{"yuno_in01", 16814, 102, 83, "vendedor de ferramentas", "", 25, 34}
+, 
+{"yuno_in01", 19885, 101, 88, "dilleit", "", 164, 27}
+, 
+{"yuno_in01", 19886, 101, 88, "dillemat", "", 171, 27}
+, 
+{"yuno_in01", 19888, 101, 88, "distub", "", 171, 21}
+, 
+{"yuno_in01", 19943, 101, 86, "restaurador", "", 175, 28}
+, 
+{"yuno_in03", 14027, 101, 67, "guia do museu", "", 32, 15}
+, 
+{"yuno_in03", 17000, 101, 726, "neelisis", "", 20, 18}
+, 
+{"yuno_in03", 20689, 102, 67, "mercador de pergaminhos", "yuno03", 176, 22}
+, 
+{"yuno_in04", 14928, 101, 83, "bibliotecário", "", 34, 67}
+, 
+{"NULL", 0, 0, 0, "", "", 0, 0}
+}
+

@@ -1,0 +1,49 @@
+# 
+  [ Criação de Clã ] 
+  1. É necessário ter um Emperium.  
+
+  2. Digitar o comando:  
+  /guild nomedoclã (caso o nome tenha espaço, coloque " no começo)
+
+  3. Pressione Alt + G para acessar a janela de Clã. 
+# 
+
+  [ Janela de informação de clã ]  
+# 
+  1. Onde informações sobre Clã, Experiência, Nível, Emblema, 
+  Nome do Líder, Inimigos, Pontos, Nível Médio dos Membros, Alianças e Clãs Hostis podem ser encontradas. 
+# 
+
+  2. Informações sobre membros:  
+  Os membros do clã podem consultar informações individuais e também deixar o Clã. Em caso de quebra do Clã, todos os membros devem ser removidos antes. 
+# 
+
+  3. Posição:  
+  Divisão de experiência em até 50%.
+# 
+
+  4. Habilidades do Clã:  
+  Quando o Clã sobe de nível, o líder pode usar pontos para evoluir as habilidades disponíveis. 
+# 
+
+  5. Histórico de expulsões:  
+  Lista de membros expulsos do Clã e o motivo da expulsão. 
+# 
+
+  6. Avisos do Clã 
+  Notificações para os membros do Clã. 
+# 
+
+  [ Criação de Emblemas] 
+# 
+  1) Para criar um emblema, é necessário uma imagem do tipo Bitmap nas dimensões 24x24 pixels e 256 cores. 
+# 
+
+  2) Colocar a imagem dentro da pasta do jogo em Ragnarok/Emblem. 
+# 
+
+  3) Para inserir a imagem, basta acessar a janela do Clã e clicar em Editar na janela do Emblema. 
+#
+
+  4) Só o líder do Clã poderá trocar o emblema. 
+#	 
