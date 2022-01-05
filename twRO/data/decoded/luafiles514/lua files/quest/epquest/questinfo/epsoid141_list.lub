@@ -1,0 +1,169 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\quest\epquest\questinfo\epsoid141_list.lub 
+
+-- params : ...
+-- function num : 0
+epsoid141Quest_List = {
+[11182] = {NPCFromName = "德歐雷", NPCFromMap = "mid_camp", NPCFromSpr = "4_F_SCIENCE", NPCFromX = 148, NPCFromY = 222, NPCToName = "德歐雷", NPCToMap = "mid_camp", NPCToSpr = "4_F_SCIENCE", NPCToX = 148, NPCToY = 222, Item = "", PrizeItem = "", Title = "德歐雷的報告", Info = "說要幫忙的同時就暴走了， 等情緒穩定後再對話好了。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "60", LV = "0"}
+, 
+[11183] = {NPCFromName = "德歐雷", NPCFromMap = "mid_camp", NPCFromSpr = "4_F_SCIENCE", NPCFromX = 148, NPCFromY = 222, NPCToName = "", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "德歐雷的委託", Info = "去看一下在史波浪壯麗原野出現的守護精靈在做甚麼好嗎? 就像暴風前的寧靜一樣，他們突然安靜下來反而更讓人不安。德歐雷說曾在草叢裡發現過守護精靈。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11184] = {NPCFromName = "", NPCFromMap = "", NPCFromSpr = "", NPCFromX = -1, NPCFromY = -1, NPCToName = "", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = " < image = \"6390\">小口袋<\\end> (1)", Title = "落跑的守護精靈", Info = "試圖要跟草叢裡的守護精靈說話，沒想到他們大聲尖叫後跑掉了，它們在做甚麼呢? 去查看周圍看看吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11185] = {NPCFromName = "", NPCFromMap = "", NPCFromSpr = "", NPCFromX = -1, NPCFromY = -1, NPCToName = "德歐雷", NPCToMap = "mid_camp", NPCToSpr = "4_F_SCIENCE", NPCToX = 148, NPCToY = 222, Item = "", PrizeItem = "", Title = "小口袋", Info = "在草叢裡的守護精靈處發現了小口袋，回去找德歐雷吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11186] = {NPCFromName = "德歐雷", NPCFromMap = "mid_camp", NPCFromSpr = "4_F_SCIENCE", NPCFromX = 148, NPCFromY = 222, NPCToName = "疲憊的精靈", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID3", NPCToX = 183, NPCToY = 117, Item = "", PrizeItem = "", Title = "小口袋", Info = "那個精靈粉袋的主人應該很急著找吧? 帶著小袋子去史波浪壯麗物歸原主吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11187] = {NPCFromName = "疲憊的精靈", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID3", NPCFromX = 183, NPCFromY = 117, NPCToName = "疲憊的精靈", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID3", NPCToX = 183, NPCToY = 117, Item = " < image = \"6390\">小口袋<\\end> (1)", PrizeItem = "", Title = "小口袋", Info = "看起來不起眼，但對我們來說極其重要，這次非常謝謝你。把小口袋還給上次在草叢裡看到的守護精靈吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11188] = {NPCFromName = "庫斯米", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID5", NPCFromX = 119, NPCFromY = 138, NPCToName = "庫斯米", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID5", NPCToX = 119, NPCToY = 138, Item = "", PrizeItem = "", Title = "小口袋", Info = "我要說的話絕對要保密喔! 如果同意的話再跟我對話吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11189] = {NPCFromName = "庫斯米", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID5", NPCFromX = 119, NPCFromY = 138, NPCToName = "庫斯米", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID5", NPCToX = 119, NPCToY = 138, Item = "", PrizeItem = "", Title = "彩虹橋", Info = "今天的是絕對絕對要保密喔! 除非是好心人，否則傳開來對史波浪壯麗沒好處呢!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11190] = {NPCFromName = "庫斯米", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID5", NPCFromX = 119, NPCFromY = 138, NPCToName = "守護精靈士兵", NPCToMap = "splendide", NPCToSpr = "4_M_FAIRYSOLDIER", NPCToX = 262, NPCToY = 376, Item = "", PrizeItem = "", Title = "彩虹橋", Info = "其實這路是很久以前就存在的，據說還通到大陸各地，如今通到史波浪壯麗前線陣地的後方和愛芙海姆，去調查通到史波浪壯麗北方的彩虹橋上所發生的]問題。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11191] = {NPCFromName = "守護精靈士兵", NPCFromMap = "splendide", NPCFromSpr = "4_M_FAIRYSOLDIER", NPCFromX = 262, NPCFromY = 376, NPCToName = "庫斯米", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID5", NPCToX = 119, NPCToY = 138, Item = "", PrizeItem = "", Title = "彩虹橋的龜裂", Info = "目前因不明的龜裂而無法通行，要多加小心! 回去找庫斯米吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11192] = {NPCFromName = "庫斯米", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID5", NPCFromX = 119, NPCFromY = 138, NPCToName = "", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "前往穆拉村...", Info = "到穆拉村的物流倉庫可從管理員聽取概況說明，還有回來時可順便打聽一下我的朋友朗度是否還在穆拉村嗎? 到彩虹橋的穆拉村調查後去見庫斯米的朋友朗度。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11193] = {NPCFromName = "朗度", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER", NPCFromX = 35, NPCFromY = 119, NPCToName = "庫斯米", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID5", NPCToX = 119, NPCToY = 138, Item = "", PrizeItem = "", Title = "庫斯米的朋友", Info = "請轉達給庫斯米，我們可以隨時見面請不要擔心。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11194] = {NPCFromName = "德歐特", NPCFromMap = "splendide", NPCFromSpr = "4_M_FAIRYKID4", NPCFromX = 304, NPCFromY = 295, NPCToName = "德歐特", NPCToMap = "splendide", NPCToSpr = "4_M_FAIRYKID4", NPCToX = 304, NPCToY = 295, Item = "", PrizeItem = "", Title = "小口袋", Info = "如果你想聽到答案再跟我對話吧! 我也需要時間考慮。再次跟德歐特對話。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11195] = {NPCFromName = "德歐特", NPCFromMap = "splendide", NPCFromSpr = "4_M_FAIRYKID4", NPCFromX = 304, NPCFromY = 295, NPCToName = "德歐特", NPCToMap = "splendide", NPCToSpr = "4_M_FAIRYKID4", NPCToX = 304, NPCToY = 295, Item = "", PrizeItem = "", Title = "彩虹橋", Info = "今天的事絕對要保密，因為現在的情況對我們相當不利。再次跟德歐特對話。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11196] = {NPCFromName = "德歐特", NPCFromMap = "splendide", NPCFromSpr = "4_M_FAIRYKID4", NPCFromX = 304, NPCFromY = 295, NPCToName = "守護精靈士兵", NPCToMap = "splendide", NPCToSpr = "4_M_FAIRYSOLDIER", NPCToX = 262, NPCToY = 376, Item = "", PrizeItem = "", Title = "彩虹橋", Info = "彩虹橋通到這裡史波浪壯麗前線陣地的後方，緣由不是很清楚，據說是從很久以前連接著各大陸的橋梁，去調查通到史波浪壯麗北方的彩虹橋上所發生的]問題。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11197] = {NPCFromName = "守護精靈士兵", NPCFromMap = "splendide", NPCFromSpr = "4_M_FAIRYSOLDIER", NPCFromX = 262, NPCFromY = 376, NPCToName = "德歐特", NPCToMap = "splendide", NPCToSpr = "4_M_FAIRYKID4", NPCToX = 304, NPCToY = 295, Item = "", PrizeItem = "", Title = "彩虹橋的龜裂", Info = "目前因不明的龜裂而無法通行，要多加小心! 回去找德歐特吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11198] = {NPCFromName = "德歐特", NPCFromMap = "splendide", NPCFromSpr = "4_M_FAIRYKID4", NPCFromX = 304, NPCFromY = 295, NPCToName = "", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "前往穆拉村...", Info = "到穆拉村的物流倉庫可從管理員聽取概況說明，還有回來時可順便打聽一下我的朋友莉莉西亞是否還在穆拉村嗎? 到彩虹橋的穆拉村調查後去見德歐特的朋友莉莉西亞。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11199] = {NPCFromName = "莉莉西亞", NPCFromMap = "mora", NPCFromSpr = "4_F_RAFLE_PK", NPCFromX = 98, NPCFromY = 66, NPCToName = "德歐特", NPCToMap = "splendide", NPCToSpr = "4_M_FAIRYKID4", NPCToX = 304, NPCToY = 295, Item = "", PrizeItem = "", Title = "德歐特的朋友", Info = "是德歐特叫你來的嗎? 請你轉告他我超級生氣了。回去找德歐特吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11200] = {NPCFromName = "寶熊", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID4", NPCFromX = 168, NPCFromY = 301, NPCToName = "寶熊", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID4", NPCToX = 168, NPCToY = 301, Item = "", PrizeItem = "", Title = "小口袋", Info = "那個恕難回答，雖然找回袋子很感謝你… 給我一點考慮的時間吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11201] = {NPCFromName = "寶熊", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID4", NPCFromX = 168, NPCFromY = 301, NPCToName = "寶熊", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID4", NPCToX = 168, NPCToY = 301, Item = "", PrizeItem = "", Title = "彩虹橋", Info = "希望有人能幫幫我，嗚嗚嗚! 再次和寶熊對話!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11202] = {NPCFromName = "寶熊", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID4", NPCFromX = 168, NPCFromY = 301, NPCToName = "守護精靈士兵", NPCToMap = "splendide", NPCToSpr = "4_M_FAIRYSOLDIER", NPCToX = 262, NPCToY = 376, Item = "", PrizeItem = "", Title = "彩虹橋", Info = "往史波浪壯麗的後方連著一個大路，據說存在許久，啊! 那裡的警備兵也許知道一些事，去調查通到史波浪壯麗北方的彩虹橋上所發生的]問題。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11203] = {NPCFromName = "守護精靈士兵", NPCFromMap = "splendide", NPCFromSpr = "4_M_FAIRYSOLDIER", NPCFromX = 262, NPCFromY = 376, NPCToName = "寶熊", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID4", NPCToX = 168, NPCToY = 301, Item = "", PrizeItem = "", Title = "彩虹橋的龜裂", Info = "目前因不明的龜裂而無法通行，要多加小心!回去找寶熊吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11204] = {NPCFromName = "寶熊", NPCFromMap = "splendide", NPCFromSpr = "4_F_FAIRYKID4", NPCFromX = 168, NPCFromY = 301, NPCToName = "", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "前往穆拉村...", Info = "到穆拉村的物流倉庫可從管理員聽取概況說明，還有回來時可順便打聽一下我的朋友荷明是否還在穆拉村嗎? 到彩虹橋的穆拉村調查後去見寶熊的朋友荷明。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11205] = {NPCFromName = "荷明", NPCFromMap = "mara", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 139, NPCFromY = 102, NPCToName = "寶熊", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRYKID4", NPCToX = 168, NPCToY = 301, Item = "", PrizeItem = "", Title = "寶熊的朋友", Info = "如果你先到史波浪壯麗的話，請轉告寶熊我正在穿越霧林迷宮前往中。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11206] = {NPCFromName = "物流倉庫管理員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_GR", NPCFromX = 185, NPCFromY = 163, NPCToName = "尤耐斯", NPCToMap = "mora", NPCToSpr = "4_M_MERCAT1", NPCToX = 55, NPCToY = 124, Item = "", PrizeItem = "", Title = "快遞 尤耐斯", Info = "如果你再到史波浪壯麗的話，去告訴在旅館的尤耐斯， 說史波浪壯麗部隊有急件要送。去見在旅館的尤耐斯。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11207] = {NPCFromName = "尤耐斯", NPCFromMap = "mora", NPCFromSpr = "4_M_MERCAT1", NPCFromX = 55, NPCFromY = 124, NPCToName = "尤耐斯", NPCToMap = "mora", NPCToSpr = "4_M_MERCAT1", NPCToX = 55, NPCToY = 124, Item = "", PrizeItem = " < image = \"6391\">史波浪壯麗補給品<\\end> (1)", Title = "超重的行李", Info = "你是在史波浪壯麗穿越霧林迷宮的旅行家嗎? 如果你返回時可將此物交給史波浪壯麗部隊嗎? 先減輕重量後再對話吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11208] = {NPCFromName = "尤耐斯", NPCFromMap = "mora", NPCFromSpr = "4_M_MERCAT1", NPCFromX = 55, NPCFromY = 124, NPCToName = "達佛雷洛", NPCToMap = "splendide", NPCToSpr = "4_F_FAIRY", NPCToX = 121, NPCToY = 260, Item = "< image = \"6391\">史波浪壯麗補給品<\\end> (1)", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (?)", Title = "達佛雷洛", Info = "那就麻煩你了，請轉交給史波浪壯麗的達佛雷洛吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[7206] = {NPCFromName = "契休", NPCFromMap = "", NPCFromSpr = "4_M_CATMAN1", NPCFromX = -1, NPCFromY = -1, NPCToName = "堆積的補給箱", NPCToMap = "dic_dun01", NPCToSpr = "CLEAR_NPC", NPCToX = 274, NPCToY = 114, Item = "", PrizeItem = "", Title = "契休的新工作", Info = "在^4d4dff卡米達隧道^000000中央處有貓咪手商隊的傢伙， 在^4d4dff斯卡勒伯熔岩入口西邊的商隊物品中有另外標示的箱子^000000，請把它搬走，要搬去的地方寫在箱子上了。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[7207] = {NPCFromName = "堆積的補給箱", NPCFromMap = "dic_dun01", NPCFromSpr = "CLEAR_NPC", NPCFromX = 274, NPCFromY = 114, NPCToName = "契休", NPCToMap = "bif_fild01", NPCToSpr = "4_M_CATMAN1", NPCToX = 335, NPCToY = 168, Item = " < image = \"6392\">魔怒克鈽鐳箱<\\end> (1)", PrizeItem = " < image = \"6304\">邪派功勳證<\\end> (1)", Title = "契休所說的箱子", Info = "在卡米達隧道發現了契休所說的箱子，箱子底部寫著^4d4dff彩虹橋的龜裂前^000000，要交給彩虹橋某處的契休吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[7208] = {NPCFromName = "契休", NPCFromMap = "bif_fild01", NPCFromSpr = "4_M_CATMAN1", NPCFromX = 335, NPCFromY = 168, NPCToName = "堆積的補給箱", NPCToMap = "dic_dun01", NPCToSpr = "CLEAR_NPC", NPCToX = 274, NPCToY = 114, Item = "", PrizeItem = "", Title = "明天也可以幫忙嗎?", Info = "將一天一次載貨到卡米達隧道的箱子搬運給契休，找時間去搬箱子吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "86400", LV = "0"}
+, 
+[7209] = {NPCFromName = "契休", NPCFromMap = "bif_fild01", NPCFromSpr = "4_M_CATMAN1", NPCFromX = 335, NPCFromY = 168, NPCToName = "契休", NPCToMap = "bif_fild01", NPCToSpr = "4_M_CATMAN1", NPCToX = 335, NPCToY = 168, Item = " < image = \"6090\">精製鈽鐳<\\end> (20)", PrizeItem = " < image = \"6304\">邪派功勳證<\\end> (1)", Title = "真是無言", Info = "把箱子搞丟了，契休要求以精製鈽鐳 20個來做補償。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[7210] = {NPCFromName = "堆積的補給箱", NPCFromMap = "dic_dun01", NPCFromSpr = "CLEAR_NPC", NPCFromX = 274, NPCFromY = 114, NPCToName = "契休", NPCToMap = "bif_fild01", NPCToSpr = "4_M_CATMAN1", NPCToX = 335, NPCToY = 168, Item = " < image = \"6392\">魔怒克鈽鐳箱<\\end> (1)", PrizeItem = " < image = \"6304\">邪派功勳證<\\end> (1)", Title = "每日配送", Info = "契休枯等的魔怒克鈽鐳箱，要把今天的份量交給在彩虹橋等候的契休!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12225] = {NPCFromName = "象象", NPCFromMap = "mora", NPCFromSpr = "4_ELEPHANT", NPCFromX = 133, NPCFromY = 80, NPCToName = "哈查", NPCToMap = "mora", NPCToSpr = "4_ELEPHANT", NPCToX = 115, NPCToY = 98, Item = "", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (3)", Title = "揹水果的蟲", Info = "這附近會有扛著水果的神奇昆蟲出現，你應該看過了吧! 據說強制向路過的冒險家推銷，如果有發現請做適當的處理吧!", QuickInfo = "", Hunt1 = "< link = \"POM_SPIDER\">食人蜘蛛<\\end> x 3 ", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12226] = {NPCFromName = "象象", NPCFromMap = "mora", NPCFromSpr = "4_ELEPHANT", NPCFromX = 133, NPCFromY = 80, NPCToName = "哈查", NPCToMap = "mora", NPCToSpr = "4_ELEPHANT", NPCToX = 115, NPCToY = 98, Item = "", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (3)", Title = "像花的獵人", Info = "最近常聽說偽裝成花的螳螂偷襲路過的生物，雖沒有波及到冒險家，但安全至上，麻煩你做適當的處理吧!", QuickInfo = "", Hunt1 = " < link = \"ANGRA_MANTIS\">瘋狂螳螂<\\end> x 4 ", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12227] = {NPCFromName = "象象", NPCFromMap = "mora", NPCFromSpr = "4_ELEPHANT", NPCFromX = 133, NPCFromY = 80, NPCToName = "哈查", NPCToMap = "mora", NPCToSpr = "4_ELEPHANT", NPCToX = 115, NPCToY = 98, Item = "", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (3)", Title = "難纏小辣椒..", Info = "據說在彩虹橋附近採集的冒險家遭受鳥們的攻擊，麻煩你做適當的處理吧!", QuickInfo = "", Hunt1 = " < link = \"PARUS\">惡魔啄木鳥<\\end> x 5 ", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12228] = {NPCFromName = "象象", NPCFromMap = "mora", NPCFromSpr = "4_ELEPHANT", NPCFromX = 133, NPCFromY = 80, NPCToName = "哈查", NPCToMap = "mora", NPCToSpr = "4_ELEPHANT", NPCToX = 115, NPCToY = 98, Item = "", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (3)", Title = "莫名的仇恨", Info = "有人匿名要求解決頑皮的精靈，雖不知道有啥深仇大恨，但還是麻煩你做適當的處理吧!", QuickInfo = "", Hunt1 = " < link = \"LITTLE_FATUM\">玩偶魔妖<\\end> x 6 ", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12229] = {NPCFromName = "象象", NPCFromMap = "mora", NPCFromSpr = "4_ELEPHANT", NPCFromX = 133, NPCFromY = 80, NPCToName = "哈查", NPCToMap = "mora", NPCToSpr = "4_ELEPHANT", NPCToX = 115, NPCToY = 98, Item = "", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (3)", Title = "金髮安娜", Info = "據說有個金髮的頭顱在滾來滾去，並竊取冒險家的書和食物，麻煩你做適當的處理吧!", QuickInfo = "", Hunt1 = " < link = \"MIMING\">異形毛毛怪<\\end> x 7 ", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12231] = {NPCFromName = "萌萌", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER", NPCFromX = 119, NPCFromY = 103, NPCToName = "雜貨商", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_GR", NPCToX = 119, NPCToY = 118, Item = "< image = \"928\">昆蟲觸角<\\end> (4)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "防腐劑的材料", Info = "這裡的冒險家們在去探險迷宮之前一定會帶著要噴在緊急備糧用的防腐劑，而防腐劑的材料就是昆蟲觸角，那邊的雜貨商剛好需要4個，我是不會做那種食物的。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12232] = {NPCFromName = "萌萌", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER", NPCFromX = 119, NPCFromY = 103, NPCToName = "雜貨商", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_GR", NPCToX = 119, NPCToY = 118, Item = "< image = \"929\">不死心臟<\\end> (5)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "抵抗的象徵", Info = "這裡的冒險家們流行做護身符，尤其不死心臟深受歡迎，雜貨商說剛好需要5個。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12233] = {NPCFromName = "萌萌", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER", NPCFromX = 119, NPCFromY = 103, NPCToName = "雜貨商", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_GR", NPCToX = 119, NPCToY = 118, Item = "< image = \"930\">腐爛繃帶<\\end> (1)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "級就工具的材料", Info = "需要大量腐爛繃帶來做急救用繃帶的材料，委託人就是那個雜貨商，請帶來一捆就好了。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12234] = {NPCFromName = "萌萌", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER", NPCFromX = 119, NPCFromY = 103, NPCToName = "雜貨商", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_GR", NPCToX = 119, NPCToY = 118, Item = "< image = \"931\">獸人戰士之證<\\end> (3)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "勇猛的象徵", Info = "勇猛的象徵帶給冒險家們很大的鼓舞作用，所以獸人戰士之證也熱賣，雜貨商說需要獸人戰士之證3個。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12235] = {NPCFromName = "萌萌", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER", NPCFromX = 119, NPCFromY = 103, NPCToName = "雜貨商", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_GR", NPCToX = 119, NPCToY = 118, Item = "< image = \"932\">死人遺骨<\\end> (3)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "恢復元氣...", Info = "冒險家之間傳說把骨粉泡在水裡喝下去可恢復元氣，所以雜貨商說需要死人遺骨3個。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12236] = {NPCFromName = "康稜", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER2", NPCFromX = 124, NPCFromY = 108, NPCToName = "生活用品商", NPCToMap = "mora", NPCToSpr = "4_F_RAFLE_PK", NPCToX = 127, NPCToY = 112, Item = "< image = \"934\">亡者遺物<\\end> (2)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "符咒的最新流行趨勢", Info = "大部分的冒險家會把護身符放在小盒裡攜帶著，亡者遺物是很棒的設計標的，所以生活用品商說需要亡者遺物2個。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12237] = {NPCFromName = "康稜", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER2", NPCFromX = 124, NPCFromY = 108, NPCToName = "康稜", NPCToMap = "mora", NPCToSpr = "4_M_DOGTRAVELER2", NPCToX = 124, NPCToY = 108, Item = "< image = \"935\">堅硬外殼<\\end> (3)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "小心保存", Info = "冒險家們都慧小心翼翼的保存著護身符，生活用品商說需要堅硬外殼3個。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12238] = {NPCFromName = "康稜", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER2", NPCFromX = 124, NPCFromY = 108, NPCToName = "康稜", NPCToMap = "mora", NPCToSpr = "4_M_DOGTRAVELER2", NPCToX = 124, NPCToY = 108, Item = "< image = \"906\">鱗片皮膚<\\end> (3)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "護膝的材料", Info = "進出霧林迷宮的旅行家們都會戴護膝，生活用品商說需要用做護膝的材料鱗片皮膚3個。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12239] = {NPCFromName = "康稜", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER2", NPCFromX = 124, NPCFromY = 108, NPCToName = "康稜", NPCToMap = "mora", NPCToSpr = "4_M_DOGTRAVELER2", NPCToX = 124, NPCToY = 108, Item = "< image = \"937\">毒牙<\\end> (2)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "以毒攻毒...", Info = "需要預防毒蟲所需的材料，生活用品商說需要研究毒性成分的毒牙 2個。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12240] = {NPCFromName = "康稜", NPCFromMap = "mora", NPCFromSpr = "4_M_DOGTRAVELER2", NPCFromX = 124, NPCFromY = 108, NPCToName = "康稜", NPCToMap = "mora", NPCToSpr = "4_M_DOGTRAVELER2", NPCToX = 124, NPCToY = 108, Item = "< image = \"938\">粘稠液体<\\end> (5)", PrizeItem = "< image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "小心滑倒", Info = "用做鞋底止滑的材料用完了，生活用品商說需要粘稠液体 5個。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12243] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "達查勒的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者達查勒的資訊?", Info = "達查勒-32歲，米德加爾特出生，到霧林迷宮內採集植物後音信杳無已逾3個月了，生存希望渺小。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12244] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "納伊查的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者納伊查的資訊", Info = "19歲，從遠方搭船過來的冒險家，不顧穆拉村民的反對跑去迷宮裡探險後已失蹤2個月，生存希望渺小。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12245] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "梅斯的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者梅斯的資訊", Info = "年紀不詳，獨自跑去霧林迷宮，失蹤已逾12年，生存可能性無。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12246] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "諾瓦納伊的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者諾瓦納伊的資訊", Info = "專偷世界名劍的大盜，後來跑到霧林迷宮中躲起來，生存希望渺小。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12247] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "絨絨的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者絨絨的資訊", Info = "22歲，飛空艇實習機師，休假回來時在穆拉村喝酒後失蹤了，據說是跑到霧林迷宮去了，已失蹤4個月，生存希望渺小。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12248] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "夢特的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者夢特的資訊", Info = "年紀不詳，長髮黑衣的女性，為了追尋永恆之水而到迷宮內探險，已失蹤3個月，生存希望渺小。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12249] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "馬伊比德的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者馬伊比德的資訊", Info = "50歲，現穆拉村村長，因貪瀆而逃到迷宮裡，生死不明。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12250] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "昆蒙的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者昆蒙的資訊", Info = "29歲，向穆拉村村民騙取穆拉硬幣 1200個後夜奔至迷宮森林裡，生死不明。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12251] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "查伊豪金的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者查伊豪金的資訊", Info = "34歲，常騷擾穆拉村的女性，在吃飯時村民來抓他時逃至迷宮森林裡，生死不明。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[12252] = {NPCFromName = "靈魂的引導者", NPCFromMap = "mora", NPCFromSpr = "4_F_DOGTRAVELER", NPCFromX = 170, NPCFromY = 101, NPCToName = "德爾的遺骸", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = "", Title = "關於失蹤者德爾的資訊", Info = "年紀不詳，搬到穆拉村6年來好吃懶做，後來偷取硬幣後失蹤，生存希望渺小。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1119] = {NPCFromName = "村落騎士團首領", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_VI", NPCFromX = 116, NPCFromY = 165, NPCToName = "村落騎士團首領", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_VI", NPCToX = 116, NPCToY = 165, Item = " < image = \"12561\">神奇種子<\\end> (200)", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "村落騎士團 - 首領的差遣", Info = "已從手領中接下委託中", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "82800", LV = "0"}
+, 
+[1118] = {NPCFromName = "村落騎士團團長", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 114, NPCFromY = 163, NPCToName = "村落騎士團團長", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 114, NPCToY = 163, Item = " < image = \"6383\">愷愷之線索<\\end> (30)", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (2)", Title = "村落騎士團 - 線索是什麼", Info = "到霧林收集^0000FF愷愷之線索^000000 30個後，回去找村落騎士團團長。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5016] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = " < image = \"6385\">研究工具箱<\\end> (1)", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "給我研究工具", Info = "草精研究員說在三溫暖遭受不明生 物的偷襲而研究工具都被搶走了。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5017] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = "", PrizeItem = "", Title = "研究員的復仇", Info = "助理要以輕鬆的心情協助研究，去騷擾3次不明生物吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5018] = {NPCFromName = "", NPCFromMap = "", NPCFromSpr = "", NPCFromX = -1, NPCFromY = -1, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = "", PrizeItem = "", Title = "研究員的復仇", Info = "去騷擾了三溫暖裡的不明生物3次。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5019] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = " < image = \"6386\">三溫暖樣本水<\\end> (10) < image = \"1092\">空試管<\\end> (10)", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "採集三溫暖樣本水", Info = "正式研就開始了，但需要研究樣本，到三溫暖採集三溫暖樣本水 10個回來吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5020] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = "", PrizeItem = "", Title = "樣本檢驗中", Info = "研究員正在對三溫暖樣本水進行基本檢測，一般需要24小時，所以等等再過來吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "86400", LV = "0"}
+, 
+[5021] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = " < image = \"6387\">牙齒標本<\\end> (10)", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "收集樣本", Info = "在三溫暖樣本水中發現了不明的DNA，為了進行比對必須再到三溫暖採集牙齒標本回來!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5022] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = " < image = \"6388\">鱗片標本<\\end> (10)", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (1)", Title = "收集樣本", Info = "在三溫暖樣本水中發現了不明的DNA，為了進行比對必須再到三溫暖採集鱗片標本回來!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5023] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = "", PrizeItem = "", Title = "樣本檢驗中", Info = "研究員為了查出不明的DNA，正在比對你帶來的樣本中。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "21600", LV = "0"}
+, 
+[5024] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "水坑", NPCToMap = "bif_fild02", NPCToSpr = "", NPCToX = 315, NPCToY = 285, Item = " < image = \"1092\">空試管<\\end> (1) < image = \"6389\">水坑研究樣本<\\end> (1)", PrizeItem = "", Title = "調查東邊水坑", Info = "研究員雖然查出不明的DNA，但發現了更多的疑點，為了找出答案，要求你到東邊水坑採集研究樣本。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5025] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "水坑", NPCToMap = "bif_fild02", NPCToSpr = "", NPCToX = 65, NPCToY = 109, Item = " < image = \"1092\">空試管<\\end> (1) < image = \"6389\">水坑研究樣本<\\end> (1)", PrizeItem = "", Title = "調查西邊水坑", Info = "研究員雖然查出不明的DNA，但發現了更多的疑點，為了找出答案，要求你到西邊水坑採集研究樣本。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5026] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "水坑", NPCToMap = "bif_fild02", NPCToSpr = "", NPCToX = 223, NPCToY = 71, Item = " < image = \"1092\">空試管<\\end> (1) < image = \"6389\">水坑研究樣本<\\end> (1)", PrizeItem = "", Title = "調查南邊水坑", Info = "研究員雖然查出不明的DNA，但發現了更多的疑點，為了找出答案，要求你到南邊水坑採集研究樣本。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5027] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "水坑", NPCToMap = "bif_fild02", NPCToSpr = "CLEAR_NPC", NPCToX = 113, NPCToY = 340, Item = " < image = \"1092\">空試管<\\end> (1) < image = \"6389\">水坑研究樣本<\\end> (1)", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (4)", Title = "調查北邊水坑", Info = "研究員雖然查出不明的DNA，但發現了更多的疑點，為了找出答案，要求你到北邊水坑採集研究樣本。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[5028] = {NPCFromName = "草精研究員", NPCFromMap = "mora", NPCFromSpr = "4_M_RAFLE_OR", NPCFromX = 31, NPCFromY = 138, NPCToName = "草精研究員", NPCToMap = "mora", NPCToSpr = "4_M_RAFLE_OR", NPCToX = 31, NPCToY = 138, Item = "", PrizeItem = " < image = \"6380\">穆拉村硬幣<\\end> (30)", Title = "樣本檢驗中", Info = "研究進入最後階段，研究員正在檢測從四處採集回來的樣本中。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "43200", LV = "0"}
+, 
+[1109] = {NPCFromName = "娟娟", NPCFromMap = "mora", NPCFromSpr = "4_F_MORAFINE2", NPCFromX = 117, NPCFromY = 66, NPCToName = "娟娟", NPCToMap = "mora", NPCToSpr = "4_F_MORAFINE2", NPCToX = 117, NPCToY = 66, Item = "< image = \"6383\">123456789<\\end> (30)", PrizeItem = "< image = \"6383\">123456789<\\end> (30)", Title = "愷愷與娟娟 - 霧林的倖存者", Info = "0123456789 0123456789 0123456789 0123456789 0123456789 0123456789 012345678901234567890123456789", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1110] = {NPCFromName = "娟娟", NPCFromMap = "mora", NPCFromSpr = "4_F_MORAFINE2", NPCFromX = 117, NPCFromY = 66, NPCToName = "娟娟", NPCToMap = "mora", NPCToSpr = "4_F_MORAFINE2", NPCToX = 117, NPCToY = 66, Item = "", PrizeItem = "", Title = "愷愷和娟娟 - 都是受害者", Info = "意外責怪愷愷的佳佳，去找娟娟吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1111] = {NPCFromName = "佳佳", NPCFromMap = "mora", NPCFromSpr = "4_M_LYINGDOG", NPCFromX = 65, NPCFromY = 145, NPCToName = "佳佳", NPCToMap = "mora", NPCToSpr = "4_M_LYINGDOG", NPCToX = 65, NPCToY = 145, Item = " < image = \"6383\">愷愷之線索<\\end> (30)", PrizeItem = "", Title = "愷愷和娟娟 – 前往霧林", Info = "收集散落在霧林各處的^0000FF愷愷之線索^000000 30個後去找佳佳。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1112] = {NPCFromName = "娟娟", NPCFromMap = "mora", NPCFromSpr = "4_F_MORAFINE2", NPCFromX = 117, NPCFromY = 66, NPCToName = "娟娟", NPCToMap = "mora", NPCToSpr = "4_F_MORAFINE2", NPCToX = 117, NPCToY = 66, Item = " < image = \"6383\">愷愷之線索<\\end> (30)", PrizeItem = "", Title = "愷愷和娟娟 – 到處是迷宮", Info = "一直在隱瞞否認的佳佳，去找娟娟吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1113] = {NPCFromName = "佳佳", NPCFromMap = "mora", NPCFromSpr = "4_M_LYINGDOG", NPCFromX = 65, NPCFromY = 145, NPCToName = "佳佳", NPCToMap = "mora", NPCToSpr = "4_M_LYINGDOG", NPCToX = 65, NPCToY = 145, Item = "", PrizeItem = " < image = \"6384\">愷愷愷愷之戒<\\end> (1)", Title = "愷愷和娟娟 – 毀約.", Info = "信裡的愷愷感覺非常危急，佳佳也無法再否認下去了。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1114] = {NPCFromName = "娟娟好友", NPCFromMap = "mora", NPCFromSpr = "4_F_MORAFINE1", NPCFromX = 115, NPCFromY = 68, NPCToName = "娟娟好友", NPCToMap = "mora", NPCToSpr = "4_F_MORAFINE1", NPCToX = 115, NPCToY = 68, Item = "", PrizeItem = "", Title = "愷愷和娟娟 - 犧牲的代價", Info = "雖說找到戒指，但無法得知愷愷的行蹤，回去找娟娟吧!", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1115] = {NPCFromName = "愷愷", NPCFromMap = "bif_fild01", NPCFromSpr = "4_M_FAIRYSOLDIER2", NPCFromX = 132, NPCFromY = 338, NPCToName = "愷愷", NPCToMap = "bif_fild01", NPCToSpr = "4_M_FAIRYSOLDIER2", NPCToX = 132, NPCToY = 338, Item = "", PrizeItem = "", Title = "愷愷和娟娟 – 深淵之歌", Info = "據報在霧林入口處發現可疑的男子，難道是...?", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1116] = {NPCFromName = "娟娟", NPCFromMap = "mora", NPCFromSpr = "4_F_MORAFINE2", NPCFromX = 117, NPCFromY = 66, NPCToName = "娟娟", NPCToMap = "mora", NPCToSpr = "4_F_MORAFINE2", NPCToX = 117, NPCToY = 66, Item = " < image = \"6384\">愷愷愷愷之戒<\\end> (1)", PrizeItem = "", Title = "愷愷和娟娟 – 亡者之歌", Info = "漸漸變成怪物的愷愷的懇求，回去找娟娟。", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[1117] = {NPCFromName = "", NPCFromMap = "", NPCFromSpr = "", NPCFromX = -1, NPCFromY = -1, NPCToName = "", NPCToMap = "", NPCToSpr = "", NPCToX = -1, NPCToY = -1, Item = "", PrizeItem = " <image = \"\">穆拉村硬幣<\\end> (10)", Title = "愷愷和娟娟", QuickInfo = "", Info = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+}
+

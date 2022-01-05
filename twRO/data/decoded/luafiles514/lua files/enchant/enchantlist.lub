@@ -1,0 +1,43 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\enchant\enchantlist.lub 
+
+-- params : ...
+-- function num : 0
+-- DECOMPILER ERROR at PC3: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[14] = CreateEnchantInfo()
+;
+(Table[14]):SetSlotOrder(0)
+;
+(Table[14]):AddTargetItem("Limesoda_In_Mouth")
+;
+(Table[14]):SetCondition(0, 0)
+;
+(Table[14]):ApproveRandomOption(true)
+;
+(Table[14]):SetReset(true, 100000, 10000, {"이글이글구슬", 1}, {"황금옥수수", 5}, {"몸에좋은허브", 5})
+;
+(Table[14]):SetCaution("2021 여름 팝콘 이벤트 아이템 인챈트\n기본 성공확률 100%\n초기화 확률 100% 실패시 파괴안됨")
+;
+(((Table[14]).Slot)[0]):SetRequire(10000, {"이글이글구슬", 1}, {"황금옥수수", 5}, {"몸에좋은허브", 5})
+;
+(((Table[14]).Slot)[0]):SetSuccessRate(100000)
+;
+(((Table[14]).Slot)[0]):SetGradeBonus(1, 0)
+;
+(((Table[14]).Slot)[0]):SetGradeBonus(2, 0)
+;
+(((Table[14]).Slot)[0]):SetGradeBonus(3, 0)
+;
+(((Table[14]).Slot)[0]):SetEnchant(0, "Summer_Hot_Lv1", 50000)
+;
+(((Table[14]).Slot)[0]):SetEnchant(0, "Summer_Cool_Lv1", 50000)
+;
+(((Table[14]).Slot)[0]):AddUpgradeEnchant("Summer_Hot_Lv1", "Summer_Hot_Lv2", 50000, {"이글이글구슬", 3}, {"황금옥수수", 10}, {"몸에좋은허브", 10})
+;
+(((Table[14]).Slot)[0]):AddUpgradeEnchant("Summer_Hot_Lv2", "Summer_Hot_Lv3", 100000, {"이글이글구슬", 5}, {"황금옥수수", 15}, {"몸에좋은허브", 15})
+;
+(((Table[14]).Slot)[0]):AddUpgradeEnchant("Summer_Cool_Lv1", "Summer_Cool_Lv2", 50000, {"이글이글구슬", 3}, {"황금옥수수", 10}, {"몸에좋은허브", 10})
+;
+(((Table[14]).Slot)[0]):AddUpgradeEnchant("Summer_Cool_Lv2", "Summer_Cool_Lv3", 100000, {"이글이글구슬", 5}, {"황금옥수수", 15}, {"몸에좋은허브", 15})
+

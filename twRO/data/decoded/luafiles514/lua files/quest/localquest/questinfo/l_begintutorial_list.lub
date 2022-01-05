@@ -1,0 +1,11 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\quest\localquest\questinfo\l_begintutorial_list.lub 
+
+-- params : ...
+-- function num : 0
+BeginTutorialQuest_List = {
+[7472] = {NPCFromName = "船長卡魯", NPCFromMap = "izlude", NPCFromSpr = "4_M_REINDEER", NPCFromX = 198, NPCFromY = 213, NPCToName = "勳", NPCToMap = "izlude", NPCToSpr = "4_M_KHKYEL", NPCToX = 122, NPCToY = 207, Item = "", PrizeItem = "", Title = "世界的地一步", Info = "去見克里圖拉學院的職員\'勳\'", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+, 
+[11339] = {NPCFromName = "戰鬥教官 史必奴", NPCFromMap = "iz_ac01", NPCFromSpr = "4_M_NOV_HUNT", NPCFromX = 59, NPCFromY = 83, NPCToName = "戰鬥教官 史必奴", NPCToMap = "iz_ac01", NPCToSpr = "4_M_NOV_HUNT", NPCToX = 59, NPCToY = 83, Item = "< image = \"909\">傑勒比結晶<\\end> (5)", PrizeItem = "", Title = "在新手世界最美味的是", Info = "去抓在克里圖拉學院做為重要食材的波利10隻候帶來傑勒比結晶 5個給史必奴，在/伊斯魯得島西邊很容易發現波利。", QuickInfo = "", Hunt1 = "< link = \"PORING\">波利<\\end> x 10 ", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}
+}
+

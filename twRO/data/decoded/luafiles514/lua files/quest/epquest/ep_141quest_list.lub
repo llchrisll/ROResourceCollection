@@ -1,0 +1,215 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\quest\epquest\ep_141quest_list.lub 
+
+-- params : ...
+-- function num : 0
+EP_141Quest_List = {
+{name = "EP 14.1 穆拉村", imagefile = "ep_test_sample.bmp", 
+list = {
+{name = "愷愷與娟娟", 
+list = {
+{name = "愷愷與娟娟 - 霧林中的生存者", scrfilename = "epsoid141Quest", questID = 1109}
+, 
+{name = "愷愷與娟娟 - 大家都是受害者", scrfilename = "epsoid141Quest", questID = 1110}
+, 
+{name = "愷愷與娟娟 - 前往霧林", scrfilename = "epsoid141Quest", questID = 1111}
+, 
+{name = "愷愷與娟娟 – 到處都是迷宮", scrfilename = "epsoid141Quest", questID = 1112}
+, 
+{name = "愷愷與娟娟 – 毀約", scrfilename = "epsoid141Quest", questID = 1113}
+, 
+{name = "愷愷與娟娟 – 犧牲的代價", scrfilename = "epsoid141Quest", questID = 1114}
+, 
+{name = "愷愷與娟娟 – 深淵之歌", scrfilename = "epsoid141Quest", questID = 1115}
+, 
+{name = "愷愷與娟娟 – 亡者之歌", scrfilename = "epsoid141Quest", questID = 1116}
+, 
+{name = "愷愷與娟娟 – 永續之約定，訣別之戒", scrfilename = "epsoid141Quest", questID = 1117}
+, 
+{name = "村落騎士團 – 線索是啥", scrfilename = "epsoid141Quest", questID = 1118}
+}
+}
+, 
+{name = "穆拉村三溫暖研究", 
+list = {
+{name = "拿給我研究工具", scrfilename = "epsoid141Quest", questID = 5016}
+, 
+{name = "不明生物", scrfilename = "epsoid141Quest", questID = 5029}
+, 
+{name = "研究員的復仇", scrfilename = "epsoid141Quest", questID = 5017}
+, 
+{name = "研究員的復仇", scrfilename = "epsoid141Quest", questID = 5018}
+, 
+{name = "採集三溫暖研究標本", scrfilename = "epsoid141Quest", questID = 5019}
+, 
+{name = "標本檢驗中", scrfilename = "epsoid141Quest", questID = 5020}
+, 
+{name = "採集標本", scrfilename = "epsoid141Quest", questID = 5021}
+, 
+{name = "採集標本", scrfilename = "epsoid141Quest", questID = 5022}
+, 
+{name = "標本檢驗中", scrfilename = "epsoid141Quest", questID = 5023}
+, 
+{name = "調查東邊水坑", scrfilename = "epsoid141Quest", questID = 5024}
+, 
+{name = "調查西邊水坑", scrfilename = "epsoid141Quest", questID = 5025}
+, 
+{name = "調查南邊水坑", scrfilename = "epsoid141Quest", questID = 5026}
+, 
+{name = "調查北邊水坑", scrfilename = "epsoid141Quest", questID = 5027}
+, 
+{name = "標本檢驗中", scrfilename = "epsoid141Quest", questID = 5028}
+}
+}
+, 
+{name = "德歐雷的報告", 
+list = {
+{name = "德歐雷的報告", scrfilename = "epsoid141Quest", questID = 11182}
+, 
+{name = "德歐雷的委託", scrfilename = "epsoid141Quest", questID = 11183}
+, 
+{name = "落跑的守護精靈", scrfilename = "epsoid141Quest", questID = 11184}
+, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11185}
+, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11186}
+, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11187}
+, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11188}
+, 
+{name = "彩虹橋", scrfilename = "epsoid141Quest", questID = 11189}
+, 
+{name = "彩虹橋", scrfilename = "epsoid141Quest", questID = 11190}
+, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11194}
+, 
+{name = "彩虹橋", scrfilename = "epsoid141Quest", questID = 11195}
+, 
+{name = "彩虹橋", scrfilename = "epsoid141Quest", questID = 11196}
+, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11200}
+, 
+{name = "彩虹橋", scrfilename = "epsoid141Quest", questID = 11201}
+, 
+{name = "彩虹橋", scrfilename = "epsoid141Quest", questID = 11202}
+, 
+{name = "彩虹橋的龜裂", scrfilename = "epsoid141Quest", questID = 11191}
+, 
+{name = "彩虹橋的龜裂", scrfilename = "epsoid141Quest", questID = 11197}
+, 
+{name = "彩虹橋的龜裂", scrfilename = "epsoid141Quest", questID = 11203}
+, 
+{name = "前往穆拉村...", scrfilename = "epsoid141Quest", questID = 11192}
+, 
+{name = "前往穆拉村...", scrfilename = "epsoid141Quest", questID = 11198}
+, 
+{name = "前往穆拉村...", scrfilename = "epsoid141Quest", questID = 11204}
+, 
+{name = "快遞尤耐斯", scrfilename = "epsoid141Quest", questID = 11206}
+, 
+{name = "庫斯米的好友", scrfilename = "epsoid141Quest", questID = 11193}
+, 
+{name = "德歐特的好友", scrfilename = "epsoid141Quest", questID = 11199}
+, 
+{name = "寶熊的好友", scrfilename = "epsoid141Quest", questID = 11205}
+, 
+{name = "超重的行李", scrfilename = "epsoid141Quest", questID = 11207}
+, 
+{name = "達佛雷洛", scrfilename = "epsoid141Quest", questID = 11208}
+}
+}
+, 
+{name = "徬徨中的守護者", 
+list = {
+{name = "霧林探險", scrfilename = "epsoid141Quest", questID = 7211}
+, 
+{name = "洛奇找的東西", scrfilename = "epsoid141Quest", questID = 7212}
+, 
+{name = "徬徨中的守護者", scrfilename = "epsoid141Quest", questID = 7213}
+}
+}
+, 
+{name = "契休的嶄新之路", 
+list = {
+{name = "契休的新工作", scrfilename = "epsoid141Quest", questID = 7206}
+, 
+{name = "契休所指的箱子", scrfilename = "epsoid141Quest", questID = 7207}
+, 
+{name = "明天也來幫我好嗎?", scrfilename = "epsoid141Quest", questID = 7208}
+, 
+{name = "每日配送", scrfilename = "epsoid141Quest", questID = 7210}
+, 
+{name = "真是無可奈何", scrfilename = "epsoid141Quest", questID = 7209}
+}
+}
+, 
+{name = "打怪每日任務5種", 
+list = {
+{name = "扛著水果的蟲子", scrfilename = "epsoid141Quest", questID = 12225}
+, 
+{name = "長得像花的獵人", scrfilename = "epsoid141Quest", questID = 12226}
+, 
+{name = "小辣椒..", scrfilename = "epsoid141Quest", questID = 12227}
+, 
+{name = "未知的怨恨", scrfilename = "epsoid141Quest", questID = 12228}
+, 
+{name = "金髮安娜", scrfilename = "epsoid141Quest", questID = 12229}
+}
+}
+, 
+{name = "收集每日任務5種", 
+list = {
+{name = "防腐劑的原料", scrfilename = "epsoid141Quest", questID = 12231}
+, 
+{name = "抵抗的象徵", scrfilename = "epsoid141Quest", questID = 12232}
+, 
+{name = "急救箱的材料", scrfilename = "epsoid141Quest", questID = 12233}
+, 
+{name = "勇猛的象徵", scrfilename = "epsoid141Quest", questID = 12234}
+, 
+{name = "對元氣很好的...", scrfilename = "epsoid141Quest", questID = 12235}
+}
+}
+, 
+{name = "收集每日任務5種 2", 
+list = {
+{name = "最新流行的符咒", scrfilename = "epsoid141Quest", questID = 12236}
+, 
+{name = "安全第一", scrfilename = "epsoid141Quest", questID = 12237}
+, 
+{name = "護膝的材料", scrfilename = "epsoid141Quest", questID = 12238}
+, 
+{name = "以毒攻毒...", scrfilename = "epsoid141Quest", questID = 12239}
+, 
+{name = "小心滑倒", scrfilename = "epsoid141Quest", questID = 12240}
+}
+}
+, 
+{name = "收拾遺骸 10種", 
+list = {
+{name = "關於失蹤者達查勒的資訊", scrfilename = "epsoid141Quest", questID = 12243}
+, 
+{name = "關於失蹤者納伊查的資訊", scrfilename = "epsoid141Quest", questID = 12244}
+, 
+{name = "關於失蹤者梅斯的資訊", scrfilename = "epsoid141Quest", questID = 12245}
+, 
+{name = "關於失蹤者諾瓦納伊的資訊", scrfilename = "epsoid141Quest", questID = 12246}
+, 
+{name = "關於失蹤者絨絨的資訊", scrfilename = "epsoid141Quest", questID = 12247}
+, 
+{name = "關於失蹤者夢特的資訊", scrfilename = "epsoid141Quest", questID = 12248}
+, 
+{name = "關於失蹤者馬伊比德的資訊", scrfilename = "epsoid141Quest", questID = 12249}
+, 
+{name = "關於失蹤者昆蒙的資訊", scrfilename = "epsoid141Quest", questID = 12250}
+, 
+{name = "關於失蹤者查伊豪金的資訊", scrfilename = "epsoid141Quest", questID = 12251}
+, 
+{name = "關於失蹤者德爾的資訊", scrfilename = "epsoid141Quest", questID = 12252}
+}
+}
+}
+}
+}
+

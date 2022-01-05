@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<desc>Taiwan TEST Lapine Box</desc>
+	<servicetype>taiwan</servicetype>
+	<servertype>primary</servertype>
+	<extendedslot></extendedslot>
+	<readfolder></readfolder>
+	
+	<connection>
+		<display>Taiwan TEST Edda_and_Etc</display>
+		<desc>None</desc>
+		<address>192.168.5.40</address>
+		<port>6900</port>
+		<version>1</version>
+		<langtype>4</langtype>
+		<registrationweb>https://member.gnjoy.com.tw/signin.aspx</registrationweb>
+		<aid>
+			<admin>100096</admin>
+		</aid>
+	</connection>
+</clientinfo>
+

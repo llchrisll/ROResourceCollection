@@ -1,0 +1,72 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\dressroom\dress_f.lub 
+
+-- params : ...
+-- function num : 0
+_get_dresslist = function(sex, job, index)
+  -- function num : 0_0
+  if sex == 0 then
+    if _DressList_f[job] == nil then
+      return nil, nil
+    end
+    if (_DressList_f[job])[index] == nil then
+      return nil, nil
+    end
+    return ((_DressList_f[job])[index])[1], ((_DressList_f[job])[index])[2]
+  else
+    if _DressList_m[job] == nil then
+      return nil, nil
+    end
+    if (_DressList_m[job])[index] == nil then
+      return nil, nil
+    end
+    return ((_DressList_m[job])[index])[1], ((_DressList_m[job])[index])[2]
+  end
+end
+
+_get_Headstylelist = function(sex, index)
+  -- function num : 0_1
+  if sex == 0 then
+    if _DressHeadstyleList_f[index] == nil then
+      return nil, nil
+    end
+    return (_DressHeadstyleList_f[index])[1], (_DressHeadstyleList_f[index])[2]
+  else
+    if _DressHeadstyleList_m[index] == nil then
+      return nil, nil
+    end
+    return (_DressHeadstyleList_m[index])[1], (_DressHeadstyleList_m[index])[2]
+  end
+end
+
+_get_DressHeadPaletteList = function(sex, index)
+  -- function num : 0_2
+  if sex == 0 then
+    if _DressHeadPaletteList_f[index] == nil then
+      return nil, nil
+    end
+    return (_DressHeadPaletteList_f[index])[1], (_DressHeadPaletteList_f[index])[2]
+  else
+    if _DressHeadPaletteList_m[index] == nil then
+      return nil, nil
+    end
+    return (_DressHeadPaletteList_m[index])[1], (_DressHeadPaletteList_m[index])[2]
+  end
+end
+
+_get_DressBodyPaletteList = function(sex, index)
+  -- function num : 0_3
+  if sex == 0 then
+    if _DressBodyPaletteList_f[index] == nil then
+      return nil, nil
+    end
+    return (_DressBodyPaletteList_f[index])[1], (_DressBodyPaletteList_f[index])[2]
+  else
+    if _DressBodyPaletteList_m[index] == nil then
+      return nil, nil
+    end
+    return (_DressBodyPaletteList_m[index])[1], (_DressBodyPaletteList_m[index])[2]
+  end
+end
+
+

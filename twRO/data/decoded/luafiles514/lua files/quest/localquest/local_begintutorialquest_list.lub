@@ -1,0 +1,19 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\quest\localquest\local_begintutorialquest_list.lub 
+
+-- params : ...
+-- function num : 0
+LOCAL_BeginTuTorialQuest_list = {
+{name = "新手教學", imagefile = "ep_test_sample.bmp", 
+list = {
+{name = "線境傳說的起步", 
+list = {
+{name = "世界的第一步", scrfilename = "BeginTutorialQuest", questID = 7472}
+, 
+{name = "這世界最美味的..", scrfilename = "BeginTutorialQuest", questID = 11339}
+}
+}
+}
+}
+}
+

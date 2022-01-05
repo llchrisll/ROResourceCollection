@@ -1,0 +1,6459 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\datainfo\npcidentitysvr.lub 
+
+-- params : ...
+-- function num : 0
+dofile("NPCIdentity.lua")
+main = function()
+  -- function num : 0_0
+  local tbl = {
+{jobtbl.JT_4_F_KAFRA7, "4_F_KAFRA7", nil}
+, 
+{jobtbl.JT_8_F_GIRL, "8_F_GIRL", nil}
+, 
+{jobtbl.JT_4_F_GODEMOM, "4_F_GODEMOM", nil}
+, 
+{jobtbl.JT_4_F_GON, "4_F_GON", nil}
+, 
+{jobtbl.JT_4_F_KID2, "4_F_KID2", nil}
+, 
+{jobtbl.JT_4_M_BIBI, "4_M_BIBI", nil}
+, 
+{jobtbl.JT_4_M_GEF_SOLDIER, "4_M_GEF_SOLDIER", nil}
+, 
+{jobtbl.JT_4_M_KID1, "4_M_KID1", nil}
+, 
+{jobtbl.JT_4_M_MOC_SOLDIER, "4_M_MOC_SOLDIER", nil}
+, 
+{jobtbl.JT_4_M_PAY_SOLDIER, "4_M_PAY_SOLDIER", nil}
+, 
+{jobtbl.JT_4_M_SEAMAN, "4_M_SEAMAN", nil}
+, 
+{jobtbl.JT_4_M_SNOWMAN, "4_M_SNOWMAN", nil}
+, 
+{jobtbl.JT_4_F_05, "4_F_05", nil}
+, 
+{jobtbl.JT_4_M_05, "4_M_05", nil}
+, 
+{jobtbl.JT_4_M_06, "4_M_06", nil}
+, 
+{jobtbl.JT_4_F_06, "4_F_06", nil}
+, 
+{jobtbl.JT_4_M_PIERROT, "4_M_PIERROT", nil}
+, 
+{jobtbl.JT_4_M_KID2, "4_M_KID2", nil}
+, 
+{jobtbl.JT_4_F_KID3, "4_F_KID3", nil}
+, 
+{jobtbl.JT_4_M_SANTA, "4_M_SANTA", nil}
+, 
+{jobtbl.JT_4_F_NACORURI, "4_F_NACORURI", nil}
+, 
+{jobtbl.JT_4_F_SHAMAN, "4_F_SHAMAN", nil}
+, 
+{jobtbl.JT_GUILD_FLAG, "GUILD_FLAG", nil}
+, 
+{jobtbl.JT_1_SHADOW_NPC, "1_SHADOW_NPC", nil}
+, 
+{jobtbl.JT_4_F_07, "4_F_07", nil}
+, 
+{jobtbl.JT_4_F_JOB_ASSASSIN, "4_F_JOB_ASSASSIN", nil}
+, 
+{jobtbl.JT_4_F_JOB_BLACKSMITH, "4_F_JOB_BLACKSMITH", nil}
+, 
+{jobtbl.JT_4_F_JOB_HUNTER, "4_F_JOB_HUNTER", nil}
+, 
+{jobtbl.JT_4_F_JOB_KNIGHT, "4_F_JOB_KNIGHT", nil}
+, 
+{jobtbl.JT_4_F_NOVICE, "4_F_NOVICE", nil}
+, 
+{jobtbl.JT_4_M_JOB_ASSASSIN, "4_M_JOB_ASSASSIN", nil}
+, 
+{jobtbl.JT_4_M_JOB_BLACKSMITH, "4_M_JOB_BLACKSMITH", nil}
+, 
+{jobtbl.JT_4_M_JOB_HUNTER, "4_M_JOB_HUNTER", nil}
+, 
+{jobtbl.JT_4_M_JOB_KNIGHT1, "4_M_JOB_KNIGHT1", nil}
+, 
+{jobtbl.JT_4_M_JOB_KNIGHT2, "4_M_JOB_KNIGHT2", nil}
+, 
+{jobtbl.JT_4_M_JOB_WIZARD, "4_M_JOB_WIZARD", nil}
+, 
+{jobtbl.JT_4_BAPHOMET, "4_BAPHOMET", nil}
+, 
+{jobtbl.JT_4_DARKLORD, "4_DARKLORD", nil}
+, 
+{jobtbl.JT_4_DEVIRUCHI, "4_DEVIRUCHI", nil}
+, 
+{jobtbl.JT_8_DOPPEL, "8_DOPPEL", nil}
+, 
+{jobtbl.JT_2_M_ALCHE, "2_M_ALCHE", nil}
+, 
+{jobtbl.JT_2_M_BARD_ORIENT, "2_M_BARD_ORIENT", nil}
+, 
+{jobtbl.JT_2_M_SAGE_B, "2_M_SAGE_B", nil}
+, 
+{jobtbl.JT_2_M_SAGE_OLD, "2_M_SAGE_OLD", nil}
+, 
+{jobtbl.JT_4_F_ALCHE, "4_F_ALCHE", nil}
+, 
+{jobtbl.JT_4_F_CRU, "4_F_CRU", nil}
+, 
+{jobtbl.JT_4_F_MONK, "4_F_MONK", nil}
+, 
+{jobtbl.JT_4_F_ROGUE, "4_F_ROGUE", nil}
+, 
+{jobtbl.JT_4_M_ALCHE_A, "4_M_ALCHE_A", nil}
+, 
+{jobtbl.JT_4_M_ALCHE_B, "4_M_ALCHE_B", nil}
+, 
+{jobtbl.JT_4_M_ALCHE_C, "4_M_ALCHE_C", nil}
+, 
+{jobtbl.JT_4_M_CRU, "4_M_CRU", nil}
+, 
+{jobtbl.JT_4_M_CRU_OLD, "4_M_CRU_OLD", nil}
+, 
+{jobtbl.JT_4_M_MONK, "4_M_MONK", nil}
+, 
+{jobtbl.JT_4_M_SAGE_A, "4_M_SAGE_A", nil}
+, 
+{jobtbl.JT_4_M_SAGE_C, "4_M_SAGE_C", nil}
+, 
+{jobtbl.JT_4_F_SON, "4_F_SON", nil}
+, 
+{jobtbl.JT_4_F_JPN2, "4_F_JPN2", nil}
+, 
+{jobtbl.JT_4_F_JPN, "4_F_JPN", nil}
+, 
+{jobtbl.JT_4_F_JPNCHIBI, "4_F_JPNCHIBI", nil}
+, 
+{jobtbl.JT_4_F_JPNOBA2, "4_F_JPNOBA2", nil}
+, 
+{jobtbl.JT_4_F_JPNOBA, "4_F_JPNOBA", nil}
+, 
+{jobtbl.JT_4_M_JPN2, "4_M_JPN2", nil}
+, 
+{jobtbl.JT_4_M_JPN, "4_M_JPN", nil}
+, 
+{jobtbl.JT_4_M_JPNCHIBI, "4_M_JPNCHIBI", nil}
+, 
+{jobtbl.JT_4_M_JPNOJI2, "4_M_JPNOJI2", nil}
+, 
+{jobtbl.JT_4_M_JPNOJI, "4_M_JPNOJI", nil}
+, 
+{jobtbl.JT_8_M_JPNSOLDIER, "8_M_JPNSOLDIER", nil}
+, 
+{jobtbl.JT_8_M_JPNMASTER, "8_M_JPNMASTER", nil}
+, 
+{jobtbl.JT_4_F_JPNMU, "4_F_JPNMU", nil}
+, 
+{jobtbl.JT_4_F_TWGIRL, "4_F_TWGIRL", nil}
+, 
+{jobtbl.JT_4_F_TWGRANDMOM, "4_F_TWGRANDMOM", nil}
+, 
+{jobtbl.JT_4_F_TWMASKGIRL, "4_F_TWMASKGIRL", nil}
+, 
+{jobtbl.JT_4_F_TWMIDWOMAN, "4_F_TWMIDWOMAN", nil}
+, 
+{jobtbl.JT_4_M_TWBOY, "4_M_TWBOY", nil}
+, 
+{jobtbl.JT_4_M_TWMASKMAN, "4_M_TWMASKMAN", nil}
+, 
+{jobtbl.JT_4_M_TWMIDMAN, "4_M_TWMIDMAN", nil}
+, 
+{jobtbl.JT_4_M_TWOLDMAN, "4_M_TWOLDMAN", nil}
+, 
+{jobtbl.JT_4_M_TWTEAMAN, "4_M_TWTEAMAN", nil}
+, 
+{jobtbl.JT_4_M_YOYOROGUE, "4_M_YOYOROGUE", nil}
+, 
+{jobtbl.JT_8_M_TWSOLDIER, "8_M_TWSOLDIER", nil}
+, 
+{jobtbl.JT_4_F_UMGIRL, "4_F_UMGIRL", nil}
+, 
+{jobtbl.JT_4_F_UMOLDWOMAN, "4_F_UMOLDWOMAN", nil}
+, 
+{jobtbl.JT_4_F_UMWOMAN, "4_F_UMWOMAN", nil}
+, 
+{jobtbl.JT_4_M_UMCHIEF, "4_M_UMCHIEF", nil}
+, 
+{jobtbl.JT_4_M_UMDANCEKID2, "4_M_UMDANCEKID2", nil}
+, 
+{jobtbl.JT_4_M_UMDANCEKID, "4_M_UMDANCEKID", nil}
+, 
+{jobtbl.JT_4_M_UMKID, "4_M_UMKID", nil}
+, 
+{jobtbl.JT_4_M_UMOLDMAN, "4_M_UMOLDMAN", nil}
+, 
+{jobtbl.JT_4_M_UMSOLDIER, "4_M_UMSOLDIER", nil}
+, 
+{jobtbl.JT_4_M_SALVATION, "4_M_SALVATION", nil}
+, 
+{jobtbl.JT_4_F_NFDEADKAFRA, "4_F_NFDEADKAFRA", nil}
+, 
+{jobtbl.JT_4_F_NFDEADMGCIAN, "4_F_NFDEADMGCIAN", nil}
+, 
+{jobtbl.JT_4_F_NFLOSTGIRL, "4_F_NFLOSTGIRL", nil}
+, 
+{jobtbl.JT_4_M_NFDEADMAN2, "4_M_NFDEADMAN2", nil}
+, 
+{jobtbl.JT_4_M_NFDEADMAN, "4_M_NFDEADMAN", nil}
+, 
+{jobtbl.JT_4_M_NFDEADSWDMAN, "4_M_NFDEADSWDMAN", nil}
+, 
+{jobtbl.JT_4_M_NFLOSTMAN, "4_M_NFLOSTMAN", nil}
+, 
+{jobtbl.JT_4_M_NFMAN, "4_M_NFMAN", nil}
+, 
+{jobtbl.JT_4_NFBAT, "4_NFBAT", nil}
+, 
+{jobtbl.JT_4_NFCOCK, "4_NFCOCK", nil}
+, 
+{jobtbl.JT_4_NFCOFFIN, "4_NFCOFFIN", nil}
+, 
+{jobtbl.JT_4_NFWISP, "4_NFWISP", nil}
+, 
+{jobtbl.JT_1_F_SIGNZISK, "1_F_SIGNZISK", nil}
+, 
+{jobtbl.JT_1_M_SIGN1, "1_M_SIGN1", nil}
+, 
+{jobtbl.JT_1_M_SIGNALCHE, "1_M_SIGNALCHE", nil}
+, 
+{jobtbl.JT_1_M_SIGNART, "1_M_SIGNART", nil}
+, 
+{jobtbl.JT_1_M_SIGNMCNT, "1_M_SIGNMCNT", nil}
+, 
+{jobtbl.JT_1_M_SIGNMONK2, "1_M_SIGNMONK2", nil}
+, 
+{jobtbl.JT_1_M_SIGNMONK, "1_M_SIGNMONK", nil}
+, 
+{jobtbl.JT_1_M_SIGNROGUE, "1_M_SIGNROGUE", nil}
+, 
+{jobtbl.JT_4_F_VALKYRIE, "4_F_VALKYRIE", nil}
+, 
+{jobtbl.JT_TW_TOWER, "TW_TOWER", nil}
+, 
+{jobtbl.JT_2_M_OLDBLSMITH, "2_M_OLDBLSMITH", nil}
+, 
+{jobtbl.JT_4_F_CHNDOCTOR, "4_F_CHNDOCTOR", nil}
+, 
+{jobtbl.JT_4_F_CHNDRESS1, "4_F_CHNDRESS1", nil}
+, 
+{jobtbl.JT_4_F_CHNDRESS2, "4_F_CHNDRESS2", nil}
+, 
+{jobtbl.JT_4_F_CHNDRESS3, "4_F_CHNDRESS3", nil}
+, 
+{jobtbl.JT_4_F_CHNWOMAN, "4_F_CHNWOMAN", nil}
+, 
+{jobtbl.JT_4_M_CHN8GUEK, "4_M_CHN8GUEK", nil}
+, 
+{jobtbl.JT_4_M_CHNCOOK, "4_M_CHNCOOK", nil}
+, 
+{jobtbl.JT_4_M_CHNGENERL, "4_M_CHNGENERL", nil}
+, 
+{jobtbl.JT_4_M_CHNMAN, "4_M_CHNMAN", nil}
+, 
+{jobtbl.JT_4_M_CHNMONK, "4_M_CHNMONK", nil}
+, 
+{jobtbl.JT_4_M_CHNOLD, "4_M_CHNOLD", nil}
+, 
+{jobtbl.JT_4_M_CHNSOLDIER, "4_M_CHNSOLDIER", nil}
+, 
+{jobtbl.JT_4_M_DOMINO, "4_M_DOMINO", nil}
+, 
+{jobtbl.JT_4_M_DWARF, "4_M_DWARF", nil}
+, 
+{jobtbl.JT_4_M_GRANDMONK, "4_M_GRANDMONK", nil}
+, 
+{jobtbl.JT_4_M_ROGUE, "4_M_ROGUE", nil}
+, 
+{jobtbl.JT_4_F_DOMINO, "4_F_DOMINO", nil}
+, 
+{jobtbl.JT_4_F_ZONDAGIRL, "4_F_ZONDAGIRL", nil}
+, 
+{jobtbl.JT_4_M_REIDIN_KURS, "4_M_REIDIN_KURS", nil}
+, 
+{jobtbl.JT_4_M_ZONDAOYAJI, "4_M_ZONDAOYAJI", nil}
+, 
+{jobtbl.JT_4_M_BUDDHIST, "4_M_BUDDHIST", nil}
+, 
+{jobtbl.JT_2_BOARD1, "2_BOARD1", nil}
+, 
+{jobtbl.JT_2_BOARD2, "2_BOARD2", nil}
+, 
+{jobtbl.JT_2_BULLETIN_BOARD, "2_BULLETIN_BOARD", nil}
+, 
+{jobtbl.JT_4_F_THAIAYO, "4_F_THAIAYO", nil}
+, 
+{jobtbl.JT_4_F_THAIGIRL, "4_F_THAIGIRL", nil}
+, 
+{jobtbl.JT_4_F_THAISHAMAN, "4_F_THAISHAMAN", nil}
+, 
+{jobtbl.JT_4_M_THAIAYO, "4_M_THAIAYO", nil}
+, 
+{jobtbl.JT_4_M_THAIOLD, "4_M_THAIOLD", nil}
+, 
+{jobtbl.JT_4_M_THAIONGBAK, "4_M_THAIONGBAK", nil}
+, 
+{jobtbl.JT_CLEAR_NPC, "CLEAR_NPC", nil}
+, 
+{jobtbl.JT_4_F_RACING, "4_F_RACING", nil}
+, 
+{jobtbl.JT_4_F_EINOLD, "4_F_EINOLD", nil}
+, 
+{jobtbl.JT_4_M_EINOLD, "4_M_EINOLD", nil}
+, 
+{jobtbl.JT_4_M_EINMINER, "4_M_EINMINER", nil}
+, 
+{jobtbl.JT_4_M_DIEMAN, "4_M_DIEMAN", nil}
+, 
+{jobtbl.JT_4_F_EINWOMAN, "4_F_EINWOMAN", nil}
+, 
+{jobtbl.JT_4_M_REPAIR, "4_M_REPAIR", nil}
+, 
+{jobtbl.JT_4_M_EIN_SOLDIER, "4_M_EIN_SOLDIER", nil}
+, 
+{jobtbl.JT_4_M_YURI, "4_M_YURI", nil}
+, 
+{jobtbl.JT_4_M_EINMAN2, "4_M_EINMAN2", nil}
+, 
+{jobtbl.JT_4_M_EINMAN, "4_M_EINMAN", nil}
+, 
+{jobtbl.JT_2_F_SIGN1, "2_F_SIGN1", nil}
+, 
+{jobtbl.JT_4_BOARD3, "4_BOARD3", nil}
+, 
+{jobtbl.JT_4_BULLETIN_BOARD2, "4_BULLETIN_BOARD2", nil}
+, 
+{jobtbl.JT_4_F_AGENTKAFRA, "4_F_AGENTKAFRA", nil}
+, 
+{jobtbl.JT_4_F_KAFRA8, "4_F_KAFRA8", nil}
+, 
+{jobtbl.JT_4_F_KAFRA9, "4_F_KAFRA9", nil}
+, 
+{jobtbl.JT_4_F_LGTGIRL, "4_F_LGTGIRL", nil}
+, 
+{jobtbl.JT_4_F_LGTGRAND, "4_F_LGTGRAND", nil}
+, 
+{jobtbl.JT_4_F_OPERATION, "4_F_OPERATION", nil}
+, 
+{jobtbl.JT_4_LGTSCIENCE, "4_LGTSCIENCE", nil}
+, 
+{jobtbl.JT_4_M_LGTGRAND, "4_M_LGTGRAND", nil}
+, 
+{jobtbl.JT_4_M_LGTGUARD2, "4_M_LGTGUARD2", nil}
+, 
+{jobtbl.JT_4_M_LGTGUARD, "4_M_LGTGUARD", nil}
+, 
+{jobtbl.JT_4_M_LGTMAN, "4_M_LGTMAN", nil}
+, 
+{jobtbl.JT_4_M_LGTPOOR, "4_M_LGTPOOR", nil}
+, 
+{jobtbl.JT_4_M_OPERATION, "4_M_OPERATION", nil}
+, 
+{jobtbl.JT_4_M_PRESIDENT, "4_M_PRESIDENT", nil}
+, 
+{jobtbl.JT_4_M_REINDEER, "4_M_REINDEER", nil}
+, 
+{jobtbl.JT_4_M_ZONDAMAN, "4_M_ZONDAMAN", nil}
+, 
+{jobtbl.JT_4_M_PECOKNIGHT, "4_M_PECOKNIGHT", nil}
+, 
+{jobtbl.JT_4_CAT, "4_CAT", nil}
+, 
+{jobtbl.JT_4_F_YUNYANG, "4_F_YUNYANG", nil}
+, 
+{jobtbl.JT_4_M_OILMAN, "4_M_OILMAN", nil}
+, 
+{jobtbl.JT_4_F_CAPEGIRL, "4_F_CAPEGIRL", nil}
+, 
+{jobtbl.JT_4_M_MASKMAN, "4_M_MASKMAN", nil}
+, 
+{jobtbl.JT_4_M_SITDOWN, "4_M_SITDOWN", nil}
+, 
+{jobtbl.JT_4_F_SITDOWN, "4_F_SITDOWN", nil}
+, 
+{jobtbl.JT_4_M_ALCHE_D, "4_M_ALCHE_D", nil}
+, 
+{jobtbl.JT_4_M_ACROSS, "4_M_ACROSS", nil}
+, 
+{jobtbl.JT_4_F_ACROSS, "4_F_ACROSS", nil}
+, 
+{jobtbl.JT_4_COOK, "4_COOK", nil}
+, 
+{jobtbl.JT_4_M_LIEMAN, "4_M_LIEMAN", nil}
+, 
+{jobtbl.JT_2_POSTBOX, "2_POSTBOX", nil}
+, 
+{jobtbl.JT_4_BULL, "4_BULL", nil}
+, 
+{jobtbl.JT_4_LAM, "4_LAM", nil}
+, 
+{jobtbl.JT_4_F_HUGIRL, "4_F_HUGIRL", nil}
+, 
+{jobtbl.JT_4_F_HUGRANMA, "4_F_HUGRANMA", nil}
+, 
+{jobtbl.JT_4_F_HUWOMAN, "4_F_HUWOMAN", nil}
+, 
+{jobtbl.JT_4_F_KHELLISIA, "4_F_KHELLISIA", nil}
+, 
+{jobtbl.JT_4_F_KHELLY, "4_F_KHELLY", nil}
+, 
+{jobtbl.JT_4_M_HUBOY, "4_M_HUBOY", nil}
+, 
+{jobtbl.JT_4_M_HUGRANFA, "4_M_HUGRANFA", nil}
+, 
+{jobtbl.JT_4_M_HUMAN_01, "4_M_HUMAN_01", nil}
+, 
+{jobtbl.JT_4_M_HUMAN_02, "4_M_HUMAN_02", nil}
+, 
+{jobtbl.JT_4_M_HUMERCHANT, "4_M_HUMERCHANT", nil}
+, 
+{jobtbl.JT_4_M_HUOLDARMY, "4_M_HUOLDARMY", nil}
+, 
+{jobtbl.JT_4_M_KHKIEL, "4_M_KHKIEL", nil}
+, 
+{jobtbl.JT_4_M_KHKYEL, "4_M_KHKYEL", nil}
+, 
+{jobtbl.JT_4_M_KHMAN, "4_M_KHMAN", nil}
+, 
+{jobtbl.JT_4_F_KHWOMAN, "4_F_KHWOMAN", nil}
+, 
+{jobtbl.JT_4_F_KHGIRL, "4_F_KHGIRL", nil}
+, 
+{jobtbl.JT_4_M_KHBOY, "4_M_KHBOY", nil}
+, 
+{jobtbl.JT_4_M_PHILMAN, "4_M_PHILMAN", nil}
+, 
+{jobtbl.JT_4_PORING, "4_PORING", nil}
+, 
+{jobtbl.JT_2_COLAVEND, "2_COLAVEND", nil}
+, 
+{jobtbl.JT_4_F_SOCCER, "4_F_SOCCER", nil}
+, 
+{jobtbl.JT_4_M_SOCCER7, "4_M_SOCCER7", nil}
+, 
+{jobtbl.JT_4_M_SOCCER9, "4_M_SOCCER9", nil}
+, 
+{jobtbl.JT_4_F_CHILD, "4_F_CHILD", nil}
+, 
+{jobtbl.JT_4_F_MADAME, "4_F_MADAME", nil}
+, 
+{jobtbl.JT_4_F_MASK1, "4_F_MASK1", nil}
+, 
+{jobtbl.JT_4_F_MASK, "4_F_MASK", nil}
+, 
+{jobtbl.JT_4_F_RACHOLD, "4_F_RACHOLD", nil}
+, 
+{jobtbl.JT_4_F_SHABBY, "4_F_SHABBY", nil}
+, 
+{jobtbl.JT_4_F_TRAINEE, "4_F_TRAINEE", nil}
+, 
+{jobtbl.JT_4_M_CHILD1, "4_M_CHILD1", nil}
+, 
+{jobtbl.JT_4_M_CHILD, "4_M_CHILD", nil}
+, 
+{jobtbl.JT_4_M_DOCTOR, "4_M_DOCTOR", nil}
+, 
+{jobtbl.JT_4_M_FROZEN1, "4_M_FROZEN1", nil}
+, 
+{jobtbl.JT_4_M_FROZEN, "4_M_FROZEN", nil}
+, 
+{jobtbl.JT_4_M_MASK1, "4_M_MASK1", nil}
+, 
+{jobtbl.JT_4_M_MASK, "4_M_MASK", nil}
+, 
+{jobtbl.JT_4_M_MIDDLE1, "4_M_MIDDLE1", nil}
+, 
+{jobtbl.JT_4_M_MIDDLE, "4_M_MIDDLE", nil}
+, 
+{jobtbl.JT_4_M_RACHMAN2, "4_M_RACHMAN2", nil}
+, 
+{jobtbl.JT_4_M_RACHMAN1, "4_M_RACHMAN1", nil}
+, 
+{jobtbl.JT_4_M_RACHOLD1, "4_M_RACHOLD1", nil}
+, 
+{jobtbl.JT_4_M_RACHOLD, "4_M_RACHOLD", nil}
+, 
+{jobtbl.JT_4_M_RASWORD, "4_M_RASWORD", nil}
+, 
+{jobtbl.JT_4_M_TRAINEE, "4_M_TRAINEE", nil}
+, 
+{jobtbl.JT_4_F_ARUNA_POP, "4_F_ARUNA_POP", nil}
+, 
+{jobtbl.JT_4_M_ARUNA_NFM1, "4_M_ARUNA_NFM1", nil}
+, 
+{jobtbl.JT_4_DST_CAMEL, "4_DST_CAMEL", nil}
+, 
+{jobtbl.JT_4_DST_SOLDIER, "4_DST_SOLDIER", nil}
+, 
+{jobtbl.JT_4_F_DESERT, "4_F_DESERT", nil}
+, 
+{jobtbl.JT_4_F_DST_CHILD, "4_F_DST_CHILD", nil}
+, 
+{jobtbl.JT_4_F_DST_GRAND, "4_F_DST_GRAND", nil}
+, 
+{jobtbl.JT_4_M_DESERT, "4_M_DESERT", nil}
+, 
+{jobtbl.JT_4_M_DST_CHILD, "4_M_DST_CHILD", nil}
+, 
+{jobtbl.JT_4_M_DST_GRAND, "4_M_DST_GRAND", nil}
+, 
+{jobtbl.JT_4_M_DST_MASTER, "4_M_DST_MASTER", nil}
+, 
+{jobtbl.JT_4_M_DST_TOUGH, "4_M_DST_TOUGH", nil}
+, 
+{jobtbl.JT_4_ANGELING, "4_ANGELING", nil}
+, 
+{jobtbl.JT_4_ARCHANGELING, "4_ARCHANGELING", nil}
+, 
+{jobtbl.JT_4_GHOSTRING, "4_GHOSTRING", nil}
+, 
+{jobtbl.JT_4_F_EDEN_MASTER, "4_F_EDEN_MASTER", nil}
+, 
+{jobtbl.JT_4_F_EDEN_OFFICER, "4_F_EDEN_OFFICER", nil}
+, 
+{jobtbl.JT_4_M_EDEN_GUARDER, "4_M_EDEN_GUARDER", nil}
+, 
+{jobtbl.JT_4_M_PATRICK, "4_M_PATRICK", nil}
+, 
+{jobtbl.JT_4_DONKEY, "4_DONKEY", nil}
+, 
+{jobtbl.JT_4_M_TRISTAN, "4_M_TRISTAN", nil}
+, 
+{jobtbl.JT_4_WHITE_COW, "4_WHITE_COW", nil}
+, 
+{jobtbl.JT_4_F_RUSCHILD, "4_F_RUSCHILD", nil}
+, 
+{jobtbl.JT_4_F_RUSWOMAN1, "4_F_RUSWOMAN1", nil}
+, 
+{jobtbl.JT_4_F_RUSWOMAN2, "4_F_RUSWOMAN2", nil}
+, 
+{jobtbl.JT_4_F_RUSWOMAN3, "4_F_RUSWOMAN3", nil}
+, 
+{jobtbl.JT_4_M_RUSCHILD, "4_M_RUSCHILD", nil}
+, 
+{jobtbl.JT_4_M_GUSLIMAN, "4_M_GUSLIMAN", nil}
+, 
+{jobtbl.JT_4_M_RUSBALD, "4_M_RUSBALD", nil}
+, 
+{jobtbl.JT_4_M_RUSKING, "4_M_RUSKING", nil}
+, 
+{jobtbl.JT_4_M_RUSKNIGHT, "4_M_RUSKNIGHT", nil}
+, 
+{jobtbl.JT_4_M_RUSMAN1, "4_M_RUSMAN1", nil}
+, 
+{jobtbl.JT_4_M_RUSMAN2, "4_M_RUSMAN2", nil}
+, 
+{jobtbl.JT_4_M_DRAKE, "4_M_DRAKE", nil}
+, 
+{jobtbl.JT_4_F_BABAYAGA, "4_F_BABAYAGA", nil}
+, 
+{jobtbl.JT_4_F_RUSGREEN, "4_F_RUSGREEN", nil}
+, 
+{jobtbl.JT_4_RUS_DWOLF, "4_RUS_DWOLF", nil}
+, 
+{jobtbl.JT_1_FLAG_LION, "1_FLAG_LION", nil}
+, 
+{jobtbl.JT_1_FLAG_EAGLE, "1_FLAG_EAGLE", nil}
+, 
+{jobtbl.JT_4_M_MIKID, "4_M_MIKID", nil}
+, 
+{jobtbl.JT_4_BLUE_FLOWER, "4_BLUE_FLOWER", nil}
+, 
+{jobtbl.JT_4_RED_FLOWER, "4_RED_FLOWER", nil}
+, 
+{jobtbl.JT_4_YELL_FLOWER, "4_YELL_FLOWER", nil}
+, 
+{jobtbl.JT_4_F_CAVE1, "4_F_CAVE1", nil}
+, 
+{jobtbl.JT_4_F_MUT1, "4_F_MUT1", nil}
+, 
+{jobtbl.JT_4_F_MUT2, "4_F_MUT2", nil}
+, 
+{jobtbl.JT_4_F_SCIENCE, "4_F_SCIENCE", nil}
+, 
+{jobtbl.JT_4_M_1STPRIN1, "4_M_1STPRIN1", nil}
+, 
+{jobtbl.JT_4_M_1STPRIN2, "4_M_1STPRIN2", nil}
+, 
+{jobtbl.JT_4_M_2NDPRIN1, "4_M_2NDPRIN1", nil}
+, 
+{jobtbl.JT_4_M_2NDPRIN2, "4_M_2NDPRIN2", nil}
+, 
+{jobtbl.JT_4_M_3RDPRIN1, "4_M_3RDPRIN1", nil}
+, 
+{jobtbl.JT_4_M_3RDPRIN2, "4_M_3RDPRIN2", nil}
+, 
+{jobtbl.JT_4_M_4THPRIN1, "4_M_4THPRIN1", nil}
+, 
+{jobtbl.JT_4_M_4THPRIN2, "4_M_4THPRIN2", nil}
+, 
+{jobtbl.JT_4_M_5THPRIN1, "4_M_5THPRIN1", nil}
+, 
+{jobtbl.JT_4_M_5THPRIN2, "4_M_5THPRIN2", nil}
+, 
+{jobtbl.JT_4_M_6THPRIN1, "4_M_6THPRIN1", nil}
+, 
+{jobtbl.JT_4_M_6THPRIN2, "4_M_6THPRIN2", nil}
+, 
+{jobtbl.JT_4_M_CASMAN1, "4_M_CASMAN1", nil}
+, 
+{jobtbl.JT_4_M_CAVE1, "4_M_CAVE1", nil}
+, 
+{jobtbl.JT_4_M_MOCASS1, "4_M_MOCASS1", nil}
+, 
+{jobtbl.JT_4_M_MOCASS2, "4_M_MOCASS2", nil}
+, 
+{jobtbl.JT_4_M_MUT1, "4_M_MUT1", nil}
+, 
+{jobtbl.JT_4_M_MUT2, "4_M_MUT2", nil}
+, 
+{jobtbl.JT_4_M_SCIENCE, "4_M_SCIENCE", nil}
+, 
+{jobtbl.JT_4_F_VALKYRIE2, "4_F_VALKYRIE2", nil}
+, 
+{jobtbl.JT_4_M_UNCLEKNIGHT, "4_M_UNCLEKNIGHT", nil}
+, 
+{jobtbl.JT_4_M_YOUNGKNIGHT, "4_M_YOUNGKNIGHT", nil}
+, 
+{jobtbl.JT_2_MONEMUS, "2_MONEMUS", nil}
+, 
+{jobtbl.JT_4_M_ATEIL, "4_M_ATEIL", nil}
+, 
+{jobtbl.JT_4_F_ANNIVERSARY, "4_F_ANNIVERSARY", nil}
+, 
+{jobtbl.JT_4_M_GREATPO, "4_M_GREATPO", nil}
+, 
+{jobtbl.JT_4_M_NOVELIST, "4_M_NOVELIST", nil}
+, 
+{jobtbl.JT_4_M_CHAMPSOUL, "4_M_CHAMPSOUL", nil}
+, 
+{jobtbl.JT_4_M_OLDFRIAR, "4_M_OLDFRIAR", nil}
+, 
+{jobtbl.JT_4_M_CRU_SOLD, "4_M_CRU_SOLD", nil}
+, 
+{jobtbl.JT_4_M_CRU_KNT, "4_M_CRU_KNT", nil}
+, 
+{jobtbl.JT_4_M_CRU_HEAD, "4_M_CRU_HEAD", nil}
+, 
+{jobtbl.JT_4_M_CRU_CRUA, "4_M_CRU_CRUA", nil}
+, 
+{jobtbl.JT_4_M_KY_SOLD, "4_M_KY_SOLD", nil}
+, 
+{jobtbl.JT_4_M_KY_KNT, "4_M_KY_KNT", nil}
+, 
+{jobtbl.JT_4_M_KY_HEAD, "4_M_KY_HEAD", nil}
+, 
+{jobtbl.JT_4_M_KY_KIYOM, "4_M_KY_KIYOM", nil}
+, 
+{jobtbl.JT_4_M_BOSSCAT, "4_M_BOSSCAT", nil}
+, 
+{jobtbl.JT_4_M_BABYCAT, "4_M_BABYCAT", nil}
+, 
+{jobtbl.JT_4W_F_KAFRA2, "4W_F_KAFRA2", nil}
+, 
+{jobtbl.JT_4_F_MUNAK, "4_F_MUNAK", nil}
+, 
+{jobtbl.JT_4_M_BONGUN, "4_M_BONGUN", nil}
+, 
+{jobtbl.JT_4_BEAR, "4_BEAR", nil}
+, 
+{jobtbl.JT_4_BLUEWOLF, "4_BLUEWOLF", nil}
+, 
+{jobtbl.JT_4_PECOPECO, "4_PECOPECO", nil}
+, 
+{jobtbl.JT_4_M_JP_MID, "4_M_JP_MID", nil}
+, 
+{jobtbl.JT_4_M_JP_RUN, "4_M_JP_RUN", nil}
+, 
+{jobtbl.JT_4_ORCLADY, "4_ORCLADY", nil}
+, 
+{jobtbl.JT_4_ORCLADY2, "4_ORCLADY2", nil}
+, 
+{jobtbl.JT_4_ORCWARRIOR, "4_ORCWARRIOR", nil}
+, 
+{jobtbl.JT_4_ORCWARRIOR2, "4_ORCWARRIOR2", nil}
+, 
+{jobtbl.JT_4_F_FAIRY, "4_F_FAIRY", nil}
+, 
+{jobtbl.JT_4_F_FAIRYKID, "4_F_FAIRYKID", nil}
+, 
+{jobtbl.JT_4_F_FAIRYKID2, "4_F_FAIRYKID2", nil}
+, 
+{jobtbl.JT_4_F_FAIRYKID3, "4_F_FAIRYKID3", nil}
+, 
+{jobtbl.JT_4_F_FAIRYKID4, "4_F_FAIRYKID4", nil}
+, 
+{jobtbl.JT_4_F_FAIRYKID5, "4_F_FAIRYKID5", nil}
+, 
+{jobtbl.JT_4_F_FAIRYKID6, "4_F_FAIRYKID6", nil}
+, 
+{jobtbl.JT_4_M_FAIRYKID, "4_M_FAIRYKID", nil}
+, 
+{jobtbl.JT_4_M_FAIRYKID2, "4_M_FAIRYKID2", nil}
+, 
+{jobtbl.JT_4_M_FAIRYKID3, "4_M_FAIRYKID3", nil}
+, 
+{jobtbl.JT_4_M_FAIRYKID4, "4_M_FAIRYKID4", nil}
+, 
+{jobtbl.JT_4_M_FAIRYKID5, "4_M_FAIRYKID5", nil}
+, 
+{jobtbl.JT_4_M_FAIRYSOLDIER, "4_M_FAIRYSOLDIER", nil}
+, 
+{jobtbl.JT_4_M_TUFFOLD, "4_M_TUFFOLD", nil}
+, 
+{jobtbl.JT_4_MAN_BENKUNI, "4_MAN_BENKUNI", nil}
+, 
+{jobtbl.JT_4_MAN_GALTUN, "4_MAN_GALTUN", nil}
+, 
+{jobtbl.JT_4_MAN_JERUTOO, "4_MAN_JERUTOO", nil}
+, 
+{jobtbl.JT_4_MAN_LAVAIL, "4_MAN_LAVAIL", nil}
+, 
+{jobtbl.JT_4_MAN_NITT, "4_MAN_NITT", nil}
+, 
+{jobtbl.JT_4_MAN_PIOM, "4_MAN_PIOM", nil}
+, 
+{jobtbl.JT_4_MAN_PIOM2, "4_MAN_PIOM2", nil}
+, 
+{jobtbl.JT_4_M_DSTMAN, "4_M_DSTMAN", nil}
+, 
+{jobtbl.JT_4_M_DSTMANDEAD, "4_M_DSTMANDEAD", nil}
+, 
+{jobtbl.JT_4_BABYLEOPARD, "4_BABYLEOPARD", nil}
+, 
+{jobtbl.JT_4_M_REDSWORD, "4_M_REDSWORD", nil}
+, 
+{jobtbl.JT_4_MAN_PIOM3, "4_MAN_PIOM3", nil}
+, 
+{jobtbl.JT_4_M_FAIRYSOLDIER2, "4_M_FAIRYSOLDIER2", nil}
+, 
+{jobtbl.JT_4_F_FAIRYSOLDIER, "4_F_FAIRYSOLDIER", nil}
+, 
+{jobtbl.JT_4_DRAGON_EGG, "4_DRAGON_EGG", nil}
+, 
+{jobtbl.JT_4_MIMIC, "4_MIMIC", nil}
+, 
+{jobtbl.JT_4_F_FAIRY1, "4_F_FAIRY1", nil}
+, 
+{jobtbl.JT_4_F_GUILLOTINE, "4_F_GUILLOTINE", nil}
+, 
+{jobtbl.JT_4_M_GUILLOTINE, "4_M_GUILLOTINE", nil}
+, 
+{jobtbl.JT_4_M_KNIGHT_BLACK, "4_M_KNIGHT_BLACK", nil}
+, 
+{jobtbl.JT_4_M_KNIGHT_GOLD, "4_M_KNIGHT_GOLD", nil}
+, 
+{jobtbl.JT_4_M_KNIGHT_SILVER, "4_M_KNIGHT_SILVER", nil}
+, 
+{jobtbl.JT_4_SKULL_MUD, "4_SKULL_MUD", nil}
+, 
+{jobtbl.JT_4_M_BRZ_INDIAN, "4_M_BRZ_INDIAN", nil}
+, 
+{jobtbl.JT_4_F_BRZ_INDIAN, "4_F_BRZ_INDIAN", nil}
+, 
+{jobtbl.JT_4_F_BRZ_INDOLD, "4_F_BRZ_INDOLD", nil}
+, 
+{jobtbl.JT_4_M_BRZ_JACI, "4_M_BRZ_JACI", nil}
+, 
+{jobtbl.JT_4_M_BRZ_MAN1, "4_M_BRZ_MAN1", nil}
+, 
+{jobtbl.JT_4_M_BRZ_MAN2, "4_M_BRZ_MAN2", nil}
+, 
+{jobtbl.JT_4_F_BRZ_WOMAN, "4_F_BRZ_WOMAN", nil}
+, 
+{jobtbl.JT_4_M_MINSTREL, "4_M_MINSTREL", nil}
+, 
+{jobtbl.JT_4_M_MINSTREL1, "4_M_MINSTREL1", nil}
+, 
+{jobtbl.JT_4_M_SHADOWCHASER, "4_M_SHADOWCHASER", nil}
+, 
+{jobtbl.JT_4_F_SHADOWCHASER, "4_F_SHADOWCHASER", nil}
+, 
+{jobtbl.JT_4_M_SURA, "4_M_SURA", nil}
+, 
+{jobtbl.JT_4_F_SURA, "4_F_SURA", nil}
+, 
+{jobtbl.JT_4_F_WANDERER, "4_F_WANDERER", nil}
+, 
+{jobtbl.JT_4_M_BARD, "4_M_BARD", nil}
+, 
+{jobtbl.JT_1_FLAG_NOFEAR, "1_FLAG_NOFEAR", nil}
+, 
+{jobtbl.JT_4_M_NOFEARGUY, "4_M_NOFEARGUY", nil}
+, 
+{jobtbl.JT_4_MAN_PIOM6, "4_MAN_PIOM6", nil}
+, 
+{jobtbl.JT_4_MAN_PIOM4, "4_MAN_PIOM4", nil}
+, 
+{jobtbl.JT_4_MAN_PIOM5, "4_MAN_PIOM5", nil}
+, 
+{jobtbl.JT_4_MAN_GALTUN1, "4_MAN_GALTUN1", nil}
+, 
+{jobtbl.JT_4_HUMAN_GERUTOO, "4_HUMAN_GERUTOO", nil}
+, 
+{jobtbl.JT_4_M_ROKI, "4_M_ROKI", nil}
+, 
+{jobtbl.JT_4_M_MERCAT1, "4_M_MERCAT1", nil}
+, 
+{jobtbl.JT_4_M_MERCAT2, "4_M_MERCAT2", nil}
+, 
+{jobtbl.JT_4_M_CATMAN1, "4_M_CATMAN1", nil}
+, 
+{jobtbl.JT_4_M_CATMAN2, "4_M_CATMAN2", nil}
+, 
+{jobtbl.JT_4_F_BRZ_WOMAN2, "4_F_BRZ_WOMAN2", nil}
+, 
+{jobtbl.JT_4_M_JP_DISH, "4_M_JP_DISH", nil}
+, 
+{jobtbl.JT_4_F_JP_NOAH, "4_F_JP_NOAH", nil}
+, 
+{jobtbl.JT_4_F_JP_OZ, "4_F_JP_OZ", nil}
+, 
+{jobtbl.JT_4_F_JP_CHROME, "4_F_JP_CHROME", nil}
+, 
+{jobtbl.JT_4_F_JP_RINNE, "4_F_JP_RINNE", nil}
+, 
+{jobtbl.JT_SCORPION, "SCORPION", "스콜피온"}
+, 
+{jobtbl.JT_PORING, "PORING", "포링"}
+, 
+{jobtbl.JT_THIEF_BUG_AGG, "THIEF_BUG_AGG", "도둑벌레_"}
+, 
+{jobtbl.JT_HORNET, "HORNET", "호넷"}
+, 
+{jobtbl.JT_FARMILIAR, "FARMILIAR", "퍼밀리어"}
+, 
+{jobtbl.JT_THIEF_BUG_LARVA, "THIEF_BUG_LARVA", "도둑벌레"}
+, 
+{jobtbl.JT_FABRE, "FABRE", "파브르"}
+, 
+{jobtbl.JT_PUPA, "PUPA", "푸파"}
+, 
+{jobtbl.JT_CONDOR, "CONDOR", "콘도르"}
+, 
+{jobtbl.JT_WILOW, "WILOW", "윌로우"}
+, 
+{jobtbl.JT_CHONCHON, "CHONCHON", "촌촌"}
+, 
+{jobtbl.JT_RODA_FROG, "RODA_FROG", "로다프로그"}
+, 
+{jobtbl.JT_WOLF, "WOLF", "울프"}
+, 
+{jobtbl.JT_SPORE, "SPORE", "스포아"}
+, 
+{jobtbl.JT_ZOMBIE, "ZOMBIE", "좀비"}
+, 
+{jobtbl.JT_ARCHER_SKELETON, "ARCHER_SKELETON", "아쳐스켈톤"}
+, 
+{jobtbl.JT_THIEF_BUG_FEMALE, "THIEF_BUG_FEMALE", "도둑벌레_"}
+, 
+{jobtbl.JT_CREAMY, "CREAMY", "크리미"}
+, 
+{jobtbl.JT_PECOPECO, "PECOPECO", "페코페코"}
+, 
+{jobtbl.JT_MANDRAGORA, "MANDRAGORA", "만드라고라"}
+, 
+{jobtbl.JT_THIEF_BUG_MALE, "THIEF_BUG_MALE", "도둑벌레__"}
+, 
+{jobtbl.JT_WERE_WOLF, "WERE_WOLF", "웨어울프"}
+, 
+{jobtbl.JT_ORK_WARRIOR, "ORK_WARRIOR", "오크워리어"}
+, 
+{jobtbl.JT_WORM_TAIL, "WORM_TAIL", "웜테일"}
+, 
+{jobtbl.JT_SNAKE, "SNAKE", "스네이크"}
+, 
+{jobtbl.JT_MUNAK, "MUNAK", "무낙"}
+, 
+{jobtbl.JT_RAPTICE, "RAPTICE", "랩티스"}
+, 
+{jobtbl.JT_SOLDIER_SKELETON, "SOLDIER_SKELETON", "솔져스켈톤"}
+, 
+{jobtbl.JT_ISIS, "ISIS", "이시스"}
+, 
+{jobtbl.JT_ANACONDAQ, "ANACONDAQ", "아나콘다크"}
+, 
+{jobtbl.JT_POPORING, "POPORING", "포포링"}
+, 
+{jobtbl.JT_VERIT, "VERIT", "베릿트"}
+, 
+{jobtbl.JT_ELDER_WILOW, "ELDER_WILOW", "엘더윌로우"}
+, 
+{jobtbl.JT_THARA_FROG, "THARA_FROG", "타라프로그"}
+, 
+{jobtbl.JT_HUNTER_FLY, "HUNTER_FLY", "헌터플라이"}
+, 
+{jobtbl.JT_GHOUL, "GHOUL", "구울"}
+, 
+{jobtbl.JT_SIDE_WINDER, "SIDE_WINDER", "사이드와인더"}
+, 
+{jobtbl.JT_OSIRIS, "OSIRIS", "오시리스"}
+, 
+{jobtbl.JT_BAPHOMET, "BAPHOMET", "바포메트"}
+, 
+{jobtbl.JT_GOLEM, "GOLEM", "고렘"}
+, 
+{jobtbl.JT_MUMMY, "MUMMY", "미이라"}
+, 
+{jobtbl.JT_STEEL_CHONCHON, "STEEL_CHONCHON", "스틸촌촌"}
+, 
+{jobtbl.JT_SEAHORES, "SEAHORES", "시호스"}
+, 
+{jobtbl.JT_OBEAUNE, "OBEAUNE", "오본느"}
+, 
+{jobtbl.JT_MARC, "MARC", "마르크"}
+, 
+{jobtbl.JT_DOPPELGANGER, "DOPPELGANGER", "도플갱어"}
+, 
+{jobtbl.JT_PECOPECO_EGG, "PECOPECO_EGG", "페코페코_알"}
+, 
+{jobtbl.JT_THIEF_BUG_EGG, "THIEF_BUG_EGG", "도둑벌레_알"}
+, 
+{jobtbl.JT_PICKY, "PICKY", "픽키"}
+, 
+{jobtbl.JT_PICKY_, "PICKY_", "픽키_"}
+, 
+{jobtbl.JT_THIEF_BUG, "THIEF_BUG", "도둑벌레"}
+, 
+{jobtbl.JT_ROCKER, "ROCKER", "로커"}
+, 
+{jobtbl.JT_THIEF_BUG_, "THIEF_BUG_", "도둑벌레_"}
+, 
+{jobtbl.JT_THIEF_BUG__, "THIEF_BUG__", "도둑벌레__"}
+, 
+{jobtbl.JT_MUKA, "MUKA", "무카"}
+, 
+{jobtbl.JT_SMOKIE, "SMOKIE", "스모키"}
+, 
+{jobtbl.JT_YOYO, "YOYO", "요요"}
+, 
+{jobtbl.JT_METALLER, "METALLER", "메틀러"}
+, 
+{jobtbl.JT_MISTRESS, "MISTRESS", "미스트레스"}
+, 
+{jobtbl.JT_BIGFOOT, "BIGFOOT", "빅풋"}
+, 
+{jobtbl.JT_NIGHTMARE, "NIGHTMARE", "나이트메어"}
+, 
+{jobtbl.JT_PORING_, "PORING_", "포링_"}
+, 
+{jobtbl.JT_LUNATIC, "LUNATIC", "루나틱"}
+, 
+{jobtbl.JT_MEGALODON, "MEGALODON", "메갈로돈"}
+, 
+{jobtbl.JT_STROUF, "STROUF", "스트라우프"}
+, 
+{jobtbl.JT_VADON, "VADON", "바돈"}
+, 
+{jobtbl.JT_CORNUTUS, "CORNUTUS", "커너투스"}
+, 
+{jobtbl.JT_HYDRA, "HYDRA", "히드라"}
+, 
+{jobtbl.JT_SWORD_FISH, "SWORD_FISH", "소드피쉬"}
+, 
+{jobtbl.JT_KUKRE, "KUKRE", "쿠크레"}
+, 
+{jobtbl.JT_PIRATE_SKEL, "PIRATE_SKEL", "파이어럿_스켈"}
+, 
+{jobtbl.JT_KAHO, "KAHO", "카호"}
+, 
+{jobtbl.JT_CRAB, "CRAB", "게"}
+, 
+{jobtbl.JT_SHELLFISH, "SHELLFISH", "조개"}
+, 
+{jobtbl.JT_TURTLE, "TURTLE", "거북이"}
+, 
+{jobtbl.JT_SKELETON, "SKELETON", "스켈레톤"}
+, 
+{jobtbl.JT_POISON_SPORE, "POISON_SPORE", "포이즌_스포아"}
+, 
+{jobtbl.JT_RED_PLANT, "RED_PLANT", "빨간풀"}
+, 
+{jobtbl.JT_BLUE_PLANT, "BLUE_PLANT", "파란풀"}
+, 
+{jobtbl.JT_GREEN_PLANT, "GREEN_PLANT", "초록풀"}
+, 
+{jobtbl.JT_YELLOW_PLANT, "YELLOW_PLANT", "노란풀"}
+, 
+{jobtbl.JT_WHITE_PLANT, "WHITE_PLANT", "하얀풀"}
+, 
+{jobtbl.JT_SHINING_PLANT, "SHINING_PLANT", "빛나는풀"}
+, 
+{jobtbl.JT_BLACK_MUSHROOM, "BLACK_MUSHROOM", "검은버섯"}
+, 
+{jobtbl.JT_RED_MUSHROOM, "RED_MUSHROOM", "붉은버섯"}
+, 
+{jobtbl.JT_GOLDEN_BUG, "GOLDEN_BUG", "황금도둑벌레"}
+, 
+{jobtbl.JT_ORK_HERO, "ORK_HERO", "오크히어로"}
+, 
+{jobtbl.JT_VOCAL, "VOCAL", "보컬"}
+, 
+{jobtbl.JT_TOAD, "TOAD", "토드"}
+, 
+{jobtbl.JT_MASTERING, "MASTERING", "마스터링"}
+, 
+{jobtbl.JT_DRAGON_FLY, "DRAGON_FLY", "드래곤플라이"}
+, 
+{jobtbl.JT_VAGABOND_WOLF, "VAGABOND_WOLF", "떠돌이늑대"}
+, 
+{jobtbl.JT_ECLIPSE, "ECLIPSE", "이클립스"}
+, 
+{jobtbl.JT_AMBERNITE, "AMBERNITE", "앰버나이트"}
+, 
+{jobtbl.JT_ANDRE, "ANDRE", "앙드레"}
+, 
+{jobtbl.JT_ANGELING, "ANGELING", "엔젤링"}
+, 
+{jobtbl.JT_ANT_EGG, "ANT_EGG", "개미알"}
+, 
+{jobtbl.JT_ANUBIS, "ANUBIS", "아누비스"}
+, 
+{jobtbl.JT_ARGIOPE, "ARGIOPE", "아르지오프"}
+, 
+{jobtbl.JT_ARGOS, "ARGOS", "아르고스"}
+, 
+{jobtbl.JT_BAPHOMET_, "BAPHOMET_", "바포메트주니어"}
+, 
+{jobtbl.JT_BATHORY, "BATHORY", "바소리"}
+, 
+{jobtbl.JT_CARAMEL, "CARAMEL", "카라멜"}
+, 
+{jobtbl.JT_COCO, "COCO", "코코"}
+, 
+{jobtbl.JT_DENIRO, "DENIRO", "데니로"}
+, 
+{jobtbl.JT_DESERT_WOLF, "DESERT_WOLF", "데저트울프"}
+, 
+{jobtbl.JT_DESERT_WOLF_B, "DESERT_WOLF_B", "어린데저트울프"}
+, 
+{jobtbl.JT_DEVIACE, "DEVIACE", "데비어스"}
+, 
+{jobtbl.JT_DEVIRUCHI, "DEVIRUCHI", "데비루치"}
+, 
+{jobtbl.JT_DOKEBI, "DOKEBI", "도깨비"}
+, 
+{jobtbl.JT_DRAINLIAR, "DRAINLIAR", "드레인리어"}
+, 
+{jobtbl.JT_DRAKE, "DRAKE", "드레이크"}
+, 
+{jobtbl.JT_DROPS, "DROPS", "드롭프스"}
+, 
+{jobtbl.JT_DUSTINESS, "DUSTINESS", "더스티네스"}
+, 
+{jobtbl.JT_EDDGA, "EDDGA", "에드가"}
+, 
+{jobtbl.JT_EGGYRA, "EGGYRA", "에기라"}
+, 
+{jobtbl.JT_EVIL_DRUID, "EVIL_DRUID", "이블드루이드"}
+, 
+{jobtbl.JT_FLORA, "FLORA", "플로라"}
+, 
+{jobtbl.JT_FRILLDORA, "FRILLDORA", "프릴도라"}
+, 
+{jobtbl.JT_GHOSTRING, "GHOSTRING", "고스트링"}
+, 
+{jobtbl.JT_GIEARTH, "GIEARTH", "가이아스"}
+, 
+{jobtbl.JT_GOBLIN_1, "GOBLIN_1", "고블린1"}
+, 
+{jobtbl.JT_GOBLIN_2, "GOBLIN_2", "고블린2"}
+, 
+{jobtbl.JT_GOBLIN_3, "GOBLIN_3", "고블린3"}
+, 
+{jobtbl.JT_GOBLIN_4, "GOBLIN_4", "고블린4"}
+, 
+{jobtbl.JT_GOBLIN_5, "GOBLIN_5", "고블린5"}
+, 
+{jobtbl.JT_HODE, "HODE", "호드"}
+, 
+{jobtbl.JT_HORN, "HORN", "호른"}
+, 
+{jobtbl.JT_HORONG, "HORONG", "호롱"}
+, 
+{jobtbl.JT_JAKK, "JAKK", "잭"}
+, 
+{jobtbl.JT_JOKER, "JOKER", "조커"}
+, 
+{jobtbl.JT_KHALITZBURG, "KHALITZBURG", "칼리츠버그"}
+, 
+{jobtbl.JT_KOBOLD_1, "KOBOLD_1", "코볼트1"}
+, 
+{jobtbl.JT_KOBOLD_2, "KOBOLD_2", "코볼트2"}
+, 
+{jobtbl.JT_KOBOLD_3, "KOBOLD_3", "코볼트3"}
+, 
+{jobtbl.JT_KOBOLD_4, "KOBOLD_4", "코볼트4"}
+, 
+{jobtbl.JT_KOBOLD_5, "KOBOLD_5", "코볼트5"}
+, 
+{jobtbl.JT_MAGNOLIA, "MAGNOLIA", "백련옥"}
+, 
+{jobtbl.JT_MANTIS, "MANTIS", "맨티스"}
+, 
+{jobtbl.JT_MARDUK, "MARDUK", "마르두크"}
+, 
+{jobtbl.JT_MARINA, "MARINA", "마리나"}
+, 
+{jobtbl.JT_MARINE_SPHERE, "MARINE_SPHERE", "마린스피어"}
+, 
+{jobtbl.JT_MARIONETTE, "MARIONETTE", "마리오네트"}
+, 
+{jobtbl.JT_MARSE, "MARSE", "마르스"}
+, 
+{jobtbl.JT_MARTIN, "MARTIN", "마르틴"}
+, 
+{jobtbl.JT_MATYR, "MATYR", "마타"}
+, 
+{jobtbl.JT_MAYA, "MAYA", "마야"}
+, 
+{jobtbl.JT_MEDUSA, "MEDUSA", "메두사"}
+, 
+{jobtbl.JT_MINOROUS, "MINOROUS", "마이너우로스"}
+, 
+{jobtbl.JT_MOONLIGHT, "MOONLIGHT", "월야화"}
+, 
+{jobtbl.JT_MYST, "MYST", "미스트"}
+, 
+{jobtbl.JT_ORC_SKELETON, "ORC_SKELETON", "오크스켈레톤"}
+, 
+{jobtbl.JT_ORC_ZOMBIE, "ORC_ZOMBIE", "오크좀비"}
+, 
+{jobtbl.JT_PASANA, "PASANA", "파사나"}
+, 
+{jobtbl.JT_PETIT, "PETIT", "지상쁘띠"}
+, 
+{jobtbl.JT_PETIT_, "PETIT_", "공중쁘띠"}
+, 
+{jobtbl.JT_PHARAOH, "PHARAOH", "파라오"}
+, 
+{jobtbl.JT_PHEN, "PHEN", "휀"}
+, 
+{jobtbl.JT_PHREEONI, "PHREEONI", "프리오니"}
+, 
+{jobtbl.JT_PIERE, "PIERE", "피에르"}
+, 
+{jobtbl.JT_PLANKTON, "PLANKTON", "플랑크톤"}
+, 
+{jobtbl.JT_RAFFLESIA, "RAFFLESIA", "라플레시아"}
+, 
+{jobtbl.JT_RAYDRIC, "RAYDRIC", "레이드릭"}
+, 
+{jobtbl.JT_REQUIEM, "REQUIEM", "레퀴엠"}
+, 
+{jobtbl.JT_SAND_MAN, "SAND_MAN", "샌드맨"}
+, 
+{jobtbl.JT_SAVAGE, "SAVAGE", "세비지"}
+, 
+{jobtbl.JT_SAVAGE_BABE, "SAVAGE_BABE", "세비지베베"}
+, 
+{jobtbl.JT_SCORPION_KING, "SCORPION_KING", "스콜피온킹"}
+, 
+{jobtbl.JT_SKEL_WORKER, "SKEL_WORKER", "스켈워커"}
+, 
+{jobtbl.JT_SOHEE, "SOHEE", "소희"}
+, 
+{jobtbl.JT_SOLDIER_ANDRE, "SOLDIER_ANDRE", "병정앙드레"}
+, 
+{jobtbl.JT_SOLDIER_DENIRO, "SOLDIER_DENIRO", "병정데니로"}
+, 
+{jobtbl.JT_SOLDIER_PIERE, "SOLDIER_PIERE", "병정피에르"}
+, 
+{jobtbl.JT_STAINER, "STAINER", "스타이너"}
+, 
+{jobtbl.JT_TAROU, "TAROU", "타로우"}
+, 
+{jobtbl.JT_VITATA, "VITATA", "비타타"}
+, 
+{jobtbl.JT_ZENORC, "ZENORC", "제노크"}
+, 
+{jobtbl.JT_ZEROM, "ZEROM", "제롬"}
+, 
+{jobtbl.JT_WHISPER, "WHISPER", "위스퍼"}
+, 
+{jobtbl.JT_NINE_TAIL, "NINE_TAIL", "구미호"}
+, 
+{jobtbl.JT_ZOMBIE_DRAGON, "ZOMBIE_DRAGON", "좀비드래곤"}
+, 
+{jobtbl.JT_THIEF_MUSHROOM, "THIEF_MUSHROOM", "도둑버섯"}
+, 
+{jobtbl.JT_CHONCHON_, "CHONCHON_", "촌촌_"}
+, 
+{jobtbl.JT_FABRE_, "FABRE_", "파브르_"}
+, 
+{jobtbl.JT_WHISPER_, "WHISPER_", "위스퍼_"}
+, 
+{jobtbl.JT_WHISPER_BOSS, "WHISPER_BOSS", "거대위스퍼"}
+, 
+{jobtbl.JT_SWITCH, "SWITCH", "스위치"}
+, 
+{jobtbl.JT_BON_GUN, "BON_GUN", "본건"}
+, 
+{jobtbl.JT_ORC_ARCHER, "ORC_ARCHER", "오크아쳐"}
+, 
+{jobtbl.JT_ORC_LORD, "ORC_LORD", "오크로드"}
+, 
+{jobtbl.JT_MIMIC, "MIMIC", "미믹"}
+, 
+{jobtbl.JT_WRAITH, "WRAITH", "레이쓰"}
+, 
+{jobtbl.JT_ALARM, "ALARM", "알람"}
+, 
+{jobtbl.JT_ARCLOUSE, "ARCLOUSE", "아크라우스"}
+, 
+{jobtbl.JT_RIDEWORD, "RIDEWORD", "라이드워드"}
+, 
+{jobtbl.JT_SKEL_PRISONER, "SKEL_PRISONER", "스켈프리즈너"}
+, 
+{jobtbl.JT_ZOMBIE_PRISONER, "ZOMBIE_PRISONER", "좀비프리즈너"}
+, 
+{jobtbl.JT_DARK_PRIEST, "DARK_PRIEST", "다크프리스트"}
+, 
+{jobtbl.JT_PUNK, "PUNK", "펑크"}
+, 
+{jobtbl.JT_ZHERLTHSH, "ZHERLTHSH", "지르타스"}
+, 
+{jobtbl.JT_RYBIO, "RYBIO", "리비오"}
+, 
+{jobtbl.JT_PHENDARK, "PHENDARK", "펜다르크"}
+, 
+{jobtbl.JT_MYSTELTAINN, "MYSTELTAINN", "미스틸테인"}
+, 
+{jobtbl.JT_TIRFING, "TIRFING", "테일핑"}
+, 
+{jobtbl.JT_EXECUTIONER, "EXECUTIONER", "엑서큐셔너"}
+, 
+{jobtbl.JT_ANOLIAN, "ANOLIAN", "아놀리안"}
+, 
+{jobtbl.JT_STING, "STING", "스팅"}
+, 
+{jobtbl.JT_WANDER_MAN, "WANDER_MAN", "배회하는자"}
+, 
+{jobtbl.JT_CRAMP, "CRAMP", "크램프"}
+, 
+{jobtbl.JT_FILAMENTOUS, "FILAMENTOUS", "필라멘토스"}
+, 
+{jobtbl.JT_BRILIGHT, "BRILIGHT", "브릴라이트"}
+, 
+{jobtbl.JT_IRON_FIST, "IRON_FIST", "아이언_피스트"}
+, 
+{jobtbl.JT_HIGH_ORC, "HIGH_ORC", "하이오크"}
+, 
+{jobtbl.JT_CHOCO, "CHOCO", "쵸코"}
+, 
+{jobtbl.JT_STEM_WORM, "STEM_WORM", "스템웜"}
+, 
+{jobtbl.JT_PENOMENA, "PENOMENA", "페노메나"}
+, 
+{jobtbl.JT_DESERT_WOLF_2, "M_DESERT_WOLF", "어미데저트울프"}
+, 
+{jobtbl.JT_SAVAGE_2, "M_SAVAGE", "어미세비지"}
+, 
+{jobtbl.JT_HIGH_ORC_2, "L_HIGH_ORC", "리더하이오크"}
+, 
+{jobtbl.JT_ORC_WARRIOR_2, "L_ORC", "리더오크"}
+, 
+{jobtbl.JT_POISON_SPORE_2, "L_POISON_SPORE", "리더포스포아"}
+, 
+{jobtbl.JT_CHOCO_2, "L_CHOCO", "리더쵸코"}
+, 
+{jobtbl.JT_KOBOLD_1_2, "L_KOBOLD", "리더코볼트"}
+, 
+{jobtbl.JT_GOBLIN_1_2, "L_GOBLIN", "리더고블린"}
+, 
+{jobtbl.JT_PHEN_2, "L_PHEN", "리더참치"}
+, 
+{jobtbl.JT_FABRE_2, "META_FABRE", "변신파브르"}
+, 
+{jobtbl.JT_PUPA_2, "META_PUPA", "변신푸파"}
+, 
+{jobtbl.JT_CREAMY_2, "META_CREAMY", "변신크리미"}
+, 
+{jobtbl.JT_PECO_EGG_2, "META_PECOPECO_EGG", "변신페코페코알"}
+, 
+{jobtbl.JT_PECOPECO_2, "CONCEIVE_PECOPECO", "알낳는페코페코"}
+, 
+{jobtbl.JT_YOYO_2, "PROVOKE_YOYO", "도발하는요요"}
+, 
+{jobtbl.JT_ORK_WARRIOR_2, "SMOKING_ORC", "담배피는오크"}
+, 
+{jobtbl.JT_ANT_EGG_2, "META_ANT_EGG", "변신개미알"}
+, 
+{jobtbl.JT_ANDRE_2, "META_ANDRE", "변신앙드레"}
+, 
+{jobtbl.JT_PIERE_2, "META_PIERE", "변신피에르"}
+, 
+{jobtbl.JT_DENIRO_2, "META_DENIRO", "변신데니로"}
+, 
+{jobtbl.JT_PICKY_2, "META_PICKY", "변신픽키"}
+, 
+{jobtbl.JT_PICKY__2, "META_PICKY_", "변신알픽키"}
+, 
+{jobtbl.JT_KNIGHT_OF_ABYSS, "KNIGHT_OF_ABYSS", "심연의기사"}
+, 
+{jobtbl.JT_MARIN, "MARIN", "마린"}
+, 
+{jobtbl.JT_SASQUATCH, "SASQUATCH", "사스콰치"}
+, 
+{jobtbl.JT_JAKK_XMAS, "JAKK_XMAS", "잭_X"}
+, 
+{jobtbl.JT_GOBLINE_XMAS, "GOBLINE_XMAS", "고블린_X"}
+, 
+{jobtbl.JT_COOKIE_XMAS, "COOKIE_XMAS", "쿠키"}
+, 
+{jobtbl.JT_ANTONIO, "ANTONIO", "안토니오"}
+, 
+{jobtbl.JT_CRUISER, "CRUISER", "크루이저"}
+, 
+{jobtbl.JT_MYSTCASE, "MYSTCASE", "미스트케이스"}
+, 
+{jobtbl.JT_CHEPET, "CHEPET", "체펫트"}
+, 
+{jobtbl.JT_KNIGHT_OF_WINDSTORM, "KNIGHT_OF_WINDSTORM", "폭풍의기사"}
+, 
+{jobtbl.JT_GARM, "GARM", "가름"}
+, 
+{jobtbl.JT_GARGOYLE, "GARGOYLE", "가고일"}
+, 
+{jobtbl.JT_RAGGLER, "RAGGLER", "레글러"}
+, 
+{jobtbl.JT_NERAID, "NERAID", "네레이드"}
+, 
+{jobtbl.JT_PEST, "PEST", "페스트"}
+, 
+{jobtbl.JT_INJUSTICE, "INJUSTICE", "인저스티스"}
+, 
+{jobtbl.JT_GOBLIN_ARCHER, "GOBLIN_ARCHER", "고블린아쳐"}
+, 
+{jobtbl.JT_GRYPHON, "GRYPHON", "그리폰"}
+, 
+{jobtbl.JT_DARK_FRAME, "DARK_FRAME", "다크프레임"}
+, 
+{jobtbl.JT_WILD_ROSE, "WILD_ROSE", "와일드로즈"}
+, 
+{jobtbl.JT_MUTANT_DRAGON, "MUTANT_DRAGON", "뮤턴트드래곤"}
+, 
+{jobtbl.JT_WIND_GHOST, "WIND_GHOST", "윈드고스트"}
+, 
+{jobtbl.JT_MERMAN, "MERMAN", "머맨"}
+, 
+{jobtbl.JT_COOKIE, "COOKIE", "초록쿠키"}
+, 
+{jobtbl.JT_ASTER, "ASTER", "에스터"}
+, 
+{jobtbl.JT_CARAT, "CARAT", "캐럿"}
+, 
+{jobtbl.JT_BLOODY_KNIGHT, "BLOODY_KNIGHT", "피빛의기사"}
+, 
+{jobtbl.JT_CLOCK, "CLOCK", "클락"}
+, 
+{jobtbl.JT_C_TOWER_MANAGER, "C_TOWER_MANAGER", "시계탑관리자"}
+, 
+{jobtbl.JT_ALLIGATOR, "ALLIGATOR", "엘리게이터"}
+, 
+{jobtbl.JT_DARK_LORD, "DARK_LORD", "다크로드"}
+, 
+{jobtbl.JT_ORC_LADY, "ORC_LADY", "오크레이디"}
+, 
+{jobtbl.JT_MEGALITH, "MEGALITH", "메갈리스"}
+, 
+{jobtbl.JT_ALICE, "ALICE", "엘리스"}
+, 
+{jobtbl.JT_RAYDRIC_ARCHER, "RAYDRIC_ARCHER", "레이드릭아쳐"}
+, 
+{jobtbl.JT_GREATEST_GENERAL, "GREATEST_GENERAL", "천하대장군"}
+, 
+{jobtbl.JT_STALACTIC_GOLEM, "STALACTIC_GOLEM", "스터랙틱고렘"}
+, 
+{jobtbl.JT_TRI_JOINT, "TRI_JOINT", "트라이조인트"}
+, 
+{jobtbl.JT_STEAM_GOBLIN, "STEAM_GOBLIN", "스팀고블린"}
+, 
+{jobtbl.JT_SAGEWORM, "SAGEWORM", "세이지웜"}
+, 
+{jobtbl.JT_KOBOLD_ARCHER, "KOBOLD_ARCHER", "코볼트아쳐"}
+, 
+{jobtbl.JT_CHIMERA, "CHIMERA", "키메라"}
+, 
+{jobtbl.JT_HUGELING, "HUGELING", "휴즐링"}
+, 
+{jobtbl.JT_ARCHER_GUARDIAN, "ARCHER_GUARDIAN", "아쳐가디안"}
+, 
+{jobtbl.JT_KNIGHT_GUARDIAN, "KNIGHT_GUARDIAN", "기사가디안"}
+, 
+{jobtbl.JT_SOLDIER_GUARDIAN, "SOLDIER_GUARDIAN", "병사가디안"}
+, 
+{jobtbl.JT_EMPELIUM, "EMPELIUM", "EMPELIUM"}
+, 
+{jobtbl.JT_MAYA_PUPLE, "MAYA_PUPLE", "마야퍼플"}
+, 
+{jobtbl.JT_SKELETON_GENERAL, "SKELETON_GENERAL", "스켈레톤_제네럴"}
+, 
+{jobtbl.JT_WRAITH_DEAD, "WRAITH_DEAD", "레이스_데드"}
+, 
+{jobtbl.JT_MINI_DEMON, "MINI_DEMON", "미니_데몬"}
+, 
+{jobtbl.JT_CREMY_FEAR, "CREMY_FEAR", "크리미_피어"}
+, 
+{jobtbl.JT_KILLER_MANTIS, "KILLER_MANTIS", "킬러_맨티스"}
+, 
+{jobtbl.JT_OWL_BARON, "OWL_BARON", "아울_바론"}
+, 
+{jobtbl.JT_KOBOLD_LEADER, "KOBOLD_LEADER", "코볼트_리더"}
+, 
+{jobtbl.JT_ANCIENT_MUMMY, "ANCIENT_MUMMY", "에인션트_미이라"}
+, 
+{jobtbl.JT_ZOMBIE_MASTER, "ZOMBIE_MASTER", "좀비_마스터"}
+, 
+{jobtbl.JT_GOBLIN_LEADER, "GOBLIN_LEADER", "고블린_리더"}
+, 
+{jobtbl.JT_CATERPILLAR, "CATERPILLAR", "캐터필러"}
+, 
+{jobtbl.JT_AM_MUT, "AM_MUT", "암_무트"}
+, 
+{jobtbl.JT_DARK_ILLUSION, "DARK_ILLUSION", "다크일루젼"}
+, 
+{jobtbl.JT_GIANT_HONET, "GIANT_HONET", "자이언트_호넷"}
+, 
+{jobtbl.JT_GIANT_SPIDER, "GIANT_SPIDER", "자이언트_스파이더"}
+, 
+{jobtbl.JT_ANCIENT_WORM, "ANCIENT_WORM", "에인션트_웜"}
+, 
+{jobtbl.JT_LEIB_OLMAI, "LEIB_OLMAI", "레이브_올마이"}
+, 
+{jobtbl.JT_CAT_O_NINE_TAIL, "CAT_O_NINE_TAIL", "캣_오_나인_테일"}
+, 
+{jobtbl.JT_PANZER_GOBLIN, "PANZER_GOBLIN", "팬저_고블린"}
+, 
+{jobtbl.JT_GAJOMART, "GAJOMART", "가조마르트"}
+, 
+{jobtbl.JT_MAJORUROS, "MAJORUROS", "메이저우로스"}
+, 
+{jobtbl.JT_GULLINBURSTI, "GULLINBURSTI", "글린부르스티"}
+, 
+{jobtbl.JT_TURTLE_GENERAL, "TURTLE_GENERAL", "터틀제네럴"}
+, 
+{jobtbl.JT_MOBSTER, "MOBSTER", "폭력배"}
+, 
+{jobtbl.JT_PERMETER, "PERMETER", "퍼머터"}
+, 
+{jobtbl.JT_ASSULTER, "ASSULTER", "어절터"}
+, 
+{jobtbl.JT_SOLIDER, "SOLIDER", "솔리더"}
+, 
+{jobtbl.JT_FUR_SEAL, "FUR_SEAL", "퍼씰"}
+, 
+{jobtbl.JT_HEATER, "HEATER", "힛터"}
+, 
+{jobtbl.JT_FREEZER, "FREEZER", "프리저"}
+, 
+{jobtbl.JT_OWL_DUKE, "OWL_DUKE", "아울_듀크"}
+, 
+{jobtbl.JT_DRAGON_TAIL, "DRAGON_TAIL", "드래곤테일"}
+, 
+{jobtbl.JT_SPRING_RABBIT, "SPRING_RABBIT", "스프링래빗"}
+, 
+{jobtbl.JT_SEE_OTTER, "SEE_OTTER", "해달"}
+, 
+{jobtbl.JT_TREASURE_BOX1, "TREASURE_BOX1", "보물상자1"}
+, 
+{jobtbl.JT_TREASURE_BOX2, "TREASURE_BOX2", "보물상자2"}
+, 
+{jobtbl.JT_TREASURE_BOX3, "TREASURE_BOX3", "보물상자3"}
+, 
+{jobtbl.JT_TREASURE_BOX4, "TREASURE_BOX4", "보물상자4"}
+, 
+{jobtbl.JT_TREASURE_BOX5, "TREASURE_BOX5", "보물상자5"}
+, 
+{jobtbl.JT_TREASURE_BOX6, "TREASURE_BOX6", "보물상자6"}
+, 
+{jobtbl.JT_TREASURE_BOX7, "TREASURE_BOX7", "보물상자7"}
+, 
+{jobtbl.JT_TREASURE_BOX8, "TREASURE_BOX8", "보물상자8"}
+, 
+{jobtbl.JT_TREASURE_BOX9, "TREASURE_BOX9", "보물상자9"}
+, 
+{jobtbl.JT_TREASURE_BOX10, "TREASURE_BOX10", "보물상자10"}
+, 
+{jobtbl.JT_TREASURE_BOX11, "TREASURE_BOX11", "보물상자11"}
+, 
+{jobtbl.JT_TREASURE_BOX12, "TREASURE_BOX12", "보물상자12"}
+, 
+{jobtbl.JT_TREASURE_BOX13, "TREASURE_BOX13", "보물상자13"}
+, 
+{jobtbl.JT_TREASURE_BOX14, "TREASURE_BOX14", "보물상자14"}
+, 
+{jobtbl.JT_TREASURE_BOX15, "TREASURE_BOX15", "보물상자15"}
+, 
+{jobtbl.JT_TREASURE_BOX16, "TREASURE_BOX16", "보물상자16"}
+, 
+{jobtbl.JT_TREASURE_BOX17, "TREASURE_BOX17", "보물상자17"}
+, 
+{jobtbl.JT_TREASURE_BOX18, "TREASURE_BOX18", "보물상자18"}
+, 
+{jobtbl.JT_TREASURE_BOX19, "TREASURE_BOX19", "보물상자19"}
+, 
+{jobtbl.JT_TREASURE_BOX20, "TREASURE_BOX20", "보물상자20"}
+, 
+{jobtbl.JT_TREASURE_BOX21, "TREASURE_BOX21", "보물상자21"}
+, 
+{jobtbl.JT_TREASURE_BOX22, "TREASURE_BOX22", "보물상자22"}
+, 
+{jobtbl.JT_TREASURE_BOX23, "TREASURE_BOX23", "보물상자23"}
+, 
+{jobtbl.JT_TREASURE_BOX24, "TREASURE_BOX24", "보물상자24"}
+, 
+{jobtbl.JT_TREASURE_BOX25, "TREASURE_BOX25", "보물상자25"}
+, 
+{jobtbl.JT_TREASURE_BOX26, "TREASURE_BOX26", "보물상자26"}
+, 
+{jobtbl.JT_TREASURE_BOX27, "TREASURE_BOX27", "보물상자27"}
+, 
+{jobtbl.JT_TREASURE_BOX28, "TREASURE_BOX28", "보물상자28"}
+, 
+{jobtbl.JT_TREASURE_BOX29, "TREASURE_BOX29", "보물상자29"}
+, 
+{jobtbl.JT_TREASURE_BOX30, "TREASURE_BOX30", "보물상자30"}
+, 
+{jobtbl.JT_TREASURE_BOX31, "TREASURE_BOX31", "보물상자31"}
+, 
+{jobtbl.JT_TREASURE_BOX32, "TREASURE_BOX32", "보물상자32"}
+, 
+{jobtbl.JT_TREASURE_BOX33, "TREASURE_BOX33", "보물상자33"}
+, 
+{jobtbl.JT_TREASURE_BOX34, "TREASURE_BOX34", "보물상자34"}
+, 
+{jobtbl.JT_TREASURE_BOX35, "TREASURE_BOX35", "보물상자35"}
+, 
+{jobtbl.JT_TREASURE_BOX36, "TREASURE_BOX36", "보물상자36"}
+, 
+{jobtbl.JT_TREASURE_BOX37, "TREASURE_BOX37", "보물상자37"}
+, 
+{jobtbl.JT_TREASURE_BOX38, "TREASURE_BOX38", "보물상자38"}
+, 
+{jobtbl.JT_TREASURE_BOX39, "TREASURE_BOX39", "보물상자39"}
+, 
+{jobtbl.JT_TREASURE_BOX40, "TREASURE_BOX40", "보물상자40"}
+, 
+{jobtbl.JT_G_ASSULTER, "G_ASSULTER", "어절터_"}
+, 
+{jobtbl.JT_APOCALIPS, "APOCALIPS", "아포칼립스"}
+, 
+{jobtbl.JT_LAVA_GOLEM, "LAVA_GOLEM", "라바_골렘"}
+, 
+{jobtbl.JT_BLAZZER, "BLAZZER", "블레이저"}
+, 
+{jobtbl.JT_GEOGRAPHER, "GEOGRAPHER", "지오그래퍼"}
+, 
+{jobtbl.JT_GRAND_PECO, "GRAND_PECO", "그랜드_페코"}
+, 
+{jobtbl.JT_SUCCUBUS, "SUCCUBUS", "서큐버스"}
+, 
+{jobtbl.JT_FAKE_ANGEL, "FAKE_ANGEL", "페이크_엔젤"}
+, 
+{jobtbl.JT_GOAT, "GOAT", "고우트"}
+, 
+{jobtbl.JT_LORD_OF_DEATH, "LORD_OF_DEATH", "죽은자의주인"}
+, 
+{jobtbl.JT_INCUBUS, "INCUBUS", "인큐버스"}
+, 
+{jobtbl.JT_THE_PAPER, "THE_PAPER", "더_페이퍼"}
+, 
+{jobtbl.JT_HARPY, "HARPY", "하피"}
+, 
+{jobtbl.JT_ELDER, "ELDER", "엘더"}
+, 
+{jobtbl.JT_DEMON_PUNGUS, "DEMON_PUNGUS", "데몬_펑거스"}
+, 
+{jobtbl.JT_NIGHTMARE_TERROR, "NIGHTMARE_TERROR", "나이트메어_테러"}
+, 
+{jobtbl.JT_DRILLER, "DRILLER", "드릴러"}
+, 
+{jobtbl.JT_GRIZZLY, "GRIZZLY", "그리즐리"}
+, 
+{jobtbl.JT_DIABOLIC, "DIABOLIC", "디아볼릭"}
+, 
+{jobtbl.JT_EXPLOSION, "EXPLOSION", "익스플로젼"}
+, 
+{jobtbl.JT_DELETER, "DELETER", "딜리터"}
+, 
+{jobtbl.JT_DELETER_, "DELETER_", "딜리터_"}
+, 
+{jobtbl.JT_SLEEPER, "SLEEPER", "슬리퍼"}
+, 
+{jobtbl.JT_GIG, "GIG", "기그"}
+, 
+{jobtbl.JT_ARCHANGELING, "ARCHANGELING", "아크엔젤링"}
+, 
+{jobtbl.JT_DRACULA, "DRACULA", "드라큘라"}
+, 
+{jobtbl.JT_VIOLY, "VIOLY", "바이올리"}
+, 
+{jobtbl.JT_GALAPAGO, "GALAPAGO", "갈라파고"}
+, 
+{jobtbl.JT_ROTAR_ZAIRO, "ROTAR_ZAIRO", "로터자이로"}
+, 
+{jobtbl.JT_G_MUMMY, "G_MUMMY", "몽크전직_미이라"}
+, 
+{jobtbl.JT_G_ZOMBIE, "G_ZOMBIE", "몽크전직_좀비"}
+, 
+{jobtbl.JT_CRYSTAL_1, "CRYSTAL_1", "크리스탈1"}
+, 
+{jobtbl.JT_CRYSTAL_2, "CRYSTAL_2", "크리스탈2"}
+, 
+{jobtbl.JT_CRYSTAL_3, "CRYSTAL_3", "크리스탈3"}
+, 
+{jobtbl.JT_CRYSTAL_4, "CRYSTAL_4", "크리스탈4"}
+, 
+{jobtbl.JT_EVENT_BAPHO, "EVENT_BAPHO", "1주년_바포"}
+, 
+{jobtbl.JT_KARAKASA, "KARAKASA", "카라카사"}
+, 
+{jobtbl.JT_SHINOBI, "SHINOBI", "시노비"}
+, 
+{jobtbl.JT_POISON_TOAD, "POISON_TOAD", "독두꺼비"}
+, 
+{jobtbl.JT_ANTIQUE_FIRELOCK, "ANTIQUE_FIRELOCK", "구식_조총병"}
+, 
+{jobtbl.JT_MIYABI_NINGYO, "MIYABI_NINGYO", "미야비_인형"}
+, 
+{jobtbl.JT_TENGU, "TENGU", "천구"}
+, 
+{jobtbl.JT_KAPHA, "KAPHA", "캇파"}
+, 
+{jobtbl.JT_DOKEBI_, "DOKEBI_", "도깨비_"}
+, 
+{jobtbl.JT_INCANTATION_SAMURAI, "INCANTATION_SAMURAI", "원령무사"}
+, 
+{jobtbl.JT_BLOOD_BUTTERFLY, "BLOOD_BUTTERFLY", "혈호접"}
+, 
+{jobtbl.JT_RICE_CAKE_BOY, "RICE_CAKE_BOY", "경단동자"}
+, 
+{jobtbl.JT_LIVE_PEACH_TREE, "LIVE_PEACH_TREE", "생도목"}
+, 
+{jobtbl.JT_PEACH_TREE_BULLET, "PEACH_TREE_BULLET", "생도목탄"}
+, 
+{jobtbl.JT_EVIL_CLOUD_HERMIT, "EVIL_CLOUD_HERMIT", "운악선"}
+, 
+{jobtbl.JT_WILD_GINSENG, "WILD_GINSENG", "산삼"}
+, 
+{jobtbl.JT_GINSENG_BULLET, "GINSENG_BULLET", "산삼탄"}
+, 
+{jobtbl.JT_BABY_LEOPARD, "BABY_LEOPARD", "아기표범"}
+, 
+{jobtbl.JT_WICKED_NYMPH, "WICKED_NYMPH", "요선녀"}
+, 
+{jobtbl.JT_ZIPPER_BEAR, "ZIPPER_BEAR", "지퍼베어"}
+, 
+{jobtbl.JT_DARK_SNAKE_LORD, "DARK_SNAKE_LORD", "흑사왕"}
+, 
+{jobtbl.JT_G_FARMILIAR, "G_FARMILIAR", "퍼밀리어_고스트"}
+, 
+{jobtbl.JT_G_ARCHER_SKELETON, "G_ARCHER_SKELETON", "아쳐스켈레톤_고스트"}
+, 
+{jobtbl.JT_G_ISIS, "G_ISIS", "이시스_고스트"}
+, 
+{jobtbl.JT_G_HUNTER_FLY, "G_HUNTER_FLY", "헌터플라이_고스트"}
+, 
+{jobtbl.JT_G_GHOUL, "G_GHOUL", "구울_고스트"}
+, 
+{jobtbl.JT_G_SIDE_WINDER, "G_SIDE_WINDER", "사이드와인더_고스트"}
+, 
+{jobtbl.JT_G_OBEAUNE, "G_OBEAUNE", "오본느_고스트"}
+, 
+{jobtbl.JT_G_MARC, "G_MARC", "마르크_고스트"}
+, 
+{jobtbl.JT_G_NIGHTMARE, "G_NIGHTMARE", "나이트메어_고스트"}
+, 
+{jobtbl.JT_G_POISON_SPORE, "G_POISON_SPORE", "포이즌스포아_고스트"}
+, 
+{jobtbl.JT_G_ARGIOPE, "G_ARGIOPE", "아르지오프_고스트"}
+, 
+{jobtbl.JT_G_ARGOS, "G_ARGOS", "아르고스_고스트"}
+, 
+{jobtbl.JT_G_BAPHOMET_, "G_BAPHOMET_", "바포메트주니어_고스트"}
+, 
+{jobtbl.JT_G_DESERT_WOLF, "G_DESERT_WOLF", "데저트울프_고스트"}
+, 
+{jobtbl.JT_G_DEVIRUCHI, "G_DEVIRUCHI", "데비루치_고스트"}
+, 
+{jobtbl.JT_G_DRAINLIAR, "G_DRAINLIAR", "드레인리어_고스트"}
+, 
+{jobtbl.JT_G_EVIL_DRUID, "G_EVIL_DRUID", "이블드루이드_고스트"}
+, 
+{jobtbl.JT_G_JAKK, "G_JAKK", "잭_고스트"}
+, 
+{jobtbl.JT_G_JOKER, "G_JOKER", "조커_고스트"}
+, 
+{jobtbl.JT_G_KHALITZBURG, "G_KHALITZBURG", "칼리츠버그_고스트"}
+, 
+{jobtbl.JT_G_HIGH_ORC, "G_HIGH_ORC", "하이오크_고스트"}
+, 
+{jobtbl.JT_G_STEM_WORM, "G_STEM_WORM", "스템웜_고스트"}
+, 
+{jobtbl.JT_G_PENOMENA, "G_PENOMENA", "페노메나_고스트"}
+, 
+{jobtbl.JT_G_SASQUATCH, "G_SASQUATCH", "사스콰치_고스트"}
+, 
+{jobtbl.JT_G_CRUISER, "G_CRUISER", "크루이저_고스트"}
+, 
+{jobtbl.JT_G_CHEPET, "G_CHEPET", "체펫트_고스트"}
+, 
+{jobtbl.JT_G_RAGGLER, "G_RAGGLER", "레글러_고스트"}
+, 
+{jobtbl.JT_G_INJUSTICE, "G_INJUSTICE", "인저스티스_고스트"}
+, 
+{jobtbl.JT_G_GRYPHON, "G_GRYPHON", "그리폰_고스트"}
+, 
+{jobtbl.JT_G_DARK_FRAME, "G_DARK_FRAME", "다크프레임_고스트"}
+, 
+{jobtbl.JT_G_MUTANT_DRAGON, "G_MUTANT_DRAGON", "뮤턴트드래곤_고스트"}
+, 
+{jobtbl.JT_G_WIND_GHOST, "G_WIND_GHOST", "윈드고스트_고스트"}
+, 
+{jobtbl.JT_G_MERMAN, "G_MERMAN", "머맨_고스트"}
+, 
+{jobtbl.JT_G_ORC_LADY, "G_ORC_LADY", "오크레이디_고스트"}
+, 
+{jobtbl.JT_G_RAYDRIC_ARCHER, "G_RAYDRIC_ARCHER", "레이드릭아쳐_고스트"}
+, 
+{jobtbl.JT_G_TRI_JOINT, "G_TRI_JOINT", "트라이조인트_고스트"}
+, 
+{jobtbl.JT_G_KOBOLD_ARCHER, "G_KOBOLD_ARCHER", "코볼트아쳐_고스트"}
+, 
+{jobtbl.JT_G_CHIMERA, "G_CHIMERA", "키메라_고스트"}
+, 
+{jobtbl.JT_G_MANTIS, "G_MANTIS", "맨티스_고스트"}
+, 
+{jobtbl.JT_G_MARDUK, "G_MARDUK", "마르두크_고스트"}
+, 
+{jobtbl.JT_G_MARIONETTE, "G_MARIONETTE", "마리오네트_고스트"}
+, 
+{jobtbl.JT_G_MATYR, "G_MATYR", "마타_고스트"}
+, 
+{jobtbl.JT_G_MINOROUS, "G_MINOROUS", "마이너우로스_고스트"}
+, 
+{jobtbl.JT_G_ORC_SKELETON, "G_ORC_SKELETON", "오크스켈레톤_고스트"}
+, 
+{jobtbl.JT_G_ORC_ZOMBIE, "G_ORC_ZOMBIE", "오크좀비_고스트"}
+, 
+{jobtbl.JT_G_PASANA, "G_PASANA", "파사나_고스트"}
+, 
+{jobtbl.JT_G_PETIT, "G_PETIT", "쁘띠_고스트"}
+, 
+{jobtbl.JT_G_PETIT_, "G_PETIT_", "쁘띠__고스트"}
+, 
+{jobtbl.JT_G_RAYDRIC, "G_RAYDRIC", "레이드릭_고스트"}
+, 
+{jobtbl.JT_G_REQUIEM, "G_REQUIEM", "레퀴엠_고스트"}
+, 
+{jobtbl.JT_G_SKEL_WORKER, "G_SKEL_WORKER", "스켈워커_고스트"}
+, 
+{jobtbl.JT_G_ZEROM, "G_ZEROM", "제롬_고스트"}
+, 
+{jobtbl.JT_G_NINE_TAIL, "G_NINE_TAIL", "구미호_고스트"}
+, 
+{jobtbl.JT_G_BON_GUN, "G_BON_GUN", "본건_고스트"}
+, 
+{jobtbl.JT_G_ORC_ARCHER, "G_ORC_ARCHER", "오크아쳐_고스트"}
+, 
+{jobtbl.JT_G_MIMIC, "G_MIMIC", "미믹_고스트"}
+, 
+{jobtbl.JT_G_WRAITH, "G_WRAITH", "레이쓰_고스트"}
+, 
+{jobtbl.JT_G_ALARM, "G_ALARM", "알람_고스트"}
+, 
+{jobtbl.JT_G_ARCLOUSE, "G_ARCLOUSE", "아크라우스_고스트"}
+, 
+{jobtbl.JT_G_RIDEWORD, "G_RIDEWORD", "라이드워드_고스트"}
+, 
+{jobtbl.JT_G_SKEL_PRISONER, "G_SKEL_PRISONER", "스켈프리즈너_고스트"}
+, 
+{jobtbl.JT_G_ZOMBIE_PRISONER, "G_ZOMBIE_PRISONER", "좀비프리즈너_고스트"}
+, 
+{jobtbl.JT_G_PUNK, "G_PUNK", "펑크_고스트"}
+, 
+{jobtbl.JT_G_ZHERLTHSH, "G_ZHERLTHSH", "지르타스_고스트"}
+, 
+{jobtbl.JT_G_RYBIO, "G_RYBIO", "리비오_고스트"}
+, 
+{jobtbl.JT_G_PHENDARK, "G_PHENDARK", "펜다르크_고스트"}
+, 
+{jobtbl.JT_G_MYSTELTAINN, "G_MYSTELTAINN", "미스틸테인_고스트"}
+, 
+{jobtbl.JT_G_TIRFING, "G_TIRFING", "테일핑_고스트"}
+, 
+{jobtbl.JT_G_EXECUTIONER, "G_EXECUTIONER", "엑서큐셔너_고스트"}
+, 
+{jobtbl.JT_G_ANOLIAN, "G_ANOLIAN", "아놀리안_고스트"}
+, 
+{jobtbl.JT_G_STING, "G_STING", "스팅_고스트"}
+, 
+{jobtbl.JT_G_WANDER_MAN, "G_WANDER_MAN", "배회하는자_고스트"}
+, 
+{jobtbl.JT_G_DOKEBI, "G_DOKEBI", "도깨비_고스트"}
+, 
+{jobtbl.JT_DRYAD, "DRYAD", "드라이어드"}
+, 
+{jobtbl.JT_KIND_OF_BEETLE, "KIND_OF_BEETLE", "투구벌레"}
+, 
+{jobtbl.JT_STONE_SHOOTER, "STONE_SHOOTER", "스톤슈터"}
+, 
+{jobtbl.JT_STONE_SHOOTER_BULLET, "STONE_SHOOTER_BULLET", "스톤슈터총알"}
+, 
+{jobtbl.JT_WOODEN_GOLEM, "WOODEN_GOLEM", "우든골렘"}
+, 
+{jobtbl.JT_WOOTAN_SHOOTER, "WOOTAN_SHOOTER", "우탄슈터"}
+, 
+{jobtbl.JT_WOOTAN_FIGHTER, "WOOTAN_FIGHTER", "우탄파이터"}
+, 
+{jobtbl.JT_PARASITE, "PARASITE", "패러사이트"}
+, 
+{jobtbl.JT_PARASITE_BULLET, "PARASITE_BULLET", "패러사이트총알"}
+, 
+{jobtbl.JT_PORING_V, "PORING_V", "덤빌테면덤벼라"}
+, 
+{jobtbl.JT_GIBBET, "GIBBET", "지벳트"}
+, 
+{jobtbl.JT_DULLAHAN, "DULLAHAN", "듀라한"}
+, 
+{jobtbl.JT_LOLI_RURI, "LOLI_RURI", "로리루리"}
+, 
+{jobtbl.JT_DISGUISE, "DISGUISE", "디스가이즈"}
+, 
+{jobtbl.JT_BLOODY_MURDERER, "BLOODY_MURDERER", "블러디머더러"}
+, 
+{jobtbl.JT_QUVE, "QUVE", "큐브"}
+, 
+{jobtbl.JT_LUDE, "LUDE", "루드"}
+, 
+{jobtbl.JT_HYLOZOIST, "HYLOZOIST", "하이로조이스트"}
+, 
+{jobtbl.JT_AMON_RA, "AMON_RA", "아몬_라"}
+, 
+{jobtbl.JT_HYEGUN, "HYEGUN", "혜군"}
+, 
+{jobtbl.JT_CIVIL_SERVANT, "CIVIL_SERVANT", "묘괴"}
+, 
+{jobtbl.JT_DANCING_DRAGON, "DANCING_DRAGON", "저파룡"}
+, 
+{jobtbl.JT_GARM_BABY, "GARM_BABY", "하티베베"}
+, 
+{jobtbl.JT_INCREASE_SOIL, "INCREASE_SOIL", "식양"}
+, 
+{jobtbl.JT_LI_ME_MANG_RYANG, "LI_ME_MANG_RYANG", "이매망량"}
+, 
+{jobtbl.JT_BACSOJIN, "BACSOJIN", "백소진"}
+, 
+{jobtbl.JT_CHUNG_E, "CHUNG_E", "청이"}
+, 
+{jobtbl.JT_BOILED_RICE, "BOILED_RICE", "주먹밥밥"}
+, 
+{jobtbl.JT_G_ALICE, "G_ALICE", "엘리스_고스트"}
+, 
+{jobtbl.JT_G_ANCIENT_MUMMY, "G_ANCIENT_MUMMY", "에인션트_미이라_고스트"}
+, 
+{jobtbl.JT_G_ANTIQUE_FIRELOCK, "G_ANTIQUE_FIRELOCK", "구식_조총병_고스트"}
+, 
+{jobtbl.JT_G_BABY_LEOPARD, "G_BABY_LEOPARD", "아기표범_고스트"}
+, 
+{jobtbl.JT_G_BATHORY, "G_BATHORY", "바소리_고스트"}
+, 
+{jobtbl.JT_G_BLOOD_BUTTERFLY, "G_BLOOD_BUTTERFLY", "혈호접_고스트"}
+, 
+{jobtbl.JT_G_C_TOWER_MANAGER, "G_C_TOWER_MANAGER", "시계탑관리자_고스트"}
+, 
+{jobtbl.JT_G_CLOCK, "G_CLOCK", "클락_고스트"}
+, 
+{jobtbl.JT_G_DARK_SNAKE_LORD, "G_DARK_SNAKE_LORD", "흑사왕_고스트"}
+, 
+{jobtbl.JT_G_DRACULA, "G_DRACULA", "드라큘라_고스트"}
+, 
+{jobtbl.JT_G_EVIL_CLOUD_HERMIT, "G_EVIL_CLOUD_HERMIT", "운악선_고스트"}
+, 
+{jobtbl.JT_G_EXPLOSION, "G_EXPLOSION", "익스플로젼_고스트"}
+, 
+{jobtbl.JT_G_FUR_SEAL, "G_FUR_SEAL", "퍼씰_고스트"}
+, 
+{jobtbl.JT_G_GOBLIN_1, "G_GOBLIN_1", "고블린1_고스트"}
+, 
+{jobtbl.JT_G_GOBLIN_2, "G_GOBLIN_2", "고블린2_고스트"}
+, 
+{jobtbl.JT_G_GOBLIN_3, "G_GOBLIN_3", "고블린3_고스트"}
+, 
+{jobtbl.JT_G_GOBLIN_4, "G_GOBLIN_4", "고블린4_고스트"}
+, 
+{jobtbl.JT_G_GOBLIN_5, "G_GOBLIN_5", "고블린5_고스트"}
+, 
+{jobtbl.JT_G_GOBLIN_LEADER, "G_GOBLIN_LEADER", "고블린_리더_고스트"}
+, 
+{jobtbl.JT_G_GOLEM, "G_GOLEM", "고렘_고스트"}
+, 
+{jobtbl.JT_G_GREATEST_GENERAL, "G_GREATEST_GENERAL", "천하대장군_고스트"}
+, 
+{jobtbl.JT_G_INCANTATION_SAMURAI, "G_INCANTATION_SAMURA", "원령무사_고스트"}
+, 
+{jobtbl.JT_G_KAPHA, "G_KAPHA", "캇파_고스트"}
+, 
+{jobtbl.JT_G_KARAKASA, "G_KARAKASA", "카라카사_고스트"}
+, 
+{jobtbl.JT_G_KOBOLD_1, "G_KOBOLD_1", "코볼트1_고스트"}
+, 
+{jobtbl.JT_G_KOBOLD_2, "G_KOBOLD_2", "코볼트2_고스트"}
+, 
+{jobtbl.JT_G_KOBOLD_3, "G_KOBOLD_3", "코볼트3_고스트"}
+, 
+{jobtbl.JT_G_KOBOLD_LEADER, "G_KOBOLD_LEADER", "코볼트_리더_고스트"}
+, 
+{jobtbl.JT_G_LAVA_GOLEM, "G_LAVA_GOLEM", "라바_골렘_고스트"}
+, 
+{jobtbl.JT_G_LIVE_PEACH_TREE, "G_LIVE_PEACH_TREE", "생도목_고스트"}
+, 
+{jobtbl.JT_G_MARSE, "G_MARSE", "마르스_고스트"}
+, 
+{jobtbl.JT_G_MIYABI_NINGYO, "G_MIYABI_NINGYO", "미야비_인형_고스트"}
+, 
+{jobtbl.JT_G_MYST, "G_MYST", "미스트_고스트"}
+, 
+{jobtbl.JT_G_NIGHTMARE_TERROR, "G_NIGHTMARE_TERROR", "나이트메어_테러_고스트"}
+, 
+{jobtbl.JT_G_PARASITE, "G_PARASITE", "패러사이트_고스트"}
+, 
+{jobtbl.JT_G_POISON_TOAD, "G_POISON_TOAD", "독두꺼비_고스트"}
+, 
+{jobtbl.JT_G_ROTAR_ZAIRO, "G_ROTAR_ZAIRO", "로터자이로_고스트"}
+, 
+{jobtbl.JT_G_SAND_MAN, "G_SAND_MAN", "샌드맨_고스트"}
+, 
+{jobtbl.JT_G_SCORPION, "G_SCORPION", "스콜피온_고스트"}
+, 
+{jobtbl.JT_G_SHINOBI, "G_SHINOBI", "시노비_고스트"}
+, 
+{jobtbl.JT_G_SMOKIE, "G_SMOKIE", "스모키_고스트"}
+, 
+{jobtbl.JT_G_SOLDIER_SKELETON, "G_SOLDIER_SKELETON", "솔져스켈톤_고스트"}
+, 
+{jobtbl.JT_G_TENGU, "G_TENGU", "천구_고스트"}
+, 
+{jobtbl.JT_G_WICKED_NYMPH, "G_WICKED_NYMPH", "요선녀_고스트"}
+, 
+{jobtbl.JT_G_WILD_GINSENG, "G_WILD_GINSENG", "산삼_고스트"}
+, 
+{jobtbl.JT_G_WRAITH_DEAD, "G_WRAITH_DEAD", "레이스_데드_고스트"}
+, 
+{jobtbl.JT_G_ANCIENT_WORM, "G_ANCIENT_WORM", "에인션트_웜_고스트"}
+, 
+{jobtbl.JT_G_ANGELING, "G_ANGELING", "엔젤링_고스트"}
+, 
+{jobtbl.JT_G_BLOODY_KNIGHT, "G_BLOODY_KNIGHT", "피빛의기사_고스트"}
+, 
+{jobtbl.JT_G_CRAMP, "G_CRAMP", "크램프_고스트"}
+, 
+{jobtbl.JT_G_DEVIACE, "G_DEVIACE", "데비어스_고스트"}
+, 
+{jobtbl.JT_G_DROPS, "G_DROPS", "드롭프스_고스트"}
+, 
+{jobtbl.JT_G_ELDER, "G_ELDER", "엘더_고스트"}
+, 
+{jobtbl.JT_G_ELDER_WILOW, "G_ELDER_WILOW", "엘더윌로우_고스트"}
+, 
+{jobtbl.JT_G_FLORA, "G_FLORA", "플로라_고스트"}
+, 
+{jobtbl.JT_G_GHOSTRING, "G_GHOSTRING", "고스트링_고스트"}
+, 
+{jobtbl.JT_G_GOBLIN_ARCHER, "G_GOBLIN_ARCHER", "고블린아쳐_고스트"}
+, 
+{jobtbl.JT_G_HORONG, "G_HORONG", "호롱_고스트"}
+, 
+{jobtbl.JT_G_HYDRA, "G_HYDRA", "히드라_고스트"}
+, 
+{jobtbl.JT_G_INCUBUS, "G_INCUBUS", "인큐버스_고스트"}
+, 
+{jobtbl.JT_G_VOCAL, "G_VOCAL", "보컬_고스트"}
+, 
+{jobtbl.JT_DEVILING, "DEVILING", "데빌링"}
+, 
+{jobtbl.JT_TAO_GUNKA, "TAO_GUNKA", "타오군카"}
+, 
+{jobtbl.JT_TAMRUAN, "TAMRUAN", "탐루안"}
+, 
+{jobtbl.JT_MIME_MONKEY, "MIME_MONKEY", "마임몽키"}
+, 
+{jobtbl.JT_LEAF_CAT, "LEAF_CAT", "리프캣"}
+, 
+{jobtbl.JT_KRABEN, "KRABEN", "크라벤"}
+, 
+{jobtbl.JT_ORC_XMAS, "ORC_XMAS", "오크_X"}
+, 
+{jobtbl.JT_G_MANDRAGORA, "G_MANDRAGORA", "만드라고라_고스트"}
+, 
+{jobtbl.JT_G_GEOGRAPHER, "G_GEOGRAPHER", "지오그래퍼_고스트"}
+, 
+{jobtbl.JT_A_LUNATIC, "A_LUNATIC", "A_루나틱"}
+, 
+{jobtbl.JT_A_MOBSTER, "A_MOBSTER", "A_폭력배"}
+, 
+{jobtbl.JT_A_ANCIENT_MUMMY, "A_ANCIENT_MUMMY", "A_에인션트_미이라"}
+, 
+{jobtbl.JT_G_FREEZER, "G_FREEZER", "프리저_고스트"}
+, 
+{jobtbl.JT_G_MARIN, "G_MARIN", "마린_고스트"}
+, 
+{jobtbl.JT_G_TAMRUAN, "G_TAMRUAN", "탐루안_고스트"}
+, 
+{jobtbl.JT_G_GARGOYLE, "G_GARGOYLE", "가고일_고스트"}
+, 
+{jobtbl.JT_G_BLAZZER, "G_BLAZZER", "블레이저_고스트"}
+, 
+{jobtbl.JT_G_WHISPER_BOSS, "G_WHISPER_BOSS", "거대위스퍼_고스트"}
+, 
+{jobtbl.JT_G_HEATER, "G_HEATER", "힛터_고스트"}
+, 
+{jobtbl.JT_G_PERMETER, "G_PERMETER", "퍼머터_고스트"}
+, 
+{jobtbl.JT_G_SOLIDER, "G_SOLIDER", "솔리더_고스트"}
+, 
+{jobtbl.JT_G_BIGFOOT, "G_BIGFOOT", "빅풋_고스트"}
+, 
+{jobtbl.JT_G_GIANT_HONET, "G_GIANT_HONET", "자이언트_호넷_고스트"}
+, 
+{jobtbl.JT_G_DARK_ILLUSION, "G_DARK_ILLUSION", "다크일루젼_고스트"}
+, 
+{jobtbl.JT_G_GARM_BABY, "G_GARM_BABY", "하티베베_고스트"}
+, 
+{jobtbl.JT_G_GOBLINE_XMAS, "G_GOBLINE_XMAS", "고블린_X_고스트"}
+, 
+{jobtbl.JT_G_THIEF_BUG__, "G_THIEF_BUG__", "도둑벌레__고스트"}
+, 
+{jobtbl.JT_G_DANCING_DRAGON, "G_DANCING_DRAGON", "저파룡_고스트"}
+, 
+{jobtbl.JT_A_MUNAK, "A_MUNAK", "A_무낙"}
+, 
+{jobtbl.JT_A_BON_GUN, "A_BON_GUN", "A_본건"}
+, 
+{jobtbl.JT_A_HYEGUN, "A_HYEGUN", "A_혜군"}
+, 
+{jobtbl.JT_METALING, "METALING", "메탈링"}
+, 
+{jobtbl.JT_MINERAL, "MINERAL", "미네랄"}
+, 
+{jobtbl.JT_OBSIDIAN, "OBSIDIAN", "옵시디언"}
+, 
+{jobtbl.JT_PITMAN, "PITMAN", "핏맨"}
+, 
+{jobtbl.JT_WASTE_STOVE, "WASTE_STOVE", "고철난로"}
+, 
+{jobtbl.JT_UNGOLIANT, "UNGOLIANT", "운골리안트"}
+, 
+{jobtbl.JT_PORCELLIO, "PORCELLIO", "폴셀리오"}
+, 
+{jobtbl.JT_NOXIOUS, "NOXIOUS", "녹시어스"}
+, 
+{jobtbl.JT_VENOMOUS, "VENOMOUS", "베노머스"}
+, 
+{jobtbl.JT_TEDDY_BEAR, "TEDDY_BEAR", "곰인형"}
+, 
+{jobtbl.JT_RSX_0806, "RSX_0806", "RSX_0806"}
+, 
+{jobtbl.JT_G_WASTE_STOVE, "G_WASTE_STOVE", "고철난로_고스트"}
+, 
+{jobtbl.JT_G_PORCELLIO, "G_PORCELLIO", "폴셀리오_고스트"}
+, 
+{jobtbl.JT_G_DARK_PRIEST, "G_DARK_PRIEST", "다크프리스트_고스트"}
+, 
+{jobtbl.JT_ANOPHELES, "ANOPHELES", "위레스"}
+, 
+{jobtbl.JT_MOLE, "MOLE", "홀덴"}
+, 
+{jobtbl.JT_HILL_WIND, "HILL_WIND", "힐윈드"}
+, 
+{jobtbl.JT_BACSOJIN_, "BACSOJIN_", "백소진_"}
+, 
+{jobtbl.JT_CHUNG_E_, "CHUNG_E_", "청이_"}
+, 
+{jobtbl.JT_GREMLIN, "GREMLIN", "그렘린"}
+, 
+{jobtbl.JT_BEHOLDER, "BEHOLDER", "비홀더"}
+, 
+{jobtbl.JT_SEYREN, "SEYREN", "세이렌"}
+, 
+{jobtbl.JT_EREMES, "EREMES", "에레메스"}
+, 
+{jobtbl.JT_HARWORD, "HARWORD", "하워드"}
+, 
+{jobtbl.JT_MAGALETA, "MAGALETA", "마가레타"}
+, 
+{jobtbl.JT_SHECIL, "SHECIL", "셰실"}
+, 
+{jobtbl.JT_KATRINN, "KATRINN", "카트린느"}
+, 
+{jobtbl.JT_G_SEYREN, "G_SEYREN", "고스트_세이렌"}
+, 
+{jobtbl.JT_G_EREMES, "G_EREMES", "고스트_에레메스"}
+, 
+{jobtbl.JT_G_HARWORD, "G_HARWORD", "고스트_하워드"}
+, 
+{jobtbl.JT_G_MAGALETA, "G_MAGALETA", "고스트_마가레타"}
+, 
+{jobtbl.JT_G_SHECIL, "G_SHECIL", "고스트_셰실"}
+, 
+{jobtbl.JT_G_KATRINN, "G_KATRINN", "고스트_카트린느"}
+, 
+{jobtbl.JT_B_SEYREN, "B_SEYREN", "보스_세이렌"}
+, 
+{jobtbl.JT_B_EREMES, "B_EREMES", "보스_에레메스"}
+, 
+{jobtbl.JT_B_HARWORD, "B_HARWORD", "보스_하워드"}
+, 
+{jobtbl.JT_B_MAGALETA, "B_MAGALETA", "보스_마가레타"}
+, 
+{jobtbl.JT_B_SHECIL, "B_SHECIL", "보스_셰실"}
+, 
+{jobtbl.JT_B_KATRINN, "B_KATRINN", "보스_카트린느"}
+, 
+{jobtbl.JT_YGNIZEM, "YGNIZEM", "이그니젬"}
+, 
+{jobtbl.JT_WHIKEBAIN, "WHIKEBAIN", "휘케바인"}
+, 
+{jobtbl.JT_ARMAIA, "ARMAIA", "아르마이어"}
+, 
+{jobtbl.JT_EREND, "EREND", "이렌드"}
+, 
+{jobtbl.JT_KAVAC, "KAVAC", "카바크"}
+, 
+{jobtbl.JT_RAWREL, "RAWREL", "라우렐"}
+, 
+{jobtbl.JT_B_YGNIZEM, "B_YGNIZEM", "보스_이그니젬"}
+, 
+{jobtbl.JT_G_WHIKEBAIN, "G_WHIKEBAIN", "고스트_휘케바인"}
+, 
+{jobtbl.JT_G_ARMAIA, "G_ARMAIA", "고스트_아르마이어"}
+, 
+{jobtbl.JT_G_EREND, "G_EREND", "고스트_이렌드"}
+, 
+{jobtbl.JT_G_KAVAC, "G_KAVAC", "고스트_카바크"}
+, 
+{jobtbl.JT_G_RAWREL, "G_RAWREL", "고스트_라우렐"}
+, 
+{jobtbl.JT_POTON_CANON, "POTON_CANON", "포톤캐논"}
+, 
+{jobtbl.JT_POTON_CANON_1, "POTON_CANON_1", "포톤캐논_1"}
+, 
+{jobtbl.JT_POTON_CANON_2, "POTON_CANON_2", "포톤캐논_2"}
+, 
+{jobtbl.JT_POTON_CANON_3, "POTON_CANON_3", "포톤캐논_3"}
+, 
+{jobtbl.JT_ARCHDAM, "ARCHDAM", "아크담"}
+, 
+{jobtbl.JT_DIMIK, "DIMIK", "디미크"}
+, 
+{jobtbl.JT_DIMIK_1, "DIMIK_1", "디미크_1"}
+, 
+{jobtbl.JT_DIMIK_2, "DIMIK_2", "디미크_2"}
+, 
+{jobtbl.JT_DIMIK_3, "DIMIK_3", "디미크_3"}
+, 
+{jobtbl.JT_DIMIK_4, "DIMIK_4", "디미크_4"}
+, 
+{jobtbl.JT_MONEMUS, "MONEMUS", "모네무스"}
+, 
+{jobtbl.JT_VENATU, "VENATU", "베나투"}
+, 
+{jobtbl.JT_VENATU_1, "VENATU_1", "베나투_1"}
+, 
+{jobtbl.JT_VENATU_2, "VENATU_2", "베나투_2"}
+, 
+{jobtbl.JT_VENATU_3, "VENATU_3", "베나투_3"}
+, 
+{jobtbl.JT_VENATU_4, "VENATU_4", "베나투_4"}
+, 
+{jobtbl.JT_HILL_WIND_1, "HILL_WIND_1", "힐윈드_"}
+, 
+{jobtbl.JT_GEMINI, "GEMINI", "제미니"}
+, 
+{jobtbl.JT_REMOVAL, "REMOVAL", "리무버"}
+, 
+{jobtbl.JT_G_POTON_CANON, "G_POTON_CANON", "고스트_포톤_캐논"}
+, 
+{jobtbl.JT_G_ARCHDAM, "G_ARCHDAM", "고스트_아크담"}
+, 
+{jobtbl.JT_APOCALIPS_H, "APOCALIPS_H", "아포칼립스_H"}
+, 
+{jobtbl.JT_ORC_BABY, "ORC_BABY", "오크베이비"}
+, 
+{jobtbl.JT_GREEN_IGUANA, "GREEN_IGUANA", "그린이구아나"}
+, 
+{jobtbl.JT_LADY_TANEE, "LADY_TANEE", "타니아가씨"}
+, 
+{jobtbl.JT_G_BACSOJIN, "G_BACSOJIN", "백소진_고스트"}
+, 
+{jobtbl.JT_G_SPRING_RABBIT, "G_SPRING_RABBIT", "스프링래빗_고스트"}
+, 
+{jobtbl.JT_G_KRABEN, "G_KRABEN", "크라벤_고스트"}
+, 
+{jobtbl.JT_BREEZE, "BREEZE", "산들바람"}
+, 
+{jobtbl.JT_PLASMA_Y, "PLASMA_Y", "플라즈마_Y"}
+, 
+{jobtbl.JT_PLASMA_R, "PLASMA_R", "플라즈마_R"}
+, 
+{jobtbl.JT_PLASMA_G, "PLASMA_G", "플라즈마_G"}
+, 
+{jobtbl.JT_PLASMA_P, "PLASMA_P", "플라즈마_P"}
+, 
+{jobtbl.JT_PLASMA_B, "PLASMA_B", "플라즈마_B"}
+, 
+{jobtbl.JT_DEATHWORD, "DEATHWORD", "데스워드"}
+, 
+{jobtbl.JT_ANCIENT_MIMIC, "ANCIENT_MIMIC", "에인션트미믹"}
+, 
+{jobtbl.JT_OBSERVATION, "OBSERVATION", "감시하는자"}
+, 
+{jobtbl.JT_SHELTER, "SHELTER", "안식을주는자"}
+, 
+{jobtbl.JT_RETRIBUTION, "RETRIBUTION", "신벌의대행자"}
+, 
+{jobtbl.JT_SOLACE, "SOLACE", "위로하는자"}
+, 
+{jobtbl.JT_THA_ODIUM, "THA_ODIUM", "타나토스증오"}
+, 
+{jobtbl.JT_THA_DESPERO, "THA_DESPERO", "타나토스절망"}
+, 
+{jobtbl.JT_THA_MAERO, "THA_MAERO", "타나토스슬픔"}
+, 
+{jobtbl.JT_THA_DOLOR, "THA_DOLOR", "타나토스고뇌"}
+, 
+{jobtbl.JT_THANATOS, "THANATOS", "타나토스기억"}
+, 
+{jobtbl.JT_G_THA_ODIUM, "G_THA_ODIUM", "타나토스증오_고스트"}
+, 
+{jobtbl.JT_G_THA_DESPERO, "G_THA_DESPERO", "타나토스절망_고스트"}
+, 
+{jobtbl.JT_G_THA_MAERO, "G_THA_MAERO", "타나토스슬픔_고스트"}
+, 
+{jobtbl.JT_G_THA_DOLOR, "G_THA_DOLOR", "타나토스고뇌_고스트"}
+, 
+{jobtbl.JT_ACIDUS, "ACIDUS", "어시더스"}
+, 
+{jobtbl.JT_FERUS, "FERUS", "페러스"}
+, 
+{jobtbl.JT_NOVUS, "NOVUS", "노버스"}
+, 
+{jobtbl.JT_ACIDUS_, "ACIDUS_", "어시더스_"}
+, 
+{jobtbl.JT_FERUS_, "FERUS_", "페러스_"}
+, 
+{jobtbl.JT_NOVUS_, "NOVUS_", "노버스_"}
+, 
+{jobtbl.JT_DETALE, "DETALE", "디타르"}
+, 
+{jobtbl.JT_HYDRO, "HYDRO", "하이드로"}
+, 
+{jobtbl.JT_DRAGON_EGG, "DRAGON_EGG", "드래곤의알"}
+, 
+{jobtbl.JT_EVENT_JAKK, "EVENT_JAKK", "이벤트잭"}
+, 
+{jobtbl.JT_A_SHECIL, "A_SHECIL", "A_셰실디먼"}
+, 
+{jobtbl.JT_A_POTON_CANON, "A_POTON_CANON", "A_포톤캐논"}
+, 
+{jobtbl.JT_R_PORING, "R_PORING", "R_포링"}
+, 
+{jobtbl.JT_R_LUNATIC, "R_LUNATIC", "R_루나틱"}
+, 
+{jobtbl.JT_R_SAVAGE_BABE, "R_SAVAGE_BABE", "R_세비지베베"}
+, 
+{jobtbl.JT_R_DESERT_WOLF_B, "R_DESERT_WOLF_B", "R_데저트울프새끼"}
+, 
+{jobtbl.JT_R_BAPHOMET_, "R_BAPHOMET_", "R_바포메트쥬니어"}
+, 
+{jobtbl.JT_R_DEVIRUCHI, "R_DEVIRUCHI", "R_데비루치"}
+, 
+{jobtbl.JT_G_DOPPELGANGER, "G_DOPPELGANGER", "도플갱어_고스트"}
+, 
+{jobtbl.JT_G_TREASURE_BOX, "G_TREASURE_BOX", "보물상자_고스트"}
+, 
+{jobtbl.JT_KIEL, "KIEL", "키엘"}
+, 
+{jobtbl.JT_KIEL_, "KIEL_", "키엘_"}
+, 
+{jobtbl.JT_ALICEL, "ALICEL", "엘리셀"}
+, 
+{jobtbl.JT_ALIOT, "ALIOT", "엘리엇"}
+, 
+{jobtbl.JT_ALIZA, "ALIZA", "엘리자"}
+, 
+{jobtbl.JT_CONSTANT, "CONSTANT", "콘스탄트"}
+, 
+{jobtbl.JT_G_ALICEL, "G_ALICEL", "엘리셀_고스트"}
+, 
+{jobtbl.JT_G_ALIOT, "G_ALIOT", "엘리엇_고스트"}
+, 
+{jobtbl.JT_G_COOKIE_XMAS, "G_COOKIE_XMAS", "쿠키_고스트"}
+, 
+{jobtbl.JT_G_CARAT, "G_CARAT", "캐럿_고스트"}
+, 
+{jobtbl.JT_G_MYSTCASE, "G_MYSTCASE", "미스틱케이스_고스트"}
+, 
+{jobtbl.JT_G_WILD_ROSE, "G_WILD_ROSE", "와일드로즈_고스트"}
+, 
+{jobtbl.JT_G_CONSTANT, "G_CONSTANT", "콘스탄트_고스트"}
+, 
+{jobtbl.JT_G_ALIZA, "G_ALIZA", "엘리자_고스트"}
+, 
+{jobtbl.JT_G_SNAKE, "G_SNAKE", "스네이크_고스트"}
+, 
+{jobtbl.JT_G_ANACONDAQ, "G_ANACONDAQ", "아나콘다크_고스트"}
+, 
+{jobtbl.JT_G_MEDUSA, "G_MEDUSA", "메두사_고스트"}
+, 
+{jobtbl.JT_G_RED_PLANT, "G_RED_PLANT", "빨간풀_고스트"}
+, 
+{jobtbl.JT_RANDGRIS, "RANDGRIS", "란드그리스"}
+, 
+{jobtbl.JT_SKOGUL, "SKOGUL", "스코글"}
+, 
+{jobtbl.JT_FRUS, "FRUS", "프루스"}
+, 
+{jobtbl.JT_SKEGGIOLD, "SKEGGIOLD", "스케골트"}
+, 
+{jobtbl.JT_SKEGGIOLD_, "SKEGGIOLD_", "스케골트_"}
+, 
+{jobtbl.JT_G_HYDRO, "G_HYDRO", "하이드로_고스트"}
+, 
+{jobtbl.JT_G_ACIDUS, "G_ACIDUS", "어시더스_고스트"}
+, 
+{jobtbl.JT_G_FERUS, "G_FERUS", "페러스_고스트"}
+, 
+{jobtbl.JT_G_ACIDUS_, "G_ACIDUS_", "어시더스_고스트_"}
+, 
+{jobtbl.JT_G_FERUS_, "G_FERUS_", "페러스_고스트_"}
+, 
+{jobtbl.JT_G_SKOGUL, "G_SKOGUL", "스코글_고스트"}
+, 
+{jobtbl.JT_G_FRUS, "G_FRUS", "프루스_고스트"}
+, 
+{jobtbl.JT_G_SKEGGIOLD, "G_SKEGGIOLD", "스케골트_고스트"}
+, 
+{jobtbl.JT_G_SKEGGIOLD_, "G_SKEGGIOLD_", "스케골트_고스트_"}
+, 
+{jobtbl.JT_G_RANDGRIS, "G_RANDGRIS", "란드그리스_고스트"}
+, 
+{jobtbl.JT_EM_ANGELING, "EM_ANGELING", "엔젤리움"}
+, 
+{jobtbl.JT_EM_DEVILING, "EM_DEVILING", "데빌리움"}
+, 
+{jobtbl.JT_GLOOMUNDERNIGHT, "GLOOMUNDERNIGHT", "그룸언더나이트"}
+, 
+{jobtbl.JT_AGAV, "AGAV", "아가브"}
+, 
+{jobtbl.JT_ECHIO, "ECHIO", "에키오"}
+, 
+{jobtbl.JT_VANBERK, "VANBERK", "판베르크"}
+, 
+{jobtbl.JT_ISILLA, "ISILLA", "이실라"}
+, 
+{jobtbl.JT_HODREMLIN, "HODREMLIN", "호드렘린"}
+, 
+{jobtbl.JT_SEEKER, "SEEKER", "시커"}
+, 
+{jobtbl.JT_SNOWIER, "SNOWIER", "스노이어"}
+, 
+{jobtbl.JT_SIROMA, "SIROMA", "시로마"}
+, 
+{jobtbl.JT_ICE_TITAN, "ICE_TITAN", "아이스티탄"}
+, 
+{jobtbl.JT_GAZETI, "GAZETI", "게에즈티"}
+, 
+{jobtbl.JT_KTULLANUX, "KTULLANUX", "크툴라낙스"}
+, 
+{jobtbl.JT_MUSCIPULAR, "MUSCIPULAR", "머스키퓰라"}
+, 
+{jobtbl.JT_DROSERA, "DROSERA", "드로세라"}
+, 
+{jobtbl.JT_ROWEEN, "ROWEEN", "로우윈"}
+, 
+{jobtbl.JT_GALION, "GALION", "갈리온"}
+, 
+{jobtbl.JT_STAPO, "STAPO", "스태포"}
+, 
+{jobtbl.JT_ATROCE, "ATROCE", "아트로스"}
+, 
+{jobtbl.JT_G_AGAV, "G_AGAV", "아가브_고스트"}
+, 
+{jobtbl.JT_G_ECHIO, "G_ECHIO", "에키오_고스트"}
+, 
+{jobtbl.JT_G_ICE_TITAN, "G_ICE_TITAN", "아이스티탄_고스트"}
+, 
+{jobtbl.JT_ICEICLE, "ICEICLE", "고드름"}
+, 
+{jobtbl.JT_G_RAFFLESIA, "G_RAFFLESIA", "라플레시아_고스트"}
+, 
+{jobtbl.JT_G_GALION, "G_GALION", "갈리온_고스트"}
+, 
+{jobtbl.JT_SOCCER_BALL, "SOCCER_BALL", "축구공"}
+, 
+{jobtbl.JT_G_MEGALITH, "G_MEGALITH", "메갈리스_고스트"}
+, 
+{jobtbl.JT_G_ROWEEN, "G_ROWEEN", "로우윈_고스트"}
+, 
+{jobtbl.JT_BLOODY_KNIGHT_, "BLOODY_KNIGHT_", "피빛의기사_이벤트"}
+, 
+{jobtbl.JT_AUNOE, "AUNOE", "아우노에"}
+, 
+{jobtbl.JT_FANAT, "FANAT", "파나트"}
+, 
+{jobtbl.JT_TREASURE_BOX_, "TREASURE_BOX_", "보물상자_이벤트"}
+, 
+{jobtbl.JT_B_SEYREN_, "B_SEYREN_", "세이렌윈저_이벤트B"}
+, 
+{jobtbl.JT_B_EREMES_, "B_EREMES_", "에레메스가일_이벤트B"}
+, 
+{jobtbl.JT_B_HARWORD_, "B_HARWORD_", "하워드알트아이젠_이벤트B"}
+, 
+{jobtbl.JT_B_MAGALETA_, "B_MAGALETA_", "마가레타소린_이벤트B"}
+, 
+{jobtbl.JT_B_SHECIL_, "B_SHECIL_", "셰실디먼_이벤트B"}
+, 
+{jobtbl.JT_B_KATRINN_, "B_KATRINN_", "카트린느케이런_이벤트B"}
+, 
+{jobtbl.JT_G_SEYREN_, "G_SEYREN_", "세이렌윈저_이벤트G"}
+, 
+{jobtbl.JT_G_EREMES_, "G_EREMES_", "에레메스가일_이벤트G"}
+, 
+{jobtbl.JT_G_HARWORD_, "G_HARWORD_", "하워드알트아이젠_이벤트G"}
+, 
+{jobtbl.JT_G_MAGALETA_, "G_MAGALETA_", "마가레타소린_이벤트G"}
+, 
+{jobtbl.JT_G_SHECIL_, "G_SHECIL_", "셰실디먼_이벤트G"}
+, 
+{jobtbl.JT_G_KATRINN_, "G_KATRINN_", "카트린느케이런_이벤트G"}
+, 
+{jobtbl.JT_G_SMOKIE_, "G_SMOKIE_", "스모키_이벤트"}
+, 
+{jobtbl.JT_EVENT_LUDE, "EVENT_LUDE", "루드_이벤트"}
+, 
+{jobtbl.JT_EVENT_HYDRO, "EVENT_HYDRO", "하이드로_이벤트"}
+, 
+{jobtbl.JT_EVENT_MOON, "EVENT_MOON", "월야화_이벤트"}
+, 
+{jobtbl.JT_EVENT_RICECAKE, "EVENT_RICECAKE", "떡_이벤트"}
+, 
+{jobtbl.JT_EVENT_GOURD, "EVENT_GOURD", "박_이벤트"}
+, 
+{jobtbl.JT_EVENT_DETALE, "EVENT_DETALE", "신룡"}
+, 
+{jobtbl.JT_EVENT_ALARM, "EVENT_ALARM", "이벤트_알람"}
+, 
+{jobtbl.JT_EVENT_BATHORY, "EVENT_BATHORY", "이벤트_바소리"}
+, 
+{jobtbl.JT_EVENT_BIGFOOT, "EVENT_BIGFOOT", "이벤트_빅풋"}
+, 
+{jobtbl.JT_EVENT_DESERT_WOLF, "EVENT_DESERT_WOLF", "이벤트_데저트울프"}
+, 
+{jobtbl.JT_EVENT_DEVIRUCHI, "EVENT_DEVIRUCHI", "이벤트_데비루치"}
+, 
+{jobtbl.JT_EVENT_FREEZER, "EVENT_FREEZER", "이벤트_프리저"}
+, 
+{jobtbl.JT_EVENT_GARM_BABY, "EVENT_GARM_BABY", "이벤트_하티베베"}
+, 
+{jobtbl.JT_EVENT_GOBLINE_XMAS, "EVENT_GOBLINE_XMAS", "이벤트_고블린_x"}
+, 
+{jobtbl.JT_EVENT_MYST, "EVENT_MYST", "이벤트_미스트"}
+, 
+{jobtbl.JT_EVENT_SASQUATCH, "EVENT_SASQUATCH", "이벤트_사스콰치"}
+, 
+{jobtbl.JT_EVENT_GULLINBURSTI, "EVENT_GULLINBURSTI", "이벤트_글린부르스티"}
+, 
+{jobtbl.JT_SWORD_GUARDIAN, "SWORD_GUARDIAN", "소드_가디안"}
+, 
+{jobtbl.JT_BOW_GUARDIAN, "BOW_GUARDIAN", "보우_가디안"}
+, 
+{jobtbl.JT_SALAMANDER, "SALAMANDER", "살라만다"}
+, 
+{jobtbl.JT_IFRIT, "IFRIT", "이프리트"}
+, 
+{jobtbl.JT_KASA, "KASA", "카사"}
+, 
+{jobtbl.JT_G_SALAMANDER, "G_SALAMANDER", "살라만다_고스트"}
+, 
+{jobtbl.JT_G_KASA, "G_KASA", "카사_고스트"}
+, 
+{jobtbl.JT_MAGMARING, "MAGMARING", "마그마링"}
+, 
+{jobtbl.JT_IMP, "IMP", "임프"}
+, 
+{jobtbl.JT_KNOCKER, "KNOCKER", "노커"}
+, 
+{jobtbl.JT_BYORGUE, "BYORGUE", "뵤르그"}
+, 
+{jobtbl.JT_GOLDEN_SAVAGE, "GOLDEN_SAVAGE", "황금돼지"}
+, 
+{jobtbl.JT_G_SNAKE_, "G_SNAKE_", "이벤트_스네이크"}
+, 
+{jobtbl.JT_G_ANACONDAQ_, "G_ANACONDAQ_", "이벤트_아나콘다크"}
+, 
+{jobtbl.JT_G_SIDE_WINDER_, "G_SIDE_WINDER_", "이벤트_사이드와인더"}
+, 
+{jobtbl.JT_G_ISIS_, "G_ISIS_", "이벤트_이시스"}
+, 
+{jobtbl.JT_G_TREASURE_BOX_, "G_TREASURE_BOX_", "이벤트_보물상자"}
+, 
+{jobtbl.JT_DREAMMETAL, "DREAMMETAL", "드림메탈"}
+, 
+{jobtbl.JT_EVENT_PORING, "EVENT_PORING", "이벤트_포링"}
+, 
+{jobtbl.JT_EVENT_BAPHOMET, "EVENT_BAPHOMET", "이벤트_바포메트"}
+, 
+{jobtbl.JT_EVENT_OSIRIS, "EVENT_OSIRIS", "이벤트_오시리스"}
+, 
+{jobtbl.JT_EVENT_ORCHERO, "EVENT_ORCHERO", "이벤트_오크히어로"}
+, 
+{jobtbl.JT_EVENT_MOBSTER, "EVENT_MOBSTER", "이벤트_폭력배"}
+, 
+{jobtbl.JT_G_EM_ANGELING, "G_EM_ANGELING", "G_엔젤리움"}
+, 
+{jobtbl.JT_G_EM_DEVILING, "G_EM_DEVILING", "G_데빌리움"}
+, 
+{jobtbl.JT_E_MUKA, "E_MUKA", "E_무카"}
+, 
+{jobtbl.JT_E_POISONSPORE, "E_POISONSPORE", "E_포이즌스포아"}
+, 
+{jobtbl.JT_E_MAGNOLIA, "E_MAGNOLIA", "E_백련옥"}
+, 
+{jobtbl.JT_E_MARIN, "E_MARIN", "E_마린"}
+, 
+{jobtbl.JT_E_PLANKTON, "E_PLANKTON", "E_플랑크톤"}
+, 
+{jobtbl.JT_E_MANDRAGORA, "E_MANDRAGORA", "E_만드라고라"}
+, 
+{jobtbl.JT_E_COCO, "E_COCO", "E_코코"}
+, 
+{jobtbl.JT_E_CHOCO, "E_CHOCO", "E_쵸코"}
+, 
+{jobtbl.JT_E_MARTIN, "E_MARTIN", "E_마르틴"}
+, 
+{jobtbl.JT_E_SPRING_RABBIT, "E_SPRING_RABBIT", "E_스프링래빗"}
+, 
+{jobtbl.JT_ZOMBIE_SLAUGHTER, "ZOMBIE_SLAUGHTER", "좀비슬러터"}
+, 
+{jobtbl.JT_RAGGED_ZOMBIE, "RAGGED_ZOMBIE", "누더기좀비"}
+, 
+{jobtbl.JT_HELL_POODLE, "HELL_POODLE", "헬푸들"}
+, 
+{jobtbl.JT_BANSHEE, "BANSHEE", "밴시"}
+, 
+{jobtbl.JT_G_BANSHEE, "G_BANSHEE", "G_밴시"}
+, 
+{jobtbl.JT_FLAME_SKULL, "FLAME_SKULL", "플레임스컬"}
+, 
+{jobtbl.JT_NECROMANCER, "NECROMANCER", "네크로맨서"}
+, 
+{jobtbl.JT_FALLINGBISHOP, "FALLINGBISHOP", "폴링비숍"}
+, 
+{jobtbl.JT_BEELZEBUB_FLY, "BEELZEBUB_FLY", "헬플라이"}
+, 
+{jobtbl.JT_BEELZEBUB, "BEELZEBUB", "베르제브브"}
+, 
+{jobtbl.JT_BEELZEBUB_, "BEELZEBUB_", "베르제브브_"}
+, 
+{jobtbl.JT_TRISTAN_3RD, "TRISTAN_3RD", "트리스탄3세"}
+, 
+{jobtbl.JT_E_LORD_OF_DEATH, "E_LORD_OF_DEATH", "이벤트_죽은자의주인"}
+, 
+{jobtbl.JT_CRYSTAL_5, "CRYSTAL_5", "크리스탈5"}
+, 
+{jobtbl.JT_E_SHINING_PLANT, "E_SHINING_PLANT", "이벤트_빛나는풀"}
+, 
+{jobtbl.JT_ECLIPSE_P, "ECLIPSE_P", "이클립스_펫"}
+, 
+{jobtbl.JT_WOOD_GOBLIN, "WOOD_GOBLIN", "우드_고블린"}
+, 
+{jobtbl.JT_LES, "LES", "레스"}
+, 
+{jobtbl.JT_VAVAYAGA, "VAVAYAGA", "바바야가"}
+, 
+{jobtbl.JT_UZHAS, "UZHAS", "우자스"}
+, 
+{jobtbl.JT_MAVKA, "MAVKA", "마브카"}
+, 
+{jobtbl.JT_GOPINICH, "GOPINICH", "고피니츠"}
+, 
+{jobtbl.JT_G_MAVKA, "G_MAVKA", "마브카_고스트"}
+, 
+{jobtbl.JT_FREEZER_R, "FREEZER_R", "프리저_러시아"}
+, 
+{jobtbl.JT_GARM_BABY_R, "GARM_BABY_R", "하티베베_러시아"}
+, 
+{jobtbl.JT_GARM_R, "GARM_R", "하티_러시아"}
+, 
+{jobtbl.JT_GOPINICH_R, "GOPINICH_R", "고피니츠_러시아"}
+, 
+{jobtbl.JT_G_RANDGRIS_, "G_RANDGRIS_", "란드그리스_고스트_"}
+, 
+{jobtbl.JT_G_LOLI_RURI, "G_LOLI_RURI", "로리루리_고스트"}
+, 
+{jobtbl.JT_G_KNIGHT_OF_ABYSS, "G_KNIGHT_OF_ABYSS", "심연의기사_고스트"}
+, 
+{jobtbl.JT_POURING, "POURING", "푸어링"}
+, 
+{jobtbl.JT_EVENT_SEYREN, "EVENT_SEYREN", "인도네시아_세이렌"}
+, 
+{jobtbl.JT_EVENT_KATRINN, "EVENT_KATRINN", "인도네시아_카트린느"}
+, 
+{jobtbl.JT_EVENT_BAPHOMET_, "EVENT_BAPHOMET_", "인도네시아_바포메트"}
+, 
+{jobtbl.JT_EVENT_ZOMBIE, "EVENT_ZOMBIE", "말싱_좀비"}
+, 
+{jobtbl.JT_SWORD_GUARDIAN_, "SWORD_GUARDIAN_", "소드_가디안_"}
+, 
+{jobtbl.JT_BOW_GUARDIAN_, "BOW_GUARDIAN_", "보우_가디안_"}
+, 
+{jobtbl.JT_E_CONDOR, "E_CONDOR", "까치"}
+, 
+{jobtbl.JT_E_TREASURE1, "E_TREASURE1", "금제_보물상자"}
+, 
+{jobtbl.JT_E_TREASURE2, "E_TREASURE2", "은제_보물상자"}
+, 
+{jobtbl.JT_BOMBPORING, "BOMBPORING", "폭탄포링"}
+, 
+{jobtbl.JT_BARRICADE, "BARRICADE", "바리케이드"}
+, 
+{jobtbl.JT_BARRICADE_, "BARRICADE_", "바리케이드_"}
+, 
+{jobtbl.JT_S_EMPEL_1, "S_EMPEL_1", "서브엠펠_1"}
+, 
+{jobtbl.JT_S_EMPEL_2, "S_EMPEL_2", "서브엠펠_2"}
+, 
+{jobtbl.JT_OBJ_A, "OBJ_A", "식량창고A"}
+, 
+{jobtbl.JT_OBJ_B, "OBJ_B", "식량창고B"}
+, 
+{jobtbl.JT_OBJ_NEUTRAL, "OBJ_NEUTRAL", "중립깃발"}
+, 
+{jobtbl.JT_OBJ_FLAG_A, "OBJ_FLAG_A", "사자깃발A"}
+, 
+{jobtbl.JT_OBJ_FLAG_B, "OBJ_FLAG_B", "독수리깃발B"}
+, 
+{jobtbl.JT_OBJ_A2, "OBJ_A2", "크리스탈A"}
+, 
+{jobtbl.JT_OBJ_B2, "OBJ_B2", "크리스탈B"}
+, 
+{jobtbl.JT_MOROCC, "MOROCC", "모로크"}
+, 
+{jobtbl.JT_MOROCC_, "MOROCC_", "모로크_"}
+, 
+{jobtbl.JT_MOROCC_1, "MOROCC_1", "모로크의현신1"}
+, 
+{jobtbl.JT_MOROCC_2, "MOROCC_2", "모로크의현신2"}
+, 
+{jobtbl.JT_MOROCC_3, "MOROCC_3", "모로크의현신3"}
+, 
+{jobtbl.JT_MOROCC_4, "MOROCC_4", "모로크의현신4"}
+, 
+{jobtbl.JT_G_MOROCC_1, "G_MOROCC_1", "모로크의현신_1"}
+, 
+{jobtbl.JT_G_MOROCC_2, "G_MOROCC_2", "모로크의현신_2"}
+, 
+{jobtbl.JT_G_MOROCC_3, "G_MOROCC_3", "모로크의현신_3"}
+, 
+{jobtbl.JT_G_MOROCC_4, "G_MOROCC_4", "모로크의현신_4"}
+, 
+{jobtbl.JT_JAKK_H, "JAKK_H", "할로윈잭"}
+, 
+{jobtbl.JT_WHISPER_H, "WHISPER_H", "할로윈위스퍼"}
+, 
+{jobtbl.JT_DEVIRUCHI_H, "DEVIRUCHI_H", "할로윈데비루치"}
+, 
+{jobtbl.JT_BAPHOMET_I, "BAPHOMET_I", "인던_바포메트"}
+, 
+{jobtbl.JT_PIAMETTE, "PIAMETTE", "피아멧트"}
+, 
+{jobtbl.JT_WISH_MAIDEN, "WISH_MAIDEN", "위시메이든"}
+, 
+{jobtbl.JT_GARDEN_KEEPER, "GARDEN_KEEPER", "가든키퍼"}
+, 
+{jobtbl.JT_GARDEN_WATCHER, "GARDEN_WATCHER", "정원순찰자"}
+, 
+{jobtbl.JT_BLUE_FLOWER, "BLUE_FLOWER", "신급파란꽃"}
+, 
+{jobtbl.JT_RED_FLOWER, "RED_FLOWER", "신급붉은꽃"}
+, 
+{jobtbl.JT_YELL_FLOWER, "YELL_FLOWER", "신급노란꽃"}
+, 
+{jobtbl.JT_CONSTANT_, "CONSTANT_", "콘스탄트_"}
+, 
+{jobtbl.JT_TREASURE_BOX41, "TREASURE_BOX41", "보물상자41"}
+, 
+{jobtbl.JT_TREASURE_BOX42, "TREASURE_BOX42", "보물상자42"}
+, 
+{jobtbl.JT_TREASURE_BOX43, "TREASURE_BOX43", "보물상자43"}
+, 
+{jobtbl.JT_TREASURE_BOX44, "TREASURE_BOX44", "보물상자44"}
+, 
+{jobtbl.JT_TREASURE_BOX45, "TREASURE_BOX45", "보물상자45"}
+, 
+{jobtbl.JT_TREASURE_BOX46, "TREASURE_BOX46", "보물상자46"}
+, 
+{jobtbl.JT_TREASURE_BOX47, "TREASURE_BOX47", "보물상자47"}
+, 
+{jobtbl.JT_TREASURE_BOX48, "TREASURE_BOX48", "보물상자48"}
+, 
+{jobtbl.JT_TREASURE_BOX49, "TREASURE_BOX49", "보물상자49"}
+, 
+{jobtbl.JT_PIAMETTE_, "PIAMETTE_", "피아멧트_"}
+, 
+{jobtbl.JT_G_YGNIZEM, "G_YGNIZEM", "G_이그니젬"}
+, 
+{jobtbl.JT_B_S_GUARDIAN, "B_S_GUARDIAN", "전장_소드가디언"}
+, 
+{jobtbl.JT_B_B_GUARDIAN, "B_B_GUARDIAN", "전장_보우가디언"}
+, 
+{jobtbl.JT_CRYSTAL_6, "CRYSTAL_6", "크리스탈6"}
+, 
+{jobtbl.JT_CRYSTAL_7, "CRYSTAL_7", "크리스탈7"}
+, 
+{jobtbl.JT_CRYSTAL_8, "CRYSTAL_8", "크리스탈8"}
+, 
+{jobtbl.JT_CRYSTAL_9, "CRYSTAL_9", "크리스탈9"}
+, 
+{jobtbl.JT_TREASURE_BOX_I, "TREASURE_BOX_I", "공성이벤트_보물상자"}
+, 
+{jobtbl.JT_NAGHT_SIEGER, "NAGHT_SIEGER", "나흐트지거"}
+, 
+{jobtbl.JT_ENTWEIHEN, "ENTWEIHEN", "엔트바이엔_크놋헨"}
+, 
+{jobtbl.JT_G_ENTWEIHEN_R, "G_ENTWEIHEN_R", "엔트바이엔_R"}
+, 
+{jobtbl.JT_G_ENTWEIHEN_H, "G_ENTWEIHEN_H", "엔트바이엔_H"}
+, 
+{jobtbl.JT_G_ENTWEIHEN_M, "G_ENTWEIHEN_M", "엔트바이엔_M"}
+, 
+{jobtbl.JT_G_ENTWEIHEN_S, "G_ENTWEIHEN_S", "엔트바이엔_S"}
+, 
+{jobtbl.JT_ANTONIO_, "ANTONIO_", "안토니오_"}
+, 
+{jobtbl.JT_P_CHUNG_E, "P_CHUNG_E", "새해인형"}
+, 
+{jobtbl.JT_NIGHTMARE_T, "NIGHTMARE_T", "베트남_나이트메어"}
+, 
+{jobtbl.JT_M_WILD_ROSE, "M_WILD_ROSE", "용병_와일드로즈"}
+, 
+{jobtbl.JT_M_DOPPELGANGER, "M_DOPPELGANGER", "용병_도플갱어"}
+, 
+{jobtbl.JT_M_YGNIZEM, "M_YGNIZEM", "용병_이그니젬"}
+, 
+{jobtbl.JT_E_STROUF, "E_STROUF", "쏭크란_스트라우프"}
+, 
+{jobtbl.JT_E_MARC, "E_MARC", "쏭크란_마르크"}
+, 
+{jobtbl.JT_E_OBEAUNE, "E_OBEAUNE", "쏭크란_오본느"}
+, 
+{jobtbl.JT_E_VADON, "E_VADON", "쏭크란_바돈"}
+, 
+{jobtbl.JT_E_MARINA, "E_MARINA", "쏭크란_마리나"}
+, 
+{jobtbl.JT_E_PORING, "E_PORING", "쏭크란_포링"}
+, 
+{jobtbl.JT_BANSHEE_MASTER, "BANSHEE_MASTER", "밴시_마스터"}
+, 
+{jobtbl.JT_BEHOLDER_MASTER, "BEHOLDER_MASTER", "비홀더_마스터"}
+, 
+{jobtbl.JT_COBALT_MINERAL, "COBALT_MINERAL", "코발트_미네랄"}
+, 
+{jobtbl.JT_HEAVY_METALING, "HEAVY_METALING", "헤비_메탈링"}
+, 
+{jobtbl.JT_HELL_APOCALIPS, "HELL_APOCALIPS", "헬_아포칼립스"}
+, 
+{jobtbl.JT_ZAKUDAM, "ZAKUDAM", "자쿠담"}
+, 
+{jobtbl.JT_KUBLIN, "KUBLIN", "쿠블린"}
+, 
+{jobtbl.JT_I_HIGH_ORC, "I_HIGH_ORC", "인던_하이오크"}
+, 
+{jobtbl.JT_I_ORC_ARCHER, "I_ORC_ARCHER", "인던_오크아쳐"}
+, 
+{jobtbl.JT_I_ORC_SKELETON, "I_ORC_SKELETON", "인던_오크스켈레톤"}
+, 
+{jobtbl.JT_I_ORC_LADY, "I_ORC_LADY", "인던_오크레이디"}
+, 
+{jobtbl.JT_DANDELION, "DANDELION", "단델리온"}
+, 
+{jobtbl.JT_TATACHO, "TATACHO", "따따초"}
+, 
+{jobtbl.JT_CENTIPEDE, "CENTIPEDE", "센티페데"}
+, 
+{jobtbl.JT_NEPENTHES, "NEPENTHES", "네펜데스"}
+, 
+{jobtbl.JT_HILLSRION, "HILLSRION", "힐스리온"}
+, 
+{jobtbl.JT_HARDROCK_MOMMOTH, "HARDROCK_MOMMOTH", "하드락_맘모스"}
+, 
+{jobtbl.JT_TENDRILRION, "TENDRILRION", "텐드릴리온"}
+, 
+{jobtbl.JT_CORNUS, "CORNUS", "코르누스"}
+, 
+{jobtbl.JT_NAGA, "NAGA", "나가"}
+, 
+{jobtbl.JT_LUCIOLA_VESPA, "LUCIOLA_VESPA", "루시올라_베스파"}
+, 
+{jobtbl.JT_PINGUICULA, "PINGUICULA", "핀귀큘라"}
+, 
+{jobtbl.JT_BACSOJIN_T, "BACSOJIN_T", "대만백소진"}
+, 
+{jobtbl.JT_G_TATACHO, "G_TATACHO", "따따초_고스트"}
+, 
+{jobtbl.JT_G_HILLSRION, "G_HILLSRION", "힐스리온_고스트"}
+, 
+{jobtbl.JT_CENTIPEDE_LARVA, "CENTIPEDE_LARVA", "센티페데_유충"}
+, 
+{jobtbl.JT_M_GAMEMASTER, "M_GAMEMASTER", "남자운영자"}
+, 
+{jobtbl.JT_F_GAMEMASTER, "F_GAMEMASTER", "여자운영자"}
+, 
+{jobtbl.JT_T_SPRING_RABBIT, "T_SPRING_RABBIT", "대만중추절_옥토끼"}
+, 
+{jobtbl.JT_T_BACSOJIN, "T_BACSOJIN", "대만중추절_백소진"}
+, 
+{jobtbl.JT_T_WICKED_NYMPH, "T_WICKED_NYMPH", "대만중추절_요선녀"}
+, 
+{jobtbl.JT_T_PLASMA_B, "T_PLASMA_B", "대만중추절_플라즈마B"}
+, 
+{jobtbl.JT_T_PLASMA_P, "T_PLASMA_P", "대만중추절_플라즈마P"}
+, 
+{jobtbl.JT_T_PLASMA_R, "T_PLASMA_R", "대만중추절_플라즈마R"}
+, 
+{jobtbl.JT_WOOMAWANG, "WOOMAWANG", "우마왕"}
+, 
+{jobtbl.JT_WOOMAWANG_, "WOOMAWANG_", "우마왕_"}
+, 
+{jobtbl.JT_G_MAJORUROS, "G_MAJORUROS", "소머리"}
+, 
+{jobtbl.JT_E_GHOUL, "E_GHOUL", "할로윈_구울"}
+, 
+{jobtbl.JT_E_ZOMBIE, "E_ZOMBIE", "할로윈_좀비"}
+, 
+{jobtbl.JT_DRACO, "DRACO", "드라코"}
+, 
+{jobtbl.JT_DRACO_EGG, "DRACO_EGG", "드라코의_알"}
+, 
+{jobtbl.JT_PINGUICULA_D, "PINGUICULA_D", "핀귀큘라_다크"}
+, 
+{jobtbl.JT_AQUA_ELEMENTAL, "AQUA_ELEMENTAL", "아쿠아_엘레멘탈"}
+, 
+{jobtbl.JT_RATA, "RATA", "라타"}
+, 
+{jobtbl.JT_DUNEYRR, "DUNEYRR", "두네이르"}
+, 
+{jobtbl.JT_ANCIENT_TREE, "ANCIENT_TREE", "에인션트_트리"}
+, 
+{jobtbl.JT_RHYNCHO, "RHYNCHO", "링코"}
+, 
+{jobtbl.JT_PHYLLA, "PHYLLA", "필라"}
+, 
+{jobtbl.JT_S_NYDHOG, "S_NYDHOG", "니드호그의_그림자"}
+, 
+{jobtbl.JT_DARK_SHADOW, "DARK_SHADOW", "다크_쉐도우"}
+, 
+{jobtbl.JT_BRADIUM_GOLEM, "BRADIUM_GOLEM", "브라디움_골렘"}
+, 
+{jobtbl.JT_MYSTCASE_EVENT, "MYSTCASE_EVENT", "미스트케이스_이벤트"}
+, 
+{jobtbl.JT_DANDELION_, "DANDELION_", "단델리온_"}
+, 
+{jobtbl.JT_G_DARK_SHADOW, "G_DARK_SHADOW", "다크_쉐도우_고스트"}
+, 
+{jobtbl.JT_E_MINOROUS, "E_MINOROUS", "마이너우로스_미국"}
+, 
+{jobtbl.JT_E_MINOROUS_, "E_MINOROUS_", "마이너우로스_이벤트"}
+, 
+{jobtbl.JT_HIDEN_PRIEST, "HIDEN_PRIEST", "잠적한신관"}
+, 
+{jobtbl.JT_DANDELION_H, "DANDELION_H", "단델리온간부"}
+, 
+{jobtbl.JT_GUARDIAN_FOREST, "GUARDIAN_FOREST", "숲의수호자"}
+, 
+{jobtbl.JT_GOLDEN_TULIP, "GOLDEN_TULIP", "황금튤립"}
+, 
+{jobtbl.JT_M_DESERT_WOLF_B, "M_DESERT_WOLF_B", "새끼데저트울프용병"}
+, 
+{jobtbl.JT_NIHILITY_ZEM, "NIHILITY_ZEM", "허무의돌"}
+, 
+{jobtbl.JT_VALKYRIE_N, "VALKYRIE_N", "발키리의악몽"}
+, 
+{jobtbl.JT_VALKYRIE_A, "VALKYRIE_A", "용병발키리_A"}
+, 
+{jobtbl.JT_VALKYRIE_B, "VALKYRIE_B", "용병발키리_B"}
+, 
+{jobtbl.JT_EXECUTIONER_R, "EXECUTIONER_R", "엑서큐서너_R"}
+, 
+{jobtbl.JT_TIRFING_R, "TIRFING_R", "오우거투스_R"}
+, 
+{jobtbl.JT_MYSTELTAINN_R, "MYSTELTAINN_R", "미스틸테인_R"}
+, 
+{jobtbl.JT_SILVERSNIPER, "SILVERSNIPER", "실버스나이퍼"}
+, 
+{jobtbl.JT_MAGICDECOY_FIRE, "MAGICDECOY_FIRE", "매직디코이_화"}
+, 
+{jobtbl.JT_MAGICDECOY_WATER, "MAGICDECOY_WATER", "매직디코이_수"}
+, 
+{jobtbl.JT_MAGICDECOY_EARTH, "MAGICDECOY_EARTH", "매직디코이_지"}
+, 
+{jobtbl.JT_MAGICDECOY_WIND, "MAGICDECOY_WIND", "매직디코이_풍"}
+, 
+{jobtbl.JT_W_NAGA, "W_NAGA", "워록_나가"}
+, 
+{jobtbl.JT_W_PINGUICULA_D, "W_PINGUICULA_D", "워록_핀귀큘라다크"}
+, 
+{jobtbl.JT_W_BRADIUM_GOLEM, "W_BRADIUM_GOLEM", "워록_브라디움골렘"}
+, 
+{jobtbl.JT_W_AQUA_ELEMENTAL, "W_AQUA_ELEMENTAL", "워록_아쿠아엘레멘탈"}
+, 
+{jobtbl.JT_E_BAPHOMET, "E_BAPHOMET", "종잇장_바포메트"}
+, 
+{jobtbl.JT_E_DARKLORD, "E_DARKLORD", "종잇장_다크로드"}
+, 
+{jobtbl.JT_NC_DIMIK, "NC_DIMIK", "미케닉_디미크"}
+, 
+{jobtbl.JT_E_BATHORY, "E_BATHORY", "이벤트_바소리_"}
+, 
+{jobtbl.JT_E_INCUBUS, "E_INCUBUS", "이벤트_인큐버스"}
+, 
+{jobtbl.JT_E_ZHERLTHSH, "E_ZHERLTHSH", "이벤트_지르타스"}
+, 
+{jobtbl.JT_E_CRAMP, "E_CRAMP", "이벤트_클램프"}
+, 
+{jobtbl.JT_M_MIMIC, "M_MIMIC", "용병_미믹"}
+, 
+{jobtbl.JT_M_DISGUISE, "M_DISGUISE", "용병_디스가이즈"}
+, 
+{jobtbl.JT_M_ALICE, "M_ALICE", "용병_앨리스"}
+, 
+{jobtbl.JT_E_STAPO, "E_STAPO", "이벤트_스태포"}
+, 
+{jobtbl.JT_E_POPORING, "E_POPORING", "이벤트_포포링"}
+, 
+{jobtbl.JT_E_DROPS, "E_DROPS", "이벤트_드롭프스"}
+, 
+{jobtbl.JT_E_MAGMARING, "E_MAGMARING", "이벤트_마그마링"}
+, 
+{jobtbl.JT_E_METALING, "E_METALING", "이벤트_메탈링"}
+, 
+{jobtbl.JT_E_ANOPHELES, "E_ANOPHELES", "이벤트_위레스보스"}
+, 
+{jobtbl.JT_E_ANOPHELES_, "E_ANOPHELES_", "이벤트_위레스졸개"}
+, 
+{jobtbl.JT_BOITATA, "BOITATA", "보이타타"}
+, 
+{jobtbl.JT_IARA, "IARA", "이아라"}
+, 
+{jobtbl.JT_PIRANHA, "PIRANHA", "피라니아"}
+, 
+{jobtbl.JT_HEADLESS_MULE, "HEADLESS_MULE", "머리없는_말"}
+, 
+{jobtbl.JT_JAGUAR, "JAGUAR", "재규어"}
+, 
+{jobtbl.JT_TOUCAN, "TOUCAN", "투칸"}
+, 
+{jobtbl.JT_CURUPIRA, "CURUPIRA", "쿠루피라"}
+, 
+{jobtbl.JT_E_VADON_X, "E_VADON_X", "바돈X"}
+, 
+{jobtbl.JT_S_WIND_GHOST, "S_WIND_GHOST", "쉐체_윈드고스트"}
+, 
+{jobtbl.JT_S_SKOGUL, "S_SKOGUL", "쉐체_스코글"}
+, 
+{jobtbl.JT_S_SUCCUBUS, "S_SUCCUBUS", "쉐체_서큐버스"}
+, 
+{jobtbl.JT_CRYSTAL_H, "CRYSTAL_H", "크리스탈_고레벨"}
+, 
+{jobtbl.JT_CRYSTAL_L, "CRYSTAL_L", "크리스탈_저레벨"}
+, 
+{jobtbl.JT_E_HYDRA, "E_HYDRA", "이벤트_히드라"}
+, 
+{jobtbl.JT_G_PIRANHA, "G_PIRANHA", "피라니아_고스트"}
+, 
+{jobtbl.JT_HORN_SCARABA, "HORN_SCARABA", "외뿔스카라바"}
+, 
+{jobtbl.JT_HORN_SCARABA2, "HORN_SCARABA2", "쌍뿔스카라바"}
+, 
+{jobtbl.JT_ANTLER_SCARABA, "ANTLER_SCARABA", "사슴뿔스카라바"}
+, 
+{jobtbl.JT_RAKE_SCARABA, "RAKE_SCARABA", "갈퀴뿔스카라바"}
+, 
+{jobtbl.JT_QUEEN_SCARABA, "QUEEN_SCARABA", "여왕스카라바"}
+, 
+{jobtbl.JT_HORN_SCARABA_EGG, "HORN_SCARABA_EGG", "외뿔스카라바_알"}
+, 
+{jobtbl.JT_HORN_SCARABA2_EGG, "HORN_SCARABA2_EGG", "쌍뿔스카라바_알"}
+, 
+{jobtbl.JT_ANTLER_SCARABA_EGG, "ANTLER_SCARABA_EGG", "사슴뿔스카라바_알"}
+, 
+{jobtbl.JT_RAKE_SCARABA_EGG, "RAKE_SCARABA_EGG", "갈퀴뿔스카라바_알"}
+, 
+{jobtbl.JT_DOLOMEDES, "DOLOMEDES", "돌로메데스"}
+, 
+{jobtbl.JT_BOTARING, "BOTARING", "보따링"}
+, 
+{jobtbl.JT_E_ORK_HERO2, "E_ORK_HERO2", "이벤트_오크히어로2"}
+, 
+{jobtbl.JT_E_EDDGA, "E_EDDGA", "이벤트_에드가"}
+, 
+{jobtbl.JT_E_OSIRIS2, "E_OSIRIS2", "이벤트_오시리스2"}
+, 
+{jobtbl.JT_E_DRACULA, "E_DRACULA", "이벤트_드라큘라"}
+, 
+{jobtbl.JT_E_DOPPELGANGER, "E_DOPPELGANGER", "이벤트_도플갱어"}
+, 
+{jobtbl.JT_E_MISTRESS, "E_MISTRESS", "이벤트_미스트레스"}
+, 
+{jobtbl.JT_E_BAPHOMET2, "E_BAPHOMET2", "이벤트_바포메트2"}
+, 
+{jobtbl.JT_E_LORD_OF_DEATH2, "E_LORD_OF_DEATH2", "이벤트_죽은자의주인2"}
+, 
+{jobtbl.JT_E_DARK_LORD, "E_DARK_LORD", "이벤트_다크로드"}
+, 
+{jobtbl.JT_E_KTULLANUX, "E_KTULLANUX", "이벤트_크툴라낙스"}
+, 
+{jobtbl.JT_E_DARK_SNAKE_LORD, "E_DARK_SNAKE_LORD", "이벤트_흑사왕"}
+, 
+{jobtbl.JT_E_TURTLE_GENERAL, "E_TURTLE_GENERAL", "이벤트_터틀제네럴"}
+, 
+{jobtbl.JT_E_APOCALIPS_H, "E_APOCALIPS_H", "이벤트_아포칼립스_H"}
+, 
+{jobtbl.JT_E_FALLINGBISHOP, "E_FALLINGBISHOP", "이벤트_타락한대신관히밤"}
+, 
+{jobtbl.JT_E_GLOOMUNDERNIGHT, "E_GLOOMUNDERNIGHT", "이벤트_그룸언더나이트"}
+, 
+{jobtbl.JT_E_RANDGRIS, "E_RANDGRIS", "이벤트_란드그리스"}
+, 
+{jobtbl.JT_E_IFRIT, "E_IFRIT", "이벤트_이프리트"}
+, 
+{jobtbl.JT_E_B_HARWORD, "E_B_HARWORD", "이벤트_보스_하워드"}
+, 
+{jobtbl.JT_E_B_SEYREN, "E_B_SEYREN", "이벤트_보스_세이렌"}
+, 
+{jobtbl.JT_E_B_EREMES, "E_B_EREMES", "이벤트_보스_에레메스"}
+, 
+{jobtbl.JT_4_WHITETIGER, "4_WHITETIGER", nill}
+, 
+{jobtbl.JT_EL_AGNI_S, "EL_AGNI_S", "아그니_소형"}
+, 
+{jobtbl.JT_EL_AGNI_M, "EL_AGNI_M", "아그니_중형"}
+, 
+{jobtbl.JT_EL_AGNI_L, "EL_AGNI_L", "아그니_대형"}
+, 
+{jobtbl.JT_EL_AQUA_S, "EL_AQUA_S", "아쿠아_소형"}
+, 
+{jobtbl.JT_EL_AQUA_M, "EL_AQUA_M", "아쿠아_중형"}
+, 
+{jobtbl.JT_EL_AQUA_L, "EL_AQUA_L", "아쿠아_대형"}
+, 
+{jobtbl.JT_EL_VENTUS_S, "EL_VENTUS_S", "벤투스_소형"}
+, 
+{jobtbl.JT_EL_VENTUS_M, "EL_VENTUS_M", "벤투스_중형"}
+, 
+{jobtbl.JT_EL_VENTUS_L, "EL_VENTUS_L", "벤투스_대형"}
+, 
+{jobtbl.JT_EL_TERA_S, "EL_TERA_S", "테라_소형"}
+, 
+{jobtbl.JT_EL_TERA_M, "EL_TERA_M", "테라_중형"}
+, 
+{jobtbl.JT_EL_TERA_L, "EL_TERA_L", "테라_대형"}
+, 
+{jobtbl.JT_4_VENDING_MACHINE, "4_VENDING_MACHINE", nil}
+, 
+{jobtbl.JT_M_ANOPHELES, "M_ANOPHELES", "소환된_위레스"}
+, 
+{jobtbl.JT_M_HORNET, "M_HORNET", "소환된_호넷"}
+, 
+{jobtbl.JT_M_HORNET2, "M_HORNET2", "소환된_호넷Ⅱ"}
+, 
+{jobtbl.JT_M_LUCIOLA_VESPA, "M_LUCIOLA_VESPA", "소환된_루시올라_베스파"}
+, 
+{jobtbl.JT_M_LUCIOLA_VESPA2, "M_LUCIOLA_VESPA2", "소환된_루시올라_베스파Ⅱ"}
+, 
+{jobtbl.JT_4_MISTY, "4_MISTY", nil}
+, 
+{jobtbl.JT_4_NECORING, "4_NECORING", nil}
+, 
+{jobtbl.JT_LOST_DRAGON, "LOST_DRAGON", "방황하는_용"}
+, 
+{jobtbl.JT_POM_SPIDER, "POM_SPIDER", "폼_스파이더"}
+, 
+{jobtbl.JT_ANGRA_MANTIS, "ANGRA_MANTIS", "앙그라_맨티스"}
+, 
+{jobtbl.JT_PARUS, "PARUS", "파루스"}
+, 
+{jobtbl.JT_CREEPER, "CREEPER", "덩굴"}
+, 
+{jobtbl.JT_LITTLE_FATUM, "LITTLE_FATUM", "꼬마_파툼"}
+, 
+{jobtbl.JT_MIMING, "MIMING", "미밍"}
+, 
+{jobtbl.JT_NYDHOG_MEMORY1_1, "NYDHOG_MEMORY1_1", "수호자의기억1_1"}
+, 
+{jobtbl.JT_NYDHOG_MEMORY1_2, "NYDHOG_MEMORY1_2", "수호자의기억1_2"}
+, 
+{jobtbl.JT_NYDHOG_MEMORY2_1, "NYDHOG_MEMORY2_1", "수호자의기억2_1"}
+, 
+{jobtbl.JT_NYDHOG_MEMORY2_2, "NYDHOG_MEMORY2_2", "수호자의기억2_2"}
+, 
+{jobtbl.JT_NYDHOG_MEMORY3_1, "NYDHOG_MEMORY3_1", "수호자의기억3_1"}
+, 
+{jobtbl.JT_NYDHOG_MEMORY3_2, "NYDHOG_MEMORY3_2", "수호자의기억3_2"}
+, 
+{jobtbl.JT_4_ELEPHANT, "4_ELEPHANT", nil}
+, 
+{jobtbl.JT_4_F_NYDHOG, "4_F_NYDHOG", nil}
+, 
+{jobtbl.JT_4_F_NYDHOG2, "4_F_NYDHOG2", nil}
+, 
+{jobtbl.JT_4_M_ROKI2, "4_M_ROKI2", nil}
+, 
+{jobtbl.JT_4_M_DOGTRAVELER, "4_M_DOGTRAVELER", nil}
+, 
+{jobtbl.JT_4_M_DOGTRAVELER2, "4_M_DOGTRAVELER2", nil}
+, 
+{jobtbl.JT_4_F_DOGTRAVELER, "4_F_DOGTRAVELER", nil}
+, 
+{jobtbl.JT_4_M_RAFLE_GR, "4_M_RAFLE_GR", nil}
+, 
+{jobtbl.JT_4_M_RAFLE_OLD, "4_M_RAFLE_OLD", nil}
+, 
+{jobtbl.JT_4_F_RAFLE_PK, "4_F_RAFLE_PK", nil}
+, 
+{jobtbl.JT_4_M_LYINGDOG, "4_M_LYINGDOG", nil}
+, 
+{jobtbl.JT_4_F_MORAFINE1, "4_F_MORAFINE1", nil}
+, 
+{jobtbl.JT_4_F_MORAFINE2, "4_F_MORAFINE2", nil}
+, 
+{jobtbl.JT_4_M_RAFLE_OR, "4_M_RAFLE_OR", nil}
+, 
+{jobtbl.JT_4_F_RAFLE_YE, "4_F_RAFLE_YE", nil}
+, 
+{jobtbl.JT_4_M_RAFLE_VI, "4_M_RAFLE_VI", nil}
+, 
+{jobtbl.JT_4_F_RAFLE_VI, "4_F_RAFLE_VI", nil}
+, 
+{jobtbl.JT_G_ANTLER_SCARABA, "G_ANTLER_SCARABA", "사슴뿔_스카라바_고스트"}
+, 
+{jobtbl.JT_G_RAKE_SCARABA, "G_RAKE_SCARABA", "갈퀴뿔_스카라바_고스트"}
+, 
+{jobtbl.JT_4_M_ARDHA, "4_M_ARDHA", nil}
+, 
+{jobtbl.JT_G_S_NYDHOG, "G_S_NYDHOG", "용의그림자"}
+, 
+{jobtbl.JT_4_CREEPER, "4_CREEPER", nil}
+, 
+{jobtbl.JT_E_WHITE_PLANT, "E_WHITE_PLANT", "이벤트_하얀풀"}
+, 
+{jobtbl.JT_E_BLUE_PLANT, "E_BLUE_PLANT", "이벤트_파란풀"}
+, 
+{jobtbl.JT_E_SAVAGE_BABE, "E_SAVAGE_BABE", "이벤트_세비지베베"}
+, 
+{jobtbl.JT_JP_RUFAKU, "JP_RUFAKU", nil}
+, 
+{jobtbl.JT_JP_SUPIKA, "JP_SUPIKA", nil}
+, 
+{jobtbl.JT_JP_SABIKU, "JP_SABIKU", nil}
+, 
+{jobtbl.JT_JP_ARUGORU, "JP_ARUGORU", nil}
+, 
+{jobtbl.JT_JP_ARUNA, "JP_ARUNA", nil}
+, 
+{jobtbl.JT_JP_AIRI, "JP_AIRI", nil}
+, 
+{jobtbl.JT_WATERMELON, "WATERMELON", "수박"}
+, 
+{jobtbl.JT_4_M_DEWOLDMAN, "4_M_DEWOLDMAN", nil}
+, 
+{jobtbl.JT_4_M_DEWOLDWOMAN, "4_M_DEWOLDWOMAN", nil}
+, 
+{jobtbl.JT_4_M_DEWMAN, "4_M_DEWMAN", nil}
+, 
+{jobtbl.JT_4_M_DEWWOMAN, "4_M_DEWWOMAN", nil}
+, 
+{jobtbl.JT_4_M_DEWBOY, "4_M_DEWBOY", nil}
+, 
+{jobtbl.JT_4_M_DEWGIRL, "4_M_DEWGIRL", nil}
+, 
+{jobtbl.JT_4_M_DEWZATICHIEF, "4_M_DEWZATICHIEF", nil}
+, 
+{jobtbl.JT_4_M_DEWZATIMAN, "4_M_DEWZATIMAN", nil}
+, 
+{jobtbl.JT_ALNOLDI, "ALNOLDI", "라플레시아알놀디"}
+, 
+{jobtbl.JT_COMODO, "COMODO", "코모도"}
+, 
+{jobtbl.JT_CENDRAWASIH, "CENDRAWASIH", "센드라와시"}
+, 
+{jobtbl.JT_BANASPATY, "BANASPATY", "바나스파티"}
+, 
+{jobtbl.JT_BUTOIJO, "BUTOIJO", "부토이조"}
+, 
+{jobtbl.JT_LEAK, "LEAK", "릭"}
+, 
+{jobtbl.JT_G_BANASPATY, "G_BANASPATY", "바나스파티_고스트"}
+, 
+{jobtbl.JT_4_M_ALCHE_E, "4_M_ALCHE_E", nil}
+, 
+{jobtbl.JT_S_HORNET, "S_HORNET", "소환_호넷"}
+, 
+{jobtbl.JT_S_GIANT_HORNET, "S_GIANT_HORNET", "소환_자이언트호넷"}
+, 
+{jobtbl.JT_S_LUCIOLA_VESPA, "S_LUCIOLA_VESPA", "소환_루시올라베스파"}
+, 
+{jobtbl.JT_I_HORN_SCARABA, "I_HORN_SCARABA", "I_외뿔스카라바"}
+, 
+{jobtbl.JT_I_HORN_SCARABA2, "I_HORN_SCARABA2", "I_쌍뿔스카라바"}
+, 
+{jobtbl.JT_I_ANTLER_SCARABA, "I_ANTLER_SCARABA", "I_사슴뿔스카라바"}
+, 
+{jobtbl.JT_I_RAKE_SCARABA, "I_RAKE_SCARABA", "I_갈퀴뿔스카라바"}
+, 
+{jobtbl.JT_I_QUEEN_SCARABA, "I_QUEEN_SCARABA", "I_여왕스카라바"}
+, 
+{jobtbl.JT_I_HORN_SCARABA_EGG, "I_HORN_SCARABA_EGG", "I_외뿔스카라바_알"}
+, 
+{jobtbl.JT_I_HORN_SCARABA2_EGG, "I_HORN_SCARABA2_EGG", "I_쌍뿔스카라바_알"}
+, 
+{jobtbl.JT_I_ANTLER_SCARABA_EGG, "I_ANTLER_SCARABA_EGG", "I_사슴뿔스카라바_알"}
+, 
+{jobtbl.JT_I_RAKE_SCARABA_EGG, "I_RAKE_SCARABA_EGG", "I_갈퀴뿔스카라바_알"}
+, 
+{jobtbl.JT_I_G_ANTLER_SCARABA, "I_G_ANTLER_SCARABA", "I_사슴뿔스카라바_고스트"}
+, 
+{jobtbl.JT_I_G_RAKE_SCARABA, "I_G_RAKE_SCARABA", "I_갈퀴뿔스카라바_고스트"}
+, 
+{jobtbl.JT_I_G_HORN_SCARABA, "I_G_HORN_SCARABA", "I_외뿔스카라바_고스트"}
+, 
+{jobtbl.JT_I_G_HORN_SCARABA2, "I_G_HORN_SCARABA2", "I_쌍뿔스카라바_고스트"}
+, 
+{jobtbl.JT_4_MASK_SMOKEY, "4_MASK_SMOKEY", nil}
+, 
+{jobtbl.JT_4_CAT_SAILOR1, "4_CAT_SAILOR1", nil}
+, 
+{jobtbl.JT_4_CAT_SAILOR2, "4_CAT_SAILOR2", nil}
+, 
+{jobtbl.JT_4_CAT_SAILOR3, "4_CAT_SAILOR3", nil}
+, 
+{jobtbl.JT_4_CAT_SAILOR4, "4_CAT_SAILOR4", nil}
+, 
+{jobtbl.JT_4_CAT_CHEF, "4_CAT_CHEF", nil}
+, 
+{jobtbl.JT_4_CAT_MERMASTER, "4_CAT_MERMASTER", nil}
+, 
+{jobtbl.JT_4_CRACK, "4_CRACK", nil}
+, 
+{jobtbl.JT_4_ASTER, "4_ASTER", nil}
+, 
+{jobtbl.JT_4_F_STARFISHGIRL, "4_F_STARFISHGIRL", nil}
+, 
+{jobtbl.JT_4_CAT_DOWN, "4_CAT_DOWN", nil}
+, 
+{jobtbl.JT_4_CAT_REST, "4_CAT_REST", nil}
+, 
+{jobtbl.JT_4_CAT_3COLOR, "4_CAT_3COLOR", nil}
+, 
+{jobtbl.JT_4_CAT_ADMIRAL, "4_CAT_ADMIRAL", nil}
+, 
+{jobtbl.JT_4_SOIL, "4_SOIL", nil}
+, 
+{jobtbl.JT_4_F_ALCHE_A, "4_F_ALCHE_A", nil}
+, 
+{jobtbl.JT_4_CAT_ADV1, "4_CAT_ADV1", nil}
+, 
+{jobtbl.JT_4_CAT_ADV2, "4_CAT_ADV2", nil}
+, 
+{jobtbl.JT_4_CAT_SAILOR5, "4_CAT_SAILOR5", nil}
+, 
+{jobtbl.JT_2_DROP_MACHINE, "2_DROP_MACHINE", nil}
+, 
+{jobtbl.JT_2_SLOT_MACHINE, "2_SLOT_MACHINE", nil}
+, 
+{jobtbl.JT_2_VENDING_MACHINE1, "2_VENDING_MACHINE1", nil}
+, 
+{jobtbl.JT_MD_VADON, "MD_VADON", "MD_바돈"}
+, 
+{jobtbl.JT_MD_MARSE, "MD_MARSE", "MD_마르스"}
+, 
+{jobtbl.JT_MD_CRAB, "MD_CRAB", "MD_게"}
+, 
+{jobtbl.JT_MD_CORNUTUS, "MD_CORNUTUS", "MD_커너투스"}
+, 
+{jobtbl.JT_MD_SHELLFISH, "MD_SHELLFISH", "MD_조개"}
+, 
+{jobtbl.JT_MD_KUKRE, "MD_KUKRE", "MD_쿠크레"}
+, 
+{jobtbl.JT_MD_STROUF, "MD_STROUF", "MD_스트라우프"}
+, 
+{jobtbl.JT_MD_SWORD_FISH, "MD_SWORD_FISH", "MD_소드피쉬"}
+, 
+{jobtbl.JT_MD_MARC, "MD_MARC", "MD_마르크"}
+, 
+{jobtbl.JT_MD_ANOLIAN, "MD_ANOLIAN", "MD_아놀리안"}
+, 
+{jobtbl.JT_MD_OBEAUNE, "MD_OBEAUNE", "MD_오본느"}
+, 
+{jobtbl.JT_MD_KAPHA, "MD_KAPHA", "MD_캇파"}
+, 
+{jobtbl.JT_COELACANTH_N_E, "COELACANTH_N_E", "실러캔스_노말_초보"}
+, 
+{jobtbl.JT_COELACANTH_N_A, "COELACANTH_N_A", "실러캔스_노말_물리"}
+, 
+{jobtbl.JT_COELACANTH_N_M, "COELACANTH_N_M", "실러캔스_노말_마법"}
+, 
+{jobtbl.JT_COELACANTH_H_M, "COELACANTH_H_M", "실러캔스_하드_마법"}
+, 
+{jobtbl.JT_COELACANTH_H_A, "COELACANTH_H_A", "실러캔스_하드_물리"}
+, 
+{jobtbl.JT_MD_SEAWEED, "MD_SEAWEED", "MD_해초"}
+, 
+{jobtbl.JT_MD_OCTOPUS, "MD_OCTOPUS", "MD_문어"}
+, 
+{jobtbl.JT_MD_OCTOPUS_LEG, "MD_OCTOPUS_LEG", "MD_문어다리"}
+, 
+{jobtbl.JT_MD_GIANT_OCTOPUS, "MD_GIANT_OCTOPUS", "MD_대왕문어"}
+, 
+{jobtbl.JT_MD_G_KUKRE, "MD_G_KUKRE", "MD_G_쿠크레"}
+, 
+{jobtbl.JT_MD_G_STROUF, "MD_G_STROUF", "MD_G_스트라우프"}
+, 
+{jobtbl.JT_RED_ERUMA, "RED_ERUMA", "빨강_에루마"}
+, 
+{jobtbl.JT_KING_DRAMOH, "KING_DRAMOH", "킹_드라모"}
+, 
+{jobtbl.JT_SIORAVA, "SIORAVA", "시오라바"}
+, 
+{jobtbl.JT_J_TAINI, "J_TAINI", "J_타이니"}
+, 
+{jobtbl.JT_MOB_TOMB, "MOB_TOMB", nil}
+, 
+{jobtbl.JT_SROPHO, "SROPHO", "스로포"}
+, 
+{jobtbl.JT_KRAKEN, "KRAKEN", "크라켄"}
+, 
+{jobtbl.JT_POT_DOFLE, "POT_DOFLE", "도프레항아리"}
+, 
+{jobtbl.JT_SEDORA, "SEDORA", "세도라"}
+, 
+{jobtbl.JT_TACNU, "TACNU", "타크누"}
+, 
+{jobtbl.JT_KRAKEN_LEG, "KRAKEN_LEG", "크라켄다리"}
+, 
+{jobtbl.JT_RACARCH, "RACARCH", "라카르크"}
+, 
+{jobtbl.JT_WILD_RIDER, "WILD_RIDER", "와일드라이더"}
+, 
+{jobtbl.JT_E_THIEF_BUG, "E_THIEF_BUG", "이벤트_도둑벌레"}
+, 
+{jobtbl.JT_XMAS_LUNATIC, "XMAS_LUNATIC", "크리스마스_눈토끼"}
+, 
+{jobtbl.JT_E_TEDDY_BEAR, "E_TEDDY_BEAR", "이벤트_곰인형"}
+, 
+{jobtbl.JT_E_KNIGHT_OF_WINDSTORM, "E_KNIGHT_OF_WINDSTORM", "이벤트_폭풍의기사"}
+, 
+{jobtbl.JT_M_WANDER_MAN, "M_WANDER_MAN", "용병_배회하는자"}
+, 
+{jobtbl.JT_M_WICKED_NYMPH, "M_WICKED_NYMPH", "용병_요선녀"}
+, 
+{jobtbl.JT_M_KASA, "M_KASA", "용병_카사"}
+, 
+{jobtbl.JT_M_SALAMANDER, "M_SALAMANDER", "용병_살라만다"}
+, 
+{jobtbl.JT_M_TEDDY_BEAR, "M_TEDDY_BEAR", "용병_곰인형"}
+, 
+{jobtbl.JT_4_MYSTCASE, "4_MYSTCASE", nil}
+, 
+{jobtbl.JT_4_M_SIT_NOVICE, "4_M_SIT_NOVICE", nil}
+, 
+{jobtbl.JT_4_OCTOPUS_LEG, "4_OCTOPUS_LEG", nil}
+, 
+{jobtbl.JT_E_OCTOPUS_LEG, "E_OCTOPUS_LEG", "이벤트_문어다리"}
+, 
+{jobtbl.JT_E_GIANT_OCTOPUS, "E_GIANT_OCTOPUS", "이벤트_대왕문어"}
+, 
+{jobtbl.JT_E_QUVE, "E_QUVE", "이벤트_큐브"}
+, 
+{jobtbl.JT_RANDEL, "RANDEL", "랜달"}
+, 
+{jobtbl.JT_FLAMEL, "FLAMEL", "플라멜"}
+, 
+{jobtbl.JT_CELIA, "CELIA", "실리아"}
+, 
+{jobtbl.JT_CHEN, "CHEN", "첸"}
+, 
+{jobtbl.JT_GERTIE, "GERTIE", "거티"}
+, 
+{jobtbl.JT_ALPHOCCIO, "ALPHOCCIO", "아르보치오"}
+, 
+{jobtbl.JT_TRENTINI, "TRENTINI", "트렌티니"}
+, 
+{jobtbl.JT_G_RANDEL, "G_RANDEL", "고스트_랜달"}
+, 
+{jobtbl.JT_G_FLAMEL, "G_FLAMEL", "고스트_플라멜"}
+, 
+{jobtbl.JT_G_CELIA, "G_CELIA", "고스트_실리아"}
+, 
+{jobtbl.JT_G_CHEN, "G_CHEN", "고스트_첸"}
+, 
+{jobtbl.JT_G_GERTIE, "G_GERTIE", "고스트_거티"}
+, 
+{jobtbl.JT_G_ALPHOCCIO, "G_ALPHOCCIO", "고스트_아르보치오"}
+, 
+{jobtbl.JT_G_TRENTINI, "G_TRENTINI", "고스트_트렌티니"}
+, 
+{jobtbl.JT_B_RANDEL, "B_RANDEL", "보스_랜달"}
+, 
+{jobtbl.JT_B_FLAMEL, "B_FLAMEL", "보스_플라멜"}
+, 
+{jobtbl.JT_B_CELIA, "B_CELIA", "보스_실리아"}
+, 
+{jobtbl.JT_B_CHEN, "B_CHEN", "보스_첸"}
+, 
+{jobtbl.JT_B_GERTIE, "B_GERTIE", "보스_거티"}
+, 
+{jobtbl.JT_B_ALPHOCCIO, "B_ALPHOCCIO", "보스_아르보치오"}
+, 
+{jobtbl.JT_B_TRENTINI, "B_TRENTINI", "보스_트렌티니"}
+, 
+{jobtbl.JT_MD_DESERT_WOLF, "MD_DESERT_WOLF", "배고픈_실험동물"}
+, 
+{jobtbl.JT_MD_DESERT_WOLF_B, "MD_DESERT_WOLF_B", "배고픈_실험동물_B"}
+, 
+{jobtbl.JT_QUEST_CHEN, "QUEST_CHEN", "퀘스트_첸"}
+, 
+{jobtbl.JT_EXP_TEST, "EXP_TEST", "경험치테스트"}
+, 
+{jobtbl.JT_Q_WOOTAN_FIGHTER, "Q_WOOTAN_FIGHTER", "Q_우탄파이터"}
+, 
+{jobtbl.JT_Q_INCREASE_SOIL, "Q_INCREASE_SOIL", "Q_식양"}
+, 
+{jobtbl.JT_GOLDPORING, "GOLDPORING", "골든포링"}
+, 
+{jobtbl.JT_PYURIEL, "PYURIEL", "분노한_탈락자_퓨리엘"}
+, 
+{jobtbl.JT_LORA, "LORA", "여전사_로라"}
+, 
+{jobtbl.JT_GIOIA, "GIOIA", "지오이아"}
+, 
+{jobtbl.JT_ELVIRA, "ELVIRA", "엘비아"}
+, 
+{jobtbl.JT_DAEHYON, "DAEHYON", "장군_대현"}
+, 
+{jobtbl.JT_SOHEON, "SOHEON", "호위_무사_소현"}
+, 
+{jobtbl.JT_KADES, "KADES", "망자의_수호자_카데스"}
+, 
+{jobtbl.JT_RUDO, "RUDO", "루도"}
+, 
+{jobtbl.JT_I_PIAMETTE, "I_PIAMETTE", "I_피아멧트"}
+, 
+{jobtbl.JT_I_PIAMETTE_, "I_PIAMETTE_", "I_피아멧트_"}
+, 
+{jobtbl.JT_I_GARDEN_KEEPER, "I_GARDEN_KEEPER", "I_가든키퍼"}
+, 
+{jobtbl.JT_G_GARDEN_KEEPER, "G_GARDEN_KEEPER", "G_가든키퍼"}
+, 
+{jobtbl.JT_I_GARDEN_WATCHER, "I_GARDEN_WATCHER", "I_정원순찰자"}
+, 
+{jobtbl.JT_G_GARDEN_WATCHER, "G_GARDEN_WATCHER", "G_정원순찰자"}
+, 
+{jobtbl.JT_I_WISH_MAIDEN, "I_WISH_MAIDEN", "I_위시메이든"}
+, 
+{jobtbl.JT_I_ARMAIA, "I_ARMAIA", "I_아르마이어"}
+, 
+{jobtbl.JT_I_ARMAIA_, "I_ARMAIA_", "I_아르마이어_"}
+, 
+{jobtbl.JT_I_EREND, "I_EREND", "I_이렌드"}
+, 
+{jobtbl.JT_I_EREND_, "I_EREND_", "I_이렌드_"}
+, 
+{jobtbl.JT_I_KAVAC, "I_KAVAC", "I_카바크"}
+, 
+{jobtbl.JT_I_KAVAC_, "I_KAVAC_", "I_카바크_"}
+, 
+{jobtbl.JT_I_RAWREL, "I_RAWREL", "I_라우렐"}
+, 
+{jobtbl.JT_I_RAWREL_, "I_RAWREL_", "I_라우렐_"}
+, 
+{jobtbl.JT_I_WHIKEBAIN, "I_WHIKEBAIN", "I_휘케바인"}
+, 
+{jobtbl.JT_I_WHIKEBAIN_, "I_WHIKEBAIN_", "I_휘케바인_"}
+, 
+{jobtbl.JT_I_YGNIZEM, "I_YGNIZEM", "I_이그니젬"}
+, 
+{jobtbl.JT_I_YGNIZEM_, "I_YGNIZEM_", "I_이그니젬_"}
+, 
+{jobtbl.JT_I_DOPPELGANGER, "I_DOPPELGANGER", "I_도플갱어"}
+, 
+{jobtbl.JT_G_LORA, "G_LORA", "고스트_여전사_로라"}
+, 
+{jobtbl.JT_G_ELVIRA, "G_ELVIRA", "고스트_엘비아"}
+, 
+{jobtbl.JT_G_SOHEON, "G_SOHEON", "고스트_호위_무사_소현"}
+, 
+{jobtbl.JT_G_RUDO, "G_RUDO", "고스트_루도"}
+, 
+{jobtbl.JT_GLD_DARK_SHADOW, "GLD_DARK_SHADOW", "길드_다크_쉐도우"}
+, 
+{jobtbl.JT_GLD_DARK_FRAME, "GLD_DARK_FRAME", "길드_다크프레임"}
+, 
+{jobtbl.JT_GLD_DARK_PRIEST, "GLD_DARK_PRIEST", "길드_다크프리스트"}
+, 
+{jobtbl.JT_GLD_KOBOLD_1, "GLD_KOBOLD_1", "길드_코볼트1"}
+, 
+{jobtbl.JT_GLD_KOBOLD_2, "GLD_KOBOLD_2", "길드_코볼트2"}
+, 
+{jobtbl.JT_GLD_KOBOLD_3, "GLD_KOBOLD_3", "길드_코볼트3"}
+, 
+{jobtbl.JT_GLD_KOBOLD_ARCHER, "GLD_KOBOLD_ARCHER", "길드_코볼트아쳐"}
+, 
+{jobtbl.JT_GLD_TREASURE, "GLD_TREASURE", "길드던전_보물상자"}
+, 
+{jobtbl.JT_E_FABRE, "E_FABRE", "이벤트_파브르"}
+, 
+{jobtbl.JT_J_THIEF_BUG, "J_THIEF_BUG", "일본_도둑벌레"}
+, 
+{jobtbl.JT_E_HORNET, "E_HORNET", "이벤트_호넷"}
+, 
+{jobtbl.JT_E_HORN, "E_HORN", "이벤트_호른"}
+, 
+{jobtbl.JT_E_KIND_OF_BEETLE, "E_KIND_OF_BEETLE", "이벤트_투구벌레"}
+, 
+{jobtbl.JT_E_ARGIOPE, "E_ARGIOPE", "이벤트_아르지오프"}
+, 
+{jobtbl.JT_E_GIANT_SPIDER, "E_GIANT_SPIDER", "이벤트_자이언트_스파이더"}
+, 
+{jobtbl.JT_E_KILLER_MANTIS, "E_KILLER_MANTIS", "이벤트_킬러_맨티스"}
+, 
+{jobtbl.JT_E_GIANT_HONET, "E_GIANT_HONET", "이벤트_자이언트_호넷"}
+, 
+{jobtbl.JT_E_DRAGON_TAIL, "E_DRAGON_TAIL", "이벤트_드래곤테일"}
+, 
+{jobtbl.JT_E_STAINER, "E_STAINER", "이벤트_스타이너"}
+, 
+{jobtbl.JT_E_CHONCHON, "E_CHONCHON", "이벤트_촌촌"}
+, 
+{jobtbl.JT_E_STEEL_CHONCHON, "E_STEEL_CHONCHON", "이벤트_스틸촌촌"}
+, 
+{jobtbl.JT_E_HUNTER_FLY, "E_HUNTER_FLY", "이벤트_헌터플라이"}
+, 
+{jobtbl.JT_E_MAYA, "E_MAYA", "이벤트_마야"}
+, 
+{jobtbl.JT_E_QUEEN_SCARABA, "E_QUEEN_SCARABA", "이벤트_여왕스카라바"}
+, 
+{jobtbl.JT_E_UNGOLIANT, "E_UNGOLIANT", "이벤트_운골리안트"}
+, 
+{jobtbl.JT_E_GOLDEN_BUG, "E_GOLDEN_BUG", "이벤트_황금도둑벌레"}
+, 
+{jobtbl.JT_J_MISTRESS, "J_MISTRESS", "일본_미스트레스"}
+, 
+{jobtbl.JT_KO_KAGE, "KO_KAGE", "환술_잔영"}
+, 
+{jobtbl.JT_BUNGISNGIS, "BUNGISNGIS", "붕이승이스"}
+, 
+{jobtbl.JT_ENGKANTO, "ENGKANTO", "엥컨토"}
+, 
+{jobtbl.JT_MANANANGGAL, "MANANANGGAL", "머너넝걸"}
+, 
+{jobtbl.JT_MANGKUKULAM, "MANGKUKULAM", "멍쿠쿠럼"}
+, 
+{jobtbl.JT_TIKBALANG, "TIKBALANG", "틱버렁"}
+, 
+{jobtbl.JT_TIYANAK, "TIYANAK", "티억넠"}
+, 
+{jobtbl.JT_WAKWAK, "WAKWAK", "웤웤"}
+, 
+{jobtbl.JT_JEJELING, "JEJELING", "제제링"}
+, 
+{jobtbl.JT_BANGUNGOT_1, "BANGUNGOT_1", "벙웅곳_1"}
+, 
+{jobtbl.JT_BANGUNGOT_2, "BANGUNGOT_2", "벙웅곳_2"}
+, 
+{jobtbl.JT_BUWAYA, "BUWAYA", "부워여"}
+, 
+{jobtbl.JT_BAKONAWA_1, "BAKONAWA_1", "버코너워_1"}
+, 
+{jobtbl.JT_BAKONAWA_2, "BAKONAWA_2", "버코너워_2"}
+, 
+{jobtbl.JT_BAKONAWA_3, "BAKONAWA_3", "버코너워_3"}
+, 
+{jobtbl.JT_EVENT_BOMB, "EVENT_BOMB", "이벤트몬스터_폭탄"}
+, 
+{jobtbl.JT_EVENT_RANGE, "EVENT_RANGE", "이벤트몬스터_원거리"}
+, 
+{jobtbl.JT_M_BAPHOMET_, "M_BAPHOMET_", "용병_바포메트주니어"}
+, 
+{jobtbl.JT_M_GALAPAGO, "M_GALAPAGO", "용병_갈라파고"}
+, 
+{jobtbl.JT_BANGUNGOT_3, "BANGUNGOT_3", "벙웅곳_3"}
+, 
+{jobtbl.JT_MA_DRUM, "MA_DRUM", "필리핀_북"}
+, 
+{jobtbl.JT_BUWAYA_EGG, "BUWAYA_EGG", "부워여_알"}
+, 
+{jobtbl.JT_BUWAYA_SLAVE, "BUWAYA_SLAVE", "부워여_부하"}
+, 
+{jobtbl.JT_MA_SEAW, "MA_SEAW", "부워여_수초"}
+, 
+{jobtbl.JT_BUWAYA_GHOST, "BUWAYA_GHOST", "부워여_환영"}
+, 
+{jobtbl.JT_BUWAYA_WEAK, "BUWAYA_WEAK", "부워여_약점"}
+, 
+{jobtbl.JT_G_WAKWAK, "G_WAKWAK", "웤웤_고스트"}
+, 
+{jobtbl.JT_MA_TREASURE, "MA_TREASURE", "필리핀_보물상자"}
+, 
+{jobtbl.JT_DOMOVOI, "DOMOVOI", "도모보이"}
+, 
+{jobtbl.JT_HIDDEN_MOB, "HIDDEN_MOB", "숨은_몬스터"}
+, 
+{jobtbl.JT_MD_MANANANGGAL, "MD_MANANANGGAL", "MD_머너넝걸"}
+, 
+{jobtbl.JT_MD_MANGKUKULAM, "MD_MANGKUKULAM", "MD_멍쿠쿠럼"}
+, 
+{jobtbl.JT_MD_TIYANAK, "MD_TIYANAK", "MD_티억넠"}
+, 
+{jobtbl.JT_4_F_NURSE, "4_F_NURSE", nil}
+, 
+{jobtbl.JT_4_MAL_SOLDIER, "4_MAL_SOLDIER", nil}
+, 
+{jobtbl.JT_4_MAL_CAPTAIN, "4_MAL_CAPTAIN", nil}
+, 
+{jobtbl.JT_4_MAL_BUDIDAI, "4_MAL_BUDIDAI", nil}
+, 
+{jobtbl.JT_4_M_MAYOR, "4_M_MAYOR", nil}
+, 
+{jobtbl.JT_4_M_BARYO_OLD, "4_M_BARYO_OLD", nil}
+, 
+{jobtbl.JT_4_F_BARYO_OLD, "4_F_BARYO_OLD", nil}
+, 
+{jobtbl.JT_4_F_BARYO_GIRL, "4_F_BARYO_GIRL", nil}
+, 
+{jobtbl.JT_4_M_BARYO_BOY, "4_M_BARYO_BOY", nil}
+, 
+{jobtbl.JT_4_M_BARYO_MAN, "4_M_BARYO_MAN", nil}
+, 
+{jobtbl.JT_4_F_BARYO_WOMAN, "4_F_BARYO_WOMAN", nil}
+, 
+{jobtbl.JT_4_BARYO_CHIEF, "4_BARYO_CHIEF", nil}
+, 
+{jobtbl.JT_4_MAL_KAFRA, "4_MAL_KAFRA", nil}
+, 
+{jobtbl.JT_4_M_MALAYA, "4_M_MALAYA", nil}
+, 
+{jobtbl.JT_4_F_MALAYA, "4_F_MALAYA", nil}
+, 
+{jobtbl.JT_4_F_PATIENT, "4_F_PATIENT", nil}
+, 
+{jobtbl.JT_4_M_PATIENT, "4_M_PATIENT", nil}
+, 
+{jobtbl.JT_4_F_KR_TIGER, "4_F_KR_TIGER", nil}
+, 
+{jobtbl.JT_4_M_KR_BOY, "4_M_KR_BOY", nil}
+, 
+{jobtbl.JT_4_M_KAGE_OLD, "4_M_KAGE_OLD", nil}
+, 
+{jobtbl.JT_RWC_BOSS2011, "RWC_BOSS2011", "RWC_BOSS2011"}
+, 
+{jobtbl.JT_MER_DIABOLIC, "MER_DIABOLIC", "MER_DIABOLIC"}
+, 
+{jobtbl.JT_4_WHIKEBAIN, "4_WHIKEBAIN", nil}
+, 
+{jobtbl.JT_4_EREND, "4_EREND", nil}
+, 
+{jobtbl.JT_4_RAWREL, "4_RAWREL", nil}
+, 
+{jobtbl.JT_4_ARMAIA, "4_ARMAIA", nil}
+, 
+{jobtbl.JT_4_KAVAC, "4_KAVAC", nil}
+, 
+{jobtbl.JT_4_YGNIZEM, "4_YGNIZEM", nil}
+, 
+{jobtbl.JT_4_EREMES, "4_EREMES", nil}
+, 
+{jobtbl.JT_4_MAGALETA, "4_MAGALETA", nil}
+, 
+{jobtbl.JT_4_KATRINN, "4_KATRINN", nil}
+, 
+{jobtbl.JT_4_SHECIL, "4_SHECIL", nil}
+, 
+{jobtbl.JT_4_SEYREN, "4_SEYREN", nil}
+, 
+{jobtbl.JT_4_HARWORD, "4_HARWORD", nil}
+, 
+{jobtbl.JT_HIDDEN_MOB_W, "HIDDEN_MOB_W", "HIDDEN_MOB_W"}
+, 
+{jobtbl.JT_4_F_JP_CYNTHIA, "4_F_JP_CYNTHIA", nil}
+, 
+{jobtbl.JT_4_M_JP_GUSTON, "4_M_JP_GUSTON", nil}
+, 
+{jobtbl.JT_4_M_JP_BERKUT, "4_M_JP_BERKUT", nil}
+, 
+{jobtbl.JT_MER_WISH_MAIDEN, "MER_WISH_MAIDEN", "MER_WISH_MAIDEN"}
+, 
+{jobtbl.JT_MER_ZHERLTHSH, "MER_ZHERLTHSH", "MER_ZHERLTHSH"}
+, 
+{jobtbl.JT_MER_KTULLANUX, "MER_KTULLANUX", "MER_KTULLANUX"}
+, 
+{jobtbl.JT_MER_EDDGA, "MER_EDDGA", "MER_EDDGA"}
+, 
+{jobtbl.JT_MER_CIVIL_SERVANT, "MER_CIVIL_SERVANT", "MER_CIVIL_SERVANT"}
+, 
+{jobtbl.JT_MER_LOLI_RURI, "MER_LOLI_RURI", "MER_LOLI_RURI"}
+, 
+{jobtbl.JT_MER_SEDORA, "MER_SEDORA", "MER_SEDORA"}
+, 
+{jobtbl.JT_MER_CHEPET, "MER_CHEPET", "MER_CHEPET"}
+, 
+{jobtbl.JT_E_RSX_0805, "E_RSX_0805", "E_RSX_0805"}
+, 
+{jobtbl.JT_4_F_JP_DARK_ADELAIDE, "4_F_JP_DARK_ADELAIDE", nil}
+, 
+{jobtbl.JT_4_M_JP_DARK_DARIUS, "4_M_JP_DARK_DARIUS", nil}
+, 
+{jobtbl.JT_4_M_JP_JESTER, "4_M_JP_JESTER", nil}
+, 
+{jobtbl.JT_N_MINOROUS, "N_MINOROUS", "N_MINOROUS"}
+, 
+{jobtbl.JT_N_MUMMY, "N_MUMMY", "N_MUMMY"}
+, 
+{jobtbl.JT_N_VERIT, "N_VERIT", "N_VERIT"}
+, 
+{jobtbl.JT_N_MIMIC, "N_MIMIC", "N_MIMIC"}
+, 
+{jobtbl.JT_G_N_MIMIC, "G_N_MIMIC", "G_N_MIMIC"}
+, 
+{jobtbl.JT_N_ARCLOUSE, "N_ARCLOUSE", "N_ARCLOUSE"}
+, 
+{jobtbl.JT_G_N_ARCLOUSE, "G_N_ARCLOUSE", "G_N_ARCLOUSE"}
+, 
+{jobtbl.JT_N_ANCIENT_MUMMY, "N_ANCIENT_MUMMY", "N_ANCIENT_MUMMY"}
+, 
+{jobtbl.JT_G_N_ANCIENT_MUMMY, "G_N_ANCIENT_MUMMY", "G_N_ANCIENT_MUMMY"}
+, 
+{jobtbl.JT_N_AMON_RA, "N_AMON_RA", "N_AMON_RA"}
+, 
+{jobtbl.JT_MENBLATT, "MENBLATT", "MENBLATT"}
+, 
+{jobtbl.JT_PETAL, "PETAL", "PETAL"}
+, 
+{jobtbl.JT_CENERE, "CENERE", "CENERE"}
+, 
+{jobtbl.JT_ANTIQUE_BOOK, "ANTIQUE_BOOK", "ANTIQUE_BOOK"}
+, 
+{jobtbl.JT_LICHTERN_B, "LICHTERN_B", "LICHTERN_B"}
+, 
+{jobtbl.JT_LICHTERN_Y, "LICHTERN_Y", "LICHTERN_Y"}
+, 
+{jobtbl.JT_LICHTERN_R, "LICHTERN_R", "LICHTERN_R"}
+, 
+{jobtbl.JT_LICHTERN_G, "LICHTERN_G", "LICHTERN_G"}
+, 
+{jobtbl.JT_FAITHFUL_MANAGER, "FAITHFUL_MANAGER", "FAITHFUL_MANAGER"}
+, 
+{jobtbl.JT_SOIL, "SOIL", "SOIL"}
+, 
+{jobtbl.JT_ROCK, "ROCK", "ROCK"}
+, 
+{jobtbl.JT_THICKET, "THICKET", "THICKET"}
+, 
+{jobtbl.JT_MOROCC_4_142, "MOROCC_4_142", "MOROCC_4_142"}
+, 
+{jobtbl.JT_MOROCC_2_142, "MOROCC_2_142", "MOROCC_2_142"}
+, 
+{jobtbl.JT_E_NOVUS_, "E_NOVUS_", "E_NOVUS_"}
+, 
+{jobtbl.JT_MER_ANTLER_SCARABA, "MER_ANTLER_SCARABA", "MER_ANTLER_SCARABA"}
+, 
+{jobtbl.JT_XMAS_SMOKEY_B, "XMAS_SMOKEY_B", nil}
+, 
+{jobtbl.JT_XMAS_SMOKEY_R, "XMAS_SMOKEY_R", nil}
+, 
+{jobtbl.JT_XMAS_SMOKEY_Y, "XMAS_SMOKEY_Y", nil}
+, 
+{jobtbl.JT_XMAS_SMOKEY_SOCK, "XMAS_SMOKEY_SOCK", "XMAS_SMOKEY_SOCK"}
+, 
+{jobtbl.JT_XMAS_SMOKEY_GIFT, "XMAS_SMOKEY_GIFT", "XMAS_SMOKEY_GIFT"}
+, 
+{jobtbl.JT_4_F_CLOCKDOLL, "4_F_CLOCKDOLL", nil}
+, 
+{jobtbl.JT_4_F_FAIRY2, "4_F_FAIRY2", nil}
+, 
+{jobtbl.JT_4_F_PINKWOMAN, "4_F_PINKWOMAN", nil}
+, 
+{jobtbl.JT_4_FAIRYDEADLEAF, "4_FAIRYDEADLEAF", nil}
+, 
+{jobtbl.JT_4_FROG, "4_FROG", nil}
+, 
+{jobtbl.JT_4_M_BLACKMAN, "4_M_BLACKMAN", nil}
+, 
+{jobtbl.JT_4_M_BLUEMAN, "4_M_BLUEMAN", nil}
+, 
+{jobtbl.JT_4_M_FAIRYANG, "4_M_FAIRYANG", nil}
+, 
+{jobtbl.JT_4_M_FAIRYAVANT, "4_M_FAIRYAVANT", nil}
+, 
+{jobtbl.JT_4_M_FAIRYFREAK, "4_M_FAIRYFREAK", nil}
+, 
+{jobtbl.JT_4_M_FAIRYKID6, "4_M_FAIRYKID6", nil}
+, 
+{jobtbl.JT_4_M_FAIRYSCHOLAR, "4_M_FAIRYSCHOLAR", nil}
+, 
+{jobtbl.JT_4_M_FAIRYSCHOLAR_DIRTY, "4_M_FAIRYSCHOLAR_DIRTY", nil}
+, 
+{jobtbl.JT_4_M_FARIY_HISIE, "4_M_FARIY_HISIE", nil}
+, 
+{jobtbl.JT_4_M_FARIYKING, "4_M_FARIYKING", nil}
+, 
+{jobtbl.JT_4_M_NEWOZ, "4_M_NEWOZ", nil}
+, 
+{jobtbl.JT_4_M_OLIVER, "4_M_OLIVER", nil}
+, 
+{jobtbl.JT_4_M_PROFESSORWORM, "4_M_PROFESSORWORM", nil}
+, 
+{jobtbl.JT_4_M_REDMAN, "4_M_REDMAN", nil}
+, 
+{jobtbl.JT_4_F_GELKA, "4_F_GELKA", nil}
+, 
+{jobtbl.JT_4_M_ROTERT, "4_M_ROTERT", nil}
+, 
+{jobtbl.JT_4_BLACKDRAGON, "4_BLACKDRAGON", nil}
+, 
+{jobtbl.JT_E_VADON_X_S, "E_VADON_X_S", "E_VADON_X_S"}
+, 
+{jobtbl.JT_E_VADON_X_H, "E_VADON_X_H", "E_VADON_X_H"}
+, 
+{jobtbl.JT_E_VADON_X_H_S, "E_VADON_X_H_S", "E_VADON_X_H_S"}
+, 
+{jobtbl.JT_KRAKEN_LEG_1, "KRAKEN_LEG_1", "KRAKEN_LEG_1"}
+, 
+{jobtbl.JT_KRAKEN_LEG_2, "KRAKEN_LEG_2", "KRAKEN_LEG_2"}
+, 
+{jobtbl.JT_KRAKEN_LEG_3, "KRAKEN_LEG_3", "KRAKEN_LEG_3"}
+, 
+{jobtbl.JT_KRAKEN_LEG_4, "KRAKEN_LEG_4", "KRAKEN_LEG_4"}
+, 
+{jobtbl.JT_KRAKEN_LEG_5, "KRAKEN_LEG_5", "KRAKEN_LEG_5"}
+, 
+{jobtbl.JT_G_KRAKEN_LEG_1, "G_KRAKEN_LEG_1", "G_KRAKEN_LEG_1"}
+, 
+{jobtbl.JT_G_KRAKEN_LEG_2, "G_KRAKEN_LEG_2", "G_KRAKEN_LEG_2"}
+, 
+{jobtbl.JT_G_KRAKEN_LEG_3, "G_KRAKEN_LEG_3", "G_KRAKEN_LEG_3"}
+, 
+{jobtbl.JT_G_KRAKEN_LEG_4, "G_KRAKEN_LEG_4", "G_KRAKEN_LEG_4"}
+, 
+{jobtbl.JT_G_KRAKEN_LEG_5, "G_KRAKEN_LEG_5", "G_KRAKEN_LEG_5"}
+, 
+{jobtbl.JT_MERMAN_SE, "MERMAN_SE", "MERMAN_SE"}
+, 
+{jobtbl.JT_SEIREN, "SEIREN", "SEIREN"}
+, 
+{jobtbl.JT_POSEIDON, "POSEIDON", "POSEIDON"}
+, 
+{jobtbl.JT_KRAKEN_BABY, "KRAKEN_BABY", "KRAKEN_BABY"}
+, 
+{jobtbl.JT_LITTLE_PORING, "LITTLE_PORING", "LITTLE_PORING"}
+, 
+{jobtbl.JT_E_MINI_DEMON, "E_MINI_DEMON", "E_MINI_DEMON"}
+, 
+{jobtbl.JT_E_DIABOLIC, "E_DIABOLIC", "E_DIABOLIC"}
+, 
+{jobtbl.JT_4_M_GUNSLINGER, "4_M_GUNSLINGER", nil}
+, 
+{jobtbl.JT_4_F_GUNSLINGER, "4_F_GUNSLINGER", nil}
+, 
+{jobtbl.JT_4_M_ARCHER, "4_M_ARCHER", nil}
+, 
+{jobtbl.JT_4_M_SWORDMAN, "4_M_SWORDMAN", nil}
+, 
+{jobtbl.JT_4_M_NINJA_RED, "4_M_NINJA_RED", nil}
+, 
+{jobtbl.JT_4_M_NINJA_BLUE, "4_M_NINJA_BLUE", nil}
+, 
+{jobtbl.JT_4_M_THIEF_RUMIN, "4_M_THIEF_RUMIN", nil}
+, 
+{jobtbl.JT_4_M_NOV_RUMIN, "4_M_NOV_RUMIN", nil}
+, 
+{jobtbl.JT_4_F_MAYSEL, "4_F_MAYSEL", nil}
+, 
+{jobtbl.JT_4_F_ACOLYTE, "4_F_ACOLYTE", nil}
+, 
+{jobtbl.JT_4_M_NOV_HUNT, "4_M_NOV_HUNT", nil}
+, 
+{jobtbl.JT_4_F_GENETIC, "4_F_GENETIC", nil}
+, 
+{jobtbl.JT_4_F_TAEKWON, "4_F_TAEKWON", nil}
+, 
+{jobtbl.JT_4_F_SWORDMAN, "4_F_SWORDMAN", nil}
+, 
+{jobtbl.JT_G_PORING, "G_PORING", "G_PORING"}
+, 
+{jobtbl.JT_POPORING_IMMUNE_M, "POPORING_IMMUNE_M", "POPORING_IMMUNE_M"}
+, 
+{jobtbl.JT_POPORING_IMMUNE_A, "POPORING_IMMUNE_A", "POPORING_IMMUNE_A"}
+, 
+{jobtbl.JT_DEAD_PLANKTON, "DEAD_PLANKTON", "DEAD_PLANKTON"}
+, 
+{jobtbl.JT_WEAK_SKELETON, "WEAK_SKELETON", "WEAK_SKELETON"}
+, 
+{jobtbl.JT_WEAK_SKEL_SOLDIER, "WEAK_SKEL_SOLDIER", "WEAK_SKEL_SOLDIER"}
+, 
+{jobtbl.JT_SAILOR_SKELETON, "SAILOR_SKELETON", "SAILOR_SKELETON"}
+, 
+{jobtbl.JT_DUMMY_10, "DUMMY_10", "DUMMY_10"}
+, 
+{jobtbl.JT_DUMMY_50, "DUMMY_50", "DUMMY_50"}
+, 
+{jobtbl.JT_DUMMY_100, "DUMMY_100", "DUMMY_100"}
+, 
+{jobtbl.JT_DUMMY_150, "DUMMY_150", "DUMMY_150"}
+, 
+{jobtbl.JT_E_VALKIWI, "E_VALKIWI", "E_VALKIWI"}
+, 
+{jobtbl.JT_DUMMY_10_FIRE, "DUMMY_10_FIRE", "DUMMY_10_FIRE"}
+, 
+{jobtbl.JT_RUNAWAY_BOOK, "RUNAWAY_BOOK", "RUNAWAY_BOOK"}
+, 
+{jobtbl.JT_L_SEYREN, "L_SEYREN", "L_SEYREN"}
+, 
+{jobtbl.JT_L_EREMES, "L_EREMES", "L_EREMES"}
+, 
+{jobtbl.JT_L_HARWORD, "L_HARWORD", "L_HARWORD"}
+, 
+{jobtbl.JT_L_SHECIL, "L_SHECIL", "L_SHECIL"}
+, 
+{jobtbl.JT_L_KATRINN, "L_KATRINN", "L_KATRINN"}
+, 
+{jobtbl.JT_L_MAGALETA, "L_MAGALETA", "L_MAGALETA"}
+, 
+{jobtbl.JT_L_YGNIZEM, "L_YGNIZEM", "L_YGNIZEM"}
+, 
+{jobtbl.JT_L_WHIKEBAIN, "L_WHIKEBAIN", "L_WHIKEBAIN"}
+, 
+{jobtbl.JT_L_ARMAIA, "L_ARMAIA", "L_ARMAIA"}
+, 
+{jobtbl.JT_L_KAVAC, "L_KAVAC", "L_KAVAC"}
+, 
+{jobtbl.JT_L_DANCER, "L_DANCER", "L_DANCER"}
+, 
+{jobtbl.JT_L_RAWREL, "L_RAWREL", "L_RAWREL"}
+, 
+{jobtbl.JT_L_EREND, "L_EREND", "L_EREND"}
+, 
+{jobtbl.JT_G_L_SEYREN, "G_L_SEYREN", "G_L_SEYREN"}
+, 
+{jobtbl.JT_G_L_EREMES, "G_L_EREMES", "G_L_EREMES"}
+, 
+{jobtbl.JT_G_L_HARWORD, "G_L_HARWORD", "G_L_HARWORD"}
+, 
+{jobtbl.JT_G_L_SHECIL, "G_L_SHECIL", "G_L_SHECIL"}
+, 
+{jobtbl.JT_G_L_KATRINN, "G_L_KATRINN", "G_L_KATRINN"}
+, 
+{jobtbl.JT_G_L_MAGALETA, "G_L_MAGALETA", "G_L_MAGALETA"}
+, 
+{jobtbl.JT_G_L_YGNIZEM, "G_L_YGNIZEM", "G_L_YGNIZEM"}
+, 
+{jobtbl.JT_G_L_WHIKEBAIN, "G_L_WHIKEBAIN", "G_L_WHIKEBAIN"}
+, 
+{jobtbl.JT_G_L_ARMAIA, "G_L_ARMAIA", "G_L_ARMAIA"}
+, 
+{jobtbl.JT_G_L_KAVAC, "G_L_KAVAC", "G_L_KAVAC"}
+, 
+{jobtbl.JT_G_L_DANCER, "G_L_DANCER", "G_L_DANCER"}
+, 
+{jobtbl.JT_G_L_RAWREL, "G_L_RAWREL", "G_L_RAWREL"}
+, 
+{jobtbl.JT_G_L_EREND, "G_L_EREND", "G_L_EREND"}
+, 
+{jobtbl.JT_B_NOVICE, "B_NOVICE", "B_NOVICE"}
+, 
+{jobtbl.JT_B_SUPERNOVICE, "B_SUPERNOVICE", "B_SUPERNOVICE"}
+, 
+{jobtbl.JT_AIRA, "AIRA", "AIRA"}
+, 
+{jobtbl.JT_KULUNA, "KULUNA", "KULUNA"}
+, 
+{jobtbl.JT_MALLINA, "MALLINA", "MALLINA"}
+, 
+{jobtbl.JT_EZELLA, "EZELLA", "EZELLA"}
+, 
+{jobtbl.JT_LUNE, "LUNE", "LUNE"}
+, 
+{jobtbl.JT_MORIN, "MORIN", "MORIN"}
+, 
+{jobtbl.JT_NASARIN, "NASARIN", "NASARIN"}
+, 
+{jobtbl.JT_THIEF_PORING, "THIEF_PORING", "THIEF_PORING"}
+, 
+{jobtbl.JT_BABY_STRANGE, "BABY_STRANGE", "BABY_STRANGE"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE, "TREASURE_BOX_TE", "TREASURE_BOX_TE"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_1, "TREASURE_BOX_TE_1", "TREASURE_BOX_TE_1"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_2, "TREASURE_BOX_TE_2", "TREASURE_BOX_TE_2"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_3, "TREASURE_BOX_TE_3", "TREASURE_BOX_TE_3"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_4, "TREASURE_BOX_TE_4", "TREASURE_BOX_TE_4"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_5, "TREASURE_BOX_TE_5", "TREASURE_BOX_TE_5"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_6, "TREASURE_BOX_TE_6", "TREASURE_BOX_TE_6"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_7, "TREASURE_BOX_TE_7", "TREASURE_BOX_TE_7"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_8, "TREASURE_BOX_TE_8", "TREASURE_BOX_TE_8"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_9, "TREASURE_BOX_TE_9", "TREASURE_BOX_TE_9"}
+, 
+{jobtbl.JT_TREASURE_BOX_TE_10, "TREASURE_BOX_TE_10", "TREASURE_BOX_TE_10"}
+, 
+{jobtbl.JT_E_BOMBPORING, "E_BOMBPORING", "E_BOMBPORING"}
+, 
+{jobtbl.JT_MG_ZOMBIE, "MG_ZOMBIE", "MG_ZOMBIE"}
+, 
+{jobtbl.JT_MG_WRAITH, "MG_WRAITH", "MG_WRAITH"}
+, 
+{jobtbl.JT_MG_GHOUL, "MG_GHOUL", "MG_GHOUL"}
+, 
+{jobtbl.JT_MG_ARCLOUSE, "MG_ARCLOUSE", "MG_ARCLOUSE"}
+, 
+{jobtbl.JT_MG_RAYDRIC, "MG_RAYDRIC", "MG_RAYDRIC"}
+, 
+{jobtbl.JT_MG_RAYDRIC_ARCHER, "MG_RAYDRIC_ARCHER", "MG_RAYDRIC_ARCHER"}
+, 
+{jobtbl.JT_MG_KNIGHT_OF_ABYSS, "MG_KNIGHT_OF_ABYSS", "MG_KNIGHT_OF_ABYSS"}
+, 
+{jobtbl.JT_MG_KHALITZBURG, "MG_KHALITZBURG", "MG_KHALITZBURG"}
+, 
+{jobtbl.JT_MG_BLOODY_KNIGHT, "MG_BLOODY_KNIGHT", "MG_BLOODY_KNIGHT"}
+, 
+{jobtbl.JT_MG_M_UNDEAD_KNIGHT, "MG_M_UNDEAD_KNIGHT", "MG_M_UNDEAD_KNIGHT"}
+, 
+{jobtbl.JT_MG_F_UNDEAD_KNIGHT, "MG_F_UNDEAD_KNIGHT", "MG_F_UNDEAD_KNIGHT"}
+, 
+{jobtbl.JT_MG_CORRUPTION_ROOT, "MG_CORRUPTION_ROOT", "MG_CORRUPTION_ROOT"}
+, 
+{jobtbl.JT_MG_AMDARAIS, "MG_AMDARAIS", "MG_AMDARAIS"}
+, 
+{jobtbl.JT_NG_WANDER_MAN, "NG_WANDER_MAN", "NG_WANDER_MAN"}
+, 
+{jobtbl.JT_NG_RIDEWORD, "NG_RIDEWORD", "NG_RIDEWORD"}
+, 
+{jobtbl.JT_NG_MIMIC, "NG_MIMIC", "NG_MIMIC"}
+, 
+{jobtbl.JT_NG_EVIL_DRUID, "NG_EVIL_DRUID", "NG_EVIL_DRUID"}
+, 
+{jobtbl.JT_NG_WRAITH_DEAD, "NG_WRAITH_DEAD", "NG_WRAITH_DEAD"}
+, 
+{jobtbl.JT_G_MG_KHALITZBURG, "G_MG_KHALITZBURG", "G_MG_KHALITZBURG"}
+, 
+{jobtbl.JT_NG_BAPHOMET, "NG_BAPHOMET", "NG_BAPHOMET"}
+, 
+{jobtbl.JT_G_NG_BAPHOMET_, "G_NG_BAPHOMET_", "G_NG_BAPHOMET_"}
+, 
+{jobtbl.JT_NG_CHIMERA, "NG_CHIMERA", "NG_CHIMERA"}
+, 
+{jobtbl.JT_4_F_IU, "4_F_IU", nil}
+, 
+{jobtbl.JT_4_M_RAGI, "4_M_RAGI", nil}
+, 
+{jobtbl.JT_4_M_MELODY, "4_M_MELODY", nil}
+, 
+{jobtbl.JT_4_TRACE, "4_TRACE", nil}
+, 
+{jobtbl.JT_4_F_HIMEL, "4_F_HIMEL", nil}
+, 
+{jobtbl.JT_4_LEVITATEMAN, "4_LEVITATEMAN", nil}
+, 
+{jobtbl.JT_4_M_HEINRICH, "4_M_HEINRICH", nil}
+, 
+{jobtbl.JT_4_M_ROYALGUARD, "4_M_ROYALGUARD", nil}
+, 
+{jobtbl.JT_4_M_BARMUND, "4_M_BARMUND", nil}
+, 
+{jobtbl.JT_4_F_KHALITZBURG, "4_F_KHALITZBURG", nil}
+, 
+{jobtbl.JT_4_F_HIMEL2, "4_F_HIMEL2", nil}
+, 
+{jobtbl.JT_4_WHITEKNIGHT, "4_WHITEKNIGHT", nil}
+, 
+{jobtbl.JT_ISIS_ANNIV, "ISIS_ANNIV", "ISIS_ANNIV"}
+, 
+{jobtbl.JT_PASANA_ANNIV, "PASANA_ANNIV", "PASANA_ANNIV"}
+, 
+{jobtbl.JT_OSIRIS_ANNIV, "OSIRIS_ANNIV", "OSIRIS_ANNIV"}
+, 
+{jobtbl.JT_GM_WOMAN, "GM_WOMAN", "GM_WOMAN"}
+, 
+{jobtbl.JT_GM_SAY, "GM_SAY", "GM_SAY"}
+, 
+{jobtbl.JT_GM_SMOKIE, "GM_SMOKIE", "GM_SMOKIE"}
+, 
+{jobtbl.JT_GM_PHOENIX, "GM_PHOENIX", "GM_PHOENIX"}
+, 
+{jobtbl.JT_GM_MEN, "GM_MEN", "GM_MEN"}
+, 
+{jobtbl.JT_GM_HINALLE, "GM_HINALLE", "GM_HINALLE"}
+, 
+{jobtbl.JT_HIDDEN_MOB2, "HIDDEN_MOB2", "HIDDEN_MOB2"}
+, 
+{jobtbl.JT_I_UZHAS, "I_UZHAS", "I_UZHAS"}
+, 
+{jobtbl.JT_I_DOKEBI, "I_DOKEBI", "I_DOKEBI"}
+, 
+{jobtbl.JT_G_WISH_MAIDEN, "G_WISH_MAIDEN", "G_WISH_MAIDEN"}
+, 
+{jobtbl.JT_J_PORING, "J_PORING", "J_PORING"}
+, 
+{jobtbl.JT_E_MEGALODON, "E_MEGALODON", "E_MEGALODON"}
+, 
+{jobtbl.JT_E_ASTER, "E_ASTER", "E_ASTER"}
+, 
+{jobtbl.JT_E_CRAB, "E_CRAB", "E_CRAB"}
+, 
+{jobtbl.JT_E_SHELLFISH, "E_SHELLFISH", "E_SHELLFISH"}
+, 
+{jobtbl.JT_E_COELACANTH_N_E, "E_COELACANTH_N_E", "E_COELACANTH_N_E"}
+, 
+{jobtbl.JT_E_RED_ERUMA, "E_RED_ERUMA", "E_RED_ERUMA"}
+, 
+{jobtbl.JT_E_KING_DRAMOH, "E_KING_DRAMOH", "E_KING_DRAMOH"}
+, 
+{jobtbl.JT_E_CORNUTUS, "E_CORNUTUS", "E_CORNUTUS"}
+, 
+{jobtbl.JT_E_PENOMENA, "E_PENOMENA", "E_PENOMENA"}
+, 
+{jobtbl.JT_KRAKEN_LEG_6, "KRAKEN_LEG_6", "KRAKEN_LEG_6"}
+, 
+{jobtbl.JT_WATERMELON_1, "WATERMELON_1", "WATERMELON_1"}
+, 
+{jobtbl.JT_WATERMELON_2, "WATERMELON_2", "WATERMELON_2"}
+, 
+{jobtbl.JT_WATERMELON_3, "WATERMELON_3", "WATERMELON_3"}
+, 
+{jobtbl.JT_WATERMELON_4, "WATERMELON_4", "WATERMELON_4"}
+, 
+{jobtbl.JT_WATERMELON_5, "WATERMELON_5", "WATERMELON_5"}
+, 
+{jobtbl.JT_WATERMELON_6, "WATERMELON_6", "WATERMELON_6"}
+, 
+{jobtbl.JT_WATERMELON_7, "WATERMELON_7", "WATERMELON_7"}
+, 
+{jobtbl.JT_WATERMELON_8, "WATERMELON_8", "WATERMELON_8"}
+, 
+{jobtbl.JT_WATERMELON_9, "WATERMELON_9", "WATERMELON_9"}
+, 
+{jobtbl.JT_WATERMELON_10, "WATERMELON_10", "WATERMELON_10"}
+, 
+{jobtbl.JT_WATERMELON_11, "WATERMELON_11", "WATERMELON_11"}
+, 
+{jobtbl.JT_WATERMELON_12, "WATERMELON_12", "WATERMELON_12"}
+, 
+{jobtbl.JT_WATERMELON_13, "WATERMELON_13", "WATERMELON_13"}
+, 
+{jobtbl.JT_WATERMELON_14, "WATERMELON_14", "WATERMELON_14"}
+, 
+{jobtbl.JT_WATERMELON_15, "WATERMELON_15", "WATERMELON_15"}
+, 
+{jobtbl.JT_WATERMELON_16, "WATERMELON_16", "WATERMELON_16"}
+, 
+{jobtbl.JT_4_COCO, "4_COCO", nil}
+, 
+{jobtbl.JT_E_BANDIT, "E_BANDIT", "E_BANDIT"}
+, 
+{jobtbl.JT_ME_ANOPHELES, "ME_ANOPHELES", "ME_ANOPHELES"}
+, 
+{jobtbl.JT_4_M_ALADDIN, "4_M_ALADDIN", nil}
+, 
+{jobtbl.JT_4_M_GENIE, "4_M_GENIE", nil}
+, 
+{jobtbl.JT_4_F_GENIE, "4_F_GENIE", nil}
+, 
+{jobtbl.JT_4_JP_MID_SWIM, "4_JP_MID_SWIM", nil}
+, 
+{jobtbl.JT_4_JP_RUNE_SWIM, "4_JP_RUNE_SWIM", nil}
+, 
+{jobtbl.JT_FACEWORM, "FACEWORM", "FACEWORM"}
+, 
+{jobtbl.JT_FACEWORM_QUEEN, "FACEWORM_QUEEN", "FACEWORM_QUEEN"}
+, 
+{jobtbl.JT_FACEWORM_DARK, "FACEWORM_DARK", "FACEWORM_DARK"}
+, 
+{jobtbl.JT_VENOM_BUG, "VENOM_BUG", "VENOM_BUG"}
+, 
+{jobtbl.JT_FACEWORM_QUEEN_R, "FACEWORM_QUEEN_R", "FACEWORM_QUEEN_R"}
+, 
+{jobtbl.JT_FACEWORM_QUEEN_G, "FACEWORM_QUEEN_G", "FACEWORM_QUEEN_G"}
+, 
+{jobtbl.JT_FACEWORM_QUEEN_B, "FACEWORM_QUEEN_B", "FACEWORM_QUEEN_B"}
+, 
+{jobtbl.JT_FACEWORM_QUEEN_Y, "FACEWORM_QUEEN_Y", "FACEWORM_QUEEN_Y"}
+, 
+{jobtbl.JT_HIDDEN_MOB3, "HIDDEN_MOB3", "HIDDEN_MOB3"}
+, 
+{jobtbl.JT_HIDDEN_MOB4, "HIDDEN_MOB4", "HIDDEN_MOB4"}
+, 
+{jobtbl.JT_E_KING_PORING, "E_KING_PORING", "E_KING_PORING"}
+, 
+{jobtbl.JT_HIDDEN_MOB5, "HIDDEN_MOB5", "HIDDEN_MOB5"}
+, 
+{jobtbl.JT_FACEWORM_EGG, "FACEWORM_EGG", "FACEWORM_EGG"}
+, 
+{jobtbl.JT_FACEWORM_LARVA, "FACEWORM_LARVA", "FACEWORM_LARVA"}
+, 
+{jobtbl.JT_IRENE_ELDER, "IRENE_ELDER", "IRENE_ELDER"}
+, 
+{jobtbl.JT_PAYONSOLDIER, "PAYONSOLDIER", "PAYONSOLDIER"}
+, 
+{jobtbl.JT_PAYONSOLDIER2, "PAYONSOLDIER2", "PAYONSOLDIER2"}
+, 
+{jobtbl.JT_GUARDDOG, "GUARDDOG", "GUARDDOG"}
+, 
+{jobtbl.JT_GUARDDOG2, "GUARDDOG2", "GUARDDOG2"}
+, 
+{jobtbl.JT_MER_GARM_BABY, "MER_GARM_BABY", "MER_GARM_BABY"}
+, 
+{jobtbl.JT_MER_HILLSRION, "MER_HILLSRION", "MER_HILLSRION"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_1, "GEFFEN_MAGE_1", "GEFFEN_MAGE_1"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_2, "GEFFEN_MAGE_2", "GEFFEN_MAGE_2"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_3_1, "GEFFEN_MAGE_3_1", "GEFFEN_MAGE_3_1"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_3_2, "GEFFEN_MAGE_3_2", "GEFFEN_MAGE_3_2"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_3_3, "GEFFEN_MAGE_3_3", "GEFFEN_MAGE_3_3"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_4, "GEFFEN_MAGE_4", "GEFFEN_MAGE_4"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_5, "GEFFEN_MAGE_5", "GEFFEN_MAGE_5"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_6, "GEFFEN_MAGE_6", "GEFFEN_MAGE_6"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_7, "GEFFEN_MAGE_7", "GEFFEN_MAGE_7"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_8, "GEFFEN_MAGE_8", "GEFFEN_MAGE_8"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_9, "GEFFEN_MAGE_9", "GEFFEN_MAGE_9"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_10, "GEFFEN_MAGE_10", "GEFFEN_MAGE_10"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_11, "GEFFEN_MAGE_11", "GEFFEN_MAGE_11"}
+, 
+{jobtbl.JT_GEFFEN_MAGE_12, "GEFFEN_MAGE_12", "GEFFEN_MAGE_12"}
+, 
+{jobtbl.JT_FEI_KANABIAN, "FEI_KANABIAN", "FEI_KANABIAN"}
+, 
+{jobtbl.JT_GEFFEN_FENRIR, "GEFFEN_FENRIR", "GEFFEN_FENRIR"}
+, 
+{jobtbl.JT_ALPHONSE, "ALPHONSE", "ALPHONSE"}
+, 
+{jobtbl.JT_ALPHONSE_JR, "ALPHONSE_JR", "ALPHONSE_JR"}
+, 
+{jobtbl.JT_E_GEFFEN_MAGE_3_2, "E_GEFFEN_MAGE_3_2", "E_GEFFEN_MAGE_3_2"}
+, 
+{jobtbl.JT_E_GEFFEN_MAGE_3_3, "E_GEFFEN_MAGE_3_3", "E_GEFFEN_MAGE_3_3"}
+, 
+{jobtbl.JT_4_F_FENRIR, "4_F_FENRIR", nil}
+, 
+{jobtbl.JT_4_F_GEFFEN_FAY, "4_F_GEFFEN_FAY", nil}
+, 
+{jobtbl.JT_4_F_IRIS, "4_F_IRIS", nil}
+, 
+{jobtbl.JT_4_F_LUCILE, "4_F_LUCILE", nil}
+, 
+{jobtbl.JT_4_F_SARAH_BABY, "4_F_SARAH_BABY", nil}
+, 
+{jobtbl.JT_4_GEFFEN_01, "4_GEFFEN_01", nil}
+, 
+{jobtbl.JT_4_GEFFEN_02, "4_GEFFEN_02", nil}
+, 
+{jobtbl.JT_4_GEFFEN_03, "4_GEFFEN_03", nil}
+, 
+{jobtbl.JT_4_GEFFEN_04, "4_GEFFEN_04", nil}
+, 
+{jobtbl.JT_4_GEFFEN_05, "4_GEFFEN_05", nil}
+, 
+{jobtbl.JT_4_GEFFEN_06, "4_GEFFEN_06", nil}
+, 
+{jobtbl.JT_4_GEFFEN_07, "4_GEFFEN_07", nil}
+, 
+{jobtbl.JT_4_GEFFEN_08, "4_GEFFEN_08", nil}
+, 
+{jobtbl.JT_4_GEFFEN_09, "4_GEFFEN_09", nil}
+, 
+{jobtbl.JT_4_GEFFEN_10, "4_GEFFEN_10", nil}
+, 
+{jobtbl.JT_4_GEFFEN_11, "4_GEFFEN_11", nil}
+, 
+{jobtbl.JT_4_GEFFEN_12, "4_GEFFEN_12", nil}
+, 
+{jobtbl.JT_4_GEFFEN_13, "4_GEFFEN_13", nil}
+, 
+{jobtbl.JT_4_GEFFEN_14, "4_GEFFEN_14", nil}
+, 
+{jobtbl.JT_4_M_CHAOS, "4_M_CHAOS", nil}
+, 
+{jobtbl.JT_4_M_CHIEF_IRIN, "4_M_CHIEF_IRIN", nil}
+, 
+{jobtbl.JT_4_M_SAKRAY, "4_M_SAKRAY", nil}
+, 
+{jobtbl.JT_4_M_SAKRAYROYAL, "4_M_SAKRAYROYAL", nil}
+, 
+{jobtbl.JT_4_TOWER_01, "4_TOWER_01", nil}
+, 
+{jobtbl.JT_4_TOWER_02, "4_TOWER_02", nil}
+, 
+{jobtbl.JT_4_TOWER_03, "4_TOWER_03", nil}
+, 
+{jobtbl.JT_4_TOWER_04, "4_TOWER_04", nil}
+, 
+{jobtbl.JT_4_TOWER_05, "4_TOWER_05", nil}
+, 
+{jobtbl.JT_4_TOWER_06, "4_TOWER_06", nil}
+, 
+{jobtbl.JT_4_TOWER_07, "4_TOWER_07", nil}
+, 
+{jobtbl.JT_4_TOWER_08, "4_TOWER_08", nil}
+, 
+{jobtbl.JT_4_TOWER_09, "4_TOWER_09", nil}
+, 
+{jobtbl.JT_4_TOWER_10, "4_TOWER_10", nil}
+, 
+{jobtbl.JT_4_TOWER_11, "4_TOWER_11", nil}
+, 
+{jobtbl.JT_4_TOWER_12, "4_TOWER_12", nil}
+, 
+{jobtbl.JT_4_TOWER_13, "4_TOWER_13", nil}
+, 
+{jobtbl.JT_4_TOWER_14, "4_TOWER_14", nil}
+, 
+{jobtbl.JT_4_TOWER_15, "4_TOWER_15", nil}
+, 
+{jobtbl.JT_4_TOWER_16, "4_TOWER_16", nil}
+, 
+{jobtbl.JT_4_TOWER_17, "4_TOWER_17", nil}
+, 
+{jobtbl.JT_4_TREASURE_BOX, "4_TREASURE_BOX", nil}
+, 
+{jobtbl.JT_ACADEMY_MASTER, "ACADEMY_MASTER", nil}
+, 
+{jobtbl.JT_PORTAL, "PORTAL", nil}
+, 
+{jobtbl.JT_THANATOS_BATTLE, "THANATOS_BATTLE", nil}
+, 
+{jobtbl.JT_THANATOS_KEEP, "THANATOS_KEEP", nil}
+, 
+{jobtbl.JT_G_ANOPHELES, "G_ANOPHELES", "G_ANOPHELES"}
+, 
+{jobtbl.JT_G_BREEZE, "G_BREEZE", "G_BREEZE"}
+, 
+{jobtbl.JT_G_BUTOIJO, "G_BUTOIJO", "G_BUTOIJO"}
+, 
+{jobtbl.JT_G_CARAMEL, "G_CARAMEL", "G_CARAMEL"}
+, 
+{jobtbl.JT_G_CHONCHON, "G_CHONCHON", "G_CHONCHON"}
+, 
+{jobtbl.JT_G_CIVIL_SERVANT, "G_CIVIL_SERVANT", "G_CIVIL_SERVANT"}
+, 
+{jobtbl.JT_G_COCO, "G_COCO", "G_COCO"}
+, 
+{jobtbl.JT_G_CREAMY, "G_CREAMY", "G_CREAMY"}
+, 
+{jobtbl.JT_G_FABRE, "G_FABRE", "G_FABRE"}
+, 
+{jobtbl.JT_G_HORN, "G_HORN", "G_HORN"}
+, 
+{jobtbl.JT_G_HYLOZOIST, "G_HYLOZOIST", "G_HYLOZOIST"}
+, 
+{jobtbl.JT_G_KAHO, "G_KAHO", "G_KAHO"}
+, 
+{jobtbl.JT_G_LUDE, "G_LUDE", "G_LUDE"}
+, 
+{jobtbl.JT_G_LUNATIC, "G_LUNATIC", "G_LUNATIC"}
+, 
+{jobtbl.JT_G_MARTIN, "G_MARTIN", "G_MARTIN"}
+, 
+{jobtbl.JT_G_MINERAL, "G_MINERAL", "G_MINERAL"}
+, 
+{jobtbl.JT_G_MOLE, "G_MOLE", "G_MOLE"}
+, 
+{jobtbl.JT_G_NERAID, "G_NERAID", "G_NERAID"}
+, 
+{jobtbl.JT_G_OBSIDIAN, "G_OBSIDIAN", "G_OBSIDIAN"}
+, 
+{jobtbl.JT_G_PITMAN, "G_PITMAN", "G_PITMAN"}
+, 
+{jobtbl.JT_G_POPORING, "G_POPORING", "G_POPORING"}
+, 
+{jobtbl.JT_G_ROCKER, "G_ROCKER", "G_ROCKER"}
+, 
+{jobtbl.JT_G_SAVAGE, "G_SAVAGE", "G_SAVAGE"}
+, 
+{jobtbl.JT_G_SIORAVA, "G_SIORAVA", "G_SIORAVA"}
+, 
+{jobtbl.JT_G_SIROMA, "G_SIROMA", "G_SIROMA"}
+, 
+{jobtbl.JT_G_SNOWIER, "G_SNOWIER", "G_SNOWIER"}
+, 
+{jobtbl.JT_G_STAINER, "G_STAINER", "G_STAINER"}
+, 
+{jobtbl.JT_G_STAPO, "G_STAPO", "G_STAPO"}
+, 
+{jobtbl.JT_G_STEEL_CHONCHON, "G_STEEL_CHONCHON", "G_STEEL_CHONCHON"}
+, 
+{jobtbl.JT_G_UNGOLIANT, "G_UNGOLIANT", "G_UNGOLIANT"}
+, 
+{jobtbl.JT_G_WILD_RIDER, "G_WILD_RIDER", "G_WILD_RIDER"}
+, 
+{jobtbl.JT_G_WOLF, "G_WOLF", "G_WOLF"}
+, 
+{jobtbl.JT_G_YOYO, "G_YOYO", "G_YOYO"}
+, 
+{jobtbl.JT_G_ZIPPER_BEAR, "G_ZIPPER_BEAR", "G_ZIPPER_BEAR"}
+, 
+{jobtbl.JT_C1_ZOMBIE_SLAUGHTER, "C1_ZOMBIE_SLAUGHTER", "C1_ZOMBIE_SLAUGHTER"}
+, 
+{jobtbl.JT_C2_ZOMBIE_PRISONER, "C2_ZOMBIE_PRISONER", "C2_ZOMBIE_PRISONER"}
+, 
+{jobtbl.JT_C3_ZOMBIE_MASTER, "C3_ZOMBIE_MASTER", "C3_ZOMBIE_MASTER"}
+, 
+{jobtbl.JT_C4_ZOMBIE, "C4_ZOMBIE", "C4_ZOMBIE"}
+, 
+{jobtbl.JT_C5_ZAKUDAM, "C5_ZAKUDAM", "C5_ZAKUDAM"}
+, 
+{jobtbl.JT_C1_YOYO, "C1_YOYO", "C1_YOYO"}
+, 
+{jobtbl.JT_C2_YOYO, "C2_YOYO", "C2_YOYO"}
+, 
+{jobtbl.JT_C3_WORM_TAIL, "C3_WORM_TAIL", "C3_WORM_TAIL"}
+, 
+{jobtbl.JT_C4_WOOTAN_FIGHTER, "C4_WOOTAN_FIGHTER", "C4_WOOTAN_FIGHTER"}
+, 
+{jobtbl.JT_C5_WOOD_GOBLIN, "C5_WOOD_GOBLIN", "C5_WOOD_GOBLIN"}
+, 
+{jobtbl.JT_C1_WOLF, "C1_WOLF", "C1_WOLF"}
+, 
+{jobtbl.JT_C2_WIND_GHOST, "C2_WIND_GHOST", "C2_WIND_GHOST"}
+, 
+{jobtbl.JT_C3_WILOW, "C3_WILOW", "C3_WILOW"}
+, 
+{jobtbl.JT_C4_WILD_ROSE, "C4_WILD_ROSE", "C4_WILD_ROSE"}
+, 
+{jobtbl.JT_C5_WICKED_NYMPH, "C5_WICKED_NYMPH", "C5_WICKED_NYMPH"}
+, 
+{jobtbl.JT_C2_WHISPER, "C2_WHISPER", "C2_WHISPER"}
+, 
+{jobtbl.JT_C3_WEAK_SKELETON, "C3_WEAK_SKELETON", "C3_WEAK_SKELETON"}
+, 
+{jobtbl.JT_C4_WANDER_MAN, "C4_WANDER_MAN", "C4_WANDER_MAN"}
+, 
+{jobtbl.JT_C5_VIOLY, "C5_VIOLY", "C5_VIOLY"}
+, 
+{jobtbl.JT_C1_VIOLY, "C1_VIOLY", "C1_VIOLY"}
+, 
+{jobtbl.JT_C2_VIOLY, "C2_VIOLY", "C2_VIOLY"}
+, 
+{jobtbl.JT_C3_VENOMOUS, "C3_VENOMOUS", "C3_VENOMOUS"}
+, 
+{jobtbl.JT_C4_VENATU_1, "C4_VENATU_1", "C4_VENATU_1"}
+, 
+{jobtbl.JT_C5_VAVAYAGA, "C5_VAVAYAGA", "C5_VAVAYAGA"}
+, 
+{jobtbl.JT_C1_VANBERK, "C1_VANBERK", "C1_VANBERK"}
+, 
+{jobtbl.JT_C2_VADON, "C2_VADON", "C2_VADON"}
+, 
+{jobtbl.JT_C3_UNGOLIANT, "C3_UNGOLIANT", "C3_UNGOLIANT"}
+, 
+{jobtbl.JT_C4_TOUCAN, "C4_TOUCAN", "C4_TOUCAN"}
+, 
+{jobtbl.JT_C5_TIYANAK, "C5_TIYANAK", "C5_TIYANAK"}
+, 
+{jobtbl.JT_C2_THIEF_BUG, "C2_THIEF_BUG", "C2_THIEF_BUG"}
+, 
+{jobtbl.JT_C3_THIEF_BUG, "C3_THIEF_BUG", "C3_THIEF_BUG"}
+, 
+{jobtbl.JT_C4_THIEF_BUG, "C4_THIEF_BUG", "C4_THIEF_BUG"}
+, 
+{jobtbl.JT_C5_THARA_FROG, "C5_THARA_FROG", "C5_THARA_FROG"}
+, 
+{jobtbl.JT_C1_TEDDY_BEAR, "C1_TEDDY_BEAR", "C1_TEDDY_BEAR"}
+, 
+{jobtbl.JT_C2_TATACHO, "C2_TATACHO", "C2_TATACHO"}
+, 
+{jobtbl.JT_C3_TAROU, "C3_TAROU", "C3_TAROU"}
+, 
+{jobtbl.JT_C4_TAMRUAN, "C4_TAMRUAN", "C4_TAMRUAN"}
+, 
+{jobtbl.JT_C5_STING, "C5_STING", "C5_STING"}
+, 
+{jobtbl.JT_C1_STEM_WORM, "C1_STEM_WORM", "C1_STEM_WORM"}
+, 
+{jobtbl.JT_C2_STEEL_CHONCHON, "C2_STEEL_CHONCHON", "C2_STEEL_CHONCHON"}
+, 
+{jobtbl.JT_C3_STAPO, "C3_STAPO", "C3_STAPO"}
+, 
+{jobtbl.JT_C4_STALACTIC_GOLEM, "C4_STALACTIC_GOLEM", "C4_STALACTIC_GOLEM"}
+, 
+{jobtbl.JT_C5_STAINER, "C5_STAINER", "C5_STAINER"}
+, 
+{jobtbl.JT_C1_SPORE, "C1_SPORE", "C1_SPORE"}
+, 
+{jobtbl.JT_C2_SOLIDER, "C2_SOLIDER", "C2_SOLIDER"}
+, 
+{jobtbl.JT_C3_SOLDIER_SKELETON, "C3_SOLDIER_SKELETON", "C3_SOLDIER_SKELETON"}
+, 
+{jobtbl.JT_C4_SOLDIER_SKELETON, "C4_SOLDIER_SKELETON", "C4_SOLDIER_SKELETON"}
+, 
+{jobtbl.JT_C5_SOLACE, "C5_SOLACE", "C5_SOLACE"}
+, 
+{jobtbl.JT_C1_SOHEE, "C1_SOHEE", "C1_SOHEE"}
+, 
+{jobtbl.JT_C2_SNOWIER, "C2_SNOWIER", "C2_SNOWIER"}
+, 
+{jobtbl.JT_C3_SNAKE, "C3_SNAKE", "C3_SNAKE"}
+, 
+{jobtbl.JT_C4_SMOKIE, "C4_SMOKIE", "C4_SMOKIE"}
+, 
+{jobtbl.JT_C5_SLEEPER, "C5_SLEEPER", "C5_SLEEPER"}
+, 
+{jobtbl.JT_C1_SLEEPER, "C1_SLEEPER", "C1_SLEEPER"}
+, 
+{jobtbl.JT_C2_SKOGUL, "C2_SKOGUL", "C2_SKOGUL"}
+, 
+{jobtbl.JT_C3_SKELETON_GENERAL, "C3_SKELETON_GENERAL", "C3_SKELETON_GENERAL"}
+, 
+{jobtbl.JT_C4_SKELETON_GENERAL, "C4_SKELETON_GENERAL", "C4_SKELETON_GENERAL"}
+, 
+{jobtbl.JT_C5_SKEL_WORKER, "C5_SKEL_WORKER", "C5_SKEL_WORKER"}
+, 
+{jobtbl.JT_C1_SIROMA, "C1_SIROMA", "C1_SIROMA"}
+, 
+{jobtbl.JT_C2_SIDE_WINDER, "C2_SIDE_WINDER", "C2_SIDE_WINDER"}
+, 
+{jobtbl.JT_C3_SIDE_WINDER, "C3_SIDE_WINDER", "C3_SIDE_WINDER"}
+, 
+{jobtbl.JT_C4_SHINOBI, "C4_SHINOBI", "C4_SHINOBI"}
+, 
+{jobtbl.JT_C5_SHELTER, "C5_SHELTER", "C5_SHELTER"}
+, 
+{jobtbl.JT_C1_SHELLFISH, "C1_SHELLFISH", "C1_SHELLFISH"}
+, 
+{jobtbl.JT_C2_SHECIL, "C2_SHECIL", "C2_SHECIL"}
+, 
+{jobtbl.JT_C3_SEE_OTTER, "C3_SEE_OTTER", "C3_SEE_OTTER"}
+, 
+{jobtbl.JT_C4_SEDORA, "C4_SEDORA", "C4_SEDORA"}
+, 
+{jobtbl.JT_C5_SCORPION, "C5_SCORPION", "C5_SCORPION"}
+, 
+{jobtbl.JT_C1_SAVAGE_BABE, "C1_SAVAGE_BABE", "C1_SAVAGE_BABE"}
+, 
+{jobtbl.JT_C2_SAVAGE, "C2_SAVAGE", "C2_SAVAGE"}
+, 
+{jobtbl.JT_C3_SAVAGE, "C3_SAVAGE", "C3_SAVAGE"}
+, 
+{jobtbl.JT_C4_SAND_MAN, "C4_SAND_MAN", "C4_SAND_MAN"}
+, 
+{jobtbl.JT_C5_SALAMANDER, "C5_SALAMANDER", "C5_SALAMANDER"}
+, 
+{jobtbl.JT_C1_SAILOR_SKELETON, "C1_SAILOR_SKELETON", "C1_SAILOR_SKELETON"}
+, 
+{jobtbl.JT_C2_ROWEEN, "C2_ROWEEN", "C2_ROWEEN"}
+, 
+{jobtbl.JT_C3_RODA_FROG, "C3_RODA_FROG", "C3_RODA_FROG"}
+, 
+{jobtbl.JT_C4_RODA_FROG, "C4_RODA_FROG", "C4_RODA_FROG"}
+, 
+{jobtbl.JT_C5_ROCKER, "C5_ROCKER", "C5_ROCKER"}
+, 
+{jobtbl.JT_C1_RIDEWORD, "C1_RIDEWORD", "C1_RIDEWORD"}
+, 
+{jobtbl.JT_C2_RIDEWORD, "C2_RIDEWORD", "C2_RIDEWORD"}
+, 
+{jobtbl.JT_C3_RICE_CAKE_BOY, "C3_RICE_CAKE_BOY", "C3_RICE_CAKE_BOY"}
+, 
+{jobtbl.JT_C4_RETRIBUTION, "C4_RETRIBUTION", "C4_RETRIBUTION"}
+, 
+{jobtbl.JT_C5_RETRIBUTION, "C5_RETRIBUTION", "C5_RETRIBUTION"}
+, 
+{jobtbl.JT_C1_RETRIBUTION, "C1_RETRIBUTION", "C1_RETRIBUTION"}
+, 
+{jobtbl.JT_C2_REQUIEM, "C2_REQUIEM", "C2_REQUIEM"}
+, 
+{jobtbl.JT_C3_REMOVAL, "C3_REMOVAL", "C3_REMOVAL"}
+, 
+{jobtbl.JT_C5_RED_ERUMA, "C5_RED_ERUMA", "C5_RED_ERUMA"}
+, 
+{jobtbl.JT_C1_RAYDRIC, "C1_RAYDRIC", "C1_RAYDRIC"}
+, 
+{jobtbl.JT_C2_RAYDRIC, "C2_RAYDRIC", "C2_RAYDRIC"}
+, 
+{jobtbl.JT_C3_RAWREL, "C3_RAWREL", "C3_RAWREL"}
+, 
+{jobtbl.JT_C4_RAKE_SCARABA, "C4_RAKE_SCARABA", "C4_RAKE_SCARABA"}
+, 
+{jobtbl.JT_C5_RAGGLER, "C5_RAGGLER", "C5_RAGGLER"}
+, 
+{jobtbl.JT_C1_RAFFLESIA, "C1_RAFFLESIA", "C1_RAFFLESIA"}
+, 
+{jobtbl.JT_C3_PORING, "C3_PORING", "C3_PORING"}
+, 
+{jobtbl.JT_C4_PORING, "C4_PORING", "C4_PORING"}
+, 
+{jobtbl.JT_C5_PORING, "C5_PORING", "C5_PORING"}
+, 
+{jobtbl.JT_C1_PORING, "C1_PORING", "C1_PORING"}
+, 
+{jobtbl.JT_C2_PORCELLIO, "C2_PORCELLIO", "C2_PORCELLIO"}
+, 
+{jobtbl.JT_C3_POPORING, "C3_POPORING", "C3_POPORING"}
+, 
+{jobtbl.JT_C4_POPORING, "C4_POPORING", "C4_POPORING"}
+, 
+{jobtbl.JT_C5_POPORING, "C5_POPORING", "C5_POPORING"}
+, 
+{jobtbl.JT_C1_POISON_TOAD, "C1_POISON_TOAD", "C1_POISON_TOAD"}
+, 
+{jobtbl.JT_C2_POISON_SPORE, "C2_POISON_SPORE", "C2_POISON_SPORE"}
+, 
+{jobtbl.JT_C3_PLASMA_Y, "C3_PLASMA_Y", "C3_PLASMA_Y"}
+, 
+{jobtbl.JT_C4_PLANKTON, "C4_PLANKTON", "C4_PLANKTON"}
+, 
+{jobtbl.JT_C5_PITMAN, "C5_PITMAN", "C5_PITMAN"}
+, 
+{jobtbl.JT_C1_PIRANHA, "C1_PIRANHA", "C1_PIRANHA"}
+, 
+{jobtbl.JT_C2_PINGUICULA_D, "C2_PINGUICULA_D", "C2_PINGUICULA_D"}
+, 
+{jobtbl.JT_C3_PINGUICULA, "C3_PINGUICULA", "C3_PINGUICULA"}
+, 
+{jobtbl.JT_C4_PICKY_, "C4_PICKY_", "C4_PICKY_"}
+, 
+{jobtbl.JT_C5_PHEN, "C5_PHEN", "C5_PHEN"}
+, 
+{jobtbl.JT_C1_PETIT, "C1_PETIT", "C1_PETIT"}
+, 
+{jobtbl.JT_C2_PETIT, "C2_PETIT", "C2_PETIT"}
+, 
+{jobtbl.JT_C3_PENOMENA, "C3_PENOMENA", "C3_PENOMENA"}
+, 
+{jobtbl.JT_C4_PENOMENA, "C4_PENOMENA", "C4_PENOMENA"}
+, 
+{jobtbl.JT_C5_PECOPECO, "C5_PECOPECO", "C5_PECOPECO"}
+, 
+{jobtbl.JT_C1_PASANA, "C1_PASANA", "C1_PASANA"}
+, 
+{jobtbl.JT_C2_PARASITE, "C2_PARASITE", "C2_PARASITE"}
+, 
+{jobtbl.JT_C3_OWL_DUKE, "C3_OWL_DUKE", "C3_OWL_DUKE"}
+, 
+{jobtbl.JT_C4_ORK_WARRIOR, "C4_ORK_WARRIOR", "C4_ORK_WARRIOR"}
+, 
+{jobtbl.JT_C5_ORC_ZOMBIE, "C5_ORC_ZOMBIE", "C5_ORC_ZOMBIE"}
+, 
+{jobtbl.JT_C1_ORC_SKELETON, "C1_ORC_SKELETON", "C1_ORC_SKELETON"}
+, 
+{jobtbl.JT_C2_ORC_LADY, "C2_ORC_LADY", "C2_ORC_LADY"}
+, 
+{jobtbl.JT_C3_OBSERVATION, "C3_OBSERVATION", "C3_OBSERVATION"}
+, 
+{jobtbl.JT_C4_NOXIOUS, "C4_NOXIOUS", "C4_NOXIOUS"}
+, 
+{jobtbl.JT_C5_NOVUS, "C5_NOVUS", "C5_NOVUS"}
+, 
+{jobtbl.JT_C1_NOVUS, "C1_NOVUS", "C1_NOVUS"}
+, 
+{jobtbl.JT_C2_NOVUS, "C2_NOVUS", "C2_NOVUS"}
+, 
+{jobtbl.JT_C3_NOVUS, "C3_NOVUS", "C3_NOVUS"}
+, 
+{jobtbl.JT_C4_NIGHTMARE_TERROR, "C4_NIGHTMARE_TERROR", "C4_NIGHTMARE_TERROR"}
+, 
+{jobtbl.JT_C5_NG_WRAITH_DEAD, "C5_NG_WRAITH_DEAD", "C5_NG_WRAITH_DEAD"}
+, 
+{jobtbl.JT_C1_NG_WANDER_MAN, "C1_NG_WANDER_MAN", "C1_NG_WANDER_MAN"}
+, 
+{jobtbl.JT_C2_NEPENTHES, "C2_NEPENTHES", "C2_NEPENTHES"}
+, 
+{jobtbl.JT_C3_NECROMANCER, "C3_NECROMANCER", "C3_NECROMANCER"}
+, 
+{jobtbl.JT_C4_MYSTCASE, "C4_MYSTCASE", "C4_MYSTCASE"}
+, 
+{jobtbl.JT_C5_MUSCIPULAR, "C5_MUSCIPULAR", "C5_MUSCIPULAR"}
+, 
+{jobtbl.JT_C1_MUMMY, "C1_MUMMY", "C1_MUMMY"}
+, 
+{jobtbl.JT_C2_MUMMY, "C2_MUMMY", "C2_MUMMY"}
+, 
+{jobtbl.JT_C3_MUKA, "C3_MUKA", "C3_MUKA"}
+, 
+{jobtbl.JT_C4_MOROCC_1, "C4_MOROCC_1", "C4_MOROCC_1"}
+, 
+{jobtbl.JT_C5_MOROCC_1, "C5_MOROCC_1", "C5_MOROCC_1"}
+, 
+{jobtbl.JT_C1_MOROCC_1, "C1_MOROCC_1", "C1_MOROCC_1"}
+, 
+{jobtbl.JT_C2_MOLE, "C2_MOLE", "C2_MOLE"}
+, 
+{jobtbl.JT_C3_MIYABI_NINGYO, "C3_MIYABI_NINGYO", "C3_MIYABI_NINGYO"}
+, 
+{jobtbl.JT_C4_MINOROUS, "C4_MINOROUS", "C4_MINOROUS"}
+, 
+{jobtbl.JT_C5_MINOROUS, "C5_MINOROUS", "C5_MINOROUS"}
+, 
+{jobtbl.JT_C1_MINOROUS, "C1_MINOROUS", "C1_MINOROUS"}
+, 
+{jobtbl.JT_C2_MINERAL, "C2_MINERAL", "C2_MINERAL"}
+, 
+{jobtbl.JT_C3_MIMING, "C3_MIMING", "C3_MIMING"}
+, 
+{jobtbl.JT_C4_MIMIC, "C4_MIMIC", "C4_MIMIC"}
+, 
+{jobtbl.JT_C5_MIMIC, "C5_MIMIC", "C5_MIMIC"}
+, 
+{jobtbl.JT_C1_METALLER, "C1_METALLER", "C1_METALLER"}
+, 
+{jobtbl.JT_C2_METALING, "C2_METALING", "C2_METALING"}
+, 
+{jobtbl.JT_C3_METALING, "C3_METALING", "C3_METALING"}
+, 
+{jobtbl.JT_C4_MERMAN, "C4_MERMAN", "C4_MERMAN"}
+, 
+{jobtbl.JT_C5_MENBLATT, "C5_MENBLATT", "C5_MENBLATT"}
+, 
+{jobtbl.JT_C1_MEDUSA, "C1_MEDUSA", "C1_MEDUSA"}
+, 
+{jobtbl.JT_C2_MARTIN, "C2_MARTIN", "C2_MARTIN"}
+, 
+{jobtbl.JT_C3_MARIONETTE, "C3_MARIONETTE", "C3_MARIONETTE"}
+, 
+{jobtbl.JT_C4_MARIN, "C4_MARIN", "C4_MARIN"}
+, 
+{jobtbl.JT_C5_MARDUK, "C5_MARDUK", "C5_MARDUK"}
+, 
+{jobtbl.JT_C1_MANTIS, "C1_MANTIS", "C1_MANTIS"}
+, 
+{jobtbl.JT_C2_MANDRAGORA, "C2_MANDRAGORA", "C2_MANDRAGORA"}
+, 
+{jobtbl.JT_C3_MANANANGGAL, "C3_MANANANGGAL", "C3_MANANANGGAL"}
+, 
+{jobtbl.JT_C4_MAJORUROS, "C4_MAJORUROS", "C4_MAJORUROS"}
+, 
+{jobtbl.JT_C5_MAGNOLIA, "C5_MAGNOLIA", "C5_MAGNOLIA"}
+, 
+{jobtbl.JT_C1_MAGMARING, "C1_MAGMARING", "C1_MAGMARING"}
+, 
+{jobtbl.JT_C2_LUNATIC, "C2_LUNATIC", "C2_LUNATIC"}
+, 
+{jobtbl.JT_C3_LUNATIC, "C3_LUNATIC", "C3_LUNATIC"}
+, 
+{jobtbl.JT_C4_LUDE, "C4_LUDE", "C4_LUDE"}
+, 
+{jobtbl.JT_C5_LUCIOLA_VESPA, "C5_LUCIOLA_VESPA", "C5_LUCIOLA_VESPA"}
+, 
+{jobtbl.JT_C1_LOLI_RURI, "C1_LOLI_RURI", "C1_LOLI_RURI"}
+, 
+{jobtbl.JT_C2_LIVE_PEACH_TREE, "C2_LIVE_PEACH_TREE", "C2_LIVE_PEACH_TREE"}
+, 
+{jobtbl.JT_C3_LITTLE_PORING, "C3_LITTLE_PORING", "C3_LITTLE_PORING"}
+, 
+{jobtbl.JT_C4_LITTLE_FATUM, "C4_LITTLE_FATUM", "C4_LITTLE_FATUM"}
+, 
+{jobtbl.JT_C5_LI_ME_MANG_RYANG, "C5_LI_ME_MANG_RYANG", "C5_LI_ME_MANG_RYANG"}
+, 
+{jobtbl.JT_C1_LES, "C1_LES", "C1_LES"}
+, 
+{jobtbl.JT_C2_LEIB_OLMAI, "C2_LEIB_OLMAI", "C2_LEIB_OLMAI"}
+, 
+{jobtbl.JT_C3_LEAF_CAT, "C3_LEAF_CAT", "C3_LEAF_CAT"}
+, 
+{jobtbl.JT_C4_L_WHIKEBAIN, "C4_L_WHIKEBAIN", "C4_L_WHIKEBAIN"}
+, 
+{jobtbl.JT_C5_L_EREMES, "C5_L_EREMES", "C5_L_EREMES"}
+, 
+{jobtbl.JT_C1_KOBOLD_ARCHER, "C1_KOBOLD_ARCHER", "C1_KOBOLD_ARCHER"}
+, 
+{jobtbl.JT_C2_KOBOLD_1, "C2_KOBOLD_1", "C2_KOBOLD_1"}
+, 
+{jobtbl.JT_C3_KNOCKER, "C3_KNOCKER", "C3_KNOCKER"}
+, 
+{jobtbl.JT_C4_KIND_OF_BEETLE, "C4_KIND_OF_BEETLE", "C4_KIND_OF_BEETLE"}
+, 
+{jobtbl.JT_C5_KASA, "C5_KASA", "C5_KASA"}
+, 
+{jobtbl.JT_C1_KARAKASA, "C1_KARAKASA", "C1_KARAKASA"}
+, 
+{jobtbl.JT_C2_ISIS, "C2_ISIS", "C2_ISIS"}
+, 
+{jobtbl.JT_C3_ISILLA, "C3_ISILLA", "C3_ISILLA"}
+, 
+{jobtbl.JT_C4_INJUSTICE, "C4_INJUSTICE", "C4_INJUSTICE"}
+, 
+{jobtbl.JT_C5_INCREASE_SOIL, "C5_INCREASE_SOIL", "C5_INCREASE_SOIL"}
+, 
+{jobtbl.JT_C1_ICE_TITAN, "C1_ICE_TITAN", "C1_ICE_TITAN"}
+, 
+{jobtbl.JT_C2_IARA, "C2_IARA", "C2_IARA"}
+, 
+{jobtbl.JT_C3_HYEGUN, "C3_HYEGUN", "C3_HYEGUN"}
+, 
+{jobtbl.JT_C4_HUNTER_FLY, "C4_HUNTER_FLY", "C4_HUNTER_FLY"}
+, 
+{jobtbl.JT_C5_HORNET, "C5_HORNET", "C5_HORNET"}
+, 
+{jobtbl.JT_C1_HORN_SCARABA, "C1_HORN_SCARABA", "C1_HORN_SCARABA"}
+, 
+{jobtbl.JT_C2_HORN, "C2_HORN", "C2_HORN"}
+, 
+{jobtbl.JT_C3_HODREMLIN, "C3_HODREMLIN", "C3_HODREMLIN"}
+, 
+{jobtbl.JT_C4_HODE, "C4_HODE", "C4_HODE"}
+, 
+{jobtbl.JT_C5_HILL_WIND_1, "C5_HILL_WIND_1", "C5_HILL_WIND_1"}
+, 
+{jobtbl.JT_C1_HILL_WIND_1, "C1_HILL_WIND_1", "C1_HILL_WIND_1"}
+, 
+{jobtbl.JT_C2_HIGH_ORC, "C2_HIGH_ORC", "C2_HIGH_ORC"}
+, 
+{jobtbl.JT_C3_HARPY, "C3_HARPY", "C3_HARPY"}
+, 
+{jobtbl.JT_C4_HARPY, "C4_HARPY", "C4_HARPY"}
+, 
+{jobtbl.JT_C5_GREEN_IGUANA, "C5_GREEN_IGUANA", "C5_GREEN_IGUANA"}
+, 
+{jobtbl.JT_C1_GREATEST_GENERAL, "C1_GREATEST_GENERAL", "C1_GREATEST_GENERAL"}
+, 
+{jobtbl.JT_C2_GRAND_PECO, "C2_GRAND_PECO", "C2_GRAND_PECO"}
+, 
+{jobtbl.JT_C3_GRAND_PECO, "C3_GRAND_PECO", "C3_GRAND_PECO"}
+, 
+{jobtbl.JT_C4_GOLEM, "C4_GOLEM", "C4_GOLEM"}
+, 
+{jobtbl.JT_C5_GOBLIN_1, "C5_GOBLIN_1", "C5_GOBLIN_1"}
+, 
+{jobtbl.JT_C1_GOBLIN_1, "C1_GOBLIN_1", "C1_GOBLIN_1"}
+, 
+{jobtbl.JT_C2_GOAT, "C2_GOAT", "C2_GOAT"}
+, 
+{jobtbl.JT_C3_GOAT, "C3_GOAT", "C3_GOAT"}
+, 
+{jobtbl.JT_C4_GLD_KOBOLD_2, "C4_GLD_KOBOLD_2", "C4_GLD_KOBOLD_2"}
+, 
+{jobtbl.JT_C5_GLD_KOBOLD_2, "C5_GLD_KOBOLD_2", "C5_GLD_KOBOLD_2"}
+, 
+{jobtbl.JT_C1_GLD_DARK_SHADOW, "C1_GLD_DARK_SHADOW", "C1_GLD_DARK_SHADOW"}
+, 
+{jobtbl.JT_C2_GLD_DARK_SHADOW, "C2_GLD_DARK_SHADOW", "C2_GLD_DARK_SHADOW"}
+, 
+{jobtbl.JT_C3_GIANT_HONET, "C3_GIANT_HONET", "C3_GIANT_HONET"}
+, 
+{jobtbl.JT_C4_GHOUL, "C4_GHOUL", "C4_GHOUL"}
+, 
+{jobtbl.JT_C5_GHOUL, "C5_GHOUL", "C5_GHOUL"}
+, 
+{jobtbl.JT_C1_GEOGRAPHER, "C1_GEOGRAPHER", "C1_GEOGRAPHER"}
+, 
+{jobtbl.JT_C2_GEOGRAPHER, "C2_GEOGRAPHER", "C2_GEOGRAPHER"}
+, 
+{jobtbl.JT_C3_GARGOYLE, "C3_GARGOYLE", "C3_GARGOYLE"}
+, 
+{jobtbl.JT_C4_GARGOYLE, "C4_GARGOYLE", "C4_GARGOYLE"}
+, 
+{jobtbl.JT_C5_GALION, "C5_GALION", "C5_GALION"}
+, 
+{jobtbl.JT_C1_FUR_SEAL, "C1_FUR_SEAL", "C1_FUR_SEAL"}
+, 
+{jobtbl.JT_C2_FREEZER, "C2_FREEZER", "C2_FREEZER"}
+, 
+{jobtbl.JT_C3_FREEZER, "C3_FREEZER", "C3_FREEZER"}
+, 
+{jobtbl.JT_C4_FERUS_, "C4_FERUS_", "C4_FERUS_"}
+, 
+{jobtbl.JT_C5_FARMILIAR, "C5_FARMILIAR", "C5_FARMILIAR"}
+, 
+{jobtbl.JT_C1_FAKE_ANGEL, "C1_FAKE_ANGEL", "C1_FAKE_ANGEL"}
+, 
+{jobtbl.JT_C2_FABRE, "C2_FABRE", "C2_FABRE"}
+, 
+{jobtbl.JT_C3_FABRE, "C3_FABRE", "C3_FABRE"}
+, 
+{jobtbl.JT_C4_EXPLOSION, "C4_EXPLOSION", "C4_EXPLOSION"}
+, 
+{jobtbl.JT_C5_EVIL_DRUID, "C5_EVIL_DRUID", "C5_EVIL_DRUID"}
+, 
+{jobtbl.JT_C1_ELDER_WILOW, "C1_ELDER_WILOW", "C1_ELDER_WILOW"}
+, 
+{jobtbl.JT_C2_ELDER_WILOW, "C2_ELDER_WILOW", "C2_ELDER_WILOW"}
+, 
+{jobtbl.JT_C3_ECHIO, "C3_ECHIO", "C3_ECHIO"}
+, 
+{jobtbl.JT_C4_DUSTINESS, "C4_DUSTINESS", "C4_DUSTINESS"}
+, 
+{jobtbl.JT_C1_DRYAD, "C1_DRYAD", "C1_DRYAD"}
+, 
+{jobtbl.JT_C2_DROSERA, "C2_DROSERA", "C2_DROSERA"}
+, 
+{jobtbl.JT_C3_DROPS, "C3_DROPS", "C3_DROPS"}
+, 
+{jobtbl.JT_C4_DRILLER, "C4_DRILLER", "C4_DRILLER"}
+, 
+{jobtbl.JT_C5_DRAINLIAR, "C5_DRAINLIAR", "C5_DRAINLIAR"}
+, 
+{jobtbl.JT_C1_DRAGON_TAIL, "C1_DRAGON_TAIL", "C1_DRAGON_TAIL"}
+, 
+{jobtbl.JT_C2_DRACO, "C2_DRACO", "C2_DRACO"}
+, 
+{jobtbl.JT_C3_DOLOMEDES, "C3_DOLOMEDES", "C3_DOLOMEDES"}
+, 
+{jobtbl.JT_C4_DOKEBI, "C4_DOKEBI", "C4_DOKEBI"}
+, 
+{jobtbl.JT_C5_DISGUISE, "C5_DISGUISE", "C5_DISGUISE"}
+, 
+{jobtbl.JT_C1_DIMIK_1, "C1_DIMIK_1", "C1_DIMIK_1"}
+, 
+{jobtbl.JT_C2_DEVIRUCHI, "C2_DEVIRUCHI", "C2_DEVIRUCHI"}
+, 
+{jobtbl.JT_C3_DESERT_WOLF_B, "C3_DESERT_WOLF_B", "C3_DESERT_WOLF_B"}
+, 
+{jobtbl.JT_C4_DESERT_WOLF_B, "C4_DESERT_WOLF_B", "C4_DESERT_WOLF_B"}
+, 
+{jobtbl.JT_C5_DENIRO, "C5_DENIRO", "C5_DENIRO"}
+, 
+{jobtbl.JT_C1_DEATHWORD, "C1_DEATHWORD", "C1_DEATHWORD"}
+, 
+{jobtbl.JT_C2_DEATHWORD, "C2_DEATHWORD", "C2_DEATHWORD"}
+, 
+{jobtbl.JT_C3_DEATHWORD, "C3_DEATHWORD", "C3_DEATHWORD"}
+, 
+{jobtbl.JT_C4_DARK_PRIEST, "C4_DARK_PRIEST", "C4_DARK_PRIEST"}
+, 
+{jobtbl.JT_C5_DANCING_DRAGON, "C5_DANCING_DRAGON", "C5_DANCING_DRAGON"}
+, 
+{jobtbl.JT_C1_CREAMY, "C1_CREAMY", "C1_CREAMY"}
+, 
+{jobtbl.JT_C2_CORNUTUS, "C2_CORNUTUS", "C2_CORNUTUS"}
+, 
+{jobtbl.JT_C3_COOKIE, "C3_COOKIE", "C3_COOKIE"}
+, 
+{jobtbl.JT_C4_CONSTANT, "C4_CONSTANT", "C4_CONSTANT"}
+, 
+{jobtbl.JT_C5_COMODO, "C5_COMODO", "C5_COMODO"}
+, 
+{jobtbl.JT_C1_COCO, "C1_COCO", "C1_COCO"}
+, 
+{jobtbl.JT_C2_COCO, "C2_COCO", "C2_COCO"}
+, 
+{jobtbl.JT_C3_CLOCK, "C3_CLOCK", "C3_CLOCK"}
+, 
+{jobtbl.JT_C4_CLOCK, "C4_CLOCK", "C4_CLOCK"}
+, 
+{jobtbl.JT_C5_CHONCHON, "C5_CHONCHON", "C5_CHONCHON"}
+, 
+{jobtbl.JT_C1_CENTIPEDE, "C1_CENTIPEDE", "C1_CENTIPEDE"}
+, 
+{jobtbl.JT_C2_CENERE, "C2_CENERE", "C2_CENERE"}
+, 
+{jobtbl.JT_C3_CELIA, "C3_CELIA", "C3_CELIA"}
+, 
+{jobtbl.JT_C4_CATERPILLAR, "C4_CATERPILLAR", "C4_CATERPILLAR"}
+, 
+{jobtbl.JT_C5_CARAT, "C5_CARAT", "C5_CARAT"}
+, 
+{jobtbl.JT_C1_CARAMEL, "C1_CARAMEL", "C1_CARAMEL"}
+, 
+{jobtbl.JT_C2_BUNGISNGIS, "C2_BUNGISNGIS", "C2_BUNGISNGIS"}
+, 
+{jobtbl.JT_C3_BREEZE, "C3_BREEZE", "C3_BREEZE"}
+, 
+{jobtbl.JT_C4_BREEZE, "C4_BREEZE", "C4_BREEZE"}
+, 
+{jobtbl.JT_C5_BRADIUM_GOLEM, "C5_BRADIUM_GOLEM", "C5_BRADIUM_GOLEM"}
+, 
+{jobtbl.JT_C1_BLOOD_BUTTERFLY, "C1_BLOOD_BUTTERFLY", "C1_BLOOD_BUTTERFLY"}
+, 
+{jobtbl.JT_C3_BIGFOOT, "C3_BIGFOOT", "C3_BIGFOOT"}
+, 
+{jobtbl.JT_C4_BATHORY, "C4_BATHORY", "C4_BATHORY"}
+, 
+{jobtbl.JT_C5_BANSHEE_MASTER, "C5_BANSHEE_MASTER", "C5_BANSHEE_MASTER"}
+, 
+{jobtbl.JT_C1_BANSHEE, "C1_BANSHEE", "C1_BANSHEE"}
+, 
+{jobtbl.JT_C2_BANASPATY, "C2_BANASPATY", "C2_BANASPATY"}
+, 
+{jobtbl.JT_C3_ASSULTER, "C3_ASSULTER", "C3_ASSULTER"}
+, 
+{jobtbl.JT_C4_ARGOS, "C4_ARGOS", "C4_ARGOS"}
+, 
+{jobtbl.JT_C5_ARGIOPE, "C5_ARGIOPE", "C5_ARGIOPE"}
+, 
+{jobtbl.JT_C1_ARGIOPE, "C1_ARGIOPE", "C1_ARGIOPE"}
+, 
+{jobtbl.JT_C2_ARCLOUSE, "C2_ARCLOUSE", "C2_ARCLOUSE"}
+, 
+{jobtbl.JT_C3_ARCLOUSE, "C3_ARCLOUSE", "C3_ARCLOUSE"}
+, 
+{jobtbl.JT_C4_APOCALIPS, "C4_APOCALIPS", "C4_APOCALIPS"}
+, 
+{jobtbl.JT_C5_ANTLER_SCARABA, "C5_ANTLER_SCARABA", "C5_ANTLER_SCARABA"}
+, 
+{jobtbl.JT_C1_ANTIQUE_BOOK, "C1_ANTIQUE_BOOK", "C1_ANTIQUE_BOOK"}
+, 
+{jobtbl.JT_C2_ANTIQUE_BOOK, "C2_ANTIQUE_BOOK", "C2_ANTIQUE_BOOK"}
+, 
+{jobtbl.JT_C4_ANOLIAN, "C4_ANOLIAN", "C4_ANOLIAN"}
+, 
+{jobtbl.JT_C5_ANGRA_MANTIS, "C5_ANGRA_MANTIS", "C5_ANGRA_MANTIS"}
+, 
+{jobtbl.JT_C1_ANGRA_MANTIS, "C1_ANGRA_MANTIS", "C1_ANGRA_MANTIS"}
+, 
+{jobtbl.JT_C2_ANDRE, "C2_ANDRE", "C2_ANDRE"}
+, 
+{jobtbl.JT_C3_ANCIENT_MIMIC, "C3_ANCIENT_MIMIC", "C3_ANCIENT_MIMIC"}
+, 
+{jobtbl.JT_C4_ANACONDAQ, "C4_ANACONDAQ", "C4_ANACONDAQ"}
+, 
+{jobtbl.JT_C5_AMBERNITE, "C5_AMBERNITE", "C5_AMBERNITE"}
+, 
+{jobtbl.JT_C1_ALNOLDI, "C1_ALNOLDI", "C1_ALNOLDI"}
+, 
+{jobtbl.JT_C2_ALLIGATOR, "C2_ALLIGATOR", "C2_ALLIGATOR"}
+, 
+{jobtbl.JT_C3_ALIZA, "C3_ALIZA", "C3_ALIZA"}
+, 
+{jobtbl.JT_C4_ALICEL, "C4_ALICEL", "C4_ALICEL"}
+, 
+{jobtbl.JT_C5_ALARM, "C5_ALARM", "C5_ALARM"}
+, 
+{jobtbl.JT_C1_AGAV, "C1_AGAV", "C1_AGAV"}
+, 
+{jobtbl.JT_C2_ACIDUS_, "C2_ACIDUS_", "C2_ACIDUS_"}
+, 
+{jobtbl.JT_C3_ACIDUS_, "C3_ACIDUS_", "C3_ACIDUS_"}
+, 
+{jobtbl.JT_E_GEFFEN_MAGE_3_1, "E_GEFFEN_MAGE_3_1", "E_GEFFEN_MAGE_3_1"}
+, 
+{jobtbl.JT_HIDDEN_MOB6, "HIDDEN_MOB6", "HIDDEN_MOB6"}
+, 
+{jobtbl.JT_BIG_BEN, "BIG_BEN", "BIG_BEN"}
+, 
+{jobtbl.JT_BIG_BELL, "BIG_BELL", "BIG_BELL"}
+, 
+{jobtbl.JT_TIME_KEEPER, "TIME_KEEPER", "TIME_KEEPER"}
+, 
+{jobtbl.JT_NEO_PUNK, "NEO_PUNK", "NEO_PUNK"}
+, 
+{jobtbl.JT_ARC_ELDER, "ARC_ELDER", "ARC_ELDER"}
+, 
+{jobtbl.JT_OWL_VISCOUNT, "OWL_VISCOUNT", "OWL_VISCOUNT"}
+, 
+{jobtbl.JT_G_OWL_VISCOUNT, "G_OWL_VISCOUNT", "G_OWL_VISCOUNT"}
+, 
+{jobtbl.JT_OWL_MARQUEES, "OWL_MARQUEES", "OWL_MARQUEES"}
+, 
+{jobtbl.JT_T_ELDER_WILOW, "T_ELDER_WILOW", "T_ELDER_WILOW"}
+, 
+{jobtbl.JT_T_WILOW, "T_WILOW", "T_WILOW"}
+, 
+{jobtbl.JT_T_HARPY, "T_HARPY", "T_HARPY"}
+, 
+{jobtbl.JT_T_MINERAL, "T_MINERAL", "T_MINERAL"}
+, 
+{jobtbl.JT_T_GIBBET, "T_GIBBET", "T_GIBBET"}
+, 
+{jobtbl.JT_T_PLASMA_G, "T_PLASMA_G", "T_PLASMA_G"}
+, 
+{jobtbl.JT_T_SOLACE, "T_SOLACE", "T_SOLACE"}
+, 
+{jobtbl.JT_T_METALING, "T_METALING", "T_METALING"}
+, 
+{jobtbl.JT_T_POPORING, "T_POPORING", "T_POPORING"}
+, 
+{jobtbl.JT_T_DEVILING, "T_DEVILING", "T_DEVILING"}
+, 
+{jobtbl.JT_T_ARCHANGELING, "T_ARCHANGELING", "T_ARCHANGELING"}
+, 
+{jobtbl.JT_T_EVIL_CLOUD_HERMIT, "T_EVIL_CLOUD_HERMIT", "T_EVIL_CLOUD_HERMIT"}
+, 
+{jobtbl.JT_E_GHOSTRING, "E_GHOSTRING", "E_GHOSTRING"}
+, 
+{jobtbl.JT_M_LOKI, "M_LOKI", "M_LOKI"}
+, 
+{jobtbl.JT_MM_MAGIC_SEAL, "MM_MAGIC_SEAL", "MM_MAGIC_SEAL"}
+, 
+{jobtbl.JT_MM_EVIL_SHADOW1, "MM_EVIL_SHADOW1", "MM_EVIL_SHADOW1"}
+, 
+{jobtbl.JT_MM_EVIL_SHADOW2, "MM_EVIL_SHADOW2", "MM_EVIL_SHADOW2"}
+, 
+{jobtbl.JT_MM_EVIL_SHADOW3, "MM_EVIL_SHADOW3", "MM_EVIL_SHADOW3"}
+, 
+{jobtbl.JT_MM_EVIL_FANATICS, "MM_EVIL_FANATICS", "MM_EVIL_FANATICS"}
+, 
+{jobtbl.JT_MM_ICE_MINE, "MM_ICE_MINE", "MM_ICE_MINE"}
+, 
+{jobtbl.JT_4_F_LYDIA, "4_F_LYDIA", nil}
+, 
+{jobtbl.JT_4_LUDE, "4_LUDE", nil}
+, 
+{jobtbl.JT_4_ALIZA, "4_ALIZA", nil}
+, 
+{jobtbl.JT_4_ALICE, "4_ALICE", nil}
+, 
+{jobtbl.JT_4_ARCHER_SKEL, "4_ARCHER_SKEL", nil}
+, 
+{jobtbl.JT_4_JACK, "4_JACK", nil}
+, 
+{jobtbl.JT_4_SOLDIER_SKEL, "4_SOLDIER_SKEL", nil}
+, 
+{jobtbl.JT_4_LOLI_RURI, "4_LOLI_RURI", nil}
+, 
+{jobtbl.JT_4_M_SAKRAY_TIED, "4_M_SAKRAY_TIED", nil}
+, 
+{jobtbl.JT_J_HORNET, "J_HORNET", "J_HORNET"}
+, 
+{jobtbl.JT_J_MUMMY, "J_MUMMY", "J_MUMMY"}
+, 
+{jobtbl.JT_J_ANUBIS, "J_ANUBIS", "J_ANUBIS"}
+, 
+{jobtbl.JT_J_EGGYRA, "J_EGGYRA", "J_EGGYRA"}
+, 
+{jobtbl.JT_CURSED_SOLDIER, "CURSED_SOLDIER", "CURSED_SOLDIER"}
+, 
+{jobtbl.JT_CURSED_SENTINEL, "CURSED_SENTINEL", "CURSED_SENTINEL"}
+, 
+{jobtbl.JT_BROKEN_MIND, "BROKEN_MIND", "BROKEN_MIND"}
+, 
+{jobtbl.JT_FLOATING_WORD, "FLOATING_WORD", "FLOATING_WORD"}
+, 
+{jobtbl.JT_LIKE_LOVE, "LIKE_LOVE", "LIKE_LOVE"}
+, 
+{jobtbl.JT_CURSED_MEMORY, "CURSED_MEMORY", "CURSED_MEMORY"}
+, 
+{jobtbl.JT_COLORLESS_VOW, "COLORLESS_VOW", "COLORLESS_VOW"}
+, 
+{jobtbl.JT_OLD_FRIENDSHIP, "OLD_FRIENDSHIP", "OLD_FRIENDSHIP"}
+, 
+{jobtbl.JT_SWEET_SLAUGHTER, "SWEET_SLAUGHTER", "SWEET_SLAUGHTER"}
+, 
+{jobtbl.JT_FORGOTTEN_NAME, "FORGOTTEN_NAME", "FORGOTTEN_NAME"}
+, 
+{jobtbl.JT_FATAL_DAYS, "FATAL_DAYS", "FATAL_DAYS"}
+, 
+{jobtbl.JT_TORTUROUS_REDEEMER, "TORTUROUS_REDEEMER", "TORTUROUS_REDEEMER"}
+, 
+{jobtbl.JT_MM_FLAMECROSS, "MM_FLAMECROSS", "MM_FLAMECROSS"}
+, 
+{jobtbl.JT_E_TORTUROUS_REDEEMER, "E_TORTUROUS_REDEEMER", "E_TORTUROUS_REDEEMER"}
+, 
+{jobtbl.JT_E_DEVILING, "E_DEVILING", "E_DEVILING"}
+, 
+{jobtbl.JT_WOODIE, "WOODIE", "WOODIE"}
+, 
+{jobtbl.JT_EXP_1000, "EXP_1000", "EXP_1000"}
+, 
+{jobtbl.JT_TW_APOCALIPS_H, "TW_APOCALIPS_H", "TW_APOCALIPS_H"}
+, 
+{jobtbl.JT_TW_B_EREMES, "TW_B_EREMES", "TW_B_EREMES"}
+, 
+{jobtbl.JT_TW_B_HARWORD, "TW_B_HARWORD", "TW_B_HARWORD"}
+, 
+{jobtbl.JT_TW_B_SEYREN, "TW_B_SEYREN", "TW_B_SEYREN"}
+, 
+{jobtbl.JT_TW_BAPHOMET2, "TW_BAPHOMET2", "TW_BAPHOMET2"}
+, 
+{jobtbl.JT_TW_DARK_LORD, "TW_DARK_LORD", "TW_DARK_LORD"}
+, 
+{jobtbl.JT_TW_DARK_SNAKE_LORD, "TW_DARK_SNAKE_LORD", "TW_DARK_SNAKE_LORD"}
+, 
+{jobtbl.JT_TW_DOPPELGANGER, "TW_DOPPELGANGER", "TW_DOPPELGANGER"}
+, 
+{jobtbl.JT_TW_DRACULA, "TW_DRACULA", "TW_DRACULA"}
+, 
+{jobtbl.JT_TW_EDDGA, "TW_EDDGA", "TW_EDDGA"}
+, 
+{jobtbl.JT_TW_FALLINGBISHOP, "TW_FALLINGBISHOP", "TW_FALLINGBISHOP"}
+, 
+{jobtbl.JT_TW_GLOOMUNDERNIGHT, "TW_GLOOMUNDERNIGHT", "TW_GLOOMUNDERNIGHT"}
+, 
+{jobtbl.JT_TW_IFRIT, "TW_IFRIT", "TW_IFRIT"}
+, 
+{jobtbl.JT_TW_KTULLANUX, "TW_KTULLANUX", "TW_KTULLANUX"}
+, 
+{jobtbl.JT_TW_LORD_OF_DEATH2, "TW_LORD_OF_DEATH2", "TW_LORD_OF_DEATH2"}
+, 
+{jobtbl.JT_TW_MISTRESS, "TW_MISTRESS", "TW_MISTRESS"}
+, 
+{jobtbl.JT_TW_ORK_HERO2, "TW_ORK_HERO2", "TW_ORK_HERO2"}
+, 
+{jobtbl.JT_TW_OSIRIS2, "TW_OSIRIS2", "TW_OSIRIS2"}
+, 
+{jobtbl.JT_TW_RANDGRIS, "TW_RANDGRIS", "TW_RANDGRIS"}
+, 
+{jobtbl.JT_TW_TURTLE_GENERAL, "TW_TURTLE_GENERAL", "TW_TURTLE_GENERAL"}
+, 
+{jobtbl.JT_E_MYSTERIOUS_BUG, "E_MYSTERIOUS_BUG", "E_MYSTERIOUS_BUG"}
+, 
+{jobtbl.JT_J_XMAS_SMOKEY_GIFT, "J_XMAS_SMOKEY_GIFT", "J_XMAS_SMOKEY_GIFT"}
+, 
+{jobtbl.JT_XM_TREE, "XM_TREE", "XM_TREE"}
+, 
+{jobtbl.JT_XM_ANTONIO, "XM_ANTONIO", "XM_ANTONIO"}
+, 
+{jobtbl.JT_XM_COOKIE, "XM_COOKIE", "XM_COOKIE"}
+, 
+{jobtbl.JT_XM_CRUISER, "XM_CRUISER", "XM_CRUISER"}
+, 
+{jobtbl.JT_XM_MYSTCASE, "XM_MYSTCASE", "XM_MYSTCASE"}
+, 
+{jobtbl.JT_XM_LUDE, "XM_LUDE", "XM_LUDE"}
+, 
+{jobtbl.JT_XM_HYLOZOIST, "XM_HYLOZOIST", "XM_HYLOZOIST"}
+, 
+{jobtbl.JT_XM_MARIONETTE, "XM_MARIONETTE", "XM_MARIONETTE"}
+, 
+{jobtbl.JT_XM_TEDDY_BEAR, "XM_TEDDY_BEAR", "XM_TEDDY_BEAR"}
+, 
+{jobtbl.JT_XM_CELINE_KIMI, "XM_CELINE_KIMI", "XM_CELINE_KIMI"}
+, 
+{jobtbl.JT_G_XM_CELINE_KIMI, "G_XM_CELINE_KIMI", "G_XM_CELINE_KIMI"}
+, 
+{jobtbl.JT_EP14_MORS_EVENT, "EP14_MORS_EVENT", "EP14_MORS_EVENT"}
+, 
+{jobtbl.JT_EP14_MORS_BOSSA, "EP14_MORS_BOSSA", "EP14_MORS_BOSSA"}
+, 
+{jobtbl.JT_EP14_MORS_BOSSB, "EP14_MORS_BOSSB", "EP14_MORS_BOSSB"}
+, 
+{jobtbl.JT_EP14_MORS_MOB1, "EP14_MORS_MOB1", "EP14_MORS_MOB1"}
+, 
+{jobtbl.JT_EP14_MORS_MOB2, "EP14_MORS_MOB2", "EP14_MORS_MOB2"}
+, 
+{jobtbl.JT_EP14_MORS_MOB3, "EP14_MORS_MOB3", "EP14_MORS_MOB3"}
+, 
+{jobtbl.JT_EP14_MORS_MOB4, "EP14_MORS_MOB4", "EP14_MORS_MOB4"}
+, 
+{jobtbl.JT_EP14_MORS_MOB5, "EP14_MORS_MOB5", "EP14_MORS_MOB5"}
+, 
+{jobtbl.JT_EP14_MORS_MOB6, "EP14_MORS_MOB6", "EP14_MORS_MOB6"}
+, 
+{jobtbl.JT_EP14_MORS_DUMMY, "EP14_MORS_DUMMY", "EP14_MORS_DUMMY"}
+, 
+{jobtbl.JT_EP14_MORS_HIDDEN, "EP14_MORS_HIDDEN", "EP14_MORS_HIDDEN"}
+, 
+{jobtbl.JT_EP14_3_DEATH_BOSS, "EP14_3_DEATH_BOSS", "EP14_3_DEATH_BOSS"}
+, 
+{jobtbl.JT_EP14_3_DEATH_A_MOB1, "EP14_3_DEATH_A_MOB1", "EP14_3_DEATH_A_MOB1"}
+, 
+{jobtbl.JT_EP14_3_DEATH_A_MOB2, "EP14_3_DEATH_A_MOB2", "EP14_3_DEATH_A_MOB2"}
+, 
+{jobtbl.JT_EP14_3_DEATH_A_MOB3, "EP14_3_DEATH_A_MOB3", "EP14_3_DEATH_A_MOB3"}
+, 
+{jobtbl.JT_EP14_3_DEATH_B_MOB1, "EP14_3_DEATH_B_MOB1", "EP14_3_DEATH_B_MOB1"}
+, 
+{jobtbl.JT_EP14_3_DEATH_B_MOB2, "EP14_3_DEATH_B_MOB2", "EP14_3_DEATH_B_MOB2"}
+, 
+{jobtbl.JT_EP14_3_DEATH_B_MOB3, "EP14_3_DEATH_B_MOB3", "EP14_3_DEATH_B_MOB3"}
+, 
+{jobtbl.JT_EP14_3_DEATH_C_MOB1, "EP14_3_DEATH_C_MOB1", "EP14_3_DEATH_C_MOB1"}
+, 
+{jobtbl.JT_EP14_3_DEATH_C_MOB2, "EP14_3_DEATH_C_MOB2", "EP14_3_DEATH_C_MOB2"}
+, 
+{jobtbl.JT_EP14_3_DEATH_C_MOB3, "EP14_3_DEATH_C_MOB3", "EP14_3_DEATH_C_MOB3"}
+, 
+{jobtbl.JT_4_M_ANTONIO, "4_M_ANTONIO", nil}
+, 
+{jobtbl.JT_4_M_COOKIE, "4_M_COOKIE", nil}
+, 
+{jobtbl.JT_4_M_BELIEVER01, "4_M_BELIEVER01", nil}
+, 
+{jobtbl.JT_4_F_BELIEVER01, "4_F_BELIEVER01", nil}
+, 
+{jobtbl.JT_4_M_BELIEVER02, "4_M_BELIEVER02", nil}
+, 
+{jobtbl.JT_4_ROPEPILE, "4_ROPEPILE", nil}
+, 
+{jobtbl.JT_4_BRICKPILE, "4_BRICKPILE", nil}
+, 
+{jobtbl.JT_4_WOODPILE, "4_WOODPILE", nil}
+, 
+{jobtbl.JT_4_M_TAMARIN, "4_M_TAMARIN", nil}
+, 
+{jobtbl.JT_4_M_DEATH, "4_M_DEATH", nil}
+, 
+{jobtbl.JT_4_GHOST_STAND, "4_GHOST_STAND", nil}
+, 
+{jobtbl.JT_4_GHOST_COLLAPSE, "4_GHOST_COLLAPSE", nil}
+, 
+{jobtbl.JT_4_COOKIEHOUSE, "4_COOKIEHOUSE", nil}
+, 
+{jobtbl.JT_4_F_SKULL06GIRL, "4_F_SKULL06GIRL", nil}
+, 
+{jobtbl.JT_4_NONMYSTCASE, "4_NONMYSTCASE", nil}
+, 
+{jobtbl.JT_CELINE_KIMI, "CELINE_KIMI", "CELINE_KIMI"}
+, 
+{jobtbl.JT_FIRE_CONDOR, "FIRE_CONDOR", "FIRE_CONDOR"}
+, 
+{jobtbl.JT_FIRE_SAND_MAN, "FIRE_SAND_MAN", "FIRE_SAND_MAN"}
+, 
+{jobtbl.JT_FIRE_FRILLDORA, "FIRE_FRILLDORA", "FIRE_FRILLDORA"}
+, 
+{jobtbl.JT_FIRE_GOLEM, "FIRE_GOLEM", "FIRE_GOLEM"}
+, 
+{jobtbl.JT_14_3_MERCENARY_A, "14_3_MERCENARY_A", "14_3_MERCENARY_A"}
+, 
+{jobtbl.JT_14_3_MERCENARY_B, "14_3_MERCENARY_B", "14_3_MERCENARY_B"}
+, 
+{jobtbl.JT_FIREPIT, "FIREPIT", "FIREPIT"}
+, 
+{jobtbl.JT_FULBUK, "FULBUK", "FULBUK"}
+, 
+{jobtbl.JT_SONIA, "SONIA", "SONIA"}
+, 
+{jobtbl.JT_GRIM_REAPER_ANKOU, "GRIM_REAPER_ANKOU", "GRIM_REAPER_ANKOU"}
+, 
+{jobtbl.JT_STANDING_SOUL, "STANDING_SOUL", "STANDING_SOUL"}
+, 
+{jobtbl.JT_MUTANT_NECROMANCER, "MUTANT_NECROMANCER", "MUTANT_NECROMANCER"}
+, 
+{jobtbl.JT_MUTANT_GHOUL, "MUTANT_GHOUL", "MUTANT_GHOUL"}
+, 
+{jobtbl.JT_MUTANT_OSIRIS, "MUTANT_OSIRIS", "MUTANT_OSIRIS"}
+, 
+{jobtbl.JT_MUTANT_ARCHER_SKELETON, "MUTANT_ARCHER_SKELETON", "MUTANT_ARCHER_SKELETON"}
+, 
+{jobtbl.JT_MUTANT_WRAITH_DEAD, "MUTANT_WRAITH_DEAD", "MUTANT_WRAITH_DEAD"}
+, 
+{jobtbl.JT_MUTANT_VERIT, "MUTANT_VERIT", "MUTANT_VERIT"}
+, 
+{jobtbl.JT_MUTANT_LUDE, "MUTANT_LUDE", "MUTANT_LUDE"}
+, 
+{jobtbl.JT_4_F_KIMI, "4_F_KIMI", nil}
+, 
+{jobtbl.JT_HIDDEN_MOB7, "HIDDEN_MOB7", "HIDDEN_MOB7"}
+, 
+{jobtbl.JT_B_MOROCC_1, "B_MOROCC_1", "B_MOROCC_1"}
+, 
+{jobtbl.JT_B_MOROCC_2, "B_MOROCC_2", "B_MOROCC_2"}
+, 
+{jobtbl.JT_B_MOROCC_4, "B_MOROCC_4", "B_MOROCC_4"}
+, 
+{jobtbl.JT_WATERMELON_17, "WATERMELON_17", "WATERMELON_17"}
+, 
+{jobtbl.JT_WATERMELON_18, "WATERMELON_18", "WATERMELON_18"}
+, 
+{jobtbl.JT_WATERMELON_19, "WATERMELON_19", "WATERMELON_19"}
+, 
+{jobtbl.JT_WATERMELON_20, "WATERMELON_20", "WATERMELON_20"}
+, 
+{jobtbl.JT_WATERMELON_21, "WATERMELON_21", "WATERMELON_21"}
+, 
+{jobtbl.JT_WATERMELON_22, "WATERMELON_22", "WATERMELON_22"}
+, 
+{jobtbl.JT_WATERMELON_23, "WATERMELON_23", "WATERMELON_23"}
+, 
+{jobtbl.JT_WATERMELON_24, "WATERMELON_24", "WATERMELON_24"}
+, 
+{jobtbl.JT_WATERMELON_25, "WATERMELON_25", "WATERMELON_25"}
+, 
+{jobtbl.JT_WATERMELON_26, "WATERMELON_26", "WATERMELON_26"}
+, 
+{jobtbl.JT_WATERMELON_27, "WATERMELON_27", "WATERMELON_27"}
+, 
+{jobtbl.JT_WATERMELON_28, "WATERMELON_28", "WATERMELON_28"}
+, 
+{jobtbl.JT_WATERMELON_29, "WATERMELON_29", "WATERMELON_29"}
+, 
+{jobtbl.JT_WATERMELON_30, "WATERMELON_30", "WATERMELON_30"}
+, 
+{jobtbl.JT_WATERMELON_31, "WATERMELON_31", "WATERMELON_31"}
+, 
+{jobtbl.JT_WATERMELON_32, "WATERMELON_32", "WATERMELON_32"}
+, 
+{jobtbl.JT_WATERMELON_33, "WATERMELON_33", "WATERMELON_33"}
+, 
+{jobtbl.JT_EIGHT_DIVISION, "EIGHT_DIVISION", "EIGHT_DIVISION"}
+, 
+{jobtbl.JT_E_QUESTION_OCTOPUS, "E_QUESTION_OCTOPUS", "E_QUESTION_OCTOPUS"}
+, 
+{jobtbl.JT_E_ANGRY_MIMIC, "E_ANGRY_MIMIC", "E_ANGRY_MIMIC"}
+, 
+{jobtbl.JT_4_M_FROZEN_GC, "4_M_FROZEN_GC", nil}
+, 
+{jobtbl.JT_4_M_FROZEN_KN, "4_M_FROZEN_KN", nil}
+, 
+{jobtbl.JT_4_SNAKE_LORD, "4_SNAKE_LORD", nil}
+, 
+{jobtbl.JT_GIANT_DEVIRUCHI, "GIANT_DEVIRUCHI", "GIANT_DEVIRUCHI"}
+, 
+{jobtbl.JT_DEVIRUCHI_W, "DEVIRUCHI_W", "DEVIRUCHI_W"}
+, 
+{jobtbl.JT_GIANT_DEVIRUCHI_W, "GIANT_DEVIRUCHI_W", "GIANT_DEVIRUCHI_W"}
+, 
+{jobtbl.JT_E_ICE_MINE, "E_ICE_MINE", "E_ICE_MINE"}
+, 
+{jobtbl.JT_SNAKE_NEWYEAR, "SNAKE_NEWYEAR", "SNAKE_NEWYEAR"}
+, 
+{jobtbl.JT_E_ORC_WOMAN, "E_ORC_WOMAN", "E_ORC_WOMAN"}
+, 
+{jobtbl.JT_E_PYTHON_SKIN, "E_PYTHON_SKIN", "E_PYTHON_SKIN"}
+, 
+{jobtbl.JT_PERE1, "PERE1", "PERE1"}
+, 
+{jobtbl.JT_PERE2, "PERE2", "PERE2"}
+, 
+{jobtbl.JT_PERE3, "PERE3", "PERE3"}
+, 
+{jobtbl.JT_PERE4, "PERE4", "PERE4"}
+, 
+{jobtbl.JT_GRAND_PERE, "GRAND_PERE", "GRAND_PERE"}
+, 
+{jobtbl.JT_TIMEHOLDER, "TIMEHOLDER", "TIMEHOLDER"}
+, 
+{jobtbl.JT_WA_TREASURE, "WA_TREASURE", "WA_TREASURE"}
+, 
+{jobtbl.JT_WA_MONSTER_1, "WA_MONSTER_1", "WA_MONSTER_1"}
+, 
+{jobtbl.JT_WA_MONSTER_2, "WA_MONSTER_2", "WA_MONSTER_2"}
+, 
+{jobtbl.JT_WA_MONSTER_3, "WA_MONSTER_3", "WA_MONSTER_3"}
+, 
+{jobtbl.JT_WA_MONSTER_4, "WA_MONSTER_4", "WA_MONSTER_4"}
+, 
+{jobtbl.JT_WA_MONSTER_5, "WA_MONSTER_5", "WA_MONSTER_5"}
+, 
+{jobtbl.JT_WA_MONSTER_6, "WA_MONSTER_6", "WA_MONSTER_6"}
+, 
+{jobtbl.JT_WA_MONSTER_7, "WA_MONSTER_7", "WA_MONSTER_7"}
+, 
+{jobtbl.JT_WA_MONSTER_8, "WA_MONSTER_8", "WA_MONSTER_8"}
+, 
+{jobtbl.JT_WA_MONSTER_9, "WA_MONSTER_9", "WA_MONSTER_9"}
+, 
+{jobtbl.JT_WA_MONSTER_10, "WA_MONSTER_10", "WA_MONSTER_10"}
+, 
+{jobtbl.JT_WA_MERCENARY, "WA_MERCENARY", "WA_MERCENARY"}
+, 
+{jobtbl.JT_4_F_MOCBOY, "4_F_MOCBOY", nil}
+, 
+{jobtbl.JT_4_F_RUNAIN, "4_F_RUNAIN", nil}
+, 
+{jobtbl.JT_4_M_ROEL, "4_M_ROEL", nil}
+, 
+{jobtbl.JT_4_F_SHALOSH, "4_F_SHALOSH", nil}
+, 
+{jobtbl.JT_4_ENERGY_RED, "4_ENERGY_RED", nil}
+, 
+{jobtbl.JT_4_ENERGY_BLUE, "4_ENERGY_BLUE", nil}
+, 
+{jobtbl.JT_4_ENERGY_YELLOW, "4_ENERGY_YELLOW", nil}
+, 
+{jobtbl.JT_4_ENERGY_BLACK, "4_ENERGY_BLACK", nil}
+, 
+{jobtbl.JT_4_ENERGY_WHITE, "4_ENERGY_WHITE", nil}
+, 
+{jobtbl.JT_M_NYDHOG, "M_NYDHOG", "M_NYDHOG"}
+, 
+{jobtbl.JT_MM_BRINARANEA_BABY, "MM_BRINARANEA_BABY", "MM_BRINARANEA_BABY"}
+, 
+{jobtbl.JT_MM_LOCO_KASA, "MM_LOCO_KASA", "MM_LOCO_KASA"}
+, 
+{jobtbl.JT_MM_LOCO_SALAMANDER, "MM_LOCO_SALAMANDER", "MM_LOCO_SALAMANDER"}
+, 
+{jobtbl.JT_MM_BRINARANEA, "MM_BRINARANEA", "MM_BRINARANEA"}
+, 
+{jobtbl.JT_MM_MUSPELLSKOLL, "MM_MUSPELLSKOLL", "MM_MUSPELLSKOLL"}
+, 
+{jobtbl.JT_MM_BRINARANEA_CORE, "MM_BRINARANEA_CORE", "MM_BRINARANEA_CORE"}
+, 
+{jobtbl.JT_MM_MUSPELLSKOLL_CORE, "MM_MUSPELLSKOLL_CORE", "MM_MUSPELLSKOLL_CORE"}
+, 
+{jobtbl.JT_MM_GOD_SHADOW, "MM_GOD_SHADOW", "MM_GOD_SHADOW"}
+, 
+{jobtbl.JT_MM_MOROCC_KID, "MM_MOROCC_KID", "MM_MOROCC_KID"}
+, 
+{jobtbl.JT_MM_MOROCC_ADT, "MM_MOROCC_ADT", "MM_MOROCC_ADT"}
+, 
+{jobtbl.JT_MM_MOROCC_ORIGIN, "MM_MOROCC_ORIGIN", "MM_MOROCC_ORIGIN"}
+, 
+{jobtbl.JT_MM_MOROCC_REST, "MM_MOROCC_REST", "MM_MOROCC_REST"}
+, 
+{jobtbl.JT_4_F_PERE01, "4_F_PERE01", nil}
+, 
+{jobtbl.JT_4_JITTERBUG, "4_JITTERBUG", nil}
+, 
+{jobtbl.JT_MM_MANA_BLACK, "MM_MANA_BLACK", "MM_MANA_BLACK"}
+, 
+{jobtbl.JT_MM_MANA_WHITE, "MM_MANA_WHITE", "MM_MANA_WHITE"}
+, 
+{jobtbl.JT_MM_MANA_RED, "MM_MANA_RED", "MM_MANA_RED"}
+, 
+{jobtbl.JT_MM_MANA_YELLOW, "MM_MANA_YELLOW", "MM_MANA_YELLOW"}
+, 
+{jobtbl.JT_MM_MANA_BLUE, "MM_MANA_BLUE", "MM_MANA_BLUE"}
+, 
+{jobtbl.JT_MM_GB_MOROCC_1, "MM_GB_MOROCC_1", "MM_GB_MOROCC_1"}
+, 
+{jobtbl.JT_MM_GB_MOROCC_4, "MM_GB_MOROCC_4", "MM_GB_MOROCC_4"}
+, 
+{jobtbl.JT_E_EASTER_BUNNY, "E_EASTER_BUNNY", "E_EASTER_BUNNY"}
+, 
+{jobtbl.JT_JITTERBUG1, "JITTERBUG1", "JITTERBUG1"}
+, 
+{jobtbl.JT_JITTERBUG2, "JITTERBUG2", "JITTERBUG2"}
+, 
+{jobtbl.JT_E_RUNAWAY1, "E_RUNAWAY1", "E_RUNAWAY1"}
+, 
+{jobtbl.JT_E_RUNAWAY2, "E_RUNAWAY2", "E_RUNAWAY2"}
+, 
+{jobtbl.JT_E_RUNAWAY3, "E_RUNAWAY3", "E_RUNAWAY3"}
+, 
+{jobtbl.JT_E_RUNAWAY4, "E_RUNAWAY4", "E_RUNAWAY4"}
+, 
+{jobtbl.JT_E_RUNAWAY5, "E_RUNAWAY5", "E_RUNAWAY5"}
+, 
+{jobtbl.JT_E_RUNAWAY1_, "E_RUNAWAY1_", "E_RUNAWAY1_"}
+, 
+{jobtbl.JT_E_RUNAWAY2_, "E_RUNAWAY2_", "E_RUNAWAY2_"}
+, 
+{jobtbl.JT_E_RUNAWAY3_, "E_RUNAWAY3_", "E_RUNAWAY3_"}
+, 
+{jobtbl.JT_E_RUNAWAY4_, "E_RUNAWAY4_", "E_RUNAWAY4_"}
+, 
+{jobtbl.JT_E_RUNAWAY5_, "E_RUNAWAY5_", "E_RUNAWAY5_"}
+, 
+{jobtbl.JT_4_SEA_OTTER, "4_SEA_OTTER", nil}
+, 
+{jobtbl.JT_4_GALAPAGO, "4_GALAPAGO", nil}
+, 
+{jobtbl.JT_4_DESERTWOLF_B, "4_DESERTWOLF_B", nil}
+, 
+{jobtbl.JT_4_BB_PORING, "4_BB_PORING", nil}
+, 
+{jobtbl.JT_M_ISIS, "M_ISIS", "M_ISIS"}
+, 
+{jobtbl.JT_Q_BYORGUE, "Q_BYORGUE", "Q_BYORGUE"}
+, 
+{jobtbl.JT_CHARLESTON1, "CHARLESTON1", "CHARLESTON1"}
+, 
+{jobtbl.JT_CHARLESTON2, "CHARLESTON2", "CHARLESTON2"}
+, 
+{jobtbl.JT_CHARLESTON3, "CHARLESTON3", "CHARLESTON3"}
+, 
+{jobtbl.JT_STEP, "STEP", "STEP"}
+, 
+{jobtbl.JT_ROCK_STEP, "ROCK_STEP", "ROCK_STEP"}
+, 
+{jobtbl.JT_KICK_STEP, "KICK_STEP", "KICK_STEP"}
+, 
+{jobtbl.JT_KICK_AND_KICK, "KICK_AND_KICK", "KICK_AND_KICK"}
+, 
+{jobtbl.JT_4_F_CHARLESTON01, "4_F_CHARLESTON01", nil}
+, 
+{jobtbl.JT_4_F_CHARLESTON02, "4_F_CHARLESTON02", nil}
+, 
+{jobtbl.JT_4_F_CHARLESTON03, "4_F_CHARLESTON03", nil}
+, 
+{jobtbl.JT_4_M_IAN, "4_M_IAN", nil}
+, 
+{jobtbl.JT_4_M_OLDSCHOLAR, "4_M_OLDSCHOLAR", nil}
+, 
+{jobtbl.JT_4_F_LAPERM, "4_F_LAPERM", nil}
+, 
+{jobtbl.JT_4_M_DEBON, "4_M_DEBON", nil}
+, 
+{jobtbl.JT_4_M_BIRMAN, "4_M_BIRMAN", nil}
+, 
+{jobtbl.JT_4_F_SHAM, "4_F_SHAM", nil}
+, 
+{jobtbl.JT_ORC_ZOMBIE_ANNIV, "ORC_ZOMBIE_ANNIV", "ORC_ZOMBIE_ANNIV"}
+, 
+{jobtbl.JT_ORC_ARCHER_ANNIV, "ORC_ARCHER_ANNIV", "ORC_ARCHER_ANNIV"}
+, 
+{jobtbl.JT_ORC_BABY_ANNIV, "ORC_BABY_ANNIV", "ORC_BABY_ANNIV"}
+, 
+{jobtbl.JT_ORC_LADY_ANNIV, "ORC_LADY_ANNIV", "ORC_LADY_ANNIV"}
+, 
+{jobtbl.JT_ZENORC_ANNIV, "ZENORC_ANNIV", "ZENORC_ANNIV"}
+, 
+{jobtbl.JT_STEAM_GOBLIN_ANNIV, "STEAM_GOBLIN_ANNIV", "STEAM_GOBLIN_ANNIV"}
+, 
+{jobtbl.JT_ORC_LORD_ANNIV, "ORC_LORD_ANNIV", "ORC_LORD_ANNIV"}
+, 
+{jobtbl.JT_ORK_HERO_ANNIV, "ORK_HERO_ANNIV", "ORK_HERO_ANNIV"}
+, 
+{jobtbl.JT_HIGH_ORC_ANNIV, "HIGH_ORC_ANNIV", "HIGH_ORC_ANNIV"}
+, 
+{jobtbl.JT_ORK_WARRIOR_ANNIV, "ORK_WARRIOR_ANNIV", "ORK_WARRIOR_ANNIV"}
+, 
+{jobtbl.JT_MG_ZOMBIE_H, "MG_ZOMBIE_H", "MG_ZOMBIE_H"}
+, 
+{jobtbl.JT_MG_WRAITH_H, "MG_WRAITH_H", "MG_WRAITH_H"}
+, 
+{jobtbl.JT_MG_GHOUL_H, "MG_GHOUL_H", "MG_GHOUL_H"}
+, 
+{jobtbl.JT_MG_ARCLOUSE_H, "MG_ARCLOUSE_H", "MG_ARCLOUSE_H"}
+, 
+{jobtbl.JT_MG_RAYDRIC_H, "MG_RAYDRIC_H", "MG_RAYDRIC_H"}
+, 
+{jobtbl.JT_MG_RAYDRIC_ARCHER_H, "MG_RAYDRIC_ARCHER_H", "MG_RAYDRIC_ARCHER_H"}
+, 
+{jobtbl.JT_MG_KNIGHT_OF_ABYSS_H, "MG_KNIGHT_OF_ABYSS_H", "MG_KNIGHT_OF_ABYSS_H"}
+, 
+{jobtbl.JT_MG_KHALITZBURG_H, "MG_KHALITZBURG_H", "MG_KHALITZBURG_H"}
+, 
+{jobtbl.JT_MG_BLOODY_KNIGHT_H, "MG_BLOODY_KNIGHT_H", "MG_BLOODY_KNIGHT_H"}
+, 
+{jobtbl.JT_MG_M_UNDEAD_KNIGHT_H, "MG_M_UNDEAD_KNIGHT_H", "MG_M_UNDEAD_KNIGHT_H"}
+, 
+{jobtbl.JT_MG_F_UNDEAD_KNIGHT_H, "MG_F_UNDEAD_KNIGHT_H", "MG_F_UNDEAD_KNIGHT_H"}
+, 
+{jobtbl.JT_MG_AMDARAIS_H, "MG_AMDARAIS_H", "MG_AMDARAIS_H"}
+, 
+{jobtbl.JT_MG_CORRUPTION_ROOT_H, "MG_CORRUPTION_ROOT_H", "MG_CORRUPTION_ROOT_H"}
+, 
+{jobtbl.JT_G_MG_KHALITZBURG_H, "G_MG_KHALITZBURG_H", "G_MG_KHALITZBURG_H"}
+, 
+{jobtbl.JT_EXCAVATOR_ROBOT, "EXCAVATOR_ROBOT", "EXCAVATOR_ROBOT"}
+, 
+{jobtbl.JT_RECON_ROBOT, "RECON_ROBOT", "RECON_ROBOT"}
+, 
+{jobtbl.JT_REPAIR_ROBOT, "REPAIR_ROBOT", "REPAIR_ROBOT"}
+, 
+{jobtbl.JT_EXPLORATION_ROVER, "EXPLORATION_ROVER", "EXPLORATION_ROVER"}
+, 
+{jobtbl.JT_RUIN_BELIEVER1, "RUIN_BELIEVER1", "RUIN_BELIEVER1"}
+, 
+{jobtbl.JT_RUIN_BELIEVER2, "RUIN_BELIEVER2", "RUIN_BELIEVER2"}
+, 
+{jobtbl.JT_ILLEGAL_PROMOTION, "ILLEGAL_PROMOTION", "ILLEGAL_PROMOTION"}
+, 
+{jobtbl.JT_BOILED_RICE_DUANWU, "BOILED_RICE_DUANWU", "BOILED_RICE_DUANWU"}
+, 
+{jobtbl.JT_BOMB, "BOMB", "BOMB"}
+, 
+{jobtbl.JT_ELEPHANT, "ELEPHANT", "ELEPHANT"}
+, 
+{jobtbl.JT_GORILLA, "GORILLA", "GORILLA"}
+, 
+{jobtbl.JT_LION, "LION", "LION"}
+, 
+{jobtbl.JT_RHINO, "RHINO", "RHINO"}
+, 
+{jobtbl.JT_M_E_DEVILING, "M_E_DEVILING", "M_E_DEVILING"}
+, 
+{jobtbl.JT_E_POPORING_CRO, "E_POPORING_CRO", "E_POPORING_CRO"}
+, 
+{jobtbl.JT_POURING_SEA_FES, "POURING_SEA_FES", "POURING_SEA_FES"}
+, 
+{jobtbl.JT_J_REB_SHECIL1, "J_REB_SHECIL1", "J_REB_SHECIL1"}
+, 
+{jobtbl.JT_J_REB_SHECIL2, "J_REB_SHECIL2", "J_REB_SHECIL2"}
+, 
+{jobtbl.JT_4_M_REBELLION, "4_M_REBELLION", nil}
+, 
+{jobtbl.JT_4_F_REBELLION, "4_F_REBELLION", nil}
+, 
+{jobtbl.JT_4_CHN_SHAOTH, "4_CHN_SHAOTH", nil}
+, 
+{jobtbl.JT_4_SHOAL, "4_SHOAL", nil}
+, 
+{jobtbl.JT_EVENT_MONEMUS01, "EVENT_MONEMUS01", "EVENT_MONEMUS01"}
+, 
+{jobtbl.JT_EVENT_MONEMUS02, "EVENT_MONEMUS02", "EVENT_MONEMUS02"}
+, 
+{jobtbl.JT_EVENT_FIREFOX, "EVENT_FIREFOX", "EVENT_FIREFOX"}
+, 
+{jobtbl.JT_HELL_FLY, "HELL_FLY", "HELL_FLY"}
+, 
+{jobtbl.JT_E1_ROTAR_ZAIRO, "E1_ROTAR_ZAIRO", "E1_ROTAR_ZAIRO"}
+, 
+{jobtbl.JT_E1_GREMLIN, "E1_GREMLIN", "E1_GREMLIN"}
+, 
+{jobtbl.JT_E1_BEHOLDER, "E1_BEHOLDER", "E1_BEHOLDER"}
+, 
+{jobtbl.JT_E1_ACIDUS, "E1_ACIDUS", "E1_ACIDUS"}
+, 
+{jobtbl.JT_E1_ACIDUS_, "E1_ACIDUS_", "E1_ACIDUS_"}
+, 
+{jobtbl.JT_E1_G_S_NYDHOG, "E1_G_S_NYDHOG", "E1_G_S_NYDHOG"}
+, 
+{jobtbl.JT_E1_FELOCK, "E1_FELOCK", "E1_FELOCK"}
+, 
+{jobtbl.JT_E2_ROTAR_ZAIRO, "E2_ROTAR_ZAIRO", "E2_ROTAR_ZAIRO"}
+, 
+{jobtbl.JT_E2_GREMLIN, "E2_GREMLIN", "E2_GREMLIN"}
+, 
+{jobtbl.JT_E2_BEHOLDER, "E2_BEHOLDER", "E2_BEHOLDER"}
+, 
+{jobtbl.JT_E2_ACIDUS, "E2_ACIDUS", "E2_ACIDUS"}
+, 
+{jobtbl.JT_E2_ACIDUS_, "E2_ACIDUS_", "E2_ACIDUS_"}
+, 
+{jobtbl.JT_E2_G_S_NYDHOG, "E2_G_S_NYDHOG", "E2_G_S_NYDHOG"}
+, 
+{jobtbl.JT_E2_FELOCK, "E2_FELOCK", "E2_FELOCK"}
+, 
+{jobtbl.JT_WOLF_MOON, "WOLF_MOON", "WOLF_MOON"}
+, 
+{jobtbl.JT_4_F_SARAH, "4_F_SARAH", nil}
+, 
+{jobtbl.JT_4_GIGANTES_BIG, "4_GIGANTES_BIG", nil}
+, 
+{jobtbl.JT_4_GIGANTES, "4_GIGANTES", nil}
+, 
+{jobtbl.JT_4_GIGANTES_SMALL, "4_GIGANTES_SMALL", nil}
+, 
+{jobtbl.JT_4_GARGOYLE_STATUE, "4_GARGOYLE_STATUE", nil}
+, 
+{jobtbl.JT_MM_SARAH, "MM_SARAH", "MM_SARAH"}
+, 
+{jobtbl.JT_MM_M_GIGAN1, "MM_M_GIGAN1", "MM_M_GIGAN1"}
+, 
+{jobtbl.JT_MM_M_GIGAN2, "MM_M_GIGAN2", "MM_M_GIGAN2"}
+, 
+{jobtbl.JT_MM_M_GIGAN3, "MM_M_GIGAN3", "MM_M_GIGAN3"}
+, 
+{jobtbl.JT_MM_L_GIGAN1, "MM_L_GIGAN1", "MM_L_GIGAN1"}
+, 
+{jobtbl.JT_MM_L_GIGAN2, "MM_L_GIGAN2", "MM_L_GIGAN2"}
+, 
+{jobtbl.JT_MM_L_GIGAN3, "MM_L_GIGAN3", "MM_L_GIGAN3"}
+, 
+{jobtbl.JT_MM_M_GARGOYLE, "MM_M_GARGOYLE", "MM_M_GARGOYLE"}
+, 
+{jobtbl.JT_MM_M_GALION, "MM_M_GALION", "MM_M_GALION"}
+, 
+{jobtbl.JT_MM_M_MUTANT_DRAGON, "MM_M_MUTANT_DRAGON", "MM_M_MUTANT_DRAGON"}
+, 
+{jobtbl.JT_MM_M_CHIMERA, "MM_M_CHIMERA", "MM_M_CHIMERA"}
+, 
+{jobtbl.JT_LUCKYCASE, "LUCKYCASE", "LUCKYCASE"}
+, 
+{jobtbl.JT_ORGANIC_JAKK, "ORGANIC_JAKK", "ORGANIC_JAKK"}
+, 
+{jobtbl.JT_INORGANIC_JAKK, "INORGANIC_JAKK", "INORGANIC_JAKK"}
+, 
+{jobtbl.JT_PIXY_PINK_PORING, "PIXY_PINK_PORING", "PIXY_PINK_PORING"}
+, 
+{jobtbl.JT_PIXY_BLUE_PORING, "PIXY_BLUE_PORING", "PIXY_BLUE_PORING"}
+, 
+{jobtbl.JT_LITTLE_GOLDPORING, "LITTLE_GOLDPORING", "LITTLE_GOLDPORING"}
+, 
+{jobtbl.JT_4_AIRA, "4_AIRA", nil}
+, 
+{jobtbl.JT_4_EZELLA, "4_EZELLA", nil}
+, 
+{jobtbl.JT_4_KULUNA, "4_KULUNA", nil}
+, 
+{jobtbl.JT_4_LUNE, "4_LUNE", nil}
+, 
+{jobtbl.JT_4_MALLINA, "4_MALLINA", nil}
+, 
+{jobtbl.JT_4_MORIN, "4_MORIN", nil}
+, 
+{jobtbl.JT_4_NASARIN, "4_NASARIN", nil}
+, 
+{jobtbl.JT_E_AQUA_ELEMENTAL, "E_AQUA_ELEMENTAL", "E_AQUA_ELEMENTAL"}
+, 
+{jobtbl.JT_V_EREMES, "V_EREMES", "V_EREMES"}
+, 
+{jobtbl.JT_V_MAGALETA, "V_MAGALETA", "V_MAGALETA"}
+, 
+{jobtbl.JT_V_KATRINN, "V_KATRINN", "V_KATRINN"}
+, 
+{jobtbl.JT_V_SHECIL, "V_SHECIL", "V_SHECIL"}
+, 
+{jobtbl.JT_V_HARWORD, "V_HARWORD", "V_HARWORD"}
+, 
+{jobtbl.JT_V_SEYREN, "V_SEYREN", "V_SEYREN"}
+, 
+{jobtbl.JT_V_G_EREMES, "V_G_EREMES", "V_G_EREMES"}
+, 
+{jobtbl.JT_V_G_MAGALETA, "V_G_MAGALETA", "V_G_MAGALETA"}
+, 
+{jobtbl.JT_V_G_KATRINN, "V_G_KATRINN", "V_G_KATRINN"}
+, 
+{jobtbl.JT_V_G_SHECIL, "V_G_SHECIL", "V_G_SHECIL"}
+, 
+{jobtbl.JT_V_G_HARWORD, "V_G_HARWORD", "V_G_HARWORD"}
+, 
+{jobtbl.JT_V_G_SEYREN, "V_G_SEYREN", "V_G_SEYREN"}
+, 
+{jobtbl.JT_V_B_EREMES, "V_B_EREMES", "V_B_EREMES"}
+, 
+{jobtbl.JT_V_B_MAGALETA, "V_B_MAGALETA", "V_B_MAGALETA"}
+, 
+{jobtbl.JT_V_B_SHECIL, "V_B_SHECIL", "V_B_SHECIL"}
+, 
+{jobtbl.JT_V_B_HARWORD, "V_B_HARWORD", "V_B_HARWORD"}
+, 
+{jobtbl.JT_V_B_KATRINN, "V_B_KATRINN", "V_B_KATRINN"}
+, 
+{jobtbl.JT_V_B_SEYREN, "V_B_SEYREN", "V_B_SEYREN"}
+, 
+{jobtbl.JT_V_RANDEL, "V_RANDEL", "V_RANDEL"}
+, 
+{jobtbl.JT_V_FLAMEL, "V_FLAMEL", "V_FLAMEL"}
+, 
+{jobtbl.JT_V_CELIA, "V_CELIA", "V_CELIA"}
+, 
+{jobtbl.JT_V_CHEN, "V_CHEN", "V_CHEN"}
+, 
+{jobtbl.JT_V_GERTIE, "V_GERTIE", "V_GERTIE"}
+, 
+{jobtbl.JT_V_ALPHOCCIO, "V_ALPHOCCIO", "V_ALPHOCCIO"}
+, 
+{jobtbl.JT_V_TRENTINI, "V_TRENTINI", "V_TRENTINI"}
+, 
+{jobtbl.JT_V_G_RANDEL, "V_G_RANDEL", "V_G_RANDEL"}
+, 
+{jobtbl.JT_V_G_FLAMEL, "V_G_FLAMEL", "V_G_FLAMEL"}
+, 
+{jobtbl.JT_V_G_CELIA, "V_G_CELIA", "V_G_CELIA"}
+, 
+{jobtbl.JT_V_G_CHEN, "V_G_CHEN", "V_G_CHEN"}
+, 
+{jobtbl.JT_V_G_GERTIE, "V_G_GERTIE", "V_G_GERTIE"}
+, 
+{jobtbl.JT_V_G_ALPHOCCIO, "V_G_ALPHOCCIO", "V_G_ALPHOCCIO"}
+, 
+{jobtbl.JT_V_G_TRENTINI, "V_G_TRENTINI", "V_G_TRENTINI"}
+, 
+{jobtbl.JT_V_B_RANDEL, "V_B_RANDEL", "V_B_RANDEL"}
+, 
+{jobtbl.JT_V_B_FLAMEL, "V_B_FLAMEL", "V_B_FLAMEL"}
+, 
+{jobtbl.JT_V_B_CELIA, "V_B_CELIA", "V_B_CELIA"}
+, 
+{jobtbl.JT_V_B_CHEN, "V_B_CHEN", "V_B_CHEN"}
+, 
+{jobtbl.JT_V_B_GERTIE, "V_B_GERTIE", "V_B_GERTIE"}
+, 
+{jobtbl.JT_V_B_ALPHOCCIO, "V_B_ALPHOCCIO", "V_B_ALPHOCCIO"}
+, 
+{jobtbl.JT_V_B_TRENTINI, "V_B_TRENTINI", "V_B_TRENTINI"}
+, 
+{jobtbl.JT_4_F_BERRYTEA, "4_F_BERRYTEA", nil}
+, 
+{jobtbl.JT_4_F_FRUIT, "4_F_FRUIT", nil}
+, 
+{jobtbl.JT_4_SCR_MT_ROBOTS, "4_SCR_MT_ROBOTS", nil}
+, 
+{jobtbl.JT_4_MACHINE_DEVICE, "4_MACHINE_DEVICE", nil}
+, 
+{jobtbl.JT_4_GC109, "4_GC109", nil}
+, 
+{jobtbl.JT_4_SYS_MSG, "4_SYS_MSG", nil}
+, 
+{jobtbl.JT_4_M_TATIO, "4_M_TATIO", nil}
+, 
+{jobtbl.JT_4_M_REKENBER, "4_M_REKENBER", nil}
+, 
+{jobtbl.JT_4_XMAS_CAT1, "4_XMAS_CAT1", nil}
+, 
+{jobtbl.JT_4_XMAS_CAT2, "4_XMAS_CAT2", nil}
+, 
+{jobtbl.JT_4_XMAS_CAT3, "4_XMAS_CAT3", nil}
+, 
+{jobtbl.JT_4_XMAS_CAT4, "4_XMAS_CAT4", nil}
+, 
+{jobtbl.JT_4_XMAS_CAT5, "4_XMAS_CAT5", nil}
+, 
+{jobtbl.JT_4_XMAS_CAT6, "4_XMAS_CAT6", nil}
+, 
+{jobtbl.JT_4_M_DEATH2, "4_M_DEATH2", nil}
+, 
+{jobtbl.JT_CENERE_G, "CENERE_G", "CENERE_G"}
+, 
+{jobtbl.JT_REPAIR_ROBOT_T, "REPAIR_ROBOT_T", "REPAIR_ROBOT_T"}
+, 
+{jobtbl.JT_EXPLORATION_ROVER_T, "EXPLORATION_ROVER_T", "EXPLORATION_ROVER_T"}
+, 
+{jobtbl.JT_SCR_MT_ROBOTS, "SCR_MT_ROBOTS", "SCR_MT_ROBOTS"}
+, 
+{jobtbl.JT_GC109, "GC109", "GC109"}
+, 
+{jobtbl.JT_DR815, "DR815", "DR815"}
+, 
+{jobtbl.JT_SYS_MSG, "SYS_MSG", "SYS_MSG"}
+, 
+{jobtbl.JT_T_W_O, "T_W_O", "T_W_O"}
+, 
+{jobtbl.JT_4_S_KADOMATSU, "4_S_KADOMATSU", nil}
+, 
+{jobtbl.JT_4_B_KADOMATSU, "4_B_KADOMATSU", nil}
+, 
+{jobtbl.JT_GHOUL_H, "GHOUL_H", "GHOUL_H"}
+, 
+{jobtbl.JT_ZOMBIE_H, "ZOMBIE_H", "ZOMBIE_H"}
+, 
+{jobtbl.JT_MALE_PORING, "MALE_PORING", "MALE_PORING"}
+, 
+{jobtbl.JT_FEMALE_PORING, "FEMALE_PORING", "FEMALE_PORING"}
+, 
+{jobtbl.JT_FANTASTIC_B_UNICORN, "FANTASTIC_B_UNICORN", "FANTASTIC_B_UNICORN"}
+, 
+{jobtbl.JT_LITTLE_BLUE_UNICORN, "LITTLE_BLUE_UNICORN", "LITTLE_BLUE_UNICORN"}
+, 
+{jobtbl.JT_BLUE_UNICORN, "BLUE_UNICORN", "BLUE_UNICORN"}
+, 
+{jobtbl.JT_4_F_08, "4_F_08", nil}
+, 
+{jobtbl.JT_4_F_08_STATUE, "4_F_08_STATUE", nil}
+, 
+{jobtbl.JT_4_M_DARKPRIEST, "4_M_DARKPRIEST", nil}
+, 
+{jobtbl.JT_MH_PORING, "MH_PORING", "MH_PORING"}
+, 
+{jobtbl.JT_MH_POPORING, "MH_POPORING", "MH_POPORING"}
+, 
+{jobtbl.JT_MH_DROPS, "MH_DROPS", "MH_DROPS"}
+, 
+{jobtbl.JT_MH_GOLDPORING, "MH_GOLDPORING", "MH_GOLDPORING"}
+, 
+{jobtbl.JT_MH_MARIN, "MH_MARIN", "MH_MARIN"}
+, 
+{jobtbl.JT_MH_COELACANTH_N_A1, "MH_COELACANTH_N_A1", "MH_COELACANTH_N_A1"}
+, 
+{jobtbl.JT_MH_COELACANTH_N_A2, "MH_COELACANTH_N_A2", "MH_COELACANTH_N_A2"}
+, 
+{jobtbl.JT_MH_COELACANTH_N_A3, "MH_COELACANTH_N_A3", "MH_COELACANTH_N_A3"}
+, 
+{jobtbl.JT_MH_COELACANTH_N_A4, "MH_COELACANTH_N_A4", "MH_COELACANTH_N_A4"}
+, 
+{jobtbl.JT_MH_E_MEGALODON1, "MH_E_MEGALODON1", "MH_E_MEGALODON1"}
+, 
+{jobtbl.JT_MH_SASQUATCH, "MH_SASQUATCH", "MH_SASQUATCH"}
+, 
+{jobtbl.JT_MH_BAKONAWA_1, "MH_BAKONAWA_1", "MH_BAKONAWA_1"}
+, 
+{jobtbl.JT_MH_BACSOJIN, "MH_BACSOJIN", "MH_BACSOJIN"}
+, 
+{jobtbl.JT_MH_HUNTER_FLY1, "MH_HUNTER_FLY1", "MH_HUNTER_FLY1"}
+, 
+{jobtbl.JT_MH_DIMIK, "MH_DIMIK", "MH_DIMIK"}
+, 
+{jobtbl.JT_MH_DIMIK_2, "MH_DIMIK_2", "MH_DIMIK_2"}
+, 
+{jobtbl.JT_MH_DIMIK_4, "MH_DIMIK_4", "MH_DIMIK_4"}
+, 
+{jobtbl.JT_MH_DIMIK_1, "MH_DIMIK_1", "MH_DIMIK_1"}
+, 
+{jobtbl.JT_MH_DIMIK_3, "MH_DIMIK_3", "MH_DIMIK_3"}
+, 
+{jobtbl.JT_MH_COELACANTH_H_A1, "MH_COELACANTH_H_A1", "MH_COELACANTH_H_A1"}
+, 
+{jobtbl.JT_MH_COELACANTH_H_A2, "MH_COELACANTH_H_A2", "MH_COELACANTH_H_A2"}
+, 
+{jobtbl.JT_MH_COELACANTH_H_A3, "MH_COELACANTH_H_A3", "MH_COELACANTH_H_A3"}
+, 
+{jobtbl.JT_MH_COELACANTH_H_A4, "MH_COELACANTH_H_A4", "MH_COELACANTH_H_A4"}
+, 
+{jobtbl.JT_MH_E_MEGALODON2, "MH_E_MEGALODON2", "MH_E_MEGALODON2"}
+, 
+{jobtbl.JT_MH_GLOOMUNDERNIGHT, "MH_GLOOMUNDERNIGHT", "MH_GLOOMUNDERNIGHT"}
+, 
+{jobtbl.JT_MH_ATROCE, "MH_ATROCE", "MH_ATROCE"}
+, 
+{jobtbl.JT_MH_LADY_TANEE, "MH_LADY_TANEE", "MH_LADY_TANEE"}
+, 
+{jobtbl.JT_MH_HUNTER_FLY2, "MH_HUNTER_FLY2", "MH_HUNTER_FLY2"}
+, 
+{jobtbl.JT_E_THIEF_CHOCO, "E_THIEF_CHOCO", "E_THIEF_CHOCO"}
+, 
+{jobtbl.JT_E_TREASURE_BOX, "E_TREASURE_BOX", "E_TREASURE_BOX"}
+, 
+{jobtbl.JT_GOLD_ANOPHELES, "GOLD_ANOPHELES", "GOLD_ANOPHELES"}
+, 
+{jobtbl.JT_DAEBAK_GOURD, "DAEBAK_GOURD", "DAEBAK_GOURD"}
+, 
+{jobtbl.JT_HEYDRICH, "HEYDRICH", "HEYDRICH"}
+, 
+{jobtbl.JT_G_MOBSTER, "G_MOBSTER", "G_MOBSTER"}
+, 
+{jobtbl.JT_4_JP_GARM_H, "4_JP_GARM_H", nil}
+, 
+{jobtbl.JT_4_JP_MEDUSA_H, "4_JP_MEDUSA_H", nil}
+, 
+{jobtbl.JT_4_CHN_GVG_01, "4_CHN_GVG_01", nil}
+, 
+{jobtbl.JT_HIDDEN_TEST, "HIDDEN_TEST", "HIDDEN_TEST"}
+, 
+{jobtbl.JT_PAD_LEVIATHAN, "PAD_LEVIATHAN", "PAD_LEVIATHAN"}
+, 
+{jobtbl.JT_PAD_FAFNIR, "PAD_FAFNIR", "PAD_FAFNIR"}
+, 
+{jobtbl.JT_PAD_IFRIT, "PAD_IFRIT", "PAD_IFRIT"}
+, 
+{jobtbl.JT_PAD_HORAI, "PAD_HORAI", "PAD_HORAI"}
+, 
+{jobtbl.JT_PAD_SHANGRILA, "PAD_SHANGRILA", "PAD_SHANGRILA"}
+, 
+{jobtbl.JT_PAD_NIRAIKANAI, "PAD_NIRAIKANAI", "PAD_NIRAIKANAI"}
+, 
+{jobtbl.JT_PAD_HELHEIM, "PAD_HELHEIM", "PAD_HELHEIM"}
+, 
+{jobtbl.JT_PAD_MUSPELHEIM, "PAD_MUSPELHEIM", "PAD_MUSPELHEIM"}
+, 
+{jobtbl.JT_PAD_ZAEROG, "PAD_ZAEROG", "PAD_ZAEROG"}
+, 
+{jobtbl.JT_PAD_TAMADORA, "PAD_TAMADORA", "PAD_TAMADORA"}
+, 
+{jobtbl.JT_PAD_TAMADORABABY, "PAD_TAMADORABABY", "PAD_TAMADORABABY"}
+, 
+{jobtbl.JT_4_SPRING_RABBIT, "4_SPRING_RABBIT", nil}
+, 
+{jobtbl.JT_ROC_EMPELIUM, "ROC_EMPELIUM", "ROC_EMPELIUM"}
+, 
+{jobtbl.JT_ROC_OBJ_A, "ROC_OBJ_A", "ROC_OBJ_A"}
+, 
+{jobtbl.JT_ROC_OBJ_B, "ROC_OBJ_B", "ROC_OBJ_B"}
+, 
+{jobtbl.JT_ROC_OBJ_N, "ROC_OBJ_N", "ROC_OBJ_N"}
+, 
+{jobtbl.JT_ROC_TOWER_A, "ROC_TOWER_A", "ROC_TOWER_A"}
+, 
+{jobtbl.JT_ROC_TOWER_B, "ROC_TOWER_B", "ROC_TOWER_B"}
+, 
+{jobtbl.JT_SMOKIE_THIEF, "SMOKIE_THIEF", "SMOKIE_THIEF"}
+, 
+{jobtbl.JT_PAD_KINGGOLD, "PAD_KINGGOLD", "PAD_KINGGOLD"}
+, 
+{jobtbl.JT_PAD_KINGMETAL, "PAD_KINGMETAL", "PAD_KINGMETAL"}
+, 
+{jobtbl.JT_PAD_RUBYLIT, "PAD_RUBYLIT", "PAD_RUBYLIT"}
+, 
+{jobtbl.JT_PAD_SAPPHILIT, "PAD_SAPPHILIT", "PAD_SAPPHILIT"}
+, 
+{jobtbl.JT_PAD_EMELIT, "PAD_EMELIT", "PAD_EMELIT"}
+, 
+{jobtbl.JT_PAD_TOPALIT, "PAD_TOPALIT", "PAD_TOPALIT"}
+, 
+{jobtbl.JT_PAD_AMELIT, "PAD_AMELIT", "PAD_AMELIT"}
+, 
+{jobtbl.JT_PAD_METAL_DRAGON, "PAD_METAL_DRAGON", "PAD_METAL_DRAGON"}
+, 
+{jobtbl.JT_PAD_M_FLAME_KNIGHT, "PAD_M_FLAME_KNIGHT", "PAD_M_FLAME_KNIGHT"}
+, 
+{jobtbl.JT_PAD_M_ICE_KNIGHT, "PAD_M_ICE_KNIGHT", "PAD_M_ICE_KNIGHT"}
+, 
+{jobtbl.JT_PAD_M_STONE_KNIGHT, "PAD_M_STONE_KNIGHT", "PAD_M_STONE_KNIGHT"}
+, 
+{jobtbl.JT_PAD_M_LIGHT_KNIGHT, "PAD_M_LIGHT_KNIGHT", "PAD_M_LIGHT_KNIGHT"}
+, 
+{jobtbl.JT_PAD_M_DARK_KNIGHT, "PAD_M_DARK_KNIGHT", "PAD_M_DARK_KNIGHT"}
+, 
+{jobtbl.JT_PAD_C_D_DRAGON, "PAD_C_D_DRAGON", "PAD_C_D_DRAGON"}
+, 
+{jobtbl.JT_PAD_ECHIDNA, "PAD_ECHIDNA", "PAD_ECHIDNA"}
+, 
+{jobtbl.JT_PAD_SIREN, "PAD_SIREN", "PAD_SIREN"}
+, 
+{jobtbl.JT_PAD_LILITH, "PAD_LILITH", "PAD_LILITH"}
+, 
+{jobtbl.JT_PAD_HERA, "PAD_HERA", "PAD_HERA"}
+, 
+{jobtbl.JT_4_PD_TYRA, "4_PD_TYRA", nil}
+, 
+{jobtbl.JT_4_PD_TYRANOS, "4_PD_TYRANOS", nil}
+, 
+{jobtbl.JT_4_PD_PLESI, "4_PD_PLESI", nil}
+, 
+{jobtbl.JT_4_PD_PLESIO, "4_PD_PLESIO", nil}
+, 
+{jobtbl.JT_4_PD_BRACHI, "4_PD_BRACHI", nil}
+, 
+{jobtbl.JT_4_PD_BRACHIOS, "4_PD_BRACHIOS", nil}
+, 
+{jobtbl.JT_4_PD_GOLDDRAGON, "4_PD_GOLDDRAGON", nil}
+, 
+{jobtbl.JT_4_PD_ZAEROG, "4_PD_ZAEROG", nil}
+, 
+{jobtbl.JT_4_PD_TAMADORA, "4_PD_TAMADORA", nil}
+, 
+{jobtbl.JT_PAD_RUBYLIT_H, "PAD_RUBYLIT_H", "PAD_RUBYLIT_H"}
+, 
+{jobtbl.JT_PAD_SAPPHILIT_H, "PAD_SAPPHILIT_H", "PAD_SAPPHILIT_H"}
+, 
+{jobtbl.JT_PAD_EMELIT_H, "PAD_EMELIT_H", "PAD_EMELIT_H"}
+, 
+{jobtbl.JT_PAD_TOPALIT_H, "PAD_TOPALIT_H", "PAD_TOPALIT_H"}
+, 
+{jobtbl.JT_PAD_AMELIT_H, "PAD_AMELIT_H", "PAD_AMELIT_H"}
+, 
+{jobtbl.JT_PAD_METAL_DRAGON_H, "PAD_METAL_DRAGON_H", "PAD_METAL_DRAGON_H"}
+, 
+{jobtbl.JT_PAD_M_FLAME_KNIGHT_H, "PAD_M_FLAME_KNIGHT_H", "PAD_M_FLAME_KNIGHT_H"}
+, 
+{jobtbl.JT_PAD_M_ICE_KNIGHT_H, "PAD_M_ICE_KNIGHT_H", "PAD_M_ICE_KNIGHT_H"}
+, 
+{jobtbl.JT_PAD_M_STONE_KNIGHT_H, "PAD_M_STONE_KNIGHT_H", "PAD_M_STONE_KNIGHT_H"}
+, 
+{jobtbl.JT_PAD_M_LIGHT_KNIGHT_H, "PAD_M_LIGHT_KNIGHT_H", "PAD_M_LIGHT_KNIGHT_H"}
+, 
+{jobtbl.JT_PAD_M_DARK_KNIGHT_H, "PAD_M_DARK_KNIGHT_H", "PAD_M_DARK_KNIGHT_H"}
+, 
+{jobtbl.JT_PAD_C_D_DRAGON_H, "PAD_C_D_DRAGON_H", "PAD_C_D_DRAGON_H"}
+, 
+{jobtbl.JT_PAD_ECHIDNA_H, "PAD_ECHIDNA_H", "PAD_ECHIDNA_H"}
+, 
+{jobtbl.JT_PAD_SIREN_H, "PAD_SIREN_H", "PAD_SIREN_H"}
+, 
+{jobtbl.JT_PAD_LILITH_H, "PAD_LILITH_H", "PAD_LILITH_H"}
+, 
+{jobtbl.JT_PAD_HERA_H, "PAD_HERA_H", "PAD_HERA_H"}
+, 
+{jobtbl.JT_PAD_MYTHLIT, "PAD_MYTHLIT", "PAD_MYTHLIT"}
+, 
+{jobtbl.JT_PAD_TYRRA, "PAD_TYRRA", "PAD_TYRRA"}
+, 
+{jobtbl.JT_PAD_TYRANNOS, "PAD_TYRANNOS", "PAD_TYRANNOS"}
+, 
+{jobtbl.JT_PAD_PLESSIE, "PAD_PLESSIE", "PAD_PLESSIE"}
+, 
+{jobtbl.JT_PAD_PLESIOS, "PAD_PLESIOS", "PAD_PLESIOS"}
+, 
+{jobtbl.JT_PAD_BRACHY, "PAD_BRACHY", "PAD_BRACHY"}
+, 
+{jobtbl.JT_PAD_BRACHYS, "PAD_BRACHYS", "PAD_BRACHYS"}
+, 
+{jobtbl.JT_E_DENIRO, "E_DENIRO", "E_DENIRO"}
+, 
+{jobtbl.JT_E_VITATA, "E_VITATA", "E_VITATA"}
+, 
+{jobtbl.JT_E_ANDRE, "E_ANDRE", "E_ANDRE"}
+, 
+{jobtbl.JT_E_HORN_SCARABA, "E_HORN_SCARABA", "E_HORN_SCARABA"}
+, 
+{jobtbl.JT_E_HORN_SCARABA2, "E_HORN_SCARABA2", "E_HORN_SCARABA2"}
+, 
+{jobtbl.JT_E_RAKE_SCARABA, "E_RAKE_SCARABA", "E_RAKE_SCARABA"}
+, 
+{jobtbl.JT_C_HORN_SCARABA, "C_HORN_SCARABA", "C_HORN_SCARABA"}
+, 
+{jobtbl.JT_C_HORN_SCARABA2, "C_HORN_SCARABA2", "C_HORN_SCARABA2"}
+, 
+{jobtbl.JT_C_ANTLER_SCARABA, "C_ANTLER_SCARABA", "C_ANTLER_SCARABA"}
+, 
+{jobtbl.JT_C_RAKE_SCARABA, "C_RAKE_SCARABA", "C_RAKE_SCARABA"}
+, 
+{jobtbl.JT_4_JP_EDGA_H, "4_JP_EDGA_H", nil}
+, 
+{jobtbl.JT_4_JP_BRAGOLEM_H, "4_JP_BRAGOLEM_H", nil}
+, 
+{jobtbl.JT_MH_I_HORN_SCARABA, "MH_I_HORN_SCARABA", "MH_I_HORN_SCARABA"}
+, 
+{jobtbl.JT_MH_I_HORN_SCARABA2, "MH_I_HORN_SCARABA2", "MH_I_HORN_SCARABA2"}
+, 
+{jobtbl.JT_MH_I_ANTLER_SCARABA, "MH_I_ANTLER_SCARABA", "MH_I_ANTLER_SCARABA"}
+, 
+{jobtbl.JT_MH_I_RAKE_SCARABA, "MH_I_RAKE_SCARABA", "MH_I_RAKE_SCARABA"}
+, 
+{jobtbl.JT_MH_QUEEN_SCARABA, "MH_QUEEN_SCARABA", "MH_QUEEN_SCARABA"}
+, 
+{jobtbl.JT_MH_COELACANTH_Y_A1, "MH_COELACANTH_Y_A1", "MH_COELACANTH_Y_A1"}
+, 
+{jobtbl.JT_MH_COELACANTH_Y_A2, "MH_COELACANTH_Y_A2", "MH_COELACANTH_Y_A2"}
+, 
+{jobtbl.JT_MH_COELACANTH_Y_A3, "MH_COELACANTH_Y_A3", "MH_COELACANTH_Y_A3"}
+, 
+{jobtbl.JT_MH_COELACANTH_Y_A4, "MH_COELACANTH_Y_A4", "MH_COELACANTH_Y_A4"}
+, 
+{jobtbl.JT_MH_E_MEGALODON3, "MH_E_MEGALODON3", "MH_E_MEGALODON3"}
+, 
+{jobtbl.JT_MH_NAGHT_SIEGER, "MH_NAGHT_SIEGER", "MH_NAGHT_SIEGER"}
+, 
+{jobtbl.JT_MH_IFRIT, "MH_IFRIT", "MH_IFRIT"}
+, 
+{jobtbl.JT_MH_PHYLLA, "MH_PHYLLA", "MH_PHYLLA"}
+, 
+{jobtbl.JT_MH_BOMBPORING, "MH_BOMBPORING", "MH_BOMBPORING"}
+, 
+{jobtbl.JT_ANGLERFISH, "ANGLERFISH", "ANGLERFISH"}
+, 
+{jobtbl.JT_DARK_SOUL, "DARK_SOUL", "DARK_SOUL"}
+, 
+{jobtbl.JT_WANDERING_SOUL, "WANDERING_SOUL", "WANDERING_SOUL"}
+, 
+{jobtbl.JT_ANGRY_PENGUIN, "ANGRY_PENGUIN", "ANGRY_PENGUIN"}
+, 
+{jobtbl.JT_MIN_PORING, "MIN_PORING", "MIN_PORING"}
+, 
+{jobtbl.JT_MIN_LUNATIC, "MIN_LUNATIC", "MIN_LUNATIC"}
+, 
+{jobtbl.JT_MIN_FABRE, "MIN_FABRE", "MIN_FABRE"}
+, 
+{jobtbl.JT_MIN_PICKY, "MIN_PICKY", "MIN_PICKY"}
+, 
+{jobtbl.JT_MIN_CONDOR, "MIN_CONDOR", "MIN_CONDOR"}
+, 
+{jobtbl.JT_MIN_WILOW, "MIN_WILOW", "MIN_WILOW"}
+, 
+{jobtbl.JT_MIN_SPORE, "MIN_SPORE", "MIN_SPORE"}
+, 
+{jobtbl.JT_MIN_POPORING, "MIN_POPORING", "MIN_POPORING"}
+, 
+{jobtbl.JT_MIN_SMOKIE, "MIN_SMOKIE", "MIN_SMOKIE"}
+, 
+{jobtbl.JT_MIN_DOKEBI, "MIN_DOKEBI", "MIN_DOKEBI"}
+, 
+{jobtbl.JT_MIN_BIGFOOT, "MIN_BIGFOOT", "MIN_BIGFOOT"}
+, 
+{jobtbl.JT_MIN_WORM_TAIL, "MIN_WORM_TAIL", "MIN_WORM_TAIL"}
+, 
+{jobtbl.JT_MIN_WOLF, "MIN_WOLF", "MIN_WOLF"}
+, 
+{jobtbl.JT_MIN_SNAKE, "MIN_SNAKE", "MIN_SNAKE"}
+, 
+{jobtbl.JT_MIN_ANACONDAQ, "MIN_ANACONDAQ", "MIN_ANACONDAQ"}
+, 
+{jobtbl.JT_MIN_MARIN, "MIN_MARIN", "MIN_MARIN"}
+, 
+{jobtbl.JT_MIN_MUKA, "MIN_MUKA", "MIN_MUKA"}
+, 
+{jobtbl.JT_MIN_PECOPECO, "MIN_PECOPECO", "MIN_PECOPECO"}
+, 
+{jobtbl.JT_MIN_DENIRO, "MIN_DENIRO", "MIN_DENIRO"}
+, 
+{jobtbl.JT_MIN_PIERE, "MIN_PIERE", "MIN_PIERE"}
+, 
+{jobtbl.JT_MIN_ANDRE, "MIN_ANDRE", "MIN_ANDRE"}
+, 
+{jobtbl.JT_MIN_GOLEM, "MIN_GOLEM", "MIN_GOLEM"}
+, 
+{jobtbl.JT_MIN_SCORPION, "MIN_SCORPION", "MIN_SCORPION"}
+, 
+{jobtbl.JT_MIN_CHONCHON, "MIN_CHONCHON", "MIN_CHONCHON"}
+, 
+{jobtbl.JT_MIN_METALLER, "MIN_METALLER", "MIN_METALLER"}
+, 
+{jobtbl.JT_MIN_SAND_MAN, "MIN_SAND_MAN", "MIN_SAND_MAN"}
+, 
+{jobtbl.JT_MIN_RAGGLER, "MIN_RAGGLER", "MIN_RAGGLER"}
+, 
+{jobtbl.JT_MIN_DRAGON_TAIL, "MIN_DRAGON_TAIL", "MIN_DRAGON_TAIL"}
+, 
+{jobtbl.JT_MIN_GREEN_IGUANA, "MIN_GREEN_IGUANA", "MIN_GREEN_IGUANA"}
+, 
+{jobtbl.JT_MIN_SEE_OTTER, "MIN_SEE_OTTER", "MIN_SEE_OTTER"}
+, 
+{jobtbl.JT_MIN_GALAPAGO, "MIN_GALAPAGO", "MIN_GALAPAGO"}
+, 
+{jobtbl.JT_MIN_FUR_SEAL, "MIN_FUR_SEAL", "MIN_FUR_SEAL"}
+, 
+{jobtbl.JT_MIN_ALLIGATOR, "MIN_ALLIGATOR", "MIN_ALLIGATOR"}
+, 
+{jobtbl.JT_MIN_MEGALODON, "MIN_MEGALODON", "MIN_MEGALODON"}
+, 
+{jobtbl.JT_MIN_TRI_JOINT, "MIN_TRI_JOINT", "MIN_TRI_JOINT"}
+, 
+{jobtbl.JT_MIN_MEGALITH, "MIN_MEGALITH", "MIN_MEGALITH"}
+, 
+{jobtbl.JT_MIN_DRYAD, "MIN_DRYAD", "MIN_DRYAD"}
+, 
+{jobtbl.JT_MIN_TOAD, "MIN_TOAD", "MIN_TOAD"}
+, 
+{jobtbl.JT_MIN_VAGABOND_WOLF, "MIN_VAGABOND_WOLF", "MIN_VAGABOND_WOLF"}
+, 
+{jobtbl.JT_MIN_VOCAL, "MIN_VOCAL", "MIN_VOCAL"}
+, 
+{jobtbl.JT_MIN_ECLIPSE, "MIN_ECLIPSE", "MIN_ECLIPSE"}
+, 
+{jobtbl.JT_MIN_CHIMERA, "MIN_CHIMERA", "MIN_CHIMERA"}
+, 
+{jobtbl.JT_MIN_EDDGA, "MIN_EDDGA", "MIN_EDDGA"}
+, 
+{jobtbl.JT_MIN_OSIRIS, "MIN_OSIRIS", "MIN_OSIRIS"}
+, 
+{jobtbl.JT_MIN_PHREEONI, "MIN_PHREEONI", "MIN_PHREEONI"}
+, 
+{jobtbl.JT_MIN_ORK_HERO, "MIN_ORK_HERO", "MIN_ORK_HERO"}
+, 
+{jobtbl.JT_MIN_TAO_GUNKA, "MIN_TAO_GUNKA", "MIN_TAO_GUNKA"}
+, 
+{jobtbl.JT_MIN_G_RODA_FROG, "MIN_G_RODA_FROG", "MIN_G_RODA_FROG"}
+, 
+{jobtbl.JT_MIN_G_WOLF, "MIN_G_WOLF", "MIN_G_WOLF"}
+, 
+{jobtbl.JT_MIN_G_ROCKER, "MIN_G_ROCKER", "MIN_G_ROCKER"}
+, 
+{jobtbl.JT_MIN_G_LUNATIC, "MIN_G_LUNATIC", "MIN_G_LUNATIC"}
+, 
+{jobtbl.JT_MIN_G_GARGOYLE, "MIN_G_GARGOYLE", "MIN_G_GARGOYLE"}
+, 
+{jobtbl.JT_MIN_G_BIGFOOT, "MIN_G_BIGFOOT", "MIN_G_BIGFOOT"}
+, 
+{jobtbl.JT_MIN_G_ANCIENT_MUMMY, "MIN_G_ANCIENT_MUMMY", "MIN_G_ANCIENT_MUMMY"}
+, 
+{jobtbl.JT_MIN_G_SAND_MAN, "MIN_G_SAND_MAN", "MIN_G_SAND_MAN"}
+, 
+{jobtbl.JT_MIN_G_HIGH_ORC, "MIN_G_HIGH_ORC", "MIN_G_HIGH_ORC"}
+, 
+{jobtbl.JT_MIN_G_MEGALITH, "MIN_G_MEGALITH", "MIN_G_MEGALITH"}
+, 
+{jobtbl.JT_4_EL_AQUA, "4_EL_AQUA", nil}
+, 
+{jobtbl.JT_B_DRACULA, "B_DRACULA", "B_DRACULA"}
+, 
+{jobtbl.JT_IFN_POIRING, "IFN_POIRING", "IFN_POIRING"}
+, 
+{jobtbl.JT_4_WICKEDNYMPH, "4_WICKEDNYMPH", "nil"}
+, 
+{jobtbl.JT_BIG_DIPPER, "BIG_DIPPER", "BIG_DIPPER"}
+, 
+{jobtbl.JT_QE_PORING, "QE_PORING", "QE_PORING"}
+, 
+{jobtbl.JT_QE_POPORING, "QE_POPORING", "QE_POPORING"}
+, 
+{jobtbl.JT_QE_DROPS, "QE_DROPS", "QE_DROPS"}
+, 
+{jobtbl.JT_QE_LUNATIC, "QE_LUNATIC", "QE_LUNATIC"}
+, 
+{jobtbl.JT_QE_WILOW, "QE_WILOW", "QE_WILOW"}
+, 
+{jobtbl.JT_QE_PICKY, "QE_PICKY", "QE_PICKY"}
+, 
+{jobtbl.JT_QE_PICKY_, "QE_PICKY_", "QE_PICKY_"}
+, 
+{jobtbl.JT_QE_ZOMBIE, "QE_ZOMBIE", "QE_ZOMBIE"}
+, 
+{jobtbl.JT_QE_POISON_SPORE, "QE_POISON_SPORE", "QE_POISON_SPORE"}
+, 
+{jobtbl.JT_SCATLETON, "SCATLETON", "SCATLETON"}
+, 
+{jobtbl.JT_OWL_MARQUEES, "OWL_MARQUEES", "OWL_MARQUEES"}
+, 
+{jobtbl.JT_OWL_VISCOUNT, "OWL_VISCOUNT", "OWL_VISCOUNT"}
+, 
+{jobtbl.JT_TIMEHOLDER, "TIMEHOLDER", "TIMEHOLDER"}
+, 
+{jobtbl.JT_BIG_BELL, "BIG_BELL", "BIG_BELL"}
+, 
+{jobtbl.JT_BIG_BEN, "BIG_BEN", "BIG_BEN"}
+, 
+{jobtbl.JT_NEO_PUNK, "NEO_PUNK", "NEO_PUNK"}
+, 
+{jobtbl.JT_ARC_ELDER, "ARC_ELDER", "ARC_ELDER"}
+, 
+{jobtbl.JT_TIME_KEEPER, "TIME_KEEPER", "TIME_KEEPER"}
+, 
+{jobtbl.JT_G_OWL_VISCOUNT, "G_OWL_VISCOUNT", "G_OWL_VISCOUNT"}
+, 
+{jobtbl.JT_HEYDRICH, "HEYDRICH", "HEYDRICH"}
+, 
+{jobtbl.JT_G_MOBSTER, "G_MOBSTER", "G_MOBSTER"}
+, 
+{jobtbl.JT_RUNAWAY_BOOK, "RUNAWAY_BOOK", "RUNAWAY_BOOK"}
+, 
+{jobtbl.JT_PORING_X2016, "PORING_X2016", "PORING_X2016"}
+, 
+{jobtbl.JT_ORC_X2016, "ORC_X2016", "ORC_X2016"}
+, 
+{jobtbl.JT_DR_EGGRING, "DR_EGGRING", "DR_EGGRING"}
+, 
+{jobtbl.JT_DR_LUNATIC, "DR_LUNATIC", "DR_LUNATIC"}
+, 
+{jobtbl.JT_DR_FABRE, "DR_FABRE", "DR_FABRE"}
+, 
+{jobtbl.JT_DR_HORNET, "DR_HORNET", "DR_HORNET"}
+, 
+{jobtbl.JT_DR_RODA_FROG, "DR_RODA_FROG", "DR_RODA_FROG"}
+, 
+{jobtbl.JT_DR_DESERT_WOLF_B, "DR_DESERT_WOLF_B", "DR_DESERT_WOLF_B"}
+, 
+{jobtbl.JT_DR_SPORE, "DR_SPORE", "DR_SPORE"}
+, 
+{jobtbl.JT_DR_BASILISK1, "DR_BASILISK1", "DR_BASILISK1"}
+, 
+{jobtbl.JT_DR_BASILISK2, "DR_BASILISK2", "DR_BASILISK2"}
+, 
+{jobtbl.JT_DR_BASILISK3, "DR_BASILISK3", "DR_BASILISK3"}
+, 
+{jobtbl.JT_DR_BIG_EGGRING, "DR_BIG_EGGRING", "DR_BIG_EGGRING"}
+, 
+{jobtbl.JT_DR_MANDRAGORA, "DR_MANDRAGORA", "DR_MANDRAGORA"}
+, 
+{jobtbl.JT_DR_POM_SPIDER, "DR_POM_SPIDER", "DR_POM_SPIDER"}
+, 
+{jobtbl.JT_DR_EGGRING_G, "DR_EGGRING_G", "DR_EGGRING_G"}
+, 
+{jobtbl.JT_4_RAGGLER, "4_RAGGLER", "nil"}
+, 
+{jobtbl.JT_4_DR_PEPE, "4_DR_PEPE", "nil"}
+, 
+{jobtbl.JT_4_DR_GAMBERI, "4_DR_GAMBERI", "nil"}
+, 
+{jobtbl.JT_4_DR_AGLIO, "4_DR_AGLIO", "nil"}
+, 
+{jobtbl.JT_4_DR_OLIO, "4_DR_OLIO", "nil"}
+, 
+{jobtbl.JT_4_DR_STELO, "4_DR_STELO", "nil"}
+, 
+{jobtbl.JT_4_DR_TORTEL, "4_DR_TORTEL", "nil"}
+, 
+{jobtbl.JT_4_BASIL_SLAVE, "4_BASIL_SLAVE", "nil"}
+, 
+{jobtbl.JT_4_DOU_JINDO, "4_DOU_JINDO", "nil"}
+, 
+{jobtbl.JT_4_DOU_SIBA, "4_DOU_SIBA", "nil"}
+, 
+{jobtbl.JT_4_TARUTUPI, "4_TARUTUPI", "nil"}
+, 
+{jobtbl.JT_4_DR_SOLDIER, "4_DR_SOLDIER", "nil"}
+, 
+{jobtbl.JT_4_DR_M_01, "4_DR_M_01", "nil"}
+, 
+{jobtbl.JT_4_DR_M_02, "4_DR_M_02", "nil"}
+, 
+{jobtbl.JT_4_DR_F_01, "4_DR_F_01", "nil"}
+, 
+{jobtbl.JT_4_DR_F_02, "4_DR_F_02", "nil"}
+, 
+{jobtbl.JT_4_DR_KID_01, "4_DR_KID_01", "nil"}
+, 
+{jobtbl.JT_4_M_POORSCHOLAR, "4_M_POORSCHOLAR", "nil"}
+, 
+{jobtbl.JT_ESCAPED_LETTER, "ESCAPED_LETTER", "ESCAPED_LETTER"}
+, 
+{jobtbl.JT_4_M_PEPPERROTI, "4_M_PEPPERROTI", "nil"}
+, 
+{jobtbl.JT_TW_I_QUEEN_SCARABA, "TW_I_QUEEN_SCARABA", "TW_I_QUEEN_SCARABA"}
+, 
+{jobtbl.JT_TW_GIOIA, "TW_GIOIA", "TW_GIOIA"}
+, 
+{jobtbl.JT_TW_TIMEHOLDER, "TW_TIMEHOLDER", "TW_TIMEHOLDER"}
+, 
+{jobtbl.JT_TW_KADES, "TW_KADES", "TW_KADES"}
+, 
+{jobtbl.JT_TW_PYURIEL, "TW_PYURIEL", "TW_PYURIEL"}
+, 
+{jobtbl.JT_TW_DAEHYON, "TW_DAEHYON", "TW_DAEHYON"}
+, 
+{jobtbl.JT_TW_V_B_SEYREN, "TW_V_B_SEYREN", "TW_V_B_SEYREN"}
+, 
+{jobtbl.JT_TW_V_B_EREMES, "TW_V_B_EREMES", "TW_V_B_EREMES"}
+}
+  for k,v in pairs(tbl) do
+    result = settable(v[1], v[2], v[3])
+    if not result then
+      return false, msg
+    end
+  end
+  return true, "success"
+end
+
+

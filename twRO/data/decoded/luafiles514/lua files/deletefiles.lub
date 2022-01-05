@@ -1,0 +1,7 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\deletefiles.lub 
+
+-- params : ...
+-- function num : 0
+DELETE_FILES = {"GameGuard.des", "RagHash.dat", "ROTW.ini", "RagnarokTW.ini", "GameGuard\\0npgg.erl", "GameGuard\\0npgl.erl", "GameGuard\\1npgg.erl", "GameGuard\\1npgl.erl", "GameGuard\\event.erv", "GameGuard\\GameGuard.des", "GameGuard\\GameGuard.ver", "GameGuard\\GameMon.des", "GameGuard\\GameMon64.des", "GameGuard\\ggerror.des", "GameGuard\\ggexp.des", "GameGuard\\ggscan.des", "GameGuard\\npggNT.des", "GameGuard\\npggNT64.des", "GameGuard\\npgmup.des", "GameGuard\\npgmup.des.new", "GameGuard\\nplsb.des", "GameGuard\\nplsm.des", "GameGuard\\npsc.des", "GameGuard\\ROTW.ini", "GameGuard\\Splash.jpg", "GameGuard\\0npgm.erl", "GameGuard\\0npgmup.erl", "GameGuard\\0npsc.erl", "GameGuard\\1npgm.erl", "GameGuard\\1npgmup.erl", "GameGuard\\1npsc.erl", "GameGuard\\npgg.erl", "GameGuard\\npgl.erl", "GameGuard\\npgm.erl", "GameGuard\\npgmup.erl", "GameGuard\\npsc.erl"}
+
