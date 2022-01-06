@@ -3,9 +3,8 @@ This repository is only used to make searching for official items easier from ce
 
 It contains extracted and decoded .lub files from official RO Servers.
 Pre-packed with sprite and texture files from each server can be found here:
- * [iRO GRF](https://www.mediafire.com/file/cnnqqs6zcgbg3d1/iro-data.grf/file)
- * [phRO GRF](https://www.mediafire.com/file/dgdubc3ho53zwvt/phro-data.grf/file)
- * [jRO GRF](https://www.mediafire.com/file/ctp77vy0u7iwk1a/jro-data.grf/file)
-
-If you don't wanna download each of them above, here is a merged one:
- * [Merged GRF](https://www.mediafire.com/file/58imyxg8r7u0jyx/officials-data.grf/file)
+ * [bRO GRF](https://www.mediafire.com/file/4fctsxx9yh1k3dj/bro-data.rar/file)
+ * [iRO GRF](https://www.mediafire.com/file/pjionabat45ok9g/iro-data.rar/file)
+ * [jRO GRF](https://www.mediafire.com/file/5anqdq0r4r3u469/jro-data.rar/file)
+ * [phRO GRF](https://www.mediafire.com/file/ewsr9aa41v84m1u/phro-data.rar/file)
+ * [twRO GRF](https://www.mediafire.com/file/e9m4q38tv2fpktm/twro-data.rar/file)
