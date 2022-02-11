@@ -1906,6 +1906,48 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"라헬의 신관은 불미스러운 일이 발생했던 성소에 아직도 수상한 무리가 포착되는 것 같다며, 성소를 정화해 주기를 바랍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶양 속의 늑대<INFO>4228</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 170 이상\n\t\t^663399◈퀘스트 진행용 MD입니다.^000000\n\t\t\n\t\t<NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
+[4249] = {Title = "확장 직업 상위 전직 안내", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"베이스 레벨 200, 직업레벨(Job Level) 70 이상인 확상 직업군은 상위 확장 직업으로 전직할 수 있습니다.\n\t\t<TIPBOX>▷하이퍼노비스<INFO>4250</INFO></TIPBOX>\n\t\t<TIPBOX>▷혼령사<INFO>4251</INFO></TIPBOX>\n\t\t<TIPBOX>▷천제<INFO>4252</INFO></TIPBOX>\n\t\t<TIPBOX>▷영도사<INFO>4253</INFO></TIPBOX>\n\t\t<TIPBOX>▷신키로/시라누이<INFO>4254</INFO></TIPBOX>\n\t\t<TIPBOX>▷나이트워치<INFO>4255</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4250] = {Title = "JQ 하이퍼노비스 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"슈퍼노비스에서 전직하는 하이퍼노비스는 타 직군의 기술들을 더 연구하여 약한 노비스들이 더 활용하기 좋게 개량하고 독자적인 강화스킬로 재탄생시켰습니다. 노비스는 여전히 약하지만 개량된 기술을 이용해 적을 순식간에 제압하게 됩니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 슈퍼노비스^000000\n\t\t\n\t\t<NAVI>[그레이프]<INFO>aldebaran,110,70,0,101,0,</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶JQ 슈퍼노비스 전직<INFO>9043</INFO></TIPBOX>\n\t\t<TIPBOX>▶확장 직업 상위 전직 안내<INFO>4249</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4251] = {Title = "JQ 혼령사 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"소환사에서 전직하는 혼령사는 특별한 영수들을 만나면서 새로운 길을 걷게 됩니다. 혼령사가 된 도람들은 강력한 영수의 힘을 사용해 동료들과 한층 신나는 모험을 즐길 수 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 60 이상^000000\n\t\t^663399◈대상: 소환사^000000\n\t\t\n\t\t<NAVI>[의뢰 게시판]<INFO>payon,165,116,0,101,0,</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶JQ 도람족 안내<INFO>9044</INFO></TIPBOX>\n\t\t<TIPBOX>▶확장 직업 상위 전직 안내<INFO>4249</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4252] = {Title = "JQ 천제 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"천기운행의 법칙을 깨우친 성제는 천제로 거듭나며, 태양과 달과 별의 기운을 집중적으로 운용할 수 있게 됩니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 성제^000000\n\t\t\n\t\t<NAVI>[팻말]<INFO>payon,213,202,0,101,0,</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶JQ 성제 전직<INFO>9047</INFO></TIPBOX>\n\t\t<TIPBOX>▶확장 직업 상위 전직 안내<INFO>4249</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4253] = {Title = "JQ 영도사 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"소울리퍼에서 전직하는 영도사는 영혼 운용을 보조할 강력한 수단으로 부적술을 연마했습니다. 영도사는 다양한 부적을 운용하여 보다 강력한 보조 기술과 공격 기술을 구사할 수 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 소울리퍼^000000\n\t\t\n\t\t<NAVI>[점원]<INFO>payon,197,119,0,101,0,</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶JQ 소울리퍼 전직<INFO>9048</INFO></TIPBOX>\n\t\t<TIPBOX>▶확장 직업 상위 전직 안내<INFO>4249</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4254] = {Title = "JQ 신키로/시라누이 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"카게로우/오보로에서 전직하는 신키로/시라누이는 실전된 고대 닌자의 비술을 습득하여 강력한 은신술과 인술을 구사하게 되었습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 카게로우/오보로^000000\n\t\t\n\t\t<NAVI>[서연]<INFO>amatsu,82,118,0,101,0,</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶JQ 카게로우/오보로 전직<INFO>9049</INFO></TIPBOX>\n\t\t<TIPBOX>▶확장 직업 상위 전직 안내<INFO>4249</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4255] = {Title = "JQ 나이트워치 전직", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"리벨리온은 민중의 안정을 위해 기업과 정부를 감시하는 감시자, 나이트워치가 되기로 합니다. 강력한 화기로 중무장한 나이트워치의 화끈한 전투를 즐길 수 있습니다.\n\t\t^663399◈베이스레벨 200 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 리벨리온^000000\n\t\t\n\t\t<NAVI>[야나]<INFO>einbroch,313,324,0,101,0,</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶JQ 리벨리온 전직<INFO>9050</INFO></TIPBOX>\n\t\t<TIPBOX>▶확장 직업 상위 전직 안내<INFO>4249</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
 [5001] = {Title = "MD 게펜 야간 투기장(210)#게펜야간투기장대회영웅의흔적마법", Search = 1, Image = "유저인터페이스\\tipbox\\tip05001", 
 Imgcoord = {Position = 5, Size = 100}
 , 
@@ -4943,7 +4985,7 @@ Page = {"알데바란의 체인지웨건은 새로운 카트 디자인을 선보이고 싶은 모양이다.\n\
 [9031] = {Title = "캐릭터: 직업", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"라그나로크의 세계에는 다양한 직업이 존재합니다.\n\t\t<TIPBOX>◈1차 직업 전직 안내<INFO>9032</INFO></TIPBOX>\n\t\t<TIPBOX>◈2차 직업 전직 안내<INFO>9000</INFO></TIPBOX>\n\t\t<TIPBOX>◈전승직업군에 대해<INFO>9051</INFO></TIPBOX>\n\t\t<TIPBOX>◈3차 직업 전직 안내<INFO>9052</INFO></TIPBOX>\n\t\t<TIPBOX>◈4차 직업 전직 안내<INFO>9136</INFO></TIPBOX>\n\n\t\t<TIPBOX>◈확장 직업 전직 안내<INFO>9039</INFO></TIPBOX>\n\t\t<TIPBOX>◈도람족 안내<INFO>9044</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶제조 직업군<INFO>9068</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터 페이지로<INFO>1001</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"라그나로크의 세계에는 다양한 직업이 존재합니다.\n\t\t<TIPBOX>◈1차 직업 전직 안내<INFO>9032</INFO></TIPBOX>\n\t\t<TIPBOX>◈2차 직업 전직 안내<INFO>9000</INFO></TIPBOX>\n\t\t<TIPBOX>◈전승직업군에 대해<INFO>9051</INFO></TIPBOX>\n\t\t<TIPBOX>◈3차 직업 전직 안내<INFO>9052</INFO></TIPBOX>\n\t\t<TIPBOX>◈4차 직업 전직 안내<INFO>9136</INFO></TIPBOX>\n\n\t\t<TIPBOX>◈확장 직업 전직 안내<INFO>9039</INFO></TIPBOX>\n\t\t<TIPBOX>◈확장 직업 상위 전직 안내<INFO>4249</INFO></TIPBOX>\n\t\t<TIPBOX>◈도람족 안내<INFO>9044</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶제조 직업군<INFO>9068</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터 페이지로<INFO>1001</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9032] = {Title = "1차 직업 전직 안내", Search = 1, Image = "", 
@@ -5015,13 +5057,13 @@ Page = {"건슬링거는 각종 총기류를 이용해서 적을 제압하는 원거리 슈터 직업입니다.
 [9043] = {Title = "JQ 슈퍼노비스 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"슈퍼 노비스는 응급치료와 죽은 척하기만 사용할 수 있는 노비스 와는 달리 6개의 1차 직업군의 대부분의 스킬을 모두 사용할 수 있는 직업입니다. 슈퍼 노비스의 가장 큰 매력은 1차 직업군의 대부분의 스킬을 습득할 수 있다는 점입니다.\n\t\t하지만 슈퍼 노비스도 하나의 직업이기에 일단 슈퍼 노비스가 되면 일단 다른 1차 직업군으로 전직할 수 없습니다.\n\t\t^663399◈베이스레벨 45 이상^000000\n\t\t^663399◈직업레벨 10 이상^000000\n\t\t^663399◈대상: 노비스^000000\n\n\t\t<NAVI>[트제레로]<INFO>aldeba_in,223,167,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9039</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"슈퍼 노비스는 응급치료와 죽은 척하기만 사용할 수 있는 노비스 와는 달리 6개의 1차 직업군의 대부분의 스킬을 모두 사용할 수 있는 직업입니다. 슈퍼 노비스의 가장 큰 매력은 1차 직업군의 대부분의 스킬을 습득할 수 있다는 점입니다.\n\t\t하지만 슈퍼 노비스도 하나의 직업이기에 일단 슈퍼 노비스가 되면 일단 다른 1차 직업군으로 전직할 수 없습니다.\n\t\t^663399◈베이스레벨 45 이상^000000\n\t\t^663399◈직업레벨 10 이상^000000\n\t\t^663399◈대상: 노비스^000000\n\n\t\t<NAVI>[트제레로]<INFO>aldeba_in,223,167,0,101,0,</INFO></NAVI>\n\t\t\n\t\t베이스 레벨 200, 직업레벨(Job Level) 70 이상의 슈퍼노비스는 상위 확장 직업으로 전직할 수 있게 됩니다.\n\t\t<TIPBOX>▷하이퍼노비스<INFO>4250</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9039</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9044] = {Title = "JQ 도람족 안내", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"도람족은 뛰어난 소환사로서의 능력을 지니고 있으며 대개 소환사가 되는 길을 택합니다.\n\t\t갓 모험가로 데뷔한 한 명의 도람족 소환사가 미드가르드를 무대로 펼치는 모험이 지금 시작됩니다.\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9039</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"도람족은 뛰어난 소환사로서의 능력을 지니고 있으며 대개 소환사가 되는 길을 택합니다.\n\t\t갓 모험가로 데뷔한 한 명의 도람족 소환사가 미드가르드를 무대로 펼치는 모험이 지금 시작됩니다.\n\t\t\n\t\t베이스 레벨 200, 직업레벨(Job Level) 60 이상의 소환사는 상위 확장 직업으로 전직할 수 있게 됩니다.\n\t\t<TIPBOX>▷혼령사<INFO>4251</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9039</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9045] = {Title = "JQ 권성 전직", Search = 1, Image = "", 
@@ -5039,25 +5081,25 @@ Page = {"소울링커는 태권도의 길을 포기하고 영혼의 힘을 얻는 직업입니다. 소울링커
 [9047] = {Title = "JQ 성제 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"태양과 달과 별의 힘을 다루는 권성 중 자신의 힘을 키우고자 더 넓은 범위의 지식을 갈구하던 자가, 만물의 이치인 우주의 지식을 터득하고 자신을 부르게 된 칭호가 성제입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 권성^000000\n\n\t\t<NAVI>[성제 복장을 한 남자]<INFO>payon,171,171,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9045</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"태양과 달과 별의 힘을 다루는 권성 중 자신의 힘을 키우고자 더 넓은 범위의 지식을 갈구하던 자가, 만물의 이치인 우주의 지식을 터득하고 자신을 부르게 된 칭호가 성제입니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 권성^000000\n\n\t\t<NAVI>[성제 복장을 한 남자]<INFO>payon,171,171,0,101,0,</INFO></NAVI>\n\t\t\n\t\t베이스 레벨 200, 직업레벨(Job Level) 70 이상의 성제는 상위 확장 직업으로 전직할 수 있게 됩니다.\n\t\t<TIPBOX>▷천제<INFO>4252</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9045</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9048] = {Title = "JQ 소울리퍼 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"영혼 에너지에 대해 깨달은 위대한 소울링커는 소울리퍼가 되었으나 지상으로 돌아올 수 없게 되었습니다. 대신에 그녀는 자신처럼 영혼을 연구하기 위해 사후세계로 찾아올 소울링커를 기다립니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 소울링커^000000\n\n\t\t<NAVI>[반약]<INFO>pay_fild08,51,82,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9046</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"영혼 에너지에 대해 깨달은 위대한 소울링커는 소울리퍼가 되었으나 지상으로 돌아올 수 없게 되었습니다. 대신에 그녀는 자신처럼 영혼을 연구하기 위해 사후세계로 찾아올 소울링커를 기다립니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 소울링커^000000\n\n\t\t<NAVI>[반약]<INFO>pay_fild08,51,82,0,101,0,</INFO></NAVI>\n\t\t\n\t\t베이스 레벨 200, 직업레벨(Job Level) 70 이상의 소울리퍼는 상위 확장 직업으로 전직할 수 있게 됩니다.\n\t\t<TIPBOX>▷영도사<INFO>4253</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9046</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9049] = {Title = "JQ 카게로우/오보로 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"오랜 세월을 세상의 그림자 속에서 숨죽여 있던 일족은 어지럽고 혼란한 세상이 도래하자 스스로 그 모습을 드러냈었으나, 그들의 진정한 이름을 계승할 자는 아직 나타나지 않았습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 닌자^000000\n\n\t\t<NAVI>[닌자전직소로 가는 길목]<INFO>que_ng,28,156,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9041</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"오랜 세월을 세상의 그림자 속에서 숨죽여 있던 일족은 어지럽고 혼란한 세상이 도래하자 스스로 그 모습을 드러냈었으나, 그들의 진정한 이름을 계승할 자는 아직 나타나지 않았습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 닌자^000000\n\n\t\t<NAVI>[닌자전직소로 가는 길목]<INFO>que_ng,28,156,0,101,0,</INFO></NAVI>\n\t\t\n\t\t베이스 레벨 200, 직업레벨(Job Level) 70 이상의 카게로우/오보로는 상위 확장 직업으로 전직할 수 있게 됩니다.\n\t\t<TIPBOX>▷신키로/시라누이<INFO>4254</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9041</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9050] = {Title = "JQ 리벨리온 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"모든 총기를 능숙하게 다룰 수 있는 건슬링거의 상위 직업인 리벨리온은 모든 총기를 활용함은 물론 대상에게 표식을 남기거나 표식 대상을 향해 강력한 데미지를 줄 수 있습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 건슬링거^000000\n\n\t\t<NAVI>[수상한 남자]<INFO>moc_fild12,261,318,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9042</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"모든 총기를 능숙하게 다룰 수 있는 건슬링거의 상위 직업인 리벨리온은 모든 총기를 활용함은 물론 대상에게 표식을 남기거나 표식 대상을 향해 강력한 데미지를 줄 수 있습니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 70 이상^000000\n\t\t^663399◈대상: 건슬링거^000000\n\n\t\t<NAVI>[수상한 남자]<INFO>moc_fild12,261,318,0,101,0,</INFO></NAVI>\n\t\t\n\t\t베이스 레벨 200, 직업레벨(Job Level) 70 이상의 리벨리온은 상위 확장 직업으로 전직할 수 있게 됩니다.\n\t\t<TIPBOX>▷나이트워치<INFO>4255</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9042</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9051] = {Title = "전승직업군에 대해", Search = 1, Image = "유저인터페이스\\tipbox\\tip00076", 
@@ -5753,7 +5795,7 @@ Page = {"레켄베르 부설 레겐쉬름 연구소 산하 팀 제르테르의 개조 장비 목록입니다.\
 [9166] = {Title = "팀 리히트의 개조 장비 목록#레겐쉬름장비개조아이템리폼", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"레켄베르 부설 레겐쉬름 연구소 산하 팀 리히트의 개조 장비 목록입니다.\n\t\t개조 대상이 되는 장비는 대개의 경우 +9 이상의 제련도가 필요합니다.\n\t\t제련불가 장비는 상급 개조만 가능합니다.\n\n\t\t▶규격외 방어구\n\t\t▷<ITEM>[타노스의 전사 헬멧-LT]<INFO>400135</INFO></ITEM>\n\t\t+9 <ITEM>[타노스의 전사 헬멧]<INFO>400134</INFO></ITEM>\n\t\t▷<ITEM>[타노스의 사수 헬멧-LT]<INFO>400142</INFO></ITEM>\n\t\t+9 <ITEM>[타노스의 사수 헬멧]<INFO>400141</INFO></ITEM>\n\t\t▷<ITEM>[타노스의 마법 헬멧-LT]<INFO>400145</INFO></ITEM>\n\t\t+9 <ITEM>[타노스의 마법 헬멧]<INFO>400146</INFO></ITEM>\n\t\t▷<ITEM>[영웅의 부츠-LT]<INFO>470094</INFO></ITEM>\n\t\t+9 <ITEM>[위대한 영웅의 부츠]<INFO>22238</INFO></ITEM>\n\t\t▷<ITEM>[스모키의 변신 나뭇잎-LT]<INFO>400152</INFO></ITEM>\n\t\t+9 <ITEM>[스모키의 변신 나뭇잎]<INFO>19265</INFO></ITEM>\n\t\t▷<ITEM>[휘케바인의 검은<INFO>400153</INFO></ITEM>\n\t\t<ITEM>고양이귀-LT]<INFO>400153</INFO></ITEM>\n\t\t+9 <ITEM>[휘케바인의 검은<INFO>19134</INFO></ITEM>\n\t\t<ITEM>고양이귀]<INFO>19134</INFO></ITEM>\n\t\t▷<ITEM>[서바이벌 서클릿-LT]<INFO>400154</INFO></ITEM>\n\t\t+9 <ITEM>[서바이벌 서클릿]<INFO>19266</INFO></ITEM>\n\t\t▷<ITEM>[황금 물고기 머리 모자-LT]<INFO>400155</INFO></ITEM>\n\t\t+9 <ITEM>[황금 물고기 머리 모자]<INFO>19264</INFO></ITEM>\n\t\t▷<ITEM>[임프 모자-LT]<INFO>400156</INFO></ITEM>\n\t\t+9 <ITEM>[임프 모자]<INFO>5658</INFO></ITEM>\n\t\t▷<ITEM>[타노스의 투사 헬멧-LT]<INFO>400151</INFO></ITEM>\n\t\t+9 <ITEM>[타노스의 투사 헬멧]<INFO>400150</INFO></ITEM>\n\t\t▷<ITEM>[서바이벌 오브-LT]<INFO>420066</INFO></ITEM>\n\t\t<ITEM>[서바이벌 오브]<INFO>19267</INFO></ITEM>(제련불가)\n\t\t▷<ITEM>[매드바니-LT]<INFO>460020</INFO></ITEM>\n\t\t+9 <ITEM>[매드바니]<INFO>28902</INFO></ITEM>\n\t\t\n\t\t▶규격외 무기\n\t\t▷<ITEM>[세인트 홀-LT]<INFO>590030</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 세인트 홀]<INFO>590012</INFO></ITEM>\n\t\t▷<ITEM>[아쿠아틱 스피어-LT]<INFO>530019</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 아쿠아틱 스피어]<INFO>530006</INFO></ITEM>\n\t\t▷<ITEM>[퇴마의 성서-LT]<INFO>540035</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 퇴마의 성서]<INFO>540011</INFO></ITEM>\n\t\t▷<ITEM>[라이트 블레이드-LT]<INFO>500038</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 라이트 블레이드]<INFO>500017</INFO></ITEM>\n\t\t▷<ITEM>[마도검-LT]<INFO>510040</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 마도검]<INFO>510019</INFO></ITEM>\n\t\t▷<ITEM>[페이탈리스트-LT]<INFO>510041</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 페이탈리스트]<INFO>510020</INFO></ITEM>\n\t\t▷<ITEM>[아이언 스태프-LT]<INFO>640027</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 아이언 스태프]<INFO>640011</INFO></ITEM>\n\t\t▷<ITEM>[블루 크리스탈 스태프-LT]<INFO>640028</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 블루 크리스탈<INFO>640012</INFO></ITEM>\n\t\t<ITEM>스태프]<INFO>640012</INFO></ITEM>\n\t\t▷<ITEM>[쉐도우 스태프-LT]<INFO>550045</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 쉐도우 스태프]<INFO>550012</INFO></ITEM>\n\t\t▷<ITEM>[냉기의 지팡이-LT]<INFO>550046</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 냉기의 지팡이]<INFO>550013</INFO></ITEM>\n\t\t▷<ITEM>[아이언 네일-LT]<INFO>560026</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 아이언 네일]<INFO>560008</INFO></ITEM>\n\t\t▷<ITEM>[레이 너클-LT]<INFO>560027</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 레이 너클]<INFO>560009</INFO></ITEM>\n\t\t▷<ITEM>[홍련의 검-LT]<INFO>500039</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 홍련의 검]<INFO>500013</INFO></ITEM>\n\t\t▷<ITEM>[슬레이트 소드-LT]<INFO>500040</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 슬레이트 소드]<INFO>500014</INFO></ITEM>\n\t\t▷<ITEM>[왕가의 활-LT]<INFO>700045</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 왕가의 활]<INFO>700018</INFO></ITEM>\n\t\t▷<ITEM>[스칼렛 드래곤<INFO>700046</INFO></ITEM>\n\t\t<ITEM>레더보우-LT]<INFO>700046</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 스칼렛 드래곤<INFO>700019</INFO></ITEM>\n\t\t<ITEM>레더보우]<INFO>700019</INFO></ITEM>\n\t\t▷<ITEM>[소라고둥 나팔-LT]<INFO>570027</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 소라고둥 나팔]<INFO>570009</INFO></ITEM>\n\t\t▷<ITEM>[가시철사 채찍-LT]<INFO>580027</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 가시철사 채찍]<INFO>580009</INFO></ITEM>\n\t\t▷<ITEM>[나르시스 보우-LT]<INFO>700049</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 나르시스 보우]<INFO>700013</INFO></ITEM>\n\t\t▷<ITEM>[복수자-LT]<INFO>620015</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 복수자]<INFO>620004</INFO></ITEM>\n\t\t▷<ITEM>[메테오 스트라이커-LT]<INFO>590034</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 메테오<INFO>590011</INFO></ITEM>\n\t\t<ITEM>스트라이커]<INFO>590011</INFO></ITEM>\n\t\t▷<ITEM>[동방의 보검-LT]<INFO>600023</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 동방의 보검]<INFO>600009</INFO></ITEM>\n\t\t▷<ITEM>[드래고닉 슬레이어-LT]<INFO>600024</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 드래고닉<INFO>21058</INFO></ITEM>\n\t\t<ITEM>슬레이어]<INFO>21058</INFO></ITEM>\n\t\t▷<ITEM>[전율의 카타르-LT]<INFO>610033</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 전율의 카타르]<INFO>610008</INFO></ITEM>\n\t\t▷<ITEM>[블레이드 카타르-LT]<INFO>610034</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 블레이드 카타르]<INFO>610009</INFO></ITEM>\n\t\t\n\t\t팀 리히트 책임자:\n\t\t<NAVI>[스택]<INFO>rgsr_in,136,171,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶이전 페이지로<INFO>9162</INFO></TIPBOX>\n  <TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"레켄베르 부설 레겐쉬름 연구소 산하 팀 리히트의 개조 장비 목록입니다.\n\t\t개조 대상이 되는 장비는 대개의 경우 +9 이상의 제련도가 필요합니다.\n\t\t제련불가 장비는 상급 개조만 가능합니다.\n\n\t\t▶규격외 방어구\n\t\t▷<ITEM>[타노스의 전사 헬멧-LT]<INFO>400135</INFO></ITEM>\n\t\t+9 <ITEM>[타노스의 전사 헬멧]<INFO>400134</INFO></ITEM>\n\t\t▷<ITEM>[타노스의 사수 헬멧-LT]<INFO>400142</INFO></ITEM>\n\t\t+9 <ITEM>[타노스의 사수 헬멧]<INFO>400141</INFO></ITEM>\n\t\t▷<ITEM>[타노스의 마법 헬멧-LT]<INFO>400145</INFO></ITEM>\n\t\t+9 <ITEM>[타노스의 마법 헬멧]<INFO>400146</INFO></ITEM>\n\t\t▷<ITEM>[영웅의 부츠-LT]<INFO>470094</INFO></ITEM>\n\t\t+9 <ITEM>[위대한 영웅의 부츠]<INFO>22238</INFO></ITEM>\n\t\t▷<ITEM>[스모키의 변신 나뭇잎-LT]<INFO>400152</INFO></ITEM>\n\t\t+9 <ITEM>[스모키의 변신 나뭇잎]<INFO>19265</INFO></ITEM>\n\t\t▷<ITEM>[휘케바인의 검은<INFO>400153</INFO></ITEM>\n\t\t<ITEM>고양이귀-LT]<INFO>400153</INFO></ITEM>\n\t\t+9 <ITEM>[휘케바인의 검은<INFO>19134</INFO></ITEM>\n\t\t<ITEM>고양이귀]<INFO>19134</INFO></ITEM>\n\t\t▷<ITEM>[서바이벌 서클릿-LT]<INFO>400154</INFO></ITEM>\n\t\t+9 <ITEM>[서바이벌 서클릿]<INFO>19266</INFO></ITEM>\n\t\t▷<ITEM>[황금 물고기 머리 모자-LT]<INFO>400155</INFO></ITEM>\n\t\t+9 <ITEM>[황금 물고기 머리 모자]<INFO>19264</INFO></ITEM>\n\t\t▷<ITEM>[임프 모자-LT]<INFO>400156</INFO></ITEM>\n\t\t+9 <ITEM>[임프 모자]<INFO>5658</INFO></ITEM>\n\t\t▷<ITEM>[타노스의 투사 헬멧-LT]<INFO>400151</INFO></ITEM>\n\t\t+9 <ITEM>[타노스의 투사 헬멧]<INFO>400150</INFO></ITEM>\n\t\t▷<ITEM>[서바이벌 오브-LT]<INFO>420066</INFO></ITEM>\n\t\t<ITEM>[서바이벌 오브]<INFO>19267</INFO></ITEM>(제련불가)\n\t\t▷<ITEM>[매드바니-LT]<INFO>460020</INFO></ITEM>\n\t\t+9 <ITEM>[매드바니]<INFO>28902</INFO></ITEM>\n\t\t\n\t\t▶규격외 무기\n\t\t▷<ITEM>[세인트 홀-LT]<INFO>590030</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 세인트 홀]<INFO>590012</INFO></ITEM>\n\t\t▷<ITEM>[아쿠아틱 스피어-LT]<INFO>530019</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 아쿠아틱 스피어]<INFO>530006</INFO></ITEM>\n\t\t▷<ITEM>[퇴마의 성서-LT]<INFO>540035</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 퇴마의 성서]<INFO>540011</INFO></ITEM>\n\t\t▷<ITEM>[라이트 블레이드-LT]<INFO>500038</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 라이트 블레이드]<INFO>500017</INFO></ITEM>\n\t\t▷<ITEM>[마도검-LT]<INFO>510040</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 마도검]<INFO>510019</INFO></ITEM>\n\t\t▷<ITEM>[페이탈리스트-LT]<INFO>510041</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 페이탈리스트]<INFO>510020</INFO></ITEM>\n\t\t▷<ITEM>[아이언 스태프-LT]<INFO>640027</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 아이언 스태프]<INFO>640011</INFO></ITEM>\n\t\t▷<ITEM>[블루 크리스탈 스태프-LT]<INFO>640028</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 블루 크리스탈<INFO>640012</INFO></ITEM>\n\t\t<ITEM>스태프]<INFO>640012</INFO></ITEM>\n\t\t▷<ITEM>[쉐도우 스태프-LT]<INFO>550045</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 쉐도우 스태프]<INFO>550012</INFO></ITEM>\n\t\t▷<ITEM>[냉기의 지팡이-LT]<INFO>550046</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 냉기의 지팡이]<INFO>550013</INFO></ITEM>\n\t\t▷<ITEM>[아이언 네일-LT]<INFO>560026</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 아이언 네일]<INFO>560008</INFO></ITEM>\n\t\t▷<ITEM>[레이 너클-LT]<INFO>560027</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 레이 너클]<INFO>560009</INFO></ITEM>\n\t\t▷<ITEM>[홍련의 검-LT]<INFO>500039</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 홍련의 검]<INFO>500013</INFO></ITEM>\n\t\t▷<ITEM>[슬레이트 소드-LT]<INFO>500040</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 슬레이트 소드]<INFO>500014</INFO></ITEM>\n\t\t▷<ITEM>[왕가의 활-LT]<INFO>700045</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 왕가의 활]<INFO>700018</INFO></ITEM>\n\t\t▷<ITEM>[스칼렛 드래곤<INFO>700046</INFO></ITEM>\n\t\t<ITEM>레더보우-LT]<INFO>700046</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 스칼렛 드래곤<INFO>700019</INFO></ITEM>\n\t\t<ITEM>레더보우]<INFO>700019</INFO></ITEM>\n\t\t▷<ITEM>[소라고둥 나팔-LT]<INFO>570027</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 소라고둥 나팔]<INFO>570009</INFO></ITEM>\n\t\t▷<ITEM>[가시철사 채찍-LT]<INFO>580027</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 가시철사 채찍]<INFO>580009</INFO></ITEM>\n\t\t▷<ITEM>[나르시스 보우-LT]<INFO>700049</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 나르시스 보우]<INFO>700013</INFO></ITEM>\n\t\t▷<ITEM>[복수자-LT]<INFO>620015</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 복수자]<INFO>620004</INFO></ITEM>\n\t\t▷<ITEM>[메테오 스트라이커-LT]<INFO>590034</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 메테오<INFO>590011</INFO></ITEM>\n\t\t<ITEM>스트라이커]<INFO>590011</INFO></ITEM>\n\t\t▷<ITEM>[동방의 보검-LT]<INFO>600023</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 동방의 보검]<INFO>600009</INFO></ITEM>\n\t\t▷<ITEM>[드래고닉 슬레이어-LT]<INFO>600024</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 드래고닉<INFO>21058</INFO></ITEM>\n\t\t<ITEM>슬레이어]<INFO>21058</INFO></ITEM>\n\t\t▷<ITEM>[전율의 카타르-LT]<INFO>610033</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 전율의 카타르]<INFO>610008</INFO></ITEM>\n\t\t▷<ITEM>[블레이드 카타르-LT]<INFO>610034</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 블레이드 카타르]<INFO>610009</INFO></ITEM>\n\t\t▷<ITEM>[풍마수리검 청명-LT]<INFO>650024</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 풍마수리검 청명]<INFO>650004</INFO></ITEM>\n\t\t▷<ITEM>[키리노츠유-LT]<INFO>510060</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 키리노츠유]<INFO>510022</INFO></ITEM>\n\t\t▷<ITEM>[크림슨 로즈-LT]<INFO>800013</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 크림슨 로즈]<INFO>800002</INFO></ITEM>\n\t\t▷<ITEM>[마스터 소울 라이플-LT]<INFO>810009</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 마스터<INFO>810001</INFO></ITEM>\n\t\t<ITEM>소울 라이플]<INFO>810001</INFO></ITEM>\n\t\t▷<ITEM>[데몬 슬레이어 샷-LT]<INFO>820007</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 데몬<INFO>820001</INFO></ITEM>\n\t\t<ITEM> 슬레이어 샷]<INFO>820001</INFO></ITEM>\n\t\t▷<ITEM>[더 블랙-LT]<INFO>830012</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 더 블랙]<INFO>830002</INFO></ITEM>\n\t\t▷<ITEM>[골든 로드 런처-LT]<INFO>840008</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 골든 로드 런처]<INFO>840001</INFO></ITEM>\n\t\t▷<ITEM>[냥냥 강아지풀-LT]<INFO>550067</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 냥냥 강아지풀]<INFO>550014</INFO></ITEM>\n\t\t▷<ITEM>[일천일양-LT]<INFO>540048</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 일천일양]<INFO>540010</INFO></ITEM>\n\t\t▷<ITEM>[혼령추-LT]<INFO>550068</INFO></ITEM>\n\t\t+9 <ITEM>[개방된 혼령추]<INFO>550015</INFO></ITEM>\n\t\t\n\t\t팀 리히트 책임자:\n\t\t<NAVI>[스택]<INFO>rgsr_in,136,171,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶이전 페이지로<INFO>9162</INFO></TIPBOX>\n  <TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9167] = {Title = "모자 조합#투구조합의상머리띠만들기", Search = 1, Image = "", 

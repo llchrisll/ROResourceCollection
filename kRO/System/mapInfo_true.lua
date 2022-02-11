@@ -4,6 +4,18 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["rag_fes.rsw"] = {displayName = "RAG-FES 전시장", notifyEnter = true, 
+signName = {subTitle = "라그나로크 페스티벌", mainTitle = "RAG-FES 전시장"}
+, backgroundBmp = "village"}
+, 
+["rag_fes_a.rsw"] = {displayName = "RAG-FES 전시장", notifyEnter = true, 
+signName = {subTitle = "라그나로크 페스티벌", mainTitle = "RAG-FES 전시장"}
+, backgroundBmp = "village"}
+, 
+["clock_01.rsw"] = {displayName = "시계탑 미지의 지하층", notifyEnter = true, 
+signName = {subTitle = "시계탑", mainTitle = "미지의 지하층"}
+, backgroundBmp = "dungeon"}
+, 
 ["1@exnw.rsw"] = {displayName = "클라나 네미에리", notifyEnter = true, 
 signName = {mainTitle = "클라나 네미에리"}
 , backgroundBmp = "field2_s2"}

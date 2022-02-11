@@ -8373,6 +8373,50 @@ Description = {"노비스의 기억 안에서 던전 진행 상황이 저장되었습니다."}
 Description = {"노비스의 기억 안에서 얻을 것은 다 얻은 것 같다. 밖으로 나가 그레이프를 만나자."}
 , Summary = ""}
 , 
+[5961] = {Title = "[대기] 악마의 식사", IconName = "ico_dq.bmp", 
+Description = {"오늘도 <NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>에게 식사를 대접했다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[5962] = {Title = "악마의 조식", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[시계탑 미지의 지하층]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>의 몬스터 100마리의 영혼의 찌꺼기라면, 가볍게 먹는 조식 정도의양으로 충분하다고 한다. <NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>에게 식사를 대접하자."}
+, Summary = "시계탑 미지의 지하층 몬스터 100"}
+, 
+[5963] = {Title = "악마의 중식", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[시계탑 미지의 지하층]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>의 몬스터 300마리의 영혼의 찌꺼기라면, 적당한 중식 정도의양으로 충분하다고 한다. <NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>에게 식사를 대접하자."}
+, Summary = "시계탑 미지의 지하층 몬스터 300"}
+, 
+[5964] = {Title = "악마의 석식", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[시계탑 미지의 지하층]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>의 몬스터 1000마리의 영혼의 찌꺼기라면, 든든하게 먹는 석식 정도의양으로 충분하다고 한다. <NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>에게 식사를 대접하자."}
+, Summary = "시계탑 미지의 지하층 몬스터 1000"}
+, 
+[5965] = {Title = "[대기] 악마의 특식", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>에게 이번 주의 특식을 대접했다. 뭐 월요일 쯤에 또 대접해주면 되겠지?"}
+, Summary = "월요일 04시 초기화", CoolTimeQuest = 1}
+, 
+[5966] = {Title = "악마의 특식", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>는 일주일에 한번 정도는 특식을 요구하고 있다. <NAVI>[시계탑 미지의 지하층]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>의 몬스터 5000마리의 영혼의 찌꺼기 라면, 특식으로 충분하다고 한다."}
+, Summary = "시계탑 미지의 지하층 몬스터 5000"}
+, 
+[5967] = {Title = "[대기] 악마의 간식", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>에게 간식을 대접했다. 내일도 뭔가를 요구할 테니 <ITEM>[조커즈 와일드]<INFO>25505</INFO></ITEM>, <ITEM>[귀여운 빗자루]<INFO>25506</INFO></ITEM>, <ITEM>[화려한 산호]<INFO>25507</INFO></ITEM>, <ITEM>[빛나는 둥근껍질]<INFO>25509</INFO></ITEM>을 100개씩 모아둘까?"}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[5968] = {Title = "[대기] 악마의 애완 미믹", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>가 키우는 애완 미믹의 식사도 챙겼다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[5969] = {Title = "애완 미믹의 먹이", IconName = "ico_dq.bmp", 
+Description = {"상자의 악마는 애완 미믹의 먹이를 챙겨주길 원한다. <NAVI>[시계탑 미지의 지하층]<INFO>clock_01,84,44,0,101,0</INFO></NAVI> 어딘가 있는 애완 미믹을 찾아보자."}
+, Summary = "애완 미믹 찾기"}
+, 
+[5970] = {Title = "먹이 전달(?) 완료", IconName = "ico_dq.bmp", 
+Description = {"애완 미믹이 먹이를 빼앗아 갔으니 준 게 맞겠지? <NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>에게 보고하자"}
+, Summary = "상자의 악마에게 보고"}
+, 
+[5971] = {Title = "상자의 악마", IconName = "ico_nq.bmp", 
+Description = {"상자의 악마를 만났다."}
+, Summary = ""}
+, 
 [6000] = {Title = "태권 전직", 
 Description = {"태권의 길을 걷고자 합니다. 베이스 레벨을 상승시킨 후 봉황과 대화 해야 합니다."}
 , Summary = ""}
@@ -27737,6 +27781,50 @@ Description = {"표시된 곳의 수색을 마쳤다."}
 Description = {"표시된 곳의 수색을 마쳤다."}
 , Summary = "수색종료"}
 , 
+[17596] = {Title = "눈사람 만들기 대회", IconName = "ico_ev.bmp", 
+Description = {"눈이 없는 눈꽃축제이지만 눈사람이 빠지면 섭섭하죠. 눈사람 만들기 <NAVI>[대회장]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>으로 가보세요. 다들 어떤 눈사람을 만들었을지?"}
+, Summary = "대회장으로"}
+, 
+[17597] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"샐리는 중앙 <NAVI>[행사장]<INFO>aldebaran,179,159,0,101,0</INFO></NAVI> 쪽으로 갔다고 하니까 찾기 쉬울 거예요."}
+, Summary = "샐리를 찾아"}
+, 
+[17598] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"조금만 더 보면 방법을 알 것 같으니까 <NAVI>[크렘]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>에게 곧 가겠다고 전해주세요."}
+, Summary = "크렘에게로"}
+, 
+[17599] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"눈사람을 다시 만들기 위해서는 깨끗한 눈 5덩어리가 필요해요. <NAVI>[루티에]<INFO>xmas_fild01,128,123,0,101,0</INFO></NAVI> 근방에서 퍼다주실 수 있나요?"}
+, Summary = "깨끗한 눈"}
+, 
+[17600] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"깨끗한 눈 한 덩어리는 얻었다. 다음 <NAVI>[장소]<INFO>xmas_fild01,141,166,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "깨끗한 눈"}
+, 
+[17601] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"이 정도로 깨끗한 눈이면 되겠지. 또 다른 <NAVI>[곳]<INFO>xmas_fild01,169,214,0,101,0</INFO></NAVI>을 찾아 보자."}
+, Summary = "깨끗한 눈"}
+, 
+[17602] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"눈을 열심히 판 보람이 있다. 다른 깨끗한 <NAVI>[눈]<INFO>xmas_fild01,59,219,0,101,0</INFO></NAVI>을 찾으러 가 보자."}
+, Summary = "깨끗한 눈"}
+, 
+[17603] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"이제 마지막으로 한 덩어리만 남았다! 깨끗한 <NAVI>[눈]<INFO>xmas_fild01,119,52,0,101,0</INFO></NAVI>이 쌓인 곳을 찾아 보자."}
+, Summary = "깨끗한 눈"}
+, 
+[17604] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"깨끗한 눈은 모두 얻었으니 이제 마력의 눈꽃 10개를 가지고 <NAVI>[크렘]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>씨에게 돌아가자."}
+, Summary = "마력의 눈꽃"}
+, 
+[17605] = {Title = "대기: 최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"덕분에 눈사람을 만들 수 있었어요. 보수를 해야 하니 새벽 시간이 지난 후에 다시 와주시면 감사하겠습니다! - <NAVI>[크렘]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>"}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17606] = {Title = "최고의 눈사람", IconName = "ico_ev.bmp", 
+Description = {"깨끗한 눈은 모두 얻었으니 이제 마력의 눈꽃 10개를 가지고 <NAVI>[크렘]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>씨에게 돌아가자."}
+, Summary = "마력의 눈꽃"}
+, 
 [17607] = {Title = "바이오스피어", IconName = "ico_ev.bmp", 
 Description = {"바르문트 저택 내의 인공 서식지에 필요한 도움 안내 요청을 드렸습니다."}
 , Summary = "안내 완료"}
@@ -28508,6 +28596,322 @@ Description = {"낙원단 독점 의뢰입니다.", "<NAVI>[제 2 마력발전소]<INFO>ba_pw03,
 [19065] = {Title = "제 2 마력발전소-대기", IconName = "ico_dq.bmp", 
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 낙원단 상급의뢰게시판을 통해 퀘스트 수주가 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[20000] = {Title = "유저 캐릭터 인증 완료", IconName = "ico_ev.bmp", 
+Description = {"라그페스의 유저 캐릭터 인증 완료했습니다!"}
+, Summary = "라그페스"}
+, 
+[20001] = {Title = "미지의 장소 조사", IconName = "ico_ev.bmp", 
+Description = {"새로운 차원의 틈새가 발견되었다는 말에 조사 협력을 수락한 모험가! 평소와 마찬가지로 게이트를 통해 이동한 곳은… 이세계였다?!", "일단 조사를 하기 위해 거대한 문 안으로 들어가 보자! 다른 모험가도 많이 있는 것 같다!"}
+, Summary = "이세계 탐방"}
+, 
+[20002] = {Title = "스탬프 카드 습득!", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "부스를 돌아 도장을 10개 찍어 오면 되는 것 같다."}
+, Summary = ""}
+, 
+[20003] = {Title = "스탬프 릴레이! (1)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 1개 찍었다!", "다른 부스도 찾아보자."}
+, Summary = ""}
+, 
+[20004] = {Title = "스탬프 릴레이! (2)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 2개 찍었다!", "다른 부스도 찾아보자."}
+, Summary = ""}
+, 
+[20005] = {Title = "스탬프 릴레이! (3)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 3개 찍었다!", "다른 부스도 찾아보자."}
+, Summary = ""}
+, 
+[20006] = {Title = "스탬프 릴레이! (4)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 4개 찍었다!", "다른 부스도 찾아보자."}
+, Summary = ""}
+, 
+[20007] = {Title = "스탬프 릴레이! (5)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 5개 찍었다!", "다른 부스도 찾아보자."}
+, Summary = ""}
+, 
+[20008] = {Title = "스탬프 릴레이! (6)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 6개 찍었다!", "다른 부스도 찾아보자."}
+, Summary = ""}
+, 
+[20009] = {Title = "스탬프 릴레이! (7)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 7개 찍었다!", "다른 부스도 찾아보자."}
+, Summary = ""}
+, 
+[20010] = {Title = "스탬프 릴레이! (8)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 8개 찍었다!", "다른 부스도 찾아보자."}
+, Summary = ""}
+, 
+[20011] = {Title = "스탬프 릴레이! (9)", IconName = "ico_ev.bmp", 
+Description = {"매일매일 선물이 쏟아지는 스탬프 릴레이!", "완성된 스탬프 카드를 1일 1회, <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>로 가지고 오시면 선물을 드립니다!", "…라고 쓰인 카드를 받았다.", "오늘의 스탬프를 9개 찍었다!", "다른 부스도 찾아보자. 한 부스만 더 찾으면 된다."}
+, Summary = ""}
+, 
+[20012] = {Title = "스탬프 릴레이! (10)", IconName = "ico_ev.bmp", 
+Description = {"오늘의 스탬프를 10개 찍었다!", "완성된 스탬프 카드를 <NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>의 카프라 직원 옷을 입고 있는 사람에게 카드를 제출하면 선물을 받을 수 있다."}
+, Summary = ""}
+, 
+[20013] = {Title = "이세계 모험 완료!", IconName = "ico_ev.bmp", 
+Description = {"스탬프 카드를 완성했어! 신난다! 이걸 누구에게 자랑할까? …폴?", "이 곳으로 이동된 차원의 틈새 앞에 있는 폴에게 돌아가려면 <NAVI>[도착한 곳]<INFO>rag_fes,100,83,0,101,0</INFO></NAVI>으로 이동해 보자."}
+, Summary = "폴과 대화"}
+, 
+[20014] = {Title = "스탬프는 내일 다시", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[본부]<INFO>rag_fes,192,128,0,101,0</INFO></NAVI>에 스탬프 카드를 제출하고 선물을 받았다.", "게이트가 닫히기 전까지는 매일 도전할 수 있다."}
+, Summary = "11시 초기화", CoolTimeQuest = 1}
+, 
+[20021] = {Title = "[대기] 꽁냥꽁", IconName = "ico_dq.bmp", 
+Description = {"오늘의 꽁냥꽁 이벤트를 마쳤습니다.", "내일 행사장이 오픈 후에 재도전 하실 수 있습니다."}
+, Summary = "11시 초기화", CoolTimeQuest = 1}
+, 
+[20022] = {Title = "내가 제련의 신이다! (1)", IconName = "ico_ev.bmp", 
+Description = {"내가 제련의 신이다! 1회차 이벤트를 진행중입니다."}
+, Summary = ""}
+, 
+[20023] = {Title = "내가 제련의 신이다! (2)", IconName = "ico_ev.bmp", 
+Description = {"내가 제련의 신이다! 2회차 이벤트를 진행중입니다."}
+, Summary = ""}
+, 
+[20024] = {Title = "내가 제련의 신이다! (3)", IconName = "ico_ev.bmp", 
+Description = {"내가 제련의 신이다! 3회차 이벤트를 진행중입니다."}
+, Summary = ""}
+, 
+[20025] = {Title = "[대기] 내가 제련의 신이다!", IconName = "ico_dq.bmp", 
+Description = {"오늘의 제련의 신이다! 이벤트를 마쳤습니다.", "내일 행사장이 오픈 후에 재도전 하실 수 있습니다."}
+, Summary = "11시 초기화", CoolTimeQuest = 1}
+, 
+[20026] = {Title = "[대기] 참참참", IconName = "ico_dq.bmp", 
+Description = {"오늘의 참참참 이벤트를 마쳤습니다.", "내일 행사장이 오픈 후에 재도전 하실 수 있습니다."}
+, Summary = "11시 초기화", CoolTimeQuest = 1}
+, 
+[20031] = {Title = "RO 퀴즈 대회", IconName = "ico_dq.bmp", 
+Description = {"오늘의 RO 퀴즈 대회 참가를 마쳤습니다. 내일 다시 RO 퀴즈 대회 담당 <NAVI>[라그페스 서포터]<INFO>rag_fes,121,129,0,101,0</INFO></NAVI>에게 와서 퀴즈 대회를 즐겨 주세요."}
+, Summary = "11시 초기화", CoolTimeQuest = 1}
+, 
+[20032] = {Title = "RO 퀴즈 대회", IconName = "ico_ev.bmp", 
+Description = {"재도전은 언제든지 가능합니다. RO 퀴즈 대회 담당 <NAVI>[라그페스 서포터]<INFO>rag_fes,121,129,0,101,0</INFO></NAVI>에게 가서 퀴즈를 풀어 볼까요?"}
+, Summary = "퀴즈 풀기"}
+, 
+[20033] = {Title = "RO 퀴즈 대회", IconName = "ico_ev.bmp", 
+Description = {"뛰어난 실력을 보여주셨습니다! RO 퀴즈 대회 담당 <NAVI>[라그페스 서포터]<INFO>rag_fes,121,129,0,101,0</INFO></NAVI>에게 가서 상품을 받는 일만 남았네요."}
+, Summary = "상품 수령"}
+, 
+[20041] = {Title = "보물찾기: 전시장 이벤트", IconName = "ico_ev.bmp", 
+Description = {"전시장은 둘러보셨나요? 참여할 수 있는 다양한 이벤트가 준비되어 있습니다.", "매일매일 도전", "꾹! 소리가 날 것 같아요", "10번이에요"}
+, Summary = "매일, 꾹!, 10번"}
+, 
+[20042] = {Title = "보물찾기: 전시장 이벤트", IconName = "ico_ev.bmp", 
+Description = {"전시장은 둘러보셨나요? 참여할 수 있는 다양한 이벤트가 준비되어 있습니다.", "매일매일 도전", "손이 필요해요", "공격과 방어"}
+, Summary = "매일, 손, 공격과 방어"}
+, 
+[20043] = {Title = "보물찾기: 전시장 이벤트", IconName = "ico_ev.bmp", 
+Description = {"전시장은 둘러보셨나요? 참여할 수 있는 다양한 이벤트가 준비되어 있습니다.", "매일매일 도전", "손이 필요해요", "고개가 돌아가는 방향은?"}
+, Summary = "매일, 손, 고개 방향"}
+, 
+[20044] = {Title = "보물찾기: 전시장 이벤트", IconName = "ico_ev.bmp", 
+Description = {"전시장은 둘러보셨나요? 참여할 수 있는 다양한 이벤트가 준비되어 있습니다.", "매일매일 도전", "RO1지식을 드러낼 수 있는 기회!", "문제 풀기"}
+, Summary = "매일, RO1지식, 문제풀기"}
+, 
+[20045] = {Title = "보물찾기: 전시장 이벤트", IconName = "ico_ev.bmp", 
+Description = {"전시장은 둘러보셨나요? 참여할 수 있는 다양한 이벤트가 준비되어 있습니다.", "매일매일 도전", "으허허허허헉-", "성공을 기원합니다"}
+, Summary = "매일, 으허허헉-, 성공기원"}
+, 
+[20046] = {Title = "보물찾기: 몬스터", IconName = "ico_ev.bmp", 
+Description = {"전시장 안엔 다양한 몬스터가 있습니다. 둘러보면서 다양한 몬스터를 만나 보세요.", "이렇게 보여도 식물계", "핑크", "초보 시절"}
+, Summary = "식물, 핑크, 초보"}
+, 
+[20047] = {Title = "보물찾기: 몬스터", IconName = "ico_ev.bmp", 
+Description = {"전시장 안엔 다양한 몬스터가 있습니다. 둘러보면서 다양한 몬스터를 만나 보세요.", "초보 시절", "당근", "흰색 털뭉치"}
+, Summary = "당근, 흰색, 초보"}
+, 
+[20048] = {Title = "보물찾기: 몬스터", IconName = "ico_ev.bmp", 
+Description = {"전시장 안엔 다양한 몬스터가 있습니다. 둘러보면서 다양한 몬스터를 만나 보세요.", "뿔", "낫을 들고 있어요", "악마지만 아직 어린이예요."}
+, Summary = "뿔, 낫, 어린 악마"}
+, 
+[20049] = {Title = "보물찾기: 몬스터", IconName = "ico_ev.bmp", 
+Description = {"전시장 안엔 다양한 몬스터가 있습니다. 둘러보면서 다양한 몬스터를 만나 보세요.", "뿔", "날개도 있고 꼬리도 있어요.", "오늘은 요리사예요."}
+, Summary = "뿔, 날개와 꼬리, 요리사"}
+, 
+[20050] = {Title = "보물찾기: 몬스터", IconName = "ico_ev.bmp", 
+Description = {"전시장 안엔 다양한 몬스터가 있습니다. 둘러보면서 다양한 몬스터를 만나 보세요.", "핑크", "왕은 왕이지만…", "근엄한 수염과 상처가 인상적입니다."}
+, Summary = "핑크, 왕, 수염과 상처"}
+, 
+[20051] = {Title = "보물찾기: 몬스터", IconName = "ico_ev.bmp", 
+Description = {"전시장 안엔 다양한 몬스터가 있습니다. 둘러보면서 다양한 몬스터를 만나 보세요.", "핑크", "날개가 있어요.", "천사인가…?"}
+, Summary = "핑크, 날개, 천사"}
+, 
+[20052] = {Title = "보물찾기: 몬스터", IconName = "ico_ev.bmp", 
+Description = {"전시장 안엔 다양한 몬스터가 있습니다. 둘러보면서 다양한 몬스터를 만나 보세요.", "날개가 있어요.", "귀여운 악마예요.", "두개의 뿔이 있는 것 같아요."}
+, Summary = "날개, 악마, 젤리 뿔"}
+, 
+[20053] = {Title = "보물찾기: 몬스터", IconName = "ico_ev.bmp", 
+Description = {"전시장 안엔 다양한 몬스터가 있습니다. 둘러보면서 다양한 몬스터를 만나 보세요.", "초보 시절", "포링이라고 착각했을 거예요.", "오렌지"}
+, Summary = "초보, 오렌지, 포링인가?"}
+, 
+[20054] = {Title = "보물찾기: 인물", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 그간 만나보았을지도 모르는 인물의 복장을 한 서포터가 있습니다.", "으허허허헉!", "쨍그랑!"}
+, Summary = "으허허허헉! 쨍그랑!"}
+, 
+[20055] = {Title = "보물찾기: 인물", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 그간 만나보았을지도 모르는 인물의 복장을 한 서포터가 있습니다.", "룬-미드가츠 왕국", "7", "왕관과 가까운 사람들"}
+, Summary = "왕국, 7, 왕관"}
+, 
+[20056] = {Title = "보물찾기: 인물", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 그간 만나보았을지도 모르는 인물의 복장을 한 서포터가 있습니다.", "회색 늑대와 관련이 깊습니다.", "깊은 숲에 살고 있어요.", "아이들"}
+, Summary = "회색 늑대, 숲, 아이들"}
+, 
+[20057] = {Title = "보물찾기: 인물", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 그간 만나보았을지도 모르는 인물의 복장을 한 서포터가 있습니다.", "도움을 받을 수 있어요.", "각종 편의", "저장, 창고 이용, 이동 등등…"}
+, Summary = "도움, 편의, 저장"}
+, 
+[20058] = {Title = "보물찾기: 인물", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 그간 만나보았을지도 모르는 인물의 복장을 한 서포터가 있습니다.", "초부자부터 숙련자까지 모두 만나봤을 거예요.", "단원 증표, 갖고 있나요?", "장비 수급부터 의뢰 수행까지!"}
+, Summary = "단원 증표, 장비, 의뢰수행"}
+, 
+[20059] = {Title = "보물찾기: 인물", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 그간 만나보았을지도 모르는 인물의 복장을 한 서포터가 있습니다.", "초보시절", "빨간머리와 미역머리"}
+, Summary = "초보, 빨간머리, 미역머리"}
+, 
+[20060] = {Title = "보물찾기: 인물", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 그간 만나보았을지도 모르는 인물의 복장을 한 서포터가 있습니다.", "뛰어난 전사입니다.", "전사들을 발할라로 이끕니다.", "이 전시장에서 제일 커요."}
+, Summary = "전사, 발할라, 큰 동상"}
+, 
+[20061] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "룬 나이트에서 전직합니다.", "자신의 의지를 무기형태로 구현한 서번트 웨폰을 다루어요."}
+, Summary = "룬 나이트, 양손, 드래곤"}
+, 
+[20062] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "로얄가드에서 전직합니다.", "방패를 들며 신성력과 함께 합니다."}
+, Summary = "로얄가드, 방패, 신성력"}
+, 
+[20063] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "아크비숍에서 전직합니다.", "신의 대리자로서 신성한 힘을 자유자재로 이용할 수 있습니다."}
+, Summary = "아크비숍, 신의 대리자"}
+, 
+[20064] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "수라에서 전직합니다.", "신의 심판을 대행하는 대행자로서 강력하고 다양한 공격을 펼칠 수 있습니다."}
+, Summary = "수라, 신의 심판"}
+, 
+[20065] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "워록에서 전직합니다.", "강력한 마법에 아름다움을 첨가하여 환상적인 마법을 구현합니다."}
+, Summary = "워록, 마법, 속성"}
+, 
+[20066] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "소서러에서 전직합니다.", "자연의 원소들과 정령을 다루는데 특화되었습니다."}
+, Summary = "소서러, 정령, 원소"}
+, 
+[20067] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "미케닉에서 전직합니다.", "기계공학의 대가로 자율 전투 로봇을 다룰 수 있습니다."}
+, Summary = "미케닉, 기계, 로봇"}
+, 
+[20068] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "제네릭에서 전직합니다.", "생명 공학의 전문가로, 식물계열의 생체 에너지를 추가하여 전투에 활용합니다."}
+, Summary = "제네릭, 생명공학, 식물"}
+, 
+[20069] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "길로틴 크로스에서 전직합니다.", "자신의 몸을 숨긴 상태에서 적을 급습합니다."}
+, Summary = "길로틴 크로스, 그림자"}
+, 
+[20070] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "쉐도우 체이서에서 전직합니다.", "심연의 힘을 이용해 다양한 공격을 할 수 있습니다."}
+, Summary = "쉐도우 체이서, 심연"}
+, 
+[20071] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "레인져에서 전직합니다.", "강력한 바람의 힘을 활용한 명사수로 동물들과의 교감능력이 뛰어납니다."}
+, Summary = "레인져, 활, 동물"}
+, 
+[20072] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "원더러와 민스트럴에서 전직합니다.", "아군의 사기를 증진시키는 아름다운 선율의 노래를 부릅니다."}
+, Summary = "원더러와 민스트럴, 노래"}
+, 
+[20073] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "성제에서 전직합니다.", "태양과 달과 별을 품은 하늘의 이치를 깨닫고 천기의 운행을 이해하여 천계의 뜻을 펼칩니다."}
+, Summary = "성제, 천기 운행"}
+, 
+[20074] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "소울리퍼에서 전직합니다.", "영혼 에너지와 함께 도술을 다루어 한층 더 높은 차원의 힘을 사용합니다."}
+, Summary = "소울리퍼, 영혼, 도술"}
+, 
+[20075] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "카게로우, 오보로에서 전직합니다.", "다양한 인법을 다룹니다."}
+, Summary = "카게로우와 오보로, 인법"}
+, 
+[20076] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "리벨리온에서 전직합니다.", "총기 활용의 달인이 되어 더욱 다양한 공격을 구사할 수 있습니다."}
+, Summary = "리벨리온, 총기"}
+, 
+[20077] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "슈퍼노비스에서 전직합니다.", "자신들만의 고유한 스킬을 갈고 닦아 구사하게 되었습니다."}
+, Summary = "슈퍼 노비스, 한계 초월"}
+, 
+[20078] = {Title = "보물찾기: 직업", IconName = "ico_ev.bmp", 
+Description = {"신규 직업엔 어떤 것들이 있을까요? 이 전시장 안에는 신규 직업에 대한 안내도 받을 수 있어요.", "소환사에서 전직합니다.", "한층 발전된 영혼술을 선보입니다."}
+, Summary = "소환사, 영혼술"}
+, 
+[20079] = {Title = "보물찾기: 도시", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 각 대륙의 대표 도시를 축소해 놓은 미니어처가 있습니다.", "룬-미드가츠 왕국", "분수대", "왕궁"}
+, Summary = "룬-미드가츠, 왕궁"}
+, 
+[20080] = {Title = "보물찾기: 도시", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 각 대륙의 대표 도시를 축소해 놓은 미니어처가 있습니다.", "뾰족한 타워", "마법", "고성"}
+, Summary = "타워, 마법, 고성"}
+, 
+[20081] = {Title = "보물찾기: 도시", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 각 대륙의 대표 도시를 축소해 놓은 미니어처가 있습니다.", "사막", "낙원단의 본산", "오아시스와 피라미드"}
+, Summary = "사막, 낙원단, 피라미드"}
+, 
+[20082] = {Title = "보물찾기: 도시", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 각 대륙의 대표 도시를 축소해 놓은 미니어처가 있습니다.", "미드가르드", "항구 도시", "로컬지역"}
+, Summary = "미드가르드, 항구 도시, 로컬"}
+, 
+[20083] = {Title = "보물찾기: 도시", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 각 대륙의 대표 도시를 축소해 놓은 미니어처가 있습니다.", "슈발츠발드", "공중 도시"}
+, Summary = "슈발츠발드, 공중 도시"}
+, 
+[20084] = {Title = "보물찾기: 도시", IconName = "ico_ev.bmp", 
+Description = {"전시장에는 각 대륙의 대표 도시를 축소해 놓은 미니어처가 있습니다.", "파-스타", "항구 도시", "고양이손 상단"}
+, Summary = "파-스타, 항구 도시, 상단"}
+, 
+[20085] = {Title = "보물찾기: 완료", IconName = "ico_ev.bmp", 
+Description = {"보물 찾기는 이것으로 마치겠습니다. 보물 찾기 완료자 명단에 등록을 해드렸으니 이제 시작점으로 되돌아가셔서 저희가 준비한 선물을 받아주세요."}
+, Summary = "시작점으로"}
+, 
+[20091] = {Title = "부스1", IconName = "ico_ev.bmp", 
+Description = {"쉼터의 스탬프를 찍었다!"}
+, Summary = "표시없음"}
+, 
+[20092] = {Title = "부스2", IconName = "ico_ev.bmp", 
+Description = {"포토존의 스탬프를 찍었다!"}
+, Summary = ""}
+, 
+[20093] = {Title = "부스3", IconName = "ico_ev.bmp", 
+Description = {"라그나로크 오리진의 스탬프를 찍었다!"}
+, Summary = ""}
+, 
+[20094] = {Title = "부스4", IconName = "ico_ev.bmp", 
+Description = {"라그나로크 비긴즈의 스탬프를 찍었다!"}
+, Summary = ""}
+, 
+[20095] = {Title = "부스5", IconName = "ico_ev.bmp", 
+Description = {"라그나로크 V: 부활의 스탬프를 찍었다!"}
+, Summary = ""}
+, 
+[20096] = {Title = "부스6", IconName = "ico_ev.bmp", 
+Description = {"Project T의 스탬프를 찍었다!"}
+, Summary = ""}
+, 
+[20097] = {Title = "부스7", IconName = "ico_ev.bmp", 
+Description = {"라그나로크 더 로스트 메모리즈의 스탬프를 찍었다!"}
+, Summary = ""}
+, 
+[20098] = {Title = "부스8", IconName = "ico_ev.bmp", 
+Description = {"라그나로크 온라인의 스탬프를 찍었다!"}
+, Summary = ""}
+, 
+[20099] = {Title = "부스9", IconName = "ico_ev.bmp", 
+Description = {"라그나로크 제로의 스탬프를 찍었다!"}
+, Summary = ""}
+, 
+[20100] = {Title = "부스10", IconName = "ico_ev.bmp", 
+Description = {"라그나로크M의 스탬프를 찍었다!"}
+, Summary = ""}
 , 
 [21001] = {Title = "난파선 탈출", 
 Description = {"여행 중 풍랑을 만나 무인도에 난파해 버린 배에서 탈출해야 한다. 선내에 아직 부상자가 있음을 알리자."}
