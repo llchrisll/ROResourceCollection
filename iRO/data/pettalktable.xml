@@ -5515,5 +5515,52 @@
 			<perfor_s>	Chaos!!! Chaos is approaching!!!	</perfor_s>
 		</so_full>			
 					
-	</skelion>		
+	</skelion>
+
+	<sweets_drops>				
+					
+		<hungry>			
+			<feeding>	Candy is always welcome! \(O o O)/ </feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	Candy is always welcome! \(O o O)/	</feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	Candy is always welcome! \(O o O)/	</feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<stand>	Sweet Crepes are yum yum yum in my tum tum tum!	</stand>
+			<stand>	Should I dip my doughnut in the coffe or just eat it? </stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	I don't feel so good maybe we should let it digest first...	</feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<stand>	Sweet Crepes are yum yum yum in my tum tum tum!	</stand>
+			<stand>	Should I dip my doughnut in the coffe or just eat it? </stand>
+			<stand>	We have to exercise extra hard to eat more delicious sweets!	</stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	I don't feel so good maybe we should let it digest first...	</feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<stand>	Sweet Crepes are yum yum yum in my tum tum tum!	</stand>
+			<stand>	Should I dip my doughnut in the coffe or just eat it? </stand>
+			<stand>	We have to exercise extra hard to eat more delicious sweets!	</stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</so_full>			
+					
+	</sweets_drops>			
 </monster_talk_table>
