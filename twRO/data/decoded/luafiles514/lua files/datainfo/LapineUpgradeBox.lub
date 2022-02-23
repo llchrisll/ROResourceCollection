@@ -5,6 +5,44 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+Overclocker = {ItemID = 100481, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Battle_Processor_", 410017}
+}
+, NeedSource_String = "戰鬥核心處理器(1)"}
+, 
+Auto_Armor_Refine_Cube = {ItemID = 100354, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Auto_Armor_A", 450127}
+, 
+{"Auto_Armor_B", 450128}
+, 
+{"Auto_Engine_A", 480020}
+, 
+{"Auto_Engine_B", 480021}
+, 
+{"Auto_Leg_A", 470022}
+, 
+{"Auto_Leg_B", 470023}
+}
+, NeedSource_String = "全自動防具"}
+, 
+Dead_Soul_Record_TW = {ItemID = 101304, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Manteau_Of_Fallen", 20748}
+, 
+{"Manteau_Of_Fallen_", 20749}
+, 
+{"Subject_Cape_TW", 480024}
+}
+, NeedSource_String = "戰死者斗篷, 思念者斗篷"}
+, 
+AS_F_TW = {ItemID = 101277, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Astraea_Shoes", 22167}
+}
+, NeedSource_String = "阿斯特莉亞戰靴"}
+, 
 AA_Melee_TW = {ItemID = 101211, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Astraea_Armor", 15367}

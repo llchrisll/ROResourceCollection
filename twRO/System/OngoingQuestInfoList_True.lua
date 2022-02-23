@@ -2517,98 +2517,6 @@ Description = {"從委託處接受的任務。搜集30個土人之角和30個竹筒。好像捕捉在斐揚迷
 Description = {"從委託處接受的任務。在吉芬迷宮1樓找到了失蹤的青年，回去向委託處報告。"}
 , Summary = ""}
 , 
-[3312] = {Title = "蜜糖土波利殺無赦!", 
-Description = {"糖果慶典主席<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>希望嚴懲偷走可可豆的蜜糖土波利。"}
-, Summary = "擊殺蜜糖土波利"}
-, 
-[3313] = {Title = "被偷走的可可豆", 
-Description = {"糖果慶典主席<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>請求找回被 ^4d4dff蜜糖土波利^000000竊取的^4d4dff被偷走的可可豆^000000 20個。"}
-, Summary = "被偷走的可可豆 20個"}
-, 
-[3314] = {Title = "交貨與回收-普隆德拉", 
-Description = {"為了能讓糖果慶典順利舉行，向普隆德拉甜點屋的  <NAVI>[阿美]<INFO>prontera,113,103,0,101,0</INFO></NAVI>配送^4d4dff交貨用巧克力^000000吧!"}
-, Summary = "向阿美配送巧克力"}
-, 
-[3315] = {Title = "交貨與回收-吉芬", 
-Description = {"為了能讓糖果慶典順利舉行，向吉芬甜點屋的  <NAVI>[艾德]<INFO>geffen,59,165,0,101,0</INFO></NAVI>配送^4d4dff交貨用巧克力^000000吧!"}
-, Summary = "向艾德配送巧克力"}
-, 
-[3316] = {Title = "交貨與回收- 斐揚", 
-Description = {"為了能讓糖果慶典順利舉行，向斐揚甜點屋的  <NAVI>[艾倫]<INFO>payon,160,126,0,101,0</INFO></NAVI>配送^4d4dff交貨用巧克力^000000吧!"}
-, Summary = "向艾倫配送巧克力"}
-, 
-[3317] = {Title = "交貨與回收-艾爾帕蘭", 
-Description = {"為了能讓糖果慶典順利舉行，向艾爾帕蘭甜點屋的  <NAVI>[漢斯]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI>配送^4d4dff交貨用巧克力^000000吧!"}
-, Summary = "向漢斯配送巧克力"}
-, 
-[3318] = {Title = "巧克力交貨完畢!", 
-Description = {"交貨用巧克力已配送至各城市的甜點屋了，去向普隆德拉的 <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報吧!"}
-, Summary = "向秀克拉回報"}
-, 
-[3319] = {Title = "分享溫馨的幸福 1", 
-Description = {"普隆德拉的<NAVI>[克莉茵]<INFO>prontera,210,321,0,101,0</INFO></NAVI>最近比較孤單，為了克莉茵準備了美味可麗餅[活動專用]。"}
-, Summary = "送禮給克莉茵可麗餅[活動專用]"}
-, 
-[3320] = {Title = "分享溫馨的幸福 2", 
-Description = {"普隆德拉的<NAVI>[蘿熙絲]<INFO>prontera,103,308,0,101,0</INFO></NAVI>正在思念去冒險的男友，為了蘿熙絲準備了草莓奶油杯子蛋糕[活動專用]。"}
-, Summary = "送禮給蘿熙絲杯子蛋糕[活動專用]"}
-, 
-[3321] = {Title = "分享溫馨的幸福 3", 
-Description = {"普隆德拉的<NAVI>[艾徒山]<INFO>prontera,100,183,0,101,0</INFO></NAVI>正在傷心難過，為了艾徒山準備了水果芭菲[活動專用]。"}
-, Summary = "送禮給艾徒山芭菲[活動專用]"}
-, 
-[3322] = {Title = "分享溫馨的幸福 4", 
-Description = {"普隆德拉的<NAVI>[安特]<INFO>prontera,271,339,0,101,0</INFO></NAVI>剛好是母親的忌日，為了安特準備了繽紛馬卡龍[活動專用]。"}
-, Summary = "送禮給安特馬卡龍[活動專用]"}
-, 
-[3323] = {Title = "分享溫馨的幸福 5", 
-Description = {"普隆德拉的<NAVI>[綺綺]<INFO>prontera,269,55,0,101,0</INFO></NAVI>正在為了挑選父親的生日禮物而傷腦筋著，為了綺綺準備了栗子蒙布朗[活動專用]。"}
-, Summary = "送禮給綺綺蒙布朗[活動專用]"}
-, 
-[3324] = {Title = "分享溫馨幸福的喜悅", 
-Description = {"向五位客人分送甜點完畢，去向慶典主席  <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送成果吧!"}
-, Summary = "向秀克拉回報"}
-, 
-[3325] = {Title = "再度分享溫馨幸福的喜悅", 
-Description = {"要向普隆德拉的客人再度分送甜點首選，  <NAVI>[克莉茵]<INFO>prontera,210,321,0,101,0</INFO></NAVI>、<NAVI>[蘿熙絲]<INFO>prontera,103,308,0,101,0</INFO></NAVI>、<NAVI>[艾徒山]<INFO>prontera,100,183,0,101,0</INFO></NAVI>、<NAVI>[安特]<INFO>prontera,271,339,0,101,0</INFO></NAVI>、<NAVI>[綺綺]<INFO>prontera,269,55,0,101,0</INFO></NAVI>等五位。"}
-, Summary = "向五位分送甜點"}
-, 
-[3326] = {Title = "克莉茵的甜點配送完畢", 
-Description = {"克莉茵的甜點首選配送完畢，當全部客人配送完成後向<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
-, Summary = "克莉茵的甜點配送完畢"}
-, 
-[3327] = {Title = "蘿熙絲的甜點配送完畢", 
-Description = {"蘿熙絲的甜點首選配送完畢，當全部客人配送完成後向  <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
-, Summary = "蘿熙絲的甜點配送完畢"}
-, 
-[3328] = {Title = "艾徒山的甜點配送完畢", 
-Description = {"艾徒山的甜點首選配送完畢，當全部客人配送完成後向  <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
-, Summary = "艾徒山的甜點配送完畢"}
-, 
-[3329] = {Title = "安特的甜點配送完畢", 
-Description = {"安特的甜點首選配送完畢，當全部客人配送完成後向  <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
-, Summary = "安特的甜點配送完畢"}
-, 
-[3330] = {Title = "綺綺的甜點配送完畢", 
-Description = {"綺綺的甜點首選配送完畢，當全部客人配送完成後向  <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
-, Summary = "綺綺的甜點配送完畢"}
-, 
-[3331] = {Title = "今天也分享幸福的慶典-等候", 
-Description = {"該活動於冷卻時間結束後，可向普隆德拉的  <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>重複承接。"}
-, Summary = "凌晨4點重置"}
-, 
-[3332] = {Title = "交貨與回收-夢羅克", 
-Description = {"為了能讓糖果慶典順利舉行，向夢羅克甜點屋的  <NAVI>[小曼]<INFO>morocc,170,75,0,101,0</INFO></NAVI>配送交貨用巧克力吧!"}
-, Summary = "向小曼配送巧克力"}
-, 
-[3333] = {Title = "今天也要嚴懲蜜糖土波利!", 
-Description = {"只要蜜糖土波利活在這世界一天，跟糖果慶典主席的戰鬥也不會停止。  <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>要求擊殺蜜糖土波利 10隻。"}
-, Summary = "擊殺蜜糖土波利"}
-, 
-[3334] = {Title = "今天也要嚴懲蜜糖土波利-等候", 
-Description = {"該活動於冷卻時間結束後，可向普隆德拉的  <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>重複承接。"}
-, Summary = "凌晨4點重置"}
-, 
 [3335] = {Title = "有難度的櫻花帽製作", 
 Description = {"<NAVI>[阿樂日]<INFO>prontera,167,291,0,101,0</INFO></NAVI>要求帶來製作服飾所需的材料，去收集典雅櫻花樹枝10個和黃色藥草5個給他吧!"}
 , Summary = "收集材料給阿樂日"}
@@ -25453,10 +25361,6 @@ Description = {"施琳終究召喚了黑暗之王，去擊殺召喚的怪物吧!"}
 Description = {"全部擊殺了施琳所召喚的怪物，去跟施琳對話吧!"}
 , Summary = "與施琳對話"}
 , 
-[3506] = {Title = "熟成可可豆", IconName = "ico_ev.bmp", 
-Description = {"擊殺^4d4dff小胖蜜糖波利^000000後，收集^4d4dff熟成可可豆^000000 1個吧!"}
-, Summary = "收集熟成可可豆"}
-, 
 [293242] = {Title = "斯庫爾之日降臨-等候", IconName = "ico_ev.bmp", 
 Description = {"該任務為每日第一次攻略，可於冷卻時間過後再次接取執行，或支付^4d4dff古堡參訪卷1張^000000後重置。"}
 , Summary = "凌晨四點重置"}
@@ -27162,5 +27066,301 @@ Description = {"終於可以製作雪人了，我需要再補強一下，請你凌晨過後再來吧! - <NAV
 [17606] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
 Description = {"晶瑩白雪已全部取得，帶著魔力雪花10個去找<NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>吧!"}
 , Summary = "魔力雪花"}
+, 
+[3312] = {Title = "蜜糖土波利殺無赦!", IconName = "ico_ev.bmp", 
+Description = {"糖果慶典主席<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>希望嚴懲偷走可可豆的蜜糖土波利。"}
+, Summary = "擊殺蜜糖土波利"}
+, 
+[3313] = {Title = "被偷走的可可豆", IconName = "ico_ev.bmp", 
+Description = {"糖果慶典主席<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>請求找回被 ^4d4dff蜜糖土波利^000000竊取的^4d4dff被偷走的可可豆^000000 20個。"}
+, Summary = "被偷走的可可豆 20個"}
+, 
+[3314] = {Title = "交貨與回收-普隆德拉", IconName = "ico_ev.bmp", 
+Description = {"為了能讓糖果慶典順利舉行，向普隆德拉甜點屋的<NAVI>[阿美]<INFO>prontera,113,103,0,101,0</INFO></NAVI>配送^4d4dff交貨用巧克力^000000吧!"}
+, Summary = "向阿美配送巧克力"}
+, 
+[3315] = {Title = "交貨與回收-吉芬", IconName = "ico_ev.bmp", 
+Description = {"為了能讓糖果慶典順利舉行，向吉芬甜點屋的<NAVI>[艾德]<INFO>geffen,59,165,0,101,0</INFO></NAVI>配送^4d4dff交貨用巧克力^000000吧!"}
+, Summary = "向艾德配送巧克力"}
+, 
+[3316] = {Title = "交貨與回收-斐揚", IconName = "ico_ev.bmp", 
+Description = {"為了能讓糖果慶典順利舉行，向斐揚甜點屋的<NAVI>[艾倫]<INFO>payon,160,126,0,101,0</INFO></NAVI>配送^4d4dff交貨用巧克力^000000吧!"}
+, Summary = "向艾倫配送巧克力"}
+, 
+[3317] = {Title = "交貨與回收-艾爾帕蘭", IconName = "ico_ev.bmp", 
+Description = {"為了能讓糖果慶典順利舉行，向艾爾帕蘭甜點屋的<NAVI>[漢斯]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI>配送^4d4dff交貨用巧克力^000000吧!"}
+, Summary = "向漢斯配送巧克力"}
+, 
+[3318] = {Title = "巧克力交貨完畢!", IconName = "ico_ev.bmp", 
+Description = {"交貨用巧克力已配送至各城市的甜點屋了，去向普隆德拉的 <NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報吧!"}
+, Summary = "向秀克拉回報"}
+, 
+[3319] = {Title = "分享溫馨的幸福1", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉的<NAVI>[克莉茵]<INFO>prontera,210,321,0,101,0</INFO></NAVI>最近比較孤單，為了克莉茵準備了美味可麗餅。"}
+, Summary = "送禮給克莉茵可麗餅"}
+, 
+[3320] = {Title = "分享溫馨的幸福2", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉的<NAVI>[蘿熙絲]<INFO>prontera,103,308,0,101,0</INFO></NAVI>正在思念去冒險的男友，為了蘿熙絲準備了草莓奶油杯子蛋糕。"}
+, Summary = "送禮給蘿熙絲杯子蛋糕"}
+, 
+[3321] = {Title = "分享溫馨的幸福3", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉的<NAVI>[艾徒山]<INFO>prontera,100,183,0,101,0</INFO></NAVI>正在傷心難過，為了艾徒山準備了水果芭菲。"}
+, Summary = "送禮給艾徒山芭菲"}
+, 
+[3322] = {Title = "分享溫馨的幸福4", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉的<NAVI>[安特]<INFO>prontera,271,339,0,101,0</INFO></NAVI>剛好是母親的忌日，為了安特準備了繽紛馬卡龍。"}
+, Summary = "送禮給安特馬卡龍"}
+, 
+[3323] = {Title = "分享溫馨的幸福5", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉的<NAVI>[綺綺]<INFO>prontera,269,55,0,101,0</INFO></NAVI>正在為了挑選父親的生日禮物而傷腦筋著，為了綺綺準備了栗子蒙布朗。"}
+, Summary = "送禮給綺綺蒙布朗"}
+, 
+[3324] = {Title = "分享溫馨幸福的喜悅", IconName = "ico_ev.bmp", 
+Description = {"向五位客人分送甜點完畢，去向慶典主席<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送成果吧!"}
+, Summary = "向秀克拉回報"}
+, 
+[3325] = {Title = "再度分享溫馨幸福的喜悅", IconName = "ico_ev.bmp", 
+Description = {"要向普隆德拉的客人再度分送甜點首選，\n<NAVI>[克莉茵]<INFO>prontera,210,321,0,101,0</INFO></NAVI>, <NAVI>[蘿熙絲]<INFO>prontera,103,308,0,101,0</INFO></NAVI>, <NAVI>[艾徒山]<INFO>prontera,100,183,0,101,0</INFO></NAVI>, <NAVI>[安特]<INFO>prontera,271,339,0,101,0</INFO></NAVI>, <NAVI>[綺綺]<INFO>prontera,269,55,0,101,0</INFO></NAVI>等五位。"}
+, Summary = "向五位分送甜點"}
+, 
+[3326] = {Title = "克莉茵的甜點配送完畢", IconName = "ico_ev.bmp", 
+Description = {"克莉茵的甜點首選配送完畢，當全部客人配送完成後向<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
+, Summary = "克莉茵的甜點配送完畢"}
+, 
+[3327] = {Title = "蘿熙絲的甜點配送完畢", IconName = "ico_ev.bmp", 
+Description = {"蘿熙絲的甜點首選配送完畢，當全部客人配送完成後向<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
+, Summary = "蘿熙絲的甜點配送完畢"}
+, 
+[3328] = {Title = "艾徒山的甜點配送完畢", IconName = "ico_ev.bmp", 
+Description = {"艾徒山的甜點首選配送完畢，當全部客人配送完成後向<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
+, Summary = "艾徒山的甜點配送完畢"}
+, 
+[3329] = {Title = "安特的甜點配送完畢", IconName = "ico_ev.bmp", 
+Description = {"安特的甜點首選配送完畢，當全部客人配送完成後向<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
+, Summary = "安特的甜點配送完畢"}
+, 
+[3330] = {Title = "綺綺的甜點配送完畢", IconName = "ico_ev.bmp", 
+Description = {"綺綺的甜點首選配送完畢，當全部客人配送完成後向<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>回報配送結果。"}
+, Summary = "綺綺的甜點配送完畢"}
+, 
+[3331] = {Title = "今天也分享幸福的慶典-等候", IconName = "ico_ev.bmp", 
+Description = {"該活動於冷卻時間結束後，可向普隆德拉的普隆德拉的<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>重複承接。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3332] = {Title = "交貨與回收-夢羅克", IconName = "ico_ev.bmp", 
+Description = {"為了能讓糖果慶典順利舉行，向夢羅克甜點屋的<NAVI>[小曼]<INFO>morocc,170,75,0,101,0</INFO></NAVI>配送交貨用巧克力吧!"}
+, Summary = "向小曼配送巧克力"}
+, 
+[3333] = {Title = "今天也要嚴懲蜜糖土波利!", IconName = "ico_ev.bmp", 
+Description = {"只要蜜糖土波利活在這世界一天，跟糖果慶典主席的戰鬥也不會停止。<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>要求擊殺蜜糖土波利 10隻。"}
+, Summary = "擊殺蜜糖土波利"}
+, 
+[3334] = {Title = "今天也要嚴懲蜜糖土波利-等候", IconName = "ico_ev.bmp", 
+Description = {"該活動於冷卻時間結束後，可向普隆德拉的普隆德拉的<NAVI>[秀克拉]<INFO>prontera,163,98,0,101,0</INFO></NAVI>重複承接。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3506] = {Title = "熟成可可豆", IconName = "ico_ev.bmp", 
+Description = {"擊殺^4d4dff小胖蜜糖波利^000000後，收集^4d4dff熟成可可豆^000000 1個吧!"}
+, Summary = "收集熟成可可豆"}
+, 
+[19066] = {Title = "調查官晁白溪的隱情", IconName = "ico_ev.bmp", 
+Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
+, Summary = ""}
+, 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[2月的晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的魚貝型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19069] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的魚貝型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19070] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的魚貝型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19071] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的魚貝型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19072] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的小型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19073] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的小型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19074] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的小型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19075] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的小型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19076] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的無型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19077] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的無型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19078] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的無型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19079] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的無型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19080] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的地屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19081] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的地屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19082] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的地屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19083] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的地屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19084] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的大型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19085] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的大型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19086] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的大型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19087] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的大型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19088] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的火屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19089] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的火屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19090] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的火屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19091] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的火屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19092] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的念屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19093] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的念屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19094] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的念屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19095] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的念屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19096] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的中型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19097] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的中型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19098] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的中型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19099] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的中型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19100] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的植物型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19101] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的植物型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19102] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的植物型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19103] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的植物型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19104] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的惡魔型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19105] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的惡魔型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19106] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的惡魔型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19107] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的惡魔型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19108] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19109] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19110] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19111] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19112] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的水屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19113] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的水屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19114] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的水屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19115] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的水屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
 }
 

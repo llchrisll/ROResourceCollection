@@ -3529,8 +3529,6 @@ SourceItems = {
 , 
 {"C_Bunny_Head_Dress", 1, 20031}
 , 
-{"C_Firinto_Scarf", 1, 20032}
-, 
 {"C_Buddhist_Priest_Crown", 1, 20033}
 , 
 {"C_Bride_Corolla", 1, 20056}
@@ -4505,8 +4503,6 @@ SourceItems = {
 , 
 {"C_Gift_Of_Snow", 1, 20240}
 , 
-{"C_Pope_Ribbon", 1, 20488}
-, 
 {"C_Elemental_Crown", 1, 20467}
 , 
 {"C_Ice_Wing_Ear", 1, 19826}
@@ -5209,10 +5205,6 @@ SourceItems = {
 , 
 {"C_Book_of_Soyga", 1, 31595}
 , 
-{"C_Invisible_Sunglasses", 1, 19603}
-, 
-{"C_Invisible_Mask", 1, 19604}
-, 
 {"C_RoCelebrationHat", 1, 31105}
 , 
 {"C_Gigant_Helm", 1, 19288}
@@ -5306,10 +5298,6 @@ SourceItems = {
 {"C_Backside_Ribbon_Bell", 1, 20546}
 , 
 {"C_Pretty_Bear_WH", 1, 31799}
-, 
-{"C_AngelRibbonWing_TW", 1, 20541}
-, 
-{"C_DancingButterfly_TW", 1, 31618}
 , 
 {"C_Evil_Druid_Cross", 1, 20590}
 , 
@@ -5425,6 +5413,8 @@ SourceItems = {
 , 
 {"C_Sandalphon_Wing_TW", 1, 480082}
 , 
+{"C_Pope_Ribbon", 1, 20488}
+, 
 {"C_Half_Rim_Glasses", 1, 31931}
 , 
 {"C_Ice_Wing", 1, 20593}
@@ -5469,9 +5459,9 @@ SourceItems = {
 , 
 {"C_Cat_Hat", 1, 31171}
 , 
-{"C_Fairy_Long_BD", 1, 31681}
+{"C_Fairy_Long_BDK", 1, 31681}
 , 
-{"C_Fairy_Long_SV", 1, 31680}
+{"C_Fairy_Long_SVK", 1, 31680}
 , 
 {"C_Halloween_Cat_Short", 1, 31833}
 , 
@@ -5523,8 +5513,6 @@ SourceItems = {
 , 
 {"C_Ten_G_Shield_TW", 1, 20612}
 , 
-{"C_Taiwan_Flag_Hat", 1, 31127}
-, 
 {"C_Unicorn_Ornament", 1, 31937}
 , 
 {"C_Thornbush_Hairband", 1, 20460}
@@ -5536,8 +5524,6 @@ SourceItems = {
 {"C_Shalosh_Head_Dress", 1, 31150}
 , 
 {"C_Gluttony_CAPOO_TW", 1, 420011}
-, 
-{"C_CAPOO_Bag_TW", 1, 480086}
 , 
 {"C_Sinister_Horn_Gear", 1, 31947}
 , 
@@ -5551,8 +5537,6 @@ SourceItems = {
 , 
 {"C_Blue_Arara_Hat", 1, 31307}
 , 
-{"C_Gluttony_CAPOO_TW", 1, 420011}
-, 
 {"C_CAPOO_Bag_TW", 1, 480086}
 , 
 {"C_Little_Aquarium_V", 1, 31549}
@@ -5560,8 +5544,6 @@ SourceItems = {
 {"C_Calabash", 1, 480071}
 , 
 {"C_Bride_Mask", 1, 31128}
-, 
-{"C_Invisible_Cap", 1, 19602}
 , 
 {"C_Invisible_Sunglasses", 1, 19603}
 , 
@@ -5627,8 +5609,6 @@ SourceItems = {
 , 
 {"C_Put_On_Coat", 1, 480096}
 , 
-{"C_Heart_Hair_Pin", 1, 19861}
-, 
 {"C_Chatty_Parrot", 1, 31134}
 , 
 {"C_Guardian_Processor", 1, 31571}
@@ -5643,8 +5623,6 @@ SourceItems = {
 , 
 {"C_Shaman_Hat", 1, 31526}
 , 
-{"C_Bell_Ribbon", 1, 19678}
-, 
 {"C_Sakura_Wing", 1, 20599}
 , 
 {"C_Floating_Parasol", 1, 410055}
@@ -5656,6 +5634,144 @@ SourceItems = {
 {"C_Blink_Eyes_Cocktai_BU", 1, 31847}
 , 
 {"C_Vassalage_Necklace", 1, 31954}
+, 
+{"C_Elec_Guitar_Of_Phen", 1, 480117}
+, 
+{"C_Large_Hibiscus", 1, 19812}
+, 
+{"C_Majoruros_Horn", 1, 31668}
+, 
+{"C_Exosrcist_Glass", 1, 410053}
+, 
+{"C_Smokie_Muffler", 1, 420054}
+, 
+{"C_Boitata_Hat_J", 1, 15889}
+, 
+{"C_Shadow_Devil", 1, 420053}
+, 
+{"C_G_DaeHyon_Sword_TW", 1, 480118}
+, 
+{"C_Magicstone_Of_Grace", 1, 31608}
+, 
+{"C_Rhythm_Hairband", 1, 15882}
+, 
+{"C_Darkness_Veil", 1, 31399}
+, 
+{"C_Mask_of_Hero", 1, 410047}
+, 
+{"C_Tiger", 1, 410048}
+, 
+{"C_HappySummer_SunVisor", 1, 31051}
+, 
+{"C_Shark_Hat", 1, 31696}
+, 
+{"C_Cons_Of_Poison", 1, 31957}
+, 
+{"C_Bio_Protector", 1, 15840}
+, 
+{"C_Magic_Helm", 1, 31884}
+, 
+{"C_Imperial_Glory", 1, 420029}
+, 
+{"C_Giant_White_Rabbit", 1, 480095}
+, 
+{"C_King_Of_Spirit_Circle", 1, 15875}
+, 
+{"C_School_Bag_BU", 1, 20615}
+, 
+{"C_Diadem_Of_Bruenhild", 1, 400131}
+, 
+{"C_Long_Ribbon", 1, 410054}
+, 
+{"C_Deviruchi_Apron", 1, 410061}
+, 
+{"C_Demon_Crown", 1, 400158}
+, 
+{"C_Rotating_Gears", 1, 20990}
+, 
+{"C_Nut_Donut_In_Mouth", 1, 31936}
+, 
+{"C_H_Knight_Cloak", 1, 420047}
+, 
+{"C_Bldy_Light_Dark_Crown", 1, 20408}
+, 
+{"C_Carefree_Face", 1, 410062}
+, 
+{"C_Poring_Basket", 1, 480108}
+, 
+{"C_Helmet_Of_Siegfried_J", 1, 15905}
+, 
+{"C_L_Ribbon_M_WH", 1, 420083}
+, 
+{"C_Hooked_Straw_Hat", 1, 480127}
+, 
+{"C_Royal_Mantle", 1, 420046}
+, 
+{"C_B_Shiba_Inu_TW", 1, 410108}
+, 
+{"C_Heart_Angel_TW", 1, 420088}
+, 
+{"C_Pisces_Crown", 1, 31897}
+, 
+{"C_Cherry_Ribbon", 1, 410063}
+, 
+{"C_Kings_Twin_Sword", 1, 480107}
+, 
+{"C_Skull_Cap", 1, 19904}
+, 
+{"C_Rose_Gothic_Bonnet", 1, 31848}
+, 
+{"C_Cat_Ear_Red_Hat_TW", 1, 400204}
+, 
+{"C_Wing_Of_Angel_Move_BK", 1, 480056}
+, 
+{"C_Disapear_Time_J", 1, 15842}
+, 
+{"C_Mech_Feather_Hairband", 1, 20380}
+, 
+{"C_Droop_Gunslinger", 1, 20434}
+, 
+{"C_B_Thin_Eyes_B_TW", 1, 410122}
+, 
+{"C_Feather_Stola", 1, 420071}
+, 
+{"C_Hand_Of_Devil", 1, 15888}
+, 
+{"C_Firinto_Scarf", 1, 20032}
+, 
+{"C_White_Cat_On_Shoulder", 1, 410095}
+, 
+{"C_Sprout_Hat", 1, 19569}
+, 
+{"C_Wing_Of_Spider", 1, 20613}
+, 
+{"C_Large_Sorcerer_Crown", 1, 31612}
+, 
+{"C_Hopping_Twin_Pigtail", 1, 420067}
+, 
+{"C_Santa_Beard", 1, 19981}
+, 
+{"C_Falling_Snow", 1, 410051}
+, 
+{"C_Carrot_In_Mouth_J", 1, 420081}
+, 
+{"C_Scepter", 1, 480093}
+, 
+{"C_Campfire_Hat", 1, 400175}
+, 
+{"C_Red_Tiger_Mask", 1, 400185}
+, 
+{"C_Sweet_Chef_Hat", 1, 400197}
+, 
+{"C_Cat_Footprints", 1, 420077}
+, 
+{"C_Spoon_Fork_Set", 1, 480152}
+, 
+{"C_Cor_Core_Headset", 1, 31953}
+, 
+{"C_Cap_Of_Blindness_V", 1, 420070}
+, 
+{"C_Giant_Shark", 1, 480126}
 }
 , NeedSource_String = "ªA¹¢¸Ë³Æ"}
 , 

@@ -1094,7 +1094,9 @@ signName = {subTitle = "優托海音", mainTitle = "米德加爾特聯盟營區"}
 , 
 ["mid_campin.rsw"] = {displayName = "米德加爾特聯盟營區內部"}
 , 
-["man_fild01.rsw"] = {displayName = "魔怒克原野", notifyEnter = true}
+["man_fild01.rsw"] = {displayName = "魔怒克原野", notifyEnter = true, 
+signName = {mainTitle = "魔怒克原野"}
+, backgroundBmp = "field_s2"}
 , 
 ["man_fild03.rsw"] = {displayName = "魔怒克原野", notifyEnter = true, 
 signName = {mainTitle = "魔怒克原野"}
