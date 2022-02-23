@@ -9235,4 +9235,65 @@
 	</so_full>
 </EDDGA2>
 
+<phreeoni>
+	<hungry>
+		<feeding>ふむ……やっと……	</feeding>
+		<dead>さ……ら……ば……</dead>
+		<stand>頭が痛い…</stand>
+		<levelup>更に生意気になったな……</levelup>
+		<perfor_1>オエーエッエッ！</perfor_1>
+		<perfor_1>エ！エッエッエ！</perfor_1>
+		<perfor_2>飛び出すぜ！</perfor_2>
+		<perfor_2>あの空へ！</perfor_2>
+	</hungry>
+	<bit_hungry>
+		<feeding>ふむ……サン……ク……ス</feeding>
+		<dead>	さ……ら……ば……</dead>
+		<stand>	(？パチ)？</stand>
+		<levelup>更に生意気になったな……</levelup>
+		<perfor_1>オエーエッエッ！</perfor_1>
+		<perfor_1>エ！エッエッエ！</perfor_1>
+		<perfor_2>飛び出すぜ！</perfor_2>
+		<perfor_2>あの空へ！</perfor_2>
+	</bit_hungry>
+	<noting>
+		<feeding>ふむ……サン……ク……ス</feeding>
+		<dead>さ……ら……ば……</dead>
+		<stand>(？パチ)？</stand>
+		<stand>頭が痛い……</stand>
+		<stand>？パチ、？パチ、(スーッ) きゃぁ～</stand>
+		<levelup>もっともっと生意気になれ！！</levelup>
+		<perfor_1>オエーエッエッ！</perfor_1>
+		<perfor_1>エ！エッエッエ！</perfor_1>
+		<perfor_2>飛び出すぜ！</perfor_2>
+		<perfor_2>あの空へ！</perfor_2>
+		</noting>
+	<full>
+		<feeding>きっぱりと言えば、これ以上は要らない！</feeding>
+		<dead>さ……ら……ば……</dead>
+		<stand>(？パチ)？</stand>
+		<stand>頭が痛い……</stand>
+		<stand>?？パチ、？パチ、(スーッ) きゃぁ～</stand>
+		<stand>うむ！！この味は？！</stand>
+		<levelup>もっともっと生意気になれ！！</levelup>
+		<perfor_1>オエーエッエッ！</perfor_1>
+		<perfor_1>エ！エッエッエ！</perfor_1>
+		<perfor_2>飛び出すぜ！</perfor_2>
+		<perfor_2>あの空へ！</perfor_2>
+	</full>
+	<so_full>
+		<feeding>きっぱりと言えば、これ以上は要らない！</feeding>
+		<dead>さ……ら……ば……</dead>
+		<stand>(？パチ)？</stand>
+		<stand>頭が痛い…</stand>
+		<stand>？パチ、？パチ、(スーッ) きゃぁ～</stand>
+		<stand>うむ！！この味は？！</stand>
+		<levelup>もっともっと生意気になれ！！</levelup>
+		<perfor_1>オエーエッエッ！</perfor_1>
+		<perfor_1>エ！エッエッエ！</perfor_1>
+		<perfor_2>飛び出すぜ！</perfor_2>
+		<perfor_2>あの空へ！</perfor_2>
+	</so_full>
+</phreeoni>
+
 </monster_talk_table>

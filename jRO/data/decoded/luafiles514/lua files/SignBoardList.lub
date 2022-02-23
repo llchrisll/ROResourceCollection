@@ -1202,6 +1202,8 @@ SignBoardList = {
 , 
 {"ev_season01", 19, 108, 3, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  メロリンコイン", "255,255,255"}
 , 
+{"ev_season01", 11, 125, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  記念硬貨", "255,255,255"}
+, 
 {"ba_maison", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  バルムント邸案内", "255,255,255"}
 , 
 {"mt1_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
@@ -1292,6 +1294,14 @@ SignBoardList = {
 , 
 {"pronterar4", 89, 62, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  蜃気楼の塔YEへ", "255,255,255"}
 , 
+{"pronterar", 89, 66, 6, IT_BMP, "signboard\\mirage_ye_01.bmp"}
+, 
+{"pronterar2", 89, 66, 6, IT_BMP, "signboard\\mirage_ye_01.bmp"}
+, 
+{"pronterar3", 89, 66, 6, IT_BMP, "signboard\\mirage_ye_01.bmp"}
+, 
+{"pronterar4", 89, 66, 6, IT_BMP, "signboard\\mirage_ye_01.bmp"}
+, 
 {"izlude", 136, 159, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  微力の究極精錬", "255,255,255"}
 , 
 {"izlude", 157, 145, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジメジメ少女", "255,255,255"}
@@ -1302,43 +1312,39 @@ SignBoardList = {
 , 
 {"yuno", 198, 349, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  思念体武器精錬", "255,255,255"}
 , 
-{"val_tea2", 323, 185, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
+{"val_tea1", 271, 289, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
 , 
-{"val_tea2", 323, 191, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
+{"val_tea1", 281, 295, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
 , 
-{"val_tea2", 319, 218, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  神秘の館転送", "255,255,255"}
+{"val_tea1", 262, 295, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  神秘の館転送", "255,255,255"}
 , 
-{"val_tea1", 295, 99, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  キッチンへ", "255,255,255"}
+{"val_tea1", 269, 323, 4, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
 , 
-{"val_tea2", 319, 179, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ティールームへ", "255,255,255"}
+{"val_tea1", 279, 320, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
 , 
-{"val_tea1", 294, 129, 4, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
+{"val_tea1", 260, 314, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  納品クエスト", "255,255,255"}
 , 
-{"val_tea1", 304, 120, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+{"val_tea1", 282, 310, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  配達クエスト", "255,255,255"}
 , 
-{"val_tea1", 287, 119, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  納品クエスト", "255,255,255"}
+{"val_tea1", 271, 342, 6, IT_SIGNBOARD, "signboard\\sign_val06.bmp", "  達成回数の確認", "255,255,255"}
 , 
-{"val_tea1", 304, 112, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  配達クエスト", "255,255,255"}
+{"val_tea1", 255, 352, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ショコラツアーズ", "255,255,255"}
 , 
-{"val_tea1", 298, 129, 6, IT_SIGNBOARD, "signboard\\sign_val06.bmp", "  依頼達成回数判定", "255,255,255"}
+{"val_tea1", 251, 324, 4, IT_SIGNBOARD, "signboard\\sign_apr01.bmp", "  出張カプラサービス", "255,255,255"}
 , 
-{"val_tea2", 305, 201, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ショコラツアーズ", "255,255,255"}
+{"val_tea1", 252, 337, 6, IT_SIGNBOARD, "signboard\\sign_val05.bmp", "  アイテム交換", "255,255,255"}
 , 
-{"val_tea1", 298, 124, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
+{"val_tea1", 254, 342, 6, IT_SIGNBOARD, "signboard\\sign_val04.bmp", "  ｴﾝﾁｬﾝﾄｱｲﾃﾑ交換", "255,255,255"}
 , 
-{"val_tea2", 329, 208, 6, IT_SIGNBOARD, "signboard\\sign_val05.bmp", "  イベントポイント交換", "255,255,255"}
+{"val_tea1", 288, 342, 6, IT_SIGNBOARD, "signboard\\sign_val01.bmp", "  お菓子作成", "255,255,255"}
 , 
-{"val_tea2", 327, 200, 6, IT_SIGNBOARD, "signboard\\sign_val04.bmp", "  ｴﾝﾁｬﾝﾄｱｲﾃﾑ交換", "255,255,255"}
+{"val_tea1", 292, 339, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  材料販売", "255,255,255"}
 , 
-{"val_tea2", 323, 207, 6, IT_SIGNBOARD, "signboard\\sign_val01.bmp", "  お菓子作成", "255,255,255"}
+{"val_tea1", 281, 350, 6, IT_SIGNBOARD, "signboard\\sign_val02.bmp", "  カカオ割り", "255,255,255"}
 , 
-{"val_tea2", 314, 203, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  材料販売", "255,255,255"}
+{"val_tea1", 298, 350, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お菓子に記名", "255,255,255"}
 , 
-{"val_tea2", 314, 214, 6, IT_SIGNBOARD, "signboard\\sign_val02.bmp", "  カカオ割り", "255,255,255"}
-, 
-{"val_tea2", 305, 215, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  お菓子に記名", "255,255,255"}
-, 
-{"val_tea2", 325, 216, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+{"val_tea1", 290, 352, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
 , 
 {"march_01", 130, 46, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  神秘の館転送", "255,255,255"}
 , 
@@ -1497,6 +1503,10 @@ SignBoardList = {
 {"cmd_fild07", 62, 275, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  エンチャント", "255,255,255"}
 , 
 {"cmd_fild07", 42, 268, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"izlude", 90, 106, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  究極精錬", "255,255,255"}
+, 
+{"morocc", 131, 61, 8, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  確定精錬", "255,255,255"}
 , 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
 , 

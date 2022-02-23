@@ -1277,6 +1277,306 @@ resource = {
 , 
 reward = {title = 2124}
 , score = 1}
+, 
+[500128] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加1回目」", 
+content = {summary = "アグネスのサイン会に1回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2125}
+, score = 1}
+, 
+[500129] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加2回目」", 
+content = {summary = "アグネスのサイン会に2回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2126}
+, score = 1}
+, 
+[500130] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加3回目」", 
+content = {summary = "アグネスのサイン会に3回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2127}
+, score = 1}
+, 
+[500131] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加4回目」", 
+content = {summary = "アグネスのサイン会に4回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2128}
+, score = 1}
+, 
+[500132] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加5回目」", 
+content = {summary = "アグネスのサイン会に5回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2129}
+, score = 1}
+, 
+[500133] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加6回目」", 
+content = {summary = "アグネスのサイン会に6回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2130}
+, score = 1}
+, 
+[500134] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加7回目」", 
+content = {summary = "アグネスのサイン会に7回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2131}
+, score = 1}
+, 
+[500135] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加8回目」", 
+content = {summary = "アグネスのサイン会に8回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2132}
+, score = 1}
+, 
+[500136] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加9回目」", 
+content = {summary = "アグネスのサイン会に9回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2133}
+, score = 1}
+, 
+[500137] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アグネスのサイン会参加10回目」", 
+content = {summary = "アグネスのサイン会に10回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2134}
+, score = 1}
+, 
+[500138] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加1回目」", 
+content = {summary = "ポーのサイン会に1回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2135}
+, score = 1}
+, 
+[500139] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加2回目」", 
+content = {summary = "ポーのサイン会に2回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2136}
+, score = 1}
+, 
+[500140] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加3回目」", 
+content = {summary = "ポーのサイン会に3回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2137}
+, score = 1}
+, 
+[500141] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加4回目」", 
+content = {summary = "ポーのサイン会に4回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2138}
+, score = 1}
+, 
+[500142] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加5回目」", 
+content = {summary = "ポーのサイン会に5回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2139}
+, score = 1}
+, 
+[500143] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加6回目」", 
+content = {summary = "ポーのサイン会に6回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2140}
+, score = 1}
+, 
+[500144] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加7回目」", 
+content = {summary = "ポーのサイン会に7回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2141}
+, score = 1}
+, 
+[500145] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加8回目」", 
+content = {summary = "ポーのサイン会に8回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2142}
+, score = 1}
+, 
+[500146] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加9回目」", 
+content = {summary = "ポーのサイン会に9回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2143}
+, score = 1}
+, 
+[500147] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポーのサイン会参加10回目」", 
+content = {summary = "ポーのサイン会に10回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2144}
+, score = 1}
+, 
+[500148] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加1回目」", 
+content = {summary = "アイザックのサイン会に1回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2145}
+, score = 1}
+, 
+[500149] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加2回目」", 
+content = {summary = "アイザックのサイン会に2回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2146}
+, score = 1}
+, 
+[500150] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加3回目」", 
+content = {summary = "アイザックのサイン会に3回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2147}
+, score = 1}
+, 
+[500151] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加4回目」", 
+content = {summary = "アイザックのサイン会に4回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2148}
+, score = 1}
+, 
+[500152] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加5回目」", 
+content = {summary = "アイザックのサイン会に5回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2149}
+, score = 1}
+, 
+[500153] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加6回目」", 
+content = {summary = "アイザックのサイン会に6回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2150}
+, score = 1}
+, 
+[500154] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加7回目」", 
+content = {summary = "アイザックのサイン会に7回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2151}
+, score = 1}
+, 
+[500155] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加8回目」", 
+content = {summary = "アイザックのサイン会に8回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2152}
+, score = 1}
+, 
+[500156] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加9回目」", 
+content = {summary = "アイザックのサイン会に9回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2153}
+, score = 1}
+, 
+[500157] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「アイザックのサイン会参加10回目」", 
+content = {summary = "アイザックのサイン会に10回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる　　 NPC「サイン会受付係」に話しかけて　　　　　　　　 サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2154}
+, score = 1}
 }
 main = function()
   -- function num : 0_0

@@ -7087,6 +7087,30 @@ MonsterEff = {EFFECT.EF_VENOMFOG}
 [2050] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_VENOMFOG}
 }
+, 
+[21422] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_FLOWERSMOKE}
+}
+, 
+[21423] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_FLOWERSMOKE}
+}
+, 
+[21424] = {MonsterSize = 3, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_FLOWERSMOKE}
+}
+, 
+[21425] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_FLOWERSMOKE}
+}
+, 
+[21426] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[20591] = {MonsterSize = 3.5, 
+MonsterEff = {EFFECT.EF_WATER_BELOW}
+}
 }
 main = function()
   -- function num : 0_0

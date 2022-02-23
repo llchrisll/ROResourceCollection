@@ -860,6 +860,26 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_Cons_Of_Darkness] = {Default = 480, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bear_Head] = {Default = 193, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Rabbit_Cape] = {Default = 195, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_SV] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_B_Thin_Eyes_B_TW] = {Default = 100, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin] = {Default = 150, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
