@@ -3025,7 +3025,7 @@ Você está acima do limite de peso ou você não tem mais de 10 espaços livres no i
 #
 #
 #
-#
+Atenção : Novos convites não podem ser feitos após entrar na instância.#
 Palavrões não são permitidos.\nTente novamente.#
 #
 #

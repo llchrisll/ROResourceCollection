@@ -1,0 +1,290 @@
+^008040Chapéu do Mago Implacável [1]^000000
+Um chapéu comum que pertenceu a um poderoso mago. Com o poder de seu antigo usuário imbuído neste item, você sente que se torna implacável ao usá-lo.
+INT + 2 , SP Máximo + 150.
+ATQM +1 a cada nível de refinamento.
+INT +1 para cada nível de refinamento a partir do +7.
+Tipo : ^777777Equipamento para a Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777730^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Magos e evoluções/Espiritualistas^000000
+^FF0000Custo : 100 Cristal Bruto de Energia^000000
+
+^008040Cartola Magnificente [1]^000000
+Um chapéu de nobreza distinta. Só de usá-lo, você passa a esbanjar um ar de grandiosidade e generosidade. Sem falar que você fica com a "cara da riqueza", mas apenas visualmente. Se for o seu caso, fique tranquilo...pois amanhã é um novo dia!
+DES + 1, AGI + 1, SP + 50.
+SP +5 a cada nível de refinamento.
+DES +1 para cada nível de refinamento a partir do +7.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777776^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777750^000000
+Nível Necessário : ^77777750^000000
+Classe : ^777777Magos, Noviços e evoluções/Espiritualistas^000000
+^FF0000Custo : 100 Cristal Bruto de Energia^000000
+
+^008040Máscara Kyuubi^000000
+Uma réplica da máscara utilizada pela Elite Ninja. Formato compacto. Remodelado para proporcionar efeitos extras.
+AGI + 2, SOR + 2
++4 de Esquiva quando o nível de refinamento for +7.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777730^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Todas exceto Aprendiz^000000
+^FF0000Custo : 100 Cristal Bruto de Energia^000000
+
+^008040Espírito do Humor [1]^000000
+Chapéu criado especialmente para aqueles que possuem o dom da comédia em seu interior. Ao ser usado por pessoas inexperientes, efeitos colaterais como contar piadas infames descontroladamente durante o almoço de família aos domingos poderão surgir.
+SOR + 2, DEFM + 5.
++5% de Dano Crítico quando o nível de refinamento for +7.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777773^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777710^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Todas exceto Aprendiz^000000
+^FF0000Custo : 100 Cristal Bruto de Energia^000000
+
+^008040Orelha do Dono da Lua [1]^000000
+Sempre que você passava por Payon, sempre via duas crianças brigando, uma menina batendo um Lunático de pelúcia em um menino quase careca. Um dia ele cortou as orelhas do boneco fora e as botou na cabeça dizendo ser o "Dono da Lua". Isso acabou virando moda e todos quiseram ser Donos da Lua também.
+SOR + 2
+CRIT + 5 quando o nível de refinamento é +7.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777773^000000
+Equipa em : ^777777Topo ^000000 
+Peso : ^77777710^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Todas^000000
+^FF0000Custo : 100 Cristal Bruto de Energia^000000
+
+^008040Chapéu Mandarin Vermelho [1]^000000
+Chapéu utilizado pelo monstro Munak. Remodelado para proporcionar efeitos extras.
+Reduz 10% do dano de monstros da raça Morto-Vivo.
+Aumenta 10% do dano causado em monstros da raça Morto-Vivo quando o nível de refinamento for +7.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777775^000000
+Equipa em : ^777777Topo Meio Baixo ^000000
+Peso : ^77777730^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Todas^000000
+^FF0000Custo : 100 Cristal Bruto de Energia^000000
+
+^008040Chapéu Mandarin Azul [1]^000000
+Chapéu utilizado pelo monstro Bongun. Remodelado para proporcionar efeitos extras.
+Reduz em 10% o dano de monstros da raça Demônio.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777775^000000
+Equipa em : ^777777Topo Meio Baixo ^000000
+Peso : ^77777730^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Todas^000000
+^FF0000Custo : 100 Cristal Bruto de Energia^000000
+
+^008040Disfarce do Fantasma^000000
+Uma máscara utilizada pelo protagonista de uma história de amor muito triste. Se você olhar atentamente através dos olhos da mascara, poderá ver sua tristesa.
+ATQ +5, ATQM +5
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777772^000000
+Equipa em : ^777777Meio ^000000
+Peso : ^77777720^000000
+Nível Necessário : ^77777720^000000
+Classe : ^777777Todas^000000
+^FF0000Custo : 100 Cristal Bruto de Energia^000000
+
+^008040Visor Além do Alcance^000000
+Óculos especiais que ajudam a enchergar mais longe e com maior precisão.
+DES + 1,  +1% de dano para ataques a distância.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777772^000000
+Equipa em : ^777777Meio ^000000
+Peso : ^77777710^000000
+Nível Necessário : ^77777750^000000
+Classe : ^777777Arqueiro e Evoluções^000000
+^FF0000Custo : 200 Cristal Refinado de Energia^000000
+
+^008040Nadadeiras Verdes^000000
+Uma barbatana de peixe feita especialmente para ser usada na cabeça. Muito resistente.
+HP Máximo +300, HP Máximo adicional baseado no nível de base do usuário.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777775^000000
+Equipa em : ^777777Meio ^000000
+Peso : ^77777730^000000
+Nível Necessário : ^77777765^000000
+Classe : ^777777Espadachim e Evoluções^000000
+^FF0000Custo : 200 Cristal Refinado de Energia^000000
+
+^008040Máscara do Executor^000000
+Uma máscara obscura utilizada por um famoso mercenário. Torna o usuário frio e calculista.
+CRIT +1, Dano crítico +1%
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777771^000000
+Equipa em : ^777777Baixo ^000000
+Peso : ^77777710^000000
+Nível Necessário : ^77777770^000000
+Classe : ^777777Mercenário / Sacerdote^000000
+^FF0000Custo : 200 Cristal Refinado de Energia^000000
+
+^008040Máscara do Ferreiro^000000
+Máscara de aço, feita para soldagem e trabalho com metal quente. É capaz de proteger seu rosto contra estilhaços e calor intenso.
+Aumente em 10% a resistência contra ataques do elemento Fogo.
+DES + 5, SOR + 5.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777772^000000
+Equipa em : ^777777Meio Baixo ^000000
+Peso : ^77777730^000000
+Nível Necessário : ^77777750^000000
+Classe : ^777777Mercador e Evoluções^000000
+^FF0000Custo : 200 Cristal Refinado de Energia^000000
+
+^008040Proteção dos Nibelungos [1]^000000
+Anel encontrado por um jovem aventureiro que passeava por Niflheim que, ao coloca-lo, sentiu uma incrível proteção. Dizem que nem mesmo o Senhor dos Mortos pode feri-lo naquele dia. Cuidado, podem estar a procura disso.
+DEF + 10 , DEFM + 5, Todos os atributos + 1.
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777770^000000
+Peso : ^77777710^000000
+Nível Necessário : ^77777750^000000
+Classe : ^777777Todas exceto Aprendiz.^000000
+^FF0000Custo : 200 Cristal Refinado de Energia^000000
+
+^008040Cardigã Arcangelical [1]^000000
+Um cardigã para Super Aprendizes abençoado pelo Arcanjo Guardião. Consegue mentê-lo quentinho em qualquer ambiente.
+Aumenta em 50% a regeneração natural de HP.
+AGI +5, Esquiva +10 adicionais quando equipado em conjunto com o item Proteção Arcangelical.
+Tipo : ^777777Armadura^000000
+Defesa : ^7777776^000000
+Peso : ^77777740^000000
+Nível Necessário : ^77777799^000000
+Classe : ^777777Aprendiz/Super Aprendiz/Super Aprendiz EX^000000
+^FF0000Custo : 100 Cristal Puro de Energia^000000
+
+^008040Guardião Arcangelical [1]^000000
+Escudo Angelical para Super Aprendizes. Abençoado para possuir resistência contra Demônios.
+Reduz em 5% o dano de monstros da raça Demônio.
+Reduz em 5% o dano de todos os elementos exceto Neutro.
+Todos os atributos +2 quando equipado em conjunto com ^777777Reencarnação do Anjo Aprimorado [22015]^000000 item.
+Tipo : ^777777Escudo^000000 
+Defesa : ^77777730^000000
+Peso : ^77777740^000000
+Nível Necessário : ^77777799^000000
+Classe : ^777777Aprendiz^000000
+^FF0000Custo : 100 Cristal Puro de Energia^000000
+
+^008040Reencarnação do Arcanjo [1]^000000
+Sandálias divinas usadas pelo Arcanjo Guardião dos Super Aprendizes mais poderosos.
+HP Máximo + 500, SP Máximo + 100.
+ATQM+ 20 quando equipado em conjunto com o item Beijo do Arcanjo.
+Tipo : ^777777Sapatos^000000
+Defesa : ^7777778^000000
+Peso : ^77777730^000000
+Nível Necessário : ^77777799^000000
+Classe : ^777777Aprendiz/Super Aprendiz/Super Aprendiz EX^000000
+^FF0000Custo : 100 Cristal Puro de Energia^000000
+
+^008040Beijo do Arcanjo [1]^000000
+Um item abençoado pelo Arcanjo Guardião com um beijo.
+Aumenta em 30% a regeneração natural de SP.
+ATQ + 10 quando equipado em conjunto com o item Reencarnação do Arcanjo.
+Tipo : ^777777Equipamento para Cabeça^000000
+Defesa : ^7777776^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777730^000000
+Nível Necessário : ^77777799^000000
+Classe : ^777777Aprendiz/Super Aprendiz/Super Aprendiz EX^000000
+^FF0000Custo : 100 Cristal Puro de Energia^000000
+
+^008040Corsário Prerigoso [1]^000000
+Um robusto chapéu de pirata usado pelo lendário Tripo Secus, que adorava gritar na proa de seu navio para os inimigos: “Essa caveira significa PRERIGO!” Ninguém pode dizer que ele não tinha estilo.
+VIT + 1 HP Máximo + 5%
++1% de resistência contra propriedade Neutra se o refinamento for +7.
+HP Máximo + 3% quando o refinamento for +9.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^77777710^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777750^000000
+Nível Necessário : ^77777799^000000
+Classe : ^777777Todas exceto Aprendiz^000000
+^FF0000Custo : 300 Cristal Puro de Energia^000000
+
+^008040Elmo de Marfim [1]^000000
+Capacete feito de marfim, muito pesado mas bem resistente.
+Aumenta em 15% o dano de ataques do elemento Sombrio.
+Aumenta em 2% a resistência de ataques da propriedade Neutra.
+Caso o refinamento seja +7, aumenta em mais 2% a resistência de ataques da propriedade Neutra.
+Caso o refinamento seja +9, aumenta em mais 2% a resistência de ataques da propriedade Neutra.
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^77777715^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^77777780^000000
+Nível Necessário : ^77777770^000000
+Classe : ^777777Evoluções de Espadachim e Mercador^000000
+^FF0000Custo : 300 Cristal Puro de Energia^000000
+
+^008040Elmo de Angelus [1]^000000
+Um capacete com boa defesa decorado com penas de anjo. Seu criador é desconhecido.
+AGI +1, SOR +1, DEFM +3
+AGI +2, SOR +2 adicionais quando o nível de refinamento for +7
+VelAtq +1 adicional quando o nível de refinamento for +9
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^77777710^000000
+Equipa em : ^777777Topo ^000000
+Peso : ^777777160^000000
+Nível Necessário : ^77777799^000000
+Classe : ^777777Segundas classes e evoluções/Mestre Taekwon/Espiritualista/Kagerou/Oboro^000000
+^FF0000Custo : 300 Cristal Puro de Energia^000000
+
+^008040Elmo de Helios [1]^000000
+O elmo de ouro que representa o Deus Sol de uma cultura dos confins de Rune Midgard.
+FOR +3, INT +2, ATQ +10, ATQM +10.
+ATQ +15, ATQM +15 adicionais quando o nível de refinamento for +7
+ATQ +15, ATQM +15 adicionais quando o nível de refinamento for +9
+Tipo : ^777777Equipamento para Cabeça^000000 
+Defesa : ^7777774^000000
+Equipa em : ^777777Topo Meio ^000000
+Peso : ^777777240^000000
+Nível Necessário : ^77777799^000000
+Classe : ^777777Segundas classes e evoluções/Mestre Taekwon/Espiritualista/Kagerou/Oboro^000000
+^FF0000Custo : 300 Cristal Puro de Energia^000000
+
+^008040Sapatos Convergentes [1]^000000
+Sapatos que parecem ter algo errado. O fabricante tinha a intenção de corrigir os sapatos, mas não conseguiu.
+Aumenta em 12% o HP Máximo/SP Máximo
+DEF/DEFM adicionais baseado no nível de refinamento.
+Tipo : ^777777Sapatos^000000
+Defesa : ^77777713^000000
+Peso : ^77777750^000000
+Nível Necessário : ^77777785^000000
+Classe : ^777777Segundas classes e evoluções/Mestre Taekwon/Espiritualista/Kagerou/Oboro^000000
+^FF0000Custo : 300 Cristal Puro de Energia^000000
+
+^008040Anel do Vulcão^000000
+O poderoso anel do Rei Espirito do Fogo. Quando equipado sua arma será dominada pelo fervor do espirito.
+Um bom par para o ^777777Anel da Ressonância Superior [2958]^000000 Item.
+FOR + 3
+VIT + 2
+ATQ + 20
+Aumenta em 10% a resistência contra o elemento Fogo.
+Chance de conjurar algumas habilidades automaticamente quando o usuário estiver atacando fisicamente.
+Adiciona novas habilidades a serem auto-conjuradas quando equipado com o Anel da Ressonância Superior. [2958]
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777770^000000
+Peso : ^77777710^000000
+Nível Necessário : ^77777785^000000
+Classe : ^777777Segundas classe/Mestre Taekwon/Espiritualista/Kagerou/Oboro^000000
+^FF0000Custo : 300 Cristal Puro de Energia^000000
+
+^008040Anel da Vibração^000000
+O par perdido do ^777777Anel do Senhor das Chamas Superior [2957]^000000. Equipa-los juntos trará novos efeitos para ambos.
+AGI + 3
+VIT + 1
+DEFM + 2
+ATQM + 10
+Chance de auto-conjurar algumas habilidades quando o usuário receber ataques físicos.
+Tipo : ^777777Acessório^000000 
+Defesa : ^7777772^000000
+Peso : ^77777710^000000
+Nível Necessário : ^77777785^000000
+Classe : ^777777Segundas classe/Mestre Taekwon/Espiritualista/Kagerou/Oboro^000000
+^FF0000Custo : 300 Cristal Puro de Energia^000000

@@ -1,0 +1,45 @@
+%faf0e6
+^000088Alquimia intermediária: Poções Compactas^000000
+
+----------------Prefácio--------------------
+
+Se você já domina os princípios básicos da produção de poções já são,
+deve então estar preparado para aprender os procedimentos mais avançados
+de produzir poções compactas. Compactando as poções, o peso delas é
+reduzido, enquanto a efetividade se mantém.
+
+------------------------------------------
+
+O que é uma ^ff0000Poção Compacta^000000?
+
+A Poção Compacta é uma poção incrivelmente densa que possui a mesma
+efetividade das poções normais, sendo muito mais leve. Compactar as
+poções é muito conveniente, pois permite que o alquimista e outros
+aventureiros possam carregar muito mais poções.
+
+^0000ffPoção Vermelha Compacta^000000: Restaura 45 de HP.
+Materiais necessários: ^4b00821 Poção Vermelha, 1 Espinho de Cacto,
+1 Tubo de Ensaio Vazio^000000
+
+Procedimento: Despeje a Poção Vermelha aos poucos em uma Vasilha de Mistura,
+enquanto adiciona o Espinho de Cacto. Você precisa manter este livro com
+você como referência enquanto usar a habilidade Preparar Poção. Depois,
+despeje a solução resultante em um Tubo de Ensaio Vazio.
+
+^800000Poção Amarela Compacta^000000 : Restaura 175 de HP.
+Materiais necessários: ^4b00821 Poção Amarela, 1 Bigode de Toupeira,
+1 Tubo de Ensaio Vazio^000000
+
+Procedimento: Despeje a Poção Amarela aos poucos em uma Vasilha de Mistura,
+enquanto adiciona o Bigode de Toupeira. Você precisa manter este livro com
+você como referência enquanto usar a habilidade Preparar Poção. Depois,
+despeje a solução resultante em um Tubo de Ensaio Vazio.
+
+^008040Poção Branca Compacta^000000: Restaura 325 de HP.
+Materiais necessários: ^4b00821 Poção Branca, 1 Areia Estelar de Bruxa,
+1 Tubo de Ensaio Vazio^000000
+
+Procedimento: Despeje a Poção Branca aos poucos em uma Vasilha de Mistura,
+enquanto adiciona a Areia Estelar de Bruxa. Você precisa manter este livro
+com você como referência enquanto usar a habilidade Preparar Poção. Depois,
+despeje a solução resultante em um Tubo de Ensaio Vazio.

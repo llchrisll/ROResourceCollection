@@ -1,0 +1,91 @@
+%faf0e6
+^000088- Histórias de Culinária que Encantam os Corações -^000000
+
+Já está nas lojas o livro de receitas de nível 4: "Nem Espere para Comer!"
+
+^ff0000Bife Marinado com Ervas:^000000 carne de qualidade e marinada em molho de ervas!
+Ingredientes: ^4b00825 Carnes, 3 Ervas Vermelhas, 2 Ervas Amarelas, 3 Ervas Verdes, 1 Molho Doce, 1 Limão^000000
+Instruções:
+	1. Tire a gordura da Carne, faça sulcos nela, e tire o excesso de sangue 
+                    deixando de molho em água fria por uma hora.
+	2. Pique as ervas e misture com Molho Doce e Água. Ferva a mistura por 
+                    uma hora.
+	3. Quando terminar de ferver, adicione o suco do limão, misture bem e deixe esfriar.
+	4. Prepare uma tigela grande e um pote de plástico grande. Passe o molho para marinar 
+                    para a tigela, mergulhe os pedaços de carne no molho, um a um, 
+                    e coloque-os no pote de plástico.
+	5. Passe o molho de marinado que sobrar para o pote de plástico, e refrigere 
+                    a carne marinada por 12-24 horas.
+	6. Cozinhe a carne marinada, e sirva com acompanhamentos.
+
+^0000ffVinho de Frutas de Morroc:^000000um vinho doce e ácido com um sabor perfeito, 
+                                         até mesmo para quem não costuma beber!
+Ingredientes: ^4b008210 Morangos, 4 Limões, 10 Laranjas, 2 unidades de Álcool e 5 Uvas^000000
+Instruções:
+	1. Esprema os Limões e Laranjas, e recolha o suco em um copo.
+	2. Lave os Morangos com água fria e remova os talos.
+	3. Descasque as Uvas e tire as sementes.
+	4. Coloque os Morangos e Uvas em um liquidificador, e bata por 30 segundos.
+	5. Coloque 1 Álcool e um pouco do suco de limão e laranja no liquidificador, e bata por mais 5 segundos.
+	6. Coloque 1 Álcool e o resto do suco no liquidificador, e bata por mais 15 segundos.
+  
+^800000Sanduíche Cremoso:^000000 saboroso e nutritivo.
+Ingredientes: ^4b00825 Pães, 15 unidades de Leite, 10 Queijos, 10 Ervas Amarelas, 1 Carne, 1 Molho Doce^000000
+Instruções: 
+	1. Espalhe manteiga nos Pães, e bata o Leite para fazer creme.
+	2. Corte a Carne em fatias grossas e cozinhe.
+	3. Corte os Pães em duas fatias, e espalhe o Molho Doce sobre cada uma delas. 
+                    Acrescente metade das ervas e a Carne em uma das fatias com Molho Doce.
+	4. Coloque Queijo em cima, e acrescente o resto das ervas. 
+	5. Espalhe o creme na outra fatia, e coloque-a sobre a 
+                    primeira metade do sanduíche.
+
+^008040Macarrão Frio de Lutie:^000000experimentem o sabor apimentado do macarrão frio 
+                                           sem gastar demais!
+Ingredientes: ^4b00823 Sacolas de Grãos, 1 Molho Picante, 10 Cubos de Gelo, 10 Cenouras, 10 Zés-Lanterna^000000
+Instruções:
+	1. Separe os grãos e lave-os.
+	2. Triture os grãos para criar uma farinha.
+	3. Adicione água quente à farinha e amasse até ela ficar grudenta e brilhante.
+	4. Prepare uma moldura quadriculada com um suporte de aço inox.
+	5. Coloque a massa dentro do suporte, e aperte para formar os fios de macarrão
+                    com a massa tirada da moldura.
+	6. Ferva o macarrão.
+	7. Enxágüe o macarrão fervido com água fria, e escorra a água. 
+	8. Cozinhe os Zés-Lanterna no vapor. Toque de leve e aperte as abóboras até 
+                    que as fibras da polpa fiquem como fios.
+	9. Fatie as Cenouras. 
+	10. Coloque o macarrão e as fibras de abóbora em uma tigela.
+	11. Acrescente os Cubos de Gelo e espalhe Molho Picante em cima.
+	12. Sirva o macarrão com as fatias de Cenoura como guarnição.
+
+^ff8040Água-Viva Temperada:^000000 Uma tigela de água-viva bem cozida, com molho de Tinta de Lula.
+Ingredientes: ^4b008230 Tentáculos, 10 Ervas Brancas, 10 unidades de Grama, 1 Frigideira Velha, 
+                   20 Tintas de Lula^000000
+Instruções:
+	1. Lave a Grama com água fria, e esprema para remover sua água e 
+                    seu suco.
+	2. Misture a Grama com a Tinta de Lula.
+	3. Fatie os Tentáculos. Ferva água na Frigideira Velha, afervente as fatias de Tentáculos e 
+                    lave-as com água fria. Aperte-as para tirar a água. 
+                    Lembre-se que os Tentáculos ficam duros e encolhidos se você os ferver por tempo demais, 
+                    então trate de deixá-los na água fervente apenas por alguns segundos.
+	4. Pique as Ervas Brancas e misture-as com os Tentáculos e a Grama.
+	5. Salpique a Tinta de Lula. 
+	6. Refrigere por algum tempo, e sirva em um prato.
+
+^400080Lábios Fossilizados no Vapor:^000000 não se preocupe! Comer este prato delicioso não é o mesmo que beijar 
+                                                  um fóssil de peixe!
+Ingredientes: ^4b008210 Lábios Fossilizados, 10 Folhas de Fumacento, 10 Ervas Brancas, 5 Peixes Frescos, 
+                   2 Molhos Doces^000000
+Instruções:
+	1. Lave os Lábios Fossilizados com água salgada. 
+	2. Prepare os Peixes Frescos removendo as cabeças e entranhas, e fatiando a carne de 
+                    cada peixe em 3 pedaços. Remova as espinhas da carne fatiada 
+                    usando pinças, e marine em um Molho Doce. 
+                    Refrigere a carne marinada por pelo menos meio dia.
+	3. Forre o fundo de uma panela de pressão com Folhas de Fumacento. Certifique-se de colocar a carne fatiada com 
+                    a pele para baixo, para não deixar a carne dura e murcha.
+	4. Espalhe 1 Molho Doce e salpique Ervas Brancas picadas sobre a carne 
+                    antes da panela pegar pressão.
+

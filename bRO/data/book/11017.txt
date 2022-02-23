@@ -1,0 +1,563 @@
+%f5f5dc
+^000088Recompensas da Kreiger Von Midgard!!^000000
+
+As armas da Kreiger Von Midgard possuem
+um efeito chamado ^FF0000[Carniceiro]^000000
+que varia de acordo com o refino da arma.
+
+^FF0000Carniceiro:^000000
+Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+
+Nível 1:
+^0000ffRefino +6: 4%.^000000
+^0000ffRefino +7: 9%.^000000
+^0000ffRefino +8: 16%.^000000
+^0000ffRefino +9: 25%.^000000
+^0000ffRefino +10: 36%.^000000
+^0000ffRefino +11: 49%.^000000
+^0000ffRefino +12: 64%.^000000
+^0000ffRefino +13: 81%.^000000
+^0000ffRefino +14: 100%.^000000
+
+Nível 2:
+^0000ffRefino +6: 9%.^000000
+^0000ffRefino +7: 16%.^000000
+^0000ffRefino +8: 25%.^000000
+^0000ffRefino +9: 36%.^000000
+^0000ffRefino +10: 49%.^000000
+^0000ffRefino +11: 64%.^000000
+^0000ffRefino +12: 81%.^000000
+^0000ffRefino +13: 100%.^000000
+^0000ffRefino +14: 121%.^000000
+
+As armas Kreiger Von Midgard estão
+listadas a seguir:
+
+^ff0000[Adagas]^000000
+^008040Gladius Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +75%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+^0000ffChance de autoconjurar [Lex Divina] nv. 1 ao realizar ataques físicos.^000000
+Refino +6 ou mais:
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+Refino +9 ou mais:
+^0000ffChance de infligir sangramento numa área de 5x5 células ao usar [Ataque Surpresa].^000000
+Tipo: ^777777Adaga^000000   Ataque: ^777777120^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Aprendizes, Superaprendizes, Espadachins, Arqueiros, Mercadores, Ninjas, Gatunos, Bruxos e evoluções^000000
+
+
+^ff0000[Espadas de Uma Mão]^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +75%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +7 ou mais:
+^0000ffVelocidade de ataque +10%.^000000
+Refino +9 ou mais:
+^0000ffChance de autoconjurar [Ferimento Mortal] nv. 2 ao usar [Golpe Fulminante].^000000
+Tipo: ^777777Espada^000000   Ataque: ^777777130^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Aprendizes, Superaprendizes, Espadachins, Gatunos e evoluções^000000
+
+^008040Florete Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffATQM +80.^000000
+^0000ffINT +1.^000000
+Refino +6 ou mais:
+^0000ffCusto de SP das habilidades -10%.^000000
+A partir do refino +6:
+^0000ffINT +1 por refino.^000000
+Refino +9 ou mais:
+^0000ffINT +5.^000000
+Tipo: ^777777Espada^000000   Ataque: ^777777130^000000    Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Aprendizes, Superaprendizes, Espadachins, Mercadores, Gatunos e evoluções^000000
+
+^008040Vingadora Sagrada Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffATQM +80. INT +6.^000000
+^0000ffINT +1 por refino acima do +6.^000000
+Refino +6 ou mais:
+^0000ffCusto de SP das habilidades -10%.^000000
+Refino +9 ou mais:
+^0000ffChance de autoconjurar [Lex Aeterna] nv. 1 ao usar [Gloria Domini].^000000
+Refino +10 ou mais:
+^0000ffINT +5.^000000
+Tipo: ^777777Espada^000000   Ataque: ^777777130^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espadachins, Mercadores e evoluções^000000
+
+
+^ff0000[Espadas de Duas Mãos]^000000
+^008040Claymore Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +70%.^000000
+^0000ffIgnora 25% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 2.^000000
+Refino +9 ou mais:
+^0000ffChance autoconjurar [Dedicação] e [Lâmina de Aura] nv. 1 ou no nível aprendido ao realizar ataques físicos.^000000
+Tipo: ^777777Espada de Duas Mãos^000000   Ataque: ^777777220^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espadachins e evoluções^000000
+
+
+^ff0000[Lanças de Uma Mão]^000000
+^008040Lança Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +95%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffVelocidade de ataque +5%.^000000
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffVelocidade de ataque +5% adicional.^000000
+^0000ffSe equipada por Cavaleiros: chance de autoconjurar [Ferimento Mortal] nv. 2 ao usar [Perfurar].^000000
+^0000ffSe equipada por Templários: chance de autoconjurar [Gloria Domini] nv. 5 ao realizar ataques físicos.^000000
+Tipo: ^777777Lança^000000   Ataque: ^777777130^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espadachins e evoluções^000000
+
+
+^ff0000[Lanças de Duas Mãos]^000000
+^008040Lança de Duas Mãos Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +70%.^000000
+^0000ffIgnora 25% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffSe equipada por Cavaleiros: chance de autoconjurar [Ferimento Mortal] nv. 2 ao usar [Perfurar].^000000
+^0000ffSe equipada por Templários: chance de autoconjurar [Gloria Domini] nv. 5 ao realizar ataques físicos.^000000
+Tipo: ^777777Lança de Duas Mãos^000000   Ataque: ^777777220^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espadachins e evoluções^000000
+
+
+^ff0000[Cajados de Uma Mão]^000000
+^008040Cetro Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffATQM +135.^000000
+^0000ffDano mágico contra monstros humanoides +15%.^000000
+^0000ffIgnora 25% da DEFM de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEFM de monstros humanoides.^000000
+Refino +9 ou mais:
+^0000ffATQM +5%.^000000
+^0000ffTempo de conjuração variável -5%.^000000
+^0000ffPós-conjuração -5%.^000000
+Tipo: ^777777Cajado^000000   Ataque: ^77777770^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espiritualistas, Magos, Noviços e evoluções^000000
+
+^008040Varinha de Cura Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffATQM +135.^000000
+^0000ffEfetividade de cura +14%.^000000
+^0000ffPós-conjuração -10%.^000000
+Refino +6 ou mais:
+^0000ffEfetividade de cura +5% adicional.^000000
+^0000ffEfetividade de cura +2% por refino, do +6 até o +14.^000000
+Refino +9 ou mais:
+^0000ffAo usar [Curar], chance de autoconjurar [Curar] nv. 10 no alvo.^000000
+Refino +10 ou mais:
+^0000ffEfetividade de cura +10% adicional.^000000
+Tipo: ^777777Cajado^000000   Ataque: ^77777770^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espiritualistas, Magos, Noviços e evoluções^000000
+
+
+^ff0000[Cajados de Duas Mãos]^000000
+^008040Cajado da Destruição Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffATQM +210.^000000
+^0000ffIgnora 25% da DEFM de monstros da raça Humanoide.^000000
+^0000ffDano mágico contra monstros da raça Humanoide +15%.^000000
+A cada refino:
+^0000ffDano mágico +1%.^000000
+Refino +6 ou mais:
+^0000ffDano mágico +5% adicional.^000000
+^0000ffDano mágico contra monstros da raça Humanoide +2% adicional do refino +6 ao +14.^000000
+^0000ffIgnora +2% da DEFM de monstros da raça Humanoide, do refino +6 ao +14.^000000
+Refino +9 ou mais:
+^0000ffAo usar [Ira de Thor] [Nevasca] ou [Chuva de Meteoros], chance de autoconjurar [Escudo Mágico] nv. 10.^000000
+Tipo: ^777777Cajado de Duas Mãos^000000   Ataque: ^77777770^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espiritualistas, Magos, Noviços e evoluções^000000
+
+
+^ff0000[Maças]^000000
+^008040Maça de Guerra Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +75%.^000000
+^0000ffIgnora 25% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffVelocidade de ataque +5%.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffVelocidade de ataque +5% adicional.^000000
+^0000ffAo realizar ataques físicos,  chance de infligir [Atordoamento] no oponente.^000000
+Tipo: ^777777Maça^000000   Ataque: ^777777130^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000  Nível necessário: ^77777780^000000
+Classes: ^777777Aprendizes, Superaprendizes, Espadachins, Noviços, Mercadores e evoluções^000000
+
+
+^ff0000[Machados de Uma Mão]^000000
+^008040Talhador Glorioso^000000
+^FF6347Indestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +75%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffVelocidade de ataque +5%.^000000
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffVelocidade de ataque +5% adicional.^000000
+^0000ff5% de chance de autoconjurar [Ferimento Mortal] nv. 1 ao realizar ataques físicos.^000000
+^0000ff20% de chance de autoconjurar [Ferimento Mortal] nv. 2 ao usar [Mammonita].^000000
+Tipo: ^777777Machado^000000   Ataque: ^777777130^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espadachins, Mercadores e evoluções^000000
+
+
+^ff0000[Machados de Duas Mãos]^000000
+^008040Machado de Duas Mãos Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +70%.^000000
+^0000ffIgnora 25% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 2.^000000
+Refino +9 ou mais:
+^0000ffAo realizar ataques físicos, 5% de chance de autoconjurar [Ferimento Mortal] nv. 1.^000000
+^0000ffAo usar [Mamonita] ou [Choque do Carrinho], 20% de chance de autoconjurar [Ferimento Mortal] nv. 2.^000000
+Tipo: ^777777Machado de Duas Mãos^000000   Ataque: ^777777220^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Espadachins, Mercadores e evoluções^000000
+
+
+^ff0000[Instrumentos Musicais]^000000
+^008040Guitarra Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +95%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffChance de autoconjurar [Destino nas Cartas] nv. 5 ao usar [Vulcão de Flechas].^000000
+Tipo: ^777777Instrumento Musical^000000   Ataque: ^77777750^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Bardos e evoluções^000000
+
+
+^ff0000[Chicotes]^000000
+^008040Serpente Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +95%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffChance de autoconjurar [Destino nas Cartas] nv. 5 ao usar [Vulcão de Flechas].^000000
+Tipo: ^777777Chicote^000000   Ataque: ^77777750^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Odaliscas e evoluções^000000
+
+
+^ff0000[Livros]^000000
+^008040Tábula Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffATQM +155.^000000
+^0000ffIgnora 25% da DEF da raça Humanoide.^000000
+^0000ffDano físico contra a raça Humanoide +80%.^000000
+Refino +6 ou mais:
+^0000ffIgnora +5% da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffAo realizar ataques físicos, chance de ativar [ATQ +200] por 3 segundos.^000000
+Tipo: ^777777Livro^000000    Ataque: ^77777790^000000    Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Sacerdotes, Mestres Taekwons, Sábios e evoluções^000000
+
+^008040Apocalipse Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffATQM +115.^000000
+^0000ffIgnora 25% da DEFM da raça Humanoide.^000000
+^0000ffDano físico contra a raça Humanoide +80%.^000000
+Refino +6 ou mais:
+^0000ffIgnora +5% da DEFM de monstros Humanoides.^000000
+Refino +9 ou mais:
+^0000ffDano mágico +5%.^000000
+^0000ffPós-conjuração -5%.^000000
+^0000ffTempo de conjuração variável -5%.^000000
+Tipo: ^777777Livro^000000    Ataque: ^77777790^000000    Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Sacerdotes, Mestres Taekwons, Sábios e evoluções^000000
+
+
+^ff0000[Soqueiras]^000000
+^008040Garra Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +95%.^000000
+^0000ffIgnora 25% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffChance de ativar [Impacto Psíquico] nv. 5 e [Diminuir Agilidade] nv. 1 ao realizar ataques físicos.^000000
+Tipo: ^777777Soqueira^000000   Ataque: ^77777730^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Sacerdotes, Monges e evoluções^000000
+
+^008040Punho Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +95%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffAutoconjura [Zen] ao usar [Fúria Interior].^000000
+^0000ffTempo de conjuração de [Punho Supremo de Asura] -100%.^000000
+Tipo: ^777777Soqueira^000000   Ataque: ^77777730^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Sacerdotes, Monges e evoluções^000000
+
+
+^ff0000[Katares]^000000
+^008040Rugido Sangrento Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +70%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffChance de ativar [velocidade de ataque +100%] por 3 segundos ao realizar ataques físicos.^000000
+Tipo: ^777777Katar^000000   Ataque: ^777777140^000000   Peso: ^7777770^000000
+Nível da Aarma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Mercenários e evoluções^000000
+
+^008040Jamadar Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +70%.^000000
+^0000ffDano crítico contra monstros humanoides +20%..^000000
+Refino +6 ou mais:
+^0000ffDano crítico contra monstros humanoides +5% adicional..^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffChance de ativar [velocidade de ataque +100%] por 3 segundos ao realizar ataques físicos.^000000
+Tipo: ^777777Katar^000000   Ataque: ^777777140^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Mercenários e evoluções^000000
+
+
+^ff0000[Arcos]^000000
+^008040Arco de Caça Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano crítico +2% por refino até o +10.^000000
+^0000ffDano físico contra monstros humanoides +55%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffDano de [Rajada de Flechas] +20%.^000000
+Tipo: ^777777Arco^000000   Ataque: ^777777100^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Arqueiros, Arruaceiros e evoluções e Gatunos^000000
+
+
+^ff0000[Shurikens Huuma]^000000
+^008040Shuriken Huuma Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffATQM +90.^000000
+^0000ffDano físico contra monstros humanoides +95%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+^0000ff5% de chance de aumentar o dano de [Arremessar Shuriken Huuma] e [Ataque Mortal] em 100% por 10 segundos ao realizar ataques físicos.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 2.^000000
+Refino +9 ou mais:
+^0000ffAtiva [Curar] nv. 10 em si ao usar [Ataque Mortal].^000000
+^0000ffChance de ativar [Fermimento Mortal] nv. 2 ao usar [Arremessar Shuriken Huuma].^000000
+Tipo: ^777777Shuriken Huuma^000000    Ataque: ^77777755^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Ninjas e evoluções^000000
+
+
+^ff0000[Pistolas]^000000
+^008040Pistola Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano físico contra monstros humanoides +55%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffDano de [Rajada Certeira] +2% por refino.^000000
+^0000ffChance de autoconjurar [Cara ou Coroa] nv. 1 ao usar [Rajada Certeira].^000000
+Tipo: ^777777Pistola^000000   Ataque: ^77777780^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000
+Nível necessário: ^77777780^000000
+Classes: ^777777Justiceiros e evoluções^000000
+
+
+^ff0000[Rifles]^000000
+^008040Rifle Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano de [Ataque Triplo] +30%.^000000
+^0000ffDano físico contra monstros humanoides +75%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refinao +9 ou mais:
+^0000ffDano de [Rastrear o Alvo] +3% por refino.^000000
+^0000ffTempo de conjuração de [Rastrear o Alvo] -25%.^000000
+Tipo: ^777777Rifle^000000   Ataque: ^77777790^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Justiceiros e evoluções^000000
+
+
+^ff0000[Metralhadoras Gatling]^000000
+^008040Metralhadora Gatling Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano de [Ataque Triplo] +30%.^000000
+^0000ffDano físico contra monstros humanoides +35%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffDano físico +1% por refino.^000000
+Tipo: ^777777Metralhadora Gatling^000000   Ataque: ^77777790^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Justiceiros e evoluções^000000
+
+
+^ff0000[Espingardas]^000000
+^008040Espingarda Gloriosa^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffEspalha o dano na área.^000000
+^0000ffDano de [Ataque Triplo] +30%.^000000
+^0000ffDano físico contra monstros humanoides +55%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffDano de [Disparo Espalhado] +2% por refino.^000000
+^0000ffChance de infligir atordoamento ao usar [Disparo Espalhado].^000000
+Tipo: ^777777Espingarda^000000   Ataque: ^777777110^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Justiceiros e evoluções^000000
+
+
+^ff0000[Lança-Granadas]^000000
+^008040Lança-Granadas Glorioso^000000
+^a400cdIndestrutível em batalha.^000000
+^0000ffDano de [Ataque Triplo] +30%.^000000
+^0000ffDano físico contra monstros humanoides +35%.^000000
+^0000ffIgnora 20% da DEF de monstros humanoides.^000000
+Refino +6 ou mais:
+^0000ffIgnora 5% adicional da DEF de monstros humanoides.^000000
+^0000ffAtiva [Carniceiro] nv. 1.^000000
+Refino +9 ou mais:
+^0000ffDano de [Mina do Justiceiro] +2% por refino.^000000
+^0000ffChance de ativar [velocidade de ataque +20%] ao realizar ataques físicos.^000000
+Tipo: ^777777Lança-Granadas^000000   Ataque: ^777777330^000000   Peso: ^7777770^000000
+Nível da arma: ^7777774^000000   Nível necessário: ^77777780^000000
+Classes: ^777777Justiceiros e evoluções^000000
+
+
+^ff0000[Capas]^000000
+^008040Sobrepeliz Gloriosa^000000
+^0000ffHP máx. +5%.^000000
+^0000ffResistência a raça Humanoide +5%.^000000
+Tipo: ^777777Capa^000000    Defesa: ^7777773^000000    Peso: ^7777770^000000
+Nível necessário: ^77777781^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+
+^ff0000[Calçados]^000000
+^008040Sapatos Gloriosos^000000
+^0000ffHP máx. +10%.^000000
+^0000ffResistência a raça Humanoide +4%.^000000
+Ao receber danos físicos:
+0000ffChance de autoconjurar [Aumentar Agilidade] nv. 1.^000000
+Tipo: ^777777Calçado^000000    Defesa: ^7777770^000000    Peso: ^7777770^000000
+Nível necessário: ^77777781^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+^008040Sapatos Gloriosos Industrializados^000000
+^0000ffHP e SP máx. +5%.^000000
+Tipo: ^777777Calçado^000000    Defesa: ^77777710^000000    Peso: ^7777770^000000
+Nível necessário: ^77777761^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+^008040Sapatos Gloriosos Baratos^000000
+^0000ffHP máx. +5%.^000000
+Tipo: ^777777Calçado^000000    Defesa: ^77777710^000000    Peso: ^7777770^000000
+Nível necessário: ^7777771^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+
+^ff0000[Armaduras]^000000
+^008040Túnica Gloriosa^000000
+^0000ffHP máx. +20%.^000000
+^0000ffResistência a raça Humanoide +7%.^000000
+Conjunto^000000
+[Sapatos Gloriosos]
+[Sobrepeliz Gloriosa]
+^0000ffDano físico e mágico +5%.^000000
+^0000ffEfetividade de cura +3%.^000000
+^0000ffTolerância a [Congelamento] +100%.^000000
+Tipo: ^777777Armadura^000000    Defesa: ^77777710^000000    Peso: ^7777770^000000
+Nível necessário: ^77777781^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+^008040Túnica Gloriosa Industrializada^000000
+^0000ffHP máx. +600.^000000
+^0000ffRegeneração natural de SP +10%.^000000
+Tipo: ^777777Armadura^000000    Defesa: ^77777710^000000    Peso: ^7777770^000000
+Nível necessário: ^77777761^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+^008040Túnica Gloriosa Barata^000000
+^0000ffHP máx. +500.^000000
+Tipo: ^777777Armadura^000000    Defesa: ^77777710^000000    Peso: ^7777770^000000
+Nível necessário: ^7777771^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+
+^ff0000[Acessórios]^000000
+Todos os acessórios, ao equipar junto com
+qualquer uma das Medalhas de Honra,
+fornecerão os seguintes efeitos:
+^0000ffDano físico +5%.^000000
+^0000ffDano mágico +3%.^000000
+^0000ffEfetividade de cura +5%.^000000
+
+^008040Anel Glorioso^000000
+^0000ffHP máx. +300.^000000
+^0000ffEfetividade de cura +5%.^000000
+^0000ffVelocidade de ataque +5%.^000000
+^0000ffTempo de conjuração variável -3%.^000000
+^0000ffResistência as propriedades Água, Vento, Terra e Fogo +10%.^000000
+Tipo: ^777777Acessório^000000    Defesa: ^7777770^000000    Peso: ^7777770^000000
+Nível necessário: ^77777781^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+^008040Anel Glorioso Industrializado^000000
+^0000ffTodos os atributos +2.^000000
+Tipo: ^777777Acessório^000000    Defesa: ^7777770^000000    Peso: ^7777770^000000
+Nível necessário: ^77777761^000000   Classes: ^777777Todas, exceto Aprendizes^000000
+
+
+^008040Anel Glorioso Barato^000000
+^0000ffTodos os atributos +1.^000000
+Tipo: ^777777Acessório^000000    Defesa: ^7777770^000000    Peso: ^7777770^000000
+Nível necessário: ^7777771^000000   Classes: ^777777Todas, exceto Aprendizes^000000

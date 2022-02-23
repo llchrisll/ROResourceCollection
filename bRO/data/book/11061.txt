@@ -1,0 +1,181 @@
+﻿%f5f5dc
+^000088Consumíveis^000000
+
+^ff0000[Mapa da Cidade]^000000
+Mapa de Prontera contendo atalhos rápidos para quem tem pressa.
+^0000ffConsome 15 de HP para autoconjurar [Aumentar Agilidade] nv. 1.^000000
+^008080Abaixo de 15 de HP, o efeito não ativa e o item é consumido.^000000
+Peso: ^7777771^000000
+
+
+^ff0000[Poção Sagrada]^000000
+Poção contendo uma mistura de água benta e ervas medicinais.
+--------------------------
+^0000ffRegenera 1.000 de HP.^000000
+^0000ffRemove Envenenamento, Maldição e Silêncio.^000000
+--------------------------
+^0000ffPor 3 minutos, resistência a Imortais +10%.^000000
+--------------------------
+Imortais afetados:
+^0000ffBijou, Amdarais Imortal, Esqueleto Imortal, Arqueiro Imortal, Soldado Imortal, Zumbi da Guarda e Legionário Imortal.^000000
+--------------------------
+Peso: ^7777771,5^000000
+
+
+^ff0000[Chaves da Prisão]^000000
+Chaves encardidas que abrem passagens bloqueadas.
+^0000ffTeleporta para a Prisão de Prontera.^000000
+Peso: ^7777771^000000
+
+
+^ff0000[Passaporte para Prontera]^000000
+Passaporte com coordenadas para Prontera, a capital do Reino.
+^0000ffTeleporta para Prontera.^000000
+Peso: ^7777771^000000
+
+
+
+^000088Equipamentos^000000
+
+^ff0000[Mapa da Capital]^000000
+Mapa que mostra alguns atalhos para chegar nos lugares com mais rapidez.
+^0000ffHabilita [Aumentar Agilidade] nv. 3.^000000.
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^77777740^000000
+Classes: ^777777Todas^000000
+
+
+^ff0000[Água Sagrada]^000000
+Um frasco de vidro contendo água benta com brilho incandescente.
+--------------------------
+^0000ffResistência a Imortais +20%.^000000
+--------------------------
+A cada 10 segundos:
+^0000ffRecupera 100 de HP e 5 de SP.^000000
+--------------------------
+Imortais afetados:
+^0000ffBijou, Amdarais Imortal, Esqueleto Imortal, Arqueiro Imortal, Soldado Imortal, Zumbi da Guarda e Legionário Imortal.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777715^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+
+
+^ff0000[Égide da Realeza]^000000
+Escudo oficial dos Guardiões Reais do Reino de Rune-Midgard.
+--------------------------
+^0000ffHabilita [Aegis Domini] nv. 1.^000000
+--------------------------
+Ao receber danos físicos de curta distância:
+^0000ff0,5% de chance de autoconjurar [Assumptio] nv. 3.^000000
+--------------------------
+A cada refino:
+^0000ffDEF +10. DEFM +1.^000000
+^0000ff+0,3% de chance de autoconjurar [Assumptio].^000000
+--------------------------
+Tipo: ^777777Escudo^000000
+Defesa: ^77777730^000000
+Peso: ^777777300^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+
+
+^ff0000[Brasão de Prontera]^000000
+Broche de ouro com a águia bicéfala, símbolo do Reino de Rune-Midgard.
+--------------------------
+^0000ffHabilita [Para Prontera] nv. 2.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^77777740^000000
+Classes: ^777777Todas^000000
+
+
+^ff0000[Vestimenta Arrogante]^000000
+Vestes feitas sob medida para celebrações especiais. Quem usa diz que recebe muitos elogios e bajulações...
+--------------------------
+^0000ffHabilita [Vigor] nv. 1.^000000
+--------------------------
+^0000ffATQM +50.^000000
+Nv. base 120 ou maior:
+^0000ffATQM +50 adicional.^000000
+Nv. base 140 ou maior:
+^0000ffATQM +50 adicional.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Capa do Marquês]^000000
+^0000ffEsquiva +10.^000000
+^0000ffSP máx. +10%.^000000
+A cada refino da armadura:
+^0000ffEsquiva +1.^000000
+^0000ffSP máx. +1%.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Capa do Sobrevivente]^000000
+^0000ffHP máx. +10%.^000000
+^0000ffDano mágico +2%.^000000
+A cada refino da armadura:
+^0000ffHP máx. +1%.^000000
+^0000ffDano mágico +1%.^000000
+--------------------------
+Tipo: ^777777Armadura^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+
+
+^ff0000[Vestimenta Exuberante]^000000
+Roupa formal com corte e costura capazes de atingir profundamente a alma dos estilistas.
+--------------------------
+^0000ffHabilita [Concentração] nv. 1.^000000
+--------------------------
+A cada refino:
+^0000ffIgnora 4% da DEF das raças Humano, Humanoide, Demônio e Morto-Vivo.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Manteau de Morrigane]^000000
+^0000ffSOR +3. CRIT +10.^000000
+A cada refino:
+^0000ffSOR +1. CRIT +1.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Manto das Valquírias]^000000
+^0000ffHP máx. +10%.^000000
+^0000ffDano físico +2%.^000000
+^0000ffIgnora 15% da DEF das raças Humano, Humanoide, Demônio e Morto-Vivo.^000000
+A cada refino:
+^0000ffHP máx. +1%.^000000
+^0000ffDano físico +1%.^000000
+--------------------------
+Tipo: ^777777Armadura^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+
+
+^ff0000[Ilusões do Tempo]^000000
+A imagem desses relógios surrealistas flutuantes ficará persistindo na sua memória por um bom tempo.
+^008080Exibe efeito gráfico que não pode ser escondido por visuais, mas pode ser desligado com /effect.^000000.
+Tipo: ^777777Visual^000000
+Posição: ^777777Meio^000000
+Defesa: ^7777770^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+
+
+^ff0000[Mão Diabólica]^000000
+É como se existisse algo segurando sua cabeça te guiando por aí...
+Tipo: ^777777Visual^000000
+Posição: ^777777Topo^000000
+Defesa: ^7777770^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000

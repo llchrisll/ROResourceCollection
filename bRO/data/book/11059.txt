@@ -1,0 +1,423 @@
+^4d4dff Lista de Itens de Aluguel TE ^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+    Itens de Aluguel TE não podem ser negociados.
+    Todos os itens de Aluguel TE serão removidos de seu inventário quando o tempo de uso acabar.
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+[Katar TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Sangramento ao atacar fisicamente.
+Tipo: Katar
+Ataque: 120 
+Peso: 0
+Nível da arma: 3
+Nível necessário: 40
+Classes: Mercenário e Evolução
+
+[Machado TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Hipotermia ao atacar fisicamente.
+Tipo: Machado  
+Ataque: 100 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40  
+Classes: Aprendiz/Espadachim e Evoluções/Mercador e Evoluções/Gatuno e Evoluções
+
+[Machado de Duas Mãos TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Atordoamento ao atacar fisicamente.
+Tipo: Machado de Duas Mãos  
+Ataque: 150 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40  
+Classes: Espadachim e Evoluções/Mercador e Evoluções
+
+[Pique TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Maldição ao atacar fisicamente.
+Tipo: Lança  
+Ataque: 100 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40  
+Classes: Espadachim e Evoluções
+
+[Lança TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Cegueira ao atacar fisicamente.
+Tipo: Lança de Duas Mãos  
+Ataque: 150 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40  
+Classes: Espadachim e Evoluções
+
+
+[Livro TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Aumenta o Ataque Mágico em 5% conta outros jogadores.
+Chance de causar Cegueira ao atacar fisicamente.
+Melhora a Cura em +5%.
+Tipo: Livro  
+Ataque: 120 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40 
+Classes: Sacerdote e Evolução/Sábio e Evolução/Mestre Taekwon
+
+[Cajado TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque mágico em 10% contra outros jogadores. Chance de causar Cegueira ao atacar magicamente.
+Melhora a Cura em +5%.
+Tipo: Cajado  
+Ataque: 50  
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40 
+Classes: Aprendiz e Evolução/Mago e Evoluções/Noviço e Evoluções/Espiritualista
+
+[Punho TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Hipotermia ao atacar fisicamente.
+Tipo: Punho 
+Ataque: 150 
+Peso: 0 
+Nível da arma: 3  
+Nível necessário: 40 
+Classes: Sacerdote e Evolução/Monge e Evolução
+
+[Violão TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Envenenamento ao atacar fisicamente.
+Tipo: Instrumento Musical  
+Ataque: 100 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40  
+Classes: Bardo
+
+[Chicote TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Cegueira ao atacar fisicamente.
+Tipo: Chicote  
+Ataque: 100 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40  
+Classes: Odalisca
+
+[Adaga TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Silêncio ao atacar fisicamente.
+Tipo: Adaga  
+Ataque: 100 MATQ + 100.
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40 
+Classes: Aprendiz /Espadachim e Evoluções/Mago e Evoluções/Arqueiro e Evoluções/Mercador e Evoluções/Gatuno e Evoluções/Espiritualista/Ninja 
+
+[Cajado de Duas Mãos TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque mágico contra outros jogadores em 20%. Chance de causar Atordoamento ao atacar magicamente.
+Melhora a Cura em +5%.
+Tipo: Cajado de Duas Mãos  
+Ataque: 50  
+MATQ + 130
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40 
+Classes: Aprendiz e Evolução/Mago e Evoluções/Noviço e Evoluções/Espiritualista
+
+[Pistola TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Maldição ao atacar fisicamente.
+Tipo: Pistola  
+Ataque: 60 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40  
+Classes: Justiceiro 
+
+[Rifle TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Silêncio ao atacar fisicamente.
+Tipo: Rifle  
+Ataque: 80 
+Peso: 0  
+Nível da arma: 3 
+Nível necessário: 40 
+Classes: Justiceiro
+
+[Metralhadora TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Atordoamento ao atacar fisicamente.
+Tipo: Metralhadora Gatling  
+Ataque: 100 
+Peso: 0  
+Nível da arma: 3  
+Nível necessário: 40  
+Classes: Justiceiro
+
+[Espingarda TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Envenenamento ao atacar fisicamente.
+Tipo: Espingarda  
+Ataque: 100 
+Peso: 0  
+Nível da arma: 3 
+Nível necessário: 40 
+Classes: Justiceiro
+
+[Lança Granadas TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Cegueira ao atacar fisicamente.
+Tipo: Lança Granadas  
+Ataque: 100 
+Peso: 0 
+Nível da arma: 3 
+Nível necessário: 40 
+Classes: Justiceiro
+
+[Shuriken Huuma TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Sangramento ao atacar fisicamente.
+MATQ + 100
+Tipo: Shuriken Huuma  
+Ataque: 80
+Peso: 0 
+Nível da arma: 3 
+Nível necessário: 40 
+Classes: Ninja 
+
+[Espada TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Envenenamento ao atacar fisicamente.
+MATQ + 100.
+Tipo: Espada  
+Ataque: 120
+Peso: 0 
+Nível da arma: 3 
+Nível necessário: 40 
+Classes: Aprendiz /Espadachim e Evoluções/Mercador e Evoluções/Gatuno e Evoluções
+
+[Maça TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Hipotermia ao atacar fisicamente.
+Melhora a Cura em +5%.
+Tipo: Maça  
+Ataque: 120 
+Peso: 0  
+Nível da arma: 3 
+Nível necessário: 40 
+Classes: Aprendiz /Espadachim e Evoluções/Noviço e Evoluções/Mercador e Evoluções
+
+[Arco TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Maldição ao atacar fisicamente.
+Tipo: Arco  
+Ataque: 120 
+Peso: 0 
+Nível da arma: 3 
+Nível necessário: 40 
+Classes: Arqueiro e Evoluções/Gatuno/Arruaceiro e Evolução
+
+[Espada de Duas Mãos TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico em +40% contra outros jogadores. Chance de causar Sangramento ao atacar fisicamente.
+Tipo: Espada de Duas Mãos  
+Ataque: 150 
+Peso: 0 
+Nível da arma: 3 
+Nível necessário: 40 
+Classes: Espadachim e Evoluções
+
+[Broquel TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 100, SP Maximo + 100. Reduz o dano recebido de outros jogadores em 15%.
+MDEF + 15.
+Tipo: Escudo  
+Defesa: 15
+Peso: 0 
+Nível necessário: 40 
+Classes: Todas 
+
+[Escudo TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 200. - 20% damage received from player characters.
+MDEF + 5.
+Tipo: Escudo  
+Defesa: 25 
+Peso: 0 
+Nível necessário: 40 
+Classes: Espadachim e Evoluções/Mercador e Evoluções 
+
+[Vembrassa Mágica TE]
+Funcionamentos na área da Guerra TE:
+SP Maximo + 200. Reduz o dano recebido de outros jogadores em 10%.
+MDEF + 25.
+Tipo: Escudo 
+Defesa: 5 
+Peso: 0 
+Nível necessário: 40 
+Classes: Aprendiz e Evolução/Mago e Evoluções/Noviço e Evoluções/Espiritualista
+
+[Sobrepeliz TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque mágico e físico contra outros jogadores em 5%. Resistência a Congelamento +25%.
+MDEF + 5.
+Tipo: Capa  
+Defesa: 5  
+Peso: 0 
+Nível necessário: 40 
+Classes: Todas 
+
+[Manteau TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque físico contra outros jogadores em 10%. Resistência a Congelamento +25%.
+Tipo: Capa  
+Defesa: 10
+Peso: 0 
+Nível necessário: 40 
+Classes: Espadachim e Evoluções/Mercador e Evoluções
+
+[Manteau Mágico TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque mágico contra outros jogadores em 10%.
+Resistência a Congelamento +25%.
+MDEF + 5.
+Tipo: Capa 
+Defesa: 5 
+Peso: 0 
+Nível necessário: 40 
+Classes: Aprendiz e Evolução/Mago e Evoluções/Noviço e Evoluções/Espiritualista 
+
+[Anel de Proteção TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 100. Reduz o dano recebido de outros jogadores em 5%.
+Tipo: Acessório  
+Defesa: 0 
+Peso: 0 
+Nível necessário: 40 
+Classes: Todas
+
+[Anel da Fúria TE]
+Funcionamentos na área da Guerra TE:
+Aumenta o ataque mágico e físico contra outros jogadores em 5%.
+Tipo: Acessório  
+Defesa: 0 
+Peso: 0 
+Nível necessário: 40 
+Classes: Todas
+
+[Anel do Desafio TE]
+Funcionamentos na área da Guerra TE:
+Reduz o dano recebido de outros jogadores em 5%.
+MDEF + 5.
+Tipo: Acessório  
+Defesa: 0  
+Peso: 0  
+Nível necessário: 40 
+Classes: Todas 
+
+
+[Sapatos TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 150, SP Maximo + 150. Aumenta o ataque mágico e físico contra outros jogadores em 5%.
+Resistência a Congelamento +25%.
+MDEF + 5.
+Tipo: Calçados  
+Defesa: 5  
+Peso: 0 
+Nível necessário: 40 
+Classes: Todas 
+
+[Botas TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 200, SP Maximo + 100. Aumenta o ataque físico contra outros jogadores em 10%.
+Resistência a Congelamento +25%.
+Tipo: Calçados  
+Defesa: 10 
+Peso: 0 
+Nível necessário: 40 
+Classes: Espadachim e Evoluções/Mercador e Evoluções
+
+[Sandálias Mágicas TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 100, SP Maximo + 200. Aumenta o ataque mágico contra outros jogadores em 5%.
+Resistência a Congelamento +25%.
+MDEF + 5.
+Tipo: Calçados  
+Defesa: 5  
+Peso: 0  
+Nível necessário: 40 
+Classes: Aprendiz e Evolução/Mago e Evoluções/Noviço e Evoluções/Espiritualista
+
+[Casaco TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 250, SP Maximo + 250. Reduz o dano recebido de outros jogadores em 10%.
+Resistência a Congelamento +25%.
+MDEF + 15.
+Tipo: Vestimenta  
+Defesa: 15  
+Peso: 0 
+Nível necessário: 40 
+Classes: Todas
+
+[Cota de Malha TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 450, SP Maximo + 50. Reduz o dano recebido de outros jogadores em 15%.
+Resistência a Congelamento +25%.
+MDEF + 5.
+Tipo: Vestimenta  
+Defesa: 25 
+Peso: 0  
+Nível necessário: 40 
+Classes: Espadachim e Evoluções/Mercador e Evoluções
+
+[Casaco Mágico TE]
+Funcionamentos na área da Guerra TE:
+HP Maximo + 200, SP Maximo + 300. Reduz o dano recebido de outros jogadores em 5%.
+Resistência a Congelamento +25%.
+MDEF + 25.
+Tipo: Vestimenta  
+Defesa: 5  
+Peso: 0  
+Nível necessário: 40  
+Classes: Aprendiz e Evolução/Mago e Evoluções/Noviço e Evoluções/Espiritualista
+
+[Barrete TE]
+Funcionamentos na área da Guerra TE:
+ATQ + 5, MATQ + 5. Aumenta o dano físico e mágico contra outros jogadores em 10%.
+Resistência a Congelamento +25%.
+MDEF + 5.
+Tipo: Equipamento para Cabeça  
+Defesa: 5  
+Equipa em: Topo  
+Peso: 0  
+Nível necessário: 40  
+Classes: Todas 
+
+[Elmo TE]
+Funcionamentos na área da Guerra TE:
+ATQ + 10. Aumenta o ataque físico contra outros jogadores em 20%. Resistência a Congelamento +25%.
+Tipo: Equipamento para Cabeça  
+Defesa: 10  
+Equipa em: Topo
+Peso: 0  
+Nível necessário: 40  
+Classes: Aprendiz e Evolução
+
+[Olho Mágico TE]
+Funcionamentos na área da Guerra TE:
+MATQ + 10. Aumenta o ataque mágico contra outros jogadores em 20%.
+Resistência a Congelamento +25%.
+MDEF + 5.
+Tipo: Equipamento para Cabeça  
+Defesa: 5  
+Equipa em: Topo
+Peso: 0  
+Nível necessário: 40  
+Classes: Aprendiz e Evolução/Mago e Evoluções/Noviço e Evoluções/Espiritualista

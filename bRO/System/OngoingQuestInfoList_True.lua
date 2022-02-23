@@ -2029,6 +2029,10 @@ Description = {"Em um ato de cidadania, voc\234 votou! Aguarde os resultados e b
 Description = {"Em um ato de cidadania, voc\234 votou! Aguarde os resultados e boa sorte!"}
 , Summary = "Voto comfirmado."}
 , 
+[2423] = {Title = "Votação", 
+Description = {"Em um ato de cidadania, voc\234 votou! Aguarde os resultados e boa sorte!"}
+, Summary = "Voto comfirmado."}
+, 
 [3000] = {Title = "Mudança de Classe: Bardo", 
 Description = {"Encontrei um belo Bardo cantor. Quero ser um Bardo... Devo perguntar a ele como se torna um? "}
 , Summary = "  "}

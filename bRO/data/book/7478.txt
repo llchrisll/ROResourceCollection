@@ -1,0 +1,77 @@
+%faf0e6
+^000088Não importa quem você seja: nossa culinária satisfaz igualmente 
+a homens, Porings e Poporings famintos.^000000
+
+Aqui estão os segredos da nossa culinária: as receitas de Nível 7.
+
+
+^ff0000Assado Inteiro:^000000 saboreie este pedaço inteiro de carne, assado e apimentado!
+Ingredientes: ^4b008210 Carnes, 1 Lenha em Brasa, 2 Carvões, 1 Molho Picante, 15 Troncos, 10 Ervas Brancas^000000
+Instruções: 
+	1. Lave a carne em água corrente.
+	2. Cubra totalmente a Carne com o Molho Picante.
+	3. Pique as Ervas Brancas e salpique sobre a Carne marinada.
+	4. Acenda uma fogueira com a Lenha em Brasa, os Troncos e os Carvões.
+	5. Asse a Carne marinada sobre os Carvões.
+	6. Adicione mais Molho Picante sobre a Carne enquanto estiver assando.
+	7. Sirva com mais Ervas Brancas salpicadas por cima.
+
+^0000ffChá de Ervas e Geléia Real Especial:^000000 aproveite o doce sabor deste chá de ervas com geléia real.
+Ingredientes: ^4b00824 Geléias Reais, 2 unidades de Mel, 5 Ervas Brancas, 10 Folhas de Hinalle, 1 Condimento Amarelo^000000
+Instruções: 
+Esta receita é basicamente a mesma do Chá de Ervas e Mel do nível 3, 
+mas acrescenta ervas de maior qualidade, Folhas de Hinalle e Geléia Real.
+
+
+^800000Pão Doce Assombroso:^000000 Cuidado! Este pão pode roubar sua alma com seu sabor divino!
+Ingredientes: ^4b008210 Pães, 5 Mastelas, 1 Molho Doce, 5 Mentas, 5 Amuletos, 2 Maçãs Verdes^000000
+Instruções:
+	1. Descasque as Mastelas e as Maçãs, e corte-as em pedaços pequenos.
+	2. Lave as Mentas e esprema para extrair seu suco. Misture esse suco de menta com 
+                     o mesmo volume de açúcar.
+	3. Cubra as Mastelas e as Maçãs com esse suco de menta adoçado.
+	4. Refrigere a mistura por 30 minutos.
+	5. Ferva a mistura em fogo alto até borbulhar.
+	6. Reduza o fogo para médio, acrescente açúcar e ferva até formar uma geléia.
+	7. Lembre-se de mexer constantemente a geléia enquanto estiver fervendo.
+	8. Triture os Amuletos e misture com o Molho Doce. Refrigere esta nova mistura 
+                    enquanto termina a geléia.
+	9. Espalhe a geléia e o Molho Doce com Amuletos nas fatias de Pão, e saboreie!
+
+^008040Crocodilo no Vapor com Vegetais:^000000 uma carne macia de crocodilo servida 
+                                                                    com vegetais frescos.
+Ingredientes: ^4b008210 Peles de Anolian, 10 Zés-Lanterna, 10 Cenouras, 10 Folhas de Aloé, 
+                    10 Ervas Amarelas, 1 Condimento Amarelo^000000
+Instruções: 
+	1. Lave as Peles de Anolian, e amasse-as com sal, pimenta, água e 
+                     Condimento Amarelo. 
+	2. Corte as Cenouras em fatias finas e longas. Afervente as Folhas de Aloé e as Ervas Amarelas, 
+                     e as aperte até secarem. Corte os Zés-Lanterna em fatias finas, 
+                     frite e deixe esfriar.
+	3. Estenda um pano sobre um prato grosso de madeira, e coloque as Peles de Anolian amassadas 
+                     em cima. Coloque o prato em uma panela de pressão, e cozinhe por 15 minutos.
+	4. Corte a pele em pedaços pequenos e sirva com vegetais.
+
+^ff8040Banquete Suntuoso:^000000 participe deste delicioso banquete feito com ingredientes únicos.
+Ingredientes: ^4b008210 Caudas de Peixe, 5 Folhas de Aloé, 10 Crinas, 2 Peixes Frescos, 10 Rações para Bichinho, 
+                   1 Molho Doce^000000
+Instruções: 
+	1. Afervente as Folhas de Aloé em água salgada.
+	2. Tire as espinhas dos Peixes Frescos, cubra-os com Molho Doce e reserve por 
+                   10 minutos.
+	3. Embrulhe os peixes marinados com Folhas de Aloé. Cozinhe no vapor os peixes embrulhados e 
+                    as Caudas de Peixe por 10 minutos, e sirva em um prato.
+	4. Corte as Crinas em pedaços de 4 cm, e afervente.
+	5. Corte as Rações para Bichinho em pedaços pequenos, e misture com o Molho Doce. 
+                    Toste os pedaços de Ração em uma frigideira.
+         
+
+^400080Espetinho Sortido:^000000 deliciosos espetinhos de carne, vegetais e ostras!
+Ingredientes: ^4b008210 Cascas Escamadas, 5 Guelras, 10 unidades de Grama, 5 Carnes, 10 Cogumelos Comestíveis, 10 Carnes de Ostra^000000
+Instruções: 
+	1. Corte a Grama em pedaços de 4 cm, e fatie os Cogumelos Comestíveis.
+	2. Lave as Cascas Escamadas e as espinhas mais longas das Guelras em água fria e corrente.
+	3. Afervente a Carne e a Carne de Ostra.
+	4. Espete os ingredientes nas espinhas longas das Guelras: primeiro a carne, depois os vegetais 
+                    e por último a carne de ostra.
+	5. Aqueça as Cascas Escamadas em fogo médio, e coloque os espetinhos sobre as Cascas para cozinhar.

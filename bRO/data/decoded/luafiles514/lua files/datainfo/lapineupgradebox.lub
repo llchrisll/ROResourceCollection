@@ -322,6 +322,12 @@ TargetItems = {
 {"Blue_Mental_Pendant", 490101}
 }
 , NeedSource_String = "Pingente da Força"}
+, 
+EXP_Overclocker = {ItemID = 100710, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"EXP_Processor_", 410013}
+}
+, NeedSource_String = "Comunicador Avançado"}
 }
 , serverMain = function()
   -- function num : 0_0

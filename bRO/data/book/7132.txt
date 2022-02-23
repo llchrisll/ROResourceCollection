@@ -1,0 +1,33 @@
+%faf0e6
+^000088Alquimia Intermediária: Frasco de Revestimento^000000
+
+
+----------------Prefácio--------------------
+
+
+A habilidade de Revestimento Mágico, que cria uma película protetora para
+o conjurador, inspirou os Alquimistas a desenvolverem o
+Frasco de Revestimento. Ele pode ser usado em conjunto com as habilidades
+do Alquimista, proporcionando uma proteção que não poderá ser atingida pela
+maioria dos fatores externos. No entanto, esses revestimentos artificiais
+perdem sua efetividade após um período de tempo.
+ 
+------------------------------------------
+
+O que é um ^400080Frasco de Revestimento^000000?
+
+O Frasco de Revestimento contém uma cera de secagem rápida que reveste e
+protege objetos para aumentar temporariamente sua resistência a danos.
+Somente os Alquimistas mais experientes são capazes de revestir equipamentos,
+usando as habilidades Revestir Capacete, Revestir Escudo, Revestir Armadura
+ou Revestir Arma.
+
+Materiais necessários: ^4b00821 Álcool, 1 Presa de Zenorc,
+1 Coração de Sereia, 1 Garrafa Vazia^000000
+
+Procedimento: Complete metade de uma Vasilha de Mistura com Álcool e
+mergulhe a Presa de Zenorc. Lave o Coração de Sereia e o adicione à
+mistura do Álcool e da Presa. Por fim, use a habilidade Preparar Poção e
+despeje a solução em uma Garrafa Vazia. Você precisará aprender habilidades
+especiais como Revestir Capacete, Revestir Escudo, Revestir Armadura e
+Revestir Arma para poder revestir um equipamento.

@@ -1,0 +1,81 @@
+%faf0e6
+^000088- A comidinha igual a da mamãe, perfeita para curar corações feridos de saudade... -^000000
+
+Estas Receitas de Nível 2 podem curar corações feridos, ainda que não restaurem HP.
+
+^ff0000Palmípede Temperado:^000000 As Patas Pegajosas não ficam pegajosas demais para comer 
+                                                      se você cozinhar direito.
+Ingredientes: ^4b008220 Patas Pegajosas, 10 Ervas Verdes, 10 Ervas Amarelas, 1 Molho Saboroso^000000
+Instruções:
+	1. Coloque as Patas Pegajosas em água ao ponto de congelar, e pique as Ervas Verdes e Amarelas.
+	2. Misture metade das ervas picadas com as Patas Pegajosas.
+	3. Acrescente o Molho Saboroso e o resto das ervas, e misture tudo muito bem.
+	4. Lembre-se de manter a mistura refrigerada para preservar o sabor e a consistência.
+
+^0000ffChá Vermelho de Outono:^000000 um copo desse chá vermelho vai bem com biscoitos e bolo.
+Ingredientes: ^4b00825 Ervas Azuis, 10 Ervas Vermelhas e 10 Ervas Amarelas^000000
+Instruções: 
+	1. Seque e fermente todas as ervas.
+	2. Ferva água em uma chaleira. 
+	3. Coloque as ervas na chaleira, feche bem a tampa e ferva por 2-3 minutos. 
+                    Se você ferver as folhas por tempo demais, o chá ficará amargo.
+	4. Tome o chá com leite, limão ou o que você preferir.
+
+
+^800000Bolo-Mousse de Chocolate:^000000 experimente esse sabor doce e divino de chocolate.
+Ingredientes: ^4b008210 Cacaus, 1 Pedaço de Bolo, 1 Leite e 1 Prato de Porcelana
+Instruções: 
+	1. Triture o Cacau até virar um pó fino.
+	2. Bata o pó de Cacau com o Leite para fazer mousse de chocolate.
+	3. Remova a cobertura do Pedaço de Bolo, deixando apenas o bolo puro. 
+                    Você pode comer a cobertura se quiser.
+	4. Cubra o bolo com a mousse de chocolate, e refrigere 
+                    até o chocolate firmar.
+	5. Sirva o bolo no Prato de Porcelana.
+
+^008040Macarrão Liso:^000000somente especialistas em comer de palitinho podem saborear este macarrão sem frustração.
+Ingredientes: ^4b00821 Sacola de Grãos, 1 Molho Saboroso, 5 Zés-Lanterna, 3 Cenouras^000000
+Instruções: Lembre-se que o macarrão é a essência dessa receita.
+	1. Triture os grãos para criar uma farinha.
+	2. Misture a farinha com água fria, e amasse com a mão.
+	3. Estique a massa e dobre-a em várias camadas 
+                    até que fique firme, mas ainda flexível.
+	4. Corte em fatias bem finas para formar os fios de macarrão. 
+	5. Refrigere os fios por uma noite para ficarem lisos e consistentes.
+	6. Corte um Zé-Lanterna ao meio, e tire a polpa. A casca será usada como 
+                    tigela para o macarrão.
+	7. Cozinhe 4 Zés-Lanterna no vapor. Toque de leve e aperte as abóboras até 
+                    que as fibras da polpa fiquem como fios. 
+	8. Fatie as Cenouras, e frite essas fatias levemente.
+	9. Ferva o macarrão em fogo alto. Se a água secar, coloque uma xícara de água fria e 
+                    continue a ferver.
+	10. Quando o macarrão cozinhar, escorra a água e enxágüe o macarrão 
+                      com água fria para obter uma textura consistente.
+	11. Coloque o macarrão cozido e a polpa de abóbora na casca de abóbora, e
+                      derrame caldo de anchovas para cobrir o macarrão e a polpa. 
+	12. Espalhe as fatias fritas de cenoura em cima, e sirva.
+          
+
+^ff8040Frutos do Mar Sortidos:^000000 frutos do mar variados e frescos.
+Ingredientes: ^4b008210 Carnes de Ostra, 5 Guelras, 5 Nadadeiras, 1 Peixe Fresco^000000
+Instruções: 
+	1. Cozinhe a Carne de Ostra e o Peixe Fresco no vapor por alguns minutos, e então corte-os em pedaços 
+                    pequenos.
+	2. Remova as espinhas das Guelras com pinças, cozinhe as Guelras no vapor por alguns minutos, e então 
+                    corte-as em pedaços pequenos.
+	3. Afervente as Nadadeiras.
+	4. Estenda as Nadadeiras fervidas e espalhe os outros ingredientes sobre as Nadadeiras.
+	5. Dobre cada Barbatana três vezes, como um leque.
+
+^400080Suco Misto:^000000 experimente o sabor único das frutas combinadas!
+Ingredientes: ^4b00823 Sucos de Maçã, 2 Sucos de Cenoura, 1 Suco de Uva e 2 Sucos de Laranja^000000
+Instruções: O sabor desse suco depende da proporção de cada ingrediente, e da ordem 
+                  na qual são misturados.
+
+	O Suco de Cenoura é o ingrediente principal, e o gosto varia de acordo com a proporção dos 
+                sucos com os quais ele é misturado. Se quiser um suco agridoce, 
+                recomendamos adicionar o Suco de Maçã, o Suco de Laranja e 
+                o Suco de Uva, nessa ordem. Para um suco mais doce, misture o Suco de Uva, 
+                o Suco de Maçã e o Suco de Laranja, nessa ordem. Experimente combinações diferentes 
+                desses quatro sucos para obter sabores novos e únicos. A mistura certa 
+                pode levar você a um novo mundo de sabores!

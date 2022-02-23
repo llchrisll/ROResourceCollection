@@ -1,0 +1,79 @@
+%faf0e6
+^000088Eu posso me tornar quase auto-suficiente se eu me especializar nos
+fundamentos de criação de poções…^000000
+
+----------------Prefácio--------------------
+
+A criação de poções é considerada um dos fundamentos essenciais da alquimia.
+Esta edição final detalha os procedimentos de criação de poções que
+permitirão que os alquimistas restaurem seu HP, SP, e até curem status
+negativos apenas usando poções que podem ser facilmente criadas!
+
+------------------------------------------
+
+O que é uma ^ff0000poção^000000?
+
+Uma poção é uma dosagem única de um líquido medicinal ou veneno. A maioria
+das poções são usadas como medicamento para restaurar HP ou SP,
+curar status negativos, ou temporariamente otimizar o corpo humano.
+Este livro contém instruções de como produzir poções vermelhas, amarelas,
+brancas e azuis, Analgésicos, Aloe Veras e Embriões.
+
+^0000ffPoção Vermelha^000000: Restaura 45 de HP.
+Materiais necessários: ^4b00821 Erva Vermelha, 1 Garrafa de Poção^000000 
+Procedimento: Triture a Erva Vermelha em uma Vasilha de Mistura, e adicione
+aos poucos água pura. Você precisa manter este livro com você como
+referência enquanto usar a habilidade Preparar Poção. Depois, desepeje
+a solução resultante em uma Garrafa de Poção.
+
+^800000Poção Amarela^000000: Restaura 175 de HP.
+Materiais necessários: ^4b00821 Erva Amarela, 1 Garrafa de Poção^000000 
+Procedimento: Triture a Erva Amarela em uma Vasilha de Mistura, e adicione
+aos poucos água pura. Você precisa manter este livro com você como
+referência enquanto usar a habilidade Preparar Poção. Depois, desepeje
+a solução resultante em uma Garrafa de Poção.
+
+
+^008040Poção Branca^000000: Restaura 325 de HP.
+Materiais necessários: ^4b00821 Erva Branca, 1 Garrafa de Poção^000000
+Procedimento: Triture a Erva Branca em uma Vasilha de Mistura, e adicione
+aos poucos água pura. Você precisa manter este livro com você como
+referência enquanto usar a habilidade Preparar Poção. Depois, desepeje
+a solução resultante em uma Garrafa de Poção.
+
+
+^ff8040Poção Azul^000000: Restaura 60 de SP.
+Materiais necessários: ^4b00821 Erva Azul, 1 Garrafa de Poção, 1 Scell^000000
+Procedimento: Triture a Erva Azul em uma Vasilha de Mistura, e adicione
+aos poucos água pura. Você precisa manter este livro com você como
+referência enquanto usar a habilidade Preparar Poção. Depois, desepeje
+a solução resultante em uma Garrafa de Poção.
+
+^400080Analgésico^000000: Um remédio usado para aliviar a dor.
+Materiais necessários: ^4b00821 Álcool, 1 Garrafa Vazia, 1 Menta^000000
+Procedimento: Triture a Menta em uma Vasilha de Mistura, e adicione aos
+poucos água pura e o álcool. Você precisa manter este livro com você como
+referência enquanto usar a habilidade Preparar Poção. Depois, desepeje a
+solução resultante em uma Garrafa de Poção.
+
+^008040Aloe Vera^000000: Temporariamente otimiza o seu ataque, ao custo
+de reduzir sua defesa. 
+Materiais necessários: ^4b00821 Alóes, 1 Garrafa Vazia, 1 Mel^000000
+Procedimento: Despeje o Mel e o Alóes em uma Vasilha de Mistura e misture
+a composição. Adicione vagarosamente uma pequena quantidade de água pura
+enquanto continua a misturar. Se você achar que está faltando Alóe neste
+procedimento, então pense cuidadosamente o porquê de você ser um alquimista,
+e o que você pode fazer com a alquimia (a resposta correta seria pular
+ingredientes). Você precisa manter este livro com você como referência
+enquanto usar a habilidade Preparar Poção. Depois, desepeje a solução
+resultante em uma Garrafa Vazia.
+
+^ff0000Embrião^000000: A base da vida alquímica, e o item necessário para
+criar um Homunculus.
+Materiais necessários: ^4b00821 Orvalho da Yggdrasil, 1 Semente da Vida,
+1 Cápsula de Criação^000000 
+Procedimento: Misture o Orvalho de Yggdrasil e a Semente da Vida em uma
+Vasilha de Mistura e use a a habilidade Preparar Poção. Despeje o resultado
+na Cápsula de Criação, onde o embrião será formado. Você deve estudar
+Bioética para poder criar o embirão. Esteja bem ciente dos perigos que
+estão associados à criação de Homunculus.

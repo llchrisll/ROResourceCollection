@@ -1,0 +1,32 @@
+%faf0e6
+^000088Princípios Básicos da Alquimia: Garrafa de Fogo Grego^000000
+
+----------------Prefácio--------------------
+
+O livro que detalha a produção de Álcool foi utilizado de diversas formas
+pela população assim que tiveram acesso a ele. Os militares incorporaram
+a produção de Álcool no processo de desenvolvimento de
+Garrafa de Fogo Grego, cujo processo de produção é detalhado neste livro.
+Garrafas de Fogo Grego foram desenvolvidas pelos militares: esta
+informação é considerada altamente perigosa. Então, por favor, não discuta
+o conteúdo deste livro em público em nome da prevenção de desastres
+similares ao fiasco do Álcool.
+
+------------------------------------------
+
+O que é a ^0000ffGarrafa de Fogo Grego^000000?
+
+Resumidamente, uma Garrafa de Fogo Grego
+é uma garrafa que contém combustível.
+
+Ingredientes: ^4b00821 Álcool, 1 Tecido, 1 Garrafa Vazia^000000
+
+Instruções: 
+Coloque o Álcool cuidadosamente em um recipiente e deixe-o exposto ao ar
+para que ele oxide. Encha uma garrafa vazia com o álcool oxidado e então
+coloque o Tecido na mesma até que metade dele esteja submerso no Álcool
+e a outra metade esteja fora da garrafa. Faça um nó no Tecido próximo ao
+gargalo da garrafa para garantir que Álcool não vai vazar.
+Mantenha este livro sobre suas posses como referência
+enquanto você coleta os ingredientes e use a Habilidade de Criar Poções
+para que você crie a Garrafa de Fogo Grego.

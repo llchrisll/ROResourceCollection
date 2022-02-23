@@ -2,20 +2,20 @@
 <monster_talk_table>			
 	<poring>		
 		<hungry>	
-			<feeding>Hmm, gostei do aperitivo, mas e o prato principal?</feeding>
-			<feeding>V-você só vai me dar isso de comida?</feeding>
+			<feeding>Hmm, gostei do aperitivo~</feeding>
+			<feeding>Quem diria que comida alimenta?</feeding>
 			<feeding>Desculpe, mas mamãe disse para não aceitar nada de estranhos.</feeding>
 			<feeding>Você está tentando me subornar? Bem, funcionou! *gulp*</feeding>
-			<feeding>O que é esse cheirinho gostoso..? Mmm! COMIDA!	</feeding>
-			<hunting>Esse monstro e comestível?</hunting>
-			<hunting>Não se preocupe! Não vou deixar novatos roubarem nada! Vou "salvar" todos os seus itens! Muhahaha!</hunting>
+			<feeding>O que é esse cheirinho gostoso..? Hmm! COMIDA!	</feeding>
+			<hunting>Esse monstro é comestível?</hunting>
+			<hunting>Não se preocupe! Não vou deixar novatos roubarem nada! Vou salvar todos os seus itens! Muhahaha!</hunting>
 			<hunting>Ooops, não aguentei e acabei comendo todos esses itens!</hunting>
 			<hunting>Por que você está matando todos esses monstros? </hunting>
-			<danger>O que será que vai aparecer, o que será que vai aparecer, o que será que vai aparecer?!?</danger>
-			<danger>Não se preocupe comigo, acho que -você- precisa de comida!</danger>
+			<danger>O que será que vai acontecer?!?</danger>
+			<danger>Não se preocupe comigo, acho que VOCÊ precisa de comida!</danger>
 			<danger>Quem mandou roubar todas as maçãs?</danger>
 			<danger>Quer uma maçã?</danger>
-			<danger>Se eu curar você, você me alimenta?</danger>
+			<danger>Se eu pudesse te ajudar, você me alimentaria?</danger>
 			<danger>Tá na hora de uma poção, não?</danger>
 			<dead>Agora você vai dizer que foi culpa minha né?</dead>
 			<dead>Ei, esse não é um lugar seguro para cochilar...</dead>
@@ -27,7 +27,7 @@
 			<stand>Ainda to com fome!</stand>
 			<stand>Você deveria sentar, você parece estar com cansaço.</stand>
 			<stand>Se eu deixar você sentar em mim, você me daria algo de comer?</stand>
-			<stand>Todos os outros bichos de estimacão estão comendo... *snif*</stand>
+			<stand>Todos os outros mascotes estão comendo... *snif*</stand>
 			<stand>Rrrrrr... Rrrrrrr.... meu estômago está roncando!</stand>
 			<stand>Você precisa descansar, eu entendo, mas não dá para rolar um rango para mim?</stand>
 			<connect>Oi!!! Você me trouxe algo de comer?</connect>
@@ -35,26 +35,34 @@
 			<connect>E aí, camarada?</connect>
 			<connect>Já voltou da feira? O que você trouxe para mim?</connect>
 			<connect>ME ALIMENTE! ME ALIMENTE!</connect>
-			<connect>Olá! Agora me alimente!!! você não me dá comida faz... 84 anos...</connect>
+			<connect>Olá! Agora me alimente!!! Você não me dá comida faz... 84 anos...</connect>
 			<levelup>Que sorte...</levelup>
 			<levelup>Bom trabalho! já me sinto em segurança!</levelup>
 			<levelup>Assim você pode me descolar comida melhor.</levelup>
 			<levelup>Já? Você deve estar brincando... eu nem cheguei a ganhar nível em toda minha vida de poring!</levelup>
 			<levelup>Você está mais forte agora, então... me alimente!!!</levelup>
+			<perfor_1>	Rááá! Assustei?	</perfor_1>
+			<perfor_1>	Tá olhando o quê?!	</perfor_1>
+			<perfor_2>	Eeeeeeeeeeeeee!	</perfor_2>
+			<perfor_2>	Nya~ Nya~	</perfor_2>
+			<perfor_3>	Eu amo jellopy~	</perfor_3>
+			<perfor_3>	Poing~ Poing~ Poing~	</perfor_3>
+			<perfor_s>	Uhulll... Uhull...	</perfor_s>
+			<perfor_s>	Heheh... hihihi...	</perfor_s>							   
 		</hungry>	
 		<bit_hungry>	
 			<feeding>Valeu... mas eu quero mais!</feeding>
 			<feeding>Mmm.. valeu!</feeding>
-			<feeding>Uau. o que foi que eu fiz para merecer... Uma maçã ainda verde?</feeding>
-			<feeding>Ei... estou com mais com fome...</feeding>
+			<feeding>Uau! O que foi que eu fiz para merecer tanta comida?</feeding>
+			<feeding>Ei... estou com fome...</feeding>
 			<feeding>Mmm... isso veio bem a calhar!</feeding>
 			<hunting>Esse monstro carrega comida?</hunting>
-			<hunting>Tô com foooooome.. posso procurar comida por aqui?</hunting>
+			<hunting>Tô com foooooome... Posso procurar comida por aqui?</hunting>
 			<hunting>Não se preocupe, vou tentar distrair esse monstro! Sou tão fofinho que ninguém vai resistir à mim.</hunting>
 			<hunting>Esse dano tá monstro, hein?</hunting>
 			<danger>Não me diga que você vai morrer justo quando eu estou com fome...</danger>
 			<danger>Você está com ferimentos! Tente se curar!</danger>
-			<danger>Rápido! me joga um pouco de comida! Dai eu não vou morrer de fome enquanto você corre de volta aqui depois de reaparecer!</danger>
+			<danger>Rápido! Me joga um pouco de comida! Daí eu não vou morrer de fome enquanto você corre de volta aqui depois de reaparecer!</danger>
 			<danger>Não se preocupe se você morrer, pois eu pegarei suas coisas.</danger>
 			<danger>Por favor, não morra! Ou pelo menos me mostre onde pegar comida.</danger>
 			<dead>Não achava que um monstro fracote assim poderia te matar...</dead>
@@ -70,13 +78,21 @@
 			<connect>Oi!!! Qual a sobremesa do dia?</connect>
 			<connect>Oooooi.. já está na hora do lanche?</connect>
 			<connect>Acabei de roubar algumas coisas.</connect>
-			<connect>Você atrásou 10 minutos para o café da manhã.</connect>
+			<connect>Você atrasou 10 minutos para o café da manhã.</connect>
 			<connect>Oba!!! Podemos comer agora? Hmmm... Quero sorvete de jellopy!</connect>
 			<levelup>Estou começando a suspeitar que você manja disso...</levelup>
 			<levelup>Uau! Legal! Existe algum atributo chamado Comida?</levelup>
 			<levelup>Haha! Hoje você paga a conta!</levelup>
 			<levelup>Uhuuuul!!! Podemos celebrar com jellopy frito!!!</levelup>
 			<levelup>TOP!!!!! Lançou a braba! </levelup>
+			<perfor_1>	Rááá! Assustei?	</perfor_1>
+			<perfor_1>	Tá olhando o quê?!	</perfor_1>
+			<perfor_2>	Eeeeeeeeeeeeee!	</perfor_2>
+			<perfor_2>	Nya~ Nya~	</perfor_2>
+			<perfor_3>	Eu amo jellopy~	</perfor_3>
+			<perfor_3>	Poing~ Poing~ Poing~	</perfor_3>
+			<perfor_s>	Uhulll... Uhull...	</perfor_s>
+			<perfor_s>	Heheh... hihihi...	</perfor_s>		
 		</bit_hungry>	
 		<noting>
 			<feeding>Valeu, isso era justo o que eu precisava...</feeding>
@@ -108,7 +124,7 @@
 			<stand>Tédio!!! Bora cair no soco com alguém?!</stand>
 			<connect>Diga olá de novo!</connect>
 			<connect>Aiiieee!</connect>
-			<connect>É, eu odeio levar DC também.</connect>
+			<connect>...É, eu odeio levar DC também.</connect>
 			<connect>EBA! Agora podemos jogar Cham Cham Cham!</connect>
 			<connect>Vamos fazer algo divertido hoje!</connect>
 			<connect>Ei! Bom ver você novamente! Qual será a brincadeira de hoje?</connect>
@@ -117,6 +133,14 @@
 			<levelup>Outro nível? Pena que vai rolar um rollback no servidor daqui a 1 hora.</levelup>
 			<levelup>Uau! Asas! Como um anjo!</levelup>
 			<levelup>Você é TOPzeira!!!</levelup>
+			<perfor_1>	Rááá! Assustei?	</perfor_1>
+			<perfor_1>	Tá olhando o quê?!	</perfor_1>
+			<perfor_2>	Eeeeeeeeeeeeee!	</perfor_2>
+			<perfor_2>	Nya~ Nya~	</perfor_2>
+			<perfor_3>	Eu amo jellopy~	</perfor_3>
+			<perfor_3>	Poing~ Poing~ Poing~	</perfor_3>
+			<perfor_s>	Uhulll... Uhull...	</perfor_s>
+			<perfor_s>	Heheh... hihihi...	</perfor_s>			
 		</noting>	
 		<full>	
 			<feeding>Valeu, isso tava muito saboroso!</feeding>
@@ -154,15 +178,23 @@
 			<levelup>Você é demais, não há dúvida...</levelup>
 			<levelup>Tão forte! Incrível!</levelup>
 			<levelup>Um passo mais próximo da dominação total do servidor.</levelup>
-			<levelup>Iai!! você conseguiu! Ebaaaa!! Iippi!!</levelup>
+			<levelup>Yay!! você conseguiu! Ebaaaa!! Iippi!!</levelup>
 			<levelup>Faça a dança da vitória agora, mestre!</levelup>
+			<perfor_1>	Rááá! Assustei?	</perfor_1>
+			<perfor_1>	Tá olhando o quê?!	</perfor_1>
+			<perfor_2>	Eeeeeeeeeeeeee!	</perfor_2>
+			<perfor_2>	Nya~ Nya~	</perfor_2>
+			<perfor_3>	Eu amo jellopy~	</perfor_3>
+			<perfor_3>	Poing~ Poing~ Poing~	</perfor_3>
+			<perfor_s>	Uhulll... Uhull...	</perfor_s>
+			<perfor_s>	Heheh... hihihi...	</perfor_s>	
 		</full>	
 		<so_full>	
-			<feeding>Argh não!! não quero morrer de ataque cardiaco!</feeding>
-			<feeding>Mmnff.. m-manera no rango, eu imploro!</feeding>
+			<feeding>Argh não!! não quero morrer de ataque cardíaco!</feeding>
+			<feeding>Mmnff.. m-maneira no rango, eu imploro!</feeding>
 			<feeding>Me engordando para o abate, hein? To de olho em você....</feeding>
 			<feeding>Não estou me sentindo muito bem...</feeding>
-			<feeding>NãoOOO! Não QUERO MAIS! VOU EXPLODIR!</feeding>
+			<feeding>NãoOOO! NÃO QUERO MAIS! VOU EXPLODIR!</feeding>
 			<feeding>Ebaaaaa.... suco de maçã, tenho certeza que NUNCA comi isso antes.</feeding>
 			<hunting>*Arroto* ... se não descansarmos, acho que vou vomitar.</hunting>
 			<hunting>Meeestreee, podemos ir mais devagar? Estou passando mal...</hunting>
@@ -177,22 +209,227 @@
 			<dead>Tenho certeza que você estava quase matando o inimigo... quer dizer, todos aqueles números vermelhos de 5 dígitos sobre sua cabeça querem dizer que estávamos ganhando, né?</dead>
 			<dead>Eu te disse, eu te disse, eu te disse!!!</dead>
 			<dead> Bem, agora podemos descansar.</dead>
-			<stand>Você conhece um bom nutricionista?</stand>
+			<stand>Você conhece um jogador melhor que você?</stand>
 			<stand>Talvez eu deva consultar um médico... estou passando mal...</stand>
 			<stand>Vai com calma.</stand>
 			<stand>Você gosta de ficar de pé, hein?</stand>
 			<connect>Me cure. Me dê zeny. Roube-o. ....ops, estive falando com novatos enquanto você estava longe.</connect>
-			<connect>Olha, muitas pessoas me confundiram com um bebê selvagem... preciso emagrecer AGORA!!</connect>
+			<connect>Olha, muitas pessoas me confundiram com um bebê selvagem...!</connect>
 			<connect>Demais, você voltou... e aposto que quer ME ALIMENTAR DE NOVO, NÉ!?!</connect>
 			<connect>Vida real ficando chata de novo?</connect>
-			<connect>Olá! Começo minha dieta hoje?</connect>
-			<levelup>Muito bem... escolher uma habilidade. Me fazer perder peso, talvez?</levelup>
+			<connect>Olá! Que instância vamos hoje?</connect>
+			<levelup>Muito bem... escolher um atributo novo, talvez?</levelup>
 			<levelup>Pronto, você ganhou nível, podemos descansar agora?!</levelup>
 			<levelup>Você tá ganhando nível muito rápido... você é um bot, não!?!</levelup>
 			<levelup>Você não vai acreditar, eu tive um encontro romântico! Tô pegando mais que você!</levelup>
 			<levelup>Outro nível? Podemos ir para casa agora? Preciso descansar.</levelup>
+			<perfor_1>	Rááá! Assustei?	</perfor_1>
+			<perfor_1>	Tá olhando o quê?!	</perfor_1>
+			<perfor_2>	Eeeeeeeeeeeeee!	</perfor_2>
+			<perfor_2>	Nya~ Nya~	</perfor_2>
+			<perfor_3>	Eu amo jellopy~	</perfor_3>
+			<perfor_3>	Poing~ Poing~ Poing~	</perfor_3>
+			<perfor_s>	Uhulll... Uhull...	</perfor_s>
+			<perfor_s>	Heheh... hihihi...	</perfor_s>		
 		</so_full>	
-	</poring>		
+	</poring>
+	<mastering>
+
+		<hungry>
+			<feeding>	Hum... Estou com fome...	</feeding>
+			<feeding>	Oba! s2 Estava com fome! 	</feeding>
+			<feeding>	Comi muito bem s2 	</feeding>
+			<feeding>	Delícia! Queria mais~~	</feeding>
+			<feeding>	Estava com muita fome TT-TT	</feeding>
+			<hunting>	Poing~ Poing~ Posso comer os itens caídos?	</hunting>
+			<hunting>	Me dê um pouco mais de comida~ 	</hunting>
+			<hunting>	Poin~ Que legal! 	</hunting>
+			<hunting>	Está caçando comida?	</hunting>
+			<danger>	Cuidado...	</danger>
+			<danger>	Ah... você... está com dor? 	</danger>
+			<danger>	O que é esse líquido vermelho? 	</danger>
+			<danger>	Isso é punição por não me dar algo pra comer...	</danger>
+			<danger>	Esse roxo no seu braço não é beterraba!	</danger>
+			<danger>	O que há de errado com você?	</danger>
+			<dead>	Oh~~~~ Me perdoa~~~ 	</dead>
+			<dead>	Morreu....	</dead>
+			<dead>	Você 0 x 1 Chão!! 	</dead>
+			<dead>	Mozão......</dead>
+			<dead>	Bom... vou aproveitar para comer	</dead>
+			<stand>	Enquanto você contempla o imenso vazio, posso comer algo?	</stand>
+			<stand>	Carne, batata doce, uva, maçã... hmmm delícia.	</stand>
+			<stand>	Eu queria comer qualquer coisa agora TT-TT 	</stand>
+			<stand>	Estou com fome. 	</stand>
+			<stand>	O que você está fazendo?~~~~ 	</stand>
+			<stand>	Bora comer um rango?	</stand>
+			<stand>	Que tal pedir um AiComida? Estou com fome...	</stand>
+			<stand>	ODEIO estar com fome. 	</stand>
+			<connect>	Voltou por que esqueceu de me alimentar né?	</connect>
+			<connect>	Mozão! Veio me alimentar? 	</connect>
+			<connect>	s2 COMIDA s2 	</connect>
+			<connect>	Senti sua falta, mozão~!!	</connect>
+			<connect>	Mozão!!!	</connect>
+			<connect>	Ei, po	</connect>
+			<levelup>	E você voltou...	</levelup>
+			<levelup>	Pensei em você o dia todo! E em comida também! 	</levelup>
+			<levelup>	Nhaaaa~~ Você é uma fofura! 	</levelup>
+			<levelup>	Vai dar comida não?!	</levelup>
+			<levelup>	Odeio quem não cuida dos seus bichinhos de estimação!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Obrigado pela comida~	</feeding>
+			<feeding>	Comi bem!! ^^ 	</feeding>
+			<feeding>	Que delícia! Nham nham!	</feeding>
+			<feeding>	Saboroso!! Te amo.	</feeding>
+			<feeding>	Poing~ Poing~ Poing~ Gostoso!	</feeding>
+			<hunting>	Ah... Quando vejo um item no chão, eu quero comer.	</hunting>
+			<hunting>	Não fique só caçando, alimente também... 	</hunting>
+			<hunting>	Legal.	</hunting>
+			<hunting>	Você é fera!~	</hunting>
+			<danger>	Cuidado! Cuidadooo!	</danger>
+			<danger>	Me alimente primeiro e depois você morre!! 	</danger>
+			<danger>	Mozão !! Mozão !! Cuidadooo !!	</danger>
+			<danger>	Assim como eu, você precisa comer algo~	</danger>
+			<danger>	Mozão... Você perdeu a noção do perigo...	</danger>
+			<dead>	Mozão... Nãooo TT-TT	</dead>
+			<dead>	Caramba, eu preciso te reviver!! 	</dead>
+			<dead>	Eu não acredito...Mozão...Mozão....	</dead>
+			<dead>	Consegue se arrastar até uma Kafra?	</dead>
+			<dead>	Por que você foi lutar de barriga vazia?	</dead>
+			<stand>	Você também gosta de Jellopy? É tão gostoso!	</stand>
+			<stand>	Cansou? Senta em mim! 	</stand>
+			<stand>	Mozão... *barriga roncando*	</stand>
+			<stand>	Mozão~ Mozão, tá com fome?	</stand>
+			<stand>	Poing!	</stand>
+			<connect>	O menu de hoje é Jellopy Assado!	</connect>
+			<connect>	Mozão!!  Me alimente!! 	</connect>
+			<connect>	Ai que susto! Hoje você vai me dar comida?	</connect>
+			<connect>	Mozão chegou s2 Minha barriga sentiu sua falta.	</connect>
+			<connect>	Estou aqui! ^^	</connect>
+			<levelup>	Mozão! Parabéns!	</levelup>
+			<levelup>	Níveis mais altos garantem mais comida? 	</levelup>
+			<levelup>	Ahhh~ Que feliciade!	</levelup>
+			<levelup>	Parabéns, Mozão~	</levelup>
+			<levelup>	Vamos comer para comemorar~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Chomp~ Chomp~ Mastiguei uma comida gostosa!	</feeding>
+			<feeding>	Eu amei o almoço! ^^ 	</feeding>
+			<feeding>	COMIDAA !!	</feeding>
+			<feeding>	Hummm~ Geladinho!	</feeding>
+			<feeding>	Estava uma delícia! ^_^	</feeding>
+			<hunting>	Arrasou no dano, mozão!	</hunting>
+			<hunting>	Upar! Upar! 	</hunting>
+			<hunting>	Deixa um item no chão pra mim~	</hunting>
+			<hunting>	Minha habilidade é invocar vários Poring!	</hunting>
+			<hunting>	Eu sou um Poring bem grande, mas não mato isso aí não...	</hunting>
+			<hunting>	Uhuuul! Mortes...!	</hunting>
+			<danger>	Cuidado!! Não se arrisque tanto!! TT-TT	</danger>
+			<danger>	Mozão! Cuidado!! 	</danger>
+			<danger>	Rápido, beba alguma coisa!!~~~	</danger>
+			<danger>	Não prefere fazer uma pausa para se recuperar?	</danger>
+			<danger>	Ihhh !! Mozão!!!  Sangue.... Sangue!!... 	</danger>
+			<dead>	Eu vou chorar no seu funeral!! 	</dead>
+			<dead>	Mozão! Não morra!!	</dead>
+			<dead>	NÃAOOOOooooo...	</dead>
+			<dead>	Mozão? Não durma no chão... acorde...	</dead>
+			<dead>	Até parece que você vai pro céu!	</dead>
+			<stand>	Mozão, o Poring Noel existe? E o ArchAngeling também?	</stand>
+			<stand>	Vamos brincar de quê, Mozão? 	</stand>
+			<stand>	Ah~~ Saudades~	</stand>
+			<stand>	Você não vai jogar, Mozão?	</stand>
+			<stand>	Mozão!~	</stand>
+			<stand>	Uhuuul!! Uhuuul!! Uhuuul!!... Uhuuul!! Uhuuul!!....  Mozão!~ O que temos pra hoje?	</stand>
+			<connect>	Voltou pro vício, hein?	</connect>
+			<connect>	Ah! Olha só quem voltou! 	</connect>
+			<connect>	Reparou que eu estou aqui???	</connect>
+			<connect>	Mozão! Saudades de você~	</connect>
+			<connect>	Uhuuul!! Uhuuul!! Posso te dar um beijo?	</connect>
+			<connect>	Mozão~ Você está de voltaaa~ 	</connect>
+			<levelup>	Mozão~ Você está ficando mais forte.	</levelup>
+			<levelup>	Quanto poder!! 	</levelup>
+			<levelup>	Vivaaaa~	</levelup>
+			<levelup>	Bora upar mais!	</levelup>
+			<levelup>	Parabéns! ~ ^_^)=b	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Você sabia que eu explodo se comer demais?	</feeding>
+			<feeding>	Já estou cheio, mozão! 	</feeding>
+			<feeding>	Muita comida dentro de mim...	</feeding>
+			<feeding>	Dá pra parar? Já comi 100 vezes ^^	</feeding>
+			<feeding>	Delicioso... mas estou cheio heheh~ ^^	</feeding>
+			<hunting>	Vamos caçar para digerir a comida...	</hunting>
+			<hunting>	Vamos à caça! 	</hunting>
+			<hunting>	Mozão, como está a caça???	</hunting>
+			<hunting>	Você mata esses monstros com tanta facilidade! s2	</hunting>
+			<hunting>	Quem quer dar uma surra também? ~ ^.^)/	</hunting>
+			<danger>	Fuja! Corra! Se esconda!	</danger>
+			<danger>	Por favor, alguém ajuda o mozão! 	</danger>
+			<danger>	Aguenta firme! Eu vou cuspir uma maçã... Aaaaa</danger>
+			<danger>	Ai... Estou muito cheio para te ajudar~	</danger>
+			<danger>	Ainda bem que você trouxe poções, né~	</danger>
+			<dead>	Ressuscitar!! ....... Ugh... Não funcionou...	</dead>
+			<dead>	Ah não... TT-TT 	</dead>
+			<dead>	Buááá... Eu disse pra você ir com calma...	</dead>
+			<dead>	Uhuuul!! Uhuuul!! Também estou com sono, vamos dormir juntos?	</dead>
+			<dead>	Mozão~ Aquele monstro pegou o item que eu queria!	</dead>
+			<dead>	Eu quero vingançaaaaaaa~	</dead>
+			<stand> Que tal nos aventurarmos em alguma instância?	</stand>
+			<stand>	Será que um dia eu me tornarei um Angeling?	</stand>
+			<stand>	Por que parou?? 	</stand>
+			<stand>	Brincar~~ Brincar~~ Brincaaaaaar~~~	</stand>
+			<stand>	Uhuuul!! Poing~~~~ Poing!	</stand>
+			<connect>	Estava à sua espera~ ^^	</connect>
+			<connect>	Você está de volta! 	</connect>
+			<connect>	Mozão~~ Vamos caçaaaaar~~~~	</connect>
+			<connect>	Estava com saudades ^_^... 	</connect>
+			<connect>	Oi! Como foi a vida real? ^^	</connect>
+			<levelup>	*Faz o som da corneta do anjo* Parabéns~	</levelup>
+			<levelup>	Mais um nível!! 	</levelup>
+			<levelup>	Oiaaaa~~~·Mais um nível~~~ +_+	</levelup>
+			<levelup>	Nossa, quantos níveis existem??	</levelup>
+			<levelup>	Parabéns Mozão~	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Mozão... você quer me transformar em Muco Pegajoso?	</feeding>
+			<feeding>	Não posso comer mais, tá bom? 	</feeding>
+			<feeding>	Estou cheio... Estou passando mal...	</feeding>
+			<feeding> Me dê um tempo... Eu posso explodir se continuar...	</feeding>
+			<feeding>	Eu sou grande porque sou um Mastering, e não porque comi demais.	</feeding>
+			<feeding>	Pare de me torturar com comida!! ò.ó	</feeding>
+			<hunting>	Hora da pancadaria!! 	</hunting>
+			<hunting>	Eu também quero caçar...	</hunting>
+			<hunting>	Entre um monstro e outro, dê um descanso~	</hunting>
+			<hunting>	Vá devagar, estou rolando para te acompanhar!	</hunting>
+			<danger>	Mozão..... Cuidado...	</danger>
+			<danger>	Mozão... ALERTA VERMELHO!! 	</danger>
+			<danger>	Hora de usar aquele consumível!	</danger>
+			<danger>	Mozão?!... Isso é... Sangue... Urgh	</danger>
+			<dead>	Não consigo ouvir seus batimentos... Nasci sem ouvido...	</dead>
+			<dead>	Ahh! Alguém nos ajude!! 	</dead>
+			<dead>	Você cuidou demais de mim e esqueceu de si!	</dead>
+			<dead>	Você não trouxe nenhum amuleto?	</dead>
+			<dead>	Eu gostaria que você tivesse usado a comida que você me deu TT-TT	</dead>
+			<stand>	Ok, vamos fazer uma pausa para digerir a comida.	</stand>
+			<stand>	O que você tanto olha, hein? 	</stand>
+			<stand>	Olhem pra mim! Eu sou um Mastering!	</stand>
+			<stand>	O que está distraindo você?	</stand>
+			<connect>	Estou cheio e feliz~	</connect>
+			<connect>	Boas vindas!! 	</connect>
+			<connect>	Te esperei por muito tempo s2	</connect>
+			<connect>	Senti muito a sua falta, mozão.	</connect>
+			<levelup>	Eu gostaria de poder subir de nível também.	</levelup>
+			<levelup>	Upou! 	</levelup>
+			<levelup>	Quem manda aqui? VOCÊ!	</levelup>
+			<levelup>	Mozão~ Você é um sucesso~ 	</levelup>
+			<levelup>	Parabéns~ Falta muito para o nível máximo?	</levelup>
+		</so_full>
+
+	</mastering>	
 <LITTLE_PORING>			
 	<hungry>		
 		<feeding>Ao alimentar seu mascote, a lealdade aumenta também!</feeding>
@@ -315,8 +552,9 @@
 		<perfor_s>Brincar com um mascote não aumenta a lealdade!</perfor_s>
 	</so_full>		
 </LITTLE_PORING>
-	<drops>		
-		<hungry>	
+	<drops>
+
+		<hungry>
 			<feeding>Bom senso de tempo, hein!?!</feeding>
 			<feeding>Aaaah! Vou chamar a SRPCCM (Sociedade Real de Proteção Contra Crueldade a Monstros)</feeding>
 			<feeding>Hmmm... ainda tô com fome</feeding>
@@ -328,15 +566,24 @@
 			<danger>Você não fica bem de vermelho...</danger>
 			<dead>Argh! Se levante! Quem vai me alimentar agora!?!</dead>
 			<dead>Dormindo no serviço? Não é uma boa ideia...</dead>
-			<stand>Que tal andar um pouco? Exercício é bom para você!</stand>
+																	
 			<stand>Ahhh, vou morrer de fome!!!</stand>
 			<connect>Já tava na hora! Estou morrendo de fome aqui!</connect>
 			<connect>Bom dia! Ouvi dizer que os Drops ganham comida... *cutuca cutuca*</connect>
 			<levelup>Tá, beleza...</levelup>
 			<levelup>Coooomidaaaaaaa!!!</levelup>
-		</hungry>	
-		<bit_hungry>	
-			<feeding>É... Isso é tudo? Beleza...</feeding>
+			<perfor_1>	Hein? O que rolou?!	</perfor_1>
+			<perfor_1>	Que porcaria é essa?!	</perfor_1>
+			<perfor_2>	Quem me chamou?~	</perfor_2>
+			<perfor_2>	Alguém está falando de mim~	</perfor_2>
+			<perfor_3>	Hihihi~ Eu adorei~	</perfor_3>
+			<perfor_3>	Como esperado, você é incrível~	</perfor_3>
+			<perfor_s>	Hihihi todos estão mortos...	</perfor_s>
+			<perfor_s>	Vou aniquilar todo mundo...	</perfor_s>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>...É... Isso é tudo? Beleza...</feeding>
 			<feeding>*Engole*</feeding>
 			<feeding>Finalmente!!! Você finalmente está me tratando como uma mascote de verdade!</feeding>
 			<hunting>PARE DE CAÇAR!!! Droga! Estou com fome!</hunting>
@@ -357,43 +604,70 @@
 			<levelup>Legal! Você precisa ficar mais forte para ganhar mais comida!</levelup>
 			<levelup>Ueeeba!! Isso quer dizer que ganharei mais comida?</levelup>
 			<levelup>Oba! Não se esqueça de adicionar pontos de atributos - quer dizer, oba!</levelup>
-		</bit_hungry>	
+			<perfor_1>	Hein? O que rolou?!	</perfor_1>
+			<perfor_1>	Que porcaria é essa?!	</perfor_1>
+			<perfor_2>	Quem me chamou?~	</perfor_2>
+			<perfor_2>	Alguém está falando de mim~	</perfor_2>
+			<perfor_3>	Hihihi~ Eu adorei~	</perfor_3>
+			<perfor_3>	Como esperado, você é incrível~	</perfor_3>
+			<perfor_s>	Hihihi todos estão mortos...	</perfor_s>
+			<perfor_s>	Vou aniquilar todo mundo...	</perfor_s>
+		</bit_hungry>
+
 		<noting>
 			<feeding>Plantas podem não ser saborosas, mas elas certamente satisfazem!</feeding>
 			<feeding>Uau! Picante!</feeding>
 			<hunting>Ebaaaaa isso é legal! Diversão! Diversão!!</hunting>
 			<hunting>Mata! Mata!</hunting>
 			<danger>Uh-oh...</danger>
-			<danger>Uh-Oh! Talvez você queira ficar de olho na sua energia, pois ela não está subindo!</danger>
+			<danger>Uh-Oh! Talvez você queira ficar de olho no seu HP, pois ele não está subindo!</danger>
 			<dead>Não é sua culpa, acontece de vez em quando...</dead>
 			<dead>Ei, você tá legal? Você está aquecendo o chão?</dead>
 			<stand>Posso sentar? Ou estou sempre nessa posição?</stand>
 			<stand>E aí? Você vai fazer algo ou eu devo ir por conta própria?</stand>
 			<connect>Bom dia! ou Boa Tarde! ou Boa noite!</connect>
-			<connect>SIM!!!! você finalmente voltou, minhas preces foram atendidas!</connect>
+			<connect>SIM!!!! Você finalmente voltou, minhas preces foram atendidas!</connect>
 			<levelup>*dançando* Ebaaaaa!</levelup>
 			<levelup>D-E-M-A-I-S!!!!!!</levelup>
-		</noting>	
-		<full>	
+			<perfor_1>	Hein? O que rolou?!	</perfor_1>
+			<perfor_1>	Que porcaria é essa?!	</perfor_1>
+			<perfor_2>	Quem me chamou?~	</perfor_2>
+			<perfor_2>	Alguém está falando de mim~	</perfor_2>
+			<perfor_3>	Hihihi~ Eu adorei~	</perfor_3>
+			<perfor_3>	Como esperado, você é incrível~	</perfor_3>
+			<perfor_s>	Hihihi todos estão mortos...	</perfor_s>
+			<perfor_s>	Vou aniquilar todo mundo...	</perfor_s>
+		</noting>
+
+		<full>
 			<feeding>Valeu, mas não preciso disso agora...</feeding>
 			<feeding>Valeu, está muito gostoso, mas... PARE DE ME ALIMENTAR!!!</feeding>
-			<feeding>Não tô com fome, comi muito no almoço!</feeding>
+															
 			<hunting>Oooooohhh.. Itens demais para comer...</hunting>
 			<hunting>Uau! Comida espalhada por todos os lados! Legal!</hunting>
 			<hunting>Ei! De todos esses monstros... você gosta mais de mim, certo?</hunting>
 			<danger>OK, calma aí, não ligue para o sangue escorrendo da sua cabeça!!</danger>
-			<dead>Tsk,tsk,tsk, te espero no ponto de retorno.</dead>
+			<dead>Tsc, tsc, tsc, te espero no ponto de retorno.</dead>
 			<dead>Essa é uma longa caminhada de volta para a Kafra!</dead>
 			<dead>Bem, vamos começar a andar, tem um longo caminho pela frente...</dead>
-			<dead>Viu! você não pode matá-lo, eu te disse.</dead>
+														
 			<stand>O jantar foi legal... mas um pouco excessivo... Da próxima vez, me dê menos comida!</stand>
-			<stand>La la la la la...</stand>
+								   
 			<connect>Você voltou! Demais!!!</connect>
 			<connect>Ei, você tá aí!  Estava com saudades!</connect>
 			<levelup>Muito bem! *Emoticon de parabéns*</levelup>
 			<levelup>Ganhamos nível, Aeeee, timeeee!</levelup>
-		</full>	
-		<so_full>	
+			<perfor_1>	Hein? O que rolou?!	</perfor_1>
+			<perfor_1>	Que porcaria é essa?!	</perfor_1>
+			<perfor_2>	Quem me chamou?~	</perfor_2>
+			<perfor_2>	Alguém está falando de mim~	</perfor_2>
+			<perfor_3>	Hihihi~ Eu adorei~	</perfor_3>
+			<perfor_3>	Como esperado, você é incrível~	</perfor_3>
+			<perfor_s>	Hihihi todos estão mortos...	</perfor_s>
+			<perfor_s>	Vou aniquilar todo mundo...	</perfor_s>
+		</full>
+
+		<so_full>
 			<feeding>Você pode engolir essa sua comida...</feeding>
 			<feeding>O que você tá tentando fazer, me envenenar?</feeding>
 			<hunting>Nada de itens para mim hoje. Mal posso me mexer, ufff.</hunting>
@@ -408,9 +682,62 @@
 			<connect>Olá de volta!  Sentiu minha falta?</connect>
 			<levelup>Muito bem! Só não me dê nada de comer...</levelup>
 			<levelup>Parabéns!  *Arroto*</levelup>
-		</so_full>	
-	</drops>		
+			<perfor_1>	Hein? O que rolou?!	</perfor_1>
+			<perfor_1>	Que porcaria é essa?!	</perfor_1>
+			<perfor_2>	Quem me chamou?~	</perfor_2>
+			<perfor_2>	Alguém está falando de mim~	</perfor_2>
+			<perfor_3>	Hihihi~ Eu adorei~	</perfor_3>
+			<perfor_3>	Como esperado, você é incrível~	</perfor_3>
+			<perfor_s>	Hihihi todos estão mortos...	</perfor_s>
+			<perfor_s>	Vou aniquilar todo mundo...	</perfor_s>
+		</so_full>												   
+	</drops>
+	<dr_eggring>
 
+		<hungry>
+			<feeding>	Valeu! (Quero mais)	</feeding>
+			<dead>	TT-TT	</dead>
+			<stand>	Me dá um pouco de comida TT-TT 	</stand>
+			<levelup> Já que subiu de nível, se importaria de me alimentar?	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Agradecido s2	</feeding>
+			<dead>	Quem vai me alimentar agora...	</dead>
+			<stand>	Estou com fome ):	</stand>
+			<levelup>	Vamos COMERmorar!!	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Comi muito bem!	</feeding>
+			<dead>	Alguém! Por favor! Nos salve!!	</dead>
+			<stand>	.. E é daí que nasceram os Hodes...!	</stand>
+			<stand>	Vamos brincar de quê, hoje?	</stand>
+			<stand>	Se eu estiver em um lugar quente, posso virar um Ovo Frito!	</stand>
+			<levelup>	S U B I U  D E  N Í V E L ! 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Já tá bom de comida TT-TT	</feeding>
+			<dead>	Morreu mesmo? *cutuca*	</dead>
+			<stand>	Saudades do meu amigo Esporo de Água Doce...	</stand>
+			<stand>	Será que está olhando o armazém de novo?	</stand>
+			<stand>	Se eu estiver em um lugar frio, posso virar um Ovo Nevado!	</stand>
+			<stand>	Hehe~~  Hoje o dia está lindo~~	</stand>
+			<levelup>	Parabéns!!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Acho que não consigo comer mais nada TT-TT	</feeding>
+			<dead>	Vou emitir um sinal de fumaça!!	</dead>
+			<stand>	Por isso existe essa diferença entre Picky e Picky com Casca...	</stand>
+			<stand>	Qual é a boa de hoje?	</stand>
+			<stand>	Vamos fazer instâncias!!	</stand>
+			<stand>	Esse calor é capaz de fritar um ovo no chão~~	</stand>
+			<levelup>	Eu vi um anjo!!! Eu vi um anjo!!!	</levelup>
+		</so_full>
+
+	</dr_eggring>
 	<poporing>		
 		<hungry>	
 			<feeding>Valeu... não estou me sentindo bem.</feeding>
@@ -1003,25 +1330,25 @@
 		</so_full>	
 	</hunter_fly>		
 
-	<savage_babe>		
-		<hungry>	
+	<savage_babe>
+
+		<hungry>
 			<feeding>Só porque sou um bebê não quer dizer que eu não sei dizer que estou com FOME!</feeding>
-			<feeding>Isso não é o suficiente, você quer que eu fique ainda menor?</feeding>
-			<hunting>Se for algo gostoso... posso pegar para mim?</hunting>
 			<hunting>Não pise em mim!</hunting>
-			<danger>Tô com fome...</danger>
 			<danger>Isso não é bom...</danger>
-			<dead>Acho que você devia ter mais cuidado.</dead>
 			<dead>Deve ser karma por me deixar quase morrer de fome!</dead>
-			<stand>Meu estômago está roncando...</stand>
 			<stand>Você quer que eu fique menor para sempre? Me alimente!</stand>
 			<connect>Então, o que você tem para comer hoje?</connect>
-			<connect>Psiu, você quase apareceu na minha cabeça!</connect>
 			<levelup>Parabéns!</levelup>
-			<levelup>Gosto do seu estilo.</levelup>
-		</hungry>	
-		<bit_hungry>	
-			<feeding>Oinc, acho que ainda estou com fome...</feeding>
+			<perfor_1>	Pelos porcos!~	</perfor_1>
+			<perfor_1>	Oinc~	</perfor_1>
+			<perfor_2>	Hmm... Snif!!	</perfor_2>
+			<perfor_2>	Melzinho~ Yay!	</perfor_2>
+			<perfor_3>	Lalalalalala~	</perfor_3>
+			<perfor_3>	Vida longa~	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
 			<feeding>Assim é melhor, valeu!</feeding>
 			<hunting>Isso parece saboroso...</hunting>
 			<hunting>Me sinto quase forte o suficiente para brincar agora.</hunting>
@@ -1031,13 +1358,19 @@
 			<dead>Estou triste por causa de você!!!</dead>
 			<stand>Algo para comer seria muito bom agora...</stand>
 			<stand>Oinc, eu pareço menor perto de você.</stand>
-			<connect>Bem-vindo de volta! Que tal uma comidinha?</connect>
+			<connect>Olá de volta! Que tal uma comidinha?</connect>
 			<connect>Uhuuuu! Eu sabia que você ia aparecer hoje!</connect>
 			<levelup>Eba! Isso quer dizer que terei mais comida?</levelup>
 			<levelup>Uau, você está crescendo, como eu!</levelup>
-		</bit_hungry>	
+			<perfor_1>	Pelos porcos!~	</perfor_1>
+			<perfor_1>	Oinc~	</perfor_1>
+			<perfor_2>	Hmm... Snif!!	</perfor_2>
+			<perfor_2>	Melzinho~ Yay!	</perfor_2>
+			<perfor_3>	Lalalalalala~	</perfor_3>
+			<perfor_3>	Vida longa~	</perfor_3>
+		</bit_hungry>
+
 		<noting>
-			<feeding>Isso foi DEMAIS!</feeding>
 			<feeding>Delicioso, nutritivo! Sou um bebê saudável!</feeding>
 			<hunting>Deixe-me te ajudar!</hunting>
 			<hunting>Oinc! Não me chamam de selvagem à toa, sabe?</hunting>
@@ -1045,17 +1378,22 @@
 			<danger>Ahhh! Cura! Cura!</danger>
 			<dead>Por que você não se levanta? Você está com feridas?</dead>
 			<dead>Por que você não abre seus olhos? Estou tão triste...</dead>
-			<dead>Cuidado com o meu mestre, se você sabe o que e bom para você!</dead>
+			<dead>Cuidado mestre, se você sabe o que e bom para você!</dead>
 			<stand>Oinc!</stand>
 			<stand>Que belo dia... visto que nunca chove em Midgard.</stand>
 			<stand>Veja como somos demais!</stand>
-			<connect>Bem-vindo de volta! Oinc!</connect>
-			<connect>E um novo dia começa!</connect>
 			<connect>Legal! Eu te daria um abraço, mas mal alcanço seus tornozelos...</connect>
 			<levelup>Você é demais!</levelup>
-		</noting>	
-		<full>	
-			<feeding>Acho que estou comndo demais.</feeding>
+			<perfor_1>	Pelos porcos!~	</perfor_1>
+			<perfor_1>	Oinc~	</perfor_1>
+			<perfor_2>	Hmm... Snif!!	</perfor_2>
+			<perfor_2>	Melzinho~ Yay!	</perfor_2>
+			<perfor_3>	Lalalalalala~	</perfor_3>
+			<perfor_3>	Vida longa~	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>Acho que estou comendo demais.</feeding>
 			<hunting>Não ultrapasse seus limites!</hunting>
 			<danger>Cuidado! Você pode se machucar!</danger>
 			<dead>Folha de Yggdrasil... Alguém?</dead>
@@ -1064,20 +1402,106 @@
 			<stand>Tô a fim de tirar um cochilo...</stand>
 			<connect>É bom ver você de novo!</connect>
 			<levelup>Oiinnc Oinc! Em porquinhês, isso quer dizer PARABÉNS!</levelup>
-		</full>	
-		<so_full>	
+			<perfor_1>	Pelos porcos!~	</perfor_1>
+			<perfor_1>	Oinc~	</perfor_1>
+			<perfor_2>	Hmm... Snif!!	</perfor_2>
+			<perfor_2>	Melzinho~ Yay!	</perfor_2>
+			<perfor_3>	Lalalalalala~	</perfor_3>
+			<perfor_3>	Vida longa~	</perfor_3>
+		</full>
+
+		<so_full>
 			<feeding>Se você continuar me alimentando, vou explodir...</feeding>
 			<hunting>Podemos descansar? Acho que estou ruim...</hunting>
 			<danger>OINC, cuidado!</danger>
+			<danger>	SOS!! Alguém pra ajudar~ 	</danger>
+			<dead>	Morreu de morte morrida.	</dead>
 			<dead>Você deveria ter mais cuidado... Bem, pelo menos não precisa mais me alimentar.</dead>
 			<stand>Acho que preciso me sentar um pouco.</stand>
-			<stand>Preciso fazer uma dieta!</stand>
+			<stand>Preciso conhecer outros lugares!</stand>
 			<stand>Espero que um dia eu vire um Grande Selvagem! Não sei, apesar de tudo... eles são meio assustadores.</stand>
-			<connect>Bem-vindo de volta, e nem pense em me alimentar.</connect>
+			<connect>Voltou! E nem pense em me alimentar.</connect>
 			<levelup>Parabe--- urp... foi mal.</levelup>
-		</so_full>	
-	</savage_babe>		
+			<perfor_1>	Pelos porcos!~	</perfor_1>
+			<perfor_1>	Oinc~	</perfor_1>
+			<perfor_2>	Hmm... Snif!!	</perfor_2>
+			<perfor_2>	Melzinho~ Yay!	</perfor_2>
+			<perfor_3>	Lalalalalala~	</perfor_3>
+			<perfor_3>	Vida longa~	</perfor_3>
+		</so_full>
 
+	</savage_babe>	
+	<savage>
+
+		<hungry>
+			<feeding>	Eu posso comer mais ainda! 	</feeding>
+			<hunting>	Você não consegue me alimentar enquanto caça...	</hunting>
+			<danger>	Oinc Oinc~ Melhor não mexer com alguém mais forte que você.	</danger>
+			<dead>	Oinc Oinc Oinc... Estou com medo... 	</dead>
+			<stand>	Posso pegar um pouco de comida?	</stand>
+			<connect>	Oinc Oinc~ Agora que chegou, vamos comeeeeer~	</connect>
+			<levelup>	Tanta fome... Vou comer as penas daquele anjo...	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Oinc  Oinc  Oinc ~ Estava faminto!	</feeding>
+			<hunting>	Oinc Oinc ... Vamos upar e comer...	</hunting>
+			<hunting>	Saudades daqueles dias que eu mesmo caçava minha própria comida... 	</hunting>
+			<danger>	Oinc ~! Oinc ~! Estou preocupado~~ 	</danger>
+			<danger>	Oinc Oinc ~ Cuidado~~ 	</danger>
+			<dead>	Oinc Oinc ... E agora? 	</dead>
+			<dead>	Oinc Oinc ... Por favor, acorde... 	</dead>
+			<stand>	Oinc Oinc ... Eu não vou te seguir se não me alimentar!	</stand>
+			<stand>	Oinc Oinc ... Sinto falta de passear pelos campos...	</stand>
+			<connect>	Oinc Oinc ~ Me alimenteeee ~~	</connect>
+			<connect>	Oinc Oinc ~ Já que está aqui, que tal um rango?	</connect>
+			<levelup>	Oinc Oinc ~ Parabéns pelo nível novo!	</levelup>
+			<levelup>	Oinc Oinc ~ Ótimo! Mais comida para mim~~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Oinc Oinc ~ Delicioso!	</feeding>
+			<hunting>	Estou ajudando?	</hunting>
+			<hunting>	Só tenho tamanho, mas bichinhos de estimação não podem lutar...	</hunting>
+			<danger>	Cuidado! Vamos voltar para a cidade.	</danger>
+			<danger>	Você não trouxe nada para te ajudar?~	</danger>
+			<dead>	Oinc Oinc ~ Esse chão parece ser confortável~	</dead>
+			<dead>	Não existe nada que possa te salvar?~	</dead>
+			<dead>	Alguém... Por favor... Ajude a gente...	</dead>
+			<stand>	Eu comi bem e me tornei um Selvagem! Gostou?	</stand>
+			<stand>	Quando não me usam no hambúrguer, eu sou um ótimo bichinho de estimação!	</stand>
+			<stand>	Oinc Oinc ~ Procurando por algo?	</stand>
+			<connect>	Oinc Oinc !! Vamos brincar na floresta!!	</connect>
+			<levelup>	Finalmente uma recompensa!	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Eu sou um porco, mas não como tanto...	</feeding>
+			<hunting>	Você deveria ser profissional nisso!	</hunting>
+			<danger>	Eita! Rápido! Você não pode morrer aqui...	</danger>
+			<dead>	Uma boa hora para dormir~!	</dead>
+			<stand>	Eu como qualquer coisa, mas se for gourmet é melhor ainda.	</stand>
+			<stand>	Sempre é bom ficar do seu lado~	</stand>
+			<stand>	Tenho saudades, às vezes, de ser um Bebê Selvagem...	</stand>
+			<connect>	Oinc~ Onde você estava o dia todo?! Oinc Oinc Oinc ~	</connect>
+			<levelup>	Uau! Mais um nível! 	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Heheh... Eu não quero mais comer, eu já sou um porco~!	</feeding>
+			<hunting>	Oinc ... Podemos parar? Estou muito cheio...	</hunting>
+			<danger>	Oinc Oinc ... Cuidado 	</danger>
+			<danger>	Se eu vomitar minha comida, você usa como poção de regeneração? Oinc ~ 	</danger>
+			<dead>	Oinc ... Mas já morreu?	</dead>
+			<dead>	Deitar é uma boa ideia... Vamos deitar... Oinc ..	</dead>
+			<stand>	Oinc Oinc .. Estou cheio...	</stand>
+			<stand>	Quero dormir...	</stand>
+			<stand>	Existe alguma coisa que eu possa fazer para te agradar?	</stand>
+			<connect>	Oinc ~ Você voltooooou~	</connect>
+			<levelup>	Agora que upou, vamos descansar.	</levelup>
+		</so_full>
+
+	</savage>
 	<desert_wolf_babe>		
 		<hungry>	
 			<feeding>Eu estava começando a gostar do gosto da terra...</feeding>
@@ -2240,102 +2664,146 @@ Mulher orc definitivamente gostar de mim!	</stand>
 	</munak>		
 					
 					
-	<dokebi>		
-					
-		<hungry>	
+	<dokebi>
+
+		<hungry>
 			<feeding>Bem, já estava na hora!	</feeding>
 			<feeding>Yum.. garotos em fase de crescimento como eu precisam de muita comida.	</feeding>
 			<hunting>Me avise se passarmos por uma lanchonete...	</hunting>
 			<hunting>Vamos torcer para que ele derrube carne para mim! 	</hunting>
-			<danger>Parece que você está se sentindo como eu agora!	</danger>
             <danger>FUJA!!! </danger>
 			<dead>Bem feito! Melhor me alimentar da proxima vez.	</dead>
 			<dead>Levante-se! Tá na hora de jantar... não dormir!</dead>
-            <dead>Vou fazer a danca da tristeza agora...</dead>
 			<stand>Estamos parados aqui porque estou com fome demais para me mexer.	</stand>
-			<stand>Vamos até aquele acougue.</stand>
-			<stand>Não, essa é a cor verdadeira do meu cabelo!</stand>
-			<connect>Senti sua falta... quase tanto quanto senti falta da minha ultima refeicao.</connect>
 			<connect>Achei que você tinha dito BRB! Estava com tanta fome...</connect>
-			<connect>Ainda bem que você voltou, espero que tenha trazido comida com você.	</connect>
 			<levelup>Finalmente! Podemos comer agora!?!	</levelup>
-            <levelup>Espero ser tão forte quanto você algum dia!</levelup>
-		</hungry>	
-					
-		<bit_hungry>	
-			<feeding>Odin abencoe e passe o catchup!	</feeding>
-          <feeding>Gostoso, gostoso, gostoso. </feeding>
-          <hunting>Que tal uma pausa para piquenique?</hunting>
-          <hunting>Shhhhhh, não faca barulho...</hunting>
-			<hunting>Espero que você esteja procurando um restaurante.	</hunting>
+			<perfor_1>	Nham Nham... Uoaaaaa~	</perfor_1>
+			<perfor_1>	Abaixar~ Abaixar~ Abaixar~~	</perfor_1>
+			<perfor_2>	Que venha o ouro... Ai!!!	</perfor_2>
+			<perfor_2>	Awww abaixar!!	</perfor_2>
+			<perfor_3>	Cheguei rápido... Ué?!	</perfor_3>
+			<perfor_3>	Veio rápido... ?	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>Odin abençoe e passe o katchup!	</feeding>
+			<hunting>Que tal uma pausa para piquenique?</hunting>
 			<danger>Se você for comer algo agora, que tal dividir?	</danger>
 			<dead>Ja que vamos voltar para a cidade... que tal um rango?	</dead>
-          <dead>So cachorros se fingem de mortos! </dead>
-           <stand>Acho que o acougue e por ali.</stand>
-            <stand>Vamos fumar um cachimbo da paz!</stand>
 			<stand>Você ouviu esse barulho? Ah! Foi só o meu estômago.	</stand>
-			<connect>Bem-vindo de volta! Tem uma loja de comida em Prontera! Vamos lá!	</connect>
-           <connect>Ola.. vamos pegar um ensopado de Poring. </connect>
-           <connect>HOHOHO, Ai vem o cara que precisa me alimentar!</connect>
+			<connect>HOHOHO, chegou quem vai me dar comida!</connect>
 			<levelup>Ver você ganhar nível me deixa com fome...	</levelup>
-		</bit_hungry>	
-					
-				<noting>
-			<feeding>Eu PODERIA comer... mas estou bem.	</feeding>
-           <feeding>Espero que isso seja Eggyra frita!</feeding>
-           <feeding>Saboroso.</feeding>
-			<hunting>Uh oh! você ouviu isso?	</hunting>
-          <hunting>Vou cutuca-los com meu chifre!</hunting>
-			<danger>Cuidado! Cuidado! Ele está vindo de novo!	</danger>
-			<dead>Levanta esse traseiro, rapaz!	</dead>
-			<stand>Quais sao os planos? Vamos nessa?	</stand>     
+			<perfor_1>	Nham Nham... Uoaaaaa~	</perfor_1>
+			<perfor_1>	Abaixar~ Abaixar~ Abaixar~~	</perfor_1>
+			<perfor_2>	Que venha o ouro... Ai!!!	</perfor_2>
+			<perfor_2>	Awww abaixar!!	</perfor_2>
+			<perfor_3>	Cheguei rápido... Ué?!	</perfor_3>
+			<perfor_3>	Veio rápido... ?	</perfor_3>
+		</bit_hungry>
+
+		<noting>
+			<feeding>Espero que isso seja Magnólia frita!</feeding>
+			<hunting>Vou cutucá-los com meu chifre!</hunting>
+			<danger>Cuidado! Cuidado! Ele está vindo de novo!</danger>
+			<dead>Levanta esse traseiro, viajante!	</dead>
+			<stand>Quais são os planos? Vamos nessa?</stand>
 			<stand>Vamos visitar Eggyra!</stand>
-           <stand>Somoes melhores amigos, que felicidade!</stand>
-			<connect>E ai, mano?	</connect>
-			<levelup>Você e O cara!	</levelup>
-          <levelup>OoOoOoO você está crescendo!</levelup>
-		</noting>	
-					
-		<full>	
-			<feeding>E, beleza, valeu, to numa boa.	</feeding>
-          <feeding>Ja deu... vou ficar rechonchudo. </feeding>
-			<hunting>Cade o banheiro, cara?	</hunting>
-			<hunting>Deveriamos tirar um cochilo. 	</hunting>
-			<hunting> Eu sei vudu!</hunting>
-			<hunting>Você acha que o Baphomet existe? Aposto que posso enfrenta-lo!	</hunting>
-			<danger>AH! Corre! Corre, garoto!</danger>
-           <danger>Se esconda atrás de mim... eu te salvarei!</danger>
-			<dead>Tolo!	</dead>
-          <dead>Eu juro que vingarei sua morte.</dead>
-          <dead>Você vai para o campo de caca do ceu...</dead>
+			<connect>Oi meu chapa!</connect>
+			<levelup>OoOoOoO você está crescendo!</levelup>
+			<perfor_1>	Nham Nham... Uoaaaaa~	</perfor_1>
+			<perfor_1>	Abaixar~ Abaixar~ Abaixar~~	</perfor_1>
+			<perfor_2>	Que venha o ouro... Ai!!!	</perfor_2>
+			<perfor_2>	Awww abaixar!!	</perfor_2>
+			<perfor_3>	Cheguei rápido... Ué?!	</perfor_3>
+			<perfor_3>	Veio rápido... ?	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>Já deu... vou ficar rechonchudo.</feeding>
+			<hunting>Cadê o banheiro?	</hunting>
+			<hunting>Deveríamos tirar um cochilo. 	</hunting>
+			<hunting>Eu sei voodu!</hunting>
+			<hunting>Você acha que o Bafomé existe? Aposto que posso enfrentá-lo!	</hunting>
+			<danger>Se esconda atrás de mim... eu te salvarei!</danger>
+			<dead>Eu juro que vingarei sua morte.</dead>
 			<stand>Vamos para algum lugar divertido!	</stand>
 			<stand>Oh, e esse tempo todo eu achei que você era meu animal de estimação!</stand>
-			<stand>Onde você esteve toda minha vida, gatinha?	</stand>
-			<stand>.........................................Huh?	</stand>
-			<connect>E ai, sangue-bom?	</connect>
-          <connect>Aha! Então era ai que você estava se escondendo.</connect>
-          <connect>Onde você estava?</connect>
+			<stand>Onde você esteve toda minha vida, gracinha?	</stand>
+			<stand>.........................................Hã?	</stand>
+			<connect>Onde você estava?</connect>
 			<levelup>Aeeeeeeeeeee. muito bem!	</levelup>
-           <levelup>*Suspiro* Eu ainda lembro quando você era desse tamaninho...</levelup>
-		</full>	
-					
-		<so_full>	
-			<feeding>Saia da minha frente! Qual e o seu problema?	</feeding>
-          <feeding> Pode comer você... eu já estou cheio. </feeding>
-			<hunting>Cara, preciso perder alguns quilos.	</hunting>
-			<danger>Você está por conta própria. Estou muito gordo para ajudar.	</danger>
-			<dead>E, to contigo e não abro. Vamos tirar um cochilo.	</dead>
-          <dead>Ja ta na hora de deitar? Acho que vou dormir Também.</dead>
+			<perfor_1>	Nham Nham... Uoaaaaa~	</perfor_1>
+			<perfor_1>	Abaixar~ Abaixar~ Abaixar~~	</perfor_1>
+			<perfor_2>	Que venha o ouro... Ai!!!	</perfor_2>
+			<perfor_2>	Awww abaixar!!	</perfor_2>
+			<perfor_3>	Cheguei rápido... Ué?!	</perfor_3>
+			<perfor_3>	Veio rápido... ?	</perfor_3>
+		</full>
+
+		<so_full>
+			<feeding>Pode comer você... eu já estou cheio. </feeding>
+			<hunting>Eu preciso REALMENTE desentupir...</hunting>
+			<danger>Você está por conta própria. Estou muito cheio para ajudar.	</danger>
+			<dead>Eu tô contigo e não abro. Vamos tirar um cochilo.	</dead>
 			<stand>*Arroto* desculpe *Arroto* desculpe *Arroto*	</stand>
-			<stand>Você acha que sou uma crianca? Eu sou mais velho que você! 	</stand>
-			<connect>Ah cara! De novo, não! Preciso dar um tempo!	</connect>
-          <connect>Eu tava indo malhar um pouco...</connect>
+			<stand>Você acha que sou uma criança? Eu sou mais velho que você! 	</stand>
+			<connect>Eu tava indo malhar um pouco...</connect>
 			<levelup>Que bom para você - podemos ir para casa agora?	</levelup>
-          <levelup>Eu saltaria de felicidade, mas estou com dor de barriga.</levelup>
-		</so_full>	
-					
-	</dokebi>		
-					
+			<perfor_1>	Nham Nham... Uoaaaaa~	</perfor_1>
+			<perfor_1>	Abaixar~ Abaixar~ Abaixar~~	</perfor_1>
+			<perfor_2>	Que venha o ouro... Ai!!!	</perfor_2>
+			<perfor_2>	Awww abaixar!!	</perfor_2>
+			<perfor_3>	Cheguei rápido... Ué?!	</perfor_3>
+			<perfor_3>	Veio rápido... ?	</perfor_3>
+		</so_full>
+
+	</dokebi>	
+	<am_mut>
+
+		<hungry>
+			<feeding>	Ah~ O gosto é ótimo~~	</feeding>
+			<dead>	Uau !!	</dead>
+			<stand>	Não sei fazer coxinha de frango!	</stand>
+			<levelup>	Suba de nível e me alimente!!!!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Essa comida caiu muito bem!	</feeding>
+			<dead>	Ei! Antes de ir pro inferno, me diga onde deixou a comida -_-.. 	</dead>
+			<stand>	Eu estou com fome... e não estou vendo comida...	</stand>
+			<levelup>	Parabéns~ Vamos pedir uma pizza?	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	*Chomp Chomp*	</feeding>
+			<dead>	Faleceu	</dead>
+			<stand>	Vamos lá!! 100 Abdominais!! 100 Polichinelos!! 100 Saltos!!	</stand>
+			<stand>	Uau... Fiquei lembrando de quando eu era um Dokebi!	</stand>
+			<stand>	Eu sou um Super Herói! Gostou da minha capa? 	</stand>
+			<levelup>	Mais um nível!!  	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Já estou cheio, pare com isso.	</feeding>
+			<dead>	Faleceu	</dead>
+			<stand>	Vamos lá!! 100 Abdominais!! 100 Polichinelos!! 100 Saltos!!	</stand>
+			<stand>	Uau... Fiquei lembrando de quando eu era um Dokebi!	</stand>
+			<stand>	Eu sou um Super Herói! Gostou da minha capa? 	</stand>
+			<stand>	Super Am Mut! Ao resgate~~	</stand>
+			<levelup>	Que alegria!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Eu vou EXPLODIIIIIIIIIIIIIIR! 	</feeding>
+			<dead>	Faleceu	</dead>
+			<stand>	Vamos lá!! 100 Abdominais!! 100 Polichinelos!! 100 Saltos!!	</stand>
+			<stand>	Uau... Fiquei lembrando de quando eu era um Dokebi!	</stand>
+			<stand>	Eu sou um Super Herói! Gostou da minha capa? 	</stand>
+			<stand>	Super Am Mut! Ao resgate~~	</stand>
+			<levelup>	Que alegria!	</levelup>
+		</so_full>
+
+	</am_mut>						
 					
 	<sohee>		
 					
@@ -2448,130 +2916,176 @@ Mulher orc definitivamente gostar de mim!	</stand>
 	</sohee>		
 					
 					
-	<isis>		
-					
-		<hungry>	
-			<feeding>Apetitossssso...	</feeding>
-          <feeding>Meu mestre atrásssssado, Osiris nunca me deixou com tanta fome, sssabia?</feeding>
-           <feeding>E diet? Ahhh... quem sssse importa? Essstou esssfomeada!</feeding>
+	<isis>
+
+		<hungry>
+			<feeding>Meu mestre atrasssssado, Osíris nunca me deixou com tanta fome, sssabia?</feeding>
 			<feeding>Hsss- Deliciossso! Pode mandar maissss!	</feeding>
 			<feeding>Obrigada pelo aperitivo...	</feeding>
-			<hunting>Então, e assssim que vou ganhar comida agora?	</hunting>
-			<hunting>Torco para que você tenha comida para mim, ssssenão você ssssera isssca de cobra!	</hunting>
-         <hunting>Você está essssfomeado E deixando o trabalho duro para mim?  Osiris não esssta feliz.</hunting>
+			<hunting>Torço para que você tenha comida para mim, ssssenão você sssserá isssca de cobra!	</hunting>
+			<hunting>Esstou  essssfomeada!  Osíris não essstá feliz.</hunting>
 			<hunting>Pare de gassstar ssseu tempo.	</hunting>
-			<danger>Oops, parece que você precisa de ajuda.	</danger>
-            <danger>Me alimente antesss que sssua horrivel morte te consssuma.</danger>
-          <danger>Você não ssssabe o que esssta fazendo, não?</danger>
-          <danger>Minha magia sssera inútil ssse você não me alimentar.</danger>
+			<danger>Minha magia sssera inútil ssse você não me alimentar.</danger>
 			<dead>Você deveria penssssar mais em me alimentar.	</dead>
-			<dead>E assssim que todosss elesss terminam. 	</dead>
-          <dead>Mande minhasss lembrancasss para Osiris... e peca para que ele envie comida para mim.</dead>
-			<dead>Melhor vender meu "colar" por comida... te vejo na cidade!!!	</dead>
+			<dead>E é assssim que todosss elesss terminam. 	</dead>
+			<dead>Mande minhasss lembrancasss para Osíris... e peça para que ele envie comida para mim.</dead>
 			<stand>Algumasss pesssssoassss parecem... apetitosssassss...	</stand>
-          <stand>Olhe para mim. Estou tão magra que minha coxassss nem se encosssstam. Oh, esssspere, não tenho coxassss, essssquece. ^_^;</stand>
-			<stand>O que você esssta fazendo? Pare de enrolar ou vou comer aquele acolito!	</stand>
-			<connect>Bem-vindo de volta. Que tal comer agora?	</connect>
+			<stand>O que você essstá fazendo? Pare de enrolar ou vou comer aquele noviço!	</stand>
+			<connect>SSSaudaçõess. Que tal comer agora?	</connect>
 			<connect>Você chegou! *olha profundamente nos seus olhos*	</connect>
-          <connect>Os meusss ssservos chegaram para me ssservir? Oh... e sssso você...</connect>
-			<levelup>tão forte... Esssta na hora de comprar comida, não?</levelup>
-          <levelup>Oh... basssstante carne em você...</levelup>
-          <levelup> você não e maissss forte que eu.</levelup>
-		</hungry>	
-					
-		<bit_hungry>	
+			<levelup>Oh... basssstante carne em você...</levelup>
+			<perfor_1>	Hoje... ssserei livre...	</perfor_1>
+			<perfor_1>	Cabelinho macio~	</perfor_1>
+			<perfor_1>	Eu fizzz gelatina~	</perfor_1>
+			<perfor_2>	Você curte fisssiculturissmo?~	</perfor_2>
+			<perfor_3>	Fazendo a rotina de sssskin care~	</perfor_3>
+			<perfor_3>	Eu... sssou preciosssa.	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
 			<feeding>Então você lembrou? Essstou feliz.	</feeding>
-			<feeding>Mmmm... isssso e quassse ssssatisssfatorio...	</feeding>
+			<feeding>Mmmm... isssso é quassse ssssatisssfatório...	</feeding>
 			<feeding>Obrigada por me alimentar tão bem. 	</feeding>
-			<hunting>*risada* Com sua forca, estarei melhor em pouco tempo.	</hunting>
-			<hunting>Esssstou com vontade de comer file mignon de Peco Peco.	</hunting>
-			<hunting>Ainda não essstou em condicoes de me exercitar...	</hunting>
+			<hunting>*risada* Com sua força, estarei melhor em pouco tempo.	</hunting>
+			<hunting>Esssstou com vontade de comer PecoPeco.	</hunting>
+			<hunting>Ainda não essstou em condições de me exercitar...	</hunting>
 			<danger>Por favor, não morra... tenho tantas coissssasss para te contar!	</danger>
-			<danger>Você está ficando melhor nissssso?	</danger>
-            <danger> Ei. você parece tão sssaudavel quanto uma asssssombracao. Vai com calma. </danger>
-           <danger>não tenha medo de morrer. Osiris tomara conta de você.</danger>
-			<dead>*gasp* Meu querido! Me desssssculpe!	</dead>
-          <dead>Querido, por favor cuide dessa pesssssoa.</dead>
+            <danger> Ei! Você parece tão sssaudável quanto uma asssssombração. Vai com calma. </danger>
+			<dead>*gasp* Gracinha?! Me desssssculpe!	</dead>
 			<dead>Perdi maissss um...	</dead>
 			<stand>Esssstou esssfomeada... até um Sscell parece gosssstossso...	</stand>
-			<stand>Me pergunto sssse Osiris esssta com fome....	</stand>
-			<connect>Que tal olhar o menu de hoje?</connect>
-          <connect>Ola, que temossss no cardapio hoje? Novatosss...? </connect>
-           <connect>Por que demorou tanto? não culpe o transsssito. Então, trouxe algo de comer? </connect>
-			<levelup>tão bem... não esssta na hora de agradecer alguém?	</levelup>
-          <levelup>Essstou no topo da cadeia alimentar...</levelup>
-          <levelup>Bom para você! Gossssto dos meussss animaisss de estimação fortesss e ssaudaveisss! Que foi? </levelup>
-		</bit_hungry>	
-					
-				<noting>
-			<feeding>Ahh... gosssto do jeito que isssssso desssce pela minha garganta...	</feeding>
-			<feeding>Ei, gracinha, obrigada.	</feeding>
-         <feeding>Ssssinto minha magia ficando maissss forte.</feeding>
-			<hunting>Deixe me ver... você essssta pronto, não?	</hunting>
-			<hunting>Cuidado! Sou Isis, Odinssa da magia!	</hunting>
-			<danger> você esssta sssangrando! Precisssamos fazer algo para parar issssso!	</danger>
-			<danger>Se meu filho Horus essstivessse aqui, ele poderia nossss proteger.	</danger>
-			<dead>Querido...  talvez eu deva atrair aquele ssssacerdote aqui...?	</dead>
-			<dead>não ssse preocupe. Osiris colocara você de pé em um sssegundo.</dead>
-			<stand>Minhasss unhassss estão longassss de novo... você tem um cortador?	</stand>
-			<stand>Acho que toda a comida que como vai para meus sssseiossss -.-;	</stand>
-           <stand>o/"  Danca egipcia... o/"</stand>
-          <stand>Poli minha cauda. você acha que Osiris vai gostar?</stand>
-         <stand>*Olhando unhas e escamas*</stand>
-			<connect>E você! Oh, ssssenti tanto a ssssua falta.	</connect>
-			<connect>Hurrah você voltou!!! *pulando* Err.. o que você essssta olhando? o.O	</connect>
-			<levelup>alguém esssta rassstejando até o topo.</levelup>
-			<levelup>Oooh, luzesss bonitassss!</levelup>
-           <levelup>Os Odinsssessss sssorriem para você!</levelup>
-          <levelup>Fantasssstico!</levelup>
-		</noting>	
-					
-		<full>	
-			<feeding>Oh, querido, sssse você continuar me alimentando assssim, vou precisssar fazer dieta!	</feeding>
-          <feeding>Você esssta tentando acabar com minha ssssilhueta maravilhosssa?</feeding>
+			<stand>Me pergunto sssse Osíris essstá com fome....	</stand>
+			<connect>Por que demorou tanto? Não culpe o trânssssito. Então, trouxe algo de comer? </connect>
+			<levelup>Então bem... não essstá na hora de agradecer alguém?	</levelup>
+			<perfor_1>	Hoje... ssserei livre...	</perfor_1>
+			<perfor_1>	Cabelinho macio~	</perfor_1>
+			<perfor_1>	Eu fizzz gelatina~	</perfor_1>
+			<perfor_2>	Você curte fisssiculturissmo?~	</perfor_2>
+			<perfor_3>	Fazendo a rotina de sssskin care~	</perfor_3>
+			<perfor_3>	Eu... sssou preciosssa.	</perfor_3>
+		</bit_hungry>
+
+		<noting>
+			<feeding>Ssssinto minha magia ficando maissss forte.</feeding>
+			<feeding>Ei, gracinha, obrigada.</feeding>
+			<hunting>Deixe me ver... você esssstá caçando, não?</hunting>
+			<hunting>Cuidado! Sou Isis, Deussa da magia!</hunting>
+			<danger>Se meu filho Hórus essstivessse aqui, ele poderia nossss proteger.</danger>
+			<danger>Você essstá sssangrando! Precisssamos fazer algo para parar issssso!</danger>
+			<dead>Gracinha... Talvez eu deva atrair aquele ssssacerdote aqui...?</dead>
+			<dead>Não ssse preocupe. Osíris colocará você de pé em um sssegundo.</dead>
+			<stand>Minhasss unhassss estão longassss de novo... você tem um cortador?</stand>
+			<stand>Acho que toda a comida que como vai para meu rabo...</stand>
+			<connect>Ei você! Oh, ssssenti tanto a ssssua falta.</connect>
+			<connect>Hurrah você voltou!!! *pulando* Err.. o que você essssta olhando? o.O</connect>
+			<levelup>Alguém essstá rassstejando até o topo.	</levelup>
+			<levelup>Os Deussessss sssorriem para você!</levelup>
+			<perfor_1>	Hoje... ssserei livre...	</perfor_1>
+			<perfor_1>	Cabelinho macio~	</perfor_1>
+			<perfor_1>	Eu fizzz gelatina~	</perfor_1>
+			<perfor_2>	Você curte fisssiculturissmo?~	</perfor_2>
+			<perfor_3>	Fazendo a rotina de sssskin care~	</perfor_3>
+			<perfor_3>	Eu... sssou preciosssa.	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>Oh, gracinha, sssse você continuar me alimentando assssim, vou explodir!	</feeding>
+			<feeding>Você essstá tentando acabar comigo?</feeding>
 			<hunting>Você tem ótimossss olhossss...</hunting>
-          <hunting>Esssta na hora de fazer um sssacrificio para Osiris.</hunting>
-			<hunting>Acho que deu um no na minha cauda...	</hunting>
-			<danger>Eu esssstrangularia você, mas você já esssta morto...	</danger>
+			<hunting>Essstá na hora de fazer um sssacrifício para Osíris.</hunting>
+			<danger>Eu esssstrangularia você, mas você já vai morrer...	</danger>
 			<danger>Tsss, quer que eu arranque assss cabeças deles com uma mordida? </danger>
-			<dead>Eu esssstrangularia você, mas você já esssta morto...</dead>
-			<dead>não...! Eu me vingarei por você!</dead>
-          <dead>Osiris, querido? você pode trazer meu amigo de volta?</dead>
-			<stand>não gosssto da maneira como ossss homenssss me olham de vez em quando. Eu vou e esssstapeio elesss.	</stand>
-			<stand>*GASP* Oh meu Odin! Issssso e... uma RUGA?!?	</stand>
-          <stand>Hmm... Vamossss assss comprasss!</stand>
-			<connect>Ola, bonitão.	</connect>
-			<connect>Bem-vindo de volta, gatão.</connect>
+			<dead>Eu esssstrangularia você, mas você já morreu...</dead>
+			<dead>Não...! Eu me vingarei por você!</dead>
+			<stand>*GASP* Oh meu Osíris! Issssso é... um CABELO BRANCO?!?	</stand>
+			<stand>Hmm... Vamossss àssss comprasss!</stand>
+			<connect>Olá, gracinha.	</connect>
+			<connect>Sssaudações, gracinha.</connect>
 			<connect>Onde diabossss você esssstava? Eu essstava ficando preocupada.	</connect>
 			<levelup>Ficando em forma, hmm, ssssexy?	</levelup>
-			<levelup>Fico feliz em ver que você esssta menossss fracote! Prefiro animaissss de esstimação fortesss ~.^</levelup>
-			<levelup>UAU! você E forte. Talvez deva chamar meu filho Horus para desssafiar você.</levelup>
-		</full>	
-					
-		<so_full>	
-			<feeding>não! ;_; Meu fissssico esssbelto!</feeding>
-			<feeding>Pare, pare! Nem TODA essssa comida foi para osss meusss ssseiosss! Minhasss essscamasss essstão pressstesss a explodir!	</feeding>
-            <feeding>Por favor... pare... isssso e tortura...</feeding>
-            <feeding>Olhe, sssse você quer que eu mantenha minha forma voluptuosssa, pare de entuchar isssso em mim.</feeding>
-			<hunting>Parece que comi uma tonelada de tijolossss!	</hunting>
-			<hunting>Me empresta uma camissssa de algodao? Hisss... Hissss...	</hunting>
+			<levelup>Fico feliz em ver que você essstá menossss fracote! Prefiro animaissss de esstimação fortesss ~.^</levelup>
+			<levelup>UAU! Você é forte. Talvez deva chamar meu filho Hórus para desssafiar você.</levelup>
+			<perfor_1>	Hoje... ssserei livre...	</perfor_1>
+			<perfor_1>	Cabelinho macio~	</perfor_1>
+			<perfor_1>	Eu fizzz gelatina~	</perfor_1>
+			<perfor_2>	Você curte fisssiculturissmo?~	</perfor_2>
+			<perfor_3>	Fazendo a rotina de sssskin care~	</perfor_3>
+			<perfor_3>	Eu... sssou preciosssa.	</perfor_3>
+		</full>
+
+		<so_full>
+            <feeding>Por favor... pare... isssso é tortura...</feeding>
+            <feeding>Olhe, sssse você quer que eu mantenha minha forma de cobra, pare de me alimentar.</feeding>
+			<hunting>Parece que comi uma tonelada de Mímicosss!	</hunting>
+			<hunting>Me empresta uma camissssa de algodão? Hisss... Hissss...	</hunting>
 			<danger>Devo procurar alguém melhor que você?	</danger>
-			<dead>Então, você finalmente entendeu que você e maissss importante para mim?	</dead>
-			<dead>nãoo, não me abandone!!! Fique longe da luz!!!	</dead>
-			<dead>... não seja tão duro conssssigo mesmo... Isis essstara do seu lado...	</dead>
-			<stand>Querido, possso me apoiar no sssseu ombro?	</stand>
-			<stand>Você acha que esssstou gorda...?</stand>
-			<stand>Por mais que odeie admitir... você e um ótimo animal de essstimação!...Eu SSSOU a dona, certo?</stand>
-          <stand>*Snif* Como pode Osiris me ver desssse jeito?</stand>
-			<connect>Ai vem o cara ssssexy ;)	</connect>
-			<connect>E ai, gente boa? ... Que diabosss estou dizendo...?	</connect>
-			<connect>Feliz em te ver! Vamor Ragnarokar!</connect>
-			<levelup>Então, ssssexy, você essssta pensssando em mim como eu penssso em você?	</levelup>
-			<levelup>Bom trabalho! Vamos celebrar com abdominais. x.x	</levelup>
-		</so_full>	
-					
-	</isis>		
-					
+			<dead>Então, você finalmente entendeu que você é maissss importante para mim?	</dead>
+			<dead>Nãoo, não me abandone!!! Fique longe da luz!!!	</dead>
+			<dead>... Não fique trissste... Isis essstará do seu lado...	</dead>
+			<stand>Gracinha, possso me apoiar no sssseu ombro?	</stand>
+			<stand>Por maissss que odeie admitir... Você é um ótimo animal de essstimação!...Eu SSSOU a dona, certo?</stand>
+			<stand>*Snif* Como pode Osíris me ver desssse jeito?</stand>
+			<connect>Chegou ssssexy ;)	</connect>
+			<connect>E aí, gente boa? ... Que diabosss estou dizendo...?	</connect>
+			<connect>Feliz em te ver! Vamor Ragnarökar!</connect>
+			<levelup>Então, ssssexy, você esssstá pensssando em mim como eu penssso em você?	</levelup>
+			<levelup>Bom trabalho! Vamos celebrar com abdominaissss.</levelup>
+			<perfor_1>	Hoje... ssserei livre...	</perfor_1>
+			<perfor_1>	Cabelinho macio~	</perfor_1>
+			<perfor_1>	Eu fizzz gelatina~	</perfor_1>
+			<perfor_2>	Você curte fisssiculturissmo?~	</perfor_2>
+			<perfor_3>	Fazendo a rotina de sssskin care~	</perfor_3>
+			<perfor_3>	Eu... sssou preciosssa.	</perfor_3>
+		</so_full>
+
+	</isis>
+	<LITTLE_ISIS>
+
+		<hungry>
+			<feeding>	Não é tarde demais? Bom, tudo bem!	</feeding>
+			<dead>	Heh... Você está confortável?	</dead>
+			<stand>	...Acho que vi um vulto...	</stand>
+			<stand>	Esqueceu para onde ia?	</stand>
+			<levelup>	Subir de nível é bom, mas comer é melhor ainda.	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Obrigada pela comida. 	</feeding>
+			<dead>	Você precisa prestar atenção.	</dead>
+			<stand>	O que você costuma comer quando vai sair???	</stand>
+			<levelup>	Esse nível ainda está baixo para o meu estômago.	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Adoro comer junto com você!	</feeding>
+			<dead>	Vamos tentar pedir ajuda por aí...	</dead>
+			<stand>	Você não esqueceu nenhum equipamento, né??	</stand>
+			<stand>	O poder da inércia é realmente maravilhoso.	</stand>
+			<stand>	Então esse é o mundo de Ragnarök...	</stand>
+			<levelup>	Parabéns! Você está se aproximando do seu objetivo.	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Eu preciso parar de comer, entendeu?	</feeding>
+			<dead>	...Não vou falar nada... Só avisar pra não fazer isso novamente...	</dead>
+			<stand>	Você não esqueceu nenhum equipamento, né??	</stand>
+			<stand>	O poder da inércia é realmente maravilhoso.	</stand>
+			<stand>	Então esse é o mundo de Ragnarök...	</stand>
+			<stand>	...Seja forte... Estarei ao seu lado, sempre!!	</stand>
+			<levelup>	Parabéns... Vamos continuar a caça.	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Sinto que meu rabo está mais cheio, melhor parar de comer.	</feeding>
+			<dead>	...Não vou falar nada... Só avisar pra não fazer isso novamente...	</dead>
+			<stand>	Você não esqueceu nenhum equipamento, né??	</stand>
+			<stand>	O poder da inércia é realmente maravilhoso.	</stand>
+			<stand>	Então esse é o mundo de Ragnarök...	</stand>
+			<stand>	...Seja forte... Estarei ao seu lado, sempre!!	</stand>
+			<levelup>	Você fez um ótimo trabalho, parabéns!	</levelup>
+		</so_full>
+
+	</LITTLE_ISIS>					
 					
 	<petit>		
 					

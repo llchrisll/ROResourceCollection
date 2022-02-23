@@ -1,0 +1,24 @@
+^000088Itens de Manuk à Venda^000000
+
+Você pode comprar os itens abaixo com Moedas de Manuk.
+
+^008040[Oportunidade de Manuk]^000000
+Um auxílio preparado pelo Laboratório de Manuk, oficialmente recomendado para mineiros. Quando usado, aumenta em 10% por 10 minutos o dano causado por ataque corporal contra monstros nos campos de Manuk.
+^000088(Nepenthes, Centopeia, Larva de Centopeia, Leão da Montanha, Tatacho, Mamute Rochoso)^000000
+^ffffff_^000000
+Peso: ^7777775^000000
+
+
+^008040[Coragem de Manuk]^000000
+Um nutriente preparado pelo Laboratório de Manuk, oficialmente recomendado para mineiros.
+Quando usado, reduz em 10% por 10 minutos o dano físico e mágico causado contra usuários pelos monstros nos campos de Manuk.
+^000088(Nepenthes, Centopeia, Larva de Centopeia, Leão da Montanha, Tatacho, Mamute Rochoso)^000000
+^ffffff_^000000
+Peso: ^7777775^000000
+
+
+^008040[Fé de Manuk]^000000
+Um auxílio preparado pelo Laboratório de Manuk, oficialmente recomendado para mineiros. Quando usado, aumenta em 10% por 10 minutos o dano mágico contra monstros nos campos de Manuk.
+^000088(Nepenthes, Centopeia, Larva de Centopeia, Leão da Montanha, Tatacho, Mamute Rochoso)^000000
+^ffffff_^000000
+Peso: ^7777775^000000

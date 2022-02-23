@@ -1,0 +1,135 @@
+^ff0000---- Elemental de Fogo, AGNI ----^000000
+
+Elementais de Fogo invocados respondem ao seu mestre de maneira diferente dependendo do seu tamanho e de Domínio Elemental.
+
+
+^fa8072[Suporte]^000000
+i - Pirotecnia : Aumenta o dano da Barreira de Fogo e Lanças de Fogo. 
+
+ii - Aquecimento : Aumenta o dano de Passos de Salamandra. 
+                   Aumenta a recuperação de HP de Aquecer Terreno.
+                   Transforma a habilidade Onda Psíquica em elemento Fogo e aumenta seu dano.
+
+iii - Calor do Trópico : Ao atacar fisicamente há uma chance de conjurar automaticamente Lanças de Fogo.
+                   	 Ao se utilizar as habilidades Encantar com Chama ou Vulcão há 50% de chance de não consumir o Sangue Escarlate e a Gema Amarela.
+
+^0000ff[Defesa]^000000
+i - Círculo de Fogo : Cria um circulo de fogo ao redor do invocador que causa dano do elemento Fogo a todos aqueles que se aproximarem.
+
+ii - Capa de Fogo : Aumenta a resistência a ataques do elemento Fogo, porém reduz a resistência a ataques do elemento Água.
+
+iii - Manto de Fogo : Cria uma poderosa barreira de fogo ao redor do invocador.
+
+
+
+^ff0000[Ataque]^000000
+
+i - Flecha de Fogo : Dispara uma Flecha de fogo que causa dano do elemento Fogo a um alvo único.
+
+ii - Bomba de Fogo : Cria uma bomba de fogo que causa dano do elemento Fogo em área.
+                     Ou causa dano mágico do elemento fogo em área.
+
+iii - Onda de Fogo : Cria uma onda de fogo que causa dano do elemento Fogo a todos ao redor do elemental.
+                     Ou causa grande dano do elemento Fogo a um alvo único.
+
+
+
+^0000ff---- Elemental de Água, VARUNA----^000000
+
+
+Elementais de Água invocados respondem ao seu mestre de maneira diferente dependendo do seu tamanho e de Domínio Elemental.
+
+^fa8072[Suporte]^000000
+i - Truque Aquático : Aumenta o dano causado pelas habilidades Lança de Gelo e Rajada Congelante.
+
+ii - Geleira : Aumenta o dano causado pela habilidade Pó de Diamante.
+               Aumenta a chance de causar Hipotermia quando utilizar Pó de Diamante.
+               Transforma a habilidade Onda Psíquica em elemento Água e aumenta seu dano.
+
+
+iii - Ar Congelante : Ao atacar fisicamente há uma chance de conjurar automaticamente Lanças de Gelo.
+                      Ao se utilizar as habilidades Encantar com Geada ou Dilúvio há 50% de chance de não consumir o Cristal Azul e a Gema Amarela.
+                   
+^0000ff[Defesa]^000000
+i - Treliça de Água : Cura o invocador em um tanto de HP determinado. 
+                      Durante um pequeno período de tempo todo dano causado ao invocador é transferido para o elemental.
+
+ii - Gotas de Água : Aumenta a resistência a taques do elemento Água, porém reduz a resistência ao elemento Fogo.
+
+iii - Barreira de Água : Cria uma barreira de água em volta do invocador que reduz todo dano mágico ou físico recebido mas reduz a esquiva e o poder de ataque.
+
+^ff0000[Ataque]^000000
+i - Agulha de Gelo : Dispara uma Agulha de Gelo que causa dano do elemento Água a um alvo único.
+
+ii - Parafuso de Água : Cria um grande turbilhão de água que causa dano a um alvo único.
+                        Ou Causa dano em todos ao redor do elemental.
+
+iii -  Arma das Marés : Encanta a arma do invocador e espírito com o elemento Água e aumenta do dano causado pelo elemento Água.
+
+
+
+^000088---- Elemental de Vento, VAYU ----^000000
+
+
+Elementais de Vento invocados respondem ao seu mestre de maneira diferente dependendo do seu tamanho e de Domínio Elemental. 
+
+^fa8072[Suporte]^000000
+i - Estática : Aumenta o dano causado pelas habilidades Relâmpago e Tempestade de Raios.
+
+ii - Rajada de Vento : Aumenta o dano causado pela habilidade Passos de Sílfide.
+                       Aumenta o dano causado pela habilidade Lanças dos Aesir.
+                       Transforma a habilidade Onda Psíquica em elemento Vento e aumenta seu dano.  
+
+iii - Tempestade de Vento : Ao atacar fisicamente há uma chance de conjurar automaticamente Relâmpago.
+                            Ao se utilizar as habilidades Encantar com Tempestade ou Furacão há 50% de chance de não consumir o Frescor do Vento e a Gema Amarela.
+                
+^0000ff[Defesa]^000000
+i - Passos do Vento : Teleporta o invocador e aumenta a velocidade de movimento e esquiva.
+
+ii - Cortina de Vento : Aumenta a resistência a ataques do elemento Vento, mas reduz a resistência a ataques do elemento Terra.
+
+iii - Zéfiro : Cria uma barreira de vento que bloqueia todos os ataques a distância e aumenta a esquiva. Há uma pequena chance de negar completamente um ataque físico ou mágico. 
+
+
+^ff0000[Ataque]^000000
+i - Vento Cortante : Causa dano do elemento Vento a um alvo a longa distância. Pequena chance de causar Sangramento no alvo. 
+
+ii - Ira dos Furacões : Causa dano do elemento Vento a um alvo a longa distância.
+                        Ou causa dano a todos próximos do elemental. 
+
+iii - Lança-Ciclone : Ataca um alvo a longa distância com elemento Vento.
+                      Ou causa dano adicional mágico do elemento Vento e tem uma pequena chance de causar silêncio.
+
+
+
+^008040---- Elemental de Terra, CHANDRA ----^000000
+
+
+Elementais de Terra invocados respondem ao seu mestre de maneira diferente dependendo do seu tamanho e de Domínio Elemental. 
+
+^fa8072[Suporte]^000000
+i - Geologia : Aumenta o dano causado pelas habilidades Coluna de Pedra e Fúria da Terra.
+	       Aumenta a chance de sucesso da habilidade Petrificar.
+               
+ii - Solo Amaldiçoado : Aumenta o dano causado pela habilidade Maldição de Jormungand.
+                        Aumenta o dano causado pela habilidade Implosão Tóxica.
+                        Transforma a habilidade Onda Psíquica em elemento terra e aumenta seu dano.
+
+iii - Tremores : Ao atacar fisicamente há uma chance de conjurar automaticamente Coluna de Pedra.
+                 Ao se utilizar as habilidades Encantar com Terremoto há 50% de chance de não consumir a Vida Verdejante.
+
+^0000ff[Defesa]^000000
+i - Pele de Pedra : Aumenta a Defesa e HP máximo do invocador.
+
+ii - Escudo de Pedra : Aumenta a resistência a ataques do elemento Terra, mas reduz a resistência ao elemento Vento.
+
+iii - Poder de Gaia : Cria uma barreira de terra ao redor do invocador que o deixa imune a sangramento e petrificação. Aumenta o HP máximo e a defesa, porem reduz a velocidade de movimento durante um tempo limitado.
+
+^ff0000[Ataque]^000000
+i - Martelo de Pedra : Causa dano do elemento Terra a um alvo único. Há uma pequena chance de causar Atordoamento.
+
+ii - Triturador : Causa dano a um alvo único do elemento Terra.
+                  Ou causa dano mágico a um alvo único e tem uma pequena chance de reduzir a velocidade de movimento do alvo.
+
+iii - Chuva de Pedras : Causa dano do elemento terra a todos os alvos próximos do elemental.
+                        Ou Causa dano do elemento Terra e Atordoamento aos alvos afetados.

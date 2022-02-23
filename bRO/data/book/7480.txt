@@ -1,0 +1,86 @@
+%faf0e6
+^000088A triste história de um chefe e seu irmão que perderam seu paladar ao tentar 
+cozinhar um prato lendário e proibido.^000000
+Alertamos que os pratos a seguir podem ser perigosos em mãos inábeis. 
+Estas são as receitas definitivas, de Nível 9.
+
+
+^ff0000Saté de Tendões:^000000 nem toda carne de nervos e tendões é dura de mastigar. Aqui está um prato feito com 
+                                   tendões tenros e macios.
+Ingredientes: ^4b008240 Tendões, 1 Panela, 10 Queijos, 1 Molho Picante, 2 Carvões, 30 Ervas Verdes, 
+                   10 Tintas de Lula^000000 
+Instruções:
+	1. Corte os Tendões em pedaços de 3 cm, e salpique sal e pimenta.
+	2. Afervente e esfrie algumas Ervas Verdes, e pique o restante.
+	3. Coloque Tinta de Lula e água na Panela, e ferva para fazer um molho.
+	4. Adicione o Molho Picante ao molho, e continue a ferver até engrossar.
+	5. Acenda uma fogueira com os Carvões, e frite os Tendões com as Ervas Verdes aferventadas e o Queijo 
+                    até que os Tendões dourem.
+	6. Coloque os Tendões fritos em um prato, e derrame o molho de Tinta de Lula por cima.
+	7. Sirva o Saté de Tendões salpicando por cima as Ervas Verdes picadas.
+          
+^0000ffTristam 12 Anos:^000000 vinho de frutas com gosto de uísque.
+Ingredientes: ^4b008210 Folhas de Yggdrasil, 10 Laranjas, 5 unidades de Álcool, 4 Geléias Reais, 2 Poções Azuis, 
+                   1 Condimento Amarelo, 10 Folhas de Aloé^000000
+Instruções:
+	1. Esprema as laranjas.
+	2. Bata as Folhas de Yggdrasil bem secas com a Geléia Real e a Poção Azul em um liquidificador.
+	3. Adicione o Álcool à mistura, e envelheça por 12 anos.
+	4. Passe Condimento Amarelo na borda de um copo, e coloque a bebida nele.
+	5. Sirva a bebida com Geléia Real.
+
+^800000Suco de Frutas Divino:^000000 um suco de frutas com um sabor que vai fazer você flutuar 
+                                               nas nuvens!
+Ingredientes: ^4b00822 Maçãs Verdes, 10 Laranjas, 10 Morangos, 1 Condimento Vermelho, 1 Banana Tropical, 
+                   5 Sucos de Uva, 2 unidades de Álcool^000000
+Instruções:
+	1. Descasque as Maçãs Verdes e as Laranjas. Corte cada maçã em 3 fatias, e cada laranja 
+                    em 4 fatias.
+	2. Remova os talos dos morangos; descasque e corte a Banana Tropical.
+	3. Coloque as frutas e metade do Suco de Uva em um liquidificador, e bata bem.
+	4. Acrescente o resto do Suco de Uva e o Álcool, e bata por mais 30 segundos.
+	5. Sirva o suco em um copo, e salpique Condimento Vermelho em cima. 
+                    Nota: Você pode acrescentar Cubos de Gelo para refrescar
+                    no momento em que bater a bebida.
+
+^008040Cozido de Carne Especial:^000000 um cozido especial com um aroma tentador!
+Ingredientes: ^4b008210 Carnes, 5 Geléias Reais, 20 Brotos, 4 Molhos Saborosos, 5 Ervas Amarelas, 
+                   10 Ervas Brancas, 5 Ervas Vermelhas^000000
+Instruções:
+	1. Marine a Carne com vinho durante a noite.
+	2. Cozinhe a Carne marinada no vapor por 2 horas, e corte-a em fatias.
+	3. Pique todas as ervas, afervente os Brotos e misture com a Geléia Real.
+	4. Coloque óleo de pimenta em uma panela, e aqueça em fogo alto. 
+                    Quando a panela estiver bem quente, coloque todos os ingredientes.
+	5. Tampe a panela, e cozinhe em fogo brando por 3 horas.
+          
+
+^ff8040Sopa de Dragão Ascendente:^000000 uma sopa apimentada que faz você se sentir como um dragão cuspindo fogo!
+Ingredientes: ^4b008210 Peles de Dragão, 20 Caudas de Dragão, 3 Folhas de Yggdrasil, 6 Geléias Reais, 
+                   1 Molho Picante, 1 Condimento Vermelho, 1 Minhoca Gorducha^000000
+Instruções:
+	1. A Pele de Dragão é dura, então amacie-a fazendo sulcos.
+	2. Corte as Caudas de Dragão em pedaços pequenos.
+	3. Corte as Geléias Reais em semicírculos, e corte diagonalmente 
+                    as Folhas de Yggdrasil.
+	4. Lave a Minhoca Gorducha, e ferva em água com fogo alto por 10 minutos.
+	5. Remova a minhoca quando o caldo estiver bem infundido com seu sabor. Adicione o Molho Picante, 
+                    o Condimento Vermelho, as Peles e Caudas de Dragão e a Geléia Real ao caldo, 
+                    e continue a ferver.
+	6. Quando as Peles e Caudas de Dragão estiverem bem cozidas, acrescente as Folhas de Yggdrasil, e 
+                   ferva por mais algum tempo.
+
+^400080Refrigerante Sangrento:^000000 um refrigerante peculiar, com um sabor um pouco ferroso... parece até sangue.
+Ingredientes: ^4b00821 Sangue de Animal, 2 Analgésicos, 2 Aloé Veras, 2 unidades de Álcool, 6 Geléias Reais, 
+                   1 Condimento Vermelho e 10 Sucos de Maçã^000000
+Instruções: 
+	1. Pique 1 Aloé Vera, e deixe de molho em água a 20 graus Celsius 
+                    por 5 minutos.
+	2. Pique a outra Aloé Vera. Preencha uma garrafa de 3,7 litros com 
+                    a Aloé Vera Picada, açúcar e água, e mexa bem por pelo menos 
+                    2 minutos, até que os cristais de açúcar não sejam mais visíveis.
+	3. Tampe a garrafa, e deixe em repouso por 4 ou 6 dias em temperatura ambiente.
+	4. Corte as Geléias Reais em pedaços pequenos, e bata com o Suco de Maçã no liquidificador.
+	5. Adicione o refrigerante de Aloé Vera, o Álcool, o Sangue de Animal e o Analgésico, e misture 
+                    por mais 30 segundos.
+	6. Sirva o suco em um copo, e salpique Condimento vermelho em cima.

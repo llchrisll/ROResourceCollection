@@ -1,0 +1,29 @@
+%faf0e6
+^000088Príncipios Básicos da Alquimia: Criação da Garrafa de Planta Carnívora^000000
+
+----------------Prefácio--------------------
+Utilizar a alquimia para moldar as formas biológicas é algo muito difícil
+e considerado uma ciência muito avançada. Quando nós executamos
+experimentos de mutação física nas plantas, falhamos em todas as
+tentativas, já que elas são muito fracas para sobreviver às mudanças da
+Alquimia. Um pouco antes de decidirmos abandonar a pesquisa, descobrimos
+que as Plantas Carnívoras que ficam próximas ao Monte Mjolnir e Juno são
+incrivelmente resistentes e podem suportar às mudanças alquímicas.
+Este livro detalha o processo de transformação de Plantas Carnívoras em Garrafa.
+
+------------------------------------------
+
+O que é ^ff8040Garrafa de Planta Carnívora^000000 ?
+
+Garrafas de Plantas Carnívoras são plantas tratadas que foram transformadas
+para possam ser carregadas em garrafas. Jogar estas garrafas no chão fará
+com que seja criada uma Planta Carnívora agressiva, que irá atacar as
+criaturas. Alquimistas precisam ter a Habilidade Criar Flora para transformar
+Garrafas em Plantas Carnívoras.
+
+Ingredientes: ^4b00822 Flores de Planta Carnívora, 1 Garrafa Vazia^000000
+
+Instruções: Coloque as duas Flores de Planta Carnívora em um recipiente e
+então utilize a habilidade Preparar Poção. Você precisa conhecer a habilidade
+Criar Flora para transformar Garrafas de Plantas Carnívoras em
+Plantas Carnívoras novamente.

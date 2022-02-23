@@ -1,0 +1,605 @@
+%f5f5dc
+^000088Item de Recompensa!!^000000
+
+Há diferentes tipos de itens de Recompensa em cada campo de batalha.
+As recompensas do tipo Bravura podem ser obtidas nos campos de batalha de Tiera. (Bravura: )
+As recompensas do tipo Valor podem ser obtidas nos campos de batalha de Flavian. (Valor: )
+Os tipos e quantidades de recompensas serão mostrados entre parênteses.
+Recompensas de tipo distinto não podem ser consideradas iguais.
+
+^ff0000[Adaga]^000000
+^008040Damascus Mercenária(Bravura:100)^000000
+Uma adaga especializada em destruir humanóides.
+FOR + 1, AGI + 1
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Ignora a defesa física de Humanóides em 20%.
+Se utilizada pelas classes Ninja, Arruaceiro, e Desordeiro, adiciona ATQM + 15%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Adaga^000000   Força de Ataque: ^777777120^000000   Peso: ^7777770^000000   
+Nível da Arma: ^7777773^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Aprendiz, Espadachim, Mago, Arqueiro, Mercador, Gatuno, Espiritualista e Ninja^000000
+
+^008040Damascus Mercenária(Valor:100)^000000
+Uma adaga especializada em destruir humanóides.
+FOR + 1, AGI + 1
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Ao realizar ataque físico, existe a chance de, por 6 segundos, encantar a arma com o efeito da habilidade Impacto Psíquico e da arma Rondel.
+Se equipado por Ninja, Arruaceiro ou Desordeiro, adiciona ATQM + 15%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Adaga^000000    Força de Ataque: ^777777120^000000    Peso: ^7777770^000000    
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Aprendiz, Espadachim, Mago, Arqueiro, Mercador, Gatuno, Espiritualista e Ninja^000000
+
+^ff0000[Espada de Uma Mão]^000000
+^008040Lâmina Gladiadora(Valor:100)^000000
+Uma espada de gladiador, desenhada especialmente para batalhas contra Humanóides.
+FOR + 1, DES + 1
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Espada de Uma Mão^000000      Força de Ataque: ^777777115^000000   Peso: ^7777770^000000    
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Aprendiz, Espadachim, Mercador, Gatuno e evoluções^000000
+
+^008040Lâmina Gladiadora(Bravura:100)^000000
+Uma espada de gladiador, desenhada especialmente para batalhas contra Humanóides.
+FOR + 1, DES + 1, ATQM + 10%
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Espada de Uma Mão^000000      Força de Ataque: ^777777115^000000   Peso: ^7777770^000000    
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Aprendiz, Espadachim, Mercador, Gatuno e evoluções^000000
+
+^ff0000[Lança]^000000
+^008040Lança de Assalto(Bravura:100)^000000
+Uma lança criada para atacar os inimigos a distância. Especialmente desenhada para batalhas contra Humanóides.
+FOR + 2
+Aumenta o Ataque Físico a monstros Humanóides em 95%.
+Ignora a defesa física de humanóides em 20%.
+Aumenta a Velocidade de Ataque em 20% se usada por Templário ou Paladino.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Lança^000000    Força de Ataque: ^77777760^000000    Peso: ^7777770^000000    
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim e superiores^000000
+
+^ff0000[Cajado]^000000
+^008040Varinha de Batalha do Feiticeiro(Valor:100)^000000
+Um cajado modificado para ser empunhado por magos no campo de batalha. Especialmente desenhada para batalhas contra Humanóides.
+ATQM + 15%, INT + 3, DES + 3
+Aumenta em 15% o dano mágico causado a Humanóides.
+Quando atacar magicamente, concede 5% de chance de infligir o efeito Atordoamento no inimigo.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Cajado^000000  Força de Ataque: ^77777770^000000    Peso: ^7777770^000000    
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Mago, Noviço, Espiritualista^000000
+
+^008040Varinha Mágica do Feiticeiro(Bravura:100)^000000
+Um cajado modificado para ser empunhado por magos no campo de batalha. Especialmente desenhada para batalhas contra Humanóides.
+ATQM + 15%, INT + 4, DES + 3
+Ignora em 25% a defesa mágica de monstros Humanóides.
+A cada ataque mágico, o usuário terá 5% de chance de causar Atordoamento no inimigo.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Cajado^000000  Força de Ataque: ^77777770^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Mago, Noviço, Espiritualista^000000
+
+^008040Varinha da Recuperação Forte(Bravura:100)^000000
+Um cajado abençoado feito para curar ferimentos sérios em batalhas.
+ATQM + 15%
+Aumenta em 14% o valor de HP restaurado pelas habilidades Cura e Santuário. 
+Recupera 5 SP a cada 10 segundos.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Cajado^000000  Força de Ataque: ^77777770^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Mago, Noviço, Espiritualista^000000
+
+^008040Varinha da Recuperação Rápida(Valor:100)^000000
+Um cajado abençoado feito para curar ferimentos sérios em batalhas.
+ATQM + 15%, INT + 3, DES + 2
+Reduz em 15% o tempo de intervalo entre as habilidades.
+Recupera 5 SP a cada 10 segundos.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Cajado^000000  Força de Ataque: ^77777770^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Mago, Noviço, Espiritualista^000000
+
+^ff0000[Maça]^000000
+^008040Maça de Campo de Batalha(Valor:100)^000000
+Uma maça mortal utilizada pelos lutadores mais habilidosos para lutar contra Humanóides.
+FOR + 1, DES + 1
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Maça^000000    Força de Ataque: ^777777105^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Aprendiz, Espadachim, Mercador, Noviço^000000
+
+^008040Maça de Campo de Batalha(Bravura:100)^000000
+Uma maça mortal utilizada pelos lutadores mais habilidosos para lutar contra Humanóides.
+FOR + 1, DES + 1
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Adiciona a chance de ativar um efeito que, a cada ataque do usuário, terá 50% de causar atordoamento ao alvo por 6 segundos.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Maça^000000    Força de Ataque: ^777777105^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Aprendiz, Espadachim, Mercador, Noviço^000000
+
+^ff0000[Instrumento Musical]^000000
+^008040Guitarra de Batalha(Valor:100)^000000
+Uma guitarra criada para encorajar exércitos em batalha.
+DES + 2
+Aumenta o Ataque Físico contra Humanóides em 95%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Instrumento Musical^000000  Força de Ataque: ^77777750^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Bardo^000000
+
+^008040Guitarra de Batalha(Bravura:100)^000000
+Uma guitarra criada para encorajar exércitos em batalha.
+DES + 2
+Aumenta o Ataque Físico contra Humanóides em 95%.
+Aumenta em 20% o dano causado pela habilidade Vulcão de Flechas.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Instrumento Musical^000000  Força de Ataque: ^77777750^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Bardo^000000
+
+^ff0000[Chicote]^000000
+^008040Serpente de Batalha(Valor:100)^000000
+Um chicote criado especialmente para lutar contra Humanóides.
+DES + 2
+Aumenta o Ataque Físico contra Humanóides em 95%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Chicote^000000  Força de Ataque: ^77777750^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Odalisca^000000
+
+^008040Serpente de Batalha(Bravura:100)^000000
+Um chicote criado especialmente para lutar contra Humanóides.
+DES + 2
+Aumenta o Ataque Físico contra Humanóides em 95%.
+Aumenta em 20% o dano causado pela habilidade Vulcão de Flechas.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Chicote^000000  Força de Ataque: ^77777750^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Odalisca^000000
+
+^ff0000[Livro]^000000
+^008040Livro de Estratégia de Batalha(Bravura:100)^000000
+Livro de batalha escrito por um renomado estrategista.
+FOR + 2, INT + 1, ATQM + 15%
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Livro^000000      Força de Ataque: ^77777790^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Sacerdote, Sábio, Mestre Taekwon^000000
+
+^008040Livro de Estratégia de Batalha(Valor:100)^000000
+Livro de batalha escrito por um renomado estrategista.
+FOR + 1, INT + 2, ATQM + 15%
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Livro^000000      Força de Ataque: ^77777790^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Sacerdote, Sábio, Mestre Taekwon^000000
+
+^ff0000[Garras]^000000
+^008040Punho de Batalha(Valor:100)^000000
+Punho utilizado por comandantes no campo de batalha.
+FOR + 2, AGI + 1
+Aumenta o Ataque Físico contra Humanóides em 95%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Adiciona a chance de invocar automaticamente a habilidade 'Zen' quando atacar.
+Tipo de Arma: ^777777Garra^000000  Força de Ataque: ^77777730^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Sacerdote, Monge^000000
+
+^008040Punho de Batalha(Bravura:100)^000000
+Punho utilizado por comandantes no campo de batalha.
+FOR + 2, AGI + 1
+Aumenta o Ataque Físico contra Humanóides em 95%.
+Reduz o tempo de conjuração da habilidade 'Punho Supremo de Asura' em 25%.
+Indestrutível em batalha.
+Adiciona a chance de reduzir por 6 segundos o tempo de conjuração da habilidade 'Punho Supremo de Asura' em 100%.
+Tipo de Arma: ^777777Garra^000000  Força de Ataque: ^77777730^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Sacerdote, Monge^000000
+
+^ff0000[Espada de Duas Mãos]^000000
+^008040Katzbalger de Assalto(Bravura:100)^000000
+Uma espada de duas mãos criada especialmente para lutar contra Humanóides.
+FOR + 2
+Aumenta o Ataque Físico contra Humanóides em 55%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Espada de Duas Mãos^000000  Força de Ataque: ^777777200^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim e superiores^000000
+
+^008040Katzbalger de Assalto(Valor:100)^000000
+Uma espada de duas mãos criada especialmente para lutar contra Humanóides.
+Crítico + 20
+Aumenta o Ataque Físico contra Humanóides em 55%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Espada de Duas Mãos^000000  Força de Ataque: ^777777200^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim e superiores^000000
+
+^ff0000[Lança de Duas Mãos]^000000
+^008040Lança de Assalto de Duas Mãos(Valor:100)^000000
+Lança de duas mãos criada para atacar inimigos no campo de batalha.
+FOR + 2
+Aumenta o Ataque Físico contra Humanóides em 25%.
+Ignora completamente a defesa física de humanóides.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Lança de Duas Mãos^000000  Força de Ataque: ^777777160^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim e superiores^000000
+
+^ff0000[Machado]^000000
+^008040Machado de Batalha Insana(Valor:100)^000000
+Um machado de duas mãos aterrorizante. Dizem que estimula os nervos do usuário a matar Humanóides.
+FOR + 3
+Aumenta o Ataque Físico contra Humanóides em 55%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Machado^000000  Força de Ataque: ^777777200^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim, Mercador^000000
+
+^008040Machado de Batalha Insana(Bravura:100)^000000
+Um machado de duas mãos aterrorizante. Dizem que estimula os nervos do usuário a matar Humanóides.
+FOR + 3
+Aumenta o Ataque Físico contra Humanóides em 55%.
+Adiciona a chance de por 3 segundos destruir a armadura do inimigo com 100% de chance quando atacar.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Machado^000000  Força de Ataque: ^777777200^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim, Mercador^000000
+
+^ff0000[Shuriken Huuma]^000000
+^008040Shuriken Huuma Frontal(Bravura:100)^000000
+Shuriken que guarda grande poder interior que inspira o ataque contra Humanóides.
+FOR + 2, DES + 1
+Aumenta o Ataque Físico contra Humanóides em 95%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Huuma^000000    Força de Ataque: ^77777755^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Ninja^000000
+
+^008040Shuriken Huuma Frontal(Valor:100)^000000
+Shuriken que guarda grande poder interior que inspira o ataque contra Humanóides.
+FOR + 2, DES + 1
+Aumenta o Ataque Físico contra Humanóides em 95%.
+Adiciona ao atacar a chance de aumentar em 100% o Ataque Físico por 10 segundos ao utilizar as habilidades 'Arremessar Shuriken Huuma' e 'Ataque Mortal'.
+Indestrutível em batalha.
+Tipo de Arma: ^777777^000000    Força de Ataque: ^77777755^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Ninja^000000
+
+^ff0000[Katar]^000000
+^008040Katar da Carnificina(Bravura:100)^000000
+Katar especialmente criado para enfrentar Humanóides no campo de batalha.
+FOR + 1, DES + 1, SOR + 1
+Aumenta o Ataque Físico contra Humanóides em 70%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Katar^000000   Força de Ataque: ^777777130^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Mercenário^000000
+
+^008040Katar da Carnificina(Valor:100)^000000
+Katar especialmente criado para enfrentar Humanóides no campo de batalha.
+FOR + 1, DES + 1, SOR + 1
+Aumenta o Ataque Físico contra Humanóides em 70%.
+Aumenta o dano causado por ataques críticos em 20%.
+Auenta a velocidade de ataque em 5%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Katar^000000   Força de Ataque: ^777777130^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Mercenário^000000
+
+^ff0000[Arco]^000000
+^008040Besta de Batalha(Valor:100)^000000
+Uma besta de batalha criada para dar mais dano em Humanóides no campo de batalha.
+DES + 2
+Aumenta o Ataque Físico contra Humanóides em 55%.
+Ignora a defesa física de humanóides em 20%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Arco^000000      Força de Ataque: ^777777100^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Gatuno e superiores, Arqueiro^000000
+
+^008040Besta de Batalha(Bravura:100)^000000
+Uma besta de batalha criada para dar mais dano em Humanóides no campo de batalha.
+DES + 2, INT + 10
+Aumenta o Ataque Físico contra Humanóides em 55%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Arco^000000      Força de Ataque: ^777777100^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Gatuno e superiores, Arqueiro^000000
+
+^ff0000[Pistola]^000000
+^008040Revólver do Soldado(Bravura:100)^000000
+Um revólver criado para batalhas de curto e médio alcance contra Humanóides.
+DES + 2, Precisão - 10
+Aumenta o Ataque Físico contra Humanóides em 55%.
+Ignora a defesa física de humanóides em 20%.
+Adiciona a chance de aumentar por 3 segundos a Vel de Atq quando atacar.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Pistola^000000   Força de Ataque: ^77777770^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Rifle]^000000
+^008040Rifle do Soldado(Valor:100)^000000
+Um rifle criado para batalhas de curto e médio alcance contra Humanóides.
+DES + 2, Precisão + 10, Critico + 10
+Aumenta o Ataque Físico contra Humanóides em 75%.
+Ignora a defesa física de humanóides em 20%.
+Reduz o tempo de conjuração da habilidade 'Rastrear Alvo' em 25%.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Rifle^000000   Força de Ataque: ^77777750^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Metralhadora Gatling]^000000
+^008040Metralhadora Gatling do Soldado(Bravura:100)^000000
+Uma metralhadora criada para batalhas de curto e médio alcance contra Humanóides.
+DES + 2
+Aumenta o Ataque Físico contra Humanóides em 35%.
+Ignora a defesa física de humanóides em 20%.
+Adiciona a chance ao atacar de aumentar o ATQ em 80 por 6 segundos e durante este período drenar 120 HP do usuário a cada segundo.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Metralhadora Gatling^000000   Força de Ataque: ^77777780^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Espingarda]^000000
+^008040Espingarda do Soldado(Valor:100)^000000
+Uma espingarda criada para batalhas de curto e médio alcance contra Humanóides.
+DES + 2, causa dano em área.
+Aumenta o Ataque Físico contra Humanóides em 55%.
+Ignora a defesa física de humanóides em 20%.
+Adiciona a chance ao atacar de aumentar o ATQ em 100 por 6 segundos e durante este período drenar 100 HP do usuário a cada segundo.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Espingarda^000000    Força de Ataque: ^777777100^000000    Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Lança-Granadas]^000000
+^008040Lança-Granadas do Soldado(Valor:100)^000000
+Um lança-granadas que possui grande poder ofensivo contra Humanóides.
+DES + 2
+Aumenta o Ataque Físico contra Humanóides em 35%.
+Ignora a defesa física de humanóides em 20%.
+Adiciona a chance ao atacar de aumentar o ATQ em 300 por 9 segundos e durante este período drenar 120 HP do usuário a cada segundo.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Lança-Granadas^000000   Força de Ataque: ^777777300^000000  Peso: ^7777770^000000
+Nível da Arma: ^7777773^000000     Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Capa]^000000
+^008040Manteau do Capitão(50)^000000
+Um manteau esplêndido criado para o guerreiro honrado que lutou no campo de batalha.
+Reduz em 1% o dano recebido de Humanóides.
+HP Máximo + 50. DEFM + 1.
+Tipo de Arma: ^777777Capa^000000    Defesa: ^7777774^000000
+Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim, Mercador, Gatuno e superiores, Ninja, Mestre Taekwon^000000
+
+^008040Manteau do Comandante(50)^000000
+Um manteau glorioso criado para o comandante no campo de batalha. 
+Reduz em 1% o dano recebido de Humanóides.
+HP Máx + 50. DEFM + 1.
+Tipo de Arma: ^777777Capa^000000    Defesa: ^7777773^000000   
+Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Mago, Noviço, Arqueiro, Espiritualista^000000
+
+^008040Manteau do Xerife(50)^000000
+Um manteau com o espírito e a força da vida selvagem.
+Reduz em 1% o dano recebido de Humanóides.
+HP Máx + 50. MDEF + 1.
+Tipo de Arma: ^777777Capa^000000    Defesa: ^7777773^000000
+Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Sapatos]^000000
+^008040Grevas de Batalha(50)^000000
+Grevas que aumentam a habilidade em campo de batalha do usuário.
+Reduz em 1% o dano recebido de Humanóides.
+HP Máx + 100. DEFM + 1.
+Tipo de Arma: ^777777Sapatos^000000    Defesa: ^7777774^000000
+Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim, Mercador, Gatuno e superiores, Ninja, Mestre Taekwon^000000
+
+^008040Botas de Combate(50)^000000
+Sapatos que aumentam a habilidade em campo de batalha do usuário.
+Reduz em 1% o dano recebido de Humanóides.
+HP Máx + 100. DEFM + 1.
+Tipo de Arma: ^777777Sapatos^000000    Defesa: ^7777773^000000
+Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Mago, Noviço, Arqueiro, Espiritualista^000000
+
+^008040Botas de Batalha(50)^000000
+Botas especialmente criadas para Justiceiros usarem no campo de batalha.
+Reduz em 1% o dano recebido de Humanóides.
+HP Máx + 100. DEFM + 1.
+Tipo de Arma: ^777777Sapatos^000000    Defesa: ^7777773^000000
+Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Armadura]^000000
+^008040Armadura de Assalto(80)^000000
+Armadura criada para os guerreiros que enfrentam os inimigos no campo de batalha. Pode ser utilizada em conjunto com outros equipamentos.
+Reduz em 2% o dano recebido de Humanóides.
+HP Máx + 150. DEFM + 2.
+Quando equipada juntamente com as Grevas de Batalha e o Manteau do Capitão:
+O usuário receberá 3x mais dano de monstros que não sejam Humanóides;
+VIT + 3, HP Máx + 12%, Aumenta em 10% a recuperação recebida da habilidade Cura e de itens de recuperação;
+Adiciona a chance de recuperar 6000 HP ao longo de 10 segundos ao ser atacado fisicamente.
+Tipo de Arma: ^777777Armadura^000000    Defesa: ^7777777^000000   Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Espadachim, Mercador, Taekwon, Mestre Taekwon^000000
+
+^008040Armadura de Elite(80)^000000
+Armadura criada para o guerreiro que se destaca no campo de batalha. Pode ser utilizada em conjunto com outros equipamentos.
+Reduz em 2% o dano recebido de Humanóides.
+HP Máx + 150. DEFM + 2.
+Quando equipada juntamente com as Grevas de Batalha e o Manteau do Capitão:
+O usuário receberá 3x mais dano de monstros que não sejam Humanóides;
+FOR + 3, Aumenta o HP Máx em 12%;
+Aumenta em 20% o dano causado pela habilidade Mamonita;
+Aumenta em 10% o valor da Cura e “Arremessar Poção” recebidos.
+Indestrutível em batalha.
+Tipo de Arma: ^777777Armadura^000000    Defesa: ^7777777^000000   Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Mercador^000000
+
+^008040Manto do Mercenário(80)^000000
+Armadura desenhada para aumentar a velocidade do seu usuário. Pode ser utilizada em conjunto com outros equipamentos.
+Reduz em 2% o dano recebido de Humanóides.
+HP Máx + 150. DEFM + 2.
+Quando equipada juntamente com as Grevas de Batalha e o Manteau do Capitão:
+O usuário receberá 3x mais dano de monstros que não sejam Humanóides;
+AGI + 3, Aumenta em 12% o HP Máx;
+Aumenta em 5% a Velocidade de Ataque e Ataque Crítico;
+O usuário terá a chance de recuperar 3000 de HP ao longo de 10 segundos, ao ser atacado fisicamente.
+Tipo de Arma: ^777777Armadura^000000    Defesa: ^7777777^000000   Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Gatuno e superiores, Ninja^000000
+
+^008040Manto de Batalha do Feiticeiro(Valor:80)^000000
+Armadura que aumenta a chance de sobrevivência no campo de batalha. Pode ser utilizada em conjunto com outros equipamentos.
+Reduz em 2% o dano recebido de Humanóides.
+HP Máx + 150. DEFM + 2.
+Quando equipada juntamente com as Botas de Combate e o Manteau do Comandante:
+O usuário receberá 3x mais dano de monstros que não sejam Humanóides;
+INT + 3, Aumenta em 12% o HP Máx; 
+Aumenta em 20% a resistência a Atordoamento; 
+Aumenta em 10% a eficácia da habilidade Cura e de itens de recuperação;
+A cada ataque recebido, existe a chance da armadura do alvo ser encantada com a propriedade Fantasma. O efeito terá a duração de dez segundos.
+Tipo de Arma: ^777777Armadura^000000    Defesa: ^7777773^000000   Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Mago^000000
+
+^008040Manto do Médico(Valor:80)^000000
+Armadura desenvolvida para o guerreiro que toma a frente da batalha. Pode ser utilizada em conjunto com outros equipamentos.
+Reduz em 2% o dano recebido de Humanóides.
+HP Máx + 150. DEFM + 2.
+Quando equipada juntamente com as Botas de Combate e o Manteau do Comandante:
+O usuário receberá 3x mais dano de monstros que não sejam Humanóides;
+INT + 3, Aumenta em 12% o HP Máx;
+Reduz em 50% o tempo de conjuração da habilidade Luz Divina;
+Aumenta em 6% a eficácia das habilidades Cura e Santuário;
+A cada ataque recebido, existe a chance da armadura do alvo ser encantada com a propriedade Fantasma. O efeito terá a duração de dez segundos.
+Tipo de Arma: ^777777Armadura^000000    Defesa: ^7777773^000000   Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Noviço^000000
+
+^008040Túnica do Arqueiro de Elite(80)^000000
+Armadura desenvolvida para o guerreiro que quer se especializar em combate. Pode ser utilizada em conjunto com outros equipamentos.
+Reduz em 2% o dano recebido de Humanóides.
+HP Máx + 150. DEFM + 2.
+Quando equipada juntamente com as Botas de Combate e o Manteau do Comandante:
+O usuário receberá 3x mais dano de monstros que não sejam Humanóides; 
+DES + 3, Aumenta em 12% o HP Máx;
+Reduz em 25% o tempo de recarga entre as habilidades, e em 10% o dano causado por ataques a longa distância.
+Tipo de Arma: ^777777Armadura^000000    Defesa: ^7777773^000000   Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Arqueiro^000000
+
+^008040Túnica do Artilheiro de Elite(80)^000000
+Armadura desenvolvida especialmente para Justiceiros. Pode ser utilizada em conjunto com outros equipamentos.
+Reduz em 2% o dano recebido de Humanóides.
+HP Máx + 150. DEFM + 2.
+Quando equipada juntamente com os itens Botas de Batalha e Manto do Xerife:
+O usuário receberá 3x mais dano de monstros que não sejam Humanóides;
+DES + 3, Aumenta em 12% o HP Máx
+Reduz em 25% o tempo de recarga entre as habilidades, e em 10% o dano causado por ataques à longa distância.
+Tipo de Arma: ^777777Armadura^000000    Defesa: ^7777773^000000   Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Acessório]^000000
+^008040Medalha de Honra (500)^000000
+Medalha concedida apenas ao mais valoroso guerreiro.
+ATQ + 5%, ATQM + 5%. Precisão + 10. HP Máx + 500. SP Máx + 50.
+Adiciona a chance de causar Atordoamento no inimigo ao atacar fisicamente.
+Tipo de Arma: ^777777Acessório^000000   Defesa: ^7777771^000000   
+Peso: ^7777770^000000   Nível Necessário: ^77777770^000000
+Classe: ^777777Espadachim, Mestre Taekwon^000000
+
+^008040Medalha de Honra (500)^000000
+Medalha concedida apenas ao mais valoroso guerreiro.
+ATQ + 5%, ATQM + 5%. Esquiva + 10. HP Máx + 300.SP Máx + 80. 
+Adiciona a chance de causar Envenenamento no inimigo ao atacar fisicamente.
+Tipo de Arma: ^777777Acessório^000000   Defesa: ^7777771^000000   
+Peso: ^7777770^000000   Nível Necessário: ^77777770^000000
+Classe: ^777777Gatuno e evoluções^000000
+
+^008040Medalha de Honra (500)^000000
+Medalha concedida apenas ao mais valoroso guerreiro.
+ATQ + 5%, ATQM + 5%. DEFM + 6.  Máx HP + 600.
+Adiciona a chance de causar Silêncio no inimigo ao atacar fisicamente.
+Tipo de Arma: ^777777Acessório^000000   Defesa: ^7777771^000000   
+Peso: ^7777770^000000   Nível Necessário: ^77777770^000000
+Classe: ^777777Noviço e evoluções^000000
+
+^008040Medalha de Honra (500)^000000
+Medalha concedida apenas ao mais valoroso guerreiro.
+ATQ + 5%, ATQM + 5%. DEFM + 6. HP Máx + 600.
+Adiciona a chance de causar Petrificação no inimigo ao atacar fisicamente.
+Tipo de Arma: ^777777Acessório^000000   Defesa: ^7777771^000000   
+Peso: ^7777770^000000   Nível Necessário: ^77777770^000000
+Classe: ^777777Mago e evoluções^000000
+
+^008040Medalha de Honra (500)^000000
+Medalha concedida apenas ao mais valoroso guerreiro.
+ATQ + 5%, ATQM + 5%. Crítico + 10. HP Máx + 300. SP Máx + 80.
+Adiciona a chance de causar Cegueira no inimigo ao atacar fisicamente.
+Tipo de Arma: ^777777Acessório^000000   Defesa: ^7777771^000000   
+Peso: ^7777770^000000   Nível Necessário: ^77777770^000000
+Classe: ^777777Arqueiro e evoluções^000000
+
+^008040Medalha de Honra (500)^000000
+Medalha concedida apenas ao mais valoroso guerreiro.
+ATQ + 5%, ATQM + 5%. Vel de Atq + 10%. HP Máx + 500. SP Máx + 50. 
+Adiciona a chance de causar Maldição no inimigo ao atacar fisicamente.
+Tipo de Arma: ^777777Acessório^000000   Defesa: ^7777771^000000   
+Peso: ^7777770^000000   Nível Necessário: ^77777770^000000
+Classe: ^777777Mercador e evoluções^000000
+
+^008040Estrela de Xerife(500)^000000
+Um emblema concedido a um guerreiro honrado.
+ATQ + 5%, ATQM + 5%. Crítico + 10. HP Máx + 300. SP Máx + 80.
+Adiciona a chance de infligir Cegueira no inimigo quando o usuário utilizar ataques físicos de longa distância.	
+Tipo de Arma: ^777777Acessório^000000   Defesa: ^7777771^000000   
+Peso: ^7777770^000000   Nível Necessário: ^77777780^000000
+Classe: ^777777Justiceiro^000000
+
+^ff0000[Item Consumível]^000000
+^008040Ração Rosa Gostosa(10)^000000
+Mantimentos preparados para situações urgentes. Não coma muito rápido, você pode se engasgar.
+^000088ATQ + 15 por 10 minutos.^000000
+Peso: ^7777777^000000
+
+^008040Ração Branca Gostosa(10)^000000
+Mantimentos preparados para situações urgentes. Não coma muito rápido, você pode se engasgar.
+^000088ATQM + 15 por 10 minutos.^000000
+Peso: ^7777777^000000
+
+^008040Ração Militar A(5)^000000
+Lanche conveniente para guerreiros ocupados. O gosto não é tão conveniente assim...
+^000088Restaura 5% de HP^000000
+Peso: ^7777777^000000
+
+^008040Ração Militar B(10)^000000
+Lanche conveniente para guerreiros ocupados. O gosto não é tão conveniente assim...
+^000088Precisão + 33 por 10 minutos.^000000
+Peso: ^7777777^000000
+
+^008040Ração Militar C(10)^000000
+Lanche conveniente para guerreiros ocupados. O gosto não é tão conveniente assim...
+^000088Esquiva + 33 por 10 minutos.^000000
+Peso: ^7777777^000000

@@ -1,0 +1,124 @@
+%faf0e6
+^4d4dffPoção de Iniciante^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Ingredientes: 2 Ervas Vermelhas e 1 Maçã
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Procedimento: Com os ingredientes no inventário, dê um clique duplo no "Kit de Culinária Iniciante".>
+
+Você pode iniciar essa receita com qualquer Erva Vermelha que você tiver,
+pode ser de monstros ou compradas nas lojas dos mercadores.
+
+1. Amasse as 2 Ervas Vermelhas com a mão.
+2. Se você estiver com fome, coma 1 Maçã.
+3. Se você seguiu as instruções, deverá ter suco de Ervas na sua mão.
+4. Esquecemos de dizer que você deveria ter lavado as suas mãos primeiro...
+5. .....Bom, tem suco de ervas vermelhas na sua mão, esperamos que seja uma Poção.
+
+
+^CD3278Lupa de Iniciante^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Ingredientes: 3 Troncos de Alta Qualidade e 1 Jellopy
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Procedimento: Com os ingredientes no inventário, dê um clique duplo no "Kit de Culinária Iniciante".>
+
+Requer Troncos de Alta Qualidade, pois outros tipos de Tronco podem causar um problema ambiental muito sério.
+O Jellopy serve para... criar uma harmonia!
+
+1. Corte o Tronco no formato que desejar.
+2. Lixe o Tronco para ficar liso.
+ -> Dica do Cozinheiro: cuidado com as farpas...
+3. Se levar muito tempo para lixar, pare e tire um cochilo.
+4. Ao acordar, todos os seus problemas continuarão lá, mas você terá dormido.
+
+
+^4C1919Asa de Mosca de Iniciante^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Ingredientes: 2 Felpas, 2 Plumas e 2 Jellopy
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Procedimento: Com os ingredientes no inventário, dê um clique duplo no "Kit de Culinária Iniciante".>
+
+Em algum lugar, a combinação de Felpa, Pluma e Jellopy não soa tão ridícula quanto parece.
+
+1. Era uma vez, 2 Felpas felizes e sorridentes.
+2. Também tinham 2 Plumas ali presentes.
+3. Um belo dia, 2 Jellopys chegaram.
+4. E em um clique, eles combinaram!
+5. Agora você tem algo que sempre quis.
+6. E este é um final feliz!
+
+
+^231010Punhal de Iniciante^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Ingredientes: 10 Cascas, 10 Peles de Verme e 1 Fracon
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Procedimento: Com os ingredientes no inventário, dê um clique duplo no "Kit de Culinária Iniciante".>
+
+Para começar as suas aventuras nas batalhas, um Punhal de Iniciante é a melhor arma!
+
+Observe que ela não equipa em todas as classes, viu?
+
+1. Junte todos os ingredientes em um só lugar, mas não vou dizer qual.
+2. Repita o passo 1 até achar o lugar que eu estou pensando.
+3. Repita o passo 2 até encontrar o lugar.
+
+
+ ^ff0000Em caso de falha, por favor, comece pelo passo 1.^000000
+
+
+^4C1919Criação de Sucos^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Ingredientes: veja abaixo
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Procedimento: Com os ingredientes no inventário, dê um clique duplo no "Kit de Culinária Iniciante".>
+
+Marxhansen ensinou a técnica dos sucos para Morrison, em Prontera.
+Essa versão não precisa de Garrafas Vazias.
+
+1. ^003A9DSuco de Banana:^000000 1 Leite e 1 Banana
+2. ^003A9DSuco de Maçã:^000000 1 Leite e 1 Maçã
+3. ^003A9DSuco de Cenoura:^000000 1 Leite e 1 Cenoura
+4. ^003A9DSuco de Uva:^000000 1 Uva e 1 Suco de Maçã
+
+
+^4C1919Maçã Verde^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Ingredientes: 10 Mucos Pegajosos, 20 Ervas Verdes e 10 Maçãs
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Procedimento: Com os ingredientes no inventário, dê um clique duplo no "Kit de Culinária Iniciante".>
+
+Maçã Verde é o item para domesticar Porings.
+Para domesticar um monstro, realize os procedimentos:
+
+1. Dê um clique duplo na Maçã Verde.
+2. Mire o mouse no monstro Poring.
+3. Uma tela vai aparecer, clique nela.
+4. Domesticar um monstro depende das chances de captura.
+5. Se for um sucesso, você receberá 1 Ovo de Poring.
+6. Em caso de falha, você perde o item de domesticação.
+
+Lembre-se de alimentar seu novo bichinho de estimação regularmente.
+Você pode dar um nome para sua mascote somente 1 vez.
+
+
+^006F61Outras Receitas^000000
+...
+
+^8B4513Esta página parece estar manchada.^000000

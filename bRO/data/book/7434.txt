@@ -1,0 +1,47 @@
+%faf0e6
+^000088Produzir poções especiais para elevar 
+resistência a propriedades elementais.^000000
+
+----------------Prefácio--------------------
+Você pode temporariamente aumentar a resistência aos quatro elementos
+básicos, propriedades de Fogo, Água, Vento e Terra, usando catalisadores
+para produzir poções que irão proporcionar proteção contra cada elemento.
+Eu escrevo este livro de resistências elementais com a intenção de que
+meus princípios e conhecimento dos quatro elementos ajudem futuros Alquimistas.
+------------------------------------------
+
+O que é uma ^ff0000poção de resistência elemental^000000?
+
+Poções de resistência elemental aumentam temporariamente a resistência
+contra um elemento, mas também reduz a resistência ao elemento oposto.
+Por exemplo, poções de resistência a fogo podem reduzir o dano da
+propriedade fogo, mas também aumentar o dano da propriedade Água.
+
+^0000ffPoção de resistência a fogo^000000:
+Aumenta resistência à propriedade Fogo.
+Materiais necessários: ^4b008222 Brasão, 1 Gema Vermelha, 1 Garrafa de Poção^000000
+Procedimento: Coloque o Brasão e a Gema Vermelha em uma Vasilha de Mistura.
+Use a habilidade Preparar Poção, então a Gema começará a catalisar os outros
+ingredientes. Depois, despeje a solução em uma Garrafa de Poção.
+
+^800000Poção de resistência a Água^000000:
+Aumenta resistência à propriedade Água.
+Materiais necessários: ^4b00823 Coração de Sereia, 1 Gema Azul, 1 Garrafa de Poção^000000
+Procedimento: Coloque o Coração de Sereia e a Gema Azul em uma Vasilha de Mistura.
+Use a habilidade Preparar Poção, então a Gema começará a catalisar os outros
+ingredientes. Depois, despeje a solução em uma Garrafa de Poção.
+
+^008040Poção de resistência a Vento^000000:
+Aumenta resistência à propriedade Vento.
+Materiais necessários: ^4b00823 Pó de Traça, 1 Gema Azul, 1 Garrafa de Poção^000000
+Procedimento: Coloque o Pó de Traça e a Gema Azul em uma Vasilha de Mistura.
+Use a habilidade Preparar Poção, então a Gema começará a catalisar os outros
+ingredientes. Depois, despeje a solução em uma Garrafa de Poção.
+
+^ff8040Poção de resistência a Terra^000000:
+Aumenta a resistência à propriedade Terra.
+Materiais necessários: ^4b00822 Jellopy Tamanho Família, 1 Gema Amarela, 1 Garrafa de Poção^000000
+Procedimento: Coloque o Jellopy Tamanho Família e a Gema Amarela em uma
+Vasilha de Mistura. Use a habilidade Preparar Poção, então a Gema começará
+a catalisar os outros ingredientes. Depois, despeje a solução em uma
+Garrafa de Poção.

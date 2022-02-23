@@ -1,0 +1,28 @@
+%faf0e6
+^000088Príncipios Básicos da Alquimia: Criar Esfera Marinha^000000
+
+
+----------------Prefácio--------------------
+Descobrimos um monstro chamado Esfera Marinha enquanto explorávamos
+Izlude. Aquilo flutuou pacificamente na água, mas explodiu quando algo
+entrou em contato com ele. Nós desenvolvemos um método que possibilita
+que ela viva fora d’água e se mova pelo ar. Desenvolvemos também um método
+para que este monstro possa ser convertido quimicamente em forma de uma
+garrafa. Acreditamos que usar as Esferas Marinhas como bombas pode ser útil
+para os Alquimistas se defenderem de monstros hostis.
+
+------------------------------------------
+
+O que é uma ^400080Esfera Marinha^000000 ?
+
+Esferas Marinhas são bombas vivas que explodem se algo as tocar.
+Elas podem se transformar em Garrafas que devem ser manuseadas com os
+devidos cuidados. Os Alquimistas precisam aprender a habilidade
+Criar Esfera Marinha para transformar Garrafas de Esfera Marinha em suas
+formas originais.
+
+Ingredientes: ^4b00821 Neurônio, 1 Tendão, 1 Garrafa Vazia^000000
+
+Instruções: Coloque o Neurônio e o Tendão dentro de um recipiente e use a
+habilidade de Preparar Poções. Você precisa conhecer a habilidade
+Criar Esfera Marinha se deseja criar uma Esfera Marinha de uma Garrafa.

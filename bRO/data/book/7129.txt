@@ -1,0 +1,31 @@
+%faf0e6
+^000088Príncipios Básicos da Alquimia: Garrafa de Ácido^000000
+
+
+----------------Prefácio--------------------
+
+Nós aprendemos que podemos produzir cloreto de hidrogênio sob certas
+circunstâncias em nossa experiência com Corações Imortais.
+Ácido clorídrico é um forte ácido com um alto grau de ionização:
+ele é tão ácido que pode derreter pedras e precisa ser manuseado com
+as medidas de segurança apropriadas. Este livro detalha o processo de
+produção de ácido clorídrico para ser usado em Garrafas de Ácido.
+
+------------------------------------------
+
+O que é ^008040ácido clorídrico^000000 ?
+
+Ácido clorídrico é uma solução aquosa do gás Cloreto de Hidrogênio (HCl).
+Garrafas de Ácido usadas em combates normalmente são preenchidas com
+ácido clorídrico.
+
+Ingredientes: ^4b00821 Coração Imortal, 1 Garrafa Vazia^000000
+
+Instruções: Coloque o Coração Imortal em um recipiente e adicione água.
+Esquente o recipiente utilizando um aquecedor duplo mantendo a água na
+temperatura de 72 graus. Colete o gás vindo do recipiente e destile-o
+para produzir hidrogênio clorídrico.
+Preencha a Garrafa Vazia com água e combine-a com o hidrogênio clorídrico
+em sua forma ácida. Mantenha este livro sobre suas posses como referência
+enquanto você coleta os ingredientes e use a Habilidade de Criar Poções
+para que você crie a Garrafa de Ácido.

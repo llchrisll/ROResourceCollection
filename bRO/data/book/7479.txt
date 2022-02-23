@@ -1,0 +1,102 @@
+%faf0e6
+^000088Um livro escrito por um chefe que andou por todo o Reino de Rune-Midgard!^000000
+ - Um impressionante tomo com receitas de Nível 8 -
+Saboreie os maravilhosos pratos de um misterioso mundo da culinária!
+
+
+^ff0000Pé de Urso Especial:^000000 
+Ingredientes: ^4b008220 Patas de Urso, 10 Cenouras, 10 Zés-Lanterna, 2 Folhas de Aloé, 
+                   1 Folha de Hinalle, 1 Molho Saboroso^000000
+Instruções: 
+	1. Deixe as Patas de Urso de molho na água por algumas horas.
+	2. Lave e enxágüe as Patas de Urso em água corrente, e afervente. 
+                    Lave mais uma vez as Patas de Urso, e atravesse-as com 
+                    sulcos profundos. Depois disso, embrulhe a carne com um pano de algodão.
+	3. Ferva as Patas de Urso embrulhadas com água, sal, vinho e pimenta. Tire a espuma 
+                    quando a mistura ferver, e adicione gengibre e pimentas verdes.
+	4. Cozinhe o caldo em fogo lento por algumas horas.
+	5. Corte as Cenouras e os Zés-Lanterna em fatias, e afervente.
+	6. Lave as folhas e frite-as com sal. Sirva metade das folhas fritas em 
+                    um prato, e coloque as Patas de Urso sobre elas. Use o resto das 
+                    folhas para enfeitar o prato, junto com as cenouras e abóboras aferventadas.
+	7. Adicione o Molho Saboroso ao caldo de Pata de Urso, e ferva um pouco mais. 
+                    Quando o caldo engrossar, adicione azeite e derrame o caldo sobre 
+                    as patas cozidas no vapor.
+Nota: As Patas de Urso têm um odor característico. Certifique-se de remover todo o cabelo e sujeira 
+antes de cozinhar, troque com freqüência a água ao lavar as patas, e cozinhe no vapor 
+com fogo máximo.
+
+^0000ffChá da Família Real:^000000 seu gosto depende de como ele é misturado.
+Ingredientes: ^4b00824 Frutas Espinhosas, 10 Folhas de Hinalle, 3 Folhas de Yggdrasil, 10 Folhas de Aloé, 
+                   6 Geléias Reais, 1 Condimento Amarelo^000000
+Instruções: 
+	1. Seque e torre as Frutas Espinhosas e as folhas de ervas.
+	2. Corte as folhas e frutas torradas no comprimento desejado e misture-as. Use mais Frutas Espinhosas 
+                    na mistura se quiser um sabor mais ácido, ou mais Folhas de Hinalle 
+                    se preferir um sabor amargo.
+	3. Esquente a água e coloque-a em uma chaleira antes de ferver.
+	4. Deixe os pedaços pequenos de folhas e frutas infundindo por 2 ou 3 minutos, e os pedaços grandes por 
+                    3 ou 4 minutos.
+	5. Adicione a Geléia Real e o Condimento Amarelo a gosto antes de beber.
+
+^800000Torrada Especial:^000000 uma torrada feita com ingredientes diferentes!
+Ingredientes: ^4b008210 Pães, 2 Geléias Reais, 5 Carnes, 10 Morangos, 1 Molho Picante, 10 Queijos, 
+                   1 Molho Doce^000000
+Instruções: 
+	1. Moa a Carne e misture com o Molho Picante.
+	2. Faça um hambúrguer com a carne moída e asse até ficar bem passada.
+	3. Faça uma geléia com os Morangos, ou apenas corte em fatias se estiverem frescos.
+	4. Toste e passe manteiga em 2 fatias de Pão.
+	5. Espalhe a geléia de morango sobre uma fatia de pão, e coloque o hambúrguer 
+                    por cima. Espalhe o Molho Doce, coloque uma fatia de queijo, e cubra com 
+                    a outra fatia.
+	6. Se você tiver usado Morangos frescos fatiados, espalhe o Molho Picante sobre uma fatia de pão, 
+                    e coloque o hambúrguer em cima. Misture o Molho Doce com a Geléia Real, 
+                    e espalhe sobre a outra fatia de pão, acrescente uma fatia de queijo 
+                    e os Morangos fatiados por cima.
+	7. Junte as duas fatias para formar o sanduíche.
+
+^008040Curry Incrivelmente Picante:^000000 um curry mais apimentado do que você imagina!
+Ingredientes: ^4b00821 Aloé Vera, 1 Molho Picante, 10 Carnes, 10 Folhas de Hinalle, 10 Zés-Lanterna, 
+                    10 Cenouras^000000
+Instruções: 
+	1. Seque a Aloé Vera e as Folhas de Hinalle, e triture ao ponto de pó.
+	2. Misture os pós na proporção desejada.
+	3. Corte a Carne em quadrados de 2 cm, e salpique sal e pimenta. 
+	4. Corte os Zés-Lanterna e as Cenouras em quadrados, e frite com manteiga.
+	5. Frite a carne cortada, sem os vegetais. Acrescente os vegetais fritos 
+                    quando a carne estiver cozida pela metade, e frite um pouco mais.
+	6. Adicione o pó de Aloé Vera e Hinalle e a água à panela.
+	7. Ferva a mistura, acrescente o Molho Picante, e continue fervendo 
+                    até o curry engrossar.
+
+^ff8040Burrito Gigante:^000000 grande o bastante para dividir com os amigos!
+Ingredientes: ^4b008220 Folhas de Figo, 20 Carnes, 5 Cenouras Arco-Íris, 10 Zés-Lanterna, 
+                   1 Molho Saboroso, 2 Sacolas de Grãos^000000
+Instruções:
+	1. Descasque os caules das Folhas de Figo. Cozinhe no vapor as Folhas de Figo com os Zés-Lanterna, 
+                    e esfrie-os com água corrente.
+	2. Deixe a Carne de molho em água para tirar o excesso de sangue, e amarre-a com um barbante.
+	3. Ferva as Cenouras e os Zés-Lanterna na água para fazer um caldo.
+	4. Coloque a Carne amarrada no caldo, e ferva por 40 minutos. 
+                    Acrescente o Molho Saboroso a gosto.
+	5. Quando a Carne estiver cozida, desligue o fogo e deixe esfriar.
+	6. Corte a Carne em fatias finas.
+	7. Peneire os grãos e cozinhe um pouco de arroz.
+	8. Corte as Cenouras em fatias finas e frite.
+	9. Estenda uma Folha de Figo, e dobre o caule por cima da folha.
+	10. Coloque o arroz, as fatias de carne e cenoura e os Zés-Lanterna cozidos sobre a folha.
+	11. Espalhe o Molho Saboroso por cima e enrole a folha para montar o burrito.
+
+^400080Bolinho de Arroz com Morango:^000000 um delicioso bolinho de arroz, 
+                                                               também conhecido como Bolinho de Poring.
+Ingredientes: ^4b008210 Morangos, 5 Sacolas de Grãos, 10 Folhas de Figo, 1 Condimento Amarelo, 2 Condimentos Vermelhos, 
+                   1 Molho Saboroso^000000
+Instruções:
+	1. Peneire os grãos e cozinhe um pouco de arroz.
+	2. Esprema os morangos para fazer suco.
+	3. Coloque o arroz cozido em uma tigela grande, e deixe esfriar.
+	4. Acrescente o Molho Saboroso, os condimentos e o suco de morango ao arroz, 
+                    e misture tudo muito bem. 
+	5. Pegue um punhado de arroz para formar uma bola, e embrulhe-a com uma Folha de Figo aferventada.
+         

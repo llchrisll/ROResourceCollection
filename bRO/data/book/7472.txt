@@ -1,0 +1,59 @@
+%faf0e6
+^000088- Não entre em pânico se ficar perdido e sozinho em campo selvagem. 
+Você pode sobreviver com as receitas deste livro! -^000000
+
+Você Consegue: Culinária - Nível 1!
+
+^ff0000Pernas de Gafanhoto Fritas:^000000 Não se preocupe, as pernas de gafanhoto são bem gostosas, 
+                                                    e não ficam pulando por aí depois que ficam bem fritas.
+Ingredientes: ^4b00825 Pernas de Gafanhoto, 1 Frigideira Velha, 1 Óleo de Cozinha^000000
+Instruções: 
+	1. Aqueça a frigideira velha em fogo médio. (Frigideiras novas tendem a absorver o óleo, e 
+                    demoram mais tempo para esquentar. Se você não tiver uma frigideira velha, use 
+                    gordura de Selvagem para untar uma frigideira nova.)
+	2. Coloque 2 colheres de sopa de Óleo de Cozinha na frigideira, e frite levemente 3 Pernas de Gafanhoto. 
+                   Quando as pernas ficarem douradas, coloque as outras 2 Pernas e mais 1 colher de sopa de 
+                   Óleo de Cozinha, e frite tudo até ficar crocante.
+
+^0000ffChá de Ervas com Uvas:^000000É só misturar uvas e poções!
+Ingredientes: ^4b00823 Uvas, 2 Poções Vermelhas^000000
+Instruções: 
+	1. Esprema 1 Uva, e então misture-a com 1 Poção Vermelha em uma batedeira. 
+                    Lembre-se: não tire as sementes e a pele das Uvas! Quando a Uva e a 
+                    Poção Vermelha estiverem bem batidas, acrescente a outra Poção e 
+                    bata por 10 segundos.
+
+
+
+^800000Suco de Uva e Mel:^000000 Dessa vez, é só misturar Uvas e Mel!
+Ingredientes: ^4b00821 Mel, 2 Uvas, 1 Poção Vermelha^000000
+Instruções: Siga a mesma receita do Chá de Ervas com Uvas, mas adicione o Mel 
+                   em vez da Poção Vermelha na etapa final.
+
+^008040Sopa de Tinta de Lula e Ovas de Sapo:^000000 Uma sopa saudável com molho de Tinta de Lula.
+Ingredientes: ^4b00821 Sacola de Grãos, 10 Ovas de Sapo, 1 Tinta de Lula^000000
+Instruções: 
+	1. Coloque as Ovas de Sapo em uma tigela com água fria para que fiquem consistentes, e moa 
+                    os grãos.
+	2. Misture os grãos com água e cozinhe em fogo brando até engrossar.  
+   	3. Acrescente as Ovas de Sapo à mistura.
+	4. Quando as Ovas estiverem tenras, adicione a Tinta de Lula como molho, e aumente o fogo 
+                    até a mistura ferver.
+          
+^ff8040Garras de Caranguejo no Vapor:^000000 É divertido descascar e comer caranguejo!
+Ingredientes: ^00804010 Garras de Crustáceo, 10 Ervas Verdes, 1 Poção Amarela^000000
+Instruções:
+	1. Deixe as Garras marinando na Poção Amarela durante a noite antes de cozinhar.
+	2. Cubra uma panela de pressão com um pano de algodão limpo, e adicione as Ervas Verdes e 
+                    as Garras marinadas.
+	3. Cozinhe as Garras no vapor até a cor da casca ficar bem vermelha.
+
+^400080Caudas de Macaco Fritas:^000000 Você pode achar que as caudas são duras de mastigar, 
+                                             mas depois de cozinhar fica fácil de comer.
+Ingredientes: ^0080405 Caudas de Yoyo, 1 Frigideira Velha, 1 Óleo de Cozinha^000000
+Instruções: 
+	1. Tire a pele das Caudas de Yoyo e corte-as em pedaços pequenos.
+	2. Aqueça a Frigideira Velha em fogo médio, coloque o Óleo de Cozinha e frite uma pequena quantidade 
+                    de Caudas de Yoyo. A carne vai ficar muito dura se você fritar tudo 
+                    de uma vez, então frite as caudas em porções menores.
+          

@@ -1,0 +1,25 @@
+^000088Itens de Esplendor à Venda^000000
+
+Você pode comprar os itens abaixo com Moedas de Esplendor.
+
+
+^008040[Geleia de Frutas de Pinguicula]^000000
+Geleia doce, feita com os frutos da Pinguicula.
+Quando usada, aumenta em 10% por 10 minutos o dano causado por ataque corporal contra monstros nos campos de Esplendor.
+^000088(Pinguicula, Vespa Vagalume, Cornus, Naga, Tendrillion)^000000
+^ffffff_^000000
+Peso: ^7777775^000000
+
+^008040[Geleia de Mel de Vagalume]^000000
+Geleia doce, feita com mel de Lucíola e ervas.
+Quando usada, reduz em 10% por 10 minutos o dano físico e mágico causado contra usuários pelos monstros nos campos de Esplendor.
+^000088(Pinguicula, Vespa Vagalume, Cornus, Naga, Tendrillion)^000000
+^ffffff_^000000
+Peso: ^7777775^000000
+
+^008040[Lágrimas de Cornus]^000000
+Uma poção refinada a partir das lágrimas de Cornus. Ninguém sabe como conseguir essas lágrimas.
+Quando usada, aumenta em 10% por 10 minutos o dano mágico contra monstros nos campos de Esplendor.
+^000088(Pinguicula, Vespa Vagalume, Cornus, Naga, Tendrillion)^000000
+^ffffff_^000000
+Peso: ^7777775^000000
