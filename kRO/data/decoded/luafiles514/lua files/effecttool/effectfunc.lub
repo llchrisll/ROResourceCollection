@@ -201,4 +201,26 @@ ReadEZ2STRInfoz = function(tablename)
   end
 end
 
+ReadWindEffectInfoz = function(tablename)
+  -- function num : 0_7
+  local t = _G[tablename]
+  if t ~= nil then
+    for k,v in pairs(t) do
+      SetWindEffectInfo(k, MSG_SET_POS, (v.pos)[1], (v.pos)[2], (v.pos)[3])
+      SetWindEffectInfo(k, MSG_SET_NUMBER, v.particleNum)
+      SetWindEffectInfo(k, MSG_SET_COLOR, (v.color)[1], (v.color)[2], (v.color)[3], (v.color)[4])
+      SetWindEffectInfo(k, MSG_SET_SIZE, v.radius)
+      SetWindEffectInfo(k, MSG_SET_RISEANGLE, v.thickness)
+      SetWindEffectInfo(k, MSG_SET_HEIGHT0, v.height)
+      SetWindEffectInfo(k, MSG_SET_SPEED, v.speed)
+      SetWindEffectInfo(k, MSG_SET_FDA, v.fullAngle)
+      SetWindEffectInfo(k, MSG_SET_ROTATE_ANGLE, (v.rotateVector)[1], (v.rotateVector)[2])
+      SetWindEffectInfo(k, MSG_SET_SRCMODE, v.srcMode)
+      SetWindEffectInfo(k, MSG_SET_DESTMODE, v.destMode)
+      SetWindEffectInfo(k, MSG_SET_TEXTURE, v.texture)
+      SetWindEffectInfo(k, MSG_SET_INIT)
+    end
+  end
+end
+
 

@@ -5,6 +5,118 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+True_GemShadow_Up = {ItemID = 101308, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Armor", 24675}
+}
+, NeedSource_String = "트루 젬스톤 쉐도우"}
+, 
+EXPShadow_Up = {ItemID = 101309, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_EXP_Shoes", 24684}
+, 
+{"S_EXP_Shield", 24683}
+}
+, NeedSource_String = "익스피리언스 쉐도우"}
+, 
+MagicalShadow_Up = {ItemID = 101310, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Clever_Shield", 24737}
+, 
+{"S_Clever_Weapon", 24736}
+}
+, NeedSource_String = "클레버 쉐도우"}
+, 
+InfinityShadow_Up = {ItemID = 101311, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Infinity_Shield", 24733}
+, 
+{"S_Infinity_Weapon", 24386}
+}
+, NeedSource_String = "인피니티 쉐도우"}
+, 
+R_BearersShadow_Mix = {ItemID = 101257, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"베어러즈슈즈S2", 1, 24338}
+, 
+{"베어러즈아머S2", 1, 24337}
+, 
+{"베어러즈펜던트S2", 1, 24321}
+, 
+{"베어러즈이어링S", 1, 24184}
+, 
+{"베어러즈펜던트S", 1, 24185}
+, 
+{"베어러즈아머S", 1, 24180}
+, 
+{"베어러즈웨폰S", 1, 24183}
+, 
+{"베어러즈슈즈S", 1, 24181}
+, 
+{"베어러즈쉴드S", 1, 24182}
+}
+, NeedSource_String = "베어러즈 쉐도우"}
+, 
+M_BlitzShadow_Mix = {ItemID = 101258, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"블리츠아머S", 1, 24344}
+, 
+{"블리츠웨폰S", 1, 24343}
+, 
+{"블리츠쉴드S", 1, 24232}
+, 
+{"블리츠슈즈S", 1, 24231}
+, 
+{"블리츠펜던트S", 1, 24218}
+, 
+{"블리츠이어링S", 1, 24217}
+}
+, NeedSource_String = "블리츠 쉐도우"}
+, 
+ReloadShadow_Mix = {ItemID = 101181, NeedCount = 3, NeedRefineMin = 9, NeedRefineMax = 10, 
+SourceItems = {
+{"리로드아머S", 1, 24245}
+, 
+{"리로드슈즈S", 1, 24243}
+, 
+{"리로드쉴드S", 1, 24244}
+, 
+{"리로드아머S2", 1, 24331}
+}
+, NeedSource_String = "리로드 쉐도우"}
+, 
+SpellCasterShadow_Mix = {ItemID = 101182, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"스펠플로우쉴드S2", 1, 24323}
+, 
+{"스펠플로우쉴드S", 1, 24113}
+, 
+{"스펠플로우아머S", 1, 24112}
+, 
+{"스펠플로우슈즈S", 1, 24111}
+, 
+{"캐스터아머S2", 1, 24330}
+, 
+{"캐스터아머S", 1, 24242}
+, 
+{"캐스터쉴드S", 1, 24241}
+, 
+{"캐스터슈즈S", 1, 24240}
+, 
+{"캐스터웨폰S", 1, 24110}
+, 
+{"캐스터이어링S", 1, 24109}
+, 
+{"캐스터펜던트S", 1, 24048}
+}
+, NeedSource_String = "스펠플로우,캐스터쉐도우"}
+, 
 SLD_Card_Recipe = {ItemID = 101075, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
 {"봉인된다크로드카드", 1, 4488}
@@ -1534,6 +1646,52 @@ SourceItems = {
 {"S_CriticalHit_Weapon", 1, 24738}
 , 
 {"S_KingbirdAnc_Weapon", 1, 24745}
+, 
+{"S_P_Power_Weapon", 1, 24751}
+, 
+{"S_P_Power_Shield", 1, 24752}
+, 
+{"S_M_Spell_Weapon", 1, 24753}
+, 
+{"S_M_Spell_Shield", 1, 24754}
+, 
+{"S_Concentration_Weapon", 1, 24755}
+, 
+{"S_Concentration_Shield", 1, 24756}
+, 
+{"S_Wisdom_Weapon", 1, 24757}
+, 
+{"S_Wisdom_Shield", 1, 24758}
+, 
+{"S_Stamina_Weapon", 1, 24759}
+, 
+{"S_Stamina_Shield", 1, 24760}
+, 
+{"S_Creative_Weapon", 1, 24761}
+, 
+{"S_Creative_Shield", 1, 24762}
+, 
+{"S_S_Reload_Shield", 1, 24746}
+, 
+{"S_SpellCaster_Armor", 1, 24747}
+, 
+{"S_SpellCaster_Shoes", 1, 24748}
+, 
+{"S_SpellCaster_Earring", 1, 24749}
+, 
+{"S_SpellCaster_Pendant", 1, 24750}
+, 
+{"S_R_Bearers_Shoes", 1, 24763}
+, 
+{"S_R_Bearers_Armor", 1, 24764}
+, 
+{"S_R_Bearers_Pendant", 1, 24765}
+, 
+{"S_R_Bearers_Earring", 1, 24766}
+, 
+{"S_Mega_Blitz_Shield", 1, 24767}
+, 
+{"S_Mega_Blitz_Weapon", 1, 24768}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5164,6 +5322,52 @@ SourceItems = {
 {"S_CriticalHit_Weapon", 1, 24738}
 , 
 {"S_KingbirdAnc_Weapon", 1, 24745}
+, 
+{"S_P_Power_Weapon", 1, 24751}
+, 
+{"S_P_Power_Shield", 1, 24752}
+, 
+{"S_M_Spell_Weapon", 1, 24753}
+, 
+{"S_M_Spell_Shield", 1, 24754}
+, 
+{"S_Concentration_Weapon", 1, 24755}
+, 
+{"S_Concentration_Shield", 1, 24756}
+, 
+{"S_Wisdom_Weapon", 1, 24757}
+, 
+{"S_Wisdom_Shield", 1, 24758}
+, 
+{"S_Stamina_Weapon", 1, 24759}
+, 
+{"S_Stamina_Shield", 1, 24760}
+, 
+{"S_Creative_Weapon", 1, 24761}
+, 
+{"S_Creative_Shield", 1, 24762}
+, 
+{"S_S_Reload_Shield", 1, 24746}
+, 
+{"S_SpellCaster_Armor", 1, 24747}
+, 
+{"S_SpellCaster_Shoes", 1, 24748}
+, 
+{"S_SpellCaster_Earring", 1, 24749}
+, 
+{"S_SpellCaster_Pendant", 1, 24750}
+, 
+{"S_R_Bearers_Shoes", 1, 24763}
+, 
+{"S_R_Bearers_Armor", 1, 24764}
+, 
+{"S_R_Bearers_Pendant", 1, 24765}
+, 
+{"S_R_Bearers_Earring", 1, 24766}
+, 
+{"S_Mega_Blitz_Shield", 1, 24767}
+, 
+{"S_Mega_Blitz_Weapon", 1, 24768}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5690,6 +5894,28 @@ SourceItems = {
 {"ReloadStone_Robe_D", 1, 1000675}
 , 
 {"CrtStone_Robe_D", 1, 1000676}
+, 
+{"CriticalStone_Robe_D", 1, 1000855}
+, 
+{"ConStone_Robe_D", 1, 1000856}
+, 
+{"ArchbishopStone_Top3", 1, 1000857}
+, 
+{"ArchbishopStone_Middle3", 1, 1000858}
+, 
+{"ArchbishopStone_Bottom3", 1, 1000859}
+, 
+{"RangerStone_Top3", 1, 1000860}
+, 
+{"RangerStone_Middle3", 1, 1000861}
+, 
+{"RangerStone_Bottom3", 1, 1000862}
+, 
+{"ShadowchasStone_Top3", 1, 1000863}
+, 
+{"ShadowchasStone_Middle3", 1, 1000864}
+, 
+{"ShadowchasStone_Bottom3", 1, 1000865}
 }
 , NeedSource_String = "의상인챈트스톤"}
 , 
@@ -6621,8 +6847,6 @@ SourceItems = {
 , 
 {"C_Blessing_Sky_Lantern", 1, 31460}
 , 
-{"C_Blinking_Thin_Eyes", 1, 31398}
-, 
 {"C_Astro_Circle", 1, 31433}
 , 
 {"C_Elephangel_TH", 1, 31498}
@@ -6940,8 +7164,236 @@ SourceItems = {
 {"C귀부인의깃털모자", 1, 20155}
 , 
 {"C_Gothic_Pumpkin_Head", 1, 31385}
+, 
+{"C_Barrel_Helm", 1, 31409}
+, 
+{"C_White_Cat_On_Shoulder", 1, 410095}
+, 
+{"C_Rabbit_Hopping_BL", 1, 31513}
+, 
+{"C_G_DaeHyon_Sword_TW", 1, 480118}
+, 
+{"C붉은고양이귀케이프", 1, 31189}
+, 
+{"C더블류인형모자", 1, 31148}
+, 
+{"C양모자", 1, 31163}
+, 
+{"C_Put_On_Coat", 1, 480096}
+, 
+{"C핑크파자마모자", 1, 19867}
+, 
+{"C_L_RibbonMuff_Black", 1, 31453}
+, 
+{"C검은고양이귀베레모", 1, 20191}
+, 
+{"C눈물", 1, 20335}
 }
 , NeedSource_String = "냥다래 의상"}
+, 
+Ice_F_Stone_Box2 = {ItemID = 101184, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Ice_F_Stone_Str", 1, 1000711}
+, 
+{"Ice_F_Stone_Dex", 1, 1000712}
+, 
+{"Ice_F_Stone_Agi", 1, 1000713}
+, 
+{"Ice_F_Stone_Int", 1, 1000714}
+, 
+{"Ice_F_Stone_Vit", 1, 1000715}
+, 
+{"Ice_F_Stone_luk", 1, 1000716}
+, 
+{"Ice_F_Stone_Def", 1, 1000717}
+, 
+{"Ice_F_Stone_Mdef", 1, 1000718}
+, 
+{"Ice_F_Stone_Ran", 1, 1000719}
+, 
+{"Ice_F_Stone_War", 1, 1000720}
+, 
+{"Ice_F_Stone_Mag", 1, 1000721}
+, 
+{"Ice_F_Stone_R_Reject", 1, 1000722}
+, 
+{"Ice_F_Stone_Force", 1, 1000723}
+, 
+{"Ice_F_Stone_S_Delay", 1, 1000724}
+, 
+{"Ice_F_Stone_Skill_1", 1, 1000757}
+, 
+{"Ice_F_Stone_Skill_2", 1, 1000758}
+, 
+{"Ice_F_Stone_Skill_3", 1, 1000759}
+, 
+{"Ice_F_Stone_Skill_4", 1, 1000760}
+, 
+{"Ice_F_Stone_Skill_5", 1, 1000761}
+, 
+{"Ice_F_Stone_Skill_6", 1, 1000762}
+, 
+{"Ice_F_Stone_Skill_7", 1, 1000763}
+, 
+{"Ice_F_Stone_Skill_8", 1, 1000764}
+, 
+{"Ice_F_Stone_Skill_9", 1, 1000765}
+, 
+{"Ice_F_Stone_Skill_10", 1, 1000766}
+, 
+{"Ice_F_Stone_Skill_11", 1, 1000767}
+, 
+{"Ice_F_Stone_Skill_12", 1, 1000768}
+, 
+{"Ice_F_Stone_Skill_13", 1, 1000769}
+, 
+{"Ice_F_Stone_Skill_14", 1, 1000770}
+, 
+{"Ice_F_Stone_Skill_15", 1, 1000771}
+, 
+{"Ice_F_Stone_Skill_16", 1, 1000772}
+, 
+{"Ice_F_Stone_Skill_17", 1, 1000773}
+, 
+{"Ice_F_Stone_Skill_18", 1, 1000774}
+, 
+{"Ice_F_Stone_Skill_19", 1, 1000775}
+, 
+{"Ice_F_Stone_Skill_20", 1, 1000776}
+, 
+{"Ice_F_Stone_Skill_21", 1, 1000777}
+, 
+{"Ice_F_Stone_Skill_22", 1, 1000778}
+, 
+{"Ice_F_Stone_Skill_23", 1, 1000779}
+, 
+{"Ice_F_Stone_Skill_24", 1, 1000780}
+, 
+{"Ice_F_Stone_Skill_25", 1, 1000781}
+, 
+{"Ice_F_Stone_Skill_26", 1, 1000782}
+, 
+{"Ice_F_Stone_Skill_27", 1, 1000783}
+, 
+{"Ice_F_Stone_Skill_28", 1, 1000784}
+, 
+{"Ice_F_Stone_Skill_29", 1, 1000785}
+, 
+{"Ice_F_Stone_Skill_30", 1, 1000786}
+, 
+{"Ice_F_Stone_Skill_31", 1, 1000787}
+, 
+{"Ice_F_Stone_Skill_32", 1, 1000788}
+, 
+{"Ice_F_Stone_Skill_33", 1, 1000789}
+, 
+{"Ice_F_Stone_Skill_34", 1, 1000790}
+, 
+{"Ice_F_Stone_Skill_35", 1, 1000791}
+, 
+{"Ice_F_Stone_Skill_36", 1, 1000792}
+, 
+{"Ice_F_Stone_Skill_37", 1, 1000793}
+, 
+{"Ice_F_Stone_Skill_38", 1, 1000794}
+, 
+{"Ice_F_Stone_Skill_39", 1, 1000795}
+, 
+{"Ice_F_Stone_Skill_40", 1, 1000796}
+, 
+{"Ice_F_Stone_Skill_41", 1, 1000797}
+, 
+{"Ice_F_Stone_Skill_42", 1, 1000798}
+, 
+{"Ice_F_Stone_Skill_43", 1, 1000799}
+, 
+{"Ice_F_Stone_Skill_44", 1, 1000800}
+, 
+{"Ice_F_Stone_Skill_45", 1, 1000801}
+, 
+{"Ice_F_Stone_Skill_46", 1, 1000802}
+, 
+{"Ice_F_Stone_Skill_47", 1, 1000803}
+, 
+{"Ice_F_Stone_Skill_48", 1, 1000804}
+, 
+{"Ice_F_Stone_Skill_49", 1, 1000805}
+, 
+{"Ice_F_Stone_Skill_50", 1, 1000806}
+, 
+{"Ice_F_Stone_Skill_51", 1, 1000807}
+, 
+{"Ice_F_Stone_Skill_52", 1, 1000808}
+, 
+{"Ice_F_Stone_Skill_53", 1, 1000809}
+, 
+{"Ice_F_Stone_Skill_54", 1, 1000810}
+, 
+{"Ice_F_Stone_Speed", 1, 1000725}
+, 
+{"Ice_F_Stone_Caster", 1, 1000726}
+, 
+{"Ice_F_Stone_Critical", 1, 1000727}
+, 
+{"Ice_F_Stone_Guide", 1, 1000728}
+, 
+{"Ice_F_Stone_Above", 1, 1000729}
+, 
+{"Ice_F_Stone_P_Full", 1, 1000730}
+, 
+{"Ice_F_Stone_M_Counter", 1, 1000731}
+, 
+{"Ice_F_Stone_Hp", 1, 1000732}
+, 
+{"Ice_F_Stone_Sp", 1, 1000733}
+, 
+{"Ice_F_Stone_Heal", 1, 1000734}
+, 
+{"Ice_F_Stone_Robust", 1, 1000735}
+, 
+{"Ice_F_Stone_F_Cast", 1, 1000736}
+, 
+{"Ice_F_Stone_M_F", 1, 1000737}
+, 
+{"Ice_F_Stone_P_F", 1, 1000738}
+, 
+{"Ice_F_Stone_Un_Vit", 1, 1000739}
+, 
+{"Ice_F_Stone_Sp_Int", 1, 1000740}
+, 
+{"Ice_F_Stone_Fi_Dex", 1, 1000741}
+, 
+{"Ice_F_Stone_Ov_Str", 1, 1000742}
+, 
+{"Ice_F_Stone_Fa_Agi", 1, 1000743}
+, 
+{"Ice_F_Stone_Lu_Luk", 1, 1000744}
+, 
+{"Ice_F_Stone_A_Delay", 1, 1000745}
+, 
+{"Ice_F_Stone_E_Archer", 1, 1000746}
+, 
+{"Ice_F_Stone_Fatal", 1, 1000747}
+, 
+{"Ice_F_Stone_F_Spirit", 1, 1000748}
+, 
+{"Ice_F_Stone_Spell", 1, 1000749}
+, 
+{"Ice_F_Stone_HealHP", 1, 1000750}
+, 
+{"Ice_F_Stone_HealSP", 1, 1000751}
+, 
+{"Ice_F_Stone_Life", 1, 1000752}
+, 
+{"Ice_F_Stone_Soul", 1, 1000753}
+, 
+{"Ice_F_Stone_M_Heal", 1, 1000754}
+, 
+{"Ice_F_Stone_M_Soul", 1, 1000755}
+, 
+{"Ice_F_Stone_A_Force", 1, 1000756}
+}
+, NeedSource_String = "빙화 마석"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

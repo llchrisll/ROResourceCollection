@@ -4,6 +4,78 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["icecastle.rsw"] = {displayName = "이스가르드 얼음의 성", notifyEnter = true, 
+signName = {subTitle = "이스가르드", mainTitle = "얼음의 성"}
+, backgroundBmp = "village"}
+, 
+["icas_in.rsw"] = {displayName = "얼음의 성 내부", notifyEnter = true, 
+signName = {mainTitle = "얼음의 성 내부"}
+, backgroundBmp = "village_s2"}
+, 
+["jor_tail.rsw"] = {displayName = "얼어붙은 꼬리", notifyEnter = true, 
+signName = {mainTitle = "얼어붙은 꼬리"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_back1.rsw"] = {displayName = "얼어붙은 비늘 언덕", notifyEnter = true, 
+signName = {mainTitle = "얼어붙은 비늘 언덕"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_back2.rsw"] = {displayName = "얼어붙은 비늘 평원", notifyEnter = true, 
+signName = {mainTitle = "얼어붙은 비늘 평원"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_back3.rsw"] = {displayName = "얼어붙은 비늘 빙하", notifyEnter = true, 
+signName = {mainTitle = "얼어붙은 비늘 빙하"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_nest.rsw"] = {displayName = "뱀의 둥지", notifyEnter = true, 
+signName = {subTitle = "르간 은신처", mainTitle = "뱀의 둥지"}
+, backgroundBmp = "noname"}
+, 
+["jor_dun01.rsw"] = {displayName = "뱀신의 온기 1층", notifyEnter = true, 
+signName = {mainTitle = "뱀신의 온기 1층"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun02.rsw"] = {displayName = "뱀신의 온기 2층", notifyEnter = true, 
+signName = {mainTitle = "뱀신의 온기 2층"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun03.rsw"] = {displayName = "뱀의 둥지 내부", notifyEnter = true, 
+signName = {mainTitle = "뱀의 둥지 내부"}
+, backgroundBmp = "noname_s2"}
+, 
+["jor_ab01.rsw"] = {displayName = "버려진 구덩이 1층", notifyEnter = true, 
+signName = {mainTitle = "버려진 구덩이 1층"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_ab02.rsw"] = {displayName = "버려진 구덩이 2층", notifyEnter = true, 
+signName = {mainTitle = "버려진 구덩이 2층"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_que.rsw"] = {displayName = "버려진 뱀신의 온기", notifyEnter = true, 
+signName = {mainTitle = "버려진 뱀신의 온기"}
+, backgroundBmp = "noname_s2"}
+, 
+["air_if.rsw"] = {displayName = "비공정 이프호 내부", notifyEnter = true, 
+signName = {mainTitle = "비공정 이프호 내부"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@iwp.rsw"] = {displayName = "얼어붙은 비늘 언덕", notifyEnter = true, 
+signName = {mainTitle = "얼어붙은 비늘 언덕"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@jorchs.rsw"] = {displayName = "혼란한 뱀의 둥지", notifyEnter = true, 
+signName = {mainTitle = "혼란한 뱀의 둥지"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@jorlab.rsw"] = {displayName = "바곳의 연구실", notifyEnter = true, 
+signName = {mainTitle = "바곳의 연구실"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@whl.rsw"] = {displayName = "비공정 와일(1)호 내부", notifyEnter = true, 
+signName = {subTitle = "바르문트의 비공정 컬렉션 No.3", mainTitle = "비공정 와일(1)호 내부"}
+, backgroundBmp = "noname"}
+, 
 ["rag_fes.rsw"] = {displayName = "RAG-FES 전시장", notifyEnter = true, 
 signName = {subTitle = "라그나로크 페스티벌", mainTitle = "RAG-FES 전시장"}
 , backgroundBmp = "village"}

@@ -4,13 +4,15 @@
 -- params : ...
 -- function num : 0
 tb_cashshop_banner = {
-[1] = {"03_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1062&kind=A&curpage=1"}
+[1] = {"01_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1078&kind=A&curpage=1"}
 , 
-[2] = {"01_Cashshop_Banner.bmp", "https://ro.gnjoy.com/event/2021/10/1027_ro1_boosterpromotionmainevent/"}
+[2] = {"02_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/update/View.asp?seq=268&curpage=1"}
 , 
-[3] = {"02_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1060&kind=A&curpage=1"}
+[3] = {"03_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1076&kind=A&curpage=1"}
 , 
-[4] = {"RO_Cashshop_ingame.bmp", "http://ro.gnjoy.com"}
+[4] = {"04_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1079&kind=A&curpage=1"}
+, 
+[5] = {"RO_Cashshop_ingame.bmp", "http://ro.gnjoy.com"}
 }
 set_cashshop_banner = function()
   -- function num : 0_0

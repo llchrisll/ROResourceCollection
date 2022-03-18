@@ -5557,6 +5557,22 @@ MonsterEff = {EFFECT.MAGIC_CIRCLE_INSECT}
 [21574] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.MAGIC_CIRCLE_UNDEAD}
 }
+, 
+[21531] = {MonsterSize = 1.7, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21588] = {MonsterSize = 2.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21590] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_REDLIGHTBODY}
+}
+, 
+[21537] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
 }
 main = function()
   -- function num : 0_0

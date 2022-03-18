@@ -1,6 +1,24 @@
 // ==========================================================================
-// resnametable.txt 본서버 최종수정: 2021-10-26 - 차상위
+// resnametable.txt 본서버 최종수정: 2022-01-12 - 에피소드 19 설화의 땅 이스가르드
 // ==========================================================================
+// 에피소드 19 설화의 땅 이스가르드
+1@iwp.gnd#1@iwp.gnd#
+1@iwp.gat#1@iwp.gat#
+1@iwp.rsw#1@iwp.rsw#
+유저인터페이스\map\1@iwp.bmp#유저인터페이스\map\1@iwp.bmp#
+1@jorchs.gnd#1@jorchs.gnd#
+1@jorchs.gat#1@jorchs.gat#
+1@jorchs.rsw#1@jorchs.rsw#
+유저인터페이스\map\1@jorchs.bmp#유저인터페이스\map\jor_nest.bmp#
+1@jorlab.gnd#1@jorlab.gnd#
+1@jorlab.gat#1@jorlab.gat#
+1@jorlab.rsw#1@jorlab.rsw#
+유저인터페이스\map\1@jorlab.bmp#유저인터페이스\map\1@jorlab.bmp#
+1@whl.gnd#1@whl.gnd#
+1@whl.gat#1@whl.gat#
+1@whl.rsw#1@whl.rsw#
+유저인터페이스\map\1@whl.bmp#유저인터페이스\map\1@whl.bmp#
+
 // 나이트워치
 1@exnw.gnd#1@exnw.gnd#
 1@exnw.gat#1@exnw.gat#

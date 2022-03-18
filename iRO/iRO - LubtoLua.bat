@@ -9,8 +9,10 @@ luadec.exe ".\System\itemInfo_Sak.lub" > ".\System\itemInfo_Sak.lua"
 luadec.exe ".\System\monster_size_effect.lub" > ".\System\monster_size_effect.lua"
 luadec.exe ".\System\monster_size_effect_new.lub" > ".\System\monster_size_effect_new.lua"
 luadec.exe ".\System\MsgString.lub" > ".\System\MsgString.lua"
+luadec.exe ".\System\OngoingQuestInfoList_True.lub" > ".\System\OngoingQuestInfoList_True.lua"
 luadec.exe ".\System\OptionInfo.lub" > ".\System\OptionInfo.lua"
 luadec.exe ".\System\PetEvolutionCln.lub" > ".\System\PetEvolutionCln.lua"
+luadec.exe ".\System\RecommendedQuestInfoList_True.lub" > ".\System\RecommendedQuestInfoList_True.lua"
 luadec.exe ".\System\Towninfo.lub" > ".\System\Towninfo.lua"
 echo -------------------------------
 echo Switching to System\LuaFiles514\

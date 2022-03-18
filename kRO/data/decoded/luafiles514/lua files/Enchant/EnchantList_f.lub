@@ -413,30 +413,32 @@ CheckFile = function()
       EnchantInfo:SetFailed("SetCaution", "주의사항 메세지가 존재하지 않습니다.")
     end
     for slotNum,slotInfo in pairs(EnchantInfo.Slot) do
-      if slotInfo.RequireTbl == nil then
-        slotInfo:SetFailed("SetRequire", "랜덤인챈트의 재료 정보가 존재하지 않습니다.")
-      end
-      if slotInfo.SuccessRate == nil then
-        slotInfo:SetFailed("SetSuccessRate", "인챈트 성공확룔 정보가 존재하지 않습니다.")
-      end
-      if slotInfo.GradeBonusTbl == nil then
-        slotInfo:SetFailed("SetGradeBonus", "등급별 성공 보너스 정보가 존재하지 않습니다.")
-      end
-      if slotInfo.EnchantRateTbl == nil then
-        slotInfo:SetFailed("SetEnchant", "랜덤인챈트 정보가 존재하지 않습니다.")
-      end
-      for grade,gradeBonus in pairs(slotInfo.GradeBonusTbl) do
-        if slotInfo.SuccessRate + gradeBonus > 100000 then
-          slotInfo:SetFailed("SetGradeBonus", "SuccessRate + SetGradeBonus( " .. grade .. " )의 값이 100000을 넘을 수 없습니다.")
+      if slotInfo.RequireTbl ~= nil or slotInfo.SuccessRate ~= nil or slotInfo.GradeBonusTbl ~= nil or slotInfo.EnchantRateTbl ~= nil then
+        if slotInfo.RequireTbl == nil then
+          slotInfo:SetFailed("SetRequire", "랜덤인챈트의 재료 정보가 존재하지 않습니다.")
         end
-      end
-      for grade,rateTbl in pairs(slotInfo.EnchantRateTbl) do
-        local totalRate = 0
-        for itemDB,rate in pairs(rateTbl) do
-          totalRate = totalRate + rate
+        if slotInfo.SuccessRate == nil then
+          slotInfo:SetFailed("SetSuccessRate", "인챈트 성공확룔 정보가 존재하지 않습니다.")
         end
-        if totalRate ~= 100000 then
-          slotInfo:SetFailed("SetEnchant", grade .. "등급의 확률 총합이 100000이 아닙니다.")
+        if slotInfo.GradeBonusTbl == nil then
+          slotInfo:SetFailed("SetGradeBonus", "등급별 성공 보너스 정보가 존재하지 않습니다.")
+        end
+        if slotInfo.EnchantRateTbl == nil then
+          slotInfo:SetFailed("SetEnchant", "랜덤인챈트 정보가 존재하지 않습니다.")
+        end
+        for grade,gradeBonus in pairs(slotInfo.GradeBonusTbl) do
+          if slotInfo.SuccessRate + gradeBonus > 100000 then
+            slotInfo:SetFailed("SetGradeBonus", "SuccessRate + SetGradeBonus( " .. grade .. " )의 값이 100000을 넘을 수 없습니다.")
+          end
+        end
+        for grade,rateTbl in pairs(slotInfo.EnchantRateTbl) do
+          local totalRate = 0
+          for itemDB,rate in pairs(rateTbl) do
+            totalRate = totalRate + rate
+          end
+          if totalRate ~= 100000 then
+            slotInfo:SetFailed("SetEnchant", grade .. "등급의 확률 총합이 100000이 아닙니다.")
+          end
         end
       end
     end
@@ -482,34 +484,42 @@ GetEnchantInfo = function(in_EnchantNum)
     end
   end
   for slotNum,slotInfo in pairs(EnchantInfo.Slot) do
-    result = C_SetRequire(in_EnchantNum, slotNum, (slotInfo.RequireTbl).Zeny, (slotInfo.RequireTbl).MatTbl)
-    if not result then
-      return false, msg
-    end
-    result = C_SetSuccessRate(in_EnchantNum, slotNum, slotInfo.SuccessRate)
-    if not result then
-      return false, msg
-    end
-    result = C_SetGradeBonus(in_EnchantNum, slotNum, slotInfo.GradeBonusTbl)
-    if not result then
-      return false, msg
-    end
-    for grade,rateTbl in pairs(slotInfo.EnchantRateTbl) do
-      result = C_SetEnchant(in_EnchantNum, slotNum, grade, rateTbl)
+    if slotInfo.RequireTbl ~= nil and slotInfo.SuccessRate ~= nil and slotInfo.GradeBonusTbl ~= nil and slotInfo.EnchantRateTbl ~= nil then
+      result = C_SetRequire(in_EnchantNum, slotNum, (slotInfo.RequireTbl).Zeny, (slotInfo.RequireTbl).MatTbl)
       if not result then
         return false, msg
       end
-    end
-    for ItemDB,perfectECTInfo in pairs(slotInfo.PerfectECTbl) do
-      result = C_AddPerfectEnchant(in_EnchantNum, slotNum, ItemDB, perfectECTInfo.Zeny, perfectECTInfo.MatTbl)
+      result = C_SetSuccessRate(in_EnchantNum, slotNum, slotInfo.SuccessRate)
       if not result then
         return false, msg
       end
-    end
-    for ItemDB,upgradeECTInfo in pairs(slotInfo.UpgradeECTbl) do
-      result = C_AddUpgradeEnchant(in_EnchantNum, slotNum, ItemDB, upgradeECTInfo.ResultItemDB, upgradeECTInfo.Zeny, upgradeECTInfo.MatTbl)
+      result = C_SetGradeBonus(in_EnchantNum, slotNum, slotInfo.GradeBonusTbl)
       if not result then
         return false, msg
+      end
+      for grade,rateTbl in pairs(slotInfo.EnchantRateTbl) do
+        result = C_SetEnchant(in_EnchantNum, slotNum, grade, rateTbl)
+        if not result then
+          return false, msg
+        end
+      end
+    end
+    do
+      for ItemDB,perfectECTInfo in pairs(slotInfo.PerfectECTbl) do
+        result = C_AddPerfectEnchant(in_EnchantNum, slotNum, ItemDB, perfectECTInfo.Zeny, perfectECTInfo.MatTbl)
+        if not result then
+          return false, msg
+        end
+      end
+      for ItemDB,upgradeECTInfo in pairs(slotInfo.UpgradeECTbl) do
+        result = C_AddUpgradeEnchant(in_EnchantNum, slotNum, ItemDB, upgradeECTInfo.ResultItemDB, upgradeECTInfo.Zeny, upgradeECTInfo.MatTbl)
+        if not result then
+          return false, msg
+        end
+      end
+      do
+        -- DECOMPILER ERROR at PC221: LeaveBlock: unexpected jumping out DO_STMT
+
       end
     end
   end

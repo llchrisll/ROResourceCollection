@@ -1,5 +1,5 @@
 // ==========================================================================
-// mp3NameTable.txt 본서버 최종수정: 2021-10-31 - 차상위/시계탑
+// mp3NameTable.txt 본서버 최종수정: 2022-01-12 - 에피소드 19 설화의 땅 이스가르드
 // ==========================================================================
 //맵이름.rsw#bgm\\음악번호#
 
@@ -32,6 +32,30 @@ hu_in01.rsw#bgm\\93.mp3#
 //prontera.rsw#bgm\\55.mp3#
 //prt_in.rsw#bgm\\55.mp3#
 //prt_church.rsw#bgm\\56.mp3#
+
+// 에피소드 19 설화의 땅 이스가르드
+icecastle.rsw#bgm\\188.mp3#
+icas_in.rsw#bgm\\188.mp3#
+jor_tail.rsw#bgm\\187.mp3#
+jor_back1.rsw#bgm\\187.mp3#
+jor_back2.rsw#bgm\\187.mp3#
+jor_back3.rsw#bgm\\187.mp3#
+jor_nest.rsw#bgm\\190.mp3#
+jor_dun01.rsw#bgm\\189.mp3#
+jor_dun02.rsw#bgm\\189.mp3#
+jor_dun03.rsw#bgm\\190.mp3#
+jor_ab01.rsw#bgm\\189.mp3#
+jor_ab02.rsw#bgm\\189.mp3#
+jor_que.rsw#bgm\\189.mp3#
+air_if.rsw#bgm\\178.mp3#
+1@iwp.rsw#bgm\\187.mp3#
+1@jorchs.rsw#bgm\\190.mp3#
+1@jorlab.rsw#bgm\\190.mp3#
+1@whl.rsw#bgm\\87.mp3#
+
+// 라그나로크 페스티벌
+rag_fes.rsw#bgm\\08.mp3#
+rag_fes_a.rsw#bgm\\08.mp3#
 
 // 240레벨 컨텐츠 시계탑 미지의 지하층
 clock_01.rsw#bgm\\61.mp3#
