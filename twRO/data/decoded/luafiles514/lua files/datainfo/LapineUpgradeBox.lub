@@ -5,6 +5,40 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+Bio_Helm_Refine_Cube = {ItemID = 100684, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"BioWeapon_Helm_RK", 400078}
+, 
+{"BioWeapon_Helm_LG", 400079}
+, 
+{"BioWeapon_Helm_WL", 400094}
+, 
+{"BioWeapon_Helm_SO", 400095}
+, 
+{"BioWeapon_Helm_NC", 400098}
+, 
+{"BioWeapon_Helm_GN", 400099}
+, 
+{"BioWeapon_Helm_RA", 400116}
+, 
+{"BioWeapon_Helm_WM", 400117}
+, 
+{"BioWeapon_Helm_AB", 400118}
+, 
+{"BioWeapon_Helm_SR", 400119}
+, 
+{"BioWeapon_Helm_SC", 400120}
+, 
+{"BioWeapon_Helm_GC", 400121}
+}
+, NeedSource_String = "活體研究頭冠"}
+, 
+S_EXP_S_Box_TW = {ItemID = 101397, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_EXP_Shield", 24683}
+}
+, NeedSource_String = "影子經驗值倍增神盾"}
+, 
 Overclocker = {ItemID = 100481, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Battle_Processor_", 410017}

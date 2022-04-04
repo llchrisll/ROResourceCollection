@@ -6407,7 +6407,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"你儂我儂鮮奶油可麗餅", COLOR_TITLE_BUFF}
+{"犀利的煙霧", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6677,6 +6677,1175 @@ descript = {
 {"%s", COLOR_TIME}
 , 
 {"武器攻擊力增加"}
+}
+}
+-- DECOMPILER ERROR at PC13751: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SERVANTWEAPON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"死侍武器", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"持續時間內召喚劍氣體"}
+, 
+{"近距離普攻時劍氣體產生追加攻擊"}
+}
+}
+-- DECOMPILER ERROR at PC13775: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SERVANT_SIGN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"死侍武器-標記", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"被死侍武器所標記"}
+}
+}
+-- DECOMPILER ERROR at PC13802: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CHARGINGPIERCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"蓄力刺擊", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"持續時間使用特定技能時"}
+, 
+{"累積蓄力能量"}
+}
+}
+-- DECOMPILER ERROR at PC13832: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DRAGONIC_AURA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"天龍光環", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"龍之氣息傷害增加"}
+, 
+{"龍之氣息-水傷害增加"}
+, 
+{"百矛穿刺傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC13859: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VIGOR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"活力之源", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"近距離普攻傷害增加"}
+, 
+{"每次攻擊時HP減少"}
+}
+}
+-- DECOMPILER ERROR at PC13883: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DEADLY_DEFEASANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"致命放射", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"解除魔法無效能力"}
+}
+}
+-- DECOMPILER ERROR at PC13910: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CLIMAX_DES_HU] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"毀滅颶風", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"風屬性魔法傷害增加"}
+, 
+{"MATK + 100"}
+}
+}
+-- DECOMPILER ERROR at PC13943: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CLIMAX] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"魔力巔峰", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"賦予下列技能特殊效果。"}
+, 
+{"萬紫千紅、水晶波爆、"}
+, 
+{"毀滅颶風"}
+, 
+{"震裂術"}
+}
+}
+-- DECOMPILER ERROR at PC13967: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CLIMAX_EARTH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"震裂術", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"抗地屬性減少"}
+}
+}
+-- DECOMPILER ERROR at PC13991: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CLIMAX_BLOOM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"萬紫千紅", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"抗火屬性減少"}
+}
+}
+-- DECOMPILER ERROR at PC14024: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CLIMAX_CRYIMP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"水晶波爆", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"抗水屬性增加"}
+, 
+{"DEF + 300"}
+, 
+{"MDEF + 100"}
+, 
+{"水屬性魔法傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14051: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GUARD_STANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"防禦架式", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"物理防禦力增加"}
+, 
+{"裝備攻擊力減少"}
+}
+}
+-- DECOMPILER ERROR at PC14078: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ATTACK_STANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"攻擊架式", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"裝備攻擊力增加"}
+, 
+{"物理防禦力減少"}
+}
+}
+-- DECOMPILER ERROR at PC14102: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GUARDIAN_S] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"守護神盾", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"賦予阻擋物理攻擊的防護罩狀態"}
+}
+}
+-- DECOMPILER ERROR at PC14126: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_REBOUND_S] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"回彈神盾", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"透過犧牲減少所受傷害的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC14156: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HOLY_S] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"抗性聖盾", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"抗暗屬性、不死屬性增加"}
+, 
+{"聖屬性魔法傷害增加"}
+, 
+{"聖十字雨傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14180: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ULTIMATE_S] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"終極犧牲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"無法戰鬥時立即復活"}
+}
+}
+-- DECOMPILER ERROR at PC14207: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SPEAR_SCAR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"末日審判", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"放逐攻擊傷害增加"}
+, 
+{"加農砲攻擊傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14237: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SHIELD_POWER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"盾牌投擲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"連續盾擊傷害增加"}
+, 
+{"重壓盾擊傷害增加"}
+, 
+{"大地毀滅傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14264: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_POWERFUL_FAITH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"堅毅信念", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"攻擊力增加"}
+, 
+{"特性攻擊力增加"}
+}
+}
+-- DECOMPILER ERROR at PC14291: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SINCERE_FAITH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"真誠信念", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"攻擊速度增加"}
+, 
+{"賦予誘導攻擊效果"}
+}
+}
+-- DECOMPILER ERROR at PC14318: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FIRM_FAITH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"堅定信念", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MHP增加"}
+, 
+{"RES增加"}
+}
+}
+-- DECOMPILER ERROR at PC14342: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HOLY_OIL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"聖油洗禮", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"所受遠距離物理傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14366: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FIRST_BRAND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"第1擊:烙印", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"賦予烙印狀態"}
+}
+}
+-- DECOMPILER ERROR at PC14390: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SECOND_BRAND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"審判烙印", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"賦予審判烙印的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC14426: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SECOND_JUDGE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"第2章:審判者", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"第2擊:信念/審判"}
+, 
+{"第3擊:懲治/淨化"}
+, 
+{"可使用"}
+, 
+{"大纏崩墜與閃光連擊"}
+, 
+{"無需消耗氣球體"}
+}
+}
+-- DECOMPILER ERROR at PC14462: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_THIRD_EXOR_FLAME] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"閃光連擊", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"第2擊:信念/審判/火焰滅絕"}
+, 
+{"第3擊:懲治/淨化/火焰彈"}
+, 
+{"可使用"}
+, 
+{"大纏崩墜、閃光連擊、虎砲"}
+, 
+{"無需消耗氣球體"}
+}
+}
+-- DECOMPILER ERROR at PC14498: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FIRST_FAITH_POWER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"第1章:信仰之力", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"第2擊:信念"}
+, 
+{"第3擊:懲治 "}
+, 
+{"可使用"}
+, 
+{"大纏崩墜"}
+, 
+{"無需消耗氣球體"}
+}
+}
+-- DECOMPILER ERROR at PC14525: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_MASSIVE_F_BLASTER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"焰魔散彈", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"雷光彈與爆氣散彈"}
+, 
+{"無需消耗氣球體"}
+}
+}
+-- DECOMPILER ERROR at PC14552: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SHADOW_EXCEED] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"魅影強化", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"野蠻衝擊與永恆斬擊"}
+, 
+{"傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14579: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DANCING_KNIFE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"舞動血刃", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"每隔一段時間給予附近對象"}
+, 
+{"近距離物理傷害"}
+}
+}
+-- DECOMPILER ERROR at PC14603: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_POTENT_VENOM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"強效毒液", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"無視物理抗性"}
+}
+}
+-- DECOMPILER ERROR at PC14627: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SHADOW_SCAR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"迷惑魅影", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"所受近距離物理傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14654: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SHADOW_WEAPON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"迷惑魅影", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"有機率賦予對象"}
+, 
+{"所受近距離物理傷害增加效果"}
+}
+}
+-- DECOMPILER ERROR at PC14681: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_MEDIALE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"治癒誓言", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"定期恢復附近隊員"}
+, 
+{"HP的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC14705: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_A_VITA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"光耀天命", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"無視部分魔法抗性"}
+}
+}
+-- DECOMPILER ERROR at PC14729: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_A_TELUM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"神聖防護", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"無視部分物理抗性"}
+}
+}
+-- DECOMPILER ERROR at PC14753: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_PRE_ACIES] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"爆裂聖光", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"暴擊傷害比例增加"}
+}
+}
+-- DECOMPILER ERROR at PC14777: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_COMPETENTIA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"神聖權能", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"P.ATK, S.MATK增加"}
+}
+}
+-- DECOMPILER ERROR at PC14801: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RELIGIO] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"全心奉獻", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"SPL, WIS, STA增加"}
+}
+}
+-- DECOMPILER ERROR at PC14825: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BENEDICTUM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"祝福讚歌", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"POW, CRT, CON增加"}
+}
+}
+-- DECOMPILER ERROR at PC14849: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_WINDSIGN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"八風標記", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"賦予風鷹狩獵者標記的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC14882: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CALAMITYGALE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"憤怒暴風", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"套用精英狙擊效果"}
+, 
+{"部分技能傷害增加"}
+, 
+{"套用毀滅風暴暴擊"}
+, 
+{"漸進狙擊與毀滅風暴給予動物型、魚貝型傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14909: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_MYSTIC_SYMPHONY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"神秘交響曲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"部分技能傷害增加"}
+, 
+{"給予魚貝型、人類型怪傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC14933: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_KVASIR_SONATA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"克瓦希爾奏鳴曲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"可單獨使用合奏的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC14957: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOUNDBLEND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"混聲烙印", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"烙下聲波烙印的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC14981: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GEF_NOCTURN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"葛帔尼亞夜曲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"魔法抗性減少"}
+}
+}
+-- DECOMPILER ERROR at PC15005: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_AIN_RHAPSODY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"礦工狂想曲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"物理抗性減少"}
+}
+}
+-- DECOMPILER ERROR at PC15029: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_MUSICAL_INTERLUDE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"音樂劇插曲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"物理抗性增加"}
+}
+}
+-- DECOMPILER ERROR at PC15056: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_JAWAII_SERENADE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"暮色小夜曲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"特性魔法攻擊力增加"}
+, 
+{"移動速度增加"}
+}
+}
+-- DECOMPILER ERROR at PC15083: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_PRON_MARCH] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"普隆德拉進行曲", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"特性物理攻擊力增加"}
+, 
+{"移動速度增加"}
+}
+}
+-- DECOMPILER ERROR at PC15107: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SHADOW_STRIP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"卸除影子", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"無法裝備影子裝備的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC15131: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ABYSS_DAGGER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"深淵匕首", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"致命威脅傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC15158: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ABYSSFORCEWEAPON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"萬丈深淵", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"持續時間內召喚深淵球體"}
+, 
+{"一般物理攻擊時，球體攻擊"}
+}
+}
+-- DECOMPILER ERROR at PC15185: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ABYSS_SLAYER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"深淵殺手", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"P.ATK增加"}
+, 
+{"S.MATK增加"}
+}
+}
+-- DECOMPILER ERROR at PC15209: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_AXE_STOMP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"戰斧踏滅", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"戰斧颶風傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC15236: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_A_MACHINE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"啟動攻擊裝置", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"每隔一段時間接近附近對象"}
+, 
+{"給予物理傷害"}
+}
+}
+-- DECOMPILER ERROR at PC15263: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_D_MACHINE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"啟動防禦裝置", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"DEF增加"}
+, 
+{"物理抗性增加"}
+}
+}
+-- DECOMPILER ERROR at PC15287: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SPELL_ENCHANTING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"咒力賦予", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"特性魔法攻擊力增加"}
+}
+}
+-- DECOMPILER ERROR at PC15314: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_CONFLAGRATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"火災", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"火屬性狀態"}
+, 
+{"定期減少HP"}
+}
+}
+-- DECOMPILER ERROR at PC15341: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEEPBLIND] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"漆黑", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"視野縮小"}
+, 
+{"迴避、完全迴避減少"}
+}
+}
+-- DECOMPILER ERROR at PC15368: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEEPSILENCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"寂靜", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"無法使用技能"}
+, 
+{"攻擊速度減少"}
+}
+}
+-- DECOMPILER ERROR at PC15395: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_LASSITUDE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"無力感", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"CRI減少"}
+, 
+{"移動速度減少"}
+}
+}
+-- DECOMPILER ERROR at PC15428: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_FROSTBITE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"急凍", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"水屬性狀態"}
+, 
+{"無法移動、使用道具與技能"}
+, 
+{"DEF, MDEF減少"}
+, 
+{"受到傷害時解除"}
+}
+}
+-- DECOMPILER ERROR at PC15458: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_SWOONING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"暈厥", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"無法移動、使用道具與技能"}
+, 
+{"所受傷害增加"}
+, 
+{"受到傷害時解除"}
+}
+}
+-- DECOMPILER ERROR at PC15491: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_LIGHTNINGSTRIKE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"急流", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"風屬性狀態"}
+, 
+{"無法移動、使用道具與技能"}
+, 
+{"抗地屬性減少"}
+, 
+{"受到傷害時解除"}
+}
+}
+-- DECOMPILER ERROR at PC15524: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_CRYSTALLIZATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"晶化", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"地屬性狀態"}
+, 
+{"無法移動、使用道具與技能"}
+, 
+{"MDEF減少"}
+, 
+{"受到傷害時解除"}
+}
+}
+-- DECOMPILER ERROR at PC15551: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_MISFORTUNE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"厄運", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"HIT減少"}
+, 
+{"使用技能時有機率失敗"}
+}
+}
+-- DECOMPILER ERROR at PC15578: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEADLYPOISON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"猛毒", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"抗毒屬性減少"}
+, 
+{"DEF減少、定期減少HP "}
+}
+}
+-- DECOMPILER ERROR at PC15605: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEPRESSION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"惆悵", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"SP消耗量增加"}
+, 
+{"定期減少SP"}
+}
+}
+-- DECOMPILER ERROR at PC15632: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_HOLYFLAME] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"聖火", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"受到魔法傷害時恢復HP"}
+, 
+{"所受物理傷害再增加"}
+}
+}
+-- DECOMPILER ERROR at PC15656: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_PROTECTSHADOWEQUIP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"全影化學保護", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"影子裝備絕對不會受損的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC15683: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RESEARCHREPORT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"研究報告", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"強酸系技能傷害增加"}
+, 
+{"給予無形種族、植物形種族傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC15707: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BO_HELL_DUSTY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"地獄樹粉", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"給予無形種族、植物形種族傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC15740: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"潛龍昇天", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"氣球體上限數增加"}
+, 
+{"最大HP與SP增加"}
+, 
+{"攻擊速度增加"}
+, 
+{"維持爆氣狀態"}
+}
+}
+-- DECOMPILER ERROR at PC15770: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ANCILLA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"安希拉", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"治癒量+15%。"}
+, 
+{"SP恢復力上+30%。"}
+, 
+{"賦予謳歌無屬性"}
+}
+}
+-- DECOMPILER ERROR at PC15794: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"反射傷害減速", COLOR_TITLE_TOGGLE}
+, 
+{"%s", COLOR_TIME}
+, 
+{"自己所受反射傷害減少"}
+}
+}
+-- DECOMPILER ERROR at PC15817: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BANDING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"聚集", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"物理防禦力增加"}
+}
+}
+-- DECOMPILER ERROR at PC15850: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_INSPIRATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"靈感", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"命中率、素質上升"}
+, 
+{"攻擊力、魔法攻擊力、MHP增加"}
+, 
+{"特定Buff、異常狀態變無效"}
+, 
+{" HP、SP持續減少"}
+}
+}
+-- DECOMPILER ERROR at PC15880: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"自動魅影念咒", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MATK增加"}
+, 
+{"學習抄襲、繁殖"}
+, 
+{"可使用魔法技能"}
+}
+}
+-- DECOMPILER ERROR at PC15904: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_MAGICPOWER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"魔法能力增幅", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"魔法攻擊力增幅狀態"}
+}
+}
+-- DECOMPILER ERROR at PC15928: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_OVERBRANDREADY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"支配烙印就緒", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"支配烙印威力增加"}
+}
+}
+-- DECOMPILER ERROR at PC15952: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SHIELDSPELL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"盾咒", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"盾牌魔法效果"}
+}
+}
+-- DECOMPILER ERROR at PC15976: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CLOUD_POISON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"雲毒", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"抗毒屬性攻擊減少"}
+}
+}
+-- DECOMPILER ERROR at PC16000: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SPORE_EXPLOSION_DEBUFF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"爆炸孢子", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"所受遠距離物理傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC16027: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BLOOD_SUCKER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"吸血植物", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"物理攻擊時有機率"}
+, 
+{"吸收HP"}
+}
+}
+-- DECOMPILER ERROR at PC16051: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_UNLIMIT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"精英狙擊", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"遠距離物理傷害上升"}
+}
+}
+-- DECOMPILER ERROR at PC16078: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_STRIKING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"打擊強化", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"攻擊力增加"}
+, 
+{"誘導攻擊觸發機率增加"}
+}
+}
+-- DECOMPILER ERROR at PC16105: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BO_HELL_DUSTY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"地獄樹粉", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"給予無形種族、植物形種族傷害增加"}
+, 
+{"遠距離物理傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC16132: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RUSH_QUAKE1] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"撼動", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"受到的近距離物理傷害增加"}
+, 
+{"受到的遠距離物理傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC16159: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RUSH_QUAKE2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"衝擊", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"近距離物理傷害增加"}
+, 
+{"遠距離物理傷害增加"}
 }
 }
 

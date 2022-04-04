@@ -4,6 +4,12 @@
 -- params : ...
 -- function num : 0
 SKILL_INFO_LIST = {
+[SKID.GM_AP_HEAL] = {"GM_AP_HEAL"; SkillName = "活躍治癒術", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
 [SKID.SN_WINDWALK] = {"SN_WINDWALK"; SkillName = "風之步", MaxLv = 10, 
 SpAmount = {46, 52, 58, 64, 70, 76, 82, 88, 94, 100}
 , bSeperateLv = true, 
@@ -3130,6 +3136,42 @@ NeedSkillList = {
 }
 }
 , 
+[SKID.KN_CHARGEATK] = {"KN_CHARGEATK"; SkillName = "衝鋒攻擊", MaxLv = 1, Type = "Quest", 
+SpAmount = {40}
+, bSeperateLv = false, 
+AttackRange = {14}
+}
+, 
+[SKID.CR_SHRINK] = {"CR_SHRINK"; SkillName = "退縮", MaxLv = 1, Type = "Quest", 
+SpAmount = {15}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
+[SKID.AS_SONICACCEL] = {"AS_SONICACCEL"; SkillName = "超音速投擲", MaxLv = 1, Type = "Quest", 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
+[SKID.AS_VENOMKNIFE] = {"AS_VENOMKNIFE"; SkillName = "毒刃", MaxLv = 1, Type = "Quest", 
+SpAmount = {15}
+, bSeperateLv = false, 
+AttackRange = {9}
+}
+, 
+[SKID.RG_CLOSECONFINE] = {"RG_CLOSECONFINE"; SkillName = "緊密的約束", MaxLv = 1, Type = "Quest", 
+SpAmount = {25}
+, bSeperateLv = false, 
+AttackRange = {2}
+}
+, 
+[SKID.WZ_SIGHTBLASTER] = {"WZ_SIGHTBLASTER"; SkillName = "火狩芽", MaxLv = 1, Type = "Quest", 
+SpAmount = {40}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
 [SKID.KN_RIDING] = {"KN_RIDING"; SkillName = "騎乘術", MaxLv = 1, 
 SpAmount = {0}
 , bSeperateLv = false, 
@@ -3146,8 +3188,38 @@ SpAmount = {30}
 AttackRange = {9}
 }
 , 
+[SKID.HT_PHANTASMIC] = {"HT_PHANTASMIC"; SkillName = "幻影箭", MaxLv = 1, Type = "Quest", 
+SpAmount = {10}
+, bSeperateLv = false, 
+AttackRange = {9}
+}
+, 
+[SKID.BA_PANGVOICE] = {"BA_PANGVOICE"; SkillName = "陣痛之聲", MaxLv = 1, Type = "Quest", 
+SpAmount = {20}
+, bSeperateLv = false, 
+AttackRange = {9}
+}
+, 
+[SKID.DC_WINKCHARM] = {"DC_WINKCHARM"; SkillName = "眨眼之誘", MaxLv = 1, Type = "Quest", 
+SpAmount = {40}
+, bSeperateLv = false, 
+AttackRange = {9}
+}
+, 
+[SKID.BS_UNFAIRLYTRICK] = {"BS_UNFAIRLYTRICK"; SkillName = "詭計的商術", MaxLv = 1, Type = "Quest", 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
 [SKID.BS_GREED] = {"BS_GREED"; SkillName = "貪婪", MaxLv = 1, Type = "Quest", 
 SpAmount = {10}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
+[SKID.PR_REDEMPTIO] = {"PR_REDEMPTIO"; SkillName = "捨身取義", MaxLv = 1, Type = "Quest", 
+SpAmount = {400}
 , bSeperateLv = false, 
 AttackRange = {1}
 }
@@ -3156,6 +3228,12 @@ AttackRange = {1}
 SpAmount = {40}
 , bSeperateLv = false, 
 AttackRange = {9}
+}
+, 
+[SKID.MO_BALKYOUNG] = {"MO_BALKYOUNG"; SkillName = "發勁", MaxLv = 1, Type = "Quest", 
+SpAmount = {20}
+, bSeperateLv = false, 
+AttackRange = {1}
 }
 , 
 [SKID.SA_ELEMENTGROUND] = {"SA_ELEMENTGROUND"; SkillName = "元素更換(地)", MaxLv = 1, Type = "Quest", 
@@ -4879,16 +4957,6 @@ AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.SC_DIMENSIONDOOR, 3}
-}
-}
-, 
-[SKID.LG_BANISHINGPOINT] = {"LG_BANISHINGPOINT"; SkillName = "放逐攻擊", MaxLv = 10, 
-SpAmount = {20, 20, 20, 20, 20, 25, 25, 25, 25, 25}
-, bSeperateLv = true, 
-AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
-, 
-_NeedSkillList = {
-{SKID.KN_SPEARMASTERY, 1}
 }
 }
 , 
@@ -7769,16 +7837,6 @@ AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
 _NeedSkillList = {
 {SKID.RG_PLAGIARISM, 5}
-}
-}
-, 
-[SKID.SC_FATALMENACE] = {"SC_FATALMENACE"; SkillName = "致命威脅", MaxLv = 10, 
-SpAmount = {10, 14, 18, 22, 26, 30, 34, 38, 42, 46}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.RG_INTIMIDATE, 5}
 }
 }
 , 
@@ -12022,16 +12080,6 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.LG_RAYOFGENESIS] = {"LG_RAYOFGENESIS"; SkillName = "創世之光", MaxLv = 10, 
-SpAmount = {30, 40, 50, 60, 70, 80, 90, 100, 110, 120}
-, bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-, 
-_NeedSkillList = {
-{SKID.CR_GRANDCROSS, 5}
-}
-}
-, 
 [SKID.LG_REFLECTDAMAGE] = {"LG_REFLECTDAMAGE"; SkillName = "聖冕加護", MaxLv = 5, 
 SpAmount = {60, 70, 80, 90, 100}
 , bSeperateLv = true, 
@@ -12328,6 +12376,2004 @@ AttackRange = {1}
 SpAmount = {40}
 , bSeperateLv = false, 
 AttackRange = {1}
+}
+, 
+[SKID.DK_SERVANTWEAPON] = {"DK_SERVANTWEAPON"; SkillName = "死侍武器", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.DK_SERVANT_W_SIGN] = {"DK_SERVANT_W_SIGN"; SkillName = "死侍武器-標記", MaxLv = 5, 
+SpAmount = {15, 15, 15, 15, 15}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANTWEAPON, 3}
+}
+}
+, 
+[SKID.DK_SERVANT_W_PHANTOM] = {"DK_SERVANT_W_PHANTOM"; SkillName = "死侍武器-瞬幻", MaxLv = 5, 
+SpAmount = {40, 40, 40, 40, 40}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANTWEAPON, 5}
+, 
+{SKID.DK_SERVANT_W_SIGN, 5}
+}
+}
+, 
+[SKID.DK_SERVANT_W_DEMOL] = {"DK_SERVANT_W_DEMOL"; SkillName = "死侍武器-破滅", MaxLv = 5, 
+SpAmount = {30, 35, 40, 45, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANT_W_PHANTOM, 5}
+}
+}
+, 
+[SKID.DK_CHARGINGPIERCE] = {"DK_CHARGINGPIERCE"; SkillName = "蓄力刺擊", MaxLv = 10, 
+SpAmount = {25, 30, 35, 40, 45, 50, 55, 60, 65, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.RK_HUNDREDSPEAR, 5}
+}
+}
+, 
+[SKID.DK_TWOHANDDEF] = {"DK_TWOHANDDEF"; SkillName = "雙向防禦", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.DK_HACKANDSLASHER] = {"DK_HACKANDSLASHER"; SkillName = "橫揮斬", MaxLv = 10, 
+SpAmount = {34, 38, 42, 46, 50, 54, 58, 62, 66, 70}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.DK_TWOHANDDEF, 5}
+}
+}
+, 
+[SKID.DK_DRAGONIC_AURA] = {"DK_DRAGONIC_AURA"; SkillName = "天龍光環", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.DK_CHARGINGPIERCE, 10}
+, 
+{SKID.RK_DRAGONBREATH, 10}
+, 
+{SKID.RK_DRAGONBREATH_WATER, 10}
+}
+}
+, 
+[SKID.DK_MADNESS_CRUSHER] = {"DK_MADNESS_CRUSHER"; SkillName = "狂暴粉碎", MaxLv = 5, 
+SpAmount = {34, 38, 42, 46, 50}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.DK_CHARGINGPIERCE, 5}
+, 
+{SKID.DK_HACKANDSLASHER, 10}
+}
+}
+, 
+[SKID.DK_VIGOR] = {"DK_VIGOR"; SkillName = "活力之源", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANT_W_DEMOL, 3}
+, 
+{SKID.DK_STORMSLASH, 5}
+}
+}
+, 
+[SKID.AG_DEADLY_PROJECTION] = {"AG_DEADLY_PROJECTION"; SkillName = "致命放射", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_MYSTERY_ILLUSION, 3}
+}
+}
+, 
+[SKID.AG_DESTRUCTIVE_HURRICANE] = {"AG_DESTRUCTIVE_HURRICANE"; SkillName = "毀滅颶風", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_TORNADO_STORM, 3}
+}
+}
+, 
+[SKID.AG_RAIN_OF_CRYSTAL] = {"AG_RAIN_OF_CRYSTAL"; SkillName = "冰晶飛瀑", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WL_FROSTMISTY, 3}
+}
+}
+, 
+[SKID.AG_MYSTERY_ILLUSION] = {"AG_MYSTERY_ILLUSION"; SkillName = "神秘幻滅", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_SOUL_VC_STRIKE, 3}
+, 
+{SKID.WL_HELLINFERNO, 3}
+}
+}
+, 
+[SKID.AG_VIOLENT_QUAKE] = {"AG_VIOLENT_QUAKE"; SkillName = "震裂術", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_STRANTUM_TREMOR, 3}
+}
+}
+, 
+[SKID.AG_SOUL_VC_STRIKE] = {"AG_SOUL_VC_STRIKE"; SkillName = "靈魂連擊", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WL_SOULEXPANSION, 5}
+, 
+{SKID.AG_TWOHANDSTAFF, 3}
+}
+}
+, 
+[SKID.AG_STRANTUM_TREMOR] = {"AG_STRANTUM_TREMOR"; SkillName = "地層震動", MaxLv = 5, 
+SpAmount = {35, 45, 55, 65, 75}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WL_SIENNAEXECRATE, 3}
+}
+}
+, 
+[SKID.AG_ALL_BLOOM] = {"AG_ALL_BLOOM"; SkillName = "萬紫千紅", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_FLORAL_FLARE_ROAD, 3}
+}
+}
+, 
+[SKID.AG_CRYSTAL_IMPACT] = {"AG_CRYSTAL_IMPACT"; SkillName = "水晶波爆", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_RAIN_OF_CRYSTAL, 3}
+}
+}
+, 
+[SKID.AG_TORNADO_STORM] = {"AG_TORNADO_STORM"; SkillName = "龍捲風暴", MaxLv = 5, 
+SpAmount = {45, 55, 65, 75, 85}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WL_CHAINLIGHTNING, 3}
+}
+}
+, 
+[SKID.AG_FLORAL_FLARE_ROAD] = {"AG_FLORAL_FLARE_ROAD"; SkillName = "焰火之徑", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WL_CRIMSONROCK, 3}
+}
+}
+, 
+[SKID.AG_ASTRAL_STRIKE] = {"AG_ASTRAL_STRIKE"; SkillName = "星際突襲", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WL_COMET, 5}
+, 
+{SKID.AG_MYSTERY_ILLUSION, 3}
+, 
+{SKID.AG_DEADLY_PROJECTION, 3}
+}
+}
+, 
+[SKID.AG_ROCK_DOWN] = {"AG_ROCK_DOWN"; SkillName = "巨石降臨", MaxLv = 5, 
+SpAmount = {65, 70, 75, 80, 85}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_STRANTUM_TREMOR, 1}
+}
+}
+, 
+[SKID.AG_STORM_CANNON] = {"AG_STORM_CANNON"; SkillName = "暴風加農砲", MaxLv = 5, 
+SpAmount = {60, 70, 80, 90, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_TORNADO_STORM, 1}
+}
+}
+, 
+[SKID.AG_CRIMSON_ARROW] = {"AG_CRIMSON_ARROW"; SkillName = "豔紅魔矢", MaxLv = 5, 
+SpAmount = {65, 75, 85, 95, 105}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_FLORAL_FLARE_ROAD, 1}
+}
+}
+, 
+[SKID.AG_FROZEN_SLASH] = {"AG_FROZEN_SLASH"; SkillName = "冰刃斬", MaxLv = 5, 
+SpAmount = {45, 55, 65, 75, 85}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_RAIN_OF_CRYSTAL, 1}
+}
+}
+, 
+[SKID.AG_TWOHANDSTAFF] = {"AG_TWOHANDSTAFF"; SkillName = "雙手杖使用熟練度", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IQ_POWERFUL_FAITH] = {"IQ_POWERFUL_FAITH"; SkillName = "堅毅信念", MaxLv = 5, 
+SpAmount = {54, 58, 62, 66, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_FIRM_FAITH] = {"IQ_FIRM_FAITH"; SkillName = "堅定信念", MaxLv = 5, 
+SpAmount = {54, 58, 62, 66, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_WILL_OF_FAITH] = {"IQ_WILL_OF_FAITH"; SkillName = "信念意志", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IQ_OLEUM_SANCTUM] = {"IQ_OLEUM_SANCTUM"; SkillName = "聖油洗禮", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AL_HOLYWATER, 1}
+, 
+{SKID.IQ_WILL_OF_FAITH, 3}
+}
+}
+, 
+[SKID.IQ_SINCERE_FAITH] = {"IQ_SINCERE_FAITH"; SkillName = "真誠信念", MaxLv = 5, 
+SpAmount = {54, 58, 62, 66, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_FIRST_BRAND] = {"IQ_FIRST_BRAND"; SkillName = "第一擊:烙印", MaxLv = 5, 
+SpAmount = {22, 29, 36, 43, 50}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 2}
+}
+}
+, 
+[SKID.IQ_FIRST_FAITH_POWER] = {"IQ_FIRST_FAITH_POWER"; SkillName = "首章:信仰之力", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 3}
+, 
+{SKID.IQ_FIRST_BRAND, 1}
+}
+}
+, 
+[SKID.IQ_THIRD_PUNISH] = {"IQ_THIRD_PUNISH"; SkillName = "第三擊:懲治", MaxLv = 5, 
+SpAmount = {56, 62, 68, 74, 80}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_FAITH, 2}
+}
+}
+, 
+[SKID.IQ_THIRD_FLAME_BOMB] = {"IQ_THIRD_FLAME_BOMB"; SkillName = "第三擊:火焰彈", MaxLv = 5, 
+SpAmount = {74, 78, 82, 86, 90}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_FLAME, 2}
+}
+}
+, 
+[SKID.IQ_THIRD_CONSECRATION] = {"IQ_THIRD_CONSECRATION"; SkillName = "第三擊:淨化", MaxLv = 5, 
+SpAmount = {65, 70, 75, 80, 85}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_JUDGEMENT, 2}
+}
+}
+, 
+[SKID.IQ_SECOND_FLAME] = {"IQ_SECOND_FLAME"; SkillName = "第二擊:火焰滅絕", MaxLv = 5, 
+SpAmount = {46, 52, 58, 64, 70}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_THIRD_EXOR_FLAME, 1}
+}
+}
+, 
+[SKID.IQ_SECOND_FAITH] = {"IQ_SECOND_FAITH"; SkillName = "第二擊:信念", MaxLv = 5, 
+SpAmount = {36, 42, 48, 54, 60}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_FIRST_FAITH_POWER, 1}
+}
+}
+, 
+[SKID.IQ_SECOND_JUDGEMENT] = {"IQ_SECOND_JUDGEMENT"; SkillName = "第二擊:審判", MaxLv = 5, 
+SpAmount = {45, 50, 55, 60, 65}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_JUDGE, 1}
+}
+}
+, 
+[SKID.IQ_EXPOSION_BLASTER] = {"IQ_EXPOSION_BLASTER"; SkillName = "爆破衝擊", MaxLv = 5, 
+SpAmount = {80, 90, 100, 110, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_OLEUM_SANCTUM, 1}
+}
+}
+, 
+[SKID.IQ_MASSIVE_F_BLASTER] = {"IQ_MASSIVE_F_BLASTER"; SkillName = "焰魔散彈", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_OLEUM_SANCTUM, 3}
+, 
+{SKID.IQ_EXPOSION_BLASTER, 3}
+, 
+{SKID.IQ_WILL_OF_FAITH, 5}
+}
+}
+, 
+[SKID.IG_GUARD_STANCE] = {"IG_GUARD_STANCE"; SkillName = "防禦架式", MaxLv = 5, 
+SpAmount = {50, 50, 50, 50, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 3}
+}
+}
+, 
+[SKID.IG_REBOUND_SHIELD] = {"IG_REBOUND_SHIELD"; SkillName = "回彈神盾", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_GUARD_STANCE, 4}
+}
+}
+, 
+[SKID.IG_SHIELD_MASTERY] = {"IG_SHIELD_MASTERY"; SkillName = "防盾精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IG_SPEAR_SWORD_M] = {"IG_SPEAR_SWORD_M"; SkillName = "矛&劍精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IG_ATTACK_STANCE] = {"IG_ATTACK_STANCE"; SkillName = "攻擊架式", MaxLv = 5, 
+SpAmount = {50, 50, 50, 50, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SPEAR_SWORD_M, 3}
+}
+}
+, 
+[SKID.IG_ULTIMATE_SACRIFICE] = {"IG_ULTIMATE_SACRIFICE"; SkillName = "終極犧牲", MaxLv = 5, 
+SpAmount = {120, 120, 120, 120, 120}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_REBOUND_SHIELD, 3}
+, 
+{SKID.IG_GUARDIAN_SHIELD, 3}
+}
+}
+, 
+[SKID.IG_HOLY_SHIELD] = {"IG_HOLY_SHIELD"; SkillName = "抗性聖盾", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 5}
+, 
+{SKID.IG_CROSS_RAIN, 3}
+}
+}
+, 
+[SKID.IG_GRAND_JUDGEMENT] = {"IG_GRAND_JUDGEMENT"; SkillName = "末日審判", MaxLv = 10, 
+SpAmount = {41, 44, 47, 50, 53, 56, 59, 62, 65, 68}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_OVERSLASH, 5}
+, 
+{SKID.IG_SPEAR_SWORD_M, 5}
+}
+}
+, 
+[SKID.IG_JUDGEMENT_CROSS] = {"IG_JUDGEMENT_CROSS"; SkillName = "交錯審判", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_CROSS_RAIN, 5}
+, 
+{SKID.IG_HOLY_SHIELD, 3}
+}
+}
+, 
+[SKID.IG_SHIELD_SHOOTING] = {"IG_SHIELD_SHOOTING"; SkillName = "盾牌投擲", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 5}
+, 
+{SKID.IG_ATTACK_STANCE, 2}
+}
+}
+, 
+[SKID.IG_CROSS_RAIN] = {"IG_CROSS_RAIN"; SkillName = "聖十字雨", MaxLv = 10, 
+SpAmount = {50, 54, 58, 62, 66, 70, 74, 78, 82, 86}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 1}
+}
+}
+, 
+[SKID.SHC_DANCING_KNIFE] = {"SHC_DANCING_KNIFE"; SkillName = "舞動血刃", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+}
+}
+, 
+[SKID.SHC_SAVAGE_IMPACT] = {"SHC_SAVAGE_IMPACT"; SkillName = "野蠻衝擊", MaxLv = 10, 
+SpAmount = {28, 31, 34, 37, 40, 43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+, 
+{SKID.GC_CROSSIMPACT, 5}
+}
+}
+, 
+[SKID.SHC_SHADOW_SENSE] = {"SHC_SHADOW_SENSE"; SkillName = "影刃旋舞", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.SHC_ETERNAL_SLASH] = {"SHC_ETERNAL_SLASH"; SkillName = "永恆斬擊", MaxLv = 5, 
+SpAmount = {40, 40, 40, 40, 40}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_DANCING_KNIFE, 3}
+, 
+{SKID.GC_WEAPONBLOCKING, 3}
+}
+}
+, 
+[SKID.SHC_ENCHANTING_SHADOW] = {"SHC_ENCHANTING_SHADOW"; SkillName = "迷惑魅影", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+, 
+{SKID.GC_POISONINGWEAPON, 5}
+}
+}
+, 
+[SKID.SHC_POTENT_VENOM] = {"SHC_POTENT_VENOM"; SkillName = "強效毒液", MaxLv = 10, 
+SpAmount = {15, 20, 25, 30, 35, 40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_ENCHANTING_SHADOW, 3}
+}
+}
+, 
+[SKID.SHC_SHADOW_EXCEED] = {"SHC_SHADOW_EXCEED"; SkillName = "魅影強化", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 7}
+, 
+{SKID.SHC_ENCHANTING_SHADOW, 5}
+, 
+{SKID.SHC_POTENT_VENOM, 3}
+}
+}
+, 
+[SKID.SHC_FATAL_SHADOW_CROW] = {"SHC_FATAL_SHADOW_CROW"; SkillName = "致命影爪", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_STAB, 5}
+, 
+{SKID.SHC_IMPACT_CRATER, 5}
+}
+}
+, 
+[SKID.SHC_SHADOW_STAB] = {"SHC_SHADOW_STAB"; SkillName = "暗影刺擊", MaxLv = 5, 
+SpAmount = {45, 50, 55, 60, 65}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_DANCING_KNIFE, 5}
+, 
+{SKID.SHC_ETERNAL_SLASH, 3}
+, 
+{SKID.GC_CLOAKINGEXCEED, 5}
+}
+}
+, 
+[SKID.SHC_IMPACT_CRATER] = {"SHC_IMPACT_CRATER"; SkillName = "神力撞擊", MaxLv = 5, 
+SpAmount = {43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_SAVAGE_IMPACT, 5}
+, 
+{SKID.GC_ROLLINGCUTTER, 5}
+, 
+{SKID.GC_WEAPONBLOCKING, 3}
+}
+}
+, 
+[SKID.CD_REPARATIO] = {"CD_REPARATIO"; SkillName = "聖光治癒", MaxLv = 5, 
+SpAmount = {120, 120, 120, 120, 120}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+}
+}
+, 
+[SKID.CD_MEDIALE_VOTUM] = {"CD_MEDIALE_VOTUM"; SkillName = "治癒誓言", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_DILECTIO_HEAL, 3}
+}
+}
+, 
+[SKID.CD_MACE_BOOK_M] = {"CD_MACE_BOOK_M"; SkillName = "鈍器&書籍精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.CD_ARGUTUS_VITA] = {"CD_ARGUTUS_VITA"; SkillName = "光耀天命", MaxLv = 5, 
+SpAmount = {30, 45, 60, 75, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_ARGUTUS_TELUM] = {"CD_ARGUTUS_TELUM"; SkillName = "神聖防護", MaxLv = 5, 
+SpAmount = {30, 45, 60, 75, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_ARBITRIUM] = {"CD_ARBITRIUM"; SkillName = "制裁謳歌", MaxLv = 10, 
+SpAmount = {50, 60, 70, 80, 90, 100, 110, 120, 130, 140}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_ADORAMUS, 5}
+, 
+{SKID.CD_FRAMEN, 3}
+}
+}
+, 
+[SKID.CD_PRESENS_ACIES] = {"CD_PRESENS_ACIES"; SkillName = "爆裂聖光", MaxLv = 5, 
+SpAmount = {30, 45, 60, 75, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_FIDUS_ANIMUS] = {"CD_FIDUS_ANIMUS"; SkillName = "靈魂忠誠", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.CD_EFFLIGO] = {"CD_EFFLIGO"; SkillName = "破壞擊", MaxLv = 10, 
+SpAmount = {60, 60, 60, 60, 60, 60, 60, 60, 60, 60}
+, 
+ApAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.AB_ORATIO, 5}
+, 
+{SKID.CD_PETITIO, 10}
+}
+}
+, 
+[SKID.CD_COMPETENTIA] = {"CD_COMPETENTIA"; SkillName = "神聖權能", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.CD_PRESENS_ACIES, 2}
+, 
+{SKID.CD_ARGUTUS_TELUM, 2}
+, 
+{SKID.CD_ARGUTUS_VITA, 2}
+}
+}
+, 
+[SKID.CD_PNEUMATICUS_PROCELLA] = {"CD_PNEUMATICUS_PROCELLA"; SkillName = "驅魔風暴", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_FRAMEN, 5}
+, 
+{SKID.CD_ARBITRIUM, 10}
+}
+}
+, 
+[SKID.CD_DILECTIO_HEAL] = {"CD_DILECTIO_HEAL"; SkillName = "博愛治癒", MaxLv = 5, 
+SpAmount = {50, 55, 60, 65, 70}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_CHEAL, 3}
+, 
+{SKID.AB_HIGHNESSHEAL, 3}
+}
+}
+, 
+[SKID.CD_RELIGIO] = {"CD_RELIGIO"; SkillName = "全心奉獻", MaxLv = 5, 
+SpAmount = {70, 75, 80, 85, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_CLEMENTIA, 3}
+, 
+{SKID.CD_DILECTIO_HEAL, 2}
+}
+}
+, 
+[SKID.CD_BENEDICTUM] = {"CD_BENEDICTUM"; SkillName = "祝福讚歌", MaxLv = 5, 
+SpAmount = {70, 75, 80, 85, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_CANTO, 3}
+, 
+{SKID.CD_DILECTIO_HEAL, 2}
+}
+}
+, 
+[SKID.CD_PETITIO] = {"CD_PETITIO"; SkillName = "聖光打擊", MaxLv = 10, 
+SpAmount = {32, 34, 36, 38, 40, 42, 44, 46, 48, 50}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.AB_DUPLELIGHT, 10}
+, 
+{SKID.CD_MACE_BOOK_M, 5}
+}
+}
+, 
+[SKID.CD_FRAMEN] = {"CD_FRAMEN"; SkillName = "聖靈鎮魂", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AB_JUDEX, 10}
+, 
+{SKID.CD_FIDUS_ANIMUS, 5}
+}
+}
+, 
+[SKID.BO_BIONIC_PHARMACY] = {"BO_BIONIC_PHARMACY"; SkillName = "仿生配藥", MaxLv = 5, 
+SpAmount = {30, 30, 30, 30, 30}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.GN_S_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_BIONICS_M] = {"BO_BIONICS_M"; SkillName = "仿生精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.BO_THE_WHOLE_PROTECTION] = {"BO_THE_WHOLE_PROTECTION"; SkillName = "全面化學保護", MaxLv = 5, 
+SpAmount = {220, 260, 300, 340, 380}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ADVANCE_PROTECTION] = {"BO_ADVANCE_PROTECTION"; SkillName = "全影化學保護", MaxLv = 4, 
+SpAmount = {120, 130, 140, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_WATER] = {"BO_ACIDIFIED_ZONE_WATER"; SkillName = "強酸禁地(水)", MaxLv = 5, 
+SpAmount = {40, 52, 64, 76, 88}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_WIND, 1}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_GROUND] = {"BO_ACIDIFIED_ZONE_GROUND"; SkillName = "強酸禁地(地)", MaxLv = 5, 
+SpAmount = {40, 52, 64, 76, 88}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 3}
+, 
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_FIRE] = {"BO_ACIDIFIED_ZONE_FIRE"; SkillName = "強酸禁地(火)", MaxLv = 5, 
+SpAmount = {40, 52, 64, 76, 88}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_GROUND, 1}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_WIND] = {"BO_ACIDIFIED_ZONE_WIND"; SkillName = "強酸禁地(風)", MaxLv = 5, 
+SpAmount = {40, 52, 64, 76, 88}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 3}
+, 
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_WOODENWARRIOR] = {"BO_WOODENWARRIOR"; SkillName = "召喚神木戰士", MaxLv = 5, 
+SpAmount = {100, 120, 140, 160, 180}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_CREEPER, 3}
+}
+}
+, 
+[SKID.BO_WOODEN_FAIRY] = {"BO_WOODEN_FAIRY"; SkillName = "召喚神木妖精", MaxLv = 5, 
+SpAmount = {120, 155, 180, 205, 230}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_CREEPER, 3}
+}
+}
+, 
+[SKID.BO_CREEPER] = {"BO_CREEPER"; SkillName = "召喚爬行者", MaxLv = 5, 
+SpAmount = {80, 96, 112, 128, 144}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 5}
+}
+}
+, 
+[SKID.BO_RESEARCHREPORT] = {"BO_RESEARCHREPORT"; SkillName = "研究報告", MaxLv = 1, 
+SpAmount = {60}
+, 
+ApAmount = {100}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_FIRE, 3}
+, 
+{SKID.BO_ACIDIFIED_ZONE_WATER, 3}
+}
+}
+, 
+[SKID.WH_ADVANCED_TRAP] = {"WH_ADVANCED_TRAP"; SkillName = "高階陷阱", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.RA_RESEARCHTRAP, 3}
+}
+}
+, 
+[SKID.WH_WIND_SIGN] = {"WH_WIND_SIGN"; SkillName = "八風標記", MaxLv = 5, 
+SpAmount = {100, 90, 80, 70, 60}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WH_NATUREFRIENDLY, 5}
+}
+}
+, 
+[SKID.WH_NATUREFRIENDLY] = {"WH_NATUREFRIENDLY"; SkillName = "熱愛自然", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.WH_HAWKRUSH] = {"WH_HAWKRUSH"; SkillName = "獵鷹奇襲", MaxLv = 5, 
+SpAmount = {40, 44, 48, 52, 56}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WH_HAWK_M, 1}
+}
+}
+, 
+[SKID.WH_HAWK_M] = {"WH_HAWK_M"; SkillName = "獵鷹精熟", MaxLv = 1, 
+SpAmount = {5}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.HT_STEELCROW, 1}
+}
+}
+, 
+[SKID.WH_CALAMITYGALE] = {"WH_CALAMITYGALE"; SkillName = "憤怒暴風", MaxLv = 1, 
+SpAmount = {300}
+, 
+ApAmount = {200}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.WH_GALESTORM, 5}
+, 
+{SKID.WH_WIND_SIGN, 5}
+}
+}
+, 
+[SKID.WH_HAWKBOOMERANG] = {"WH_HAWKBOOMERANG"; SkillName = "獵鷹狙擊", MaxLv = 5, 
+SpAmount = {120, 120, 120, 120, 120}
+, 
+ApAmount = {15, 15, 15, 15, 15}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WH_HAWKRUSH, 5}
+}
+}
+, 
+[SKID.WH_GALESTORM] = {"WH_GALESTORM"; SkillName = "毀滅風暴", MaxLv = 10, 
+SpAmount = {80, 91, 102, 113, 124, 135, 146, 157, 168, 179}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WH_CRESCIVE_BOLT, 3}
+}
+}
+, 
+[SKID.WH_DEEPBLINDTRAP] = {"WH_DEEPBLINDTRAP"; SkillName = "深盲陷阱", MaxLv = 5, 
+SpAmount = {50, 53, 56, 59, 62}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_ADVANCED_TRAP, 3}
+}
+}
+, 
+[SKID.WH_SOLIDTRAP] = {"WH_SOLIDTRAP"; SkillName = "磐石陷阱", MaxLv = 5, 
+SpAmount = {70, 80, 90, 100, 110}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_ADVANCED_TRAP, 3}
+}
+}
+, 
+[SKID.WH_SWIFTTRAP] = {"WH_SWIFTTRAP"; SkillName = "急速陷阱", MaxLv = 5, 
+SpAmount = {60, 62, 64, 66, 68}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_DEEPBLINDTRAP, 1}
+}
+}
+, 
+[SKID.WH_CRESCIVE_BOLT] = {"WH_CRESCIVE_BOLT"; SkillName = "漸進狙擊", MaxLv = 10, 
+SpAmount = {55, 60, 65, 70, 75, 80, 85, 90, 95, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.RA_AIMEDBOLT, 5}
+}
+}
+, 
+[SKID.WH_FLAMETRAP] = {"WH_FLAMETRAP"; SkillName = "火焰陷阱", MaxLv = 5, 
+SpAmount = {40, 44, 48, 52, 56}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_SOLIDTRAP, 1}
+}
+}
+, 
+[SKID.TR_STAGE_MANNER] = {"TR_STAGE_MANNER"; SkillName = "舞台禮儀", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.TR_RETROSPECTION] = {"TR_RETROSPECTION"; SkillName = "美聲回顧", MaxLv = 1, 
+SpAmount = {1}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 1}
+}
+}
+, 
+[SKID.TR_KVASIR_SONATA] = {"TR_KVASIR_SONATA"; SkillName = "克瓦希爾奏鳴曲", MaxLv = 1, 
+SpAmount = {300}
+, 
+ApAmount = {100}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_ROKI_CAPRICCIO, 1}
+, 
+{SKID.TR_NIPELHEIM_REQUIEM, 1}
+}
+}
+, 
+[SKID.TR_ROSEBLOSSOM] = {"TR_ROSEBLOSSOM"; SkillName = "玫瑰箭矢", MaxLv = 5, 
+SpAmount = {105, 110, 115, 120, 125}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.TR_RHYTHMSHOOTING, 3}
+}
+}
+, 
+[SKID.TR_METALIC_FURY] = {"TR_METALIC_FURY"; SkillName = "金屬狂怒", MaxLv = 5, 
+SpAmount = {120, 132, 144, 156, 168}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.TR_SOUNDBLEND, 1}
+}
+}
+, 
+[SKID.TR_SOUNDBLEND] = {"TR_SOUNDBLEND"; SkillName = "混聲烙印", MaxLv = 5, 
+SpAmount = {80, 92, 104, 116, 128}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.WM_METALICSOUND, 5}
+}
+}
+, 
+[SKID.TR_GEF_NOCTURN] = {"TR_GEF_NOCTURN"; SkillName = "葛帔尼亞夜曲", MaxLv = 5, 
+SpAmount = {120, 160, 200, 240, 280}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 3}
+}
+}
+, 
+[SKID.TR_ROKI_CAPRICCIO] = {"TR_ROKI_CAPRICCIO"; SkillName = "洛基奏鳴曲", MaxLv = 5, 
+SpAmount = {120, 160, 200, 240, 280}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_JAWAII_SERENADE, 1}
+}
+}
+, 
+[SKID.TR_AIN_RHAPSODY] = {"TR_AIN_RHAPSODY"; SkillName = "礦工狂想曲", MaxLv = 5, 
+SpAmount = {120, 160, 200, 240, 280}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 3}
+}
+}
+, 
+[SKID.TR_MUSICAL_INTERLUDE] = {"TR_MUSICAL_INTERLUDE"; SkillName = "音樂劇插曲", MaxLv = 5, 
+SpAmount = {171, 182, 193, 204, 215}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_AIN_RHAPSODY, 1}
+}
+}
+, 
+[SKID.TR_JAWAII_SERENADE] = {"TR_JAWAII_SERENADE"; SkillName = "暮色小夜曲", MaxLv = 5, 
+SpAmount = {140, 150, 160, 170, 180}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_GEF_NOCTURN, 1}
+}
+}
+, 
+[SKID.TR_NIPELHEIM_REQUIEM] = {"TR_NIPELHEIM_REQUIEM"; SkillName = "亡靈鎮魂歌", MaxLv = 5, 
+SpAmount = {120, 160, 200, 240, 280}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_MUSICAL_INTERLUDE, 1}
+, 
+{SKID.TR_PRON_MARCH, 1}
+}
+}
+, 
+[SKID.TR_PRON_MARCH] = {"TR_PRON_MARCH"; SkillName = "普隆德拉進行曲", MaxLv = 5, 
+SpAmount = {140, 150, 160, 170, 180}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_AIN_RHAPSODY, 1}
+}
+}
+, 
+[SKID.ABC_DAGGER_AND_BOW_M] = {"ABC_DAGGER_AND_BOW_M"; SkillName = "短劍&弓弩精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.ABC_MAGIC_SWORD_M] = {"ABC_MAGIC_SWORD_M"; SkillName = "魔劍精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SC_REPRODUCE, 5}
+, 
+{SKID.SC_AUTOSHADOWSPELL, 5}
+}
+}
+, 
+[SKID.ABC_STRIP_SHADOW] = {"ABC_STRIP_SHADOW"; SkillName = "卸除影子", MaxLv = 5, 
+SpAmount = {29, 33, 37, 41, 45}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.SC_STRIPACCESSARY, 1}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 7}
+}
+}
+, 
+[SKID.ABC_ABYSS_DAGGER] = {"ABC_ABYSS_DAGGER"; SkillName = "深淵匕首", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SC_FATALMENACE, 5}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 3}
+}
+}
+, 
+[SKID.ABC_CHAIN_REACTION_SHOT] = {"ABC_CHAIN_REACTION_SHOT"; SkillName = "連鎖射擊", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.SC_TRIANGLESHOT, 5}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 3}
+}
+}
+, 
+[SKID.ABC_FROM_THE_ABYSS] = {"ABC_FROM_THE_ABYSS"; SkillName = "萬丈深淵", MaxLv = 5, 
+SpAmount = {40, 50, 60, 70, 80}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.ABC_MAGIC_SWORD_M, 3}
+}
+}
+, 
+[SKID.ABC_ABYSS_SLAYER] = {"ABC_ABYSS_SLAYER"; SkillName = "深淵殺手", MaxLv = 10, 
+SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 5}
+, 
+{SKID.ABC_DEFT_STAB, 5}
+}
+}
+, 
+[SKID.ABC_ABYSS_STRIKE] = {"ABC_ABYSS_STRIKE"; SkillName = "終結深淵攻擊", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_FROM_THE_ABYSS, 3}
+, 
+{SKID.ABC_ABYSS_SQUARE, 3}
+}
+}
+, 
+[SKID.ABC_DEFT_STAB] = {"ABC_DEFT_STAB"; SkillName = "靈巧刺擊", MaxLv = 10, 
+SpAmount = {28, 31, 34, 37, 40, 43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 5}
+}
+}
+, 
+[SKID.ABC_ABYSS_SQUARE] = {"ABC_ABYSS_SQUARE"; SkillName = "深淵墳場", MaxLv = 5, 
+SpAmount = {65, 75, 85, 95, 105}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_MAGIC_SWORD_M, 5}
+, 
+{SKID.ABC_FROM_THE_ABYSS, 1}
+}
+}
+, 
+[SKID.MT_AXE_STOMP] = {"MT_AXE_STOMP"; SkillName = "戰斧踏滅", MaxLv = 5, 
+SpAmount = {25, 30, 35, 40, 45}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_TWOAXEDEF, 5}
+}
+}
+, 
+[SKID.MT_RUSH_QUAKE] = {"MT_RUSH_QUAKE"; SkillName = "衝擊撼動", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.MT_AXE_STOMP, 5}
+}
+}
+, 
+[SKID.MT_M_MACHINE] = {"MT_M_MACHINE"; SkillName = "製造裝置", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.MT_A_MACHINE] = {"MT_A_MACHINE"; SkillName = "啟動攻擊裝置", MaxLv = 5, 
+SpAmount = {43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_AXE_STOMP, 3}
+, 
+{SKID.MT_M_MACHINE, 3}
+}
+}
+, 
+[SKID.MT_D_MACHINE] = {"MT_D_MACHINE"; SkillName = "啟動防禦裝置(", MaxLv = 5, 
+SpAmount = {43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_M_MACHINE, 1}
+}
+}
+, 
+[SKID.MT_TWOAXEDEF] = {"MT_TWOAXEDEF"; SkillName = "雙手斧防禦", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MT_ABR_M] = {"MT_ABR_M"; SkillName = "ABR精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_M_MACHINE, 1}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_BATTLE_WARIOR] = {"MT_SUMMON_ABR_BATTLE_WARIOR"; SkillName = "ABR-決戰勇士", MaxLv = 4, 
+SpAmount = {30, 40, 50, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 1}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_DUAL_CANNON] = {"MT_SUMMON_ABR_DUAL_CANNON"; SkillName = "ABR-雙子加農砲", MaxLv = 4, 
+SpAmount = {30, 40, 50, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 3}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 2}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_MOTHER_NET] = {"MT_SUMMON_ABR_MOTHER_NET"; SkillName = "ABR-天網聖母", MaxLv = 4, 
+SpAmount = {30, 40, 50, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 5}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 3}
+, 
+{SKID.MT_SUMMON_ABR_DUAL_CANNON, 3}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_INFINITY] = {"MT_SUMMON_ABR_INFINITY"; SkillName = "ABR-無限戰火", MaxLv = 4, 
+SpAmount = {30, 40, 50, 60}
+, 
+ApAmount = {200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 10}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 4}
+, 
+{SKID.MT_SUMMON_ABR_DUAL_CANNON, 4}
+, 
+{SKID.MT_SUMMON_ABR_MOTHER_NET, 4}
+}
+}
+, 
+[SKID.ABR_DUAL_CANNON_FIRE] = {"ABR_DUAL_CANNON_FIRE"; SkillName = "雙子加農砲火", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_BATTLE_BUSTER] = {"ABR_BATTLE_BUSTER"; SkillName = "決戰破壞者", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_NET_REPAIR] = {"ABR_NET_REPAIR"; SkillName = "修復網", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_NET_SUPPORT] = {"ABR_NET_SUPPORT"; SkillName = "支援網", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_INFINITY_BUSTER] = {"ABR_INFINITY_BUSTER"; SkillName = "無穹破壞者", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_MAGIC_BOOK_M] = {"EM_MAGIC_BOOK_M"; SkillName = "魔法書精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.EM_SPELL_ENCHANTING] = {"EM_SPELL_ENCHANTING"; SkillName = "咒力賦予", MaxLv = 5, 
+SpAmount = {43, 46, 49, 52, 55}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 5}
+}
+}
+, 
+[SKID.EM_ACTIVITY_BURN] = {"EM_ACTIVITY_BURN"; SkillName = "能量燃燼", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_SPELL_ENCHANTING, 3}
+}
+}
+, 
+[SKID.EM_INCREASING_ACTIVITY] = {"EM_INCREASING_ACTIVITY"; SkillName = "能量轉換", MaxLv = 5, 
+SpAmount = {30, 40, 50, 60, 70}
+, 
+ApAmount = {50, 50, 50, 50, 50}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_ACTIVITY_BURN, 5}
+}
+}
+, 
+[SKID.EM_DIAMOND_STORM] = {"EM_DIAMOND_STORM"; SkillName = "鑽石風暴", MaxLv = 5, 
+SpAmount = {84, 88, 92, 96, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_LIGHTNING_LAND] = {"EM_LIGHTNING_LAND"; SkillName = "雷霆陣地", MaxLv = 5, 
+SpAmount = {65, 70, 80, 85, 95}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_VENOM_SWAMP] = {"EM_VENOM_SWAMP"; SkillName = "毒液沼澤", MaxLv = 5, 
+SpAmount = {84, 88, 92, 96, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_CONFLAGRATION] = {"EM_CONFLAGRATION"; SkillName = "灼熱岩漿", MaxLv = 5, 
+SpAmount = {70, 80, 90, 100, 110}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_TERRA_DRIVE] = {"EM_TERRA_DRIVE"; SkillName = "大地驅動", MaxLv = 5, 
+SpAmount = {84, 88, 92, 96, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_SPIRIT_M] = {"EM_ELEMENTAL_SPIRIT_M"; SkillName = "元素鬥志精熟", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SO_EL_SYMPATHY, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_ARDOR] = {"EM_SUMMON_ELEMENTAL_ARDOR"; SkillName = "召喚元素:阿爾多雷", MaxLv = 1, 
+SpAmount = {100}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_AGNI, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_CONFLAGRATION, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_DILUVIO] = {"EM_SUMMON_ELEMENTAL_DILUVIO"; SkillName = "召喚元素:迪盧比奧", MaxLv = 1, 
+SpAmount = {100}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_AQUA, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_DIAMOND_STORM, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_PROCELLA] = {"EM_SUMMON_ELEMENTAL_PROCELLA"; SkillName = "召喚元素:普羅賽拉", MaxLv = 1, 
+SpAmount = {100}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_VENTUS, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_LIGHTNING_LAND, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_TERREMOTUS] = {"EM_SUMMON_ELEMENTAL_TERREMOTUS"; SkillName = "召喚元素:泰雷莫圖斯", MaxLv = 1, 
+SpAmount = {100}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_TERA, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_TERRA_DRIVE, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_SERPENS] = {"EM_SUMMON_ELEMENTAL_SERPENS"; SkillName = "召喚元素:塞爾彭斯", MaxLv = 1, 
+SpAmount = {100}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.SO_SUMMON_AGNI, 3}
+, 
+{SKID.SO_SUMMON_AQUA, 3}
+, 
+{SKID.SO_SUMMON_VENTUS, 3}
+, 
+{SKID.SO_SUMMON_TERA, 3}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_VENOM_SWAMP, 1}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_BUSTER] = {"EM_ELEMENTAL_BUSTER"; SkillName = "元素破壞", MaxLv = 10, 
+SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, 
+ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.EM_SUMMON_ELEMENTAL_SERPENS, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_TERREMOTUS, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_PROCELLA, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_DILUVIO, 1}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 5}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_ARDOR, 1}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_VEIL] = {"EM_ELEMENTAL_VEIL"; SkillName = "元素天幕", MaxLv = 5, 
+SpAmount = {70, 75, 80, 85, 90}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.EM_ELEMENTAL_SPIRIT_M, 3}
+}
+}
+, 
+[SKID.EM_EL_FLAMETECHNIC] = {"EM_EL_FLAMETECHNIC"; SkillName = "火焰神技", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_FLAMEARMOR] = {"EM_EL_FLAMEARMOR"; SkillName = "火焰鎧甲", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_FLAMEROCK] = {"EM_EL_FLAMEROCK"; SkillName = "火焰隕石", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_COLD_FORCE] = {"EM_EL_COLD_FORCE"; SkillName = "冰凍先鋒", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_CRYSTAL_ARMOR] = {"EM_EL_CRYSTAL_ARMOR"; SkillName = "冰晶鎧甲", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_AGE_OF_ICE] = {"EM_EL_AGE_OF_ICE"; SkillName = "冰河時代", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_GRACE_BREEZE] = {"EM_EL_GRACE_BREEZE"; SkillName = "恩典微風", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_EYES_OF_STORM] = {"EM_EL_EYES_OF_STORM"; SkillName = "暴風眼", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_STORM_WIND] = {"EM_EL_STORM_WIND"; SkillName = "暴風", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_EARTH_CARE] = {"EM_EL_EARTH_CARE"; SkillName = "守護大地", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_STRONG_PROTECTION] = {"EM_EL_STRONG_PROTECTION"; SkillName = "強韌防衛", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_AVALANCHE] = {"EM_EL_AVALANCHE"; SkillName = "山崩", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_DEEP_POISONING] = {"EM_EL_DEEP_POISONING"; SkillName = "深度中毒", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_POISON_SHIELD] = {"EM_EL_POISON_SHIELD"; SkillName = "劇毒護盾", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_DEADLY_POISON] = {"EM_EL_DEADLY_POISON"; SkillName = "致命猛毒", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.NPC_DEADLYCURSE2] = {"NPC_DEADLYCURSE2"; SkillName = "廣域致命魔咒", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 7, y = 7}
+, 
+[3] = {x = 9, y = 9}
+, 
+[4] = {x = 11, y = 11}
+, 
+[5] = {x = 13, y = 13}
+}
+}
+, 
+[SKID.DK_STORMSLASH] = {"DK_STORMSLASH"; SkillName = "風暴斬擊", MaxLv = 5, 
+SpAmount = {40, 45, 50, 55, 60}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.DK_TWOHANDDEF, 10}
+, 
+{SKID.DK_HACKANDSLASHER, 5}
+}
+}
+, 
+[SKID.IG_OVERSLASH] = {"IG_OVERSLASH"; SkillName = "瞬間斬擊", MaxLv = 10, 
+SpAmount = {41, 44, 47, 50, 53, 56, 59, 62, 65, 68}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3, 3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IG_ATTACK_STANCE, 3}
+}
+}
+, 
+[SKID.IG_GUARDIAN_SHIELD] = {"IG_GUARDIAN_SHIELD"; SkillName = "守護神盾", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_GUARD_STANCE, 2}
+}
+}
+, 
+[SKID.LG_RAYOFGENESIS] = {"LG_RAYOFGENESIS"; SkillName = "創世之光", MaxLv = 10, 
+SpAmount = {45, 50, 55, 60, 65, 70, 75, 80, 85, 90}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.CR_GRANDCROSS, 5}
+}
+}
+, 
+[SKID.LG_BANISHINGPOINT] = {"LG_BANISHINGPOINT"; SkillName = "放逐攻擊", MaxLv = 10, 
+SpAmount = {20, 22, 24, 26, 28, 30, 32, 34, 36, 38}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.KN_SPEARMASTERY, 1}
+}
+}
+, 
+[SKID.BO_HELLTREE] = {"BO_HELLTREE"; SkillName = "召喚地獄樹", MaxLv = 5, 
+SpAmount = {100, 100, 100, 100, 100}
+, 
+ApAmount = {100, 90, 80, 70, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_WOODENWARRIOR, 3}
+, 
+{SKID.BO_WOODEN_FAIRY, 3}
+}
+}
+, 
+[SKID.ABC_UNLUCKY_RUSH] = {"ABC_UNLUCKY_RUSH"; SkillName = "不幸衝擊", MaxLv = 5, 
+SpAmount = {30, 35, 40, 45, 50}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 4}
+}
+}
+, 
+[SKID.SC_FATALMENACE] = {"SC_FATALMENACE"; SkillName = "致命威脅", MaxLv = 10, 
+SpAmount = {10, 14, 18, 22, 26, 30, 34, 38, 42, 46}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.RG_INTIMIDATE, 5}
+}
+}
+, 
+[SKID.ABC_FRENZY_SHOT] = {"ABC_FRENZY_SHOT"; SkillName = "狂暴射擊", MaxLv = 10, 
+SpAmount = {35, 45, 55, 65, 75, 85, 95, 105, 115, 125}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_CHAIN_REACTION_SHOT, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 5}
+}
+}
+, 
+[SKID.AG_CLIMAX] = {"AG_CLIMAX"; SkillName = "魔力巔峰", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WL_TETRAVORTEX, 5}
+, 
+{SKID.AG_TWOHANDSTAFF, 3}
+}
+}
+, 
+[SKID.IQ_JUDGE] = {"IQ_JUDGE"; SkillName = "次章:審判者", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {50, 50, 50, 50, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_FIRST_FAITH_POWER, 1}
+}
+}
+, 
+[SKID.IQ_THIRD_EXOR_FLAME] = {"IQ_THIRD_EXOR_FLAME"; SkillName = "最終章:驅魔火焰", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {100, 100, 100, 100, 100}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_JUDGE, 1}
+}
+}
+, 
+[SKID.TR_RHYTHMSHOOTING] = {"TR_RHYTHMSHOOTING"; SkillName = "節奏射擊", MaxLv = 5, 
+SpAmount = {66, 72, 78, 84, 90}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+}
+, 
+[SKID.TR_ROSEBLOSSOM_ATK] = {"TR_ROSEBLOSSOM_ATK"; SkillName = "玫瑰箭矢", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+}
+, 
+[SKID.TR_MYSTIC_SYMPHONY] = {"TR_MYSTIC_SYMPHONY"; SkillName = "神秘交響曲", MaxLv = 1, 
+SpAmount = {250}
+, 
+ApAmount = {125}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_METALIC_FURY, 1}
+, 
+{SKID.TR_ROSEBLOSSOM, 5}
+}
 }
 }
 

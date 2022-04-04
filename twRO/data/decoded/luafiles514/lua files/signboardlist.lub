@@ -1001,5 +1001,7 @@ SignBoardList = {
 {"lhz_airport", 148, 43, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
 , 
 {"lhz_airport", 138, 43, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
+, 
+{"prontera", 50, 293, 10, IT_SIGNBOARD, "information\\ebl_manus.bmp", " 等級強化所", "#0x00FFFFFF"}
 }
 

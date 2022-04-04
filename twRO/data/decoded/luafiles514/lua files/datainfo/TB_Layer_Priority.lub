@@ -1123,7 +1123,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {Default = 301, 
+[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {Default = 304, 
 Direction = {}
 }
 , 

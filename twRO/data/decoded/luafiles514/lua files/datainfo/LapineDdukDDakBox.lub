@@ -5,6 +5,26 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+EXPShadow_Mix = {ItemID = 100661, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Beginner_Shoes", 1, 24210}
+, 
+{"S_Beginner_Shield", 1, 24211}
+, 
+{"S_Rookie_Shoes", 1, 24212}
+, 
+{"S_Rookie_Shield", 1, 24213}
+, 
+{"S_Advanced_Shoes", 1, 24214}
+, 
+{"S_Advanced_Shield", 1, 24215}
+, 
+{"S_Expert_Shoes", 1, 24208}
+, 
+{"S_Expert_Shield", 1, 24209}
+}
+, NeedSource_String = "影子經驗值倍增"}
+, 
 Automatic_Module_Mix = {ItemID = 100602, NeedCount = 5, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
 {"EP17_2_NO1", 1, 1000105}

@@ -930,7 +930,7 @@ Description = {"你去找住在流氓公會東側對面山特樂曼要塞南邊的亞拉甘Jr。吧，暗語是
 , Summary = "與亞拉甘Jr。對話"}
 , 
 [2023] = {Title = "流氓轉職", 
-Description = {"你去找住在克魔島的克克魔海邊附近之安東尼奧Jr。吧，暗語是^0000FF\'安東尼奧並不喜歡打碎精練物品\'^000000"}
+Description = {"你去找住在克魔島的克克魔海邊附近之安東尼奧Jr吧，暗語是^0000FF\'安東尼奧並不喜歡打碎精練物品\'^000000"}
 , Summary = "與安東尼奧Jr。對話"}
 , 
 [2024] = {Title = "流氓轉職", 
@@ -12782,20 +12782,20 @@ Description = {"正在執行委託佈告欄中的委託"}
 , Summary = "執行委託中"}
 , 
 [12090] = {Title = "可疑的男子", 
-Description = {"有個叫廖達的男子似乎知道一些重要事情，再跟他談一下好了"}
+Description = {"有個叫哈因理希的男子似乎知道一些重要事情，再跟他談一下好了"}
 , Summary = "可疑的男子"}
 , 
 [12091] = {Title = "找燃燒的心臟", 
-Description = {"廖達要求燃燒的心臟，在答應他要求之前應該不會告訴我實情"}
+Description = {"哈因理希要求燃燒的心臟，在答應他要求之前應該不會告訴我實情"}
 , Summary = "找燃燒的心臟"}
 , 
 [12092] = {Title = "繼續對話", 
-Description = {"廖達想要的燃燒心臟都已經交給他了，我們來聽聽他說什麼吧!"}
+Description = {"哈因理希想要的燃燒心臟都已經交給他了，我們來聽聽他說什麼吧!"}
 , Summary = "繼續對話"}
 , 
-[12093] = {Title = "情報員留給廖達的紀錄", 
+[12093] = {Title = "情報員留給哈因理希的紀錄", 
 Description = {"我們在克雷斯特漢姆修道院內部的某個地方注入了可以偵測皇家禁衛隊痕跡的神聖氣息，假如(^008855他^000000)是被選擇的人的話，就能偵測到我們所留下的氣息，否則就像我們一樣不會知道"}
-, Summary = "情報員留給廖達的紀錄"}
+, Summary = "情報員留給哈因理希的紀錄"}
 , 
 [12094] = {Title = "毀損盾牌的文字", 
 Description = {"你是。。。神聖的力量。。。。看不清句子。。。被選擇的人。。。王的最後。。。古城。。。黑暗的庭院。。。背對太陽的地方。。。透出光線。。。樹底下。。。盾牌的真正主人。。。會磕頭。"}
@@ -27362,5 +27362,665 @@ Description = {"擊殺LV150以上的水屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INF
 [19115] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV200以上的水屬性怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
 , Summary = ""}
+, 
+[17499] = {Title = "發送四轉職通知郵件", IconName = "ico_jq.bmp", 
+Description = {"向可以四轉轉職的冒險家發送轉職通知郵件。"}
+, Summary = "發送完畢"}
+, 
+[8639] = {Title = "地府深處大宴會廳", 
+Description = {"隱居的老學者加林很好奇亡者在尼芙菲姆深處舉行宴會的故事是真是假，因為迄今未曾有人聽說，直接前往<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>尋找知道這件事的居民。"}
+, Summary = "在尼芙菲姆打聽傳聞"}
+, 
+[8640] = {Title = "生者亡者皆爛醉如泥", IconName = "ico_dq.bmp", 
+Description = {"與<NAVI>[老學者]<INFO>moc_para01,14,19,0,101,0</INFO></NAVI>回報在尼芙菲姆看到、聽到的事。另外，也可以報告蜜拉每天的委託。"}
+, Summary = "向加林報告"}
+, 
+[8641] = {Title = "只是長相可愛", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要擊殺妨礙他睡眠的幽靈魔方15隻和伽利略南瓜魂15隻，並送牠們回家。"}
+, Summary = "擊殺指定魔物"}
+, 
+[8642] = {Title = "只是長相可愛 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次向<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8643] = {Title = "只是長相可愛", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要擊殺妨礙他睡眠的幽靈魔方15隻和伽利略南瓜魂15隻，並送牠們回家。"}
+, Summary = "擊殺指定魔物"}
+, 
+[8644] = {Title = "我說那個不是樂器", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要擊殺妨礙他睡眠的殘忍殺手10隻和甘坎10隻，並送牠們回家。"}
+, Summary = "擊殺指定魔物"}
+, 
+[8645] = {Title = "我說那個不是樂器 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次向<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8646] = {Title = "我說那個不是樂器", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要擊殺妨礙他睡眠的殘忍殺手10隻和甘坎10隻，並送牠們回家。"}
+, Summary = "擊殺指定魔物"}
+, 
+[8647] = {Title = "鋼琴演奏", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說隨便彈亡者宴會廳裡的大鋼琴，不吵嗎?"}
+, Summary = "亡者演奏宴會廳的鋼琴"}
+, 
+[8648] = {Title = "鋼琴演奏 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次向<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8649] = {Title = "真是精彩的演奏", IconName = "ico_dq.bmp", 
+Description = {"依據<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>的委託彈了鋼琴。蜜拉也聽說了，快跟他報告吧!"}
+, Summary = "向蜜拉報告"}
+, 
+[8650] = {Title = "頭髮亂亂的孩子們", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要擊殺妨礙他睡眠的偽裝者15隻和藍月魔女15隻，並送牠們回家。"}
+, Summary = "擊殺指定魔物"}
+, 
+[8651] = {Title = "頭髮亂亂的孩子們 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次向<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8652] = {Title = "頭髮亂亂的孩子們", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要擊殺妨礙他睡眠的偽裝者15隻和藍月魔女15隻，並送牠們回家。"}
+, Summary = "擊殺指定魔物"}
+, 
+[8653] = {Title = "咬著娃娃的孩子們", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要擊殺妨礙他睡眠的格羅特10隻和小丑兔斯拉10隻，並送牠們回家。"}
+, Summary = "擊殺指定魔物"}
+, 
+[8654] = {Title = "咬著娃娃的孩子們 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次向<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8655] = {Title = "咬著娃娃的牠們", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要擊殺妨礙他睡眠的格羅特10隻和小丑兔斯拉10隻，並送牠們回家。"}
+, Summary = "擊殺指定魔物"}
+, 
+[8656] = {Title = "叫醒他們", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>說要捏住在崩塌的歌劇院照片中說夢話的亡者鼻子、叫醒牠們。真的可行嗎??位置分別是<NAVI>[這裡]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI>和 <NAVI>[那裡]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>。"}
+, Summary = "與崩塌的歌劇院照片對話"}
+, 
+[8657] = {Title = "叫醒他們 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次向<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8658] = {Title = "叫醒他們(1)", IconName = "ico_dq.bmp", 
+Description = {"受<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>之託叫醒照片中的亡者，都叫醒的話回去找蜜拉吧!"}
+, Summary = ""}
+, 
+[8659] = {Title = "叫醒他們(2)", IconName = "ico_dq.bmp", 
+Description = {"受<NAVI>[蜜拉]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>之託叫醒照片中的亡者，都叫醒的話回去找蜜拉吧!"}
+, Summary = ""}
+, 
+[16521] = {Title = "實驗體廢棄場魯杜斯四樓", IconName = "ico_dq.bmp", 
+Description = {"儒瑪告知有關實驗體廢棄場魯杜斯四樓的情報，找到<NAVI>[派恩]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI>直接去魯杜斯四樓吧!"}
+, Summary = "與派恩對話"}
+, 
+[16522] = {Title = "實驗體廢棄場魯杜斯四樓", IconName = "ico_dq.bmp", 
+Description = {"與派恩對話，搜查魯杜斯四樓。回去和 <NAVI>[儒瑪]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>報告吧!"}
+, Summary = "與儒瑪對話"}
+, 
+[16523] = {Title = "深淵孤獨-等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。透過喵星人子彈酒的<NAVI>[儒瑪]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>可以接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16524] = {Title = "深淵孤獨", IconName = "ico_dq.bmp", 
+Description = {"擊殺多洛里安、飛拉加里安、戴德雷各10隻，回去和<NAVI>[儒瑪]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>報告。"}
+, Summary = ""}
+, 
+[16525] = {Title = "變異與發展-等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。透過喵星人子彈酒的<NAVI>[儒瑪]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>可以接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16526] = {Title = "變異與發展", IconName = "ico_dq.bmp", 
+Description = {"擊殺巨人卡夫特、貝內迪各15隻後，向<NAVI>[儒瑪]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>報告。"}
+, Summary = ""}
+, 
+[16527] = {Title = "備份數據-等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。透過喵星人子彈酒的<NAVI>[儒瑪]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>可以接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16528] = {Title = "備份數據", IconName = "ico_dq.bmp", 
+Description = {"需要每天維護晶片，前往尋找秘密之翼<NAVI>[研究員]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與研究員對話"}
+, 
+[16529] = {Title = "廢棄研究所阿米希提婭", IconName = "ico_dq.bmp", 
+Description = {"向在喵星人子彈酒吧的反叛者取得廢棄研究所阿米希提婭相關情報。"}
+, Summary = ""}
+, 
+[16530] = {Title = "地與火-等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。透過喵星人子彈酒的<NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>可以接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16531] = {Title = "地與火", IconName = "ico_dq.bmp", 
+Description = {"擊殺變異阿米特拉凱美拉和變異菲利凱美拉各15隻後，向反叛者 <NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>報告。"}
+, Summary = ""}
+, 
+[16532] = {Title = "水與風-等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。透過喵星人子彈酒的<NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>可以接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16533] = {Title = "水與風", IconName = "ico_dq.bmp", 
+Description = {"擊殺變異利圖斯凱美拉與變異水精靈凱美拉各15隻後，向反叛者  <NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>報告。"}
+, Summary = ""}
+, 
+[16534] = {Title = "維爾納的痕跡-等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。透過喵星人子彈酒的<NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>可以接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16535] = {Title = "維爾納的痕跡", IconName = "ico_dq.bmp", 
+Description = {"在廢棄研究所阿米希提婭1樓尋找維爾納的痕跡，帶給反叛者 <NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>。"}
+, Summary = "與安秀莉亞對話"}
+, 
+[16536] = {Title = "模仿與真實-等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。透過喵星人子彈酒的<NAVI>[格韋納]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>可以接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16537] = {Title = "模仿與真實", IconName = "ico_dq.bmp", 
+Description = {"擊殺變異納佩奧凱美拉和變異凱倫西斯凱美拉各15隻後，向反叛者  <NAVI>[格韋納]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>報告。"}
+, Summary = ""}
+, 
+[16538] = {Title = "自然的變化-等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。透過喵星人子彈酒的<NAVI>[格韋納]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>可以接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16539] = {Title = "自然的變化", IconName = "ico_dq.bmp", 
+Description = {"擊殺變異熔岩凱美拉和變異獨角光輝凱美拉各15隻後，向反叛者  <NAVI>[格韋納]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>報告。"}
+, Summary = ""}
+, 
+[16540] = {Title = "備份數據", IconName = "ico_dq.bmp", 
+Description = {"完成晶片維修，回去找<NAVI>[儒瑪]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與儒瑪對話"}
+, 
+[16541] = {Title = "維爾納的痕跡", IconName = "ico_dq.bmp", 
+Description = {"找到維爾納的痕跡了，回去找 <NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與安秀莉亞對話"}
+, 
+[16542] = {Title = "維爾納的痕跡", IconName = "ico_dq.bmp", 
+Description = {"找到維爾納的痕跡了，回去找 <NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與安秀莉亞對話"}
+, 
+[16543] = {Title = "維爾納的痕跡", IconName = "ico_dq.bmp", 
+Description = {"找到維爾納的痕跡了，回去找 <NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與安秀莉亞對話"}
+, 
+[16544] = {Title = "維爾納的痕跡", IconName = "ico_dq.bmp", 
+Description = {"找到維爾納的痕跡了，回去找 <NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與安秀莉亞對話"}
+, 
+[16545] = {Title = "維爾納的痕跡", IconName = "ico_dq.bmp", 
+Description = {"找到維爾納的痕跡了，回去找 <NAVI>[安秀莉亞]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與安秀莉亞對話"}
+, 
+[12508] = {Title = "參加龍之考驗", IconName = "ico_jq.bmp", 
+Description = {"^FF0000\'你真的是龍之考驗的考生?\'^FF0000", "眼前的時空龍雖然眼神看起來不是很相信你，但比你更符合^ff0000慮恩龍爵^000000條件的人其實不多。現在就參加考驗、證明一切吧"}
+, Summary = "成為龍的同行者"}
+, 
+[12509] = {Title = "冷靜頭腦", IconName = "ico_jq.bmp", 
+Description = {"看來你太專心了，休息一下再挑戰吧!"}
+, Summary = "休息30分鐘"}
+, 
+[8624] = {Title = "成為機甲神匠的旅途(1)", IconName = "ico_jq.bmp", 
+Description = {"意外聽到機械工匠前輩們的建議，聽說在貝魯茲某處有名的<NAVI>[機甲神匠]<INFO>verus04,214,251,0,101,0</INFO></NAVI>佔有一席之地。"}
+, Summary = ""}
+, 
+[8625] = {Title = "機甲神匠要做什麼?", IconName = "ico_jq.bmp", 
+Description = {"在米斯特的介紹下認識的瑪拉，是位比想像中還冷酷的人。"}
+, Summary = "與瑪拉對話"}
+, 
+[8626] = {Title = "成為機甲神匠的旅途(2)", IconName = "ico_jq.bmp", 
+Description = {"只要想到富蘭克森，就能快速得到對機械工匠、機甲神匠來說魔導戰甲有什麼樣的意義。無論什麼時候那只能是工具，無法成為目的。"}
+, Summary = "與瑪拉對話"}
+, 
+[8627] = {Title = "重返優配擂斯", IconName = "ico_jq.bmp", 
+Description = {"瑪拉也見過富蘭克森，瑪拉叫你去優配擂斯見一下機械工匠時期的競爭者羅伊什 里昂，不過違和不直接去呢…"}
+, Summary = "向魔導戰甲終端連接"}
+, 
+[8628] = {Title = "成為機甲神匠的旅途(3)", IconName = "ico_jq.bmp", 
+Description = {"設定使用魔導戰甲連結至優配擂斯中心部的虛擬裝置，按照指示完成任務。"}
+, Summary = "攻佔優配擂斯中心部 VT"}
+, 
+[8629] = {Title = "成為機甲神匠的旅途(4)", IconName = "ico_jq.bmp", 
+Description = {"任務完成，要向<NAVI>[瑪拉]<INFO>verus04,214,251,0,101,0</INFO></NAVI>報告。"}
+, Summary = "與瑪拉對話"}
+, 
+[8604] = {Title = "貝魯茲環境美化系的委託", IconName = "ico_jq.bmp", 
+Description = {"因美化系職員阿爾迪納的委託，無論如何都要找出<NAVI>[垃圾場]<INFO>verus04,28,115,0,101,0</INFO></NAVI>亂丟垃圾惡臭的根源。"}
+, Summary = "確認味道的來源"}
+, 
+[8605] = {Title = "惡臭的根源", IconName = "ico_jq.bmp", 
+Description = {"若要處理貝魯茲 <NAVI>[垃圾場]<INFO>verus04,28,115,0,101,0</INFO></NAVI>的問題，需要<ITEM>[黑色布條]<INFO>7205</INFO></ITEM> 20個、<ITEM>[繡針包]<INFO>7213</INFO></ITEM> 1個、<ITEM>[備長炭]<INFO>6251</INFO></ITEM> 10個。", "我看過<NAVI>[鍊金術師轉職所]<INFO>alde_alche,38,184,0,101,0</INFO></NAVI>有在賣備長炭。"}
+, Summary = "收集材料後回到貝魯茲"}
+, 
+[8606] = {Title = "翻找垃圾場", IconName = "ico_jq.bmp", 
+Description = {"擁有如此高超技術的冒險家，翻找<NAVI>[垃圾場]<INFO>verus04,28,115,0,101,0</INFO></NAVI>是為了一般市井小民的善舉。"}
+, Summary = "調查貝魯茲垃圾場"}
+, 
+[8607] = {Title = "向阿爾迪納報告", IconName = "ico_jq.bmp", 
+Description = {"利用熟練的技術處理貝魯茲的痛苦根源，得向委託人<NAVI>[阿爾迪納]<INFO>verus04,157,165,0,101,0</INFO></NAVI>報告。"}
+, Summary = "與阿爾迪納對話"}
+, 
+[8608] = {Title = "阿爾迪納的新委託(1)", IconName = "ico_jq.bmp", 
+Description = {"阿爾迪納看著箱子皺起了眉頭，身為公務員為了表示盡義務，開始製作文件。"}
+, Summary = "與阿爾迪納對話"}
+, 
+[8609] = {Title = "阿爾迪納的新委託(2)", IconName = "ico_jq.bmp", 
+Description = {"阿爾迪納說把罰單塞進口袋、前往亂丟垃圾的生命締造者<NAVI>[研究室]<INFO>verus04,53,263,0,101,0</INFO></NAVI>，代替他收罰款。"}
+, Summary = "與克雷爾對話"}
+, 
+[8610] = {Title = "亂丟垃圾的嫌犯", IconName = "ico_jq.bmp", 
+Description = {"在沒有門牌的家、如同廢墟的房內，有個沒有見過的生命締造者獨自站在那裡。"}
+, Summary = "與克雷爾對話"}
+, 
+[8611] = {Title = "克雷爾的疑問", IconName = "ico_jq.bmp", 
+Description = {"優異基因學者的升級考題。"}
+, Summary = "都有固定答案了，只要回答就好。"}
+, 
+[8612] = {Title = "曼陀羅魔花培養機 (1)", IconName = "ico_jq.bmp", 
+Description = {"結果好像得救活發出臭味的東西。"}
+, Summary = "與克雷爾對話"}
+, 
+[8613] = {Title = "植物設計", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[克雷爾]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>說要準備<ITEM>[枯樹枝]<INFO>604</INFO></ITEM> 1個、<ITEM>[糾纏鐵鍊]<INFO>7221</INFO></ITEM> 10個、<ITEM>[珊瑚]<INFO>7013</INFO></ITEM> 10個、<ITEM>[美麗花朵]<INFO>6511</INFO></ITEM> 10個，參考研究室內的書製作需要的東西。"}
+, Summary = "帶著材料進行作業"}
+, 
+[8614] = {Title = "植物設計", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[克雷爾]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>說要準備<ITEM>[古老樹枝]<INFO>7939</INFO></ITEM> 10個、<ITEM>[糾纏鐵鍊]<INFO>7221</INFO></ITEM> 10個、<ITEM>[珊瑚]<INFO>7013</INFO></ITEM> 10個、<ITEM>[神秘花朵<INFO>6509</INFO></ITEM> 1個，參考研究室內的書製作需要的東西。"}
+, Summary = "帶著材料進行作業"}
+, 
+[8615] = {Title = "植物設計", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[克雷爾]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>說要準備<ITEM>[芽苗]<INFO>711</INFO></ITEM> 10個、<ITEM>[糾纏鐵鍊]<INFO>7221</INFO></ITEM> 10個、<ITEM>[珊瑚]<INFO>7013</INFO></ITEM> 10個、<ITEM>[典雅花朵]<INFO>6510</INFO></ITEM> 10個，參考研究室內的書製作需要的東西。"}
+, Summary = "帶著材料進行作業"}
+, 
+[8616] = {Title = "第1卷的正確答案", 
+Description = {"讀完一本滿是灰塵的書。"}
+, Summary = ""}
+, 
+[8617] = {Title = "第2卷的正確答案", 
+Description = {"讀完一本滿是灰塵的書。"}
+, Summary = ""}
+, 
+[8618] = {Title = "第3卷的正確答案", 
+Description = {"讀完一本滿是灰塵的書。"}
+, Summary = ""}
+, 
+[8619] = {Title = "第4卷的正確答案", 
+Description = {"讀完一本滿是灰塵的書。"}
+, Summary = ""}
+, 
+[8620] = {Title = "第5卷的正確答案", 
+Description = {"讀完一本滿是灰塵的書。"}
+, Summary = ""}
+, 
+[8621] = {Title = "警戒線", IconName = "ico_jq.bmp", 
+Description = {"用形式上的警戒向製作表裡相同的燒瓶，這不是物理上的警戒線，而是擴張意識的初步工具。以目前的經驗可以得知，這有可能發生。"}
+, Summary = "在書桌上製圖"}
+, 
+[8622] = {Title = "曼陀羅魔花培養機(2)", IconName = "ico_jq.bmp", 
+Description = {"向<NAVI>[克雷爾]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>報告成果"}
+, Summary = "與克雷爾對話"}
+, 
+[8623] = {Title = "偶遇阿爾迪納", 
+Description = {"阿爾迪納恭喜…?我成為基因學者。"}
+, Summary = ""}
+, 
+[18059] = {Title = "影子的呼喚", IconName = "ico_jq.bmp", 
+Description = {"在刺客公會菲音斯分部遇見的魯米說公會需要選拔有實力的人才，要我前往菲音斯東部入口密室見貝爾卡塞。為了驗證實力，要自己前往「菲音斯東部入口密室」"}
+, Summary = "與貝爾卡塞對話"}
+, 
+[18060] = {Title = "為了成為十字影武-1", IconName = "ico_jq.bmp", 
+Description = {"在貝爾卡塞?菲音斯南部海邊<NAVI>[港口附近]<INFO>ve_fild07,99,141,0,101,0</INFO></NAVI>調查影子現象，為了成為十字影武尋找線索。"}
+, Summary = "調查影子"}
+, 
+[18061] = {Title = "為了成為十字影武-2", IconName = "ico_jq.bmp", 
+Description = {"在菲音斯尋找「托里」獲得有關影子現象的情報。若找不到托里，請在<NAVI>[附近]<INFO>veins,87,158,0,101,0</INFO></NAVI>大喊托里的名字…"}
+, Summary = "與托里對話"}
+, 
+[18062] = {Title = "為了成為十字影武-3", IconName = "ico_jq.bmp", 
+Description = {"再次查看海邊<NAVI>[港口附近]<INFO>ve_fild07,99,141,0,101,0</INFO></NAVI>的箱子，說不定這次那個叫「小黑」的生物會回答。"}
+, Summary = "與小黑對話"}
+, 
+[18063] = {Title = "為了成為十字影武-4", IconName = "ico_jq.bmp", 
+Description = {"確認情報，回到密室向<NAVI>[貝爾卡塞]<INFO>ve_in,212,384,0,101,0</INFO></NAVI>報告。"}
+, Summary = "與貝爾卡塞對話"}
+, 
+[18064] = {Title = "為了成為十字影武-5", IconName = "ico_jq.bmp", 
+Description = {"為了再次召喚黑暗精靈，收集必要的道具<ITEM>黑暗之結晶體<INFO>7799</INFO></ITEM> 5個、<ITEM>神秘黑珠<INFO>6089</INFO></ITEM> 20個後，前往貝爾卡塞<NAVI>[指定的位置]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>向他報告。可自夢羅克門徒獲得黑暗之結晶體，在魯杜斯地區獲得神秘黑珠。"}
+, Summary = "與貝爾卡塞對話"}
+, 
+[18065] = {Title = "為了成為十字影武-6", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[與貝爾卡塞]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>一起移動至「被陰影籠罩的宅邸」，使用收集的黑暗之結晶體與神秘黑珠召喚黑暗精靈。"}
+, Summary = "召喚黑暗精靈"}
+, 
+[18066] = {Title = "為了成為十字影武-7", IconName = "ico_jq.bmp", 
+Description = {"通過黑暗精靈指定的測驗，失敗時可透過菲音斯原野的<NAVI>[貝爾卡塞]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>再次進入「被陰影籠罩的宅邸」。"}
+, Summary = ""}
+, 
+[18067] = {Title = "為了成為十字影武-8", IconName = "ico_jq.bmp", 
+Description = {"準備好成為十字影武，再次和黑暗精靈對話。"}
+, Summary = "與黑暗精靈對話"}
+, 
+[11668] = {Title = "禁咒魔導士轉職", IconName = "ico_jq.bmp", 
+Description = {"聽說咒術士轉職時遇見的大師 艾格諾羅里亞要準備陷入沉睡。艾格諾羅里亞陷入沉睡前沒有需要解決的問題嗎?跟著妖精去見艾格諾羅里亞吧!"}
+, Summary = "確認神奇草"}
+, 
+[11669] = {Title = "禁咒魔導士轉職", IconName = "ico_jq.bmp", 
+Description = {"艾格諾羅里亞的助理儒在對話時消失了。和接受儒的試煉的米奇一起擊殺^ff000010隻菲音斯托爾火山洞穴三樓的魔物，帶回燃燒的心臟1個^000000。"}
+, Summary = "把燃燒的心臟給米奇"}
+, 
+[11670] = {Title = "禁咒魔導士轉職", IconName = "ico_jq.bmp", 
+Description = {"第二次試煉材料: ^ff0000擊殺10隻住在霸肋門德大宅三溫暖的魔物，帶回人魚的心臟1個^000000。"}
+, Summary = "把人魚的心臟給米奇"}
+, 
+[11671] = {Title = "禁咒魔導士轉職", IconName = "ico_jq.bmp", 
+Description = {"第三個試煉材料: ^ff0000採集1個光芒草、帶回天地樹樹芽1個^000000。"}
+, Summary = "把天地樹樹芽給米奇"}
+, 
+[11672] = {Title = "禁咒魔導士轉職", IconName = "ico_jq.bmp", 
+Description = {"確認材料後的儒教我們跟著他，和米奇對話後跟上儒。"}
+, Summary = "與米奇對話"}
+, 
+[11673] = {Title = "禁咒魔導士轉職", IconName = "ico_jq.bmp", 
+Description = {"艾格諾羅里亞因騷動被吵醒了，在魔力之泉與艾格諾羅里亞對話。"}
+, Summary = "與艾格諾羅里亞對話"}
+, 
+[11674] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"艾瑪好像想知道召喚高級精靈的事，和基藍對話吧!"}
+, Summary = "與基藍對話"}
+, 
+[11675] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"基藍說沒有可以告訴我的事。"}
+, Summary = "與艾瑪對話"}
+, 
+[11676] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"艾瑪說看到基藍前往^ff0000霸肋門德大宅^000000，先在霸肋門德大宅的^ff0000第一魔力發電廠^000000尋找線索吧!"}
+, Summary = "調查第一魔力發電廠"}
+, 
+[11677] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"因為魔物無法專心調查，擊殺^ff0000魔癮朵洛爾和釋放魔力各10隻^000000。"}
+, Summary = "擊殺妨礙的魔物"}
+, 
+[11678] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"無法在魔力發電廠獲得召喚高級精靈的線索， ^ff0000調查霸肋門德的圖書館^000000吧!"}
+, Summary = "調查霸肋門德圖書館"}
+, 
+[11679] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"書一直逃跑無法閱讀，擊殺^ff0000流浪魔法書10個^000000，回到艾瑪調查的書桌。"}
+, Summary = "回收流浪魔法書"}
+, 
+[11680] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"無法在回收的流浪魔法書找到想要的情報，再次確認魔法書吧!"}
+, Summary = "再次確認書櫃"}
+, 
+[11681] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"一確認魔法書便召喚一隻小精靈，和移動到這裡的精靈對話。"}
+, Summary = "與儒對話"}
+, 
+[11682] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"儒要我們用同樣方法召喚希姿和和李佩茵，回到儒說的地方、按照指示召喚希姿和和李佩茵。"}
+, Summary = "召喚希姿和和李佩茵"}
+, 
+[11683] = {Title = "元素支配者轉職", IconName = "ico_jq.bmp", 
+Description = {"雖然按照儒的要求完成召喚，但騷動被艾格諾羅里亞發現了。"}
+, Summary = "與大師對話"}
+, 
+[18070] = {Title = "為了成為深淵追跡者-1", IconName = "ico_jq.bmp", 
+Description = {"問在拉赫西南部市場巷弄玩的<NAVI>[茱莉]<INFO>rachel,54,48,0,101,0</INFO></NAVI>有關黑暗精靈的情報。"}
+, Summary = "與茱莉對話"}
+, 
+[18071] = {Title = "為了成為深淵追跡者-2", IconName = "ico_jq.bmp", 
+Description = {"茱莉說要警告跑去拉赫南部<NAVI>[廢棄崗哨]<INFO>ve_fild02,53,189,0,101,0</INFO></NAVI>玩的哥哥。"}
+, Summary = "與穆利對話"}
+, 
+[18072] = {Title = "為了成為深淵追跡者-3", IconName = "ico_jq.bmp", 
+Description = {"送走穆利和彼得後，尋找在小孩子悄悄話中出現的黑暗精靈。"}
+, Summary = "調查淡影"}
+, 
+[18073] = {Title = "為了成為深淵追跡者-4", IconName = "ico_jq.bmp", 
+Description = {"回到拉赫的<NAVI>[影子工坊]<INFO>rachel,180,117,0,101,0</INFO></NAVI>，和維森特報告。"}
+, Summary = "與維森特對話"}
+, 
+[18074] = {Title = "為了成為深淵追跡者-5", IconName = "ico_jq.bmp", 
+Description = {"為了再次召喚黑暗精靈，收集需要的道具<ITEM>黑暗之結晶體<INFO>7799</INFO></ITEM> 5個、<ITEM>神秘黑珠<INFO>6089</INFO></ITEM> 20個後，回到拉赫的<NAVI>[影子工坊]<INFO>rachel,180,117,0,101,0</INFO></NAVI>向維森特報告。可在夢羅克門徒取得黑暗之結晶體，在魯杜斯地區獲得神秘黑珠。"}
+, Summary = "收集道具後和維森特對話"}
+, 
+[18075] = {Title = "為了成為深淵追跡者-6", IconName = "ico_jq.bmp", 
+Description = {"前往維森特告知的指定地點，與<NAVI>[杜姆克]<INFO>ve_fild05,313,110,0,101,0</INFO></NAVI>見面。一定要攜帶召喚精靈需要的「黑暗之結晶體」與「神秘黑珠」。"}
+, Summary = "與杜姆克對話"}
+, 
+[18076] = {Title = "為了成為深淵追跡者-7", IconName = "ico_jq.bmp", 
+Description = {"通過黑暗精靈的考驗，失敗時可以透過菲音斯原野的<NAVI>[杜姆克]<INFO>ve_fild05,313,110,0,101,0</INFO></NAVI>再次進入「被深淵籠罩的宅邸」。"}
+, Summary = ""}
+, 
+[18077] = {Title = "為了成為深淵追跡者-8", IconName = "ico_jq.bmp", 
+Description = {"準備好成為深淵追跡者後，再次和黑暗精靈對話。"}
+, Summary = "與黑暗精靈對話"}
+, 
+[16454] = {Title = "成為聖裁者之路", IconName = "ico_jq.bmp", 
+Description = {"入住普隆德拉旅館，使用旅館2樓的<NAVI>[第二間房]<INFO>prt_in,246,104,0,101,0</INFO></NAVI>。"}
+, Summary = "入住旅館"}
+, 
+[16455] = {Title = "迫切的考驗", IconName = "ico_jq.bmp", 
+Description = {"遇見叫世良的少女，按照她的建議在前往聖 卡畢利那 修道院的路上和<NAVI>[艾恩哈爾]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>見面。"}
+, Summary = "和艾恩哈爾見面"}
+, 
+[16456] = {Title = "實踐的考驗", IconName = "ico_jq.bmp", 
+Description = {"通過迫切的考驗。未通過時見的考驗，進入聖 卡畢利那修道院<NAVI>[內部]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>。"}
+, Summary = "進入修道院"}
+, 
+[16457] = {Title = "成為聖裁者之路", IconName = "ico_jq.bmp", 
+Description = {"為成為聖裁者需要通過測試，獨自進入修道院地下結界擊殺凶狠的魔物、回去找<NAVI>[艾恩哈爾]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>。", "尼德 - 艾赫", " |\t結界\t|", "佑元 - 史葛"}
+, Summary = ""}
+, 
+[16458] = {Title = "成為聖裁者之路", IconName = "ico_jq.bmp", 
+Description = {"為成為聖裁者需要通過測試，獨自進入修道院地下結界擊殺凶狠的魔物、回去找<NAVI>[艾恩哈爾]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>。", "尼德 - 艾赫", " |\t結界\t|", "佑元 - 史葛"}
+, Summary = ""}
+, 
+[16459] = {Title = "成為聖裁者之路", IconName = "ico_jq.bmp", 
+Description = {"為成為聖裁者需要通過測試，獨自進入修道院地下結界擊殺凶狠的魔物、回去找<NAVI>[艾恩哈爾]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>。", "尼德 - 艾赫", " |\t結界\t|", "佑元 - 史葛"}
+, Summary = ""}
+, 
+[16460] = {Title = "轉職為聖裁者", IconName = "ico_jq.bmp", 
+Description = {"終於轉職為聖裁者，身心平靜後聽聽<NAVI>[艾恩哈爾]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>要說什麼。"}
+, Summary = "轉職為聖裁者。"}
+, 
+[3430] = {Title = "與虔誠騎士對話", IconName = "ico_jq.bmp", 
+Description = {"前往<NAVI>[普隆德拉西北部]<INFO>prontera,58,364,</INFO></NAVI>可以見到他，嘗試與他對話。"}
+, Summary = "與虔誠騎士對話"}
+, 
+[3431] = {Title = "與武裝騎士對話", IconName = "ico_jq.bmp", 
+Description = {"前往<NAVI>[普隆德拉東北部]<INFO>prontera,276,355,</INFO></NAVI>可以見到他，嘗試與他對話。"}
+, Summary = "與武裝騎士對話"}
+, 
+[3432] = {Title = "強大的裝備與優異的劍術-虔誠騎士", IconName = "ico_jq.bmp", 
+Description = {"你在與虔誠騎士的對話中，說自己的定義是強大的裝備與優異的劍術。"}
+, Summary = ""}
+, 
+[3433] = {Title = "信仰與忠誠-虔誠騎士", IconName = "ico_jq.bmp", 
+Description = {"你在與虔誠騎士的對話中，說自己的定義是信仰與忠誠。"}
+, Summary = ""}
+, 
+[3434] = {Title = "強大的裝備與優異的劍術-武裝騎士", IconName = "ico_jq.bmp", 
+Description = {"你在與武裝騎士的對話中，說自己的定義是強大的裝備與優異的劍術。"}
+, Summary = ""}
+, 
+[3435] = {Title = "信仰與忠誠-武裝騎士", IconName = "ico_jq.bmp", 
+Description = {"你在與武裝騎士的對話中，說自己的定義是信仰與忠誠。"}
+, Summary = ""}
+, 
+[3436] = {Title = "第1戰-武裝騎士", IconName = "ico_jq.bmp", 
+Description = {"在測驗的第1戰擊倒武裝騎士。"}
+, Summary = "擊敗武裝騎士"}
+, 
+[3437] = {Title = "第2戰-虔誠騎士", IconName = "ico_jq.bmp", 
+Description = {"在測驗的第2戰擊倒虔誠騎士。"}
+, Summary = "擊敗虔誠騎士"}
+, 
+[3438] = {Title = "第1戰-虔誠騎士", IconName = "ico_jq.bmp", 
+Description = {"在測驗的第1戰擊倒虔誠騎士。"}
+, Summary = "擊敗虔誠騎士"}
+, 
+[3439] = {Title = "第2戰-武裝騎士", IconName = "ico_jq.bmp", 
+Description = {"在測驗的第1戰擊倒武裝騎士。"}
+, Summary = "擊敗武裝騎士"}
+, 
+[3440] = {Title = "前往測驗擂台", IconName = "ico_jq.bmp", 
+Description = {"與國王騎士對話，申請參加測驗擂台。"}
+, Summary = "申請參加測驗擂台"}
+, 
+[3421] = {Title = "尋找幻影之書", IconName = "ico_jq.bmp", 
+Description = {"祭司艾勒格思為了測驗信仰，讓我前往<NAVI>[斐揚洞穴1樓]<INFO>pay_arche,39,131,0,101,0</INFO></NAVI>尋找幻影之書。"}
+, Summary = "尋找幻影之書第1卷"}
+, 
+[3422] = {Title = "幻影之書第2卷", IconName = "ico_jq.bmp", 
+Description = {"幻影之書第1卷內容中寫道<NAVI>[獸人洞窟1樓]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI>某處有幻影之書第2卷。"}
+, Summary = "尋找幻影之書第2卷"}
+, 
+[3423] = {Title = "幻影之書第3卷", IconName = "ico_jq.bmp", 
+Description = {"幻影之書第2卷內容中寫道<NAVI>[克雷斯特漢姆古城修道院]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI>某處有幻影之書第3卷。"}
+, Summary = "尋找幻影之書第3卷"}
+, 
+[3424] = {Title = "擊殺修道院的魔物", IconName = "ico_jq.bmp", 
+Description = {"為查看幻影之書第3卷接下來的內容，擊殺30隻修道院的魔物。"}
+, Summary = "擊殺30隻修道院內的魔物"}
+, 
+[3425] = {Title = "最後的試煉", IconName = "ico_jq.bmp", 
+Description = {"進入試煉洞穴，擊殺暗黑幻影。"}
+, Summary = "擊殺暗黑幻影"}
+, 
+[3429] = {Title = "擊殺暗黑幻影", IconName = "ico_jq.bmp", 
+Description = {"擊殺暗黑幻影。"}
+, Summary = "擊殺暗黑幻影"}
+, 
+[17450] = {Title = "職業4轉:新的表演場地", IconName = "ico_jq.bmp", 
+Description = {"前往新建的表演場地<NAVI>[奧丁神殿北部]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>。"}
+, Summary = "前往奧丁神殿"}
+, 
+[17451] = {Title = "職業4轉: 靈感碎片1", IconName = "ico_jq.bmp", 
+Description = {"前往<NAVI>[阿巫敦拉草原]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI>附近，應該是吹拂大地的風給予古人靈感吧!"}
+, Summary = "靈感碎片1"}
+, 
+[17452] = {Title = "職業4轉: 靈感碎片1", IconName = "ico_jq.bmp", 
+Description = {"擊殺LV105以上的風屬性怪，在<NAVI>[碎片]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI>注入風的氣息。"}
+, Summary = "靈感碎片1"}
+, 
+[17453] = {Title = "職業4轉: 靈感碎片2", IconName = "ico_jq.bmp", 
+Description = {"一握住結晶身體就感覺被<NAVI>[大地]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>響起的聲音包圍。"}
+, Summary = "靈感碎片2"}
+, 
+[17454] = {Title = "職業4轉: 靈感碎片2", IconName = "ico_jq.bmp", 
+Description = {"擊殺LV130以上的地屬性怪，在<NAVI>[碎片]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>注入大地的氣息。"}
+, Summary = "靈感碎片2"}
+, 
+[17455] = {Title = "職業4轉: 靈感碎片3", IconName = "ico_jq.bmp", 
+Description = {"一握住結晶身體就感覺被<NAVI>[天上]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI>的聲音包圍。"}
+, Summary = "靈感碎片3"}
+, 
+[17456] = {Title = "職業4轉: 靈感碎片3", IconName = "ico_jq.bmp", 
+Description = {"擊殺LV180以上的聖屬性怪，在<NAVI>[碎片]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI>注入天使氣息。"}
+, Summary = "靈感碎片3"}
+, 
+[17457] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"朝感動碎片所在地<NAVI>[薑餅城]<INFO>xmas,82,146,0,101,0</INFO></NAVI>前進，住在寒冷地方的人，有比較發達的藝術氣息。"}
+, Summary = "感動碎片1"}
+, 
+[17458] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"但我從剛剛起內心就一直悸動不已?其它碎片應該在<NAVI>[夢羅克]<INFO>morocc,100,31,0,101,0</INFO></NAVI>那邊。"}
+, Summary = "感動碎片2"}
+, 
+[17459] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"但從剛剛起珠子裡面好像有聲音，是這個吧?說不定<NAVI>[艾音貝赫礦山]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>有其它碎片?"}
+, Summary = "感動碎片3"}
+, 
+[17460] = {Title = "職業4轉: 完成收集碎片", IconName = "ico_jq.bmp", 
+Description = {"收集所有碎片，回去向<NAVI>[歷史學家]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>報告吧!"}
+, Summary = "向歷史學家報告"}
+, 
+[17461] = {Title = "職業4轉:新的表演場地", IconName = "ico_jq.bmp", 
+Description = {"前往新建的表演場地<NAVI>[奧丁神殿北部]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>。"}
+, Summary = "前往奧丁神殿"}
+, 
+[17462] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"前往<NAVI>[亡者之都]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>，亡者大概會賦予相關恐懼與憐憫等各種靈感。"}
+, Summary = "靈感碎片1"}
+, 
+[17463] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"擊殺LV105以上的闇屬性怪，在<NAVI>[碎片]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>注入黑暗氣息"}
+, Summary = "靈感碎片1"}
+, 
+[17464] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"一握住結晶身體就感覺被<NAVI>[燃燒的]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI>聲音包圍。"}
+, Summary = "靈感碎片2"}
+, 
+[17465] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"擊殺LV130以上的火屬性怪，在<NAVI>[碎片]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI>注入火之氣息"}
+, Summary = "靈感碎片2"}
+, 
+[17466] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"一握住結晶身體就感覺被<NAVI>[神秘的]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI>聲音包圍。"}
+, Summary = "靈感碎片3"}
+, 
+[17467] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"擊殺LV180以上的龍族怪，在<NAVI>[碎片]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI>注入龍之氣息。"}
+, Summary = "靈感碎片3"}
+, 
+[17468] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"前往最大的<NAVI>[教會]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>，可能已經聽著大聲讚美神的人聲融入其中了。"}
+, Summary = "感動碎片1"}
+, 
+[17469] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"海浪的聲音...突然想起來了。前往<NAVI>[克克魔海邊]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>，雖然不清楚，但好像引導冒險家過去。"}
+, Summary = "感動碎片2"}
+, 
+[17470] = {Title = "職業4轉: 收集碎片", IconName = "ico_jq.bmp", 
+Description = {"你第一次獲得職業的地方，在<NAVI>[那裡]<INFO>payon,62,157,0,101,0</INFO></NAVI>應該可以得到解答。"}
+, Summary = "感動碎片3"}
+, 
+[17471] = {Title = "職業4轉: 完成收集碎片", IconName = "ico_jq.bmp", 
+Description = {"收集所有碎片了，向<NAVI>[歷史學家]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>報告吧!"}
+, Summary = "向歷史學家報告"}
+, 
+[17472] = {Title = "職業4轉: 表演場地是?", IconName = "ico_jq.bmp", 
+Description = {"你在找新建的表演場地啊?居然...你先去 <NAVI>[地下]<INFO>job4_tro,51,47,0,101,0</INFO></NAVI>吧!詳情到那裡再跟你說。"}
+, Summary = "前往地下"}
+, 
+[17473] = {Title = "職業4轉: 詳細說明", IconName = "ico_jq.bmp", 
+Description = {"我不知道專業內容，和<NAVI>[海倫]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI>聊聊吧!"}
+, Summary = "和歷史學家對話"}
+, 
+[17474] = {Title = "職業4轉: 儀式的順序", IconName = "ico_jq.bmp", 
+Description = {"守護樹的發條啟動之後，請將手放在上面。若沒有啟動，請跟<NAVI>[我]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI>說。"}
+, Summary = "守護樹的發條"}
+, 
+[17475] = {Title = "職業4轉: 克瓦希爾之盒", IconName = "ico_jq.bmp", 
+Description = {"驅除所有空虛感，在12個祭壇放上靈感碎片與感動碎片。- <NAVI>[海倫]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI>"}
+, Summary = "恢復儀式"}
+, 
+[5901] = {Title = "喝醉的老人", IconName = "ico_jq.bmp", 
+Description = {"去告訴酒醉老人正身處很危險的地方。"}
+, Summary = "與喝醉的老人對話"}
+, 
+[5902] = {Title = "被吸引的理由", IconName = "ico_jq.bmp", 
+Description = {"對只看我一眼的老人感到莫名地吸引，為了瞭解原因繼續對話吧!"}
+, Summary = "與喝醉的老人對話"}
+, 
+[5903] = {Title = "尋找秘密修練場地", IconName = "ico_jq.bmp", 
+Description = {"在斐揚相遇的酒醉老人說年輕時", "曾在嚕嚕卡森林修練過，", "在<NAVI>[嚕嚕卡森林]<INFO>um_fild01,47,345,0,101,0</INFO></NAVI>尋找蛙形石頭後，前往那個地方吧!"}
+, Summary = "在嚕嚕卡森林尋找蛙形石頭", NpcSpr = "4_FROG"}
+, 
+[5904] = {Title = "前往璐璐卡森林", IconName = "ico_jq.bmp", 
+Description = {"在斐揚相遇的酒醉老人的秘密修練場地，", "進入璐璐卡森林後尋找變更強的方法吧!", " ", "※注意!進入璐璐卡森林的路一小時只開放一次。"}
+, Summary = "", NpcSpr = "4_FROG", NpcNavi = "um_fild01", NpcPosX = 47, NpcPosY = 345}
+, 
+[5905] = {Title = "生存之道", IconName = "ico_jq.bmp", 
+Description = {"思考獨自在璐璐卡森林", "生存所需的物品有哪些。", " ", "1) 糧食充足嗎?", "2) 飲用水在何處呢?", "3) 晚上寒冷怎麼辦呢?", "4) 會不會遇到野生動物呢?"}
+, Summary = ""}
+, 
+[5906] = {Title = "離開森林", IconName = "ico_jq.bmp", 
+Description = {"離開璐璐卡森林後去見帳篷主人吧!"}
+, Summary = "離開璐璐卡森林"}
+, 
+[5907] = {Title = "檢查資質", IconName = "ico_jq.bmp", 
+Description = {"帳篷主人建議轉職為風鷹狩獵者，與帳篷主人對話吧!", " ", "^FF0000為了轉職^000000", "^FF0000需要配完剩餘的技能點數，^000000", "^FF0000請卸除獵鷹、灰狼；^000000", "^FF0000請卸除坐騎。^000000"}
+, Summary = "與帳篷主人對話"}
 }
 

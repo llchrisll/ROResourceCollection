@@ -3495,6 +3495,126 @@ signName = {mainTitle = "深淵海底洞穴上層樓"}
 ["iz_d05_i.rsw"] = {displayName = "深淵海底洞穴下層樓", notifyEnter = true, 
 signName = {mainTitle = "深淵海底洞穴下層樓"}
 , backgroundBmp = "dungeon"}
+, 
+["sp_rudus4.rsw"] = {displayName = "實驗體廢棄場魯杜斯四樓", notifyEnter = true, 
+signName = {subTitle = "實驗體廢棄場", mainTitle = "魯杜斯四樓"}
+, backgroundBmp = "dungeon"}
+, 
+["amicitia1.rsw"] = {displayName = "廢棄研究所阿米希提婭", notifyEnter = true, 
+signName = {subTitle = "廢棄研究所阿米希提婭", mainTitle = "一樓綜合研究室"}
+, backgroundBmp = "dungeon"}
+, 
+["amicitia2.rsw"] = {displayName = "廢棄研究所阿米希提婭", notifyEnter = true, 
+signName = {subTitle = "廢棄研究所阿米希提婭", mainTitle = "二樓集中培養室"}
+, backgroundBmp = "dungeon"}
+, 
+["nif_dun01.rsw"] = {displayName = "尼芙菲姆密穴 亡者宴會廳", notifyEnter = true, 
+signName = {subTitle = "尼芙菲姆密穴一樓", mainTitle = "亡者宴會廳"}
+, backgroundBmp = "dungeon"}
+, 
+["nif_dun02.rsw"] = {displayName = "尼芙菲姆密穴 崩塌的歌劇院", notifyEnter = true, 
+signName = {subTitle = "尼芙菲姆密穴二樓", mainTitle = "崩塌的歌劇院"}
+, backgroundBmp = "dungeon"}
+, 
+["grademk.rsw"] = {displayName = "等級強化所", notifyEnter = true, 
+signName = {subTitle = "等級強化所"}
+, backgroundBmp = "village_s1"}
+, 
+["1@4sac.rsw"] = {displayName = "影宅", notifyEnter = true, 
+signName = {mainTitle = "影宅"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4drk.rsw"] = {displayName = "龍之考驗", notifyEnter = true, 
+signName = {mainTitle = "龍之考驗"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4win.rsw"] = {displayName = "璐璐卡森林", notifyEnter = true, 
+signName = {mainTitle = "璐璐卡森林"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4tro.rsw"] = {displayName = "克瓦希爾之盒", notifyEnter = true, 
+signName = {mainTitle = "克瓦希爾之盒"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_tro.rsw"] = {displayName = "克瓦希爾之空盒", notifyEnter = true, 
+signName = {mainTitle = "克瓦希爾之空盒"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4inq.rsw"] = {displayName = "修道院地下", notifyEnter = true, 
+signName = {mainTitle = "修道院地下"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_bio.rsw"] = {displayName = "祕密花園", notifyEnter = true, 
+signName = {mainTitle = "祕密花園"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4mst.rsw"] = {displayName = "優配擂斯中心部VT", notifyEnter = true, 
+signName = {mainTitle = "優配擂斯中心部VT"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4cdn.rsw"] = {displayName = "最後試煉之幻影洞穴", notifyEnter = true, 
+signName = {mainTitle = "最後試煉之幻影洞穴"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4igd.rsw"] = {displayName = "正義擂臺", notifyEnter = true, 
+signName = {mainTitle = "正義擂臺"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4mag.rsw"] = {displayName = "魔力之泉", notifyEnter = true, 
+signName = {mainTitle = "魔力之泉"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_mag.rsw"] = {displayName = "魔力之泉", notifyEnter = true, 
+signName = {mainTitle = "魔力之泉"}
+, backgroundBmp = "field2_s2"}
+, 
+["tra_fild.rsw"] = {displayName = "普隆德拉郊外訓練場", notifyEnter = true, 
+signName = {mainTitle = "普隆德拉郊外訓練場"}
+, backgroundBmp = "field_s2"}
+, 
+["prontera1.rsw"] = {displayName = "盧恩 米德加茲王國首都 普隆德拉市集", notifyEnter = true, 
+signName = {subTitle = "盧恩 米德加茲王國首都", mainTitle = "普隆德拉市集"}
+, backgroundBmp = "village"}
+, 
+["sp_rud4_a.rsw"] = {displayName = "實驗體廢棄場魯杜斯四樓a", notifyEnter = true, 
+signName = {subTitle = "實驗體廢棄場", mainTitle = "魯杜斯四樓"}
+, backgroundBmp = "dungeon"}
+, 
+["sp_rud4_b.rsw"] = {displayName = "實驗體廢棄場魯杜斯四樓b", notifyEnter = true, 
+signName = {subTitle = "實驗體廢棄場", mainTitle = "魯杜斯四樓"}
+, backgroundBmp = "dungeon"}
+, 
+["amic1_a.rsw"] = {displayName = "廢棄研究所阿米希提婭a", notifyEnter = true, 
+signName = {subTitle = "廢棄研究所阿米希提婭", mainTitle = "一樓綜合研究室"}
+, backgroundBmp = "dungeon"}
+, 
+["amic1_b.rsw"] = {displayName = "廢棄研究所阿米希提婭b", notifyEnter = true, 
+signName = {subTitle = "廢棄研究所阿米希提婭", mainTitle = "一樓綜合研究室"}
+, backgroundBmp = "dungeon"}
+, 
+["amic2_a.rsw"] = {displayName = "廢棄研究所阿米希提婭a", notifyEnter = true, 
+signName = {subTitle = "廢棄研究所阿米希提婭", mainTitle = "二樓集中培養室"}
+, backgroundBmp = "dungeon"}
+, 
+["amic2_b.rsw"] = {displayName = "廢棄研究所阿米希提婭b", notifyEnter = true, 
+signName = {subTitle = "廢棄研究所阿米希提婭", mainTitle = "二樓集中培養室"}
+, backgroundBmp = "dungeon"}
+, 
+["nifd01_a.rsw"] = {displayName = "尼芙菲姆密穴 亡者宴會廳a", notifyEnter = true, 
+signName = {subTitle = "尼芙菲姆密穴一樓", mainTitle = "亡者宴會廳"}
+, backgroundBmp = "dungeon"}
+, 
+["nifd01_b.rsw"] = {displayName = "尼芙菲姆密穴 亡者宴會廳b", notifyEnter = true, 
+signName = {subTitle = "尼芙菲姆密穴一樓", mainTitle = "亡者宴會廳"}
+, backgroundBmp = "dungeon"}
+, 
+["nifd02_a.rsw"] = {displayName = "尼芙菲姆密穴 崩塌的歌劇院a", notifyEnter = true, 
+signName = {subTitle = "尼芙菲姆密穴二樓", mainTitle = "崩塌的歌劇院"}
+, backgroundBmp = "dungeon"}
+, 
+["nifd02_b.rsw"] = {displayName = "尼芙菲姆密穴 崩塌的歌劇院b", notifyEnter = true, 
+signName = {subTitle = "尼芙菲姆密穴二樓", mainTitle = "崩塌的歌劇院"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0
