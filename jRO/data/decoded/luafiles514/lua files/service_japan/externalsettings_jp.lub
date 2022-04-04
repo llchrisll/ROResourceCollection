@@ -5,35 +5,36 @@
 -- function num : 0
 MaxLevelTable = {BaseLevel = 99, BaseLevel3rd = 185, BaseLevelExtend2 = 185, BaseLevelUpperJob = 185, BaseLevelHomun = 150, BaseLevelDoram = 185, JobLevelNovice = 10, JobLevelSuperNovice = 99, JobLevelBase = 50, JobLevel2nd = 70, JobLevel3rd = 65, JobLevelExtend2 = 65, JobLevelUpperJob = 65, JobLevelDoram = 55}
 MakeableRace = {Doram = true}
+AssistAddr = "ro-assist.gungho.jp:3000"
 LEVELAURA = {}
--- DECOMPILER ERROR at PC22: Confused about usage of register: R0 in 'UnsetPending'
-
-LEVELAURA.EF_NONE = -1
 -- DECOMPILER ERROR at PC24: Confused about usage of register: R0 in 'UnsetPending'
 
-LEVELAURA.EF_LEVEL99 = 200
+LEVELAURA.EF_NONE = -1
 -- DECOMPILER ERROR at PC26: Confused about usage of register: R0 in 'UnsetPending'
 
-LEVELAURA.EF_LEVEL99_ORB1 = 976
+LEVELAURA.EF_LEVEL99 = 200
 -- DECOMPILER ERROR at PC28: Confused about usage of register: R0 in 'UnsetPending'
 
-LEVELAURA.EF_LEVEL99_ORB2 = 977
+LEVELAURA.EF_LEVEL99_ORB1 = 976
 -- DECOMPILER ERROR at PC30: Confused about usage of register: R0 in 'UnsetPending'
 
-LEVELAURA.EF_LEVEL150 = 978
+LEVELAURA.EF_LEVEL99_ORB2 = 977
 -- DECOMPILER ERROR at PC32: Confused about usage of register: R0 in 'UnsetPending'
 
-LEVELAURA.EF_LEVEL150_SUB = 979
+LEVELAURA.EF_LEVEL150 = 978
 -- DECOMPILER ERROR at PC34: Confused about usage of register: R0 in 'UnsetPending'
 
-LEVELAURA.EF_LEVEL160 = 1022
+LEVELAURA.EF_LEVEL150_SUB = 979
 -- DECOMPILER ERROR at PC36: Confused about usage of register: R0 in 'UnsetPending'
 
-LEVELAURA.EF_LEVEL160_SUB = 1023
+LEVELAURA.EF_LEVEL160 = 1022
 -- DECOMPILER ERROR at PC38: Confused about usage of register: R0 in 'UnsetPending'
 
-LEVELAURA.EF_LEVEL185 = 1226
+LEVELAURA.EF_LEVEL160_SUB = 1023
 -- DECOMPILER ERROR at PC40: Confused about usage of register: R0 in 'UnsetPending'
+
+LEVELAURA.EF_LEVEL185 = 1226
+-- DECOMPILER ERROR at PC42: Confused about usage of register: R0 in 'UnsetPending'
 
 LEVELAURA.EF_LEVEL185_SUB = 1227
 Level99AuraTable = {Default99LvAura = LEVELAURA.EF_LEVEL99, Default99LvAura_sub = LEVELAURA.EF_LEVEL99_ORB2, Baby99LvAura = 0, Baby99LvAura_sub = 0, SecondHigh99LvAura = 0, SecondHigh99LvAura_sub = LEVELAURA.EF_LEVEL99_ORB1, Homun99LvAura = 0, Homun99LvAura_sub = LEVELAURA.EF_LEVEL99_ORB1, Boss99LvAura_sub = LEVELAURA.EF_LEVEL99_ORB1}

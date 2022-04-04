@@ -880,6 +880,18 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Rocking_Short] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Dreaming_Rose_Long] = {Default = 150, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
@@ -894,9 +906,22 @@ Direction = {}
     return false
   end
 end
+, IsHelmRobe = function(acc_id)
+  -- function num : 0_1
+  local Items_List = TB_Layer_Priority.Items_List
+  do
+    if Items_List ~= nil then
+      local Item_Tb = Items_List[acc_id]
+      if Item_Tb ~= nil and Item_Tb.isHelmRobe ~= nil then
+        return Item_Tb.isHelmRobe
+      end
+    end
+    return false
+  end
+end
 }
 GetLayerPriority = function(direction, layer, acc_id)
-  -- function num : 0_1
+  -- function num : 0_2
   local Items_List = TB_Layer_Priority.Items_List
   do
     if Items_List ~= nil then
@@ -905,7 +930,9 @@ GetLayerPriority = function(direction, layer, acc_id)
         if Item_Tb.Direction ~= nil and (Item_Tb.Direction)[direction] ~= nil then
           return (Item_Tb.Direction)[direction]
         end
-        return Item_Tb.Default
+        if Item_Tb.Default ~= nil then
+          return Item_Tb.Default
+        end
       end
     end
     if layer == 2 then
@@ -917,7 +944,11 @@ GetLayerPriority = function(direction, layer, acc_id)
         if layer == 4 then
           return TB_Layer_Priority.Default_Mid
         else
-          return -1
+          if layer == 8 then
+            return TB_Layer_Priority.Default_Robe
+          else
+            return -1
+          end
         end
       end
     end

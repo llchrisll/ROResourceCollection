@@ -1194,8 +1194,6 @@ SignBoardList = {
 , 
 {"ev_season01", 17, 92, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  思い出の雛人形", "255,255,255"}
 , 
-{"ev_season01", 21, 98, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ﾎﾜｲﾄﾘﾘｰﾛｰﾌﾞ交浬183", "255,255,255"}
-, 
 {"ev_season01", 14, 100, 3, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  歴戦の盾", "255,255,255"}
 , 
 {"ev_season01", 8, 100, 3, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  愛の結晶", "255,255,255"}
@@ -1203,6 +1201,8 @@ SignBoardList = {
 {"ev_season01", 19, 108, 3, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  メロリンコイン", "255,255,255"}
 , 
 {"ev_season01", 11, 125, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  記念硬貨", "255,255,255"}
+, 
+{"ev_season01", 21, 98, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  装備の交換", "255,255,255"}
 , 
 {"ba_maison", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  バルムント邸案内", "255,255,255"}
 , 
@@ -1375,6 +1375,8 @@ SignBoardList = {
 {"march_01", 138, 121, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  厄払い(バトル)", "255,255,255"}
 , 
 {"march_01", 102, 121, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  厄払い(バトル)", "255,255,255"}
+, 
+{"march_01", 109, 84, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  人形図鑑", "255,255,255"}
 , 
 {"glast_01", 143, 288, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  並行世界のヒメルメズ", "255,255,255"}
 , 

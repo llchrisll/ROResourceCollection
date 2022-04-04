@@ -1,0 +1,3 @@
+// NotNavigate_maptable.txtファイルに登録されるマップはナビゲーション道案内から除外されます。
+// exceptionmaptable.txtファイルは検索除去用途
+// ※暫定的に全て未登録

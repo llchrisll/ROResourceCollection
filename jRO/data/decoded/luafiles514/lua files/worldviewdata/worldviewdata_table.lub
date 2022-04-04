@@ -32,6 +32,8 @@ worldtable_main = {
 , 
 {2, "mag_dun02.rsw", 460, 45, 545, 66, WORLD_MSGID.MSI_2_MAG_DUN02, ""}
 , 
+{2, "mag_dun03.rsw", 460, 45, 545, 66, WORLD_MSGID.MSI_2_MAG_DUN03, ""}
+, 
 {3, "ice_dun01.rsw", 380, 121, 447, 142, WORLD_MSGID.MSI_3_ICE_DUN01, ""}
 , 
 {3, "ice_dun02.rsw", 380, 121, 447, 142, WORLD_MSGID.MSI_3_ICE_DUN02, ""}
@@ -274,6 +276,8 @@ worldtable_main = {
 , 
 {30, "prt_maze03.rsw", 946, 597, 1026, 618, WORLD_MSGID.MSI_30_PRT_MAZE03, ""}
 , 
+{43, "mal_dun01.rsw", 1124, 512, 1242, 533, WORLD_MSGID.MSI_43_MAL_DUN01, ""}
+, 
 {100, "hugel.rsw", 871, 0, 927, 57, WORLD_MSGID.MSI_100_HUGEL, ""}
 , 
 {100, "hu_fild01.rsw", 695, 0, 752, 57, WORLD_MSGID.MSI_100_HU_FILD01, ""}
@@ -310,11 +314,11 @@ worldtable_main = {
 , 
 {101, "ra_fild05.rsw", 342, 174, 400, 234, WORLD_MSGID.MSI_101_RA_FILD05, ""}
 , 
+{101, "ra_fild06.rsw", 401, 174, 459, 234, WORLD_MSGID.MSI_102_RA_FILD06, ""}
+, 
 {101, "ra_fild08.rsw", 283, 235, 341, 291, WORLD_MSGID.MSI_101_RA_FILD08, ""}
 , 
 {101, "ra_fild12.rsw", 283, 292, 341, 351, WORLD_MSGID.MSI_101_RA_FILD12, ""}
-, 
-{102, "ra_fild06.rsw", 401, 174, 459, 234, WORLD_MSGID.MSI_102_RA_FILD06, ""}
 , 
 {102, "lighthalzen.rsw", 401, 292, 459, 346, WORLD_MSGID.MSI_102_LIGHTHALZEN, ""}
 , 
@@ -549,6 +553,8 @@ worldtable_main = {
 {111, "alb2trea.rsw", 1114, 920, 1134, 944, WORLD_MSGID.MSI_111_ALB2TREA, ""}
 , 
 {111, "tur_dun01.rsw", 1160, 954, 1195, 975, WORLD_MSGID.MSI_111_TUR_DUN01, ""}
+, 
+{112, "malangdo.rsw", 1158, 587, 1216, 642, WORLD_MSGID.MSI_112_MALANGDO, ""}
 }
 worldtable_main_Dun = {
 {1, 725, 17, 735, 27, WORLD_MSGID.MSI_DUN1, ""}
@@ -610,6 +616,8 @@ worldtable_main_Dun = {
 {29, 124, 727, 134, 737, WORLD_MSGID.MSI_DUN29, ""}
 , 
 {30, 837, 531, 847, 541, WORLD_MSGID.MSI_DUN30, ""}
+, 
+{43, 1178, 599, 1188, 609, WORLD_MSGID.MSI_DUN43, ""}
 }
 worldtable_dimensions = {
 {1, "ecl_tdun01.rsw", 227, 354, 342, 375, WORLD_MSGID.MSI_1_ECL_TDUN01, ""}
@@ -626,9 +634,9 @@ worldtable_dimensions = {
 , 
 {3, "mora.rsw", 265, 433, 315, 454, WORLD_MSGID.MSI_3_MORA, ""}
 , 
-{4, "moro_vol.rsw", 525, 197, 640, 218, WORLD_MSGID.MSI_4_MORO_VOL, ""}
-, 
 {4, "moro_cav.rsw", 525, 197, 640, 218, WORLD_MSGID.MSI_4_MORO_CAV, ""}
+, 
+{4, "moro_vol.rsw", 525, 197, 640, 218, WORLD_MSGID.MSI_4_MORO_VOL, ""}
 , 
 {100, "eclage.rsw", 392, 184, 480, 274, WORLD_MSGID.MSI_100_ECLAGE, ""}
 , 
@@ -768,5 +776,39 @@ worldtable_localizing2_Dun = {
 {2, 58, 734, 68, 744, WORLD_MSGID.MSI_DUN36, ""}
 , 
 {3, 870, 954, 880, 964, WORLD_MSGID.MSI_DUN37, ""}
+}
+worldtable_Crack_of_Dimension1 = {
+{100, "dali.rsw", 276, 553, 437, 710, WORLD_MSGID.MSI_100_DALI, ""}
+, 
+{100, "dali02.rsw", 525, 771, 685, 927, WORLD_MSGID.MSI_100_DALI02, ""}
+}
+worldtable_Crack_of_Dimension1_Dun = {}
+worldtable_north = {
+{1, "xmas_dun01.rsw", 853, 872, 1020, 893, WORLD_MSGID.MSI_1_XMAS_DUN01, ""}
+, 
+{1, "xmas_dun02.rsw", 853, 872, 1020, 893, WORLD_MSGID.MSI_1_XMAS_DUN02, ""}
+, 
+{100, "xmas_fild01.rsw", 795, 963, 854, 1018, WORLD_MSGID.MSI_100_XMAS_FILD01, ""}
+, 
+{100, "xmas.rsw", 795, 904, 854, 963, WORLD_MSGID.MSI_100_XMAS, ""}
+}
+worldtable_north_Dun = {
+{1, 818, 909, 838, 929, WORLD_MSGID.MSI_DUN44, ""}
+}
+worldtable_Doram = {
+{1, "lasa_dun01.rsw", 980, 728, 1060, 749, WORLD_MSGID.MSI_1_LASA_DUN01, ""}
+, 
+{1, "lasa_dun02.rsw", 980, 728, 1060, 749, WORLD_MSGID.MSI_1_LASA_DUN02, ""}
+, 
+{1, "lasa_dun03.rsw", 980, 728, 1060, 749, WORLD_MSGID.MSI_1_LASA_DUN03, ""}
+, 
+{100, "lasagna.rsw", 401, 375, 576, 547, WORLD_MSGID.MSI_100_LASAGNA, ""}
+, 
+{100, "lasa_fild01.rsw", 404, 704, 580, 875, WORLD_MSGID.MSI_100_LASA_FILD01, ""}
+, 
+{100, "lasa_fild02.rsw", 1027, 437, 1202, 609, WORLD_MSGID.MSI_100_LASA_FILD02, ""}
+}
+worldtable_Doram_Dun = {
+{1, 1107, 543, 1112, 547, WORLD_MSGID.MSI_DUN42, ""}
 }
 

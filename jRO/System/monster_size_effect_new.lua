@@ -7111,6 +7111,38 @@ MonsterEff = {EFFECT.EF_NONE}
 [20591] = {MonsterSize = 3.5, 
 MonsterEff = {EFFECT.EF_WATER_BELOW}
 }
+, 
+[21427] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_REDLIGHTBODY, EFFECT.EF_BRANDISH2}
+}
+, 
+[21428] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21429] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21430] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21509] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21510] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21511] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_LEVEL99_3}
+}
+, 
+[21512] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_WHITEBODY, EFFECT.EF_DARKCASTING2}
+}
 }
 main = function()
   -- function num : 0_0

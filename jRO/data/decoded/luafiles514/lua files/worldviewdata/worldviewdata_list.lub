@@ -4,12 +4,18 @@
 -- params : ...
 -- function num : 0
 World_List = {
-{"ミッドガルド大陸", "worldtable_main", "worldtable_main_Dun", "worldmap.bmp"}
+{"ミッドガルド大陸", "worldtable_main", "worldtable_main_Dun", "worldmap.jpg"}
+, 
+{"ミッドガルド北部", "worldtable_north", "worldtable_north_Dun", "midgard_north.jpg"}
 , 
 {"異世界", "worldtable_dimensions", "worldtable_dimensions_Dun", "worldmap_dimension.bmp"}
+, 
+{"次元の狭間", "worldtable_Crack_of_Dimension1", "worldtable_Crack_of_Dimension1_Dun", "Crack_of_Dimension1.jpg"}
 , 
 {"ローカルマップ1", "worldtable_localizing1", "worldtable_localizing1_Dun", "worldmap_localizing1.bmp"}
 , 
 {"ローカルマップ2", "worldtable_localizing2", "worldtable_localizing2_Dun", "worldmap_localizing2.bmp"}
+, 
+{"パースタ大陸", "worldtable_Doram", "worldtable_Doram_Dun", "pasta.jpg"}
 }
 
