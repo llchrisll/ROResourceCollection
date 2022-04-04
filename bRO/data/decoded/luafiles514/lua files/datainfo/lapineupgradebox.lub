@@ -328,6 +328,30 @@ TargetItems = {
 {"EXP_Processor_", 410013}
 }
 , NeedSource_String = "Comunicador Avançado"}
+, 
+Overclocker = {ItemID = 100481, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Battle_Processor_", 410017}
+}
+, NeedSource_String = "[Chip de Batalha"}
+, 
+Joy_Of_Victory = {ItemID = 100009, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Victory_Wing_Ear_", 400002}
+}
+, NeedSource_String = "Asas Vitoriosas"}
+, 
+Fan_Upgrade_Kit = {ItemID = 23170, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"SeeOtter_Fan", 28439}
+}
+, NeedSource_String = "Ventilador Portátil"}
+, 
+Lens_Craft_Stone = {ItemID = 100823, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Deepblue_Sunglasses_", 410080}
+}
+, NeedSource_String = "Óculos Neon"}
 }
 , serverMain = function()
   -- function num : 0_0
