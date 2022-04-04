@@ -27552,5 +27552,97 @@ Description = {"As long as Sweets Drops exists in the world, the fight against s
 [7842] = {Title = "Sweets Drops Retribution-Waiting", 
 Description = {"After the waiting time ends, the event quest can be repeated through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
 , Summary = "Reset at 04 o\'clock"}
+, 
+[16404] = {Title = "Happy Egg Exploration", IconName = "ico_ev.bmp", 
+Description = {"The festival began. Let\'s hear about it from <NAVI>[Festival Committee]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."}
+, Summary = "Join Egg Fstival"}
+, 
+[16405] = {Title = "Happy Egg Exploration-Hold", IconName = "ico_ev.bmp", 
+Description = {"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Festival Committee]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."}
+, Summary = "Reset at 04am"}
+, 
+[16406] = {Title = "Happy Egg Exploration", IconName = "ico_ev.bmp", 
+Description = {"The festival continues. Break 3 happy eggs hidden in dungeons and fields and return to <NAVI>[Festival Committee]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."}
+, Summary = "Join Egg Festival"}
+, 
+[16407] = {Title = "Happy Clover Decoration-Hold", IconName = "ico_ev.bmp", 
+Description = {"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Festival Decoration Planner]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "Resets at 4am"}
+, 
+[16408] = {Title = "Happy Clover Decoration", IconName = "ico_ev.bmp", 
+Description = {"The festival continues. Hunt 3 lunatics hidden in dungeons and fields and obtain 3 <ITEM>[Happy three-leaf clover]<INFO>25295</INFO></ITEM> and return to <NAVI>[Festival Decoration Planner]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "Join Clover Decoration"}
+, 
+[16409] = {Title = "Happy Clover Decoration-Hold", IconName = "ico_ev.bmp", 
+Description = {"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."}
+, Summary = "Resets at 4am"}
+, 
+[16410] = {Title = "Deliver Happy Almond", IconName = "ico_ev.bmp", 
+Description = {"Let\'s go receive one bucket of almonds from Ezlude\'s <NAVI>[Farmer Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>."}
+, Summary = "Receive Almond"}
+, 
+[16411] = {Title = "Deliver Happy Chocolate", IconName = "ico_ev.bmp", 
+Description = {"Let\'s go receive some chocolate from Prontera\'s <NAVI>[Patissier Ian]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>."}
+, Summary = "Receive Chocolate"}
+, 
+[16412] = {Title = "Deliver Happy Almond", IconName = "ico_ev.bmp", 
+Description = {"Just received one bucket of almonds from Farmer Sheran in Ezlude. Let\'s get some chocolates as wella nd return to <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."}
+, Summary = "Deliver Almonds"}
+, 
+[16413] = {Title = "Deliver Happy Chocolate", IconName = "ico_ev.bmp", 
+Description = {"Just received some chocolates from Patissier Ian. Let\'s get some almonds and return to <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."}
+, Summary = "Deliver Chocolates"}
+, 
+[16414] = {Title = "Happy Cutepet Walk-Hold", IconName = "ico_ev.bmp", 
+Description = {"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Seirum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>."}
+, Summary = "Resets at 4am"}
+, 
+[16415] = {Title = "Happy Cutepet Walk", IconName = "ico_ev.bmp", 
+Description = {"Let\'s choose one Cutepet and go for a walk."}
+, Summary = "Walk with Cutepet"}
+, 
+[16416] = {Title = "Happy Cutepet Walk", IconName = "ico_ev.bmp", 
+Description = {"Let\'s walk with Cutepet till the first <NAVI>[point]<INFO>yuno,195,302,0,101,0</INFO></NAVI>."}
+, Summary = "Walk till the first point"}
+, 
+[16417] = {Title = "Happy Cutepet Walk", IconName = "ico_ev.bmp", 
+Description = {"Let\'s walk with Cutepet till the second <NAVI>[point]<INFO>yuno,342,156,0,101,0</INFO></NAVI>."}
+, Summary = "Walk till the second point"}
+, 
+[16418] = {Title = "Happy Cutepet Walk", IconName = "ico_ev.bmp", 
+Description = {"Let\'s walk with Cutepet till the third <NAVI>[point]<INFO>yuno,282,102,0,101,0</INFO></NAVI>."}
+, Summary = "Walk till the third point"}
+, 
+[16419] = {Title = "Happy Cutepet Walk", IconName = "ico_ev.bmp", 
+Description = {"Walk is done. let\'s go back to the <NAVI>[Square]<INFO>yuno,150,155,0,101,0</INFO></NAVI>."}
+, Summary = "Return to Square"}
+, 
+[16420] = {Title = "Happy Lunatic Walk", IconName = "ico_ev.bmp", 
+Description = {"Walk with Happy Lunatic!"}
+, Summary = "Walk with Lunatic"}
+, 
+[16421] = {Title = "Walk with Happy Poring", IconName = "ico_ev.bmp", 
+Description = {"Walk with Happy Poring!"}
+, Summary = "Walk with Poring"}
+, 
+[16422] = {Title = "Walk with Happy Young Desert Wolf", IconName = "ico_ev.bmp", 
+Description = {"Walk with Young Desert Wolf!"}
+, Summary = "Walk with Young Desert Wolf"}
+, 
+[16423] = {Title = "Walk with Happy Deviruchi", IconName = "ico_ev.bmp", 
+Description = {"Walk with Happy Deviruchi!"}
+, Summary = "Walk with Deviruchi"}
+, 
+[16424] = {Title = "Happy Cutepet Vending Machine", IconName = "ico_ev.bmp", 
+Description = {"Heard on how to use Happy Cutepet Vending Machine."}
+, Summary = "Happy Cutepet Vending Machine"}
+, 
+[16425] = {Title = "The first Happy Walk", IconName = "ico_ev.bmp", 
+Description = {"The first Happy Walk"}
+, Summary = "The first walk"}
+, 
+[16426] = {Title = "The Second Happy Walk", IconName = "ico_ev.bmp", 
+Description = {"The Second Happy Walk"}
+, Summary = "The second walk"}
 }
 
