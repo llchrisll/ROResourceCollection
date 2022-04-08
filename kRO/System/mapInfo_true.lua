@@ -1806,6 +1806,10 @@ signName = {mainTitle = "베인스 필드"}
 signName = {mainTitle = "베인스 필드"}
 , backgroundBmp = "field_s2"}
 , 
+["ve_fild05.rsw"] = {displayName = "베인스 필드", notifyEnter = true, 
+signName = {mainTitle = "베인스 필드"}
+, backgroundBmp = "field_s2"}
+, 
 ["ve_fild06.rsw"] = {displayName = "베인스 필드", notifyEnter = true, 
 signName = {mainTitle = "베인스 필드"}
 , backgroundBmp = "field_s2"}

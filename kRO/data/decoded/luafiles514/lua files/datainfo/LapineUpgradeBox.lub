@@ -5,6 +5,42 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+MajorAutoSpell_Up = {ItemID = 101359, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+}
+, NeedSource_String = "메이저 오토스펠 쉐도우"}
+, 
+Hasty_Up = {ItemID = 101360, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Hasty_Weapon", 24439}
+, 
+{"S_Hasty_Shield", 24732}
+}
+, NeedSource_String = "헤이스티 쉐도우"}
+, 
+PhysicalShadow_Up = {ItemID = 101361, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Durable_Shield", 24735}
+, 
+{"S_Durable_Weapon", 24734}
+}
+, NeedSource_String = "듀러블 쉐도우"}
+, 
+PerfectSize_Up = {ItemID = 101362, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_PerfectSize_Armor", 24426}
+, 
+{"S_PerfectSize_Weapon", 24425}
+}
+, NeedSource_String = "퍼펙트 사이즈 쉐도우"}
+, 
 True_GemShadow_Up = {ItemID = 101308, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_TrueGem_Pendant", 24678}
@@ -3878,6 +3914,26 @@ TargetItems = {
 {"타노스의망치", 16028}
 , 
 {"타노스의도끼", 28100}
+, 
+{"Thanos_Bow_AD", 700029}
+, 
+{"Thanos_Violin_AD", 570016}
+, 
+{"Thanos_Whip_AD", 580016}
+, 
+{"Thanos_Sword_AD", 500024}
+, 
+{"Thanos_TSword_AD", 600016}
+, 
+{"Thanos_Spear_AD", 530012}
+, 
+{"Thanos_Katar_AD", 610019}
+, 
+{"Thanos_Knuckle_AD", 560017}
+, 
+{"Thanos_Hammer_AD", 590020}
+, 
+{"Thanos_Axe_AD", 620009}
 }
 , NeedSource_String = "타노스 원거리 무기"}
 , 
@@ -3894,6 +3950,18 @@ TargetItems = {
 {"타노스의바이올린", 1933}
 , 
 {"타노스의윕소드", 1988}
+, 
+{"Thanos_Rod_AD", 640017}
+, 
+{"Thanos_Staff_AD", 550023}
+, 
+{"Thanos_Dagger_AD", 510030}
+, 
+{"Thanos_Sword_AD", 500024}
+, 
+{"Thanos_Violin_AD", 570016}
+, 
+{"Thanos_Whip_AD", 580016}
 }
 , NeedSource_String = "타노스 마법 무기"}
 , 
@@ -3920,6 +3988,26 @@ TargetItems = {
 {"타노스의도끼", 28100}
 , 
 {"타노스의바이올린", 1933}
+, 
+{"Thanos_Whip_AD", 580016}
+, 
+{"Thanos_Sword_AD", 500024}
+, 
+{"Thanos_TSword_AD", 600016}
+, 
+{"Thanos_Spear_AD", 530012}
+, 
+{"Thanos_Dagger_AD", 510030}
+, 
+{"Thanos_Katar_AD", 610019}
+, 
+{"Thanos_Knuckle_AD", 560017}
+, 
+{"Thanos_Hammer_AD", 590020}
+, 
+{"Thanos_Axe_AD", 620009}
+, 
+{"Thanos_Violin_AD", 570016}
 }
 , NeedSource_String = "타노스 근거리 무기"}
 , 

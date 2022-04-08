@@ -3,7 +3,7 @@
 
 -- params : ...
 -- function num : 0
-Config = {StartDate = 20220203, EndDate = 20220301}
+Config = {StartDate = 20220302, EndDate = 20220405}
 Reward = {
 {1, 100933, 2}
 , 

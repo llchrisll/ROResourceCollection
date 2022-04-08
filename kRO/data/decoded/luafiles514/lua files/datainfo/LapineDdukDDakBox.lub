@@ -5,41 +5,69 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
-True_GemShadow_Up = {ItemID = 101308, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
-TargetItems = {
-{"S_TrueGem_Pendant", 24678}
-, 
-{"S_TrueGem_Earring", 24677}
-, 
-{"S_TrueGem_Shoes", 24676}
-, 
-{"S_TrueGem_Armor", 24675}
+Bs_Item_M_S_52 = {ItemID = 101340, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 150, 25731}
 }
-, NeedSource_String = "트루 젬스톤 쉐도우"}
+, NeedSource_String = "제르늄"}
 , 
-EXPShadow_Up = {ItemID = 101309, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
-TargetItems = {
-{"S_EXP_Shoes", 24684}
-, 
-{"S_EXP_Shield", 24683}
+Bs_Item_M_S_53 = {ItemID = 101341, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadowdecon", 150, 25729}
 }
-, NeedSource_String = "익스피리언스 쉐도우"}
+, NeedSource_String = "쉐도우데오콘"}
 , 
-MagicalShadow_Up = {ItemID = 101310, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
-TargetItems = {
-{"S_Clever_Shield", 24737}
+Bs_Item_M_S_54 = {ItemID = 101342, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 200, 25731}
 , 
-{"S_Clever_Weapon", 24736}
+{"Shadowdecon", 200, 25729}
 }
-, NeedSource_String = "클레버 쉐도우"}
+, NeedSource_String = "제르늄, 쉐도우데오콘"}
 , 
-InfinityShadow_Up = {ItemID = 101311, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
-TargetItems = {
-{"S_Infinity_Shield", 24733}
+Bs_Item_M_S_55 = {ItemID = 101343, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Zelunium", 200, 25731}
 , 
-{"S_Infinity_Weapon", 24386}
+{"Shadowdecon", 200, 25729}
 }
-, NeedSource_String = "인피니티 쉐도우"}
+, NeedSource_String = "제르늄, 쉐도우데오콘"}
+, 
+Bs_Item_M_S_56 = {ItemID = 101344, NeedCount = 4, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"강력한영혼의정수", 1, 25375}
+, 
+{"M_Dimension_Essence", 1, 7925}
+, 
+{"Zelunium", 150, 25731}
+, 
+{"Shadowdecon", 150, 25729}
+}
+, NeedSource_String = "강력한 정수 시리즈, 제르늄, 쉐도우데오콘"}
+, 
+Bs_Item_M_S_57 = {ItemID = 101345, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"호랑이의가죽", 50, 1029}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "호랑이의 가죽, 제르늄"}
+, 
+Bs_Item_M_S_58 = {ItemID = 101346, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"암흑의의지_", 30, 7566}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "붉은 암흑의 의지, 제르늄"}
+, 
+Bs_Item_M_S_59 = {ItemID = 101347, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"로키의속삭임", 30, 7019}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "로키의 속삭임, 제르늄"}
 , 
 R_BearersShadow_Mix = {ItemID = 101257, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
@@ -6494,6 +6522,8 @@ SourceItems = {
 {"리프캣알", 1, 9041}
 , 
 {"Dark_Priest_Egg", 1, 9128}
+, 
+{"Farmiliar_Egg", 1, 9138}
 }
 , NeedSource_String = "펫 알"}
 , 
@@ -6777,8 +6807,6 @@ SourceItems = {
 , 
 {"C흑과백의유혹", 1, 20449}
 , 
-{"C졸린고양이모자", 1, 20263}
-, 
 {"C할퀴는고양이", 1, 20195}
 , 
 {"C_Thanatos_Sword", 1, 20514}
@@ -6920,6 +6948,8 @@ SourceItems = {
 {"C_Smiling_Eyes", 1, 31699}
 , 
 {"C_WingOfHeart", 1, 20572}
+, 
+{"C졸린고양이모자", 1, 20263}
 , 
 {"C_Kishu_Inu", 1, 31600}
 , 
@@ -7113,12 +7143,6 @@ SourceItems = {
 , 
 {"C앵화난만의비녀", 1, 19806}
 , 
-{"C_Cons_Of_Earth", 1, 31885}
-, 
-{"C_Cons_Of_Wind", 1, 31803}
-, 
-{"C_Cons_Of_Darkness", 1, 420010}
-, 
 {"C_Boitata_Hat_J", 1, 15889}
 , 
 {"C_Jioia_TW", 1, 31480}
@@ -7188,6 +7212,22 @@ SourceItems = {
 {"C검은고양이귀베레모", 1, 20191}
 , 
 {"C눈물", 1, 20335}
+, 
+{"C바니헤드드레스", 1, 20031}
+, 
+{"C_Cat_Ear_Red_Hat_TW", 1, 400204}
+, 
+{"C하트리본머리띠", 1, 20021}
+, 
+{"C_Fluffy_Rabbit_Cape", 1, 400225}
+, 
+{"C_Heart_Stick_Choco", 1, 480167}
+, 
+{"C_Chocolate_Bomb", 1, 420108}
+, 
+{"C_Charm_Of_Flame_Heart", 1, 420109}
+, 
+{"C_Gothic_Heart_Wing_V", 1, 400254}
 }
 , NeedSource_String = "냥다래 의상"}
 , 

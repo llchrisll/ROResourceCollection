@@ -7030,7 +7030,7 @@ Table[23] = CreateEnchantInfo()
 
 Table[24] = CreateEnchantInfo()
 ;
-(Table[24]):SetSlotOrder(3)
+(Table[24]):SetSlotOrder(3, 2)
 ;
 (Table[24]):AddTargetItem("Solid_Claymore")
 ;
@@ -7259,7 +7259,87 @@ Table[24] = CreateEnchantInfo()
 (((Table[24]).Slot)[3]):AddPerfectEnchant("Gear_PATK", 5000000, {"ClockTower_Lead", 1500}, {"ClockTower_Gear", 50})
 ;
 (((Table[24]).Slot)[3]):AddPerfectEnchant("Gear_SMATK", 5000000, {"ClockTower_Lead", 1500}, {"ClockTower_Gear", 50})
--- DECOMPILER ERROR at PC38462: Confused about usage of register: R0 in 'UnsetPending'
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_DN1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_DN2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_MT1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_MT2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_BO1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_BO2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SHC1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SHC2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_AG1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_AG2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_ABC1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_ABC2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_EM1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_EM2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_WH1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_WH2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_IQ1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_IQ2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_IG1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_IG2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_CD1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_CD2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SKE1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SKE2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SOA1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SOA2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_NW1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_NW2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_NW3", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_NW4", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_NW5", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_HN1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_HN2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SS1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SS2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SS3", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_TR1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_TR2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SH1", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+;
+(((Table[24]).Slot)[2]):AddPerfectEnchant("Gear_SH2", 0, {"ClockTower_Gear", 150}, {"Shadowdecon", 150}, {"Zelunium", 150})
+-- DECOMPILER ERROR at PC39343: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[25] = CreateEnchantInfo()
 ;
@@ -7468,7 +7548,7 @@ Table[25] = CreateEnchantInfo()
 (((Table[25]).Slot)[2]):AddPerfectEnchant("ÆÐ±â1", 0, {"Enchant_Ticket", 10}, {"Ep18_Amethyst_Fragment", 1500})
 ;
 (((Table[25]).Slot)[2]):AddPerfectEnchant("¿¹±â1", 0, {"Enchant_Ticket", 10}, {"Ep18_Amethyst_Fragment", 1500})
--- DECOMPILER ERROR at PC39622: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC40503: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[26] = CreateEnchantInfo()
 ;
@@ -7609,7 +7689,7 @@ Table[26] = CreateEnchantInfo()
 (((Table[26]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Skill_53", 0, {"Ice_F_Stone_Skill_53", 1})
 ;
 (((Table[26]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Skill_54", 0, {"Ice_F_Stone_Skill_54", 1})
--- DECOMPILER ERROR at PC40546: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC41427: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[27] = CreateEnchantInfo()
 ;
@@ -7656,7 +7736,7 @@ Table[27] = CreateEnchantInfo()
 (((Table[27]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_P_Full", 0, {"Ice_F_Stone_P_Full", 1})
 ;
 (((Table[27]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_M_Counter", 0, {"Ice_F_Stone_M_Counter", 1})
--- DECOMPILER ERROR at PC40812: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC41693: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[28] = CreateEnchantInfo()
 ;
@@ -7703,7 +7783,7 @@ Table[28] = CreateEnchantInfo()
 (((Table[28]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Fa_Agi", 0, {"Ice_F_Stone_Fa_Agi", 1})
 ;
 (((Table[28]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Lu_Luk", 0, {"Ice_F_Stone_Lu_Luk", 1})
--- DECOMPILER ERROR at PC41078: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC41959: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[29] = CreateEnchantInfo()
 ;
@@ -7744,7 +7824,7 @@ Table[29] = CreateEnchantInfo()
 (((Table[29]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_F_Spirit", 0, {"Ice_F_Stone_F_Spirit", 1})
 ;
 (((Table[29]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Spell", 0, {"Ice_F_Stone_Spell", 1})
--- DECOMPILER ERROR at PC41302: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC42183: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[30] = CreateEnchantInfo()
 ;
@@ -7785,7 +7865,7 @@ Table[30] = CreateEnchantInfo()
 (((Table[30]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_F_Spirit", 0, {"Ice_F_Stone_F_Spirit", 1})
 ;
 (((Table[30]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Spell", 0, {"Ice_F_Stone_Spell", 1})
--- DECOMPILER ERROR at PC41526: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC42407: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[31] = CreateEnchantInfo()
 ;
@@ -8196,7 +8276,7 @@ Table[31] = CreateEnchantInfo()
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_160", 0, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_161", 0, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC45921: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC46802: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[32] = CreateEnchantInfo()
 ;
@@ -8283,4 +8363,119 @@ Table[32] = CreateEnchantInfo()
 (((Table[32]).Slot)[2]):AddUpgradeEnchant("Gray_Magic2", "Gray_Magic3", 0, {"Enchant_Ticket", 1}, {"ÈëºûÀÇÁ¶°¢", 300}, {"Sakray_Fury", 10}, {"Sakray_Regret", 10})
 ;
 (((Table[32]).Slot)[2]):AddUpgradeEnchant("Gray_Fight2", "Gray_Fight3", 0, {"Enchant_Ticket", 1}, {"ÈëºûÀÇÁ¶°¢", 300}, {"Sakray_Fury", 10}, {"Sakray_Regret", 10})
+-- DECOMPILER ERROR at PC47679: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[33] = CreateEnchantInfo()
+;
+(Table[33]):SetSlotOrder(3, 2)
+;
+(Table[33]):AddTargetItem("Beam_Claymore_AD")
+;
+(Table[33]):AddTargetItem("Meuchler_AD")
+;
+(Table[33]):AddTargetItem("Blasti_AD")
+;
+(Table[33]):AddTargetItem("Virtual_Bow_AD")
+;
+(Table[33]):AddTargetItem("MH_P89_AD")
+;
+(Table[33]):AddTargetItem("AC_B44_AD")
+;
+(Table[33]):AddTargetItem("HR_S55_AD")
+;
+(Table[33]):AddTargetItem("Burning_Knuckle_AD")
+;
+(Table[33]):AddTargetItem("Cannon_Rapier_AD")
+;
+(Table[33]):AddTargetItem("Saphir_Hall_AD")
+;
+(Table[33]):AddTargetItem("Ultio_Spes_AD")
+;
+(Table[33]):AddTargetItem("Rutilus_Stick_AD")
+;
+(Table[33]):AddTargetItem("ElectricFox_AD")
+;
+(Table[33]):AddTargetItem("Circuit_Board_AD")
+;
+(Table[33]):AddTargetItem("Kuroiro_AD")
+;
+(Table[33]):AddTargetItem("Boost_Lance_AD")
+;
+(Table[33]):SetCondition(0, 0)
+;
+(Table[33]):ApproveRandomOption(true)
+;
+(Table[33]):SetReset(true, 100000, 500000)
+;
+(Table[33]):SetCaution("¾÷±×·¹ÀÌµå OS¹«±â ÀÎÃ¦Æ®\n¼º°øÈ®·ü 100%\nÃÊ±âÈ­ È®·ü 100% ½ÇÆÐ½Ã ÆÄ±«¾ÈµÊ")
+;
+(((Table[33]).Slot)[3]):AddPerfectEnchant("Ã·¿¹1", 100000, {"EP17_1_EVT02", 20})
+;
+(((Table[33]).Slot)[3]):AddPerfectEnchant("Hit_Plus1", 100000, {"EP17_1_EVT02", 20})
+;
+(((Table[33]).Slot)[3]):AddPerfectEnchant("°ø°ÝÈÄµô·¹ÀÌ1", 100000, {"EP17_1_EVT02", 20})
+;
+(((Table[33]).Slot)[3]):AddPerfectEnchant("Caster1", 100000, {"EP17_1_EVT02", 20})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Ã·¿¹1", "Ã·¿¹2", 200000, {"EP17_1_EVT02", 40})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Hit_Plus1", "Hit_Plus2", 200000, {"EP17_1_EVT02", 40})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ1", "°ø°ÝÈÄµô·¹ÀÌ2", 200000, {"EP17_1_EVT02", 40})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Caster1", "Caster2", 200000, {"EP17_1_EVT02", 40})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Ã·¿¹2", "Ã·¿¹3", 300000, {"EP17_1_EVT02", 60})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Hit_Plus2", "Hit_Plus3", 300000, {"EP17_1_EVT02", 60})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ2", "°ø°ÝÈÄµô·¹ÀÌ3", 300000, {"EP17_1_EVT02", 60})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Caster2", "Caster3", 300000, {"EP17_1_EVT02", 60})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Ã·¿¹3", "Ã·¿¹4", 400000, {"EP17_1_EVT02", 80})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Hit_Plus3", "Hit_Plus4", 400000, {"EP17_1_EVT02", 80})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ3", "°ø°ÝÈÄµô·¹ÀÌ4", 400000, {"EP17_1_EVT02", 80})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Caster3", "Caster4", 400000, {"EP17_1_EVT02", 80})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Ã·¿¹4", "Ã·¿¹5", 500000, {"EP17_1_EVT02", 100})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Hit_Plus4", "Hit_Plus5", 500000, {"EP17_1_EVT02", 100})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ4", "Attack_Delay_5", 500000, {"EP17_1_EVT02", 100})
+;
+(((Table[33]).Slot)[3]):AddUpgradeEnchant("Caster4", "Caster5", 500000, {"EP17_1_EVT02", 100})
+;
+(((Table[33]).Slot)[2]):AddPerfectEnchant("¸í±Ã1", 100000, {"EP17_1_EVT02", 20}, {"EP17_1_EVT39", 5})
+;
+(((Table[33]).Slot)[2]):AddPerfectEnchant("Expert_Fighter1", 100000, {"EP17_1_EVT02", 20}, {"EP17_1_EVT39", 5})
+;
+(((Table[33]).Slot)[2]):AddPerfectEnchant("Expert_Magician1", 100000, {"EP17_1_EVT02", 20}, {"EP17_1_EVT39", 5})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("¸í±Ã1", "¸í±Ã2", 200000, {"EP17_1_EVT02", 40}, {"EP17_1_EVT39", 10})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Fighter1", "Expert_Fighter2", 200000, {"EP17_1_EVT02", 40}, {"EP17_1_EVT39", 10})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Magician1", "Expert_Magician2", 200000, {"EP17_1_EVT02", 40}, {"EP17_1_EVT39", 10})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("¸í±Ã2", "¸í±Ã3", 300000, {"EP17_1_EVT02", 60}, {"EP17_1_EVT39", 15})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Fighter2", "Expert_Fighter3", 300000, {"EP17_1_EVT02", 60}, {"EP17_1_EVT39", 15})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Magician2", "Expert_Magician3", 300000, {"EP17_1_EVT02", 60}, {"EP17_1_EVT39", 15})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("¸í±Ã3", "¸í±Ã4", 400000, {"EP17_1_EVT02", 80}, {"EP17_1_EVT39", 20})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 400000, {"EP17_1_EVT02", 80}, {"EP17_1_EVT39", 20})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 400000, {"EP17_1_EVT02", 80}, {"EP17_1_EVT39", 20})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("¸í±Ã4", "¸í±Ã5", 500000, {"EP17_1_EVT02", 100}, {"EP17_1_EVT39", 25})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 500000, {"EP17_1_EVT02", 100}, {"EP17_1_EVT39", 25})
+;
+(((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 500000, {"EP17_1_EVT02", 100}, {"EP17_1_EVT39", 25})
 
