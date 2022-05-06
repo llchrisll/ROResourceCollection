@@ -1,5 +1,11 @@
 loadingscreen#
-5#
+7#
+
+
+//以下追加(桜用)
+weather#amatsu.rsw#sakura#
+weather#pay_arche.rsw#sakura#
+
 
 //クリスマスデコレーション
 //event#
@@ -10,6 +16,4 @@ loadingscreen#
 weather#hal_main.rsw#pokjuk#
 weather#hal_fes2.rsw#pokjuk#
 
-weather#amatsu.rsw#sakura#
-weather#pay_arche.rsw#sakura#
 //file end

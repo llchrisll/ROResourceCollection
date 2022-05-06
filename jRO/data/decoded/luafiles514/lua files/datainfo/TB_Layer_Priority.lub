@@ -892,6 +892,14 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Dreaming_Rose_Long] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Omega_Golf_Bag] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Alpha_Long_Pony] = {Default = 150, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

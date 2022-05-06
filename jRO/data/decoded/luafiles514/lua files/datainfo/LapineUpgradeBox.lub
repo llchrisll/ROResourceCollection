@@ -735,7 +735,7 @@ TargetItems = {
 }
 , NeedSource_String = "違法パーツII"}
 , 
-EWorld_Item007 = {ItemID = 25521, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+qskill_knight = {ItemID = 3219, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Variant_Axe", 1331}
 , 
@@ -785,7 +785,7 @@ TargetItems = {
 }
 , NeedSource_String = "ディープストーン(物理)"}
 , 
-EWorld_Item008 = {ItemID = 25522, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+brack_greed = {ItemID = 3225, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Variant_Axe", 1331}
 , 
@@ -835,19 +835,19 @@ TargetItems = {
 }
 , NeedSource_String = "ディープストーン(魔法)"}
 , 
-EWorld_Item009 = {ItemID = 25523, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+brack_greed_H = {ItemID = 3226, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Robot\'s_Arm_J", 16047}
 }
 , NeedSource_String = "さび落としクリーナー"}
 , 
-EWorld_Item010 = {ItemID = 25524, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+cru_jobq = {ItemID = 3227, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Demons_Familiar_", 410071}
 }
 , NeedSource_String = "超違法パーツ"}
 , 
-EWorld_Item022 = {ItemID = 25536, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+cru_jobq_H = {ItemID = 3228, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Ep172_Bh_Sword", 600008}
 , 
@@ -903,7 +903,7 @@ TargetItems = {
 }
 , NeedSource_String = "大罪武器魔改造装置(Type4)"}
 , 
-EWorld_Item023 = {ItemID = 25537, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+qskill_alche01 = {ItemID = 3229, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Ep172_Bh_Sword", 600008}
 , 
@@ -959,7 +959,7 @@ TargetItems = {
 }
 , NeedSource_String = "大罪武器魔改造装置(Type5)"}
 , 
-EWorld_Item024 = {ItemID = 25538, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+qskill_dancer01 = {ItemID = 3230, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Ep172_Bh_Sword", 600008}
 , 

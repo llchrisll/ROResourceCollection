@@ -1204,6 +1204,8 @@ SignBoardList = {
 , 
 {"ev_season01", 21, 98, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  装備の交換", "255,255,255"}
 , 
+{"ev_season01", 8, 125, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  改造オーブ", "255,255,255"}
+, 
 {"ba_maison", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  バルムント邸案内", "255,255,255"}
 , 
 {"mt1_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
@@ -1382,9 +1384,11 @@ SignBoardList = {
 , 
 {"glast_01", 141, 293, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アイテム交換", "255,255,255"}
 , 
+{"glast_01", 146, 277, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  並行世界のGH武器精錬", "255,255,255"}
+, 
 {"apr_main1", 135, 76, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
 , 
-{"apr_main1", 164, 76, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
+{"apr_main1", 162, 76, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
 , 
 {"apr_main1", 162, 62, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  神秘の館転送", "255,255,255"}
 , 
@@ -1509,6 +1513,28 @@ SignBoardList = {
 {"izlude", 90, 106, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  究極精錬", "255,255,255"}
 , 
 {"morocc", 131, 61, 8, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  確定精錬", "255,255,255"}
+, 
+{"anthell02", 177, 190, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  蟻地獄の新領域", "255,255,255"}
+, 
+{"anthell02_q", 177, 190, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  蟻地獄の新領域", "255,255,255"}
+, 
+{"apr_ruins_s", 59, 70, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  遺跡群の各種説明", "255,255,255"}
+, 
+{"apr_rui2_s", 31, 98, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  探索開始", "255,255,255"}
+, 
+{"apr_rui2_s", 39, 88, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  探索の記録と称号", "255,255,255"}
+, 
+{"apr_rui2_s", 24, 89, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  遺跡群の報酬", "255,255,255"}
+, 
+{"apr_rui2_s", 31, 76, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  遺跡群の出口", "255,255,255"}
+, 
+{"apr_rui2_s", 18, 97, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_rui2_s", 11, 89, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  遺跡群の各種説明", "255,255,255"}
+, 
+{"apr_rui2_g", 49, 86, 12, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  Lv.2 ゴール!!", "255,255,255"}
+, 
+{"apr_rui2_s", 43, 83, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  暗号解読", "255,255,255"}
 , 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
 , 

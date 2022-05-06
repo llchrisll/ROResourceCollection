@@ -1,4 +1,4 @@
-login#bgm\\01.mp3#
+login#bgm\\176.mp3#
 dewata.rsw#bgm\\142.mp3#
 dew_in01.rsw#bgm\\143.mp3#
 dew_fild01.rsw#bgm\\143.mp3#
@@ -6038,5 +6038,28 @@ pvp_se_03.rsw#bgm\\07.mp3#
 pvp_se_04.rsw#bgm\\07.mp3#
 pvp_se_05.rsw#bgm\\07.mp3#
 pvp_se_06.rsw#bgm\\07.mp3#
+//------------------------------------------------
+ant_d02_i.rsw#bgm\\46.mp3#
+ant_d02_i_q.rsw#bgm\\46.mp3#
+anthell02_q.rsw#bgm\\46.mp3#
+//------------------------------------------------
+apr_rui2_s.rsw#bgm\\181.mp3#
+apr_rui2_g.rsw#bgm\\110.mp3#
+apr_vault_1.rsw#bgm\\106.mp3#
+apr_jail_1.rsw#bgm\\168.mp3#
+apr_rui2_1.rsw#bgm\\174.mp3#
+apr_rui2_2.rsw#bgm\\164.mp3#
+apr_rui2_3.rsw#bgm\\166.mp3#
+apr_rui2_4.rsw#bgm\\162.mp3#
+apr_rui2_5.rsw#bgm\\165.mp3#
+apr_rui2_6.rsw#bgm\\175.mp3#
+apr_rui2_7.rsw#bgm\\175.mp3#
+apr_rui2_8.rsw#bgm\\161.mp3#
+apr_rui2_9.rsw#bgm\\176.mp3#
+apr_rui2_10.rsw#bgm\\159.mp3#
+apr_rui2_11.rsw#bgm\\148.mp3#
+apr_rui2_12.rsw#bgm\\148.mp3#
+apr_rui2_13.rsw#bgm\\113.mp3#
+apr_rui2_14.rsw#bgm\\113.mp3#
 //------------------------------------------------
 //[file end]

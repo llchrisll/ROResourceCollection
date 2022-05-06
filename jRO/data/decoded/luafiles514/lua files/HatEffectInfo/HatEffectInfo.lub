@@ -357,7 +357,7 @@ hatEffectTable = {
 , 
 [HatEFID.HAT_EF_C_Spot_Light] = {resourceFileName = "C_Spot_Light\\Spotlight.str", hatEffectPos = -7, hatEffectPosX = 0, isRenderBeforeCharacter = true, isIgnoreRiding = true, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 }
-effectHatItemTable = {20522, 20285, 20209, 31091, 31089, 31056, 20062, 20439, 5979, 20487, 5914, 20457, 31142, 20240, 19871, 18742, 20154, 18744, 20323, 20246, 19022, 18741, 18719, 20600, 20515, 31391, 31602, 19416, 19433, 20535, 31316, 20519, 410006, 20538, 31768, 400073, 20547, 20548, 20990, 480097}
+effectHatItemTable = {}
 GetHatEfResName = function(index)
   -- function num : 0_0
   if hatEffectTable == nil then

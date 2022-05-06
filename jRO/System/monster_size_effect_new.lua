@@ -7143,6 +7143,46 @@ MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_LEVEL99_3}
 [21512] = {MonsterSize = 1.3, 
 MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_WHITEBODY, EFFECT.EF_DARKCASTING2}
 }
+, 
+[21640] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21641] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21642] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21643] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21644] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21645] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21646] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21647] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21648] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21649] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
 }
 main = function()
   -- function num : 0_0
