@@ -5,6 +5,12 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+God_Favor_TW = {ItemID = 101484, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ultio_Cape_TW", 480088}
+}
+, NeedSource_String = "¯Qº¸¸¦¶ø¸tÅ]ªk¤æÁO"}
+, 
 Bio_Helm_Refine_Cube = {ItemID = 100684, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"BioWeapon_Helm_RK", 400078}
@@ -103,6 +109,18 @@ TargetItems = {
 , 
 Shadow_Random_Mix = {ItemID = 23720, NeedRefineMin = 7, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+, 
 {"S_Promotion_Weapon", 24012}
 , 
 {"S_Promotion_Armor", 24013}
@@ -3745,6 +3763,8 @@ TargetItems = {
 , 
 Shadow2_Op_Box_TW = {ItemID = 100549, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_EXP_Shield", 24683}
+, 
 {"S_FullPene_Earring", 24661}
 , 
 {"S_FullPene_Pendant", 24662}
@@ -4671,6 +4691,22 @@ TargetItems = {
 , 
 Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_EXP_Shield", 24683}
+, 
+{"Limit_Break_SH_W", 24769}
+, 
 {"S_FullPene_Earring", 24661}
 , 
 {"S_FullPene_Pendant", 24662}
@@ -7005,6 +7041,22 @@ TargetItems = {
 , 
 Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_EXP_Shield", 24683}
+, 
+{"Limit_Break_SH_W", 24769}
+, 
 {"S_FullPene_Earring", 24661}
 , 
 {"S_FullPene_Pendant", 24662}
