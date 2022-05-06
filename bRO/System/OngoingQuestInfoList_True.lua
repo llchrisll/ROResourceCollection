@@ -17896,5 +17896,165 @@ Description = {"Enviar RODEX"}
 [14594] = {Title = "Trilha dos Sonhos", 
 Description = {"Se voc\234 tem preparo para trilhar a estrada dos sonhos, encontre-me novamente."}
 , Summary = "Para Niren"}
+, 
+[1017] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Batalha dos Orcs, elimine 1 Orc Falso."}
+, Summary = "Batalha dos Orcs"}
+, 
+[1018] = {Title = "[Espera] Batalha dos Orcs", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1019] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Torneio de Magia, elimine 1 Muliphen."}
+, Summary = "Torneio de Magia"}
+, 
+[1020] = {Title = "[Espera] Torneio de Magia", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1021] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Nas Memórias de Sara, elimine 1 Lorde Irine."}
+, Summary = "Memórias de Sara"}
+, 
+[1022] = {Title = "[Espera] Memórias de Sara", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1023] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Palácio das Mágoas, elimine 1 Angústia Torturante."}
+, Summary = "Palácio das Mágoas"}
+, 
+[1024] = {Title = "[Espera] Palácio das Mágoas", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1025] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Salão de Ymir, elimine 1 Bijou."}
+, Summary = "Salão de Ymir"}
+, 
+[1026] = {Title = "[Espera] Salão de Ymir", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1027] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Hospital Abandonado, elimine 1 Bangungot."}
+, Summary = "Hospital Abandonado"}
+, 
+[1028] = {Title = "[Espera] Hospital Abandonado", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1029] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Charleston em Crise, elimine 1 Charleston 03."}
+, Summary = "Charleston em Crise"}
+, 
+[1030] = {Title = "[Espera] Charleston em Crise", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1031] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Fábrica do Terror, elimine 1 Antonio."}
+, Summary = "Fábrica do Terror"}
+, 
+[1032] = {Title = "[Espera] Fábrica do Terror", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1033] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Pesadelo Musical, elimine 1 Réquiem de Marfim."}
+, Summary = "Pesadelo Musical"}
+, 
+[1034] = {Title = "[Espera] Pesadelo Musical", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1035] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Covil de Vermes, elimine 4 Vermes Sombrios com Rosto."}
+, Summary = "Covil de Vermes"}
+, 
+[1036] = {Title = "[Espera] Covil de Vermes", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1037] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Sala Final, elimine 1 T_W_O."}
+, Summary = "Sala Final"}
+, 
+[1038] = {Title = "[Espera] Sala Final", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1039] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Ninho de Nidhogg, elimine 1 Sombra do Guardião."}
+, Summary = "Ninho de Nidhogg"}
+, 
+[1040] = {Title = "[Espera] Ninho de Nidhogg", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1041] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Lago Bakonawa, elimine 1 Tesouro de Bakonawa."}
+, Summary = "Lago de Bakonawa"}
+, 
+[1042] = {Title = "[Espera] Lago Bakonawa", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1043] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Caverna de Buwaya, elimine 1 Buwaya."}
+, Summary = "Caverna de Buwaya"}
+, 
+[1044] = {Title = "[Espera] Caverna Buwaya", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1045] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Glast Heim Sombria, elimine 1 Amdarais Sombrio."}
+, Summary = "Glast Heim Sombria"}
+, 
+[1046] = {Title = "[Espera] Glast Heim Sombria", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1047] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Sara vs Fenrir, elimine 6 Gigantes Ancestrais."}
+, Summary = "Sara vs Fenrir"}
+, 
+[1048] = {Title = "[Espera] Sara vs Fenrir", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1049] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Torre do Demônio, elimine os 3 tipos de Sombras das Trevas."}
+, Summary = "Torre do Demônio"}
+, 
+[1050] = {Title = "[Espera] Torre do Demônio", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1051] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na Ilha Bios, elimine 1 Ceifador Ankou."}
+, Summary = "Ilha Bios"}
+, 
+[1052] = {Title = "[Espera] Ilha Bios", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1053] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Templo do Demônio Rei, elimine 1 Deus Morroc."}
+, Summary = "Templo do Demônio Rei"}
+, 
+[1054] = {Title = "[Espera] Templo do Demônio Rei", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1055] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No Laboratório Werner, elimine 1 Fofinho."}
+, Summary = "Laboratório Werner"}
+, 
+[1056] = {Title = "[Espera] Laboratório Werner", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
 }
 

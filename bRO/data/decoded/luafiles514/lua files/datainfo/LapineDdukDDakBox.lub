@@ -102,6 +102,18 @@ SourceItems = {
 {"Thanatos_Pendant", 1, 490099}
 }
 , NeedSource_String = "Pingente de Thanatos"}
+, 
+Iron_Staff_Cube = {ItemID = 100395, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Iron_Staff", 1, 2048}
+}
+, NeedSource_String = "Cetro Ancestral"}
+, 
+Fog_Dew_Sword_Cube = {ItemID = 100400, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Fog_Dew_Sword", 1, 28764}
+}
+, NeedSource_String = "Wakizashi Ancestral"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

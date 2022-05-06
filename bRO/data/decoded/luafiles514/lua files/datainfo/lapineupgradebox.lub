@@ -352,6 +352,284 @@ TargetItems = {
 {"Deepblue_Sunglasses_", 410080}
 }
 , NeedSource_String = "Óculos Neon"}
+, 
+Great_Hero_Bravery = {ItemID = 100412, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Up_Oriental_Sword", 600009}
+, 
+{"Up_Dragonic_Slayer", 21058}
+, 
+{"Up_Shiver_Katar_K", 610008}
+, 
+{"Up_Blade_Katar", 610009}
+, 
+{"Up_Sword_Of_Bluefire", 500013}
+, 
+{"Up_Slate_Sword", 500014}
+, 
+{"Up_Narcis_Bow", 700013}
+, 
+{"Up_Trumpet_Shell_K", 570009}
+, 
+{"Up_Barb_Wire_K", 580009}
+, 
+{"Up_Avenger", 620004}
+, 
+{"Up_Magic_Sword", 510019}
+, 
+{"Up_Fatalist", 510020}
+, 
+{"Up_Meteor_Striker", 590011}
+, 
+{"Up_Royal_Bow_K", 700018}
+, 
+{"Up_Scalet_Dragon_L_Bow", 700019}
+, 
+{"Up_Shadow_Staff_K", 550012}
+, 
+{"Up_Freezing_Rod", 550013}
+, 
+{"Up_Iron_Nail_K", 560008}
+, 
+{"Up_Ray_Knuckle", 560009}
+, 
+{"Up_Undine_Spear_K", 530006}
+, 
+{"Up_Light_Blade", 500017}
+, 
+{"Up_Iron_Staff", 640011}
+, 
+{"Up_Blue_Crystal_Staff", 640012}
+, 
+{"Up_Demon_Hunting_Bible", 540011}
+, 
+{"Up_Saint_Hall", 590012}
+, 
+{"Up_MeawFoxtail", 550014}
+, 
+{"Up_Fog_Dew_Sword", 510022}
+, 
+{"Up_Humma_Clear", 650004}
+, 
+{"Up_Master_Soul_Rifle", 810001}
+, 
+{"Up_Golden_L_Launcher", 840001}
+, 
+{"Up_The_Black_Gatling", 830002}
+, 
+{"Up_Demon_S_Shot", 820001}
+, 
+{"Up_Crimson_Rose", 800002}
+, 
+{"Up_OneSkyOneSun", 540010}
+, 
+{"Up_SoulWeight", 550015}
+}
+, NeedSource_String = "+9 Armas Primordiais"}
+, 
+Great_Hero_Wisdom = {ItemID = 100413, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Up_Oriental_Sword", 600009}
+, 
+{"Up_Dragonic_Slayer", 21058}
+, 
+{"Up_Shiver_Katar_K", 610008}
+, 
+{"Up_Blade_Katar", 610009}
+, 
+{"Up_Sword_Of_Bluefire", 500013}
+, 
+{"Up_Slate_Sword", 500014}
+, 
+{"Up_Narcis_Bow", 700013}
+, 
+{"Up_Trumpet_Shell_K", 570009}
+, 
+{"Up_Barb_Wire_K", 580009}
+, 
+{"Up_Avenger", 620004}
+, 
+{"Up_Magic_Sword", 510019}
+, 
+{"Up_Fatalist", 510020}
+, 
+{"Up_Meteor_Striker", 590011}
+, 
+{"Up_Royal_Bow_K", 700018}
+, 
+{"Up_Scalet_Dragon_L_Bow", 700019}
+, 
+{"Up_Shadow_Staff_K", 550012}
+, 
+{"Up_Freezing_Rod", 550013}
+, 
+{"Up_Iron_Nail_K", 560008}
+, 
+{"Up_Ray_Knuckle", 560009}
+, 
+{"Up_Undine_Spear_K", 530006}
+, 
+{"Up_Light_Blade", 500017}
+, 
+{"Up_Iron_Staff", 640011}
+, 
+{"Up_Blue_Crystal_Staff", 640012}
+, 
+{"Up_Demon_Hunting_Bible", 540011}
+, 
+{"Up_Saint_Hall", 590012}
+, 
+{"Up_MeawFoxtail", 550014}
+, 
+{"Up_Fog_Dew_Sword", 510022}
+, 
+{"Up_Humma_Clear", 650004}
+, 
+{"Up_Master_Soul_Rifle", 810001}
+, 
+{"Up_Golden_L_Launcher", 840001}
+, 
+{"Up_The_Black_Gatling", 830002}
+, 
+{"Up_Demon_S_Shot", 820001}
+, 
+{"Up_Crimson_Rose", 800002}
+, 
+{"Up_OneSkyOneSun", 540010}
+, 
+{"Up_SoulWeight", 550015}
+}
+, NeedSource_String = "+9 Armas Primordiais"}
+, 
+Armor_ScrollI = {ItemID = 100283, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Hero_Plate", 15093}
+, 
+{"Hero_Magic_Coat", 15094}
+, 
+{"Hero_Judgement_Shawl", 15095}
+, 
+{"Hero_Trade_Mail", 15096}
+, 
+{"Hero_Hidden_Cloth", 15097}
+, 
+{"Hero_Taget_Suits", 15098}
+}
+, NeedSource_String = "Armaduras Heróicas"}
+, 
+Shoes_ScrollI = {ItemID = 100284, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Vet_Nepen_Heel", 22035}
+, 
+{"Vet_SliverFox_Boots", 22036}
+, 
+{"Vet_Ungo_Boots", 22037}
+}
+, NeedSource_String = "Sapatos do Herói"}
+, 
+Accessory_ScrollI = {ItemID = 100285, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Buwaya_Tattoo", 2907}
+, 
+{"Bakonawa_Tattoo", 2910}
+, 
+{"Bangungot_Tattoo", 2911}
+, 
+{"Pendant_Of_Maelstorm", 2992}
+, 
+{"Broken_Chip_1_J", 28370}
+, 
+{"Broken_Chip_2_J", 28371}
+}
+, NeedSource_String = "Tatuagens"}
+, 
+Temporal_Refine_Cube = {ItemID = 100268, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Overwhelm_Str_Armor", 15278}
+, 
+{"Overwhelm_Int_Armor", 15279}
+, 
+{"Overwhelm_Luk_Armor", 15346}
+, 
+{"Overwhelm_Vit_Armor", 15347}
+, 
+{"Overwhelm_Agi_Armor", 15353}
+, 
+{"Overwhelm_Dex_Armor", 15354}
+, 
+{"Temporal_M_Str", 20963}
+, 
+{"Temporal_M_Agi", 20964}
+, 
+{"Temporal_M_Vit", 20965}
+, 
+{"Temporal_M_Int", 20966}
+, 
+{"Temporal_M_Dex", 20967}
+, 
+{"Temporal_M_Luk", 20968}
+, 
+{"Temporal_Str_Boots", 22000}
+, 
+{"Temporal_Int_Boots", 22001}
+, 
+{"Temporal_Agi_Boots", 22002}
+, 
+{"Temporal_Vit_Boots", 22003}
+, 
+{"Temporal_Dex_Boots", 22004}
+, 
+{"Temporal_Luk_Boots", 22005}
+, 
+{"Temporal_Str_Boots_", 22006}
+, 
+{"Temporal_Vit_Boots_", 22007}
+, 
+{"Temporal_Dex_Boots_", 22008}
+, 
+{"Temporal_Int_Boots_", 22009}
+, 
+{"Temporal_Agi_Boots_", 22010}
+, 
+{"Temporal_Luk_Boots_", 22011}
+, 
+{"Modify_Str_Boots", 22107}
+, 
+{"Modify_Int_Boots", 22108}
+, 
+{"Modify_Agi_Boots", 22109}
+, 
+{"Modify_Vit_Boots", 22110}
+, 
+{"Modify_Dex_Boots", 22111}
+, 
+{"Modify_Luk_Boots", 22112}
+, 
+{"Modify_Str_Boots_", 22113}
+, 
+{"Modify_Int_Boots_", 22114}
+, 
+{"Modify_Agi_Boots_", 22115}
+, 
+{"Modify_Vit_Boots_", 22116}
+, 
+{"Modify_Dex_Boots_", 22117}
+, 
+{"Modify_Luk_Boots_", 22118}
+}
+, NeedSource_String = "Itens Temporais"}
+, 
+Geffen_Refine_Cube = {ItemID = 100269, NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Anti_Magic_Suit", 15073}
+, 
+{"Geffen_Mage_Robe", 15074}
+, 
+{"Geffen_Magic_Muffler", 20943}
+, 
+{"Anti_Magic_Manteau", 20944}
+}
+, NeedSource_String = "Itens do Torneio"}
 }
 , serverMain = function()
   -- function num : 0_0
