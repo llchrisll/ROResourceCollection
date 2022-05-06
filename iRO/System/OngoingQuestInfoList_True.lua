@@ -8847,7 +8847,7 @@ Description = {"Help ^0000FFan errand boy^000000 who come to find ^8B4513Pronter
 , 
 [9028] = {Title = "Strange Hydra", 
 Description = {"Strange Hydra have appeared in ^8B4513Brasilis^000000. Use the ^006400Hydra Ball^000000 from Lucia to capture a ^FF0000Strange Hydra^000000."}
-, Summary = "Capture aStrange Hydra"}
+, Summary = "Capture a Strange Hydra"}
 , 
 [9029] = {Title = "Strange Hydra : present conditions", 
 Description = {"In ^8B4513Brasilis^000000, there is a message from ^0000FFLucia^000000: ^404040Thanks for your help. Unfortunately, I can supply a new ^006400Hydra Ball^404040 to you tomorrow.^000000"}
@@ -27644,5 +27644,113 @@ Description = {"The first Happy Walk"}
 [16426] = {Title = "The Second Happy Walk", IconName = "ico_ev.bmp", 
 Description = {"The Second Happy Walk"}
 , Summary = "The second walk"}
+, 
+[8500] = {Title = "Need flower spray", 
+Description = {"<NAVI>[Arles Orleans]<INFO>prontera,167,291,0,101,0</INFO></NAVI> asked to go get 15 Flower Sprays."}
+, Summary = "Deliver 15 flower branches"}
+, 
+[8501] = {Title = "Delivery of lost copies of the signature (1)", 
+Description = {"Let\'s go find a missing book at <NAVI>[Arles Orleans]<INFO>prontera,167,291,0,101,0</INFO></NAVI>\'s signing, and come back to Arles Orleans."}
+, Summary = "report after delivery"}
+, 
+[8502] = {Title = "Book Owner: Elris", 
+Description = {"Let\'s deliver the lost book to Elris in Prontera."}
+, Summary = ""}
+, 
+[8503] = {Title = "Book Owner: Strawberry Lord", 
+Description = {"Let\'s deliver the lost book to Strawberry Lord in Prontera."}
+, Summary = ""}
+, 
+[8504] = {Title = "Book Owner: Unnatural Nature", 
+Description = {"Let\'s deliver the lost book to Unnatural Nature in Prontera."}
+, Summary = ""}
+, 
+[8505] = {Title = "Book Owner: Guardian Angel", 
+Description = {"Let\'s deliver the lost book to Guardian Angel in Prontera."}
+, Summary = ""}
+, 
+[8506] = {Title = "Delivery of lost copies of the signature (2)", 
+Description = {"Let\'s go find a missing book at <NAVI>[Arles Orleans]<INFO>prontera,167,291,0,101,0</INFO></NAVI>\'s signing, and come back to Arles Orleans."}
+, Summary = "report after delivery"}
+, 
+[8507] = {Title = "Book Owner: Littlevils", 
+Description = {"Let\'s deliver the lost book to Littlevils in Prontera."}
+, Summary = ""}
+, 
+[8508] = {Title = "Book Owner: Devil\'s Kiss", 
+Description = {"Let\'s deliver the lost book to Devil\'s Kiss in Prontera."}
+, Summary = ""}
+, 
+[8509] = {Title = "Book Owner: Lucifel", 
+Description = {"Let\'s deliver the lost book to Lucifel in Prontera."}
+, Summary = ""}
+, 
+[8510] = {Title = "Book Owner: Marien", 
+Description = {"ÇÁLet\'s deliver the lost book to Marien in Prontera."}
+, Summary = ""}
+, 
+[8511] = {Title = "Delivery of lost copies of the signature (3)", 
+Description = {"Let\'s go find a missing book at <NAVI>[Arles Orleans]<INFO>prontera,167,291,0,101,0</INFO></NAVI>\'s signing, and come back to Arles Orleans."}
+, Summary = "report after delivery"}
+, 
+[8512] = {Title = "Book Owner: Heaven\'s Door", 
+Description = {"Let\'s deliver the lost book to Heaven\'s Door in Prontera."}
+, Summary = ""}
+, 
+[8513] = {Title = "Book Owner: ¡«Charlotte¡«", 
+Description = {"Let\'s deliver the lost book to ¡«Charlotte¡« in Prontera."}
+, Summary = ""}
+, 
+[8514] = {Title = "Book Owner: Wingless Angel", 
+Description = {"Let\'s deliver the lost book to Wingless Angel in Prontera."}
+, Summary = ""}
+, 
+[8515] = {Title = "Book Owner: Great Witch Luciana", 
+Description = {"Let\'s deliver the lost book to Great Witch Luciana in Prontera."}
+, Summary = ""}
+, 
+[8516] = {Title = "Delivery of lost copies of the signature (4)", 
+Description = {"Let\'s go find a missing book at <NAVI>[Arles Orleans]<INFO>prontera,167,291,0,101,0</INFO></NAVI>\'s signing, and come back to Arles Orleans."}
+, Summary = "report after delivery"}
+, 
+[8517] = {Title = "Book Owner: Randi", 
+Description = {"Let\'s deliver the lost book to Randi in Prontera."}
+, Summary = ""}
+, 
+[8518] = {Title = "Book Owner: Healing Angel", 
+Description = {"Let\'s deliver the lost book to Healing Angel in Prontera."}
+, Summary = ""}
+, 
+[8519] = {Title = "Book Owner: ORION", 
+Description = {"Let\'s deliver the lost book to ORION in Prontera."}
+, Summary = ""}
+, 
+[8520] = {Title = "Book Owner: Jackpot", 
+Description = {"Let\'s deliver the lost book to Jackpot in Prontera."}
+, Summary = ""}
+, 
+[8521] = {Title = "Delivery of lost copies of the signature (4)", 
+Description = {"Let\'s go find a missing book at <NAVI>[Arles Orleans]<INFO>prontera,167,291,0,101,0</INFO></NAVI>\'s signing, and come back to Arles Orleans."}
+, Summary = "report after delivery"}
+, 
+[8522] = {Title = "Book Owner: Kelly von Ernne", 
+Description = {"Let\'s deliver the lost book to Kelly von Ernne in Prontera."}
+, Summary = ""}
+, 
+[8523] = {Title = "Book Owner: Misamon", 
+Description = {"Let\'s deliver the lost book to Misamon in Prontera."}
+, Summary = ""}
+, 
+[8524] = {Title = "Book Owner: Invincible Swordsman", 
+Description = {"Let\'s deliver the lost book to Invincible Swordsman in Prontera."}
+, Summary = ""}
+, 
+[8525] = {Title = "Book Owner: Lonely Novice", 
+Description = {"Let\'s deliver the lost book to Lonely Novice in Prontera."}
+, Summary = ""}
+, 
+[8526] = {Title = "Gift King Strawberry", 
+Description = {"I received King Strawberry Costume instead of a signature."}
+, Summary = ""}
 }
 

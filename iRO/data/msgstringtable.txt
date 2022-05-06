@@ -1850,8 +1850,8 @@ Limited#
 Rental#
 Gear#
 Buff#
-Heal#
 Other#
+Costume#
 Price#
 amount#
 total#
@@ -3192,8 +3192,8 @@ Loading the mailbox.\n^c92114Delete^000000unnecessary emails!!#
 NOW LOADING..#
 Title#
 Sender#
-#
-#
+It cannot be run simultaneously with the Ragnarok client. exit setup#
+Add-on settings#
 #
 #
 #
@@ -3312,21 +3312,21 @@ There is no attack target for Homun. Please set target with Alt + Right click.#
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Unknown error. Please contact support.# //REFUSE_USA_UNKNOWN = 5200
+Unknown account .Please register an account.# //REFUSE_USA_NOT_USER = 5201
+Account blocked, Please contact support.# //REFUSE_USA_ID_BLOCK = 5202
+Account is currently inactive. Please contact support.# //REFUSE_USA_ID_INACTIVAT = 5203
+Wrong Password/User ID. Please check and try again.# //REFUSE_USA_PASSWORD = 5204
+Account is currently inactive. Please contact support.# //REFUSE_USA_EMAIL_CERT = 5205
+Account Blocked. Please contact support.# //REFUSE_USA_PAYPAL_BLOCK1 = 5206
+Account Blocked. Please contact support.# //REFUSE_USA_COUNTRY_REJECT = 5207
+Account Blocked. Please contact support.# //REFUSE_USA_PAYPAL_BLOCK2 = 5208
+Account Blocked. Please contact support.# //REFUSE_USA_WEB_BLOCK = 5209
+Underage account detected. Please contact support.# //REFUSE_USA_AGE = 5210
+Account has not recently updated its password. Please do so now.# //REFUSE_USA_PASSWORD_CHANGE = 5211
+There has been an error. Please contact support with this message.# //REFUSE_USA_INPUTDATA = 5212
+There has been an error. Please contact support with this message.# //REFUSE_USA_DATABASE = 5213
+There has been an error. Please contact support with this message.# //REFUSE_USA_SYSTEM = 5214
 #
 #
 #
@@ -3507,7 +3507,7 @@ Sign up for party#
 Only the party leader can recruit the party member on the Adventurer Agency.#
 Unable to abort party recruitment.#
 Support#
-#
+Zoom Out#
 #
 #
 #
@@ -3574,8 +3574,8 @@ PvP#
 #
 #
 #
-#
-#
+damage notation extension#
+map name#
 #
 #
 #
@@ -3866,7 +3866,7 @@ Message#
 #
 #
 #
-#
+RODEX all user received#
 #
 #
 #
