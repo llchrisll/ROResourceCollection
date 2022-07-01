@@ -1022,7 +1022,7 @@ Table[6] = CreateEnchantInfo()
 ;
 (Table[6]):SetSlotOrder(0)
 ;
-(Table[6]):AddTargetItem("Cherryblossom_Fan")
+(Table[6]):AddTargetItem("입에무는벚꽃가지")
 ;
 (Table[6]):SetCondition(0, 0)
 ;
@@ -1030,7 +1030,7 @@ Table[6] = CreateEnchantInfo()
 ;
 (Table[6]):SetReset(true, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
 ;
-(Table[6]):SetCaution("2021 봄꽃 이벤트 아이템 인챈트\n기본 성공확률 100%\n초기화 확률 100% 실패시 파괴안됨")
+(Table[6]):SetCaution("2022 봄꽃 이벤트 아이템 인챈트\n기본 성공확률 100%\n초기화 확률 100% 실패시 파괴안됨")
 ;
 (((Table[6]).Slot)[0]):SetRequire(10000, {"Small_Spray_Of_Flowers", 5})
 ;
@@ -4606,7 +4606,7 @@ Table[14] = CreateEnchantInfo()
 ;
 (Table[14]):SetSlotOrder(0)
 ;
-(Table[14]):AddTargetItem("Limesoda_In_Mouth")
+(Table[14]):AddTargetItem("입에무는치즈과자")
 ;
 (Table[14]):SetCondition(0, 0)
 ;
@@ -4614,7 +4614,7 @@ Table[14] = CreateEnchantInfo()
 ;
 (Table[14]):SetReset(true, 100000, 10000, {"이글이글구슬", 1}, {"황금옥수수", 5}, {"몸에좋은허브", 5})
 ;
-(Table[14]):SetCaution("2021 여름 팝콘 이벤트 아이템 인챈트\n기본 성공확률 100%\n초기화 확률 100% 실패시 파괴안됨")
+(Table[14]):SetCaution("2022 여름 팝콘 이벤트 아이템 인챈트\n기본 성공확률 100%\n초기화 확률 100% 실패시 파괴안됨")
 ;
 (((Table[14]).Slot)[0]):SetRequire(10000, {"이글이글구슬", 1}, {"황금옥수수", 5}, {"몸에좋은허브", 5})
 ;

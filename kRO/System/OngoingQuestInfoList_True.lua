@@ -145,7 +145,7 @@ Description = {"이것이 끝이 아니기를... <NAVI>[유리디 친구]<INFO>mora,115,68,0,1
 Description = {"<NAVI>[안개숲]<INFO>bif_fild01,158,340,0,101,0</INFO></NAVI>에서 ^0000FF로페의단서^000000 30개를 모은 뒤, <NAVI>[동네기사단 단장]<INFO>mora,114,163,0,101,0</INFO></NAVI>에게 가자."}
 , Summary = "로페의단서를 모은 뒤 동네기사단 단장에게 가기"}
 , 
-[1119] = {Title = "대기: 동네기사단 - 두목의 심부름", IconName = "ico_ep.bmp", 
+[1119] = {Title = "대기: 동네기사단 - 두목의 심부름", IconName = "ico_dq.bmp", 
 Description = {"두목의 의뢰를 수행했습니다. 지정된 시간이 지난 후 다시 <NAVI>[동네기사단 두목]<INFO>mora,116,165,0,101,0</INFO></NAVI>을 찾아가면 새로운 의뢰를 받을 수 있습니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
@@ -853,60 +853,12 @@ Description = {"너구리 만세단 가족들이 정겨운 크리스마스를 보낼 수 있도록 엄선하
 Description = {"주둔지 북서쪽에 모여있는 <NAVI>[멸망축복회 교주]<INFO>moro_vol,91,197,0,101,0</INFO></NAVI>를 만나보자."}
 , Summary = "멸망축복회 교주와 대화."}
 , 
-[1298] = {Title = "가스! 가스!!", 
-Description = {"락 릿지 광산 앞의 가스트가 가스터 처치를 부탁했다. 광산 안에서 가스터 20마리를 처치하자."}
+[1298] = {Title = "가스! 가스!!", IconName = "ico_dq.bmp", 
+Description = {"락 릿지 광산 앞의 <NAVI>[가스트]<INFO>rockrdg2,295,328,0,101,0</INFO></NAVI>가 가스터 처치를 부탁했다. 광산 안에서 <NAVI>[가스터]<INFO>GASTER,0,0,3,-222,1</INFO></NAVI> 20마리를 처치하자."}
 , Summary = "가스터 20마리 처치."}
 , 
-[1299] = {Title = "대기: 순찰은 하루 한 번", 
+[1299] = {Title = "대기: 순찰은 하루 한 번", IconName = "ico_dq.bmp", 
 Description = {"가스트는 하루에 한 번 순찰 직전에만 가스터를 처치해주면 된다고 한다. <NAVI>[가스트]<INFO>rockrdg2,295,328,0,101,0</INFO></NAVI>의 일과가 시작되는 오전 네 시까지 기다리자."}
-, Summary = "04시 초기화", CoolTimeQuest = 1}
-, 
-[1321] = {Title = "바둑이가 물고 간 반지", 
-Description = {"바둑이가 물고 가버린 미즈 맥피의 금반지를 소적단이 무서운 미스터 맥피를 대신해 찾아다 주자."}
-, Summary = "바둑이가 물고 간 반지 찾기"}
-, 
-[1322] = {Title = "뭔가를 찾았다", 
-Description = {"바둑이가 판 것 같은 구덩이에서 반짝이는 무언가는 찾았지만, 금반지는 아니었다. 철조망 근처는 얼추 둘러본 듯 하니 우선 미즈 맥피에게 돌아가자."}
-, Summary = "미즈 맥피에게 돌아가기"}
-, 
-[1323] = {Title = "바둑아 그럼 못써", 
-Description = {"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."}
-, Summary = "바둑이가 물고 간 살림살이 찾기"}
-, 
-[1324] = {Title = "바둑아 그럼 못써", 
-Description = {"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."}
-, Summary = "바둑이가 물고 간 살림살이 찾기"}
-, 
-[1325] = {Title = "바둑아 그럼 못써", 
-Description = {"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."}
-, Summary = "바둑이가 물고 간 살림살이 찾기"}
-, 
-[1326] = {Title = "바둑아 그럼 못써", 
-Description = {"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."}
-, Summary = "바둑이가 물고 간 살림살이 찾기"}
-, 
-[1327] = {Title = "바둑아 그럼 못써", 
-Description = {"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."}
-, Summary = "바둑이가 물고 간 살림살이 찾기"}
-, 
-[1328] = {Title = "물어간 걸 찾았다", 
-Description = {"바둑이가 판 구덩이 속에서 미즈 맥피가 찾아달라고 했던 것을 발견했다. 미즈 맥피에게 돌아가자."}
-, Summary = "미즈 맥피에게 돌아가기"}
-, 
-[1329] = {Title = "대기: 꿈나라로 간 바둑이", 
-Description = {"바둑이는 실컷 뛰어놀아 오늘은 더 나갈 생각이 없는 듯 하다. 오전 4시가 지난 후에 혹시 또 도움이 필요하지 않을지 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>를 찾아가 보자."}
-, Summary = "04시 초기화", CoolTimeQuest = 1}
-, 
-[1330] = {Title = "바둑이가 판 구덩이는 어디에", 
-Description = {"미스터 맥피가 바둑이가 어디에 구덩이를 팠을지 짐작가는 곳을 알려주려는 모양이다. 마을 밖으로 나가 미스터 맥피를 찾아 보자."}
-, Summary = "마을 밖의 미스터 맥피 찾기"}
-, 
-[1331] = {Title = "바둑이를 위한 복수", 
-Description = {"미스터 맥피는 바둑이를 괴롭힌 범인이 소적단이라고 생각하고 대신 손봐줄 것을 부탁했다. 머리가 노란 소적단 셋, 머리가 까만 소적단 셋, 머리가 흰 소적단 셋을 혼내 주자."}
-, Summary = "소적단 처치"}
-, 
-[1332] = {Title = "대기: 피로 피를 씻는다", 
-Description = {"미스터 맥피는 소적단을 더 혼내 주고 싶은 모양이다. 오전 4시가 지난 후에 다시 마을에 있는 <NAVI>[미스터 맥피]<INFO>harboro1,344,61,0,101,0</INFO></NAVI>를 찾아가 보자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [1300] = {Title = "후원품의 행방", 
@@ -992,6 +944,54 @@ Description = {"발레리가 고마움의 표시로 준 호랑가시나무 가지는 모아서 한데 엮으
 [1320] = {Title = "호랑가시나무 리스 만들기", 
 Description = {"브레첸은 호랑가시나무 가지가 10개 있으면 크리스마스 리스를 만들어 주겠다고 한다. 만드는 걸 좋아한다는 브레첸을 위해 호랑가시나무 가지 10개를 모아 주자."}
 , Summary = "호랑가시나무 가지 10개 모으기"}
+, 
+[1321] = {Title = "바둑이가 물고 간 반지", IconName = "ico_nq.bmp", 
+Description = {"바둑이가 물고 가버린 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>의 금반지를 소적단이 무서운 미스터 맥피를 대신해 찾아다 주자."}
+, Summary = "바둑이가 물고 간 반지 찾기"}
+, 
+[1322] = {Title = "뭔가를 찾았다", IconName = "ico_nq.bmp", 
+Description = {"바둑이가 판 것 같은 구덩이에서 반짝이는 무언가는 찾았지만, 금반지는 아니었다. 철조망 근처는 얼추 둘러본 듯 하니 우선 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "미즈 맥피에게 돌아가기"}
+, 
+[1323] = {Title = "바둑아 그럼 못써", IconName = "ico_dq.bmp", 
+Description = {"바둑이가 살림살이를 물고 또 <NAVI>[황야]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>를 위해 없어진 물건을 찾아다 주자."}
+, Summary = "바둑이가 물고 간 살림살이 찾기"}
+, 
+[1324] = {Title = "바둑아 그럼 못써", IconName = "ico_dq.bmp", 
+Description = {"바둑이가 살림살이를 물고 또 <NAVI>[황야]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>를 위해 없어진 물건을 찾아다 주자."}
+, Summary = "바둑이가 물고 간 살림살이 찾기"}
+, 
+[1325] = {Title = "바둑아 그럼 못써", IconName = "ico_dq.bmp", 
+Description = {"바둑이가 살림살이를 물고 또 <NAVI>[황야]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>를 위해 없어진 물건을 찾아다 주자."}
+, Summary = "바둑이가 물고 간 살림살이 찾기"}
+, 
+[1326] = {Title = "바둑아 그럼 못써", IconName = "ico_dq.bmp", 
+Description = {"바둑이가 살림살이를 물고 또 <NAVI>[황야]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>를 위해 없어진 물건을 찾아다 주자."}
+, Summary = "바둑이가 물고 간 살림살이 찾기"}
+, 
+[1327] = {Title = "바둑아 그럼 못써", IconName = "ico_dq.bmp", 
+Description = {"바둑이가 살림살이를 물고 또 <NAVI>[황야]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>를 위해 없어진 물건을 찾아다 주자."}
+, Summary = "바둑이가 물고 간 살림살이 찾기"}
+, 
+[1328] = {Title = "물어간 걸 찾았다", IconName = "ico_dq.bmp", 
+Description = {"바둑이가 판 구덩이 속에서 미즈 맥피가 찾아달라고 했던 것을 발견했다. <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "미즈 맥피에게 돌아가기"}
+, 
+[1329] = {Title = "대기: 꿈나라로 간 바둑이", IconName = "ico_dq.bmp", 
+Description = {"바둑이는 실컷 뛰어놀아 오늘은 더 나갈 생각이 없는 듯 하다. 오전 4시가 지난 후에 혹시 또 도움이 필요하지 않을지 <NAVI>[미즈 맥피]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>를 찾아가 보자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[1330] = {Title = "바둑이가 판 구덩이는 어디에", IconName = "ico_dq.bmp", 
+Description = {"미스터 맥피가 바둑이가 어디에 구덩이를 팠을지 짐작가는 곳을 알려주려는 모양이다. 마을 밖으로 나가 <NAVI>[미스터 맥피]<INFO>rockrdg1,36,250,0,101,0</INFO></NAVI>를 찾아 보자."}
+, Summary = "마을 밖의 미스터 맥피 찾기"}
+, 
+[1331] = {Title = "바둑이를 위한 복수", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[미스터 맥피]<INFO>harboro1,344,61,0,101,0</INFO></NAVI>는 바둑이를 괴롭힌 범인이 소적단이라고 생각하고 대신 손봐줄 것을 부탁했다.", "<NAVI>[머리가 노란 소적단]<INFO>COWRAIDERS1,0,0,3,-222,1</INFO></NAVI> 셋,", "<NAVI>[머리가 까만 소적단]<INFO>COWRAIDERS2,0,0,3,-222,1</INFO></NAVI> 셋,", "<NAVI>[머리가 흰 소적단]<INFO>COWRAIDERS3,0,0,3,-222,1</INFO></NAVI> 셋을 혼내 주자."}
+, Summary = "소적단 처치"}
+, 
+[1332] = {Title = "대기: 피로 피를 씻는다", IconName = "ico_dq.bmp", 
+Description = {"미스터 맥피는 소적단을 더 혼내 주고 싶은 모양이다. 오전 4시가 지난 후에 다시 마을에 있는 <NAVI>[미스터 맥피]<INFO>harboro1,344,61,0,101,0</INFO></NAVI>를 찾아가 보자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [1333] = {Title = "달콤한 유혹", 
 Description = {"달콤한 냄새 때문에 괴로워하는 남자를 위해 스윗츠 드롭프스를 5마리 해치우자."}
@@ -1692,6 +1692,10 @@ Description = {"세린은 기어코 다크 로드를 불러내었다. 소환된 몬스터들을 처치하자
 [1508] = {Title = "미드가르드를 위하여", 
 Description = {"세린이 소환한 몬스터를 모두 쓰러뜨렸다. 세린에게 말을 걸어 보자."}
 , Summary = "세린과 대화"}
+, 
+[1509] = {Title = "동네기사단-두목의 심부름", IconName = "ico_dq.bmp", 
+Description = {"모라 마을의 <NAVI>[동네기사단 두목]<INFO>mora,116,165,0,101,0</INFO></NAVI>의 명령이다. <ITEM>[신비한 씨앗]<INFO>12561</INFO></ITEM> 20개를 모아가야 한다. 신비한 씨앗은 안개숲 미궁에서 쉽게 구할 수 있다고 한다."}
+, Summary = "신비한 씨앗 20개"}
 , 
 [2000] = {Title = "블랙스미스 전직", IconName = "ico_jq.bmp", 
 Description = {"우리는 당신이 얼마나 성실한 상인이며, 블랙스미스에 대한 얼마나 뜨거운 열정을 지니고 있는지 궁금하네. 그 첫번째 시험으로 아인베흐로 출장중인 우리 <NAVI>[길드원]<INFO>ein_in01,201,27,0,101,0</INFO></NAVI>의 일손을 덜어주고 오게나."}
@@ -3798,11 +3802,11 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [3407] = {Title = "실종자의 낚싯대", 
-Description = {"시루드의 낚싯대를 <NAVI>[해양학자 제리몬]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>에게 가져가도록 하자."}
+Description = {"시루드의 낚싯대를 <NAVI>[해양학자 제리몬]<INFO>prt_elib,57,18,0,101,0</INFO></NAVI>에게 가져가도록 하자."}
 , Summary = "제리몬과 대화"}
 , 
 [3408] = {Title = "심연의 정수 조달", 
-Description = {"게인에게서 받은 심연의 정수를 <NAVI>[해양학자 제리몬]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>에게 가져다 주자."}
+Description = {"게인에게서 받은 심연의 정수를 <NAVI>[해양학자 제리몬]<INFO>prt_elib,57,18,0,101,0</INFO></NAVI>에게 가져다 주자."}
 , Summary = "심연의 정수 전달"}
 , 
 [3409] = {Title = "심해로 연결되는 소용돌이", 
@@ -4177,20 +4181,20 @@ Description = {"<NAVI>[인식의 정원 던전]<INFO>ant_d02_i,166,170,0,101,0</INFO></
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[세신]<INFO>ant_d02_i,167,184,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[3510] = {Title = "벚꽃 부채 제작", IconName = "ico_ev.bmp", 
-Description = {"^4d4dff벚꽃 부채^000000 제작을 위해 ^4d4dff아담한 꽃가지 25개^000000를 아를르에게 가져다 주자."}
+[3510] = {Title = "쉬운 제작", IconName = "ico_ev.bmp", 
+Description = {"제작을 위해 ^4d4dff아담한 꽃가지 25개^000000를 아를르에게 가져다 주자."}
 , Summary = "아담한 꽃가지 25개"}
 , 
-[3511] = {Title = "쉽지 않은 벚꽃 선글라스 제작", IconName = "ico_ev.bmp", 
-Description = {"^4d4dff벚꽃 선글라스^000000 제작을 위해 ^4d4dff아담한 꽃가지 15개^000000와 ^4d4dff빨간 허브^000000 5개를 아를르에게 가져다 주자.."}
+[3511] = {Title = "쉽지 않은 제작", IconName = "ico_ev.bmp", 
+Description = {"제작을 위해 ^4d4dff아담한 꽃가지 15개^000000와 ^4d4dff빨간 허브 5개^000000를 아를르에게 가져다 주자.."}
 , Summary = "아담한 꽃가지 15개와 빨간 허브 5개"}
 , 
 [3512] = {Title = "팝콘 페스타 등록", IconName = "ico_ev.bmp", 
 Description = {"팝콘 페스타 등록을 위해 ^4d4dff이글이글 구슬 10개^000000를 케를린에게 가져다 주자."}
 , Summary = "이글이글 구슬 10개"}
 , 
-[3513] = {Title = "의상 애완용 팝콘 상자 제작", IconName = "ico_ev.bmp", 
-Description = {"^4d4dff의상 애완용 팝콘 상자^000000 제작을 위해 ^4d4dff이글이글 구슬 20개^000000를 케를린에게 가져다 주자."}
+[3513] = {Title = "팝콘 페스타 축제 의상 제작", IconName = "ico_ev.bmp", 
+Description = {"^4d4dff팝콘 페스타 축제 의상^000000 제작을 위해 ^4d4dff이글이글 구슬 20개^000000를 케를린에게 가져다 주자."}
 , Summary = "이글이글 구슬 20개"}
 , 
 [3514] = {Title = "한올 모험가 찾기", IconName = "ico_ev.bmp", 
@@ -10362,7 +10366,7 @@ Description = {"카르듀이, 히시에와 상의 한 결과 유독 오브쪽으로 주의를 끌려는 <N
 , Summary = "군수참모 감시"}
 , 
 [7449] = {Title = "오브를 향한 유혹", IconName = "ico_ep.bmp", 
-Description = {"<NAVI>[군수참모]<INFO>ecl_in03,245,93,0,101,0</INFO></NAVI>는 오브의 조명실에 대한 이야기를 하며 가보지 않겠냐며 권한다. 우선은 생각을 시간을 달라하고 카르듀이에게 이 사실을 알리기로 했다."}
+Description = {"군수참모는 오브의 조명실에 대한 이야기를 하며 가보지 않겠냐며 권한다. 우선은 생각을 시간을 달라하고 <NAVI>[카르듀이]<INFO>ecl_in03,41,90,0,101,0</INFO></NAVI>에게 이 사실을 알리기로 했다."}
 , Summary = "카르듀이에게 보고"}
 , 
 [7450] = {Title = "오브의 조명실", IconName = "ico_ep.bmp", 
@@ -11549,83 +11553,83 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간이 종료 된 뒤 \'월야화의 악
 Description = {"충해의 조사로 알아낸 사실을 ^4d4dff페이욘 별궁^000000에 있는 ^4d4dff무연^000000에게 알려주자."}
 , Summary = "별궁의 무연과 대화"}
 , 
-[7790] = {Title = "기회의땅 락릿지", 
+[7790] = {Title = "기회의땅 락 릿지", 
 Description = {"카람 푸치가 서비스로 락 릿지 행 배를 무료로 태워줬습니다."}
 , Summary = ""}
 , 
-[7791] = {Title = "락릿지의 문제", 
-Description = {"카람 푸치는 락 릿지에 곤란한 일이 생겨 도와줄 사람이 필요하다고 한다. 락 릿지에 도착해 항구 근처에서 시장 코스텔을 만나보자."}
+[7791] = {Title = "락 릿지의 문제", IconName = "ico_lq.bmp", 
+Description = {"락 릿지에 곤란한 일이 생겨 도와줄 사람이 필요하다고 한다. 락 릿지에 도착하면, 항구 근처에서 <NAVI>[코스텔]<INFO>harboro1,80,218,0,101,0</INFO></NAVI> 시장을 만나보자."}
 , Summary = "코스텔과 대화"}
 , 
-[7792] = {Title = "락릿지의 문제2", 
-Description = {"시장 코스텔은 소적단때문에 락 릿지가 곤란을 겪고 있다며, 마을의 보안관과 협력 해 달라고 한다. ^4d4dff보안관 사무실로 찾아가 아이어트 워프^000000를 만나자."}
+[7792] = {Title = "락 릿지의 문제2", IconName = "ico_lq.bmp", 
+Description = {"시장 코스텔은 소적단 때문에 락 릿지가 곤란을 겪고 있다며, 마을의 보안관과 협력해 달라고 한다. 보안관 사무실에서 <NAVI>[아이어트 워프]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>를 만나자."}
 , Summary = "아이어트 워프와 대화"}
 , 
-[7793] = {Title = "좋은 소식", 
-Description = {"소적단 두목인 \'죠니 제임스\'는 협상 대상자로 \'시장 코스텔\'을 지목했다. ^4d4dff항구의 코스텔^000000에게 이 기쁜(?) 소식을 알려주자."}
+[7793] = {Title = "좋은 소식", IconName = "ico_lq.bmp", 
+Description = {"소적단의 두목 「죠니 제임스」는 협상 대상자로 「코스텔 시장」을 지목했다. 항구로 가서 <NAVI>[코스텔]<INFO>harboro1,80,218,0,101,0</INFO></NAVI>에게 이 기쁜(?) 소식을 알려주자."}
 , Summary = "코스텔과 대화"}
 , 
-[7794] = {Title = "예상대로의 반응", 
-Description = {"코스텔은 협상하러 가는 것이 탐탁지않은 모양이다. 겁에 질린 그를 대신해 나가기로 했다. 협상안을 대신 듣고 와달라는 코스텔의 의견을 아이어트에게 전하자."}
+[7794] = {Title = "예상대로의 반응", IconName = "ico_lq.bmp", 
+Description = {"코스텔 시장은 협상하러 가는 것이 탐탁지 않은 모양이다. 겁에 질린 그를 대신해 협상안을 대신 듣고 와 달라는 그의 의견을 <NAVI>[아이어트 워프]<INFO>har_in01,20,30,0,101,0</INFO></NAVI> 보안관에게 전하자."}
 , Summary = "아이어트 워프와 대화"}
 , 
-[7795] = {Title = "철길 위의 협상", 
-Description = {"협상 장소는 ^4d4dff운행을 멈춘 화물열차^000000가 있는 곳이다. 마을 동쪽으로 나가 철로를 따라 가면 쉽게 찾을 수 있을 것이다."}
+[7795] = {Title = "철길 위의 협상", IconName = "ico_lq.bmp", 
+Description = {"협상 장소는 <NAVI>[운행을 멈춘 화물열차]<INFO>rockrdg1,152,305,0,101,0</INFO></NAVI>가 있는 곳이다. 마을 동쪽으로 나가 철로를 따라가면, 쉽게 찾을 수 있다고 한다."}
 , Summary = "운행을 멈춘 화물열차 찾기"}
 , 
-[7796] = {Title = "뜻밖의 연행", 
-Description = {"캑터족 자경단의 협력으로 소적단의 두목인 \'죠니 제임스\'를 생포했다. ^4d4dff보안관 사무실로 돌아가 앞으로의 일을 상의^000000하자."}
-, Summary = "아이어트, 이보카와 대화"}
+[7796] = {Title = "뜻밖의 연행", IconName = "ico_lq.bmp", 
+Description = {"캑터족 자경단의 협력으로 소적단의 두목인 「죠니 제임스」를 생포했다. <NAVI>[보안관 사무실]<INFO>har_in01,20,25,0,101,0</INFO></NAVI>로 돌아가 앞으로의 일을 상의하자."}
+, Summary = "아이어트 워프, 이보카 스쿠디와 대화"}
 , 
-[7797] = {Title = "일단 들어봐 1", 
-Description = {"이보카의 의견대로, 죠니 제임스를 만나 알버트 포드에 대한 의구심을 부추겨주자."}
+[7797] = {Title = "일단 들어봐 1", IconName = "ico_lq.bmp", 
+Description = {"이보카 스쿠디의 의견대로 감옥에 가둬둔 <NAVI>[죠니 제임스]<INFO>har_in01,89,23,0,101,0</INFO></NAVI>를 만나 도망친 알버트 포드에 대한 의구심을 부추겨보자."}
 , Summary = "죠니 제임스와 대화"}
 , 
-[7798] = {Title = "준비 작업은 끝났다.", 
-Description = {"죠니 제임스는 알버트 포드가 자신을 배신했다고 믿는 모양이다. 배신자 알버트 포드를 처단하고 갈기털을 가져와 달라고 요구했다. 우선 보안관에게 알리자."}
+[7798] = {Title = "준비 작업은 끝났다.", IconName = "ico_lq.bmp", 
+Description = {"죠니 제임스는 알버트 포드가 자신을 배신했다고 믿는 모양이다. 배신자 알버트 포드를 처단하고 그 증거로 갈기털을 가져와 달라고 요구했다. 우선 <NAVI>[아이어트 워프]<INFO>har_in01,20,30,0,101,0</INFO></NAVI> 보안관에게 알리자."}
 , Summary = "아이어트 워프와 대화"}
 , 
-[7799] = {Title = "숀 맥커디의 무기 1", 
-Description = {"아이어트 워프는 ^4d4dff작업반장 숀 맥커디^000000가 협상에 사용할 아주 좋은 무기에 대한 이야기를 했다며 만나 보라고 한다. 숀 맥커디는 광장에 있다."}
+[7799] = {Title = "숀 맥커디의 무기 1", IconName = "ico_lq.bmp", 
+Description = {"아이어트 워프 보안관은 작업반장 숀 맥커디가 협상에 사용할 아주 좋은 무기에 대한 이야기를 했다며 만나보라고 한다. <NAVI>[숀 맥커디]<INFO>harboro1,288,193,0,101,0</INFO></NAVI>는 광장에 있다."}
 , Summary = "숀 맥커디와 대화"}
 , 
-[7800] = {Title = "숀 맥커디의 무기 2", 
-Description = {"소적단의 횡포로 더 이상 채굴 할 수 없던 \'보라색 광석\'을 구할수 있다고 한다. ^4d4dff광산 입구 아래쪽^000000에서 숀 맥커디를 찾자."}
+[7800] = {Title = "숀 맥커디의 무기 2", IconName = "ico_lq.bmp", 
+Description = {"숀 맥커디는 소적단이 광산을 점령하며, 더 이상 채굴할 수 없었던 보라색 광석을 다시 구할 방법을 알고 있다는 것 같다. <NAVI>[광산 입구 아래쪽]<INFO>rockrdg2,347,216,0,101,0</INFO></NAVI>에서 숀 맥커디를 찾자."}
 , Summary = "숀 맥커디와 대화"}
 , 
-[7801] = {Title = "숀 맥커디의 무기 3", 
-Description = {"놀랍게도 광산 2층으로 진입했다. 근처에서 ^4d4dff보라색 광석을 1개^000000 채굴 한 뒤 숀 맥커디와 대화하자."}
+[7801] = {Title = "숀 맥커디의 무기 3", IconName = "ico_lq.bmp", 
+Description = {"숀 맥커디를 따라 광산 2층으로 진입했다. 광산에서 <ITEM>[보라색 광석]<INFO>25247</INFO></ITEM> 1개를 채굴한 뒤 <NAVI>[숀 맥커디]<INFO>rockmi2,10,86,0,101,0</INFO></NAVI>와 대화하자.", "  ", "^FF0000※광산 2층은 외부에서 길 안내가 되지 않습니다.※^000000"}
 , Summary = "보라색 광석 1"}
 , 
-[7802] = {Title = "일단 들어봐 2", 
-Description = {"광산 앞 ^4d4dff신호용 바위를 세 번 두드린 후^000000 알버트 포드와 앞날에 대한 좋은 이야기를 나누자."}
+[7802] = {Title = "일단 들어봐 2", IconName = "ico_lq.bmp", 
+Description = {"죠니 제임스가 알려준 대로 광산 앞 <NAVI>[신호용 바위]<INFO>rockrdg2,279,312,0,101,0</INFO></NAVI>를 세 번 두드려 알버트 포드를 불러내 광산 2층에서 캐낸 <ITEM>[보라색 광석]<INFO>25247</INFO></ITEM>을 보여 주며, 앞날에 대한 좋은(?) 이야기를 나누자."}
 , Summary = "알버트 포드와 대화"}
 , 
-[7803] = {Title = "깨진 신뢰에 기뻐 웃다.", 
-Description = {"알버트 포드는 \'죠니 제임스\'가 배신했다고 믿고 협상에 응했다. 증거로 받은 \'알버트의 갈기털\'을 \'죠니 제임스\'에게 전하자."}
+[7803] = {Title = "깨진 신뢰에 기뻐 웃다.", IconName = "ico_lq.bmp", 
+Description = {"알버트 포드는 죠니 제임스가 소적단을 배신했다고 믿고 협상에 응했다. 협상의 증거로 알버트 포드에게 받은 <ITEM>[소적단의 갈기털]<INFO>25249</INFO></ITEM>을 감옥 안의 <NAVI>[죠니 제임스]<INFO>har_in01,89,23,0,101,0</INFO></NAVI>에게 전하자."}
 , Summary = "죠니 제임스와 대화"}
 , 
-[7804] = {Title = "광석의 행방", 
-Description = {"죠니로부터 광석의 위치를 알아냈다. 광석은 ^4d4dff광산 지하 2층 승강기 아래^000000에 있다고 한다. 보안관 아이어트에게 정보를 전하자."}
+[7804] = {Title = "광석의 행방", IconName = "ico_lq.bmp", 
+Description = {"죠니 제임스로부터 광석의 위치를 알아냈다. <NAVI>[아이어트 워프]<INFO>har_in01,20,30,0,101,0</INFO></NAVI> 보안관에게 알아낸 정보를 전하자."}
 , Summary = "아이어트 워프와 대화"}
 , 
-[7805] = {Title = "광석의 행방 2", 
-Description = {"^4d4dff광산 2층의 임시 출입구^000000에 있는 ^4d4dff숀 맥커디^000000에게 광석의 위치를 알려주고, 현장으로 가는 길을 도움받자."}
+[7805] = {Title = "광석의 행방 2", IconName = "ico_lq.bmp", 
+Description = {"<NAVI>[광산 입구 아래쪽]<INFO>rockrdg2,347,216,0,101,0</INFO></NAVI>에서 광산 2층 임시 출입구를 지키고 있는 숀 맥커디에게 죠니 제임스로부터 알아낸 광석의 위치를 알려주고 도움을 받자."}
 , Summary = "숀 맥커디와 대화"}
 , 
-[7806] = {Title = "광석의 행방 3", 
-Description = {"광산 중앙 위쪽에 망가진 승강기가 있다고 한다. 승강기 아래에서 ^4d4dff광석상자^000000를 찾아서 숀 맥커디에게 돌아오자."}
+[7806] = {Title = "광석의 행방 3", IconName = "ico_lq.bmp", 
+Description = {"광산 중앙에서 위쪽으로 가면", "<NAVI>[망가진 승강기]<INFO>rockmi2,97,119,0,101,0</INFO></NAVI>가 있다고 한다. 승강기 아래에서", "<ITEM>[보라색 광석 상자]<INFO>25248</INFO></ITEM>를 찾아서 <NAVI>[숀 맥커디]<INFO>rockmi2,10,86,0,101,0</INFO></NAVI>에게 돌아오자.", "  ", "^FF0000※광산 2층은 외부에서 길 안내가 되지 않습니다.※^000000"}
 , Summary = "광석상자 1개"}
 , 
-[7807] = {Title = "마지막 한 수", 
-Description = {"소적단 일부를 해치우고 ^4d4dff갈색 머플러 5개와 도적단 스카프 5개^000000를 구해서 알버트 포드에게 보여주자. 아주 좋아할 것이다."}
-, Summary = "갈색머플러5,도적단 스카프5"}
+[7807] = {Title = "마지막 한 수", IconName = "ico_lq.bmp", 
+Description = {"광산에서 목표로 했던 <ITEM>[보라색 광석 상자]<INFO>25248</INFO></ITEM>는 찾은 것 같다. 상황을 조금 더 극적으로 만들기 위해 <ITEM>[갈색 머플러]<INFO>25283</INFO></ITEM>와 <ITEM>[도적단 스카프]<INFO>25278</INFO></ITEM>를 5개씩 구해서 <NAVI>[신호용 바위]<INFO>rockrdg2,279,312,0,101,0</INFO></NAVI>로 알버트 포드를 불러 보여주자."}
+, Summary = "갈색 머플러 5, 도적단 스카프 5"}
 , 
-[7808] = {Title = "사건 해결", 
-Description = {"알버트 포드에게 엄청난 원한을 산 것 같지만, 더 이상 그들과 우호적인 관계를 유지할 이유가 없으니 아무래도 좋은 것 같다. 아이어트에게 보고하자."}
+[7808] = {Title = "사건 해결", IconName = "ico_lq.bmp", 
+Description = {"알버트 포드에게 엄청난 원한을 산 것 같지만, 더 이상 그들과 우호적인 관계를 유지할 이유가 없으니 아무래도 좋은 것 같다. <NAVI>[아이어트 워프]<INFO>har_in01,20,30,0,101,0</INFO></NAVI> 보안관에게 보고하자."}
 , Summary = "아이어트 워프와 대화"}
 , 
-[7809] = {Title = "광석 회수", 
+[7809] = {Title = "광석 회수", IconName = "ico_lq.bmp", 
 Description = {"광석을 회수했습니다."}
 , Summary = ""}
 , 
@@ -12954,7 +12958,7 @@ Description = {"도란스는 연합 주둔지에 있는 마법학자 <NAVI>[위스퍼]<INFO>mid_cam
 , Summary = "위스퍼와 대화"}
 , 
 [8250] = {Title = "이계의 광석", IconName = "ico_ep.bmp", 
-Description = {"연합 주둔지의 마법학자 <NAVI>[위스퍼]<INFO>mid_camp,147,256,0,101,0</INFO></NAVI>는 애쉬-바쿰 바깥의 추운 곳, 예를 들면 <NAVI>[마누크 필드]<INFO>man_fild03,180,170,0,101,0</INFO></NAVI>의 여기저기에 있는 신비한 암석에서 때로 채취할 수 있는 <ITEM>[미확인 광석]<INFO>6048</INFO></ITEM>을 1개만 구해다 달라고 한다."}
+Description = {"연합 주둔지의 마법학자 <NAVI>[위스퍼]<INFO>mid_camp,147,256,0,101,0</INFO></NAVI>는 애쉬-바쿰 바깥의 추운 곳, 예를 들면 <NAVI>[마누크 필드]<INFO>man_fild03,179,170,0,101,0</INFO></NAVI>의 여기저기에 있는 신비한 암석에서 때로 채취할 수 있는 <ITEM>[미확인 광석]<INFO>6048</INFO></ITEM>을 1개만 구해다 달라고 한다."}
 , Summary = "미확인 광석을 위스퍼에게"}
 , 
 [8251] = {Title = "마력 주입", IconName = "ico_ep.bmp", 
@@ -14611,6 +14615,54 @@ Description = {"뱀의 둥지의 <NAVI>[델파나간드]<INFO>jor_nest,239,239,0,101,0</IN
 , 
 [8804] = {Title = "부화장의 르간 3명째", IconName = "ico_ep.bmp", Summary = ""}
 , 
+[8806] = {Title = "식물을 하나 키웠다", 
+Description = {"어떻게어떻게 한 번의 육초를 끝냈다. 환상총서 식물실무를 1회 완료하면 체크한다."}
+, Summary = ""}
+, 
+[8807] = {Title = "환상총서: 식물 실무-대기", IconName = "ico_vr.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[해당 도서]<INFO>prt_elib,59,53,0,101,0</INFO></NAVI>를 다시 읽을 수 있게 됩니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8808] = {Title = "비료를 만들기 위해서", IconName = "ico_vr.bmp", 
+Description = {"드브리스는 설명하기 너무 길어지는 것은 간단하게 정리해 놓은 책이 있으니 그걸 읽으라고 한다."}
+, Summary = "초보자용 비료 만들기 읽기"}
+, 
+[8809] = {Title = "비료를 만들자 (1)", IconName = "ico_vr.bmp", 
+Description = {"준비된 실험대에서 비료의 재료로 넣을 것들을 드브리스의 지시에 따라 조합한다."}
+, Summary = "실험대에서 작업하기"}
+, 
+[8810] = {Title = "비료를 만들자 (2)", IconName = "ico_vr.bmp", 
+Description = {"드브리스에게 비커를 보여준다. 평소에 보던 것들을 이렇게 다른 용도로 쓰게 되는 걸 보니 신기한 느낌이다."}
+, Summary = "드브리스와 대화"}
+, 
+[8811] = {Title = "비료를 뿌리자", IconName = "ico_vr.bmp", 
+Description = {"드브리스의 연구실 한가운데에 마련된 배양토에 비료를 섞어준다. 흙을 만지는 것은 생각보다 기분좋은 일인 것 같다."}
+, Summary = "배양토에 비료 뿌리기"}
+, 
+[8812] = {Title = "새싹이 자랐어요", IconName = "ico_vr.bmp", 
+Description = {"방금 심은 씨앗에서 순식간에 싹이 났다! 다 클 때까지 정성을 다하자. 실험대에서 영양제를 제조해야 한다."}
+, Summary = "실험대에서 작업하기"}
+, 
+[8813] = {Title = "영양제 뿌리기", IconName = "ico_vr.bmp", 
+Description = {"발아한 풀, 혹은 버섯에 영양제를 뿌려야 한다. 영양제를 만들기 위해서는 연구소 내의 풀들을 수확해 보자."}
+, Summary = "배양토에 영양제 뿌리기"}
+, 
+[8814] = {Title = "육성 성공!", IconName = "ico_vr.bmp", 
+Description = {"훌륭하게 식물을 키워냈다! 드브리스에게 평가를 받아보자."}
+, Summary = "드브리스와 대화"}
+, 
+[8815] = {Title = "잉크의 선물", IconName = "ico_vr.bmp", 
+Description = {"잉크에게 클리어 선물을 받자. 경험치는 직접 받거나, 효율에 손실은 있지만 <ITEM>[포션]<INFO>101404</INFO></ITEM>으로 바꿀 수 있다."}
+, Summary = "잉크와 대화"}
+, 
+[8816] = {Title = "세상에서 제일 쉬운 연금술", IconName = "ico_vr.bmp", 
+Description = {"연금술이 그렇게 쉬우면 아무나 연금술사 하게? 하지만 오늘은 숙련된 연금술사가 선택 말고는 모든 것을 다 해주고 있다. 그리고... 책도 일단 쉽다는 듯하니까... 참 쉽죠?"}
+, Summary = "세상에서 제일 쉬운 연금술 읽기"}
+, 
+[8817] = {Title = "풀 고르기", IconName = "ico_vr.bmp", 
+Description = {"어쨌든 풀을 하나 골라야 한다. 전혀 쉽지 않았던 책에 풀에 대해 자세히 쓰여 있었으니 참조하자."}
+, Summary = "책 내용에 맞춰 풀 고르기"}
+, 
 [9000] = {Title = "나이트 전직으로의 시작", IconName = "ico_jq.bmp", 
 Description = {"기사단장 헤르만은 기사전직을 위해 우선 다른 <NAVI>[기사]<INFO>prt_in,75,107,0,101,0</INFO></NAVI>들의 승인을 받아야한다고 했다."}
 , Summary = "다른 기사들과 대화"}
@@ -15767,23 +15819,23 @@ Description = {"광석을 가지고 광산 입구에 있는 알버트 포드와 만나 새로운 협상을 
 Description = {"알버트 포드와 새로운 협상안을 확인한 뒤 코스텔에게 전달한다."}
 , Summary = "코스텔과 만나기"}
 , 
-[9457] = {Title = "어쨌든 해결", 
+[9457] = {Title = "어쨌든 해결", IconName = "ico_lq.bmp", 
 Description = {"락 릿지 마을의 문제를 해결한다."}
 , Summary = "아이어트 워프와 만나기"}
 , 
-[9458] = {Title = "파이프 청소", 
-Description = {"락 릿지 마을 지하수로 파이프에 달라붙어 있는 말미잘을 제거하자"}
+[9458] = {Title = "파이프 청소", IconName = "ico_dq.bmp", 
+Description = {"락 릿지 마을 <NAVI>[지하수로]<INFO>harboro2,329,187,0,101,0</INFO></NAVI>에 가서 파이프에 달라붙어 있는 <NAVI>[말미잘]<INFO>SEAANEMONE,0,0,3,-222,1</INFO></NAVI>을 제거하고 <NAVI>[도노반]<INFO>harboro1,138,157,0,101,0</INFO></NAVI>에게 보고하자."}
 , Summary = "말미잘 20마리 제거"}
 , 
-[9459] = {Title = "대기: 파이프 청소는 아직", 
+[9459] = {Title = "대기: 파이프 청소는 아직", IconName = "ico_dq.bmp", 
 Description = {"아직은 말미잘이 많이 생기지 않았다고 한다. 일정 시간이 지난 후 <NAVI>[도노반]<INFO>harboro1,138,157,0,101,0</INFO></NAVI>을 찾아가 다시 파이프 청소를 하자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[9460] = {Title = "광석 조각 모으기", 
-Description = {"락 릿지 필드와 광산에서 사냥을 하여 광석 조각을 모으자"}
-, Summary = "광석 조각 10개를 모아 웅크린 말에게 주기"}
+[9460] = {Title = "광석 조각 모으기", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[키와와<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI> <NAVI>사막]<INFO>rockrdg2,31,207,0,101,0</INFO></NAVI>과 <NAVI>[락 릿지 광산]<INFO>rockmi1,247,19,0,101,0</INFO></NAVI>에서", "사냥을 하여 <ITEM>[보라색 광석 조각]<INFO>25260</INFO></ITEM> 10개를 모아.", "<NAVI>[웅크린 말]<INFO>rockrdg1,262,90,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "보라색 광석 조각 10개"}
 , 
-[9461] = {Title = "대기: 풍족한 광석", 
+[9461] = {Title = "대기: 풍족한 광석", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[웅크린 말]<INFO>rockrdg1,262,90,0,101,0</INFO></NAVI>은 아직은 광석이 필요치 않다고 한다. 새벽 시간에 다시 한 번 찾아가 보자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
@@ -16624,7 +16676,7 @@ Description = {"미드가르드 연합 주둔지 모험가 지도를 맡고 있는 <NAVI>[루겐 교관]
 , Summary = "루겐 교관과 대화"}
 , 
 [11085] = {Title = "새로운 환경에 적응하는 법", IconName = "ico_ep.bmp", 
-Description = {"미드가르드 연합 주둔지 중앙에 있는 커다란 건물에서 <NAVI>[등록원 브링크]<INFO>mid_camp,215,248,0,101,0</INFO></NAVI>에게 등록을 부탁하자."}
+Description = {"미드가르드 연합 주둔지 중앙에 있는 커다란 건물에서 <NAVI>[등록원 브링크]<INFO>mid_campin,106,122,0,101,0</INFO></NAVI>에게 등록을 부탁하자."}
 , Summary = "중앙 건물에서 등록"}
 , 
 [11086] = {Title = "새로운 환경에 적응하는 법", IconName = "ico_ep.bmp", 
@@ -21115,119 +21167,119 @@ Description = {"이제부터 약품상의 신규회원이십니다."}
 Description = {"이제 신대륙의 식품 공급자로서 전력을 다해야 할 것 입니다."}
 , Summary = "신대륙 식품 공급자"}
 , 
-[12382] = {Title = "대기: 이제 배식을 할 수 있어!", 
+[12382] = {Title = "대기: 이제 배식을 할 수 있어!", IconName = "ico_dq.bmp", 
 Description = {"모아온 재료가 <NAVI>[급식 담당자]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>의 고뇌를 떨쳐버린 것 같습니다. 한동안 사람들에게 제공될 식사에는 차질이 없겠군요"}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[12383] = {Title = "고구마의 조달", 
-Description = {"본토에서 <ITEM>고구마<INFO>516</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
+[12383] = {Title = "고구마의 조달", IconName = "ico_dq.bmp", 
+Description = {"본토에서 <ITEM>[고구마]<INFO>516</INFO></ITEM> 160개를 구해서 락 릿지의 <NAVI>[급식 담당자]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
 , Summary = "고구마 160개"}
 , 
-[12384] = {Title = "고기의 조달", 
-Description = {"본토에서 <ITEM>고기<INFO>517</INFO></ITEM> 50개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
+[12384] = {Title = "고기의 조달", IconName = "ico_dq.bmp", 
+Description = {"본토에서 <ITEM>[고기]<INFO>517</INFO></ITEM> 50개를 구해서 락 릿지의 <NAVI>[급식 담당자]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
 , Summary = "고기 50개"}
 , 
-[12385] = {Title = "당근의 조달", 
-Description = {"본토에서 <ITEM>당근<INFO>515</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
+[12385] = {Title = "당근의 조달", IconName = "ico_dq.bmp", 
+Description = {"본토에서 <ITEM>[당근]<INFO>515</INFO></ITEM> 160개를 구해서 락 릿지의 <NAVI>[급식 담당자]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
 , Summary = "당근 160개"}
 , 
-[12386] = {Title = "바나나의 조달", 
-Description = {"본토에서 <ITEM>바나나<INFO>513</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
+[12386] = {Title = "바나나의 조달", IconName = "ico_dq.bmp", 
+Description = {"본토에서 <ITEM>[바나나]<INFO>513</INFO></ITEM> 160개를 구해서 락 릿지의 <NAVI>[급식 담당자]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
 , Summary = "바나나 160개"}
 , 
-[12387] = {Title = "호박의 조달", 
-Description = {"본토에서 <ITEM>호박<INFO>535</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
+[12387] = {Title = "호박의 조달", IconName = "ico_dq.bmp", 
+Description = {"본토에서 <ITEM>[호박]<INFO>535</INFO></ITEM> 160개를 구해서 락 릿지의 <NAVI>[급식 담당자]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."}
 , Summary = "호박 160개"}
 , 
-[12388] = {Title = "식용버섯의 조달", 
-Description = {"본토에서 <ITEM>식용버섯<INFO>581</INFO></ITEM> 60개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 요리재료상인들에게서 구할 수 있을 것입니다."}
+[12388] = {Title = "식용버섯의 조달", IconName = "ico_dq.bmp", 
+Description = {"본토에서 <ITEM>[식용버섯]<INFO>581</INFO></ITEM> 60개를 구해서 락 릿지의 <NAVI>[급식 담당자]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>에게 서둘러 배송합시다. 대도시의 요리재료상인들에게서 구할 수 있을 것입니다."}
 , Summary = "식용버섯 60개"}
 , 
-[12389] = {Title = "락릿지의 수호자", 
+[12389] = {Title = "락 릿지의 수호자", 
 Description = {"신대륙 개척지의 자경단의 일원으로서 활동하게 되었습니다."}
 , Summary = "신대륙 자경단"}
 , 
-[12390] = {Title = "대기: 이제 한동안 걱정을 덜었군", 
+[12390] = {Title = "대기: 이제 한동안 걱정을 덜었군", IconName = "ico_dq.bmp", 
 Description = {"개척지 주변의 몬스터들도 이만하면 위축되었을 것입니다. 한동안은 습격이 벌어지진 않겠죠. 새벽에 다시 <NAVI>[강철 자경단]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>에 가서 한 번 더 점검해 봅시다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[12391] = {Title = "장총을 든 소", 
-Description = {"^ff0000장총을 든 소적단^000000 15마리를 처치해야합니다."}
+[12391] = {Title = "장총을 든 소", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[장총을 든 소적단]<INFO>COWRAIDERS1,0,0,3,-222,1</INFO></NAVI> 15마리를 처치해야합니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
 , Summary = "소적단 15마리 처치"}
 , 
-[12392] = {Title = "붉은 복면의 처단", 
-Description = {"^ff0000붉은 복면을 착용한 소적단^000000 15마리를 처치해야합니다."}
+[12392] = {Title = "붉은 복면의 처단", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[붉은 복면을 착용한 소적단]<INFO>COWRAIDERS2,0,0,3,-222,1</INFO></NAVI> 15마리를 처치해야합니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
 , Summary = "소적단 15마리 처치"}
 , 
-[12393] = {Title = "안대를 쓴 무법자", 
-Description = {"^ff0000안대를 착용한 소적단^000000 15마리를 처치해야합니다."}
+[12393] = {Title = "안대를 쓴 무법자", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[안대를 착용한 소적단]<INFO>COWRAIDERS3,0,0,3,-222,1</INFO></NAVI> 15마리를 처치해야합니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
 , Summary = "소적단 15마리 처치"}
 , 
-[12394] = {Title = "회색 네발짐승 박멸", 
-Description = {"^ff0000코요테^000000 20마리를 처치해야합니다. 코요테는 락릿지 서쪽의 사막지대의 좁은 협곡사이에 많이 서식하고 있습니다."}
+[12394] = {Title = "회색 네발짐승 박멸", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[코요테]<INFO>COYOTE,0,0,3,-222,1</INFO></NAVI> 20마리를 처치해야합니다. 코요테는 락 릿지 서쪽의 사막지대의 좁은 협곡사이에 많이 서식하고 있습니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
 , Summary = "코요테 20마리 처치"}
 , 
-[12395] = {Title = "습지 아크라우스 박멸", 
-Description = {"^ff0000습지 아크라우스^000000 10마리를 처치해야합니다.\t습지 아크라우스는 락릿지의 지하마을에 서식하고 있습니다."}
+[12395] = {Title = "습지 아크라우스 박멸", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[습지 아크라우스]<INFO>RR_ARCLOUSE,0,0,3,-222,1</INFO></NAVI> 10마리를 처치해야합니다. 습지 아크라우스는 락 릿지의 지하마을에 서식하고 있습니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
 , Summary = "습지 아크라우스 10마리 처치"}
 , 
-[12396] = {Title = "시궁쥐 박멸", 
-Description = {"^ff0000시궁쥐^000000 10마리를 처치해야합니다.\t시궁쥐는 락릿지의 지하마을에 서식하고 있습니다."}
+[12396] = {Title = "시궁쥐 박멸", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[시궁쥐]<INFO>RR_CRAMP,0,0,3,-222,1</INFO></NAVI> 10마리를 처치해야합니다. 시궁쥐는 락 릿지의 지하마을에 서식하고 있습니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
 , Summary = "시궁쥐 10마리 처치"}
 , 
-[12398] = {Title = "대기: 솜씨가 좋군.", 
+[12398] = {Title = "대기: 솜씨가 좋군.", IconName = "ico_dq.bmp", 
 Description = {"꽤 어려운 의뢰를 무사히 처리했습니다. 한동안은 푹 쉬어도 좋겠군요. 일정 시간 후에 <NAVI>[강철 자경단]<INFO>harboro1,357,152,0,101,0</INFO></NAVI>을 찾아가서 의뢰를 받을 수 있습니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[12399] = {Title = "흉악 현상범 토벌", 
-Description = {"^ff0000푸르게 빛나는 눈의 장총을 든 소적단^000000 10마리를 처치해야합니다."}
-, Summary = "소적단 10마리 처치"}
+[12399] = {Title = "흉악 현상범 토벌", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[푸르게 빛나는 눈의 장총을 든 소적단]<INFO>E_COWRAIDERS1,0,0,3,-222,1</INFO></NAVI> 10마리를 처치해야합니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,152,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
+, Summary = "엘리트 소적단 10마리 처치"}
 , 
-[12400] = {Title = "흉악 현상범 토벌", 
-Description = {"^ff0000녹색 복면을 한 소적단^000000 10마리를 처치해야합니다."}
-, Summary = "소적단 10마리 처치"}
+[12400] = {Title = "흉악 현상범 토벌", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[녹색 복면을 한 소적단]<INFO>E_COWRAIDERS2,0,0,3,-222,1</INFO></NAVI> 10마리를 처치해야합니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,152,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
+, Summary = "엘리트 소적단 10마리 처치"}
 , 
-[12401] = {Title = "흉악 현상범 토벌", 
-Description = {"^ff0000옅은 초록색의 조끼를 입고 안대를 낀 소적단^000000 10마리를 처치해야합니다."}
-, Summary = "소적단 10마리 처치"}
+[12401] = {Title = "흉악 현상범 토벌", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[옅은 초록색의 조끼를 입고 안대를 낀 소적단]<INFO>E_COWRAIDERS3,0,0,3,-222,1</INFO></NAVI> 10마리를 처치해야합니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,152,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
+, Summary = "엘리트 소적단 10마리 처치"}
 , 
-[12402] = {Title = "위험 가스 제거", 
-Description = {"^ff0000가스터^000000 10마리를 처치해야합니다."}
+[12402] = {Title = "위험 가스 제거", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[가스터]<INFO>GASTER,0,0,3,-222,1</INFO></NAVI> 10마리를 처치해야합니다.", "처치 후 <NAVI>[강철 자경단]<INFO>harboro1,357,152,0,101,0</INFO></NAVI>에게 보고하면, 보상을 받을 수 있습니다."}
 , Summary = "가스터 10마리 처치"}
 , 
-[12403] = {Title = "락릿지의 노동자", 
+[12403] = {Title = "락 릿지의 노동자", 
 Description = {"신대륙 개척지의 물의 공급자가 되어야 합니다."}
 , Summary = "신대륙의 물을 지켜"}
 , 
-[12404] = {Title = "대기: 안 힘드세요?", 
-Description = {"락릿지 지하의 배관을 모두 정비했습니다. 당분간 담수 처리 시설에 별다른 문제는 없을 것입니다. 새벽 시간이 지난 후에 <NAVI>[담수시설 관리소장]<INFO>harboro1,334,135,0,101,0</INFO></NAVI>을 찾아가 시설엔 이상이 없는지 확인해봅시다."}
+[12404] = {Title = "대기: 안 힘드세요?", IconName = "ico_dq.bmp", 
+Description = {"락 릿지 지하의 배관을 모두 정비했습니다. 당분간 담수 처리 시설에 별다른 문제는 없을 것입니다. 새벽 시간이 지난 후에 <NAVI>[담수시설 관리소장]<INFO>harboro1,334,135,0,101,0</INFO></NAVI>을 찾아가 시설엔 이상이 없는지 확인해봅시다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[12405] = {Title = "붉은 배관 정비", 
-Description = {"붉은 배관에서 발생하는 누수현상을 정비해야합니다. 락릿지 지하에서 붉은색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"}
-, Summary = "락릿지 지하에서 붉은색으로 빛나는 장소를 찾으십시오."}
+[12405] = {Title = "붉은 배관 정비", IconName = "ico_dq.bmp", 
+Description = {"붉은 배관에서 발생하는 누수현상을 정비해야합니다. <NAVI>[락 릿지 지하]<INFO>harboro2,329,187,0,101,0</INFO></NAVI>에서 붉은색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"}
+, Summary = "락 릿지 지하에서 붉은색으로 빛나는 장소를 찾으십시오."}
 , 
-[12406] = {Title = "푸른 배관 정비", 
-Description = {"푸른 배관에서 발생하는 누수현상을 정비해야합니다. 락릿지 지하에서 푸른색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"}
-, Summary = "락릿지 지하에서 푸른색으로 빛나는 장소를 찾으십시오."}
+[12406] = {Title = "푸른 배관 정비", IconName = "ico_dq.bmp", 
+Description = {"푸른 배관에서 발생하는 누수현상을 정비해야합니다. <NAVI>[락 릿지 지하]<INFO>harboro2,329,187,0,101,0</INFO></NAVI>에서 푸른색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"}
+, Summary = "락 릿지 지하에서 푸른색으로 빛나는 장소를 찾으십시오."}
 , 
-[12407] = {Title = "노란 배관 정비", 
-Description = {"노란 배관에서 발생하는 누수현상을 정비해야합니다. 락릿지 지하에서 노란색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"}
-, Summary = "락릿지 지하에서 노란색으로 빛나는 장소를 찾으십시오."}
+[12407] = {Title = "노란 배관 정비", IconName = "ico_dq.bmp", 
+Description = {"노란 배관에서 발생하는 누수현상을 정비해야합니다. <NAVI>[락 릿지 지하]<INFO>harboro2,329,187,0,101,0</INFO></NAVI>에서 노란색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"}
+, Summary = "락 릿지 지하에서 노란색으로 빛나는 장소를 찾으십시오."}
 , 
-[12408] = {Title = "하얀 배관 정비", 
-Description = {"하얀 배관에서 발생하는 누수현상을 정비해야합니다. 락릿지 지하에서 하얀색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"}
-, Summary = "락릿지 지하에서 하얀색으로 빛나는 장소를 찾으십시오."}
+[12408] = {Title = "하얀 배관 정비", IconName = "ico_dq.bmp", 
+Description = {"하얀 배관에서 발생하는 누수현상을 정비해야합니다. <NAVI>[락 릿지 지하]<INFO>harboro2,329,187,0,101,0</INFO></NAVI>에서 하얀색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"}
+, Summary = "락 릿지 지하에서 하얀색으로 빛나는 장소를 찾으십시오."}
 , 
-[12409] = {Title = "배관정비 완료", 
-Description = {"배관정비를 모두 완료했습니다. 지상으로 돌아가 담수시설 관리소장과 이야기를 나누십시오"}
+[12409] = {Title = "배관정비 완료", IconName = "ico_dq.bmp", 
+Description = {"배관정비를 모두 완료했습니다. 지상으로 돌아가 <NAVI>[담수시설 관리소장]<INFO>harboro1,334,135,0,101,0</INFO></NAVI>과 이야기를 나누십시오"}
 , Summary = "지상으로 복귀"}
 , 
 [12410] = {Title = "거상과의 계약", 
 Description = {"거상과의 계약완료"}
 , Summary = "거상과의 계약완료"}
 , 
-[12411] = {Title = "대기: 내일 다시 거래합시다", 
+[12411] = {Title = "대기: 내일 다시 거래합시다", IconName = "ico_dq.bmp", 
 Description = {"오늘은 더 이상 거래를 받아주지 않을 것 같습니다. 내일 다시 <NAVI>[이국의 상인]<INFO>harboro1,231,254,0,101,0</INFO></NAVI>을 만나보죠."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
@@ -23916,7 +23968,7 @@ Description = {"찌든 <NAVI>[기름 때]<INFO>prt_cas,337,197,0,101,0</INFO></NAVI>�
 , Summary = "청소의 재료 구하기"}
 , 
 [14482] = {Title = "악마의 검은 때 정복", IconName = "ico_ep.bmp", 
-Description = {"<NAVI>[목표물]<INFO>prt_cas,309,215,0,101,0</INFO></NAVI>을 제거하기 위해서는 모래가루 1개와 레몬 1개가 필요합니다! 지금 당장 구해옵니다! 실시!"}
+Description = {"<NAVI>[목표물]<INFO>prt_cas,309,215,0,101,0</INFO></NAVI>을 제거하기 위해서는 고운 모래가루 1개와 레몬 1개가 필요합니다! 지금 당장 구해옵니다! 실시!"}
 , Summary = "청소의 재료 구하기"}
 , 
 [14483] = {Title = "청소 완료 보고", IconName = "ico_ep.bmp", 
@@ -24591,12 +24643,12 @@ Description = {"잘 마른 별로 축제에 참가한 사람들한테 기념품을 만들어 나눠 주고 
 Description = {"아직 기념품을 제작하는 중입니다. 새벽이 지난 후에 다시 찾아와 주세요."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[14672] = {Title = "불꽃 축제 준비", 
-Description = {"가스터를 잡으면, 맹독 가루랑 폭발 가루를 주거든? 맹독 가루 10개랑 폭발 가루 1개만 가져다 줘. 참! 가스터를 잡아서 수를 줄이는 것도 잊으면 안돼! 15마리 정도면 돼."}
+[14672] = {Title = "불꽃 축제 준비", IconName = "ico_dq.bmp", 
+Description = {"가스터를 잡으면, 맹독 가루랑 폭발 가루를 주거든? <ITEM>[맹독 가루]<INFO>25277</INFO></ITEM> 10개랑 <ITEM>[폭발 가루]<INFO>6213</INFO></ITEM> 1개만 가져다 줘. 참! <NAVI>[가스터]<INFO>GASTER,0,0,3,-222,1</INFO></NAVI>를 잡아서 수를 줄이는 것도 잊으면 안돼! 15마리 정도면 돼.", "-<NAVI>[데몬]<INFO>harboro2,164,80,0,101,0</INFO></NAVI>"}
 , Summary = "맹독 가루 10개, 폭발 가루 1개"}
 , 
-[14673] = {Title = "대기: 폭탄을 만드는 시간", 
-Description = {"가져다 준 걸로 밤새 만들 거야. 애송이는 푹 쉬었다가 새벽이 지나면 다시 찾아 와. 움직이기엔 그 때가 좋거든. - <NAVI>[데몬]<INFO>harboro2,164,80,0,101,0</INFO></NAVI>"}
+[14673] = {Title = "대기: 폭탄을 만드는 시간", IconName = "ico_dq.bmp", 
+Description = {"가져다 준 걸로 밤새 만들 거야. 애송이는 푹 쉬었다가 새벽이 지나면 다시 찾아 와. 움직이기엔 그 때가 좋거든.", "-<NAVI>[데몬]<INFO>harboro2,164,80,0,101,0</INFO></NAVI>"}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [14651] = {Title = "이혼 결정은 신중하게", 
@@ -26047,16 +26099,16 @@ Description = {"낙향단에 와 있는 의뢰를 모두 해결했다. 그런데 자몽 이베노루와 낙
 Description = {"시그리드는 선운학의 검사 결과를 해석하기 위해 시간이 필요하다고 한다. 하루 정도 기다린 뒤 다시 와 보자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[16078] = {Title = "가족의 평화", 
-Description = {"캑터론 씨는 아들을 위해서, 황야에서 잃어버린 주스 믹스 꾸러미를 5개 찾아다 달라고 한다. 마을 사람들이 피해를 입지 않도록 코요테도 30마리 사냥하고 오자."}
+[16078] = {Title = "가족의 평화", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[캑터론]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI> 씨는 아들을 위해서, 황야에서 잃어버린", "<ITEM>[주스 믹스 꾸러미]<INFO>25246</INFO></ITEM>를 5개 찾아다 달라고 한다. 마을 사람들이 피해를 입지 않도록 <NAVI>[코요테]<INFO>COYOTE,0,0,3,-222,1</INFO></NAVI>도 30마리 사냥하고 오자."}
 , Summary = "주스 믹스 꾸러미 5개 획득, 코요테 사냥"}
 , 
-[16079] = {Title = "대기: 코요테 사냥은 내일 다시", 
+[16079] = {Title = "대기: 코요테 사냥은 내일 다시", IconName = "ico_dq.bmp", 
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 키와와 사막의 <NAVI>[캑터론]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI> 씨를 통해 퀘스트 수주가 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
-[16080] = {Title = "또다시 코요테 사냥", 
-Description = {"마을 사람들이 피해를 입지 않도록 코요테를 30마리 사냥하고 캑터론 씨에게 돌아가 보고하자."}
+[16080] = {Title = "또다시 코요테 사냥", IconName = "ico_dq.bmp", 
+Description = {"마을 사람들이 피해를 입지 않도록 <NAVI>[코요테]<INFO>COYOTE,0,0,3,-222,1</INFO></NAVI>를 30마리 사냥하고 <NAVI>[캑터론]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI> 씨에게 돌아가 보고하자."}
 , Summary = "코요테 사냥"}
 , 
 [16081] = {Title = "주스 믹스 꾸러미 획득 실패", 
@@ -27960,6 +28012,18 @@ Description = {"뱀의 둥지, 바곳의 연구실 앞에서 기다리고 있는 <NAVI>[아로롱]<INF
 [16663] = {Title = "시뮬레이션 전투-대기", IconName = "ico_dq.bmp", 
 Description = {"시뮬레이션 융케아를 쓰러트렸다면, 하루 정도는 휴식을 취하자. 충분히 휴식을 취한 뒤에 뱀의 둥지, 바곳의 연구실 앞에서 기다리고 있는 <NAVI>[아로롱]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>에게 오면 다시 전투할 수 있다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16664] = {Title = "엘레나 볼코바, 그 위대한 불꽃 - 초독", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI>의 『엘레나 볼코바, 그 위대한 불꽃』을 최초로 읽기 시작했다. 전부 읽고 목차요정 잉크를 만나 보자."}
+, Summary = "환상총서 초독 완료"}
+, 
+[16665] = {Title = "엘레나 볼코바, 그 위대한 불꽃 - 대기", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI>의 『엘레나 볼코바, 그 위대한 불꽃』은 하루에 한 번만 읽을 수 있다. 다시 읽고 싶더라도 조금 더 기다리도록 하자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16666] = {Title = "엘레나 볼코바, 그 위대한 불꽃", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI>의 『엘레나 볼코바, 그 위대한 불꽃』을 읽기 시작했다. 전부 읽고 목차요정 잉크를 만나 보자."}
+, Summary = "환상총서 독서 완료"}
 , 
 [17000] = {Title = "대화 거부", IconName = "ico_ep.bmp", 
 Description = {"<NAVI>[레이지]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>씨는 더 이상 카야 토스 부사장과 대화 하기를 거부했다. 무슨 사연이 있는지 물어 보자."}
@@ -30311,6 +30375,18 @@ Description = {"초강력 더듬이를 지정된 장소에 모두 묻었다. 얼음의 성에 있는 <NAV
 Description = {"새벽이 지나면 배터리도 방전이 될 테니 그때 이곳, 얼음의 성으로 다시 와서 교체하면 되겠소. 오늘은 이만 쉬시오. - <NAVI>[호르르]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>"}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[17663] = {Title = "금수저 영애님은 조용히 살고싶다", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-001]<INFO>prt_elib,54,61,0,101,0</INFO></NAVI> \'금수저 영애님은 조용히 살고싶다\' 체험 중!"}
+, Summary = "VR 체험"}
+, 
+[17664] = {Title = "금수저 영애님은 조용히 살고싶다", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-001]<INFO>prt_elib,54,61,0,101,0</INFO></NAVI> \'금수저 영애님은 조용히 살고싶다\' 체험 중!"}
+, Summary = "VR 체험"}
+, 
+[17665] = {Title = "금수저 영애님은 조용히 살고싶다 - 대기", IconName = "ico_vr.bmp", 
+Description = {"새벽이 지나면 <NAVI>[환상총서-001]<INFO>prt_elib,51,61,0,101,0</INFO></NAVI> \'금수저 영애님은 조용히 살고싶다\' 재독이 가능하오니 다시 찾아주십시오."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
 [18000] = {Title = "진입 준비", IconName = "ico_ep.bmp", 
 Description = {"드디어 하수관의 잠금장치 해제에 성공한 리벨리온. 루키는 하수관으로 진입할 준비가 다 되면 다시 말을 걸어 달라고 했다."}
 , Summary = "루키와 대화"}
@@ -30878,6 +30954,106 @@ Description = {"뱀의 둥지에서 얼음 채취 담당인 <NAVI>[하나더사라간드]<INFO>jor_n
 [18144] = {Title = "안전한 노동을 위해-대기", IconName = "ico_dq.bmp", 
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 뱀의 둥지에서 <NAVI>[하나더사라간드]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[18145] = {Title = "어느 과학자의 탈출 기록-체험중", IconName = "ico_vr.bmp", 
+Description = {"환상총서 \"어느 과학자의 탈출 기록\"을 체험 중입니다. 안내를 받으려면 대여받은 도서를 활성화해 주세요. (활성 방법: 더클클릭)"}
+, Summary = ""}
+, 
+[18146] = {Title = "어느 과학자의 탈출 기록-1", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[챕터1-1]<INFO>hu_fild02,270,273,0,101,0</INFO></NAVI> 결정적인 순간에 연구실에 폭발을 일으킨 아이젠 베르너는 혼란을 틈타 도망쳤다. 리벨리온들이 작전을 위해 설치한 이동방지 효과 때문에 시설에서 멀어지는데 약간의 곤혹을 치르긴했지만, 아이템이 작동되는 순간 아이젠 베르너는 성공적으로 탈출할 수 있었다."}
+, Summary = "챕터1-1 읽기"}
+, 
+[18147] = {Title = "어느 과학자의 탈출 기록-2", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[챕터1-1]<INFO>hu_fild02,270,273,0,101,0</INFO></NAVI> \"이동은 안전이 확보되면 하도록 하지\" 아이젠 베르너는 무심하게 나비에게 명령했다. 나비가 근처의 노버스를 처리하는 동안 아이젠 베르너는 나무 근처에 안전히 숨어 있을 것이다."}
+, Summary = "안전을 확보하자"}
+, 
+[18148] = {Title = "어느 과학자의 탈출 기록-3", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[챕터1-2]<INFO>hu_fild04,307,379,0,101,0</INFO></NAVI> 나비를 활용해 주변의 노버스를 물리친 아이젠 베르너는 정해진 경로를 따라 이동하기 시작했다. 아이젠의 머리속에는 어서 휘겔에 도착해 따뜻한 휴식을 취하고 싶다는 생각뿐이었다."}
+, Summary = "챕터1-2 읽기"}
+, 
+[18149] = {Title = "어느 과학자의 탈출 기록-4", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[챕터1-2]<INFO>hu_fild04,307,379,0,101,0</INFO></NAVI> \"이 근처에서 요정풀을 찾아주면 안전한 지름길을 알려드리죠!\" 맹랑한 꼬마가 거래를 제시했다. 아이젠 베르너는 지체없이 나비에게 명령했다. \"나비, 설명에 부합하는 식물을 찾아라.\""}
+, Summary = "요정풀 찾기"}
+, 
+[18150] = {Title = "어느 과학자의 탈출 기록-5", IconName = "ico_vr.bmp", 
+Description = {"휘겔 주점 <NAVI>[챕터1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI> 아이젠 베르너는 따뜻한 식사가 그리웠다. \"여기에서 휴식을 취한뒤 비공정을 타야겠지. 아인브로크까지 가야하니까.\""}
+, Summary = "챕터1-3 읽기"}
+, 
+[18151] = {Title = "어느 과학자의 탈출 기록-6", IconName = "ico_vr.bmp", 
+Description = {"휘겔 주점 <NAVI>[챕터1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI> \"슬슬 움직여야겠지.\" 느긋하게 식사를 마치고 휴식을 취한 베르너는 혹시 모를 일을 대비해 나비에게 주변 정찰을 지시했다."}
+, Summary = "1층 정찰하기"}
+, 
+[18152] = {Title = "어느 과학자의 탈출 기록-7", IconName = "ico_vr.bmp", 
+Description = {"휘겔 주점 <NAVI>[챕터1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI> 주점의 1층엔 일단의 리벨리온들이 식사를 하고 있다. 간간히 도망친 과학자, 베르너 연구소의 주인. 인상착의에 대한 이야기가 들려온다. 충실한 비서 나비는 이 내용을 주인에게 전달하기 위해 이동했다."}
+, Summary = "아이젠에게 정찰결과 보고"}
+, 
+[18153] = {Title = "어느 과학자의 탈출 기록-8", IconName = "ico_vr.bmp", 
+Description = {"휘겔 여관 <NAVI>[챕터1-4]<INFO>hu_in01,321,20,0,101,0</INFO></NAVI> 아이젠 베르너는 여관방 침대에 걸터앉은채 생각에 잠겼다. 나비에 기록된 연구내용을 살펴봤지만 어쩌다 제가 이 꼴이 되었는지 영문을 알 수가 없었다."}
+, Summary = "챕터1-4 읽기"}
+, 
+[18154] = {Title = "어느 과학자의 탈출 기록-9", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[챕터2-1]<INFO>hu_fild04,64,363,0,101,0</INFO></NAVI> \"어쩔 수 없군. 어쩔 수 없다고.\" 아이젠 베르너는 세뇌하듯 중얼거리며 눈 앞의 산길을 바라보았다. \"빌어먹을 리벨리온 놈들.\" 비공정을 이용하지 못하게 된 원흉을 욕하며 휘적휘적 산길을 오르는 그의 발걸음은 무겁기 그지 없었다."}
+, Summary = "챕터2-1 읽기"}
+, 
+[18155] = {Title = "어느 과학자의 탈출 기록-10", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[챕터2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI> 찬 바람이 비수처럼 날아와 더운 몸에 꽂힌다. 오소소 돋는 소름을 손으로 쓸며 둘러본 산의 정상은 절경!일리가 없었다. 아이젠 베르너는 드물게 분노했다. \"나비!!!!\""}
+, Summary = "챕터2-2 읽기"}
+, 
+[18156] = {Title = "어느 과학자의 탈출 기록-11", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[챕터2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI> 지형 스캔이고 나발이고 아이젠 베르너는 더 움직일 기운이 없었다. 하고 싶지 않지만 야영이다. 이건 무조건 야영각이다. 아이젠 베르너는 자신에게 고생을 시킨 충실한 나비를 고생시키기로 했다. 나비는 야영지 주변의 몬스터를 쫓기 위해 분주히 움직여야 했다."}
+, Summary = "몬스터 퇴치 후 아이젠에게 보고"}
+, 
+[18157] = {Title = "어느 과학자의 탈출 기록-12", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[챕터2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI> 안전을 확보한 아이젠 베르너는 나비에 저장되어 있던 연구기록을 하나 둘 꺼내보았다. 어째서 시간역행을 연구하게 됐더라? 그러니까 그 아이가 그렇게 죽어가는게 보기 싫었을 뿐인데…"}
+, Summary = "안전한 모닥불 조작"}
+, 
+[18158] = {Title = "어느 과학자의 탈출 기록-13", IconName = "ico_vr.bmp", 
+Description = {"유노 필드 <NAVI>[챕터2-3]<INFO>yuno_fild06,41,321,0,101,0</INFO></NAVI> 지루한 산행과 험한 길이 이어지고 있다. 이미 몸이 만신창이가 된 듯 아이젠 베르너는 무거운 몸을 이끌고 겨우 걷고 있었다. 수중에 남은 것은 약간의 포션과 약초 뿐. 괜히 나비를 닦달해 본다."}
+, Summary = "챕터2-3 읽기"}
+, 
+[18159] = {Title = "어느 과학자의 탈출 기록-14", IconName = "ico_vr.bmp", 
+Description = {"유노 필드 <NAVI>[챕터2-4]<INFO>yuno_fild06,308,172,0,101,0</INFO></NAVI> 사람이다. 사람이 있다! 심지어 훌륭한 야영지마저 존재한다! 타인을 피해야 하는 도망자 신세임에도 불구하고 아이젠 베르너는 며칠만에 보는 사람그림자가 반가웠다."}
+, Summary = "챕터2-4 읽기"}
+, 
+[18160] = {Title = "어느 과학자의 탈출 기록-end", IconName = "ico_vr.bmp", 
+Description = {"어느 과학자의 탈출 기록을 모두 체험하셨습니다. 프론테라 동쪽 도서관으로 돌아가 \'어느 과학자의 탈출 기록\' <NAVI>[거치대]<INFO>prt_elib,59,60,0,101,0</INFO></NAVI>에 도서를 반납하고 목차요정 잉크에게서 완독 보상을 받으세요!"}
+, Summary = "도서관에서 도서 반납", NpcSpr = "4_VR_BOOK_BLUE", NpcNavi = "prt_elib", NpcPosX = 59, NpcPosY = 60}
+, 
+[18161] = {Title = "어느 과학자의 탈출 기록-대기", IconName = "ico_vr.bmp", 
+Description = {"환상총서 \'어느 과학자의 탈출 기록\'의 대여기록이 남아있습니다. 마력충전이 필요하므로 다시 체험하시려면 충전시간이 지난뒤 프론테라 동쪽 도서관에서 해당 도서 <NAVI>[거치대]<INFO>prt_elib,59,60,0,101,0</INFO></NAVI>를 이용해 주세요."}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_VR_BOOK_BLUE", NpcNavi = "prt_elib", NpcPosX = 59, NpcPosY = 60}
+, 
+[18162] = {Title = "어느 과학자의 탈출 기록 완독", IconName = "ico_vr.bmp", 
+Description = {"환상총서 \'어느 과학자의 탈출 기록\'을 1회 이상 완독하셨습니다!"}
+, Summary = ""}
+, 
+[18163] = {Title = "어느 과학자의 탈출 기록-2-1", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[체크포인트2-1]<INFO>hu_fild02,266,151,0,101,0</INFO></NAVI> 아무래도 나비가 자신을 속인 것 같다. 옅은 배신감이 아이젠 베르너의 등줄기를 스쳐갔지만 지금의 아이젠 베르너는 전적으로 나비를 믿을 수 밖에 없었다. \"기계가 배신이라니.. 과한 생각이군.\""}
+, Summary = "체크포인트 2-1 도달"}
+, 
+[18164] = {Title = "어느 과학자의 탈출 기록-9-1", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[체크포인트9-1]<INFO>hu_fild04,59,146,0,101,0</INFO></NAVI>주기적 산행이 건강에 좋다는 건 누구나 알고있다. 하지만 피로가 겹친 상태에서 개떼같이 달려드는 노버스 사이를 헤치며 숲 길을 걷는 건 미친짓이 아닐까?"}
+, Summary = "체크포인트 9-1 도달"}
+, 
+[18165] = {Title = "어느 과학자의 탈출 기록-9-2", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[체크포인트9-2]<INFO>hu_fild04,286,159,0,101,0</INFO></NAVI> 아이젠 베르너는 비탈길에서 발을 헛디뎌 구른 탓에 정강이가 까졌다. 치료 목적의 포션을 이런 자잘한 상처에 소모하고 싶지 않았던 아이젠 베르너는 어쩔 수 없이 현지에서 약초를 조달해보기로 했다. \"나비, 어떻게든 초록허브와 노란허브를 하나씩 구해 와.\""}
+, Summary = "체크포인트9-2에서 약초전달"}
+, 
+[18166] = {Title = "어느 과학자의 탈출 기록-9-3", IconName = "ico_vr.bmp", 
+Description = {"휘겔 필드 <NAVI>[체크포인트9-3]<INFO>hu_fild04,170,114,0,101,0</INFO></NAVI> 어비스 호수를 둘러싼 필드와 산에는 노버스가 많다. 아주 많다. 나비의 감지 시야에 저 멀리서 아이젠 베르너가 숨을 몰아쉬며 네 발로 산을 오르는 모습이 보인다. 영특한 AI비서인 나비는 주인님의 편안한 여정을 위해 노버스를 치워놓기로 했다."}
+, Summary = "체크포인트9-3까지 안전하게"}
+, 
+[18167] = {Title = "어느 과학자의 탈출 기록-13-1", IconName = "ico_vr.bmp", 
+Description = {"유노 필드 <NAVI>[체크포인트13-1]<INFO>yuno_fild06,126,334,0,101,0</INFO></NAVI> 조금만 더 가면 사람이 있다는 말에 힘내어 걸어보지만 엘메스 플레투의 슬리퍼들은 만만한 존재가 아니었다. 슬리퍼의 모래가루 탓인지 피곤에 쩔은 육신이 휴식을 외치는 탓인지 모르겠지만 아이젠 베르너는 무겁게 처지는 몸을 이끌고 나비의 안내를 따라 이동했다."}
+, Summary = "체크포인트13-1 도달"}
+, 
+[18168] = {Title = "어느 과학자의 탈출 기록-13-2", IconName = "ico_vr.bmp", 
+Description = {"유노 필드 <NAVI>[체크포인트13-2]<INFO>yuno_fild06,224,261,0,101,0</INFO></NAVI> 입 안이 바싹 마르고 굳은 다리를 질질 끌어야 했다. 흐릿한 시야 너머로 또 모래바람이 분다. 갑자기 치솟는 울분에 아이젠 베르너는 발에 걸리는걸 마구잡이로 차대다 기력이 빠져 나동그라졌다. \"주인님 전방에 슬리퍼가 나타났어요.\" 무미건조한 보고에 아이젠 베르너가 소리없는 비명을 지르며 분노에 차 신발을 벗어 던졌다."}
+, Summary = "체크포인트13-2까지 안전하게"}
+, 
+[18169] = {Title = "어느 과학자의 탈출 기록-13-3", IconName = "ico_vr.bmp", 
+Description = {"유노 필드 <NAVI>[체크포인트13-3]<INFO>yuno_fild06,301,255,0,101,0</INFO></NAVI> 아이젠 베르너가 집어던진 신발은 근처의 슬리퍼를 자극했고 나비가 슬리퍼를 상대하는 동안 기다시피 이동해야 했다. \"도대체 사람이 있다는 곳이 어디인 거야? 나비! 나비!!!!\""}
+, Summary = "체크포인트13-3까지 안전하게"}
 , 
 [19000] = {Title = "꽃이 피어난 대지", IconName = "ico_dq.bmp", 
 Description = {"낙원단 독점 의뢰입니다.", "<NAVI>[꽃이 피어난 대지]<INFO>ecl_fild01,182,93,0,101,0</INFO></NAVI>지역의 몬스터를 처치 후 상급의뢰 게시판에 보고해주세요.", "^FF0000※해당 지역에 입장하기 위한 조건이 있을 수 있습니다.^000000"}

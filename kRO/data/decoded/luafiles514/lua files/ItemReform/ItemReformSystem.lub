@@ -3787,6 +3787,438 @@ Material = {Armor_Stone_2 = 100, EP17_1_EVT02 = 300, EP17_1_EVT39 = 60}
 , ResultItem = "Clock_Casket_RD_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
 InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^FF0000-1^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
 }
+, 
+[644] = {BaseItem = "Viva_Adul_Hat_WL1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_WL1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[645] = {BaseItem = "Viva_Adul_Hat_WL2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_WL2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[646] = {BaseItem = "Viva_Adul_Hat_SR1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SR1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[647] = {BaseItem = "Viva_Adul_Hat_SR2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SR2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[648] = {BaseItem = "Viva_Adul_Hat_AB1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_AB1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[649] = {BaseItem = "Viva_Adul_Hat_AB2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_AB2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[650] = {BaseItem = "Viva_Adul_Hat_SC1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SC1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[651] = {BaseItem = "Viva_Adul_Hat_SC2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SC2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[652] = {BaseItem = "Viva_Adul_Hat_RA1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_RA1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[653] = {BaseItem = "Viva_Adul_Hat_RA2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_RA2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[654] = {BaseItem = "Viva_Adul_Hat_LG1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_LG1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[655] = {BaseItem = "Viva_Adul_Hat_LG2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_LG2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[656] = {BaseItem = "Viva_Adul_Hat_GC1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_GC1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[657] = {BaseItem = "Viva_Adul_Hat_GC2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_GC2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[658] = {BaseItem = "Viva_Adul_Hat_SO1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SO1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[659] = {BaseItem = "Viva_Adul_Hat_SO2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SO2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[660] = {BaseItem = "Viva_Adul_Hat_RK1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_RK1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[661] = {BaseItem = "Viva_Adul_Hat_RK2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_RK2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[662] = {BaseItem = "Viva_Adul_Hat_WM1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_WM1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[663] = {BaseItem = "Viva_Adul_Hat_WM2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_WM2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[664] = {BaseItem = "Viva_Adul_Hat_NC1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_NC1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[665] = {BaseItem = "Viva_Adul_Hat_NC2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_NC2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[666] = {BaseItem = "Viva_Adul_Hat_GN1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_GN1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[667] = {BaseItem = "Viva_Adul_Hat_GN2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_GN2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[668] = {BaseItem = "Viva_Adul_Hat_KO1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_KO1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[669] = {BaseItem = "Viva_Adul_Hat_KO2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_KO2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[670] = {BaseItem = "Viva_Adul_Hat_RL1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_RL1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[671] = {BaseItem = "Viva_Adul_Hat_RL2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_RL2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[672] = {BaseItem = "Viva_Adul_Hat_SP1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SP1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[673] = {BaseItem = "Viva_Adul_Hat_SP2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SP2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[674] = {BaseItem = "Viva_Adul_Hat_SJ1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SJ1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[675] = {BaseItem = "Viva_Adul_Hat_SJ2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SJ2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[676] = {BaseItem = "Viva_Adul_Hat_SU1", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SU1", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[677] = {BaseItem = "Viva_Adul_Hat_SU2", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Viva_Adul_Hat_SU2", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[678] = {BaseItem = "Precision_Bow", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Bow", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[679] = {BaseItem = "Precision_Fist", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Fist", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[680] = {BaseItem = "Precision_Fuuma", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Fuuma", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[681] = {BaseItem = "Precision_Gatling", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Gatling", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[682] = {BaseItem = "Precision_Grenade", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Grenade", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[683] = {BaseItem = "Precision_Lute", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Lute", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[684] = {BaseItem = "Precision_Pistol", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Pistol", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[685] = {BaseItem = "Precision_Rifle", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Rifle", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[686] = {BaseItem = "Precision_Shotgun", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Shotgun", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[687] = {BaseItem = "Precision_Whip", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Precision_Whip", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[688] = {BaseItem = "Solid_Claymore", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Solid_Claymore", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[689] = {BaseItem = "Solid_Dagger", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Solid_Dagger", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[690] = {BaseItem = "Solid_Edge", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Solid_Edge", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[691] = {BaseItem = "Solid_Manual", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Solid_Manual", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[692] = {BaseItem = "Solid_Rod", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Solid_Rod", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[693] = {BaseItem = "Solid_Spear", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Solid_Spear", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[694] = {BaseItem = "Solid_Staff", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Solid_Staff", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[695] = {BaseItem = "Solid_Wand", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Solid_Wand", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[696] = {BaseItem = "Wicked_Axe", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Wicked_Axe", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[697] = {BaseItem = "Wicked_Blade", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Wicked_Blade", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[698] = {BaseItem = "Wicked_Book", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Wicked_Book", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[699] = {BaseItem = "Wicked_Cross", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Wicked_Cross", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[700] = {BaseItem = "Wicked_Dagger", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Wicked_Dagger", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[701] = {BaseItem = "Wicked_Edge", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Wicked_Edge", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[702] = {BaseItem = "Wicked_Katar", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Wicked_Katar", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[703] = {BaseItem = "Wicked_Plant", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Wicked_Plant", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[704] = {BaseItem = "Freedom_Stick_LT", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[705] = {BaseItem = "Blessed_Knife_LT", 
+Material = {["대장장이의축복"] = 14}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[706] = {BaseItem = "Up_Freedom_Stick", 
+Material = {}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[707] = {BaseItem = "Up_Blessed_Knife", 
+Material = {}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[708] = {BaseItem = "Up_Freedom_Stick", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^FF0000-5^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
+}
+, 
+[709] = {BaseItem = "Up_Blessed_Knife", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^FF0000-5^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
+}
+, 
+[710] = {BaseItem = "Up_Freedom_Stick", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^FF0000-1^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
+}
+, 
+[711] = {BaseItem = "Up_Blessed_Knife", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^FF0000-1^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
+}
+, 
+[712] = {BaseItem = "Up_Freedom_Stick", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
+}
+, 
+[713] = {BaseItem = "Up_Blessed_Knife", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
+}
+, 
+[714] = {BaseItem = "Freedom_Stick", 
+Material = {}
+, ResultItem = "Up_Freedom_Stick", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -2, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^FF0000-2^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
+}
+, 
+[715] = {BaseItem = "Blessed_Knife", 
+Material = {}
+, ResultItem = "Up_Blessed_Knife", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -2, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^FF0000-2^000000", "2) 랜덤 옵션 정보 : 이전됨", "3) 카드 및 인챈트 정보 : 이전됨", "4) 등급 정보 : 이전됨"}
+}
 }
 ReformItemList = {
 IDTest_Special = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
@@ -3807,13 +4239,13 @@ C_Armor_Reform_2 = {104, 106, 108, 110, 179, 180, 181, 182, 183, 184, 248, 286, 
 , 
 C_Armor_Reform_3 = {185}
 , 
-C_Weapon_Reform_1 = {111, 112, 113, 114, 115, 116, 186, 187, 188, 189, 190, 191, 257, 258, 259, 260, 270, 271, 272, 273, 274, 298, 299, 300, 301, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463}
+C_Weapon_Reform_1 = {111, 112, 113, 114, 115, 116, 186, 187, 188, 189, 190, 191, 257, 258, 259, 260, 270, 271, 272, 273, 274, 298, 299, 300, 301, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 708, 709}
 , 
-C_Weapon_Reform_2 = {117, 118, 119, 120, 121, 122, 192, 193, 194, 195, 196, 197, 261, 262, 263, 264, 275, 276, 277, 278, 279, 302, 303, 304, 305, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473}
+C_Weapon_Reform_2 = {117, 118, 119, 120, 121, 122, 192, 193, 194, 195, 196, 197, 261, 262, 263, 264, 275, 276, 277, 278, 279, 302, 303, 304, 305, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 710, 711}
 , 
-C_Weapon_Reform_3 = {123, 124, 125, 126, 127, 128, 198, 199, 200, 201, 202, 203, 265, 266, 267, 268, 280, 281, 282, 283, 284, 306, 307, 308, 309, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483}
+C_Weapon_Reform_3 = {123, 124, 125, 126, 127, 128, 198, 199, 200, 201, 202, 203, 265, 266, 267, 268, 280, 281, 282, 283, 284, 306, 307, 308, 309, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 712, 713}
 , 
-Hero_Equipment_Cube = {129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164}
+Hero_Equipment_Cube = {129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 714, 715}
 , 
 Shadow_Changer_W_Shi = {171, 172}
 , 
@@ -3845,9 +4277,9 @@ Vivatus_Weapon_Hammer = {318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 
 , 
 Adulter_Weapon_Up_Box = {344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 433}
 , 
-Hero_Weapon_Up_Box_6 = {434, 435, 436, 437, 438, 439, 440, 441, 442, 443}
+Hero_Weapon_Up_Box_6 = {434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 706, 707}
 , 
-Hero_Weapon_Hammer_6 = {444, 445, 446, 447, 448, 449, 450, 451, 452, 453}
+Hero_Weapon_Hammer_6 = {444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 704, 705}
 , 
 Shadow_Changer_NPC = {484, 485, 486, 487, 488, 489, 490, 491, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 589, 590}
 , 
@@ -3862,5 +4294,9 @@ OS_Weapon_Reform = {591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 
 OS_Helm_Hammer = {607, 608, 609, 610, 611, 612, 613}
 , 
 OS_Weapon_Hammer = {614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629}
+, 
+Helm_Of_Faith_Hammer = {644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677}
+, 
+Clock_Tower_W_Hammer = {678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703}
 }
 

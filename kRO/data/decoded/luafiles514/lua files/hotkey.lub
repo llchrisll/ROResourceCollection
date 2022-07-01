@@ -646,4 +646,14 @@ ClearUserHotKeys = function(saveFileName)
   (io.close)(saveFile)
 end
 
+IsBeHaviorOfWindow = function(in_HKID)
+  -- function num : 0_15
+  for WINID,HKID in pairs(BEHAVIOR_TO_WINDOWID) do
+    if HKID + 100 == in_HKID then
+      return true
+    end
+  end
+  return false
+end
+
 

@@ -6,7 +6,7 @@
 MapSkyData = {
 ["1@exhn.rsw"] = {
 BG_Color = {18, 18, 30}
-, Star_Effect = false, 
+, Star_Effect = false, BG_Fog = true, 
 Cloud_Effect = {
 [1] = {Num = 1000, CullDist = 400, 
 Color = {15, 15, 64}
@@ -20,7 +20,7 @@ Color = {30, 30, 80}
 , 
 ["1@exds.rsw"] = {
 BG_Color = {153, 204, 255}
-, Star_Effect = false, 
+, Star_Effect = false, BG_Fog = true, 
 Cloud_Effect = {
 [1] = {Num = 500, CullDist = 200, 
 Color = {255, 255, 255}
@@ -30,7 +30,7 @@ Color = {255, 255, 255}
 , 
 ["2@exds.rsw"] = {
 BG_Color = {18, 18, 30}
-, Star_Effect = false, 
+, Star_Effect = false, BG_Fog = true, 
 Cloud_Effect = {
 [1] = {Num = 400, CullDist = 400, 
 Color = {60, 60, 75}
@@ -443,6 +443,14 @@ GetCloudInfo = function(mapName, id)
     return nil
   end
   return CloudEffect.Num, CloudEffect.CullDist, (CloudEffect.Color)[1], (CloudEffect.Color)[2], (CloudEffect.Color)[3], CloudEffect.Size, CloudEffect.Size_Extra, CloudEffect.Expand_Rate, CloudEffect.Alpha_Inc_Time, CloudEffect.Alpha_Dec_Time_Extra, CloudEffect.Alpha_Inc_Speed, CloudEffect.Alpha_Dec_Time, CloudEffect.Alpha_Dec_Time_Extra, CloudEffect.Alpha_Dec_Speed, CloudEffect.Height, CloudEffect.Height_Extra
+end
+
+IsBackGroundFog = function(mapName)
+  -- function num : 0_7
+  if (MapSkyData[mapName]).BG_Fog == nil then
+    return false
+  end
+  return (MapSkyData[mapName]).BG_Fog
 end
 
 

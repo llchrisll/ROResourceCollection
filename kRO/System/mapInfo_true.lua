@@ -4,6 +4,22 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["prt_elib.rsw"] = {displayName = "프론테라 동쪽 도서관", notifyEnter = true, 
+signName = {subTitle = "프론테라 동쪽 도서관"}
+, backgroundBmp = "village_s1"}
+, 
+["1@vrcas.rsw"] = {displayName = "환상총서-릴리움 궁", notifyEnter = true, 
+signName = {subTitle = "환상총서-001", mainTitle = "릴리움 궁"}
+, backgroundBmp = "village"}
+, 
+["1@vrev.rsw"] = {displayName = "환상총서-아미키티아 비밀 실험실", notifyEnter = true, 
+signName = {subTitle = "환상총서-003", mainTitle = "아미키티아 비밀 실험실"}
+, backgroundBmp = "dungeon"}
+, 
+["1@vrgen.rsw"] = {displayName = "환상총서-제네릭 연구소", notifyEnter = true, 
+signName = {subTitle = "환상총서-004", mainTitle = "제네릭 연구소"}
+, backgroundBmp = "noname"}
+, 
 ["icecastle.rsw"] = {displayName = "이스가르드 얼음의 성", notifyEnter = true, 
 signName = {subTitle = "이스가르드", mainTitle = "얼음의 성"}
 , backgroundBmp = "village"}

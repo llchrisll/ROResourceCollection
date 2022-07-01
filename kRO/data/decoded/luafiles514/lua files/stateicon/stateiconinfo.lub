@@ -1169,7 +1169,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"모든 스테이터스 증가"}
+{"모든 기본 스테이터스 증가"}
 , 
 {"명중률, 데미지, 크리티컬 증가"}
 }
@@ -1818,7 +1818,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"스테이터스 가중치 조정"}
+{"기본 스테이터스 가중치 조정"}
 }
 }
 -- DECOMPILER ERROR at PC3633: Confused about usage of register: R0 in 'UnsetPending'
@@ -2188,7 +2188,7 @@ descript = {
 , 
 {"대상 플레이어에게"}
 , 
-{"스테이터스를 넘긴 상태"}
+{"기본 스테이터스를 넘긴 상태"}
 }
 }
 -- DECOMPILER ERROR at PC4415: Confused about usage of register: R0 in 'UnsetPending'
@@ -2201,7 +2201,7 @@ descript = {
 , 
 {"시전 플레이어에게"}
 , 
-{"스테이터스를 받은 상태"}
+{"기본 스테이터스를 받은 상태"}
 }
 }
 -- DECOMPILER ERROR at PC4442: Confused about usage of register: R0 in 'UnsetPending'
@@ -2416,7 +2416,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"스탯에 따른 마법 회피율 적용"}
+{"기본 스테이터스에 따른 마법 회피율 적용"}
 , 
 {"방어력 상승"}
 }
@@ -2661,7 +2661,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"All Status 가중치 감소"}
+{"모든 기본 스테이터스 가중치 감소"}
 , 
 {"이동속도 감소"}
 , 
@@ -3234,7 +3234,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"모든 스테이터스 증가"}
+{"모든 기본 스테이터스 증가"}
 , 
 {"ATK, MATK 증가"}
 }
@@ -3947,7 +3947,7 @@ descript = {
 , 
 {"이동속도 증가"}
 , 
-{"All State 증가"}
+{"모든 기본 스테이터스 증가"}
 , 
 {"%s", COLOR_TIME}
 }
@@ -4030,7 +4030,7 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF5] = {haveTimeLimit = 1, posTimeLimitStr 
 descript = {
 {"아랑의 천진난만함", COLOR_TITLE_BUFF}
 , 
-{"스킬 후딜레이 감소"}
+{"글로벌 쿨타임 감소"}
 , 
 {"%s", COLOR_TIME}
 }
@@ -4274,7 +4274,7 @@ StateIconList[EFST_IDs.EFST_ZONGZI_POUCH_TRANS] = {haveTimeLimit = 1, posTimeLim
 descript = {
 {"단오절 축제", COLOR_TITLE_BUFF}
 , 
-{"모든 스테이터스 증가."}
+{"모든 기본 스테이터스 증가."}
 , 
 {"%s", COLOR_TIME}
 }
@@ -4485,7 +4485,7 @@ StateIconList[EFST_IDs.EFST_JUMPINGCLAN] = {
 descript = {
 {"점핑 클랜", COLOR_TITLE_BUFF}
 , 
-{"All State + 1."}
+{"모든 기본 스테이터스 + 1."}
 }
 }
 -- DECOMPILER ERROR at PC9197: Confused about usage of register: R0 in 'UnsetPending'
@@ -5357,11 +5357,11 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_KIEL_CARD] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"스킬 후딜레이 감소", COLOR_TITLE_BUFF}
+{"글로벌 쿨타임 감소", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"스킬 후 딜레이 -15%"}
+{"글로벌 쿨타임 -15%"}
 }
 }
 -- DECOMPILER ERROR at PC11107: Confused about usage of register: R0 in 'UnsetPending'
@@ -5517,7 +5517,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"모든 스테이터스 3만큼 증가"}
+{"모든 기본 스테이터스 3만큼 증가"}
 }
 }
 -- DECOMPILER ERROR at PC11458: Confused about usage of register: R0 in 'UnsetPending'
@@ -5739,7 +5739,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"모든 스테이터스 증가"}
+{"모든 기본 스테이터스 증가"}
 , 
 {"우주 계열 스킬 사용 가능"}
 , 
@@ -5916,7 +5916,7 @@ StateIconList[EFST_IDs.EFST_SOULDIVISION] = {
 descript = {
 {"영혼 분열", COLOR_TITLE_DEBUFF}
 , 
-{"스킬 후 딜레이 증가"}
+{"글로벌 쿨타임 증가"}
 }
 }
 -- DECOMPILER ERROR at PC12263: Confused about usage of register: R0 in 'UnsetPending'
@@ -5992,11 +5992,11 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_ALL_STAT_DOWN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"올 스텟 감소", COLOR_TITLE_DEBUFF}
+{"모든 기본 스테이터스 감소", COLOR_TITLE_DEBUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"모든 스테이터스 감소."}
+{"모든 기본 스테이터스 감소."}
 }
 }
 -- DECOMPILER ERROR at PC12422: Confused about usage of register: R0 in 'UnsetPending'
@@ -6176,7 +6176,7 @@ descript = {
 , 
 {"파티원의 변동 캐스팅 감소."}
 , 
-{"스킬 후 딜레이 감소."}
+{"글로벌 쿨타임 감소."}
 }
 }
 -- DECOMPILER ERROR at PC12800: Confused about usage of register: R0 in 'UnsetPending'
@@ -6274,7 +6274,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"힘세고 강한 연기", COLOR_TITLE_BUFF}
+{"이벤트 강력해져라!", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6285,7 +6285,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"지혜롭고 강한 연기", COLOR_TITLE_BUFF}
+{"이벤트 똑똑해져라!", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6320,7 +6320,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"날카롭고 강한 연기", COLOR_TITLE_BUFF}
+{"이벤트 날렵해져라!", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -7621,7 +7621,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"명중률, 스테이터스 상승"}
+{"명중률, 기본 스테이터스 상승"}
 , 
 {"공격력, 마법공격력, MHP 증가"}
 , 
@@ -7971,7 +7971,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"변동 캐스팅, 스킬 후 딜레이 감소"}
+{"변동 캐스팅, 글로벌 쿨타임 감소"}
 , 
 {"공격속도 증가(공격 후 딜레이 감소)"}
 }
@@ -8636,6 +8636,135 @@ descript = {
 {"%s", COLOR_TIME}
 , 
 {"악몽 표식"}
+}
+}
+-- DECOMPILER ERROR at PC17957: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_SPEED] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"이동속도 증가", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"이동속도 증가"}
+}
+}
+-- DECOMPILER ERROR at PC17981: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_ASPD] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"공격속도 증가", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"공격속도 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18005: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_MHP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"MHP 증가", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MHP 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18029: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_MSP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"MSP 증가", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MSP 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18053: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_HIT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"HIT 증가", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"HIT 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18077: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_DEF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"DEF 증가", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"DEF 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18101: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_MDEF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"MDEF 증가", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MDEF 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18131: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK001] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"INT + 5"}
+, 
+{"FLEE + 30"}
+, 
+{"이동속도 증가 버프 부여"}
+}
+}
+-- DECOMPILER ERROR at PC18161: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK002] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MHP + 10%"}
+, 
+{"MSP + 5%"}
+, 
+{"노란허브의 회복력 500% 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18185: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK003] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"원거리 물리 데미지 10% 증가."}
+}
+}
+-- DECOMPILER ERROR at PC18209: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK004] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"캐스팅이 끊기지 않는다."}
 }
 }
 
