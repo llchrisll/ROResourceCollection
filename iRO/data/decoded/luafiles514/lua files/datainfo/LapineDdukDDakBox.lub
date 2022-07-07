@@ -230,6 +230,22 @@ SourceItems = {
 {"S_Gemstone_Weapon", 1, 24087}
 }
 , NeedSource_String = "Gemstone Shadow"}
+, 
+PerfectSize_Mix = {ItemID = 100010, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 9, 
+SourceItems = {
+{"S_Big_Weapon", 1, 24075}
+, 
+{"S_Medium_Weapon", 1, 24076}
+, 
+{"S_Small_Weapon", 1, 24077}
+, 
+{"S_Big_Armor", 1, 24072}
+, 
+{"S_Medium_Armor", 1, 24073}
+, 
+{"S_Small_Armor", 1, 24074}
+}
+, NeedSource_String = "+7 Size Shadow"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

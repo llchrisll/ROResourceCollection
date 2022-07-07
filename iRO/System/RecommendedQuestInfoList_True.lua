@@ -13,6 +13,22 @@ QuestInfo2 = {"W*E*L*C*O*M*E NOVI$!!", "Free%%Support%%B@ng!!B@ng!!", "&*Quick J
 QuestInfo3 = {"^ff0000¡Ø This page is an update introduction, not a quest. Please note that it won\'t be deleted even after completing the quest.^000000"}
 }
 , 
+[2] = {Title = "Star Emperor Job Change", IconName = "ico_jq.bmp", Summary = "The Sun, the moon, and... the stars", BgName = "reco_02.bmp", 
+QuestInfo1 = {"The one who sees through the universe!", "The Star Emperor class is now available in game.", "Talk to the <NAVI>[Man in Star Emperor Uniform]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI>. Ask him how to get to the Meteor Forest and listen to his story about the Star Emperors. Learn about the powers of the sun, the moon, and the stars, and feel the power of the universe."}
+, 
+QuestInfo2 = {"Job Change Conditions", "Taekwon Master", "Lv. 99/JLv. 50"}
+, 
+QuestInfo3 = {"^ff0000¡Ø This page is not the actual Quest page but an introduction to it. It won\'t be deleted, even if you complete the quest.^000000"}
+}
+, 
+[3] = {Title = "Soul Reaper Job Change", IconName = "ico_jq.bmp", Summary = "The one who harvests souls", BgName = "reco_03.bmp", 
+QuestInfo1 = {"The Soul Reaper class is now available in game.", "Meet the <NAVI>troubled [Banyak]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI>. Help him solve his problems and walk the path of the Soul Reaper.", "Not everyone can harvest souls."}
+, 
+QuestInfo2 = {"Job Change Conditions", "Soul Linker", "Lv. 99/JLv. 50"}
+, 
+QuestInfo3 = {"^ff0000¡Ø This page is not the actual Quest page but an introduction to it. It won\'t be deleted, even if you complete the quest.^000000"}
+}
+, 
 [96] = {Title = "Episode 17.1 Illusion", IconName = "ico_ep.bmp", Summary = "A full- scale operation begins.", NpcSpr = "4_M_PHILOFONTES", NpcNavi = "pub_cat", NpcPosX = 93, NpcPosY = 105, BgName = "reco_96.bmp", 
 QuestInfo1 = {"The stage of the Episode is moved to Schwaltzvalt!", "A full-fledged joint operation begins with the Rebelion and the Secret Wings.", "Rebellion, which also established an operational base in Einbroch, will target secret research facilities found with information brought by Secret Wings..."}
 , 

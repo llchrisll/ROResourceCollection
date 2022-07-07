@@ -35,4 +35,14 @@ ReqRobSprName_V2 = function(index, in_bResEnglishName)
   end
 end
 
+IsTopLayer = function(RobeID)
+  -- function num : 0_2
+  for i,v in ipairs(RobeTopLayer) do
+    if v == RobeID then
+      return true
+    end
+  end
+  return false
+end
+
 

@@ -2422,3 +2422,9 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 1@pop1.gat#1@pop1.gat#
 1@pop1.rsw#1@pop1.rsw#
 유저인터페이스\map\1@pop1.bmp#유저인터페이스\map\1@pop1.bmp#
+
+//초혼대법
+1@soul.gnd#1@soul.gnd#
+1@soul.gat#1@soul.gat#
+1@soul.rsw#1@soul.rsw#
+유저인터페이스\map\1@soul.bmp#유저인터페이스\map\1@soul.bmp#

@@ -1155,3 +1155,7 @@ tur_d04_i.rsw#bgm\\65.mp3#
 
 //글레스트 헤임 어비스
 gl_cas01_.rsw#bgm\\43.mp3#
+
+star_frst.rsw#bgm\\14.mp3#
+star_in.rsw#bgm\\14.mp3#
+1@soul.rsw#bgm\\40.mp3#

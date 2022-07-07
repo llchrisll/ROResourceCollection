@@ -27752,5 +27752,225 @@ Description = {"Let\'s deliver the lost book to Lonely Novice in Prontera."}
 [8526] = {Title = "Gift King Strawberry", 
 Description = {"I received King Strawberry Costume instead of a signature."}
 , Summary = ""}
+, 
+[7998] = {Title = "Last Peace to You", 
+Description = {"Pray that the last surviving knight would walk the path"}
+, Summary = "to glory."}
+, 
+[7999] = {Title = "Central Room\'s \'\'Return\'\'", 
+Description = {"I might have to reinvestigate the core of the Central Room equipped with a partial \'\'return\'\' system."}
+, Summary = "Reset at 4:00 a.m."}
+, 
+[11573] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Nalson told me how to get to the Meteor Forest.", "Follow the narrow path on the north side of Mjolnir to the Meteor Forest."}
+, Summary = "To the Meteor Forest"}
+, 
+[11574] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"I can fill out an application in the teahouse.", "Move to the teahouse."}
+, Summary = "To the Teahouse"}
+, 
+[11575] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Chosung left with Rancis following closely behind.", "Go outside and talk to Chosung."}
+, Summary = "Outside the Teahouse"}
+, 
+[11576] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Chosung left in a hurry, leaving Rancis to give me my tour around the Meteor Forest.", "Talk to Rancis and learn about the Meteor Forest."}
+, Summary = "Talk to Rancis."}
+, 
+[11577] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Take a look around the Meteor Forest, following Rancis\'s guidance."}
+, Summary = "Talk to Rancis."}
+, 
+[11578] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Rancis has discovered something while showing me around the Meteor Forest.", "Follow her."}
+, Summary = "Talk to Eunha."}
+, 
+[11579] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Eunha asked me to hunt 10 Minerals for my training.", "Go hunt 10 Minerals in Einbroch Mine Dungeon 2F."}
+, Summary = "Hunt 10 Minerals."}
+, 
+[11580] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Surprised that I actually hunted Minerals, Eunha suggested I should go train with Ilgwang instead."}
+, Summary = "Talk to Ilgwang."}
+, 
+[11581] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Ilgwang, instead of teaching me how to train, suggested I hunt Nine Tails for Chosung.", "Hunt 50 Nine Tails in Payon Dungeon 3F or deeper, and then go to Chosung."}
+, Summary = "Hunt 50 Nine Tails."}
+, 
+[11582] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Infuriated by Eunha\'s laziness, Chosung asked me to tell Eunha that he wants to see him in Ilgwang\'s room."}
+, Summary = "Talk to Eunha."}
+, 
+[11583] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Grumbling, Eunha asked me to come with him to Ilgwang\'s room."}
+, Summary = "To Ilgwang\'s room"}
+, 
+[11584] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Ilgwang said Master Chosi is at the foot of the mountain.", "Go down the mountain and meet Master Chosi."}
+, Summary = "Talk to Chosi."}
+, 
+[11585] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
+Description = {"Chosi said he\'s planning to pass down his position as master to Ilgwang, Chosung, and Eunha. He wants me to go back to the Meteor Forest and pick which of his students I want to grow with."}
+, Summary = "Talk to Ilgwang, Chosung, or Eunha."}
+, 
+[12442] = {Title = "Path of the Soul Reaper 1", 
+Description = {"Listen to Banyak, who\'s surrounded by some tavern workers."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12443] = {Title = "Path of the Soul Reaper 2", 
+Description = {"If I see Banyak again, I should talk to him. He\'s been dragged to a <NAVI>[tavern]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> somewhere in Payon."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12444] = {Title = "Path of the Soul Reaper 3", 
+Description = {"Look for the thief who stole Banyak\'s bag. He might have accomplices around the tavern."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12445] = {Title = "Path of the Soul Reaper 4", 
+Description = {"Talk to <NAVI>[Banyak]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> about the identities of thieves who stole his bag."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12446] = {Title = "Path of the Soul Reaper 5", 
+Description = {"Interrogate Jumagi with Banyak and the Girl to identify the thieves who stole Banyak\'s bag."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12447] = {Title = "Path of the Soul Reaper 6", 
+Description = {"Reunite with <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> in Northern Payon."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12448] = {Title = "Path of the Soul Reaper 7", 
+Description = {"Collect 44 <ITEM>[Fox Tails]<INFO>1022</INFO></ITEM> for the ritual and bring them to the <NAVI>[Cat]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>. "}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12449] = {Title = "Path of the Soul Reaper 8", 
+Description = {"Meet <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> and listen to the story behind the soul-calling ritual."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12450] = {Title = "Path of the Soul Reaper 9", 
+Description = {"Enter Banyak\'s spiritual world through the soul-calling ritual and save her brother."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[12451] = {Title = "Path of the Soul Reaper - Finale", 
+Description = {"Talk to <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> and decide if you want to walk to the path of the Soul Reaper."}
+, Summary = "Path of the Soul Reaper"}
+, 
+[8577] = {Title = "Will grind a melon for you.", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Lavender]<INFO>geffen,88,35,0,101,0</INFO></NAVI> is saying that she would make Sweet Melon Juice for you. Let\'s bring 10 Sweet Melons to her. Melons can be obtained from Dalcoms."}
+, Summary = "Deliver 10 Sweet Melons"}
+, 
+[8578] = {Title = "Present for parents", IconName = "ico_ev.bmp", 
+Description = {"Lavender is asking to deliver a present to her <NAVI>[Parents]<INFO>hugel,218,228,0,101,0</INFO></NAVI>."}
+, Summary = "Delivery to Lilliu"}
+, 
+[8579] = {Title = "Present to a daughter", IconName = "ico_ev.bmp", 
+Description = {"Lilyu is implementing a new menu for his daughter who is in charge of Melon Festival. Let\'s deliver to <NAVI>[Lavender]<INFO>geffen,88,35,0,101,0</INFO></NAVI>."}
+, Summary = "Speak to Lavender"}
+, 
+[8580] = {Title = "Delicious Sour Melon", IconName = "ico_ev.bmp", 
+Description = {"Lavender\'s Cousin, <NAVI>[Dilpore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> is asking for assistance with gathering melons. Sour Melons can be obtained from Saecoms."}
+, Summary = "Deliver 10 Sour Melons"}
+, 
+[8581] = {Title = "Delicious Sour Melon - Hold", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> asked me to help him again tomorrow."}
+, Summary = "Resets at 4am"}
+, 
+[8582] = {Title = "Analysis on Saecom", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> in Geffen is asking for assistance with gathering melons for his research. Sour Melons can be obtained from Saecoms."}
+, Summary = "Deliver 10 Sour Melons"}
+, 
+[8583] = {Title = "Analysis on Saecom - Hold", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> asked me to help him again tomorrow."}
+, Summary = "Resets at 4am"}
+, 
+[8584] = {Title = "Melon Festival Celebration Hat (1)", 
+Description = {"Lavender\'s Cousin, <NAVI>[Nannavi]<INFO>geffen,106,63,0,101,0</INFO></NAVI> is collecting Dalcom Skins. As Lavender said, I think I can make a special hat."}
+, Summary = "Speak to Nannavi"}
+, 
+[8585] = {Title = "Melon Festival Celebration Hat (2)", 
+Description = {"<NAVI>[Nannavi]<INFO>geffen,106,63,0,101,0</INFO></NAVI> in Geffen, is struggling on making a celebration hat, because she doesn\'t have enough skins. Let\'s bring 30 Dalcom skins to her."}
+, Summary = "Deliver 30 Dalcom Skins"}
+, 
+[16331] = {Title = "June stamp book", 
+Description = {"<NAVI>[Aru Hee-Ah]<INFO>comodo,204,143,0,101,0</INFO></NAVI> gave me a stamp notebook. Let\'s go find the stamp staff waiting here and there and get the stamp and come back to her."}
+, Summary = "Complete a stamp book"}
+, 
+[16332] = {Title = "One Komodo stamp for June", 
+Description = {"Received one stamp."}
+, Summary = "Left Stamp!"}
+, 
+[16333] = {Title = "One Komodo stamp for June", 
+Description = {"Received one stamp."}
+, Summary = "Left Stamp!"}
+, 
+[16334] = {Title = "One Komodo stamp for June", 
+Description = {"Received one stamp."}
+, Summary = "Right Stamp!"}
+, 
+[16335] = {Title = "One Komodo stamp for June", 
+Description = {"Received one stamp."}
+, Summary = "Right Stamp!"}
+, 
+[16336] = {Title = "Golden Corn in June", 
+Description = {"Let\'s go hunt 3 Imps and Explosions, and come back to <NAVI>[Corn Professor]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[16337] = {Title = "Golden Corn in June", 
+Description = {"Let\'s go hunt 3 Imps and Explosions, and come back to <NAVI>[Corn Professor]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[16338] = {Title = "Golden Corn in June", 
+Description = {"It\'s a daily quest. Please go to <NAVI>[Corn Professor]<INFO>comodo,159,196,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Resets at 04am"}
+, 
+[16339] = {Title = "Corrodo, a volcanic island", 
+Description = {"Let\'s help Corrodo\'s guide <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI>to hunt fire property monsters."}
+, Summary = "Corrodo Discovery"}
+, 
+[16340] = {Title = "Corrodo, a volcanic island", 
+Description = {"Let\'s help Corrodo\'s guide <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI>to hunt fire property monsters."}
+, Summary = "Corrodo Discovery"}
+, 
+[16341] = {Title = "Corrodo, a volcanic island- Hold", 
+Description = {"It\'s a daily quest. Please go to <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Resets at 04am"}
+, 
+[16342] = {Title = "Healthy Herbs in June", 
+Description = {"<NAVI>[Yerva]<INFO>comodo,225,187,0,101,0</INFO></NAVI>is asking for 3 magical herbs."}
+, Summary = ""}
+, 
+[16343] = {Title = "Healthy Herbs in June", 
+Description = {"<NAVI>[Yerva]<INFO>comodo,225,187,0,101,0</INFO></NAVI>is asking for 3 magical herbs."}
+, Summary = ""}
+, 
+[16344] = {Title = "Healthy Herbs in June - Hold", 
+Description = {"It\'s a daily quest. Please go to <NAVI>[Yerva]]<INFO>comodo,225,187,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Resets at 04am"}
+, 
+[16345] = {Title = "Delicious Popcorn in June", 
+Description = {"Popcorn master\'s popcorn is best in midgard."}
+, Summary = ""}
+, 
+[16346] = {Title = "Strong, strong bonfire", 
+Description = {"I burned Herbs on <NAVI>[Strong, strong bonfire]<INFO>comodo,289,176,0,101,0</INFO></NAVI>. My physical power increased for 30 minutes. After 30 minutes, I can power up again using 5 herb leaves."}
+, Summary = "Resets after 30 min"}
+, 
+[16347] = {Title = "Wise and strong bonfire", 
+Description = {"I burned Herbs on <NAVI>[Wise and strong bonfire]<INFO>comodo,294,176,0,101,0</INFO></NAVI>. My magical power increased for 30 minutes. After 30 minutes, I can power up again using 5 herb leaves."}
+, Summary = "Resets after 30 min"}
+, 
+[16348] = {Title = "Sharp and strong bonfire", 
+Description = {"I burned Herbs on <NAVI>[Sharp and strong bonfire]<INFO>comodo,299,176,0,101,0</INFO></NAVI>. My accuracy increased for 30 minutes. After 30 minutes, I can power up again using 3 herb leaves."}
+, Summary = "Resets after 30 min"}
+, 
+[16349] = {Title = "Fire in Daytime", 
+Description = {"I burned Herbs on <NAVI>[Fire in Daytime]<INFO>comodo,292,180,0,101,0</INFO></NAVI>. My fire resistance and attack against earth property increased for 60 minutes. After 60minutes, I can power up again using 10 herb leaves."}
+, Summary = "Resets after 60 min"}
+, 
+[16350] = {Title = "Fire in Nighttime", 
+Description = {"I burned Herbs on <NAVI>[Fire in Nighttime]<INFO>comodo,297,180,0,101,0</INFO></NAVI>My neutral resistance and attack against neutral property increased for 60 minutes. After 60minutes, I can power up again using 10 herb leaves."}
+, Summary = "Resets after 60 min"}
+, 
+[16351] = {Title = "Blazing beads of June", 
+Description = {"Pop Popcornizer and Pop Popcornist, this pair is enchanting a popcorn hat."}
+, Summary = "Pop Popcorn Hat Enchant"}
 }
 

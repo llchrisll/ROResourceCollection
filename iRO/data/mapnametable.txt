@@ -1009,3 +1009,8 @@ sp_rudus3.rsw#Laboratory Waste Disposal Plant Rudus Floor 3#
 1@pop1.rsw#Pope's Office#
 1@pop2.rsw#The Way Home#
 1@pop3.rsw#Sky Garden#
+
+star_frst.rsw#Meteor Forest#
+star_in.rsw#Meteor Forest indoor#
+//고성 상급 메모리얼던전
+1@soul.rsw#Passage Of Soul#

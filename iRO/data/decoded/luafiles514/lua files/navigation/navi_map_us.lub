@@ -1036,6 +1036,10 @@ Navi_Map = {
 , 
 {"splendide", "Splendide", 5001, 400, 400}
 , 
+{"star_frst", "Meteor Forest", 5001, 200, 200}
+, 
+{"star_in", "Meteor Forest indoor", 5003, 200, 200}
+, 
 {"sword_1-1", "Swordman Test Hall", 5001, 260, 260}
 , 
 {"sword_2-1", "Swordman Test Hall", 5001, 260, 260}

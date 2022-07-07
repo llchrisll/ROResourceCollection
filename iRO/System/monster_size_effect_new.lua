@@ -4805,6 +4805,8 @@ MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 [1059] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 }
+, 
+[3818] = {MonsterSize = 1.5, MonsterEff = EFFECT.EF_NONE}
 }
 main = function()
   -- function num : 0_0

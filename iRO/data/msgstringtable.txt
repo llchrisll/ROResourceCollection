@@ -3554,7 +3554,7 @@ Failed to feed homun. You are not possible to feed right now.#
 #
 #
 #
-#
+Insufficient goods required for exchange.###
 #
 Death#
 PvP#
@@ -3566,7 +3566,7 @@ PvP#
 #
 #
 #
-#
+It is impossible to purchase due to exceeding the possession limit.#
 #
 #
 #
