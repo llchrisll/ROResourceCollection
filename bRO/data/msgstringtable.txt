@@ -322,8 +322,8 @@ Zoom de câmera Desligado#
 /camera: Liga ou Desliga Zoom de Câmera.  /miss: Liga ou Desliga a opção de Mostrar "Miss".#
 Ver informações da habilidade#
 Mudar habilidade#
-Resolução de Sprites#
-Resolução de Textura#
+Sprites#
+Textura#
 Acertar detalhes#
 Você ganhou %s Zeny#
 Nome#
@@ -1483,7 +1483,7 @@ A conta já está conectada. Por medida de segurança, troque sua senha#
 A conta já está conectada. Por medida de segurança, troque sua senha#
 Janela de Configurações#
 Configurações Gráficas#
-Configurações de Som#
+Áudio#
 Mude nas teclas de atalho#
 Este atalho não pode ser uma tecla única#
 Esta tecla não pode ser utilizada#
@@ -1537,7 +1537,7 @@ Não pode ser editado#
 [%s] necessário(a) %d#
 Nível do refino caiu.#
 Precisa colocar [%s] para usar#
-Configuração de entrada de Campo de Batalha#
+Assistente das Batalhas Campais#
 % você está em uma condição que não permite entrar no Campo de Batalha, então o pedido de entrada foi cancelado#
 #
 % Entrada em Campo de Batata adiada. Aguardando outros jogadores#
@@ -2000,7 +2000,7 @@ Trilinear#
 ataque#
 habili.#
 item#
-NoCtrl#
+No Ctrl#
 Batalhas Campais#
 (Personagens / Total)#
 Serviço Premium#
@@ -2096,84 +2096,84 @@ Não é possível alterar a liderança do grupo caso esteja em um mapa diferente do 
 Não é possível alterar a liderança do grupo nessa área atual.#
 dpwn the Gryphon#
 %d Mês %d Dia %d Hora %d Min %d Seg#
-You canot invite to the guild as you are in the siege.#
-You have requested to wait to enter in Battle ground.#
-the maximum amount has been exceeded.#
-Undefined battle ground name.#
-Undefined request type.#
-Maximum amount of user has exceeded.#
-The level is not suitable to enter.#
-Request has duplicated.#
-Please re-access and register again.#
-Job is not suitable.#
-Only party member or guild leader can apply.#
-there is a team member in the battle ground, it is not possible to apply.#
-The waiting to enter the battle ground has cancelled.#
-The battle ground name is wrong.#
-You are not on the waiting list of entering the battle ground.#
-The battle ground is not availble, so the waiting will be cancelled.#
-Entering the battle ground has cancelled.#
-Would you like to enter the battle ground?#
-Entering the battle ground registering system#
-Not possible to register entering and move to the battle ground#
-1. It is not possible to register several battle ground at the same time.#
-2. You cannot register the battle ground for single / Party/ Guild at the same time.#
-3. Party battle ground is only available to regiser from the party leader,#
-the party member who are offline will be missed in the waiting line.#
-4. Registering the battle ground is possible from everywhere except the battle ground map,#
-but if the entering location is not town, field or normal dungeon, character will be transferred to saved coordinates when returns.#
-5. the rewards of battle ground or other services can be found from battle ground waiting room through recruiting officer.#
-Entering the battle ground registering Help word#
-%s battle ground is going to start.#
-Would you like to move to the battle ground?#
-[Note]#
-If current location is not town, field or normal dungeon#
-Você será levado ao seu Ponto de Retorno#
-after battle finished.#
-Waiting for other requests result.#
-Request entering the battle ground#
-Awaiting time to accept:%d sec#
-Waiting status to enter#
-The battle ground title: %s#
-Required numbers for the battle: %d#
-My waiting number: %d#
-Title :#
-Target :#
-Member organizing in the battle :#
-condition to join :#
-Rewards(win) :#
-Rewards(even) :#
-Rewards(lose) :#
-You have applied the battle as a solo. is it correct?#
-You have applied the battle as a party. is it correct?#
-You have applied the battle as a guild. is it correct?#
-Battle ground list#
-%d VS %d#
-Base LV under %d#
-Base LV over %d#
-Base LV %d ~ %d#
-No limits#
-[Not possible to apply from the current map.]#
-[You need 1 min awaiting time to re-apply to the battle ground.]#
-[You should join the party first.]#
-[Only the party leader can apply.]#
-[There are too many party members logged in.]#
-[You should join the guld first.]#
-[Only the guild leader can apply.]#
-[There are too many guild members logged in.]#
+Você não pode convidar membros durante a Guerra.#
+ - Você entrou na fila da Batalha Campal.#
+número máximo excedido.#
+Nome indefinido da Batalha Campal.#
+Tipo de solicitação indefinida.#
+O número de participantes já foi preenchido.#
+Você não tem o nível necessário para entrar.#
+Solicitação duplicada.#
+Por favor, entre na fila novamente.#
+Sua classe não tem permissão.#
+Apenas para membros do grupo ou líder do clã.#
+Existe um membro do grupo em Batalha, não é possível continuar.#
+Você saiu da fila de espera.#
+O nome da modalidade de Batalha Campal está incorreto.#
+Você não está na lista de espera para entrar na Batalha Campal.#
+A Batalha Campal não está disponível, então a fila será cancelada.#
+ - Fila de espera da Batalha Campal cancelada.#
+Deseja entrar na Batalha Campal?#
+Essa janela é sua assistente para entrar na fila das Batalhas Campais em qualquer lugar.#
+----------------------------------------------------#
+1. Apenas uma fila por modalidade por vez.#
+2. Apenas uma fila para Solo, Grupo ou Clã por vez.#
+3. Apenas líder do Grupo pode entrar na fila das batalhas em Grupo.#
+4. Membros de Grupo ou Clã offline não entrarão.#
+5. Não é possível entrar na fila dentro de uma Sala de Espera.#
+6. Se estiver em Instâncias ou mapas PvP, você voltará para o Ponto de Retorno quando a batalha acabar.#
+7. Premiações são dadas via NPC.#
+Assistente de fila das Batalhas Campais#
+A batalha [%s] começará em breve.#
+Deseja teleportar-se para a batalha?#
+[Observação]#
+Se você não estiver em Cidades, Campos e Cavernas,#
+você voltará ao seu Ponto de Retorno#
+quando as batalhas acabarem.#
+Aguardando o resultado de outras solicitações.#
+Solicitar entrada na Batalha Campal#
+Tempo de espera:%d seg#
+Fila de espera das Batalhas Campais#
+Mapa: %s#
+Participantes: %d#
+Minha posição na fila: %d#
+Mapa:#
+Meta:#
+Tipo:#
+Nv. mín.:#
+Vitória:#
+Empate:#
+Derrota:#
+- Deseja entrar na fila e fazer só?#
+- Deseja entrar na fila e fazer em grupo?#
+- Deseja entrar na fila e fazer com clã?#
+Modalidades#
+%d contra %d#
+Nv. Base %d-#
+Nv. Base %d+#
+Nv. Base %d~%d#
+Sem limite#
+[Tipo de mapa impede entrar na fila]#
+[Aguarde 1 min. para solicitar novamente]#
+[Primeiro, entre num Grupo]#
+[Apenas Líderes de Grupo]#
+[O grupo tem muitos membros online]#
+[Primeiro, entre num Clã]#
+[Apenas Líderes de Clã]#
+[O clã tem muitos membros online]#
 Realizar a troca de slot#
 Trocar para esse slot#
 Trocar Nome#
 Criar Personagem#
 1#
-%s Server#
+Servidor %s#
 Unificar Itens#
-Select at least 2 items of the same kind.#
+Selecione pelo menos 2 itens iguais.#
 Unificação dos itens realizada com sucesso.#
 Você deve unificar somente 1 tipo de item por vez.#
 The amount of the item is over 30000 pieces.#
-Virar pra Esquerda#
-Virar pra Direita#
+Pra Esquerda#
+Pra Direita#
 See previous server info of (%s)#
 Previous server info#
 ^ff0000Previous server : ^0000ff#
@@ -2528,13 +2528,13 @@ There is not eoungh item, so %d item has purchased.#
 /limited sales#
 http://www.ragnarokeurope.com/news/home-r70.html#
 http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
-Successfully purchased list#
-Your order has excceeded the amount of current stock#
+Itens comprados com sucesso#
+Sua compra excedeu o estoque disponível.#
 the character name is not possible to invite.#
 The character name is not possbile to invite to the guild.#
-It has failed to purchase due to some item's out of stock.#
+Compra falhou por falta de itens no estoque.#
 The warp spot cannot be memorized in current position.#
-Item cannot be purchased due to the bag's overweight.#
+Item não pode ser comprado pelo excesso de peso.#
 No.#
 Item#
 Qtd#
@@ -3087,7 +3087,7 @@ Fechar#
 #
 #
 #
-#
+ON#
 #
 #
 #
@@ -3161,28 +3161,28 @@ Mini-janela não pode ser movida#
 #
 #
 #
+Configurações#
+Avançado#
 #
 #
+As alterações serão válidas ao reiniciar o jogo.#
+#
+Neblina#
+Aura Simples#
+Aura#
+Efeitos#
+Sombras#
+No Shift#
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Tela cheia#
+Dedicado#
+Gráfico#
+Controles#
+Placa Gráfica#
+Dimensões#
+Resolução#
+Mouse#
 #
 #
 #
@@ -3193,7 +3193,7 @@ CARREGANDO...#
 Assu.#
 Reme.#
 #
-#
+Comandos#
 #
 #
 #
@@ -3229,7 +3229,7 @@ Valor de EXP [%lld] de Classe#
 Ganhou [%lld] de EXP de classe#
 #
  segundos de recarga.#
-Grupo#
+Nº.#
 #
 #
 #
@@ -3507,7 +3507,7 @@ Procurar por Grupos#
 Se você não é líder de grupo, não pode registrá-lo na Agência de Aventura.#
 Você não pode interromper o recrutamento.#
 Auxiliar#
-Zoom Out#
+Zoom#
 %s : reduzir ou ampliar o Zoom.#
 Zoom ampliado#
 Zoom desligado#
@@ -3574,8 +3574,8 @@ Você só pode comprar 1 desses itens por vez.#
 Capturar Monstro#
 Mensagem#
 Título#
-Chinese character#
-Configurações de atalho rápido#
+Dano máx.#
+Anúncio ao entrar no mapa#
 Atualmente, o /showshop está %s.#
 O arquivo de replay não foi encontrado.#
 Shoes#
@@ -3643,8 +3643,8 @@ Sender#
 #
 #
 #
-Possui cartas ou encantos.#
-Refino maior que o necessário.#
+Esse item tem refino#
+Esse item tem cartas ou encantos#
 #
 #
 #

@@ -977,6 +977,7 @@ lhz_d_n2.rsw#bgm\\124.mp3#
 1@air2.rsw#bgm\\87.mp3#
 1@glast.rsw#bgm\\95.mp3#
 
+
 // 교황 메모리얼 낮에나온 반달
 1@pop1.rsw#bgm\\95.mp3#
 1@pop2.rsw#bgm\\94.mp3#
@@ -992,3 +993,13 @@ rebel_in.rsw#bgm\\86.mp3#
 // 11월 사냥대회
 hu_fild03.rsw#bgm\\91.mp3#
 que_house_s.rsw#bgm\\05.mp3#
+
+//일루전 페이욘 (문라이트)
+pay_d03_i.rsw#bgm\\47.mp3#
+
+star_frst.rsw#bgm\\14.mp3#
+star_in.rsw#bgm\\14.mp3#
+
+1@soul.rsw#bgm\\40.mp3#
+
+tra_fild.rsw#bgm\\08.mp3#

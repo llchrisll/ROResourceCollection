@@ -134,24 +134,4 @@ GetBeginMotionType = function(SKID)
   return beginMotionType
 end
 
-GetToTargetEffectNum = function(SKID)
-  -- function num : 0_13
-  local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
-  local toTargetEffectNum = 0
-  if effectInfo ~= nil and effectInfo.toTargetEffectNum ~= nil then
-    toTargetEffectNum = effectInfo.toTargetEffectNum
-  end
-  return toTargetEffectNum
-end
-
-GetToTargetEffectID = function(SKID, idx)
-  -- function num : 0_14
-  local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
-  local toTargetEffectID = -1
-  if effectInfo ~= nil and effectInfo.toTargetEffectID ~= nil and (effectInfo.toTargetEffectID)[idx] ~= nil then
-    toTargetEffectID = (effectInfo.toTargetEffectID)[idx]
-  end
-  return toTargetEffectID
-end
-
 

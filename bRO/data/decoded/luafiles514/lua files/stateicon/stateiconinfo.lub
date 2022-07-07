@@ -5637,4 +5637,286 @@ descript = {
 {"Conjuração variável -80%"}
 }
 }
+-- DECOMPILER ERROR at PC11651: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SUNSTANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Postura Solar", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de ATQ"}
+, 
+{"Poderes Solares"}
+}
+}
+-- DECOMPILER ERROR at PC11678: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LUNARSTANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Postura Lunar", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de HP"}
+, 
+{"Poderes Lunares"}
+}
+}
+-- DECOMPILER ERROR at PC11705: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_STARSTANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Postura Estelar", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Velocidade de Ataque"}
+, 
+{"Poderes Estelares"}
+}
+}
+-- DECOMPILER ERROR at PC11738: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_UNIVERSESTANCE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Postura do Universo", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de Atributos"}
+, 
+{"Permite usar poderes"}
+, 
+{"Solar, Lunar, Estelar,"}
+, 
+{"e Universo"}
+}
+}
+-- DECOMPILER ERROR at PC11765: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LIGHTOFSUN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Luz Solar", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Dano aumentado"}
+, 
+{"de Explosão Solar"}
+}
+}
+-- DECOMPILER ERROR at PC11792: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LIGHTOFMOON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Luz Lunar", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Dano aumentado"}
+, 
+{"de Chute Lunar"}
+}
+}
+-- DECOMPILER ERROR at PC11819: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LIGHTOFSTAR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Luz Estelar", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Dano aumentado"}
+, 
+{"de Chuva Estelar"}
+}
+}
+-- DECOMPILER ERROR at PC11832: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FLASHKICK] = {
+descript = {
+{"Chute Estelar", COLOR_TITLE_DEBUFF}
+}
+}
+-- DECOMPILER ERROR at PC11859: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NEWMOON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Penumbra", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Invisível"}
+, 
+{"Pode usar Chute Lunar"}
+}
+}
+-- DECOMPILER ERROR at PC11875: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CREATINGSTAR] = {
+descript = {
+{"Livro da Criação", COLOR_TITLE_DEBUFF}
+, 
+{"Movimento reduzido"}
+}
+}
+-- DECOMPILER ERROR at PC11894: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GRAVITYCONTROL] = {
+descript = {
+{"Controle Gravitacional", COLOR_TITLE_DEBUFF}
+, 
+{"Impossível atacar"}
+, 
+{"ou se mover"}
+}
+}
+-- DECOMPILER ERROR at PC11918: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULCOLLECT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Coletar Alma", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Atraindo Almas"}
+}
+}
+-- DECOMPILER ERROR at PC11948: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULREAPER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Ceifar Alma", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Ao realizar ataques,"}
+, 
+{"chance de conseguir"}
+, 
+{"ceifar uma Alma"}
+}
+}
+-- DECOMPILER ERROR at PC11975: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULUNITY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"União Espiritual", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"A cada 3 segundos,"}
+, 
+{"regeneração de HP"}
+}
+}
+-- DECOMPILER ERROR at PC12002: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULSHADOW] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Espírito das Sombras", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de CRIT e"}
+, 
+{"Velocidade de ataque"}
+}
+}
+-- DECOMPILER ERROR at PC12032: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULFAIRY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Espírito da Fada", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de ATQM"}
+, 
+{"Conjuração variável"}
+, 
+{"reduzida"}
+}
+}
+-- DECOMPILER ERROR at PC12059: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULFALCON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Espírito do Falcão", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de ATQ"}
+, 
+{"e de Precisão"}
+}
+}
+-- DECOMPILER ERROR at PC12086: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULGOLEM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Espírito do Golem", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Aumenta a"}
+, 
+{"DEF e DEFM"}
+}
+}
+-- DECOMPILER ERROR at PC12105: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULDIVISION] = {
+descript = {
+{"Divisão de Alma", COLOR_TITLE_DEBUFF}
+, 
+{"Pós-conjuração"}
+, 
+{"foi aumentada"}
+}
+}
+-- DECOMPILER ERROR at PC12135: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FALLINGSTAR] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Chuva Estelar", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Ao realizar ataques,"}
+, 
+{"chance de autoconjurar"}
+, 
+{"uma Estrela Cadente"}
+}
+}
+-- DECOMPILER ERROR at PC12165: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DIMENSION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Livro das Dimensões", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Efeitos especiais"}
+, 
+{"em Hipernova e"}
+, 
+{"Advento Imperial"}
+}
+}
+-- DECOMPILER ERROR at PC12192: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULLINK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Espírito", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Sob efeito de"}
+, 
+{"um Espírito."}
+}
+}
 

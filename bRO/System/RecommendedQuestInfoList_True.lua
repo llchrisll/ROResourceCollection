@@ -13,12 +13,20 @@ QuestInfo2 = {"Seja sempre gentil", "com jogadores novos!"}
 QuestInfo3 = {"^ff0000Esta \233 uma página permanente de boas vindas.^000000"}
 }
 , 
-[2] = {Title = "Nova Moeda de 1bi!", IconName = "ico_gq.bmp", Summary = "Aproveite a Nova Moeda", NpcSpr = "4_DOU_SIBA", NpcNavi = "prontera", NpcPosX = 161, NpcPosY = 268, BgName = "reco_03.bmp", 
-QuestInfo1 = {"Aproveite a Nova Moeda", "Jogadores de nv 140 ou mais j\225 podem aproveitar o Shibanqueiro! Este NPC converte 1 bilhão de zenys em 1 item que voc\234 pode usar em negociações com valores altos"}
+[2] = {Title = "Mestres Estelares", IconName = "ico_jq.bmp", Summary = "O Sol, a Lua e as Estrelas", BgName = "reco_02.bmp", 
+QuestInfo1 = {"Aos Dominadores do Universo!!", "Mestres Taekwons finalmente poderão se tornar Mestres Estelares.", "V\225 para <NAVI>[Payon]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI> para começar."}
 , 
-QuestInfo2 = {""}
+QuestInfo2 = {"Condição", "Mestre Taekwon", "Nv.99/50"}
 , 
-QuestInfo3 = {""}
+QuestInfo3 = {"^ff0000Página de anúncio.^000000"}
+}
+, 
+[3] = {Title = "Ceifadores de Almas", IconName = "ico_jq.bmp", Summary = "O Guia das Almas", BgName = "reco_03.bmp", 
+QuestInfo1 = {"Aos Guardiões do Submundo!!", "Espiritualistas podem virar Ceifadores de Almas.", "V\225 para a <NAVI>[Floresta de Payon]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI> para começar."}
+, 
+QuestInfo2 = {"Condição", "Espiritualista", "Nv.99/50"}
+, 
+QuestInfo3 = {"^ff0000Página de anúncio.^000000"}
 }
 }
 

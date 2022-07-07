@@ -17,7 +17,7 @@ signName = {subTitle = "Laboratório de Experimentos", mainTitle = "Edda"}
 , backgroundBmp = "dungeon"}
 , 
 ["prt_mz03_i.rsw"] = {displayName = "Ilusão do Labirinto", notifyEnter = true, 
-signName = {subTitle = "Labirinto da Floresta", mainTitle = "Modo Ilusão"}
+signName = {subTitle = "Labirinto da Floresta", mainTitle = "Ilusão do Labirinto"}
 , backgroundBmp = "dungeon"}
 , 
 ["1@halo.rsw"] = {displayName = "Evento de Halloween", notifyEnter = true, 
@@ -80,20 +80,20 @@ signName = {subTitle = "Centro de Rejeitos", mainTitle = "Rudus (2)"}
 signName = {subTitle = "Centro de Rejeitos", mainTitle = "Rudus (3)"}
 , backgroundBmp = "dungeon"}
 , 
-["star_frst.rsw"] = {displayName = "Antiga Payon", notifyEnter = true, 
-signName = {mainTitle = "Antiga Payon"}
+["star_frst.rsw"] = {displayName = "Dojang do Bosque Meteoro", notifyEnter = true, 
+signName = {mainTitle = "Bosque Meteoro"}
 , backgroundBmp = "noname_s2"}
 , 
-["star_in.rsw"] = {displayName = "Interior de Payon"}
+["star_in.rsw"] = {displayName = "Interior do Dojang"}
 , 
-["1@soul.rsw"] = {displayName = "Passagem da Alma"}
+["1@soul.rsw"] = {displayName = "Limbo"}
 , 
 ["com_d02_i.rsw"] = {displayName = "Ilusão de Luanda", notifyEnter = true, 
-signName = {subTitle = "Caverna de Luanda", mainTitle = "Modo Ilusão"}
+signName = {subTitle = "Caverna de Luanda", mainTitle = "Ilusão de Luanda"}
 , backgroundBmp = "dungeon"}
 , 
 ["ein_d02_i.rsw"] = {displayName = "Ilusão do Ursinho", notifyEnter = true, 
-signName = {subTitle = "Calabouço da Mina", mainTitle = "Modo Ilusão"}
+signName = {subTitle = "Calabouço da Mina", mainTitle = "Ilusão do Ursinho"}
 , backgroundBmp = "dungeon"}
 , 
 ["vis_h01.rsw"] = {displayName = "Arena Fantasma (1)", notifyEnter = true, 
@@ -157,11 +157,11 @@ signName = {mainTitle = "Vulcão de Comodo"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["tur_d03_i.rsw"] = {displayName = "Ilusão da Tartaruga (1)", notifyEnter = true, 
-signName = {subTitle = "Ilha da Tartaruga", mainTitle = "Modo Ilusão"}
+signName = {subTitle = "Vila das Boas Tartarugas", mainTitle = "Ilusão da Tartaruga"}
 , backgroundBmp = "dungeon"}
 , 
 ["tur_d04_i.rsw"] = {displayName = "Ilusão da Tartaruga (2)", notifyEnter = true, 
-signName = {subTitle = "Palácio Tartaruga", mainTitle = "Modo Ilusão"}
+signName = {subTitle = "Palácio Tartaruga", mainTitle = "Ilusão da Tartaruga"}
 , backgroundBmp = "dungeon"}
 , 
 ["1@begi.rsw"] = {displayName = "Vila dos Poring", notifyEnter = true, 
@@ -173,15 +173,15 @@ signName = {mainTitle = "Navio Naufragado"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["ice_d03_i.rsw"] = {displayName = "Ilusão do Gelo", notifyEnter = true, 
-signName = {subTitle = "Caverna de Gelo", mainTitle = "Modo Ilusão"}
+signName = {subTitle = "Caverna de Gelo", mainTitle = "Ilusão do Gelo"}
 , backgroundBmp = "dungeon"}
 , 
 ["gef_d01_i.rsw"] = {displayName = "Ilusão do Vampiro", notifyEnter = true, 
-signName = {subTitle = "Calabouço de Geffen", mainTitle = "Modo Ilusão"}
+signName = {subTitle = "Calabouço de Geffen", mainTitle = "Ilusão do Vampiro"}
 , backgroundBmp = "dungeon"}
 , 
-["pay_d03_i.rsw"] = {displayName = "Ilusão do Luar", notifyEnter = true, 
-signName = {subTitle = "Caverna de Payon", mainTitle = "Modo Ilusão"}
+["pay_d03_i.rsw"] = {displayName = "Ilusão da Lua", notifyEnter = true, 
+signName = {subTitle = "Vilarejo Abandonado", mainTitle = "Ilusão da Lua"}
 , backgroundBmp = "dungeon"}
 , 
 ["1@xm_d2.rsw"] = {displayName = "Fábrica de Brinquedos", notifyEnter = true, 
@@ -242,8 +242,8 @@ signName = {mainTitle = "Base Militar"}
 signName = {mainTitle = "Base Militar"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["slabw01.rsw"] = {displayName = "Laboratório Clandestino", notifyEnter = true, 
-signName = {mainTitle = "Laboratório Clandestino"}
+["slabw01.rsw"] = {displayName = "Laboratório Werner", notifyEnter = true, 
+signName = {mainTitle = "Laboratório Werner"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["rebel_in.rsw"] = {displayName = "Clana Nemieri", notifyEnter = true, 
@@ -3003,6 +3003,10 @@ signName = {subTitle = "A Cidade das Montanhas", mainTitle = "Payon"}
 ["payon_in02.rsw"] = {displayName = "Interior da Vila dos Arqueiros"}
 , 
 ["payon_in03.rsw"] = {displayName = "Interior de Payon"}
+, 
+["tra_fild.rsw"] = {displayName = "Centro de Treinamento de Prontera", notifyEnter = true, 
+signName = {mainTitle = "Centro de Treino"}
+, backgroundBmp = "field_s2"}
 , 
 ["prontera.rsw"] = {displayName = "Prontera", notifyEnter = true, 
 signName = {subTitle = "A Capital de Rune-Midgard", mainTitle = "Prontera"}

@@ -9,9 +9,17 @@ QuestInfoList = {
 Description = {"Turtle"}
 , Summary = "Carapace"}
 , 
-[1000] = {Title = "Renascimento", 
-Description = {"Voc\234 pode se tornar um herói com o Livro de Ymir. Encontre o Hall da Valquíria e se torne um novo herói."}
-, Summary = "Fale com o Livro de Ymir"}
+[1000] = {Title = "Transcendental", 
+Description = {"Voc\234 pode se tornar um herói com o Livro de Ymir. Encontre o Hall da Valquíria e se torne um novo herói. "}
+, Summary = ""}
+, 
+[12442] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Que confusão toda \233 essa?"}
+, Summary = "Fale com Banyak"}
+, 
+[12443] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Vamos para a <NAVI>[Pousada]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>. Perto da Funcionária Kafra."}
+, Summary = "Para a Pousada"}
 , 
 [1001] = {Title = "Mudança de Classe: Noviço", 
 Description = {"Voc\234 falou com o Bispo Tomas Cerbantes para se tornar Noviço. Ele mandou voc\234 visitar ^000077Irmão Simão^000000, que est\225 praticando ascetismo perto das Relíquias, a nordeste de Prontera. "}
@@ -2026,10 +2034,6 @@ Description = {"Em um ato de cidadania, voc\234 votou! Aguarde os resultados e b
 , Summary = "Voto comfirmado."}
 , 
 [2422] = {Title = "Votação", 
-Description = {"Em um ato de cidadania, voc\234 votou! Aguarde os resultados e boa sorte!"}
-, Summary = "Voto comfirmado."}
-, 
-[2423] = {Title = "Votação", 
 Description = {"Em um ato de cidadania, voc\234 votou! Aguarde os resultados e boa sorte!"}
 , Summary = "Voto comfirmado."}
 , 
@@ -7361,6 +7365,58 @@ Description = {"O Gnocchi vai te dar uma visão menos enviesada sobre os atributo
 Description = {"A melhor maneira de treinar habilidades com o carrinho \233 us\225-lo contra alguma coisa. Eu lembro de ter visto um monte de Esporos Venenosos em uma jaula..."}
 , Summary = "Elimite 100 Esporos Venenosos na jaula da Guilda"}
 , 
+[7776] = {Title = "Ilusão da Lua", IconName = "ico_jq.bmp", 
+Description = {"Os Anciões de Payon estão preocupados com a Aprendiz de Espiritualista. Converse com o Jovem na entrada da Caverna Payon."}
+, Summary = "Para a Caverna de Payon"}
+, 
+[7777] = {Title = "Ilusão da Lua", IconName = "ico_jq.bmp", 
+Description = {"O jovem quer saber o que aconteceu com a Aprendiz de Espiritualista."}
+, Summary = "Fale com Muyeon"}
+, 
+[7778] = {Title = "Ilusão da Lua", IconName = "ico_jq.bmp", 
+Description = {"Parece que algo foi visto durante o ritual. Vou conferir isso."}
+, Summary = "Continue a conversa"}
+, 
+[7779] = {Title = "Ilusão da Lua", IconName = "ico_jq.bmp", 
+Description = {"Se vamos tentar fazer o ritual novamente, melhor me preparar."}
+, Summary = "Continue a conversa"}
+, 
+[7780] = {Title = "Ilusão da Lua", IconName = "ico_jq.bmp", 
+Description = {"Desmaiei durante o ritual e cheguei \224 Caverna Payon. Essa energia oscilante na minha frente est\225 conectada ao pesadelo que me contaram?"}
+, Summary = "Investigue a Energia"}
+, 
+[7781] = {Title = "Ilusão da Lua", IconName = "ico_jq.bmp", 
+Description = {"O jovem e o soldado foram sugados pela Energia Oscilante. Devemos investigar."}
+, Summary = "Vamos investigar"}
+, 
+[7782] = {Title = "A Verdade!", IconName = "ico_jq.bmp", 
+Description = {"Suspeita-se que ^4d4dffVeritas^000000 seja o responsável pelo acidente no Vilarejo Abandonado."}
+, Summary = "Elimine 1 Veritas"}
+, 
+[7783] = {Title = "[Espera] A Verdade!", IconName = "ico_jq.bmp", 
+Description = {"Vamos aguardar o tempo de espera para repetir a missão."}
+, Summary = "Volte amanh\227!"}
+, 
+[7784] = {Title = "Sem Piedade!", IconName = "ico_jq.bmp", 
+Description = {"Vamos atender o pedido e caçar 20 ^4d4dffRaposas Raivosas^000000."}
+, Summary = "Elimine 20 Raposas Raivosas"}
+, 
+[7785] = {Title = "[Espera] Sem Piedade!", IconName = "ico_jq.bmp", 
+Description = {"Vamos aguardar o tempo de espera para repetir a missão."}
+, Summary = "Volte amanh\227!"}
+, 
+[7786] = {Title = "Lembrando meus Ancestrais", IconName = "ico_jq.bmp", 
+Description = {"Vamos atender o pedido de caçar 20 ^4d4dffArqueiros Cruéis^000000."}
+, Summary = "Elimine 20 Arqueiros Cruéis"}
+, 
+[7787] = {Title = "[Espera] Lembrando meus Ancestrais", IconName = "ico_jq.bmp", 
+Description = {"Vamos aguardar o tempo de espera para repetir a missão."}
+, Summary = "Volte amanh\227!"}
+, 
+[7788] = {Title = "Ilusão da Lua", IconName = "ico_jq.bmp", 
+Description = {"Vamos retornar ao ^4d4dffPalacete de Payon^000000 e ^4d4dffcontar o que aconteceu^000000."}
+, Summary = "Fale com Muyeon"}
+, 
 [8000] = {Title = "Desistindo: Mercenário", 
 Description = {"Desista da mudança de classe para Mercenário e volte \224 cidade. "}
 , Summary = "Desistindo da Mudança para Mercenário "}
@@ -12097,6 +12153,58 @@ Description = {"Jakk deve estar cansado. Volte a falar com ele após as 4 da manh
 Description = {"Permite pegar Pelugens Negras dos monstros do Vale de Gyoll."}
 , Summary = "Coletor de Pelugens Negras"}
 , 
+[11573] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Existe um Dojang no Monte Mjolnir.", "Vamos visitar o Bosque Meteoro."}
+, Summary = "Para Mjolnir 03"}
+, 
+[11574] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"H\225 uma casa de ch\225 no Dojang.", "A Aluna de Choshi nos espera l\225."}
+, Summary = "Entre na casa"}
+, 
+[11575] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"\201 melhor sairmos da Casa de Ch\225.", "Fale com Lunomoto do lado de fora."}
+, Summary = "Fale com Lunomoto"}
+, 
+[11576] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Voc\234 conheceu Lunomoto.", "Vamos falar com Lansis."}
+, Summary = "Fale com Lansis"}
+, 
+[11577] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Vamos conhecer o Bosque Meteoro."}
+, Summary = "V\225 para o Dormitório"}
+, 
+[11578] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Parece um dos Mestres est\225 aprontando.", "V\225 para o coreto ao Sul do Dojang."}
+, Summary = "Fale com Cosmos"}
+, 
+[11579] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"V\225 para a Mina de Einbech e elimine", "10 monstros chamados \"Mineral\"."}
+, Summary = "Elimine 10 Minerais"}
+, 
+[11580] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Cosmos mandou voc\234 ir at\233 Aurora dentro de uma casa."}
+, Summary = "Fale com Aurora"}
+, 
+[11581] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"V\225 para a Caverna de Payon.", "Elimine 50 Nove Caudas."}
+, Summary = "Elimine 50 Nove Caudas"}
+, 
+[11582] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Atenda o pedido de Lunomoto e procure Cosmos."}
+, Summary = "Fale com Cosmos"}
+, 
+[11583] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Decidimos ir todos juntos para o quarto."}
+, Summary = "Prossiga com a missão"}
+, 
+[11584] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Ouvi a conversa dos Mestres.", "Vou at\233 a entrada do Bosque Meteoro."}
+, Summary = "Fale com o Guardião do Monte"}
+, 
+[11585] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
+Description = {"Agora voc\234 pode se tornar um Mestre Estelar falando com qualquer um dos 3 Mestres do Bosque Meteoro."}
+, Summary = "Mude de Classe"}
+, 
 [11598] = {Title = "Jakk e os Jakks", 
 Description = {"Voc\234 foi acordado pelas vozes sussurrantes de fantasmas. Voc\234 se encontra em Niflheim, a cidade dos mortos. Vamos ouvir o que os fantasmas tem a dizer."}
 , Summary = "Fale com Hororong"}
@@ -13471,11 +13579,11 @@ Description = {"Inicie o processo na Máquina para coletar ^CD32785 Fragmentos de
 , 
 [12343] = {Title = "Mudança de Classe: Insurgente", 
 Description = {"Com o disfarce ativo, ande pelas salas para encontrar at\233 10 ilusões com o nome de ^CD3278Alvo^000000 dentro do tempo limite."}
-, Summary = "Elimite 10 Alvos."}
+, Summary = "Elimite 10 ^CD3278Alvos^000000."}
 , 
 [12344] = {Title = "Mudança de Classe: Insurgente", 
 Description = {"Se acertar mais de 3 ilusões com o nome ^CD3278Não-alvo^000000, voc\234 falhar\225 no teste. Evite acert\225-las a todo custo!"}
-, Summary = "Evite eliminar 3 Não-alvos."}
+, Summary = "Evite eliminar 3 ^CD3278Não-alvos^000000."}
 , 
 [12345] = {Title = "Mudança de Classe: Insurgente", 
 Description = {"Visite Ivan Sidorenko, o lendário Insurgente, e conclua seu processo de Mudança de Classe."}
@@ -13505,6 +13613,10 @@ Description = {"Pegue todas as cartas para completar a palavra \'RWC2011\' "}
 Description = {"A missão foi completa hoje! Fale com o agente amanh\227. "}
 , Summary = ""}
 , 
+[12415] = {Title = "Contrato com o Ilusion Enhancer", 
+Description = {"conclusão do contrato"}
+, Summary = "conclusão do contrato"}
+, 
 [12416] = {Title = "Contrato com Emily", 
 Description = {"Converse com Emily sobre a verdadeira recompensa."}
 , Summary = ""}
@@ -13524,6 +13636,38 @@ Description = {"Veja o que acontece na Batalha dos Orcs"}
 [12420] = {Title = "Se recuperando", 
 Description = {"Ser\225 complicado entrar na Batalha dos Orcs sem descansar."}
 , Summary = "Retorne após a meia noite"}
+, 
+[12444] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Pobre Banyak, o que posso fazer para ajud\225-lo?"}
+, Summary = "Fale com a Garotinha"}
+, 
+[12445] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Entregue a bolsa para <NAVI>[Banyak]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> na Pousada."}
+, Summary = "Para a Pousada"}
+, 
+[12446] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Parece que descobrirmos a identidade do bandido. Vamos ver o que a Garotinha tem para nos contar."}
+, Summary = "Fale com a Garotinha"}
+, 
+[12447] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Na entrada da Vila dos Arqueiros, vamos falar com <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Banyak"}
+, 
+[12448] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Siga para o <NAVI>[Vilarejo Abandonado]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI> e colete 44 <ITEM>[Nove-Caudas]<INFO>1022</INFO></ITEM>."}
+, Summary = "Fale com Munchkin"}
+, 
+[12449] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"\201 importante ouvir a história de <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Banyak"}
+, 
+[12450] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Prepare-se para a batalha! Banyak ir\225 abrir um portal para o mundo espiritual."}
+, Summary = "Fale com Banyak"}
+, 
+[12451] = {Title = "Mudança de Classe: Ceifadores de Almas", IconName = "ico_jq.bmp", 
+Description = {"Vamos falar com <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> para mudar de classe."}
+, Summary = "Fale com Banyak"}
 , 
 [13002] = {Title = "Passando por Ajustes", 
 Description = {"Passando por Ajustes"}
@@ -17129,108 +17273,56 @@ Description = {"Voc\234 j\225 realizou seu voto essa semana!"}
 Description = {"Voc\234 j\225 realizou seu voto essa semana!"}
 , Summary = "Obrigado por participar!"}
 , 
-[14849] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Encontre os Fumacentos espalhados pelos mapas e traga 10 Sacolas de Itens Negociáveis para a Produtora do Festival."}
+[14849] = {Title = "Festival das Flores de Neve", 
+Description = {"Encontre os Fumacentos espalhados pelos mapas e traga 10 Sacolas de Itens Negociáveis para a [Produtora do Festival]."}
 , Summary = "Traga 10 Sacolas"}
 , 
-[14850] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 agora pode começar as missões do Ilusionista do Festival das Flores de Neve."}
+[14850] = {Title = "Festival das Flores de Neve", 
+Description = {"Voc\234 agora pode começar as missões do [Ilusionista] do Festival das Flores de Neve."}
 , Summary = "Fale com o Ilusionista"}
 , 
-[14851] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 agora pode começar as missões de Coti do Festival das Flores de Neve."}
+[14851] = {Title = "Festival das Flores de Neve", 
+Description = {"Voc\234 agora pode começar as missões de [Coti] do Festival das Flores de Neve."}
 , Summary = "Fale com Coti"}
 , 
-[14852] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 agora pode começar as missões de Twinkle do Festival das Flores de Neve."}
+[14852] = {Title = "Festival das Flores de Neve", 
+Description = {"Voc\234 agora pode começar as missões de [Twinkle] do Festival das Flores de Neve."}
 , Summary = "Fale com Twinkle"}
 , 
-[14853] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 ouviu os bonecos de neve... traga 10 Sacolas de Itens Negociáveis e uma Cenoura para o Ilusionista"}
+[14853] = {Title = "Festival das Flores de Neve", 
+Description = {"Voc\234 ouviu os bonecos de neve... traga 10 Sacolas de Itens Negociáveis e uma Cenoura para o [Ilusionista]"}
 , Summary = "Colete os itens"}
 , 
-[14854] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Missão completa! Aguarde o período de espera e retorne ao Ilusionista."}
+[14854] = {Title = "Festival das Flores de Neve", 
+Description = {"Missão completa! Aguarde o período de espera e retorne ao [Ilusionista]"}
 , Summary = "Volte amanh\227."}
 , 
-[14855] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Sasquatch, Marin, Lunático, Raggler e Esqueleto derrubarão Algodão no seu inventário, traga 10 unidades para Coti."}
+[14855] = {Title = "Festival das Flores de Neve", 
+Description = {"Sasquatch, Marin, Lunático, Raggler e Esqueleto derrubarão Algodão no seu inventário, traga 10 unidades para [Coti]"}
 , Summary = "10 Algodões"}
 , 
-[14856] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 entregou os itens para Coti"}
+[14856] = {Title = "Festival das Flores de Neve", 
+Description = {"Voc\234 entregou os itens para [Coti]"}
 , Summary = "Volte amanh\227."}
 , 
-[14857] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Traga 50 unidades de Olho de Gato para Twinkle."}
-, Summary = "50 Olhos de Gato"}
+[14857] = {Title = "Festival das Flores de Neve", 
+Description = {"Traga 100 unidades de Coração de Pedra para [Twinkle]"}
+, Summary = "100 Corações de Pedra"}
 , 
-[14858] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Traga 25 unidades de Jarro de Nuvem para Twinkle."}
-, Summary = "25 Jarros de Nuvem"}
+[14858] = {Title = "Festival das Flores de Neve", 
+Description = {"Traga 50 unidades de Cesto de Palha para [Twinkle]"}
+, Summary = "50 Cestos de Palha"}
 , 
-[14859] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Traga 15 unidades de Chaleira Surrada para Twinkle."}
-, Summary = "15 Chaleiras Surradas"}
+[14859] = {Title = "Festival das Flores de Neve", 
+Description = {"Traga 70 unidades de Elmo de Dullahan para [Twinkle]"}
+, Summary = "70 Elmos de Dullahan"}
 , 
-[14860] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Traga 30 unidades de Biscoito de Gengibre para Twinkle."}
-, Summary = "30 Biscoitos de Gengibre"}
+[14860] = {Title = "Festival das Flores de Neve", 
+Description = {"Traga 30 unidades de Prato Amarelado para [Twinkle]"}
+, Summary = "30 Pratos Amarelados"}
 , 
-[14861] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 j\225 completou as tarefas de hoje, retone amanh\227 para Twinkle."}
-, Summary = "Volte amanh\227."}
-, 
-[17849] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Encontre os Fumacentos espalhados pelos mapas e traga 10 Sacolas de Itens Negociáveis para a Produtora do Festival."}
-, Summary = "Traga 10 Sacolas"}
-, 
-[17850] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 agora pode começar as missões do Ilusionista do Festival das Flores de Neve."}
-, Summary = "Fale com o Ilusionista"}
-, 
-[17851] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 agora pode começar as missões de Coti do Festival das Flores de Neve."}
-, Summary = "Fale com Coti"}
-, 
-[17852] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 agora pode começar as missões de Twinkle do Festival das Flores de Neve."}
-, Summary = "Fale com Twinkle"}
-, 
-[17853] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 ouviu os bonecos de neve... traga 10 Sacolas de Itens Negociáveis e uma Cenoura para o Ilusionista"}
-, Summary = "Colete os itens"}
-, 
-[17854] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Missão completa! Aguarde o período de espera e retorne ao Ilusionista."}
-, Summary = "Volte amanh\227."}
-, 
-[17855] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Sasquatch, Marin, Lunático, Raggler e Esqueleto derrubarão Algodão no seu inventário, traga 10 unidades para Coti."}
-, Summary = "10 Algodões"}
-, 
-[17856] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 entregou os itens para Coti"}
-, Summary = "Volte amanh\227."}
-, 
-[17857] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Traga 50 unidades de Olho de Gato para Twinkle."}
-, Summary = "50 Olhos de Gato"}
-, 
-[17858] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Traga 25 unidades de Jarro de Nuvem para Twinkle."}
-, Summary = "25 Jarros de Nuvem"}
-, 
-[17859] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Traga 15 unidades de Chaleira Surrada para Twinkle."}
-, Summary = "15 Chaleiras Surradas"}
-, 
-[17860] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Traga 30 unidades de Biscoito de Gengibre para Twinkle."}
-, Summary = "30 Biscoitos de Gengibre"}
-, 
-[17861] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
-Description = {"Voc\234 j\225 completou as tarefas de hoje, retone amanh\227 para Twinkle."}
+[14861] = {Title = "Festival das Flores de Neve", 
+Description = {"Voc\234 j\225 completou as tarefas de hoje, retone amanh\227 para [Twinkle]"}
 , Summary = "Volte amanh\227."}
 , 
 [3393] = {Title = "Caçada Real", IconName = "ico_ev.bmp", 
@@ -17411,7 +17503,7 @@ Description = {"Voc\234 recuperou a Estrela da Bênção. Resolvi voltar ao Palácio
 , 
 [7742] = {Title = "Elimine Fofinho", 
 Description = {"Diz-se que uma poderosa Quimera que nunca foi vista antes aparece na sala central do Laboratório Werner. Lukie pediu para eliminar \'Fofinho\'."}
-, Summary = "Para a Instância"}
+, Summary = " "}
 , 
 [7743] = {Title = "[Espera] Elimine Fofinho", 
 Description = {"A Quimera \'Fofinho\' est\225 constantemente aparecendo. Voc\234 ter\225 que lidar com isso todos os dias."}
@@ -17419,7 +17511,7 @@ Description = {"A Quimera \'Fofinho\' est\225 constantemente aparecendo. Voc\234
 , 
 [7744] = {Title = "Pesquisadores Escondidos", 
 Description = {"Pesquisadores que não conseguiram se livrar de seus corpos estão escondidos em vários lugares dentro do Instituto Werner. Philopontes pediu que voc\234 encontrasse um funcionário ou pesquisador oculto."}
-, Summary = "Encontre 3 Pesquisadores"}
+, Summary = "Encontrar 3 pesquisadores"}
 , 
 [7745] = {Title = "[Espera] Pesquisadores Escondidos", 
 Description = {"A busca por pesquisadores clandestinos continuar\225 no dia seguinte."}
@@ -17539,7 +17631,7 @@ Description = {"Dien contou a Larcis sobre o assunto. Fale com Larcis."}
 , 
 [11465] = {Title = "Festa: Ch\225 de Dien", 
 Description = {"Dien, a veterana da Rebelião, pede que voc\234 elimine Caça-Coração na Base Militar."}
-, Summary = "Elimine Caça-Coração"}
+, Summary = " "}
 , 
 [11466] = {Title = "[Espera] Ch\225 de Dien", 
 Description = {"Concluída a missão de Dien. Volte amanh\227."}
@@ -17699,7 +17791,7 @@ Description = {"Elena Bolkova me pediu para chamar os gêmeos."}
 , 
 [16019] = {Title = "Gêmeos Levedev", 
 Description = {"As duas crianças ficaram satisfeitas com a solução de Elena Bolkova?"}
-, Summary = "Fale com Elena"}
+, Summary = ""}
 , 
 [16020] = {Title = "Gêmeos Levedev", 
 Description = {"Não se esqueça do pedido de Elena Bolkova, vamos voltar para os gêmeos amanh\227."}
@@ -17871,7 +17963,7 @@ Description = {"Lute cara a cara com Elena."}
 , 
 [7998] = {Title = "Elimine YSF01", 
 Description = {"Seu código de identificação \233 ^0000CDY^000000mir project ^0000CDS^000000ample ^0000CDF^000000inal."}
-, Summary = "Para a Instância"}
+, Summary = " "}
 , 
 [7999] = {Title = "[Espera] Laboratório Werner", 
 Description = {"Pode acontecer de precisar reexaminar o núcleo do salão central do Laboratório Werner usando um sistema para voltar ao passado."}
@@ -17896,6 +17988,30 @@ Description = {"Enviar RODEX"}
 [14594] = {Title = "Trilha dos Sonhos", 
 Description = {"Se voc\234 tem preparo para trilhar a estrada dos sonhos, encontre-me novamente."}
 , Summary = "Para Niren"}
+, 
+[21040] = {Title = "Dupla Cansada", 
+Description = {"Na prisão de Glast Heim existem mortos-vivos que continuam nesse mundo por alguma razão. O Arcebispo Karon quer que voc\234 elimine 10 Esqueletos Prisioneiros e 10 Zumbis Prisioneiros."}
+, Summary = " "}
+, 
+[21041] = {Title = "[Espera] Dupla Cansada", 
+Description = {"Voc\234 completou essa missão por hoje, volte no dia seguinte para repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[21042] = {Title = "Dupla Cansada", 
+Description = {"Na prisão de Glast Heim existe um torturador de prisioneiros que est\225 atormentando os zumbis mesmo após a morte. O Feiticeiro Nadir quer que voc\234 elimine 10 Rybios."}
+, Summary = " "}
+, 
+[21043] = {Title = "[Espera] Dupla Cansada", 
+Description = {"Voc\234 completou essa missão por hoje, volte no dia seguinte para repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[21044] = {Title = "Dupla Cansada", 
+Description = {"Na prisão de Glast Heim existe um ser que vaga pelo mundo atrás de justiça para sua alma. O Feiticeiro Nadir quer que voc\234 elimine 20 Injustiçados."}
+, Summary = " "}
+, 
+[21045] = {Title = "[Espera] Dupla Cansada", 
+Description = {"Voc\234 completou essa missão por hoje, volte no dia seguinte para repetir."}
+, Summary = "Volte amanh\227"}
 , 
 [1017] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
 Description = {"Na Batalha dos Orcs, elimine 1 Orc Falso."}
@@ -18056,5 +18172,57 @@ Description = {"No Laboratório Werner, elimine 1 Fofinho."}
 [1056] = {Title = "[Espera] Laboratório Werner", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[17849] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Encontre os Fumacentos espalhados pelos mapas e traga 10 Sacolas de Itens Negociáveis para a Produtora do Festival."}
+, Summary = "Traga 10 Sacolas"}
+, 
+[17850] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 agora pode começar as missões do Ilusionista do Festival das Flores de Neve."}
+, Summary = "Fale com o Ilusionista"}
+, 
+[17851] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 agora pode começar as missões de Coti do Festival das Flores de Neve."}
+, Summary = "Fale com Coti"}
+, 
+[17852] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 agora pode começar as missões de Twinkle do Festival das Flores de Neve."}
+, Summary = "Fale com Twinkle"}
+, 
+[17853] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 ouviu os bonecos de neve... traga 10 Sacolas de Itens Negociáveis e uma Cenoura para o Ilusionista"}
+, Summary = "Colete os itens"}
+, 
+[17854] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Missão completa! Aguarde o período de espera e retorne ao Ilusionista."}
+, Summary = "Volte amanh\227."}
+, 
+[17855] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Sasquatch, Marin, Lunático, Raggler e Esqueleto derrubarão Algodão no seu inventário, traga 10 unidades para Coti."}
+, Summary = "10 Algodões"}
+, 
+[17856] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 entregou os itens para Coti"}
+, Summary = "Volte amanh\227."}
+, 
+[17857] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Traga 50 unidades de Olho de Gato para Twinkle."}
+, Summary = "50 Olhos de Gato"}
+, 
+[17858] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Traga 25 unidades de Jarro de Nuvem para Twinkle."}
+, Summary = "25 Jarros de Nuvem"}
+, 
+[17859] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Traga 15 unidades de Chaleira Surrada para Twinkle."}
+, Summary = "15 Chaleiras Surradas"}
+, 
+[17860] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Traga 30 unidades de Biscoito de Gengibre para Twinkle."}
+, Summary = "30 Biscoitos de Gengibre"}
+, 
+[17861] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 j\225 completou as tarefas de hoje, retone amanh\227 para Twinkle."}
+, Summary = "Volte amanh\227."}
 }
 

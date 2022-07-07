@@ -22,7 +22,7 @@ Navi_Map = {
 , 
 {"06guild_r", "Arena de Batalha de Clãs - Sala de Espera ", 5001, 200, 200}
 , 
-{"abbey01", "Monastério ", 5005, 400, 400}
+{"abbey01", "Monastério ", 5001, 400, 400}
 , 
 {"abbey02", "Monastério ", 5001, 300, 300}
 , 
@@ -42,7 +42,7 @@ Navi_Map = {
 , 
 {"alb2trea", "Ilha de Alberta ", 5001, 140, 140}
 , 
-{"alb_ship", "Navio de Alberta ", 5003, 200, 200}
+{"alb_ship", "Navio de Alberta ", 5001, 200, 200}
 , 
 {"alberta", "Alberta ", 5001, 280, 280}
 , 
@@ -64,8 +64,6 @@ Navi_Map = {
 , 
 {"aldebaran", "Al De Baran ", 5001, 280, 280}
 , 
-{"ama_dun01", "Labirinto de Tatames ", 5001, 240, 240}
-, 
 {"ama_dun02", "Campo de Batalha da Floresta Subterrânea ", 5001, 240, 240}
 , 
 {"ama_dun03", "Templo Subterrâneo de Amatsu ", 5001, 240, 240}
@@ -84,7 +82,11 @@ Navi_Map = {
 , 
 {"anthell02", "Formigueiro Infernal (2) ", 5001, 300, 300}
 , 
+{"arena_room", "Sala de Espera ", 5001, 200, 200}
+, 
 {"aru_gld", "Feudo de Valfreyja ", 5001, 400, 400}
+, 
+{"arug_dun01", "Calabouço Subterrâneo de Castelo ", 5001, 400, 400}
 , 
 {"arug_que01", "Pradaria de Morestone ", 5001, 200, 200}
 , 
@@ -101,6 +103,8 @@ Navi_Map = {
 {"ayo_in02", "Interior de Ayotaya ", 5003, 200, 200}
 , 
 {"ayothaya", "Ayotaya ", 5001, 320, 320}
+, 
+{"bat_room", "Sala de Espera do Campo de Batalha ", 5001, 300, 300}
 , 
 {"beach_dun", "Karu, a Caverna do Oeste ", 5001, 300, 300}
 , 
@@ -122,17 +126,11 @@ Navi_Map = {
 , 
 {"brasilis", "Cidade de Brasilis ", 5001, 400, 400}
 , 
-{"brz_n", "Brasilis (Noite) ", 5001, 400, 400}
-, 
 {"c_tower1", "Torre do Relógio (1) ", 5001, 400, 400}
 , 
 {"c_tower2", "Torre do Relógio (2) ", 5001, 300, 300}
 , 
-{"c_tower2_", "Torre Distorcida (2) ", 5001, 300, 300}
-, 
 {"c_tower3", "Torre do Relógio (3) ", 5001, 260, 260}
-, 
-{"c_tower3_", "Torre Distorcida (3) ", 5001, 260, 260}
 , 
 {"c_tower4", "Torre do Relógio (4) ", 5001, 216, 216}
 , 
@@ -178,7 +176,7 @@ Navi_Map = {
 , 
 {"dewata", "Dewata ", 5001, 340, 340}
 , 
-{"dic_dun01", "Túnel Kamidal 01", 5005, 400, 256}
+{"dic_dun01", "Túnel Kamidal 01", 5001, 400, 256}
 , 
 {"dic_dun02", "Túnel Kamidal 02", 5001, 240, 240}
 , 
@@ -190,15 +188,15 @@ Navi_Map = {
 , 
 {"dic_in01", "Casa em Dicastes ", 5003, 400, 300}
 , 
-{"dicastes01", "El Dicastes, Cidade Capital dos Manuks ", 5005, 400, 400}
+{"dicastes01", "El Dicastes, Cidade Capital dos Manuks ", 5001, 400, 400}
 , 
-{"dicastes02", "Floresta Brumbeld Jorhi ", 5005, 240, 360}
+{"dicastes02", "Floresta Brumbeld Jorhi ", 5001, 240, 360}
 , 
 {"e_tower", "Ilha Misty ", 5001, 300, 300}
 , 
 {"ecl_fild01", "Campo Florescente ", 5001, 320, 360}
 , 
-{"ecl_hub01", "Perímetros de Eclage ", 5005, 200, 180}
+{"ecl_hub01", "Perímetros de Eclage ", 5001, 200, 180}
 , 
 {"ecl_in01", "Praça de Eclage ", 5003, 100, 120}
 , 
@@ -212,7 +210,7 @@ Navi_Map = {
 , 
 {"ecl_tdun03", "Torre de Bifröst (3) ", 5001, 100, 100}
 , 
-{"ecl_tdun04", "Topo da Torre de Bifröst ", 5003, 60, 60}
+{"ecl_tdun04", "Topo da Torre de Bifröst ", 5001, 60, 60}
 , 
 {"eclage", "Eclage ", 5001, 400, 400}
 , 
@@ -244,7 +242,7 @@ Navi_Map = {
 , 
 {"einbech", "Einbech, a vila mineradora ", 5001, 300, 300}
 , 
-{"einbroch", "Einbroch, a cidade de aço ", 5005, 340, 380}
+{"einbroch", "Einbroch, a cidade de aço ", 5001, 340, 380}
 , 
 {"force_4-1", "Luta Contra o Tempo ", 5001, 200, 200}
 , 
@@ -286,7 +284,7 @@ Navi_Map = {
 , 
 {"gef_fild14", "Vila dos Orcs do Oeste ", 5001, 400, 400}
 , 
-{"gef_tower", "Torre de Geffen ", 5003, 200, 200}
+{"gef_tower", "Torre de Geffen ", 5001, 200, 200}
 , 
 {"gefenia01", "Gefenia ", 5001, 300, 300}
 , 
@@ -316,7 +314,7 @@ Navi_Map = {
 , 
 {"gl_dun02", "A Mais Profunda Caverna de Glast Heim (2) ", 5001, 300, 300}
 , 
-{"gl_in01", "Casa em Glast Heim ", 5005, 200, 200}
+{"gl_in01", "Casa em Glast Heim ", 5003, 200, 200}
 , 
 {"gl_knt01", "Cavalaria de Glast Heim (1) ", 5001, 300, 300}
 , 
@@ -338,15 +336,31 @@ Navi_Map = {
 , 
 {"glast_01", "Glast Heim ", 5001, 400, 400}
 , 
-{"gon_dun01", "Santuário de Xi Wang Mu ", 5001, 300, 300}
+{"gld2_ald", "Portal do Abismo: Lágrimas do Herói ", 5001, 300, 300}
 , 
-{"gon_dun02", "Tabuleiro de Go ", 5005, 300, 300}
+{"gld2_gef", "Portal do Abismo: Colina dos Mortos ", 5001, 260, 240}
+, 
+{"gld2_pay", "Portal do Abismo: Ventos Ancestrais ", 5001, 240, 240}
+, 
+{"gld2_prt", "Portal do Abismo: Caminho do Guerreiro ", 5001, 280, 280}
+, 
+{"gld_dun01", "Calabouço do Feudo do Bosque Celestial ", 5001, 240, 240}
+, 
+{"gld_dun02", "Calabouço do Feudo de Luina ", 5001, 200, 200}
+, 
+{"gld_dun03", "Calabouço do Feudo das Valquírias ", 5001, 300, 300}
+, 
+{"gld_dun04", "Calabouço do Feudo de Britoniah ", 5001, 300, 300}
+, 
+{"gon_dun01", "Santuário de Xi Wang Mu ", 5001, 300, 300}
 , 
 {"gon_dun03", "Terra das Fadas ", 5001, 240, 300}
 , 
 {"gon_fild01", "Campo de Kunlun ", 5001, 400, 400}
 , 
 {"gon_in", "Interior de Kunlun ", 5003, 200, 120}
+, 
+{"gon_test", "Salão de Batalhas ", 5001, 100, 120}
 , 
 {"gonryun", "Kunlun, a Ilha dos Heremitas ", 5001, 300, 300}
 , 
@@ -358,7 +372,7 @@ Navi_Map = {
 , 
 {"hu_fild04", "Campos de Hugel ", 5001, 400, 400}
 , 
-{"hu_fild05", "O Lago do Abismo ", 5005, 400, 400}
+{"hu_fild05", "O Lago do Abismo ", 5001, 400, 400}
 , 
 {"hu_fild06", "Campos de Hugel ", 5001, 400, 400}
 , 
@@ -376,17 +390,19 @@ Navi_Map = {
 , 
 {"ice_dun04", "Caverna de Gelo ", 5001, 200, 200}
 , 
-{"in_moc_16", "Guilda dos Mercenários ", 5003, 200, 200}
+{"in_hunter", "Guilda dos Caçadores ", 5001, 200, 200}
 , 
-{"in_orcs01", "Vila dos Orcs ", 5003, 200, 200}
+{"in_moc_16", "Guilda dos Mercenários ", 5001, 200, 200}
 , 
-{"in_rogue", "Guila dos Arruaceiros ", 5003, 400, 400}
+{"in_orcs01", "Vila dos Orcs ", 5001, 200, 200}
+, 
+{"in_rogue", "Guila dos Arruaceiros ", 5001, 400, 400}
 , 
 {"in_sphinx1", "Esfinge (1) ", 5001, 300, 300}
 , 
 {"in_sphinx2", "Esfinge (2) ", 5001, 300, 300}
 , 
-{"in_sphinx3", "Esfinge (3) ", 5005, 240, 240}
+{"in_sphinx3", "Esfinge (3) ", 5001, 240, 240}
 , 
 {"in_sphinx4", "Esfinge (4) ", 5001, 240, 240}
 , 
@@ -398,7 +414,7 @@ Navi_Map = {
 , 
 {"iz_ac01", "Instituto do Aprendiz ", 5003, 220, 200}
 , 
-{"iz_ac02", "Instituto do Aprendiz ", 5003, 240, 240}
+{"iz_ac02", "Instituto do Aprendiz ", 5003, 200, 240}
 , 
 {"iz_dun00", "Túnel Submarino (0) ", 5001, 400, 400}
 , 
@@ -412,11 +428,13 @@ Navi_Map = {
 , 
 {"iz_dun05", "Túnel Submarino (6) ", 5001, 280, 280}
 , 
-{"iz_int", "Navio naufragado ", 5003, 80, 80}
+{"iz_int", "Navio naufragado ", 5003, 200, 200}
+, 
+{"iz_ng01", "Escola Ninja ", 5001, 160, 100}
 , 
 {"izlu2dun", "Ilha Byalan ", 5001, 216, 232}
 , 
-{"izlude", "Izlude ", 5001, 268, 300}
+{"izlude", "Izlude ", 5001, 268, 268}
 , 
 {"izlude_in", "Casa em Izlude ", 5003, 200, 200}
 , 
@@ -424,19 +442,25 @@ Navi_Map = {
 , 
 {"jawaii_in", "Interior de Jawaii ", 5003, 200, 140}
 , 
-{"jupe_area1", "Juperos, Zona Restrita ", 5003, 164, 300}
+{"job_duncer", "Teatro de Comodo ", 5001, 140, 172}
 , 
-{"jupe_area2", "Juperos, Zona Restrita ", 5003, 164, 300}
+{"job_monk", "Abadia de Santa Capitolina ", 5001, 400, 300}
 , 
-{"jupe_cave", "Entrada das Ruínas de Juperos ", 5003, 232, 100}
+{"job_star", "O Sol, a Lua e as Estrelas ", 5001, 200, 184}
 , 
-{"jupe_core", "Centro de Juperos ", 5003, 300, 300}
+{"jupe_area1", "Juperos, Zona Restrita ", 5001, 164, 300}
 , 
-{"jupe_ele", "Elevador de Juperos ", 5003, 100, 124}
+{"jupe_area2", "Juperos, Zona Restrita ", 5001, 164, 300}
 , 
-{"jupe_ele_r", "Elevador de Juperos ", 5003, 100, 160}
+{"jupe_cave", "Entrada das Ruínas de Juperos ", 5001, 232, 100}
 , 
-{"jupe_gate", "Juperos, Zona Restrita ", 5003, 100, 200}
+{"jupe_core", "Centro de Juperos ", 5001, 300, 300}
+, 
+{"jupe_ele", "Elevador de Juperos ", 5001, 100, 124}
+, 
+{"jupe_ele_r", "Elevador de Juperos ", 5001, 100, 160}
+, 
+{"jupe_gate", "Juperos, Zona Restrita ", 5001, 100, 200}
 , 
 {"juperos_01", "Ruínas de Juperos ", 5001, 300, 300}
 , 
@@ -446,13 +470,13 @@ Navi_Map = {
 , 
 {"kh_dun02", "Fábrica de Robôs - Nível 2 ", 5001, 240, 240}
 , 
-{"kh_mansion", "Mansão de Kiel Hyre ", 5003, 100, 100}
+{"kh_mansion", "Mansão de Kiel Hyre ", 5001, 100, 100}
 , 
-{"kh_rossi", "A Mansão Rosimier ", 5003, 300, 300}
+{"kh_rossi", "A Mansão Rosimier ", 5001, 300, 300}
 , 
-{"kh_school", "Academia Kiel Hyre ", 5003, 200, 200}
+{"kh_school", "Academia Kiel Hyre ", 5001, 200, 200}
 , 
-{"kh_vila", "Cabana de Kiel Hyre ", 5003, 200, 200}
+{"kh_vila", "Cabana de Kiel Hyre ", 5001, 200, 200}
 , 
 {"lasa_dun01", "Ninho do Dragão", 5001, 220, 220}
 , 
@@ -462,7 +486,7 @@ Navi_Map = {
 , 
 {"lasa_dun_q", "Ninho do Dragão", 5001, 320, 320}
 , 
-{"lasa_fild01", "Planícies Ravioli", 5005, 400, 400}
+{"lasa_fild01", "Planícies Ravioli", 5001, 400, 400}
 , 
 {"lasa_fild02", "Floresta Ravioli", 5001, 400, 400}
 , 
@@ -472,6 +496,8 @@ Navi_Map = {
 , 
 {"lhz_airport", "Aeroporto de Lighthalzen ", 5002, 300, 120}
 , 
+{"lhz_d_n2", "Laboratório de Somatologia - Pesadelo", 5001, 96, 64}
+, 
 {"lhz_dun01", "Laboratório de Somatologia ", 5001, 300, 300}
 , 
 {"lhz_dun02", "Laboratório de Somatologia ", 5001, 300, 300}
@@ -479,8 +505,6 @@ Navi_Map = {
 {"lhz_dun03", "Laboratório de Somatologia ", 5001, 280, 280}
 , 
 {"lhz_dun04", "Laboratório de Somatologia ", 5001, 300, 300}
-, 
-{"lhz_dun_n", "Àü»çÀÚÀÇ ¹«´ý", 5001, 280, 280}
 , 
 {"lhz_fild01", "Campos de Lighthalzen ", 5001, 400, 400}
 , 
@@ -494,7 +518,9 @@ Navi_Map = {
 , 
 {"lhz_in03", "Interior de Lighthalzen ", 5003, 280, 280}
 , 
-{"lighthalzen", "Lighthalzen, a Cidade-Estado da Prosperidade ", 5005, 400, 360}
+{"lhz_que01", "Interior de Lighthalzen ", 5001, 120, 180}
+, 
+{"lighthalzen", "Lighthalzen, a Cidade-Estado da Prosperidade ", 5001, 400, 360}
 , 
 {"lou_dun01", "A Tumba Real ", 5001, 300, 300}
 , 
@@ -519,6 +545,24 @@ Navi_Map = {
 {"ma_in01", "Interior de Malaya ", 5003, 200, 200}
 , 
 {"ma_scene01", "Lago Bakonawa ", 5001, 340, 360}
+, 
+{"ma_zif01", "Interior de Jeepney ", 5001, 60, 60}
+, 
+{"ma_zif02", "Interior de Jeepney ", 5001, 60, 60}
+, 
+{"ma_zif03", "Interior de Jeepney ", 5001, 60, 60}
+, 
+{"ma_zif04", "Interior de Jeepney ", 5001, 60, 60}
+, 
+{"ma_zif05", "Interior de Jeepney ", 5001, 60, 60}
+, 
+{"ma_zif06", "Interior de Jeepney ", 5001, 60, 60}
+, 
+{"ma_zif07", "Interior de Jeepney ", 5001, 60, 60}
+, 
+{"ma_zif08", "Interior de Jeepney ", 5001, 60, 60}
+, 
+{"ma_zif09", "Interior de Jeepney ", 5001, 60, 60}
 , 
 {"mag_dun01", "Calabouço de Magma ", 5001, 260, 260}
 , 
@@ -549,8 +593,6 @@ Navi_Map = {
 {"mid_campin", "Acampamento da Expedição da Aliança ", 5003, 400, 200}
 , 
 {"mjo_dun01", "Mina Abandonada de Mjolnir (1) ", 5001, 280, 340}
-, 
-{"mjo_dun02", "Mina Abandonada de Mjolnir (2) ", 5001, 400, 400}
 , 
 {"mjo_dun03", "Mina Abandonada de Mjolnir (3) ", 5001, 340, 280}
 , 
@@ -640,7 +682,7 @@ Navi_Map = {
 , 
 {"moc_pryd06", "Dentro da Pirâmide (6) ", 5001, 204, 204}
 , 
-{"moc_prydb1", "Guilda dos Gatunos ", 5005, 200, 200}
+{"moc_prydb1", "Guilda dos Gatunos ", 5001, 200, 200}
 , 
 {"moc_prydn1", "Base da Pirâmide 01 - Pesadelo ", 5001, 232, 232}
 , 
@@ -650,7 +692,7 @@ Navi_Map = {
 , 
 {"monk_in", "Dentro da Abadia ", 5003, 200, 200}
 , 
-{"monk_test", "Abadia de Santa Capitolina ", 5003, 400, 400}
+{"monk_test", "Abadia de Santa Capitolina ", 5001, 400, 400}
 , 
 {"mora", "Mora - A Vila dos Rafflen ", 5001, 240, 240}
 , 
@@ -676,6 +718,8 @@ Navi_Map = {
 , 
 {"mosk_in", "Interior de Moscóvia ", 5003, 300, 300}
 , 
+{"mosk_ship", "Navio ", 5001, 200, 200}
+, 
 {"nameless_i", "Ilha Esquecida ", 5001, 340, 340}
 , 
 {"nameless_in", "Interior da Ilha Esquecida ", 5003, 200, 200}
@@ -689,6 +733,8 @@ Navi_Map = {
 {"nif_in", "Interior de Nifflheim ", 5003, 200, 200}
 , 
 {"niflheim", "Nifflheim, O reino dos mortos ", 5001, 400, 300}
+, 
+{"niflxmas", "Evento Natalino ", 5001, 400, 300}
 , 
 {"nyd_dun01", "A Grande Ferida ", 5001, 300, 300}
 , 
@@ -712,7 +758,13 @@ Navi_Map = {
 , 
 {"ordeal_3-4", "Batalha de Provação ", 5001, 308, 308}
 , 
+{"p_track01", "Arena da Corrida de Monstros ", 5001, 100, 80}
+, 
+{"p_track02", "Arena da Corrida de Monstros ", 5001, 100, 80}
+, 
 {"pay_arche", "Vila dos Arqueiros ", 5001, 200, 200}
+, 
+{"pay_d03_i", "Ilusão da Lua", 5001, 300, 300}
 , 
 {"pay_dun00", "Caverna de Payon (0) ", 5001, 200, 200}
 , 
@@ -756,7 +808,21 @@ Navi_Map = {
 , 
 {"payon_in03", "Casa em Payon ", 5003, 200, 200}
 , 
+{"poring_w01", "Guerra Poring - Sala de Espera ", 5001, 200, 200}
+, 
+{"poring_w02", "Guerra Poring ", 5001, 200, 240}
+, 
+{"priest_1-1", "Sanctum ", 5001, 200, 200}
+, 
+{"priest_2-1", "Sanctum ", 5001, 200, 200}
+, 
+{"priest_3-1", "Sanctum ", 5001, 200, 200}
+, 
 {"prontera", "Prontera ", 5001, 312, 392}
+, 
+{"prt_are01", "Arena ", 5001, 300, 300}
+, 
+{"prt_are_in", "Sala de Espera ", 5003, 200, 200}
 , 
 {"prt_cas", "Palácio de Prontera ", 5003, 400, 356}
 , 
@@ -792,19 +858,13 @@ Navi_Map = {
 , 
 {"prt_in", "Casa em Prontera ", 5003, 300, 200}
 , 
-{"prt_lib", "Memorial das Famílias Reais [Presente] ", 5003, 160, 120}
+{"prt_lib", "Memorial das Famílias Reais [Presente] ", 5001, 160, 120}
 , 
-{"prt_lib_q", "Memorial das Famílias Reais [Passado] ", 5003, 160, 120}
-, 
-{"prt_maze01", "Labirinto da Floresta (1) ", 5005, 200, 200}
-, 
-{"prt_maze02", "Labirinto da Floresta (2) ", 5001, 200, 200}
-, 
-{"prt_maze03", "Labirinto da Floresta (3) ", 5005, 200, 200}
+{"prt_lib_q", "Memorial das Famílias Reais [Passado] ", 5001, 160, 120}
 , 
 {"prt_monk", "Abadia de Santa Capitolina ", 5001, 400, 300}
 , 
-{"prt_pri00", "Carceragem de Prontera ", 5003, 200, 200}
+{"prt_pri00", "Carceragem de Prontera ", 5001, 200, 200}
 , 
 {"prt_prison", "Prisão de Prontera ", 5001, 300, 300}
 , 
@@ -812,19 +872,33 @@ Navi_Map = {
 , 
 {"prt_sewb1", "Esgoto de Prontera (1) ", 5001, 320, 320}
 , 
-{"prt_sewb2", "Esgoto de Prontera (2) ", 5005, 200, 200}
+{"prt_sewb2", "Esgoto de Prontera (2) ", 5001, 200, 200}
 , 
 {"prt_sewb3", "Esgoto de Prontera (3) ", 5001, 200, 200}
 , 
 {"prt_sewb4", "Esgoto de Prontera (4) ", 5001, 200, 200}
 , 
-{"que_dan02", "Interior da Casa Abandonada de Juno ", 5003, 120, 60}
+{"que_bingo", "Sala do Bingo ", 5001, 100, 200}
 , 
-{"que_god01", "Mapa da Missão ", 5003, 300, 140}
+{"que_dan02", "Interior da Casa Abandonada de Juno ", 5001, 120, 60}
+, 
+{"que_god01", "Mapa da Missão ", 5001, 300, 140}
+, 
+{"que_god02", "Mapa da Missão ", 5001, 200, 140}
+, 
+{"que_hugel", "Subterrâneos do Santuário de Odin ", 5001, 200, 200}
 , 
 {"que_job01", "Taverna Particular ", 5001, 160, 100}
 , 
-{"que_thor", "Vulcão de Thor ", 5003, 200, 100}
+{"que_lhz", "Laboratório de Somatologia ", 5001, 300, 300}
+, 
+{"que_qsch01", "Visão de Okolnir ", 5001, 400, 400}
+, 
+{"que_rachel", "Interior do Templo ", 5001, 340, 340}
+, 
+{"que_swat", "Base Militar", 5001, 360, 360}
+, 
+{"que_thor", "Vulcão de Thor ", 5001, 200, 100}
 , 
 {"ra_fild01", "Pradaria Audhumbla ", 5001, 400, 400}
 , 
@@ -864,19 +938,25 @@ Navi_Map = {
 , 
 {"ra_san05", "Santuário ", 5001, 300, 300}
 , 
-{"ra_temin", "Interior do Templo ", 5003, 340, 340}
+{"ra_temin", "Interior do Templo ", 5001, 340, 340}
 , 
 {"ra_temple", "Templo de Freya - Cheshrumnir ", 5001, 240, 240}
 , 
-{"ra_temsky", "Escritório da Papisa - Os Jardins Sagrados ", 5003, 200, 200}
+{"ra_temsky", "Escritório da Papisa - Os Jardins Sagrados ", 5001, 200, 200}
 , 
 {"rachel", "Capital de Arunafeltz, Rachel ", 5001, 300, 300}
+, 
+{"rebel_in", "Clana Nemieri", 5003, 220, 100}
 , 
 {"rwc01", "championship4", 5001, 100, 100}
 , 
 {"rwc03", "championship5", 5001, 100, 100}
 , 
 {"sch_gld", "Feudo de Nithafjoll ", 5001, 400, 400}
+, 
+{"schg_dun01", "Calabouço Subterrâneo de Castelo ", 5001, 400, 400}
+, 
+{"slabw01", "Laboratório Clandestino", 5001, 300, 180}
 , 
 {"spl_fild01", "Campos dos Esplendores ", 5001, 400, 400}
 , 
@@ -889,6 +969,18 @@ Navi_Map = {
 {"spl_in02", "Dentro de Esplendor ", 5003, 300, 300}
 , 
 {"splendide", "Base dos Esplêndidos, Esplendor ", 5001, 400, 400}
+, 
+{"star_frst", "Antiga Payon", 5001, 200, 200}
+, 
+{"star_in", "Interior da Antiga Payon", 5003, 200, 200}
+, 
+{"sword_1-1", "Hall da Prova dos Espadachins ", 5001, 260, 260}
+, 
+{"sword_2-1", "Hall da Prova dos Espadachins ", 5001, 260, 260}
+, 
+{"teg_dun01", "Calabouço da Guilda 1 ", 5001, 300, 300}
+, 
+{"teg_dun02", "Calabouço da Guilda 2 ", 5001, 200, 200}
 , 
 {"tha_t01", "Torre de Thanatos \150 Andar Inferior ", 5001, 300, 300}
 , 
@@ -916,7 +1008,7 @@ Navi_Map = {
 , 
 {"thana_boss", "Torre de Thanatos \150 Área Desconhecida ", 5001, 280, 280}
 , 
-{"thana_step", "Torre de Thanatos \150 Andar Superior ", 5005, 240, 400}
+{"thana_step", "Torre de Thanatos \150 Andar Superior ", 5001, 240, 400}
 , 
 {"thor_camp", "Acampamento do Vulcão de Thor ", 5001, 300, 360}
 , 
@@ -926,13 +1018,13 @@ Navi_Map = {
 , 
 {"thor_v03", "Vulcão de Thor ", 5001, 300, 300}
 , 
-{"treasure01", "Navio Fantasma (1) ", 5005, 200, 200}
+{"treasure01", "Navio Fantasma (1) ", 5001, 200, 200}
 , 
-{"treasure02", "Navio Fantasma (2) ", 5005, 200, 200}
+{"treasure02", "Navio Fantasma (2) ", 5001, 200, 200}
 , 
-{"treasure_n1", "Navio Fantasma 01 - Pesadelo ", 5005, 200, 200}
+{"treasure_n1", "Navio Fantasma 01 - Pesadelo ", 5001, 200, 200}
 , 
-{"treasure_n2", "Navio Fantasma 02 - Pesadelo ", 5005, 200, 200}
+{"treasure_n2", "Navio Fantasma 02 - Pesadelo ", 5001, 200, 200}
 , 
 {"tur_dun01", "Ilha da Tartaruga ", 5001, 300, 300}
 , 
@@ -946,7 +1038,7 @@ Navi_Map = {
 , 
 {"tur_dun06", "Pântano Subterrâneo (2) ", 5001, 100, 100}
 , 
-{"turbo_room", "Sala de Espera ", 5003, 200, 200}
+{"turbo_room", "Sala de Espera ", 5001, 200, 200}
 , 
 {"um_fild01", "Floresta de Luluka ", 5001, 400, 400}
 , 
@@ -960,11 +1052,11 @@ Navi_Map = {
 , 
 {"umbala", "Aldeia da tribo Wootan, Umbala ", 5001, 280, 344}
 , 
-{"un_bk_q", "Abrigo Subterrâneo ", 5003, 400, 400}
+{"un_bk_q", "Abrigo Subterrâneo ", 5001, 400, 400}
 , 
-{"un_bunker", "Abrigo Subterrâneo ", 5003, 400, 400}
+{"un_bunker", "Abrigo Subterrâneo ", 5001, 400, 400}
 , 
-{"un_myst", "Túnel do Abrigo ", 5003, 400, 220}
+{"un_myst", "Túnel do Abrigo ", 5001, 400, 220}
 , 
 {"ve_fild01", "Campo de Veins ", 5001, 400, 400}
 , 
@@ -1010,9 +1102,9 @@ Navi_Map = {
 , 
 {"y_airport", "Aeroporto de Juno ", 5002, 300, 120}
 , 
-{"yggdrasil01", "Fonte de Hvergelmir (Tronco de Yggdrasil) ", 5003, 300, 300}
+{"yggdrasil01", "Fonte de Hvergelmir (Tronco de Yggdrasil) ", 5001, 300, 300}
 , 
-{"yuno", "Juno ", 5005, 400, 400}
+{"yuno", "Juno ", 5001, 400, 400}
 , 
 {"yuno_fild01", "Fronteira de Aldebaran ", 5001, 400, 400}
 , 
@@ -1046,9 +1138,15 @@ Navi_Map = {
 , 
 {"yuno_in04", "Biblioteca de Juno ", 5003, 200, 140}
 , 
-{"yuno_pre", "Sede do Governo de Schwaltzwald ", 5003, 140, 140}
+{"yuno_pre", "Sede do Governo de Schwaltzwald ", 5001, 140, 140}
 , 
 {"1@sara", "Memórias de Sarah ", 5001, 300, 360}
+, 
+{"1@pop1", "Edda de Arunafeltz (1)", 5001, 160, 160}
+, 
+{"1@pop2", "Edda de Arunafeltz (2)", 5001, 160, 300}
+, 
+{"1@pop3", "Edda de Arunafeltz (3)", 5001, 116, 116}
 , 
 {"NULL", "", 0, 0, 0}
 }

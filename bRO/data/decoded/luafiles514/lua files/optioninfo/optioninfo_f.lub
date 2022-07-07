@@ -83,4 +83,16 @@ SaveToFileCmdOnOffValueEx = function(nID)
   end
 end
 
+l_GetDefaultOptionValue = function(keyName)
+  -- function num : 0_5
+  if DefaultCmdOnOffList == nil then
+    return -1
+  end
+  local optionInfo = DefaultCmdOnOffList[keyName]
+  if optionInfo ~= nil then
+    return optionInfo
+  end
+  return -1
+end
+
 

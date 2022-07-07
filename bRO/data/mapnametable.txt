@@ -1016,17 +1016,24 @@ lhz_d_n2.rsw#Laboratório de Somatologia - Pesadelo#
 1@air2.rsw#Aeroplano#
 
 // ?? ???? ???? ??
-1@pop1.rsw#?? ???#
-1@pop2.rsw#??? ?? ?#
-1@pop3.rsw#?? ??#
+1@pop1.rsw#Edda de Arunafeltz (1)#
+1@pop2.rsw#Edda de Arunafeltz (2)#
+1@pop3.rsw#Edda de Arunafeltz (3)#
 
 // ep16.2
-1@slw.rsw#?????? ???#
-1@swat.rsw#???? ????#
-que_swat.rsw#???? ????#
-slabw01.rsw#??? ???#
-rebel_in.rsw#??? ????#
+1@slw.rsw#Laboratório Werner#
+1@swat.rsw#Base Militar#
+que_swat.rsw#Base Militar#
+slabw01.rsw#Laboratório Clandestino#
+rebel_in.rsw#Clana Nemieri#
 
 // 11? ????
 hu_fild03.rsw#Campo de Caça#
 prt_evt_in.rsw#Cabana#
+
+pay_d03_i.rsw#Ilusão da Lua#
+
+star_frst.rsw#Antiga Payon#
+star_in.rsw#Interior da Antiga Payon#
+
+1@soul.rsw#Passagem da Alma#

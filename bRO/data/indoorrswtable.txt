@@ -143,3 +143,6 @@ rebel_in.rsw#
 
 //왕실 사냥대회
 prt_in_evt.rsw#
+
+//201804_성제전직용
+star_in.rsw#

@@ -630,6 +630,74 @@ TargetItems = {
 {"Anti_Magic_Manteau", 20944}
 }
 , NeedSource_String = "Itens do Torneio"}
+, 
+Moonlight_Box_IL = {ItemID = 100391, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Spectral_Spear_IL", 26007}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Muffler_IL", 20838}
+, 
+{"Shoes_IL", 22133}
+, 
+{"Nurse_Cap_IL", 19209}
+, 
+{"Puente_Robe_IL", 15195}
+, 
+{"Apple_Of_Archer_IL", 19210}
+}
+, NeedSource_String = "Ilusão da Lua"}
+, 
+S_Moonlight_Box_IL = {ItemID = 100392, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Spectral_Spear_IL", 26007}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Muffler_IL", 20838}
+, 
+{"Shoes_IL", 22133}
+, 
+{"Nurse_Cap_IL", 19209}
+, 
+{"Puente_Robe_IL", 15195}
+, 
+{"Apple_Of_Archer_IL", 19210}
+}
+, NeedSource_String = "Ilusão da Lua"}
+, 
+ILL_Piece_A = {ItemID = 100003, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Spectral_Spear_IL", 26007}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Long_Mace_IL", 16063}
+}
+, NeedSource_String = "Armas Ilusionais"}
+, 
+ILL_Piece_B = {ItemID = 100004, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Spectral_Spear_IL", 26007}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Long_Mace_IL", 16063}
+}
+, NeedSource_String = "Armas Ilusionais"}
 }
 , serverMain = function()
   -- function num : 0_0
