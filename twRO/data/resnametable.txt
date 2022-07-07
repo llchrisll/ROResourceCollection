@@ -3746,3 +3746,9 @@ sp_rud4_B.gnd#sp_rud4_B.gnd#
 sp_rud4_B.gat#sp_rud4_B.gat#
 sp_rud4_B.rsw#sp_rud4_B.rsw#
 유저인터페이스\map\sp_rud4_B.bmp#유저인터페이스\map\sp_rud4_B.bmp#
+
+//220621 게야투
+1@ge_sn.gnd#1@ge_sn.gnd#
+1@ge_sn.gat#1@ge_sn.gat#
+1@ge_sn.rsw#1@ge_sn.rsw#
+유저인터페이스\map\1@ge_sn.bmp#유저인터페이스\map\1@ge_sn.bmp#

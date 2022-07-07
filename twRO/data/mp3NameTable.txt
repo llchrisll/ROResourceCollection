@@ -818,7 +818,7 @@ alb2trea.rsw#bgm\\52.mp3#
 gef_tower.rsw#bgm\\13.mp3#
 //moc_castle.rsw#bgm\\11.mp3#
 moc_ruins.rsw#bgm\52.mp3#
-morocc.rsw#bgm\\119.mp3#
+morocc.rsw#bgm\\11.mp3#
 morocc_in.rsw#bgm\\11.mp3#
 pay_arche.rsw#bgm\\14.mp3#
 payon.rsw#bgm\\14.mp3#
@@ -1284,7 +1284,6 @@ nif_dun02.rsw#bgm\\85.mp3#
 // 등급강화소
 grademk.rsw#bgm\\143.mp3#
 
-
 // 4차 신규 맵 채널
 sp_rud4_a.rsw#bgm\\176.mp3#
 amic1_a.rsw#bgm\\124.mp3#
@@ -1299,3 +1298,9 @@ nifd02_b.rsw#bgm\\85.mp3#
 
 // 프론테라 맵 채널
 prontera1.rsw#bgm\\08.mp3#
+
+//파라마켓
+paramk.rsw#bgm\\143.mp3#
+
+// 게펜 야간 투기장
+1@ge_sn.rsw#bgm\\159.mp3#

@@ -10744,4 +10744,63 @@
 		<perfor_2>嘩啦啦!這就是英雄的手法!</perfor_2>
 	</so_full>
 </ORK_HERO2>
+
+<pet_kiel>
+<hungry>
+<feeding> ..終於?.. </feeding>
+<dead> 生物能量分析結果: 0% / 狀態 : 不合適 </dead>
+<stand> 你不覺得為時已晚了嗎? </stand>
+<levelup> ERROR : 生物能量活性測量結果 : 101% </levelup>
+<perfor_1> ERROR : 無...法...分...析...</perfor_1>
+<perfor_2> 休息時間到了。 </perfor_2>
+<perfor_2> 進入模式 : 睡眠 </perfor_2>
+<perfor_3> 不可以....!! </perfor_3>
+</hungry>
+<bit_hungry>
+<feeding> 還能吃... </feeding>
+<dead> 生物能量分析結果 : 0% / 狀態 : 不合適 </dead>
+<stand> 好像忘記了什麼不是嗎? </stand>
+<levelup> ERROR : 生物能量活性測量結果 : 101% </levelup>
+<perfor_1> ERROR : 無...法...分...析...</perfor_1>
+<perfor_2> 休息時間到了。 </perfor_2>
+<perfor_2> 進入模式 : 睡眠 </perfor_2>
+<perfor_3> 不可以....!! </perfor_3>
+</bit_hungry>
+<noting>
+<feeding> 還能吃... </feeding>
+<dead> 生物能量分析結果 : 0% / 狀態 : 不合適 </dead>
+<stand> 情感?心情?憐憫? </stand>
+<stand> 並非不理解。</stand>
+<levelup> ERROR : 生物能量活性測量結果 : 101% </levelup>
+<perfor_1> ERROR : 無...法...分...析...</perfor_1>
+<perfor_2> 休息時間到了。 </perfor_2>
+<perfor_2> 進入模式 : 睡眠 </perfor_2>
+<perfor_3> 不可以....!! </perfor_3>
+</noting>
+<full>
+<feeding> 再也不合胃口了。 </feeding>
+<dead> 生物能量分析結果 : 0% / 狀態 : 不合適 </dead>
+<stand> 情感?心情?憐憫? </stand>
+<stand> 並非不理解。</stand>
+<stand> 只是無法分析的數據而已... </stand>
+<levelup> ERROR : 生物能量活性測量結果 : 101% </levelup>
+<perfor_1> ERROR : 無...法...分...析...</perfor_1>
+<perfor_2> 休息時間到了。 </perfor_2>
+<perfor_2> 進入模式 : 睡眠 </perfor_2>
+<perfor_3> 不可以....!! </perfor_3>
+</full>
+<so_full>
+<feeding> 再也不合胃口了。 </feeding>
+<dead> 生物能量分析結果 : 0% / 狀態 : 不合適 </dead>
+<stand> 情感?心情?憐憫? </stand>
+<stand> 並非不理解。</stand>
+<stand> 只是無法分析的數據而已... </stand>
+<levelup> ERROR : 生物能量活性測量結果 : 101% </levelup>
+<perfor_1> ERROR : 無...法...分...析...</perfor_1>
+<perfor_2> 休息時間到了。 </perfor_2>
+<perfor_2> 進入模式 : 睡眠 </perfor_2>
+<perfor_3> 不可以....!! </perfor_3>
+</so_full>
+</pet_kiel>
+
 </monster_talk_table>

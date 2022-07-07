@@ -9153,9 +9153,9 @@ Description = {""}
 Description = {"現在覺得卡片厭惡了，不過明天也許會改變主意，明天再跟麥格納屯博士對話吧!"}
 , Summary = ""}
 , 
-[8500] = {Title = "需要櫻花樹枝", 
-Description = {"<NAVI>受[阿爾勒 奧爾良]<INFO>prontera,167,291,0,101,0</INFO></NAVI>之託去收集櫻花樹枝 15個。"}
-, Summary = "收集櫻花樹枝 15個"}
+[8500] = {Title = "需要典雅櫻花樹枝", IconName = "ico_ev.bmp", 
+Description = {"受<NAVI>[阿爾勒 奧爾良]<INFO>prontera,167,291,0,101,0</INFO></NAVI>之託去收集^4d4dff典雅櫻花樹枝^00000015個。"}
+, Summary = "收集典雅櫻花樹枝15個"}
 , 
 [8501] = {Title = "轉交遺失的簽名書(1)", 
 Description = {"<NAVI>把遺漏在[阿爾勒 奧爾良]<INFO>prontera,167,291,0,101,0</INFO></NAVI> 簽名會的書物歸原主後，向阿爾勒 奧爾良回報。"}
@@ -25293,13 +25293,13 @@ Description = {"該任務為每日第三次攻略，已無法再重置，須於冷卻時間過後再次接取執
 Description = {"最近發現了無法被陽光所照亮的區域，我們需要去調查該處的冒險家。"}
 , Summary = "與文物收藏家對話"}
 , 
-[3510] = {Title = "製作櫻花涼扇", IconName = "ico_ev.bmp", 
-Description = {"製作^4d4dff櫻花涼扇^000000需要^4d4dff典雅櫻花樹枝25個^000000，收集後拿給阿爾勒吧!"}
+[3510] = {Title = "簡單的製作", IconName = "ico_ev.bmp", 
+Description = {"為了製作收集^4d4dff典雅櫻花樹枝25個^000000後交給阿爾勒吧!"}
 , Summary = "典雅櫻花樹枝25個"}
 , 
-[3511] = {Title = "製作有難度的櫻花墨鏡", IconName = "ico_ev.bmp", 
-Description = {"製作^4d4dff櫻花墨鏡^000000需要^4d4dff典雅櫻花樹枝15個^000000和^4d4dff紅色藥草^000000 5個，收集後拿給阿爾勒吧!"}
-, Summary = "典雅櫻花樹枝15個和紅色藥草5個"}
+[3511] = {Title = "困難的製作", IconName = "ico_ev.bmp", 
+Description = {"為了製作收集^4d4dff典雅櫻花樹枝15個^000000和^4d4dff紅色藥草5個^000000後交給阿爾勒吧!"}
+, Summary = "收集典雅櫻花樹枝15個和紅色藥草5個"}
 , 
 [8577] = {Title = "幫忙打汁喔...哈密瓜", IconName = "ico_ev.bmp", 
 Description = {"代替去毀葛度假的父親而經辦哈密瓜慶典的<NAVI>[賴賴]<INFO>geffen,88,35,0,101,0</INFO></NAVI>，只要帶來甜滋滋哈密瓜10個，就會幫忙打成香甜哈密瓜汁，甜滋滋哈密瓜可向哈味波利取得。"}
@@ -26992,7 +26992,7 @@ Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學
 , Summary = ""}
 , 
 [19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[4月的晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>"}
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[5月的晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>"}
 , Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
@@ -27938,5 +27938,53 @@ Description = {"完成了第一次的幸福之蛋探索，在手背上蓋第一個紀念戳吧!"}
 [16426] = {Title = "探索幸福之蛋第二次", IconName = "ico_ev.bmp", 
 Description = {"完成了第二次的幸福之蛋探索，在手背上蓋第二個紀念戳吧!"}
 , Summary = "第二次幸福之蛋探索"}
+, 
+[293336] = {Title = "送達RTC2022邀請函", IconName = "ico_ev.bmp", 
+Description = {"向冒險家<NAVI>[盧恩爆發的盧恩騎士]<INFO>prt_in,83,92,0,101,0</INFO></NAVI>送達RTC2022邀請函。"}
+, Summary = "邀請函送達", NpcSpr = "4_M_REDMAN", NpcNavi = "prt_in", NpcPosX = 83, NpcPosY = 92}
+, 
+[293337] = {Title = "送達RTC2022邀請函", IconName = "ico_ev.bmp", 
+Description = {"向冒險家<NAVI>[靈感的皇家禁衛隊]<INFO>prt_cas,88,290,0,101,0</INFO></NAVI>送達RTC2022邀請函。"}
+, Summary = "邀請函送達", NpcSpr = "4_M_ROYALGUARD", NpcNavi = "prt_cas", NpcPosX = 88, NpcPosY = 290}
+, 
+[293338] = {Title = "送達RTC2022邀請函", IconName = "ico_ev.bmp", 
+Description = {"向冒險家<NAVI>[解除的大主教]<INFO>prontera,251,359,0,101,0</INFO></NAVI>送達RTC2022邀請函。"}
+, Summary = "邀請函送達", NpcSpr = "4_M_BLUEMAN", NpcNavi = "prontera", NpcPosX = 251, NpcPosY = 359}
+, 
+[293339] = {Title = "送達RTC2022邀請函", IconName = "ico_ev.bmp", 
+Description = {"向冒險家<NAVI>[魔法效果解除的妖術師]<INFO>geffen,186,160,0,101,0</INFO></NAVI>送達RTC2022邀請函。"}
+, Summary = "邀請函送達", NpcSpr = "GEFFEN_MAGE_12", NpcNavi = "geffen", NpcPosX = 186, NpcPosY = 160}
+, 
+[293340] = {Title = "送達RTC2022邀請函", IconName = "ico_ev.bmp", 
+Description = {"向冒險家<NAVI>[阿修羅霸凰拳的修羅]<INFO>yuno_fild07,216,215,0,101,0</INFO></NAVI>送達RTC2022邀請函。"}
+, Summary = "邀請函送達", NpcSpr = "4_M_SURA", NpcNavi = "yuno_fild07", NpcPosX = 216, NpcPosY = 215}
+, 
+[293341] = {Title = "送達RTC2022邀請函", IconName = "ico_ev.bmp", 
+Description = {"向冒險家<NAVI>[布萊奇之詩的宮廷樂師]<INFO>tha_scene01,139,194,0,101,0</INFO></NAVI>送達RTC2022邀請函。"}
+, Summary = "邀請函送達", NpcSpr = "4_M_MINSTREL1", NpcNavi = "tha_scene01", NpcPosX = 139, NpcPosY = 194}
+, 
+[293342] = {Title = "送達RTC2022邀請函", IconName = "ico_ev.bmp", 
+Description = {"向冒險家<NAVI>[面具-無知的魅影追蹤者]<INFO>s_atelier,63,115,0,101,0</INFO></NAVI>送達RTC2022邀請函。"}
+, Summary = "邀請函送達", NpcSpr = "4_F_SHADOWCHASER", NpcNavi = "s_atelier", NpcPosX = 63, NpcPosY = 115}
+, 
+[293343] = {Title = "送達RTC2022邀請函", IconName = "ico_ev.bmp", 
+Description = {"向<NAVI>[RTC仲介人員]<INFO>yuno,161,210,0,101,0</INFO></NAVI>回報吧!"}
+, Summary = "回報結果", NpcSpr = "4_F_ZONDAGIRL", NpcNavi = "yuno", NpcPosX = 161, NpcPosY = 210}
+, 
+[293344] = {Title = "送達RTC2022邀請函(等候)", IconName = "ico_ev.bmp", 
+Description = {"冷卻時間內無法送達邀請函。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[12510] = {Title = "關於隱藏的鬥技場", 
+Description = {"偶然發現在次元裂縫的另一邊透過非法手段經營鬥技場，", "雖然不清楚是如何操弄已經成為過去的人，但肯定是很有趣的事情。"}
+, Summary = "懦夫的規矩"}
+, 
+[12511] = {Title = "[等候]今天沒有比賽", 
+Description = {"鬥技場每3天開放一次，沒比賽的時間就好好休息吧!"}
+, Summary = "3天後凌晨四點恢復比賽", CoolTimeQuest = 1}
+, 
+[12512] = {Title = "活下來的證據", 
+Description = {"如果你還站在鬥技場裡，又看著這張通行證，表示你還活著。"}
+, Summary = "還沒有死"}
 }
 

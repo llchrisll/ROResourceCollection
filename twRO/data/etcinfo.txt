@@ -22,7 +22,7 @@ pokjuk#
 //sakura#
 //weather#
 //izlude.rsw#
-/sakura#
+//sakura#
 //weather#
 //hugel.rsw#
 //sakura#

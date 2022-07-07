@@ -5,6 +5,418 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+True_G_S_Rand_Box_TW = {ItemID = 101622, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"S_TrueGem_Armor", 1, 24675}
+, 
+{"S_TrueGem_Shoes", 1, 24676}
+, 
+{"S_TrueGem_Earring", 1, 24677}
+, 
+{"S_TrueGem_Pendant", 1, 24678}
+}
+, NeedSource_String = "影子真魔力礦石"}
+, 
+True_GemShadow_Mix = {ItemID = 100620, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Gemstone_Shoes", 1, 24085}
+, 
+{"S_Gemstone_Shield", 1, 24086}
+, 
+{"S_Gemstone_Weapon", 1, 24087}
+, 
+{"S_Gemstone_Earring", 1, 24088}
+, 
+{"S_Gemstone_Pendent", 1, 24089}
+, 
+{"S_Gemstone_Armor", 1, 24084}
+, 
+{"S2_Gemstone_Weapon", 1, 24335}
+, 
+{"S2_Gemstone_Shield", 1, 24336}
+, 
+{"S2_Gemstone_Earring", 1, 24322}
+}
+, NeedSource_String = "影子魔力礦石"}
+, 
+S_M_Mam_Ran_Box_TW = {ItemID = 101595, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"S_M_Mammoth_Armor", 1, 24679}
+, 
+{"S_M_Mammoth_Shoes", 1, 24680}
+, 
+{"S_M_Mammoth_Earring", 1, 24681}
+, 
+{"S_M_Mammoth_Pendant", 1, 24682}
+}
+, NeedSource_String = "影子神力猛瑪之力"}
+, 
+Mammoth_Mix = {ItemID = 100621, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+}
+, NeedSource_String = "影子神力猛瑪"}
+, 
+["3Lv_9Refine_Weapon_7Gu"] = {ItemID = 100381, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 9, 
+SourceItems = {
+{"Scarlet_Knuckle", 1, 1839}
+, 
+{"Scarlet_Dagger", 1, 28705}
+, 
+{"Scarlet_Lance", 1, 1498}
+, 
+{"Scarlet_Rod", 1, 1680}
+, 
+{"Scarlet_Revolver", 1, 13127}
+, 
+{"Scarlet_Mace", 1, 16040}
+, 
+{"Scarlet_Bible", 1, 28604}
+, 
+{"Scarlet_Viollin", 1, 1939}
+, 
+{"Scarlet_Bow", 1, 18130}
+, 
+{"Scarlet_Saber", 1, 13454}
+, 
+{"Scarlet_Staff", 1, 2025}
+, 
+{"Scarlet_Spear", 1, 1443}
+, 
+{"Scarlet_Wire", 1, 1995}
+, 
+{"Scarlet_Katar", 1, 28007}
+, 
+{"Scarlet_Twohand_Sword", 1, 21015}
+, 
+{"Scarlet_Twohand_Axe", 1, 28106}
+, 
+{"Scarlet_Huuma", 1, 13327}
+}
+, NeedSource_String = "+9精煉3級武器"}
+, 
+["3Lv_10Refine_Weapon_8Gu"] = {ItemID = 100382, NeedCount = 1, NeedRefineMin = 10, NeedRefineMax = 10, 
+SourceItems = {
+{"Scarlet_Knuckle", 1, 1839}
+, 
+{"Scarlet_Dagger", 1, 28705}
+, 
+{"Scarlet_Lance", 1, 1498}
+, 
+{"Scarlet_Rod", 1, 1680}
+, 
+{"Scarlet_Revolver", 1, 13127}
+, 
+{"Scarlet_Mace", 1, 16040}
+, 
+{"Scarlet_Bible", 1, 28604}
+, 
+{"Scarlet_Viollin", 1, 1939}
+, 
+{"Scarlet_Bow", 1, 18130}
+, 
+{"Scarlet_Saber", 1, 13454}
+, 
+{"Scarlet_Staff", 1, 2025}
+, 
+{"Scarlet_Spear", 1, 1443}
+, 
+{"Scarlet_Wire", 1, 1995}
+, 
+{"Scarlet_Katar", 1, 28007}
+, 
+{"Scarlet_Twohand_Sword", 1, 21015}
+, 
+{"Scarlet_Twohand_Axe", 1, 28106}
+, 
+{"Scarlet_Huuma", 1, 13327}
+}
+, NeedSource_String = "+10精煉3級武器"}
+, 
+["3Lv_11Refine_Weapon_9Gu"] = {ItemID = 100383, NeedCount = 1, NeedRefineMin = 11, NeedRefineMax = 11, 
+SourceItems = {
+{"Scarlet_Knuckle", 1, 1839}
+, 
+{"Scarlet_Dagger", 1, 28705}
+, 
+{"Scarlet_Lance", 1, 1498}
+, 
+{"Scarlet_Rod", 1, 1680}
+, 
+{"Scarlet_Revolver", 1, 13127}
+, 
+{"Scarlet_Mace", 1, 16040}
+, 
+{"Scarlet_Bible", 1, 28604}
+, 
+{"Scarlet_Viollin", 1, 1939}
+, 
+{"Scarlet_Bow", 1, 18130}
+, 
+{"Scarlet_Saber", 1, 13454}
+, 
+{"Scarlet_Staff", 1, 2025}
+, 
+{"Scarlet_Spear", 1, 1443}
+, 
+{"Scarlet_Wire", 1, 1995}
+, 
+{"Scarlet_Katar", 1, 28007}
+, 
+{"Scarlet_Twohand_Sword", 1, 21015}
+, 
+{"Scarlet_Twohand_Axe", 1, 28106}
+, 
+{"Scarlet_Huuma", 1, 13327}
+}
+, NeedSource_String = "+11精煉3級武器"}
+, 
+["3Lv_12Refine_Weapon_10G"] = {ItemID = 100384, NeedCount = 1, NeedRefineMin = 12, NeedRefineMax = 12, 
+SourceItems = {
+{"Scarlet_Knuckle", 1, 1839}
+, 
+{"Scarlet_Dagger", 1, 28705}
+, 
+{"Scarlet_Lance", 1, 1498}
+, 
+{"Scarlet_Rod", 1, 1680}
+, 
+{"Scarlet_Revolver", 1, 13127}
+, 
+{"Scarlet_Mace", 1, 16040}
+, 
+{"Scarlet_Bible", 1, 28604}
+, 
+{"Scarlet_Viollin", 1, 1939}
+, 
+{"Scarlet_Bow", 1, 18130}
+, 
+{"Scarlet_Saber", 1, 13454}
+, 
+{"Scarlet_Staff", 1, 2025}
+, 
+{"Scarlet_Spear", 1, 1443}
+, 
+{"Scarlet_Wire", 1, 1995}
+, 
+{"Scarlet_Katar", 1, 28007}
+, 
+{"Scarlet_Twohand_Sword", 1, 21015}
+, 
+{"Scarlet_Twohand_Axe", 1, 28106}
+, 
+{"Scarlet_Huuma", 1, 13327}
+}
+, NeedSource_String = "+12精煉3級武器"}
+, 
+["4Lv_9Refine_Weapon_8Gu"] = {ItemID = 100385, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 9, 
+SourceItems = {
+{"Thanos_Sword", 1, 13441}
+, 
+{"Thanos_Knuckle", 1, 1836}
+, 
+{"Thanos_Dagger", 1, 13093}
+, 
+{"Thanos_Great_Sword", 1, 21009}
+, 
+{"Thanos_Axe", 1, 28100}
+, 
+{"Thanos_Hammer", 1, 16028}
+, 
+{"Thanos_Violin", 1, 1933}
+, 
+{"Thanos_Rod", 1, 2023}
+, 
+{"Thanos_Long_Spear", 1, 1496}
+, 
+{"Thanos_Whip", 1, 1988}
+, 
+{"Thanos_Staff", 1, 1669}
+, 
+{"Thanos_Spear", 1, 1438}
+, 
+{"Thanos_Katar", 1, 28000}
+, 
+{"Thanos_Bow", 1, 18119}
+, 
+{"Sinister_Dagger", 1, 28706}
+, 
+{"Sinister_Lance", 1, 1450}
+, 
+{"Sinister_Rod", 1, 1600}
+, 
+{"Sinister_Revolver", 1, 13128}
+, 
+{"Sinister_Mace", 1, 16041}
+, 
+{"Sinister_Viollin", 1, 1900}
+, 
+{"Sinister_Bow", 1, 18121}
+, 
+{"Sinister_Book", 1, 28605}
+, 
+{"Sinister_Saber", 1, 13455}
+, 
+{"Sinister_Staff", 1, 2026}
+, 
+{"Sinister_Spear", 1, 1400}
+, 
+{"Sinister_Wire", 1, 1996}
+, 
+{"Sinister_Katar", 1, 28008}
+, 
+{"Sinister_Twohand_Sword", 1, 21016}
+, 
+{"Sinister_Twohand_Axe", 1, 28107}
+, 
+{"Sinister_Huuma", 1, 13328}
+, 
+{"Sinister_Fist", 1, 1800}
+}
+, NeedSource_String = "+9精煉4級武器"}
+, 
+["4Lv_10Refine_Weapon_9Gu"] = {ItemID = 100386, NeedCount = 1, NeedRefineMin = 10, NeedRefineMax = 10, 
+SourceItems = {
+{"Thanos_Sword", 1, 13441}
+, 
+{"Thanos_Knuckle", 1, 1836}
+, 
+{"Thanos_Dagger", 1, 13093}
+, 
+{"Thanos_Great_Sword", 1, 21009}
+, 
+{"Thanos_Axe", 1, 28100}
+, 
+{"Thanos_Hammer", 1, 16028}
+, 
+{"Thanos_Violin", 1, 1933}
+, 
+{"Thanos_Rod", 1, 2023}
+, 
+{"Thanos_Long_Spear", 1, 1496}
+, 
+{"Thanos_Whip", 1, 1988}
+, 
+{"Thanos_Staff", 1, 1669}
+, 
+{"Thanos_Spear", 1, 1438}
+, 
+{"Thanos_Katar", 1, 28000}
+, 
+{"Thanos_Bow", 1, 18119}
+, 
+{"Sinister_Dagger", 1, 28706}
+, 
+{"Sinister_Lance", 1, 1450}
+, 
+{"Sinister_Rod", 1, 1600}
+, 
+{"Sinister_Revolver", 1, 13128}
+, 
+{"Sinister_Mace", 1, 16041}
+, 
+{"Sinister_Viollin", 1, 1900}
+, 
+{"Sinister_Bow", 1, 18121}
+, 
+{"Sinister_Book", 1, 28605}
+, 
+{"Sinister_Saber", 1, 13455}
+, 
+{"Sinister_Staff", 1, 2026}
+, 
+{"Sinister_Spear", 1, 1400}
+, 
+{"Sinister_Wire", 1, 1996}
+, 
+{"Sinister_Katar", 1, 28008}
+, 
+{"Sinister_Twohand_Sword", 1, 21016}
+, 
+{"Sinister_Twohand_Axe", 1, 28107}
+, 
+{"Sinister_Huuma", 1, 13328}
+, 
+{"Sinister_Fist", 1, 1800}
+}
+, NeedSource_String = "+10精煉4級武器"}
+, 
+["4Lv_11Refine_Weapon_10G"] = {ItemID = 100387, NeedCount = 1, NeedRefineMin = 11, NeedRefineMax = 11, 
+SourceItems = {
+{"Thanos_Sword", 1, 13441}
+, 
+{"Thanos_Knuckle", 1, 1836}
+, 
+{"Thanos_Dagger", 1, 13093}
+, 
+{"Thanos_Great_Sword", 1, 21009}
+, 
+{"Thanos_Axe", 1, 28100}
+, 
+{"Thanos_Hammer", 1, 16028}
+, 
+{"Thanos_Violin", 1, 1933}
+, 
+{"Thanos_Rod", 1, 2023}
+, 
+{"Thanos_Long_Spear", 1, 1496}
+, 
+{"Thanos_Whip", 1, 1988}
+, 
+{"Thanos_Staff", 1, 1669}
+, 
+{"Thanos_Spear", 1, 1438}
+, 
+{"Thanos_Katar", 1, 28000}
+, 
+{"Thanos_Bow", 1, 18119}
+, 
+{"Sinister_Dagger", 1, 28706}
+, 
+{"Sinister_Lance", 1, 1450}
+, 
+{"Sinister_Rod", 1, 1600}
+, 
+{"Sinister_Revolver", 1, 13128}
+, 
+{"Sinister_Mace", 1, 16041}
+, 
+{"Sinister_Viollin", 1, 1900}
+, 
+{"Sinister_Bow", 1, 18121}
+, 
+{"Sinister_Book", 1, 28605}
+, 
+{"Sinister_Saber", 1, 13455}
+, 
+{"Sinister_Staff", 1, 2026}
+, 
+{"Sinister_Spear", 1, 1400}
+, 
+{"Sinister_Wire", 1, 1996}
+, 
+{"Sinister_Katar", 1, 28008}
+, 
+{"Sinister_Twohand_Sword", 1, 21016}
+, 
+{"Sinister_Twohand_Axe", 1, 28107}
+, 
+{"Sinister_Huuma", 1, 13328}
+, 
+{"Sinister_Fist", 1, 1800}
+}
+, NeedSource_String = "+11精煉4級武器"}
+, 
 SS_Dduck_Box = {ItemID = 101424, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
 {"S_Sonic_Armor", 1, 24440}
@@ -6822,6 +7234,138 @@ SourceItems = {
 {"C_Fluffy_Semi_Long_OM", 1, 420042}
 , 
 {"C_Fluffy_Semi_Long_LPP", 1, 420043}
+, 
+{"C_RK_Hair_BL", 1, 31959}
+, 
+{"C_RK_Hair_BU", 1, 31960}
+, 
+{"C_RK_Hair_GN", 1, 31961}
+, 
+{"C_RK_Hair_OM", 1, 31962}
+, 
+{"C_RK_Hair_PK", 1, 31963}
+, 
+{"C_RK_Hair_PP", 1, 31964}
+, 
+{"C_RK_Hair_RD", 1, 31965}
+, 
+{"C_RK_Hair_WH", 1, 31966}
+, 
+{"C_WL_Hair_BU", 1, 420082}
+, 
+{"C_WL_Hair_BL", 1, 420113}
+, 
+{"C_WL_Hair_GN", 1, 420114}
+, 
+{"C_WL_Hair_OM", 1, 420115}
+, 
+{"C_WL_Hair_PK", 1, 420116}
+, 
+{"C_WL_Hair_PP", 1, 420117}
+, 
+{"C_WL_Hair_RD", 1, 420118}
+, 
+{"C_WL_Hair_WH", 1, 420119}
+, 
+{"C_WL_Hair_YL", 1, 420120}
+, 
+{"C_Marvelous_Wig", 1, 19775}
+, 
+{"C_Shiny_Wig", 1, 19814}
+, 
+{"C_Happy_Wig", 1, 19684}
+, 
+{"C_Eleanor_Wig", 1, 31062}
+, 
+{"C_Alice_Wig", 1, 31329}
+, 
+{"C_Nydhog_Wig", 1, 31149}
+, 
+{"C_Volume_Low_Twin", 1, 31383}
+, 
+{"C_Straight_Long_YLK", 1, 31370}
+, 
+{"C_Alice_Wig_PK", 1, 31407}
+, 
+{"C_Nydhog_Wig_WH", 1, 31406}
+, 
+{"C_Eleanor_Wig_YL", 1, 31405}
+, 
+{"C_Lolita_Two_Side_Up", 1, 31450}
+, 
+{"C_Straight_Long_BL", 1, 31474}
+, 
+{"C_Volume_Low_Twin_WH", 1, 31493}
+, 
+{"C_Happy_Summer_Wig", 1, 19855}
+, 
+{"C_Piamette_Roll_Hair", 1, 31544}
+, 
+{"C_Electro_Two_Side_Up", 1, 31575}
+, 
+{"C_Cat_Ear_Short", 1, 31510}
+, 
+{"C_Cat_Ear_Long", 1, 31511}
+, 
+{"C_Medium_Wave", 1, 31599}
+, 
+{"C_Fairy_Long_BD", 1, 31635}
+, 
+{"C_Lovely_Ribbon_Hair", 1, 31846}
+, 
+{"C_Fairy_Long_SV", 1, 31636}
+, 
+{"C_Medium_Wave_BD", 1, 31717}
+, 
+{"C_Volume_Low_Twin_CB", 1, 31730}
+, 
+{"C_Piamette_Roll_Hair_SV", 1, 31788}
+, 
+{"C_Sweet_Corone", 1, 31915}
+, 
+{"C_Blanc_Neige_Prince", 1, 31905}
+, 
+{"C_Airy_Two_Side_Up_BD", 1, 31856}
+, 
+{"C_Airy_Two_Side_Up_SV", 1, 31857}
+, 
+{"C_Fairy_Long_CB", 1, 31921}
+, 
+{"C_Fairy_Long_BDK", 1, 31681}
+, 
+{"C_Fairy_Long_SVK", 1, 31680}
+, 
+{"C_Halloween_Cat_Long", 1, 31834}
+, 
+{"C_Halloween_Cat_Short", 1, 31833}
+, 
+{"C_L_Knitting_Low_Twin", 1, 31938}
+, 
+{"C_Long_Wave_BD", 1, 420034}
+, 
+{"C_Long_Wave_SV", 1, 420035}
+, 
+{"C_White_Corone", 1, 420048}
+, 
+{"C_Japanes_Hair", 1, 420014}
+, 
+{"C_Hair_Bun_Wave", 1, 420050}
+, 
+{"C_L_Knitting_Low_Twin_W", 1, 420072}
+, 
+{"C_Fishbone_Hair", 1, 420027}
+, 
+{"C_Mushroom_Hair", 1, 31855}
+, 
+{"C_Inner_Color_Long", 1, 420079}
+, 
+{"C_Silky_Long_SV", 1, 420092}
+, 
+{"C_Silky_Long_BD", 1, 420091}
+, 
+{"C_Rocking_Short", 1, 420111}
+, 
+{"C_Wanderer_Curl", 1, 400258}
 }
 , NeedSource_String = "髮型服飾道具"}
 , 

@@ -3615,6 +3615,10 @@ signName = {subTitle = "¥§ªÜµá©i±K¥Þ¤G¼Ó", mainTitle = "±Y¶òªººq¼@°|"}
 ["nifd02_b.rsw"] = {displayName = "¥§ªÜµá©i±K¥Þ ±Y¶òªººq¼@°|b", notifyEnter = true, 
 signName = {subTitle = "¥§ªÜµá©i±K¥Þ¤G¼Ó", mainTitle = "±Y¶òªººq¼@°|"}
 , backgroundBmp = "dungeon"}
+, 
+["1@ge_sn.rsw"] = {displayName = "¦Nªâ©]¶¡°«§Þ³õ", notifyEnter = true, 
+signName = {mainTitle = "¦Nªâ©]¶¡°«§Þ³õ"}
+, backgroundBmp = "dungeon_s2"}
 }
 main = function()
   -- function num : 0_0

@@ -27,7 +27,7 @@ Direction = {isIgnoreRiding = true}
 Direction = {isIgnoreRiding = true}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Pope_Ribbon] = {Default = 153, 
+[ACCESSORY_IDs.ACCESSORY_C_Pope_Ribbon] = {Default = 155, 
 Direction = {}
 }
 , 
@@ -1125,7 +1125,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {Default = 304, 
+[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {Default = 154, 
 Direction = {}
 }
 , 
@@ -1282,6 +1282,62 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_Flame_Muffler] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Rocking_Short] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tiger_WH] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tiger_BL] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_American_S_hair] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Leopard_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Baby_Polar_Bear] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Hair_Bun_BU] = {Default = 155, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Hair_Bun_RD] = {Default = 155, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Hair_Bun_YL] = {Default = 155, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Hair_Bun_GN] = {Default = 155, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Hair_Bun_BL] = {Default = 155, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Hair_Bun_WH] = {Default = 155, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Hair_Bun_OM] = {Default = 155, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Hair_Bun_PP] = {Default = 155, 
 Direction = {}
 }
 }

@@ -5,6 +5,72 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+P_Sungl_Dduck_Box = {ItemID = 101670, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Poring_Sunglasses_K_", 19118}
+}
+, NeedSource_String = "ªi§Q¾¥Ãè"}
+, 
+True_G_S_Rand_Box_TW = {ItemID = 101622, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
+}
+, NeedSource_String = "¼v¤l¯uÅ]¤OÄq¥Û"}
+, 
+MD_Geffen_Rarmor = {ItemID = 100365, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Geffen_Suits", 450149}
+, 
+{"MD_Geffen_Robe", 450150}
+}
+, NeedSource_String = "¤õµKÅ]¤OÄ_¥Û"}
+, 
+MD_Geffen_Rhood = {ItemID = 100366, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Geffen_Hood", 480065}
+, 
+{"MD_Geffen_Hood2", 480066}
+, 
+{"MD_Geffen_Hood3", 480067}
+, 
+{"MD_Geffen_Hood4", 480068}
+}
+, NeedSource_String = "¨I¾ýÅ]¤OÄ_¥Û"}
+, 
+MD_Geffen_Racc = {ItemID = 100367, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Geffen_Ring", 490077}
+, 
+{"MD_Geffen_Ring2", 490078}
+}
+, NeedSource_String = "­_§§Å]¤OÄ_¥Û"}
+, 
+MD_Geffen_Rsheild = {ItemID = 100368, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Geffen_Shield", 460005}
+, 
+{"MD_Geffen_Shield2", 460006}
+}
+, NeedSource_String = "¥ú©úÅ]¤OÄ_¥Û"}
+, 
+Hell_fire_D_Box = {ItemID = 101614, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Devil_Flame_Manteau_TW", 480154}
+}
+, NeedSource_String = "Å]°­´c¤õ¤æÁO"}
+, 
+Force_of_Fullmoon = {ItemID = 101592, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"lunar_eclipse_Armor_", 15374}
+}
+, NeedSource_String = "¤ë¥þ»kÅ]¤O¥~³T"}
+, 
 God_Favor_TW = {ItemID = 101484, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Ultio_Cape_TW", 480088}
@@ -109,17 +175,17 @@ TargetItems = {
 , 
 Shadow_Random_Mix = {ItemID = 23720, NeedRefineMin = 7, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
-{"S_Mammoth_Armor", 1, 24669}
+{"S_Mammoth_Armor", 24669}
 , 
-{"S_Mammoth_Shoes", 1, 24670}
+{"S_Mammoth_Shoes", 24670}
 , 
-{"S_Mammoth_Pendant", 1, 24671}
+{"S_Mammoth_Pendant", 24671}
 , 
-{"S_Mammoth_Earring", 1, 24672}
+{"S_Mammoth_Earring", 24672}
 , 
-{"S_Mammoth_Weapon", 1, 24673}
+{"S_Mammoth_Weapon", 24673}
 , 
-{"S_Mammoth_Shield", 1, 24674}
+{"S_Mammoth_Shield", 24674}
 , 
 {"S_Promotion_Weapon", 24012}
 , 
@@ -3763,6 +3829,22 @@ TargetItems = {
 , 
 Shadow2_Op_Box_TW = {ItemID = 100549, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
+, 
 {"S_EXP_Shield", 24683}
 , 
 {"S_FullPene_Earring", 24661}
@@ -4691,6 +4773,22 @@ TargetItems = {
 , 
 Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
+, 
 {"S_Mammoth_Armor", 24669}
 , 
 {"S_Mammoth_Shoes", 24670}
@@ -7041,6 +7139,22 @@ TargetItems = {
 , 
 Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
+, 
 {"S_Mammoth_Armor", 24669}
 , 
 {"S_Mammoth_Shoes", 24670}
@@ -8438,6 +8552,26 @@ TargetItems = {
 {"Thanos_Axe", 28100}
 , 
 {"Thanos_Violin", 1933}
+, 
+{"Thanos_Whip_AD", 580016}
+, 
+{"Thanos_Sword_AD", 500024}
+, 
+{"Thanos_TSword_AD", 600016}
+, 
+{"Thanos_Spear_AD", 530012}
+, 
+{"Thanos_Dagger_AD", 510030}
+, 
+{"Thanos_Katar_AD", 610019}
+, 
+{"Thanos_Knuckle_AD", 560017}
+, 
+{"Thanos_Hammer_AD", 590020}
+, 
+{"Thanos_Axe_AD", 620009}
+, 
+{"Thanos_Violin_AD", 570016}
 }
 , NeedSource_String = "¶ð¿Õ´µªñ¶ZÂ÷ªZ¾¹"}
 , 
@@ -8454,6 +8588,18 @@ TargetItems = {
 {"Thanos_Violin", 1933}
 , 
 {"Thanos_Whip", 1988}
+, 
+{"Thanos_Rod_AD", 640017}
+, 
+{"Thanos_Staff_AD", 550023}
+, 
+{"Thanos_Dagger_AD", 510030}
+, 
+{"Thanos_Sword_AD", 500024}
+, 
+{"Thanos_Violin_AD", 570016}
+, 
+{"Thanos_Whip_AD", 580016}
 }
 , NeedSource_String = "¶ð¿Õ´µÅ]ªkªZ¾¹"}
 , 
@@ -8480,6 +8626,26 @@ TargetItems = {
 {"Thanos_Hammer", 16028}
 , 
 {"Thanos_Axe", 28100}
+, 
+{"Thanos_Bow_AD", 700029}
+, 
+{"Thanos_Violin_AD", 570016}
+, 
+{"Thanos_Whip_AD", 580016}
+, 
+{"Thanos_Sword_AD", 500024}
+, 
+{"Thanos_TSword_AD", 600016}
+, 
+{"Thanos_Spear_AD", 530012}
+, 
+{"Thanos_Katar_AD", 610019}
+, 
+{"Thanos_Knuckle_AD", 560017}
+, 
+{"Thanos_Hammer_AD", 590020}
+, 
+{"Thanos_Axe_AD", 620009}
 }
 , NeedSource_String = "¶ð¿Õ´µ»·¶ZÂ÷ªZ¾¹"}
 , 
