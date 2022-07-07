@@ -41,7 +41,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -57,7 +57,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -65,7 +65,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -97,7 +97,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Baby_Penguin] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_Baby_Penguin] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -105,7 +105,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -117,7 +117,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Orange_Tabby_Cat] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_Orange_Tabby_Cat] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -133,7 +133,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -141,7 +141,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_JP_EV15] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_JP_EV15] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -205,7 +205,7 @@ Direction = {[0] = 410, [1] = 410, [2] = 410, [6] = 410, [7] = 410}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -213,7 +213,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Fox] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_Fox] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -377,7 +377,7 @@ Direction = {}
 Direction = {[2] = 480, [3] = 480, [4] = 480, [5] = 480, [6] = 480}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Leopard_Cat] = {Default = 450, 
+[ACCESSORY_IDs.ACCESSORY_C_Leopard_Cat] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -857,7 +857,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Cons_Of_Darkness] = {Default = 480, 
+[ACCESSORY_IDs.ACCESSORY_Cons_Of_Darkness] = {Default = 480, isIgnoreRiding = true, 
 Direction = {}
 }
 , 
@@ -898,6 +898,46 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Alpha_Long_Pony] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Yesterday_Once_More] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Heart_Angel_TW] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Flower_L_Knitting] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bouquet_Valletta] = {Default = 200, 
+Direction = {[3] = 450, [4] = 450, [5] = 450}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Wish_Tree_Hat] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Starry_Ribbon_Twin] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Starry_Long_Wave] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Magic_Celestial_Globe] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_BLUE] = {Default = 195, 
 Direction = {}
 }
 }

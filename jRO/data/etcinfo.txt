@@ -1,11 +1,5 @@
 loadingscreen#
-7#
-
-
-//以下追加(桜用)
-weather#amatsu.rsw#sakura#
-weather#pay_arche.rsw#sakura#
-
+6#
 
 //クリスマスデコレーション
 //event#

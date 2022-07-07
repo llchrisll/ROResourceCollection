@@ -2430,12 +2430,6 @@ SpAmount = {0, 0, 0, 0, 0}
 AttackRange = {7, 7, 7, 7, 7}
 }
 , 
-[SKID.NPC_STONESKIN] = {"NPC_STONESKIN"; SkillName = "ストーンスキン", MaxLv = 10, 
-SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
-, bSeperateLv = false, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
-}
-, 
 [SKID.NPC_ANTIMAGIC] = {"NPC_ANTIMAGIC"; SkillName = "アンチマジック", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
@@ -10312,6 +10306,12 @@ _NeedSkillList = {
 , 
 {SKID.SP_SOULDIVISION, 3}
 }
+}
+, 
+[SKID.NPC_STONESKIN] = {"NPC_STONESKIN"; SkillName = "ストーンスキン", MaxLv = 10, 
+SpAmount = {60, 70, 80, 90, 100, 60, 70, 80, 90, 100}
+, bSeperateLv = true, 
+AttackRange = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 }
 }
 

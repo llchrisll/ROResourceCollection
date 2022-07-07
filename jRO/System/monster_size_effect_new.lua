@@ -7183,6 +7183,70 @@ MonsterEff = {EFFECT.EF_LEVEL99_3}
 [21649] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_LEVEL99_3}
 }
+, 
+[21786] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21788] = {MonsterSize = 0.8, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21793] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21794] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21796] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21798] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_VOLCANIC_ASH, EFFECT.EF_REDBODY}
+}
+, 
+[21799] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21800] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21801] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21802] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21803] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21804] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21805] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21806] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21807] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
+, 
+[21808] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_FLOWERSMOKE, EFFECT.EF_GRAYBODY}
+}
 }
 main = function()
   -- function num : 0_0

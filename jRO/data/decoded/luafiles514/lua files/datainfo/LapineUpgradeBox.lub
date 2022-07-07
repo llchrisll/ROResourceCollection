@@ -339,7 +339,7 @@ TargetItems = {
 }
 , NeedSource_String = "兜改造装置II"}
 , 
-Illu_Enhance_Cube = {ItemID = 100251, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Illu_Enhance_Cube = {ItemID = 100251, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Illusion_Armor_A", 15376}
 , 
@@ -352,10 +352,16 @@ TargetItems = {
 {"Illusion_Leg_A", 22196}
 , 
 {"Illusion_Leg_B", 22197}
+, 
+{"Illusion_Shield_A", 460004}
+, 
+{"Illusion_Shield_B", 460014}
+, 
+{"Runaway_Accelerator", 400047}
 }
 , NeedSource_String = "エンハンスキューブ(イルシオン)"}
 , 
-Auto_Enhance_Cube = {ItemID = 100252, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Auto_Enhance_Cube = {ItemID = 100252, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Auto_Armor_A", 450127}
 , 
@@ -368,6 +374,12 @@ TargetItems = {
 {"Auto_Engine_A", 480020}
 , 
 {"Auto_Engine_B", 480021}
+, 
+{"Auto_Shield_A", 460015}
+, 
+{"Auto_Shield_B", 460016}
+, 
+{"Legacy_of_Wise_One_J", 400287}
 }
 , NeedSource_String = "エンハンスキューブ(オートマティック)"}
 , 
@@ -707,7 +719,7 @@ TargetItems = {
 }
 , NeedSource_String = "大罪武器改造装置(Type6)"}
 , 
-Illu_Enhance_Cube2 = {ItemID = 100729, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Illu_Enhance_Cube2 = {ItemID = 100729, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Illusion_Armor_A", 15376}
 , 
@@ -720,6 +732,12 @@ TargetItems = {
 {"Illusion_Leg_A", 22196}
 , 
 {"Illusion_Leg_B", 22197}
+, 
+{"Illusion_Shield_A", 460004}
+, 
+{"Illusion_Shield_B", 460014}
+, 
+{"Runaway_Accelerator", 400047}
 }
 , NeedSource_String = "エンハンスキューブII(イルシオン)"}
 , 

@@ -4924,10 +4924,6 @@ base397.rsw#模擬戦 第10拠点 H区域#
 base398.rsw#模擬戦 第10拠点 I区域#
 base399.rsw#模擬戦 第10拠点 J区域#
 //------------------------------------------------
-ev_june01.rsw#6月の都#
-1@bond0.rsw#Bond Of Lovers#
-1@bond1.rsw#Bond Of Lovers#
-//------------------------------------------------
 iz_d04_i_q.rsw#紫色の深海洞窟 上層(クエスト)#
 iz_d04_i.rsw#紫色の深海洞窟 上層#
 iz_d05_i.rsw#紫色の深海洞窟 下層#
@@ -5428,5 +5424,43 @@ apr_rui2_11.rsw#廃亡遺跡群Lv.2【第10層　戯言遊戯】#
 apr_rui2_12.rsw#廃亡遺跡群Lv.2【第10層　戯言遊戯】#
 apr_rui2_13.rsw#廃亡遺跡群Lv.2【第11層　難行苛烈】#
 apr_rui2_14.rsw#廃亡遺跡群Lv.2【第11層　難行苛烈】#
+//------------------------------------------------
+enchant01.rsw#リア号 船内#
+//------------------------------------------------
+arug_mdl1a.rsw#モデルヴァルフレイヤ 砦1#
+arug_mdl1b.rsw#モデルヴァルフレイヤ 砦1#
+arug_mdl2a.rsw#モデルヴァルフレイヤ 砦2#
+arug_mdl2b.rsw#モデルヴァルフレイヤ 砦2#
+arug_mdl3a.rsw#モデルヴァルフレイヤ 砦3#
+arug_mdl3b.rsw#モデルヴァルフレイヤ 砦3#
+arug_mdl4a.rsw#モデルヴァルフレイヤ 砦4#
+arug_mdl4b.rsw#モデルヴァルフレイヤ 砦4#
+arug_mdl5a.rsw#モデルヴァルフレイヤ 砦5#
+arug_mdl5b.rsw#モデルヴァルフレイヤ 砦5#
+schg_mdl1a.rsw#モデルニダヴェリール 砦1#
+schg_mdl1b.rsw#モデルニダヴェリール 砦1#
+schg_mdl2a.rsw#モデルニダヴェリール 砦2#
+schg_mdl2b.rsw#モデルニダヴェリール 砦2#
+schg_mdl3a.rsw#モデルニダヴェリール 砦3#
+schg_mdl3b.rsw#モデルニダヴェリール 砦3#
+schg_mdl4a.rsw#モデルニダヴェリール 砦4#
+schg_mdl4b.rsw#モデルニダヴェリール 砦4#
+schg_mdl5a.rsw#モデルニダヴェリール 砦5#
+schg_mdl5b.rsw#モデルニダヴェリール 砦5#
+base200.rsw#冒険者ギルド 特別室#
+//------------------------------------------------
+ev_june01.rsw#6月の都#
+1@bond0.rsw#Bond Of Lovers#
+1@bond1.rsw#Bond Of Lovers#
+1@bond2.rsw#Bond Of Lovers#
+1@bond3.rsw#Bond Of Lovers#
+1@bond4.rsw#Bond Of Lovers#
+1@bond5.rsw#Bond Of Lovers#
+1@letter.rsw#室内#
+2@letter.rsw#街エリア#
+3@letter.rsw#周辺エリア#
+1@lt2.rsw#室内#
+2@lt2.rsw#街エリア#
+3@lt2.rsw#周辺エリア#
 //------------------------------------------------
 //[file end]

@@ -1206,6 +1206,8 @@ SignBoardList = {
 , 
 {"ev_season01", 8, 125, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  改造オーブ", "255,255,255"}
 , 
+{"ev_season01", 37, 116, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  装備の交換", "255,255,255"}
+, 
 {"ba_maison", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  バルムント邸案内", "255,255,255"}
 , 
 {"mt1_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  蜃気楼の塔YE", "255,255,255"}
@@ -1536,6 +1538,36 @@ SignBoardList = {
 , 
 {"apr_rui2_s", 43, 83, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  暗号解読", "255,255,255"}
 , 
+{"enchant01", 187, 50, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  調理器具・調味料販売", "255,255,255"}
+, 
+{"enchant01", 186, 46, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"enchant01", 176, 73, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  王家貢献の証", "255,255,255"}
+, 
+{"enchant01", 176, 70, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  名誉の勲章", "255,255,255"}
+, 
+{"enchant01", 176, 63, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  古びた燃料タンク", "255,255,255"}
+, 
+{"enchant01", 176, 60, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ヴァルハラの花", "255,255,255"}
+, 
+{"enchant01", 176, 53, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  幻想の石", "255,255,255"}
+, 
+{"enchant01", 176, 50, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ロックリッジコイン", "255,255,255"}
+, 
+{"enchant01", 169, 70, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  古いカード帖", "255,255,255"}
+, 
+{"enchant01", 169, 67, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  生体実験の破片", "255,255,255"}
+, 
+{"enchant01", 170, 60, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  バルミールチケット", "255,255,255"}
+, 
+{"enchant01", 170, 57, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  1000小為替", "255,255,255"}
+, 
+{"enchant01", 165, 51, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  時間の破片", "255,255,255"}
+, 
+{"enchant01", 164, 46, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  時間の破片", "255,255,255"}
+, 
+{"enchant01", 187, 58, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  特選ネコ缶(カニ)", "255,255,255"}
+, 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
 , 
 {"lby_in", 44, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐依頼", "255,255,255"}
@@ -1782,32 +1814,6 @@ SignBoardList = {
 , 
 {"hal_main", 190, 165, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
 , 
-{"ev_june01", 169, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  神秘の館転送", "255,255,255"}
-, 
-{"ev_june01", 174, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
-, 
-{"ev_june01", 157, 185, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
-, 
-{"ev_june01", 140, 167, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  Bond Of Lovers", "255,255,255"}
-, 
-{"ev_june01", 144, 178, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
-, 
-{"ev_june01", 171, 178, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  お土産処「お福分け」", "255,255,255"}
-, 
-{"ev_june01", 174, 167, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  イベントポイント交換", "255,255,255"}
-, 
-{"ev_june01", 170, 157, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  プロンテラへ", "255,255,255"}
-, 
-{"ev_june01", 146, 156, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
-, 
-{"ev_june01", 157, 151, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  結婚式場へ", "255,255,255"}
-, 
-{"ev_june01", 157, 166, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  福音", "255,255,255"}
-, 
-{"ev_june01", 147, 187, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  伝言板", "255,255,255"}
-, 
-{"ev_june01", 177, 184, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
-, 
 {"ev_summer01", 220, 282, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  マシンガンHighタッチ", "255,255,255"}
 , 
 {"ev_summer01", 244, 200, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  マシンガンHighタッチ", "255,255,255"}
@@ -1815,5 +1821,59 @@ SignBoardList = {
 {"ev_summer38", 167, 51, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ダンシング！", "255,255,255"}
 , 
 {"ev_summer01", 286, 268, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
+, 
+{"prt_church", 104, 99, 20, IT_SIGNBOARD, "signboard\\over_event.bmp", "  結婚式場転送", "255,255,255"}
+, 
+{"lasagna", 335, 240, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ジューンブライド案内", "255,255,255"}
+, 
+{"lasagna", 351, 270, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  離婚相談所", "255,255,255"}
+, 
+{"lasagna", 293, 266, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  新・ヘアスタイル", "255,255,255"}
+, 
+{"lasagna", 298, 266, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  ヘアスタイル", "255,255,255"}
+, 
+{"lasagna", 303, 266, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  ヘアカラー", "255,255,255"}
+, 
+{"lasagna", 298, 259, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  蛍光色の液体作成", "255,255,255"}
+, 
+{"lasagna", 302, 323, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ジャワイ無料転送", "255,255,255"}
+, 
+{"lasagna", 303, 259, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  転送サービス", "255,255,255"}
+, 
+{"lasagna", 308, 259, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  結婚記念品配布", "255,255,255"}
+, 
+{"lasagna", 309, 253, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  結婚衣装回収", "255,255,255"}
+, 
+{"lasagna", 326, 257, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ご結婚おめでとう！", "255,255,255"}
+, 
+{"lasagna", 337, 257, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ご結婚おめでとう！", "255,255,255"}
+, 
+{"ev_june01", 169, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  神秘の館転送", "255,255,255"}
+, 
+{"ev_june01", 174, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
+, 
+{"ev_june01", 157, 185, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  イベント開始案内", "255,255,255"}
+, 
+{"ev_june01", 142, 173, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  Bond Of Lovers", "255,255,255"}
+, 
+{"ev_june01", 148, 180, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐クエスト", "255,255,255"}
+, 
+{"ev_june01", 166, 180, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  お土産処「お福分け」", "255,255,255"}
+, 
+{"ev_june01", 172, 173, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  イベントポイント交換", "255,255,255"}
+, 
+{"ev_june01", 172, 161, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  プロンテラへ", "255,255,255"}
+, 
+{"ev_june01", 142, 161, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"ev_june01", 151, 153, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  結婚式場へ", "255,255,255"}
+, 
+{"ev_june01", 157, 166, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  福音", "255,255,255"}
+, 
+{"ev_june01", 147, 187, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  伝言板", "255,255,255"}
+, 
+{"ev_june01", 177, 184, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"ev_june01", 164, 153, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  Letter For You", "255,255,255"}
 }
 
