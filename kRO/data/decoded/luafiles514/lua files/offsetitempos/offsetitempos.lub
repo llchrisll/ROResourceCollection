@@ -10,6 +10,22 @@ OffsetItemPos.Direction = {FRONT = 0, FRONTLEFT = 1, LEFT = 2, BACKLEFT = 3, BAC
 
 OffsetItemPos.Sex = {MALE = 1, FEMALE = 2}
 ;
+(OffsetItemPos.AddOffsetForDoram)(2273, (OffsetItemPos.Direction).FRONT, {y = -30})
+;
+(OffsetItemPos.AddOffsetForDoram)(2273, (OffsetItemPos.Direction).FRONTLEFT, {y = -30})
+;
+(OffsetItemPos.AddOffsetForDoram)(2273, (OffsetItemPos.Direction).LEFT, {y = -30})
+;
+(OffsetItemPos.AddOffsetForDoram)(2273, (OffsetItemPos.Direction).BACKLEFT, {y = -30})
+;
+(OffsetItemPos.AddOffsetForDoram)(2273, (OffsetItemPos.Direction).BACK, {y = -30})
+;
+(OffsetItemPos.AddOffsetForDoram)(2273, (OffsetItemPos.Direction).BACKRIGHT, {y = -30})
+;
+(OffsetItemPos.AddOffsetForDoram)(2273, (OffsetItemPos.Direction).RIGHT, {y = -30})
+;
+(OffsetItemPos.AddOffsetForDoram)(2273, (OffsetItemPos.Direction).FRONTRIGHT, {y = -30})
+;
 (OffsetItemPos.AddOffsetForDoram)(2020, (OffsetItemPos.Direction).FRONT, {y = -20})
 ;
 (OffsetItemPos.AddOffsetForDoram)(2020, (OffsetItemPos.Direction).FRONTLEFT, {y = -20})

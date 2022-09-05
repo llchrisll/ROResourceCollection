@@ -15023,5 +15023,11 @@ _NeedSkillList = {
 {SKID.SS_ANTENPOU, 5}
 }
 }
+, 
+[SKID.All_EVENT_20TH_ANNIVERSARY] = {"All_EVENT_20TH_ANNIVERSARY"; SkillName = "RO 20ÁÖ³â ÆøÁ×", MaxLv = 1, 
+SpAmount = {1}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
 }
 

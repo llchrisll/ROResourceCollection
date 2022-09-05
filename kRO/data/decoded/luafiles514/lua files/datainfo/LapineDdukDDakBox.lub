@@ -5,6 +5,82 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+D_Gw_Extractor = {ItemID = 101639, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"D_Glacier_T_Sword", 1, 600030}
+, 
+{"D_Glacier_Lance", 1, 630019}
+, 
+{"D_Glacier_Sword", 1, 500054}
+, 
+{"D_Glacier_B_Sword", 1, 500055}
+, 
+{"D_Glacier_Spear", 1, 530034}
+, 
+{"D_Glacier_T_Axe", 1, 620019}
+, 
+{"D_Glacier_Axe", 1, 520021}
+, 
+{"D_Glacier_Mace", 1, 590047}
+, 
+{"D_Glacier_M_Mace", 1, 590048}
+, 
+{"D_Glacier_R_Knife", 1, 510075}
+, 
+{"D_Glacier_B_Knife", 1, 510076}
+, 
+{"D_Glacier_Bow", 1, 700059}
+, 
+{"D_Glacier_Knuckle", 1, 560037}
+, 
+{"D_Glacier_Book", 1, 540056}
+, 
+{"D_Glacier_Katar", 1, 610041}
+, 
+{"D_Glacier_Wand", 1, 550089}
+, 
+{"D_Glacier_Staff", 1, 640034}
+, 
+{"D_Glacier_Foxtail", 1, 550090}
+, 
+{"D_Glacier_Violin", 1, 570032}
+, 
+{"D_Glacier_Whip", 1, 580033}
+, 
+{"D_Glacier_Humma", 1, 650028}
+, 
+{"D_Glacier_Revolver", 1, 800015}
+, 
+{"D_Glacier_Rifle", 1, 810015}
+, 
+{"D_Glacier_Shotgun", 1, 820011}
+, 
+{"D_Glacier_Gatling", 1, 830015}
+, 
+{"D_Glacier_Launcher", 1, 840010}
+}
+, NeedSource_String = "딤 글레이시아 무기"}
+, 
+EXPShadow_Mix2 = {ItemID = 101665, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"비기너슈즈S", 1, 24210}
+, 
+{"비기너쉴드S", 1, 24211}
+, 
+{"루키슈즈S", 1, 24212}
+, 
+{"루키쉴드S", 1, 24213}
+, 
+{"어드벤스드슈즈S", 1, 24214}
+, 
+{"어드벤스드쉴드S", 1, 24215}
+, 
+{"익스퍼트슈즈S", 1, 24208}
+, 
+{"익스퍼트쉴드S", 1, 24209}
+}
+, NeedSource_String = "경험치 쉐도우"}
+, 
 Freedom_Stick_Cube = {ItemID = 101482, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
 {"Freedom_Stick", 1, 550080}
@@ -1732,6 +1808,8 @@ SourceItems = {
 {"S_Mega_Blitz_Shield", 1, 24767}
 , 
 {"S_Mega_Blitz_Weapon", 1, 24768}
+, 
+{"S_EXP_Weapon", 1, 24770}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5408,6 +5486,8 @@ SourceItems = {
 {"S_Mega_Blitz_Shield", 1, 24767}
 , 
 {"S_Mega_Blitz_Weapon", 1, 24768}
+, 
+{"S_EXP_Weapon", 1, 24770}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -5978,6 +6058,30 @@ SourceItems = {
 {"GuillcrossStone_Middle3", 1, 1000975}
 , 
 {"GuillcrossStone_Bottom3", 1, 1000976}
+, 
+{"StarStone_Top3", 1, 1001044}
+, 
+{"StarStone_Middle3", 1, 1001045}
+, 
+{"StarStone_Bottom3", 1, 1001046}
+, 
+{"RebelStone_Top3", 1, 1001047}
+, 
+{"RebelStone_Middle3", 1, 1001048}
+, 
+{"RebelStone_Bottom3", 1, 1001049}
+, 
+{"ReaperStone_Top3", 1, 1001050}
+, 
+{"ReaperStone_Middle3", 1, 1001051}
+, 
+{"ReaperStone_Bottom3", 1, 1001052}
+, 
+{"M_PATKStone_Robe", 1, 1001053}
+, 
+{"R_PATKStone_Robe", 1, 1001054}
+, 
+{"POWStone_Robe_D", 1, 1001055}
 }
 , NeedSource_String = "의상인챈트스톤"}
 , 
@@ -7278,6 +7382,30 @@ SourceItems = {
 {"C_Professor_MiniGlass", 1, 410126}
 , 
 {"C_Clutch_Bouquet", 1, 480177}
+, 
+{"C_Red_Tiger_Mask", 1, 400185}
+, 
+{"C_Alpha_Long_Pony", 1, 420140}
+, 
+{"C_Cat_Footprints", 1, 420077}
+, 
+{"C_Flower_Wing", 1, 480111}
+, 
+{"C_Weissbier_Hat", 1, 400174}
+, 
+{"C_Diving_Goggles", 1, 410187}
+, 
+{"C_Long_Octopus_Balloon", 1, 31425}
+, 
+{"C_Beer_Server", 1, 480130}
+, 
+{"C오러쿼츠의왕관", 1, 19985}
+, 
+{"C화이트로즈프린세스", 1, 31046}
+, 
+{"C핑크클로버", 1, 20259}
+, 
+{"C_Astra_Blessing", 1, 480205}
 }
 , NeedSource_String = "냥다래 의상"}
 , 

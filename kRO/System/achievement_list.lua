@@ -1900,11 +1900,11 @@ resource = {
 reward = {}
 , score = 10}
 , 
-[128026] = {UI_Type = 1, group = "BATTLE", major = 5, minor = 0, title = "포근한 대지", 
-content = {summary = "지속성 페이스웜 퀸 처치", details = "메모리얼 던전을 끝까지 진행"}
+[128026] = {UI_Type = 1, group = "BATTLE", major = 5, minor = 0, title = "기분좋은 바람", 
+content = {summary = "풍속성 페이스웜 퀸 처치", details = "메모리얼 던전을 끝까지 진행"}
 , 
 resource = {
-[1] = {text = "지속성 페이스웜 퀸 1회 처치", count = 1}
+[1] = {text = "풍속성 페이스웜 퀸 1회 처치", count = 1}
 }
 , 
 reward = {}
@@ -1920,11 +1920,11 @@ resource = {
 reward = {}
 , score = 10}
 , 
-[128028] = {UI_Type = 1, group = "BATTLE", major = 5, minor = 0, title = "기분좋은 바람", 
-content = {summary = "풍속성 페이스웜 퀸 처치", details = "메모리얼 던전을 끝까지 진행"}
+[128028] = {UI_Type = 1, group = "BATTLE", major = 5, minor = 0, title = "포근한 대지", 
+content = {summary = "지속성 페이스웜 퀸 처치", details = "메모리얼 던전을 끝까지 진행"}
 , 
 resource = {
-[1] = {text = "풍속성 페이스웜 퀸 1회 처치", count = 1}
+[1] = {text = "지속성 페이스웜 퀸 1회 처치", count = 1}
 }
 , 
 reward = {}

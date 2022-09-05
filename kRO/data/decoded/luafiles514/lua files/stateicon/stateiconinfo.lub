@@ -8767,4 +8767,38 @@ descript = {
 {"캐스팅이 끊기지 않는다."}
 }
 }
+-- DECOMPILER ERROR at PC18239: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK006] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"모든 기본 스테이터스 + 5"}
+, 
+{"ATK + 2%"}
+, 
+{"MATK + 2%"}
+}
+}
+-- DECOMPILER ERROR at PC18275: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK007] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"암속성 마법 데미지 10% 증가"}
+, 
+{"성속성 마법 데미지 10% 증가"}
+, 
+{"수속성 마법 데미지 10% 증가"}
+, 
+{"지속성 마법 데미지 10% 증가"}
+, 
+{"화속성 마법 데미지 10% 증가"}
+}
+}
 

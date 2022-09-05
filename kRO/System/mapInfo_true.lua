@@ -4,6 +4,22 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["vr_bob.rsw"] = {displayName = "환상총서-오늘의 밥상", notifyEnter = true, 
+signName = {subTitle = "환상총서-006", mainTitle = "오늘의 밥상"}
+, backgroundBmp = "noname"}
+, 
+["1@vrpo.rsw"] = {displayName = "환상총서-포링테라", notifyEnter = true, 
+signName = {subTitle = "환상총서-007", mainTitle = "포링테라"}
+, backgroundBmp = "noname"}
+, 
+["1@dime.rsw"] = {displayName = "차원의 벽 너머", notifyEnter = true, 
+signName = {mainTitle = "차원의 벽 너머"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["memohall.rsw"] = {displayName = "차원 수호 기념관", notifyEnter = true, 
+signName = {mainTitle = "차원 수호 기념관"}
+, backgroundBmp = "village_s2"}
+, 
 ["prt_elib.rsw"] = {displayName = "프론테라 동쪽 도서관", notifyEnter = true, 
 signName = {subTitle = "프론테라 동쪽 도서관"}
 , backgroundBmp = "village_s1"}
@@ -1038,23 +1054,23 @@ signName = {subTitle = "글로리아", mainTitle = "길드 지하 던전"}
 signName = {subTitle = "룬-미드가츠", mainTitle = "카프라가텐"}
 , backgroundBmp = "siege"}
 , 
-["te_aldecas01.rsw"] = {displayName = "글라리스", notifyEnter = true, 
+["te_aldecas1.rsw"] = {displayName = "글라리스", notifyEnter = true, 
 signName = {subTitle = "카프라가텐", mainTitle = "글라리스"}
 , backgroundBmp = "siege"}
 , 
-["te_aldecas02.rsw"] = {displayName = "디포르테", notifyEnter = true, 
+["te_aldecas2.rsw"] = {displayName = "디포르테", notifyEnter = true, 
 signName = {subTitle = "카프라가텐", mainTitle = "디포르테"}
 , backgroundBmp = "siege"}
 , 
-["te_aldecas03.rsw"] = {displayName = "소린", notifyEnter = true, 
+["te_aldecas3.rsw"] = {displayName = "소린", notifyEnter = true, 
 signName = {subTitle = "카프라가텐", mainTitle = "소린"}
 , backgroundBmp = "siege"}
 , 
-["te_aldecas04.rsw"] = {displayName = "비닛", notifyEnter = true, 
+["te_aldecas4.rsw"] = {displayName = "비닛", notifyEnter = true, 
 signName = {subTitle = "카프라가텐", mainTitle = "비닛"}
 , backgroundBmp = "siege"}
 , 
-["te_aldecas05.rsw"] = {displayName = "더블류", notifyEnter = true, 
+["te_aldecas5.rsw"] = {displayName = "더블류", notifyEnter = true, 
 signName = {subTitle = "카프라가텐", mainTitle = "더블류"}
 , backgroundBmp = "siege"}
 , 
@@ -2270,12 +2286,12 @@ signName = {mainTitle = "아인브로크 공항"}
 , 
 ["ein_in01.rsw"] = {displayName = "실내"}
 , 
-["einbech.rsw"] = {displayName = "광산마을 아인베흐", notifyEnter = true, 
-signName = {subTitle = "슈발츠발드 공화국 광산마을", mainTitle = "아인베흐"}
+["einbech.rsw"] = {displayName = "채광마을 아인베흐", notifyEnter = true, 
+signName = {subTitle = "슈발츠발드 공화국 채광마을", mainTitle = "아인베흐"}
 , backgroundBmp = "village"}
 , 
-["einbroch.rsw"] = {displayName = "공업도시 아인브로크", notifyEnter = true, 
-signName = {subTitle = "슈발츠발드 공화국 공업도시", mainTitle = "아인브로크"}
+["einbroch.rsw"] = {displayName = "강철도시 아인브로크", notifyEnter = true, 
+signName = {subTitle = "슈발츠발드 공화국 강철도시", mainTitle = "아인브로크"}
 , backgroundBmp = "village"}
 , 
 ["turbo_e_16.rsw"] = {displayName = "터보트랙 경기장"}

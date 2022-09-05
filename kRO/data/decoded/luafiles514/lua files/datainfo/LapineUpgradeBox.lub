@@ -64,6 +64,8 @@ TargetItems = {
 EXPShadow_Up = {ItemID = 101309, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_EXP_Shield", 24683}
+, 
+{"S_EXP_Weapon", 24770}
 }
 , NeedSource_String = "익스피리언스 쉐도우"}
 , 
@@ -1367,13 +1369,15 @@ TargetItems = {
 , 
 {"에기르망토K", 20756}
 , 
-{"Egirnion_Helm", 400097}
-, 
 {"Egirnion_Armor", 450164}
+, 
+{"Egirnion_Shoes", 470070}
 , 
 {"Egirnion_Manteau", 480083}
 , 
-{"Egirnion_Shoes", 470070}
+{"Egirnion_Helm", 400097}
+, 
+{"Egirnion_Gardiansword", 490235}
 }
 , NeedSource_String = "바다신 에길의 방어구"}
 , 
@@ -1387,13 +1391,15 @@ TargetItems = {
 , 
 {"에기르망토K", 20756}
 , 
-{"Egirnion_Helm", 400097}
-, 
 {"Egirnion_Armor", 450164}
+, 
+{"Egirnion_Shoes", 470070}
 , 
 {"Egirnion_Manteau", 480083}
 , 
-{"Egirnion_Shoes", 470070}
+{"Egirnion_Helm", 400097}
+, 
+{"Egirnion_Gardiansword", 490235}
 }
 , NeedSource_String = "바다신 에길의 방어구"}
 , 
@@ -5484,6 +5490,8 @@ TargetItems = {
 {"S_Mega_Blitz_Shield", 24767}
 , 
 {"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_EXP_Weapon", 24770}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6888,6 +6896,8 @@ TargetItems = {
 {"S_Mega_Blitz_Shield", 24767}
 , 
 {"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_EXP_Weapon", 24770}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -8112,6 +8122,8 @@ TargetItems = {
 {"S_Mega_Blitz_Shield", 24767}
 , 
 {"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_EXP_Weapon", 24770}
 }
 , NeedSource_String = "+7 쉐도우 아이템"}
 , 
@@ -9501,9 +9513,9 @@ TargetItems = {
 , 
 {"EC_B_Staff", 550053}
 , 
-{"SP_B_Saber", 500042}
+{"SN_B_Dagger", 510069}
 , 
-{"SI_B_Saber", 500043}
+{"SN_B_Wand", 550079}
 }
 , NeedSource_String = "부스터 무기"}
 , 
@@ -9874,6 +9886,22 @@ TargetItems = {
 {"Glacier_T_Sword", 600027}
 }
 , NeedSource_String = "글레이시아 무기"}
+, 
+E_Auto_Up = {ItemID = 101455, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"E_Auto_Armor_A", 450218}
+, 
+{"E_Auto_Armor_B", 450219}
+, 
+{"E_Auto_Engine_A", 480185}
+, 
+{"E_Auto_Engine_B", 480186}
+, 
+{"E_Auto_Leg_A", 470125}
+, 
+{"E_Auto_Leg_B", 470126}
+}
+, NeedSource_String = "오토매틱(귀속) 방어구"}
 }
 , serverMain = function()
   -- function num : 0_0

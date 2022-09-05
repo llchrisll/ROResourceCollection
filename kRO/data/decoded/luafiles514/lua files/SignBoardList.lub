@@ -10,9 +10,21 @@ IT_SIGNBOARD = 3
 SignBoardList = {
 {"Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "입력안하셨습니다", "#0x009EBDFF"}
 , 
+{"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
+, 
+{"prt_in", 37, 95, 15, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", "  메가 부스터 지원", "#0x00FFFFFF"}
+, 
+{"sp_cor", 98, 136, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터일루시온인챈트", "#0x00FFFFFF"}
+, 
+{"ba_maison", 136, 103, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터오토매틱인챈트", "#0x00FFFFFF"}
+, 
+{"prontera", 134, 184, 15, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", " 모험가 편의센터", "#0x00FFFFFF"}
+, 
 {"malangdo", 124, 152, 0, IT_SIGNBOARD, "item\\suffragium.bmp", "  마일리지 스톤교환", "#0x00FFFFFF"}
 , 
-{"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
+{"prt_fild08", 145, 357, 0, IT_SIGNBOARD, "group\\group_15.bmp", "  차원 수호 기념관", "#0x00FFFFFF"}
+, 
+{"memohall", 82, 89, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
 , 
 {"ein_dun02", 16, 250, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  180Lv미만 출입금지", "#0x00FFFFFF"}
 , 
@@ -303,6 +315,8 @@ SignBoardList = {
 {"izlude_in", 60, 127, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp"}
 , 
 {"izlude_in", 70, 127, 0, IT_BMP, "유저인터페이스\\information\\over_armorshops.bmp"}
+, 
+{"iz_ac01", 97, 44, 15, IT_SIGNBOARD, "유저인터페이스\\item\\suffragium.bmp", "  1차 전직 안내", "#0x00FFFFFF"}
 , 
 {"lasagna", 134, 113, 0, IT_BMP, "유저인터페이스\\information\\over_style.bmp"}
 , 
@@ -1262,10 +1276,12 @@ SignBoardList = {
 , 
 {"icecastle", 62, 229, 0, IT_BMP, "유저인터페이스\\information\\over_inn.bmp"}
 , 
-{"icecastle", 59, 123, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
+{"icecastle", 59, 123, 5, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
 , 
-{"icas_in", 180, 61, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
+{"icas_in", 180, 61, 5, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
 , 
 {"icas_in", 81, 121, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
+, 
+{"icas_in", 169, 70, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
 }
 

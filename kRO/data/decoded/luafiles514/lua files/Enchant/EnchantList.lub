@@ -8265,6 +8265,18 @@ Table[31] = CreateEnchantInfo()
 ;
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_149", 0, {"Snow_F_Stone1", 25}, {"Snow_F_Stone2", 35}, {"Snow_F_Stone3", 50})
 ;
+(((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_162", 0, {"Snow_F_Stone1", 25}, {"Snow_F_Stone2", 35}, {"Snow_F_Stone3", 50})
+;
+(((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_163", 0, {"Snow_F_Stone1", 25}, {"Snow_F_Stone2", 35}, {"Snow_F_Stone3", 50})
+;
+(((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_164", 0, {"Snow_F_Stone1", 25}, {"Snow_F_Stone2", 35}, {"Snow_F_Stone3", 50})
+;
+(((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_165", 0, {"Snow_F_Stone1", 25}, {"Snow_F_Stone2", 35}, {"Snow_F_Stone3", 50})
+;
+(((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_166", 0, {"Snow_F_Stone1", 25}, {"Snow_F_Stone2", 35}, {"Snow_F_Stone3", 50})
+;
+(((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_167", 0, {"Snow_F_Stone1", 25}, {"Snow_F_Stone2", 35}, {"Snow_F_Stone3", 50})
+;
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_156", 0, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_157", 0, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
@@ -8276,7 +8288,7 @@ Table[31] = CreateEnchantInfo()
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_160", 0, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_161", 0, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC46802: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC46934: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[32] = CreateEnchantInfo()
 ;
@@ -8363,7 +8375,7 @@ Table[32] = CreateEnchantInfo()
 (((Table[32]).Slot)[2]):AddUpgradeEnchant("Gray_Magic2", "Gray_Magic3", 0, {"Enchant_Ticket", 1}, {"»Î∫˚¿«¡∂∞¢", 300}, {"Sakray_Fury", 10}, {"Sakray_Regret", 10})
 ;
 (((Table[32]).Slot)[2]):AddUpgradeEnchant("Gray_Fight2", "Gray_Fight3", 0, {"Enchant_Ticket", 1}, {"»Î∫˚¿«¡∂∞¢", 300}, {"Sakray_Fury", 10}, {"Sakray_Regret", 10})
--- DECOMPILER ERROR at PC47679: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC47811: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[33] = CreateEnchantInfo()
 ;
@@ -8478,4 +8490,4145 @@ Table[33] = CreateEnchantInfo()
 (((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 500000, {"EP17_1_EVT02", 100}, {"EP17_1_EVT39", 25})
 ;
 (((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 500000, {"EP17_1_EVT02", 100}, {"EP17_1_EVT39", 25})
+-- DECOMPILER ERROR at PC48552: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[34] = CreateEnchantInfo()
+;
+(Table[34]):SetSlotOrder(3, 2, 1)
+;
+(Table[34]):AddTargetItem("E_Illusion_Armor_A")
+;
+(Table[34]):AddTargetItem("E_Illusion_Armor_B")
+;
+(Table[34]):SetCondition(0, 0)
+;
+(Table[34]):ApproveRandomOption(true)
+;
+(Table[34]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[34]):SetCaution("¿œ∑ÁΩ√ø¬ æ∆∏” A≈∏¿‘(±Õº”), ¿œ∑ÁΩ√ø¬ æ∆∏” B≈∏¿‘(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[34]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Atk", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Matk", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Archer", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Atk", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Matk", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Archer", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[34]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Delay", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+-- DECOMPILER ERROR at PC48842: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[35] = CreateEnchantInfo()
+;
+(Table[35]):SetSlotOrder(3, 2, 1)
+;
+(Table[35]):AddTargetItem("E_Auto_B_L")
+;
+(Table[35]):AddTargetItem("E_Auto_BC_L")
+;
+(Table[35]):SetCondition(0, 0)
+;
+(Table[35]):ApproveRandomOption(true)
+;
+(Table[35]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[35]):SetCaution("ø¿≈‰∏≈∆Ω ∫ŒΩ∫≈ÕL(±Õº”), ø¿≈‰∏≈∆Ω πË∆≤ƒ®L(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[35]).Slot)[3]):AddPerfectEnchant("Automatic_Orb3", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[3]):AddPerfectEnchant("Automatic_Orb4", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[3]):AddPerfectEnchant("Automatic_Orb11", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[3]):AddPerfectEnchant("Automatic_Orb14", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[2]):AddPerfectEnchant("Automatic_Orb3", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[2]):AddPerfectEnchant("Automatic_Orb4", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[2]):AddPerfectEnchant("Automatic_Orb7", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[2]):AddPerfectEnchant("Automatic_Orb8", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[2]):AddPerfectEnchant("Automatic_Orb10", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[2]):AddPerfectEnchant("Automatic_Orb12", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb3", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb4", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb7", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb8", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb10", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb13", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb39", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb33", 0, {"BarMealTicket", 25})
+;
+(((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb35", 0, {"BarMealTicket", 25})
+-- DECOMPILER ERROR at PC49164: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[36] = CreateEnchantInfo()
+;
+(Table[36]):SetSlotOrder(3, 2, 1)
+;
+(Table[36]):AddTargetItem("SP_B_Fox")
+;
+(Table[36]):AddTargetItem("GB_B_Fox")
+;
+(Table[36]):AddTargetItem("ML_B_Book")
+;
+(Table[36]):AddTargetItem("SS_B_Book")
+;
+(Table[36]):AddTargetItem("FCH_B_Huuma")
+;
+(Table[36]):AddTargetItem("SN_B_Huuma")
+;
+(Table[36]):AddTargetItem("DF_B_Revolver")
+;
+(Table[36]):AddTargetItem("FR_B_Gatling")
+;
+(Table[36]):AddTargetItem("ES_B_Staff")
+;
+(Table[36]):AddTargetItem("EC_B_Staff")
+;
+(Table[36]):AddTargetItem("SN_B_Wand")
+;
+(Table[36]):AddTargetItem("SN_B_Dagger")
+;
+(Table[36]):AddTargetItem("IW_B_T_Sword")
+;
+(Table[36]):AddTargetItem("HB_B_T_Spear")
+;
+(Table[36]):AddTargetItem("BC_B_Spear")
+;
+(Table[36]):AddTargetItem("PG_B_Sword")
+;
+(Table[36]):AddTargetItem("PT_B_Axe")
+;
+(Table[36]):AddTargetItem("AK_B_Mace")
+;
+(Table[36]):AddTargetItem("AC_B_Club")
+;
+(Table[36]):AddTargetItem("HS_T_Sword")
+;
+(Table[36]):AddTargetItem("RC_B_Katar")
+;
+(Table[36]):AddTargetItem("CA_B_Katar")
+;
+(Table[36]):AddTargetItem("TB_B_Bow")
+;
+(Table[36]):AddTargetItem("MF_B_Dagger")
+;
+(Table[36]):AddTargetItem("CS_B_Staff")
+;
+(Table[36]):AddTargetItem("CJ_B_Staff")
+;
+(Table[36]):AddTargetItem("SB_B_Book")
+;
+(Table[36]):AddTargetItem("ES_B_Stick")
+;
+(Table[36]):AddTargetItem("AN_B_Wand")
+;
+(Table[36]):AddTargetItem("DD_B_Mace")
+;
+(Table[36]):AddTargetItem("PS_B_Knuckle")
+;
+(Table[36]):AddTargetItem("CP_B_Knuckle")
+;
+(Table[36]):AddTargetItem("AS_B_Bow")
+;
+(Table[36]):AddTargetItem("SB_B_Bow")
+;
+(Table[36]):AddTargetItem("RS_B_Violin")
+;
+(Table[36]):AddTargetItem("RS_B_Whip")
+;
+(Table[36]):AddTargetItem("MV_B_Violin")
+;
+(Table[36]):AddTargetItem("MV_B_Whip")
+;
+(Table[36]):SetCondition(0, 0)
+;
+(Table[36]):ApproveRandomOption(true)
+;
+(Table[36]):SetReset(false, 100000, 0, {"Enchant_Ticket", 1})
+;
+(Table[36]):SetCaution("∫ŒΩ∫≈Õ ø˛∆˘ ¿Œ√¶∆Æ\nº∫∞¯»Æ∑¸ 100%\n√ ±‚»≠ ∫“∞°")
+;
+(((Table[36]).Slot)[3]):AddPerfectEnchant("√∑øπ5", 0, {"Booster_Coin", 80})
+;
+(((Table[36]).Slot)[3]):AddPerfectEnchant("Hit_Plus5", 0, {"Booster_Coin", 80})
+;
+(((Table[36]).Slot)[3]):AddPerfectEnchant("Attack_Delay_5", 0, {"Booster_Coin", 80})
+;
+(((Table[36]).Slot)[3]):AddPerfectEnchant("Caster5", 0, {"Booster_Coin", 80})
+;
+(((Table[36]).Slot)[2]):AddPerfectEnchant("Expert_Fighter5", 0, {"Booster_Coin", 180})
+;
+(((Table[36]).Slot)[2]):AddPerfectEnchant("∏Ì±√5", 0, {"Booster_Coin", 180})
+;
+(((Table[36]).Slot)[2]):AddPerfectEnchant("Expert_Magician5", 0, {"Booster_Coin", 180})
+-- DECOMPILER ERROR at PC49534: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[37] = CreateEnchantInfo()
+;
+(Table[37]):SetSlotOrder(2, 1, 0)
+;
+(Table[37]):AddTargetItem("C_Pretty_Rabbit_Hood_E")
+;
+(Table[37]):AddTargetItem("C_Black_Cat_Hood_kr")
+;
+(Table[37]):AddTargetItem("C_Squirrel_Ear_Hat_Kr")
+;
+(Table[37]):AddTargetItem("C_Black_Moon_Cat_kr")
+;
+(Table[37]):SetCondition(0, 0)
+;
+(Table[37]):ApproveRandomOption(true)
+;
+(Table[37]):SetReset(false, 100000, 0, {"Enchant_Ticket", 1})
+;
+(Table[37]):SetCaution("∫ŒΩ∫≈Õ ≈ı±∏ ¿Œ√¶∆Æ\nº∫∞¯»Æ∑¸ 100%\n√ ±‚»≠ ∫“∞°")
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Runeknight_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Runeknight_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Paladin_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Paladin_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Mechanic_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Mechanic_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Genetic_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Genetic_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Assassincross_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Assassincross_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Shadowchaser_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Shadowchaser_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Warlock_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Warlock_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Sorcerer_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Sorcerer_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Highpriest_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Highpriest_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Sura_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Sura_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Ranger_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Ranger_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("WanderMinstrel_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("WanderMins_Bottom2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Gladiator_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Soullinker_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Gunslinger_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Doram_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Ninja_Bottom", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("∫Øµøƒ≥Ω∫∆√«œ¥‹", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("ƒ°∏Ì_«œ¥‹", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Melee_Bottom", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Magic_Bottom", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[2]):AddPerfectEnchant("Range_Bottom", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Runeknight_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Runeknight_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Paladin_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Paladin_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Mechanic_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Mechanic_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Genetic_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Genetic_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Assassincross_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Assassincross_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Shadowchaser_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Shadowchaser_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Warlock_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Warlock_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Sorcerer_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Sorcerer_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Highpriest_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Highpriest_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Sura_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Sura_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Ranger_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Ranger_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("WanderMinstrel_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("WanderMins_Middle2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Gladiator_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Soullinker_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Gunslinger_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Doram_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Ninja_Middle", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("∫Øµøƒ≥Ω∫∆√¡ﬂ¥‹", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("ƒ°∏Ì0", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Melee_Middle", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Magic_Middle", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[1]):AddPerfectEnchant("Range_Middle", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Doram_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Runeknight_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Runeknight_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Paladin_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Paladin_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Mechanic_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Mechanic_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Genetic_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Genetic_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Assassincross_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Assassincross_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Shadowchaser_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Shadowchaser_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Warlock_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Warlock_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Sorcerer_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Sorcerer_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Highpriest_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Highpriest_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Sura_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Sura_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Ranger_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Ranger_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("WanderMinstrel_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("WanderMins_Top2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Gladiator_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Soullinker_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Gunslinger_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Ninja_Top", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("∫Øµøƒ≥Ω∫∆√ªÛ¥‹", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("ƒ°∏Ì_ªÛ¥‹", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Melee_Top", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Magic_Top", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[37]).Slot)[0]):AddPerfectEnchant("Range_Top", 0, {"Boost_C_Enchant_2", 1})
+-- DECOMPILER ERROR at PC51030: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[38] = CreateEnchantInfo()
+;
+(Table[38]):SetSlotOrder(0, 1)
+;
+(Table[38]):AddTargetItem("C_School_Bag_RD_E")
+;
+(Table[38]):AddTargetItem("C_School_Bag_BL")
+;
+(Table[38]):AddTargetItem("C_School_Bag_BU")
+;
+(Table[38]):AddTargetItem("C_School_Bag_PU")
+;
+(Table[38]):SetCondition(0, 0)
+;
+(Table[38]):ApproveRandomOption(true)
+;
+(Table[38]):SetReset(false, 100000, 0, {"Enchant_Ticket", 1})
+;
+(Table[38]):SetCaution("∫ŒΩ∫≈Õ ∞…ƒ•∞Õ ¿Œ√¶∆Æ\nº∫∞¯»Æ∑¸ 100%\n√ ±‚»≠ ∫“∞°")
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Runeknight_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Runeknight_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Royalguard_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Royalguard_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Mechanic_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Mechanic_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Genetic_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Genetic_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Guillotinecross_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Guillotinecross_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Shadowchaser_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Shadowchaser_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Warlock_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Warlock_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Sorcerer_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Sorcerer_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Archbishop_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Archbishop_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Sura_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Sura_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Ranger_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Ranger_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("WanderMinstrel_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("WanderMins_Robe2", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Staremperor_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Soulreaper_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Rebellion_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Doram_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Kagerou_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("Oboro_Robe", 0, {"Boost_C_Enchant_1", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("∫Øµøƒ≥Ω∫∆√∞…ƒ•∞Õ", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("ƒ°∏Ì_∞…ƒ•∞Õ", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[38]).Slot)[0]):AddPerfectEnchant("∞Ì¡§ƒ≥Ω∫∆√05", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[38]).Slot)[1]):AddPerfectEnchant("Melee_Robe_D", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[38]).Slot)[1]):AddPerfectEnchant("Magic_Robe_D", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[38]).Slot)[1]):AddPerfectEnchant("Range_Robe_D", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[38]).Slot)[1]):AddPerfectEnchant("HPdrain_Robe_D", 0, {"Boost_C_Enchant_2", 1})
+;
+(((Table[38]).Slot)[1]):AddPerfectEnchant("SPdrain_Robe_D", 0, {"Boost_C_Enchant_2", 1})
+-- DECOMPILER ERROR at PC51629: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[39] = CreateEnchantInfo()
+;
+(Table[39]):SetSlotOrder(3, 2, 1)
+;
+(Table[39]):AddTargetItem("E_Illusion_Engine_A")
+;
+(Table[39]):AddTargetItem("E_Illusion_Engine_B")
+;
+(Table[39]):SetCondition(0, 0)
+;
+(Table[39]):ApproveRandomOption(true)
+;
+(Table[39]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[39]):SetCaution("¿œ∑ÁΩ√ø¬ ø£¡¯¿Æ A≈∏¿‘(±Õº”), ¿œ∑ÁΩ√ø¬ ø£¡¯¿Æ B≈∏¿‘(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[39]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Speed", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Cast", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Cri", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Speed", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Cast", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Cri", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[39]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Above", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+-- DECOMPILER ERROR at PC51919: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[40] = CreateEnchantInfo()
+;
+(Table[40]):SetSlotOrder(3, 2, 1)
+;
+(Table[40]):AddTargetItem("E_Illusion_Leg_A")
+;
+(Table[40]):AddTargetItem("E_Illusion_Leg_B")
+;
+(Table[40]):SetCondition(0, 0)
+;
+(Table[40]):ApproveRandomOption(true)
+;
+(Table[40]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[40]):SetCaution("¿œ∑ÁΩ√ø¬ ∑π±◊ A≈∏¿‘(±Õº”), ¿œ∑ÁΩ√ø¬ ∑π±◊ B≈∏¿‘(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[40]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Health", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Spirit", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[3]):AddPerfectEnchant("Improve_Orb_Heal", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Health", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Spirit", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[2]):AddPerfectEnchant("Improve_Orb_Heal", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Def", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[40]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Fix", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+-- DECOMPILER ERROR at PC52209: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[41] = CreateEnchantInfo()
+;
+(Table[41]):SetSlotOrder(3, 2, 1)
+;
+(Table[41]):AddTargetItem("E_Auto_B_R")
+;
+(Table[41]):AddTargetItem("E_Auto_BC_R")
+;
+(Table[41]):SetCondition(0, 0)
+;
+(Table[41]):ApproveRandomOption(true)
+;
+(Table[41]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[41]):SetCaution("ø¿≈‰∏≈∆Ω ∫ŒΩ∫≈ÕR(±Õº”), ø¿≈‰∏≈∆Ω πË∆≤ƒ®R(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[41]).Slot)[3]):AddPerfectEnchant("Automatic_Orb3", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[3]):AddPerfectEnchant("Automatic_Orb4", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[3]):AddPerfectEnchant("Automatic_Orb11", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[3]):AddPerfectEnchant("Automatic_Orb14", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[2]):AddPerfectEnchant("Automatic_Orb3", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[2]):AddPerfectEnchant("Automatic_Orb4", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[2]):AddPerfectEnchant("Automatic_Orb5", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[2]):AddPerfectEnchant("Automatic_Orb6", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[2]):AddPerfectEnchant("Automatic_Orb9", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[2]):AddPerfectEnchant("Automatic_Orb12", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb3", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb4", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb5", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb6", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb9", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb13", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb39", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb32", 0, {"BarMealTicket", 25})
+;
+(((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb34", 0, {"BarMealTicket", 25})
+-- DECOMPILER ERROR at PC52531: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[42] = CreateEnchantInfo()
+;
+(Table[42]):SetSlotOrder(3, 2, 1)
+;
+(Table[42]):AddTargetItem("E_Illusion_B_R")
+;
+(Table[42]):AddTargetItem("E_Illusion_BC_R")
+;
+(Table[42]):SetCondition(0, 0)
+;
+(Table[42]):ApproveRandomOption(true)
+;
+(Table[42]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[42]):SetCaution("¿œ∑ÁΩ√ø¬ ∫ŒΩ∫≈ÕR(±Õº”), ¿œ∑ÁΩ√ø¬ πË∆≤ƒ®R(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[42]).Slot)[3]):AddPerfectEnchant("πŸ≈ª3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[3]):AddPerfectEnchant("∑∞3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[3]):AddPerfectEnchant("»˚3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[3]):AddPerfectEnchant("æÓ¡˙3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[3]):AddPerfectEnchant("∏∂∑¬5", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[3]):AddPerfectEnchant("∏Ì±√5", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[2]):AddPerfectEnchant("πŸ≈ª3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[2]):AddPerfectEnchant("∑∞3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[2]):AddPerfectEnchant("»˚3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[2]):AddPerfectEnchant("æÓ¡˙3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[2]):AddPerfectEnchant("Improve_Orb_HealHP", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[2]):AddPerfectEnchant("∞¯∞›»ƒµÙ∑π¿Ã4", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[1]):AddPerfectEnchant("πŸ≈ª3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[1]):AddPerfectEnchant("∑∞3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[1]):AddPerfectEnchant("»˚3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[1]):AddPerfectEnchant("æÓ¡˙3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[1]):AddPerfectEnchant("Improve_Orb_HealHP", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[1]):AddPerfectEnchant("ƒ°∏Ì4", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Life", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[42]).Slot)[1]):AddPerfectEnchant("Improve_Orb_M_Heal", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+-- DECOMPILER ERROR at PC52947: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[43] = CreateEnchantInfo()
+;
+(Table[43]):SetSlotOrder(3, 2, 1)
+;
+(Table[43]):AddTargetItem("E_Illusion_B_L")
+;
+(Table[43]):AddTargetItem("E_Illusion_BC_L")
+;
+(Table[43]):SetCondition(0, 0)
+;
+(Table[43]):ApproveRandomOption(true)
+;
+(Table[43]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[43]):SetCaution("¿œ∑ÁΩ√ø¬ ∫ŒΩ∫≈ÕL(±Õº”), ¿œ∑ÁΩ√ø¬ πË∆≤ƒ®L(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[43]).Slot)[3]):AddPerfectEnchant("πŸ≈ª3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[3]):AddPerfectEnchant("∑∞3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[3]):AddPerfectEnchant("¿Œ∆Æ3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[3]):AddPerfectEnchant("µ¶3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[3]):AddPerfectEnchant("∏∂∑¬5", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[3]):AddPerfectEnchant("∏Ì±√5", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[2]):AddPerfectEnchant("πŸ≈ª3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[2]):AddPerfectEnchant("∑∞3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[2]):AddPerfectEnchant("¿Œ∆Æ3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[2]):AddPerfectEnchant("µ¶3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[2]):AddPerfectEnchant("Improve_Orb_HealSP", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[2]):AddPerfectEnchant("∞¯∞›»ƒµÙ∑π¿Ã4", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[1]):AddPerfectEnchant("πŸ≈ª3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[1]):AddPerfectEnchant("∑∞3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[1]):AddPerfectEnchant("¿Œ∆Æ3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[1]):AddPerfectEnchant("µ¶3", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[1]):AddPerfectEnchant("Improve_Orb_HealSP", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[1]):AddPerfectEnchant("ƒ°∏Ì4", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Soul", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+;
+(((Table[43]).Slot)[1]):AddPerfectEnchant("Improve_Orb_M_Soul", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
+-- DECOMPILER ERROR at PC53363: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[44] = CreateEnchantInfo()
+;
+(Table[44]):SetSlotOrder(3, 2, 1)
+;
+(Table[44]):AddTargetItem("E_Auto_Armor_A")
+;
+(Table[44]):AddTargetItem("E_Auto_Armor_B")
+;
+(Table[44]):SetCondition(0, 0)
+;
+(Table[44]):ApproveRandomOption(true)
+;
+(Table[44]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[44]):SetCaution("ø¿≈‰∏≈∆Ω æ∆∏” A≈∏¿‘(±Õº”), ø¿≈‰∏≈∆Ω æ∆∏” B≈∏¿‘(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb18", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb19", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb20", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb24", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb25", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb26", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb27", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb28", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb97", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[3]):AddPerfectEnchant("Automatic_Orb29", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb18", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb19", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb20", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb46", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb47", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb48", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb49", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb50", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb51", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb52", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb53", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb54", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb55", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb56", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb57", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb58", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb59", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb60", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb61", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb62", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb63", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb64", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb65", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb66", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb67", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb68", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb69", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb70", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb71", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb72", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb73", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb74", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb75", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb76", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb77", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb78", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb79", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb80", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb81", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb82", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb83", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb84", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb85", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb86", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb87", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb88", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb89", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb90", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb91", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb92", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb93", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb94", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb95", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[2]):AddPerfectEnchant("Automatic_Orb96", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb46", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb47", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb48", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb49", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb50", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb51", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb52", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb53", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb54", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb55", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb56", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb57", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb58", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb59", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb60", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb61", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb62", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb63", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb64", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb65", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb66", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb67", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb68", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb69", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb70", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb71", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb72", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb73", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb74", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb75", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb76", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb77", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb78", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb79", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb80", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb81", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb82", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb83", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb84", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb85", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb86", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb87", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb88", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb89", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb90", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb91", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb92", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb93", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb94", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb95", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb96", 0, {"BarMealTicket", 25})
+;
+(((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb36", 0, {"BarMealTicket", 25})
+-- DECOMPILER ERROR at PC55127: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[45] = CreateEnchantInfo()
+;
+(Table[45]):SetSlotOrder(3, 2, 1)
+;
+(Table[45]):AddTargetItem("E_Auto_Engine_A")
+;
+(Table[45]):AddTargetItem("E_Auto_Engine_B")
+;
+(Table[45]):SetCondition(0, 0)
+;
+(Table[45]):ApproveRandomOption(true)
+;
+(Table[45]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[45]):SetCaution("ø¿≈‰∏≈∆Ω ø£¡¯¿Æ A≈∏¿‘(±Õº”), ø¿≈‰∏≈∆Ω ø£¡¯¿Æ B≈∏¿‘(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[45]).Slot)[3]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[3]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[3]):AddPerfectEnchant("Automatic_Orb21", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[3]):AddPerfectEnchant("Automatic_Orb22", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[3]):AddPerfectEnchant("Automatic_Orb23", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[2]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[2]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[2]):AddPerfectEnchant("Automatic_Orb21", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[2]):AddPerfectEnchant("Automatic_Orb22", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[2]):AddPerfectEnchant("Automatic_Orb23", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[1]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[1]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[1]):AddPerfectEnchant("Automatic_Orb38", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[1]):AddPerfectEnchant("Automatic_Orb98", 0, {"BarMealTicket", 25})
+;
+(((Table[45]).Slot)[1]):AddPerfectEnchant("Automatic_Orb31", 0, {"BarMealTicket", 25})
+-- DECOMPILER ERROR at PC55393: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[46] = CreateEnchantInfo()
+;
+(Table[46]):SetSlotOrder(3, 2, 1)
+;
+(Table[46]):AddTargetItem("E_Auto_Leg_A")
+;
+(Table[46]):AddTargetItem("E_Auto_Leg_B")
+;
+(Table[46]):SetCondition(0, 0)
+;
+(Table[46]):ApproveRandomOption(true)
+;
+(Table[46]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[46]):SetCaution("ø¿≈‰∏≈∆Ω ∑π±◊ A≈∏¿‘(±Õº”), ø¿≈‰∏≈∆Ω ∑π±◊ B≈∏¿‘(±Õº”)ø° »Æ¡§ ¿Œ√¶∆Æ ∫Œø© ∞°¥….")
+;
+(((Table[46]).Slot)[3]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[3]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[3]):AddPerfectEnchant("Automatic_Orb15", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[3]):AddPerfectEnchant("Automatic_Orb16", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[3]):AddPerfectEnchant("Automatic_Orb17", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[2]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[2]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[2]):AddPerfectEnchant("Automatic_Orb15", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[2]):AddPerfectEnchant("Automatic_Orb16", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[2]):AddPerfectEnchant("Automatic_Orb17", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[2]):AddPerfectEnchant("Automatic_Orb37", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb1", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb2", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb40", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb41", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb42", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb43", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb44", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb45", 0, {"BarMealTicket", 25})
+;
+(((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb30", 0, {"BarMealTicket", 25})
+-- DECOMPILER ERROR at PC55729: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[47] = CreateEnchantInfo()
+;
+(Table[47]):SetSlotOrder(3, 2, 1)
+;
+(Table[47]):AddTargetItem("D_Glacier_T_Sword")
+;
+(Table[47]):AddTargetItem("D_Glacier_Lance")
+;
+(Table[47]):AddTargetItem("D_Glacier_Sword")
+;
+(Table[47]):AddTargetItem("D_Glacier_B_Sword")
+;
+(Table[47]):AddTargetItem("D_Glacier_Spear")
+;
+(Table[47]):AddTargetItem("D_Glacier_T_Axe")
+;
+(Table[47]):AddTargetItem("D_Glacier_Axe")
+;
+(Table[47]):AddTargetItem("D_Glacier_Mace")
+;
+(Table[47]):AddTargetItem("D_Glacier_M_Mace")
+;
+(Table[47]):AddTargetItem("D_Glacier_R_Knife")
+;
+(Table[47]):AddTargetItem("D_Glacier_B_Knife")
+;
+(Table[47]):AddTargetItem("D_Glacier_Bow")
+;
+(Table[47]):AddTargetItem("D_Glacier_Knuckle")
+;
+(Table[47]):AddTargetItem("D_Glacier_Book")
+;
+(Table[47]):AddTargetItem("D_Glacier_Katar")
+;
+(Table[47]):AddTargetItem("D_Glacier_Wand")
+;
+(Table[47]):AddTargetItem("D_Glacier_Staff")
+;
+(Table[47]):AddTargetItem("D_Glacier_Foxtail")
+;
+(Table[47]):AddTargetItem("D_Glacier_Violin")
+;
+(Table[47]):AddTargetItem("D_Glacier_Whip")
+;
+(Table[47]):AddTargetItem("D_Glacier_Humma")
+;
+(Table[47]):AddTargetItem("D_Glacier_Revolver")
+;
+(Table[47]):AddTargetItem("D_Glacier_Rifle")
+;
+(Table[47]):AddTargetItem("D_Glacier_Shotgun")
+;
+(Table[47]):AddTargetItem("D_Glacier_Gatling")
+;
+(Table[47]):AddTargetItem("D_Glacier_Launcher")
+;
+(Table[47]):SetCondition(0, 0)
+;
+(Table[47]):ApproveRandomOption(true)
+;
+(Table[47]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+;
+(Table[47]):SetCaution("µı ±€∑π¿ÃΩ√æ∆ π´±‚ ¿Œ√¶∆Æ ∫Œø©\n¿Œ√¶∆Æ √ ±‚»≠ ∫“∞°")
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_1", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_2", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_3", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_4", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_5", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_6", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_7", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_8", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_9", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_10", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_11", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_12", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_13", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_14", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_15", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_16", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_17", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_18", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_19", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_20", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_21", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_22", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_23", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_24", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_25", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_26", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_27", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_28", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_29", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_30", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_31", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_32", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_33", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_34", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_35", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_36", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_37", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_38", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_39", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_40", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_41", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_42", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_43", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_44", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_45", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_46", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_47", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_48", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_49", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_50", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_51", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_52", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_53", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_54", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_55", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_56", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_57", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_58", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_59", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_60", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_61", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_62", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_63", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_64", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_65", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_66", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_67", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_68", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_69", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_70", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_71", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_72", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_73", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_74", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_75", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_76", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_77", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_78", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_79", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_80", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_81", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_82", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_83", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_84", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_85", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_86", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_87", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_88", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_89", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_90", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_91", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_92", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_93", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_94", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_95", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_96", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_97", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_98", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_99", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_100", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_101", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_102", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_103", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_104", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_105", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_106", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_107", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_108", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_109", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_110", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_111", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_112", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_113", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_114", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_115", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_116", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_117", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_118", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_119", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_120", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_121", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_122", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_123", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_124", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_125", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_126", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_127", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_128", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_129", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_130", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_131", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_132", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_133", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_134", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_135", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_136", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_137", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_138", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_139", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_140", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_141", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_142", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_143", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_144", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_145", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_146", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_147", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_148", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_149", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_162", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_163", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_164", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_165", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_166", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[3]):AddPerfectEnchant("Glacier_F_Orb_167", 0, {"EP19_S_F_1_Extract", 10}, {"EP19_S_F_2_Extract", 15}, {"EP19_S_F_3_Extract", 25})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_81", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_82", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_83", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_84", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_85", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_86", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_87", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_88", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_89", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_90", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_91", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_92", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_93", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_94", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_95", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_96", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_97", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_98", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_99", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_100", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_101", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_102", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_103", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_104", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_105", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_106", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_107", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_108", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_109", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_110", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_111", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_112", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_113", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_114", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_115", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_116", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_117", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_118", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_119", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_120", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_121", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_122", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_123", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_124", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_125", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_126", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_127", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_128", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_129", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_130", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_131", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_132", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_133", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_134", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_135", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_136", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_137", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_138", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_139", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_140", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_141", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_142", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_143", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_144", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_145", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_146", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_147", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_148", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_149", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_162", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_163", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_164", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_165", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_166", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[2]):AddPerfectEnchant("Glacier_F_Orb_167", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 35})
+;
+(((Table[47]).Slot)[1]):AddPerfectEnchant("Physical_Grade_1", 0, {"EP19_S_F_1_Extract", 30}, {"EP19_S_F_2_Extract", 40}, {"EP19_S_F_3_Extract", 60}, {"EP19_Gla_Extract", 50})
+;
+(((Table[47]).Slot)[1]):AddPerfectEnchant("Magical_Grade_1", 0, {"EP19_S_F_1_Extract", 30}, {"EP19_S_F_2_Extract", 40}, {"EP19_S_F_3_Extract", 60}, {"EP19_Gla_Extract", 50})
+;
+(((Table[47]).Slot)[1]):AddUpgradeEnchant("Physical_Grade_1", "Physical_Grade_2", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 30}, {"EP19_Gla_Extract", 25}, {"EP19_D_P_Crystal", 5}, {"EP19_N_P_Crystal", 5})
+;
+(((Table[47]).Slot)[1]):AddUpgradeEnchant("Physical_Grade_2", "Physical_Grade_3", 0, {"EP19_S_F_1_Extract", 20}, {"EP19_S_F_2_Extract", 30}, {"EP19_S_F_3_Extract", 40}, {"EP19_Gla_Extract", 35}, {"EP19_D_P_Crystal", 7}, {"EP19_N_P_Crystal", 7}, {"EP19_D_P_Stone", 1})
+;
+(((Table[47]).Slot)[1]):AddUpgradeEnchant("Physical_Grade_3", "Physical_Grade_4", 0, {"EP19_S_F_1_Extract", 30}, {"EP19_S_F_2_Extract", 40}, {"EP19_S_F_3_Extract", 50}, {"EP19_Gla_Extract", 45}, {"EP19_D_P_Crystal", 10}, {"EP19_N_P_Crystal", 10}, {"EP19_D_P_Stone", 2})
+;
+(((Table[47]).Slot)[1]):AddUpgradeEnchant("Physical_Grade_4", "Physical_Grade_5", 0, {"EP19_S_F_1_Extract", 40}, {"EP19_S_F_2_Extract", 50}, {"EP19_S_F_3_Extract", 65}, {"EP19_Gla_Extract", 70}, {"EP19_D_P_Crystal", 15}, {"EP19_N_P_Crystal", 15}, {"EP19_D_P_Stone", 3})
+;
+(((Table[47]).Slot)[1]):AddUpgradeEnchant("Magical_Grade_1", "Magical_Grade_2", 0, {"EP19_S_F_1_Extract", 15}, {"EP19_S_F_2_Extract", 20}, {"EP19_S_F_3_Extract", 30}, {"EP19_Gla_Extract", 25}, {"EP19_D_P_Crystal", 5}, {"EP19_N_P_Crystal", 5})
+;
+(((Table[47]).Slot)[1]):AddUpgradeEnchant("Magical_Grade_2", "Magical_Grade_3", 0, {"EP19_S_F_1_Extract", 20}, {"EP19_S_F_2_Extract", 30}, {"EP19_S_F_3_Extract", 40}, {"EP19_Gla_Extract", 35}, {"EP19_D_P_Crystal", 7}, {"EP19_N_P_Crystal", 7}, {"EP19_D_P_Stone", 1})
+;
+(((Table[47]).Slot)[1]):AddUpgradeEnchant("Magical_Grade_3", "Magical_Grade_4", 0, {"EP19_S_F_1_Extract", 30}, {"EP19_S_F_2_Extract", 40}, {"EP19_S_F_3_Extract", 50}, {"EP19_Gla_Extract", 45}, {"EP19_D_P_Crystal", 10}, {"EP19_N_P_Crystal", 10}, {"EP19_D_P_Stone", 2})
+;
+(((Table[47]).Slot)[1]):AddUpgradeEnchant("Magical_Grade_4", "Magical_Grade_5", 0, {"EP19_S_F_1_Extract", 40}, {"EP19_S_F_2_Extract", 50}, {"EP19_S_F_3_Extract", 65}, {"EP19_Gla_Extract", 70}, {"EP19_D_P_Crystal", 15}, {"EP19_N_P_Crystal", 15}, {"EP19_D_P_Stone", 3})
+-- DECOMPILER ERROR at PC61353: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[51] = CreateEnchantInfo()
+;
+(Table[51]):SetSlotOrder(3)
+;
+(Table[51]):AddTargetItem("C_20th_Anniversary_Hat")
+;
+(Table[51]):SetCondition(0, 0)
+;
+(Table[51]):ApproveRandomOption(true)
+;
+(Table[51]):SetReset(false, 100000, 10000, {"Evt_20th_Coin", 1})
+;
+(Table[51]):SetCaution("20¡÷≥‚¿ª √‡«œ«’¥œ¥Ÿ!!\n ")
+;
+(((Table[51]).Slot)[3]):AddPerfectEnchant("Evt_Firecracker", 20, {"Evt_20th_Coin", 1})
+-- DECOMPILER ERROR at PC61415: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[52] = CreateEnchantInfo()
+;
+(Table[52]):SetSlotOrder(3, 2, 1)
+;
+(Table[52]):AddTargetItem("Plain_Rune_Armor")
+;
+(Table[52]):AddTargetItem("Plain_Rune_Hood")
+;
+(Table[52]):AddTargetItem("Plain_Rune_Boots")
+;
+(Table[52]):SetCondition(7, 0)
+;
+(Table[52]):ApproveRandomOption(true)
+;
+(Table[52]):SetReset(true, 80000, 1000000, {"Plain_Barmund_Rune2", 1})
+;
+(Table[52]):SetCaution("7¡¶∑√ πŸ∏£πÆ∆Æ √ ø¯ º¬∆Æø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[52]).Slot)[3]):SetRequire(50000, {"Plain_Barmund_Rune2", 1})
+;
+(((Table[52]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[52]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[52]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[52]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[52]).Slot)[3]):SetGradeBonus(4, 0)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[52]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[52]).Slot)[2]):SetRequire(100000, {"Plain_Barmund_Rune2", 5})
+;
+(((Table[52]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[52]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[52]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[52]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[52]).Slot)[2]):SetGradeBonus(4, 0)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Pow1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Spl1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Con1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Crt1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Wis1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Sta1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Pow2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Spl2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Con2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Crt2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Wis2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Sta2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Pow3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Spl3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Con3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Crt3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Wis3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(0, "Barmund_Sta3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Pow1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Spl1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Con1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Crt1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Wis1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Sta1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Pow2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Spl2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Con2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Crt2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Wis2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Sta2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Pow3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Spl3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Con3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Crt3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Wis3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(1, "Barmund_Sta3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Pow1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Spl1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Con1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Crt1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Wis1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Sta1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Pow2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Spl2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Con2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Crt2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Wis2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Sta2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Pow3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Spl3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Con3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Crt3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Wis3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(2, "Barmund_Sta3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Pow1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Spl1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Con1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Crt1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Wis1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Sta1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Pow2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Spl2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Con2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Crt2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Wis2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Sta2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Pow3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Spl3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Con3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Crt3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Wis3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(3, "Barmund_Sta3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Pow1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Spl1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Con1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Crt1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Wis1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Sta1", 14000)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Pow2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Spl2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Con2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Crt2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Wis2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Sta2", 2400)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Pow3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Spl3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Con3", 200)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Crt3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Wis3", 300)
+;
+(((Table[52]).Slot)[2]):SetEnchant(4, "Barmund_Sta3", 300)
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Pow1", "Barmund_Pow2", 0, {"BarMealTicket", 500}, {"Plain_Barmund_Rune2", 50}, {"Barmund_Plain_Essence", 30})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Spl1", "Barmund_Spl2", 0, {"BarMealTicket", 500}, {"Plain_Barmund_Rune2", 50}, {"Barmund_Plain_Essence", 30})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Con1", "Barmund_Con2", 0, {"BarMealTicket", 500}, {"Plain_Barmund_Rune2", 50}, {"Barmund_Plain_Essence", 30})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Crt1", "Barmund_Crt2", 0, {"BarMealTicket", 500}, {"Plain_Barmund_Rune2", 50}, {"Barmund_Plain_Essence", 30})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Wis1", "Barmund_Wis2", 0, {"BarMealTicket", 500}, {"Plain_Barmund_Rune2", 50}, {"Barmund_Plain_Essence", 30})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Sta1", "Barmund_Sta2", 0, {"BarMealTicket", 500}, {"Plain_Barmund_Rune2", 50}, {"Barmund_Plain_Essence", 30})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Pow2", "Barmund_Pow3", 0, {"BarMealTicket", 750}, {"Plain_Barmund_Rune2", 150}, {"Barmund_Plain_Essence", 90})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Spl2", "Barmund_Spl3", 0, {"BarMealTicket", 750}, {"Plain_Barmund_Rune2", 150}, {"Barmund_Plain_Essence", 90})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Con2", "Barmund_Con3", 0, {"BarMealTicket", 750}, {"Plain_Barmund_Rune2", 150}, {"Barmund_Plain_Essence", 90})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Crt2", "Barmund_Crt3", 0, {"BarMealTicket", 750}, {"Plain_Barmund_Rune2", 150}, {"Barmund_Plain_Essence", 90})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Wis2", "Barmund_Wis3", 0, {"BarMealTicket", 750}, {"Plain_Barmund_Rune2", 150}, {"Barmund_Plain_Essence", 90})
+;
+(((Table[52]).Slot)[2]):AddUpgradeEnchant("Barmund_Sta2", "Barmund_Sta3", 0, {"BarMealTicket", 750}, {"Plain_Barmund_Rune2", 150}, {"Barmund_Plain_Essence", 90})
+;
+(((Table[52]).Slot)[1]):SetRequire(300000, {"Plain_Barmund_Rune2", 5}, {"Barmund_Plain_Essence", 5})
+;
+(((Table[52]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[52]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[52]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[52]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[52]).Slot)[1]):SetGradeBonus(4, 0)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Flame1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Flame2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Flame3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Flame4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Flame5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Ice1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Ice2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Ice3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Ice4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Ice5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Plain1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Plain2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Plain3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Plain4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Plain5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Death1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Death2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Death3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Death4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(0, "Barmund_Death5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Flame1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Flame2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Flame3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Flame4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Flame5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Ice1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Ice2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Ice3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Ice4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Ice5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Plain1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Plain2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Plain3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Plain4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Plain5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Death1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Death2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Death3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Death4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(1, "Barmund_Death5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Flame1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Flame2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Flame3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Flame4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Flame5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Ice1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Ice2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Ice3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Ice4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Ice5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Plain1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Plain2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Plain3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Plain4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Plain5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Death1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Death2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Death3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Death4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(2, "Barmund_Death5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Flame1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Flame2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Flame3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Flame4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Flame5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Ice1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Ice2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Ice3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Ice4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Ice5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Plain1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Plain2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Plain3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Plain4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Plain5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Death1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Death2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Death3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Death4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(3, "Barmund_Death5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Flame1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Flame2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Flame3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Flame4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Flame5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Ice1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Ice2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Ice3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Ice4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Ice5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Plain1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Plain2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Plain3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Plain4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Plain5", 500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Death1", 12000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Death2", 7000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Death3", 3500)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Death4", 2000)
+;
+(((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Death5", 500)
+-- DECOMPILER ERROR at PC64870: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[53] = CreateEnchantInfo()
+;
+(Table[53]):SetSlotOrder(3, 2, 1)
+;
+(Table[53]):AddTargetItem("Flame_Rune_Armor")
+;
+(Table[53]):AddTargetItem("Flame_Rune_Hood")
+;
+(Table[53]):AddTargetItem("Flame_Rune_Boots")
+;
+(Table[53]):SetCondition(7, 0)
+;
+(Table[53]):ApproveRandomOption(true)
+;
+(Table[53]):SetReset(true, 80000, 1000000, {"Flame_Barmund_Rune2", 1})
+;
+(Table[53]):SetCaution("7¡¶∑√ πŸ∏£πÆ∆Æ »≠ø∞ º¬∆Æø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[53]).Slot)[3]):SetRequire(50000, {"Flame_Barmund_Rune2", 1})
+;
+(((Table[53]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[53]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[53]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[53]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[53]).Slot)[3]):SetGradeBonus(4, 0)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[53]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[53]).Slot)[2]):SetRequire(100000, {"Flame_Barmund_Rune2", 5})
+;
+(((Table[53]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[53]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[53]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[53]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[53]).Slot)[2]):SetGradeBonus(4, 0)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Pow1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Spl1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Con1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Crt1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Wis1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Sta1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Pow2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Spl2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Con2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Crt2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Wis2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Sta2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Pow3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Spl3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Con3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Crt3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Wis3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(0, "Barmund_Sta3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Pow1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Spl1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Con1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Crt1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Wis1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Sta1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Pow2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Spl2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Con2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Crt2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Wis2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Sta2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Pow3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Spl3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Con3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Crt3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Wis3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(1, "Barmund_Sta3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Pow1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Spl1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Con1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Crt1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Wis1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Sta1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Pow2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Spl2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Con2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Crt2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Wis2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Sta2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Pow3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Spl3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Con3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Crt3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Wis3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(2, "Barmund_Sta3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Pow1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Spl1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Con1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Crt1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Wis1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Sta1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Pow2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Spl2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Con2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Crt2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Wis2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Sta2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Pow3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Spl3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Con3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Crt3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Wis3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(3, "Barmund_Sta3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Pow1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Spl1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Con1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Crt1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Wis1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Sta1", 14000)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Pow2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Spl2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Con2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Crt2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Wis2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Sta2", 2400)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Pow3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Spl3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Con3", 200)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Crt3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Wis3", 300)
+;
+(((Table[53]).Slot)[2]):SetEnchant(4, "Barmund_Sta3", 300)
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Pow1", "Barmund_Pow2", 0, {"BarMealTicket", 500}, {"Flame_Barmund_Rune2", 50}, {"Barmund_Flame_Essence", 30})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Spl1", "Barmund_Spl2", 0, {"BarMealTicket", 500}, {"Flame_Barmund_Rune2", 50}, {"Barmund_Flame_Essence", 30})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Con1", "Barmund_Con2", 0, {"BarMealTicket", 500}, {"Flame_Barmund_Rune2", 50}, {"Barmund_Flame_Essence", 30})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Crt1", "Barmund_Crt2", 0, {"BarMealTicket", 500}, {"Flame_Barmund_Rune2", 50}, {"Barmund_Flame_Essence", 30})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Wis1", "Barmund_Wis2", 0, {"BarMealTicket", 500}, {"Flame_Barmund_Rune2", 50}, {"Barmund_Flame_Essence", 30})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Sta1", "Barmund_Sta2", 0, {"BarMealTicket", 500}, {"Flame_Barmund_Rune2", 50}, {"Barmund_Flame_Essence", 30})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Pow2", "Barmund_Pow3", 0, {"BarMealTicket", 750}, {"Flame_Barmund_Rune2", 150}, {"Barmund_Flame_Essence", 90})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Spl2", "Barmund_Spl3", 0, {"BarMealTicket", 750}, {"Flame_Barmund_Rune2", 150}, {"Barmund_Flame_Essence", 90})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Con2", "Barmund_Con3", 0, {"BarMealTicket", 750}, {"Flame_Barmund_Rune2", 150}, {"Barmund_Flame_Essence", 90})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Crt2", "Barmund_Crt3", 0, {"BarMealTicket", 750}, {"Flame_Barmund_Rune2", 150}, {"Barmund_Flame_Essence", 90})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Wis2", "Barmund_Wis3", 0, {"BarMealTicket", 750}, {"Flame_Barmund_Rune2", 150}, {"Barmund_Flame_Essence", 90})
+;
+(((Table[53]).Slot)[2]):AddUpgradeEnchant("Barmund_Sta2", "Barmund_Sta3", 0, {"BarMealTicket", 750}, {"Flame_Barmund_Rune2", 150}, {"Barmund_Flame_Essence", 90})
+;
+(((Table[53]).Slot)[1]):SetRequire(300000, {"Flame_Barmund_Rune2", 5}, {"Barmund_Flame_Essence", 5})
+;
+(((Table[53]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[53]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[53]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[53]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[53]).Slot)[1]):SetGradeBonus(4, 0)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Flame1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Flame2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Flame3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Flame4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Flame5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Ice1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Ice2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Ice3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Ice4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Ice5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Plain1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Plain2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Plain3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Plain4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Plain5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Death1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Death2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Death3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Death4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(0, "Barmund_Death5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Flame1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Flame2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Flame3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Flame4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Flame5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Ice1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Ice2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Ice3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Ice4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Ice5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Plain1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Plain2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Plain3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Plain4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Plain5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Death1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Death2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Death3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Death4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(1, "Barmund_Death5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Flame1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Flame2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Flame3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Flame4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Flame5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Ice1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Ice2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Ice3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Ice4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Ice5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Plain1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Plain2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Plain3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Plain4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Plain5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Death1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Death2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Death3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Death4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(2, "Barmund_Death5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Flame1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Flame2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Flame3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Flame4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Flame5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Ice1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Ice2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Ice3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Ice4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Ice5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Plain1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Plain2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Plain3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Plain4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Plain5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Death1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Death2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Death3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Death4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(3, "Barmund_Death5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Flame1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Flame2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Flame3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Flame4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Flame5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Ice1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Ice2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Ice3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Ice4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Ice5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Plain1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Plain2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Plain3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Plain4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Plain5", 500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Death1", 12000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Death2", 7000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Death3", 3500)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Death4", 2000)
+;
+(((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Death5", 500)
+-- DECOMPILER ERROR at PC68325: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[54] = CreateEnchantInfo()
+;
+(Table[54]):SetSlotOrder(3, 2, 1)
+;
+(Table[54]):AddTargetItem("Ice_Rune_Armor")
+;
+(Table[54]):AddTargetItem("Ice_Rune_Boots")
+;
+(Table[54]):AddTargetItem("Ice_Rune_Hood")
+;
+(Table[54]):SetCondition(7, 0)
+;
+(Table[54]):ApproveRandomOption(true)
+;
+(Table[54]):SetReset(true, 80000, 1000000, {"Ice_Barmund_Rune2", 1})
+;
+(Table[54]):SetCaution("7¡¶∑√ πŸ∏£πÆ∆Æ æÛ¿Ω º¬∆Æø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[54]).Slot)[3]):SetRequire(50000, {"Ice_Barmund_Rune2", 1})
+;
+(((Table[54]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[54]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[54]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[54]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[54]).Slot)[3]):SetGradeBonus(4, 0)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[54]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[54]).Slot)[2]):SetRequire(100000, {"Ice_Barmund_Rune2", 5})
+;
+(((Table[54]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[54]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[54]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[54]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[54]).Slot)[2]):SetGradeBonus(4, 0)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Pow1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Spl1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Con1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Crt1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Wis1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Sta1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Pow2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Spl2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Con2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Crt2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Wis2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Sta2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Pow3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Spl3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Con3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Crt3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Wis3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(0, "Barmund_Sta3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Pow1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Spl1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Con1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Crt1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Wis1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Sta1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Pow2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Spl2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Con2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Crt2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Wis2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Sta2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Pow3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Spl3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Con3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Crt3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Wis3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(1, "Barmund_Sta3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Pow1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Spl1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Con1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Crt1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Wis1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Sta1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Pow2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Spl2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Con2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Crt2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Wis2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Sta2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Pow3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Spl3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Con3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Crt3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Wis3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(2, "Barmund_Sta3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Pow1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Spl1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Con1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Crt1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Wis1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Sta1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Pow2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Spl2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Con2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Crt2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Wis2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Sta2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Pow3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Spl3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Con3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Crt3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Wis3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(3, "Barmund_Sta3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Pow1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Spl1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Con1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Crt1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Wis1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Sta1", 14000)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Pow2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Spl2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Con2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Crt2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Wis2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Sta2", 2400)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Pow3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Spl3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Con3", 200)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Crt3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Wis3", 300)
+;
+(((Table[54]).Slot)[2]):SetEnchant(4, "Barmund_Sta3", 300)
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Pow1", "Barmund_Pow2", 0, {"BarMealTicket", 500}, {"Barmund_Ice_Essence", 30}, {"Ice_Barmund_Rune2", 50})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Spl1", "Barmund_Spl2", 0, {"BarMealTicket", 500}, {"Barmund_Ice_Essence", 30}, {"Ice_Barmund_Rune2", 50})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Con1", "Barmund_Con2", 0, {"BarMealTicket", 500}, {"Barmund_Ice_Essence", 30}, {"Ice_Barmund_Rune2", 50})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Crt1", "Barmund_Crt2", 0, {"BarMealTicket", 500}, {"Barmund_Ice_Essence", 30}, {"Ice_Barmund_Rune2", 50})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Wis1", "Barmund_Wis2", 0, {"BarMealTicket", 500}, {"Barmund_Ice_Essence", 30}, {"Ice_Barmund_Rune2", 50})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Sta1", "Barmund_Sta2", 0, {"BarMealTicket", 500}, {"Barmund_Ice_Essence", 30}, {"Ice_Barmund_Rune2", 50})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Pow2", "Barmund_Pow3", 0, {"BarMealTicket", 750}, {"Barmund_Ice_Essence", 90}, {"Ice_Barmund_Rune2", 150})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Spl2", "Barmund_Spl3", 0, {"BarMealTicket", 750}, {"Barmund_Ice_Essence", 90}, {"Ice_Barmund_Rune2", 150})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Con2", "Barmund_Con3", 0, {"BarMealTicket", 750}, {"Barmund_Ice_Essence", 90}, {"Ice_Barmund_Rune2", 150})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Crt2", "Barmund_Crt3", 0, {"BarMealTicket", 750}, {"Barmund_Ice_Essence", 90}, {"Ice_Barmund_Rune2", 150})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Wis2", "Barmund_Wis3", 0, {"BarMealTicket", 750}, {"Barmund_Ice_Essence", 90}, {"Ice_Barmund_Rune2", 150})
+;
+(((Table[54]).Slot)[2]):AddUpgradeEnchant("Barmund_Sta2", "Barmund_Sta3", 0, {"BarMealTicket", 750}, {"Barmund_Ice_Essence", 90}, {"Ice_Barmund_Rune2", 150})
+;
+(((Table[54]).Slot)[1]):SetRequire(300000, {"Ice_Barmund_Rune2", 5}, {"Barmund_Ice_Essence", 5})
+;
+(((Table[54]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[54]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[54]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[54]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[54]).Slot)[1]):SetGradeBonus(4, 0)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Flame1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Flame2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Flame3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Flame4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Flame5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Ice1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Ice2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Ice3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Ice4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Ice5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Plain1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Plain2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Plain3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Plain4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Plain5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Death1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Death2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Death3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Death4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(0, "Barmund_Death5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Flame1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Flame2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Flame3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Flame4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Flame5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Ice1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Ice2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Ice3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Ice4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Ice5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Plain1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Plain2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Plain3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Plain4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Plain5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Death1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Death2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Death3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Death4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(1, "Barmund_Death5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Flame1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Flame2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Flame3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Flame4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Flame5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Ice1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Ice2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Ice3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Ice4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Ice5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Plain1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Plain2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Plain3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Plain4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Plain5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Death1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Death2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Death3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Death4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(2, "Barmund_Death5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Flame1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Flame2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Flame3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Flame4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Flame5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Ice1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Ice2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Ice3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Ice4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Ice5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Plain1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Plain2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Plain3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Plain4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Plain5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Death1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Death2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Death3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Death4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(3, "Barmund_Death5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Flame1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Flame2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Flame3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Flame4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Flame5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Ice1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Ice2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Ice3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Ice4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Ice5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Plain1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Plain2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Plain3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Plain4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Plain5", 500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Death1", 12000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Death2", 7000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Death3", 3500)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Death4", 2000)
+;
+(((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Death5", 500)
+-- DECOMPILER ERROR at PC71780: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[55] = CreateEnchantInfo()
+;
+(Table[55]):SetSlotOrder(3, 2, 1)
+;
+(Table[55]):AddTargetItem("Death_Rune_Armor")
+;
+(Table[55]):AddTargetItem("Death_Rune_Boots")
+;
+(Table[55]):AddTargetItem("Death_Rune_Hood")
+;
+(Table[55]):SetCondition(7, 0)
+;
+(Table[55]):ApproveRandomOption(true)
+;
+(Table[55]):SetReset(true, 80000, 1000000, {"Death_Barmund_Rune2", 1})
+;
+(Table[55]):SetCaution("7¡¶∑√ ¿ÃªÛ ¡◊¿Ω¿« ∑È º¬∆Æø° ¿Œ√¶∆Æ ∫Œø© ∞°¥…\n¿Œ√¶∆Æ º∫∞¯»Æ∑¸: 100%\n¿Œ√¶∆Æ √ ±‚»≠ »Æ∑¸: 80%")
+;
+(((Table[55]).Slot)[3]):SetRequire(50000, {"Death_Barmund_Rune2", 1})
+;
+(((Table[55]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[55]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[55]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[55]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[55]).Slot)[3]):SetGradeBonus(4, 0)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "»˚3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "æÓ¡˙3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "πŸ≈ª3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "µ¶2", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "»˚4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "æÓ¡˙4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "πŸ≈ª4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "µ¶3", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "¿Œ∆Æ5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "æÓ¡˙5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "»˚5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "πŸ≈ª5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(0, "µ¶4", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "»˚3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "æÓ¡˙3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "πŸ≈ª3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "µ¶2", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "»˚4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "æÓ¡˙4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "πŸ≈ª4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "µ¶3", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "¿Œ∆Æ5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "æÓ¡˙5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "»˚5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "πŸ≈ª5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(1, "µ¶4", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "»˚3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "æÓ¡˙3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "πŸ≈ª3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "µ¶2", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "»˚4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "æÓ¡˙4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "πŸ≈ª4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "µ¶3", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "¿Œ∆Æ5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "æÓ¡˙5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "»˚5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "πŸ≈ª5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(2, "µ¶4", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "»˚3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "æÓ¡˙3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "πŸ≈ª3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "µ¶2", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "»˚4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "æÓ¡˙4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "πŸ≈ª4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "µ¶3", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "¿Œ∆Æ5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "æÓ¡˙5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "»˚5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "πŸ≈ª5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(3, "µ¶4", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "»˚3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "æÓ¡˙3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "πŸ≈ª3", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "µ¶2", 15000)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "»˚4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "æÓ¡˙4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "πŸ≈ª4", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "µ¶3", 4500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "¿Œ∆Æ5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "æÓ¡˙5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "»˚5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "πŸ≈ª5", 500)
+;
+(((Table[55]).Slot)[3]):SetEnchant(4, "µ¶4", 500)
+;
+(((Table[55]).Slot)[2]):SetRequire(100000, {"Death_Barmund_Rune2", 5})
+;
+(((Table[55]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[55]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[55]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[55]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[55]).Slot)[2]):SetGradeBonus(4, 0)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Pow1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Spl1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Con1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Crt1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Wis1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Sta1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Pow2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Spl2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Con2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Crt2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Wis2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Sta2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Pow3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Spl3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Con3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Crt3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Wis3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(0, "Barmund_Sta3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Pow1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Spl1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Con1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Crt1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Wis1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Sta1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Pow2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Spl2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Con2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Crt2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Wis2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Sta2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Pow3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Spl3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Con3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Crt3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Wis3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(1, "Barmund_Sta3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Pow1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Spl1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Con1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Crt1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Wis1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Sta1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Pow2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Spl2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Con2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Crt2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Wis2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Sta2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Pow3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Spl3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Con3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Crt3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Wis3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(2, "Barmund_Sta3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Pow1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Spl1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Con1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Crt1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Wis1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Sta1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Pow2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Spl2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Con2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Crt2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Wis2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Sta2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Pow3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Spl3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Con3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Crt3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Wis3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(3, "Barmund_Sta3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Pow1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Spl1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Con1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Crt1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Wis1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Sta1", 14000)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Pow2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Spl2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Con2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Crt2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Wis2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Sta2", 2400)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Pow3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Spl3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Con3", 200)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Crt3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Wis3", 300)
+;
+(((Table[55]).Slot)[2]):SetEnchant(4, "Barmund_Sta3", 300)
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Pow1", "Barmund_Pow2", 0, {"BarMealTicket", 500}, {"Barmund_Death_Essence", 30}, {"Death_Barmund_Rune2", 50})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Spl1", "Barmund_Spl2", 0, {"BarMealTicket", 500}, {"Barmund_Death_Essence", 30}, {"Death_Barmund_Rune2", 50})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Con1", "Barmund_Con2", 0, {"BarMealTicket", 500}, {"Barmund_Death_Essence", 30}, {"Death_Barmund_Rune2", 50})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Crt1", "Barmund_Crt2", 0, {"BarMealTicket", 500}, {"Barmund_Death_Essence", 30}, {"Death_Barmund_Rune2", 50})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Wis1", "Barmund_Wis2", 0, {"BarMealTicket", 500}, {"Barmund_Death_Essence", 30}, {"Death_Barmund_Rune2", 50})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Sta1", "Barmund_Sta2", 0, {"BarMealTicket", 500}, {"Barmund_Death_Essence", 30}, {"Death_Barmund_Rune2", 50})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Pow2", "Barmund_Pow3", 0, {"BarMealTicket", 750}, {"Barmund_Death_Essence", 90}, {"Death_Barmund_Rune2", 150})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Spl2", "Barmund_Spl3", 0, {"BarMealTicket", 750}, {"Barmund_Death_Essence", 90}, {"Death_Barmund_Rune2", 150})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Con2", "Barmund_Con3", 0, {"BarMealTicket", 750}, {"Barmund_Death_Essence", 90}, {"Death_Barmund_Rune2", 150})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Crt2", "Barmund_Crt3", 0, {"BarMealTicket", 750}, {"Barmund_Death_Essence", 90}, {"Death_Barmund_Rune2", 150})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Wis2", "Barmund_Wis3", 0, {"BarMealTicket", 750}, {"Barmund_Death_Essence", 90}, {"Death_Barmund_Rune2", 150})
+;
+(((Table[55]).Slot)[2]):AddUpgradeEnchant("Barmund_Sta2", "Barmund_Sta3", 0, {"BarMealTicket", 750}, {"Barmund_Death_Essence", 90}, {"Death_Barmund_Rune2", 150})
+;
+(((Table[55]).Slot)[1]):SetRequire(300000, {"Death_Barmund_Rune2", 5}, {"Barmund_Death_Essence", 5})
+;
+(((Table[55]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[55]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[55]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[55]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[55]).Slot)[1]):SetGradeBonus(4, 0)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Flame1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Flame2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Flame3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Flame4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Flame5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Ice1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Ice2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Ice3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Ice4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Ice5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Plain1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Plain2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Plain3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Plain4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Plain5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Death1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Death2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Death3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Death4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(0, "Barmund_Death5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Flame1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Flame2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Flame3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Flame4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Flame5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Ice1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Ice2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Ice3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Ice4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Ice5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Plain1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Plain2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Plain3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Plain4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Plain5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Death1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Death2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Death3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Death4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(1, "Barmund_Death5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Flame1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Flame2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Flame3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Flame4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Flame5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Ice1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Ice2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Ice3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Ice4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Ice5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Plain1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Plain2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Plain3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Plain4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Plain5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Death1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Death2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Death3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Death4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(2, "Barmund_Death5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Flame1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Flame2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Flame3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Flame4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Flame5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Ice1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Ice2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Ice3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Ice4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Ice5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Plain1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Plain2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Plain3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Plain4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Plain5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Death1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Death2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Death3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Death4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(3, "Barmund_Death5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Flame1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Flame2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Flame3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Flame4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Flame5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Ice1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Ice2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Ice3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Ice4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Ice5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Plain1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Plain2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Plain3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Plain4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Plain5", 500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Death1", 12000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Death2", 7000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Death3", 3500)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Death4", 2000)
+;
+(((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Death5", 500)
 

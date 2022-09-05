@@ -1,0 +1,35 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\DamageSkin\DamageSkinInfo_F.lub 
+
+-- params : ...
+-- function num : 0
+GetDamageSkinSize = function()
+  -- function num : 0_0
+  return getTableSize(DSList)
+end
+
+GetDamageSkinName = function(SkinID)
+  -- function num : 0_1
+  local obj = DSLName[SkinID]
+  if obj ~= nill then
+    return obj.DSDisplayName, obj.DSIconName
+  end
+end
+
+GetDamageResourceName = function(SkinID)
+  -- function num : 0_2
+  local obj = DSLName[SkinID]
+  if obj ~= nill then
+    return obj.BaseNumber, obj.BaseMsg, obj.BaseBlue
+  end
+end
+
+GetDamageMillionUnit = function(SkinID)
+  -- function num : 0_3
+  local obj = DSLName[SkinID]
+  if obj ~= nill then
+    return obj.DSMillionUnit
+  end
+end
+
+
