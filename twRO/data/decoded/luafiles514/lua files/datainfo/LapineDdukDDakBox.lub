@@ -5,6 +5,34 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+Absorb_S_Box_TW = {ItemID = 101702, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"S_Absorb_Shield", 1, 24685}
+, 
+{"S_Absorb_Weapon", 1, 24686}
+}
+, NeedSource_String = "影子全力吸收"}
+, 
+AbsorbShadow_Mix = {ItemID = 100691, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Spiritual_Weapon", 1, 24078}
+, 
+{"S_Spiritual_Earring", 1, 24079}
+, 
+{"S_Spiritual_Pendent", 1, 24080}
+, 
+{"S2_Spiritual_Weapon", 1, 24324}
+, 
+{"S_Malicious_Armor", 1, 24081}
+, 
+{"S_Malicious_Shoes", 1, 24082}
+, 
+{"S_Malicious_Shield", 1, 24083}
+, 
+{"S2_Malicious_Armor", 1, 24325}
+}
+, NeedSource_String = "影子超自然, 影子惡毒"}
+, 
 True_G_S_Rand_Box_TW = {ItemID = 101622, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
 {"S_TrueGem_Armor", 1, 24675}

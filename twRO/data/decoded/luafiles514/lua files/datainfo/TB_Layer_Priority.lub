@@ -5,6 +5,10 @@
 -- function num : 0
 TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, Default_Robe = 400, 
 Items_List = {
+[ACCESSORY_IDs.ACCESSORY_CatEarRibbon] = {Default = 150, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Tiger_BL] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Water] = {Default = 302, 
@@ -576,10 +580,6 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_SV] = {Default = 143, 
-Direction = {}
-}
-, 
-[ACCESSORY_IDs.ACCESSORY_CatEarRibbon] = {Default = 304, 
 Direction = {}
 }
 , 
@@ -1340,6 +1340,10 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_Hair_Bun_PP] = {Default = 155, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_Belka_Strelka] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = {Default = 304, isIgnoreRiding = true}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

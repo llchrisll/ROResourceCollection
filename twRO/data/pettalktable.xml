@@ -10803,4 +10803,62 @@
 </so_full>
 </pet_kiel>
 
+<PITAYA_R_PET>
+<hungry>
+<feeding> 都快餓成火龍果乾了 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</hungry>
+<bit_hungry>
+<feeding> 吃飯時間囉 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</bit_hungry>
+<noting>
+<feeding> 還行啦 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<stand> 理我一下啦 </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</noting>
+<full>
+<feeding> 真的太飽了 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<stand> 理我一下啦 </stand>
+<stand> 現在要做甚麼呢 </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</full>
+<so_full>
+<feeding> 真的太飽了 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<stand> 理我一下啦 </stand>
+<stand> 現在要做甚麼呢 </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</so_full>
+</PITAYA_R_PET>
+
 </monster_talk_table>

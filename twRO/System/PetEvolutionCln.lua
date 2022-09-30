@@ -160,6 +160,7 @@ main = function()
   InsertEvolutionRecipeLGU(9118, 9126, 4402, 10)
   InsertEvolutionRecipeLGU(9118, 9126, 25375, 30)
   InsertPetAutoFeeding(9126)
+  InsertPetAutoFeeding(9143)
   return true, "success"
 end
 

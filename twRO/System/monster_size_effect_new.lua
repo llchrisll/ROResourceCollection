@@ -5868,6 +5868,58 @@ MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 [20943] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 }
+, 
+[10403] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10404] = {MonsterSize = 0.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10405] = {MonsterSize = 0.6, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10406] = {MonsterSize = 0.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10407] = {MonsterSize = 0.6, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10408] = {MonsterSize = 0.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10409] = {MonsterSize = 0.6, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10410] = {MonsterSize = 0.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10411] = {MonsterSize = 0.6, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10412] = {MonsterSize = 0.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10413] = {MonsterSize = 0.6, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10414] = {MonsterSize = 0.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[10415] = {MonsterSize = 0.6, 
+MonsterEff = {EFFECT.EF_NONE}
+}
 }
 main = function()
   -- function num : 0_0

@@ -3619,6 +3619,30 @@ signName = {subTitle = "尼芙菲姆密穴二樓", mainTitle = "崩塌的歌劇院"}
 ["1@ge_sn.rsw"] = {displayName = "吉芬夜間鬥技場", notifyEnter = true, 
 signName = {mainTitle = "吉芬夜間鬥技場"}
 , backgroundBmp = "dungeon_s2"}
+, 
+["1@mjo1.rsw"] = {displayName = "妙勒尼山脈飛空艇失事地", notifyEnter = true, 
+signName = {subTitle = "勒尼山脈", mainTitle = "飛空艇失事地"}
+, backgroundBmp = "field_s2"}
+, 
+["1@mjo2.rsw"] = {displayName = "勒尼山脈遺忘的空洞", notifyEnter = true, 
+signName = {subTitle = "勒尼山脈", mainTitle = "遺忘的空洞"}
+, backgroundBmp = "dungeon"}
+, 
+["1@spa2.rsw"] = {displayName = "懺悔之墓", notifyEnter = true, 
+signName = {mainTitle = "懺悔之墓"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@ch_t.rsw"] = {displayName = "星座之塔", notifyEnter = true, 
+signName = {mainTitle = "星座之塔"}
+, backgroundBmp = "noname_s2"}
+, 
+["2@ch_t.rsw"] = {displayName = "星座之塔", notifyEnter = true, 
+signName = {mainTitle = "星座之塔"}
+, backgroundBmp = "noname_s2"}
+, 
+["3@ch_t.rsw"] = {displayName = "星座之塔", notifyEnter = true, 
+signName = {mainTitle = "星座之塔"}
+, backgroundBmp = "noname_s2"}
 }
 main = function()
   -- function num : 0_0

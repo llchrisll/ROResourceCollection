@@ -3752,3 +3752,35 @@ sp_rud4_B.rsw#sp_rud4_B.rsw#
 1@ge_sn.gat#1@ge_sn.gat#
 1@ge_sn.rsw#1@ge_sn.rsw#
 유저인터페이스\map\1@ge_sn.bmp#유저인터페이스\map\1@ge_sn.bmp#
+
+//220816 8월 컨텐츠
+// 영웅의 흔적 외전 회한의 무덤
+1@spa2.gnd#1@spa2.gnd#
+1@spa2.gat#1@spa2.gat#
+1@spa2.rsw#1@spa2.rsw#
+유저인터페이스\map\1@spa2.bmp#유저인터페이스\map\1@spa2.bmp#
+// 묘르닐산맥 비공정추락지
+1@mjo1.gnd#1@mjo1.gnd#
+1@mjo1.gat#1@mjo1.gat#
+1@mjo1.rsw#1@mjo1.rsw#
+유저인터페이스\map\1@mjo1.bmp#유저인터페이스\map\1@mjo1.bmp#
+// 묘르닐산맥 잊혀진 공동
+1@mjo2.gnd#1@mjo2.gnd#
+1@mjo2.gat#1@mjo2.gat#
+1@mjo2.rsw#1@mjo2.rsw#
+유저인터페이스\map\1@mjo2.bmp#유저인터페이스\map\1@mjo2.bmp#
+
+//220920 9월 컨텐츠
+//성좌의 탑 
+1@ch_t.gnd#1@ch_t.gnd#
+1@ch_t.gat#1@ch_t.gat#
+1@ch_t.rsw#1@ch_t.rsw#
+유저인터페이스\map\1@ch_t.bmp#유저인터페이스\map\1@ch_t.bmp#
+2@ch_t.gnd#2@ch_t.gnd#
+2@ch_t.gat#2@ch_t.gat#
+2@ch_t.rsw#2@ch_t.rsw#
+유저인터페이스\map\2@ch_t.bmp#유저인터페이스\map\2@ch_t.bmp#
+3@ch_t.gnd#3@ch_t.gnd#
+3@ch_t.gat#3@ch_t.gat#
+3@ch_t.rsw#3@ch_t.rsw#
+유저인터페이스\map\3@ch_t.bmp#유저인터페이스\map\3@ch_t.bmp#

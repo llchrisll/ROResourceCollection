@@ -1304,3 +1304,15 @@ paramk.rsw#bgm\\143.mp3#
 
 // 게펜 야간 투기장
 1@ge_sn.rsw#bgm\\159.mp3#
+
+//220816 8월 컨텐츠
+// 영웅의 흔적 외전 회한의 무덤
+1@spa2.rsw#bgm\\117.mp3#
+// 영웅의 흔적 외전 비공정추락지
+1@mjo1.rsw#bgm\\34.mp3#
+1@mjo2.rsw#bgm\\35.mp3#
+
+//220920 9월 컨텐츠 성좌의 탑
+1@ch_t.rsw#bgm\\125.mp3#
+2@ch_t.rsw#bgm\\125.mp3#
+3@ch_t.rsw#bgm\\125.mp3#

@@ -44,5 +44,29 @@ QuestInfo2 = {"對象: ^55bbee轉生3轉職業^000000", "BaseLv: ^ffaa66200^000000", "J
 , 
 QuestInfo3 = {"^ff0000※該頁面為更新介紹而非任務說明，即使完成任務也不會刪除。^000000"}
 }
+, 
+[83] = {Title = "飛空艇失事地", IconName = "ico_sc.bmp", Summary = "關於飛空艇失事地的故事", NpcSpr = "4_M_FAIRYANG", BgName = "reco_83.bmp", 
+QuestInfo1 = {"透過某個守護精靈偶然發現的<NAVI>[次元裂縫]<INFO>dali02,137,86,0,101,0</INFO></NAVI>，", "冒險家們得以前飛空艇失事地，去那邊探索被遺忘的空洞吧!"}
+, 
+QuestInfo2 = {"攻略條件", "^990000LV 200以上^000000的冒險家"}
+, 
+QuestInfo3 = {"^ff0000※ 該頁面為更新介紹而非任務說明，即使完成任務也不會刪除。^000000"}
+}
+, 
+[82] = {Title = "英雄事蹟MD懺悔之墓", IconName = "ico_sc.bmp", Summary = "在懺悔之墓渴望著魔劍士和鮮血的魔劍", BgName = "reco_82.bmp", NpcSpr = "MD_TIARA", NpcNavi = "dali", NpcPosX = 124, NpcPosY = 88, 
+QuestInfo1 = {"亡國公主的囑託，在到達的地方遇到的魔劍的簽約者。", "劍發出咆哮，不知情下甦醒的屍體卻流著淚水。"}
+, 
+QuestInfo2 = {"攻略條件", "LV220以上的冒險家"}
+, 
+QuestInfo3 = {"^ff0000※該頁面為更新介紹而非任務說明，即使完成任務也不會刪除。^000000"}
+}
+, 
+[81] = {Title = "星座之塔", IconName = "ico_sc.bmp", Summary = "與新主人見面", NpcSpr = "4_ED_OSCAR", NpcNavi = "e_tower", NpcPosX = 71, NpcPosY = 115, BgName = "reco_81.bmp", 
+QuestInfo1 = {"^003355換了新主人?^000000", "有人似乎把無限塔弄得天翻地覆了，", "在不清楚對方是何等的危險情況下，必須有人去了解新主人的真實身份。"}
+, 
+QuestInfo2 = {"攻略條件", "^990000LV240以上^000000的冒險家"}
+, 
+QuestInfo3 = {"^ff0000※該頁面為更新介紹而非任務說明，即使完成任務也不會刪除。^000000"}
+}
 }
 

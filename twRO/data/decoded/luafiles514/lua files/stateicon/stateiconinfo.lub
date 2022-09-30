@@ -6385,7 +6385,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"力量櫻花樹枝", COLOR_TITLE_BUFF}
+{"旺盛的營火", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6396,7 +6396,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"魔力櫻花樹枝", COLOR_TITLE_BUFF}
+{"智慧的營火", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6407,7 +6407,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"迅速櫻花樹枝", COLOR_TITLE_BUFF}
+{"犀利的營火", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -7846,6 +7846,101 @@ descript = {
 {"近距離物理傷害增加"}
 , 
 {"遠距離物理傷害增加"}
+}
+}
+-- DECOMPILER ERROR at PC16183: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPWEAPON2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"卸除魔影", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"不能佩戴影子手套裝備的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC16207: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPARMOR2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"卸除魔影", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"不能佩戴影子鎧甲裝備的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC16231: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"卸除魔影", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"不能佩戴影子手套裝備的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC16255: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPSHOES2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"卸除魔影", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"不能佩戴影子戰靴裝備的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC16279: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPPENDANT2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"卸除魔影", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"不能佩戴影子飾品裝備的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC16303: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPEARING2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"卸除魔影", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"不能佩戴影子飾品裝備的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC16327: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPFULL2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"卸除魔影", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"不能佩戴所有影子裝備的狀態"}
+}
+}
+-- DECOMPILER ERROR at PC16348: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CURSE_R_CUBE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"詛咒紅色魔方", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC16369: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CURSE_B_CUBE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"詛咒藍色魔方", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
 }
 }
 

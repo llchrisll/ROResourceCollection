@@ -1227,3 +1227,16 @@
 300189#MD_Geffen_Jew_Card#
 300190#MD_Geffen_Fei_Card#
 300191#MD_Geffen_Dy_Card#
+
+//220816 8월 컨텐츠
+//비공정
+300170#sorry#
+300171#sorry#
+300172#sorry#
+300173#sorry#
+300174#sorry#
+300175#sorry#
+300176#sorry#
+//회한
+300192#sorry#
+300193#sorry#
