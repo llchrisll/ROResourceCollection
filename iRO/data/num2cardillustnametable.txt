@@ -907,3 +907,9 @@
 27361#Polluted_W_Man_Card#
 27362#Polluted_Spi_Q_Card#
 27363#Polluted_Dark_L_Card#
+
+// 22_09 2019 왕실 사냥 대회
+27389#Wolf_Card_EV#
+27390#S_Wolf_Card_E#
+27391#Poe_Card_E#
+27392#S_Poe_Card_E#

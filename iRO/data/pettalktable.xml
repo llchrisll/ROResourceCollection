@@ -5563,4 +5563,75 @@
 		</so_full>			
 					
 	</sweets_drops>			
+	<bacsojin2>
+
+		<hungry>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic..	</dead>
+			<stand>	You truly don¡¯t see me?	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hahaha	</perfor_2>
+			<perfor_3>	Yawn... I¡¯m a bit tired.	</perfor_3>		
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic..	</dead>
+			<stand>	You truly don¡¯t see me?	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hahaha	</perfor_2>
+			<perfor_3>	Yawn... I¡¯m a bit tired.	</perfor_3>		
+		</bit_hungry>
+
+		<noting>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic...	</dead>
+			<stand> I¡¯m just... For you...	</stand>
+			<stand>	Under a willow...	</stand>
+			<stand>	Letting my heart open only by a rare chance...	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hahaha	</perfor_2>
+			<perfor_3>	Yawn... I¡¯m a bit tired.	</perfor_3>		
+		</noting>
+
+		<full>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic..	</dead>
+			<stand> I¡¯m just... For you...	</stand>
+			<stand>	Under a willow...	</stand>
+			<stand>	Letting my heart open only by a rare chance...	</stand>
+			<stand>	If I didn¡¯t meet you...	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hehehe	</perfor_2>
+			<perfor_3>	Yawn... I¡¯m a bit tired.	</perfor_3>		
+		</full>
+
+		<so_full>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic..	</dead>
+			<stand> I¡¯m just... For you...	</stand>
+			<stand>	Under a willow...	</stand>
+			<stand>	Letting my heart open only by a rare chance...	</stand>
+			<stand>	If I didn¡¯t meet you...	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hahaha	</perfor_2>
+			<perfor_3>	Yawn... I¡¯m a bit tired.	</perfor_3>		
+		</so_full>
+
+	</bacsojin2>		 
 </monster_talk_table>

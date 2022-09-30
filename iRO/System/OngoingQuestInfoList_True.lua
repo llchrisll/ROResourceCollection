@@ -27972,5 +27972,149 @@ Description = {"I burned Herbs on <NAVI>[Fire in Nighttime]<INFO>comodo,297,180,
 [16351] = {Title = "Blazing beads of June", 
 Description = {"Pop Popcornizer and Pop Popcornist, this pair is enchanting a popcorn hat."}
 , Summary = "Pop Popcorn Hat Enchant"}
+, 
+[14958] = {Title = "The Gatekeeper of Nyail Cave", 
+Description = {"<NAVI>[Festa Receptionist]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>Go find \'em and leave for Nyail Cave!"}
+, Summary = "To the Festa Receptionist"}
+, 
+[14959] = {Title = "The Beginning of the Festival", 
+Description = {"Bring one Spaghetti, Ribbon Noodle, and Meatball, which are ingredients for making delicious noodles. - <NAVI>[Festa Manager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"}
+, Summary = "Meatballs, noodle ingredients"}
+, 
+[14960] = {Title = "Noodle Artisan", 
+Description = {"If you come to the Noodle Festa, you must try the noodles. You can taste the best noodles by visiting <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."}
+, Summary = "Noodle Master Orzo"}
+, 
+[14961] = {Title = "Watermelon Dessert", 
+Description = {"Reminds me of a cool and sweet dessert on a hot summer day? <NAVI>[Helper Lami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> will guide you through the event where you can get Watermelon Pudding."}
+, Summary = "Helper Lami"}
+, 
+[14962] = {Title = "Sea Worm Hunt", 
+Description = {"Have you ever heard of Sea Worms? Visit <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>for guidance on hunting Sea Worms."}
+, Summary = "Helper Domi"}
+, 
+[14963] = {Title = "Cool Ice Cream", 
+Description = {"In summer, sweet and cool ice cream comes to mind. You can invite <NAVI>[The Merchant Borame]<INFO>malangdo, 155,183,0,101,0,</INFO></NAVI> and also taste ice cream here."}
+, Summary = "The Merchant Borame"}
+, 
+[14964] = {Title = "Noodle Ingredients", 
+Description = {"<NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>Bring him 5 Spaghetti that ride in the Whirlpool, 5 Ribbon Noodles that grow on the Dandy Star, and 3 Meatballs."}
+, Summary = "Meatball, Noodle Ingredients"}
+, 
+[14965] = {Title = "Waiting: Today\'s Noodles", 
+Description = {"Today\'s event is being prepared. After dawn, you can visit <NAVI>[Noodle Maker Orzo]<INFO>malangdo, 165,133,0,101,0,</INFO></NAVI>."}
+, Summary = "Initialization time 04:00"}
+, 
+[14966] = {Title = "Watermelon Fans", 
+Description = {"Break the ripe watermelons buried in the watermelon patch and find the Promotional Fan! Collect 10 and bring them to <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."}
+, Summary = "10 Promotional Fans"}
+, 
+[14967] = {Title = "Waiting: Watermelon Fans", 
+Description = {"Today\'s event is over. After dawn, you can participate again by visiting <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."}
+, Summary = "Initialization time 04:00"}
+, 
+[14968] = {Title = "Sea Worm Hunt", 
+Description = {"Catch 10 Sea Worms and bring 10 tough noodle skins to me, <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."}
+, Summary = "10 Tough Noodle Leather"}
+, 
+[14969] = {Title = "Standby: Sea Worm Hunt", 
+Description = {"You must be tired trying to catch the strong, Sea Worms, but please rest today and enjoy the festival again after dawn! - <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"}
+, Summary = "Initialization time 04:00"}
+, 
+[14970] = {Title = "Cool, Sweet Ice Cream", 
+Description = {"Catch 5 small Whirlpools and 5 Dandy Stars each and bring me 5 Noodle Sap. - <NAVI>[The Merchant Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI>"}
+, Summary = "5 Noodle Sap"}
+, 
+[14971] = {Title = "Waiting: Cool, Sweet Ice Cream", 
+Description = {"Have you recently participated in an event? The rule is once a day, so take a break and come back. Okay? - <NAVI>[The Merchant Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI>"}
+, Summary = "Initialization time 04:00"}
+, 
+[14972] = {Title = "Coupon: Complete Noodle Event", 
+Description = {"How was today\'s noodles? Once you\'ve completed all of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>and stamp the coupon!"}
+, Summary = "Check out Noodle Maker Orzo"}
+, 
+[14973] = {Title = "Coupon: Complete Watermelon Dessert", 
+Description = {"You\'re done with the Watermelon Crushing Event. Once you have completed all four of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>and stamp the coupon!"}
+, Summary = "Check out Helper Lami"}
+, 
+[14974] = {Title = "Coupon: Complete Sea Worms", 
+Description = {"You caught all the Sea Worms. Once you have completed all four of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>and stamp the coupon!"}
+, Summary = "Check out Helper Domi"}
+, 
+[14975] = {Title = "Coupon: Complete Ice Cream", 
+Description = {"How was the cool ice cream? Once you have completed all four of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>and stamp the coupon!"}
+, Summary = "Check out The Merchant Borame"}
+, 
+[12421] = {Title = "Aftereffect of Saving the World", 
+Description = {"You have received the reward for saving the world. You cannot get it again before it is reset."}
+, Summary = "Reset at 04:00"}
+, 
+[12422] = {Title = "Request of the Overlord", 
+Description = {"A request from Overlord Barmund has come to join him."}
+, Summary = "Request of the Overlord"}
+, 
+[12423] = {Title = "The One Who Will Save the World", 
+Description = {"I am to restore Guardian Stone to help Barmund who is battling in the world of another dimension."}
+, Summary = "Guardian Stone Restoration"}
+, 
+[12456] = {Title = "Aftermath of Removing the Aftereffect of Saving the World", 
+Description = {"There remains an aftermath of forcibly removing the aftereffect of saving the world."}
+, Summary = "Aftermath of Removing the Aftereffect of Saving the World"}
+, 
+[3393] = {Title = "Participation in the Royal Hunt", 
+Description = {"After hunting 30 animal-type monsters, report it to <NAVI>[Commander Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>."}
+, Summary = "Animal Monster Hunting"}
+, 
+[3394] = {Title = "Apprentice Hunter - 1", 
+Description = {"After hunting 30 animal-type monsters over Lv 50, report to <NAVI>[Assistant Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."}
+, Summary = "Animal Monster Hunting"}
+, 
+[3395] = {Title = "Apprentice Hunter - 2", 
+Description = {"After hunting 30 insect-type monsters over Lv 50, report to <NAVI>[Assistant Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."}
+, Summary = "Insect-type Monster Hunting"}
+, 
+[3396] = {Title = "Skilled Hunter - 1", 
+Description = {"After hunting 30 fish and shellfish-type monsters over Lv 50, report to <NAVI>[Assistant Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."}
+, Summary = "Fish and shell-type Monster Hunting"}
+, 
+[3397] = {Title = "Skilled Hunter - 2", 
+Description = {"After hunting 30 dragon monsters of Lv 50 or higher, report to <NAVI>[Admiral Haseong Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."}
+, Summary = "Dragon Monster Hunting"}
+, 
+[3398] = {Title = "To The Royal Hunting Ground", 
+Description = {"Use the <NAVI>[Teleportation Device]<INFO>prt_fild01,93,174,0,101,0</INFO></NAVI> to enter the royal hunting ground."}
+, Summary = "Dragon Monster Hunting"}
+, 
+[3399] = {Title = "Insect Monster Hunting", 
+Description = {"After hunting 30 insect-type monsters over Lv 50, report to <NAVI>[Assistant Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."}
+, Summary = "Insect monster hunting"}
+, 
+[3400] = {Title = "Insect Monster Hunting - Standby", 
+Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
+, Summary = "04:00 Reset"}
+, 
+[3401] = {Title = "Animal Monster Hunting", 
+Description = {"After hunting 30 animal-type monsters over Lv 50, report to <NAVI>[Assistant Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."}
+, Summary = "Animal Monster Hunting"}
+, 
+[3402] = {Title = "Animal Monster Hunting - Standby", 
+Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
+, Summary = "04:00 Reset"}
+, 
+[3403] = {Title = "Fish and Shell-type Monster Hunting", 
+Description = {"After hunting 30 fish-type monsters over Lv 50, report to <NAVI>[Assistant Lofince]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>"}
+, Summary = "Fish and Shell-type Monster Hunting"}
+, 
+[3404] = {Title = "Fish and Shell-type Monster Hunting - Standby", 
+Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
+, Summary = "04:00 Reset"}
+, 
+[3405] = {Title = "Dragon Monster Hunting", 
+Description = {"Hunt down 30 dragon monsters of 50 lv or more and then report to <NAVI>[Deputy Lopinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."}
+, Summary = "Dragon Monster hunting"}
+, 
+[3406] = {Title = "Dragon Monster Hunting - Standby", 
+Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
+, Summary = "04:00 Reset"}
 }
 

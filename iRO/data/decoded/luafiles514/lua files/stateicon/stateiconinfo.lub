@@ -5627,4 +5627,65 @@ descript = {
 {"HP is lost per second."}
 }
 }
+-- DECOMPILER ERROR at PC11606: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Be strong!!", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATK + 7%"}
+}
+}
+-- DECOMPILER ERROR at PC11630: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Be smart!!", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MATK + 7%"}
+}
+}
+-- DECOMPILER ERROR at PC11660: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Be nimble!!", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase evasion rate and complete evasion"}
+, 
+{"Increased attack speed"}
+, 
+{"Reduced variable casting"}
+}
+}
+-- DECOMPILER ERROR at PC11687: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF3] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"small flower buds", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MHP + 3%"}
+, 
+{"MSP + 3%"}
+}
+}
+-- DECOMPILER ERROR at PC11711: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"cherry blossoms", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increases damage against small, medium, and large enemies"}
+}
+}
 

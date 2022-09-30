@@ -812,3 +812,9 @@
 27361#Heavy Blade#
 27362#Orb of Queen Spider#
 27363#Doomed#
+
+// 22_09 2019 왕실 사냥 대회
+27389#Wolfe's#
+27390#of Wolfe Lugenburg#
+27391#Poe's#
+27392#of Richards#
