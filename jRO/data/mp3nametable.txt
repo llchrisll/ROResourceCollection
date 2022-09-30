@@ -1,4 +1,4 @@
-login#bgm\\64.mp3#
+login#bgm\\39.mp3#
 dewata.rsw#bgm\\142.mp3#
 dew_in01.rsw#bgm\\143.mp3#
 dew_fild01.rsw#bgm\\143.mp3#
@@ -6094,5 +6094,19 @@ ev_june01.rsw#bgm\\140.mp3#
 1@lt2.rsw#bgm\\67.mp3#
 2@lt2.rsw#bgm\\12.mp3#
 3@lt2.rsw#bgm\\139.mp3#
+//------------------------------------------------
+melon_que1.rsw#bgm\\79.mp3#
+melon_que2.rsw#bgm\\80.mp3#
+melon_que3.rsw#bgm\\79.mp3#
+melon_que4.rsw#bgm\\77.mp3#
+melon_que5.rsw#bgm\\106.mp3#
+melon_que6.rsw#bgm\\95.mp3#
+melon_que7.rsw#bgm\\121.mp3#
+melon_que8.rsw#bgm\\92.mp3#
+melon_que9.rsw#bgm\\92.mp3#
+melon_que10.rsw#bgm\\120.mp3#
+1@mel.rsw#bgm\\110.mp3#
+//------------------------------------------------
+melon_f2.rsw#bgm\\139.mp3#
 //------------------------------------------------
 //[file end]

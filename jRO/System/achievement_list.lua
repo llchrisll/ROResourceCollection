@@ -1657,6 +1657,36 @@ resource = {
 , 
 reward = {title = 2162}
 , score = 1}
+, 
+[500166] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を7種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(119,56)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「7」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2163}
+, score = 1}
+, 
+[500167] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を9種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(119,56)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「9」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2164}
+, score = 1}
+, 
+[500168] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を11種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(119,56)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「11」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2165}
+, score = 1}
 }
 main = function()
   -- function num : 0_0

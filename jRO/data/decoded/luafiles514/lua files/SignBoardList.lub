@@ -1208,6 +1208,8 @@ SignBoardList = {
 , 
 {"ev_season01", 37, 116, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ‘•”õ‚ÌŒðŠ·", "255,255,255"}
 , 
+{"ev_season01", 13, 113, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ƒƒƒ“‘fÞ", "255,255,255"}
+, 
 {"ba_maison", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ƒoƒ‹ƒ€ƒ“ƒg“@ˆÄ“à", "255,255,255"}
 , 
 {"mt1_camp_y", 50, 345, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  å‡‹C˜O‚Ì“ƒYE", "255,255,255"}
@@ -1502,8 +1504,6 @@ SignBoardList = {
 , 
 {"melon_f1", 109, 65, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  1“ú3‰ñ–³—¿¸˜B", "255,255,255"}
 , 
-{"melon_f1", 105, 61, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘fÞ‚ÌˆÄ“à", "255,255,255"}
-, 
 {"cmd_fild07", 58, 278, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ƒtƒ@ƒƒX“•‘ä’n‰º–À‹{", "255,255,255"}
 , 
 {"cmd_fild07", 57, 275, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  ƒAƒCƒeƒ€ŒðŠ·", "255,255,255"}
@@ -1567,6 +1567,54 @@ SignBoardList = {
 {"enchant01", 164, 46, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ŽžŠÔ‚Ì”j•Ð", "255,255,255"}
 , 
 {"enchant01", 187, 58, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  “Á‘IƒlƒRŠÊ(ƒJƒj)", "255,255,255"}
+, 
+{"melon_f1", 105, 61, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ¸˜BEC—", "255,255,255"}
+, 
+{"melon_f1", 103, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘fÞ‚ÌˆÄ“à", "255,255,255"}
+, 
+{"melon_que1", 227, 65, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ‘qŒÉy40Zenyz", "255,255,255"}
+, 
+{"melon_que5", 229, 149, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ‘qŒÉy40Zenyz", "255,255,255"}
+, 
+{"melon_que1", 218, 20, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ÒÛÝÌª½À‰ïê‚\214", "255,255,255"}
+, 
+{"melon_que1", 129, 121, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘æˆê~–[", "255,255,255"}
+, 
+{"melon_que1", 279, 168, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘æ“ñ~–[", "255,255,255"}
+, 
+{"melon_que1", 309, 79, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘æŽO~–[", "255,255,255"}
+, 
+{"melon_que1", 263, 93, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘æŽl~–[", "255,255,255"}
+, 
+{"melon_que1", 145, 175, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘æŒÜ~–[", "255,255,255"}
+, 
+{"melon_que2", 100, 120, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  oŒû", "255,255,255"}
+, 
+{"melon_que8", 231, 10, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ÒÛÝÌª½À‰ïê‚\214", "255,255,255"}
+, 
+{"melon_que9", 156, 250, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ÒÛÝÌª½À‰ïê‚\214", "255,255,255"}
+, 
+{"melon_que8", 248, 184, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘qŒÉoŒû", "255,255,255"}
+, 
+{"melon_que5", 239, 156, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ÒÛÝÌª½À‰ïê‚\214", "255,255,255"}
+, 
+{"melon_que1", 218, 250, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘åC—ûê", "255,255,255"}
+, 
+{"melon_que5", 144, 117, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘qŒÉ“üŒû", "255,255,255"}
+, 
+{"melon_que9", 147, 277, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ƒƒƒ“—â‘ ŒÉ“üŒû", "255,255,255"}
+, 
+{"melon_f1", 26, 120, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ƒƒƒ“”¨‚Ö", "255,255,255"}
+, 
+{"melon_f1", 120, 213, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ƒƒƒ“”¨‚Ö", "255,255,255"}
+, 
+{"melon_f1", 217, 119, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ƒƒƒ“”¨‚Ö", "255,255,255"}
+, 
+{"melon_f2", 26, 120, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ÒÛÝÌª½À‰ïê‚\214", "255,255,255"}
+, 
+{"melon_f2", 120, 213, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ÒÛÝÌª½À‰ïê‚\214", "255,255,255"}
+, 
+{"melon_f2", 217, 119, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ÒÛÝÌª½À‰ïê‚\214", "255,255,255"}
 , 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  –²Œ¶‚Ì–À‹{", "255,255,255"}
 , 
@@ -1821,32 +1869,6 @@ SignBoardList = {
 {"ev_summer38", 167, 51, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ƒ_ƒ“ƒVƒ“ƒOI", "255,255,255"}
 , 
 {"ev_summer01", 286, 268, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ƒCƒxƒ“ƒgƒz[ƒ‹‚Ö", "255,255,255"}
-, 
-{"prt_church", 104, 99, 20, IT_SIGNBOARD, "signboard\\over_event.bmp", "  Œ‹¥Ž®ê“]‘—", "255,255,255"}
-, 
-{"lasagna", 335, 240, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ƒWƒ…[ƒ“ƒuƒ‰ƒCƒhˆÄ“à", "255,255,255"}
-, 
-{"lasagna", 351, 270, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  —£¥‘Š’kŠ", "255,255,255"}
-, 
-{"lasagna", 293, 266, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  VEƒwƒAƒXƒ^ƒCƒ‹", "255,255,255"}
-, 
-{"lasagna", 298, 266, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  ƒwƒAƒXƒ^ƒCƒ‹", "255,255,255"}
-, 
-{"lasagna", 303, 266, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  ƒwƒAƒJƒ‰[", "255,255,255"}
-, 
-{"lasagna", 298, 259, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ŒuŒõF‚Ì‰t‘Ìì¬", "255,255,255"}
-, 
-{"lasagna", 302, 323, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ƒWƒƒƒƒC–³—¿“]‘—", "255,255,255"}
-, 
-{"lasagna", 303, 259, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  “]‘—ƒT[ƒrƒX", "255,255,255"}
-, 
-{"lasagna", 308, 259, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  Œ‹¥‹L”O•i”z•z", "255,255,255"}
-, 
-{"lasagna", 309, 253, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  Œ‹¥ˆß‘•‰ñŽû", "255,255,255"}
-, 
-{"lasagna", 326, 257, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ‚²Œ‹¥‚¨‚ß‚Å‚Æ‚¤I", "255,255,255"}
-, 
-{"lasagna", 337, 257, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ‚²Œ‹¥‚¨‚ß‚Å‚Æ‚¤I", "255,255,255"}
 , 
 {"ev_june01", 169, 189, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  _”é‚ÌŠÙ“]‘—", "255,255,255"}
 , 

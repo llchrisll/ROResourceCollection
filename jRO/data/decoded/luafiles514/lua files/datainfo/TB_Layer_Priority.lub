@@ -933,11 +933,31 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Magic_Celestial_Globe] = {Default = 450, isIgnoreRiding = true, 
+[ACCESSORY_IDs.ACCESSORY_Magic_Celestial_Globe] = {Default = 450, 
 Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_STRONGMAN_HAIR_BLUE] = {Default = 195, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_B_Shiba_Inu_TW] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_PK] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tent] = {Default = 850, isIgnoreRiding = true, isHelmRobe = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Traveller_Oil_Lantern] = {Default = 140, 
+Direction = {[0] = 450, [1] = 450, [7] = 450}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BL] = {Default = 150, 
 Direction = {}
 }
 }
