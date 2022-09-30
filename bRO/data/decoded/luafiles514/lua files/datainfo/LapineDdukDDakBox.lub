@@ -156,6 +156,146 @@ SourceItems = {
 {"SoulWeight", 1, 26154}
 }
 , NeedSource_String = "Pêndulo Ancestral"}
+, 
+Demon_Hunt_Bible_Cube = {ItemID = 100397, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Demon_Hunting_Bible_K", 1, 28630}
+}
+, NeedSource_String = "Tomo Primordial"}
+, 
+ComposeShadow_Mix = {ItemID = 23250, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_ColdBolt_Armor", 1, 24219}
+, 
+{"S_FireBolt_Armor", 1, 24220}
+, 
+{"S_LightingBolt_Armor", 1, 24221}
+, 
+{"S_EarthSpike_Armor", 1, 24222}
+}
+, NeedSource_String = "Sombrios de Lanças"}
+, 
+EXPShadow_Mix = {ItemID = 100661, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Beginner_Shoes", 1, 24210}
+, 
+{"S_Beginner_Shield", 1, 24211}
+, 
+{"S_Rookie_Shoes", 1, 24212}
+, 
+{"S_Rookie_Shield", 1, 24213}
+, 
+{"S_Advanced_Shoes", 1, 24214}
+, 
+{"S_Advanced_Shield", 1, 24215}
+, 
+{"S_Expert_Shoes", 1, 24208}
+, 
+{"S_Expert_Shield", 1, 24209}
+}
+, NeedSource_String = "Sombrios de EXP"}
+, 
+Shadow_Mix_Recipe = {ItemID = 22529, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Breezy_Armor", 1, 24024}
+, 
+{"S_Healing_Weapon", 1, 24033}
+, 
+{"S_Lucky_Weapon", 1, 24034}
+, 
+{"S_Power_Earring", 1, 24035}
+, 
+{"S_Int_Pendant", 1, 24036}
+, 
+{"S_Dexterous_Armor", 1, 24037}
+, 
+{"S_Vital_Shoes", 1, 24038}
+, 
+{"S_Athletic_Shield", 1, 24039}
+, 
+{"S_Lucky_Armor", 1, 24040}
+, 
+{"S_Power_Pendant", 1, 24041}
+, 
+{"S_Int_Earring", 1, 24042}
+, 
+{"S_Dexterous_Weapon", 1, 24043}
+, 
+{"S_Vital_Shield", 1, 24044}
+, 
+{"S_Athletic_Shoes", 1, 24045}
+, 
+{"S_Teleport_Shoes", 1, 24139}
+, 
+{"S_Bearers_Armor", 1, 24180}
+, 
+{"S_Bearers_Shoes", 1, 24181}
+, 
+{"S_Bearers_Shield", 1, 24182}
+, 
+{"S_Bearers_Weapon", 1, 24183}
+, 
+{"S_Bearers_Earring", 1, 24184}
+, 
+{"S_Bearers_Pendent", 1, 24185}
+, 
+{"S_Hasty_Shoes", 1, 24196}
+, 
+{"S_Hasty_Armor", 1, 24197}
+, 
+{"S_Rookie_Shoes", 1, 24212}
+, 
+{"S_Rookie_Shield", 1, 24213}
+, 
+{"S_Advanced_Shoes", 1, 24214}
+, 
+{"S_Advanced_Shield", 1, 24215}
+, 
+{"S_AllMighty_Earring", 1, 24339}
+, 
+{"S_AllMighty_Pendant", 1, 24340}
+, 
+{"S_Tension_Weapon", 1, 24360}
+, 
+{"S_Tension_Earring", 1, 24361}
+, 
+{"S_Tension_Pendent", 1, 24362}
+, 
+{"S_Elegant_Weapon", 1, 24363}
+, 
+{"S_Elegant_Earring", 1, 24364}
+, 
+{"S_Elegant_Pendent", 1, 24365}
+, 
+{"S_Healing_Shield", 1, 24366}
+, 
+{"S_Healing_Shoes", 1, 24367}
+, 
+{"Sentimental_Weapone_S", 1, 24380}
+, 
+{"Sentimental_Earring_S", 1, 24381}
+, 
+{"Sentimental_Pendant_S", 1, 24382}
+, 
+{"S_Super_Magic_Shield", 1, 24616}
+, 
+{"S_Super_Magic_Armor", 1, 24617}
+, 
+{"S_Super_Magic_Shoes", 1, 24618}
+, 
+{"S_Super_Power_Weapon", 1, 24619}
+, 
+{"S_Super_Power_Pendant", 1, 24620}
+, 
+{"S_Super_Power_Earing", 1, 24621}
+}
+, NeedSource_String = "Equip. Sombrio"}
+, 
+Dragonic_Slayer_Cube = {ItemID = 100275, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Dragonic_Slayer", 1, 600004}
+}
+, NeedSource_String = "Bastarda Ancestral"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

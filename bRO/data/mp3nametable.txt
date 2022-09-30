@@ -1003,3 +1003,6 @@ star_in.rsw#bgm\\14.mp3#
 1@soul.rsw#bgm\\40.mp3#
 
 tra_fild.rsw#bgm\\08.mp3#
+
+//2022 2Q 일루전 게펜 (뱀파이어)
+gef_d01_i.rsw#bgm\\51.mp3#

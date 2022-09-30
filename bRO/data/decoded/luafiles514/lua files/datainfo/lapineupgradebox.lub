@@ -501,7 +501,7 @@ TargetItems = {
 }
 , NeedSource_String = "+9 Armas Primordiais"}
 , 
-Armor_ScrollI = {ItemID = 100283, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+Armor_ScrollI = {ItemID = 100283, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Hero_Plate", 15093}
 , 
@@ -517,7 +517,7 @@ TargetItems = {
 }
 , NeedSource_String = "Armaduras Heróicas"}
 , 
-Shoes_ScrollI = {ItemID = 100284, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+Shoes_ScrollI = {ItemID = 100284, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Vet_Nepen_Heel", 22035}
 , 
@@ -684,6 +684,26 @@ TargetItems = {
 {"Moonlight_Sword_IL", 28725}
 , 
 {"Long_Mace_IL", 16063}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"Ghoul_Leg_IL", 28023}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Book_Of_The_Apo_IL", 28612}
 }
 , NeedSource_String = "Armas Ilusionais"}
 , 
@@ -696,8 +716,324 @@ TargetItems = {
 {"Moonlight_Sword_IL", 28725}
 , 
 {"Long_Mace_IL", 16063}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"Ghoul_Leg_IL", 28023}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Book_Of_The_Apo_IL", 28612}
 }
 , NeedSource_String = "Armas Ilusionais"}
+, 
+Refine_Hero_Weapon = {ItemID = 100271, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Royal_Bow_K", 18164}
+, 
+{"Narcis_Bow", 18170}
+, 
+{"Shadow_Staff_K", 26118}
+, 
+{"Iron_Nail_K", 1847}
+, 
+{"Magic_Sword", 28744}
+, 
+{"Sword_Of_Bluefire", 13485}
+, 
+{"Avenger", 28130}
+, 
+{"Iron_Staff", 2048}
+, 
+{"Oriental_Sword", 21038}
+, 
+{"Undine_Spear_K", 32018}
+, 
+{"Demon_Hunting_Bible_K", 28630}
+, 
+{"Shiver_Katar_K", 28039}
+, 
+{"OneSkyOneSun", 28631}
+, 
+{"SoulWeight", 26154}
+, 
+{"MeawFoxtail", 26155}
+, 
+{"Crimson_Rose", 32302}
+, 
+{"Master_Soul_Rifle", 28255}
+, 
+{"Demon_S_Shot", 28256}
+, 
+{"Golden_L_Launcher", 28257}
+, 
+{"The_Black_Gatling", 28258}
+, 
+{"Sharp_Wind_Sword", 28763}
+, 
+{"Fog_Dew_Sword", 28764}
+, 
+{"Humma_Clear", 13345}
+, 
+{"Dragonic_Slayer", 600004}
+, 
+{"Light_Blade", 500003}
+, 
+{"Slate_Sword", 500004}
+, 
+{"Trumpet_Shell_K", 570002}
+, 
+{"Barb_Wire_K", 580002}
+, 
+{"Meteor_Striker", 590002}
+, 
+{"Blade_Katar", 610003}
+, 
+{"Scalet_Dragon_L_Bow", 700003}
+, 
+{"Fatalist", 510006}
+, 
+{"Ray_Knuckle", 560002}
+, 
+{"Saint_Hall", 590003}
+, 
+{"Blue_Crystal_Staff", 640004}
+, 
+{"Freezing_Rod", 550007}
+, 
+{"Freedom_Stick", 550080}
+, 
+{"Blessed_Knife", 510070}
+}
+, NeedSource_String = "Arma Ancestral"}
+, 
+Refine_Hero_Boots = {ItemID = 100272, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Ancient_Hero_Boots", 22171}
+}
+, NeedSource_String = "Botas Ancestrais"}
+, 
+Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"S_Breezy_Armor", 24024}
+, 
+{"S_Healing_Weapon", 24033}
+, 
+{"S_Lucky_Weapon", 24034}
+, 
+{"S_Power_Earring", 24035}
+, 
+{"S_Int_Pendant", 24036}
+, 
+{"S_Dexterous_Armor", 24037}
+, 
+{"S_Vital_Shoes", 24038}
+, 
+{"S_Athletic_Shield", 24039}
+, 
+{"S_Lucky_Armor", 24040}
+, 
+{"S_Power_Pendant", 24041}
+, 
+{"S_Int_Earring", 24042}
+, 
+{"S_Dexterous_Weapon", 24043}
+, 
+{"S_Vital_Shield", 24044}
+, 
+{"S_Athletic_Shoes", 24045}
+, 
+{"S_Solid_Weapon", 24152}
+, 
+{"S_Solid_Earring", 24153}
+, 
+{"S_Immortal_Armor", 24154}
+, 
+{"S_Immortal_Pendant", 24155}
+, 
+{"S_Bearers_Armor", 24180}
+, 
+{"S_Bearers_Shoes", 24181}
+, 
+{"S_Bearers_Shield", 24182}
+, 
+{"S_Bearers_Weapon", 24183}
+, 
+{"S_Bearers_Earring", 24184}
+, 
+{"S_Bearers_Pendent", 24185}
+, 
+{"S_Hasty_Shoes", 24196}
+, 
+{"S_Hasty_Armor", 24197}
+, 
+{"S_Rookie_Shoes", 24212}
+, 
+{"S_Rookie_Shield", 24213}
+, 
+{"S_Advanced_Shoes", 24214}
+, 
+{"S_Advanced_Shield", 24215}
+, 
+{"S_Rapid_Pendant", 24047}
+, 
+{"S_AllMighty_Pendant", 24340}
+, 
+{"S_AllMighty_Earring", 24339}
+, 
+{"Sentimental_Weapone_S", 24380}
+, 
+{"Sentimental_Earring_S", 24381}
+, 
+{"Sentimental_Pendant_S", 24382}
+, 
+{"S_Tension_Earring", 24361}
+, 
+{"S_Tension_Pendent", 24362}
+, 
+{"S_Tension_Weapon", 24360}
+, 
+{"S_Elegant_Earring", 24364}
+, 
+{"S_Elegant_Pendent", 24365}
+, 
+{"S_Elegant_Weapon", 24363}
+, 
+{"S_Healing_Shoes", 24367}
+, 
+{"S_Healing_Shield", 24366}
+, 
+{"S_Teleport_Shoes", 24139}
+, 
+{"S_Super_Magic_Shield", 24616}
+, 
+{"S_Super_Magic_Armor", 24617}
+, 
+{"S_Super_Magic_Shoes", 24618}
+, 
+{"S_Super_Power_Weapon", 24619}
+, 
+{"S_Super_Power_Pendant", 24620}
+, 
+{"S_Super_Power_Earing", 24621}
+, 
+{"S_Taekwon_Weapon", 24284}
+, 
+{"S_Taekwon_Shield", 24315}
+, 
+{"S_Teleport_Weapon", 24141}
+, 
+{"S_Teleport_Shield", 24284}
+, 
+{"S_Teleport_Armor", 24315}
+, 
+{"S_Teleport_Pendant", 24141}
+, 
+{"S_Teleport_Earring", 24140}
+, 
+{"S_SuperNovice_Shield", 24138}
+, 
+{"S_SuperNovice_Weapon", 24143}
+, 
+{"S_Sigrun_Armor", 24142}
+, 
+{"S_Sigrun_Shield", 24318}
+, 
+{"S_FireBolt_Armor", 24282}
+, 
+{"S_ColdBolt_Armor", 24326}
+, 
+{"S_LightingBolt_Armor", 24327}
+, 
+{"S_EarthSpike_Armor", 24220}
+, 
+{"S_MagicCompose_Armor", 24219}
+, 
+{"S_Beginner_Shield", 24221}
+, 
+{"S_Beginner_Shoes", 24222}
+, 
+{"S_Expert_Shield", 24334}
+, 
+{"S_Expert_Shoes", 24211}
+}
+, NeedSource_String = "Equip. Sombrio"}
+, 
+Vampire_Box_IL = {ItemID = 100414, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Ghoul_Leg_IL", 28023}
+, 
+{"Cape_Of_Ancient_Lord_IL", 20840}
+}
+, NeedSource_String = "Ilusão do Vampiro"}
+, 
+S_Vampire_Box_IL = {ItemID = 100415, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Ghoul_Leg_IL", 28023}
+, 
+{"Cape_Of_Ancient_Lord_IL", 20840}
+}
+, NeedSource_String = "Ilusão do Vampiro"}
+, 
+Turtle_Is_Box_IL = {ItemID = 100417, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Fancy_Flower_IL", 19247}
+}
+, NeedSource_String = "Ilusão da Tartaruga"}
+, 
+S_Turtle_Is_Box_IL = {ItemID = 100418, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Fancy_Flower_IL", 19247}
+}
+, NeedSource_String = "Ilusão da Tartaruga"}
 }
 , serverMain = function()
   -- function num : 0_0

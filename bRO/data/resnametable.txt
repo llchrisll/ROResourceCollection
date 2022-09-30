@@ -1645,3 +1645,19 @@ iz_ac02_d.rsw#iz_ac02.rsw#
 1@soul.gat#1@soul.gat#
 1@soul.rsw#1@soul.rsw#
 유저인터페이스\map\1@soul.bmp#유저인터페이스\map\1@soul.bmp#
+
+//2015 교황
+1@pop3.gnd#1@pop3.gnd#
+1@pop3.gat#1@pop3.gat#
+1@pop3.rsw#1@pop3.rsw#
+유저인터페이스\map\1@pop3.bmp#유저인터페이스\map\1@pop3.bmp#
+
+1@pop2.gnd#1@pop2.gnd#
+1@pop2.gat#1@pop2.gat#
+1@pop2.rsw#1@pop2.rsw#
+유저인터페이스\map\1@pop2.bmp#유저인터페이스\map\1@pop2.bmp#
+
+1@pop1.gnd#1@pop1.gnd#
+1@pop1.gat#1@pop1.gat#
+1@pop1.rsw#1@pop1.rsw#
+유저인터페이스\map\1@pop1.bmp#유저인터페이스\map\1@pop1.bmp#

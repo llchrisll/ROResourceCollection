@@ -3652,6 +3652,26 @@ resource = {
 reward = {title = 1034}
 , score = 10}
 , 
+[200033] = {UI_Type = 0, group = "GOAL_LEVEL", major = 1, minor = 0, title = "Novo estilo!(1)", 
+content = {summary = "Nível base 170 e Classe 3-1!", details = "Alcance o nível base 170 como classe 3-1."}
+, 
+resource = {
+[1] = {text = "Classe 3 de nv. base 170"}
+}
+, 
+reward = {item = 6959}
+, score = 50}
+, 
+[200034] = {UI_Type = 0, group = "GOAL_LEVEL", major = 1, minor = 0, title = "Novo estilo!(2)", 
+content = {summary = "Nível base 170 e Classe 3-2!", details = "Alcance o nível base 170 como classe 3-2."}
+, 
+resource = {
+[1] = {text = "Classe 3 de nv. base 170"}
+}
+, 
+reward = {item = 6959}
+, score = 50}
+, 
 [170000] = {UI_Type = 0, group = "HEAR", major = 4, minor = 0, title = "Música Harmoniosa", 
 content = {summary = "Escute a Orquesta de Prontera", details = "Ouça uma música especial do Bardo Ornit no são do Banquete Real."}
 , 

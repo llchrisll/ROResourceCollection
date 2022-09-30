@@ -7,6 +7,8 @@ mapNPCInfoTable = {
 prontera = {
 {name = "Armazém", X = 146, Y = 89, TYPE = 6}
 , 
+{name = "Armazém", X = 149, Y = 191, TYPE = 6}
+, 
 {name = "Armazém", X = 151, Y = 29, TYPE = 6}
 , 
 {name = "Armazém", X = 282, Y = 200, TYPE = 6}
@@ -27,13 +29,15 @@ prontera = {
 , 
 {name = "Ferramentas", X = 134, Y = 221, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 175, Y = 220, TYPE = 1}
+{name = "Munições", X = 175, Y = 220, TYPE = 1}
 , 
 {name = "Refinaria", X = 178, Y = 186, TYPE = 3}
 , 
 {name = "Estalagem", X = 204, Y = 191, TYPE = 5}
 , 
 {name = "Estalagem", X = 107, Y = 218, TYPE = 5}
+, 
+{name = "Estilista", X = 76, Y = 93, TYPE = 7}
 }
 , 
 prt_fild05 = {
@@ -42,8 +46,14 @@ prt_fild05 = {
 {name = "Ferramentas", X = 290, Y = 221, TYPE = 0}
 }
 , 
+tra_fild = {
+{name = "Armazém", X = 94, Y = 171, TYPE = 6}
+, 
+{name = "Armazém", X = 114, Y = 80, TYPE = 6}
+}
+, 
 prt_monk = {
-{name = "Loja de Armas", X = 135, Y = 263, TYPE = 1}
+{name = "Arma", X = 135, Y = 263, TYPE = 1}
 , 
 {name = "Armazém", X = 203, Y = 169, TYPE = 6}
 }
@@ -59,7 +69,7 @@ izlude = {
 , 
 {name = "Ferramentas", X = 112, Y = 180, TYPE = 0}
 , 
-{name = "Refinaria", X = 158, Y = 130, TYPE = 3}
+{name = "Refinaria", X = 158, Y = 128, TYPE = 3}
 }
 , 
 geffen = {
@@ -77,7 +87,7 @@ geffen = {
 , 
 {name = "Ferramentas", X = 44, Y = 86, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 99, Y = 140, TYPE = 1}
+{name = "Munições", X = 99, Y = 140, TYPE = 1}
 , 
 {name = "Refinaria", X = 182, Y = 59, TYPE = 3}
 , 
@@ -97,7 +107,7 @@ aldebaran = {
 , 
 {name = "Ferramentas", X = 197, Y = 70, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 72, Y = 197, TYPE = 1}
+{name = "Munições", X = 72, Y = 197, TYPE = 1}
 }
 , 
 payon = {
@@ -115,7 +125,7 @@ payon = {
 , 
 {name = "Ferramentas", X = 144, Y = 85, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 139, Y = 159, TYPE = 1}
+{name = "Munições", X = 139, Y = 159, TYPE = 1}
 , 
 {name = "Refinaria", X = 144, Y = 173, TYPE = 3}
 , 
@@ -143,9 +153,13 @@ morocc = {
 , 
 {name = "Guia", X = 28, Y = 170, TYPE = 4}
 , 
-{name = "Loja de Armas", X = 253, Y = 56, TYPE = 1}
+{name = "Munições", X = 253, Y = 56, TYPE = 1}
 , 
 {name = "Refinaria", X = 47, Y = 47, TYPE = 3}
+, 
+{name = "Ferramentas", X = 146, Y = 103, TYPE = 0}
+, 
+{name = "Ferramentas", X = 151, Y = 241, TYPE = 0}
 }
 , 
 moc_ruins = {
@@ -175,11 +189,13 @@ alberta = {
 , 
 {name = "Ferramentas", X = 98, Y = 154, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 117, Y = 37, TYPE = 1}
+{name = "Munições", X = 117, Y = 37, TYPE = 1}
 , 
 {name = "Refinaria", X = 35, Y = 41, TYPE = 3}
 , 
 {name = "Estalagem", X = 65, Y = 233, TYPE = 5}
+, 
+{name = "Estilista", X = 47, Y = 145, TYPE = 7}
 }
 , 
 yuno = {
@@ -195,9 +211,13 @@ yuno = {
 , 
 {name = "Ferramentas", X = 193, Y = 142, TYPE = 0}
 , 
+{name = "Ferramentas", X = 218, Y = 197, TYPE = 0}
+, 
 {name = "Refinaria", X = 120, Y = 138, TYPE = 3}
 , 
-{name = "Loja de Armas", X = 205, Y = 103, TYPE = 1}
+{name = "Munições", X = 205, Y = 103, TYPE = 1}
+, 
+{name = "Estilista", X = 196, Y = 87, TYPE = 7}
 }
 , 
 comodo = {
@@ -213,7 +233,7 @@ comodo = {
 , 
 {name = "Ferramentas", X = 92, Y = 128, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 266, Y = 74, TYPE = 1}
+{name = "Munições", X = 266, Y = 74, TYPE = 1}
 }
 , 
 einbroch = {
@@ -229,7 +249,7 @@ einbroch = {
 , 
 {name = "Guia", X = 162, Y = 317, TYPE = 4}
 , 
-{name = "Loja de Armas", X = 215, Y = 212, TYPE = 1}
+{name = "Munições", X = 215, Y = 212, TYPE = 1}
 , 
 {name = "Refinaria", X = 255, Y = 109, TYPE = 3}
 , 
@@ -269,7 +289,7 @@ lighthalzen = {
 , 
 {name = "Estalagem", X = 159, Y = 133, TYPE = 5}
 , 
-{name = "Loja de Armas", X = 196, Y = 46, TYPE = 1}
+{name = "Munições", X = 196, Y = 46, TYPE = 1}
 }
 , 
 hugel = {
@@ -281,7 +301,7 @@ hugel = {
 , 
 {name = "Ferramentas", X = 93, Y = 167, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 70, Y = 158, TYPE = 1}
+{name = "Munições", X = 70, Y = 158, TYPE = 1}
 , 
 {name = "Estalagem", X = 104, Y = 79, TYPE = 5}
 }
@@ -293,9 +313,11 @@ rachel = {
 , 
 {name = "Ferramentas", X = 83, Y = 78, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 42, Y = 87, TYPE = 1}
+{name = "Munições", X = 42, Y = 87, TYPE = 1}
 , 
 {name = "Estalagem", X = 115, Y = 149, TYPE = 5}
+, 
+{name = "Estilista", X = 90, Y = 189, TYPE = 7}
 }
 , 
 veins = {
@@ -307,7 +329,7 @@ veins = {
 , 
 {name = "Ferramentas", X = 230, Y = 165, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 149, Y = 180, TYPE = 1}
+{name = "Munições", X = 149, Y = 180, TYPE = 1}
 , 
 {name = "Estalagem", X = 131, Y = 280, TYPE = 5}
 }
@@ -319,7 +341,7 @@ brasilis = {
 , 
 {name = "Ferramentas", X = 252, Y = 257, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 244, Y = 243, TYPE = 1}
+{name = "Munições", X = 244, Y = 243, TYPE = 1}
 , 
 {name = "Estalagem", X = 274, Y = 151, TYPE = 5}
 }
@@ -333,9 +355,9 @@ dewata = {
 , 
 {name = "Ferramentas", X = 182, Y = 164, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 218, Y = 164, TYPE = 1}
+{name = "Munições", X = 218, Y = 164, TYPE = 1}
 , 
-{name = "Loja de Armaduras", X = 158, Y = 182, TYPE = 2}
+{name = "Armadura", X = 158, Y = 182, TYPE = 2}
 }
 , 
 malaya = {
@@ -351,7 +373,7 @@ malaya = {
 , 
 {name = "Ferramentas", X = 298, Y = 167, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 114, Y = 212, TYPE = 1}
+{name = "Munições", X = 114, Y = 212, TYPE = 1}
 , 
 {name = "Estalagem", X = 178, Y = 211, TYPE = 5}
 }
@@ -363,7 +385,7 @@ louyang = {
 , 
 {name = "Ferramentas", X = 135, Y = 98, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 145, Y = 172, TYPE = 1}
+{name = "Munições", X = 145, Y = 172, TYPE = 1}
 }
 , 
 ayothaya = {
@@ -375,7 +397,7 @@ ayothaya = {
 , 
 {name = "Ferramentas", X = 131, Y = 86, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 165, Y = 90, TYPE = 1}
+{name = "Munições", X = 165, Y = 90, TYPE = 1}
 }
 , 
 moscovia = {
@@ -387,11 +409,11 @@ moscovia = {
 , 
 {name = "Ferramentas", X = 223, Y = 174, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 185, Y = 189, TYPE = 1}
+{name = "Munições", X = 185, Y = 189, TYPE = 1}
 , 
 {name = "Estalagem", X = 229, Y = 208, TYPE = 5}
 , 
-{name = "Loja de Armaduras", X = 203, Y = 170, TYPE = 2}
+{name = "Armadura", X = 203, Y = 170, TYPE = 2}
 }
 , 
 amatsu = {
@@ -401,7 +423,7 @@ amatsu = {
 , 
 {name = "Ferramentas", X = 96, Y = 118, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 129, Y = 117, TYPE = 1}
+{name = "Munições", X = 129, Y = 117, TYPE = 1}
 }
 , 
 gonryun = {
@@ -411,9 +433,9 @@ gonryun = {
 , 
 {name = "Ferramentas", X = 147, Y = 84, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 174, Y = 101, TYPE = 1}
+{name = "Munições", X = 174, Y = 101, TYPE = 1}
 , 
-{name = "Loja de Armaduras", X = 173, Y = 84, TYPE = 2}
+{name = "Armadura", X = 173, Y = 84, TYPE = 2}
 }
 , 
 umbala = {
@@ -425,7 +447,7 @@ umbala = {
 , 
 {name = "Ferramentas", X = 136, Y = 127, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 126, Y = 154, TYPE = 1}
+{name = "Munições", X = 126, Y = 154, TYPE = 1}
 }
 , 
 niflheim = {
@@ -433,7 +455,7 @@ niflheim = {
 , 
 {name = "Guia", X = 201, Y = 187, TYPE = 4}
 , 
-{name = "Loja de Armas", X = 216, Y = 171, TYPE = 1}
+{name = "Armas", X = 216, Y = 171, TYPE = 1}
 }
 , 
 izlu2dun = {
@@ -475,11 +497,11 @@ malangdo = {
 xmas = {
 {name = "Armazém", X = 149, Y = 136, TYPE = 6}
 , 
-{name = "Guia", X = 153, Y = 53, TYPE = 4}
+{name = "Guia", X = 140, Y = 137, TYPE = 4}
 , 
 {name = "Ferramentas", X = 122, Y = 131, TYPE = 0}
 , 
-{name = "Loja de Armas", X = 171, Y = 158, TYPE = 1}
+{name = "Munições", X = 171, Y = 158, TYPE = 1}
 }
 , 
 mora = {
@@ -488,8 +510,6 @@ mora = {
 {name = "Guia", X = 72, Y = 51, TYPE = 4}
 , 
 {name = "Guia", X = 25, Y = 158, TYPE = 4}
-, 
-{name = "Guia", X = 167, Y = 76, TYPE = 4}
 , 
 {name = "Guia", X = 167, Y = 76, TYPE = 4}
 , 
@@ -560,16 +580,18 @@ lasagna = {
 {name = "Ferramentas", X = 165, Y = 125, TYPE = 0}
 , 
 {name = "Guia", X = 176, Y = 160, TYPE = 4}
+, 
+{name = "Estilista", X = 134, Y = 113, TYPE = 7}
 }
 , 
 cmd_fild07 = {
 {name = "Ferramentas", X = 257, Y = 126, TYPE = 0}
 , 
-{name = "Loja de Armaduras", X = 277, Y = 85, TYPE = 2}
+{name = "Armadura", X = 277, Y = 85, TYPE = 2}
 , 
 {name = "Armazém", X = 136, Y = 134, TYPE = 6}
 , 
-{name = "Loja de Armas", X = 250, Y = 98, TYPE = 1}
+{name = "Arma", X = 250, Y = 98, TYPE = 1}
 }
 , 
 verus04 = {

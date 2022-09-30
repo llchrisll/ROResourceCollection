@@ -1037,3 +1037,10 @@ star_frst.rsw#Antiga Payon#
 star_in.rsw#Interior da Antiga Payon#
 
 1@soul.rsw#Passagem da Alma#
+
+//2Q
+gef_d01_i.rsw#Página 250#
+
+//Illusion of Turtle Island
+tur_d03_i.rsw#Vila das Boas Tartaugas#
+tur_d04_i.rsw#Palácio Tartaruga#

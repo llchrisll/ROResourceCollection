@@ -18224,5 +18224,337 @@ Description = {"Traga 30 unidades de Biscoito de Gengibre para Twinkle."}
 [17861] = {Title = "Festival das Flores de Neve", IconName = "ico_ev.bmp", 
 Description = {"Voc\234 j\225 completou as tarefas de hoje, retone amanh\227 para Twinkle."}
 , Summary = "Volte amanh\227."}
+, 
+[16404] = {Title = "Festival das Mascotes", IconName = "ico_ev.bmp", 
+Description = {"O Festival das Mascotes começou. Fale com <NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> primeiro."}
+, Summary = "Inscreva-se"}
+, 
+[16405] = {Title = "[Espera] Procura Feliz", IconName = "ico_ev.bmp", 
+Description = {"Esta missão \233 diária e voc\234 pode refaz\234-la novamente. Quando o tempo de espera expirar, basta falar com <NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>."}
+, Summary = "Volte amanh\227"}
+, 
+[16406] = {Title = "Procura Feliz", IconName = "ico_ev.bmp", 
+Description = {"Elimine 3 Ovos Felizes espalhados por Midgard e volte a falar com <NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>."}
+, Summary = "Elimine"}
+, 
+[16407] = {Title = "[Espera] Coleta Feliz", IconName = "ico_ev.bmp", 
+Description = {"Esta missão \233 diária e voc\234 pode refaz\234-la novamente. Quando o tempo de espera expirar, basta falar com <NAVI>[Lulufante]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "Volte amanh\227"}
+, 
+[16408] = {Title = "Coleta Feliz", IconName = "ico_ev.bmp", 
+Description = {"Elimine 3 Lunáticos de Trevo e traga 3 <ITEM>[Trevos da Felicidade]<INFO>25295</INFO></ITEM> para <NAVI>[Lulufante]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "3 Trevos da Felicidade"}
+, 
+[16409] = {Title = "[Espera] Doce Feliz", IconName = "ico_ev.bmp", 
+Description = {"Esta missão \233 diária e voc\234 pode refaz\234-la novamente. Quando o tempo de espera expirar, basta falar com <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."}
+, Summary = "Volte amanh\227"}
+, 
+[16410] = {Title = "Doce Feliz 1", IconName = "ico_ev.bmp", 
+Description = {"Encontre <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI> em Izlude."}
+, Summary = "1 Amêndoas"}
+, 
+[16411] = {Title = "Doce Feliz 2", IconName = "ico_ev.bmp", 
+Description = {"Encontre <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI> em Prontera."}
+, Summary = "1 Chocolate"}
+, 
+[16412] = {Title = "Doce Feliz", IconName = "ico_ev.bmp", 
+Description = {"J\225 falei com Sheran, em Izlude. Volte para <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI> se j\225 falou com Yana."}
+, Summary = "Entrega de Amêndoas"}
+, 
+[16413] = {Title = "Doce Feliz", IconName = "ico_ev.bmp", 
+Description = {"J\225 falei com Yana, em Prontera. Volte para <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI> se j\225 falou com Sheran."}
+, Summary = "Entrega de Chocolate"}
+, 
+[16414] = {Title = "[Espera] Passeio Feliz", IconName = "ico_ev.bmp", 
+Description = {"Esta missão \233 diária e voc\234 pode refaz\234-la novamente. Quando o tempo de espera expirar, basta falar com <NAVI>[Sarum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>."}
+, Summary = "Volte amanh\227"}
+, 
+[16415] = {Title = "Passeio Feliz", IconName = "ico_ev.bmp", 
+Description = {"Fale com o Bichinho de Estimação que voc\234 selecionou e siga a trilha."}
+, Summary = "Fale com a Mascote"}
+, 
+[16416] = {Title = "Passeio Feliz 1", IconName = "ico_ev.bmp", 
+Description = {"Vamos passear com o bichinho de estimação at\233 a <NAVI>[primeira parada]<INFO>yuno,195,302,0,101,0</INFO></NAVI>."}
+, Summary = "Siga a trilha"}
+, 
+[16417] = {Title = "Passeio Feliz 2", IconName = "ico_ev.bmp", 
+Description = {"Vamos passear com o bichinho de estimação at\233 a <NAVI>[segunda parada]<INFO>yuno,342,156,0,101,0</INFO></NAVI>."}
+, Summary = "Siga a trilha"}
+, 
+[16418] = {Title = "Passeio Feliz 3", IconName = "ico_ev.bmp", 
+Description = {"Vamos passear com o bichinho de estimação at\233 a <NAVI>[terceira parada]]<INFO>yuno,282,102,0,101,0</INFO></NAVI>."}
+, Summary = "Siga a trilha"}
+, 
+[16419] = {Title = "Passeio Feliz 4", IconName = "ico_ev.bmp", 
+Description = {"Vamos terminr o passeio voltando para a <NAVI>[praça centrl]<INFO>yuno,150,155,0,101,0</INFO></NAVI>."}
+, Summary = "Siga a trilha"}
+, 
+[16420] = {Title = "Passeio com Lunático", IconName = "ico_ev.bmp", 
+Description = {"Bom passeio com o Lunático!"}
+, Summary = "Caminhando com Lunático"}
+, 
+[16421] = {Title = "Passeio com Poring", IconName = "ico_ev.bmp", 
+Description = {"Bom passeio com o Poring!"}
+, Summary = "Caminhando com Poring"}
+, 
+[16422] = {Title = "Passeio com Filhote", IconName = "ico_ev.bmp", 
+Description = {"Bom passeio com o Filhote de Lobo do Deserto!"}
+, Summary = "Caminhando com Filhote"}
+, 
+[16423] = {Title = "Passeio com Deviruchi", IconName = "ico_ev.bmp", 
+Description = {"Bom passeio com o Deviruchi!"}
+, Summary = "Caminhando com Deviruchi"}
+, 
+[16424] = {Title = "Festival das Mascotes", IconName = "ico_ev.bmp", 
+Description = {"Experimente os prêmios aleatórios da Máquina do Festival das Mascote em Juno."}
+, Summary = "Use a Máquina"}
+, 
+[16425] = {Title = "Passeio Feliz", IconName = "ico_ev.bmp", 
+Description = {"Primeira caminhada feliz"}
+, Summary = "Primeiro passeio"}
+, 
+[16426] = {Title = "Passeio Feliz", IconName = "ico_ev.bmp", 
+Description = {"Segunda caminhada feliz"}
+, Summary = "Segundo passeio"}
+, 
+[8577] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"A agricultora <NAVI>[Lavanda]<INFO>geffen,166,82,0,101,0</INFO></NAVI> quer 10 Melões Doces."}
+, Summary = "10 Melões Doces"}
+, 
+[8578] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"Os <NAVI>[pais de Lavanda]<INFO>hugel,218,228,0,101,0</INFO></NAVI> foram para Hugel."}
+, Summary = "Fale com Lírio"}
+, 
+[8579] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"Lírio estava de férias em Hugel. Volte a falar com <NAVI>[Lavanda]<INFO>geffen,166,82,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Fale com Lavanda"}
+, 
+[8580] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"A alquimista <NAVI>[Dália]<INFO>geffen,90,35,0,101,0</INFO></NAVI> quer 10 Melões Sombrios."}
+, Summary = "10 Melões Sombrios"}
+, 
+[8581] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Dália]<INFO>geffen,90,35,0,101,0</INFO></NAVI> quer que voc\234 volte amanh\227."}
+, Summary = "Volte amanh\227."}
+, 
+[8582] = {Title = "Melão Sombrio", IconName = "ico_ev.bmp", 
+Description = {"A alquimista <NAVI>[Dália]<INFO>geffen,90,35,0,101,0</INFO></NAVI> quer 10 Melões Sombrios."}
+, Summary = "10 Melões Sombrios"}
+, 
+[8583] = {Title = "[Espera] Melão Sombrio", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Dália]<INFO>geffen,90,35,0,101,0</INFO></NAVI> quer que voc\234 volte amanh\227."}
+, Summary = "Volte amanh\227."}
+, 
+[8584] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"A prima de Lavanda <NAVI>[Lótus]<INFO>geffen,178,93,0,101,0</INFO></NAVI> sabe fazer chapéus a partir de melões."}
+, Summary = "Fale com Lótus"}
+, 
+[8585] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Lótus]<INFO>geffen,178,93,0,101,0</INFO></NAVI> precisa de 30 Peles de Meloring para fazer o visual."}
+, Summary = "30 Cascas Doces"}
+, 
+[8311] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"O melão suspeito foi dimensionado."}
+, Summary = ""}
+, 
+[8312] = {Title = "Feira do Melão", IconName = "ico_ev.bmp", 
+Description = {"A Feira do Melão terminou por hoje. Volte amanh\227"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[14652] = {Title = "Ilusão do Vampiro", 
+Description = {"Voc\234 poderia por favor nos ajudar? Vai ser uma longa história, então vamos beber um pouco de água."}
+, Summary = "Fale com Grimm"}
+, 
+[14653] = {Title = "Ilusão do Vampiro", 
+Description = {"Reserve um momento para ler o diário."}
+, Summary = "Fale com Grimm"}
+, 
+[14654] = {Title = "Ilusão do Vampiro", 
+Description = {"Se voc\234 leu todas as páginas, fale com o Monge."}
+, Summary = "Fale com Grimm"}
+, 
+[14655] = {Title = "Ilusão do Vampiro", 
+Description = {"Quando estiver com todos os seus suprimentos para batalhar, avise o Monge Grimm."}
+, Summary = "Fale com Grimm"}
+, 
+[14656] = {Title = "Ilusão do Vampiro", 
+Description = {"Voc\234 est\225 na Ilusão do Vampiro, seu objetivo \233 encontrar o grupo liderado pela Irm\227 Gemma e certificar-se de que eles estão seguros."}
+, Summary = "Ache a Irm\227 Gemma"}
+, 
+[14657] = {Title = "Ilusão do Vampiro", 
+Description = {"O membro do grupo que não voltou \233 Jojo. \201 um Bruxo com roupas típicas."}
+, Summary = "Encontre Jojo"}
+, 
+[14658] = {Title = "Ilusão do Vampiro", 
+Description = {"O membro do grupo que não voltou \233 Jubilee. \201 um Monge com roupas típicas."}
+, Summary = "Encontre Jubilee"}
+, 
+[14659] = {Title = "Ilusão do Vampiro", 
+Description = {"Bomi parece ter se perdido em pensamentos por um momento. Vamos tentar a conversa novamente depois de um tempo."}
+, Summary = "Fale com Bomi"}
+, 
+[14660] = {Title = "Sangue falso", 
+Description = {"Voc\234 precisa de alguns ingredientes para fazer sangue falso. Preciso de 10 Sangues Coagulados e 10 Seivas de Cogumelo."}
+, Summary = "Coletar itens"}
+, 
+[14661] = {Title = "Ilusão do Vampiro", 
+Description = {"Não estamos sozinhos aqui. Se voc\234 est\225 procurando uma festa, voc\234 deve se apressar."}
+, Summary = "Vamos encontrar o assistente"}
+, 
+[14662] = {Title = "Ilusão do Vampiro", 
+Description = {"Todos, parem! Algo cheira estranho..."}
+, Summary = "Fale com Qing"}
+, 
+[14663] = {Title = "Ilusão do Vampiro", 
+Description = {"Sinto cheiro de sangue!! Uma briga aconteceu em algum lugar! Sangue!!!"}
+, Summary = "V\225 para o local"}
+, 
+[14664] = {Title = "Ilusão do Vampiro", 
+Description = {"Quando Bomi viu o Drácula caído, ela se arrependeu e entendeu que tudo não passou de um mal entendido."}
+, Summary = "Fale com Bomi"}
+, 
+[14665] = {Title = "Ilusão do Vampiro", 
+Description = {"Preciso de um tempo. Aventureiros, por favor, visitem seu grupo."}
+, Summary = "Para Irm\227 Gemma"}
+, 
+[14666] = {Title = "Ilusão do Vampiro", 
+Description = {"Estamos aqui para ficar de olho neles para ter certeza de que estão indo bem. Volte para o Irmão Grimm e diga isso a ele."}
+, Summary = "Fale com Grimm"}
+, 
+[14667] = {Title = "Descanso Eterno", 
+Description = {"D\234 o descanso eterno para os mortos-vivos. Por favor, elimine 10 de todas as 3 espécies."}
+, Summary = "Elimine os monstros"}
+, 
+[14668] = {Title = "[Espera] Descanso Eterno", 
+Description = {"Voc\234 fez um trabalho muito bom. At\233 os aventureiros precisam descansar. Por favor, volte depois do amanhecer. - Irm\227 Gemma"}
+, Summary = "Volte amanh\227"}
+, 
+[14669] = {Title = "Doce Sonho", 
+Description = {"Elimine 10 Doces Pesadelos e traga 20 Crinas de Pesadelo para Antônio."}
+, Summary = "20 Crinas de Pesadelo"}
+, 
+[14670] = {Title = "[Espera] Doce Sonho", 
+Description = {"Por favor, volte depois do amanhecer. - Antônio"}
+, Summary = "Volte amanh\227"}
+, 
+[14671] = {Title = "Coleta de Sangue", 
+Description = {"Preciso de 10 Sangues Coagulados e 10 Seivas de Cogumelo. Também gostaria que eliminasse 5 Mattiliar e 5 Cogumelos Explosivos."}
+, Summary = "Colete os itens"}
+, 
+[14674] = {Title = "[Espera] Coleta de Sangue", 
+Description = {"Ainda assim, não estou com fome. Depois do amanhecer, estarei com fome novamente. Por favor, volte então. - Bomi"}
+, Summary = "Volte amanh\227"}
+, 
+[14675] = {Title = "Barulho Irritante", 
+Description = {"Estou irritado com aquele morcego barulhento. Elimine 10 Mattiliar e traga 20 Cabelos de Morcego."}
+, Summary = "20 Cabelos de Morcego"}
+, 
+[14676] = {Title = "[Espera] Barulho Irritante", 
+Description = {"Est\225 tudo tranquilo agora graças a voc\234. Mas com o tempo, eles virão novamente. Então volte e me ajude - Qing."}
+, Summary = "Volte amanh\227"}
+, 
+[14677] = {Title = "Luz para Todos", 
+Description = {"Preciso de 10 Coágulos de Pesadelo e 10 Esporos Brilhantes."}
+, Summary = "Colete os itens"}
+, 
+[14678] = {Title = "[Espera] Luz para Todos", 
+Description = {"Quando o brilho dos esporos brilhantes desaparecer, por favor, volte. Vou estudar muito com isso. - Jojo"}
+, Summary = "Volte amanh\227"}
+, 
+[14679] = {Title = "Curiosa e Empolgada", 
+Description = {"Me traga 10 Folhas Secas de Yggdrasil e 10 Pentáculos Suspeitos. Elimine 5 Mortos-Vivos de cada tipo."}
+, Summary = "Colete os itens"}
+, 
+[14680] = {Title = "[Espera] Curiosa e Empolgada", 
+Description = {"Eu tenho que estudar isso agora, então eu não tenho tempo para falar. - Mojo"}
+, Summary = "Volte amanh\227"}
+, 
+[16096] = {Title = "Ilusão da Tartaruga", 
+Description = {"Enquanto conversava com Eilvar, voc\234 chegou a um lugar desconhecido. Converse com a garota na sua frente."}
+, Summary = "Fale com a Garota"}
+, 
+[16097] = {Title = "Ilusão da Tartaruga", 
+Description = {"A garota apontou alguns lugares. Vamos encontrar os rastros do Arqueólogo Leiphen na vila das boas tartarugas."}
+, Summary = "Homem Impaciente"}
+, 
+[16098] = {Title = "Ilusão da Tartaruga", 
+Description = {"A garota apontou alguns lugares. Vamos encontrar os rastros do Arqueólogo Leiphen na vila das boas tartarugas."}
+, Summary = "Soldado bravo"}
+, 
+[16099] = {Title = "Ilusão da Tartaruga", 
+Description = {"A garota apontou alguns lugares. Vamos encontrar os vestígios do Arqueólogo Leiphen no Palácio Tartaruga."}
+, Summary = "Moça debilitada"}
+, 
+[16100] = {Title = "Ilusão da Tartaruga", 
+Description = {"H\225 mais um lugar para procurar. Vamos encontrar os vestígios do Arqueólogo Leiphen no Palácio Tartaruga."}
+, Summary = "Ache Leiphen"}
+, 
+[16101] = {Title = "Ilusão da Tartaruga", 
+Description = {"Elimine 10 de cada tartaruga: Batedores e Solidificadores Ominosos e entregue 10 Carnes Estragadas para Leiphen."}
+, Summary = "10 Carnes Estragadas"}
+, 
+[16102] = {Title = "Ilusão da Tartaruga", 
+Description = {"Elimine 10 de cada tartaruga: Aquecedores e Congeladores Ominosos para Leiphen."}
+, Summary = "Volte a Leiphen"}
+, 
+[16103] = {Title = "Ilusão da Tartaruga", 
+Description = {"Vamos falar com os aos aldeões aqui, conforme solicitado por Leiphen."}
+, Summary = "Moça debilitada"}
+, 
+[16104] = {Title = "Ilusão da Tartaruga", 
+Description = {"Vamos correr para a garota na entrada da Vila das Boas Tartarugas."}
+, Summary = "Fale com a Garota"}
+, 
+[16105] = {Title = "Promessa", 
+Description = {"Voc\234 fez uma promessa para Nalin. Volte amanh\227 na Ilusão da Tartaruga para cumprir com o que prometeu."}
+, Summary = "Volte amanh\227"}
+, 
+[16106] = {Title = "Não vou esquecer!", 
+Description = {"Vamos ao Palácio das Tartarugas para encontrar o Arqueólogo Leiphen para reviver a memória da garota."}
+, Summary = "Fale com Ierpen no sombrio Guyanggung"}
+, 
+[16107] = {Title = "Não vou esquecer!", 
+Description = {"Vamos voltar para a garota junto com o Arqueólogo Leiphen."}
+, Summary = "Fale com a Garota"}
+, 
+[16108] = {Title = "[Espera] Não vou esquecer!", 
+Description = {"Esta missão \233 uma missão diária, e voc\234 pode receb\234-la novamente quando o tempo de espera expirar."}
+, Summary = "Volte amanh\227"}
+, 
+[16109] = {Title = "Espírito Obsessor", 
+Description = {"Vamos caçar 10 Agressores Ominosos e entregar 5 Metais Corroídos."}
+, Summary = "5 Metais Corroídos"}
+, 
+[16110] = {Title = "[Espera] Espírito Obsessor", 
+Description = {"Esta missão \233 uma missão diária, e voc\234 pode receb\234-la novamente quando o tempo de espera expirar."}
+, Summary = "Volte amanh\227"}
+, 
+[16111] = {Title = "Fome eterna", 
+Description = {"Elimine 10 de cada tartaruga: Batedores e Solidificadores Ominosos e entregue 10 Carnes Estragadas para a Moça debilitada."}
+, Summary = "10 Carnes Estragadas"}
+, 
+[16112] = {Title = "Fome eterna", 
+Description = {"Elimine 10 de cada tartaruga: Aquecedores e Congeladores Ominosos para a Moça debilitada."}
+, Summary = "Moça debilitada"}
+, 
+[16113] = {Title = "[Espera] Fome eterna", 
+Description = {"Esta missão \233 uma missão diária, e voc\234 pode receb\234-la novamente quando o tempo de espera expirar."}
+, Summary = "Volte amanh\227"}
+, 
+[16114] = {Title = "Ilusão da Tartaruga", 
+Description = {""}
+, Summary = "Fale com Eilvar"}
+, 
+[16115] = {Title = "Ilusão da Tartaruga", 
+Description = {""}
+, Summary = "Fale com a Garota"}
+, 
+[16116] = {Title = "Ilusão da Tartaruga", 
+Description = {"Fale com a garota no meio da solitária vila das boas tartarugas novamente."}
+, Summary = "Fale com a Garota"}
+, 
+[16117] = {Title = "Ilusão da Tartaruga", 
+Description = {"Fale com a garota no meio da solitária vila das boas tartarugas novamente."}
+, Summary = "Fale com a garota"}
 }
 

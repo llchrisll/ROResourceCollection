@@ -16,7 +16,7 @@ que_avan01.rsw#
 1@ecl.rsw#
 ecl_tdun04.rsw#
 
-ma_scene01.rsw#
+
 ma_in01.rsw#
 ma_zif01.rsw#
 ma_zif02.rsw#

@@ -64,6 +64,8 @@ Navi_Map = {
 , 
 {"aldebaran", "Al De Baran ", 5001, 280, 280}
 , 
+{"ama_dun01", "Labirinto de Tatames ", 5001, 240, 240}
+, 
 {"ama_dun02", "Campo de Batalha da Floresta Subterrânea ", 5001, 240, 240}
 , 
 {"ama_dun03", "Templo Subterrâneo de Amatsu ", 5001, 240, 240}
@@ -246,6 +248,8 @@ Navi_Map = {
 , 
 {"force_4-1", "Luta Contra o Tempo ", 5001, 200, 200}
 , 
+{"gef_d01_i", "Page 250", 5001, 300, 300}
+, 
 {"gef_dun00", "Calabouço de Geffen (1) ", 5001, 200, 200}
 , 
 {"gef_dun01", "Calabouço de Geffen (2) ", 5001, 300, 300}
@@ -354,6 +358,8 @@ Navi_Map = {
 , 
 {"gon_dun01", "Santuário de Xi Wang Mu ", 5001, 300, 300}
 , 
+{"gon_dun02", "Tabuleiro de Go ", 5001, 300, 300}
+, 
 {"gon_dun03", "Terra das Fadas ", 5001, 240, 300}
 , 
 {"gon_fild01", "Campo de Kunlun ", 5001, 400, 400}
@@ -368,7 +374,7 @@ Navi_Map = {
 , 
 {"hu_fild02", "Campos de Hugel ", 5001, 400, 400}
 , 
-{"hu_fild03", "Campos de Hugel ", 5001, 400, 400}
+{"hu_fild03", "Campo de Caça", 5001, 400, 400}
 , 
 {"hu_fild04", "Campos de Hugel ", 5001, 400, 400}
 , 
@@ -593,6 +599,8 @@ Navi_Map = {
 {"mid_campin", "Acampamento da Expedição da Aliança ", 5003, 400, 200}
 , 
 {"mjo_dun01", "Mina Abandonada de Mjolnir (1) ", 5001, 280, 340}
+, 
+{"mjo_dun02", "Mina Abandonada de Mjolnir (2) ", 5001, 400, 400}
 , 
 {"mjo_dun03", "Mina Abandonada de Mjolnir (3) ", 5001, 340, 280}
 , 
@@ -862,6 +870,12 @@ Navi_Map = {
 , 
 {"prt_lib_q", "Memorial das Famílias Reais [Passado] ", 5001, 160, 120}
 , 
+{"prt_maze01", "Labirinto da Floresta (1) ", 5001, 200, 200}
+, 
+{"prt_maze02", "Labirinto da Floresta (2) ", 5001, 200, 200}
+, 
+{"prt_maze03", "Labirinto da Floresta (3) ", 5001, 200, 200}
+, 
 {"prt_monk", "Abadia de Santa Capitolina ", 5001, 400, 300}
 , 
 {"prt_pri00", "Carceragem de Prontera ", 5001, 200, 200}
@@ -1025,6 +1039,10 @@ Navi_Map = {
 {"treasure_n1", "Navio Fantasma 01 - Pesadelo ", 5001, 200, 200}
 , 
 {"treasure_n2", "Navio Fantasma 02 - Pesadelo ", 5001, 200, 200}
+, 
+{"tur_d03_i", "Gloomy Turtle Vill", 5001, 248, 248}
+, 
+{"tur_d04_i", "Lonely Turtle Palace", 5001, 200, 200}
 , 
 {"tur_dun01", "Ilha da Tartaruga ", 5001, 300, 300}
 , 

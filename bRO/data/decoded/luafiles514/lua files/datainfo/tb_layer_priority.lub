@@ -3,7 +3,7 @@
 
 -- params : ...
 -- function num : 0
-TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, Default_Robe = 400, 
+TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, 
 Items_List = {
 [ACCESSORY_IDs.ACCESSORY_L_RibbonMuff_Red] = {Default = 303, 
 Direction = {}
@@ -113,19 +113,11 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Japanes_Hair] = {Default = 102, 
-Direction = {}
-}
-, 
 [ACCESSORY_IDs.ACCESSORY_C_Volume_Low_Twin_CB] = {Default = 102, 
 Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_Side_Pigtail_YL] = {Default = 102, 
-Direction = {}
-}
-, 
-[ACCESSORY_IDs.ACCESSORY_C_Blanc_Neige_Prince] = {Default = 102, 
 Direction = {}
 }
 , 
@@ -145,10 +137,6 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Rabbit_Winged_Robe] = {Default = 102, 
-Direction = {}
-}
-, 
 [ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig] = {Default = 102, 
 Direction = {}
 }
@@ -165,11 +153,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_BD] = {Default = 102, 
-Direction = {}
-}
-, 
-[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_SV] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_SV] = {Default = 102, 
 Direction = {}
 }
 , 
@@ -193,6 +177,46 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_BD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Inner_Color_Long] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Hair_Bun_Wave] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_BL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_LPP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_WH] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Volume_Low_Twin] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Female] = {Default = 102, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_Straight_Long_YL] = {Default = 102, 
 Direction = {}
 }
@@ -201,11 +225,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Male] = {Default = 102, 
-Direction = {}
-}
-, 
-[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Female] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_Mushroom_Hair] = {Default = 102, 
 Direction = {}
 }
 , 
@@ -213,15 +233,159 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Piamette_Roll_Hair_SV] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_WH] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_YL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PK] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_RD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_GN] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_LB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_CB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_YL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_BG] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_JBL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_WH] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_OM] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_LPP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_SV] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_BU] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_PK] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_WH] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_LPP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_YL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_BL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_GN] = {Default = 102, 
 Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Nine_Tail_Fox_Hair] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Medium_Wave] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Lolita_Two_Side_Up] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_BD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_SV] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Electro_Two_Side_Up] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_Short] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_Long] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Piamette_Roll_Hair] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig_Peach] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Lolita_Two_Side_Up] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Piamette_Roll_Hair_SV] = {Default = 102, 
 Direction = {}
 }
 , 
@@ -257,35 +421,31 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Medium_Wave] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Low_Twin] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Lolita_Two_Side_Up] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_Fishbone_Hair] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_BD] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_SV] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Electro_Two_Side_Up] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_Japanes_Hair] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_Short] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_C_Blanc_Neige_Prince] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_Long] = {Default = 102, 
-Direction = {}
-}
-, 
-[ACCESSORY_IDs.ACCESSORY_C_Piamette_Roll_Hair] = {Default = 102, 
+[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Male] = {Default = 102, 
 Direction = {}
 }
 , 
@@ -365,6 +525,70 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Low_Twin] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BU] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_RD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_YL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_BU] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_GN] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PK] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_CB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_SV] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Medium_Wave_BD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_WH] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_LPP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_PK] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_LB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_YL] = {Default = 102, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_SPARE_CARD] = {Default = 303, 
 Direction = {}
 }
@@ -440,11 +664,7 @@ GetLayerPriority = function(direction, layer, acc_id)
         if layer == 4 then
           return TB_Layer_Priority.Default_Mid
         else
-          if layer == 8 then
-            return TB_Layer_Priority.Default_Robe
-          else
-            return -1
-          end
+          return -1
         end
       end
     end
