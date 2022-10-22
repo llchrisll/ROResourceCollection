@@ -855,7 +855,22 @@ itemInfo format:
 	[0] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"E-Undeadの",
+			"改造オーブ。",
+			"バルムント邸 室内の",
+			"食堂にいる",
+			"ライザーに持っていくと",
+			"オートマティックシリーズに",
+			"エンチャントをしてくれる。",
+			" ",
+			"^ff0000Type-Eの",
+			"改造オーブは",
+			"同一の装備に1つのみ",
+			"使用可狽ﾅす^000000",
+			" ",
+			"重量 : ^7777771^000000"
+		},
 		identifiedDisplayName = "",
 		identifiedResourceName = "",
 		identifiedDescriptionName = {
@@ -3082,7 +3097,7 @@ itemInfo format:
 	[11059] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "攻城戦TEレンタルアイテムリスト",
 		identifiedResourceName = "",
 		identifiedDescriptionName = {
@@ -10235,7 +10250,7 @@ itemInfo format:
 	[30002] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "",
 		identifiedResourceName = "",
 		identifiedDescriptionName = {
