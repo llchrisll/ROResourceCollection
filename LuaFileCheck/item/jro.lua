@@ -855,26 +855,10 @@ itemInfo format:
 	[0] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "",
-		unidentifiedDescriptionName = {
-			"E-Undead‚Ì",
-			"‰ü‘¢ƒI[ƒuB",
-			"ƒoƒ‹ƒ€ƒ“ƒg“@ º“à‚Ì",
-			"H“°‚É‚¢‚é",
-			"ƒ‰ƒCƒU[‚É‚Á‚Ä‚¢‚­‚Æ",
-			"ƒI[ƒgƒ}ƒeƒBƒbƒNƒVƒŠ[ƒY‚É",
-			"ƒGƒ“ƒ`ƒƒƒ“ƒg‚ğ‚µ‚Ä‚­‚ê‚éB",
-			" ",
-			"^ff0000Type-E‚Ì",
-			"‰ü‘¢ƒI[ƒu‚Í",
-			"“¯ˆê‚Ì‘•”õ‚É1‚Â‚Ì‚İ",
-			"g—p‰Â”‚Å‚·^000000",
-			" ",
-			"d—Ê : ^7777771^000000"
-		},
+		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "",
 		identifiedResourceName = "",
-		identifiedDescriptionName = {
-		},
+		identifiedDescriptionName = { "" },
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -882,7 +866,7 @@ itemInfo format:
 	[600] = {
 		unidentifiedDisplayName = "ƒ^ƒƒbƒgƒfƒbƒL",
 		unidentifiedResourceName = "Zilant_Tarot_Deck",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–‚—‚ÌƒXƒLƒ‹ƒJ[ƒh",
 		identifiedResourceName = "Zilant_Tarot_Deck",
 		identifiedDescriptionName = {
@@ -922,7 +906,7 @@ itemInfo format:
 	[646] = {
 		unidentifiedDisplayName = "‰¤‹‰ƒƒƒ“ƒpƒ“",
 		unidentifiedResourceName = "melon_bread",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‹‰ƒƒƒ“ƒpƒ“",
 		identifiedResourceName = "melon_bread",
 		identifiedDescriptionName = {
@@ -953,7 +937,7 @@ itemInfo format:
 	[647] = {
 		unidentifiedDisplayName = "ƒyƒRƒyƒR‚Ìèj",
 		unidentifiedResourceName = "¸»°í»ß",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒRƒyƒR‚Ìèj",
 		identifiedResourceName = "¸»°í»ß",
 		identifiedDescriptionName = {
@@ -982,7 +966,7 @@ itemInfo format:
 	[779] = {
 		unidentifiedDisplayName = "[ƒuƒ‰ƒ“ƒN] ƒjƒuƒ‹ƒŒƒIƒ“ƒJ[ƒh",
 		unidentifiedResourceName = "½ºÆä¾îÄ«µå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒuƒ‰ƒ“ƒN] ƒjƒuƒ‹ƒŒƒIƒ“ƒJ[ƒh",
 		identifiedResourceName = "½ºÆä¾îÄ«µå",
 		identifiedDescriptionName = {
@@ -1007,7 +991,7 @@ itemInfo format:
 	[780] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒnƒ“ƒ}[",
 		unidentifiedResourceName = "°­Ã¶¸ÁÄ¡",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒnƒ“ƒ}[",
 		identifiedResourceName = "°­Ã¶¸ÁÄ¡",
 		identifiedDescriptionName = {
@@ -1029,7 +1013,7 @@ itemInfo format:
 	[781] = {
 		unidentifiedDisplayName = "‹L”Od‰İ",
 		unidentifiedResourceName = "ÀÏÀÏÄÚÀÎ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹L”Od‰İ",
 		identifiedResourceName = "ÀÏÀÏÄÚÀÎ",
 		identifiedDescriptionName = {
@@ -1045,7 +1029,7 @@ itemInfo format:
 	[782] = {
 		unidentifiedDisplayName = "[2021]BitCashƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2021]BitCashƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -1077,7 +1061,7 @@ itemInfo format:
 	[783] = {
 		unidentifiedDisplayName = "–À‹{’²¸vŒ£‚ÌØ",
 		unidentifiedResourceName = "ÀüÅõÈÖÀå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–À‹{’²¸vŒ£‚ÌØ",
 		identifiedResourceName = "ÀüÅõÈÖÀå",
 		identifiedDescriptionName = {
@@ -1094,7 +1078,7 @@ itemInfo format:
 	[2400] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "½´Áî",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ|ƒ‹ƒbƒNƒXƒVƒ…[ƒY",
 		identifiedResourceName = "Grace_Attack_Boots",
 		identifiedDescriptionName = {
@@ -1157,7 +1141,7 @@ itemInfo format:
 	[7686] = {
 		unidentifiedDisplayName = "ƒ‹[ƒ“ƒiƒCƒgVIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‹[ƒ“ƒiƒCƒgVIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -1201,7 +1185,7 @@ itemInfo format:
 	[7687] = {
 		unidentifiedDisplayName = "ƒ‹[ƒ“ƒiƒCƒgƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‹[ƒ“ƒiƒCƒgƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -1247,7 +1231,7 @@ itemInfo format:
 	[7688] = {
 		unidentifiedDisplayName = "ƒMƒƒ`ƒ“ƒNƒƒXVIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒMƒƒ`ƒ“ƒNƒƒXVIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -1291,7 +1275,7 @@ itemInfo format:
 	[7856] = {
 		unidentifiedDisplayName = "ƒMƒƒ`ƒ“ƒNƒƒXƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒMƒƒ`ƒ“ƒNƒƒXƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -1337,7 +1321,7 @@ itemInfo format:
 	[7890] = {
 		unidentifiedDisplayName = "ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -1369,7 +1353,7 @@ itemInfo format:
 	[9135] = {
 		unidentifiedDisplayName = "ƒƒCƒ‹ƒhƒ[ƒY‚Ì—‘",
 		unidentifiedResourceName = "Ç³¼Ó¼º¾Ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒCƒ‹ƒhƒ[ƒY‚Ì—‘",
 		identifiedResourceName = "Ç³¼Ó¼º¾Ë",
 		identifiedDescriptionName = {
@@ -1392,7 +1376,7 @@ itemInfo format:
 	[9136] = {
 		unidentifiedDisplayName = "ƒGƒhƒK‚Ì—‘",
 		unidentifiedResourceName = "Eddga_Egg",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒhƒK‚Ì—‘",
 		identifiedResourceName = "Eddga_Egg",
 		identifiedDescriptionName = {
@@ -1438,7 +1422,7 @@ itemInfo format:
 	[9956] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ÇŞ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰Ä”ü‚Ì–‹‚Ì“à•Ù“–",
 		identifiedResourceName = "C_Lunch_box",
 		identifiedDescriptionName = {
@@ -1469,7 +1453,7 @@ itemInfo format:
 	[9957] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•Ù“–‚Ì•ï(50Ü)",
 		identifiedResourceName = "º¸µû¸®¸ğ",
 		identifiedDescriptionName = {
@@ -1499,7 +1483,7 @@ itemInfo format:
 	[9958] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•Ù“–‚Ì•ï(150Ü)",
 		identifiedResourceName = "º¸µû¸®¸ğ",
 		identifiedDescriptionName = {
@@ -1568,7 +1552,7 @@ itemInfo format:
 	[10500] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜŠ£—jq&‚¦‚È‚±Selection",
 		unidentifiedResourceName = "Costama_Egg75",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜŠ£—jq&‚¦‚È‚±Selection",
 		identifiedResourceName = "Costama_Egg75",
 		identifiedDescriptionName = {
@@ -1606,7 +1590,7 @@ itemInfo format:
 	[10501] = {
 		unidentifiedDisplayName = "ƒƒJƒjƒbƒNVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ}[ƒ`ƒƒƒ“ƒg(ƒuƒ‰ƒbƒNƒXƒ~ƒX)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒJƒjƒbƒNVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ}[ƒ`ƒƒƒ“ƒg(ƒuƒ‰ƒbƒNƒXƒ~ƒX)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -1663,7 +1647,7 @@ itemInfo format:
 	[10502] = {
 		unidentifiedDisplayName = "ƒƒJƒjƒbƒNƒƒEƒ‹‚Ì”  [“]¶ƒ}[ƒ`ƒƒƒ“ƒg(ƒuƒ‰ƒbƒNƒXƒ~ƒX)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒJƒjƒbƒNƒƒEƒ‹‚Ì”  [“]¶ƒ}[ƒ`ƒƒƒ“ƒg(ƒuƒ‰ƒbƒNƒXƒ~ƒX)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -1728,7 +1712,7 @@ itemInfo format:
 	[10503] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜCoordinateII",
 		unidentifiedResourceName = "¿ë¸ÍÇÑÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜCoordinateII",
 		identifiedResourceName = "¿ë¸ÍÇÑÀÇÁö",
 		identifiedDescriptionName = {
@@ -1763,7 +1747,7 @@ itemInfo format:
 	[10504] = {
 		unidentifiedDisplayName = "ƒ‹[ƒ“ƒiƒCƒgVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ[ƒhƒ}ƒ“(ƒiƒCƒg)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‹[ƒ“ƒiƒCƒgVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ[ƒhƒ}ƒ“(ƒiƒCƒg)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -1820,7 +1804,7 @@ itemInfo format:
 	[10505] = {
 		unidentifiedDisplayName = "ƒ‹[ƒ“ƒiƒCƒgƒƒEƒ‹‚Ì”  [“]¶ƒ[ƒhƒ}ƒ“(ƒiƒCƒg)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‹[ƒ“ƒiƒCƒgƒƒEƒ‹‚Ì”  [“]¶ƒ[ƒhƒ}ƒ“(ƒiƒCƒg)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -1927,7 +1911,7 @@ itemInfo format:
 	[10507] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2019summer] •à—…µ¸˜BƒtƒH[ƒX‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -1969,7 +1953,7 @@ itemInfo format:
 	[10508] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2019summer] ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -2008,7 +1992,7 @@ itemInfo format:
 	[10509] = {
 		unidentifiedDisplayName = "[2019] “Á•Êƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2019] “Á•Êƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2046,7 +2030,7 @@ itemInfo format:
 	[10510] = {
 		unidentifiedDisplayName = "ƒnƒƒEƒBƒ“ƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒnƒƒEƒBƒ“ƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -2085,7 +2069,7 @@ itemInfo format:
 	[10511] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[17thAnniversary] •à—…µ¸˜BƒtƒH[ƒX‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -2127,7 +2111,7 @@ itemInfo format:
 	[10512] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[17thAnniversary] ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -2166,7 +2150,7 @@ itemInfo format:
 	[10513] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "3ŸEƒXƒyƒVƒƒƒ‹ƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -2208,7 +2192,7 @@ itemInfo format:
 	[10514] = {
 		unidentifiedDisplayName = "[2020”N]‹†‹É¸˜Bƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "»¡°£»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2020”N]‹†‹É¸˜Bƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "»¡°£»óÀÚ",
 		identifiedDescriptionName = {
@@ -2249,7 +2233,7 @@ itemInfo format:
 	[10515] = {
 		unidentifiedDisplayName = "[2020t]•œƒRƒX‚½‚ÜƒJ[ƒjƒoƒ‹‚Ì” ",
 		unidentifiedResourceName = "³É¹îÁö»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2020t]•œƒRƒX‚½‚ÜƒJ[ƒjƒoƒ‹‚Ì” ",
 		identifiedResourceName = "³É¹îÁö»óÀÚ",
 		identifiedDescriptionName = {
@@ -2290,7 +2274,7 @@ itemInfo format:
 	[10518] = {
 		unidentifiedDisplayName = "ƒMƒƒ`ƒ“ƒNƒƒXVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒV[ƒt(ƒAƒTƒVƒ“)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒMƒƒ`ƒ“ƒNƒƒXVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒV[ƒt(ƒAƒTƒVƒ“)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2347,7 +2331,7 @@ itemInfo format:
 	[10519] = {
 		unidentifiedDisplayName = "ƒMƒƒ`ƒ“ƒNƒƒXƒƒEƒ‹‚Ì”  [“]¶ƒV[ƒt(ƒAƒTƒVƒ“)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒMƒƒ`ƒ“ƒNƒƒXƒƒEƒ‹‚Ì”  [“]¶ƒV[ƒt(ƒAƒTƒVƒ“)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2412,7 +2396,7 @@ itemInfo format:
 	[10521] = {
 		unidentifiedDisplayName = "ƒWƒFƒlƒeƒBƒbƒNVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ}[ƒ`ƒƒƒ“ƒg(ƒAƒ‹ƒPƒ~ƒXƒg)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒWƒFƒlƒeƒBƒbƒNVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ}[ƒ`ƒƒƒ“ƒg(ƒAƒ‹ƒPƒ~ƒXƒg)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2469,7 +2453,7 @@ itemInfo format:
 	[10522] = {
 		unidentifiedDisplayName = "ƒWƒFƒlƒeƒBƒbƒNƒƒEƒ‹‚Ì”  [“]¶ƒ}[ƒ`ƒƒƒ“ƒg(ƒAƒ‹ƒPƒ~ƒXƒg)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒWƒFƒlƒeƒBƒbƒNƒƒEƒ‹‚Ì”  [“]¶ƒ}[ƒ`ƒƒƒ“ƒg(ƒAƒ‹ƒPƒ~ƒXƒg)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2534,7 +2518,7 @@ itemInfo format:
 	[10526] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜSpringPartyIII",
 		unidentifiedResourceName = "Costama_Egg77",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜSpringPartyIII",
 		identifiedResourceName = "Costama_Egg77",
 		identifiedDescriptionName = {
@@ -2570,7 +2554,7 @@ itemInfo format:
 	[10527] = {
 		unidentifiedDisplayName = "ƒEƒH[ƒƒbƒNVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ}ƒWƒVƒƒƒ“(ƒEƒBƒU[ƒh)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒH[ƒƒbƒNVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ}ƒWƒVƒƒƒ“(ƒEƒBƒU[ƒh)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2627,7 +2611,7 @@ itemInfo format:
 	[10528] = {
 		unidentifiedDisplayName = "ƒEƒH[ƒƒbƒNƒƒEƒ‹‚Ì”  [“]¶ƒ}ƒWƒVƒƒƒ“(ƒEƒBƒU[ƒh)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒH[ƒƒbƒNƒƒEƒ‹‚Ì”  [“]¶ƒ}ƒWƒVƒƒƒ“(ƒEƒBƒU[ƒh)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2692,7 +2676,7 @@ itemInfo format:
 	[10529] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜJuneBrideII",
 		unidentifiedResourceName = "Æò¾È½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜJuneBrideII",
 		identifiedResourceName = "Æò¾È½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -2728,7 +2712,7 @@ itemInfo format:
 	[10530] = {
 		unidentifiedDisplayName = "ƒƒCƒ„ƒ‹ƒK[ƒhVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ[ƒhƒ}ƒ“(ƒNƒ‹ƒZƒCƒ [)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒCƒ„ƒ‹ƒK[ƒhVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ[ƒhƒ}ƒ“(ƒNƒ‹ƒZƒCƒ [)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2785,7 +2769,7 @@ itemInfo format:
 	[10531] = {
 		unidentifiedDisplayName = "ƒƒCƒ„ƒ‹ƒK[ƒhƒƒEƒ‹‚Ì”  [“]¶ƒ[ƒhƒ}ƒ“(ƒNƒ‹ƒZƒCƒ [)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒCƒ„ƒ‹ƒK[ƒhƒƒEƒ‹‚Ì”  [“]¶ƒ[ƒhƒ}ƒ“(ƒNƒ‹ƒZƒCƒ [)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -2850,7 +2834,7 @@ itemInfo format:
 	[10571] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionVI(–¾F)",
 		unidentifiedResourceName = "Costama_Egg93_1",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionVI(–¾F)",
 		identifiedResourceName = "Costama_Egg93_1",
 		identifiedDescriptionName = {
@@ -2899,7 +2883,7 @@ itemInfo format:
 	[10572] = {
 		unidentifiedDisplayName = "•œƒRƒX‚½‚ÜˆøŠ·Œ”10ŒÂ‚Ì” ",
 		unidentifiedResourceName = "³É¹îÁö»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•œƒRƒX‚½‚ÜˆøŠ·Œ”10ŒÂ‚Ì” ",
 		identifiedResourceName = "³É¹îÁö»óÀÚ",
 		identifiedDescriptionName = {
@@ -2935,7 +2919,7 @@ itemInfo format:
 	[10573] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2022”N]“Á‘IƒlƒRŠÊ(ƒJƒj)‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -2975,7 +2959,7 @@ itemInfo format:
 	[10598] = {
 		unidentifiedDisplayName = "[2020]BitCashƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2020]BitCashƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -3017,7 +3001,7 @@ itemInfo format:
 	[10600] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜRoyal",
 		unidentifiedResourceName = "°ñµå½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜRoyal",
 		identifiedResourceName = "°ñµå½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -3052,7 +3036,7 @@ itemInfo format:
 	[10626] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionVII(ˆÃF)",
 		unidentifiedResourceName = "Costama_Egg105_2",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionVII(ˆÃF)",
 		identifiedResourceName = "Costama_Egg105_2",
 		identifiedDescriptionName = {
@@ -3097,11 +3081,10 @@ itemInfo format:
 	[11059] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "",
-		unidentifiedDescriptionName = {},
+		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "UéíTEƒŒƒ“ƒ^ƒ‹ƒAƒCƒeƒ€ƒŠƒXƒg",
 		identifiedResourceName = "",
-		identifiedDescriptionName = {
-		},
+		identifiedDescriptionName = { "" },
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -3109,7 +3092,7 @@ itemInfo format:
 	[15298] = {
 		unidentifiedDisplayName = "ƒAƒNƒZƒTƒŠ[",
 		unidentifiedResourceName = "¹İÈ¥ºÎ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "®’b˜B•„",
 		identifiedResourceName = "¹İÈ¥ºÎ",
 		identifiedDescriptionName = {
@@ -3140,7 +3123,7 @@ itemInfo format:
 	[15299] = {
 		unidentifiedDisplayName = "ƒAƒNƒZƒTƒŠ[",
 		unidentifiedResourceName = "¹İÈ¥ºÎ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "®’b˜B•„(—Ç)",
 		identifiedResourceName = "¹İÈ¥ºÎ",
 		identifiedDescriptionName = {
@@ -3171,7 +3154,7 @@ itemInfo format:
 	[15408] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚q‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Leo_Mail_J",
 		identifiedDescriptionName = {
@@ -3225,7 +3208,7 @@ itemInfo format:
 	[15418] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“V”‰‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Libra_Mail_J",
 		identifiedDescriptionName = {
@@ -3286,7 +3269,7 @@ itemInfo format:
 	[15423] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒŠƒ…[ƒWƒ‡ƒ“ƒSƒ”ƒjƒ…‚ÌŠZ",
 		identifiedResourceName = "Goibne_Armor_IL",
 		identifiedDescriptionName = {
@@ -3338,7 +3321,7 @@ itemInfo format:
 	[15424] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“Vå™‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Scorpio_Mail_J",
 		identifiedDescriptionName = {
@@ -3394,7 +3377,7 @@ itemInfo format:
 	[15425] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹à‹‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Taurus_Mail_J",
 		identifiedDescriptionName = {
@@ -3453,7 +3436,7 @@ itemInfo format:
 	[15426] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•ó•r‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Aquarius_Mail_J",
 		identifiedDescriptionName = {
@@ -3515,7 +3498,7 @@ itemInfo format:
 	[15447] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ|ƒ‹ƒbƒNƒXƒ[ƒu",
 		identifiedResourceName = "Grace_Sun_Suit",
 		identifiedDescriptionName = {
@@ -3574,7 +3557,7 @@ itemInfo format:
 	[15448] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒƒLƒIƒ“ƒ[ƒu",
 		identifiedResourceName = "Grace_Explosion_Robe",
 		identifiedDescriptionName = {
@@ -3632,7 +3615,7 @@ itemInfo format:
 	[15823] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ|ƒ‹ƒbƒNƒXƒNƒ‰ƒEƒ“",
 		identifiedResourceName = "±İ°ü¸ğÀÚ",
 		identifiedDescriptionName = {
@@ -3685,7 +3668,7 @@ itemInfo format:
 	[15824] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒƒLƒIƒ“ƒNƒ‰ƒEƒ“",
 		identifiedResourceName = "ºÀÈ²°ü",
 		identifiedDescriptionName = {
@@ -3856,7 +3839,7 @@ itemInfo format:
 	[17908] = {
 		unidentifiedDisplayName = "M—Š‚ÌØ‚Ì” ",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "M—Š‚ÌØ‚Ì” ",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -3888,7 +3871,7 @@ itemInfo format:
 	[17909] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[16thPKG]ƒvƒ‰ƒƒbƒN¸˜BƒtƒH[ƒX‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -3930,7 +3913,7 @@ itemInfo format:
 	[17910] = {
 		unidentifiedDisplayName = "[2019”N]‹†‹É¸˜Bƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "»¡°£»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2019”N]‹†‹É¸˜Bƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "»¡°£»óÀÚ",
 		identifiedDescriptionName = {
@@ -3971,7 +3954,7 @@ itemInfo format:
 	[17911] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2019”N]‚‹‰ƒIƒCƒ‹‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -4009,7 +3992,7 @@ itemInfo format:
 	[17912] = {
 		unidentifiedDisplayName = "ƒnƒbƒs[ƒNƒŠƒXƒ}ƒXƒoƒbƒO",
 		unidentifiedResourceName = "»¡°£²Ù·¯¹Ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒnƒbƒs[ƒNƒŠƒXƒ}ƒXƒoƒbƒO",
 		identifiedResourceName = "»¡°£²Ù·¯¹Ì",
 		identifiedDescriptionName = {
@@ -4034,7 +4017,7 @@ itemInfo format:
 	[17913] = {
 		unidentifiedDisplayName = "[2019]•œƒRƒX‚½‚ÜƒV[ƒ‹‚Ì” ",
 		unidentifiedResourceName = "³É¹îÁö»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2019]•œƒRƒX‚½‚ÜƒV[ƒ‹‚Ì” ",
 		identifiedResourceName = "³É¹îÁö»óÀÚ",
 		identifiedDescriptionName = {
@@ -4072,7 +4055,7 @@ itemInfo format:
 	[17993] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionIV(–¾F)",
 		unidentifiedResourceName = "Costama_Egg73_1",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionIV(–¾F)",
 		identifiedResourceName = "Costama_Egg73_1",
 		identifiedDescriptionName = {
@@ -4117,7 +4100,7 @@ itemInfo format:
 	[17994] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionIV(ˆÃF)",
 		unidentifiedResourceName = "Costama_Egg73_2",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionIV(ˆÃF)",
 		identifiedResourceName = "Costama_Egg73_2",
 		identifiedDescriptionName = {
@@ -4162,7 +4145,7 @@ itemInfo format:
 	[17995] = {
 		unidentifiedDisplayName = "C—…VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒAƒRƒ‰ƒCƒg(ƒ‚ƒ“ƒN)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "C—…VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒAƒRƒ‰ƒCƒg(ƒ‚ƒ“ƒN)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -4219,7 +4202,7 @@ itemInfo format:
 	[17996] = {
 		unidentifiedDisplayName = "C—…ƒƒEƒ‹‚Ì”  [“]¶ƒAƒRƒ‰ƒCƒg(ƒ‚ƒ“ƒN)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "C—…ƒƒEƒ‹‚Ì”  [“]¶ƒAƒRƒ‰ƒCƒg(ƒ‚ƒ“ƒN)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -4284,7 +4267,7 @@ itemInfo format:
 	[17997] = {
 		unidentifiedDisplayName = "“]¶ƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“]¶ƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -4318,7 +4301,7 @@ itemInfo format:
 	[17998] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜMonstersVI",
 		unidentifiedResourceName = "¿µÈ¥ÀÇ½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜMonstersVI",
 		identifiedResourceName = "¿µÈ¥ÀÇ½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -4355,7 +4338,7 @@ itemInfo format:
 	[19440] = {
 		unidentifiedDisplayName = "Š•",
 		unidentifiedResourceName = "Æ¼¾Æ¶ó",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒAƒŠƒGƒXƒ ƒCƒAƒfƒ€",
 		identifiedResourceName = "¹é¾ç±Ãº¸°ü",
 		identifiedDescriptionName = {
@@ -4391,7 +4374,7 @@ itemInfo format:
 	[19441] = {
 		unidentifiedDisplayName = "Š•",
 		unidentifiedResourceName = "Æ¼¾Æ¶ó",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJƒvƒŠƒR[ƒ“ƒNƒ‰ƒEƒ“",
 		identifiedResourceName = "¸¶°¥±Ã¿Õ°ü",
 		identifiedDescriptionName = {
@@ -4430,7 +4413,7 @@ itemInfo format:
 	[19442] = {
 		unidentifiedDisplayName = "Š•",
 		unidentifiedResourceName = "Æ¼¾Æ¶ó",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒpƒCƒV[ƒYƒNƒ‰ƒEƒ“",
 		identifiedResourceName = "½Ö¾î±Ã¿Õ°ü",
 		identifiedDescriptionName = {
@@ -4469,7 +4452,7 @@ itemInfo format:
 	[19447] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚q‹{‚ÌƒNƒ‰ƒEƒ“",
 		identifiedResourceName = "»çÀÚ±Ã¿Õ°ü",
 		identifiedDescriptionName = {
@@ -4521,7 +4504,7 @@ itemInfo format:
 	[19468] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“V”‰‹{‚Ìƒ ƒCƒAƒfƒ€",
 		identifiedResourceName = "ÃµÄª±Ãº¸°ü",
 		identifiedDescriptionName = {
@@ -4589,7 +4572,7 @@ itemInfo format:
 	[19470] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒŠƒ…[ƒWƒ‡ƒ“ƒSƒ”ƒjƒ…‚ÌŠ•",
 		identifiedResourceName = "Goibne_Helmet_IL",
 		identifiedDescriptionName = {
@@ -4641,7 +4624,7 @@ itemInfo format:
 	[19471] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“Vå™‹{‚ÌƒNƒ‰ƒEƒ“",
 		identifiedResourceName = "ÃµÇæ±Ã¿Õ°ü",
 		identifiedDescriptionName = {
@@ -4693,7 +4676,7 @@ itemInfo format:
 	[19473] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹à‹‹{‚Ìƒ ƒCƒAƒfƒ€",
 		identifiedResourceName = "±İ¿ì±Ãº¸°ü",
 		identifiedDescriptionName = {
@@ -4745,7 +4728,7 @@ itemInfo format:
 	[19496] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•ó•r‹{‚ÌƒNƒ‰ƒEƒ“",
 		identifiedResourceName = "º¸º´±Ã¿Õ°ü",
 		identifiedDescriptionName = {
@@ -4800,7 +4783,7 @@ itemInfo format:
 	[19497] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ÇŞ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒtƒ@ƒ“ƒgƒ€ƒIƒuƒ}ƒXƒJƒŒ[ƒh",
 		identifiedResourceName = "Phantom_Of_Masquerade",
 		identifiedDescriptionName = {
@@ -4863,7 +4846,7 @@ itemInfo format:
 	[20951] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚q‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Leo_Mantle_J",
 		identifiedDescriptionName = {
@@ -4920,7 +4903,7 @@ itemInfo format:
 	[20970] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“V”‰‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Libra_Manteau_J",
 		identifiedDescriptionName = {
@@ -4985,7 +4968,7 @@ itemInfo format:
 	[20971] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹à‹‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Taurus_Manteau_J",
 		identifiedDescriptionName = {
@@ -5048,7 +5031,7 @@ itemInfo format:
 	[20972] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•ó•r‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Aquarius_Manteau_J",
 		identifiedDescriptionName = {
@@ -5110,7 +5093,7 @@ itemInfo format:
 	[20974] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒsƒIƒj[ƒ}ƒ~[‚Ìƒt[ƒh",
 		identifiedResourceName = "»ş·¼¸ÁÅä",
 		identifiedDescriptionName = {
@@ -5145,7 +5128,7 @@ itemInfo format:
 	[20975] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒŠƒ…[ƒWƒ‡ƒ“ƒSƒ”ƒjƒ…‚ÌŒ¨ü‚è",
 		identifiedResourceName = "Goibne_Shoulder_IL",
 		identifiedDescriptionName = {
@@ -5194,7 +5177,7 @@ itemInfo format:
 	[20976] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“Vå™‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Scorpio_Manteau_J",
 		identifiedDescriptionName = {
@@ -5254,7 +5237,7 @@ itemInfo format:
 	[20977] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒm[ƒtƒŠƒbƒv‚Ìƒt[ƒh",
 		identifiedResourceName = "ÇÃ·Î¿ö¸ÁÅä",
 		identifiedDescriptionName = {
@@ -5289,7 +5272,7 @@ itemInfo format:
 	[20978] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¢ŠE÷‚Ì‚Ù‚±‚è‚Ìƒt[ƒh",
 		identifiedResourceName = "·ç¹İ¸ÁÅä",
 		identifiedDescriptionName = {
@@ -5324,7 +5307,7 @@ itemInfo format:
 	[20979] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚Ò‚µ‚á‚èƒn[ƒu‚Ìƒt[ƒh",
 		identifiedResourceName = "¼Ö¸ÁÅä",
 		identifiedDescriptionName = {
@@ -5359,7 +5342,7 @@ itemInfo format:
 	[20983] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ|ƒ‹ƒbƒNƒXƒ}ƒ“ƒg",
 		identifiedResourceName = "Grace_Attack_Manteau",
 		identifiedDescriptionName = {
@@ -5421,7 +5404,7 @@ itemInfo format:
 	[20984] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒƒLƒIƒ“ƒ}ƒ“ƒg",
 		identifiedResourceName = "Grace_Magic_Manteau",
 		identifiedDescriptionName = {
@@ -5482,7 +5465,7 @@ itemInfo format:
 	[20994] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒ“ƒVƒFƒ“ƒgƒƒKƒŠƒXƒ}ƒ“ƒg",
 		identifiedResourceName = "´©´õ±â¸ÁÅä",
 		identifiedDescriptionName = {
@@ -5523,7 +5506,7 @@ itemInfo format:
 	[22213] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚q‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Leo_Shoes_J",
 		identifiedDescriptionName = {
@@ -5580,7 +5563,7 @@ itemInfo format:
 	[22227] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“V”‰‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Libra_Shoes_J",
 		identifiedDescriptionName = {
@@ -5646,7 +5629,7 @@ itemInfo format:
 	[22230] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹à‹‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Taurus_Shoes_J",
 		identifiedDescriptionName = {
@@ -5709,7 +5692,7 @@ itemInfo format:
 	[22231] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•ó•r‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Aquarius_Shoes_J",
 		identifiedDescriptionName = {
@@ -5771,7 +5754,7 @@ itemInfo format:
 	[22232] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "±×¸®ºê",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒŠƒ…[ƒWƒ‡ƒ“ƒSƒ”ƒjƒ…‚ÌŒRŒC",
 		identifiedResourceName = "Goibne_Boots_IL",
 		identifiedDescriptionName = {
@@ -5820,7 +5803,7 @@ itemInfo format:
 	[22233] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“Vå™‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Scorpio_Shoes_J",
 		identifiedDescriptionName = {
@@ -5880,7 +5863,7 @@ itemInfo format:
 	[22242] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "½´Áî",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒƒLƒIƒ“ƒVƒ…[ƒY",
 		identifiedResourceName = "Grace_Magic_Boots",
 		identifiedDescriptionName = {
@@ -5940,7 +5923,7 @@ itemInfo format:
 	[22243] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "½´Áî",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒ}ƒ‰ƒKƒ“",
 		identifiedResourceName = "Mamaragan",
 		identifiedDescriptionName = {
@@ -5993,7 +5976,7 @@ itemInfo format:
 	[23935] = {
 		unidentifiedDisplayName = "‰¤‹‰ƒƒƒ“‚Ì” (50ŒÂ)",
 		unidentifiedResourceName = "È­·ÁÇÑ»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‹‰ƒƒƒ“‚Ì” (50ŒÂ)",
 		identifiedResourceName = "È­·ÁÇÑ»óÀÚ",
 		identifiedDescriptionName = {
@@ -6026,7 +6009,7 @@ itemInfo format:
 	[23936] = {
 		unidentifiedDisplayName = "‰¤‹‰ƒƒƒ“‚Ì” (150ŒÂ)",
 		unidentifiedResourceName = "È­·ÁÇÑ»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‹‰ƒƒƒ“‚Ì” (150ŒÂ)",
 		identifiedResourceName = "È­·ÁÇÑ»óÀÚ",
 		identifiedDescriptionName = {
@@ -6059,7 +6042,7 @@ itemInfo format:
 	[23954] = {
 		unidentifiedDisplayName = "‰¤‹‰ƒƒƒ“",
 		unidentifiedResourceName = "¸á·ĞÆøÅº",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‹‰ƒƒƒ“",
 		identifiedResourceName = "¸á·ĞÆøÅº",
 		identifiedDescriptionName = {
@@ -6087,7 +6070,7 @@ itemInfo format:
 	[23955] = {
 		unidentifiedDisplayName = "‰¤‹‰ƒƒƒ“ƒWƒ…[ƒX",
 		unidentifiedResourceName = "¸á·ĞÁê½º",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‹‰ƒƒƒ“ƒWƒ…[ƒX",
 		identifiedResourceName = "¸á·ĞÁê½º",
 		identifiedDescriptionName = {
@@ -6113,7 +6096,7 @@ itemInfo format:
 	[23956] = {
 		unidentifiedDisplayName = "‰¤‹‰ƒƒƒ“ƒpƒtƒF",
 		unidentifiedResourceName = "¸á·Ğ¼±µğ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‹‰ƒƒƒ“ƒpƒtƒF",
 		identifiedResourceName = "¸á·Ğ¼±µğ",
 		identifiedDescriptionName = {
@@ -6139,7 +6122,7 @@ itemInfo format:
 	[25515] = {
 		unidentifiedDisplayName = "ƒCƒxƒ“ƒgUéí–JÜƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒxƒ“ƒgUéí–JÜƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6156,7 +6139,7 @@ itemInfo format:
 	[25516] = {
 		unidentifiedDisplayName = "ŒP—û‚ÌŠÔ“üêƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ŒP—û‚ÌŠÔ“üêƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6172,7 +6155,7 @@ itemInfo format:
 	[25517] = {
 		unidentifiedDisplayName = "•sv‹c‚È••“›",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•sv‹c‚È••“›",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -6193,7 +6176,7 @@ itemInfo format:
 	[25518] = {
 		unidentifiedDisplayName = "Šï–­‚ÈÎ•Ğ",
 		unidentifiedResourceName = "¹Ì½º¸±±¤¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Šï–­‚ÈÎ•Ğ",
 		identifiedResourceName = "¹Ì½º¸±±¤¼®",
 		identifiedDescriptionName = {
@@ -6220,7 +6203,7 @@ itemInfo format:
 	[25519] = {
 		unidentifiedDisplayName = "—ì–¬Î",
 		unidentifiedResourceName = "Fragment_Of_Rock",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—ì–¬Î",
 		identifiedResourceName = "Fragment_Of_Rock",
 		identifiedDescriptionName = {
@@ -6242,7 +6225,7 @@ itemInfo format:
 	[25520] = {
 		unidentifiedDisplayName = "ˆ¤‚ÌŒ‹»",
 		unidentifiedResourceName = "»ó³ÉÇÑ¸¶À½",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆ¤‚ÌŒ‹»",
 		identifiedResourceName = "»ó³ÉÇÑ¸¶À½",
 		identifiedDescriptionName = {
@@ -6260,7 +6243,7 @@ itemInfo format:
 	[25521] = {
 		unidentifiedDisplayName = "ƒfƒB[ƒvƒXƒg[ƒ“(•¨—)",
 		unidentifiedResourceName = "»¡°£Æ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒfƒB[ƒvƒXƒg[ƒ“(•¨—)",
 		identifiedResourceName = "»¡°£Æ÷¼Ç",
 		identifiedDescriptionName = {
@@ -6273,7 +6256,7 @@ itemInfo format:
 	[25522] = {
 		unidentifiedDisplayName = "ƒfƒB[ƒvƒXƒg[ƒ“(–‚–@)",
 		unidentifiedResourceName = "»¡°£Æ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒfƒB[ƒvƒXƒg[ƒ“(–‚–@)",
 		identifiedResourceName = "»¡°£Æ÷¼Ç",
 		identifiedDescriptionName = {
@@ -6286,7 +6269,7 @@ itemInfo format:
 	[25523] = {
 		unidentifiedDisplayName = "‚³‚Ñ—‚Æ‚µƒNƒŠ[ƒi[",
 		unidentifiedResourceName = "»¡°£Æ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚³‚Ñ—‚Æ‚µƒNƒŠ[ƒi[",
 		identifiedResourceName = "»¡°£Æ÷¼Ç",
 		identifiedDescriptionName = {
@@ -6299,7 +6282,7 @@ itemInfo format:
 	[25524] = {
 		unidentifiedDisplayName = "’´ˆá–@ƒp[ƒc",
 		unidentifiedResourceName = "»¡°£Æ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "’´ˆá–@ƒp[ƒc",
 		identifiedResourceName = "»¡°£Æ÷¼Ç",
 		identifiedDescriptionName = {
@@ -6312,7 +6295,7 @@ itemInfo format:
 	[25525] = {
 		unidentifiedDisplayName = "“ÁŒP‚ÌŠÔ“üêƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“ÁŒP‚ÌŠÔ“üêƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6328,7 +6311,7 @@ itemInfo format:
 	[25526] = {
 		unidentifiedDisplayName = "ƒ}ƒbƒ`ƒ“ƒOí–JÜ(GR1)ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒbƒ`ƒ“ƒOí–JÜ(GR1)ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6345,7 +6328,7 @@ itemInfo format:
 	[25527] = {
 		unidentifiedDisplayName = "ƒ}ƒbƒ`ƒ“ƒOí–JÜ(GR2)ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒbƒ`ƒ“ƒOí–JÜ(GR2)ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6362,7 +6345,7 @@ itemInfo format:
 	[25528] = {
 		unidentifiedDisplayName = "ƒ}ƒbƒ`ƒ“ƒOí–JÜ(GR3)ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒbƒ`ƒ“ƒOí–JÜ(GR3)ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6379,7 +6362,7 @@ itemInfo format:
 	[25529] = {
 		unidentifiedDisplayName = "ƒ}ƒbƒ`ƒ“ƒOí–JÜ(GR4)ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒbƒ`ƒ“ƒOí–JÜ(GR4)ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6396,7 +6379,7 @@ itemInfo format:
 	[25530] = {
 		unidentifiedDisplayName = "Uéí–JÜƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Uéí–JÜƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6412,7 +6395,7 @@ itemInfo format:
 	[25531] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒR[ƒ‹ƒhƒ|[ƒVƒ‡ƒ“ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒR[ƒ‹ƒhƒ|[ƒVƒ‡ƒ“ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6430,7 +6413,7 @@ itemInfo format:
 	[25532] = {
 		unidentifiedDisplayName = "å‡‹C˜O‚Ì“ƒYEƒKƒ`ƒƒƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "å‡‹C˜O‚Ì“ƒYEƒKƒ`ƒƒƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6448,7 +6431,7 @@ itemInfo format:
 	[25533] = {
 		unidentifiedDisplayName = "v‚¢o‚Ì—lŒ`",
 		unidentifiedResourceName = "¸¶¸®¿À³İ¸ğÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "v‚¢o‚Ì—lŒ`",
 		identifiedResourceName = "¸¶¸®¿À³İ¸ğÀÚ",
 		identifiedDescriptionName = {
@@ -6467,7 +6450,7 @@ itemInfo format:
 	[25534] = {
 		unidentifiedDisplayName = "ƒƒƒ“ƒLƒƒƒ“ƒfƒB",
 		unidentifiedResourceName = "Æ®·£½ºÄµµğºí·ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒƒ“ƒLƒƒƒ“ƒfƒB",
 		identifiedResourceName = "Æ®·£½ºÄµµğºí·ç",
 		identifiedDescriptionName = {
@@ -6494,7 +6477,7 @@ itemInfo format:
 	[25535] = {
 		unidentifiedDisplayName = "–Í‹[í–JÜƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–Í‹[í–JÜƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6510,7 +6493,7 @@ itemInfo format:
 	[25536] = {
 		unidentifiedDisplayName = "‘åß•Ší–‚‰ü‘¢‘•’u(Type4)",
 		unidentifiedResourceName = "»¡°£Æ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘åß•Ší–‚‰ü‘¢‘•’u(Type4)",
 		identifiedResourceName = "»¡°£Æ÷¼Ç",
 		identifiedDescriptionName = {
@@ -6523,7 +6506,7 @@ itemInfo format:
 	[25537] = {
 		unidentifiedDisplayName = "‘åß•Ší–‚‰ü‘¢‘•’u(Type5)",
 		unidentifiedResourceName = "»¡°£Æ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘åß•Ší–‚‰ü‘¢‘•’u(Type5)",
 		identifiedResourceName = "»¡°£Æ÷¼Ç",
 		identifiedDescriptionName = {
@@ -6536,7 +6519,7 @@ itemInfo format:
 	[25538] = {
 		unidentifiedDisplayName = "‘åß•Ší–‚‰ü‘¢‘•’u(Type6)",
 		unidentifiedResourceName = "»¡°£Æ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘åß•Ší–‚‰ü‘¢‘•’u(Type6)",
 		identifiedResourceName = "»¡°£Æ÷¼Ç",
 		identifiedDescriptionName = {
@@ -6549,7 +6532,7 @@ itemInfo format:
 	[25539] = {
 		unidentifiedDisplayName = "ƒJ[ƒhŒğŠ·—pƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJ[ƒhŒğŠ·—pƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6566,7 +6549,7 @@ itemInfo format:
 	[25540] = {
 		unidentifiedDisplayName = "¢ŠE÷‚Ì‰Ô",
 		unidentifiedResourceName = "ÀÚ½º¹Î",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¢ŠE÷‚Ì‰Ô",
 		identifiedResourceName = "ÀÚ½º¹Î",
 		identifiedDescriptionName = {
@@ -6589,7 +6572,7 @@ itemInfo format:
 	[25541] = {
 		unidentifiedDisplayName = "Œ¶‰e‚ÌÎ",
 		unidentifiedResourceName = "º¸¶ó»ö±¤¼®¿ø¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Œ¶‰e‚ÌÎ",
 		identifiedResourceName = "º¸¶ó»ö±¤¼®¿ø¼®",
 		identifiedDescriptionName = {
@@ -6610,7 +6593,7 @@ itemInfo format:
 	[25542] = {
 		unidentifiedDisplayName = "‹­Ò‚ÌØ",
 		unidentifiedResourceName = "¿ÀÅ©¿µ¿õÀÇÁõÇ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹­Ò‚ÌØ",
 		identifiedResourceName = "¿ÀÅ©¿µ¿õÀÇÁõÇ¥",
 		identifiedDescriptionName = {
@@ -6627,7 +6610,7 @@ itemInfo format:
 	[25543] = {
 		unidentifiedDisplayName = "‹zŒŒA•¨‚Ìíƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹zŒŒA•¨‚Ìíƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6644,7 +6627,7 @@ itemInfo format:
 	[25544] = {
 		unidentifiedDisplayName = "”š’eƒLƒmƒR‚Ì–Eqƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”š’eƒLƒmƒR‚Ì–Eqƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6661,7 +6644,7 @@ itemInfo format:
 	[25545] = {
 		unidentifiedDisplayName = "ƒoƒiƒi”š’eƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒoƒiƒi”š’eƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6678,7 +6661,7 @@ itemInfo format:
 	[25546] = {
 		unidentifiedDisplayName = "ƒ}ƒ“ƒhƒ‰ƒSƒ‰‚Ì”«A‚¦ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒ“ƒhƒ‰ƒSƒ‰‚Ì”«A‚¦ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6695,7 +6678,7 @@ itemInfo format:
 	[25547] = {
 		unidentifiedDisplayName = "ƒLƒ…ƒA[ƒtƒŠ[ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒ…ƒA[ƒtƒŠ[ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6712,7 +6695,7 @@ itemInfo format:
 	[25548] = {
 		unidentifiedDisplayName = "ƒGƒ‹ƒ”ƒBƒ‰ƒLƒƒƒ“ƒfƒBƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒ‹ƒ”ƒBƒ‰ƒLƒƒƒ“ƒfƒBƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6729,7 +6712,7 @@ itemInfo format:
 	[25549] = {
 		unidentifiedDisplayName = "R“ÅŒŒ´ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "R“ÅŒŒ´ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6746,7 +6729,7 @@ itemInfo format:
 	[25550] = {
 		unidentifiedDisplayName = "”ZkƒTƒ‰ƒ}ƒCƒ“ƒWƒ…[ƒXƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”ZkƒTƒ‰ƒ}ƒCƒ“ƒWƒ…[ƒXƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6763,7 +6746,7 @@ itemInfo format:
 	[25551] = {
 		unidentifiedDisplayName = "RBƒ}ƒbƒXƒ‹15mgƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "RBƒ}ƒbƒXƒ‹15mgƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6780,7 +6763,7 @@ itemInfo format:
 	[25552] = {
 		unidentifiedDisplayName = "ƒrƒ^ƒ^500ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒrƒ^ƒ^500ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹æ¾î±¸±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6797,7 +6780,7 @@ itemInfo format:
 	[25553] = {
 		unidentifiedDisplayName = "10,000Pointƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¸µ±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "10,000Pointƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¸µ±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6814,7 +6797,7 @@ itemInfo format:
 	[25560] = {
 		unidentifiedDisplayName = "ƒCƒxƒ“ƒgUéí–JÜ(¬‹K–Í)ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒxƒ“ƒgUéí–JÜ(¬‹K–Í)ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6831,7 +6814,7 @@ itemInfo format:
 	[25561] = {
 		unidentifiedDisplayName = "ƒCƒxƒ“ƒgUéí–JÜ(’†‹K–Í)ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒxƒ“ƒgUéí–JÜ(’†‹K–Í)ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6848,7 +6831,7 @@ itemInfo format:
 	[25562] = {
 		unidentifiedDisplayName = "ƒCƒxƒ“ƒgUéí–JÜ(‘å‹K–Í)ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒxƒ“ƒgUéí–JÜ(‘å‹K–Í)ƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -6865,7 +6848,7 @@ itemInfo format:
 	[25563] = {
 		unidentifiedDisplayName = "ƒƒOƒCƒ“ƒ{[ƒiƒXƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒOƒCƒ“ƒ{[ƒiƒXƒ`ƒPƒbƒg",
 		identifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
 		identifiedDescriptionName = {
@@ -6891,7 +6874,7 @@ itemInfo format:
 	[25564] = {
 		unidentifiedDisplayName = "ƒGƒNƒXƒgƒ‰ƒ{[ƒiƒXƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒNƒXƒgƒ‰ƒ{[ƒiƒXƒ`ƒPƒbƒg",
 		identifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
 		identifiedDescriptionName = {
@@ -6917,7 +6900,7 @@ itemInfo format:
 	[25565] = {
 		unidentifiedDisplayName = "ƒXƒyƒVƒƒƒ‹ƒ{[ƒiƒXƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒyƒVƒƒƒ‹ƒ{[ƒiƒXƒ`ƒPƒbƒg",
 		identifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
 		identifiedDescriptionName = {
@@ -6943,7 +6926,7 @@ itemInfo format:
 	[25566] = {
 		unidentifiedDisplayName = "ˆß‘•ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù-³ë¸Ö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆß‘•ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù-³ë¸Ö",
 		identifiedDescriptionName = {
@@ -6963,7 +6946,7 @@ itemInfo format:
 	[25567] = {
 		unidentifiedDisplayName = "1¬ˆ×‘Ö",
 		unidentifiedResourceName = "Ä«ÇÁ¶ó¸í¼¼¼­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "1¬ˆ×‘Ö",
 		identifiedResourceName = "Ä«ÇÁ¶ó¸í¼¼¼­",
 		identifiedDescriptionName = {
@@ -6996,7 +6979,7 @@ itemInfo format:
 	[25568] = {
 		unidentifiedDisplayName = "1000¬ˆ×‘Ö",
 		unidentifiedResourceName = "Ä«ÇÁ¶ó¸í¼¼¼­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "1000¬ˆ×‘Ö",
 		identifiedResourceName = "Ä«ÇÁ¶ó¸í¼¼¼­",
 		identifiedDescriptionName = {
@@ -7029,7 +7012,7 @@ itemInfo format:
 	[25569] = {
 		unidentifiedDisplayName = "–¢ŠÓ’èzÎ",
 		unidentifiedResourceName = "±İ±«",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–¢ŠÓ’èzÎ",
 		identifiedResourceName = "±İ±«",
 		identifiedDescriptionName = {
@@ -7047,7 +7030,7 @@ itemInfo format:
 	[25570] = {
 		unidentifiedDisplayName = "–¢ŠÓ’èƒ^ƒƒbƒg",
 		unidentifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–¢ŠÓ’èƒ^ƒƒbƒg",
 		identifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
 		identifiedDescriptionName = {
@@ -7066,7 +7049,7 @@ itemInfo format:
 	[25571] = {
 		unidentifiedDisplayName = "–¢ŠÓ’è‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–¢ŠÓ’è‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -7085,7 +7068,7 @@ itemInfo format:
 	[25572] = {
 		unidentifiedDisplayName = "–¢ŠÓ’èÁ–Õ•iƒ{ƒbƒNƒX",
 		unidentifiedResourceName = "ÀÀ±ŞÃ³Ä¡»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–¢ŠÓ’èÁ–Õ•iƒ{ƒbƒNƒX",
 		identifiedResourceName = "ÀÀ±ŞÃ³Ä¡»óÀÚ",
 		identifiedDescriptionName = {
@@ -7104,7 +7087,7 @@ itemInfo format:
 	[25573] = {
 		unidentifiedDisplayName = "M—Š‚ÌØ",
 		unidentifiedResourceName = "µğÁöÅĞÀÎÈ­±Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "M—Š‚ÌØ",
 		identifiedResourceName = "µğÁöÅĞÀÎÈ­±Ç",
 		identifiedDescriptionName = {
@@ -7132,7 +7115,7 @@ itemInfo format:
 	[25574] = {
 		unidentifiedDisplayName = "–¢ŠÓ’èûW•iƒ{ƒbƒNƒX",
 		unidentifiedResourceName = "¿À·¡µÈÆÄ¶õ»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–¢ŠÓ’èûW•iƒ{ƒbƒNƒX",
 		identifiedResourceName = "¿À·¡µÈÆÄ¶õ»óÀÚ",
 		identifiedDescriptionName = {
@@ -7151,7 +7134,7 @@ itemInfo format:
 	[25575] = {
 		unidentifiedDisplayName = "ŠJ‚©‚¸‚ÌƒJ[ƒh’Ÿ",
 		unidentifiedResourceName = "³°ÀºÄ«µåÃ¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ŠJ‚©‚¸‚ÌƒJ[ƒh’Ÿ",
 		identifiedResourceName = "³°ÀºÄ«µåÃ¸",
 		identifiedDescriptionName = {
@@ -7170,7 +7153,7 @@ itemInfo format:
 	[25576] = {
 		unidentifiedDisplayName = "ƒeƒBƒAƒ}ƒgYEƒKƒ`ƒƒƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒeƒBƒAƒ}ƒgYEƒKƒ`ƒƒƒ`ƒPƒbƒg",
 		identifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -7188,7 +7171,7 @@ itemInfo format:
 	[25577] = {
 		unidentifiedDisplayName = "ƒeƒBƒAƒ}ƒgYEƒKƒ`ƒƒƒ`ƒPƒbƒg(æˆø•s‰Â)",
 		unidentifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒeƒBƒAƒ}ƒgYEƒKƒ`ƒƒƒ`ƒPƒbƒg(æˆø•s‰Â)",
 		identifiedResourceName = "G¹«±â±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -7211,7 +7194,7 @@ itemInfo format:
 	[25578] = {
 		unidentifiedDisplayName = "Yggdrasill”¯Œ^•ÏXŒ”",
 		unidentifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Yggdrasill”¯Œ^•ÏXŒ”",
 		identifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
 		identifiedDescriptionName = {
@@ -7227,7 +7210,7 @@ itemInfo format:
 	[25579] = {
 		unidentifiedDisplayName = "Yggdrasill•‘•õF•ÏXŒ”",
 		unidentifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Yggdrasill•‘•õF•ÏXŒ”",
 		identifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
 		identifiedDescriptionName = {
@@ -7243,7 +7226,7 @@ itemInfo format:
 	[25580] = {
 		unidentifiedDisplayName = "Yggdrasillƒtƒ@ƒbƒVƒ‡ƒ“•ÏXŒ”",
 		unidentifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Yggdrasillƒtƒ@ƒbƒVƒ‡ƒ“•ÏXŒ”",
 		identifiedResourceName = "Ä«ÇÁ¶óÀÌ¿ë±Ç",
 		identifiedDescriptionName = {
@@ -7259,7 +7242,7 @@ itemInfo format:
 	[25581] = {
 		unidentifiedDisplayName = "[ƒCƒxƒ“ƒg] ƒEƒVƒpƒ[ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒCƒxƒ“ƒg] ƒEƒVƒpƒ[ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -7287,7 +7270,7 @@ itemInfo format:
 	[25582] = {
 		unidentifiedDisplayName = "ƒnƒƒEƒBƒ“ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒnƒƒEƒBƒ“ƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -7317,7 +7300,7 @@ itemInfo format:
 	[25583] = {
 		unidentifiedDisplayName = "•à—…µ‚Ì–ÚŒ‚î•ñ",
 		unidentifiedResourceName = "°í´ë¾ğ¾î¹®¼­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•à—…µ‚Ì–ÚŒ‚î•ñ",
 		identifiedResourceName = "°í´ë¾ğ¾î¹®¼­",
 		identifiedDescriptionName = {
@@ -7350,7 +7333,7 @@ itemInfo format:
 	[25584] = {
 		unidentifiedDisplayName = "E‹ÆƒXƒyƒVƒƒƒ‹ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "E‹ÆƒXƒyƒVƒƒƒ‹ƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -7377,7 +7360,7 @@ itemInfo format:
 	[25741] = {
 		unidentifiedDisplayName = "–¢ŠÓ’èƒƒƒ“",
 		unidentifiedResourceName = "¹ÌÁöÀÇ¸á·Ğ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–¢ŠÓ’èƒƒƒ“",
 		identifiedResourceName = "¹ÌÁöÀÇ¸á·Ğ",
 		identifiedDescriptionName = {
@@ -7396,7 +7379,7 @@ itemInfo format:
 	[25742] = {
 		unidentifiedDisplayName = "‰¤‹‰ƒƒƒ“‚Ì”ç",
 		unidentifiedResourceName = "´ŞÄŞÀÌ²®Áú",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‹‰ƒƒƒ“‚Ì”ç",
 		identifiedResourceName = "´ŞÄŞÀÌ²®Áú",
 		identifiedDescriptionName = {
@@ -7415,7 +7398,7 @@ itemInfo format:
 	[25746] = {
 		unidentifiedDisplayName = "ƒeƒBƒAƒ}ƒgƒI[ƒu(Ô)",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È«",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒeƒBƒAƒ}ƒgƒI[ƒu(Ô)",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È«",
 		identifiedDescriptionName = {
@@ -7435,7 +7418,7 @@ itemInfo format:
 	[25747] = {
 		unidentifiedDisplayName = "ƒeƒBƒAƒ}ƒgƒI[ƒu(Â)",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_Ã»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒeƒBƒAƒ}ƒgƒI[ƒu(Â)",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_Ã»",
 		identifiedDescriptionName = {
@@ -7455,7 +7438,7 @@ itemInfo format:
 	[25748] = {
 		unidentifiedDisplayName = "ƒeƒBƒAƒ}ƒgƒI[ƒu(‰©)",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒeƒBƒAƒ}ƒgƒI[ƒu(‰©)",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -7475,7 +7458,7 @@ itemInfo format:
 	[25749] = {
 		unidentifiedDisplayName = "–S‘‚Ìd‰İ",
 		unidentifiedResourceName = "¿¤ºñ¶óÄÚÀÎ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–S‘‚Ìd‰İ",
 		identifiedResourceName = "¿¤ºñ¶óÄÚÀÎ",
 		identifiedDescriptionName = {
@@ -7501,7 +7484,7 @@ itemInfo format:
 	[25785] = {
 		unidentifiedDisplayName = "Å‚°‚½‹L‰¯”}‘Ì",
 		unidentifiedResourceName = "Burnt_MemoryMedium_JP",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Å‚°‚½‹L‰¯”}‘Ì",
 		identifiedResourceName = "Burnt_MemoryMedium_JP",
 		identifiedDescriptionName = {
@@ -7522,7 +7505,7 @@ itemInfo format:
 	[25788] = {
 		unidentifiedDisplayName = "ƒAƒŠƒGƒX‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "Aries_",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒAƒŠƒGƒX‚ÌŒ‡•Ğ",
 		identifiedResourceName = "Aries_",
 		identifiedDescriptionName = {
@@ -7541,7 +7524,7 @@ itemInfo format:
 	[25789] = {
 		unidentifiedDisplayName = "ƒJƒvƒŠƒR[ƒ“‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "Capricon_",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJƒvƒŠƒR[ƒ“‚ÌŒ‡•Ğ",
 		identifiedResourceName = "Capricon_",
 		identifiedDescriptionName = {
@@ -7560,7 +7543,7 @@ itemInfo format:
 	[25790] = {
 		unidentifiedDisplayName = "ƒpƒCƒV[ƒY‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "Pisces_",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒpƒCƒV[ƒY‚ÌŒ‡•Ğ",
 		identifiedResourceName = "Pisces_",
 		identifiedDescriptionName = {
@@ -7579,7 +7562,7 @@ itemInfo format:
 	[25794] = {
 		unidentifiedDisplayName = "C—…VIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "C—…VIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -7623,7 +7606,7 @@ itemInfo format:
 	[25795] = {
 		unidentifiedDisplayName = "C—…ƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "C—…ƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -7669,7 +7652,7 @@ itemInfo format:
 	[25796] = {
 		unidentifiedDisplayName = "“]¶ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“]¶ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -7707,7 +7690,7 @@ itemInfo format:
 	[25829] = {
 		unidentifiedDisplayName = "”N‰êó2019”N",
 		unidentifiedResourceName = "±×¸²ÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”N‰êó2019”N",
 		identifiedResourceName = "±×¸²ÆíÁö",
 		identifiedDescriptionName = {
@@ -7733,7 +7716,7 @@ itemInfo format:
 	[25833] = {
 		unidentifiedDisplayName = "‹ğÒ‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹ğÒ‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -7749,7 +7732,7 @@ itemInfo format:
 	[25834] = {
 		unidentifiedDisplayName = "‰^–½‚Ì—Ö‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰^–½‚Ì—Ö‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -7765,7 +7748,7 @@ itemInfo format:
 	[25835] = {
 		unidentifiedDisplayName = "’İ‚é‚³‚ê‚½’j‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "’İ‚é‚³‚ê‚½’j‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -7781,7 +7764,7 @@ itemInfo format:
 	[25836] = {
 		unidentifiedDisplayName = "¢ŠE‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¢ŠE‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -7797,7 +7780,7 @@ itemInfo format:
 	[25868] = {
 		unidentifiedDisplayName = "ƒWƒFƒlƒeƒBƒbƒNVIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒWƒFƒlƒeƒBƒbƒNVIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -7841,7 +7824,7 @@ itemInfo format:
 	[25869] = {
 		unidentifiedDisplayName = "ƒWƒFƒlƒeƒBƒbƒNƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒWƒFƒlƒeƒBƒbƒNƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -7887,7 +7870,7 @@ itemInfo format:
 	[25870] = {
 		unidentifiedDisplayName = "ƒEƒH[ƒƒbƒNVIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒH[ƒƒbƒNVIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -7931,7 +7914,7 @@ itemInfo format:
 	[25871] = {
 		unidentifiedDisplayName = "ƒEƒH[ƒƒbƒNƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒH[ƒƒbƒNƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -7977,7 +7960,7 @@ itemInfo format:
 	[25905] = {
 		unidentifiedDisplayName = "¯’éVIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¯’éVIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -8016,7 +7999,7 @@ itemInfo format:
 	[25906] = {
 		unidentifiedDisplayName = "¯’é“]Eƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¯’é“]Eƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -8057,7 +8040,7 @@ itemInfo format:
 	[25907] = {
 		unidentifiedDisplayName = "¯’éƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¯’éƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -8098,7 +8081,7 @@ itemInfo format:
 	[25908] = {
 		unidentifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[VIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[VIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -8137,7 +8120,7 @@ itemInfo format:
 	[25909] = {
 		unidentifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[ƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[ƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -8178,7 +8161,7 @@ itemInfo format:
 	[25910] = {
 		unidentifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[“]Eƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[“]Eƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -8219,7 +8202,7 @@ itemInfo format:
 	[25911] = {
 		unidentifiedDisplayName = "ƒ`ƒƒ[ƒ€ƒƒJ[ƒX„",
 		unidentifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ`ƒƒ[ƒ€ƒƒJ[ƒX„",
 		identifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
 		identifiedDescriptionName = {
@@ -8244,7 +8227,7 @@ itemInfo format:
 	[25912] = {
 		unidentifiedDisplayName = "ƒ`ƒƒ[ƒ€ƒƒXƒ^[„",
 		unidentifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ`ƒƒ[ƒ€ƒƒXƒ^[„",
 		identifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
 		identifiedDescriptionName = {
@@ -8269,7 +8252,7 @@ itemInfo format:
 	[25913] = {
 		unidentifiedDisplayName = "v”O‘Ì•ŠíƒAƒbƒvƒOƒŒ[ƒhƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "v”O‘Ì•ŠíƒAƒbƒvƒOƒŒ[ƒhƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -8297,7 +8280,7 @@ itemInfo format:
 	[25914] = {
 		unidentifiedDisplayName = "‹Ãk‚³‚ê‚½ƒGƒlƒ‹ƒM[‚ÌW‡‘Ì",
 		unidentifiedResourceName = "À¯¸®±¸½½",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹Ãk‚³‚ê‚½ƒGƒlƒ‹ƒM[‚ÌW‡‘Ì",
 		identifiedResourceName = "À¯¸®±¸½½",
 		identifiedDescriptionName = {
@@ -8327,7 +8310,7 @@ itemInfo format:
 	[25915] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pŒõ‚Ì—±",
 		unidentifiedResourceName = "ºûÀÇ¾Ë°»ÀÌ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pŒõ‚Ì—±",
 		identifiedResourceName = "ºûÀÇ¾Ë°»ÀÌ",
 		identifiedDescriptionName = {
@@ -8345,7 +8328,7 @@ itemInfo format:
 	[25916] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—p“Vg‚ÌƒwƒAƒoƒ“ƒh",
 		unidentifiedResourceName = "Ãµ»çÀÇ¸Ó¸®¶ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—p“Vg‚ÌƒwƒAƒoƒ“ƒh",
 		identifiedResourceName = "Ãµ»çÀÇ¸Ó¸®¶ì",
 		identifiedDescriptionName = {
@@ -8364,7 +8347,7 @@ itemInfo format:
 	[25917] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—p‰¼‰‚ß‚Ì—ö",
 		unidentifiedResourceName = "Ç²»ç¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—p‰¼‰‚ß‚Ì—ö",
 		identifiedResourceName = "Ç²»ç¶û",
 		identifiedDescriptionName = {
@@ -8383,7 +8366,7 @@ itemInfo format:
 	[25918] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—p‘å‚«‚È‹à‚Ì—é",
 		unidentifiedResourceName = "´ëÇü±İ¹æ¿ï",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—p‘å‚«‚È‹à‚Ì—é",
 		identifiedResourceName = "´ëÇü±İ¹æ¿ï",
 		identifiedDescriptionName = {
@@ -8403,7 +8386,7 @@ itemInfo format:
 	[25919] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—p••ˆó‚ÌÔ‚¢Œ¦",
 		unidentifiedResourceName = "ºÀÀÎÀÇºÓÀººñ´Ü",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—p••ˆó‚ÌÔ‚¢Œ¦",
 		identifiedResourceName = "ºÀÀÎÀÇºÓÀººñ´Ü",
 		identifiedDescriptionName = {
@@ -8423,7 +8406,7 @@ itemInfo format:
 	[27276] = {
 		unidentifiedDisplayName = "—ë",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—ë",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8436,7 +8419,7 @@ itemInfo format:
 	[27277] = {
 		unidentifiedDisplayName = "ˆë",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆë",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8449,7 +8432,7 @@ itemInfo format:
 	[27278] = {
 		unidentifiedDisplayName = "“ó",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“ó",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8462,7 +8445,7 @@ itemInfo format:
 	[27279] = {
 		unidentifiedDisplayName = "Q",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Q",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8475,7 +8458,7 @@ itemInfo format:
 	[27280] = {
 		unidentifiedDisplayName = "ãæ",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ãæ",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8488,7 +8471,7 @@ itemInfo format:
 	[27281] = {
 		unidentifiedDisplayName = "ŒŞ",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ŒŞ",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8501,7 +8484,7 @@ itemInfo format:
 	[27282] = {
 		unidentifiedDisplayName = "—¤",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—¤",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8514,7 +8497,7 @@ itemInfo format:
 	[27283] = {
 		unidentifiedDisplayName = "½",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "½",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8527,7 +8510,7 @@ itemInfo format:
 	[27284] = {
 		unidentifiedDisplayName = "J",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "J",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8540,7 +8523,7 @@ itemInfo format:
 	[27285] = {
 		unidentifiedDisplayName = "‹è",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹è",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -8553,7 +8536,7 @@ itemInfo format:
 	[27397] = {
 		unidentifiedDisplayName = "ƒjƒqƒc",
 		unidentifiedResourceName = "¹ßÅ°¸®ÀÇºĞ³ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒjƒqƒc",
 		identifiedResourceName = "¹ßÅ°¸®ÀÇºĞ³ë",
 		identifiedDescriptionName = {
@@ -8572,7 +8555,7 @@ itemInfo format:
 	[27398] = {
 		unidentifiedDisplayName = "Š®‘S‰ñ”ğ + 25",
 		unidentifiedResourceName = "ÇÏ¾á¹¦¾È¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Š®‘S‰ñ”ğ + 25",
 		identifiedResourceName = "ÇÏ¾á¹¦¾È¼®",
 		identifiedDescriptionName = {
@@ -8585,7 +8568,7 @@ itemInfo format:
 	[27399] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "·ÎÀÚ¸®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = " ‹Ÿ",
 		identifiedResourceName = "·ÎÀÚ¸®",
 		identifiedDescriptionName = {
@@ -8602,7 +8585,7 @@ itemInfo format:
 	[27400] = {
 		unidentifiedDisplayName = "‰“‹——£•¨—‘Ï« + 5%",
 		unidentifiedResourceName = "ºĞÁø",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰“‹——£•¨—‘Ï« + 5%",
 		identifiedResourceName = "ºĞÁø",
 		identifiedDescriptionName = {
@@ -8616,7 +8599,7 @@ itemInfo format:
 	[27401] = {
 		unidentifiedDisplayName = "‹C’DLv1",
 		unidentifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹C’DLv1",
 		identifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
 		identifiedDescriptionName = {
@@ -8629,7 +8612,7 @@ itemInfo format:
 	[27402] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒTƒ‚ƒi[)",
 		unidentifiedResourceName = "Latent_Release_SU",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒTƒ‚ƒi[)",
 		identifiedResourceName = "Latent_Release_SU",
 		identifiedDescriptionName = {
@@ -8657,7 +8640,7 @@ itemInfo format:
 	[27403] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(¯’é)",
 		unidentifiedResourceName = "C_160LV_Star_E_Mblue",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(¯’é)",
 		identifiedResourceName = "C_160LV_Star_E_Mblue",
 		identifiedDescriptionName = {
@@ -8677,7 +8660,7 @@ itemInfo format:
 	[27404] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒƒEƒ‹ƒŠ[ƒp[)",
 		unidentifiedResourceName = "C_160LV_Soul_R_Gray",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒƒEƒ‹ƒŠ[ƒp[)",
 		identifiedResourceName = "C_160LV_Soul_R_Gray",
 		identifiedDescriptionName = {
@@ -8699,7 +8682,7 @@ itemInfo format:
 	[27405] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(‰e˜T)",
 		unidentifiedResourceName = "Latent_Release_KG",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(‰e˜T)",
 		identifiedResourceName = "Latent_Release_KG",
 		identifiedDescriptionName = {
@@ -8720,7 +8703,7 @@ itemInfo format:
 	[27406] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(O)",
 		unidentifiedResourceName = "Latent_Release_KG",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(O)",
 		identifiedResourceName = "Latent_Release_KG",
 		identifiedDescriptionName = {
@@ -8741,7 +8724,7 @@ itemInfo format:
 	[27407] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒŠƒxƒŠƒIƒ“)",
 		unidentifiedResourceName = "Latent_Release_RL",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒŠƒxƒŠƒIƒ“)",
 		identifiedResourceName = "Latent_Release_RL",
 		identifiedDescriptionName = {
@@ -8763,7 +8746,7 @@ itemInfo format:
 	[27408] = {
 		unidentifiedDisplayName = "ƒCƒ~ƒ…[ƒ“ƒtƒ@ƒCƒA",
 		unidentifiedResourceName = "·¹µåºí·¯µå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ~ƒ…[ƒ“ƒtƒ@ƒCƒA",
 		identifiedResourceName = "·¹µåºí·¯µå",
 		identifiedDescriptionName = {
@@ -8777,7 +8760,7 @@ itemInfo format:
 	[27409] = {
 		unidentifiedDisplayName = "ƒCƒ~ƒ…[ƒ“ƒEƒH[ƒ^[",
 		unidentifiedResourceName = "Å©¸®½ºÅ»ºí·ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ~ƒ…[ƒ“ƒEƒH[ƒ^[",
 		identifiedResourceName = "Å©¸®½ºÅ»ºí·ç",
 		identifiedDescriptionName = {
@@ -8791,7 +8774,7 @@ itemInfo format:
 	[27410] = {
 		unidentifiedDisplayName = "ƒCƒ~ƒ…[ƒ“ƒEƒBƒ“ƒh",
 		unidentifiedResourceName = "¿»·Î¿ì¶óÀÌºê",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ~ƒ…[ƒ“ƒEƒBƒ“ƒh",
 		identifiedResourceName = "¿»·Î¿ì¶óÀÌºê",
 		identifiedDescriptionName = {
@@ -8805,7 +8788,7 @@ itemInfo format:
 	[27411] = {
 		unidentifiedDisplayName = "ƒCƒ~ƒ…[ƒ“ƒA[ƒX",
 		unidentifiedResourceName = "À©µå¿Àºê¹öµà¾î",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ~ƒ…[ƒ“ƒA[ƒX",
 		identifiedResourceName = "À©µå¿Àºê¹öµà¾î",
 		identifiedDescriptionName = {
@@ -8819,7 +8802,7 @@ itemInfo format:
 	[27412] = {
 		unidentifiedDisplayName = "MaxHP + 15%",
 		unidentifiedResourceName = "¸¶·Â¼®_»¡°­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "MaxHP + 15%",
 		identifiedResourceName = "¸¶·Â¼®_»¡°­",
 		identifiedDescriptionName = {
@@ -8832,7 +8815,7 @@ itemInfo format:
 	[29586] = {
 		unidentifiedDisplayName = "ƒvƒŒƒCƒ„[‘Ï«12",
 		unidentifiedResourceName = "ÇÏ¾á»öº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒŒƒCƒ„[‘Ï«12",
 		identifiedResourceName = "ÇÏ¾á»öº¸¼®",
 		identifiedDescriptionName = {
@@ -8846,7 +8829,7 @@ itemInfo format:
 	[29593] = {
 		unidentifiedDisplayName = "“€Œ‹‘Ï«",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_Ã»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“€Œ‹‘Ï«",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_Ã»",
 		identifiedDescriptionName = {
@@ -8859,7 +8842,7 @@ itemInfo format:
 	[29690] = {
 		unidentifiedDisplayName = "‰Î‘®«•t—^(•Ší)",
 		unidentifiedResourceName = "¿ë»çÀÇÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰Î‘®«•t—^(•Ší)",
 		identifiedResourceName = "¿ë»çÀÇÀÇÁö",
 		identifiedDescriptionName = {
@@ -8872,7 +8855,7 @@ itemInfo format:
 	[29691] = {
 		unidentifiedDisplayName = "…‘®«•t—^(•Ší)",
 		unidentifiedResourceName = "¿ë»çÀÇÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "…‘®«•t—^(•Ší)",
 		identifiedResourceName = "¿ë»çÀÇÀÇÁö",
 		identifiedDescriptionName = {
@@ -8885,7 +8868,7 @@ itemInfo format:
 	[29692] = {
 		unidentifiedDisplayName = "•—‘®«•t—^(•Ší)",
 		unidentifiedResourceName = "¿ë»çÀÇÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•—‘®«•t—^(•Ší)",
 		identifiedResourceName = "¿ë»çÀÇÀÇÁö",
 		identifiedDescriptionName = {
@@ -8898,7 +8881,7 @@ itemInfo format:
 	[29693] = {
 		unidentifiedDisplayName = "’n‘®«•t—^(•Ší)",
 		unidentifiedResourceName = "¿ë»çÀÇÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "’n‘®«•t—^(•Ší)",
 		identifiedResourceName = "¿ë»çÀÇÀÇÁö",
 		identifiedDescriptionName = {
@@ -8911,7 +8894,7 @@ itemInfo format:
 	[29694] = {
 		unidentifiedDisplayName = "¹‘®«•t—^(•Ší)",
 		unidentifiedResourceName = "¿ë»çÀÇÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¹‘®«•t—^(•Ší)",
 		identifiedResourceName = "¿ë»çÀÇÀÇÁö",
 		identifiedDescriptionName = {
@@ -8924,7 +8907,7 @@ itemInfo format:
 	[29695] = {
 		unidentifiedDisplayName = "ˆÅ‘®«•t—^(•Ší)",
 		unidentifiedResourceName = "¿ë»çÀÇÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆÅ‘®«•t—^(•Ší)",
 		identifiedResourceName = "¿ë»çÀÇÀÇÁö",
 		identifiedDescriptionName = {
@@ -8937,7 +8920,7 @@ itemInfo format:
 	[29696] = {
 		unidentifiedDisplayName = "”O‘®«•t—^(•Ší)",
 		unidentifiedResourceName = "¿ë»çÀÇÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”O‘®«•t—^(•Ší)",
 		identifiedResourceName = "¿ë»çÀÇÀÇÁö",
 		identifiedDescriptionName = {
@@ -8950,7 +8933,7 @@ itemInfo format:
 	[29697] = {
 		unidentifiedDisplayName = "“Å‘®«•t—^(•Ší)",
 		unidentifiedResourceName = "¿ë»çÀÇÀÇÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“Å‘®«•t—^(•Ší)",
 		identifiedResourceName = "¿ë»çÀÇÀÇÁö",
 		identifiedDescriptionName = {
@@ -8963,7 +8946,7 @@ itemInfo format:
 	[29698] = {
 		unidentifiedDisplayName = "ƒŠ[ƒTƒ‹ƒtƒŒ[ƒ€(–‚–@)",
 		unidentifiedResourceName = "Àå¹Ì¼®¿µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŠ[ƒTƒ‹ƒtƒŒ[ƒ€(–‚–@)",
 		identifiedResourceName = "Àå¹Ì¼®¿µ",
 		identifiedDescriptionName = {
@@ -8978,7 +8961,7 @@ itemInfo format:
 	[29699] = {
 		unidentifiedDisplayName = "ƒŠ[ƒTƒ‹ƒr[ƒXƒg(–‚–@)",
 		unidentifiedResourceName = "Àå¹Ì¼®¿µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŠ[ƒTƒ‹ƒr[ƒXƒg(–‚–@)",
 		identifiedResourceName = "Àå¹Ì¼®¿µ",
 		identifiedDescriptionName = {
@@ -8993,7 +8976,7 @@ itemInfo format:
 	[29700] = {
 		unidentifiedDisplayName = "ƒŠ[ƒTƒ‹ƒqƒ…[ƒ}ƒ“(–‚–@)",
 		unidentifiedResourceName = "Àå¹Ì¼®¿µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŠ[ƒTƒ‹ƒqƒ…[ƒ}ƒ“(–‚–@)",
 		identifiedResourceName = "Àå¹Ì¼®¿µ",
 		identifiedDescriptionName = {
@@ -9008,7 +8991,7 @@ itemInfo format:
 	[29701] = {
 		unidentifiedDisplayName = "ƒ‚[ƒ^ƒ‹ƒEƒH[ƒ^[(–‚–@)",
 		unidentifiedResourceName = "Àå¹Ì¼®¿µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‚[ƒ^ƒ‹ƒEƒH[ƒ^[(–‚–@)",
 		identifiedResourceName = "Àå¹Ì¼®¿µ",
 		identifiedDescriptionName = {
@@ -9023,7 +9006,7 @@ itemInfo format:
 	[29702] = {
 		unidentifiedDisplayName = "ƒ‚[ƒ^ƒ‹ƒC[ƒrƒ‹(–‚–@)",
 		unidentifiedResourceName = "Àå¹Ì¼®¿µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‚[ƒ^ƒ‹ƒC[ƒrƒ‹(–‚–@)",
 		identifiedResourceName = "Àå¹Ì¼®¿µ",
 		identifiedDescriptionName = {
@@ -9038,7 +9021,7 @@ itemInfo format:
 	[29703] = {
 		unidentifiedDisplayName = "ƒ‚[ƒ^ƒ‹ƒAƒ“ƒfƒbƒh(–‚–@)",
 		unidentifiedResourceName = "Àå¹Ì¼®¿µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‚[ƒ^ƒ‹ƒAƒ“ƒfƒbƒh(–‚–@)",
 		identifiedResourceName = "Àå¹Ì¼®¿µ",
 		identifiedDescriptionName = {
@@ -9053,7 +9036,7 @@ itemInfo format:
 	[29704] = {
 		unidentifiedDisplayName = "ƒtƒFƒCƒ^ƒ‹ƒXƒ‚[ƒ‹(–‚–@)",
 		unidentifiedResourceName = "Àå¹Ì¼®¿µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒtƒFƒCƒ^ƒ‹ƒXƒ‚[ƒ‹(–‚–@)",
 		identifiedResourceName = "Àå¹Ì¼®¿µ",
 		identifiedDescriptionName = {
@@ -9070,7 +9053,7 @@ itemInfo format:
 	[29705] = {
 		unidentifiedDisplayName = "ƒtƒFƒCƒ^ƒ‹ƒlƒƒVƒX(–‚–@)",
 		unidentifiedResourceName = "Àå¹Ì¼®¿µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒtƒFƒCƒ^ƒ‹ƒlƒƒVƒX(–‚–@)",
 		identifiedResourceName = "Àå¹Ì¼®¿µ",
 		identifiedDescriptionName = {
@@ -9085,7 +9068,7 @@ itemInfo format:
 	[29716] = {
 		unidentifiedDisplayName = "‘¾—z",
 		unidentifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘¾—z",
 		identifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
 		identifiedDescriptionName = {
@@ -9102,7 +9085,7 @@ itemInfo format:
 	[29717] = {
 		unidentifiedDisplayName = "Œ",
 		unidentifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Œ",
 		identifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
 		identifiedDescriptionName = {
@@ -9119,7 +9102,7 @@ itemInfo format:
 	[29718] = {
 		unidentifiedDisplayName = "¯",
 		unidentifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¯",
 		identifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
 		identifiedDescriptionName = {
@@ -9138,7 +9121,7 @@ itemInfo format:
 	[29719] = {
 		unidentifiedDisplayName = "ƒGƒX",
 		unidentifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒX",
 		identifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
 		identifiedDescriptionName = {
@@ -9157,7 +9140,7 @@ itemInfo format:
 	[29720] = {
 		unidentifiedDisplayName = "€—ì",
 		unidentifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "€—ì",
 		identifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
 		identifiedDescriptionName = {
@@ -9175,7 +9158,7 @@ itemInfo format:
 	[29721] = {
 		unidentifiedDisplayName = "°",
 		unidentifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "°",
 		identifiedResourceName = "¸¶·Â¼®_ÆÄ¶û",
 		identifiedDescriptionName = {
@@ -9194,7 +9177,7 @@ itemInfo format:
 	[29722] = {
 		unidentifiedDisplayName = "ƒJ[ƒX",
 		unidentifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJ[ƒX",
 		identifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
 		identifiedDescriptionName = {
@@ -9219,7 +9202,7 @@ itemInfo format:
 	[29723] = {
 		unidentifiedDisplayName = "ƒXƒ^[",
 		unidentifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒ^[",
 		identifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
 		identifiedDescriptionName = {
@@ -9244,7 +9227,7 @@ itemInfo format:
 	[29724] = {
 		unidentifiedDisplayName = "EˆÓ‚Ì‰…”O",
 		unidentifiedResourceName = "ÇÇÀÇ°¥Áõ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "EˆÓ‚Ì‰…”O",
 		identifiedResourceName = "ÇÇÀÇ°¥Áõ",
 		identifiedDescriptionName = {
@@ -9558,7 +9541,7 @@ itemInfo format:
 	[29725] = {
 		unidentifiedDisplayName = "ƒ]ƒfƒBƒAƒbƒN",
 		unidentifiedResourceName = "poisoned_amethyst",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ]ƒfƒBƒAƒbƒN",
 		identifiedResourceName = "poisoned_amethyst",
 		identifiedDescriptionName = {
@@ -10250,11 +10233,10 @@ itemInfo format:
 	[30002] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "",
-		unidentifiedDescriptionName = {},
+		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "",
 		identifiedResourceName = "",
-		identifiedDescriptionName = {
-		},
+		identifiedDescriptionName = { "" },
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -10262,7 +10244,7 @@ itemInfo format:
 	[32261] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“V”‰‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Libra_Ring_J",
 		identifiedDescriptionName = {
@@ -10319,7 +10301,7 @@ itemInfo format:
 	[32264] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹à‹‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Taurus_Ring_J",
 		identifiedDescriptionName = {
@@ -10374,7 +10356,7 @@ itemInfo format:
 	[32266] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•ó•r‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Aquarius_Ring_J",
 		identifiedDescriptionName = {
@@ -10433,7 +10415,7 @@ itemInfo format:
 	[32267] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“Vå™‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Scorpio_Ring_J",
 		identifiedDescriptionName = {
@@ -10485,7 +10467,7 @@ itemInfo format:
 	[32293] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ|ƒ‹ƒbƒNƒXƒŠƒ“ƒO",
 		identifiedResourceName = "Grace_Attack_Ring",
 		identifiedDescriptionName = {
@@ -10541,7 +10523,7 @@ itemInfo format:
 	[32294] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒƒLƒIƒ“ƒŠƒ“ƒO",
 		identifiedResourceName = "Grace_Magic_Ring",
 		identifiedDescriptionName = {
@@ -10647,7 +10629,7 @@ itemInfo format:
 	[100112] = {
 		unidentifiedDisplayName = "ƒXƒLƒA‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒLƒA‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -10681,7 +10663,7 @@ itemInfo format:
 	[100113] = {
 		unidentifiedDisplayName = "ƒTƒ‰‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒ‰‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -10714,7 +10696,7 @@ itemInfo format:
 	[100114] = {
 		unidentifiedDisplayName = "ƒC[ƒuƒ‹‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒC[ƒuƒ‹‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -10748,7 +10730,7 @@ itemInfo format:
 	[100221] = {
 		unidentifiedDisplayName = "”òs‘Dæ‚è‚ÌƒpƒCƒv",
 		unidentifiedResourceName = "¾ØÆ¼Å©´ã¹î´ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”òs‘Dæ‚è‚ÌƒpƒCƒv",
 		identifiedResourceName = "¾ØÆ¼Å©´ã¹î´ë",
 		identifiedDescriptionName = {
@@ -10772,7 +10754,7 @@ itemInfo format:
 	[100222] = {
 		unidentifiedDisplayName = "‹‰e‚ÌcŸæ",
 		unidentifiedResourceName = "À½½ÀÇÑ¾îµÒ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹‰e‚ÌcŸæ",
 		identifiedResourceName = "À½½ÀÇÑ¾îµÒ",
 		identifiedDescriptionName = {
@@ -10795,7 +10777,7 @@ itemInfo format:
 	[100278] = {
 		unidentifiedDisplayName = "‰©‹à‚ÌƒJ[ƒh’Ÿ",
 		unidentifiedResourceName = "³°ÀºÄ«µåÃ¸_³ë¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰©‹à‚ÌƒJ[ƒh’Ÿ",
 		identifiedResourceName = "³°ÀºÄ«µåÃ¸_³ë¶û",
 		identifiedDescriptionName = {
@@ -10817,7 +10799,7 @@ itemInfo format:
 	[100279] = {
 		unidentifiedDisplayName = "‰^–½‚ÌƒJ[ƒh’Ÿ",
 		unidentifiedResourceName = "³°ÀºÄ«µåÃ¸_±î¸Á",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰^–½‚ÌƒJ[ƒh’Ÿ",
 		identifiedResourceName = "³°ÀºÄ«µåÃ¸_±î¸Á",
 		identifiedDescriptionName = {
@@ -10838,7 +10820,7 @@ itemInfo format:
 	[100280] = {
 		unidentifiedDisplayName = "‰©‹à‚Ì“Vg‘œ",
 		unidentifiedResourceName = "È²±İ¾Æ±âÃµ»ç»ó",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰©‹à‚Ì“Vg‘œ",
 		identifiedResourceName = "È²±İ¾Æ±âÃµ»ç»ó",
 		identifiedDescriptionName = {
@@ -10880,7 +10862,7 @@ itemInfo format:
 	[100281] = {
 		unidentifiedDisplayName = "ƒwƒ‹ƒ€ƒXƒNƒ[ƒ‹I",
 		unidentifiedResourceName = "ÁÖ¹®¼­´Ù¹ß",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒwƒ‹ƒ€ƒXƒNƒ[ƒ‹I",
 		identifiedResourceName = "ÁÖ¹®¼­´Ù¹ß",
 		identifiedDescriptionName = {
@@ -10906,7 +10888,7 @@ itemInfo format:
 	[100282] = {
 		unidentifiedDisplayName = "ƒEƒFƒ|ƒ“ƒXƒNƒ[ƒ‹I",
 		unidentifiedResourceName = "ÁÖ¹®¼­´Ù¹ß",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒFƒ|ƒ“ƒXƒNƒ[ƒ‹I",
 		identifiedResourceName = "ÁÖ¹®¼­´Ù¹ß",
 		identifiedDescriptionName = {
@@ -10934,7 +10916,7 @@ itemInfo format:
 	[100315] = {
 		unidentifiedDisplayName = "¢Š«‚Ì–‚–@‘",
 		unidentifiedResourceName = "¿À·¡µÈ¸¶¹ı¼­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¢Š«‚Ì–‚–@‘",
 		identifiedResourceName = "¿À·¡µÈ¸¶¹ı¼­",
 		identifiedDescriptionName = {
@@ -10966,7 +10948,7 @@ itemInfo format:
 	[100348] = {
 		unidentifiedDisplayName = "“¬‹C‚ÌƒGƒbƒZƒ“ƒX",
 		unidentifiedResourceName = "ºÓÀº¹¦¾È¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“¬‹C‚ÌƒGƒbƒZƒ“ƒX",
 		identifiedResourceName = "ºÓÀº¹¦¾È¼®",
 		identifiedDescriptionName = {
@@ -10990,7 +10972,7 @@ itemInfo format:
 	[100349] = {
 		unidentifiedDisplayName = "–Ò‹C‚ÌƒGƒbƒZƒ“ƒX",
 		unidentifiedResourceName = "³ë¶õ¹¦¾È¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–Ò‹C‚ÌƒGƒbƒZƒ“ƒX",
 		identifiedResourceName = "³ë¶õ¹¦¾È¼®",
 		identifiedDescriptionName = {
@@ -11014,7 +10996,7 @@ itemInfo format:
 	[100440] = {
 		unidentifiedDisplayName = "‰i‰“‚È‚é’‰½",
 		unidentifiedResourceName = "ÃæÀıÀÇÁõ°Å",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰i‰“‚È‚é’‰½",
 		identifiedResourceName = "ÃæÀıÀÇÁõ°Å",
 		identifiedDescriptionName = {
@@ -11044,7 +11026,7 @@ itemInfo format:
 	[100448] = {
 		unidentifiedDisplayName = "ƒZƒCƒŒƒ“‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒZƒCƒŒƒ“‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -11078,7 +11060,7 @@ itemInfo format:
 	[100449] = {
 		unidentifiedDisplayName = "®‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "®‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -11112,7 +11094,7 @@ itemInfo format:
 	[100450] = {
 		unidentifiedDisplayName = "ƒJƒvƒŒ[ƒ[‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJƒvƒŒ[ƒ[‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -11147,7 +11129,7 @@ itemInfo format:
 	[100451] = {
 		unidentifiedDisplayName = "SEJEƒA[ƒlƒXƒgƒEƒ‹ƒt‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "SEJEƒA[ƒlƒXƒgƒEƒ‹ƒt‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -11182,7 +11164,7 @@ itemInfo format:
 	[100482] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜAnimalsVII",
 		unidentifiedResourceName = "Æä°¡¼ö½º½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜAnimalsVII",
 		identifiedResourceName = "Æä°¡¼ö½º½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -11216,7 +11198,7 @@ itemInfo format:
 	[100525] = {
 		unidentifiedDisplayName = "ƒRƒ“ƒuƒ`ƒƒ",
 		unidentifiedResourceName = "¸¶Ä«Çª³ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒ“ƒuƒ`ƒƒ",
 		identifiedResourceName = "¸¶Ä«Çª³ë",
 		identifiedDescriptionName = {
@@ -11238,7 +11220,7 @@ itemInfo format:
 	[100526] = {
 		unidentifiedDisplayName = "ƒRƒ“ƒuƒ`ƒƒƒP[ƒX(50ŒÂ)",
 		unidentifiedResourceName = "Æø¿ìÀÇ»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒ“ƒuƒ`ƒƒƒP[ƒX(50ŒÂ)",
 		identifiedResourceName = "Æø¿ìÀÇ»óÀÚ",
 		identifiedDescriptionName = {
@@ -11269,7 +11251,7 @@ itemInfo format:
 	[100527] = {
 		unidentifiedDisplayName = "ƒRƒ“ƒuƒ`ƒƒƒP[ƒX(150ŒÂ)",
 		unidentifiedResourceName = "Æø¿ìÀÇ»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒ“ƒuƒ`ƒƒƒP[ƒX(150ŒÂ)",
 		identifiedResourceName = "Æø¿ìÀÇ»óÀÚ",
 		identifiedDescriptionName = {
@@ -11300,7 +11282,7 @@ itemInfo format:
 	[100532] = {
 		unidentifiedDisplayName = "Š•‰ü‘¢‘•’u(Type1)",
 		unidentifiedResourceName = "Å¸¹ö¸°±â°èÀåÄ¡",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Š•‰ü‘¢‘•’u(Type1)",
 		identifiedResourceName = "Å¸¹ö¸°±â°èÀåÄ¡",
 		identifiedDescriptionName = {
@@ -11337,7 +11319,7 @@ itemInfo format:
 	[100533] = {
 		unidentifiedDisplayName = "Š•‰ü‘¢‘•’u(Type2)",
 		unidentifiedResourceName = "Bio_Test_Fragment",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Š•‰ü‘¢‘•’u(Type2)",
 		identifiedResourceName = "Bio_Test_Fragment",
 		identifiedDescriptionName = {
@@ -11360,7 +11342,7 @@ itemInfo format:
 	[100558] = {
 		unidentifiedDisplayName = "ƒnƒƒEƒBƒ“ƒLƒƒƒ“ƒfƒB",
 		unidentifiedResourceName = "Æ®·£½ºÄµµğ¿»·Î¿ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒnƒƒEƒBƒ“ƒLƒƒƒ“ƒfƒB",
 		identifiedResourceName = "Æ®·£½ºÄµµğ¿»·Î¿ì",
 		identifiedDescriptionName = {
@@ -11386,7 +11368,7 @@ itemInfo format:
 	[100559] = {
 		unidentifiedDisplayName = "ƒLƒƒƒ“ƒfƒBƒzƒ‹ƒ [(50ŒÂ)",
 		unidentifiedResourceName = "¹º°¡ÀÖ´ÂÄµµğÈ¦´õ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒƒƒ“ƒfƒBƒzƒ‹ƒ [(50ŒÂ)",
 		identifiedResourceName = "¹º°¡ÀÖ´ÂÄµµğÈ¦´õ",
 		identifiedDescriptionName = {
@@ -11418,7 +11400,7 @@ itemInfo format:
 	[100560] = {
 		unidentifiedDisplayName = "ƒLƒƒƒ“ƒfƒBƒzƒ‹ƒ [(150ŒÂ)",
 		unidentifiedResourceName = "¹º°¡ÀÖ´ÂÄµµğÈ¦´õ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒƒƒ“ƒfƒBƒzƒ‹ƒ [(150ŒÂ)",
 		identifiedResourceName = "¹º°¡ÀÖ´ÂÄµµğÈ¦´õ",
 		identifiedDescriptionName = {
@@ -11451,7 +11433,7 @@ itemInfo format:
 	[100587] = {
 		unidentifiedDisplayName = "ƒpƒ[EƒQƒCƒ“",
 		unidentifiedResourceName = "¿ìÀ¯º´",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒpƒ[EƒQƒCƒ“",
 		identifiedResourceName = "¿ìÀ¯º´",
 		identifiedDescriptionName = {
@@ -11485,7 +11467,7 @@ itemInfo format:
 	[100588] = {
 		unidentifiedDisplayName = "ƒvƒƒeƒCƒ“EƒP[ƒX(50H)",
 		unidentifiedResourceName = "³ª¹æÀÇ³¯°³°¡·ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒƒeƒCƒ“EƒP[ƒX(50H)",
 		identifiedResourceName = "³ª¹æÀÇ³¯°³°¡·ç",
 		identifiedDescriptionName = {
@@ -11522,7 +11504,7 @@ itemInfo format:
 	[100589] = {
 		unidentifiedDisplayName = "ƒvƒƒeƒCƒ“EƒP[ƒX(150H)",
 		unidentifiedResourceName = "³ª¹æÀÇ³¯°³°¡·ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒƒeƒCƒ“EƒP[ƒX(150H)",
 		identifiedResourceName = "³ª¹æÀÇ³¯°³°¡·ç",
 		identifiedDescriptionName = {
@@ -11559,7 +11541,7 @@ itemInfo format:
 	[100642] = {
 		unidentifiedDisplayName = "ƒ`ƒ‡ƒRƒJƒbƒvƒP[ƒL",
 		unidentifiedResourceName = "High_Energy_Chocolate",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ`ƒ‡ƒRƒJƒbƒvƒP[ƒL",
 		identifiedResourceName = "High_Energy_Chocolate",
 		identifiedDescriptionName = {
@@ -11585,7 +11567,7 @@ itemInfo format:
 	[100643] = {
 		unidentifiedDisplayName = "ƒJƒbƒvƒP[ƒLBOX(50ŒÂ)",
 		unidentifiedResourceName = "ºĞÈ«ÇÏÆ®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJƒbƒvƒP[ƒLBOX(50ŒÂ)",
 		identifiedResourceName = "ºĞÈ«ÇÏÆ®»óÀÚ",
 		identifiedDescriptionName = {
@@ -11617,7 +11599,7 @@ itemInfo format:
 	[100644] = {
 		unidentifiedDisplayName = "ƒJƒbƒvƒP[ƒLBOX(150ŒÂ)",
 		unidentifiedResourceName = "ºĞÈ«ÇÏÆ®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJƒbƒvƒP[ƒLBOX(150ŒÂ)",
 		identifiedResourceName = "ºĞÈ«ÇÏÆ®»óÀÚ",
 		identifiedDescriptionName = {
@@ -11649,7 +11631,7 @@ itemInfo format:
 	[100645] = {
 		unidentifiedDisplayName = "µ‰¤‰Æƒ`ƒ‡ƒRƒpƒbƒN(‘æˆê’e)",
 		unidentifiedResourceName = "2019_SStarR_Tbox",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "µ‰¤‰Æƒ`ƒ‡ƒRƒpƒbƒN(‘æˆê’e)",
 		identifiedResourceName = "2019_SStarR_Tbox",
 		identifiedDescriptionName = {
@@ -11688,7 +11670,7 @@ itemInfo format:
 	[100646] = {
 		unidentifiedDisplayName = "µ‰¤‰Æƒ`ƒ‡ƒRƒpƒbƒN(‘æ“ñ’e)",
 		unidentifiedResourceName = "2019_SStarR_Tbox",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "µ‰¤‰Æƒ`ƒ‡ƒRƒpƒbƒN(‘æ“ñ’e)",
 		identifiedResourceName = "2019_SStarR_Tbox",
 		identifiedDescriptionName = {
@@ -11727,7 +11709,7 @@ itemInfo format:
 	[100647] = {
 		unidentifiedDisplayName = "µ‰¤‰Æƒ`ƒ‡ƒRƒpƒbƒN(‘æO’e)",
 		unidentifiedResourceName = "2019_SStarR_Tbox",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "µ‰¤‰Æƒ`ƒ‡ƒRƒpƒbƒN(‘æO’e)",
 		identifiedResourceName = "2019_SStarR_Tbox",
 		identifiedDescriptionName = {
@@ -11769,7 +11751,7 @@ itemInfo format:
 	[100685] = {
 		unidentifiedDisplayName = "”’ğ",
 		unidentifiedResourceName = "¿õÈ²ÁÖ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”’ğ",
 		identifiedResourceName = "¿õÈ²ÁÖ",
 		identifiedDescriptionName = {
@@ -11797,7 +11779,7 @@ itemInfo format:
 	[100692] = {
 		unidentifiedDisplayName = "”’ğ‚Ì” ‹l‚ß(50šâ)",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”’ğ‚Ì” ‹l‚ß(50šâ)",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -11827,7 +11809,7 @@ itemInfo format:
 	[100693] = {
 		unidentifiedDisplayName = "”’ğ‚Ì” ‹l‚ß(150šâ)",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”’ğ‚Ì” ‹l‚ß(150šâ)",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -11857,7 +11839,7 @@ itemInfo format:
 	[100729] = {
 		unidentifiedDisplayName = "ƒGƒ“ƒnƒ“ƒXƒLƒ…[ƒuII(ƒCƒ‹ƒVƒIƒ“)",
 		unidentifiedResourceName = "Auto_M_I_Box_A",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒ“ƒnƒ“ƒXƒLƒ…[ƒuII(ƒCƒ‹ƒVƒIƒ“)",
 		identifiedResourceName = "Auto_M_I_Box_A",
 		identifiedDescriptionName = {
@@ -11896,7 +11878,7 @@ itemInfo format:
 	[100731] = {
 		unidentifiedDisplayName = "ƒLƒ“ƒ [ƒvƒ“ƒVƒ…",
 		unidentifiedResourceName = "¹ğ¼î",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒ“ƒ [ƒvƒ“ƒVƒ…",
 		identifiedResourceName = "¹ğ¼î",
 		identifiedDescriptionName = {
@@ -11923,7 +11905,7 @@ itemInfo format:
 	[100732] = {
 		unidentifiedDisplayName = "ƒLƒ“ƒ [ƒvƒ“ƒVƒ…‚Ì’M(50”t)",
 		unidentifiedResourceName = "¹ßÈ¿µÈÆ÷µµÁó",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒ“ƒ [ƒvƒ“ƒVƒ…‚Ì’M(50”t)",
 		identifiedResourceName = "¹ßÈ¿µÈÆ÷µµÁó",
 		identifiedDescriptionName = {
@@ -11956,7 +11938,7 @@ itemInfo format:
 	[100733] = {
 		unidentifiedDisplayName = "ƒLƒ“ƒ [ƒvƒ“ƒVƒ…‚Ì’M(150”t)",
 		unidentifiedResourceName = "¹ßÈ¿µÈÆ÷µµÁó",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒ“ƒ [ƒvƒ“ƒVƒ…‚Ì’M(150”t)",
 		identifiedResourceName = "¹ßÈ¿µÈÆ÷µµÁó",
 		identifiedDescriptionName = {
@@ -11989,7 +11971,7 @@ itemInfo format:
 	[100734] = {
 		unidentifiedDisplayName = "÷‚à‚¿",
 		unidentifiedResourceName = "º¢²ÉÂû¶±",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "÷‚à‚¿",
 		identifiedResourceName = "º¢²ÉÂû¶±",
 		identifiedDescriptionName = {
@@ -12015,7 +11997,7 @@ itemInfo format:
 	[100735] = {
 		unidentifiedDisplayName = "÷‚à‚¿‚ÌÜ” (50ŒÂ)",
 		unidentifiedResourceName = "À½½Äº¸ÀÚ±â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "÷‚à‚¿‚ÌÜ” (50ŒÂ)",
 		identifiedResourceName = "À½½Äº¸ÀÚ±â",
 		identifiedDescriptionName = {
@@ -12048,7 +12030,7 @@ itemInfo format:
 	[100736] = {
 		unidentifiedDisplayName = "÷‚à‚¿‚ÌÜ” (150ŒÂ)",
 		unidentifiedResourceName = "À½½Äº¸ÀÚ±â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "÷‚à‚¿‚ÌÜ” (150ŒÂ)",
 		identifiedResourceName = "À½½Äº¸ÀÚ±â",
 		identifiedDescriptionName = {
@@ -12081,7 +12063,7 @@ itemInfo format:
 	[100737] = {
 		unidentifiedDisplayName = "ƒIƒXƒJ[‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒIƒXƒJ[‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -12116,7 +12098,7 @@ itemInfo format:
 	[100738] = {
 		unidentifiedDisplayName = "‰¤—ƒƒA‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤—ƒƒA‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -12154,7 +12136,7 @@ itemInfo format:
 	[100739] = {
 		unidentifiedDisplayName = "ƒXƒs[ƒJ‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒs[ƒJ‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -12189,7 +12171,7 @@ itemInfo format:
 	[100794] = {
 		unidentifiedDisplayName = "ˆá–@ƒp[ƒc(Type1)",
 		unidentifiedResourceName = "Auto_Imp_Melee",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆá–@ƒp[ƒc(Type1)",
 		identifiedResourceName = "Auto_Imp_Melee",
 		identifiedDescriptionName = {
@@ -12228,7 +12210,7 @@ itemInfo format:
 	[100795] = {
 		unidentifiedDisplayName = "ˆá–@ƒp[ƒc(Type2)",
 		unidentifiedResourceName = "Auto_Imp_Magic",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆá–@ƒp[ƒc(Type2)",
 		identifiedResourceName = "Auto_Imp_Magic",
 		identifiedDescriptionName = {
@@ -12251,7 +12233,7 @@ itemInfo format:
 	[100797] = {
 		unidentifiedDisplayName = "ƒ}ƒ^ƒ^ƒr‚ÌŒ´–Ø",
 		unidentifiedResourceName = "ActinidiaPolygamaTree",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒ^ƒ^ƒr‚ÌŒ´–Ø",
 		identifiedResourceName = "ActinidiaPolygamaTree",
 		identifiedDescriptionName = {
@@ -12269,7 +12251,7 @@ itemInfo format:
 	[100811] = {
 		unidentifiedDisplayName = "g”’é“ª(ƒ|ƒŠƒ“‚Ì•‘)",
 		unidentifiedResourceName = "È«¹é¸ğÄ¡¸µ¸ğÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "g”’é“ª(ƒ|ƒŠƒ“‚Ì•‘)",
 		identifiedResourceName = "È«¹é¸ğÄ¡¸µ¸ğÀÚ",
 		identifiedDescriptionName = {
@@ -12302,7 +12284,7 @@ itemInfo format:
 	[100812] = {
 		unidentifiedDisplayName = "‚ß‚Å‚½‚¢•—˜C•~•ï‚İ(50ŒÂ“ü‚è)",
 		unidentifiedResourceName = "À½½Äº¸ÀÚ±â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚ß‚Å‚½‚¢•—˜C•~•ï‚İ(50ŒÂ“ü‚è)",
 		identifiedResourceName = "À½½Äº¸ÀÚ±â",
 		identifiedDescriptionName = {
@@ -12333,7 +12315,7 @@ itemInfo format:
 	[100813] = {
 		unidentifiedDisplayName = "‚ß‚Å‚½‚¢•—˜C•~•ï‚İ(150ŒÂ“ü‚è)",
 		unidentifiedResourceName = "À½½Äº¸ÀÚ±â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚ß‚Å‚½‚¢•—˜C•~•ï‚İ(150ŒÂ“ü‚è)",
 		identifiedResourceName = "À½½Äº¸ÀÚ±â",
 		identifiedDescriptionName = {
@@ -12364,7 +12346,7 @@ itemInfo format:
 	[100848] = {
 		unidentifiedDisplayName = "ƒEƒH[ƒ^[ƒƒƒ“ƒvƒŠƒ“",
 		unidentifiedResourceName = "¼ö¹ÚÇªµù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒH[ƒ^[ƒƒƒ“ƒvƒŠƒ“",
 		identifiedResourceName = "¼ö¹ÚÇªµù",
 		identifiedDescriptionName = {
@@ -12393,7 +12375,7 @@ itemInfo format:
 	[100849] = {
 		unidentifiedDisplayName = "ƒEƒH[ƒ^[ƒƒƒ“ƒoƒbƒO(50ŒÂ)",
 		unidentifiedResourceName = "ÀßÀÍÀº¼ö¹Ú",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒH[ƒ^[ƒƒƒ“ƒoƒbƒO(50ŒÂ)",
 		identifiedResourceName = "ÀßÀÍÀº¼ö¹Ú",
 		identifiedDescriptionName = {
@@ -12428,7 +12410,7 @@ itemInfo format:
 	[100850] = {
 		unidentifiedDisplayName = "ƒEƒH[ƒ^[ƒƒƒ“ƒoƒbƒO(150ŒÂ)",
 		unidentifiedResourceName = "ÀßÀÍÀº¼ö¹Ú",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒH[ƒ^[ƒƒƒ“ƒoƒbƒO(150ŒÂ)",
 		identifiedResourceName = "ÀßÀÍÀº¼ö¹Ú",
 		identifiedDescriptionName = {
@@ -12463,7 +12445,7 @@ itemInfo format:
 	[101137] = {
 		unidentifiedDisplayName = "ƒAƒjƒo[ƒTƒŠ[BOX",
 		unidentifiedResourceName = "¼Ò¿ø»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒAƒjƒo[ƒTƒŠ[BOX",
 		identifiedResourceName = "¼Ò¿ø»óÀÚ",
 		identifiedDescriptionName = {
@@ -12484,7 +12466,7 @@ itemInfo format:
 	[101239] = {
 		unidentifiedDisplayName = "µ‰¤‰Æƒ`ƒ‡ƒRƒpƒbƒN(‘æl’e)",
 		unidentifiedResourceName = "2019_SStarR_Tbox",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "µ‰¤‰Æƒ`ƒ‡ƒRƒpƒbƒN(‘æl’e)",
 		identifiedResourceName = "2019_SStarR_Tbox",
 		identifiedDescriptionName = {
@@ -12520,7 +12502,7 @@ itemInfo format:
 	[101286] = {
 		unidentifiedDisplayName = "ƒ[ƒ„ƒ‹ƒ[ƒŠ[ƒpƒbƒN",
 		unidentifiedResourceName = "ÃÊ·Ï»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ[ƒ„ƒ‹ƒ[ƒŠ[ƒpƒbƒN",
 		identifiedResourceName = "ÃÊ·Ï»óÀÚ",
 		identifiedDescriptionName = {
@@ -12539,7 +12521,7 @@ itemInfo format:
 	[101287] = {
 		unidentifiedDisplayName = "ƒCƒOƒhƒ‰ƒVƒ‹‚ÌÀƒpƒbƒN",
 		unidentifiedResourceName = "ÃÊ·Ï»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒOƒhƒ‰ƒVƒ‹‚ÌÀƒpƒbƒN",
 		identifiedResourceName = "ÃÊ·Ï»óÀÚ",
 		identifiedDescriptionName = {
@@ -12559,7 +12541,7 @@ itemInfo format:
 	[101288] = {
 		unidentifiedDisplayName = "ƒCƒOƒhƒ‰ƒVƒ‹‚ÌíƒpƒbƒN",
 		unidentifiedResourceName = "ÃÊ·Ï»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒOƒhƒ‰ƒVƒ‹‚ÌíƒpƒbƒN",
 		identifiedResourceName = "ÃÊ·Ï»óÀÚ",
 		identifiedDescriptionName = {
@@ -12579,7 +12561,7 @@ itemInfo format:
 	[101289] = {
 		unidentifiedDisplayName = "ƒJƒ{ƒ`ƒƒƒpƒCƒpƒbƒN",
 		unidentifiedResourceName = "ÃÊ·Ï»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJƒ{ƒ`ƒƒƒpƒCƒpƒbƒN",
 		identifiedResourceName = "ÃÊ·Ï»óÀÚ",
 		identifiedDescriptionName = {
@@ -12598,7 +12580,7 @@ itemInfo format:
 	[101290] = {
 		unidentifiedDisplayName = "ƒAƒCƒeƒ€ŠÓ’èLv1‚Ì” (30“ú)",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒAƒCƒeƒ€ŠÓ’èLv1‚Ì” (30“ú)",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -12628,7 +12610,7 @@ itemInfo format:
 	[101291] = {
 		unidentifiedDisplayName = "ƒOƒŠ[ƒhLv1‚Ì” (30“ú)",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒOƒŠ[ƒhLv1‚Ì” (30“ú)",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -12658,7 +12640,7 @@ itemInfo format:
 	[101292] = {
 		unidentifiedDisplayName = "ƒŠƒUƒŒƒNƒVƒ‡ƒ“Lv4‚Ì” (30“ú)",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŠƒUƒŒƒNƒVƒ‡ƒ“Lv4‚Ì” (30“ú)",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -12688,7 +12670,7 @@ itemInfo format:
 	[101293] = {
 		unidentifiedDisplayName = "ƒAƒCƒeƒ€ŠÓ’èLv1(30“ú)",
 		unidentifiedResourceName = "¿¤¸®¸àÅ»_Ç³",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒAƒCƒeƒ€ŠÓ’èLv1(30“ú)",
 		identifiedResourceName = "¿¤¸®¸àÅ»_Ç³",
 		identifiedDescriptionName = {
@@ -12717,7 +12699,7 @@ itemInfo format:
 	[101294] = {
 		unidentifiedDisplayName = "ƒOƒŠ[ƒhLv1(30“ú)",
 		unidentifiedResourceName = "¿¤¸®¸àÅ»_Ç³",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒOƒŠ[ƒhLv1(30“ú)",
 		identifiedResourceName = "¿¤¸®¸àÅ»_Ç³",
 		identifiedDescriptionName = {
@@ -12746,7 +12728,7 @@ itemInfo format:
 	[101295] = {
 		unidentifiedDisplayName = "ƒŠƒUƒŒƒNƒVƒ‡ƒ“Lv4(30“ú)",
 		unidentifiedResourceName = "ºûÀÇÁÖ¹®¼­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŠƒUƒŒƒNƒVƒ‡ƒ“Lv4(30“ú)",
 		identifiedResourceName = "ºûÀÇÁÖ¹®¼­",
 		identifiedDescriptionName = {
@@ -12775,7 +12757,7 @@ itemInfo format:
 	[101425] = {
 		unidentifiedDisplayName = "©“®‚¨‘|œ‹@ƒIƒƒK‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "©“®‚¨‘|œ‹@ƒIƒƒK‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -12812,7 +12794,7 @@ itemInfo format:
 	[101427] = {
 		unidentifiedDisplayName = "ŒÃ‰¤ƒOƒ[ƒU‚Ìè†",
 		unidentifiedResourceName = "¾ÈºÎÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ŒÃ‰¤ƒOƒ[ƒU‚Ìè†",
 		identifiedResourceName = "¾ÈºÎÆíÁö",
 		identifiedDescriptionName = {
@@ -12847,7 +12829,7 @@ itemInfo format:
 	[101430] = {
 		unidentifiedDisplayName = "ƒ|ƒŠƒ“ƒO‚Ì–¼h",
 		unidentifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ|ƒŠƒ“ƒO‚Ì–¼h",
 		identifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
 		identifiedDescriptionName = {
@@ -12870,7 +12852,7 @@ itemInfo format:
 	[101431] = {
 		unidentifiedDisplayName = "BAP‚Ì–¼h",
 		unidentifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "BAP‚Ì–¼h",
 		identifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
 		identifiedDescriptionName = {
@@ -12893,7 +12875,7 @@ itemInfo format:
 	[101583] = {
 		unidentifiedDisplayName = "••ˆó‚³‚ê‚½MVPƒJ[ƒh’Ÿ",
 		unidentifiedResourceName = "³°ÀºÄ«µåÃ¸_»¡°­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "••ˆó‚³‚ê‚½MVPƒJ[ƒh’Ÿ",
 		identifiedResourceName = "³°ÀºÄ«µåÃ¸_»¡°­",
 		identifiedDescriptionName = {
@@ -12914,7 +12896,7 @@ itemInfo format:
 	[200007] = {
 		unidentifiedDisplayName = "ƒVƒƒƒhƒEƒ`ƒFƒCƒT[VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒV[ƒt(ƒ[ƒO)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒVƒƒƒhƒEƒ`ƒFƒCƒT[VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒV[ƒt(ƒ[ƒO)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -12971,7 +12953,7 @@ itemInfo format:
 	[200008] = {
 		unidentifiedDisplayName = "ƒVƒƒƒhƒEƒ`ƒFƒCƒT[ƒƒEƒ‹‚Ì”  [“]¶ƒV[ƒt(ƒ[ƒO)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒVƒƒƒhƒEƒ`ƒFƒCƒT[ƒƒEƒ‹‚Ì”  [“]¶ƒV[ƒt(ƒ[ƒO)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13036,7 +13018,7 @@ itemInfo format:
 	[200009] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜMonstersVII",
 		unidentifiedResourceName = "Costama_Egg79",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜMonstersVII",
 		identifiedResourceName = "Costama_Egg79",
 		identifiedDescriptionName = {
@@ -13077,7 +13059,7 @@ itemInfo format:
 	[200010] = {
 		unidentifiedDisplayName = "ƒA[ƒNƒrƒVƒ‡ƒbƒvVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒAƒRƒ‰ƒCƒg(ƒvƒŠ[ƒXƒg)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒA[ƒNƒrƒVƒ‡ƒbƒvVIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒAƒRƒ‰ƒCƒg(ƒvƒŠ[ƒXƒg)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13134,7 +13116,7 @@ itemInfo format:
 	[200011] = {
 		unidentifiedDisplayName = "ƒA[ƒNƒrƒVƒ‡ƒbƒvƒƒEƒ‹‚Ì”  [“]¶ƒAƒRƒ‰ƒCƒg(ƒvƒŠ[ƒXƒg)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒA[ƒNƒrƒVƒ‡ƒbƒvƒƒEƒ‹‚Ì”  [“]¶ƒAƒRƒ‰ƒCƒg(ƒvƒŠ[ƒXƒg)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13199,7 +13181,7 @@ itemInfo format:
 	[200012] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜAnimalsVI",
 		unidentifiedResourceName = "Costama_Egg80",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜAnimalsVI",
 		identifiedResourceName = "Costama_Egg80",
 		identifiedDescriptionName = {
@@ -13234,7 +13216,7 @@ itemInfo format:
 	[200013] = {
 		unidentifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒVƒŠ[ƒY‘I‘ğŒğŠ·ƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒVƒŠ[ƒY‘I‘ğŒğŠ·ƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13262,7 +13244,7 @@ itemInfo format:
 	[200014] = {
 		unidentifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13287,7 +13269,7 @@ itemInfo format:
 	[200015] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜMoonRabbitII",
 		unidentifiedResourceName = "Costama_Egg81",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜMoonRabbitII",
 		identifiedResourceName = "Costama_Egg81",
 		identifiedDescriptionName = {
@@ -13323,7 +13305,7 @@ itemInfo format:
 	[200016] = {
 		unidentifiedDisplayName = "ƒ~ƒ“ƒXƒgƒŒƒ‹VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒo[ƒh)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ~ƒ“ƒXƒgƒŒƒ‹VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒo[ƒh)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13380,7 +13362,7 @@ itemInfo format:
 	[200017] = {
 		unidentifiedDisplayName = "ƒ~ƒ“ƒXƒgƒŒƒ‹ƒƒEƒ‹‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒo[ƒh)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ~ƒ“ƒXƒgƒŒƒ‹ƒƒEƒ‹‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒo[ƒh)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13445,7 +13427,7 @@ itemInfo format:
 	[200018] = {
 		unidentifiedDisplayName = "ƒƒ“ƒ ƒ‰[VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒ ƒ“ƒT[)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒ“ƒ ƒ‰[VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒ ƒ“ƒT[)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13502,7 +13484,7 @@ itemInfo format:
 	[200019] = {
 		unidentifiedDisplayName = "ƒƒ“ƒ ƒ‰[ƒƒEƒ‹‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒ ƒ“ƒT[)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒ“ƒ ƒ‰[ƒƒEƒ‹‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒ ƒ“ƒT[)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13567,7 +13549,7 @@ itemInfo format:
 	[200020] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHalloweenIV",
 		unidentifiedResourceName = "Costama_Egg82",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHalloweenIV",
 		identifiedResourceName = "Costama_Egg82",
 		identifiedDescriptionName = {
@@ -13604,7 +13586,7 @@ itemInfo format:
 	[200021] = {
 		unidentifiedDisplayName = "ƒ[ƒTƒ‰[VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ}ƒWƒVƒƒƒ“(ƒZ[ƒW)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ[ƒTƒ‰[VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒ}ƒWƒVƒƒƒ“(ƒZ[ƒW)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13661,7 +13643,7 @@ itemInfo format:
 	[200022] = {
 		unidentifiedDisplayName = "ƒ[ƒTƒ‰[ƒƒEƒ‹‚Ì”  [“]¶ƒ}ƒWƒVƒƒƒ“(ƒZ[ƒW)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ[ƒTƒ‰[ƒƒEƒ‹‚Ì”  [“]¶ƒ}ƒWƒVƒƒƒ“(ƒZ[ƒW)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13726,7 +13708,7 @@ itemInfo format:
 	[200023] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜGothic&LolitaII",
 		unidentifiedResourceName = "»çÅÁ½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜGothic&LolitaII",
 		identifiedResourceName = "»çÅÁ½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -13765,7 +13747,7 @@ itemInfo format:
 	[200024] = {
 		unidentifiedDisplayName = "ƒŒƒ“ƒWƒƒ[VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒnƒ“ƒ^[)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒ“ƒWƒƒ[VIPƒ`ƒPƒbƒg‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒnƒ“ƒ^[)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13822,7 +13804,7 @@ itemInfo format:
 	[200025] = {
 		unidentifiedDisplayName = "ƒŒƒ“ƒWƒƒ[ƒƒEƒ‹‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒnƒ“ƒ^[)Œnê—p]",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒ“ƒWƒƒ[ƒƒEƒ‹‚Ì”  [“]¶ƒA[ƒ`ƒƒ[(ƒnƒ“ƒ^[)Œnê—p]",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -13887,7 +13869,7 @@ itemInfo format:
 	[200026] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionV(–¾F)",
 		unidentifiedResourceName = "Costama_Egg84_1",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionV(–¾F)",
 		identifiedResourceName = "Costama_Egg84_1",
 		identifiedDescriptionName = {
@@ -13936,7 +13918,7 @@ itemInfo format:
 	[200027] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionV(ˆÃF)",
 		unidentifiedResourceName = "Costama_Egg84_2",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionV(ˆÃF)",
 		identifiedResourceName = "Costama_Egg84_2",
 		identifiedDescriptionName = {
@@ -13985,7 +13967,7 @@ itemInfo format:
 	[200034] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2020”N]‚‹‰ƒIƒCƒ‹‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14023,7 +14005,7 @@ itemInfo format:
 	[200035] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2020summer] •à—…µ¸˜BƒtƒH[ƒX‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14065,7 +14047,7 @@ itemInfo format:
 	[200036] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2020summer] ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14104,7 +14086,7 @@ itemInfo format:
 	[200037] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "v”O‘Ì•ŠíƒAƒbƒvƒOƒŒ[ƒhƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14133,7 +14115,7 @@ itemInfo format:
 	[200038] = {
 		unidentifiedDisplayName = "[2021”N]ƒnƒƒEƒBƒ“ƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2021”N]ƒnƒƒEƒBƒ“ƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -14173,7 +14155,7 @@ itemInfo format:
 	[200039] = {
 		unidentifiedDisplayName = "[2020”N] ƒnƒƒEƒBƒ“ƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2020”N] ƒnƒƒEƒBƒ“ƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
 		identifiedDescriptionName = {
@@ -14213,7 +14195,7 @@ itemInfo format:
 	[200040] = {
 		unidentifiedDisplayName = "[2021]BitCashƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2021]BitCashƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -14255,7 +14237,7 @@ itemInfo format:
 	[200041] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[18thAnniversary]•à—…µ¸˜BƒtƒH[ƒX‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14298,7 +14280,7 @@ itemInfo format:
 	[200042] = {
 		unidentifiedDisplayName = "[2021”N]‹†‹É¸˜Bƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "»¡°£»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2021”N]‹†‹É¸˜Bƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "»¡°£»óÀÚ",
 		identifiedDescriptionName = {
@@ -14339,7 +14321,7 @@ itemInfo format:
 	[200043] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2021”N]‚‹‰ƒIƒCƒ‹‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14377,7 +14359,7 @@ itemInfo format:
 	[200044] = {
 		unidentifiedDisplayName = "å‡‹C˜OƒXƒyƒVƒƒƒ‹ƒhƒŠƒ“ƒN",
 		unidentifiedResourceName = "ÇÉ±Íº£¸®Áê½º",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "å‡‹C˜OƒXƒyƒVƒƒƒ‹ƒhƒŠƒ“ƒN",
 		identifiedResourceName = "ÇÉ±Íº£¸®Áê½º",
 		identifiedDescriptionName = {
@@ -14420,7 +14402,7 @@ itemInfo format:
 	[200045] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[18thAnniversary]ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14460,7 +14442,7 @@ itemInfo format:
 	[200053] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHolyDarknessV",
 		unidentifiedResourceName = "Sacred_Scroll",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHolyDarknessV",
 		identifiedResourceName = "Sacred_Scroll",
 		identifiedDescriptionName = {
@@ -14496,7 +14478,7 @@ itemInfo format:
 	[200057] = {
 		unidentifiedDisplayName = "¯’éVIPƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¯’éVIPƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -14546,7 +14528,7 @@ itemInfo format:
 	[200058] = {
 		unidentifiedDisplayName = "¯’éƒƒEƒ‹‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¯’éƒƒEƒ‹‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -14602,7 +14584,7 @@ itemInfo format:
 	[200059] = {
 		unidentifiedDisplayName = "¯’é“]Eƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¯’é“]Eƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -14640,7 +14622,7 @@ itemInfo format:
 	[200060] = {
 		unidentifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[VIPƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[VIPƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -14690,7 +14672,7 @@ itemInfo format:
 	[200061] = {
 		unidentifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[ƒƒEƒ‹‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[ƒƒEƒ‹‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -14746,7 +14728,7 @@ itemInfo format:
 	[200062] = {
 		unidentifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[“]Eƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒEƒ‹ƒŠ[ƒp[“]Eƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -14784,7 +14766,7 @@ itemInfo format:
 	[200063] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜOriental",
 		unidentifiedResourceName = "Lunar_New_Year_Scroll",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜOriental",
 		identifiedResourceName = "Costama_Egg91",
 		identifiedDescriptionName = {
@@ -14816,7 +14798,7 @@ itemInfo format:
 	[200065] = {
 		unidentifiedDisplayName = "[2020] “Á•Êƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2020] “Á•Êƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -14854,7 +14836,7 @@ itemInfo format:
 	[200066] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "E‹ÆƒXƒyƒVƒƒƒ‹ƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14880,7 +14862,7 @@ itemInfo format:
 	[200067] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "v”O‘Ì•ŠíƒAƒbƒvƒOƒŒ[ƒhƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -14927,7 +14909,7 @@ itemInfo format:
 	[200068] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜSteampunkII",
 		unidentifiedResourceName = "°Ç½½¸µ°Å½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜSteampunkII",
 		identifiedResourceName = "°Ç½½¸µ°Å½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -14966,7 +14948,7 @@ itemInfo format:
 	[200089] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionVI(ˆÃF)",
 		unidentifiedResourceName = "Costama_Egg93_2",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionVI(ˆÃF)",
 		identifiedResourceName = "Costama_Egg93_2",
 		identifiedDescriptionName = {
@@ -15015,7 +14997,7 @@ itemInfo format:
 	[200096] = {
 		unidentifiedDisplayName = "Î•ĞûW‰Æƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "º¸¹°»óÀÚ_",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Î•ĞûW‰Æƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "º¸¹°»óÀÚ_",
 		identifiedDescriptionName = {
@@ -15041,7 +15023,7 @@ itemInfo format:
 	[200101] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜFrozenV",
 		unidentifiedResourceName = "Àº¾Ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜFrozenV",
 		identifiedResourceName = "Àº¾Ë",
 		identifiedDescriptionName = {
@@ -15076,7 +15058,7 @@ itemInfo format:
 	[200102] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜGirlsSelectionVIII",
 		unidentifiedResourceName = "Costama_Egg96",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜGirlsSelectionVIII",
 		identifiedResourceName = "Costama_Egg96",
 		identifiedDescriptionName = {
@@ -15110,7 +15092,7 @@ itemInfo format:
 	[200104] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜGirlsSelectionVIII",
 		unidentifiedResourceName = "µğ¾Æº¼¸¯¾Ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜMonstersVIII",
 		identifiedResourceName = "µğ¾Æº¼¸¯¾Ë",
 		identifiedDescriptionName = {
@@ -15143,7 +15125,7 @@ itemInfo format:
 	[200105] = {
 		unidentifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒ`ƒPƒbƒgII‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒ`ƒPƒbƒgII‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -15169,7 +15151,7 @@ itemInfo format:
 	[200106] = {
 		unidentifiedDisplayName = "ƒGƒ“ƒnƒ“ƒXƒLƒ…[ƒuII(ƒCƒ‹ƒVƒIƒ“)‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒ“ƒnƒ“ƒXƒLƒ…[ƒuII(ƒCƒ‹ƒVƒIƒ“)‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -15190,7 +15172,7 @@ itemInfo format:
 	[200107] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜSpringPartyIV",
 		unidentifiedResourceName = "Costama_Egg98",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜSpringPartyIV",
 		identifiedResourceName = "Costama_Egg98",
 		identifiedDescriptionName = {
@@ -15224,7 +15206,7 @@ itemInfo format:
 	[200114] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2021summer]•à—…µ¸˜BƒtƒH[ƒX‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -15267,7 +15249,7 @@ itemInfo format:
 	[200115] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2021summer]ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -15306,7 +15288,7 @@ itemInfo format:
 	[200116] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHolyDarknessVI",
 		unidentifiedResourceName = "¾Ç¸¶Èû½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHolyDarknessVI",
 		identifiedResourceName = "¾Ç¸¶Èû½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -15342,7 +15324,7 @@ itemInfo format:
 	[200130] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜSeasideIII",
 		unidentifiedResourceName = "¼öÀÚ¸®½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜSeasideIII",
 		identifiedResourceName = "¼öÀÚ¸®½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -15378,7 +15360,7 @@ itemInfo format:
 	[200132] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜBurningII",
 		unidentifiedResourceName = "È­ÀÚ¸®½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜBurningII",
 		identifiedResourceName = "È­ÀÚ¸®½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -15415,7 +15397,7 @@ itemInfo format:
 	[200139] = {
 		unidentifiedDisplayName = "[2021]“Á•Êƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2021]“Á•Êƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -15453,7 +15435,7 @@ itemInfo format:
 	[200142] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜAnimalsVIII",
 		unidentifiedResourceName = "Costama_Egg102",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜAnimalsVIII",
 		identifiedResourceName = "Costama_Egg102",
 		identifiedDescriptionName = {
@@ -15489,7 +15471,7 @@ itemInfo format:
 	[200153] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜAnimalsVIII",
 		unidentifiedResourceName = "StarSoul_Scroll",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHalloweenV",
 		identifiedResourceName = "StarSoul_Scroll",
 		identifiedDescriptionName = {
@@ -15524,7 +15506,7 @@ itemInfo format:
 	[200154] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜGourmet",
 		unidentifiedResourceName = "Costama_Egg104",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜGourmet",
 		identifiedResourceName = "Costama_Egg104",
 		identifiedDescriptionName = {
@@ -15560,7 +15542,7 @@ itemInfo format:
 	[200158] = {
 		unidentifiedDisplayName = "•œƒRƒX‚½‚Ü‚Ì” ",
 		unidentifiedResourceName = "³É¹îÁö»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•œƒRƒX‚½‚Ü‚Ì” ",
 		identifiedResourceName = "³É¹îÁö»óÀÚ",
 		identifiedDescriptionName = {
@@ -15595,7 +15577,7 @@ itemInfo format:
 	[200165] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionVII(–¾F)",
 		unidentifiedResourceName = "Costama_Egg105_1",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜHairCollectionVII(–¾F)",
 		identifiedResourceName = "Costama_Egg105_1",
 		identifiedDescriptionName = {
@@ -15640,7 +15622,7 @@ itemInfo format:
 	[200166] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[19thAnniversary]•à—…µ¸˜BƒtƒH[ƒX‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -15683,7 +15665,7 @@ itemInfo format:
 	[200167] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[19thAnniversary]ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -15723,7 +15705,7 @@ itemInfo format:
 	[200173] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜFrozenVI",
 		unidentifiedResourceName = "Costama_Egg106",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜFrozenVI",
 		identifiedResourceName = "Costama_Egg106",
 		identifiedDescriptionName = {
@@ -15762,7 +15744,7 @@ itemInfo format:
 	[200184] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜCute",
 		unidentifiedResourceName = "·¹µå½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜCute",
 		identifiedResourceName = "·¹µå½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -15800,7 +15782,7 @@ itemInfo format:
 	[200188] = {
 		unidentifiedDisplayName = "[2022”N]‹†‹É¸˜Bƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "»¡°£»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2022”N]‹†‹É¸˜Bƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "»¡°£»óÀÚ",
 		identifiedDescriptionName = {
@@ -15841,7 +15823,7 @@ itemInfo format:
 	[200189] = {
 		unidentifiedDisplayName = "[2022]“Á•Êƒ`ƒPƒbƒg‚Ì” ",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2022]“Á•Êƒ`ƒPƒbƒg‚Ì” ",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
@@ -15879,7 +15861,7 @@ itemInfo format:
 	[200192] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜMusicFes",
 		unidentifiedResourceName = "Costama_Egg108",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜMusicFes",
 		identifiedResourceName = "Costama_Egg108",
 		identifiedDescriptionName = {
@@ -15916,7 +15898,7 @@ itemInfo format:
 	[200200] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜFlowerGardenIII",
 		unidentifiedResourceName = "Costama_Egg109",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜFlowerGardenIII",
 		identifiedResourceName = "Costama_Egg109",
 		identifiedDescriptionName = {
@@ -15952,7 +15934,7 @@ itemInfo format:
 	[200205] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜCharactersIII",
 		unidentifiedResourceName = "Costama_Egg110",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜCharactersIII",
 		identifiedResourceName = "Costama_Egg110",
 		identifiedDescriptionName = {
@@ -15989,7 +15971,7 @@ itemInfo format:
 	[200206] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜJuneBrideIII",
 		unidentifiedResourceName = "±âµµ½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜJuneBrideIII",
 		identifiedResourceName = "±âµµ½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -16026,7 +16008,7 @@ itemInfo format:
 	[200208] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2022summer]•à—…µ¸˜BƒtƒH[ƒX‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -16069,7 +16051,7 @@ itemInfo format:
 	[200209] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2022summer]ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“‚Ì” ",
 		identifiedResourceName = "¾×¼¼¼­¸®»óÀÚ",
 		identifiedDescriptionName = {
@@ -16108,7 +16090,7 @@ itemInfo format:
 	[200217] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜGalaxy",
 		unidentifiedResourceName = "EnvoyOfMoon_Scroll_TW",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜGalaxy",
 		identifiedResourceName = "EnvoyOfMoon_Scroll_TW",
 		identifiedDescriptionName = {
@@ -16144,7 +16126,7 @@ itemInfo format:
 	[200218] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜAdventure",
 		unidentifiedResourceName = "Costama_Egg113",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜAdventure",
 		identifiedResourceName = "Costama_Egg113",
 		identifiedDescriptionName = {
@@ -16180,7 +16162,7 @@ itemInfo format:
 	[200223] = {
 		unidentifiedDisplayName = "ƒRƒX‚½‚ÜOrientalII",
 		unidentifiedResourceName = "ÅÂ±Ø½ºÅ©·Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒX‚½‚ÜOrientalII",
 		identifiedResourceName = "ÅÂ±Ø½ºÅ©·Ñ",
 		identifiedDescriptionName = {
@@ -16214,7 +16196,7 @@ itemInfo format:
 	[300229] = {
 		unidentifiedDisplayName = "Extra Str",
 		unidentifiedResourceName = "°ËºÓÀºº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Extra Str",
 		identifiedResourceName = "°ËºÓÀºº¸¼®",
 		identifiedDescriptionName = {
@@ -16235,7 +16217,7 @@ itemInfo format:
 	[300304] = {
 		unidentifiedDisplayName = "Ä’a",
 		unidentifiedResourceName = "º°ÀÇÈå´À³¦_ÆÄ¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Ä’a",
 		identifiedResourceName = "º°ÀÇÈå´À³¦_ÆÄ¶û",
 		identifiedDescriptionName = {
@@ -16249,7 +16231,7 @@ itemInfo format:
 	[300305] = {
 		unidentifiedDisplayName = "‹ß•¨”½Ë5%",
 		unidentifiedResourceName = "°¡½Ã³ª¹«¾¾¾Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹ß•¨”½Ë5%",
 		identifiedResourceName = "°¡½Ã³ª¹«¾¾¾Ñ",
 		identifiedDescriptionName = {
@@ -16263,7 +16245,7 @@ itemInfo format:
 	[300306] = {
 		unidentifiedDisplayName = "•s‹ü",
 		unidentifiedResourceName = "¿ù·É±¤ÈÖ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•s‹ü",
 		identifiedResourceName = "¿ù·É±¤ÈÖ",
 		identifiedDescriptionName = {
@@ -16276,7 +16258,7 @@ itemInfo format:
 	[300311] = {
 		unidentifiedDisplayName = "‹°•|‘Ï«",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_³ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹°•|‘Ï«",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_³ì",
 		identifiedDescriptionName = {
@@ -16289,7 +16271,7 @@ itemInfo format:
 	[300312] = {
 		unidentifiedDisplayName = "¬—‘Ï«",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¬—‘Ï«",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -16302,7 +16284,7 @@ itemInfo format:
 	[300313] = {
 		unidentifiedDisplayName = "‡–°‘Ï«",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_³ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‡–°‘Ï«",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_³ì",
 		identifiedDescriptionName = {
@@ -16315,7 +16297,7 @@ itemInfo format:
 	[300314] = {
 		unidentifiedDisplayName = "—«‚Æ‹L‰¯‚ÌcŸæ",
 		unidentifiedResourceName = "¸ÁÀÚÀÇÇÑ±â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—«‚Æ‹L‰¯‚ÌcŸæ",
 		identifiedResourceName = "¸ÁÀÚÀÇÇÑ±â",
 		identifiedDescriptionName = {
@@ -16407,7 +16389,7 @@ itemInfo format:
 	[300315] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒtƒ@ƒCƒA",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒtƒ@ƒCƒA",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -16421,7 +16403,7 @@ itemInfo format:
 	[300316] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒEƒBƒ“ƒh",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒEƒBƒ“ƒh",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -16435,7 +16417,7 @@ itemInfo format:
 	[300317] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒA[ƒX",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒA[ƒX",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -16449,7 +16431,7 @@ itemInfo format:
 	[300386] = {
 		unidentifiedDisplayName = "”jÓ",
 		unidentifiedResourceName = "ÈëºûÀÇÁ¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”jÓ",
 		identifiedResourceName = "ÈëºûÀÇÁ¶°¢",
 		identifiedDescriptionName = {
@@ -16468,7 +16450,7 @@ itemInfo format:
 	[300387] = {
 		unidentifiedDisplayName = "–‚n",
 		unidentifiedResourceName = "ÀúÁÖ¹ŞÀºÆÄÆí",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–‚n",
 		identifiedResourceName = "ÀúÁÖ¹ŞÀºÆÄÆí",
 		identifiedDescriptionName = {
@@ -16487,7 +16469,7 @@ itemInfo format:
 	[300389] = {
 		unidentifiedDisplayName = "•—ƒ‚Ìg“k",
 		unidentifiedResourceName = "Black_Winged_Apostle",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•—ƒ‚Ìg“k",
 		identifiedResourceName = "Black_Winged_Apostle",
 		identifiedDescriptionName = {
@@ -16503,7 +16485,7 @@ itemInfo format:
 	[310075] = {
 		unidentifiedDisplayName = "ƒOƒŠ[ƒh‰r¥ - 100%",
 		unidentifiedResourceName = "°ËºÓÀºº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒOƒŠ[ƒh‰r¥ - 100%",
 		identifiedResourceName = "°ËºÓÀºº¸¼®",
 		identifiedDescriptionName = {
@@ -16517,7 +16499,7 @@ itemInfo format:
 	[310193] = {
 		unidentifiedDisplayName = "ƒmƒbƒNƒoƒbƒN–³Œø",
 		unidentifiedResourceName = "Èæ¿î¸ğ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒmƒbƒNƒoƒbƒN–³Œø",
 		identifiedResourceName = "Èæ¿î¸ğ",
 		identifiedDescriptionName = {
@@ -16530,7 +16512,7 @@ itemInfo format:
 	[310194] = {
 		unidentifiedDisplayName = "Def + 50",
 		unidentifiedResourceName = "¸¶·Â¼®_°ËÁ¤",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Def + 50",
 		identifiedResourceName = "¸¶·Â¼®_°ËÁ¤",
 		identifiedDescriptionName = {
@@ -16543,7 +16525,7 @@ itemInfo format:
 	[310195] = {
 		unidentifiedDisplayName = "ƒ}ƒOƒjƒtƒBƒJ[ƒgLv5",
 		unidentifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒOƒjƒtƒBƒJ[ƒgLv5",
 		identifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
 		identifiedDescriptionName = {
@@ -16557,7 +16539,7 @@ itemInfo format:
 	[310196] = {
 		unidentifiedDisplayName = "‰“‹——£•¨—‘Ï« + 10%",
 		unidentifiedResourceName = "ºĞÁø",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰“‹——£•¨—‘Ï« + 10%",
 		identifiedResourceName = "ºĞÁø",
 		identifiedDescriptionName = {
@@ -16571,7 +16553,7 @@ itemInfo format:
 	[310269] = {
 		unidentifiedDisplayName = "Î‰»‘Ï«",
 		unidentifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Î‰»‘Ï«",
 		identifiedResourceName = "¿ëÀÇº¸ÁÖ_È²",
 		identifiedDescriptionName = {
@@ -16584,7 +16566,7 @@ itemInfo format:
 	[310270] = {
 		unidentifiedDisplayName = "T-PowerBoost",
 		unidentifiedResourceName = "Improve_Module",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "T-PowerBoost",
 		identifiedResourceName = "Improve_Module",
 		identifiedDescriptionName = {
@@ -16616,7 +16598,7 @@ itemInfo format:
 	[310271] = {
 		unidentifiedDisplayName = "T-MagicBoost",
 		unidentifiedResourceName = "Improve_Module",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "T-MagicBoost",
 		identifiedResourceName = "Improve_Module",
 		identifiedDescriptionName = {
@@ -16648,7 +16630,7 @@ itemInfo format:
 	[310272] = {
 		unidentifiedDisplayName = "T-Assault",
 		unidentifiedResourceName = "Improve_Module",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "T-Assault",
 		identifiedResourceName = "Improve_Module",
 		identifiedDescriptionName = {
@@ -16682,7 +16664,7 @@ itemInfo format:
 	[310273] = {
 		unidentifiedDisplayName = "T-Electricity",
 		unidentifiedResourceName = "Improve_Module",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "T-Electricity",
 		identifiedResourceName = "Improve_Module",
 		identifiedDescriptionName = {
@@ -16738,7 +16720,7 @@ itemInfo format:
 	[310310] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒ‹[ƒ“ƒiƒCƒg)",
 		unidentifiedResourceName = "C_160LV_Rune_Red",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒ‹[ƒ“ƒiƒCƒg)",
 		identifiedResourceName = "C_160LV_Rune_Red",
 		identifiedDescriptionName = {
@@ -16759,7 +16741,7 @@ itemInfo format:
 	[310311] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒƒCƒ„ƒ‹ƒK[ƒh)",
 		unidentifiedResourceName = "C_160LV_Royal_G_Blue",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒƒCƒ„ƒ‹ƒK[ƒh)",
 		identifiedResourceName = "C_160LV_Royal_G_Blue",
 		identifiedDescriptionName = {
@@ -16781,7 +16763,7 @@ itemInfo format:
 	[310312] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒ[ƒTƒ‰[)",
 		unidentifiedResourceName = "C_160LV_Sorcerer_LBlue",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒ[ƒTƒ‰[)",
 		identifiedResourceName = "C_160LV_Sorcerer_LBlue",
 		identifiedDescriptionName = {
@@ -16804,7 +16786,7 @@ itemInfo format:
 	[310313] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒA[ƒNƒrƒVƒ‡ƒbƒv)",
 		unidentifiedResourceName = "C_160LV_Archb_White",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒA[ƒNƒrƒVƒ‡ƒbƒv)",
 		identifiedResourceName = "C_160LV_Archb_White",
 		identifiedDescriptionName = {
@@ -16826,7 +16808,7 @@ itemInfo format:
 	[310314] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(C—…)",
 		unidentifiedResourceName = "C_175LV_Sura_Orange",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(C—…)",
 		identifiedResourceName = "C_175LV_Sura_Orange",
 		identifiedDescriptionName = {
@@ -16846,7 +16828,7 @@ itemInfo format:
 	[310315] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒVƒƒƒhƒEƒ`ƒFƒCƒT[)",
 		unidentifiedResourceName = "C_160LV_ShadowC_Black",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒVƒƒƒhƒEƒ`ƒFƒCƒT[)",
 		identifiedResourceName = "C_160LV_ShadowC_Black",
 		identifiedDescriptionName = {
@@ -16867,7 +16849,7 @@ itemInfo format:
 	[310316] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒƒJƒjƒbƒN)",
 		unidentifiedResourceName = "C_160LV_Mechanic_Gold",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒƒJƒjƒbƒN)",
 		identifiedResourceName = "C_160LV_Mechanic_Gold",
 		identifiedDescriptionName = {
@@ -16887,7 +16869,7 @@ itemInfo format:
 	[310317] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒWƒFƒlƒeƒBƒbƒN)",
 		unidentifiedResourceName = "C_160LV_Genetic_YGreen",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒWƒFƒlƒeƒBƒbƒN)",
 		identifiedResourceName = "C_160LV_Genetic_YGreen",
 		identifiedDescriptionName = {
@@ -16910,7 +16892,7 @@ itemInfo format:
 	[310318] = {
 		unidentifiedDisplayName = "•K’†UŒ‚ + 25%",
 		unidentifiedResourceName = "ÀÎµğ°íÆ÷ÀÎÆ®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•K’†UŒ‚ + 25%",
 		identifiedResourceName = "ÀÎµğ°íÆ÷ÀÎÆ®",
 		identifiedDescriptionName = {
@@ -16923,7 +16905,7 @@ itemInfo format:
 	[310319] = {
 		unidentifiedDisplayName = "Hit + 100",
 		unidentifiedResourceName = "¾È½Ç¶ó",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Hit + 100",
 		identifiedResourceName = "¾È½Ç¶ó",
 		identifiedDescriptionName = {
@@ -16936,7 +16918,7 @@ itemInfo format:
 	[310320] = {
 		unidentifiedDisplayName = "”O‘®«•t—^(ŠZ)",
 		unidentifiedResourceName = "¸ÁÀÚÀÇÇÑ±â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”O‘®«•t—^(ŠZ)",
 		identifiedResourceName = "¸ÁÀÚÀÇÇÑ±â",
 		identifiedDescriptionName = {
@@ -16949,7 +16931,7 @@ itemInfo format:
 	[310321] = {
 		unidentifiedDisplayName = "ƒVƒ“ƒƒE‚Ì‰¤",
 		unidentifiedResourceName = "º°ÀÇÈå´À³¦_ÆÄ¶û",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒVƒ“ƒƒE‚Ì‰¤",
 		identifiedResourceName = "º°ÀÇÈå´À³¦_ÆÄ¶û",
 		identifiedDescriptionName = {
@@ -17028,7 +17010,7 @@ itemInfo format:
 	[310323] = {
 		unidentifiedDisplayName = "’´‰z",
 		unidentifiedResourceName = "Auto_Orb_Thief",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "’´‰z",
 		identifiedResourceName = "Auto_Orb_Thief",
 		identifiedDescriptionName = {
@@ -17043,7 +17025,7 @@ itemInfo format:
 	[310331] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒEƒH[ƒƒbƒN)",
 		unidentifiedResourceName = "c_160lv_warlock_violet",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒEƒH[ƒƒbƒN)",
 		identifiedResourceName = "c_160lv_warlock_violet",
 		identifiedDescriptionName = {
@@ -17068,7 +17050,7 @@ itemInfo format:
 	[310332] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒMƒƒ`ƒ“ƒNƒƒX)",
 		unidentifiedResourceName = "c_160lv_guill_silver",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒMƒƒ`ƒ“ƒNƒƒX)",
 		identifiedResourceName = "c_160lv_guill_silver",
 		identifiedDescriptionName = {
@@ -17089,7 +17071,7 @@ itemInfo format:
 	[310333] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒ~ƒ“ƒXƒgƒŒƒ‹)",
 		unidentifiedResourceName = "c_160lv_minstrel_pink",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒ~ƒ“ƒXƒgƒŒƒ‹)",
 		identifiedResourceName = "c_160lv_minstrel_pink",
 		identifiedDescriptionName = {
@@ -17113,7 +17095,7 @@ itemInfo format:
 	[310334] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒŒƒ“ƒWƒƒ[)",
 		unidentifiedResourceName = "c_160lv_ranger_green",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒŒƒ“ƒWƒƒ[)",
 		identifiedResourceName = "c_160lv_ranger_green",
 		identifiedDescriptionName = {
@@ -17138,7 +17120,7 @@ itemInfo format:
 	[310335] = {
 		unidentifiedDisplayName = "öİ‰ğ•ú(ƒƒ“ƒ ƒ‰[)",
 		unidentifiedResourceName = "c_160lv_minstrel_pink",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİ‰ğ•ú(ƒƒ“ƒ ƒ‰[)",
 		identifiedResourceName = "c_160lv_minstrel_pink",
 		identifiedDescriptionName = {
@@ -17162,7 +17144,7 @@ itemInfo format:
 	[310336] = {
 		unidentifiedDisplayName = "ƒTƒCƒgLv1",
 		unidentifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒCƒgLv1",
 		identifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
 		identifiedDescriptionName = {
@@ -17175,7 +17157,7 @@ itemInfo format:
 	[310337] = {
 		unidentifiedDisplayName = "“§‹",
 		unidentifiedResourceName = "¾ÆÀÌ¿ÀºêÇï¸®¿Â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“§‹",
 		identifiedResourceName = "¾ÆÀÌ¿ÀºêÇï¸®¿Â",
 		identifiedDescriptionName = {
@@ -17192,7 +17174,7 @@ itemInfo format:
 	[310648] = {
 		unidentifiedDisplayName = "Extra Agi",
 		unidentifiedResourceName = "³ë¶õ»öº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Extra Agi",
 		identifiedResourceName = "³ë¶õ»öº¸¼®",
 		identifiedDescriptionName = {
@@ -17211,7 +17193,7 @@ itemInfo format:
 	[310649] = {
 		unidentifiedDisplayName = "Extra Vit",
 		unidentifiedResourceName = "Ã»·Ï»öº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Extra Vit",
 		identifiedResourceName = "Ã»·Ï»öº¸¼®",
 		identifiedDescriptionName = {
@@ -17236,7 +17218,7 @@ itemInfo format:
 	[310650] = {
 		unidentifiedDisplayName = "Extra Int",
 		unidentifiedResourceName = "ÆÄ¶õ»öº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Extra Int",
 		identifiedResourceName = "ÆÄ¶õ»öº¸¼®",
 		identifiedDescriptionName = {
@@ -17257,7 +17239,7 @@ itemInfo format:
 	[310651] = {
 		unidentifiedDisplayName = "Extra Dex",
 		unidentifiedResourceName = "ÃÊ·Ï»öº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Extra Dex",
 		identifiedResourceName = "ÃÊ·Ï»öº¸¼®",
 		identifiedDescriptionName = {
@@ -17278,7 +17260,7 @@ itemInfo format:
 	[310652] = {
 		unidentifiedDisplayName = "Extra Luk",
 		unidentifiedResourceName = "ºĞÈ«»öº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Extra Luk",
 		identifiedResourceName = "ºĞÈ«»öº¸¼®",
 		identifiedDescriptionName = {
@@ -17299,7 +17281,7 @@ itemInfo format:
 	[310653] = {
 		unidentifiedDisplayName = "Q-Range",
 		unidentifiedResourceName = "Auto_Module_B",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Q-Range",
 		identifiedResourceName = "Auto_Module_B",
 		identifiedDescriptionName = {
@@ -17356,7 +17338,7 @@ itemInfo format:
 	[310655] = {
 		unidentifiedDisplayName = "X—…–œÛ",
 		unidentifiedResourceName = "Auto_Orb_Ex2",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "X—…–œÛ",
 		identifiedResourceName = "Auto_Orb_Ex2",
 		identifiedDescriptionName = {
@@ -17401,7 +17383,7 @@ itemInfo format:
 	[310758] = {
 		unidentifiedDisplayName = "ƒvƒŒƒCƒ„[‘Ï«13",
 		unidentifiedResourceName = "ÇÏ¾á»öº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒŒƒCƒ„[‘Ï«13",
 		identifiedResourceName = "ÇÏ¾á»öº¸¼®",
 		identifiedDescriptionName = {
@@ -17415,7 +17397,7 @@ itemInfo format:
 	[310759] = {
 		unidentifiedDisplayName = "ƒAƒŒƒX",
 		unidentifiedResourceName = "¹ßÅ°¸®ÀÇºĞ³ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒAƒŒƒX",
 		identifiedResourceName = "¹ßÅ°¸®ÀÇºĞ³ë",
 		identifiedDescriptionName = {
@@ -17429,7 +17411,7 @@ itemInfo format:
 	[310760] = {
 		unidentifiedDisplayName = "‰¤‚Ì ˆĞ",
 		unidentifiedResourceName = "ÅÂ¾ç½ÅÀÇ»óÂ¡",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‚Ì ˆĞ",
 		identifiedResourceName = "ÅÂ¾ç½ÅÀÇ»óÂ¡",
 		identifiedDescriptionName = {
@@ -17495,7 +17477,7 @@ itemInfo format:
 	[310850] = {
 		unidentifiedDisplayName = "—g‰Ô‰Î",
 		unidentifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—g‰Ô‰Î",
 		identifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
 		identifiedDescriptionName = {
@@ -17520,7 +17502,7 @@ itemInfo format:
 	[310942] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒWƒƒƒbƒNƒtƒƒXƒg)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒWƒƒƒbƒNƒtƒƒXƒg)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17536,7 +17518,7 @@ itemInfo format:
 	[310944] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒTƒ‚ƒ“ƒxƒ“ƒgƒX)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒTƒ‚ƒ“ƒxƒ“ƒgƒX)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17550,7 +17532,7 @@ itemInfo format:
 	[310948] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒAƒ[ƒXƒg[ƒ€)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒAƒ[ƒXƒg[ƒ€)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17566,7 +17548,7 @@ itemInfo format:
 	[310950] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒVƒrƒAƒŒƒCƒ“ƒXƒg[ƒ€)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒVƒrƒAƒŒƒCƒ“ƒXƒg[ƒ€)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17580,7 +17562,7 @@ itemInfo format:
 	[310952] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒWƒ…ƒfƒbƒNƒX)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒWƒ…ƒfƒbƒNƒX)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17596,7 +17578,7 @@ itemInfo format:
 	[310954] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒCƒOƒjƒbƒVƒ‡ƒ“ƒuƒŒƒCƒN)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒCƒOƒjƒbƒVƒ‡ƒ“ƒuƒŒƒCƒN)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17612,7 +17594,7 @@ itemInfo format:
 	[310957] = {
 		unidentifiedDisplayName = "öİŠoÁ(‚q™á)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(‚q™á)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17628,7 +17610,7 @@ itemInfo format:
 	[310959] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒA[ƒ€ƒYƒLƒƒƒmƒ“)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒA[ƒ€ƒYƒLƒƒƒmƒ“)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17644,7 +17626,7 @@ itemInfo format:
 	[310961] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒNƒŒƒCƒW[ƒEƒB[ƒh)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒNƒŒƒCƒW[ƒEƒB[ƒh)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17660,7 +17642,7 @@ itemInfo format:
 	[310971] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒoƒjƒVƒ“ƒOƒoƒXƒ^[)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒoƒjƒVƒ“ƒOƒoƒXƒ^[)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17676,7 +17658,7 @@ itemInfo format:
 	[310973] = {
 		unidentifiedDisplayName = "öİŠoÁ(–Œ‹r)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(–Œ‹r)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17692,7 +17674,7 @@ itemInfo format:
 	[310976] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒGƒXƒn)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒGƒXƒn)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17706,7 +17688,7 @@ itemInfo format:
 	[310978] = {
 		unidentifiedDisplayName = "öİŠoÁ(‘åƒgƒ)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(‘åƒgƒ)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17722,7 +17704,7 @@ itemInfo format:
 	[310979] = {
 		unidentifiedDisplayName = "öİŠoÁ(ƒTƒx[ƒW‚Ì°)",
 		unidentifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "öİŠoÁ(ƒTƒx[ƒW‚Ì°)",
 		identifiedResourceName = "°í¹Ğµµºê¶óµğ¿ò",
 		identifiedDescriptionName = {
@@ -17738,7 +17720,7 @@ itemInfo format:
 	[311065] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒ|ƒCƒYƒ“",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒ|ƒCƒYƒ“",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -17752,7 +17734,7 @@ itemInfo format:
 	[311066] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒZƒCƒ“ƒg",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒZƒCƒ“ƒg",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -17766,7 +17748,7 @@ itemInfo format:
 	[311067] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒ [ƒNƒlƒX",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒ [ƒNƒlƒX",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -17780,7 +17762,7 @@ itemInfo format:
 	[311068] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒeƒŒƒLƒlƒVƒX",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒeƒŒƒLƒlƒVƒX",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -17794,7 +17776,7 @@ itemInfo format:
 	[311069] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒAƒ“ƒfƒbƒh",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒAƒ“ƒfƒbƒh",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -17808,7 +17790,7 @@ itemInfo format:
 	[311070] = {
 		unidentifiedDisplayName = "ƒŒƒWƒXƒgƒEƒH[ƒ^[",
 		unidentifiedResourceName = "Auto_Orb_Magician",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒWƒXƒgƒEƒH[ƒ^[",
 		identifiedResourceName = "Auto_Orb_Magician",
 		identifiedDescriptionName = {
@@ -17822,7 +17804,7 @@ itemInfo format:
 	[311072] = {
 		unidentifiedDisplayName = "‹NŒ¹‚Ì‰¤",
 		unidentifiedResourceName = "Å©¶ó¿î",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹NŒ¹‚Ì‰¤",
 		identifiedResourceName = "Å©¶ó¿î",
 		identifiedDescriptionName = {
@@ -18003,7 +17985,7 @@ itemInfo format:
 	[311073] = {
 		unidentifiedDisplayName = "–Lõ‚Ì— ",
 		unidentifiedResourceName = "È²±İ»ç°ú",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–Lõ‚Ì— ",
 		identifiedResourceName = "È²±İ»ç°ú",
 		identifiedDescriptionName = {
@@ -18154,7 +18136,7 @@ itemInfo format:
 	[311074] = {
 		unidentifiedDisplayName = "‰p—Y‚ÌŠM‰Ì",
 		unidentifiedResourceName = "¼Ò¿ïÄ³³íº¼",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰p—Y‚ÌŠM‰Ì",
 		identifiedResourceName = "¼Ò¿ïÄ³³íº¼",
 		identifiedDescriptionName = {
@@ -18379,7 +18361,7 @@ itemInfo format:
 	[311075] = {
 		unidentifiedDisplayName = "–ïĞ‚Ì–‚«",
 		unidentifiedResourceName = "»ç³äÀÇºÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–ïĞ‚Ì–‚«",
 		identifiedResourceName = "»ç³äÀÇºÏ",
 		identifiedDescriptionName = {
@@ -18651,7 +18633,7 @@ itemInfo format:
 	[311284] = {
 		unidentifiedDisplayName = "‹ÉŒÀ‚Ì–‚—Í",
 		unidentifiedResourceName = "¼ö»óÇÑ¸¶·ÂÀÇµ¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹ÉŒÀ‚Ì–‚—Í",
 		identifiedResourceName = "¼ö»óÇÑ¸¶·ÂÀÇµ¹",
 		identifiedDescriptionName = {
@@ -18689,7 +18671,7 @@ itemInfo format:
 	[311365] = {
 		unidentifiedDisplayName = "‰¤‰Æ‚Ì‰hŒõ",
 		unidentifiedResourceName = "¸í¿¹ÀÇÁõÇ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‰Æ‚Ì‰hŒõ",
 		identifiedResourceName = "¸í¿¹ÀÇÁõÇ¥",
 		identifiedDescriptionName = {
@@ -18718,7 +18700,7 @@ itemInfo format:
 	[311366] = {
 		unidentifiedDisplayName = "ˆÚ“®‘¬“x‘‰Á",
 		unidentifiedResourceName = "Bio_Test_Fragment",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆÚ“®‘¬“x‘‰Á",
 		identifiedResourceName = "Bio_Test_Fragment",
 		identifiedDescriptionName = {
@@ -18731,7 +18713,7 @@ itemInfo format:
 	[311383] = {
 		unidentifiedDisplayName = "‹CŒ÷Lv2",
 		unidentifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹CŒ÷Lv2",
 		identifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
 		identifiedDescriptionName = {
@@ -18744,7 +18726,7 @@ itemInfo format:
 	[311405] = {
 		unidentifiedDisplayName = "‰Î‘®«‘Ï« + 5%",
 		unidentifiedResourceName = "ÀÚ¸£°ï",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰Î‘®«‘Ï« + 5%",
 		identifiedResourceName = "ÀÚ¸£°ï",
 		identifiedDescriptionName = {
@@ -18758,7 +18740,7 @@ itemInfo format:
 	[311408] = {
 		unidentifiedDisplayName = "’n‘®«‘Ï« + 5%",
 		unidentifiedResourceName = "ÀÚ¸£°ï",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "’n‘®«‘Ï« + 5%",
 		identifiedResourceName = "ÀÚ¸£°ï",
 		identifiedDescriptionName = {
@@ -18772,7 +18754,7 @@ itemInfo format:
 	[311410] = {
 		unidentifiedDisplayName = "¹‘®«‘Ï« + 5%",
 		unidentifiedResourceName = "ÀÚ¸£°ï",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¹‘®«‘Ï« + 5%",
 		identifiedResourceName = "ÀÚ¸£°ï",
 		identifiedDescriptionName = {
@@ -18786,7 +18768,7 @@ itemInfo format:
 	[311411] = {
 		unidentifiedDisplayName = "ˆÅ‘®«‘Ï« + 5%",
 		unidentifiedResourceName = "ÀÚ¸£°ï",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆÅ‘®«‘Ï« + 5%",
 		identifiedResourceName = "ÀÚ¸£°ï",
 		identifiedDescriptionName = {
@@ -18800,7 +18782,7 @@ itemInfo format:
 	[311412] = {
 		unidentifiedDisplayName = "”O‘®«‘Ï« + 5%",
 		unidentifiedResourceName = "ÀÚ¸£°ï",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”O‘®«‘Ï« + 5%",
 		identifiedResourceName = "ÀÚ¸£°ï",
 		identifiedDescriptionName = {
@@ -18814,7 +18796,7 @@ itemInfo format:
 	[311413] = {
 		unidentifiedDisplayName = "“Å‘®«‘Ï« + 5%",
 		unidentifiedResourceName = "ÀÚ¸£°ï",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“Å‘®«‘Ï« + 5%",
 		identifiedResourceName = "ÀÚ¸£°ï",
 		identifiedDescriptionName = {
@@ -18828,7 +18810,7 @@ itemInfo format:
 	[311415] = {
 		unidentifiedDisplayName = "ƒGƒiƒW[ƒR[ƒgLv1",
 		unidentifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒiƒW[ƒR[ƒgLv1",
 		identifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
 		identifiedDescriptionName = {
@@ -18842,7 +18824,7 @@ itemInfo format:
 	[311416] = {
 		unidentifiedDisplayName = "ƒI[ƒfƒBƒ“‚Ì—ÍLv2",
 		unidentifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒI[ƒfƒBƒ“‚Ì—ÍLv2",
 		identifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
 		identifiedDescriptionName = {
@@ -18856,7 +18838,7 @@ itemInfo format:
 	[311419] = {
 		unidentifiedDisplayName = "ƒ}ƒOƒiƒ€ƒuƒŒƒCƒNLv5",
 		unidentifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒOƒiƒ€ƒuƒŒƒCƒNLv5",
 		identifiedResourceName = "¹Ù´Ù°¡´ã±äµ¹",
 		identifiedDescriptionName = {
@@ -18870,7 +18852,7 @@ itemInfo format:
 	[311420] = {
 		unidentifiedDisplayName = "ŒÅ’è‰r¥ŠÔ - 70%",
 		unidentifiedResourceName = "CastFixed_Delay50",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ŒÅ’è‰r¥ŠÔ - 70%",
 		identifiedResourceName = "CastFixed_Delay50",
 		identifiedDescriptionName = {
@@ -18883,7 +18865,7 @@ itemInfo format:
 	[311421] = {
 		unidentifiedDisplayName = "‰r¥ŠÔ - 15%",
 		unidentifiedResourceName = "ÇÏ¾á¹¦¾È¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰r¥ŠÔ - 15%",
 		identifiedResourceName = "ÇÏ¾á¹¦¾È¼®",
 		identifiedDescriptionName = {
@@ -18896,7 +18878,7 @@ itemInfo format:
 	[311422] = {
 		unidentifiedDisplayName = "UŒ‚‘¬“x + 15%",
 		unidentifiedResourceName = "³ë¶õ¹¦¾È¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "UŒ‚‘¬“x + 15%",
 		identifiedResourceName = "³ë¶õ¹¦¾È¼®",
 		identifiedDescriptionName = {
@@ -18909,7 +18891,7 @@ itemInfo format:
 	[311436] = {
 		unidentifiedDisplayName = "<Exam>",
 		unidentifiedResourceName = "Exam",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "<Exam>",
 		identifiedResourceName = "Exam",
 		identifiedDescriptionName = {
@@ -19129,7 +19111,7 @@ itemInfo format:
 	[311439] = {
 		unidentifiedDisplayName = "ˆÙ‹«‚Ì“ŠÒ",
 		unidentifiedResourceName = "¸Ô¹°º¼",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆÙ‹«‚Ì“ŠÒ",
 		identifiedResourceName = "¸Ô¹°º¼",
 		identifiedDescriptionName = {
@@ -19442,7 +19424,7 @@ itemInfo format:
 	[400015] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–ã¹‹{‚Ìƒ ƒCƒAƒfƒ€",
 		identifiedResourceName = "¸¶°¥±Ãº¸°ü",
 		identifiedDescriptionName = {
@@ -19495,7 +19477,7 @@ itemInfo format:
 	[400019] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒfƒ‚ƒjƒbƒVƒ…ƒwƒ‹ƒ€",
 		identifiedResourceName = "Magic_Helm",
 		identifiedDescriptionName = {
@@ -19548,7 +19530,7 @@ itemInfo format:
 	[400050] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒSƒVƒbƒNƒXƒJƒ‹ƒŠƒ{ƒ“",
 		identifiedResourceName = "c_gothic_skull_ribbon",
 		identifiedDescriptionName = {
@@ -19590,7 +19572,7 @@ itemInfo format:
 	[400051] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒS[ƒ‹ƒfƒ“ƒoƒCƒIƒŒƒbƒg",
 		identifiedResourceName = "c_golden_violet",
 		identifiedDescriptionName = {
@@ -19634,7 +19616,7 @@ itemInfo format:
 	[400062] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ÇŞ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒtƒ@ƒ“ƒgƒ€ƒIƒuƒ}ƒXƒJƒŒ[ƒh",
 		identifiedResourceName = "Phantom_Of_Masquerade",
 		identifiedDescriptionName = {
@@ -19690,7 +19672,7 @@ itemInfo format:
 	[400063] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "ÇŞ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒpƒiƒMƒA‚Ì‘¡‚è•¨",
 		identifiedResourceName = "Gift_Of_Panagia",
 		identifiedDescriptionName = {
@@ -19766,7 +19748,7 @@ itemInfo format:
 	[400064] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒIƒEƒ‹ƒ”ƒ@ƒCƒJƒEƒ“ƒg‚ÌƒVƒ‹ƒNƒnƒbƒg",
 		identifiedResourceName = "¾Æ¿ï¹ÙÀÌÄ«¿îÆ®ÀÇ½ÇÅ©ÇŞ",
 		identifiedDescriptionName = {
@@ -19813,7 +19795,7 @@ itemInfo format:
 	[400065] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ˆ«–‚‚Ìè",
 		identifiedResourceName = "¿ë¹ßÅéÇï¸ä",
 		identifiedDescriptionName = {
@@ -19882,7 +19864,7 @@ itemInfo format:
 	[400066] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒWƒFƒWƒFƒLƒƒƒbƒv",
 		identifiedResourceName = "Á¦Á¦Ä¸",
 		identifiedDescriptionName = {
@@ -19961,7 +19943,7 @@ itemInfo format:
 	[400067] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒWƒƒƒXƒp[ƒT[ƒNƒŒƒbƒg",
 		identifiedResourceName = "Àç½ºÆÛÅ©·¹½ºÆ®",
 		identifiedDescriptionName = {
@@ -20054,7 +20036,7 @@ itemInfo format:
 	[400068] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
 		unidentifiedResourceName = "¸Ó¸®¶ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ¹Ò‚ÌŠ¥",
 		identifiedResourceName = "¼ºÀÚÀÇ¿Õ°ü",
 		identifiedDescriptionName = {
@@ -20135,7 +20117,7 @@ itemInfo format:
 	[400069] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ¸—ì‰¤‚Ì•óŠ¥",
 		identifiedResourceName = "¾î¼¾µåÅ©¶ó¿î",
 		identifiedDescriptionName = {
@@ -20209,7 +20191,7 @@ itemInfo format:
 	[400070] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "Çï¸§",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] •s€’¹‚ÌŠ¥",
 		identifiedResourceName = "Å©¸²ÈúÆ®ÀÇ¿Õ°ü",
 		identifiedDescriptionName = {
@@ -20280,7 +20262,7 @@ itemInfo format:
 	[400071] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒuƒ‰ƒbƒNƒtƒFƒU[",
 		identifiedResourceName = "Black_Feather",
 		identifiedDescriptionName = {
@@ -20348,7 +20330,7 @@ itemInfo format:
 	[400072] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒ[ƒNƒLƒƒƒbƒv",
 		identifiedResourceName = "Work_Cap",
 		identifiedDescriptionName = {
@@ -20858,7 +20840,7 @@ itemInfo format:
 	[410002] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒZƒuƒ“-ƒCƒŒƒuƒ“ƒwƒbƒhƒzƒ“",
 		identifiedResourceName = "711ÇìµåÆù",
 		identifiedDescriptionName = {
@@ -20889,7 +20871,7 @@ itemInfo format:
 	[410003] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒZƒuƒ“-ƒCƒŒƒuƒ“ƒwƒbƒhƒzƒ“",
 		identifiedResourceName = "711ÇìµåÆù",
 		identifiedDescriptionName = {
@@ -20920,7 +20902,7 @@ itemInfo format:
 	[410007] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒVƒgƒ‰ƒXƒŠƒ{ƒ“",
 		identifiedResourceName = "CitrusRibbon",
 		identifiedDescriptionName = {
@@ -20953,7 +20935,7 @@ itemInfo format:
 	[410008] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒtƒ@ƒ‰ƒ“ƒNƒX",
 		identifiedResourceName = "Phalanx",
 		identifiedDescriptionName = {
@@ -20997,7 +20979,7 @@ itemInfo format:
 	[410014] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒ‹EƒRƒAƒwƒbƒhƒtƒHƒ“",
 		identifiedResourceName = "Cor_Core_Headset",
 		identifiedDescriptionName = {
@@ -21045,7 +21027,7 @@ itemInfo format:
 	[410015] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒRƒ‹EƒRƒAƒwƒbƒhƒtƒHƒ“",
 		identifiedResourceName = "Cor_Core_Headset",
 		identifiedDescriptionName = {
@@ -22066,7 +22048,7 @@ itemInfo format:
 	[420001] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ”ªŒT‚Ì••ô",
 		identifiedResourceName = "FortunetellinSealed",
 		identifiedDescriptionName = {
@@ -22100,7 +22082,7 @@ itemInfo format:
 	[420004] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒtƒHƒbƒNƒXƒwƒA",
 		identifiedResourceName = "c_nine_tail_fox_hair",
 		identifiedDescriptionName = {
@@ -22374,7 +22356,7 @@ itemInfo format:
 	[450011] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–ã¹‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Capricon_Mail_J",
 		identifiedDescriptionName = {
@@ -22433,7 +22415,7 @@ itemInfo format:
 	[450015] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆ—‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Virgo_Mail_J",
 		identifiedDescriptionName = {
@@ -22492,7 +22474,7 @@ itemInfo format:
 	[450129] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”’—r‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Aries_Mail_J",
 		identifiedDescriptionName = {
@@ -22553,7 +22535,7 @@ itemInfo format:
 	[450130] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘o™‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Gemini_Mail_J",
 		identifiedDescriptionName = {
@@ -22615,7 +22597,7 @@ itemInfo format:
 	[450133] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘o‹›‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Pisces_Mail_J",
 		identifiedDescriptionName = {
@@ -22680,7 +22662,7 @@ itemInfo format:
 	[450140] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "l”n‹{‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Sagittarius_Mail_J",
 		identifiedDescriptionName = {
@@ -22740,7 +22722,7 @@ itemInfo format:
 	[450141] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤Ò‚ÌƒƒCƒ‹",
 		identifiedResourceName = "Kingly_Armor",
 		identifiedDescriptionName = {
@@ -22798,7 +22780,7 @@ itemInfo format:
 	[450152] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] [•£‚ÌƒhƒŒƒX",
 		identifiedResourceName = "Abyss_Dress",
 		identifiedDescriptionName = {
@@ -22853,7 +22835,7 @@ itemInfo format:
 	[450153] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ‘å©‘R‚ÌƒhƒŒƒX",
 		identifiedResourceName = "Nature_Dress",
 		identifiedDescriptionName = {
@@ -22914,7 +22896,7 @@ itemInfo format:
 	[450154] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] •X–‚ÌƒhƒŒƒX",
 		identifiedResourceName = "Icefall_Dress",
 		identifiedDescriptionName = {
@@ -22974,7 +22956,7 @@ itemInfo format:
 	[450155] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ÔÖ‚ÌƒhƒŒƒX",
 		identifiedResourceName = "Samael_Dress",
 		identifiedDescriptionName = {
@@ -23028,7 +23010,7 @@ itemInfo format:
 	[450156] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "¿ìµç¸ŞÀÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] …—´ ‚Ì—Ø",
 		identifiedResourceName = "¹°ÀÇ°©¿Ê",
 		identifiedDescriptionName = {
@@ -23636,7 +23618,7 @@ itemInfo format:
 	[470004] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ“ƒyƒŠƒAƒ‹ƒu[ƒc",
 		identifiedResourceName = "Imperial_Boots",
 		identifiedDescriptionName = {
@@ -23693,7 +23675,7 @@ itemInfo format:
 	[470007] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒiƒCƒsƒ“ƒOƒVƒ…[ƒY",
 		identifiedResourceName = "Sniping_Shoes_J",
 		identifiedDescriptionName = {
@@ -23757,7 +23739,7 @@ itemInfo format:
 	[470009] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚Ó‚í‚Ó‚íƒ^ƒ“ƒ|ƒ|ƒVƒ…[ƒY",
 		identifiedResourceName = "Fluffy_DandelionShoes_J",
 		identifiedDescriptionName = {
@@ -23824,7 +23806,7 @@ itemInfo format:
 	[470010] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–ã¹‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Capricon_Shoes_J",
 		identifiedDescriptionName = {
@@ -23887,7 +23869,7 @@ itemInfo format:
 	[470014] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆ—‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Virgo_Shoes_J",
 		identifiedDescriptionName = {
@@ -23955,7 +23937,7 @@ itemInfo format:
 	[470024] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”’—r‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Aries_Shoes_J",
 		identifiedDescriptionName = {
@@ -24019,7 +24001,7 @@ itemInfo format:
 	[470028] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒWƒƒƒK[ƒm[ƒg",
 		identifiedResourceName = "Juggernaut",
 		identifiedDescriptionName = {
@@ -24090,7 +24072,7 @@ itemInfo format:
 	[470030] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•s’²˜a‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Discord_Particles_Shoes",
 		identifiedDescriptionName = {
@@ -24159,7 +24141,7 @@ itemInfo format:
 	[470031] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•s’²˜a‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Discord_Particles_Shoes",
 		identifiedDescriptionName = {
@@ -24228,7 +24210,7 @@ itemInfo format:
 	[470032] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘o™‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Gemini_Shoes_J",
 		identifiedDescriptionName = {
@@ -24291,7 +24273,7 @@ itemInfo format:
 	[470034] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”w“¿‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Virtue_Particles_Shoes",
 		identifiedDescriptionName = {
@@ -24365,7 +24347,7 @@ itemInfo format:
 	[470035] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”w“¿‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Virtue_Particles_Shoes",
 		identifiedDescriptionName = {
@@ -24439,7 +24421,7 @@ itemInfo format:
 	[470037] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒŠƒ…[ƒWƒ‡ƒ“ƒ~ƒŠƒ^ƒŠ[ƒu[ƒc",
 		identifiedResourceName = "Military_boots_IL",
 		identifiedDescriptionName = {
@@ -24509,7 +24491,7 @@ itemInfo format:
 	[470038] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘o‹›‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Pisces_Shoes_J",
 		identifiedDescriptionName = {
@@ -24578,7 +24560,7 @@ itemInfo format:
 	[470045] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "ºÎÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "l”n‹{‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Sagittarius_Shoes_J",
 		identifiedDescriptionName = {
@@ -24641,7 +24623,7 @@ itemInfo format:
 	[470046] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤Ò‚Ìƒu[ƒc",
 		identifiedResourceName = "Kingly_Boots",
 		identifiedDescriptionName = {
@@ -24698,7 +24680,7 @@ itemInfo format:
 	[470052] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "„—çÒ‚ÌŒC",
 		identifiedResourceName = "Shoes_Of_Pilgrim",
 		identifiedDescriptionName = {
@@ -24758,7 +24740,7 @@ itemInfo format:
 	[470057] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "’ÇŒ‚Ò‚ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Chaser_Shoes",
 		identifiedDescriptionName = {
@@ -24825,7 +24807,7 @@ itemInfo format:
 	[470058] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Œ¶–Å‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Disillusion_P_Shoes",
 		identifiedDescriptionName = {
@@ -24895,7 +24877,7 @@ itemInfo format:
 	[470059] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Œ¶–Å‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Disillusion_P_Shoes",
 		identifiedDescriptionName = {
@@ -24965,7 +24947,7 @@ itemInfo format:
 	[470062] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "½´Áî",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–³‹C—Í‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Lethargy_P_Shoes",
 		identifiedDescriptionName = {
@@ -25038,7 +25020,7 @@ itemInfo format:
 	[470063] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "½´Áî",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–³‹C—Í‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Lethargy_P_Shoes",
 		identifiedDescriptionName = {
@@ -25111,7 +25093,7 @@ itemInfo format:
 	[470078] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—D •s’f‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Indecisive_P_Shoes",
 		identifiedDescriptionName = {
@@ -25185,7 +25167,7 @@ itemInfo format:
 	[470079] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—D •s’f‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Indecisive_P_Shoes",
 		identifiedDescriptionName = {
@@ -25259,7 +25241,7 @@ itemInfo format:
 	[470080] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "˜ü–‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Arrogance_P_Shoes",
 		identifiedDescriptionName = {
@@ -25329,7 +25311,7 @@ itemInfo format:
 	[470081] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "˜ü–‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Arrogance_P_Shoes",
 		identifiedDescriptionName = {
@@ -25399,7 +25381,7 @@ itemInfo format:
 	[470082] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Ä¶‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Regeneration_P_Shoes",
 		identifiedDescriptionName = {
@@ -25483,7 +25465,7 @@ itemInfo format:
 	[470083] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Ä¶‚Ìv”O‘ÌƒVƒ…[ƒY",
 		identifiedResourceName = "Regeneration_P_Shoes",
 		identifiedDescriptionName = {
@@ -25567,7 +25549,7 @@ itemInfo format:
 	[470085] = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "»÷µé",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‹[ƒ“ƒOƒŠ[ƒu",
 		identifiedResourceName = "Rune_Greave_JP",
 		identifiedDescriptionName = {
@@ -26445,7 +26427,7 @@ itemInfo format:
 	[480006] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–ã¹‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Capricon_Manteau_J",
 		identifiedDescriptionName = {
@@ -26507,7 +26489,7 @@ itemInfo format:
 	[480009] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆ—‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Virgo_Manteau_J",
 		identifiedDescriptionName = {
@@ -26568,7 +26550,7 @@ itemInfo format:
 	[480011] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒAƒWƒ ƒn[ƒJ‚Ì”ç",
 		identifiedResourceName = "Skin_Of_AzidaHaka",
 		identifiedDescriptionName = {
@@ -26614,7 +26596,7 @@ itemInfo format:
 	[480022] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”’—r‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Aries_Manteau_J",
 		identifiedDescriptionName = {
@@ -26679,7 +26661,7 @@ itemInfo format:
 	[480026] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘o™‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Gemini_Manteau_J",
 		identifiedDescriptionName = {
@@ -26744,7 +26726,7 @@ itemInfo format:
 	[480041] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘o‹›‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Pisces_Manteau_J",
 		identifiedDescriptionName = {
@@ -26823,7 +26805,7 @@ itemInfo format:
 	[480044] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒNƒ[ƒ‹ƒXƒg[ƒ‹",
 		identifiedResourceName = "Scroll_Stall",
 		identifiedDescriptionName = {
@@ -26901,7 +26883,7 @@ itemInfo format:
 	[480050] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "l”n‹{‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Sagittarius_Manteau_J",
 		identifiedDescriptionName = {
@@ -26968,7 +26950,7 @@ itemInfo format:
 	[480051] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤Ò‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "Kingly_Manteau",
 		identifiedDescriptionName = {
@@ -27026,7 +27008,7 @@ itemInfo format:
 	[480072] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒtƒ[ƒYƒ“ƒXƒPƒCƒ‹ƒVƒ‡[ƒ‹",
 		identifiedResourceName = "Ice_Scale_Shawl",
 		identifiedDescriptionName = {
@@ -27066,7 +27048,7 @@ itemInfo format:
 	[480073] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "±Û·¯ºê",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒAƒ“ƒhƒtƒŠ[ƒ€ƒjƒ‹‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "¾Èµµºê¸²´ÒÀÇ¸ÁÅä",
 		identifiedDescriptionName = {
@@ -27108,7 +27090,7 @@ itemInfo format:
 	[480074] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒtƒ[ƒYƒ“ƒXƒPƒCƒ‹ƒVƒ‡[ƒ‹",
 		identifiedResourceName = "Ice_Scale_Shawl",
 		identifiedDescriptionName = {
@@ -27657,7 +27639,7 @@ itemInfo format:
 	[490009] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–ã¹‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Capricon_Ring_J",
 		identifiedDescriptionName = {
@@ -27711,7 +27693,7 @@ itemInfo format:
 	[490010] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆ—‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Virgo_Ring_J",
 		identifiedDescriptionName = {
@@ -27765,7 +27747,7 @@ itemInfo format:
 	[490028] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”’—r‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Aries_Ring_J",
 		identifiedDescriptionName = {
@@ -27821,7 +27803,7 @@ itemInfo format:
 	[490032] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘o™‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Gemini_Ring_J",
 		identifiedDescriptionName = {
@@ -27877,7 +27859,7 @@ itemInfo format:
 	[490034] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘o‹›‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Pisces_Ring_J",
 		identifiedDescriptionName = {
@@ -27937,7 +27919,7 @@ itemInfo format:
 	[490041] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "l”n‹{‚ÌƒŠƒ“ƒO",
 		identifiedResourceName = "Sagittarius_Ring_J",
 		identifiedDescriptionName = {
@@ -27993,7 +27975,7 @@ itemInfo format:
 	[490042] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤Ò‚Ìw—Ö",
 		identifiedResourceName = "Kingly_Ring",
 		identifiedDescriptionName = {
@@ -28045,7 +28027,7 @@ itemInfo format:
 	[490043] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "¸µ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”¼—´‰¤—‚Ìw—Ö",
 		identifiedResourceName = "HalfBlood_Princess_Ring",
 		identifiedDescriptionName = {
@@ -28087,7 +28069,7 @@ itemInfo format:
 	[490080] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "Å¬¸³",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ƒƒƒ‚ƒ“‚Ìƒyƒ“ƒ ƒ“ƒg",
 		identifiedResourceName = "Pendant_of_Solomon",
 		identifiedDescriptionName = {
@@ -28141,7 +28123,7 @@ itemInfo format:
 	[490081] = {
 		unidentifiedDisplayName = "Unidentified Accessory",
 		unidentifiedResourceName = "³×Å¬¸®½º",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒŒƒ“ƒ^ƒ‹] ‘é‚ÌŠá‚Ìñü‚è",
 		identifiedResourceName = "Necklace_Of_Hawkeye",
 		identifiedDescriptionName = {
@@ -28746,7 +28728,7 @@ itemInfo format:
 	[1000027] = {
 		unidentifiedDisplayName = "¢ŠE÷‚ÌV‰è",
 		unidentifiedResourceName = "»õ½Ï",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¢ŠE÷‚ÌV‰è",
 		identifiedResourceName = "»õ½Ï",
 		identifiedDescriptionName = {
@@ -28764,7 +28746,7 @@ itemInfo format:
 	[1000028] = {
 		unidentifiedDisplayName = "ƒVƒƒƒhƒEƒ`ƒFƒCƒT[VIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒVƒƒƒhƒEƒ`ƒFƒCƒT[VIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -28808,7 +28790,7 @@ itemInfo format:
 	[1000029] = {
 		unidentifiedDisplayName = "ƒVƒƒƒhƒEƒ`ƒFƒCƒT[ƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒVƒƒƒhƒEƒ`ƒFƒCƒT[ƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -28854,7 +28836,7 @@ itemInfo format:
 	[1000080] = {
 		unidentifiedDisplayName = "ƒA[ƒNƒrƒVƒ‡ƒbƒvVIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒA[ƒNƒrƒVƒ‡ƒbƒvVIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -28898,7 +28880,7 @@ itemInfo format:
 	[1000081] = {
 		unidentifiedDisplayName = "ƒA[ƒNƒrƒVƒ‡ƒbƒvƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒA[ƒNƒrƒVƒ‡ƒbƒvƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -28944,7 +28926,7 @@ itemInfo format:
 	[1000086] = {
 		unidentifiedDisplayName = "ƒGƒbƒ ‚Ì’fÍ",
 		unidentifiedResourceName = "³°ÀºÃ¥Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒbƒ ‚Ì’fÍ",
 		identifiedResourceName = "³°ÀºÃ¥Àå",
 		identifiedDescriptionName = {
@@ -28969,7 +28951,7 @@ itemInfo format:
 	[1000090] = {
 		unidentifiedDisplayName = "[2022]“Á•Êƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[2022]“Á•Êƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29000,7 +28982,7 @@ itemInfo format:
 	[1000091] = {
 		unidentifiedDisplayName = "ƒLƒƒƒŠƒAƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒLƒƒƒ“ƒy[ƒ“] ƒEƒVƒpƒ[ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29028,7 +29010,7 @@ itemInfo format:
 	[1000150] = {
 		unidentifiedDisplayName = "ƒƒCƒ„ƒ‹ƒK[ƒhVIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒCƒ„ƒ‹ƒK[ƒhVIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29072,7 +29054,7 @@ itemInfo format:
 	[1000151] = {
 		unidentifiedDisplayName = "ƒƒCƒ„ƒ‹ƒK[ƒhƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒCƒ„ƒ‹ƒK[ƒhƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -29118,7 +29100,7 @@ itemInfo format:
 	[1000203] = {
 		unidentifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒVƒŠ[ƒY‘I‘ğŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒVƒŠ[ƒY‘I‘ğŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29146,7 +29128,7 @@ itemInfo format:
 	[1000204] = {
 		unidentifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "Á¶Á÷¿øÀÇÁõÇ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒ`ƒPƒbƒg",
 		identifiedResourceName = "Á¶Á÷¿øÀÇÁõÇ¥",
 		identifiedDescriptionName = {
@@ -29173,7 +29155,7 @@ itemInfo format:
 	[1000205] = {
 		unidentifiedDisplayName = "ƒŒƒxƒ‹ƒAƒbƒvƒ`ƒPƒbƒg(BaseLv175)",
 		unidentifiedResourceName = "Á¶Á÷¿øÀÇÁõÇ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒxƒ‹ƒAƒbƒvƒ`ƒPƒbƒg(BaseLv175)",
 		identifiedResourceName = "Á¶Á÷¿øÀÇÁõÇ¥",
 		identifiedDescriptionName = {
@@ -29204,7 +29186,7 @@ itemInfo format:
 	[1000206] = {
 		unidentifiedDisplayName = "ƒNƒGƒXƒgƒXƒLƒbƒvƒ`ƒPƒbƒg(ƒCƒ‹ƒVƒIƒ“)",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒNƒGƒXƒgƒXƒLƒbƒvƒ`ƒPƒbƒg(ƒCƒ‹ƒVƒIƒ“)",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29232,7 +29214,7 @@ itemInfo format:
 	[1000209] = {
 		unidentifiedDisplayName = "ƒ~ƒ“ƒXƒgƒŒƒ‹VIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ~ƒ“ƒXƒgƒŒƒ‹VIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29276,7 +29258,7 @@ itemInfo format:
 	[1000210] = {
 		unidentifiedDisplayName = "ƒƒ“ƒ ƒ‰[VIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒ“ƒ ƒ‰[VIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29320,7 +29302,7 @@ itemInfo format:
 	[1000211] = {
 		unidentifiedDisplayName = "ƒ~ƒ“ƒXƒgƒŒƒ‹ƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ~ƒ“ƒXƒgƒŒƒ‹ƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -29366,7 +29348,7 @@ itemInfo format:
 	[1000212] = {
 		unidentifiedDisplayName = "ƒƒ“ƒ ƒ‰[ƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒ“ƒ ƒ‰[ƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -29412,7 +29394,7 @@ itemInfo format:
 	[1000233] = {
 		unidentifiedDisplayName = "ƒ[ƒTƒ‰[VIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ[ƒTƒ‰[VIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29456,7 +29438,7 @@ itemInfo format:
 	[1000234] = {
 		unidentifiedDisplayName = "ƒ[ƒTƒ‰[ƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ[ƒTƒ‰[ƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -29502,7 +29484,7 @@ itemInfo format:
 	[1000236] = {
 		unidentifiedDisplayName = "ƒŒƒ“ƒWƒƒ[VIPƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒ“ƒWƒƒ[VIPƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29546,7 +29528,7 @@ itemInfo format:
 	[1000237] = {
 		unidentifiedDisplayName = "ƒŒƒ“ƒWƒƒ[ƒƒEƒ‹",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒ“ƒWƒƒ[ƒƒEƒ‹",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
@@ -29592,7 +29574,7 @@ itemInfo format:
 	[1000238] = {
 		unidentifiedDisplayName = "³‹`‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "³‹`‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -29608,7 +29590,7 @@ itemInfo format:
 	[1000240] = {
 		unidentifiedDisplayName = "ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒhƒŒƒbƒV[ƒN[ƒ|ƒ“",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -29640,7 +29622,7 @@ itemInfo format:
 	[1000246] = {
 		unidentifiedDisplayName = "¯‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¯‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -29656,7 +29638,7 @@ itemInfo format:
 	[1000247] = {
 		unidentifiedDisplayName = "ß§‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ß§‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -29672,7 +29654,7 @@ itemInfo format:
 	[1000248] = {
 		unidentifiedDisplayName = "íÔ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "íÔ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -29688,7 +29670,7 @@ itemInfo format:
 	[1000249] = {
 		unidentifiedDisplayName = "€ ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "€ ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -29704,7 +29686,7 @@ itemInfo format:
 	[1000250] = {
 		unidentifiedDisplayName = "—öl‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—öl‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -29720,7 +29702,7 @@ itemInfo format:
 	[1000251] = {
 		unidentifiedDisplayName = "‰¤‰Æ‚Ì”é“`‘",
 		unidentifiedResourceName = "»ç½ÅÀÇ¸íºÎ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰¤‰Æ‚Ì”é“`‘",
 		identifiedResourceName = "»ç½ÅÀÇ¸íºÎ",
 		identifiedDescriptionName = {
@@ -29741,7 +29723,7 @@ itemInfo format:
 	[1000252] = {
 		unidentifiedDisplayName = "–S‘‚Ì•óÎ",
 		unidentifiedResourceName = "È­ÀÌÆ®Å©¸®½ºÅ»Á¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–S‘‚Ì•óÎ",
 		identifiedResourceName = "È­ÀÌÆ®Å©¸®½ºÅ»Á¶°¢",
 		identifiedDescriptionName = {
@@ -29763,7 +29745,7 @@ itemInfo format:
 	[1000264] = {
 		unidentifiedDisplayName = "ƒOƒ‰ƒ“ƒvƒŠƒRƒCƒ“",
 		unidentifiedResourceName = "ÀÏÀÏÄÚÀÎ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒOƒ‰ƒ“ƒvƒŠƒRƒCƒ“",
 		identifiedResourceName = "ÀÏÀÏÄÚÀÎ",
 		identifiedDescriptionName = {
@@ -29792,7 +29774,7 @@ itemInfo format:
 	[1000308] = {
 		unidentifiedDisplayName = "”N‰êó2020”N",
 		unidentifiedResourceName = "±×¸²ÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”N‰êó2020”N",
 		identifiedResourceName = "±×¸²ÆíÁö",
 		identifiedDescriptionName = {
@@ -29818,7 +29800,7 @@ itemInfo format:
 	[1000309] = {
 		unidentifiedDisplayName = "3ŸEƒXƒyƒVƒƒƒ‹ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "3ŸEƒXƒyƒVƒƒƒ‹ƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -29852,7 +29834,7 @@ itemInfo format:
 	[1000310] = {
 		unidentifiedDisplayName = "ƒWƒ‡ƒuƒXƒg[ƒ“",
 		unidentifiedResourceName = "ÆÄ¶õ»öº¸¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒWƒ‡ƒuƒXƒg[ƒ“",
 		identifiedResourceName = "ÆÄ¶õ»öº¸¼®",
 		identifiedDescriptionName = {
@@ -29880,7 +29862,7 @@ itemInfo format:
 	[1000312] = {
 		unidentifiedDisplayName = "‰ü‘¢ƒ‚ƒWƒ…[ƒ‹(T-PowerBoost)",
 		unidentifiedResourceName = "Improve_Module",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰ü‘¢ƒ‚ƒWƒ…[ƒ‹(T-PowerBoost)",
 		identifiedResourceName = "Improve_Module",
 		identifiedDescriptionName = {
@@ -29905,7 +29887,7 @@ itemInfo format:
 	[1000313] = {
 		unidentifiedDisplayName = "‰ü‘¢ƒ‚ƒWƒ…[ƒ‹(T-MagicBoost)",
 		unidentifiedResourceName = "Improve_Module",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰ü‘¢ƒ‚ƒWƒ…[ƒ‹(T-MagicBoost)",
 		identifiedResourceName = "Improve_Module",
 		identifiedDescriptionName = {
@@ -29930,7 +29912,7 @@ itemInfo format:
 	[1000314] = {
 		unidentifiedDisplayName = "‰ü‘¢ƒ‚ƒWƒ…[ƒ‹(T-Assault)",
 		unidentifiedResourceName = "Improve_Module",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰ü‘¢ƒ‚ƒWƒ…[ƒ‹(T-Assault)",
 		identifiedResourceName = "Improve_Module",
 		identifiedDescriptionName = {
@@ -29955,7 +29937,7 @@ itemInfo format:
 	[1000315] = {
 		unidentifiedDisplayName = "‰ü‘¢ƒ‚ƒWƒ…[ƒ‹(T-Electricity)",
 		unidentifiedResourceName = "Improve_Module",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰ü‘¢ƒ‚ƒWƒ…[ƒ‹(T-Electricity)",
 		identifiedResourceName = "Improve_Module",
 		identifiedDescriptionName = {
@@ -29980,7 +29962,7 @@ itemInfo format:
 	[1000318] = {
 		unidentifiedDisplayName = "•œƒRƒX‚½‚ÜˆøŠ·Œ”",
 		unidentifiedResourceName = "°í¾çÀÌ¼ÕÆ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•œƒRƒX‚½‚ÜˆøŠ·Œ”",
 		identifiedResourceName = "°í¾çÀÌ¼ÕÆ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -30011,7 +29993,7 @@ itemInfo format:
 	[1000353] = {
 		unidentifiedDisplayName = "c’é‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "c’é‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -30027,7 +30009,7 @@ itemInfo format:
 	[1000354] = {
 		unidentifiedDisplayName = "—Í‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—Í‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -30043,7 +30025,7 @@ itemInfo format:
 	[1000355] = {
 		unidentifiedDisplayName = "ˆ«–‚‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆ«–‚‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -30059,7 +30041,7 @@ itemInfo format:
 	[1000356] = {
 		unidentifiedDisplayName = "Œ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Œ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -30075,7 +30057,7 @@ itemInfo format:
 	[1000357] = {
 		unidentifiedDisplayName = "‰^–½‚Ì—Ö‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰^–½‚Ì—Ö‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -30091,7 +30073,7 @@ itemInfo format:
 	[1000358] = {
 		unidentifiedDisplayName = "¢ŠE‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "¢ŠE‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -30107,7 +30089,7 @@ itemInfo format:
 	[1000382] = {
 		unidentifiedDisplayName = "[ƒuƒ‰ƒ“ƒN] ƒXƒEƒB[ƒgƒhƒƒbƒvƒXƒJ[ƒh",
 		unidentifiedResourceName = "½ºÆä¾îÄ«µå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒuƒ‰ƒ“ƒN] ƒXƒEƒB[ƒgƒhƒƒbƒvƒXƒJ[ƒh",
 		identifiedResourceName = "½ºÆä¾îÄ«µå",
 		identifiedDescriptionName = {
@@ -30127,7 +30109,7 @@ itemInfo format:
 	[1000383] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒI[ƒLƒbƒVƒ…ƒAƒbƒNƒX",
 		unidentifiedResourceName = "¿ÀÅ°½¬¾×½º",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒI[ƒLƒbƒVƒ…ƒAƒbƒNƒX",
 		identifiedResourceName = "¿ÀÅ°½¬¾×½º",
 		identifiedDescriptionName = {
@@ -30145,7 +30127,7 @@ itemInfo format:
 	[1000384] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒI[ƒLƒbƒVƒ…ƒ[ƒh",
 		unidentifiedResourceName = "¿ÀÅ°½¬¼Òµå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒI[ƒLƒbƒVƒ…ƒ[ƒh",
 		identifiedResourceName = "¿ÀÅ°½¬¼Òµå",
 		identifiedDescriptionName = {
@@ -30166,7 +30148,7 @@ itemInfo format:
 	[1000385] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒGƒŒƒLƒMƒ^[",
 		unidentifiedResourceName = "ÀüÀÚ±âÅ¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒGƒŒƒLƒMƒ^[",
 		identifiedResourceName = "ÀüÀÚ±âÅ¸",
 		identifiedDescriptionName = {
@@ -30188,7 +30170,7 @@ itemInfo format:
 	[1000404] = {
 		unidentifiedDisplayName = "ƒLƒ…[ƒyƒbƒgƒ{ƒbƒNƒX’Š‘IŒ”I",
 		unidentifiedResourceName = "±âºÎÁõ¸í¼­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒ…[ƒyƒbƒgƒ{ƒbƒNƒX’Š‘IŒ”I",
 		identifiedResourceName = "±âºÎÁõ¸í¼­",
 		identifiedDescriptionName = {
@@ -30217,7 +30199,7 @@ itemInfo format:
 	[1000418] = {
 		unidentifiedDisplayName = "ƒAƒ~ƒmVit platinum",
 		unidentifiedResourceName = "ÇÏ¾á»ö°¡·ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒAƒ~ƒmVit platinum",
 		identifiedResourceName = "ÇÏ¾á»ö°¡·ç",
 		identifiedDescriptionName = {
@@ -30236,7 +30218,7 @@ itemInfo format:
 	[1000448] = {
 		unidentifiedDisplayName = "ƒxƒAƒh[ƒ‹ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒxƒAƒh[ƒ‹ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30263,7 +30245,7 @@ itemInfo format:
 	[1000449] = {
 		unidentifiedDisplayName = "Ì‚Ä‚ç‚ê‚½ƒNƒ}lŒ`ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Ì‚Ä‚ç‚ê‚½ƒNƒ}lŒ`ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30291,7 +30273,7 @@ itemInfo format:
 	[1000450] = {
 		unidentifiedDisplayName = "ƒXƒEƒB[ƒgƒhƒƒbƒvƒXŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒEƒB[ƒgƒhƒƒbƒvƒXŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30319,7 +30301,7 @@ itemInfo format:
 	[1000451] = {
 		unidentifiedDisplayName = "ƒnƒCƒI[ƒNŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒnƒCƒI[ƒNŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30346,7 +30328,7 @@ itemInfo format:
 	[1000452] = {
 		unidentifiedDisplayName = "ƒI[ƒNƒq[ƒ[ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒI[ƒNƒq[ƒ[ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30373,7 +30355,7 @@ itemInfo format:
 	[1000453] = {
 		unidentifiedDisplayName = "ƒƒ^ƒ‹ƒ‰ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒ^ƒ‹ƒ‰ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30400,7 +30382,7 @@ itemInfo format:
 	[1000454] = {
 		unidentifiedDisplayName = "ƒ}ƒXƒ^[ƒŠƒ“ƒOŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒXƒ^[ƒŠƒ“ƒOŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30427,7 +30409,7 @@ itemInfo format:
 	[1000455] = {
 		unidentifiedDisplayName = "ƒGƒ“ƒWƒFƒŠƒ“ƒOŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒ“ƒWƒFƒŠƒ“ƒOŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30454,7 +30436,7 @@ itemInfo format:
 	[1000456] = {
 		unidentifiedDisplayName = "ƒyƒNƒƒWƒ“ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒNƒƒWƒ“ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30481,7 +30463,7 @@ itemInfo format:
 	[1000457] = {
 		unidentifiedDisplayName = "‹ã”öŒÏŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹ã”öŒÏŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30508,7 +30490,7 @@ itemInfo format:
 	[1000458] = {
 		unidentifiedDisplayName = "ƒLƒƒƒbƒgƒiƒCƒ“ƒeƒCƒ‹ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒƒƒbƒgƒiƒCƒ“ƒeƒCƒ‹ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30536,7 +30518,7 @@ itemInfo format:
 	[1000459] = {
 		unidentifiedDisplayName = "Œ–é‰ÔŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Œ–é‰ÔŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30563,7 +30545,7 @@ itemInfo format:
 	[1000460] = {
 		unidentifiedDisplayName = "ƒjƒuƒ‹ƒŒƒIƒ“ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒjƒuƒ‹ƒŒƒIƒ“ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30590,7 +30572,7 @@ itemInfo format:
 	[1000461] = {
 		unidentifiedDisplayName = "‚¿‚ÑŠÇ—Òƒx[ƒ^ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚¿‚ÑŠÇ—Òƒx[ƒ^ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30617,7 +30599,7 @@ itemInfo format:
 	[1000462] = {
 		unidentifiedDisplayName = "‚¿‚ÑŠÇ—ÒƒAƒ‹ƒtƒ@ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚¿‚ÑŠÇ—ÒƒAƒ‹ƒtƒ@ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -30645,7 +30627,7 @@ itemInfo format:
 	[1000463] = {
 		unidentifiedDisplayName = "[ƒLƒƒƒ“ƒy[ƒ“]”÷—Í‚Ì‹†‹É¸˜Bƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒLƒƒƒ“ƒy[ƒ“]”÷—Í‚Ì‹†‹É¸˜Bƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -30675,7 +30657,7 @@ itemInfo format:
 	[1000464] = {
 		unidentifiedDisplayName = "[ƒCƒxƒ“ƒg]”÷—Í‚Ì‹†‹É¸˜Bƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "[ƒCƒxƒ“ƒg]”÷—Í‚Ì‹†‹É¸˜Bƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -30705,7 +30687,7 @@ itemInfo format:
 	[1000468] = {
 		unidentifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒj[ƒqƒ‹)",
 		unidentifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒj[ƒqƒ‹)",
 		identifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -30736,7 +30718,7 @@ itemInfo format:
 	[1000469] = {
 		unidentifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒXƒs[ƒJ)",
 		unidentifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒXƒs[ƒJ)",
 		identifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -30767,7 +30749,7 @@ itemInfo format:
 	[1000470] = {
 		unidentifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒXƒLƒA)",
 		unidentifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒXƒLƒA)",
 		identifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -30798,7 +30780,7 @@ itemInfo format:
 	[1000472] = {
 		unidentifiedDisplayName = "Î•ĞûW‰Æƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Î•ĞûW‰Æƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -30825,7 +30807,7 @@ itemInfo format:
 	[1000507] = {
 		unidentifiedDisplayName = "ç‚è—(¬–ï)",
 		unidentifiedResourceName = "¿©ÀÚ¾ÆÀÌÀÎÇü",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ç‚è—(¬–ï)",
 		identifiedResourceName = "¿©ÀÚ¾ÆÀÌÀÎÇü",
 		identifiedDescriptionName = {
@@ -30848,7 +30830,7 @@ itemInfo format:
 	[1000508] = {
 		unidentifiedDisplayName = "ç‚è—(’†–ï)",
 		unidentifiedResourceName = "¿©ÀÚ¾ÆÀÌÀÎÇü",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ç‚è—(’†–ï)",
 		identifiedResourceName = "¿©ÀÚ¾ÆÀÌÀÎÇü",
 		identifiedDescriptionName = {
@@ -30871,7 +30853,7 @@ itemInfo format:
 	[1000509] = {
 		unidentifiedDisplayName = "ç‚è—(‘å–ï)",
 		unidentifiedResourceName = "¿©ÀÚ¾ÆÀÌÀÎÇü",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ç‚è—(‘å–ï)",
 		identifiedResourceName = "¿©ÀÚ¾ÆÀÌÀÎÇü",
 		identifiedDescriptionName = {
@@ -30894,7 +30876,7 @@ itemInfo format:
 	[1000519] = {
 		unidentifiedDisplayName = "‰ü‘¢ƒI[ƒu(Q-Range)",
 		unidentifiedResourceName = "Auto_Module_B",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰ü‘¢ƒI[ƒu(Q-Range)",
 		identifiedResourceName = "Auto_Module_B",
 		identifiedDescriptionName = {
@@ -30915,7 +30897,7 @@ itemInfo format:
 	[1000531] = {
 		unidentifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒ`ƒPƒbƒgII",
 		unidentifiedResourceName = "Á¶Á÷¿øÀÇÁõÇ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒ‹ƒVƒIƒ“ƒ`ƒPƒbƒgII",
 		identifiedResourceName = "Á¶Á÷¿øÀÇÁõÇ¥",
 		identifiedDescriptionName = {
@@ -30943,7 +30925,7 @@ itemInfo format:
 	[1000533] = {
 		unidentifiedDisplayName = "ƒŒƒxƒ‹ƒAƒbƒvƒ`ƒPƒbƒg(BaseLv185)",
 		unidentifiedResourceName = "Á¶Á÷¿øÀÇÁõÇ¥",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒxƒ‹ƒAƒbƒvƒ`ƒPƒbƒg(BaseLv185)",
 		identifiedResourceName = "Á¶Á÷¿øÀÇÁõÇ¥",
 		identifiedDescriptionName = {
@@ -30974,7 +30956,7 @@ itemInfo format:
 	[1000534] = {
 		unidentifiedDisplayName = "ƒNƒGƒXƒgƒXƒLƒbƒvƒ`ƒPƒbƒg(Œ«Ò‚ÌˆâY)",
 		unidentifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒNƒGƒXƒgƒXƒLƒbƒvƒ`ƒPƒbƒg(Œ«Ò‚ÌˆâY)",
 		identifiedResourceName = "ÇÑ¼®ºÀ¼Ò°³Àå",
 		identifiedDescriptionName = {
@@ -31003,7 +30985,7 @@ itemInfo format:
 	[1000535] = {
 		unidentifiedDisplayName = "—ğí‚Ì‚",
 		unidentifiedResourceName = "¿ÕÀÇ¹æÆĞ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—ğí‚Ì‚",
 		identifiedResourceName = "¿ÕÀÇ¹æÆĞ",
 		identifiedDescriptionName = {
@@ -31022,7 +31004,7 @@ itemInfo format:
 	[1000536] = {
 		unidentifiedDisplayName = "ÂÃŞÛ°ÍÃŞ°ÑÍŞÄŞ°İ",
 		unidentifiedResourceName = "¿»·Î¿ìÁª½ºÅæ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ÂÃŞÛ°ÍÃŞ°ÑÍŞÄŞ°İ",
 		identifiedResourceName = "¿»·Î¿ìÁª½ºÅæ",
 		identifiedDescriptionName = {
@@ -31041,7 +31023,7 @@ itemInfo format:
 	[1000537] = {
 		unidentifiedDisplayName = "ˆÅƒŠƒ“ƒS",
 		unidentifiedResourceName = "»ç°ú",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ˆÅƒŠƒ“ƒS",
 		identifiedResourceName = "»ç°ú",
 		identifiedDescriptionName = {
@@ -31061,7 +31043,7 @@ itemInfo format:
 	[1000538] = {
 		unidentifiedDisplayName = "ŠoÁ‚Ìƒ|[ƒVƒ‡ƒ“",
 		unidentifiedResourceName = "°¢¼ºÆ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ŠoÁ‚Ìƒ|[ƒVƒ‡ƒ“",
 		identifiedResourceName = "°¢¼ºÆ÷¼Ç",
 		identifiedDescriptionName = {
@@ -31083,7 +31065,7 @@ itemInfo format:
 	[1000539] = {
 		unidentifiedDisplayName = "‚©‚É‚ÌƒnƒTƒ~",
 		unidentifiedResourceName = "Áı°Ô¹ß",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚©‚É‚ÌƒnƒTƒ~",
 		identifiedResourceName = "Áı°Ô¹ß",
 		identifiedDescriptionName = {
@@ -31104,7 +31086,7 @@ itemInfo format:
 	[1000540] = {
 		unidentifiedDisplayName = "ƒJƒ^ƒcƒ€ƒŠ‚ÌŠk",
 		unidentifiedResourceName = "´ŞÆØÀÌ²®Áú",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒJƒ^ƒcƒ€ƒŠ‚ÌŠk",
 		identifiedResourceName = "´ŞÆØÀÌ²®Áú",
 		identifiedDescriptionName = {
@@ -31123,7 +31105,7 @@ itemInfo format:
 	[1000543] = {
 		unidentifiedDisplayName = "‰BÒ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰BÒ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -31139,7 +31121,7 @@ itemInfo format:
 	[1000544] = {
 		unidentifiedDisplayName = "‹ğÒ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‹ğÒ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -31155,7 +31137,7 @@ itemInfo format:
 	[1000545] = {
 		unidentifiedDisplayName = "–@‰¤‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "–@‰¤‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -31171,7 +31153,7 @@ itemInfo format:
 	[1000546] = {
 		unidentifiedDisplayName = "’İ‚é‚³‚ê‚½’j‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "’İ‚é‚³‚ê‚½’j‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -31187,7 +31169,7 @@ itemInfo format:
 	[1000547] = {
 		unidentifiedDisplayName = "—‹³c‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—‹³c‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -31203,7 +31185,7 @@ itemInfo format:
 	[1000548] = {
 		unidentifiedDisplayName = "—‹³c‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "—‹³c‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -31219,7 +31201,7 @@ itemInfo format:
 	[1000549] = {
 		unidentifiedDisplayName = "“ƒ‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“ƒ‚ÌƒJ[ƒh‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -31235,7 +31217,7 @@ itemInfo format:
 	[1000550] = {
 		unidentifiedDisplayName = "“ƒ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		unidentifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“ƒ‚ÌƒJ[ƒh(‹tˆÊ’u)‚ÌŒ‡•Ğ",
 		identifiedResourceName = "¼¶¶àÇÑÁ¾ÀÌÄ®³¯",
 		identifiedDescriptionName = {
@@ -31251,7 +31233,7 @@ itemInfo format:
 	[1000553] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒpƒCƒvƒ^ƒoƒR",
 		unidentifiedResourceName = "Pet_Smoking_Pipe",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒpƒCƒvƒ^ƒoƒR",
 		identifiedResourceName = "Pet_Smoking_Pipe",
 		identifiedDescriptionName = {
@@ -31277,7 +31259,7 @@ itemInfo format:
 	[1000573] = {
 		unidentifiedDisplayName = "ƒ`ƒƒ[ƒ€ƒ—g‰Ô‰Î„",
 		unidentifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ`ƒƒ[ƒ€ƒ—g‰Ô‰Î„",
 		identifiedResourceName = "ºí·çÅ©¸®½ºÅ»Á¶°¢",
 		identifiedDescriptionName = {
@@ -31302,7 +31284,7 @@ itemInfo format:
 	[1000574] = {
 		unidentifiedDisplayName = "ƒXƒEƒB[ƒgƒƒƒ“",
 		unidentifiedResourceName = "È²±İ¸á·Ğ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒEƒB[ƒgƒƒƒ“",
 		identifiedResourceName = "È²±İ¸á·Ğ",
 		identifiedDescriptionName = {
@@ -31331,7 +31313,7 @@ itemInfo format:
 	[1000575] = {
 		unidentifiedDisplayName = "ƒ}ƒ“ƒ ƒŠƒ“ƒtƒ‹[ƒc",
 		unidentifiedResourceName = "¸ğ¶ó¸¸´Ù¸°",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ}ƒ“ƒ ƒŠƒ“ƒtƒ‹[ƒc",
 		identifiedResourceName = "¸ğ¶ó¸¸´Ù¸°",
 		identifiedDescriptionName = {
@@ -31360,7 +31342,7 @@ itemInfo format:
 	[1000576] = {
 		unidentifiedDisplayName = "‚Õ‚é‚Õ‚éƒxƒŠ[",
 		unidentifiedResourceName = "¸ğ¶óº£¸®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚Õ‚é‚Õ‚éƒxƒŠ[",
 		identifiedResourceName = "¸ğ¶óº£¸®",
 		identifiedDescriptionName = {
@@ -31389,7 +31371,7 @@ itemInfo format:
 	[1000577] = {
 		unidentifiedDisplayName = "ƒWƒFƒ€ƒWƒFƒ€ƒXƒg[ƒ“",
 		unidentifiedResourceName = "¿ø¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒWƒFƒ€ƒWƒFƒ€ƒXƒg[ƒ“",
 		identifiedResourceName = "¿ø¼®",
 		identifiedDescriptionName = {
@@ -31418,7 +31400,7 @@ itemInfo format:
 	[1000578] = {
 		unidentifiedDisplayName = "ƒŒƒbƒhƒj[ƒhƒ‹ƒV[ƒh",
 		unidentifiedResourceName = "°¡½Ã¿­¸Å_",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒbƒhƒj[ƒhƒ‹ƒV[ƒh",
 		identifiedResourceName = "°¡½Ã¿­¸Å_",
 		identifiedDescriptionName = {
@@ -31447,7 +31429,7 @@ itemInfo format:
 	[1000579] = {
 		unidentifiedDisplayName = "ƒQ[ƒ~ƒ“ƒOƒLƒƒƒƒbƒg",
 		unidentifiedResourceName = "¹«Áö°³´ç±Ù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒQ[ƒ~ƒ“ƒOƒLƒƒƒƒbƒg",
 		identifiedResourceName = "¹«Áö°³´ç±Ù",
 		identifiedDescriptionName = {
@@ -31476,7 +31458,7 @@ itemInfo format:
 	[1000580] = {
 		unidentifiedDisplayName = "ƒEƒBƒA[ƒhƒXƒ^[ƒoƒbƒW",
 		unidentifiedResourceName = "Ä¿Áîµå½ºÅ¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒBƒA[ƒhƒXƒ^[ƒoƒbƒW",
 		identifiedResourceName = "Ä¿Áîµå½ºÅ¸",
 		identifiedDescriptionName = {
@@ -31507,7 +31489,7 @@ itemInfo format:
 	[1000581] = {
 		unidentifiedDisplayName = "ƒ [ƒNƒƒƒ“",
 		unidentifiedResourceName = "SourMelon",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ [ƒNƒƒƒ“",
 		identifiedResourceName = "SourMelon",
 		identifiedDescriptionName = {
@@ -31536,7 +31518,7 @@ itemInfo format:
 	[1000582] = {
 		unidentifiedDisplayName = "ƒEƒH[ƒ^[ƒƒƒ“ƒn[ƒg",
 		unidentifiedResourceName = "¼ö¹ÚÇÏÆ®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒEƒH[ƒ^[ƒƒƒ“ƒn[ƒg",
 		identifiedResourceName = "¼ö¹ÚÇÏÆ®",
 		identifiedDescriptionName = {
@@ -31567,7 +31549,7 @@ itemInfo format:
 	[1000583] = {
 		unidentifiedDisplayName = "ƒƒƒ“—p‰»Ï” (¿‹‘•t)",
 		unidentifiedResourceName = "À½½Äº¸ÀÚ±â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒƒ“—p‰»Ï” (¿‹‘•t)",
 		identifiedResourceName = "À½½Äº¸ÀÚ±â",
 		identifiedDescriptionName = {
@@ -31598,7 +31580,7 @@ itemInfo format:
 	[1000584] = {
 		unidentifiedDisplayName = "ƒƒŠƒbƒhƒs[ƒ`",
 		unidentifiedResourceName = "´Ü´ÜÇÑº¹¼ş¾Æ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒŠƒbƒhƒs[ƒ`",
 		identifiedResourceName = "´Ü´ÜÇÑº¹¼ş¾Æ",
 		identifiedDescriptionName = {
@@ -31627,7 +31609,7 @@ itemInfo format:
 	[1000585] = {
 		unidentifiedDisplayName = "ƒ‰ƒCƒgƒuƒ‹[ƒMƒ‹",
 		unidentifiedResourceName = "ÇØ½ÅÀÇ¼öÈ£",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ‰ƒCƒgƒuƒ‹[ƒMƒ‹",
 		identifiedResourceName = "ÇØ½ÅÀÇ¼öÈ£",
 		identifiedDescriptionName = {
@@ -31656,7 +31638,7 @@ itemInfo format:
 	[1000586] = {
 		unidentifiedDisplayName = "ƒCƒŠƒ…[ƒWƒ‡ƒiƒ‹ƒtƒ‰ƒ[",
 		unidentifiedResourceName = "È¯»óÀÇ²É",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒCƒŠƒ…[ƒWƒ‡ƒiƒ‹ƒtƒ‰ƒ[",
 		identifiedResourceName = "È¯»óÀÇ²É",
 		identifiedDescriptionName = {
@@ -31687,7 +31669,7 @@ itemInfo format:
 	[1000587] = {
 		unidentifiedDisplayName = "ƒ”ƒ@ƒ‹ƒLƒŠ[ƒtƒ‰ƒ[",
 		unidentifiedResourceName = "¹ßÇÒ¶óÀÇ²É",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ”ƒ@ƒ‹ƒLƒŠ[ƒtƒ‰ƒ[",
 		identifiedResourceName = "¹ßÇÒ¶óÀÇ²É",
 		identifiedDescriptionName = {
@@ -31716,7 +31698,7 @@ itemInfo format:
 	[1000588] = {
 		unidentifiedDisplayName = "ƒuƒ‰ƒbƒfƒB[ƒV[ƒh",
 		unidentifiedResourceName = "ÈíÇ÷½Ä¹°¾¾¾Ñ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒuƒ‰ƒbƒfƒB[ƒV[ƒh",
 		identifiedResourceName = "ÈíÇ÷½Ä¹°¾¾¾Ñ",
 		identifiedDescriptionName = {
@@ -31745,7 +31727,7 @@ itemInfo format:
 	[1000589] = {
 		unidentifiedDisplayName = "ƒtƒFƒAƒŠ[ƒŠ[ƒt",
 		unidentifiedResourceName = "È­·ÁÇÑ¿äÁ¤³¯°³",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒtƒFƒAƒŠ[ƒŠ[ƒt",
 		identifiedResourceName = "È­·ÁÇÑ¿äÁ¤³¯°³",
 		identifiedDescriptionName = {
@@ -31774,7 +31756,7 @@ itemInfo format:
 	[1000590] = {
 		unidentifiedDisplayName = "ƒTƒ}[ƒiƒCƒgƒs[ƒX",
 		unidentifiedResourceName = "¾îµÒÀÇÁ¶°¢",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒ}[ƒiƒCƒgƒs[ƒX",
 		identifiedResourceName = "¾îµÒÀÇÁ¶°¢",
 		identifiedDescriptionName = {
@@ -31803,7 +31785,7 @@ itemInfo format:
 	[1000591] = {
 		unidentifiedDisplayName = "ƒƒƒƒƒs[",
 		unidentifiedResourceName = "ÇÙ½ÉÁ©¸®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒƒƒƒs[",
 		identifiedResourceName = "ÇÙ½ÉÁ©¸®",
 		identifiedDescriptionName = {
@@ -31832,7 +31814,7 @@ itemInfo format:
 	[1000592] = {
 		unidentifiedDisplayName = "ƒ ƒƒƒƒs[",
 		unidentifiedResourceName = "°Ë°íµüµüÇÑµ¢¾î¸®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒ ƒƒƒƒs[",
 		identifiedResourceName = "°Ë°íµüµüÇÑµ¢¾î¸®",
 		identifiedDescriptionName = {
@@ -31861,7 +31843,7 @@ itemInfo format:
 	[1000593] = {
 		unidentifiedDisplayName = "ƒL[ƒIƒuƒwƒuƒ“",
 		unidentifiedResourceName = "½Ã°èÅ¾¿­¼è",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒL[ƒIƒuƒwƒuƒ“",
 		identifiedResourceName = "½Ã°èÅ¾¿­¼è",
 		identifiedDescriptionName = {
@@ -31890,7 +31872,7 @@ itemInfo format:
 	[1000594] = {
 		unidentifiedDisplayName = "ƒŒƒAƒXƒ‚[ƒ‹ƒWƒFƒ€",
 		unidentifiedResourceName = "·éÀÇ¿ø¼®_Èñ±Í",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒŒƒAƒXƒ‚[ƒ‹ƒWƒFƒ€",
 		identifiedResourceName = "·éÀÇ¿ø¼®_Èñ±Í",
 		identifiedDescriptionName = {
@@ -31919,7 +31901,7 @@ itemInfo format:
 	[1000595] = {
 		unidentifiedDisplayName = "ƒvƒŒƒVƒƒƒXƒ{ƒ^ƒ“",
 		unidentifiedResourceName = "Å°¿¤´ÜÃß",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒvƒŒƒVƒƒƒXƒ{ƒ^ƒ“",
 		identifiedResourceName = "Å°¿¤´ÜÃß",
 		identifiedDescriptionName = {
@@ -31948,7 +31930,7 @@ itemInfo format:
 	[1000596] = {
 		unidentifiedDisplayName = "ƒXƒ^[ƒ}ƒbƒVƒ…ƒ‹[ƒ€",
 		unidentifiedResourceName = "º°¹«´Ì¹ö¼¸",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒXƒ^[ƒ}ƒbƒVƒ…ƒ‹[ƒ€",
 		identifiedResourceName = "º°¹«´Ì¹ö¼¸",
 		identifiedDescriptionName = {
@@ -31977,7 +31959,7 @@ itemInfo format:
 	[1000597] = {
 		unidentifiedDisplayName = "”Zkƒƒƒ“ƒWƒƒƒ€",
 		unidentifiedResourceName = "Ä«¿Ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”Zkƒƒƒ“ƒWƒƒƒ€",
 		identifiedResourceName = "Ä«¿Ë",
 		identifiedDescriptionName = {
@@ -32006,7 +31988,7 @@ itemInfo format:
 	[1000598] = {
 		unidentifiedDisplayName = "ƒlƒIƒ“ƒEƒH[ƒ^[",
 		unidentifiedResourceName = "Çü±¤¾×Ã¼",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒlƒIƒ“ƒEƒH[ƒ^[",
 		identifiedResourceName = "Çü±¤¾×Ã¼",
 		identifiedDescriptionName = {
@@ -32035,7 +32017,7 @@ itemInfo format:
 	[1000599] = {
 		unidentifiedDisplayName = "ƒfƒB[ƒvƒV[ƒEƒH[ƒ^[",
 		unidentifiedResourceName = "ÇØ¾ç½ÉÃş¼ö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒfƒB[ƒvƒV[ƒEƒH[ƒ^[",
 		identifiedResourceName = "ÇØ¾ç½ÉÃş¼ö",
 		identifiedDescriptionName = {
@@ -32066,7 +32048,7 @@ itemInfo format:
 	[1000602] = {
 		unidentifiedDisplayName = "ƒgƒ‹ƒlƒCƒhƒNƒŒƒC",
 		unidentifiedResourceName = "°Å½Ã±â",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒgƒ‹ƒlƒCƒhƒNƒŒƒC",
 		identifiedResourceName = "°Å½Ã±â",
 		identifiedDescriptionName = {
@@ -32095,7 +32077,7 @@ itemInfo format:
 	[1000622] = {
 		unidentifiedDisplayName = "ƒLƒ…[ƒyƒbƒgƒ{ƒbƒNƒX’Š‘IŒ”II",
 		unidentifiedResourceName = "±âºÎÁõ¸í¼­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒ…[ƒyƒbƒgƒ{ƒbƒNƒX’Š‘IŒ”II",
 		identifiedResourceName = "±âºÎÁõ¸í¼­",
 		identifiedDescriptionName = {
@@ -32124,7 +32106,7 @@ itemInfo format:
 	[1000623] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒVƒ“ƒuƒŒƒCƒh",
 		unidentifiedResourceName = "¿¬°Ë",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒVƒ“ƒuƒŒƒCƒh",
 		identifiedResourceName = "¿¬°Ë",
 		identifiedDescriptionName = {
@@ -32143,7 +32125,7 @@ itemInfo format:
 	[1000624] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒOƒŠƒbƒ^ƒŠƒ“ƒOƒNƒ[ƒX",
 		unidentifiedResourceName = "±Û¸®ÅÍ¸µÅ¬·Î½º",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒOƒŠƒbƒ^ƒŠƒ“ƒOƒNƒ[ƒX",
 		identifiedResourceName = "±Û¸®ÅÍ¸µÅ¬·Î½º",
 		identifiedDescriptionName = {
@@ -32163,7 +32145,7 @@ itemInfo format:
 	[1000625] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒ”ƒ@[ƒŠ‚Ìƒ}ƒ“ƒg",
 		unidentifiedResourceName = "¹ß¸®ÀÇ¸ÁÅä",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒ”ƒ@[ƒŠ‚Ìƒ}ƒ“ƒg",
 		identifiedResourceName = "¹ß¸®ÀÇ¸ÁÅä",
 		identifiedDescriptionName = {
@@ -32187,7 +32169,7 @@ itemInfo format:
 	[1000626] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—pƒAƒŠƒX‚ÌƒGƒvƒƒ“",
 		unidentifiedResourceName = "¿¤¸®½ºÀÇ¾ÕÄ¡¸¶",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—pƒAƒŠƒX‚ÌƒGƒvƒƒ“",
 		identifiedResourceName = "¿¤¸®½ºÀÇ¾ÕÄ¡¸¶",
 		identifiedDescriptionName = {
@@ -32205,7 +32187,7 @@ itemInfo format:
 	[1000627] = {
 		unidentifiedDisplayName = "ƒyƒbƒg—p‘º³",
 		unidentifiedResourceName = "¹«¶ó¸¶»ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒyƒbƒg—p‘º³",
 		identifiedResourceName = "¹«¶ó¸¶»ç",
 		identifiedDescriptionName = {
@@ -32224,7 +32206,7 @@ itemInfo format:
 	[1000628] = {
 		unidentifiedDisplayName = "ƒGƒŠƒIƒbƒgŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒŠƒIƒbƒgŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -32251,7 +32233,7 @@ itemInfo format:
 	[1000629] = {
 		unidentifiedDisplayName = "ƒGƒŠƒZƒ‹ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒŠƒZƒ‹ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -32278,7 +32260,7 @@ itemInfo format:
 	[1000630] = {
 		unidentifiedDisplayName = "ƒGƒŠƒUŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒŠƒUŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -32305,7 +32287,7 @@ itemInfo format:
 	[1000631] = {
 		unidentifiedDisplayName = "ƒLƒGƒ‹-D-01ŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒGƒ‹-D-01ŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -32332,7 +32314,7 @@ itemInfo format:
 	[1000632] = {
 		unidentifiedDisplayName = "‰˜õ‚³‚ê‚½œfœr‚¤ÒŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‰˜õ‚³‚ê‚½œfœr‚¤ÒŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -32360,7 +32342,7 @@ itemInfo format:
 	[1000633] = {
 		unidentifiedDisplayName = "ƒƒCƒ‹ƒhƒ[ƒYŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒCƒ‹ƒhƒ[ƒYŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -32387,7 +32369,7 @@ itemInfo format:
 	[1000634] = {
 		unidentifiedDisplayName = "ƒGƒhƒKŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒGƒhƒKŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -32414,7 +32396,7 @@ itemInfo format:
 	[1000677] = {
 		unidentifiedDisplayName = "•œƒRƒX‚½‚ÜˆøŠ·Œ”",
 		unidentifiedResourceName = "°í¾çÀÌ¼ÕÆ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "•œƒRƒX‚½‚ÜˆøŠ·Œ”",
 		identifiedResourceName = "°í¾çÀÌ¼ÕÆ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -32440,7 +32422,7 @@ itemInfo format:
 	[1000710] = {
 		unidentifiedDisplayName = "”N‰êó2022”N",
 		unidentifiedResourceName = "±×¸²ÆíÁö",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”N‰êó2022”N",
 		identifiedResourceName = "±×¸²ÆíÁö",
 		identifiedDescriptionName = {
@@ -32466,7 +32448,7 @@ itemInfo format:
 	[1000847] = {
 		unidentifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒAƒOƒlƒX)",
 		unidentifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒAƒOƒlƒX)",
 		identifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -32497,7 +32479,7 @@ itemInfo format:
 	[1000848] = {
 		unidentifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒ|[)",
 		unidentifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒ|[)",
 		identifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -32528,7 +32510,7 @@ itemInfo format:
 	[1000849] = {
 		unidentifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒAƒCƒUƒbƒN)",
 		unidentifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒTƒCƒ“‰ïƒ`ƒPƒbƒg(ƒAƒCƒUƒbƒN)",
 		identifiedResourceName = "g¸µ±³È¯Æ¼ÄÏ",
 		identifiedDescriptionName = {
@@ -32559,7 +32541,7 @@ itemInfo format:
 	[1000866] = {
 		unidentifiedDisplayName = "ƒLƒ…[ƒyƒbƒgƒ{ƒbƒNƒX’Š‘IŒ”III",
 		unidentifiedResourceName = "±âºÎÁõ¸í¼­",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒLƒ…[ƒyƒbƒgƒ{ƒbƒNƒX’Š‘IŒ”III",
 		identifiedResourceName = "±âºÎÁõ¸í¼­",
 		identifiedDescriptionName = {
@@ -32588,7 +32570,7 @@ itemInfo format:
 	[1000867] = {
 		unidentifiedDisplayName = "ƒtƒŠƒIƒjŒğŠ·ƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "ÄíÆù",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒtƒŠƒIƒjŒğŠ·ƒ`ƒPƒbƒg",
 		identifiedResourceName = "ÄíÆù",
 		identifiedDescriptionName = {
@@ -32615,7 +32597,7 @@ itemInfo format:
 	[1000868] = {
 		unidentifiedDisplayName = "+5Šm’è¸˜Bƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "+5Šm’è¸˜Bƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -32643,7 +32625,7 @@ itemInfo format:
 	[1000869] = {
 		unidentifiedDisplayName = "+6Šm’è¸˜Bƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "+6Šm’è¸˜Bƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -32671,7 +32653,7 @@ itemInfo format:
 	[1000870] = {
 		unidentifiedDisplayName = "+7Šm’è¸˜Bƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "+7Šm’è¸˜Bƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -32699,7 +32681,7 @@ itemInfo format:
 	[1000871] = {
 		unidentifiedDisplayName = "+8Šm’è¸˜Bƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "+8Šm’è¸˜Bƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -32727,7 +32709,7 @@ itemInfo format:
 	[1000872] = {
 		unidentifiedDisplayName = "+9Šm’è¸˜Bƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "+9Šm’è¸˜Bƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -32755,7 +32737,7 @@ itemInfo format:
 	[1000873] = {
 		unidentifiedDisplayName = "+10Šm’è¸˜Bƒ`ƒPƒbƒg",
 		unidentifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "+10Šm’è¸˜Bƒ`ƒPƒbƒg",
 		identifiedResourceName = "¹°Ç°¿µ¼öÁõ_01",
 		identifiedDescriptionName = {
@@ -32783,7 +32765,7 @@ itemInfo format:
 	[1000959] = {
 		unidentifiedDisplayName = "”l‚Ìƒnƒ`ƒ}ƒl",
 		unidentifiedResourceName = "°í¾çÀÌ¸Ó¸®¶ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "”l‚Ìƒnƒ`ƒ}ƒl",
 		identifiedResourceName = "°í¾çÀÌ¸Ó¸®¶ì",
 		identifiedDescriptionName = {
@@ -32803,7 +32785,7 @@ itemInfo format:
 	[1000960] = {
 		unidentifiedDisplayName = "ƒxƒ|ƒalŒ`",
 		unidentifiedResourceName = "½ºÆ÷¾ÆÀÎÇü",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒxƒ|ƒalŒ`",
 		identifiedResourceName = "½ºÆ÷¾ÆÀÎÇü",
 		identifiedDescriptionName = {
@@ -32823,7 +32805,7 @@ itemInfo format:
 	[1000961] = {
 		unidentifiedDisplayName = "gƒ‡ƒ“",
 		unidentifiedResourceName = "ÁÖÈ«Æ÷¼Ç",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "gƒ‡ƒ“",
 		identifiedResourceName = "ÁÖÈ«Æ÷¼Ç",
 		identifiedDescriptionName = {
@@ -32845,7 +32827,7 @@ itemInfo format:
 	[1000962] = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒrƒbƒgƒ“ƒvƒƒ[ƒc",
 		identifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
 		identifiedDescriptionName = {
@@ -32864,7 +32846,7 @@ itemInfo format:
 	[1000963] = {
 		unidentifiedDisplayName = "ƒxƒ}ƒbƒvƒƒ",
 		unidentifiedResourceName = "½º¸Å¼Å",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒxƒ}ƒbƒvƒƒ",
 		identifiedResourceName = "½º¸Å¼Å",
 		identifiedDescriptionName = {
@@ -32883,7 +32865,7 @@ itemInfo format:
 	[1000964] = {
 		unidentifiedDisplayName = "“Á‘IƒlƒRŠÊ(ƒJƒj)",
 		unidentifiedResourceName = "Kani_can",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "“Á‘IƒlƒRŠÊ(ƒJƒj)",
 		identifiedResourceName = "Kani_can",
 		identifiedDescriptionName = {
@@ -32916,7 +32898,7 @@ itemInfo format:
 	[1001024] = {
 		unidentifiedDisplayName = "ƒƒŠƒ…ƒW[ƒk‚Ì”¯",
 		unidentifiedResourceName = "¸Ó¸®Ä«¶ô¹ì",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒƒŠƒ…ƒW[ƒk‚Ì”¯",
 		identifiedResourceName = "¸Ó¸®Ä«¶ô¹ì",
 		identifiedDescriptionName = {
@@ -32945,7 +32927,7 @@ itemInfo format:
 	[1001025] = {
 		unidentifiedDisplayName = "‚â‚ñ‚¿‚á‚Èˆ«–‚‚Ì‰H",
 		unidentifiedResourceName = "·çµµÀÇ°ËÀº³¯°³",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‚â‚ñ‚¿‚á‚Èˆ«–‚‚Ì‰H",
 		identifiedResourceName = "·çµµÀÇ°ËÀº³¯°³",
 		identifiedDescriptionName = {
@@ -32976,7 +32958,7 @@ itemInfo format:
 	[1001026] = {
 		unidentifiedDisplayName = "‘“‚­”R‚¦‚éì",
 		unidentifiedResourceName = "Çª¸¥¹¦¾È¼®",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "‘“‚­”R‚¦‚éì",
 		identifiedResourceName = "Çª¸¥¹¦¾È¼®",
 		identifiedDescriptionName = {
@@ -33005,7 +32987,7 @@ itemInfo format:
 	[1001027] = {
 		unidentifiedDisplayName = "ƒjƒƒƒ“ƒpƒ“",
 		unidentifiedResourceName = "ºí·¢Ä¹",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒjƒƒƒ“ƒpƒ“",
 		identifiedResourceName = "ºí·¢Ä¹",
 		identifiedDescriptionName = {
@@ -33034,7 +33016,7 @@ itemInfo format:
 	[1001028] = {
 		unidentifiedDisplayName = "ƒm[ƒrƒXƒGƒbƒO",
 		unidentifiedResourceName = "Àå½Ä¿ë¾Ë²®Áú",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "ƒm[ƒrƒXƒGƒbƒO",
 		identifiedResourceName = "Àå½Ä¿ë¾Ë²®Áú",
 		identifiedDescriptionName = {
