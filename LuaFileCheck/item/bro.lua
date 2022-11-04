@@ -1,67 +1,13 @@
 Missing Items from Brazil Ragnarok Online [bRO]
-	Total: 54
-764
-4624
-9969
-9970
-9971
-9972
-9973
-9974
-9975
-9976
-9977
-9978
-9979
-9980
-9981
-9982
-9983
-9984
-9985
-9986
-9987
-9988
-9989
-15219
-15238
-15272
-15920
-15921
-15922
-15923
-15924
-16562
-16994
-17033
-17208
-19220
-22149
-22182
-27413
-27414
-27415
-27416
-28537
-28538
-28572
-28617
-28933
-55324
-101053
-400092
-410011
-440005
-490085
-490174
+itemInfo format:
 	[764] = {
 		unidentifiedDisplayName = "(null)",
 		unidentifiedResourceName = "(null)",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "(null)",
 		identifiedResourceName = "(null)",
 		identifiedDescriptionName = {
-		},
+},
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
@@ -73,6 +19,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Carta Tao Gunka Selada",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
+
 			"^0000ffHP máx. +50%.^000000",
 			"^0000ffDEF e DEFM^000000 ^ff0000-50%.^000000",
 			"Refino +15 ou mais:",
@@ -90,10 +37,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9969] = {
 		unidentifiedDisplayName = "Arca da Cura",
 		unidentifiedResourceName = "금보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca da Cura",
 		identifiedResourceName = "금보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -111,10 +59,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9970] = {
 		unidentifiedDisplayName = "Arca de Palitos",
 		unidentifiedResourceName = "은보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Palitos",
 		identifiedResourceName = "은보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -136,10 +85,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9971] = {
 		unidentifiedDisplayName = "Arca Maior de Batalha",
 		unidentifiedResourceName = "동보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Maior de Batalha",
 		identifiedResourceName = "동보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -160,10 +110,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9972] = {
 		unidentifiedDisplayName = "Arca de Batalha",
 		unidentifiedResourceName = "동보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Batalha",
 		identifiedResourceName = "동보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -184,10 +135,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9973] = {
 		unidentifiedDisplayName = "Arca Maior de Vida",
 		unidentifiedResourceName = "철보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Maior de Vida",
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -206,10 +158,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9974] = {
 		unidentifiedDisplayName = "Arca de Vida",
 		unidentifiedResourceName = "철보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Vida",
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -228,10 +181,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9975] = {
 		unidentifiedDisplayName = "Arca Maior Divina",
 		unidentifiedResourceName = "금보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Maior Divina",
 		identifiedResourceName = "금보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -253,10 +207,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9976] = {
 		unidentifiedDisplayName = "Arca Divina",
 		unidentifiedResourceName = "금보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Divina",
 		identifiedResourceName = "금보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -277,10 +232,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9977] = {
 		unidentifiedDisplayName = "Arca Maior de Refino",
 		unidentifiedResourceName = "백금보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Maior de Refino",
 		identifiedResourceName = "백금보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -298,10 +254,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9978] = {
 		unidentifiedDisplayName = "Arca de Refino",
 		unidentifiedResourceName = "백금보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Refino",
 		identifiedResourceName = "백금보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -319,10 +276,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9979] = {
 		unidentifiedDisplayName = "Arca Perfeita",
 		unidentifiedResourceName = "동보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Perfeita",
 		identifiedResourceName = "동보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -341,10 +299,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9980] = {
 		unidentifiedDisplayName = "Arca de Minérios",
 		unidentifiedResourceName = "나무보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Minérios",
 		identifiedResourceName = "나무보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -363,10 +322,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9981] = {
 		unidentifiedDisplayName = "Arca de Pergaminhos",
 		unidentifiedResourceName = "은보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Pergaminhos",
 		identifiedResourceName = "은보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -385,10 +345,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9982] = {
 		unidentifiedDisplayName = "Arca Especial",
 		unidentifiedResourceName = "다이아보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Especial",
 		identifiedResourceName = "다이아보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -405,10 +366,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9983] = {
 		unidentifiedDisplayName = "Arca Maior Celeste",
 		unidentifiedResourceName = "다이아보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Maior Celeste",
 		identifiedResourceName = "다이아보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -426,10 +388,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9984] = {
 		unidentifiedDisplayName = "Arca Celeste",
 		unidentifiedResourceName = "다이아보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Celeste",
 		identifiedResourceName = "다이아보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -447,10 +410,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9985] = {
 		unidentifiedDisplayName = "Arca de Poções",
 		unidentifiedResourceName = "진주보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Poções",
 		identifiedResourceName = "진주보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -472,10 +436,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9986] = {
 		unidentifiedDisplayName = "Arca de Reset",
 		unidentifiedResourceName = "진주보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Reset",
 		identifiedResourceName = "진주보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -493,10 +458,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9987] = {
 		unidentifiedDisplayName = "Arca Maior de Evoluir",
 		unidentifiedResourceName = "나무보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca Maior de Evoluir",
 		identifiedResourceName = "나무보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -515,10 +481,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9988] = {
 		unidentifiedDisplayName = "Arca de Evoluir",
 		unidentifiedResourceName = "나무보물상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca de Evoluir",
 		identifiedResourceName = "나무보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca recheada de preciosidades!",
 			"--------------------------",
@@ -537,10 +504,11 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[9989] = {
 		unidentifiedDisplayName = "Arca da Kachua",
 		unidentifiedResourceName = "오래된파란상자",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		unidentifiedDescriptionName = {Can be identified by using a ^990099Magnifier^000000.},
 		identifiedDisplayName = "Arca da Kachua",
 		identifiedResourceName = "오래된파란상자",
 		identifiedDescriptionName = {
+
 			"",
 			"^ff0000Intransferível.^000000",
 			"Peso: ^7777771^000000"
@@ -556,6 +524,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Vestes de Ghostring",
 		identifiedResourceName = "고스트링수트",
 		identifiedDescriptionName = {
+
 			"À primeira vista, estes trapos lembram bastante as Vestes de Angeling depois de jogadas na máquina de lavar junto com meia dúzia de Chapéus de Esporo. De qualquer forma, esses trajes também são muito cobiçados por Super Aprendizes, que acreditam que o espírito da sacerdotisa do Templo Sagrado dos Ings ainda procura guarda-los do perigo.",
 			"--------------------------",
 			"^0000ffHP máx. +1.000.^000000",
@@ -589,6 +558,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Cota do Dragão Maligno",
 		identifiedResourceName = "사룡의갑옷",
 		identifiedDescriptionName = {
+
 			"Uma armadura feita com escamas de um dragão zumbi, reanimado pelo maléfico Rei da Noite. Seus poderes necromânticos fazem com que o usuário possa absorver a própria vida ou energia mental de seus oponentes durante a batalha. Só tome cuidado, pois a armadura não combina muito bem com certos equipamentos.",
 			"^0000ffRefino +6 ou mais:^000000",
 			"^0000ff3% de chance de converter 3% do dano físico causado em HP.^000000",
@@ -634,6 +604,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Armadura da Khalitzburg",
 		identifiedResourceName = "칼리츠버그기사단의갑옷",
 		identifiedDescriptionName = {
+
 			"Esta era a armadura original usada pela maior espadachim que viveu na antiga capital de Rune-Midgard. A capitã da Ordem dos Khalitzburg era perita no uso do florete, mas infelizmente acabou sucumbindo à Maldição de Glast Heim, lançada pela maligna valquíria necromante, Himmelmez.",
 			"--------------------------",
 			"^0000ffResistência as raças Humano e Humanoide +1%.^000000",
@@ -657,6 +628,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Coraçãozinho Flamejante",
 		identifiedResourceName = "챰오브프레임하트",
 		identifiedDescriptionName = {
+
 			"Réplica em menor tamanho de um Coração Flamejante, o mineral de fogo mais famoso de Rune-Midgard!",
 			"--------------------------",
 			"^0000ffHabilita [Encantar com Chama] nv.1.^000000",
@@ -689,6 +661,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Natureza Pequenina",
 		identifiedResourceName = "챰오브그레이트네이쳐",
 		identifiedDescriptionName = {
+
 			"Réplica em menor tamanho de uma Natureza Grandiosa, o mineral da terra mais famoso de Rune-Midgard!",
 			"--------------------------",
 			"^0000ffHabilita [Encantar com Terremoto] nv.1.^000000",
@@ -724,6 +697,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Gelinho Místico",
 		identifiedResourceName = "챰오브미스틱프로즌",
 		identifiedDescriptionName = {
+
 			"Réplica em menor tamanho de um Gelo Místico, o mineral da água mais famoso de Rune-Midgard!",
 			"--------------------------",
 			"^0000ffHabilita [Encantar com Geada] nv.1.^000000",
@@ -759,6 +733,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Ventinho Bruto",
 		identifiedResourceName = "챰오브러프윈드",
 		identifiedDescriptionName = {
+
 			"Réplica em menor tamanho de um Vento Bruto, o mineral de vento mais famoso de Rune-Midgard!",
 			"--------------------------",
 			"^0000ffHabilita [Encantar com Ventania] nv.1.^000000",
@@ -790,6 +765,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Pincel de Tatuagem",
 		identifiedResourceName = "마스터브러쉬",
 		identifiedDescriptionName = {
+
 			"Objeto usado nas pinturas corporais dos povos antigos. Parece ter utilidade ainda.",
 			"--------------------------",
 			"^0000ffHabilita [Grafitti] nv.1.^000000",
@@ -834,6 +810,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Ovo do Mal Majestoso",
 		identifiedResourceName = "태양신의상징",
 		identifiedDescriptionName = {
+
 			"Um ovo que emana uma sinistra energia maligna. Curiosamente, ^0000ffse aberto da forma correta, você encontrará um incrível prêmio em seu interior!^000000",
 			"Peso: ^7777771^000000"
 		},
@@ -848,6 +825,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Ovo do Ano Novo",
 		identifiedResourceName = "엔젤스크롤",
 		identifiedDescriptionName = {
+
 			"Um ovo feito especialmente para celebrar o Ano Novo. Ao abri-lo, você receberá uma surpresa.",
 			"Peso: ^7777771^000000"
 		},
@@ -862,6 +840,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Pacote de Revestimento",
 		identifiedResourceName = "힙색",
 		identifiedDescriptionName = {
+
 			"Um pacote contendo 10 unidades de Frasco de Revestimento.",
 			"^ff0000Este item não pode ser devolvido após sua compra.^000000",
 			"Peso: ^7777771^000000"
@@ -877,6 +856,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Caixa do Pergaminho do Eddga",
 		identifiedResourceName = "(null)",
 		identifiedDescriptionName = {
+
 			"Uma valorosa caixa contendo 10 Pergaminhos do Eddga. Pergaminhos que permitem invocar um MVP Eddga para lutar a seu favor.",
 			"Peso: ^7777771^000000"
 		},
@@ -891,6 +871,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Elmo Gigante",
 		identifiedResourceName = "기간트헬름",
 		identifiedDescriptionName = {
+
 			"Réplica em miniatura do elmo usado pelos gigantes guardiões do Templo Antigo. Um ferreiro lendário imbuiu nele o poder destes gigantes!",
 			"--------------------------",
 			"^0000ffFOR +3.^000000",
@@ -940,6 +921,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Botas com Espigões",
 		identifiedResourceName = "가시신발",
 		identifiedDescriptionName = {
+
 			"Uma bota com espigões muito usada por guerreiros vingativos, que sempre querem chutar a bunda de quem ousar machucá-los. Combina perfeitamente com outros itens “espinhudos”, como o Chifre de Bisão ou o Escudo Farpado.",
 			"^0000ffA cada 2 refinos até o +10:^000000",
 			"^0000ffReflete 1% do dano físico recebido.^000000",
@@ -968,6 +950,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Sapatos da Penitência",
 		identifiedResourceName = "징벌의슈즈",
 		identifiedDescriptionName = {
+
 			"Consagrado com as bênçãos dos deuses, este par de sapatos pertenceu ao famoso exorcista Padre Quededo. Este calçado é perfeito para aqueles que desejam a expiação das mazelas e pecados do passado.",
 			"^0000ffHP e SP máx. +3%.^000000",
 			"^0000ffDano mágico +2%.^000000",
@@ -1016,6 +999,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Poder de Xangô",
 		identifiedResourceName = "프레임하트",
 		identifiedDescriptionName = {
+
 			"Ao realizar ataques físicos ou mágicos:",
 			"^0000ff3% de chance de ativar [Xangô] por 10 segundos.^000000",
 			"--------------------------",
@@ -1035,6 +1019,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Poder de Oxóssi",
 		identifiedResourceName = "그레이트네이쳐",
 		identifiedDescriptionName = {
+
 			"Ao realizar ataques físicos ou mágicos:",
 			"^0000ff3% de chance de ativar [Oxóssi] por 10 segundos.^000000",
 			"--------------------------",
@@ -1054,6 +1039,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Poder de Iansã",
 		identifiedResourceName = "러프윈드",
 		identifiedDescriptionName = {
+
 			"Ao realizar ataques físicos ou mágicos:",
 			"^0000ff3% de chance de ativar [Iansã] por 10 segundos.^000000",
 			"--------------------------",
@@ -1073,6 +1059,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Poder de Oxum",
 		identifiedResourceName = "미스틱프로즌",
 		identifiedDescriptionName = {
+
 			"Ao realizar ataques físicos ou mágicos:",
 			"^0000ff3% de chance de ativar [Oxum] por 10 segundos.^000000",
 			"--------------------------",
@@ -1092,6 +1079,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Colar de Juperos",
 		identifiedResourceName = "알퀴엔의목걸이",
 		identifiedDescriptionName = {
+
 			"Este colar é mais uma criação da misteriosa gênia científica conhecida como Arquien. Ele mescla energia arcana com a estranha tecnologia ancestral encontrada nas Ruínas de Juperos. Mecânicos parecem se interessar muito pelas propriedades deste colar, que inclusive é usado como um reator de arco pelo gênio bilionário playboy filantropo, Antônio Esterco.",
 			"^0000ffCusto de SP de [Brandir Machado] -2.^000000",
 			"^0000ffRecuperação de HP da Bala e Bengala Doce +100%.^000000",
@@ -1120,6 +1108,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Luvas de H. Motto",
 		identifiedResourceName = "마술사의글러브",
 		identifiedDescriptionName = {
+
 			"Dizem que essas luvas foram encantadas por uma das 6 Joias do Faniquito, ganhando assim poderes de acelerar o tempo ou até quebrar proteções mágicas. Era um dos itens mágicos usados pelo Dr. Esquisito quando ele se tornou o Bruxo Supremo.",
 			"--------------------------",
 			"^0000ffConjuração variável -5%.^000000",
@@ -1143,6 +1132,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Broche da Celine",
 		identifiedResourceName = "Celine_Brooch",
 		identifiedDescriptionName = {
+
 			"Um broche dourado feito para Celine Kimi, a boneca da Fábrica do Terror. Claramente valioso, o broche foi produzido com muito carinho e precisão pelo artesão de bonecas. Ao tocá-lo, você sente uma energia poderosa emanando do pingente.",
 			"^0000ffHP máx. +500.^000000",
 			"^0000ffSP máx. +250.^000000",
@@ -1196,6 +1186,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Bíblia Sagrada",
 		identifiedResourceName = "퇴마의성서",
 		identifiedDescriptionName = {
+
 			"Essencial para Arcebispos, essa Bíblia foi usada séculos atrás pelos irmãos Linchester, os consagrados caçadores de demônios. Mas não se preocupe, você não precisa saber latim para usá-la, basta ter sabedoria e fé para que as bênçãos caiam sobre você. Com elas, as criaturas sombrias se afastarão e uma poderosa proteção divina te envolverá.",
 			"--------------------------",
 			"^0000ffINT +2. DES +2.^000000",
@@ -1237,6 +1228,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Escudo de Ferro",
 		identifiedResourceName = "아이언쉴드",
 		identifiedDescriptionName = {
+
 			"Um maciço escudo de ferro usado pela primeira vez pelo templário Tony Rogers. É tão pesado que ninguém vai conseguir te mover enquanto estiver segurando isso. Espera... como VOCÊ consegue andar segurando essa coisa? ",
 			"^a400cdIndestrutível em batalha.^000000",
 			"^0000ffVelocidade de ataque -3%.^000000",
@@ -1255,11 +1247,13 @@ Missing Items from Brazil Ragnarok Online [bRO]
 	[55324] = {
 		unidentifiedDisplayName = "(null)",
 		unidentifiedResourceName = "(null)",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"Item não identificado. Pode ser identificado com uma [Lupa]."
+		},
 		identifiedDisplayName = "(null)",
 		identifiedResourceName = "(null)",
 		identifiedDescriptionName = {
-		},
+},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -1271,6 +1265,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Arca Maior do Passe",
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Arca combinada para aumentar sua carga e seu espaço na mochila!",
 			"--------------------------",
@@ -1292,6 +1287,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Chifres Luxuosos",
 		identifiedResourceName = "대형마제스틱고우트2",
 		identifiedDescriptionName = {
+
 			"Chifres majestosos do grande Bafomé Selado. ",
 			"Existem várias cópias desse cobiçado item por aí, mas a versão mais rara desses chifres pertenceu à um grande Bafomé dourado.",
 			"Tipo: ^777777Visual^000000",
@@ -1311,6 +1307,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Venda Sombrosa",
 		identifiedResourceName = "검은눈가리개",
 		identifiedDescriptionName = {
+
 			"Uma venda criada pela Equipe Raquete.",
 			"A equipe é famosa por aparecer em balões gigantes e desafiar treinadores para uma rinha de homúnculus.",
 			"De tão apertada, os homúnculus que usam essa venda acabam ficando com olhos vermelhos, precisando serem purificados para voltarem ao normal.",
@@ -1331,6 +1328,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Coroa do Diabo",
 		identifiedResourceName = "다크바실리움",
 		identifiedDescriptionName = {
+
 			"Símbolo de Satã Morroc, essa coroa foi a única coisa que restou do demônio.",
 			"Ainda é possível sentir o poder maligno emanando dela...",
 			"Tipo: ^777777Visual^000000",
@@ -1350,6 +1348,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Anel da Evolução",
 		identifiedResourceName = "세린의금반지",
 		identifiedDescriptionName = {
+
 			"A sua jornada até o nível 100 acaba de ficar mais rápida graças às misteriosas propriedades desse acessório, que elevarão os seus ganhos de EXP para o alto e além. Só não se esqueça de tirá-lo do seu dedo depois disso!",
 			"--------------------------",
 			"^0000ffHabilita [Curar] nv.1.^000000",
@@ -1377,6 +1376,7 @@ Missing Items from Brazil Ragnarok Online [bRO]
 		identifiedDisplayName = "Memorável Anel Rústico",
 		identifiedResourceName = "Old_DetachmentsRing",
 		identifiedDescriptionName = {
+
 			"^ff0000Intransferível.^000000",
 			"Pequeno acessório empoeirado que foi encontrado nos esgotos de Lighthalzen.",
 			"--------------------------",

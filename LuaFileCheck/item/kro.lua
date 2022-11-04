@@ -1,6 +1,4 @@
 Missing Ressource Names in Unidentified table:
-
-Missing items in itemInfo_EN:
 Total: 0
 
 itemInfo format:
