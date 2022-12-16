@@ -1,0 +1,29 @@
+// Item ID,	drop,	Post Exchange Window,	Warehouse,	Cart,	NPC Sales,	Mail,	Auction,	길드창고	   Guild Warehouse
+// dalam 1 kolom tidak dapat dikosongkan. harap berhati-hati
+25087	1	1	1	1	0	1	1	1	//Old_Doll
+25088	1	1	0	1	0	1	1	1	//Dream_Piece
+23063	1	1	1	1	1	1	1	1	//Freeze_Dream
+23036	1	1	1	1	1	1	1	1	//Pope_Merc_Scroll2
+23037	1	1	1	1	1	1	1	1	//CasualPope_Merc_Scroll2
+23025	1	1	1	1	1	1	1	1	//Pope_Merc_Scroll
+23026	1	1	1	1	1	1	1	1	//CasualPope_Merc_Scroll
+23027	1	1	0	1	0	1	1	1	//Dandelion_Ring
+28412	1	1	1	1	1	1	1	1	//The_One_Apple_Ring
+17646	1	1	0	1	1	1	1	1	//LC_Boarding_Halter_Box
+17650	1	1	0	1	1	1	1	1	//Refine_Ore_Box12
+17651	1	1	0	1	1	1	1	1	//Refine_Ore_Box12_Set10
+23072	1	1	0	1	1	1	1	1	//2015_Angel_Scroll
+23073	1	1	0	1	1	1	1	1	//AngelPoring_Box
+28413	1	1	0	1	0	1	1	1	//LowSaurelCharm
+28414	1	1	0	1	0	1	1	1	//MiddleSaurelCharm
+28415	1	1	0	1	0	1	1	1	//HigherSaurelCharm
+28416	1	1	0	1	0	1	1	1	//LowLeafCharm
+28417	1	1	0	1	0	1	1	1	//MiddleLeafCharm
+28418	1	1	0	1	0	1	1	1	//HigherLeafCharm
+28419	1	1	0	1	0	1	1	1	//LowRabbitCharm
+28420	1	1	0	1	0	1	1	1	//MiddleRabbitCharm
+28421	1	1	0	1	0	1	1	1	//HigherRabbitCharm
+28422	1	1	0	1	0	1	1	1	//ShiningTwigCharm
+28423	1	1	0	1	0	1	1	1	//FreshTunaCharm
+28424	1	1	0	1	0	1	1	1	//PlumpyWormCharm
+

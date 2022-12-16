@@ -1,0 +1,25 @@
+%f5f5dc
+^000088Item Penjualan Manuk^000000
+
+Kamu bisa membeli beberapa item berikut menggunakan Manuk Coin.
+
+^008040[Manuk Opportunity]^000000
+Sebuah suplemen yang dibuat oleh Laboratorium Manuk dan dianjurkan secara resmi. Ketika digunakan, akan meningkatkan serangan dekat terhadap monster yang ada diarea Manuk sebesar 10% selama 10 menit.
+^000088(Nepenthes, Centipede, Centipede Larva, Hilsrion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+Berat : ^7777775^000000
+
+
+^008040[Manuk Courage]^000000
+Sebuah Gizi yang dibuat oleh Laboratorium Manuk dan dianjurkan secara resmi.
+Ketika digunakan, mengurangi serangan magic dan dekat yang diterima dari monster yang ada diarea Manuk sebesar 10% selama 10 menit.
+^000088(Nepenthes, Centipede, Centipede Larva, Hilsrion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+Berat : ^7777775^000000
+
+
+^008040[Manuk Faith]^000000
+Sebuah suplemen yang dibuat oleh Laboratorium Manuk dan dianjurkan secara resmi. Ketika digunakan, akan meningkatkan serangan magic terhadap monster yang ada diarea Manuk sebesar 10% selama 10 menit.
+^000088(Nepenthes, Centipede, Centipede Larva, Hilsrion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+Berat : ^7777775^000000

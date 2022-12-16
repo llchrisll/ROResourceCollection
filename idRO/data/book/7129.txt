@@ -1,0 +1,33 @@
+%faf0e6
+^000088Alchemy Basics: Acid Bottle Creation^000000
+
+
+----------------Preface--------------------
+
+Kami telah mempelajari bahwa kami dapat memproduksi hidrogen
+klorida dibawah beberapa kondisi di dalam eksperimen kami
+dengan immortal hearts. Asam Hidroklorida adalah solusi asam yang kuat
+dengan derajat ionisasi yang sangat tinggi: Hidroklorida sangat asam sehingga
+dapat melelehkan batu, dan harus ditangani dengan tepan dan sangat hati-hati.
+Buku ini terdapat proses produksi secara detail 
+tentang asam hidroklorida yang digunakan dalam Acid Bottles.
+
+------------------------------------------
+
+
+What is ^008040hydrochloric acid^000000?
+
+Asam hydrokloric merupakan solusi dari 
+gas hidrogen klorida(HCL). Acid bottles biasanya digunakan 
+dalam peperangan yang diisi dengan asam hydrokloric.
+
+Ingredients: ^4b00821 Immortal Heart, 1 Empty Bottle^000000
+
+Petunjuk: Letakkan immortal heart dalam medicine
+bowl, dan tambahkan air. Hangatkan mangkuk dengan menggunakan pemanas ganda,
+Jaga suhu temperatur air padasuhu 72 derajat. Kumpulkan gas
+dari mangkuk tersebut, dan disuling untuk memproduksi hidrogen klorida.
+Isi botol kosong dengan air dan gabungkan dengan hidrogen klorida
+untuk menciptakan asam. Simpan buku ini dan lihat
+untuk sementara kamu mengumpulkan bahan dan menggunakan Skill potion
+sehingga Anda dapat membuat Acid Bottles.

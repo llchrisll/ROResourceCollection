@@ -1,0 +1,7 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\datainfo\spriterobeid.lub 
+
+-- params : ...
+-- function num : 0
+SPRITE_ROBE_IDs = {ROBE_WINGS = 1, ROBE_BAG_OF_ADVENTURER = 2, ROBE_WINGS_OF_FALLEN_ANGEL = 3, ROBE_AMISTR_BAG = 4, ROBE_Love_Dad_Wings_2012 = 5, ROBE_KIRIN_WING = 6, ROBE_Ribbon_Piamat = 7}
+

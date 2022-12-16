@@ -1,0 +1,12 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\signboardlist_f.lub 
+
+-- params : ...
+-- function num : 0
+SignBoardVar = {MAPNAME = 1, CELLX = 2, CELLY = 3, HEIGHT = 4, ICONID = 5, FILEPATH = 6, CONTENTS = 7, CHARCOLOR = 8}
+GetSignBoardListTable = function(idx)
+  -- function num : 0_0
+  return (SignBoardList[idx])[SignBoardVar.MAPNAME], (SignBoardList[idx])[SignBoardVar.CELLX], (SignBoardList[idx])[SignBoardVar.CELLY], (SignBoardList[idx])[SignBoardVar.HEIGHT], (SignBoardList[idx])[SignBoardVar.ICONID], (SignBoardList[idx])[SignBoardVar.FILEPATH], (SignBoardList[idx])[SignBoardVar.CONTENTS], (SignBoardList[idx])[SignBoardVar.CHARCOLOR]
+end
+
+

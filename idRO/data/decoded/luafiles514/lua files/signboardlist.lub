@@ -1,0 +1,15 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\signboardlist.lub 
+
+-- params : ...
+-- function num : 0
+IT_NONE = 0
+IT_BMP = 1
+IT_SPRITE = 2
+IT_SIGNBOARD = 3
+SignBoardList = {
+{"Default", 157, 278, 0, IT_BMP, "유저인터페이스\\collection\\꽃가지.bmp", "입력안하셨습니다", "#0x009EBDFF"}
+, 
+{"lasagna", 134, 113, 0, IT_BMP, "유저인터페이스\\information\\over_style.bmp"}
+}
+

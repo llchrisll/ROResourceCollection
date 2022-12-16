@@ -1,0 +1,32 @@
+%faf0e6
+^000088Basic Alchemy: Marine Sphere Creation^000000
+
+
+----------------Preface--------------------
+Kami menemukan sebuah monster bernama Marine Sphere 
+ketika menjelajahi izlude. Marine Sphere mengambang teratur di air,
+tetapi meledak ketika mengenai sesuatu. Kami menemukan cara agar dapat bertahan
+diluar lingkungan air dan bergerak di udara, dan dikembangkan
+sebuah metode sehingga dapat di konversikan
+ke dalam bentuk botol. Kami berfikir menggunakan Marine Spheres
+sebagai bom akan berguna untuk alchemist sebagai alat pertahanan
+diri sendiri terhadap musuh yang bermusuhan.
+------------------------------------------
+
+What is a ^400080marine sphere^000000?
+
+Marine Spheres merupakan bomb waktu yang akan meledak
+jika sesuatu mengenainya. Mereka dapat berubah menjadi
+bentuk botol yang harus ditangani secara
+hati-hati. Alchemist harus tetap belajar skill untuk memanggil
+Marine Sphere to merubah Marine Spheres dalam bentuk botol
+kembali ke bentuk semula.
+
+Ingredients: ^4b00821 Detonator, 1 Tendon, 1 Empty Bottle^000000
+
+Petunjuk: Letakkan detonator dan tendon kedalam
+a medicine bowl, dan gunakan skill Prepare Potion 
+sewaktu merujuk 
+ke buku ini. Kamu harus belajar skill memanggil Marine Sphere 
+Jika kamu ingin memproduksi 
+Marine Sphere yang hidup dari dalam botol.

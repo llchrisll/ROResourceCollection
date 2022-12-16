@@ -1,0 +1,1015 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\navigation\navi_map_id.lub 
+
+-- params : ...
+-- function num : 0
+Navi_Map = {
+{"06guild_01", "Guild War Arena", 5001, 100, 100}
+, 
+{"06guild_02", "Guild War Arena", 5001, 100, 100}
+, 
+{"06guild_03", "Guild War Arena", 5001, 100, 100}
+, 
+{"06guild_04", "Guild War Arena", 5001, 100, 100}
+, 
+{"06guild_05", "Guild War Arena", 5001, 100, 100}
+, 
+{"06guild_06", "Guild War Arena", 5001, 100, 100}
+, 
+{"06guild_07", "Guild War Arena", 5001, 100, 100}
+, 
+{"06guild_08", "Guild War Arena", 5001, 100, 100}
+, 
+{"06guild_r", "Ruang Tunggu - Guild War Arena", 5001, 200, 200}
+, 
+{"abyss_01", "Abyss Lake Underground Cave ", 5001, 300, 300}
+, 
+{"abyss_02", "Abyss Lake Underground Cave ", 5001, 300, 300}
+, 
+{"abyss_03", "Abyss Lake Underground Cave ", 5001, 200, 200}
+, 
+{"airplane", "Airship", 5002, 300, 300}
+, 
+{"airplane_01", "Airship", 5002, 300, 300}
+, 
+{"airport", "Airport", 5002, 300, 120}
+, 
+{"alb2trea", " Pulau Alberta", 5001, 140, 140}
+, 
+{"alb_ship", "Kapal Alberta", 5003, 200, 200}
+, 
+{"alberta", "Alberta", 5001, 280, 280}
+, 
+{"alberta_in", "Dalam Alberta", 5003, 200, 200}
+, 
+{"alde_alche", "Perkumpulan Alchemist", 5001, 200, 200}
+, 
+{"alde_dun01", "Clock Tower B1F", 5001, 320, 320}
+, 
+{"alde_dun02", "Clock Tower B2F", 5001, 300, 300}
+, 
+{"alde_dun03", "Clock Tower B3F", 5001, 300, 300}
+, 
+{"alde_dun04", "Clock Tower B4F", 5001, 300, 300}
+, 
+{"alde_gld", "Luina, Satelit Kota Al De Baran", 5001, 320, 320}
+, 
+{"aldeba_in", "Dalam Al De Baran", 5003, 260, 260}
+, 
+{"aldebaran", " Al De Baran", 5001, 280, 280}
+, 
+{"ama_dun01", "Labirin Tatami", 5001, 240, 240}
+, 
+{"ama_dun02", "Hutan bawah tanah", 5001, 240, 240}
+, 
+{"ama_dun03", "Kuil bawah tanah", 5001, 240, 240}
+, 
+{"ama_fild01", "Daratan Amatsu", 5001, 400, 400}
+, 
+{"ama_in01", "Dalam Amatsu", 5003, 200, 200}
+, 
+{"ama_in02", "Dalam TenguGak", 5003, 240, 200}
+, 
+{"ama_test", "Daratan Momotaro Field Trip", 5001, 100, 132}
+, 
+{"amatsu", "Amatsu, Pulau Tengu", 5001, 316, 316}
+, 
+{"anthell01", "Neraka Semut", 5001, 300, 300}
+, 
+{"anthell02", "Neraka Semut", 5001, 300, 300}
+, 
+{"arug_que01", "Morestone", 5001, 200, 200}
+, 
+{"ayo_dun01", "Ancient Shrine Maze ", 5001, 300, 300}
+, 
+{"ayo_dun02", "Dalam Ancient Shrine ", 5001, 300, 300}
+, 
+{"ayo_fild01", "Ayotaya Field ", 5001, 360, 360}
+, 
+{"ayo_fild02", "Ayotaya Field ", 5001, 360, 300}
+, 
+{"ayo_in01", "Di dalam Ayothaya", 5003, 200, 200}
+, 
+{"ayo_in02", "Di dalam Ayothaya", 5003, 200, 200}
+, 
+{"ayothaya", "Ayotaya ", 5001, 320, 320}
+, 
+{"beach_dun", "Karu, Goa Barat", 5001, 300, 300}
+, 
+{"beach_dun2", "Ruande, Goa Utara", 5001, 300, 300}
+, 
+{"beach_dun3", "Mao, Goa Timur", 5001, 300, 300}
+, 
+{"bif_fild01", "Bifrost South", 5001, 400, 400}
+, 
+{"bif_fild02", "Bifrost North", 5001, 400, 400}
+, 
+{"bra_dun01", "Pintu masuk Gua Air terjun", 5001, 240, 240}
+, 
+{"bra_dun02", "Di dalam Gua Air terjun", 5001, 300, 300}
+, 
+{"bra_fild01", "Kota Brasilis", 5001, 400, 400}
+, 
+{"bra_in01", "Dalam Brasilis", 5003, 220, 200}
+, 
+{"brasilis", "Kota Brasilis", 5001, 400, 400}
+, 
+{"c_tower1", "Clock Tower 1F", 5001, 400, 400}
+, 
+{"c_tower2", "Clock Tower 2F", 5001, 300, 300}
+, 
+{"c_tower2_", "Twisted Clock Tower 2", 5001, 300, 300}
+, 
+{"c_tower3", "Clock Tower 3F", 5001, 260, 260}
+, 
+{"c_tower3_", "Twisted Clock Tower 3", 5001, 260, 260}
+, 
+{"c_tower4", "Clock Tower 4F", 5001, 216, 216}
+, 
+{"cmd_fild01", "Hutan Papuchicha", 5001, 400, 400}
+, 
+{"cmd_fild02", "Pantai Kokomo", 5001, 400, 400}
+, 
+{"cmd_fild03", "Rawa Zenhai", 5001, 400, 400}
+, 
+{"cmd_fild04", "Pantai Kokomo", 5001, 400, 400}
+, 
+{"cmd_fild05", "Perbatasan hutan Papuchica", 5001, 400, 400}
+, 
+{"cmd_fild06", "Benteng Saint Darmain(Barat)", 5001, 400, 400}
+, 
+{"cmd_fild07", "Pulau Mercusuar,Pharos", 5001, 400, 400}
+, 
+{"cmd_fild08", "Benteng Saint Darmain(Timur)", 5001, 400, 400}
+, 
+{"cmd_fild09", "Benteng Saint Darmain(Selatan)", 5001, 400, 400}
+, 
+{"cmd_in01", "Dalam Comodo", 5003, 200, 200}
+, 
+{"cmd_in02", "Dalam Comodo", 5003, 240, 240}
+, 
+{"comodo", "Pulau pantai, Comodo", 5001, 360, 380}
+, 
+{"conch_in", "Inside the Kon-Kilina", 5003, 200, 120}
+, 
+{"dali", "Dimensional Gap", 5001, 200, 200}
+, 
+{"dali02", "Dimensional Crack", 5001, 200, 200}
+, 
+{"dic_dun01", "Lorong Pertambangan Dicastes", 5005, 400, 256}
+, 
+{"dic_dun02", "Dungeon Scraba", 5001, 240, 240}
+, 
+{"dic_dun03", "Dungeon Scraba", 5001, 240, 240}
+, 
+{"dic_fild01", "Kaki Gunung Kamidal", 5001, 300, 300}
+, 
+{"dic_fild02", "Kaki Gunung Kamidal", 5001, 300, 400}
+, 
+{"dic_in01", "Dalam Dicastes", 5003, 400, 300}
+, 
+{"dicastes01", "El Dicastes, Ibukota Sapha", 5005, 400, 400}
+, 
+{"dicastes02", "Hutan Brumbeld Jorhi", 5005, 240, 360}
+, 
+{"e_tower", "Misty Island", 5001, 300, 300}
+, 
+{"ein_dun01", "Mine Dungeon", 5001, 300, 300}
+, 
+{"ein_dun02", "Mine Dungeon", 5001, 300, 300}
+, 
+{"ein_fild01", "Einbroch Field ", 5001, 400, 400}
+, 
+{"ein_fild02", "Einbroch Field ", 5001, 400, 400}
+, 
+{"ein_fild03", "Einbroch Field", 5001, 400, 400}
+, 
+{"ein_fild04", "Einbroch Field", 5001, 400, 400}
+, 
+{"ein_fild05", "Einbroch Field ", 5001, 400, 400}
+, 
+{"ein_fild06", "Einbroch Field", 5001, 400, 400}
+, 
+{"ein_fild07", "Einbroch Field", 5001, 400, 400}
+, 
+{"ein_fild08", "Einbroch Field", 5001, 400, 400}
+, 
+{"ein_fild09", "Einbroch Field", 5001, 400, 400}
+, 
+{"ein_fild10", "Einbroch Field", 5001, 400, 400}
+, 
+{"ein_in01", "Dalam Einbroch", 5003, 300, 300}
+, 
+{"einbech", "Einbech, kota pertambangan", 5001, 300, 300}
+, 
+{"einbroch", "Einbroch, Kota Industri", 5005, 340, 380}
+, 
+{"gef_dun00", "Dungeon Geffen", 5001, 200, 200}
+, 
+{"gef_dun01", "Dungeon Geffen", 5001, 300, 300}
+, 
+{"gef_dun02", "Geffenia", 5001, 260, 260}
+, 
+{"gef_dun03", "Geffenia", 5001, 240, 240}
+, 
+{"gef_fild00", "Daratan Geffen", 5001, 400, 400}
+, 
+{"gef_fild01", "Daratan Geffen", 5001, 400, 400}
+, 
+{"gef_fild02", "Daratan Geffen", 5001, 400, 400}
+, 
+{"gef_fild03", "Daratan Geffen", 5001, 400, 400}
+, 
+{"gef_fild04", "Daratan Geffen", 5001, 380, 380}
+, 
+{"gef_fild05", "Daratan Geffen", 5001, 380, 380}
+, 
+{"gef_fild06", "Daratan Geffen", 5001, 400, 400}
+, 
+{"gef_fild07", "Daratan Geffen", 5001, 380, 380}
+, 
+{"gef_fild08", "Daratan Geffen", 5001, 380, 380}
+, 
+{"gef_fild09", "Daratan Geffen", 5001, 400, 400}
+, 
+{"gef_fild10", "Daratan Geffen", 5001, 400, 400}
+, 
+{"gef_fild11", "Daratan Geffen", 5001, 400, 400}
+, 
+{"gef_fild12", "Hutan Kordt", 5001, 400, 400}
+, 
+{"gef_fild13", "Britoniah", 5001, 400, 400}
+, 
+{"gef_fild14", "Desa Barat Orc", 5001, 400, 400}
+, 
+{"gef_tower", "Menara Geffen", 5003, 200, 200}
+, 
+{"gefenia01", "Geffenia ", 5001, 300, 300}
+, 
+{"gefenia02", "Geffenia ", 5001, 300, 300}
+, 
+{"gefenia03", "Geffenia ", 5001, 300, 300}
+, 
+{"gefenia04", "Geffenia ", 5001, 300, 300}
+, 
+{"geffen", "Geffen", 5001, 240, 240}
+, 
+{"geffen_in", "Dalam Geffen", 5003, 200, 200}
+, 
+{"gl_cas01", "Glast Heim 1F", 5001, 400, 400}
+, 
+{"gl_cas02", "Glast Heim 2F", 5001, 200, 200}
+, 
+{"gl_cas02_", "Glast Heim 2F", 5001, 200, 200}
+, 
+{"gl_church", "Glast Heim St.Abbey", 5001, 312, 312}
+, 
+{"gl_chyard", "Glast Heim Halaman Gereja", 5001, 300, 300}
+, 
+{"gl_chyard_", "Churchyard", 5001, 300, 300}
+, 
+{"gl_dun01", "Goa terdalam di Glast Heim", 5001, 300, 300}
+, 
+{"gl_dun02", "Goa terdalam di Glast Heim", 5001, 300, 300}
+, 
+{"gl_in01", "Dalam Glast Heim", 5005, 200, 200}
+, 
+{"gl_knt01", "Dalam Kavaleri Glast Heim", 5001, 300, 300}
+, 
+{"gl_knt02", "Dalam Kavaleri Glast Heim", 5001, 300, 300}
+, 
+{"gl_prison", "Penjara Glast Heim", 5001, 200, 200}
+, 
+{"gl_prison1", "Penjara Glast Heim", 5001, 200, 200}
+, 
+{"gl_sew01", "Lorong Glast Heim", 5001, 280, 280}
+, 
+{"gl_sew02", "Lorong Glast Heim", 5001, 316, 316}
+, 
+{"gl_sew03", "Lorong Glast Heim", 5001, 340, 300}
+, 
+{"gl_sew04", "Lorong Glast Heim", 5001, 300, 300}
+, 
+{"gl_step", "Tangga Dungeon Glast Heim", 5001, 240, 240}
+, 
+{"glast_01", "Glast Heim", 5001, 400, 400}
+, 
+{"gon_dun01", "Makam Xi Wang Mu", 5001, 300, 300}
+, 
+{"gon_dun02", "Catur para DewaAsian Checkers of Hermits", 5005, 300, 300}
+, 
+{"gon_dun03", "Khayangan", 5001, 240, 300}
+, 
+{"gon_fild01", "Daratan Gonryun", 5001, 400, 400}
+, 
+{"gon_in", "Dalam Gonryun", 5003, 200, 120}
+, 
+{"gonryun", "Gonryun, Tempat para Dewa", 5001, 300, 300}
+, 
+{"guild_vs2_1", "Arena Guild", 5001, 100, 100}
+, 
+{"guild_vs2_2", "Arena Guild", 5001, 100, 100}
+, 
+{"guild_vs2_3", "Arena Guild", 5001, 100, 100}
+, 
+{"guild_vs2_4", "Arena Guild", 5001, 100, 100}
+, 
+{"hu_fild01", "Thanatos Tower ", 5001, 400, 400}
+, 
+{"hu_fild02", "Hugel Field ", 5001, 400, 400}
+, 
+{"hu_fild03", "Hugel Field ", 5001, 400, 400}
+, 
+{"hu_fild04", "Hugel Field ", 5001, 400, 400}
+, 
+{"hu_fild05", "The Abyss Lake ", 5005, 400, 400}
+, 
+{"hu_fild06", "Hugel Field ", 5001, 400, 400}
+, 
+{"hu_fild07", "Hugel Field ", 5001, 400, 400}
+, 
+{"hu_in01", "Dalam Hugel", 5003, 400, 400}
+, 
+{"hugel", "Hugel, Kota taman Odin ", 5001, 268, 280}
+, 
+{"ice_dun01", "Gua Es", 5001, 300, 300}
+, 
+{"ice_dun02", "Gua Es", 5001, 300, 300}
+, 
+{"ice_dun03", "Gua Es", 5001, 300, 300}
+, 
+{"ice_dun04", "Gua Es", 5001, 200, 200}
+, 
+{"in_moc_16", "Klan Assassin", 5003, 200, 200}
+, 
+{"in_orcs01", "Desa Orc", 5003, 200, 200}
+, 
+{"in_rogue", "Dalam Perkumpulan Rogue", 5003, 400, 400}
+, 
+{"in_sphinx1", "Sphinx", 5001, 300, 300}
+, 
+{"in_sphinx2", "Sphinx", 5001, 300, 300}
+, 
+{"in_sphinx3", "Sphinx", 5005, 240, 240}
+, 
+{"in_sphinx4", "Sphinx", 5001, 240, 240}
+, 
+{"in_sphinx5", "Sphinx", 5001, 200, 200}
+, 
+{"iz_dun00", "Terowongan Bawah Laut", 5001, 400, 400}
+, 
+{"iz_dun01", "Terowongan Bawah Laut", 5001, 300, 300}
+, 
+{"iz_dun02", "Terowongan Bawah Laut", 5001, 400, 400}
+, 
+{"iz_dun03", "Terowongan Bawah Laut", 5001, 300, 300}
+, 
+{"iz_dun04", "Terowongan Bawah Laut", 5001, 280, 300}
+, 
+{"iz_dun05", "Terowongan Bawah Laut", 5001, 280, 280}
+, 
+{"izlu2dun", "Pulau Byalan", 5001, 216, 232}
+, 
+{"izlude", "Kota Izlude", 5001, 268, 268}
+, 
+{"izlude_in", "Dalam Izlude", 5003, 200, 200}
+, 
+{"jawaii", "Jawaii, Pulau Bulan Madu", 5001, 340, 360}
+, 
+{"jawaii_in", "Di dalam Jawaii", 5003, 200, 140}
+, 
+{"job3_guil01", "Bar Rahasia", 5003, 160, 100}
+, 
+{"jupe_area1", "Area Terlarang Juperos", 5003, 164, 300}
+, 
+{"jupe_area2", "Area Terlarang Juperos", 5003, 164, 300}
+, 
+{"jupe_cave", "Pintu masuk Juperos", 5003, 232, 100}
+, 
+{"jupe_core", "Pusat Juperos", 5003, 300, 300}
+, 
+{"jupe_core2", "Pusat Juperos", 5003, 300, 300}
+, 
+{"jupe_ele", "Lift Juperos", 5003, 100, 124}
+, 
+{"jupe_ele_r", "Lift Juperos", 5003, 100, 160}
+, 
+{"jupe_gate", "Area Terlarang Juperos", 5003, 100, 200}
+, 
+{"juperos_01", "Juperos Dungeon", 5001, 300, 300}
+, 
+{"juperos_02", "Juperos Dungeon", 5001, 300, 300}
+, 
+{"kh_dun01", "Robot Factory level 1 ", 5001, 240, 240}
+, 
+{"kh_dun02", "Robot Factory level 2 ", 5001, 240, 240}
+, 
+{"kh_mansion", "Kiel Hyre\'s Mansion ", 5003, 100, 100}
+, 
+{"kh_rossi", "The Rosimier\'s Mansion ", 5003, 300, 300}
+, 
+{"kh_school", "Akademi Kiel Hyre ", 5003, 200, 200}
+, 
+{"kh_vila", "Kiel Hyre\'s Cottage ", 5003, 200, 200}
+, 
+{"lasa_dun01", "Dragon\'s Nest", 5001, 220, 220}
+, 
+{"lasa_dun02", "Dragon\'s Nest", 5001, 220, 220}
+, 
+{"lasa_dun03", "Dragon\'s Nest", 5001, 320, 320}
+, 
+{"lasa_dun_q", "Dragon\'s Nest", 5001, 320, 320}
+, 
+{"lasa_fild01", "Ravioli Plain Watch", 5005, 400, 400}
+, 
+{"lasa_fild02", "Ravioli Forest", 5001, 400, 400}
+, 
+{"lasa_in01", "Inside Lasagna", 5003, 200, 120}
+, 
+{"lasagna", "Port City of Lasagna", 5001, 400, 400}
+, 
+{"lhz_airport", "Landasan udara Lighthalzen", 5002, 300, 120}
+, 
+{"lhz_cube_1", "Cube Room", 5001, 260, 212}
+, 
+{"lhz_dun01", "Laboratorium Somatology ", 5001, 300, 300}
+, 
+{"lhz_dun02", "Laboratorium Somatology", 5001, 300, 300}
+, 
+{"lhz_dun03", "Laboratorium Somatology", 5001, 280, 280}
+, 
+{"lhz_dun04", "Laboratorium Somatology B4F", 5001, 300, 300}
+, 
+{"lhz_fild01", "Field Lighthalzen", 5001, 400, 400}
+, 
+{"lhz_fild02", "Lighthalzen Field (Grim Ripper\'s Valley)", 5001, 400, 400}
+, 
+{"lhz_fild03", "Lighthalzen Field", 5001, 400, 400}
+, 
+{"lhz_in01", "Rekenber Headquarters", 5003, 300, 280}
+, 
+{"lhz_in02", "Dalam Lighthalzen", 5003, 300, 300}
+, 
+{"lhz_in03", "Dalam Lighthalzen", 5003, 280, 280}
+, 
+{"lighthalzen", "Lighthalzen, Kota kemakmuran", 5005, 400, 360}
+, 
+{"lou_dun01", "Kuburan Keluarga Kerajaan", 5001, 300, 300}
+, 
+{"lou_dun02", "Di dalam Kuburan Keluarga Kerajaan", 5001, 300, 300}
+, 
+{"lou_dun03", "Istana ShenYang", 5001, 300, 300}
+, 
+{"lou_fild01", "Halaman Kastil Naga", 5001, 400, 400}
+, 
+{"lou_in01", "Di dalam Kastil Naga", 5003, 200, 200}
+, 
+{"lou_in02", "Di dalam Kastil Naga", 5003, 300, 200}
+, 
+{"louyang", "Kastil Naga", 5001, 360, 360}
+, 
+{"ma_dun01", "Bangungot Hospital 1F", 5001, 200, 200}
+, 
+{"ma_fild01", "Baryo Mahiwaga", 5001, 400, 400}
+, 
+{"ma_fild02", "Hutan", 5001, 400, 400}
+, 
+{"ma_in01", "Inside of Malaya", 5003, 200, 200}
+, 
+{"ma_scene01", "Danau Bakonawa", 5001, 340, 360}
+, 
+{"mag_dun01", "Norgroad", 5001, 260, 260}
+, 
+{"mag_dun02", "Norgroad", 5001, 260, 260}
+, 
+{"mal_dun01", "Starry Coral Area", 5001, 260, 260}
+, 
+{"mal_in01", "Dalam Malangdo", 5003, 200, 240}
+, 
+{"mal_in02", "Dalam Malangdo Kapal", 5003, 200, 120}
+, 
+{"malangdo", "Malangdo", 5001, 360, 380}
+, 
+{"malaya", "Port Malaya", 5001, 400, 400}
+, 
+{"man_fild01", "Manuk Field", 5001, 400, 400}
+, 
+{"man_fild02", "Manuk Field", 5001, 400, 400}
+, 
+{"man_fild03", "Manuk Field", 5001, 400, 400}
+, 
+{"man_in01", "Manuk", 5003, 400, 300}
+, 
+{"manuk", "Kota Pertambangan Manuk", 5001, 400, 400}
+, 
+{"mid_camp", "Kemah Ekspedisi", 5001, 400, 400}
+, 
+{"mid_campin", "Kemah Ekspedisi", 5003, 400, 200}
+, 
+{"mjo_dun01", "Jalan Buntu Mjolnir", 5001, 280, 340}
+, 
+{"mjo_dun02", "Jalan Buntu Mjolnir", 5001, 400, 400}
+, 
+{"mjo_dun03", "Jalan Buntu Mjolnir", 5001, 340, 280}
+, 
+{"mjolnir_01", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_02", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_03", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_04", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_05", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_06", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_07", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_08", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_09", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_10", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_11", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"mjolnir_12", "Gunung Mjolnir", 5001, 400, 400}
+, 
+{"moc_castle", "Kastil Morroc", 5001, 200, 200}
+, 
+{"moc_fild01", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild02", "Padang Pasir Sograt", 5001, 400, 360}
+, 
+{"moc_fild03", "Padang Pasir Sograt", 5001, 320, 360}
+, 
+{"moc_fild04", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild05", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild06", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild07", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild08", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild09", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild10", "Padang Pasir Sograt", 5001, 400, 320}
+, 
+{"moc_fild11", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild12", "Padang Pasir Sograt", 5001, 320, 400}
+, 
+{"moc_fild13", "Padang Pasir Sograt", 5001, 340, 400}
+, 
+{"moc_fild14", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild15", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild16", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild17", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild18", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild19", "Padang Pasir Sograt", 5001, 200, 200}
+, 
+{"moc_fild20", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild21", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild22", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"moc_fild22b", "Celah Dimensi", 5001, 400, 400}
+, 
+{"moc_para01", "Dalam Bangunan Grup Paradise di Morroc", 5003, 200, 200}
+, 
+{"moc_pryd01", "Dalam Pyramid", 5001, 200, 200}
+, 
+{"moc_pryd02", "Dalam Pyramid", 5001, 200, 200}
+, 
+{"moc_pryd03", "Dalam Pyramid", 5001, 200, 200}
+, 
+{"moc_pryd04", "Dalam Pyramid", 5001, 200, 200}
+, 
+{"moc_pryd05", "Dalam Pyramid", 5001, 232, 232}
+, 
+{"moc_pryd06", "Dalam Pyramid", 5001, 204, 204}
+, 
+{"moc_prydb1", "Perkumpulan Thief", 5005, 200, 200}
+, 
+{"moc_prydn1", "Morocc Pyramid Underground 1st Floor - Challenge", 5001, 232, 232}
+, 
+{"moc_prydn2", "Morocc Pyramid Underground 2nd Floor - Challenge", 5001, 204, 204}
+, 
+{"moc_ruins", "Reruntuhan Morroc", 5001, 200, 200}
+, 
+{"monk_in", "Dalam St.Abbey", 5003, 200, 200}
+, 
+{"monk_test", "Kuil St. Capitolina", 5003, 400, 400}
+, 
+{"mora", "Rafle Village, Mora", 5001, 240, 240}
+, 
+{"moro_cav", "Flame Cave", 5001, 100, 100}
+, 
+{"moro_vol", "Flame Basin", 5001, 400, 400}
+, 
+{"morocc", "Kota Morroc", 5001, 320, 320}
+, 
+{"morocc_in", "Dalam Morroc", 5003, 200, 200}
+, 
+{"moscovia", "Moscovia", 5001, 400, 400}
+, 
+{"mosk_dun01", "Hutan Peri", 5001, 300, 300}
+, 
+{"mosk_dun02", "Hutan Peri", 5001, 300, 300}
+, 
+{"mosk_dun03", "Hutan Peri", 5001, 300, 300}
+, 
+{"mosk_fild01", "Pulau Ikan Paus", 5001, 200, 200}
+, 
+{"mosk_fild02", "Hutan Moscovia", 5001, 300, 300}
+, 
+{"mosk_in", "Dalam Moscovia", 5003, 300, 300}
+, 
+{"nif_fild01", "Skelington (Desa Terjauh Niflheim)", 5001, 400, 400}
+, 
+{"nif_fild02", "Kubah Setan", 5001, 400, 400}
+, 
+{"nif_in", "Dalam Niflheim", 5003, 200, 200}
+, 
+{"niflheim", "Kota Kematian Niflheim", 5001, 400, 300}
+, 
+{"nyd_dun01", "The violent\'s Wound", 5001, 300, 300}
+, 
+{"nyd_dun02", "The violent\'s Wound", 5001, 260, 400}
+, 
+{"odin_tem01", "Kuil Odin ", 5001, 400, 400}
+, 
+{"odin_tem02", "Kuil Odin ", 5001, 400, 400}
+, 
+{"odin_tem03", "Kuil Odin ", 5001, 400, 400}
+, 
+{"orcsdun01", "Dungeon Orc", 5001, 200, 200}
+, 
+{"orcsdun02", "Dungeon Orc", 5001, 200, 200}
+, 
+{"ordeal_3-1", "Battle Mode", 5001, 300, 300}
+, 
+{"ordeal_3-2", "Battle Mode", 5001, 308, 308}
+, 
+{"ordeal_3-3", "Battle Mode", 5001, 300, 300}
+, 
+{"ordeal_3-4", "Battle Mode", 5001, 308, 308}
+, 
+{"pay_arche", "Desa Archer", 5001, 200, 200}
+, 
+{"pay_dun00", "Goa Payon", 5001, 200, 200}
+, 
+{"pay_dun01", "Goa Payon", 5001, 300, 300}
+, 
+{"pay_dun02", "Goa Payon", 5001, 300, 300}
+, 
+{"pay_dun03", "Goa Payon", 5001, 300, 300}
+, 
+{"pay_dun04", "Goa Payon", 5001, 240, 240}
+, 
+{"pay_fild01", "Hutan Payon", 5001, 400, 400}
+, 
+{"pay_fild02", "Hutan Payon", 5001, 300, 404}
+, 
+{"pay_fild03", "Hutan Payon", 5001, 416, 300}
+, 
+{"pay_fild04", "Padang Pasir Sograt", 5001, 400, 400}
+, 
+{"pay_fild05", "Hutan Payon", 5001, 300, 400}
+, 
+{"pay_fild06", "Hutan Payon", 5001, 400, 400}
+, 
+{"pay_fild07", "Hutan Payon", 5001, 400, 400}
+, 
+{"pay_fild08", "Hutan Payon", 5001, 280, 400}
+, 
+{"pay_fild09", "Hutan Payon", 5001, 400, 400}
+, 
+{"pay_fild10", "Hutan Payon", 5001, 400, 400}
+, 
+{"pay_fild11", "Hutan Payon", 5001, 320, 360}
+, 
+{"pay_gld", "Danau Greenwood", 5001, 400, 400}
+, 
+{"payon", "Kota Payon", 5001, 300, 360}
+, 
+{"payon_in01", "Dalam Payon", 5003, 200, 200}
+, 
+{"payon_in02", "Dalam Payon", 5003, 100, 100}
+, 
+{"prontera", "Kota Prontera", 5001, 312, 392}
+, 
+{"prt_church", "Gereja", 5003, 200, 200}
+, 
+{"prt_fild00", "Daratan Prontera", 5001, 400, 400}
+, 
+{"prt_fild01", "Daratan Prontera", 5001, 400, 400}
+, 
+{"prt_fild02", "Daratan Prontera", 5001, 400, 400}
+, 
+{"prt_fild03", "Daratan Prontera", 5001, 400, 300}
+, 
+{"prt_fild04", "Daratan Prontera", 5001, 400, 400}
+, 
+{"prt_fild05", "Daratan Prontera", 5001, 400, 400}
+, 
+{"prt_fild06", "Daratan Prontera", 5001, 380, 340}
+, 
+{"prt_fild07", "Daratan Prontera", 5001, 400, 400}
+, 
+{"prt_fild08", "Daratan Prontera", 5001, 400, 400}
+, 
+{"prt_fild09", "Daratan Prontera", 5001, 400, 400}
+, 
+{"prt_fild10", "Daratan Prontera", 5001, 360, 320}
+, 
+{"prt_fild11", "Daratan Prontera", 5001, 380, 320}
+, 
+{"prt_gld", "Valkyrie", 5001, 320, 320}
+, 
+{"prt_in", "Dalam Prontera", 5003, 300, 200}
+, 
+{"prt_in_1", "Dalam Prontera", 5003, 300, 200}
+, 
+{"prt_in_2", "Dalam Prontera", 5003, 300, 200}
+, 
+{"prt_in_3", "Dalam Prontera", 5003, 300, 200}
+, 
+{"prt_in_4", "Dalam Prontera", 5003, 300, 200}
+, 
+{"prt_maze01", "Hutan Labirin", 5005, 200, 200}
+, 
+{"prt_maze02", "Hutan Labirin", 5001, 200, 200}
+, 
+{"prt_maze03", "Hutan Labirin", 5005, 200, 200}
+, 
+{"prt_monk", "Kuil St. Capitolina", 5001, 400, 300}
+, 
+{"prt_sewb1", "Lorong Prontera", 5001, 320, 320}
+, 
+{"prt_sewb2", "Lorong Prontera", 5005, 200, 200}
+, 
+{"prt_sewb3", "Lorong Prontera", 5001, 200, 200}
+, 
+{"prt_sewb4", "Lorong Prontera", 5001, 200, 200}
+, 
+{"que_dan02", "Rumah Tua di Yuno", 5003, 120, 60}
+, 
+{"que_god01", "Quest Map ", 5003, 300, 140}
+, 
+{"que_job01", "Private Pub ", 5001, 160, 100}
+, 
+{"que_thor", "Thor Volcano Dungeon", 5003, 200, 100}
+, 
+{"quiz_00_1", "Panggung Kuis", 5001, 140, 160}
+, 
+{"quiz_00_2", "Panggung Kuis", 5001, 140, 160}
+, 
+{"quiz_00_3", "Panggung Kuis", 5001, 140, 160}
+, 
+{"quiz_00_4", "Panggung Kuis", 5001, 140, 160}
+, 
+{"quiz_01_1", "Panggung Kuis", 5001, 400, 400}
+, 
+{"quiz_01_2", "Panggung Kuis", 5001, 400, 400}
+, 
+{"quiz_01_3", "Panggung Kuis", 5001, 400, 400}
+, 
+{"quiz_01_4", "Panggung Kuis", 5001, 400, 400}
+, 
+{"ra_fild01", "Padang Rumput Audhumbla", 5001, 400, 400}
+, 
+{"ra_fild02", "Tebing Od", 5001, 400, 400}
+, 
+{"ra_fild03", "Daratan Ida", 5001, 400, 400}
+, 
+{"ra_fild04", "Padang Rumput Audhumbla", 5001, 400, 400}
+, 
+{"ra_fild05", "Padang Rumput Audhumbla", 5001, 400, 400}
+, 
+{"ra_fild06", "Portus Luna", 5001, 400, 400}
+, 
+{"ra_fild07", "Tebing Od", 5001, 400, 400}
+, 
+{"ra_fild08", "Daratan Ida", 5001, 400, 400}
+, 
+{"ra_fild09", "Padang Rumput Audhumbla", 5001, 400, 400}
+, 
+{"ra_fild10", "Tebing Od", 5001, 400, 400}
+, 
+{"ra_fild11", "Daratan Ida", 5001, 400, 400}
+, 
+{"ra_fild12", "Daratan Ida", 5001, 400, 400}
+, 
+{"ra_fild13", "Tepi Pantai", 5001, 400, 400}
+, 
+{"ra_in01", "Dalam Rachel", 5003, 400, 400}
+, 
+{"ra_san01", "Tanah Suci", 5001, 280, 280}
+, 
+{"ra_san02", "Tanah Suci", 5001, 300, 300}
+, 
+{"ra_san03", "Tanah Suci", 5001, 300, 300}
+, 
+{"ra_san04", "Tanah Suci", 5001, 240, 240}
+, 
+{"ra_san05", "Tanah Suci", 5001, 300, 300}
+, 
+{"ra_temin", "Dalam Kuil", 5003, 340, 340}
+, 
+{"ra_temple", "Kuil Utama - Cheshrumnir", 5001, 240, 240}
+, 
+{"ra_temsky", "Kantor Uskup - Taman Surga", 5003, 200, 200}
+, 
+{"rachel", "Rachel, Ibukota Negeri Arunafeltz", 5001, 300, 300}
+, 
+{"s_atelier", "Bengkel Bayangan", 5003, 200, 140}
+, 
+{"spl_fild01", "Splandid Field", 5001, 400, 400}
+, 
+{"spl_fild02", "Splendide Field", 5001, 400, 400}
+, 
+{"spl_fild03", "Splendide Field", 5001, 400, 400}
+, 
+{"spl_in01", "Pos Komando di Splandid", 5003, 400, 400}
+, 
+{"spl_in02", "Splandid", 5003, 300, 300}
+, 
+{"splendide", "Markas Rapine, Splandid", 5001, 400, 400}
+, 
+{"tha_t01", "Thanatos Tower - Lower Level ", 5001, 300, 300}
+, 
+{"tha_t02", "Thanatos Tower - Lower Level ", 5001, 300, 300}
+, 
+{"tha_t03", "Thanatos Tower - Lower Level ", 5001, 280, 280}
+, 
+{"tha_t04", "Thanatos Tower - Lower Level ", 5001, 280, 280}
+, 
+{"tha_t05", "Thanatos Tower - Upper Level ", 5001, 240, 240}
+, 
+{"tha_t06", "Thanatos Tower - Upper Level ", 5001, 240, 240}
+, 
+{"tha_t07", "Thanatos Tower - Upper Level ", 5001, 140, 200}
+, 
+{"tha_t08", "Thanatos Tower - Upper Level ", 5001, 140, 200}
+, 
+{"tha_t09", "Thanatos Tower - Upper Level ", 5001, 180, 180}
+, 
+{"tha_t10", "Thanatos Tower - Upper Level ", 5001, 180, 180}
+, 
+{"tha_t11", "Thanatos Tower - Upper Level ", 5001, 180, 180}
+, 
+{"tha_t12", "Thanatos Tower - Upper Level ", 5001, 180, 180}
+, 
+{"thana_boss", "Thanatos Tower - Unknown Area ", 5001, 280, 280}
+, 
+{"thana_step", "Thanatos Tower - Upper Level ", 5005, 240, 400}
+, 
+{"thor_camp", "Thor Volcano Camp", 5001, 300, 360}
+, 
+{"thor_v01", "Thor Volcano Dungeon", 5001, 300, 300}
+, 
+{"thor_v02", "Thor Volcano Dungeon", 5001, 240, 240}
+, 
+{"thor_v03", "Thor Volcano Dungeon", 5001, 300, 300}
+, 
+{"ti_high", "Turn-in High level", 5001, 200, 200}
+, 
+{"ti_low", "Turn-in Low level", 5001, 200, 200}
+, 
+{"ti_mid", "Turn-in Medium level", 5001, 240, 240}
+, 
+{"ti_vip", "Turn-in VIP", 5001, 200, 200}
+, 
+{"treasure01", "Kapal Hantu", 5005, 200, 200}
+, 
+{"treasure02", "Kapal Hantu", 5005, 200, 200}
+, 
+{"tur_dun01", "Pulau Turtle", 5001, 300, 300}
+, 
+{"tur_dun02", "Turtle Dungeon", 5001, 300, 300}
+, 
+{"tur_dun03", "Desa Turtle", 5001, 248, 248}
+, 
+{"tur_dun04", "Istana Turtle", 5001, 200, 200}
+, 
+{"tur_dun05", "Daerah Rawa Bawa Tanah", 5001, 100, 100}
+, 
+{"tur_dun06", "Daerah Rawa Bawa Tanah", 5001, 100, 100}
+, 
+{"turbo_room", "Ruang Tunggu", 5003, 200, 200}
+, 
+{"um_fild01", "Hutan Ruruka", 5001, 400, 400}
+, 
+{"um_fild02", "Hutan Humga", 5001, 400, 400}
+, 
+{"um_fild03", "Rawa-rawa Karara", 5001, 400, 400}
+, 
+{"um_fild04", "Hutan Humga", 5001, 400, 400}
+, 
+{"um_in", "Dalam Umbala", 5003, 200, 140}
+, 
+{"umbala", "Umbala, Desa Suku Wootan", 5001, 280, 344}
+, 
+{"un_bk_q", "Under Bunker", 5003, 400, 400}
+, 
+{"un_bunker", "Under Bunker", 5003, 400, 400}
+, 
+{"un_myst", "Under Tunnel", 5003, 400, 220}
+, 
+{"ve_fild01", "Veins Field", 5001, 400, 400}
+, 
+{"ve_fild02", "Veins Field", 5001, 400, 400}
+, 
+{"ve_fild03", "Veins Field", 5001, 400, 400}
+, 
+{"ve_fild04", "Veins Field", 5001, 400, 400}
+, 
+{"ve_fild05", "Veins Field", 5001, 400, 400}
+, 
+{"ve_fild06", "Veins Field", 5001, 400, 400}
+, 
+{"ve_fild07", "Veins Field", 5001, 400, 400}
+, 
+{"ve_in", "Dalam Veins", 5003, 400, 400}
+, 
+{"ve_in02", "Inside Veins", 5003, 100, 100}
+, 
+{"veins", "Veins, Kota Thor", 5001, 400, 400}
+, 
+{"ver_eju", "Juperos Eastern Ruin", 5001, 300, 300}
+, 
+{"ver_tunn", "Verus Outer Tunnel", 5001, 120, 100}
+, 
+{"verus01", "Laboratorium-OPTATIO", 5001, 300, 300}
+, 
+{"verus02", "Research Building-WISH", 5001, 300, 300}
+, 
+{"verus03", "Verus Center Square", 5001, 280, 280}
+, 
+{"verus04", "Verus Findspot", 5001, 280, 280}
+, 
+{"xmas", "Lutie,Desa Salju", 5001, 300, 360}
+, 
+{"xmas_dun01", "Gudang Pabrik Mainan", 5001, 260, 260}
+, 
+{"xmas_dun02", "Ruang Klasifikasi Mainan", 5001, 260, 260}
+, 
+{"xmas_fild01", "Daratan Lutie", 5001, 280, 280}
+, 
+{"xmas_in", "Dalam Lutie", 5003, 200, 200}
+, 
+{"y_airport", "Juno Airport", 5002, 300, 120}
+, 
+{"yggdrasil01", "?Pulau Herbet Camlet (Batang Pohon Yggdrasil)", 5003, 300, 300}
+, 
+{"yuno", "Juno, Ibukota Schwaltsvalt", 5005, 400, 400}
+, 
+{"yuno_fild01", "Perbatasan", 5001, 400, 400}
+, 
+{"yuno_fild02", "Kyll Hire\'s Villa", 5001, 400, 400}
+, 
+{"yuno_fild03", "Hermes Fletue", 5001, 400, 400}
+, 
+{"yuno_fild04", "Hermes Fletue", 5001, 400, 400}
+, 
+{"yuno_fild05", "El Mes Plateau", 5001, 400, 400}
+, 
+{"yuno_fild06", "El Mes Plateau ", 5001, 400, 400}
+, 
+{"yuno_fild07", "El Mes Gorge (Valley of Abyss)", 5001, 400, 400}
+, 
+{"yuno_fild08", "Akademi Kiel Khayr\'s", 5001, 400, 400}
+, 
+{"yuno_fild09", "Camp penjaga Schwaltzwald", 5001, 400, 400}
+, 
+{"yuno_fild10", "Juno Fiel d", 5001, 400, 400}
+, 
+{"yuno_fild11", "Juno Field", 5001, 400, 400}
+, 
+{"yuno_fild12", "Border Checkpoint", 5001, 400, 400}
+, 
+{"yuno_in01", "Dalam Juno", 5003, 200, 200}
+, 
+{"yuno_in02", "Dalam Kastil Sage", 5003, 200, 240}
+, 
+{"yuno_in03", "Dalam Juno", 5003, 260, 216}
+, 
+{"yuno_in04", "Dalam Juno", 5003, 200, 140}
+, 
+{"yuno_pre", "Gedung Pemerintahab Schwaltzvalt", 5003, 140, 140}
+, 
+{"1@sara", "Sara\'s Memory", 5001, 300, 360}
+, 
+{"NULL", "", 0, 0, 0}
+}
+

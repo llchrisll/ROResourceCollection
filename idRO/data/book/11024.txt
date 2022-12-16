@@ -1,0 +1,107 @@
+^000088 Manual energik minuman: Alchemist Bulanan - [Dreaming SP Vol.10]  ^000000
+
+
+ Alchemist  : Kami telah mengundang dua tokoh terkenal di kalangan alkemis yang mengembangkan ramuan meningkatkan SP yang fantastik! 
+Bolehkah saya meminta mereka untuk memperkenalkan dirinya sendiri?
+
+
+vain : Saya anak tertua! Dan saya suka mengumpulkan bunga-bunga. 
+
+vajin : Saya anak kedua dan saya suka menonton pertunjukan wayang. saudara kami dinominasikan antara 10 Alchemist terkenal. 
+Kami sangat menghargai salam dukungan kalian.
+
+Alch : Saya pernah mendengar bahwa kalian berdua menciptakan seri ramuan SP meningkat. Dapatkah saya meminta bagaimana bisa kamu membuat angka-angka ini? 
+
+
+vain : Ya, sementara kita menyelidiki batu hidup, kita akhirnya membuat ramuan bagi pelanggan untuk membuat hidup.
+        Pada awalnya, kami baru saja membuat beberapa jus penyediaan, tapi kita bisa tahu cara untuk memperbesar SP sejauh itu sendiri saat berhubungan investigasi.
+Kami tidak pernah dimaksudkan untuk mendapatkan monopoli untuk memproduksi ramuan ini.
+
+
+
+
+
+
+Vajin : Teknik ini adalah membutuhkan keterampilan halus dan meluangkan waktu. Meskipun kamu mengetahui bagaimana untuk bisa keluar, bukan sesuatu yang mudah. Seperti tingkat keberhasilan sangat rendah, sehingga bisa mengkonsumsi bahan. Jadi saya harap kalian muda tidak akan kehilangan banyak
+
+
+
+
+
+
+Alche : Intinya adalah, itu memerlukan bakat dari pembuat dari teknik.
+
+
+Vain : Tentu! Dengan peralatan yang sama dan bahan, tiba rasa keluar berbeda! Kami sudah lelah hampir 136.072. Sehingga saya ingin meminta orang untuk mencobanya jika kamu dianggap mengetahui cara yang lebih baik.
+
+
+Alche : Tapi kalian dua bersaudara berani akan didedikasikan untuk kemajuan dan pengembangan alat penyulingan ini.
+Sebagai sebuah cerita eksklusif, saya merasa terhormat terima kasih kepada kamu.
+
+
+Vajin : Sama-sama. Kami berpikir bahwa ini melanjutkan kegiatan yang lebih baik dan membuat perdamaian bekerja.  
+Meskipun kami mencoba untuk memiliki monopoli keterampilan ini, tidak akan bertahan lebih lama.
+
+
+
+Alche : Benarkah? Mengapa?
+
+Vain : Seperti saudara saya jelaskan, tidak ada ramuan yang memaksimalkan SP sendiri saat ini. 
+         Sejauh ini seperti yang kita lakukan, hanya ada keterampilan, kartu & peralatan yang memimpin memaksimalkan SP 
+
+
+         Meskipun kita hanya memperbesar SP itu sendiri, kita tidak bisa memecahkan masalah inti.
+         Hal yang kita buat lebih besar adalah ukuran mesin, bukan bahan bakar itu sendiri.
+ 
+Vajin : Ada beberapa fungsi pemulihan dengan ramuan SP itu sendiri, tapi bukan itu hal besar. 
+     Sebagai kesimpulan, kami mendukung percepatan aktivitas otak dan tubuh untuk mendapatkan banyak mana. 
+Sejauh yang saya tahu, banyak biksu yang sama berdasarkan.
+
+
+
+
+Vain : Sehingga kita bisa mendapatkan banyak alchemist kepentingan melalui metode memperbaiki.
+         Tapi cukup titik dalam negeri, dan itu tidak bahwa tindakan yang baik untuk negara lagi.
+
+Vajin : Ya, hal itu akan menyebabkan situasi yang buruk. 
+
+
+         
+Alche : Ok. Saya mengerti maksud kamu. Rahasianya adalah bahwa tidak tahan lama, dan kami akan lebih fokus pada pengaktifan pasar.
+itu pandangan yang luas.
+
+
+Vain : Kami percaya pada hal-hal yang akan dilingkari. Jika kita berbuat baik kepada orang lain, hal-hal yang akan kembali kepada kami.  
+Ini disebut 'Golden rule'.
+
+
+
+Alche : Jadi hal yang ditemukan Alchemist adalah aturan Emas! 
+
+
+Vain : (Tersenyum) Ini bukan bahwa kontribusi besar. (menjadi malu)
+
+
+Alche : Tapi saya rasa banyak orang bisa mendapatkan manfaat dari kerja kamu.
+Kalian berdua orang ini sangat inspiratif dan mungkin saya bertanya rencana masa depan kamu?
+
+
+Vain : Dan kita akan didedikasikan untuk menyelidiki tentang "Life ston".
+        Itu adalah tujuan dasar kita. Dan saya berharap ramuan akan berguna.
+
+
+Alche : Terima kasih. Terakhir, saya ingin kamu untuk bertemu orang yang akan sponsor kamu!
+
+(resep ini tertutup di bawah)
+
+resep
+
+SP Increase potion (S) : empty bottle 10 + Honey 10 + blue herb 10 + sweet source 1
+SP Increase potion (M) : empty bottle 10 + Honey 10 + blue herb 10 + sweet source 1
+SP Increase potion (L) : empty bottle 10 + royal jerry 10 + blue herb 15 + sweet source 1 
+
+
+efek
+
+Maksimalkan MSP sebesar 1 -20% selama 500 detik. 
+sebesar itu, hal itu semakin kuat.

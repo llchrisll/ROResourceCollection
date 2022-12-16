@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	
+	<servicetype>indonesia</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<passwordencrypt></passwordencrypt>
+	<extendedslot></extendedslot>
+	<connection>
+		<display>Indonesia Server</display>
+		<desc>None</desc>
+		<address>202.93.26.198</address>
+		<port>6900</port>
+		<version>2</version>
+		<langtype>6</langtype>
+		<registrationweb>https://ro.gnjoy.id/</registrationweb>
+		<aid>
+			<admin>100001</admin> <admin>102593</admin> <admin>102587</admin> <admin>102603</admin> <admin>266033</admin> <admin>266045</admin> <admin>266047</admin>
+		</aid>
+	</connection>
+
+	<loading>
+		<image>loading00.jpg</image>
+		<image>loading01.jpg</image>
+		<image>loading02.jpg</image>
+		<image>loading03.jpg</image>
+		<image>loading04.jpg</image>
+		<image>loading05.jpg</image>
+	</loading>
+
+</clientinfo>

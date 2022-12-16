@@ -1,0 +1,47 @@
+%faf0e6
+^000088Alchemy Basics: Alcohol Creation^000000
+
+
+----------------Preface--------------------
+
+Seluruh perkumpulan alchemy di seluruh dunia menjadi panik, termasuk saya yang menulis ini.
+Ratusan Alchemist , Putus asa terhadap apa yang mereka pelajari,
+yang telah memproduksi dan menggandakan sejumlah alcohol menggunakan metode
+yang diumumkan oleh asosiasi Shcolar. Tidak satu pun dari kami
+menyangka bencana ini akan terjadi,tetapi semakin banyak alchemist
+menyalah gunakan metode produksi alcohol ini. Saya berharap kamu, pembaca yang adil,
+untuk tidak pernah memberi kesempatan kepada bahayanya alcohol sewaktu pertama kali kamu belajar alchemy.
+Saya tinggalkan buku ini untukmu, berharap bahwa tidak akan kembali terulang pada alchemist yang akan datang
+dari melukai diri dengan pengetahuan yang mereka pelajari.
+
+"Alkoholisme... itu tidak baik!"
+
+------------------------------------------
+
+
+
+What is^ff0000alcohol^000000?
+
+di dalam Ilmu kimia, sebuah alcohol merupakan senyawa organic
+yang terdiri dari grup hydroxyl (-OH) yang terikat ke karbon
+atom dari sebuah alkyl atau digantikan alkyl grup.
+
+Formula umumnya adalah ROH. Methanol terbentuk ketika
+sebuah alkyl grup berubah menjadi methyl grup,sebuah grup hydrophobic alkyl
+berasal dari ethane. Ethanol terbentuk ketika sebuah grup alkyl
+berobligasi menjadi ethyl grup, dimana sebuah alkyl kelompok fungsional yang berasal
+dari Ethane. Struktur dari sebuah alkyl sama seperti gabungan hidrokarbon pendamping 
+tetapi dengan satu atom hidrogen kurang. 
+ 
+
+Ingredients: ^4b00825 stem, 5 Poison Spore,
+1 Empty Test Tube, 1 Empty Bottle^000000
+
+Directions:
+Masukkan stem dan poison spore yang telah diberi gula ke dalam botol kosong.
+Tambahkan air dan masak hingga mendidih. Kumpulkan gasnya lalu biarkan hingga dingin
+untuk destilasi. Masukkan cair gas ke dalam tabung reaksi yang kosong.
+Simpan buku ini bersamamu dan lihat sementara kamu mengumpulkan bahan²
+dan gunakan skill pembuat potion sehingga kamu dapat membuat alcohol.
+
+

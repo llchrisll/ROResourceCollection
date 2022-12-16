@@ -1,0 +1,24 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\entryqueue\entryqueuelist.lub 
+
+-- params : ...
+-- function num : 0
+EntryQueueList = {
+[1] = {BattleFieldName = "Tierra Gorge", DisplayBattleFieldName = "Tierra Gorge", AllianceNum = 6, EnemyNum = 6, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 4, EnterCondType = 2, EnterCondValue1 = 80, EnterCondValue2 = 0, RewardWin = "3 Valor Badge", RewardDraw = "1 Valor Badge", RewardLose = "1 Valor Badge", VictoryCond = "Hancurkan Tiang Musuh", MiniMapFile = "bat_a01.bmp"}
+, 
+[2] = {BattleFieldName = "Flavius", DisplayBattleFieldName = "Flavius", AllianceNum = 6, EnemyNum = 6, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 4, EnterCondType = 2, EnterCondValue1 = 80, EnterCondValue2 = 0, RewardWin = "9 Bravery Badge", RewardDraw = "3 Bravery Badge", RewardLose = "3 Bravery Badge", VictoryCond = "Hancurkan Crystal Musuh", MiniMapFile = "bat_b01.bmp"}
+, 
+[3] = {BattleFieldName = "KVM (Above Lv80)", DisplayBattleFieldName = "KVM (Lv80이상)", AllianceNum = 5, EnemyNum = 5, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 0, EnterCondType = 2, EnterCondValue1 = 80, EnterCondValue2 = 0, RewardWin = "KVM Point 5", RewardDraw = "KVM Point 1", RewardLose = "KVM Point 1", VictoryCond = "Kalahkan Semua Musuh", MiniMapFile = "bat_c01.bmp"}
+, 
+[4] = {BattleFieldName = "KVM (Lv60~79)", DisplayBattleFieldName = "KVM (Lv60~79)", AllianceNum = 5, EnemyNum = 5, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 0, EnterCondType = 3, EnterCondValue1 = 60, EnterCondValue2 = 79, RewardWin = "KVM Point 2", RewardDraw = "KVM Point 1", RewardLose = "KVM Point 0", VictoryCond = "Kalahkan Semua Musuh", MiniMapFile = "bat_c01.bmp"}
+, 
+[5] = {BattleFieldName = "KVM (Under Lv59)", DisplayBattleFieldName = "KVM (Lv59이하)", AllianceNum = 5, EnemyNum = 5, PrivateApply = 1, PartyApply = 1, GuildApply = 1, JobGroup = 0, EnterCondType = 1, EnterCondValue1 = 59, EnterCondValue2 = 0, RewardWin = "KVM Point 1", RewardDraw = "KVM Point 0", RewardLose = "KVM Point 0", VictoryCond = "Kalahkan Semua Musuh", MiniMapFile = "bat_c01.bmp"}
+}
+ReadEntryQueueList = function()
+  -- function num : 0_0
+  for id,table in pairs(EntryQueueList) do
+    AddEntryQueue(id, table.BattleFieldName, table.DisplayBattleFieldName, table.AllianceNum, table.EnemyNum, table.PrivateApply, table.PartyApply, table.GuildApply, table.JobGroup, table.EnterCondType, table.EnterCondValue1, table.EnterCondValue2, table.RewardWin, table.RewardDraw, table.RewardLose, table.VictoryCond, table.MiniMapFile)
+  end
+end
+
+

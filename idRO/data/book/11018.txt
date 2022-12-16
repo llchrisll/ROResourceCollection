@@ -1,0 +1,26 @@
+%f5f5dc
+^000088Item Penjualan Splendide^000000
+
+Kamu bisa membeli beberapa item berikut menggunakan Splandide Coin.
+
+
+^008040[Pinguicula Fruit Jam]^000000
+Selai manis yang dibuat dari buah-buahan Pinguicula.
+Ketika memakannya, akan meningkatkan serangan jarak dekat terhadap monster yang ada diarea Splendide sebesar 10% selama 10 menit.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+^ffffff_^000000
+Berat : ^7777775^000000
+
+^008040[Luciola Honey Jam]^000000
+Selai manis yang dibuat dari madu Luciola dan rampah-rempah.
+Ketika memakannya, akan mengurangi serangan Magic dan dekat yang diterima dari monster yang ada diarea Splendide sebesar 10% selama 10 menit.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+^ffffff_^000000
+Berat : ^7777775^000000
+
+^008040[Cornus Tear]^000000
+Potion yang dibuat dari air mata Cornus yang dimurnikan. Tidak ada seorangpun yang tau bagaimana mendapatkan Air matanya.
+Ketika dipakai, meningkatkan serangan Magic terhadap monster yang ada diarea Splendide sebesar 10% selama 10 menit.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+^ffffff_^000000
+Berat : ^7777775^000000

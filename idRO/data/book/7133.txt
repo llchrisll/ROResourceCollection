@@ -1,0 +1,58 @@
+%faf0e6
+^000088Intermediate Alchemy: Condensed Potions^000000
+
+
+----------------Preface--------------------
+
+Jika dasar pembuatan potion sudah dikuasai oleh kamu,
+lalu kamu mungkin akan dipersiapkan untuk 
+proses yang lebih maju dalam pembuatan condensed
+potions. Condensing memaksimalkan efektivitas dari
+pot kamu disamping meminimalkan beratnya dan
+produksi bahan bahan yang diperlukan.
+
+------------------------------------------
+
+What is a ^ff0000Condensed Potion^000000?
+
+condensed potion adalah potion yang  sangat padat
+yang mempunyai efektivitas sama seperti potion 
+yang lainnya, tetapi lebih ringan dari segi berat.
+Condensing potions merupakan sebuah kenyamanan
+sejak meningkatnya jumlah potion
+yang dapat dibawa oleh Alchemists dan petualang lainnya.
+
+
+^0000ffRed Slim Potion^000000: Restores 45 HP.
+Required Materials: ^4b00821 Red Potion,
+1 Cactus Needle, 1 Empty Cylinder^000000
+
+Proses: Pelan-pelan tuangkan red potion ke dalam medicine
+bowl, lalu campurkan cactus needle. Kamu harus tetap
+menyimpan buku ini sebagai pedoman ketika kamu 
+menggunakan skill Prepare Potion untuk menuang campuran
+ke dalam tabung silinder kosong.
+
+^800000Yellow Slim Potion^000000 : Restores 175 HP
+Required Materials: ^4b00821 Yellow Potion ,
+1 Mole Whisker, 1 Empty Cylinder^000000
+
+Proses: Pelan-pelan tuangkan yellow potion ke dalam 
+medicine bowl, lalu campurkan dalam keadaan mendidih, cairkan
+mole whisker. Kamu harus tetap
+menyimpan buku ini sebagai pedoman ketika kamu 
+menggunakan skill Prepare Potion untuk menuang campuran
+ke dalam tabung silinder kosong.
+
+
+
+
+^008040White Slim Potion^000000: Restores 325 HP.
+Required Materials: ^4b00821 White Potion,
+1 Witch Starsand, 1 Empty Cylinder^000000
+
+Proses: Pelan-pelan tuangkan white potion ke dalam medicine
+bowl, and lalu masukkan witch starsand dan dicampur. Kamu harus tetap
+menyimpan buku ini sebagai pedoman ketika kamu 
+menggunakan skill Prepare Potion untuk menuang campuran
+ke dalam tabung silinder kosong.

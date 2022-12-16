@@ -1,0 +1,3413 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\navigation\navi_mob_id.lub 
+
+-- params : ...
+-- function num : 0
+Navi_Mob = {
+{"abyss_01", 17863, 300, 591539, "Novus", "NOVUS", 90, 1310729}
+, 
+{"abyss_01", 17864, 300, 591542, "Novus", "NOVUS_", 84, 1310729}
+, 
+{"abyss_01", 17865, 300, 526009, "Dragon Egg", "DRAGON_EGG", 119, 2621705}
+, 
+{"abyss_01", 17866, 300, 656551, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"abyss_01", 17867, 300, 657059, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"abyss_01", 17868, 300, 1967296, "Penomena", "PENOMENA", 85, 1638661}
+, 
+{"abyss_01", 17869, 300, 1967794, "Ferus", "FERUS", 126, 2818569}
+, 
+{"abyss_01", 17870, 300, 3606197, "Ferus", "FERUS_", 126, 2753033}
+, 
+{"abyss_02", 17871, 300, 329395, "Novus", "NOVUS", 90, 1310729}
+, 
+{"abyss_02", 17872, 300, 329398, "Novus", "NOVUS_", 84, 1310729}
+, 
+{"abyss_02", 17873, 300, 657081, "Dragon Egg", "DRAGON_EGG", 119, 2621705}
+, 
+{"abyss_02", 17874, 300, 656551, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"abyss_02", 17875, 300, 657073, "Acidus", "ACIDUS", 130, 3015177}
+, 
+{"abyss_02", 17876, 300, 3933876, "Acidus", "ACIDUS_", 130, 2884105}
+, 
+{"abyss_02", 17877, 300, 657059, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"abyss_02", 17878, 300, 3278514, "Ferus", "FERUS", 126, 2818569}
+, 
+{"abyss_03", 17879, 300, 657081, "Dragon Egg", "DRAGON_EGG", 119, 2621705}
+, 
+{"abyss_03", 17880, 300, 656551, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"abyss_03", 17881, 300, 3933873, "Acidus", "ACIDUS", 130, 3015177}
+, 
+{"abyss_03", 17882, 300, 657076, "Acidus", "ACIDUS_", 130, 2884105}
+, 
+{"abyss_03", 17883, 300, 657059, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"abyss_03", 17884, 300, 657074, "Ferus", "FERUS", 126, 2818569}
+, 
+{"abyss_03", 17885, 300, 657077, "Ferus", "FERUS_", 126, 2753033}
+, 
+{"abyss_03", 17886, 300, 198328, "Hydrolancer", "HYDRO", 121, 3080713}
+, 
+{"abyss_03", 18088, 301, 67255, "Detardeurus", "DETALE", 135, 4391433}
+, 
+{"alb_ship", 18335, 300, 1640457, "Sticky Rat", "E_CRAMP", 1, 2949122}
+, 
+{"alde_dun01", 17555, 300, 2622551, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"alde_dun01", 17556, 300, 3277994, "Arclouse", "ARCLOUSE", 107, 2752772}
+, 
+{"alde_dun02", 17557, 300, 1311931, "Brilight", "BRILIGHT", 71, 1507332}
+, 
+{"alde_dun02", 17558, 300, 1311914, "Arclouse", "ARCLOUSE", 107, 2752772}
+, 
+{"alde_dun02", 17559, 300, 1311909, "Orc Archer", "ORC_ARCHER", 78, 1442055}
+, 
+{"alde_dun02", 17560, 300, 3278013, "High Orc", "HIGH_ORC", 81, 2818567}
+, 
+{"alde_dun03", 17561, 300, 3605591, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"alde_dun03", 17562, 300, 3671225, "Cramp", "CRAMP", 82, 2949122}
+, 
+{"alde_dun03", 17563, 300, 5571776, "Penomena", "PENOMENA", 85, 1638661}
+, 
+{"alde_dun04", 17564, 300, 3277902, "Bathory", "BATHORY", 86, 1769735}
+, 
+{"alde_dun04", 17565, 300, 656539, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"alde_dun04", 17566, 300, 656491, "Joker", "JOKER", 90, 5505543}
+, 
+{"ama_dun01", 17633, 300, 2950523, "Firelock Soldier", "ANTIQUE_FIRELOCK", 88, 3211521}
+, 
+{"ama_dun01", 17634, 300, 4261244, "Miyabi Ningyo", "MIYABI_NINGYO", 85, 1769734}
+, 
+{"ama_dun01", 17635, 300, 132473, "Shinobi", "SHINOBI", 95, 4391175}
+, 
+{"ama_dun02", 17636, 300, 1312123, "Firelock Soldier", "ANTIQUE_FIRELOCK", 88, 3211521}
+, 
+{"ama_dun02", 17637, 300, 66911, "The Paper", "THE_PAPER", 97, 3932416}
+, 
+{"ama_dun02", 17638, 300, 2295162, "Poisonous Toad", "POISON_TOAD", 87, 2949378}
+, 
+{"ama_dun02", 17639, 300, 329084, "Miyabi Ningyo", "MIYABI_NINGYO", 85, 1769734}
+, 
+{"ama_dun02", 17640, 300, 132473, "Shinobi", "SHINOBI", 95, 4391175}
+, 
+{"ama_dun02", 17641, 300, 656489, "Horong", "HORONG", 66, 5439488}
+, 
+{"ama_dun03", 17642, 300, 1639803, "Firelock Soldier", "ANTIQUE_FIRELOCK", 88, 3211521}
+, 
+{"ama_dun03", 17643, 300, 1312095, "The Paper", "THE_PAPER", 97, 3932416}
+, 
+{"ama_dun03", 17644, 300, 328871, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"ama_dun03", 17645, 300, 66940, "Miyabi Ningyo", "MIYABI_NINGYO", 85, 1769734}
+, 
+{"ama_dun03", 17646, 300, 3605881, "Shinobi", "SHINOBI", 95, 4391175}
+, 
+{"ama_dun03", 17647, 300, 3605885, "Tengu", "TENGU", 98, 2753030}
+, 
+{"ama_dun03", 18089, 301, 67028, "Incantation Samurai", "INCANTATION_SAMURAI", 100, 4391431}
+, 
+{"ama_fild01", 17004, 300, 656420, "Bigfoot", "BIGFOOT", 29, 1442306}
+, 
+{"ama_fild01", 17005, 300, 3278200, "Karakasa", "KARAKASA", 72, 3932416}
+, 
+{"ama_fild01", 17006, 300, 2622846, "Kapha", "KAPHA", 83, 1376517}
+, 
+{"ama_fild01", 17007, 300, 132476, "Miyabi Ningyo", "MIYABI_NINGYO", 85, 1769734}
+, 
+{"ama_fild01", 17008, 300, 66938, "Poisonous Toad", "POISON_TOAD", 87, 2949378}
+, 
+{"ama_fild01", 17009, 300, 66604, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"anthell01", 17047, 300, 66657, "Giearth", "GIEARTH", 42, 1441798}
+, 
+{"anthell01", 17048, 300, 66633, "Ant Egg", "ANT_EGG", 28, 3932160}
+, 
+{"anthell01", 17135, 300, 2622545, "Deniro", "DENIRO", 31, 1441796}
+, 
+{"anthell01", 17136, 300, 656536, "Vitata", "VITATA", 35, 1441796}
+, 
+{"anthell01", 17137, 300, 984135, "Andre", "ANDRE", 33, 1441796}
+, 
+{"anthell01", 17138, 300, 1311725, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"anthell01", 17139, 300, 3277960, "Piere", "PIERE", 32, 1441796}
+, 
+{"anthell02", 17140, 300, 197729, "Giearth", "GIEARTH", 42, 1441798}
+, 
+{"anthell02", 17141, 300, 984137, "Ant Egg", "ANT_EGG", 28, 3932160}
+, 
+{"anthell02", 17142, 300, 984145, "Deniro", "DENIRO", 31, 1441796}
+, 
+{"anthell02", 17143, 300, 1967256, "Vitata", "VITATA", 35, 1441796}
+, 
+{"anthell02", 17144, 300, 3277895, "Andre", "ANDRE", 33, 1441796}
+, 
+{"anthell02", 17145, 300, 1311725, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"anthell02", 17146, 300, 984200, "Piere", "PIERE", 32, 1441796}
+, 
+{"anthell02", 18090, 301, 66683, "Maya", "MAYA", 55, 5374468}
+, 
+{"ayo_dun01", 17509, 300, 1967116, "Ghoul", "GHOUL", 61, 3211521}
+, 
+{"ayo_dun01", 17510, 300, 4261426, "Leaf Cat", "LEAF_CAT", 64, 1441794}
+, 
+{"ayo_dun01", 17511, 300, 656539, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"ayo_dun01", 17512, 300, 329267, "Kraben", "KRABEN", 70, 3145984}
+, 
+{"ayo_dun02", 17513, 300, 1311899, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"ayo_dun02", 17514, 300, 1312307, "Kraben", "KRABEN", 70, 3145984}
+, 
+{"ayo_dun02", 17515, 300, 6555184, "Tamruan", "TAMRUAN", 73, 4391430}
+, 
+{"ayo_dun02", 18091, 301, 67224, "Lady Tanee", "LADY_TANEE", 80, 4194819}
+, 
+{"ayo_fild01", 16988, 300, 1967136, "Smokie", "SMOKIE", 29, 1441794}
+, 
+{"ayo_fild01", 16989, 300, 1967184, "Coco", "COCO", 38, 1441794}
+, 
+{"ayo_fild01", 16990, 300, 1967137, "Yoyo", "YOYO", 38, 1441794}
+, 
+{"ayo_fild01", 18616, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"ayo_fild02", 16991, 300, 2295346, "Leaf Cat", "LEAF_CAT", 64, 1441794}
+, 
+{"ayo_fild02", 16992, 300, 2950177, "Yoyo", "YOYO", 38, 1441794}
+, 
+{"ayo_fild02", 16993, 300, 329267, "Kraben", "KRABEN", 70, 3145984}
+, 
+{"ayo_fild02", 18617, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"beach_dun", 17698, 300, 1311975, "Neraid", "NERAID", 98, 1441794}
+, 
+{"beach_dun", 17699, 300, 197872, "Merman", "MERMAN", 60, 3997959}
+, 
+{"beach_dun", 17700, 300, 3933308, "Medusa", "MEDUSA", 102, 2621702}
+, 
+{"beach_dun", 17701, 300, 1311976, "Pest", "PEST", 89, 3080194}
+, 
+{"beach_dun", 18092, 301, 67119, "Tao Gunka", "TAO_GUNKA", 110, 3932678}
+, 
+{"beach_dun2", 17702, 300, 197863, "Neraid", "NERAID", 98, 1441794}
+, 
+{"beach_dun2", 17703, 300, 984314, "Megalith", "MEGALITH", 65, 5243392}
+, 
+{"beach_dun2", 17704, 300, 4261118, "Stalactic Golem", "STALACTIC_GOLEM", 68, 5243392}
+, 
+{"beach_dun2", 17705, 300, 1311999, "Tri Joint", "TRI_JOINT", 66, 1441796}
+, 
+{"beach_dun2", 17706, 300, 656428, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"beach_dun3", 17707, 300, 66791, "Neraid", "NERAID", 98, 1441794}
+, 
+{"beach_dun3", 17708, 300, 1967144, "Megalodon", "MEGALODON", 46, 1900801}
+, 
+{"beach_dun3", 17709, 300, 3277834, "Thara Frog", "THARA_FROG", 40, 2687237}
+, 
+{"beach_dun3", 17710, 300, 1967148, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"bif_fild01", 16570, 300, 1640394, "Luciola Vespa", "LUCIOLA_VESPA", 109, 1573124}
+, 
+{"bif_fild01", 16571, 300, 985032, "Cornus", "CORNUS", 120, 4325634}
+, 
+{"bif_fild01", 16572, 300, 3278937, "Miming", "MIMING", 140, 1310720}
+, 
+{"bif_fild01", 16573, 300, 1968216, "Little Fatum", "LITTLE_FATUM", 142, 2883591}
+, 
+{"bif_fild01", 16574, 300, 329813, "Angra Mantis", "ANGRA_MANTIS", 144, 2752772}
+, 
+{"bif_fild01", 16575, 300, 329812, "Pom Spider", "POM_SPIDER", 145, 4063492}
+, 
+{"bif_fild02", 16576, 300, 1640394, "Luciola Vespa", "LUCIOLA_VESPA", 109, 1573124}
+, 
+{"bif_fild02", 16577, 300, 985032, "Cornus", "CORNUS", 120, 4325634}
+, 
+{"bif_fild02", 16578, 300, 1968217, "Miming", "MIMING", 140, 1310720}
+, 
+{"bif_fild02", 16579, 300, 3278936, "Little Fatum", "LITTLE_FATUM", 142, 2883591}
+, 
+{"bif_fild02", 16580, 300, 329813, "Angra Mantis", "ANGRA_MANTIS", 144, 2752772}
+, 
+{"bif_fild02", 16581, 300, 329812, "Pom Spider", "POM_SPIDER", 145, 4063492}
+, 
+{"bra_dun01", 16616, 300, 5244950, "Piranha", "PIRANHA", 75, 3998213}
+, 
+{"bra_dun01", 16617, 300, 1968149, "Iara", "IARA", 79, 3997957}
+, 
+{"bra_dun01", 16618, 300, 328764, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"bra_dun01", 16619, 300, 1311861, "Marina", "MARINA", 42, 2686979}
+, 
+{"bra_dun01", 16620, 300, 656430, "Kukre", "KUKRE", 42, 1376261}
+, 
+{"bra_dun01", 16621, 300, 656521, "Plankton", "PLANKTON", 40, 3997699}
+, 
+{"bra_dun01", 16622, 300, 984108, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"bra_dun02", 16623, 300, 3934230, "Piranha", "PIRANHA", 75, 3998213}
+, 
+{"bra_dun02", 16624, 300, 7211029, "Iara", "IARA", 79, 3997957}
+, 
+{"bra_dun02", 16625, 300, 656501, "Marina", "MARINA", 42, 2686979}
+, 
+{"bra_dun02", 16626, 300, 656430, "Kukre", "KUKRE", 42, 1376261}
+, 
+{"bra_dun02", 16627, 300, 656521, "Plankton", "PLANKTON", 40, 3997699}
+, 
+{"bra_dun02", 16628, 300, 984108, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"bra_dun02", 16629, 300, 132155, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"bra_dun02", 16630, 300, 328764, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"bra_dun02", 16631, 301, 67604, "Boitata", "BOITATA", 93, 4129282}
+, 
+{"bra_fild01", 16609, 300, 3278874, "Curupira", "CURUPIRA", 68, 1442055}
+, 
+{"bra_fild01", 16610, 300, 656470, "Dokebi", "DOKEBI", 68, 1769478}
+, 
+{"bra_fild01", 16611, 300, 328846, "Savage", "SAVAGE", 59, 2753026}
+, 
+{"bra_fild01", 16612, 300, 2623511, "Headless Mule", "HEADLESS_MULE", 80, 4129286}
+, 
+{"bra_fild01", 16613, 300, 328765, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"bra_fild01", 16614, 300, 3606552, "Jaguar", "JAGUAR", 71, 2752770}
+, 
+{"bra_fild01", 16615, 300, 3934233, "Toucan", "TOUCAN", 70, 2883842}
+, 
+{"brasilis", 16632, 300, 329761, "Hydra", "E_HYDRA", 34, 2686979}
+, 
+{"c_tower1", 17567, 300, 4588715, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"c_tower1", 17568, 300, 66638, "Bathory", "BATHORY", 86, 1769735}
+, 
+{"c_tower1", 17569, 300, 66806, "Clock Tower Manager", "C_TOWER_MANAGER", 90, 5243392}
+, 
+{"c_tower1", 17570, 300, 4588719, "Punk", "PUNK", 82, 1572867}
+, 
+{"c_tower2", 17571, 300, 787627, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"c_tower2", 17572, 300, 197799, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"c_tower2", 17573, 300, 66806, "Clock Tower Manager", "C_TOWER_MANAGER", 90, 5243392}
+, 
+{"c_tower2", 17574, 300, 132449, "Elder", "ELDER", 92, 5243399}
+, 
+{"c_tower2", 17575, 300, 2622709, "Clock", "CLOCK", 81, 2752768}
+, 
+{"c_tower2", 17576, 300, 2622639, "Punk", "PUNK", 82, 1572867}
+, 
+{"c_tower2_", 18358, 300, 1051054, "Cursed Book", "NG_RIDEWORD", 146, 3932160}
+, 
+{"c_tower2_", 18359, 300, 264623, "Cursed Box", "NG_MIMIC", 143, 3932416}
+, 
+{"c_tower2_", 18360, 300, 3607396, "Big Ben", "BIG_BEN", 160, 2752768}
+, 
+{"c_tower2_", 18361, 300, 3607399, "Neo Punk", "NEO_PUNK", 155, 1572867}
+, 
+{"c_tower2_", 18362, 300, 68454, "Time Keeper", "TIME_KEEPER", 165, 5243392}
+, 
+{"c_tower2_", 18363, 300, 133992, "Arc Elder", "ARC_ELDER", 168, 5243399}
+, 
+{"c_tower2_", 18364, 300, 68457, "Owl Viscount", "OWL_VISCOUNT", 168, 3932678}
+, 
+{"c_tower3", 17577, 300, 394411, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"c_tower3", 17578, 300, 459943, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"c_tower3", 17579, 300, 197878, "Clock Tower Manager", "C_TOWER_MANAGER", 90, 5243392}
+, 
+{"c_tower3", 17580, 300, 5244073, "Alarm", "ALARM", 88, 3932416}
+, 
+{"c_tower3_", 18365, 300, 526766, "Cursed Book", "NG_RIDEWORD", 146, 3932160}
+, 
+{"c_tower3_", 18366, 300, 592303, "Cursed Box", "NG_MIMIC", 143, 3932416}
+, 
+{"c_tower3_", 18367, 300, 7146341, "Big Bell", "BIG_BELL", 163, 3932416}
+, 
+{"c_tower3_", 18368, 300, 133990, "Time Keeper", "TIME_KEEPER", 165, 5243392}
+, 
+{"c_tower3_", 18369, 300, 68459, "Owl Marquees", "OWL_MARQUEES", 170, 3932678}
+, 
+{"c_tower3_", 18370, 301, 68610, "Time Holder", "TIMEHOLDER", 170, 5243398}
+, 
+{"c_tower4", 17581, 300, 984235, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"c_tower4", 17582, 300, 787623, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"c_tower4", 17583, 300, 197878, "Clock Tower Manager", "C_TOWER_MANAGER", 90, 5243392}
+, 
+{"c_tower4", 17584, 300, 1967400, "Owl Duke", "OWL_DUKE", 92, 3932678}
+, 
+{"c_tower4", 17585, 300, 1967273, "Alarm", "ALARM", 88, 3932416}
+, 
+{"c_tower4", 17586, 300, 132449, "Elder", "ELDER", 92, 5243399}
+, 
+{"c_tower4", 17587, 300, 328859, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"c_tower4", 17588, 300, 2295029, "Clock", "CLOCK", 81, 2752768}
+, 
+{"cmd_fild01", 16807, 300, 9832087, "Grove", "GREEN_IGUANA", 55, 2752770}
+, 
+{"cmd_fild01", 16808, 300, 3277918, "Flora", "FLORA", 59, 1442307}
+, 
+{"cmd_fild01", 18771, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"cmd_fild01", 18772, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"cmd_fild01", 18776, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"cmd_fild02", 16770, 300, 656626, "Aster", "ASTER", 50, 1441797}
+, 
+{"cmd_fild02", 16771, 300, 7865637, "Fur Seal", "FUR_SEAL", 47, 1376514}
+, 
+{"cmd_fild02", 16772, 300, 1967471, "Galapago", "GALAPAGO", 45, 1441794}
+, 
+{"cmd_fild02", 16773, 300, 1311794, "Shellfish", "SHELLFISH", 50, 1376261}
+, 
+{"cmd_fild02", 16774, 300, 1311793, "Crab", "CRAB", 43, 1376261}
+, 
+{"cmd_fild02", 18309, 300, 66849, "Mobster", "MOBSTER", 58, 1310983}
+, 
+{"cmd_fild03", 16809, 300, 9831671, "Alligator", "ALLIGATOR", 57, 1376514}
+, 
+{"cmd_fild03", 16810, 300, 3277918, "Flora", "FLORA", 59, 1442307}
+, 
+{"cmd_fild03", 18213, 300, 263406, "Mutant Dragon", "MUTANT_DRAGON", 65, 2818569}
+, 
+{"cmd_fild03", 18317, 300, 66625, "Toad", "TOAD", 27, 1376517}
+, 
+{"cmd_fild03", 18777, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"cmd_fild04", 16775, 300, 656626, "Aster", "ASTER", 50, 1441797}
+, 
+{"cmd_fild04", 16776, 300, 7865643, "Sea Otter", "SEE_OTTER", 48, 3997954}
+, 
+{"cmd_fild04", 16777, 300, 1967471, "Galapago", "GALAPAGO", 45, 1441794}
+, 
+{"cmd_fild04", 16778, 300, 1311794, "Shellfish", "SHELLFISH", 50, 1376261}
+, 
+{"cmd_fild04", 16779, 300, 1311793, "Crab", "CRAB", 43, 1376261}
+, 
+{"cmd_fild05", 18780, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"cmd_fild05", 18781, 300, 197689, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"cmd_fild05", 18783, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"cmd_fild06", 16811, 300, 3277858, "Metaller", "METALLER", 55, 1507588}
+, 
+{"cmd_fild06", 16812, 300, 9831440, "Golem", "GOLEM", 61, 3932672}
+, 
+{"cmd_fild06", 18784, 300, 132153, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"cmd_fild07", 16780, 300, 1967346, "Aster", "ASTER", 50, 1441797}
+, 
+{"cmd_fild07", 16781, 300, 1967154, "Shellfish", "SHELLFISH", 50, 1376261}
+, 
+{"cmd_fild07", 16782, 300, 6554854, "Raggler", "RAGGLER", 48, 1572866}
+, 
+{"cmd_fild07", 16783, 300, 1967153, "Crab", "CRAB", 43, 1376261}
+, 
+{"cmd_fild08", 16752, 300, 1967177, "Ant Egg", "ANT_EGG", 28, 3932160}
+, 
+{"cmd_fild08", 16753, 300, 132112, "Golem", "GOLEM", 61, 3932672}
+, 
+{"cmd_fild08", 16754, 300, 3277905, "Deniro", "DENIRO", 31, 1441796}
+, 
+{"cmd_fild08", 16755, 300, 3277960, "Piere", "PIERE", 32, 1441796}
+, 
+{"cmd_fild08", 16756, 300, 3277895, "Andre", "ANDRE", 33, 1441796}
+, 
+{"cmd_fild08", 18786, 300, 263225, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"cmd_fild09", 16813, 300, 656457, "Ant Egg", "ANT_EGG", 28, 3932160}
+, 
+{"cmd_fild09", 16814, 300, 984145, "Deniro", "DENIRO", 31, 1441796}
+, 
+{"cmd_fild09", 16815, 300, 984200, "Piere", "PIERE", 32, 1441796}
+, 
+{"cmd_fild09", 16816, 300, 984135, "Andre", "ANDRE", 33, 1441796}
+, 
+{"cmd_fild09", 16817, 300, 9503778, "Metaller", "METALLER", 55, 1507588}
+, 
+{"dic_dun01", 16582, 300, 3278883, " Uni-horn Scaraba ", "HORN_SCARABA", 130, 1441796}
+, 
+{"dic_dun01", 16583, 300, 2951204, "Horn Scaraba", "HORN_SCARABA2", 134, 1441796}
+, 
+{"dic_dun01", 16584, 300, 985128, "Uni-horn Scaraba Egg", "HORN_SCARABA_EGG", 125, 1310724}
+, 
+{"dic_dun01", 16585, 300, 985129, "Horn Scaraba Egg", "HORN_SCARABA2_EGG", 126, 1310724}
+, 
+{"dic_dun02", 16586, 300, 3278885, "Antler Scaraba", "ANTLER_SCARABA", 136, 2752772}
+, 
+{"dic_dun02", 16587, 300, 2951206, "Rake Horn Scaraba", "RAKE_SCARABA", 139, 2752772}
+, 
+{"dic_dun02", 16588, 300, 985130, "Antler Scaraba Egg", "ANTLER_SCARABA_EGG", 127, 1310724}
+, 
+{"dic_dun02", 16589, 300, 985131, "Rake Horn Scaraba Egg", "RAKE_SCARABA_EGG", 128, 1310724}
+, 
+{"dic_dun02", 16590, 301, 67623, "Queen Scaraba", "QUEEN_SCARABA", 140, 4063748}
+, 
+{"dic_dun03", 16591, 300, 657526, "Uni-horn Scaraba Egg", "I_HORN_SCARABA_EGG", 125, 1441796}
+, 
+{"dic_dun03", 16592, 300, 657527, "Horn Scaraba Egg", "I_HORN_SCARABA2_EGG", 126, 1441796}
+, 
+{"dic_dun03", 16593, 300, 657528, "Antler Scaraba Egg ", "I_ANTLER_SCARABA_EGG", 127, 1441796}
+, 
+{"dic_dun03", 16594, 300, 657529, "Rake Horn Scaraba Egg ", "I_RAKE_SCARABA_EGG", 128, 1441796}
+, 
+{"dic_dun03", 16595, 300, 1968241, "Uni-horn Scaraba ", "I_HORN_SCARABA", 130, 1441796}
+, 
+{"dic_dun03", 16596, 300, 1968242, "Horn Scaraba", "I_HORN_SCARABA2", 134, 1441796}
+, 
+{"dic_dun03", 16597, 300, 2623603, "Antler Scaraba", "I_ANTLER_SCARABA", 136, 2752772}
+, 
+{"dic_dun03", 16598, 300, 2623604, "Rake Horn Scaraba", "I_RAKE_SCARABA", 139, 2752772}
+, 
+{"dic_dun03", 16599, 301, 67701, "Queen Scaraba", "I_QUEEN_SCARABA", 140, 4063748}
+, 
+{"dic_fild01", 16600, 300, 3934147, "Centipede", "CENTIPEDE", 125, 2949380}
+, 
+{"dic_fild01", 16601, 300, 1968079, "Centipede Larva", "CENTIPEDE_LARVA", 118, 1638404}
+, 
+{"dic_fild01", 16602, 300, 1640386, "Tatacho", "TATACHO", 128, 1442050}
+, 
+{"dic_fild01", 16603, 300, 1312812, "Dolomedes", "DOLOMEDES", 132, 3998212}
+, 
+{"dic_fild02", 16604, 300, 198632, "Bradium Golem", "BRADIUM_GOLEM", 133, 2753024}
+, 
+{"dic_fild02", 16605, 300, 2295747, "Centipede", "CENTIPEDE", 125, 2949380}
+, 
+{"dic_fild02", 16606, 300, 657359, "Centipede Larva", "CENTIPEDE_LARVA", 118, 1638404}
+, 
+{"dic_fild02", 16607, 300, 1640386, "Tatacho", "TATACHO", 128, 1442050}
+, 
+{"dic_fild02", 16608, 300, 5244972, "Dolomedes", "DOLOMEDES", 132, 3998212}
+, 
+{"ein_dun01", 17648, 300, 67153, "Waste Stove", "WASTE_STOVE", 92, 1311232}
+, 
+{"ein_dun01", 17649, 300, 1967700, "Noxious", "NOXIOUS", 87, 4456704}
+, 
+{"ein_dun01", 17650, 300, 656981, "Venomous", "VENOMOUS", 87, 1638656}
+, 
+{"ein_dun01", 17651, 300, 1967699, "Porcellio", "PORCELLIO", 85, 4063236}
+, 
+{"ein_dun01", 17652, 300, 4589136, "Pitman", "PITMAN", 90, 2753025}
+, 
+{"ein_dun01", 18305, 300, 67154, "Ungoliant", "UNGOLIANT", 94, 2949636}
+, 
+{"ein_dun02", 17653, 300, 1967697, "Waste Stove", "WASTE_STOVE", 92, 1311232}
+, 
+{"ein_dun02", 17654, 300, 1967702, "Teddy Bear", "TEDDY_BEAR", 91, 3932160}
+, 
+{"ein_dun02", 17655, 300, 3278414, "Mineral", "MINERAL", 96, 2621440}
+, 
+{"ein_dun02", 17656, 300, 2623055, "Obsidian", "OBSIDIAN", 97, 2752512}
+, 
+{"ein_dun02", 18093, 301, 67159, "RSX-0806", "RSX_0806", 100, 3932672}
+, 
+{"ein_fild02", 18303, 300, 67154, "Ungoliant", "UNGOLIANT", 94, 2949636}
+, 
+{"ein_fild03", 16908, 300, 6555222, "Teddy Bear", "TEDDY_BEAR", 91, 3932160}
+, 
+{"ein_fild03", 16909, 300, 1312341, "Venomous", "VENOMOUS", 87, 1638656}
+, 
+{"ein_fild03", 16910, 300, 1312340, "Noxious", "NOXIOUS", 87, 4456704}
+, 
+{"ein_fild03", 16911, 300, 1312336, "Pitman", "PITMAN", 90, 2753025}
+, 
+{"ein_fild03", 18586, 300, 984121, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ein_fild03", 18587, 300, 984120, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"ein_fild04", 16912, 300, 6555221, "Venomous", "VENOMOUS", 87, 1638656}
+, 
+{"ein_fild04", 16913, 300, 1967700, "Noxious", "NOXIOUS", 87, 4456704}
+, 
+{"ein_fild04", 16914, 300, 656976, "Pitman", "PITMAN", 90, 2753025}
+, 
+{"ein_fild04", 16915, 300, 1312342, "Teddy Bear", "TEDDY_BEAR", 91, 3932160}
+, 
+{"ein_fild04", 18198, 300, 984418, "Demon Pungus", "DEMON_PUNGUS", 91, 4259846}
+, 
+{"ein_fild04", 18588, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ein_fild04", 18589, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ein_fild04", 18590, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"ein_fild05", 16916, 300, 6555220, "Noxious", "NOXIOUS", 87, 4456704}
+, 
+{"ein_fild05", 16917, 300, 1967701, "Venomous", "VENOMOUS", 87, 1638656}
+, 
+{"ein_fild05", 16918, 300, 656976, "Pitman", "PITMAN", 90, 2753025}
+, 
+{"ein_fild05", 16919, 300, 1312342, "Teddy Bear", "TEDDY_BEAR", 91, 3932160}
+, 
+{"ein_fild05", 18199, 300, 984418, "Demon Pungus", "DEMON_PUNGUS", 91, 4259846}
+, 
+{"ein_fild06", 16920, 300, 6555228, "Holden", "MOLE", 85, 2752514}
+, 
+{"ein_fild06", 16921, 300, 1967693, "Metaling", "METALING", 81, 1310720}
+, 
+{"ein_fild06", 18591, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ein_fild06", 18592, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ein_fild07", 16922, 300, 5899853, "Metaling", "METALING", 81, 1310720}
+, 
+{"ein_fild07", 16923, 300, 656988, "Holden", "MOLE", 85, 2752514}
+, 
+{"ein_fild07", 16924, 300, 1967699, "Porcellio", "PORCELLIO", 85, 4063236}
+, 
+{"ein_fild07", 18243, 300, 656445, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"ein_fild07", 18304, 300, 67154, "Ungoliant", "UNGOLIANT", 94, 2949636}
+, 
+{"ein_fild07", 18593, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ein_fild07", 18594, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ein_fild08", 16925, 300, 6555213, "Metaling", "METALING", 81, 1310720}
+, 
+{"ein_fild08", 16926, 300, 1967699, "Porcellio", "PORCELLIO", 85, 4063236}
+, 
+{"ein_fild08", 18244, 300, 656445, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"ein_fild08", 18595, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ein_fild08", 18596, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ein_fild09", 16927, 300, 4589139, "Porcellio", "PORCELLIO", 85, 4063236}
+, 
+{"ein_fild09", 16928, 300, 1967693, "Metaling", "METALING", 81, 1310720}
+, 
+{"ein_fild09", 18245, 300, 656445, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"ein_fild09", 18597, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ein_fild09", 18598, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ein_fild10", 18599, 300, 1311798, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ein_fild10", 18600, 300, 1311801, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ein_fild10", 18601, 300, 1311799, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gef_dun00", 17376, 300, 394300, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"gef_dun00", 17377, 300, 66617, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"gef_dun00", 17378, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"gef_dun00", 17379, 300, 787510, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"gef_dun00", 17380, 300, 66616, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gef_dun00", 17381, 300, 1639477, "Poison Spore", "POISON_SPORE", 26, 1638659}
+, 
+{"gef_dun00", 17382, 300, 984071, "Poporing", "POPORING", 30, 1638659}
+, 
+{"gef_dun00", 17383, 300, 1967115, "Hunter Fly", "HUNTER_FLY", 63, 2883588}
+, 
+{"gef_dun01", 17384, 300, 328764, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"gef_dun01", 17385, 300, 2622476, "Ghoul", "GHOUL", 61, 3211521}
+, 
+{"gef_dun01", 17386, 300, 1967141, "Nightmare", "NIGHTMARE", 69, 4456966}
+, 
+{"gef_dun01", 17387, 300, 1311831, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"gef_dun01", 17388, 300, 2622570, "Jakk", "JAKK", 63, 2818304}
+, 
+{"gef_dun01", 17389, 300, 1639415, "Zombie", "ZOMBIE", 17, 1900801}
+, 
+{"gef_dun01", 17390, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gef_dun01", 17391, 300, 656442, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"gef_dun01", 18094, 301, 66925, "Dracula", "DRACULA", 75, 5702150}
+, 
+{"gef_dun02", 17392, 300, 656396, "Ghoul", "GHOUL", 61, 3211521}
+, 
+{"gef_dun02", 17393, 300, 1311781, "Nightmare", "NIGHTMARE", 69, 4456966}
+, 
+{"gef_dun02", 17394, 300, 2950229, "Deviruchi", "DEVIRUCHI", 93, 1769478}
+, 
+{"gef_dun02", 17395, 300, 1967223, "Marionette", "MARIONETTE", 90, 4456454}
+, 
+{"gef_dun02", 17396, 300, 132155, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"gef_dun02", 17397, 300, 1311899, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"gef_dun02", 17398, 300, 787514, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"gef_dun02", 17399, 300, 656395, "Hunter Fly", "HUNTER_FLY", 63, 2883588}
+, 
+{"gef_dun02", 18095, 301, 66582, "Doppelganger", "DOPPELGANGER", 77, 4391174}
+, 
+{"gef_dun03", 17400, 300, 132363, "Wraith Dead", "WRAITH_DEAD", 86, 5833217}
+, 
+{"gef_dun03", 17401, 300, 525480, "Wraith", "WRAITH", 77, 5833217}
+, 
+{"gef_dun03", 17402, 300, 197691, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"gef_dun03", 17403, 300, 197871, "Wind Ghost", "WIND_GHOST", 80, 4194566}
+, 
+{"gef_dun03", 17404, 300, 656442, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"gef_dun03", 18195, 300, 67162, "Hellion Revenant", "G_DARK_PRIEST", 79, 4522246}
+, 
+{"gef_fild00", 16645, 300, 1967082, "Poring", "PORING", 1, 1376515}
+, 
+{"gef_fild00", 16646, 300, 1967087, "Fabre", "FABRE", 6, 1441796}
+, 
+{"gef_fild00", 16647, 300, 9176051, "Chonchon", "CHONCHON", 5, 1572868}
+, 
+{"gef_fild00", 18690, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gef_fild00", 18692, 300, 197688, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gef_fild01", 16676, 300, 5243892, "Roda Frog", "RODA_FROG", 13, 1376517}
+, 
+{"gef_fild01", 16677, 300, 1311814, "Ambernite", "AMBERNITE", 19, 1376772}
+, 
+{"gef_fild01", 18316, 300, 66625, "Toad", "TOAD", 27, 1376517}
+, 
+{"gef_fild01", 18634, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gef_fild02", 16741, 300, 1311751, "Poporing", "POPORING", 30, 1638659}
+, 
+{"gef_fild02", 16742, 300, 1311848, "Horn", "HORN", 32, 1442052}
+, 
+{"gef_fild02", 16743, 300, 1311753, "Elder Willow", "ELDER_WILOW", 34, 2818307}
+, 
+{"gef_fild02", 16744, 300, 9176144, "Coco", "COCO", 38, 1441794}
+, 
+{"gef_fild02", 18247, 300, 328765, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"gef_fild02", 18629, 300, 525368, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gef_fild02", 18630, 300, 132151, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gef_fild02", 18633, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"gef_fild03", 16763, 300, 1312406, "Orc Baby", "ORC_BABY", 43, 1441799}
+, 
+{"gef_fild03", 16764, 300, 3933183, "Orc Warrior", "ORK_WARRIOR", 44, 1442055}
+, 
+{"gef_fild03", 16765, 300, 8520953, "Orc Lady", "ORC_LADY", 45, 2752775}
+, 
+{"gef_fild03", 18324, 301, 66623, "Orc Hero", "ORK_HERO", 50, 2753031}
+, 
+{"gef_fild03", 18639, 300, 66616, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gef_fild04", 16686, 300, 8193020, "Mandragora", "MANDRAGORA", 13, 4063491}
+, 
+{"gef_fild04", 16687, 300, 1639463, "Lunatic", "LUNATIC", 3, 3932162}
+, 
+{"gef_fild04", 16688, 300, 1639407, "Fabre", "FABRE", 6, 1441796}
+, 
+{"gef_fild04", 16689, 300, 1639411, "Chonchon", "CHONCHON", 5, 1572868}
+, 
+{"gef_fild04", 18684, 300, 197688, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gef_fild05", 16712, 300, 656408, "Thief Bug Egg", "THIEF_BUG_EGG", 20, 1769476}
+, 
+{"gef_fild05", 16713, 300, 656411, "Thief Bug", "THIEF_BUG", 21, 3932164}
+, 
+{"gef_fild05", 16714, 300, 1311894, "Stainer", "STAINER", 21, 1572868}
+, 
+{"gef_fild05", 16715, 300, 9176058, "Creamy", "CREAMY", 23, 1572868}
+, 
+{"gef_fild05", 16716, 300, 1311776, "Smokie", "SMOKIE", 29, 1441794}
+, 
+{"gef_fild05", 18660, 300, 66614, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"gef_fild06", 16842, 300, 8520835, "Petite", "PETIT", 86, 1442057}
+, 
+{"gef_fild06", 16843, 300, 1967219, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"gef_fild06", 16844, 300, 1967117, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"gef_fild06", 18683, 300, 263227, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"gef_fild07", 16648, 300, 1311722, "Poring", "PORING", 1, 1376515}
+, 
+{"gef_fild07", 16649, 300, 8520688, "Pupa", "PUPA", 4, 1441796}
+, 
+{"gef_fild07", 16650, 300, 1311727, "Fabre", "FABRE", 6, 1441796}
+, 
+{"gef_fild07", 16651, 300, 1311731, "Chonchon", "CHONCHON", 5, 1572868}
+, 
+{"gef_fild07", 18686, 300, 197688, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gef_fild07", 18687, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"gef_fild07", 18688, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gef_fild08", 16845, 300, 8520836, "Flying Petite", "PETIT_", 79, 1573129}
+, 
+{"gef_fild08", 16846, 300, 1967219, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"gef_fild08", 16847, 300, 1967198, "Flora", "FLORA", 59, 1442307}
+, 
+{"gef_fild08", 18675, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gef_fild09", 16674, 300, 5243974, "Ambernite", "AMBERNITE", 19, 1376772}
+, 
+{"gef_fild09", 16675, 300, 1311732, "Roda Frog", "RODA_FROG", 13, 1376517}
+, 
+{"gef_fild09", 18248, 300, 66621, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"gef_fild09", 18635, 300, 197687, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gef_fild10", 16760, 300, 1312406, "Orc Baby", "ORC_BABY", 43, 1441799}
+, 
+{"gef_fild10", 16761, 300, 8520703, "Orc Warrior", "ORK_WARRIOR", 44, 1442055}
+, 
+{"gef_fild10", 16762, 300, 2622713, "Orc Lady", "ORC_LADY", 45, 2752775}
+, 
+{"gef_fild10", 18096, 301, 66726, "Orc Lord", "ORC_LORD", 55, 5374471}
+, 
+{"gef_fild10", 18636, 300, 197687, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gef_fild10", 18638, 300, 197688, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gef_fild11", 16766, 300, 3277922, "Goblin", "GOBLIN_1", 48, 1573127}
+, 
+{"gef_fild11", 16767, 300, 3277923, "Goblin", "GOBLIN_2", 44, 1507591}
+, 
+{"gef_fild11", 16768, 300, 3277924, "Goblin", "GOBLIN_3", 44, 1638663}
+, 
+{"gef_fild11", 16769, 300, 3277925, "Goblin", "GOBLIN_4", 49, 1442055}
+, 
+{"gef_fild11", 18186, 300, 66835, "Goblin Leader", "GOBLIN_LEADER", 55, 1573127}
+, 
+{"gefenia01", 17887, 300, 1312012, "Mini Demon", "MINI_DEMON", 117, 1769478}
+, 
+{"gefenia01", 17888, 300, 1967470, "Violy", "VIOLY", 118, 2621703}
+, 
+{"gefenia01", 17889, 300, 656730, "Succubus", "SUCCUBUS", 119, 4391174}
+, 
+{"gefenia01", 17890, 300, 656579, "Abysmal Knight", "KNIGHT_OF_ABYSS", 122, 5702151}
+, 
+{"gefenia01", 17891, 300, 656734, "Incubus", "INCUBUS", 120, 4391174}
+, 
+{"gefenia01", 17892, 300, 3933531, "Fake Angel", "FAKE_ANGEL", 105, 4325384}
+, 
+{"gefenia01", 18217, 300, 66739, "Mysteltainn", "MYSTELTAINN", 130, 5702144}
+, 
+{"gefenia01", 18223, 300, 66741, "Executioner", "EXECUTIONER", 101, 3080704}
+, 
+{"gefenia01", 18227, 300, 66740, "Tirfing", "TIRFING", 114, 4391168}
+, 
+{"gefenia01", 18310, 300, 66804, "Bloody Knight", "BLOODY_KNIGHT", 116, 5702144}
+, 
+{"gefenia02", 17893, 300, 1967372, "Mini Demon", "MINI_DEMON", 117, 1769478}
+, 
+{"gefenia02", 17894, 300, 2622830, "Violy", "VIOLY", 118, 2621703}
+, 
+{"gefenia02", 17895, 300, 1312090, "Succubus", "SUCCUBUS", 119, 4391174}
+, 
+{"gefenia02", 17896, 300, 656579, "Abysmal Knight", "KNIGHT_OF_ABYSS", 122, 5702151}
+, 
+{"gefenia02", 17897, 300, 656734, "Incubus", "INCUBUS", 120, 4391174}
+, 
+{"gefenia02", 17898, 300, 1967451, "Fake Angel", "FAKE_ANGEL", 105, 4325384}
+, 
+{"gefenia02", 18218, 300, 66739, "Mysteltainn", "MYSTELTAINN", 130, 5702144}
+, 
+{"gefenia02", 18224, 300, 66741, "Executioner", "EXECUTIONER", 101, 3080704}
+, 
+{"gefenia02", 18228, 300, 66740, "Tirfing", "TIRFING", 114, 4391168}
+, 
+{"gefenia02", 18311, 300, 66804, "Bloody Knight", "BLOODY_KNIGHT", 116, 5702144}
+, 
+{"gefenia03", 17899, 300, 1967372, "Mini Demon", "MINI_DEMON", 117, 1769478}
+, 
+{"gefenia03", 17900, 300, 2622830, "Violy", "VIOLY", 118, 2621703}
+, 
+{"gefenia03", 17901, 300, 656730, "Succubus", "SUCCUBUS", 119, 4391174}
+, 
+{"gefenia03", 17902, 300, 656579, "Abysmal Knight", "KNIGHT_OF_ABYSS", 122, 5702151}
+, 
+{"gefenia03", 17903, 300, 1312094, "Incubus", "INCUBUS", 120, 4391174}
+, 
+{"gefenia03", 17904, 300, 2622811, "Fake Angel", "FAKE_ANGEL", 105, 4325384}
+, 
+{"gefenia03", 18219, 300, 66739, "Mysteltainn", "MYSTELTAINN", 130, 5702144}
+, 
+{"gefenia03", 18225, 300, 66741, "Executioner", "EXECUTIONER", 101, 3080704}
+, 
+{"gefenia03", 18229, 300, 66740, "Tirfing", "TIRFING", 114, 4391168}
+, 
+{"gefenia03", 18312, 300, 66804, "Bloody Knight", "BLOODY_KNIGHT", 116, 5702144}
+, 
+{"gefenia04", 17905, 300, 1312012, "Mini Demon", "MINI_DEMON", 117, 1769478}
+, 
+{"gefenia04", 17906, 300, 1967470, "Violy", "VIOLY", 118, 2621703}
+, 
+{"gefenia04", 17907, 300, 656730, "Succubus", "SUCCUBUS", 119, 4391174}
+, 
+{"gefenia04", 17908, 300, 656579, "Abysmal Knight", "KNIGHT_OF_ABYSS", 122, 5702151}
+, 
+{"gefenia04", 17909, 300, 656734, "Incubus", "INCUBUS", 120, 4391174}
+, 
+{"gefenia04", 17910, 300, 1967451, "Fake Angel", "FAKE_ANGEL", 105, 4325384}
+, 
+{"gefenia04", 18220, 300, 66739, "Mysteltainn", "MYSTELTAINN", 130, 5702144}
+, 
+{"gefenia04", 18226, 300, 66741, "Executioner", "EXECUTIONER", 101, 3080704}
+, 
+{"gefenia04", 18230, 300, 66740, "Tirfing", "TIRFING", 114, 4391168}
+, 
+{"gefenia04", 18313, 300, 66804, "Bloody Knight", "BLOODY_KNIGHT", 116, 5702144}
+, 
+{"gl_cas01", 17832, 300, 1311980, "Dark Frame", "DARK_FRAME", 76, 4391174}
+, 
+{"gl_cas01", 17833, 300, 984235, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"gl_cas01", 17834, 300, 656641, "Sageworm", "SAGEWORM", 70, 3932162}
+, 
+{"gl_cas01", 17835, 300, 1312040, "Owl Duke", "OWL_DUKE", 92, 3932678}
+, 
+{"gl_cas01", 17836, 300, 394511, "Owl Baron", "OWL_BARON", 120, 3932678}
+, 
+{"gl_cas01", 17837, 300, 66811, "Alice", "ALICE", 100, 3932423}
+, 
+{"gl_cas01", 17838, 300, 656539, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"gl_cas01", 17839, 300, 3278067, "Carat", "CARAT", 103, 2883846}
+, 
+{"gl_cas02", 17840, 300, 1901739, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"gl_cas02", 17841, 300, 2360459, "Raydric", "RAYDRIC", 115, 3080711}
+, 
+{"gl_cas02", 17842, 300, 1311996, "Raydric Archer", "RAYDRIC_ARCHER", 82, 3080454}
+, 
+{"gl_cas02", 17843, 300, 132263, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"gl_cas02", 17844, 300, 2688184, "Wanderer", "WANDER_MAN", 120, 1573126}
+, 
+{"gl_cas02", 17845, 300, 459971, "Abysmal Knight", "KNIGHT_OF_ABYSS", 122, 5702151}
+, 
+{"gl_cas02", 17846, 300, 66811, "Alice", "ALICE", 100, 3932423}
+, 
+{"gl_cas02", 17847, 300, 66721, "Whisper", "WHISPER_", 34, 1835009}
+, 
+{"gl_cas02", 17848, 300, 590941, "Evil Druid", "EVIL_DRUID", 80, 5833217}
+, 
+{"gl_cas02", 17849, 300, 394348, "Khalitzburg", "KHALITZBURG", 118, 1901057}
+, 
+{"gl_cas02", 17850, 300, 197891, "Chimera", "CHIMERA", 70, 4129282}
+, 
+{"gl_cas02", 18221, 300, 66739, "Mysteltainn", "MYSTELTAINN", 130, 5702144}
+, 
+{"gl_cas02", 18231, 300, 66740, "Tirfing", "TIRFING", 114, 4391168}
+, 
+{"gl_cas02_", 18371, 300, 3934637, "WANDER MAN", "NG_WANDER_MAN", 151, 1573126}
+, 
+{"gl_cas02_", 18372, 300, 657838, "Cursed Book", "NG_RIDEWORD", 146, 3932160}
+, 
+{"gl_cas02_", 18373, 300, 1247663, "Cursed Box", "NG_MIMIC", 143, 3932416}
+, 
+{"gl_cas02_", 18376, 300, 66739, "Mysteltainn", "MYSTELTAINN", 130, 5702144}
+, 
+{"gl_cas02_", 18377, 300, 66721, "Whisper", "WHISPER_", 34, 1835009}
+, 
+{"gl_cas02_", 18379, 300, 68021, "CHIMERA", "NG_CHIMERA", 140, 4129282}
+, 
+{"gl_cas02_", 18381, 300, 264624, "EVIL DRUID", "NG_EVIL_DRUID", 134, 5833217}
+, 
+{"gl_cas02_", 18395, 301, 68019, "BAPHOMET", "NG_BAPHOMET", 154, 4391430}
+, 
+{"gl_cas02_", 18396, 300, 66811, "Alice", "ALICE", 100, 3932423}
+, 
+{"gl_church", 17544, 300, 3605672, "Wraith", "WRAITH", 77, 5833217}
+, 
+{"gl_church", 17545, 300, 591015, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"gl_church", 17546, 300, 3933277, "Evil Druid", "EVIL_DRUID", 80, 5833217}
+, 
+{"gl_church", 17548, 300, 66827, "Wraith Dead", "WRAITH_DEAD", 86, 5833217}
+, 
+{"gl_chyard", 17549, 300, 3933358, "Dark Priest", "DARK_PRIEST", 98, 5832966}
+, 
+{"gl_chyard", 17550, 300, 2294952, "Wraith", "WRAITH", 77, 5833217}
+, 
+{"gl_chyard", 17551, 300, 197799, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"gl_chyard", 17552, 300, 656477, "Evil Druid", "EVIL_DRUID", 80, 5833217}
+, 
+{"gl_chyard", 17553, 300, 197643, "Hunter Fly", "HUNTER_FLY", 63, 2883588}
+, 
+{"gl_chyard", 17554, 300, 66838, "Dark Illusion", "DARK_ILLUSION", 96, 5833222}
+, 
+{"gl_chyard", 18097, 301, 66808, "Dark Lord", "DARK_LORD", 96, 5833222}
+, 
+{"gl_chyard_", 18400, 300, 3934641, "WRAITH", "NG_WRAITH_DEAD", 110, 5833217}
+, 
+{"gl_chyard_", 18401, 300, 1639691, "Wraith Dead", "WRAITH_DEAD", 86, 5833217}
+, 
+{"gl_chyard_", 18402, 300, 985520, "EVIL DRUID", "NG_EVIL_DRUID", 134, 5833217}
+, 
+{"gl_chyard_", 18403, 300, 1509807, "Cursed Box", "NG_MIMIC", 143, 3932416}
+, 
+{"gl_chyard_", 18404, 301, 66808, "Dark Lord", "DARK_LORD", 96, 5833222}
+, 
+{"gl_dun01", 17724, 300, 2622647, "Sting", "STING", 104, 4063488}
+, 
+{"gl_dun01", 17725, 300, 3277994, "Arclouse", "ARCLOUSE", 107, 2752772}
+, 
+{"gl_dun02", 17726, 300, 984293, "Gargoyle", "GARGOYLE", 100, 4194566}
+, 
+{"gl_dun02", 17727, 300, 2950430, "Majoruros", "MAJORUROS", 107, 2818562}
+, 
+{"gl_in01", 17516, 300, 656620, "Dark Frame", "DARK_FRAME", 76, 4391174}
+, 
+{"gl_in01", 17517, 300, 525483, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"gl_in01", 17518, 300, 1311863, "Marionette", "MARIONETTE", 90, 4456454}
+, 
+{"gl_in01", 17519, 300, 66744, "Wanderer", "WANDER_MAN", 120, 1573126}
+, 
+{"gl_in01", 17520, 300, 918785, "Sageworm", "SAGEWORM", 70, 3932162}
+, 
+{"gl_in01", 17521, 300, 66811, "Alice", "ALICE", 100, 3932423}
+, 
+{"gl_knt01", 17851, 300, 787516, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"gl_knt01", 17852, 300, 1377451, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"gl_knt01", 17853, 300, 5899403, "Raydric", "RAYDRIC", 115, 3080711}
+, 
+{"gl_knt01", 17854, 300, 656636, "Raydric Archer", "RAYDRIC_ARCHER", 82, 3080454}
+, 
+{"gl_knt01", 17855, 300, 656579, "Abysmal Knight", "KNIGHT_OF_ABYSS", 122, 5702151}
+, 
+{"gl_knt01", 17856, 300, 66811, "Alice", "ALICE", 100, 3932423}
+, 
+{"gl_knt01", 17857, 300, 656492, "Khalitzburg", "KHALITZBURG", 118, 1901057}
+, 
+{"gl_knt01", 18137, 300, 66722, "Giant Whisper", "WHISPER_BOSS", 66, 3145734}
+, 
+{"gl_knt02", 17858, 300, 5244043, "Raydric", "RAYDRIC", 115, 3080711}
+, 
+{"gl_knt02", 17859, 300, 1967356, "Raydric Archer", "RAYDRIC_ARCHER", 82, 3080454}
+, 
+{"gl_knt02", 17860, 300, 394435, "Abysmal Knight", "KNIGHT_OF_ABYSS", 122, 5702151}
+, 
+{"gl_knt02", 17861, 300, 66811, "Alice", "ALICE", 100, 3932423}
+, 
+{"gl_knt02", 17862, 300, 2622572, "Khalitzburg", "KHALITZBURG", 118, 1901057}
+, 
+{"gl_knt02", 18222, 300, 66739, "Mysteltainn", "MYSTELTAINN", 130, 5702144}
+, 
+{"gl_knt02", 18314, 300, 66804, "Bloody Knight", "BLOODY_KNIGHT", 116, 5702144}
+, 
+{"gl_prison", 17677, 300, 984241, "Rybio", "RYBIO", 98, 2621958}
+, 
+{"gl_prison", 17678, 300, 1311977, "Injustice", "INJUSTICE", 95, 3080449}
+, 
+{"gl_prison", 17679, 300, 1967277, "Zombie Prisoner", "ZOMBIE_PRISONER", 89, 4522241}
+, 
+{"gl_prison", 17680, 300, 656395, "Hunter Fly", "HUNTER_FLY", 63, 2883588}
+, 
+{"gl_prison1", 17681, 300, 656561, "Rybio", "RYBIO", 98, 2621958}
+, 
+{"gl_prison1", 17682, 300, 1967276, "Skel Prisoner", "SKEL_PRISONER", 91, 4522241}
+, 
+{"gl_prison1", 17683, 300, 2622697, "Injustice", "INJUSTICE", 95, 3080449}
+, 
+{"gl_prison1", 17684, 300, 328889, "Cramp", "CRAMP", 82, 2949122}
+, 
+{"gl_prison1", 17685, 300, 656562, "Phen Dark", "PHENDARK", 102, 2621959}
+, 
+{"gl_prison1", 17686, 300, 656395, "Hunter Fly", "HUNTER_FLY", 63, 2883588}
+, 
+{"gl_prison1", 18306, 300, 66736, "Zealotus", "ZHERLTHSH", 105, 3932423}
+, 
+{"gl_sew01", 17728, 300, 1967333, "Gargoyle", "GARGOYLE", 100, 4194566}
+, 
+{"gl_sew01", 17729, 300, 656554, "Arclouse", "ARCLOUSE", 107, 2752772}
+, 
+{"gl_sew01", 17730, 300, 2622619, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"gl_sew02", 17731, 300, 3605733, "Gargoyle", "GARGOYLE", 100, 4194566}
+, 
+{"gl_sew02", 17732, 300, 984249, "Cramp", "CRAMP", 82, 2949122}
+, 
+{"gl_sew03", 17733, 300, 2622693, "Gargoyle", "GARGOYLE", 100, 4194566}
+, 
+{"gl_sew03", 17734, 300, 4588727, "Sting", "STING", 104, 4063488}
+, 
+{"gl_sew04", 17735, 300, 1311973, "Gargoyle", "GARGOYLE", 100, 4194566}
+, 
+{"gl_sew04", 17736, 300, 656471, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"gl_sew04", 17737, 300, 6554806, "Anolian", "ANOLIAN", 109, 2687237}
+, 
+{"gl_step", 17522, 300, 656636, "Raydric Archer", "RAYDRIC_ARCHER", 82, 3080454}
+, 
+{"gl_step", 17523, 300, 328871, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"gl_step", 17524, 300, 6554863, "Wind Ghost", "WIND_GHOST", 80, 4194566}
+, 
+{"glast_01", 18057, 300, 656613, "Gargoyle", "GARGOYLE", 100, 4194566}
+, 
+{"glast_01", 18058, 300, 132291, "Abysmal Knight", "KNIGHT_OF_ABYSS", 122, 5702151}
+, 
+{"glast_01", 18059, 300, 525368, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"glast_01", 18060, 300, 132151, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"gon_dun01", 17618, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"gon_dun01", 17619, 300, 328758, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"gon_dun01", 17620, 300, 2295170, "Live Peach Tree", "LIVE_PEACH_TREE", 92, 2752771}
+, 
+{"gon_dun01", 17621, 300, 1967497, "Zipper Bear", "ZIPPER_BEAR", 90, 1769730}
+, 
+{"gon_dun01", 17622, 300, 656442, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"gon_dun01", 17623, 300, 3605888, "Bloody Butterfly", "BLOOD_BUTTERFLY", 94, 2883844}
+, 
+{"gon_dun02", 17624, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"gon_dun02", 17625, 300, 1377666, "Live Peach Tree", "LIVE_PEACH_TREE", 92, 2752771}
+, 
+{"gon_dun02", 17626, 300, 394631, "Baby Leopard", "BABY_LEOPARD", 68, 1835010}
+, 
+{"gon_dun02", 17627, 300, 1312132, "Evil Cloud Hermit", "EVIL_CLOUD_HERMIT", 96, 2621952}
+, 
+{"gon_dun02", 17628, 300, 1312128, "Bloody Butterfly", "BLOOD_BUTTERFLY", 94, 2883844}
+, 
+{"gon_dun03", 17629, 300, 1312133, "Wild Ginseng", "WILD_GINSENG", 90, 2818051}
+, 
+{"gon_dun03", 17630, 300, 3278216, "Wicked Nymph", "WICKED_NYMPH", 97, 4391174}
+, 
+{"gon_dun03", 17631, 300, 1967492, "Evil Cloud Hermit", "EVIL_CLOUD_HERMIT", 96, 2621952}
+, 
+{"gon_dun03", 17632, 300, 656442, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"gon_dun03", 18098, 301, 66954, "Dark Snake Lord", "DARK_SNAKE_LORD", 105, 4456962}
+, 
+{"gon_fild01", 16994, 300, 3605889, "Rice Cake Boy", "RICE_CAKE_BOY", 60, 1310727}
+, 
+{"gon_fild01", 16995, 300, 2622855, "Baby Leopard", "BABY_LEOPARD", 68, 1835010}
+, 
+{"gon_fild01", 16996, 300, 656397, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"gon_fild01", 18619, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"gon_fild01", 18620, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"hu_fild01", 16890, 300, 6555315, "Novus", "NOVUS", 90, 1310729}
+, 
+{"hu_fild01", 16891, 300, 2295478, "Novus", "NOVUS_", 84, 1310729}
+, 
+{"hu_fild01", 16892, 300, 656728, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"hu_fild01", 16893, 300, 657081, "Dragon Egg", "DRAGON_EGG", 119, 2621705}
+, 
+{"hu_fild02", 16894, 300, 6555315, "Novus", "NOVUS", 90, 1310729}
+, 
+{"hu_fild02", 16895, 300, 1967798, "Novus", "NOVUS_", 84, 1310729}
+, 
+{"hu_fild02", 16896, 300, 1967448, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"hu_fild02", 16897, 300, 1312441, "Dragon Egg", "DRAGON_EGG", 119, 2621705}
+, 
+{"hu_fild02", 18194, 300, 197867, "Gryphon", "GRYPHON", 105, 5505538}
+, 
+{"hu_fild04", 16898, 300, 6555318, "Novus", "NOVUS_", 84, 1310729}
+, 
+{"hu_fild04", 16899, 300, 1967795, "Novus", "NOVUS", 90, 1310729}
+, 
+{"hu_fild04", 16900, 300, 1312441, "Dragon Egg", "DRAGON_EGG", 119, 2621705}
+, 
+{"hu_fild04", 16901, 300, 1967448, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"hu_fild04", 18609, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"hu_fild04", 18610, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"hu_fild04", 18611, 300, 263223, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"hu_fild05", 16902, 300, 8521398, "Novus", "NOVUS_", 84, 1310729}
+, 
+{"hu_fild05", 16903, 300, 2295475, "Novus", "NOVUS", 90, 1310729}
+, 
+{"hu_fild05", 16904, 300, 1312441, "Dragon Egg", "DRAGON_EGG", 119, 2621705}
+, 
+{"hu_fild06", 16905, 300, 3277874, "Shellfish", "SHELLFISH", 50, 1376261}
+, 
+{"hu_fild06", 16906, 300, 1311793, "Crab", "CRAB", 43, 1376261}
+, 
+{"hu_fild06", 16907, 300, 1311986, "Aster", "ASTER", 50, 1441797}
+, 
+{"hu_fild06", 18613, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"hu_fild06", 18614, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"hu_fild07", 18615, 300, 1311801, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ice_dun01", 17711, 300, 132850, "Gazeti", "GAZETI", 106, 1376518}
+, 
+{"ice_dun01", 17712, 300, 329462, "Roween", "ROWEEN", 95, 1573122}
+, 
+{"ice_dun01", 17713, 300, 329460, "Muscipular", "MUSCIPULAR", 105, 1442051}
+, 
+{"ice_dun01", 17714, 300, 4916976, "Siroma", "SIROMA", 98, 3997696}
+, 
+{"ice_dun02", 17715, 300, 984818, "Gazeti", "GAZETI", 106, 1376518}
+, 
+{"ice_dun02", 17716, 300, 1246973, "Iceicle", "ICEICLE", 100, 2686976}
+, 
+{"ice_dun02", 17717, 300, 4589295, "Snowier", "SNOWIER", 103, 2687488}
+, 
+{"ice_dun02", 17718, 300, 1967856, "Siroma", "SIROMA", 98, 3997696}
+, 
+{"ice_dun02", 17719, 300, 460529, "Ice Titan", "ICE_TITAN", 110, 3998208}
+, 
+{"ice_dun02", 19586, 300, 67613, "Shadow of Illusion", "S_SKOGUL", 105, 4391174}
+, 
+{"ice_dun03", 17720, 300, 2754290, "Gazeti", "GAZETI", 106, 1376518}
+, 
+{"ice_dun03", 17721, 300, 2098941, "Iceicle", "ICEICLE", 100, 2686976}
+, 
+{"ice_dun03", 17722, 300, 984815, "Snowier", "SNOWIER", 103, 2687488}
+, 
+{"ice_dun03", 17723, 300, 4589297, "Ice Titan", "ICE_TITAN", 110, 3998208}
+, 
+{"in_sphinx1", 17525, 300, 2622551, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"in_sphinx1", 17526, 300, 1311884, "Requiem", "REQUIEM", 71, 1769735}
+, 
+{"in_sphinx1", 17527, 300, 656506, "Matyr", "MATYR", 58, 1769730}
+, 
+{"in_sphinx1", 17528, 300, 1311898, "Zerom", "ZEROM", 70, 1507591}
+, 
+{"in_sphinx2", 17529, 300, 984151, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"in_sphinx2", 17530, 300, 3277964, "Requiem", "REQUIEM", 71, 1769735}
+, 
+{"in_sphinx2", 17531, 300, 1311866, "Matyr", "MATYR", 58, 1769730}
+, 
+{"in_sphinx2", 17532, 300, 3277978, "Zerom", "ZEROM", 70, 1507591}
+, 
+{"in_sphinx3", 17533, 300, 4260980, "Marduk", "MARDUK", 73, 1507847}
+, 
+{"in_sphinx3", 17534, 300, 984186, "Matyr", "MATYR", 58, 1769730}
+, 
+{"in_sphinx3", 17535, 300, 328871, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"in_sphinx3", 17536, 300, 328834, "Pasana", "PASANA", 79, 2818311}
+, 
+{"in_sphinx4", 17537, 300, 3277949, "Minorous", "MINOROUS", 58, 2818562}
+, 
+{"in_sphinx4", 17538, 300, 263335, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"in_sphinx4", 17539, 300, 1311874, "Pasana", "PASANA", 79, 2818311}
+, 
+{"in_sphinx4", 18214, 300, 984138, "Anubis", "ANUBIS", 105, 3211783}
+, 
+{"in_sphinx5", 17540, 300, 656506, "Matyr", "MATYR", 58, 1769730}
+, 
+{"in_sphinx5", 17541, 300, 459943, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"in_sphinx5", 17542, 300, 1311757, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"in_sphinx5", 17543, 300, 4588674, "Pasana", "PASANA", 79, 2818311}
+, 
+{"in_sphinx5", 18099, 301, 66693, "Pharaoh", "PHARAOH", 85, 4391431}
+, 
+{"in_sphinx5", 18215, 300, 656458, "Anubis", "ANUBIS", 105, 3211783}
+, 
+{"iz_dun00", 17299, 300, 328764, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"iz_dun00", 17300, 300, 2950261, "Marina", "MARINA", 42, 2686979}
+, 
+{"iz_dun00", 17301, 300, 984106, "Vadon", "VADON", 45, 1376261}
+, 
+{"iz_dun00", 17302, 300, 984110, "Kukre", "KUKRE", 42, 1376261}
+, 
+{"iz_dun00", 17303, 300, 4261001, "Plankton", "PLANKTON", 40, 3997699}
+, 
+{"iz_dun00", 17304, 300, 984108, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"iz_dun01", 17305, 300, 656444, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"iz_dun01", 17306, 300, 984181, "Marina", "MARINA", 42, 2686979}
+, 
+{"iz_dun01", 17307, 300, 3933226, "Vadon", "VADON", 45, 1376261}
+, 
+{"iz_dun01", 17308, 300, 984107, "Cornutus", "CORNUTUS", 48, 1376261}
+, 
+{"iz_dun01", 17309, 300, 3277870, "Kukre", "KUKRE", 42, 1376261}
+, 
+{"iz_dun01", 17310, 300, 656521, "Plankton", "PLANKTON", 40, 3997699}
+, 
+{"iz_dun01", 17311, 300, 1967148, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"iz_dun02", 17312, 300, 984124, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"iz_dun02", 17313, 300, 2622584, "Marse", "MARSE", 47, 2686981}
+, 
+{"iz_dun02", 17314, 300, 66800, "Merman", "MERMAN", 60, 3997959}
+, 
+{"iz_dun02", 17315, 300, 2622484, "Obeaune", "OBEAUNE", 53, 2687237}
+, 
+{"iz_dun02", 17316, 300, 3933227, "Cornutus", "CORNUTUS", 48, 1376261}
+, 
+{"iz_dun02", 17317, 300, 2622508, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"iz_dun03", 17318, 300, 2622485, "Marc", "MARC", 56, 2687237}
+, 
+{"iz_dun03", 17319, 300, 1311862, "Marine Sphere", "MARINE_SPHERE", 51, 2686979}
+, 
+{"iz_dun03", 17320, 300, 197872, "Merman", "MERMAN", 60, 3997959}
+, 
+{"iz_dun03", 17321, 300, 2622509, "Sword Fish", "SWORD_FISH", 57, 2687493}
+, 
+{"iz_dun03", 17322, 300, 2950278, "Phen", "PHEN", 52, 2687237}
+, 
+{"iz_dun03", 17323, 300, 66604, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"iz_dun04", 17353, 300, 197716, "Deviace", "DEVIACE", 60, 5308677}
+, 
+{"iz_dun04", 17354, 300, 656502, "Marine Sphere", "MARINE_SPHERE", 51, 2686979}
+, 
+{"iz_dun04", 17355, 300, 3409136, "Merman", "MERMAN", 60, 3997959}
+, 
+{"iz_dun04", 17356, 300, 656429, "Sword Fish", "SWORD_FISH", 57, 2687493}
+, 
+{"iz_dun04", 17357, 300, 3277865, "Strouf", "STROUF", 61, 3998213}
+, 
+{"iz_dun04", 17358, 300, 66604, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"iz_dun05", 16565, 300, 3279001, "Sropho", "SROPHO", 110, 2687237}
+, 
+{"iz_dun05", 16566, 300, 3934364, "Sedora", "SEDORA", 113, 2687237}
+, 
+{"iz_dun05", 16567, 300, 1968283, "Pot Dofle", "POT_DOFLE", 115, 2686981}
+, 
+{"iz_dun05", 16568, 300, 1640598, "King Dramoh", "KING_DRAMOH", 117, 2687493}
+, 
+{"iz_dun05", 16569, 301, 67738, "Kraken", "KRAKEN", 124, 5308933}
+, 
+{"jawaii_in", 18246, 300, 66621, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"jupe_core", 17811, 300, 2623110, "Dimik", "DIMIK_1", 116, 2883840}
+, 
+{"jupe_core", 17812, 300, 2623111, "Dimik", "DIMIK_2", 116, 2687232}
+, 
+{"jupe_core", 17813, 300, 2623112, "Dimik", "DIMIK_3", 116, 2752768}
+, 
+{"jupe_core", 17814, 300, 2623113, "Dimik", "DIMIK_4", 116, 2818304}
+, 
+{"jupe_core", 17815, 300, 1640076, "Venatu", "VENATU_1", 113, 2621696}
+, 
+{"jupe_core", 17816, 300, 1640077, "Venatu", "VENATU_2", 113, 2883840}
+, 
+{"jupe_core", 17817, 300, 1640078, "Venatu", "VENATU_3", 113, 2752768}
+, 
+{"jupe_core", 17818, 300, 2623108, "Archdam", "ARCHDAM", 119, 3932679}
+, 
+{"jupe_core", 18100, 301, 67221, "Vesper", "APOCALIPS_H", 128, 3015170}
+, 
+{"jupe_core2", 19495, 300, 6555269, "Dimik", "DIMIK", 77, 2621696}
+, 
+{"juperos_01", 17819, 300, 657030, "Dimik", "DIMIK_1", 116, 2883840}
+, 
+{"juperos_01", 17820, 300, 329351, "Dimik", "DIMIK_2", 116, 2687232}
+, 
+{"juperos_01", 17821, 300, 329352, "Dimik", "DIMIK_3", 116, 2752768}
+, 
+{"juperos_01", 17822, 300, 329353, "Dimik", "DIMIK_4", 116, 2818304}
+, 
+{"juperos_01", 17823, 300, 4589196, "Venatu", "VENATU_1", 113, 2621696}
+, 
+{"juperos_01", 17824, 300, 4589197, "Venatu", "VENATU_2", 113, 2883840}
+, 
+{"juperos_01", 17825, 300, 4589198, "Venatu", "VENATU_3", 113, 2752768}
+, 
+{"juperos_01", 17826, 300, 3278479, "Venatu", "VENATU_4", 113, 2687232}
+, 
+{"juperos_02", 17827, 300, 4261516, "Venatu", "VENATU_1", 113, 2621696}
+, 
+{"juperos_02", 17828, 300, 4261517, "Venatu", "VENATU_2", 113, 2883840}
+, 
+{"juperos_02", 17829, 300, 4261518, "Venatu", "VENATU_3", 113, 2752768}
+, 
+{"juperos_02", 17830, 300, 3278479, "Venatu", "VENATU_4", 113, 2687232}
+, 
+{"juperos_02", 17831, 300, 4588885, "Apocalypse", "APOCALIPS", 121, 3932672}
+, 
+{"kh_dun01", 17754, 300, 198343, "Alicel", "ALICEL", 115, 3932422}
+, 
+{"kh_dun01", 17755, 300, 1639675, "Alice", "ALICE", 100, 3932423}
+, 
+{"kh_dun01", 17756, 300, 198344, "Aliot", "ALIOT", 112, 3932422}
+, 
+{"kh_dun01", 17757, 300, 2950857, "Aliza", "ALIZA", 112, 3932423}
+, 
+{"kh_dun01", 17758, 300, 526026, "Constant", "CONSTANT", 108, 4390912}
+, 
+{"kh_dun01", 17759, 300, 329425, "Constant", "G_CONSTANT", 108, 4390918}
+, 
+{"kh_dun02", 17760, 300, 1967815, "Alicel", "ALICEL", 115, 3932422}
+, 
+{"kh_dun02", 17761, 300, 1640136, "Aliot", "ALIOT", 112, 3932422}
+, 
+{"kh_dun02", 17762, 300, 657097, "Aliza", "ALIZA", 112, 3932423}
+, 
+{"kh_dun02", 17763, 300, 984778, "Constant", "CONSTANT", 108, 4390912}
+, 
+{"kh_dun02", 17764, 300, 329425, "Constant", "G_CONSTANT", 108, 4390918}
+, 
+{"kh_dun02", 18101, 301, 67270, "Kiel-D-01", "KIEL_", 125, 3080448}
+, 
+{"lasa_dun01", 18405, 300, 1969581, "Trans Spore", "DR_SPORE", 18, 1376515}
+, 
+{"lasa_dun01", 18406, 300, 3935662, "Scout Basilisk", "DR_BASILISK1", 20, 1442050}
+, 
+{"lasa_dun01", 18407, 301, 69041, "Big Eggring", "DR_BIG_EGGRING", 25, 4063491}
+, 
+{"lasa_dun02", 18408, 300, 3935663, "Combat Basilisk", "DR_BASILISK2", 140, 2752770}
+, 
+{"lasa_dun02", 18409, 300, 1969586, "Jungle Mandragora", "DR_MANDRAGORA", 144, 4063491}
+, 
+{"lasa_dun03", 18410, 300, 7212464, "Combat Basilisk", "DR_BASILISK3", 148, 2752770}
+, 
+{"lasa_dun03", 18411, 300, 3935667, "Fruits Pom Spider", "DR_POM_SPIDER", 150, 4063492}
+, 
+{"lasa_dun_q", 11150, 300, 1969581, "Trans Spore", "DR_SPORE", 18, 1376515}
+, 
+{"lasa_dun_q", 11151, 300, 4591022, "Scout Basilisk", "DR_BASILISK1", 20, 1442050}
+, 
+{"lasa_fild01", 11189, 300, 3277878, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"lasa_fild01", 18412, 300, 331175, "Eggring", "DR_EGGRING", 1, 1442051}
+, 
+{"lasa_fild01", 18415, 300, 134569, "Grass Fabre", "DR_FABRE", 7, 1441796}
+, 
+{"lasa_fild01", 18418, 300, 134568, "Leaf Lunatic", "DR_LUNATIC", 3, 3932162}
+, 
+{"lasa_fild02", 18424, 300, 5901738, "Wild Hornet", "DR_HORNET", 11, 1572868}
+, 
+{"lasa_fild02", 18425, 300, 6557099, "Sweet Roda Frog", "DR_RODA_FROG", 14, 1376517}
+, 
+{"lasa_fild02", 18426, 300, 6557100, "Hunter Desert Wolf", "DR_DESERT_WOLF_B", 17, 1507330}
+, 
+{"lasa_fild02", 18427, 300, 658862, "Scout Basilisk", "DR_BASILISK1", 20, 1442050}
+, 
+{"lhz_dun01", 18032, 300, 722553, "Laurell Weinder", "RAWREL", 133, 3145991}
+, 
+{"lhz_dun01", 18033, 300, 6555282, "Remover", "REMOVAL", 121, 3211521}
+, 
+{"lhz_dun01", 18034, 300, 3278413, "Metaling", "METALING", 81, 1310720}
+, 
+{"lhz_dun01", 18035, 300, 525942, "Armeyer Dinze", "ARMAIA", 134, 4063495}
+, 
+{"lhz_dun01", 18036, 300, 4589147, "Anopheles", "ANOPHELES", 95, 4194308}
+, 
+{"lhz_dun01", 18037, 300, 525940, "Egnigem Cenia", "YGNIZEM", 136, 2818311}
+, 
+{"lhz_dun01", 18038, 300, 853623, "Errende Ebecee", "EREND", 133, 3014919}
+, 
+{"lhz_dun01", 18039, 300, 67217, "Gemini", "GEMINI", 135, 1376512}
+, 
+{"lhz_dun01", 18040, 300, 853624, "Kavach Icarus", "KAVAC", 135, 2883847}
+, 
+{"lhz_dun01", 18041, 300, 722549, "Wickebine Tres", "WHIKEBAIN", 132, 4260103}
+, 
+{"lhz_dun02", 18042, 300, 3278457, "Laurell Weinder", "RAWREL", 133, 3145991}
+, 
+{"lhz_dun02", 18043, 300, 1312402, "Remover", "REMOVAL", 121, 3211521}
+, 
+{"lhz_dun02", 18044, 300, 3278454, "Armeyer Dinze", "ARMAIA", 134, 4063495}
+, 
+{"lhz_dun02", 18045, 300, 67171, "Eremes Guile", "EREMES", 140, 5570822}
+, 
+{"lhz_dun02", 18046, 300, 3278452, "Egnigem Cenia", "YGNIZEM", 136, 2818311}
+, 
+{"lhz_dun02", 18047, 300, 3278455, "Errende Ebecee", "EREND", 133, 3014919}
+, 
+{"lhz_dun02", 18048, 300, 657041, "Gemini", "GEMINI", 135, 1376512}
+, 
+{"lhz_dun02", 18049, 300, 3278456, "Kavach Icarus", "KAVAC", 135, 2883847}
+, 
+{"lhz_dun02", 18050, 300, 3278453, "Wickebine Tres", "WHIKEBAIN", 132, 4260103}
+, 
+{"lhz_dun02", 18102, 301, 67194, "Egnigem Cenia", "B_YGNIZEM", 141, 2818311}
+, 
+{"lhz_dun03", 18051, 300, 2754149, "Margaretha Sorin", "MAGALETA", 140, 4325639}
+, 
+{"lhz_dun03", 18052, 300, 2754146, "Seyren Windsor", "SEYREN", 142, 4129030}
+, 
+{"lhz_dun03", 18053, 300, 5310054, "Cecil Damon", "SHECIL", 141, 4194567}
+, 
+{"lhz_dun03", 18054, 300, 2754147, "Eremes Guile", "EREMES", 140, 5570822}
+, 
+{"lhz_dun03", 18055, 300, 3737191, "Kathryne Keyron", "KATRINN", 141, 4456711}
+, 
+{"lhz_dun03", 18056, 300, 2754148, "Howard Alt-Eisen", "HARWORD", 142, 5308679}
+, 
+{"lhz_dun03", 18188, 300, 67179, "High Priest Margaretha", "G_MAGALETA", 160, 5636359}
+, 
+{"lhz_dun03", 18189, 300, 67176, "Lord Knight Seyren", "G_SEYREN", 160, 5439751}
+, 
+{"lhz_dun03", 18190, 300, 67180, "Sniper Cecil", "G_SHECIL", 160, 5505287}
+, 
+{"lhz_dun03", 18191, 300, 67177, "Assassin Cross Eremes", "G_EREMES", 160, 5570823}
+, 
+{"lhz_dun03", 18192, 300, 67181, "High Wizard Kathryne", "G_KATRINN", 160, 4456711}
+, 
+{"lhz_dun03", 18193, 300, 67178, "MasterSmith Howard", "G_HARWORD", 160, 5374215}
+, 
+{"lhz_dun04", 18336, 300, 2754733, "Randel Lawrence", "RANDEL", 141, 4325639}
+, 
+{"lhz_dun04", 18337, 300, 2754734, "Flamel Emul", "FLAMEL", 141, 4129031}
+, 
+{"lhz_dun04", 18338, 300, 5310639, "Celia Alde", "CELIA", 141, 4456711}
+, 
+{"lhz_dun04", 18339, 300, 2754736, "Chen Liu", "CHEN", 141, 5308678}
+, 
+{"lhz_dun04", 18340, 300, 3737777, "Gertie Wie", "GERTIE", 141, 5570822}
+, 
+{"lhz_dun04", 18341, 300, 2754738, "Alphochio Basil", "ALPHOCCIO", 142, 4194567}
+, 
+{"lhz_dun04", 18342, 300, 2754739, "Trentini", "TRENTINI", 142, 4194567}
+, 
+{"lhz_dun04", 18343, 300, 67764, "Paladino Randel", "G_RANDEL", 160, 5636359}
+, 
+{"lhz_dun04", 18344, 300, 67765, "Criador Flamel", "G_FLAMEL", 160, 5439751}
+, 
+{"lhz_dun04", 18345, 300, 67766, "Professora Celia", "G_CELIA", 160, 4456711}
+, 
+{"lhz_dun04", 18346, 300, 67767, "Mestre Chen", "G_CHEN", 160, 5308679}
+, 
+{"lhz_dun04", 18347, 300, 67768, "Desordeiro Gertie", "G_GERTIE", 160, 5570823}
+, 
+{"lhz_dun04", 18348, 300, 67769, "Menestrel Alphochio", "G_ALPHOCCIO", 160, 5505287}
+, 
+{"lhz_dun04", 18349, 300, 67770, "Cigana Trentini", "G_TRENTINI", 160, 5505287}
+, 
+{"lhz_fild01", 16929, 300, 8520842, "Rafflesia", "RAFFLESIA", 86, 1441795}
+, 
+{"lhz_fild01", 16930, 300, 2294975, "Stem Worm", "STEM_WORM", 84, 1573123}
+, 
+{"lhz_fild01", 16931, 300, 2295373, "Metaling", "METALING", 81, 1310720}
+, 
+{"lhz_fild01", 18602, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"lhz_fild01", 18603, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"lhz_fild01", 18604, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"lhz_fild02", 16932, 300, 6554815, "Stem Worm", "STEM_WORM", 84, 1573123}
+, 
+{"lhz_fild02", 16933, 300, 2623132, "Breeze", "BREEZE", 92, 4194560}
+, 
+{"lhz_fild02", 16934, 300, 1311882, "Rafflesia", "RAFFLESIA", 86, 1441795}
+, 
+{"lhz_fild02", 16935, 300, 1312333, "Metaling", "METALING", 81, 1310720}
+, 
+{"lhz_fild02", 18196, 300, 984418, "Demon Pungus", "DEMON_PUNGUS", 91, 4259846}
+, 
+{"lhz_fild02", 18605, 300, 984121, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"lhz_fild02", 18606, 300, 984120, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"lhz_fild03", 16936, 300, 8521372, "Breeze", "BREEZE", 92, 4194560}
+, 
+{"lhz_fild03", 16937, 300, 1311935, "Stem Worm", "STEM_WORM", 84, 1573123}
+, 
+{"lhz_fild03", 16938, 300, 1311882, "Rafflesia", "RAFFLESIA", 86, 1441795}
+, 
+{"lhz_fild03", 16939, 300, 1312333, "Metaling", "METALING", 81, 1310720}
+, 
+{"lhz_fild03", 18197, 300, 984418, "Demon Pungus", "DEMON_PUNGUS", 91, 4259846}
+, 
+{"lhz_fild03", 18607, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"lhz_fild03", 18608, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"lhz_in01", 13503, 300, 66621, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"lou_dun01", 17589, 300, 328764, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"lou_dun01", 17590, 300, 984421, "Grizzly", "GRIZZLY", 66, 4129282}
+, 
+{"lou_dun01", 17591, 300, 328763, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"lou_dun01", 17592, 300, 656397, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"lou_dun01", 17593, 300, 984556, "Enchanted soil", "INCREASE_SOIL", 83, 4063488}
+, 
+{"lou_dun01", 17594, 300, 2950637, "Tiger Guised Fiend", "LI_ME_MANG_RYANG", 80, 4063494}
+, 
+{"lou_dun01", 17595, 300, 984169, "Horong", "HORONG", 66, 5439488}
+, 
+{"lou_dun01", 18130, 300, 66842, "Leib Olmai", "LEIB_OLMAI", 87, 1442306}
+, 
+{"lou_dun02", 17596, 300, 1639426, "Munak", "MUNAK", 58, 1900801}
+, 
+{"lou_dun02", 17597, 300, 328871, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"lou_dun02", 17598, 300, 329194, "Dancing Dragon", "DANCING_DRAGON", 82, 2883849}
+, 
+{"lou_dun02", 17599, 300, 2622952, "Hyegun", "HYEGUN", 87, 3211521}
+, 
+{"lou_dun03", 17600, 300, 984553, "Cat Official", "CIVIL_SERVANT", 89, 2883842}
+, 
+{"lou_dun03", 17601, 300, 1639914, "Dancing Dragon", "DANCING_DRAGON", 82, 2883849}
+, 
+{"lou_dun03", 17602, 300, 329311, "Green Maiden", "CHUNG_E_", 82, 2883847}
+, 
+{"lou_dun03", 17603, 300, 1639912, "Hyegun", "HYEGUN", 87, 3211521}
+, 
+{"lou_dun03", 18103, 301, 67166, "White Lady", "BACSOJIN_", 97, 4194823}
+, 
+{"lou_fild01", 17001, 300, 2622956, "Enchanted soil", "INCREASE_SOIL", 83, 4063488}
+, 
+{"lou_fild01", 17002, 300, 1246323, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"lou_fild01", 17003, 300, 1246552, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"lou_fild01", 18618, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ma_dun01", 16562, 300, 1968395, "Wakwak", "WAKWAK", 111, 3080198}
+, 
+{"ma_dun01", 16563, 300, 2623751, "Manananggal", "MANANANGGAL", 107, 3080454}
+, 
+{"ma_dun01", 16564, 300, 2623754, "Tiyanak", "TIYANAK", 105, 3080198}
+, 
+{"ma_fild01", 16554, 300, 1968396, "Jejeling", "JEJELING", 100, 2753027}
+, 
+{"ma_fild01", 16555, 300, 3279114, "Tiyanak", "TIYANAK", 105, 3080198}
+, 
+{"ma_fild01", 16556, 300, 3279113, "Tikbalang", "TIKBALANG", 115, 4194818}
+, 
+{"ma_fild02", 16557, 300, 1313036, "Jejeling", "JEJELING", 100, 2753027}
+, 
+{"ma_fild02", 16558, 300, 2623749, "Bungisngis", "BUNGISNGIS", 121, 2753031}
+, 
+{"ma_fild02", 16559, 300, 1640710, "Engkanto", "ENGKANTO", 125, 2621703}
+, 
+{"ma_fild02", 16560, 300, 1968392, "Mangkukulam", "MANGKUKULAM", 110, 2621702}
+, 
+{"ma_fild02", 16561, 300, 1640715, "Wakwak", "WAKWAK", 111, 3080198}
+, 
+{"mag_dun01", 17687, 300, 656741, "Grizzly", "GRIZZLY", 66, 4129282}
+, 
+{"mag_dun01", 17688, 300, 1312086, "Lava Golem", "LAVA_GOLEM", 103, 5440000}
+, 
+{"mag_dun01", 17689, 300, 1312087, "Blazzer", "BLAZZER", 101, 2818310}
+, 
+{"mag_dun01", 17690, 300, 1967463, "Explosion", "EXPLOSION", 100, 4128770}
+, 
+{"mag_dun01", 17691, 300, 1311792, "Kaho", "KAHO", 98, 5439750}
+, 
+{"mag_dun02", 17692, 300, 656747, "Gig", "GIG", 100, 2818050}
+, 
+{"mag_dun02", 17693, 300, 3016035, "Nightmare Terror", "NIGHTMARE_TERROR", 107, 4391430}
+, 
+{"mag_dun02", 17694, 300, 984422, "Diabolic", "DIABOLIC", 104, 3080198}
+, 
+{"mag_dun02", 17695, 300, 2491752, "Deleter", "DELETER", 105, 2818313}
+, 
+{"mag_dun02", 17696, 300, 2622825, "Flying Deleter", "DELETER_", 105, 2818313}
+, 
+{"mag_dun02", 17697, 300, 1312087, "Blazzer", "BLAZZER", 101, 2818310}
+, 
+{"mal_dun01", 16548, 300, 2951319, "Siorava", "SIORAVA", 87, 1376256}
+, 
+{"mal_dun01", 16549, 300, 3934357, "Red Eruma", "RED_ERUMA", 91, 2687237}
+, 
+{"mal_dun01", 16550, 300, 67744, "Wild Rider", "WILD_RIDER", 95, 2687493}
+, 
+{"mal_dun01", 16551, 300, 656434, "Shellfish", "SHELLFISH", 50, 1376261}
+, 
+{"mal_dun01", 16552, 300, 656433, "Crab", "CRAB", 43, 1376261}
+, 
+{"mal_dun01", 16553, 300, 1311986, "Aster", "ASTER", 50, 1441797}
+, 
+{"man_fild01", 18072, 300, 6883268, "Nepenthes", "NEPENTHES", 114, 2949379}
+, 
+{"man_fild01", 18073, 300, 657349, "Hillsrion", "HILLSRION", 123, 1441794}
+, 
+{"man_fild01", 18074, 300, 1968079, "Centipede Larva", "CENTIPEDE_LARVA", 118, 1638404}
+, 
+{"man_fild01", 18075, 300, 133059, "Centipede", "CENTIPEDE", 125, 2949380}
+, 
+{"man_fild02", 18064, 300, 3278824, "Bradium Golem", "BRADIUM_GOLEM", 133, 2753024}
+, 
+{"man_fild02", 18065, 300, 2295747, "Centipede", "CENTIPEDE", 125, 2949380}
+, 
+{"man_fild02", 18066, 300, 1640386, "Tatacho", "TATACHO", 128, 1442050}
+, 
+{"man_fild03", 18076, 300, 1640389, "Hillsrion", "HILLSRION", 123, 1441794}
+, 
+{"man_fild03", 18077, 300, 1640386, "Tatacho", "TATACHO", 128, 1442050}
+, 
+{"man_fild03", 18078, 300, 1640387, "Centipede", "CENTIPEDE", 125, 2949380}
+, 
+{"man_fild03", 18079, 300, 67526, "Hardrock Mommoth", "HARDROCK_MOMMOTH", 137, 4063746}
+, 
+{"mjo_dun01", 17158, 300, 1311865, "Martin", "MARTIN", 39, 2752514}
+, 
+{"mjo_dun01", 17159, 300, 3933335, "Tarou", "TAROU", 22, 1769474}
+, 
+{"mjo_dun01", 17160, 300, 1967085, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"mjo_dun02", 17161, 300, 2294881, "Giearth", "GIEARTH", 42, 1441798}
+, 
+{"mjo_dun02", 17162, 300, 1311831, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"mjo_dun02", 17163, 300, 3933305, "Martin", "MARTIN", 39, 2752514}
+, 
+{"mjo_dun02", 17164, 300, 1311889, "Skel Worker", "SKEL_WORKER", 44, 1900801}
+, 
+{"mjo_dun03", 17165, 300, 328801, "Giearth", "GIEARTH", 42, 1441798}
+, 
+{"mjo_dun03", 17166, 300, 328825, "Martin", "MARTIN", 39, 2752514}
+, 
+{"mjo_dun03", 17167, 300, 2294911, "Myst", "MYST", 49, 1638912}
+, 
+{"mjo_dun03", 17168, 300, 4588689, "Skel Worker", "SKEL_WORKER", 44, 1900801}
+, 
+{"mjo_dun03", 17169, 300, 197817, "Cramp", "CRAMP", 82, 2949122}
+, 
+{"mjolnir_01", 16705, 300, 1311894, "Stainer", "STAINER", 21, 1572868}
+, 
+{"mjolnir_01", 16706, 300, 1311738, "Creamy", "CREAMY", 23, 1572868}
+, 
+{"mjolnir_01", 16707, 300, 9176143, "Caramel", "CARAMEL", 25, 1441794}
+, 
+{"mjolnir_01", 16708, 300, 1311780, "Bigfoot", "BIGFOOT", 29, 1442306}
+, 
+{"mjolnir_02", 16734, 300, 1311751, "Poporing", "POPORING", 30, 1638659}
+, 
+{"mjolnir_02", 16735, 300, 9176168, "Horn", "HORN", 32, 1442052}
+, 
+{"mjolnir_02", 16736, 300, 1311753, "Elder Willow", "ELDER_WILOW", 34, 2818307}
+, 
+{"mjolnir_02", 16737, 300, 1311777, "Yoyo", "YOYO", 38, 1441794}
+, 
+{"mjolnir_03", 16830, 300, 2295140, "Driller", "DRILLER", 65, 1442050}
+, 
+{"mjolnir_03", 16831, 300, 2294899, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"mjolnir_03", 16832, 300, 8520717, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"mjolnir_04", 16833, 300, 8521060, "Driller", "DRILLER", 65, 1442050}
+, 
+{"mjolnir_04", 16834, 300, 2294899, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"mjolnir_04", 16835, 300, 2294797, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"mjolnir_04", 18104, 301, 66595, "Mistress", "MISTRESS", 78, 5505028}
+, 
+{"mjolnir_05", 16836, 300, 8520779, "Argiope", "ARGIOPE", 75, 1638916}
+, 
+{"mjolnir_05", 16837, 300, 2294899, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"mjolnir_05", 16838, 300, 2295140, "Driller", "DRILLER", 65, 1442050}
+, 
+{"mjolnir_06", 16709, 300, 1967098, "Creamy", "CREAMY", 23, 1572868}
+, 
+{"mjolnir_06", 16710, 300, 9176117, "Poison Spore", "POISON_SPORE", 26, 1638659}
+, 
+{"mjolnir_06", 16711, 300, 1967136, "Smokie", "SMOKIE", 29, 1441794}
+, 
+{"mjolnir_06", 18271, 300, 66621, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"mjolnir_07", 16794, 300, 1967574, "Beetle King", "KIND_OF_BEETLE", 55, 1441796}
+, 
+{"mjolnir_07", 16795, 300, 9176206, "Savage", "SAVAGE", 59, 2753026}
+, 
+{"mjolnir_07", 16796, 300, 1967198, "Flora", "FLORA", 59, 1442307}
+, 
+{"mjolnir_07", 18279, 300, 66621, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"mjolnir_08", 16797, 300, 9176534, "Beetle King", "KIND_OF_BEETLE", 55, 1441796}
+, 
+{"mjolnir_08", 16798, 300, 1967246, "Savage", "SAVAGE", 59, 2753026}
+, 
+{"mjolnir_08", 16799, 300, 1967198, "Flora", "FLORA", 59, 1442307}
+, 
+{"mjolnir_09", 16683, 300, 1967090, "Willow", "WILOW", 8, 1442051}
+, 
+{"mjolnir_09", 16684, 300, 1967084, "Hornet", "HORNET", 11, 1572868}
+, 
+{"mjolnir_09", 16685, 300, 9176207, "Savage Babe", "SAVAGE_BABE", 14, 1441794}
+, 
+{"mjolnir_09", 18281, 300, 66621, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"mjolnir_10", 16757, 300, 1967574, "Beetle King", "KIND_OF_BEETLE", 55, 1441796}
+, 
+{"mjolnir_10", 16758, 300, 1967198, "Flora", "FLORA", 59, 1442307}
+, 
+{"mjolnir_10", 16759, 300, 9176140, "Argos", "ARGOS", 47, 1638916}
+, 
+{"mjolnir_11", 16839, 300, 8520779, "Argiope", "ARGIOPE", 75, 1638916}
+, 
+{"mjolnir_11", 16840, 300, 2294860, "Argos", "ARGOS", 47, 1638916}
+, 
+{"mjolnir_11", 16841, 300, 2294878, "Flora", "FLORA", 59, 1442307}
+, 
+{"mjolnir_12", 16827, 300, 8520794, "Dustiness", "DUSTINESS", 62, 2883588}
+, 
+{"mjolnir_12", 16828, 300, 2294795, "Hunter Fly", "HUNTER_FLY", 63, 2883588}
+, 
+{"mjolnir_12", 16829, 300, 2294899, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"moc_fild01", 16720, 300, 3277855, "Muka", "MUKA", 23, 1442307}
+, 
+{"moc_fild01", 16721, 300, 1311767, "Peco Peco Egg", "PECOPECO_EGG", 7, 3932160}
+, 
+{"moc_fild01", 16722, 300, 8520699, "Peco Peco", "PECOPECO", 25, 1507842}
+, 
+{"moc_fild01", 18695, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"moc_fild02", 16723, 300, 8520735, "Muka", "MUKA", 23, 1442307}
+, 
+{"moc_fild02", 16724, 300, 656407, "Peco Peco Egg", "PECOPECO_EGG", 7, 3932160}
+, 
+{"moc_fild02", 16725, 300, 3933179, "Peco Peco", "PECOPECO", 25, 1507842}
+, 
+{"moc_fild02", 18696, 300, 66617, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"moc_fild02", 18703, 300, 66616, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"moc_fild03", 16786, 300, 9176053, "Wolf", "WOLF", 45, 1442050}
+, 
+{"moc_fild03", 16787, 300, 1311820, "Argos", "ARGOS", 47, 1638916}
+, 
+{"moc_fild03", 16788, 300, 1311762, "Steel Chonchon", "STEEL_CHONCHON", 48, 1572868}
+, 
+{"moc_fild03", 18719, 300, 132152, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"moc_fild07", 16659, 300, 9176153, "Drops", "DROPS", 2, 1507587}
+, 
+{"moc_fild07", 16660, 300, 1967091, "Chonchon", "CHONCHON", 5, 1572868}
+, 
+{"moc_fild07", 16661, 300, 656407, "Peco Peco Egg", "PECOPECO_EGG", 7, 3932160}
+, 
+{"moc_fild07", 16662, 300, 656409, "Picky", "PICKY", 9, 1507330}
+, 
+{"moc_fild07", 16663, 300, 984090, "Super Picky", "PICKY_", 10, 1507330}
+, 
+{"moc_fild07", 18694, 300, 328761, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"moc_fild11", 16690, 300, 1967089, "Condor", "CONDOR", 12, 1573122}
+, 
+{"moc_fild11", 16691, 300, 9176147, "Baby Desert Wolf", "DESERT_WOLF_B", 14, 1507330}
+, 
+{"moc_fild11", 16692, 300, 1967081, "Scorpion", "SCORPION", 16, 1507332}
+, 
+{"moc_fild12", 16664, 300, 1967193, "Drops", "DROPS", 2, 1507587}
+, 
+{"moc_fild12", 16665, 300, 2294807, "Peco Peco Egg", "PECOPECO_EGG", 7, 3932160}
+, 
+{"moc_fild12", 16666, 300, 3277849, "Picky", "PICKY", 9, 1507330}
+, 
+{"moc_fild12", 16667, 300, 3277850, "Super Picky", "PICKY_", 10, 1507330}
+, 
+{"moc_fild12", 16668, 300, 1967089, "Condor", "CONDOR", 12, 1573122}
+, 
+{"moc_fild12", 18726, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"moc_fild13", 16789, 300, 984053, "Wolf", "WOLF", 45, 1442050}
+, 
+{"moc_fild13", 16790, 300, 984140, "Argos", "ARGOS", 47, 1638916}
+, 
+{"moc_fild13", 16791, 300, 9176082, "Steel Chonchon", "STEEL_CHONCHON", 48, 1572868}
+, 
+{"moc_fild13", 16792, 300, 984098, "Metaller", "METALLER", 55, 1507588}
+, 
+{"moc_fild13", 16793, 300, 984178, "Magnolia", "MAGNOLIA", 53, 1376262}
+, 
+{"moc_fild13", 18258, 300, 66621, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"moc_fild13", 18710, 300, 66617, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"moc_fild16", 16821, 300, 656479, "Frilldora", "FRILLDORA", 57, 1507586}
+, 
+{"moc_fild16", 16822, 300, 8520845, "Sandman", "SAND_MAN", 61, 4063488}
+, 
+{"moc_fild16", 16823, 300, 1967207, "Hode", "HODE", 63, 2752770}
+, 
+{"moc_fild17", 16824, 300, 656479, "Frilldora", "FRILLDORA", 57, 1507586}
+, 
+{"moc_fild17", 16825, 300, 1967245, "Sandman", "SAND_MAN", 61, 4063488}
+, 
+{"moc_fild17", 16826, 300, 8520807, "Hode", "HODE", 63, 2752770}
+, 
+{"moc_fild17", 18105, 301, 66695, "Phreeoni", "PHREEONI", 71, 3932674}
+, 
+{"moc_fild17", 18735, 300, 66617, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"moc_fild17", 18738, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"moc_fild18", 16693, 300, 1967089, "Condor", "CONDOR", 12, 1573122}
+, 
+{"moc_fild18", 16694, 300, 1967187, "Baby Desert Wolf", "DESERT_WOLF_B", 14, 1507330}
+, 
+{"moc_fild18", 16695, 300, 9176041, "Scorpion", "SCORPION", 16, 1507332}
+, 
+{"moc_fild18", 18315, 300, 66627, "Dragon Fly", "DRAGON_FLY", 47, 1572868}
+, 
+{"moc_fild18", 18727, 300, 66617, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"moc_fild20", 18201, 300, 67454, "Morroc\'s Shadow Angel", "MOROCC_1", 132, 1769992}
+, 
+{"moc_fild20", 18204, 300, 67455, "Morroc\'s Shadow Golem", "MOROCC_2", 132, 4391174}
+, 
+{"moc_fild20", 18207, 300, 67456, "Morroc\'s Shadow Human", "MOROCC_3", 133, 4522246}
+, 
+{"moc_fild20", 18210, 300, 67457, "Morroc\'s Shadow Spirit", "MOROCC_4", 134, 4456710}
+, 
+{"moc_fild21", 18202, 300, 3016574, "Morroc\'s Shadow Angel", "MOROCC_1", 132, 1769992}
+, 
+{"moc_fild21", 18205, 300, 3016575, "Morroc\'s Shadow Golem", "MOROCC_2", 132, 4391174}
+, 
+{"moc_fild21", 18208, 300, 3016576, "Morroc\'s Shadow Human", "MOROCC_3", 133, 4522246}
+, 
+{"moc_fild21", 18211, 300, 2230145, "Morroc\'s Shadow Spirit", "MOROCC_4", 134, 4456710}
+, 
+{"moc_fild22", 18200, 301, 67453, "Wounded Morocc", "MOROCC_", 151, 5702150}
+, 
+{"moc_fild22", 18203, 300, 3934078, "Morroc\'s Shadow Angel", "MOROCC_1", 132, 1769992}
+, 
+{"moc_fild22", 18206, 300, 3934079, "Morroc\'s Shadow Golem", "MOROCC_2", 132, 4391174}
+, 
+{"moc_fild22", 18209, 300, 3934080, "Morroc\'s Shadow Human", "MOROCC_3", 133, 4522246}
+, 
+{"moc_fild22", 18212, 300, 1640321, "Morroc\'s Shadow Spirit", "MOROCC_4", 134, 4456710}
+, 
+{"moc_pryd01", 17281, 300, 3277805, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"moc_pryd01", 17282, 300, 1311751, "Poporing", "POPORING", 30, 1638659}
+, 
+{"moc_pryd02", 17283, 300, 1311831, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"moc_pryd02", 17284, 300, 1967121, "Mummy", "MUMMY", 55, 3211521}
+, 
+{"moc_pryd02", 17285, 300, 1967108, "Soldier Skeleton", "SOLDIER_SKELETON", 34, 1900801}
+, 
+{"moc_pryd02", 17286, 300, 1967096, "Archer Skeleton", "ARCHER_SKELETON", 50, 1900801}
+, 
+{"moc_pryd02", 17287, 300, 328709, "Isis", "ISIS", 59, 1769990}
+, 
+{"moc_pryd02", 17288, 300, 1311751, "Poporing", "POPORING", 30, 1638659}
+, 
+{"moc_pryd03", 17289, 300, 328791, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"moc_pryd03", 17290, 300, 656506, "Matyr", "MATYR", 58, 1769730}
+, 
+{"moc_pryd03", 17291, 300, 328871, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"moc_pryd03", 17292, 300, 4588561, "Mummy", "MUMMY", 55, 3211521}
+, 
+{"moc_pryd03", 17293, 300, 1311752, "Verit", "VERIT", 52, 1900801}
+, 
+{"moc_pryd04", 17294, 300, 1311866, "Matyr", "MATYR", 58, 1769730}
+, 
+{"moc_pryd04", 17295, 300, 984231, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"moc_pryd04", 17296, 300, 1639441, "Mummy", "MUMMY", 55, 3211521}
+, 
+{"moc_pryd04", 17297, 300, 197905, "Ancient Mummy", "ANCIENT_MUMMY", 114, 3211521}
+, 
+{"moc_pryd04", 17298, 300, 3277829, "Isis", "ISIS", 59, 1769990}
+, 
+{"moc_pryd04", 18106, 301, 66574, "Osiris", "OSIRIS", 68, 5832961}
+, 
+{"moc_pryd05", 17765, 300, 3933309, "Minorous", "MINOROUS", 58, 2818562}
+, 
+{"moc_pryd05", 17766, 300, 656401, "Mummy", "MUMMY", 55, 3211521}
+, 
+{"moc_pryd05", 17767, 300, 3277832, "Verit", "VERIT", 52, 1900801}
+, 
+{"moc_pryd06", 17768, 300, 1967271, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"moc_pryd06", 17769, 300, 1967112, "Verit", "VERIT", 52, 1900801}
+, 
+{"moc_pryd06", 17770, 300, 1311914, "Arclouse", "ARCLOUSE", 107, 2752772}
+, 
+{"moc_pryd06", 17771, 300, 1312017, "Ancient Mummy", "ANCIENT_MUMMY", 114, 3211521}
+, 
+{"moc_pryd06", 18107, 301, 67047, "Amon Ra", "AMON_RA", 69, 4063751}
+, 
+{"moc_prydn1", 18350, 300, 3934513, "Minorous", "N_MINOROUS", 121, 2818562}
+, 
+{"moc_prydn1", 18351, 300, 657714, "Mummy", "N_MUMMY", 117, 3211521}
+, 
+{"moc_prydn1", 18352, 300, 3279155, "Verit", "N_VERIT", 115, 1900801}
+, 
+{"moc_prydn2", 18353, 300, 1968436, "Mimic", "N_MIMIC", 137, 3932416}
+, 
+{"moc_prydn2", 18354, 300, 1968435, "Verit", "N_VERIT", 115, 1900801}
+, 
+{"moc_prydn2", 18355, 300, 1313078, "Arclouse", "N_ARCLOUSE", 134, 2752772}
+, 
+{"moc_prydn2", 18356, 300, 1313080, "Ancient Mummy", "N_ANCIENT_MUMMY", 141, 3211521}
+, 
+{"moc_prydn2", 18357, 301, 67898, "Amon Ra", "N_AMON_RA", 145, 4063751}
+, 
+{"monk_test", 19912, 300, 656375, "Zombie", "ZOMBIE", 17, 1900801}
+, 
+{"moro_vol", 18428, 300, 461772, "Fire Condor", "FIRE_CONDOR", 141, 2818306}
+, 
+{"moro_vol", 18429, 300, 461773, "Fire Sandman", "FIRE_SAND_MAN", 143, 4129024}
+, 
+{"moro_vol", 18430, 300, 461774, "Fire Frilldora", "FIRE_FRILLDORA", 147, 4129026}
+, 
+{"moro_vol", 18431, 300, 461775, "Fire Golem", "FIRE_GOLEM", 148, 5440000}
+, 
+{"moro_vol", 18432, 300, 132990, "Morroc\'s Shadow Angel", "MOROCC_1", 132, 1769992}
+, 
+{"moro_vol", 18433, 300, 132991, "Morroc\'s Shadow Golem", "MOROCC_2", 132, 4391174}
+, 
+{"moro_vol", 18434, 300, 132992, "Morroc\'s Shadow Human", "MOROCC_3", 133, 4522246}
+, 
+{"moro_vol", 18435, 300, 132993, "Morroc\'s Shadow Spirit", "MOROCC_4", 134, 4456710}
+, 
+{"moro_vol", 18452, 300, 658386, "Fire Pit", "FIREPIT", 17, 1900801}
+, 
+{"moro_vol", 18453, 300, 658387, "Fire Bug", "FULBUK", 150, 1900801}
+, 
+{"moro_vol", 18454, 300, 1969108, "Sonia", "SONIA", 17, 1900801}
+, 
+{"moro_vol", 18455, 300, 330741, "Angry Mimic", "E_ANGRY_MIMIC", 1, 1310976}
+, 
+{"mosk_dun01", 17604, 300, 2164569, "Les", "LES", 82, 5374211}
+, 
+{"mosk_dun01", 17605, 300, 656499, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"mosk_dun01", 17606, 300, 4327256, "Wood Goblin", "WOOD_GOBLIN", 81, 4063491}
+, 
+{"mosk_dun01", 17607, 300, 1311751, "Poporing", "POPORING", 30, 1638659}
+, 
+{"mosk_dun02", 17608, 300, 2623321, "Les", "LES", 82, 5374211}
+, 
+{"mosk_dun02", 17609, 300, 1312602, "Vavayaga", "VAVAYAGA", 87, 1376519}
+, 
+{"mosk_dun02", 17610, 300, 1967960, "Wood Goblin", "WOOD_GOBLIN", 81, 4063491}
+, 
+{"mosk_dun02", 17611, 300, 329563, "Uzhas", "UZHAS", 85, 3997959}
+, 
+{"mosk_dun03", 17612, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"mosk_dun03", 17613, 300, 984924, "Mavka", "MAVKA", 84, 4063491}
+, 
+{"mosk_dun03", 17614, 300, 3934042, "Vavayaga", "VAVAYAGA", 87, 1376519}
+, 
+{"mosk_dun03", 17615, 300, 328763, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"mosk_dun03", 17616, 300, 2295643, "Uzhas", "UZHAS", 85, 3997959}
+, 
+{"mosk_dun03", 17617, 300, 656442, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"mosk_dun03", 18108, 301, 67421, "Gopinich", "GOPINICH", 97, 4063746}
+, 
+{"mosk_fild02", 16997, 300, 329048, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"mosk_fild02", 16998, 300, 2622477, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"mosk_fild02", 16999, 300, 1967179, "Argiope", "ARGIOPE", 75, 1638916}
+, 
+{"mosk_fild02", 17000, 300, 656499, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"mosk_fild02", 18527, 300, 328761, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"mosk_fild02", 18528, 300, 328762, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"nif_fild01", 17738, 300, 1312224, "Dullahan", "DULLAHAN", 108, 3211521}
+, 
+{"nif_fild01", 17739, 300, 3278306, "Disguise", "DISGUISE", 103, 5374214}
+, 
+{"nif_fild01", 17740, 300, 656863, "Gibbet", "GIBBET", 105, 1769990}
+, 
+{"nif_fild01", 17741, 300, 1967588, "Quve", "QUVE", 100, 1900545}
+, 
+{"nif_fild01", 17742, 300, 656870, "Hylozoist", "HYLOZOIST", 102, 3080198}
+, 
+{"nif_fild02", 17743, 300, 656864, "Dullahan", "DULLAHAN", 108, 3211521}
+, 
+{"nif_fild02", 17744, 300, 1377761, "Loli Ruri", "LOLI_RURI", 109, 5702150}
+, 
+{"nif_fild02", 17745, 300, 656869, "Lude", "LUDE", 101, 1900545}
+, 
+{"nif_fild02", 17746, 300, 722403, "Bloody Murderer", "BLOODY_MURDERER", 110, 4391431}
+, 
+{"nif_fild02", 17747, 300, 1312223, "Gibbet", "GIBBET", 105, 1769990}
+, 
+{"nif_fild02", 17748, 300, 656870, "Hylozoist", "HYLOZOIST", 102, 3080198}
+, 
+{"niflheim", 17749, 300, 329184, "Dullahan", "DULLAHAN", 108, 3211521}
+, 
+{"niflheim", 17750, 300, 1312229, "Lude", "LUDE", 101, 1900545}
+, 
+{"niflheim", 17751, 300, 656863, "Gibbet", "GIBBET", 105, 1769990}
+, 
+{"niflheim", 17752, 300, 1312228, "Quve", "QUVE", 100, 1900545}
+, 
+{"niflheim", 17753, 300, 656870, "Hylozoist", "HYLOZOIST", 102, 3080198}
+, 
+{"niflheim", 19587, 300, 67614, "Shadow of Pleasure", "S_SUCCUBUS", 105, 4391174}
+, 
+{"nyd_dun01", 18067, 300, 2623453, "Draco", "DRACO", 114, 1442057}
+, 
+{"nyd_dun01", 18068, 300, 1312736, "Aqua Elemental", "AQUA_ELEMENTAL", 121, 5308928}
+, 
+{"nyd_dun01", 18069, 300, 657375, "Dark Pinguicula", "PINGUICULA_D", 113, 2949379}
+, 
+{"nyd_dun01", 18070, 300, 133089, "Rata", "RATA", 131, 4063495}
+, 
+{"nyd_dun01", 18071, 300, 133090, "Duneyrr", "DUNEYRR", 135, 4063495}
+, 
+{"nyd_dun01", 18325, 300, 67550, "Draco\'s Egg", "DRACO_EGG", 101, 5374217}
+, 
+{"odin_tem01", 17986, 300, 328761, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"odin_tem01", 17987, 300, 657052, "Breeze", "BREEZE", 92, 4194560}
+, 
+{"odin_tem01", 17988, 300, 329432, "Skogul", "SKOGUL", 126, 4391174}
+, 
+{"odin_tem01", 17989, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"odin_tem01", 17990, 300, 328759, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"odin_tem01", 17991, 300, 329433, "Frus", "FRUS", 128, 4391174}
+, 
+{"odin_tem01", 17992, 300, 198305, "Plasma", "PLASMA_B", 115, 5308416}
+, 
+{"odin_tem01", 17993, 300, 198303, "Plasma", "PLASMA_G", 116, 5373952}
+, 
+{"odin_tem01", 17994, 300, 198304, "Plasma", "PLASMA_P", 117, 5701632}
+, 
+{"odin_tem01", 17995, 300, 198302, "Plasma", "PLASMA_R", 118, 5439488}
+, 
+{"odin_tem01", 17996, 300, 657053, "Plasma", "PLASMA_Y", 119, 5767168}
+, 
+{"odin_tem02", 17997, 300, 67290, "Skeggiold", "SKEGGIOLD", 131, 3014664}
+, 
+{"odin_tem02", 17998, 300, 67291, "Skeggiold", "SKEGGIOLD_", 131, 3014664}
+, 
+{"odin_tem02", 17999, 300, 1967832, "Skogul", "SKOGUL", 126, 4391174}
+, 
+{"odin_tem02", 18000, 300, 132833, "Skogul", "G_SKOGUL", 126, 4391174}
+, 
+{"odin_tem02", 18001, 300, 656439, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"odin_tem02", 18002, 300, 1967833, "Frus", "FRUS", 128, 4391174}
+, 
+{"odin_tem02", 18003, 300, 198370, "Frus", "G_FRUS", 128, 4391174}
+, 
+{"odin_tem02", 18004, 300, 984733, "Plasma", "PLASMA_Y", 119, 5767168}
+, 
+{"odin_tem03", 18005, 300, 132837, "Valkyrie", "G_RANDGRIS", 141, 5636616}
+, 
+{"odin_tem03", 18006, 300, 984123, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"odin_tem03", 18007, 300, 1050330, "Skeggiold", "SKEGGIOLD", 131, 3014664}
+, 
+{"odin_tem03", 18008, 300, 1050331, "Skeggiold", "SKEGGIOLD_", 131, 3014664}
+, 
+{"odin_tem03", 18009, 300, 263896, "Skogul", "SKOGUL", 126, 4391174}
+, 
+{"odin_tem03", 18010, 300, 329441, "Skogul", "G_SKOGUL", 126, 4391174}
+, 
+{"odin_tem03", 18011, 300, 984119, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"odin_tem03", 18012, 300, 263897, "Frus", "FRUS", 128, 4391174}
+, 
+{"odin_tem03", 18013, 300, 329442, "Frus", "G_FRUS", 128, 4391174}
+, 
+{"odin_tem03", 18014, 300, 1312413, "Plasma", "PLASMA_Y", 119, 5767168}
+, 
+{"odin_tem03", 18109, 301, 67287, "Valkyrie Randgris", "RANDGRIS", 141, 5636616}
+, 
+{"orcsdun01", 17267, 300, 656444, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"orcsdun01", 17268, 300, 328791, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"orcsdun01", 17269, 300, 656402, "Steel Chonchon", "STEEL_CHONCHON", 48, 1572868}
+, 
+{"orcsdun01", 17270, 300, 656512, "Orc Skeleton", "ORC_SKELETON", 53, 1900801}
+, 
+{"orcsdun01", 17271, 300, 5244033, "Orc Zombie", "ORC_ZOMBIE", 51, 1900801}
+, 
+{"orcsdun01", 17272, 300, 984045, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"orcsdun01", 17273, 300, 328762, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"orcsdun02", 17274, 300, 328764, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"orcsdun02", 17275, 300, 1311831, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"orcsdun02", 17276, 300, 1311762, "Steel Chonchon", "STEEL_CHONCHON", 48, 1572868}
+, 
+{"orcsdun02", 17277, 300, 3277952, "Orc Skeleton", "ORC_SKELETON", 53, 1900801}
+, 
+{"orcsdun02", 17278, 300, 328869, "Orc Archer", "ORC_ARCHER", 78, 1442055}
+, 
+{"orcsdun02", 17279, 300, 3277977, "Zenorc", "ZENORC", 54, 1769735}
+, 
+{"orcsdun02", 17280, 300, 328762, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"pay_dun00", 17405, 300, 197692, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"pay_dun00", 17406, 300, 984118, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"pay_dun00", 17407, 300, 2294836, "Skeleton", "SKELETON", 27, 1900801}
+, 
+{"pay_dun00", 17408, 300, 2622455, "Zombie", "ZOMBIE", 17, 1900801}
+, 
+{"pay_dun00", 17409, 300, 984045, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"pay_dun00", 17410, 300, 984071, "Poporing", "POPORING", 30, 1638659}
+, 
+{"pay_dun01", 17411, 300, 459836, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"pay_dun01", 17412, 300, 328791, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"pay_dun01", 17413, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"pay_dun01", 17414, 300, 3277828, "Soldier Skeleton", "SOLDIER_SKELETON", 34, 1900801}
+, 
+{"pay_dun01", 17415, 300, 1967096, "Archer Skeleton", "ARCHER_SKELETON", 50, 1900801}
+, 
+{"pay_dun01", 17416, 300, 984156, "Eggyra", "EGGYRA", 53, 3145984}
+, 
+{"pay_dun02", 17417, 300, 525372, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"pay_dun02", 17418, 300, 66716, "Nine Tail", "NINE_TAIL", 72, 4129026}
+, 
+{"pay_dun02", 17419, 300, 66556, "Mandragora", "MANDRAGORA", 13, 4063491}
+, 
+{"pay_dun02", 17422, 300, 2622466, "Munak", "MUNAK", 58, 1900801}
+, 
+{"pay_dun02", 17423, 300, 1967268, "Bongun", "BON_GUN", 59, 1900801}
+, 
+{"pay_dun02", 17424, 300, 590902, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"pay_dun02", 17425, 300, 2950148, "Soldier Skeleton", "SOLDIER_SKELETON", 34, 1900801}
+, 
+{"pay_dun02", 17426, 300, 1311736, "Archer Skeleton", "ARCHER_SKELETON", 50, 1900801}
+, 
+{"pay_dun02", 17427, 300, 656391, "Poporing", "POPORING", 30, 1638659}
+, 
+{"pay_dun02", 17428, 300, 394298, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"pay_dun02", 17429, 300, 66604, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"pay_dun03", 17460, 300, 132252, "Nine Tail", "NINE_TAIL", 72, 4129026}
+, 
+{"pay_dun03", 17461, 300, 66617, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"pay_dun03", 17462, 300, 66556, "Mandragora", "MANDRAGORA", 13, 4063491}
+, 
+{"pay_dun03", 17472, 300, 197634, "Munak", "MUNAK", 58, 1900801}
+, 
+{"pay_dun03", 17473, 300, 197796, "Bongun", "BON_GUN", 59, 1900801}
+, 
+{"pay_dun03", 17474, 300, 1049654, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"pay_dun03", 17475, 300, 4588690, "Sohee", "SOHEE", 64, 1376518}
+, 
+{"pay_dun03", 17476, 300, 66721, "Whisper", "WHISPER_", 34, 1835009}
+, 
+{"pay_dun03", 17480, 300, 197885, "Greatest General", "GREATEST_GENERAL", 55, 2818304}
+, 
+{"pay_dun03", 17481, 300, 66616, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_dun03", 17482, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"pay_dun03", 17483, 300, 328762, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"pay_dun03", 17484, 300, 66604, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"pay_dun03", 18136, 300, 66722, "Giant Whisper", "WHISPER_BOSS", 66, 3145734}
+, 
+{"pay_dun04", 17501, 300, 1967260, "Nine Tail", "NINE_TAIL", 72, 4129026}
+, 
+{"pay_dun04", 17502, 300, 2622550, "Dokebi", "DOKEBI", 68, 1769478}
+, 
+{"pay_dun04", 17503, 300, 132155, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"pay_dun04", 17504, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"pay_dun04", 17505, 300, 984056, "Archer Skeleton", "ARCHER_SKELETON", 50, 1900801}
+, 
+{"pay_dun04", 17506, 300, 984317, "Greatest General", "GREATEST_GENERAL", 55, 2818304}
+, 
+{"pay_dun04", 17507, 300, 394298, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"pay_dun04", 17508, 300, 1967209, "Horong", "HORONG", 66, 5439488}
+, 
+{"pay_dun04", 18110, 301, 66686, "Moonlight Flower", "MOONLIGHT", 79, 4129030}
+, 
+{"pay_dun04", 18122, 300, 66837, "Am Mut#Monster", "AM_MUT", 76, 1769478}
+, 
+{"pay_dun04", 18127, 300, 66843, "Cat O\' Nine Tails", "CAT_O_NINE_TAIL", 79, 4129030}
+, 
+{"pay_dun04", 18131, 300, 66826, "Skeleton General", "SKELETON_GENERAL", 88, 1900801}
+, 
+{"pay_fild01", 16652, 300, 1967082, "Poring", "PORING", 1, 1376515}
+, 
+{"pay_fild01", 16653, 300, 1967087, "Fabre", "FABRE", 6, 1441796}
+, 
+{"pay_fild01", 16654, 300, 9176050, "Willow", "WILOW", 8, 1442051}
+, 
+{"pay_fild01", 18742, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild02", 16696, 300, 1967104, "Worm Tail", "WORM_TAIL", 17, 1442051}
+, 
+{"pay_fild02", 16697, 300, 9176065, "Boa", "SNAKE", 18, 1442050}
+, 
+{"pay_fild02", 16698, 300, 1967094, "Spore", "SPORE", 18, 1376515}
+, 
+{"pay_fild02", 18292, 300, 263229, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"pay_fild02", 18746, 300, 263224, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild03", 16655, 300, 1639402, "Poring", "PORING", 1, 1376515}
+, 
+{"pay_fild03", 16656, 300, 1639410, "Willow", "WILOW", 8, 1442051}
+, 
+{"pay_fild03", 16657, 300, 8520687, "Fabre", "FABRE", 6, 1441796}
+, 
+{"pay_fild03", 16658, 300, 1311728, "Pupa", "PUPA", 4, 1441796}
+, 
+{"pay_fild03", 18293, 300, 394301, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"pay_fild03", 18747, 300, 263224, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild04", 16726, 300, 984042, "Poring", "PORING", 1, 1376515}
+, 
+{"pay_fild04", 16727, 300, 1311833, "Drops", "DROPS", 2, 1507587}
+, 
+{"pay_fild04", 16728, 300, 8520711, "Poporing", "POPORING", 30, 1638659}
+, 
+{"pay_fild04", 16729, 300, 1967322, "Marin", "MARIN", 37, 2687235}
+, 
+{"pay_fild04", 18234, 300, 67118, "Deviling", "DEVILING", 66, 5701894}
+, 
+{"pay_fild04", 18236, 300, 66632, "Angeling", "ANGELING", 77, 5636360}
+, 
+{"pay_fild04", 18238, 300, 66656, "Ghostring", "GHOSTRING", 90, 5767430}
+, 
+{"pay_fild04", 18241, 300, 66626, "Mastering", "MASTERING", 42, 1376515}
+, 
+{"pay_fild04", 18752, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"pay_fild04", 18753, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild05", 18750, 300, 263224, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild06", 16699, 300, 9176064, "Worm Tail", "WORM_TAIL", 17, 1442051}
+, 
+{"pay_fild06", 16700, 300, 1967105, "Boa", "SNAKE", 18, 1442050}
+, 
+{"pay_fild06", 16701, 300, 1967094, "Spore", "SPORE", 18, 1376515}
+, 
+{"pay_fild06", 18294, 300, 525373, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"pay_fild06", 18748, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild06", 18749, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"pay_fild07", 16730, 300, 1311894, "Stainer", "STAINER", 21, 1572868}
+, 
+{"pay_fild07", 16731, 300, 1311738, "Creamy", "CREAMY", 23, 1572868}
+, 
+{"pay_fild07", 16732, 300, 1967183, "Caramel", "CARAMEL", 25, 1441794}
+, 
+{"pay_fild07", 16733, 300, 8520740, "Bigfoot", "BIGFOOT", 29, 1442306}
+, 
+{"pay_fild07", 18745, 300, 525368, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild08", 16702, 300, 1967104, "Worm Tail", "WORM_TAIL", 17, 1442051}
+, 
+{"pay_fild08", 16703, 300, 1967105, "Boa", "SNAKE", 18, 1442050}
+, 
+{"pay_fild08", 16704, 300, 9176054, "Spore", "SPORE", 18, 1376515}
+, 
+{"pay_fild08", 18743, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild08", 18744, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"pay_fild09", 16749, 300, 9176073, "Elder Willow", "ELDER_WILOW", 34, 2818307}
+, 
+{"pay_fild09", 16750, 300, 1967208, "Horn", "HORN", 32, 1442052}
+, 
+{"pay_fild09", 16751, 300, 1967184, "Coco", "COCO", 38, 1441794}
+, 
+{"pay_fild09", 18621, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild09", 18622, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"pay_fild10", 16818, 300, 6554877, "Greatest General", "GREATEST_GENERAL", 55, 2818304}
+, 
+{"pay_fild10", 16819, 300, 3278294, "Beetle King", "KIND_OF_BEETLE", 55, 1441796}
+, 
+{"pay_fild10", 16820, 300, 3277966, "Savage", "SAVAGE", 59, 2753026}
+, 
+{"pay_fild10", 18216, 301, 66651, "Eddga", "EDDGA", 65, 1507842}
+, 
+{"pay_fild10", 18623, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"pay_fild10", 18626, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"prt_fild00", 16669, 300, 8520692, "Roda Frog", "RODA_FROG", 13, 1376517}
+, 
+{"prt_fild00", 16670, 300, 3277894, "Ambernite", "AMBERNITE", 19, 1376772}
+, 
+{"prt_fild00", 16671, 300, 1311887, "Savage Babe", "SAVAGE_BABE", 14, 1441794}
+, 
+{"prt_fild00", 18767, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"prt_fild00", 18768, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"prt_fild01", 16636, 300, 1967082, "Poring", "PORING", 1, 1376515}
+, 
+{"prt_fild01", 16637, 300, 9176103, "Lunatic", "LUNATIC", 3, 3932162}
+, 
+{"prt_fild01", 16638, 300, 1967087, "Fabre", "FABRE", 6, 1441796}
+, 
+{"prt_fild01", 18758, 300, 197688, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"prt_fild01", 18759, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"prt_fild02", 16717, 300, 9176214, "Stainer", "STAINER", 21, 1572868}
+, 
+{"prt_fild02", 16718, 300, 1967098, "Creamy", "CREAMY", 23, 1572868}
+, 
+{"prt_fild02", 16719, 300, 1967111, "Poporing", "POPORING", 30, 1638659}
+, 
+{"prt_fild02", 18320, 300, 66629, "Eclipse", "ECLIPSE", 31, 3932418}
+, 
+{"prt_fild02", 18760, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"prt_fild03", 16738, 300, 1967111, "Poporing", "POPORING", 30, 1638659}
+, 
+{"prt_fild03", 16739, 300, 1967208, "Horn", "HORN", 32, 1442052}
+, 
+{"prt_fild03", 16740, 300, 6554657, "Yoyo", "YOYO", 38, 1441794}
+, 
+{"prt_fild03", 18323, 300, 66750, "Choco", "CHOCO", 48, 1507330}
+, 
+{"prt_fild03", 18762, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"prt_fild03", 18763, 300, 132151, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"prt_fild04", 16672, 300, 5243974, "Ambernite", "AMBERNITE", 19, 1376772}
+, 
+{"prt_fild04", 16673, 300, 1311732, "Roda Frog", "RODA_FROG", 13, 1376517}
+, 
+{"prt_fild04", 18318, 300, 66624, "Vocal", "VOCAL", 18, 1442052}
+, 
+{"prt_fild04", 18754, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"prt_fild05", 16678, 300, 9176044, "Hornet", "HORNET", 11, 1572868}
+, 
+{"prt_fild05", 16679, 300, 1967128, "Thief Bug Egg", "THIEF_BUG_EGG", 20, 1769476}
+, 
+{"prt_fild05", 16680, 300, 1967131, "Thief Bug", "THIEF_BUG", 21, 3932164}
+, 
+{"prt_fild05", 18755, 300, 394296, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"prt_fild05", 18756, 300, 66615, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"prt_fild06", 16639, 300, 1967082, "Poring", "PORING", 1, 1376515}
+, 
+{"prt_fild06", 16640, 300, 1967143, "Lunatic", "LUNATIC", 3, 3932162}
+, 
+{"prt_fild06", 16641, 300, 9176047, "Fabre", "FABRE", 6, 1441796}
+, 
+{"prt_fild06", 18757, 300, 984120, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"prt_fild07", 16681, 300, 3277967, "Savage Babe", "SAVAGE_BABE", 14, 1441794}
+, 
+{"prt_fild07", 16682, 300, 9831452, "Rocker", "ROCKER", 15, 1442052}
+, 
+{"prt_fild07", 18319, 300, 66624, "Vocal", "VOCAL", 18, 1442052}
+, 
+{"prt_fild08", 16642, 300, 9176042, "Poring", "PORING", 1, 1376515}
+, 
+{"prt_fild08", 16643, 300, 2622503, "Lunatic", "LUNATIC", 3, 3932162}
+, 
+{"prt_fild08", 16644, 300, 2622447, "Fabre", "FABRE", 6, 1441796}
+, 
+{"prt_fild09", 16784, 300, 9176178, "Magnolia", "MAGNOLIA", 53, 1376262}
+, 
+{"prt_fild09", 16785, 300, 3933218, "Metaller", "METALLER", 55, 1507588}
+, 
+{"prt_fild09", 18769, 300, 197689, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"prt_fild10", 16745, 300, 1311751, "Poporing", "POPORING", 30, 1638659}
+, 
+{"prt_fild10", 16746, 300, 1311848, "Horn", "HORN", 32, 1442052}
+, 
+{"prt_fild10", 16747, 300, 9176073, "Elder Willow", "ELDER_WILOW", 34, 2818307}
+, 
+{"prt_fild10", 16748, 300, 1311824, "Coco", "COCO", 38, 1441794}
+, 
+{"prt_fild10", 18295, 300, 984125, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"prt_fild10", 18770, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"prt_fild11", 16800, 300, 3278058, "Goblin Archer", "GOBLIN_ARCHER", 55, 1638407}
+, 
+{"prt_fild11", 16801, 300, 656482, "Goblin", "GOBLIN_1", 48, 1573127}
+, 
+{"prt_fild11", 16802, 300, 656483, "Goblin", "GOBLIN_2", 44, 1507591}
+, 
+{"prt_fild11", 16803, 300, 656484, "Goblin", "GOBLIN_3", 44, 1638663}
+, 
+{"prt_fild11", 16804, 300, 656485, "Goblin", "GOBLIN_4", 49, 1442055}
+, 
+{"prt_fild11", 16805, 300, 3933286, "Goblin", "GOBLIN_5", 56, 1376519}
+, 
+{"prt_fild11", 16806, 300, 3278192, "Rotar Zairo", "ROTAR_ZAIRO", 48, 2884096}
+, 
+{"prt_fild11", 18187, 300, 1967360, "Goblin Steamrider", "STEAM_GOBLIN", 66, 2883847}
+, 
+{"prt_fild11", 18296, 300, 656445, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"prt_fild11", 18308, 300, 66844, "Panzer Goblin", "PANZER_GOBLIN", 52, 2883847}
+, 
+{"prt_maze01", 18139, 300, 328682, "Poring", "PORING", 1, 1376515}
+, 
+{"prt_maze01", 18140, 300, 328743, "Lunatic", "LUNATIC", 3, 3932162}
+, 
+{"prt_maze01", 18141, 300, 328687, "Fabre", "FABRE", 6, 1441796}
+, 
+{"prt_maze01", 18142, 300, 66554, "Creamy", "CREAMY", 23, 1572868}
+, 
+{"prt_maze01", 18143, 300, 328688, "Pupa", "PUPA", 4, 1441796}
+, 
+{"prt_maze01", 18144, 300, 328711, "Poporing", "POPORING", 30, 1638659}
+, 
+{"prt_maze01", 18145, 300, 328732, "Rocker", "ROCKER", 15, 1442052}
+, 
+{"prt_maze01", 18146, 300, 328740, "Bigfoot", "BIGFOOT", 29, 1442306}
+, 
+{"prt_maze01", 18147, 300, 328736, "Smokie", "SMOKIE", 29, 1441794}
+, 
+{"prt_maze01", 18148, 300, 328705, "Boa", "SNAKE", 18, 1442050}
+, 
+{"prt_maze01", 18149, 300, 328693, "Wolf", "WOLF", 45, 1442050}
+, 
+{"prt_maze01", 18150, 300, 197707, "Argiope", "ARGIOPE", 75, 1638916}
+, 
+{"prt_maze01", 18151, 300, 197708, "Argos", "ARGOS", 47, 1638916}
+, 
+{"prt_maze01", 18152, 300, 328691, "Chonchon", "CHONCHON", 5, 1572868}
+, 
+{"prt_maze01", 18153, 300, 328808, "Horn", "HORN", 32, 1442052}
+, 
+{"prt_maze01", 18154, 300, 197643, "Hunter Fly", "HUNTER_FLY", 63, 2883588}
+, 
+{"prt_maze01", 18155, 300, 197747, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"prt_maze01", 18156, 300, 328854, "Stainer", "STAINER", 21, 1572868}
+, 
+{"prt_maze01", 18157, 300, 197645, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"prt_maze01", 18158, 300, 263201, "Yoyo", "YOYO", 38, 1441794}
+, 
+{"prt_maze01", 18159, 300, 132286, "Choco", "CHOCO", 48, 1507330}
+, 
+{"prt_maze01", 18160, 300, 328722, "Steel Chonchon", "STEEL_CHONCHON", 48, 1572868}
+, 
+{"prt_maze01", 18161, 300, 328784, "Coco", "COCO", 38, 1441794}
+, 
+{"prt_maze01", 18162, 300, 328783, "Caramel", "CARAMEL", 25, 1441794}
+, 
+{"prt_maze01", 18163, 300, 328794, "Dustiness", "DUSTINESS", 62, 2883588}
+, 
+{"prt_maze01", 18164, 300, 328825, "Martin", "MARTIN", 39, 2752514}
+, 
+{"prt_maze01", 18165, 300, 197774, "Savage", "SAVAGE", 59, 2753026}
+, 
+{"prt_maze01", 18168, 300, 66628, "Vagabond Wolf", "VAGABOND_WOLF", 93, 1442050}
+, 
+{"prt_maze01", 18297, 300, 197693, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"prt_maze02", 18169, 300, 1639431, "Poporing", "POPORING", 30, 1638659}
+, 
+{"prt_maze02", 18170, 300, 328740, "Bigfoot", "BIGFOOT", 29, 1442306}
+, 
+{"prt_maze02", 18171, 300, 66779, "Sasquatch", "SASQUATCH", 72, 3932674}
+, 
+{"prt_maze02", 18172, 300, 66842, "Leib Olmai", "LEIB_OLMAI", 87, 1442306}
+, 
+{"prt_maze03", 18173, 300, 656397, "Side Winder", "SIDE_WINDER", 70, 1638658}
+, 
+{"prt_maze03", 18174, 300, 1967115, "Hunter Fly", "HUNTER_FLY", 63, 2883588}
+, 
+{"prt_maze03", 18175, 300, 66656, "Ghostring", "GHOSTRING", 90, 5767430}
+, 
+{"prt_maze03", 18176, 300, 66830, "Killer Mantis", "KILLER_MANTIS", 91, 1442052}
+, 
+{"prt_maze03", 18178, 300, 66624, "Vocal", "VOCAL", 18, 1442052}
+, 
+{"prt_maze03", 18179, 300, 1311935, "Stem Worm", "STEM_WORM", 84, 1573123}
+, 
+{"prt_maze03", 18180, 300, 66628, "Vagabond Wolf", "VAGABOND_WOLF", 93, 1442050}
+, 
+{"prt_maze03", 18181, 300, 1967219, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"prt_maze03", 18182, 300, 66629, "Eclipse", "ECLIPSE", 31, 3932418}
+, 
+{"prt_maze03", 18183, 300, 66626, "Mastering", "MASTERING", 42, 1376515}
+, 
+{"prt_maze03", 18184, 300, 1639501, "Baphomet Jr.", "BAPHOMET_", 57, 1769478}
+, 
+{"prt_maze03", 18185, 301, 66575, "Baphomet", "BAPHOMET", 81, 4391430}
+, 
+{"prt_maze03", 18299, 300, 132157, "Red Mushroom", "RED_MUSHROOM", 1, 1441795}
+, 
+{"prt_sewb1", 17023, 300, 1967131, "Thief Bug", "THIEF_BUG", 21, 3932164}
+, 
+{"prt_sewb1", 17024, 300, 5243928, "Thief Bug Egg", "THIEF_BUG_EGG", 20, 1769476}
+, 
+{"prt_sewb1", 17025, 300, 656535, "Tarou", "TAROU", 22, 1769474}
+, 
+{"prt_sewb1", 17026, 300, 656365, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"prt_sewb2", 17027, 300, 4588571, "Thief Bug", "THIEF_BUG", 21, 3932164}
+, 
+{"prt_sewb2", 17028, 300, 656413, "Female Thief Bug", "THIEF_BUG_", 28, 1769732}
+, 
+{"prt_sewb2", 17029, 300, 1311768, "Thief Bug Egg", "THIEF_BUG_EGG", 20, 1769476}
+, 
+{"prt_sewb2", 17030, 300, 1311734, "Spore", "SPORE", 18, 1376515}
+, 
+{"prt_sewb2", 17031, 300, 3933335, "Tarou", "TAROU", 22, 1769474}
+, 
+{"prt_sewb2", 17032, 300, 656365, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"prt_sewb2", 17033, 300, 1967241, "Plankton", "PLANKTON", 40, 3997699}
+, 
+{"prt_sewb3", 17034, 300, 1311771, "Thief Bug", "THIEF_BUG", 21, 3932164}
+, 
+{"prt_sewb3", 17035, 300, 4260893, "Female Thief Bug", "THIEF_BUG_", 28, 1769732}
+, 
+{"prt_sewb3", 17036, 300, 4260894, "Male Thief Bug", "THIEF_BUG__", 30, 1769732}
+, 
+{"prt_sewb3", 17037, 300, 656408, "Thief Bug Egg", "THIEF_BUG_EGG", 20, 1769476}
+, 
+{"prt_sewb3", 17038, 300, 984215, "Tarou", "TAROU", 22, 1769474}
+, 
+{"prt_sewb3", 17039, 300, 1311725, "Familiar", "FARMILIAR", 24, 1769474}
+, 
+{"prt_sewb3", 17040, 300, 984117, "Poison Spore", "POISON_SPORE", 26, 1638659}
+, 
+{"prt_sewb4", 17041, 300, 1311771, "Thief Bug", "THIEF_BUG", 21, 3932164}
+, 
+{"prt_sewb4", 17042, 300, 1311773, "Female Thief Bug", "THIEF_BUG_", 28, 1769732}
+, 
+{"prt_sewb4", 17043, 300, 4588574, "Male Thief Bug", "THIEF_BUG__", 30, 1769732}
+, 
+{"prt_sewb4", 17044, 300, 656408, "Thief Bug Egg", "THIEF_BUG_EGG", 20, 1769476}
+, 
+{"prt_sewb4", 17045, 300, 1311831, "Drainliar", "DRAINLIAR", 47, 3080194}
+, 
+{"prt_sewb4", 17046, 300, 328889, "Cramp", "CRAMP", 82, 2949122}
+, 
+{"prt_sewb4", 18111, 301, 66622, "Golden Thief Bug", "GOLDEN_BUG", 65, 2818564}
+, 
+{"ra_fild01", 16940, 300, 8520786, "Desert Wolf", "DESERT_WOLF", 103, 1507586}
+, 
+{"ra_fild01", 16941, 300, 1311827, "Baby Desert Wolf", "DESERT_WOLF_B", 14, 1507330}
+, 
+{"ra_fild01", 16942, 300, 1967862, "Roween", "ROWEEN", 95, 1573122}
+, 
+{"ra_fild01", 16943, 300, 656987, "Anopheles", "ANOPHELES", 95, 4194308}
+, 
+{"ra_fild03", 16944, 300, 8521360, "Hill Wind", "HILL_WIND_1", 101, 4194562}
+, 
+{"ra_fild03", 16945, 300, 1311750, "Anacondaq", "ANACONDAQ", 100, 1638658}
+, 
+{"ra_fild03", 16946, 300, 1967862, "Roween", "ROWEEN", 95, 1573122}
+, 
+{"ra_fild03", 16947, 300, 1312347, "Anopheles", "ANOPHELES", 95, 4194308}
+, 
+{"ra_fild03", 18118, 301, 67321, "Atroce", "ATROCE", 113, 4391426}
+, 
+{"ra_fild04", 16948, 300, 8521360, "Hill Wind", "HILL_WIND_1", 101, 4194562}
+, 
+{"ra_fild04", 16949, 300, 1311826, "Desert Wolf", "DESERT_WOLF", 103, 1507586}
+, 
+{"ra_fild04", 16950, 300, 1967862, "Roween", "ROWEEN", 95, 1573122}
+, 
+{"ra_fild04", 16951, 300, 1312347, "Anopheles", "ANOPHELES", 95, 4194308}
+, 
+{"ra_fild04", 18119, 301, 67321, "Atroce", "ATROCE", 113, 4391426}
+, 
+{"ra_fild05", 16952, 300, 4588653, "Kobold", "KOBOLD_1", 107, 2883847}
+, 
+{"ra_fild05", 16953, 300, 4588654, "Kobold", "KOBOLD_2", 102, 2949383}
+, 
+{"ra_fild05", 16954, 300, 4588655, "Kobold", "KOBOLD_3", 101, 2818311}
+, 
+{"ra_fild05", 16955, 300, 656987, "Anopheles", "ANOPHELES", 95, 4194308}
+, 
+{"ra_fild06", 16956, 300, 4588802, "Kobold Archer", "KOBOLD_ARCHER", 108, 1507335}
+, 
+{"ra_fild06", 16957, 300, 2622573, "Kobold", "KOBOLD_1", 107, 2883847}
+, 
+{"ra_fild06", 16958, 300, 2622574, "Kobold", "KOBOLD_2", 102, 2949383}
+, 
+{"ra_fild06", 16959, 300, 2622575, "Kobold", "KOBOLD_3", 101, 2818311}
+, 
+{"ra_fild06", 16960, 300, 656987, "Anopheles", "ANOPHELES", 95, 4194308}
+, 
+{"ra_fild06", 18307, 300, 66832, "Kobold Leader", "KOBOLD_LEADER", 112, 2883847}
+, 
+{"ra_fild08", 16961, 300, 6554630, "Anacondaq", "ANACONDAQ", 100, 1638658}
+, 
+{"ra_fild08", 16962, 300, 1312400, "Hill Wind", "HILL_WIND_1", 101, 4194562}
+, 
+{"ra_fild08", 16963, 300, 3278582, "Roween", "ROWEEN", 95, 1573122}
+, 
+{"ra_fild08", 16964, 300, 656467, "Baby Desert Wolf", "DESERT_WOLF_B", 14, 1507330}
+, 
+{"ra_fild08", 16965, 300, 656987, "Anopheles", "ANOPHELES", 95, 4194308}
+, 
+{"ra_fild11", 18543, 300, 984121, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ra_fild11", 18544, 300, 328758, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ra_fild12", 16966, 300, 8521462, "Roween", "ROWEEN", 95, 1573122}
+, 
+{"ra_fild12", 16967, 300, 984147, "Baby Desert Wolf", "DESERT_WOLF_B", 14, 1507330}
+, 
+{"ra_fild12", 16968, 300, 1967707, "Anopheles", "ANOPHELES", 95, 4194308}
+, 
+{"ra_fild12", 18545, 300, 984121, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ra_fild12", 18546, 300, 328758, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ra_san01", 17911, 300, 656992, "Gremlin", "GREMLIN", 118, 3080710}
+, 
+{"ra_san01", 17912, 300, 394849, "Beholder", "BEHOLDER", 120, 2883584}
+, 
+{"ra_san01", 17913, 300, 2361068, "Isilla", "ISILLA", 124, 5243143}
+, 
+{"ra_san01", 17914, 300, 5375723, "Vanberk", "VANBERK", 123, 5243143}
+, 
+{"ra_san01", 17915, 300, 394989, "Hodremlin", "HODREMLIN", 122, 4391174}
+, 
+{"ra_san02", 17916, 300, 656992, "Gremlin", "GREMLIN", 118, 3080710}
+, 
+{"ra_san02", 17917, 300, 656993, "Beholder", "BEHOLDER", 120, 2883584}
+, 
+{"ra_san02", 17918, 300, 132846, "Seeker", "SEEKER", 124, 4194304}
+, 
+{"ra_san02", 17919, 300, 5572332, "Isilla", "ISILLA", 124, 5243143}
+, 
+{"ra_san02", 17920, 300, 1967851, "Vanberk", "VANBERK", 123, 5243143}
+, 
+{"ra_san02", 17921, 300, 198381, "Hodremlin", "HODREMLIN", 122, 4391174}
+, 
+{"ra_san03", 17922, 300, 329312, "Gremlin", "GREMLIN", 118, 3080710}
+, 
+{"ra_san03", 17923, 300, 329313, "Beholder", "BEHOLDER", 120, 2883584}
+, 
+{"ra_san03", 17924, 300, 2623214, "Seeker", "SEEKER", 124, 4194304}
+, 
+{"ra_san03", 17925, 300, 3933933, "Hodremlin", "HODREMLIN", 122, 4391174}
+, 
+{"ra_san04", 17926, 300, 657134, "Seeker", "SEEKER", 124, 4194304}
+, 
+{"ra_san04", 17927, 300, 1312489, "Agav", "AGAV", 128, 5243143}
+, 
+{"ra_san04", 17928, 300, 3933930, "Echio", "ECHIO", 126, 5243143}
+, 
+{"ra_san04", 17929, 300, 657133, "Hodremlin", "HODREMLIN", 122, 4391174}
+, 
+{"ra_san05", 17930, 300, 1312494, "Seeker", "SEEKER", 124, 4194304}
+, 
+{"ra_san05", 17931, 300, 5244649, "Agav", "AGAV", 128, 5243143}
+, 
+{"ra_san05", 17932, 300, 1967850, "Echio", "ECHIO", 126, 5243143}
+, 
+{"ra_san05", 17933, 300, 657132, "Isilla", "ISILLA", 124, 5243143}
+, 
+{"ra_san05", 17934, 300, 1312493, "Hodremlin", "HODREMLIN", 122, 4391174}
+, 
+{"ra_san05", 18114, 301, 67304, "Gloom Under Night", "GLOOMUNDERNIGHT", 139, 4456960}
+, 
+{"spl_fild01", 18061, 300, 3278815, "Dark Pinguicula", "PINGUICULA_D", 113, 2949379}
+, 
+{"spl_fild01", 18062, 300, 2295753, "Naga", "NAGA", 117, 2753026}
+, 
+{"spl_fild01", 18063, 300, 1640392, "Cornus", "CORNUS", 120, 4325634}
+, 
+{"spl_fild02", 18080, 300, 4917195, "Pinguicula", "PINGUICULA", 105, 4063491}
+, 
+{"spl_fild02", 18081, 300, 985034, "Luciola Vespa", "LUCIOLA_VESPA", 109, 1573124}
+, 
+{"spl_fild02", 18082, 300, 1312769, "Golem", "W_BRADIUM_GOLEM", 99, 2753024}
+, 
+{"spl_fild02", 18083, 300, 1312767, "Naga", "W_NAGA", 99, 2753026}
+, 
+{"spl_fild03", 18084, 300, 2295754, "Luciola Vespa", "LUCIOLA_VESPA", 109, 1573124}
+, 
+{"spl_fild03", 18085, 300, 1640392, "Cornus", "CORNUS", 120, 4325634}
+, 
+{"spl_fild03", 18086, 300, 1312713, "Naga", "NAGA", 117, 2753026}
+, 
+{"spl_fild03", 18087, 300, 67527, "Tendrilrion", "TENDRILRION", 126, 2752770}
+, 
+{"tha_t01", 17772, 300, 1311915, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"tha_t01", 17773, 300, 1311911, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"tha_t01", 17774, 300, 328955, "Alice", "ALICE", 100, 3932423}
+, 
+{"tha_t01", 17775, 300, 263847, "Lady Solace", "SOLACE", 123, 4325640}
+, 
+{"tha_t01", 17776, 300, 1312415, "Plasma", "PLASMA_G", 116, 5373952}
+, 
+{"tha_t02", 17777, 300, 657058, "Death Word", "DEATHWORD", 114, 3932416}
+, 
+{"tha_t02", 17778, 300, 656555, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"tha_t02", 17779, 300, 1967271, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"tha_t02", 17780, 300, 263846, "Baroness of Retribution", "RETRIBUTION", 121, 4391176}
+, 
+{"tha_t02", 17781, 300, 5244579, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"tha_t02", 17782, 300, 656737, "Elder", "ELDER", 92, 5243399}
+, 
+{"tha_t02", 17783, 300, 656635, "Alice", "ALICE", 100, 3932423}
+, 
+{"tha_t02", 17784, 300, 1312417, "Plasma", "PLASMA_B", 115, 5308416}
+, 
+{"tha_t03", 17785, 300, 5244578, "Death Word", "DEATHWORD", 114, 3932416}
+, 
+{"tha_t03", 17786, 300, 1967275, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"tha_t03", 17787, 300, 656551, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"tha_t03", 17788, 300, 263845, "Mistress of Shelter", "SHELTER", 125, 4325640}
+, 
+{"tha_t03", 17789, 300, 657059, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"tha_t03", 17790, 300, 656737, "Elder", "ELDER", 92, 5243399}
+, 
+{"tha_t03", 17791, 300, 1312416, "Plasma", "PLASMA_P", 117, 5701632}
+, 
+{"tha_t04", 17792, 300, 263844, "Dame of Sentinel", "OBSERVATION", 127, 5243144}
+, 
+{"tha_t04", 17793, 300, 1312418, "Death Word", "DEATHWORD", 114, 3932416}
+, 
+{"tha_t04", 17794, 300, 1311915, "Rideword", "RIDEWORD", 74, 3932160}
+, 
+{"tha_t04", 17795, 300, 1311911, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"tha_t04", 17796, 300, 656680, "Owl Duke", "OWL_DUKE", 92, 3932678}
+, 
+{"tha_t04", 17797, 300, 656655, "Owl Baron", "OWL_BARON", 120, 3932678}
+, 
+{"tha_t04", 17798, 300, 1312419, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"tha_t04", 17799, 300, 1312097, "Elder", "ELDER", 92, 5243399}
+, 
+{"tha_t04", 17800, 300, 1312414, "Plasma", "PLASMA_R", 118, 5439488}
+, 
+{"tha_t05", 17801, 300, 2623138, "Death Word", "DEATHWORD", 114, 3932416}
+, 
+{"tha_t05", 17802, 300, 5244200, "Owl Duke", "OWL_DUKE", 92, 3932678}
+, 
+{"tha_t05", 17803, 300, 1312015, "Owl Baron", "OWL_BARON", 120, 3932678}
+, 
+{"tha_t05", 17804, 300, 2623139, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"tha_t05", 17805, 300, 1312097, "Elder", "ELDER", 92, 5243399}
+, 
+{"tha_t05", 17806, 300, 132779, "Dolor of Thanatos", "THA_DOLOR", 129, 5767169}
+, 
+{"tha_t05", 17807, 300, 657057, "Plasma", "PLASMA_B", 115, 5308416}
+, 
+{"tha_t05", 17808, 300, 657055, "Plasma", "PLASMA_G", 116, 5373952}
+, 
+{"tha_t05", 17809, 300, 657056, "Plasma", "PLASMA_P", 117, 5701632}
+, 
+{"tha_t05", 17810, 300, 657054, "Plasma", "PLASMA_R", 118, 5439488}
+, 
+{"tha_t06", 17935, 300, 2623138, "Death Word", "DEATHWORD", 114, 3932416}
+, 
+{"tha_t06", 17936, 300, 2622760, "Owl Duke", "OWL_DUKE", 92, 3932678}
+, 
+{"tha_t06", 17937, 300, 2622735, "Owl Baron", "OWL_BARON", 120, 3932678}
+, 
+{"tha_t06", 17938, 300, 2623139, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"tha_t06", 17939, 300, 1312097, "Elder", "ELDER", 92, 5243399}
+, 
+{"tha_t06", 17940, 300, 132778, "Maero of Thanatos", "THA_MAERO", 129, 5767425}
+, 
+{"tha_t06", 17941, 300, 657057, "Plasma", "PLASMA_B", 115, 5308416}
+, 
+{"tha_t06", 17942, 300, 657055, "Plasma", "PLASMA_G", 116, 5373952}
+, 
+{"tha_t06", 17943, 300, 657056, "Plasma", "PLASMA_P", 117, 5701632}
+, 
+{"tha_t06", 17944, 300, 657054, "Plasma", "PLASMA_R", 118, 5439488}
+, 
+{"tha_t07", 17945, 300, 460452, "Dame of Sentinel", "OBSERVATION", 127, 5243144}
+, 
+{"tha_t07", 17946, 300, 657058, "Death Word", "DEATHWORD", 114, 3932416}
+, 
+{"tha_t07", 17947, 300, 984742, "Baroness of Retribution", "RETRIBUTION", 121, 4391176}
+, 
+{"tha_t07", 17948, 300, 460453, "Mistress of Shelter", "SHELTER", 125, 4325640}
+, 
+{"tha_t07", 17949, 300, 657059, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"tha_t07", 17950, 300, 460455, "Lady Solace", "SOLACE", 123, 4325640}
+, 
+{"tha_t07", 17951, 300, 132777, "Despero of Thanatos", "THA_DESPERO", 129, 5767681}
+, 
+{"tha_t08", 17952, 300, 329380, "Dame of Sentinel", "OBSERVATION", 127, 5243144}
+, 
+{"tha_t08", 17953, 300, 657058, "Death Word", "DEATHWORD", 114, 3932416}
+, 
+{"tha_t08", 17954, 300, 1312422, "Baroness of Retribution", "RETRIBUTION", 121, 4391176}
+, 
+{"tha_t08", 17955, 300, 329381, "Mistress of Shelter", "SHELTER", 125, 4325640}
+, 
+{"tha_t08", 17956, 300, 657059, "Ancient Mimic", "ANCIENT_MIMIC", 112, 3932672}
+, 
+{"tha_t08", 17957, 300, 329383, "Lady Solace", "SOLACE", 123, 4325640}
+, 
+{"tha_t08", 17958, 300, 132776, "Odium of Thanatos", "THA_ODIUM", 129, 5767681}
+, 
+{"tha_t09", 17959, 300, 329380, "Dame of Sentinel", "OBSERVATION", 127, 5243144}
+, 
+{"tha_t09", 17960, 300, 329382, "Baroness of Retribution", "RETRIBUTION", 121, 4391176}
+, 
+{"tha_t09", 17961, 300, 329381, "Mistress of Shelter", "SHELTER", 125, 4325640}
+, 
+{"tha_t09", 17962, 300, 1312423, "Lady Solace", "SOLACE", 123, 4325640}
+, 
+{"tha_t09", 17963, 300, 67243, "Dolor of Thanatos", "THA_DOLOR", 129, 5767169}
+, 
+{"tha_t09", 17964, 300, 198320, "Dolor of Thanatos", "G_THA_DOLOR", 129, 5767169}
+, 
+{"tha_t09", 17965, 300, 329374, "Plasma", "PLASMA_R", 118, 5439488}
+, 
+{"tha_t10", 17966, 300, 329380, "Dame of Sentinel", "OBSERVATION", 127, 5243144}
+, 
+{"tha_t10", 17967, 300, 1312422, "Baroness of Retribution", "RETRIBUTION", 121, 4391176}
+, 
+{"tha_t10", 17968, 300, 329381, "Mistress of Shelter", "SHELTER", 125, 4325640}
+, 
+{"tha_t10", 17969, 300, 329383, "Lady Solace", "SOLACE", 123, 4325640}
+, 
+{"tha_t10", 17970, 300, 67242, "Maero of Thanatos", "THA_MAERO", 129, 5767425}
+, 
+{"tha_t10", 17971, 300, 198319, "Maero of Thanatos", "G_THA_MAERO", 129, 5767425}
+, 
+{"tha_t10", 17972, 300, 329377, "Plasma", "PLASMA_B", 115, 5308416}
+, 
+{"tha_t11", 17973, 300, 329380, "Dame of Sentinel", "OBSERVATION", 127, 5243144}
+, 
+{"tha_t11", 17974, 300, 329382, "Baroness of Retribution", "RETRIBUTION", 121, 4391176}
+, 
+{"tha_t11", 17975, 300, 1312421, "Mistress of Shelter", "SHELTER", 125, 4325640}
+, 
+{"tha_t11", 17976, 300, 329383, "Lady Solace", "SOLACE", 123, 4325640}
+, 
+{"tha_t11", 17977, 300, 67241, "Despero of Thanatos", "THA_DESPERO", 129, 5767681}
+, 
+{"tha_t11", 17978, 300, 198318, "Despero of Thanatos", "G_THA_DESPERO", 129, 5767681}
+, 
+{"tha_t11", 17979, 300, 329375, "Plasma", "PLASMA_G", 116, 5373952}
+, 
+{"tha_t12", 17980, 300, 853668, "Dame of Sentinel", "OBSERVATION", 127, 5243144}
+, 
+{"tha_t12", 17981, 300, 329382, "Baroness of Retribution", "RETRIBUTION", 121, 4391176}
+, 
+{"tha_t12", 17982, 300, 329381, "Mistress of Shelter", "SHELTER", 125, 4325640}
+, 
+{"tha_t12", 17983, 300, 329383, "Lady Solace", "SOLACE", 123, 4325640}
+, 
+{"tha_t12", 17984, 300, 263853, "Odium of Thanatos", "G_THA_ODIUM", 129, 5767681}
+, 
+{"tha_t12", 17985, 300, 329373, "Plasma", "PLASMA_Y", 119, 5767168}
+, 
+{"thor_v01", 18015, 300, 657196, "Magmaring", "MAGMARING", 110, 2818048}
+, 
+{"thor_v01", 18016, 300, 329510, "Bow Guardian", "BOW_GUARDIAN", 132, 5243399}
+, 
+{"thor_v01", 18017, 300, 67375, "Byorgue", "BYORGUE", 135, 1310983}
+, 
+{"thor_v01", 18018, 300, 460583, "Salamander", "SALAMANDER", 138, 4129280}
+, 
+{"thor_v01", 18019, 300, 329509, "Sword Guardian", "SWORD_GUARDIAN", 133, 5243399}
+, 
+{"thor_v01", 18020, 300, 1640237, "Imp", "IMP", 129, 4128774}
+, 
+{"thor_v01", 18021, 300, 2950953, "Kasa", "KASA", 135, 4129280}
+, 
+{"thor_v02", 18022, 300, 3606318, "Knocker", "KNOCKER", 126, 1441798}
+, 
+{"thor_v02", 18023, 300, 657196, "Magmaring", "MAGMARING", 110, 2818048}
+, 
+{"thor_v02", 18024, 300, 67367, "Salamander", "SALAMANDER", 138, 4129280}
+, 
+{"thor_v02", 18025, 300, 657197, "Imp", "IMP", 129, 4128774}
+, 
+{"thor_v02", 18026, 300, 656432, "Kaho", "KAHO", 98, 5439750}
+, 
+{"thor_v02", 18124, 300, 67366, "Bow Guardian", "BOW_GUARDIAN", 132, 5243399}
+, 
+{"thor_v02", 18133, 300, 67365, "Sword Guardian", "SWORD_GUARDIAN", 133, 5243399}
+, 
+{"thor_v03", 18027, 300, 657190, "Bow Guardian", "BOW_GUARDIAN", 132, 5243399}
+, 
+{"thor_v03", 18028, 300, 329519, "Byorgue", "BYORGUE", 135, 1310983}
+, 
+{"thor_v03", 18029, 300, 3933991, "Salamander", "SALAMANDER", 138, 4129280}
+, 
+{"thor_v03", 18030, 300, 657189, "Sword Guardian", "SWORD_GUARDIAN", 133, 5243399}
+, 
+{"thor_v03", 18031, 300, 2623273, "Kasa", "KASA", 135, 4129280}
+, 
+{"thor_v03", 18115, 301, 67368, "Ifrit", "IFRIT", 146, 5440000}
+, 
+{"treasure01", 17170, 300, 984219, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"treasure01", 17171, 300, 1311790, "Kukre", "KUKRE", 42, 1376261}
+, 
+{"treasure01", 17172, 300, 2819119, "Pirate Skeleton", "PIRATE_SKEL", 48, 1900801}
+, 
+{"treasure01", 17173, 300, 787509, "Poison Spore", "POISON_SPORE", 26, 1638659}
+, 
+{"treasure01", 17174, 300, 66604, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"treasure02", 17242, 300, 66679, "Marionette", "MARIONETTE", 90, 4456454}
+, 
+{"treasure02", 17243, 300, 525479, "Mimic", "MIMIC", 56, 3932416}
+, 
+{"treasure02", 17244, 300, 66744, "Wanderer", "WANDER_MAN", 120, 1573126}
+, 
+{"treasure02", 17245, 300, 918683, "Whisper", "WHISPER", 46, 4456454}
+, 
+{"treasure02", 17246, 300, 1311790, "Kukre", "KUKRE", 42, 1376261}
+, 
+{"treasure02", 17247, 300, 1311791, "Pirate Skeleton", "PIRATE_SKEL", 48, 1900801}
+, 
+{"treasure02", 17248, 300, 2491584, "Penomena", "PENOMENA", 85, 1638661}
+, 
+{"treasure02", 17249, 300, 66604, "Hydra", "HYDRA", 34, 2686979}
+, 
+{"treasure02", 18116, 301, 66648, "Drake", "DRAKE", 91, 1900801}
+, 
+{"treasure02", 18239, 300, 66656, "Ghostring", "GHOSTRING", 90, 5767430}
+, 
+{"tur_dun01", 17657, 300, 1639721, "Dragon Tail", "DRAGON_TAIL", 86, 2883844}
+, 
+{"tur_dun01", 17658, 300, 1639722, "Spring Rabbit", "SPRING_RABBIT", 88, 2752770}
+, 
+{"tur_dun01", 17659, 300, 656394, "Thara Frog", "THARA_FROG", 40, 2687237}
+, 
+{"tur_dun01", 17660, 300, 656674, "Permeter", "PERMETER", 90, 2621698}
+, 
+{"tur_dun01", 17661, 300, 984296, "Pest", "PEST", 89, 3080194}
+, 
+{"tur_dun02", 17662, 300, 2622756, "Solider", "SOLIDER", 92, 2752770}
+, 
+{"tur_dun02", 17663, 300, 2622754, "Permeter", "PERMETER", 90, 2621698}
+, 
+{"tur_dun02", 17664, 300, 984296, "Pest", "PEST", 89, 3080194}
+, 
+{"tur_dun02", 17665, 300, 1312039, "Freezer", "FREEZER", 94, 2687234}
+, 
+{"tur_dun03", 17666, 300, 2295075, "Assaulter", "ASSULTER", 100, 2883847}
+, 
+{"tur_dun03", 17667, 300, 984354, "Permeter", "PERMETER", 90, 2621698}
+, 
+{"tur_dun03", 17668, 300, 2622759, "Freezer", "FREEZER", 94, 2687234}
+, 
+{"tur_dun03", 17669, 300, 656678, "Heater", "HEATER", 98, 2818306}
+, 
+{"tur_dun03", 19585, 300, 67612, "Shadow of Deception", "S_WIND_GHOST", 105, 4194566}
+, 
+{"tur_dun04", 17670, 300, 2688291, "Assaulter", "ASSULTER", 100, 2883847}
+, 
+{"tur_dun04", 17671, 300, 263458, "Permeter", "PERMETER", 90, 2621698}
+, 
+{"tur_dun04", 17672, 300, 984359, "Freezer", "FREEZER", 94, 2687234}
+, 
+{"tur_dun04", 17673, 300, 2164006, "Heater", "HEATER", 98, 2818306}
+, 
+{"tur_dun04", 18117, 301, 66848, "Turtle General", "TURTLE_GENERAL", 110, 2753026}
+, 
+{"tur_dun05", 17674, 300, 66851, "Assaulter", "ASSULTER", 100, 2883847}
+, 
+{"tur_dun05", 17675, 300, 197922, "Permeter", "PERMETER", 90, 2621698}
+, 
+{"tur_dun05", 17676, 300, 328999, "Freezer", "FREEZER", 94, 2687234}
+, 
+{"um_fild01", 16848, 300, 656855, "Stone Shooter", "STONE_SHOOTER", 64, 4129027}
+, 
+{"um_fild01", 16849, 300, 656858, "Wootan Shooter", "WOOTAN_SHOOTER", 67, 2752775}
+, 
+{"um_fild01", 16850, 300, 656859, "Wootan Fighter", "WOOTAN_FIGHTER", 67, 2818311}
+, 
+{"um_fild01", 16851, 300, 4589013, "Dryad", "DRYAD", 68, 5374211}
+, 
+{"um_fild01", 18302, 300, 329177, "Wooden Golem", "WOODEN_GOLEM", 72, 5374467}
+, 
+{"um_fild01", 18788, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"um_fild01", 18789, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"um_fild01", 18790, 300, 328763, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"um_fild02", 16852, 300, 656855, "Stone Shooter", "STONE_SHOOTER", 64, 4129027}
+, 
+{"um_fild02", 16853, 300, 656858, "Wootan Shooter", "WOOTAN_SHOOTER", 67, 2752775}
+, 
+{"um_fild02", 16854, 300, 2622939, "Wootan Fighter", "WOOTAN_FIGHTER", 67, 2818311}
+, 
+{"um_fild02", 18321, 300, 328894, "Choco", "CHOCO", 48, 1507330}
+, 
+{"um_fild02", 18791, 300, 328758, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"um_fild02", 18792, 300, 328761, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"um_fild03", 16855, 300, 656855, "Stone Shooter", "STONE_SHOOTER", 64, 4129027}
+, 
+{"um_fild03", 16856, 300, 656858, "Wootan Shooter", "WOOTAN_SHOOTER", 67, 2752775}
+, 
+{"um_fild03", 16857, 300, 656859, "Wootan Fighter", "WOOTAN_FIGHTER", 67, 2818311}
+, 
+{"um_fild03", 16858, 300, 3933660, "Parasite", "PARASITE", 76, 2883843}
+, 
+{"um_fild03", 18793, 300, 328759, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"um_fild03", 18794, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"um_fild03", 18795, 300, 132155, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"um_fild04", 16859, 300, 329175, "Stone Shooter", "STONE_SHOOTER", 64, 4129027}
+, 
+{"um_fild04", 16860, 300, 329178, "Wootan Shooter", "WOOTAN_SHOOTER", 67, 2752775}
+, 
+{"um_fild04", 16861, 300, 329179, "Wootan Fighter", "WOOTAN_FIGHTER", 67, 2818311}
+, 
+{"um_fild04", 16862, 300, 1967341, "Wild Rose", "WILD_ROSE", 70, 1572866}
+, 
+{"um_fild04", 18301, 300, 329177, "Wooden Golem", "WOODEN_GOLEM", 72, 5374467}
+, 
+{"um_fild04", 18322, 300, 132286, "Choco", "CHOCO", 48, 1507330}
+, 
+{"um_fild04", 18796, 300, 328758, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"um_fild04", 18797, 300, 328761, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"un_bunker", 18466, 300, 330936, "Smelly Zombie", "ZOMBIE_H", 148, 3932160}
+, 
+{"un_bunker", 18467, 300, 330935, "Smelly Ghoul", "GHOUL_H", 155, 1572867}
+, 
+{"un_bunker", 18468, 300, 330931, "GC109", "GC109", 149, 3080192}
+, 
+{"un_bunker", 18469, 300, 330930, "Scrap Metal Robot", "SCR_MT_ROBOTS", 155, 1310720}
+, 
+{"un_bunker", 18470, 300, 134320, "Repair Robot Turbo", "REPAIR_ROBOT_T", 158, 2621440}
+, 
+{"un_bunker", 18472, 300, 68785, "Explorer Robot Turbo", "EXPLORATION_ROVER_T", 171, 5243392}
+, 
+{"un_bunker", 18482, 300, 66587, "Thief Bug", "THIEF_BUG", 21, 3932164}
+, 
+{"un_bunker", 18490, 300, 132083, "Chonchon", "CHONCHON", 5, 1572868}
+, 
+{"un_bunker", 18499, 300, 66620, "Black Mushroom", "BLACK_MUSHROOM", 1, 1441795}
+, 
+{"ve_fild01", 16969, 300, 2295543, "Galion", "GALION", 100, 2883842}
+, 
+{"ve_fild01", 16970, 300, 1312504, "Stapo", "STAPO", 95, 2752512}
+, 
+{"ve_fild01", 16971, 300, 1312501, "Drosera", "DROSERA", 101, 1442051}
+, 
+{"ve_fild01", 16972, 300, 1312500, "Muscipular", "MUSCIPULAR", 105, 1442051}
+, 
+{"ve_fild01", 18112, 301, 67321, "Atroce", "ATROCE", 113, 4391426}
+, 
+{"ve_fild01", 18529, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ve_fild01", 18530, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ve_fild01", 18531, 300, 263223, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"ve_fild01", 18532, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"ve_fild02", 16973, 300, 8521461, "Drosera", "DROSERA", 101, 1442051}
+, 
+{"ve_fild02", 16974, 300, 1312500, "Muscipular", "MUSCIPULAR", 105, 1442051}
+, 
+{"ve_fild02", 16975, 300, 657143, "Galion", "GALION", 100, 2883842}
+, 
+{"ve_fild02", 18113, 301, 67321, "Atroce", "ATROCE", 113, 4391426}
+, 
+{"ve_fild02", 18533, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ve_fild02", 18534, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ve_fild03", 16976, 300, 8521516, "Magmaring", "MAGMARING", 110, 2818048}
+, 
+{"ve_fild03", 16977, 300, 2295540, "Muscipular", "MUSCIPULAR", 105, 1442051}
+, 
+{"ve_fild03", 16978, 300, 2295541, "Drosera", "DROSERA", 101, 1442051}
+, 
+{"ve_fild03", 18535, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"ve_fild03", 18536, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ve_fild04", 16979, 300, 6555380, "Muscipular", "MUSCIPULAR", 105, 1442051}
+, 
+{"ve_fild04", 16980, 300, 3278581, "Drosera", "DROSERA", 101, 1442051}
+, 
+{"ve_fild04", 16981, 300, 1312503, "Galion", "GALION", 100, 2883842}
+, 
+{"ve_fild04", 18537, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"ve_fild04", 18538, 300, 197687, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"ve_fild05", 18539, 300, 328762, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"ve_fild05", 18540, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"ve_fild06", 18541, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"ve_fild07", 16982, 300, 6555384, "Stapo", "STAPO", 95, 2752512}
+, 
+{"ve_fild07", 16983, 300, 3278581, "Drosera", "DROSERA", 101, 1442051}
+, 
+{"ve_fild07", 16984, 300, 1967860, "Muscipular", "MUSCIPULAR", 105, 1442051}
+, 
+{"ve_fild07", 18542, 300, 656442, "White Plant", "WHITE_PLANT", 1, 1441795}
+, 
+{"ver_eju", 18456, 300, 658513, "Excavator Robot", "EXCAVATOR_ROBOT", 163, 3932416}
+, 
+{"ver_eju", 18457, 300, 3279954, "Recon Robot", "RECON_ROBOT", 165, 5243392}
+, 
+{"ver_tunn", 18458, 300, 330834, "Recon Robot", "RECON_ROBOT", 165, 5243392}
+, 
+{"verus01", 18461, 300, 1641648, "Repair Robot Turbo", "REPAIR_ROBOT_T", 158, 2621440}
+, 
+{"verus01", 18462, 300, 1641649, "Explorer Robot Turbo", "EXPLORATION_ROVER_T", 171, 5243392}
+, 
+{"verus01", 18463, 300, 3280047, "Green Cenere", "CENERE_G", 150, 1572864}
+, 
+{"verus02", 18464, 300, 3280048, "Repair Robot Turbo", "REPAIR_ROBOT_T", 158, 2621440}
+, 
+{"verus02", 18465, 300, 3280049, "Explorer Robot Turbo", "EXPLORATION_ROVER_T", 171, 5243392}
+, 
+{"verus03", 10105, 300, 2624599, "Illegal Promotion", "ILLEGAL_PROMOTION", 100, 2621440}
+, 
+{"verus03", 10106, 300, 658518, "Ruin Grace Believer", "RUIN_BELIEVER2", 100, 2621703}
+, 
+{"verus03", 18459, 300, 3279955, "Repair Robot", "REPAIR_ROBOT", 155, 1572867}
+, 
+{"verus03", 18460, 300, 3279956, "Exploration Rover", "EXPLORATION_ROVER", 168, 5243399}
+, 
+{"xmas_dun01", 17147, 300, 656473, "Drops", "DROPS", 2, 1507587}
+, 
+{"xmas_dun01", 17148, 300, 1311962, "Marin", "MARIN", 37, 2687235}
+, 
+{"xmas_dun01", 17149, 300, 328929, "Myst Case", "MYSTCASE", 39, 3932416}
+, 
+{"xmas_dun01", 17150, 300, 2622705, "Cookie", "COOKIE", 35, 3932167}
+, 
+{"xmas_dun01", 17151, 300, 2622686, "Santa Cookie", "COOKIE_XMAS", 37, 3014663}
+, 
+{"xmas_dun01", 17152, 300, 656362, "Poring", "PORING", 1, 1376515}
+, 
+{"xmas_dun01", 17153, 300, 1311751, "Poporing", "POPORING", 30, 1638659}
+, 
+{"xmas_dun01", 18128, 300, 66786, "Chepet", "CHEPET", 42, 1507591}
+, 
+{"xmas_dun01", 18237, 300, 66632, "Angeling", "ANGELING", 77, 5636360}
+, 
+{"xmas_dun01", 18242, 300, 66626, "Mastering", "MASTERING", 42, 1376515}
+, 
+{"xmas_dun02", 17154, 300, 3278049, "Myst Case", "MYSTCASE", 39, 3932416}
+, 
+{"xmas_dun02", 17155, 300, 1311985, "Cookie", "COOKIE", 35, 3932167}
+, 
+{"xmas_dun02", 17156, 300, 1311966, "Santa Cookie", "COOKIE_XMAS", 37, 3014663}
+, 
+{"xmas_dun02", 17157, 300, 2295008, "Cruiser", "CRUISER", 41, 3932416}
+, 
+{"xmas_dun02", 18120, 301, 66787, "Stormy Knight", "KNIGHT_OF_WINDSTORM", 92, 5505536}
+, 
+{"xmas_fild01", 16985, 300, 2295002, "Marin", "MARIN", 37, 2687235}
+, 
+{"xmas_fild01", 16986, 300, 328923, "Sasquatch", "SASQUATCH", 72, 3932674}
+, 
+{"xmas_fild01", 16987, 300, 67051, "Baby Hatii", "GARM_BABY", 94, 2687234}
+, 
+{"xmas_fild01", 18121, 301, 66788, "Hatii", "GARM", 98, 5308930}
+, 
+{"yuno_fild01", 16863, 300, 3278168, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"yuno_fild01", 16864, 300, 2294874, "Dustiness", "DUSTINESS", 62, 2883588}
+, 
+{"yuno_fild01", 16865, 300, 2294899, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"yuno_fild01", 18547, 300, 984118, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild01", 18548, 300, 132151, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"yuno_fild01", 18549, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"yuno_fild01", 18550, 300, 132153, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild01", 18554, 300, 1311800, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild02", 16866, 300, 8521066, "Sleeper", "SLEEPER", 81, 2752768}
+, 
+{"yuno_fild02", 16867, 300, 2295129, "Grand Peco", "GRAND_PECO", 75, 2818562}
+, 
+{"yuno_fild02", 16868, 300, 2295136, "Harpy", "HARPY", 83, 4194566}
+, 
+{"yuno_fild02", 18555, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild02", 18556, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild02", 18557, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild03", 16869, 300, 8521056, "Harpy", "HARPY", 83, 4194566}
+, 
+{"yuno_fild03", 16870, 300, 2295132, "Goat", "GOAT", 80, 4129026}
+, 
+{"yuno_fild03", 16871, 300, 2295146, "Sleeper", "SLEEPER", 81, 2752768}
+, 
+{"yuno_fild03", 18233, 300, 67118, "Deviling", "DEVILING", 66, 5701894}
+, 
+{"yuno_fild03", 18235, 300, 66632, "Angeling", "ANGELING", 77, 5636360}
+, 
+{"yuno_fild03", 18558, 300, 984118, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild03", 18559, 300, 984121, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild03", 18560, 300, 984120, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild03", 18561, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939}
+, 
+{"yuno_fild03", 18562, 300, 263223, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"yuno_fild04", 16872, 300, 8521056, "Harpy", "HARPY", 83, 4194566}
+, 
+{"yuno_fild04", 16873, 300, 2295132, "Goat", "GOAT", 80, 4129026}
+, 
+{"yuno_fild04", 16874, 300, 2295128, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"yuno_fild04", 18232, 300, 66924, "Arc Angeling", "ARCHANGELING", 84, 4325640}
+, 
+{"yuno_fild04", 18240, 300, 66626, "Mastering", "MASTERING", 42, 1376515}
+, 
+{"yuno_fild04", 18563, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild04", 18564, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild04", 18565, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild05", 18566, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild05", 18567, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild05", 18568, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild05", 18569, 300, 132151, "Blue Plant", "BLUE_PLANT", 1, 1441795}
+, 
+{"yuno_fild06", 16875, 300, 5244266, "Sleeper", "SLEEPER", 81, 2752768}
+, 
+{"yuno_fild06", 16876, 300, 1312088, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"yuno_fild06", 18571, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild06", 18572, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild06", 18573, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild07", 16877, 300, 5899612, "Goat", "GOAT", 80, 4129026}
+, 
+{"yuno_fild07", 16878, 300, 3278176, "Harpy", "HARPY", 83, 4194566}
+, 
+{"yuno_fild07", 16879, 300, 1967449, "Grand Peco", "GRAND_PECO", 75, 2818562}
+, 
+{"yuno_fild07", 18574, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild07", 18575, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild07", 18576, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild08", 16880, 300, 8521049, "Grand Peco", "GRAND_PECO", 75, 2818562}
+, 
+{"yuno_fild08", 16881, 300, 1967452, "Goat", "GOAT", 80, 4129026}
+, 
+{"yuno_fild08", 16882, 300, 1967448, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"yuno_fild08", 18577, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild08", 18578, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild08", 18579, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild09", 16883, 300, 8521049, "Grand Peco", "GRAND_PECO", 75, 2818562}
+, 
+{"yuno_fild09", 16884, 300, 1967466, "Sleeper", "SLEEPER", 81, 2752768}
+, 
+{"yuno_fild09", 16885, 300, 1967448, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"yuno_fild09", 18580, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild09", 18581, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild09", 18582, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild11", 16886, 300, 6554972, "Goat", "GOAT", 80, 4129026}
+, 
+{"yuno_fild11", 16887, 300, 2622808, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"yuno_fild11", 18583, 300, 656438, "Red Plant", "RED_PLANT", 1, 1441795}
+, 
+{"yuno_fild11", 18584, 300, 656440, "Green Plant", "GREEN_PLANT", 1, 1441795}
+, 
+{"yuno_fild11", 18585, 300, 656441, "Yellow Plant", "YELLOW_PLANT", 1, 1441795}
+, 
+{"yuno_fild12", 16888, 300, 3933528, "Geographer", "GEOGRAPHER", 73, 4063491}
+, 
+{"yuno_fild12", 16889, 300, 1967219, "Mantis", "MANTIS", 65, 1442052}
+, 
+{"NULL", 0, 0, 0, "", "", 0, 0}
+}
+

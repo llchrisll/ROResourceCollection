@@ -1,0 +1,18 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\datainfo\tb_cashshop_banner.lub 
+
+-- params : ...
+-- function num : 0
+tb_cashshop_banner = {
+[1] = {"15-07-2020_kachua_secret_box.bmp", "https://ro.gnjoy.id/news/detail/367"}
+, 
+[2] = {"cash_shop_banner.bmp", "http://ro.gnjoy.id/"}
+}
+set_cashshop_banner = function()
+  -- function num : 0_0
+  for key,value in ipairs(tb_cashshop_banner) do
+    add_cashshop_banner(value[1], value[2])
+  end
+end
+
+

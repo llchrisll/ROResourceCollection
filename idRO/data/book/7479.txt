@@ -1,0 +1,98 @@
+%faf0e6
+^000088Sebuah buku yang ditulis oleh koki kesepian yang mengembara di Kerajaan Rune-Midgard!^000000
+ - Sebuah buku mengesankan tentang resep memasak Level 8 yang puitis -
+Masuki dunia memasak yang misterius dari koki kesepian ini yang memasak hidangan mengesankan dan mengagumkan!
+
+
+^ff0000Bearfoot Special :^000000 
+Bahan bahan: ^4b008220 Bear's Footskin, 10 Carrots, 10 Jack o' Pumpkins, 2 Aloe Leaflets, 
+                   1 Hinalle Leaflet, 1 Savory Sauce ^000000
+Petunjuk: 
+	1. Rendam Bear's Footskin dalam air selama beberapa menit.
+	2. Cuci dan bilas rendaman Bear's Footskin dibawah air dingin yang mengalir, dan rebus setengah masak. 
+                    Cuci Bear's Footskin ayng setengah masak sekali lagi, dan iris tipis melintang. 
+                    Setelah itu, bungkus dengan kain halus.
+	3. Rebus Bear's Footskin yang sudah dibungkus dengan air, garam, anggur, dan lada. Angakat buih yang timbul
+                    saat berbusa, dan kemudia tambahkan jahe dan cabai hijau kering.
+	4. Panaskan kaldu selama beberapa jam.
+	5. Potong Carrots dan Jack o' Pumpkins menjadi potongan, dan rebus setengah masak potongan tersebut.
+	6. Cuci leaflets, dan goreng dengan garam. Sajikan sebagian leaflets goreng dalam piring, 
+                    dan taruh Bear's Footskin diatasnya. Gunakan sisa dari leaflets untuk menghias
+                    piring dengan carrot dan pumpkin yang dimasak setengah matang.
+	7. Tambahkan Savory Sauce di kaldu Bear's Footskin, dan rebus kaldu beberapa saat. 
+                    Saat kaldu mulai mengental, tambahkan minyak olive, dan tuangkan ke Bear's Footskin.
+Catatan: Bear's Footskin sangatlah bau. Pastikan untuk membersihkan semua bulu dan kotoran sebelum dimasak, 
+ganti air secara teratur saat merendam, dan kukus dengan panas setinggi mungkin. 
+
+^0000ffRoyal Family Tea:^000000 rasanya tergantung cara mencampurnya.
+Bahan bahan: ^4b00824 Prickly Fruits, 10 Hinalle Leaflets, 3 Yggdrasil Leaves, 10 Aloe Leaflets, 
+                   6 Royal Jellys, 1 Yellow Spice ^000000
+Petunjuk: 
+	1. Panggang Prickly Fruits yang sudah dikeringkan dan daun herbal yang lain.
+	2. Potong daun yang sudah di panggang sesuai selera, dan campur. Gunakan lebih banyak Prickly Fruits 
+                    dalam campuran jika ingin rasa agak asamr, atau tambahkan Hinalle Leaves jika ingin 
+                    rasa yang lebih pahit.
+	3. Panaskan air, dan tuangkan air panas kedalam teko teh sebelum mendidih.
+	4. Seduh sedikit daun selama 2 sampai 3 menit, dan daun ukuran besar selama 3 sampai 4 menit. 
+        5. Tambahkan Royal Jelly dan Yellow Spice untuk rasa sebelum meminumnya.
+
+^800000Special Toast:^000000 roti panggang dengan bahan yang tidak biasa!
+Bahan bahan: ^4b008210 Bread, 2 Royal Jellys, 5 Meat, 10 Strawberries, 1 Spicy Sauce, 10 Cheese, 
+                   1 Sweet Sauce ^000000
+Petunjuk: 
+	1. Haluskan daging, dan campur dengan Spicy Sauce.
+	2. Buat daging berbentuk bundar pipih dengan menggunakan daging yang sudah dihaluskan, dan masak hingga masak.
+	3. Buat selai denga menggunakan Strawberry, atau iris saja ketika masih segar.
+	4. Panggang dan olesi 2 potong Bread dengan mentega.
+	5. Olekan selai strawberry disetiap salah satu sisi roti, dan taruh daging diatasnya. 
+                    Oleskan Spice Sauce, tambahan lembaran keju, dan taruh diatasnya 
+                    dengan potongan roti lagi.
+	6. Kalau kamu menggunakan potongan Strawberry segar, oleskan Spicy Sauce di satu sisi roti, 
+                    dan taruh dagigng diatasnya. Campur Sweet Sauce dengan Royal Jelly, 
+                    dan oleskan disisi lainnya, tambahkan lembaran keju dan irisan segar 
+                    strawberry diatasnya.
+	7. Satukan potongan bread satu dengan lainnya hingga membentuk sandwich.
+
+^008040Incredibly Spicy Curry+9:^000000 kari pedas yang tidak terbayangkan!
+Bahan bahan: ^4b00821 Aloe Vera, 1 Spicy Sauce, 10 Meat, 10 Hinalle Leaflets, 10 Jack o' Pumpkins, 
+                    10 Carrots ^000000
+Petunjuk: 
+	1. Keringkan Aloe Vera dan Hinalle Leaflets, dan haluskan hingga menjadi bubuk.
+	2. Campurkan dengan perbandingan tergantung selera anda.
+	3. Potong Meat kotak selebar 2 cm, dan taburkan garam dan lada. 
+	4. Potong kotak Jack o' Pumpkins dan Carrots, dan goreng dengan mentega.
+	5. Goreng meat yang sudah dipotong terpisah dari sayuran. Tambahkan sayuran yang sudah di masak 
+                    saat meatsudah setengah matang, dan goreng beberapa saat.
+	6. Tambahkan bubuk Aloe Vera dan Hinalle dan air kedalam penggorengan.
+	7. Rebus campuran, tambahkan Spicy Sauce, dan lanjutkan merebus sampai kari mengental.
+
+^ff8040Giant Burrito:^000000 cukup besar untuk berbagi dengan teman teman!
+Bahan bahan: ^4b008220 Fig Leaves, 20 Meat, 5 Rainbow Carrots, 10 Jack o' Pumpkins, 
+                   1 Savory Sauce, 2 Bags of Grain ^000000
+Petunjuk:
+	1. Kupas kulit dari akar Fig Leaf. Kukus Fig Leaves dengan Jack o' Pumpkin, 
+                    dan dinginkan dengan air dingin mengalir.
+	2. Rendam Meat dalam air untuk membersihkan sisa darah, dan ikat meat dengan benang.
+	3. Rebus Carrots dan Jack o' Pumpkins dalam air untuk membuat kaldu.
+	4. Taruh meat yang sudah di ikat kedalam kaldu Carrot dan Jack o' Pumpkin, dan rebus selama 40 menit. 
+                    Tambahkan perasa Savory Sauce.
+	5. Saat Meat telah matang, matikan api, dan biarkan sampai dingin.
+	6. Potong Meat dengan irisan tipis.
+	7. Saring kulit ari dari grain, dan masaklah nasi.
+	8. Potong Carrots dengan irisan tipis, dan goreng.
+	9. Lebarkan Fig leaf, dan gulung akarnya kearah leaf.
+	10. Taruh nasi, irisan meat, irisan carrot, dan Jack o' Pumpkin yang sudah masak di leaf.
+	11. Siramkan Savory Sauce, dan gulung dengan leaf untuk membuat... burrito?
+
+^400080Strawberry Flavored Rice Ball:^000000 bola nasi yang lezat, 
+                                                               also known as Poring Flavored Rice Ball.
+Bahan bahan: ^4b008210 Strawberries, 5 Bags of Grain, 10 Fig Leaves, 1 Yellow Spice, 2 Red Spice, 
+                   1 Savory Sauce ^000000
+Petunjuk:
+	1. Saring kulit ari dari, dan masaklah nasi.
+	2. Peras strawberry untuk membuat strawberry juice.
+	3. taruh nasi yang sudah matang ke dalam mangkuk besar, dan biarkan dingin.
+	4. Tambahkan Savory Sauce, Yellow Spice, dan strawberry juice kedalam nasi, 
+                    dan campur semua hingga merata. 
+	5. Ambil satu genggam nasi untuk dibuat bola, dan bungkus dengan Fig Leaf setengah masak yang direbus.
+         

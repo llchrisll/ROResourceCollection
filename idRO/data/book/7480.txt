@@ -1,0 +1,83 @@
+%faf0e6
+^000088Cerita sedih tentang seorang koki dan kakaknya yang kehilangan kemampuan mengenali rasa saat mencoba memasak hidangan 
+yang melegenda, namun terlarang.^000000
+Kami akan memperingat terlebih dahulu bahwa resep berikut bhisa sangat berbahaya ditangan yang bukan ahlinya. 
+Ini adalah resep Level 9 yang terhebat.
+
+
+^ff0000Tendon Satay:^000000 tidak setipa tendon keras dan alot. Ini adalah hidangan yang dibuat dari tendon 
+                                   yang lembut dan empuk.
+Bahan bahan: ^4b008240 Tendons, 1 Pot, 10 Cheese, 1 Spicy Sauce, 2 Coal, 30 Green Herbs, 
+                   10 Squid Ink ^000000 
+Petunjuk:
+	1. Potong Tendons sepanjang 3 cm per potong, dan taburkan garam dan lada.
+	2. Rebus setengah masak, lalu dinginkan dengan Green Herbs, dan potong potong sisanya.
+	3. Tuangkan Squid Ink dan air kedalam pot, dan rebus campurang terebut untuk membuat sauce.
+	4. Tambahkan Spicy Sauce kedalam sauce, dan lanjutkan rebusan sampai campurannya mengental.
+	5. Nyalakan api menggunakan Coal, dan goreng Tendons dengan rebusan setengah matang Green Herbs dan Cheese 
+                    sampai Tendon berwarna coklat keemasan.
+	6. Taruh Tendons yang sudah digoreng di piring, dan siram dengan Squid Ink sauce diatasnya.
+	7. Sajikan Tendon Satay dengan taburan irisan Green Herbs diatasnya.
+          
+^0000ffTristram 12:^000000buah anggur yang terasa seperti whiskey.
+Bahan bahan: ^4b008210 Yggdrasil Leaves, 10 Oranges, 5 Alcohol, 4 Royal Jellys, 2 Blue Potions, 
+                   1 Yellow Spice, 10 Aloe Leaflets^000000
+Petunjuk:
+	1. Peras jeruk.
+	2. Campur Yeggradsil Leaves yang dikeringkan dan Royal Jellys dengan Blue Potion kedalam mixer.
+	3. Tambahkan alcohol kedalam campuran, dan diamkan selama 12 tahun.
+	4. Taruh secara melingkar barisan gelas dengan Yellow Spice, dan tuangkan minuman tersebut.
+	5. Sajikan minuman dengan Royal Jellys.
+
+^800000Heavenly Fruit Juice:^000000 jus buah dengan rasa yang membuatmu serasa melayang di awan! 
+Bahan bahan: ^4b00822 Unripe Apples, 10 Oranges, 10 Strawberries, 1 Red Spice, 1 Tropical Banana, 
+                   5 Grape Juice, 2 Alcohol ^000000
+Petunjuk:
+	1. Kupas Unripe Apples, dan Oranges. Potong tiap apel menjadi 3 bagian, dan orange menjadi 4 bagian. 
+        2. Bersihkan bintik dari Strawberry, dan kupas dan potong Tropical Bananas.
+	3. Taruh buah buahan dan sebagian Grape Juice kedalam mixer, dan campur hingga merata.
+	4. Tambahkan sisa dari Grape Juice dan Alcohol kedalam mixerr, dan campur selama 30 detik.
+	5. Tuangkan juice kedalam gelas, dan taburkan Red Spice diatasnya. 
+                    Catatan: Kamu mungkin mau menambahkan es batu kedalam juice untuk membuatnya dingin
+                    dan membuat rasanya lebih nikmat ketika dicampurkan.
+
+^008040Special Meat Stew:^000000 meat berkuah spesial dengan semua jenis meat yang mempunyai bau yang menggoda!
+Bahan bahan: ^4b008210 Meat, 5 Royal Jellys, 20 Shoots, 4 Savory Sauce, 5 Yellow Herbs, 
+                   10 White Herbs, 5 Red Herbs ^000000
+Petunjuk:
+	1. Rendam Meat dengan anggur semalaman.
+	2. Kukus Meat selama 2 jam, dan kemudian iris tipis.
+	3. Potong Royal Jellys dan semua herb, dan rebus Shoot setengah matang.
+	4. Tambahkan minyak lada kedalam pot, dan panaskan pot dengan api besar. 
+                    Saat pot sudah cukup panas, tambahkan bahan bahan kedalamnya.
+	5. Tutup penutup pot, dan panaskan masakan selama 3 jam.
+          
+
+^ff8040Ascending Dragon Soup:^000000 soup yang pedas yang membuatmu merasa seperti naga penyembur api!
+Bahan bahan: ^4b008210 Dragon Skin, 20 Dragon Tails, 3 Yggdrasil Leaves, 6 Royal Jellys, 
+                   1 Spicy Sauce, 1 Red Spice, 1 Fatty Chubby Earthworm ^000000
+Petunjuk:
+	1. Dragon Skin sangatlah keras, jadi empukkan dengan dipukul pukul.
+	2. Potong Dragon Tails berukuran kecil.
+	3. Potong Royal Jellys dengan ukuran tebal berbentuk bulang sabit, dan potong secara diagonal 
+                    Yggdrasil Leaves.
+	4. Cuci Fatty Chubby Earthworm, dan rebus dalam air dengan api besar selama 10 menit.
+	5. Angkat earthworm pada saat rasa kaldu sudah menyatu dengannya. Tambahkan Spicy Sauce dan 
+                    Red Spice, Dragon Skin, Dragon Tails, dan Royal Jellys kedalam kaldu, 
+                    dan teruskan merebus.
+	6. Saat Dragon Skin dan Dragon Tails sudah matang, tambahkan Yggdrasil Leaves, dan 
+                   lanjutkan merebus beberapa saat.
+
+^400080Blood Flavored Soda:^000000 soda yang agak aneh dengan rasa sedikit berat... seperti darah.
+Bahan bahan: ^4b00821 Animal Gore, 2 Anodyne, 2 Aloe Vera, 2 Alcohol, 6 Royal Jellys, 
+                   1 Red Spice, and 10 Apple Juice ^000000
+Petunjuk: 
+	1. Potong 1 Aloe Vera, dan rendam potongan Aloe Vera diair bersuhu 20 Celsius 
+                    selama 5 menit.
+	2. Potong Aloe Vera yang lain. Isi botol air berukuran 3.7 liter dengan potongan Aloe Vera, 
+                    gula, dan air, dan kocok selama 2 menit, sampai kristal gula tidak lagi terlihat. 
+        3. Tutup penutup botol, dan biarkan selama 4 sampai 6 hari dalam suhu ruangan.
+	4. Potong Royal Jellys dengan ukuran kecil, dan campur dengan Apple Juice menggunakan mixer.
+	5. Tambahkan soda Aloe Verayang sudah disimpan, Alcohol, dan Anodyne kedalam campuran juice, dan campur 
+                    selama 30 detik.
+	6. Tuangkan soda kedalam gelas, dan sajikan dengan taburan Red Spice diatasnya.

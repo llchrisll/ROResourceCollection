@@ -1,0 +1,84 @@
+%faf0e6
+^000088-Cerita memasak yang menyentuh hati semua orang -^000000
+
+Sudah terbit: resep Level 4 berjudul, "Kamu sudah memakannya!"
+
+^ff0000Herb Marinade Beef:^000000 rib eye steak kualitas tinggi dengan saus herbal!
+Bahan bahan: ^4b00825 Meat, 3 Red Herbs, 2 Yellow Herbs, 3 Green Herbs, 1 Sweet Sauce, 1 Lemon ^000000
+Petunjuk:
+	1. Hilangkan lemak dari daging, gores gores daging, dan hilangkan darah yang keluar dari daging 
+                    dengan mencucinya dengan air dingin selama satu jam.
+	2. Potong potong herbs, dan campur dengan Sweet Sauce dan air. Rebus campuran selama satu jam. 
+        3. Saat campuran mendidih, tambahkan lemon juice, aduk aduk, dan biarkan medingin.
+	4. Siapkan mangkuk besar dan wadah Tupperware. Tuangkan saus rendaman kedalam mangkuk besar,
+                    celupkan iap bagian daging kedalam sauce satu persatu, 
+                    dan kemudian taruh di dalam Tupperware besar.
+	5. Tuangkan sisa sauce rendaman kedalam Tupperware, dan masukkan lemari es 
+                    dan biarkan selama 12 sampai 24 jam.
+	6. Masak daging yang sudah direndam, dan sajikan dengan hidangan tambahan lainnya.
+
+^0000ffMorroc Fruit Wine:^000000 anggur manis dan asam yang terasa sangat enak, bahkan kepada orang                                                                       yang tidak suka dengan alcohol!
+Bahan bahan: ^4b008210 Strawberries, 4 Lemons, 10 Oranges, 2 Alcohol, and 5 Grape ^000000
+Petunjuk:
+	1. Peras Lemons dan Oranges dan tampung dalam gelas.
+	2. Bilas Strawberry dengan air dingin, dan hilangkan bintiknya.
+	3. Kupas Grapes, dan hilangkan bijinya.
+	4. Taruh Strawberry dan Grapes kedalam mixer, dan campur selama 30 detik.
+	5. Tambahkan 1 Alcohol, dan lemon juice kedalam mixer, dan campur selama 5 detik.
+	6. Tambahkan 1 Alcohol, dan aduk kembali dengan mixerr, dan campur selama 15 detik.
+  
+^800000Cream Sandwich:^000000sandwich dengan cream yang banyak.
+Bahan bahan: ^4b00825 Bread, 15 Milk, 10 Cheese, 10 Yellow Herb, 1 Meat, 1 Sweet Sauce ^000000
+Petunjuk: 
+	1. Oleskan mentega pada bread, dan kocok susu hingga menjadi cream.
+	2. Potong daging dengan ukuran tebal, dan kemudian dimasak.
+	3. Potong bread menjadi dua bagian, dan oleskan Sweet Sauce di tiap sisi potongan roti. 
+                    Tambahkan setengah herbs dan daging disetiap sisi roti dengan Sweet Sauce.
+	4. Tambahkan Cheese diatasnya, dan tambahkan sisanya dengan herbs. 
+	5. Oleskan Cream disetiap sisi bread, dan taruh diatas sisi roti yang lain.
+
+^008040Lutie Cold Noodle:^000000 nikmati pengalaman rasa pedas yang sangat dari mie dingin dengan harga terjangkau!. 
+Bahan bahan: ^4b00823 Bags of Grain, 1 Spicy Sauce, 10 Ice Cubes, 10 Carrots, 10 Jack o' Pumkin ^000000
+Petunjuk:
+	1. Pilih grain dengan protein tinggi dan bersihkan.
+	2. Haluskan grain untuk membuat tepung.
+	3. Tambahkan air panas kedalam tepung, dan buat adonan sampai lengket dan mengkilat.
+	4. Siapkan wadah kotak dengan saringan stainless yang ditaruh dibawahnya.
+	5. Taruh sejumlah adonan didalam wadah, dan tekan dengan keras untuk membuat mie 
+                    dari adonan yang ditekan dari atas.
+	6. Rebus mie.
+	7. Bilas mie yang sudah diangkat dengan air dingin, dan tiriskan airnya. 
+	8. Kukus Jack o' Pumpkins. Perlahan pegang, dan kemudian peras pumpkins sampai isinya 
+                    keluar berbentuk seperti benang.
+	9. Potong Carrots. 
+	10. Taruh mie yang sudah direbus dan isi pumpkins yang berbentuk benang kedalam mangkuk.
+	11. Tambahkan es batu, dan siramkan Spicy Sauce diatasnya.
+	12. Sajikan mie dengan irisan Carrot.
+
+^ff8040Seasoned Jellyfish:^000000 Semangkuk salad jellyfish yang dimasak matang dengan saus Squid Ink.
+Bahan bahan: ^4b008230 Tentacles, 10 White Herbs, 10 Soft Blades of Grass, 1 Old Frying Pan, 
+                   20 Squid Ink^000000
+Petunjuk:
+	1. Bersihkan Soft Blades of Grass dengan air didingin, dan peras untuk menghilangkan air dan 
+                    juice.
+	2. Campur perasan Soft Blades of Grass dengan Squid Ink.
+	3. Potong Tentacles. rebus air dalam Old Frying Pan, masak setengah matang potongan Tentacle, dan 
+                    bilas dengan air dingin. Peras air dari Tentacles. Ingat bahwa Tentacles 
+                    menjadi keras dan pendek kalau direbus terlalu lama, jadi pastikan untuk menaruhnya 
+                    dalam rebusan air hanya beberapa detik.
+	4. Potong White Herbs, dan campur dengan Tentacles dan Soft Blades of Grass.
+	5. Siramkan Squid Ink ke dalam salad. 
+	6. Masukkan ke lemari es beberapa saat, dan sajikan dengan piring datar.
+
+^400080Steamed Ancient Lips:^000000 jangan khawatir! makan makanan ini tidak seperti mencium ikan purba! 
+Bahan bahan: ^4b008210 Ancient Lips, 10 Raccoon Leaves, 10 White Herbs, 5 Fresh Fishes, 
+                   2 Sweet Sauce ^000000
+Petunjuk:
+	1. Cuci Ancient Lips dengan air garam. 
+	2. Siapkan ikan segar dengan memotong kepalanya dan mengeluarkan isinya, dan memotong daging ikan 
+                    menjadi 3 bagian. Keluarkan duri duri kecil dengan pinset, dan rendam dengan  
+                    1 Sweet Sauce selama setengah hari didalam lemari es. 
+        3. Alaskan Raccoon Leaves pada dasar kukusan. Pastikan untuk menaruh irisan daging dengan sisi kulit 
+                    dibagian bawah agar dagingn tidak keras dan mengkerut.
+	4. Siramkan 1 Sweet Sauce, dan taburkan potongan white herbs diatas daging sebelum pengukus mulai panas. 
+                    

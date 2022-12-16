@@ -1,0 +1,75 @@
+%faf0e6
+^000088Kami tidak perduli siapa kamu: masakan yang kami yang datang dari hati akan membuat puas siapapun 
+walaupun kamu orang yang lapar, Poring, atau Poporing.^000000
+
+Inilah rahasia hidangan memasak dari hati kami, resep memasak Level 7.
+
+
+^ff0000Whole Roast:^000000 nikamti daging panggang pedas kami yang lezat!
+Bahan bahan: ^4b008210 Meat, 1 Live Coal, 2 Coals, 1 Spicy Sauce, 15 Trunks, 10 White Herbs ^000000
+Petunjuk: 
+	1. Cuci Meat dengan air yang mengalir.
+	2. Balur seluruh Meat dengan Spicy Sauce.
+	3. Potong White Herbs, dan taburkan dalam Meat yang sudah dibumbui.
+	4. Nyalakan api dengan Live Coal dan Coals.
+	5. Panggang Meat yang sudah dibumbui diatas Coals.
+	6. Tambahkan lagi Spicy Sauce diatas Meat beberapa kali saat memanggang.
+	7. Sajikan dengan taburan potongan White Herbs diatasnya.
+
+^0000ffSpecial Royal Jelly Herbal Tea:^000000 nikamti rasa manis dari teh herbal madu.
+Bahan bahan: ^4b00824 Royal Jelly, 2 Honey, 5 White Herbs, 10 Hinalle Leaflets, 1 Yellow Spice ^000000
+Petunjuk: 
+Resep ini sebenarnya sma dengan hidangan Level 3, Honey Herbal Tea, tapi dengan tambahan herb kualitas tinggi, 
+Hinalle Leaflets, dan Royal Jelly.
+
+
+^800000Soul Haunted Bread:^000000 berhati hatilah! Roti ini bisa mencuri jiwamu dengan kelezatannya!
+Bahan bahan: ^4b008210 Bread, 5 Mastela Fruits, 1 Sweet Sauce, 5 Ments, 5 Amulets, 2 Unripe Apples ^000000
+Petunjuk:
+	1. Kupas Mastela Fruits dan Apples, dan potong dengan ukuran kecil kecil.
+	2. Cuci Ments, dan haluskan untuk mendapatkan juicenya. Campur Ment juice dengan gula 
+                     dengan perbandingan 1:1.
+	3. Lapisi Mastela Fruits dan Apples dengan Ment juice yang sudah diberi gula.
+	4. Dinginkan dalam lemari es selama lebih kurang 30 minutes.
+	5. Rebus dengan api besar sampai berbuih.
+	6. Kecilkan api sampai sedang, tambahkan gula, dan rebus untuk membuat selai.
+	7. Pastikan untuk tetap mengaduk saat selai sedang mendidih.
+	8. Haluskan Amulets, dan campur dengan Sweet Sauce. dinginkan dalam lemari es sampai 
+                    selai menjadi matang.
+	9. Oleskan selai dan campuran Amulet dengan Sweet Sauce dengan potongan bread, dan nikmati!
+
+^008040Steamed Alligator with Vegetable:^000000 daging alligator yang lembut dan kenyal disajikan 
+                                                                    dengan sayuran segar.
+Bahan bahan: ^4b008210 Anolian Skin, 10 Jack o¡¯ Pumpkins, 10 Carrots, 10 Aloe Leaflet, 
+                    10 Yellow Herbs, 1 Yellow Spice ^000000
+Petunjuk: 
+	1. Cuci Anolian Skin, dan remas remas dengan garam, lada, air dan Yellow Spice. 
+        2. Potong Carrots dengan irisan tipis memanjang. Rebus setengah matang Aloe Leaflets dan Yellow Herbs, 
+                     dan peras hingga kering. Potong Jack o' Pumpkins tipis tipis, 
+                     goreng potongan tersebut, dan dinginkan.
+	3. Rentangkan cotton cloth di sebuah papan kayu tebal, dan taruh Anolian Skin yang sudah bumbui
+                     di papan. Taruh ppan tersbut kedalam kukusan, dan kukus selama 15 menit.
+	4. Cut the skin into bite sized pieces, and serve with vegetables.
+
+^ff8040Sumptuous Feast:^000000 ambil bagian dari hidangan dengan bahan bahan makanan yang unik.
+Bahan bahan: ^4b008210 Fish Tails, 5 Aloe Leaflets, 10 Manes, 2 Fresh Fishes, 10 Pet Food, 
+                   1 Sweet Sauce ^000000
+Petunjuk: 
+	1. Rebus setengah masak Aloe Leaflets di air garam.
+	2. Kupas sisik dari ikan segar, lumuri dengan Sweet Sauce, dan bairkan selama 10 menit. 
+        3. Bungkus ikan yang sudah dibumbui dengan Aloe Leaflets. Kukus ikan yang sudah dibungkus dan 
+                    juga Fish Tails selama 10 menit, dan sajikan di atas piring.
+	4. Potong Manes sepanjang 4 cm per potong, dan rebus setengah masak.
+	5. Potong Pet Food kecil kecil, dan campur dengan Sweet Sauce. 
+                    Panggang potongan Pet Food dengan penggorengan.
+         
+
+^400080Assorted Shish Kebob:^000000 shish kebobs yang lezat dengan meat, sayuran, dan clams!
+Bahan bahan: ^4b008210 Scale Shells, 5 Gill, 10 Soft Blades of Grass, 5 Meat, 10 Edible Mushrooms, 10 Clam Flesh ^000000
+Petunjuk: 
+	1. Potong Soft Blades of Grass sepanjang 4 cm per potong, dan iris Edible Mushrooms.
+	2. Cuci Scale Shells dan juga tulang belakang yang terpanjang dari Gills dibawah air dingin yang mengalir.
+	3. Rebus setengah masak Meat dan Clam Flesh.
+	4. Susun bahan bahan di tulang belakang Gill: pertama susun daging, kemudian sayuran, 
+                    dan akhirnya clam flesh.
+	5. Panaskan Scale Shells dengan api sedang, dan taruh kebob dalam scales untuk memasak.

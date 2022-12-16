@@ -1,0 +1,86 @@
+%faf0e6
+^000088Koki sejati dapat memasak makan enak, walaupun seadng dibalik jeruji besi.^000000
+
+Buku tentang resep mamasak Level 6: "Hanya ada satu hasil. Ada didalam pot ini!"
+Ini adalah resep rahasia yang diunkapkan ke publik oleh cucu seorang koki terakhir yang mendedikasikan hidupnya untuk memasak. 
+
+^ff0000Shiny Marinade Beef:^000000 hidangan daging berkuah bumbu siraman honey.
+Bahan bahan: ^4b008210 Meat, 2 Honey, 1 Yellow Herb, 1 Mastela Fruit, 20 Shining Scales^000000
+Petunjuk: 
+	1. Lepaskan tulang dari dagingt, dan empukkan daging yang sudah tidak bertulang.
+	2. Taruh daging di mangkuk yang lebar,  dan siramkan Honey dan Mastela Fruit juice.
+	3. Pukul pukul daging dengan tanganmu, dan taburkan garam dan lada.
+	4. Bungkus daging dengan Shining Scales, dan masukkan kedalam pendingin semalaman.
+	5. Panaskan panggangan dengan panas tinggi, dan panggang daging yang sudah dibumbui.
+	6. Siapkankan piring lebar yang agak dalam, dan hias dengan Yellow Herbs.
+	7. Sajikan daging panggang diatas piring.
+
+^0000ffRed Mushroom Wine:^000000anggur nikmat yang terbuat dari Red Mushrooms
+Bahan bahan: ^4b00823 3 Edible Mushrooms, 3 Grape Juice, 20 Mushroom Spores, 1 Alcohol, 
+                   1 Red Spice^000000
+Petunjuk:
+	1. Potong Mushrooms yang dapat dimakan menjadi irisan tipis.
+	2. Tuangkan Grape Juice kedalam wadah mangkuk, dan tambahkan irisan Mushroom dan Mushroom Spores 
+                    dilapisan yang lain. Masukkan ke lemari pendingin selama 1 sampai 3 hari.
+	3. Tambahkan Alcohol dan sedikit Red Spice kedalam wadah mangkuk, dan tutup dengan rapat 
+                    agar kedap udara.
+	4. Simpan anggur di tempat yang gelap dan kering selama 3 bulan.
+	5. Ketika anggur sudah disimpan lama, keluarkan isinya, dan murnikan anggur dengan penyaring.
+	6. Masukkan anggur kedalam botol dan nikmati.
+
+^800000Peach Cake:^000000 peach cake yang lembut dan manis.
+Bahan bahan: ^4b008220 Solid Peach, 10 Pieces of Cake, 10 Cheese, 10 Milk, 5 Orange Juice, 
+                   1 Sweet Sauce ^000000
+Petunjuk: 
+	1. Lepaskan adonan gula pada Pieces of Cake, sehingga hanya tinggal cakenya saja.
+	2. Potong Solid Peaches menjadi irisan tipis.
+	3. Taruh Sweet Sauce dan sedikit Cheese kedalam pot, dan panaskan sebentar.
+	4. Tambahkan irisan Solid Peach, dan rebus hingga irisane peach menjadi lunak. 
+	5. Dinginkan isi pot sampai dengan suhu ruangan.
+	6. Oleskan mentega di wadah cake, dan taburkan gula.
+	7. Lelehkan keju, dan campur dengan telur dan milk. Aduk campuran tersebut sehingga menjadi 
+                    whipping cream.
+	8. Taruh cake dan peach yang sudah direbus di lapisan lain dalam cake tersebut. 
+        9. Panggang cake dalam oven dengan suhu 160 Celsius selama 50 menit.
+	10. Oleskan whipping cream diseluruh cake, dan hias dengan buah dan kue sesuai keinginan. 
+        11. Nikmati rasa manis dari Peach Cake.
+
+
+
+^008040Chile Shrimp Gratin:^000000
+Bahan bahan: ^4b008220 Red Chiles, 20 Shrimps, 1 Sweet Sauce, 20 Lemons ^000000
+Petunjuk: 
+	1. Kuliti Shrimps, dan peras semua lemon sisakan satu untuk membuat juice.
+	2. Haluskan Red Chiles untuk membuat Chile powder.
+	3. Panaskan pengorengan dengan panas tinggi, dan tambahkan Chile powder, 5 cangkir air, dan Shrimps. 
+                    Masak sebentar.
+	4. Tambahkan Sweet Sauce dan lemon juice, dan lanjutkan memasak.
+	5. Taburkan mentega dengan parutan keju, dan taruh Shrimps goreng dan cheese dalam mangkuk.
+	6. Panaskan oven pada suhu 180 Celsius, dan panggang selama 10 menit.
+	7. Sajikan dengan potongan lemon diatasnya.
+              
+
+^ff8040Awfully Bitter Bracer:^000000ingatlah bahwa pil pahit mempunyai efek yang mnyembuhkan.
+Bahan bahan: ^4b008220 Brown Roots, 10 Maneater Roots, 20 Mushroom Spores, 1 Edible Mushroom, 
+                    2 Honey^000000
+Petunjuk:
+	1. Keringkan bahan bahan obat dibawah sinar matahari selama beberapa hari sampai semuanya kering. 
+        2. Potong bahan yang sudah kering dengan irisan tipis.
+	3. Tuangkan 4 sampai 5 cangkir air dingin kedalam mangkuk obat atau teapot, dan tambahkan semua 
+                    bahan bahan obat.
+	4. Panaskan selama 1 sampai 2 jam dengan api sedang.
+	5. Kalau sudah mendidih dan berbusa, matikan kompor.
+	6. Jangan menyaring ampas dengan menggunakan kain: minum saja airnya kecuali ampasnya. 
+        7. Kamu bisa membuat seduhan yang baru dengan menambahkan ampas dengan air dan merebusnya kembali.
+
+
+^400080Lucky Soup:^000000 meminum sup ini mungkin akan membawakanmu keberuntungan!
+Bahan bahan: ^4b00825 Reptile Tongues, 5 Tongues, 10 Clovers, 10 Witch Starsand, 1 Aloe ^000000
+Petunjuk: 
+	1. Rebus setengah masak Reptile Tongues dan Tongues, dan cuci dengan air dingin. 
+                    Potong dengan irisan tipis.
+	2. Kelupas kulit Aloe, dan potong Aloe dengan irisan tipis.
+	3. Rebus air dan Witch Starsand didalam pot yang besar sebentar saja.
+	4. Tambahkan irisan tongues kedalam pot, dan rebus.
+	5. Tambahkan Clovers, dan rebus bersama isi pot lagi selama beberapa waktu.
+

@@ -1,0 +1,64 @@
+%faf0e6
+^000088Pembuatan potions khusus untuk meningkatkan 
+pertahanan akan elemen.^000000
+
+
+----------------Preface--------------------
+Kamu dapat menaikkan pertahanan terhadap 4 elemen dasar
+Api, Air, Angin,dan Tanah,
+dengan menggunakan katalis untuk membuat potions
+yang akan menyediakan proteksi terhadap tiap elemen. Saya menulis
+buku pertahanan elemen ini dengan harapan agar
+prinsip-prinsp dan pengetahuanku akan 4 elemen dasar
+dapat membantu Alchemist pada masa yang akan datang.
+------------------------------------------
+
+
+What is a ^ff0000property resistance potion^000000?
+
+
+Properti potions pertahanan sementara waktu meningkatkan
+pertahanan kepada 1 element, dan juga akan mengurangi pertahanan
+pada elemet yang berlawanan. Contohnya, fireproof
+potions dapat menahan serangandari elemen api, tetapi mereka
+juga mendapat serangan lebih dari elemen air.
+
+
+^0000ffFireproof Potion^000000: Meningkatkan pertahanan terhadap prperti elemen api.
+material yang dibutuhkan: ^4b008222 Frills,
+1 Red Gemstone, 1 Empty potion bottle^000000
+Proses: Letakkan hiasan tambahan dan red gemstone kedalam
+medicine bowl. Gunakan Skill Prepare Potion sehingga
+gemstone tersebut akan mulai mengkatalis bahan-bahan lainnya
+lalu tuangkan solusi campuran itu ke dalam empty potion bottle.
+
+^800000Coldproof Potion^000000: Meningkatkan pertahanan terhadap properti elemen air.
+material yang dibutuhkan: ^4b00823 Heart of Mermaids,
+1 Blue Gemstone, 1 Empty Potion Bottle^000000
+Proses: Letakkan hearth of mermaid dan blue gemstone kedalam
+medicine bowl. Gunakan Skill Prepare Potion sehingga
+gemstone tersebut akan mulai mengkatalis bahan-bahan lainnya
+lalu tuangkan solusi campuran itu ke dalam empty potion bottle.
+
+
+
+^008040Thunderproof Potion^000000: Meningkatkan pertahanan terhadap properti elemen  angin.
+material yang dibutuhkan: ^4b00823 Moth Dust,
+1 Blue Gemstone, 1 Empty Potion Bottle^000000
+Proses:  Letakkan moth dush dan blue gemstone kedalam
+medicine bowl. Gunakan Skill Prepare Potion sehingga
+gemstone tersebut akan mulai mengkatalis bahan-bahan lainnya
+lalu tuangkan solusi campuran itu ke dalam empty potion bottle.
+
+
+
+
+
+^ff8040Earthproof Potion^000000: Meningkatkan pertahanan terhadap properti elemen tanah.
+material yang dibutuhkan: ^4b00823 Moth Dust,
+material yang dibutuhkan: ^4b00822 Large Jellopies,
+1 Yellow Gemstone, 1 Empty potion bottle^000000
+Proses:  Letakkan lagre Jellopies dan yellow gemstone kedalam
+medicine bowl. Gunakan Skill Prepare Potion sehingga
+gemstone tersebut akan mulai mengkatalis bahan-bahan lainnya
+lalu tuangkan solusi campuran itu ke dalam empty potion bottle.

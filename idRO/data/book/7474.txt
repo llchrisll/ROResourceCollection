@@ -1,0 +1,88 @@
+%faf0e6
+^000088- Sebuah best seller diantara para ibu rumah tangga di Rune-Midgard! 
+Jangan lewatkan kesempatan ini untuk menjadi seorang master koki! -^000000 
+Juga sebuah best seller pada setiap suami: biarkan istri anda istirahat di akhir minggu. 
+Buku ini akan mengajarkanmu bagaimana memasak resep Level 3 secara mudah!
+
+
+^ff0000Bomber Steak:^000000 rasa pedas yang meledak, pasti akan meningkatkan nafsu makanmu!
+Bahan bahan: ^4b00824 Meat, 1 Old Frying Pan, 10 Green Herbs, 5 Red Chile, 1 Spicy Sauce ^000000
+Petunjuk: 
+	1. Empukkan daging dengan memukulnya menggunakan bagian belakang Mace.
+	2. Giling Green Herbs yang dikeringkan dan Cabai merah.
+	3. Rendam daging yang sudah diempukkan dalam campuran Green Herbs dan Cabai merah.
+	4. Panaskan Old Frying Pan dengan api sedang, dan tambahkan minyak and mentega.
+	5. Taburkan sedikit garam ke daging sebelum dimasak.
+	6. Mulai memasak daging dalam frying pan dengan satu sisi.
+	7. Ketika satu sisi mulai matang, taburkan sedikit garam, kemudian balik daging.
+	8. Masak sisi yang daging yang lain hingga garing dan berwarna coklat gelap.
+	9. Letakkan steak dalam piring datar, dan hias dengan 3 atau 4 daun Green Herb, 
+                    dan kemudian sajiakn dengan saus pedas.
+          
+
+^0000ffHoney Herbal Tea:^000000aroma teh nya bisa membuat napasmu menjadi harum!
+Bahan Bahan: ^4b00822 Honey, 10 White Herbs, 1 Yellow Spice ^000000
+Petunjuk: 
+Herb Kering biasanya digunakan untuk membuat teh herbal, tapi herb yang segar biasanya digunakan dalam resep ini.
+Herb itu 90% lembab, jadi kamu harus menggunakan 3 sampai 4 kali lebih banyak herbs segar dari pada
+herb kering untuk mendapatkan rasa yang sesungguhnya. Kalau kamu tidak mempunyai cukup herb, kamu bisa menukarnya 
+sebagian dengan Yellow Spice.
+	1. Taruh herb dalam teapot, tuangkan air panas, dan tutup teapot.
+	2. Diamkan teh selama 4 sampai 5 menit, terutama karena kamu menggunakan herb segar. 
+                    Kalau kamu mengganti dengan herb kering, rebus selama 3 menit.
+	3. Tambahkan Yellow Spice dan Honey untuk rasa, dan nikmati.
+
+
+^800000Fruit Mix:^000000 nikmati renyahnya buah yang segar dan manis!
+Bahan  bahan: ^4b00825 Apples, 5 Bananas, 5 Oranges, 5 Strawberries, 1 Yellow Spice ^000000
+Petunjuk: 
+	1. Cuci bersih Apples, Oranges, dan Strawberry.
+	2. Kupas kulit Apples, Oranges, and Bananas, dan potong kecil kecil. 
+                    Potong Strawberry menjadi dua.
+	3. Taruh Apples dan Oranges dalam gelas panjang, dan tambahkan Bananas dan 
+                    Strawberry diatas Apples and Oranges. Ini hanya saran penyajian, 
+                    dan kamu bisa campur buah sesuai dengan keinginan.
+	4. Sajikan buah campur dengan Yellow Spice ditaburkan diatasnya.
+         
+^008040Tentacle Cheese Gratin:^000000 rasakan kekayaan rasa dari parutan keju dan 
+                                                     Tentacles yang lembut.
+Bahan bahan: ^4b008210 Tentacles, 10 cheese, 5 Yam, and 1 Sweet Sauce ^000000
+Petunjuk:
+	1. Cuci bersih dan kupas kulit Yams. Potong Yams menjadi potongan besar.
+	2. Cuci bersih Tentacles, dan potong menjadi ukuran 3 sampai 4 cm per potong.
+	3. Panaskan frying pan dengan api sedang.
+	4. Tambahkan minyak kedalam pan, dan goreng tentacles. 
+	5. Tambahkan garam dan merica dalam memasak.
+	6. Oleskan mentega diatas mangkuk yang ditaburi keju, dan tambahkan Tentacles goreng dan potong Yams. 
+	7. Siramkan saus manis dan keju di atas Tentacles dan Yams.
+	8. Panggang dalam oven selama 10 menit.
+
+^ff8040Clam Soup:^000000 lupakan rasa sup yang biasa. Sekarang saatnya menikmati semanggkuk sup dengan
+			     rasa unik Clam Soup!
+Bahan bahan: ^4b008220 Clam Flesh, 10 Conch, 1 Honey, 1 Sweet Sauce ^000000
+Petunjuk: 
+	1. Gosok dan bersihkan Conches dengan air dingin.
+	2. Kukus Conches, dan keluarkan isinya. Potong kotak daging Conch yang sudah masak. 
+        3. Tambahkan air dan masukkan daging Conch kedalam panci, dan rebuslah.
+	4. Ambil busa yang keluar dari kuah kaldu saat merebus, dan saring kaldu setelah selesai 
+                    merebus.
+	5. Tuangkan kaldu yang sudah disaring kedalam panci, dan tambahkan Clam Flesh dan Conch flesh.
+	6. Rebus supnya dan tambahkan Honey dan Sweet Sauce.
+        
+
+^400080Fried Sweet Potato:^000000potato yang dimasak dan diberi honey yang lembut didalam,  
+                                             dan renyah diluar!
+Bahan bahan: ^4b008210 Potatoes, 10 Yams, 1 Sweet Potato,1 Sweet Sauce ^000000
+Petunjuk:
+	1. Bersihkan dan tiriskan Potatoes dan Yams. Potong kecil kecil dengan kulitnya. 
+                    Sweet Potato untuk menghilangkan laparmu sebelum 
+                    makanan siap, jadi makan saja saat kau memasak.
+	2. Siapkan penggorengan besar, dan tuangkan cukup minyak agar Potatoes dan Yams terendam. Panaskan minyak.
+	3. Saat minyak mulai mendidih, tambahkan Potatoes and Yams, dan goreng sampai 
+                    kulitnya garing dan coklat keemasan.
+	4. Keluarkan Potatoes dan Yams dari minyak saat sudah matang, dan letakkan pada saringan 
+                    untuk menghilangkan minyak berlebih.
+	5. Tambahkan 1 sendok teh minyak goreng dan  1 Yellow Sauce ke penggorengan. Campur minyak dan sauce bersama.
+	6. Tambahkan Potatoes goreng dan Yams kedalam penggorengan, dan masak hingga sauce dan minyak menjadi lengket. 
+Sajikan Potatoes dan Yams dalam piring datar dengan taburan biji black sesame diatasnya.
+

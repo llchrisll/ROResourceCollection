@@ -1,0 +1,35 @@
+%faf0e6
+^000088Alchemy Basics: Plant Bottle Creation^000000
+
+
+----------------Preface--------------------
+Menggunakan alchemy untuk membentuk dan menggabungkan bentuk biologi
+adalah hal yang susah, dan dianggap sangat maju dalam ilmu pengetahuan.
+Ketika kami mengganti percobaan kepada tanaman,
+Kami gagal untuk merubah semua dari mereka dikarenakan mereka sangat lemah
+untuk bertahan dari perubahan sifat kimiawi. Baru sebelum kami memustuskan untuk
+meninggalkan penelitian ini, Kami menemukan bahwa tanaman man-eating
+dekat gunung mjolnir dan juno sangat kuat,
+dan dapat bertahan dari perubahan alchemic. Buku ini berisikan secara detail
+proses perubahan tanaman man-eating kedalam bentuk botol.
+------------------------------------------
+
+
+
+
+What is a ^ff8040plant bottle^000000?
+
+Tanaman botol tumbuhan man-eating diperlakukan secara alchemy
+yang sudah berubah sehingga mereka dapat
+dibawa di dalam botol. Melemparbotol ini ke tanah akan
+memproduksi tumbuhan monster yang sudah dewasa yang akan menyerang
+mahkluk lain. Alchemist harus memanggil skill Flora dalam rangka
+untuk megnubah botol tanaman menjadi tumbuhan man-eating.
+
+
+Ingredients: ^4b00822 Maneater Blossoms, 1 Empty Bottle^000000
+
+Petunjuk: Tempatkan dua buah Maneater Blossomske dalam medicine
+bowl, lalu kemudian gunakan Prepare Potion skill sewaktu merujuk 
+ke buku ini. Kamu harus belajar keahlian untuk memanggil Flora
+untuk mengubah menjadi tumbuhan man-eating lagi.

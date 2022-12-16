@@ -1,0 +1,97 @@
+%faf0e6
+^000088Saya akan menjadi kepuasan akan diri sendiri
+jika saya menguasai dasar dari pembuatan potion…^000000
+
+
+----------------Preface--------------------
+
+Pembuatan potion dianggap sesuatu yang dianggap penting
+dari esensial dasar ilmu alchemy. Edisi Final ini merincikan tentang
+proses produksi potion yang dapat memberikan Alchemists untuk memulihkan
+HP, SP, mereka bahkan menyembuhkan status negatif dengan menggunakan
+potions yang dengan mudah mereka buat!
+
+------------------------------------------
+
+What is a ^ff0000potion^000000?
+
+Sebuah potion adalah 1 buah dosis obat atau racun yang berbentuk cair.
+Kebanyakan potions digunakan sebagai obat untuk memulihkan
+HP atau SP, menyembuhkan status negatif, atau or menambah status
+ke tubuh manusia untuk sementara waktu. Buku ini berisikan instruksi untuk memproduksi
+red, yellow, white, dan blue potions, anodyne, aloevera,
+dan embryos.
+
+^0000ffRed Potion^000000: Memulihkan 45 HP.
+Matrial yang dibutuhkan: ^4b00821 Red Herb,
+1 Empty Potion bottle^000000
+Proses: Tumbuk red herb di dalam medicine bowl,
+lalu perlahan-lahan tambahkan air bersih. Kmu harus menyimpan buku ini 
+sebagai referensi ketika kamu menggunakan
+Skill Prepare Potion untuk menuang hasil dari campuran solusi
+ke dalam empty potion bottle.
+
+^800000Yellow Potion^000000: memulihkan 175 HP.
+Matrial yang dibutuhkan: ^4b00821 Yellow Herb,
+1 Empty Bottle^000000
+Proses: Tumbuk yellow herb di dalam medicine bowl,
+lalu perlahan-lahan tambahkan air bersih. Kmu harus menyimpan buku ini 
+sebagai referensi ketika kamu menggunakan
+Skill Prepare Potion untuk menuang hasil dari campuran solusi
+ke dalam empty potion bottle.
+
+
+
+^008040White Potion^000000: memulihkan 325 HP.
+Matrial yang dibutuhkan: ^4b00821 White Herb,
+1 empty bottle^000000
+Proses: Tumbuk white herb di dalam medicine bowl,
+lalu perlahan-lahan tambahkan air bersih. Kmu harus menyimpan buku ini 
+sebagai referensi ketika kamu menggunakan
+Skill Prepare Potion untuk menuang hasil dari campuran solusi
+ke dalam empty potion bottle.
+
+
+^ff8040Blue Potion^000000: memulihkan 60 SP.
+Matrial yang dibutuhkan: ^4b00821 Blue herb,
+1 empty potion, 1 scell^000000
+Proses: Tumbuk blue herb dan scell di dalam medicine bowl,
+lalu perlahan-lahan tambahkan air bersih. Kmu harus menyimpan buku ini 
+sebagai referensi ketika kamu menggunakan
+Skill Prepare Potion untuk menuang hasil dari campuran solusi
+ke dalam empty potion bottle.
+
+^400080Anodyne^000000: obat penahan rasa sakit
+dimana untuk sementara waktu meniadakan rasa sakit.
+Matrial yang dibutuhkan: ^4b00821 Alcohol,
+1 Empty Bottle, 1 Ment^000000
+Proses: Tumbuk ment di dalam medicine bowl,
+lalu perlahan-lahan tambahkan air bersihdan alcohol.
+Kmu harus menyimpan buku ini 
+sebagai referensi ketika kamu menggunakan
+Skill Prepare Potion untuk menuang hasil dari campuran solusi
+ke dalam empty potion bottle..
+
+
+^008040Aloevera^000000: Untuk sementara waktu meningkatkan
+Tingkat penyerangan kamu sebagai gantinya mengurangi tingkat pertahanan.
+Matrial yang dibutuhkan: ^4b00821 Alcohol, 1 Empty Bottle, 1 Honey^000000
+Proses: Tuangkan madu dan alcohol ke dalam medicine
+bowl, dan aduk campuran itu. Perlahan-lahan tambahkan sedikit air
+ketika mengaduk. Jika kamu menyadarai akan kurangnya aloe
+di prosedur ini, Lalu berfikirlah tentang
+kenapa kamu seorang alchemist, apa yang kamu dapat lakukan dengan buku alchemy,
+(Jawaban yang tepat adalah untuk melewatkan bahan bahan pembuatannya). Kamu harus menjaga
+book with you as a reference while you use the Prepare Potion
+skill untukmenuang pour hasil solusi solution ke dalam empty bottle.
+
+^ff0000Embryo^000000: Dasar-dasar ilmu alchemy
+, dan apa yang dibutuhkan dalam membuat homunculi.
+Matrial yang dibutuhkan: ^4b00821 Morning Dew of Yggdrasil,
+1 Seed of Life, 1 Glass Tube^000000
+Proses: gabungkan Combine embun pagi dari Yggfrasil dan
+seed of life ke dalam medicine bowl, Lalu gunakan
+Skill Prepare Potion untuk menggabungkan hasilnya kedalam glass tube
+dimana embrio akan terbentuk. Kamu harus belajar
+Bioethics jika kamu ingin memubuat sebuah embryo: Kamu harus
+waspada dari bahayanya asosiasi pembuat homunculifully.
