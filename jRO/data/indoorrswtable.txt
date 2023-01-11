@@ -92,8 +92,6 @@ aldeba_in.rsw#
 monk_in.rsw#
 prt_are_in.rsw#
 arena_room.rsw#
-sword_1-1.rsw#
-sword_2-1.rsw#
 sword_3-1.rsw#
 xmas_in.rsw#
 cmd_in01.rsw#
@@ -297,8 +295,6 @@ world_st01.rsw#
 world_st02.rsw#
 world_st03.rsw#
 //----------------------------------------------------------
-jp_ev_map05.rsw#
-//----------------------------------------------------------
 //jp_ev_map54.rsw#
 //jp_ev_map55.rsw#
 //jp_ev_map56.rsw#
@@ -444,4 +440,16 @@ base200.rsw#
 //----------------------------------------------------------
 melon_que3.rsw#
 melon_que8.rsw#
+//----------------------------------------------------------
+job3_gen01.rsw#
+job3_guil01.rsw#
+job3_guil02.rsw#
+sword_1-1.rsw#
+sword_2-1.rsw#
+//----------------------------------------------------------
+memohall.rsw#
+1@ld100.rsw#
+2@ld100.rsw#
+2@ld213.rsw#
+2@ld224.rsw#
 //----------------------------------------------------------

@@ -285,48 +285,6 @@ TargetItems = {
 }
 , NeedSource_String = "開運招福の鈴"}
 , 
-Magma_Essence = {ItemID = 23815, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
-TargetItems = {
-{"Lava_Leather_Armor", 15378}
-, 
-{"Lava_Leather_Suits", 15379}
-, 
-{"Lava_Leather_Robe", 15380}
-, 
-{"Lava_Leather_Manteau", 20935}
-, 
-{"Lava_Leather_Muffler", 20936}
-, 
-{"Lava_Leather_Hode", 20937}
-, 
-{"Lava_Leather_Boots", 22199}
-, 
-{"Lava_Leather_Shoes", 22200}
-, 
-{"Lava_Leather_Sandle", 22201}
-}
-, NeedSource_String = "守護のエッセンス"}
-, 
-Essence1_JP = {ItemID = 100348, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
-TargetItems = {
-{"Wand_Of_Flame", 26138}
-, 
-{"Wand_Of_Ice", 26139}
-, 
-{"Prisoner_Dairy", 28619}
-}
-, NeedSource_String = "闘気のエッセンス"}
-, 
-Essence2_JP = {ItemID = 100349, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
-TargetItems = {
-{"Staff_Of_Blue_Flame", 2049}
-, 
-{"T_Sword_Of_Kingdom", 21039}
-, 
-{"T_Lance_Of_Kingdom", 26016}
-}
-, NeedSource_String = "猛気のエッセンス"}
-, 
 Helm_C_unit_1_JP = {ItemID = 100532, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Cor_Core_Headset", 410014}
@@ -1032,6 +990,236 @@ TargetItems = {
 {"Ep172_1h_Hammer", 590006}
 }
 , NeedSource_String = "大罪武器魔改造装置(Type6)"}
+, 
+Magma_Essence = {ItemID = 23815, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Lava_Leather_Armor", 15378}
+, 
+{"Lava_Leather_Suits", 15379}
+, 
+{"Lava_Leather_Robe", 15380}
+, 
+{"Lava_Leather_Manteau", 20935}
+, 
+{"Lava_Leather_Muffler", 20936}
+, 
+{"Lava_Leather_Hode", 20937}
+, 
+{"Lava_Leather_Boots", 22199}
+, 
+{"Lava_Leather_Shoes", 22200}
+, 
+{"Lava_Leather_Sandle", 22201}
+, 
+{"DragonA_Red", 15391}
+, 
+{"Drag_Manteau", 20946}
+, 
+{"Dragon_Boots", 22208}
+, 
+{"CassockA_DEX", 15400}
+, 
+{"Cassock_Manteau", 20947}
+, 
+{"Cassock_Boots", 22209}
+}
+, NeedSource_String = "守護のエッセンス"}
+, 
+Essence1_JP = {ItemID = 100348, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Wand_Of_Flame", 26138}
+, 
+{"Wand_Of_Ice", 26139}
+, 
+{"Prisoner_Dairy", 28619}
+, 
+{"Ein_1HKNUCK", 1867}
+, 
+{"Ein_1HHAMMER", 16099}
+, 
+{"Ein_1HWAND", 26162}
+, 
+{"Ein_1HWHIP", 26215}
+, 
+{"Ein_1HBOOK", 28635}
+, 
+{"Ein_1HDAGGER", 28771}
+, 
+{"Ein_1HMAGGER", 28772}
+, 
+{"Ein_1HSPEAR", 32026}
+, 
+{"Ein_1HLUTE", 32110}
+, 
+{"Ein_1HSWORD", 32352}
+, 
+{"Ein_1H_Foxtail", 550006}
+}
+, NeedSource_String = "闘気のエッセンス"}
+, 
+Essence2_JP = {ItemID = 100349, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Staff_Of_Blue_Flame", 2049}
+, 
+{"T_Sword_Of_Kingdom", 21039}
+, 
+{"T_Lance_Of_Kingdom", 26016}
+, 
+{"Ein_BHSTAFF", 2058}
+, 
+{"Ein_BHHuuma", 13346}
+, 
+{"Ein_BHSWORD", 21054}
+, 
+{"Ein_BHKATAR", 28045}
+, 
+{"Ein_BHAXE", 28140}
+, 
+{"Ein_BHBOW", 18190}
+, 
+{"Ein_1HGUN", 32303}
+}
+, NeedSource_String = "猛気のエッセンス"}
+, 
+Abyss_Ddbox = {ItemID = 23981, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"DragonA_Red", 15391}
+, 
+{"Drag_Manteau", 20946}
+, 
+{"Dragon_Boots", 22208}
+, 
+{"CassockA_DEX", 15400}
+, 
+{"Cassock_Manteau", 20947}
+, 
+{"Cassock_Boots", 22209}
+, 
+{"Lava_Leather_Armor", 15378}
+, 
+{"Lava_Leather_Suits", 15379}
+, 
+{"Lava_Leather_Robe", 15380}
+, 
+{"Lava_Leather_Manteau", 20935}
+, 
+{"Lava_Leather_Muffler", 20936}
+, 
+{"Lava_Leather_Hode", 20937}
+, 
+{"Lava_Leather_Boots", 22199}
+, 
+{"Lava_Leather_Shoes", 22200}
+, 
+{"Lava_Leather_Sandle", 22201}
+}
+, NeedSource_String = "竜気のエッセンス"}
+, 
+Abyss_Ddbox2 = {ItemID = 100142, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"DragonA_Red", 15391}
+, 
+{"Drag_Manteau", 20946}
+, 
+{"Dragon_Boots", 22208}
+, 
+{"CassockA_DEX", 15400}
+, 
+{"Cassock_Manteau", 20947}
+, 
+{"Cassock_Boots", 22209}
+, 
+{"Lava_Leather_Armor", 15378}
+, 
+{"Lava_Leather_Suits", 15379}
+, 
+{"Lava_Leather_Robe", 15380}
+, 
+{"Lava_Leather_Manteau", 20935}
+, 
+{"Lava_Leather_Muffler", 20936}
+, 
+{"Lava_Leather_Hode", 20937}
+, 
+{"Lava_Leather_Boots", 22199}
+, 
+{"Lava_Leather_Shoes", 22200}
+, 
+{"Lava_Leather_Sandle", 22201}
+}
+, NeedSource_String = "祝福のエッセンス"}
+, 
+Ein_Ddbox = {ItemID = 9514, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Wand_Of_Flame", 26138}
+, 
+{"Wand_Of_Ice", 26139}
+, 
+{"Prisoner_Dairy", 28619}
+, 
+{"Ein_1HKNUCK", 1867}
+, 
+{"Ein_1HHAMMER", 16099}
+, 
+{"Ein_1HWAND", 26162}
+, 
+{"Ein_1HWHIP", 26215}
+, 
+{"Ein_1HBOOK", 28635}
+, 
+{"Ein_1HDAGGER", 28771}
+, 
+{"Ein_1HMAGGER", 28772}
+, 
+{"Ein_1HSPEAR", 32026}
+, 
+{"Ein_1HLUTE", 32110}
+, 
+{"Ein_1HSWORD", 32352}
+, 
+{"Ein_1H_Foxtail", 550006}
+}
+, NeedSource_String = "アインブロック武器改造許可証I"}
+, 
+Ein_Ddbox2 = {ItemID = 9529, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Staff_Of_Blue_Flame", 2049}
+, 
+{"T_Sword_Of_Kingdom", 21039}
+, 
+{"T_Lance_Of_Kingdom", 26016}
+, 
+{"Ein_BHSTAFF", 2058}
+, 
+{"Ein_BHHuuma", 13346}
+, 
+{"Ein_BHSWORD", 21054}
+, 
+{"Ein_BHKATAR", 28045}
+, 
+{"Ein_BHAXE", 28140}
+, 
+{"Ein_BHBOW", 18190}
+, 
+{"Ein_1HGUN", 32303}
+}
+, NeedSource_String = "アインブロック武器改造許可証II"}
+, 
+GrayWolf_7_Ticket = {ItemID = 100626, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Gray_W_Suits", 450177}
+, 
+{"Gray_W_Robe", 450178}
+, 
+{"Gray_W_Boots", 470087}
+, 
+{"Gray_W_Shoes", 470088}
+, 
+{"Gray_W_Muffler", 480090}
+, 
+{"Gray_W_Manteau", 480091}
+}
+, NeedSource_String = "エンハンスキューブ(グレイウルフ)"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

@@ -1,14 +1,6 @@
 loadingscreen#
-5#
+6#
 
-
-
-
-
-//クリスマスデコレーション
-//event#
-//1#
-//
 //HaloweenMap用エフェクト
 //以下、永久実装（ハロウィン専用マップ）
 weather#hal_main.rsw#pokjuk#

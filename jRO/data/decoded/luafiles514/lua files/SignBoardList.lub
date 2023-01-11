@@ -1616,6 +1616,150 @@ SignBoardList = {
 , 
 {"melon_f2", 217, 119, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ﾒﾛﾝﾌｪｽﾀ会場�\214", "255,255,255"}
 , 
+{"izlude", 104, 231, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  転職クエスト報酬", "255,255,255"}
+, 
+{"ein_dun02", 16, 250, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  鉱山ダンジョン 03へ", "255,255,255"}
+, 
+{"ein_dun03", 268, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  鉱山ダンジョン 02へ", "255,255,255"}
+, 
+{"ein_dun03_j", 268, 283, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  鉱山ダンジョン 02へ", "255,255,255"}
+, 
+{"abyss_03", 91, 110, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アビスレイク地下洞窟 04へ", "255,255,255"}
+, 
+{"abyss_04", 168, 166, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アビスレイク地下洞窟 03へ", "255,255,255"}
+, 
+{"abyss_04_j", 168, 166, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アビスレイク地下洞窟 03へ", "255,255,255"}
+, 
+{"odin_tem03", 276, 236, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  古のオーディン神殿へ", "255,255,255"}
+, 
+{"odin_past", 291, 235, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  オーディン神殿 03へ", "255,255,255"}
+, 
+{"odin_past_j", 291, 235, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  オーディン神殿 03へ", "255,255,255"}
+, 
+{"einbech", 135, 244, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  鉱山ダンジョン 03の研究", "255,255,255"}
+, 
+{"hugel", 200, 110, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  古のオーディン神殿の研究", "255,255,255"}
+, 
+{"hugel", 102, 148, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アビスレイク地下洞窟 04の調査", "255,255,255"}
+, 
+{"ev_summer01", 216, 282, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  マッスルマーチ", "255,255,255"}
+, 
+{"ev_summer01", 244, 182, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  マッスルマーチ", "255,255,255"}
+, 
+{"ev_summer41", 133, 169, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer41", 159, 171, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  訓練を始める！", "255,255,255"}
+, 
+{"ev_summer41", 151, 173, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  支援物資の整理", "255,255,255"}
+, 
+{"ev_summer41", 146, 158, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  輸送隊", "255,255,255"}
+, 
+{"ev_summer45", 133, 169, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ジムへ", "255,255,255"}
+, 
+{"ev_summer45", 159, 171, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  訓練を始める！", "255,255,255"}
+, 
+{"ev_summer45", 151, 173, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  支援物資の整理", "255,255,255"}
+, 
+{"ev_summer45", 146, 158, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  輸送隊", "255,255,255"}
+, 
+{"ev_summer41", 158, 87, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲート", "255,255,255"}
+, 
+{"ev_summer41", 95, 96, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント①", "255,255,255"}
+, 
+{"ev_summer41", 90, 257, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント②", "255,255,255"}
+, 
+{"ev_summer41", 214, 255, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント③", "255,255,255"}
+, 
+{"ev_summer41", 208, 85, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント④", "255,255,255"}
+, 
+{"ev_summer42", 72, 134, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲート", "255,255,255"}
+, 
+{"ev_summer42", 73, 202, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント①", "255,255,255"}
+, 
+{"ev_summer42", 202, 216, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント②", "255,255,255"}
+, 
+{"ev_summer42", 119, 120, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント③", "255,255,255"}
+, 
+{"ev_summer42", 243, 67, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント④", "255,255,255"}
+, 
+{"ev_summer43", 240, 244, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲート", "255,255,255"}
+, 
+{"ev_summer43", 227, 88, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント①", "255,255,255"}
+, 
+{"ev_summer43", 117, 93, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント②", "255,255,255"}
+, 
+{"ev_summer43", 58, 166, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント③", "255,255,255"}
+, 
+{"ev_summer43", 110, 198, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント④", "255,255,255"}
+, 
+{"ev_summer44", 130, 146, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲート", "255,255,255"}
+, 
+{"ev_summer44", 132, 78, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント①", "255,255,255"}
+, 
+{"ev_summer44", 214, 183, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント②", "255,255,255"}
+, 
+{"ev_summer44", 58, 244, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント③", "255,255,255"}
+, 
+{"ev_summer44", 111, 284, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント④", "255,255,255"}
+, 
+{"ev_summer45", 158, 87, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲート", "255,255,255"}
+, 
+{"ev_summer45", 95, 96, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント①", "255,255,255"}
+, 
+{"ev_summer45", 90, 257, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント②", "255,255,255"}
+, 
+{"ev_summer45", 214, 255, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント③", "255,255,255"}
+, 
+{"ev_summer45", 208, 85, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント④", "255,255,255"}
+, 
+{"ev_summer46", 72, 134, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲート", "255,255,255"}
+, 
+{"ev_summer46", 73, 202, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント①", "255,255,255"}
+, 
+{"ev_summer46", 202, 216, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント②", "255,255,255"}
+, 
+{"ev_summer46", 119, 120, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント③", "255,255,255"}
+, 
+{"ev_summer46", 243, 67, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント④", "255,255,255"}
+, 
+{"ev_summer47", 240, 244, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲート", "255,255,255"}
+, 
+{"ev_summer47", 227, 88, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント①", "255,255,255"}
+, 
+{"ev_summer47", 117, 93, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント②", "255,255,255"}
+, 
+{"ev_summer47", 58, 166, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント③", "255,255,255"}
+, 
+{"ev_summer47", 110, 198, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント④", "255,255,255"}
+, 
+{"ev_summer48", 130, 146, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲート", "255,255,255"}
+, 
+{"ev_summer48", 132, 78, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント①", "255,255,255"}
+, 
+{"ev_summer48", 214, 183, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント②", "255,255,255"}
+, 
+{"ev_summer48", 58, 244, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント③", "255,255,255"}
+, 
+{"ev_summer48", 111, 284, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  チェックポイント④", "255,255,255"}
+, 
+{"tha_t01", 135, 78, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  タナトスの記憶", "255,255,255"}
+, 
+{"tha_t01", 135, 83, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  エンチャント", "255,255,255"}
+, 
+{"tha_t01", 139, 83, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"memohall", 82, 89, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
+, 
+{"wolfvill", 167, 135, 6, IT_SIGNBOARD, "signboard\\amethyst_fragment.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"wolfvill", 164, 137, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  グレイウルフ強化", "255,255,255"}
+, 
+{"wolfvill", 170, 131, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  フィデス強化", "255,255,255"}
+, 
+{"wolfvill", 136, 113, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  転送", "255,255,255"}
+, 
+{"rachel", 106, 144, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  転送", "255,255,255"}
+, 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
 , 
 {"lby_in", 44, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐依頼", "255,255,255"}
@@ -1631,6 +1775,8 @@ SignBoardList = {
 {"geffen", 128, 64, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  夢幻の迷宮へ", "255,255,255"}
 , 
 {"prontera", 111, 78, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  夢幻の迷宮へ", "255,255,255"}
+, 
+{"lby_in", 62, 78, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  シャドウ装備精錬", "255,255,255"}
 , 
 {"pab_base01", 340, 95, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ティアマト攻城戦", "255,255,255"}
 , 
@@ -1731,6 +1877,30 @@ SignBoardList = {
 {"pab_camp", 36, 193, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  シンソウの王", "255,255,255"}
 , 
 {"pab_church", 73, 90, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  深淵の回廊", "255,255,255"}
+, 
+{"pab_service", 97, 89, 6, IT_SIGNBOARD, "signboard\\abyss_coin.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"pab_service", 96, 83, 6, IT_SIGNBOARD, "signboard\\abyss_coin.bmp", "  特殊アイテム交換", "255,255,255"}
+, 
+{"pab_service", 100, 94, 6, IT_SIGNBOARD, "signboard\\abyss_jewel.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"pab_service", 130, 74, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫サービス", "255,255,255"}
+, 
+{"pab_service", 129, 89, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  各種アイテム販売", "255,255,255"}
+, 
+{"pab_service", 127, 93, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  各種アイテム作成", "255,255,255"}
+, 
+{"pab_service", 119, 98, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  深淵の回廊ｴﾝﾁｬﾝﾄ", "255,255,255"}
+, 
+{"pab_service", 99, 73, 20, IT_SIGNBOARD, "signboard\\over_card.bmp", "  アルカナカード交換", "255,255,255"}
+, 
+{"pab_service", 107, 98, 6, IT_SIGNBOARD, "signboard\\melon.bmp", "  メロン鑑定", "255,255,255"}
+, 
+{"pab_service", 97, 78, 6, IT_SIGNBOARD, "signboard\\abyss_stone.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"pab_service", 113, 98, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  出口", "255,255,255"}
+, 
+{"prontera", 92, 63, 20, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  深淵の回廊へ", "255,255,255"}
 , 
 {"pab_camp", 21, 171, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｾｷｭｱﾛｸﾞｲﾝﾎﾞｰﾅｽ", "255,255,255"}
 , 
@@ -1862,6 +2032,12 @@ SignBoardList = {
 , 
 {"hal_main", 190, 165, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
 , 
+{"hal_main", 203, 159, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  甘いお菓子は何処？", "255,255,255"}
+, 
+{"hal_main", 197, 159, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  魅惑のお菓子", "255,255,255"}
+, 
+{"hal_main", 181, 197, 12, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ランタン・ハント", "255,255,255"}
+, 
 {"ev_summer01", 220, 282, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  マシンガンHighタッチ", "255,255,255"}
 , 
 {"ev_summer01", 244, 200, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  マシンガンHighタッチ", "255,255,255"}
@@ -1897,5 +2073,41 @@ SignBoardList = {
 {"ev_june01", 177, 184, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
 , 
 {"ev_june01", 164, 153, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  Letter For You", "255,255,255"}
+, 
+{"prontera", 105, 68, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  モンスター大討伐", "255,255,255"}
+, 
+{"yuno", 211, 329, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミッションマスター", "255,255,255"}
+, 
+{"yuno", 216, 329, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ミッション転送サポート", "255,255,255"}
+, 
+{"yuno", 221, 329, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  転職・転生サポート", "255,255,255"}
+, 
+{"yuno", 205, 316, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  セーブ・倉庫", "255,255,255"}
+, 
+{"yuno", 214, 316, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  回復", "255,255,255"}
+, 
+{"yuno", 202, 303, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【40Zeny】", "255,255,255"}
+, 
+{"yuno", 192, 291, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム販売", "255,255,255"}
+, 
+{"yuno", 197, 291, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬・修理", "255,255,255"}
+, 
+{"yuno", 211, 291, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  エンチャント", "255,255,255"}
+, 
+{"yuno", 205, 307, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  騎乗レンタル", "255,255,255"}
+, 
+{"yuno", 225, 324, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ステータス・スキルリセット", "255,255,255"}
+, 
+{"yuno", 201, 324, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  回復剤交換", "255,255,255"}
+, 
+{"prontera", 105, 63, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
+, 
+{"ac_cl_room", 49, 32, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
+, 
+{"lasagna", 314, 237, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
+, 
+{"jp_ev_map05", 72, 57, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢から醒める", "255,255,255"}
+, 
+{"prontera", 98, 63, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ﾗﾍﾙおさらいｲﾍﾞﾝﾄ", "255,255,255"}
 }
 

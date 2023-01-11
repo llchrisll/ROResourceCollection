@@ -318,6 +318,10 @@ worldtable_main = {
 , 
 {101, "ra_fild08.rsw", 283, 235, 341, 291, WORLD_MSGID.MSI_101_RA_FILD08, ""}
 , 
+{101, "ra_fild10.rsw", 107, 292, 163, 351, WORLD_MSGID.MSI_101_RA_FILD10, ""}
+, 
+{101, "ra_fild11.rsw", 164, 292, 223, 351, WORLD_MSGID.MSI_101_RA_FILD11, ""}
+, 
 {101, "ra_fild12.rsw", 283, 292, 341, 351, WORLD_MSGID.MSI_101_RA_FILD12, ""}
 , 
 {102, "lighthalzen.rsw", 401, 292, 459, 346, WORLD_MSGID.MSI_102_LIGHTHALZEN, ""}

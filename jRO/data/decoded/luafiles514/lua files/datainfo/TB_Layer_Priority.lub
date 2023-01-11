@@ -3,7 +3,7 @@
 
 -- params : ...
 -- function num : 0
-TB_Layer_Priority = {Default_Mid = 200, Default_Top = 400, Default_Bottom = 300, 
+TB_Layer_Priority = {Default_Mid = 200, Default_Top = 400, Default_Bottom = 300, Default_Robe = 405, 
 Items_List = {
 [ACCESSORY_IDs.ACCESSORY_Happy_Balloon_J] = {Default = 300, 
 Direction = {[3] = 480, [4] = 480, [5] = 480}
@@ -960,6 +960,182 @@ Direction = {[0] = 450, [1] = 450, [7] = 450}
 [ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BL] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_2022Cosutama_Imp_JP] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Midnight_Candle] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Ring] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_bullhead] = {Default = 194, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_BirthDay_Balloon_TW] = {Default = 140, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Valkyrie_Hair] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silk_Of_Soul] = {Default = 100, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cons_Of_Earth] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Wind] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Little_Abyss_Dragon] = {Default = 450, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_BL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_BU] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_GN] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_OM] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_PK] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_PP] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_WH] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_YL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_GN] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_OM] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PK] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PP] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_RD] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_WH] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_YL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_BL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_GN] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_OM] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PK] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PP] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_RD] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_WH] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_YL] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_BD] = {Default = 145, isHelmRobe = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_RBD] = {Default = 145, isHelmRobe = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_SV] = {Default = 145, isHelmRobe = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_RSV] = {Default = 145, isHelmRobe = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Rabbit_Wig] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Jumbo_Rabbit] = {Default = 805, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Frozen] = {Default = 100, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_PRETTY_RABBIT_HOOD] = {Default = 195, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Friendly_White_Fox] = {Default = 300, 
+Direction = {[0] = 480, [1] = 480, [7] = 480}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Somtam] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
@@ -1021,6 +1197,11 @@ GetLayerPriority = function(direction, layer, acc_id)
       end
     end
   end
+end
+
+GetDefaultRobePriority = function()
+  -- function num : 0_3
+  return TB_Layer_Priority.Default_Robe
 end
 
 

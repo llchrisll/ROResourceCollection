@@ -30,8 +30,16 @@ end
   end
   return 0
 end
-, get_need_source_string = function(in_box_id)
+, get_max_need_refine = function(in_box_id)
   -- function num : 0_3
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil and box.NeedRefineMax ~= nil then
+    return box.NeedRefineMax
+  end
+  return 20
+end
+, get_need_source_string = function(in_box_id)
+  -- function num : 0_4
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     return box.NeedSource_String
@@ -39,7 +47,7 @@ end
   return 0
 end
 , set_resource_item_list = function(in_box_id)
-  -- function num : 0_4
+  -- function num : 0_5
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     for k,v in pairs(box.SourceItems) do

@@ -5,11 +5,20 @@
 -- function num : 0
 GetOngoingQuestInfoByID = function(questID)
   -- function num : 0_0
-  return GetOngoingSimpleView(questID), (QuestInfoList[questID]).Title, (QuestInfoList[questID]).IconName, (QuestInfoList[questID]).Summary, (QuestInfoList[questID]).NpcSpr, (QuestInfoList[questID]).NpcNavi, (QuestInfoList[questID]).RewardEXP, (QuestInfoList[questID]).RewardJEXP, (QuestInfoList[questID]).NpcPosX, (QuestInfoList[questID]).NpcPosY
+  return GetOngoingSimpleView(questID), (QuestInfoList[questID]).Title, (QuestInfoList[questID]).IconName, (QuestInfoList[questID]).Summary, (QuestInfoList[questID]).NpcSpr, (QuestInfoList[questID]).NpcNavi, (QuestInfoList[questID]).RewardEXP, (QuestInfoList[questID]).RewardJEXP, (QuestInfoList[questID]).NpcPosX, (QuestInfoList[questID]).NpcPosY, GetCoolTimeQuest(questID)
+end
+
+GetCoolTimeQuest = function(questID)
+  -- function num : 0_1
+  local desc = (QuestInfoList[questID]).CoolTimeQuest
+  if desc == nil then
+    return 0
+  end
+  return desc
 end
 
 GetOngoingDescription = function(questID)
-  -- function num : 0_1
+  -- function num : 0_2
   local desc = (QuestInfoList[questID]).Description
   if desc == nil then
     return 
@@ -20,7 +29,7 @@ GetOngoingDescription = function(questID)
 end
 
 GetOngoingRewardInfo = function(questID)
-  -- function num : 0_2
+  -- function num : 0_3
   local reward = (QuestInfoList[questID]).RewardItemList
   if reward == nil then
     return 
@@ -31,7 +40,7 @@ GetOngoingRewardInfo = function(questID)
 end
 
 RecommendedQuestInfoLoad = function()
-  -- function num : 0_3
+  -- function num : 0_4
   for questID,table in pairs(RecommendedQuestInfoList) do
     if table.Title == nil then
       table.Title = ""
@@ -87,7 +96,7 @@ RecommendedQuestInfoLoad = function()
 end
 
 RecommendedQuestActiveLoad = function()
-  -- function num : 0_4
+  -- function num : 0_5
   if RecommendedActiveList == nil then
     return 
   end
@@ -97,7 +106,7 @@ RecommendedQuestActiveLoad = function()
 end
 
 GetOngoingSimpleView = function(in_questID)
-  -- function num : 0_5
+  -- function num : 0_6
   if OngoingSimpleViewList == nil then
     return true
   end

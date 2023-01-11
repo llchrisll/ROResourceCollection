@@ -4237,7 +4237,7 @@ AttackRange = {1, 1, 1, 1, 1}
 [SKID.AB_ADORAMUS] = {"AB_ADORAMUS"; SkillName = "アドラムス", MaxLv = 10, 
 SpAmount = {20, 24, 28, 32, 36, 40, 44, 48, 52, 56}
 , bSeperateLv = true, 
-AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.AB_JUDEX, 5}
@@ -4526,7 +4526,7 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.NC_TRAININGAXE] = {"NC_TRAININGAXE"; SkillName = "斧修練", MaxLv = 10, 
+[SKID.NC_TRAININGAXE] = {"NC_TRAININGAXE"; SkillName = "斧鍛錬", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
@@ -4579,7 +4579,7 @@ AttackRange = {1}
 [SKID.LG_BANISHINGPOINT] = {"LG_BANISHINGPOINT"; SkillName = "バニシングポイント", MaxLv = 10, 
 SpAmount = {20, 20, 20, 20, 20, 25, 25, 25, 25, 25}
 , bSeperateLv = true, 
-AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 }
 , 
 [SKID.LG_PINPOINTATTACK] = {"LG_PINPOINTATTACK"; SkillName = "ピンポイントアタック", MaxLv = 5, 
@@ -5691,7 +5691,7 @@ _NeedSkillList = {
 [SKID.SR_TIGERCANNON] = {"SR_TIGERCANNON"; SkillName = "號砲", MaxLv = 10, 
 SpAmount = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , bSeperateLv = true, 
-AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+AttackRange = {3, 3, 3, 3, 3, 3, 3, 3, 3, 3}
 , 
 _NeedSkillList = {
 {SKID.SR_FALLENEMPIRE, 3}
@@ -5808,7 +5808,7 @@ _NeedSkillList = {
 , 
 [SKID.SR_CRESCENTELBOW_AUTOSPELL] = {"SR_CRESCENTELBOW_AUTOSPELL"; SkillName = "破碎柱"}
 , 
-[SKID.GN_CARTBOOST] = {"GN_CARTBOOST"; SkillName = "カートブースト", MaxLv = 5, 
+[SKID.GN_CARTBOOST] = {"GN_CARTBOOST"; SkillName = "改造カートブースト", MaxLv = 5, 
 SpAmount = {20, 24, 28, 32, 36}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
@@ -5838,7 +5838,7 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.GN_TRAINING_SWORD] = {"GN_TRAINING_SWORD"; SkillName = "剣修練", MaxLv = 5, 
+[SKID.GN_TRAINING_SWORD] = {"GN_TRAINING_SWORD"; SkillName = "剣鍛錬", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1}
@@ -6009,7 +6009,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.CR_GRANDCROSS] = {"CR_GRANDCROSS"; SkillName = "グランドクロス", MaxLv = 10, 
-SpAmount = {37, 44, 51, 58, 65, 72, 78, 86, 93, 100}
+SpAmount = {37, 44, 51, 58, 65, 72, 79, 86, 93, 100}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
@@ -9403,7 +9403,7 @@ _NeedSkillList = {
 [SKID.AB_JUDEX] = {"AB_JUDEX"; SkillName = "ジュデックス", MaxLv = 10, 
 SpAmount = {20, 23, 26, 29, 32, 35, 38, 41, 44, 47}
 , bSeperateLv = true, 
-AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 }
 , 
 [SKID.WL_FREEZE_SP] = {"WL_FREEZE_SP"; SkillName = "フリージングスペル", MaxLv = 10, 
@@ -9503,7 +9503,7 @@ _NeedSkillList = {
 [SKID.WM_METALICSOUND] = {"WM_METALICSOUND"; SkillName = "メタリックサウンド", MaxLv = 10, 
 SpAmount = {16, 17, 18, 19, 20, 21, 22, 23, 24, 25}
 , bSeperateLv = true, 
-AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 , 
 _NeedSkillList = {
 {SKID.WM_DOMINION_IMPULSE, 1}
@@ -10312,6 +10312,1930 @@ _NeedSkillList = {
 SpAmount = {60, 70, 80, 90, 100, 60, 70, 80, 90, 100}
 , bSeperateLv = true, 
 AttackRange = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+}
+, 
+[SKID.ALL_ASSISTANT_VENDING] = {"ALL_ASSISTANT_VENDING"; SkillName = "露店代行サービス"}
+, 
+[SKID.ALL_ASSISTANT_BUYING] = {"ALL_ASSISTANT_BUYING"; SkillName = "買取露店代行サービス"}
+, 
+[SKID.All_EVENT_20TH_ANNIVERSARY] = {"All_EVENT_20TH_ANNIVERSARY"; SkillName = "Happy 20th Anniversary", MaxLv = 1, 
+SpAmount = {1}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
+[SKID.DK_SERVANTWEAPON] = {"DK_SERVANTWEAPON"; SkillName = "サーヴァントウェポン", MaxLv = 5, 
+SpAmount = {210, 210, 210, 210, 210}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.DK_SERVANTWEAPON_ATK] = {"DK_SERVANTWEAPON_ATK"; SkillName = "サーヴァントウェポン"}
+, 
+[SKID.DK_SERVANT_W_SIGN] = {"DK_SERVANT_W_SIGN"; SkillName = "サーヴァントウェポン：サイン", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {13, 13, 13, 13, 13}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANTWEAPON, 3}
+}
+}
+, 
+[SKID.DK_SERVANT_W_PHANTOM] = {"DK_SERVANT_W_PHANTOM"; SkillName = "サーヴァントウェポン：ファントム", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANTWEAPON, 5}
+, 
+{SKID.DK_SERVANT_W_SIGN, 5}
+}
+}
+, 
+[SKID.DK_SERVANT_W_DEMOL] = {"DK_SERVANT_W_DEMOL"; SkillName = "サーヴァントウェポン：デモリッション", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANT_W_PHANTOM, 5}
+}
+}
+, 
+[SKID.DK_CHARGINGPIERCE] = {"DK_CHARGINGPIERCE"; SkillName = "チャージングピアース", MaxLv = 10, 
+SpAmount = {210, 210, 210, 210, 210, 210, 210, 210, 210, 210}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.DK_TWOHANDDEF] = {"DK_TWOHANDDEF"; SkillName = "ツーハンドディフェンディング", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.DK_HACKANDSLASHER] = {"DK_HACKANDSLASHER"; SkillName = "ハックアンドスラッシャー", MaxLv = 10, 
+SpAmount = {190, 190, 190, 190, 190, 190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.DK_TWOHANDDEF, 5}
+}
+}
+, 
+[SKID.DK_HACKANDSLASHER_ATK] = {"DK_HACKANDSLASHER_ATK"; SkillName = "ハックアンドスラッシャー"}
+, 
+[SKID.DK_DRAGONIC_AURA] = {"DK_DRAGONIC_AURA"; SkillName = "ドラゴニックオーラ", MaxLv = 10, 
+SpAmount = {190, 190, 190, 190, 190, 190, 190, 190, 190, 190}
+, 
+ApAmount = {5, 5, 5, 5, 5, 5, 5, 5, 5, 5}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.DK_CHARGINGPIERCE, 10}
+}
+}
+, 
+[SKID.DK_MADNESS_CRUSHER] = {"DK_MADNESS_CRUSHER"; SkillName = "マッドネスクラッシャー", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.DK_CHARGINGPIERCE, 5}
+, 
+{SKID.DK_HACKANDSLASHER, 10}
+}
+}
+, 
+[SKID.DK_VIGOR] = {"DK_VIGOR"; SkillName = "ヴィゴール", MaxLv = 10, 
+SpAmount = {320, 320, 320, 320, 320, 320, 320, 320, 320, 320}
+, 
+ApAmount = {23, 26, 29, 32, 35, 38, 41, 44, 47, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.DK_SERVANT_W_DEMOL, 3}
+, 
+{SKID.DK_STORMSLASH, 5}
+}
+}
+, 
+[SKID.DK_STORMSLASH] = {"DK_STORMSLASH"; SkillName = "ストームスラッシュ", MaxLv = 5, 
+SpAmount = {110, 110, 110, 110, 110}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.DK_TWOHANDDEF, 10}
+, 
+{SKID.DK_HACKANDSLASHER, 5}
+}
+}
+, 
+[SKID.AG_DEADLY_PROJECTION] = {"AG_DEADLY_PROJECTION"; SkillName = "デッドリープロジェクション", MaxLv = 5, 
+SpAmount = {160, 160, 160, 160, 160}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_MYSTERY_ILLUSION, 3}
+}
+}
+, 
+[SKID.AG_DESTRUCTIVE_HURRICANE] = {"AG_DESTRUCTIVE_HURRICANE"; SkillName = "ディストラクティブハリケーン", MaxLv = 5, 
+SpAmount = {360, 360, 360, 360, 360}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_TORNADO_STORM, 3}
+}
+}
+, 
+[SKID.AG_RAIN_OF_CRYSTAL] = {"AG_RAIN_OF_CRYSTAL"; SkillName = "レインオブクリスタル", MaxLv = 5, 
+SpAmount = {270, 270, 270, 270, 270}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.AG_MYSTERY_ILLUSION] = {"AG_MYSTERY_ILLUSION"; SkillName = "ミステリーイリュージョン", MaxLv = 5, 
+SpAmount = {450, 450, 450, 450, 450}
+, bSeperateLv = true, 
+AttackRange = {7, 7, 7, 7, 7}
+, 
+_NeedSkillList = {
+{SKID.AG_SOUL_VC_STRIKE, 3}
+}
+}
+, 
+[SKID.AG_VIOLENT_QUAKE] = {"AG_VIOLENT_QUAKE"; SkillName = "バイオレントクエイク", MaxLv = 5, 
+SpAmount = {410, 410, 410, 410, 410}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_STRANTUM_TREMOR, 3}
+}
+}
+, 
+[SKID.AG_SOUL_VC_STRIKE] = {"AG_SOUL_VC_STRIKE"; SkillName = "ソウルバルカンストライク", MaxLv = 5, 
+SpAmount = {330, 330, 330, 330, 330}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_TWOHANDSTAFF, 3}
+}
+}
+, 
+[SKID.AG_STRANTUM_TREMOR] = {"AG_STRANTUM_TREMOR"; SkillName = "ストラタムトレマー", MaxLv = 5, 
+SpAmount = {340, 340, 340, 340, 340}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+}
+, 
+[SKID.AG_ALL_BLOOM] = {"AG_ALL_BLOOM"; SkillName = "オールブルーム", MaxLv = 5, 
+SpAmount = {450, 450, 450, 450, 450}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_FLORAL_FLARE_ROAD, 3}
+}
+}
+, 
+[SKID.AG_CRYSTAL_IMPACT] = {"AG_CRYSTAL_IMPACT"; SkillName = "クリスタルインパクト", MaxLv = 5, 
+SpAmount = {330, 330, 330, 330, 330}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_RAIN_OF_CRYSTAL, 3}
+}
+}
+, 
+[SKID.AG_CRYSTAL_IMPACT_ATK] = {"AG_CRYSTAL_IMPACT_ATK"; SkillName = "クリスタルインパクト"}
+, 
+[SKID.AG_TORNADO_STORM] = {"AG_TORNADO_STORM"; SkillName = "トルネードストーム", MaxLv = 5, 
+SpAmount = {380, 380, 380, 380, 380}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+}
+, 
+[SKID.AG_FLORAL_FLARE_ROAD] = {"AG_FLORAL_FLARE_ROAD"; SkillName = "フローラルフレアロード", MaxLv = 5, 
+SpAmount = {380, 380, 380, 380, 380}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.AG_CLIMAX] = {"AG_CLIMAX"; SkillName = "クライマックス", MaxLv = 5, 
+SpAmount = {610, 610, 610, 610, 610}
+, 
+ApAmount = {30, 60, 90, 120, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_TWOHANDSTAFF, 3}
+}
+}
+, 
+[SKID.AG_ASTRAL_STRIKE] = {"AG_ASTRAL_STRIKE"; SkillName = "アストラルストライク", MaxLv = 10, 
+SpAmount = {680, 680, 680, 680, 680, 680, 680, 680, 680, 680}
+, 
+ApAmount = {16, 17, 18, 19, 20, 21, 22, 23, 24, 25}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_MYSTERY_ILLUSION, 3}
+, 
+{SKID.AG_DEADLY_PROJECTION, 3}
+}
+}
+, 
+[SKID.AG_ROCK_DOWN] = {"AG_ROCK_DOWN"; SkillName = "ロックダウン", MaxLv = 5, 
+SpAmount = {330, 330, 330, 330, 330}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_STRANTUM_TREMOR, 1}
+}
+}
+, 
+[SKID.AG_STORM_CANNON] = {"AG_STORM_CANNON"; SkillName = "ストームキャノン", MaxLv = 5, 
+SpAmount = {360, 360, 360, 360, 360}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_TORNADO_STORM, 1}
+}
+}
+, 
+[SKID.AG_CRIMSON_ARROW] = {"AG_CRIMSON_ARROW"; SkillName = "クリムゾンアロー", MaxLv = 5, 
+SpAmount = {360, 360, 360, 360, 360}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.AG_FLORAL_FLARE_ROAD, 1}
+}
+}
+, 
+[SKID.AG_CRIMSON_ARROW_ATK] = {"AG_CRIMSON_ARROW_ATK"; SkillName = "クリムゾンアロー"}
+, 
+[SKID.AG_FROZEN_SLASH] = {"AG_FROZEN_SLASH"; SkillName = "フローズンスラッシュ", MaxLv = 5, 
+SpAmount = {330, 330, 330, 330, 330}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.AG_RAIN_OF_CRYSTAL, 1}
+}
+}
+, 
+[SKID.AG_TWOHANDSTAFF] = {"AG_TWOHANDSTAFF"; SkillName = "両手杖修練", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IQ_POWERFUL_FAITH] = {"IQ_POWERFUL_FAITH"; SkillName = "強靭な信念", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_FIRM_FAITH] = {"IQ_FIRM_FAITH"; SkillName = "堅固な信念", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_WILL_OF_FAITH] = {"IQ_WILL_OF_FAITH"; SkillName = "信仰の意志", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IQ_OLEUM_SANCTUM] = {"IQ_OLEUM_SANCTUM"; SkillName = "聖油洗礼", MaxLv = 5, 
+SpAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 3}
+}
+}
+, 
+[SKID.IQ_SINCERE_FAITH] = {"IQ_SINCERE_FAITH"; SkillName = "忠実な信念", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 1}
+}
+}
+, 
+[SKID.IQ_FIRST_BRAND] = {"IQ_FIRST_BRAND"; SkillName = "第一撃：烙印", MaxLv = 5, 
+SpAmount = {140, 140, 140, 140, 140}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 2}
+}
+}
+, 
+[SKID.IQ_FIRST_FAITH_POWER] = {"IQ_FIRST_FAITH_POWER"; SkillName = "第一章：信念の力", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_WILL_OF_FAITH, 3}
+, 
+{SKID.IQ_FIRST_BRAND, 1}
+}
+}
+, 
+[SKID.IQ_THIRD_PUNISH] = {"IQ_THIRD_PUNISH"; SkillName = "第三撃：断罪", MaxLv = 5, 
+SpAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_FAITH, 2}
+}
+}
+, 
+[SKID.IQ_THIRD_FLAME_BOMB] = {"IQ_THIRD_FLAME_BOMB"; SkillName = "第三撃：滅火撃", MaxLv = 5, 
+SpAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_FLAME, 2}
+}
+}
+, 
+[SKID.IQ_THIRD_CONSECRATION] = {"IQ_THIRD_CONSECRATION"; SkillName = "第三撃：浄化", MaxLv = 5, 
+SpAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_SECOND_JUDGEMENT, 2}
+}
+}
+, 
+[SKID.IQ_SECOND_FLAME] = {"IQ_SECOND_FLAME"; SkillName = "第二撃：滅魔の火", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_THIRD_EXOR_FLAME, 1}
+}
+}
+, 
+[SKID.IQ_SECOND_FAITH] = {"IQ_SECOND_FAITH"; SkillName = "第二撃：信念", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_FIRST_FAITH_POWER, 1}
+}
+}
+, 
+[SKID.IQ_SECOND_JUDGEMENT] = {"IQ_SECOND_JUDGEMENT"; SkillName = "第二撃：審判", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IQ_JUDGE, 1}
+}
+}
+, 
+[SKID.IQ_EXPOSION_BLASTER] = {"IQ_EXPOSION_BLASTER"; SkillName = "爆火神弾", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_OLEUM_SANCTUM, 1}
+}
+}
+, 
+[SKID.IQ_MASSIVE_F_BLASTER] = {"IQ_MASSIVE_F_BLASTER"; SkillName = "炎火滅魔神弾", MaxLv = 10, 
+SpAmount = {300, 300, 300, 300, 300, 300, 300, 300, 300, 300}
+, 
+ApAmount = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_OLEUM_SANCTUM, 3}
+, 
+{SKID.IQ_EXPOSION_BLASTER, 3}
+, 
+{SKID.IQ_WILL_OF_FAITH, 5}
+}
+}
+, 
+[SKID.IQ_JUDGE] = {"IQ_JUDGE"; SkillName = "第二章：審判者", MaxLv = 5, 
+SpAmount = {280, 280, 280, 280, 280}
+, 
+ApAmount = {95, 80, 65, 50, 35}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_FIRST_FAITH_POWER, 1}
+}
+}
+, 
+[SKID.IQ_THIRD_EXOR_FLAME] = {"IQ_THIRD_EXOR_FLAME"; SkillName = "最終章：滅魔の炎", MaxLv = 5, 
+SpAmount = {340, 340, 340, 340, 340}
+, 
+ApAmount = {150, 130, 110, 90, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IQ_JUDGE, 1}
+}
+}
+, 
+[SKID.IG_GUARD_STANCE] = {"IG_GUARD_STANCE"; SkillName = "ガードスタンス", MaxLv = 5, 
+SpAmount = {270, 270, 270, 270, 270}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 3}
+}
+}
+, 
+[SKID.IG_GUARDIAN_SHIELD] = {"IG_GUARDIAN_SHIELD"; SkillName = "ガーディアンシールド", MaxLv = 5, 
+SpAmount = {300, 300, 300, 300, 300}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_GUARD_STANCE, 2}
+}
+}
+, 
+[SKID.IG_REBOUND_SHIELD] = {"IG_REBOUND_SHIELD"; SkillName = "リバウンドシールド", MaxLv = 5, 
+SpAmount = {270, 270, 270, 270, 270}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_GUARD_STANCE, 4}
+}
+}
+, 
+[SKID.IG_SHIELD_MASTERY] = {"IG_SHIELD_MASTERY"; SkillName = "盾修練", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IG_SPEAR_SWORD_M] = {"IG_SPEAR_SWORD_M"; SkillName = "槍＆片手剣修練", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.IG_ATTACK_STANCE] = {"IG_ATTACK_STANCE"; SkillName = "アタックスタンス", MaxLv = 5, 
+SpAmount = {270, 270, 270, 270, 270}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SPEAR_SWORD_M, 3}
+}
+}
+, 
+[SKID.IG_ULTIMATE_SACRIFICE] = {"IG_ULTIMATE_SACRIFICE"; SkillName = "アルティメットサクリファイス", MaxLv = 5, 
+SpAmount = {300, 300, 300, 300, 300}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_REBOUND_SHIELD, 3}
+, 
+{SKID.IG_GUARDIAN_SHIELD, 3}
+}
+}
+, 
+[SKID.IG_HOLY_SHIELD] = {"IG_HOLY_SHIELD"; SkillName = "ホーリーシールド", MaxLv = 5, 
+SpAmount = {270, 270, 270, 270, 270}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 5}
+, 
+{SKID.IG_CROSS_RAIN, 3}
+}
+}
+, 
+[SKID.IG_GRAND_JUDGEMENT] = {"IG_GRAND_JUDGEMENT"; SkillName = "グランドジャッジメント", MaxLv = 10, 
+SpAmount = {430, 430, 430, 430, 430, 430, 430, 430, 430, 430}
+, 
+ApAmount = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_OVERSLASH, 5}
+, 
+{SKID.IG_SPEAR_SWORD_M, 5}
+}
+}
+, 
+[SKID.IG_JUDGEMENT_CROSS] = {"IG_JUDGEMENT_CROSS"; SkillName = "ジャッジメントクロス", MaxLv = 10, 
+SpAmount = {200, 200, 200, 200, 200, 200, 200, 200, 200, 200}
+, 
+ApAmount = {5, 5, 5, 5, 5, 5, 5, 5, 5, 5}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_CROSS_RAIN, 5}
+, 
+{SKID.IG_HOLY_SHIELD, 3}
+}
+}
+, 
+[SKID.IG_SHIELD_SHOOTING] = {"IG_SHIELD_SHOOTING"; SkillName = "シールドシューティング", MaxLv = 5, 
+SpAmount = {160, 160, 160, 160, 160}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 5}
+, 
+{SKID.IG_ATTACK_STANCE, 2}
+}
+}
+, 
+[SKID.IG_OVERSLASH] = {"IG_OVERSLASH"; SkillName = "オーバースラッシュ", MaxLv = 10, 
+SpAmount = {240, 240, 240, 240, 240, 240, 240, 240, 240, 240}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3, 3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.IG_ATTACK_STANCE, 3}
+}
+}
+, 
+[SKID.IG_CROSS_RAIN] = {"IG_CROSS_RAIN"; SkillName = "クロスレイン", MaxLv = 10, 
+SpAmount = {430, 430, 430, 430, 430, 430, 430, 430, 430, 430}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.IG_SHIELD_MASTERY, 1}
+}
+}
+, 
+[SKID.SHC_DANCING_KNIFE] = {"SHC_DANCING_KNIFE"; SkillName = "ダンシングナイフ", MaxLv = 5, 
+SpAmount = {290, 290, 290, 290, 290}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+}
+}
+, 
+[SKID.SHC_SAVAGE_IMPACT] = {"SHC_SAVAGE_IMPACT"; SkillName = "サベージインパクト", MaxLv = 10, 
+SpAmount = {210, 210, 210, 210, 210, 210, 210, 210, 210, 210}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+}
+}
+, 
+[SKID.SHC_SHADOW_SENSE] = {"SHC_SHADOW_SENSE"; SkillName = "シャドウセンス", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.SHC_ETERNAL_SLASH] = {"SHC_ETERNAL_SLASH"; SkillName = "エターナルスラッシュ", MaxLv = 5, 
+SpAmount = {120, 120, 120, 120, 120}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_DANCING_KNIFE, 3}
+}
+}
+, 
+[SKID.SHC_ENCHANTING_SHADOW] = {"SHC_ENCHANTING_SHADOW"; SkillName = "エンチャンティングシャドウ", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 3}
+}
+}
+, 
+[SKID.SHC_POTENT_VENOM] = {"SHC_POTENT_VENOM"; SkillName = "ポテントベナム", MaxLv = 10, 
+SpAmount = {190, 190, 190, 190, 190, 190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_ENCHANTING_SHADOW, 3}
+}
+}
+, 
+[SKID.SHC_SHADOW_EXCEED] = {"SHC_SHADOW_EXCEED"; SkillName = "シャドウエクシード", MaxLv = 10, 
+SpAmount = {290, 290, 290, 290, 290, 290, 290, 290, 290, 290}
+, 
+ApAmount = {50, 47, 44, 41, 38, 35, 32, 29, 26, 23}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 7}
+, 
+{SKID.SHC_ENCHANTING_SHADOW, 5}
+, 
+{SKID.SHC_POTENT_VENOM, 3}
+}
+}
+, 
+[SKID.SHC_FATAL_SHADOW_CROW] = {"SHC_FATAL_SHADOW_CROW"; SkillName = "フェイタルシャドウクロー", MaxLv = 10, 
+SpAmount = {310, 310, 310, 310, 310, 310, 310, 310, 310, 310}
+, 
+ApAmount = {16, 17, 18, 19, 20, 21, 22, 23, 24, 25}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_STAB, 5}
+, 
+{SKID.SHC_IMPACT_CRATER, 5}
+}
+}
+, 
+[SKID.SHC_SHADOW_STAB] = {"SHC_SHADOW_STAB"; SkillName = "シャドウスタブ", MaxLv = 5, 
+SpAmount = {100, 100, 100, 100, 100}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_DANCING_KNIFE, 5}
+, 
+{SKID.SHC_ETERNAL_SLASH, 3}
+}
+}
+, 
+[SKID.SHC_IMPACT_CRATER] = {"SHC_IMPACT_CRATER"; SkillName = "インパクトクレーター", MaxLv = 5, 
+SpAmount = {210, 210, 210, 210, 210}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.SHC_SHADOW_SENSE, 5}
+, 
+{SKID.SHC_SAVAGE_IMPACT, 5}
+}
+}
+, 
+[SKID.CD_REPARATIO] = {"CD_REPARATIO"; SkillName = "レパラティオ", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+}
+}
+, 
+[SKID.CD_MEDIALE_VOTUM] = {"CD_MEDIALE_VOTUM"; SkillName = "メディアリボトゥム", MaxLv = 5, 
+SpAmount = {460, 460, 460, 460, 460}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_DILECTIO_HEAL, 3}
+}
+}
+, 
+[SKID.CD_MACE_BOOK_M] = {"CD_MACE_BOOK_M"; SkillName = "鈍器＆本修練", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.CD_ARGUTUS_VITA] = {"CD_ARGUTUS_VITA"; SkillName = "アルグトゥスヴィタ", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_ARGUTUS_TELUM] = {"CD_ARGUTUS_TELUM"; SkillName = "アルグトゥステルム", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_ARBITRIUM] = {"CD_ARBITRIUM"; SkillName = "アルビトリウム", MaxLv = 10, 
+SpAmount = {440, 440, 440, 440, 440, 440, 440, 440, 440, 440}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_FRAMEN, 3}
+}
+}
+, 
+[SKID.CD_ARBITRIUM_ATK] = {"CD_ARBITRIUM_ATK"; SkillName = "アルビトリウム"}
+, 
+[SKID.CD_PRESENS_ACIES] = {"CD_PRESENS_ACIES"; SkillName = "プレセンスアキエース", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_MEDIALE_VOTUM, 3}
+, 
+{SKID.CD_REPARATIO, 3}
+}
+}
+, 
+[SKID.CD_FIDUS_ANIMUS] = {"CD_FIDUS_ANIMUS"; SkillName = "フィドスアニムス", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.CD_EFFLIGO] = {"CD_EFFLIGO"; SkillName = "エフィリゴ", MaxLv = 10, 
+SpAmount = {310, 310, 310, 310, 310, 310, 310, 310, 310, 310}
+, 
+ApAmount = {5, 5, 5, 5, 5, 5, 5, 5, 5, 5}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.CD_PETITIO, 10}
+}
+}
+, 
+[SKID.CD_COMPETENTIA] = {"CD_COMPETENTIA"; SkillName = "コンペテンティア", MaxLv = 5, 
+SpAmount = {690, 690, 690, 690, 690}
+, 
+ApAmount = {20, 40, 60, 80, 100}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.CD_PRESENS_ACIES, 2}
+, 
+{SKID.CD_ARGUTUS_TELUM, 2}
+, 
+{SKID.CD_ARGUTUS_VITA, 2}
+}
+}
+, 
+[SKID.CD_PNEUMATICUS_PROCELLA] = {"CD_PNEUMATICUS_PROCELLA"; SkillName = "ニューマティックプロセラ", MaxLv = 10, 
+SpAmount = {660, 660, 660, 660, 660, 660, 660, 660, 660, 660}
+, 
+ApAmount = {15, 15, 15, 15, 15, 15, 15, 15, 15, 15}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_FRAMEN, 5}
+, 
+{SKID.CD_ARBITRIUM, 10}
+}
+}
+, 
+[SKID.CD_DILECTIO_HEAL] = {"CD_DILECTIO_HEAL"; SkillName = "ディレクティオヒール", MaxLv = 5, 
+SpAmount = {380, 380, 380, 380, 380}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+}
+, 
+[SKID.CD_RELIGIO] = {"CD_RELIGIO"; SkillName = "レリギオ", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_DILECTIO_HEAL, 2}
+}
+}
+, 
+[SKID.CD_BENEDICTUM] = {"CD_BENEDICTUM"; SkillName = "ベネディクトゥム", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_DILECTIO_HEAL, 2}
+}
+}
+, 
+[SKID.CD_PETITIO] = {"CD_PETITIO"; SkillName = "ペティティオ", MaxLv = 10, 
+SpAmount = {210, 210, 210, 210, 210, 210, 210, 210, 210, 210}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.CD_MACE_BOOK_M, 5}
+}
+}
+, 
+[SKID.CD_FRAMEN] = {"CD_FRAMEN"; SkillName = "フレーメン", MaxLv = 5, 
+SpAmount = {440, 440, 440, 440, 440}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.CD_FIDUS_ANIMUS, 5}
+}
+}
+, 
+[SKID.BO_BIONIC_PHARMACY] = {"BO_BIONIC_PHARMACY"; SkillName = "バイオニックファーマシー", MaxLv = 5, 
+SpAmount = {90, 90, 90, 90, 90}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.BO_BIONICS_M] = {"BO_BIONICS_M"; SkillName = "バイオニックスマスタリー", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.BO_THE_WHOLE_PROTECTION] = {"BO_THE_WHOLE_PROTECTION"; SkillName = "ホールフルケミカルチャージ", MaxLv = 5, 
+SpAmount = {370, 370, 370, 370, 370}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ADVANCE_PROTECTION] = {"BO_ADVANCE_PROTECTION"; SkillName = "フルシャドウチャージ", MaxLv = 4, 
+SpAmount = {170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_WATER] = {"BO_ACIDIFIED_ZONE_WATER"; SkillName = "アシディファイドゾーン(水)", MaxLv = 5, 
+SpAmount = {480, 480, 480, 480, 480}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_WIND, 1}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_WATER_INSTALL_ON_GROUND] = {"BO_ACIDIFIED_ZONE_WATER_INSTALL_ON_GROUND"; SkillName = "アシディファイドゾーン(水)"}
+, 
+[SKID.BO_ACIDIFIED_ZONE_GROUND] = {"BO_ACIDIFIED_ZONE_GROUND"; SkillName = "アシディファイドゾーン(地)", MaxLv = 5, 
+SpAmount = {480, 480, 480, 480, 480}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 3}
+, 
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_GROUND_INSTALL_ON_GROUND] = {"BO_ACIDIFIED_ZONE_GROUND_INSTALL_ON_GROUND"; SkillName = "アシディファイドゾーン(地)"}
+, 
+[SKID.BO_ACIDIFIED_ZONE_FIRE] = {"BO_ACIDIFIED_ZONE_FIRE"; SkillName = "アシディファイドゾーン(火)", MaxLv = 5, 
+SpAmount = {480, 480, 480, 480, 480}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_GROUND, 1}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_FIRE_INSTALL_ON_GROUND] = {"BO_ACIDIFIED_ZONE_FIRE_INSTALL_ON_GROUND"; SkillName = "アシディファイドゾーン(火)"}
+, 
+[SKID.BO_ACIDIFIED_ZONE_WIND] = {"BO_ACIDIFIED_ZONE_WIND"; SkillName = "アシディファイドゾーン(風)", MaxLv = 5, 
+SpAmount = {480, 480, 480, 480, 480}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 3}
+, 
+{SKID.BO_BIONIC_PHARMACY, 5}
+}
+}
+, 
+[SKID.BO_ACIDIFIED_ZONE_WIND_INSTALL_ON_GROUND] = {"BO_ACIDIFIED_ZONE_WIND_INSTALL_ON_GROUND"; SkillName = "アシディファイドゾーン(風)"}
+, 
+[SKID.BO_WOODENWARRIOR] = {"BO_WOODENWARRIOR"; SkillName = "クリエイトウドゥンウォリアー", MaxLv = 5, 
+SpAmount = {180, 180, 180, 180, 180}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_CREEPER, 3}
+}
+}
+, 
+[SKID.BO_WOODEN_FAIRY] = {"BO_WOODEN_FAIRY"; SkillName = "クリエイトウドゥンフェアリー", MaxLv = 5, 
+SpAmount = {400, 400, 400, 400, 400}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_CREEPER, 3}
+}
+}
+, 
+[SKID.BO_CREEPER] = {"BO_CREEPER"; SkillName = "クリエイトクリーパー", MaxLv = 5, 
+SpAmount = {150, 150, 150, 150, 150}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_BIONICS_M, 5}
+}
+}
+, 
+[SKID.BO_RESEARCHREPORT] = {"BO_RESEARCHREPORT"; SkillName = "リサーチレポート", MaxLv = 1, 
+SpAmount = {610}
+, 
+ApAmount = {50}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.BO_ACIDIFIED_ZONE_FIRE, 3}
+, 
+{SKID.BO_ACIDIFIED_ZONE_WATER, 3}
+}
+}
+, 
+[SKID.BO_HELLTREE] = {"BO_HELLTREE"; SkillName = "クリエイトヘルツリー", MaxLv = 5, 
+SpAmount = {810, 810, 810, 810, 810}
+, 
+ApAmount = {135, 135, 135, 135, 135}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.BO_WOODENWARRIOR, 3}
+, 
+{SKID.BO_WOODEN_FAIRY, 3}
+}
+}
+, 
+[SKID.WH_ADVANCED_TRAP] = {"WH_ADVANCED_TRAP"; SkillName = "アドバンスドトラップ", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.WH_WIND_SIGN] = {"WH_WIND_SIGN"; SkillName = "ウィンドサイン", MaxLv = 5, 
+SpAmount = {60, 60, 60, 60, 60}
+, bSeperateLv = true, 
+AttackRange = {13, 13, 13, 13, 13}
+, 
+_NeedSkillList = {
+{SKID.WH_NATUREFRIENDLY, 5}
+}
+}
+, 
+[SKID.WH_NATUREFRIENDLY] = {"WH_NATUREFRIENDLY"; SkillName = "自然親和", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.WH_HAWKRUSH] = {"WH_HAWKRUSH"; SkillName = "ホークラッシュ", MaxLv = 5, 
+SpAmount = {120, 120, 120, 120, 120}
+, bSeperateLv = true, 
+AttackRange = {5, 5, 5, 5, 5}
+, 
+_NeedSkillList = {
+{SKID.WH_HAWK_M, 1}
+}
+}
+, 
+[SKID.WH_HAWK_M] = {"WH_HAWK_M"; SkillName = "ホークマスタリー", MaxLv = 1, 
+SpAmount = {190}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
+[SKID.WH_CALAMITYGALE] = {"WH_CALAMITYGALE"; SkillName = "カラミティゲイル", MaxLv = 1, 
+SpAmount = {350}
+, 
+ApAmount = {150}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.WH_GALESTORM, 5}
+, 
+{SKID.WH_WIND_SIGN, 5}
+}
+}
+, 
+[SKID.WH_HAWKBOOMERANG] = {"WH_HAWKBOOMERANG"; SkillName = "ホークブーメラン", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, 
+ApAmount = {5, 5, 5, 5, 5}
+, bSeperateLv = true, 
+AttackRange = {5, 5, 5, 5, 5}
+, 
+_NeedSkillList = {
+{SKID.WH_HAWKRUSH, 5}
+}
+}
+, 
+[SKID.WH_GALESTORM] = {"WH_GALESTORM"; SkillName = "ゲイルストーム", MaxLv = 10, 
+SpAmount = {170, 170, 170, 170, 170, 170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {5, 5, 5, 5, 5, 5, 5, 5, 5, 5}
+, 
+_NeedSkillList = {
+{SKID.WH_CRESCIVE_BOLT, 3}
+}
+}
+, 
+[SKID.WH_DEEPBLINDTRAP] = {"WH_DEEPBLINDTRAP"; SkillName = "ディープブラインドトラップ", MaxLv = 5, 
+SpAmount = {250, 250, 250, 250, 250}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_ADVANCED_TRAP, 3}
+}
+}
+, 
+[SKID.WH_SOLIDTRAP] = {"WH_SOLIDTRAP"; SkillName = "ソリッドトラップ", MaxLv = 5, 
+SpAmount = {180, 180, 180, 180, 180}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_ADVANCED_TRAP, 3}
+}
+}
+, 
+[SKID.WH_SWIFTTRAP] = {"WH_SWIFTTRAP"; SkillName = "スイフトトラップ", MaxLv = 5, 
+SpAmount = {210, 210, 210, 210, 210}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_DEEPBLINDTRAP, 1}
+}
+}
+, 
+[SKID.WH_CRESCIVE_BOLT] = {"WH_CRESCIVE_BOLT"; SkillName = "クレッシブボルト", MaxLv = 10, 
+SpAmount = {120, 120, 120, 120, 120, 120, 120, 120, 120, 120}
+, bSeperateLv = true, 
+AttackRange = {5, 5, 5, 5, 5, 5, 5, 5, 5, 5}
+}
+, 
+[SKID.WH_FLAMETRAP] = {"WH_FLAMETRAP"; SkillName = "フレイムトラップ", MaxLv = 5, 
+SpAmount = {210, 210, 210, 210, 210}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.WH_SOLIDTRAP, 1}
+}
+}
+, 
+[SKID.TR_STAGE_MANNER] = {"TR_STAGE_MANNER"; SkillName = "ステージマナー", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.TR_RETROSPECTION] = {"TR_RETROSPECTION"; SkillName = "回想", MaxLv = 1, 
+SpAmount = {1}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 1}
+}
+}
+, 
+[SKID.TR_MYSTIC_SYMPHONY] = {"TR_MYSTIC_SYMPHONY"; SkillName = "ミスティックシンフォニー", MaxLv = 1, 
+SpAmount = {250}
+, 
+ApAmount = {125}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_METALIC_FURY, 1}
+, 
+{SKID.TR_ROSEBLOSSOM, 5}
+}
+}
+, 
+[SKID.TR_KVASIR_SONATA] = {"TR_KVASIR_SONATA"; SkillName = "ソナタオブクヴァシル", MaxLv = 1, 
+SpAmount = {330}
+, 
+ApAmount = {150}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.TR_ROKI_CAPRICCIO, 1}
+, 
+{SKID.TR_NIPELHEIM_REQUIEM, 1}
+}
+}
+, 
+[SKID.TR_ROSEBLOSSOM] = {"TR_ROSEBLOSSOM"; SkillName = "ロゼブロッサム", MaxLv = 5, 
+SpAmount = {230, 230, 230, 230, 230}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.TR_RHYTHMSHOOTING, 3}
+}
+}
+, 
+[SKID.TR_ROSEBLOSSOM_ATK] = {"TR_ROSEBLOSSOM_ATK"; SkillName = "ロゼブロッサム"}
+, 
+[SKID.TR_RHYTHMSHOOTING] = {"TR_RHYTHMSHOOTING"; SkillName = "リズムシューティング", MaxLv = 5, 
+SpAmount = {110, 110, 110, 110, 110}
+, bSeperateLv = true, 
+AttackRange = {5, 5, 5, 5, 5}
+}
+, 
+[SKID.TR_METALIC_FURY] = {"TR_METALIC_FURY"; SkillName = "メタリックフューリー", MaxLv = 5, 
+SpAmount = {130, 130, 130, 130, 130}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.TR_SOUNDBLEND, 1}
+}
+}
+, 
+[SKID.TR_SOUNDBLEND] = {"TR_SOUNDBLEND"; SkillName = "サウンドブレンド", MaxLv = 5, 
+SpAmount = {55, 55, 55, 55, 55}
+, bSeperateLv = true, 
+AttackRange = {13, 13, 13, 13, 13}
+}
+, 
+[SKID.TR_GEF_NOCTURN] = {"TR_GEF_NOCTURN"; SkillName = "ゲフェニアノクターン", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 3}
+}
+}
+, 
+[SKID.TR_ROKI_CAPRICCIO] = {"TR_ROKI_CAPRICCIO"; SkillName = "ロキの気まぐれ", MaxLv = 5, 
+SpAmount = {230, 230, 230, 230, 230}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_JAWAII_SERENADE, 1}
+}
+}
+, 
+[SKID.TR_AIN_RHAPSODY] = {"TR_AIN_RHAPSODY"; SkillName = "鉱員のラプソディ", MaxLv = 5, 
+SpAmount = {190, 190, 190, 190, 190}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_STAGE_MANNER, 3}
+}
+}
+, 
+[SKID.TR_MUSICAL_INTERLUDE] = {"TR_MUSICAL_INTERLUDE"; SkillName = "ミュージカルインタールード", MaxLv = 5, 
+SpAmount = {240, 240, 240, 240, 240}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_AIN_RHAPSODY, 1}
+}
+}
+, 
+[SKID.TR_JAWAII_SERENADE] = {"TR_JAWAII_SERENADE"; SkillName = "夕焼けのセレナーデ", MaxLv = 5, 
+SpAmount = {290, 290, 290, 290, 290}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_GEF_NOCTURN, 1}
+}
+}
+, 
+[SKID.TR_NIPELHEIM_REQUIEM] = {"TR_NIPELHEIM_REQUIEM"; SkillName = "死者たちへのレクイエム", MaxLv = 5, 
+SpAmount = {230, 230, 230, 230, 230}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_MUSICAL_INTERLUDE, 1}
+, 
+{SKID.TR_PRON_MARCH, 1}
+}
+}
+, 
+[SKID.TR_PRON_MARCH] = {"TR_PRON_MARCH"; SkillName = "プロンテラマーチ", MaxLv = 5, 
+SpAmount = {290, 290, 290, 290, 290}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.TR_AIN_RHAPSODY, 1}
+}
+}
+, 
+[SKID.ABC_DAGGER_AND_BOW_M] = {"ABC_DAGGER_AND_BOW_M"; SkillName = "短剣＆弓修練", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.ABC_MAGIC_SWORD_M] = {"ABC_MAGIC_SWORD_M"; SkillName = "魔法剣修練", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.ABC_STRIP_SHADOW] = {"ABC_STRIP_SHADOW"; SkillName = "ストリップシャドウ", MaxLv = 5, 
+SpAmount = {90, 90, 90, 90, 90}
+, bSeperateLv = true, 
+AttackRange = {3, 3, 3, 3, 3}
+, 
+_NeedSkillList = {
+{SKID.ABC_DAGGER_AND_BOW_M, 7}
+}
+}
+, 
+[SKID.ABC_ABYSS_DAGGER] = {"ABC_ABYSS_DAGGER"; SkillName = "アビスダガー", MaxLv = 5, 
+SpAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.ABC_DAGGER_AND_BOW_M, 3}
+}
+}
+, 
+[SKID.ABC_UNLUCKY_RUSH] = {"ABC_UNLUCKY_RUSH"; SkillName = "アンラッキーラッシュ", MaxLv = 5, 
+SpAmount = {110, 110, 110, 110, 110}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 4}
+}
+}
+, 
+[SKID.ABC_CHAIN_REACTION_SHOT] = {"ABC_CHAIN_REACTION_SHOT"; SkillName = "チェーンリアクションショット", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_DAGGER_AND_BOW_M, 3}
+}
+}
+, 
+[SKID.ABC_FROM_THE_ABYSS] = {"ABC_FROM_THE_ABYSS"; SkillName = "フロムジアビス", MaxLv = 5, 
+SpAmount = {230, 230, 230, 230, 230}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.ABC_MAGIC_SWORD_M, 3}
+}
+}
+, 
+[SKID.ABC_ABYSS_SLAYER] = {"ABC_ABYSS_SLAYER"; SkillName = "アビススレイヤー", MaxLv = 10, 
+SpAmount = {340, 340, 340, 340, 340, 340, 340, 340, 340, 340}
+, 
+ApAmount = {23, 26, 29, 32, 35, 38, 41, 44, 47, 50}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 5}
+, 
+{SKID.ABC_DEFT_STAB, 5}
+}
+}
+, 
+[SKID.ABC_ABYSS_STRIKE] = {"ABC_ABYSS_STRIKE"; SkillName = "オメガアビスストライク", MaxLv = 10, 
+SpAmount = {300, 300, 300, 300, 300, 300, 300, 300, 300, 300}
+, 
+ApAmount = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_FROM_THE_ABYSS, 3}
+, 
+{SKID.ABC_ABYSS_SQUARE, 3}
+}
+}
+, 
+[SKID.ABC_DEFT_STAB] = {"ABC_DEFT_STAB"; SkillName = "デフトスタブ", MaxLv = 10, 
+SpAmount = {200, 200, 200, 200, 200, 200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+, 
+_NeedSkillList = {
+{SKID.ABC_ABYSS_DAGGER, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 5}
+}
+}
+, 
+[SKID.ABC_ABYSS_SQUARE] = {"ABC_ABYSS_SQUARE"; SkillName = "アビススクエア", MaxLv = 5, 
+SpAmount = {200, 200, 200, 200, 200}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_MAGIC_SWORD_M, 5}
+, 
+{SKID.ABC_FROM_THE_ABYSS, 1}
+}
+}
+, 
+[SKID.ABC_FRENZY_SHOT] = {"ABC_FRENZY_SHOT"; SkillName = "フレンジショット", MaxLv = 10, 
+SpAmount = {110, 110, 110, 110, 110, 110, 110, 110, 110, 110}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.ABC_CHAIN_REACTION_SHOT, 3}
+, 
+{SKID.ABC_DAGGER_AND_BOW_M, 5}
+}
+}
+, 
+[SKID.MT_AXE_STOMP] = {"MT_AXE_STOMP"; SkillName = "アックスストンプ", MaxLv = 5, 
+SpAmount = {300, 300, 300, 300, 300}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_TWOAXEDEF, 5}
+}
+}
+, 
+[SKID.MT_RUSH_QUAKE] = {"MT_RUSH_QUAKE"; SkillName = "ラッシュクエイク", MaxLv = 10, 
+SpAmount = {440, 440, 440, 440, 440, 440, 440, 440, 440, 440}
+, 
+ApAmount = {23, 26, 29, 32, 35, 38, 41, 44, 47, 50}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.MT_AXE_STOMP, 5}
+}
+}
+, 
+[SKID.MT_M_MACHINE] = {"MT_M_MACHINE"; SkillName = "装置製造", MaxLv = 5, 
+SpAmount = {70, 70, 70, 70, 70}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.MT_A_MACHINE] = {"MT_A_MACHINE"; SkillName = "攻撃装置有効化", MaxLv = 5, 
+SpAmount = {140, 140, 140, 140, 140}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.MT_AXE_STOMP, 3}
+, 
+{SKID.MT_M_MACHINE, 3}
+}
+}
+, 
+[SKID.MT_D_MACHINE] = {"MT_D_MACHINE"; SkillName = "防御装置有効化", MaxLv = 5, 
+SpAmount = {140, 140, 140, 140, 140}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.MT_M_MACHINE, 1}
+}
+}
+, 
+[SKID.MT_TWOAXEDEF] = {"MT_TWOAXEDEF"; SkillName = "ツーアックスディフェンディング", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.MT_ABR_M] = {"MT_ABR_M"; SkillName = "ABRマスタリー", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_M_MACHINE, 1}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_BATTLE_WARIOR] = {"MT_SUMMON_ABR_BATTLE_WARIOR"; SkillName = "ABR バトルウォリアー", MaxLv = 4, 
+SpAmount = {140, 140, 140, 140}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 1}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_DUAL_CANNON] = {"MT_SUMMON_ABR_DUAL_CANNON"; SkillName = "ABR デュアルキャノン", MaxLv = 4, 
+SpAmount = {140, 140, 140, 140}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 3}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 2}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_MOTHER_NET] = {"MT_SUMMON_ABR_MOTHER_NET"; SkillName = "ABR マザーネット", MaxLv = 4, 
+SpAmount = {310, 310, 310, 310}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 5}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 3}
+, 
+{SKID.MT_SUMMON_ABR_DUAL_CANNON, 3}
+}
+}
+, 
+[SKID.MT_SUMMON_ABR_INFINITY] = {"MT_SUMMON_ABR_INFINITY"; SkillName = "ABR インフィニティ", MaxLv = 4, 
+SpAmount = {440, 440, 440, 440}
+, 
+ApAmount = {135, 135, 135, 135}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.MT_ABR_M, 10}
+, 
+{SKID.MT_SUMMON_ABR_BATTLE_WARIOR, 4}
+, 
+{SKID.MT_SUMMON_ABR_DUAL_CANNON, 4}
+, 
+{SKID.MT_SUMMON_ABR_MOTHER_NET, 4}
+}
+}
+, 
+[SKID.ABR_DUAL_CANNON_FIRE] = {"ABR_DUAL_CANNON_FIRE"; SkillName = "デュアルキャノンファイアー", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_BATTLE_BUSTER] = {"ABR_BATTLE_BUSTER"; SkillName = "バトルバスター", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_NET_REPAIR] = {"ABR_NET_REPAIR"; SkillName = "ネットリペア", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_NET_SUPPORT] = {"ABR_NET_SUPPORT"; SkillName = "ネットサポート", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.ABR_INFINITY_BUSTER] = {"ABR_INFINITY_BUSTER"; SkillName = "インフィニティバスター", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_MAGIC_BOOK_M] = {"EM_MAGIC_BOOK_M"; SkillName = "魔法本修練", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.EM_SPELL_ENCHANTING] = {"EM_SPELL_ENCHANTING"; SkillName = "スペルエンチャンティング", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 5}
+}
+}
+, 
+[SKID.EM_ACTIVITY_BURN] = {"EM_ACTIVITY_BURN"; SkillName = "アクティビティバーン", MaxLv = 5, 
+SpAmount = {170, 170, 170, 170, 170}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_SPELL_ENCHANTING, 3}
+}
+}
+, 
+[SKID.EM_INCREASING_ACTIVITY] = {"EM_INCREASING_ACTIVITY"; SkillName = "インクリーシングアクティビティ", MaxLv = 5, 
+SpAmount = {250, 250, 250, 250, 250}
+, 
+ApAmount = {60, 70, 80, 90, 100}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_ACTIVITY_BURN, 5}
+}
+}
+, 
+[SKID.EM_DIAMOND_STORM] = {"EM_DIAMOND_STORM"; SkillName = "ダイヤモンドストーム", MaxLv = 5, 
+SpAmount = {400, 400, 400, 400, 400}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_LIGHTNING_LAND] = {"EM_LIGHTNING_LAND"; SkillName = "ライトニングランド", MaxLv = 5, 
+SpAmount = {440, 440, 440, 440, 440}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_VENOM_SWAMP] = {"EM_VENOM_SWAMP"; SkillName = "ベナムスワンプ", MaxLv = 5, 
+SpAmount = {350, 350, 350, 350, 350}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_CONFLAGRATION] = {"EM_CONFLAGRATION"; SkillName = "コンフラグレーション", MaxLv = 5, 
+SpAmount = {440, 440, 440, 440, 440}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_TERRA_DRIVE] = {"EM_TERRA_DRIVE"; SkillName = "テラドライブ", MaxLv = 5, 
+SpAmount = {400, 400, 400, 400, 400}
+, bSeperateLv = true, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+_NeedSkillList = {
+{SKID.EM_MAGIC_BOOK_M, 2}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_SPIRIT_M] = {"EM_ELEMENTAL_SPIRIT_M"; SkillName = "エレメンタルスピリットマスタリー", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_ARDOR] = {"EM_SUMMON_ELEMENTAL_ARDOR"; SkillName = "サモンアルドール", MaxLv = 1, 
+SpAmount = {330}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_CONFLAGRATION, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_DILUVIO] = {"EM_SUMMON_ELEMENTAL_DILUVIO"; SkillName = "サモンディルビオ", MaxLv = 1, 
+SpAmount = {300}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_DIAMOND_STORM, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_PROCELLA] = {"EM_SUMMON_ELEMENTAL_PROCELLA"; SkillName = "サモンプロセラ", MaxLv = 1, 
+SpAmount = {330}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_LIGHTNING_LAND, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_TERREMOTUS] = {"EM_SUMMON_ELEMENTAL_TERREMOTUS"; SkillName = "サモンテレモトゥス", MaxLv = 1, 
+SpAmount = {300}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_TERRA_DRIVE, 1}
+}
+}
+, 
+[SKID.EM_SUMMON_ELEMENTAL_SERPENS] = {"EM_SUMMON_ELEMENTAL_SERPENS"; SkillName = "サモンサーペンス", MaxLv = 1, 
+SpAmount = {260}
+, bSeperateLv = true, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.EM_ELEMENTAL_SPIRIT_M, 1}
+, 
+{SKID.EM_VENOM_SWAMP, 1}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_BUSTER] = {"EM_ELEMENTAL_BUSTER"; SkillName = "エレメンタルバスター", MaxLv = 10, 
+SpAmount = {530, 530, 530, 530, 530, 530, 530, 530, 530, 530}
+, 
+ApAmount = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.EM_SUMMON_ELEMENTAL_SERPENS, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_TERREMOTUS, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_PROCELLA, 1}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_DILUVIO, 1}
+, 
+{SKID.EM_ELEMENTAL_SPIRIT_M, 5}
+, 
+{SKID.EM_SUMMON_ELEMENTAL_ARDOR, 1}
+}
+}
+, 
+[SKID.EM_ELEMENTAL_BUSTER_FIRE] = {"EM_ELEMENTAL_BUSTER_FIRE"; SkillName = "エレメンタルバスター"}
+, 
+[SKID.EM_ELEMENTAL_BUSTER_WATER] = {"EM_ELEMENTAL_BUSTER_WATER"; SkillName = "エレメンタルバスター"}
+, 
+[SKID.EM_ELEMENTAL_BUSTER_WIND] = {"EM_ELEMENTAL_BUSTER_WIND"; SkillName = "エレメンタルバスター"}
+, 
+[SKID.EM_ELEMENTAL_BUSTER_GROUND] = {"EM_ELEMENTAL_BUSTER_GROUND"; SkillName = "エレメンタルバスター"}
+, 
+[SKID.EM_ELEMENTAL_BUSTER_POISON] = {"EM_ELEMENTAL_BUSTER_POISON"; SkillName = "エレメンタルバスター"}
+, 
+[SKID.EM_ELEMENTAL_VEIL] = {"EM_ELEMENTAL_VEIL"; SkillName = "エレメンタルヴェール", MaxLv = 5, 
+SpAmount = {330, 330, 330, 330, 330}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+_NeedSkillList = {
+{SKID.EM_ELEMENTAL_SPIRIT_M, 3}
+}
+}
+, 
+[SKID.EM_EL_FLAMETECHNIC] = {"EM_EL_FLAMETECHNIC"; SkillName = "フレイムテクニック", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_FLAMEARMOR] = {"EM_EL_FLAMEARMOR"; SkillName = "フレイムアーマー", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_FLAMEROCK] = {"EM_EL_FLAMEROCK"; SkillName = "フレイムロック", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_COLD_FORCE] = {"EM_EL_COLD_FORCE"; SkillName = "コールドフォース", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_CRYSTAL_ARMOR] = {"EM_EL_CRYSTAL_ARMOR"; SkillName = "クリスタルアーマー", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_AGE_OF_ICE] = {"EM_EL_AGE_OF_ICE"; SkillName = "エイジオブアイス", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_GRACE_BREEZE] = {"EM_EL_GRACE_BREEZE"; SkillName = "グレイスブリーズ", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_EYES_OF_STORM] = {"EM_EL_EYES_OF_STORM"; SkillName = "アイズオブストーム", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_STORM_WIND] = {"EM_EL_STORM_WIND"; SkillName = "ストームウィンド", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_EARTH_CARE] = {"EM_EL_EARTH_CARE"; SkillName = "アースケア", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_STRONG_PROTECTION] = {"EM_EL_STRONG_PROTECTION"; SkillName = "ストロングプロテクション", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_AVALANCHE] = {"EM_EL_AVALANCHE"; SkillName = "アバランチェ", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.EM_EL_DEEP_POISONING] = {"EM_EL_DEEP_POISONING"; SkillName = "ディープポイズニング", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_POISON_SHIELD] = {"EM_EL_POISON_SHIELD"; SkillName = "ポイズンシールド", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {1}
+}
+, 
+[SKID.EM_EL_DEADLY_POISON] = {"EM_EL_DEADLY_POISON"; SkillName = "デッドリーポイズン", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = true, 
+AttackRange = {7}
+}
+, 
+[SKID.GM_AP_HEAL] = {"GM_AP_HEAL"}
+, 
+[SKID.NPC_DEADLYCURSE2] = {"NPC_DEADLYCURSE2"; SkillName = "ワイドデッドリーカース", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 7, y = 7}
+, 
+[2] = {x = 13, y = 13}
+, 
+[3] = {x = 19, y = 19}
+, 
+[4] = {x = 25, y = 25}
+, 
+[5] = {x = 31, y = 31}
+}
+}
+, 
+[SKID.NPC_CANE_OF_EVIL_EYE] = {"NPC_CANE_OF_EVIL_EYE"; SkillName = "ケーンオブイビルアイ", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 9, y = 9}
+, 
+[2] = {x = 9, y = 9}
+, 
+[3] = {x = 9, y = 9}
+, 
+[4] = {x = 9, y = 9}
+, 
+[5] = {x = 9, y = 9}
+}
+}
+, 
+[SKID.NPC_KILLING_AURA] = {"NPC_KILLING_AURA"; SkillName = "キリングオーラ", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = true, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 11, y = 11}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 11, y = 11}
+, 
+[4] = {x = 11, y = 11}
+, 
+[5] = {x = 11, y = 11}
+}
 }
 }
 

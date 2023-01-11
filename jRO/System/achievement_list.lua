@@ -1687,6 +1687,126 @@ resource = {
 , 
 reward = {title = 2165}
 , score = 1}
+, 
+[500169] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ランタン・ハントI」", 
+content = {summary = "「ジャックランタン」を50個発見する", details = "「ジャックランタン」を50個発見したら 「ハロウィンパーティー会場(hal_main)」の 座標(181,197)にいるNPC「ランタン・キング」に報告し 報酬を受け取る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2166}
+, score = 1}
+, 
+[500170] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ランタン・ハントII」", 
+content = {summary = "「ジャックランタン」を250個発見する", details = "「ジャックランタン」を250個発見したら 「ハロウィンパーティー会場(hal_main)」の 座標(181,197)にいるNPC「ランタン・キング」に報告し 報酬を受け取る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2167}
+, score = 1}
+, 
+[500171] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ランタン・ハントIII」", 
+content = {summary = "「ジャックランタン」を400個発見する", details = "「ジャックランタン」を400個発見したら 「ハロウィンパーティー会場(hal_main)」の 座標(181,197)にいるNPC「ランタン・キング」に報告し 報酬を受け取る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2168}
+, score = 1}
+, 
+[500172] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ランタン・ハントIV」", 
+content = {summary = "「ジャックランタン」を500個発見する", details = "「ジャックランタン」を500個発見したら 「ハロウィンパーティー会場(hal_main)」の 座標(181,197)にいるNPC「ランタン・キング」に報告し 報酬を受け取る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2169}
+, score = 1}
+, 
+[500173] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ランタン・ハントV」", 
+content = {summary = "「ジャックランタン」を650個発見する", details = "「ジャックランタン」を650個発見したら 「ハロウィンパーティー会場(hal_main)」の 座標(181,197)にいるNPC「ランタン・キング」に報告し 報酬を受け取る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2170}
+, score = 1}
+, 
+[500174] = {UI_Type = 0, group = "TAMING", major = 1, minor = 0, title = "いにしえの不死者", 
+content = {summary = "「マミー」の進化達成", details = "「マミー」を進化させる"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2171}
+, score = 1}
+, 
+[500175] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ランタン・ハントVI」", 
+content = {summary = "「ジャックランタン」に「Treat」を100回仕掛ける", details = "発見した「ジャックランタン」に 「Treat」を100回仕掛けたら 「ハロウィンパーティー会場(hal_main)」の 座標(181,197)にいるNPC「ランタン・キング」に報告し 報酬を受け取る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2172}
+, score = 1}
+, 
+[500176] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ランタン・ハントVII」", 
+content = {summary = "「ジャックランタン」に「Trick」を100回仕掛ける", details = "発見した「ジャックランタン」に 「Trick」を100回仕掛けたら 「ハロウィンパーティー会場(hal_main)」の 座標(181,197)にいるNPC「ランタン・キング」に報告し 報酬を受け取る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2173}
+, score = 1}
+, 
+[500177] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ホルグレン被害者の会」", 
+content = {summary = "？？？？？？？？？？", details = "？？？？？"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2174}
+, score = 1}
+, 
+[500178] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「モロクバスターズ！」", 
+content = {summary = "？？？？？？？？？？", details = "？？？？？"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2175}
+, score = 1}
+, 
+[500179] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「カニがせめてきたぞっ」", 
+content = {summary = "？？？？？？？？？？", details = "？？？？？"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2176}
+, score = 1}
+, 
+[500180] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ポリンをさがせ！」", 
+content = {summary = "？？？？？？？？？？", details = "？？？？？"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2177}
+, score = 1}
 }
 main = function()
   -- function num : 0_0

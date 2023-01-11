@@ -1866,3 +1866,141 @@
 //--------------------------------------------
 311416#sorry#
 //--------------------------------------------
+300001#Poisonous_Card#
+300002#Toxious_Card#
+300003#Porcellio_W_Card#
+300004#Neo_Mineral_Card#
+300005#Abyss_Man_Card#
+300006#Jeweliant_Card#
+300007#Jungoliant_Card#
+300008#Angelgolt_Card#
+300009#Plasma_Spt_Card#
+300010#Plasma_Arch_Card#
+300011#Holy_Frus_Card#
+300012#Holy_Skogul_Card#
+300013#Reginleif_Card#
+300014#Ingrid_Card#
+300015#sorry#
+300016#sorry#
+300017#sorry#
+300018#sorry#
+300019#sorry#
+300020#sorry#
+300021#sorry#
+//--------------------------------------------
+310197#sorry#
+300267#Crow_Baron_Card#
+300268#Crow_Duke_Card#
+300269#Eldest_Card#
+300270#Empathizer_Card#
+300271#Happy_Giver_Card#
+300272#Pray_Giver_Card#
+300273#Smile_Giver_Card#
+300274#Tha_Anger_Card#
+300275#Tha_Horror_Card#
+300276#Tha_Regret_Card#
+300277#Tha_Resent_Card#
+300278#Void_Mimic_Card#
+300279#Book_Of_Death_Card#
+300280#Broken_Thanatos_Card#
+//--------------------------------------------
+311882#sorry#
+311883#sorry#
+//--------------------------------------------
+311909#sorry#
+300420#Labyrinth_Berzebub_Card#
+300145#심해의 마녀#
+300240#Gan_Ceann_Card#
+300241#Brutal_Murderer_Card#
+300242#Ghost_Cube_Card#
+300243#Lude_Gal_Card#
+300244#Disguiser_Card#
+300245#Bluemoon_Loli_Ruri_Card#
+300246#Grote_Card#
+300247#Pierrotzoist_Card#
+300248#Death_Witch_Card#
+300249#Giant_Caput_Card#
+300250#Dolorian_Card#
+300251#Plagarion_Card#
+300252#Deadre_Card#
+300253#Venedi_Card#
+300281#R001_Bestia_Card#
+311459#sorry#
+300076#고장난 경비형베타#
+300077#고장난 청소로봇Ω#
+300080#상급레드페퍼#
+300082#상급연구조수봇#
+300084#마른 라플레시아 상급#
+300086#상급 특제 알놀디#
+300088#상급 고장난 정원사 베타#
+300092#상급 파필라#
+300094#상급 파필라 루바#
+300096#상급 파필라 카이#
+300100#gran_papilia_card#
+300101#고장난 세신사#
+300102#목욕탕 관리자#
+300103#목욕탕 인어#
+300114#마력중독 플라가#
+300115#마력중독 사나레#
+300116#강력한 마력#
+300117#날카로운 마력#
+300118#열탕 휀#
+300119#열탕 소드피쉬#
+300120#열탕 피라니아#
+300121#열탕 마르크#
+311890#sorry#
+311905#sorry#
+311907#sorry#
+1001176#NewYear_Letter2023#
+//--------------------------------------------
+300211#sorry#
+300212#sorry#
+300213#sorry#
+300214#sorry#
+300215#sorry#
+300216#sorry#
+300217#sorry#
+300218#sorry#
+300219#sorry#
+300220#sorry#
+300221#sorry#
+300222#sorry#
+300223#sorry#
+300227#sorry#
+300228#sorry#
+310478#sorry#
+310479#sorry#
+310480#sorry#
+310481#sorry#
+310482#sorry#
+310483#sorry#
+310484#sorry#
+310485#sorry#
+310486#sorry#
+310487#sorry#
+310488#sorry#
+310489#sorry#
+310496#sorry#
+310497#sorry#
+310506#sorry#
+310507#sorry#
+310515#sorry#
+310567#sorry#
+310568#sorry#
+310571#sorry#
+310572#sorry#
+310600#sorry#
+311891#sorry#
+311892#sorry#
+311893#sorry#
+311894#sorry#
+311895#sorry#
+311896#sorry#
+311897#sorry#
+311898#sorry#
+311899#sorry#
+311900#sorry#
+311901#sorry#
+311902#sorry#
+311903#sorry#
+//--------------------------------------------
