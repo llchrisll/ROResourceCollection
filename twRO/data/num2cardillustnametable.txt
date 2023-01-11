@@ -1240,3 +1240,11 @@
 //회한
 300192#sorry#
 300193#sorry#
+
+//왕실 사냥대회 2022
+300421#Catherine_Card#
+300422#S_Catherine_Card#
+300423#Friedrich_Card#
+300424#S_Friedrich_Card#
+300425#Crux_Card#
+300426#S_Crux_Card#

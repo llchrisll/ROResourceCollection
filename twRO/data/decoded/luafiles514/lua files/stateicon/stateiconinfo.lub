@@ -5159,7 +5159,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"旺盛的營火", COLOR_TITLE_BUFF}
+{"獵人的力量", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -5170,7 +5170,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"智慧的營火", COLOR_TITLE_BUFF}
+{"獵人的智慧", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6385,7 +6385,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"旺盛的營火", COLOR_TITLE_BUFF}
+{"獵人的力量", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6396,7 +6396,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"智慧的營火", COLOR_TITLE_BUFF}
+{"獵人的智慧", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6407,7 +6407,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"犀利的營火", COLOR_TITLE_BUFF}
+{"獵人的敏捷", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 

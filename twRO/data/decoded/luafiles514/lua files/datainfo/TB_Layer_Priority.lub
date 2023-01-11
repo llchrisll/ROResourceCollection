@@ -5,6 +5,10 @@
 -- function num : 0
 TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, Default_Robe = 400, 
 Items_List = {
+[ACCESSORY_IDs.ACCESSORY_C_TW_1st_Balloon] = {Default = 156, 
+Direction = {isIgnoreRiding = true}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_CatEarRibbon] = {Default = 150, 
 Direction = {}
 }
@@ -387,10 +391,6 @@ Direction = {}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Lady_Tanee] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_Wonder_Egg_Basket] = {Default = 304, 
-Direction = {}
-}
-, 
 [ACCESSORY_IDs.ACCESSORY_C_AB_Hair_WH] = {Default = 143, 
 Direction = {}
 }
@@ -709,8 +709,6 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Miracle_Plant] = {Default = 303, isIgnoreRiding = true}
-, 
 [ACCESSORY_IDs.ACCESSORY_C_Orange_Rabbit] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_Floating_Ball] = {Default = 304}
@@ -771,7 +769,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 303}
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 302}
 , 
 [ACCESSORY_IDs.ACCESSORY_Mouton_Life] = {Default = 171, 
 Direction = {}
@@ -1277,10 +1275,6 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Large_Ribbon_Muffler] = {Default = 303, 
-Direction = {}
-}
-, 
 [ACCESSORY_IDs.ACCESSORY_Flame_Muffler] = {Default = 303, 
 Direction = {}
 }
@@ -1344,6 +1338,76 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_Belka_Strelka] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_ROROGO] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Alpha_Long_Pony] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Fluffy_Lovely_Fox] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BU] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Dreaming_Rose_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Flower_L_Knitting] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Starry_Long_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Miracle_Plant] = {Default = 303, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Omega_Golf_Bag] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Starry_Ribbon_Twin] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 301}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

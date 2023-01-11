@@ -3334,6 +3334,45 @@ EFFECT.EF_BLACK_BUBBLE2 = 1618
 -- DECOMPILER ERROR at PC4186: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_BLACK_BUBBLE3 = 1619
+-- DECOMPILER ERROR at PC4190: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_20TH_CRYSTAL_S = 2376
+-- DECOMPILER ERROR at PC4194: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_20TH_CRYSTAL_M = 2377
+-- DECOMPILER ERROR at PC4198: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_20TH_CRYSTAL_L = 2378
+-- DECOMPILER ERROR at PC4202: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_GREEN = 2379
+-- DECOMPILER ERROR at PC4206: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_PURPLE = 2380
+-- DECOMPILER ERROR at PC4210: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_RED = 2381
+-- DECOMPILER ERROR at PC4214: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_GREEN_M = 2383
+-- DECOMPILER ERROR at PC4218: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_PURPLE_M = 2384
+-- DECOMPILER ERROR at PC4222: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_RED_M = 2385
+-- DECOMPILER ERROR at PC4226: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_GREEN_S = 2386
+-- DECOMPILER ERROR at PC4230: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_PURPLE_S = 2387
+-- DECOMPILER ERROR at PC4234: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_RED_S = 2388
+-- DECOMPILER ERROR at PC4238: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_NPC_GATE_SKYBLUE = 2389
 tbl = {
 [2603] = {MonsterSize = 1.2, 
 MonsterEff = {EFFECT.EF_BOTTOM_DE}
@@ -5919,6 +5958,58 @@ MonsterEff = {EFFECT.EF_NONE}
 , 
 [10415] = {MonsterSize = 0.6, 
 MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21634] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_GREEN}
+}
+, 
+[21635] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_PURPLE}
+}
+, 
+[21636] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_RED}
+}
+, 
+[21637] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_20TH_CRYSTAL_S}
+}
+, 
+[21638] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_20TH_CRYSTAL_M}
+}
+, 
+[21639] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_20TH_CRYSTAL_L}
+}
+, 
+[21809] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_GREEN_M}
+}
+, 
+[21811] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_PURPLE_M}
+}
+, 
+[21813] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_RED_M}
+}
+, 
+[21810] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_GREEN_S}
+}
+, 
+[21812] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_PURPLE_S}
+}
+, 
+[21814] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_RED_S}
+}
+, 
+[3735] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_20TH_CRYSTAL_L}
 }
 }
 main = function()

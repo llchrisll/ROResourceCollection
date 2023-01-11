@@ -1005,5 +1005,7 @@ SignBoardList = {
 {"prontera", 50, 293, 10, IT_SIGNBOARD, "information\\ebl_manus.bmp", " 等級強化所", "#0x00FFFFFF"}
 , 
 {"moc_para01", 105, 41, 10, IT_SIGNBOARD, "information\\over_nmtrade.bmp", "伊甸園市集", "#0x00FFFFFF"}
+, 
+{"memohall", 82, 89, 0, IT_BMP, "information\\over_kafra.bmp"}
 }
 

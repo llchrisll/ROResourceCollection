@@ -14375,5 +14375,11 @@ _NeedSkillList = {
 {SKID.TR_ROSEBLOSSOM, 5}
 }
 }
+, 
+[SKID.All_EVENT_20TH_ANNIVERSARY] = {"All_EVENT_20TH_ANNIVERSARY"; SkillName = "RO 20¶g¦~Ã@¬¶", MaxLv = 1, 
+SpAmount = {1}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
 }
 

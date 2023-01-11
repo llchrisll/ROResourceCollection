@@ -3789,4 +3789,176 @@ Table[15] = CreateEnchantInfo()
 (((Table[15]).Slot)[3]):AddUpgradeEnchant("Mad_Bunny_Enchant_9_2", "Mad_Bunny_Enchant_9_3", 0, {"Mad_Bunny_Ticket", 5}, {"Zelunium", 150}, {"Shadowdecon", 150})
 ;
 (((Table[15]).Slot)[3]):AddUpgradeEnchant("Mad_Bunny_Enchant_3_5", "Mad_Bunny_Enchant_3_4", 0, {"Mad_Bunny_Ticket", 5}, {"Zelunium", 150}, {"Shadowdecon", 150})
+-- DECOMPILER ERROR at PC17015: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[51] = CreateEnchantInfo()
+;
+(Table[51]):SetSlotOrder(3)
+;
+(Table[51]):AddTargetItem("C_20th_Anniversary_Hat")
+;
+(Table[51]):SetCondition(0, 0)
+;
+(Table[51]):ApproveRandomOption(true)
+;
+(Table[51]):SetReset(false, 100000, 10000, {"Evt_20th_Coin", 1})
+;
+(Table[51]):SetCaution("恭喜20週年了!\n ")
+;
+(((Table[51]).Slot)[3]):AddPerfectEnchant("Evt_Firecracker", 20, {"Evt_20th_Coin", 1})
+-- DECOMPILER ERROR at PC17068: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[10001] = CreateEnchantInfo()
+;
+(Table[10001]):SetSlotOrder(3, 2)
+;
+(Table[10001]):AddTargetItem("Temporal_Boots_LT_TW")
+;
+(Table[10001]):SetCondition(0, 0, false)
+;
+(Table[10001]):ApproveRandomOption(true)
+;
+(Table[10001]):SetReset(true, 100000, 0, {"M_Dimension_Essence", 1})
+;
+(Table[10001]):SetCaution("時光超越者之靴-LT道具附魔\n一般附魔成札鰷v: 100%\n附魔重置機率: 100%")
+;
+(((Table[10001]).Slot)[3]):SetRequire(0, {"Coagulated_Spell", 50}, {"Polluted_Spell", 8}, {"Timeoverload_Power_TW", 2})
+;
+(((Table[10001]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[10001]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[10001]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[10001]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(0, "Luck6", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(0, "Fighting_Spirit7", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(0, "Spell5", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(0, "Expert_Archer4", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(0, "MHP2", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(0, "Attack_Delay_4", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(1, "Luck6", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(1, "Fighting_Spirit7", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(1, "Spell5", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(1, "Expert_Archer4", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(1, "MHP2", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(1, "Attack_Delay_4", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(2, "Luck6", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(2, "Fighting_Spirit7", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(2, "Spell5", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(2, "Expert_Archer4", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(2, "MHP2", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(2, "Attack_Delay_4", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(3, "Luck6", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(3, "Fighting_Spirit7", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(3, "Spell5", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(3, "Expert_Archer4", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(3, "MHP2", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(3, "Attack_Delay_4", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(4, "Luck6", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(4, "Fighting_Spirit7", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(4, "Spell5", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(4, "Expert_Archer4", 16670)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(4, "MHP2", 16660)
+;
+(((Table[10001]).Slot)[3]):SetEnchant(4, "Attack_Delay_4", 16660)
+;
+(((Table[10001]).Slot)[2]):SetRequire(0, {"Coagulated_Spell", 50}, {"Polluted_Spell", 8}, {"Timeoverload_Power_TW", 2})
+;
+(((Table[10001]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[10001]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[10001]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[10001]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(0, "Bear\'s_Power", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(0, "Runaway_Magic", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(0, "Speed_Of_Light", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(0, "Muscle_Fool", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(0, "Hawkeye", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(0, "Lucky_Day", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(1, "Bear\'s_Power", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(1, "Runaway_Magic", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(1, "Speed_Of_Light", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(1, "Muscle_Fool", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(1, "Hawkeye", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(1, "Lucky_Day", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(2, "Bear\'s_Power", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(2, "Runaway_Magic", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(2, "Speed_Of_Light", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(2, "Muscle_Fool", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(2, "Hawkeye", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(2, "Lucky_Day", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(3, "Bear\'s_Power", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(3, "Runaway_Magic", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(3, "Speed_Of_Light", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(3, "Muscle_Fool", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(3, "Hawkeye", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(3, "Lucky_Day", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(4, "Bear\'s_Power", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(4, "Runaway_Magic", 16660)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(4, "Speed_Of_Light", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(4, "Muscle_Fool", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(4, "Hawkeye", 16670)
+;
+(((Table[10001]).Slot)[2]):SetEnchant(4, "Lucky_Day", 16670)
 

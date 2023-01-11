@@ -160,7 +160,6 @@
 2149	1	0	0	0	1	0	0	0	//Upg_Guard
 2150	1	0	0	0	1	0	0	0	//Upg_Buckler
 2151	1	0	0	0	1	0	0	0	//Upg_Shield
-2175	1	0	0	0	1	0	0	0	//Esprit_Shield
 2176	1	0	0	0	1	0	0	0	//Dark_Book
 2177	1	0	0	0	1	0	0	0	// Shield_Of_Death
 2178	1	1	1	1	0	1	1	1	// TE_Woe_Buckler
@@ -235,9 +234,7 @@
 2573	1	0	0	0	1	0	0	0	// Archangel_Wing
 2576	1	0	0	0	0	0	0	0	// Bravery_Bagd
 2579	1	0	0	0	1	0	0	0	//Magic_Stole
-2596	1	0	0	0	1	0	0	0	// Sharel_Manteau
 2597	1	0	0	0	0	0	0	0	// Scarlet_Poncho
-2598	1	0	0	0	1	0	0	0	// Ramor_Manteau
 2634	1	1	1	1	1	1	1	1	// 신랑결혼반지
 2635	1	1	1	1	1	1	1	1	// 신부결혼반지
 2638	1	1	0	0	0	1	1	1	//Exorcize_Sachet
@@ -4659,7 +4656,6 @@
 //알베르타 추수제
 25390	1	1	1	1	0	1	1	1	//Captured_Savage
 25391	1	1	1	1	0	1	1	1	//Goodly_Bough
-25392	1	1	1	1	0	1	1	1	//Free_Pass_Ticket
 25393	1	1	1	1	0	1	1	1	//Delicious_Corn
 25394	1	1	1	1	0	1	1	1	//Fruit_Lunch
 25395	1	1	1	1	0	1	1	1	//Small_Embers
@@ -5108,7 +5104,6 @@
 25239	1	1	0	1	1	1	1	1	//High_RankLubricant_
 
 //드라큘라스크롤
-28573	0	0	0	0	0	1	1	0	//Emerald_Ring
 23895	0	0	0	0	1	0	1	1	//DraculaScroll_TW
 
 //음과사의전쟁
@@ -5131,7 +5126,6 @@
 31515	1	1	0	1	1	1	1	1	//C_Leopard_Cat
 
 //썸머 아쿠아 스크롤
-31451	0	0	0	0	0	0	1	1	//C_Blue_Frill_Ribbon
 28909	0	0	0	0	0	0	1	1	//Shield_Of_Earth
 14984	0	0	0	0	0	1	0	0	//SummerAquaScroll_TW
 23915	0	0	0	0	0	0	0	1	//Phy_Mag_ShadowBox_TW
@@ -5187,7 +5181,6 @@
 25394	1	1	1	1	1	1	1	1	//Fruit_Lunch
 25390	1	1	1	1	0	1	1	1	//Captured_Savage
 25391	1	1	1	1	1	1	1	1	//Goodly_Bough
-25392	1	1	1	1	0	1	1	1	//Free_Pass_Ticket
 25393	1	1	1	1	0	1	1	1	//Delicious_Corn
 25395	1	1	1	1	1	1	1	1	//Small_Embers
 23446	1	1	1	1	1	1	1	1	//Savage_Trap
@@ -5809,9 +5802,9 @@
 
 //RTC Boss
 400081	1	0	0	0	1	0	0	0	//C_2020RTC_Imp_TW
-1000359	1	1	1	1	1	1	1	1	//RTC_Card_2
+//1000359	1	1	1	1	1	1	1	1	//RTC_Card_2
 1000360	1	0	0	0	0	0	0	0	//RTC_Card_0
-1000361	1	1	1	1	1	1	1	1	//RTC_Card_1
+//1000361	1	1	1	1	1	1	1	1	//RTC_Card_1
 1000362	1	1	1	1	1	1	1	1	//RTC_Card_3
 100458	1	0	0	0	0	0	0	0	//2020RTC_CardAlbum_TW
 
@@ -5966,8 +5959,6 @@
 15836	1	1	0	1	0	1	1	1	//C_Skarlet_Band_EXE
 
 //헤어 뚝딱상자 업데이트
-420034	0	0	0	0	0	1	1	1	//C_Long_Wave_BD
-420035	0	0	0	0	0	1	1	1	//C_Long_Wave_SV
 100674	1	0	0	0	0	0	0	0	//HM_Hair_Box_TW
 100675	1	0	0	0	0	0	0	0	//CT_Hair_Box_TW
 
@@ -5998,7 +5989,6 @@
 21207	1	1	0	1	0	1	1	1	//C_bullhead
 
 //평화의 비둘기 스크롤
-20989	0	0	0	0	0	1	1	1	//C_Mainspring_Screw
 100702	1	0	0	0	1	0	0	0	//Peace_Dove_Scroll_TW
 
 //2021년 3월 자체이벤트
@@ -6580,6 +6570,9 @@
 //22 06 보석 스크롤
 101644	1	0	0	0	1	0	0	0	//Jewel_Scroll_TW
 
+//22년 팝콘
+31690	0	0	0	0	0	1	1	0	//C_Flame_Bird
+
 //22 6월 소비 이벤트
 400328	1	0	0	0	1	0	0	0	//Feather_Beret_WH
 490245	1	0	0	0	1	0	0	0	//God_Order_Horn
@@ -6589,8 +6582,10 @@
 23073	1	1	0	1	1	1	1	1	//AngelPoring_Box
 101674	1	0	0	0	1	0	0	0	//D_N_A_Scroll_TW
 
-//22년 팝콘
-31690	0	0	0	0	0	1	1	0	//C_Flame_Bird
+//RTC 보상
+480208	1	1	0	1	1	1	1	1	//2022RTC_V_Coat3
+480209	1	1	0	1	1	1	1	1	//2022RTC_V_Coat2
+480210	1	1	0	1	1	1	1	1	//2022RTC_V_Coat1
 
 //앱솔브 쉐도우 박스
 101702	1	0	0	0	0	0	0	0	//Absorb_S_Box_TW
@@ -6598,23 +6593,13 @@
 //시공간 스크롤
 101704	1	0	0	0	1	0	0	0	//Time_Space_Scroll_TW
 
-//22년 7월 긴급 스크롤
-101736	1	0	0	0	1	0	0	0	//22_July_Emergency_Cash
-
-//7~8 쿠폰 아이템
-400171	1	1	0	1	1	1	1	1	//C_Angel_feather
-
 //2022 칠석 이벤트
 410197	1	1	0	1	1	1	1	1	//Promise_aglow
 1000361	1	1	1	1	1	1	1	1	//RTC_Card_1
 1000362	1	1	1	1	1	1	1	1	//RTC_Card_3
 
-//사랑의 서약 스크롤
-14704	1	0	0	0	0	0	1	0	//Gemstone_Shadow_Box
-101733	1	0	0	0	1	0	0	0	//Love_Prom_Scroll_TW
-
-//22년 한여름 스크롤
-101791	1	0	0	0	1	0	0	0	//Mid_Summer_Scroll_TW
+//22년 7월 긴급 스크롤
+101736	1	0	0	0	1	0	0	0	//22_July_Emergency_Cash
 
 //22년 8월 컨텐츠
 //비공정 추락지
@@ -6640,6 +6625,13 @@
 100477	1	1	0	1	0	1	1	1	//Poenetentia_Box1
 100478	1	1	0	1	0	1	1	1	//Poenetentia_Box2
 
+//사랑의 서약 스크롤
+14704	1	0	0	0	0	0	1	0	//Gemstone_Shadow_Box
+101733	1	0	0	0	1	0	0	0	//Love_Prom_Scroll_TW
+
+//22년 한여름 스크롤
+101791	1	0	0	0	1	0	0	0	//Mid_Summer_Scroll_TW
+
 //8월 소비 이벤트
 24771	1	0	0	0	1	0	0	0	//Limit_Break_SH_SH
 420173	1	0	0	0	1	0	0	0	//Feather_Protec_Cloth
@@ -6648,11 +6640,6 @@
 
 //행복의 역습 스크롤
 101829	1	0	0	0	1	0	0	0	//C_A_H_Scroll_TW
-
-//RTC 보상
-480208	1	1	0	1	1	1	1	1	//2022RTC_V_Coat3
-480209	1	1	0	1	1	1	1	1	//2022RTC_V_Coat2
-480210	1	1	0	1	1	1	1	1	//2022RTC_V_Coat1
 
 //22년 9월 컨텐츠
 //성좌의 탑 75층
@@ -6669,9 +6656,151 @@
 490136	1	1	0	1	0	1	1	1	//Signet_Of_Spl_Star
 490137	1	1	0	1	0	1	1	1	//Signet_Of_Wis_Star
 
+//20주년 자체제작 이벤트 1
+400351	1	0	0	0	0	0	0	0	//C_20Y_Anniv_Helmet
+410202	1	0	0	0	0	0	0	0	//C_ROROGO
+
 //바람신 스크롤
 480242	1	0	0	0	0	0	0	0	//Tele_WG_Cape
 101848	1	0	0	0	1	0	0	0	//Venti_Scroll_TW
 
+//KRO 20주년 이벤트
+101596	1	1	0	1	1	1	1	1	//Evt_20th_Shield
+101597	1	1	0	1	1	1	1	1	//Evt_20th_Protector
+101600	1	1	1	1	1	1	1	1	//Evt_20th_Whitegold
+101601	1	1	1	1	1	1	1	1	//Evt_20th_Gold
+101602	1	1	1	1	1	1	1	1	//Evt_20th_Silver
+101603	1	1	1	1	1	1	1	1	//Evt_20th_Bronze
+101604	1	1	1	1	1	1	1	1	//Evt_20th_Return
+101605	1	1	1	1	1	1	1	1	//Evt_20th_Return2
+17232	1	1	0	1	1	1	1	1	//Guarantee7_Box
+31840	1	1	0	1	1	1	1	1	//C_BJ_HeadsetA
+31841	1	1	0	1	1	1	1	1	//C_BJ_HeadsetB
+31944	0	0	0	0	0	1	1	0	//C_Elegant_Wave
+1001007	1	1	0	1	0	1	1	1	//Evt_20th_Invasion
+1001008	1	1	0	1	0	1	1	1	//Evt_20th_Dimension
+
 //2022 추수감사제
 25392	1	1	1	1	0	1	1	1	//Free_Pass_Ticket
+
+//영웅의 날개 스크롤
+410213	1	0	0	0	0	0	0	0	//Ear_OF_Bloody
+101867	1	0	0	0	1	0	0	0	//Hero_Wing_Scroll_TW
+
+//20주년 자체 제작 이벤트
+400076	1	1	0	1	0	1	1	1	//C_20th_Anniversary
+7987	1	1	1	1	0	1	1	1	//Spring_Stanza10
+
+//20주년 웹 이벤트
+600012	1	1	1	1	0	1	1	1	//IW_B_T_Sword
+610013	1	1	1	1	0	1	1	1	//RC_B_Katar
+610028	1	1	1	1	0	1	1	1	//CA_B_Katar
+620003	1	1	1	1	0	1	1	1	//PT_B_Axe
+630008	1	1	1	1	0	1	1	1	//HB_B_T_Spear
+640009	1	1	1	1	0	1	1	1	//CS_B_Staff
+640010	1	1	1	1	0	1	1	1	//CJ_B_Staff
+650017	1	1	1	1	0	1	1	1	//FCH_B_Huuma
+650018	1	1	1	1	0	1	1	1	//SN_B_Huuma
+700014	1	1	1	1	0	1	1	1	//TB_B_Bow
+700015	1	1	1	1	0	1	1	1	//AS_B_Bow
+700016	1	1	1	1	0	1	1	1	//SB_B_Bow
+800008	1	1	1	1	0	1	1	1	//DF_B_Revolver
+830007	1	1	1	1	0	1	1	1	//FR_B_Gatling
+100054	1	1	1	1	0	1	1	1	//Time_Over_S_Box
+100338	1	1	1	1	0	1	1	1	//Booster_W_Up_1
+100339	1	1	1	1	0	1	1	1	//Booster_W_Up_2
+100340	1	1	1	1	0	1	1	1	//Booster_W_Up_3
+101870	1	1	1	1	1	1	1	1	//RO_20_Weapon_Box_TW
+101873	1	1	1	1	1	1	1	1	//20Y_Web_Event_Box_TW
+500015	1	1	1	1	0	1	1	1	//PG_B_Sword
+500016	1	1	1	1	0	1	1	1	//HS_T_Sword
+510018	1	1	1	1	0	1	1	1	//MF_B_Dagger
+510069	1	1	1	1	0	1	1	1	//SN_B_Dagger
+530005	1	1	1	1	0	1	1	1	//BC_B_Spear
+540009	1	1	1	1	0	1	1	1	//SB_B_Book
+540039	1	1	1	1	0	1	1	1	//ML_B_Book
+540040	1	1	1	1	0	1	1	1	//SS_B_Book
+550010	1	1	1	1	0	1	1	1	//ES_B_Stick
+550011	1	1	1	1	0	1	1	1	//AN_B_Wand
+550050	1	1	1	1	0	1	1	1	//SP_B_Fox
+550051	1	1	1	1	0	1	1	1	//GB_B_Fox
+550052	1	1	1	1	0	1	1	1	//ES_B_Staff
+550053	1	1	1	1	0	1	1	1	//EC_B_Staff
+550079	1	1	1	1	0	1	1	1	//SN_B_Wand
+560006	1	1	1	1	0	1	1	1	//PS_B_Knuckle
+560007	1	1	1	1	0	1	1	1	//CP_B_Knuckle
+570010	1	1	1	1	0	1	1	1	//MV_B_Violin
+570024	1	1	1	1	0	1	1	1	//RS_B_Violin
+580010	1	1	1	1	0	1	1	1	//MV_B_Whip
+580024	1	1	1	1	0	1	1	1	//RS_B_Whip
+590008	1	1	1	1	0	1	1	1	//AK_B_Mace
+590009	1	1	1	1	0	1	1	1	//AC_B_Club
+590010	1	1	1	1	0	1	1	1	//DD_B_Mace
+
+//20주년 오프라인 이벤트 보상
+400351	1	0	0	0	0	0	0	0	//C_20Y_Anniv_Helmet
+410202	1	0	0	0	0	0	0	0	//C_ROROGO
+
+//20주년 기념 스크롤
+400368	1	0	0	0	0	0	0	0	//20th_Anniversary_Hat_TW
+410215	1	0	0	0	0	0	0	0	//Ear_OF_Spirit
+420186	1	0	0	0	0	0	0	0	//20th_Anniversary_TW
+470182	1	0	0	0	0	0	0	0	//Agenda_Boots_LT_TW
+470183	1	0	0	0	0	0	0	0	//Temporal_Boots_LT_TW
+1001174	1	0	0	0	0	0	0	0	//Ymir_Heart_TW
+101893	1	0	0	0	1	0	0	0	//20Anniversary_Scroll_TW
+
+//2022 말썽꾸러기 악마 스크롤
+400370	1	0	0	0	1	0	0	0	//C_PU_EarWitchHat
+410216	1	0	0	0	0	0	0	0	//Ear_OF_Abyss
+101903	1	0	0	0	1	0	0	0	//Tro_Devil_Scroll_TW
+
+//2022 할로윈
+1001157	1	1	1	1	0	1	1	1	//2210_ev_fur
+1001158	1	1	1	1	0	1	1	1	//2210_ev_leather
+101056	1	1	1	1	1	1	1	1	//Season_Evt_Reward_10
+
+//22년 11월 맹수의 스크롤
+101952	1	0	0	0	0	0	0	0	//SunShine_Sand
+101953	1	0	0	0	0	0	0	0	//Psy_Wind_Orb
+101954	1	0	0	0	0	0	0	0	//Intake_Hair_Box
+101955	1	0	0	0	1	0	0	0	//Beast_Scroll_TW
+470187	1	0	0	0	0	0	0	0	//Beast_Area_Shoes
+23023	1	1	1	1	1	1	1	1	//C_Giant_Fly_Wing
+
+//22년 11월 의상 뚝딱 상자
+101956	1	0	0	0	0	0	0	0	//BTT_Hair_Box
+
+//레드 스타 스크롤
+480269	1	0	0	0	0	0	0	0	//N_Avenger_Cape_TW
+480270	1	0	0	0	0	0	0	0	//N_Spirit_Cape_TW
+102038	1	0	0	0	0	0	0	0	//Dead_Soul_Aura
+102039	1	0	0	0	0	0	0	0	//Red_S_Star_Scroll_TW
+
+//신비한 자연 스크롤
+480276	1	0	0	0	0	0	0	0	//Occult_Nature_Cape
+102102	1	0	0	0	0	0	0	0	//Time_Crys_Box
+102103	1	0	0	0	0	0	0	0	//C_Time_Crys
+102104	1	0	0	0	0	0	0	0	//D_Time_Crys
+102105	1	0	0	0	0	0	0	0	//TIme_Crys_TW
+102106	1	0	0	0	1	0	0	0	//Occult_Nature_Scroll_TW
+
+//인챈트 스톤상자23
+100721	1	1	0	1	0	1	1	1	//Enchant_Stone_Box23
+
+//22년 성탄절 스크롤
+400400	1	0	0	0	0	0	0	0	//Red_Baby_Dragon_LT
+450263	1	0	0	0	0	0	0	0	//Lunar_E_Armor_LT
+102116	1	0	0	0	1	0	0	0	//22Christmas_Scroll_TW
+102118	1	0	0	0	0	0	0	0	//R_B_S_Op_Box
+//12 consume event
+420194	1	0	0	0	1	0	0	0	//Rescue_whistle
+460038	1	0	0	0	1	0	0	0	//Nob_Lib_Shield
+480278	1	0	0	0	1	0	0	0	//Huse_Luk_R_Wing
+490318	1	0	0	0	1	0	0	0	//Arc_A_Ring
+//눈꽃 이벤트
+1000709	1	1	1	1	1	1	1	1	//Clean_Snow
+
+//22년 광휘의 스크롤
+400401	1	0	0	0	0	0	0	0	//Yggdrasil_Faith
+102127	1	0	0	0	1	0	0	0	//Brilliance_Scroll_TW

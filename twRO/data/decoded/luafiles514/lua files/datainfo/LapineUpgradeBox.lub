@@ -5,6 +5,498 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+C_Time_Crys = {ItemID = 102103, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"WM_Job_Pick", 490211}
+, 
+{"Twin_Dragonic_Ring", 490219}
+, 
+{"Firm_Faith_Ring", 490262}
+, 
+{"RoyalGard_Seal_Ring", 490263}
+, 
+{"Mob_P_Crystal_Ring", 490257}
+, 
+{"Time_Thief_Earring", 490258}
+, 
+{"Curse_Magic_Ring", 490259}
+, 
+{"Old_Cart_Acc", 490260}
+, 
+{"Time_Jewel_Acc", 490238}
+, 
+{"LightOfCardinal", 490269}
+, 
+{"Armor_Drive_Wheel", 490281}
+, 
+{"WindHawk_Snip_Ring", 490284}
+}
+, NeedSource_String = "超時空結晶裝備"}
+, 
+D_Time_Crys = {ItemID = 102104, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"WM_Job_Pick", 490211}
+, 
+{"Twin_Dragonic_Ring", 490219}
+, 
+{"Firm_Faith_Ring", 490262}
+, 
+{"RoyalGard_Seal_Ring", 490263}
+, 
+{"Mob_P_Crystal_Ring", 490257}
+, 
+{"Time_Thief_Earring", 490258}
+, 
+{"Curse_Magic_Ring", 490259}
+, 
+{"Old_Cart_Acc", 490260}
+, 
+{"Time_Jewel_Acc", 490238}
+, 
+{"LightOfCardinal", 490269}
+, 
+{"Armor_Drive_Wheel", 490281}
+, 
+{"WindHawk_Snip_Ring", 490284}
+}
+, NeedSource_String = "超時空結晶裝備"}
+, 
+Dead_Soul_Aura = {ItemID = 102038, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Record_Mage_TW", 32285}
+, 
+{"Record_Merchant_TW", 32286}
+, 
+{"Record_Thief_TW", 32287}
+, 
+{"Record_Acol_TW", 32288}
+, 
+{"Record_Sward_TW", 490094}
+, 
+{"Record_Acher_TW", 490095}
+, 
+{"Record_Mage2_TW", 490170}
+, 
+{"Record_Sward2_TW", 490173}
+, 
+{"Record_Merchant2_TW", 490175}
+, 
+{"Record_Thief2_TW", 490191}
+, 
+{"Record_Acolyte2_TW", 490192}
+, 
+{"Record_Acher2_TW", 490198}
+}
+, NeedSource_String = "思念體破壞因子研究錄, 思念體忿恨因子研究錄"}
+, 
+SunShine_Sand = {ItemID = 101952, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_G_Manteau_TW", 480153}
+}
+, NeedSource_String = "豔陽沙礫斗篷"}
+, 
+Psy_Wind_Orb = {ItemID = 101953, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Tele_WG_Cape", 480242}
+}
+, NeedSource_String = "念動風神斗篷"}
+, 
+Booster_W_Up_1 = {ItemID = 100338, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"IW_B_T_Sword", 600012}
+, 
+{"HB_B_T_Spear", 630008}
+, 
+{"BC_B_Spear", 530005}
+, 
+{"PG_B_Sword", 500015}
+, 
+{"PT_B_Axe", 620003}
+, 
+{"AK_B_Mace", 590008}
+, 
+{"AC_B_Club", 590009}
+, 
+{"HS_T_Sword", 500016}
+, 
+{"RC_B_Katar", 610013}
+, 
+{"CA_B_Katar", 610028}
+, 
+{"TB_B_Bow", 700014}
+, 
+{"MF_B_Dagger", 510018}
+, 
+{"CS_B_Staff", 640009}
+, 
+{"CJ_B_Staff", 640010}
+, 
+{"SB_B_Book", 540009}
+, 
+{"ES_B_Stick", 550010}
+, 
+{"AN_B_Wand", 550011}
+, 
+{"DD_B_Mace", 590010}
+, 
+{"PS_B_Knuckle", 560006}
+, 
+{"CP_B_Knuckle", 560007}
+, 
+{"AS_B_Bow", 700015}
+, 
+{"SB_B_Bow", 700016}
+, 
+{"RS_B_Violin", 570024}
+, 
+{"RS_B_Whip", 580024}
+, 
+{"MV_B_Violin", 570010}
+, 
+{"MV_B_Whip", 580010}
+, 
+{"SP_B_Fox", 550050}
+, 
+{"GB_B_Fox", 550051}
+, 
+{"ML_B_Book", 540039}
+, 
+{"SS_B_Book", 540040}
+, 
+{"FCH_B_Huuma", 650017}
+, 
+{"SN_B_Huuma", 650018}
+, 
+{"DF_B_Revolver", 800008}
+, 
+{"FR_B_Gatling", 830007}
+, 
+{"ES_B_Staff", 550052}
+, 
+{"EC_B_Staff", 550053}
+, 
+{"SN_B_Dagger", 510069}
+, 
+{"SN_B_Wand", 550079}
+}
+, NeedSource_String = "仙境武器"}
+, 
+Booster_W_Up_2 = {ItemID = 100339, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"IW_B_T_Sword", 600012}
+, 
+{"HB_B_T_Spear", 630008}
+, 
+{"BC_B_Spear", 530005}
+, 
+{"PG_B_Sword", 500015}
+, 
+{"PT_B_Axe", 620003}
+, 
+{"AK_B_Mace", 590008}
+, 
+{"AC_B_Club", 590009}
+, 
+{"HS_T_Sword", 500016}
+, 
+{"RC_B_Katar", 610013}
+, 
+{"CA_B_Katar", 610028}
+, 
+{"TB_B_Bow", 700014}
+, 
+{"MF_B_Dagger", 510018}
+, 
+{"CS_B_Staff", 640009}
+, 
+{"CJ_B_Staff", 640010}
+, 
+{"SB_B_Book", 540009}
+, 
+{"ES_B_Stick", 550010}
+, 
+{"AN_B_Wand", 550011}
+, 
+{"DD_B_Mace", 590010}
+, 
+{"PS_B_Knuckle", 560006}
+, 
+{"CP_B_Knuckle", 560007}
+, 
+{"AS_B_Bow", 700015}
+, 
+{"SB_B_Bow", 700016}
+, 
+{"RS_B_Violin", 570024}
+, 
+{"RS_B_Whip", 580024}
+, 
+{"MV_B_Violin", 570010}
+, 
+{"MV_B_Whip", 580010}
+, 
+{"SP_B_Fox", 550050}
+, 
+{"GB_B_Fox", 550051}
+, 
+{"ML_B_Book", 540039}
+, 
+{"SS_B_Book", 540040}
+, 
+{"FCH_B_Huuma", 650017}
+, 
+{"SN_B_Huuma", 650018}
+, 
+{"DF_B_Revolver", 800008}
+, 
+{"FR_B_Gatling", 830007}
+, 
+{"ES_B_Staff", 550052}
+, 
+{"EC_B_Staff", 550053}
+, 
+{"SN_B_Dagger", 510069}
+, 
+{"SN_B_Wand", 550079}
+}
+, NeedSource_String = "仙境武器"}
+, 
+Booster_W_Up_3 = {ItemID = 100340, NeedRefineMin = 0, NeedRefineMax = 12, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"IW_B_T_Sword", 600012}
+, 
+{"HB_B_T_Spear", 630008}
+, 
+{"BC_B_Spear", 530005}
+, 
+{"PG_B_Sword", 500015}
+, 
+{"PT_B_Axe", 620003}
+, 
+{"AK_B_Mace", 590008}
+, 
+{"AC_B_Club", 590009}
+, 
+{"HS_T_Sword", 500016}
+, 
+{"RC_B_Katar", 610013}
+, 
+{"CA_B_Katar", 610028}
+, 
+{"TB_B_Bow", 700014}
+, 
+{"MF_B_Dagger", 510018}
+, 
+{"CS_B_Staff", 640009}
+, 
+{"CJ_B_Staff", 640010}
+, 
+{"SB_B_Book", 540009}
+, 
+{"ES_B_Stick", 550010}
+, 
+{"AN_B_Wand", 550011}
+, 
+{"DD_B_Mace", 590010}
+, 
+{"PS_B_Knuckle", 560006}
+, 
+{"CP_B_Knuckle", 560007}
+, 
+{"AS_B_Bow", 700015}
+, 
+{"SB_B_Bow", 700016}
+, 
+{"RS_B_Violin", 570024}
+, 
+{"RS_B_Whip", 580024}
+, 
+{"MV_B_Violin", 570010}
+, 
+{"MV_B_Whip", 580010}
+, 
+{"SP_B_Fox", 550050}
+, 
+{"GB_B_Fox", 550051}
+, 
+{"ML_B_Book", 540039}
+, 
+{"SS_B_Book", 540040}
+, 
+{"FCH_B_Huuma", 650017}
+, 
+{"SN_B_Huuma", 650018}
+, 
+{"DF_B_Revolver", 800008}
+, 
+{"FR_B_Gatling", 830007}
+, 
+{"ES_B_Staff", 550052}
+, 
+{"EC_B_Staff", 550053}
+, 
+{"SN_B_Dagger", 510069}
+, 
+{"SN_B_Wand", 550079}
+}
+, NeedSource_String = "仙境武器"}
+, 
+Hero_LT_Refine_Melee = {ItemID = 100744, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Saint_Hall_LT", 590030}
+, 
+{"Undine_Spear_K_LT", 530019}
+, 
+{"Demon_Hunting_Bible_LT", 540035}
+, 
+{"Light_Blade_LT", 500038}
+, 
+{"Magic_Sword_LT", 510040}
+, 
+{"Fatalist_LT", 510041}
+, 
+{"Iron_Staff_LT", 640027}
+, 
+{"Blue_Crystal_Staff_LT", 640028}
+, 
+{"Shadow_Staff_K_LT", 550045}
+, 
+{"Freezing_Rod_LT", 550046}
+, 
+{"Iron_Nail_K_LT", 560026}
+, 
+{"Ray_Knuckle_LT", 560027}
+, 
+{"Scalet_Dragon_L_Bow_LT", 700046}
+, 
+{"Royal_Bow_K_LT", 700045}
+, 
+{"Slate_Sword_LT", 500040}
+, 
+{"Sword_Of_Bluefire_LT", 500039}
+, 
+{"Trumpet_Shell_K_LT", 570027}
+, 
+{"Barb_Wire_K_LT", 580027}
+, 
+{"Narcis_Bow_LT", 700049}
+, 
+{"Avenger_LT", 620015}
+, 
+{"Meteor_Striker_LT", 590034}
+, 
+{"Oriental_Sword_LT", 600023}
+, 
+{"Dragonic_Slayer_LT", 600024}
+, 
+{"Shiver_Katar_K_LT", 610033}
+, 
+{"Blade_Katar_LT", 610034}
+, 
+{"Humma_Clear_LT", 650024}
+, 
+{"Fog_Dew_Sword_LT", 510060}
+, 
+{"Crimson_Rose_LT", 800013}
+, 
+{"Master_Soul_Rifle_LT", 810009}
+, 
+{"Demon_S_Shot_LT", 820007}
+, 
+{"The_Black_Gatling_LT", 830012}
+, 
+{"Golden_L_Launcher_LT", 840008}
+, 
+{"MeawFoxtail_LT", 550067}
+, 
+{"OneSkyOneSun_LT", 540048}
+, 
+{"SoulWeight_LT", 550068}
+, 
+{"Freedom_Stick_LT", 550082}
+, 
+{"Blessed_Knife_LT", 510072}
+}
+, NeedSource_String = "英雄武器-LT"}
+, 
+Hero_LT_Refine_Magic = {ItemID = 100745, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Saint_Hall_LT", 590030}
+, 
+{"Undine_Spear_K_LT", 530019}
+, 
+{"Demon_Hunting_Bible_LT", 540035}
+, 
+{"Light_Blade_LT", 500038}
+, 
+{"Magic_Sword_LT", 510040}
+, 
+{"Fatalist_LT", 510041}
+, 
+{"Iron_Staff_LT", 640027}
+, 
+{"Blue_Crystal_Staff_LT", 640028}
+, 
+{"Shadow_Staff_K_LT", 550045}
+, 
+{"Freezing_Rod_LT", 550046}
+, 
+{"Iron_Nail_K_LT", 560026}
+, 
+{"Ray_Knuckle_LT", 560027}
+, 
+{"Scalet_Dragon_L_Bow_LT", 700046}
+, 
+{"Royal_Bow_K_LT", 700045}
+, 
+{"Slate_Sword_LT", 500040}
+, 
+{"Sword_Of_Bluefire_LT", 500039}
+, 
+{"Trumpet_Shell_K_LT", 570027}
+, 
+{"Barb_Wire_K_LT", 580027}
+, 
+{"Narcis_Bow_LT", 700049}
+, 
+{"Avenger_LT", 620015}
+, 
+{"Meteor_Striker_LT", 590034}
+, 
+{"Oriental_Sword_LT", 600023}
+, 
+{"Dragonic_Slayer_LT", 600024}
+, 
+{"Shiver_Katar_K_LT", 610033}
+, 
+{"Blade_Katar_LT", 610034}
+, 
+{"Humma_Clear_LT", 650024}
+, 
+{"Fog_Dew_Sword_LT", 510060}
+, 
+{"Crimson_Rose_LT", 800013}
+, 
+{"Master_Soul_Rifle_LT", 810009}
+, 
+{"Demon_S_Shot_LT", 820007}
+, 
+{"The_Black_Gatling_LT", 830012}
+, 
+{"Golden_L_Launcher_LT", 840008}
+, 
+{"MeawFoxtail_LT", 550067}
+, 
+{"OneSkyOneSun_LT", 540048}
+, 
+{"SoulWeight_LT", 550068}
+, 
+{"Freedom_Stick_LT", 550082}
+, 
+{"Blessed_Knife_LT", 510072}
+}
+, NeedSource_String = "英雄武器-LT"}
+, 
 MD_Airboat_Random = {ItemID = 100476, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"MD_Airboat_Boots", 470071}
@@ -407,6 +899,18 @@ TargetItems = {
 , 
 Shadow_Random_Mix = {ItemID = 23720, NeedRefineMin = 7, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_AutoSpell_Shield", 24722}
+, 
+{"S_AutoSpell_Armor", 24723}
+, 
+{"S_AutoSpell_Shoes", 24724}
+, 
+{"S_AutoSpell_Weapon", 24725}
+, 
+{"S_AutoSpell_Pendant", 24726}
+, 
+{"S_AutoSpell_Earring", 24727}
+, 
 {"S_Mammoth_Armor", 24669}
 , 
 {"S_Mammoth_Shoes", 24670}
@@ -2283,6 +2787,10 @@ TargetItems = {
 , 
 Great_Hero_Bravery = {ItemID = 100412, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"Up_Freedom_Stick", 550081}
+, 
+{"Up_Blessed_Knife", 510071}
+, 
 {"Up_Oriental_Sword", 600009}
 , 
 {"Up_Sword_Of_Bluefire", 500013}
@@ -2359,6 +2867,10 @@ TargetItems = {
 , 
 Great_Hero_Wisdom = {ItemID = 100413, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"Up_Freedom_Stick", 550081}
+, 
+{"Up_Blessed_Knife", 510071}
+, 
 {"Up_Oriental_Sword", 600009}
 , 
 {"Up_Sword_Of_Bluefire", 500013}
@@ -3928,6 +4440,10 @@ TargetItems = {
 {"Blue_Crystal_Staff", 640004}
 , 
 {"Freezing_Rod", 550007}
+, 
+{"Blessed_Knife", 510070}
+, 
+{"Freedom_Stick", 550080}
 }
 , NeedSource_String = "英雄武器"}
 , 
@@ -4061,6 +4577,18 @@ TargetItems = {
 , 
 Shadow2_Op_Box_TW = {ItemID = 100549, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_R_Bearers_Shoes", 24763}
+, 
+{"S_R_Bearers_Armor", 24764}
+, 
+{"S_R_Bearers_Pendant", 24765}
+, 
+{"S_R_Bearers_Earring", 24766}
+, 
+{"S_Hasty_Shield", 24732}
+, 
+{"S_Infinity_Shield", 24733}
+, 
 {"S_Absorb_Shield", 24685}
 , 
 {"S_Absorb_Weapon", 24686}
@@ -5009,6 +5537,30 @@ TargetItems = {
 , 
 Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_AutoSpell_Shield", 24722}
+, 
+{"S_AutoSpell_Armor", 24723}
+, 
+{"S_AutoSpell_Shoes", 24724}
+, 
+{"S_AutoSpell_Weapon", 24725}
+, 
+{"S_AutoSpell_Pendant", 24726}
+, 
+{"S_AutoSpell_Earring", 24727}
+, 
+{"S_R_Bearers_Shoes", 24763}
+, 
+{"S_R_Bearers_Armor", 24764}
+, 
+{"S_R_Bearers_Pendant", 24765}
+, 
+{"S_R_Bearers_Earring", 24766}
+, 
+{"S_Hasty_Shield", 24732}
+, 
+{"S_Infinity_Shield", 24733}
+, 
 {"S_Absorb_Shield", 24685}
 , 
 {"S_Absorb_Weapon", 24686}
@@ -5044,6 +5596,8 @@ TargetItems = {
 {"S_EXP_Shield", 24683}
 , 
 {"Limit_Break_SH_W", 24769}
+, 
+{"Limit_Break_SH_SH", 24771}
 , 
 {"S_FullPene_Earring", 24661}
 , 
@@ -6839,6 +7393,10 @@ TargetItems = {
 , 
 {"Blue_Crystal_Staff", 640004}
 , 
+{"Blessed_Knife", 510070}
+, 
+{"Freedom_Stick", 550080}
+, 
 {"Up_Oriental_Sword", 600009}
 , 
 {"Up_Sword_Of_Bluefire", 500013}
@@ -6910,11 +7468,19 @@ TargetItems = {
 {"Up_Humma_Clear", 650004}
 , 
 {"Up_Fog_Dew_Sword", 510022}
+, 
+{"Up_Blessed_Knife", 510071}
+, 
+{"Up_Freedom_Stick", 550081}
 }
 , NeedSource_String = "英雄武器"}
 , 
 Ancient_Hero_Wisdom = {ItemID = 100025, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"Up_Blessed_Knife", 510071}
+, 
+{"Up_Freedom_Stick", 550081}
+, 
 {"Royal_Bow_K", 18164}
 , 
 {"Narcis_Bow", 18170}
@@ -7379,6 +7945,30 @@ TargetItems = {
 , 
 Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_AutoSpell_Shield", 24722}
+, 
+{"S_AutoSpell_Armor", 24723}
+, 
+{"S_AutoSpell_Shoes", 24724}
+, 
+{"S_AutoSpell_Weapon", 24725}
+, 
+{"S_AutoSpell_Pendant", 24726}
+, 
+{"S_AutoSpell_Earring", 24727}
+, 
+{"S_R_Bearers_Shoes", 24763}
+, 
+{"S_R_Bearers_Armor", 24764}
+, 
+{"S_R_Bearers_Pendant", 24765}
+, 
+{"S_R_Bearers_Earring", 24766}
+, 
+{"S_Hasty_Shield", 24732}
+, 
+{"S_Infinity_Shield", 24733}
+, 
 {"Limit_Break_SH_SH", 24771}
 , 
 {"S_Absorb_Shield", 24685}

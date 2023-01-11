@@ -103,10 +103,10 @@ ReadAnimatedEmitterInfoz = function(tablename)
       SetAnimatedEmitterInfo(k, MSG_SET_DESTMODE, (v.destmode)[1])
       SetAnimatedEmitterInfo(k, MSG_SET_ZENABLE, (v.zenable)[1])
       if v.billboard_off ~= nil then
-        SetEmitterInfo(k, MSG_SET_BILLBOARD_OFF, (v.billboard_off)[1])
+        SetAnimatedEmitterInfo(k, MSG_SET_BILLBOARD_OFF, (v.billboard_off)[1])
       end
       if v.rotate_angle ~= nil then
-        SetEmitterInfo(k, MSG_SET_ROTATE_ANGLE, (v.rotate_angle)[1], (v.rotate_angle)[2], (v.rotate_angle)[3])
+        SetAnimatedEmitterInfo(k, MSG_SET_ROTATE_ANGLE, (v.rotate_angle)[1], (v.rotate_angle)[2], (v.rotate_angle)[3])
       end
       SetAnimatedEmitterInfo(k, MSG_SET_INIT)
     end
@@ -191,6 +191,28 @@ ReadEZ2STRInfoz = function(tablename)
       if v.alpharatio ~= nil then
         SetEZ2STRInfo(k, MSG_SET_ALPHA_RATIO, v.alpharatio)
       end
+    end
+  end
+end
+
+ReadWindEffectInfoz = function(tablename)
+  -- function num : 0_7
+  local t = _G[tablename]
+  if t ~= nil then
+    for k,v in pairs(t) do
+      SetWindEffectInfo(k, MSG_SET_POS, (v.Pos)[1], (v.Pos)[2], (v.Pos)[3])
+      SetWindEffectInfo(k, MSG_SET_NUMBER, v.ParticleNum)
+      SetWindEffectInfo(k, MSG_SET_COLOR, (v.Color)[1], (v.Color)[2], (v.Color)[3], (v.Color)[4])
+      SetWindEffectInfo(k, MSG_SET_SIZE, v.Radius)
+      SetWindEffectInfo(k, MSG_SET_RISEANGLE, v.Thickness)
+      SetWindEffectInfo(k, MSG_SET_HEIGHT0, v.Height)
+      SetWindEffectInfo(k, MSG_SET_SPEED, v.Speed)
+      SetWindEffectInfo(k, MSG_SET_FDA, v.FullAngle)
+      SetWindEffectInfo(k, MSG_SET_ROTATE_ANGLE, (v.RotateVector)[1], (v.RotateVector)[2])
+      SetWindEffectInfo(k, MSG_SET_SRCMODE, v.SrcMode)
+      SetWindEffectInfo(k, MSG_SET_DESTMODE, v.DestMode)
+      SetWindEffectInfo(k, MSG_SET_TEXTURE, v.Texture)
+      SetWindEffectInfo(k, MSG_SET_INIT)
     end
   end
 end

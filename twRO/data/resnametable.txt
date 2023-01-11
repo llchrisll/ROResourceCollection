@@ -3784,3 +3784,9 @@ sp_rud4_B.rsw#sp_rud4_B.rsw#
 3@ch_t.gat#3@ch_t.gat#
 3@ch_t.rsw#3@ch_t.rsw#
 유저인터페이스\map\3@ch_t.bmp#유저인터페이스\map\3@ch_t.bmp#
+
+//// 20주년 - 차원의 벽 너머
+1@dime.gnd#1@dime.gnd#
+1@dime.gat#1@dime.gat#
+1@dime.rsw#1@dime.rsw#
+유저인터페이스\map\1@dime.bmp#유저인터페이스\map\1@dime.bmp#

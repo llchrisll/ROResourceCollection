@@ -6446,6 +6446,18 @@ main = function()
 {jobtbl.JT_TW_V_B_SEYREN, "TW_V_B_SEYREN", "TW_V_B_SEYREN"}
 , 
 {jobtbl.JT_TW_V_B_EREMES, "TW_V_B_EREMES", "TW_V_B_EREMES"}
+, 
+{jobtbl.JT_4_EP18_MARAM, " 4_EP18_MARAM", "nil"}
+, 
+{jobtbl.JT_DARK_PRIEST, "DARK_PRIEST", "다크프리스트"}
+, 
+{jobtbl.JT_DESERT_WOLF, "DESERT_WOLF", "데저트울프"}
+, 
+{jobtbl.JT_FIRE_GOLEM, "FIRE_GOLEM", "FIRE_GOLEM"}
+, 
+{jobtbl.JT_ILL_BAPHOMET_J, "ILL_BAPHOMET_J", "ILL_BAPHOMET_J"}
+, 
+{jobtbl.JT_BAPHOMET2, "BAPHOMET2", "BAPHOMET2"}
 }
   for k,v in pairs(tbl) do
     result = settable(v[1], v[2], v[3])
