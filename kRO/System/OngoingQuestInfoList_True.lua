@@ -3766,7 +3766,7 @@ Description = {"50Lv 이상의 용족 몬스터를 30마리 사냥한 뒤에 <NAVI>[부관 장하성]
 , Summary = "용족 몬스터 사냥"}
 , 
 [3398] = {Title = "왕실 사냥터로", IconName = "ico_ev.bmp", 
-Description = {"<NAVI>[텔레포테이션 장치]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI>를 사용하여 왕실 사냥터로 진입하자."}
+Description = {"<NAVI>[지휘관 나데즈다]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>에게 <NAVI>[텔레포테이션 장치]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI>를 사용할 수 있는 권한을 얻자."}
 , Summary = ""}
 , 
 [3399] = {Title = "곤충형 몬스터 사냥", IconName = "ico_ev.bmp", 
@@ -9957,7 +9957,7 @@ Description = {"조리장 <NAVI>[냐스]<INFO>mal_in02,187,58,0,101,0</INFO></NAVI>는
 Description = {"조리장 <NAVI>[냐스]<INFO>mal_in02,187,58,0,101,0</INFO></NAVI>는 고양이건빵 재료로 곡식 10단, 담백한소스 1병을 요구했다. 또 인간들의 요리가 궁금하다며 쁘띠꼬리 국수 1개도 구해 오라고 지시했다."}
 , Summary = "쁘띠꼬리 국수 1개"}
 , 
-[7347] = {Title = "맛있는 문어구이", 
+[7347] = {Title = "맛있는 문어구이", IconName = "ico_ev.bmp", 
 Description = {"맛있는 문어구이를 너무 많이 먹은 것 같다. 배가 꺼지면 다시 먹어 볼까?"}
 , Summary = "30분 후 초기화"}
 , 
@@ -11126,11 +11126,11 @@ Description = {"실험동의 메모리레코드의 수집은 하루에 한 번만 진행한다. 약속한 �
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [7654] = {Title = "연구동 메모리레코드 플레이", IconName = "ico_dq.bmp", 
-Description = {"베루스 발굴지에 있는 <NAVI>[레코드 플레이어]<INFO>verus04,170,150,0,101,0</INFO></NAVI>를 재생시켜 내용을 알아내자."}
+Description = {"베루스 발굴지에 있는 <NAVI>[레코드 플레이어]<INFO>verus04,170,148,0,101,0</INFO></NAVI>를 재생시켜 내용을 알아내자."}
 , Summary = "레코드 플레이어 재생"}
 , 
 [7655] = {Title = "실험동 메모리레코드 플레이", IconName = "ico_dq.bmp", 
-Description = {"베루스 발굴지에 있는 <NAVI>[레코드 플레이어]<INFO>verus04,170,150,0,101,0</INFO></NAVI>를 재생시켜 내용을 알아내자."}
+Description = {"베루스 발굴지에 있는 <NAVI>[레코드 플레이어]<INFO>verus04,170,148,0,101,0</INFO></NAVI>를 재생시켜 내용을 알아내자."}
 , Summary = "레코드 플레이어 재생"}
 , 
 [7656] = {Title = "레켄베르의 초대", IconName = "ico_ep.bmp", 
@@ -19791,6 +19791,214 @@ Description = {"떡국을 얻었다. 휼은 자신이 만든 새로운 맛의 떡국을 <NAVI>[어머니
 Description = {"<NAVI>[휼의 기묘한 떡국]<INFO>payon,224,109,0,101,0</INFO></NAVI>을 더 만들고 싶다면 내일 다시 도전하자."}
 , Summary = "가마솥 정비중", CoolTimeQuest = 1}
 , 
+[11876] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"프론테라의 지하수로에서 대도시의 세련된 거미줄을 공부하고 싶다고 유학 중인 <NAVI>[형제]<INFO>prt_sewb1,91,222,0,101,0</INFO></NAVI>와 대화하자."}
+, Summary = "지하수로의 형제"}
+, 
+[11877] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"각지에 흩어져 있는 거밍의 형제들을 10마리정도 니플헤임으로 돌려보내고 니플헤임의 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "형제들을 니플헤임으로!"}
+, 
+[11878] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"거밍의 우글우글 준비를 도왔다. 내일 다시 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>의 우글우글을 돕자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11879] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"페이욘 던전에서 니플헤임과 비슷한 환경을 가진 지역의 거미줄을 공부하고 싶다고 유학 중인 <NAVI>[형제]<INFO>pay_dun00,34,113,0,101,0</INFO></NAVI>와 대화하자."}
+, Summary = "페이욘 던전의 형제"}
+, 
+[11880] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"각지에 흩어져 있는 거밍의 형제들을 10마리정도 니플헤임으로 돌려보내고 니플헤임의 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "형제들을 니플헤임으로!"}
+, 
+[11881] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"거밍의 우글우글 준비를 도왔다. 내일 다시 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>의 우글우글을 돕자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11882] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"모로크의 피라미드에서 척박한 환경의 거미줄을 공부하고 싶다고 유학 중인 <NAVI>[형제]<INFO>moc_pryd01,179,53,0,101,0</INFO></NAVI>와 대화하자."}
+, Summary = "피라미드의 형제"}
+, 
+[11883] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"각지에 흩어져 있는 거밍의 형제들을 10마리정도 니플헤임으로 돌려보내고 니플헤임의 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "형제들을 니플헤임으로!"}
+, 
+[11884] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"거밍의 우글우글 준비를 도왔다. 내일 다시 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>의 우글우글을 돕자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11885] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"알데바란 시계탑에서 기계와 거미줄의 상관관계를 공부하고 싶다고 유학 중인 <NAVI>[형제]<INFO>c_tower1,169,223,0,101,0</INFO></NAVI>와 대화하자."}
+, Summary = "시계탑의 형제"}
+, 
+[11886] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"각지에 흩어져 있는 거밍의 형제들을 10마리정도 니플헤임으로 돌려보내고 니플헤임의 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "형제들을 니플헤임으로!"}
+, 
+[11887] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"거밍의 우글우글 준비를 도왔다. 내일 다시 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>의 우글우글을 돕자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11888] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"알베르타에서 짭짤한 바닷바람이 거미줄에 미치는 영향을 공부하고 싶다고 유학 중인 <NAVI>[형제]<INFO>alberta,148,186,0,101,0</INFO></NAVI>와 대화하자."}
+, Summary = "알베르타의 형제"}
+, 
+[11889] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"각지에 흩어져 있는 거밍의 형제들을 10마리정도 니플헤임으로 돌려보내고 니플헤임의 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "형제들을 니플헤임으로!"}
+, 
+[11890] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"거밍의 우글우글 준비를 도왔다. 내일 다시 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>의 우글우글을 돕자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11891] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"각지에 흩어져 있는 거밍의 형제들을 10마리정도 니플헤임으로 돌려보내고 거밍의 털도 10개정도 주워서 니플헤임의 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "형제와 털을 니플헤임으로"}
+, 
+[11892] = {Title = "잭과 수상한 형제들", IconName = "ico_ev.bmp", 
+Description = {"거밍의 우글우글 준비를 도왔다. 내일 다시 <NAVI>[거밍]<INFO>niflheim,151,226,0,101,0</INFO></NAVI>의 우글우글을 돕자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11893] = {Title = "수상한 책", IconName = "ico_vr.bmp", 
+Description = {"친구 마크를 찾고 있는 듀를 만났다. 프론테라 어딘가에 있는 <NAVI>[마크]<INFO>prontera,58,189,0,101,0</INFO></NAVI>를 찾아 보자."}
+, Summary = "마크 찾기"}
+, 
+[11894] = {Title = "수상한 책", IconName = "ico_vr.bmp", 
+Description = {"친구 마크를 찾고 있는 듀를 만났다. 프론테라 어딘가에 있는 <NAVI>[마크]<INFO>prontera,56,135,0,101,0</INFO></NAVI>를 찾아 보자."}
+, Summary = "마크 찾기"}
+, 
+[11895] = {Title = "수상한 책", IconName = "ico_vr.bmp", 
+Description = {"친구 마크를 찾고 있는 듀를 만났다. 프론테라 어딘가에 있는 <NAVI>[마크]<INFO>prontera,50,88,0,101,0</INFO></NAVI>를 찾아 보자."}
+, Summary = "마크 찾기"}
+, 
+[11896] = {Title = "수상한 책", IconName = "ico_vr.bmp", 
+Description = {"프론테라 동쪽 도서관에 반납해 달라고 부탁받은 <NAVI>[책]<INFO>prontera,51,94,0,101,0</INFO></NAVI>을 확인해 보자."}
+, Summary = "책 확인"}
+, 
+[11897] = {Title = "수상한 책", IconName = "ico_vr.bmp", 
+Description = {"프론테라 동쪽 도서관에 반납해 달라고 부탁받은 <NAVI>[책]<INFO>prontera,51,94,0,101,0</INFO></NAVI>을 다시 확인해 보자."}
+, Summary = "책 확인"}
+, 
+[11898] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"수상한 지하도에 떨어졌다. 출구를 찾아보자."}
+, Summary = "아래로 이동"}
+, 
+[11899] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"소시지 용사는 소시지 공주님을 찾고 있다고 한다. 공주님에 대한 정보를 얻기 위해 하수도에 사는 생물에게 정보를 얻자."}
+, Summary = "레드와 대화"}
+, 
+[11900] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"소시지 공주를 납치한 악당은 하수도를 따라 도망쳤다고 한다. 동쪽 길을 따라 이동하자."}
+, Summary = "소시지 용사와 대화"}
+, 
+[11901] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"벌레가 길을 막고 있어서 더 이상 앞으로 갈 수가 없다. 하수아르지오프를 처치하고 길 끝에 있는 바이올렛을 붙잡자."}
+, Summary = "하수아르지오프 처치"}
+, 
+[11902] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"바이올렛은 말을 걸자마자 도망쳐 버렸다. 다시 길을 따라 이동하자."}
+, Summary = "소시지 용사와 대화"}
+, 
+[11903] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"바이올렛을 또 놓쳐버렸다. 다시 길을 따라 이동하자."}
+, Summary = "길을 따라 이동"}
+, 
+[11904] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"하수앰버나이트가 나타났다! 하수앰버나이트를 처치하고 바이올렛을 쫓아가자."}
+, Summary = "하수앰버나이트 처치"}
+, 
+[11905] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"바이올렛을 또 놓쳐버렸다. 다시 길을 따라 이동하자."}
+, Summary = "길을 따라 이동"}
+, 
+[11906] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"길을 이동하자마자 하수아크라우스가 나타났다. 하수아크라우스를 처치하고 다시 이동하자."}
+, Summary = "하수아크라우스 처치"}
+, 
+[11907] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"소시지 용사의 이야기를 들었다. 다음 지역으로 이동해서 다시 소시지 용사와 대화하자."}
+, Summary = "소시지 용사와 대화"}
+, 
+[11908] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"소시지 용사의 과거 이야기를 들었디. 그다지 중요한 이야기는 아니었던 것 같으니 다시 이동하자."}
+, Summary = "길을 따라 이동"}
+, 
+[11909] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"길을 이동하던 중 하수풍뎅이와 마주쳤다. 하수풍뎅이를 처치하고 다시 이동하자."}
+, Summary = "하수풍뎅이 처치"}
+, 
+[11910] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"바이올렛을 또 놓쳐버렸다. 다시 길을 따라 이동하자."}
+, Summary = "길을 따라 이동"}
+, 
+[11911] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"바이올렛을 발견했다! 바이올렛과 대화하자."}
+, Summary = "바이올렛과 대화"}
+, 
+[11912] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"바이올렛은 의외로 순순히 소시지 공주를 돌려줬지만 그 틈을 노린 레드가 소시지 공주를 데리고 달아나 버렸다. 레드를 쫓아가자."}
+, Summary = "레드와 대화"}
+, 
+[11913] = {Title = "라바-두근두근 소시지 용사의 모험", IconName = "ico_vr.bmp", 
+Description = {"소시지 공주를 되찾기 위해 레드와 다투던 중 공주가 하수구 끝으로 날아가 버렸다. 하수구 끝에 살고 있는 하수꽃을 처치하고 소시지 공주를 구출하자."}
+, Summary = "하수꽃 처치"}
+, 
+[11914] = {Title = "라바-두근두근 소시지 용사의 모험-대기", IconName = "ico_vr.bmp", 
+Description = {"소시지 공주를 탈환한 것 같다. 아마도…? <NAVI>[라바-두근두근 소시지 용사의 모험]<INFO>prt_elib,41,68,0,101,0</INFO></NAVI>을 다시 읽고 싶다면 04시 이후에 다시 찾아오자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11915] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"말랑도 문어축제 올해의 초대 손님인 설기님이 사라졌다. <NAVI>[주변의 사람]<INFO>malangdo,159,125,0,101,0</INFO></NAVI>에게 설기님의 행방을 물어보자."}
+, Summary = "설기님 찾기"}
+, 
+[11916] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"말랑도 문어축제를 구경 온 고동은 설기님을 보지 못했다고 한다. <NAVI>[다른 사람]<INFO>malangdo,189,136,0,101,0</INFO></NAVI>에게 설기님의 행방을 물어보자."}
+, Summary = "설기님 찾기"}
+, 
+[11917] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"말랑도 문어 축제를 구경온 자칼은 설기님을 보지못했다고 한다. <NAVI>[축제 구경온 꼬마]<INFO>malangdo,208,126,0,101,0</INFO></NAVI>에게 설기님에 대해서 물어보자."}
+, Summary = "설기님 찾기"}
+, 
+[11918] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"말랑도 문어축제를 구경 온 미야에게서 <NAVI>[설기님과 함께 있던 사람]<INFO>malangdo,229,134,0,101,0</INFO></NAVI>에 대한 정보를 얻었다."}
+, Summary = "설기님 찾기"}
+, 
+[11919] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"말랑도 문어축제에 방문한 설기님의 보좌관 흑임자는 설기님이 사라졌다는 이야기를 듣고 <NAVI>[해변]<INFO>malangdo,210,106,0,101,0</INFO></NAVI>을 조사해 달라고 부탁했다."}
+, Summary = "해변 확인"}
+, 
+[11920] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"말랑도 문어축제 손님들을 태우는 뱃사공은 설기님을 페이욘에 갈 수 있도록 태워줬다고 한다. <NAVI>[달의 사자, 흑임자]<INFO>malangdo,229,134,0,101,0</INFO></NAVI>에게 알려주자."}
+, Summary = "흑임자와 대화"}
+, 
+[11921] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"설기님이 페이욘으로 갔다는 이야기를 들은 흑임자는 페이욘으로 안내를 부탁한다. 페이욘에서 <NAVI>[떡을 알 것 같은 사람]<INFO>payon,220,112,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "페이욘으로"}
+, 
+[11922] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"설기님을 위한 떡국을 끓이기 위해 재료가 필요하다. [나들이 문어의 다리 10], [쫄깃한 떡 10], [페코페코의 알 2]를 처치하고 [싱싱한 문어다리 10개], [쫄깃한 가래떡 5개], [직화 문어구이 1개]를 수집해서 페이욘의 <NAVI>[휼]<INFO>payon,220,112,0,101,0</INFO></NAVI>에게 돌아오자."}
+, Summary = "떡국 재료 수집"}
+, 
+[11923] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"더 맛있는 떡국을 만들기 위해 재료가 필요하다. 전 지역에 흩어진 쌀가루를 10개(처치) 가지고 페이욘의 <NAVI>[휼]<INFO>payon,220,112,0,101,0</INFO></NAVI>에게 돌아오자."}
+, Summary = "쌀가루 처치?"}
+, 
+[11924] = {Title = "모두가 행복해지는 떡", IconName = "ico_ev.bmp", 
+Description = {"설기님의 외출이 끝났다. 다시 <NAVI>[말랑도]<INFO>malangdo,161,139,0,101,0</INFO></NAVI>로 돌아가자."}
+, Summary = "문어축제 진행요원에게"}
+, 
+[11925] = {Title = "찰진 반죽 만들기 -대기", IconName = "ico_ev.bmp", 
+Description = {"찰진 반죽을 만들었다. 찰진 반죽은 하루에 하나만 만들 수 있으니 내일 다시 시도하자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11926] = {Title = "찰진 반죽 만들기", IconName = "ico_ev.bmp", 
+Description = {"전 지역에 흩어진 쌀가루를 10개(처치) 가지고 말랑도의 <NAVI>[설기HG]<INFO>malangdo,165,141,0,101,0</INFO></NAVI>에게 돌아오자."}
+, Summary = "쌀가루 처치?"}
+, 
+[11927] = {Title = "설기의 떡국 만들기", IconName = "ico_ev.bmp", 
+Description = {"설기의 떡국을 끓이기 위해 재료가 필요하다. [나들이 문어의 다리 10], [쫄깃한 떡 10], [페코페코의 알 2]를 처치하고 [싱싱한 문어다리 10개], [쫄깃한 가래떡 5개], [직화 문어구이 1개], [찰진 반죽 3개]를 수집해서 말랑도의 <NAVI>[설기HG]<INFO>malangdo,165,141,0,101,0</INFO></NAVI>에게 돌아오자."}
+, Summary = "떡국 재료 수집"}
+, 
 [12000] = {Title = "친구:불협화음", 
 Description = {"마쿠의 또다른 친구를 찾아 그와 이야기를 나누어야 합니다."}
 , Summary = "마쿠의 또다른 친구 만나기"}
@@ -21950,6 +22158,30 @@ Description = {"근원의 처단 임무는 하루에 1번만 받을 수 있습니다."}
 [12581] = {Title = "차원 멀미", IconName = "ico_ev.bmp", 
 Description = {"차원의 균열을 통과했던 부작용이 닥쳐왔습니다. 멀미가 가라앉기 전까진 균열 출입을 삼가하는게 좋겠습니다."}
 , Summary = "1시간 동안 멀미 지속", CoolTimeQuest = 1}
+, 
+[12582] = {Title = "나 혼자 아카데미 순혈인간", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'나 혼자 아카데미 순혈인간\' 첫 체험 중!"}
+, Summary = "VR 체험"}
+, 
+[12583] = {Title = "나 혼자 아카데미 순혈인간 (금서판)", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'나 혼자 아카데미 순혈인간(금서판)\' 첫 체험 중!"}
+, Summary = "VR 체험"}
+, 
+[12584] = {Title = "나 혼자 아카데미 순혈인간 - 대기", IconName = "ico_vr.bmp", 
+Description = {"새벽이 지나면 <NAVI>[환상총서-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'나 혼자 아카데미 순혈인간\' 재독이 가능하오니 다시 찾아주십시오."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[12585] = {Title = "나 혼자 아카데미 순혈인간", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'나 혼자 아카데미 순혈인간\' 체험 중!"}
+, Summary = "VR 체험"}
+, 
+[12586] = {Title = "나 혼자 아카데미 순혈인간 (금서판)", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'나 혼자 아카데미 순혈인간(금서판)\' 체험 중!"}
+, Summary = "VR 체험"}
+, 
+[12587] = {Title = "나 혼자 아카데미 순혈인간 금서의 제약", IconName = "ico_vr.bmp", 
+Description = {"금서를 읽고 제약에 걸리고 말았습니다. 일주일이 지나야 <NAVI>[환상총서-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'나 혼자 아카데미 순혈인간(금서판)\' 메뉴가 등장하며, 체험이 가능해집니다. "}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [13000] = {Title = "RWC2011카드 구하기", 
 Description = {"파란카드를 모아서 RWC2011를 완성하자"}
@@ -30647,6 +30879,18 @@ Description = {"<NAVI>[환상총서-001]<INFO>prt_elib,54,61,0,101,0</INFO></NAVI> \
 Description = {"새벽이 지나면 <NAVI>[환상총서-001]<INFO>prt_elib,51,61,0,101,0</INFO></NAVI> \'금수저 영애님은 조용히 살고싶다\' 재독이 가능하오니 다시 찾아주십시오."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[17666] = {Title = "나와 나", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> \'나와 나\' 체험 중!"}
+, Summary = "VR 체험"}
+, 
+[17667] = {Title = "나와 나", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> \'나와 나\' 체험 중!"}
+, Summary = "VR 체험"}
+, 
+[17668] = {Title = "나와 나 - 대기", IconName = "ico_vr.bmp", 
+Description = {"새벽이 지나면 <NAVI>[환상총서-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> \'나와 나\' 재독이 가능하오니 다시 찾아주십시오."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
 [17669] = {Title = "훈장 수여 완료", IconName = "ico_ev.bmp", 
 Description = {"국왕으로부터 멋진 훈장을 받았습니다."}
 , Summary = "훈장 수여 완료"}
@@ -31538,6 +31782,54 @@ Description = {"250레벨 달성, 프리미엄 특전을 수령했습니다."}
 [18205] = {Title = "미션1-EDDA 낮에 나온 반달(하드)", IconName = "ico_nq.bmp", 
 Description = {"EDDA 시리즈 메모리얼, 낮에 나온 반달 (하드)에 도전해 봅시다. 완료 보고는 부스터 콜을 사용해 라임에게 해주세요.\n\t\t<TIPBOX>▶MD EDDA 낮에 나온 반달 (80)<INFO>7138</INFO></TIPBOX>"}
 , Summary = "크툴라낙스의 환영 처치"}
+, 
+[18206] = {Title = "마력이 뒤틀린 평원 정보 입수", IconName = "ico_nq.bmp", 
+Description = {"마력이 뒤틀린 평원에 대한 정보를 입수했다."}
+, Summary = ""}
+, 
+[18207] = {Title = "가벼운 일일 정화 작업", IconName = "ico_dq.bmp", 
+Description = {"마력이 뒤틀린 평원에서 오염된 몬스터를 처리하기로 했다. 계약한 수량은 100마리 이상. 마력이 뒤틀린 평원은 라헬 오즈 협곡의 <NAVI>[신관 파노]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>를 통해 이동할 수 있다."}
+, Summary = "마력이 뒤틀린 평원 몬스터 처치", NpcSpr = "4_F_TRAINEE", NpcNavi = "ra_fild10", NpcPosX = 352, NpcPosY = 341}
+, 
+[18208] = {Title = "착실한 일일 정화 작업", IconName = "ico_dq.bmp", 
+Description = {"마력이 뒤틀린 평원에서 오염된 몬스터를 처리하기로 했다. 계약한 수량은 500마리 이상. 마력이 뒤틀린 평원은 라헬 오즈 협곡의 <NAVI>[신관 파노]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>를 통해 이동할 수 있다."}
+, Summary = "마력이 뒤틀린 평원 몬스터 처치", NpcSpr = "4_F_TRAINEE", NpcNavi = "ra_fild10", NpcPosX = 352, NpcPosY = 341}
+, 
+[18209] = {Title = "일일 정화 작업 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 라헬 오즈 협곡의 <NAVI>[신관 파노]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_F_TRAINEE", NpcNavi = "ra_fild10", NpcPosX = 352, NpcPosY = 341}
+, 
+[18210] = {Title = "집중! 주간 정화 작업", IconName = "ico_nq.bmp", 
+Description = {"마력이 뒤틀린 평원에서 오염된 몬스터를 처리하기로 했다. 계약한 수량은 5000마리 이상. 마력이 뒤틀린 평원은 라헬 오즈 협곡의 <NAVI>[신관 파노]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>를 통해 이동할 수 있다."}
+, Summary = "마력이 뒤틀린 평원 몬스터 처치", NpcSpr = "4_F_TRAINEE", NpcNavi = "ra_fild10", NpcPosX = 352, NpcPosY = 341}
+, 
+[18211] = {Title = "주간 정화 작업 대기", IconName = "ico_nq.bmp", 
+Description = {"해당 퀘스트는 주간 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 라헬 오즈 협곡의 <NAVI>[신관 파노]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "토요일 04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_F_TRAINEE", NpcNavi = "ra_fild10", NpcPosX = 352, NpcPosY = 341}
+, 
+[18212] = {Title = "묘르닐 지하동굴 정보입수", IconName = "ico_nq.bmp", 
+Description = {"묘르닐 지하동굴에 대한 정보를 입수했다."}
+, Summary = ""}
+, 
+[18213] = {Title = "일일 몬스터 퇴치 작전 100마리!", IconName = "ico_dq.bmp", 
+Description = {"언제 몬스터의 범람이 일어날지 모르는 묘르닐 지하 동굴의 몬스터를 처리하기로 했다. 개체 조절 수량은 100마리 이상. 아인브로크 남쪽 필드에서 <NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>을 통해 작전지로 이동할 수 있다."}
+, Summary = "묘르닐 지하동굴 몬스터 처치"}
+, 
+[18214] = {Title = "일일 몬스터 퇴치 작전 500마리!", IconName = "ico_dq.bmp", 
+Description = {"언제 몬스터의 범람이 일어날지 모르는 묘르닐 지하 동굴의 몬스터를 처리하기로 했다. 개체 조절 수량은 500마리 이상. 아인브로크 남쪽 필드에서 <NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>을 통해 작전지로 이동할 수 있다."}
+, Summary = "묘르닐 지하동굴 몬스터 처치"}
+, 
+[18215] = {Title = "일일 몬스터 퇴치 작전 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크 남쪽 필드에서 <NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[18216] = {Title = "대규모 몬스터 퇴치 작전", IconName = "ico_nq.bmp", 
+Description = {"언제 몬스터의 범람이 일어날지 모르는 묘르닐 지하 동굴의 몬스터를 처리하기로 했다. 주중에 처리해야 하는 몬스터는 수량은 5000마리 이상. 아인브로크 남쪽 필드에서 <NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>을 통해 작전지로 이동할 수 있다."}
+, Summary = "묘르닐 지하동굴 몬스터 처치"}
+, 
+[18217] = {Title = "대규모 몬스터 퇴치 대기", IconName = "ico_nq.bmp", 
+Description = {"해당 퀘스트는 주간 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크 남쪽 필드에서 <NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "토요일 04시 초기화", CoolTimeQuest = 1}
 , 
 [19000] = {Title = "꽃이 피어난 대지", IconName = "ico_dq.bmp", 
 Description = {"낙원단 독점 의뢰입니다.", "<NAVI>[꽃이 피어난 대지]<INFO>ecl_fild01,182,93,0,101,0</INFO></NAVI>지역의 몬스터를 처치 후 상급의뢰 게시판에 보고해주세요.", "^FF0000※해당 지역에 입장하기 위한 조건이 있을 수 있습니다.^000000"}
@@ -32783,7 +33075,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"오늘도 <NAVI>[지상쁘띠]<INFO>gef_fild06,218,20,0,101,0</INFO></NAVI>에게 다가가 인사를 건네 보자. 마주 인사하는 쁘띠가 있다면 데려오되, 공격한다면 맞서 싸운다!"}
 , Summary = "지상쁘띠 10마리 처치"}
 , 
-[21120] = {Title = "친구를 구출하라", IconName = "ico_dq.bmp", 
+[21120] = {Title = "친구를 구출하라", 
 Description = {"케일이 꾐에 빠져 위험한 난파선에 들어가 버렸다. <NAVI>[난파선]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>에 가서 케일을 구출하고, 위험에 빠지지 않도록 파이어럿 스켈 10마리를 처치하자."}
 , Summary = "파이어럿 스켈 10마리 처치"}
 , 
@@ -32803,7 +33095,7 @@ Description = {"걱정해주는 것은 좋지만 지나친 걱정은 독이다. 아무튼 부두의 <NAVI
 Description = {"이대로 티모시와 케일이 <NAVI>[존다 기획사 홍보자]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI>에게 가게 놔뒀다가는 주먹다짐이라도 일어날 것 같다. 차라리 직접 가서 만나보자."}
 , Summary = "존다 기획사 홍보자 멀버리에게 이동"}
 , 
-[21125] = {Title = "쿠크레 간 내먹기", IconName = "ico_dq.bmp", 
+[21125] = {Title = "쿠크레 간 내먹기", 
 Description = {"<NAVI>[난파선]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>에 남아있는 보물을 쿠크레가 먹어치웠을지도 모른다. 쿠크레를 열 마리 잡아 직접 확인해보자."}
 , Summary = "쿠크레 10마리 처치"}
 , 
@@ -32815,7 +33107,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"오늘도 혹시나 <NAVI>[난파선]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>의 쿠크레가 먹어치웠을 보물을 찾기 위해 우리는 쿠크레를 잡는다."}
 , Summary = "쿠크레 10마리 처치"}
 , 
-[21128] = {Title = "없으면 만드는 경제논리", IconName = "ico_dq.bmp", 
+[21128] = {Title = "없으면 만드는 경제논리", 
 Description = {"난파선을 찾는 사람들에게 동기를 부여하기 위해, <NAVI>[난파선]<INFO>treasure01,69,24,0,101,0</INFO></NAVI> 안에 직접 보물을 숨겨놓기로 했다. 보물이라기엔 하찮지만 없는 것보다 낫겠지."}
 , Summary = "오래된 동전 10개 난파선에 숨기기"}
 , 
@@ -34556,7 +34848,7 @@ Description = {"<NAVI>[노그로드 용암 던전]<INFO>mag_dun01,126,73,0,101,0</INFO><
 , Summary = "굳어버린 용암 10개"}
 , 
 [21638] = {Title = "어비스 호수의 붉은 용", 
-Description = {"나하단의 부탁을 받았다. <NAVI>[어비스 호수]<INFO>hu_fild04,186,78,0,101,0</INFO></NAVI>로 가서 빨간 페러스를 30마리 잡아 오자."}
+Description = {"나하단의 부탁을 받았다. <NAVI>[어비스 호수]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>로 가서 빨간 페러스를 30마리 잡아 오자."}
 , Summary = "빨강 페러스 30마리"}
 , 
 [21639] = {Title = "여행객 구출", 
@@ -34564,7 +34856,7 @@ Description = {"나하단이 부상 당한 여행객을 구출했다. 무언가 도와야 할 지 모르니
 , Summary = "휘겔 귀환"}
 , 
 [21640] = {Title = "호수의 용", IconName = "ico_dq.bmp", 
-Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,347,130,0,101,0</INFO></NAVI>에서 빨강, 녹색 페러스를 각각 30마리씩 사냥하자."}
+Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>에서 빨강, 녹색 페러스를 각각 30마리씩 사냥하자."}
 , Summary = "빨강, 녹색 페러스 각각 30마리"}
 , 
 [21641] = {Title = "호수의 용-대기", IconName = "ico_dq.bmp", 
@@ -34572,11 +34864,11 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [21642] = {Title = "다시 호수의 용", IconName = "ico_dq.bmp", 
-Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,347,130,0,101,0</INFO></NAVI>에서 빨강, 녹색 페러스를 각각 30마리씩 사냥하자."}
+Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>에서 빨강, 녹색 페러스를 각각 30마리씩 사냥하자."}
 , Summary = "빨강, 녹색 페러스 각각 30마리"}
 , 
 [21643] = {Title = "호수의 비룡", IconName = "ico_dq.bmp", 
-Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,347,130,0,101,0</INFO></NAVI>에서 노랑, 파랑 어시더스를 각각 30마리씩 사냥하자."}
+Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>에서 노랑, 파랑 어시더스를 각각 30마리씩 사냥하자."}
 , Summary = "노랑, 파랑 어시더스 각각 30마리"}
 , 
 [21644] = {Title = "호수의 비룡-대기", IconName = "ico_dq.bmp", 
@@ -34584,11 +34876,11 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [21645] = {Title = "다시 호수의 비룡", IconName = "ico_dq.bmp", 
-Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,347,130,0,101,0</INFO></NAVI>에서 노랑, 파랑 어시더스를 각각 30마리씩 사냥하자."}
+Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>에서 노랑, 파랑 어시더스를 각각 30마리씩 사냥하자."}
 , Summary = "노랑, 파랑 어시더스 각각 30마리"}
 , 
 [21646] = {Title = "호수의 삼두룡", IconName = "ico_dq.bmp", 
-Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,347,130,0,101,0</INFO></NAVI> 지역 깊은 곳의 하이드로랜서를 1마리 사냥하자."}
+Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI> 지역 깊은 곳의 하이드로랜서를 1마리 사냥하자."}
 , Summary = "하이드로랜서 1마리"}
 , 
 [21647] = {Title = "호수의 삼두룡-대기", IconName = "ico_dq.bmp", 
@@ -34596,7 +34888,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [21648] = {Title = "다시 호수의 삼두룡", IconName = "ico_dq.bmp", 
-Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,347,130,0,101,0</INFO></NAVI> 지역 깊은 곳의 하이드로랜서를 1마리 사냥하자."}
+Description = {"여행객들의 안전을 위해 <NAVI>[어비스 호수]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI> 지역 깊은 곳의 하이드로랜서를 1마리 사냥하자."}
 , Summary = "하이드로랜서 1마리"}
 , 
 [21649] = {Title = "타나토스 타워로", 
@@ -35734,5 +36026,269 @@ Description = {"필드에 있는 케이크 포링을 처치하면 생크림을 얻을 수 있다. 프론테
 [23019] = {Title = "스위츠는 나의 힘-대기", IconName = "ico_ev.bmp", 
 Description = {"밀푀유가 말했다. 내일은 내일의 생크림이 필요하다. 오전 4시가 지난 후에 다시 프론테라에 있는 <NAVI>[밀푀유]<INFO>prontera,179,126,0,101,0</INFO></NAVI>를 찾아가 보자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[23020] = {Title = "크리투라 업무편람", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> \'대면업무 종사자를 위한 지침서: 크리투라 업무편람\'을 통해 학원 업무에 대한 지침을 몸과 정신에 새겨 봅시다."}
+, Summary = "VR 체험"}
+, 
+[23021] = {Title = "크리투라 업무편람", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[환상총서-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> \'대면업무 종사자를 위한 지침서: 크리투라 업무편람\'을 통해 학원 업무에 대한 지침을 몸과 정신에 새겨 봅시다."}
+, Summary = "VR 체험"}
+, 
+[23022] = {Title = "크리투라 업무편람 - 대기", IconName = "ico_vr.bmp", 
+Description = {"보다 많은 사용자의 체험을 보장하기 위해 <NAVI>[환상총서-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> \'대면업무 종사자를 위한 지침서: 크리투라 업무편람\'의 체험은 1일 1회로 제한하고 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[23023] = {Title = "신규 근무자 등록 절차", IconName = "ico_vr.bmp", 
+Description = {"무사히 환상총서: 대면업무 종사자를 위한 지침서 - 크리투라 업무편람에 입장했다. 마중을 나온 말브론과 대화를 나눠보자."}
+, Summary = "말브론과 대화"}
+, 
+[23024] = {Title = "신규 근무자 등록 절차", IconName = "ico_vr.bmp", 
+Description = {"말브론은 스프라키에게 말을 걸어 신규 근무자 등록을 진행하라고 말한다. 학원 1층 카운터의 스프라키와 대화를 나눠보자."}
+, Summary = "스프라키와 대화"}
+, 
+[23025] = {Title = "신규 근무자 등록 절차", IconName = "ico_vr.bmp", 
+Description = {"신규 근무자 등록을 마쳤다. 말브론에게 등록이 완료됐다고 알리자."}
+, Summary = "말브론과 대화"}
+, 
+[23026] = {Title = "신규 근무자 등록 절차", IconName = "ico_vr.bmp", 
+Description = {"학원 2층의 궁수 강의실에서 본격적인 업무를 배워보자."}
+, Summary = "궁수 강의실로"}
+, 
+[23027] = {Title = "상시 업무 및 기간별 업무", IconName = "ico_vr.bmp", 
+Description = {"준비가 되면 말브론에게 말을 걸어, 학원 업무의 기초를 배우자."}
+, Summary = "말브론과 대화"}
+, 
+[23028] = {Title = "상시 업무 및 기간별 업무", IconName = "ico_vr.bmp", 
+Description = {"학원 업무의 기초를 배웠다. 준비가 되면 말브론에게 실전을 경험하겠다고 말하자."}
+, Summary = "말브론과 대화"}
+, 
+[23029] = {Title = "상시 업무 및 기간별 업무", IconName = "ico_vr.bmp", 
+Description = {"궁수 강의실에 널려 있는 공문들을 모두 정리한 후 말브론에게 보고하자."}
+, Summary = "공문 처리"}
+, 
+[23030] = {Title = "공문 처리 1", IconName = "ico_vr.bmp", 
+Description = {"궁수 강의실 책상 위에 있는 공문을 처리하자."}
+, Summary = ""}
+, 
+[23031] = {Title = "공문 처리 2", IconName = "ico_vr.bmp", 
+Description = {"궁수 강의실 책상 위에 있는 공문을 처리하자."}
+, Summary = ""}
+, 
+[23032] = {Title = "공문 처리 3", IconName = "ico_vr.bmp", 
+Description = {"궁수 강의실 책상 위에 있는 공문을 처리하자."}
+, Summary = ""}
+, 
+[23033] = {Title = "공문 처리 4", IconName = "ico_vr.bmp", 
+Description = {"궁수 강의실 책상 위에 있는 공문을 처리하자."}
+, Summary = ""}
+, 
+[23034] = {Title = "공문 처리 5", IconName = "ico_vr.bmp", 
+Description = {"궁수 강의실 책상 위에 있는 공문을 처리하자."}
+, Summary = ""}
+, 
+[23035] = {Title = "공문 처리 6", IconName = "ico_vr.bmp", 
+Description = {"궁수 강의실 책상 위에 있는 공문을 처리하자."}
+, Summary = ""}
+, 
+[23036] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"조금 쉰 후 말브론에게 말을 걸어 교육을 계속 받자."}
+, Summary = "말브론과 대화"}
+, 
+[23037] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"크리투라 학원 1층에서 말브론을 만나자."}
+, Summary = "1층의 말브론과 대화"}
+, 
+[23038] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"말브론을 따라 학원 1층 남서쪽에 위치한 치료실로 가자."}
+, Summary = "치료실로"}
+, 
+[23039] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"치료실에는 치료사가 있다. 교직원이라면 치료실에서 복지 혜택을 누릴 수 있다고 한다. 치료사에게 인사를 건네자."}
+, Summary = "치료사와 인사"}
+, 
+[23040] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"말브론을 따라 학원 1층 북서쪽에 위치한 병참실로 가자."}
+, Summary = "병참실로"}
+, 
+[23041] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"병참실에는 전투 교관 스비노가 있다. 학원에서 일하다 보면 협력할 일이 많을 것이라고 한다. 전투 교관 스비노에게 인사를 건네자."}
+, Summary = "전투 교관 스비노와 인사"}
+, 
+[23042] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"말브론을 따라 학원 1층 북쪽에 위치한 대강의실로 가자"}
+, Summary = "대강의실로"}
+, 
+[23043] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"말브론을 따라 학원 1층 북동쪽에 위치한 도서실로 가자."}
+, Summary = "도서실로"}
+, 
+[23044] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"말브론을 따라 학원 1층 남동쪽에 위치한 식당으로 가자."}
+, Summary = "식당으로"}
+, 
+[23045] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"식당에는 다쿠와즈가 있다. 말브론이 말하기를, 직장인에게 가장 중요한 것은 식사라고 한다... 다쿠와즈에게 인사를 건네자."}
+, Summary = "다쿠와즈와 인사"}
+, 
+[23046] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"1층 시설과 관계자 안내는 끝난 것 같다. 다시 2층으로 올라갈까?"}
+, Summary = "2층으로 올라갈까?"}
+, 
+[23047] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"스프라키가 부르고 있다. 1층 카운터의 스프라키에게 가 보자."}
+, Summary = "스프라키와 대화"}
+, 
+[23048] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"2층 궁수 강의실로 돌아간 말브론에게 스프라키에게 제출할 서류를 빠뜨렸다고 알려주자."}
+, Summary = "말브론과 대화"}
+, 
+[23049] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"말브론을 도와 강의실 뒤쪽에서 근로장학생 근무일지를 찾아보자."}
+, Summary = "근무일지 찾기"}
+, 
+[23050] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"근무일지를 찾았다. 말브론에게 가져다 주자."}
+, Summary = "말브론과 대화"}
+, 
+[23051] = {Title = "학원 시설 및 협력 직원 안내", IconName = "ico_vr.bmp", 
+Description = {"2층에서 조금 쉬자. 말브론이 강의실에 있는 과자를 먹어도 괜찮다고 했다."}
+, Summary = "과자 먹기"}
+, 
+[23052] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인이 찾아왔다. 말브론이 민원을 어떻게 처리하는지 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23053] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인이 찾아왔다. 말브론이 민원을 어떻게 처리하는지 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23054] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인이 찾아왔다. 말브론이 민원을 어떻게 처리하는지 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23055] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인이 찾아왔다. 말브론이 민원을 어떻게 처리하는지 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23056] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"미카엘라가 찾아왔다. 말브론과 미카엘라가 무슨 대화를 하는지 들어보자."}
+, Summary = "말브론과 미카엘라의 대화 듣기"}
+, 
+[23057] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인이 찾아왔다. 말브론이 민원을 어떻게 처리하는지 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23058] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인이 찾아왔다. 말브론이 민원을 어떻게 처리하는지 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23059] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인이 찾아왔다. 말브론이 민원을 어떻게 처리하는지 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23060] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"교수가 찾아왔다. 말브론과 교수가 무슨 대화를 하는지 들어보자."}
+, Summary = "말브론과 교수의 대화 듣기"}
+, 
+[23061] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인이 찾아왔다. 말브론이 민원을 어떻게 처리하는지 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23062] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"말브론은 강의실 뒤쪽 교탁에서 궁수 강의 커리큘럼을 찾아달라고 했다."}
+, Summary = "교탁에서 커리큘럼 찾기"}
+, 
+[23063] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원묘는 이미 말브론에게 감정이 많이 상한 것 같다. 말브론 대신 민원묘와 대화를 해 보자."}
+, Summary = "민원묘와 대화"}
+, 
+[23064] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"진상 민원인에게는 매가 약! 민원묘를 흠씬 두들겨 패 주자."}
+, Summary = "민원묘 처치"}
+, 
+[23065] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"말브론은 바깥쪽에 붙일 외부인 출입금지 안내문을 만들어 달라고 했다. 교실 뒤쪽 교탁에서 안내문을 만들어 보자."}
+, Summary = "안내문 만들기"}
+, 
+[23066] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"대화를 들어 보니 말브론이 해야 하는 일이 아닌 것을 하게 될 뻔한 것 같다. 말브론과 다시 대화해 보자."}
+, Summary = "말브론과 대화"}
+, 
+[23067] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"민원인과의 상담 중 말문이 막힌 말브론은 잠시 상담을 중단했다. 말브론과 대화해 보자."}
+, Summary = "말브론과 대화"}
+, 
+[23068] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"교수는 기한 지난 서류를 제출하라고 떠넘기고는 가버렸다. 이 위기를 어떻게 헤쳐나갈지 말브론과 대화해 보자."}
+, Summary = "말브론과 대화"}
+, 
+[23069] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"우여곡절 끝에 민원묘가 돌아갔다. 말브론과 대화해보자."}
+, Summary = "말브론과 대화"}
+, 
+[23070] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"외부인 출입금지 안내문을 완성했다. 말브론에게 가져가자."}
+, Summary = "말브론과 대화"}
+, 
+[23071] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"해야 하는 업무와 하지 않아도 되는 업무를 구분하는 것은 중요한 일이라고 한다. 교실 뒤편에 놓인 책의 5록. 별책부록에 도움이 될 내용이 있으니 확인해 보자."}
+, Summary = "교실 뒤편의 책 읽기"}
+, 
+[23072] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"스트레스 완화 젤리를 먹고 마음을 가다듬은 말브론은 상담을 재개한다. 말브론이 어떻게 대처하는지 민원인과의 상담을 지켜보자."}
+, Summary = "민원인과 말브론의 대화 듣기"}
+, 
+[23073] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"말브론은 기한이 지난 서류도 받아줄 수 있는 경우가 종종 있다며 스프라키를 찾아갔다. 일단 1층에 내려가보자."}
+, Summary = "1층으로 내려가 말브론과 대화"}
+, 
+[23074] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"궁수 강의 커리큘럼을 찾았다. 민원인에게 전달해 주자."}
+, Summary = "민원인에게 커리큘럼 전달"}
+, 
+[23075] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"말브론은 대면업무 종사자들이 민원인과 싸우는 대신 해야 하는 일을 알려준다며 1층으로 내려갔다. 1층으로 내려가보자."}
+, Summary = "1층으로 내려가 말브론과 대화"}
+, 
+[23076] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"크리투라 학원 조직도를 확인했다. 다시 말브론에게 돌아가자."}
+, Summary = "말브론과 대화"}
+, 
+[23077] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"우여곡절 끝에 민원인이 돌아갔다. 말브론과 다시 대화해 보자."}
+, Summary = "말브론과 대화"}
+, 
+[23078] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"조직도를 확인했다. 먼저 내려간 말브론을 따라 1층으로 가 보자."}
+, Summary = "1층으로 내려가 말브론과 대화"}
+, 
+[23079] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"다행히 스프라키가 서류를 받아줄 수 있다고 한다. 하지만 몇 가지는 고쳐야 한다는데... 무엇을 수정할지 스프라키에게 물어보자."}
+, Summary = "스프라키와 대화"}
+, 
+[23080] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"말브론의 말로는, 대면업무 종사자에게 작업을 거는 사람이 적잖게 있다고 한다. 어떻게 대처해야 할 지 알려주겠다는데...?"}
+, Summary = "말브론과 대화"}
+, 
+[23081] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"2층 강의실의 말브론에게 말을 걸어 체험을 마무리하자."}
+, Summary = "말브론과 대화"}
+, 
+[23082] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"1층의 말브론에게 말을 걸어 체험을 마무리하자."}
+, Summary = "말브론과 대화"}
+, 
+[23083] = {Title = "돌발상황 대처법", IconName = "ico_vr.bmp", 
+Description = {"1층의 말브론에게 말을 걸어 체험을 마무리하자."}
+, Summary = "말브론과 대화"}
+, 
+[23084] = {Title = "만족도 조사", IconName = "ico_vr.bmp", 
+Description = {"1층에 있는 스프라키에게 체험이 종료되었음을 알리자."}
+, Summary = "스프라키와 대화"}
+, 
+[23085] = {Title = "체험 마무리", IconName = "ico_vr.bmp", 
+Description = {"모든 체험을 종료했다. 잉크에게 말을 걸어 기념품을 받자."}
+, Summary = "잉크와 대화"}
 }
 

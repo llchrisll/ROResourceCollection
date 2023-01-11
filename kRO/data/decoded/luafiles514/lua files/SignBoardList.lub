@@ -40,6 +40,12 @@ SignBoardList = {
 , 
 {"ba_in01", 339, 56, 0, IT_SIGNBOARD, "item\\rl_banishing_buster.bmp", "  표본 환경 - 죽음", "#0x00FFFFFF"}
 , 
+{"ba_in01", 229, 302, 0, IT_SIGNBOARD, "item\\ab_eucharistica.bmp", "  표본 환경 - 성전", "#0x00FFFFFF"}
+, 
+{"ba_in01", 215, 302, 0, IT_SIGNBOARD, "item\\gc_researchnewpoison.bmp", "  표본 환경 - 맹독", "#0x00FFFFFF"}
+, 
+{"ba_in01", 201, 302, 0, IT_SIGNBOARD, "item\\pf_soulburn.bmp", "  표본 환경 - 영혼", "#0x00FFFFFF"}
+, 
 {"moc_para01", 105, 41, 10, IT_SIGNBOARD, "information\\over_nmtrade.bmp", "  파라마켓", "#0x00FFFFFF"}
 , 
 {"moc_para01", 110, 79, 10, IT_SIGNBOARD, "item\\C_Popping_Poring_Aura.bmp", "  기본 장비 지원", "#0x00FFFFFF"}

@@ -5676,6 +5676,190 @@ MonsterEff = {EFFECT.EF_NPC_GATE_PURPLE_S}
 [21814] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_NPC_GATE_RED_S}
 }
+, 
+[10527] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NPC_GATE_SKYBLUE}
+}
+, 
+[21906] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21907] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21905] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21897] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[21894] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21893] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21891] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21892] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21904] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE3}
+}
+, 
+[21890] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21900] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21903] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21901] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21899] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21895] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[21902] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21889] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RED_WAVE1}
+}
+, 
+[21898] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[21896] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[21920] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL}
+}
+, 
+[21921] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL}
+}
+, 
+[21922] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL}
+}
+, 
+[21923] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_NOTHING}
+}
+, 
+[21924] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL}
+}
+, 
+[21925] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_INSECT}
+}
+, 
+[21926] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL}
+}
+, 
+[21927] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL}
+}
+, 
+[21928] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL}
+}
+, 
+[21929] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL}
+}
+, 
+[21930] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL}
+}
+, 
+[21931] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL}
+}
+, 
+[21932] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_FISH}
+}
+, 
+[21933] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_PLANT}
+}
+, 
+[21934] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_INSECT}
+}
+, 
+[21935] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL}
+}
+, 
+[21936] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL}
+}
+, 
+[21937] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DEVIL}
+}
+, 
+[21938] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DEVIL}
+}
+, 
+[21939] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_NOTHING}
+}
+, 
+[21940] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_NOTHING}
+}
+, 
+[21941] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_NOTHING}
+}
+, 
+[21942] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_UNDEAD}
+}
+, 
+[21943] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_NOTHING}
+}
+, 
+[21950] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[21955] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
 }
 main = function()
   -- function num : 0_0

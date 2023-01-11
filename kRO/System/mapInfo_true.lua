@@ -4,6 +4,110 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["ra_pol01.rsw"] = {displayName = "마력이 뒤틀린 평원", notifyEnter = true, 
+signName = {mainTitle = "마력이 뒤틀린 평원"}
+, backgroundBmp = "field2_s2"}
+, 
+["mjo_wst01.rsw"] = {displayName = "묘르닐 지하 동굴", notifyEnter = true, 
+signName = {mainTitle = "묘르닐 지하 동굴"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@lvcb.rsw"] = {displayName = "축축한 하수도", notifyEnter = true, 
+signName = {subTitle = "환상총서-xxx", mainTitle = "축축한 하수도"}
+, backgroundBmp = "noname"}
+, 
+["bl_venom.rsw"] = {displayName = "바이오스피어 표본 환경-맹독", notifyEnter = true, 
+signName = {subTitle = "바르문트의 바이오스피어", mainTitle = "표본 환경 - 맹독"}
+, backgroundBmp = "dungeon"}
+, 
+["bl_temple.rsw"] = {displayName = "바이오스피어 표본 환경-성전", notifyEnter = true, 
+signName = {subTitle = "바르문트의 바이오스피어", mainTitle = "표본 환경 - 성전"}
+, backgroundBmp = "dungeon"}
+, 
+["bl_soul.rsw"] = {displayName = "바이오스피어 표본 환경-영혼", notifyEnter = true, 
+signName = {subTitle = "바르문트의 바이오스피어", mainTitle = "표본 환경 - 영혼"}
+, backgroundBmp = "dungeon"}
+, 
+["1@vrclo.rsw"] = {displayName = "환상총서-거울 수도원", notifyEnter = true, 
+signName = {subTitle = "환상총서-005", mainTitle = "거울 수도원"}
+, backgroundBmp = "noname"}
+, 
+["2@vrclo.rsw"] = {displayName = "환상총서-그 모든 순간들", notifyEnter = true, 
+signName = {subTitle = "환상총서-005", mainTitle = "그 모든 순간들"}
+, backgroundBmp = "noname"}
+, 
+["1@vrhha.rsw"] = {displayName = "환상총서-하트헌터 양성소", notifyEnter = true, 
+signName = {subTitle = "환상총서-008", mainTitle = "하트헌터 양성소"}
+, backgroundBmp = "noname"}
+, 
+["1@vrac1.rsw"] = {displayName = "환상총서-아카데미 1층", notifyEnter = true, 
+signName = {subTitle = "환상총서", mainTitle = "크리투라 아카데미 1층"}
+, backgroundBmp = "village"}
+, 
+["1@vrac2.rsw"] = {displayName = "환상총서-아카데미 2층", notifyEnter = true, 
+signName = {subTitle = "환상총서", mainTitle = "크리투라 아카데미 2층"}
+, backgroundBmp = "village"}
+, 
+["hero_lb.rsw"] = {displayName = "헤로스리아 시작의 정원", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "시작의 정원"}
+, backgroundBmp = "siege"}
+, 
+["hero_out1.rsw"] = {displayName = "헤로스리아 실바리움", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "실바리움"}
+, backgroundBmp = "siege"}
+, 
+["hero_out2.rsw"] = {displayName = "헤로스리아 라쿠사리움", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "라쿠사리움"}
+, backgroundBmp = "siege"}
+, 
+["hero_out3.rsw"] = {displayName = "헤로스리아 바스티타리움", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "바스티타리움"}
+, backgroundBmp = "siege"}
+, 
+["hero_out4.rsw"] = {displayName = "헤로스리아 라비나리움", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "라비나리움"}
+, backgroundBmp = "siege"}
+, 
+["hero_ent1.rsw"] = {displayName = "헤로스리아 제 1 영웅의 관문", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "제 1 영웅의 관문"}
+, backgroundBmp = "siege"}
+, 
+["hero_ent2.rsw"] = {displayName = "헤로스리아 제 2 영웅의 관문", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "제 2 영웅의 관문"}
+, backgroundBmp = "siege"}
+, 
+["hero_ent3.rsw"] = {displayName = "헤로스리아 제 3 영웅의 관문", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "제 3 영웅의 관문"}
+, backgroundBmp = "siege"}
+, 
+["hero_in1.rsw"] = {displayName = "헤로스리아 봄 정원", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "봄 정원"}
+, backgroundBmp = "siege"}
+, 
+["hero_in2.rsw"] = {displayName = "헤로스리아 여름 정원", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "여름 정원"}
+, backgroundBmp = "siege"}
+, 
+["hero_in3.rsw"] = {displayName = "헤로스리아 가을 정원", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "가을 정원"}
+, backgroundBmp = "siege"}
+, 
+["hero_in4.rsw"] = {displayName = "헤로스리아 겨울 정원", notifyEnter = true, 
+signName = {subTitle = "헤로스리아", mainTitle = "겨울 정원"}
+, backgroundBmp = "siege"}
+, 
+["herosria.rsw"] = {displayName = "성역 헤로스리아 보옥의 방", notifyEnter = true, 
+signName = {subTitle = "성역 헤로스리아", mainTitle = "보옥의 방"}
+, backgroundBmp = "siege"}
+, 
+["hero_dun1.rsw"] = {displayName = "성역 헤로스리아 PvP 던전", notifyEnter = true, 
+signName = {subTitle = "성역 헤로스리아", mainTitle = "PvP 던전"}
+, backgroundBmp = "dungeon"}
+, 
+["hero_tra.rsw"] = {displayName = "성역 헤로스리아 훈련장", notifyEnter = true, 
+signName = {subTitle = "성역 헤로스리아", mainTitle = "훈련장"}
+, backgroundBmp = "noname_s2"}
+, 
 ["vr_bob.rsw"] = {displayName = "환상총서-오늘의 밥상", notifyEnter = true, 
 signName = {subTitle = "환상총서-006", mainTitle = "오늘의 밥상"}
 , backgroundBmp = "noname"}

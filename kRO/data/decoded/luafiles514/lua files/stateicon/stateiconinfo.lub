@@ -7166,13 +7166,13 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"언리밋 효과 적용"}
+{"크레시브 볼트 데미지 증가"}
 , 
-{"일부 스킬 데미지 증가"}
+{"가일 스톰 크리티컬 데미지 적용"}
 , 
-{"가일 스톰 크리티컬 적용"}
+{"크레시브 볼트, 가일 스톰으로"}
 , 
-{"크레시브 볼트, 가일 스톰으로 동물, 어패형에게 주는 데미지 증가"}
+{"동물, 어패형 몬스터에게 주는 물리 데미지 증가"}
 }
 }
 -- DECOMPILER ERROR at PC14874: Confused about usage of register: R0 in 'UnsetPending'
@@ -8799,6 +8799,111 @@ descript = {
 {"지속성 마법 데미지 10% 증가"}
 , 
 {"화속성 마법 데미지 10% 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18302: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK005] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ASPD+ 3"}
+, 
+{"유도공격 확률 10% 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18329: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK008] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"인간형 적에게 주는 물리, 마법 데미지 7% 증가"}
+, 
+{"인간형 적에게 받는 데미지 7% 감소"}
+}
+}
+-- DECOMPILER ERROR at PC18353: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK009] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"주인공 버프", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"DEF +400, MDEF +100"}
+}
+}
+-- DECOMPILER ERROR at PC18377: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ALL_T_STAT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"헤로스리아 퍼플 허브잼", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"모든 특성 스테이터스 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18401: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_P_ATK_PLUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"헤로스리아 레드 허브잼", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"P.ATK 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18425: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_S_MATK_PLUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"헤로스리아 블루 허브잼", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"S.MATK 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18449: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_C_RATE_PLUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"헤로스리아 옐로우 허브잼", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"C.Rate 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18473: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RESIST_PLUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"헤로스리아 화이트 허브잼", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"RES 및 MRES 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18500: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_PVP_DUN_BUFF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"헤로스리아 성주의 가호", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"헤로스리아 던전 몬스터에게 주는"}
+, 
+{"물리 및 마법 데미지 증가"}
 }
 }
 

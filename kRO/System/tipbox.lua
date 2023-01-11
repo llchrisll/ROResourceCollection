@@ -250,10 +250,10 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"/결성 파티이름 또는 /organize 파티이름으로 파티를 만들 수 있습니다.\\n/탈퇴 또는 /leave로 파티를 탈퇴할 수 있습니다.", "파티를 결성하여 파티리더가 된 경우, 상대 캐릭터를 마우스 오른쪽 버튼으로 클릭하여 \'파티에 초대한다\' 메뉴를 선택하거나 /초대 캐릭터명으로 파티에 초대할 수 있습니다.\\n파티원을 제명하고 싶은 경우 /제명 캐릭터이름 또는 /expel 캐릭터이름으로 ^3b488c자신이 리더인 파티^000000의 파티원을 제명할 수 있습니다.\\n^ff0000※ (Y/N)를 묻지 않으므로, 신중하게 선택하셔야 합니다.^000000\n\t\t<TIPBOX>▶채팅: 파티<INFO>22</INFO></TIPBOX>\n\t\t<TIPBOX>▶모험가 중개소<INFO>70</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[30] = {Title = "길드 시스템", Search = 1, Image = "", 
+[30] = {Title = "길드 시스템#공성전,엠펠리움", Search = 1, Image = "유저인터페이스\\tipbox\\tip00030", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"/길드 길드이름으로 길드를 만들 수 있습니다. 길드를 만드는데에는 엠펠리움 1개가 소모됩니다.\\n자신이 소속한 길드의 정보는 ALT + G로 볼 수 있습니다.\\n^ff0000길드마스터는 길드를 해체할 수 있습니다. 길드마스터를 제외한 길드원이 없는 상태에서 /해체 길드를 입력하면 길드가 해체 됩니다.\\n※ (Y/N)를 묻지 않으므로, 신중하게 선택하셔야 합니다.^000000\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 직위<INFO>31</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 엠블렘<INFO>68</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"/길드 길드이름으로 길드를 만들 수 있습니다. 길드를 만드는데에는 엠펠리움 1개가 소모됩니다.\\n자신이 소속한 길드의 정보는 ALT + G로 볼 수 있습니다.\\n^ff0000길드마스터는 길드를 해체할 수 있습니다. 길드마스터를 제외한 길드원이 없는 상태에서 /해체 길드를 입력하면 길드가 해체 됩니다.\n\t\t※ (Y/N)를 묻지 않으므로, 신중하게 선택하셔야 합니다.\\n길드를 만들기 위한 재료인 \'엠펠리움\'은 몬스터에게서 얻거나, 길드사무소 직원에게서 구매할 수 있습니다.^000000\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 직위<INFO>31</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 엠블렘<INFO>68</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 공성전<INFO>116</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [31] = {Title = "길드: 직위", Search = 1, Image = "", 
@@ -301,7 +301,7 @@ Page = {"스킬바(F12)에 자주 사용하는 스킬 또는 아이템을 등록하여 해당 슬롯을 마�
 [44] = {Title = "단축키: 배틀모드", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"배틀모드는 채팅기능을 잠궈 스킬바에 등록된 단축키를 키보드에서 사용할 수 있게 해줍니다. /bm으로 On/Off 할 수 있습니다..\\n^ff0000배틀모드에서는 기본적으로 채팅기능이 잠겨있지만 엔터키를 눌러 채팅창을 활성화 시킬 수 있습니다.^000000\n\t\t<TIPBOX>▶게임옵션: 단축키<INFO>41</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"배틀모드는 채팅기능을 잠궈 스킬바에 등록된 단축키를 키보드에서 사용할 수 있게 해줍니다. /bm으로 On/Off 할 수 있습니다.\\n^ff0000배틀모드에서는 기본적으로 채팅기능이 잠겨있지만 엔터키를 눌러 채팅창을 활성화 시킬 수 있습니다.^000000\n\t\t<TIPBOX>▶게임옵션: 단축키<INFO>41</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [45] = {Title = "단축키: F1~F12", Search = 1, Image = "", 
@@ -673,7 +673,7 @@ Page = {"Activity Point(AP)는 200레벨 이후 상위직업으로 전직하면 추가되는 포인트
 [111] = {Title = "등급 강화#등급강화,무기,방어구,에텔스톤,에텔 스톤,에텔더스트,에텔 더스트", Search = 1, Image = "유저인터페이스\\tipbox\\tip00111", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"11제련 이상인 일부 5레벨 무기 또는 2레벨 방어구는 등급 강화를 시도할 수 있습니다.\n\t아래 등급 강화사에게 등급 강화 및 재료를 교환할 수 있습니다.\n\t▷ <NAVI>[스라토스]<INFO>grademk,34,184,0,100,0,0</INFO></NAVI> : 프론테라 등급강화소\n\t▷ <NAVI>[슈리벨]<INFO>paramk,34,184,0,100,0,0</INFO></NAVI> : 파라마켓 등급강화소\n\t\n\t등급 강화 효과 :\n\t등급 강화가 된 무기는 각 등급에 따라 ATK / MATK의 제련 보너스를 추가로 획득합니다.\n\t장비에 따라 등급 별로 옵션이 다르게 부여되는 장비도 있습니다.\n\t\n\t<TIPBOX>▶등급 강화 재료<INFO>112</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"일부 5레벨 무기 또는 2레벨 방어구는 등급 강화를 할 수 있습니다.\n\t◈등급 강화 조건\n\t▷등급 없음: 제련도 9 이상\n\t▷D 등급: 제련도 10 이상\n\t▷C 등급: 제련도 11 이상\n\t▷B 등급: 제련도 11 이상\n\t\n\t아래 등급 강화사에게 등급 강화 및 재료를 교환할 수 있습니다.\n\t▷ <NAVI>[스라토스]<INFO>grademk,34,184,0,100,0,0</INFO></NAVI> : 프론테라 등급강화소\n\t▷ <NAVI>[슈리벨]<INFO>paramk,34,184,0,100,0,0</INFO></NAVI> : 파라마켓 등급강화소\n\t\n\t등급 강화 효과 :\n\t등급 강화가 된 무기는 각 등급에 따라 ATK / MATK의 제련 보너스를 추가로 획득합니다.\n\t장비에 따라 등급 별로 옵션이 다르게 부여되는 장비도 있습니다.\n\t\n\t<TIPBOX>▶등급 강화 재료<INFO>112</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [112] = {Title = "등급 강화 재료#등급강화,무기,방어구,에텔스톤,에텔 스톤,에텔더스트,에텔 더스트,조합", Search = 1, Image = "유저인터페이스\\tipbox\\tip00112", 
@@ -698,6 +698,36 @@ Page = {"에텔은 직접적으로 사용할 수는 없지만 각종 보석이나 광석을 조합하여 사용
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"유저 숨기기 기능은 다른 유저 캐릭터를 반투명하게 만들어 캐릭터 뒤에 가려진 NPC를 찾아내는 데 유용합니다.(기능이 ON상태인 경우 유저에게 가려진 NPC 클릭 가능)\n\t^4d4dffCtrl + End를 눌러 On/Off^000000 할 수 있고 마을에서만 사용이 가능하며 NPC, 노점, 채팅방, 소환수에는 적용 되지 않습니다.\n\t이 기능은 캐릭터 접속시마다 Off로 전환 됩니다.\n\t\\n<TIPBOX>▶노점 보기<INFO>67</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[116] = {Title = "길드: 공성전#WOE,PVP,길드,엠펠리움,발키리렐름,브리토니아,청림호수,루이나,SE,니다뵐,발프레이야,TE,글로리아,카프라가텐,HE,헤로스리아,보옥,시작,정원,성역", Search = 1, Image = "유저인터페이스\\tipbox\\tip00030", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아지트를 차지하기 위한 길드 간의 전쟁 시스템입니다.\n\t\\n<TIPBOX>▶공성전(WOE)<INFO>117</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(SE)<INFO>118</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(TE)<INFO>119</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(HE)<INFO>120</INFO></TIPBOX>\n\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[117] = {Title = "공성전(WOE)#PVP,길드,엠펠리움,발키리렐름,브리토니아,청림호수,루이나", Search = 1, Image = "유저인터페이스\\tipbox\\tip00117", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아지트를 차지하기 위한 길드 간의 전쟁 시스템.\n룬 미드가츠의 공성지역 엠펠리움을 파괴하여, 성의 주인이 됩시다.\n\n매주 수요일 : 9시 (1시간)\n\n◆프론테라 공성, 발키리렐름\n\t발키리렐름의 성 : 크림힐트, 스반힐트, 라즈리그스, 스쾨굴, 괸들\n◆게펜 공성, 브리토니아\n\t브리토니아의 성 : 레프리온, 욜브리거, 이스넬프, 베르겔, 멜세스데츠\n◆페이욘 공성, 청림호수\n\t청림호수의 성 : 명정, 천단, 불영, 홍루, 죽림현\n◆알데바란 공성, 루이나\n\t루이나의 성 : 노이슈반스타인, 호헨슈반가우, 뉘렌베르크, 뷔르츠부르크, 로텐부르크\n\n성을 차지한 길드는 성 내부 서비스NPC를 통해 길드던전이나 보물상자 방으로 이동이 가능합니다.\n\n◆입장 가능한 던전\n\t발키리렐름의 지하던전 1층\n\t발키리렐름의 지하던전 2층\n\t심연의 회랑 : 전사의 길\n\t\\n<TIPBOX>▶길드: 공성전<INFO>116</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(SE)<INFO>118</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(TE)<INFO>119</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(HE)<INFO>120</INFO></TIPBOX>\n\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[118] = {Title = "공성전(SE)#PVP,길드,엠펠리움,니다뵐,발프레이야", Search = 1, Image = "유저인터페이스\\tipbox\\tip00118", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아지트를 차지하기 위한 길드 간의 전쟁 시스템.\n슈발츠발드, 아루나펠츠의 공성지역 엠펠리움을 파괴하여, 성의 주인이 됩시다.\n\n매주 토요일 : 9시 (1시간)\n\n◆유노 공성, 니다뵐\n\t니다뵐의 성 : 히민, 안들랑그, 비드블라인, 흘료드, 스카티르닐\n◆라헬 공성, 발프레이야\n\t발프레이야의 성 : 마르돌, 시르, 호른, 게픈, 바나디스\n\n성을 차지한 길드는 성 내부 서비스NPC를 통해 길드던전이나 보물상자 방으로 이동이 가능합니다.\n\n◆입장 가능한 던전\n\t니다뵐 지하던전\n\t발프레이야 지하던전\n\t\\n<TIPBOX>▶길드: 공성전<INFO>116</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(WOE)<INFO>117</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(TE)<INFO>119</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(HE)<INFO>120</INFO></TIPBOX>\n\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[119] = {Title = "공성전(TE)#PVP,길드,엠펠리움,글로리아,카프라가텐", Search = 1, Image = "유저인터페이스\\tipbox\\tip00119", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아지트를 차지하기 위한 길드 간의 전쟁 시스템.\nWOE, SE공성과 달리, 노비스를 포함한 1,2차계열의 직업만 입장 가능한 99레벨 한계의 공성전 지역 입니다.\n\n매주 일요일 : 10시 (1시간)\n\n◆프론테라 공성, 글로리아\n\t글로리아의 성 : 게오보르그, 리하르트, 위그너, 하이네, 네리우스\n◆알데바란 공성, 카프라가텐\n\t카프라가텐의 성 : 글라리스, 디포르테, 소린, 비닛, 더블류\n\n성을 차지한 길드는 성 내부 서비스NPC를 통해 길드던전이나 보물상자 방으로 이동이 가능합니다.\n\n◆입장 가능한 던전\n\t글로리아 지하던전\n\t카프라가텐 지하던전\n\t\\n<TIPBOX>▶길드: 공성전<INFO>116</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(WOE)<INFO>117</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(SE)<INFO>118</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(HE)<INFO>120</INFO></TIPBOX>\n\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[120] = {Title = "공성전(HE)#PVP,길드,엠펠리움,헤로스리아,보옥,시작,정원,성역", Search = 1, Image = "유저인터페이스\\tipbox\\tip00120", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성좌 리겔이 마련한 수련의 장소.\n기존의 공성과 달리 헤로스리아 PVP전용 장비 아이템만 허용되는 공성전 지역입니다.\n\n매주 일요일 : 8시 (2시간)\n\n◆성역 헤로스리아\n4계절을 컨셉으로 한 13개의 지역으로 이루어진 거대한 하나의 공성전.\n<NAVI>[발키리렐름]<INFO>prt_gld,207,162,0,101,0</INFO></NAVI>\n<NAVI>[브리토니아]<INFO>gef_fild13,176,222,0,101,0</INFO></NAVI>\n<NAVI>[청림호수]<INFO>pay_gld,200,150,0,101,0</INFO></NAVI>\n<NAVI>[루이나]<INFO>alde_gld,186,142,0,101,0</INFO></NAVI>에서 성역 헤로스리아 지역으로 입장이 가능합니다.\n\n성을 차지한 길드의 마스터는 헤로스리아 성역 관리자를 통해 헤로스리아의 선물을 1일 1회 10개씩 수령 가능합니다.\n\n헤로스리아의 선물은 시즌별로 제공하는 장비 아이템이 변경됩니다.\n또한, 이 장비아이템들은 헤로스리아 PVP 던전에서도 얻을 수 있습니다.\n\n◆헤로스리아 정원관리냥을 통해 입장 가능한 지역\n\t길드던전(봄) : PVP 던전\n\t헤로스리아 훈련장\n\t\\n<TIPBOX>▶길드: 공성전<INFO>116</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(WOE)<INFO>117</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(SE)<INFO>118</INFO></TIPBOX>\n\t<TIPBOX>▶공성전(TE)<INFO>119</INFO></TIPBOX>\n\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [900] = {Title = "월드맵#map", Search = 1, Image = "유저인터페이스\\tipbox\\tip00900", 
@@ -1015,7 +1045,7 @@ Page = {"베인스 남쪽 바다에 홀로 떠 있는 작은 섬. 섬의 주민들은 수도원을 짓고 안
 [4100] = {Title = "퀘스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 있습니다. 또는 전직 퀘스트를 수행하고 상위 직업으로 전직할 수도 있습니다.\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶가이드 퀘스트<INFO>4175</INFO></TIPBOX>\n\t\t<TIPBOX>▶레벨별 퀘스트<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역별 퀘스트<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징 퀘스트<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상 체험 총서 VR-Books<INFO>4299</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 있습니다. 또는 전직 퀘스트를 수행하고 상위 직업으로 전직할 수도 있습니다.\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶가이드 퀘스트<INFO>4175</INFO></TIPBOX>\n\t\t<TIPBOX>▶레벨별 퀘스트<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역별 퀘스트<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징 퀘스트<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상 체험 총서 VR-Books<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4101] = {Title = "에피소드#퀘스트", Search = 1, Image = "", 
@@ -1255,7 +1285,7 @@ Page = {"<TIPBOX>Q 머리 부시시한 애들 (240)<INFO>9154</INFO></TIPBOX>\n\t\t<TIPB
 [4140] = {Title = "퀘스트 레벨 250~259", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"아직 등록된 퀘스트가 없습니다.\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 마력이 뒤틀린 평원 정화 작업 (250)<INFO>4323</INFO></TIPBOX>\n\t\t<TIPBOX>Q 묘르닐 지하 동굴 몬스터 토벌 (250)<INFO>4324</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4141] = {Title = "지역 퀘스트 목록", Search = 1, Image = "", 
@@ -2209,7 +2239,7 @@ Page = {"뱀의 둥지에는 일루시온이 탈취해 간 비공정이 있다. 일행과 상의 후 일루시
 [4299] = {Title = "환상 체험 총서 VR-Books#환상총서", Search = 1, Image = "유저인터페이스\\tipbox\\tip04299", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"환상총서는 가상의 공간에서 책 속의 인물과 함께 어울려 이야기를 진행할 수 있는 신개념 이야기책입니다. 프론테라 동쪽 도서관에서 체험 가능합니다! 환상총서를 읽고 보상으로 인물들의 소지품을 모아보세요! 나만의 특별한 미니미가 기다리고 있습니다.\n\t\t\n\t\t^663399▣ 환상총서 도서 목록^000000\n\t\t<TIPBOX>▶금수저 영애님은 조용히 살고싶다.<INFO>4300</INFO></TIPBOX>\n\t\t<TIPBOX>▶어느 과학자의 탈출 기록<INFO>4301</INFO></TIPBOX>\n\t\t<TIPBOX>▶엘레나 볼코바, 그 위대한 불꽃<INFO>4302</INFO></TIPBOX>\n\t\t<TIPBOX>▶누구나 쉽게 키워보는 관상용 식물(실무편)<INFO>4303</INFO></TIPBOX>\n\t\t<TIPBOX>▶생던밥~세이렌 윈저의 휘겔 휴양 요리편<INFO>4308</INFO></TIPBOX>\n\t\t<TIPBOX>▶엔젤링 키우기~꿈꾸는 포링~<INFO>4309</INFO></TIPBOX>\n\t\t\n\t\t^663399▣ 특별한 아이템^000000\n\t\t<TIPBOX>▶환상총서 일반 교환 아이템 보기<INFO>4304</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상총서 미니미 보기<INFO>4305</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상총서 주인공 버프 아이템 보기<INFO>4306</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"환상총서는 가상의 공간에서 책 속의 인물과 함께 어울려 이야기를 진행할 수 있는 신개념 이야기책입니다. 프론테라 동쪽 도서관에서 체험 가능합니다! 환상총서를 읽고 보상으로 인물들의 소지품을 모아보세요! 나만의 특별한 미니미가 기다리고 있습니다.\n\t\t\n\t\t^663399▣ 환상총서 도서 목록^000000\n\t\t<TIPBOX>▶금수저 영애님은 조용히 살고싶다.<INFO>4300</INFO></TIPBOX>\n\t\t<TIPBOX>▶어느 과학자의 탈출 기록<INFO>4301</INFO></TIPBOX>\n\t\t<TIPBOX>▶엘레나 볼코바, 그 위대한 불꽃<INFO>4302</INFO></TIPBOX>\n\t\t<TIPBOX>▶누구나 쉽게 키워보는 관상용 식물(실무편)<INFO>4303</INFO></TIPBOX>\n\t\t<TIPBOX>▶나와 나<INFO>4307</INFO></TIPBOX>\n\t\t<TIPBOX>▶생던밥~세이렌 윈저의 휘겔 휴양 요리편<INFO>4308</INFO></TIPBOX>\n\t\t<TIPBOX>▶엔젤링 키우기~꿈꾸는 포링~<INFO>4309</INFO></TIPBOX>\n\t\t<TIPBOX>▶나 혼자 아카데미 순혈인간<INFO>4310</INFO></TIPBOX>\n\t\t<TIPBOX>▶크리투라 업무편람<INFO>4311</INFO></TIPBOX>\n\t\t\n\t\t^663399▣ 특별한 아이템^000000\n\t\t<TIPBOX>▶환상총서 일반 교환 아이템 보기<INFO>4304</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상총서 미니미 보기<INFO>4305</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상총서 주인공 버프 아이템 보기<INFO>4306</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4300] = {Title = "VR001 금수저 영애님은 조용히 살고싶다.#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook001_k", 
@@ -2239,31 +2269,31 @@ Page = {"플랜테리어의 끝판왕! 관상용 식물을 키우기 위한 첫번째 준비!\n\t\t드브리
 [4304] = {Title = "환상총서 일반 교환 목록#환총VR보상", Search = 1, Image = "유저인터페이스\\tipbox\\tip04299", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"환상총서 완독기념 카드로 모험에 필요한 유용한 물품을 살 수 있습니다.\n\t\t\n\t\t^663399◈교환 위치^000000\n\t\t▶<NAVI>[완독기념 카드 교환원]<INFO>prt_elib,22,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈일반 교환 목록^000000\n\t\t<ITEM>[환상의 성장 포션]<INFO>101404</INFO></ITEM>\n\t\t<ITEM>[환상의 직업 성장 포션]<INFO>101406</INFO></ITEM>\n\t\t<ITEM>[비매품 노랑나비의 날개]<INFO>12507</INFO></ITEM>\n\t\t<ITEM>[비매품 초록나비의 날개]<INFO>12508</INFO></ITEM>\n\t\t<ITEM>[비매품 빨간나비의 날개]<INFO>12509</INFO></ITEM>\n\t\t<ITEM>[비매품 파란나비의 날개]<INFO>12510</INFO></ITEM>\n\t\t<ITEM>[이동 스크롤(편의)]<INFO>101407</INFO></ITEM>\n\t\t<ITEM>[이동 스크롤(위험지역)]<INFO>101408</INFO></ITEM>\n\t\t<ITEM>[환상총서 탐욕 스크롤 상자]<INFO>200206</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"환상총서 완독기념 카드로 모험에 필요한 유용한 물품을 살 수 있습니다.\n\t\t\n\t\t^663399◈교환 위치^000000\n\t\t▶<NAVI>[완독기념 카드 교환원]<INFO>prt_elib,22,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈일반 교환 목록^000000\n\t\t<ITEM>[환상의 성장 포션]<INFO>101404</INFO></ITEM>\n\t\t<ITEM>[환상의 직업 성장 포션]<INFO>101406</INFO></ITEM>\n\t\t<ITEM>[비매품 노랑나비의 날개]<INFO>12507</INFO></ITEM>\n\t\t<ITEM>[비매품 초록나비의 날개]<INFO>12508</INFO></ITEM>\n\t\t<ITEM>[비매품 빨간나비의 날개]<INFO>12509</INFO></ITEM>\n\t\t<ITEM>[비매품 파란나비의 날개]<INFO>12510</INFO></ITEM>\n\t\t<ITEM>[이동 스크롤(편의)]<INFO>101407</INFO></ITEM>\n\t\t<ITEM>[이동 스크롤(위험지역)]<INFO>101408</INFO></ITEM>\n\t\t<ITEM>[환상총서 탐욕 스크롤 상자]<INFO>101461</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4305] = {Title = "환상총서 미니미#환총VR보상", Search = 1, Image = "유저인터페이스\\tipbox\\tip04299", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"환상총서 완독기념 카드와 환상총서 책갈피, 등장인물의 소지품을 모아 캐릭터 자동인형 미니미로 교환할 수 있습니다.\n\n\t\t^663399◈교환 위치^000000\n\t\t▶<NAVI>[특별한 기념품 교환원]<INFO>prt_elib,29,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈미니미 목록^000000\n\t\t<ITEM>[의상 아그네스 미니미]<INFO>410145</INFO></ITEM>\n\t\t<ITEM>[의상 왕 미니미]<INFO>410188</INFO></ITEM>\n\t\t<TIPBOX>▶금수저 영애님은 조용히 살고싶다.<INFO>4300</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 드브리스 미니미]<INFO>410146</INFO></ITEM>\n\t\t<TIPBOX>▶누구나 쉽게 키워보는 관상용 식물(실무편)<INFO>4303</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 엘레나 볼코바 미니미]<INFO>410147</INFO></ITEM>\n\t\t<TIPBOX>▶엘레나 볼코바, 그 위대한 불꽃<INFO>4302</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 아이젠 베르너 미니미]<INFO>410149</INFO></ITEM>\n\t\t<ITEM>[의상 AI 나비 미니미]<INFO>400280</INFO></ITEM>\n\t\t<TIPBOX>▶어느 과학자의 탈출 기록<INFO>4301</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 세이렌 미니미]<INFO>410190</INFO></ITEM>\n\t\t<TIPBOX>▶생던밥~세이렌 윈저의 휘겔 휴양 요리편<INFO>4308</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 굴라링 미니미]<INFO>410193</INFO></ITEM>\n\t\t<ITEM>[의상 엔젤링 미니미]<INFO>410189</INFO></ITEM>\n\t\t<TIPBOX>▶엔젤링 키우기~꿈꾸는 포링~<INFO>4309</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"환상총서 완독기념 카드와 환상총서 책갈피, 등장인물의 소지품을 모아 캐릭터 자동인형 미니미로 교환할 수 있습니다.\n\n\t\t^663399◈교환 위치^000000\n\t\t▶<NAVI>[특별한 기념품 교환원]<INFO>prt_elib,29,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈미니미 목록^000000\n\t\t<ITEM>[의상 스피카 네리우스 미니미]<INFO>410191</INFO></ITEM>\n\t\t<ITEM>[의상 아그네스 미니미]<INFO>410145</INFO></ITEM>\n\t\t<ITEM>[의상 왕 미니미]<INFO>410188</INFO></ITEM>\n\t\t<TIPBOX>▶금수저 영애님은 조용히 살고싶다.<INFO>4300</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 드브리스 미니미]<INFO>410146</INFO></ITEM>\n\t\t<TIPBOX>▶누구나 쉽게 키워보는 관상용 식물(실무편)<INFO>4303</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 엘레나 볼코바 미니미]<INFO>410147</INFO></ITEM>\n\t\t<ITEM>[의상 엘류미나 미니미]<INFO>410148</INFO></ITEM>\n\t\t<TIPBOX>▶엘레나 볼코바, 그 위대한 불꽃<INFO>4302</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 아이젠 베르너 미니미]<INFO>410149</INFO></ITEM>\n\t\t<ITEM>[의상 AI 나비 미니미]<INFO>400280</INFO></ITEM>\n\t\t<TIPBOX>▶어느 과학자의 탈출 기록<INFO>4301</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 세이렌 미니미]<INFO>410190</INFO></ITEM>\n\t\t<TIPBOX>▶생던밥~세이렌 윈저의 휘겔 휴양 요리편<INFO>4308</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 굴라링 미니미]<INFO>410193</INFO></ITEM>\n\t\t<ITEM>[의상 엔젤링 미니미]<INFO>410189</INFO></ITEM>\n\t\t<TIPBOX>▶엔젤링 키우기~꿈꾸는 포링~<INFO>4309</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 레하르 미니미]<INFO>410206</INFO></ITEM>\n\t\t<TIPBOX>▶나와 나<INFO>4307</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 이블 미니미]<INFO>410192</INFO></ITEM>\n\t\t<TIPBOX>▶나 혼자 아카데미 순혈인간<INFO>4310</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[의상 말브론 미니미]<INFO>410205</INFO></ITEM>\n\t\t<TIPBOX>▶크리투라 업무편람<INFO>4311</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4306] = {Title = "환상총서 주인공 버프#환총VR보상", Search = 1, Image = "유저인터페이스\\tipbox\\tip04299", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"환상총서 완독기념 카드와 환상총서 책갈피, 등장인물의 소지품을 모아 주인공 버프 아이템으로 교환할 수 있습니다.\n\t\t주인공 버프 아이템은 교환 후 10일간 사용할 수 있습니다.\n\t\t\n\t\t^663399◈교환 위치^000000\n\t\t▶<NAVI>[완독기념 카드 교환원]<INFO>prt_elib,22,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈주인공 버프 아이템 목록^000000\n\t\t<ITEM>[환상총서 001]<INFO>101522</INFO></ITEM>\n\t\t<TIPBOX>▶금수저 영애님은 조용히 살고싶다.<INFO>4300</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 002]<INFO>101523</INFO></ITEM>\n\t\t<TIPBOX>▶어느 과학자의 탈출 기록<INFO>4301</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 003]<INFO>101524</INFO></ITEM>\n\t\t<TIPBOX>▶엘레나 볼코바, 그 위대한 불꽃<INFO>4302</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 004]<INFO>101525</INFO></ITEM>\n\t\t<TIPBOX>▶누구나 쉽게 키워보는 관상용 식물(실무편)<INFO>4303</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 006]<INFO>101705</INFO></ITEM>\n\t\t<TIPBOX>▶생던밥~세이렌 윈저의 휘겔 휴양 요리편<INFO>4308</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 007]<INFO>101706</INFO></ITEM>\n\t\t<TIPBOX>▶엔젤링 키우기~꿈꾸는 포링~<INFO>4309</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"환상총서 완독기념 카드와 환상총서 책갈피, 등장인물의 소지품을 모아 주인공 버프 아이템으로 교환할 수 있습니다.\n\t\t주인공 버프 아이템은 교환 후 10일간 사용할 수 있습니다.\n\t\t\n\t\t^663399◈교환 위치^000000\n\t\t▶<NAVI>[특별한 기념품 교환원]<INFO>prt_elib,29,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈주인공 버프 아이템 목록^000000\n\t\t<ITEM>[환상총서 001]<INFO>101522</INFO></ITEM>\n\t\t<TIPBOX>▶금수저 영애님은 조용히 살고싶다.<INFO>4300</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 002]<INFO>101523</INFO></ITEM>\n\t\t<TIPBOX>▶어느 과학자의 탈출 기록<INFO>4301</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 003]<INFO>101524</INFO></ITEM>\n\t\t<TIPBOX>▶엘레나 볼코바, 그 위대한 불꽃<INFO>4302</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 004]<INFO>101525</INFO></ITEM>\n\t\t<TIPBOX>▶누구나 쉽게 키워보는 관상용 식물(실무편)<INFO>4303</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 005]<INFO>101835</INFO></ITEM>\n\t\t<TIPBOX>▶나와 나<INFO>4307</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 006]<INFO>101705</INFO></ITEM>\n\t\t<TIPBOX>▶생던밥~세이렌 윈저의 휘겔 휴양 요리편<INFO>4308</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 007]<INFO>101706</INFO></ITEM>\n\t\t<TIPBOX>▶엔젤링 키우기~꿈꾸는 포링~<INFO>4309</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 008]<INFO>101837</INFO></ITEM>\n\t\t<TIPBOX>▶나 혼자 아카데미 순혈인간<INFO>4310</INFO></TIPBOX>\n\t\t\n\t\t<ITEM>[환상총서 009]<INFO>101834</INFO></ITEM>\n\t\t<TIPBOX>▶크리투라 업무편람<INFO>4311</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4307] = {Title = "VR005 나와 나#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook005_k", 
 Imgcoord = {Position = 5, Size = 70}
 , 
-Page = {"출간 준비중입니다!\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-005]<INFO>prt_elib,54,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t성 카피톨리나 수도원 편찬\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"이기적이고 독선적인 삶과 이타적이고 모두와 함께 하는 삶.\n\t\t당신이 추구하는 것은 어떤 삶입니까?\n\t\t자신의 내면과 마주하기 위한 용기를 북돋아 주는 책.\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t성 카피톨리나 수도원 편찬\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4308] = {Title = "VR006 생던밥~세이렌 윈저의 휘겔 휴양 요리편#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook006_k", 
 Imgcoord = {Position = 5, Size = 70}
 , 
-Page = {"세이렌 윈저와 마가레타 소린, 카트린느 케이론이 함께하는 휘겔에서의 휴양 일지.\n\t\t휘겔에서 보내는 별 일 없는 평온한 일상을 함께하세요.\n\t\t^4d4dff#일상 #힐링 #픽션^000000\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-006]<INFO>prt_elib,59,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t시에라 모리스 지음\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"세이렌 윈저와 마가레타 소린, 카트린느 케이론이 함께하는 휘겔에서의 휴양 일지.\n\t\t휘겔에서 보내는 별 일 없는 평온한 일상을 함께하세요.\n\t\t^4d4dff#일상 #힐링 #픽션^000000\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-006]<INFO>prt_elib,59,45,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t시에라 모리스 지음\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4309] = {Title = "VR007 엔젤링 키우기~꿈꾸는 포링~#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook007_k", 
@@ -2272,10 +2302,52 @@ Imgcoord = {Position = 5, Size = 70}
 Page = {"포링의 생태 연구 끝판왕! 궁정 마법사 닐렘이 제작한 초 기대작!\n\t\t엔젤링 탄생에 대한 비화를 직접 경험할 수 있습니다.\n\t\t^4d4dff#육성 #게임물^000000\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-007]<INFO>prt_elib,54,37,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t닐렘 제작\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[4310] = {Title = "VR008 나혼자 아카데미 순혈인간#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook008_k", 
+[4310] = {Title = "VR008 나 혼자 아카데미 순혈인간#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook008_k", 
 Imgcoord = {Position = 5, Size = 70}
 , 
-Page = {"출간 준비중입니다!\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-008]<INFO>prt_elib,59,37,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t율리안 지음\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"실화를 바탕으로 한 충격적인 이야기!\n\t\t리벨리온의 엘리트 대원 율리안이 한 편의 소설처럼 인류애가 소멸된 현장을 고발한다.\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-008]<INFO>prt_elib,59,37,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t율리안 지음\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4311] = {Title = "VR009 크리투라 업무편람#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook009_k", 
+Imgcoord = {Position = 5, Size = 70}
+, 
+Page = {"대면업무 종사자를 위한 지침서, 그 첫번째 시리즈!\n\t\t실무와 똑같은 환경과 체험을 통해 업무 능력을 키울 수 있습니다.\n\t\t사회 초년생들에게 대인기!\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t말브론 지음\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4321] = {Title = "바르문트의 바이오스피어#룬마력수초원죽음화염혹한맹독영혼성전정수", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"바르문트의 바이오스피어는 대현자 바르문트가 생태계 연구를 위해 실제 존재하는 자연 환경과 지형을 그대로 본따 저택 안에 조성한 공간입니다.\n\t\t그간 바르문트의 부재로 오랜 시간 방치되어 왔으나 최근 내부의 움직임이 심상치 않다는 판단으로 저택의 관리자는 굳게 닫힌 문을 활짝 열었습니다.\n\t\t\n\t\t^663399◈조건 : 240Lv 이상^000000\n\t\t\n\t\t^663399◈안내 NPC^000000\n\t\t▶<NAVI>[관리자 베타]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>\n\t\t▶<NAVI>[관리자 베타]<INFO>ba_in01,237,301,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바이오스피어 보상<INFO>4322</INFO></TIPBOX>\n\t\t\n\t\t^663399◈바이오스피어 위치 안내^000000\n\t\t<NAVI>[표본환경 - 혹한]<INFO>ba_in01,310,38,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 화염]<INFO>ba_in01,311,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 초원]<INFO>ba_in01,325,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 죽음]<INFO>ba_in01,339,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 영혼]<INFO>ba_in01,201,302,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 맹독]<INFO>ba_in01,215,302,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 성전]<INFO>ba_in01,229,302,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4322] = {Title = "바이오스피어 보상#바르문트룬장비각인오를레앙", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"현자 바르문트가 구성한 인공 서식지, 바이오스피어에서 획득한 각종 룬 조각과 장비를 교환하거나 강화할 수 있습니다.\n\t\t\n\t\t^663399◈룬 및 마력수 교환^000000\n\t\t▶<NAVI>[오메가]<INFO>ba_in01,365,50,0,101,0</INFO></NAVI>\n\t\t^663399◈각인 장비 인챈트^000000\n\t\t▶<NAVI>[베타]<INFO>ba_in01,363,53,0,101,0</INFO></NAVI>\n\t\t^663399◈업그레이드 장비 인챈트^000000\n\t\t▶<NAVI>[베타]<INFO>ba_in01,371,55,0,101,0</INFO></NAVI>\n\t\t\n\t\t■바이오스피어 드롭 장비\n\t\t<ITEM>[바르문트 룬의 갑옷]<INFO>450199</INFO></ITEM>\n\t\t<ITEM>[바르문트 룬의 견갑]<INFO>480144</INFO></ITEM>\n\t\t<ITEM>[바르문트 룬의 그리브]<INFO>470107</INFO></ITEM>\n\t\t<ITEM>[바르문트 룬 링]<INFO>490297</INFO></ITEM>\n\t\t\n\t\t^663399◈룬 장비 속성 각인^000000\n\t\t▶<NAVI>[베타]<INFO>ba_in01,359,53,0,101,0</INFO></NAVI>\n\t\t\n\t\t<ITEM>[바르문트 화염 룬 아머]<INFO>450200</INFO></ITEM>\n\t\t<ITEM>[바르문트 화염 룬 부츠]<INFO>470109</INFO></ITEM>\n\t\t<ITEM>[바르문트 화염 룬 망토]<INFO>480146</INFO></ITEM>\n\t\t<ITEM>[바르문트 초원 룬 아머]<INFO>450201</INFO></ITEM>\n\t\t<ITEM>[바르문트 초원 룬 부츠]<INFO>470108</INFO></ITEM>\n\t\t<ITEM>[바르문트 초원 룬 망토]<INFO>480145</INFO></ITEM>\n\t\t<ITEM>[바르문트 얼음 룬 아머]<INFO>450203</INFO></ITEM>\n\t\t<ITEM>[바르문트 얼음 룬 부츠]<INFO>470111</INFO></ITEM>\n\t\t<ITEM>[바르문트 얼음 룬 망토]<INFO>480148</INFO></ITEM>\n\t\t<ITEM>[바르문트 죽음 룬 로브]<INFO>450202</INFO></ITEM>\n\t\t<ITEM>[바르문트 죽음 룬 부츠]<INFO>470110</INFO></ITEM>\n\t\t<ITEM>[바르문트 죽음 룬 망토]<INFO>480147</INFO></ITEM>\n\t\t<ITEM>[바르문트 영혼 룬 반지]<INFO>490299</INFO></ITEM>\n\t\t<ITEM>[바르문트 맹독 룬 반지]<INFO>490300</INFO></ITEM>\n\t\t<ITEM>[바르문트 성전 룬 반지]<INFO>490301</INFO></ITEM>\n\t\t\n\t\t^663399◈일반 장비 룬 각인^000000\n\t\t▶<NAVI>[베타]<INFO>ba_in01,361,53,0,101,0</INFO></NAVI>\n\t\t\n\t\t<ITEM>[각인된 오를레앙의 제복]<INFO>450191</INFO></ITEM>\n\t\t<ITEM>[각인된 오를레앙의 서버]<INFO>460021</INFO></ITEM>\n\t\t<ITEM>[각인된 오를레앙의 장갑]<INFO>490160</INFO></ITEM>\n\t\t<ITEM>[각인된 핀귀큘라의 코르사주]<INFO>490161</INFO></ITEM>\n\t\t<ITEM>[각인된 물방울 브로치]<INFO>490162</INFO></ITEM>\n\t\t<ITEM>[각인된 생존의 망토]<INFO>480138</INFO></ITEM>\n\t\t<ITEM>[각인된 나가의 비늘 갑옷]<INFO>450192</INFO></ITEM>\n\t\t<ITEM>[각인된 나가의 비늘 방패]<INFO>460022</INFO></ITEM>\n\t\t\n\t\t^663399◈속성 각인 장비 업그레이드^000000\n\t\t▶<NAVI>[베타]<INFO>ba_in01,368,55,0,101,0</INFO></NAVI>\n\t\t\n\t\t<ITEM>[화염의 룬 아머]<INFO>450234</INFO></ITEM>\n\t\t<ITEM>[화염의 룬 부츠]<INFO>470173</INFO></ITEM>\n\t\t<ITEM>[화염의 룬 망토]<INFO>480230</INFO></ITEM>\n\t\t<ITEM>[초원의 룬 아머]<INFO>450243</INFO></ITEM>\n\t\t<ITEM>[초원의 룬 부츠]<INFO>470174</INFO></ITEM>\n\t\t<ITEM>[초원의 룬 망토]<INFO>480231</INFO></ITEM>\n\t\t<ITEM>[얼음의 룬 아머]<INFO>450244</INFO></ITEM>\n\t\t<ITEM>[얼음의 룬 부츠]<INFO>470175</INFO></ITEM>\n\t\t<ITEM>[얼음의 룬 망토]<INFO>480232</INFO></ITEM>\n\t\t<ITEM>[죽음의 룬 로브]<INFO>450245</INFO></ITEM>\n\t\t<ITEM>[죽음의 룬 부츠]<INFO>470176</INFO></ITEM>\n\t\t<ITEM>[죽음의 룬 망토]<INFO>480233</INFO></ITEM>\n\t\t<ITEM>[영혼의 룬 반지]<INFO>490302</INFO></ITEM>\n\t\t<ITEM>[맹독의 룬 반지]<INFO>490303</INFO></ITEM>\n\t\t<ITEM>[성전의 룬 반지]<INFO>490304</INFO></ITEM>\n\t\t<ITEM>[영혼의 마력 반지]<INFO>490305</INFO></ITEM>\n\t\t<ITEM>[맹독의 마력 반지]<INFO>490306</INFO></ITEM>\n\t\t<ITEM>[성전의 마력 반지]<INFO>490307</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶바르문트의 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4323] = {Title = "Q 마력이 뒤틀린 평원 정화 작업(250)#모카다스#신관의성물", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라헬의 서쪽, 오즈의 협곡 너머에 마력이 뒤틀려 오염된 땅이 존재합니다. 세스룸니르에서 파견된 신관 파노를 통해 정화 작업에 참여할 수 있습니다.\n\t\t\n\t\t^663399◈조건 : 250Lv 이상^000000\n\t\t▶<NAVI>[신관 파노]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈일일퀘스트^000000\n\t\t2종의 일일퀘스트 중 하나를 선택해 진행 가능\n\t\t▶가벼운 일일 정화 작업 100 마리\n\t\t▶착실한 일일 정화 작업 500 마리\n\t\t보상: <ITEM>[신관의 성물]<INFO>1001201</INFO></ITEM>\n\t\t\n\t\t^663399◈주간퀘스트^000000\n\t\t매주 토요일을 기점으로 진행하는 대규모 작업!\n\t\t▶집중! 주간 정화 작업 5000 마리\n\t\t보상: <ITEM>[신관의 성수]<INFO>1001202</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶모카다스 장비<INFO>4325</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트 레벨 250~259<INFO>4140</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4324] = {Title = "Q 묘르닐 지하 동굴 몬스터 토벌(250)#퇴치플러시", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아인브로크의 남쪽에서 묘르닐 산맥 지하로 연결되는 거대한 지하 동굴을 발견했습니다. 이대로 두었다가는 동굴의 몬스터가 범람하겠어요! 리벨리온 대원은 함께 몬스터 토벌을 도와줄 모험가를 찾고 있습니다.\n\t\t\n\t\t^663399◈조건 : 250Lv 이상^000000\n\t\t▶<NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈일일퀘스트^000000\n\t\t2종의 일일퀘스트 중 하나를 선택해 진행 가능\n\t\t▶일일 몬스터 퇴치 작전 100 마리\n\t\t▶일일 몬스터 퇴치 작전 500 마리\n\t\t보상: <ITEM>[묘르닐의 에너지]<INFO>1001204</INFO></ITEM>\n\t\t\n\t\t^663399◈주간퀘스트^000000\n\t\t매주 토요일을 기점으로 진행하는 대규모 작업!\n\t\t▶대규모 몬스터 퇴치 작전 5000 마리\n\t\t보상: <ITEM>[묘르닐의 보물]<INFO>1001203</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶플러시 장비<INFO>4326</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트 레벨 250~259<INFO>4140</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4325] = {Title = "모카다스 장비#라헬#마력이뒤틀린평원250", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"마력이 뒤틀린 평원에서 종종 발견된다는 모카다스 석판에 기록된 제작법대로 만들어진 장비 시리즈.\n\t\t\n\t\t^663399◈마력이 뒤틀린 평원 이동^000000\n\t\t▶<NAVI>[신관 파노]<INFO>ra_fild10,352,341,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈연관 퀘스트^000000\n\t\t<TIPBOX>Q 마력이 뒤틀린 평원 정화 작업 (250)<INFO>4323</INFO></TIPBOX>\n\t\t\n\t\t^663399◈모카다스 장비 일람^000000\n\t\t<ITEM>[모카다스 사쉬어]<INFO>500074</INFO></ITEM>\n\t\t<ITEM>[모카다스 판지라]<INFO>630028</INFO></ITEM>\n\t\t<ITEM>[모카다스 제도가르]<INFO>640046</INFO></ITEM>\n\t\t<ITEM>[모카다스 타시리파티]<INFO>510102</INFO></ITEM>\n\t\t<ITEM>[모카다스 데스트]<INFO>610054</INFO></ITEM>\n\t\t<ITEM>[모카다스 타바르]<INFO>520031</INFO></ITEM>\n\t\t<ITEM>[모카다스 다와블런트]<INFO>590062</INFO></ITEM>\n\t\t<ITEM>[모카다스 메쉬트]<INFO>560048</INFO></ITEM>\n\t\t<ITEM>[모카다스 바루]<INFO>550117</INFO></ITEM>\n\t\t<ITEM>[모카다스 가호]<INFO>700076</INFO></ITEM>\n\t\t<ITEM>[모카다스 사즈]<INFO>570045</INFO></ITEM>\n\t\t<ITEM>[모카다스 샤라크]<INFO>580046</INFO></ITEM>\n\t\t<ITEM>[모카다스 차맨]<INFO>550118</INFO></ITEM>\n\t\t<ITEM>[모카다스 그로스]<INFO>550119</INFO></ITEM>\n\t\t<ITEM>[모카다스 카과즈]<INFO>540075</INFO></ITEM>\n\t\t<ITEM>[모카다스 나잘]<INFO>510103</INFO></ITEM>\n\t\t<ITEM>[모카다스 칸자르]<INFO>510104</INFO></ITEM>\n\t\t<ITEM>[모카다스 에이사]<INFO>590063</INFO></ITEM>\n\t\t<ITEM>[모카다스 나랭자크]<INFO>840028</INFO></ITEM>\n\t\t<ITEM>[모카다스 타팡]<INFO>810034</INFO></ITEM>\n\t\t<ITEM>[모카다스 사카]<INFO>820028</INFO></ITEM>\n\t\t<ITEM>[모카다스 텔린]<INFO>830033</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4326] = {Title = "플러시 장비#아인브로크#묘르닐지하동굴250", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"묘르닐 지하 동굴에서 발견되는 설계도로 제작한 장비.\n\t\t\n\t\t^663399◈묘르닐 지하 동굴 이동^000000\n\t\t▶<NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈연관 퀘스트^000000\n\t\t<TIPBOX>Q 묘르닐 지하 동굴 몬스터 토벌 (250)<INFO>4324</INFO></TIPBOX>\n\t\t\n\t\t^663399◈플러시 장비 일람^000000\n\t\t<ITEM>[플러시 금속 탐지기 MK47]<INFO>510105</INFO></ITEM>\n\t\t<ITEM>[플러시 금속 탐지기 MK47-2]<INFO>510106</INFO></ITEM>\n\t\t<ITEM>[플러시 보석 탐지기 Mk47]<INFO>510077</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 세이버]<INFO>500056</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 폭스테일]<INFO>550091</INFO></ITEM>\n\t\t<ITEM>[플러시 블로킹 스피어]<INFO>530035</INFO></ITEM>\n\t\t<ITEM>[플러시 크로우 소드]<INFO>600031</INFO></ITEM>\n\t\t<ITEM>[플러시 러버 해머]<INFO>590049</INFO></ITEM>\n\t\t<ITEM>[플러시 쏘우 액스]<INFO>620020</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 너클]<INFO>560038</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 매뉴얼]<INFO>540058</INFO></ITEM>\n\t\t<ITEM>[플러시 웰딩 완드]<INFO>550092</INFO></ITEM>\n\t\t<ITEM>[플러시 디텍팅 스태프]<INFO>640035</INFO></ITEM>\n\t\t<ITEM>[플러시 그라인더 풍마수리검]<INFO>650029</INFO></ITEM>\n\t\t<ITEM>[플러시 볼트 슈터]<INFO>700060</INFO></ITEM>\n\t\t<ITEM>[플러시 볼트 크러셔]<INFO>610042</INFO></ITEM>\n\t\t<ITEM>[플러시 볼트 리볼버]<INFO>800016</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 휩]<INFO>580034</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 류트]<INFO>570033</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [5001] = {Title = "MD 게펜 야간 투기장(210)#게펜야간투기장대회영웅의흔적마법", Search = 1, Image = "유저인터페이스\\tipbox\\tip05001", 

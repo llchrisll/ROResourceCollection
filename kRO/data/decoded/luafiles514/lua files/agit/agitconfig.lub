@@ -183,6 +183,12 @@ Warp = {TargetPosX = 233, TargetPosY = 300, CostZeny = 100, CostZenySeigeTime = 
 AdditionalEFST = {"EFST_MOVE_AGIT", 5000}
 }
 }
+, 
+["herosria.gat"] = {Number = 31, Name = "헤로스리아", 
+Warp = {TargetPosX = 148, TargetPosY = 115, CostZeny = 100, CostZenySeigeTime = 100000, 
+AdditionalEFST = {"EFST_MOVE_AGIT", 5000}
+}
+}
 }
 main = function()
   -- function num : 0_0

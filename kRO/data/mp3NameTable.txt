@@ -1,5 +1,5 @@
 // ==========================================================================
-// mp3NameTable.txt 본서버 최종수정: 2022-08-10 - 환상총서 2차
+// mp3NameTable.txt 본서버 최종수정: 2022-01-02 - 크리스마스 BGM 원복
 // ==========================================================================
 //맵이름.rsw#bgm\\음악번호#
 
@@ -32,6 +32,42 @@ hu_in01.rsw#bgm\\93.mp3#
 //prontera.rsw#bgm\\55.mp3#
 //prt_in.rsw#bgm\\55.mp3#
 //prt_church.rsw#bgm\\56.mp3#
+
+// 260 레벨 확장
+ra_pol01.rsw#bgm\\165.mp3#
+mjo_wst01.rsw#bgm\\129.mp3#
+
+// 환상총서 X차 - 라바콜라보 축축한 하수도
+1@lvcb.rsw#bgm\\19.mp3#
+
+// 바르문트 인공생태환경 바이오스피어 2차
+bl_venom.rsw#bgm\\106.mp3#
+bl_temple.rsw#bgm\\110.mp3#
+bl_soul.rsw#bgm\\40.mp3#
+
+// 환상총서 3차
+1@vrclo.rsw#bgm\\28.mp3#
+2@vrclo.rsw#bgm\\117.mp3#
+1@vrhha.rsw#bgm\\86.mp3#
+1@vrac1.rsw#bgm\\28.mp3#
+1@vrac2.rsw#bgm\\28.mp3#
+
+// 성역 헤로스리아
+hero_lb.rsw#bgm\\188.mp3#
+hero_out1.rsw#bgm\\115.mp3#
+hero_out2.rsw#bgm\\126.mp3#
+hero_out3.rsw#bgm\\163.mp3#
+hero_out4.rsw#bgm\\129.mp3#
+hero_ent1.rsw#bgm\\123.mp3#
+hero_ent2.rsw#bgm\\123.mp3#
+hero_ent3.rsw#bgm\\113.mp3#
+hero_in1.rsw#bgm\\115.mp3#
+hero_in2.rsw#bgm\\126.mp3#
+hero_in3.rsw#bgm\\163.mp3#
+hero_in4.rsw#bgm\\129.mp3#
+herosria.rsw#bgm\\182.mp3#
+hero_dun1.rsw#bgm\\130.mp3#
+hero_tra.rsw#bgm\\28.mp3#
 
 // 환상총서 2차
 vr_bob.rsw#bgm\\03.mp3#

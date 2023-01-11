@@ -2953,7 +2953,7 @@ resource = {
 [1] = {text = "1차 직업군으로 99 베이스 레벨 달성"}
 }
 , 
-reward = {buff = 10, item = 16504}
+reward = {buff = 10, item = 101948}
 , score = 30}
 , 
 [200031] = {UI_Type = 0, group = "JOB_CHANGE", major = 1, minor = 0, title = "발할라에서 환생!", 

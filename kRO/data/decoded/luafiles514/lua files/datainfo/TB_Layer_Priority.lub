@@ -5,6 +5,34 @@
 -- function num : 0
 TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, 
 Items_List = {
+[ACCESSORY_IDs.ACCESSORY_Larva_Yellow_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Starry_Long_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Flower_L_Knitting] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Magic_Celestial_Globe] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Omega_Golf_Bag] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Yesterday_Once_More] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_Soccer_Ball] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_KID_DEVILING] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_Black_Magenta_Ribbon] = {Default = 301}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fishbone_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_King_Mini] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Angeling_Mini] = {Default = 304, isIgnoreRiding = true}
@@ -12,6 +40,14 @@ Items_List = {
 [ACCESSORY_IDs.ACCESSORY_C_Seyren_Mini] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Gulaling_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Marlbron_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Lehar_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Evil_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Spica_Mini] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_Cons_Of_Poison] = {Default = 403, 
 Direction = {}
@@ -537,7 +573,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 303}
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 302}
 , 
 [ACCESSORY_IDs.ACCESSORY_Mouton_Life] = {Default = 171, 
 Direction = {}
