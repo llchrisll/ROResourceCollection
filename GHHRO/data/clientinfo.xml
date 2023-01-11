@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	<desc>MSP Live Server</desc>
+	<servicetype>philippine</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+	
+	<connection>
+		<display>MSP Live</display>
+		<desc>None</desc>
+		<address>18.136.20.146</address>
+		<port>6900</port>
+		<version>15</version>
+		<registrationweb></registrationweb>
+		<aid>
+		</aid>
+	</connection>
+</clientinfo>
+
