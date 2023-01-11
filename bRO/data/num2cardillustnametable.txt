@@ -1246,3 +1246,25 @@
 27117#불길한어절터카드#
 27118#불길한프리저카드#
 27119#불길한터틀제네럴카드#
+
+//2022-10-18
+27212#sorry#
+
+//2022 3Q EP17.1 카드
+27304#E_Ea2s_Card#
+27305#El_a17t_Card#
+27306#Bellare_Card#
+27307#High_Bellare_Card#
+27308#Sanare_Card#
+27309#High_Sanare_Card#
+27310#Plaga_Card#
+27311#Mutant_Plaga_Card#
+27312#Dolor_Card#
+27313#Mt_Dolor_Card#
+27314#Venenum_Card#
+27315#Mt_Venenum_Card#
+27316#Twin_Caput_Card#
+27317#Mt_Caput_Card#
+27318#Miguel_Card#
+27319#R48_85_Bestia_Card#
+27320#E_Ea1l_Card#

@@ -1306,3 +1306,53 @@
 27103#Zumbi#
 27104#da Compaixão#
 27105#da Promessa#
+//*****************************************************
+//---------------Update em 2022-10-18------------------
+//*****************************************************
+27212#de Reflexão Selada#
+//*****************************************************
+//--------------------Episode 17.1---------------------
+//*****************************************************
+27304#da Recuperação#
+27305#de Hela#
+27306#do Tambor#
+27307#de Expurgar#
+27308#da Restauração#
+27309#Benevolente#
+27310#Neutral#
+27311#Enorme#
+27312#Perfurante#
+27313#da Perícia#
+27314#do Poder Animal#
+27315#da Magia Animal#
+27316#Antiveneno#
+27317#Penetrante#
+27318#do Tigre#
+27319#Insalubre#
+27320#do Fogo Mágico#
+29527#(N-DEF) #
+29528#(N-DEFM) #
+29529#(S-HPR) #
+29530#(S-SPMax) #
+29531#(S-HPMax) #
+29532#(S-SPR) #
+29533#(S-Cura) #
+29534#(S-ATQ) #
+29535#(S-ATQM) #
+29536#(S-Tiro) #
+29537#(S-Rapidez) #
+29538#(S-Magia) #
+29539#(S-CRIT) #
+29540#(U-Pós) #
+29541#(U-Fixa) #
+29542#(U-Total) #
+29543#(U-Vida) #
+29544#(U-Alma) #
+29545#(U-Mental) #
+29546#(U-Mana) #
+29547#(L-Eternidade) #
+29548#(L-Sortilégio) #
+29549#(L-Astúcia) #
+29550#(L-Superpoder) #
+29551#(L-Lampejo) #
+29552#(L-Fortuna) #

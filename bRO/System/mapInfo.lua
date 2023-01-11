@@ -36,48 +36,48 @@ signName = {mainTitle = "Caverna de Magma (3)"}
 signName = {subTitle = "Glast Heim", mainTitle = "Castelo Contaminado"}
 , backgroundBmp = "dungeon"}
 , 
-["1@cor.rsw"] = {displayName = "Memorial Cor", notifyEnter = true, 
-signName = {mainTitle = "Cor"}
+["1@cor.rsw"] = {displayName = "Memorial COR", notifyEnter = true, 
+signName = {mainTitle = "Memorial COR"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["1@os_a.rsw"] = {displayName = "Acampamento OS", notifyEnter = true, 
-signName = {mainTitle = "Acampamento OS"}
+["1@os_a.rsw"] = {displayName = "Missão de Ocupação OS", notifyEnter = true, 
+signName = {mainTitle = "Distrito OS"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["1@os_b.rsw"] = {displayName = "OS Restrito", notifyEnter = true, 
-signName = {mainTitle = "OS Restrito"}
+signName = {mainTitle = "Distrito OS"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["1@rgsr.rsw"] = {displayName = "Regenschirm", notifyEnter = true, 
-signName = {subTitle = "Laboratório de Somatologia", mainTitle = "Regenschirm"}
+["1@rgsr.rsw"] = {displayName = "Laboratório Regenschirm", notifyEnter = true, 
+signName = {subTitle = "Laboratório afiliado da Rekenber", mainTitle = "Regenschirm"}
 , backgroundBmp = "dungeon"}
 , 
 ["rgsr_in.rsw"] = {displayName = "Regenschirm", notifyEnter = true, 
 signName = {mainTitle = "Regenschirm"}
 , backgroundBmp = "village_s2"}
 , 
-["pub_cat.rsw"] = {displayName = "Gato na Bala", notifyEnter = true, 
-signName = {subTitle = "Bar e Restaurante", mainTitle = "Gato na Bala"}
+["pub_cat.rsw"] = {displayName = "Miado de Bala", notifyEnter = true, 
+signName = {subTitle = "Boteco da Rebelião", mainTitle = "Miado de Bala"}
 , backgroundBmp = "village"}
 , 
-["sp_cor.rsw"] = {displayName = "Acampamento OS", notifyEnter = true, 
-signName = {subTitle = "Acampamento OS", mainTitle = "Área de Segurança"}
+["sp_cor.rsw"] = {displayName = "Distrito COR", notifyEnter = true, 
+signName = {subTitle = "Zona especial de fronteira", mainTitle = "Distrito COR"}
 , backgroundBmp = "field"}
 , 
-["sp_os.rsw"] = {displayName = "Fronteira OS", notifyEnter = true, 
-signName = {subTitle = "Fronteira OS", mainTitle = "Área Especial"}
+["sp_os.rsw"] = {displayName = "Distrito OS", notifyEnter = true, 
+signName = {subTitle = "Zona especial de fronteira", mainTitle = "Distrito OS"}
 , backgroundBmp = "dungeon"}
 , 
 ["sp_rudus.rsw"] = {displayName = "Rudus (1)", notifyEnter = true, 
-signName = {subTitle = "Centro de Rejeitos", mainTitle = "Rudus (1)"}
+signName = {subTitle = "Depósito de cobaias rejeitadas", mainTitle = "Rudus (1)"}
 , backgroundBmp = "dungeon"}
 , 
 ["sp_rudus2.rsw"] = {displayName = "Rudus (2)", notifyEnter = true, 
-signName = {subTitle = "Centro de Rejeitos", mainTitle = "Rudus (2)"}
+signName = {subTitle = "Depósito de cobaias rejeitadas", mainTitle = "Rudus (2)"}
 , backgroundBmp = "dungeon"}
 , 
 ["sp_rudus3.rsw"] = {displayName = "Rudus (3)", notifyEnter = true, 
-signName = {subTitle = "Centro de Rejeitos", mainTitle = "Rudus (3)"}
+signName = {subTitle = "Depósito de cobaias rejeitadas", mainTitle = "Rudus (3)"}
 , backgroundBmp = "dungeon"}
 , 
 ["star_frst.rsw"] = {displayName = "Dojang do Bosque Meteoro", notifyEnter = true, 
@@ -131,16 +131,16 @@ signName = {mainTitle = "Pesadelo Musical"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["x_prt.rsw"] = {displayName = "Prontera Dimensional", notifyEnter = true, 
-signName = {subTitle = "Guerra do Tesouro", mainTitle = "Prontera"}
-, backgroundBmp = "siege"}
+signName = {subTitle = "Dimensão Paralela", mainTitle = "Prontera"}
+, backgroundBmp = "noname"}
 , 
 ["x_lhz.rsw"] = {displayName = "Lighthalzen Dimensional", notifyEnter = true, 
-signName = {subTitle = "Guerra do Tesouro", mainTitle = "Lighthalzen"}
-, backgroundBmp = "siege"}
+signName = {subTitle = "Dimensão Paralela", mainTitle = "Lighthalzen"}
+, backgroundBmp = "noname"}
 , 
 ["x_ra.rsw"] = {displayName = "Rachel Dimensional", notifyEnter = true, 
-signName = {subTitle = "Guerra do Tesouro", mainTitle = "Rachel"}
-, backgroundBmp = "siege"}
+signName = {subTitle = "Dimensão Paralela", mainTitle = "Rachel"}
+, backgroundBmp = "noname"}
 , 
 ["lasa_sea.rsw"] = {displayName = "Mar de Lasagna", notifyEnter = true, 
 signName = {mainTitle = "Mar de Lasagna"}

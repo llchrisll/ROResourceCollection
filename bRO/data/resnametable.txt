@@ -1661,3 +1661,30 @@ iz_ac02_d.rsw#iz_ac02.rsw#
 1@pop1.gat#1@pop1.gat#
 1@pop1.rsw#1@pop1.rsw#
 유저인터페이스\map\1@pop1.bmp#유저인터페이스\map\1@pop1.bmp#
+
+1@crd.gnd#1@crd.gnd#
+1@crd.gat#1@crd.gat#
+1@crd.rsw#1@crd.rsw#
+유저인터페이스\map\1@crd.bmp#유저인터페이스\map\1@crd.bmp#
+
+//2022 3Q EP17.1
+//201805 17.1 추가맵
+1@cor.gnd#1@cor.gnd#
+1@cor.gat#1@cor.gat#
+1@cor.rsw#1@cor.rsw#
+유저인터페이스\map\1@cor.bmp#유저인터페이스\map\1@cor.bmp#
+
+1@os_a.gnd#1@os_a.gnd#
+1@os_a.gat#1@os_a.gat#
+1@os_a.rsw#1@os_a.rsw#
+유저인터페이스\map\1@os_a.bmp#유저인터페이스\map\1@os_a.bmp#
+
+1@os_b.gnd#1@os_b.gnd#
+1@os_b.gat#1@os_b.gat#
+1@os_b.rsw#1@os_b.rsw#
+유저인터페이스\map\1@os_b.bmp#유저인터페이스\map\1@os_b.bmp#
+
+1@rgsr.gnd#1@rgsr.gnd#
+1@rgsr.gat#1@rgsr.gat#
+1@rgsr.rsw#1@rgsr.rsw#
+유저인터페이스\map\1@rgsr.bmp#유저인터페이스\map\1@rgsr.bmp#

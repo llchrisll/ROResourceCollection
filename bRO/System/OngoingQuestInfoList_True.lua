@@ -18556,5 +18556,663 @@ Description = {"Fale com a garota no meio da solitária vila das boas tartarugas 
 [16117] = {Title = "Ilusão da Tartaruga", 
 Description = {"Fale com a garota no meio da solitária vila das boas tartarugas novamente."}
 , Summary = "Fale com a garota"}
+, 
+[3336] = {Title = "Milho Dourado", IconName = "ico_ev.bmp", 
+Description = {"Elimine 3 Imps e 3 Explosões e fale com o <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[3337] = {Title = "Milho Dourado", IconName = "ico_ev.bmp", 
+Description = {"Vamos eliminar 3 Imps e 3 Explosões para o <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[3338] = {Title = "[Espera] Milho Dourado", IconName = "ico_ev.bmp", 
+Description = {"O <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI> quer que voc\234 volte amanh\227."}
+, Summary = "Volte amanh\227."}
+, 
+[3339] = {Title = "Festa da Pipoca", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Kerlin]<INFO>comodo,262,126,0,101,0</INFO></NAVI> precisa de ^4d4dff30 Orbes Quentes^000000 para registrar voc\234 na festa."}
+, Summary = "30 Orbes Quentes"}
+, 
+[3340] = {Title = "Vulcão", IconName = "ico_ev.bmp", 
+Description = {"Fale com o <NAVI>[Guia]<INFO>comodo,264,123,0,101,0</INFO></NAVI> para explorar o vulcão."}
+, Summary = "Explore o Vulcão"}
+, 
+[3341] = {Title = "Vulcão", IconName = "ico_ev.bmp", 
+Description = {"Fale com o <NAVI>[Guia]<INFO>comodo,264,123,0,101,0</INFO></NAVI> para explorar o vulcão."}
+, Summary = "Explore o Vulcão"}
+, 
+[3342] = {Title = "[Espera] Vulcão", IconName = "ico_ev.bmp", 
+Description = {"O <NAVI>[Guia]<INFO>comodo,264,123,0,101,0</INFO></NAVI> quer que voc\234 volte amanh\227."}
+, Summary = "Volte amanh\227."}
+, 
+[3343] = {Title = "Ervas Saudáveis", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI> quer 3 Ervas Mágicas."}
+, Summary = "3 Ervas Mágicas"}
+, 
+[3344] = {Title = "Ervas Saudáveis", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI> quer 3 Ervas Mágicas."}
+, Summary = ""}
+, 
+[3345] = {Title = "[Espera] Ervas Saudáveis", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI> quer que voc\234 volte amanh\227."}
+, Summary = "Volte amanh\227."}
+, 
+[3346] = {Title = "Festa da Pipoca", IconName = "ico_ev.bmp", 
+Description = {"A melhor pipoca de Midgard."}
+, Summary = ""}
+, 
+[3347] = {Title = "Fogo Quentinho", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Fogo Quentinho]<INFO>comodo,289,176,0,101,0</INFO></NAVI> pode ser usado novamente após 90 minutos."}
+, Summary = "Retorno em 90 minutos"}
+, 
+[3348] = {Title = "Fogo Perene", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Fogo Perene]<INFO>comodo,294,176,0,101,0</INFO></NAVI> pode ser usado novamente após 90 minutos."}
+, Summary = "Retorno em 90 minutos"}
+, 
+[3349] = {Title = "Fogo Selvagem", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Fogo Selvagem]<INFO>comodo,299,176,0,101,0</INFO></NAVI> pode ser usado novamente após 90 minutos."}
+, Summary = "Retorno em 90 minutos"}
+, 
+[3350] = {Title = "Festa da Pipoca", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Kerlin]<INFO>comodo,262,126,0,101,0</INFO></NAVI> quer ^4d4dff50 Orbes Quentes^000000 para fazer um ^4d4dffVisual de Pipoca^000000 novo."}
+, Summary = "50 Orbes Quentes"}
+, 
+[12421] = {Title = "Anomalia Dimensional", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 recebeu sua recompensa por ter salvado uma outra dimensão. Agora voc\234 s\243 poder\225 receber sua próxima recompensa após o horário combinado."}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[12422] = {Title = "Anomalia Dimensional", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 recebeu o convite do Grande Sábio Varmunt. Vamos seguir para a outra dimensão."}
+, Summary = "Fale com Varmunt"}
+, 
+[12423] = {Title = "Anomalia Dimensional", IconName = "ico_ev.bmp", 
+Description = {"Nessa nova dimensão, seu objetivo \233 proteger a Pedra Guardi\227 dos monstros terríveis."}
+, Summary = "Proteja a Pedra Guardi\227"}
+, 
+[12456] = {Title = "Anomalia Dimensional", 
+Description = {"Voc\234 viajou entre as rachaduras dimensionais e \233 recomendável aguardar um tempo."}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[12543] = {Title = "Anomalia Dimensional", 
+Description = {"Voc\234 recebeu essa missão porque resgatou um personagem booster."}
+, Summary = "Promoção de verão"}
+, 
+[291096] = {Title = "União dos Solteiros", 
+Description = {"Voc\234 faz parte da União dos Solteiros. Encontre mais 5 Dorams em Juno pra fazerem parte dessa União!"}
+, Summary = "Encontre 5 Dorams solteiros."}
+, 
+[291097] = {Title = "União dos Solteiros", 
+Description = {"Junte 5 pontos fazendo casais se separarem ou discutirem em Juno. Vale tudo!"}
+, Summary = "Procure e separe casais em Juno."}
+, 
+[291098] = {Title = "União dos Solteiros", 
+Description = {"Casais separados! Hora de procurar Hansolo."}
+, Summary = "Pegue sua recompensa com Hansolo! "}
+, 
+[291099] = {Title = "Passando por Ajustes", 
+Description = {"Passando por Ajustes"}
+, Summary = ""}
+, 
+[291100] = {Title = "União dos Solteiros", 
+Description = {"Missão Cumprida! Ser\225 possível separar os casais novamente a cada 23 horas. Mal posso esperar!"}
+, Summary = "Retorne mais tarde."}
+, 
+[291101] = {Title = "União dos Solteiros", 
+Description = {"Recrutando membros por a\237..."}
+, Summary = "Novo membro recrutado! "}
+, 
+[291102] = {Title = "União dos Solteiros", 
+Description = {"Recrutando membros por a\237..."}
+, Summary = "Novo membro recrutado! "}
+, 
+[291103] = {Title = "União dos Solteiros", 
+Description = {"Recrutando membros por a\237..."}
+, Summary = "Novo membro recrutado! "}
+, 
+[291104] = {Title = "União dos Solteiros", 
+Description = {"Recrutando membros por a\237..."}
+, Summary = "Novo membro recrutado! "}
+, 
+[291105] = {Title = "União dos Solteiros", 
+Description = {"Recrutando membros por a\237..."}
+, Summary = "Novo membro recrutado! "}
+, 
+[5856] = {Title = "Meu nome \233 Morning", IconName = "ico_nq.bmp", 
+Description = {"Saudações a quem ler esta nota.", "Precisei sair, então deixei essa criança aqui.", "Ela \233 uma cobaia despejada em Rudus, seu nome \233 <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>.", "Ele s\243 come no horário de Caf\233 da Manh\227.", "Por favor, alimente-o.", "   - Olg"}
+, Summary = "", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200}
+, 
+[5857] = {Title = "Amigos para Morning", IconName = "ico_nq.bmp", 
+Description = {"Saudações a quem ler esta nota.", "Obrigado por alimentar Morning. Ele me contou sobre o quanto gostava de Poring. Se ele tivesse um bichinho de estimação, seria menos solitário.", "Então, poderia dar um<ITEM>[Ovo de Poring]<INFO>9001</INFO></ITEM> para Morning? Por favor.", "   - Olg"}
+, Summary = "[1 Ovo de Poring", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "Nv. 110 5%", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25723, ItemNum = 3}
+}
+}
+, 
+[5858] = {Title = "Amigos para Morning", IconName = "ico_nq.bmp", 
+Description = {"Saudações a quem ler esta nota.", "Parece que Morning reconheceu voc\234 como amigo?", "Ele cita um gafanhoto cantor de Rock que quer fazer amizade.", "Desta vez, traga um <ITEM>[Ovo de Rocker] <INFO>9011</INFO></ITEM>, por favor.", "   - Olg"}
+, Summary = "1 Ovo de Rocker", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "Nv. 110 5%", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25723, ItemNum = 3}
+}
+}
+, 
+[5859] = {Title = "Amigos para Morning", IconName = "ico_nq.bmp", 
+Description = {"Saudações a quem ler esta nota.", "Morning tem curiosidade sobre Pickys depois que contei algumas histórias de fantasia sobre eles.", "Por favor, traga <ITEM>[Ovo de Picky]<INFO>9005</INFO></ITEM> para Morning não se sentir s\243.", "   - Olg"}
+, Summary = "1 Ovo de Picky", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "Nv. 110 5%", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25723, ItemNum = 3}
+}
+}
+, 
+[5860] = {Title = "Amigos para Morning", IconName = "ico_nq.bmp", 
+Description = {"Saudações a quem ler esta nota.", "Eu e Morning brincamos de coelho da páscoa. Agora ele quer um companheiro felpudo.", "Poderia trazer 1 <ITEM>[Ovo do Lunático]<INFO>9004</INFO></ITEM>? Por favor.", "   - Olg"}
+, Summary = "1 Ovo Lunático", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "Nv. 110 5%", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25723, ItemNum = 6}
+}
+}
+, 
+[5861] = {Title = "Morning - [Espera]", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Morning] <INFO>sp_rudus,130,200,000,0</INFO></NAVI> j\225 se alimentou hoje. Se voc\234 puder, poderia cuidar dele amanh\227 também?"}
+, Summary = "Volte amanh\227", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200}
+, 
+[5862] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quer comer 10 <ITEM>[Jellopy] <INFO>909</INFO></ITEM> hoje."}
+, Summary = "10 Jellopy", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5863] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quer 10 <ITEM>[Raiz de Árvore]<INFO>902</INFO></ITEM> hoje."}
+, Summary = "10 Raiz de Árvore", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5864] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quero 10 <ITEM>[Perna de Gafanhoto] <INFO>940</INFO></ITEM> hoje."}
+, Summary = "10 Perna de Gafanhoto", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5865] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quer 10 <ITEM>[Trevo]<INFO>705</INFO></ITEM> hoje."}
+, Summary = "Trevo 10", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5866] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quer 10 <ITEM>[Plumas de Ave] <INFO>916</INFO></ITEM> hoje."}
+, Summary = "10 Plumas de Ave", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5867] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quer 10 <ITEM>[Cauda de Rato]INFO>1016</INFO></ITEM> hoje."}
+, Summary = "Cauda de Rato 10", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5868] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quer 10 <ITEM>[Canino Venenoso]<INFO>937</INFO></ITEM> hoje."}
+, Summary = "10 Canino Venenoso", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5869] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quer 10 <ITEM>[Cauda de Yoyo]<INFO>942</INFO></ITEM> hoje."}
+, Summary = "10 Cauda de Yoyo", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5870] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quer 10 <ITEM>[Dente de Morcego]<INFO>913</INFO></ITEM> hoje."}
+, Summary = "10 Dente de Morcego", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[5871] = {Title = "Caf\233 de Morning", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>quer 10 <ITEM>[Pata de Urso]<INFO>948</INFO></ITEM> hoje."}
+, Summary = "10 Pata de Urso", NpcSpr = "4_EP17_MORNING", NpcNavi = "sp_rudus", NpcPosX = 130, NpcPosY = 200, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 5}
+, 
+{ItemID = 25723, ItemNum = 1}
+}
+}
+, 
+[7850] = {Title = "Miado de Bala", IconName = "ico_ep.bmp", 
+Description = {"A Rebelião me informou que estão usando o <NAVI>[Miado de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> como esconderijo para cobrir a área de operação recentemente expandida."}
+, Summary = "Fale com Tess no bar"}
+, 
+[7851] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"Tess quer que voc\234 investigue <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>. Para entrar, fale com o Membro da Rebelião na porta."}
+, Summary = "Fale com Elena Bolkova"}
+, 
+[7852] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"Elena Bolkova pediu que voc\234 fale com Lukie em <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com o Lukie"}
+, 
+[7853] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"Próximo da muralha de <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> estão alguns membros da Rebelião. Lukie quer voc\234 converse com eles."}
+, Summary = "Investigue a área"}
+, 
+[7854] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"A muralha \233 construída sobre os trilhos da ferrovia e parece ter sido construída depois que a mineradora se tornou uma mina abandonada."}
+, Summary = "Achou a ferrovia"}
+, 
+[7855] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"Uma torre de vigia alta o suficiente para olhar por cima da muralha. A mineradora não precisa uma torre de vigia como esta... "}
+, Summary = "Achou a Torre de Vigia"}
+, 
+[7856] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"H\225 um buraco que \233 muito pequeno para um adulto passar."}
+, Summary = "Achou um buraco"}
+, 
+[7857] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"Acho que j\225 investiguei tudo ao redor da muralha. Vamos passar as informações coletadas para Lukie."}
+, Summary = "Fale com Lukie"}
+, 
+[7858] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"Alguns dos membros da Rebelião estão preocupados com o som vindo depois da muralha. Se a fonte do som for monstros, Lukie pediu que voc\234 se livre deles."}
+, Summary = "Elimine", RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25723, ItemNum = 15}
+}
+}
+, 
+[7859] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"Volte para o Miado de Bala e informe <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. Elena disse que Rudus era um depósito de lixo..."}
+, Summary = "Relate para Tess"}
+, 
+[7860] = {Title = "Investigando Rudus", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> pede que voc\234 fale com o Aposentado para acessar a sala secreta."}
+, Summary = "Fale com o Aposentado"}
+, 
+[7861] = {Title = "Invasão na Regenschirm", IconName = "ico_ep.bmp", 
+Description = {"Decidi me juntar \224 Est para reconquistar a Regenschirm dominada por traidores. Fale com o <NAVI>[Guarda da República]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Fale com o Guarda da República"}
+, 
+[7862] = {Title = "Invasão na Regenschirm", IconName = "ico_ep.bmp", 
+Description = {"Vamos invadir o Laboratório Regenschirm falando com o <NAVI>[Guarda Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>."}
+, Summary = "Complete a instância"}
+, 
+[7863] = {Title = "Invasão na Regenschirm", IconName = "ico_ep.bmp", 
+Description = {"Estes são os dados relativos \224 Equipe de Segurança da Rekenber, leve-os para Philopontess."}
+, Summary = "Relatar para Tess", RewardEXP = "200.000", RewardJEXP = "200.000"}
+, 
+[7864] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Agora voc\234 pode passar pelo Wilde, o arruaceiro mal encarado no Miado de Bala. Atrás dele, Nalandro estar\225 esperando por voc\234."}
+, Summary = "Fale com Nalandro"}
+, 
+[7865] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"Uma nova missão est\225 programada para ser realizada nas mineradoras abandonadas \224 noroeste de Einbroch. Vamos encontrar o <NAVI>[Membro da Rebelião]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> que est\225 esperando por voc\234."}
+, Summary = "Membro da Rebelião"}
+, 
+[7866] = {Title = "Invasão na Regenschirm", IconName = "ico_ep.bmp", 
+Description = {"Volte para o [Miado de Bala] e relate os resultados da invasão ao laboratório para <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>"}
+, Summary = "Fale com Tess", RewardEXP = "1.000.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25669, ItemNum = 25}
+}
+}
+, 
+[7867] = {Title = "Caça aos Caçadores", IconName = "ico_dq.bmp", 
+Description = {"O membro da Rebelião, <NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> quer que voc\234 derrote os Caça-Coração Bellare e Sanare no Distrito OS."}
+, Summary = "Elimine", RewardEXP = "200000", RewardJEXP = "200000"}
+, 
+[7868] = {Title = "[Espera] Caça aos Caçadores", IconName = "ico_dq.bmp", 
+Description = {"Esta missão \233 uma missão diária. Voc\234 pode receb\234-la novamente quando o tempo de espera expirar.", "Volte a falar com <NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> no Distrito COR."}
+, Summary = "Volte amanh\227"}
+, 
+[11596] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"Vamos olhar ao redor da área da mina abandonada."}
+, Summary = "Siga a navegação"}
+, 
+[11597] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"Eu não vi nada de especial. Vamos procurar em outro lugar."}
+, Summary = "Siga a navegação"}
+, 
+[11598] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"Eu não vi nada de especial. Vamos procurar em outro lugar."}
+, Summary = "Siga a navegação"}
+, 
+[11599] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"Eu não vi nada de especial. Vamos voltar para o Membro da Rebelião."}
+, Summary = "Membro da Rebelião", RewardEXP = 100000, RewardJEXP = 100000}
+, 
+[11600] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"Vamos olhar dentro da mina abandonada onde a estrada est\225 bloqueada."}
+, Summary = "Complete a instância", RewardEXP = 600000, RewardJEXP = 600000}
+, 
+[11601] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"Parece que Dien não anda sem seu amuleto da sorte. Volte para Clana Nemieri, em Einbech, e fale com a Membra da Rebelião."}
+, Summary = "Para Clana Nemieri"}
+, 
+[11602] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"No quarto das Veteranas, procure pela Caixa Decorada."}
+, Summary = "Caixa Decorada"}
+, 
+[11603] = {Title = "Como nos velhos tempos", IconName = "ico_ep.bmp", 
+Description = {"Voc\234 encontrou o amuleto de Dien. Volte para os arredores de Einbroch 03, entre no <NAVI>[Distrito OS]<INFO>sp_os,252,359,0,101,0</INFO></NAVI> e fale com Dien."}
+, Summary = "Volte para Dien", RewardEXP = 200000, RewardJEXP = 100000}
+, 
+[12452] = {Title = "Ocupação OS", 
+Description = {"A rota da ferrovia precisa ser ocupada pelas tropas militares da Rebelião."}
+, Summary = "Complete a instância"}
+, 
+[12453] = {Title = "[Espera] Ocupação OS", 
+Description = {"O portão para OS est\225 temporariamente fechado. Vamos esperar at\233 que o bloqueio seja retirado."}
+, Summary = "Aguarde"}
+, 
+[12454] = {Title = "Missão OS", 
+Description = {"O Distrito OS precisa ser ocupado novamente para avanço das tropas militares da Rebelião. ."}
+, Summary = "Complete a instância"}
+, 
+[12455] = {Title = "[Espera] Missão OS", 
+Description = {"A operação de ocupação do Distrito OS est\225 suspensa temporariamente. Volte outro dia."}
+, Summary = "Volte amanh\227"}
+, 
+[16352] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"Vamos falar com Elena Bolkova"}
+}
+, 
+[16353] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"Ocorreu uma explosão perto da instalação principal. Siga Elena e verifique a <NAVI>[situação]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."}
+, Summary = "V\225 para o local"}
+, 
+[16354] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"Precisamos capturar Elyumina! Fale com a <NAVI>[Elena Bolkova]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI> e inicie as operações especiais."}
+, Summary = "Complete a instância"}
+, 
+[16355] = {Title = "Caixa Suspeita", IconName = "ico_ep.bmp", 
+Description = {"A caixa foi ativada. Derrote o monstro pisando na bio-bateria e fale com a Rebelde."}
+, Summary = "Elimine monstros"}
+, 
+[16356] = {Title = "Caixa Suspeita", IconName = "ico_ep.bmp", 
+Description = {"A caixa foi ativada. Cuidado para não tocar no veneno químico, e depois de matar o monstro, fale com a Rebelde."}
+, Summary = "Cuidado com o veneno"}
+, 
+[16357] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"Capturamos a cientista com sucesso, vamos voltar a falar com <NAVI>[Elena Bolkova]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>"}
+, Summary = "Fale com Elena"}
+, 
+[16358] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"Vão interrogar a cientista capturada. Vamos para <NAVI>[as barracas]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> e observar o interrogatório"}
+, Summary = "Fale com Gonie"}
+, 
+[16359] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Lukie]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI> decidiu liderar o interrogatório. Vamos ficar um ao lado do outro e abrir os olhos o máximo que pudermos."}
+, Summary = "Fale com Lukie"}
+, 
+[16360] = {Title = "A Mansão de Varmunt", IconName = "ico_ep.bmp", 
+Description = {"Com o testemunho de Elymina, ela disse que sabe como entrar na Mansão de Varmunt. Vamos at\233 o <NAVI>[canal de esgoto]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>"}
+, Summary = "Fale com Lukie"}
+, 
+[16361] = {Title = "Memorial COR", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Insurgente] <INFO>sp_cor,113,130,0,101,0</INFO></NAVI> quer que voc\234 desarme as armadilhas de Elyumina novamente."}
+, Summary = "Complete a instância"}
+, 
+[16362] = {Title = "[Espera] COR", IconName = "ico_dq.bmp", 
+Description = {"Esta missão \233 uma missão diária e voc\234 pode receb\234-la novamente quando o tempo de espera expirar. Voc\234 poder\225 voltar com o <NAVI>[Insurgente]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>"}
+, Summary = "Volte amanh\227"}
+, 
+[16363] = {Title = "Elimine EL1-A17T", IconName = "ico_dq.bmp", 
+Description = {"EL1-A17T foi eliminado com sucesso"}
+}
+, 
+[16364] = {Title = "Trabalhos Agrícolas", IconName = "ico_dq.bmp", 
+Description = {"A <NAVI>[fazenda]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> est\225 com falta de mão-de-obra. Devemos cuidar dos vegetais no campo."}
+, Summary = "Verifique as plantas"}
+, 
+[16546] = {Title = "Trabalhos Agrícolas", IconName = "ico_dq.bmp", 
+Description = {"Eu fiz tudo. Voltemos ao <NAVI>[Fazendeiro]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>."}
+, Summary = "Volte ao Fazendeiro"}
+, 
+[16365] = {Title = "[Espera] Trabalhos Agrícolas", IconName = "ico_dq.bmp", 
+Description = {"Esta missão \233 uma missão diária, e voc\234 pode receb\234-la novamente quando o tempo de espera expirar.", "Voc\234 pode receber a missão através do <NAVI>[Fazendeiro]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>"}
+, Summary = "Volte amanh\227"}
+, 
+[16366] = {Title = "Trabalhos Agrícolas", IconName = "ico_dq.bmp", 
+Description = {"A <NAVI>[Fazenda]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> est\225 com falta de mão-de-obra. Vamos cuidar dos vegetais no campo."}
+, Summary = "Cuide das plantas"}
+, 
+[16367] = {Title = "Agricultura - Uvas", IconName = "ico_dq.bmp", 
+Description = {"Vamos tirar os pulgões das <NAVI>[Uvas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."}
+, Summary = "Retire os Pulgões"}
+, 
+[16368] = {Title = "Agricultura - Uvas", IconName = "ico_dq.bmp", 
+Description = {"Vamos fertilizar as <NAVI>[Uvas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."}
+, Summary = "Fertilize as Uvas"}
+, 
+[16369] = {Title = "Agricultura - Uvas", IconName = "ico_dq.bmp", 
+Description = {"Vamos remover as ervas daninhas das <NAVI>[Uvas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."}
+, Summary = "Remova Ervas Daninhas"}
+, 
+[16370] = {Title = "Agricultura - Feijão", IconName = "ico_dq.bmp", 
+Description = {"Vamos tirar os pulgões dos <NAVI>[Feijões]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>."}
+, Summary = "Retire os Pulgões"}
+, 
+[16371] = {Title = "Agricultura - Feijão", IconName = "ico_dq.bmp", 
+Description = {"Vamos fertilizar os <NAVI>[Feijões]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>."}
+, Summary = "Fertilize os Feijões"}
+, 
+[16372] = {Title = "Agricultura - Feijão", IconName = "ico_dq.bmp", 
+Description = {"Vamos remover as ervas daninhas das <NAVI>[Green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>."}
+, Summary = "Remova Ervas Daninhas"}
+, 
+[16373] = {Title = "Agricultura - Abóbora", IconName = "ico_dq.bmp", 
+Description = {"Vamos tirar os pulgões das <NAVI>[Abóboras]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI>."}
+, Summary = "Retire os Pulgões"}
+, 
+[16374] = {Title = "Agricultura - Abóbora", IconName = "ico_dq.bmp", 
+Description = {"Vamos fertilizar as <NAVI>[Abóboras]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI>."}
+, Summary = "Fertilize as Abóboras"}
+, 
+[16375] = {Title = "Agricultura - Abóbora", IconName = "ico_dq.bmp", 
+Description = {"Vamos remover as ervas daninhas das <NAVI>[Abóboras]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI>."}
+, Summary = "Remova Ervas Daninhas"}
+, 
+[16376] = {Title = "Máquina Mortífera", IconName = "ico_dq.bmp", 
+Description = {"Elimine EL1-A17T, a criação mais poderosa da Elyumina."}
+, Summary = "Elimine"}
+, 
+[17000] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Nalandro]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> recusou-se a falar com o vice-presidente da Rekenber, Kaya Toss. Vamos perguntar qual \233 a história."}
+, Summary = "Fale com Nalandro"}
+, 
+[17001] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Nalandro e o vice-presidente Kaya Toss não acreditam um no outro. Vamos fazer uma proprosta a <NAVI>[Kaya Toss]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Kaya Toss"}
+, 
+[17002] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Kaya Toss precisa de algum tempo para pensar. Vamos conversar com <NAVI>[Nalandro]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> para discutir isso."}
+, Summary = "Fale com Nalandro", RewardEXP = 300, RewardJEXP = 300}
+, 
+[17003] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Dirija-se para a entrada do <NAVI>[Aeroporto]<INFO>einbroch,42,208,0,101,0</INFO></NAVI> de Einbroch e fale com Nalandro."}
+, Summary = "Para o Aeroporto de Einbroch"}
+, 
+[17004] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"A partir de agora, vamos investigar toda a vida do Patrick Kaufman at\233 o seu sumiço. Encontre Nalandro em <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>."}
+, Summary = "Para Lighthalzen"}
+, 
+[17005] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Na Favela de Lighthalzen, v\225 at\233 a <NAVI>[Casa do Paca]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI>."}
+, Summary = "Casa de Patrick Kaufman", RewardEXP = 300, RewardJEXP = 300}
+, 
+[17006] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Como foi a turn\234 na favela? Siga para a entrada da <NAVI>[Rekenber]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI>. Vamos~"}
+, Summary = "Sede da Rekenber"}
+, 
+[17007] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Para onde os novos contratados vão primeiro? Converse com a <NAVI>[Funcionária]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI> dentro da Sede da Rekenber."}
+, Summary = "Dentro da Corporação"}
+, 
+[17008] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Todos foram para a <NAVI>[sala de reuniões]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI> no 2\186 andar da Rekenber, onde Patrick Kaufman começou a trabalhar em Rekenber."}
+, Summary = "Sala de Reuniões"}
+, 
+[17009] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Por que levam apenas pessoas saudáveis? Vamos para o laboratório Regenschirm, fica no <NAVI>[prédio anexo]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI> da Rekenber."}
+, Summary = "Para a Regenschirm"}
+, 
+[17010] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Patrick Kaufman? Quem \233 esse? desculpe. Não sei. Talvez o <NAVI>[Sammy]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> saiba melhor."}
+, Summary = "Fale com Sammy"}
+, 
+[17011] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Volte para a Corporação Rekenber e fale com o <NAVI>[Secretário]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI>."}
+, Summary = "Volte \224 Rekenber"}
+, 
+[17012] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Se voc\234 quiser fazer coisas em segredo, v\225 para a <NAVI>[Sala de Arquivo]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI> em vez de passar pela equipe de RH."}
+, Summary = "Para a Sala de Arquivo"}
+, 
+[17013] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Patrick foi transferido para um <NAVI>[laboratório]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI> nos arredores de Einbroch, setor 01-95-146."}
+, Summary = "Arredores de Einbroch", RewardEXP = 600000, RewardJEXP = 600000, 
+RewardItemList = {
+{ItemID = 25723, ItemNum = 20}
+}
+}
+, 
+[17014] = {Title = "Crise na Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Os laboratórios McDonnell e Sinclair não existem. Não h\225 nada mais para ser investigado.", "Vamos voltar para o <NAVI>[Miado de Bala]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>"}
+, Summary = "Volte ao Miado de Bala"}
+, 
+[17015] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"Estas pessoas trabalham no laboratório de pesquisa.", "Vamos ouvir o que <NAVI>[Kaya Toss]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> tem a dizer."}
+, Summary = "persuasão de Kaya Toss"}
+, 
+[17016] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"Não importa o que voc\234 diga, não vão ouvir. Isso não vai chegar a uma conclusão. Vamos conversar com <NAVI>[Tess]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI> e tomar uma medida juntos."}
+, Summary = "Fale com Tess"}
+, 
+[17017] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"Pegue os feridos e v\225 para um <NAVI>[lugar seguro]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>! Apresse-se!"}
+, Summary = "V\225 para um lugar seguro"}
+, 
+[17018] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Ace] <INFO>sp_cor,135,147,0,101,0</INFO></NAVI> diz que tem uma necessidade urgente de relatar a Kaya Toss."}
+, Summary = "Para Ace", RewardEXP = 300000, RewardJEXP = 300000}
+, 
+[17019] = {Title = "Capturando Elyumina", IconName = "ico_ep.bmp", 
+Description = {"A foragida est\225 atacando membros da Rebelião! Fale com o <NAVI>[Insurgente]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> e participe da operação!"}
+, Summary = "Fale com o Insurgente"}
+, 
+[17020] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Continue sua investigação sobre o sr. Patrick Kaufman. Talvez os <NAVI>[trabalhadores]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> possa dar algumas pistas."}
+, Summary = "Para os Trabalhadores"}
+, 
+[17021] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"De qualquer forma, se voc\234 estiver procurando por alguém, ter\225 que perguntar \224 assistente dos pesquisadores...", "Fale com a <NAVI>[Pesquisadora]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI> júnior."}
+, Summary = "Para a Assistente"}
+, 
+[17022] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Se voc\234 estiver procurando por uma pessoa, v\225 para a <NAVI>[Lavanderia]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>."}
+, Summary = "Para a Lavanderia", RewardEXP = 300000, RewardJEXP = 300000}
+, 
+[17023] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Se voc\234 estiver procurando por algo, v\225 para a <NAVI>[incineradora]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>."}
+, Summary = "Para a incineradora"}
+, 
+[17024] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Ouvi dizer que existe um <NAVI>[depósito de rejeitos]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> onde são jogadas fora coisas que estão muito contaminadas ou não podem ser queimadas."}
+, Summary = "Para Rudus"}
+, 
+[17025] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Escutei uma voz vindo <NAVI>[de algum lugar]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI>. Vamos seguir o som."}
+, Summary = "Para o outro lugar", RewardEXP = 300000, RewardJEXP = 300000}
+, 
+[17026] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Vamos encontrar um Bracelete de Identificação investigando um lixo. Deve estar em algum lugar no chão."}
+, Summary = "Bracelete de Identificação"}
+, 
+[17027] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Remexendo cuidadosamente a pilha de lixo, encontrei alguns braceletes de identificação, mas nenhum do Sr. Kaufman. Vamos procurar em outro lugar."}
+, Summary = "Em outro lugar"}
+, 
+[17028] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Eu vasculhei a pilha de lixo e encontrei Braceletes de Identificação de algumas outras pessoas. Vamos procurar em outro lugar."}
+, Summary = "Em outro lugar"}
+, 
+[17029] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Eu procurei muito, mas era tudo lixo. Vamos procurar em outro lugar."}
+, Summary = "Em outro lugar"}
+, 
+[17030] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Eu procurei e procurei de novo e de novo, mas nada parece ser encontrado. Vamos procurar em outro lugar."}
+, Summary = "Em outro lugar"}
+, 
+[17031] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Não havia nada aqui. Podemos encontrar uma pista do Sr. Kaufman... Vamos procurar em outro lugar."}
+, Summary = "Em outro lugar"}
+, 
+[17032] = {Title = "Procurando Patrick", IconName = "ico_ep.bmp", 
+Description = {"Eu desenterrei um bracelete que estava enterrado no lixo. Com isso, vamos voltar para <NAVI>[Kaya]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Kaya Toss", RewardEXP = 600000, RewardJEXP = 600000, 
+RewardItemList = {
+{ItemID = 25723, ItemNum = 20}
+}
+}
+, 
+[17033] = {Title = "Descanse em Paz", IconName = "ico_ep.bmp", 
+Description = {"A senhorita <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> ficar\225 encarregada de lhe dar a missão de encontrar novos braceletes de identificação."}
+, Summary = "Fale com Ace"}
+, 
+[17034] = {Title = "Descanse em Paz", IconName = "ico_ep.bmp", 
+Description = {"D\234 o descanso eterno para 20 cobaias chamadas Dolor, e eu gostaria de 10 Braceletes de Identificação. - <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"}
+, Summary = "10 Braceletes de Identificação", RewardEXP = 300000, RewardJEXP = 300000, 
+RewardItemList = {
+{ItemID = 25723, ItemNum = 1}
+, 
+{ItemID = 25669, ItemNum = 5}
+}
+}
+, 
+[17035] = {Title = "Descanse em Paz - Espera", IconName = "ico_ep.bmp", 
+Description = {"Vejo voc\234 depois do amanhecer. Voc\234 realmente trabalhou duro. - <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"}
+, Summary = "Volte amanh\227"}
+, 
+[17037] = {Title = "Esperar: substituir propriedade", IconName = "ico_ev.bmp", 
+Description = {"Uma vez por dia, voc\234 pode trocar os atributos concedidos ao manto do Guardião do Tempo gratuitamente. <NAVI>[Atribuidor de atributo]<INFO>prontera,154,279,0,101,0,</INFO></NAVI>"}
+, Summary = "Inicializar em 04"}
 }
 

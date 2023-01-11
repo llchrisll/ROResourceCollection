@@ -248,7 +248,7 @@ Navi_Map = {
 , 
 {"force_4-1", "Luta Contra o Tempo ", 5001, 200, 200}
 , 
-{"gef_d01_i", "Page 250", 5001, 300, 300}
+{"gef_d01_i", "Página 250", 5001, 300, 300}
 , 
 {"gef_dun00", "Calabouço de Geffen (1) ", 5001, 200, 200}
 , 
@@ -374,7 +374,7 @@ Navi_Map = {
 , 
 {"hu_fild02", "Campos de Hugel ", 5001, 400, 400}
 , 
-{"hu_fild03", "Campo de Caça", 5001, 400, 400}
+{"hu_fild03", "Campos de Hugel ", 5001, 400, 400}
 , 
 {"hu_fild04", "Campos de Hugel ", 5001, 400, 400}
 , 
@@ -892,6 +892,8 @@ Navi_Map = {
 , 
 {"prt_sewb4", "Esgoto de Prontera (4) ", 5001, 200, 200}
 , 
+{"pub_cat", "Gato na Bala", 5001, 200, 160}
+, 
 {"que_bingo", "Sala do Bingo ", 5001, 100, 200}
 , 
 {"que_dan02", "Interior da Casa Abandonada de Juno ", 5001, 120, 60}
@@ -962,6 +964,8 @@ Navi_Map = {
 , 
 {"rebel_in", "Clana Nemieri", 5003, 220, 100}
 , 
+{"rgsr_in", "Regenschirm", 5003, 260, 260}
+, 
 {"rwc01", "championship4", 5001, 100, 100}
 , 
 {"rwc03", "championship5", 5001, 100, 100}
@@ -971,6 +975,16 @@ Navi_Map = {
 {"schg_dun01", "Calabouço Subterrâneo de Castelo ", 5001, 400, 400}
 , 
 {"slabw01", "Laboratório Clandestino", 5001, 300, 180}
+, 
+{"sp_cor", "Acampamento OS", 5001, 300, 320}
+, 
+{"sp_os", "sp_os.rsw", 5001, 400, 400}
+, 
+{"sp_rudus", "Rudus (1)", 5001, 400, 400}
+, 
+{"sp_rudus2", "Rudus (2)", 5001, 400, 400}
+, 
+{"sp_rudus3", "Rudus (3)", 5001, 400, 400}
 , 
 {"spl_fild01", "Campos dos Esplendores ", 5001, 400, 400}
 , 
@@ -1040,9 +1054,9 @@ Navi_Map = {
 , 
 {"treasure_n2", "Navio Fantasma 02 - Pesadelo ", 5001, 200, 200}
 , 
-{"tur_d03_i", "Gloomy Turtle Vill", 5001, 248, 248}
+{"tur_d03_i", "Vila das Boas Tartaugas", 5001, 248, 248}
 , 
-{"tur_d04_i", "Lonely Turtle Palace", 5001, 200, 200}
+{"tur_d04_i", "Palácio Tartaruga", 5001, 200, 200}
 , 
 {"tur_dun01", "Ilha da Tartaruga ", 5001, 300, 300}
 , 
@@ -1165,6 +1179,8 @@ Navi_Map = {
 {"1@pop2", "Edda de Arunafeltz (2)", 5001, 160, 300}
 , 
 {"1@pop3", "Edda de Arunafeltz (3)", 5001, 116, 116}
+, 
+{"1@os_a", "Acampamento OS", 5001, 400, 400}
 , 
 {"NULL", "", 0, 0, 0}
 }

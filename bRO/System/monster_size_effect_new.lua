@@ -5065,6 +5065,38 @@ MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
 [3902] = {MonsterSize = 1.3, 
 MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
 }
+, 
+[20353] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[20351] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BOTTOM_BLOODYLUST}
+}
+, 
+[20345] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[20344] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[20343] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[20342] = {MonsterSize = 0.7, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[20341] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_REFLECTBODY}
+}
+, 
+[20381] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
 }
 main = function()
   -- function num : 0_0

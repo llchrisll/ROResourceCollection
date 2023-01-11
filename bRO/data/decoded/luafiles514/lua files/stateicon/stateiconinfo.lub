@@ -5919,4 +5919,15 @@ descript = {
 {"um Espírito."}
 }
 }
+-- DECOMPILER ERROR at PC12216: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_KIEL_CARD] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Poção Fantástica", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Pós-conjuração -15%"}
+}
+}
 

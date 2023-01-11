@@ -211,7 +211,7 @@ yuno = {
 , 
 {name = "Ferramentas", X = 193, Y = 142, TYPE = 0}
 , 
-{name = "Ferramentas", X = 218, Y = 197, TYPE = 0}
+{name = "Ferramentas", X = 226, Y = 107, TYPE = 0}
 , 
 {name = "Refinaria", X = 120, Y = 138, TYPE = 3}
 , 

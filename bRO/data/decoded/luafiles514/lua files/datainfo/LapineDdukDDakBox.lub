@@ -296,6 +296,36 @@ SourceItems = {
 {"Dragonic_Slayer", 1, 600004}
 }
 , NeedSource_String = "Bastarda Ancestral"}
+, 
+Saint_Hall_Cube = {ItemID = 100398, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Saint_Hall", 1, 590003}
+}
+, NeedSource_String = "Clava Ancestral"}
+, 
+Shadow_Staff_K_Cube = {ItemID = 100378, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadow_Staff_K", 1, 26118}
+}
+, NeedSource_String = "Cajado Ancestral"}
+, 
+Magic_Sword_Cube = {ItemID = 100362, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Magic_Sword", 1, 28744}
+}
+, NeedSource_String = "Punhal Ancestral"}
+, 
+Freedom_Stick_Cube = {ItemID = 101482, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Freedom_Stick", 1, 550080}
+}
+, NeedSource_String = "Bastão Ancestral"}
+, 
+Iron_Nail_K_Cube = {ItemID = 100388, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Iron_Nail_K", 1, 1847}
+}
+, NeedSource_String = "Garra Ancestral"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

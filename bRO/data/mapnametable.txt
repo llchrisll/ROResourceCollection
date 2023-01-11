@@ -1,14 +1,14 @@
-moc_prydn1.rsw#Base da Pirâmide 01 - Pesadelo #
-moc_prydn2.rsw#Base da Pirâmide 02 - Pesadelo #
-gld_dun04.rsw#Calabouço do Feudo de Britoniah #
-gld_dun03.rsw#Calabouço do Feudo das Valquírias #
-gld_dun02.rsw#Calabouço do Feudo de Luina #
-gld_dun01.rsw#Calabouço do Feudo do Bosque Celestial #
-payg_cas05.rsw#Palácio da Colina[BC5] #
-payg_cas04.rsw#Palácio Escarlate[BC4] #
-payg_cas03.rsw#Palácio da Sombra[BC3] #
-payg_cas02.rsw#Palácio do Lago Sagrado[BC2] #
-payg_cas01.rsw#Palácio do Sol[BC1] #
+moc_prydn1.rsw#Base da Pir?ide 01 - Pesadelo #
+moc_prydn2.rsw#Base da Pir?ide 02 - Pesadelo #
+gld_dun04.rsw#Calabou? do Feudo de Britoniah #
+gld_dun03.rsw#Calabou? do Feudo das Valqu?ias #
+gld_dun02.rsw#Calabou? do Feudo de Luina #
+gld_dun01.rsw#Calabou? do Feudo do Bosque Celestial #
+payg_cas05.rsw#Pal?io da Colina[BC5] #
+payg_cas04.rsw#Pal?io Escarlate[BC4] #
+payg_cas03.rsw#Pal?io da Sombra[BC3] #
+payg_cas02.rsw#Pal?io do Lago Sagrado[BC2] #
+payg_cas01.rsw#Pal?io do Sol[BC1] #
 pay_gld.rsw#Feudo do Bosque Celestial #
 aldeg_cas05.rsw#Acrux[L5] #
 aldeg_cas04.rsw#Rigel[L4] #
@@ -26,13 +26,13 @@ prtg_cas04.rsw#Skoegul[V4] #
 prtg_cas03.rsw#Brynhildr[V3] #
 prtg_cas02.rsw#Hrist[V2] #
 prtg_cas01.rsw#Kriemhild[V1] #
-prt_gld.rsw#Feudo das Valquírias #
+prt_gld.rsw#Feudo das Valqu?ias #
 tur_dun01.rsw#Ilha da Tartaruga #
-tur_dun02.rsw#Calabouço da Ilha da Tartaruga #
+tur_dun02.rsw#Calabou? da Ilha da Tartaruga #
 tur_dun03.rsw#Vila das Boas Tartarugas #
-tur_dun04.rsw#Palácio da Ilha da Tartaruga #
-tur_dun05.rsw#Pântano Subterrâneo (1) #
-tur_dun06.rsw#Pântano Subterrâneo (2) #
+tur_dun04.rsw#Pal?io da Ilha da Tartaruga #
+tur_dun05.rsw#P?tano Subterr?eo (1) #
+tur_dun06.rsw#P?tano Subterr?eo (2) #
 guild_vs3.rsw#Arena do Forte #
 guild_vs2.rsw#Arena do Forte #
 guild_vs1.rsw#Arena do Forte #
@@ -44,7 +44,7 @@ gef_fild13.rsw#Feudo de Britoniah #
 gef_fild14.rsw#Vila dos Orcs do Oeste #
 cmd_in02.rsw#Casa em Comodo (2) #
 cmd_in01.rsw#Casa em Comodo (1) #
-comodo.rsw#Cidade Litorânea de Comodo #
+comodo.rsw#Cidade Litor?ea de Comodo #
 beach_dun.rsw#Karu, a Caverna do Oeste #
 beach_dun2.rsw#Ruande, a Caverna do Norte #
 beach_dun3.rsw#Mao, a Caverna do Leste #
@@ -53,13 +53,13 @@ cmd_fild02.rsw#Praia Kokomo #
 cmd_fild03.rsw#Mangue Zenhai #
 cmd_fild04.rsw#Praia Kokomo #
 cmd_fild05.rsw#Limite da Floresta Papuchica #
-cmd_fild06.rsw#Fortaleza de São Darmain (Oeste) #
+cmd_fild06.rsw#Fortaleza de S? Darmain (Oeste) #
 cmd_fild07.rsw#Ilha do Farol, Pharos #
-cmd_fild08.rsw#Fortaleza de São Darmain (Leste) #
-cmd_fild09.rsw#Fortaleza de São Darmain (Sul) #
+cmd_fild08.rsw#Fortaleza de S? Darmain (Leste) #
+cmd_fild09.rsw#Fortaleza de S? Darmain (Sul) #
 xmas_in.rsw#Casa em Lutie #
 xmas_dun02.rsw#Sala de Construção de Brinquedos #
-xmas_dun01.rsw#Depósito da Fábrica de Brinquedos #
+xmas_dun01.rsw#Dep?ito da F?rica de Brinquedos #
 xmas_fild01.rsw#Arredores de Lutie #
 xmas.rsw#Lutie, A Cidade do Natal #
 mjolnir_01.rsw#Monte Mjolnir (01) #
@@ -116,7 +116,7 @@ moc_fild13.rsw#Deserto Sograt (13) #
 moc_fild14.rsw#Deserto Sograt (14) #
 moc_fild15.rsw#Deserto Sograt (15) #
 moc_fild16.rsw#Deserto Sograt (16) #
-in_moc_16.rsw#Guilda dos Mercenários #
+in_moc_16.rsw#Guilda dos Mercen?ios #
 moc_fild17.rsw#Deserto Sograt (17) #
 moc_fild18.rsw#Deserto Sograt (18) #
 moc_fild19.rsw#Deserto Sograt (19) #
@@ -153,33 +153,33 @@ new_4-4.rsw#Campo de Treinamento #
 new_5-4.rsw#Campo de Treinamento #
 anthell01.rsw#Formigueiro Infernal (1) #
 anthell02.rsw#Formigueiro Infernal (2) #
-gef_dun00.rsw#Calabouço de Geffen (1) #
-gef_dun01.rsw#Calabouço de Geffen (2) #
+gef_dun00.rsw#Calabou? de Geffen (1) #
+gef_dun01.rsw#Calabou? de Geffen (2) #
 gef_dun02.rsw#Geffenia (1) #
 gef_dun03.rsw#Geffenia (2) #
-iz_dun00.rsw#Túnel Submarino (0) #
-iz_dun01.rsw#Túnel Submarino (1) #
-iz_dun02.rsw#Túnel Submarino (3) #
-iz_dun03.rsw#Túnel Submarino (4) #
-iz_dun04.rsw#Túnel Submarino (5) #
-iz_dun05.rsw#Túnel Submarino (6) #
+iz_dun00.rsw#T?el Submarino (0) #
+iz_dun01.rsw#T?el Submarino (1) #
+iz_dun02.rsw#T?el Submarino (3) #
+iz_dun03.rsw#T?el Submarino (4) #
+iz_dun04.rsw#T?el Submarino (5) #
+iz_dun05.rsw#T?el Submarino (6) #
 in_sphinx1.rsw#Esfinge (1) #
 in_sphinx2.rsw#Esfinge (2) #
 in_sphinx3.rsw#Esfinge (3) #
 in_sphinx4.rsw#Esfinge (4) #
 in_sphinx5.rsw#Esfinge (5) #
-moc_pryd01.rsw#Dentro da Pirâmide (1) #
-moc_pryd02.rsw#Dentro da Pirâmide (2) #
-moc_pryd03.rsw#Dentro da Pirâmide (3) #
-moc_pryd04.rsw#Dentro da Pirâmide (4) #
-moc_pryd05.rsw#Dentro da Pirâmide (5) #
-moc_pryd06.rsw#Dentro da Pirâmide (6) #
+moc_pryd01.rsw#Dentro da Pir?ide (1) #
+moc_pryd02.rsw#Dentro da Pir?ide (2) #
+moc_pryd03.rsw#Dentro da Pir?ide (3) #
+moc_pryd04.rsw#Dentro da Pir?ide (4) #
+moc_pryd05.rsw#Dentro da Pir?ide (5) #
+moc_pryd06.rsw#Dentro da Pir?ide (6) #
 moc_prydb1.rsw#Guilda dos Gatunos #
 mjo_dun01.rsw#Mina Abandonada de Mjolnir (1) #
 mjo_dun02.rsw#Mina Abandonada de Mjolnir (2) #
 mjo_dun03.rsw#Mina Abandonada de Mjolnir (3) #
-orcsdun01.rsw#Calabouço dos Orcs (1) #
-orcsdun02.rsw#Calabouço dos Orcs (2) #
+orcsdun01.rsw#Calabou? dos Orcs (1) #
+orcsdun02.rsw#Calabou? dos Orcs (2) #
 pay_dun00.rsw#Caverna de Payon (0) #
 pay_dun01.rsw#Caverna de Payon (1) #
 pay_dun02.rsw#Caverna de Payon (2) #
@@ -194,10 +194,10 @@ prt_sewb3.rsw#Esgoto de Prontera (3) #
 prt_sewb4.rsw#Esgoto de Prontera (4) #
 treasure01.rsw#Navio Fantasma (1) #
 treasure02.rsw#Navio Fantasma (2) #
-hunter_1-1.rsw#Guilda dos Caçadores #
-hunter_2-1.rsw#Guilda dos Caçadores #
-hunter_3-1.rsw#Guilda dos Caçadores #
-in_hunter.rsw#Guilda dos Caçadores #
+hunter_1-1.rsw#Guilda dos Ca?dores #
+hunter_2-1.rsw#Guilda dos Ca?dores #
+hunter_3-1.rsw#Guilda dos Ca?dores #
+in_hunter.rsw#Guilda dos Ca?dores #
 knight_1-1.rsw#Cavalaria #
 knight_2-1.rsw#Cavalaria #
 knight_3-1.rsw#Cavalaria #
@@ -242,7 +242,7 @@ gef_tower.rsw#Torre de Geffen #
 geffen.rsw#Geffen #
 geffen_in.rsw#Casa em Geffen #
 moc_castle.rsw#Castelo de Morroc #
-moc_ruins.rsw#Ruínas de Morroc #
+moc_ruins.rsw#Ru?as de Morroc #
 morocc.rsw#Morroc #
 morocc_in.rsw#Casa em Morroc #
 pay_arche.rsw#Vila dos Arqueiros #
@@ -259,25 +259,25 @@ izlu2dun.rsw#Ilha Byalan #
 monk_in.rsw#Dentro da Abadia #
 
 glast_01.rsw#Glast Heim #
-alde_dun01.rsw#Torre do Relógio (s1) #
-alde_dun02.rsw#Torre do Relógio (s2) #
-alde_dun03.rsw#Torre do Relógio (s3) #
-alde_dun04.rsw#Torre do Relógio (s4) #
-c_tower1.rsw#Torre do Relógio (1) #
-c_tower2.rsw#Torre do Relógio (2) #
-c_tower3.rsw#Torre do Relógio (3) #
-c_tower4.rsw#Torre do Relógio (4) #
+alde_dun01.rsw#Torre do Rel?io (s1) #
+alde_dun02.rsw#Torre do Rel?io (s2) #
+alde_dun03.rsw#Torre do Rel?io (s3) #
+alde_dun04.rsw#Torre do Rel?io (s4) #
+c_tower1.rsw#Torre do Rel?io (1) #
+c_tower2.rsw#Torre do Rel?io (2) #
+c_tower3.rsw#Torre do Rel?io (3) #
+c_tower4.rsw#Torre do Rel?io (4) #
 gl_cas01.rsw#Glast Heim (1) #
 gl_cas02.rsw#Glast Heim (2) #
 gl_church.rsw#Abadia de Glast Heim #
-gl_chyard.rsw#Cemitério de Glast Heim #
+gl_chyard.rsw#Cemit?io de Glast Heim #
 gl_dun01.rsw#A Mais Profunda Caverna de Glast Heim (1) #
 gl_dun02.rsw#A Mais Profunda Caverna de Glast Heim (2) #
 gl_in01.rsw#Casa em Glast Heim #
 gl_knt01.rsw#Cavalaria de Glast Heim (1) #
 gl_knt02.rsw#Cavalaria de Glast Heim (1) #
-gl_prison.rsw#Prisão Subterrânea de Glast Heim (0) #
-gl_prison1.rsw#Prisão Subterrânea de Glast Heim (1) #
+gl_prison.rsw#Pris? Subterr?ea de Glast Heim (0) #
+gl_prison1.rsw#Pris? Subterr?ea de Glast Heim (1) #
 gl_sew01.rsw#Esgoto de Glast Heim (1) #
 gl_sew02.rsw#Esgoto de Glast Heim (2) #
 gl_sew03.rsw#Esgoto de Glast Heim (3) #
@@ -286,14 +286,14 @@ gl_step.rsw#Escadarias de Glast Heim #
 pvp_y_room.rsw#PvP : Sala de Espera #
 pvp_n_room.rsw#PvP : Sala de Espera #
 pvp_c_room.rsw#PvP : Sala de Espera #
-pvp_n_1-1.rsw#PvP : Sala Sanduíche #
-pvp_n_2-1.rsw#PvP : Sala Sanduíche #
-pvp_n_3-1.rsw#PvP : Sala Sanduíche #
-pvp_n_4-1.rsw#PvP : Sala Sanduíche #
-pvp_n_5-1.rsw#PvP : Sala Sanduíche #
-pvp_n_6-1.rsw#PvP : Sala Sanduíche #
-pvp_n_7-1.rsw#PvP : Sala Sanduíche #
-pvp_n_8-1.rsw#PvP : Sala Sanduíche #
+pvp_n_1-1.rsw#PvP : Sala Sandu?he #
+pvp_n_2-1.rsw#PvP : Sala Sandu?he #
+pvp_n_3-1.rsw#PvP : Sala Sandu?he #
+pvp_n_4-1.rsw#PvP : Sala Sandu?he #
+pvp_n_5-1.rsw#PvP : Sala Sandu?he #
+pvp_n_6-1.rsw#PvP : Sala Sandu?he #
+pvp_n_7-1.rsw#PvP : Sala Sandu?he #
+pvp_n_8-1.rsw#PvP : Sala Sandu?he #
 pvp_n_1-2.rsw#PvP : Sala Desafio Adiante #
 pvp_n_2-2.rsw#PvP : Sala Desafio Adiante #
 pvp_n_3-2.rsw#PvP : Sala Desafio Adiante #
@@ -318,14 +318,14 @@ pvp_n_5-4.rsw#PvP : Sala Encruzilhada #
 pvp_n_6-4.rsw#PvP : Sala Encruzilhada #
 pvp_n_7-4.rsw#PvP : Sala Encruzilhada #
 pvp_n_8-4.rsw#PvP : Sala Encruzilhada #
-pvp_n_1-5.rsw#PvP : Sala Bússola #
-pvp_n_2-5.rsw#PvP : Sala Bússola #
-pvp_n_3-5.rsw#PvP : Sala Bússola #
-pvp_n_4-5.rsw#PvP : Sala Bússola #
-pvp_n_5-5.rsw#PvP : Sala Bússola #
-pvp_n_6-5.rsw#PvP : Sala Bússola #
-pvp_n_7-5.rsw#PvP : Sala Bússola #
-pvp_n_8-5.rsw#PvP : Sala Bússola #
+pvp_n_1-5.rsw#PvP : Sala B?sola #
+pvp_n_2-5.rsw#PvP : Sala B?sola #
+pvp_n_3-5.rsw#PvP : Sala B?sola #
+pvp_n_4-5.rsw#PvP : Sala B?sola #
+pvp_n_5-5.rsw#PvP : Sala B?sola #
+pvp_n_6-5.rsw#PvP : Sala B?sola #
+pvp_n_7-5.rsw#PvP : Sala B?sola #
+pvp_n_8-5.rsw#PvP : Sala B?sola #
 pvp_y_1-1.rsw#PvP : Sala de Prontera #
 pvp_y_2-1.rsw#PvP : Sala de Prontera #
 pvp_y_3-1.rsw#PvP : Sala de Prontera #
@@ -371,35 +371,35 @@ alde_alche.rsw#Guilda dos Alquimistas #
 yuno_in05.rsw#Coração de Imir #
 yuno_in04.rsw#Biblioteca de Juno #
 job_duncer.rsw#Teatro de Comodo #
-job_sage.rsw#Campo de Testes (Sábios) #
-job_cru.rsw#Campo de Testes (Templários) #
+job_sage.rsw#Campo de Testes (S?ios) #
+job_cru.rsw#Campo de Testes (Templ?ios) #
 job_monk.rsw#Abadia de Santa Capitolina #
 monk_test.rsw#Abadia de Santa Capitolina #
 in_rogue.rsw#Guila dos Arruaceiros #
-mag_dun02.rsw#Calabouço de Magma #
-mag_dun01.rsw#Calabouço de Magma #
+mag_dun02.rsw#Calabou? de Magma #
+mag_dun01.rsw#Calabou? de Magma #
 yuno_fild04.rsw#Planalto de Juno #
 yuno_fild03.rsw#Planalto de Juno #
 yuno_fild02.rsw#Arredores de Juno #
 yuno_fild01.rsw#Fronteira de Aldebaran #
 yuno_in03.rsw#Casa em Juno #
-yuno_in02.rsw#Castelo dos Sábios #
+yuno_in02.rsw#Castelo dos S?ios #
 yuno_in01.rsw#Casa em Juno #
 yuno.rsw#Juno #
 job_wiz.rsw#Campo de Testes (Bruxos) #
 job_prist.rsw#Campo de Testes (Sacerdotes) #
 job_knt.rsw#Campo de Testes (Cavaleiros) #
-job_hunte.rsw#Campo de Testes (Caçadores) #
-gon_test.rsw#Salão de Batalhas #
-gon_dun01.rsw#Santuário de Xi Wang Mu #
+job_hunte.rsw#Campo de Testes (Ca?dores) #
+gon_test.rsw#Sal? de Batalhas #
+gon_dun01.rsw#Santu?io de Xi Wang Mu #
 gon_dun02.rsw#Tabuleiro de Go #
 gon_dun03.rsw#Terra das Fadas #
 gon_fild01.rsw#Campo de Kunlun #
 gon_in.rsw#Interior de Kunlun #
 gonryun.rsw#Kunlun, a Ilha dos Heremitas #
 ama_test.rsw#Campo de Momotaro #
-ama_dun03.rsw#Templo Subterrâneo de Amatsu #
-ama_dun02.rsw#Campo de Batalha da Floresta Subterrânea #
+ama_dun03.rsw#Templo Subterr?eo de Amatsu #
+ama_dun02.rsw#Campo de Batalha da Floresta Subterr?ea #
 ama_dun01.rsw#Labirinto de Tatames #
 ama_fild01.rsw#Campo de Amatsu #
 ama_in02.rsw#Interior de TenguGak #
@@ -411,7 +411,7 @@ um_dun02.rsw#Estrada para o Outro Mundo #
 um_in.rsw#Interior de Umbala #
 um_fild01.rsw#Floresta de Luluka #
 um_fild02.rsw#Floresta de Hoomga #
-um_fild03.rsw#Pântano de Kalala #
+um_fild03.rsw#P?tano de Kalala #
 um_fild04.rsw#Selva de Hoomga #
 umbala.rsw#Aldeia da tribo Wootan, Umbala #
 
@@ -420,7 +420,7 @@ payon_in03.rsw#Casa em Payon #
 nif_in.rsw#Interior de Nifflheim #
 yggdrasil01.rsw#Fonte de Hvergelmir (Tronco de Yggdrasil) #
 nif_fild02.rsw#Vale de Gyoll #
-nif_fild01.rsw#Skellington, um vilarejo solitário em Nifflheim #
+nif_fild01.rsw#Skellington, um vilarejo solit?io em Nifflheim #
 niflheim.rsw#Nifflheim, O reino dos mortos #
 
 //--------------8.1-----------
@@ -437,8 +437,8 @@ louyang.rsw#Louyang, as terras altas #
 //-------------8.2-------------
 ayo_in02.rsw#Interior de Ayotaya #
 ayo_in01.rsw#Interior de Ayotaya #
-ayo_dun02.rsw#Interior do Santuário Ancestral #
-ayo_dun01.rsw#Labirinto do Santuário Ancestral #
+ayo_dun02.rsw#Interior do Santu?io Ancestral #
+ayo_dun01.rsw#Labirinto do Santu?io Ancestral #
 ayo_fild02.rsw#Campos de Ayotaya #
 ayo_fild01.rsw#Campos de Ayotaya #
 ayothaya.rsw#Ayotaya #
@@ -458,8 +458,8 @@ quiz_01.rsw#Quiz Revolution #
 himinn.rsw#Valkyrie Hall (Himinn) #
 sec_in01.rsw#Interior do Valhalla #
 sec_in02.rsw#Interior do Valhalla #
-sec_pri.rsw#Sala da Meditação (Prisão do Valhalla) #
-valkyrie.rsw#Hall das Valquírias #
+sec_pri.rsw#Sala da Meditação (Pris? do Valhalla) #
+valkyrie.rsw#Hall das Valqu?ias #
 
 //-------------Gefenia-------------
 gefenia01.rsw#Gefenia #
@@ -468,8 +468,8 @@ gefenia03.rsw#Gefenia #
 gefenia04.rsw#Gefenia #
 
 //----------Einbroch--------------
-ein_dun02.rsw#Calabouço da Mina #
-ein_dun01.rsw#Calabouço da Mina #
+ein_dun02.rsw#Calabou? da Mina #
+ein_dun01.rsw#Calabou? da Mina #
 ein_fild10.rsw#Campos de Einbroch #
 ein_fild09.rsw#Campos de Einbroch #
 ein_fild08.rsw#Campos de Einbroch #
@@ -479,14 +479,14 @@ airplane.rsw#Aeroplano #
 airport.rsw#Aeroporto #
 ein_in01.rsw#Interior de Einbroch #
 einbech.rsw#Einbech, a vila mineradora #
-einbroch.rsw#Einbroch, a cidade de aço #
-turbo_e_16.rsw#Estádio Turbo Track #
-turbo_e_8.rsw#Estádio Turbo Track #
-turbo_e_4.rsw#Estádio Turbo Track #
-turbo_n_16.rsw#Estádio Turbo Track #
-turbo_n_8.rsw#Estádio Turbo Track #
-turbo_n_4.rsw#Estádio Turbo Track #
-turbo_n_1.rsw#Estádio Turbo Track #
+einbroch.rsw#Einbroch, a cidade de a? #
+turbo_e_16.rsw#Est?io Turbo Track #
+turbo_e_8.rsw#Est?io Turbo Track #
+turbo_e_4.rsw#Est?io Turbo Track #
+turbo_n_16.rsw#Est?io Turbo Track #
+turbo_n_8.rsw#Est?io Turbo Track #
+turbo_n_4.rsw#Est?io Turbo Track #
+turbo_n_1.rsw#Est?io Turbo Track #
 turbo_room.rsw#Sala de Espera #
 yuno_fild12.rsw#Controle da Fronteira #
 yuno_fild11.rsw#Campos de Juno #
@@ -495,9 +495,9 @@ yuno_fild08.rsw#Academia de Kiel Hyre #
 yuno_fild07.rsw#Desfiladeiro de El Mes (Vale do Abismo) #
 yuno_fild05.rsw#Planalto de El Mes #
 
-que_god02.rsw#Mapa da Missão #
-que_god01.rsw#Mapa da Missão #
-quiz_test.rsw#Salão do Desafio #
+que_god02.rsw#Mapa da Miss? #
+que_god01.rsw#Mapa da Miss? #
+quiz_test.rsw#Sal? do Desafio #
 
 guild_vs1.rsw#championship1#
 guild_vs3.rsw#championship2#
@@ -508,23 +508,23 @@ rwc03.rsw#championship5#
 // -- 10.2 + 10.3 ????
 
 que_job01.rsw#Taverna Particular #
-abyss_01.rsw#Caverna Subterrânea do Lago do Abismo #
-abyss_02.rsw#Caverna Subterrânea do Lago do Abismo #
-abyss_03.rsw#Caverna Subterrânea do Lago do Abismo #
-tha_t01.rsw#Torre de Thanatos – Andar Inferior #
-tha_t02.rsw#Torre de Thanatos – Andar Inferior #
-tha_t03.rsw#Torre de Thanatos – Andar Inferior #
-tha_t04.rsw#Torre de Thanatos – Andar Inferior #
-tha_t05.rsw#Torre de Thanatos – Andar Superior #
-tha_t06.rsw#Torre de Thanatos – Andar Superior #
-tha_t07.rsw#Torre de Thanatos – Andar Superior #
-tha_t08.rsw#Torre de Thanatos – Andar Superior #
-tha_t09.rsw#Torre de Thanatos – Andar Superior #
-tha_t10.rsw#Torre de Thanatos – Andar Superior #
-tha_t11.rsw#Torre de Thanatos – Andar Superior #
-tha_t12.rsw#Torre de Thanatos – Andar Superior #
-thana_step.rsw#Torre de Thanatos – Andar Superior #
-thana_boss.rsw#Torre de Thanatos – Área Desconhecida #
+abyss_01.rsw#Caverna Subterr?ea do Lago do Abismo #
+abyss_02.rsw#Caverna Subterr?ea do Lago do Abismo #
+abyss_03.rsw#Caverna Subterr?ea do Lago do Abismo #
+tha_t01.rsw#Torre de Thanatos ?Andar Inferior #
+tha_t02.rsw#Torre de Thanatos ?Andar Inferior #
+tha_t03.rsw#Torre de Thanatos ?Andar Inferior #
+tha_t04.rsw#Torre de Thanatos ?Andar Inferior #
+tha_t05.rsw#Torre de Thanatos ?Andar Superior #
+tha_t06.rsw#Torre de Thanatos ?Andar Superior #
+tha_t07.rsw#Torre de Thanatos ?Andar Superior #
+tha_t08.rsw#Torre de Thanatos ?Andar Superior #
+tha_t09.rsw#Torre de Thanatos ?Andar Superior #
+tha_t10.rsw#Torre de Thanatos ?Andar Superior #
+tha_t11.rsw#Torre de Thanatos ?Andar Superior #
+tha_t12.rsw#Torre de Thanatos ?Andar Superior #
+thana_step.rsw#Torre de Thanatos ?Andar Superior #
+thana_boss.rsw#Torre de Thanatos ?Área Desconhecida #
 thana_scene01.rsw#Entrada da Torre de Thanatos #
 job_soul.rsw#Seu Coração #
 job_star.rsw#O Sol, a Lua e as Estrelas #
@@ -534,9 +534,9 @@ hu_fild04.rsw#Campos de Hugel #
 hu_fild01.rsw#Torre de Thanatos #
 yuno_fild06.rsw#Planalto de El Mes #
 quiz_02.rsw#Arena de Perguntas #
-jupe_cave.rsw#Entrada das Ruínas de Juperos #
-juperos_01.rsw#Ruínas de Juperos #
-juperos_02.rsw#Ruínas de Juperos #
+jupe_cave.rsw#Entrada das Ru?as de Juperos #
+juperos_01.rsw#Ru?as de Juperos #
+juperos_02.rsw#Ru?as de Juperos #
 jupe_gate.rsw#Juperos, Zona Restrita #
 jupe_area1.rsw#Juperos, Zona Restrita #
 jupe_area2.rsw#Juperos, Zona Restrita #
@@ -547,13 +547,13 @@ lighthalzen.rsw#Lighthalzen, a Cidade-Estado da Prosperidade #
 lhz_in01.rsw#Sede da Corporação Rekenber #
 lhz_in02.rsw#Interior de Lighthalzen #
 lhz_in03.rsw#Interior de Lighthalzen #
-lhz_cube.rsw#Sala Cúbica #
+lhz_cube.rsw#Sala C?ica #
 lhz_que01.rsw#Interior de Lighthalzen #
 lhz_airport.rsw#Aeroporto de Lighthalzen #
 airplane_01.rsw#Aeroplano #
-lhz_dun01.rsw#Laboratório de Somatologia #
-lhz_dun02.rsw#Laboratório de Somatologia #
-lhz_dun03.rsw#Laboratório de Somatologia #
+lhz_dun01.rsw#Laborat?io de Somatologia #
+lhz_dun02.rsw#Laborat?io de Somatologia #
+lhz_dun03.rsw#Laborat?io de Somatologia #
 lhz_fild01.rsw#Campos de Lighthalzen #
 yuno_pre.rsw#Sede do Governo de Schwaltzwald #
 y_airport.rsw#Aeroporto de Juno #
@@ -564,15 +564,15 @@ ein_fild03.rsw#Campos de Einbroch #
 
 // 10.4 
 
-hugel.rsw#Hugel, a Vila do Jardim Fantástico #
+hugel.rsw#Hugel, a Vila do Jardim Fant?tico #
 hu_in01.rsw#Interior de Hugel #
 que_bingo.rsw#Sala do Bingo #
-que_hugel.rsw#Subterrâneos do Santuário de Odin #
+que_hugel.rsw#Subterr?eos do Santu?io de Odin #
 p_track01.rsw#Arena da Corrida de Monstros #
 p_track02.rsw#Arena da Corrida de Monstros #
-odin_tem01.rsw#Santuário de Odin #
-odin_tem02.rsw#Santuário de Odin #
-odin_tem03.rsw#Santuário de Odin #
+odin_tem01.rsw#Santu?io de Odin #
+odin_tem02.rsw#Santu?io de Odin #
+odin_tem03.rsw#Santu?io de Odin #
 hu_fild02.rsw#Campos de Hugel #
 hu_fild03.rsw#Campos de Hugel #
 hu_fild06.rsw#Campos de Hugel #
@@ -582,50 +582,50 @@ ein_fild05.rsw#Campos de Einbroch #
 yuno_fild10.rsw#Campos de Juno #
 kh_kiehl02.rsw#Aposentos de Kiehl #
 kh_kiehl01.rsw#Aposentos de Kiehl #
-kh_dun02.rsw#Fábrica de Robôs - Nível 2 #
-kh_dun01.rsw#Fábrica de Robôs – Nível 1 #
-kh_mansion.rsw#Mansão de Kiel Hyre #
-kh_rossi.rsw#A Mansão Rosimier #
+kh_dun02.rsw#F?rica de Rob? - N?el 2 #
+kh_dun01.rsw#F?rica de Rob? ?N?el 1 #
+kh_mansion.rsw#Mans? de Kiel Hyre #
+kh_rossi.rsw#A Mans? Rosimier #
 kh_school.rsw#Academia Kiel Hyre #
 kh_vila.rsw#Cabana de Kiel Hyre #
-auction_01.rsw#Sala de Leilão #
+auction_01.rsw#Sala de Leil? #
 auction_02.rsw#Ordem dos Exploradores #
 
 // 11.1 
 
-06guild_r.rsw#Arena de Batalha de Clãs - Sala de Espera #
-06guild_01.rsw#Arena de Batalha de Clãs #
-06guild_02.rsw#Arena de Batalha de Clãs #
-06guild_03.rsw#Arena de Batalha de Clãs #
-06guild_04.rsw#Arena de Batalha de Clãs #
-06guild_05.rsw#Arena de Batalha de Clãs #
-06guild_06.rsw#Arena de Batalha de Clãs #
-06guild_07.rsw#Arena de Batalha de Clãs #
-06guild_08.rsw#Arena de Batalha de Clãs #
+06guild_r.rsw#Arena de Batalha de Cl? - Sala de Espera #
+06guild_01.rsw#Arena de Batalha de Cl? #
+06guild_02.rsw#Arena de Batalha de Cl? #
+06guild_03.rsw#Arena de Batalha de Cl? #
+06guild_04.rsw#Arena de Batalha de Cl? #
+06guild_05.rsw#Arena de Batalha de Cl? #
+06guild_06.rsw#Arena de Batalha de Cl? #
+06guild_07.rsw#Arena de Batalha de Cl? #
+06guild_08.rsw#Arena de Batalha de Cl? #
 rachel.rsw#Capital de Arunafeltz, Rachel #
 ra_in01.rsw#Interior de Rachel #
 ra_temple.rsw#Templo de Freya - Cheshrumnir #
 ra_temin.rsw#Interior do Templo #
 que_rachel.rsw#Interior do Templo #
-ra_temsky.rsw#Escritório da Papisa - Os Jardins Sagrados #
+ra_temsky.rsw#Escrit?io da Papisa - Os Jardins Sagrados #
 ra_fild01.rsw#Pradaria Audhumbla #
-ra_fild02.rsw#Cânion #
-ra_fild03.rsw#Planície de Ida #
+ra_fild02.rsw#C?ion #
+ra_fild03.rsw#Plan?ie de Ida #
 ra_fild04.rsw#Pradaria Audhumbla #
 ra_fild05.rsw#Pradaria Audhumbla #
 ra_fild06.rsw#Portus Luna #
-ra_fild07.rsw#Cânion #
-ra_fild08.rsw#Planície de Ida #
+ra_fild07.rsw#C?ion #
+ra_fild08.rsw#Plan?ie de Ida #
 ra_fild09.rsw#Pradaria Audhumbla #
-ra_fild10.rsw#Cânion #
-ra_fild11.rsw#Planície de Ida #
-ra_fild12.rsw#Planície de Ida #
-ra_fild13.rsw#Costa das Lágrimas #
-ra_san01.rsw#Santuário #
-ra_san02.rsw#Santuário #
-ra_san03.rsw#Santuário #
-ra_san04.rsw#Santuário #
-ra_san05.rsw#Santuário #
+ra_fild10.rsw#C?ion #
+ra_fild11.rsw#Plan?ie de Ida #
+ra_fild12.rsw#Plan?ie de Ida #
+ra_fild13.rsw#Costa das L?rimas #
+ra_san01.rsw#Santu?io #
+ra_san02.rsw#Santu?io #
+ra_san03.rsw#Santu?io #
+ra_san04.rsw#Santu?io #
+ra_san05.rsw#Santu?io #
 ice_dun01.rsw#Caverna de Gelo #
 ice_dun02.rsw#Caverna de Gelo #
 ice_dun03.rsw#Caverna de Gelo #
@@ -643,24 +643,24 @@ ve_fild04.rsw#Campo de Veins #
 ve_fild05.rsw#Campo de Veins #
 ve_fild06.rsw#Campo de Veins #
 ve_fild07.rsw#Campo de Veins #
-thor_camp.rsw#Acampamento do Vulcão de Thor #
-que_thor.rsw#Vulcão de Thor #
-thor_v01.rsw#Vulcão de Thor #
-thor_v02.rsw#Vulcão de Thor #
-thor_v03.rsw#Vulcão de Thor #
+thor_camp.rsw#Acampamento do Vulc? de Thor #
+que_thor.rsw#Vulc? de Thor #
+thor_v01.rsw#Vulc? de Thor #
+thor_v02.rsw#Vulc? de Thor #
+thor_v03.rsw#Vulc? de Thor #
 
 // SiegeSE
 
-que_qsch01.rsw#Visão de Okolnir #
-que_qsch02.rsw#Visão de Okolnir #
-que_qsch03.rsw#Visão de Okolnir #
-que_qsch04.rsw#Visão de Okolnir #
-que_qsch05.rsw#Visão de Okolnir #
-que_qaru01.rsw#Visão de Okolnir #
-que_qaru02.rsw#Visão de Okolnir #
-que_qaru03.rsw#Visão de Okolnir #
-que_qaru04.rsw#Visão de Okolnir #
-que_qaru05.rsw#Visão de Okolnir #
+que_qsch01.rsw#Vis? de Okolnir #
+que_qsch02.rsw#Vis? de Okolnir #
+que_qsch03.rsw#Vis? de Okolnir #
+que_qsch04.rsw#Vis? de Okolnir #
+que_qsch05.rsw#Vis? de Okolnir #
+que_qaru01.rsw#Vis? de Okolnir #
+que_qaru02.rsw#Vis? de Okolnir #
+que_qaru03.rsw#Vis? de Okolnir #
+que_qaru04.rsw#Vis? de Okolnir #
+que_qaru05.rsw#Vis? de Okolnir #
 arug_cas01.rsw#Mardol #
 arug_cas02.rsw#Syr #
 arug_cas03.rsw#Horn #
@@ -683,18 +683,18 @@ poring_w02.rsw#Guerra Poring #
 nameless_i.rsw#Ilha Esquecida #
 nameless_n.rsw#Ilha Esquecida #
 nameless_in.rsw#Interior da Ilha Esquecida #
-abbey01.rsw#Monastério #
-abbey02.rsw#Monastério #
-abbey03.rsw#Monastério #
-que_temsky.rsw#Sala da Papisa - Jardim do Paraíso #
+abbey01.rsw#Monast?io #
+abbey02.rsw#Monast?io #
+abbey03.rsw#Monast?io #
+que_temsky.rsw#Sala da Papisa - Jardim do Para?o #
 z_agit.rsw#Esconderijo da Gangue Z #
 
 //----- moscovia-----
-moscovia.rsw#Moscóvia #
-mosk_in.rsw#Interior de Moscóvia #
+moscovia.rsw#Mosc?ia #
+mosk_in.rsw#Interior de Mosc?ia #
 mosk_ship.rsw#Navio #
 mosk_fild01.rsw#Ilha Baleia #
-mosk_fild02.rsw#Campo de Moscóvia #
+mosk_fild02.rsw#Campo de Mosc?ia #
 mosk_dun01.rsw#Floresta Encantada 1 #
 mosk_dun02.rsw#Floresta Encantada 2 #
 mosk_dun03.rsw#Floresta Encantada 3 #
@@ -720,17 +720,17 @@ bat_b01.rsw#Flavian #
 bat_b02.rsw#Flavian #
 
 //-------- Bossnia Event-------
-bossnia_01.rsw#Chefênia #
-bossnia_02.rsw#Chefênia #
-bossnia_03.rsw#Chefênia #
-bossnia_04.rsw#Chefênia #
+bossnia_01.rsw#Chef?ia #
+bossnia_02.rsw#Chef?ia #
+bossnia_03.rsw#Chef?ia #
+bossnia_04.rsw#Chef?ia #
 
 //------- Ep13 --------
 bat_c01.rsw#Krieger von Midgard #
 bat_c02.rsw#Krieger von Midgard #
 bat_c03.rsw#Krieger von Midgard #
-mid_camp.rsw#Acampamento da Expedição da Aliança #
-mid_campin.rsw#Acampamento da Expedição da Aliança #
+mid_camp.rsw#Acampamento da Expedição da Alian? #
+mid_campin.rsw#Acampamento da Expedição da Alian? #
 man_fild01.rsw#Montanhas dos Manuk #
 man_fild03.rsw#Montanhas dos Manuk #
 spl_fild02.rsw#Campos dos Esplendores #
@@ -739,21 +739,21 @@ moc_fild22b.rsw#Fenda Dimensional #
 que_dan01.rsw#Campos de Hugel #
 que_dan02.rsw#Interior da Casa Abandonada de Juno #
 schg_que01.rsw#Pradaria de Morestone #
-schg_dun01.rsw#Calabouço Subterrâneo de Castelo #
+schg_dun01.rsw#Calabou? Subterr?eo de Castelo #
 arug_que01.rsw#Pradaria de Morestone #
-arug_dun01.rsw#Calabouço Subterrâneo de Castelo #
-1@orcs.rsw#Caverna Subterrânea de Orcs #
-2@orcs.rsw#Caverna Subterrânea de Orcs #
+arug_dun01.rsw#Calabou? Subterr?eo de Castelo #
+1@orcs.rsw#Caverna Subterr?ea de Orcs #
+2@orcs.rsw#Caverna Subterr?ea de Orcs #
 spl_fild03.rsw#Campos dos Esplendores #
 moc_fild22b.rsw#Fenda Dimensional #
 que_dan01.rsw#Campos de Hugel #
 que_dan02.rsw#Interior da Casa Abandonada de Juno #
 schg_que01.rsw#Pradaria de Morestone #
-schg_dun01.rsw#Calabouço Subterrâneo de Castelo #
+schg_dun01.rsw#Calabou? Subterr?eo de Castelo #
 arug_que01.rsw#Pradaria de Morestone #
-arug_dun01.rsw#Calabouço Subterrâneo de Castelo #
-1@orcs.rsw#Caverna Subterrânea de Orcs #
-2@orcs.rsw#Caverna Subterrânea de Orcs #
+arug_dun01.rsw#Calabou? Subterr?eo de Castelo #
+1@orcs.rsw#Caverna Subterr?ea de Orcs #
+2@orcs.rsw#Caverna Subterr?ea de Orcs #
 evt_hello.rsw#Campo Morto #
 
 //-------------Ep 13.2----------
@@ -764,7 +764,7 @@ nyd_dun02.rsw#A Grande Ferida #
 manuk.rsw#Vila Mineradora Manuka #
 man_fild02.rsw#Montanhas dos Manuk #
 man_in01.rsw#Dentro da Vila Mineradora #
-splendide.rsw#Base dos Esplêndidos, Esplendor #
+splendide.rsw#Base dos Espl?didos, Esplendor #
 spl_fild01.rsw#Campos dos Esplendores #
 spl_in01.rsw#Dentro de Esplendor #
 spl_in02.rsw#Dentro de Esplendor #
@@ -780,12 +780,12 @@ bra_dun02.rsw#Profundezas das Cataratas #
 dewata.rsw#Dewata #
 dew_in01.rsw#Dentro da Vila da Tribo Jaty #
 dew_fild01.rsw#Campos de Dewata - Vila da tribo Jaty #
-dew_dun01.rsw#Vulcão Krakatau #
+dew_dun01.rsw#Vulc? Krakatau #
 dew_dun02.rsw#Caverna Istana #
 
 // ---- Ep 14.1 -------------
-bif_fild01.rsw#Floresta da Neblina - Sul de Bifröst #
-bif_fild02.rsw#Floresta da Neblina - Norte de Bifröst #
+bif_fild01.rsw#Floresta da Neblina - Sul de Bifr?t #
+bif_fild02.rsw#Floresta da Neblina - Norte de Bifr?t #
 mora.rsw#Mora - A Vila dos Rafflen #
 dic_in01.rsw#Casa em Dicastes #
 1@mist.rsw#Labirinto da Neblina #
@@ -793,9 +793,9 @@ dicastes01.rsw#El Dicastes, Cidade Capital dos Manuks #
 dicastes02.rsw#Floresta Brumbeld Jorhi #
 dic_fild01.rsw#Campos de El Dicastes 01#
 dic_fild02.rsw#Campos de El Dicastes 02#
-dic_dun01.rsw#Túnel Kamidal 01#
-dic_dun02.rsw#Túnel Kamidal 02#
-dic_dun03.rsw#Túnel Kamidal - Pesadelo #
+dic_dun01.rsw#T?el Kamidal 01#
+dic_dun02.rsw#T?el Kamidal 02#
+dic_dun03.rsw#T?el Kamidal - Pesadelo #
 
 //------------------2013 ep14.1 malangdo---------------------------
 malangdo.rsw#Malangdo - A Ilha da Pata de Gato #
@@ -808,14 +808,14 @@ mal_dun01.rsw#Área de Coral Estrelado #
 2@pump.rsw#Esgotos de Malangdo #
 
 //------2013 Abyss and Biolab 4th----------------------
-lhz_dun04.rsw#Laboratório de Somatologia #
-que_lhz.rsw#Laboratório de Somatologia #
-1@lhz.rsw#Laboratório de Wolfchev #
-gld_dun01_2.rsw#2º calabouço da Guilda #
-gld_dun02_2.rsw#2º calabouço da Guilda #
-gld_dun03_2.rsw#2º calabouço da Guilda #
-gld_dun04_2.rsw#2º calabouço da Guilda #
-gld2_ald.rsw#Portal do Abismo: Lágrimas do Herói #
+lhz_dun04.rsw#Laborat?io de Somatologia #
+que_lhz.rsw#Laborat?io de Somatologia #
+1@lhz.rsw#Laborat?io de Wolfchev #
+gld_dun01_2.rsw#2?calabou? da Guilda #
+gld_dun02_2.rsw#2?calabou? da Guilda #
+gld_dun03_2.rsw#2?calabou? da Guilda #
+gld_dun04_2.rsw#2?calabou? da Guilda #
+gld2_ald.rsw#Portal do Abismo: L?rimas do Her? #
 gld2_gef.rsw#Portal do Abismo: Colina dos Mortos #
 gld2_pay.rsw#Portal do Abismo: Ventos Ancestrais #
 gld2_prt.rsw#Portal do Abismo: Caminho do Guerreiro #
@@ -826,8 +826,8 @@ ma_fild01.rsw#Baryo Mahiwaga #
 ma_fild02.rsw#Floresta #
 ma_scene01.rsw#Lago Bakonawa #
 ma_in01.rsw#Interior de Malaya #
-ma_dun01.rsw#Hospital de Bangungot, 1º andar #
-1@ma_h.rsw#Hospital de Bangungot, 2º andar #
+ma_dun01.rsw#Hospital de Bangungot, 1?andar #
+1@ma_h.rsw#Hospital de Bangungot, 2?andar #
 1@ma_c.rsw#Caverna Buwaya #
 1@ma_b.rsw#Esconderijo Bakonawa #
 ma_zif01.rsw#Interior de Jeepney #
@@ -842,17 +842,17 @@ ma_zif09.rsw#Interior de Jeepney #
 job_ko.rsw#Lugar Escondido #
 
 //-----------Ep.14.2 Eclage-------------
-ecl_in01.rsw#Praça de Eclage #
-ecl_hub01.rsw#Perímetros de Eclage #
+ecl_in01.rsw#Pra? de Eclage #
+ecl_hub01.rsw#Per?etros de Eclage #
 ecl_in02.rsw#Interior de Eclage 2#
 ecl_in03.rsw#Interior de Eclage 3#
 ecl_in04.rsw#Interior de Eclage 4#
 eclage.rsw#Eclage #
 ecl_fild01.rsw#Campo Florescente #
-ecl_tdun01.rsw#Torre de Bifröst (1) #
-ecl_tdun02.rsw#Torre de Bifröst (2) #
-ecl_tdun03.rsw#Torre de Bifröst (3) #
-ecl_tdun04.rsw#Topo da Torre de Bifröst #
+ecl_tdun01.rsw#Torre de Bifr?t (1) #
+ecl_tdun02.rsw#Torre de Bifr?t (2) #
+ecl_tdun03.rsw#Torre de Bifr?t (3) #
+ecl_tdun04.rsw#Topo da Torre de Bifr?t #
 
 //-----------WOE TE 05-26-2015----------
 te_prt_gld.rsw#Gloria #
@@ -861,69 +861,69 @@ te_prtcas02.rsw#Richard #
 te_prtcas03.rsw#Wigner #
 te_prtcas04.rsw#Heine #
 te_prtcas05.rsw#Nerius #
-teg_dun01.rsw#Calabouço da Guilda 1 #
+teg_dun01.rsw#Calabou? da Guilda 1 #
 te_alde_gld.rsw#Kafra Garten #
 te_aldecas1.rsw#Sofia #
 te_aldecas2.rsw#Denise #
 te_aldecas3.rsw#Marianne #
 te_aldecas4.rsw#Bianca #
 te_aldecas5.rsw#Deborah #
-teg_dun02.rsw#Calabouço da Guilda 2 #
+teg_dun02.rsw#Calabou? da Guilda 2 #
 
 //--------christmas event 2015------
 niflxmas.rsw#Evento Natalino #
 
 //--------Paramarket-----------
-moc_para01.rsw#Grupo do Éden #
+moc_para01.rsw#Grupo do ?en #
 
 //--------Horror Toy Dungeon 201 03 21-----
-1@xm_d.rsw#Fábrica do Terror #
+1@xm_d.rsw#F?rica do Terror #
 
 //EP.14.3
-moro_vol.rsw#Círculo de Fogo #
+moro_vol.rsw#C?culo de Fogo #
 moro_cav.rsw#Cavena de Fogo #
-1@dth1.rsw#Ilha Bios (Manhã) #
+1@dth1.rsw#Ilha Bios (Manh? #
 1@dth2.rsw#Ilha Bios (Tarde) #
 1@dth3.rsw#Ilha Bios (Noite) #
 1@rev.rsw#Caverna #
-1@eom.rsw#Templo do Demônio Rei #
+1@eom.rsw#Templo do Dem?io Rei #
 1@jtb.rsw#Pesadelo Musical #
 
 //Hero's Trail pt.1, 2
-dali.rsw#Espaço Dimensional (1) #
-dali02.rsw#Espaço Dimensional (2) #
+dali.rsw#Espa? Dimensional (1) #
+dali02.rsw#Espa? Dimensional (2) #
 1@face.rsw#Covil de Vermes #
-1@sara.rsw#Memórias de Sarah #
-1@tnm1.rsw#Andar Superior da Torre do Demônio #
-1@tnm2.rsw#Topo da Torre do Demônio #
-1@tnm3.rsw#Subterrâneo do Castelo de Morroc #
+1@sara.rsw#Mem?ias de Sarah #
+1@tnm1.rsw#Andar Superior da Torre do Dem?io #
+1@tnm2.rsw#Topo da Torre do Dem?io #
+1@tnm3.rsw#Subterr?eo do Castelo de Morroc #
 1@ge_st.rsw#Torneio de Magia #
 1@gef.rsw#Torneio de Magia #
 1@gef_in.rsw#Torneio de Magia #
-1@spa.rsw#Palácio das Mágoas #
+1@spa.rsw#Pal?io das M?oas #
 
 //Old Glastheim
-gl_cas02_.rsw#Castelo Amaldiçoado #
-gl_chyard_.rsw#Cemitério Amaldiçoado #
+gl_cas02_.rsw#Castelo Amaldi?ado #
+gl_chyard_.rsw#Cemit?io Amaldi?ado #
 2@gl_k.rsw#Ordem dos Cavaleiros (2) #
 1@gl_k.rsw#Ordem dos Cavaleiros (1) #
 
 // ep15.1 Phantasmagorika
-ver_eju.rsw#Ruínas de Juperos (Oeste) #
-ver_tunn.rsw#Túnel de Verus #
+ver_eju.rsw#Ru?as de Juperos (Oeste) #
+ver_tunn.rsw#T?el de Verus #
 verus04.rsw#Centro de Verus #
-verus03.rsw#Praça Central de Verus #
+verus03.rsw#Pra? Central de Verus #
 
-1@mcd.rsw#Fábrica de Charlestons #
+1@mcd.rsw#F?rica de Charlestons #
 
 // ep15.2 Phantasmagorika
-verus01.rsw#Laboratório OPTATIO de Experimentos #
+verus01.rsw#Laborat?io OPTATIO de Experimentos #
 verus02.rsw#Instituto WISH de Pesquisa #
-un_bk_q.rsw#Abrigo Subterrâneo #
-un_bunker.rsw#Abrigo Subterrâneo #
-un_myst.rsw#Túnel do Abrigo #
+un_bk_q.rsw#Abrigo Subterr?eo #
+un_bunker.rsw#Abrigo Subterr?eo #
+un_myst.rsw#T?el do Abrigo #
 1@uns.rsw#Sala Final #
-1@lab.rsw#Laboratório Central #
+1@lab.rsw#Laborat?io Central #
 
 //Clock Tower Nightmare
 c_tower2_.rsw#Torre Distorcida (2) #
@@ -932,32 +932,32 @@ brz_n.rsw#Brasilis (Noite) #
 
 
 //EP16.1
-1@mir.rsw#Salão de Ymir #
-2@mir.rsw#Salão de Ymir #
+1@mir.rsw#Sal? de Ymir #
+2@mir.rsw#Sal? de Ymir #
 1@sthb.rsw#Sussurro Sombrio #
 1@sthc.rsw#Sala Secreta #
 1@sthd.rsw#Topo da Fortaleza #
 
-prt_cas.rsw#Palácio de Prontera #
+prt_cas.rsw#Pal?io de Prontera #
 prt_cas_q.rsw#Aposentos dos Nobres #
-prt_prison.rsw#Prisão de Prontera #
-prt_lib.rsw#Memorial das Famílias Reais [Presente] #
-prt_lib_q.rsw#Memorial das Famílias Reais [Passado] #
-prt_q.rsw#Prontera Destruída #
+prt_prison.rsw#Pris? de Prontera #
+prt_lib.rsw#Memorial das Fam?ias Reais [Presente] #
+prt_lib_q.rsw#Memorial das Fam?ias Reais [Passado] #
+prt_q.rsw#Prontera Destru?a #
 prt_pri00.rsw#Carceragem de Prontera #
 
 //-- ???? ?? 10:26 2015-10-26 ???
 
 // ??? ?? ??? ??
-lasagna.rsw#Cidade Portuária de Lasagna#
-lasa_fild01.rsw#Planícies Ravioli#
+lasagna.rsw#Cidade Portu?ia de Lasagna#
+lasa_fild01.rsw#Plan?ies Ravioli#
 lasa_fild02.rsw#Floresta Ravioli#
-lasa_dun01.rsw#Ninho do Dragão#
-lasa_dun02.rsw#Ninho do Dragão#
-lasa_dun03.rsw#Ninho do Dragão#
+lasa_dun01.rsw#Ninho do Drag?#
+lasa_dun02.rsw#Ninho do Drag?#
+lasa_dun03.rsw#Ninho do Drag?#
 conch_in.rsw#Dentro do Conchiolina#
 lasa_in01.rsw#Casa em Lasagna#
-lasa_dun_q.rsw#Ninho do Dragão#
+lasa_dun_q.rsw#Ninho do Drag?#
 
 //Intro Renewal
 iz_int.rsw#Navio naufragado #
@@ -1007,11 +1007,11 @@ treasure_n2.rsw#Navio Fantasma 02 - Pesadelo #
 1@begi.rsw#Vila dos Poring #
 
 // »ýÃ¼´øÀü ½Å±Ô¸Ê ¿ÀÀü 2013-12-18
-lhz_dun_n.rsw#Laboratório de Somatologia - Pesadelo#
-lhz_d_n2.rsw#Laboratório de Somatologia - Pesadelo#
+lhz_dun_n.rsw#Laborat?io de Somatologia - Pesadelo#
+lhz_d_n2.rsw#Laborat?io de Somatologia - Pesadelo#
 
 // ¿µ¿õÀÇ ÈçÀû3
-1@glast.rsw#Ruínas Antigas#
+1@glast.rsw#Ru?as Antigas#
 1@air1.rsw#Aeroplano#
 1@air2.rsw#Aeroplano#
 
@@ -1021,17 +1021,17 @@ lhz_d_n2.rsw#Laboratório de Somatologia - Pesadelo#
 1@pop3.rsw#Edda de Arunafeltz (3)#
 
 // ep16.2
-1@slw.rsw#Laboratório Werner#
+1@slw.rsw#Laborat?io Werner#
 1@swat.rsw#Base Militar#
 que_swat.rsw#Base Militar#
-slabw01.rsw#Laboratório Clandestino#
+slabw01.rsw#Laborat?io Clandestino#
 rebel_in.rsw#Clana Nemieri#
 
 // 11? ????
-hu_fild03.rsw#Campo de Caça#
+hu_fild03.rsw#Campo de Ca?#
 prt_evt_in.rsw#Cabana#
 
-pay_d03_i.rsw#Ilusão da Lua#
+pay_d03_i.rsw#Ilus? da Lua#
 
 star_frst.rsw#Antiga Payon#
 star_in.rsw#Interior da Antiga Payon#
@@ -1039,8 +1039,21 @@ star_in.rsw#Interior da Antiga Payon#
 1@soul.rsw#Passagem da Alma#
 
 //2Q
-gef_d01_i.rsw#Página 250#
+gef_d01_i.rsw#P?ina 250#
 
 //Illusion of Turtle Island
 tur_d03_i.rsw#Vila das Boas Tartaugas#
-tur_d04_i.rsw#Palácio Tartaruga#
+tur_d04_i.rsw#Pal?io Tartaruga#
+
+//2022 3Q EP17.1
+1@cor.rsw#Memorial Cor#
+1@os_a.rsw#Acampamento OS#
+1@os_b.rsw#OS Restrito#
+1@rgsr.rsw#Regenschirm#
+rgsr_in.rsw#Regenschirm#
+pub_cat.rsw#Gato na Bala#
+sp_cor.rsw#Acampamento OS#
+sp_os.rsw#sp_os.rsw#
+sp_rudus.rsw#Rudus (1)#
+sp_rudus2.rsw#Rudus (2)#
+sp_rudus3.rsw#Rudus (3)#
