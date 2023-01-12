@@ -3,7 +3,7 @@ This repository is only used to make searching for official items easier from ce
 
 It contains extracted and decoded .lub files from official RO Servers.
 Pre-packed with sprite and texture files from each server can be found here:
- * [MediaFire] (https://www.mediafire.com/folder/1parcvp5o9n5m/RoResourceCollection)
+ * [MediaFire](https://www.mediafire.com/folder/1parcvp5o9n5m/RoResourceCollection)
 
 As of 12th January 2023, I will only update the merged GRF (officials-data.grf), as it lessens the time "wasted" updating those GRF's.
 
@@ -18,20 +18,20 @@ As I'm still missing entries in the itemInfo_EN.lua file, there might still be a
 <br />Also I was unable to add the following items, because I didn't find any sprites for it in any of my sources or there were no ```identifiedResourceName``` in the iteminfo.lua or id2numresnametable.txt file:
 | ID  | Item Name | File Name 
 | --- | --- | --- 
-| 2361 | Blue Robe | ```ÆÄ¶õ¾Æ¿ÀÀÚÀÌ``` 
-| 2362 | Red Robe | ```»¡°£¾Æ¿ÀÀÚÀÌ``` 
-| 2363 | White Robe | ```ÇÏ¾á¾Æ¿ÀÀÚÀÌ```
-| 2792 | Ring of Flame Lord | ```ÇÃ·¹ÀÓ·Îµå¸µ```
-| 2793 | Ring of Resonance | ```·¹Á¶³Í½º¸µ```
-| 5689 | Queen Ants Crown | ```°³¹Ì¿©¿ÕÀÇ¿Õ°ü```
-| 6410 | Kartu Leberan | ```ÀÌµÑÇÇÆ®¸®Ä«µå```
-| 7915 | Bronze Coin | ```ÄÚÆÛÄÚÀÎ```
-| 7916 | Silver Coin | ```½Ç¹öÄÚÀÎ```
+| 2361 | Blue Robe | ```íŒŒë€ì•„ì˜¤ìì´``` 
+| 2362 | Red Robe | ```ë¹¨ê°„ì•„ì˜¤ìì´``` 
+| 2363 | White Robe | ```í•˜ì–€ì•„ì˜¤ìì´```
+| 2792 | Ring of Flame Lord | ```í”Œë ˆì„ë¡œë“œë§```
+| 2793 | Ring of Resonance | ```ë ˆì¡°ë„ŒìŠ¤ë§```
+| 5689 | Queen Ants Crown | ```ê°œë¯¸ì—¬ì™•ì˜ì™•ê´€```
+| 6410 | Kartu Leberan | ```ì´ë‘˜í”¼íŠ¸ë¦¬ì¹´ë“œ```
+| 7915 | Bronze Coin | ```ì½”í¼ì½”ì¸```
+| 7916 | Silver Coin | ```ì‹¤ë²„ì½”ì¸```
 | 11010 | Catalogue
-| 14674 | Cup of Boza | ```º¸ÀÚÀÇÄÅ```
+| 14674 | Cup of Boza | ```ë³´ìì˜ì»µ```
 | 22519 | Freeze Buff
 | 22520 | Anti-Freeze Buff
-| 22624 | Riesen Bretzel |```¸®Á¨ºê¸®Ã¿```
+| 22624 | Riesen Bretzel |```ë¦¬ì  ë¸Œë¦¬ì²¼```
 | 1000682 | Tuner | - 
 
 In case you have any of those above, please pm on me on discord with the files.
