@@ -5159,7 +5159,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"獵人的力量", COLOR_TITLE_BUFF}
+{"你儂我儂馬卡龍", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -5170,7 +5170,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"獵人的智慧", COLOR_TITLE_BUFF}
+{"你儂我儂草莓芭菲", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6385,7 +6385,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"獵人的力量", COLOR_TITLE_BUFF}
+{"你儂我儂馬卡龍", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6396,7 +6396,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"獵人的智慧", COLOR_TITLE_BUFF}
+{"你儂我儂草莓芭菲", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6407,7 +6407,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"獵人的敏捷", COLOR_TITLE_BUFF}
+{"你儂我儂鮮奶油可麗餅", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -7021,7 +7021,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_THIRD_EXOR_FLAME] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"閃光連擊", COLOR_TITLE_BUFF}
+{"最終章:驅魔火焰", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -7941,6 +7941,39 @@ descript = {
 {"詛咒藍色魔方", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC16393: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_TOXIN_OF_MANDARA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"曼陀羅神經毒素", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"物理抗性減少"}
+}
+}
+-- DECOMPILER ERROR at PC16417: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GOLDENE_TONE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"黃金音調", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"物理與魔法抗性增加"}
+}
+}
+-- DECOMPILER ERROR at PC16441: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_TEMPERING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"回火", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"P.ATK增加"}
 }
 }
 

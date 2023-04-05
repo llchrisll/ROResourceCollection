@@ -3643,6 +3643,82 @@ signName = {mainTitle = "¬P®y¤§¶ð"}
 ["3@ch_t.rsw"] = {displayName = "¬P®y¤§¶ð", notifyEnter = true, 
 signName = {mainTitle = "¬P®y¤§¶ð"}
 , backgroundBmp = "noname_s2"}
+, 
+["wolfvill.rsw"] = {displayName = "¦Ç¯T§ø", notifyEnter = true, 
+signName = {subTitle = "­ì¦í¥ÁÂÃ¨­³B", mainTitle = "¦Ç¯T§ø"}
+, backgroundBmp = "village"}
+, 
+["gw_fild01.rsw"] = {displayName = "¦Ç¯TÂOªL", notifyEnter = true, 
+signName = {mainTitle = "¦Ç¯TÂOªL"}
+, backgroundBmp = "field_s2"}
+, 
+["gw_fild02.rsw"] = {displayName = "¦Ç¯TÂOªL", notifyEnter = true, 
+signName = {mainTitle = "¦Ç¯TÂOªL"}
+, backgroundBmp = "field_s2"}
+, 
+["oz_dun01.rsw"] = {displayName = "¼Ú¯÷°g®c¤@¼Ó", notifyEnter = true, 
+signName = {mainTitle = "¼Ú¯÷°g®c¤@¼Ó"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["oz_dun02.rsw"] = {displayName = "¼Ú¯÷°g®c¤G¼Ó", notifyEnter = true, 
+signName = {mainTitle = "¼Ú¯÷°g®c¤G¼Ó"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@oz.rsw"] = {displayName = "¼Ú¯÷°g®c", notifyEnter = true, 
+signName = {mainTitle = "¼Ú¯÷°g®c"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["que_thr.rsw"] = {displayName = "¦«º¸¤õ¤s¤º³¡", notifyEnter = true, 
+signName = {mainTitle = "¦«º¸¤õ¤s¤º³¡"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@tcamp.rsw"] = {displayName = "¦«º¸¤õ¤s­xÀç", notifyEnter = true, 
+signName = {mainTitle = "¦«º¸¤õ¤s­xÀç"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@nyr.rsw"] = {displayName = "¸t°ì·æ´µ¶©¥§°Ç®x°|", notifyEnter = true, 
+signName = {mainTitle = "¸t°ì·æ´µ¶©¥§°Ç®x°|"}
+, backgroundBmp = "noname_s2"}
+, 
+["2@nyr.rsw"] = {displayName = "¸t°ì·æ´µ¶©¥§°Ç¤ßÅ¦«OºÞ«Ç", notifyEnter = true, 
+signName = {subTitle = "¸t°ì·æ´µ¶©¥§°Ç", mainTitle = "¤ßÅ¦«OºÞ«Ç"}
+, backgroundBmp = "noname"}
+, 
+["1@adv.rsw"] = {displayName = "¤j¯«©x§O¹Ö", notifyEnter = true, 
+signName = {mainTitle = "¤j¯«©x§O¹Ö"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@advs.rsw"] = {displayName = "´Û¿f§O¹Ö", notifyEnter = true, 
+signName = {mainTitle = "´Û¿f§O¹Ö"}
+, backgroundBmp = "noname_s2"}
+, 
+["ra_fild02.rsw"] = {displayName = "©Ô»®¼Ú¯÷®l¨¦", notifyEnter = true, 
+signName = {mainTitle = "¼Ú¯÷®l¨¦"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild07.rsw"] = {displayName = "©Ô»®¼Ú¯÷®l¨¦", notifyEnter = true, 
+signName = {mainTitle = "¼Ú¯÷®l¨¦"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild09.rsw"] = {displayName = "©Ô»®ªü§Å´°©Ô¯ó­ì", notifyEnter = true, 
+signName = {mainTitle = "ªü§Å´°©Ô¯ó­ì"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild10.rsw"] = {displayName = "©Ô»®¼Ú¯÷®l¨¦", notifyEnter = true, 
+signName = {mainTitle = "¼Ú¯÷®l¨¦"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild11.rsw"] = {displayName = "©Ô»®¥ì¹F¥­­ì", notifyEnter = true, 
+signName = {mainTitle = "¥ì¹F¥­­ì"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild13.rsw"] = {displayName = "©Ô»®²´²\¤§®ü©¤", notifyEnter = true, 
+signName = {mainTitle = "²´²\¤§®ü©¤"}
+, backgroundBmp = "field_s2"}
+, 
+["ant_d02_i.rsw"] = {displayName = "¤Û¼v¿ÂÃÆ¦aº»", notifyEnter = true, 
+signName = {subTitle = "¤Û¼v¨t¦C", mainTitle = "¤Û¼v¿ÂÃÆ¦aº»"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0

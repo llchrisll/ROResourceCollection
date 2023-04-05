@@ -3159,7 +3159,7 @@ reward = {}
 , score = 10}
 , 
 [230146] = {UI_Type = 0, group = "TAMING", major = 3, minor = 1, title = "碿臸共-攻狝", 
-content = {summary = "碿臸共粄緄胐Θ", details = "р碿臸共跑Θ胐!ノ\'ぶ╧薄\'ㄓま护"}
+content = {summary = "碿臸共粄緄胐Θ", details = "р碿臸共跑Θ胐!ノ\'ぶ薄\'ㄓま护"}
 , 
 resource = {
 [1] = {text = "碿臸共粄緄胐Θ"}

@@ -15683,15 +15683,15 @@ Description = {"請說服海茉特後帶來好嗎?他應該在秀發茲發德的國界檢查站。"}
 , 
 [14505] = {Title = "我不回去", 
 Description = {"我必須留在這裡，請這樣轉告給爺爺吧!"}
-, Summary = "去找馬西米利安"}
+, Summary = "去找馬西米麗安"}
 , 
 [14506] = {Title = "情況變這樣了", 
 Description = {"請告訴再度離家的麥野，說家裡的情況變這樣了，若我們去找他，會躲更遠遠的。"}
 , Summary = "去找麥野"}
 , 
-[14507] = {Title = "去找馬西米利安", 
+[14507] = {Title = "去找馬西米麗安", 
 Description = {"太好了，事情都圓滿解決了，請告訴他等宴會結束後就去找他好嗎?"}
-, Summary = "去找馬西米利安"}
+, Summary = "去找馬西米麗安"}
 , 
 [14508] = {Title = "珠寶與布料", 
 Description = {"請帶來製作項鍊的珍珠 3個和織布用的柔毛 50個吧!"}
@@ -25866,7 +25866,7 @@ Description = {"搜查日落的大宅花園，壓制虛幻派，追捕獵物跑才是狩獵的精髓。"}
 , Summary = "擊殺斯威蒂"}
 , 
 [18018] = {Title = "前往飛空艇機坪", IconName = "ico_ep.bmp", 
-Description = {"說不定可以透過活捉的斯威蒂得到情報，前往飛空艇機坪。"}
+Description = {"此為EP17.2任務，完成後即可開啟EP18主線任務。", "說不定可以透過活捉的斯威蒂得到情報，前往飛空艇機坪。"}
 , Summary = "與α對話"}
 , 
 [18019] = {Title = "與斯威蒂對話", IconName = "ico_ep.bmp", 
@@ -26936,7 +26936,7 @@ Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學
 , Summary = ""}
 , 
 [19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[12月的晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[2月的晁白溪]<INFO>prontera,163,98,0,101,0</INFO></NAVI>"}
 , Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
@@ -29058,5 +29058,1013 @@ Description = {"擊殺100Lv以上龍族怪30隻後回報給<NAVI>[副官 張和承]<INFO>prt_fild
 [3492] = {Title = "(老練)擊殺龍族怪 - 等候", IconName = "ico_ev.bmp", 
 Description = {"該任務為每日任務，重置時間過後可再承接執行。"}
 , Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17382] = {Title = "製作雪花花束", IconName = "ico_ev.bmp", 
+Description = {"[你想製作雪花花束嗎?那請你收集<ITEM>[魔力雪花]<INFO>25425</INFO></ITEM>10個後再過來<NAVI>[這裡]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>吧!"}
+, Summary = "魔力雪花10個"}
+, 
+[17383] = {Title = "製作雪花花束", IconName = "ico_ev.bmp", 
+Description = {"雪花花束製作活動會由<NAVI>[夢幻雪花魔術師]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>負責，有興趣的人可以去找他。"}
+, Summary = "去找夢幻雪花魔術師"}
+, 
+[17384] = {Title = "溫暖的過冬", IconName = "ico_ev.bmp", 
+Description = {"請在不下雪的地方賜雪、寒冷的地區賜保暖的棉花吧!如果想幫他們就去找<NAVI>[柯蒂]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>或沃習吧!"}
+, Summary = "去找柯蒂"}
+, 
+[17385] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"你在邪惡禮盒中找到卡片是嗎?那就交給<NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>和小玲吧!可以換成特別的精美禮物喔!"}
+, Summary = "去找小溫"}
+, 
+[17386] = {Title = "和觀光客分享快樂", IconName = "ico_ev.bmp", 
+Description = {"和來到雪花節的<NAVI>[觀光客]<INFO>aldebaran,162,127,0,101,0</INFO></NAVI>一起開心享受雪花節的歡樂氣氛吧!"}
+, Summary = "前往鐘塔附近"}
+, 
+[17387] = {Title = "製作雪花花束", IconName = "ico_ev.bmp", 
+Description = {"作雪花花束需要<ITEM>[魔力雪花]<INFO>25425</INFO></ITEM>10個，還有裝飾雪人鼻上的<ITEM>[紅蘿蔔]<INFO>515</INFO></ITEM>1個，不要忘了喔! - <NAVI>[麥霖]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "魔力雪花10個、紅蘿蔔1個"}
+, 
+[17388] = {Title = "等候: 冷卻時間", IconName = "ico_ev.bmp", 
+Description = {"目前尚餘留魔力雪花的效果，請凌晨過後再來吧! - <NAVI>[麥霖]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17389] = {Title = "溫暖的過冬", IconName = "ico_ev.bmp", 
+Description = {"請在不下雪的地方賜雪、寒冷的地區賜保暖的棉花吧!請給<NAVI>[我們]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI><ITEM>[保暖棉花]<INFO>25426</INFO></ITEM>10個吧!"}
+, Summary = "保暖棉花10個"}
+, 
+[17390] = {Title = "等候: 打包棉花中", IconName = "ico_ev.bmp", 
+Description = {"正在打包棉花中，請凌晨過後再來吧! - <NAVI>[柯蒂]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17391] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"冒險家的幸運集字是DECEMBER!!從邪惡禮盒身上取得雪花節卡片信封後打開，再收集D.E.C.E.M.B.E.R字卡回來即可，共有8張。 - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "收集DECEMBER字卡"}
+, 
+[17392] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"冒險家的幸運集字是SNOW!!從邪惡禮盒身上取得雪花節卡片信封後打開，再收集S. N. O. W. 字卡回來即可，共有4張。 - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "收集SNOW字卡"}
+, 
+[17393] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"冒險家的幸運集字是FESTIVAL!!從邪惡禮盒身上取得雪花節卡片信封後打開，再收集F. E. S. T. I. V. A. L.字卡回來即可，共有8張。 - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "收集FESTIVAL字卡"}
+, 
+[17394] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"冒險家的幸運集字是WHITE!!從邪惡禮盒身上取得雪花節卡片信封後打開，再收集W.H.I.T.E字卡回來即可，共有5張。 - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "收集WHITE字卡"}
+, 
+[17395] = {Title = "等候: 字卡兌換限1天1次", IconName = "ico_ev.bmp", 
+Description = {"字卡兌換限1天1次，請凌晨過後再來吧! - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17396] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"哄哄在哭鬧的<NAVI>[閃閃]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>吧!"}
+, Summary = "和閃閃對話"}
+, 
+[17397] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"地瓜3個、牛奶3個、雪花節字卡L.O.V.E各帶來一張! - <NAVI>[閃閃]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"}
+, Summary = "準備愛心冬季零食"}
+, 
+[17398] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"走!把愛心零食拿給<NAVI>[暴徒]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>們!"}
+, Summary = "給暴徒愛心零食1"}
+, 
+[17399] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"給把愛心零食拿給下一位 <NAVI>[暴徒]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>!"}
+, Summary = "給暴徒愛心零食2"}
+, 
+[17400] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"給把愛心零食拿給最後一位<NAVI>[暴徒]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>!"}
+, Summary = "給暴徒愛心零食3"}
+, 
+[17401] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"再次前往鐘塔附近阻止<NAVI>[暴徒]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>隊長的計畫!"}
+, Summary = "鐘塔附近"}
+, 
+[17402] = {Title = "渴望關心", IconName = "ico_ev.bmp", 
+Description = {"我以為暴徒們也會喜歡冬季零食，請帶來3個地瓜、5個禮盒和3個雪花卡片信封! - <NAVI>[閃閃]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"}
+, Summary = "為了暴徒們的禮物"}
+, 
+[17403] = {Title = "等候: 渴望關心", IconName = "ico_ev.bmp", 
+Description = {"我就知道冬季零食和友誼小卡行得通，現在可以先休息了，請凌晨過後再來吧! - <NAVI>[閃閃]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17596] = {Title = "製作雪人比賽", IconName = "ico_ev.bmp", 
+Description = {"雖然是沒有下雪的雪花節，不過仍然要製作雪人乾過癮一下啊!前往製作雪人<NAVI>[比賽會場]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>吧!不知道大家會做哪一種雪人呢?"}
+, Summary = "前往比賽會場"}
+, 
+[17597] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"雪莉跑到中央<NAVI>[活動會場]<INFO>aldebaran,179,159,0,101,0</INFO></NAVI> 了，應該不難找到她。"}
+, Summary = "去找雪莉"}
+, 
+[17598] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"請轉告我一找到解決方法就會立刻去找<NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "去找柯隆"}
+, 
+[17599] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"重新製作雪人需要晶瑩白雪5個，可以去<NAVI>[薑餅城]<INFO>xmas_fild01,128,123,0,101,0</INFO></NAVI>收集。"}
+, Summary = "晶瑩白雪"}
+, 
+[17600] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"獲得晶瑩白雪一個，前往下一個<NAVI>[地點]<INFO>xmas_fild01,141,166,0,101,0</INFO></NAVI>吧!"}
+, Summary = "晶瑩白雪"}
+, 
+[17601] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"這些晶瑩白雪已足夠了，前往下一個<NAVI>[地方]<INFO>xmas_fild01,169,214,0,101,0</INFO></NAVI>吧!"}
+, Summary = "晶瑩白雪"}
+, 
+[17602] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"認真挖雪大有斬獲，再去找其他乾淨的<NAVI>[雪]<INFO>xmas_fild01,59,219,0,101,0</INFO></NAVI>吧!"}
+, Summary = "晶瑩白雪"}
+, 
+[17603] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"只要再找最後一個就好了，去找堆積乾淨的<NAVI>[雪]<INFO>xmas_fild01,119,52,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "晶瑩白雪"}
+, 
+[17604] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"晶瑩白雪已全部取得，帶著魔力雪花10個去找<NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>吧!"}
+, Summary = "魔力雪花"}
+, 
+[17605] = {Title = "等候: 最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"終於可以製作雪人了，我需要再補強一下，請你凌晨過後再來吧! - <NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17606] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"晶瑩白雪已全部取得，帶著魔力雪花10個去找<NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>吧!"}
+, Summary = "魔力雪花"}
+, 
+[3493] = {Title = "與賈拉德對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[賈拉德]<INFO>rachel,69,234,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與賈拉德對話"}
+, 
+[3494] = {Title = "與羅熙對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[羅熙]<INFO>rachel,100,72,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與羅熙對話"}
+, 
+[3495] = {Title = "與小甄對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[小甄]<INFO>rachel,258,207,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與小甄對話"}
+, 
+[3496] = {Title = "與斯奎因對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[斯奎因]<INFO>rachel,159,173,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與斯奎因對話"}
+, 
+[3497] = {Title = "與賽娜得對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[賽娜得]<INFO>rachel,190,30,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與賽娜得對話"}
+, 
+[3498] = {Title = "與賈博對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[賈博]<INFO>rachel,210,52,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與賈博對話"}
+, 
+[3499] = {Title = "與施蘿安對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[施蘿安]<INFO>rachel,40,73,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與施蘿安對話"}
+, 
+[3500] = {Title = "與李詩蘿對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[李詩蘿]<INFO>rachel,88,151,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與李詩蘿對話"}
+, 
+[3501] = {Title = "與吉娜對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[吉娜]<INFO>rachel,240,182,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與吉娜對話"}
+, 
+[3502] = {Title = "與荷莉對話", IconName = "ico_dq.bmp", 
+Description = {"和<NAVI>[荷莉]<INFO>rachel,212,52,0,101,0</INFO></NAVI>對話後再來吧!"}
+, Summary = "與荷莉對話"}
+, 
+[3503] = {Title = "察言觀色", IconName = "ico_dq.bmp", 
+Description = {"為了察言觀色，和原住民3人、外來人3人對話後去找<NAVI>[朱洛]<INFO>rachel,155,236,0,101,0</INFO></NAVI>。"}
+, Summary = "與6人對話"}
+, 
+[3504] = {Title = "察言觀色 - 等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可透過<NAVI>[朱洛]<INFO>rachel,155,236,0,101,0</INFO></NAVI>來承接任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3505] = {Title = "向朱洛報告", IconName = "ico_dq.bmp", 
+Description = {"完成所有對話了，去向<NAVI>[朱洛]<INFO>rachel,155,236,0,101,0</INFO></NAVI>報告吧!"}
+, Summary = "向朱洛報告"}
+, 
+[5932] = {Title = "受虐的孩子", IconName = "ico_ep.bmp", 
+Description = {"遇見一個遭受某個男人毒手的小孩，發生什麼事了呢?和小孩對話吧!"}
+, Summary = "與小孩對話", NpcSpr = "4_M_DST_CHILD"}
+, 
+[5933] = {Title = "事業計畫發表會", IconName = "ico_ep.bmp", 
+Description = {"從語氣和行為不尋常的梅傑處收到想不想參與自己事業計畫的提案，有興趣的話就前往示意圖上的位置吧!", " ", "<NAVI>[梅傑給的示意圖]<INFO>rachel,70,135,0,101,0</INFO></NAVI>"}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5934] = {Title = "採集教學(1)", IconName = "ico_ep.bmp", 
+Description = {"若要參與梅傑的事業，好像要接受神奇雙色花採集教學。準備好接受教學時，就去找梅傑對話吧!"}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5935] = {Title = "採集教學(2)", IconName = "ico_ep.bmp", 
+Description = {"在練習用神奇雙色花中採集神奇雙色花。", " ", "採集神奇雙色花方法：", "1)若開在岩石附近時，", "剪40°角/保留2片葉/水50ml/秘方粉末2g。", "2)開在平地時，", "剪30°角/保留4片葉/水40ml/秘方粉末4g。", "^0000FF3)開在樹木附近時，^000000", "^0000FF剪20°角/保留4片葉/水30ml/秘方粉末6g。^000000", "4)開在水邊時，", "剪10°角/保留8片葉/水20ml/秘方粉末8g。"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5936] = {Title = "採集教學(3)", IconName = "ico_ep.bmp", 
+Description = {"將採集的神奇雙色花交給梅傑。"}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5937] = {Title = "[等候]花坊的任務", IconName = "ico_dq.bmp", 
+Description = {"花坊店規：", "工作不過勞，完成一件事後要充分休息!", " ", "冷卻時間過後想要進行下一個工作時，", "就去找<NAVI>[梅傑社長]<INFO>rachel,70,135,0,101,0</INFO></NAVI>吧!"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1, NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5938] = {Title = "採集神奇雙色花", IconName = "ico_dq.bmp", 
+Description = {"採集岩石附近所開的神奇雙色花", "背包裝著園藝剪刀、小桶子、梅傑的秘方粉末、一些水和寫有詳細採集方法的紙條。", "採集神奇雙色花後，趕在枯萎前帶給<NAVI>[梅傑社長]<INFO>rachel,70,135,0,101,0</INFO></NAVI>吧!", " ", "採集神奇雙色花方法：", "^0000FF1)開在岩石附近時，^000000", "^0000FF剪40°角/保留2片葉/水50ml/秘方粉末2g。^000000", "2)開在平地時，", "剪30°角/保留4片葉/水40ml/秘方粉末4g。", "3)開在樹木附近時，", "剪20°角/保留4片葉/水30ml/秘方粉末6g。", "4)開在河邊時，", "剪10°角/保留8片葉/水20ml/秘方粉末8g。"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5939] = {Title = "採集神奇雙色花", IconName = "ico_dq.bmp", 
+Description = {"採集平地所開的神奇雙色花=],\n\t\t[=[背包裝著園藝剪刀、小桶子、梅傑的秘方粉末、一些水和寫有詳細採集方法的紙條。", "採集神奇雙色花後，趕在枯萎前帶給<NAVI>[梅傑社長]<INFO>rachel,70,135,0,101,0</INFO></NAVI>吧!", " ", "採集神奇雙色花方法：", "1)開在岩石附近時，", "剪40°角/保留2片葉/水50ml/秘方粉末2g。", "^0000FF2)開在平地時，^000000", "^0000FF剪30°角/保留4片葉/水40ml/秘方粉末4g。^000000", "3)開在樹木附近時，", "剪20°角/保留4片葉/水30ml/秘方粉末6g。", "4)開在河邊時，", "剪10°角/保留8片葉/水20ml/秘方粉末8g。"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5940] = {Title = "採集神奇雙色花", IconName = "ico_dq.bmp", 
+Description = {"採集樹木附近所開的神奇雙色花", "背包裝著園藝剪刀、小桶子、梅傑的秘方粉末、一些水和寫有詳細採集方法的紙條。", "採集神奇雙色花後，趕在枯萎前帶給<NAVI>[梅傑社長]<INFO>rachel,70,135,0,101,0</INFO></NAVI>吧!", " ", "採集神奇雙色花方法：", "1)開在岩石附近時，", "剪40°角/保留2片葉/水50ml/秘方粉末2g。", "2)開在平地時，", "剪30°角/保留4片葉/水40ml/秘方粉末4g。", "^0000FF3)開在樹木附近時，^000000", "^0000FF剪20°角/保留4片葉/水30ml/秘方粉末6g。^000000", "4)開在河邊時，", "剪10°角/保留8片葉/水20ml/秘方粉末8g。"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5941] = {Title = "採集神奇雙色花", IconName = "ico_dq.bmp", 
+Description = {"採集河邊附近所開的神奇雙色花", "背包裝著園藝剪刀、小桶子、梅傑的秘方粉末、一些水和寫有詳細採集方法的紙條。", "採集神奇雙色花後，趕在枯萎前帶給<NAVI>[梅傑社長]<INFO>rachel,70,135,0,101,0</INFO></NAVI>吧!", " ", "採集神奇雙色花方法：", "1)開在岩石附近時，", "剪40°角/保留2片葉/水50ml/秘方粉末2g。", "2)開在平地時，", "剪30°角/保留4片葉/水40ml/秘方粉末4g。", "3)開在樹木附近時，", "剪20°角/保留4片葉/水30ml/秘方粉末6g。", "^0000FF4)開在河邊時，^000000", "^0000FF剪10°角/保留8片葉/水20ml/秘方粉末8g。^000000"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5942] = {Title = "花坊開幕儀式", IconName = "ico_ep.bmp", 
+Description = {"出席花坊開幕儀式。"}
+, Summary = ""}
+, 
+[5943] = {Title = "開始配送服務", IconName = "ico_ep.bmp", 
+Description = {"花坊開始推出配送服務。"}
+, Summary = ""}
+, 
+[5944] = {Title = "送花服務", IconName = "ico_dq.bmp", 
+Description = {"請按照委託人寫下的內容送花，送達後別忘記拿簽收單。", " ", "今天請把花送給在<NAVI>[前往神殿的階梯]<INFO>rachel,150,192,0,101,0</INFO></NAVI>遇見的女生，名字好像叫^0000FF吳莉^000000或^0000FF茉莉^000000吧?雖然我們沒有說很多話，但她是一個眼睛很漂亮的女生，總之麻煩你啦!"}
+, Summary = ""}
+, 
+[5945] = {Title = "送花服務", IconName = "ico_dq.bmp", 
+Description = {"請按照委託人寫下的內容送花，送達後別忘記拿簽收單。", " ", "今天請把花送給在<NAVI>[菲音斯村北邊]<INFO>veins,218,354,0,101,0</INFO></NAVI>遇見的女生，名字好像叫^0000FF瑪莎^000000? ^0000FF瑪夏^000000吧?她的衣服和菲音斯一點都不相稱、很有異國風情，不會太難找到她，總之麻煩你啦!"}
+, Summary = ""}
+, 
+[5946] = {Title = "送花服務", IconName = "ico_dq.bmp", 
+Description = {"請按照委託人寫下的內容送花，送達後別忘記拿簽收單。", " ", "今天請把花送給在<NAVI>[拉赫武器商店]<INFO>rachel,42,87,0,101,0</INFO></NAVI>遇見的女生，名字好像叫^0000FF蒂凌^000000?^0000FF泰玲^000000?^0000FF黛玲^000000吧?是一位跟黃頭髮很搭配的女孩，總之麻煩你啦!"}
+, Summary = ""}
+, 
+[5947] = {Title = "送花服務", IconName = "ico_dq.bmp", 
+Description = {"請按照委託人寫下的內容送花，送達後別忘記拿簽收單。", " ", "今天請把花送給在拉赫就業，又回到老家<NAVI>[灰狼村]<INFO>wolfvill,269,29,0,101,0</INFO></NAVI>的女生，名字好像叫^0000FF薛莉^000000?^0000FF許莉^000000吧?總之我好久沒看到她了好想她，請轉告她說是我送的花喔!總之麻煩你啦!"}
+, Summary = ""}
+, 
+[5948] = {Title = "簽收單", IconName = "ico_dq.bmp", 
+Description = {"收取了完成神奇雙色花配送的簽收單，把這個簽收單交給<NAVI>[梅傑社長]<INFO>rachel,70,135,0,101,0</INFO></NAVI>後領取獎勵吧!"}
+, Summary = ""}
+, 
+[5949] = {Title = "簽收單", IconName = "ico_dq.bmp", 
+Description = {"收取了完成神奇雙色花配送的簽收單，把這個簽收單交給<NAVI>[梅傑社長]<INFO>rachel,70,135,0,101,0</INFO></NAVI>後領取獎勵吧!"}
+, Summary = ""}
+, 
+[8681] = {Title = "前往教國(1)", IconName = "ico_ep.bmp", 
+Description = {"霸肋門德大宅的機器人終於確認了收到的信號身分，發信地是<NAVI>[拉赫]<INFO>rachel,182,176,0,101,0</INFO></NAVI>，得趕快行動了。"}
+, Summary = "前往拉赫"}
+, 
+[8682] = {Title = "前往教國(2)", IconName = "ico_ep.bmp", 
+Description = {"拉赫的氣氛比之前來的時候更險惡了，某人在演說的時候，底下聽眾發生衝突了。<NAVI>[有一人]<INFO>rachel,183,170,0,101,0</INFO></NAVI>十分顯眼。"}
+, Summary = "與神官對話"}
+, 
+[8683] = {Title = "請阻止爭執", IconName = "ico_ep.bmp", 
+Description = {"焦急的神官請求阻止爭執，到底該怎麼辦?"}
+, Summary = "與神官對話"}
+, 
+[8684] = {Title = "告一段落", IconName = "ico_ep.bmp", 
+Description = {"無法掩藏焦躁神色的神官朱洛，說會告知目前阿盧納貝茲的情況，並約在<NAVI>[神殿前]<INFO>ra_temple,72,54,0,101,0</INFO></NAVI>見面。"}
+, Summary = "前往神殿"}
+, 
+[8685] = {Title = "在神殿發現的可疑行蹤", IconName = "ico_ep.bmp", 
+Description = {"神官朱洛與保安隊員最近一聽到瑟斯隆尼勒有入侵者出沒的危險消息，便來告知 <NAVI>[神殿西邊]<INFO>ra_temple,30,142,0,101,0</INFO></NAVI>有可疑的人出沒。"}
+, Summary = "跟隨保安隊員"}
+, 
+[8686] = {Title = "神殿的入侵者", IconName = "ico_ep.bmp", 
+Description = {"好像在哪裡見過的這些人真面目是邪心獵人，好像還沒聽說入侵大宅的這些人潰敗的消息。"}
+, Summary = "與神官對話"}
+, 
+[8687] = {Title = "都擊敗了啊?", IconName = "ico_ep.bmp", 
+Description = {"奇怪的是邪心獵人戰力不高，奇怪的是就像話劇班結束了這個瞬間。好像知道這些人身分的保安隊員，說要去見<NAVI>[尼樂研]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>。"}
+, Summary = "與尼樂研對話"}
+, 
+[8688] = {Title = "今天也感謝糧食", IconName = "ico_ep.bmp", 
+Description = {"灰狼村的<NAVI>[艾璐音]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>要求去確認他設置的陷阱，並收集5個戰利品。"}
+, Summary = "收集5個掉入陷阱的戰利品"}
+, 
+[8689] = {Title = "今天也感謝糧食–等候", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[艾璐音]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>希望明天也幫他。"}
+, Summary = "凌晨四點點重置", CoolTimeQuest = 1}
+, 
+[8690] = {Title = "今天也感謝糧食", IconName = "ico_dq.bmp", 
+Description = {"灰狼村的<NAVI>[艾璐音]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>要求去確認他設置的陷阱，並收集5個戰利品。"}
+, Summary = "收集5個掉入陷阱的戰利品"}
+, 
+[8691] = {Title = "淨水聖物(1)", IconName = "ico_ep.bmp", 
+Description = {"灰狼村的布丹要求去拉赫買飲用水淨水聖物，好像需要新鮮的東西。去找<NAVI>[聖物銷售員]<INFO>rachel,103,141,0,101,0</INFO></NAVI>吧!"}
+, Summary = "購買淨水聖物"}
+, 
+[8692] = {Title = "淨水聖物(2)", IconName = "ico_ep.bmp", 
+Description = {"已買到淨水聖物，放入灰狼村的<NAVI>[水桶]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI>中，便可以取得乾淨的飲用水。"}
+, Summary = "在水桶放入淨水聖物"}
+, 
+[8693] = {Title = "淨水聖物(3)", IconName = "ico_ep.bmp", 
+Description = {"把水桶中的水交給<NAVI>[布丹]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>後便完成任務。"}
+, Summary = "與布丹對話"}
+, 
+[8694] = {Title = "籌措純淨水–等候", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[布丹]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>希望明天也幫他。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8695] = {Title = "籌措純淨水(1)", IconName = "ico_dq.bmp", 
+Description = {"灰狼村的布丹要求去拉赫買飲用水淨水聖物，好像需要新鮮的東西。去找<NAVI>[聖物銷售員]<INFO>rachel,103,141,0,101,0</INFO></NAVI>吧!"}
+, Summary = "購買淨水聖物"}
+, 
+[8696] = {Title = "籌措純淨水(2)", IconName = "ico_dq.bmp", 
+Description = {"已買到淨水聖物，放入灰狼村的<NAVI>[水桶]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI>中，便可以取得乾淨的飲用水。"}
+, Summary = "在水桶放入淨水聖物"}
+, 
+[8697] = {Title = "籌措純淨水(3)", IconName = "ico_dq.bmp", 
+Description = {"把水桶中的水交給<NAVI>[布丹]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>後便完成任務。"}
+, Summary = "與布丹對話"}
+, 
+[8698] = {Title = "遲來的遷移", IconName = "ico_ep.bmp", 
+Description = {"在拉赫飯店遇到的服務員郝林說想去灰狼村，為了幫他約好在<NAVI>[拉赫西門外]<INFO>ra_fild11,358,229,0,101,0</INFO></NAVI>見面。"}
+, Summary = "與郝林對話"}
+, 
+[8699] = {Title = "離開城市的第一步", IconName = "ico_ep.bmp", 
+Description = {"郝林說從未對他居住的地方有歸屬感，得替還在猶豫的他進行<NAVI>[導覽]<INFO>ra_fild10,375,293,0,101,0</INFO></NAVI>。"}
+, Summary = "與郝林對話"}
+, 
+[8700] = {Title = "連一半都不到", IconName = "ico_ep.bmp", 
+Description = {"雖然郝林好像在無病呻吟，但應該是第一次去的關係，他體力很好很快就跟上來，看來要繼續為他<NAVI>[導覽]<INFO>oz_dun01,285,170,0,101,0</INFO></NAVI>。"}
+, Summary = "與郝林對話"}
+, 
+[8701] = {Title = "第一次見到的風景", IconName = "ico_ep.bmp", 
+Description = {"被大自然震懾的郝林問灰狼村的森林是什麼樣的風景，但郝林聽過的故事大概和實際情況沒有什麼太大差異，郝林催促<NAVI>[導覽]<INFO>gw_fild01,275,338,0,101,0</INFO></NAVI>。"}
+, Summary = "與郝林對話"}
+, 
+[8702] = {Title = "火山灰的味道", IconName = "ico_ep.bmp", 
+Description = {"嘴巴不牢的人好像到處在說彈藥庫傳出的機密，只能<NAVI>[導覽]<INFO>gw_fild01,38,99,0,101,0</INFO></NAVI>了。"}
+, Summary = "與郝林對話"}
+, 
+[8703] = {Title = "不疾不徐的步行", IconName = "ico_ep.bmp", 
+Description = {"郝林說需要一個回去的地方，對他來家並不是想回去的地方。不能坐太久，繼續<NAVI>[導覽]<INFO>wolfvill,266,26,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與郝林對話"}
+, 
+[8704] = {Title = "封鎖神殿(1)", 
+Description = {"神殿的門突然被封鎖了，為了擔心的神官奈瑪去<NAVI>[打聽]<INFO>rachel,243,37,0,101,0</INFO></NAVI>有沒有其它出入口吧!"}
+, Summary = "去找知道其它出口的人"}
+, 
+[8705] = {Title = "封鎖神殿(2)", 
+Description = {"神殿中有可以偷偷出入、沒有上鎖的<NAVI>[窗戶]<INFO>ra_temple,67,209,0,101,0</INFO></NAVI>…"}
+, Summary = "尋找打開的窗戶"}
+, 
+[8706] = {Title = "封鎖神殿(3)", 
+Description = {"成功偷偷潛入神殿，朝<NAVI>[入口方向]<INFO>que_rachel,59,112,0,101,0</INFO></NAVI>前進吧!"}
+, Summary = "搜索神殿內部"}
+, 
+[8707] = {Title = "封鎖神殿(4)", 
+Description = {"從某處傳來吵雜的<NAVI>[聲音]<INFO>que_rachel,94,138,0,101,0</INFO></NAVI>，去看看吧!"}
+, Summary = "前往禮拜堂的走廊"}
+, 
+[8708] = {Title = "封鎖神殿(5)", 
+Description = {"傳來可疑的聲音，好像是從<NAVI>[樓梯]<INFO>que_rachel,132,70,0,101,0</INFO></NAVI>傳來的。"}
+, Summary = "前往樓梯方向"}
+, 
+[8709] = {Title = "封鎖神殿(6)", 
+Description = {"<NAVI>[聲音]<INFO>que_rachel,239, 258,0,101,0</INFO></NAVI>好像是從樓梯上方傳來的，往上移動一層吧!"}
+, Summary = "前往樓梯上方"}
+, 
+[8710] = {Title = "封鎖神殿(7)", 
+Description = {"跟著[<NAVI>[聲音]<INFO>que_rachel,28,315,0,101,0</INFO></NAVI>傳出的方向走吧!"}
+, Summary = "搜索神殿內部"}
+, 
+[8711] = {Title = "封鎖神殿(8)", 
+Description = {"如果有人在找其它東西的時候出現怎麼辦?先重新調查血跡吧!"}
+, Summary = "調查血跡"}
+, 
+[8712] = {Title = "封鎖神殿(9)", 
+Description = {"再這樣下去如果遇到其他人，不知道會發生什麼事，先前往<NAVI>[大門]<INFO>que_rachel,169,18,0,101,0</INFO></NAVI>吧!"}
+, Summary = "前往神殿大廳"}
+, 
+[8713] = {Title = "封鎖神殿(10)", 
+Description = {"順利開門來到外面，和<NAVI>[奈瑪神官]<INFO>rachel,116,174,0,101,0</INFO></NAVI>對話吧!"}
+, Summary = "與奈瑪神官對話"}
+, 
+[8714] = {Title = "封鎖神殿(11)", 
+Description = {"有事要問[神殿內的<NAVI>[帕諾神官]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI>。"}
+, Summary = "與帕諾神官對話"}
+, 
+[8715] = {Title = "封鎖神殿(12)", 
+Description = {"有事要問[神殿內的<NAVI>[帕諾神官]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI>。"}
+, Summary = "與帕諾神官對話"}
+, 
+[8716] = {Title = "封鎖神殿(13)", 
+Description = {" <NAVI>[奈瑪神官]<INFO>rachel,116,174,0,101,0</INFO></NAVI>真的什麼都不知道嗎?"}
+, Summary = "與奈瑪神官對話"}
+, 
+[8717] = {Title = "封鎖神殿(14)", 
+Description = {" <NAVI>[奈瑪神官]<INFO>rachel,116,174,0,101,0</INFO></NAVI>委託收集<ITEM>[鞭炮]<INFO>12018</INFO></ITEM> 20個。"}
+, Summary = "轉交物品"}
+, 
+[8718] = {Title = "朋友的問候", IconName = "ico_ep.bmp", 
+Description = {"灰狼村的艾貝爾擔心在拉赫飯店工作的朋友<NAVI>[郝林]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>的安危。"}
+, Summary = "與郝林對話"}
+, 
+[11696] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"保安隊的丹特好像因為最近拉赫的狀況很辛苦，去聽聽<NAVI>[其他保安隊員]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI>怎麼說吧!"}
+, Summary = "與保安隊員尼爾對話"}
+, 
+[11697] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"保安隊的尼爾也因為居民吵架感到疲倦，神殿情況好像也不好，去聽聽<NAVI>[弗蕾亞祭司<INFO>ra_temin,172,36,0,101,0</INFO></NAVI>的說法吧!"}
+, Summary = "與弗蕾亞祭司對話"}
+, 
+[11698] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"尼樂研一聽到邪心獵人後就說要換地方，在沒有什麼人經過的走廊角落和<NAVI>[尼樂研<INFO>ra_temin,213,87,0,101,0</INFO></NAVI>再次對話吧!"}
+, Summary = "與尼樂研對話"}
+, 
+[11699] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"尼樂研要求掌握兒子馬藍與居民的情況，去神殿入口詢問<NAVI>[保安隊員尼爾]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI>馬藍的行蹤吧!"}
+, Summary = "與保安隊員尼爾對話"}
+, 
+[11700] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"尼爾說在拉赫廣場附近有看過馬藍，在拉赫中央噴水池附近詢問村民馬藍的行蹤。"}
+, Summary = "在廣場與村民對話"}
+, 
+[11701] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"沒有取得需要的情報，在拉赫中央噴水池附近詢問村民馬藍的行蹤。"}
+, Summary = "在廣場與村民對話"}
+, 
+[11702] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"沒有取得需要的情報，在拉赫商店附近詢問村民馬藍的行蹤。"}
+, Summary = "在廣場與村民對話"}
+, 
+[11703] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"聽說馬藍經過村民往上走，到上面的路尋找<NAVI>[馬藍]<INFO>rachel,70,147,0,101,0</INFO></NAVI>吧!"}
+, Summary = "尋找馬藍"}
+, 
+[11704] = {Title = "尼樂研的委託", IconName = "ico_ep.bmp", 
+Description = {"自<NAVI>[馬藍]<INFO>rachel,70,147,0,101,0</INFO></NAVI>得到灰色孩子們的情報，去和馬藍的朋友<NAVI>[米麗安]<INFO>rachel,62,144,0,101,0</INFO></NAVI>對話吧!"}
+, Summary = "與米麗安對話"}
+, 
+[11705] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"米麗安好像沒有買到要買的東西，看看馬藍如何<NAVI>[購物]<INFO>rachel,87,122,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與商人對話"}
+, 
+[11706] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"商人說不賣東西給馬藍，去找<NAVI>[其他商人]<INFO>rachel,107,102,0,101,0</INFO></NAVI>買東西吧!"}
+, Summary = "與商人對話"}
+, 
+[11707] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"果然買不到東西，去和<NAVI>[商店]<INFO>rachel,107,102,0,101,0</INFO></NAVI>前的米麗安對話吧!"}
+, Summary = "與米麗安對話"}
+, 
+[11708] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[商人]<INFO>rachel,107,102,0,101,0</INFO></NAVI>好像不想賣東西給灰色孩子們，找出解決方法吧!"}
+, Summary = "與馬藍對話"}
+, 
+[11709] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"馬藍與米麗安為了幫助離開拉赫後生活艱辛的原住民，打算購入物資，代替馬藍向<NAVI>[商人]<INFO>rachel,137,85,0,101,0</INFO></NAVI>購買東西吧!"}
+, Summary = "與商人對話"}
+, 
+[11710] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"謊稱自己是來自國外的商隊，簽訂購物合約，和<NAVI>[商人]<INFO>rachel,137,85,0,101,0</INFO></NAVI>前的米麗安對話吧!"}
+, Summary = "與米麗安對話"}
+, 
+[11711] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"馬藍和米麗安準備偽裝成商隊的時候，邊吃 <NAVI>[包子]<INFO>rachel,108,73,0,101,0</INFO></NAVI>邊等候吧!"}
+, Summary = "吃包子"}
+, 
+[11712] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"偶然遇到塔莫琳，拜託她幫忙偽裝商隊，說要帶上<NAVI>[馬克]<INFO>rachel,122,120,0,101,0</INFO></NAVI>與馬奇。"}
+, Summary = "在廣場尋找馬克"}
+, 
+[11713] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"馬克與馬奇也加入，前往第一次見到<NAVI>[馬藍]<INFO>rachel,70,147,0,101,0</INFO></NAVI>的地點。"}
+, Summary = "與馬藍對話"}
+, 
+[11714] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"馬藍與米麗安說會和商隊一起在村莊入口等候，去找購買物品的<NAVI>[商人]<INFO>rachel,137,85,0,101,0</INFO></NAVI>請他送貨。"}
+, Summary = "與商人對話"}
+, 
+[11715] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"與商人對話，去拉赫西方入口確認<NAVI>[物品]<INFO>rachel,41,132,0,101,0</INFO></NAVI>吧!"}
+, Summary = "前往拉赫西方入口"}
+, 
+[11716] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"順利購買物品，在拉赫西方入口外與<NAVI>[馬藍]<INFO>ra_fild11,354,235,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與馬藍對話"}
+, 
+[11717] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"為了不被發現目的地，和馬藍單獨行動，在拉赫西方的歐茲峽谷與<NAVI>[米麗安]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI>見面。"}
+, Summary = "與米麗安對話"}
+, 
+[11718] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"準備好前往歐茲迷宮時，再次和<NAVI>[米麗安]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與米麗安對話"}
+, 
+[11719] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"和一行人攻克歐茲迷宮"}
+, Summary = "攻克歐茲迷宮"}
+, 
+[11720] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"已攻克迷宮，和在外面的<NAVI>[馬藍]<INFO>gw_fild01,273,339,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與馬藍對話"}
+, 
+[11721] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"尋找灰狼叢林西方村莊入口，與馬藍對話。"}
+, Summary = "尋找村莊入口"}
+, 
+[11722] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"好像不會讓和外地人一起來訪的<NAVI>[馬藍]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI>進入村莊，與伊姆利對話。"}
+, Summary = "與伊姆利對話"}
+, 
+[11723] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"拜託伊姆利叫蘇亞德，邊等蘇亞德邊與 <NAVI>[馬藍]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與馬藍對話"}
+, 
+[11724] = {Title = "灰色孩子們", IconName = "ico_ep.bmp", 
+Description = {"蘇亞德允許我們進入灰狼村，在村內與<NAVI>[伊姆利]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>對話。"}
+, Summary = "前往灰狼村"}
+, 
+[11725] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"在歐茲迷宮一樓入口與 <NAVI>[伊姆利]<INFO>oz_dun01,27,184,0,101,0</INFO></NAVI>見面。"}
+, Summary = "前往歐茲迷宮一樓入口"}
+, 
+[11726] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"按照伊姆利的指示，利用<NAVI>[小路]<INFO>oz_dun01,68,284,0,101,0</INFO></NAVI>移動。"}
+, Summary = "調查歐茲迷宮"}
+, 
+[11727] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"找到箱子了，按照伊姆利的指示前往<NAVI>[下方]<INFO>oz_dun01,65,189,0,101,0</INFO></NAVI>。"}
+, Summary = "調查歐茲迷宮"}
+, 
+[11728] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"路看起來很危險，小心按照伊姆利的指示移動至<NAVI>[下方]<INFO>oz_dun01,111,96,0,101,0</INFO></NAVI>。"}
+, Summary = "調查歐茲迷宮"}
+, 
+[11729] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"調查冒出蒸氣的孔時，從某處傳來伊姆利的呼叫聲，移動至<NAVI>[傳出聲音的地方]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI>。"}
+, Summary = "尋找傷患"}
+, 
+[11730] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"為了讓<NAVI>[福斯]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI>恢復體力時不受到干擾，幫忙擊殺附近的怪物10隻吧!"}
+, Summary = "協助福斯恢復體力"}
+, 
+[11731] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"福斯返回村落了，按照伊姆利的指示前往<NAVI>[下方]<INFO>oz_dun01,134,56,0,101,0</INFO></NAVI>。"}
+, Summary = "調查歐茲迷宮"}
+, 
+[11732] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"找到箱子了，按照伊姆利的指示前往<NAVI>[下方]<INFO>oz_dun01,110,37,0,101,0</INFO></NAVI>。"}
+, Summary = "調查歐茲迷宮"}
+, 
+[11733] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"抵達歐茲迷宮二樓入口，按照伊姆利的指示移動至<NAVI>[下方]<INFO>oz_dun02,152,276,0,101,0</INFO></NAVI>。"}
+, Summary = "前往二樓"}
+, 
+[11734] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"調查二樓的伊姆利好像很吃力，協助調查<NAVI>[附近]<INFO>oz_dun02,143,231,0,101,0</INFO></NAVI>吧!"}
+, Summary = "調查歐茲迷宮"}
+, 
+[11735] = {Title = "歐茲迷宮與小販", IconName = "ico_ep.bmp", 
+Description = {"遇見迷宮守衛老先生，為了告訴蘇亞德調查歐茲迷宮的結果，回到村莊與<NAVI>[伊姆利]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>對話。"}
+, Summary = "在村莊與伊姆利對話"}
+, 
+[11736] = {Title = "歐茲迷宮一樓(170LV)", IconName = "ico_dq.bmp", 
+Description = {"在歐茲迷宮一樓擊殺灰燼蟾蜍20隻後，回去找灰狼村的<NAVI>[伊姆利]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>。"}
+, Summary = "擊殺灰燼蟾蜍"}
+, 
+[11737] = {Title = "歐茲迷宮一樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可透過<NAVI>[伊姆利]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>再次承接任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[11738] = {Title = "歐茲迷宮二樓 (200lv)", IconName = "ico_dq.bmp", 
+Description = {"在歐茲迷宮二樓擊殺火爪狼牙20隻，回去找灰狼村的<NAVI>[伊姆利]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>。"}
+, Summary = "擊殺火爪狼牙"}
+, 
+[11739] = {Title = "歐茲迷宮二樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可透過<NAVI>[伊姆利]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>再次承接任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[12520] = {Title = "欺瞞別墅", 
+Description = {"聽說在大神官尤斯的夏天別墅，仍可目擊已被擊殺的形體。艾拉希望在不祥之物激怒神之前，由冒險家親手解決他。"}
+, Summary = "擊殺扭曲之神"}
+, 
+[12521] = {Title = "欺瞞別墅(高級)", 
+Description = {"聽說在大神官尤斯的夏天別墅，仍可目擊已被擊殺的形體。艾拉希望在不祥之物佔領世界前，由冒險家親手解決他。"}
+, Summary = "擊殺扭曲之神"}
+, 
+[12522] = {Title = "等候: 破屋症候群", 
+Description = {"在老舊宅邸待久了覺得有點反胃頭暈，休息一下比較好。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[12531] = {Title = "未來的總管候補", IconName = "ico_ep.bmp", 
+Description = {"已回收了這麼多行李，應該可以避免最壞的情況。請回到商隊會議廳協助卡米爾。", "<NAVI>[商隊會議廳]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI>"}
+, Summary = "協助卡米爾..."}
+, 
+[12532] = {Title = "商隊的苦難", IconName = "ico_ep.bmp", 
+Description = {"上京好像出了問題，需要找到可以修理壞掉車輪的<ITEM>[材料]<INFO>7197</INFO></ITEM>。"}
+, Summary = "尋找適當的材料"}
+, 
+[12533] = {Title = "隱藏的幫手", IconName = "ico_ep.bmp", 
+Description = {"卡米爾擔心這樣無法順利上京，最好按照哈札爾的要求跟上去看看好了。", "<NAVI>[跟隨車輪的痕跡]<INFO>gw_fild01,118,131,0,101,0</INFO></NAVI>"}
+, Summary = "偷偷跟著卡米爾"}
+, 
+[12534] = {Title = "失蹤的卡米爾", IconName = "ico_ep.bmp", 
+Description = {"擔心的事好像發生了，卡米爾現在大概遇到危險，快點找到後協助他吧!", "<NAVI>[尋找卡米爾的蹤跡]<INFO>gw_fild01,200,96,0,101,0</INFO></NAVI>"}
+, Summary = "救出卡米爾"}
+, 
+[12535] = {Title = "總管的決定", IconName = "ico_ep.bmp", 
+Description = {"無從得知卡米爾會在這個村落受到什麼處分，回去村莊確認卡米爾的處分，若有必要時插手吧!", "<NAVI>[商隊會議廳]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI>"}
+, Summary = "回去找總管"}
+, 
+[12536] = {Title = "四散的行李(北邊)", IconName = "ico_ep.bmp", 
+Description = {"行李不知道在灰狼村叢林北邊的什麼地方，找出並回收吧!", "<NAVI>[推斷地點]<INFO>gw_fild01,242,321,0,101,0</INFO></NAVI>"}
+, Summary = "回收物品"}
+, 
+[12537] = {Title = "四散的行李(西邊)", IconName = "ico_ep.bmp", 
+Description = {"行李不知道在灰狼村叢林西邊的什麼地方，找出並回收吧!", "<NAVI>[推斷地點]<INFO>gw_fild01,93,211,0,101,0</INFO></NAVI>"}
+, Summary = "回收物品"}
+, 
+[12538] = {Title = "四散的行李(東邊)", IconName = "ico_ep.bmp", 
+Description = {"行李不知道在灰狼村叢林東邊的什麼地方，找出並回收吧!", "<NAVI>[推斷地點]<INFO>gw_fild01,343,194,0,101,0</INFO></NAVI>"}
+, Summary = "回收物品"}
+, 
+[12539] = {Title = "四散的行李(南邊)", IconName = "ico_ep.bmp", 
+Description = {"行李不知道在灰狼村叢林南邊的什麼地方，找出並回收吧!", "<NAVI>[推斷地點]<INFO>gw_fild01,228,59,0,101,0</INFO></NAVI>"}
+, Summary = "回收物品"}
+, 
+[16548] = {Title = "睡不著", IconName = "ico_ep.bmp", 
+Description = {"整夜沒睡的<NAVI>[愛希爾]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>說只要沒有風火老鷹的叫聲會很好入睡，要求擊殺風火老鷹30隻。"}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16549] = {Title = "睡不著", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[愛希爾]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>說如果冒險家可以再擊殺風火老鷹30隻，今晚應該也可以睡個好覺。"}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16550] = {Title = "睡不著-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可透過灰狼村的<NAVI>[愛希爾]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1, NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16551] = {Title = "狄娜樂的故事", IconName = "ico_ep.bmp", 
+Description = {"帶著谷德蘿給的筆記本去找<NAVI>[狄娜樂]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI>，寫下狄娜樂告知的驚人故事後回來。"}
+, Summary = "與狄娜樂對話", NpcSpr = "4_F_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 106, NpcPosY = 224}
+, 
+[16552] = {Title = "亞米拉的故事", IconName = "ico_ep.bmp", 
+Description = {"帶著谷德蘿給的筆記本去找<NAVI>[亞米拉]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI>，寫下亞米拉告知的驚人故事後回來。"}
+, Summary = "與亞米拉對話", NpcSpr = "4_F_DESERT", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 204}
+, 
+[16553] = {Title = "莎妮娜奶奶的故事", IconName = "ico_ep.bmp", 
+Description = {"帶著谷德蘿給的筆記本去找<NAVI>[莎妮娜]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI>奶奶，寫下奶奶告知的驚人故事後回來。"}
+, Summary = "與莎妮娜對話", NpcSpr = "4_F_DST_GRAND", NpcNavi = "wolfvill", NpcPosX = 154, NpcPosY = 184}
+, 
+[16554] = {Title = "請收集故事", IconName = "ico_ep.bmp", 
+Description = {"今天的故事都收集了，帶著故事去找<NAVI>[谷德蘿]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與谷德蘿對話", NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16555] = {Title = "狄娜樂的故事", IconName = "ico_dq.bmp", 
+Description = {"帶著谷德蘿給的筆記本去找<NAVI>[狄娜樂]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI>，寫下狄娜樂告知的驚人故事後回來。"}
+, Summary = "與狄娜樂對話", NpcSpr = "4_F_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 106, NpcPosY = 224}
+, 
+[16556] = {Title = "亞米拉的故事", IconName = "ico_dq.bmp", 
+Description = {"帶著谷德蘿給的筆記本去找<NAVI>[亞米拉]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI>，寫下亞米拉告知的驚人故事後回來。"}
+, Summary = "與亞米拉對話", NpcSpr = "4_F_DESERT", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 204}
+, 
+[16557] = {Title = "莎妮娜奶奶的故事", IconName = "ico_dq.bmp", 
+Description = {"帶著谷德蘿給的筆記本去找<NAVI>[莎妮娜]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI>奶奶，寫下奶奶告知的驚人故事後回來。"}
+, Summary = "與莎妮娜對話", NpcSpr = "4_F_DST_GRAND", NpcNavi = "wolfvill", NpcPosX = 154, NpcPosY = 184}
+, 
+[16558] = {Title = "請收集故事", IconName = "ico_dq.bmp", 
+Description = {"今天的故事都收集了，帶著故事去找<NAVI>[谷德蘿]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與谷德蘿對話", NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16559] = {Title = "請收集故事-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可透過灰狼村的<NAVI>[谷德蘿]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1, NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16560] = {Title = "這裡不是那個地方", IconName = "ico_ep.bmp", 
+Description = {"在湖邊可以見到對某人發牢騷的年輕人，去聽聽<NAVI>[卡亞爾]<INFO>wolfvill,83,109,0,101,0</INFO></NAVI>的故事吧!"}
+, Summary = "與卡亞爾對話", NpcSpr = "4W_M_03", NpcNavi = "wolfvill", NpcPosX = 83, NpcPosY = 109}
+, 
+[16561] = {Title = "這裡不是那個地方", IconName = "ico_ep.bmp", 
+Description = {"聽說只有冒險家可以幫他們...去找<NAVI>[雷德蕭]<INFO>wolfvill,87,109,0,101,0</INFO></NAVI>聽聽原因吧!"}
+, Summary = "與雷德蕭對話", NpcSpr = "4_M_DESERT", NpcNavi = "wolfvill", NpcPosX = 87, NpcPosY = 109}
+, 
+[16562] = {Title = "這裡不是那個地方", IconName = "ico_ep.bmp", 
+Description = {"要求親自去和他們口中的當事人見面，去找<NAVI>[亞賀]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與亞賀對話", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16563] = {Title = "這裡不是那個地方", IconName = "ico_ep.bmp", 
+Description = {"被勉強推去幫忙了，去拉赫的<NAVI>[莫諾超市]<INFO>rachel,135,64,0,101,0</INFO></NAVI>買瓶黃瓜優格醬吧!"}
+, Summary = "前往莫諾超市", NpcSpr = "4_M_RACHMAN2", NpcNavi = "rachel", NpcPosX = 135, NpcPosY = 64}
+, 
+[16564] = {Title = "這裡不是那個地方", IconName = "ico_ep.bmp", 
+Description = {"順利買到黃瓜優格醬了，還花我的錢...回去找<NAVI>[亞賀]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>完成跑腿吧!"}
+, Summary = "與亞賀對話", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16565] = {Title = "這裡不是那個地方", IconName = "ico_ep.bmp", 
+Description = {"說服忙著試吃醬料的<NAVI>[亞賀]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>。"}
+, Summary = "與亞賀對話", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16566] = {Title = "這裡不是那個地方", IconName = "ico_ep.bmp", 
+Description = {"亞賀說他改變心意了，也要求轉告其他人，向<NAVI>[朱藍]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>和卡亞爾、雷德蕭轉告亞賀的決心。"}
+, Summary = "", NpcSpr = "4_M_RACHMAN1", NpcNavi = "wolfvill", NpcPosX = 85, NpcPosY = 111}
+, 
+[16567] = {Title = "灰狼村叢林大會", IconName = "ico_ep.bmp", 
+Description = {"灰狼村叢林大會即將開始，和<NAVI>[蘇亞德]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI>一起前往大家聚集的地方參加會議吧!"}
+, Summary = "與蘇亞德對話", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 144, NpcPosY = 151}
+, 
+[16568] = {Title = "各自的意見", IconName = "ico_ep.bmp", 
+Description = {"有人建議聽完大家的意見再回來，去聽聽<NAVI>[熱血青年]<INFO>wolfvill,145,146,0,101,0</INFO></NAVI>的意見吧!"}
+, Summary = "與熱血青年對話", NpcSpr = "4_EP18_GW_MAN01", NpcNavi = "wolfvill", NpcPosX = 145, NpcPosY = 146}
+, 
+[16569] = {Title = "各自的意見", IconName = "ico_ep.bmp", 
+Description = {"有人建議聽完大家的意見再回來，去聽聽<NAVI>[土生土長的老人]<INFO>wolfvill,139,148,0,101,0</INFO></NAVI>的意見吧!"}
+, Summary = "與土生土長的老人對話", NpcSpr = "4_EP18_GW_OLD01", NpcNavi = "wolfvill", NpcPosX = 139, NpcPosY = 148}
+, 
+[16570] = {Title = "各自的意見", IconName = "ico_ep.bmp", 
+Description = {"有人建議聽完大家的意見再回來，去聽聽<NAVI>[熱血壯年]<INFO>wolfvill,150,147,0,101,0</INFO></NAVI>的意見吧!"}
+, Summary = "與熱血壯年對話", NpcSpr = "4_M_MIDDLE", NpcNavi = "wolfvill", NpcPosX = 150, NpcPosY = 147}
+, 
+[16571] = {Title = "各自的意見", IconName = "ico_ep.bmp", 
+Description = {"有人建議聽完大家的意見再回來，去聽聽<NAVI>[謹慎的青年]<INFO>wolfvill,152,145,0,101,0</INFO></NAVI>的意見吧!"}
+, Summary = "與謹慎的青年對話", NpcSpr = "4_M_RACHMAN1", NpcNavi = "wolfvill", NpcPosX = 152, NpcPosY = 145}
+, 
+[16572] = {Title = "灰狼村叢林大會", IconName = "ico_ep.bmp", 
+Description = {"已充分聽取了灰狼村叢林大家的意見了，回去找<NAVI>[蘇亞德]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與蘇亞德對話", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 144, NpcPosY = 151}
+, 
+[16573] = {Title = "武器的來源", IconName = "ico_ep.bmp", 
+Description = {"會議結束後，<NAVI>[米麗安]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>偷偷叫住冒險家與朋友，到底是什麼事呢?"}
+, Summary = "與米麗安對話", NpcSpr = "4_EP18_MIRIAM", NpcNavi = "wolfvill", NpcPosX = 148, NpcPosY = 151}
+, 
+[16574] = {Title = "武器的來源", IconName = "ico_ep.bmp", 
+Description = {"和馬藍去找武裝的<NAVI>[激進派年輕人]<INFO>wolfvill,143,145,0,101,0</INFO></NAVI>詢問武器的來源吧!"}
+, Summary = "與激進派年輕人對話", NpcSpr = "4_M_RASWORD", NpcNavi = "wolfvill", NpcPosX = 143, NpcPosY = 145}
+, 
+[16575] = {Title = "武器的來源", IconName = "ico_ep.bmp", 
+Description = {"若想知道武器的來源，就得向<NAVI>[大鬍子傑克]<INFO>rachel,75,44,0,101,0</INFO></NAVI>說出暗號。"}
+, Summary = "與大鬍子傑克對話", NpcSpr = "4_M_MIDDLE1", NpcNavi = "rachel", NpcPosX = 75, NpcPosY = 44}
+, 
+[16576] = {Title = "武器的來源", IconName = "ico_ep.bmp", 
+Description = {"大鬍子傑克向冒險家與馬藍介紹菲音斯的武器商人 <NAVI>[丹達倫]<INFO>veins,293,282,0,101,0</INFO></NAVI>。"}
+, Summary = "與丹達倫對話", NpcSpr = "4_M_DESERT", NpcNavi = "veins", NpcPosX = 293, NpcPosY = 282}
+, 
+[16577] = {Title = "武器的來源", IconName = "ico_ep.bmp", 
+Description = {"馬藍說知道前往<NAVI>[彈藥庫]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>的捷徑，並幫冒險家帶路。"}
+, Summary = "與馬藍接頭", NpcSpr = "4_EP18_MARAM", NpcNavi = "que_thr", NpcPosX = 133, NpcPosY = 53}
+, 
+[16578] = {Title = "武器的來源", IconName = "ico_ep.bmp", 
+Description = {"在<NAVI>[托爾軍營]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>見到了意料之外的人。"}
+, Summary = "與米麗安對話", NpcSpr = "4_EP18_MIRIAM"}
+, 
+[16579] = {Title = "武器的來源", IconName = "ico_ep.bmp", 
+Description = {"在<NAVI>[托爾軍營]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>與馬藍對話，分享討論取得的線索。"}
+, Summary = "與馬藍對話", NpcSpr = "4_EP18_MARAM"}
+, 
+[16580] = {Title = "武器的來源", IconName = "ico_ep.bmp", 
+Description = {"在托爾軍營裡得知的事實趕快去告訴<NAVI>[蘇亞德]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>吧!"}
+, Summary = "與蘇亞德對話", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 140, NpcPosY = 112}
+, 
+[16581] = {Title = "連小朋友都知道", IconName = "ico_ep.bmp", 
+Description = {"聽到奈嫚說沒錢後<NAVI>[卡爾]<INFO>rachel,37,41,0,101,0</INFO></NAVI>眼睛睜得大大的。"}
+, Summary = "與卡爾對話", NpcSpr = "4_M_RACHMAN1", NpcNavi = "rachel", NpcPosX = 37, NpcPosY = 41}
+, 
+[16582] = {Title = "連小朋友都知道", IconName = "ico_ep.bmp", 
+Description = {"看著板起臉生氣的奈嫚，<NAVI>[勒克希]<INFO>rachel,40,45,0,101,0</INFO></NAVI>皺起眉頭。"}
+, Summary = "與勒克希對話", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 40, NpcPosY = 45}
+, 
+[16583] = {Title = "連小朋友都知道", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[奈嫚]<INFO>rachel,36,45,0,101,0</INFO></NAVI>為何要跟這些小孩做朋友呢?直接問他吧!"}
+, Summary = "與奈嫚對話", NpcSpr = "4_F_DST_CHILD", NpcNavi = "rachel", NpcPosX = 36, NpcPosY = 45}
+, 
+[16584] = {Title = "勞動的代價", IconName = "ico_ep.bmp", 
+Description = {"亞莫迪品希望可以幫他拿到拖欠的薪水，去找亞莫迪品的雇主<NAVI>[達西]<INFO>rachel,136,95,0,101,0</INFO></NAVI>對話吧!"}
+, Summary = "與達西對話", NpcSpr = "4_M_RACHMAN2", NpcNavi = "rachel", NpcPosX = 136, NpcPosY = 95}
+, 
+[16585] = {Title = "勞動的代價", IconName = "ico_ep.bmp", 
+Description = {"雖然達西超不高興，但還是答應了。去告訴<NAVI>[亞莫迪品]<INFO>rachel,181,51,0,101,0</INFO></NAVI>這個消息吧!"}
+, Summary = "與亞莫迪品對話", NpcSpr = "4_M_MIDDLE", NpcNavi = "rachel", NpcPosX = 181, NpcPosY = 51}
+, 
+[17504] = {Title = "我家在哪裡", IconName = "ico_ep.bmp", 
+Description = {"冒險家想拜託你一件事這裡需要最新的診所，請你說服<NAVI>[長輩]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>們。"}
+, Summary = "說服長輩"}
+, 
+[17505] = {Title = "我家在哪裡", IconName = "ico_ep.bmp", 
+Description = {"我們之後會再跟<NAVI>[他]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>討論診所的事，希望外地人不要插手這件事。"}
+, Summary = "說服失敗"}
+, 
+[17506] = {Title = "我家在哪裡", IconName = "ico_ep.bmp", 
+Description = {"雖然可以在<NAVI>[這裡]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>找到大部分的東西，卻沒有鋼鐵。希望幫忙收集3個就好..."}
+, Summary = "鋼鐵3個"}
+, 
+[17507] = {Title = "我家在哪裡", IconName = "ico_ep.bmp", 
+Description = {"觀察一下<NAVI>[埃澤基爾]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>的治療過程。"}
+, Summary = "治療過程"}
+, 
+[17508] = {Title = "物資不足", IconName = "ico_dq.bmp", 
+Description = {"需要鋼鐵1個、堅不可摧結晶10個，可以在灰狼身上取得堅不可摧結晶。-<NAVI>[埃澤基爾]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>"}
+, Summary = "建材"}
+, 
+[17509] = {Title = "等候: 物資不足", IconName = "ico_dq.bmp", 
+Description = {"冒險家辛苦了，今天先回去休息，等凌晨過後再來吧! - <NAVI>[埃澤基爾]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17510] = {Title = "世上沒有壞野獸", IconName = "ico_ep.bmp", 
+Description = {"只要確認<NAVI>[艾莎]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI>撿到的真的是狼寶寶還是長得像狼的小狗就好。"}
+, Summary = "去找艾莎"}
+, 
+[17511] = {Title = "世上沒有壞野獸", IconName = "ico_ep.bmp", 
+Description = {"只要有肉，<NAVI>[灰太狼]<INFO>wolfvill,100,177,0,101,0</INFO></NAVI>的訓練就不會有問題了，只要一塊就好。"}
+, Summary = "肉與灰太狼"}
+, 
+[17512] = {Title = "世上沒有壞野獸", IconName = "ico_ep.bmp", 
+Description = {"向<NAVI>[史卡尼亞]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>展現灰太狼也準備好作為村民生活了吧!"}
+, Summary = "去找史卡尼亞"}
+, 
+[17513] = {Title = "意外的牧羊人", IconName = "ico_dq.bmp", 
+Description = {"喜羊羊喜歡在<NAVI>[森林]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI>吃草，請在這段時間保護牠。"}
+, Summary = "前往森林"}
+, 
+[17514] = {Title = "意外的牧羊人", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[喜羊羊]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI>吃草時擊殺灰燼波利吧!"}
+, Summary = "灰燼波利20隻"}
+, 
+[17515] = {Title = "意外的牧羊人", IconName = "ico_dq.bmp", 
+Description = {"吃完草的喜羊羊看來已回去找<NAVI>[史卡尼亞]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>了，回去報告吧!"}
+, Summary = "去找史卡尼亞"}
+, 
+[17516] = {Title = "等候: 意外的牧羊人", IconName = "ico_dq.bmp", 
+Description = {"冒險家辛苦了，明天再拜託你了! - <NAVI>[史卡尼亞]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17517] = {Title = "反叛軍", IconName = "ico_ep.bmp", 
+Description = {"居然襲擊商隊，得先去見見那些<NAVI>[傢伙]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI>了。"}
+, Summary = "確認真相"}
+, 
+[17518] = {Title = "反叛軍", IconName = "ico_ep.bmp", 
+Description = {"雖然處分比較輕，但<NAVI>[狼群]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI>看起來很不滿。"}
+, Summary = "反駁的人們"}
+, 
+[17519] = {Title = "反叛軍", IconName = "ico_ep.bmp", 
+Description = {"既然已決定動作要快，告訴大家在拉赫的<NAVI>[神殿前]<INFO>rachel,169,245,0,101,0</INFO></NAVI>集合進行示威。"}
+, Summary = "示威遊行!"}
+, 
+[17520] = {Title = "羊群中的狼", IconName = "ico_ep.bmp", 
+Description = {"在<NAVI>[神殿]<INFO>rachel,169,245,0,101,0</INFO></NAVI>參與示威。"}
+, Summary = "前往神殿"}
+, 
+[17521] = {Title = "需要對話時", IconName = "ico_ep.bmp", 
+Description = {"整理差不多的話就快走吧!大家都移動到<NAVI>[安全的]<INFO>rachel,116,200,0,101,0</INFO></NAVI>地方了。"}
+, Summary = "盡快避難"}
+, 
+[17522] = {Title = "整頓背叛者", IconName = "ico_dq.bmp", 
+Description = {"雖然滲透神殿的主要勢力已經退散了，請整頓轉往邪心獵人的神殿護衛! - <NAVI>[神官]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "整頓背叛者"}
+, 
+[17523] = {Title = "淨化聖域", IconName = "ico_dq.bmp", 
+Description = {"在心臟保管室出沒的邪心獵人殘部真讓人頭痛，請一起參加掃蕩作戰吧! - <NAVI>[神官]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "掃蕩邪心獵人殘部"}
+, 
+[17524] = {Title = "整頓背叛者", IconName = "ico_dq.bmp", 
+Description = {"掃蕩背叛的護衛作戰結束了，回去找<NAVI>[神官]<INFO>rachel,169,245,0,101,0</INFO></NAVI>報告吧!"}
+, Summary = "向神官報告"}
+, 
+[17525] = {Title = "需要對話時", IconName = "ico_ep.bmp", 
+Description = {"米麗安說有人要一起同行，之後在歐茲迷宮會合。歐茲迷宮有個地方從峭壁中露出，在<NAVI>[約定地點]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>等候吧!"}
+, Summary = "前往約定地點"}
+, 
+[17526] = {Title = "淨化聖域", IconName = "ico_dq.bmp", 
+Description = {"掃蕩保管所的邪心獵人作戰結束了，回去找<NAVI>[神官]<INFO>rachel,169,245,0,101,0</INFO></NAVI>報告吧!"}
+, Summary = "向神官報告"}
+, 
+[17527] = {Title = "等候: 掃蕩作戰", IconName = "ico_dq.bmp", 
+Description = {"感謝冒險家的協助，今天先休息，明天再來幫忙吧! - <NAVI>[神官]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[18082] = {Title = "參與大會資格", IconName = "ico_ep.bmp", 
+Description = {"灰狼村居民願意接受你為村民之一，取得參加會議的資格。詢問<NAVI>[村落少年]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>舉行大會的地點。"}
+, Summary = "詢問村落少年舉行大會的地點", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 179}
+, 
+[18083] = {Title = "調查大神官的別墅", IconName = "ico_ep.bmp", 
+Description = {"為了找出巴格與邪心獵人的行蹤，前往調查大神官雅莫的別墅。盡量不要妨礙巴格與大神官雅莫的計畫。"}
+, Summary = "調查大神官的別墅"}
+, 
+[18084] = {Title = "調查真相", IconName = "ico_ep.bmp", 
+Description = {"得找出大神官雅莫真正的目的為何、為什麼要和虛幻派聯手。在瑟斯隆尼勒和<NAVI>[米麗安]<INFO>ra_temin,254,117,0,101,0</INFO></NAVI>談話。"}
+, Summary = "與米麗安對話"}
+, 
+[18085] = {Title = "祈禱的方向", IconName = "ico_ep.bmp", 
+Description = {"愛麗以神奇的面貌出現於瑟斯隆尼勒神殿，好像要說什麼重要的事。與<NAVI>[愛麗]<INFO>ra_temin,258,117,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與愛麗對話"}
+, 
+[18086] = {Title = "讓灰狼叢林更安全", IconName = "ico_dq.bmp", 
+Description = {"灰狼村的<NAVI>[門衛]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>要求擊殺灰狼叢林的魔物，以保護自己的安全。"}
+, Summary = "討伐灰狼叢林魔物", NpcSpr = "4_M_SITDOWN", NpcNavi = "gw_fild01", NpcPosX = 32, NpcPosY = 101}
+, 
+[18087] = {Title = "讓灰狼叢林更安全-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務於冷卻時間過後，可透過達納托斯塔<NAVI>[門衛]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>再次承接任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1, NpcSpr = "4_M_SITDOWN", NpcNavi = "gw_fild01", NpcPosX = 32, NpcPosY = 101}
+, 
+[293382] = {Title = "CAICAI的試煉", IconName = "ico_ev.bmp", 
+Description = {"CAICAI交付的試煉，擊殺1500個240LV以上的魔物，完成時，將獲得相當數量的經驗值，但是，很難獨自完成該任務，所以建議組隊後闖關。"}
+, Summary = "擊殺240LV魔物1500個"}
+, 
+[293383] = {Title = "CAICAI的試煉 – 等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。"}
+, Summary = "凌晨四點重置"}
+, 
+[8719] = {Title = "螞蟻地獄的某個新區域", 
+Description = {"在探索螞蟻地獄2樓的米爾科和約嵐達在洞穴的某處發現了新的一個蟻穴，但是那個地方…"}
+, Summary = "與米爾科對話"}
+, 
+[8720] = {Title = "米爾科的請託(1)", 
+Description = {"米爾科的同伴冒險家布里亞森，據說下落不明。布里亞森去探索不久前新發現的幻影螞蟻地獄，卻再也沒有回來。"}
+, Summary = "與米爾科對話"}
+, 
+[8721] = {Title = "布里亞森在哪裡呢?", 
+Description = {"必須在幻影螞蟻地獄找到布里亞森，但願他還活著。"}
+, Summary = "與布里亞森對話"}
+, 
+[8722] = {Title = "布里亞森的口信", 
+Description = {"布里亞森說現在沒有辦法馬上回去，請你向<NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>轉達自己平安，甚至出奇得好。"}
+, Summary = "與米爾科對話"}
+, 
+[8723] = {Title = "米爾科的請託(2)", 
+Description = {"米爾科先放棄把布里亞森從幻影螞蟻地獄帶回來，改請你去幫助布里亞森。"}
+, Summary = "與布里亞森對話"}
+, 
+[8724] = {Title = "卡赫里斯在哪裡呢?", 
+Description = {"就算想好好接收布里亞森的說法，卻沒辦法好好正常的對話。她請你去幫忙找卡赫里斯，和自己長得一模一樣的…"}
+, Summary = "與布里亞森長得很像的冒險家們對話"}
+, 
+[8725] = {Title = "長得一模一樣的…?(1)", 
+Description = {"一名叫做勒韋拉的遊俠，正在找布里亞森。但是布里亞森要找的人，並不是這個名字啊?一說完勒韋拉就消失了。"}
+, Summary = ""}
+, 
+[8726] = {Title = "長得一模一樣的…?(2)", 
+Description = {"名叫卡赫里斯的遊俠正在找尋失散的朋友，但聽完是在這密穴裡迷路的布里亞森方向?一說完跟布里亞森的說法有出入後，卡赫里斯就消失了。"}
+, Summary = ""}
+, 
+[8727] = {Title = "長得一模一樣的…?(3)", 
+Description = {"名叫卡赫里斯的神槍手正在找尋失散的朋友，但布里亞森要找的是卡赫里斯遊俠啊?一說完卡赫里斯就消失了。"}
+, Summary = ""}
+, 
+[8728] = {Title = "卡赫里斯到底是誰?", 
+Description = {"在幻影螞蟻地獄和布里亞森相遇，長得像布里亞森的人，似乎不是人類。先向<NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>回報吧!"}
+, Summary = "與米爾科對話"}
+, 
+[8729] = {Title = "布里亞森在哪裡呢?(2)", 
+Description = {"卡赫里斯可能就是黑蟻，有什麼意圖呢?接近布里亞森的目的是?什麼都不知道的情況下，米爾科再次請求進入幻影螞蟻地獄，把布里亞森救回來。"}
+, Summary = "再次回到幻影之中"}
+, 
+[8730] = {Title = "蟻識迷宮", 
+Description = {"當說實際看到了卡赫里斯，且可能是螞蟻的時候，米爾科開始變得不安。總之，當務之急是先把布里亞森從幻影螞蟻地獄帶出來。"}
+, Summary = "把布里亞森交給米爾科"}
+, 
+[8731] = {Title = "地質調查", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>請你去幻影螞蟻地獄，從膽大的基爾瑟身上收集<ITEM>[極度乾沙]<INFO>1000504</INFO></ITEM>20個。"}
+, Summary = "收集極度乾沙20個"}
+, 
+[8732] = {Title = "地質調查-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於冷卻時間過後向<NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>再次接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8733] = {Title = "力量的根源", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>請你去幻影螞蟻地獄，從勤奮的兵蟻和勤奮的白蟻身上收集<ITEM>[混濁的液體]<INFO>1000505</INFO></ITEM>20個。"}
+, Summary = "收集混濁的液體20個"}
+, 
+[8734] = {Title = "力量的根源-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於冷卻時間過後向 <NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>再次接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8735] = {Title = "模糊的意識", IconName = "ico_dq.bmp", 
+Description = {"按照至今的假設，在幻影螞蟻地獄造成記憶和意識混亂的元兇是勤奮的黑蟻、勤奮的士兵白蟻、勤奮的工蟻。依<NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>的請求各擊殺10隻。"}
+, Summary = "擊殺指定的怪物"}
+, 
+[8736] = {Title = "模糊的意識-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於冷卻時間過後向 <NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>再次接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8737] = {Title = "共享的記憶", IconName = "ico_dq.bmp", 
+Description = {"在幻影螞蟻地獄擊殺怪物時，偶爾會得到<ITEM>[蟻識之殼]<INFO>1000506</INFO></ITEM>，收集20個後交給 <NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>吧!"}
+, Summary = "收集蟻識之殼20個"}
+, 
+[8738] = {Title = "共享的記憶-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於冷卻時間過後向 <NAVI>[米爾科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>再次接取執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3507] = {Title = "幻影調查團世新", 
+Description = {"與幻影調查團的世新對話。"}
+, Summary = "與世新對話"}
+, 
+[3508] = {Title = "擊殺100隻雙子幻影怪物", IconName = "ico_dq.bmp", 
+Description = {"在雙子幻影副本中，不限種類，擊殺100隻怪物。"}
+, Summary = "擊殺100隻怪物"}
+, 
+[3509] = {Title = "擊殺雙子幻影100隻—等候=],\n\tIconName = [=[ico_dq.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可透過<NAVI>[??]<INFO>ant_d02_i,167,184,0,101,0</INFO></NAVI>來承接任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23090] = {Title = "偽裝成溫馨幸福的市場調查", IconName = "ico_ev.bmp", 
+Description = {"大人們咬著甜點走來走去，成何體統?秀克拉擔心這是受到了熟成可可豆的影響，\n<NAVI>[克莉茵]<INFO>prontera,210,321,0,101,0</INFO></NAVI>, \n<NAVI>[蘿熙絲]<INFO>prontera,103,308,0,101,0</INFO></NAVI>, \n<NAVI>[艾徒山]<INFO>prontera,100,183,0,101,0</INFO></NAVI>, \n<NAVI>[安特]<INFO>prontera,271,339,0,101,0</INFO></NAVI>, \n<NAVI>[綺綺]<INFO>prontera,269,55,0,101,0</INFO></NAVI>等五位，遞給他們甜點菜單後再觀察看看吧!"}
+, Summary = "遞甜點菜單給各個客人"}
 }
 

@@ -1115,6 +1115,8 @@ Direction = {}
 , 
 [ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 304, isIgnoreRiding = true}
 , 
+[ACCESSORY_IDs.ACCESSORY_Black_Rabbit] = {Default = 304, isIgnoreRiding = true}
+, 
 [ACCESSORY_IDs.ACCESSORY_RABBIT_HEAD_DRESS] = {Default = 145, 
 Direction = {}
 }
@@ -1407,7 +1409,57 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 301}
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Rabbit_Wig] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin_B] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Ring] = {Default = 143, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

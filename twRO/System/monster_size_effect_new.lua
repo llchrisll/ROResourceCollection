@@ -6011,6 +6011,42 @@ MonsterEff = {EFFECT.EF_NPC_GATE_RED_S}
 [3735] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_20TH_CRYSTAL_L}
 }
+, 
+[20573] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT}
+}
+, 
+[20813] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT}
+}
+, 
+[20846] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BOTTOM_EVILLAND}
+}
+, 
+[20847] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_MAP_MAGICZONE}
+}
+, 
+[21301] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[21313] = {MonsterSize = 1.7, 
+MonsterEff = {EFFECT.EF_UNDEADBODY, EFFECT.EF_DOUBLEGUMGANG2, EFFECT.EF_DOUBLEGUMGANG2, EFFECT.EF_DOUBLEGUMGANG2}
+}
+, 
+[21319] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21315] = {MonsterSize = 2.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[23061] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
 }
 main = function()
   -- function num : 0_0

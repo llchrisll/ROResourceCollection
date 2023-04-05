@@ -638,7 +638,6 @@
 5520	1	0	0	0	1	0	0	0	//Rabbit_Earplug
 5521	1	1	1	1	1	1	1	1	// 분노입_C
 5526	1	1	0	1	1	1	1	1	//Lady_Tanee_Doll
-5527	1	0	0	1	1	0	0	0	
 5528	1	0	0	0	1	0	0	0	//King_Frog_Hat
 5529	1	0	0	0	1	0	0	0	//Evil's_Bone_Hat
 5530	1	0	0	0	1	0	0	0	//Raven_Cap
@@ -4822,7 +4821,7 @@
 //비상아이템
 19307	0	0	0	0	0	1	1	1	//Willothewisp
 5978	1	0	0	0	1	0	0	0	//Toy_Syringe
-31419	1	0	0	0	0	0	0	1	//C_Angel_Of_Happiness
+31419	1	0	0	0	0	0	0	0	//C_Angel_Of_Happiness
 28410	0	0	0	0	0	1	1	0	//Sapphire_Wrist
 20910	1	0	0	0	0	0	1	0	//Etran_Shirt_TW
 28567	1	0	0	0	0	0	0	0	//King_of_Spirit_Ring_TW
@@ -4925,7 +4924,6 @@
 
 //신년이벤트
 23680	0	0	0	0	0	1	0	0	//Dancing_Dragon_Bone
-11742	0	0	0	0	0	1	0	0	//Dancing_Dragon_Bone_N
 
 //새해소망 이벤트
 23651	1	1	0	1	0	1	1	1	//DF_Big_Bun
@@ -5466,7 +5464,6 @@
 100085	1	0	0	0	0	0	0	0	//SideTail_Box_TW
 
 //2019 RTC 온라인 이벤트
-31768	1	0	0	0	0	0	1	1	//C_2019RTC_CeleAura_TW
 23204	1	1	0	1	0	1	1	1	//M_DEFScroll
 100098	1	0	0	0	1	0	0	0	//RTC_EnergyDrink_TW
 
@@ -6059,7 +6056,7 @@
 420073	1	0	0	0	0	0	0	0	//C_2021RTC_Wing_TW
 
 //RTC 스크롤
-31399	1	0	0	0	1	1	1	0	//C_Darkness_Veil
+31399	1	0	0	0	0	0	0	0	//C_Darkness_Veil
 410047	0	0	0	0	0	1	1	1	//C_Mask_of_Hero
 100826	1	0	0	0	1	0	0	0	//2021RTC_Scroll_TW
 400164	1	0	0	0	1	0	1	0	//2021RTC_Headset_TW
@@ -6560,7 +6557,6 @@
 100366	1	1	1	1	0	1	1	1	//MD_Geffen_Rhood
 100367	1	1	1	1	0	1	1	1	//MD_Geffen_Racc
 100368	1	1	1	1	0	1	1	1	//MD_Geffen_Rsheild
-100369	1	1	1	1	1	1	1	1	//MD_Geffen_Reward
 100370	1	1	1	1	1	1	1	1	//MD_Geffen_Reward2
 100484	1	1	1	1	0	1	1	1	//MD_Geffen_Gamble
 
@@ -6804,3 +6800,59 @@
 //22년 광휘의 스크롤
 400401	1	0	0	0	0	0	0	0	//Yggdrasil_Faith
 102127	1	0	0	0	1	0	0	0	//Brilliance_Scroll_TW
+
+//에피 18
+100626	1	1	0	1	0	1	1	1	//GrayWolf_7_Ticket
+100627	1	1	0	1	0	1	1	1	//GrayWolf_9_Ticket
+400127	1	1	1	1	1	1	1	1	//Ep18_Mini_Elly
+1000406	1	1	1	1	0	1	1	1	//Ep18_Very_Ddan_Crystal
+1000407	1	1	1	1	0	1	1	1	//Ep18_Half_Flower
+1000408	1	1	1	1	0	1	1	1	//Ep18_Recording_Note
+1000409	1	1	1	1	0	1	1	1	//Ep18_Docu_File
+1000410	1	1	1	1	0	1	1	1	//Ep18_Water_Filter
+1000411	1	1	1	1	0	1	1	1	//Ep18_Purified_Bucket
+1000412	1	1	1	1	0	1	1	1	//Ep18_Trapped01
+1000413	1	1	1	1	0	1	1	1	//Ep18_Trapped02
+1000414	1	1	1	1	0	1	1	1	//Ep18_Trapped03
+
+//23년 신년 이벤트
+490320	1	0	0	0	1	0	0	0	//Ash_Ring
+410221	1	1	0	1	0	1	1	1	//C_white_tteok
+410222	1	1	0	1	0	1	1	1	//C_blacksesame_tteok
+410223	1	1	0	1	0	1	1	1	//C_bean_tteok
+31576	1	0	0	0	1	0	1	0	//C_Spring_Rabbit_Hat
+
+//토끼해 대박 스크롤
+420199	1	0	0	0	0	0	0	0	//Ghost_Fire
+102201	1	0	0	0	1	0	0	0	//Rabbit_LUK_Scroll_TW
+5527	1	0	0	0	0	0	0	0	//Lunatic_Hat
+
+//슈퍼 영웅 스크롤
+480291	1	0	0	0	0	0	0	0	//Hero_Favor
+480292	1	0	0	0	0	0	0	0	//Hero_Courage
+102250	1	0	0	0	1	0	0	0	//Super_Hero_Scroll_TW
+
+//메이저 오토스펠 쉐도우 뚝딱
+102258	1	0	0	0	0	0	0	0	//S_M_AutoSpell_D_Box_TW
+
+//23년 스윗츠
+20336	0	0	0	0	0	1	1	0	//C_Sugared_Fruit_S
+
+//23년 입춘의 날개 스크롤
+102264	1	0	0	0	1	0	0	0	//Spring_S_W_Scroll_TW
+
+//따듯한 기운의 스크롤
+102261	1	0	0	0	1	0	0	0	//Warm_Aura_Scroll_TW
+
+//테스트용 드랍률 조정 아이템
+19429	1	1	0	1	0	1	1	1	//Zarathustra
+
+//23 03 21
+//듀러블 클레버 쉐도우 뚝딱상자
+102231	1	0	0	0	0	0	0	0	//Du_S_RanOpt_Box_TW
+102232	1	0	0	0	0	0	0	0	//Cl_S_RanOpt_Box_TW
+//에너지 스크롤
+400433	1	0	0	0	0	0	0	0	//Gothic_HW_TW_LT
+450272	1	0	0	0	0	0	0	0	//B_Celine_D_LT_TW
+1001256	1	0	0	0	0	0	0	0	//Ymir_Heart_P_TW
+102234	1	0	0	0	1	0	0	0	//Energy_Scroll_TW

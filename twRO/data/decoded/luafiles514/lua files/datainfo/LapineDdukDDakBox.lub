@@ -5,6 +5,82 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+Du_S_RanOpt_Box_TW = {ItemID = 102231, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Durable_Weapon", 1, 24734}
+, 
+{"S_Durable_Shield", 1, 24735}
+}
+, NeedSource_String = "影子力量天然"}
+, 
+Cl_S_RanOpt_Box_TW = {ItemID = 102232, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Clever_Weapon", 1, 24736}
+, 
+{"S_Clever_Shield", 1, 24737}
+}
+, NeedSource_String = "影子智慧魔力"}
+, 
+MagicalShadow_Mix = {ItemID = 100887, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Magical_Weapon", 1, 24022}
+, 
+{"S_Magical_Earring", 1, 24021}
+, 
+{"S_Magical_Pendant", 1, 24023}
+, 
+{"S_Magical_Shoes", 1, 24396}
+, 
+{"S_Magical_Armor", 1, 24398}
+, 
+{"S_Magical_Shield", 1, 24397}
+}
+, NeedSource_String = "影子魔力"}
+, 
+PhysicalShadow_Mix = {ItemID = 100888, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Physical_Weapon", 1, 24019}
+, 
+{"S_Physical_Earring", 1, 24018}
+, 
+{"S_Physical_Pendant", 1, 24020}
+, 
+{"S_Physical_Shoes", 1, 24393}
+, 
+{"S_Physical_Armor", 1, 24395}
+, 
+{"S_Physical_Shield", 1, 24394}
+}
+, NeedSource_String = "影子天然"}
+, 
+S_M_AutoSpell_D_Box_TW = {ItemID = 102258, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
+SourceItems = {
+{"S_M_AutoSpell_Armor", 1, 24728}
+, 
+{"S_M_AutoSpell_Shoes", 1, 24729}
+, 
+{"S_M_AutoSpell_Earring", 1, 24730}
+, 
+{"S_M_AutoSpell_Pendant", 1, 24731}
+}
+, NeedSource_String = "影子嫻熟自動唸咒"}
+, 
+MajorAutoSpell_Mix = {ItemID = 100783, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_AutoSpell_Shoes", 1, 24724}
+, 
+{"S_AutoSpell_Armor", 1, 24723}
+, 
+{"S_AutoSpell_Weapon", 1, 24725}
+, 
+{"S_AutoSpell_Shield", 1, 24722}
+, 
+{"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_AutoSpell_Pendant", 1, 24726}
+}
+, NeedSource_String = "影子自動唸咒"}
+, 
 R_B_S_Op_Box = {ItemID = 102118, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_R_Bearers_Armor", 1, 24764}
@@ -137,7 +213,7 @@ SourceItems = {
 }
 , NeedSource_String = "改裝模塊"}
 , 
-Absorb_S_Box_TW = {ItemID = 101702, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+Absorb_S_Box_TW = {ItemID = 101702, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Absorb_Shield", 1, 24685}
 , 
@@ -165,7 +241,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子超自然, 影子惡毒"}
 , 
-True_G_S_Rand_Box_TW = {ItemID = 101622, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+True_G_S_Rand_Box_TW = {ItemID = 101622, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_TrueGem_Armor", 1, 24675}
 , 
@@ -199,7 +275,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子魔力礦石"}
 , 
-S_M_Mam_Ran_Box_TW = {ItemID = 101595, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+S_M_Mam_Ran_Box_TW = {ItemID = 101595, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_M_Mammoth_Armor", 1, 24679}
 , 
@@ -577,7 +653,7 @@ SourceItems = {
 }
 , NeedSource_String = "+11精煉4級武器"}
 , 
-SS_Dduck_Box = {ItemID = 101424, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SS_Dduck_Box = {ItemID = 101424, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Sonic_Armor", 1, 24440}
 , 
@@ -1289,7 +1365,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7影子貫穿"}
 , 
-FullPene_S_Rand_Box_TW = {ItemID = 101094, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+FullPene_S_Rand_Box_TW = {ItemID = 101094, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_FullPene_Earring", 1, 24661}
 , 
@@ -1359,7 +1435,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7  影子風暴系列"}
 , 
-FullTemp_S_Rand_Box_TW = {ItemID = 101072, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+FullTemp_S_Rand_Box_TW = {ItemID = 101072, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_FullTemp_Pendant", 1, 24668}
 , 
@@ -2075,7 +2151,7 @@ SourceItems = {
 }
 , NeedSource_String = "太極盤、影子神秘金屬"}
 , 
-Piercing_Mix = {ItemID = 100053, NeedCount = 2, NeedRefineMin = 7, 
+Piercing_Mix = {ItemID = 100053, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Executioner_Weapon", 1, 24156}
 , 
@@ -2099,7 +2175,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7影子貫穿"}
 , 
-S_Peni_Dduck_Box = {ItemID = 100259, NeedCount = 1, NeedRefineMin = 0, 
+S_Peni_Dduck_Box = {ItemID = 100259, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Exe_Ho_Weapon", 1, 24434}
 , 
@@ -2161,7 +2237,7 @@ SourceItems = {
 }
 , NeedSource_String = "獸人將軍徽章、鍺金石"}
 , 
-MagicPiercing_Mix = {ItemID = 100011, NeedCount = 2, NeedRefineMin = 7, 
+MagicPiercing_Mix = {ItemID = 100011, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_M_Executioner_Weapon", 1, 24170}
 , 
@@ -2185,7 +2261,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7 Magic Piercing Shadow"}
 , 
-SMP_DuckDdack_ATTR_Box = {ItemID = 100237, NeedCount = 1, NeedRefineMin = 0, 
+SMP_DuckDdack_ATTR_Box = {ItemID = 100237, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_M_Exo_Co_Weapon", 1, 24427}
 , 
@@ -2343,7 +2419,7 @@ SourceItems = {
 }
 , NeedSource_String = "寶石原石、鍺金石"}
 , 
-PerfectSize_Mix = {ItemID = 100010, NeedCount = 3, NeedRefineMin = 7, 
+PerfectSize_Mix = {ItemID = 100010, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Big_Weapon", 1, 24075}
 , 
@@ -2359,7 +2435,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7影子體型"}
 , 
-PerfectSize_DDBox_TW = {ItemID = 100106, NeedCount = 1, NeedRefineMin = 0, 
+PerfectSize_DDBox_TW = {ItemID = 100106, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_PerfectSize_Weapon", 1, 24425}
 , 
@@ -2367,7 +2443,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子全然體型"}
 , 
-Shadow_Mix_Recipe_TW = {ItemID = 23433, NeedCount = 5, NeedRefineMin = 0, 
+Shadow_Mix_Recipe_TW = {ItemID = 23433, NeedCount = 5, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Mammoth_Armor", 1, 24669}
 , 
@@ -2957,7 +3033,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子裝備"}
 , 
-Krieger_Mix_Box = {ItemID = 23432, NeedCount = 1, NeedRefineMin = 0, 
+Krieger_Mix_Box = {ItemID = 23432, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
 {"Krieger_Onehand_Sword3", 1, 13418}
 , 
@@ -3017,7 +3093,7 @@ SourceItems = {
 }
 , NeedSource_String = "KVM武器"}
 , 
-S_MixBox_ATT_BearS2 = {ItemID = 23461, NeedCount = 1, NeedRefineMin = 0, 
+S_MixBox_ATT_BearS2 = {ItemID = 23461, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S2_Bearers_Armor", 1, 24337}
 , 
@@ -3025,7 +3101,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子送信者鎧甲，影子送信者戰靴"}
 , 
-S_MixBox_ATT_ALLM_S = {ItemID = 23462, NeedCount = 1, NeedRefineMin = 0, 
+S_MixBox_ATT_ALLM_S = {ItemID = 23462, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_AllMighty_Pendant", 1, 24340}
 , 
@@ -3033,7 +3109,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子全能耳環、影子全能墜子"}
 , 
-StatusShadow_Mix = {ItemID = 23247, NeedCount = 5, NeedRefineMin = 7, 
+StatusShadow_Mix = {ItemID = 23247, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Lucky_Weapon", 1, 24034}
 , 
@@ -3061,7 +3137,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子全能"}
 , 
-BearersShadow_Mix = {ItemID = 23249, NeedCount = 3, NeedRefineMin = 7, 
+BearersShadow_Mix = {ItemID = 23249, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Bearers_Armor", 1, 24180}
 , 
@@ -3077,7 +3153,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子送信者"}
 , 
-S_MixBox_ATT_Gem_S = {ItemID = 23522, NeedCount = 1, NeedRefineMin = 0, 
+S_MixBox_ATT_Gem_S = {ItemID = 23522, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S2_Gemstone_Weapon", 1, 24335}
 , 
@@ -3085,13 +3161,13 @@ SourceItems = {
 }
 , NeedSource_String = "影子魔力礦石手套II、影子魔力礦石神盾II"}
 , 
-S_MixBox_ATT_MComp_S = {ItemID = 23523, NeedCount = 1, NeedRefineMin = 0, 
+S_MixBox_ATT_MComp_S = {ItemID = 23523, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_MagicCompose_Armor", 1, 24334}
 }
 , NeedSource_String = "影子魔法鎧甲"}
 , 
-GemstoneShadow_Mix = {ItemID = 23248, NeedCount = 3, NeedRefineMin = 7, 
+GemstoneShadow_Mix = {ItemID = 23248, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Gemstone_Pendent", 1, 24089}
 , 
@@ -3107,7 +3183,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子魔力礦石裝備"}
 , 
-ComposeShadow_Mix = {ItemID = 23250, NeedCount = 4, NeedRefineMin = 7, 
+ComposeShadow_Mix = {ItemID = 23250, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_ColdBolt_Armor", 1, 24219}
 , 
@@ -3119,7 +3195,7 @@ SourceItems = {
 }
 , NeedSource_String = "冰箭/火箭/雷擊/地震類影子裝備"}
 , 
-EnchantStone_Recipe = {ItemID = 23151, NeedCount = 3, NeedRefineMin = 0, 
+EnchantStone_Recipe = {ItemID = 23151, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
 {"HighpriestStone_Top", 1, 25706}
 , 
@@ -3545,7 +3621,7 @@ SourceItems = {
 }
 , NeedSource_String = "附魔石"}
 , 
-GemstoneShadow_Mix = {ItemID = 23248, NeedCount = 3, NeedRefineMin = 7, 
+GemstoneShadow_Mix = {ItemID = 23248, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Gemstone_Pendent", 1, 24089}
 , 
@@ -3561,7 +3637,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子魔力礦石裝備"}
 , 
-ComposeShadow_Mix = {ItemID = 23250, NeedCount = 4, NeedRefineMin = 7, 
+ComposeShadow_Mix = {ItemID = 23250, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_ColdBolt_Armor", 1, 24219}
 , 
@@ -3573,7 +3649,7 @@ SourceItems = {
 }
 , NeedSource_String = "冰箭/火箭/雷擊類影子裝備"}
 , 
-Shadow_Smelting_Box = {ItemID = 23534, NeedCount = 5, NeedRefineMin = 0, 
+Shadow_Smelting_Box = {ItemID = 23534, NeedCount = 5, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Mammoth_Armor", 1, 24669}
 , 
@@ -4163,7 +4239,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子裝備"}
 , 
-S_Race_ElementMix = {ItemID = 23535, NeedCount = 1, NeedRefineMin = 0, 
+S_Race_ElementMix = {ItemID = 23535, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_AllRace_Shoes", 1, 24341}
 , 
@@ -4171,7 +4247,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子種族裝備"}
 , 
-RaceShadow_Mix = {ItemID = 23281, NeedCount = 4, NeedRefineMin = 7, 
+RaceShadow_Mix = {ItemID = 23281, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Homers_Shield", 1, 24056}
 , 
@@ -4211,7 +4287,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7影子種族"}
 , 
-StabilityShadow_Mix = {ItemID = 23324, NeedCount = 3, NeedRefineMin = 5, 
+StabilityShadow_Mix = {ItemID = 23324, NeedCount = 3, NeedRefineMin = 5, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Plasterer\'s_Armor", 1, 24091}
 , 
@@ -4251,7 +4327,7 @@ SourceItems = {
 }
 , NeedSource_String = "精煉+5影子抗性"}
 , 
-W_ToleraceBox_TW = {ItemID = 23592, NeedCount = 1, NeedRefineMin = 0, 
+W_ToleraceBox_TW = {ItemID = 23592, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"Unfreez_Weapon_S2", 1, 24356}
 , 
@@ -4259,7 +4335,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子冰凍手套II,影子暈眩手套II"}
 , 
-AC_ToleraceBox_TW = {ItemID = 23591, NeedCount = 1, NeedRefineMin = 0, 
+AC_ToleraceBox_TW = {ItemID = 23591, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"Vitality_Earing_S2", 1, 24357}
 , 
@@ -4267,7 +4343,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子出血耳環II,影子詛咒墜子II"}
 , 
-A_ToleraceBox_TW = {ItemID = 23590, NeedCount = 1, NeedRefineMin = 0, 
+A_ToleraceBox_TW = {ItemID = 23590, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S2_Plasterer\'s_Armor", 1, 24352}
 , 
@@ -4275,7 +4351,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子石化鎧甲II,影子沉默鎧甲II"}
 , 
-S_ToleraceBox_TW = {ItemID = 23589, NeedCount = 1, NeedRefineMin = 0, 
+S_ToleraceBox_TW = {ItemID = 23589, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S2_Insomniac_Shoes", 1, 24353}
 , 
@@ -4283,7 +4359,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子睡眠戰靴II,影子暗黑戰靴II"}
 , 
-Class_S_RefineBox_TW = {ItemID = 23628, NeedCount = 3, NeedRefineMin = 0, 
+Class_S_RefineBox_TW = {ItemID = 23628, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Archer_earring", 1, 28392}
 , 
@@ -4467,7 +4543,7 @@ SourceItems = {
 }
 , NeedSource_String = "影子職業裝備"}
 , 
-Costume_Lapine_Box_TW = {ItemID = 23634, NeedCount = 3, NeedRefineMin = 0, 
+Costume_Lapine_Box_TW = {ItemID = 23634, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
 {"C_Dress_Hat_J", 1, 19595}
 , 
@@ -6803,13 +6879,13 @@ SourceItems = {
 }
 , NeedSource_String = "服飾裝備"}
 , 
-Silver_Statue = {ItemID = 23545, NeedCount = 1, NeedRefineMin = 0, 
+Silver_Statue = {ItemID = 23545, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
 {"Bloody_Knight_Shield", 1, 28942}
 }
 , NeedSource_String = "詛咒騎士盾牌"}
 , 
-Limited_Ddbox_TW = {ItemID = 23808, NeedCount = 3, NeedRefineMin = 0, 
+Limited_Ddbox_TW = {ItemID = 23808, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Kingbird_Weapon", 1, 24031}
 , 
@@ -7121,8 +7197,16 @@ SourceItems = {
 }
 , NeedSource_String = "指定影子道具"}
 , 
-Hair_Ddbox_TW = {ItemID = 23798, NeedCount = 3, NeedRefineMin = 0, 
+Hair_Ddbox_TW = {ItemID = 23798, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
+{"C_Snow_Rabbit_Wig", 1, 420191}
+, 
+{"C_Twinkle_Twin_B", 1, 420150}
+, 
+{"C_Twinkle_Twin", 1, 420107}
+, 
+{"C_Braid_Ring", 1, 420172}
+, 
 {"C_Bun_Twin_Tail_BU", 1, 400205}
 , 
 {"C_Bun_Twin_Tail_RD", 1, 400206}
@@ -7569,7 +7653,7 @@ SourceItems = {
 }
 , NeedSource_String = "髮型服飾道具"}
 , 
-PhysicalMagical_Mix = {ItemID = 23665, NeedCount = 3, NeedRefineMin = 7, 
+PhysicalMagical_Mix = {ItemID = 23665, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Physical_Weapon", 1, 24019}
 , 
@@ -7585,7 +7669,7 @@ SourceItems = {
 }
 , NeedSource_String = "指定影子道具"}
 , 
-CriticalHit_Mix = {ItemID = 23669, NeedCount = 2, NeedRefineMin = 7, 
+CriticalHit_Mix = {ItemID = 23669, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Critical_Shoes", 1, 24333}
 , 
@@ -7597,7 +7681,7 @@ SourceItems = {
 }
 , NeedSource_String = "指定影子道具"}
 , 
-Phy_Mag_Att_Ddbox_TW = {ItemID = 23918, NeedCount = 1, NeedRefineMin = 0, 
+Phy_Mag_Att_Ddbox_TW = {ItemID = 23918, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Physical_Armor", 1, 24395}
 , 
@@ -7613,19 +7697,19 @@ SourceItems = {
 }
 , NeedSource_String = "指定影子道具"}
 , 
-Infi_S_Att_Ddbox_TW = {ItemID = 23928, NeedCount = 1, NeedRefineMin = 0, 
+Infi_S_Att_Ddbox_TW = {ItemID = 23928, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Infinity_Weapon", 1, 24386}
 }
 , NeedSource_String = "影子無極手套"}
 , 
-HardC_S_Att_Ddbox_TW = {ItemID = 23930, NeedCount = 1, NeedRefineMin = 0, 
+HardC_S_Att_Ddbox_TW = {ItemID = 23930, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_HardChamption_Shoes", 1, 24400}
 }
 , NeedSource_String = "影子剛強戰靴"}
 , 
-InfinityShadow_Mix = {ItemID = 23474, NeedCount = 2, NeedRefineMin = 7, 
+InfinityShadow_Mix = {ItemID = 23474, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Infinity_Earring", 1, 24150}
 , 
@@ -7633,7 +7717,7 @@ SourceItems = {
 }
 , NeedSource_String = "指定影子裝備"}
 , 
-HardChamption_Mix = {ItemID = 23667, NeedCount = 2, NeedRefineMin = 7, 
+HardChamption_Mix = {ItemID = 23667, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Hard_Armor", 1, 24028}
 , 
@@ -7643,19 +7727,19 @@ SourceItems = {
 }
 , NeedSource_String = "指定影子裝備"}
 , 
-ImmunedAthena_Ddbox_TW = {ItemID = 23950, NeedCount = 1, NeedRefineMin = 0, 
+ImmunedAthena_Ddbox_TW = {ItemID = 23950, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_ImmunedAthena_Shield", 1, 24399}
 }
 , NeedSource_String = "指定影子裝備"}
 , 
-K_birdAncient_DdBox_TW = {ItemID = 23951, NeedCount = 1, NeedRefineMin = 0, 
+K_birdAncient_DdBox_TW = {ItemID = 23951, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_KingbirdAncient_Armor", 1, 24401}
 }
 , NeedSource_String = "指定影子裝備"}
 , 
-ImmunedAthena_Mix = {ItemID = 23666, NeedCount = 2, NeedRefineMin = 7, 
+ImmunedAthena_Mix = {ItemID = 23666, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Immune_Armor", 1, 24027}
 , 
@@ -7665,7 +7749,7 @@ SourceItems = {
 }
 , NeedSource_String = "指定影子裝備"}
 , 
-KingbirdAncient_Mix = {ItemID = 23668, NeedCount = 2, NeedRefineMin = 7, 
+KingbirdAncient_Mix = {ItemID = 23668, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Kingbird_Weapon", 1, 24031}
 , 
@@ -7673,7 +7757,7 @@ SourceItems = {
 }
 , NeedSource_String = "指定影子裝備"}
 , 
-IDTest_Special = {ItemID = 100000, NeedCount = 3, NeedRefineMin = 0, 
+IDTest_Special = {ItemID = 100000, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
 {"Jellopy", 1, 909}
 , 
@@ -7683,7 +7767,7 @@ SourceItems = {
 }
 , NeedSource_String = "Jellopy,Fluff,Shell"}
 , 
-Hasty_Mix = {ItemID = 100058, NeedCount = 2, NeedRefineMin = 7, 
+Hasty_Mix = {ItemID = 100058, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
 {"S2_Hasty_Shoes", 1, 24320}
 , 
@@ -7693,7 +7777,7 @@ SourceItems = {
 }
 , NeedSource_String = "+7 影子急速"}
 , 
-Hasty_Box_TW = {ItemID = 100062, NeedCount = 1, NeedRefineMin = 0, 
+Hasty_Box_TW = {ItemID = 100062, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Hasty_Weapon", 1, 24439}
 }
@@ -7902,7 +7986,7 @@ SourceItems = {
 , serverMain = function()
   -- function num : 0_0
   for ScrollItemID,info in pairs(tblLapineDdukddakBox.sources) do
-    result = registerLapineDdukddakBoxSourceInfo(info.SourceItems, info.NeedRefineMin, info.NeedCount, ScrollItemID)
+    result = registerLapineDdukddakBoxSourceInfo(info.SourceItems, info.NeedRefineMax, info.NeedRefineMin, info.NeedCount, ScrollItemID)
     if not result then
       return false, msg
     end
@@ -7940,8 +8024,16 @@ end
   end
   return 0
 end
-, get_need_source_string = function(in_box_id)
+, get_max_need_refine = function(in_box_id)
   -- function num : 0_4
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil and box.NeedRefineMax ~= nil then
+    return box.NeedRefineMax
+  end
+  return 20
+end
+, get_need_source_string = function(in_box_id)
+  -- function num : 0_5
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     return box.NeedSource_String
@@ -7949,7 +8041,7 @@ end
   return 0
 end
 , set_resource_item_list = function(in_box_id)
-  -- function num : 0_5
+  -- function num : 0_6
   local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     for k,v in pairs(box.SourceItems) do

@@ -5,6 +5,436 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+Twins_Box_IL = {ItemID = 100699, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Guard_IL", 460017}
+, 
+{"Siver_Guard_IL", 460018}
+, 
+{"Siver_Guard_IL", 460018}
+, 
+{"Sprint_Shoes_IL", 470066}
+, 
+{"Sprint_Ring_IL", 490120}
+, 
+{"Sprint_Glove_IL", 490121}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
+, 
+{"Sprint_Mail_IL", 450182}
+}
+, NeedSource_String = "雙子幻影裝備"}
+, 
+S_Twins_Box_IL = {ItemID = 100700, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Guard_IL", 460017}
+, 
+{"Siver_Guard_IL", 460018}
+, 
+{"Sprint_Shoes_IL", 470066}
+, 
+{"Sprint_Ring_IL", 490120}
+, 
+{"Sprint_Glove_IL", 490121}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
+, 
+{"Sprint_Mail_IL", 450182}
+}
+, NeedSource_String = "雙子幻影裝備"}
+, 
+Lens_Craft_Stone = {ItemID = 100823, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Deepblue_Sunglasses_", 410080}
+}
+, NeedSource_String = "深藍太陽眼鏡(1)"}
+, 
+Joy_Of_Victory = {ItemID = 100009, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Victory_Wing_Ear_", 400002}
+}
+, NeedSource_String = "勝利的耳翅(1)"}
+, 
+Pontifex_Courage = {ItemID = 100650, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Adulter_F_T_Sword", 600017}
+, 
+{"Adulter_F_Cakram", 610020}
+, 
+{"Adulter_F_Katar", 610021}
+, 
+{"Adulter_F_Lance", 630012}
+, 
+{"Adulter_F_T_Staff", 640019}
+, 
+{"Adulter_F_Rod", 640020}
+, 
+{"Adulter_F_Humma", 650008}
+, 
+{"Adulter_F_C_Humma", 650009}
+, 
+{"Adulter_F_C_Bow", 700030}
+, 
+{"Adulter_F_Ballista", 700031}
+, 
+{"Adulter_F_A_Bow", 700032}
+, 
+{"Adulter_F_Revolver", 800003}
+, 
+{"Adulter_F_Rifle", 810002}
+, 
+{"Adulter_F_Shotgun", 820002}
+, 
+{"Adulter_F_Gatling", 830003}
+, 
+{"Adulter_F_Launcher", 840002}
+, 
+{"Adulter_F_G_Sword", 500025}
+, 
+{"Adulter_F_Lapier", 500026}
+, 
+{"Adulter_F_Dagger", 510032}
+, 
+{"Adulter_F_Axe", 520008}
+, 
+{"Adulter_F_G_Spear", 530013}
+, 
+{"Adulter_F_M_Book", 540019}
+, 
+{"Adulter_F_P_Book", 540020}
+, 
+{"Adulter_F_Bible", 540021}
+, 
+{"Adulter_F_Moon_B", 540022}
+, 
+{"Adulter_F_Star_B", 540023}
+, 
+{"Adulter_F_Wand", 550024}
+, 
+{"Adulter_F_S_Stick", 550025}
+, 
+{"Adulter_F_D_Wand", 550026}
+, 
+{"Adulter_F_F_Wand", 550027}
+, 
+{"Adulter_F_F_model", 550028}
+, 
+{"Adulter_F_Knuckle", 560018}
+, 
+{"Adulter_F_Claw", 560019}
+, 
+{"Adulter_F_Violin", 570017}
+, 
+{"Adulter_F_Harp", 570018}
+, 
+{"Adulter_F_C_Rope", 580017}
+, 
+{"Adulter_F_Ribbon", 580018}
+, 
+{"Adulter_F_Mace", 590021}
+, 
+{"Adulter_F_Hall", 590022}
+}
+, NeedSource_String = "虛偽信念武器"}
+, 
+Pontifex_Wisdom = {ItemID = 100651, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Adulter_F_T_Sword", 600017}
+, 
+{"Adulter_F_Cakram", 610020}
+, 
+{"Adulter_F_Katar", 610021}
+, 
+{"Adulter_F_Lance", 630012}
+, 
+{"Adulter_F_T_Staff", 640019}
+, 
+{"Adulter_F_Rod", 640020}
+, 
+{"Adulter_F_Humma", 650008}
+, 
+{"Adulter_F_C_Humma", 650009}
+, 
+{"Adulter_F_C_Bow", 700030}
+, 
+{"Adulter_F_Ballista", 700031}
+, 
+{"Adulter_F_A_Bow", 700032}
+, 
+{"Adulter_F_Revolver", 800003}
+, 
+{"Adulter_F_Rifle", 810002}
+, 
+{"Adulter_F_Shotgun", 820002}
+, 
+{"Adulter_F_Gatling", 830003}
+, 
+{"Adulter_F_Launcher", 840002}
+, 
+{"Adulter_F_G_Sword", 500025}
+, 
+{"Adulter_F_Lapier", 500026}
+, 
+{"Adulter_F_Dagger", 510032}
+, 
+{"Adulter_F_Axe", 520008}
+, 
+{"Adulter_F_G_Spear", 530013}
+, 
+{"Adulter_F_M_Book", 540019}
+, 
+{"Adulter_F_P_Book", 540020}
+, 
+{"Adulter_F_Bible", 540021}
+, 
+{"Adulter_F_Moon_B", 540022}
+, 
+{"Adulter_F_Star_B", 540023}
+, 
+{"Adulter_F_Wand", 550024}
+, 
+{"Adulter_F_S_Stick", 550025}
+, 
+{"Adulter_F_D_Wand", 550026}
+, 
+{"Adulter_F_F_Wand", 550027}
+, 
+{"Adulter_F_F_model", 550028}
+, 
+{"Adulter_F_Knuckle", 560018}
+, 
+{"Adulter_F_Claw", 560019}
+, 
+{"Adulter_F_Violin", 570017}
+, 
+{"Adulter_F_Harp", 570018}
+, 
+{"Adulter_F_C_Rope", 580017}
+, 
+{"Adulter_F_Ribbon", 580018}
+, 
+{"Adulter_F_Mace", 590021}
+, 
+{"Adulter_F_Hall", 590022}
+}
+, NeedSource_String = "虛偽信念武器"}
+, 
+Pontifex_Tenacity = {ItemID = 100652, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Vivatus_F_T_Sword", 600018}
+, 
+{"Vivatus_F_Cakram", 610022}
+, 
+{"Vivatus_F_Katar", 610023}
+, 
+{"Vivatus_F_Lance", 630013}
+, 
+{"Vivatus_F_T_Staff", 640021}
+, 
+{"Vivatus_F_Rod", 640022}
+, 
+{"Vivatus_F_C_Bow", 700033}
+, 
+{"Vivatus_F_Ballista", 700034}
+, 
+{"Vivatus_F_A_Bow", 700035}
+, 
+{"Vivatus_F_G_Sword", 500027}
+, 
+{"Vivatus_F_Lapier", 500028}
+, 
+{"Vivatus_F_Dagger", 510033}
+, 
+{"Vivatus_F_Axe", 520009}
+, 
+{"Vivatus_F_G_Spear", 530014}
+, 
+{"Vivatus_F_M_Book", 540024}
+, 
+{"Vivatus_F_P_Book", 540025}
+, 
+{"Vivatus_F_Bible", 540026}
+, 
+{"Vivatus_F_Wand", 550029}
+, 
+{"Vivatus_F_Knuckle", 560020}
+, 
+{"Vivatus_F_Claw", 560021}
+, 
+{"Vivatus_F_Violin", 570019}
+, 
+{"Vivatus_F_Harp", 570020}
+, 
+{"Vivatus_F_C_Rope", 580019}
+, 
+{"Vivatus_F_Ribbon", 580020}
+, 
+{"Vivatus_F_Mace", 590023}
+, 
+{"Vivatus_F_Hall", 590024}
+, 
+{"Vivatus_F_D_Wand", 550063}
+, 
+{"Vivatus_F_S_Stick", 550064}
+, 
+{"Vivatus_F_F_Wand", 550065}
+, 
+{"Vivatus_F_F_model", 550066}
+, 
+{"Vivatus_F_Star_B", 540045}
+, 
+{"Vivatus_F_Moon_B", 540046}
+, 
+{"Vivatus_F_Gatling", 830011}
+, 
+{"Vivatus_F_Launcher", 840007}
+, 
+{"Vivatus_F_Rifle", 810008}
+, 
+{"Vivatus_F_Shotgun", 820006}
+, 
+{"Vivatus_F_Revolver", 800012}
+, 
+{"Vivatus_F_C_Humma", 650021}
+, 
+{"Vivatus_F_Humma", 650022}
+}
+, NeedSource_String = "淨化信念武器"}
+, 
+Pontifex_Belief = {ItemID = 100653, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Vivatus_F_T_Sword", 600018}
+, 
+{"Vivatus_F_Cakram", 610022}
+, 
+{"Vivatus_F_Katar", 610023}
+, 
+{"Vivatus_F_Lance", 630013}
+, 
+{"Vivatus_F_T_Staff", 640021}
+, 
+{"Vivatus_F_Rod", 640022}
+, 
+{"Vivatus_F_C_Bow", 700033}
+, 
+{"Vivatus_F_Ballista", 700034}
+, 
+{"Vivatus_F_A_Bow", 700035}
+, 
+{"Vivatus_F_G_Sword", 500027}
+, 
+{"Vivatus_F_Lapier", 500028}
+, 
+{"Vivatus_F_Dagger", 510033}
+, 
+{"Vivatus_F_Axe", 520009}
+, 
+{"Vivatus_F_G_Spear", 530014}
+, 
+{"Vivatus_F_M_Book", 540024}
+, 
+{"Vivatus_F_P_Book", 540025}
+, 
+{"Vivatus_F_Bible", 540026}
+, 
+{"Vivatus_F_Wand", 550029}
+, 
+{"Vivatus_F_Knuckle", 560020}
+, 
+{"Vivatus_F_Claw", 560021}
+, 
+{"Vivatus_F_Violin", 570019}
+, 
+{"Vivatus_F_Harp", 570020}
+, 
+{"Vivatus_F_C_Rope", 580019}
+, 
+{"Vivatus_F_Ribbon", 580020}
+, 
+{"Vivatus_F_Mace", 590023}
+, 
+{"Vivatus_F_Hall", 590024}
+, 
+{"Vivatus_F_D_Wand", 550063}
+, 
+{"Vivatus_F_S_Stick", 550064}
+, 
+{"Vivatus_F_F_Wand", 550065}
+, 
+{"Vivatus_F_F_model", 550066}
+, 
+{"Vivatus_F_Star_B", 540045}
+, 
+{"Vivatus_F_Moon_B", 540046}
+, 
+{"Vivatus_F_Gatling", 830011}
+, 
+{"Vivatus_F_Launcher", 840007}
+, 
+{"Vivatus_F_Rifle", 810008}
+, 
+{"Vivatus_F_Shotgun", 820006}
+, 
+{"Vivatus_F_Revolver", 800012}
+, 
+{"Vivatus_F_C_Humma", 650021}
+, 
+{"Vivatus_F_Humma", 650022}
+}
+, NeedSource_String = "淨化信念武器"}
+, 
+GrayWolf_7_Ticket = {ItemID = 100626, NeedRefineMin = 0, NeedRefineMax = 6, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Gray_W_Suits", 450177}
+, 
+{"Gray_W_Robe", 450178}
+, 
+{"Gray_W_Manteau", 480091}
+, 
+{"Gray_W_Muffler", 480090}
+, 
+{"Gray_W_Boots", 470087}
+, 
+{"Gray_W_Shoes", 470088}
+}
+, NeedSource_String = "灰狼防具"}
+, 
+GrayWolf_9_Ticket = {ItemID = 100627, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Gray_W_Suits", 450177}
+, 
+{"Gray_W_Robe", 450178}
+, 
+{"Gray_W_Manteau", 480091}
+, 
+{"Gray_W_Muffler", 480090}
+, 
+{"Gray_W_Boots", 470087}
+, 
+{"Gray_W_Shoes", 470088}
+}
+, NeedSource_String = "灰狼防具"}
+, 
 C_Time_Crys = {ItemID = 102103, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"WM_Job_Pick", 490211}
@@ -783,19 +1213,19 @@ TargetItems = {
 }
 , NeedSource_String = "光明魔力寶石"}
 , 
-Hell_fire_D_Box = {ItemID = 101614, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Hell_fire_D_Box = {ItemID = 101614, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Devil_Flame_Manteau_TW", 480154}
 }
 , NeedSource_String = "魔鬼惡火斗篷"}
 , 
-Force_of_Fullmoon = {ItemID = 101592, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Force_of_Fullmoon = {ItemID = 101592, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"lunar_eclipse_Armor_", 15374}
 }
 , NeedSource_String = "月全蝕魔力外袍"}
 , 
-God_Favor_TW = {ItemID = 101484, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+God_Favor_TW = {ItemID = 101484, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Ultio_Cape_TW", 480088}
 }
@@ -829,7 +1259,7 @@ TargetItems = {
 }
 , NeedSource_String = "活體研究頭冠"}
 , 
-S_EXP_S_Box_TW = {ItemID = 101397, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+S_EXP_S_Box_TW = {ItemID = 101397, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_EXP_Shield", 24683}
 }
@@ -857,7 +1287,7 @@ TargetItems = {
 }
 , NeedSource_String = "全自動防具"}
 , 
-Dead_Soul_Record_TW = {ItemID = 101304, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Dead_Soul_Record_TW = {ItemID = 101304, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Manteau_Of_Fallen", 20748}
 , 
@@ -867,37 +1297,37 @@ TargetItems = {
 }
 , NeedSource_String = "戰死者斗篷, 思念者斗篷"}
 , 
-AS_F_TW = {ItemID = 101277, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+AS_F_TW = {ItemID = 101277, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Astraea_Shoes", 22167}
 }
 , NeedSource_String = "阿斯特莉亞戰靴"}
 , 
-AA_Melee_TW = {ItemID = 101211, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+AA_Melee_TW = {ItemID = 101211, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Astraea_Armor", 15367}
 }
 , NeedSource_String = "阿斯特莉亞鎧甲"}
 , 
-AA_Magic_TW = {ItemID = 101212, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+AA_Magic_TW = {ItemID = 101212, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Astraea_Armor", 15367}
 }
 , NeedSource_String = "阿斯特莉亞鎧甲"}
 , 
-Astrea_Endurance_TW = {ItemID = 101201, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Astrea_Endurance_TW = {ItemID = 101201, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Astrea_Cape", 20905}
 }
 , NeedSource_String = "阿斯特莉亞斗篷"}
 , 
-Mysterious_F_TW = {ItemID = 101151, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Mysterious_F_TW = {ItemID = 101151, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Feather_Shield", 460003}
 }
 , NeedSource_String = "聖之羽翼神盾"}
 , 
-Shadow_Random_Mix = {ItemID = 23720, NeedRefineMin = 7, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Shadow_Random_Mix = {ItemID = 23720, NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_AutoSpell_Shield", 24722}
 , 
@@ -3005,7 +3435,7 @@ TargetItems = {
 }
 , NeedSource_String = "OS系列武器"}
 , 
-Ein_Ddbox = {ItemID = 9514, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Ein_Ddbox = {ItemID = 9514, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Ein_BHSWORD", 21054}
 , 
@@ -3045,7 +3475,7 @@ TargetItems = {
 }
 , NeedSource_String = "物理改造系統"}
 , 
-Ein_Ddbox2 = {ItemID = 9529, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Ein_Ddbox2 = {ItemID = 9529, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Ein_BHSWORD", 21054}
 , 
@@ -3085,7 +3515,7 @@ TargetItems = {
 }
 , NeedSource_String = "魔法改造系統"}
 , 
-Abyss_Ddbox = {ItemID = 23981, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Abyss_Ddbox = {ItemID = 23981, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"DragonA_Red", 15391}
 , 
@@ -3101,7 +3531,7 @@ TargetItems = {
 }
 , NeedSource_String = "狂暴的龍之氣息"}
 , 
-Abyss_Ddbox2 = {ItemID = 100142, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Abyss_Ddbox2 = {ItemID = 100142, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"DragonA_Red", 15391}
 , 
@@ -3117,13 +3547,13 @@ TargetItems = {
 }
 , NeedSource_String = "強大的龍之氣息"}
 , 
-Abyss_Ddbox3 = {ItemID = 100144, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Abyss_Ddbox3 = {ItemID = 100144, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Drag_Manteau", 20946}
 }
 , NeedSource_String = "燃燒的龍之氣息"}
 , 
-Abyss_Ddbox4 = {ItemID = 100145, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Abyss_Ddbox4 = {ItemID = 100145, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Dragon_Boots", 22208}
 }
@@ -4508,6 +4938,18 @@ TargetItems = {
 {"Electronic_Guitar_IL", 570008}
 , 
 {"Electric_Eel_IL", 580008}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
 }
 , NeedSource_String = "幻影LV4武器"}
 , 
@@ -4572,11 +5014,41 @@ TargetItems = {
 {"Electronic_Guitar_IL", 570008}
 , 
 {"Electric_Eel_IL", 580008}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
 }
 , NeedSource_String = "幻影LV4武器"}
 , 
 Shadow2_Op_Box_TW = {ItemID = 100549, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_CriticalHit_Weapon", 24738}
+, 
+{"S_Durable_Weapon", 24734}
+, 
+{"S_Durable_Shield", 24735}
+, 
+{"S_Clever_Weapon", 24736}
+, 
+{"S_Clever_Shield", 24737}
+, 
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+, 
 {"S_R_Bearers_Shoes", 24763}
 , 
 {"S_R_Bearers_Armor", 24764}
@@ -4711,7 +5183,7 @@ TargetItems = {
 }
 , NeedSource_String = "+6 以上 影子II"}
 , 
-SkillShadowRanBox_TW = {ItemID = 100410, NeedRefineMin = 5, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+SkillShadowRanBox_TW = {ItemID = 100410, NeedRefineMin = 5, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"S_Tail_Dragon_Weapon", 24601}
 , 
@@ -5123,7 +5595,7 @@ TargetItems = {
 }
 , NeedSource_String = "影子技能屬性箱"}
 , 
-CSkillShadowRanBox_TW = {ItemID = 100411, NeedRefineMin = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+CSkillShadowRanBox_TW = {ItemID = 100411, NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"S_Tail_Dragon_Weapon", 24601}
 , 
@@ -5535,8 +6007,28 @@ TargetItems = {
 }
 , NeedSource_String = "影子技能高級屬性箱"}
 , 
-Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_Durable_Weapon", 24734}
+, 
+{"S_Durable_Shield", 24735}
+, 
+{"S_Clever_Weapon", 24736}
+, 
+{"S_Clever_Shield", 24737}
+, 
+{"S_CriticalHit_Weapon", 24738}
+, 
+{"S_CriticalHit_Armor", 15280}
+, 
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+, 
 {"S_AutoSpell_Shield", 24722}
 , 
 {"S_AutoSpell_Armor", 24723}
@@ -6915,7 +7407,7 @@ TargetItems = {
 }
 , NeedSource_String = "影子道具"}
 , 
-ClassShadow_ATTR_N = {ItemID = 100228, NeedRefineMin = 5, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+ClassShadow_ATTR_N = {ItemID = 100228, NeedRefineMin = 5, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_Runeknight_Weapon", 24288}
 , 
@@ -7099,7 +7591,7 @@ TargetItems = {
 }
 , NeedSource_String = "精煉+5以上影子職業"}
 , 
-ClassShadow_ATTR_S = {ItemID = 100229, NeedRefineMin = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+ClassShadow_ATTR_S = {ItemID = 100229, NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_Runeknight_Weapon", 24288}
 , 
@@ -7283,7 +7775,7 @@ TargetItems = {
 }
 , NeedSource_String = "精煉+9以上影子職業"}
 , 
-Gemstone_Of_Time = {ItemID = 9550, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Gemstone_Of_Time = {ItemID = 9550, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Overwhelm_Str_Armor", 15278}
 , 
@@ -7301,7 +7793,7 @@ TargetItems = {
 }
 , NeedSource_String = "時光鎧甲6種"}
 , 
-Time_Unseal_Key = {ItemID = 9551, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Time_Unseal_Key = {ItemID = 9551, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Temporal_M_Str", 20963}
 , 
@@ -7319,7 +7811,7 @@ TargetItems = {
 }
 , NeedSource_String = "時光斗篷6種"}
 , 
-Ancient_Hero_Bravery = {ItemID = 100023, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Ancient_Hero_Bravery = {ItemID = 100023, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Royal_Bow_K", 18164}
 , 
@@ -7475,8 +7967,12 @@ TargetItems = {
 }
 , NeedSource_String = "英雄武器"}
 , 
-Ancient_Hero_Wisdom = {ItemID = 100025, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Ancient_Hero_Wisdom = {ItemID = 100025, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"Blessed_Knife", 510070}
+, 
+{"Freedom_Stick", 550080}
+, 
 {"Up_Blessed_Knife", 510071}
 , 
 {"Up_Freedom_Stick", 550081}
@@ -7627,7 +8123,7 @@ TargetItems = {
 }
 , NeedSource_String = "英雄武器"}
 , 
-RTC_Tolerance_Box = {ItemID = 23757, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+RTC_Tolerance_Box = {ItemID = 23757, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"2018_RTC_Cape1_TW", 20927}
 , 
@@ -7639,7 +8135,7 @@ TargetItems = {
 }
 , NeedSource_String = "2018-RTC斗篷系列"}
 , 
-RTC_ATK_Box = {ItemID = 23758, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+RTC_ATK_Box = {ItemID = 23758, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"2018_RTC_Cape1_TW", 20927}
 , 
@@ -7651,7 +8147,7 @@ TargetItems = {
 }
 , NeedSource_String = "2018-RTC斗篷系列"}
 , 
-RTC_DEF_Box = {ItemID = 23759, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+RTC_DEF_Box = {ItemID = 23759, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"2018_RTC_Cape1_TW", 20927}
 , 
@@ -7663,7 +8159,7 @@ TargetItems = {
 }
 , NeedSource_String = "2018-RTC斗篷系列"}
 , 
-RTC_Element_Box = {ItemID = 23760, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+RTC_Element_Box = {ItemID = 23760, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"2018_RTC_Cape1_TW", 20927}
 , 
@@ -7675,7 +8171,7 @@ TargetItems = {
 }
 , NeedSource_String = "2018-RTC斗篷系列"}
 , 
-Charleston_Parts_W = {ItemID = 23706, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Charleston_Parts_W = {ItemID = 23706, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Pilebuncker", 1549}
 , 
@@ -7693,7 +8189,7 @@ TargetItems = {
 }
 , NeedSource_String = "查理斯頓升級版零件(近距離)"}
 , 
-Charleston_Parts_R = {ItemID = 23707, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Charleston_Parts_R = {ItemID = 23707, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Pilebuncker", 1549}
 , 
@@ -7727,19 +8223,19 @@ TargetItems = {
 }
 , NeedSource_String = "吉芬魔法大賽鎧甲"}
 , 
-Cursed_Blood = {ItemID = 23546, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Cursed_Blood = {ItemID = 23546, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bloody_Knight_Shield_", 28945}
 }
 , NeedSource_String = "血腥騎士盾牌"}
 , 
-Gold_Statue = {ItemID = 23547, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Gold_Statue = {ItemID = 23547, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bloody_Knight_Shield__", 28946}
 }
 , NeedSource_String = "神聖騎士盾牌"}
 , 
-Shadow_Att_Ddbox_TW = {ItemID = 23801, NeedRefineMin = 6, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Shadow_Att_Ddbox_TW = {ItemID = 23801, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_AllMighty_Earring", 24339}
 , 
@@ -7777,7 +8273,7 @@ TargetItems = {
 }
 , NeedSource_String = "+6 限定影子裝備"}
 , 
-Shadow_Att_Ddbox2_TW = {ItemID = 23802, NeedRefineMin = 7, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Shadow_Att_Ddbox2_TW = {ItemID = 23802, NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_Kingbird_Weapon", 24031}
 , 
@@ -7937,14 +8433,34 @@ TargetItems = {
 }
 , NeedSource_String = "+7 限定影子裝備"}
 , 
-Cri_Att_Ddbox_TW = {ItemID = 23917, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Cri_Att_Ddbox_TW = {ItemID = 23917, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_CriticalHit_Armor", 15280}
 }
 , NeedSource_String = "影子潛能鎧甲II"}
 , 
-Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_Durable_Weapon", 24734}
+, 
+{"S_Durable_Shield", 24735}
+, 
+{"S_Clever_Weapon", 24736}
+, 
+{"S_Clever_Shield", 24737}
+, 
+{"S_CriticalHit_Weapon", 24738}
+, 
+{"S_CriticalHit_Armor", 15280}
+, 
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+, 
 {"S_AutoSpell_Shield", 24722}
 , 
 {"S_AutoSpell_Armor", 24723}
@@ -9323,43 +9839,43 @@ TargetItems = {
 }
 , NeedSource_String = "影子道具"}
 , 
-H_Anto_RangeBox_TW = {ItemID = 9500, NeedRefineMin = 12, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+H_Anto_RangeBox_TW = {ItemID = 9500, NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Range", 20843}
 }
 , NeedSource_String = "糖果袋背包(遠距離)"}
 , 
-Anto_RangeBox_TW = {ItemID = 9503, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Anto_RangeBox_TW = {ItemID = 9503, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Range", 20843}
 }
 , NeedSource_String = "糖果袋背包(遠距離)"}
 , 
-H_Anto_MeleeBox_TW = {ItemID = 9501, NeedRefineMin = 12, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+H_Anto_MeleeBox_TW = {ItemID = 9501, NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Melee", 20842}
 }
 , NeedSource_String = "糖果袋背包(物理)"}
 , 
-Anto_MeleeBox_TW = {ItemID = 9504, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Anto_MeleeBox_TW = {ItemID = 9504, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Melee", 20842}
 }
 , NeedSource_String = "糖果袋背包(物理)"}
 , 
-H_Anto_MagicBox_TW = {ItemID = 9502, NeedRefineMin = 12, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+H_Anto_MagicBox_TW = {ItemID = 9502, NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Magic", 20844}
 }
 , NeedSource_String = "糖果袋背包(魔法)"}
 , 
-Anto_MagicBox_TW = {ItemID = 9505, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Anto_MagicBox_TW = {ItemID = 9505, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Bag_Of_Antonio_Magic", 20844}
 }
 , NeedSource_String = "糖果袋背包(魔法)"}
 , 
-BF_Att_Box_TW = {ItemID = 9538, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+BF_Att_Box_TW = {ItemID = 9538, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"BF_manteau_TW", 1, 20957}
 }
@@ -9485,7 +10001,7 @@ TargetItems = {
 }
 , NeedSource_String = "塔諾斯遠距離武器"}
 , 
-Magma_Essence = {ItemID = 23815, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Magma_Essence = {ItemID = 23815, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Lava_Leather_Armor", 15378}
 , 
@@ -9495,7 +10011,7 @@ TargetItems = {
 }
 , NeedSource_String = "熔岩皮革裝甲套件"}
 , 
-EP17_1_SPC05 = {ItemID = 23776, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+EP17_1_SPC05 = {ItemID = 23776, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Cannon_Rapier_OS", 13493}
 , 
@@ -9531,7 +10047,7 @@ TargetItems = {
 }
 , NeedSource_String = "OS武器"}
 , 
-EP17_1_SPC06 = {ItemID = 23777, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+EP17_1_SPC06 = {ItemID = 23777, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Cannon_Rapier_OS", 13493}
 , 
@@ -9567,7 +10083,7 @@ TargetItems = {
 }
 , NeedSource_String = "OS武器"}
 , 
-EP17_1_SPC07 = {ItemID = 23778, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+EP17_1_SPC07 = {ItemID = 23778, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Cannon_Rapier_OS", 13493}
 , 
@@ -9603,7 +10119,7 @@ TargetItems = {
 }
 , NeedSource_String = "OS武器"}
 , 
-EP17_1_SPC08 = {ItemID = 23779, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+EP17_1_SPC08 = {ItemID = 23779, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Cannon_Rapier_OS", 13493}
 , 
@@ -9639,7 +10155,7 @@ TargetItems = {
 }
 , NeedSource_String = "OS武器"}
 , 
-EP17_1_SPC09 = {ItemID = 23780, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+EP17_1_SPC09 = {ItemID = 23780, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Cannon_Rapier_OS", 13493}
 , 
@@ -9675,7 +10191,7 @@ TargetItems = {
 }
 , NeedSource_String = "OS武器"}
 , 
-EP17_1_SPC10 = {ItemID = 23781, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+EP17_1_SPC10 = {ItemID = 23781, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Cannon_Rapier_OS", 13493}
 , 
@@ -9744,8 +10260,16 @@ end
   end
   return 0
 end
-, get_min_need_option_num = function(in_box_id)
+, get_max_need_refine = function(in_box_id)
   -- function num : 0_3
+  local box = (tblLapineUpgradeBox.get_lapine_box)(in_box_id)
+  if box ~= nil and box.NeedRefineMax ~= nil then
+    return box.NeedRefineMax
+  end
+  return 20
+end
+, get_min_need_option_num = function(in_box_id)
+  -- function num : 0_4
   local box = (tblLapineUpgradeBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     return box.NeedOptionNumMin
@@ -9753,7 +10277,7 @@ end
   return 0
 end
 , get_need_source_string = function(in_box_id)
-  -- function num : 0_4
+  -- function num : 0_5
   local box = (tblLapineUpgradeBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     return box.NeedSource_String
@@ -9761,7 +10285,7 @@ end
   return 0
 end
 , set_resource_item_list = function(in_box_id)
-  -- function num : 0_5
+  -- function num : 0_6
   local box = (tblLapineUpgradeBox.get_lapine_box)(in_box_id)
   if box ~= nil then
     for k,v in pairs(box.TargetItems) do
