@@ -368,4 +368,58 @@ GetSkillScale = function(in_SKID, in_Level)
   return x, y
 end
 
+JobSkillTab = {}
+-- DECOMPILER ERROR at PC34: Confused about usage of register: R0 in 'UnsetPending'
+
+JobSkillTab.ChangeSkillTabName = function(in_job, in_1sttab, in_2ndtab, in_3rdtab, in_4thtab)
+  -- function num : 0_14
+  local tbl = {job = in_job, TabName1st = in_1sttab, TabName2nd = in_2ndtab, TabName3rd = in_3rdtab, TabName4th = in_4thtab}
+  -- DECOMPILER ERROR at PC10: Confused about usage of register: R6 in 'UnsetPending'
+
+  JobSkillTab[#JobSkillTab + 1] = tbl
+end
+
+JobSkillTab_GetTabName = function(in_job)
+  -- function num : 0_15
+  if JobSkillTab == nil then
+    return nil
+  end
+  local size = #JobSkillTab
+  for seq = 1, size do
+    if in_job == (JobSkillTab[seq]).job then
+      return (JobSkillTab[seq]).TabName1st, (JobSkillTab[seq]).TabName2nd, (JobSkillTab[seq]).TabName3rd, (JobSkillTab[seq]).TabName4th
+    end
+  end
+end
+
+IsSkillUsesAp = function(SkillID)
+  -- function num : 0_16
+  local skillInfo = SKILL_INFO_LIST[SkillID]
+  local rst = nil
+  do
+    if skillInfo ~= nil then
+      local apAmount = skillInfo.ApAmount
+      if apAmount ~= nil then
+        return true
+      end
+    end
+    return false
+  end
+end
+
+GetLevelUseApAmount = function(SkillID, idx)
+  -- function num : 0_17
+  local obj = SKILL_INFO_LIST[SkillID]
+  if obj ~= nil then
+    obj = (SKILL_INFO_LIST[SkillID]).ApAmount
+  end
+  if obj ~= nil then
+    obj = ((SKILL_INFO_LIST[SkillID]).ApAmount)[idx]
+  end
+  if obj ~= nil then
+    return obj
+  end
+  return 0
+end
+
 

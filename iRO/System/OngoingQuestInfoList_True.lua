@@ -25653,142 +25653,6 @@ Description = {"Place Holder"}
 Description = {"Place Holder"}
 , Summary = "Place Holder"}
 , 
-[11498] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11499] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11500] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11501] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11502] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11503] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11504] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11505] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11506] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11507] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11508] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11509] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11510] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11511] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11512] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11513] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11514] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11515] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11516] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11517] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11518] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11519] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11520] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11521] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11522] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11523] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11524] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11525] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11526] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11527] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11528] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11604] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11605] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
-[11606] = {Title = "Invisible Quest", 
-Description = {"Place Holder"}
-, Summary = "Place Holder"}
-, 
 [12071] = {Title = "Invisible Quest", 
 Description = {"Place Holder"}
 , Summary = "Place Holder"}
@@ -28116,5 +27980,311 @@ Description = {"Hunt down 30 dragon monsters of 50 lv or more and then report to
 [3406] = {Title = "Dragon Monster Hunting - Standby", 
 Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
 , Summary = "04:00 Reset"}
+, 
+[11650] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Hurorong says Jakk is weird. Let\'s talk to Jakk."}
+, Summary = "Speak to Jakk"}
+, 
+[11651] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Jakk said he didn\'t see Weird Jakk. Let\'s ask Jakk again at the entrance to Niflheim."}
+, Summary = "Speak to Jakk at Niflheim"}
+, 
+[11652] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Jakk at the entrance to Niflheim asked to ask Jakk at the square. Let\'s ask Jakk in the square."}
+, Summary = "Speak to Jakk at the square"}
+, 
+[11653] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Jakk in the square didn\'t see Strange Jakk, but he said he saw Little Weird Jakk. Let\'s talk to Jakk, who\'s a little weird."}
+, Summary = "Speak to Little Weird Jakk"}
+, 
+[11654] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Little Weird Jakk seems like he needs the wings of butterfly to go home. Let\'s get Jakk a butterfly wing."}
+, Summary = "Wings of Butterfly 1"}
+, 
+[11655] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Little Weird Jakk says he saw Weird Knights. Let\'s talk to a Weird Knight."}
+, Summary = "Speak to Weird Jakk"}
+, 
+[11656] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Knights wearing Jakk said that he has difficulty breathing due to the sudden increase of Garlings. Let\'s hunt 20 Garlings and come back."}
+, Summary = "Hunt 20 Garlings"}
+, 
+[11657] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"I\'ve got rid of Garlings, but things don\'t seem to get much better. Let\'s report back to Hurorong."}
+, Summary = "Speak to Hurorong"}
+, 
+[11658] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Hurorong asks to go hunt Garlings for Weird Jakk. Let\'s hunt 20 Garlings and come back. "}
+, Summary = "Hunt 20 Garlings"}
+, 
+[11659] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
+Description = {"Garlings hunted. Let\'s come back after 4AM."}
+, Summary = ""}
+, 
+[11498] = {Title = "Jakk and Jakk Jakk\'s Story", IconName = "ico_ev.bmp", 
+Description = {"When I woke up to the sound of ghosts whispering, I arrived in Niflheim, the city of the dead. Let\'s hear the stories of ghosts."}
+, Summary = "Talk to Hororong"}
+, 
+[11499] = {Title = "Jakk and Jakk Jakk\'s Story", IconName = "ico_ev.bmp", 
+Description = {"It is said that Jakk in the square may know something. Ask Jakk in the square."}
+, Summary = "Talk to Jakk"}
+, 
+[11500] = {Title = "Jakk and Jakk Jakk\'s Story", IconName = "ico_ev.bmp", 
+Description = {"I heard about the place where Jakk was. Let her go back to Hululong."}
+, Summary = "Talk to Hululong"}
+, 
+[11501] = {Title = "Jakk and Jakk Jakk\'s Story", IconName = "ico_ev.bmp", 
+Description = {"Catch 10 running Jakks somewhere in the field or dungeon, and bring 10 Decorative Pumpkins that fall when you catch him, and 20 Dried White Stems to Hororong."}
+, 
+RewardItemList = {
+{ItemID = 11605, ItemNum = 30}
+, 
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Jakk to Niflheim"}
+, 
+[11502] = {Title = "Jakk and Jakk Jakk\'s Story - Waiting", IconName = "ico_ev.bmp", 
+Description = {"I brought Jakk to Niflheim. According to the ghosts, Jakk says that if he stays in the living man\'s land too long, the stem will grow, so let\'s get some rest."}
+, Summary = "04:00 reset", CoolTimeQuest = 1}
+, 
+[11503] = {Title = "Jakk and Jakk Jakk\'s Story", IconName = "ico_ev.bmp", 
+Description = {"Catch 10 running Jakks somewhere in the field or dungeon, and bring 10 Decorative Pumpkins that fall when you catch him, and 20 Dried White Stems to Hororing."}
+, 
+RewardItemList = {
+{ItemID = 11605, ItemNum = 30}
+, 
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Jakk to Niflheim"}
+, 
+[11504] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"It\'s hard to understand, but I think you can get a Dry White Stem and return it to Jakk."}
+, Summary = "Get Dry White Stem"}
+, 
+[11505] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"When Jakk was caught, the startled kitty seemed to run away. Ask Harolong who was with Jakk."}
+, Summary = "Talk to Harorong"}
+, 
+[11506] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"It is said that Nible at the entrance may have seen the kitty. Talk to Nible at the west entrance of Niflheim."}
+, Summary = "Nible west of Niflheim"}
+, 
+[11507] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"I don\'t know if it\'s a kitty or not, but it is said that a white, small and fast object passed through the entrance recently. Ask the guy outside the entrance."}
+, Summary = "Talk to Shivering Jakk"}
+, 
+[11508] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"It is said that Jakk\'s kitty went to a place called there. Let Jakk know who\'s looking for the kitty."}
+, Summary = "Talk to Jakk"}
+, 
+[11509] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"Looks like Jakk\'s kitty went through the Yggdrasil stem to Midgard. It looks like we\'re going through Umbala, so let\'s investigate."}
+, Summary = "Investigate the north entrance to Umbala"}
+, 
+[11510] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"The researcher is said to have pointed the way to Morocc to something small and white. Investigate near the northern entrance to Morocc."}
+, Summary = "Investigate the Morocc Entrance"}
+, 
+[11511] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"It is said that the merchant showed someone the way to Alberta. Investigate the northern entrance to Alberta."}
+, Summary = "Alberta Entrance Investigation"}
+, 
+[11512] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"It is said that if you go to the port, there are a lot of kitties trying to get fish. Let\'s investigate the port area."}
+, Summary = "Alberta Port Survey"}
+, 
+[11513] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"I found a white kitty, but it doesn\'t seem to be Jakk\'s kitty. The pile of sand behind is suspicious, so let\'s investigate."}
+, Summary = "Sand pile survey"}
+, 
+[11514] = {Title = "Jakk and Jakk\'s Cat", IconName = "ico_ev.bmp", 
+Description = {"In a pile of sand, I found a red necklace with bones and bells that seemed to belong to a small animal. Let\'s go back to Jakk."}
+, 
+RewardItemList = {
+{ItemID = 9101, ItemNum = 1}
+, 
+{ItemID = 10040, ItemNum = 1}
+, 
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Talk to Jakk in Niflheim"}
+, 
+[11515] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"Jakk\'s kitty seems to be in a strange state. Meet Jakk\'s kitty to the south of Jakk."}
+, Summary = "Talk to Jakk\'s kitty"}
+, 
+[11516] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"Kitty learned a lot from her previous adventures and evolved into a Master Scatleton. But tell Jakk that he\'s changed so much that he can\'t go back."}
+, Summary = "Talk to Jakk"}
+, 
+[11517] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"It is said that there are many kitties in the center of the Valley of Gyoll. Go to the center of the Valley of Gyoll and find Kitty."}
+, Summary = "Find Kitty"}
+, 
+[11518] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"I found a lot of Scatletons in the center of the Valley of Gyoll, but they all seem to be in poor condition. Get 5^000000Black Fur^ff0000to warm the Scatleton. Black fur can be obtained from nearby Runaway Jakks, Durahhans, Lori Luri, Fast Lori Luri, Ruud, Bloody Murderer, Sivett, and Hirojoist."}
+, Summary = "5 black fur"}
+, 
+[11519] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"I think the Skatleton is too excited to talk anymore. Let\'s go back to Jakk."}
+, Summary = "talk to Jakk"}
+, 
+[11520] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"It is said that he likes his own kitty, not other kitties. Talk to Master Scatleton again."}
+, Summary = "Talk to Master Scatleton"}
+, 
+[11521] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"Master Scatleton doesn\'t seem to want to talk anymore. Let\'s go back to Jakk."}
+, Summary = "talk to Jakk"}
+, 
+[11522] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"Jakk asks to take care of the new kitties, saying that he will continue to wait for his kitty. ^ff0000 Collect 10 dried white stems^000000 and help Scatleton in the Valley of Gyoll."}
+, Summary = "To the Valley of Gyoll"}
+, 
+[11523] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"Scatleton, whose body has been able to move a little, seems hungry. ^ff0000 Get 10 Fresh Fish^000000."}
+, Summary = "10 Fresh Fish"}
+, 
+[11524] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"Scatleton wants you to get another ^ff0000 more Dry White Stems^000000. Let\'s get the stems."}
+, 
+RewardItemList = {
+{ItemID = 25408, ItemNum = 1}
+, 
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "20 Dried White Stems"}
+, 
+[11525] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"I felt the same energy as Master Scatleton from Skatleton. Go to Master Scatleton and ask him."}
+, Summary = "Talk to Master Scatleton"}
+, 
+[11526] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"Even Master Scatleton says he will go on an adventure. Let\'s talk to Jakk."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Talk to Jakk"}
+, 
+[11527] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"Looks like Jakk is tired. Come back after 4pm."}
+, Summary = "04:00 reset", CoolTimeQuest = 1}
+, 
+[11528] = {Title = "The Wind From the Black Hills", IconName = "ico_ev.bmp", 
+Description = {"While taking this quest, you can get Black Fur from monsters in the Valley of Gyoll."}
+, 
+RewardItemList = {
+{ItemID = 11616, ItemNum = 10}
+, 
+{ItemID = 11605, ItemNum = 10}
+, 
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Black Fur collector"}
+, 
+[11604] = {Title = "Jakk the Giant Pumpkin", IconName = "ico_ev.bmp", 
+Description = {"It is said that 10 red and hot ^ff0000 Elder Willows ^000000 are required to complete the Halloween Festival. Catch Elder Willow and return to Huralong."}
+, Summary = "10 Elder Willows"}
+, 
+[11605] = {Title = "Jakk the Giant Pumpkin", IconName = "ico_ev.bmp", 
+Description = {"Visit the Halloween festivities and complete the ^ff0000Jakk Catching Game^000000. The Halloween Festival can be accessed through the Festival Concierge. ^ff0000The event reward box will be opened immediately upon acquisition.^000000"}
+, Summary = "Catching Jakk the Giant"}
+, 
+[11606] = {Title = "Jakk the Giant Pumpkin - Waiting", IconName = "ico_ev.bmp", 
+Description = {"If you want to go to the Halloween festival, come back after 4:00."}
+, Summary = "04:00 reset", CoolTimeQuest = 1}
+, 
+[3312] = {Title = "Catch Sweets Drops!", 
+Description = {"Sweets festival committee member <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> hopes that Sweets Drops will be punished for stealing cacao beans."}
+, Summary = "Defeat Sweets Drops"}
+, 
+[3313] = {Title = "Stolen Cocoa Beans", 
+Description = {"Sweets festival committee member <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> ^4d4dff Sweets Drops^000000 stole ^4d4dff stolen cacao beans^000000 for 20 Requested to retrieve the dog."}
+, Summary = "20 Stolen Cocoa Beans"}
+, 
+[3314] = {Title = "Delivery and Collection-Fronterra", 
+Description = {"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Mimi]<INFO>prontera,113,103,0,101,0</INFO></NAVI> at the Frontera Sweets Shop."}
+, Summary = "Chocolatete delivery to Mimi"}
+, 
+[3315] = {Title = "Delivery and Collection-Geffen", 
+Description = {"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Ed]<INFO>geffen,59,165,0,101,0</INFO></NAVI> at the Geffen Sweets Shop."}
+, Summary = "Chocolatete delivery to Ed"}
+, 
+[3316] = {Title = "Delivery and Collection- Payon", 
+Description = {"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Allen]<INFO>payon,160,126,0,101,0</INFO></NAVI> in the Payon Sweets shop."}
+, Summary = "Deliver Chocolatete to Allen"}
+, 
+[3317] = {Title = "Delivery and Collection-Aldebaran", 
+Description = {"For the Sweets Festival, deliver ^4d4dff^000000 chocolates to <NAVI>[Hans]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI> at the Sweets Shop in Aldebaran."}
+, Summary = "Chocolatete Delivery to Hans"}
+, 
+[3318] = {Title = "Chocolatete delivery complete!", 
+Description = {"Delivered all chocolates for delivery to sweets stores in each major city. Report to Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Report to Chocolatet"}
+, 
+[3319] = {Title = "Happiness sharing warmth 1", 
+Description = {"Prontera\'s <NAVI>[Crienne]<INFO>prontera,210,321,0,101,0</INFO></NAVI> has a lonely personality. We prepared a sweet crepe for Crienne."}
+, Summary = "Crepe gift to Krienne"}
+, 
+[3320] = {Title = "Happiness sharing warmth 2", 
+Description = {"Frontera\'s <NAVI>[Lasis]<INFO>prontera,103,308,0,101,0</INFO></NAVI> is missing her lover who went on an adventure. We prepared small and pretty strawberry whipped cream cupcakes for Lasis."}
+, Summary = "Cupcake Gift to Lasis"}
+, 
+[3321] = {Title = "Happiness sharing warmth 3", 
+Description = {"Prontera\'s <NAVI>[Eltsan]<INFO>prontera,100,183,0,101,0</INFO></NAVI> is heartbroken right now. We prepared a fresh fruit parfait for Eltsan."}
+, Summary = "Parfait Gift to Eltsan"}
+, 
+[3322] = {Title = "Happiness to share warmth 4", 
+Description = {"Prontera\'s <NAVI>[Ant]<INFO>prontera,271,339,0,101,0</INFO></NAVI> is celebrating her mother\'s death. We prepared moist macarons for Ant."}
+, Summary = "Macaron Gift to Ant"}
+, 
+[3323] = {Title = "Happiness sharing warmth 5", 
+Description = {"Frontera\'s <NAVI>[Chae]<INFO>prontera,269,55,0,101,0</INFO></NAVI> is struggling to choose a gift for her father. We prepared a Mont Blanc cake full of chestnut flavor for Chai."}
+, Summary = "A gift of Mont Blanc to Chae"}
+, 
+[3324] = {Title = "The joy of sharing warm happiness", 
+Description = {"We handed out sweets to all five customers. Let\'s report the results to the festival committee member <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Report to Chocolatet"}
+, 
+[3325] = {Title = "the joy of sharing sweet happiness again", 
+Description = {"Deliver the sweets menu to Frontera\'s customers again. <NAVI>[Crienne]<INFO>prontera,210,321,0,101,0</INFO></NAVI>, <NAVI>[Lasis]<INFO>prontera,103,308,0,101,0</INFO></NAVI >, <NAVI>[Eltsan]<INFO>prontera,100,183,0,101,0</INFO></NAVI>, <NAVI>[Ant]<INFO>prontera,271,339,0,101,0</INFO></ NAVI>, <NAVI>[Chae]<INFO>prontera,269,55,0,101,0</INFO></NAVI> This is 5 minutes."}
+, Summary = "Chocolatete delivery to each store"}
+, 
+[3326] = {Title = "Delivered to Krien", 
+Description = {"You have delivered the sweets menu to Krienne. If you have finished delivering to all the guests, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Crienne delivery complete"}
+, 
+[3327] = {Title = "Delivered to Rasis", 
+Description = {"You have delivered the sweets menu to Lasis. If you have finished delivering to all the guests, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Lasis delivery complete"}
+, 
+[3328] = {Title = "Delivered to Eltsan", 
+Description = {"You have delivered the sweets menu to Eltsan. If you have finished delivering to all the guests, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Eltsan delivery complete"}
+, 
+[3329] = {Title = "Delivered to Ant", 
+Description = {"You have delivered the sweets menu to Ant. If you have finished delivering to all the guests, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Ant forwarding complete"}
+, 
+[3330] = {Title = "Delivered to Chai", 
+Description = {"You have delivered the sweets menu to Chai. If you have finished delivering to all the guests, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Chai delivery complete"}
+, 
+[3331] = {Title = "Today is also a happy festival sharing-waiting", 
+Description = {"After the waiting period ends, you can repeat the event quest through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Initialization at 04:00"}
+, 
+[3332] = {Title = "Delivery and Collection-Moroq", 
+Description = {"For the Sweets Festival, deliver chocolates to <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI> at the Morocc Sweets Shop."}
+, Summary = "Deliver Chocolatete to Amandio"}
+, 
+[3333] = {Title = "Sweet Drops punishment today too!", 
+Description = {"As long as Sweets Drops exists in the world, the fight against the Sweets Festival Committee will not end. <NAVI>[Chocolatet]<INFO>prontera,163,98,0,101,0</INFO></NAVI> asked you to kill 10 sweets drops."}
+, Summary = "Defeat Sweets Drops"}
+, 
+[3334] = {Title = "Sweet Drops Punishment-waiting today", 
+Description = {"After the waiting period ends, you can repeat the event quest through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Initialization at 04:00"}
 }
 

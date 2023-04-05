@@ -246,6 +246,274 @@ SourceItems = {
 {"S_Small_Armor", 1, 24074}
 }
 , NeedSource_String = "+7 Size Shadow"}
+, 
+Royal_Bow_K_Cube = {ItemID = 100376, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Royal_Bow_K", 1, 18164}
+}
+, NeedSource_String = "Royal Bow"}
+, 
+Narcis_Bow_Cube = {ItemID = 100329, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Narcis_Bow", 1, 18170}
+}
+, NeedSource_String = "Narcissus Bow"}
+, 
+Shadow_Staff_K_Cube = {ItemID = 100378, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadow_Staff_K", 1, 26118}
+}
+, NeedSource_String = "Shadow Staff"}
+, 
+Iron_Nail_K_Cube = {ItemID = 100388, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Iron_Nail_K", 1, 1847}
+}
+, NeedSource_String = "Iron Nail"}
+, 
+Magic_Sword_Cube = {ItemID = 100362, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Magic_Sword", 1, 28744}
+}
+, NeedSource_String = "Magic Sword"}
+, 
+Sword_Of_Bluefire_Cube = {ItemID = 100327, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Sword_Of_Bluefire", 1, 13485}
+}
+, NeedSource_String = "Red Lotus Sword"}
+, 
+Avenger_Cube = {ItemID = 100360, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Avenger", 1, 28130}
+}
+, NeedSource_String = "Avenger"}
+, 
+Iron_Staff_Cube = {ItemID = 100395, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Iron_Staff", 1, 2048}
+}
+, NeedSource_String = "Iron Staff"}
+, 
+Oriental_Sword_Cube = {ItemID = 100274, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Oriental_Sword", 1, 21038}
+}
+, NeedSource_String = "Oriental Sword"}
+, 
+Undine_Spear_K_Cube = {ItemID = 100393, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Undine_Spear_K", 1, 32018}
+}
+, NeedSource_String = "Aquatic Spear"}
+, 
+Demon_Hunt_Bible_Cube = {ItemID = 100397, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Demon_Hunting_Bible_K", 1, 28630}
+}
+, NeedSource_String = "Exoricist\'s Bible"}
+, 
+Shiver_Katar_K_Cube = {ItemID = 100276, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Shiver_Katar_K", 1, 28039}
+}
+, NeedSource_String = "Katar of Shiver"}
+, 
+MeawFoxtail_Cube = {ItemID = 100399, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"MeawFoxtail", 1, 26155}
+}
+, NeedSource_String = "Meowmeow Foxtail"}
+, 
+Dragonic_Slayer_Cube = {ItemID = 100275, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Dragonic_Slayer", 1, 600004}
+}
+, NeedSource_String = "Dragonic Slayer"}
+, 
+Freedom_Stick_Cube = {ItemID = 101482, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Freedom_Stick", 1, 550080}
+}
+, NeedSource_String = "Freedom Stick"}
+, 
+Blessed_Knife_Cube = {ItemID = 101483, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blessed_Knife", 1, 510070}
+}
+, NeedSource_String = "Blessed Knife"}
+, 
+OneSkyOneSun_Cube = {ItemID = 100402, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"OneSkyOneSun", 1, 28631}
+}
+, NeedSource_String = "One Sky One Sun"}
+, 
+SoulWeight_Cube = {ItemID = 100403, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"SoulWeight", 1, 26154}
+}
+, NeedSource_String = "Soul Weight"}
+, 
+Crimson_Rose_Cube = {ItemID = 100404, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Crimson_Rose", 1, 32302}
+}
+, NeedSource_String = "Crimson Rose"}
+, 
+Master_Soul_Rifle_Cube = {ItemID = 100405, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Master_Soul_Rifle", 1, 28255}
+}
+, NeedSource_String = "Master Soul Rifle"}
+, 
+Golden_L_Launcher_Cube = {ItemID = 100406, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Golden_L_Launcher", 1, 28257}
+}
+, NeedSource_String = "Golden Rod Launcher"}
+, 
+The_Black_Gatling_Cube = {ItemID = 100407, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"The_Black_Gatling", 1, 28258}
+}
+, NeedSource_String = "Avengers Gattling Gun"}
+, 
+Demon_S_Shot_Cube = {ItemID = 100408, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Demon_S_Shot", 1, 28256}
+}
+, NeedSource_String = "Demon Slayer Shot Gun"}
+, 
+Fog_Dew_Sword_Cube = {ItemID = 100400, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Fog_Dew_Sword", 1, 28764}
+}
+, NeedSource_String = "Fog Dew Sword"}
+, 
+Humma_Clear_Cube = {ItemID = 100401, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Humma_Clear", 1, 13345}
+}
+, NeedSource_String = "Huuma Shuriken"}
+, 
+Ray_Knuckle_Cube = {ItemID = 100390, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Ray_Knuckle", 1, 560002}
+}
+, NeedSource_String = "Ray Knuckle"}
+, 
+Blue_Crystal_Staff_Cube = {ItemID = 100396, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blue_Crystal_Staff", 1, 640004}
+}
+, NeedSource_String = "Blue Crystal Staff"}
+, 
+Saint_Hall_Cube = {ItemID = 100398, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Saint_Hall", 1, 590003}
+}
+, NeedSource_String = "Saint Mace"}
+, 
+Scalet_Dragon_L_Cube = {ItemID = 100377, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Scalet_Dragon_L_Bow", 1, 700003}
+}
+, NeedSource_String = "Scarlet Dragon Leather Bow"}
+, 
+Freezing_Rod_Cube = {ItemID = 100379, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Freezing_Rod", 1, 550007}
+}
+, NeedSource_String = "Chilling Cane"}
+, 
+Meteor_Striker_Cube = {ItemID = 100361, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Meteor_Striker", 1, 590002}
+}
+, NeedSource_String = "Meteor Striker"}
+, 
+Fatalist_Cube = {ItemID = 100363, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Fatalist", 1, 510006}
+}
+, NeedSource_String = "Fatalist"}
+, 
+Slate_Sword_Cube = {ItemID = 100328, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Slate_Sword", 1, 500004}
+}
+, NeedSource_String = "Slate Sword"}
+, 
+Trumpet_Shell_K_Cube = {ItemID = 100330, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Trumpet_Shell_K", 1, 570002}
+}
+, NeedSource_String = "Trumpet Shell"}
+, 
+Barb_Wire_K_Cube = {ItemID = 100331, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Barb_Wire_K", 1, 580002}
+}
+, NeedSource_String = "Barbed Wire Whip"}
+, 
+Blade_Katar_Cube = {ItemID = 100277, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blade_Katar", 1, 610003}
+}
+, NeedSource_String = "Blade Katar"}
+, 
+Light_Blade_Cube = {ItemID = 100394, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Light_Blade", 1, 500003}
+}
+, NeedSource_String = "Light Blade"}
+, 
+RaceShadow_Mix = {ItemID = 23281, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Homers_Shield", 1, 24056}
+, 
+{"S_Cadi_Shield", 1, 24061}
+, 
+{"S_Requiem_Shield", 1, 24060}
+, 
+{"S_Flameguard_Shield", 1, 24059}
+, 
+{"S_Satanic_Shield", 1, 24058}
+, 
+{"S_Dragoon_Shield", 1, 24057}
+, 
+{"S_Gargantua_Shield", 1, 24055}
+, 
+{"S_Brutal_Shield", 1, 24054}
+, 
+{"S_Cranial_Shield", 1, 24052}
+, 
+{"S_Divine_Shoes", 1, 24070}
+, 
+{"S_Beholder_Shoes", 1, 24069}
+, 
+{"S_Seraphim_Shoes", 1, 24068}
+, 
+{"S_Fisher_Shoes", 1, 24067}
+, 
+{"S_Insecticide_Shoes", 1, 24066}
+, 
+{"S_Clamorous_Shoes", 1, 24065}
+, 
+{"S_Chemical_Shoes", 1, 24064}
+, 
+{"S_Bloody_Shoes", 1, 24062}
+, 
+{"S_Dragoon_Shoes", 1, 24071}
+}
+, NeedSource_String = "+7 Race Shadow"}
+, 
+Remodel_Hero_Boots = {ItemID = 100273, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Ancient_Hero_Boots", 1, 22171}
+}
+, NeedSource_String = "Ancient Heroes boots"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

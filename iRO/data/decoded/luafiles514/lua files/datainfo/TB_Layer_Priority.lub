@@ -64,6 +64,28 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin] = {Default = 153, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Inner_Color_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Dreaming_Rose_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Alpha_Long_Pony] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Flower_L_Knitting] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = {Default = 304, isIgnoreRiding = true}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

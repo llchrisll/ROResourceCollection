@@ -241,6 +241,79 @@ HOTKEY_3 = {
 , 
 [19] = {EXE = MsgStrID.MSI_HK_FLAG_10, KEY1 = 48, KEY2 = 17}
 }
+HOTKEY_4 = {
+[0] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_1}
+, 
+[1] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_2}
+, 
+[2] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_3}
+, 
+[3] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_4}
+, 
+[4] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_5}
+, 
+[5] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_6}
+, 
+[6] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_7}
+, 
+[7] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_8}
+, 
+[8] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_1_9}
+, 
+[9] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_1}
+, 
+[10] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_2}
+, 
+[11] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_3}
+, 
+[12] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_4}
+, 
+[13] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_5}
+, 
+[14] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_6}
+, 
+[15] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_7}
+, 
+[16] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_8}
+, 
+[17] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_2_9}
+, 
+[18] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_1}
+, 
+[19] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_2}
+, 
+[20] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_3}
+, 
+[21] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_4}
+, 
+[22] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_5}
+, 
+[23] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_6}
+, 
+[24] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_7}
+, 
+[25] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_8}
+, 
+[26] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_3_9}
+, 
+[27] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_1}
+, 
+[28] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_2}
+, 
+[29] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_3}
+, 
+[30] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_4}
+, 
+[31] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_5}
+, 
+[32] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_6}
+, 
+[33] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_7}
+, 
+[34] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_8}
+, 
+[35] = {EXE = MsgStrID.MSI_HK_SKILLBAR2_4_9}
+}
 BEHAVIOR_TO_WINDOWID = {[0] = 0, [10] = 1, [37] = 2, [134] = 3, [40] = 7, [140] = 8, [8] = 9, [59] = 10, [87] = 11, [86] = 14, [112] = 15, [36] = 17, [137] = 22, [88] = 23, [113] = 24, [125] = 25, [157] = 30, [191] = 36, [184] = 37, [257] = 44, [69] = 5, [198] = 38, [191] = 36, [169] = 34, [203] = 42, [251] = 46, [11] = 47, [270] = 49, [263] = 51, [282] = 53, [315] = 54, [324] = 57}
 GetKeyDes = function(key1, key2)
   -- function num : 0_0
@@ -306,13 +379,24 @@ GetOriginalHotKeyInfo = function(tabNum, idx)
   return GetHotKeyInfo((string.format)("HOTKEY_%d", tabNum), idx)
 end
 
-GetUserHotKeyInfo = function(tabNum, idx)
+GetOriginalHotKeyInfo_OldVer = function(tabNum, idx)
   -- function num : 0_4
+  local Key1, Key2, KeyDes, EXE = GetHotKeyInfo((string.format)("HOTKEY_%d", tabNum), idx)
+  for k,v in pairs(HOTKEY_OLD) do
+    if EXE == v.EXE then
+      return toInt(v.KEY1), toInt(v.KEY2), toStr(GetKeyDes(v.KEY1, v.KEY2)), toStr(v.EXE)
+    end
+  end
+  return Key1, Key2, KeyDes, EXE
+end
+
+GetUserHotKeyInfo = function(tabNum, idx)
+  -- function num : 0_5
   return GetHotKeyInfo((string.format)("USERKEY_%d", tabNum), idx)
 end
 
 GetOriginalHotKeyListSize = function(tabNum)
-  -- function num : 0_5
+  -- function num : 0_6
   local tableSize = 0
   table = _G[(string.format)("HOTKEY_%d", tabNum)]
   if table ~= nil then
@@ -322,7 +406,7 @@ GetOriginalHotKeyListSize = function(tabNum)
 end
 
 GetHotKey = function(tabNum, idx)
-  -- function num : 0_6
+  -- function num : 0_7
   key1 = GetUserHotKeyInfo(tabNum, idx)
   if exe == "" then
     return GetOriginalHotKeyInfo(tabNum, idx)
@@ -331,7 +415,7 @@ GetHotKey = function(tabNum, idx)
 end
 
 GetBehaviorOfHotKey = function(inKey1, inKey2)
-  -- function num : 0_7
+  -- function num : 0_8
   size = 0
   tab = 1
   tableLen = GetOriginalHotKeyListSize(tab)
@@ -355,8 +439,44 @@ GetBehaviorOfHotKey = function(inKey1, inKey2)
   return -1
 end
 
+GetBehaviorOfHotKey2 = function(in_SkillBar, inKey1, inKey2)
+  -- function num : 0_9
+  size = 0
+  tab = 1
+  tableLen = GetOriginalHotKeyListSize(tab)
+  if in_SkillBar == 1 then
+    tab = 2
+    tableLen = GetOriginalHotKeyListSize(tab)
+  end
+  while tableLen ~= 0 do
+    idx = 0
+    key1 = GetHotKey(tab, idx)
+    while exe ~= "" do
+      if exe == MsgStrID.MSI_HK_CHATMODE_ONOFF and key1 == inKey1 then
+        return idx + 100
+      end
+      if key1 == inKey1 and key2 == inKey2 then
+        if tab == 1 or tab == 4 then
+          return idx
+        else
+          return idx + (tab - 1) * 100
+        end
+      end
+      idx = idx + 1
+      key1 = GetHotKey(tab, idx)
+    end
+    size = size + tableLen
+    tab = tab + 1
+    if in_SkillBar == 0 and tab == 4 then
+      return -1
+    end
+    tableLen = GetOriginalHotKeyListSize(tab)
+  end
+  return -1
+end
+
 ChangeUserHotKey = function(tabNum, idx, exe, key1, key2)
-  -- function num : 0_8
+  -- function num : 0_10
   TableName = (string.format)("USERKEY_%d", tabNum)
   UserKeyTable = _G[TableName]
   originalKey1 = GetOriginalHotKeyInfo(tabNum, idx)
@@ -394,7 +514,7 @@ ChangeUserHotKey = function(tabNum, idx, exe, key1, key2)
 end
 
 GetIndexOfTheUserHotKey = function(inKey1, inKey2)
-  -- function num : 0_9
+  -- function num : 0_11
   tab = 1
   tableLen = GetOriginalHotKeyListSize(tab)
   while tableLen ~= 0 do
@@ -414,7 +534,7 @@ GetIndexOfTheUserHotKey = function(inKey1, inKey2)
 end
 
 ResetTheHotKey = function(tabNum, idx, inKey1, inKey2)
-  -- function num : 0_10
+  -- function num : 0_12
   tableLen = GetOriginalHotKeyListSize(tabNum)
   idx = idx - tableLen
   tabNum = tabNum + 1
@@ -435,7 +555,7 @@ ResetTheHotKey = function(tabNum, idx, inKey1, inKey2)
 end
 
 SaveUserHotKeys = function(saveFileName)
-  -- function num : 0_11
+  -- function num : 0_13
   saveFile = (io.open)(saveFileName, "w")
   if saveFile ~= nil then
     tabNum = 1
@@ -461,6 +581,74 @@ SaveUserHotKeys = function(saveFileName)
           key1 = GetUserHotKeyInfo(tabNum, idx)
         end
         saveFile:write("}\n\n")
+      end
+      tabNum = tabNum + 1
+    end
+  end
+  ;
+  (io.close)(saveFile)
+end
+
+SaveUserHotKeys2 = function(saveFileName)
+  -- function num : 0_14
+  saveFile = (io.open)(saveFileName, "w")
+  if saveFile ~= nil then
+    tabNum = 1
+    while tabNum <= 4 do
+      userTable = _G[(string.format)("USERKEY_%d", tabNum)]
+      if userTable ~= nil then
+        saveFile:write((string.format)("USERKEY_%d = {\n", tabNum))
+        idx = 0
+        key1 = GetUserHotKeyInfo(tabNum, idx)
+        tableLen = GetOriginalHotKeyListSize(tabNum)
+        while idx < tableLen do
+          if behaviorDes ~= "" then
+            saveFile:write((string.format)("\t[%d] = { EXE = \"%s\"", idx, behaviorDes))
+            if key1 ~= 0 then
+              saveFile:write((string.format)(", KEY1 = %d", key1))
+            end
+            if key2 ~= 0 then
+              saveFile:write((string.format)(", KEY2 = %d", key2))
+            end
+            saveFile:write(" },\n")
+          end
+          idx = idx + 1
+          key1 = GetUserHotKeyInfo(tabNum, idx)
+        end
+        saveFile:write("}\n\n")
+      end
+      tabNum = tabNum + 1
+    end
+  end
+  ;
+  (io.close)(saveFile)
+end
+
+ClearUserHotKeys = function(saveFileName)
+  -- function num : 0_15
+  saveFile = (io.open)(saveFileName, "w")
+  if saveFile ~= nil then
+    tabNum = 1
+    while tabNum <= 4 do
+      userTable = _G[(string.format)("USERKEY_%d", tabNum)]
+      if userTable ~= nil then
+        tableLen = GetOriginalHotKeyListSize(tabNum)
+        idx = 0
+        while 1 do
+          -- DECOMPILER ERROR at PC42: Confused about usage of register: R1 in 'UnsetPending'
+
+          if idx < tableLen then
+            if userTable[idx] ~= nil then
+              userTable[idx] = nil
+            end
+            idx = idx + 1
+            -- DECOMPILER ERROR at PC46: LeaveBlock: unexpected jumping out IF_THEN_STMT
+
+            -- DECOMPILER ERROR at PC46: LeaveBlock: unexpected jumping out IF_STMT
+
+          end
+        end
+        saveFile:write((string.format)("USERKEY_%d = {\n}\n\n", tabNum))
       end
       tabNum = tabNum + 1
     end
