@@ -324,6 +324,7 @@ pay_arche.rsw#Desa Archer#
 payon.rsw#Kota Payon#
 payon_in01.rsw#Dalam Payon#
 payon_in02.rsw#Dalam Payon#
+payon_in03.rsw#Dalam Payon#
 prontera.rsw#Kota Prontera#
 prt_in.rsw#Dalam Prontera#
 prt_in_1.rsw#Dalam Prontera#
@@ -945,3 +946,69 @@ un_myst.rsw#Under Tunnel#
 1@glast.rsw#Old Glastheim#
 1@air1.rsw#Aircraft#
 1@air2.rsw#Aircraft#
+
+//-- 최종갱신 오후 3:58 2015-02-23 본서버
+
+// ep16.1 영웅을 위한 연회 + 프론테라 리뉴얼
+1@mir.rsw#Ritual Room#
+2@mir.rsw#Ritual Room#
+1@sthb.rsw#Inside Air Fortress#
+1@sthc.rsw#Secret Room Air Fortress#
+1@sthd.rsw#Top Floor Air Fortress#
+
+prt_cas.rsw#Prontera Center Palace#
+prt_cas_q.rsw#Prontera Royal Villa#
+prt_prison.rsw#Prontera Underground Prison#
+prt_lib.rsw#Royal Memory#
+prt_lib_q.rsw#Old Memoir of Royal Family#
+prt_q.rsw#Prontera Invasion#
+prt_pri00.rsw#Prontera Prison#
+
+//-- 최종갱신 오전 10:45 2016-03-08 본서버
+
+// ep16.2
+1@slw.rsw#Kantor Pusat Institut Werner#
+1@swat.rsw#Pangkalan Militer Heart Hunter#
+que_swat.rsw#Pangkalan Militer Heart Hunter#
+slabw01.rsw#Institut Werner#
+rebel_in.rsw#Klana Nemieri#
+
+// 생체던전 신규맵 오전 2013-12-18
+lhz_dun_n.rsw#Tomb of the dead#
+
+// 일루전 게펜 (뱀파이어) - Illussion Vampire
+gef_d01_i.rsw#Illussion Vampire#
+
+// 일루전 테디베어 나사리안 제국 - Illussion Teddy Bear
+ein_d02_i.rsw#Illussion Teddy Bear#
+
+// 일루전 테디베어 나사리안 제국 - Illussion Luanda
+com_d02_i.rsw#Illussion Luanda#
+
+// Illussion Labyrinth
+prt_mz03_i.rsw#Illussion Labyrinth#
+
+//2022 3Q 185lv 만렙확장: 신규 던전
+// 레벨확장 컨텐츠
+mag_dun03.rsw#Nogg Road 3rd Floor#
+gl_cas01_.rsw#Glast Heim Abyss 1st Floor#
+
+//2022 3Q EP17.1
+// 에피소드 17.1 태동, 일루시온 
+1@cor.rsw#Cor Memorial#
+1@os_a.rsw#OS Occupation War#
+1@os_b.rsw#Blocked OS#
+1@rgsr.rsw#Regenschirm#
+rgsr_in.rsw#Regenschirm Laboratory#
+pub_cat.rsw#Cat on a Bullet#
+sp_cor.rsw#Cor Special Security Area#
+sp_os.rsw#Os Special Security Area#
+sp_rudus.rsw#Lab Waste Disposal Plant Rudus 1#
+sp_rudus2.rsw#Lab Waste Disposal Plant Rudus 2#
+sp_rudus3.rsw#Lab Waste Disposal Plant Rudus 3#
+
+//Illusion of Twins
+ant_d02_i.rsw#Illusion of Twin#
+
+//Infinity Space
+1@infi.rsw#Infinity Space#

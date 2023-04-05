@@ -628,7 +628,7 @@
 4556#Power Ward#
 4557#of Spell Power#
 
-//ÏóêÌîºÏÜåÎìú14.3 Î™®Î°úÌÅ¨Ïπ¥Îìú
+//?êÌîº?åÎìú14.3 Î™®Î°ú?¨Ïπ¥??
 27325#Muspelheim#
 27326#Destructive#
 27327#Grim Reaper Ankou#
@@ -675,3 +675,293 @@
 4699#Dual-Cannon#
 27012#Active Protection#
 27013#Vulcan#
+
+
+
+// 2015??1??16???êÌîº?åÎìú 16.1
+4446#Sharpen#
+4633#Queenbird#
+4634#Fatal#
+4635#Solid#
+4636#Corps#
+4637#Of Drain#
+4638#Plaid#
+4639#Force#
+4640#Intelligence#
+4641#Of Soul Gathering#
+
+31024#Volcanic#
+31025#Deadly#
+31026#Auto Magic#
+
+//Episode 16.2 Cards
+27147#Intensive#
+27148#Default#
+27149#Sniping#
+27150#of High Level#
+27151#of Freezing#
+27152#Prompt#
+
+// 2015??12???ÑÏÇ¨?êÏùò Î¨¥Îç§ Ïπ¥Îìú Ï∂îÍ?
+4671#of Sorcerer#
+4672#of Sura#
+4673#of Maestro#
+4674#of Guillotine Cross#
+4675#of Arch Bishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of Rune Knight#
+4680#of Royal Guard#
+4681#of Geneticist#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Rampage#
+4694#Feint#
+4695#Rainstorm#
+4696#Reverberation#
+
+// Airship Raid Card Additional
+27181#Bane Band#
+
+//Sealed Card Update
+27212#Half Reflect#
+27222#Half Fear#
+27225#Half Wise Man's#
+
+//GMT Card Update
+27249#Archi#
+27250#Anemos#
+27251#Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Hase#
+27257#Akuma#
+27258#Ifodes#
+27259#Licheniyes#
+27260#Odorico#
+27261#Juu#
+27262#Dwigh#
+27263#Kanavian#
+
+//Card Update 24112021
+27264#Evil Shadow#
+27265#Evil Fanatic#
+27182#Hammer Shooter#
+27184#Salvation#
+
+
+// Card Update 29122021
+31016#of Sorrow#
+31017#of Hate#
+31018#Frustration#
+31019#Chilly#
+31020#of Anger#
+31021#Madness#
+31022#Desperation#
+31023#Maniac#
+27106#Musician's#
+27107#Dancing#
+27108#Singing#
+27109#Jitterbug#
+27163#Abranchia#
+27164#Coya#
+27165#Avian#
+27166#Frio#
+27167#Glacial#
+27168#Padre#
+
+
+// Illusion Moonlight 21032022
+27081#Moonlight#
+27082#Fox Tail#
+27083#Growth#
+27084#Macabre#
+27085#Delicate#
+27086#Sagittarius#
+27087#Truth#
+27088#Instigating#
+
+// Moscovia & Brasilis Card Update - 20220330
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal Wave#
+27123#Insect collective#
+27124#Hunting#
+27125#Aqua Benedict#
+27126#Python#
+27157#of Aqua Wood#
+27158#of Windness#
+27159#Demon Hunter#
+27160#Dodge#
+27161#Land Blast#
+27162#Soul Steel#
+
+// 2016≥‚ 12ø˘ ¿œ∑Á¿¸ ø¿∫Í πÆ∂Û¿Ã∆Æ - Illussion Vampire
+27081#Moonlight#
+27082#Fox Tail#
+27083#Growth#
+27084#Macabre#
+27085#Delicate#
+27086#Sagittarius#
+27087#Truth#
+27088#Instigating#
+
+// 2017≥‚ 1ø˘ ¿œ∑Á¿¸ ø¿∫Í πÏ∆ƒ¿ÃæÓ - Illussion Vampire
+27101#Sorcery#
+27102#Fire Immune#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
+
+//Adding Sealed_M_Flower_Card & Sealed_TurtleG_Card
+4494#Half Explosive#
+4490#Half Hasty#
+
+//Update Card - 20220608
+27183#Onslaught#
+
+// 2017≥‚ 2ø˘ ¿œ∑Á¿¸ ø¿∫Í «¡∑Œ¡ - Illssion Frozen
+27110#Fast-footed#
+27111#Crisp#
+27112#Hardy#
+27113#Frozen#
+
+//2017≥‚ 4ø˘ ¿œ∑Á¿¸ ø¿∫Í ≈Õ∆≤æ∆¿œ∑£µÂ - Illusion Turtle
+27114#Indomitable#
+27115#Sagacious#
+27116#Dual Critical#
+27117#Lethal#
+27118#Of Pierce#
+27119#Of Turtle Shell#
+
+//Flame Basin Card Series - 20220727
+27026#Blazing#
+27027#Flaming#
+27028#Searing#
+27029#Flame Eater#
+27030#Firebug#
+
+//ROFL 3rd Aniv Card
+300291#3rd ROFL#
+
+//¿œ∑Á¿¸ ø¿∫Í ≈◊µ∫£æÓ - Illussion Teddy Bear
+27286#Lumping#
+27287#of Luminant#
+27288#of Worker#
+27289#Proper#
+27290#of Obsidian#
+
+//¿œ∑Á¿¸ ø¿∫Í ∑Áæ»¥Ÿ - Illussion Luanda
+27291#Full Charging#
+27292#of Stalactic#
+27293#Circular#
+27294#of Big Stone#
+27295#of Stone Shooter#
+27296#of Wootan Shooter#
+27297#Wootan Fist#
+27298#of Big Shield#
+
+//¿œ∑Á¿¸ø¿∫Í∂Û∫Ò∏∞Ω∫ ƒ´µÂ - Illussion Labyrinth
+27338#of Double Power#
+27339#Ghost#
+27340#of Angry Killer#
+27334#of Chaotic#
+27341#of Water Shell#
+27335#of Blackguard#
+27342#Metal Ground#
+27336#of Viper#
+27343#Holy Spell#
+27337#Hunting Breeze#
+
+//Illusion Underwater
+300140#Enhance Thunder#
+300141#Mermaid's#
+300142#Undersea#
+300143#of Anti Insect#
+300144#Stabbing#
+300145#of Abyss Witch#
+300146#Fatal Fish#
+300147#Seabed#
+300148#Deep Sea#
+300149#of Fish Killer#
+300150#of Sword Expert#
+300151#Marine Nightmare#
+
+//Update 20221221
+4541#of Half Tempest#
+
+//EPS 17.1
+27346#Orb of Howling#
+27347#Crack#
+27348#Nowhere#
+27349#Orb of Flame Barrier#
+27350#Orb of Dragon Spirit#
+27351#Orb of Dragon Heart#
+27352#Slumber#
+27353#Orb of Demonic Barrier#
+27354#Orb of Deprave#
+27355#Deapraved#
+27356#Orb of Frozen Guard#
+27357#Orb of Dirty Glove#
+27358#Breaking#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Heavy Blade#
+27362#Orb of Queen Spider#
+27363#Doomed#
+27304#Hell's#
+27305#Hell Inferno#
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sacred#
+27309#Of Holy Power#
+27310#Of Immortal#
+27311#Heavy Knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27318#Of Tigerpower#
+27319#Poison Break#
+27320#Inhance Fire#
+
+//Additional Patch - Jan 2023
+4577#Psychic#
+
+//Illusion of Twins
+300230#Yellow Spawn#
+300231#Royal Spawn#
+300232#Spawn#
+300233#Red Spawn#
+300234#Green Spawn#
+300235#Fray#
+300236#Stubborn#
+300237#Pierce#
+300238#Double Heal#
+300239#Distortion#
+
+//Infinity Space
+4642#Side Staff#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Immortal#
+4648#Provocation#
+4649#Deadly Blow#
+4650#Magic Stun#
+4651#Monarch#

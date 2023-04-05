@@ -455,7 +455,7 @@ Kamu dilarang login sampai %s.#
 's Tanah#
 202.43.167.66#
 6900#
-http://ragnarok.gravindo.id#
+https://ro.gnjoy.id/#
 Bunuh %s#
 Sangat Kuat#
 Sangat sangat kuat#
@@ -510,8 +510,8 @@ Meninggalkan Guild#
 Keluar#
 Rank#
 Gelar#
-undang#
-hukum#
+Hak Undang#
+Hak Hukum#
 % Exp#
 Judul#
 Isi#
@@ -529,7 +529,7 @@ Nama Barang#
 https://ragnarok.gravindo.id#
 Kapasitas IP ini penuh.  Apa kamu ingin membayar jalur pribadi?#
 Kamu sudah melewati batas waktu yang kamu bayarkan. Permainan akan dimatikan secara otomatis.#
-Nama terlalu panjang. Silakkan masukkan nama 23 kata panjangnya#
+Nama terlalu panjang. Silahkan masukkan nama 23 kata panjangnya#
 #
 Kamu melakukan pembayaran dengan jalur pribadi.#
 Kamu membayar jalur pribadi. Waktu tersisa xx hrs xx mins xx secs.#
@@ -746,7 +746,7 @@ Proses penginstallan gagal#
 Virtual keyboard akan dilewatkan#
 Beberapa file untuk virtual keyboard tidak ada atau error.  \n\n(npkeyc.vxd, npkeyc.sys, npkeycs.sys)#
 Keyboard USB terdeteksi. \n\nApakah kamu ingin menginstal program USB keyboard ?    \n\n(sistem akan direstart setelah penginstalan)#
-http://ragnarok.gravindo.id#
+https://ro.gnjoy.id/#
 Program keamanan tidak terinstall dengan baik.#
 Program keamanan tidak terinstall dengan baik. Program Ragnarok Online tidak dapat dinyalakan#
 Program keamanan sudah terinstall tetapi belum dibersihkan. Program Ragnarok Online tidak dapat dinyalakan#
@@ -2052,16 +2052,16 @@ Equip#
 Fav#
 Lock Item#
 Notifikasi untuk mencari bagian grup#
-Mengorganisasikan sebuah grup#
+Formasi Grup#
 Keluar grup#
 Undangan grup#
 Registrasi nama grup#
-Nama karakter yang ingin diundang#
-Undangan party telah dikirim ke.#
-Telah menolak undangan grup.#
-Telah menerima undangan grup.#
+Tulis Nama karakter#
+-Undangan party telah terkirim.#
+-Telah menolak undangan grup.#
+-Telah menerima undangan grup.#
 Ini sedang mengumpulkan grup.#
-Ini sama dengan konsidi pencarian sebelumnya.#
+Ini sama dengan kondisi pencarian sebelumnya.#
 Kemungkinan untuk digunakan setelah meninggalkan guild.#
 Kemungkinan untuk digunakan setelah meninggalkan grup.#
 Orang yang anda panggil sedang berada dimap yang tidak bisa dipanggil.#
@@ -2340,7 +2340,7 @@ Apakah Anda ingin membeli?#
 1#
 1#
 1#
-1#
+/monsterhp : Tampilkan HP monster yang kamu serang. On/Off#
 1#
 1#
 1#
@@ -2371,7 +2371,7 @@ https://gfb.gameflier.com/Billing/ingame/index_new.asp?#
 1#
 1#
 1#
-1#
+Item yang akan didapatkan dari membuka item ini adalah item Character Bound (tidak bisa diletakkan di storage). Periksa kembali apakah ini karakter yang benar. Apakah kamu yakin karakter sudah benar?#
 1#
 1#
 1#
@@ -2417,7 +2417,7 @@ $$all         : Menampilkan Semua Daftar (Kamu dapat membagi jenis Outputnya pad
 $$lv30       : Menampilkan Level Monster (Kamu dapat mengubah angkanya)#
 $$lv20~30  : Menampilkan Level Monster (Kamu dapat mengubah angkanya)#
 1 vs 1#
-Costume#
+Special Equipment#
 Informasi Job Karakter Error di Slot %d. Silahkan hubungi GameMaster. ErrorCode(%d)#
 (%s) %d / %d#
 %s-%s(%d/%d)#
@@ -2494,12 +2494,12 @@ Senjata tidak sesuai dengan peluru yang kamu gunakan.#
 Peluru tidak sesuai dengan senjata yang kamu gunakan.#
 barang tidak terdaftar untuk dijual. Silahkan daftarkan barang yang ingin kamu jual#
 ITEM#
-Kamu tidak bisa menggunakan Gudang Guild.#
+Kamu tidak bisa menggunakan Guild Warehouse.#
 Kamu tidak tergabung dengan guild. Silahkan coba lagi setelah bergabung dalam guild.#
 Sedang digunakan anggota guild lain. Silahkan coba lagi nanti.#
 Hak penyimpanan#
-Gudang Guild#
-Kamu tidak mempunyai hak untuk menggunakan Gudang Guild.#
+Guild Warehouse#
+Kamu tidak mempunyai hak untuk menggunakan Guild Warehouse.#
 Jendela pendaftaran penjualan barang terbatas#
 Nama Item DB#
 No item DB.#
@@ -2540,14 +2540,14 @@ item#
 jumlah#
 Nama#
 Waktu#
-Ambil#
-log tidak ada.#
+Masuk/Keluar#
+Tidak ada catatan.#
 Semua#
 Masukkan#
 Ambil#
-Daftar gudang Guild#
-Daftar hanya memperlihatkan 100 barang terbaru.#
-Gudang Guild tutup setelah 2 menit penggunaan.#
+History Guild Warehouse#
+History hanya memperlihatkan 100 catatan terakhir.#
+Guild Warehouse tutup setelah 2 menit penggunaan.#
 ID salah. Silahkan coba lagi.#
 %s [%doption] : %d #
 Koin diperlukan.#
@@ -2562,13 +2562,13 @@ Daftar barang beli#
 Harus memakai tipe Grenade Launcher.#
 efek skill [Hit Barrel],[Madness Canceler],[Platinum Altar] tidak bisa distack.#
 Skill tidak bisa digunakan diarea ini.#
-Saat kamu menggunakan gudang guild, semua barang di gudang akan hilang.#
+Saat kamu menggunakan Guild Warehouse, semua barang di Warehouse akan hilang.#
 http://ragnarok.gravindo.id/#
 Masukkan password untuk log in#
 Pet evolution#
-Evolution - %s#
+Evolution#
 Kamu membutuhkan bahan berikut untuk evolve.#
-Apakah kamu ingin evolve?#
+Apakah kamu ingin melakukan evolve?#
 Unknown error#
 Kamu tidak memanggil pet.#
 Pet egg tidak cocok dengan yang diminta.#
@@ -2645,11 +2645,11 @@ Silakan periksa biaya#
 Periksa nama pemain#
 Terjadwal untuk dihapus#
 Achievement Quest#
-Achievement Total Score#
+Achievement#
 Achievement Rank#
 Sisa skor untuk peringkat berikutnya: [%5d]#
 Progress#
-Achievement didapat# 
+Achievement Terbaru# 
 Daftar barang Xianbei#
 Xianbei: %d / %d #
 Membutuhkan lebih banyak Xianbei#
@@ -2676,10 +2676,10 @@ Memorial Dungeon#
 Midgard#
 New World#
 Lain-lain.#
-Achievement terbaik#
-Quest#
+Pencapaian#
+Achievement#
 Tidak bisa ditambah lagi#
-Kamu mendapatkan < %s >.#
+Kamu berhasil menyelesaikan < %s >.#
 Hanya pemain OTP yang diizinkan#
 Jika kamu menekan tombol ini, kamu akan mendapat hadiah dan roulette dimulai.#
 Jika kamu menekan tombol ini, roulette akan mulai dari garis ditunjukkan oleh panah berkedip.#
@@ -2810,13 +2810,13 @@ Kirim mail#
 E X P: %.1f%% (Base 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DROP : %.1f%% (Base 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DEATH: %.1f%% (Base 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-Kamu tidak bisa tag as a name.#
+Kamu tidak bisa menggunakan ini dengan nama.#
 Styling shop#
 Tidak ada kupon. Beli barang di Item Mall#
 Silahkan buka box kupon di inventory.#
 Apakah kamu ingin menghapusnya?#
 Tidak ada slot. Silahkan hapus isi Bookmark.#
-Apakah kamu ingin beli style ini?\n(¡Ø Kamu tidak bisa refund barang.)#
+Apakah kamu ingin beli style ini?\n(Kamu tidak bisa refund barang.)#
 Style tersimpan.#
 Tidak mempunyai cukup Zeny. Terdapat cukup Zeny di Zeny stash.#
 memindahkan...#
@@ -2831,10 +2831,10 @@ Kamu tidak bisa ketitik yang dipilih private airship.#
 Kamu tidak bisa menggunakan private airship di area ini.#
 Aksesoris#
 Kostum Kedua#
-Wardrobe#
+Bookmark#
 Hairstyle tidak bisa diwarnai.#
 Tekan panah untuk memilih style yang kamu inginkan.#
-Lihatlah style baru.\n(¡Ø Aksesoris yang dibeli akan dikirim via RODEX.)#
+Lihat style baru.\n(Aksesoris yang dibeli akan dikirim via RODEX.)#
 Basic style#
 Kamu bisa menaikkan level skill dari Lv. %d.#
 Kamu tidak bisa menggunakan karakter special untuk nama.#
@@ -2922,7 +2922,7 @@ Cannot proceed due to weight has reached to 80%.#
 Unsold item has sent to RODEX.#
 Preview#
 Entrust guild master#
-Do you really want to entrust GuildMaster to %s? To proceed, your guild position will be exchanged with %s.#
+Apa kamu benar-benar ingin menjadikan %s sebagai Guild Master? Setelah proses, statusmu akan berubah dengan %s.#
 Cancel#
 Do you want to close the shop??#
 %02dDay(s) %02dHour(s) %02dMinutes(s) %02dSecond(s)#
@@ -2947,8 +2947,8 @@ Returned quantity:#
 Returned date:#
 Trading amount has sent to RODEX.#
 Not available name.#
-Item has arrived.#
-Thanks for purchasing.#
+Barang telah sampai.#
+Terima kasih sudah membeli.#
 Tidak dapat dijual di NPC.#
 Kunci item untuk dijual#
 Not able to find a place to summon in near.#
@@ -2961,8 +2961,8 @@ Dear whom it may concern. \r\n\r\n Today, \%s\"" and \""%s\"" 's son/daughter \"
 Equip#
 No gambar#
 [%s] telah menolak Panggilan Pesan.#
-Kamu tidak bisa entrust kepada GuildMaster karena WoE. Silahkan coba lagi nanti.#
-Kamu tidak bisa entrust kepada GuildMaster. Belum 24 jam sejak kamu di entrust.#
+Kamu tidak bisa memindahkan status GuildMaster karena sedang WoE. Silahkan coba lagi nanti.#
+Kamu tidak bisa memindahkan status GuildMaster. Belum 24 jam sejak kamu di delegasikan.#
 Sebagai anak, transcendent dan stats akan dibatasi. HP dan SP juga lebih kecil. Apakah kamu setuju?#
 Tempa#
 Menggunakan Blacksmith's Blessing.#
@@ -3099,13 +3099,13 @@ Zeny Lottery Cumulative Purchase Reward#
 Cumulative %d kali Reward: %s#
 Zeny Lottery Refund#
 Jumlah Pengembalian Uang: %d Zeny\r\nAlasan Pengembalian: Gagal Menarik Lottery Pada Server#
-Tambah Mini Party Chat#
-Hapus Mini Party Chat#
+Tambah Mini Party UI#
+Hapus Mini Party UI#
 Undian Lottery Berakhir! Lihat Pemenang!#
 Bulan %d Tanggal %d#
 Sampai Tingkat Berikut#
 Semua#
-Incomplete#
+Belum Selesai#
 (Accomplished!)#
 (Not Accomplished)#
 Ganti Equipment#
@@ -3219,22 +3219,22 @@ Lokasi yang di-klik akan dibagian di Chat Box.#
 Sharing Mode -> Digunakan ketika kamu ingin mengubah menjadi moda pencarian.#
 no msg#
 EXP sebesar '%lld'#
-no msg#
-no msg#
-no msg#
-no msg#
+^b- Informasi Stall Fee^/b\nBeberapa persen dari nilai jual akan dikenakan komisi.\n\n	^b> Rate Komisi^/b\nBiaya Persentase untuk setiap satuan adalah sebagai berikut.\n\n0 z ~ 10,000 z\n = Rate Komisi : ^1567fe0%^000000\n10,001 z ~ 100,000 z\n = Rate Komisi : ^1567fe0%^000000\n100,001 z ~ 1,000,000 z\n = Rate Komisi : ^1567fe0%^000000\n1,000,001 z ~ 10,000,000 z\n	 = Rate Komisi : ^1567fe0%^000000\n10,000,001 z ~ 100,000,000 z\n = Rate Komisi : ^1567fe5%^000000\nLebih dari100,000,001 z\n = Rate Komisi : ^1567fe5%^000000\n#
+Harga Transaksi Aktual#
+Ketika menjual Item, kamu akan menerima Zeny sesuai dengan harga transaksi aktual#
+Ketika membeli Item, kamu akan membayar Zeny sesuai dengan harga transaksi aktual#
 no msg#
 no msg#
 Job EXP sebesar '%lld'#
 no msg#
 no msg#
 no msg#
+Anggota Grup#
 no msg#
 no msg#
 no msg#
 no msg#
-no msg#
-no msg#
+Window Mini Party tertumpuk dan tidak bisa digunakan.#
 no msg#
 no msg#
 no msg#
@@ -3255,7 +3255,7 @@ no msg#
 no msg#
 no msg#
 no msg#
-no msg#
+Tidak ada yang bisa dijadikan Ketua Grup. Apa kamu ingin membubarkan Grup?#
 no msg#
 no msg#
 no msg#
@@ -3271,21 +3271,21 @@ no msg#
 Hancurkan Dungeon#
 Sukses menempa [%s], kamu mendapatkan [+%d %s].#
 Gagal menempa [%s], gagal mengupgrade item [+%d %s].#
+Kamu bisa keluar setelah menunjuk Ketua Grup.#
 no msg#
 no msg#
 no msg#
 no msg#
 no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
+Feeding\ndengan sendiri#
+Tidak memberi makan Homunculus jika window RODEX sedang terbuka#
+Homunculus telah makan. \'%s\' tersisa %d#
+Homunculus Auto feeding On#
+Homunculus Auto feeding Off#
+Homunculus mendapatkan\n10% EXP dari Ownernya sebagai EXP yang didapat#
 Chance : %d%%#
-no msg#
-no msg#
+Target ini bukan target serangan Hommun. \'Alt + Klik kanan\'Silahkan tentukan target serangan hommun dengan cara tersebut#
+Target serangan Homun tidak ada. \'Alt + Klik kanan\'Silahkan tentukan target serangan hommun dengan cara tersebut#
 Daftar Penjualan#
 Daftar Pembelian#
 Baru#
@@ -3382,7 +3382,7 @@ no msg#
 no msg#
 no msg#
 no msg#
-no msg#
+Setuju#
 no msg#
 no msg#
 no msg#
@@ -3431,9 +3431,9 @@ no msg#
 no msg#
 no msg#
 no msg#
-no msg#
-no msg#
-no msg#
+STR dan Kekuatan Serangan telah ditingkatkan.#
+STR, INT, DEX, dan Akurasi telah ditingkatkan.#
+Defense dan HP telah ditingkatkan.#
 no msg#
 no msg#
 no msg#
@@ -3456,6 +3456,13 @@ no msg#
 no msg#
 no msg#
 no msg#
+Kamu harus berada di dalam party untuk menggunakan skill ini#
+no msg#
+no msg#
+no msg#
+no msg#
+Kekuatan Serangan Fisik dan Magic telah ditingkatkan.#
+Kekuatan Serangan Fisik dan Magic telah diturunkan.#
 no msg#
 no msg#
 no msg#
@@ -3474,14 +3481,7 @@ no msg#
 no msg#
 no msg#
 no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
+SP Partner mungkin tidak mencukupi atau status tidak memungkinkan untuk menggunakan skill ini.#
 no msg#
 no msg#
 no msg#
@@ -3538,7 +3538,7 @@ no msg#
 no msg#
 no msg#
 no msg#
-no msg#
+Loading Warehouse#
 no msg#
 Delete#
 Reply#
@@ -3548,26 +3548,26 @@ Notice#
 Normal#
 Reply#
 Search#
+Pet Feeding gagal. Kamu tidak bisa memberikan makan Pet#
+Homunculus Feeding gagal. Kamu tidak bisa memberikan makan Homunculus#
+Uang#
+%s %d Buah#
+Transaksi Gagal#
+Transaksi Berhasil#
+Tidak cukup barang untuk ditukar#
+Stok barang habis#
 no msg#
 no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
-no msg#
+Perbesar jumlah barang bawaan#
+Apa kamu ingin memperbesar kapasitas barang bawaanmu dengan menggunakan item ^0000ff%s^000000? \nKapasitasnya akan diperbesar dari (^0000ff%d^000000) menjadi (^0000ff%d^000000).\n^ff0000*Konsumsi Item dan kapasitas barang bawaan yang telah diperbesar tidak dapat dikembalikan seperti semula.^000000#
+Gagal menambahkan kapasitas maksimal barang bawaan#
+Untuk menambahkan kapasitas maksimal barang bawaan, silahkan menyelesaikan tugas terlebih dahulu#
+Kamu tidak memiliki item yang bisa meningkatkan kapasitas barang bawaanmu#
+Kamu tidak dapat menambah kapasitas barang bawaanmu lagi#
+Berhasil menambah kapasitas maksimal barang bawaan#
+Kamu tidak bisa memiliki barang yang sama sebanyak %dea#
+Kamu tidak bisa membeli barang karena batas berat bawaan#
+Barang hanya bisa dibeli 1 buah per transaksi#
 no msg#
 no msg#
 no msg#
@@ -3601,7 +3601,7 @@ no msg#
 no msg#
 no msg#
 no msg#
-no msg#
+Window tidak bisa ditutup ketika sedang Loading.#
 no msg#
 no msg#
 no msg#
@@ -3663,7 +3663,7 @@ no msg#
 no msg#
 no msg#
 no msg#
-no msg#
+Barang yang sedang dipakai tidak bisa dipakai untuk menukar. Coba lagi setelah melepas barangnya.#
 no msg#
 no msg#
 no msg#
@@ -3681,20 +3681,22 @@ Message#
 Title#
 no msg#
 no msg#
+Batas pembelian tidak bisa melebihi kapasitas barang bawaan.#
 no msg#
 no msg#
 no msg#
 no msg#
-no msg#
-no msg#
-no msg#
+Tidak bisa memakai equipment saat transaksi.#
+Barang yang akan kamu tukarkan#
 Tujuan#
-no msg#
-no msg#
+Kamu dapat memiliki hingga %d barang yang sama.#
+Kamu dapat menukarkan hingga %d barang yang sama sekaligus.#
 Hapus Pilihan#
 Hapus Semua#
 Apa kamu yakin menghapus semua [%s] pesan yang ada di kotak suratmu?#
 Ambil Pilihan#
 Ambil Semua#
 Apa kamu ingin menerima semua attachment dari surat yang telah dipilih?#
-Apa kamu ingin menerima semua attachment[%s] dari seluruh kotak suratmu#
+Total: %d z#
+no msg#
+Kamu tidak bisa membeli item vending saat membuka purchase store#

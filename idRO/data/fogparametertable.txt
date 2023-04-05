@@ -1485,3 +1485,11 @@ lasa_dun01.rsw#
 0.9#
 0xffDFCAA0#
 0.5#
+
+//공중요새 메모리얼
+1@sthd.rsw#
+0.15#
+0.9#
+0xffDFCAA0#
+0.5#
+

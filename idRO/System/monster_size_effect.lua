@@ -4068,7 +4068,7 @@ main = function()
   -- function num : 0_0
   for MonsterID,info in pairs(tbl) do
     result = AddItem(MonsterID, info.MonsterSize, info.MonsterEff)
-    if not result then
+    if not result == true then
       return false, msg
     end
   end

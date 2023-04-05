@@ -2550,7 +2550,7 @@ Description = {"Orang berkata Monsternya tidak muncul pada saat ini. Harus kemba
 , Summary = "Buwaya dalam persembunyian"}
 , 
 [4254] = {Title = "Peri yang sakit perut", 
-Description = {"Bahkan peri bisa sakit perut¡¦ Bantu perinya"}
+Description = {"Bahkan peri bisa sakit perutÂ¡Â¦ Bantu perinya"}
 , Summary = "10 Green Herb"}
 , 
 [4255] = {Title = "Pembalasan dendam!", 
@@ -2842,7 +2842,7 @@ Description = {"Kucing gamer direktur menginginkan untuk mengganti gambarnya yan
 , Summary = "Mari kita bertanya kepada Kucing Direktur siapa yang terakreditasi oleh Kucing gamer direktur."}
 , 
 [5067] = {Title = "Gambar yang menakutkan-(2)", 
-Description = {"Direktur kucing berkata \"Gambar yang menakutkan¡¦ Itu sangat sulit.. Mengapa tidak menyerah.. Itu sangat gampang¡¦mendapatkan komplain... !! Aku dengar ada beberapa tentara melakukan itu~"}
+Description = {"Direktur kucing berkata \"Gambar yang menakutkanÂ¡Â¦ Itu sangat sulit.. Mengapa tidak menyerah.. Itu sangat gampangÂ¡Â¦mendapatkan komplain... !! Aku dengar ada beberapa tentara melakukan itu~"}
 , Summary = "Beritahu Kucing gamer direktur, Bawa kotak untuk mengumpulkan komplain."}
 , 
 [5068] = {Title = "Mengumpulkan Komplain", 
@@ -5326,7 +5326,7 @@ Description = {"On the second floor of Luina guild dungeon, fight off 40 Killer 
 , Summary = "Monsters eliminated from the second floor of guild dungeon"}
 , 
 [7530] = {Title = " Luina Challenge 3", 
-Description = {"Fight off Gioia and Elvira in Hero¡¯s Tear in Corridor of the Abyss in Luina."}
+Description = {"Fight off Gioia and Elvira in HeroÂ¡Â¯s Tear in Corridor of the Abyss in Luina."}
 , Summary = "Battle in Corridor of the Abyss"}
 , 
 [7531] = {Title = " Britoniah Challenge 1", 
@@ -5338,7 +5338,7 @@ Description = {"On the second floor of Britoniah guild dungeon, fight off 20 Aby
 , Summary = "Monsters eliminated from the second floor of guild dungeon"}
 , 
 [7533] = {Title = " Britoniah Challenge 3", 
-Description = {"Fight off Kades and Rudo, the guardians of the dead, in the Dead Man¡¯s Hill in Corridor of the Abyss in Britoniah."}
+Description = {"Fight off Kades and Rudo, the guardians of the dead, in the Dead ManÂ¡Â¯s Hill in Corridor of the Abyss in Britoniah."}
 , Summary = "Battle in Corridor of the Abyss"}
 , 
 [7534] = {Title = " Greenwood Lake Challenge 1", 
@@ -9862,7 +9862,7 @@ Description = {"Aku punya permintaan. Kudengar para seniman di Midgard sangat he
 , Summary = "Bawakan 10 Glass Beads - Laporkan ke Transport Dept. 1 Manager"}
 , 
 [12142] = {Title = "Permintaan Berbahaya", 
-Description = {"Hmm¡¦Aku tidak tahu darimana harus memulai. Perdana Menteri menginginkan boneka untuk anaknya. Bawakan Puppet dari Midgard."}
+Description = {"HmmÂ¡Â¦Aku tidak tahu darimana harus memulai. Perdana Menteri menginginkan boneka untuk anaknya. Bawakan Puppet dari Midgard."}
 , Summary = "Bawakan 15 Puppets - Laporkan ke Transport Dept. 1 Manager"}
 , 
 [12143] = {Title = "Tren yang aneh", 
@@ -10422,7 +10422,7 @@ Description = {"Jika para kucing berhenti bertarung, kamu bisa mendapatkan infor
 , Summary = "Cara Untuk Menenangkan Cat."}
 , 
 [12286] = {Title = "Penukaran Informasi Dengan Sejumlah Makanan Kaleng", 
-Description = {"Dikatakan kalau ^0000991 Dark Debris, masing-masing 2 red/yellow/blue gemstone^000000 dibutuhkan untuk mengaktifkan pecahan celah. Sepertinya Hiel kesulitan untuk mendapatkannya¡¦"}
+Description = {"Dikatakan kalau ^0000991 Dark Debris, masing-masing 2 red/yellow/blue gemstone^000000 dibutuhkan untuk mengaktifkan pecahan celah. Sepertinya Hiel kesulitan untuk mendapatkannyaÂ¡Â¦"}
 , Summary = "Penukaran Informasi Dengan Sejumlah Makanan Kaleng."}
 , 
 [12287] = {Title = "Pengalaman Yang Aneh", 
@@ -10482,7 +10482,7 @@ Description = {"Tunjukkan daun dari beri semangat kepada Etran. Meskipun penolak
 , Summary = "Mengunjungi Kembali Etran."}
 , 
 [12301] = {Title = "2 Teman Tersisa", 
-Description = {"Robert dan Etran akan melaksanakan takdir mereka sampai akhir. Sampai tanah masa lalu (meskipun bagi mereka itu masa kini¡¦) menjadi tanah yang subur di saat ini. Bicaralah kepada Hiel dan Clever yang telah membuat pertemuan ini bisa dilakukan."}
+Description = {"Robert dan Etran akan melaksanakan takdir mereka sampai akhir. Sampai tanah masa lalu (meskipun bagi mereka itu masa kiniÂ¡Â¦) menjadi tanah yang subur di saat ini. Bicaralah kepada Hiel dan Clever yang telah membuat pertemuan ini bisa dilakukan."}
 , Summary = "2 Teman Tersisa."}
 , 
 [12316] = {Title = "Meeting Hugin", 
@@ -11178,7 +11178,7 @@ Description = {"Wuhari sedang mencari cara untuk memulihkan tubuh Wuhuru. Tapi, 
 , Summary = "Bicaralah kepada penduduk dikota."}
 , 
 [14126] = {Title = "Pencarian Ms. Goatie", 
-Description = {"Mr. Masione mengatakan kalau tidak mengetahuinya. Tapi menunjuk Ms. Goatie yang lebih mengerti tentang hal seperti ini¡¦"}
+Description = {"Mr. Masione mengatakan kalau tidak mengetahuinya. Tapi menunjuk Ms. Goatie yang lebih mengerti tentang hal seperti iniÂ¡Â¦"}
 , Summary = "Cari Ms. Goatie."}
 , 
 [14127] = {Title = "Pencarian suami Ms. Goatie", 
@@ -14360,5 +14360,3561 @@ Description = {"Dapat masuk kembali untuk 5 menit setelah memasuki dungeon. Bisa
 [15052] = {Title = "Memorial Dungeon: Airship Assault", 
 Description = {"Dungeon sudah diselesaikan dalam 5 menit setelah masuk jadi tidak dapat masuk kembali selama 23 Jam."}
 , Summary = "Tidak dapat masuk kembali dalam 23 Jam"}
+, 
+[292231] = {Title = "Worm Tail Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Worm Tail sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Worm Tail"}
+, 
+[292232] = {Title = "Hydra Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Hydra sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Hydra"}
+, 
+[292233] = {Title = "Pirate Skeleton Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Pirate Skeleton sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Pirate Skeleton"}
+, 
+[292234] = {Title = "Permeter Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Permeter sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Permeter"}
+, 
+[292235] = {Title = "Solider Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Solider sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Solider"}
+, 
+[292236] = {Title = "Freezer Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Freezer sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Freezer"}
+, 
+[292237] = {Title = "Heater Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Heater sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Heater"}
+, 
+[292238] = {Title = "Golem Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Golem sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Golem"}
+, 
+[292239] = {Title = "Hode Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Hode sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Hode"}
+, 
+[292240] = {Title = "Marduk Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Marduk sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Marduk"}
+, 
+[292241] = {Title = "Pasana Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Pasana sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Pasana"}
+, 
+[292242] = {Title = "Sandman Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Sandman sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Sandman"}
+, 
+[292243] = {Title = "Zerom Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Zerom sebanyak 30 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 30 Zerom"}
+, 
+[292244] = {Title = "Anacondaq Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Anacondaq sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Anacondaq"}
+, 
+[292245] = {Title = "Roween Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Roween sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Roween"}
+, 
+[292246] = {Title = "Siroma Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Siroma sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Siroma"}
+, 
+[292247] = {Title = "Desert Wolf Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Desert Wolf sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Desert Wolf"}
+, 
+[292248] = {Title = "Drosera Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Drosera sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Drosera"}
+, 
+[292249] = {Title = "Hill Wind Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Hill Wind sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Hill Wind"}
+, 
+[292250] = {Title = "Ice Titan Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Ice Titan sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Ice Titan"}
+, 
+[292251] = {Title = "Snowier Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Snowier sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Snowier"}
+, 
+[292252] = {Title = "Agav Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Agav sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Agav"}
+, 
+[292253] = {Title = "Echio Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Echio sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Echio"}
+, 
+[292254] = {Title = "Hodremlin Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Hodremlin sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Hodremlin"}
+, 
+[292255] = {Title = "Isilla Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Isilla sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Isilla"}
+, 
+[292256] = {Title = "Vanberk Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Vanberk sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Vanberk"}
+, 
+[292257] = {Title = "Seeker Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Seeker sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Seeker"}
+, 
+[292258] = {Title = "Holden Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Holden sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Holden"}
+, 
+[292259] = {Title = "Noxious Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Noxious sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Noxious"}
+, 
+[292260] = {Title = "Porcellio Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Porcellio sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Porcellio"}
+, 
+[292261] = {Title = "Teddy Bear Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Teddy Bear sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Teddy Bear"}
+, 
+[292262] = {Title = "Venomous Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Venomous sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Venomous"}
+, 
+[292263] = {Title = "Green Cenere Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Green Cenere sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Green Cenere"}
+, 
+[292264] = {Title = "Explorer Robot T Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Explorer Robot T sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Explorer Robot T"}
+, 
+[292265] = {Title = "Repair Robot T Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Repair Robot T sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Repair Robot T"}
+, 
+[292266] = {Title = "Smelly Ghoul Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Smelly Ghoul sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Smelly Ghoul"}
+, 
+[292267] = {Title = "Smelly Zombie Hunting - Bounty Boards", 
+Description = {"Cari dan kalahkan Smelly Zombie sebanyak 150 dan laporkan kembali di Bounty Boards tempat kamu mengambil quest ini."}
+, Summary = "Kalahkan 150 Smelly Zombie"}
+, 
+[292268] = {Title = "Baba Turn-in - Permeter Hunting", 
+Description = {"Kalahkan 400 Permeter dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Permeter"}
+, 
+[292269] = {Title = "Baba Turn-in - Solider Hunting", 
+Description = {"Kalahkan 400 Solider dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Solider"}
+, 
+[292270] = {Title = "Baba Turn-in - Freezer Hunting", 
+Description = {"Kalahkan 400 Freezer dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Freezer"}
+, 
+[292271] = {Title = "Baba Turn-in - Heater Hunting", 
+Description = {"Kalahkan 400 Heater dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Heater"}
+, 
+[292272] = {Title = "Baba Turn-in - Roween Hunting", 
+Description = {"Kalahkan 400 Roween dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Roween"}
+, 
+[292273] = {Title = "Baba Turn-in - Siroma Hunting", 
+Description = {"Kalahkan 400 Siroma dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Siroma"}
+, 
+[292274] = {Title = "Baba Turn-in - Noxious Hunting", 
+Description = {"Kalahkan 400 Noxious dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Noxious"}
+, 
+[292275] = {Title = "Baba Turn-in - Venomous Hunting", 
+Description = {"Kalahkan 400 Venomous dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Venomous"}
+, 
+[292276] = {Title = "Baba Turn-in -  Desert Wolf Hunting", 
+Description = {"Kalahkan 400  Desert Wolf dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Desert Wolf"}
+, 
+[292277] = {Title = "Baba Turn-in -  Hill Wind Hunting", 
+Description = {"Kalahkan 400  Hill Wind dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Hill Wind"}
+, 
+[292278] = {Title = "Baba Turn-in -  Snowier Hunting", 
+Description = {"Kalahkan 400  Snowier dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Snowier"}
+, 
+[292279] = {Title = "Baba Turn-in -  Seeker Hunting", 
+Description = {"Kalahkan 400  Seeker dan laporkan kembali kepada Baba di Eden Headquarter."}
+, Summary = "Kalahkan 400 Seeker"}
+, 
+[292280] = {Title = "Special Quest -  Idul Adha", 
+Description = {"Special Quest memperingati hari raya Idul Adha."}
+, Summary = "Special Quest Hari Raya Idul Adha"}
+, 
+[292281] = {Title = "Special Quest -  Idul Adha", 
+Description = {"Kalahkan 41  Goat dan bawa 14 Goat\'s Skin lalu laporkan kembali kepada Singood ."}
+, Summary = "Kalahkan 41 Goat dan kumpulkan 14 Goat\'s Skin"}
+, 
+[292282] = {Title = "Special Quest -  Waktunya Beristirahat", 
+Description = {"Singood menyuruhmu beristirahat sejenak sebelum tugas yang selanjutnya."}
+, Summary = "Beristirahatlah selama 1 jam"}
+, 
+[12368] = {Title = "Mengoperasikan Robot Usang", 
+Description = {"Ayo bawakan 1 Buah Old Fuel Tank dan nyalakan kembali robot yang sudah tidak berfungsi."}
+, Summary = "Dapatkan 1 Old Fuel Tank"}
+, 
+[292283] = {Title = "Daily Raid -  Waktunya Beristirahat", 
+Description = {"Pulihkan dirimu untuk tugas yang baru di esok hari."}
+, Summary = "Beristirahat hingga esok hari"}
+, 
+[292284] = {Title = "Daily Raid -  Day 1", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Baphomet^000000 di Memorial Dungeon ^0000ffSealed Shrine^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Baphomet yang berada di MD Sealed Shrine"}
+, 
+[292285] = {Title = "Daily Raid -  Day 2", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Amdarais^000000 di Memorial Dungeon ^0000ffOld Glast Heim^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Amdarais yang berada di MD Old Glast Heim "}
+, 
+[292286] = {Title = "Daily Raid -  Day 3", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000T_W_O^000000 di Memorial Dungeon ^0000ffThe Last Room^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan T_W_O yang berada di MD The Last Room"}
+, 
+[292287] = {Title = "Daily Raid -  Day 4", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Fenrir^000000 di Memorial Dungeon ^0000ffGeffen Magic Tournament^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Fenrir yang berada di MD Geffen Magic Tournament"}
+, 
+[292288] = {Title = "Daily Raid -  Day 5", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Captain Ferlock^000000 di Memorial Dungeon ^0000ffAirship Raid^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Captain Ferlock yang berada di MD Airship Raid"}
+, 
+[292289] = {Title = "Daily Raid -  Day 5", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Mad Ferlock^000000 di Memorial Dungeon ^0000ffAirship Raid^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Mad Ferlock yang berada di MD Airship Raid"}
+, 
+[292290] = {Title = "Daily Raid -  Day 6", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Naght Sieger^000000 di Memorial Dungeon ^0000ffEndless Tower^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Naght Sieger yang berada di MD Endless Tower"}
+, 
+[292291] = {Title = "Daily Raid -  Day 7", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Morocc Necromancer^000000 di Memorial Dungeon ^0000ffMorse\'s Cave^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Morocc Necromancer yang berada di MD Morse\'s Cave"}
+, 
+[292292] = {Title = "Daily Raid -  Day 8", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Irene Elder^000000 di Memorial Dungeon ^0000ffSara\'s Memory^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Irene Elder yang berada di MD Sara\'s Memory"}
+, 
+[292293] = {Title = "Daily Raid -  Day 9", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Despair God Morocc^000000 di Memorial Dungeon ^0000ffTemple of Demon God^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Despair God Morocc yang berada di MD Temple of Demon God"}
+, 
+[292294] = {Title = "Daily Raid -  Day 10", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Celine Kimi^000000 di Memorial Dungeon ^0000ffHorror Toy Factory^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Celine Kimi yang berada di MD Horror Toy Factory"}
+, 
+[292295] = {Title = "Daily Raid -  Day 11", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Grim Reaper Ankou^000000 di Memorial Dungeon ^0000ffBios Island^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Grim Reaper Ankou yang berada di MD Bios Island"}
+, 
+[292296] = {Title = "Daily Raid -  Day 12", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Torturous Reedemer^000000 di Memorial Dungeon ^0000ffGhost Palace^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Torturous Reedemer yang berada di MD Ghost Palace"}
+, 
+[292297] = {Title = "Daily Raid -  Day 13", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Charleston 3^000000 di Memorial Dungeon ^0000ffCharleston Crisis^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Charleston 3 yang berada di MD Charleston Crisis"}
+, 
+[292298] = {Title = "Daily Raid -  Day 14", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Amdarais H^000000 di Memorial Dungeon ^0000ffAdvanced Old Glast Heim^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Amdarais H yang berada di MD Advanced Old Glast Heim"}
+, 
+[292299] = {Title = "Special Independence Quest #1", 
+Description = {"Kalahkan 32 Argiope, 40 Rafflesia Arnoldi, dan 3 Cendrawasih. Jika sudah selesai, bicaralah kembali pada Ibu Pertiwi."}
+, Summary = "Kalahkan 32 Argiope, 40 Rafflesia Arnoldi, dan 3 Cendrawasih."}
+, 
+[292300] = {Title = "Special Independence Quest #2", 
+Description = {"Kalahkan 10 Gajomart, 35 Banaspaty, dan 30 Butoijo. Jika sudah selesai, bicaralah kembali pada Cokro."}
+, Summary = "Kalahkan 10 Gajomart, 35 Banaspaty, dan 30 Butoijo."}
+, 
+[18029] = {Title = "Ayo tangkap Fabre!", IconName = "ico_dq.bmp", 
+Description = {"Ayo coba tangkap Fabre yang sering terlihat di sekitar Kota Geffen dan Prontera. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = "Cari dan Kalahkan Fabre"}
+, 
+[18030] = {Title = "Ayo tangkap Fabre!-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18031] = {Title = "Jelajahi Payon Field", IconName = "ico_dq.bmp", 
+Description = {"Latih keterampilanmu dengan menjelajahi hutan dan ladang di dekat Kota Payon. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = "Kalahkan Monster di sekitaran Payon"}
+, 
+[18032] = {Title = "Jelajahi Payon Field-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18033] = {Title = "Jelajahi Mjolnir Field", IconName = "ico_dq.bmp", 
+Description = {"Latih keterampilanmu dengan menjelajahi Gunung Mjolnir di Utara Kota Geffen. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = "Kalahkan Monster di Gunung Mjolnir"}
+, 
+[18034] = {Title = "Jelajahi Mjolnir Field-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18035] = {Title = "Jelajahi Tambang Terbengkalai Mjolnir", IconName = "ico_dq.bmp", 
+Description = {"Jelajahi tambang yang terbengkalai di kaki Gunung Mjornil di Geffen Utara. Berhati-hatilah karena kamu bisa tersesat jika kamu masuk terlalu dalam. Setelah selesai, lapor ke Lime menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18036] = {Title = "Jelajahi Tambang Terbengkalai Mjolnir-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18037] = {Title = "Jelajahi Desa Orc", IconName = "ico_dq.bmp", 
+Description = {"Latih keterampilanmu dengan menjelajahi Desa Orc di barat Kota Prontera. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18038] = {Title = "Jelajahi Desa Orc-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18039] = {Title = "Jelajahi Payon Dungeon", IconName = "ico_dq.bmp", 
+Description = {"Latih keterampilanmu dengan menjelajahi Goa Payon di utara Kota Payon. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18040] = {Title = "Jelajahi Payon Dungeon-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18041] = {Title = "Jelajahi El Mes Plateau", IconName = "ico_dq.bmp", 
+Description = {"Latih keterampilanmu dengan menjelajahi El Mes Plateau di dekat Kota Juno. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18042] = {Title = "Jelajahi El Mes Plateau-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18043] = {Title = "Jelajahi Turtle Island", IconName = "ico_dq.bmp", 
+Description = {"Latih keterampilanmu dengan menjelajahi Turtle Island di dekat perairan Kota Alberta. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18044] = {Title = "Jelajahi Turtle Island-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18045] = {Title = "Petualang Pemula", IconName = "ico_dq.bmp", 
+Description = {"Waktunya telah tiba untuk kamu mengetes kemampuan mengumpukan informasi dan keputusan. Cari dan kalahkan monster dengan elemen air, ukuran Sedang dan berjenis Formless dengan Level Monster 99~115. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18046] = {Title = "Petualang Pemula-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18047] = {Title = "Petualang Berpengalaman", IconName = "ico_dq.bmp", 
+Description = {"Semangat, kamu pasti bisa!! Cari dan kalahkan monster dengan elemen tanah, ukuran Besar dan berjenis Demi-human dengan Level Monster 115~130. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18048] = {Title = "Petualang Berpengalaman-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18049] = {Title = "Petualang Profesional 1", IconName = "ico_dq.bmp", 
+Description = {"Semangat, kamu pasti bisa!! Cari dan kalahkan monster dengan elemen Darkness/Shadow, ukuran Kecil dan berjenis Insect dengan Level Monster 130~145. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18050] = {Title = "Petualang Profesional 1-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18051] = {Title = "Petualang Profesional 2", IconName = "ico_dq.bmp", 
+Description = {"Semangat, kamu pasti bisa!! Cari dan kalahkan monster dengan elemen tanah, ukuran Sedang dan ukuran Kecil dengan Level Monster 145~160. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
+, Summary = ""}
+, 
+[18052] = {Title = "Petualang Profesional 2-Dalam Prosesê¸\191", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[18053] = {Title = "Penyerangan Nightmare Clock Tower", IconName = "ico_dq.bmp", 
+Description = {"Aldebaran Clock Tower nampaknya memiliki are lainnya bernama Nightmare Clock Tower. Jelajahi area itu dengan berbicara ke Belljamin Button."}
+, Summary = "", NpcSpr = "4_M_RUSMAN2", NpcNavi = "c_tower1", NpcPosX = 232, NpcPosY = 222}
+, 
+[18054] = {Title = "Penyerangan Nightmare Clock Tower-Dalam Proses", IconName = "ico_dq.bmp", 
+Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
+, Summary = "Tunggu sampai jam 04.00"}
+, 
+[11498] = {Title = "Hari-hari Jack and Jack seperti Jack", 
+Description = {"Sampai di Niflheim, Kota Kematian ketika aku bangun karena ocehan hantu. Dengarkan cerita dari hantu-hantu."}
+, Summary = "Bicara dengan Hororong"}
+, 
+[11499] = {Title = "Hari-hari Jack and Jack seperti Jack", 
+Description = {"Jack di tengah kota mungkin tahu sesuatu. Tanyakan Jack di alun-alun."}
+, Summary = "Bicara dengan Jack"}
+, 
+[11500] = {Title = "Hari-hari Jack and Jack seperti Jack", 
+Description = {"Mendengar tentang tempat Jack sebelumnya. Kembali ke Hururong."}
+, Summary = "Bicara dengan Hururong"}
+, 
+[11501] = {Title = "Hari-hari Jack and Jack seperti Jack", 
+Description = {"Berburu 10 Runaway Jack di field dan dungeon dan kumpulkan 10 Decorating Pumpkin dan 20 Dry White Stem ke Hororong."}
+, Summary = "Kirim Jack ke Niflheim"}
+, 
+[11502] = {Title = "Hari-hari Jack and Jack seperti Jack", 
+Description = {"Membawa kembali Jack ke Niflheim. Menurut para hantu, Jack akan tumbuh di tanah jika dia tinggal terlalu lama di tanah kehidupan. Biarkan dia istirahat."}
+, Summary = "Jack beristirahat"}
+, 
+[11503] = {Title = "Hari-hari Jack and Jack seperti Jack", 
+Description = {"Berburu 10 Runaway Jack di field dan dungeon dan kumpulkan 10 Decorating Pumpkin dan 20 Dry White Stem ke Hororing."}
+, Summary = "Kirim Jack ke Niflheim"}
+, 
+[11504] = {Title = "Kucing Jack dan Jack", 
+Description = {"Sulit untuk dimengerti, tapi rasanya harus mendapatkan Dry White Stem dan kembali ke Jack."}
+, Summary = "Kumpulkan Dry White Stem"}
+, 
+[11505] = {Title = "Kucing Jack dan Jack", 
+Description = {"Saat Jack tertangkap, Meow ketakutan dan kabur. Tanyakan Harorong yang bersama Jack"}
+, Summary = "Bicara dengan Harorong"}
+, 
+[11506] = {Title = "Kucing Jack dan Jack", 
+Description = {"Mendengar Neable di pintu masuk melihat Meow. Bicara dengan Neable di pintu masuk barat Niflheim."}
+, Summary = "Neable di pintu masuk barat Niflheim"}
+, 
+[11507] = {Title = "Kucing Jack dan Jack", 
+Description = {"Entah itu kucing atau bukan, sesuatu yang kecil dan putih melewati pintu masuk dengan sangat cepat. Tanyakan pada orang yang keluar dari pintu masuk tentang hal itu."}
+, Summary = "Bicara dengan Nevervous Jack"}
+, 
+[11508] = {Title = "Kucing Jack dan Jack", 
+Description = {"Katanya Kucing Jack pergi ke SANA. Beritahu Jack tentang itu."}
+, Summary = "Bicara dengan Jack"}
+, 
+[11509] = {Title = "Kucing Jack dan Jack", 
+Description = {"Kucing Jack tampaknya pergi ke Midgard melalui Pohon Yggdrasil. Harus melewati Umbala, jadi periksa dulu di sana."}
+, Summary = "Periksa pintu masuk utara Umbala"}
+, 
+[11510] = {Title = "Kucing Jack dan Jack", 
+Description = {"Peneliti mengatakan dia memberi tahu hal kecil dan putih jalan ke Morocc. Periksa area pintu masuk utara Morocc."}
+, Summary = "Periksa pintu masuk Morocc"}
+, 
+[11511] = {Title = "Kucing Jack dan Jack", 
+Description = {"Pedagang berkata dia membimbing seseorang untuk sampai ke Alberta. Periksa pintu masuk utara Alberta."}
+, Summary = "Periksa pintu masuk utara Alberta"}
+, 
+[11512] = {Title = "Kucing Jack dan Jack", 
+Description = {"Konon banyak kucing yang mencari ikan di pelabuhan. Periksa area pelabuhan."}
+, Summary = "Periksa area pelabuhan Alberta"}
+, 
+[11513] = {Title = "Kucing Jack dan Jack", 
+Description = {"Menemukan seekor kucing putih, tapi itu bukan milik Jack. Periksa gundukan pasir yang mencurigakan di belakangnya."}
+, Summary = "Periksa gundukan pasir"}
+, 
+[11514] = {Title = "Kucing Jack dan Jack", 
+Description = {"Menemukan tulang binatang kecil dan pita merah dengan bel. Kembali ke Jack."}
+, Summary = "Bicara dengan Jack in Niflheim"}
+, 
+[11515] = {Title = "Wind blowing from the black hill", 
+Description = {"Jack said Meow was not okay. Meet Meow in the south of Jack. "}
+, Summary = "Bicara dengan Meow"}
+, 
+[11516] = {Title = "Wind blowing from the black hill", 
+Description = {"Meow has evolved as Scholarton due to the adventure, Tell Jack that it cannot go back to how he was because it changed a lot."}
+, Summary = "Bicara dengan Jack"}
+, 
+[11517] = {Title = "Wind blowing from the black hill", 
+Description = {"There are lots of cats in the middle of Valley of Gyoll. Try to find Meow there."}
+, Summary = "Search for Meow"}
+, 
+[11518] = {Title = "Wind blowing from the black hill", 
+Description = {"Found several Scatletons in the middle of Valley of Gyoll, but they don\'t seem so good. Collect ^ff00005 Black Fur^000000 to warm Scatleton."}
+, Summary = "5 Black Fur"}
+, 
+[11519] = {Title = "Wind blowing from the black hill", 
+Description = {"Scatleton was too upset to have further conversations. Go back to Jack."}
+, Summary = "Bicara dengan Jack"}
+, 
+[11520] = {Title = "Wind blowing from the black hill", 
+Description = {"Jack loves his cat rather than any other cats. Bicara dengan Scholarton again."}
+, Summary = "Bicara dengan Scholarton"}
+, 
+[11521] = {Title = "Wind blowing from the black hill", 
+Description = {"Scholarton doesn\'t want to talk anymore. Go back to Jack."}
+, Summary = "Bicara dengan Jack"}
+, 
+[11522] = {Title = "Wind blowing from the black hill", 
+Description = {"Jack said he would wait for Meow and asked to take care of other cats. Help Scatletons in the valley of Gyoll by collecting ^ff000010 White Thin Stems^000000."}
+, Summary = "To Valley of Gyoll"}
+, 
+[11523] = {Title = "Wind blowing from the black hill", 
+Description = {"Scatleton seems hungry when he is getting recovered. Collect ^ff000010 Delicious Fish^000000."}
+, Summary = "10 Delicious Fish"}
+, 
+[11524] = {Title = "Wind blowing from the black hill", 
+Description = {"Scatleton asked ^ff000020 more White Thin Stems^000000. Collect them."}
+, Summary = "20 White Thin Stems"}
+, 
+[11525] = {Title = "Wind blowing from the black hill", 
+Description = {"Scatleton seems to have the same vigor as Scholarton has. Inquire Scholarton about it."}
+, Summary = "Bicara dengan Scholarton"}
+, 
+[11526] = {Title = "Wind blowing from the black hill", 
+Description = {"Scholarton is also going to set out the journey. Bicara dengan Jack about it."}
+, Summary = "Bicara dengan Jack"}
+, 
+[11527] = {Title = "Wind blowing from the black hill", 
+Description = {"Jack must be tired. Come back him after 4 in the morning."}
+, Summary = "See you tomorrow, Jack!"}
+, 
+[11528] = {Title = "Wind blowing from the black hill", 
+Description = {"Enable to get black fur from the monsters in Valley of Gyoll."}
+, Summary = "A black fur collector"}
+, 
+[292301] = {Title = "Instance Raid -  Waktunya Beristirahat", 
+Description = {"Pulihkan dirimu untuk tugas yang baru di esok hari."}
+, Summary = "Kamu bisa menjalankan misi lagi pada pukul 04.00 WIB."}
+, 
+[292302] = {Title = "Instance Raid - Day 1", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Cursed Baphomet^000000 di Memorial Dungeon ^0000ffSealed Shrine^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Cursed Baphomet yang berada di MD Sealed Shrine"}
+, 
+[292303] = {Title = "Instance Raid - Day 2", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Amdarais^000000 di Memorial Dungeon ^0000ffOld Glast Heim^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Amdarais yang berada di MD Old Glast Heim "}
+, 
+[292304] = {Title = "Instance Raid - Day 3", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Entwiehen Crothen^000000 di Memorial Dungeon ^0000ffEndless Tower^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Entwiehen Crothen yang berada di MD Endless Tower"}
+, 
+[292305] = {Title = "Instance Raid - Day 4", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Charleston 3^000000 di Memorial Dungeon ^0000ffCharleston Crisis^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Charleston 3 yang berada di MD Charleston Crisis"}
+, 
+[292306] = {Title = "Instance Raid - Day 5", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Despair God Morocc^000000 di Memorial Dungeon ^0000ffTemple of Demon God^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Despair God Morocc yang berada di MD Temple of Demon God"}
+, 
+[292307] = {Title = "Instance Raid - Day 6", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Fenrir^000000 di Memorial Dungeon ^0000ffGeffen Magic Tournament^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Fenrir yang berada di MD Geffen Magic Tournament"}
+, 
+[292308] = {Title = "Instance Raid - Day 7", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Morocc Necromancer^000000 di Memorial Dungeon ^0000ffMorse\'s Cave^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Morocc Necromancer yang berada di MD Morse\'s Cave"}
+, 
+[292309] = {Title = "Instance Raid - Day 8", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Irene Elder^000000 di Memorial Dungeon ^0000ffSara\'s Memory^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Irene Elder yang berada di MD Sara\'s Memory"}
+, 
+[292310] = {Title = "Instance Raid - Day 9", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000T_W_O^000000 di Memorial Dungeon ^0000ffThe Last Room^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan T_W_O yang berada di MD The Last Room"}
+, 
+[292311] = {Title = "Instance Raid - Day 10", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Celine Kimi^000000 di Memorial Dungeon ^0000ffHorror Toy Factory^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Celine Kimi yang berada di MD Horror Toy Factory"}
+, 
+[292312] = {Title = "Instance Raid - Day 11", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Grim Reaper Ankou^000000 di Memorial Dungeon ^0000ffBios Island^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Grim Reaper Ankou yang berada di MD Bios Island"}
+, 
+[292313] = {Title = "Instance Raid - Day 12", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Torturous Reedemer^000000 di Memorial Dungeon ^0000ffGhost Palace^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Torturous Reedemer yang berada di MD Ghost Palace"}
+, 
+[292314] = {Title = "Instance Raid - Day 13", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Captain Ferlock^000000 di Memorial Dungeon ^0000ffAirship Raid^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Captain Ferlock yang berada di MD Airship Raid"}
+, 
+[292315] = {Title = "Instance Raid - Day 13", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Captain Ferlock^000000 di Memorial Dungeon ^0000ffAirship Raid^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Captain Ferlock yang berada di MD Airship Raid"}
+, 
+[292316] = {Title = "Instance Raid - Day 14", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Amdarais Hard^000000 di Memorial Dungeon ^0000ffAdvanced Old Glast Heim^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Amdarais Hard yang berada di MD Advanced Old Glast Heim"}
+, 
+[1] = {Title = "Blackmail", 
+Description = {"Turtle"}
+, Summary = "Carapace"}
+, 
+[5402] = {Title = "The Royal Richard", 
+Description = {"Anda telah membuat janji untuk bertemu dengan Po, kepala keluarga Richard. Temui Po, kepala keluarga Richard."}
+, Summary = ""}
+, 
+[5403] = {Title = "The Royal Richard", 
+Description = {"Untuk beberapa alasan dia meminta Anda untuk melanjutkan program pelatihan keluarga Richard. Anda akan diberi penghargaan untuk itu. Mengapa Anda tidak mencobanya?"}
+, Summary = ""}
+, 
+[5404] = {Title = "[Ulangi]]Warrior Discipline-Human", 
+Description = {"Berburu 50 monster Human sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5405] = {Title = "[Ulangi]]Warrior Discipline-Animal", 
+Description = {"Berburu 50 monster Animal sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5406] = {Title = "[Ulangi]]Warrior Discipline-Insect", 
+Description = {"Berburu 50 monster Insect sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5407] = {Title = "[Ulangi]]Warrior Discipline-Fish", 
+Description = {"Berburu 50 monster Fish sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5408] = {Title = "[Ulangi]]Warrior Discipline-Plant", 
+Description = {"Berburu 50 monster Plant sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5409] = {Title = "[Ulangi]]Warrior Discipline-Devil", 
+Description = {"Berburu 50 monster Demon sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5410] = {Title = "[Ulangi]]Warrior Discipline-Angel", 
+Description = {"Berburu 50 monster Angel sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5411] = {Title = "[Ulangi]]Warrior Discipline-Immortal", 
+Description = {"Berburu 50 monster Undead sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5412] = {Title = "[Ulangi]]Warrior Discipline-Intangible", 
+Description = {"Berburu 50 monster Nothing sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5413] = {Title = "[Ulangi]Warrior Discipline-Dragon", 
+Description = {"Berburu 50 monster Dragon sebagai bagian dari program Warrior Discipline dari keluarga Richard."}
+, Summary = ""}
+, 
+[5414] = {Title = "[Stand by]Warrior Discipline", 
+Description = {"Kamu bisa mengikuti pelatihan keluarga Richard lagi besok pagi. "}
+, Summary = "Waktu reset 4:00 pagi"}
+, 
+[5415] = {Title = "Restricted Sector", 
+Description = {"Anda memutuskan untuk mendengar tentang Area Terlarang dari Royal Crusader Ellond Lawrence."}
+, Summary = ""}
+, 
+[5416] = {Title = "Restricted Sector A", 
+Description = {"Anda telah selesai menjelajahi Sektor A. Laporkan situasi saat ini kepada Ellond Lawrence."}
+, Summary = ""}
+, 
+[5417] = {Title = "Restricted Sector B", 
+Description = {"Kamu sudah selesai menjelajahi Sektor B. Laporkan situasi saat ini ke Ellond Lawrence."}
+, Summary = ""}
+, 
+[5418] = {Title = "Restricted Sector C", 
+Description = {"Anda telah selesai menjelajahi Sektor C. Laporkan situasi saat ini kepada Ellond Lawrence."}
+, Summary = ""}
+, 
+[5419] = {Title = "Restricted Sector D", 
+Description = {"Anda telah selesai menjelajahi Sektor D. Laporkan situasi saat ini kepada Ellond Lawrence."}
+, Summary = ""}
+, 
+[5420] = {Title = "Restricted Sector E", 
+Description = {"Anda telah selesai menjelajahi Sektor E. Laporkan situasi saat ini kepada Ellond Lawrence."}
+, Summary = ""}
+, 
+[5421] = {Title = "Restricted Sector F", 
+Description = {"Anda telah selesai menjelajahi Sektor F. Laporkan situasi saat ini kepada Ellond Lawrence."}
+, Summary = ""}
+, 
+[5422] = {Title = "Restricted Sector G", 
+Description = {"Anda telah selesai menjelajahi Sektor G. Laporkan situasi saat ini kepada Ellond Lawrence."}
+, Summary = ""}
+, 
+[5423] = {Title = "Restricted Sector H", 
+Description = {"Anda telah selesai menjelajahi Sektor H. Laporkan situasi saat ini kepada Ellond Lawrence."}
+, Summary = ""}
+, 
+[5424] = {Title = "[Selesai]Restricted Sector", 
+Description = {"Anda telah selesai menjelajahi Sektor Terbatas."}
+, Summary = ""}
+, 
+[5425] = {Title = "To My Beloved Fellow", 
+Description = {"Bagaimana jika Anda mendengar suara yang akrab di penjara yang gelap? Ini mungkin membuat Anda sedikit takut, tetapi Anda akan merasa agak nostalgia. Mari kita temukan sumber suaranya."}
+, Summary = ""}
+, 
+[5426] = {Title = "[Stand by]To My Beloved Fellow", 
+Description = {"Anda telah mengirim berita tentang teman lama. Mengapa kamu tidak membiarkannya hilang dalam ingatan lama? "}
+, Summary = "Waktu reset 4:00 pagi"}
+, 
+[5427] = {Title = "[Ulangi]To My Beloved Fellow", 
+Description = {"Bertukar surat secara teratur baik untuk kesehatan mental para narapidana. Dapatkan surat dari teman di suatu tempat di penjara bawah tanah."}
+, Summary = ""}
+, 
+[5428] = {Title = "Lowly Standards", 
+Description = {"Tahanan yang kelihatannya memiliki mata yang cantik telah meminta Anda untuk membawa 20 mata merah dari monster yang menyombongkan diri. Apakah ini masalah harga diri?"}
+, Summary = ""}
+, 
+[5429] = {Title = "[Stand by]Lowly Standards", 
+Description = {"Tahanan itu tergila-gila dengan mata merah. Kenapa tidak kamu bawa lagi nanti untuk menenangkan napi lagi? "}
+, Summary = "Waktu reset 4:00 pagi"}
+, 
+[5430] = {Title = "[Ulangi]Lowly Standards", 
+Description = {"Tahanan itu memintamu untuk mengambil lagi. Ayo bawa 20 mata merah untuk menenangkan napi."}
+, Summary = ""}
+, 
+[5431] = {Title = "Clean Life", 
+Description = {"Anda perlu membersihkan penjara bawah tanah yang kotor. Bersihkan dengan hati yang penuh sukacita."}
+, Summary = ""}
+, 
+[5432] = {Title = "Cleaning is complete.", 
+Description = {"Anda telah selesai membersihkan penjara bawah tanah. Mengapa Anda tidak kembali untuk memeriksa?"}
+, Summary = ""}
+, 
+[5433] = {Title = "[Stand by]Clean Life", 
+Description = {"Tahukah kamu? Ini adalah waktu untuk menunggu asyiknya membuat kekacauan setelah kegembiraan membersihkan."}
+, Summary = "Waktu reset 4:00 am"}
+, 
+[5434] = {Title = "[Ulangi]Clean Life", 
+Description = {"Inilah saatnya merasakan nikmatnya bersih-bersih. Ayo bersihkan penjara bawah tanah dengan hati yang penuh suka cita."}
+, Summary = ""}
+, 
+[5435] = {Title = "[Ulangi]Cleaning is complete.", 
+Description = {"Anda telah selesai membersihkan penjara bawah tanah. Mengapa Anda tidak kembali untuk memeriksa?"}
+, Summary = ""}
+, 
+[5436] = {Title = "Finding Lights", 
+Description = {"Tahanan ini sepertinya membenci kegelapan. Mari kita bawa cahaya terang dari obor besar di penjara ini."}
+, Summary = ""}
+, 
+[5437] = {Title = "[Stand by]Finding Lights", 
+Description = {"Dia sepertinya puas dengan cahaya terang. Mari kita bawa dia sekali lagi saat lampu akan mereda."}
+, Summary = "Waktu reset 4:00 am"}
+, 
+[5438] = {Title = "[Ulangi]Finding Lights", 
+Description = {"Mari kita bawa cahaya terang lagi dari obor besar di penjara ini."}
+, Summary = ""}
+, 
+[5439] = {Title = "Refreshing Prison Life", 
+Description = {"Tahanan itu tampak tidak nyaman di penjara yang lembab. Bawalah 20 Dehumidifier untuk kehidupan penjara yang menyenangkan bagi narapidana."}
+, Summary = ""}
+, 
+[5440] = {Title = "[Stand by]Refreshing Prison Life", 
+Description = {"Karena penjara adalah tempat yang lembab,  cepat atau lambat Dehumidifier akan habis. Bawa lebih banyak saat habis."}
+, Summary = "Waktu reset 4:00 am"}
+, 
+[5441] = {Title = "[Ulangi]Refreshing Prison Life", 
+Description = {"Seperti yang diharapkan, Dehumidifier tidak bertahan lama. Bawa 20 Dehumidifier lagi."}
+, Summary = ""}
+, 
+[5442] = {Title = "Suppressing Darkness", 
+Description = {"bunga tidak hanya mencerahkan kegelapan tetapi juga membawa kedamaian dalam pikiran. Bawakan bunga."}
+, Summary = ""}
+, 
+[5443] = {Title = "[Stand by]Suppressing Darkness", 
+Description = {"Kegelapan telah menjadi tenang, tetapi mungkin menjadi sulit diatur lagi. Jika saatnya tiba, saya mungkin harus membawa bunga lagi."}
+, Summary = "Waktu reset 4:00 am"}
+, 
+[5444] = {Title = "[Ulangi]Suppressing Darkness", 
+Description = {"Kegelapan mengamuk lagi. Bawakan bunga. Bunga apa yang harus saya bawa kali ini?"}
+, Summary = ""}
+, 
+[5445] = {Title = "Bothersome Little Thing", 
+Description = {"Benjolan kecil di tanduk ... Saya tidak bisa mengerti karena tidak memiliki tanduk, tapi saya rasa itu seharusnya menjadi hal yang mengganggu. Ayo bawa 20 Sandpaper  dengan berburu Taffies."}
+, Summary = ""}
+, 
+[5446] = {Title = "[Stand by]Bothersome Little Thing", 
+Description = {"Tahanan yang sepertinya benar-benar menganggap saya sebagai petugas hotel penjara ini mungkin menelepon saya secara teratur."}
+, Summary = "Waktu reset 4:00 am"}
+, 
+[5447] = {Title = "[Ulangi]Bothersome Little Thing", 
+Description = {"Mengapa dia membutuhkan lebih banyak amplas? Karena dia bertanya, buruan Taffies dan bawa 20 Sandpaper."}
+, Summary = ""}
+, 
+[5448] = {Title = "Request from Chief Guard", 
+Description = {"Kepala Penjaga Prontera Spiegel memintamu untuk membantu penduduk desa yang kesusahan di tempat-tempat yang ditandai di peta."}
+, Summary = ""}
+, 
+[5449] = {Title = "Request from Chief Guard", 
+Description = {"Kepala Penjaga Prontera Spiegel memintamu untuk membantu penduduk desa yang kesusahan di tempat-tempat yang ditandai di peta."}
+, Summary = ""}
+, 
+[5450] = {Title = "Request from Chief Guard", 
+Description = {"Kepala Penjaga Prontera Spiegel memintamu untuk membantu penduduk desa yang kesusahan di tempat-tempat yang ditandai di peta."}
+, Summary = ""}
+, 
+[5451] = {Title = "Request from Chief Guard", 
+Description = {"Kepala Penjaga Prontera Spiegel memintamu untuk membantu penduduk desa yang kesusahan di tempat-tempat yang ditandai di peta."}
+, Summary = ""}
+, 
+[5452] = {Title = "[Stand by]Request from Chief Guard", 
+Description = {"Anda membantu penduduk desa Prontera. Untuk sementara, kamu harus berjalan-jalan di sekitar kota bekerja untuk mengalahkan Undead."}
+, Summary = ""}
+, 
+[5453] = {Title = "Ungrateful(1)", 
+Description = {"Anda bertemu dengan seorang pemuda desa yang gemetar ketakutan. Pertama-tama, bawa anak desa ke kantor desa yang merupakan tempat penampungan terdekat."}
+, Summary = ""}
+, 
+[5454] = {Title = "Ungrateful(2)", 
+Description = {"Ketika Anda membawa pemuda desa ke tempat penampungan terdekat, dia meminta Anda untuk menemukan Tas Perkakas yang hilang di dekat Smelter."}
+, Summary = ""}
+, 
+[5455] = {Title = "Ungrateful(3)", 
+Description = {"Anda menemukan Tas Perkakas pemuda desa yang hilang di depan Prontera Smelter."}
+, Summary = ""}
+, 
+[5456] = {Title = "Ungrateful(4)", 
+Description = {"Anda mengirimkan Tas Perkakas pemuda desa dengan aman. Anda tidak merasa begitu baik tentang itu, tetapi mari kita lanjutkan karena Anda telah melakukan hal yang baik."}
+, Summary = ""}
+, 
+[5457] = {Title = "Find My Sister(1)", 
+Description = {"Ambil gadis yang menangis setelah kehilangan adiknya ke katedral yang merupakan tempat penampungan terdekat."}
+, Summary = ""}
+, 
+[5458] = {Title = "Find My Sister(2)", 
+Description = {"Bawa gadis itu ke saudara perempuannya di gedung Knight yang merupakan tempat berlindung lain."}
+, Summary = ""}
+, 
+[5459] = {Title = "Find My Sister(3)", 
+Description = {"Anda membantu gadis yang menangis setelah dipisahkan dari saudara perempuannya bertemu dengan saudara perempuannya."}
+, Summary = ""}
+, 
+[5460] = {Title = "Blatant Bluff(1)", 
+Description = {"Ambil solder ke gedung Knight yang merupakan tempat berlindung terdekat"}
+, Summary = ""}
+, 
+[5461] = {Title = "Blatant Bluff(2)", 
+Description = {"Dia bisa saja tinggal di gedung Knight, tapi dia bersikeras untuk pergi ke tempat lain untuk membuat cadangan. Ayo bawa dia ke kantor desa sesuai keinginannya."}
+, Summary = ""}
+, 
+[5462] = {Title = "Blatant Bluff(3)", 
+Description = {"Mengapa solder bluffer ini dari Geffen di Prontera? Mari kita anggap sebagai berarti telah membantunya."}
+, Summary = ""}
+, 
+[5463] = {Title = "Mad Love for Wife(1)", 
+Description = {"Anda berjanji untuk menemukan istri Eryus. Ayo bawa Eryus ke katedral yang aman."}
+, Summary = ""}
+, 
+[5464] = {Title = "Mad Love for Wife(2)", 
+Description = {"Eryus bercerita bahwa dia telah kehilangan istrinya di dekat agen tenaga kerja Prontera. Ayo kita cari dia di dekat agen tenaga kerja."}
+, Summary = ""}
+, 
+[5465] = {Title = "Mad Love for Wife(3)", 
+Description = {"Anda bertemu Ellie. istri Eryus. Karena dia wanita yang rapuh, ayo bawa dia ke katedral yang aman secepatnya."}
+, Summary = ""}
+, 
+[5466] = {Title = "Mad Love for WifeQuest(4)", 
+Description = {"Penyakit Ellie tampaknya memburuk saat dia sedikit santai. Pergi ke tempat Anda bertemu Ellie dan cari obatnya yang hilang."}
+, Summary = ""}
+, 
+[5467] = {Title = "Mad Love for WifeQuest(5)", 
+Description = {"Anda menemukan obatnya. Sampaikan kepada Ellie sebelum penyakitnya menjadi serius."}
+, Summary = ""}
+, 
+[5468] = {Title = "Mad Love for Wife(6)", 
+Description = {"Anda telah membantu pasangan, Ellie dan Eryus, yang tampaknya sangat saling mencintai. Anda senang melihat kekasih sejati dalam waktu lama."}
+, Summary = ""}
+, 
+[7681] = {Title = "Invitation to Royal Banquet", 
+Description = {"Sebuah perjamuan diadakan di Istana Prontera untuk menghormati pengorbanan yang dilakukan oleh mereka yang melanjutkan misi ekspedisi di Ash-Bakum untuk melenyapkan Maroko yang mengerikan dan memuji dedikasi mereka. Kalian semua diundang ke jamuan makan ini. "}
+, Summary = "Kunjungi Istana Prontera"}
+, 
+[7682] = {Title = "Socializing Starts from an Eye Contact", 
+Description = {"Kunjungi tujuh keluarga kerajaan untuk bertukar salam. Ada keluarga Heine, Nerius dan Walther di West Villa, dan ada keluarga Richard, Wigner, Roegenburg dan Geoborg di East Villa. "}
+, Summary = "Kunjungi setiap keluarga"}
+, 
+[7683] = {Title = "Visit the Heines", 
+Description = {"Anda mengunjungi Heines untuk bertukar salam."}
+, Summary = ""}
+, 
+[7684] = {Title = "Visit the Nerius", 
+Description = {"Anda mengunjungi Nerius untuk bertukar salam."}
+, Summary = ""}
+, 
+[7685] = {Title = "What Is the Next Thing on the Schedule ?", 
+Description = {"Anda telah menyelesaikan semuanya sesuai jadwal. Tanya Chamberlain Bell di kamarmu tentang jadwal selanjutnya "}
+, Summary = "Bicara dengan Belle"}
+, 
+[7686] = {Title = "Nyhill and Skia", 
+Description = {"Kamu menyaksikan percakapan antara Nyhill dan Skia di lorong."}
+, Summary = ""}
+, 
+[7687] = {Title = "Participating in the Banquet", 
+Description = {"Belle meminta Anda untuk berpartisipasi dalam perjamuan karena Anda punya waktu luang. Kamu diberitahu bahwa Spica, nyonya dari keluarga Nerius ingin bertemu denganmu. "}
+, Summary = "Bicara dengan Spica"}
+, 
+[7688] = {Title = "Suspicious Movement", 
+Description = {"Saat bergerak untuk mengambil bagian dalam perjamuan, Anda mendengar tentang percakapan antara orang asing di ruang tamu."}
+, Summary = ""}
+, 
+[7689] = {Title = "Find Nyhill", 
+Description = {"Skia merasa Nyhill tidak berjalan lurus. Skia memintamu untuk mengikuti Nyhill yang meninggalkan banquet lebih awal. "}
+, Summary = "Ikuti Nyhill"}
+, 
+[7690] = {Title = "Where Is Nyhill?", 
+Description = {"Saat Anda mencari Nyhill, Anda menguping percakapan yang mencurigakan. Dimana Nyhill? "}
+, Summary = "Bicara dengan Nyhill"}
+, 
+[7691] = {Title = "Waiting for the Ritual", 
+Description = {"Kembali ke kamar untuk berbicara dengan Belle. Seorang penyihir seharusnya datang untuk ritual ... "}
+, Summary = "Bicara dengan Belle"}
+, 
+[7692] = {Title = "Attend the Ritual", 
+Description = {"Berpartisipasilah dalam ritual mengikuti arahan dari penyihir. "}
+, Summary = "Hadiri Ritual tersebut"}
+, 
+[7693] = {Title = "Surprise Attack", 
+Description = {"Serangan mendadak dilakukan selama ritual!"}
+, Summary = ""}
+, 
+[7694] = {Title = "I\'d Like to See that Too", 
+Description = {"Setelah semua orang pergi, mari kita lihat dokumen kerajaan yang dilihat oleh Kronecker "}
+, Summary = "Bicaralah dengan Pustakawan"}
+, 
+[7695] = {Title = "Escape from the Past Memories of the Royal Family", 
+Description = {"Anda harus keluar dari tempat itu melalui pintu keluar darurat alih-alih gerbang yang tidak berfungsi. Ksatria yang menjaga di depan pintu bisa membimbingmu. "}
+, Summary = "Bicara dengan Guardian Knight"}
+, 
+[7696] = {Title = "What\'s Next?", 
+Description = {"Saya tidak tahu harus berbuat apa sekarang. Ayo tanya Belle. "}
+, Summary = "Bicara dengan Belle"}
+, 
+[7697] = {Title = "Invitation from the Nerius", 
+Description = {"Anda telah diundang ke keluarga Nerius. Ayo pergi mengunjungi Nerius. "}
+, Summary = "Kunjungi Nerius"}
+, 
+[7698] = {Title = "Heine Now", 
+Description = {"Saat berbicara dengan Nerius, permintaan untuk mengunjungi Heines telah tiba. "}
+, Summary = "Kunjungi Heines"}
+, 
+[7699] = {Title = "To the Past", 
+Description = {"Anda telah diminta untuk mengunjungi Kenangan Masa Lalu dari Keluarga Kerajaan bersama Nillem dengan menghubungkan celah dalam dimensi. Dimana Nillem? "}
+, Summary = "Bicara dengan Nillem"}
+, 
+[7700] = {Title = "Once More!", 
+Description = {"Bergerak sekali lagi melalui celah dalam dimensi yang telah diputar paksa oleh Nillem. Apa yang terjadi di Room of Consciousness di masa lalu? "}
+, Summary = "Pergi ke Room of Consciousness"}
+, 
+[7701] = {Title = "Lost Imir Heart", 
+Description = {"Periksa apa yang terjadi dengan Hati Imir yang sebenarnya di Room of Consciousness"}
+, Summary = ""}
+, 
+[7702] = {Title = "Prontera at the Time", 
+Description = {"Prontera telah diserang oleh Undead sebelumnya, dan itu terjadi sekarang. Kamu telah memutuskan untuk pergi ke sana setelah dibujuk oleh Nillem. "}
+, Summary = "Pergi ke Luar"}
+, 
+[7703] = {Title = "Who Knows the Truth", 
+Description = {"Ini adalah waktu untuk kembali ke masa sekarang, membuka segel dokumen dan mencari tahu kebenarannya. Semuanya ada di Kenangan Masa Lalu dari Keluarga Kerajaan. "}
+, Summary = "Bicara dengan Kronecker"}
+, 
+[7704] = {Title = "Unchangeable Past", 
+Description = {"Aku juga tidak bisa menyelamatkan Hati Imir yang dilanggar oleh Valkyrie hari ini."}
+, Summary = ""}
+, 
+[7705] = {Title = "Hope You Cannot Let Go", 
+Description = {"Anda tidak yakin apakah itu akan berhasil atau tidak, tetapi Anda diminta untuk menantang lagi di Room of Consciousness. Kalahkan Bijou dan pertahankan bidak Imir Heart. "}
+, Summary = "Room of Consciousness di Masa Lalu"}
+, 
+[7706] = {Title = "Nillem Is Not Almighty", 
+Description = {"Banyak koneksi adalah hal yang sulit bahkan untuk Nillem. Saya pikir ada batasan tertentu untuk terhubung ke Room of Consciousness. Mari kita tunggu kesembuhan Nillem."}
+, Summary = "Waktu reset pada jam 4"}
+, 
+[9418] = {Title = "Attack Sky Fortress Invading Prontera", 
+Description = {"Kamu harus menyerang Sky Fortress yang menyerang Prontera dan mengalahkan bosnya. "}
+, Summary = "Serang Sky Fortresst"}
+, 
+[9419] = {Title = "Attack Sky Fortress Invading Prontera", 
+Description = {"Pesan Ilmuwan Doyeon: Saya membutuhkan lebih banyak kekuatan sihir untuk mengaktifkan warp ke Sky Fortress. Bawakan aku -Dungeon Pass- atau aku butuh sekitar 3 hari untuk mengumpulkan sihir. "}
+, Summary = "Kunjungi Doyeon dalam 3 hari."}
+, 
+[9427] = {Title = "Clearing the Sky Fortress for the Same Time", 
+Description = {"Bersihkan Sky Fortress untuk Waktu yang Sama "}
+, Summary = "Bersihkan Sky Fortress untuk Waktu yang Sama "}
+, 
+[11394] = {Title = "Call of the Royal Head Chef", 
+Description = {"Koki Kepala Kerajaan di dapur sepertinya mencarimu. "}
+, Summary = "Bicara dengan Royal Head Chef "}
+, 
+[11395] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Anda diminta untuk membawa saus untuk digunakan dalam masakan. Pergi menemui master saus di dekat sini. "}
+, Summary = "Bicara dengan Master Saus"}
+, 
+[11396] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Buat saus dengan master. "}
+, Summary = "Buat Saus"}
+, 
+[11397] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Bawa sausnya ke Kepala Koki "}
+, Summary = "Bicara dengan Kepala Koki"}
+, 
+[11398] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Isi tempat kosong dan buat makanan untuk perjamuan yang luar biasa mewah dan luar biasa. "}
+, Summary = "Pindah ke Tempat Kosong"}
+, 
+[11399] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Pindahkan griffin panggang dengan kerak renyah dan daging berair yang dilapisi saus spesial ke ruang makan. "}
+, Summary = "Kirim ke Dining Room"}
+, 
+[11400] = {Title = "The Geoborgs", 
+Description = {"Bicaralah dengan Ratu Catherine D. Geoborg, kepala keluarga Geoborg. "}
+, Summary = "Bicaralah dengan Ratu"}
+, 
+[11401] = {Title = "The Geoborgs", 
+Description = {"Ratu sepertinya terlalu sibuk untuk berbicara denganku. Mari kita bicara dengan Penjaga Jerad sebagai gantinya. "}
+, Summary = "Bicara dengan Jerad"}
+, 
+[11402] = {Title = "The Geoborgs", 
+Description = {"Pergi ke Banquet Hall untuk bertemu dengan saudara perempuan ratu, Scarlet Jaha. "}
+, Summary = "Bicara dengan Scarlet"}
+, 
+[11403] = {Title = "The Geoborgs", 
+Description = {"Saat berbicara dengan Scarlet Jaha tentang Geoborg, Lidion Geoborg menyela percakapan. "}
+, Summary = "Bicara dengan Lidion"}
+, 
+[11404] = {Title = "The Geoborgs", 
+Description = {"Lidion berteriak marah. Tampaknya mustahil untuk melanjutkan percakapan. Ayo bicara dengan Scarlet lagi "}
+, Summary = "Bicara dengan Scarlet"}
+, 
+[11405] = {Title = "The Geoborgs", 
+Description = {"Ayo kita cari Pangeran Ernst dari keluarga Geoborg. Dia seharusnya berada di Banquet Hall. "}
+, Summary = "Investigasi di Banquet Hall (0/7)"}
+, 
+[11406] = {Title = "The Geoborgs", 
+Description = {"Ayo kita cari Pangeran Ernst dari keluarga Geoborg. Dia seharusnya berada di Banquet Hall. "}
+, Summary = "Investigasi di Banquet Hall (1/7)"}
+, 
+[11407] = {Title = "The Geoborgs", 
+Description = {"Ayo kita cari Pangeran Ernst dari keluarga Geoborg. Dia seharusnya berada di Banquet Hall. "}
+, Summary = "Investigasi di Banquet Hall (2/7)"}
+, 
+[11408] = {Title = "The Geoborgs", 
+Description = {"Ayo kita cari Pangeran Ernst dari keluarga Geoborg. Dia seharusnya berada di Banquet Hall. "}
+, Summary = "Investigasi di Banquet Hall (3/7)"}
+, 
+[11409] = {Title = "The Geoborgs", 
+Description = {"Ayo kita cari Pangeran Ernst dari keluarga Geoborg. Dia seharusnya berada di Banquet Hall. "}
+, Summary = "Investigasi di Banquet Hall (4/7)"}
+, 
+[11410] = {Title = "The Geoborgs", 
+Description = {"Ayo kita cari Pangeran Ernst dari keluarga Geoborg. Dia seharusnya berada di Banquet Hall. "}
+, Summary = "Investigasi di Banquet Hall (5/7)"}
+, 
+[11411] = {Title = "The Geoborgs", 
+Description = {"Ayo kita cari Pangeran Ernst dari keluarga Geoborg. Dia seharusnya berada di Banquet Hall. "}
+, Summary = "Investigasi di Banquet Hall (6/7)"}
+, 
+[11412] = {Title = "The Geoborgs", 
+Description = {"Anda telah mendengar rumor tentang Geoborg. Pangeran Ernst pasti meninggalkan Aula Perjamuan. Ayo kembali ke Scarlet "}
+, Summary = "Temui Scarlet"}
+, 
+[11413] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Bicaralah dengan Tamarin yang sedang bekerja di ruang makan. "}
+, Summary = "Bicara dengan Tamarin"}
+, 
+[11414] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Pergi menemui Dyu di Banquet Hall. "}
+, Summary = "Bicara dengan Dyu"}
+, 
+[11415] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Dyu sepertinya tidak tahu. Bicaralah dengan Magi di sebelahnya. "}
+, Summary = "Bicara dengan Magi"}
+, 
+[11416] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Bicaralah dengan Mark yang bekerja di lantai atas di Banquet Hall. "}
+, Summary = "Bicara dengan Mark"}
+, 
+[11417] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Bicaralah dengan Alice. "}
+, Summary = "Bicara dengan Alice"}
+, 
+[11418] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Kembali ke Tamarin. "}
+, Summary = "Bicara dengan Tamarin"}
+, 
+[11419] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Ambil 15 piring di Ruang Makan dan bawa ke Pencuci Piring di dapur. "}
+, Summary = "Bicaralah dengan Pencuci Piring"}
+, 
+[11420] = {Title = "Why Should I Prepare for the Banquets?", 
+Description = {"Kembali ke Kepala Koki. "}
+, Summary = "Bicara dengan Kepala Koki"}
+, 
+[11421] = {Title = "Banquet: Unexpected Sauce", 
+Description = {"Buat saus dengan master. "}
+, Summary = "Buat Saus"}
+, 
+[11422] = {Title = "Complete Today\'s Sauce", 
+Description = {"Anda telah selesai membuat saus untuk hari ini. Kembalilah lagi besok."}
+, Summary = ""}
+, 
+[11423] = {Title = "Banquet: Griffin Barbecue", 
+Description = {"Buat griffin panggang mengikuti perintah Kepala Koki. "}
+, Summary = "Buat Griffin panggang"}
+, 
+[11424] = {Title = "Banquet: Griffin Barbecue", 
+Description = {"Pindahkan griffin panggang dengan kerak renyah dan daging berair yang dilapisi saus spesial ke ruang makan. "}
+, Summary = "Kirim ke Dining Room"}
+, 
+[11425] = {Title = "Complete Today\'s Grilled Griffin", 
+Description = {"Anda telah selesai membuat griffin panggang untuk hari ini. Kembalilah lagi besok."}
+, Summary = ""}
+, 
+[11426] = {Title = "Banquet: Washing 15 Dishes", 
+Description = {"Ambil 15 piring di Dining Hall dan bawa ke Pencuci Piring di dapur. "}
+, Summary = "Kumpulkan Hidangan"}
+, 
+[11427] = {Title = "Complete Today\'s Dish Collecting", 
+Description = {"Anda telah menyelesaikan mengumpulkan piring untuk hari ini. Kembalilah lagi besok."}
+, Summary = ""}
+, 
+[11428] = {Title = "Ingredient for the Sauce", 
+Description = {"Fresh Flavor"}
+, Summary = ""}
+, 
+[11429] = {Title = "Ingredient for the Sauce", 
+Description = {"Gelatinous Texture"}
+, Summary = ""}
+, 
+[11430] = {Title = "Ingredient for the Sauce", 
+Description = {"Gorgeous Light"}
+, Summary = ""}
+, 
+[11431] = {Title = "Ingredient for the Sauce", 
+Description = {"Tender Taste"}
+, Summary = ""}
+, 
+[12369] = {Title = "Secret Business Relation", 
+Description = {"Bangun hubungan bisnis rahasia "}
+, Summary = "Selesaikan percakapan dengan napi yang mencurigakan"}
+, 
+[14469] = {Title = "Look around the Walther Family", 
+Description = {"Keluarga Wigner tampaknya agak pendiam. Lihatlah sekeliling dan temui Isenhonor yang terlihat kesal. "}
+, Summary = "Lihat sekeliling"}
+, 
+[14470] = {Title = "In Search of the Guardian Knight", 
+Description = {"Ksatria Penjaga saya mungkin tidak tahu apa-apa. Jika Anda harus bertemu dengannya, Anda bisa pergi ke rumah kami di selatan Alberta. "}
+, Summary = "Ke Alberta"}
+, 
+[14471] = {Title = "To the Royal Prison", 
+Description = {"Pasti ada pencuri bernama Big Foot yang terjebak di penjara Istana Prontera. Anda mungkin mendengar sesuatu darinya. Tolong beritahu Isenhonor bahwa saya akan menunggu pesanannya seperti biasa. "}
+, Summary = "Ke Penjara Kerajaan"}
+, 
+[14472] = {Title = "Gourmet Bigfoot", 
+Description = {"Saya mau makan 3 Spicy Fried Bao dan 1 Green Salad. Kamu harus membawa mereka kepadaku untuk mendengarkan ceritaku. "}
+, Summary = "Bawakan makanan"}
+, 
+[14473] = {Title = "To Veins", 
+Description = {"Dia berada di Veins. Dia benar-benar di Veins! "}
+, Summary = "Pergi ke Veins"}
+, 
+[14474] = {Title = "Report to Isenhonor", 
+Description = {"Anda telah menerima surat yang dikirim oleh Isenarm dari Guardian Knight-nya. Ayo kembali ke Isenhonor sekarang. "}
+, Summary = "Laporkan ke Isenhonor"}
+, 
+[14475] = {Title = "To Jurgen", 
+Description = {"Bicaralah lebih banyak dengan Jurgen calon takhta. "}
+, Summary = "Temui Jurgen"}
+, 
+[14476] = {Title = "To Levuiere and His Wife", 
+Description = {"Mengapa kamu tidak pergi minum teh dengan orang tuaku jika kamu punya waktu? Mereka sangat menikmati berbagi cerita dari petualangan "}
+, Summary = "Temui Levuiere dan Istrinya"}
+, 
+[14477] = {Title = "What Is Going on?", 
+Description = {"Katrin, apa terjadi sesuatu pada bayiku? Aku tidak akan bisa hidup jika terjadi sesuatu padanya. "}
+, Summary = "Temui Katrin"}
+, 
+[14478] = {Title = "Searching for the Clue", 
+Description = {"Seorang pelayan ada di sini untuk membersihkan kamar. Mari kita tanyakan tentang keberadaan kotak itu. "}
+, Summary = "Pergi ke Dapur Kerajaan"}
+, 
+[14479] = {Title = "Clean-up out of Apology", 
+Description = {"Siapa lagi disana? Saya tidak tahu ... Saya mungkin ingat jika tempat ini menjadi bersih lagi. Maukah Anda membersihkannya untuk saya? Oh terima kasih. Pertama-tama Anda harus menyeka cetakan di dinding, menghilangkan minyak dan membersihkan lantai. "}
+, Summary = "Ayo mulai bersih-bersih"}
+, 
+[14480] = {Title = "Conquer the Grease", 
+Description = {"Anda membutuhkan campuran range  dan alcohol untuk membersihkan lemak. Bawakan 1 Orange  dan 1 Alcohol "}
+, Summary = "Siapkan bahan untuk pembersihan"}
+, 
+[14481] = {Title = "Conquer the Mold", 
+Description = {"Anda tidak dapat menyingkirkan jamur tanpa kekuatan jenisnya sendiri dan kekuatan dewa. Bawakan 1 Mold Powder dan 1 Holy Water! "}
+, Summary = "Siapkan bahan untuk pembersihan"}
+, 
+[14482] = {Title = "Conquer the Dirt of Devil", 
+Description = {"Untuk menghilangkan target, kamu membutuhkan 1 Lemon dan 1 Powdery Sand! Dapatkan mereka sekarang! Pergilah!"}
+, Summary = "Siapkan bahan untuk pembersihan"}
+, 
+[14483] = {Title = "Report the Completion of the Clean-up", 
+Description = {"Pembersihan selesai. Pergi menemui pembantu untuk melaporkan dan mendengarkan ceritanya. "}
+, Summary = "Temui Pembantu"}
+, 
+[14484] = {Title = "There Was a Furniture Delivery Man", 
+Description = {"Ada seorang pria yang mengantarkan perabotan sepanjang hari. Itu sebabnya saya harus tinggal di sana sepanjang hari untuk membersihkan kamar. Dia pasti dekat kantor desa. Ada banyak toko di area ini "}
+, Summary = "Temukan Delivery Man"}
+, 
+[14485] = {Title = "I Am Upset", 
+Description = {"Oh, saya telah menjadi baik sepanjang hidup saya, dan ini yang saya dapatkan? Oh, aku tidak punya kekuatan untuk hidup ... Namun, 3 Irisan Kepala Sapi dapat menghiburku. "}
+, Summary = "Soul Food"}
+, 
+[14486] = {Title = "I Heard the Story", 
+Description = {"Anda telah mendengar ceritanya. Ayo kembali ke istana untuk melapor ke Jurgen. "}
+, Summary = "Temui Jurgen"}
+, 
+[14487] = {Title = "Please Find the Token of Memory", 
+Description = {"Untuk menghibur adikku, kita mungkin harus membawa hal-hal yang disukai kakakmu. Ayo bawa 10 Sea Stones dan 1 Witherless Rose. Anda bisa mendapatkan Sea Stones saat berburu Medusa. "}
+, Summary = "Temukan Token of Memory"}
+, 
+[14488] = {Title = "Please Deliver My Love", 
+Description = {"Tolong beri tahu dia tentang cintaku padanya. Tolong bantu aku."}
+, Summary = "Temui Pembantu"}
+, 
+[14489] = {Title = "I Have to Turn It Down", 
+Description = {"Saya tidak pernah mengharapkan ini, dan saya merasa tertekan. Selain itu, saya punya alasan mengapa saya tidak dapat melihat seseorang sekarang. Tolong sampaikan kata-kataku padanya tanpa menyakiti perasaannya. "}
+, Summary = "Temui Jurgen"}
+, 
+[14490] = {Title = "My Love Once More", 
+Description = {"Aku ingin menunjukkan hatiku selebar lautan dan hasratku yang tak pernah padam. Tolong sampaikan cintaku padanya dengan 15 Sea Stones yang bisa didapatkan setelah berburu Medusa, dan 1 Witherless Rose. "}
+, Summary = "Hadiah untuk Pembantu"}
+, 
+[14491] = {Title = "I Have to Turn It Down Again", 
+Description = {"Saya minta maaf ... Tapi saya sebenarnya ... Tolong beritahu Pangeran Wigner tentang hal itu tanpa menyakiti perasaannya. "}
+, Summary = "Temui Jurgen"}
+, 
+[14492] = {Title = "There Is a Silver Lining", 
+Description = {"Apakah Anda akan kembali lagi nanti? Cukup waktu untuknya sehingga dia tidak merasa tertekan tanpa melupakanku. Setelah beberapa waktu, saya ingin menyampaikan pendapat saya kepadanya lagi! "}
+, Summary = "Mohon kembali lagi."}
+, 
+[14493] = {Title = "Today I Feel", 
+Description = {"Apa yang harus saya lakukan? Saya lebih menyukai Mary hari ini. Tolong sampaikan cintaku padanya dengan 15 Sea Stones yang bisa didapatkan setelah berburu Medusa, dan 1 Witherless Rose. "}
+, Summary = "Hadiah untuk Pembantu"}
+, 
+[14494] = {Title = "I Have to Turn It Down Again", 
+Description = {"Tolong, saya sangat menghargai perasaannya. Namun, saya tidak bisa menerimanya. Tolong beritahu dia tanpa menyakiti perasaannya. "}
+, Summary = "Temui Jurgen"}
+, 
+[14495] = {Title = "To Wolf", 
+Description = {"Mari kita dengarkan cerita tentang keluarga dari Wolf Roegenburg. "}
+, Summary = "Temui Serigala"}
+, 
+[14496] = {Title = "To Isaac", 
+Description = {"Jika Anda bertemu dengan Isaac dari keluarga Wigner, tolong berikan padanya hal yang saya minta. Kediaman Wigner berada di ujung lorong "}
+, Summary = "Temui Isaac"}
+, 
+[14497] = {Title = "Delivery for Wolf", 
+Description = {"Tolong antarkan kotak itu ke Wolf. Anda harus berhati-hati dengannya. Itu berbahaya. "}
+, Summary = "Antarkan untuk Wolf"}
+, 
+[14498] = {Title = "Which Rumor", 
+Description = {"Jika ada rumor buruk tentang keluarga kami yang beredar di Prontera, saya tidak bisa hanya menunggu dan melihat. Saya perlu tahu rumor apa yang akan membahasnya. Tolong kumpulkan rumornya untuk saya. Anda mungkin mendengarnya dari anak kecil. "}
+, Summary = "Kumpulkan Rumornya"}
+, 
+[14499] = {Title = "Prove Yourself", 
+Description = {"Buktikan bahwa Anda memenuhi syarat untuk mendengarkan ceritanya. Hun 33 Majoruros! Dan bawa istory book of Rune Midgarts dari perpustakaan! Oh, aku juga butuh 12 Soft Silk Cloth! "}
+, Summary = "Buktikan dirimu"}
+, 
+[14500] = {Title = "Complete checking out the book", 
+Description = {"Kamu sudah memeriksa history book dari Rune Midgarts. "}
+, Summary = "Selesaikan memeriksa buku"}
+, 
+[14501] = {Title = "Report to Wolf", 
+Description = {"Karena kamu telah mendengar rumornya, mari kita pergi menemui Wolf dan menceritakan keseluruhan ceritanya. "}
+, Summary = "Laporkan ke Wolf"}
+, 
+[14502] = {Title = "To Isaac", 
+Description = {"Tolong serahkan dokumen ini kepada Isaac. Saya memiliki banyak hal yang harus dilakukan mulai sekarang. Kalau begitu aku membela kamu. "}
+, Summary = "Temui Isaac"}
+, 
+[14503] = {Title = "Report to Wolf", 
+Description = {"Tolong beritahu Wolf bahwa saya menghormati keputusannya dan percaya padanya seperti biasa. "}
+, Summary = "Temui Serigala"}
+, 
+[14504] = {Title = "In Search of Helmut", 
+Description = {"Maukah Anda membujuk Helmut dan membawanya ke saya? Dia akan berada di Schwaltzvalt Border Garrison. "}
+, Summary = "Dalam pencarian di Helmut"}
+, 
+[14505] = {Title = "I Won\'t go Back", 
+Description = {"Tempatku di sini. Tolong beritahu kakek saya itu. "}
+, Summary = "Temui Maximilian"}
+, 
+[14506] = {Title = "Things Turned out This Way", 
+Description = {"Tolong beri tahu Myer yang meninggalkan rumah bahwa keadaan menjadi seperti ini di rumah. Dia mungkin kabur jika salah satu anggota keluarga pergi ke sana. "}
+, Summary = "Temui Myer"}
+, 
+[14507] = {Title = "To Maximilian", 
+Description = {"Ternyata bagus. Semuanya baik-baik saja sekarang. Tolong beritahu dia bahwa aku akan mengunjunginya saat jamuan makan selesai. "}
+, Summary = "Temui Maximilian"}
+, 
+[14508] = {Title = "Jewel and Cloth", 
+Description = {"Mohon bawakan 3 Pearls dan 50 strands of soft hair "}
+, Summary = "Jewel and Cloth"}
+, 
+[14509] = {Title = "Still Making It", 
+Description = {"Saya masih dalam proses membuatnya dengan apa yang telah Anda berikan kepada saya. Saya akan memutuskan apa yang akan dibuat setelah menyelesaikan pekerjaan. Apakah akan kembali setelah fajar? "}
+, Summary = "Tunggu sebentar."}
+, 
+[14510] = {Title = "Pink Petal-like Dress", 
+Description = {"Aku akan membuat gaun seindah kelopak merah muda! Apakah kamu akan membawa 15 Soft Silky Cloth, 30 Red Herbs dan 10 White Herbs untuk mewarnai kain? "}
+, Summary = "Pink Petal"}
+, 
+[14511] = {Title = "Beautiful Flower Decoration", 
+Description = {"Saya akan menghiasnya dengan bunga yang sederhana tapi indah. Tolong berikan saya 5 pretty flowers, 5 bpure flowers dan 5 mysterious flowers "}
+, Summary = "Bunga di Taman"}
+, 
+[14512] = {Title = "Dress of the Night Sky", 
+Description = {"Aku akan membuat gaun gelap seperti langit malam! Saya membutuhkan kain yang lebih gelap dari langit malam. Apakah Anda akan membawa 20 pieces of black cloth? Silahkan."}
+, Summary = "Black Night Sky"}
+, 
+[14513] = {Title = "Shawl of the Blazing Sun", 
+Description = {"Saya ingin membuat selendang yang menyerupai terik matahari di langit. Saya pikir saya membutuhkan 20 hot hairs untuk membuatnya. "}
+, Summary = "Shawl of the Sun"}
+, 
+[14514] = {Title = "Step of the Fairy", 
+Description = {"Aku akan membuat gaun seanggun dan seanggun langkah peri. Yang cantik! Aku butuh 5 splendid fairy wings yang bagus. Cukup membuat gaun yang elegan "}
+, Summary = "Langkah Peri"}
+, 
+[14515] = {Title = "Sparkling Star", 
+Description = {"Saya ingin memerciki gaun itu dengan statistik yang berkilau! Tolong ambilkan 5 star dusts untuk menghias gaun itu. "}
+, Summary = "Sparkling Star"}
+, 
+[14516] = {Title = "Suspicious Shadow", 
+Description = {"Saya mendengar percakapan antara orang yang mencurigakan dan Ian. "}
+, Summary = "Suspicious Shadow"}
+, 
+[14517] = {Title = "Midnight Snack Delivery", 
+Description = {"Kamu mengantarkan snack tengah malam "}
+, Summary = "Pengiriman Camilan Tengah Malam "}
+, 
+[5727] = {Title = "Hilang tiba-tiba", 
+Description = {"Seorang pria bernama Arivero yang tiba-tiba muncul meminta untuk bekerja sama. Dikatakan akan berangkat setelah jam 4 pagi keesokan harinya, jadi mari kita mengunjunginya setelah waktu berlalu .."}
+, Summary = ""}
+, 
+[5728] = {Title = "Sakit Kepala", 
+Description = {"Arivero sepertinya pusing karena rambutnya yang tidak biasa dia gunakan. Mari istirahat dan mulai lagi."}
+, Summary = ""}
+, 
+[5729] = {Title = "Einbroch", 
+Description = {"Pergi ke ruangan belakang kereta barang Einbroch ^ C33120 $ 120. Mari kita ambil objek yang diisi dengan energi ^ 000000."}
+, Summary = ""}
+, 
+[5730] = {Title = "Menghancurkan Alat", 
+Description = {"Tampaknya untuk menghancurkan perangkat, Anda membutuhkan objek yang penuh energi dengan sifat air. Satu tidak cukup, jadi haruskah saya mengambil tiga?"}
+, Summary = ""}
+, 
+[5731] = {Title = "Clana Nemieri", 
+Description = {"Menghancurkan perangkat Einbroch. Ayo kembali ke Clana Nemieri."}
+, Summary = ""}
+, 
+[5732] = {Title = "Lightalzen", 
+Description = {"Informasi diperoleh oleh seorang informan. Ayo bawa 1 Mystic Frozen dan 3 Rough Wind ke tempat yang dikelilingi air di mansion Lighthalzen."}
+, Summary = ""}
+, 
+[5733] = {Title = "Clana Nemieri", 
+Description = {"Menghancurkan Alat Lightalzen. Kembali ke Clana Nemieri."}
+, Summary = ""}
+, 
+[5734] = {Title = "Materi inti selalu menjadi masalah", 
+Description = {"Sulit untuk menolak karena saya telah meminta terlalu berani. Dikatakan bahwa Anda dapat segera memperbaikinya jika Anda hanya membutuhkan satu bintang, jadi ayo kita dapatkan."}
+, Summary = ""}
+, 
+[5735] = {Title = "Yuno", 
+Description = {"Koordinat tempat perangkat dipasang telah dikonfirmasi. Arivero akan mengambil 4 Great Nature dengan koordinat Yuno 206224."}
+, Summary = ""}
+, 
+[5736] = {Title = "Einbroch", 
+Description = {"Rasanya Arivero sedang terburu-buru, seolah dikejar sesuatu. Ambil 3 Frame Hearth dan pergi ke lokasi turbin angin Einbroch."}
+, Summary = ""}
+, 
+[5737] = {Title = "Clana Nemieri", 
+Description = {"Segera setelah perangkatnya hancur, Arivero tiba-tiba menghilang, dan untuk saat ini, apakah kita akan kembali ke Clana Nemieri?"}
+, Summary = ""}
+, 
+[7731] = {Title = "Mengawasi", 
+Description = {"Di Lightalzen, dia memutuskan untuk mencari seorang pelayan bernama Bruno. Pertama, mari bergabung dengan Crux di Bandara Lightalzen."}
+, Summary = "Bicara pada Crux"}
+, 
+[7732] = {Title = "Cari tersangka", 
+Description = {"Untuk menemukan Bruno, dia memutuskan untuk mencari di utara dan timur laut Lightalzen."}
+, Summary = "Temukan Bruno."}
+, 
+[7733] = {Title = "Memburu", 
+Description = {"Saya menemukan ke mana arah Bruno. Ayo beritahu Skia, yang akan menunggu di dekat department store Lightalzen, pergi ke daerah kumuh dan temukan Bruno!"}
+, Summary = "Pencarian Ghetto"}
+, 
+[7734] = {Title = "Menangkap", 
+Description = {"Dia berhasil menangkap Bruno. Pertama, mari kembali ke Istana Kerajaan Frontera dan diskusikan tugas selanjutnya."}
+, Summary = "Bicara dengan Nihil."}
+, 
+[7735] = {Title = "Mengawasi 2", 
+Description = {"Tampaknya situasi tersebut membutuhkan kerjasama dengan informasi dari Republik Schwartzvald. Dia mengawal Spica, yang diam-diam pergi untuk negosiasi. Ayo bergabung di Bandara Yuno."}
+, Summary = "Bicara dengan Crox."}
+, 
+[7736] = {Title = "Berpura-pura menjadi Turis", 
+Description = {"Spica, yang berada di Yuno, dikatakan telah pindah ke Hotel Lighthalzen untuk alasan keamanan. Ayo pergi ke Lighthalzen Hotel dan bertemu dengan Spica; dia menyamar sebagai turis"}
+, Summary = "Percakapan dengan Spica"}
+, 
+[7737] = {Title = "Pemberontakan", 
+Description = {"Kami harus membujuk Pemberontak untuk membantu kami dengan menyusup ke organisasi mereka. Bertemu dengan Malas di dekat Stasiun Kereta Einbroch dia akan membantu Anda dengan negosiasi."}
+, Summary = "Pemberontakan."}
+, 
+[7738] = {Title = "Operasi berikutnya", 
+Description = {"Dengan keberhasilan mendapatkan kerja sama Rebellion, rencana tersebut berjalan dengan cepat. Pergi ke Einbroch Hotel dan dengarkan instruksi berikut ini."}
+, Summary = "Bicara dengan Nihil."}
+, 
+[7739] = {Title = "Temukan Bintang!", 
+Description = {"Lokasi operasinya adalah Einbroch Utara. Ini disebut koordinat 280 332. Mari selesaikan operasi dengan bantuan Pemberontakan dan dapatkan Blessing Star."}
+, Summary = "Blessing Star Recovery."}
+, 
+[7740] = {Title = "Blessing Star Recovery", 
+Description = {"Blessing Star telah pulih. Ayo kembali ke party yang akan menunggu hasil di hotel Einbroch."}
+, Summary = "Bicara dengan Nihil."}
+, 
+[7741] = {Title = "The Return", 
+Description = {"Anda mendapatkan kembali Bintang Berkah. Kembali ke Istana Kerajaan Prontera."}
+, Summary = "Bicara dengan Skia."}
+, 
+[7742] = {Title = "Menghapus", 
+Description = {"Dikatakan bahwa chimera yang kuat muncul di ruang tengah Lab Werner. Rookie meminta untuk mengalahkan monster chimera\'cutie \'."}
+, Summary = "Kill Cutie"}
+, 
+[7743] = {Title = "Remnants swept-waiting", 
+Description = {"Saya tidak tahu bahasa Inggrisnya, tetapi monster chimera terus-menerus muncul. Anda harus menghadapinya setiap hari."}
+, Summary = "04:00 reset"}
+, 
+[7744] = {Title = "Peneliti tersembunyi", 
+Description = {"Ada peneliti yang bersembunyi di dalam Werner Institute. Philofontes meminta Anda untuk menemukannya."}
+, Summary = "Temukan 3 Peneliti"}
+, 
+[7745] = {Title = "Hidden Researcher-Wait", 
+Description = {"[Philofontes]pencarian di Lab Werner sepertinya sedang berlangsung. Jika Anda punya waktu, bantu dia."}
+, Summary = "04:00 reset"}
+, 
+[7746] = {Title = "Sepasang cincin tua", 
+Description = {"Kami mengirimkan kenang-kenangan Siren."}
+, Summary = ""}
+, 
+[7747] = {Title = "Locket pendant", 
+Description = {"Saya menyerahkan Pendant Kathryne Keyron .."}
+, Summary = ""}
+, 
+[7748] = {Title = "Wood Rosary", 
+Description = {"Kami mengirimkan kenangan  Margaretta Sorin."}
+, Summary = ""}
+, 
+[7749] = {Title = "Decorated bow thimble", 
+Description = {"Kami mengirimkan kenangan  Howard Alt-Eisen."}
+, Summary = ""}
+, 
+[7750] = {Title = "Assassin\'s Glyphed Dagger", 
+Description = {"Mengirim kenang-kenangan dari Eremes Guile."}
+, Summary = ""}
+, 
+[7751] = {Title = "Portable hook", 
+Description = {"Mengirim kenang-kenangan Cheryl Daemon."}
+, Summary = ""}
+, 
+[7752] = {Title = "Hide", 
+Description = {"Aku menemukan peneliti yang bersembunyi."}
+, Summary = ""}
+, 
+[7753] = {Title = "Hide", 
+Description = {"Aku menemukan peneliti yang bersembunyi."}
+, Summary = ""}
+, 
+[7754] = {Title = "Hide", 
+Description = {"Aku menemukan peneliti yang bersembunyi."}
+, Summary = ""}
+, 
+[7755] = {Title = "Hide", 
+Description = {"Aku menemukan peneliti yang bersembunyi."}
+, Summary = ""}
+, 
+[7756] = {Title = "Hide", 
+Description = {"Aku menemukan peneliti yang bersembunyi."}
+, Summary = ""}
+, 
+[7757] = {Title = "Hide", 
+Description = {"Aku menemukan peneliti yang bersembunyi."}
+, Summary = ""}
+, 
+[7758] = {Title = "Hide", 
+Description = {"Aku menemukan peneliti yang bersembunyi."}
+, Summary = ""}
+, 
+[7759] = {Title = "Hide", 
+Description = {"Aku menemukan peneliti yang bersembunyi."}
+, Summary = ""}
+, 
+[7760] = {Title = "Hide", 
+Description = {"Saya rasa saya menemukan semua peneliti yang bersembunyi. Ayo lapor kembali ke Tess."}
+, Summary = "Bicara dengan Tess."}
+, 
+[7761] = {Title = "Memburu Chimeras", 
+Description = {"Para kru sedang berjuang untuk menangani spesimen yang mengamuk di dalam lab. Berburu 10 Material Chimera dan 10 Humanoid Chimera."}
+, Summary = "Bunuh Chimera"}
+, 
+[7762] = {Title = "Istirahat ke Chimera - Standby", 
+Description = {"Ini adalah misi harian, Anda dapat mengambilnya kembali setelah cooldown berakhir. Bicaralah dengan Yuslan besok."}
+, Summary = "04:00 reset"}
+, 
+[11454] = {Title = "Kerjasama", 
+Description = {"Anda gagal membujuk Rupert, Pemimpin Pemberontakan. Ayo ketemu orang lain dulu."}
+, Summary = "Ayo ketemu orang lain dulu."}
+, 
+[11455] = {Title = "Kerjasama", 
+Description = {"Kunjungi kamar Dien rebel."}
+, Summary = "Bicara dengan Dien."}
+, 
+[11456] = {Title = "Kerjasama", 
+Description = {"Setelah membahas masalah tersebut, Dien meminta waktu sejenak untuk berpikir. Bicaralah dengan Dien lagi setelah beberapa saat."}
+, Summary = "Bicara dengan Dien."}
+, 
+[11457] = {Title = "Kerjasama", 
+Description = {"Menerima persetujuan dari Dien. Yakinkan salah satu tetua lainnya, Komandan Pasukan Khusus."}
+, Summary = "Bicara dengan Erst."}
+, 
+[11458] = {Title = "Kerjasama", 
+Description = {"Menerima persetujuan dari Erst. Bicara lagi dengan Rupert."}
+, Summary = "Bicara dengan Ruperd."}
+, 
+[11459] = {Title = "Kerjasama", 
+Description = {"Rupert, yang membaca surat dari Dien, meminta Larcis untuk membacanya lagi untuk memastikan semuanya beres. Lihat detailnya dengan Larcis."}
+, Summary = "Bicara dengan Lasis."}
+, 
+[11460] = {Title = "Kerjasama", 
+Description = {"Larcis telah memeriksa isinya dan tidak menemukan ada yang salah. Bicara dengan Rupert."}
+, Summary = "Bicara dengan Rupert."}
+, 
+[11461] = {Title = "Kerjasama", 
+Description = {"Dien muncul selama percakapan dengan Rupert. Bicaralah dengan Dien."}
+, Summary = "Bicara dengan Dien."}
+, 
+[11462] = {Title = "Kerjasama", 
+Description = {"Dien dan Rupert mulai bertengkar tiba-tiba! Mari kita dengarkan cerita Rupert."}
+, Summary = "Bicara dengan Rupert."}
+, 
+[11463] = {Title = "Siap untuk pesta??", 
+Description = {"Mendengar percakapan yang mencurigakan dari kamar Dien, Anda seharusnya tidak mengetahuinya. Pergilah ke kamar dan bicara dengan Dien."}
+, Summary = "Bicara dengan Dien."}
+, 
+[11464] = {Title = "Siap untuk pesta??", 
+Description = {"Dia memberi tahu Lasis tentang pekerjaannya. Ayo bicara dengan Lasis."}
+, Summary = "Bicara dengan Lasis"}
+, 
+[11465] = {Title = "Dien\'s High Class Tea", 
+Description = {"Dien, Veteran Pemberontak, meminta Anda untuk bertemu Julian di timur laut lapangan utara Einbroch. Kalahkan Heart Hunter Evil dan kembalikan High Class Tea."}
+, Summary = "Tugas Dien."}
+, 
+[11466] = {Title = "Dien\'s High Class Tea", 
+Description = {"Menyelesaikan Tugas untuk Dien. Kembalilah besok."}
+, Summary = "Datang lagi!"}
+, 
+[11467] = {Title = "Surat Lama Ridsh", 
+Description = {"Ridsh, Elder of Rebellion, meminta Anda untuk bertemu Julian di timur laut lapangan utara Einbroch. Kalahkan Heart Hunters dan bawa kembali Old Letter .."}
+, Summary = "Tugas Ridsh."}
+, 
+[11468] = {Title = "Surat Lama Ridsh", 
+Description = {"menyelesaikan tugas untuk Ridsh. Kembalilah besok .."}
+, Summary = "Datang lagi!"}
+, 
+[11469] = {Title = "Cincin Mengkilap Cotnes", 
+Description = {"Cotnes, Penatua Pemberontakan, meminta Anda untuk bertemu Julian di timur laut bidang utara Einbroch. Kalahkan Heart Hunters dan kembalikan 4 Very Shiny Rings .."}
+, Summary = "Tugas Cotnes."}
+, 
+[11470] = {Title = "Cotnes\' Shiny Ring", 
+Description = {"Menyelesaikan tugas untuk Cotness. Kembalilah besok."}
+, Summary = "Datang lagi!"}
+, 
+[12374] = {Title = "Heart Hunter War Base", 
+Description = {"Kendalikan jalan menuju markas Hart Hunter dan bangun markas untuk Rebellion."}
+, Summary = "Pekerjaan dasar."}
+, 
+[12375] = {Title = "Konstruksi Dasar", 
+Description = {"Pangkalan sedang dibangun. Kami memblokir akses untuk sementara waktu agar para insinyur melakukan pekerjaan mereka."}
+, Summary = "Pemeliharaan Dasar."}
+, 
+[12376] = {Title = "Kesepakatan Pertama", 
+Description = {"Saya memulai kesepakatan pertama saya dengan manajer peningkatan peralatan."}
+, Summary = "Kesepakatan Pertama."}
+, 
+[14595] = {Title = "Einbroch Train Station", 
+Description = {"Pergi ke stasiun kereta Einbroch dan ikuti jejaknya. Jika kamu kehilangan jejak, ayo bertemu di Stasiun Kereta Einbroch."}
+, Summary = "Stasiun Kereta Go Einbroch."}
+, 
+[14596] = {Title = "Follow the trail", 
+Description = {"Mulai saat ini, jalannya menjadi lebih sulit. Ikuti jejak yang ditandai di minimap Anda. Jika kamu melewatkan informasinya, maka langsung ke bawah."}
+, Summary = "Di sepanjang jalan."}
+, 
+[14597] = {Title = "Corner of Einbroch", 
+Description = {"Pergi ke bagian tenggara Einbroch. Ikuti jejak dengan hati-hati, itu ditandai di minimap Anda."}
+, Summary = "Lihat pada sudut."}
+, 
+[14598] = {Title = "Vestige", 
+Description = {"Menemukan pintu yang mencurigakan di Ruangan. Masuk."}
+, Summary = "Masuk ke pintu."}
+, 
+[14599] = {Title = "A Cup of Tea", 
+Description = {"Anda telah datang jauh-jauh ke sini dan Anda membutuhkan secangkir teh. Jika kamu berbicara dengan Nemi atau Eri, mereka akan membiarkanmu masuk."}
+, Summary = "Masuk ke dalam"}
+, 
+[14600] = {Title = "Pria dari Lantai 2", 
+Description = {"Pertama, pergi ke lantai 2 dan bicara dengan Rupert. Dia tidak akan mudah untuk dibujuk, tapi cobalah."}
+, Summary = "Bicaralah dengan para pria di lantai 2."}
+, 
+[14601] = {Title = "Nyonya dari Lantai 2", 
+Description = {"Temukan wanita di lantai 2 dan bicara padanya. Bersikaplah sesopan mungkin?."}
+, Summary = "Bicaralah dengan wanita di lantai 2."}
+, 
+[14602] = {Title = "Anjing dari Lantai 2", 
+Description = {"Pergi ke Elena di lantai 2 dan bicara padanya. Jika Anda adalah seorang petualang yang sekuat dia, Anda akan diterima, mungkin ..."}
+, Summary = "Bicaralah dengan Elena di lantai 2."}
+, 
+[14603] = {Title = "Bahan untuk Perbaikan Pipa", 
+Description = {"Kumpulkan 5 buah Steel dan 15 Used iron plate untuk memperbaiki pipa. Anda juga harus mengalahkan 10 Waste Stoves. Kembalikan semuanya ke Luke setelah kamu selesai."}
+, Summary = "Membawa material untuk perbaikan."}
+, 
+[14604] = {Title = "Butuh Lebih Banyak Bahan Bakar", 
+Description = {"Kumpulkan 10 Burnt Tree dan 3 Coal. Kamu harus kalahkan 10 Waste Stoves, atau lebih. Dingin sekali. Pergi sebelum Anda membeku! Kembalikan semuanya ke Luke setelah kamu selesai."}
+, Summary = "Bawalah lebih banyak bahan bakar."}
+, 
+[14605] = {Title = "Crystals", 
+Description = {"Kumpulkan 10 Crystal Fragments dan 10 Dark Crystal Fragments. Obsidians dan Minerals harus dikalahkan untuk mendapatkan sumber daya, jadi mengapa tidak mengambil masing-masing lima? Kembalikan semuanya ke Luke setelah kamu selesai."}
+, Summary = "Kumpulkan potongan kristal."}
+, 
+[14606] = {Title = "Bahan untuk Perbaikan Pipa", 
+Description = {"Kumpulkan 5 buah Steel  dan 15 Used Iron Plates untuk memperbaiki. Anda juga harus kalahkan 10 Waste Stoves. Kembalikan semuanya ke Luke setelah kamu selesai."}
+, Summary = "Membawa material untuk perbaikan."}
+, 
+[14607] = {Title = "Butuh Lebih Banyak Bahan Bakar", 
+Description = {"Kumpulkan 10 Burnt Tree dan 3 Coal. Anda juga harus kalahkan 10 Waste Stoves, atau lebih. Dingin sekali. Pergi sebelum Anda membeku! Bawa semuanya kembali ke Luke!."}
+, Summary = "Bawalah lebih banyak bahan bakar."}
+, 
+[14608] = {Title = "Crystals", 
+Description = {"Kumpulkan 10 Crystal Fragments dan 10 Dark Crystal Fragments. Obsidians dan Minerals harus dikalahkan untuk mendapatkan sumber daya, jadi mengapa tidak mengambil masing-masing lima? Bawa semuanya kembali ke Luke?."}
+, Summary = "Kumpulkan potongan kristal."}
+, 
+[14609] = {Title = "Quiet time", 
+Description = {"Saya tidak membutuhkan bantuan petualang sekarang, jadi istirahatlah."}
+, Summary = "Reset 04:00"}
+, 
+[14610] = {Title = "Senjata Rusak", 
+Description = {"Jika Anda pergi ke selatan dari Einbroch, Anda akan menemukan tumpukan kotoran yang mencurigakan di mana-mana. Jika Anda menggalinya, Anda akan mendapatkan senjata rusak yang perlu dikembalikan. Kumpulkan 3 dari mereka. Hati-hati saat menggalinya, dendam bisa muncul. - Tuan."}
+, Summary = "Patah Senjata."}
+, 
+[14611] = {Title = "Senjata yang Rusak", 
+Description = {"Jika Anda pergi ke selatan dari Einbroch, Anda akan menemukan tumpukan kotoran yang mencurigakan di mana-mana. Jika digali, Anda akan mendapatkan Senjata yang Rusak yang harus dikembalikan. Kumpulkan 3 dari mereka. Hati-hati saat menggalinya, dendam bisa muncul. - Tuan .."}
+, Summary = "Senjata yang Rusak."}
+, 
+[14612] = {Title = "Waktunya memperbaiki", 
+Description = {"Guru sedang memperbaiki apa yang Anda bawa sebelumnya. Dia akan berterima kasih jika Anda kembali setelah fajar. - Tuan"}
+, Summary = "Reset at 4:00"}
+, 
+[14613] = {Title = "Erst di Lantai 2", 
+Description = {"Pergi ke lantai 2 dan bicara dengan Erst. Jika kamu membujuknya, tugasmu akan menjadi lebih mudah."}
+, Summary = "Bicaralah dengan Erst di lantai 2"}
+, 
+[14614] = {Title = "Bujukan", 
+Description = {"Kembalilah ke Lazy dan temui yang lain. Jangan pergi dulu dan datang padaku! Petualang ini luar biasa!."}
+, Summary = "Lapor ke Lazy."}
+, 
+[14615] = {Title = "Terlalu Banyak Negosiasi", 
+Description = {"Kami memiliki seseorang yang siap untuk bekerja sama. Bertemu dengan Rebellion Squad di pintu Depan."}
+, Summary = "Untuk Pasukan Pemberontak."}
+, 
+[16009] = {Title = "Battle of the warmonger", 
+Description = {"Pertandingan ulang dengan Elena Bolkova, yang sepertinya sangat menantikannya. Bicaralah dengan Elena Bolkova dan masuk ke ruang tunggu."}
+, Summary = "Kalahkan Elena Bolkova."}
+, 
+[16010] = {Title = "Pertempuran itu dalam kondisi terbaik", 
+Description = {"Elena Bolkova sepertinya tidak ada artinya menang dengan melawan lawan yang sudah kehilangan kekuatan lewat pertarungan. Istirahat dan kembali setelah fajar."}
+, Summary = "Reset 04:00"}
+, 
+[16011] = {Title = "Masuk ke ruang rapat", 
+Description = {"Setelah mempersiapkan pikiranmu, ayo masuk ke medan perang melalui Ivan Ivanov di ruang tunggu."}
+, Summary = "Memasuki Aula Dalian."}
+, 
+[16012] = {Title = "Kembar", 
+Description = {"Elena Volkova bermasalah dengan masalah si kembar berambut perak yang menimpanya. Atas nama Elena, pergilah ke si kembar dan dengarkan ceritanya."}
+, Summary = "Pergi ke Rebecca Twins."}
+, 
+[16013] = {Title = "Kesaksian: Kisah juru masak", 
+Description = {"Mari kita dengar tentang si kembar Revedef dari kompor Pemberontak Milo River."}
+, Summary = "Pergi ke Sungai Milo."}
+, 
+[16014] = {Title = "Kesaksian: Kisah penembak jitu", 
+Description = {"Dengarkan penembak jitu unit Revelion USU, Mason Bender tentang si kembar Revedef."}
+, Summary = "Pergi ke Mason Bender."}
+, 
+[16015] = {Title = "Pain is a light attempt", 
+Description = {"Dia berbicara dengan cepat dan benar-benar ditolak. Mari kita minta bantuan Elena Bolkova."}
+, Summary = "Kembali ke Elena Bolkova."}
+, 
+[16016] = {Title = "Meminjam kebijaksanaan seorang ahli", 
+Description = {"Kunjungi anggota Pemberontakan Ericsson Adler, yang diperkenalkan oleh Elena Bolkova, dan mintalah nasihat tentang si kembar."}
+, Summary = "Pergi ke Ericsson Adler"}
+, 
+[16017] = {Title = "Pengakuan si kembar", 
+Description = {"Kami menyebutkan alasan mengapa si Kembar Levedev harus merepotkan. Kembali ke Elena Bolkova dan ceritakan kisah."}
+, Summary = "Kembali ke Elena Bolkova"}
+, 
+[16018] = {Title = "Star", 
+Description = {"Elena Bolkova meminta dua anak kembar. Ayo bawa kedua anak putus asa itu."}
+, Summary = "Kembali ke Rebecca Twins"}
+, 
+[16019] = {Title = "Solusi Elena Bolkova", 
+Description = {"Apakah kedua anak itu puas dengan solusi Elena Volkova? Yang pasti para petualang memiliki masa depan yang akan terus menderita sejak anak-anak."}
+, Summary = ""}
+, 
+[16020] = {Title = "Nanny setiap hari", 
+Description = {"Jangan lupakan permintaan Elena Bolkova, mari kita kembali ke si kembar setelah fajar dan berbicara dengan mereka."}
+, Summary = "Reset 04:00"}
+, 
+[16021] = {Title = "Layanan: Agen peminjaman buku", 
+Description = {"Ayo pinjam \'^ 0000CD Pusing kalau saya goyang seribu tahun\' dari Pustakawan Muda di Perpustakaan Prontera. Publikasi baru tentang topik guru ahli virtuoso yang telah diguncang oleh angin kencang selama seribu tahun."}
+, Summary = "Kunjungi Perpustakaan Prontera."}
+, 
+[16022] = {Title = "Layanan: Agen peminjaman buku", 
+Description = {"Mari kita pinjam \'^ 0000CD Rebellion, the History of Freedom ^ 000000\' dari Pustakawan Muda di Perpustakaan Frontera. Sejarah kebebasan dan kesenangan diri di antara orang paruh baya yang terbang dalam Pemberontakan yang telah diwariskan sepanjang waktu.!."}
+, Summary = "Kunjungi Perpustakaan Prontera"}
+, 
+[16023] = {Title = "Layanan: Agen peminjaman buku", 
+Description = {"Ayo pinjam \'^ 0000CD No Grood Horizon ^ 000000\' dari Pustakawan Muda di Perpustakaan Frontera. Esai non-fiksi menyentuh yang dengan indah menggambarkan ekologi makhluk yang hidup di Nogro."}
+, Summary = "Kunjungi Perpustakaan Prontera"}
+, 
+[16024] = {Title = "Layanan: Pengiriman buku yang dipinjamkan", 
+Description = {"Saya dengan aman meminjam buku dari Perpustakaan Prontera. Berhati-hatilah untuk tidak kehilangannya, bawa ke Revedev Twins of Rebellion Maukah kamu mengembalikannya?."}
+, Summary = "Kembali menjadi kembar"}
+, 
+[16025] = {Title = "Layanan: penjara bawah tanah eksplorasi pra-penambangan", 
+Description = {"Survei pendahuluan untuk eksplorasi tambang Revedev Twins. Ayo buruan 30 0000CD Pitmen ^ 000000 dan ambil satu ^ 0000CD Gun Powder ^ 000000 ke kembarannya."}
+, Summary = "30 Pitmen, 1 Dry powder"}
+, 
+[16026] = {Title = "Layanan: penjara bawah tanah eksplorasi pra-penambangan", 
+Description = {"Survei pendahuluan untuk eksplorasi tambang Revedev Twins. Ayo berburu ^ 0000CD 20 Benomus and 20 Noxius ^ 000000, dan ambil ^ 0000CD 1 Explosive Powder ^ 000000 ke si kembar."}
+, Summary = "Benomuth, Noxius 20 masing-masing, 1 Explosive Powder"}
+, 
+[16027] = {Title = "Layanan: pengiriman permen", 
+Description = {"The Revedev Twins ingin membagikan kue yang tidak dipanggang dengan baik kepada orang-orang Pemberontakan. Bawakan Milo River beberapa makanan ringan hangat"}
+, Summary = "Mengirim permen ke Milo River"}
+, 
+[16028] = {Title = "Layanan: pengiriman permen", 
+Description = {"The Revedev Twins ingin membagikan kue yang tidak dipanggang dengan baik kepada orang-orang Pemberontakan. Ayo bawakan camilan hangat ke Mason Bender."}
+, Summary = "Mengirim permen ke mason vendors"}
+, 
+[16029] = {Title = "Layanan: pengiriman permen", 
+Description = {"The Revedev Twins ingin membagikan kue yang tidak dipanggang dengan baik kepada orang-orang Pemberontakan. Bawakan camilan hangat untuk Rachel Smith."}
+, Summary = "Mengirimkan Snack ke Rachel Smith"}
+, 
+[16030] = {Title = "Layanan: pengiriman permen", 
+Description = {"The Revedev Twins ingin membagikan kue yang tidak dipanggang dengan baik kepada orang-orang Pemberontakan. Bawakan camilan hangat untuk Ericsson Adler."}
+, Summary = "Mengirimkan Snack ke Ericsson Adler"}
+, 
+[16031] = {Title = "Layanan: pengiriman permen", 
+Description = {"The Revedev Twins ingin membagikan kue yang tidak dipanggang dengan baik kepada orang-orang Pemberontakan. Ayo bawakan camilan hangat ke Elena Bolkova."}
+, Summary = "Pengiriman permen ke Elena Bolkova"}
+, 
+[16032] = {Title = "Refreshments to the elder", 
+Description = {"Sungai Milo sedang mencari makanan penutup yang manis untuk disajikan kepada para sesepuh. Untuk membantunya, ayo bawakan salah satu ^ 0000CD Grape Juice Herbal Tea, Manyeop\'s Black Tea, Herbal Honey Tea, Chocolate Mousse Cake, and Fruit Mix ^ 000000."}
+, Summary = "Membawa hidangan ke Sungai Milo."}
+, 
+[16033] = {Title = "Hanya hal-hal yang manis, dengarkan cerita", 
+Description = {"Ericson Adler memberiku camilan harum untuk dimakan bersama Rebecca Twins. Bawakan beberapa manisan, dan kali ini mari kita dengarkan ceritanya baik-baik agar si kembar bisa menenangkan hati mereka."}
+, Summary = "Kembali ke Rebecca Twins"}
+, 
+[16034] = {Title = "Kue manis sekali sehari", 
+Description = {"Waktu penyegaran para senior sekali sehari. Mari berkunjung lagi setelah fajar."}
+, Summary = "Reset 04:00"}
+, 
+[16035] = {Title = "Pengiriman: revolver peledak", 
+Description = {"Cepat bawa revolver seperti bom waktu yang terus rusak dan serahkan ke Einbroch Blacksmith Guild."}
+, Summary = "Konsultasi di Einbroch Blacksmith Guild"}
+, 
+[16036] = {Title = "Meminjam mata seorang pakar", 
+Description = {"Mari sampaikan hasil yang kita dengar dari Blacksmiths Guild ke Rachel Smith."}
+, Summary = "Kunjungi Rachel Smith"}
+, 
+[16037] = {Title = "Pengadaan material sehari sekali", 
+Description = {"Dikatakan bahwa itu akan bisa bertahan untuk saat ini dengan bahan yang sudah dia bawa. Setelah fajar, mari mampir untuk melihat apakah ada yang bisa kita lakukan untuk membantu."}
+, Summary = "Reset 04:00"}
+, 
+[16038] = {Title = "Pengadaan 2 Oridecon", 
+Description = {"Siapkan 2 ^ 0000CD Oridecon ^ 000000 diminta oleh Rachel Smith."}
+, Summary = "Pengadaan 2 Oridecon"}
+, 
+[16039] = {Title = "Pengadaan 2Elumunium", 
+Description = {"Siapkan dua ^ 0000CD Elumunium ^ 000000 yang diminta oleh Rachel Smith."}
+, Summary = "Pengadaan 2 Elumunium"}
+, 
+[16040] = {Title = "Pengadaan 5 irons", 
+Description = {"Siapkan 5 ^ 0000CD Iron ^ 000000 yang diminta oleh Rachel Smith."}
+, Summary = "Pengadaan 5 Iron"}
+, 
+[16041] = {Title = "Investigasi: Operasi untuk menangkap perburuan berjalan", 
+Description = {"Charity, pertandingan jalan kaki di Rebellion Base, tidak muncul meski sudah lama waktu makan telah berlalu. ^ 0000CD Mari kita berkeliling di bangku kosong Einbroch ^ 000000, bujuk mereka dengan kue ikan teri dan bawa pulang."}
+, Summary = "Mendatangkan Charity dari Einbroch"}
+, 
+[16042] = {Title = "Charity is leisurely", 
+Description = {"Charity sedang bermain di sekitar pangkalan. Sepertinya aman untuk saat ini, jadi ayo kembali setelah fajar."}
+, Summary = "Reset 04:00"}
+, 
+[16043] = {Title = "Investigasi: Operasi untuk menangkap keinginan seseorang", 
+Description = {"Milo River terlihat tak tertahankan karena Charity ingin mengelusnya. Saya tidak berpikir saya akan melakukan hal buruk pada kucing, jadi mari kita berkeliling ^ 0000CD bangku kosong Einbroch ^ 000000 dan pergi memancing dengan kue ikan teri dengan cara yang sama seperti sebelumnya."}
+, Summary = "Mendatangkan Charity dari Einbroch"}
+, 
+[16044] = {Title = "Charity berada di tempat Charity", 
+Description = {"Menemukan Charity! Ayo cepat berpelukan Charity, yang terganggu dengan makan kue ikan teri, dan membawanya ke Milo River."}
+, Summary = "kembali Milo"}
+, 
+[16045] = {Title = "Upacara penghormatan kecil orang tua itu", 
+Description = {"Ericson Adler meminta petualang itu untuk menawarkan bunga kepada penjual bunga di sekitarnya, di bawah papan tanda kecil di selatan Einbroch Lookout. Ayo pergi ke Einbro untuk membantu."}
+, Summary = "Mempersembahkan bunga pada plang di bawah pohon Einbroch"}
+, 
+[16046] = {Title = "Memperoleh Bahan Buket DIY", 
+Description = {"Penjual bunga Einbroch meminta Anda untuk mendapatkannya sendiri karena bahan buket sudah habis. ^ 0000CD Ayo dapatkan 3 Smooth paper ^ 000000 dan kembali."}
+, Summary = "Memperoleh 3 Smooth paper"}
+, 
+[16047] = {Title = "Upacara peringatan yang tenang", 
+Description = {"Saya menerima buket dari penjual bunga. Mari kita letakkan di ^ 000000 di depan sebuah tanda kecil di bawah pohon ^ 0000CD."}
+, Summary = "Menawarkan karangan bunga di bawah pohon"}
+, 
+[16048] = {Title = "Jejak cerita lama", 
+Description = {"Mungkin saya mendengar cerita yang panjang. Sekarang setelah tugas selesai, mari kembali untuk melapor ke Ericsson Adler."}
+, Summary = "Kembali ke Ericsson Adler"}
+, 
+[16049] = {Title = "Fajar yang tenang", 
+Description = {"Bahkan orang mati pun butuh keheningan. Ayo kembali lagi setelah fajar."}
+, Summary = "Reset 04:00"}
+, 
+[16050] = {Title = "Waktunya mengingat", 
+Description = {"Ericson Adler sekali lagi meminta petualang tersebut untuk menawarkan bunga kepada penjual bunga di sekitarnya, di bawah plang kecil di selatan Einbroch Lookout. Ayo pergi ke Einbroch untuk membantu."}
+, Summary = "Mempersembahkan bunga pada tiang di bawah pohon Einbroch"}
+, 
+[16051] = {Title = "Pelatihan Bahan Buket DIY", 
+Description = {"Penjual bunga Einbroch meminta Anda untuk mendapatkannya sendiri, dengan mengatakan bahwa bahan buket sudah habis hari ini. ^ 0000CD Ayo dapatkan 3 Smooth paper ^ 000000 dan kembali."}
+, Summary = "Memperoleh 3 Smooth paper"}
+, 
+[16052] = {Title = "Upacara peringatan yang tenang", 
+Description = {"Hari ini, saya memutuskan untuk meletakkan karangan bunga di depan papan nama kecil di bawah pohon ^ 0000CD ^ 000000. Semoga seorang wanita muda yang meninggal muda di usia muda memiliki kedamaian."}
+, Summary = "Menawarkan karangan bunga di bawah pohon"}
+, 
+[16053] = {Title = "Kisah lama dan abadi.", 
+Description = {"Saya menyelesaikan tugas saya. Mari kembali untuk melaporkan ke Ericsson Adler."}
+, Summary = "Kembali ke Ericsson Adler"}
+, 
+[16054] = {Title = "Strategi Iklan yang berbeda", 
+Description = {"Mason Bender meminta orang Einbroch untuk membagikan brosur toko senjata yang dia tulis dengan semua keterampilan menulisnya."}
+, Summary = "Distribusi selebaran ke Einbroch"}
+, 
+[16055] = {Title = "Iklan: Apakah Anda ingin desa yang bersih?", 
+Description = {"Saya mengirimkan selebaran yang ditulis dengan kursif warna-warni yang tidak berguna ^ 0000CD kepada seorang lelaki tua yang terlihat lelah ^ 000000."}
+, Summary = "Didistribusikan ke orang tua lelah"}
+, 
+[16056] = {Title = "Iklan: Lalu hancurkan semuanya!", 
+Description = {"Selebaran yang dicetak di atas kertas mahal yang tidak berguna ^ 0000CD dengan paksa ditahan sampai habis inspirasi ^ 000000."}
+, Summary = "Didistribusikan untuk inspirasi yang terlihat kelelahan"}
+, 
+[16057] = {Title = "Iklan: Baik untuk balas dendam atas misogini kuno!", 
+Description = {"Selebaran dicetak dengan tinta warna tanpa perlu ^ 0000CD Saya melipat kipas angin ke nenek yang mengantuk ^ 000000"}
+, Summary = "Dibagikan kepada nenek lain yang mengantuk "}
+, 
+[16058] = {Title = "Efek periklanan lambat", 
+Description = {"Mason Bender dengan sabar menunggu kedatangan pelanggan seolah-olah sebagai efek dari iklan. Mari kita kembali mendengar hasilnya setelah subuh."}
+, Summary = "Reset 04:00"}
+, 
+[16059] = {Title = "Strategi periklanan yang berbeda", 
+Description = {"Mason Bender, seolah tidak menyerah, mencoba menjalankan selebaran lagi. Saya lebih suka menghemat biaya mencetak brosur, tapi ..."}
+, Summary = "Distribusi selebaran ke Einbroch"}
+, 
+[16060] = {Title = "Pertempuran bahasa penghasut perang", 
+Description = {"Elena menatapnya dengan tatapan menarik. Bicaralah dengan Elena dan masuk ke ruang tunggu."}
+, Summary = "Kalahkan Elena Bolkova"}
+, 
+[16061] = {Title = "Pertandingan yang adil", 
+Description = {"Bertarung 1 vs 1 dengan Elena."}
+, Summary = ""}
+, 
+[292317] = {Title = "Imlek Raid - Day 1", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Cursed Baphomet^000000 di Memorial Dungeon ^0000ffSealed Shrine^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Cursed Baphomet yang berada di MD Sealed Shrine"}
+, 
+[292318] = {Title = "Imlek Raid - Day 2", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Amdarais^000000 di Memorial Dungeon ^0000ffOld Glast Heim^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Amdarais yang berada di MD Old Glast Heim "}
+, 
+[292319] = {Title = "Imlek Raid - Day 3", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Entwiehen Crothen^000000 di Memorial Dungeon ^0000ffEndless Tower^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Entwiehen Crothen yang berada di MD Endless Tower"}
+, 
+[292320] = {Title = "Imlek Raid - Day 4", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Stefan Jack Earnest Wolf^000000 di Memorial Dungeon ^0000ffSky Fortress^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Stefan Jack Earnest Wolf yang berada di MD Sky Fortress"}
+, 
+[292321] = {Title = "Imlek Raid - Day 5", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Despair God Morocc^000000 di Memorial Dungeon ^0000ffTemple of Demon God^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Despair God Morocc yang berada di MD Temple of Demon God"}
+, 
+[292322] = {Title = "Imlek Raid - Day 6", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Fenrir^000000 di Memorial Dungeon ^0000ffGeffen Magic Tournament^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Fenrir yang berada di MD Geffen Magic Tournament"}
+, 
+[292323] = {Title = "Imlek Raid - Day 7", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Morocc Necromancer^000000 di Memorial Dungeon ^0000ffMorse\'s Cave^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Morocc Necromancer yang berada di MD Morse\'s Cave"}
+, 
+[292324] = {Title = "Imlek Raid - Day 8", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Grim Reaper Ankou^000000 di Memorial Dungeon ^0000ffBios Island^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Grim Reaper Ankou yang berada di MD Bios Island"}
+, 
+[292325] = {Title = "Imlek Raid - Day 9", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000T_W_O^000000 di Memorial Dungeon ^0000ffThe Last Room^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan T_W_O yang berada di MD The Last Room"}
+, 
+[292326] = {Title = "Imlek Raid - Day 10", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Celine Kimi^000000 di Memorial Dungeon ^0000ffHorror Toy Factory^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Celine Kimi yang berada di MD Horror Toy Factory"}
+, 
+[292327] = {Title = "Imlek Raid - Day 11", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Cutie^000000 di Memorial Dungeon ^0000ffWerner Laboratory^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Cutie yang berada di MD Bios Werner Laboratory"}
+, 
+[292328] = {Title = "Imlek Raid - Day 12", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Heart Hunter Evil^000000 di Memorial Dungeon ^0000ffHeart Hunter War Base^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Heart Hunter Evil yang berada di MD Heart Hunter War Base"}
+, 
+[292329] = {Title = "Imlek Raid - Day 13", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Charleston 3^000000 di Memorial Dungeon ^0000ffCharleston Crisis^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Charleston 3 yang berada di MD Charleston Crisis"}
+, 
+[292330] = {Title = "Imlek Raid - Day 14", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Amdarais Hard^000000 di Memorial Dungeon ^0000ffAdvanced Old Glast Heim^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Amdarais Hard yang berada di MD Advanced Old Glast Heim"}
+, 
+[292331] = {Title = "Imlek Raid -  Waktunya Beristirahat", 
+Description = {"Pulihkan dirimu untuk tugas yang baru di esok hari."}
+, Summary = "Kamu bisa menjalankan misi lagi pada pukul 04.00 WIB."}
+, 
+[14683] = {Title = "Mysterious Device", 
+Description = {"Kamu bisa melihat sebuah alat berbentuk Kristal di sekitar tempat kamu berada. Dekati alat itu untuk menggunakannya."}
+, Summary = "Mysterious Device"}
+, 
+[14684] = {Title = "Mysterious Device", 
+Description = {"Protokol Darurat... dimulai.. untuk..menjalankan RT..017 ke.. User... Cool.. Down.. 1 jam..."}
+, Summary = "Cool Down"}
+, 
+[14685] = {Title = "Mysterious Device", 
+Description = {"Protokol Darurat... dimulai.. untuk..menjalankan RT..017 ke.. User... Cool.. Down.. 1 jam..."}
+, Summary = "Cool Down"}
+, 
+[14686] = {Title = "Mysterious Device", 
+Description = {"Protokol Darurat... dimulai.. untuk..menjalankan RT..017 ke.. User... Cool.. Down.. 1 jam..."}
+, Summary = "Cool Down"}
+, 
+[14687] = {Title = "Mysterious Device", 
+Description = {"Protokol Darurat... dimulai.. untuk..menjalankan RT..017 ke.. User... Cool.. Down.. 1 jam..."}
+, Summary = "Cool Down"}
+, 
+[292332] = {Title = "Ramadhan Quest -  Berikan Bantuan Pakaian", 
+Description = {"Kamu bisa membeli baju pada Pengrajin Sarung yang berada di kota Morroc. Dan berikan baju itu kepada kakek renta yang berada di kota Morroc."}
+, Summary = "Berikan baju kepada kakek renta yang berada di kota Morroc."}
+, 
+[292333] = {Title = "Ramadhan Quest -  Sampaikan Rasa Terimakasih", 
+Description = {"Kakek renta sangat berterimakasih padamu dan Abah Usman."}
+, Summary = "Temui Abah Usman dan beritahu pesan dari kakek renta."}
+, 
+[292334] = {Title = "Ramadhan Quest -  Berikan Bantuan Makanan", 
+Description = {"Kamu bisa mmembeli makanan pada Chef Juni yang berada di kota Morroc."}
+, Summary = "Berikan makanan kepada kakek renta yang berada di kota Morroc."}
+, 
+[292342] = {Title = "Louis Lost Adventurer", 
+Description = {"Temukan 5 anggota pasukan kapten Louis yang hilang di tomb of Honor. (Semoga mereka masih hidup)"}
+, Summary = "Temukan 5 Lost Adventurer"}
+, 
+[292343] = {Title = "Laporkan ke Louis", 
+Description = {"Kembali ke Kapten Louis dan laporkan semuanya."}
+, Summary = "Berbicara ke Kapten Louis"}
+, 
+[292344] = {Title = "Cooldown Lost Adventurer", 
+Description = {"Kembali ke Kapten Louis dan laporkan semuanya."}
+, Summary = "Berbicara ke Kapten Louis"}
+, 
+[292345] = {Title = "Kalahkan 50 Eremes Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Eremes di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Eremes"}
+, 
+[292346] = {Title = "Kalahkan 50 Margaretha Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Margaretha di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Margaretha"}
+, 
+[292347] = {Title = "Kalahkan 50 Catherine Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Catherine di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Catherine"}
+, 
+[292348] = {Title = "Kalahkan 50 Cecil Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Cecil di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Cecil"}
+, 
+[292349] = {Title = "Kalahkan 50 Howard Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Howard di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Howard"}
+, 
+[292350] = {Title = "Kalahkan 50 Seyren Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Seyren di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Seyren"}
+, 
+[292351] = {Title = "Kalahkan 50 Randel Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Randel di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Randel"}
+, 
+[292352] = {Title = "Kalahkan 50 Flamel Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Flamel di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Flamel"}
+, 
+[292353] = {Title = "Kalahkan 50 Celia Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Celia di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Celia"}
+, 
+[292354] = {Title = "Kalahkan 50 Chen Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Chen di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Chen"}
+, 
+[292355] = {Title = "Kalahkan 50 Gertie Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Gertie di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Gertie"}
+, 
+[292356] = {Title = "Kalahkan 50 Alphocio Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Alphocio di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Alphocio"}
+, 
+[292357] = {Title = "Kalahkan 50 Trentini Tomb of Honor", 
+Description = {"Kalahkan 50 Normal Trentini di Tomb of honor untuk menyelesaikan quest Tomb Raider investigation."}
+, Summary = "Kalahkan 50 Trentini"}
+, 
+[292358] = {Title = "Cooldown Eremes Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Eremes hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Eremes"}
+, 
+[292359] = {Title = "Cooldown Margaretha Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Margaretha hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Margaretha"}
+, 
+[292360] = {Title = "Cooldown Catherine Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Catherine hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Catherine"}
+, 
+[292361] = {Title = "Cooldown Cecil Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Cecil hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Cecil"}
+, 
+[292362] = {Title = "Cooldown Howard Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Howard hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Howard"}
+, 
+[292363] = {Title = "Cooldown Seyren Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Seyren hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Seyren"}
+, 
+[292364] = {Title = "Cooldown Randel Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Randel hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Randel"}
+, 
+[292365] = {Title = "Cooldown Flamel Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Flamel hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Flamel"}
+, 
+[292366] = {Title = "Cooldown Celia Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Celia hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Celia"}
+, 
+[292367] = {Title = "Cooldown Chen Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Chen hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Chen"}
+, 
+[292368] = {Title = "Cooldown Gertie Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Gertie hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Gertie"}
+, 
+[292369] = {Title = "Cooldown Alphocio Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Alphocio hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Alphocio"}
+, 
+[292370] = {Title = "Cooldown Trentini Tomb of Honor", 
+Description = {"Kamu sudah mengalahkan 50 Trentini hari ini. Beristirahatlah dan kembali besok!"}
+, Summary = "Cooldown Hunt Trentini"}
+, 
+[292371] = {Title = "Instance Raid - Day 6", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Awakened Ferre^000000 di Memorial Dungeon ^0000ffNightmarish Jitterbug^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Awakened Ferre yang berada di MD Nightmarish Jitterbug"}
+, 
+[292372] = {Title = "Instance Raid - Day 8", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Bijou^000000 di Memorial Dungeon ^0000ffRoom of Consciousness^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Bijou yang berada di MD Room of Conciousness"}
+, 
+[292373] = {Title = "Instance Raid - Day 12", 
+Description = {"Tugasmu hari ini adalah kalahkan ^ff0000Stefan J.E. Wolf^000000 di Memorial Dungeon ^0000ffSky Fortress^000000. Harus diselesaikan hari ini."}
+, Summary = "Kalahkan Stefan J.E Wolf yang berada di MD Sky Fortress"}
+, 
+[7776] = {Title = "Tanda Misterius", 
+Description = {"Ada sesuatu yang aneh terjadi di desa, Cari Muyeon sang Soul Linker yang biasa melakukan pensucian di Goa payon!"}
+, Summary = "Tanyakan keberadaan Muyeon, pada orang di depan Goa Payon"}
+, 
+[7777] = {Title = "Apa yang terjadi", 
+Description = {"Kita harus mengetahui apa yang terjadi, ayo ikuti Muyeon!"}
+, Summary = "Pergi ke Payon Palace di arah jam 11 Payon."}
+, 
+[7778] = {Title = "Apa yang Muyeon lihat?", 
+Description = {"Mimpi Muyeon perlahan menjadi nyata? Ayo tanyakan lagi kepadanya."}
+, Summary = "Tanyakan lagi kepada Muyeon"}
+, 
+[7779] = {Title = "Keputus asaan.", 
+Description = {"Kita harus memeriksa apa yang Muyeon lihat."}
+, Summary = "Bicara lagi ke Muyeon"}
+, 
+[7780] = {Title = "Mimpi buruk Desa terbengkalai.", 
+Description = {"Ayo kita periksa illusion dungeon!"}
+, Summary = "Kita harus menemukan Chunghae di Illusion Dungeon."}
+, 
+[7781] = {Title = "Mimpi buruk Desa terbengkalai.", 
+Description = {"Ayo kita periksa illusion dungeon!"}
+, Summary = "Kita harus menemukan Chunghae di Illusion Dungeon."}
+, 
+[7782] = {Title = "Hentikan sang Archmage!", 
+Description = {"Kalahkan Wizard of Truth! Sepertinya dia penyebab semua ini."}
+, Summary = "Kalahkan 1 Wizard of Truth."}
+, 
+[7783] = {Title = "Hentikan sang Archmage! - Cooldown", 
+Description = {"Quest ini sedang cooldown."}
+, Summary = "Kalahkan 1 Wizard of Truth."}
+, 
+[7784] = {Title = "Tanpa Belas Kasih", 
+Description = {"Kalahkan Angry Ninetail."}
+, Summary = "Kalahkan 20 Angry Ninetail."}
+, 
+[7785] = {Title = "Tanpa Belas Kasih - Cooldown", 
+Description = {"Quest ini sedang cooldown."}
+, Summary = "Kalahkan 20 Angry Ninetail."}
+, 
+[7786] = {Title = "Memperingati Arwah leluhur", 
+Description = {"Kalahkan Resentful Archer Skeleton dan buat arwah mereka tenang."}
+, Summary = "Kalahkan 20 Resentful Archer Skeleton."}
+, 
+[7787] = {Title = "Memperingati Arwah leluhur - Cooldown", 
+Description = {"Quest ini sedang cooldown."}
+, Summary = "Kalahkan 20 Resentful Archer Skeleton."}
+, 
+[7788] = {Title = "Lapor kE Muyeon", 
+Description = {"Ayo temui Muyeon di istana Payon."}
+, Summary = "Laporkan apa yang sudah kamu temukan di illusion dungeon."}
+, 
+[8311] = {Title = "Kontes Melon terbesar!", 
+Description = {"Apa kamu pernah mengetahui tentang Melon yang mencurigakan?"}
+, Summary = "Bawakan 10 Sweet Melon"}
+, 
+[8312] = {Title = "Kontes Melon terbesar! - Cooldown", 
+Description = {"Melonnya sudah diukur, coba lagi besok."}
+, Summary = "Coba lagi setelah jam 4 pagi besok."}
+, 
+[8530] = {Title = "Aku akan membuat Jus Melon untukmu!", 
+Description = {"Kamu akan diberikan Sweet Melon Juice jika membawakan 10 Sweet Melon kepada Lavender!"}
+, Summary = "Bawakan 10 Sweet Melon"}
+, 
+[8531] = {Title = "Beli Flour di Aldebaran", 
+Description = {"Lavender meminta dibawakan Organic Flour, Milk dan Sweet Melon. Ada yang menjual Flour di Kota Aldebaran."}
+, Summary = "Bicara dengan Merchant Misterius"}
+, 
+[8532] = {Title = "Antarkan Flour ke Lavender", 
+Description = {"Kita sudah mendapatkan Flour. Ayo bawakan Milk dan Sweet Melon ke Lavender di Geffen."}
+, Summary = "Antarkan Flour ke Lavender"}
+, 
+[8533] = {Title = "Melon Festival Hat (1)", 
+Description = {"Sepupu Lavender \'Nannabi\' mengumpulkan Dalcom Skin. Menurut Lavender, kita bisa membuat Headgear Spesial dengan itu."}
+, Summary = "Bicara dengan Nannabi"}
+, 
+[8534] = {Title = "Melon Festival Hat (2)", 
+Description = {"Nannabi kesulitan membuat Headgear karena kekurangan Dalcom Skin. Bawakan 30 Dalcom Skin kepada dia."}
+, Summary = "Bawakan 30 Dalcom Skin"}
+, 
+[5846] = {Title = "Corridor of Phantom", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Phantom\'s Spirit]<INFO>comodo,214,186,0,101,0</INFO></NAVI> Berikan <ITEM>[Phantom\'s Seal]<INFO>25504</INFO></ITEM> untuk bermain Corridor of Phantom satu jam dalam sehari."}
+, Summary = "Reset at 04:00", NpcNavi = "comodo", NpcPosX = 214, NpcPosY = 186}
+, 
+[17137] = {Title = "Membuat Bouquet Salju", IconName = "ico_ev.bmp", 
+Description = {"Ingin membuat bouquet salju? Pupil menjatuhkan <ITEM>[Magical Snow Flower]<INFO>25425</INFO></ITEM> Bawakan 10 ke <NAVI>[tempat ini]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."}
+, Summary = "10 Magical Snow Flower"}
+, 
+[17138] = {Title = "Membuat Bouquet Salju", IconName = "ico_ev.bmp", 
+Description = {"Jika kamu berminat untuk membuat bouquet salju, kunjungi <NAVI>[Fantasy Snowflake]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>."}
+, Summary = "Menuju Fantasy Snowflake"}
+, 
+[17139] = {Title = "Musim dingin yang hangat", IconName = "ico_ev.bmp", 
+Description = {"Salju putih untuk area yang tidak ada saljunya, dan pakaian hangat untuk tempat yang dingin! Kunjungi <NAVI>[Courtney]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> jika kamu ingin menolong musim dingin yang hangat."}
+, Summary = "Temui Courtney"}
+, 
+[17140] = {Title = "Festival Card Exchange", IconName = "ico_ev.bmp", 
+Description = {"Kamu menemukan kartu spesial dari Gift Box? Maka kunjungi <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI> kamu bisa mendapatkan hadiah spesial."}
+, Summary = "Temui Twinkle"}
+, 
+[17141] = {Title = "Persiapan Event", IconName = "ico_ev.bmp", 
+Description = {"Bagaimana jika bertemu dengan yang sudah bersiap untuk festival dan dengarkan cerita dibalik event ini? Temui <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>."}
+, Summary = "Temui Eugene"}
+, 
+[17142] = {Title = "Membuat Bouquet Salju", IconName = "ico_ev.bmp", 
+Description = {"Untuk membuat bouquet salju dibutuhkan 10 <ITEM>[Magical Snow Flower]<INFO>25425</INFO></ITEM>. Boneka salju menginginkan 1 Carrot untuk meghias hidung mereka <ITEM>[Carrot]<INFO>515</INFO></ITEM>. - <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "Kumpulkan 10 Magical Snow Flower, dan 1 Carrot"}
+, 
+[17143] = {Title = "Cuaca: Sisa udara dingin", IconName = "ico_ev.bmp", 
+Description = {"Magical Snowflake masih tersisa. Kembali lagi setelah fajar. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "Reset Pukul 04:00"}
+, 
+[17144] = {Title = "Musim Salju yang Hangat", IconName = "ico_ev.bmp", 
+Description = {"Salju bagi anak-anak yang tidak pernah melihat salju! Baju katun untuk anak-anak di daerah dingin. Bawakan 10 <ITEM>[Warm Cotton]<INFO>25426</INFO></ITEM> ke <NAVI>[Courtney]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>!"}
+, Summary = "10 Warm Cotton"}
+, 
+[17145] = {Title = "Menunggu: Katun sedang dikemas", IconName = "ico_ev.bmp", 
+Description = {"Katun sedang dikemas sekarang. Pengemasannya sepertinya akan selesai saat fajar nanti, kembalilah setelah fajar! - <NAVI>[Courtney]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"}
+, Summary = "Reset Pukul 04:00"}
+, 
+[17146] = {Title = "Festival Card Exchange", IconName = "ico_ev.bmp", 
+Description = {"Kata keberuntungan petualang adalah ALDEBARAN!! Buka Snowflake Card Evelope dari Gift Box. Kamu bisa mengumpulkan kumpulan hurufnya  agar menjadi A.L.D.E.B.A.R.A.N . Total ada 9 Kartu. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Kumpulkan Kartu ALDEBARAN"}
+, 
+[17147] = {Title = "Festival Card Exchange", IconName = "ico_ev.bmp", 
+Description = {"Kata keberuntungan petualang adalah SNOW!! Buka Snowflake Card Evelope dari Gift Box. Kamu bisa mengumpulkan kumpulan hurufnya agar menjadi S.N.O.W . Total ada 4 Kartu. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Kumpulkan Kartu SNOW"}
+, 
+[17148] = {Title = "Festival Card Exchange", IconName = "ico_ev.bmp", 
+Description = {"Kata keberuntungan petualang adalah FESTIVAL!! Buka Snowflake Card Evelope dari Gift Box. Kamu bisa mengumpulkan kumpulan hurufnya agar menjadi F.E.S.T.I.V.A.L .Total ada 8 Kartu. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Kumpulkan Kartu FESTIVAL"}
+, 
+[17149] = {Title = "Festival Card Exchange", IconName = "ico_ev.bmp", 
+Description = {"Kata keberuntungan petualang adalah SPARKLE!! Buka Snowflake Card Evelope dari Gift Box. Kamu bisa mengumpulkan kumpulan hurufnya agar menjadi  S.P.A.R.K.L.E. Total ada 7 Kartu. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Kumpulkan Kartu SPARKLE"}
+, 
+[17150] = {Title = "Menunggu: Tukar kartu 1 kali sehari", IconName = "ico_ev.bmp", 
+Description = {"Penukaran kartu hanya bisa 1 kali dalam 1 hari. Kembali lagi nanti setelah fajar. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Reset Pukul 04:00"}
+, 
+[17151] = {Title = "Tidak ada yang suka", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI> dan Rigel mengatakan mereka memiliki rencana dan menyuruh mereka untuk berdekatan bersamaan."}
+, Summary = "Bicara dengan Eugene"}
+, 
+[17152] = {Title = "Tidak ada yang suka", IconName = "ico_ev.bmp", 
+Description = {"Bawakan 10 <ITEM>[Flower]<INFO>712</INFO></ITEM> .Aku pernah melihatnya di Geffen <NAVI>[Flower Merchant]<INFO>geffen,161,83,0,101,0</INFO></NAVI>."}
+, Summary = "Geffen\'s Flower Merchant"}
+, 
+[17153] = {Title = "Tidak ada yang suka", IconName = "ico_ev.bmp", 
+Description = {"Mr. Rigel berkata dia pernah bekerja di Lutie <NAVI>[Toy Factory]<INFO>xmas_dun01,128,154,0,101,0</INFO></NAVI>. Jika kamu kesana, mungkin kamu bisa dapat sesuatu."}
+, Summary = "Lutie Toy Factory"}
+, 
+[17154] = {Title = "Tidak ada yang suka", IconName = "ico_ev.bmp", 
+Description = {"Euegene bilang dia akan pergi ke Lutie menggunakan <NAVI>[Kereta]<INFO>xmas,204,223,0,101,0</INFO></NAVI>. Jika kamu kesana, mungkin kamu bisa dapat sesuatu."}
+, Summary = "Rel Kereta Lutie"}
+, 
+[17155] = {Title = "Tidak ada yang suka", IconName = "ico_ev.bmp", 
+Description = {"Ayo kembali dan ajak <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI> dan Rigel di Snowflae Festival dengan 10 Bunga."}
+, Summary = "Temui Eugene"}
+, 
+[17156] = {Title = "Tidak ada yang suka", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Rigel]<INFO>aldebaran,107,164,0,101,0</INFO></NAVI> nampaknya ingin menyelesaikan rencananya. Apa ada cara untuk ?"}
+, Summary = "Bicara dengan Rigel"}
+, 
+[17157] = {Title = "Growing Pupil", IconName = "ico_ev.bmp", 
+Description = {"Kamu membutuhxkan Air Bersih untuk menimbulkan Magical Snow Flake di Mata Anda. Bawa 5 Holy Water. - <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>"}
+, Summary = "5 Holy Water"}
+, 
+[17158] = {Title = "Menunggu: membesarkan pupil", IconName = "ico_ev.bmp", 
+Description = {"Kamu bisa membesarkan Magical Snow Flake dengan Holy Water yang kamu bawa. Kembali lagi setelah fajar. - <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>"}
+, Summary = "Reset Pukul 04:00"}
+, 
+[292377] = {Title = "Anak Panti yang hilang", IconName = "ico_ev.bmp", 
+Description = {"Temukan anak anak yang dihipnotis Ninetails di Goa Payon."}
+, Summary = "Cari di Goa terdalam , di tengah peta."}
+, 
+[292378] = {Title = "Kembalilah dan lapor ke Bunda Yoona", IconName = "ico_ev.bmp", 
+Description = {"Sampaikan berita duka ini ke Bunda Yoona."}
+, Summary = "Paling tidak anak anak itu terlihat bahagia."}
+, 
+[292379] = {Title = "Cooldown : Kembalilah ke Bunda Yoona lain waktu", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown,>"}
+, Summary = "Reset Pukul 04:00"}
+, 
+[292380] = {Title = "Finding The Lost Knight", IconName = "ico_ev.bmp", 
+Description = {"Commander Roland kehilangan para knightnya, Temukan 5 Lost Knight."}
+, Summary = "Gunakan Portal ke Prontera Invasion dan temukan 5 Knight yang hilang"}
+, 
+[292381] = {Title = "Lapor ke Rolland", IconName = "ico_ev.bmp", 
+Description = {"Kamu telah berhasil menemukan 5 Lost knight,"}
+, Summary = "Lapor ke Roland di Prontera"}
+, 
+[292382] = {Title = "Cooldown : Finding The Lost Knight", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown,"}
+, Summary = "Reset Pukul 04:00"}
+, 
+[292383] = {Title = "King Poring Hunt", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan King Poring dan pasukannya,"}
+, Summary = "Kalahkan 1 King Poring, 1 Lost Baphomet, 1 Lost Moonlight"}
+, 
+[292384] = {Title = "Cooldown : King Poring Hunt", IconName = "ico_ev.bmp", 
+Description = {"Kembalilah ke Knight Petarung esok hari,"}
+, Summary = "Reset Pukul 04:00"}
+, 
+[14652] = {Title = "Sejarah Geffen Dungeon", IconName = "ico_ev.bmp", 
+Description = {"Kita harus mencari tahu apa yang terjadi,"}
+, Summary = "Pergi ke Priest Grimm"}
+, 
+[14653] = {Title = "Catatan Penyihir Misterius", IconName = "ico_ev.bmp", 
+Description = {"Priest Grimm menemukan Catatan Penyihir bernama \'Bomi\', ayo periksa catatan itu ,"}
+, Summary = "Bicara dengan Priest Grimm"}
+, 
+[14654] = {Title = "Sebuah catatan penelitian dari Bomi?", IconName = "ico_ev.bmp", 
+Description = {"Catatan yang ditemukan oleh Priest Grimm sepertinya adalah Catatan penelitian Mage Bomi,"}
+, Summary = "Ayo bicara lagi ke Priest Grimm"}
+, 
+[14655] = {Title = "Illusion Vampire?", IconName = "ico_ev.bmp", 
+Description = {"Priest Grimm akan memintamu mencari Jojo dan Jubilee, sepertinya mereka ada di Illusion Vampire. Ayo pergi ke Illusion Vampire!"}
+, Summary = "Ayo bicara ke Priest Grimm"}
+, 
+[14656] = {Title = "Cari Party dari Priest Grim", IconName = "ico_ev.bmp", 
+Description = {"Bicara pada Priest Gem yang ada di Illusion Vampire, dia akan menjelaskan situasinya. Dengarkan penjelasannya dan ayo cari Jojo dan Jubilee"}
+, Summary = "Bicara ke Priest Gem"}
+, 
+[14657] = {Title = "Cari Wizard bernama Jojo", IconName = "ico_ev.bmp", 
+Description = {"Priest Gem memintamu untuk mencari Jojo, Ayo cek di bagian barat daya Illusion Vampire"}
+, Summary = "Temukan Jojo"}
+, 
+[14658] = {Title = "Cari Priest bernama Jubilee", IconName = "ico_ev.bmp", 
+Description = {"Priest Gem memintamu untuk mencari Jubilee, ayo pergi ke arah Timur bersama Marina"}
+, Summary = "Temukan Jubilee"}
+, 
+[14659] = {Title = "Misteri sang Mage Bomi", IconName = "ico_ev.bmp", 
+Description = {"Kamu bertemu dengan sang pemilik catatan misterius, Bomi. Sepertinya dia itu abadi,"}
+, Summary = "Bicara pada Bomi"}
+, 
+[14660] = {Title = "Bahan darah palsu", IconName = "ico_ev.bmp", 
+Description = {"Bomi itu Vampire?!!! Dia bertahan dengan darah palsu buatannya, Kumpulkan Mushroom Sap dan Sticky Blood dari para monster. Kalahkan 5 Matte Draniliar, 5 Illusion Black Mushroom dan Kumpulkan 10 Mushroom Sap dan 10 Sticky Blood"}
+, Summary = "Selesaikan permintaan dari Bomi"}
+, 
+[14661] = {Title = "Cari Wizard bernama Jojo Part 2", IconName = "ico_ev.bmp", 
+Description = {"Setelah kamu bertanya keberadaan Jojo ke Bomi, Ayo cari dia di arah tenggara dari dungeon,"}
+, Summary = "Temukan Jojo"}
+, 
+[14662] = {Title = "Kecemasan Sang King", IconName = "ico_ev.bmp", 
+Description = {"King seperti mendengar sesuatu yang berbahaya, coba pastikan lagi dengan bicara padanya,"}
+, Summary = "Bicara dengan King"}
+, 
+[14663] = {Title = "Pertarungan Berdarah", IconName = "ico_ev.bmp", 
+Description = {"King merasakan ada pertarungan yang terjadi disekitar sini, dia memintamu untuk pergi mengecek Bomi,"}
+, Summary = "Ayo temui Bomi"}
+, 
+[14664] = {Title = "Kesalahpahaman yang mendalam", IconName = "ico_ev.bmp", 
+Description = {"Kamu berhasil menghentikan pertikaian yang terjadi antara para Orang Gereja, Bomi, dan para Vampire."}
+, Summary = "Bicara pada Bomi"}
+, 
+[14665] = {Title = "Perebutan?", IconName = "ico_ev.bmp", 
+Description = {"Laporkan apa yang barusaja kamu bicarakan dan semua yang kamu ketahui ke Sister Gem yang berada di dekat pintu masuk dungeon,"}
+, Summary = "Temui Sister Gem"}
+, 
+[14666] = {Title = "Tugas Sang Pengamat", IconName = "ico_ev.bmp", 
+Description = {"Sister Gem akhirnya sepakat untuk tidak membunuh Bomi dan Para Vampire, tetapi harus ada yang tinggal untuk memastikan mereka tidak berbuat jahat,"}
+, Summary = "Temui Priest Grimm"}
+, 
+[14667] = {Title = "Kirimkan Zombie ke tanah", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10, Restless Dead (Fast), 10 Restless Dead, 10 Restless Dead (Ghoul) ,"}
+, Summary = "Kalahkan semua jenis zombie"}
+, 
+[14668] = {Title = "Cooldown : Kirimkan Zombie ke tanah", IconName = "ico_ev.bmp", 
+Description = {"Kembalilah lagi esok hari,"}
+, Summary = "Reset : Pukul 4 Pagi"}
+, 
+[14669] = {Title = "Mimpi Indah", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Sweet Nightmare dan dapatkan 20 Wavy Mane,"}
+, Summary = "Kalahkan Sweet Nightmare"}
+, 
+[14670] = {Title = "Cooldown : Mimpi Indah", IconName = "ico_ev.bmp", 
+Description = {"Kembali lagi esok hari"}
+, Summary = "Reset : Pukul 4 Pagi"}
+, 
+[14671] = {Title = "Darah Palsu mencemaskan", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 5 Illusion Black Mushroom, 5 Matte Drainliar, dan kumpulkan 10 Sticky Blood serta 10 Mushroom Saps"}
+, Summary = "Selesaikan Permintaan Bomi"}
+, 
+[14674] = {Title = "Cooldown : Darah Palsu mencemaskan", IconName = "ico_ev.bmp", 
+Description = {"Kembali lagi esok hari"}
+, Summary = "Reset : Pukul 4 Pagi"}
+, 
+[14675] = {Title = "Kelelawar yang berisik", IconName = "ico_ev.bmp", 
+Description = {"King sangat terganggu dengan suara bising Matte Drainliar, Kalahkan 10 Matt Drainiliar dan kumpulkan 20 Short Bat Hair"}
+, Summary = "Selesaikan Permintaan King"}
+, 
+[14676] = {Title = "Cooldown : Kelelawar yang berisik", IconName = "ico_ev.bmp", 
+Description = {"Kembali lagi esok hari"}
+, Summary = "Reset : Pukul 4 Pagi"}
+, 
+[14677] = {Title = "Penerangan untuk Jojo", IconName = "ico_ev.bmp", 
+Description = {"Jojo sedang melakukan penelitian di dungeon ini, tetapi ia kesulitan menulis karena gelap, kumpulkan 10 Cluster of Nightmare dan 10 Shining Spore."}
+, Summary = "Kumpulkan semuanya"}
+, 
+[14678] = {Title = "Cooldown : Penerangan untuk Jojo", IconName = "ico_ev.bmp", 
+Description = {"Kembali lagi ke Jojo esok hari"}
+, Summary = "Reset : Pukul 4 pagi."}
+, 
+[14679] = {Title = "Keingintahuan Mojo", IconName = "ico_ev.bmp", 
+Description = {"Kumpulkan 10 Dried Yggdrasil Leaf, 10 Suspicious Pentagram, dan Kalahkan 5 Restless Dead (Fast) serta Restless Dead"}
+, Summary = "Selesaikan Semuanya."}
+, 
+[14680] = {Title = "Cooldown : Keingintahuan Mojo", IconName = "ico_ev.bmp", 
+Description = {"Kembali lagi esok hari"}
+, Summary = "Reset : Pukul 4 pagi."}
+, 
+[4154] = {Title = "Hommunculus Research Terminator", 
+Description = {"Kita mendapatkan informasi pengembangan Hommunculus dari Viorel."}
+, Summary = "Ayo pelajari cara menembus batas level Hommunculus."}
+, 
+[4155] = {Title = "Homunculus Research Terminator - Ongoing", 
+Description = {"Temui NPC Viorel di Rumahnya dan pelajari tentang evolusi Hommun."}
+, Summary = "Pergi ke rumah Viorel"}
+, 
+[4156] = {Title = "Homunculus Research Terminator - Ongoing", 
+Description = {"Viorel bilang pergi temui Jaina"}
+, Summary = "Pergi ke rumah Jaina"}
+, 
+[4157] = {Title = "Homunculus Research Terminator - Ongoing", 
+Description = {"Kamu sudah bertanya ke Jaina, dia bilang silahkan cek Magic Board di ruangannya."}
+, Summary = "Periksan Magic Board"}
+, 
+[4158] = {Title = "Homunculus Research Terminator - Ongoing", 
+Description = {"Setelah kamu mendapatkan info dari Magic Board, lapor kembali ke Jaina."}
+, Summary = "Bicara ke Jaina"}
+, 
+[4159] = {Title = "Homunculus Research Terminator - Ongoing", 
+Description = {"Jaina mengembalikan Hommun ke bentuk Embryo yang aneh, antarkan embryo ke Viorel, bicara pada Jaina untuk pergi ke Viorel."}
+, Summary = "Bicara ke Jaina"}
+, 
+[4160] = {Title = "Homunculus Research Terminator - Ongoing", 
+Description = {"Tunjukan pada Viorel Embryo yang aneh itu, Jaina bilang dia bisa membangkitkannya."}
+, Summary = "Ayo bangkitkan Embryo dengan Viorel."}
+, 
+[15110] = {Title = "Frozen : Kumpulkan 10 Dry Twig", IconName = "ico_ev.bmp", 
+Description = {"Ada orang aneh yang bernama Zeith dan Vrid membeku dan membutuhkan 10 Dry Twig untuk membuat api. Kumpulkan Dry Twig dari Dry Soil yang ada di dungeon Illusion Frozen."}
+, Summary = "Ayo kumpulkan 10 Dry Twig."}
+, 
+[15111] = {Title = "Frozen : Kalahkan 10 Angry Ice Titan", IconName = "ico_ev.bmp", 
+Description = {"Dry twig yang kamu gunakan sebelumnya tidak berhasil. Kalahkan 10 Angry Ice Titan dan pecahkan es dengan es!."}
+, Summary = "Kalahkan 10 Angry Ice Titan."}
+, 
+[15112] = {Title = "Frozen : Pecahkan Es Zeith!", IconName = "ico_ev.bmp", 
+Description = {"Ayo pecahkan es yang membekukan Zeith dengan kekerasan!! Pukul Zeith!"}
+, Summary = "Pecahkan es yang mengelilingi Zeith."}
+, 
+[15113] = {Title = "Frozen : Pecahkan Es Vrid!", IconName = "ico_ev.bmp", 
+Description = {"Ayo pecahkan es yang membekukan Vrid dengan kekerasan!! Pukul Vrid!"}
+, Summary = "Pecahkan es yang mengelilingi Vrid."}
+, 
+[15114] = {Title = "Frozen : Kalahkan Awakenened Ktullanux!", IconName = "ico_ev.bmp", 
+Description = {"Ayo kalahkan Awakened Ktullanux!"}
+, Summary = "Kalahkan Awakened Ktullanux."}
+, 
+[15115] = {Title = "Frozen : Cooldown Zeith & Vrid", IconName = "ico_ev.bmp", 
+Description = {"Quest menolong Zeith dan Vrid sedang dalam Cooldown."}
+, Summary = "Reset Pukul 04.00 Pagi."}
+, 
+[15116] = {Title = "Frozen : TEST", IconName = "ico_ev.bmp", 
+Description = {"TEST."}
+, Summary = "TEST."}
+, 
+[15117] = {Title = "Frozen : Kalahkan 10 Angry Gazeti", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Angry Gazeti."}
+, Summary = "Kalahkan 10 Angry Gazeti."}
+, 
+[15118] = {Title = "Frozen : Kalahkan 10 Angry Snowier", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Angry Snowier."}
+, Summary = "Kalahkan 10 Angry Snowier."}
+, 
+[15119] = {Title = "Frozen : Kalahkan 10 Solid Icicle", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Solid Icicle."}
+, Summary = "Kalahkan 10 Solid Icicle."}
+, 
+[12415] = {Title = "Illusion Enchant Equipment", IconName = "ico_ev.bmp", 
+Description = {"TEST"}
+, Summary = "TEST"}
+, 
+[16096] = {Title = "Illusion Turtle 1", IconName = "ico_ev.bmp", 
+Description = {"Knight Aylvar memindahkanmu ke Illusion Turtle, ayo jelajahi tempat ini. Bicaralah pada NPC girl"}
+, Summary = "Bicara ke NPC Girl"}
+, 
+[16097] = {Title = "Cari sosok misterius 1", IconName = "ico_ev.bmp", 
+Description = {"NPC Gadis kecil memberitahuku untuk pergi ke beberapa spot di Illusion Turtle. Pergi ke arah jam 11"}
+, Summary = "Pergi ke room 1 arah jam 11"}
+, 
+[16098] = {Title = "Cari sosok misterius 2", IconName = "ico_ev.bmp", 
+Description = {"NPC Gadis kecil memberitahuku untuk pergi ke beberapa spot di Illusion Turtle. Pergi ke arah jam 2."}
+, Summary = "Pergi ke room 1 arah jam 2"}
+, 
+[16099] = {Title = "Cari sosok misterius 3", IconName = "ico_ev.bmp", 
+Description = {"NPC Gadis kecil memberitahuku untuk pergi ke beberapa spot di Illusion Turtle. Pergi ke tengah room 2."}
+, Summary = "Pergi ke tengah room 2"}
+, 
+[16100] = {Title = "Cari sosok misterius 4", IconName = "ico_ev.bmp", 
+Description = {"Akhirnya kamu mendapatkan cukup petunjuk untuk menemukan Leiphen. Pergi ke room 2 arah jam 11."}
+, Summary = "Pergi ke room 2 arah jam 11."}
+, 
+[16101] = {Title = "Emergency food 1", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan masing masing 10: Ominous Permeter dan Ominous Solider serta kumpulkan 10 Rotten meat."}
+, Summary = "Selesaikan dan lapor ke Leiphen"}
+, 
+[16102] = {Title = "Emergency food 2", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan masing masing 10: Ominous Freezer dan Ominous Heater serta kumpulkan 10 Rotten meat."}
+, Summary = "Selesaikan dan lapor ke Leiphen"}
+, 
+[16103] = {Title = "Rahasia sosok misterius", IconName = "ico_ev.bmp", 
+Description = {"Seperti yang Leiphen bilang, kita harus pergi ke tengah turtle palace (room 2) dan temui Fragile Woman."}
+, Summary = "Temui NPC Fragile Woman"}
+, 
+[16104] = {Title = "Kisah yang terlupakan", IconName = "ico_ev.bmp", 
+Description = {"Ayo segera kabur ke turtle village (room 1) dan temui NPC girl."}
+, Summary = "Temui NPC Girl"}
+, 
+[16105] = {Title = "Cooldown - Janji tak terlupakan", IconName = "ico_ev.bmp", 
+Description = {"Kamu bisa menemui NPC Girl esok hari untuk mendapat Quest."}
+, Summary = "Reset Pulul 04.00"}
+, 
+[16106] = {Title = "Memory tak terlupakan 1", IconName = "ico_ev.bmp", 
+Description = {"Ayo temui Leiphen di Illusion Turtles Palace."}
+, Summary = "Bicara ke Leiphen"}
+, 
+[16107] = {Title = "Memory tak terlupakan 2", IconName = "ico_ev.bmp", 
+Description = {"Ayo kembali ke NPC Girl bersama Leiphen."}
+, Summary = "Temui NPC Girl"}
+, 
+[16108] = {Title = "Cooldown - Memory tak terlupakan", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kamu dapat menemui NPC Girl apabila cooldown sudah selesai."}
+, Summary = "Reset pukul 04.00"}
+, 
+[16109] = {Title = "Keinginan sia-sia", IconName = "ico_ev.bmp", 
+Description = {"Quest ini dari susceptible soldier, Kalahkan 10 Ominous Assaulter, dan berikan juga 5 Old metal pieces ."}
+, Summary = "Selesaikan dan laporkan"}
+, 
+[16110] = {Title = "Cooldown - Keinginan Sia sia", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, temui kembali npc susceptible soldier apabila cooldown sudah selesai."}
+, Summary = "Reset pukul 04.00"}
+, 
+[16111] = {Title = "Endless Hunger 1", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Ominous Permeter, 10 Ominous Solider dan kumpulkan 10 Rotten Meat."}
+, Summary = "Selesaikan dan lapor ke Fragile Woman"}
+, 
+[16112] = {Title = "Endless Hunger 2", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Ominous Freezer, 10 Ominous Heater dan kumpulkan 10 Rotten Meat.."}
+, Summary = "Selesaikan dan lapor ke Fragile Woman"}
+, 
+[16113] = {Title = "Cooldown - Endless Hunger", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kamu bisa menemui Fragile Woman apabila cooldown nya sudah selesai."}
+, Summary = "Reset pukul 04.00"}
+, 
+[16114] = {Title = "Talk with Eilbar", IconName = "ico_ev.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16115] = {Title = "Talk with Girl", IconName = "ico_ev.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16116] = {Title = "Kisah lanjutan 1", IconName = "ico_ev.bmp", 
+Description = {"Ayo Bicara lagi ke NPC Girl."}
+, Summary = "Bicara ke NPC Girl"}
+, 
+[16117] = {Title = "Kisah lanjutan 2", IconName = "ico_ev.bmp", 
+Description = {"Ayo Bicara lagi ke NPC Girl."}
+, Summary = "Bicara ke NPC Girl"}
+, 
+[12421] = {Title = "Crack of Dimension - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest Cooldown, Kembali lagi esok hari."}
+, Summary = "Reset Pukul 04.00 WIB"}
+, 
+[12422] = {Title = "Request from Transcendentalist", IconName = "ico_ev.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[12423] = {Title = "Crack of Dimmension", IconName = "ico_ev.bmp", 
+Description = {"Varmund meminta bantuanmu, kamu harus menghalau pasukan Musuh sambil memulihkan Guardian Stone."}
+, Summary = "Bicara ke Varmund"}
+, 
+[292385] = {Title = "Jumping 1", IconName = "ico_ev.bmp", 
+Description = {"Kill 10 Poring."}
+, Summary = "Kill 10 Poring"}
+, 
+[292386] = {Title = "Jumping 2", IconName = "ico_ev.bmp", 
+Description = {"Kill 10 Zombie dan Skeleton."}
+, Summary = "Kill 10 Zombie dan Skeleton"}
+, 
+[292387] = {Title = "Jumping 3", IconName = "ico_ev.bmp", 
+Description = {"Kill 50 Elder Willow."}
+, Summary = "Kill 50 Elder Willow"}
+, 
+[292388] = {Title = "Jumping 4", IconName = "ico_ev.bmp", 
+Description = {"Kill 100 Orc Warrior, 25 Orc Lady."}
+, Summary = "Kill 100 Orc Warrior, 25 Orc Lady"}
+, 
+[292389] = {Title = "Jumping 5", IconName = "ico_ev.bmp", 
+Description = {"Kill 100 Savage."}
+, Summary = "Kill 100 Savage"}
+, 
+[292390] = {Title = "Jumping 6", IconName = "ico_ev.bmp", 
+Description = {"Kill 100 Kapha."}
+, Summary = "Kill 100 Kapha"}
+, 
+[11556] = {Title = "Hilangnya Steven 1", IconName = "ico_ev.bmp", 
+Description = {"Pergi ke Lt.1 - Mine Dungeon (192/78)", "dan bicara dengan Teddy Bear"}
+, Summary = "Bicaralah dengan NPC Teddy Bear"}
+, 
+[11557] = {Title = "Hilangnya Steven 2", IconName = "ico_ev.bmp", 
+Description = {"Bicaralah dengan Teddy Bear lain di dekat Entrance"}
+, Summary = "Bicaralah dengan Teddy Bear lain di dekat Entrance"}
+, 
+[11558] = {Title = "Hilangnya Steven 3", IconName = "ico_ev.bmp", 
+Description = {"Masuk kedalam portal dan Bicara dengan NPC Stephen"}
+, Summary = "Bicara dengan NPC Stephen"}
+, 
+[11559] = {Title = "Hilangnya Steven 4", IconName = "ico_ev.bmp", 
+Description = {"Bicaralah lagi dengan NPC Stephen"}
+, Summary = "Bicaralah lagi dengan NPC Stephen"}
+, 
+[11560] = {Title = "Hilangnya Steven 5", IconName = "ico_ev.bmp", 
+Description = {"Kembali dan bicaralah dengan NPC Screaming young man"}
+, Summary = "Kembali dan bicaralah dengan NPC Screaming young man"}
+, 
+[11561] = {Title = "Hilangnya Steven 6", IconName = "ico_ev.bmp", 
+Description = {"Kembali dan bicaralah lagi dengan NPC Stephen"}
+, Summary = "Kembali dan bicaralah lagi dengan NPC Stephen"}
+, 
+[11562] = {Title = "Hilangnya Steven 7", IconName = "ico_ev.bmp", 
+Description = {"Pergi ke bagian utara dari map ini, dan lihat apa yang berjadi"}
+, Summary = "Pergi ke utara dari map ini (132,233)"}
+, 
+[11563] = {"Kill 10 Yellow Teddy Bear", "Kill 10 Green Teddy Bear"; Title = "Konspirasi Nassarian\'s 1", IconName = "ico_ev.bmp", 
+Description = {"Hunting Mission:", "Kill 10 Red Teddy Bear", "Kill 10 Yellow Teddy Bear", "Kill 10 Green Teddy Bear", "          ", "Setelah selesai, laporkan kembali ke NPC Stephen"}
+, Summary = "Kill 10 Red Teddy Bear"}
+, 
+[11564] = {"Kill 10 White Teddy Bear"; Title = "Konspirasi Nassarian\'s 2", IconName = "ico_ev.bmp", 
+Description = {"Hunting Mission:", "Kill 10 Blue Teddy Bear", "Kill 10 White Teddy Bear", "          ", "Setelah selesai, laporkan kembali ke NPC Stephen"}
+, Summary = "Kill 10 Blue Teddy Bear"}
+, 
+[11565] = {"Kill 10 Soul Fragment", "Kill 10 Sinister Dwelling Obsidian"; Title = "Melarikan diri!", IconName = "ico_ev.bmp", 
+Description = {"Hunting Mission:", "Kill 10 Hardworking Pitman", "Kill 10 Soul Fragment", "Kill 10 Sinister Dwelling Obsidian"}
+, Summary = "Kill 10 Hardworking Pitman"}
+, 
+[11566] = {Title = "Cooldown - Melarikan diri!", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kamu bisa menemui Stephen apabila cooldown nya sudah selesai."}
+, Summary = "Reset pukul 04.00"}
+, 
+[11567] = {"Kill 10 Yellow Teddy Bear", "Kill 10 Green Teddy Bear"; Title = "Keberadaan yang seharusnya tidak ada 1", IconName = "ico_ev.bmp", 
+Description = {"Hunting Mission:", "Kill 10 Red Teddy Bear", "Kill 10 Yellow Teddy Bear", "Kill 10 Green Teddy Bear"}
+, Summary = "Kill 10 Red Teddy Bear"}
+, 
+[11568] = {"Kill 10 White Teddy Bear"; Title = "Keberadaan yang seharusnya tidak ada 2", IconName = "ico_ev.bmp", 
+Description = {"Hunting Mission:", "Kill 10 Blue Teddy Bear", "Kill 10 White Teddy Bear"}
+, Summary = "Kill 10 Blue Teddy Bear"}
+, 
+[11569] = {Title = "Cooldown - Keberadaan yang seharusnya tidak ada", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kamu bisa menemui Gloomy Teddy Bear apabila cooldown nya sudah selesai."}
+, Summary = "Reset pukul 04.00"}
+, 
+[11570] = {Title = "Biarkan terang menelan kegelapan", IconName = "ico_ev.bmp", 
+Description = {"Hunting Mission:", "Kill 1 Shining Teddy Bear (MVP)"}
+, Summary = "Kill 1 Shining Teddy Bear (MVP)"}
+, 
+[11571] = {Title = "Cooldown - Biarkan terang menelan kegelapan", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kamu bisa menemui Pengrajin Boneka apabila cooldown nya sudah selesai."}
+, Summary = "Reset pukul 04.00"}
+, 
+[11572] = {Title = "Illusion Survival Staff", IconName = "ico_ev.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[5848] = {Title = "[Daily] Proof of Megalith", IconName = "ico_ev.bmp", 
+Description = {"Kepala desa memintamu membawakan 3  Token of Bigstone dari Megalith. Laporkan ke Defense Officer Luanda apabila sudah selesai."}
+, Summary = "Kumpulkan 3 Token of Bigstone"}
+, 
+[5849] = {Title = "[Cooldown] Proof of Megalith", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown."}
+, Summary = "Reset jam 04.00"}
+, 
+[5850] = {Title = "[Daily] Proof of Wootan Extermination", IconName = "ico_ev.bmp", 
+Description = {"Kepala desa memintamu membawakan 3  Token of Wootan dari Wootan. Laporkan ke Defense Officer Luanda apabila sudah selesai."}
+, Summary = "Kumpulkan 3 Token of Wootan"}
+, 
+[5851] = {Title = "[Cooldown] Proof of Wootan Extermination", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown."}
+, Summary = "Reset jam 04.00"}
+, 
+[5852] = {Title = "[Daily] Megalith Hunt", IconName = "ico_ev.bmp", 
+Description = {"Kepala Desa memintamu mengalahkan suku megalith. Kalahkan 5 Ancient Tri Joint, 5 Ancient Stalactic Golem, 5 Ancient Megalith."}
+, Summary = "Kalahkan 5 Ancient Tri joint, Ancient Stalactic Golem, 5 Ancient Megalith"}
+, 
+[5853] = {Title = "[Cooldown] Megalith Hunt", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown."}
+, Summary = "Reset jam 04.00"}
+, 
+[5854] = {Title = "[Daily] Wootan Hunt", IconName = "ico_ev.bmp", 
+Description = {"Kepala Desa memintamu mengalahkan suku Wootan. Kalahkan 5 Ancient Stone Shooter, 5 Ancient Wootan Shooter, 5 Ancient Wootan Fighters."}
+, Summary = "Kalahkan 5 Ancient Stone Shooter , Ancient Wootan Shooter, 5 Ancient Wootan Fighters"}
+, 
+[5855] = {Title = "[Cooldown] Wootan Hunt", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown."}
+, Summary = "Reset jam 04.00"}
+, 
+[5847] = {Title = "Luanda Story", IconName = "ico_ev.bmp", 
+Description = {"Kamu menemukan Vortex dengan kekuatan aneh di Dungeon. Dan kamu telah menemukan beberapa petunjuk aneh. Ayo laporkan terus ke Luanda tentang petunjuk baru."}
+, Summary = "Bicara pada Defense Officer Luanda"}
+, 
+[292391] = {Title = "Ill Moonlight Board Mission", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 30 Resentful Munak dan 30 Resentful Bongun."}
+, Summary = "Kalahkan Monster Ill Moonlight"}
+, 
+[292392] = {Title = "Ill Vampire Board Mission", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 50 Matte Drainliar, 50 Sweet Nightmare dan 50 Restless Dead Ghoul."}
+, Summary = "Kalahkan Monster Ill Vampire"}
+, 
+[292393] = {Title = "Ill Frozen Board Mission", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 50 Angry Gazeti, 50 Angry Snowier dan 50 Angry Ice Titan."}
+, Summary = "Kalahkan Monster Ill Frozen"}
+, 
+[292394] = {Title = "Ill Turtle Board Mission", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 50 Ominous Permeter, 50 Ominous Freezer dan 50 Ominous Heater."}
+, Summary = "Kalahkan Monster Ill Turtle"}
+, 
+[292395] = {Title = "Ill Teddy Board Mission", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 50 Green Teddy Bear, 50 Red Teddy Bear dan 50 Yellow Teddy Bear."}
+, Summary = "Kalahkan Monster Ill Teddy"}
+, 
+[292396] = {Title = "Ill Luanda Board Mission", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 50 Ancient Wootan Fighter, 50 Ancient Wootan Shooter dan 50 Ancient Stone Shooter."}
+, Summary = "Kalahkan Monster Ill Luanda"}
+, 
+[12482] = {Title = "Ill Labyrinth Story 1", IconName = "ico_ev.bmp", 
+Description = {"Kamu bertemu dengan arwah Priest Irene, dia memintamu untuk melapor ke Guild Leader Priesthood."}
+, Summary = "Temui Esmeralda di Prontera"}
+, 
+[12483] = {Title = "Ill Labyrinth Story 2", IconName = "ico_ev.bmp", 
+Description = {"Kamu telah menemui Esmeralda di Prontera, dia bergegas untuk masuk ke labyrinth setelah mendapat laporan darimu."}
+, Summary = "Temui Esmeralda di Labyrinth"}
+, 
+[12484] = {Title = "Jejak Andrea", IconName = "ico_ev.bmp", 
+Description = {"Esmeralda memintamu untuk masuk ke Illusion Labyrinth Dungeon dan mencari jejak Andrea."}
+, Summary = "Temukan Jejak Andrea"}
+, 
+[12485] = {Title = "Jejak Anes", IconName = "ico_ev.bmp", 
+Description = {"Esmeralda memintamu untuk masuk ke Illusion Labyrinth Dungeon dan mencari jejak Anes."}
+, Summary = "Temukan Jejak Anes"}
+, 
+[12486] = {Title = "Jejak Silvano", IconName = "ico_ev.bmp", 
+Description = {"Esmeralda memintamu untuk masuk ke Illusion Labyrinth Dungeon dan mencari jejak Silvano."}
+, Summary = "Temukan Jejak Silvano"}
+, 
+[12487] = {Title = "Jejak Cecilia", IconName = "ico_ev.bmp", 
+Description = {"Esmeralda memintamu untuk masuk ke Illusion Labyrinth Dungeon dan mencari jejak Cecilia."}
+, Summary = "Temukan Jejak Cecilia"}
+, 
+[12488] = {Title = "Ill Labyrinth Story 3", IconName = "ico_ev.bmp", 
+Description = {"Kamu telah menemukan Silvano, Cecilia, Anes, dan Andrea. Namun mereka semua telah mati. Ayo laporkan ini ke Esmeralda."}
+, Summary = "Lapor ke Esmeralda"}
+, 
+[12489] = {Title = "Ill Labyrinth Story 4", IconName = "ico_ev.bmp", 
+Description = {"Para Acolyte tidak selamat, tetapi arwah mereka telah bangkit untuk membersihkan Dungeon."}
+, Summary = "Bicara pada Arwah Andrea"}
+, 
+[12470] = {Title = "Andrea Revenge 1", IconName = "ico_ev.bmp", 
+Description = {"Bantu Andrea membalaskan dendam atas kematiannya. Kalahkan 5 Chaos Baphomet Junior."}
+, Summary = "Kalahkan 5 Chaos Baphomet Junior"}
+, 
+[12471] = {Title = "Andrea Revenge 2", IconName = "ico_ev.bmp", 
+Description = {"Bantu Andrea membalaskan dendam atas kematiannya. Kalahkan 5 Chaos Ghostring."}
+, Summary = "Kalahkan 5 Chaos Ghostring"}
+, 
+[12472] = {Title = "Anes Revenge 1", IconName = "ico_ev.bmp", 
+Description = {"Bantu Anes membalaskan dendam atas kematiannya. Kalahkan 5 Chaos Hunter Fly."}
+, Summary = "Kalahkan 5 Chaos Hunter Fly"}
+, 
+[12473] = {Title = "Anes Revenge 2", IconName = "ico_ev.bmp", 
+Description = {"Bantu Anes membalaskan dendam atas kematiannya. Kalahkan 5 Chaos Killer Mantis."}
+, Summary = "Kalahkan 5 Chaos Killer Mantis"}
+, 
+[12474] = {Title = "Silvano Revenge 1", IconName = "ico_ev.bmp", 
+Description = {"Bantu Silvano membalaskan dendam atas kematiannya. Kalahkan 5 Chaos Mantis."}
+, Summary = "Kalahkan 5 Chaos Mantis"}
+, 
+[12475] = {Title = "Silvano Revenge 2", IconName = "ico_ev.bmp", 
+Description = {"Bantu Silvano membalaskan dendam atas kematiannya. Kalahkan 5 Chaos Poporing."}
+, Summary = "Kalahkan 5 Chaos Poporing"}
+, 
+[12476] = {Title = "Cecilia Revenge 1", IconName = "ico_ev.bmp", 
+Description = {"Bantu Cecilia membalaskan dendam atas kematiannya. Kalahkan 5 Chaos Side Winder."}
+, Summary = "Kalahkan 5 Chaos Side Winder"}
+, 
+[12477] = {Title = "Cecilia Revenge 2", IconName = "ico_ev.bmp", 
+Description = {"Bantu Cecilia membalaskan dendam atas kematiannya. Kalahkan 5 Chaos Stem Worm."}
+, Summary = "Kalahkan 5 Chaos Stem Worm"}
+, 
+[12478] = {Title = "Andrea Purification", IconName = "ico_ev.bmp", 
+Description = {"Ayo murnikan Arwah Andrea, Kamu harus mengalahkan 1 Chaos Andrea."}
+, Summary = "Kalahkan 1 Chaos Andrea."}
+, 
+[12479] = {Title = "Anes Purification", IconName = "ico_ev.bmp", 
+Description = {"Ayo murnikan Arwah Anes, Kamu harus mengalahkan 1 Chaos Anes."}
+, Summary = "Kalahkan 1 Chaos Anes."}
+, 
+[12480] = {Title = "Silvano Purification", IconName = "ico_ev.bmp", 
+Description = {"Ayo murnikan Arwah Silvano, Kamu harus mengalahkan 1 Chaos Silvano."}
+, Summary = "Kalahkan 1 Chaos Silvano."}
+, 
+[12481] = {Title = "Cecilia Purification", IconName = "ico_ev.bmp", 
+Description = {"Ayo murnikan Arwah Cecilia, Kamu harus mengalahkan 1 Chaos Cecilia."}
+, Summary = "Kalahkan 1 Chaos Cecilia."}
+, 
+[12490] = {Title = "Ill Labyrinth Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Kamu tidak bisa mengambil lagi daily hari ini."}
+, Summary = "Reset pukul 04.00 WIB."}
+, 
+[12491] = {Title = "Weekly Quest Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest Weekly sedang cooldown."}
+, Summary = "Reset Sabtu pukul 04.00 WIB."}
+, 
+[12492] = {Title = "Esmeralda the Craftman", IconName = "ico_ev.bmp", 
+Description = {"Kamu bisa membuat Equipment Illusion di Esmeralda."}
+, Summary = "Kamu bisa membuat Equipment Illusion di Esmeralda."}
+, 
+[3407] = {Title = "Illusion Underwater 1", IconName = "ico_ev.bmp", 
+Description = {"Gein bilang bahwa temannya Sirud hilang saat memancing. Temui ahli kelautan Tuan Jerry di Prontera."}
+, Summary = "Temui Jerry di Prontera."}
+, 
+[3408] = {Title = "Illusion Underwater 2", IconName = "ico_ev.bmp", 
+Description = {"Kamu telah mendapatkan Abyss Essence dari Gein, bawakan ini ke Jerry."}
+, Summary = "Temui Jerry di Prontera."}
+, 
+[3409] = {Title = "Illusion Underwater 3", IconName = "ico_ev.bmp", 
+Description = {"Jerry bilang ia akan mengikutimu ke Gein."}
+, Summary = "Temui Jerry di Izlude."}
+, 
+[3410] = {Title = "Illusion Underwater 4", IconName = "ico_ev.bmp", 
+Description = {"Sirud akhirnya ditemukan di Deep Sea Byalan!!."}
+, Summary = "Bicara pada Sirud."}
+, 
+[3411] = {Title = "Illusion Underwater 5", IconName = "ico_ev.bmp", 
+Description = {"Tuan Jerry memintamu untuk berburu masing masing 10, Deep Sea Sropho, Deep Sea Marse, Deep Sea Deviace!"}
+, Summary = "Selesaikan Permintaan Jerry."}
+, 
+[3412] = {Title = "Illusion Underwater 6", IconName = "ico_ev.bmp", 
+Description = {"Kumpulkan 10 Abyssal Essence dan berikan ke Tuan Jerry."}
+, Summary = "Berikan 10 Abyssal Essence ke Jerry."}
+, 
+[3413] = {Title = "[Daily] Collect Abyssal Essence", IconName = "ico_ev.bmp", 
+Description = {"Kumpulkan 10 Abyssal Essence dan berikan ke Tuan Jerry."}
+, Summary = "Berikan 10 Abyssal Essence ke Jerry."}
+, 
+[3414] = {Title = "[Cooldown] Collect Abyssal Essence", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset jam 04.00"}
+, 
+[3415] = {Title = "[Daily] Defeat Deep Sea Creatures", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Deep Sea Sropho, 10 Deep Sea Deviace, Deep Sea Marse."}
+, Summary = "Lapor ke Jerry bila sudah selesai."}
+, 
+[3416] = {Title = "[Cooldown] Defeat Deep Sea Creatures", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset jam 04.00"}
+, 
+[3417] = {Title = "[Daily] Defeat Deep Sea Creatures II", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Deep Sea Swordfish, 10 Deep Sea Phen, 10 Deep Sea King Dramoh."}
+, Summary = "Lapor ke Kane bila sudah selesai."}
+, 
+[3418] = {Title = "[Cooldown] Defeat Deep Sea Creatures II", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset pukul 04.00"}
+, 
+[3419] = {Title = "[Daily] Defeat Deep Sea Fishmen", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 15 Deep Sea Strouf, 15 Deep Sea Sedora."}
+, Summary = "Lapor ke Kane bila sudah selesai"}
+, 
+[3420] = {Title = "[Cooldown] Defeat Deep Sea Fishmen", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292397] = {Title = "[Four Season Royal Raid", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan Four Beast MVP 1 kali."}
+, Summary = "Kalahkan Four Beast MVP 1 kali"}
+, 
+[292398] = {Title = "[Cooldown] Four Season Royal Raid", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292399] = {Title = "Raid Gacha tiket yaang hilang", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan 10 Winter baby, 10 Winter Goblin, 10 Winter Freezer."}
+, Summary = "Lapor ke Isaac apabila sudah selesai"}
+, 
+[292400] = {Title = "Cooldown] Raid Gacha tiket yaang hilang", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset pukul 04.00"}
+, 
+[8541] = {Title = "An Empty Thing", 
+Description = {"Nillem memintamu untuk membunuh 20 Contaminated Raydrics dan 20 Contaminated Raydric Archers, dan lihat apa yg ada di dalam sana."}
+, Summary = "Defeat Contaminated Raydric and Contaminated Raydric Archer"}
+, 
+[8542] = {Title = "An Empty Thing-Waiting", 
+Description = {"Ini adalah daily quest. Ketika waktu tunggu selesai, kamu bisa bicara dengan [Nillem] untuk mendapat quest lagi."}
+, Summary = "Reset at 04:00 am"}
+, 
+[8543] = {Title = "Perhaps, An Empty Thing", 
+Description = {"Nillem memintamu untuk membunuh 20 Contaminated Raydrics dan 20 Contaminated Raydric Archers, adan lihat apa yg ada di dalam sana."}
+, Summary = "Defeat Contaminated Raydric and Contaminated Raydric Archer"}
+, 
+[8544] = {Title = "A Thing with High Freezing Point", 
+Description = {"Nillem memintamu untuk mengalahkan 5 Frozen Gargoyles dan 5 Prison Breakers, dan berikan dia kesempatan."}
+, Summary = "Defeat Frozen Gargoyle and Prison Breaker"}
+, 
+[8545] = {Title = "A Thing with High Freezing Point-Waiting", 
+Description = {"Ini adalah daily quest. Ketika waktu tunggu selesai, kamu bisa bicara dengan [Nillem] untuk mendapat quest lagi."}
+, Summary = "Reset at 04:00 am"}
+, 
+[8546] = {Title = "A Thing with Pretty High Freezing Point", 
+Description = {"Nillem memintamu untuk mengalahkan 5 Frozen Gargoyles dan 5 Prison Breakers, dan berikan dia kesempatan."}
+, Summary = "Defeat Frozen Gargoyle and Prison Breaker"}
+, 
+[8547] = {Title = "A Thing Like A Mirror", 
+Description = {"Nillem memintamu untuk mengalahkan 10 Ice Ghosts dan 10 Flame Ghosts, dan berikan dia kesempatan."}
+, Summary = "Defeat Ice Ghost and Flame Ghost"}
+, 
+[8548] = {Title = "A Thing Like A Mirror-Waiting", 
+Description = {"Ini adalah daily quest. Ketika waktu tunggu selesai, kamu bisa bicara dengan [Nillem] untuk mendapat quest lagi."}
+, Summary = "Reset at 04:00 am"}
+, 
+[8549] = {Title = "A Thing Like A Mysterious Mirror", 
+Description = {"Nillem memintamu untuk mengalahkan 10 Ice Ghosts dan 10 Flame Ghosts, dan berikan dia kesempatan."}
+, Summary = "Defeat Ice Ghost and Flame Ghost"}
+, 
+[8550] = {Title = "Abnormally Evolved Deleter", 
+Description = {"Lily Blanc memintamu bertarung dengan 15 Stiff Deleters(Sky) dan 15 Stiff Deleters(Ground), dan laporkan perbedaannya."}
+, Summary = "Defeat Stiff Deleter(Sky) and Stiff Deleter(Ground)"}
+, 
+[8551] = {Title = "Abnormally Evolved Deleter-Waiting", 
+Description = {"Ini adalah daily quest. Ketika waktu tunggu selesai, kamu bisa bicara dengan [Lily Blanc] untuk mendapat quest lagi."}
+, Summary = "Reset at 04:00 am"}
+, 
+[8552] = {Title = "Reinvestigation of Abnormally Evolved Deleter", 
+Description = {"Lily Blanc memintamu bertarung dengan 15 Stiff Deleters(Sky) dan 15 Stiff Deleters(Ground), dan laporkan perbedaannya."}
+, Summary = "Defeat Stiff Deleter(Sky) and Stiff Deleter(Ground)"}
+, 
+[8553] = {Title = "Defeat Real Nightmare", 
+Description = {"Lily Blanc memintamu bertarung dengan 10 Stiff Nightmare Terrors dan laporkan perbedaannya."}
+, Summary = "Defeat Stiff Nightmare Terror"}
+, 
+[8554] = {Title = "Defeat Real Nightmare-Waiting", 
+Description = {"Ini adalah daily quest. Ketika waktu tunggu selesai, kamu bisa bicara dengan [Lily Blanc] untuk mendapat quest lagi."}
+, Summary = "Reset at 04:00 am"}
+, 
+[8555] = {Title = "Defeat Real Scary Nightmare", 
+Description = {"Lily Blanc memintamu bertarung dengan 10 Stiff Nightmare Terrors dan laporkan perbedaannya."}
+, Summary = "Defeat Stiff Nightmare Terror"}
+, 
+[8556] = {Title = "Density Verification", 
+Description = {"Lily Blanc memintamu bertarung dengan 10 Stiff Lava Golems dan laporkan perbedaannya."}
+, Summary = "Defeat Stiff Lava Golem"}
+, 
+[8557] = {Title = "Density Verification-Waiting", 
+Description = {"Ini adalah daily quest. Ketika waktu tunggu selesai, kamu bisa bicara dengan [Lily Blanc] untuk mendapat quest lagi."}
+, Summary = "Reset at 04:00 am"}
+, 
+[8558] = {Title = "Density Verification Again", 
+Description = {"Lily Blanc memintamu bertarung dengan 10 Stiff Lava Golems dan laporkan perbedaannya."}
+, Summary = "Defeat Stiff Lava Golem"}
+, 
+[8559] = {Title = "The Small Things That Rustle", 
+Description = {"Lily Blanc memintamu mengalahkan 10 Stiff Explosions dan 10 Stiff Blazers dan laporkan perbedaannya."}
+, Summary = "Defeat Stiff Explosion and Stiff Blazer"}
+, 
+[8560] = {Title = "The Small Things That Rustle-Waiting", 
+Description = {"Ini adalah daily quest. Ketika waktu tunggu selesai, kamu bisa bicara dengan [Lily Blanc] untuk mendapat quest lagi."}
+, Summary = "Reset at 04:00 am"}
+, 
+[8561] = {Title = "The Very Small Things That Rustle", 
+Description = {"Lily Blanc memintamu mengalahkan 10 Stiff Explosions dan 10 Stiff Blazers dan laporkan perbedaannya."}
+, Summary = "Defeat Stiff Explosion and Stiff Blazer"}
+, 
+[5856] = {Title = "My Name Is Morning", 
+Description = {"Hello kamu yg lagi baca! Aku sedang terburu2 mau pergi ke suatu tempat, aku harus meninggalkan anak yg kamu liat ini, seorang subjek uji coba di Rudus. Kamu bisa memanggilnya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>. Aku gak mengabaikannya kok. Aku tengokin nanti kalau aku bisa. Sementara itu, kamu bisa kan kasih dia makan rutin? Tolong kasih apa aja yg dia mau kerena aku gak bisa bawa dia bareng aku sekarang. Makasin ya! - Olg"}
+, Summary = ""}
+, 
+[5857] = {Title = "Befriending Morning", 
+Description = {"Hello kamu yg lagi baca! Makasih udh kasih sarapan. Mungkin karena aku kasih tau soal Porings waktu itu, jadi sekarang terobsesi deh. Dia gak akan kesepian kalau pelihara Poring. Bisakah kamu mencarikan dia <ITEM>[Poring Egg]<INFO>9001</INFO></ITEM>? makasih ya, kawan! - Olg"}
+, Summary = "Poring Egg"}
+, 
+[5858] = {Title = "Befriending Morning", 
+Description = {"Hello, kawanku! Kayaknya kamu udh paham untuk tugas memberi dia makan. Ah, canda kawan. Sesaat yg lalu, aku cerita soal singing grasshopper, Rocker. Sekarang, dia pengen liat. Bisakah kamu mencarikan dia <ITEM>[Rocker Egg]<INFO>9011</INFO></ITEM> kali ini? makasih ya, kawan! - Olg"}
+, Summary = "Rocker Egg"}
+, 
+[5859] = {Title = "Befriending Morning", 
+Description = {"Hello, kawanku! Kayaknya gara2 aku cerita soal ini, Ayam yang berpetualang, jadi penasaran soal Pickys. Bisakah kamu mencarikan dia <ITEM>[Picky Egg]<INFO>9005</INFO></ITEM> kali ini? Karena aku gak bisa temenin dia terus, paling gak aku mau dia punya banyak teman di sekelilingnya. makasih ya, kawan! - Olg"}
+, Summary = "Picky Egg"}
+, 
+[5860] = {Title = "Befriending Morning", 
+Description = {"Hello, kawanku! Maaf lagi2 minta tolong. Aku kasih tau soal kelinci yg hidup di bulan, sekarang dia penasaran sama Lunatics. Bisakah kamu mencarikan dia <ITEM>[Lunatic Egg]<INFO>9004</INFO></ITEM>? makasih ya, kawan! - Olg"}
+, Summary = "Lunatic Egg"}
+, 
+[5861] = {Title = "[Pending] Taking Care of Morning", 
+Description = {"Aku memberi makan <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>.Jika aku bisa, besok aku kasih makan lagi."}
+, Summary = "Reset at 4:00 a.m."}
+, 
+[5862] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan jellopies hari ini. Aku harus membawakan 10 <ITEM>[Jellopies]<INFO>909</INFO></ITEM>."}
+, Summary = "Jellopy 10"}
+, 
+[5863] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan tree roots hari ini. Aku harus membawakan 10 <ITEM>[Tree Roots]<INFO>902</INFO></ITEM>."}
+, Summary = "Tree Root 10"}
+, 
+[5864] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan grasshopper legs hari ini. Aku harus membawakan 10 <ITEM>[Grasshopper\'s Legs]<INFO>940</INFO></ITEM>."}
+, Summary = "Grasshopper\'s Leg 10"}
+, 
+[5865] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan clover hari ini. Aku harus membawakan 10 <ITEM>[Clovers]<INFO>705</INFO></ITEM>."}
+, Summary = "Clover 10"}
+, 
+[5866] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan bird feathers hari ini. Aku harus membawakan 10 <ITEM>[Feathers Of Birds]<INFO>916</INFO></ITEM>."}
+, Summary = "Feather Of Birds 10"}
+, 
+[5867] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan rat tails hari ini. Aku harus membawakan 10 <ITEM>[Rat Tails]<INFO>1016</INFO></ITEM>."}
+, Summary = "Rat Tail 10"}
+, 
+[5868] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan poisonous fangs hari ini. Aku harus membawakan 10 <ITEM>[Venom Canines]<INFO>937</INFO></ITEM>."}
+, Summary = "Venom Canine 10"}
+, 
+[5869] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan monkey tails hari ini. Aku harus membawakan 10 <ITEM>[Yoyo Tails]<INFO>942</INFO></ITEM>."}
+, Summary = "Yoyo Tail 10"}
+, 
+[5870] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan bat teeth hari ini. Aku harus membawakan 10 <ITEM>[Teeth of Bat]<INFO>913</INFO></ITEM>."}
+, Summary = "Tooth of Bat 10"}
+, 
+[5871] = {Title = "Morning\'s Menu Selection", 
+Description = {"Kayaknya <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> dia mau makan eat bear paws hari ini. Aku harus membawakan 10 <ITEM>[Bear\'s Footskins]<INFO>948</INFO></ITEM>."}
+, Summary = "Bear\'s Footskin 10"}
+, 
+[7850] = {Title = "Cat on a Bullet", 
+Description = {"Anggota Rebellion yang kutemui di Einbech mengatakan grup nya menggunakan Einbroch store sebagai markas untuk menutupi area operasi yang sekarang menjadi besar. Aku harus menemukan <NAVI>[Cat on a Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> di Einbroch."}
+, Summary = "Talk to Tes at the Cat"}
+, 
+[7851] = {Title = "New Area of Operations", 
+Description = {"Tes memberi tahuku tentang area operasi yg baru, <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>. Aku harus pergi kesana dan bergabung dengan anggota Rebellion disana."}
+, Summary = "Talk to Elena Volkova"}
+, 
+[7852] = {Title = "Behind the Wall", 
+Description = {"Elena Volkova berada di new area of operations, <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>, memintaku untuk bicara dengan rookie yg sedang menginvestigasi sebuah dinding, lalu temukan apa yg ada di balik dinding."}
+, Summary = "Talk to Rookie"}
+, 
+[7853] = {Title = "Investigating around the Wall", 
+Description = {"Rookie di dalam <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> memintaku untuk menginvestigasi sekitar dinding. Aku harus mengumpulkan apapun yg terlihat mencurigakan dan melaporkannya."}
+, Summary = "Investigate around the wall"}
+, 
+[7854] = {Title = "Wall on the Railroad", 
+Description = {"Ada dinding yg berdiri di railroad. Sepertinya di bangun saat tambang sudah di tutup."}
+, Summary = ""}
+, 
+[7855] = {Title = "Watchtower", 
+Description = {"watchtower ini cukup tinggi untuk melihat melampaui dinding. Aku tidak berpikir proses pemurnian bijih membutuhkan menara pengawas seperti ini."}
+, Summary = ""}
+, 
+[7856] = {Title = "Small Hole", 
+Description = {"Di mana ujung dinding bertemu dengan batu, ada sebuah lubang yang hampir tidak cukup besar untuk memungkinkan seorang anak kecil merangkak masuk."}
+, Summary = ""}
+, 
+[7857] = {Title = "Report to Rookie", 
+Description = {"Aku sudah melihat sekeliling dinding. Aku harus memberikan informasi yang telah aku kumpulkan kepada Rookie."}
+, Summary = "Talk to Rookie"}
+, 
+[7858] = {Title = "Investigate Ominous Noise", 
+Description = {"Beberapa anggota Pemberontakan sudah bergerak untuk mengidentifikasi suara yang datang dari sisi lain tembok. Rookie memintaku untuk menjaga sumbernya jika itu monster."}
+, Summary = "Monster hunt"}
+, 
+[7859] = {Title = "Report to Tes", 
+Description = {"Elena Volkova meminta ku untuk kembali ke the Cat on a Bullet dan biarkan <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> tahu situasi di luar tembok tidak normal. Dari apa yang dia katakan, itu adalah dump."}
+, Summary = "Report to Tes"}
+, 
+[7860] = {Title = "Unexpected Guest", 
+Description = {"<NAVI>[Tes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> pada the Cat on a Bullet membawa saya ke ruang rahasia di belakang untuk membahas beberapa hal yang mendesak."}
+, Summary = "Talk to Tes in the Secret Room"}
+, 
+[7861] = {Title = "The Corporation in Crisis", 
+Description = {"Aku telah memutuskan untuk bergabung dengan Est dan lainnya untuk merebut kembali Laboratorium Regenschirm dari para pengkhianat itu. Aku harus pergi ke Lighthalzen dan bertemu dengan <NAVI>[Republic Guard]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI> menungguku di sana."}
+, Summary = "Talk to Republic Guard"}
+, 
+[7862] = {Title = "Regenschirm Reclamation", 
+Description = {"Kami telah memutuskan untuk menyusup ke Lab dan membersihkan apa yang ada di dalamnya. Aku bisa masuk Lab melalui <NAVI>[Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>."}
+, Summary = "Reclaim the Lab"}
+, 
+[7863] = {Title = "Data Obtained from the Lab", 
+Description = {"Data terkait Tim Keamanan Lab 1."}
+, Summary = "Report to Tes"}
+, 
+[7864] = {Title = "A Change of Air", 
+Description = {"Sementara Tes menganalisis data, aku memutuskan untuk membantu Rage. Aku harus mencarinya di pub."}
+, Summary = "Talk to Rage"}
+, 
+[7865] = {Title = "Second Operation", 
+Description = {"Operasi baru akan berlangsung di tambang tertutup di ladang Einbroch barat laut. Aku harus bertemu dengan <NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> menunggu di sana dan bergabung dengan operasi."}
+, Summary = "Talk to Rebellion Member"}
+, 
+[7866] = {Title = "To the Cat on a Bullet", 
+Description = {"Aku harus kembali ke Cat on a Bullet dan melapor ke <NAVI>[Tes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> tentang apa yang terjadi di Lab."}
+, Summary = "Talk to Tes"}
+, 
+[7867] = {Title = "Merc vs. Merc", 
+Description = {"<NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> di special security area, Cor, memintaku untuk menjaga Heart Hunters Bellare dan Sanare di Os."}
+, Summary = "Defeat Heart Hunters"}
+, 
+[7868] = {Title = "Merc vs. Merc - Pending", 
+Description = {"Sebuah Daily quest. Itu bisa diulang setelah cooldownnya selesai <NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> di special security area, Cor."}
+, Summary = "Reset at 04:00 a.m."}
+, 
+[11596] = {Title = "Old Memories", 
+Description = {"Aku menemukan markas musuh di dekat Einbroch yang disamarkan sebagai tambang tertutup. Sebaiknya aku memeriksa perimeter untuk mencari lebih banyak musuh."}
+, Summary = "Search around"}
+, 
+[11597] = {Title = "Old Memories", 
+Description = {"Tidak ada yang terlihat tidak pada tempatnya. Sebaiknya aku periksa di tempat lain."}
+, Summary = "Search around"}
+, 
+[11598] = {Title = "Old Memories", 
+Description = {"Tidak ada yang terlihat tidak pada tempatnya. Sebaiknya aku periksa di tempat lain."}
+, Summary = "Search around"}
+, 
+[11599] = {Title = "Old Memories", 
+Description = {"Tidak ada yang terlihat tidak pada tempatnya. Aku harus kembali ke Anggota Pemberontakan itu."}
+, Summary = "Talk to Rebellion Member"}
+, 
+[11600] = {Title = "Old Memories", 
+Description = {"Aku harus memeriksa bagian dalam tambang tertutup yang diblokir."}
+, Summary = "Enter"}
+, 
+[11601] = {Title = "Old Memories", 
+Description = {"Jalan ke area berikutnya telah dibuka. Aku harus melaporkan kembali ke Cat on a Bullet, dan mengambil barang yang diinginkan Dien dari kamarnya."}
+, Summary = "To the Cat on a Bullet"}
+, 
+[11602] = {Title = "Old Memories", 
+Description = {"Ambil apa yang diinginkan Dien dari kamarnya."}
+, Summary = "Dien\'s Charm"}
+, 
+[11603] = {Title = "Old Memories", 
+Description = {"Aku telah menemukan Mantra Dien. Aku harus kembali ke Dien."}
+, Summary = "Back to Dien"}
+, 
+[12452] = {Title = "Os Occupation", 
+Description = {"Rute transportasi kereta api telah diamankan. Sekarang, sebaiknya aku membersihkan Os dari sisa-sisa musuh."}
+, Summary = "Os Occupation"}
+, 
+[12453] = {Title = "Operation Pending", 
+Description = {"Gerbang ke Os untuk sementara diblokir. Aku harus menunggu sampai dirilis."}
+, Summary = "Operation pending"}
+, 
+[12454] = {Title = "Additional Search Mission", 
+Description = {"Aku juga harus memeriksa sisi timur laut Os dan menghilangkan kemungkinan ancaman."}
+, Summary = "Additional Search Mission"}
+, 
+[12455] = {Title = "Operation Pending", 
+Description = {"Gerbang ke Os untuk sementara diblokir. Aku harus menunggu sampai dirilis."}
+, Summary = "Operation pending"}
+, 
+[16352] = {Title = "Elena Volkova\'s Call", 
+Description = {"Bicaralah dengan Elena Volkova."}
+, Summary = ""}
+, 
+[16353] = {Title = "Golden Troublemaker", 
+Description = {"Ledakan telah terjadi di dekat fasilitas penting. Ikuti Elena dan periksa <NAVI>[situation]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Elena"}
+, 
+[16354] = {Title = "Eliumina Acquisition Operation", 
+Description = {"Kenali <NAVI>[area]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI> dan melakukan operasi khusus untuk mengamankan Eliumina. Laporkan ke Elena setelah operasi."}
+, Summary = "Secure Eliumina"}
+, 
+[16355] = {Title = "Suspicious Box", 
+Description = {"Kotak telah dihidupkan. Injak Baterai Bio untuk menyingkirkan mereka dan monster, lalu bicara dengan Rebellion."}
+, Summary = "Remove Batteries and monsters"}
+, 
+[16356] = {Title = "Suspicious Box", 
+Description = {"Kotak telah dihidupkan. Berburu monster tanpa menyentuh Racun Kimia, lalu bicara dengan Rebellion."}
+, Summary = "Hunt monsters without touching Chemical Poison"}
+, 
+[16357] = {Title = "Secure Eliumina", 
+Description = {"Aku telah berhasil mengamankan ilmuwan Illusion. Aku harus istirahat, dan kemudian kembali ke <NAVI>[Elena]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Elena"}
+, 
+[16358] = {Title = "Innocent Villain", 
+Description = {"Ilmuwan Illusion yang ditangkap akan diinterogasi. Aku harus pergi ke <NAVI>[Tent]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> dan amati interogasinya."}
+, Summary = "Talk to Goni"}
+, 
+[16359] = {Title = "Innocent Menace", 
+Description = {"<NAVI>[Rookie]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI> akan memimpin interogasin. Aku harus berdiri di sampingnya dan hanya memelototinya sebaik mungkin."}
+, Summary = "Talk to Rookie"}
+, 
+[16360] = {Title = "Innocent Truth", 
+Description = {"Eliumina memberi tahu kami cara memasuki Barmund Mansion. Sebaiknya aku pergi memeriksa <NAVI>[entrance]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Rookie"}
+, 
+[16361] = {Title = "Innocent Cleanup", 
+Description = {"Tanya Elena <NAVI>[Subordinate]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> mengapa mereka tidak mengumpulkan semua monster dan jebakan Eliumina setelah menangkapnya."}
+, Summary = "Talk to the Rebellion"}
+, 
+[16362] = {Title = "Innocent Cleanup - Pending", 
+Description = {"Daily quest. Itu bisa diulang setelah cooldownnya selesai <NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> in Cor."}
+, Summary = "Reset at 04:00 a.m."}
+, 
+[16363] = {Title = "Take Care of EL1_A17T", 
+Description = {"Aku telah berhasil menangani EL1_A17T."}
+, Summary = ""}
+, 
+[16364] = {Title = "Help the Farm", 
+Description = {"Karena kejadian ini, para <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> sedang membutuhkan bantuan. Aku harus merawat sayuran muda di tambalan."}
+, Summary = "Help the Farm"}
+, 
+[16546] = {Title = "Farm Hand", IconName = "ico_dq.bmp", 
+Description = {"\"Kamu telah membantu di farm. Ayo kembali ke <NAVI>[Farm Worker]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>.\""}
+, Summary = ""}
+, 
+[16365] = {Title = "Help the Farm - Pending", 
+Description = {"Daily quest. Itu bisa diulang setelah cooldownnya selesai <NAVI>[Farmhand]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> in Cor."}
+, Summary = "Reset at 04:00 a.m."}
+, 
+[16366] = {Title = "Help the Farm", 
+Description = {"Karena kejadian ini, para <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> sedang membutuhkan bantuan. Aku harus merawat sayuran muda di tambalan."}
+, Summary = ""}
+, 
+[16367] = {Title = "Unripe Grapes", 
+Description = {"Kecil, mentah <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> tergantung dari tanaman merambat. Tangkap kutu daun."}
+, Summary = ""}
+, 
+[16368] = {Title = "Unripe Grapes", 
+Description = {"Kecil, mentah <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> tergantung dari tanaman merambat. Sebarkan pupuk."}
+, Summary = ""}
+, 
+[16369] = {Title = "Unripe Grapes", 
+Description = {"Kecil, mentah <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> tergantung dari tanaman merambat. Tarik gulma."}
+, Summary = ""}
+, 
+[16370] = {Title = "Fuzzy Green Beans", 
+Description = {"Kutu ini <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> bahkan tidak sebesar kuku kelingking. Tangkap kutu daun."}
+, Summary = ""}
+, 
+[16371] = {Title = "Fuzzy Green Beans", 
+Description = {"Kutu ini <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> bahkan tidak sebesar kuku kelingking. Sebarkan pupuk."}
+, Summary = ""}
+, 
+[16372] = {Title = "Fuzzy Green Beans", 
+Description = {"Kutu ini <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> bahkan tidak sebesar kuku kelingking. Tarik gulma."}
+, Summary = ""}
+, 
+[16373] = {Title = "Tiny Pumpkins", 
+Description = {"Kecil hijau <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> tergantung pada tanaman merambat. Tangkap kutu daun."}
+, Summary = ""}
+, 
+[16374] = {Title = "Tiny Pumpkins", 
+Description = {"Kecil hijau <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> tergantung pada tanaman merambat. Sebarkan pupuk."}
+, Summary = ""}
+, 
+[16375] = {Title = "Tiny Pumpkins", 
+Description = {"Kecil hijau <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> tergantung pada tanaman merambat. Tarik gulma."}
+, Summary = ""}
+, 
+[16376] = {Title = "Subdue EL1_A17T", 
+Description = {"Aku telah berhasil dikalahkan EL1_A17T."}
+, Summary = ""}
+, 
+[17000] = {Title = "Refusal to Talk", 
+Description = {"<NAVI>[Rage]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> menolak berbicara dengan Wakil Presiden Kaya Tos lebih lama lagi. Cari tahu alasannya."}
+, Summary = "Talk to Rage"}
+, 
+[17001] = {Title = "I\'ll Go with You", 
+Description = {"Rage dan Wakil Presiden Kaya Tos tidak saling percaya. Aku harus menawarkan untuk pergi bersama <NAVI>[Kaya Tos]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Kaya Tos"}
+, 
+[17002] = {Title = "Time to Think", 
+Description = {"Kaya Tos butuh waktu untuk berpikir. Aku harus kembali ke <NAVI>[Rage]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> dan berbicara dengannya tentang dia."}
+, Summary = "Talk to Rage"}
+, 
+[17003] = {Title = "Going with Him", 
+Description = {"Petualang, cepat. Jalan kita masih panjang. Ayo pergi ke Einbroch <NAVI>[Airport]<INFO>einbroch,42,208,0,101,0</INFO></NAVI>."}
+, Summary = "To the Einbroch Airport"}
+, 
+[17004] = {Title = "Beginning of His Career Map", 
+Description = {"Mulai sekarang, kami akan mengikuti Patsy dari awal karirnya hingga saat ini. Sampai jumpa <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>."}
+, Summary = "To Lighthalzen"}
+, 
+[17005] = {Title = "Lighthalzen Slum", 
+Description = {"Perjalanan kami dimulai di Slum, di mana <NAVI>[Patsy\'s House]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI> is."}
+, Summary = "To Patsy\'s House"}
+, 
+[17006] = {Title = "Investigate in Ernest", 
+Description = {"Apakah kamu menyukai tur di sekitar Slum? Sekarang, kita akan beralih ke Rekenber <NAVI>[Headquarters]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI>. Ayo pergi!"}
+, Summary = "To Rekenber"}
+, 
+[17007] = {Title = "Investigate Rekenber", 
+Description = {"Ke mana pendatang baru pergi ketika mereka datang ke sini untuk pertama kalinya? Ayo pergi ke <NAVI>[Lobby]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI>."}
+, Summary = "Enter the Headquarters"}
+, 
+[17008] = {Title = "Investigate Rekenber", 
+Description = {"Semuanya, mari kita pindah ke <NAVI>[Meeting Room]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI> di lantai dua, tempat Patsy memulai hidupnya di Rekenber."}
+, Summary = "To Floor 2"}
+, 
+[17009] = {Title = "Investigate Rekenber", 
+Description = {"Mengapa Lab hanya mengambil orang yang sehat secara fisik? Aku penasaran. Pasti ada alasannya! Ayo, mari kita pergi ke <NAVI>[Annex Lab]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI>."}
+, Summary = "Annex Lab"}
+, 
+[17010] = {Title = "Investigate Rekenber", 
+Description = {"Patrick Kaufman? Siapa itu? Maaf, tapi aku benar-benar tidak tahu. Mungkin <NAVI>[someone else]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> di belakang sana tahu."}
+, Summary = "To the back"}
+, 
+[17011] = {Title = "Investigate Rekenber", 
+Description = {"Hm... Patsy dipindahkan ke Lab... Seseorang di departemennya harus mengetahui detailnya. Ayo pergi ke <NAVI>[Office]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI> untuk sekarang."}
+, Summary = "Back to the Headquarters building"}
+, 
+[17012] = {Title = "Investigate Rekenber", 
+Description = {"Jika kamu ingin melakukan ini secara diam-diam, kamu tidak boleh melalui Departemen Sumber Daya Manusia. Sebaliknya, kamu harus pergi ke <NAVI>[Document Archive]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI> dan cari sendiri dokumen yang sesuai."}
+, Summary = "To the Document Archive"}
+, 
+[17013] = {Title = "New Lab Location", 
+Description = {"Patrick dikirim ke <NAVI>[new lab]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI> di... 95-146 Sektor 1 di Pegunungan Einbroch."}
+, Summary = "To the outskirts of Einbroch"}
+, 
+[17014] = {Title = "There Was No Lab", 
+Description = {"Petualang, menurutmu apa lagi yang bisa kita lakukan di sini? Aku tidak bisa menemukan apa pun. Aku lapar, dan kakiku membunuhku. Mari kita kembali ke <NAVI>[Cat]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>, Bolehkah kita?"}
+, Summary = "Return to the Cat on a Bullet"}
+, 
+[17015] = {Title = "Vice President\'s Persuasion", 
+Description = {"Mereka bekerja di Lab. Biarkan <NAVI>[me]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> berbicara dengan orang-orang ini."}
+, Summary = "Kaya Tos\'s persuasion"}
+, 
+[17016] = {Title = "I Can\'t Talk to Them", 
+Description = {"Mereka tidak akan mendengarkanku, apa pun yang terjadi. Kami tidak akan pernah mencapai kesepakatan. Ayo bicara dengan <NAVI>[me]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI>. Kita butuh rencana."}
+, Summary = "Discuss with Tes"}
+, 
+[17017] = {Title = "Prepare for Attack", 
+Description = {"Mari kita pindahkan yang terluka ke  <NAVI>[safe place]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>. Cepat!"}
+, Summary = "Move to a safe place"}
+, 
+[17018] = {Title = "Patients\' Conditions", 
+Description = {"<NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> dia bilang memiliki sesuatu yang mendesak untuk dilaporkan ke Kaya Tos."}
+, Summary = "To Aas"}
+, 
+[17019] = {Title = "Urgent Situation", 
+Description = {"Kami membutuhkan bantuan untuk mencari peneliti yang melarikan diri. Silakan bergabung dengan kelompok pencarian di <NAVI>[left side]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>."}
+, Summary = "Join the search"}
+, 
+[17020] = {Title = "Relaunch Investigation", 
+Description = {"Harap terus selidiki keberadaan Patrick Kaufman. Dia <NAVI>[people who used to work]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> di sini mungkin bisa memberi tahu kamu sesuatu."}
+, Summary = "To workers"}
+, 
+[17021] = {Title = "Searching for Patsy", 
+Description = {"Jika kamu sedang mencari seseorang, kamu harus berbicara dengan para peneliti. Sebagian besar dari mereka melarikan diri, tetapi beberapa dari mereka <NAVI>[assistants]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI> masih di sini. Pergi ke mereka."}
+, Summary = "To researchers"}
+, 
+[17022] = {Title = "Searching for Kaufman", 
+Description = {"Jika kamu mencari seseorang, bicaralah dengan binatu <NAVI>[person]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>. Dia sudah lama di sini dan mengenal banyak orang."}
+, Summary = "To the laundry manager"}
+, 
+[17023] = {Title = "Searching for Kaufman", 
+Description = {"Jika kamu sedang mencari sesuatu, kamu harus memeriksa <NAVI>[Incineration Plant]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>. Dokumen-dokumen yang berserakan biasanya dikumpulkan dan disortir di sana."}
+, Summary = "To the Incineration Plant"}
+, 
+[17024] = {Title = "Searching for Kaufman", 
+Description = {"Ada yang terpisah <NAVI>[dump]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> untuk hal-hal yang terlalu terkontaminasi untuk dibakar atau tidak dapat dibakar. Orang-orang di sini punya nama lain untuk itu."}
+, Summary = "To Rudus"}
+, 
+[17025] = {Title = "Searching for Kaufman", 
+Description = {"Suara dapat didengar dari <NAVI>[somewhere]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI>. Ikuti mereka."}
+, Summary = "Follow the voices"}
+, 
+[17026] = {Title = "Searching for Kaufman", 
+Description = {"Mungkin kamu harus memeriksa sampah untuk gelang pengenalnya. Mungkin juga dijatuhkan ke tanah di suatu tempat."}
+, Summary = "Test Subject Identification Bracelet"}
+, 
+[17027] = {Title = "Searching for Kaufman", 
+Description = {"aku mengobrak-abrik sampah dan menemukan beberapa gelang pengenal, tapi tak satu pun milik Kaufrman. Aku harus mencari di tempat lain."}
+, Summary = "Look elsewhere"}
+, 
+[17028] = {Title = "Searching for Kaufman", 
+Description = {"Aku mengobrak-abrik sampah dan menemukan beberapa gelang pengenal, tetapi tidak ada yang berguna. Aku harus mencari di tempat lain."}
+, Summary = "Search Garbage Mounds"}
+, 
+[17029] = {Title = "Searching for Kaufman", 
+Description = {"Aku mengobrak-abrik semua gundukan sampah, tetapi tidak ada apa-apa selain sampah. Aku harus mencari di tempat lain."}
+, Summary = "Look elsewhere"}
+, 
+[17030] = {Title = "Searching for Kaufman", 
+Description = {"Aku mencari dan mencari, tetapi tidak ada yang tampak berguna bagiku. Aku harus mencari di tempat lain."}
+, Summary = "Check another Garbage Mound"}
+, 
+[17031] = {Title = "Searching for Kaufman", 
+Description = {"Tidak ada apa-apa di sini. Dapatkah aku benar-benar menemukan petunjuk keberadaan Kaufman? Aku harus mencari di tempat lain."}
+, Summary = "Check another Garbage Mound"}
+, 
+[17032] = {Title = "Searching for Kaufman", 
+Description = {"Aku menggali gelang dari gundukan sampah. Aku harus membawanya ke <NAVI>[Kaya]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>."}
+, Summary = "To Kaya Tos"}
+, 
+[17033] = {Title = "Everything Hereafter", 
+Description = {"Mulai sekarang, Bu. <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> disini akan menjagamu. Kamu juga bisa memberinya gelang yang telah kamu kumpulkan."}
+, Summary = "To Aas"}
+, 
+[17034] = {Title = "To Rudus", 
+Description = {"Sekarang, tolong tempatkan 20 subjek tes yang disebut Dolors untuk beristirahat dan kumpulkan 10 Gelang Identifikasi Subjek Tes. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"}
+, Summary = "Test Subject Identification Bracelet 10"}
+, 
+[17035] = {Title = "Pending: To Rudus", 
+Description = {"Sampai jumpa lagi setelah fajar. Kamu melakukan pekerjaan dengan baik. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"}
+, Summary = "Quest resets at 4:00 a.m."}
+, 
+[17037] = {Title = "Cooldown", IconName = "ico_ev.bmp", 
+Description = {"This quest is on cooldown"}
+, Summary = "Reset 04:00"}
+, 
+[8719] = {Title = "Ill Twin - Sarang baru ? ", 
+Description = {"Saat menjelajah Ant Hell room 2, Mirko dan Yolanda menemukan sarang aneh disana.."}
+, Summary = "Bicara ke Mirco"}
+, 
+[8720] = {Title = "Mirco Request (1)", 
+Description = {"Mirko berkata bahwa Briashen menghilang, dia menjelajah sarang semut baru tapi menghilang.."}
+, Summary = "Bicara ke Mirco"}
+, 
+[8721] = {Title = "Dimana Briashen ?", 
+Description = {"Temukan Briashen di Sarang semut baru."}
+, Summary = "Bicara ke Briashen"}
+, 
+[8722] = {Title = "Pesan dari Briashen", 
+Description = {"Briashen berkata dia baik baik saja, dan tolong sampaikan pesannya ke Mirco."}
+, Summary = "Bicara ke Mirco"}
+, 
+[8723] = {Title = "Mirco Request (2)", 
+Description = {"Setelah mendengar kabar dari Briashen, Mirco ingin meminta bantuan Briashen."}
+, Summary = "Bicara ke Briashen"}
+, 
+[8724] = {Title = "Dimana Kharis ?", 
+Description = {"Tolong cari keberadaan Kharis. Kharis terlihat mirip dengan Briashen, mungkin kembar."}
+, Summary = "Bicara Kharis, dia kembaran Briashen."}
+, 
+[8725] = {Title = "Hah mereka kembar...? (1)", 
+Description = {"Seorang ranger bernama Rwella juga mencari Briaschen, apakah itu sama dengan Briashen?"}
+, Summary = ""}
+, 
+[8726] = {Title = "Hah mereka kembar...? (2)", 
+Description = {"Seorang ranger bernama Kharis mencari temannya yang hilang, tapi dia berkata bukan Briashen."}
+, Summary = ""}
+, 
+[8727] = {Title = "Hah mereka kembar...? (3)", 
+Description = {"Gunslinger bernama Kahris mencari temannya yang hilang, tapi Briashen bilang kalau Kharis yang dia cari itu Ranger."}
+, Summary = ""}
+, 
+[8728] = {Title = "Siapa itu Kahris?", 
+Description = {"Sepertinya orang yang sangat mirip dengan Briaschen di dungeon ini bukan manusia, Ayo laporkan ke Mirco."}
+, Summary = "Bicara ke Mirko"}
+, 
+[8729] = {Title = "Dimana Brisshen (2)", 
+Description = {"Khahris sepertinya adalah Vitata yang menyamar. Mirko memintamu untuk menolong Briaschen."}
+, Summary = "Kembali ke dungeon"}
+, 
+[8730] = {Title = "Dungeon penuh tipuan", 
+Description = {"Saat Mirko mengetahui bahwa monster disini bisa berubah wujud jadi manusia, ia memintamu untuk segera membawa Briashen Keluar."}
+, Summary = "Bawa Briashen ke Mirko"}
+, 
+[8731] = {Title = "[Daily] Geological Survey", IconName = "ico_dq.bmp", 
+Description = {"Mirko membutuhkan 20 Fine Dry Sand dari Gutsy Giearth."}
+, Summary = "Bawakan 20 Fine Dry Sand"}
+, 
+[8732] = {Title = "[Cooldown] Geological Survey", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang cooldown, datang lagi esok hari ke Mirko."}
+, Summary = "Reset Pukul 04.00 Pagi", CoolTimeQuest = 1}
+, 
+[8733] = {Title = "[Daily] Source of Power", IconName = "ico_dq.bmp", 
+Description = {"Mirko membutuhkan 20 Opaque Liquids dari Dilligent Andre Larva."}
+, Summary = "Bawakan 20 Opaque Liquids"}
+, 
+[8734] = {Title = "[Cooldown] Source of Power", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang cooldown, datang lagi esok hari ke Mirko."}
+, Summary = "Reset Pukul 04.00 Pagi", CoolTimeQuest = 1}
+, 
+[8735] = {Title = "[Daily] Same Thing", IconName = "ico_dq.bmp", 
+Description = {"Mirko memintamu mengalahkan 10 Dilligent Vitata, 10 Dilligent Soldier Andre, 10 Dilligent Pierre."}
+, Summary = "Bicara pada Mirko apabila sudah selesai"}
+, 
+[8736] = {Title = "[Cooldown] Same Thing", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang cooldown, datang lagi esok hari ke Mirko."}
+, Summary = "Reset Pukul 04.00 Pagi", CoolTimeQuest = 1}
+, 
+[8737] = {Title = "[Daily] Shared Memory", IconName = "ico_dq.bmp", 
+Description = {"Kumpulkan 20 Shell of Cognition."}
+, Summary = "Bawa 20 Shell of Cognition"}
+, 
+[8738] = {Title = "[Cooldown] Shared Memory", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi ke Mirko besok."}
+, Summary = "Reset pukul 04.00", CoolTimeQuest = 1}
+, 
+[292402] = {Title = "[Daily] Green MVP Aura Mission 1", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Bicara pada NPC Mr Green apabila sudah selesai"}
+, 
+[292403] = {Title = "[Daily] Green MVP Aura Mission 3", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Bicara pada NPC Mr Green apabila sudah selesai"}
+, 
+[292404] = {Title = "[Daily] Green MVP Aura Mission 4", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Bicara pada NPC Mr Green apabila sudah selesai"}
+, 
+[292405] = {Title = "[Daily] Green MVP Aura Mission 5", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Bicara pada NPC Mr Green apabila sudah selesai"}
+, 
+[292406] = {Title = "[Daily] Green MVP Aura Mission 6", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Bicara pada NPC Mr Green apabila sudah selesai"}
+, 
+[292407] = {Title = "[Daily] Green MVP Aura Mission 7", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Bicara pada NPC Mr Green apabila sudah selesai"}
+, 
+[292401] = {Title = "[Cooldown] Green MVP Aura Mission", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang cooldown, datang lagi esok hari ke NPC Mr Green."}
+, Summary = "Reset Pukul 04.00 Pagi", CoolTimeQuest = 1}
+, 
+[12364] = {Title = "Collapsed Pharos Lighthouse", IconName = "ico_dq.bmp", 
+Description = {"Bicara pada NPC Reckless Explorer"}
+, Summary = "Bicara pada NPC Reckless Explorer"}
+, 
+[12365] = {Title = "[Cooldown] Collapsed Pharos Lighthouse", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang cooldown", "Cooldown time: 3 Jam", "Bicara kembali ke NPC Reckless Explorer saat cooldown selesai"}
+, Summary = "Cooldown time: 3 Jam", CoolTimeQuest = 1}
+, 
+[12366] = {Title = "[Hunt] Kalahkan Infinite Eddga", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan Infinite Eddga"}
+, Summary = "Kalahkan Infinite Eddga"}
+, 
+[12367] = {Title = "[Hunt] Kalahkan Infinite Phreeoni", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan Infinite Phreeoni"}
+, Summary = "Kalahkan Infinite Phreeoni"}
+, 
+[292408] = {Title = "[Ramadhan] Hunt 1", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan 10 Alligator, 10 Anolian"}
+, Summary = "Selesaikan Misi ini"}
+, 
+[292409] = {Title = "[Ramadhan] Hunt 2", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan 10 Pasana, 10 Minorous"}
+, Summary = "Selesaikan Misi ini"}
+, 
+[292410] = {Title = "[Ramadhan] Hunt 3", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan 10 Wootan Fighter, 10 Wootan Shooter"}
+, Summary = "Selesaikan Misi ini"}
+, 
+[292411] = {Title = "[Ramadhan] Kumpulkan item", IconName = "ico_dq.bmp", 
+Description = {"Beli seperangkat baju dari pedangang keliling"}
+, Summary = "Selesaikan Misi ini"}
+, 
+[292412] = {Title = "[Ramadhan] Tangkap Mahluk jahat", IconName = "ico_dq.bmp", 
+Description = {"Tangkap Tiyanak di niffleheim atau malaya"}
+, Summary = "Selesaikan Misi ini"}
+, 
+[292413] = {Title = "[Ramadhan] Cooldown quest 1 jam", IconName = "ico_dq.bmp", 
+Description = {"Quest sedang cooldown 1 jam setelah melapor"}
+, Summary = "Tunggu 1 jam"}
 }
 

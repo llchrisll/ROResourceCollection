@@ -1,10 +1,21 @@
 //맵이름.rsw#bgm\\음악번호#
 
+//thanksgiving event
+thanksmasak.rsw#bgm\\69.mp3#
+thankslari.rsw#bgm\\66.mp3#
+thanksfoto.rsw#bgm\\169.mp3#
+
+//halloween event
+evt_hallo.rsw#bgm\\150.mp3#
+refine_gath.rsw#bgm\\123.mp3#
+refine_win.rsw#bgm\\123.mp3#
+mvp_gath.rsw#bgm\\159.mp3#
+
 // Turn-In Event
 ti_high.rsw#bgm\\07.mp3#
 ti_mid.rsw#bgm\\17.mp3#
 ti_low.rsw#bgm\\02.mp3#
-ti_vip.rsw#bgm\\18.mp3#
+ti_vip.rsw#bgm\\147.mp3#
 
 //영웅의흔적
 1@face.rsw#bgm\\36.mp3#
@@ -23,19 +34,19 @@ gl_chyard_.rsw#bgm\\40.mp3#
 2@gl_k.rsw#bgm\\44.mp3#
 
 //공성전 TE(복사맵)
-te_prt_gld.rsw#bgm\\66.mp3#
-te_prtcas01.rsw#bgm\\66.mp3#
-te_prtcas02.rsw#bgm\\66.mp3#
-te_prtcas03.rsw#bgm\\66.mp3#
-te_prtcas04.rsw#bgm\\66.mp3#
-te_prtcas05.rsw#bgm\\66.mp3#
+te_prt_gld.rsw#bgm\\991.mp3#
+te_prtcas01.rsw#bgm\\991.mp3#
+te_prtcas02.rsw#bgm\\991.mp3#
+te_prtcas03.rsw#bgm\\991.mp3#
+te_prtcas04.rsw#bgm\\991.mp3#
+te_prtcas05.rsw#bgm\\991.mp3#
 teg_dun01.rsw#bgm\\44.mp3#
-te_alde_gld.rsw#bgm\\66.mp3#
-te_aldecas1.rsw#bgm\\66.mp3#
-te_aldecas2.rsw#bgm\\66.mp3#
-te_aldecas3.rsw#bgm\\66.mp3#
-te_aldecas4.rsw#bgm\\66.mp3#
-te_aldecas5.rsw#bgm\\66.mp3#
+te_alde_gld.rsw#bgm\\991.mp3#
+te_aldecas1.rsw#bgm\\991.mp3#
+te_aldecas2.rsw#bgm\\991.mp3#
+te_aldecas3.rsw#bgm\\991.mp3#
+te_aldecas4.rsw#bgm\\991.mp3#
+te_aldecas5.rsw#bgm\\991.mp3#
 teg_dun02.rsw#bgm\\44.mp3#
 
 //튜토리얼 (복사맵)
@@ -147,6 +158,7 @@ bra_in01.rsw#bgm\\133.mp3#
 bra_fild01.rsw#bgm\\134.mp3#
 bra_dun01.rsw#bgm\\135.mp3#
 bra_dun02.rsw#bgm\\135.mp3#
+//moc para tadinya 11
 moc_para01.rsw#bgm\\11.mp3#
 job3_arch01.rsw#bgm\\110.mp3#
 job3_arch02.rsw#bgm\\110.mp3#
@@ -313,6 +325,8 @@ ice_dun04.rsw#bgm\\96.mp3#
 que_ng.rsw#bgm\\77.mp3#
 hugel.rsw#bgm\\93.mp3#
 hu_in01.rsw#bgm\\93.mp3#
+//hugel tadinya 93
+////hugel.rsw#bgm\\57.mp3#
 ////hugel.rsw#bgm\\54.mp3#
 ////hu_in01.rsw#bgm\\54.mp3#
 que_bingo.rsw#bgm\\93.mp3#
@@ -378,7 +392,7 @@ jupe_ele.rsw#bgm\\89.mp3#
 jupe_ele_r.rsw#bgm\\89.mp3#
 jupe_core.rsw#bgm\\89.mp3#
 lighthalzen.rsw#bgm\\90.mp3#
-lhz_in01.rsw#bgm\\90.mp3#
+lhz_in01.rsw#bgm\\149.mp3#
 lhz_in02.rsw#bgm\\90.mp3#
 lhz_in03.rsw#bgm\\90.mp3#
 lhz_cube.rsw#bgm\\92.mp3#
@@ -740,16 +754,21 @@ ordeal_1-4.rsw#bgm\\06.mp3#
 ordeal_2-4.rsw#bgm\\06.mp3#
 ordeal_3-4.rsw#bgm\\06.mp3#
 alb_ship.rsw#bgm\\52.mp3#
+//alberta 15
 alberta.rsw#bgm\\15.mp3#
 alberta_in.rsw#bgm\\15.mp3#
+////alberta.rsw#bgm\\57.mp3#
+////alberta_in.rsw#bgm\\57.mp3#
 ////alberta.rsw#bgm\\54.mp3#
 ////alberta_in.rsw#bgm\\54.mp3#
 alb2trea.rsw#bgm\\52.mp3#
+//aldebaran 39
+////aldebaran.rsw#bgm\\57.mp3#
+////aldeba_in.rsw#bgm\\57.mp3#
 aldebaran.rsw#bgm\\39.mp3#
 aldeba_in.rsw#bgm\\39.mp3#
-////aldebaran.rsw#bgm\\56.mp3#
-////aldeba_in.rsw#bgm\\56.mp3#
 gef_tower.rsw#bgm\\13.mp3#
+//geffen tadinya 13
 geffen.rsw#bgm\\13.mp3#
 geffen_in.rsw#bgm\\13.mp3#
 ////geffen.rsw#bgm\\57.mp3#
@@ -763,17 +782,17 @@ payon.rsw#bgm\\14.mp3#
 payon_in01.rsw#bgm\\14.mp3#
 payon_in02.rsw#bgm\\14.mp3#
 payon_in03.rsw#bgm\\14.mp3#
-////prontera.rsw#bgm\\55.mp3#
 prontera.rsw#bgm\\08.mp3#
+////prontera.rsw#bgm\\57.mp3#
 ////prontera.rsw#bgm\\Event01_id.mp3#
 prt_in.rsw#bgm\\08.mp3#
 ////prt_in.rsw#bgm\\55.mp3#
 prt_castle.rsw#bgm\\09.mp3#
 prt_church.rsw#bgm\\10.mp3#
 ////prt_church.rsw#bgm\\56.mp3#
-izlude.rsw#bgm\\26.mp3#
+////izlude.rsw#bgm\\57.mp3#
 izlude_in.rsw#bgm\\26.mp3#
-////izlude.rsw#bgm\\56.mp3#
+izlude.rsw#bgm\\26.mp3#
 ////izlude_in.rsw#bgm\\56.mp3#
 izlu2dun.rsw#bgm\\52.mp3#
 monk_in.rsw#bgm\\28.mp3#
@@ -999,3 +1018,85 @@ un_myst.rsw#bgm\\121.mp3#
 1@air1.rsw#bgm\\87.mp3#
 1@air2.rsw#bgm\\87.mp3#
 1@glast.rsw#bgm\\95.mp3#
+
+// ep16.1 영웅을 위한 연회 + 프론테라 리뉴얼
+1@mir.rsw#bgm\\166.mp3#
+2@mir.rsw#bgm\\10.mp3#
+1@sthb.rsw#bgm\\165.mp3#
+1@sthc.rsw#bgm\\165.mp3#
+1@sthd.rsw#bgm\\165.mp3#
+prt_lib.rsw#bgm\\10.mp3#
+prt_lib_q.rsw#bgm\\10.mp3#
+prt_cas.rsw#bgm\\09.mp3#
+prt_cas_q.rsw#bgm\\09.mp3#
+prt_pri00.rsw#bgm\\09.mp3#
+prt_prison.rsw#bgm\\125.mp3#
+prt_q.rsw#bgm\\167.mp3#
+
+//-최종갱신 오전 10:45 2016-03-08 본서버
+//맵이름.rsw#bgm\\음악번호#
+
+// ep16.2
+1@slw.rsw#bgm\\124.mp3#
+1@swat.rsw#bgm\\87.mp3#
+que_swat.rsw#bgm\\87.mp3#
+slabw01.rsw#bgm\\87.mp3#
+rebel_in.rsw#bgm\\86.mp3#
+
+// 생체던전 신규 전사자의 무덤
+lhz_dun_n.rsw#bgm\\124.mp3#
+
+evt_emperor.rsw#bgm\\123.mp3#
+
+// 일루전 게펜 (뱀파이어) - Illussion Vampire
+gef_d01_i.rsw#bgm\\51.mp3#
+
+// Illussion Moonlight
+pay_d03_i.rsw#bgm\\20.mp3#
+
+// Illussion Turtle
+tur_d03_i.rsw#bgm\\65.mp3#
+tur_d04_i.rsw#bgm\\65.mp3#
+
+// Crack of dimension
+x_lhz.rsw#bgm\\125.mp3#
+x_prt.rsw#bgm\\125.mp3#
+x_ra.rsw#bgm\\125.mp3#
+
+//Illussion Teedy Bear
+ein_d02_i.rsw#bgm\\88.mp3#
+
+//Illussion Luanda
+com_d02_i.rsw#bgm\\41.mp3#
+
+//Illussion Labyrinth
+prt_mz03_i.rsw#bgm\\16.mp3#
+
+//Illussion Underwater
+iz_d04_i.rsw#bgm\\49.mp3#
+iz_d05_i.rsw#bgm\\49.mp3#
+
+//2022 3Q 185lv 만렙확장: 신규 던전
+// 레벨확장 컨텐츠
+mag_dun03.rsw#bgm\\06.mp3#
+gl_cas01_.rsw#bgm\\43.mp3#
+
+//2022 3Q EP17.1
+// 에피소드 17.1 태동, 일루시온
+1@cor.rsw#bgm\\103.mp3#
+1@os_a.rsw#bgm\\102.mp3#
+1@os_b.rsw#bgm\\87.mp3#
+1@rgsr.rsw#bgm\\162.mp3#
+rgsr_in.rsw#bgm\\90.mp3#
+pub_cat.rsw#bgm\\175.mp3#
+sp_cor.rsw#bgm\\174.mp3#
+sp_os.rsw#bgm\\174.mp3#
+sp_rudus.rsw#bgm\\176.mp3#
+sp_rudus2.rsw#bgm\\176.mp3#
+sp_rudus3.rsw#bgm\\176.mp3#
+
+//Illusion of Twins
+ant_d02_i.rsw#bgm\\46.mp3#
+
+//Infinity Space
+1@infi.rsw#bgm\\95.mp3#

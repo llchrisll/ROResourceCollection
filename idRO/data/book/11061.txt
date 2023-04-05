@@ -1,0 +1,128 @@
+﻿%f5f5dc
+^000088Penukaran item Honor Token - Consumable item^000000
+
+^ff0000[City Map]^000000
+Peta Kota Prontera yang digunakan untuk memandu seseorang menjelajahi Prontera. 
+Gunakan item ini untuk cast increase Agility Lv.1. 
+Catatan! Tidak bisa digunakan apabila dipakai bersamaan dengan Cast skill lain. 
+Berat : 1
+
+^ff0000[Shining Holy Water]^000000
+Mengurangi damage yang diterima di map Room of Conciousness dan Prontera Invasion Dungeon sebesar 10% selama 3 menit.
+Menyembuhkan status Poison, Curse, Silence dan memulihkan 1.000 HP.
+Berat : 1.5
+
+^ff0000[Prison Key]^000000
+Beberapa kunci ruang tahanan yang kotor. 
+Dapat langsung berpindah map ke Underground dungeon Prontera.
+Berat : 1
+
+^ff0000[Prontera Badge]^000000
+Sebuah lencana dengan koordinat Prontera yang diukir diatasnya.
+Gunakan item untuk langsung berpindah ke Prontera.
+Berat : 1
+
+
+^000088Prontera palace commissary exchange item -armor item^000000
+
+^ff0000[City Map]^000000
+Peta Kota Prontera yang sangat detil.
+Menjelajahi kota Prontera akan terasa lebih mudah.
+Pemain dapat menggunakan 'Increase Agility' Lv.3
+Jenis: Accessory 
+Defense : 0
+Berat : 10 
+Syarat Lv : 40 
+Job : Semua Job
+Slot : 1
+
+^ff0000[Shining Holy Water]^000000
+Botol yang berisi Holy Water spesial, Energi jahat tidak akan berani mendekat.
+Mengurangi damage yang diterima di map Room of Conciousness dan Prontera Invasion Dungeon sebesar 20%.
+Memulihkan 100 HP dan 5 SP setiap 10 seconds. 
+Jenis: Accessory Defense: 0 
+Berat : 15 
+Syarat Lv : 100 
+Job : Semua Job
+Slot : 1
+
+^ff0000[Royal Guard Shield]^000000
+Perisai khusus Royal Guard penjaga kastil Prontera
+Pemain dapat menggunakan 'Shield Spell' Lv.1 
+Saat menerima serangan fisik jarak dekat, terdapat kemungkinan Mengaktifkan skill 'Assumptio' Lv. 3.
+Kemungkinan pengaktifan 'Assumptio' meningkat bergantung dari level tempa Shield.
+DEF +10 dan MDEF +1 tiap level tempa
+Jenis: Shield 
+Defense : 30 
+Berat : 300 
+Syarat Lv : 100 
+Job : Semua job 
+Slot : 1
+
+^ff0000[Prontera Badge]^000000
+Sebuah lencana dengan koordinat Prontera yang diukir diatasnya.
+Lencana ini hanya dibuat khususs untuk para petinggi Prontera.
+Pemain dapat menggunakan skill 'Return to Prontera'. 
+Memiliki Cooldown 15 menit ketika digunakan.
+Jenis : Accessory 
+Defense : 0 
+Weight : 10 
+Required lvl : 40 
+Job : 
+
+^ff0000Flattery Robe^000000
+Jubah khusus yang digunakan oleh mereka yang melakukan apa saja demi tujuannya.
+Pemain dapat menggunakan 'Endure' Lv 1.
+MATK + 50.
+Apabila Base Level pemain 120 atau diatasnya, MATK +50.
+Apabila Base Level pemain 140 atau diatasnya, MATK +50.
+-------
+Saat dikenakan bersamaan dengan Ancient Cape,
+Max SP +10%, Flee +10.
+Tambahan bonus Max SP +1% dan Flee +1 tiap level tempa Flattery Robe.
+-------
+Saat dikenakan bersamaan dengan Survivor's Manteau,
+Max HP +10%, MATK +2%.
+Tambahan bonus Max HP +1% dan MATK +1% tiap level tempa Flattery Robe.
+Jenis : Armor 
+Defense : 0 
+Berat : 10 
+Syarat Lv : 100 
+Job : Semua Job
+Slot : 1
+
+^ff0000Abusive Robe^000000
+Jubah khusus yang digunakan oleh orang yang suka menyerang langsung ke jiwa lawannya.
+Pemain dapat menggunakan 'Improve Concentration' LV 1.
+Tiap level tempa, bypass 4% Def serangan fisik dari ras Demi-Human, Demon, dan Undead.
+-------
+Saat dikenakan bersamaan dengan Morrigane's Manteau,
+Luk +3, Crit +10.
+Tambahan bonus Luk +1 dan Crit +1 tiap level tempa Abusive Robe.
+-------
+Saat dikenakan bersamaan dengan Valkyrie Manteau,
+Max HP +10%
+Atk +2%
+Tambahan bonus Max HP +1% dan Atk +1% tiap level tempa Abusive Robe.
+Jenis : Armor 
+Defense : 0 
+Berat : 10 
+Syarat : 100 
+Job : Semua job
+Slot : 1
+
+^ff0000C Time Décor^000000
+Kostum ini membuatmu merasa terperangkap dalam waktu. 
+Jenis : Costume 
+Defense : 0 
+Posisi : Middle 
+Berat : 0 
+Syarat lv : 1 
+Job : Semua Job
+
+^ff0000C Black Hand of Fate^000000
+Kostum ini membuatmu merasa dicengkram takdir yang tak bisa dihindari.
+Jenis : Costume Defense: 0 
+Posisi : Upper Berat : 0 
+Syarat lv : 1 
+Job : Semua job

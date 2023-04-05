@@ -3,11 +3,633 @@
 
 -- params : ...
 -- function num : 0
-TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, 
+TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, Default_Robe = 400, 
 Items_List = {
+[ACCESSORY_IDs.ACCESSORY_C_Agnes_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Debris_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_ElenaVolkova_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Elumina_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Berner_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Prayer_Cherry_Blossom] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Happy_Lunatic_Hanging_Ear] = {Default = 161, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tiger_WH] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tiger_BL] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Dreaming_Rose_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_BU] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_RD] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_YL] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_GN] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_BL] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_WH] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_OM] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Intake_PP] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fish_Marche] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig_Peach] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Kururinpa_Hair_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_LBW] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Half_Up_BU] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Half_Up_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Half_Up_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Half_Up_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Half_Up_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Half_Up_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Half_Up_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Half_Up_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Avenger] = {Default = 171}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Inner_Color_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Sailor_Collar_WH] = {Default = 103, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_White_Corone] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Poulet_TW] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_White_Cat_On_Shoulder] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BU] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cherry_Ribbon] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_BU] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Black_Dragon_Style] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Floating_Parasol] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Hair_Bun_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Fairy_Feathers] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_TW_2th_Balloon] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Lady_Tanee] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Wonder_Egg_Basket] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_BU] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RK_Hair_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Low_Twin_W] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Hopping_Twin_Pigtail] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Japanes_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_CB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Sweet_Corone] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_LB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_L_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_BG] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_JBL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_BW] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fishbone_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Hair_Bun_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Ribbon] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_LB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_CB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_BG] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_JBL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_GOSSIP_RAVEN] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_DancingButterfly] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Low_Twin] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Elegant_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_2020RTC_01] = {isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_2020RTC_02] = {isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_2020RTC_03] = {isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_2020RTC_Imp_TW] = {isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_War_Princess_Ribbon] = {Default = 301, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_LittleGarden] = {Default = 161, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Blanc_Neige_Prince] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_CatEarRibbon] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Phalanx] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Baby_Polar_Bear] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Mike_Stand] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Snow_Fox] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_BU] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_RD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_GN] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_BL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Princess_Wave_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Female] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Male] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_BELL_PIGEON] = {Default = 301, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_PocketWatch_Hair_Orna] = {Default = 301, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Eleanor_WigB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Nine_Tail_Fox_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Lovely_Ribbon_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Rabbit_Two_Side_Up] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Mushroom_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Volume_Low_Twin_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_Short] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Straight_Long_JBL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Semi_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Lovely_Ribbon_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Piamette_Roll_Hair_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Volume_Low_Twin_CB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Medium_Wave_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Miracle_Plant] = {Default = 303, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Orange_Rabbit] = {Default = 304, isIgnoreRiding = true}
+, 
 [ACCESSORY_IDs.ACCESSORY_Floating_Ball] = {Default = 304}
 , 
+[ACCESSORY_IDs.ACCESSORY_Durumagi] = {Default = 143}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Baby_Panda] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Medium_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Shih_Tzu_Long] = {Default = 143, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Pigtail_Red_Hood] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Lolita_Two_Side_UpK] = {Default = 152, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_BDK] = {Default = 152, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_SVK] = {Default = 152, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Volume_Low_Twin_WHK] = {Default = 152, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Volume_Low_TwinK] = {Default = 152, 
 Direction = {}
 }
 , 
@@ -15,13 +637,11 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Floating_Ball] = {Default = 304}
+[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = {Default = 304}
+[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 304}
-, 
-[ACCESSORY_IDs.ACCESSORY_C_Fox] = {Default = 304}
+[ACCESSORY_IDs.ACCESSORY_C_Fox] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair] = {Default = 143, 
 Direction = {}
@@ -57,6 +677,22 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Lovely_Ribbon_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Airy_Two_Side_Up_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Eleanor_Wig] = {Default = 152, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_Eleanor_Wig_YL] = {Default = 152, 
 Direction = {}
 }
@@ -89,7 +725,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Volume_Low_Twin] = {Default = 152, 
+[ACCESSORY_IDs.ACCESSORY_Volume_Low_Twin] = {Default = 143, 
 Direction = {}
 }
 , 
@@ -97,7 +733,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Lolita_Two_Side_Up] = {Default = 152, 
+[ACCESSORY_IDs.ACCESSORY_Lolita_Two_Side_Up] = {Default = 143, 
 Direction = {}
 }
 , 
@@ -329,13 +965,19 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, 
+[ACCESSORY_IDs.ACCESSORY_C_Tiger] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Pet_Popcorn_Box] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Alpha_Long_Pony] = {Default = 143, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Baby_Penguin] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_C_Desert_Wolf_B] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Baby_Penguin] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_L_RibbonMuff_Red] = {Default = 303, 
 Direction = {}
@@ -345,17 +987,19 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_Clay_Poring_Jar] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 304, 
-Direction = {}
-}
+[ACCESSORY_IDs.ACCESSORY_C_Leopard_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_American_S_hair] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Orange_Tabby_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 304, isIgnoreRiding = true}
 , 
 [ACCESSORY_IDs.ACCESSORY_RABBIT_HEAD_DRESS] = {Default = 302, 
 Direction = {}
@@ -374,10 +1018,6 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_Charleston_Antenna] = {Default = 304, 
-Direction = {}
-}
-, 
-[ACCESSORY_IDs.ACCESSORY_Flying_Drone] = {Default = 301, 
 Direction = {}
 }
 , 
@@ -528,6 +1168,72 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_Flame_Muffler] = {Default = 303, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin_B] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Light_Dark] = {Default = 403, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Guardian_Wing] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_FallenAngelWingEar] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Starry_Long_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Starry_Ribbon_Twin] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Flower_L_Knitting] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Mushroom_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Yesterday_Once_More] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_RSV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Valkyrie_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Black_Rabbit] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Inner_Color_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Ring] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BL] = {Default = 143, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
@@ -542,9 +1248,22 @@ Direction = {}
     return false
   end
 end
+, IsHelmRobe = function(acc_id)
+  -- function num : 0_1
+  local Items_List = TB_Layer_Priority.Items_List
+  do
+    if Items_List ~= nil then
+      local Item_Tb = Items_List[acc_id]
+      if Item_Tb ~= nil and Item_Tb.isHelmRobe ~= nil then
+        return Item_Tb.isHelmRobe
+      end
+    end
+    return false
+  end
+end
 }
 GetLayerPriority = function(direction, layer, acc_id)
-  -- function num : 0_1
+  -- function num : 0_2
   local Items_List = TB_Layer_Priority.Items_List
   do
     if Items_List ~= nil then
@@ -553,7 +1272,9 @@ GetLayerPriority = function(direction, layer, acc_id)
         if Item_Tb.Direction ~= nil and (Item_Tb.Direction)[direction] ~= nil then
           return (Item_Tb.Direction)[direction]
         end
-        return Item_Tb.Default
+        if Item_Tb.Default ~= nil then
+          return Item_Tb.Default
+        end
       end
     end
     if layer == 2 then
@@ -565,7 +1286,11 @@ GetLayerPriority = function(direction, layer, acc_id)
         if layer == 4 then
           return TB_Layer_Priority.Default_Mid
         else
-          return -1
+          if layer == 8 then
+            return TB_Layer_Priority.Default_Robe
+          else
+            return -1
+          end
         end
       end
     end

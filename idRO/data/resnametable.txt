@@ -1577,3 +1577,67 @@ bossnia_04.rsw#gef_dun03.rsw#
 1@air1.gat#1@air1.gat#
 1@air1.rsw#1@air1.rsw#
 유저인터페이스\map\1@air1.bmp#유저인터페이스\map\1@air1.bmp#
+
+//2015 EPISODE_16.1 메모리얼 던전
+1@sthb.gnd#1@sthb.gnd#
+1@sthb.gat#1@sthb.gat#
+1@sthb.rsw#1@sthb.rsw#
+유저인터페이스\map\1@sthb.bmp#유저인터페이스\map\1@sthb.bmp#
+
+1@sthc.gnd#1@sthc.gnd#
+1@sthc.gat#1@sthc.gat#
+1@sthc.rsw#1@sthc.rsw#
+유저인터페이스\map\1@sthc.bmp#유저인터페이스\map\1@sthc.bmp#
+
+1@sthd.gnd#1@sthd.gnd#
+1@sthd.gat#1@sthd.gat#
+1@sthd.rsw#1@sthd.rsw#
+유저인터페이스\map\1@sthd.bmp#유저인터페이스\map\1@sthd.bmp#
+
+1@mir.gnd#1@mir.gnd#
+1@mir.gat#1@mir.gat#
+1@mir.rsw#1@mir.rsw#
+유저인터페이스\map\1@mir.bmp#유저인터페이스\map\1@mir.bmp#
+
+2@mir.gnd#2@mir.gnd#
+2@mir.gat#2@mir.gat#
+2@mir.rsw#2@mir.rsw#
+유저인터페이스\map\2@mir.bmp#유저인터페이스\map\2@mir.bmp#
+
+//201502 16.2
+1@swat.gnd#1@swat.gnd#
+1@swat.gat#1@swat.gat#
+1@swat.rsw#1@swat.rsw#
+유저인터페이스\map\1@swat.bmp#유저인터페이스\map\1@swat.bmp#
+
+1@slw.gnd#1@slw.gnd#
+1@slw.gat#1@slw.gat#
+1@slw.rsw#1@slw.rsw#
+유저인터페이스\map\1@slw.bmp#유저인터페이스\map\1@slw.bmp#
+
+//2022 3Q EP17.1
+//201805 17.1 추가맵
+1@cor.gnd#1@cor.gnd#
+1@cor.gat#1@cor.gat#
+1@cor.rsw#1@cor.rsw#
+유저인터페이스\map\1@cor.bmp#유저인터페이스\map\1@cor.bmp#
+
+1@os_a.gnd#1@os_a.gnd#
+1@os_a.gat#1@os_a.gat#
+1@os_a.rsw#1@os_a.rsw#
+유저인터페이스\map\1@os_a.bmp#유저인터페이스\map\1@os_a.bmp#
+
+1@os_b.gnd#1@os_b.gnd#
+1@os_b.gat#1@os_b.gat#
+1@os_b.rsw#1@os_b.rsw#
+유저인터페이스\map\1@os_b.bmp#유저인터페이스\map\1@os_b.bmp#
+
+1@rgsr.gnd#1@rgsr.gnd#
+1@rgsr.gat#1@rgsr.gat#
+1@rgsr.rsw#1@rgsr.rsw#
+유저인터페이스\map\1@rgsr.bmp#유저인터페이스\map\1@rgsr.bmp#
+
+//퍼즐앤 드래곤 콜라보레이션 메모리얼 던전 2 무한회랑
+1@infi.gnd#1@infi.gnd#
+1@infi.gat#1@infi.gat#
+1@infi.rsw#1@infi.rsw#

@@ -750,7 +750,7 @@ descript = {
 , 
 {"Have chance to fully avoid damage"}
 , 
-{"of mili physical attack"}
+{"of melee physical attack"}
 }
 }
 -- DECOMPILER ERROR at PC1426: Confused about usage of register: R0 in 'UnsetPending'
@@ -1449,7 +1449,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"When mili attacking or being attacked"}
+{"When melee attacking or being attacked"}
 , 
 {"Create 1 Spirit Sphere"}
 }
@@ -1547,7 +1547,7 @@ descript = {
 , 
 {"Increase STR"}
 , 
-{"When mili attacking"}
+{"When melee attacking"}
 , 
 {"have chance to give gigantic damage"}
 , 
@@ -1800,7 +1800,7 @@ descript = {
 , 
 {"When caster is in Spurt"}
 , 
-{"also can block mili-attacks"}
+{"also can block melee-attacks"}
 }
 }
 -- DECOMPILER ERROR at PC3590: Confused about usage of register: R0 in 'UnsetPending'
@@ -1872,7 +1872,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"Add MATK to mili physical ATK"}
+{"Add MATK to melee physical ATK"}
 }
 }
 -- DECOMPILER ERROR at PC3740: Confused about usage of register: R0 in 'UnsetPending'
@@ -2512,7 +2512,7 @@ descript = {
 , 
 {"Create defense barrier after consuming certain amount of HP"}
 , 
-{"When other player mili physical attacks to the caster"}
+{"When other player melee physical attacks to the caster"}
 , 
 {"have chance to destroy the enemy\'s weapon"}
 , 
@@ -2707,7 +2707,7 @@ descript = {
 , 
 {"Reflect certain amount of damage to the enemy"}
 , 
-{"which the caster got from the mili-physical attack"}
+{"which the caster got from the melee-physical attack"}
 }
 }
 -- DECOMPILER ERROR at PC5468: Confused about usage of register: R0 in 'UnsetPending'
@@ -4685,9 +4685,9 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_EP16_DEF] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
 descript = {
-{"Shining Holly Water", COLOR_TITLE_BUFF}
+{"Shining Holy Water", COLOR_TITLE_BUFF}
 , 
-{"10% Damage reduce from Ritual Room, Prontera Invasion dungeons"}
+{"Mengurangi damage yang diterima dari Monster di Room of Consciousness dan Map Prontera Invasion sebesar 10%"}
 , 
 {"%s", COLOR_TIME}
 }
@@ -4707,74 +4707,74 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N1] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"Bed of Honor", COLOR_TITLE_BUFF}
+{"Tomb Protection", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"Increase in damage to some monsters of Bed of Honor."}
+{"Meningkatkan Damage ke Monster di Tomb of Honor."}
 , 
-{"List : Swordman, Thief class Bed of Honor monsters."}
+{"Jenis: Monster Class Swordman, Thief di Tomb of Honor."}
 , 
-{"Receive less damage from some monsters of Bed of Honor."}
+{"Mengurangi Damage dari Monster di Tomb of Honor."}
 , 
-{"List : Acolyte, Merchant class Bed of Honor monsters."}
+{"Jenis: Monster Class Acolyte, Merchant di Tomb of Honor."}
 , 
-{"Exclude MVP Monsters."}
+{"Tidak termasuk Monster MVP."}
 }
 }
 -- DECOMPILER ERROR at PC9734: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"Bed of Honor", COLOR_TITLE_BUFF}
+{"Tomb Protection", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"Increase in damage to some monsters of Bed of Honor."}
+{"Meningkatkan Damage ke Monster di Tomb of Honor."}
 , 
-{"List : Acolyte, Merchant class Bed of Honor monsters."}
+{"Jenis: Monster Class Acolyte, Merchant di Tomb of Honor."}
 , 
-{"Receive less damage from some monsters of Bed of Honor."}
+{"Mengurangi Damage dari Monster di Tomb of Honor."}
 , 
-{"List : Mage, Archer class Bed of Honor monsters."}
+{"Jenis: Monster Class Mage, Archer di Tomb of Honor."}
 , 
-{"Exclude MVP Monsters."}
+{"Tidak termasuk Monster MVP."}
 }
 }
 -- DECOMPILER ERROR at PC9770: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N3] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"Bed of Honor", COLOR_TITLE_BUFF}
+{"Tomb Protection", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"Increase in damage to some monsters of Bed of Honor."}
+{"Meningkatkan Damage ke Monster di Tomb of Honor."}
 , 
-{"List : Mage, Archer class Bed of Honor monsters."}
+{"Jenis: Monster Class Mage, Archer di Tomb of Honor."}
 , 
-{"Receive less damage from some monsters of Bed of Honor."}
+{"Mengurangi Damage dari Monster di Tomb of Honor."}
 , 
-{"List : Swordman, Thief class Bed of Honor monsters."}
+{"Jenis: Monster Class Swordman, Thief di Tomb of Honor."}
 , 
-{"Exclude MVP Monsters."}
+{"Tidak termasuk Monster MVP."}
 }
 }
 -- DECOMPILER ERROR at PC9803: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N4] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"Bed of Honor", COLOR_TITLE_BUFF}
+{"Tomb Protection", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"Increase in damage to some monsters of Bed of Honor."}
+{"Meningkatkan Damage ke Monster di Tomb of Honor."}
 , 
-{"List : Bed of Honor MVP Monsters."}
+{"Jenis: Monster MVP Tomb of Honor"}
 , 
-{"Receive less damage from some monsters of Bed of Honor."}
+{"Mengurangi Damage dari Monster di Tomb of Honor."}
 , 
-{"List : Bed of Honor MVP Monsters."}
+{"Jenis: Monster MVP Tomb of Honor"}
 }
 }
 -- DECOMPILER ERROR at PC9827: Confused about usage of register: R0 in 'UnsetPending'
@@ -5191,6 +5191,356 @@ descript = {
 {"Recover Certain Amount of HP in every 3 seconds"}
 , 
 {"Doesn\'t have effect in Berserk condition"}
+}
+}
+-- DECOMPILER ERROR at PC10724: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BASILICA_BUFF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Basilica", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan Serangan Magic Elemen Holy"}
+, 
+{"Meningkatkan serangan fisik kepada"}
+, 
+{"Musuh Shadow/Undead"}
+}
+}
+-- DECOMPILER ERROR at PC10751: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ASSUMPTIO_BUFF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Assumptio", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan Defense Fisik"}
+, 
+{"Meningkatkan Efektivitas Heal yang diterima"}
+}
+}
+-- DECOMPILER ERROR at PC10778: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RICHMANKIM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Mr. Kim a Rich Man", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Ketika mengalahkan monster"}
+, 
+{"mendapatkan Experince lebih."}
+}
+}
+-- DECOMPILER ERROR at PC10805: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RINGNIBELUNGEN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"The Ring of Nibelungen", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Memberikan Efek Tambahan"}
+, 
+{"Kepada Seluruh Member Party."}
+}
+}
+-- DECOMPILER ERROR at PC10829: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DRUMBATTLEFIELD] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"A Drum on the Battlefield", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan ATK , DEF Anggota Party."}
+}
+}
+-- DECOMPILER ERROR at PC10856: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SIEGFRIED] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Invulnerable Siegfried", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan ketahanan serangan elemen ke Party Member."}
+, 
+{"Meningkatkan ketahanan terhadap status abnormal."}
+}
+}
+-- DECOMPILER ERROR at PC10883: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ADAPTATION] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Adaptaion to Circumstances", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Mengurangi penggunaan SP untuk"}
+, 
+{"Skill Performance/Dance/Ensemble."}
+}
+}
+-- DECOMPILER ERROR at PC10910: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_INTOABYSS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Into the Abyss", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Menghilangkan penggunaan Gemstone untuk anggota Party."}
+, 
+{"(Hanya untuk beberapa skill)."}
+}
+}
+-- DECOMPILER ERROR at PC10937: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SERVICEFORYOU] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Service for You", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan MaxSP anggota Party."}
+, 
+{"Mengurangi penggunaan SP."}
+}
+}
+-- DECOMPILER ERROR at PC10964: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FORTUNEKISS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Fortune\'s Kiss", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan Critical Rate anggota Party."}
+, 
+{"Meningkatkan Critical Rate."}
+}
+}
+-- DECOMPILER ERROR at PC10988: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HUMMING] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Humming", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan HIT anggota Party."}
+}
+}
+-- DECOMPILER ERROR at PC11015: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_POEMBRAGI] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Poem of Bragi", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Mengurangi variable cast-time anggota Party."}
+, 
+{"Mengurangi delay after skill anggota Party."}
+}
+}
+-- DECOMPILER ERROR at PC11042: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ASSASSINCROSS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Assassin Cross of Sunset", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan ASPD anggota Party."}
+, 
+{"(Mengurangi delay after attack.)"}
+}
+}
+-- DECOMPILER ERROR at PC11069: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_WHISTLE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Whistle", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan FLEE anggota Party."}
+, 
+{"Meningkatkan Perfect Dodge."}
+}
+}
+-- DECOMPILER ERROR at PC11096: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_APPLEIDUN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Apple of Idun", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Meningkatkan MaxHP anggota Party."}
+, 
+{"Meningkatkan Recovery HP."}
+}
+}
+-- DECOMPILER ERROR at PC11126: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Ensemble Fatigue", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Kelelahan karena skill Ensemble"}
+, 
+{"Tidak bisa menggunakan Skill."}
+, 
+{"Gerakan, ASPD -30%."}
+}
+}
+-- DECOMPILER ERROR at PC11150: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ETERNALCHAOS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Eternal Chaos", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Defense menjadi 0."}
+}
+}
+-- DECOMPILER ERROR at PC11177: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ROKISWEIL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Loki\'s Veil", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Tidak bisa menggunakan Skill."}
+, 
+{"Bisa terkena Confused dengan kemungkinan kecil."}
+}
+}
+-- DECOMPILER ERROR at PC11204: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_DONTFORGETME] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Don\'t Forget Me", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Mengurangi Kecepatan Gerak dan ASPD."}
+, 
+{"Menghilangkan Efek Buff Kecepatan Gerak dan ASPD."}
+}
+}
+-- DECOMPILER ERROR at PC11228: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_AURABLADE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Aura Blade", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase physical attack damage"}
+}
+}
+-- DECOMPILER ERROR at PC11255: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RENOVATIO] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"RENOVATIO", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Recover sejumlah HP selama 5 detik"}
+, 
+{"Tidak berefek ke user dengan elemen undead."}
+}
+}
+-- DECOMPILER ERROR at PC11282: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ANCILLA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"ANCILLA", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Heal ammount bertambah sebesar 15%."}
+, 
+{"Menambah SP Recovery sebesar 30%."}
+}
+}
+-- DECOMPILER ERROR at PC11306: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"LAUDA AGNUS", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MHP Bertambah."}
+}
+}
+-- DECOMPILER ERROR at PC11330: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LAUDARAMUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"LAUDA RAMUS", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Critical Damage bertambah."}
+}
+}
+-- DECOMPILER ERROR at PC11357: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Counter State Aktif", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Counter Slash"}
+, 
+{"Bisa digunakan"}
+}
+}
+-- DECOMPILER ERROR at PC11380: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_STATE] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"Semua statistik"}
+, 
+{"meningkat dengan cepat."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC11404: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ALL_STAT_DOWN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Semua statistik dasar berkurang", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Semua statistik dasar berkurang"}
+}
+}
+-- DECOMPILER ERROR at PC11428: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GRADUAL_GRAVITY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"peningkatan gravitasi", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"HP hilang per detik"}
 }
 }
 

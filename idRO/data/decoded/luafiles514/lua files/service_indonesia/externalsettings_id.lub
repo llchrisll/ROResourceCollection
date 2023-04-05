@@ -3,7 +3,7 @@
 
 -- params : ...
 -- function num : 0
-MaxLevelTable = {BaseLevel = 99, BaseLevel3rd = 175, BaseLevelExtend2 = 160, BaseLevelUpperJob = 175, BaseLevelHomun = 150, BaseLevelDoram = 175, JobLevelNovice = 10, JobLevelSuperNovice = 99, JobLevelBase = 50, JobLevel2nd = 70, JobLevel3rd = 65, JobLevelExtend2 = 50, JobLevelUpperJob = 60, JobLevelDoram = 50}
+MaxLevelTable = {BaseLevel = 99, BaseLevel3rd = 185, BaseLevelExtend2 = 160, BaseLevelUpperJob = 175, BaseLevelHomun = 185, BaseLevelDoram = 175, JobLevelNovice = 10, JobLevelSuperNovice = 99, JobLevelBase = 50, JobLevel2nd = 70, JobLevel3rd = 65, JobLevelExtend2 = 50, JobLevelUpperJob = 60, JobLevelDoram = 50}
 MakeableRace = {Doram = true}
 Url = {TwitterUrl = "http://112.175.128.140:3000/"}
 GetTableIntValueForC = function(tableName, keyName)
@@ -11,11 +11,11 @@ GetTableIntValueForC = function(tableName, keyName)
   local t = _G[tableName]
   if t == nil then
     return -1
-  end
-  local intValue = t[keyName]
-  if intValue == nil then
-    return -1
   else
+    local intValue = t[keyName]
+    if intValue == nil then
+      return -1
+    end
     return intValue
   end
 end
@@ -25,11 +25,11 @@ GetTableStringValueForC = function(tableName, keyName)
   local t = _G[tableName]
   if t == nil then
     return ""
-  end
-  local stringValue = t[keyName]
-  if stringValue == nil then
-    return ""
   else
+    local stringValue = t[keyName]
+    if stringValue == nil then
+      return ""
+    end
     return stringValue
   end
 end
@@ -39,11 +39,11 @@ GetTableBoolValueForC = function(tableName, keyName)
   local t = _G[tableName]
   if t == nil then
     return false
-  end
-  local boolValue = t[keyName]
-  if boolValue == nil then
-    return false
   else
+    local boolValue = t[keyName]
+    if boolValue == nil then
+      return false
+    end
     return boolValue
   end
 end

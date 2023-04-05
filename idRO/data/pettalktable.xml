@@ -4373,5 +4373,956 @@
 		<perfor_s>	Ugh... Did I eat too much? I feel like throwing up.	</perfor_s>
 	</so_full>			
 </TIKBALANG>
+<scatleton>				
+					
+		<hungry>			
+			<feeding>	Arg¡¦¡¦ Someone who has been sleeping inside me finally wakes up¡¦¡¦	</feeding>
+			<feeding>	Beelzebub¡¦¡¦	</feeding>
+			<hunting>	I put away what I hunted. It is the last courtesy to the prey killed by my hands.	</hunting>
+			<hunting>	Poor souls¡¦¡¦	</hunting>
+			<danger>	I am not hunting. I am being hunted¡¦¡¦	</danger>
+			<danger>	Oops¡¦¡¦ What¡®s happening? I am falling unconscious¡¦¡¦	</danger>
+			<dead>	Don¡®t worry. No matter how hungry I am, I am not going to eat you.	</dead>
+			<dead>	Let¡®s go back......together......to my hometown......	</dead>
+			<stand>	No......that guy started moving around¡¦¡¦	</stand>
+			<stand>	It¡®s so painful¡¦¡¦	</stand>
+			<stand>	Can¡®t you hear the screaming......?	</stand>
+			<connect>	I was thinking that becoming a starving demon was not a bad idea.	</connect>
+			<connect>	Again...... The time for darkness returns.	</connect>
+			<levelup>	Haha......	</levelup>
+			<levelup>	If you want to survive...... get stronger......	</levelup>
+			<perfor_1>	You seem disengaged...... Well...... Enjoy while you can.	</perfor_1>
+			<perfor_1>	Heh......	</perfor_1>
+			<perfor_2>	Being alive means continuous agony.	</perfor_2>
+			<perfor_2>	The greed only destructs yourself......	</perfor_2>
+			<perfor_3>	Can you feel my power?.....	</perfor_3>
+			<perfor_3>	Haha...... It¡®s been a long time since my blood boiled like this for the last time......	</perfor_3>
+			<perfor_s>	Oh...... I feel dizzy...... What a new sensation.	</perfor_s>
+			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	You cannot appease my vanity like this......	</feeding>
+			<feeding>	Silly human......	</feeding>
+			<hunting>	Is this the best you can do?	</hunting>
+			<hunting>	How boring......	</hunting>
+			<danger>	I can  only go this far......	</danger>
+			<danger>	I am not hunting. I am being hunted¡¦¡¦	</danger>
+			<dead>	Don¡®t worry. No matter how hungry I am, I am not going to eat you.	</dead>
+			<dead>	Let¡®s go back......together......to my hometown......	</dead>
+			<stand>	This feeling of hunger is a proof that I am alive.	</stand>
+			<stand>	Can¡®t you hear the screaming......?	</stand>
+			<stand>	How boring......	</stand>
+			<connect>	Again...... The time for darkness returns.	</connect>
+			<connect>	It was a short rest......	</connect>
+			<levelup>	If you want to survive...... get stronger......	</levelup>
+			<levelup>	You¡®re not strong enough.	</levelup>
+			<perfor_1>	You seem disengaged...... Well...... Enjoy while you can.	</perfor_1>
+			<perfor_1>	Heh......	</perfor_1>
+			<perfor_2>	Being alive means continuous agony.	</perfor_2>
+			<perfor_2>	The greed only destructs yourself......	</perfor_2>
+			<perfor_3>	Can you feel my power?.....	</perfor_3>
+			<perfor_3>	Haha...... It¡®s been a long time since my blood boiled like this for the last time......	</perfor_3>
+			<perfor_s>	Oh...... I feel dizzy...... What a new sensation.	</perfor_s>
+			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	At that time...... I thought nothing was worse than hunger...... What a sad memory......	</feeding>
+			<feeding>	Heh...... It was a meaningless memory......	</feeding>
+			<hunting>	Great! Destroy it!!!! That¡®s what you actually are!!!	</hunting>
+			<hunting>	Hahahahahahahaha!!!! Hahahahahahahahaha!!!!	</hunting>
+			<danger>	The fury makes your sword blunt......	</danger>
+			<danger>	I can  only go this far......	</danger>
+			<dead>	Do you feel it? This is the sorrow and fury of those who have been killed by you.	</dead>
+			<dead>	Do not be afraid of the darkness......	</dead>
+			<stand>	How boring......	</stand>
+			<stand>	It¡®s been a long time since my last rest.	</stand>
+			<stand>	Well...... If you want it so badly, I will give you an opportunity to serve me.	</stand>
+			<connect>	Again...... The time for darkness returns.	</connect>
+			<connect>	The festival of blood begins......	</connect>
+			<levelup>	Good. Struggle more and more......	</levelup>
+			<levelup>	You¡®re not strong enough.	</levelup>
+			<perfor_1>	You seem disengaged...... Well...... Enjoy while you can.	</perfor_1>
+			<perfor_1>	Heh......	</perfor_1>
+			<perfor_2>	Being alive means continuous agony.	</perfor_2>
+			<perfor_2>	The greed only destructs yourself......	</perfor_2>
+			<perfor_3>	Can you feel my power?.....	</perfor_3>
+			<perfor_3>	Haha...... It¡®s been a long time since my blood boiled like this for the last time......	</perfor_3>
+			<perfor_s>	Oh...... I feel dizzy...... What a new sensation.	</perfor_s>
+			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
+		</noting>			
+					
+		<full>			
+			<feeding>	You¡®d better stop it. You silly human......	</feeding>
+			<feeding>	Oh......	</feeding>
+			<hunting>	Looks like I don¡®t have to be involved.	</hunting>
+			<hunting>	Great! Destroy it!!!! That¡®s what you actually are!!!	</hunting>
+			<danger>	The fury makes your sword blunt......	</danger>
+			<danger>	You will  collapse by the greed......	</danger>
+			<dead>	Hahahahahaha! The  gate of hell is opening!	</dead>
+			<dead>	Do you feel it? This is the sorrow and fury of those who have been killed by you.	</dead>
+			<stand>	How much longer are you going to hesitate!	</stand>
+			<stand>	What a threatening wind......	</stand>
+			<stand>	Well...... If you want it so badly, I will give you an opportunity to serve me.	</stand>
+			<connect>	The festival of blood begins......	</connect>
+			<connect>	Again...... The time for darkness returns.	</connect>
+			<levelup>	Good. Struggle more and more......	</levelup>
+			<levelup>	Seems like you have grown up a little.	</levelup>
+			<perfor_1>	You seem disengaged...... Well...... Enjoy while you can.	</perfor_1>
+			<perfor_1>	Heh......	</perfor_1>
+			<perfor_2>	Being alive means continuous agony.	</perfor_2>
+			<perfor_2>	The greed only destructs yourself......	</perfor_2>
+			<perfor_3>	Can you feel my power?.....	</perfor_3>
+			<perfor_3>	Haha...... It¡®s been a long time since my blood boiled like this for the last time......	</perfor_3>
+			<perfor_s>	Oh..... I feel dizzy...... What a new sensation.	</perfor_s>
+			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
+		</full>			
+					
+		<so_full>			
+			<feeding>	You¡®d better stop it. You silly human......	</feeding>
+			<feeding>	Are you trying to torture me this way? What a coward......	</feeding>
+			<hunting>	Looks like I don¡®t have to be involved.	</hunting>
+			<hunting>	That¡®s noisy......	</hunting>
+			<danger>	Can you see the sign of death?.....	</danger>
+			<danger>	This is from someone who¡®s destined for death.	</danger>
+			<dead>	Hahahahahaha! The  gate of hell is opening!	</dead>
+			<dead>	Do you feel it? This is the sorrow and fury of those who have been killed by you.	</dead>
+			<stand>	What a threatening wind......	</stand>
+			<stand>	I can take you on at any time, kid......	</stand>
+			<stand>	Are you tired already?	</stand>
+			<connect>	The festival of blood begins......	</connect>
+			<connect>	Again...... The time for darkness returns.	</connect>
+			<levelup>	Good. Struggle more and more......	</levelup>
+			<levelup>	Seems like you have grown up a little.	</levelup>
+			<perfor_1>	You seem disengaged...... Well...... Enjoy while you can.	</perfor_1>
+			<perfor_1>	Heh......	</perfor_1>
+			<perfor_2>	Being alive means continuous agony.	</perfor_2>
+			<perfor_2>	The greed only destructs yourself......	</perfor_2>
+			<perfor_3>	Can you feel my power?.....	</perfor_3>
+			<perfor_3>	Haha...... It¡®s been a long time since my blood boiled like this for the last time......	</perfor_3>
+			<perfor_s>	Oh...... I feel dizzy...... What a new sensation.	</perfor_s>
+			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
+		</so_full>			
+					
+	</scatleton>
+	
+	<diabolic2>
+
+		<hungry>
+			<feeding>	Ah~ Terima kasih banyak.	</feeding>
+			<dead>	Aku lapar, apakah kamu tidak ingin memberiku makan? Sniff	</dead>
+			<stand>	Aku akan pergi?	</stand>
+			<levelup>	Levelku naik seperti terbakar...	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Aku harus makan ini dan menggosok gigiku~	</feeding>
+			<dead>	Bangun.	</dead>
+			<stand>	Beri aku makanan.	</stand>
+			<levelup>	Levelku naik seperti terbakar...	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Aku harus makan ini dan menggosok gigiku~	</feeding>
+			<dead>	Bangun master 	</dead>
+			<stand>	Aku berbeda dari Deviruchi yang seperti kuman!!	</stand>
+			<stand>	Wow~ Semangatku terbakar~	</stand>
+			<stand>	Aku adalah sang iblis api~	</stand>
+			<levelup>	Levelku naik seperti terbakar... 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Aku sudah menggosok gigiku!!	</feeding>
+			<dead>	Bangun, master!	</dead>
+			<stand>	Aku berbeda dari Deviruchi yang seperti kuman!!	</stand>
+			<stand>	Wow~ Semangatku terbakar~	</stand>
+			<stand>	Aku adalah sang iblis api~	</stand>
+			<stand>	Pie~uh~~~Booh~Ayolah? Bukankah ini?	</stand>
+			<levelup>	Levelku naik seperti terbakar...	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Aku sudah menggosok gigiku!!	</feeding>
+			<dead>	Bangun, master! 	</dead>
+			<stand>	Aku berbeda dari Deviruchi yang seperti kuman!!	</stand>
+			<stand>	Wow~ Semangatku terbakar~	</stand>
+			<stand>	Aku adalah sang iblis api~	</stand>
+			<stand>	Pie~uh~~~Booh~Ayolah? Bukankah ini?	</stand>
+			<levelup>	Levelku naik seperti terbakar...	</levelup>
+		</so_full>
+
+	</diabolic2>
+	<deleter_2>
+
+		<hungry>
+			<feeding>	Puu woo woo-	</feeding>
+			<dead>	Apakah kamu mati?	</dead>
+			<stand>	Beri aku nasi, pow!	</stand>
+			<levelup>	Ayo kita makan nasi...	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Jangan berbaring saja dan beri aku nasi~	</feeding>
+			<dead>	Jangan berbaring saja dan beri aku nasi~	</dead>
+			<stand>	Saatnya waktu makan~	</stand>
+			<levelup>	Kongrechu~pu~</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Aku berasap~Pow~	</feeding>
+			<dead>	Bangun master ¤Ð¤Ð	</dead>
+			<stand> Meski berada diapi yang panas, aku baik-baik saja~	</stand>
+			<stand>	Dapatkah aku bernapas?	</stand>
+			<stand>	Yang ada di atas kepalaku bukanlah permen~	</stand>
+			<levelup>	Kongrechu~pu~</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Pu----Ooh----¤µ-)a	</feeding>
+			<dead>	Bangun master ¤Ð¤Ð	</dead>
+			<stand>	Meski berada diapi yang panas, aku baik-baik saja~	</stand>
+			<stand>	Dapatkah aku bernapas?	</stand>
+			<stand>	Yang ada di atas kepalaku bukanlah permen~	</stand>
+			<stand>	Puffing~ Puffing~ Puffing~	</stand>
+			<levelup>	Kongrechu~pu~</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Pu----Ooh-----)a	</feeding>
+			<dead>	Bangun master ¤Ð¤Ð 	</dead>
+			<stand>	Meski berada diapi yang panas, aku baik-baik saja~	</stand>
+			<stand>	Dapatkah aku bernapas?	</stand>
+			<stand>	Yang ada di atas kepalaku bukanlah permen~ 	</stand>
+			<stand>	Puffing~ Puffing~ Puffing~	</stand>
+			<levelup>	Kongrechu~pu~</levelup>
+		</so_full>
+
+	</deleter_2>
+	<cat_o_nine_tail>
+
+		<hungry>
+			<feeding>	Aku akan makan enak Nya-ang~	</feeding>
+			<dead>	Akankah kamu balas dendam pada orang itu?	</dead>
+			<stand>	Waktunya makann Nya-ang~	</stand>
+			<levelup>	Selamaaattt Nya-ang~	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Aku akan makan enak Nya-ang~	</feeding>
+			<dead>	Akankah kamu balas dendam pada orang itu?	</dead>
+			<stand>	Waktunya makann Nya-ang~	</stand>
+			<levelup>	Selamaaattt Nya-ang~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Aku akan makan enak Nya-ang~	</feeding>
+			<dead>	Akankah kamu balas dendam pada orang itu?	</dead>
+			<stand> Tingles~ Tingles~ Tingles~	</stand>
+			<stand>	Hati-hati jangan sampai terambil darimu Nya-ang	</stand>
+			<stand>	Jika kamu lengah, kamu akan dibawa pergi Nya-ang	</stand>
+			<levelup>	Selamaaattt Nya-ang~	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Aku kenyang Nya-ang~	</feeding>
+			<dead>	Akankah kamu balas dendam pada orang itu?	</dead>
+			<stand>	Tingles~ Tingles~ Tingles~	</stand>
+			<stand>	Hati-hati jangan sampai terambil darimu Nya-ang	</stand>
+			<stand>	Jika kamu lengah, kamu akan dibawa pergi Nya-ang	</stand>
+			<stand>	Jangan sebut hari ini Senin malam Nya-ang!	</stand>
+			<levelup>	Selamaaattt Nya-ang~	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Aku kenyang Nya-ang	</feeding>
+			<dead>	Akankah kamu balas dendam pada orang itu?	</dead>
+			<stand>	Tingles~ Tingles~ Tingles~	</stand>
+			<stand>	Hati-hati jangan sampai terambil darimu Nya-ang	</stand>
+			<stand>	Jika kamu lengah, kamu akan dibawa pergi Nya-ang~	</stand>
+			<stand>	Jangan sebut hari ini Senin malam Nya-ang!	</stand>
+			<levelup>	Selamaaattt Nya-ang~	</levelup>
+		</so_full>
+
+	</cat_o_nine_tail>
+	<nine_tail>
+
+		<hungry>
+			<feeding>	Aku akan makan enak..	</feeding>
+			<dead>	Bisa kah aku makan sekarang? Kamu..	</dead>
+			<stand>	Waktunya makan ha..	</stand>
+			<levelup>	Selamat..	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Aku akan makan enak..	</feeding>
+			<dead>	Bisa kah aku makan sekarang? Kamu..	</dead>
+			<stand>	Waktunya makan ha..	</stand>
+			<levelup>	Selamat..	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Aku akan makan enak..	</feeding>
+			<dead>	Bisa kah aku makan sekarang? Kamu..	</dead>
+			<stand> Haha! Haha!	</stand>
+			<stand>	Ekorku ada satu, dua, tiga.. empat.. delapan?	</stand>
+			<stand>	Karena hati.	</stand>
+			<levelup>	Selamat..	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Kenyanggg!!!!!	</feeding>
+			<dead>	Akankah kamu balas dendam?	</dead>
+			<stand> Haha! Haha!	</stand>
+			<stand>	Ekorku ada satu, dua, tiga.. empat.. delapan?	</stand>
+			<stand>	Karena hati.	</stand>
+			<stand>	Setelah seratus tahun..</stand>
+			<levelup>	Selamat..	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Kenyanggg!!!!!	</feeding>
+			<dead>	Akankah kamu balas dendam?	</dead>
+			<stand>	Haha! Haha!	</stand>
+			<stand>	Ekorku ada satu, dua, tiga.. empat.. delapan?	</stand>
+			<stand>	Karena hati.	</stand>
+			<stand>	Setelah seratus tahun..</stand>
+			<levelup>	Selamat..	</levelup>
+		</so_full>
+
+	</nine_tail>
+	<dr_lunatic>
+
+		<hungry>
+			<feeding>	Aku sangat laparr~Liru! 	</feeding>
+			<dead>	Apakah kamu akan pergi ke desa untuk makan sekarang Liru?	</dead>
+			<stand>	Master makan potion yang banyak ketika HPnya berkurang, tetapi aku lapar dan sayang sekali tidak bisa dimakan..	</stand>
+			<levelup>	Tolong beri aku sedikit nasi!! 	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Aku sangat laparr~Liru! 	</feeding>
+			<dead>	Apakah kamu akan pergi ke desa untuk makan sekarang Liru?	</dead>
+			<stand>	Master makan potion yang banyak ketika HPnya berkurang, tetapi aku lapar dan sayang sekali tidak bisa dimakan..	</stand>
+			<levelup>	Tolong beri aku sedikit nasi!! 	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Aku sangat laparr~Liru! 	</feeding>
+			<dead>	Apakah kamu akan pergi ke desa untuk makan sekarang Liru?	</dead>
+			<stand>	Master! Kupingku bukanlah daun. Liru..	</stand>
+			<stand>	Pada masa lalu, banyak orang yang mengincar bulu Lunatic.	</stand>
+			<stand>	Tidak ada yang mencari daunku sama sekali.. Liru..	</stand>
+			<levelup>	Selamat Liru~~	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Hentikan~ Liru!!	</feeding>
+			<dead>	Nooooo !! Liru 	</dead>
+			<stand>	Master! Kupingku bukanlah daun. Liru..	</stand>
+			<stand>	Pada masa lalu, banyak orang yang mengincar bulu Lunatic.	</stand>
+			<stand>	Tidak ada yang mencari daunku sama sekali.. Liru..	</stand>
+			<stand>	Lihatlah embun yang ada di daun hijauku~ Liru~!!	</stand>
+			<levelup>	Selamat Liru~~	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Hentikan~ Liru!! 	</feeding>
+			<dead>	Nooooo !! Liru 	</dead>
+			<stand>	Master! Kupingku bukanlah daun. Liru..	</stand>
+			<stand>	Pada masa lalu, banyak orang yang mengincar bulu Lunatic.	</stand>
+			<stand>	Tidak ada yang mencari daunku sama sekali.. Liru..	</stand>
+			<stand>	Lihatlah embun yang ada di daun hijauku~ Liru~!!	</stand>
+			<levelup>	Selamat Liru~~	</levelup>
+		</so_full>
+
+	</dr_lunatic>
+	<hyegun>
+
+		<hungry>
+			<feeding>	Hmm.. Aku berharap kamu dapat menyelesaikan ini tepat waktu. 	</feeding>
+			<dead>	Kamu sudah mati, tetapi penjahatnya tidak meninggalkanmu.	</dead>
+			<stand>	Sudah waktunya untuk mengisi perut kecil ini.	</stand>
+			<levelup>	Pertumbuhanmu adalah kesenanganku. 	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Whoa.. Aku makan enakk.	</feeding>
+			<dead>	Kamu sudah mati, tetapi penjahatnya tidak meninggalkanmu.	</dead>
+			<stand>	Sudah waktunya untuk mengisi perut kecil ini.		</stand>
+			<levelup>	Pertumbuhanmu adalah kesenanganku. 	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Whoa.. Aku makan enakk.	</feeding>
+			<dead>	Kamu sudah mati, tetapi penjahatnya tidak meninggalkanmu.	</dead>
+			<stand>	Aku mengingat ketika berbagi teh dengannya.	</stand>
+			<stand>	Jika aku berpergian denganmu, aku akan dapat bertemu denganmu.	</stand>
+			<stand>	Hmm... Aku kangen dengan waktu saat minum teh hangat.	</stand>
+			<levelup>	Pertumbuhanmu adalah kesenanganku. 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Huh... Jangan makan berlebihan.	</feeding>
+			<dead>	Kamu sudah mati, tetapi penjahatnya tidak meninggalkanmu.	</dead>
+			<stand>	Aku mengingat ketika berbagi teh dengannya.	</stand>
+			<stand>	Jika aku berpergian denganmu, aku akan dapat bertemu denganmu.	</stand>
+			<stand>	Hmm... Aku kangen dengan waktu saat minum teh hangat.	</stand>
+			<stand>	Apakah kamu tau apa itu cinta abadi?	</stand>
+			<levelup>	Pertumbuhanmu adalah kesenanganku. 	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Huh... Jangan makan berlebihan.	</feeding>
+			<dead>	Kamu sudah mati, tetapi penjahatnya tidak meninggalkanmu.	</dead>
+			<stand>	Aku mengingat ketika berbagi teh dengannya.	</stand>
+			<stand>	Jika aku berpergian denganmu, aku akan dapat bertemu denganmu.	</stand>
+			<stand>	Hmm... Aku kangen dengan waktu saat minum teh hangat.	</stand>
+			<stand>	Apakah kamu tau apa itu cinta abadi?	</stand>
+			<levelup>	Pertumbuhanmu adalah kesenanganku. 	</levelup>
+		</so_full>
+
+	</hyegun>
+	<teddy_bear>
+
+		<hungry>
+			<feeding>	Ini adalah boneka, tetapi ini enak sekali yum yum. 	</feeding>
+			<dead>	Aku tidak ingin boneka itu dibuang.	</dead>
+			<stand>	Halo? Ini pertama kalikah kamu bersama teddy bear?	</stand>
+			<levelup>	Selamat.. Hmm Hmm	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Ini adalah boneka, tetapi ini enak sekali yum yum.	</feeding>
+			<dead>	Aku tidak ingin boneka itu dibuang.	</dead>
+			<stand>	Halo? Ini pertama kalikah kamu bersama teddy bear?	</stand>
+			<levelup>	Selamat.. Hmm Hmm	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Ini adalah boneka, tetapi ini enak sekali yum yum.	</feeding>
+			<dead>	Aku tidak ingin boneka itu dibuang.	</dead>
+			<stand>	Halo? Ini pertama kalikah kamu bersama teddy bear?	</stand>
+			<stand>	Tolong jangan memotong sayang dengan kemampuan yang ceroboh..	</stand>
+			<stand>	Kenapa aku dapat bergerak? Itu adalah rahasia.	</stand>
+			<levelup>	Selamat.. Hmm Hmm 	 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Ini adalah bonekaa Kenyanggg~~~~	</feeding>
+			<dead>	Aku tidak ingin boneka itu dibuang.	</dead>
+			<stand>	Halo? Ini pertama kalikah kamu bersama teddy bear?	</stand>
+			<stand>	Tolong jangan memotong sayang dengan kemampuan yang ceroboh..	</stand>
+			<stand>	Kenapa aku dapat bergerak? Itu adalah rahasia.		</stand>
+			<stand>	Tolong jangan tinggalkan akuu¤Ð¤Ð	</stand>
+			<levelup>	Selamat.. Hmm Hmm 	 	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Ini adalah bonekaa Kenyanggg~~~~	</feeding>
+			<dead>	Aku tidak ingin boneka itu dibuang.	</dead>
+			<stand>	Halo? Ini pertama kalikah kamu bersama teddy bear?	</stand>
+			<stand>	Tolong jangan memotong sayang dengan kemampuan yang ceroboh..	</stand>
+			<stand>	Kenapa aku dapat bergerak? Itu adalah rahasia.		</stand>
+			<stand>	Tolong jangan tinggalkan akuu¤Ð¤Ð	</stand>
+			<levelup>	Selamat.. Hmm Hmm 	 	</levelup>
+		</so_full>
+
+	</teddy_bear>
+	<gremlin>
+
+		<hungry>
+			<feeding>	Rasanya enakkk.. 	</feeding>
+			<dead>	Cuck.! Cuck.	</dead>
+			<stand>	Besarrrrrr	</stand>
+			<levelup>	Selamat..	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Rasanya enakkk..	</feeding>
+			<dead>	Cuck.! Cuck.	</dead>
+			<stand>	Besarrrrrr	</stand>
+			<levelup>	Selamat..	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Rasanya enakkk..	</feeding>
+			<dead>	Cuck.! Cuck.	</dead>
+			<stand>	Besarrrrrr	</stand>
+			<stand>	Kukkeuk.. Dimanakah besi itu? Cuckoo	</stand>
+			<stand>	Dimana ada mesin, disitulah Gremlin muncul	</stand>
+			<levelup>	Selamat..	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Ini tidak baik..	</feeding>
+			<dead>	Cuck.! Cuck.	</dead>
+			<stand>	Besarrrrrr	</stand>
+			<stand>	Kukkeuk.. Dimanakah besi itu? Cuckoo	</stand>
+			<stand>	Dimana ada mesin, disitulah Gremlin muncul	</stand>
+			<stand>	Tidak adil? Ini adalah sebenarnya makan sepuasnya untuk Gremlin	</stand>
+			<levelup>	Selamat..	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Ini tidak baik..	</feeding>
+			<dead>	Cuck.! Cuck.	</dead>
+			<stand>	Besarrrrrr	</stand>
+			<stand>	Kukkeuk.. Dimanakah besi itu? Cuckoo	</stand>
+			<stand>	Dimana ada mesin, disitulah Gremlin muncul	</stand>
+			<stand>	Tidak adil? Ini adalah sebenarnya makan sepuasnya untuk Gremlin	</stand>
+			<levelup>	Selamat..	 </levelup>
+		</so_full>
+
+	</gremlin>
+
+	<LEAF_CAT>
+		<hungry>
+			<feeding> Meong ~ Ikan segar sangat enak. </feeding>
+			<feeding> (Munch munch) Ikan biru itu enak. </feeding>
+			<feeding> Guru, Aku sangat senang sekarang. </feeding>
+			<hunting> Meong ~ Perutku sedang bertempur! * menggeram * </hunting>
+			<hunting> Ini bukan waktunya untuk berburu! Makanan! Ikan! </hunting>
+			<danger> Bahaya! Kamu akan mati! Meong! </danger>
+			<danger> Aku tahu kamu suka sensasi, tapi kamu dalam bahaya! Meong! </danger>
+			<dead> Kenapa kamu mati? Bangun! </dead>
+			<dead> * menangis * Kamu seharusnya lebih berhati-hati. </dead>
+			<stand> Aku tidak pernah lapar seperti ini. Meong. </stand>
+			<stand> Alangkah baiknya jika Anda memberi tahu Aku tentang meong. </stand>
+			<stand> Meong ~ Aku terlalu lapar! </stand>
+			<stand> Aku kedinginan dan lapar. Aku mulai merasa sedih. </stand>
+			<stand> Haruskah Aku makan pakaian Aku? Meong. </stand>
+			<connect> Aku ... Aku lapar! Daun! </connect>
+			<connect> Rasanya sudah lama sekali sejak aku melihatmu. </connect>
+			<levelup> Aku ingin memberi selamat, tapi Aku terlalu lapar. </levelup>
+			<levelup> Hore! Ayo makan! </levelup>
+			<perfor_1> Hahaha. Itu lucu. </perfor_1>
+			<perfor_1> Awww, menggelitik. </perfor_1>
+			<perfor_2> (Tamparan) Sepertinya ada sesuatu di telinga Aku. </perfor_2>
+			<perfor_2> Hah? Aku rasa seseorang membicarakan Aku. </perfor_2>
+			<perfor_3> Meong! Rawr. </perfor_3>
+			<perfor_3> Mmmph. Aku selalu bermimpi menjadi pelompat tinggi! </perfor_3>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Oh, ikan segar! Aku mulai lapar. </feeding>
+			<feeding> Ikan segar dengan punggung biru! </feeding>
+			<hunting> Pukulanmu cukup bagus! </hunting>
+			<hunting> Guru! Bunuh monster itu! </hunting>
+			<danger> Hei ... master! Anda dalam bahaya! </danger>
+			<dead> Sudah mati ... </dead>
+			<dead> Astaga .. Ini mengerikan .. </dead>
+			<stand> Meong! Seekor kucing lapar berdiri di sini. </stand>
+			<stand> Menurut Anda, apakah ada ikan buta? </stand>
+			<connect> Dari mana saja Anda? </connect>
+			<levelup> Melihat majikan Aku tumbuh membuat Aku senang. </levelup>
+			<levelup> Kerja bagus! </levelup>
+			<perfor_1> Hahaha. Itu lucu. </perfor_1>
+			<perfor_1> Awww, menggelitik. </perfor_1>
+			<perfor_2> (Tamparan) Sepertinya ada sesuatu di telinga Aku. </perfor_2>
+			<perfor_2> Hah? Aku rasa seseorang membicarakan Aku. </perfor_2>
+			<perfor_3> Meong! Rawr. </perfor_3>
+			<perfor_3> Mmmph. Aku selalu bermimpi menjadi pelompat tinggi! </perfor_3>
+		<bit_hungry>
+
+		<noting>
+			<feeding> (Munch munch) </feeding>
+			<feeding> (Munch munch) </feeding>
+			<hunting> Meong! Rawr. </hunting>
+			<hunting> Lakukan! </hunting>
+			<danger> Darurat! Anda perlu minum ramuan! </danger>
+			<danger> Bahaya! Gunakan serangan mematikan, bom, dan ramuan! </danger>
+			<dead> Manusia tidak punya sembilan nyawa, konyol. Jangan mati. </dead>
+			<dead> Mengapa Anda tidak lebih berhati-hati? </dead>
+			<stand> Meong! </stand>
+			<stand> Hmm ... Baunya seperti ikan. </stand>
+			<connect> Aku memikirkan Anda, master. Meong. </connect>
+			<connect> Master! Apa yang membuatmu begitu lama? </connect>
+			<levelup> Selamat! Kerja bagus! </levelup>
+			<levelup> Ah. Naik level! </levelup>
+			<perfor_1> Hahaha. Itu lucu. </perfor_1>
+			<perfor_1> Awww, menggelitik. </perfor_1>
+			<perfor_2> (Tamparan) Sepertinya ada sesuatu di telinga Aku. </perfor_2>
+			<perfor_2> Hah? Aku rasa seseorang membicarakan Aku. </perfor_2>
+			<perfor_3> Meong! Rawr. </perfor_3>
+			<perfor_3> Mmmph. Aku selalu bermimpi menjadi pelompat tinggi! </perfor_3>
+		</noting>
+
+		<full>
+			<feeding> Aku sedang tidak ingin makan sekarang. </feeding>
+			<feeding> Aku tidak ingin memiliki ikan segar sekarang. </feeding>
+			<hunting> Meong! Aku akan mencakar Anda dengan cakar tajam Aku! </hunting>
+			<hunting> Pukul monster itu. </hunting>
+			<danger> Awas! Pertahanan juga penting! </danger>
+			<danger> Meong! Anda perlu minum ramuan! </danger>
+			<dead> Cuci wajahmu dengan cepat ... </dead>
+			<dead> Oh, masterku! </dead>
+			<stand> Meong! </stand>
+			<stand> Tikus dan ikan begitu lincah & # 233 ;. Daun adalah hal baru yang populer. </stand>
+			<stand> Aku ... Aku tidak suka tikus lagi! </stand>
+			<stand> Aku mencium bau tikus ... Hembusan dengan dedaunan ... </stand>
+			<connect> Aku telah menunggu Anda. </connect>
+			<connect> Meong! Anda datang menemui Aku, kan? (Gosok) </connect>
+			<levelup> Meong! Selamat! (Menggosok) </levelup>
+			<levelup> Naik level! Selamat! </levelup>
+			<perfor_1> Hahaha. Itu lucu. </perfor_1>
+			<perfor_1> Awww, menggelitik. </perfor_1>
+			<perfor_2> (Tamparan) Sepertinya ada sesuatu di telinga Aku. </perfor_2>
+			<perfor_2> Hah? Aku rasa seseorang membicarakan Aku. </perfor_2>
+			<perfor_3> Meong! Rawr. </perfor_3>
+			<perfor_3> Mmmph. Aku selalu bermimpi menjadi pelompat tinggi! </perfor_3>
+		</full>
+
+		<so_full>			
+			<feeding> * muntah * Ini terlalu sulit untuk dimakan. </feeding>
+			<feeding> Jika Anda menyuruh Aku makan, Aku akan makan, tapi ... </feeding>
+			<hunting> master, tendang! master, pukul! Beri mereka satu-dua-gesper-sepatu-Aku! </hunting>
+			<hunting> masterku akan menghancurkanmu, punk! Rawr! </hunting>
+			<danger> Oh, tidak! Ini ... Awas! </danger>
+			<danger> Hati-hati. Guru mungkin mati! </danger>
+			<dead> Anda tidak bisa meninggalkan Aku seperti ini. Bangun. </dead>
+			<dead> Guru, tolong bangun. Meong! </dead>
+			<stand> Aku menyukaimu sebanyak aku suka ikan segar, master. </stand>
+			<stand> Master! Meong! (Menggosok) </stand>
+			<stand> Meong! Daun hijau adalah yang terbaik. Aku tidak suka daun musim gugur. </stand>
+			<stand> Daun musim gugur ... kurang dibandingkan dengan daun hijau, kan? </stand>
+			<stand> Haruskah Aku membuat rok daun? Aku butuh sesuatu untuk dipakai. </stand>
+			<stand> Oh, tidak. Seekor serangga memakan pakaianku. </stand>
+			<stand> Meong (Menggosok) </stand>
+			<stand> Meong (Menggosok) </stand>
+			<connect> Halo, Guru! (Gosok) </connect>
+			<connect> Meong (Menggosok) </connect>
+			<levelup> Aku senang mendapatkan 1.000 daun segar! (Menggosok) </levelup>
+			<levelup> Selamat! Naik Level! </levelup>
+			<perfor_1> Hahaha. Itu lucu. </perfor_1>
+			<perfor_1> Awww, menggelitik. </perfor_1>
+			<perfor_2> (Tamparan) Sepertinya ada sesuatu di telinga Aku. </perfor_2>
+			<perfor_2> Hah? Aku rasa seseorang membicarakan Aku. </perfor_2>
+			<perfor_3> Meong! Rawr. </perfor_3>
+			<perfor_3> Mmmph. Aku selalu bermimpi menjadi pelompat tinggi! </perfor_3>
+		</so_full>
+	</LEAF_CAT>
+	<mummy>
+
+		<hungry>
+			<feeding> Ini hanya bagian dari diri Aku. </feeding>
+			<dead> Pergi ke dunia bawah, yang bodoh. </dead>
+			<stand> Apakah Anda pernah ke dunia bawah? </stand>
+			<levelup> Tunjukkan kekuatan jiwa Anda yang telah diperkuat ... </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Ini hanya bagian dari diri Aku. </feeding>
+			<dead> Pergi ke dunia bawah, yang bodoh. </dead>
+			<stand> Apakah Anda pernah ke dunia bawah? </stand>
+			<levelup> Tunjukkan kekuatan jiwa Anda yang telah diperkuat ... </levelup>
+		<bit_hungry>
+
+		<noting>
+			<feeding> Ini hanya bagian dari diri Aku. </feeding>
+			<dead> Pergi ke dunia bawah, yang bodoh. </dead>
+			<stand> Apakah Anda pernah ke dunia bawah? </stand>
+			<stand> Aku akan ... Bangkit lagi ... </stand>
+			<stand> Aku ingin ... Perban dengan kekuatan ajaib ... </stand>
+			<levelup> Tunjukkan kekuatan jiwa Anda yang telah diperkuat ... </levelup>
+		</noting>
+
+		<full>
+			<feeding> Itu bukan milikku ... </feeding>
+			<dead> Pergi ke dunia bawah, yang bodoh. </dead>
+			<stand> Apakah Anda pernah ke dunia bawah? </stand>
+			<stand> Aku akan ... Bangkit lagi ... </stand>
+			<stand> Aku ingin ... Perban dengan kekuatan ajaib ... </stand>
+			<stand> Di ujung kematian ... Penghakiman atas kegelapan ... </stand>
+			<levelup> Tunjukkan kekuatan jiwa Anda yang telah diperkuat ... </levelup>
+		</full>
+
+		<so_full>
+			<feeding> Itu bukan milikku ... </feeding>
+			<dead> Pergi ke dunia bawah, yang bodoh. </dead>
+			<stand> Apakah Anda pernah ke dunia bawah? </stand>
+			<stand> Aku akan ... Bangkit lagi ... </stand>
+			<stand> Aku ingin ... Perban dengan kekuatan ajaib ... </stand>
+			<stand> Di ujung kematian ... Penghakiman atas kegelapan ... </stand>
+			<levelup> Tunjukkan kekuatan jiwa Anda yang telah diperkuat ... </levelup>
+		</so_full>
+
+	</mummy>
+	<wilow>
+
+		<hungry>
+			<feeding> Ow! .. </feeding>
+			<dead>... </dead>
+			<stand>...</stand>
+			<levelup> Oh </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Ow! .. </feeding>
+			<dead>... </dead>
+			<stand>...</stand>
+			<levelup> Oh </levelup>
+		<bit_hungry>
+
+		<noting>
+			<feeding> Ow! .. </feeding>
+			<dead>... </dead>
+			<stand>...</stand>
+			<stand> Ow, ow ... o ow. </stand>
+			<stand> Aduh! </stand>
+			<levelup> Aduh, aduh! </levelup>
+		</noting>
+
+		<full>
+			<feeding> Aduh! ... </feeding>
+			<dead>... </dead>
+			<stand>...</stand>
+			<stand> Ow, ow ... o ow. </stand>
+			<stand> Aduh! </stand>
+			<stand> Grr, grr, grr. </stand>
+			<levelup> Aduh, aduh! </levelup>
+		</full>
+
+		<so_full>
+			<feeding> Aduh! ... </feeding>
+			<dead>... </dead>
+			<stand>...</stand>
+			<stand> Ow, ow ... o ow. </stand>
+			<stand> Aduh! </stand>
+			<stand> Grr, grr, grr. </stand>
+			<levelup> Woooooo! </levelup>
+		</so_full>
+
+	</wilow>
+	<roween>
+
+		<hungry>
+			<feeding> Ahh, aromanya ... Enak sekali dan bikin ketagihan! </feeding>
+			<dead> Bisakah Aku memakannya? </dead>
+			<stand> Bahkan sisa-sisa ada di depan kita! </stand>
+			<levelup> Wow! Selamat! Belikan aku minuman! </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Ahh, aromanya ... Enak sekali dan bikin ketagihan! </feeding>
+			<dead> Bisakah Aku memakannya? </dead>
+			<stand> Bahkan sisa-sisa ada di depan kita! </stand>
+			<levelup> Wow! Selamat! Belikan aku minuman! </levelup>
+		<bit_hungry>
+
+		<noting>
+			<feeding> Ahh, aromanya ... Enak sekali dan bikin ketagihan! </feeding>
+			<dead> Bisakah Aku memakannya? </dead>
+			<stand> Bahkan sisa-sisa ada di depan kita! </stand>
+			<stand> Aku mencium bau daging ... Dari negeri yang jauh ... </stand>
+			<stand> Daging busuk tetaplah daging! Jangan dibuang! :( </stand>
+			<levelup> Wow! Selamat! Belikan aku minuman! </levelup>
+		</noting>
+
+		<full>
+			<feeding> Tidak, Aku tidak bisa makan daging ini. </feeding>
+			<dead> Bisakah Aku memakannya? </dead>
+			<stand> Bahkan sisa-sisa ada di depan kita! </stand>
+			<stand> Aku mencium bau daging ... Dari negeri yang jauh ... </stand>
+			<stand> Daging busuk tetaplah daging! Jangan dibuang! :( </stand>
+			<stand> Roween dari alam liar ada bersama Anda! </stand>
+			<levelup> Wow! Selamat! Belikan aku minuman! </levelup>
+		</full>
+
+		<so_full>
+			<feeding> Tidak, Aku tidak bisa makan daging ini. </feeding>
+			<dead> Bisakah Aku memakannya? </dead>
+			<stand> Bahkan sisa-sisa ada di depan kita! </stand>
+			<stand> Aku mencium bau daging ... Dari negeri yang jauh ... </stand>
+			<stand> Daging busuk tetaplah daging! Jangan dibuang! :( </stand>
+			<stand> Roween dari hutan belantara ada bersama Anda! </stand>
+			<levelup> Wow! Selamat! Belikan aku minuman! </levelup>
+		</so_full>
+
+	</roween>
+	<hodremlin>
+
+		<hungry>
+			<feeding> Hahaha ... Rasanya enak. </feeding>
+			<dead> Hahaha ... Aku akan memakanmu. </dead>
+			<stand> Bisakah aku memakanmu? </stand>
+			<levelup> Haha ... Kamu harus menjadi sedikit lebih kuat. </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Hahaha ... Rasanya enak. </feeding>
+			<dead> Hahaha ... Aku akan memakanmu. </dead>
+			<stand> Bisakah aku memakanmu? </stand>
+			<levelup> Haha ... Kamu harus menjadi sedikit lebih kuat. </levelup>
+		<bit_hungry>
+
+		<noting>
+			<feeding> Hahaha ... Rasanya enak. </feeding>
+			<dead> Hahaha ... Aku akan memakanmu. </dead>
+			<stand> Bisakah aku memakanmu? </stand>
+			<stand> Haha ... Jiwa hitam pekat. </stand>
+			<stand> Bisakah Anda mengisi kekosongan di hati Aku? </stand>
+			<levelup> Haha ... Kamu harus menjadi sedikit lebih kuat. </levelup>
+		</noting>
+
+		<full>
+			<feeding> Hahaha ... Hentikan. </feeding>
+			<dead> Hahaha ... Aku akan memakanmu. </dead>
+			<stand> Bisakah aku memakanmu? </stand>
+			<stand> Haha ... Jiwa hitam pekat. </stand>
+			<stand> Di mana pun ada mesin, Anda dapat mengandalkan keberadaan GREMLIN. Hehe. </stand>
+			<stand> Bisakah Anda mengisi kekosongan di hati Aku? </stand>
+			<levelup> Haha ... Kamu harus menjadi sedikit lebih kuat. </levelup>
+		</full>
+
+		<so_full>
+			<feeding> Hahaha ... Hentikan. </feeding>
+			<dead> Hahaha ... Aku akan memakanmu. </dead>
+			<stand> Bisakah aku memakanmu? </stand>
+			<stand> Haha ... Jiwa hitam pekat. </stand>
+			<stand> Di mana pun ada mesin, Anda dapat mengandalkan keberadaan GREMLIN. Hehe. </stand>
+			<stand> Bisakah Anda mengisi kekosongan di hati Aku? </stand>
+			<levelup> Haha ... Kamu harus menjadi sedikit lebih kuat. </levelup>
+		</so_full>
+
+	</hodremlin>
+	<metaller>
+
+		<hungry>
+			<feeding> Ini manis </feeding>
+			<dead> ... Tolong dengarkan laguku ~ </dead>
+			<stand> Ha. Anda tidak mengerti! Lagu Aku adalah ... </stand>
+			<levelup> Langkah demi langkah! </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Ini manis </feeding>
+			<dead> ... Tolong dengarkan laguku ~ </dead>
+			<stand> Ha. Anda tidak mengerti! Lagu Aku adalah ... </stand>
+			<levelup> Langkah demi langkah! </levelup>
+		<bit_hungry>
+
+		<noting>
+			<feeding> Ini manis </feeding>
+			<dead> ... Tolong dengarkan laguku ~  </dead>
+			<stand> Ha. Anda tidak mengerti! Lagu Aku adalah ... </stand>
+			<stand> Berapa skor Aku? </stand>
+			<stand> Apakah kamu tidak mendengarkan laguku? ~   </stand>
+			<levelup> Langkah demi langkah! </levelup>
+		</noting>
+
+		<full>
+			<feeding> Aku tidak membutuhkan makanan ini untuk saat ini. </feeding>
+			<dead> ... Tolong dengarkan laguku ~  </dead>
+			<stand> Ha. Anda tidak mengerti! Lagu Aku adalah ... </stand>
+			<stand> Berapa skor Aku? </stand>
+			<stand> Apakah kamu tidak mendengarkan laguku? ~   </stand>
+			<stand> OhAyoplaywithmenow ~   </stand>
+			<levelup> Langkah demi langkah! </levelup>
+		</full>
+
+		<so_full>
+			<feeding> Aku tidak membutuhkan makanan ini untuk saat ini. </feeding>
+			<dead> ... Tolong dengarkan laguku ~  </dead>
+			<stand> Ha. Anda tidak mengerti! Lagu Aku adalah ... </stand>
+			<stand> Berapa skor Aku? </stand>
+			<stand> Apakah kamu tidak mendengarkan laguku? ~   </stand>
+			<stand> OhAyoplaywithmenow ~   </stand>
+			<levelup> Langkah demi langkah! </levelup>
+		</so_full>
+
+	</metaller>
+	<ancient_mummy>
+
+		<hungry>
+			<feeding> Aku mendapatkan kembali kekuatan Aku. </feeding>
+			<dead> Heh ... Ini belum berakhir. </dead>
+			<stand> Aku jauh dari Mumi yang tidak berharga itu. </stand>
+			<levelup> Aku merasakan kekuatan ilahi dari Anda ... </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Aku mendapatkan kembali kekuatan Aku. </feeding>
+			<dead> Heh ... Ini belum berakhir. </dead>
+			<stand> Aku jauh dari Mumi yang tidak berharga itu. </stand>
+			<levelup> Aku merasakan kekuatan ilahi dari Anda ... </levelup>
+		<bit_hungry>
+
+		<noting>
+			<feeding> Aku mendapatkan kembali kekuatan Aku. </feeding>
+			<dead> Heh ... Ini belum berakhir. </dead>
+			<stand> Aku jauh dari Mumi yang tidak berharga itu. </stand>
+			<stand> Bisakah Anda menemukan anak anjing cantik Aku yang biasa Aku besarkan? </stand>
+			<stand> Tidak ada yang bisa melakukan ini, lho. </stand>
+			<levelup> Aku merasakan kekuatan ilahi dari Anda ... </levelup>
+		</noting>
+
+		<full>
+			<feeding> Aku tidak punya kekuatan untuk mengumpulkan. </feeding>
+			<dead> Heh ... Ini belum berakhir. </dead>
+			<stand> Aku jauh dari Mumi yang tidak berharga itu. </stand>
+			<stand> Bisakah Anda menemukan anak anjing cantik Aku yang biasa Aku besarkan? </stand>
+			<stand> Tidak ada yang bisa melakukan ini, lho. </stand>
+			<stand> Aku telah menunggu untuk selamanya ... Akhirnya, hari ini telah tiba ... </stand>
+			<levelup> Aku merasakan kekuatan ilahi dari Anda ... </levelup>
+		</full>
+
+		<so_full>
+			<feeding> Aku tidak punya kekuatan untuk mengumpulkan. </feeding>
+			<dead> Heh ... Ini belum berakhir. </dead>
+			<stand> Aku jauh dari Mumi yang tidak berharga itu. </stand>
+			<stand> Bisakah Anda menemukan anak anjing cantik Aku yang biasa Aku besarkan? </stand>
+			<stand> Tidak ada yang bisa melakukan ini, lho. </stand>
+			<stand> Aku telah menunggu untuk selamanya ... Akhirnya, hari ini telah tiba ... </stand>
+			<levelup> Aku merasakan kekuatan ilahi dari Anda ... </levelup>
+		</so_full>
+
+	</ancient_mummy>
+	<xm_teddy_bear>
+
+		<hungry>
+			<feeding> Boneka kadang-kadang perlu makan juga. </feeding>
+			<dead> Hmm ... Apakah kamu membuangku lagi? </dead>
+			<stand> Boneka Beruang Terbengkalai ... </stand>
+			<levelup> Aku ingin melihatnya lagi ... </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Boneka kadang-kadang perlu makan juga. </feeding>
+			<dead> Hmm ... Apakah kamu membuangku lagi? </dead>
+			<stand> Boneka Beruang Terbengkalai ... </stand>
+			<levelup> Aku ingin melihatnya lagi ... </levelup>
+		<bit_hungry>
+
+		<noting>
+			<feeding> Boneka kadang-kadang perlu makan juga. </feeding>
+			<dead> Hmm ... Apakah kamu membuangku lagi? </dead>
+			<stand> Boneka Beruang Terbengkalai ... </stand>
+			<stand> Mengutuk Anda ... </stand>
+			<stand> Tidak ada jalan keluar dari mimpi buruk ini ... </stand>
+			<levelup> Aku ingin melihatnya lagi ... </levelup>
+		</noting>
+
+		<full>
+			<feeding> Jangan paksa aku makan, master. </feeding>
+			<dead> Hmm ... Apakah Aku dibuang lagi? </dead>
+			<stand> Boneka Beruang Terbengkalai ... </stand>
+			<stand> Mengutuk Anda ... </stand>
+			<stand> Tidak ada jalan keluar dari mimpi buruk ini ... </stand>
+			<stand> Aku tidak ingin dibuang lagi. </stand>
+			<levelup> Aku ingin melihatnya lagi ... </levelup>
+		</full>
+
+		<so_full>
+			<feeding> Jangan paksa aku makan, master. </feeding>
+			<dead> Hmm ... Apa aku dibuang lagi? </dead>
+			<stand> Boneka Beruang Terbengkalai ... </stand>
+			<stand> Mengutuk Anda ... </stand>
+			<stand> Tidak ada jalan keluar dari mimpi buruk ini ... </stand>
+			<stand> Aku tidak ingin dibuang lagi. </stand>
+			<levelup> Aku ingin melihatnya lagi ... </levelup>
+		</so_full>
+
+	</xm_teddy_bear>
 
 </monster_talk_table>

@@ -82,7 +82,7 @@ Navi_Map = {
 , 
 {"ayo_dun01", "Ancient Shrine Maze ", 5001, 300, 300}
 , 
-{"ayo_dun02", "Dalam Ancient Shrine ", 5001, 300, 300}
+{"ayo_dun02", "Di dalam Kuil Kuno", 5001, 300, 300}
 , 
 {"ayo_fild01", "Ayotaya Field ", 5001, 360, 360}
 , 
@@ -90,7 +90,7 @@ Navi_Map = {
 , 
 {"ayo_in01", "Di dalam Ayothaya", 5003, 200, 200}
 , 
-{"ayo_in02", "Di dalam Ayothaya", 5003, 200, 200}
+{"ayo_in02", "Dalam Ayotaya ", 5003, 200, 200}
 , 
 {"ayothaya", "Ayotaya ", 5001, 320, 320}
 , 
@@ -154,7 +154,7 @@ Navi_Map = {
 , 
 {"dali", "Dimensional Gap", 5001, 200, 200}
 , 
-{"dali02", "Dimensional Crack", 5001, 200, 200}
+{"dali02", "Dimensional Gap", 5001, 200, 200}
 , 
 {"dic_dun01", "Lorong Pertambangan Dicastes", 5005, 400, 256}
 , 
@@ -438,7 +438,9 @@ Navi_Map = {
 , 
 {"lhz_dun03", "Laboratorium Somatology", 5001, 280, 280}
 , 
-{"lhz_dun04", "Laboratorium Somatology B4F", 5001, 300, 300}
+{"lhz_dun04", "Human Experimentation Laboratory B4", 5001, 300, 300}
+, 
+{"lhz_dun_n", "Tomb of the dead", 5001, 280, 280}
 , 
 {"lhz_fild01", "Field Lighthalzen", 5001, 400, 400}
 , 
@@ -482,9 +484,9 @@ Navi_Map = {
 , 
 {"mag_dun02", "Norgroad", 5001, 260, 260}
 , 
-{"mal_dun01", "Starry Coral Area", 5001, 260, 260}
+{"mal_dun01", "malangdo Dungeon", 5001, 260, 260}
 , 
-{"mal_in01", "Dalam Malangdo", 5003, 200, 240}
+{"mal_in01", "Malangdo", 5003, 200, 240}
 , 
 {"mal_in02", "Dalam Malangdo Kapal", 5003, 200, 120}
 , 
@@ -706,7 +708,13 @@ Navi_Map = {
 , 
 {"payon_in02", "Dalam Payon", 5003, 100, 100}
 , 
+{"payon_in03", "Dalam Payon", 5003, 200, 200}
+, 
 {"prontera", "Kota Prontera", 5001, 312, 392}
+, 
+{"prt_cas", "Prontera Center Palace", 5003, 400, 356}
+, 
+{"prt_cas_q", "Prontera Royal Villa", 5003, 180, 200}
 , 
 {"prt_church", "Gereja", 5003, 200, 200}
 , 
@@ -746,6 +754,10 @@ Navi_Map = {
 , 
 {"prt_in_4", "Dalam Prontera", 5003, 300, 200}
 , 
+{"prt_lib", "Royal Memory", 5003, 160, 120}
+, 
+{"prt_lib_q", "Old Memoir of Royal Family", 5003, 160, 120}
+, 
 {"prt_maze01", "Hutan Labirin", 5005, 200, 200}
 , 
 {"prt_maze02", "Hutan Labirin", 5001, 200, 200}
@@ -753,6 +765,12 @@ Navi_Map = {
 {"prt_maze03", "Hutan Labirin", 5005, 200, 200}
 , 
 {"prt_monk", "Kuil St. Capitolina", 5001, 400, 300}
+, 
+{"prt_pri00", "Prontera Prison", 5003, 200, 200}
+, 
+{"prt_prison", "Prontera Underground Prison", 5001, 300, 300}
+, 
+{"prt_q", "Prontera Invasion", 5001, 312, 392}
 , 
 {"prt_sewb1", "Lorong Prontera", 5001, 320, 320}
 , 
@@ -767,6 +785,8 @@ Navi_Map = {
 {"que_god01", "Quest Map ", 5003, 300, 140}
 , 
 {"que_job01", "Private Pub ", 5001, 160, 100}
+, 
+{"que_swat", "Pangkalan Militer Heart Hunter", 5001, 360, 360}
 , 
 {"que_thor", "Thor Volcano Dungeon", 5003, 200, 100}
 , 
@@ -832,7 +852,11 @@ Navi_Map = {
 , 
 {"rachel", "Rachel, Ibukota Negeri Arunafeltz", 5001, 300, 300}
 , 
+{"rebel_in", "Klana Nemieri", 5003, 220, 100}
+, 
 {"s_atelier", "Bengkel Bayangan", 5003, 200, 140}
+, 
+{"slabw01", "Institut Werner", 5001, 300, 180}
 , 
 {"spl_fild01", "Splandid Field", 5001, 400, 400}
 , 
