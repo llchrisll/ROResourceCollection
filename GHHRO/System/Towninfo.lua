@@ -34,6 +34,8 @@ prontera = {
 {name = "Inn", X = 204, Y = 191, TYPE = 5}
 , 
 {name = "Inn", X = 107, Y = 218, TYPE = 5}
+, 
+{name = "Styling Shop", X = 76, Y = 93, TYPE = 7}
 }
 , 
 prt_fild05 = {
@@ -52,8 +54,6 @@ izlude = {
 {name = "Guide", X = 120, Y = 206, TYPE = 4}
 , 
 {name = "Store", X = 112, Y = 179, TYPE = 0}
-, 
-{name = "Forge", X = 162, Y = 125, TYPE = 3}
 }
 , 
 geffen = {
@@ -144,6 +144,10 @@ morocc = {
 {name = "Inn", X = 197, Y = 66, TYPE = 5}
 , 
 {name = "Inn", X = 273, Y = 269, TYPE = 5}
+, 
+{name = "Tool Deale", X = 151, Y = 241, TYPE = 0}
+, 
+{name = "Tool Deale", X = 146, Y = 103, TYPE = 0}
 }
 , 
 moc_ruins = {
@@ -178,6 +182,8 @@ alberta = {
 {name = "Forge", X = 35, Y = 41, TYPE = 3}
 , 
 {name = "Inn", X = 65, Y = 233, TYPE = 5}
+, 
+{name = "Styling Shop", X = 47, Y = 145, TYPE = 7}
 }
 , 
 yuno = {
@@ -194,6 +200,8 @@ yuno = {
 {name = "Tool Dealer", X = 193, Y = 142, TYPE = 0}
 , 
 {name = "Forge", X = 120, Y = 138, TYPE = 3}
+, 
+{name = "Styling Shop", X = 196, Y = 87, TYPE = 7}
 }
 , 
 comodo = {
@@ -292,6 +300,8 @@ rachel = {
 {name = "Weapon Dealer", X = 42, Y = 87, TYPE = 1}
 , 
 {name = "Inn", X = 115, Y = 149, TYPE = 5}
+, 
+{name = "Styling Shop", X = 90, Y = 189, TYPE = 7}
 }
 , 
 veins = {
@@ -438,6 +448,8 @@ izlu2dun = {
 , 
 alb2trea = {
 {name = "Convenience Service", X = 59, Y = 69, TYPE = 6}
+, 
+{name = "Tool Dealer", X = 87, Y = 65, TYPE = 0}
 }
 , 
 mjolnir_02 = {
@@ -462,9 +474,13 @@ malangdo = {
 {name = "Tool Dealer", X = 232, Y = 163, TYPE = 0}
 , 
 {name = "Inn", X = 147, Y = 120, TYPE = 5}
+, 
+{name = "Forge", X = 224, Y = 172, TYPE = 3}
 }
 , 
 xmas = {
+{name = "Convenience Service", X = 148, Y = 134, TYPE = 6}
+, 
 {name = "Guide", X = 140, Y = 137, TYPE = 4}
 , 
 {name = "Tool Dealer", X = 122, Y = 131, TYPE = 0}
@@ -500,8 +516,6 @@ izlude_a = {
 {name = "Guide", X = 120, Y = 206, TYPE = 4}
 , 
 {name = "Store", X = 112, Y = 179, TYPE = 0}
-, 
-{name = "Forge", X = 162, Y = 125, TYPE = 3}
 }
 , 
 izlude_b = {
@@ -514,8 +528,6 @@ izlude_b = {
 {name = "Guide", X = 120, Y = 206, TYPE = 4}
 , 
 {name = "Store", X = 112, Y = 179, TYPE = 0}
-, 
-{name = "Forge", X = 162, Y = 125, TYPE = 3}
 }
 , 
 izlude_c = {
@@ -528,8 +540,6 @@ izlude_c = {
 {name = "Guide", X = 120, Y = 206, TYPE = 4}
 , 
 {name = "Store", X = 112, Y = 179, TYPE = 0}
-, 
-{name = "Forge", X = 162, Y = 125, TYPE = 3}
 }
 , 
 izlude_d = {
@@ -542,8 +552,20 @@ izlude_d = {
 {name = "Guide", X = 120, Y = 206, TYPE = 4}
 , 
 {name = "Store", X = 112, Y = 179, TYPE = 0}
+}
 , 
-{name = "Forge", X = 162, Y = 125, TYPE = 3}
+prt_monk = {
+{name = "Weapon Dealer", X = 135, Y = 263, TYPE = 1}
+}
+, 
+cmd_fild07 = {
+{name = "Tool Dealer", X = 257, Y = 126, TYPE = 0}
+, 
+{name = "Armor Shop", X = 277, Y = 85, TYPE = 2}
+, 
+{name = "Convenience Service", X = 136, Y = 134, TYPE = 6}
+, 
+{name = "Weapon Dealer", X = 250, Y = 98, TYPE = 1}
 }
 }
 main = function()

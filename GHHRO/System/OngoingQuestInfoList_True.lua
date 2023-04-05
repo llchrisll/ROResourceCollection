@@ -479,11 +479,11 @@ Description = {"2nd quest. Sell the Bad Canned Food from Leonie to the shop"}
 , 
 [1260] = {Title = "Cursed Swordsman", 
 Description = {"Enter the Ghost Palace via a secret passage."}
-, Summary = ""}
+, Summary = "secret passage"}
 , 
 [1261] = {Title = "Cursed Swordsman", 
 Description = {"Entering the Ghost Palace is restricted until the timer has expired."}
-, Summary = ""}
+, Summary = "Resets at 4am"}
 , 
 [1262] = {Title = "Cursed Swordsman", 
 Description = {"Exploring the Ghost Palace has stopped"}
@@ -494,48 +494,48 @@ Description = {"It is time to leave the Ghost Palace. All the ghosts seem to hav
 , Summary = ""}
 , 
 [1264] = {Title = "Flaming Basin and Doom Prayers", 
-Description = {"Collect 15 Burning Feather from Fire Condors."}
-, Summary = "Talk to Base Investigator."}
+Description = {"Collect 15 Burning Feathers from Fire Condors and talk to Base Investigator."}
+, Summary = "Collect 15 Burning Feathers."}
 , 
 [1265] = {Title = "Flaming Basin and Doom Prayers", 
 Description = {"Find a scout somewhere in the Flaming Basin."}
 , Summary = "Talk to the scout."}
 , 
 [1266] = {Title = "Flaming Basin and Doom Prayers", 
-Description = {"Collect 20 Patrol Log from Fire Sandmen."}
-, Summary = "Talk to the scout."}
+Description = {"Collect 20 Patrol Logs from Fire Sandmen and talk to the scout.."}
+, Summary = "Collect 20 Patrol Logs."}
 , 
 [1267] = {Title = "Flaming Basin and Doom Prayers", 
 Description = {"Report to Base Investigator with news about the scout."}
 , Summary = "Talk to Base Investigator."}
 , 
 [1268] = {Title = "Flaming Basin and Doom Prayers", 
-Description = {"Eliminate the monsters; hunt 20 Fire Sandmen."}
-, Summary = "Talk to Base Investigator."}
+Description = {"Eliminate the monsters; hunt 20 Fire Sandmen and talk to Base Investigator."}
+, Summary = "Hunt 20 Fire Sandmen."}
 , 
 [1269] = {Title = "Flaming Basin and Doom Prayers", 
-Description = {"Eliminate the monsters; hunt 20 Fire Frilldoras."}
-, Summary = "Talk to Base Investigator."}
+Description = {"Eliminate the monsters; hunt 20 Fire Frilldoras and talk to Base Investigator."}
+, Summary = "Hunt 20 Fire Frilldoras."}
 , 
 [1270] = {Title = "Flaming Basin and Doom Prayers", 
 Description = {"See if the Doom Prayers are really blessed. Collect 40 Stone of Blessing from Fire Golems."}
-, Summary = "Talk to Doom Prayers Leader."}
+, Summary = "Collect 40 Stone of Blessing."}
 , 
 [1271] = {Title = "Flaming Basin and Doom Prayers", 
 Description = {"No miracle happened."}
 , Summary = "Talk to Doom Prayers Leader."}
 , 
 [1272] = {Title = "Flaming Basin and Doom Prayers", 
-Description = {"See if the Doom Prayers are really blessed. Collect 30 Monster Blood from Fire Sandmen and Fire Frilldoras."}
-, Summary = "Talk to Doom Prayers Leader."}
+Description = {"See if the Doom Prayers are really blessed. Collect 30 Monster Blood from Fire Sandmen and Fire Frilldoras and talk to Doom Prayers Leader."}
+, Summary = "Collect 30 Monster Blood."}
 , 
 [1273] = {Title = "Flaming Basin and Doom Prayers", 
 Description = {"The leader had diarrhea and couldn\'t levitate himself. Talk to Doom Prayers Second-in-command."}
 , Summary = "Talk to Doom Prayers Second-in-command."}
 , 
 [1274] = {Title = "Flaming Basin and Doom Prayers", 
-Description = {"Collect 30 Fire Golem Tooth and 30 Fire Frilldora Napes for the Doom Prayers."}
-, Summary = "Talk to Doom Prayers Second-in-command."}
+Description = {"Collect 30 Fire Golem Tooth and 30 Fire Frilldora Napes for the Doom Prayers and talk to Doom Prayers Second-in-command."}
+, Summary = "Collect materials for the Doom Prayers."}
 , 
 [1275] = {Title = "Flaming Basin and Doom Prayers", 
 Description = {"Something special did happen, though it scared everyone who witnessed it."}
@@ -630,28 +630,28 @@ Description = {"Meet Doom Prayers Leader to the northwest of the Base."}
 , Summary = "Talk to Doom Prayers Leader."}
 , 
 [1333] = {Title = "Sweet Temptation", 
-Description = {"Help the man struggling with the sweet smell by eliminating 5 Sweet Drop monster."}
-, Summary = "Eliminate 5 Sweet Drop"}
+Description = {"Help the man struggle with sweet smell by hunting 5 Sweets Drops monster."}
+, Summary = "Take care of 5 Sweets Drops"}
 , 
 [1334] = {Title = "Sweetness don\'t last long", 
-Description = {"The struggling man got his sanity back. Let\'s check with him again after 4am tomorrow."}
-, Summary = "Visit Struggling Man after 4am"}
+Description = {"Struggled man got the peace back. LEt\'s check with him again after 4 AM tomorrow."}
+, Summary = "Reset at 4 am"}
 , 
 [1335] = {Title = "Lovely Candy Basket", 
-Description = {"Bring 5 Candy, 5 Lollipop, 3 Throat Candy to Garnish Lorenzo."}
+Description = {"Bring 5 Candy, 5 Candy Cane, 3 Neck Protection Candy to Garnish Lorenzo."}
 , Summary = "Deliver goods to Garnish"}
 , 
-[1336] = {Title = "Secret mission: Fill out candy basket", 
-Description = {"Garnish asks you to come back after 4am as his son might find out."}
-, Summary = "Visit Garnish Lorenzo after 4am"}
+[1336] = {Title = "Secret mission : Fill out candy basket", 
+Description = {"Garnish asks to come back after 4 AM as his son might find out."}
+, Summary = "Reset at 4 am"}
 , 
 [1337] = {Title = "Lucky Sweets", 
-Description = {"Bring 1 Lucky Candy, 1 Lucky Lollipop, 1 Lucky Cookie to Miss Fortuna."}
+Description = {"Bring 1 Lucky Candy, 1 Luck Candy Cane, 1 Lucky Cookie to Miss Fortuna."}
 , Summary = "Deliver goods to Miss Fortuna"}
 , 
 [1338] = {Title = "No more Sweets", 
-Description = {"Miss Fortuna says she wants some more sweets after 4am."}
-, Summary = "Visit Miss Fortuna after 4am"}
+Description = {"Miss Fortuna says she would want some more sweets after 4 AM."}
+, Summary = "Reset at 4am"}
 , 
 [2000] = {Title = "Job Change to Blacksmith", 
 Description = {"We want to examine the dedication and eagerness of Merchants who apply to us to become Blacksmiths. For the first test, go to Alberta and help one of our guild members Getsufenst."}
@@ -666,24 +666,24 @@ Description = {"You\'ll have no problem with this score! I will entrust you with
 , Summary = "Talk with Getsufenst"}
 , 
 [2003] = {Title = "Job Change to Blacksmith", 
-Description = {"I need some materials to manage so many orders. Could you bring those materials? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
-, Summary = "Bring 2 Steel, 1 Rotten Bandage, 2 Blue Gemstone and an Arc Wand from the shop. Then go back to Getsufenst."}
+Description = {"I need some materials to manage so many orders. Could you bring 2 Steel, 1 Rotten Bandage, 2 Blue Gemstone and an Arc Wand from the shop? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
+, Summary = "Bring materials to Getsufenst."}
 , 
 [2004] = {Title = "Job Change to Blacksmith", 
-Description = {"I need some materials to manage so many orders. Could you bring those materials? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
-, Summary = "Bring 2 Star Dust, 1 Skel-Bone, 1 Zargon and a Gladius from the shop. Then go back to Getsufenst."}
+Description = {"I need some materials to manage so many orders. Could you bring 2 Star Dust, 1 Skel-Bone, 1 Zargon and a Gladius from the shop? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
+, Summary = "Bring materials to Getsufenst."}
 , 
 [2005] = {Title = "Job Change to Blacksmith", 
-Description = {"I need some materials to manage so many orders. Could you bring those materials? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
-, Summary = "Bring 2 Coal, 2 Shell, 2 Red Blood and a Tsurugi from the shop. Then go back to Getsufenst."}
+Description = {"I need some materials to manage so many orders. Could you bring 2 Coal, 2 Shell, 2 Red Blood and a Tsurugi from the shop? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
+, Summary = "Bring materials to Getsufenst."}
 , 
 [2006] = {Title = "Job Change to Blacksmith", 
-Description = {"I need some materials to manage so many orders. Could you bring those materials? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
-, Summary = "Bring 8 Iron Ore, 1 Eye Patch, 2 Blue Gemstone and an Arbalest from the shop. Then go back to Getsufenst."}
+Description = {"I need some materials to manage so many orders. Could you bring 8 Iron Ore, 1 Eye Patch, 2 Blue Gemstone and an Arbalest from the shop? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
+, Summary = "Bring materials to Getsufenst."}
 , 
 [2007] = {Title = "Job Change to Blacksmith", 
-Description = {"I need some materials to manage so many orders. Could you bring those materials? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
-, Summary = "Bring 8 Iron, 20 Green Herb, 2 Animal Skin and a Ring Pommel Saber from the shop. Then go back to Getsufenst."}
+Description = {"I need some materials to manage so many orders. Could you bring 10 Animal Skin and a Ring Pommel Saber from the shop? This is just for a test, don\'t even think that Blacksmiths are poor. Hum."}
+, Summary = "Bring materials to Getsufenst."}
 , 
 [2008] = {Title = "Job Change to Blacksmith", 
 Description = {"All done! Okay. Give this Arc Wand to Baisulist who is currently in Geffen of Rune Midgard. Be sure to bring the receipt back to me."}
@@ -734,8 +734,8 @@ Description = {"There is a registration fee to become a Rogue. I will tell you w
 , Summary = "10,000 Zeny, 10 Green Herb, 10 Crab Shell, 10 Snake Scale, 10 Garlet."}
 , 
 [2020] = {Title = "Job Change to Rogue", 
-Description = {"There is a registration fee to become a Rogue. I will tell you what you need to gather, and how much the registration fee is."}
-, Summary = "10,000 Zeny, 10 Yellow Herb, 10 Shell, 10 Grasshopper\'s Leg, 10 Bear\'s Footskin."}
+Description = {"\'Mr. Smith\' wants to bring 5,000 Zeny, 1 Yellow Herb, 3 Shell, 3 Grasshopper\'s Leg, 3 Bear\'s Footskin."}
+, Summary = "Bring materials to \'Mr. Smith\'"}
 , 
 [2021] = {Title = "Job Change to Rogue", 
 Description = {"Bring 5 each: Chrysalis, Empty Bottle, Iron Ore, Stone Heart, Red Herb, Animal Skin, Yellow Gemstone, Tooth of Bat, Scorpion Tail, Yoyo Tail, Monster\'s Feed, Fluff, Clover, Feathers of Birds, Talon, Spawn"}
@@ -834,8 +834,8 @@ Description = {"I will accept 30,000 Zeny as the registration fee, if you can br
 , Summary = "Bring 30,000 Zeny, 50 Clover, 50 Feather, 25 Squid Ink and talk to Metheus Sylphe."}
 , 
 [2045] = {Title = "Job Change to Sage", 
-Description = {"I will accept 30,000 Zeny as the registration fee, if you can bring me some items. Either you can bring 70,000 Zeny as a rule, or bring an Old Magicbook and a Necklace of Wisdom as the registration fee instead."}
-, Summary = "Bring 30,000 Zeny, 50 Feather of Birds, 50 Fluff, 50 Clover, 50 Feather and talk to Metheus Sylphe."}
+Description = {"Bring 5,000 Zeny, 1 Feather of Birds, 1 Fluff, 1 Clover, 1 Feather and talk to Metheus Sylphe."}
+, Summary = "Bring materials to Metheus Sylphe."}
 , 
 [2046] = {Title = "Job Change to Sage", 
 Description = {"You have passed the written test. Now, why don\'t you go to Professor Hermes and take the practical test?"}
@@ -1047,7 +1047,7 @@ Description = {"I\'m sure that my master will know of a way to free me from this
 , 
 [2111] = {Title = "A Mage in the Ice Dungeon", 
 Description = {"I need to construct an artifact in order to break the magical ice. Mmm... Would you help me? I need to get 5 Rough Wind, 1 Hammer, and 1 Blank Scroll. -Hamion"}
-, Summary = "^4D4DFF5 Rough Wind^000000, ^4D4DFF1 Hammer^000000, and ^4D4DFF1 Blank Scroll^000000."}
+, Summary = "5 Rough Wind, 1 Hammer, and 1 Blank Scroll."}
 , 
 [2112] = {Title = "A Mage in the Ice Dungeon", 
 Description = {"Here, take this Wind Hammer and use it to free Maheo. This hammer will only work once, so ensure you smash the ice properly!"}
@@ -1511,7 +1511,7 @@ Description = {"Speak to Zella\'s brother Einrich in Alberta who is coordinating
 , 
 [2259] = {Title = "8th Anniversary", 
 Description = {"You have found Einrich, but he has asked you to bring some items that you can buy from a trading merchant in Alberta."}
-, Summary = "Bring ^ff00001 Branch^000000 rifle and ^ff000010 Bloody Shell^000000s"}
+, Summary = "Bring 1 Branch rifle and 10 Bloody Shells"}
 , 
 [2260] = {Title = "8th Anniversary", 
 Description = {"The first artifact was found in Louyang. Find the Dig Crew Leader there."}
@@ -1657,6 +1657,10 @@ Description = {""}
 Description = {"Bring 15 Handmade Chocolates, 15 Handmade White Chocolates, 15 Chocolate Drinks, 15 Chocolate Tarts, 15 Strawberry Chocolates, 1 Flame Heart, and a Silver Arrow."}
 , Summary = "Deliver the items to Schweddy"}
 , 
+[2380] = {Title = "Letter of Consulting Office", 
+Description = {""}
+, Summary = ""}
+, 
 [3000] = {Title = "Job Change to Bard", 
 Description = {"Beautiful Song - I have met a beautiful singer Bard. I want to be a Bard... Should I ask him about becoming a Bard?"}
 , Summary = "  "}
@@ -1678,15 +1682,15 @@ Description = {"Final Test - Bard Lalo asks me to collect 60 Trunks for the fina
 , Summary = "Bring 60 Trunks"}
 , 
 [3006] = {Title = "Job Change to Crusader", 
-Description = {"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring me ^3355FF10Rotten Bandage, and Lantern^000000"}
+Description = {"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring me ^3355FF10 Rotten Bandage, and Lantern^000000"}
 , Summary = "10 Rotten Bandage, 10 Lantern"}
 , 
 [3007] = {Title = "Job Change to Crusader", 
-Description = {"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FFSkel-Bone, Orc Claw, Manacles, and Short Daenggie^000000"}
-, Summary = "10 Skel-Bone, 10 Orc Claw, 10 Manacles, and 10 Short Daenggie"}
+Description = {"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Rotten Bandage, and Lantern^000000"}
+, Summary = "10 Rotten Bandage, 10 Lantern"}
 , 
 [3008] = {Title = "Job Change to Crusader", 
-Description = {"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Horrendous Mouth, 10 Rotten Bandage, 10 Lantern, and 10 Jack o\'Pumpkin^000000"}
+Description = {"Qualification - I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Rotten Bandage, 10 Lantern^000000"}
 , Summary = "10 Rotten Bandage, 10 Lantern"}
 , 
 [3009] = {Title = "Job Change to Crusader", 
@@ -1722,8 +1726,8 @@ Description = {"Do you want to be a Monk? Well, then get yourself inside and tal
 , Summary = "Sensei Moohae"}
 , 
 [3017] = {Title = "Job Change to Monk", 
-Description = {"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."}
-, Summary = "Bring 5 Sticky Mucus, 10 Earthworm Peeling, 20 Green Herb to Sensei Moohae"}
+Description = {"Sensei Moohae want to bring 5 Sticky Mucus, 10 Earthworm Peeling, and 5 Green Herb."}
+, Summary = "Bring materials to Sensei Moohae"}
 , 
 [3018] = {Title = "Job Change to Monk", 
 Description = {"The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."}
@@ -1793,9 +1797,9 @@ Description = {"Your SP has not yet recovered from activating another seal. You 
 Description = {"Friar Patrick suggests meeting Rust Blackhand who is near the main building of the Monastery. He says Rust Blackhand will make the Cursed Baphomet Doll very helpful."}
 , Summary = " "}
 , 
-[3043] = {Title = "The Gigantic Magestic Goat", 
-Description = {"Rust Blackhand says he can make the Gigantic Majestic Goat, that has the power of Baphomet, if you bring him all the materials he needs."}
-, Summary = "Cursed Baphomet Doll, Majestic Goat, 30 Black Birthstones, 50 Fragment of Darkness, and 990,000 Zeny"}
+[3043] = {Title = "The Gigantic Majestic Goat", 
+Description = {"Rust Blackhand says he can make the Gigantic Majestic Goat, that has the power of Baphomet, if you bring him all the materials he needs. Material: Cursed Baphomet Doll, Majestic Goat, 30 Crystal of Darkness, 50 Fragment of Darkness, and 990,000 Zeny."}
+, Summary = "Collect Material"}
 , 
 [3044] = {Title = "The Gigantic Magestic Goat", 
 Description = {"Rust Blackhand says he can make the Gigantic Majestic Goat, that has the power of Baphomet, if you bring him all the materials he needs."}
@@ -2095,7 +2099,7 @@ Description = {"Marybell received a sealed blank letter with an encryption from 
 , 
 [3130] = {Title = "Z Gang Wanted - Decrypting the letter...", 
 Description = {"It looks like a piece of blank paper, but if you add the right amount of heat and light, you can read its contents. You need to get some materials for this."}
-, Summary = "  ^0000ff20 Live Coals, 1 Matchstick, 2 Alcohol, 10 Burning Hearts^000000"}
+, Summary = "  20 Live Coals, 1 Matchstick, 2 Alcohol, 10 Burning Hearts"}
 , 
 [3131] = {Title = "Z Gang Wanted - Code\'s Broken!", 
 Description = {"According to Gooho Ahn, the paper is written in the Aegye language. The password is ^0000ffWeii arr prowd Z G gna^000000 ^0000ffAynoen hwo sspotp uys^000000 ^0000ffwlil eb kckide on htier ssa!^000000"}
@@ -2103,7 +2107,7 @@ Description = {"According to Gooho Ahn, the paper is written in the Aegye langua
 , 
 [3132] = {Title = "Z Gang Wanted - Find the Z Gang\'s Fort", 
 Description = {"You found out that there\'s is the entrance to Z Gang\'s hideouts in the desert of Southern Morroc. Maybe the password from Gooho Ahn will come in handy.."}
-, Summary = "  ^0000ffWeii arr prowd Z G gna^000000 ^0000ffAynoen hwo sspotp uys^000000 ^0000ffwlil eb kckide on htier ssa!^000000"}
+, Summary = "  Weii arr prowd Z G gna Aynoen hwo sspotp uys wlil eb kckide on htier ssa!"}
 , 
 [3133] = {Title = "Z Gang Wanted - Fort Found!", 
 Description = {"So this is the Fort? Let\'s find Z Gang members and beat\'em up!"}
@@ -2167,19 +2171,19 @@ Description = {"The wise Sage Serpeone casts a spell on your body so that you ca
 , 
 [3209] = {Title = "Dullahan Hunting", 
 Description = {"Accumulate magic energy by hunting Dullahan. You can find these monsters in Skellington Village in Nifflheim."}
-, Summary = "Hunt ^0000FF10 Dullahan^000000"}
+, Summary = "Hunt 10 Dullahan"}
 , 
 [3210] = {Title = "Disguise Hunting", 
 Description = {"Accumulate magic energy by hunting Disguise. You can find these monsters in Skellington Village in Nifflheim."}
-, Summary = "Hunt ^0000FF10 Disguise^000000"}
+, Summary = "Hunt 10 Disguise"}
 , 
 [3211] = {Title = "Quve Hunting", 
 Description = {"Accumulate magic energy by hunting Quve. You can find these monsters in Skellington Village in Nifflheim."}
-, Summary = "Hunt ^0000FF10 Quve^000000"}
+, Summary = "Hunt 10 Quve"}
 , 
 [3212] = {Title = "Heirozoist Hunting", 
 Description = {"Accumulate magic energy by hunting Heirozoist. You can find these monsters in Skellington Village in Nifflheim."}
-, Summary = "Hunt ^0000FF10 Heirozoist^000000"}
+, Summary = "Hunt 10 Heirozoist"}
 , 
 [3213] = {Title = "Job Change to Rune Knight", 
 Description = {"You have accumulated enough magic energy in your body to become a Rune Knight. Talk to Sage Serpeone and she will send you to the Rune Knight Gathering area."}
@@ -2267,7 +2271,7 @@ Description = {"A request from a gem dealer from Morroc. Collect 40 Maneater Blo
 , 
 [3263] = {Title = "Magic Wand", 
 Description = {"A request from Blacksmith Antonio. Collect 30 Dokebi Horn and 30 Trunks and he will lend you his Magic Wand."}
-, Summary = "Collect  ^0000FF30 Dokebi Horn^000000 and ^0000FF3 Trunk^000000s"}
+, Summary = "Collect  30 Dokebi Horn and 3 Trunks"}
 , 
 [3265] = {Title = "Request - Missing occult mania", 
 Description = {"A request from a place taking request. You found a missing boy on the first floor of Geffen dungeon, so go back to a place taking request for reporting."}
@@ -2282,32 +2286,32 @@ Description = {"Meet the Hunter Guildsman to continue the test."}
 , Summary = ""}
 , 
 [4002] = {Title = "Job Change to Hunter", 
-Description = {"Collect the items mentioned by the Demon Hunter."}
-, Summary = "5 Wolf Claw, 5 Trunk, 3 White Herb"}
+Description = {"Collect items mentioned by the Demon Hunter.", "-5 Resin, 5 Insect Feeler, 3 White Herb-"}
+, Summary = "Collect items"}
 , 
 [4003] = {Title = "Job Change to Hunter", 
-Description = {"Collect the items mentioned by the Demon Hunter."}
-, Summary = "3 Bill of Birds, 5 Skel-Bone, 3 Green Herb"}
+Description = {"Collect the items mentioned by the Demon Hunter.", "-3 Bill of Birds, 5 Skel-Bone, 3 Green Herb-"}
+, Summary = "Collect items"}
 , 
 [4004] = {Title = "Job Change to Hunter", 
-Description = {"Collect the items mentioned by the Demon Hunter."}
-, Summary = "3 Venom Canine, 3 Animal Skin, 5 Red Herb"}
+Description = {"Collect the items mentioned by the Demon Hunter.", "-3 Rainbow Shell, 3 Animal Skin, 5 Red Herb-"}
+, Summary = "Collect items"}
 , 
 [4005] = {Title = "Job Change to Hunter", 
-Description = {"Collect the items mentioned by the Demon Hunter."}
-, Summary = "3 Dokkaebi Horn, 3 Piece of Egg Shell, 10 Fluff"}
+Description = {"Collect the items mentioned by the Demon Hunter.", "-3 Horn, 3 Poison Spore, 10 Fluff-"}
+, Summary = "Collect items"}
 , 
 [4006] = {Title = "Job Change to Hunter", 
-Description = {"Collect the items mentioned by the Demon Hunter."}
-, Summary = "9 Shell, 9 Worm Peeling, 9 Yellow Herb"}
+Description = {"Collect the items mentioned by the Demon Hunter.", "-9 Solid Shell, 9 Worm Peeling, 9 Yellow Herb-"}
+, Summary = "Collect items"}
 , 
 [4007] = {Title = "Job Change to Hunter", 
-Description = {"Collect the items mentioned by the Demon Hunter."}
-, Summary = "Tooth of Bat, 1 Sticky Mucus, 1 Bear\'s Footskin"}
+Description = {"Collect the items mentioned by the Demon Hunter.", "-3 Tooth of Bat, 1 Sticky Mucus, 1 Bear\'s Footskin-"}
+, Summary = "Collect items"}
 , 
 [4008] = {Title = "Job Change to Hunter", 
-Description = {"Collect the items mentioned by the Demon Hunter."}
-, Summary = "2 Porcupine Quill, 1 Yoyo Tail, 1 Acorn"}
+Description = {"Collect the items mentioned by the Demon Hunter.", "-2 Porcupine Quill, 1 Yoyo Tail, 1 Acorn-"}
+, Summary = "Collect items"}
 , 
 [4009] = {Title = "Job Change to Hunter", 
 Description = {"Go to the Guildmaster in Payon Central Palace"}
@@ -2837,36 +2841,36 @@ Description = {"Eliminate the 4 Porings immune to magic near the back wall."}
 Description = {"Eliminate the 4 Porings immune to physical attack near the back wall."}
 , Summary = "Eliminate 4 Porings"}
 , 
-[4295] = {Title = "Wandering Bard", 
-Description = {"Finish talking to the Bard."}
+[4295] = {Title = "Wandering Bard - On going", IconName = "ico_dq.bmp", 
+Description = {"Bring a new story to share with <NAVI>[Wandering Bard]<INFO>verus03,129,21,0,101,0</INFO></NAVI> in Verus. Report to Wandering Bard after gathering a new story."}
+, Summary = "Bring a new story for Wandering Bard"}
+, 
+[4296] = {Title = "Quest Cooldown", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Wandering Bard]<INFO>verus03,129,21,0,101,0</INFO></NAVI> got nothing to share at the moment. Find him again tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[4297] = {Title = "Bard\'s Story: Some Corporation", IconName = "ico_dq.bmp", 
+Description = {"Investigate the story about the Lighthalzen-based corporation. <NAVI>[Fishbone]<INFO>lighthalzen,341,224,0,101,0</INFO></NAVI> in Lighthalzen might know something."}
 , Summary = ""}
 , 
-[4296] = {Title = "Take a Break", 
-Description = {"He has no stories to tell you for the moment. Come back to him tomorrow."}
+[4298] = {Title = "Bard\'s Story: The President", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Ordinary Man]<INFO>lighthalzen,179,170,0,101,0</INFO></NAVI> might have some stories about the president."}
 , Summary = ""}
 , 
-[4297] = {Title = "Bard\'s Story: Some Corporation", 
-Description = {"Investigate the story about the Lighthalzen-based corporation, and then return to the Bard."}
+[4299] = {Title = "Bard\'s Story: A Scholar in Juno", IconName = "ico_dq.bmp", 
+Description = {"Get a story from the <NAVI>[Scholar]<INFO>yuno_in04,190,125,0,101,0</INFO></NAVI>."}
 , Summary = ""}
 , 
-[4298] = {Title = "Bard\'s Story: The President", 
-Description = {"What about the President?"}
+[4300] = {Title = "Bard\'s Story: Mad Scientist", IconName = "ico_dq.bmp", 
+Description = {"Find the <NAVI>[Mad Scientist]<INFO>yuno_in03,26,39,0,101,0</INFO></NAVI> in Juno."}
 , Summary = ""}
 , 
-[4299] = {Title = "Bard\'s Story: a Scholar in Juno", 
-Description = {"A scholar in Juno studies the relics of Juperos. Go talk to the scholar."}
+[4301] = {Title = "Bard\'s Story: Hugel", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Someone]<INFO>ein_in01,16,36,0,101,0</INFO></NAVI> in Hugel is in need of your help."}
 , Summary = ""}
 , 
-[4300] = {Title = "Bard\'s Story: a Mad Scientist", 
-Description = {"There\'s a mad scientist in Juno. Go check if the rumors about him are true."}
-, Summary = ""}
-, 
-[4301] = {Title = "Bard\'s Story: Hugel", 
-Description = {"Someone in Hugel is in need of your help. Go talk to that person."}
-, Summary = ""}
-, 
-[4302] = {Title = "Bard\'s Story: Odin Temple", 
-Description = {"Apply for the excavation of Odin Temple. Something\'s going on at the excavation site."}
+[4302] = {Title = "Bard\'s Story: Odin Temple", IconName = "ico_dq.bmp", 
+Description = {"Apply for the <NAVI>excavation of Odin Temple<INFO>hu_in01,19,161,0,101,0</INFO></NAVI>. Something\'s going on at the excavation site."}
 , Summary = ""}
 , 
 [4344] = {Title = "Find the rabbit holes", 
@@ -3011,15 +3015,15 @@ Description = {"You found Fishee\'s family. Let\'s go tell Fishee."}
 , 
 [5035] = {Title = "Help the old man!", 
 Description = {"Mr. Memo in Dewata island is in trouble. Go and find out what\'s happening at the Jaty tribe as a favor to him."}
-, Summary = "The ^0000FFJaty Tribe^000000 is located in the ^FF000010 o\'clock^000000 direction of Dewata Island."}
+, Summary = "The Jaty Tribe is located in the 10 o\'clock direction of Dewata Island."}
 , 
 [5036] = {Title = "Help the old man!", 
 Description = {"In order to make Palm Oils, Oil Palm Fruit is required. Poby, who left to pick up the fruit, has not returned yet. Please go to the palm forest and look for Poby."}
-, Summary = "You can find Poby at the ^0000FFsouthern area of the palm forest^000000."}
+, Summary = "You can find Poby at the southern area of the palm forest."}
 , 
 [5037] = {Title = "Help the old man!", 
 Description = {"Poby, who climbed up the tree without any safety gear, fell from the tree and hurt his back. He cannot move at all."}
-, Summary = "Please describe Poby\'s situation to ^0000FFLero^000000 in the Jaty tribe."}
+, Summary = "Please describe Poby\'s situation to Lero in the Jaty tribe."}
 , 
 [5038] = {Title = "Help the old man!", 
 Description = {"You\'ve decided to help Lero pick the fruit instead of making injured Poby finish the job."}
@@ -3027,7 +3031,7 @@ Description = {"You\'ve decided to help Lero pick the fruit instead of making in
 , 
 [5039] = {Title = "Help the old man!", 
 Description = {"Instead of climbing up the palm tree, you have the option to shake or kick it. For your own safety, try to wear a Safety Helmet while doing this task."}
-, Summary = "Obtain ^0000FF60 Oil Palm Fruit^000000 from the palm trees and bring them to Lero."}
+, Summary = "Obtain 60 Oil Palm Fruit from the palm trees and bring them to Lero."}
 , 
 [5040] = {Title = "Help the old man!", 
 Description = {"Lero wants you to relay the current situation to Memo while he presses Oil from Oil Palm Fruits."}
@@ -3039,7 +3043,7 @@ Description = {"Memo says that the Palm Oils should be ready by now."}
 , 
 [5042] = {Title = "Help the old man!", 
 Description = {"Take 30 Palm Oils to Memo."}
-, Summary = "^FF0000Lero says be careful because the oils are very heavy.^000000"}
+, Summary = "Lero says be careful because the oils are very heavy."}
 , 
 [5043] = {Title = "Help the old man!", 
 Description = {"Memo will take care of everything with the oils you bring him."}
@@ -3051,11 +3055,11 @@ Description = {"Memo, an old man in Dewata island, is really indebted to you. <N
 , 
 [5045] = {Title = "Help the old man!", 
 Description = {"The old man, Memo, is really thankful that you came to his aid. He asks you to help Lero in Jaty tribe and to take oils."}
-, Summary = "^0000FFJaty Tribe^000000 is located in the ^FF000010 o\'clock^000000 direction of Dewata Island."}
+, Summary = "Jaty Tribe is located in the 10 o\'clock direction of Dewata Island."}
 , 
 [5046] = {Title = "Help the old man!", 
 Description = {"Lero asks you to pick up 20 Oil Palm Fruit."}
-, Summary = "Palm forest is located in the ^FF00005 o\'clock^000000 direction from Jaty tribe."}
+, Summary = "Palm forest is located in the 5 o\'clock direction from Jaty tribe."}
 , 
 [5047] = {Title = "Help the old man!", 
 Description = {"Take 10 Palm Oils to Memo."}
@@ -3063,7 +3067,7 @@ Description = {"Take 10 Palm Oils to Memo."}
 , 
 [5048] = {Title = "Help the old man!", 
 Description = {"Lero asks you to pick up 30 Oil Palm Fruit."}
-, Summary = "Palm forest is located in the ^FF00005 o\'clock^000000 direction from Jaty tribe."}
+, Summary = "Palm forest is located in the 5 o\'clock direction from Jaty tribe."}
 , 
 [5049] = {Title = "Help the old man!", 
 Description = {"Take 15 Palm Oils to Memo."}
@@ -3071,7 +3075,7 @@ Description = {"Take 15 Palm Oils to Memo."}
 , 
 [5050] = {Title = "Help the old man!", 
 Description = {"Lero asks you to pick up 40 Oil Palm Fruit."}
-, Summary = "Palm forest is located in the ^FF00005 o\'clock^000000 direction from Jaty tribe."}
+, Summary = "Palm forest is located in the 5 o\'clock direction from Jaty tribe."}
 , 
 [5051] = {Title = "Help the old man!", 
 Description = {"Take 20 Palm Oils to Memo."}
@@ -3091,15 +3095,15 @@ Description = {"If you bring the Caress Hilt I made, 100 Leather of Comodo, 20 S
 , 
 [5055] = {Title = "Local Rising - Headless Horse", 
 Description = {"Heaven\'s Recruit Board levels 71-85 requires you to go hunt Headless Horses."}
-, Summary = "Hunt 15 Headless Horses, and report back to the ^0000FFHeaven\'s Recruit Board 71 - 85^000000."}
+, Summary = "Hunt 15 Headless Horses, and report back to the Heaven\'s Recruit Board 71 - 85."}
 , 
 [5056] = {Title = "Local Rising - Tamruan", 
 Description = {"Heaven\'s Recruit Board levels 71-85 requires you to go hunt Noisy Tamruan."}
-, Summary = "Hunt 15 Tamruan, and report back to the ^0000FFHeaven\'s Recruit Board 71 - 85^000000."}
+, Summary = "Hunt 15 Tamruan, and report back to the Heaven\'s Recruit Board 71 - 85."}
 , 
 [5057] = {Title = "Local Rising - Ready the Festival", 
 Description = {"Heaven\'s Recruit Board levels 71-85 requires you to go help the festival get ready."}
-, Summary = "Go gather 30 things, and report back to the ^0000FFHeaven\'s Recruit Board 71 - 85^000000."}
+, Summary = "Go gather 30 things, and report back to the Heaven\'s Recruit Board 71 - 85."}
 , 
 [5058] = {Title = "The mood of the players-(1)", 
 Description = {"Cat Gamers <NAVI>[head coach]<INFO>malangdo,127,111,0,101,0</INFO></NAVI>is worried about their 10-game losing streak!!"}
@@ -3162,7 +3166,7 @@ Description = {"I have a practice match of Kong nyang kong with <NAVI>[player of
 , Summary = "The next practice will be after 24 hours."}
 , 
 [5073] = {Title = "Flag wave Challenge", 
-Description = {"I have a Flag wave challenge with <NAVI>[Nyang gamers]<INFO>mal_in01,133,214,0,101,0</INFO></NAVI>."}
+Description = {"Flag wave challenge with <NAVI>[Nyang gamers]<INFO>mal_in01,133,214,0,101,0</INFO></NAVI>."}
 , Summary = "The next challenge will be after 24 hours."}
 , 
 [5074] = {Title = "Cat\'s Meal", 
@@ -3363,11 +3367,11 @@ Description = {"In order to stop the angry Human Guinea pig, you need to kill th
 , 
 [5123] = {Title = "[Shelter] Sniper", 
 Description = {"In order to stop the angry Human Guinea pig, you need to kill the boss monster."}
-, Summary = "Stop the Sniper Cecile!!"}
+, Summary = "Stop the Sniper Cecil!!"}
 , 
-[5124] = {Title = "[Shelter] Crown", 
+[5124] = {Title = "[Shelter] Clown", 
 Description = {"In order to stop the angry Human Guinea pig, you need to kill the boss monster."}
-, Summary = "Stop the Crown Alphochio!!"}
+, Summary = "Stop the Clown Alphochio!!"}
 , 
 [5125] = {Title = "[Shelter] Gypsy", 
 Description = {"In order to stop the angry Human Guinea pig, you need to kill the boss monster."}
@@ -3489,9 +3493,13 @@ Description = {"To experience a socket enchant, you need a cotton shirt. Bring a
 Description = {"Equipped with the socket-enchanted cotton shirt, go to Sseunpoong for the hidden enchantment"}
 , Summary = "Go to Sseupoong."}
 , 
+[5160] = {Title = "Librarian\'s mistake", 
+Description = {"Metheus Sylphe promised to show the Book of Ymir if you help him to find the lost book in the nearby Juno Fields."}
+, Summary = "1 Escaped Book"}
+, 
 [5161] = {Title = "Low-level collection request[Stand by]", 
 Description = {"The Low-level collection request for energy crystal research is only available once a day."}
-, Summary = "Wait time - 23 hours"}
+, Summary = "Reset at 4 am"}
 , 
 [5162] = {Title = "Low-level collection request", 
 Description = {"[Low-level request for Energy crystal research] If you hunt 100 Requiems, you can obtain 10 Rough Energy Crystals."}
@@ -3523,7 +3531,7 @@ Description = {"[Low-level request for Energy crystal research] If you hunt 100 
 , 
 [5169] = {Title = "Mid-Level collection request[Stand by]", 
 Description = {"the Mid-level collection request for Energy crystal research is only available once a day."}
-, Summary = "Wait time - 23 hours"}
+, Summary = "Resets at 4am"}
 , 
 [5170] = {Title = "Mid-level collection request", 
 Description = {"[Mid-Level request for Energy crystal research] If you hunt 100 Siroma, you can obtain 10 Purified Energy Crystals."}
@@ -3543,7 +3551,7 @@ Description = {"[Mid-Level request for Energy crystal research] If you hunt 100 
 , 
 [5174] = {Title = "High level collection request[Stand by]", 
 Description = {"the High-level collection request for Energy crystal research is only available once a day."}
-, Summary = "Wait time - 23 hours"}
+, Summary = "Resets at 4am"}
 , 
 [5175] = {Title = "High-level collecting request", 
 Description = {"[High-Level request for Energy crystal research] If you hunt 100 Desert Wolves, you can obtain 5 High Purity Energy crystals."}
@@ -3634,7 +3642,7 @@ Description = {"No new orders for rope have been received. Come back later."}
 , Summary = "Wait Time: 3 hours"}
 , 
 [5259] = {Title = "Brick Making Mission", 
-Description = {"1 Brick is made up of 1 Sand Grain and 1 Fine Sand. Feed them to Mimic to create a Brick."}
+Description = {"1 Brick is made up of 1 Grit and 1 Fine Sand. Feed them to Mimic to create a Brick."}
 , Summary = "Supply 10 Bricks."}
 , 
 [5260] = {Title = "[Pending] Brick Making Mission", 
@@ -3650,7 +3658,7 @@ Description = {"No new orders for bricks have been received. Come back later."}
 , Summary = "Wait Time: 3 hours"}
 , 
 [5263] = {Title = "Snack Order", 
-Description = {"You can bring any dish from the list I gave you: Bomber Steak, Herb Marinade Beef, Lutie Lady\'s Pancake, Shiny Marinade Beef, Tentacle Cheese Gratin, Lutie Cold Noodle, Steamed Bat Wing in Pumpkin, Chile Shrimp Gratin, Honey Herbal Tea, Morroc Fruit Wine, Mastela Fruit Wine, Red Mushroom Wine, Fruit Mix, Cream Sandwich, Green Salad, Peach Cake, Clam Soup, Seasoned Jellyfish, Spicy Fried Bao, Awfully Bitter Bracer, Fried Sweet Potato, Steamed Ancient Lips, Fried Scorpion Tails, and Lucky Soup."}
+Description = {"You can bring any dish from the list I gave you: Explosion Steak, Herbal Ribs, Lutie\'s Cookie, Shining Meat, Tentacle Cheese Soup, Lutie\'s Spicy Noodle, Steamed Bat In Pumpkin, Chili Prawn Soup, Herbal Honey Tea, Morocc Fruit Wine, Mastela Wine, Red Mushroom Wine, Shell Soup, Butter Sandwich, Green Salad, Peach Cake, Fried Scorpion, Seafood Salad, Grilled Bun, Sugar Special, Ice Blended Fruits, Mermaid Cuisine, Bitter Herbal Tea, and Great Fortune Soup."}
 , Summary = "Deliver 1 dish."}
 , 
 [5264] = {Title = "[Pending] Snack Order", 
@@ -3721,163 +3729,163 @@ Description = {"You have met Police Officer Seiden for the first time."}
 Description = {"You have met Police Officer Piffs for the first time."}
 , Summary = "Police Officer Piffs"}
 , 
-[5309] = {Title = "Police Chief\'s Request", 
-Description = {"The Chief has asked you to listen to the problems of the members of the Phantasmagorika policing unit."}
+[5309] = {Title = "Police Chief\'s Request", IconName = "ico_dq.bmp", 
+Description = {"The Chief has asked you to listen to the problems of <NAVI>[Salgran]<INFO>verus03,36,113,0,101,0</INFO></NAVI>, <NAVI>[Gerev]<INFO>verus03,116,36,0,101,0</INFO></NAVI>, <NAVI>[Seiden]<INFO>verus03,81,241,0,101,0</INFO></NAVI>, <NAVI>[Piffs]<INFO>verus04,202,258,0,101,0</INFO></NAVI>."}
 , Summary = ""}
 , 
-[5310] = {Title = "Salgran\'s Problem", 
+[5310] = {Title = "Salgran\'s Problem", IconName = "ico_dq.bmp", 
 Description = {"You have asked Police Officer Salgran if he has a problem."}
 , Summary = ""}
 , 
-[5311] = {Title = "Gerev\'s Problem", 
+[5311] = {Title = "Gerev\'s Problem", IconName = "ico_dq.bmp", 
 Description = {"You have asked Police Officer Gerev if he has a problem."}
 , Summary = ""}
 , 
-[5312] = {Title = "Seiden\'s Problem", 
+[5312] = {Title = "Seiden\'s Problem", IconName = "ico_dq.bmp", 
 Description = {"You have asked Police Officer Seiden if he has a problem."}
 , Summary = ""}
 , 
-[5313] = {Title = "Piffs\'s Problem", 
+[5313] = {Title = "Piffs\'s Problem", IconName = "ico_dq.bmp", 
 Description = {"You have asked Police Officer Piffs if he has a problem."}
 , Summary = ""}
 , 
-[5314] = {Title = "Salgran\'s Request", 
-Description = {"The Doom Prayers have been leaving illegal propaganda materials everywhere in Phantasmagorika. Remove 10 Illegal Leaflets before they are permanently glued to the ground."}
+[5314] = {Title = "Salgran\'s Request", IconName = "ico_dq.bmp", 
+Description = {"The Doom Prayers have been leaving illegal propaganda materials everywhere in Phantasmagorika. Remove 10 Illegal Promotions before they are permanently glued to the ground."}
 , Summary = ""}
 , 
-[5315] = {Title = "Gerev\'s Request", 
+[5315] = {Title = "Gerev\'s Request", IconName = "ico_dq.bmp", 
 Description = {"People have been falling victim to the traps the Doom Prayers have left everywhere in Phantasmagorika. Remove 10 traps."}
 , Summary = ""}
 , 
-[5316] = {Title = "Seiden\'s Request", 
+[5316] = {Title = "Seiden\'s Request", IconName = "ico_dq.bmp", 
 Description = {"The Doom Prayers have been throwing stones at the police officers. Remove 10 stones from the ground for the safety of the police officers."}
 , Summary = ""}
 , 
-[5317] = {Title = "Piffs\'s Request", 
-Description = {"The police officers constantly injure themselves while fighting the Doom Prayers. Collect 10 Herbs for the wounded."}
+[5317] = {Title = "Piffs\'s Request", IconName = "ico_dq.bmp", 
+Description = {"The police officers constantly injure themselves while fighting the Doom Prayers. Collect 10 herbs for the wounded."}
 , Summary = ""}
 , 
-[5318] = {Title = "Come Back Tomorrow", 
-Description = {"Return to the Phantasmagorika Police Chief tomorrow for more work."}
-, Summary = "Downtime: 23 hours"}
+[5318] = {Title = "Cooldown: Come Back Tomorrow", IconName = "ico_dq.bmp", 
+Description = {"Return to the Phantasmagorika <NAVI>[Police Chief]<INFO>verus04,133,212,0,101,0</INFO></NAVI> tomorrow for more work."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[5341] = {Title = "Limits of Journeys", 
-Description = {"Start a journey using a Memory Record. This journey is possible for up to 22 hours."}
-, Summary = "Time limit 22 hours"}
+[5341] = {Title = "Limits of Journeys", IconName = "ico_dq.bmp", 
+Description = {"Start a journey using a Memory Record. This journey is possible until 4am."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[5342] = {Title = "Help Her", 
-Description = {"Received request to help ^0000FF Dr. Fresa^000000 who is soiling herself from Bunker Sayhu."}
+[5342] = {Title = "Help Her", IconName = "ico_dq.bmp", 
+Description = {"Receive request to help <NAVI>[Dr. Fresa]<INFO>un_bk_q,93,168,0,101,0</INFO></NAVI> toiling by herself from Bunker Sayhu."}
 , Summary = ""}
 , 
-[5343] = {Title = "Headcount", 
-Description = {"Received request from Dr. Fresa to help with conducting a headcount of the ^0000FF Bioengineers^000000."}
+[5343] = {Title = "Headcount", IconName = "ico_dq.bmp", 
+Description = {"Receive request from Dr. Fresa to help with conducting a current headcount of the <NAVI>[Bioengineers]<INFO>un_bk_q,213,303,0,101,0</INFO></NAVI>."}
 , Summary = "Bioengineer"}
 , 
-[5344] = {Title = "Headcount", 
-Description = {"Received request from Dr. Fresa to help with conducting a headcount of the ^0000FF Mechanicians^000000."}
+[5344] = {Title = "Headcount", IconName = "ico_dq.bmp", 
+Description = {"Receive request from Dr. Fresa to help with conducting a current headcount of the <NAVI>[Mechanicians]<INFO>un_bk_q,82,323,0,101,0</INFO></NAVI>."}
 , Summary = "Mechanician"}
 , 
-[5345] = {Title = "Headcount", 
-Description = {"Received request from Dr. Fresa to help with conducting a headcount of the ^0000FF Facilities managers^000000."}
-, Summary = "Facilities manager"}
+[5345] = {Title = "Headcount", IconName = "ico_dq.bmp", 
+Description = {"Receive request from Dr. Fresa to help with conducting a current headcount of the <NAVI>[Facilities Managers]<INFO>un_bk_q,347,217,0,101,0</INFO></NAVI>."}
+, Summary = "Facilities Managers"}
 , 
-[5346] = {Title = "Headcount", 
-Description = {"Received request from Dr. Fresa to help with conducting a headcount of the ^0000FF Chemical Substance Specialists^000000."}
+[5346] = {Title = "Headcount", IconName = "ico_dq.bmp", 
+Description = {"Receive request from Dr. Fresa to help with conducting a current headcount of the <NAVI>[Chemical Substance Specialists]<INFO>un_bk_q,86,121,0,101,0</INFO></NAVI>."}
 , Summary = "Chemical Substance Specialist"}
 , 
-[5347] = {Title = "Headcount", 
-Description = {"Received current number of Bioengineers from Bioengineer Touring. Report to ^0000FF Dr. Fresa^000000."}
+[5347] = {Title = "Headcount Completed", IconName = "ico_dq.bmp", 
+Description = {"Received the current number of Bioengineers from Bioengineer Touring. Report to <NAVI>[Dr. Fresa]<INFO>un_bk_q,93,168,0,101,0</INFO></NAVI>."}
 , Summary = "Report to Dr. Fresa"}
 , 
-[5348] = {Title = "Headcount Complete", 
-Description = {"Received current number of Mechanicians from Mechanician Al. Report to ^0000FF Dr. Fresa^000000."}
+[5348] = {Title = "Headcount Completed", IconName = "ico_dq.bmp", 
+Description = {"Received the current number of Mechanicians from Mechanician Al. Report to <NAVI>[Dr. Fresa]<INFO>un_bk_q,93,168,0,101,0</INFO></NAVI>."}
 , Summary = "Report to Dr. Fresa"}
 , 
-[5349] = {Title = "Headcount Complete", 
-Description = {"Received current number of Facilities managers from Facilities manager Remodeling. Report to ^0000FF Dr. Fresa^000000."}
+[5349] = {Title = "Headcount Completed", IconName = "ico_dq.bmp", 
+Description = {"Received the current number of Facilities Managers from Facilities Manager Remodeling. Report to <NAVI>[Dr. Fresa]<INFO>un_bk_q,93,168,0,101,0</INFO></NAVI>."}
 , Summary = "Report to Dr. Fresa"}
 , 
-[5350] = {Title = "Headcount Complete", 
-Description = {"Received current number of Chemical Substance Specialists from Chemical Substance Specialist Karsten. Report to ^0000FF Dr. Fresa^000000."}
+[5350] = {Title = "Headcount Completed", IconName = "ico_dq.bmp", 
+Description = {"Received the current number of Chemical Substance Specialists from Chemical Substance Specialist Karsten. Report to <NAVI>[Dr. Fresa]<INFO>un_bk_q,93,168,0,101,0</INFO></NAVI>."}
 , Summary = "Report to Dr. Fresa"}
 , 
-[5351] = {Title = "Limits of Journeys", 
-Description = {"Start a journey using a Memory Record. This journey is possible for up to 22 hours."}
-, Summary = "Time limit 22 hours"}
+[5351] = {Title = "Limits of Journeys", IconName = "ico_dq.bmp", 
+Description = {"Start a journey using a Memory Record. This journey is possible until 4am."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[5352] = {Title = "Air Cleaning Unit", 
-Description = {"Received request to move air cleaning units to five different locations where Facilities managers are waiting. (Location) C-0, F-1, F-2, I-0, Z-0"}
+[5352] = {Title = "Air Purifier Box", IconName = "ico_dq.bmp", 
+Description = {"Received request from <NAVI>[Mugeosi]<INFO>un_bk_q,56,286,0,101,0</INFO></NAVI> to move Air Purifier Boxes to five different locations where Facilities Managers are waiting. (Location) <NAVI>[C-0]<INFO>un_bk_q,212,294,0,101,0</INFO></NAVI>, <NAVI>[F-1]<INFO>un_bk_q,223,217,0,101,0</INFO></NAVI>, <NAVI>[F-2]<INFO>un_bk_q,372,217,0,101,0</INFO></NAVI>, <NAVI>[I-0]<INFO>un_bk_q,389,276,0,101,0</INFO></NAVI>, <NAVI>[Z-0]<INFO>un_bk_q,291,158,0,101,0</INFO></NAVI>"}
 , Summary = ""}
 , 
-[5353] = {Title = "C-0 Delivery Complete", 
-Description = {"Delivered air cleaning unit to facilities manager of Zone C-0."}
+[5353] = {Title = "C-0 Delivery Completed", IconName = "ico_dq.bmp", 
+Description = {"Delivered Air Purifier Box to Facilities Managers in C-0."}
 , Summary = ""}
 , 
-[5354] = {Title = "F-1 Delivery Complete", 
-Description = {"Delivered air cleaning unit to facilities manager of Zone F-1."}
+[5354] = {Title = "F-1 Delivery Completed", IconName = "ico_dq.bmp", 
+Description = {"Delivered Air Purifier Box to Facilities Managers in F-1."}
 , Summary = ""}
 , 
-[5355] = {Title = "F-2 Delivery Complete", 
-Description = {"Delivered air cleaning unit to facilities manager of Zone F-2."}
+[5355] = {Title = "F-2 Delivery Completed", IconName = "ico_dq.bmp", 
+Description = {"Delivered Air Purifier Box to Facilities Managers in F-2."}
 , Summary = ""}
 , 
-[5356] = {Title = "I-0 Delivery Complete", 
-Description = {"Delivered air cleaning unit to facilities manager of Zone I-0."}
+[5356] = {Title = "I-0 Delivery Completed", IconName = "ico_dq.bmp", 
+Description = {"Delivered Air Purifier Box to Facilities Managers in I-0."}
 , Summary = ""}
 , 
-[5357] = {Title = "Z-0 Delivery Complete", 
-Description = {"Delivered air cleaning unit to facilities manager of Zone Z-0."}
+[5357] = {Title = "Z-0 Delivery Completed", IconName = "ico_dq.bmp", 
+Description = {"Delivered Air Purifier Box to Facilities Managers in Z-0."}
 , Summary = ""}
 , 
-[5358] = {Title = "Limits of Journeys", 
-Description = {"Start a journey using a Memory Record. This journey is possible for up to 22 hours."}
-, Summary = "Time limit 22 hours"}
+[5358] = {Title = "Limits of Journeys", IconName = "ico_dq.bmp", 
+Description = {"Start a journey using a Memory Record. This journey is possible until 4am."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[5359] = {Title = "Grape Harvest", 
-Description = {"One Grape Box can apparently hold 30 bunches of grapes. Pick 30 Fresh Bunches of Grapes at the farm."}
-, Summary = "30 Fresh Bunches of Grapes"}
+[5359] = {Title = "Grape Harvest", IconName = "ico_dq.bmp", 
+Description = {"One Grape Box can apparently hold 30 Fresh Grapes. Pick 30 Fresh Grapes at the farm."}
+, Summary = "30 Fresh Grapes"}
 , 
-[5360] = {Title = "Grape Delivery", 
-Description = {"Deliver freshly picked grapes to ^0000ff Mechanician Al^000000."}
+[5360] = {Title = "Grape Delivery", IconName = "ico_dq.bmp", 
+Description = {"Deliver freshly picked grapes to <NAVI>[Mechanician Al]<INFO>un_bk_q,82,323,0,101,0</INFO></NAVI>."}
 , Summary = ""}
 , 
-[5361] = {Title = "Grape Delivery", 
-Description = {"Deliver freshly picked grapes to ^0000ff Facilities manager Remodeling^000000."}
+[5361] = {Title = "Grape Delivery", IconName = "ico_dq.bmp", 
+Description = {"Deliver freshly picked grapes to <NAVI>[Facilities Manager Remodeling]<INFO>un_bk_q,347,217,0,101,0</INFO></NAVI>."}
 , Summary = ""}
 , 
-[5362] = {Title = "Grape Delivery", 
-Description = {"Deliver freshly picked grapes to ^0000ff Chemical Substance Specialist Karsten^000000."}
+[5362] = {Title = "Grape Delivery", IconName = "ico_dq.bmp", 
+Description = {"Deliver freshly picked grapes to <NAVI>[Chemical Substance Specialist Karsten]<INFO>un_bk_q,86,121,0,101,0</INFO></NAVI>."}
 , Summary = ""}
 , 
-[5363] = {Title = "Limits of Journeys", 
-Description = {"Start a journey using a Memory Record. This journey is possible for up to 22 hours."}
-, Summary = "Time limit 22 hours"}
+[5363] = {Title = "Limits of Journeys", IconName = "ico_dq.bmp", 
+Description = {"Start a journey using a Memory Record. This journey is possible until 4am."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[5364] = {Title = "Convulsing Patient Suppression", 
-Description = {"Received request from Nurse to suppress patients in the temporary clinic who show symptoms of convulsion."}
+[5364] = {Title = "Convulsing Patient Suppression", IconName = "ico_dq.bmp", 
+Description = {"Receive request from Nurse to suppress patients in the temporary clinic showing symptoms of convulsion."}
 , Summary = ""}
 , 
-[5365] = {Title = "Urgent News", 
-Description = {"Report to ^0000FF Dr. Fresa ^000000 about the news of the drastic increase in patients showing symptoms of convulsion."}
+[5365] = {Title = "Urgent News", IconName = "ico_dq.bmp", 
+Description = {"Report to <NAVI>[Dr. Fresa]<INFO>un_bk_q,93,168,0,101,0</INFO></NAVI> about the news of a drastic increase in patients showing symptoms of convulsion."}
 , Summary = ""}
 , 
-[5366] = {Title = "Limits of Journeys", 
-Description = {"Start a journey using a Memory Record. This journey is possible for up to 22 hours."}
-, Summary = "Time limit 22 hours"}
+[5366] = {Title = "Limits of Journeys", IconName = "ico_dq.bmp", 
+Description = {"Start a journey using a Memory Record. This journey is possible until 4am."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[5367] = {Title = "Transport Necessities", 
-Description = {"Received request to transport goods to Zone Z-2, and then go to ^0000FF Mechanician Al^000000 to deliver a message saying,"}
-, Summary = "^0000FFYou stupid idiots!! There\'s not enough material, so stop making so many machines!!^000000."}
+[5367] = {Title = "Transport Necessities", IconName = "ico_dq.bmp", 
+Description = {"Received request to transport goods to <NAVI>[Zone Z-2]<INFO>un_bk_q,72,53,0,101,0</INFO></NAVI> then go to  <NAVI>[Mechanician Al]<INFO>un_bk_q,82,323,0,101,0</INFO></NAVI> and deliver a message saying, ^0000FFYou idiots!! Stop wasting material with stupid machines!!^000000"}
+, Summary = ""}
 , 
-[5368] = {Title = "Goods delivery Complete", 
+[5368] = {Title = "Goods delivery Completed", IconName = "ico_dq.bmp", 
 Description = {"Delivered requested goods to Zone Z-2."}
 , Summary = ""}
 , 
-[5369] = {Title = "Message Delivery Complete", 
+[5369] = {Title = "Message Delivery Completed", IconName = "ico_dq.bmp", 
 Description = {"Delivered requested message to Mechanician Al."}
 , Summary = ""}
 , 
-[5370] = {Title = "Memory Record", 
+[5370] = {Title = "Memory Record", IconName = "ico_dq.bmp", 
 Description = {"Successfully completed journey using a Memory Record."}
 , Summary = ""}
 , 
@@ -4102,8 +4110,8 @@ Description = {"You went to Comodo Dance School to become a Dancer. You\'ve fill
 , Summary = "Conversation with Aile"}
 , 
 [7001] = {Title = "Job Change to Dancer!", 
-Description = {"Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Aile."}
-, Summary = "Tuition fee of 10,000 Zeny, 20 Sticky Mucus, 5 Red Potions, 3 Jellopy, 1 pair of Shoes"}
+Description = {"Tuition fee of 5,000 Zeny, 5 Sticky Mucus, 5 Red Potions should be prepared before starting the dance lesson.  Confirm the gathered materials from Aile."}
+, Summary = "Bring materials to Aile."}
 , 
 [7002] = {Title = "Job Change to Dancer!", 
 Description = {"Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Aile."}
@@ -4483,7 +4491,7 @@ Description = {"Your first task is to find a foreigner in Veins. Ask Daora in th
 , 
 [7104] = {Title = "Job Change to Guillotine Cross", 
 Description = {"Melissa says that the girl you are looking for is named Estillda. She said that Estillda will pass by a dead-end alley at the northeast end of Veins in one hour."}
-, Summary = "Wait 15 minutes and find Estillda."}
+, Summary = "Wait 1 Hour and find Estillda."}
 , 
 [7105] = {Title = "Job Change to Guillotine Cross", 
 Description = {"Estillda got away, but she\'s still around here somewhere. Make sure that you\'re alone and try to catch her again in 5 minutes."}
@@ -4494,7 +4502,7 @@ Description = {"You found Estillda. After calming her down, you tell her how to 
 , Summary = ""}
 , 
 [7107] = {Title = "Job Change to Guillotine Cross", 
-Description = {"Estillda said that she\'s supposed to meet the man she works for in 30 minutes at a warehouse near the southern entrance to Veins."}
+Description = {"Estillda said that she\'s supposed to meet the man she works for in 3 hours at a warehouse near the southern entrance to Veins."}
 , Summary = ""}
 , 
 [7108] = {Title = "Job Change to Guillotine Cross", 
@@ -4982,8 +4990,8 @@ Description = {"You can confuse these for giant balls of snow, but they\'re actu
 , Summary = "Hunt 30 Siroma monsters and return to Naomi near the cave entrance."}
 , 
 [7231] = {Title = "Hunting and Gathering", 
-Description = {"Now that you have a feel for it, hunt 30 more Siromas and bring back some materials."}
-, Summary = "Hunt 30 Siroma and bring 30 Ice Cubic, 1 Sweet Sauce and 1 Milk to Naomi."}
+Description = {"Now that you have a feel for it, hunt 30 more Siromas and 30 Ice Cubic, 1 Sweet Sauce and 1 Milk to Naomi."}
+, Summary = "Hunt more Siromas and bring materials."}
 , 
 [7232] = {Title = "Report to Instructor Ur", 
 Description = {"You are done hunting in the Ice Dungeon. Return to Eden Group Headquarters and speak to Instructor Ur."}
@@ -6266,20 +6274,20 @@ Description = {"The dimensional devices are specially manufactured to enter the 
 , Summary = ""}
 , 
 [7568] = {Title = "Explore the tower", 
-Description = {"You\'ve been asked to explore the tower of Thanatos through the dimensional gap."}
-, Summary = ""}
+Description = {"You\'ve been asked to explore the Devil\'s Tower through the dimensional gap."}
+, Summary = "Explore Devil Tower"}
 , 
 [7569] = {Title = "Treat the injured", 
-Description = {"Treat the wounded soldiers with first-aid kits"}
+Description = {"Treated the wounded soldiers with first-aid kits."}
 , Summary = ""}
 , 
 [7570] = {Title = "Destroy the demons", 
-Description = {"Demons are invading from the upper floor. Get rid of the Evil Shadows that are invading; there will be 7 of each kind to destroy."}
-, Summary = ""}
+Description = {"Demons are invading from the upper floor. Get rid of the Demon God Shadows that are invading; there will be 7 of each kind to destroy."}
+, Summary = "Defeat Demon God Shadow"}
 , 
 [7571] = {Title = "Tower Expedition", 
-Description = {"The tower was built by a demon tribe headed by the one named Thanatos during a war between gods and demons. It was activated by Satan Morocc in an attempt to re-enter Rune Midgard"}
-, Summary = ""}
+Description = {"The tower was built by a demon tribe headed by the one named Thanatos during a war between gods and demons. It was activated by Demon Morocc in an attempt to re-enter Rune Midgard."}
+, Summary = "Information 1"}
 , 
 [7572] = {Title = "Lucile...?", 
 Description = {"Lucile, a mysterious girl in the Devil\'s tower asked to help recover her body."}
@@ -6289,21 +6297,21 @@ Description = {"Lucile, a mysterious girl in the Devil\'s tower asked to help re
 Description = {"Magic Swordsman Thanatos has to prevent the Magic Seals of the demon from approaching to successfully seal the demon Morocc."}
 , Summary = "Get rid of the Magic Seals"}
 , 
-[7574] = {Title = "Thanatos Tower", 
-Description = {"It is called Thanatos Tower because it is where the magic swordsman sealed the power of Satan Morocc hundreds of years ago."}
-, Summary = ""}
+[7574] = {Title = "Devil\'s Tower", 
+Description = {"It is called Devil\'s Tower because it is where the magic swordsman sealed the power of Demon God Morocc hundreds of years ago."}
+, Summary = "Information 2"}
 , 
 [7575] = {Title = "Evil followers", 
 Description = {"Destroy the Evil Followers"}
 , Summary = ""}
 , 
 [7576] = {Title = "Morocc castle seal", 
-Description = {"Years from now, someone will try to awaken Satan Morocc in Morocc castle since Thanatos Tower is sealed."}
-, Summary = ""}
+Description = {"Years from now, someone will try to awaken Demon God Morocc in Morocc castle since Devil\'s Tower is sealed."}
+, Summary = "Information 3"}
 , 
 [7577] = {Title = "Space distortion", 
 Description = {"Exploring time and space causes your body to be in flux. You need to take a break or you will lose your mind."}
-, Summary = "Wait for the timer to end before re-entering."}
+, Summary = "Reset at 4am"}
 , 
 [7578] = {Title = "Rampaging Box", 
 Description = {"The Flaming Basin is overrun with animated boxes that have a hostile intent. Subjugate the boxes and identify them."}
@@ -6315,7 +6323,7 @@ Description = {"The rampaging boxes are enchanted Bradium Boxes. Subjugate the b
 , 
 [7580] = {Title = "Collecting Every Day", 
 Description = {"You\'ve decided to collect Bradium Boxes every day to try to thwart Chesher\'s scheme. Come back to <NAVI>[Hasranta]<INFO>moro_vol,136,84,0,101,0</INFO></NAVI> tomorrow."}
-, Summary = "Wait for one day."}
+, Summary = "Reset at 4am"}
 , 
 [7581] = {Title = "Eliminating Risks", 
 Description = {"Morocc Fire Vassal, Morocc Twisted Vassal, and Morocc Cold Vassal are the biggest threat to our subjugation operation. Please take care of them."}
@@ -6323,7 +6331,7 @@ Description = {"Morocc Fire Vassal, Morocc Twisted Vassal, and Morocc Cold Vassa
 , 
 [7582] = {Title = "Daily Cleaning", 
 Description = {"Leave them to other subjugators for now. You deserve a rest. - <NAVI>[Instructor Igrid]<INFO>moro_vol,111,87,0,101,0</INFO></NAVI>"}
-, Summary = "Wait for one day."}
+, Summary = "Reset at 4am"}
 , 
 [7583] = {Title = "Collecting Mana", 
 Description = {"Laphine Magic Scholar Avant has asked you to collect Mana Crystals from those abnormally strong Demons. This quest can be performed with the Alliance quest, Eliminating Risks."}
@@ -6331,7 +6339,7 @@ Description = {"Laphine Magic Scholar Avant has asked you to collect Mana Crysta
 , 
 [7584] = {Title = "Unending Battle", 
 Description = {"The Demons are siphoning off the mana to maintain their strength. You\'ve decided to come back to <NAVI>[Avant]<INFO>moro_vol,98,107,0,101,0</INFO></NAVI> every day, to help him collect Mana Crystals."}
-, Summary = "Wait for one day."}
+, Summary = "Reset at 4am"}
 , 
 [7593] = {Title = "Demon God Subjugation", 
 Description = {"It\'s time to finish the job: eliminate Morroc in the Temple of the Demon God."}
@@ -6354,16 +6362,16 @@ Description = {"You defeated Demon God Morroc, who wanted to create a new world 
 , Summary = "Report to the Commander."}
 , 
 [7598] = {Title = "Caged God", 
-Description = {"Confined in his own world, the Demon God is cursed to suffer for eternity. Come back tomorrow and put <NAVI>[Hiva Agip]<INFO>moro_vol,108,88,0,101,0</INFO></NAVI> out of his misery once more."}
-, Summary = "Come back tomorrow."}
+Description = {"Confined in his own world, the Demon God is cursed to suffer for eternity. Come back tomorrow and put <NAVI>[Hibba Agip]<INFO>moro_vol,108,88,0,101,0</INFO></NAVI> out of his misery once more."}
+, Summary = "Reset at 4am"}
 , 
 [7599] = {Title = "Unending Hunt", 
 Description = {"The hunting continues until every single Demon in the Temple of the Demon God is eliminated. Adjutant <NAVI>[Abidal]<INFO>moro_vol,110,90,0,101,0</INFO></NAVI> asked you to come back when you are fully rested."}
-, Summary = "Come back tomorrow."}
+, Summary = "Reset at 4am"}
 , 
 [7600] = {Title = "Promising Tomorrow", 
 Description = {"The Orb of Eclage and Yggdrasil have lost a substantial amount of mana, and thus the mana collection work continues until most of it is retrieved. Take a rest and come back to Hishieh before you move on to the Temple of the Demon God."}
-, Summary = "Come back tomorrow."}
+, Summary = "Reset at 4am"}
 , 
 [7601] = {Title = "Temple of the Demon God Phase 1", 
 Description = {"Eliminate Frost Spider Brinaranea to move on to the next area."}
@@ -6385,101 +6393,101 @@ Description = {"You defeated Fire Wolf Muspellskoll."}
 Description = {"Your latest contract with the Guardian has not yet expired. No new contracts can be made until then."}
 , Summary = ""}
 , 
-[7606] = {Title = "Phantasmagorika Excavator Recruitment", 
+[7606] = {Title = "Phantasmagorika Excavator Recruitment", IconName = "ico_ep.bmp", 
 Description = {"The Juperos Ruins have been expanded. Come join us for exploration in the newly discovered Phantasmagorika!"}
 , Summary = ""}
 , 
-[7607] = {Title = "Eden Group Leader", 
-Description = {"The Eden Group\'s leader has been revealed. She wants to talk to you regarding Phantasmagorika. Go to the farthest room on the left side of the second floor."}
-, Summary = "Talk to the Eden Group Captain."}
+[7607] = {Title = "Eden Group Leader", IconName = "ico_ep.bmp", 
+Description = {"The Eden Group\'s leader has been revealed. <NAVI>[Commander Arquien]<INFO>moc_para01,133,170,0,101,0</INFO></NAVI> wants to talk to you about the Phantasmagorika. Go to the farthest room on the left side on the second floor."}
+, Summary = "Talk to the Eden Group Leader"}
 , 
-[7608] = {Title = "Artnard Excavation Team 1", 
-Description = {"The Eden Group Captain has asked you to talk to Lime in the employee office regarding joining the excavation project. The employee office is the next room."}
+[7608] = {Title = "Atnad Excavation Team 1", IconName = "ico_ep.bmp", 
+Description = {"The Eden Group Captain has asked you to talk to <NAVI>[Lime Evenor]<INFO>moc_para01,174,165,0,101,0</INFO></NAVI> in the employee office about joining the excavation project. The employee office is in the next room."}
 , Summary = "Talk to Lime in the employee office."}
 , 
-[7609] = {Title = "Artnard Excavation Team 2", 
-Description = {"Use the Juperos dungeon to move to the newly discovered area. Don\'t forget to register with the Central Command Center upon your arrival."}
-, Summary = "Register as an Artnard Excavation Team member."}
+[7609] = {Title = "Atnad Excavation Team 2", IconName = "ico_ep.bmp", 
+Description = {"Use the Juperos dungeon to move to the newly discovered area. Don\'t forget to register via <NAVI>[Receptionist Nara]<INFO>verus04,182,168,0,101,0</INFO></NAVI> upon your arrival."}
+, Summary = "Register as an Atnad Excavation Team member."}
 , 
-[7610] = {Title = "Registered Excavator", 
-Description = {"You are now an official member of the Artnard Excavation Team, and can participate in the Phantasmagorika excavation project."}
+[7610] = {Title = "Registered Excavator", IconName = "ico_ep.bmp", 
+Description = {"You are now an official member of the Atnad Excavation Team, and can participate in the Phantasmagorika excavation project."}
 , Summary = ""}
 , 
-[7611] = {Title = "Passage Cleaning", 
-Description = {"Could you help us take care of monsters in the tunnel and around here?"}
-, Summary = ""}
+[7611] = {Title = "Passage Cleaning", IconName = "ico_dq.bmp", 
+Description = {"Could you help us take care of monsters on the way to the <NAVI>[Excavation Site]<INFO>verus04,203,164,0,101,0</INFO></NAVI> and around here? Report to <NAVI>[Commander Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI> once you are done with it."}
+, Summary = "Defeat monsters in the tunnel"}
 , 
-[7612] = {Title = "Passage Cleaning - Down", 
-Description = {"You should take rest. Our mercenaries can take care of the monsters in the passage."}
-, Summary = "The Daily Quest is cooling down."}
+[7612] = {Title = "Passage Cleaning - Cooldown", IconName = "ico_dq.bmp", 
+Description = {"This quest is a daily quest and it is on cooldown. You can re-receive the quest from <NAVI>[Commander Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[7613] = {Title = "Eliminating Risks", 
-Description = {"Robots in the main excavation site are getting in our way. Please eliminate them."}
-, Summary = ""}
+[7613] = {Title = "Eliminating Risks", IconName = "ico_dq.bmp", 
+Description = {"Robots in the <NAVI>[Verus Central Plaza]<INFO>verus03,122,32,0,101,0</INFO></NAVI> are getting in our way. Please get rid of them."}
+, Summary = "Defeat robots in the Verus Central Plaza"}
 , 
-[7614] = {Title = "Eliminating Risks - Down", 
-Description = {"We were able to clear the excavation site of the robots. Please come back next time."}
-, Summary = "The Daily Quest is cooling down."}
+[7614] = {Title = "Eliminating Risks - Cooldown", IconName = "ico_dq.bmp", 
+Description = {"We\'re able to clear the excavation site of those robots. Please come back next time. - <NAVI>[Commander Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[7615] = {Title = "Core Collection", 
-Description = {"Please collect 20 Power Control Devices from robots. They can be the key to the highly advanced civilization."}
-, Summary = "20 Power Control Devices"}
+[7615] = {Title = "Core Collection", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Ian Atnad]<INFO>verus04,144,193,0,101,0</INFO></NAVI> - Please collect 20 Power Control Devices from robots. They can be the key to the highly advanced civilization."}
+, Summary = "Collect 20 Power Control Devices"}
 , 
-[7616] = {Title = "Core Collection - Down", 
-Description = {"The Artnard Excavation Team is focusing on studying the Power Control Devices. You should take rest while you can."}
-, Summary = "The Daily Quest is cooling down."}
+[7616] = {Title = "Core Collection - Cooldown", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Atnad Excavation Team]<INFO>verus04,144,193,0,101,0</INFO></NAVI> is focusing on studying the Power Control Devices. You should take rest while you can."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[7617] = {Title = "Turning In Excavation Report", 
-Description = {"Take the Artnard Excavation Team\'s daily excavation report to Louis at the Central Command Center. After that, your work for the day is done!"}
+[7617] = {Title = "Turning In Excavation Report", IconName = "ico_dq.bmp", 
+Description = {"Take the Atnad Excavation Team\'s daily excavation report to <NAVI>[Commander Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI> at the Central Command Center. After that, your work for the day is done!"}
 , Summary = "Turn in the report to Louis."}
 , 
-[7618] = {Title = "Reporting the Results - Down", 
-Description = {"Wait for the Artnard Excavation Team\'s next report."}
-, Summary = "The Daily Quest is cooling down."}
+[7618] = {Title = "Reporting the Results - Cooldown", IconName = "ico_dq.bmp", 
+Description = {"Wait for the <NAVI>[Atnad Excavation Team]<INFO>verus04,144,193,0,101,0</INFO></NAVI>\'s next report."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[7619] = {Title = "Assisting the Excavation Team", 
-Description = {"You are now an official member of the excavation team. Go to Aureth."}
+[7619] = {Title = "Assisting the Excavation Team", IconName = "ico_ep.bmp", 
+Description = {"You are now an official member of the excavation team. Go to <NAVI>[Archaeologist Aureth]<INFO>verus04,141,193,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Aureth."}
 , 
-[7620] = {Title = "Young Blood?", 
-Description = {"Aureth has asked you to go to Lloyd and Luke at the plaza in the middle of Verus."}
+[7620] = {Title = "Young Blood?", IconName = "ico_ep.bmp", 
+Description = {"Aureth has asked you to go to <NAVI>[Machinist Lloyd]<INFO>verus03,103,177,0,101,0</INFO></NAVI> and Luke at the plaza in the middle of Verus."}
 , Summary = "Find Lloyd."}
 , 
-[7621] = {Title = "Bottling the Energy", 
-Description = {"Lloyd has asked for your assistance in his energy research. Use ^4d4dffEmpty Bottles^000000 to collect 10 Condensed Energies from debris everywhere in Verus."}
+[7621] = {Title = "Bottling the Energy", IconName = "ico_ep.bmp", 
+Description = {"Lloyd has asked for your assistance in his energy research. Use ^4d4dffEmpty Bottles^000000 to collect 10 <NAVI>[Condensed Energies]<INFO>verus03,127,143,0,101,0</INFO></NAVI> from debris everywhere in Verus."}
 , Summary = "10 Condensed Energies"}
 , 
-[7622] = {Title = "Good News!", 
-Description = {"Report to Aureth with Lloyd\'s research results."}
+[7622] = {Title = "Good News!", IconName = "ico_ep.bmp", 
+Description = {"Report to <NAVI>[Aureth]<INFO>verus04,141,193,0,101,0</INFO></NAVI> with Lloyd\'s research results."}
 , Summary = "Talk to Aureth."}
 , 
-[7623] = {Title = "Artnard\'s Summon", 
-Description = {"Artnard has some chores in store for you. Talk to him."}
-, Summary = "Talk to Artnard."}
+[7623] = {Title = "Atnad\'s Summon", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Ian Atnad]<INFO>verus04,144,193,0,101,0</INFO></NAVI> has some chore in store for you. Talk to him."}
+, Summary = "Talk to Atnad"}
 , 
-[7624] = {Title = "In Search of a Delicacy", 
-Description = {"Find something that is juicy, refreshing, clean-tasting and ready to eat. Seek advice from other team members."}
-, Summary = "Find a delicacy."}
+[7624] = {Title = "In Search of a Delicacy", IconName = "ico_ep.bmp", 
+Description = {"Find something that is ready to eat, juicy, refreshing, and clean-tasting. Seek advice from <NAVI>[Luke]<INFO>verus03,107,177,0,101,0</INFO></NAVI> or <NAVI>[Lloyd]<INFO>verus03,103,177,0,101,0</INFO></NAVI>."}
+, Summary = "Find a Delicacy"}
 , 
-[7625] = {Title = "Count On Me", 
-Description = {"Luke will cook something for you if you can bring 2 Meat, 1 Mora Mandarin, and 1 Banana."}
-, Summary = "2 Meat, 1 Mora Mandarin, and 1 Banana"}
+[7625] = {Title = "Count On Me", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Luke]<INFO>verus03,107,177,0,101,0</INFO></NAVI> will cook something for you if you can bring 2 Meats, 1 Mora Mandarin, and 1 Banana."}
+, Summary = "2 Meats, 1 Mora Mandarin, and 1 Banana"}
 , 
-[7626] = {Title = "Delicacy for Him", 
-Description = {"Take Luke\'s Beef Toast, Mora\'s specialty food, to Artnard."}
-, Summary = "To Ian"}
+[7626] = {Title = "Delicacy for Him", IconName = "ico_ep.bmp", 
+Description = {"Take <NAVI>[Luke]<INFO>verus03,107,177,0,101,0</INFO></NAVI>\'s Beef Toast, Mora\'s specialty food, to <NAVI>[Ian Atnad]<INFO>verus04,144,193,0,101,0</INFO></NAVI>."}
+, Summary = "To Ian Atnad"}
 , 
-[7627] = {Title = "Last Exploration", 
-Description = {"Ask Ian Artnard about his last exploration effort."}
+[7627] = {Title = "Last Exploration", IconName = "ico_ep.bmp", 
+Description = {"Ask <NAVI>[Ian Atnad]<INFO>verus04,144,193,0,101,0</INFO></NAVI> about his last exploration effort."}
 , Summary = ""}
 , 
-[7628] = {Title = "New Power Source", 
-Description = {"You are tasked with collecting Condensed Energies for Lloyd\'s research. You need 10 Empty Bottles."}
+[7628] = {Title = "New Power Source", IconName = "ico_dq.bmp", 
+Description = {"You are charged with collecting Condensed Energies for <NAVI>[Lloyd]<INFO>verus03,103,177,0,101,0</INFO></NAVI>\'s research. You need 10 Empty Bottles."}
 , Summary = "10 Condensed Energies"}
 , 
-[7629] = {Title = "Tomorrow for Tomorrow\'s Energy", 
-Description = {"Return to Lloyd tomorrow to continue helping him with his research."}
-, Summary = "The Daily Quest is cooling down."}
+[7629] = {Title = "Tomorrow for Tomorrow\'s Energy", IconName = "ico_dq.bmp", 
+Description = {"Return to <NAVI>[Lloyd]<INFO>verus03,103,177,0,101,0</INFO></NAVI> tomorrow to continue to help him with his research."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
 [7630] = {Title = "Legenday Blue Unicorn", 
 Description = {"Rumor has it there is a blue pony raging in the forest near Payon! Someone help me find the truth about this animal!"}
@@ -6489,69 +6497,69 @@ Description = {"Rumor has it there is a blue pony raging in the forest near Payo
 Description = {"Please wait at least 23 hours before hunting again. But try not to hunt more than once a day!"}
 , Summary = ""}
 , 
-[7641] = {Title = "Access Permitted", 
-Description = {"Access approved for restricted areas \'Laboratories\' and \'Research Facilities\'. Free access to laboratories and research facilities is possible from now on."}
+[7641] = {Title = "Access Permitted", IconName = "ico_ep.bmp", 
+Description = {"Access approved for restricted areas <NAVI>[Laboratories]<INFO>verus01,241,72,0,101,0</INFO></NAVI> and <NAVI>[Research Facilities]<INFO>verus02,72,29,0,101,0</INFO></NAVI>. Free access to laboratories and research facilities is possible from now on."}
 , Summary = ""}
 , 
-[7642] = {Title = "Explore Research facilities", 
-Description = {"Look around and search for things of worthy of investigation and research value in the Research facilities area. Report even the smallest but significant things to Ian Atnad"}
+[7642] = {Title = "Explore Research Facilities", IconName = "ico_ep.bmp", 
+Description = {"Look around and search for things of special investigation and research value in the <NAVI>[Research Facilities]<INFO>verus02,72,29,0,101,0</INFO></NAVI>. Report even small but significant things to <NAVI>[Ian Atnad]<INFO>verus04,144,193,0,101,0</INFO></NAVI>."}
 , Summary = ""}
 , 
-[7643] = {Title = "Mysterious Piece", 
-Description = {"Found some kind of component in the Research facilities. Report to Ian Atnad."}
+[7643] = {Title = "Mysterious Piece", IconName = "ico_ep.bmp", 
+Description = {"Found some kind of component in the <NAVI>[Research facilities]<INFO>verus02,72,29,0,101,0</INFO></NAVI>. Report to <NAVI>[Ian Atnad]<INFO>verus04,144,193,0,101,0</INFO></NAVI>."}
 , Summary = "Report to Ian"}
 , 
-[7644] = {Title = "Record Player", 
-Description = {"Record player is needed to know the content of Memory Records. Commander Arquien of the Paradise Squad knows the whereabouts of the record player."}
-, Summary = "Talk with Arquien"}
+[7644] = {Title = "Record Player", IconName = "ico_ep.bmp", 
+Description = {"Record player is needed to know the contents of Memory Record. <NAVI>[Commander Arquien]<INFO>moc_para01,133,170,0,101,0</INFO></NAVI> of the Eden Group knows the whereabouts of the record player."}
+, Summary = "Converse with Arquien"}
 , 
-[7645] = {Title = "Piece of Memory Record", 
-Description = {"At least 5 pieces are needed to play an intact Memory Record. Collect the rest of the Memory Records in the Research facilities and take them to Commander Arquien who has come to the Verus excavation site."}
+[7645] = {Title = "Piece of Memory Record", IconName = "ico_ep.bmp", 
+Description = {"At least 5 pieces are needed to play Memory Record intact. Collect the rest of the Memory Records in the Research Facilities and take them to <NAVI>[Commander Arquien]<INFO>verus04,172,149,0,101,0</INFO></NAVI> who came to the Verus excavation site."}
 , Summary = "5 Memory Records"}
 , 
-[7646] = {Title = "Play Memory Record", 
-Description = {"Talk to Commander Arquien after playing Memory Record"}
+[7646] = {Title = "Play Memory Record", IconName = "ico_ep.bmp", 
+Description = {"Converse with <NAVI>[Commander Arquien]<INFO>verus04,172,149,0,101,0</INFO></NAVI> after playing Memory Record"}
 , Summary = "Operate record player"}
 , 
-[7647] = {Title = "Report Memory Record", 
-Description = {"Report to Ian Atnad about what you found out about the Memory Records"}
-, Summary = "Report to Ian"}
+[7647] = {Title = "Report Memory Record", IconName = "ico_ep.bmp", 
+Description = {"Report to <NAVI>[Ian Atnad]<INFO>verus04,144,193,0,101,0</INFO></NAVI> about what you found out about the Memory Records."}
+, Summary = "Report to Ian Atnad"}
 , 
-[7648] = {Title = "Memory Records of the Laboratories", 
-Description = {"Collect 5 \'Memory Records of the laboratories\' in the underground facility of the laboratories and take them to Arquien to know their contents."}
+[7648] = {Title = "Memory Records of the Laboratories", IconName = "ico_ep.bmp", 
+Description = {"Collect 5 \'Memory Records of the laboratories\' in the underground facility of the <NAVI>[laboratories]<INFO>verus01,123,181,0,101,0</INFO></NAVI> and take them to <NAVI>[Arquien]<INFO>verus04,172,149,0,101,0</INFO></NAVI> to find out the content."}
 , Summary = "5 Memory Records of the laboratories"}
 , 
-[7649] = {Title = "Report Memory Record Content", 
-Description = {"Report to Ian Atnad about the content known from the Memory Records of laboratories"}
-, Summary = "Converse with Ian"}
+[7649] = {Title = "Report Memory Record Content", IconName = "ico_ep.bmp", 
+Description = {"Report to <NAVI>[Ian Atnad]<INFO>verus04,144,193,0,101,0</INFO></NAVI> about the content known from the Memory Records of laboratories."}
+, Summary = "Converse with Ian Atnad"}
 , 
-[7650] = {Title = "Collect Memory Records of Research facilities", 
-Description = {"Collect 5 Memory Records in the research facilities and take them to Arquien to decipher the content"}
+[7650] = {Title = "Collect Memory Records of Research Facilities", IconName = "ico_dq.bmp", 
+Description = {"Collect 5 Memory Records in the <NAVI>[Research Facilities]<INFO>verus02,72,29,0,101,0</INFO></NAVI> and take them to <NAVI>[Commander Arquien]<INFO>verus04,172,149,0,101,0</INFO></NAVI> to decipher the content."}
 , Summary = "5 Memory Records"}
 , 
-[7651] = {Title = "One Memory a Day", 
-Description = {"Collect Memory Records only once a day. Go to Arquien at the promised time."}
-, Summary = ""}
+[7651] = {Title = "One Memory a Day", IconName = "ico_dq.bmp", 
+Description = {"Collect Memory Records only once a day. Go to <NAVI>[Commander Arquien]<INFO>verus04,172,149,0,101,0</INFO></NAVI> at the promised time."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[7652] = {Title = "Collect Memory Records of Laboratories", 
-Description = {"Collect 5 Memory Records in the laboratories and take them to Arquien to decipher the content"}
+[7652] = {Title = "Collect Memory Records of Laboratories", IconName = "ico_dq.bmp", 
+Description = {"Collect 5 Memory Records in the <NAVI>[Laboratories]<INFO>verus01,123,181,0,101,0</INFO></NAVI> and take them to <NAVI>[Commander Arquien]<INFO>verus04,172,149,0,101,0</INFO></NAVI> to decipher the content."}
 , Summary = "5 Laboratories Memory Records"}
 , 
-[7653] = {Title = "One Memory a Day 2", 
-Description = {"Collect Memory Records in the laboratories only once a day. Go to Arquien at the promised time."}
-, Summary = ""}
+[7653] = {Title = "One Memory a Day 2", IconName = "ico_dq.bmp", 
+Description = {"Collect Memory Records in the laboratories only once a day. Go to <NAVI>[Commander Arquien]<INFO>verus04,172,149,0,101,0</INFO></NAVI> at the promised time."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[7654] = {Title = "Play Research facilities Memory Records", 
-Description = {"Find out their content by playing them on a record player."}
+[7654] = {Title = "Play Research facilities Memory Records", IconName = "ico_dq.bmp", 
+Description = {"Find out content by playing <NAVI>[record player]<INFO>verus04,174,150,0,101,0</INFO></NAVI>."}
 , Summary = "Play record player"}
 , 
-[7655] = {Title = "Play Laboratories Memory Records", 
-Description = {"Find out their content by playing them on a record player."}
+[7655] = {Title = "Play Laboratories Memory Records", IconName = "ico_dq.bmp", 
+Description = {"Find out content by playing <NAVI>[record player]<INFO>verus04,174,150,0,101,0</INFO></NAVI>."}
 , Summary = "Play record player"}
 , 
-[7656] = {Title = "Invitation of Rekenber", 
-Description = {"Rekenber has invited you to the corporate headquarters. Visit Rekenber Corporation Headquarters located in Lighthalzen."}
-, Summary = "Talk to Tatio"}
+[7656] = {Title = "Invitation of Rekenber", IconName = "ico_ep.bmp", 
+Description = {"Rekenber has invited you to the corporate headquarters. Visit Rekenber Corporation Headquarters located in Lighthalzen. Ask <NAVI>[guard]<INFO>lhz_in01,277,234,0,101,0</INFO></NAVI> for the direction."}
+, Summary = "Converse with Tatio"}
 , 
 [7671] = {Title = "Find my Lost lamb.", 
 Description = {"Use the ^4d4dffRope^000000 on to ^4d4dffLost Lambs^000000 wandering Rune Midgard."}
@@ -7718,7 +7726,7 @@ Description = {"5 of each: Elder Pixie\'s Moustache, Wing of Red Bat, Orcish Vou
 , Summary = "The first test from Sir Andrew!"}
 , 
 [9002] = {Title = "The Loyalty of a Knight", 
-Description = {"5 of each: Bug Leg, Heart of Mermaid, Maneater Blossom, Clam Flesh, Old Frying Pan and Snail\'s Shell"}
+Description = {"5 of each: Heart of Mermaid, Maneater Blossom, Old Frying Pan and Snail\'s Shell"}
 , Summary = "The first test from Sir Andrew!"}
 , 
 [9003] = {Title = "The Honor of a Knight", 
@@ -7762,12 +7770,12 @@ Description = {"\'Sir Gray\' tells you to change your job by seeing the captain,
 , Summary = "Speak to Captain Herman"}
 , 
 [9013] = {Title = "Job Change to Wizard", 
-Description = {"The Wizard Guildman, Catherine\'s first test is to gather Gemstones."}
-, Summary = "Collect 3 of each Red, Blue, and Yellow Gemstones."}
+Description = {"The Wizard Guildman, Catherine\'s first test is to gather Gemstones.", "Collect 10 of each Red, Blue, and Yellow Gemstones."}
+, Summary = "Collect 10 of each Red, Blue, and Yellow Gemstones."}
 , 
 [9014] = {Title = "Job Change to Wizard", 
-Description = {"The Wizard Guildman, Catherine\'s first test is to gather some property stones."}
-, Summary = "Collect 5 of each \'Crystal Blue, Green Live, Red Blood, Wind of Verdure\'."}
+Description = {"Collect 5 of each Heart of Mermaid, Animal Skin, Shell, Resin to complete Catherine\'s first test."}
+, Summary = "Bring materials to Catherine"}
 , 
 [9015] = {Title = "Job Change to Wizard", 
 Description = {"You\'ve passed \'Catherine\'s\' first test.  She says you should go see the Gloomy Wizard."}
@@ -7787,15 +7795,15 @@ Description = {"You have passed all the tests given by \'Raulel.\' Talk to Cathe
 , 
 [9024] = {Title = "An errand boy from Einbroch", 
 Description = {"Help ^0000FFan errand boy^000000 who has come to find ^8B4513Prontera^000000."}
-, Summary = "Collect ^006400100 Jellopies^000000 and go back to ^0000FFthe errand boy^000000???? ???u???."}
+, Summary = "Collect 100 Jellopies and go back to the errand boy???? ???u???."}
 , 
 [9028] = {Title = "Sticky Rats", 
 Description = {"Sticky Rats have appeared in ^8B4513Brasilis^000000. Use the ^006400Stick Trap^000000 from Lucia to capture a ^FF0000SSticky Rat^000000."}
-, Summary = "Capture a^FF0000Sticky Rat^000000"}
+, Summary = "Capture aSticky Rat"}
 , 
 [9029] = {Title = "Sticky Rat : Present conditions", 
 Description = {"In ^8B4513Brasilis^000000, there is a message from <NAVI>[Lucia]<INFO>brasilis,192,133,0,101,0</INFO></NAVI>: ^404040Thanks for your help. Unfortunately, I can\'t supply a new ^006400Sticky Trap^404040 to you until tomorrow.^000000"}
-, Summary = "If you want another ^FF0000Sticky Trap^000000 return to^0000FFLucia^000000 after midnight tonight."}
+, Summary = "If you want another Sticky Trap return toLucia after midnight tonight."}
 , 
 [9030] = {Title = "Lost Puppies", 
 Description = {"Angelo says that 3 puppies were lost in the jungle recently. Find the 3 puppies in Brasilis Field."}
@@ -7823,19 +7831,19 @@ Description = {"You must participate in the Oath-taking ceremony to help release
 , 
 [9118] = {Title = "Lina\'s Curse - Deviruchi Hunt", 
 Description = {"Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Dullahan^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina."}
-, Summary = "^0000FFChoose 1 monster to hunt 50 of^000000."}
+, Summary = "Choose 1 monster to hunt 50 of."}
 , 
 [9119] = {Title = "Lina\'s Curse - Wraith Dead Hunt", 
 Description = {"Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Dullahan^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina."}
-, Summary = "^0000FFChoose 1 monster to hunt 50 of^000000."}
+, Summary = "Choose 1 monster to hunt 50 of."}
 , 
 [9120] = {Title = "Lina\'s Curse - Dullahan Hunt", 
 Description = {"Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Dullahan^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina."}
-, Summary = "^0000FFChoose 1 monster to hunt 50 of^000000."}
+, Summary = "Choose 1 monster to hunt 50 of."}
 , 
 [9121] = {Title = "Lina\'s Curse - Nightmare Terror Hunt", 
 Description = {"Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Dullahan^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina."}
-, Summary = "^0000FFChoose 1 monster to hunt 50 of^000000."}
+, Summary = "Choose 1 monster to hunt 50 of."}
 , 
 [9122] = {Title = "Lina\'s Curse", 
 Description = {"Make sure to enable BGM in the game-options [Alt+O] to complete the next part of releasing Lina\'s curse."}
@@ -7847,7 +7855,7 @@ Description = {"It seems that ^0000FFLina^000000\'s curse has been released. Go 
 , 
 [9125] = {Title = "Louyang Festival - Hunting", 
 Description = {"Kill ^0000FF5 ^000000 ^FF0000Horongs^000000 and ^0000FF10 ^FF0000 Jing Guai^000000 on the 1st floor of the Royal Tomb. Then go back to  ^0000FFthe Royal Tomb guard^000000 in ^8B4513Louyang^000000."}
-, Summary = "Monsters on ^8B4513the 1st floor of the Royal Tomb^000000"}
+, Summary = "Monsters on the 1st floor of the Royal Tomb"}
 , 
 [9126] = {Title = "Louyang Festival - Rest", 
 Description = {"If you want to go for another adventure on ^8B4513the 1st floor of the Royal Tomb^000000, please go and find ^0000FFa Royal Tomb guard ^000000 after ^0000ff2 hours^000000 have passed."}
@@ -7855,7 +7863,7 @@ Description = {"If you want to go for another adventure on ^8B4513the 1st floor 
 , 
 [9127] = {Title = "Louyang Festival - Hunting", 
 Description = {"Kill ^0000FF5 ^FF0000Dancing Dragons^000000 and ^0000FF10 ^FF0000Yao Jun^000000 inside the Royal Tomb. Then go back to ^0000FFthe Royal Tomb guard^000000 in ^8B4513Louyang^000000."}
-, Summary = "Monsters ^8B4513inside the Royal Tomb^000000"}
+, Summary = "Monsters inside the Royal Tomb"}
 , 
 [9128] = {Title = "Louyang Festival - Rest", 
 Description = {"If you want to go for another adventure ^8B4513inside the Royal Tomb^000000, please go and find ^0000FFthe Royal Tomb guard^000000 after ^0000ff2 hours^000000 have passed."}
@@ -7863,7 +7871,7 @@ Description = {"If you want to go for another adventure ^8B4513inside the Royal 
 , 
 [9129] = {Title = "Louyang Festival - Hunting", 
 Description = {"Kill ^0000FF5 ^FF0000Green Maiden^000000 and  ^0000FF10 ^FF0000Mao Guai^000000 in ^8B4513Suei Long Gon^000000. Then go back to ^0000FFthe Royal Tomb guard^000000 in ^8B4513Louyang^000000."}
-, Summary = "Monsters of ^8B4513Suei Long Gon^000000"}
+, Summary = "Monsters of Suei Long Gon"}
 , 
 [9130] = {Title = "Louyang Festival - Rest", 
 Description = {"If you want to go for another adventure in ^8B4513Suei Long Gon^000000, please go and find ^0000FFa Royal Tomb guard^000000 after ^0000ff2 hours^000000 have passed."}
@@ -7879,47 +7887,47 @@ Description = {"Hunt Cendrawasih and bring back ^40404015 Shining Feather of Cen
 , 
 [9156] = {Title = "Make the Jaty Crown", 
 Description = {"^404040It seems that making the Jaty Crown is going well.^000000"}
-, Summary = "Continue talking to ^0000FFTribal Chief Paiko^000000"}
+, Summary = "Continue talking to Tribal Chief Paiko"}
 , 
 [9157] = {Title = "Reward from Sage, Kasyapa", 
 Description = {"Message from ^0000FFTribal Chief Paiko^000000: ^404040Sage, Kasyapa is looking for you.^000000"}
-, Summary = "Get a reward from ^0000FFSage, Kasyapa^000000"}
+, Summary = "Get a reward from Sage, Kasyapa"}
 , 
 [9158] = {Title = "Delivery of Good News (1)", 
 Description = {"Message from ^0000FFTribal Chief Paiko^000000: \"^404040Deliver the Satay to our tribal warrior.^000000\""}
-, Summary = "Deliver the ^FF0000Satay^000000 to ^0000FFJaty tribal warrior.^000000"}
+, Summary = "Deliver the Satay to Jaty tribal warrior."}
 , 
 [9159] = {Title = "Back to Paiko", 
 Description = {"Message from ^0000FFJaty Tribal Warrior^000000: \"^404040I hope that your perseverance and pride remain with you on your travels.^000000\""}
-, Summary = "Go back to ^0000FFTribal Chief Paiko^000000"}
+, Summary = "Go back to Tribal Chief Paiko"}
 , 
 [9160] = {Title = "Delivery of Good News (2)", 
 Description = {"Message from ^0000FFTribal Chief Paiko^000000: \"^404040Deliver the Satay to the Tribe Manager located outside of village.^000000\""}
-, Summary = "Deliver the ^FF0000Satay^000000 to the ^0000FFTribe Manager^000000"}
+, Summary = "Deliver the Satay to the Tribe Manager"}
 , 
 [9161] = {Title = "Back to Paiko", 
 Description = {"Message from ^0000FFTribe Manager^000000: \"^404040Don\'t forget about the value of tradition.^000000\""}
-, Summary = "Go back to ^0000FFTribal Chief Paiko^000000"}
+, Summary = "Go back to Tribal Chief Paiko"}
 , 
 [9162] = {Title = "Delivery of Good News (3)", 
 Description = {"Message from ^0000FFTribal Chief Paiko^000000: \"^404040Deliver the Satay to the Gatekeeper of Krakatau Volcano.^000000\""}
-, Summary = "Deliver the ^FF0000Satay^000000 to the ^0000FFGatekeeper of Krakatau Volcano.^000000"}
+, Summary = "Deliver the Satay to the Gatekeeper of Krakatau Volcano."}
 , 
 [9163] = {Title = "Back to Paiko", 
 Description = {"Message from the ^0000FFGatekeeper of Krakatau Volcano^000000: \"^404040Test your courage by climbing up the Krakatau Volcano.^000000\""}
-, Summary = "Go back to ^0000FFTribal Chief Paiko^000000"}
+, Summary = "Go back to Tribal Chief Paiko"}
 , 
 [9164] = {Title = "Delivery of Good News (4)", 
 Description = {"Message from ^0000FFTribal Chief Paiko^000000: \"^404040Deliver the Satay to the Borobudur Temple Manager.^000000\""}
-, Summary = "Deliver the ^FF0000Satay^000000 to the ^0000FFBorobudur Temple Manager^000000"}
+, Summary = "Deliver the Satay to the Borobudur Temple Manager"}
 , 
 [9165] = {Title = "Reward from Paiko for the success of the Jaty Crown", 
 Description = {"Message from the^0000FFBorobudur Temple Manager^000000: \"^404040Dewata Island and the Jaty Tribe are shrouded in mystery.^000000\""}
-, Summary = "Go back to ^0000FFTribal Chief Paiko^000000 and receive the reward."}
+, Summary = "Go back to Tribal Chief Paiko and receive the reward."}
 , 
 [9166] = {Title = "Status reset : Current status", 
 Description = {"You can reset status by using [Premium Reset Stone]."}
-, Summary = "After ^FF000020 hours^000000."}
+, Summary = "After 20 hours."}
 , 
 [9167] = {Title = "Tutorial - Mercenary for Hire", 
 Description = {"Find the Mercenary Guild Official, hire a mercenary and speak to the Tutorial Instructor while the mercenary is still on hire."}
@@ -8122,15 +8130,15 @@ Description = {"In the^8B4513 Mages?Guild in the 11 o\'clock direction of Geffen
 , Summary = ""}
 , 
 [9267] = {Title = "The way to be a strong Mage - 1", 
-Description = {"Go out from the eastern exit of ^8B4513 Geffen^000000, and hunt 30 ^0000FFChonchons^000000, 30 ^0000F Pabres^000000. Go to the exit from the field in the 5 o\'clock direction, and meet the^0000FMagician Master Assistant^000000."}
+Description = {"Go out from the eastern exit of ^8B4513 Geffen^000000, and hunt 30 ^0000FFChonchons^000000, 30 ^0000FF Fabres^000000. Go to the exit from the field in the 5 o\'clock direction, and meet the ^0000FFMagician Master Assistant^000000."}
 , Summary = ""}
 , 
 [9268] = {Title = "The way to be a strong Mage - 2", 
-Description = {"Hunt 30 ^0000FFRoda frogs^000000, 30 ^0000FSavage Bebes^000000. Go to the exit from the field in the 5 o\'clock direction, and meet the^0000FMage Master Assistant^000000."}
+Description = {"Hunt 30 ^0000FFRoda frogs^000000, 30 ^0000FFSavage Babes^000000. Go to the exit from the field in the 5 o\'clock direction, and meet the ^0000FFMage Master Assistant^000000."}
 , Summary = ""}
 , 
 [9269] = {Title = "The way to be a strong Mage - 3", 
-Description = {"Go to the exit from the field in the 5 o\'clock direction, and meet the ^0000FMagician Master Assistant^000000."}
+Description = {"Go to the exit from the field in the 5 o\'clock direction, and meet the ^0000FFMagician Master Assistant^000000."}
 , Summary = ""}
 , 
 [9270] = {Title = "The way to be a strong Mage - 4", 
@@ -8138,20 +8146,20 @@ Description = {"Hunt 30 ^0000FF thief worms^000000, 30^0000FF thief real^000000 
 , Summary = ""}
 , 
 [9284] = {Title = "Stopping Geffen Gangsters", 
-Description = {"Stop the ^0000FFGeffen Gangsters^000000 from bullying ^8B4513Kafra^000000"}
+Description = {"Stop the ^0000FFGeffen Gangsters^000000 from harassing a ^8B4513Kafra Staff^000000"}
 , Summary = ""}
 , 
 [9285] = {Title = "Beating Geffen Gangsters", 
-Description = {"You\'ve defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon."}
-, Summary = "Register for the ^8B4513Magic Competition^000000"}
+Description = {"You\'ve defeated the ^8B4513Geffen Gangsters^000000, but there might be another encounter soon."}
+, Summary = "Register for the Magic Tournament"}
 , 
-[9286] = {Title = "Stop Geffen Gangsters", 
-Description = {"Stop^0000FF Geffen Gangsters ^000000who are bullying^8B4513a student^000000"}
-, Summary = "Let??s save ^8B4513 the student^000000"}
+[9286] = {Title = "Stop Geffen Bullies", 
+Description = {"Stop^0000FF Geffen Bullies ^000000who are bullying ^8B4513a student^000000"}
+, Summary = "Let\'s save a student"}
 , 
-[9287] = {Title = "Defeating Geffen Gangsters", 
-Description = {"You\'ve defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon."}
-, Summary = "Register for the ^8B4513Magic Competition^000000"}
+[9287] = {Title = "Defeating Geffen Bullies", 
+Description = {"You\'ve defeated the ^8B4513Geffen Bullies^000000 but there might be another encounter soon."}
+, Summary = "Register for the Magic Tournament"}
 , 
 [9288] = {Title = "Catch a Geffen Thief", 
 Description = {"Catch the ^0000FFGeffen Shoplifter^000000 who stole some money from a ^8B4513Geffen Resident^000000."}
@@ -8159,27 +8167,27 @@ Description = {"Catch the ^0000FFGeffen Shoplifter^000000 who stole some money f
 , 
 [9289] = {Title = "Get things back from the thief.", 
 Description = {"Some money belonging to a resident was returned from the ^8B4513Geffen Shoplifter.^000000 I think we will meet again."}
-, Summary = "Register for the ^8B4513Magic Competition^000000"}
+, Summary = "Register for the Magic Competition"}
 , 
 [9290] = {Title = "Participate in a Magic Competition.", 
-Description = {"Let??s participate in a ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."}
+Description = {"Let\'s participate in a ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."}
 , Summary = ""}
 , 
 [9291] = {Title = " Participate in a Magic Competition", 
-Description = {"Let??s participate in a ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."}
+Description = {"Let\'s participate in a ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."}
 , Summary = ""}
 , 
 [9292] = {Title = " Participate in a Magic Competition", 
-Description = {"Let??s participate in a ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."}
+Description = {"Let\'s participate in a ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain."}
 , Summary = ""}
 , 
 [9293] = {Title = " Register for the Magic Competition", 
 Description = {"Destroy 1 ^0000FFDesert Wolf^000000 to participate in the^8B4513Magic Competition^000000."}
-, Summary = "Hunt ^8B4513Desert Wolf^000000"}
+, Summary = "Hunt Desert Wolf"}
 , 
 [9294] = {Title = "Registration Complete", 
 Description = {"Enter the^0000FFportal^000000 under the fountain in the southern part of ^8B4513Geffen^000000 to participate in the Magic Competition."}
-, Summary = "Enter ^8B4513Portal^000000"}
+, Summary = "Enter Portal"}
 , 
 [9295] = {Title = " The 1st match of the competition has started..", 
 Description = {"Defeat your opponent in battle."}
@@ -8231,7 +8239,7 @@ Description = {"Defeat your opponent in battle."}
 , 
 [9307] = {Title = " The final match of the competition has started.", 
 Description = {"You must defeat the ^8B4513final match competitor.^000000"}
-, Summary = "Defeat ^8B45131Fenrir ^000000"}
+, Summary = "Defeat 1Fenrir "}
 , 
 [9308] = {Title = " Magic Competition Win.", 
 Description = {"You won the ^8B4513Magic Competition.^000000 Return to the scholar researching the dimensional gap near the entrance to the tournament."}
@@ -8239,50 +8247,50 @@ Description = {"You won the ^8B4513Magic Competition.^000000 Return to the schol
 , 
 [9309] = {Title = " Magic competition Loss", 
 Description = {"You lost the ^8B4513Magic Competition.^000000 Return to the scholar doing research on what you found."}
-, Summary = "Exploration of ^8B4513old Geffen in the dimensional gap^000000 is complete."}
+, Summary = "Exploration of old Geffen in the dimensional gap is complete."}
 , 
 [9310] = {Title = "Encounter with Iris", 
-Description = {"Speak with^8B4513Iris ^000000. Receive a small gift."}
-, Summary = "Speak with^8B4513Iris^000000 "}
+Description = {"Speak with ^8B4513Iris ^000000 to receive a small gift."}
+, Summary = "Speak with Iris "}
 , 
 [9311] = {Title = "Encounter with Chaos", 
 Description = {"Speak with^8B4513 Chaos ^000000 to receive a small gift."}
-, Summary = "Speak with ^8B4513Chaos^000000"}
+, Summary = "Speak with Chaos"}
 , 
 [9312] = {Title = "Encounter with Lydia", 
-Description = {"Speak with^8B4513Lydia^000000 to receive a small gift."}
-, Summary = "Speak with^8B4513Lydia^000000"}
+Description = {"Speak with ^8B4513Lydia^000000 to receive a small gift."}
+, Summary = "Speak with Lydia"}
 , 
 [9313] = {Title = "Encounter with Fenrir", 
 Description = {"Speak with^8B4513 Fenrir^000000. I want to meet, if there is another chance. "}
-, Summary = "Speak with^8B4513 Fenrir^000000"}
+, Summary = "Speak with Fenrir"}
 , 
 [9314] = {Title = " Encounter with Loki", 
 Description = {"Speak with ^8B4513Loki^000000 to receive a small gift."}
-, Summary = "Speak with ^8B4513Loki^000000"}
+, Summary = "Speak with Loki"}
 , 
 [9315] = {Title = "Exploring the Dimensional Gap", 
-Description = {"The message from ^8B4513a scholar who is researching^000000: Please check out the Magic Competition."}
-, Summary = "Exploring ^8B4513Geffen in the dimensional gap.^000000 "}
+Description = {"The message from ^8B4513a scholar who is researching^000000: Please check out the Magic Tournament."}
+, Summary = "Exploring Geffen in the gap."}
 , 
 [9316] = {Title = "Re-exploring the dimensional gap.", 
-Description = {"The message of ^8B4513a scholar who is researching the dimensional gap ^000000: Please check out the magic competition in ^0000FFold Geffen in the gap.^000000"}
-, Summary = "Exploring ^8B4513Geffen in the gap. ^000000 "}
+Description = {"The message of ^8B4513a scholar who is researching the dimensional gap ^000000: Please check out the magic Tournament in ^0000FFold Geffen in the gap.^000000"}
+, Summary = "Reset at 4am"}
 , 
 [9318] = {Title = "Pursuing Morroc in Hiding", 
 Description = {"The ^8B4513Senior Tracker^000000\'s message: Please enter the ^0000FFRed Flower^000000 and defeat Morroc."}
-, Summary = "Defeat ^8B4513Morroc and his lackeys in hiding^000000."}
+, Summary = "Defeat Morroc and his lackeys in hiding."}
 , 
 [9319] = {Title = "Pursuing Morroc in Hiding Continues", 
-Description = {"The <NAVI>[???? ???????]<INFO>moro_cav,61,69,0,101,0</INFO></NAVI>\'s message: Please come back tomorrow and help me pursue Morroc."}
-, Summary = "Come back in ^8B451323 hours^000000."}
+Description = {"The <NAVI>[Senior Tracker]<INFO>moro_cav,61,69,0,101,0</INFO></NAVI>\'s message: Please come back tomorrow and help me pursue Morroc."}
+, Summary = "Reset at 4am"}
 , 
 [9335] = {Title = "Search for Shards of Gigantes", 
 Description = {"Message from ^8B4513Professor Bernhard ^000000: I ask that you enter the ^0000FF fissure of time^000000 and bring back shards of Gigantes."}
 , Summary = "Shard from Ancient Gigantes Obtained. "}
 , 
 [9336] = {Title = "Go back to Professor Bernhard", 
-Description = {"Message from ^8B4513 Professor Bernhard^000000: I don??t have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door."}
+Description = {"Message from ^8B4513 Professor Bernhard^000000: I don\'t have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door."}
 , Summary = "Reunited after 7 days."}
 , 
 [9337] = {Title = "Wrapping up the Adventure", 
@@ -8991,19 +8999,19 @@ Description = {"The medicines you\'re looking for might be around here, so look 
 , 
 [11051] = {Title = "Herbal Medicine - Being a Doctor\'s Assistant", 
 Description = {"When you go upstairs, another officer will give you the document you want."}
-, Summary = "Go upstairs and get the \'^ff0000Residence Transfer Application^000000\'."}
+, Summary = "Go upstairs and get the \'Residence Transfer Application\'."}
 , 
 [11052] = {Title = "Herbal Medicine - Being a Doctor\'s Assistant", 
 Description = {"When you go upstairs, another officer will give you the document you want."}
-, Summary = "Go upstairs and get the \'^ff0000Summer SAT Class Application^000000\'."}
+, Summary = "Go upstairs and get the \'Summer SAT Class Application\'."}
 , 
 [11053] = {Title = "Herbal Medicine - Being a Doctor\'s Assistant", 
 Description = {"When you go upstairs, another officer will give you the document you want."}
-, Summary = "Go upstairs and get the \'^ff0000Sandy Dust Phenomenon Report^000000\'."}
+, Summary = "Go upstairs and get the \'Sandy Dust Phenomenon Report\'."}
 , 
 [11054] = {Title = "Herbal Medicine - Being a Doctor\'s Assistant", 
 Description = {"When you go upstairs, another officer will give you the document you want."}
-, Summary = "Go upstairs and get the \'^ff0000Communication Proposal^000000\'."}
+, Summary = "Go upstairs and get the \'Communication Proposal\'."}
 , 
 [11055] = {Title = "Herbal Medicine - Being a Doctor\'s Assistant", 
 Description = {"Someone asked me for the same document a few days ago, so I was able to find it again pretty easily. I hope it\'s useful to you."}
@@ -10021,108 +10029,108 @@ Description = {"The patients have gotten better. Talk to Instructor Rugen."}
 Description = {"The Delicious Stems have proven to be effective. Return to Barget Tiblack."}
 , Summary = "Talk to Barget Tiblack."}
 , 
-[11363] = {Title = "To Phantasmagorika!", 
-Description = {"Go to Rekenber Corporation Headquarters in Lighthalzen. Talk to Leitner at the desk on the west side from the main entrance."}
+[11363] = {Title = "To Phantasmagorika!", IconName = "ico_ep.bmp", 
+Description = {"Go to <NAVI>[Rekenber Corporation Headquarters]<INFO>lighthalzen,101,247,0,101,0</INFO></NAVI> in Lighthalzen. Talk to Leitner at the desk on the west side from the main entrance."}
 , Summary = "Talk to Leitner."}
 , 
-[11364] = {Title = "To Phantasmagorika!", 
-Description = {"You have registered for use of the elevator."}
+[11364] = {Title = "To Phantasmagorika!", IconName = "ico_ep.bmp", 
+Description = {"You have registered for the use of the elevator. Talk to <NAVI>[Elisha]<INFO>yuno_fild07,216,157,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Elisha."}
 , 
-[11365] = {Title = "To Phantasmagorika!", 
-Description = {"Meet Guide Scarlet by the fountain in the middle of Phantasmagorika."}
+[11365] = {Title = "To Phantasmagorika!", IconName = "ico_ep.bmp", 
+Description = {"Meet Guide <NAVI>[Scarlet]<INFO>verus04,119,220,0,101,0</INFO></NAVI> by the fountain in the middle of Phantasmagorika."}
 , Summary = "Talk to Scarlet."}
 , 
-[11366] = {Title = "To Phantasmagorika!", 
-Description = {"Collect 30 Old Steel Plates from Dimiks in Juperos."}
-, Summary = "30 Old Steel Plates"}
+[11366] = {Title = "To Phantasmagorika!", IconName = "ico_ep.bmp", 
+Description = {"Collect 30 Used Iron Plates from Dimiks in Juperos and report to <NAVI>[Scarlet]<INFO>verus04,119,220,0,101,0</INFO></NAVI>."}
+, Summary = "30 Used Iron Plates"}
 , 
-[11367] = {Title = "Looking for the Traces", 
-Description = {"The first thing you see in Phantasmagorika is a gigantic fountain in the center. Investigate the fountain with the Deus. "}
+[11367] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"The first thing you saw in Phantasmagorika is a gigantic fountain in the center. Investigate the <NAVI>[fountain]<INFO>verus04,115,226,0,101,0</INFO></NAVI> with Deu."}
 , Summary = "Investigate the fountain."}
 , 
-[11368] = {Title = "Looking for the Traces", 
-Description = {"You have found nothing in the fountain. Check the sundries on the left side."}
+[11368] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"You have found nothing in the fountain. Check the <NAVI>[sundries]<INFO>verus04,96,237,0,101,0</INFO></NAVI> on the left side."}
 , Summary = "Investigate the sundries."}
 , 
-[11369] = {Title = "Looking for the Traces", 
-Description = {"Is this environment good for plants? Check the tree on the upper left side."}
+[11369] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"Is this environment good for plants? Check the <NAVI>[tree]<INFO>verus04,79,249,0,101,0</INFO></NAVI> on the upper left side."}
 , Summary = "Investigate the tree."}
 , 
-[11370] = {Title = "Looking for the Traces", 
-Description = {"A peculiar-looking sign is hung on the door. Examine it."}
+[11370] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"A peculiar looking <NAVI>[sign]<INFO>verus04,63,255,0,101,0</INFO></NAVI> is hung on the door. Examine it."}
 , Summary = "Examine the sign."}
 , 
-[11371] = {Title = "Looking for the Traces", 
-Description = {"There\'s a new path behind the building. Go around the building and enter the portal."}
+[11371] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"There\'s a new path behind the building. Go around the building and enter the portal to find <NAVI>[Deu]<INFO>verus03,46,23,0,101,0</INFO></NAVI>."}
 , Summary = "Move on to another area."}
 , 
-[11372] = {Title = "Looking for the Traces", 
-Description = {"Investigate the fountain on the upper side."}
+[11372] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"Investigate the <NAVI>[fountain]<INFO>verus03,44,63,0,101,0</INFO></NAVI> on the upper side."}
 , Summary = "Investigate the fountain."}
 , 
-[11373] = {Title = "Looking for the Traces", 
-Description = {"Follow Mark to the north."}
-, Summary = "Talk to Mark."}
+[11373] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"Follow <NAVI>[Mark]<INFO>verus03,88,237,0,101,0</INFO></NAVI> to the north."}
+, Summary = "Talk to Mark"}
 , 
-[11374] = {Title = "Looking for the Traces", 
-Description = {"The path is blocked. Talk to Tamarin who\'s standing farther in."}
+[11374] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"The path is blocked. Talk to <NAVI>[Tamarin]<INFO>verus03,51,256,0,101,0</INFO></NAVI> standing farther in."}
 , Summary = "Talk to Tamarin."}
 , 
-[11375] = {Title = "Looking for the Traces", 
-Description = {"Talk to Magi down below."}
+[11375] = {Title = "Looking for the Traces", IconName = "ico_ep.bmp", 
+Description = {"Talk to <NAVI>[Magi]<INFO>verus03,35,254,0,101,0</INFO></NAVI> who is nearby."}
 , Summary = "Talk to Magi."}
 , 
-[11376] = {Title = "Let the Specialists Handle It", 
-Description = {"Suddenly, the elevator stops moving, but it doesn\'t seem to be broken. Go down and check."}
+[11376] = {Title = "Let the Specialists Handle It", IconName = "ico_ep.bmp", 
+Description = {"Suddenly the elevator stopped moving, but it does not seem to be broken. Go <NAVI>[down]<INFO>verus04,115,221,0,101,0</INFO></NAVI> and check."}
 , Summary = "Check the elevator."}
 , 
-[11377] = {Title = "Act of Kindness", 
-Description = {"You help the man stuck between the elevator doors."}
-, Summary = ""}
+[11377] = {Title = "Act of Kindness", IconName = "ico_ep.bmp", 
+Description = {"You helped the man stuck between the elevator doors."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[11379] = {Title = "Final Room", 
-Description = {"You have entered the final room. You can enter again after 23 hours."}
-, Summary = ""}
+[11379] = {Title = "Last Room", IconName = "ico_ep.bmp", 
+Description = {"You have entered the last room. You can enter again after the cooldown. Find <NAVI>[Mark]<INFO>verus01,123,181,0,101,0</INFO></NAVI> for re-entrance."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[11380] = {Title = "Final Room", 
-Description = {"You\'ve discovered a hidden area. Return to Fruit after taking care of the monster at the end of the dungeon."}
-, Summary = "Dispose of T_W_O"}
+[11380] = {Title = "Last Room", IconName = "ico_ep.bmp", 
+Description = {"Discovered a hidden area. Return to <NAVI>[Fruit]<INFO>verus01,151,173,0,101,0</INFO></NAVI> after taking care of the monster at the end of the dungeon."}
+, Summary = "Defeat T_W_O"}
 , 
-[11381] = {Title = "Vestige", 
-Description = {"Apparently there is an incredible device in the center. Go and investigate."}
+[11381] = {Title = "Vestige", IconName = "ico_ep.bmp", 
+Description = {"Apparently there is an <NAVI>[incredible device]<INFO>verus01,151,173,0,101,0</INFO></NAVI> in the center. Go and investigate."}
 , Summary = "Investigate central device."}
 , 
-[11382] = {Title = "Vestige", 
-Description = {"You receive a request from Fruit to investigate the underground bunker. Apparently there\'s a guide in the area, so look out for him."}
-, Summary = "Move to the underground bunker."}
+[11382] = {Title = "Vestige", IconName = "ico_ep.bmp", 
+Description = {"Receive request to investigate underground bunker from Fruit. There seems to be a <NAVI>[guide]<INFO>verus01,123,181,0,101,0</INFO></NAVI> in the area so look for him."}
+, Summary = "Move to Underground Bunker"}
 , 
-[11383] = {Title = "Vestige", 
-Description = {"See if there are things worth recovering in the underground bunker."}
-, Summary = "Investigate the Underground Bunker"}
+[11383] = {Title = "Vestige", IconName = "ico_ep.bmp", 
+Description = {"See if there are <NAVI>[things worth recovering]<INFO>un_bunker,363,171,0,101,0</INFO></NAVI> in the underground bunker."}
+, Summary = "Investigate Underground Bunker"}
 , 
-[11384] = {Title = "Vestige", 
-Description = {"You find a room with a peculiar energy. Go in."}
-, Summary = "Into the room"}
+[11384] = {Title = "Vestige", IconName = "ico_ep.bmp", 
+Description = {"Found a <NAVI>[Room]<INFO>un_bunker,388,84,0,101,0</INFO></NAVI> with a peculiar energy. Go inside."}
+, Summary = "Into the Room"}
 , 
-[11385] = {Title = "Vestige", 
-Description = {"You find a suspicious door in the room. Go in."}
-, Summary = "Go in the door"}
+[11385] = {Title = "Vestige", IconName = "ico_ep.bmp", 
+Description = {"Found a suspicious <NAVI>[Door]<INFO>un_myst,27,208,0,101,0</INFO></NAVI> in the room. Go inside."}
+, Summary = "Into the Room"}
 , 
-[11386] = {Title = "Vestige", 
-Description = {"You arrive to a strange space. There seems to be a way to go back, so go."}
+[11386] = {Title = "Vestige", IconName = "ico_ep.bmp", 
+Description = {"Arrived at a strange space. There seems to be a <NAVI>[way]<INFO>un_myst,56,206,0,101,0</INFO></NAVI> to go back, so go."}
 , Summary = "The way back"}
 , 
-[11387] = {Title = "Vestige", 
-Description = {"You\'ve arrived in a strange room. Converse with company."}
-, Summary = "Converse with Du"}
+[11387] = {Title = "Vestige", IconName = "ico_ep.bmp", 
+Description = {"Arrived at a strange room. Converse with <NAVI>[Deu]<INFO>un_myst,100,190,0,101,0</INFO></NAVI>."}
+, Summary = "Converse with Deu"}
 , 
-[11388] = {Title = "Vestige", 
+[11388] = {Title = "Vestige", IconName = "ico_ep.bmp", 
 Description = {"The way back is blocked. Keep going to the interior."}
 , Summary = "Move to the interior"}
 , 
-[11389] = {Title = "Vestige", 
-Description = {"You pick up a strange note. A peculiar message is written."}
+[11389] = {Title = "Vestige", IconName = "ico_ep.bmp", 
+Description = {"Picked up a strange note. A peculiar message is written."}
 , Summary = "Keep moving"}
 , 
 [11393] = {Title = "2015 new year\'s hat", 
@@ -10305,125 +10313,129 @@ Description = {"You\'ve found a white cat, but it doesn\'t look like Jakk??s kit
 Description = {"In the sand, you find bones that seem to come from a small animal. You also find a red necklace with a bell. Let\'s go back to Jakk."}
 , Summary = "Talk to Jakk in Niflheim"}
 , 
+[11495] = {Title = "Hi! I\'m Premi!", 
+Description = {"Hi! I\'m Premi! Nice to meet you~~~~>.<"}
+, Summary = "Hi! >w<)/"}
+, 
 [11498] = {Title = "Jakk and Jakk\'s days like Jakk", 
 Description = {"You arrive in Niflheim, the town of the dead, where you woke up to the murmur of ghosts. Listen to the ghosts\' stories."}
 , Summary = "Talk to Hororong"}
 , 
 [11499] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"Jakk in the square might know something. Inquire with Jakk in the square."}
+Description = {"Jakk in the square might know something. Inquire with <NAVI>[Jakk in the square]<INFO>niflheim,193,186,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Jakk"}
 , 
 [11500] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"You hear about the place where Jakk once was. Go back to Hururong."}
+Description = {"You hear about the place where Jakk once was. Go back to <NAVI>[Hururong]<INFO>niflheim,180,242,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Hururong"}
 , 
 [11501] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"Hunt 10 Fleeing Jakk in the fields and dungeons and collect 10 Pumpkin Decos and 20 Dry White Stems for Hororong."}
+Description = {"Hunt 10 Runaway Jakk in the fields and dungeons and collect 10 Pumpkin Decorations and 20 Dry White Stems for <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
 , Summary = "Send Jakk to Niflheim"}
 , 
 [11502] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"You\'ve brought Jakk to Niflheim. According to the ghosts, Jakk will take root in the ground if he stays too long in the land of the living. Let him rest."}
-, Summary = "Jakk\'s rest"}
+Description = {"You\'ve brought Jakk to Niflheim. According to the ghosts, Jakk will take root in the ground if he stays too long in the land of the living. Let <NAVI>[him]<INFO>niflheim,177,242,0,101,0</INFO></NAVI> rest."}
+, Summary = "Resets at 4am"}
 , 
 [11503] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"Hunt 10 Fleeing Jakk in the fields and dungeons and collect 10 Pumpkin Decos and 20 Dry White Stems for Hororing."}
-, Summary = "Send Jakk to Nifleheim"}
+Description = {"Hunt 10 Runaway Jakk in the fields and dungeons and collect 10 Pumpkin Decorations and 20 Dry White Stems for <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
+, Summary = "Send Jakk to Niflheim"}
 , 
 [11504] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"It\'s hard to understand, but it seems that you have to get a Dry White Stem and come back to Jakk."}
+Description = {"It\'s hard to understand, but it seems that you have to get a Dry White Stem and come back to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
 , Summary = "Collect a Dry White Stem"}
 , 
 [11505] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"When Jakk was caught, Meow got spooked and ran away. Inquire with Harorong, who was with Jakk."}
+Description = {"When Jakk was caught, Meow got spooked and ran away. Inquire with <NAVI>[Harorong]<INFO>niflheim,169,240,0,101,0</INFO></NAVI>, who was with Jakk."}
 , Summary = "Talk to Harorong"}
 , 
 [11506] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"You hear Neable, who\'s at the entrance, might have seen Meow. Talk to Neable at the western entrance to Niflheim."}
-, Summary = "Neable at the western entrance to Niflheim"}
+Description = {"You hear Nible, who\'s at the entrance, might have seen Meow. Talk to <NAVI>[Nible]<INFO>niflheim,43,147,0,101,0</INFO></NAVI> at the western entrance to Niflheim."}
+, Summary = "Nible at the western entrance to Niflheim"}
 , 
 [11507] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"Whether it was a cat or not, a little white thing went past the entrance very fast. Inquire with the guy past the entrance about it."}
-, Summary = "Talk to Nevervous Jakk"}
+Description = {"Whether it was a cat or not, a little white thing went past the entrance very fast. Inquire with the <NAVI>[guy]<INFO>nif_fild02,366,247,0,101,0</INFO></NAVI> past the entrance about it."}
+, Summary = "Talk to Shivering Jakk"}
 , 
 [11508] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"It is said that Jakk\'s Meow went to THERE. Tell Jakk about it."}
+Description = {"It is said that Jakk\'s Meow went to THERE. Tell <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> about it."}
 , Summary = "Talk to Jakk"}
 , 
 [11509] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"Jakk\'s Meow seems to have gone to Midgard through the stems of Yggdrasil. It must have gone through Umbala, so examine there first."}
+Description = {"Jakk\'s Meow seems to have gone to Midgard through the stems of Yggdrasil. It must have gone through <NAVI>[Umbala]<INFO>umbala,113,287,0,101,0</INFO></NAVI>, so examine there first."}
 , Summary = "Examine the northern entrance of Umbala"}
 , 
 [11510] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"The researcher said he reported a small white thing on the way to Morocc. Examine the northern entrance area of Morocc."}
+Description = {"The researcher said he reported a small white thing on the way to Morocc. Examine the northern entrance area of <NAVI>[Morroc]<INFO>morocc,154,248,0,101,0</INFO></NAVI>."}
 , Summary = "Examine the entrance of Morocc"}
 , 
 [11511] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"The merchant said he guided someone to get to Alberta. Examine the northern entrance of Alberta."}
+Description = {"The merchant said he guided someone to get to Alberta. Examine the northern entrance of <NAVI>[Alberta]<INFO>alberta,45,239,0,101,0</INFO></NAVI>."}
 , Summary = "Examine the entrance of Alberta"}
 , 
 [11512] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"It is said that there are many cats begging fish at the port. Examine the port area."}
+Description = {"It is said that there are many cats begging for fish at the port. Examine the <NAVI>[port area]<INFO>alberta,198,50,0,101,0</INFO></NAVI>."}
 , Summary = "Examine the Alberta port"}
 , 
 [11513] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"You\'ve found a white cat, but it\'s not Jakk\'s. Examine the suspicious pile of sand to the rear."}
+Description = {"You\'ve found a white cat, but it\'s not Jakk\'s. Examine the suspicious <NAVI>[sand pile]<INFO>alberta,199,51,0,101,0</INFO></NAVI> at the rear."}
 , Summary = "Examine the pile of sand"}
 , 
 [11514] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"You find the bones of a small animal and a red ribbon with a bell. Go back to Jakk."}
+Description = {"You find the bones of a small animal and a red ribbon with a bell. Go back to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Jakk in Niflheim"}
 , 
 [11515] = {Title = "The wind is blowing from the black hill", 
-Description = {"Jakk says Meow was not okay. Meet Meow in the south of Jakk. "}
+Description = {"Jakk says Meow was not okay. Meet <NAVI>[Meow]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> in the south of Jakk."}
 , Summary = "Talk to Meow"}
 , 
 [11516] = {Title = "The wind is blowing from the black hill", 
-Description = {"Meow has evolved into a Scholarton due to the adventure. Tell Jakk that the cat cannot go back to how he was because he has changed a lot."}
+Description = {"Meow has evolved into a Teacher Scatleton due to the adventure. Tell <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> that the cat cannot go back to how he was because he has changed a lot."}
 , Summary = "Talk to Jakk"}
 , 
 [11517] = {Title = "The wind is blowing from the black hill", 
-Description = {"There are lots of cats in the middle of the Valley of Gyoll. Try to find Meow there."}
+Description = {"There are lots of cats in the middle of the Valley of Gyoll. Try to find Meow <NAVI>[there]<INFO>nif_fild02,135,230,0,101,0</INFO></NAVI>."}
 , Summary = "Search for Meow"}
 , 
 [11518] = {Title = "The wind is blowing from the black hill", 
-Description = {"You find several Scatletons in the middle of the Valley of Gyoll, but they don\'t seem so good. Collect ^ff00005 Black Fur^000000 to warm Scatleton."}
+Description = {"You find several Scatletons in the middle of the Valley of Gyoll, but they don\'t seem so good. Collect ^ff00005 Black Fur^000000 to warm <NAVI>[Scatleton]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI>."}
 , Summary = "5 Black Furs"}
 , 
 [11519] = {Title = "The wind is blowing from the black hill", 
-Description = {"Scatleton was too upset to have further conversations. Go back to Jakk."}
+Description = {"Scatleton was too upset to have further conversations. Go back to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Jakk"}
 , 
 [11520] = {Title = "The wind is blowing from the black hill", 
-Description = {"Jakk loves his cat more than any other cats. Talk to Scholarton again."}
-, Summary = "Talk to Scholarton"}
+Description = {"Jakk loves his cat more than any other cat. Talk to <NAVI>[Teacher Scatleton]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> again."}
+, Summary = "Talk to Teacher Scatleton"}
 , 
 [11521] = {Title = "The wind is blowing from the black hill", 
-Description = {"Scholarton doesn\'t want to talk anymore. Go back to Jakk."}
+Description = {"Teacher Scatleton doesn\'t want to talk anymore. Go back to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Jakk"}
 , 
 [11522] = {Title = "The wind is blowing from the black hill", 
-Description = {"Jakk says he will wait for Meow and asks to take care of other cats. Help Scatletons in the valley of Gyoll by collecting ^ff000010 Dry White Stems^000000."}
+Description = {"Jakk says he will wait for Meow and asks to take care of other cats. Help <NAVI>[Scatletons]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI> in the valley of Gyoll by collecting ^ff000010 Dry White Stems^000000."}
 , Summary = "To the Valley of Gyoll"}
 , 
 [11523] = {Title = "The wind is blowing from the black hill", 
-Description = {"Scatleton seems to get hungry when he recovers. Collect ^ff000010 Delicious Fish^000000."}
+Description = {"<NAVI>[Scatletons]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI> seems to get hungry when he recovers. Collect ^ff000010 Delicious Fish^000000."}
 , Summary = "10 Delicious Fish"}
 , 
 [11524] = {Title = "The wind is blowing from the black hill", 
-Description = {"Scatleton asks for ^ff000020 more Dry White Stems^000000. Collect them."}
+Description = {"<NAVI>[Scatletons]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI> asks for ^ff000020 more Dry White Stems^000000. Collect them."}
 , Summary = "20 Dry White Stems"}
 , 
 [11525] = {Title = "The wind is blowing from the black hill", 
-Description = {"Scatleton seems to have the same vigor that Scholarton has. Inquire with Scholarton about it."}
-, Summary = "Talk to Scholarton"}
+Description = {"Teacher Scatleton seems to have the same vigor that Teacher Scatleton has. Let\'s ask <NAVI>[Teacher Scatleton]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> for more details."}
+, Summary = "Talk to Teacher Scatleton"}
 , 
 [11526] = {Title = "The wind is blowing from the black hill", 
-Description = {"Scholarton is also going to set out on the journey. Talk to Jakk about it."}
+Description = {"Teacher Scatleton is also going to set out on the journey. Talk to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> about it."}
 , Summary = "Talk to Jakk"}
 , 
 [11527] = {Title = "The wind is blowing from the black hill", 
-Description = {"Jakk must be tired. Come back to him after 4 in the morning."}
-, Summary = "See you tomorrow, Jakk!"}
+Description = {"Jakk must be tired. Come back to <NAVI>[him]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> after 4 in the morning."}
+, Summary = "Resets at 4am"}
 , 
 [11528] = {Title = "The wind is blowing from the black hill", 
 Description = {"Enabled to get black fur from the monsters in the Valley of Gyoll."}
@@ -10578,7 +10590,7 @@ Description = {"Now that you have found the last part of the slate, you should r
 , Summary = "Shaman Boonthom"}
 , 
 [12037] = {Title = "Holier Threads", 
-Description = {"Now you must bring back materials to Boonthom so that you can enter the 2nd underground level. Bring back 2 Holy Water, 1 Yggdrasil Leaf, 2 Needle Packet and 2 Spool."}
+Description = {"Now you must bring back materials to Boonthom so that you can enter the 2nd underground level. Bring back 2 Holy Water, 1 Yggdrasil Leaf, 2 Fabric and 2 Nine Tails."}
 , Summary = ""}
 , 
 [12038] = {Title = "Searching for the Sa-mhing Tiger", 
@@ -10663,7 +10675,7 @@ Description = {"Use the pass card to sneak into the lab."}
 , 
 [12058] = {Title = "Endless Tower Generate Condition", 
 Description = {"Unable to create Endless Tower Dungeon"}
-, Summary = "Can create Endless Tower Dungeon again in 7 days"}
+, Summary = "Reset at 4am after 7 days"}
 , 
 [12059] = {Title = "Orc\'s Memory Time Limit", 
 Description = {"The time limit for access to the Orc\'s Memory is 2 hours. After the time expires, your instance dungeon will be destroyed."}
@@ -11614,11 +11626,11 @@ Description = {"Finally met Hugin for the first time. He probably remembers me, 
 , Summary = "First encounter."}
 , 
 [12317] = {Title = "Trace of Time Travel", 
-Description = {"Time travel to Old Glast Heim has been prohibited for 23hours."}
-, Summary = "Dimension distorted."}
+Description = {"Time travel to Old Glast Heim is prohibited until 4am."}
+, Summary = "Reset at 4am"}
 , 
-[12318] = {Title = "Corrupted Soul Hunt", 
-Description = {"Find and destroy the Corrupted Soul located in Old Glast Heim 1F."}
+[12318] = {Title = "Corruption Root", 
+Description = {"Find and destroy the Corruption Root located in Old Glast Heim 1F."}
 , Summary = ""}
 , 
 [12319] = {Title = "Hunt for Amdarais", 
@@ -11639,23 +11651,23 @@ Description = {"The inside of Glastheim has been distorted by Hugin. Anything ca
 , 
 [12325] = {Title = "Faceworm\'s Nest after-effects", 
 Description = {"You cannot re-enter the Faceworm\'s Nest until the timer has expired."}
-, Summary = ""}
+, Summary = "Resets at 4am"}
 , 
 [12326] = {Title = "The owner of the old ring", 
 Description = {"You have found the owner of the old ring."}
-, Summary = ""}
+, Summary = "Resets at 4am"}
 , 
 [12327] = {Title = "The memory of the old photo album", 
-Description = {"The merchant will be happy if he receives the photo album. Let??s find other photo albums that he may have lost and bring them to him."}
-, Summary = ""}
+Description = {"The merchant will be happy if he receives the photo album. Let\'s find other photo albums that he may have lost and bring them to him."}
+, Summary = "Resets at 4am"}
 , 
 [12328] = {Title = "Dol-Seoi\'s Sorrow", 
 Description = {"Dol-Seoi weeps when you give him the pills that you found. Bring any other pills if you find more in the Faceworm\'s Nest"}
-, Summary = ""}
+, Summary = "Resets at 4am"}
 , 
 [12329] = {Title = "Keaton\'s Bracelet", 
 Description = {"Why can\'t this soul rest in peace? Bring any bracelets you find in the Faceworm\'s Nest back to Keaton."}
-, Summary = ""}
+, Summary = "Resets at 4am"}
 , 
 [12330] = {Title = "Skull-faced Girl", 
 Description = {"Heard a story from a girl with strange appearance."}
@@ -11666,12 +11678,12 @@ Description = {"There is a trail leading to the toy factory. Unable to re-enter 
 , Summary = "Trail to the Toy Factory"}
 , 
 [12346] = {Title = "Strange Ancient Science", 
-Description = {"You discuss the strangeness of ancient science with the researcher."}
+Description = {"Discussed with the researcher about the strangeness of ancient science."}
 , Summary = "Strange Ancient Science"}
 , 
 [12347] = {Title = "Trace of Laboratory Access", 
-Description = {"The effects of the ancient science laboratory being accessed through dimensions are left."}
-, Summary = "Traces of Laboratory Access"}
+Description = {"The effects of the ancient science laboratory being accessed through dimensions is left. After the cooldown, find <NAVI>[Civilization Explorer]<INFO>verus01,149,155,0,101,0</INFO></NAVI> to re-enter."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
 [13000] = {Title = "RWC 2011Card Gathering", 
 Description = {"Kill the Gold Porings that are randomly around Rune Midgard and collect enough Blue Cards to spell out \'RWC 2011\'"}
@@ -11683,11 +11695,11 @@ Description = {"Wait 23 hours before bringing more Blue Cards to the New Agent"}
 , 
 [13002] = {Title = "Brigan collecting", 
 Description = {"Collect 50 Brigan pieces from Turtle Island or Glastheim and bring them back to Gelkah at the Eden Group."}
-, Summary = "Bring back 50 ^FF0000Brigan^000000"}
+, Summary = "Bring back 50 Brigan"}
 , 
 [13003] = {Title = "Carat Request", 
 Description = {"This request is from a merchant of Morroc. Carats are selling ice cream all year long and he can\'t make any profit. The Eden Group team knows that\'s not the real reason, but a request is request."}
-, Summary = "Hunt ^FF000030 Carat^000000 and return to Gelkah"}
+, Summary = "Hunt 30 Carat and return to Gelkah"}
 , 
 [13004] = {Title = "Carat Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11695,7 +11707,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13005] = {Title = "Arclouse Request", 
 Description = {"Do you know there are beans used as food here in Rune Midgard? When an Arclouse rolls, it resembles a bean."}
-, Summary = "Hunt ^FF0000 22 Arclouse^000000 and return to Gelkah"}
+, Summary = "Hunt  22 Arclouse and return to Gelkah"}
 , 
 [13006] = {Title = "Arclouse Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11703,7 +11715,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13007] = {Title = "Anolian Request", 
 Description = {"Glastheim seems to be a good, sacred place, not only to adventurers but also to monks. I have no idea what really attracts them there."}
-, Summary = "Hunt ^FF000030 Anolian^000000 and return to Gelkah"}
+, Summary = "Hunt 30 Anolian and return to Gelkah"}
 , 
 [13008] = {Title = "Anolian Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11711,7 +11723,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13009] = {Title = "Sting Request", 
 Description = {"Have you heard about a monk\'s pilgrimage? There are too many Stings in the underground waterway and cave, so they disturb the peaceful monks."}
-, Summary = "Hunt ^FF000030 Sting^000000 and return to Gelkah"}
+, Summary = "Hunt 30 Sting and return to Gelkah"}
 , 
 [13010] = {Title = "Sting Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11719,7 +11731,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13011] = {Title = "Majoruros Request", 
 Description = {"The monk\'s pilgrimage destination is on the 2nd floor of the Glastheim Castle underground cave. It\'s not an easy journey but will be a good experience."}
-, Summary = "Hunt ^FF000030 Majoruros^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Majoruros and return to Gelkah."}
 , 
 [13012] = {Title = "Majoruros Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11727,7 +11739,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13013] = {Title = "Pinguicula Request", 
 Description = {"Pinguicula is one of the first monsters that adventurers encounter when they step into the Ash Vacuum. They expect us to reduce the monsters?presence around the Expedition Camp."}
-, Summary = "Hunt ^FF000030 Pinguicula^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Pinguicula and return to Gelkah."}
 , 
 [13014] = {Title = "Pinguicula Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11735,7 +11747,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13015] = {Title = "Luciola Vespa Request", 
 Description = {"Rohtert was stung by one of these bee-like monsters, so he made a request to exterminate them..."}
-, Summary = "Hunt ^FF000030 Luciola Vespa^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Luciola Vespa and return to Gelkah."}
 , 
 [13016] = {Title = "Luciola Vespa Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11743,7 +11755,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13017] = {Title = "Desert Wolf Request", 
 Description = {"The Ice Cave is directly north of Rachel. The problem is that the Wolves frighten tourists when they are heading to see the Ice Cave."}
-, Summary = "Hunt ^FF000030 Desert Wolf^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Desert Wolf and return to Gelkah."}
 , 
 [13018] = {Title = "Desert Wolf Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11751,7 +11763,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13019] = {Title = "Snowier Request", 
 Description = {"People who have been to the ice dungeon say there are noisy monsters disturbing their visits. Please clear them if you can stand it."}
-, Summary = "Hunt ^FF000030 Snowier^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Snowier and return to Gelkah."}
 , 
 [13020] = {Title = "Snowier Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11759,7 +11771,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13021] = {Title = "Ice Titan Request", 
 Description = {"Have you been to the Ice Cave north of Rachel? There are monsters called Ice Titans deep in the dungeon. Scholars want to determine if they are golems or not."}
-, Summary = "Hunt ^FF000030 Ice Titan^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Ice Titan and return to Gelkah."}
 , 
 [13022] = {Title = "Ice Titan Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11767,7 +11779,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13023] = {Title = "Nightmare Terror Request", 
 Description = {"This request is from a client that is sad because the Magma Dungeon was full of monsters when she came back after breaking up with her lover."}
-, Summary = "Hunt ^FF000030 Nightmare Terror^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Nightmare Terror and return to Gelkah."}
 , 
 [13024] = {Title = "Nightmare Terror Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11775,7 +11787,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13025] = {Title = "Flying Deleter Request", 
 Description = {"A client showed a wonderful dance to a lover. One day, they were attacked by a Deleter while they were dancing in the Magma Dungeon."}
-, Summary = "Hunt ^FF000030 Deleter^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Deleter and return to Gelkah."}
 , 
 [13026] = {Title = "Deleter Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11783,7 +11795,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13040] = {Title = "Loli Ruri Request", 
 Description = {"A secret society has requested protection for the Eden Group from the Loli Ruris because they believe that they have mental powers."}
-, Summary = "Hunt ^FF000030 Loli Ruri^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Loli Ruri and return to Gelkah."}
 , 
 [13041] = {Title = "Loli Ruri Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11791,7 +11803,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13042] = {Title = "Medusa Request", 
 Description = {"This is a request from a hair designer in Alberta. He wants to know if the snakes on the Medusa\'s head are really snakes or fancy hair..."}
-, Summary = "Hunt ^FF000030 Medusa^000000 and return to Gelkah."}
+, Summary = "Hunt 30 Medusa and return to Gelkah."}
 , 
 [13043] = {Title = "Medusa Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11799,7 +11811,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13044] = {Title = "Anubis Request", 
 Description = {"An anonymous client has sent a request to help clear monsters in the Sphinx Dungeon because adventurers hardly visit Morocc anymore. The monsters seem to be running rampant there."}
-, Summary = "Hunt ^FF000020 Anubis^000000 and return to Gelkah."}
+, Summary = "Hunt 20 Anubis and return to Gelkah."}
 , 
 [13045] = {Title = "Anubis Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11807,7 +11819,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13046] = {Title = "Tendrilion Request", 
 Description = {"Let\'s hunt Tendrilion to the southwest of base camp."}
-, Summary = "Hunt ^FF00001^000000 ^FF0000Tendrilion^000000 and return to Gelkah."}
+, Summary = "Hunt 1 Tendrilion and return to Gelkah."}
 , 
 [13047] = {Title = "Tendrilion Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11815,7 +11827,7 @@ Description = {"Wait for the timer to expire before re-accepting this request."}
 , 
 [13048] = {Title = "Tendrilion Request", 
 Description = {"Let\'s hunt Tendrilion to the southwest of base camp."}
-, Summary = "Hunt ^FF00001^000000 ^FF0000Tendrilion^000000 and return to Gelkah."}
+, Summary = "Hunt 1 Tendrilion and return to Gelkah."}
 , 
 [13049] = {Title = "Tendrilion Request Timer", 
 Description = {"Wait for the timer to expire before re-accepting this request."}
@@ -11891,7 +11903,7 @@ Description = {"All we can do now is pray that the trouble maker <NAVI>[New Oz]<
 , 
 [13067] = {Title = "Raydric research", 
 Description = {"Something is happening in Glastheim. And that clue is in Raydrics, that\'s the information I have."}
-, Summary = "^FF000030 Raydric^000000 research"}
+, Summary = "30 Raydric research"}
 , 
 [13068] = {Title = "Raydric research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11899,7 +11911,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13069] = {Title = "Khalitzburg research", 
 Description = {"Khalitzburg can be found at the west entrance to Glastheim."}
-, Summary = "^FF000030 Khalitzburg^000000 research"}
+, Summary = "30 Khalitzburg research"}
 , 
 [13070] = {Title = "Khalitzburg research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11907,7 +11919,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13071] = {Title = "Wander Man research", 
 Description = {"Let\'s hunt 20 Wander Men and study them on the second floor of GlastHeim Castle."}
-, Summary = "^FF000030 Wander Man^000000 research"}
+, Summary = "30 Wander Man research"}
 , 
 [13072] = {Title = "Wander Man research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11915,7 +11927,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13073] = {Title = "Ancient Mimic research", 
 Description = {"Let\'s hunt 30 Ancient Mimics and study them in Thanatos Tower "}
-, Summary = "^FF0000 30 Ancient Mimic^000000 research"}
+, Summary = " 30 Ancient Mimic research"}
 , 
 [13074] = {Title = "Ancient Mimic research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11923,7 +11935,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13075] = {Title = "Death Word research", 
 Description = {"Let\'s research Death Word "}
-, Summary = "^FF0000 30 Death Word^000000 research"}
+, Summary = " 30 Death Word research"}
 , 
 [13076] = {Title = "Death Word research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11931,7 +11943,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13077] = {Title = "Owl Baron research", 
 Description = {"Let\'s hunt 20 Owl Baron and study them. Someone said that there are many Owl Barons on the sixth floor."}
-, Summary = "^FF000020 Owl Baron^000000 Combat"}
+, Summary = "20 Owl Baron Combat"}
 , 
 [13078] = {Title = "Owl Baron research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11939,7 +11951,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13079] = {Title = "Bloody Page Research", 
 Description = {"If we can restore the ancient antique book with Bloody Pages, it could be great research. We can get this from Death Word. Let\'s collect them."}
-, Summary = "Collect ^FF000020 Bloody Pages^000000 from Deathwords"}
+, Summary = "Collect 20 Bloody Pages from Deathwords"}
 , 
 [13080] = {Title = "Bloody Page Research - Wait", 
 Description = {"If there are bloodstained papers, that will be great. Let\'s collect them and send them to him."}
@@ -11947,7 +11959,7 @@ Description = {"If there are bloodstained papers, that will be great. Let\'s col
 , 
 [13081] = {Title = "Dark Pinguicula research", 
 Description = {"Let\'s hunt 30 Dark Pinguicula and study them at base camp."}
-, Summary = "^FF000030 Dark Pinguicula^000000 Combat"}
+, Summary = "30 Dark Pinguicula Combat"}
 , 
 [13082] = {Title = "Dark Pinguicula research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11955,7 +11967,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13083] = {Title = "Nepenthes research", 
 Description = {"Let\'s hunt 30 Nepenthes and study them at base camp."}
-, Summary = "^FF000030 Nepenthes^000000 Combat"}
+, Summary = "30 Nepenthes Combat"}
 , 
 [13084] = {Title = "Nepenthes research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11963,7 +11975,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13085] = {Title = "Naga research", 
 Description = {"Let\'s hunt 30 Naga and study them at base camp. Be careful! He does not need Naga cursed by magic!"}
-, Summary = "^FF000030 Naga^000000 Combat"}
+, Summary = "30 Naga Combat"}
 , 
 [13086] = {Title = "Naga research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11971,7 +11983,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13087] = {Title = "Centipede Larva research", 
 Description = {"Let\'s terminate 20 of Centipede Larva for Mingmin\'s study!"}
-, Summary = "^FF000020 Centipede Larva^000000Combat"}
+, Summary = "20 Centipede LarvaCombat"}
 , 
 [13088] = {Title = "Centipede Larva research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11979,7 +11991,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13089] = {Title = "Cornus research", 
 Description = {"Let\'s hunt 30 Cornus and study them at base camp."}
-, Summary = "^FF000030 Cornus^000000 Combat"}
+, Summary = "30 Cornus Combat"}
 , 
 [13090] = {Title = "Cornus research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -11987,7 +11999,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13091] = {Title = "Mystic Horn Research", 
 Description = {"Collect 20 Mystic Horns from Cornus and send them to Mingmin."}
-, Summary = "Collect ^FF000020 Mystic Horns^000000"}
+, Summary = "Collect 20 Mystic Horns"}
 , 
 [13092] = {Title = "Mystic Horn Research - Wait", 
 Description = {"We are still researching Mystic Horn, so collect as many as you can and send them to Mingmin when he needs them."}
@@ -11995,7 +12007,7 @@ Description = {"We are still researching Mystic Horn, so collect as many as you 
 , 
 [13093] = {Title = "Ancient Mummy research", 
 Description = {"Even though you are not interested in Pudding, let\'s engage 30 Ancient Mummies in combat and study them for Mingmin."}
-, Summary = "^FF000030 Ancient Mummy^000000Combat"}
+, Summary = "30 Ancient MummyCombat"}
 , 
 [13094] = {Title = "Ancient Mummy research - Timer", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -12011,7 +12023,7 @@ Description = {"Mingmin is busy researching. Come back after the timer has expir
 , 
 [13097] = {Title = "Juperos expedition", 
 Description = {"Find Venatu and study them in Juperos Dungeon. I\'m not sure which Venatu, but just do it! Combat 90 Venatu."}
-, Summary = "Hunt 30 each of Green, Orange and Blue ^FF0000Venatu^000000"}
+, Summary = "Hunt 30 each of Green, Orange and Blue Venatu"}
 , 
 [13098] = {Title = "Juperos expedition - Wait", 
 Description = {"Mingmin is busy researching. Come back after the timer has expired."}
@@ -12035,19 +12047,19 @@ Description = {""}
 , 
 [13103] = {Title = "Breaking Willows", 
 Description = {"Come back after breaking 10 Willows. It\'s like chopping down trees!"}
-, Summary = "Hunt ^FF000010 Willows^000000 "}
+, Summary = "Hunt 10 Willows "}
 , 
 [13104] = {Title = "Breaking Spores", 
 Description = {"Come back after hunting 10 Spores."}
-, Summary = "Hunt ^FF000010 Spores^000000"}
+, Summary = "Hunt 10 Spores"}
 , 
 [13105] = {Title = "Breaking Zombies", 
 Description = {"Come back after hunting 10 Zombies. Be careful as they are disgusting."}
-, Summary = "Hunt ^FF000010 Zombies^000000"}
+, Summary = "Hunt 10 Zombies"}
 , 
 [13106] = {Title = "Breaking Skeletons", 
 Description = {"Come back after hunting 10 Skeletons. Training is battle"}
-, Summary = "Hunt ^FF000010 Skeletons^000000 "}
+, Summary = "Hunt 10 Skeletons "}
 , 
 [13107] = {Title = "Thanatos Tower Search", 
 Description = {"Let\'s search Thanatos Tower to find traces of the missing adventurer."}
@@ -12313,21 +12325,21 @@ Description = {""}
 Description = {"Enter Charleston Factory."}
 , Summary = ""}
 , 
-[13185] = {Title = "Charleston Factory - Hold", 
-Description = {"You have used a mechanical device."}
-, Summary = ""}
+[13185] = {Title = "Charleston Factory - Cooldown", 
+Description = {"You have used mechanic device."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[13186] = {Title = "Charleston Factory - Complete", 
+[13186] = {Title = "Charleston Factory - Completed", 
 Description = {""}
 , Summary = ""}
 , 
 [13187] = {Title = "Deal with the Staff", 
-Description = {"Take care of the factory staff."}
+Description = {"Take care of the Factory Staff."}
 , Summary = ""}
 , 
-[13188] = {Title = "Deal with the staff - Hold", 
+[13188] = {Title = "Deal with the Staff - Cooldown", 
 Description = {""}
-, Summary = ""}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
 [13190] = {Title = "Found the treasure", 
 Description = {"Oh dear, the treasure appears to be guarded... If only there was an adventurer nearby."}
@@ -12342,48 +12354,48 @@ Description = {"I should tell my tale to Captain Whitebeard."}
 , Summary = ""}
 , 
 [13195] = {Title = "Monthly Brigan", 
-Description = {"Find freshman reporter Trapp."}
-, Summary = ""}
+Description = {"<NAVI>[Krotzel]<INFO>verus02,79,31,0,101,0</INFO></NAVI> asked you to find rookie reporter <NAVI>[Trapp]<INFO>verus01,172,146,0,101,0</INFO></NAVI>."}
+, Summary = "Converse with Trapp"}
 , 
 [13196] = {Title = "Monthly Brigan", 
-Description = {"Find Photo Journalist Sunny Kim."}
-, Summary = ""}
+Description = {"<NAVI>[Krotzel]<INFO>verus02,79,31,0,101,0</INFO></NAVI> asked you to find photo journalist <NAVI>[Sunny Kim]<INFO>verus02,134,169,0,101,0</INFO></NAVI>."}
+, Summary = "Converse with Sunny Kim"}
 , 
 [13197] = {Title = "Monthly Brigan", 
-Description = {"Find survivor Grizzly Grylls."}
+Description = {"<NAVI>[Krotzel]<INFO>verus02,79,31,0,101,0</INFO></NAVI> asked you to find survival reporter <NAVI>[Grizzly Grylls]<INFO>verus01,41,103,0,101,0</INFO></NAVI>."}
+, Summary = "Converse with Grizzly Grylls"}
+, 
+[13198] = {Title = "Monthly Brigan : Krotzel\'s Request", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Krotzel]<INFO>verus02,79,31,0,101,0</INFO></NAVI> is finding team members."}
 , Summary = ""}
 , 
-[13198] = {Title = "Monthly Brigan: Krotzel\'s Request", 
-Description = {"Look for team members"}
+[13199] = {Title = "Krotzel\'s Request - Cooldown", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Krotzel]<INFO>verus02,79,31,0,101,0</INFO></NAVI> wants to find missing team members again. Let\'s help her again tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[13200] = {Title = "Monthly Brigan : Rookie\'s Request", IconName = "ico_dq.bmp", 
+Description = {"Defeat surrounding monsters for <NAVI>[Trapp]<INFO>verus01,172,146,0,101,0</INFO></NAVI> so he can write the news safely."}
 , Summary = ""}
 , 
-[13199] = {Title = "Krotzel\'s Request - Complete", 
-Description = {""}
+[13201] = {Title = "Rookie\'s Request - Cooldown", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Trapp]<INFO>verus01,172,146,0,101,0</INFO></NAVI> wants you to defeat more monsters. Let\'s help him again tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[13202] = {Title = "Monthly Brigan : Photo Journalist\'s Request", IconName = "ico_dq.bmp", 
+Description = {"Defeat surrounding monsters for <NAVI>[Sunny Kim]<INFO>verus02,134,169,0,101,0</INFO></NAVI> so she can take a photo for her news."}
 , Summary = ""}
 , 
-[13200] = {Title = "Monthly Brigan: Rookie\'s Request", 
-Description = {"Defeat surrounding monsters"}
-, Summary = ""}
+[13203] = {Title = "Photo Journalist\'s Request - Cooldown", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Sunny Kim]<INFO>verus02,134,169,0,101,0</INFO></NAVI> wants you to defeat more monsters. Let\'s help her again tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
-[13201] = {Title = "Rookie\'s Request - Complete", 
-Description = {""}
-, Summary = ""}
+[13204] = {Title = "Monthly Brigan : Grylls\' Request", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Grizzly Grylls]<INFO>verus01,41,103,0,101,0</INFO></NAVI> asked you to bring 30 Metal bugs."}
+, Summary = "Bring 30 Metal bugs"}
 , 
-[13202] = {Title = "Monthly Brigan: Photo Journalist\'s Request", 
-Description = {"Take care of surrounding monsters"}
-, Summary = ""}
-, 
-[13203] = {Title = "Photo Journalist\'s Request - Complete", 
-Description = {""}
-, Summary = ""}
-, 
-[13204] = {Title = "Monthly Brigan: Grylls\' Request", 
-Description = {"Obtain 30 Metal Bugs"}
-, Summary = ""}
-, 
-[13205] = {Title = "Grylls\' Request - Complete", 
-Description = {""}
-, Summary = ""}
+[13205] = {Title = "Grylls\' Request - Cooldown", IconName = "ico_dq.bmp", 
+Description = {"If you want to know what <NAVI>[Grizzly Grylls]<INFO>verus01,41,103,0,101,0</INFO></NAVI> did with Metal bug, come back tomorrow and find out."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
 , 
 [14118] = {Title = "Wuhari\'s concern", 
 Description = {"Wuhari is worried about his brother in prison. Find a way into the prison and deliver Wuhari\'s heartfelt letter to his brother in jail."}
@@ -13026,56 +13038,56 @@ Description = {"Here\'s some Increase Agility and a Blessing! I\'ll give them to
 , Summary = "Cheer up!"}
 , 
 [14849] = {Title = "Make a snow flower bouquet", 
-Description = {"You wish to make a snow flower bouquet? Then, collect 10 magical snow flowers and come back here."}
-, Summary = "10 magical snow flowers"}
+Description = {"Do you wish to make a snow flower bouquet? Then, collect 10 magical snow flowers and come back <NAVI>[Here]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."}
+, Summary = "10 Magical Snow Flower"}
 , 
 [14850] = {Title = "Make a snow flower bouquet", 
-Description = {"An available snow flower illusionist will be running the snow flower bouquet event. If you are interested, find the place."}
+Description = {"<NAVI>[Snow flower illusionist]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> will be running the snow flower bouquet event. If you are interested, find the place."}
 , Summary = "To snow flower illusionist"}
 , 
-[14851] = {Title = "To get through a hot winter", 
-Description = {"Snow for the region where it does not fall, Cotton clothes for the cold region! If you wish to get through the winter, find Coti and Ulsi."}
+[14851] = {Title = "To get through the warm wintering", 
+Description = {"Snow for the region where it does not fall, Cotton clothes for the cold region! If you wish to get through the winter, find <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> and Ulsi."}
 , Summary = "To Coti"}
 , 
 [14852] = {Title = "Exchange festival card", 
-Description = {"Have you found a special card from your gift box? Then Twinkle bring to Bring. You will receive a special gift."}
+Description = {"Have you found a special card in your gift box? Then, bring to <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI> and Bling. You will receive a special gift."}
 , Summary = "To Twinkle"}
 , 
 [14853] = {Title = "Make a snow flower bouquet", 
-Description = {"You need 10 magical snow flowers to make a snow flower bouquet. Please do not forget 1 carrot to decorate the snowman. - Marine"}
-, Summary = "10 Snow Flowers, 1 carrot"}
+Description = {"You need 10 magical snow flowers to make a snow flower bouquet. Please don\'t forget 1 carrot to decorate the snowman. - <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "10 Snow Flowers, 1 Carrot"}
 , 
 [14854] = {Title = "The chilly feeling remains", 
-Description = {"The magical snow flower effect still remains. Please comeback after dawn. - Marine"}
-, Summary = "Waiting time"}
+Description = {"The magical snow flower effect still remains. Please come back after dawn. - <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
 , 
-[14855] = {Title = "Getting through winter", 
-Description = {"Snow for children! Warm cotton clothes for children in the cold region! Donate 10 Warm Cotton to us!"}
+[14855] = {Title = "To get through the warm wintering", 
+Description = {"Snow for children! Warm cotton clothes for children in the cold region! Please donate 10 Warm Cotton to <NAVI>[us]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>!"}
 , Summary = "10 Warm Cotton"}
 , 
 [14856] = {Title = "Cotton is being wrapped", 
-Description = {"Cotton is being wrapped. The wrapping seems like it will be finished by dawn, so please come back after dawn! - Coti"}
-, Summary = "Waiting time"}
+Description = {"Cotton is being wrapped. The wrapping seems like it will be finished by dawn, so please come back after dawn! - <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
 , 
 [14857] = {Title = "Exchange festival card", 
-Description = {"The lucky word for you is WINTER!! Please open the snow flower envelope from your gift box. In the envelop you can find these alphabet letters: W. I. N. T. E. R. A total of 6 alphabet letters. - Twinkle"}
+Description = {"The lucky word for you is WINTER!! Please open the Snow Flower Card Envelope from Gift Box. In the envelope, you can find these alphabet letters: W. I. N. T. E. R. A total of 6 alphabet letters.- <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
 , Summary = "Collect the WINTER card"}
 , 
 [14858] = {Title = "Exchange festival card", 
-Description = {"The lucky word for you is SNOW! Please open the snow flower envelope from your gift box. In the envelop you can find these alphabet letters: S. N. O. W. A total of 4 alphabet letters. - Twinkle"}
+Description = {"The lucky word for you is SNOW! Please open the Snow Flower Card Envelope from Gift Box. In the envelope, you can find these alphabet letters: S. N. O. W. A total of 4 alphabet letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
 , Summary = "Collect the SNOW card"}
 , 
 [14859] = {Title = "Exchange festival card", 
-Description = {"The lucky word for you is FESTIVAL! Please open the snow flower envelope from your gift box. In the envelope you can find these alphabet letters: F. E. S. T. I. V. A. L. A total of 8 alphabet letters. - Twinkle"}
+Description = {"The lucky word for you is FESTIVAL! Please open the Snow Flower Card Envelope from Gift Box. In the envelope, you can find these alphabet letters: F. E. S. T. I. V. A. L. A total of 8 alphabet letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
 , Summary = "Collect the FESTIVAL card"}
 , 
 [14860] = {Title = "Exchange festival card", 
-Description = {"The lucky word for you is FLOWER! Please open the snow flower envelope from your gift box. In the envelop you can find these alphabet letters: F. L. O. W. E. R. A total of 6 alphabet letters. - Twinkle"}
+Description = {"The lucky word for you is FLOWER! Please open the Snow Flower Card Envelope from Gift Box. In the envelope, you can find these alphabet letters: F. L. O. W. E. R. A total of 6 alphabet letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
 , Summary = "Collect the FLOWER card"}
 , 
 [14861] = {Title = "Card exchange is once a day", 
-Description = {"Alphabet card exchange is once a day. Okay? So please comeback after dawn! - Twinkle"}
-, Summary = "Waiting time"}
+Description = {"Alphabet card exchange is once a day. Okay? So please come back after dawn! - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
 , 
 [15000] = {Title = "Experiencing abnormal statuses", 
 Description = {"As an apology, I will let you experience the abnormal statuses in advance."}
@@ -13087,15 +13099,15 @@ Description = {"Speak to me after holding your breath for 20 seconds!"}
 , 
 [15002] = {Title = "Memorial Dungeon: Sara\'s Memory", 
 Description = {"You must wait for the timer before re-entering this instance."}
-, Summary = ""}
+, Summary = "Resets at 4am"}
 , 
 [15003] = {Title = "Adventurer Leon", 
 Description = {"Memorial Dungeon: Speak to the adventurer Leon after you\'ve been through Sara\'s Memory."}
-, Summary = ""}
+, Summary = "Adventurer Leon"}
 , 
 [15005] = {Title = "Memorial Dungeon: Isle of Bios", 
-Description = {"Isle of Bios becomes accessible for 23 hours after each exploration. You can enter it again through <NAVI>[yellow seed]<INFO>moro_cav,52,62,0,101,0</INFO></NAVI> after 23 hours."}
-, Summary = "23-hour downtime."}
+Description = {"Entry to Isle of Bios is prohibited for a period of time after you entered it. You can enter it again through <NAVI>[yellow seed]<INFO>moro_cav,52,62,0,101,0</INFO></NAVI> after cool time."}
+, Summary = "Reset at 4am"}
 , 
 [15006] = {Title = "Isle of Bios Exploration", 
 Description = {"Memorial Dungeon: Isle of Bios Exploration: Beginning"}
@@ -13106,8 +13118,8 @@ Description = {"Isle of Bios allows reentry for the first 5 minutes after its op
 , Summary = "Reenter in 5 minutes."}
 , 
 [15008] = {Title = "Memorial Dungeon: Isle of Bios", 
-Description = {"You cleared the dungeon in 5 minutes after you entered it. Isle of Bios is now closed for the next 23 hours."}
-, Summary = "23-hour downtime."}
+Description = {"Dungeon has been cleared within 5 minutes of entry so entry to Isle of Bios is prohibited for a period of time."}
+, Summary = "Reenter in 5 minutes."}
 , 
 [15018] = {Title = "The Great Tim\'s inheritance", 
 Description = {"Talk to Cheatem in Tim\'s house in the northwest area of Rachel to find the Tim\'s inheritance."}
@@ -13134,16 +13146,16 @@ Description = {"Kill 20 Byorgue Mercenaries from Rachel Field 12"}
 , Summary = "Kill 20 Byorgue Mercenaries"}
 , 
 [15050] = {Title = "Memorial Dungeon: Airship Assault", 
-Description = {"Reentry to the dungeon is prohibited for 23 hours following entry. Entry is possible after the deadline written below."}
-, Summary = "Reentry within 23 hours is not permitted"}
+Description = {"Re-entry is possible after the deadline written below."}
+, Summary = "Resets at 4am"}
 , 
 [15051] = {Title = "Memorial Dungeon: Airship Assault", 
 Description = {"Reentry is possible for 5 minutes after entering the dungeon. Entry is possible starting from the deadline written below."}
 , Summary = "Reentry possible within 5 minutes after entry"}
 , 
 [15052] = {Title = "Memorial Dungeon: Airship Assault", 
-Description = {"The dungeon has been cleared within 5 minutes of entry, so entry to the dungeon is prohibited for 23 hours."}
-, Summary = "Reentry within 23 hours is not permitted"}
+Description = {"The dungeon has been cleared within 5 minutes of entry. Entry to dungeon is prohibited until it resets at 4am."}
+, Summary = "No reentry within 5 minutes clear time."}
 , 
 [15055] = {Title = "Christmas: We are the great Single Union Army!", 
 Description = {"Find single cats in Lutie and ask them to join the Single Union Army."}
@@ -13217,21 +13229,25 @@ Description = {"Job Change mail notice"}
 Description = {"Job Change mail notice"}
 , Summary = "Job Change mail notice"}
 , 
-[15125] = {Title = "In need of COCOA BEAN", 
-Description = {"Take care of Sweet-Drop monsters from fields and dungeons. Get back to Charles with 20 stolen COCOA BEANS."}
-, Summary = "Collect 20 stolen COCOA BEANS"}
+[15125] = {Title = "In need of CACAO BEAN", 
+Description = {"Take care of Sweets Drops monsters from fields and dungeons. Get back to <NAVI>[Charles]<INFO>prontera,163,98,0,101,0</INFO></NAVI> with 20 Stolen Cacao Beans."}
+, Summary = "Collect 20 Stolen Cacao Beans"}
+, 
+[15126] = {Title = "In need of CACAO BEAN Complete", 
+Description = {"Take care of Sweets Drops monsters from fields and dungeons. Get back to <NAVI>[Charles]<INFO>prontera,163,98,0,101,1</INFO></NAVI> with 20 Stolen Cacao Beans."}
+, Summary = "Collect 20 Stolen Cacao Beans"}
 , 
 [15127] = {Title = "Chocolate Delivery", 
-Description = {"Deliver chocolates in the order of: Geffen, Payon, Aldebarn, Prontera Sweet Shops."}
-, Summary = "Chocolate delivery to big city sweet shops"}
+Description = {"Deliver chocolates in order of Geffen, Payon, Al De Baran, Prontera Sweets Shops."}
+, Summary = "Chocolate delivery to big city sweets shops"}
 , 
 [15128] = {Title = "Chocolate Delivery Complete", 
-Description = {"You\'ve finished the chocolate delivery Charles requested. You can repeat after 4 AM."}
-, Summary = "Deliver again from 4 AM"}
+Description = {"Finished chocolate delivery Charles requested. You can repeat after 4 AM."}
+, Summary = "Reset at 4 am"}
 , 
 [15129] = {Title = "Daily Draw Limitation", 
-Description = {"Sweet Shop Draw is only possible once a day. You\'ve drawn one already today, so let\'s try tomorrow after 4 AM."}
-, Summary = "Darwa Cool Time until 4 AM"}
+Description = {"Sweets Shop Draw is only possible once a day. Today you\'ve draw one already, so let\'s try after tomorrow at 4 AM."}
+, Summary = "Reset at 4 am"}
 , 
 [16000] = {Title = "Metz Brayde\'s Notice", 
 Description = {"You read a notice from Metz Brayde on a board asking for adventurers to go on a once in a lifetime quest."}
@@ -13243,27 +13259,27 @@ Description = {"You find out that you have to go through a series of tests from 
 , 
 [16002] = {Title = "Fetching Items for Arian -1", 
 Description = {"Bring only what I tell you to bring. If you know that I\'ll be asking for something later and you happen to have it, I\'ll straight up jack it. Gimme ^FF0000100 Fluff^000000."}
-, Summary = "^FF0000100 Fluff^000000"}
+, Summary = "100 Fluff"}
 , 
 [16003] = {Title = "Fetching Items for Arian -2", 
 Description = {"Bring only what I tell you to bring. If you know that I\'ll be asking for something later and you happen to have it, I\'ll straight up jack it. Gimme ^FF000050 Poison Spores^000000."}
-, Summary = "^FF000050 Poison Spores^000000"}
+, Summary = "50 Poison Spores"}
 , 
 [16004] = {Title = "Fetching Items for Arian -3", 
 Description = {"Bring only what I tell you to bring. If you know that I\'ll be asking for something later and you happen to have it, I\'ll straight up jack it. Gimme ^FF000030 Scorpion Tails^000000."}
-, Summary = "^FF000030 Scorpion Tails^000000"}
+, Summary = "30 Scorpion Tails"}
 , 
 [16005] = {Title = "Fetching Items for Arian -4", 
 Description = {"Bring only what I tell you to bring. If you know that I\'ll be asking for something later and you happen to have it, I\'ll straight up jack it. Gimme ^FF000020 Rotten Bandages^000000."}
-, Summary = "^FF000020 Rotten Bandages^000000"}
+, Summary = "20 Rotten Bandages"}
 , 
 [16006] = {Title = "Fetching Items for Arian -5", 
 Description = {"Bring only what I tell you to bring. If you know that I\'ll be asking for something later and you happen to have it, I\'ll straight up jack it. Gimme ^FF000015 Little Even Horn^000000."}
-, Summary = "^FF000015 Little Even Horn^000000"}
+, Summary = "15 Little Even Horn"}
 , 
 [16007] = {Title = "Fetching Items for Arian -6", 
 Description = {"Bring only what I tell you to bring. If you know that I\'ll be asking for something later and you happen to have it, I\'ll straight up jack it. Gimme ^FF000010 Coral Reefs^000000."}
-, Summary = "^FF000010 Coral Reefs^000000"}
+, Summary = "10 Coral Reefs"}
 , 
 [16008] = {Title = "Quiz time!", 
 Description = {"Talk to Ganaan to progress to the next part of the exam."}
@@ -13653,48 +13669,48 @@ Description = {"Using the blue ink on the blank paper, you find a strange poem w
 Description = {"Find something to help take the map off the wall."}
 , Summary = ""}
 , 
-[16118] = {Title = "Hidden poem", 
-Description = {"You find a piece of paper behind the map with a poem on it. There may be other clues hidden around here too."}
+[16118] = {Title = "Find Happy Egg", 
+Description = {"Happy Egg Festival began. Come back to the <NAVI>[Festival Committee]<INFO>yuno,175,162,0,101,0</INFO></NAVI> after break 10 of Happy Eggs."}
+, Summary = "Find 10 Happy Eggs"}
+, 
+[16119] = {Title = "Find Happy Egg - Stand by", 
+Description = {"Visit later since the festival item can be received once per day."}
+, Summary = "Reset at 4 am"}
+, 
+[16120] = {Title = "Find Happy Egg again!", 
+Description = {"Happy Egg Festival began. Come back to the <NAVI>[Festival Committee]<INFO>yuno,175,162,0,101,0</INFO></NAVI> after break 10 of Happy Eggs."}
+, Summary = "Find 10 Happy Eggs"}
+, 
+[16121] = {Title = "Help Festival Decoration", 
+Description = {"To decorate festival, collect 10 Happy Three Leaf Clovers from Clover Poporing or Clover Lunatic and give them to <NAVI>[Festival Deco Expert]<INFO>yuno,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "10 Happy Three Leaf Clovers"}
+, 
+[16122] = {Title = "Help Festival Decoration - Stand by", 
+Description = {"Doing one thing in a day is waste of time. Come back after midnight."}
+, Summary = "Reset at 4 am"}
+, 
+[16123] = {Title = "Help Festival Decoration again!", 
+Description = {"To decorate festival, collect 10 Happy Three Leaf Clovers from Clover Poporing or Clover Lunatic and give them to <NAVI>[Festival Deco Expert]<INFO>yuno,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "10 Happy Three Leaf Clovers"}
+, 
+[16124] = {Title = "Happy Pet Vending Machine", 
+Description = {""}
 , Summary = ""}
 , 
-[16119] = {Title = "Snake Swords", 
-Description = {"When you press the button in the pool, a clanging noise comes from the stairs at the hallway."}
-, Summary = ""}
+[16125] = {Title = "404 Unable to find!", 
+Description = {"Something fatal showed up from festival eggs. You can capture those bugs from Suspicious Eggs with D. Burger. Collect 10 of them and give them to <NAVI>[Festival Guide]<INFO>yuno,142,155,0,101,0</INFO></NAVI>."}
+, Summary = "10 Something Fatal"}
 , 
-[16120] = {Title = "A dream?", 
-Description = {"Your mind has been swept away somewhere... Investigate the test tubes."}
-, Summary = ""}
+[16126] = {Title = "404 Unable to find - Stand by", 
+Description = {"It is so tiring to catch bugs... somehow want to go back home. Let\'s catch them again tomorrow."}
+, Summary = "Reset at 4 am"}
 , 
-[16121] = {Title = "Secret Code?", 
-Description = {"The voice from the test tube tells you not to forget the numbers ^FF00004^333333, ^FF00007^333333, ^FF00007^333333, ^FF00002^333333, ^FF00009^333333, ^FF00006^333333, ^FF00001^333333."}
-, Summary = ""}
+[16127] = {Title = "404 Unable to find again!", 
+Description = {"Something fatal showed up from festival eggs. You can capture those bugs from Suspicious Eggs with D. Burger. Collect 10 of them and give them to <NAVI>[Festival Guide]<INFO>yuno,142,155,0,101,0</INFO></NAVI>."}
+, Summary = "10 Something Fatal"}
 , 
-[16122] = {Title = "Old Copper Key", 
-Description = {"You find an Old Copper Key inside of a Calabash. What could this key be for?"}
-, Summary = ""}
-, 
-[16123] = {Title = "Green Keycard", 
-Description = {"You find a Green Keycard inside of the locked box. What could this key be used for?"}
-, Summary = ""}
-, 
-[16124] = {Title = "Steel Box", 
-Description = {"You find a Steel Box inside of the safe behind the bookshelf. This might just be what Elly\'s grandfather wanted her to find!"}
-, Summary = ""}
-, 
-[16125] = {Title = "Kiel Hyre Academy", 
-Description = {"You found a note in Elly\'s cookie basket where she says that she saw a ghost. You vaguely remember her saying you must yell, \'Wake up, Elly!\' if she is cursed."}
-, Summary = ""}
-, 
-[16126] = {Title = "Kiel Hyre Academy", 
-Description = {"Elly wakes up for a second and drops a Golden Key and a Luxurious Button. See if Elly will wake up!"}
-, Summary = ""}
-, 
-[16127] = {Title = "Kiel Hyre Academy", 
-Description = {"You must find the factory\'s secret room at the graveyard in front of the dormitory. Use the Yellow Keycard to enter."}
-, Summary = ""}
-, 
-[16128] = {Title = "Kiel Hyre Academy", 
-Description = {"You have gained access to the factory. Check Allysia\'s hideout and use the Blue Keycard to gain access."}
+[16128] = {Title = "Repay from good work", 
+Description = {"Helped twice in catching Fatal Bugs. <NAVI>[Festival Guide]<INFO>yuno,142,155,0,101,0</INFO></NAVI> mentioned special repay. Let\'s do it once more."}
 , Summary = ""}
 , 
 [16129] = {Title = "2nd Job Change", 
@@ -13807,7 +13823,7 @@ Description = {""}
 , 
 [16200] = {Title = "Limberg\'s Request", 
 Description = {"Survey Leader Limberg asks you to bring some missing supplies."}
-, Summary = "^0000FF20 Ice Cubic^000000 and ^0000FF5 Ice Cream^000000"}
+, Summary = "20 Ice Cubic and 5 Ice Cream"}
 , 
 [16201] = {Title = "TPS Report", 
 Description = {"Survey Leader Limberg asks you another favor. Go down to the bottom of^0000FFNogg Road^000000 and collect the ^0000FFTPS Report^000000 from the other team members there."}
@@ -13827,6 +13843,26 @@ Description = {"Limberg asks you to go back down to Nogg Road and find out what 
 , 
 [16205] = {Title = "The Empty Lava Tube", 
 Description = {"You take the plunge down the empty lava tube and it leads you down to the Thor Volcano... Report your findings to Survey Leader Limberg."}
+, Summary = ""}
+, 
+[16215] = {Title = "The Shadowed Dream", 
+Description = {"You\'ve agreed to accompany Loreche\'s investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap."}
+, Summary = "Dimensional Gap Investigation"}
+, 
+[16216] = {Title = "The Bubbly Illusion", 
+Description = {"You\'ve agreed to accompany Loreche\'s investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap."}
+, Summary = "Dimensional Gap Investigation"}
+, 
+[16217] = {Title = "Rest and Relaxation", 
+Description = {"This is a daily quest, and you can re-take it when the cooldown resets. Speak to <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>in the Dimensional Gap to accept the quest."}
+, Summary = "Resets at 4 am"}
+, 
+[16218] = {Title = "Modification and Calculation", 
+Description = {"Let\'s go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap."}
+, Summary = "Speak with Eugenie"}
+, 
+[16219] = {Title = "Kindness and Gratitude", 
+Description = {""}
 , Summary = ""}
 , 
 [17000] = {Title = "Meet Father Bamph", 
@@ -15867,7 +15903,7 @@ Description = {"Rachel\'s tavern worker <NAVI>[Tarim]<INFO>rachel,91,134,0,101,0
 , 
 [21388] = {Title = "Cold Heart, Cold Dish - Standby", 
 Description = {"This is a daily quest, and you can try it again once the cooldown resets. It can be taken up from <NAVI>[Tarim]<INFO>rachel,91,134,0,101,0</INFO></NAVI> in the Rachel Tavern."}
-, Summary = ""}
+, Summary = "Resets at 4am"}
 , 
 [21389] = {Title = "Incommunicable Yeti", 
 Description = {"<NAVI>[Magician\'s Friend]<INFO>ice_dun01,149,168,0,101,0</INFO></NAVI>, whom you met in the Ice Cave,would like you to defeat the burdensome ^4d4dffSnowier^000000."}
@@ -24035,15 +24071,15 @@ Description = {"Seyren lost his location clue postcard in Jawaii Island.        
 , 
 [295372] = {Title = "Love and Understanding", 
 Description = {"Help ^0000FFDelphine^000000 show her sincere love and care toward ^0000FFCosima^000000 by answering the questions raised by^0000FFCosima\'s Father.^000000                                                               After you finish, go back to inform^0000FFDelphine.^000000"}
-, Summary = "Answer the question raised by^0000FFCosima\'s parents^000000 at Heart Island in Jawaii Map."}
+, Summary = "Answer the question raised byCosima\'s parents at Heart Island in Jawaii Map."}
 , 
 [295373] = {Title = "Gift from the heart", 
 Description = {"Rice Cake ate my^FF0000Platinum Ring !^000000 I need your help adventurers.                                                                 Beat them and bring me my Platinum Ring back.                               You can find ^FF0000Patroclus\'s Platinum Ring^000000 by beating Rice Cake in Jawaii Island."}
-, Summary = "Find ^FF0000Platinum Ring^000000 1 ea from Rice Cake."}
+, Summary = "Find Platinum Ring 1 ea from Rice Cake."}
 , 
 [295374] = {Title = "Completer Quest Velentine", 
 Description = {"Bring all of the items obtained from 3 couples to ^0000FFTinder Lover.^000000                                      1. Love Ball 1 ea                                                            2. Postcard Fragment 1 ea                                                    3. Platinum Ring 1 ea"}
-, Summary = "Bring 3 items and hand it to ^0000FFTinder Lover.^000000"}
+, Summary = "Bring 3 items and hand it to Tinder Lover."}
 , 
 [295375] = {Title = "Cooltime Traces1", 
 Description = {"The ground you dig is hardened, so you are unable to dig further. You can dig again after 1 minute."}
@@ -25684,5 +25720,649 @@ Description = {"You can get bubble gum service twice per day before reset time."
 [14519] = {Title = "Battle manual reuse available", 
 Description = {"You can get JOB battle manual service twice per day before reset time."}
 , Summary = "Reset at 4 am", CoolTimeQuest = 1}
+, 
+[291078] = {Title = "2nd job change reward", 
+Description = {"2nd job change reward"}
+, Summary = "2nd job change reward"}
+, 
+[16161] = {Title = "Hot Monster Hunt", 
+Description = {"Hunt Hot Imp x 10 and Hot Explosion x 10 to get tasty Gold Corn and report back to <NAVI>[Dr. Corn]<INFO>comodo,161,177,0,101,0</INFO></NAVI> with your progress."}
+, Summary = "Report to Dr. Corn"}
+, 
+[16162] = {Title = "Hot Monster Hunt- Stand by", 
+Description = {"This is a daily quest that players can repeatedly get after stand by time during the event period. You can get the quest from Dr. Corn at Comodo."}
+, Summary = "Reset at 4am"}
+, 
+[16163] = {Title = "Hot Monster Hunt- Repeat", 
+Description = {"Hunt Hot Imp x 10 and Hot Explosion x 10 again to get tasty Gold Corn and report back to <NAVI>[Dr. Corn]<INFO>comodo,161,177,0,101,0</INFO></NAVI> with your progress."}
+, Summary = "Report to Dr. Corn"}
+, 
+[16164] = {Title = "About a trip to Corodo", 
+Description = {"Corodo Helper <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI>gave me a guide to Corodo. Check the Corodo Trip Sign to go to the island."}
+, Summary = "Check the Corodo Trip Sign"}
+, 
+[16165] = {Title = "Corodo the Volcanic Island!", 
+Description = {"Corodo Helper [Pakiha] gave me a guide to Corodo. Visit Corodo with Pakiha."}
+, Summary = "Visit Corodo"}
+, 
+[16166] = {Title = "Corodo the Volcanic Island! - Stand by", 
+Description = {"This is a daily quest that players can repeatedly get after stand by time during the event period. You can get the quest from Corodo Helper at Comodo."}
+, Summary = "Reset at 4am"}
+, 
+[16167] = {Title = "Corodo the Volcanic Island!", 
+Description = {""}
+, Summary = ""}
+, 
+[16168] = {Title = "Costume Disposable 3D Glasses Rental", 
+Description = {"This is a daily quest that players can repeatedly get after stand by time during the event period. Comodo Joy Booster <NAVI>[Yeon]<INFO>comodo,260,126,0,101,0</INFO></NAVI>gives out the quest to the player."}
+, Summary = "Reset at 4am"}
+, 
+[16169] = {Title = "Rent Disposable Popcorn Hat Costume", 
+Description = {"This is a daily quest that players can repeatedly get after stand by time during the event period. Comodo Joy Booster <NAVI>[Yeon]<INFO>comodo,260,126,0,101,0</INFO></NAVI>gives out the quest to the player."}
+, Summary = "Reset at 4am"}
+, 
+[16170] = {Title = "Soda In Mouth Costume gift", 
+Description = {""}
+, Summary = ""}
+, 
+[16171] = {Title = "Guide of Popcorn Master", 
+Description = {""}
+, Summary = ""}
+, 
+[16172] = {Title = "Mighty Fine Bonfire", 
+Description = {"You inhaled the good smoke from the herbal bonfire. You can get back to it in 20 minutes."}
+, Summary = "Visit again in 20 minutes"}
+, 
+[16173] = {Title = "Wise and Fine Bonfire", 
+Description = {"You inhaled the good smoke from the herbal bonfire. You can get back to it in 20 minutes."}
+, Summary = "Visit again in 20 minutes"}
+, 
+[16174] = {Title = "Sharp and Fine Bonfire", 
+Description = {"You inhaled the good smoke from the herbal bonfire. You can get back to it in 10 minutes."}
+, Summary = "Visit again in 10 minutes"}
+, 
+[16175] = {Title = "Summer Solstice Day Bonfire", 
+Description = {"You inhaled the good smoke from the herbal bonfire. You can get back to it in 1 hour and 10 minutes."}
+, Summary = "Visit again in 70 minutes"}
+, 
+[16176] = {Title = "Summer Solstice Night Bonfire", 
+Description = {"You inhaled the good smoke from the herbal bonfire. You can get back to it in 50 minutes. "}
+, Summary = "Visit again in 50 minutes"}
+, 
+[293016] = {Title = "Monster Hunt Completed", 
+Description = {"Monster Hunt has been completed. Come back again tomorrow."}
+, Summary = "Reset at 4am"}
+, 
+[293017] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Rybio and report to Jip Sa"}
+, Summary = "Hunt 20 Rybio"}
+, 
+[293018] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Grizzly and report to Jip Sa"}
+, Summary = "Hunt 20 Grizzly"}
+, 
+[293019] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Side Winder and report to Jip Sa"}
+, Summary = "Hunt 20 Side Winder"}
+, 
+[293020] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Siorava and report to Jip Sa"}
+, Summary = "Hunt 20 Siorava"}
+, 
+[293021] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Kaho and report to Jip Sa"}
+, Summary = "Hunt 20 Kaho"}
+, 
+[293022] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Injustice and report to Jip Sa"}
+, Summary = "Hunt 20 Injustice"}
+, 
+[293023] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Anubis and report to Jip Sa"}
+, Summary = "Hunt 20 Anubis"}
+, 
+[293024] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Nightmare Verit and report to Jip Sa."}
+, Summary = "Hunt 20 Nightmare Verit"}
+, 
+[293025] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Menblatt and report to Jip Sa"}
+, Summary = "Hunt 20 Menblatt"}
+, 
+[293026] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Skogul and report to Jip Sa"}
+, Summary = "Hunt 20 Skogul"}
+, 
+[293027] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Nightmare Minorous and report to Jip Sa."}
+, Summary = "Hunt 20 Nightmare Minorous"}
+, 
+[293028] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Petal and report to Jip Sa"}
+, Summary = "Hunt 20 Petal"}
+, 
+[293029] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Neo Punk and report to Jip Sa"}
+, Summary = "Hunt 20 Neo Punk"}
+, 
+[293030] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Big Ben and report to Jip Sa"}
+, Summary = "Hunt 20 Big Ben"}
+, 
+[293031] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Big Bell and report to Jip Sa"}
+, Summary = "Hunt 20 Big Bell"}
+, 
+[293032] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Armeyer Dinze and report to Jip Sa"}
+, Summary = "Hunt 20 Armeyer Dinze"}
+, 
+[293033] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Errende Ebecee and report to Jip Sa"}
+, Summary = "Hunt 20 Errende Ebecee"}
+, 
+[293034] = {Title = "Monster Hunter", 
+Description = {"Hunt 20 Laurell Weinder and report to Jip Sa"}
+, Summary = "Hunt 20 Laurell Weinder"}
+, 
+[291080] = {Title = "Gold Poring Hunt - Completed", 
+Description = {"This quest is a daily quest. You can restart after reset time is over."}
+, Summary = "Reset at 4am"}
+, 
+[291081] = {Title = "Gold Poring Hunt", 
+Description = {"Hunt 10 Gold Poring and report back to <NAVI>[King Poring]<INFO>prontera,170,126,0,101,0</INFO></NAVI>."}
+, Summary = "Hunt 10 Gold Poring"}
+, 
+[14696] = {Title = "Nyail Cave Gate Keeper", 
+Description = {"The festival starts with the Pig Potato harvest! The Gate Keeper of Nyail Cave, <NAVI>[Festa Manager]<INFO>malangdo,133,170,000,0,</INFO></NAVI>is the one you should pay a visit to!"}
+, Summary = "To Festa Manager"}
+, 
+[14697] = {Title = "Pig Potato Harvest", 
+Description = {"Bring me,<NAVI>[Festa Manager]<INFO>malangdo,133,170,000,0,</INFO></NAVI>, Pig Potato x 1 from Nyailo of Nyail Cave."}
+, Summary = "Pig Potato x 1"}
+, 
+[14698] = {Title = "Tomato Noodles", 
+Description = {"Bring Thin Noodle x 10 and Pig Potato x 3 to <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,000,0,</INFO></NAVI>. I\'ll make a bowl of noodles right away!"}
+, Summary = "Thin Noodle x 10, Pig Potato x 3"}
+, 
+[14699] = {Title = "Tomato Noodles - Stand by", 
+Description = {"We\'re getting ready for today\'s event. Come back to me, <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,000,0,</INFO></NAVI>after dawn."}
+, Summary = "Reset at 4am"}
+, 
+[14700] = {Title = "Harvest Pig Potato", 
+Description = {"Defeat Nyailo in Nyail Cave to get Pig Potato and come back to me, <NAVI>[Helper Domi]<INFO>malangdo,183,221,000,0,</INFO></NAVI>. "}
+, Summary = "Pig Potato x 1"}
+, 
+[14701] = {Title = "Harvest Pig Potato - Stand by", 
+Description = {"You already did today\'s event. Come talk to <NAVI>[Helper Domi]<INFO>malangdo,183,221,000,0,</INFO></NAVI>after dawn."}
+, Summary = "Reset at 4am"}
+, 
+[14702] = {Title = "Watermelon Scented Fan", 
+Description = {"Crush Ripe Watermelons hidden in the watermelon patch and bring Promotional Fans! Collect and bring 10 of them to <NAVI>[Helper Lami]<INFO>malangdo,196,217,000,0,</INFO></NAVI>."}
+, Summary = "Promotional Fan x 10"}
+, 
+[14703] = {Title = "Watermelon Scented Fan - Stand by", 
+Description = {"Today\'s event is finished. Come back after dawn to <NAVI>[Helper Lami]<INFO>malangdo,196,217,000,0,</INFO></NAVI>to join the event again."}
+, Summary = "Reset at 4am"}
+, 
+[14704] = {Title = "Corona\'s Introspection...?", 
+Description = {"Please bring me the Flat Round Stones from Sea Worms that live in holes. My name is <NAVI>[Corona]<INFO>malangdo,138,235,000,0,</INFO></NAVI>!"}
+, Summary = "Flat Round Stone x 10"}
+, 
+[14705] = {Title = "Appraising the stone", 
+Description = {"I\'m still appraising the stone. Would you come back after dawn? You know my name, right? <NAVI>[Corona]<INFO>malangdo,138,235,000,0,</INFO></NAVI>is my name!"}
+, Summary = "Reset at 4am"}
+, 
+[14706] = {Title = "Noodle Master Orzo", 
+Description = {"Since you\'ve come all this way, you gotta taste Tomato Noodles! <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,000,0,</INFO></NAVI>is the guy you want to see to have the best noodles you\'ve ever had."}
+, Summary = "Noodle Master Orzo"}
+, 
+[14707] = {Title = "Nyailo", 
+Description = {"Have you tried Pig Potato? There\'s an event where you can harvest Pig Potato from Nyailo. <NAVI>[Helper Domi]<INFO>malangdo,183,221,000,0,</INFO></NAVI>is the one you need to see."}
+, Summary = "Helper Domi"}
+, 
+[14708] = {Title = "Watermelon Dessert", 
+Description = {"The scorching heat of summer makes you crave sweet and cold dessert, right? Go to <NAVI>[Helper Lami]<INFO>malangdo,196,217,000,0,</INFO></NAVI>. You\'ll be guided to an event where you can get Watermelon Pudding."}
+, Summary = "Helper Lami"}
+, 
+[14709] = {Title = "Fishing Event", 
+Description = {"How does saltwater fishing sound? <NAVI>[Fishing Site]<INFO>malangdo,138,235,000,0,</INFO></NAVI> will be a great place to enjoy the fishing event. But there\'s a bit of hurly-burly going on there these days..."}
+, Summary = "To Fishing Site"}
+, 
+[14710] = {Title = "Coupon - Complete Tomato Noodles", 
+Description = {"How were your noodles today? If you have completed today\'s events, go to the <NAVI>[Coupon Receptionist]<INFO>malangdo,141,155,000,0,</INFO></NAVI> and get the coupons stamped!!"}
+, Summary = "Orzo confirmation"}
+, 
+[14711] = {Title = "Coupon - Pig Potato completed", 
+Description = {"You have harvested all Pig Potatoes for today! If you have completed all the other three events, go to the <NAVI>[Coupon Receptionist]<INFO>malangdo,141,155,000,0,</INFO></NAVI> and get the coupons stamped!!"}
+, Summary = "Domi confirmation"}
+, 
+[14712] = {Title = "Coupon - Dessert completed", 
+Description = {"You have completed Watermelon Crushing Event. If you have completed all the four events for today, go to the <NAVI>Coupon Receptionist]<INFO>malangdo,141,155,000,0,</INFO></NAVI> and get the coupons stamped!!"}
+, Summary = "Lami confirmation"}
+, 
+[14713] = {Title = "Coupon - Fishing completed", 
+Description = {"Fishing... is all finished. If you have completed all the four events for today, go to the <NAVI>Coupon Receptionist]<INFO>malangdo,141,155,000,0,</INFO></NAVI> and get the coupons stamped."}
+, Summary = "Corona confirmation"}
+, 
+[14714] = {Title = "Dorado Information", 
+Description = {"We can find out about the whereabouts of my sister from <NAVI>[Someone]<INFO>malangdo,133,117,000,0,</INFO></NAVI> who knows Dorado. Hurry up, be on your way!"}
+, Summary = "Dorado Information"}
+, 
+[14715] = {Title = "Don\'t pester us!", 
+Description = {"<NAVI>[Ryan]<INFO>malangdo,217,277,000,0,</INFO></NAVI>is the guy you want to see. So stop pestering us!"}
+, Summary = "To Ryan"}
+, 
+[14716] = {Title = "Legendary Dorado", 
+Description = {"If anyone wants to go to the Legendary Dorado, tell them to find me, <NAVI>[Ryan]<INFO>malangdo,217,277,000,0,</INFO></NAVI>! I\'ll gladly tell them how to get there!"}
+, Summary = "To Legendary Dorado"}
+, 
+[14717] = {Title = "Express Ferry runs once a day", 
+Description = {"Dorado-bound <NAVI>[Unmanned Express Ferry]<INFO>malangdo,214,279,000,0,</INFO></NAVI>operates again after dawn."}
+, Summary = "Reset at 4am"}
+, 
+[14718] = {Title = "Legendary Dorado", 
+Description = {"I hope you break the curse this time... Don\'t forget <NAVI>[how to get to me]<INFO>malangdo,217,277,000,0,</INFO></NAVI>. Thank you so much."}
+, Summary = "To Legendary Dorado"}
+, 
+[291082] = {Title = "Celebrate National Day", 
+Description = {"You have comepleted daily quest. This is available once a day and reset at 4 am."}
+, Summary = "Reset at 4 am"}
+, 
+[291083] = {Title = "Hunt Harimau", 
+Description = {"Hunt 30 Harimau and report to <NAVI>[Abang Mat]<INFO>morocc,179,165,0,101,0,</INFO></NAVI>"}
+, Summary = "Hunt 30 Harimau"}
+, 
+[291084] = {Title = "Hunt Singa", 
+Description = {"Hunt 30 Singa and report to <NAVI>[Abang Mat]<INFO>morocc,179,165,0,101,0,</INFO></NAVI>"}
+, Summary = "Hunt 30 Singa"}
+, 
+[14773] = {Title = "Firework Event", 
+Description = {"You need a few things that burn well to participate in the fire. Please bring <NAVI>[me]<INFO>alberta,138,169,0,101,0</INFO></NAVI> 5 High Quality Branches,10 Tree Root, and 1 Fire Arrow."}
+, Summary = "Collect flammable material"}
+, 
+[14774] = {Title = "Hungry Wild Boars", 
+Description = {"It takes a lot of work to capture wild boars that ruin crops. Please look for <NAVI>[Serena]<INFO>alberta,151,200,0,101,0</INFO></NAVI>."}
+, Summary = "Looking for Serena"}
+, 
+[14775] = {Title = "A Wild Boar\'s Meal", 
+Description = {"Let\'s meet <NAVI>[Fruity]<INFO>alberta,148,200,0,101,0</INFO></NAVI> who makes lunch boxes for hungry wild boars."}
+, Summary = "Looking for Fruity"}
+, 
+[14776] = {Title = "Luna", 
+Description = {"Would you like to meet and talk to <NAVI>[Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI> who is the wizard from the Geffen Tower for this festival?"}
+, Summary = "Looking for Luna"}
+, 
+[14777] = {Title = "Harvest Festival Preparations", 
+Description = {"Food is indispensable to the festival. Please look for <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> who is preparing the festival food."}
+, Summary = "Looking for Songhwa"}
+, 
+[14778] = {Title = "Revival Branches", 
+Description = {"Please defeat 10 Revival Branches and bring me 10 High Quality Branches. My honor and my life depends on you! <NAVI>[Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"}
+, Summary = "10 High Quality Branches"}
+, 
+[14779] = {Title = "A period of intense surveillance", 
+Description = {"Lana is standing guard. Will you come back after dawn? <NAVI>[Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"}
+, Summary = "Resets at 4am"}
+, 
+[14780] = {Title = "Lunch box Preparations", 
+Description = {"Please bring 3 Carrot, 3 Apple, 3 Sweet Potato and a Tasty Corn for wild boars. <NAVI>[Fruity]<INFO>alberta,148,200,0,101,0</INFO></NAVI>"}
+, Summary = "Fruit Lunch Box"}
+, 
+[14781] = {Title = "Fruit Lunch Box", 
+Description = {"Leave this fruit lunch box at the <NAVI>[West Food Bank]<INFO>pay_fild03,93,168,0,101,0</INFO></NAVI> outside Alberta\'s West Gate."}
+, Summary = "West Food Bank"}
+, 
+[14782] = {Title = "Fruit Lunch Box", 
+Description = {"Leave this fruit lunch box at the <NAVI>[North Food Bank]<INFO>pay_fild03,218,260,0,101,0</INFO></NAVI> outside Alberta\'s West Gate."}
+, Summary = "North Food Bank"}
+, 
+[14783] = {Title = "Fruit Lunch Box", 
+Description = {"Leave this fruit lunch box at the <NAVI>[South Food Bank]<INFO>pay_fild03,297,84,0,101,0</INFO></NAVI> outside Alberta\'s West Gate."}
+, Summary = "South Food Bank"}
+, 
+[14784] = {Title = "Complete Feed wild Boar!", 
+Description = {"Let\'s leave the fruit lunch box for the wild boar and report to <NAVI>[Fruity]<INFO>alberta,148,200,0,101,0</INFO></NAVI>."}
+, Summary = "Report to Fruity"}
+, 
+[14785] = {Title = "Fat Wild Boar", 
+Description = {"The wild boars would have eaten and gone home. Let\'s we preparea lunch boxes with <NAVI>[me]<INFO>alberta,148,200,0,101,0</INFO></NAVI> after dawn!"}
+, Summary = "Resets at 4am"}
+, 
+[14786] = {Title = "Hungry Wild Boars", 
+Description = {"It have to capturing hungry wild boars who are lost and wandering and sending them back home. Capture 10 hungry wild boars with the savage trap <NAVI>[I]<INFO>alberta,151,200,0,101,0</INFO></NAVI> gave you."}
+, Summary = "Defeat 10 Wild Boars"}
+, 
+[14787] = {Title = "Fix the Savage trap", 
+Description = {"They need to fix the savage trap. Please come back to <NAVI>[me]<INFO>alberta,151,200,0,101,0</INFO></NAVI> after dawn."}
+, Summary = "Resets at 4am"}
+, 
+[14788] = {Title = "Harvest Festival Preparations", 
+Description = {"Don\'t have any ingredients to make Songpyun. Could you please bring 1 Grain, 3 Honey, 10 Green Herb to make Songpyun? <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "1 Grain, 3 Honey, 10 Green Herb"}
+, 
+[14789] = {Title = "Harvest Festival Preparations", 
+Description = {"Don\'t have any ingredients to make Moon Cookie. Could you please bring 1 Yellow Spice and 3 Trunk to make Moon Cookie? <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "1 Yellow Spice, 3 Trunk"}
+, 
+[14790] = {Title = "Harvest Festival Preparations", 
+Description = {"Don\'t have any ingredients to make roasted turkey. Could you please bring 1 Plain Sauce, 10 Carrot, 3 Lemon to make roasted turkey? <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "1 Plain Sauce, 10 Carrot, 3 Lemon"}
+, 
+[14791] = {Title = "A Small Ember", 
+Description = {"Please go to the firework event and bring me a small ember from <NAVI>[Lana]<INFO>alberta,138,169,0,101,0</INFO></NAVI>?"}
+, Summary = "Looking for Lana"}
+, 
+[14792] = {Title = "A Small Ember", 
+Description = {"I\'ll share the fire if you bring <NAVI>[me]<INFO>alberta,138,169,0,101,0</INFO></NAVI> a High Quality Branches."}
+, Summary = "1  High Quality Branches"}
+, 
+[14793] = {Title = "A Small Ember", 
+Description = {"Take the embers and go to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>. Enjoy delicious food!"}
+, Summary = "Looking for Songhwa"}
+, 
+[14794] = {Title = "Food Preparations", 
+Description = {"They\'re in the middle of preparing food, so they can\'t give me anything right now. Please come back to <NAVI>[me]<INFO>alberta,119,193,0,101,0</INFO></NAVI> after dawn."}
+, Summary = "Resets at 4am"}
+, 
+[14838] = {Title = "Homecoming Gift Songpyun", 
+Description = {"Please bring 100 pieces of Songpyun for rabbit sages to the moon.- <NAVI>[Rabbit sage]<INFO>alberta,134,171,0,101,0</INFO></NAVI>"}
+, Summary = "100 pieces of Songpyun"}
+, 
+[4132] = {Title = "The Cunning Mage in Geffen", 
+Description = {"Cunning Mage looks like he\'s about to sleep"}
+, Summary = ""}
+, 
+[293140] = {Title = "Poring Island entry 1", 
+Description = {"You can enter Poring Island once per day. However, you can enter again if you have a Poring Island Entry Ticket!"}
+, Summary = "Re-entry is possible with a ticket"}
+, 
+[293141] = {Title = "Poring Island entry 2", 
+Description = {"You can enter Poring Island once per day. However, you can enter again if you have a Poring Island Entry Ticket!"}
+, Summary = "Re-entry is possible with a ticket"}
+, 
+[293142] = {Title = "Poring Island entry 3", 
+Description = {"You can enter Poring Island up to 3 times per day. It is not possible to enter even with a Poring Island Entry Ticket. Please come back tomorrow."}
+, Summary = "Next day admission"}
+, 
+[8323] = {Title = "Request from the Vending Shop Management Center - Standby", 
+Description = {"The request from Merchant Guilds is limited to once every 7 days to protect the client\'s privacy.  Let\'s wait for the next request."}
+, Summary = "Reset at 4am after 7 Days"}
+, 
+[8324] = {Title = "Delivery to Prontera", 
+Description = {"Masha of the Merchant Guild\'s employment department requests you to deliver this ^4d4dffSlightly Aged Antique Box^000000 to the sheep working at the Forge of Prontera."}
+, Summary = "Box Delivery"}
+, 
+[8325] = {Title = "Return to the Merchant Guild", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8326] = {Title = "Delivery to Payon", 
+Description = {"Masha of the Merchant Guild\'s employment department requests you to deliver this ^4d4dffSlightly Aged Antique Box^000000 to the sheep working at the Forge of Payon."}
+, Summary = "Box Delivery"}
+, 
+[8327] = {Title = "Return to the Merchant Guild", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8328] = {Title = "Delivery to Comodo", 
+Description = {"Masha of the Merchant Guild\'s employment department requests you to deliver this ^4d4dffSlightly Aged Antique Box^000000 to the sheep working at the Comodo Weapon Shop."}
+, Summary = "Box Delivery"}
+, 
+[8329] = {Title = "Return to Merchant Guild", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8330] = {Title = "Delivery to Al De Baran Inn", 
+Description = {"Masha of the Merchant Guild\'s employment department requests you to deliver this ^4d4dffSlightly Aged Antique Box^000000 to the sheep working at the Al De Baran Inn."}
+, Summary = "Box Delivery"}
+, 
+[8331] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8332] = {Title = "Delivery to Morroc", 
+Description = {"Masha of the Merchant Guild\'s employment department requests you to deliver this ^4d4dffSlightly Aged Antique Box^000000 to the sheep working at the Northern Morroc Kafra Center."}
+, Summary = "Box Delivery"}
+, 
+[8333] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8334] = {Title = "Collection from the Prontera Culvert", 
+Description = {"An Adventurer by the name of Murian is currently on a quest from the Merchant Guilds on Prontera Culvert 3F. You need to retrieve the ^4d4dffSlightly Aged Antique Box^000000 from him."}
+, Summary = "Box Retrieved"}
+, 
+[8335] = {Title = "Return to the Merchant Guild", 
+Description = {"Deliver the box to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Box Submitted"}
+, 
+[8336] = {Title = "Defeat 10 Bongun", 
+Description = {"Defeat 10 Bonguns in Payon Cave 3F, return to Merchant Guild of Alberta and receive an examination from the sheep."}
+, Summary = "Bongun Defeated"}
+, 
+[8337] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8338] = {Title = "Defeat 10 Megaliths", 
+Description = {"Defeat 10 Megalith in Ruande, the Northern Cave, return to Merchant Guild of Alberta and receive an examination from the sheep."}
+, Summary = ""}
+, 
+[8339] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8340] = {Title = "Defeat 10 Rideword", 
+Description = {"Defeat 10 Rideword in Clock Tower 1F, return to Merchant Guild of Alberta and receive an examination from the sheep."}
+, Summary = ""}
+, 
+[8341] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8342] = {Title = "Collection from Morroc Sphinx", 
+Description = {"An Adventurer named Elbury is currently at the Sphinx B3F fulfilling a quest from the Merchant Guild. You need to retrieve the ^4d4dffSlightly Aged Antique Box^000000 from him."}
+, Summary = "Box Retrieved"}
+, 
+[8343] = {Title = "Return to the Merchant Guild", 
+Description = {"Deliver the box to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Box Submitted"}
+, 
+[8344] = {Title = "Collection of Biolabs Data", 
+Description = {"Check the small sign somewhere in the Biolabs 3F for a slot to insert a card. Take the Data Retrieval Card received by the Alberta Merchant Union and examine the sign to retrieve the data."}
+, Summary = "Data Retrieved"}
+, 
+[8345] = {Title = "Deliver Card to Masha", 
+Description = {"Deliver the data retrieval card to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Card submitted"}
+, 
+[8346] = {Title = "Defeat 3 Eremes Guile", 
+Description = {"Defeat 3 Eremes Guiles in Biolabs 3F, return to Alberta Merchant Guild and receive an examination from the sheep."}
+, Summary = ""}
+, 
+[8347] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8348] = {Title = "Defeat 3 Cecil Damon", 
+Description = {"Defeat 3 Cecil Damons in Biolabs 3F, return to Alberta Merchant Guild and receive an examination from the sheep."}
+, Summary = ""}
+, 
+[8349] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8350] = {Title = "Defeat 3 Margaretha Sorin", 
+Description = {"Defeat 3 Margaretha Sorin in Biolabs 3F, return to Alberta Merchant Guild and receive an examination from the sheep."}
+, Summary = ""}
+, 
+[8351] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8352] = {Title = "Defeat 3 Kathryne Keyron", 
+Description = {"Defeat 3 Kathryne Keyron in Biolabs 3F, return to Alberta Merchant Guild and receive an examination from the sheep."}
+, Summary = ""}
+, 
+[8353] = {Title = "Deliver Receipt to Masha", 
+Description = {"Deliver the receipt to Masha, who works in the employment department at the Alberta Merchant Guild."}
+, Summary = "Receipt Delivered"}
+, 
+[8354] = {Title = "Request from the Vending Shop Management Center", 
+Description = {"To hire a Sales/Purchase part-timer, you must have an employment certificate issued by the Merchant Guild. Once a day, complete a quest from Masha of the Merchant Guild, then you can get a different grade of employment certificate depending on the difficulty of the quest. Solve the quest to hire your staffer."}
+, Summary = ""}
+, 
+[291094] = {Title = "Capture Escaped Slave", 
+Description = {"Capture 5 Escaped Slave and report to <NAVI>[Little Loli Ruri]<INFO>comodo,238,179,0,101,0,</INFO></NAVI>"}
+, Summary = "Capture 5 Escaped Slave"}
+, 
+[291095] = {Title = "Help Little Loli Ruri", 
+Description = {"You have completed the daily quest. This is available once a day and reset at 4 am."}
+, Summary = "Reset at 4 am"}
+, 
+[291115] = {Title = "Try Again!", 
+Description = {"You have failed the quiz... Please try again after 30 minutes."}
+, Summary = "Try again after 30 minutes"}
+, 
+[291116] = {Title = "Congratulations!", 
+Description = {"You have passed the quiz! Please try again tomorrow!"}
+, Summary = "Reset at 4 am"}
+, 
+[8401] = {Title = "At the King\'s Heel", 
+Description = {""}
+, Summary = "Enter Dungeon"}
+, 
+[8402] = {Title = "Tomorrow at the King\'s Heel : Waiting", 
+Description = {"I don\'t want to see the cards anymore. But I think I\'ll change my mind tomorrow! Let\'s go talk to <NAVI>[Dr. Magnatum]<INFO>verus04,79,114,0,101,0</INFO></NAVI> again tomorrow."}
+, Summary = "Resets at 4 am", CoolTimeQuest = 1}
+, 
+[8527] = {Title = "Delay Insurance: EXP Card and step", 
+Description = {"If you defeat 50 wild Steps and EXP Cards within the Summoning Room, you can receive your reward from the board over by Summoning Room exit."}
+, Summary = ""}
+, 
+[8528] = {Title = "Delay Insurance - Standby", 
+Description = {"Delay Insurance re-registration cannot be instantly processed. Please wait and try again."}
+, Summary = "Resets at 4 am"}
+, 
+[8529] = {Title = "Master of the King\'s Heel", 
+Description = {""}
+, Summary = ""}
+, 
+[8538] = {Title = "Tomorrow at the King\'s Heel", 
+Description = {"I never want to see another card again... But maybe I\'ll feel differently tomorrow! Let\'s go talk to Dr. Magnatum again tomorrow."}
+, Summary = "Resets at 4 am"}
+, 
+[12368] = {Title = "Operate the old robot", 
+Description = {"Let\'s obtain Old Fuel Tank to activate the old robot. It seems to be huntable in the <NAVI>[Lab Building]<INFO>verus01,238,58,0,101,0</INFO></NAVI> and <NAVI>[Research Building]<INFO>verus02,72,28,0,101,0</INFO></NAVI>."}
+, Summary = "Obtain 1 Old Fuel Tank"}
+, 
+[291106] = {Title = "Merry Christmas!", 
+Description = {"Collect Fractal and look for <NAVI>[Nyajit]<INFO>xmas,142,117,0,0</INFO></NAVI>."}
+, Summary = "Reset at 4 am"}
+, 
+[291107] = {Title = "Stamp Rally Cooldown", 
+Description = {"Reset at 4am"}
+, Summary = ""}
+, 
+[291108] = {Title = "Stamp Rally - Miho", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Miho]<INFO>gef_fild07,180,242,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291109] = {Title = "Stamp Rally - Emma", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Emma]<INFO>ama_fild01,169,325,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291110] = {Title = "Stamp Rally - Ques", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Ques]<INFO>payon,144,232,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291111] = {Title = "Stamp Rally - Luca", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Luca]<INFO>mjolnir_04,166,196,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291112] = {Title = "Stamp Rally - Qiqi", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Qiqi]<INFO>comodo,185,165,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291113] = {Title = "Stamp Rally - Zayden", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Zayden]<INFO>ra_temple,124,154,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291114] = {Title = "Stamp Rally - Shirlene", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Shirlene]<INFO>lighthalzen,204,168,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291115] = {Title = "Stamp Rally - Meow", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Meow]<INFO>pay_fild04,255,201,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291116] = {Title = "Stamp Rally - Miru", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Miru]<INFO>yuno,153,315,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291117] = {Title = "Stamp Rally - Bunnylicious", 
+Description = {"Let\'s collect the Lucky Pouch from <NAVI>[Bunnylicious]<INFO>pay_fild08,150,156,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291118] = {Title = "Lucky Pouch Collected", 
+Description = {"Let\'s return to <NAVI>[Kyoya]<INFO>amatsu,107,149,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[291119] = {Title = "New Year Blessing Cooldown", 
+Description = {"Reset at 4am"}
+, Summary = ""}
+, 
+[291120] = {Title = "Fortune Cookie Cooldown", 
+Description = {"Reset at 4am"}
+, Summary = ""}
+, 
+[291129] = {Title = "Defeat Party Wrecker - Stand By", 
+Description = {"You can only defeat 10 Party Wrecker per day."}
+, Summary = "Reset at 4 am"}
+, 
+[291130] = {Title = "Defeat Party Wrecker", 
+Description = {"Defeat Party Wrecker and return to <NAVI>[Shallot]<INFO>prontera,156,229,0,101,0</INFO></NAVI>."}
+, Summary = "Defeat 1 Party Wrecker"}
+, 
+[291131] = {Title = "1st Anniversary Event - Collecting Alphabet", 
+Description = {"Defeat monsters and collect the alphabet: GGH ANNIVERSARY and return to <NAVI>[CM Miko]<INFO>prontera,158,229,0,101,0</INFO></NAVI>."}
+, Summary = "Collect the alphabet"}
+, 
+[291132] = {Title = "1st Anniversary Event - Cooldown", 
+Description = {"After 4 am return to <NAVI>[CM Miko]<INFO>prontera,158,229,0,101,0</INFO></NAVI> for new quest."}
+, Summary = "Reset at 4 am"}
+, 
+[291133] = {Title = "1st Anniversary Event - Find GMs", 
+Description = {"Find all GMs in Payon Field and return to <NAVI>[CM Emi]<INFO>prontera,160,229,0,101,0</INFO></NAVI>."}
+, Summary = "Find all GMs"}
+, 
+[291134] = {Title = "1st Anniversary Event - Find GMs Cooldown", 
+Description = {"After 4 am return to <NAVI>[CM Emi]<INFO>prontera,160,229,0,101,0</INFO></NAVI> for new quest."}
+, Summary = "Reset at 4 am"}
+, 
+[291135] = {Title = "1st Anniversary Event - Found GM Zenith", 
+Description = {"You have found GM Zenith in Payon Field. For hints on the other GMs, talk to <NAVI>[CM Emi]<INFO>prontera,160,229,0,101,0</INFO></NAVI>."}
+, Summary = "You have found GM Zenith"}
+, 
+[291136] = {Title = "1st Anniversary Event - Found GM Comet", 
+Description = {"You have found GM Comet in Payon Field. For hints on the other GMs, talk to <NAVI>[CM Emi]<INFO>prontera,160,229,0,101,0</INFO></NAVI>."}
+, Summary = "You have found GM Comet"}
+, 
+[291137] = {Title = "1st Anniversary Event - Found GM Ghostring", 
+Description = {"You have found GM Ghostring in Payon Field. For hints on the other GMs, talk to <NAVI>[CM Emi]<INFO>prontera,160,229,0,101,0</INFO></NAVI>."}
+, Summary = "You have found GM Ghostring"}
+, 
+[291138] = {Title = "1st Anniversary Event - Found GM Incubus", 
+Description = {"You have found GM Incubus in Payon Field. For hints on the other GMs, talk to <NAVI>[CM Emi]<INFO>prontera,160,229,0,101,0</INFO></NAVI>."}
+, Summary = "You have found GM Incubus"}
+, 
+[291139] = {Title = "Try Again!", 
+Description = {"You have failed the quiz... Please try again after 10 minutes."}
+, Summary = "Try again after 10 minutes"}
+, 
+[291140] = {Title = "Congratulations!", 
+Description = {"You have passed the quiz! Please try again tomorrow!"}
+, Summary = "Reset at 4 am"}
 }
 

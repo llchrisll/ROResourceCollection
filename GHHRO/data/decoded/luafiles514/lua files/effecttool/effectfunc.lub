@@ -28,6 +28,12 @@ ReadEmitterInfoz = function(tablename)
       if v.rotate_angle ~= nil then
         SetEmitterInfo(k, MSG_SET_ROTATE_ANGLE, (v.rotate_angle)[1], (v.rotate_angle)[2], (v.rotate_angle)[3])
       end
+      if v.eternity ~= nil then
+        SetEmitterInfo(k, MSG_SET_ETERNITY, (v.eternity)[1])
+      end
+      if v.scale ~= nil then
+        SetEmitterInfo(k, MSG_SET_SCALE, (v.scale)[1], (v.scale)[2])
+      end
       SetEmitterInfo(k, MSG_SET_INIT)
     end
   end
@@ -174,6 +180,45 @@ ReadEffectInfoz = function(tablename)
       SetOtherEffectInfo((v.Type)[1], (v.ID)[1], MSG_SET_HEIGHT19, (v.Height19)[1])
       SetOtherEffectInfo((v.Type)[1], (v.ID)[1], MSG_SET_HEIGHT20, (v.Height20)[1])
       SetOtherEffectInfo((v.Type)[1], (v.ID)[1], MSG_SET_INIT)
+    end
+  end
+end
+
+ReadEZ2STRInfoz = function(tablename)
+  -- function num : 0_6
+  local t = _G[tablename]
+  if t ~= nil then
+    for k,v in pairs(t) do
+      SetEZ2STRInfo(k, MSG_SET_STR_FILENAME, v.str)
+      SetEZ2STRInfo(k, MSG_SET_RENDER_FLAG, v.rednerflag)
+      if v.scaleratio ~= nil then
+        SetEZ2STRInfo(k, MSG_SET_SCALE_RATIO, v.scaleratio)
+      end
+      if v.alpharatio ~= nil then
+        SetEZ2STRInfo(k, MSG_SET_ALPHA_RATIO, v.alpharatio)
+      end
+    end
+  end
+end
+
+ReadWindEffectInfoz = function(tablename)
+  -- function num : 0_7
+  local t = _G[tablename]
+  if t ~= nil then
+    for k,v in pairs(t) do
+      SetWindEffectInfo(k, MSG_SET_POS, (v.pos)[1], (v.pos)[2], (v.pos)[3])
+      SetWindEffectInfo(k, MSG_SET_NUMBER, v.particleNum)
+      SetWindEffectInfo(k, MSG_SET_COLOR, (v.color)[1], (v.color)[2], (v.color)[3], (v.color)[4])
+      SetWindEffectInfo(k, MSG_SET_SIZE, v.radius)
+      SetWindEffectInfo(k, MSG_SET_RISEANGLE, v.thickness)
+      SetWindEffectInfo(k, MSG_SET_HEIGHT0, v.height)
+      SetWindEffectInfo(k, MSG_SET_SPEED, v.speed)
+      SetWindEffectInfo(k, MSG_SET_FDA, v.fullAngle)
+      SetWindEffectInfo(k, MSG_SET_ROTATE_ANGLE, (v.rotateVector)[1], (v.rotateVector)[2])
+      SetWindEffectInfo(k, MSG_SET_SRCMODE, v.srcMode)
+      SetWindEffectInfo(k, MSG_SET_DESTMODE, v.destMode)
+      SetWindEffectInfo(k, MSG_SET_TEXTURE, v.texture)
+      SetWindEffectInfo(k, MSG_SET_INIT)
     end
   end
 end

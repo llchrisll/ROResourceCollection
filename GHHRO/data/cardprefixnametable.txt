@@ -510,29 +510,26 @@
 4532#Sprinting#
 4533#Blinding#
 4534#Water Bomb#
-4991#Carefree#
-4998#of Valor#
-4999#of Aegis#
-4545#Novice#
+
 //-----영웅의 흔적2
-4560#of Bragi#
-4561#of Magic Protection#
-4562#of penetrating#
-4563#of acid#
-4564#of gentleman#
-4565#of grand cross#
-4566#of lucky#
-4567#of Bard#
-4568#of Gnosis#
-4569#of Origin#
-4570#of fast recovery#
-4571#of Bind#
-4572#of Solidity#
-4573#of Dancer#
+4560#Bragi's#
+4561#Magic Protection#
+4562#Penetrating#
+4563#Acid#
+4564#Gentleman's#
+4565#Grand Cross#
+4566#Lucky#
+4567#Bard's#
+4568#Gnosis'#
+4569#Origin#
+4570#Fast Recovery#
+4571#Bind#
+4572#Solidity#
+4573#Dancer's#
 4574#Sword Master#
 4575#Short Cut#
 4576#Educe#
-4577#Psychic#
+4577#Volonte#
 4578#Fear#
 4579#Morning Star#
 4580#of Devilish#
@@ -552,35 +549,22 @@
 4594#of Death Blow#
 4595#of Acid#
 4596#of Intellectual#
-4597#of Water#
-4598#of Telekinesis#
-4599#of Fire#
-4600#of Ground#
+4597#Water#
+4598#Ghost#
+4599#Fire#
+4600#Earth#
 4601#of Explosion#
 4602#of Fury#
 4603#of Evil Spirit#
 4604#of Evil God#
 4605#of Hunger#
 4606#of Revenge#
-4607#of Librarian#
+4607#Librarian's#
 4556#Power Ward#
 4557#of Spell Power#
 // 2013년 2월_마신전메모리얼
 4559#Blitz#
-//--- hero trail 3
-4610#of Protection#
-4939##
-4940##
-4941##
-4942##
-4943##
-4944##
-4945##
-4946##
-4947##
-4948##
-4949##
-4950##
+
 4652#Punishment#
 4653#Undead_Animal#
 4654#Tomb_Raider#
@@ -596,18 +580,6 @@
 4630#Time_Keeper's#
 4631#Nimble#
 4632#Voltaic#
-27012#Active_Protection#
-27013#Balkan#
-27014#Mirage#
-27015#Restore#
-27016#All_Scanning#
-27017#Tempur#
-27018#Overclocking#
-27019#Debugging#
-27020#system-error#
-4697#Overload#
-4698#Boomerang#
-4699#Dual_Cannon#
 4659#Adventurer's#
 4660#Strong will#
 4661#Toughness#
@@ -649,5 +621,133 @@
 4591#Blood red#
 4592#Petrified#
 
+// EP 14.3
+
+4908#Intense#
+4909#Intense#
+4910#Intense#
+4911#Intelligent#
+4912#Intelligent#
+4913#Intelligent#
+4914#Agile#
+4915#Agile#
+4916#Agile#
+4917#Durable#
+4918#Durable#
+4919#Durable#
+4920#Skillful#
+4921#Skillful#
+4922#Skillful#
+4923#Fortunate#
+4924#Fortunate#
+4925#Fortunate#
+
+//에피소드14.3 모로크카드
+27325#Muspell Heim#
+27326#Ruinous#
+27327#Reaper Ankou#
+27321#Demonic#
+27328#Fallen life#
+27322#Overpowered#
+27323#Tuner#
+27324#Brinaranea#
+27026#Burning#
+27027#Flaming#
+27028#Blazing#
+27029#Flame Eater#
+27030#Fire Bug#
+27106#Musician's#
+27107#Dancing#
+27108#Singing#
+27109#Jitterbug's#
+
 //Item ID test
 300000#Test#
+
+//7월 영웅의 흔적 파트1
+27163#of Abranchia#
+27164#Coya#
+27165#of Avian#
+27166#Frio#
+27167#Glacial#
+27168#of Padre#
+27169#Infante#
+
+//8월 영웅의흔적 파트2,3
+4556#Power Ward#
+4557#of Spell Power#
+4610#Protection#
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Onslaught#
+27184#Salvation#
+27249#Archi#
+27250#Anemos#
+27251#Gangster#
+27252#Thug#
+27253#Thief#
+27254#Pa Monk#
+27255#Ordre#
+27256#Hase#
+27257#Akuma#
+27258#Ipodus#
+27259#Rechenier#
+27260#Odorico#
+27261#Jew#
+27262#D.Y#
+27263#Fei Kanabian#
+27264#of Evil Shadow#
+27265#Evil Fanatic#
+
+//8월19일 
+4488#of Half Doom#
+4489#of Half Kirin#
+4492#Half Neutral#
+4497#Half Storm-Bringer#
+4498#Half Mana Pool#
+4500#Half Mirror#
+4504#Half Bearer's#
+4538#Half Life Stream#
+27211#Half Scythelike#
+27212#Half Reflect#
+
+//10월 컨텐츠 시계탑나이트메어
+4625#Wise Man's#
+4626#Echo#
+4627#Vibrating#
+4628#of Invisible Horror#
+4629#Skinny#
+4630#of Time Keeper's#
+4631#Mercurial#
+4632#Voltaic#
+
+//11월
+4697#of Overload#
+27012#Active Protection#
+27013#Balkan#
+4698#Boomerang#
+4699#Dual Cannon#
+
+//12월
+27014#Mirage#
+27015#Restore#
+27016#All Scan#
+27017#Tempur#
+27018#Overclock#
+27019#Debug#
+27020#System Error#
+
+//2월 2일 캐시스크롤
+4494#Half Explosive#
+
+//2월16일 캐시스크롤
+4503#of Half Vision Eye#
+
+//3월 16일
+4487#Half Inferno#
+
+//3월 컨텐츠
+4601#Explosive#
+4603#Evil Spirit's#
+4605#Hungry#
+4606#Revenge#

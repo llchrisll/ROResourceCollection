@@ -3347,7 +3347,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.NC_POWERSWING] = {"NC_POWERSWING"; SkillName = "Power Swing", MaxLv = 5, 
-SpAmount = {10, 12, 14, 16, 18}
+SpAmount = {20, 22, 24, 26, 28}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -3493,7 +3493,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.SR_LIGHTNINGWALK] = {"SR_LIGHTNINGWALK"; SkillName = "Lightning Walk", MaxLv = 5, 
-SpAmount = {40, 40, 40, 40, 40}
+SpAmount = {80, 70, 60, 50, 40}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -5011,7 +5011,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.SR_EARTHSHAKER] = {"SR_EARTHSHAKER"; SkillName = "Earth Shaker", MaxLv = 5, 
-SpAmount = {20, 25, 30, 35, 40}
+SpAmount = {36, 40, 44, 48, 52}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -6002,7 +6002,7 @@ SpAmount = {0}
 AttackRange = {1}
 }
 , 
-[SKID.MG_FROSTDIVER] = {"MG_FROSTDIVER"; SkillName = "Frost Driver", MaxLv = 10, 
+[SKID.MG_FROSTDIVER] = {"MG_FROSTDIVER"; SkillName = "Frost Diver", MaxLv = 10, 
 SpAmount = {25, 24, 23, 22, 21, 20, 19, 18, 17, 16}
 , bSeperateLv = false, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
@@ -6101,7 +6101,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.SR_RIDEINLIGHTNING] = {"SR_RIDEINLIGHTNING"; SkillName = "Lightning Ride", MaxLv = 5, 
-SpAmount = {40, 50, 60, 70, 80}
+SpAmount = {22, 24, 26, 28, 30}
 , bSeperateLv = true, 
 AttackRange = {11, 11, 11, 11, 11}
 , 
@@ -6230,7 +6230,7 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.GN_CARTBOOST] = {"GN_CARTBOOST"; SkillName = "Geneticist Cart Boost", MaxLv = 5, 
+[SKID.GN_CARTBOOST] = {"GN_CARTBOOST"; SkillName = "Cart Boost", MaxLv = 5, 
 SpAmount = {20, 24, 28, 32, 36}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
@@ -7560,7 +7560,7 @@ SpAmount = {48, 56, 64, 70, 78}
 AttackRange = {9, 9, 9, 9, 9}
 , 
 _NeedSkillList = {
-{SKID.SA_DISPELL, 1}
+{SKID.SA_DISPELL, 2}
 }
 }
 , 
@@ -8097,7 +8097,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.NC_MAGICDECOY] = {"NC_MAGICDECOY"; SkillName = "FAW Magic Decoy", MaxLv = 5, 
-SpAmount = {40, 45, 50, 55, 60}
+SpAmount = {40, 45, 50, 65, 70}
 , bSeperateLv = true, 
 AttackRange = {2, 2, 2, 2, 2}
 , 
@@ -8229,7 +8229,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.NC_ARMSCANNON] = {"NC_ARMSCANNON"; SkillName = "Arm Cannon", MaxLv = 3, 
-SpAmount = {30, 45, 60}
+SpAmount = {40, 45, 50}
 , bSeperateLv = true, 
 AttackRange = {9, 11, 13}
 , 
@@ -8751,7 +8751,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.GC_DARKILLUSION] = {"GC_DARKILLUSION"; SkillName = "Dark Illusion", MaxLv = 5, 
-SpAmount = {40, 40, 40, 40, 40}
+SpAmount = {20, 25, 30, 35, 40}
 , bSeperateLv = true, 
 AttackRange = {5, 6, 7, 8, 9}
 , 
@@ -8891,7 +8891,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.RK_DEATHBOUND] = {"RK_DEATHBOUND"; SkillName = "Death Bound", MaxLv = 10, 
-SpAmount = {50, 60, 65, 70, 75, 80, 85, 90, 95, 100}
+SpAmount = {28, 31, 34, 37, 40, 43, 46, 49, 52, 55}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
@@ -8980,12 +8980,6 @@ AttackRange = {1, 1, 1, 1, 1}
 SpAmount = {120, 100, 80, 60, 40}
 , bSeperateLv = false, 
 AttackRange = {9, 9, 9, 9, 9}
-}
-, 
-[SKID.GD_EMERGENCYCALL] = {"GD_EMERGENCYCALL"; SkillName = "Urgent Call", MaxLv = 1, 
-SpAmount = {0}
-, bSeperateLv = false, 
-AttackRange = {1}
 }
 , 
 [SKID.ASC_EDP] = {"ASC_EDP"; SkillName = "Enchant Deadly Poison", MaxLv = 5, 
@@ -10118,6 +10112,12 @@ AttackRange = {}
 _NeedSkillList = {
 {SKID.SU_SHRIMPARTY, 5}
 }
+}
+, 
+[SKID.GD_EMERGENCYCALL] = {"GD_EMERGENCYCALL"; SkillName = "Emergency Call", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
 }
 }
 

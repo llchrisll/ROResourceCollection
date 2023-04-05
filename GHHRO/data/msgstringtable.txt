@@ -141,10 +141,10 @@ Ppl#
 [Alt] + [End]: Turns HP/SP Bar On or Off#
 [Alt] + [Home]: Turns Ground Cursor On or Off#
 [Insert]: Makes you sit or stand. (Hotkey to toggle between /sit and /stand)#
-Congratulations! You are the MVP! Your reward item is#
+Congratulations! You are the MVP! Your reward item is #
 !#
-Congratulations! You are the MVP! Your reward EXP points are#
-acquired!#
+Congratulations! You are the MVP! You are rewarded #
+ EXP points!#
 You are the MVP, but you can't take the reward because you are over your weight limit.#
 There is no such character name, or the user is offline.#
  doesn't want to receive your messages.#
@@ -453,9 +453,9 @@ You are prohibited from logging in until %s.#
 's Ice #
 's Wind #
 's Earth #
-38.144.194.2#
+ro.gnjoy.asia#
 6900#
-http://iro.raganrokonline.com#
+ro.gnjoy.asia#
 Kill %s#
 Very Strong #
 Very Very Strong #
@@ -526,7 +526,7 @@ Please enter the reason for expulsion.#
 Please close shop.#
 Skill #
 Item Name#
-https://pay.ragnarok.co.kr (Billing Web)#
+https://www.gnjoy.asia/topup/#
 IP capacity of this Internet Cafe is full. Would you like to pay the personal base?#
 You are out of available paid playing time. The game will be shut down automatically.#
 The name is too long. Please enter a name no longer than 23 English letters.#
@@ -589,7 +589,7 @@ Please avoid opening a chat room while vending.#
 ea#
 You have knocked down %s.#
 You have been knocked down by %s.#
-Feed - `%s' is not available.#
+Feed - '%s' is not available.#
 Feed Pet#
 Performance#
 Return to Egg Shell#
@@ -746,7 +746,7 @@ Setup failure!#
 Continue without adjusting keyboard secure#
 Files to secure the keyboard do not exist \n\n(npkeyc.vxd, npkeyc.sys, npkeycs.sys)#
 Detected a USB keyboard. Do you want to install additional functions to make the \n\n keyboard secure? \n\n(after installing the additional functions, the system must be rebooted)#
-ftp://ragnarok.nefficient.co.kr/pub/ragnarok/ragnarok0526.exe#
+ro.gnjoy.asia#
 FindHack system has not installed successfully. Please download ragnarok0226.exe and set up in the installed folder of Ragnarok.(%d)#
 Although a hacking tool exists, the vaccine process is not operating normally. Ragnarok is not running#
 The hacking tool did not download successfully. Please download ragnarok0226.exe and set up in the installed folder of Ragnarok.#
@@ -853,7 +853,7 @@ Display window docking disabled. [/wi OFF]#
 /pvpinfo: Shows your PVP result and PVP points.#
 You have won %d times and have lost %d times in PVP. Current points %d.#
 A manner point has been successfully aligned.#
-You are in a PK area. Please beware of sudden attack.#
+You are in a PK area. Take care!#
 Failure to update Game Guard because of a virus or spyware attack. Run again after using an antivirus or antispyware program. #
 The program has encountered an error related to Windows compatibility. Please start the game again.#
 You have been blocked from chatting, using skills, and items.#
@@ -1067,7 +1067,7 @@ Auction End Time#
 %m/%d, %H00 PST#
 Time (Hr)#
 Fee#
-No items found in the auction search.#
+Items are not found.#
 Your Sale List is empty.#
 Your Purchase List is empty.#
 The auction information is incorrect or incomplete.#
@@ -1251,8 +1251,8 @@ You will receive 1.5 times more EXP from hunting monsters for the next 30 minute
 This character will not receive any EXP penalty if killed within the next 30 minutes.#
 Regular item drops from monsters will be doubled for the next 30 minutes.#
 Boss Monster Map Information for the next 10 minutes.#
-Do you really want to purchase this item? %d points will be deducted from your total Kafra Credit Points.#
-You do not have enough Kafra Credit Points.#
+Are you sure you want to purchase this item? %d KP will be consumed.#
+Not enough KP.#
 ^ff0000Expiration Date: %s^000000#
 The '%s' item will disappear in %d minutes.#
 '%s' item will be deleted from the inventory in 1 minute.#
@@ -1306,7 +1306,7 @@ Insufficient Skill Level for joining a party#
 [%s]'s Free Cash: %d Cash#
 Use Free Cash: #
 Cash#
-http://payment.ro.hangame.com/index.asp#
+https://www.gnjoy.asia/member/sign-up.php?from=topup#
 You need to accept the Privacy Policy from Gravity in order to use the service.#
 You need to accept the User Agreement in order to use the service.#
 Incorrect or nonexistent ID.#
@@ -1608,7 +1608,7 @@ Someone#
 [%s] received '%d' damage .#
 [%s] inflicted [%s] '%d' damage.#
 %s %d ea dropped#
-[%s] Quest ?defeated [%s] progress (%d/%d)#
+[%s] Quest : Defeat [%s] (%d/%d)#
 [%s] Quest was deleted.#
 [%s] has #
 %d' EXP #
@@ -1626,7 +1626,7 @@ To [%s] #
 Use [%s] skill.#
 Function disabled#
 Function enabled#
-[%s] gave [%s] '%s'.#
+[%s] got a special item from [%s]: '%s'.#
 Swordman#
 Mage#
 Archer#
@@ -1829,7 +1829,7 @@ No list has been found from the search#
 Deletion of advertisement has failed#
 There is no qualified advertisement; therefore the search has failed#
 You don't have any issued payment information#
-Take a screenshot during trading#
+Take a screenshot#
 [Trade_%s]#
 A new insurance certificate has been used automatically due to death#
 Conversation#
@@ -1841,22 +1841,22 @@ Failed to confirm the connection info#
 Unregistered account.#
 Unable to connect due to age limit#
 Purchase#
-Empty shopping cart#
-First page#
-Last page#
+Clear Cart#
+First Page#
+Last Page#
 New#
 Hot#
 Limited#
-Rental#
-Gear#
+Item Rental#
+Item Permanent#
 Buff#
-Heal#
-Other#
+Recover#
+Etc.#
 Price#
-Amount#
-Total#
-Free cash: %s KP#
-Kafra Points: %s KP#
+Quantity#
+EA#
+Free KP : %s C#
+Balance : %s C#
 Unable to summon monsters in this area#
 You have exceeded total free cash#
 Will save set info at [SaveData_ExMacro%d]#
@@ -2069,7 +2069,7 @@ Do not recall the party with the current maps.#
 Summon has been denied.#
 Cannot be summoned.#
 Will be invited to a party.#
-Enter search item:#
+Item to search : #
 You must enter a character name.#
 You must enter the name of the party.#
 Guild Companion#
@@ -2365,7 +2365,7 @@ The number of members#
 Managed territory#
 Clan chat message display#
 Move to the charging page.#
-https://gfb.gameflier.com/Billing/ingame/index_new.asp?#
+ro.gnjoy.asia/#
 Create the character#
 The character name is not correct.#
 Enter the character name#
@@ -2460,7 +2460,7 @@ You can take out over 1 zeny.#
 You cannot have more than 2,100,000,000 zeny.#
 Your account has been locked by a mobile OTP#
 Mobile OTP authorization failed#
-Job EXP from monsters will increase %d%% for %dmins.#
+Job EXP from monsters will increase for %dmins by %d%%.#
 Available zeny: %s zeny#
 zeny#
 You can keep up to 214,748,364,700,000,000 zeny here.#
@@ -2469,17 +2469,17 @@ Even if you put in more than 1,000,000,000 zeny, it will be sold as 1,000,000,00
 AuthTicket is Not Valid#
 ErrorCode: %d, ErrorValue: %d#
 %d%% (Basic 100%% + Premium %d%% + Internet Caf?%d%% + %s Server %d%%)#
-Basic item drop rate from monster hunting is increased for %dmins by %dtimes.#
+Basic item drop rate increased for %dmins by %d%%.#
 Basic item drop rate from monster hunting is increased for %dhours %.2dmins by %dtimes.#
-%s's price#
-100,000,000#
-^ff0000%d^0000ffmilion#
-10,000,000#
-^ff0000%d^0000ff0,000,000#
-It is more than ^0000ffzeny^000000.\n Is it correct?#
+%s is registered, #
+100000000#
+^ff0000%d00^0000ff #
+10000000#
+and ^ff0000%d0^0000ff #
+million above ^0000ffzeny^000000 is set.\nPlease check.#
 Safe check for over 10,000,000 zeny#
-https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
-https://kepler.warpportal.com/ro1/purchase/?step=1&steamid=%lld&accountname=#
+ro.gnjoy.asia/#
+ro.gnjoy.asia/#
 2483#
 In their efforts to continue to trace the path of Satan Morroc, brave Adventurers crossed the legendary Bifrost Bridge and discovered a lost city, Eclage.#
 There, they found that the Laphines of Eclage had been completely separated from their brothers in Splendide because of the Hazy Forest Labyrinth.#
@@ -2500,32 +2500,32 @@ Other guild members are using it. Please try again later.#
 Storage authority#
 Guild storage#
 You have no right to use guild storage.#
-Limited item sales registration window#
-Item DB name#
-Item DB no.#
-Sales count#
-Sales start time#
-Sales time#
-Please indicate the amount you want to sell.#
-Please indicate the sales start time.#
-The sales start time range is not suitable.#
-Please indicate the sales time.#
-Please indicate the Item DB name.#
-Item ID check has failed. Please try again.#
->> ItemName: %s / Price: %dc / Count: %d / Sales period: %d:%d:%d:%d ~ %d:%d:%d:%d#
-It has been successfully registered.#
-It has failed to register. Please try again later.#
-There is an item already registered. Please try again.#
-The item has not been removed. Please try again.#
-%s item has been removed.#
-Special#
-Flash sale item count renew#
-Sales closed#
-The item count should be renewed#
-There are not enough items, so %d items have been purchased.#
-%s item's flash sale has started.#
-%s item is out of stock, or the sale period has finished.#
-/limited sales#
+Limited Purchase Registration#
+Item DB#
+Item DB Number#
+Item Quantity#
+Sale Start Time#
+Sale Period#
+Set the item quantity#
+Set the sale start time#
+Invalid sale start time#
+Set the sale period#
+Input the Item DB Name#
+Fail to search Item DB Name. Please double check and try again#
+>> Item DB Name: %s / Amount: %d / Sales Duration: %02d Month: %02d Day: %02d Hr: %02d Min ~ %02d Month: %02d Day: %02d Hr: %02d Min End: Date: %02d/%02d Time: %02d:%02d#
+Successfully registered#
+Faild to register. Please try again.#
+Item is already registered. Please try again.#
+Failed to delete the item. Please try again.#
+%s has been deleted.#
+Special Sale#
+Modify Limited Purchase Item Quantity#
+End Sale#
+Requires quantity modification#
+Due to not enough stock you can ONLY purchase %d#
+%s is available in cash shop for special sale#
+Limited sale has been ended as %s is sold out or sale period has ended#
+/Limited#
 http://www.ragnarokeurope.com/news/home-r70.html#
 http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
 Successfully purchased list#
@@ -2563,10 +2563,10 @@ A grenade launcher type should be equipped.#
 A skill effect such as [Hit Barrel], [Madness Canceler], or [Platinum Altar] cannot be duplicated for use.#
 This skill cannot be used in this map.#
 When you are using guild storage, all the items in storage will disappear.#
-http://ragnarok.gamesamba.com/#
+ro.gnjoy.asia/#
 Enter your password to log in#
 Pet evolution#
-Evolution ?%s#
+Evolution - %s#
 You need the following materials to evolve.#
 Would you like to evolve it?#
 Unknown error#
@@ -2576,7 +2576,7 @@ There are not enough evolution materials.#
 You are short of evolution materials.#
 The pet can be evolved only under Loyal status.#
 Auto-feeding#
-The pet has been fed. \'%s\' Remaining: %d#
+The pet has been fed. '%s' Remaining: %d#
 Auto-feeding activated.#
 Auto-feeding inactivated.#
 Renewed#
@@ -2778,7 +2778,7 @@ Withdraw#
 1 z Down#
 Max#
 No input#
-Short of zeny#
+Not enough Zeny#
 Needs input#
 Cannot input characters#
 Over the maximum input#
@@ -2812,12 +2812,12 @@ DROP: %.1f%% (Basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DEATH: %.1f%% (Basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 You cannot use that as a name.#
 Styling shop#
-No coupons. Purchase items in the cash shop#
-Please open the item coupon box in the inventory.#
-Do you want to delete it?#
-No more slots. Please remove some items in Bookmarks.#
-Do you want to buy the current style?\n(?? You cannot receive a refund.)#
-The current style saved.#
+No Coupon. Please purchase the item from the Cash Shop.#
+Please open the item from the box.#
+Are you sure you want to delete current pre-set?#
+Slot is full. Please delete the pre-set in Wardrobe.#
+Are you sure you want to purchase the current style?\n(The price will not be refunded.)#
+Current style has been saved.#
 Not enough zeny on hand. There are enough zeny in the zeny stash.#
 moving ...#
 You are not allowed to fly over the sovereign airspace of the country.#
@@ -2833,8 +2833,8 @@ Accessory#
 Second costume#
 Wardrobe#
 This hairstyle cannot be dyed.#
-Press an arrow to choose the style you want.#
-Come and see the new styles.\n(?? Purchased accessories will be sent via RODEX.)#
+Select the style by pressing the arrow icons.#
+Successfully purchased!\n(Accessory will be sent to RODEX.)#
 Basic style#
 You can level up the skill from the base Lv. %d.#
 You cannot use that special character as a name.#
@@ -2894,7 +2894,7 @@ EXP: %.1f%% (basic %.1f%% %s %.1f%%)#
 DROP: %.1f%% (basic %.1f%% %s %.1f%%)#
 DEATH: %.1f%% (basic %.1f%% %s %.1f%%)#
 Sent to the renamed character. Changed the character name: %s #
-Necessary materials to combine#
+Combined Materials Needed#
 Not enough materials to combine.#
 %d number of materials required.#
 Not enough refined grade to combine.#
@@ -2904,7 +2904,7 @@ Please enter the characters from the image.#
 %d second(s) remaining#
 Please enter the 6-digit OTP.#
 Auth. No.#
-Not the 6 digits. Please check again#
+Incorrect 6 digits. Please check again#
 It's been deleted.#
 Please select the destination for the private flight.#
 EXP: %d%% (basic 100.0%% %s %d%%)#
@@ -2916,7 +2916,7 @@ Moving to destination.#
 Do you want to vend a shop at this place?#
 Doram race cannot wear the costume.#
 The item has been sent to RODEX.#
-30,000 z#
+30,000 Zeny#
 100 Malangdo Special Can#
 Cannot proceed because the weight has reached 80%.#
 Unsold item has been sent to RODEX.#
@@ -2924,12 +2924,12 @@ Preview#
 Entrust guild master#
 Do you really want to entrust the guild master to %s? To proceed, your guild position will be exchanged with %s.#
 Cancel#
-Do you want to close the shop??#
+Do you want to close the shop?#
 %02dDay(s) %02dHour(s) %02dMinutes(s) %02dSecond(s)#
 No connection#
 The connection is full.#
 Please select the place where you want to vend a shop.#
-Changing your Pet name to ^0000ff^0000ff %s^000000^000000. Do you want to proceed?#
+Changing your Pet name to ^0000ff^0000ff%s^000000^000000. Do you want to proceed?#
 Trade date: #
 Trade item: #
 Trade quantity: #
@@ -2941,12 +2941,12 @@ Close vending sales agent#
 Close vending purchase agent#
 Balance:#
 Item list:#
-Vending agent#
+Vending Agent#
 Returned item:#
 Returned quantity:#
 Returned date:#
 Trading amount has been sent to RODEX.#
-Not available name.#
+This name is not available.#
 Item has arrived.#
 Thanks for purchasing.#
 Cannot sell to NPC.#
@@ -3018,7 +3018,7 @@ Human#
 Swordman, Mage, Merchant, Acolyte, Thief, Archer, Expanded Classes#
 Doram#
 Summoner#
-Dominant People of Rune-Midgarts. With great potential and adaptability, they have settled all over the world.#
+Dominant People of Rune Midgard. With great potential and adaptability, they have settled all over the world.#
 From the far-star continent with natural-born curiosity and a lively disposition.#
 The weight limit has exceeded 70%. Or fewer than 10 inventory spaces left.#
 C#
@@ -3026,7 +3026,7 @@ C#
 Engaged in another activity.#
 Overheat limit: %d#
 You cannot invite or withdraw from a party while in the memorial dungeon.#
-An expletive has been detected. Please check again.#
+Expletives detected! Please check again.#
 Please enter more than %d characters. If you don't have a user account, please click the [Register] button on the bottom left.#
 Please enter a password of more than %d characters.#
 Please finish your current job and try again.#
@@ -3139,10 +3139,10 @@ Cash Shop#
 Sit#
 Move#
 Turn#
-The Guild Leader cannot leave the guild; it is necessary to designate another character as the guild leader first#
+The Guild Leader cannot leave the guild; it is necessary to find a replacement first#
 Do you want to stop video playing? #
-Equip equipment in the equipment window#
-Remove equipment in the equipment window#
+ has been equipped on equipment switch window#
+ has been removed from equipment switch window#
 Last line at current#
 %.1f%% (basic 100%% + premium %.1f%%+ %s server %.1f%%)#
 Chinese character#
@@ -3219,16 +3219,16 @@ Position on click will be shown in the chat window#
 Sharing Mode -> Use when returning to search mode#
 Get EXP %lld#
 EXP '%lld'#
- = Fee rate : ^1567fe0%^000000\n10,000,001 z ~ 100,000,000 z\n = Fee rate : ^1567fe5%^000000\nmore than 100,000,001 z\n = Fee rate : ^1567fe5%^000000\n#
+^b- Vending Fee^/b\nA fee is imposed depending on the price of the item.\n\n^b> Fee Rate^/b\nBelow is the list of the Fee rate.\n\n10,000,000 zeny or less\n= Fee Rate : ^1567fe0%^000000\n10,000,001 zeny or more\n= Fee Rate : ^1567fe5%^000000\n#
 Selling Price: #
-?? When selling items, you will get zeny as shown#
-?? When buying items, you will lose zeny as shown#
+When selling items, you will get zeny as shown#
+When buying items, you will lose zeny as shown#
 Open the Chat Room#
 Your character level is insufficient to join the party#
 JOB EXP '%lld' #
 Get JOB EXP %lld #
 Unable to open vending on the main street#
-Try again in a few moments#
+ seconds later. Please try again#
 Party member#
 Sending SNS fail(%d)#
 Connection to the SNS server failed#
@@ -3282,7 +3282,7 @@ Unable to giving food to the Homunculus while the RODEX window is open#
 The Homunculus has eaten food \'%s\' amount left: %d#
 Auto-Giving Food to Homunculus On#
 Auto-Giving Food to Homunculus Off#
-The Homunculus gets 10% of EXP gained by the player.#
+ #
 Probability: %d%%#
 This is not a target for a Homunculus; use \'Alt + Right Click\' to choose a target for a Homunculus#
 Not a target for a Homunculus; \'Alt + Right Click\' to choose a target for a Homunculus#
@@ -3299,7 +3299,7 @@ Etc.#
 Bargain#
 Top up#
 Purchase#
-https://roextreme.com/msp/topup#
+https://www.gnjoy.asia/member/sign-up.php?from=topup#
 Search Item#
 Free KP#
 Use free KP#
@@ -3311,7 +3311,7 @@ Star Emperor (male)#
 Soul Reaper (male)#
 When the weight is more than %d %, HP/SP will not automatically restore#
 You can purchase up to 8 different items at a time#
-http://gift.zhaouc.com/#
+ro.gnjoy.asia#
 UNKNOWN ERROR: %d#
 NOT THE CORRECT USER#
 THIS ACCOUNT ID IS BLOCKED#
@@ -3443,7 +3443,7 @@ Unable to search with inappropriate language#
 Party master unable to get request#
 Unable to find party#
 Dealer#
-http://ro.gnjoy.com#
+ro.gnjoy.asia#
 up#
 down#
 Already in the friend list#
@@ -3511,7 +3511,7 @@ Zoom Out#
 %s: able to open or close Zoom Out: On Off#
 Open Zoom Out (On)#
 Close Zoom Out (Off)#
-/ zoom#
+/zoom#
 Adventurer Team#
 If you are the party leader, you are unable to ask for a request#
 The maximum level condition required to join the party must more than the minimum level condition#
@@ -3551,7 +3551,7 @@ Search#
 Feeding pet failed, unable to feed pet#
 Feeding Homunculus failed, unable to feed#
 Money#
-%s % ea#
+%s %d ea#
 Trading Failed#
 Trading Succeeded#
 Items are not enough to trade#
@@ -3579,7 +3579,7 @@ Record Map Name#
 System message: Function watching vending current is in state %s (/Watching vending)#
 Vertical synchronization#
 Material#
-http://rodata.zhaouc.com/renwu.html#
+ro.gnjoy.asia#
 Ranking#
 Limit Frame#
 If it is more than %d ea, unable to be equipped#
@@ -3655,13 +3655,13 @@ Total Sales#
 Starting Time Sales#
 Ending Time Sales#
 Account Limited#
-Sales Duration: Month %d Date %d %d o'clock %d Minutes#
-Amount of buying per account#
+Start: Date: %02d/%02d Time: %02d:%02d#
+Amount#
 Limit %d ea#
->> ItemName: %s /  Amount: %d / Sales Duration: Month %d:Date%d:%do'Clock:%d Minutes ~ Month%d:Date%d:%do'Clock:%dMinutes#
+>> Item DB Name: %s / Amount: %d / Sales Duration: %02d Month: %02d Day: %02d Hr: %02d Min ~ %02d Month: %02d Day: %02d Hr: %02d Min#
 Sold Out#
 [%s] can be called in this place#
-~ Month%d: %dDate:%do'Clock:%dMinutes#
+End: Date: %02d/%02d Time: %02d:%02d#
 Unable to add items for selling#
 An equipped item cannot be exchanged; please try again after un-equipping#
 You can't move to a character selection window while using Guild Storage#
@@ -3681,7 +3681,7 @@ Balance: %s %c#
  ^ff0000You can cancel your purchase within 7 days after purchase; if 7 days have passed or you have already open the item, you cannot cancel the purchase. Free cash used will not be returned when canceling a purchase^000000 Do you want to buy this item? If you buy, the transaction will deduct %s cash#
  ^ff0000You can cancel your purchase within 7 days after purchase; if 7 days have passed or you have already open the item, you cannot cancel the purchase. Free cash used will not be returned when canceling a purchase^000000 Do you want to buy this item? If you buy, the transaction will deduct %s cash and free cash#
 Calling is canceled#
-?The total sales shouldn't exceed your current amount of zeny#
+The total sales shouldn't exceed your current amount of zeny#
 Can't open store; please close#
 Record item vending sales list#
 Finish record item vending sales list#
@@ -3772,7 +3772,7 @@ AP of target is at the maximum#
  ^ff0000You can cancel your purchase within 7 days after buying the item; if 7 days have passed or the item has been opened, you are unable to cancel the purchase. Also, free cash will not be returned if you cancel the purchase of an item (event)#
  ^ff0000You can cancel your purchase within 7 days after buying the item; if 7 days have passed or the item has been opened, you are unable to cancel the purchase. Also, free cash will not be returned if you cancel the purchase of an item (event)#
 Required Servant Weapon %d ea#
-https://member.gnjoy.com.tw/billing.aspx#
+https://www.gnjoy.asia/topup/#
 Reverse sort#
 Input detail to search#
 Search#

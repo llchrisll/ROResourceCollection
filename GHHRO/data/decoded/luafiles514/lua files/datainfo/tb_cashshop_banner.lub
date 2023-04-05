@@ -4,11 +4,19 @@
 -- params : ...
 -- function num : 0
 tb_cashshop_banner = {
-[1] = {"2020-09_benatural.bmp", "https://roextreme.com/msp/news/early-month-first-refill-september2020"}
+[1] = {"01_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/index.php?type=2&txtcari=refine"}
 , 
-[2] = {"2020-09_bepsycho.bmp", "https://roextreme.com/msp/news/mid-month-first-refill-september2020"}
+[2] = {"02_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=403"}
 , 
-[3] = {"2020-09_poringpack.bmp", "https://roextreme.com/msp/news/patch-notes-03092020"}
+[3] = {"03_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=407"}
+, 
+[4] = {"04_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/index.php?type=3&txtcari=Egg"}
+, 
+[5] = {"05_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=393"}
+, 
+[6] = {"06_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=379"}
+, 
+[7] = {"07_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=369"}
 }
 set_cashshop_banner = function()
   -- function num : 0_0

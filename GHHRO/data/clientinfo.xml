@@ -13,8 +13,35 @@
 		<address>18.136.20.146</address>
 		<port>6900</port>
 		<version>15</version>
-		<registrationweb></registrationweb>
+		<registrationweb>https://www.gnjoy.asia/member/sign-up.php</registrationweb>
 		<aid>
+			<admin>137151</admin>
+			<admin>137152</admin>
+			<admin>137153</admin>
+			<admin>137154</admin>
+			<admin>137155</admin>
+			<admin>137156</admin>
+			<admin>137157</admin>
+			<admin>137158</admin>
+			<admin>137159</admin>
+			<admin>137160</admin>
+			<admin>137161</admin>
+			<admin>137162</admin>
+			<admin>137163</admin>
+			<admin>137164</admin>
+			<admin>137165</admin>
+			<admin>137166</admin>
+			<admin>228582</admin>
+			<admin>228598</admin>
+			<admin>230296</admin>
+			<admin>230300</admin>
+			<admin>228597</admin>
+			<admin>228588</admin>
+			<admin>230302</admin>
+			<admin>228580</admin>
+			<admin>228593</admin>
+			<admin>251586</admin>
+			<admin>251587</admin>
 		</aid>
 	</connection>
 </clientinfo>

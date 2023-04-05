@@ -923,6 +923,62 @@ pvp_y_room.rsw#bgm\\52.mp3#
 pvp_2vs2.rsw#bgm\\02.mp3#
 pvp_room.rsw#bgm\\52.mp3#
 
+// 에피소드 14.3 //
+1@dth1.rsw#bgm\\157.mp3#
+1@dth2.rsw#bgm\\157.mp3#
+1@dth3.rsw#bgm\\157.mp3#
+1@rev.rsw#bgm\\158.mp3#
+moro_vol.rsw#bgm\\159.mp3#
+moro_cav.rsw#bgm\\159.mp3#
+1@jtb.rsw#bgm\\160.mp3#
+1@eom.rsw#bgm\\156.mp3#
+
+
 //-크리스마스 이벤트 신규 추가 맵 BGM
 niflxmas.rsw#bgm\\54.mp3#
 l_k.rsw#bgm\\44.mp3#
+
+dali02.rsw#bgm\\60.mp3#
+//화산섬 코로도
+1@crd.rsw#bgm\\62.mp3#
+
+// 7월 국수 축제
+lasa_sea.rsw#bgm\\93.mp3#
+1@drdo.rsw#bgm\\99.mp3#
+
+//8월 영웅의흔적 파트2
+1@tnm1.rsw#bgm\\102.mp3#
+1@tnm2.rsw#bgm\\113.mp3#
+1@tnm3.rsw#bgm\\112.mp3#
+1@ge_st.rsw#bgm\\103.mp3#
+1@gef.rsw#bgm\\13.mp3#
+1@gef_in.rsw#bgm\\13.mp3#
+1@spa.rsw#bgm\\117.mp3#
+//8월 영웅의흔적 파트3
+1@air1.rsw#bgm\\87.mp3#
+1@air2.rsw#bgm\\87.mp3#
+1@glast.rsw#bgm\\95.mp3#
+
+//9월15일 포링섬
+poring_tw.rsw#bgm\\105.mp3#
+
+//10월 컨텐츠 시계탑 나이트메어
+c_tower2_.rsw#bgm\\60.mp3#
+c_tower3_.rsw#bgm\\60.mp3#
+
+//11월 ep15.1 판타스마고리카
+ver_eju.rsw#bgm\\89.mp3#
+ver_tunn.rsw#bgm\\89.mp3#
+verus04.rsw#bgm\\164.mp3#
+verus03.rsw#bgm\\164.mp3#
+
+//12월 ep15.2 판타스마고리카
+verus01.rsw#bgm\\161.mp3#
+verus02.rsw#bgm\\161.mp3#
+un_bk_q.rsw#bgm\\122.mp3#
+un_bunker.rsw#bgm\\124.mp3#
+un_myst.rsw#bgm\\121.mp3#
+1@uns.rsw#bgm\\163.mp3#
+1@lab.rsw#bgm\\162.mp3#
+
+1@mcd.rsw#bgm\\160.mp3#

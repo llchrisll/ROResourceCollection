@@ -108,7 +108,11 @@ Navi_Map = {
 , 
 {"c_tower2", "Clock Tower 2f", 5001, 300, 300}
 , 
+{"c_tower2_", "Clock Tower 2f", 5001, 300, 300}
+, 
 {"c_tower3", "Clock Tower 3f", 5001, 260, 260}
+, 
+{"c_tower3_", "Clock Tower 3f", 5001, 260, 260}
 , 
 {"c_tower4", "Clock Tower 4f", 5001, 216, 216}
 , 
@@ -137,6 +141,10 @@ Navi_Map = {
 {"cmd_in02", "Inside Comodo", 5003, 240, 240}
 , 
 {"comodo", "Beach town,Comodo", 5001, 360, 380}
+, 
+{"dali", "Crack of Dimension", 5001, 200, 200}
+, 
+{"dali02", "Crack of Dimension", 5001, 200, 200}
 , 
 {"dew_dun01", "Volcanic Island of Krakatoa", 5001, 360, 360}
 , 
@@ -272,15 +280,19 @@ Navi_Map = {
 , 
 {"gl_cas02", "Glast Heim 2f", 5001, 200, 200}
 , 
+{"gl_cas02_", "2nd Hall", 5001, 200, 200}
+, 
 {"gl_church", "Glast Heim St. Abbey", 5001, 312, 312}
 , 
 {"gl_chyard", "Glast Heim Churchyard", 5001, 300, 300}
+, 
+{"gl_chyard_", "Churchyard", 5001, 300, 300}
 , 
 {"gl_dun01", "The Lowest Cave in Glast Heim", 5001, 300, 300}
 , 
 {"gl_dun02", "The Lowest Cave in Glast Heim", 5001, 300, 300}
 , 
-{"gl_in01", "Inside Glast Heim", 5005, 200, 200}
+{"gl_in01", "Inside Glast Heim", 5003, 200, 200}
 , 
 {"gl_knt01", "Inside Glast Heim Chivalry", 5001, 300, 300}
 , 
@@ -604,6 +616,10 @@ Navi_Map = {
 , 
 {"mora", "Mora Village", 5001, 240, 240}
 , 
+{"moro_cav", "Flame Cave", 5001, 100, 100}
+, 
+{"moro_vol", "Flame Basin", 5001, 400, 400}
+, 
 {"morocc", "Morroc Town", 5001, 320, 320}
 , 
 {"morocc_in", "Inside Morroc", 5003, 200, 200}
@@ -890,6 +906,12 @@ Navi_Map = {
 , 
 {"umbala", "Wootan Tribe\'s Village, Umbala", 5001, 280, 344}
 , 
+{"un_bk_q", "Under Bunker", 5003, 400, 400}
+, 
+{"un_bunker", "Under Bunker", 5003, 400, 400}
+, 
+{"un_myst", "Under Tunnel", 5003, 400, 220}
+, 
 {"ve_fild01", "Veins Field", 5001, 400, 400}
 , 
 {"ve_fild02", "Veins Field", 5001, 400, 400}
@@ -909,6 +931,18 @@ Navi_Map = {
 {"ve_in02", "Inside Veins", 5003, 100, 100}
 , 
 {"veins", "Veins, the Canyon Village", 5001, 400, 400}
+, 
+{"ver_eju", "Juperos Eastern Ruin", 5001, 300, 300}
+, 
+{"ver_tunn", "Verus Outter tunnel", 5001, 120, 100}
+, 
+{"verus01", "Lab-OPTATIO", 5001, 300, 300}
+, 
+{"verus02", "R&D-WISH", 5001, 300, 300}
+, 
+{"verus03", "Verus Center Square", 5001, 280, 280}
+, 
+{"verus04", "Verus Findspot", 5001, 280, 280}
 , 
 {"xmas", "Lutie, Snow Village", 5001, 300, 360}
 , 

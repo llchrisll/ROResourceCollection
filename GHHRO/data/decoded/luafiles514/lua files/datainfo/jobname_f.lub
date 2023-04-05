@@ -85,4 +85,37 @@ IsPetAccessory = function(accID)
   return false
 end
 
+GetPetName = function(jobID)
+  -- function num : 0_8
+  petName = "poring"
+  if PetNameTable[jobID] ~= nil then
+    petName = PetNameTable[jobID]
+  end
+  return petName
+end
+
+GetPetString = function(jobID)
+  -- function num : 0_9
+  if PetStringTable[jobID] ~= nil then
+    return PetStringTable[jobID]
+  end
+  return ""
+end
+
+GetPetJTID_by_PetEggITID = function(petEggITID)
+  -- function num : 0_10
+  if PetEggItemID_PetJobID[petEggITID] ~= nil then
+    return PetEggItemID_PetJobID[petEggITID]
+  end
+  return -1
+end
+
+GetPetFood = function(jobID)
+  -- function num : 0_11
+  if PetFoodTable[jobID] ~= nil then
+    return PetFoodTable[jobID]
+  end
+  return -1
+end
+
 

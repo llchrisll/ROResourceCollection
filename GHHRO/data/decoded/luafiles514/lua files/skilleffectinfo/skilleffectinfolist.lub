@@ -135,5 +135,19 @@ effectID = {EFID.EF_CONCENTRATION}
 }
 , 
 [SKID.RL_H_MINE] = {targetWaveFileName = "effect\\RL_H_MINE.wav"}
+, 
+[SKID.NPC_ALL_STAT_DOWN] = {targetEffectNum = 1, 
+targetEffectID = {EFID.EF_ENERVATION7}
+, targetWaveFileName = "effect\\EF_DecAgility.wav", onTarget = true}
+, 
+[SKID.NPC_IMMUNE_PROPERTY] = {effectNum = 1, 
+effectID = {EFID.EF_IMMUNE_PROPERTY}
+, onTarget = true}
+, 
+[SKID.NPC_MOVE_COORDINATE] = {effectNum = 1, 
+effectID = {EFID.EF_MOVE_COORDINATE}
+, targetEffectNum = 1, 
+targetEffectID = {EFID.EF_MOVE_COORDINATE}
+, onTarget = true}
 }
 

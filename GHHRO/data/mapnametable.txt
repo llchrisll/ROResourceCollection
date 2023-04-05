@@ -65,6 +65,17 @@ treasure_n2.rsw#Izlude wreck 2nd floor#
 moc_prydn1.rsw#Morocc Pyramid Underground 1st Floor - Challenge#
 moc_prydn2.rsw#Morocc Pyramid Underground 2nd Floor - Challenge#
 
+//EP.14.3
+moro_vol.rsw#Flame Basin#
+moro_cav.rsw#Flame Cave#
+1@dth1.rsw#Isle of Bios#
+1@dth2.rsw#Isle of Bios#
+1@dth3.rsw#Isle of Bios#
+1@rev.rsw#Morse's Cave#
+1@eom.rsw#Temple of the Demon God#
+1@jtb.rsw#Nightmarish Jitterbug#
+
+
 //ep 14.2
 eclage.rsw#Eclage#
 ecl_fild01.rsw#Blooming Flower Land#
@@ -504,28 +515,28 @@ gld_dun04.rsw#Guild Dungeon#
 gld_dun03.rsw#Guild Dungeon#
 gld_dun02.rsw#Guild Dungeon#
 gld_dun01.rsw#Guild Dungeon#
-payg_cas05.rsw#Greenwood Lake Guild#
-payg_cas04.rsw#Greenwood Lake Guild#
-payg_cas03.rsw#Greenwood Lake Guild#
-payg_cas02.rsw#Greenwood Lake Guild#
-payg_cas01.rsw#Greenwood Lake Guild#
+payg_cas05.rsw#Bamboo Groove Hill#
+payg_cas04.rsw#Scarlet Palace#
+payg_cas03.rsw#Holy Shadow#
+payg_cas02.rsw#Sacred Palace#
+payg_cas01.rsw#Bright Arbor#
 pay_gld.rsw#Greenwood Lake#
-aldeg_cas05.rsw#Luina Guild#
-aldeg_cas04.rsw#Luina Guild#
-aldeg_cas03.rsw#Luina Guild#
-aldeg_cas02.rsw#Luina Guild#
-aldeg_cas01.rsw#Luina Guild#
+aldeg_cas05.rsw#Rothenburg#
+aldeg_cas04.rsw#Wuerzburg#
+aldeg_cas03.rsw#Nuernberg#
+aldeg_cas02.rsw#Hohenschwangau#
+aldeg_cas01.rsw#Neuschwanstein#
 alde_gld.rsw#Luina the satellite of Al De Baran#
-gefg_cas05.rsw#Britoniah Guild#
-gefg_cas04.rsw#Britoniah Guild#
-gefg_cas03.rsw#Britoniah Guild#
-gefg_cas02.rsw#Britoniah Guild#
-gefg_cas01.rsw#Britoniah Guild#
-prtg_cas05.rsw#Valkyrie Realm Guild#
-prtg_cas04.rsw#Valkyrie Realm Guild#
-prtg_cas03.rsw#Valkyrie Realm Guild#
-prtg_cas02.rsw#Valkyrie Realm Guild#
-prtg_cas01.rsw#Valkyrie Realm Guild#
+gefg_cas05.rsw#Mersetzdeitz#
+gefg_cas04.rsw#Bergel#
+gefg_cas03.rsw#Yesnelph#
+gefg_cas02.rsw#Eeyorbriggar#
+gefg_cas01.rsw#Repherion#
+prtg_cas05.rsw#Gondul#
+prtg_cas04.rsw#Skoegul#
+prtg_cas03.rsw#Fadhgridh#
+prtg_cas02.rsw#Swanhild#
+prtg_cas01.rsw#Kriemhild#
 prt_gld.rsw#Valkyrie Realm#
 tur_dun01.rsw#Turtle Island#
 tur_dun02.rsw#Turtle Island Dungeon#
@@ -873,3 +884,59 @@ pvp_y_6-5.rsw#PvP : Room Morroc#
 pvp_y_7-5.rsw#PvP : Room Morroc#
 pvp_y_8-5.rsw#PvP : Room Morroc#
 pvp_2vs2.rsw#PvP : Event Coliseum#
+dali.rsw#Crack of Dimension#
+dali02.rsw#Crack of Dimension#
+
+//화산섬 코로도
+1@crd.rsw#Volcanic Island Corodo#
+//국수
+lasa_sea.rsw#Nyail Cave#
+1@drdo.rsw#Legendary Dorado#
+
+//영웅의흔적 파트1 7월
+1@face.rsw#Faceworm Nest#
+1@sara.rsw#Sarah's Memory#
+
+//영웅의흔적 파트2 8월
+1@tnm1.rsw#Demon God's Tower - Upper Level# 
+1@tnm2.rsw#Demon God's Tower - Top Level#
+1@tnm3.rsw#Morroc Castle - Basement#
+1@ge_st.rsw#Geffen Magic Tournament#
+1@gef.rsw#Geffen Magic Tournament#
+1@gef_in.rsw#Geffen Magic Tournament#
+1@spa.rsw#Ghost Palace#
+// 영웅의 흔적3
+1@glast.rsw#Glast Heim#
+1@air1.rsw#Airship#
+1@air2.rsw#Airship#
+
+//9월15일 포링섬이벤트
+poring_tw.rsw#Poring Island#
+
+//10월 컨텐츠 시계탑나이트메어던전
+c_tower2_.rsw#Clock Tower 2f#
+c_tower3_.rsw#Clock Tower 3f#
+
+//11월 ep15.1 판타스마고리카
+ver_eju.rsw#Juperos Eastern Ruin#
+ver_tunn.rsw#Verus Outter tunnel#
+verus04.rsw#Verus Findspot#
+verus03.rsw#Verus Center Square#
+
+
+//12월 ep15.2 판타스마고리카
+verus01.rsw#Lab-OPTATIO#
+verus02.rsw#R&D-WISH#
+un_bk_q.rsw#Under Bunker#
+un_bunker.rsw#Under Bunker#
+un_myst.rsw#Under Tunnel#
+1@uns.rsw#Last Room#
+1@lab.rsw#Center Lab#
+
+1@mcd.rsw#Charlston Factory#
+
+//3월 고성메모리얼던전
+gl_cas02_.rsw#2nd Hall#
+gl_chyard_.rsw#Churchyard#
+2@gl_k.rsw#Old Glast Heim Chivalry 2F#
+1@gl_k.rsw#Old Glast Heim Chivalry 1F#
