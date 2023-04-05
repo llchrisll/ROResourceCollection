@@ -37,6 +37,7 @@
  * /몸통 = Body Sprites
       * /여 = Female
       * /남 = Male
+	     * Files: /<Class>_<Gender>.act/spr
  * /몽크 = Monk
  * /연금술사 = Alchemist
  * /용병 = Mercenary
