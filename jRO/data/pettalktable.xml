@@ -9804,5 +9804,66 @@
 		<levelup>汝の魂、神聖なる力を感ぜられき。</levelup>
 	</so_full>
 </ancient_mummy>
+<KNIGHT_OF_ABYSS2>
+	<hungry>
+		<feeding>ふむ……。</feeding>
+		<danger>警戒域に達したようです。</danger>
+		<dead>深淵の中で眠りなさい。</dead>
+		<stand>忘れていた……。</stand>
+		<levelup>……。</levelup>
+		<perfor_1>退きなさい！</perfor_1>
+		<perfor_2>深淵の印から解放を……。</perfor_2>
+		<perfor_3>引きなさい！！</perfor_3>
+	</hungry>
+	<bit_hungry>
+		<feeding>うむ……。</feeding>
+		<danger>警戒域に達したようです。</danger>
+		<dead>深淵の中で眠りなさい。</dead>
+		<stand>そろそろ時間のようです。</stand>
+		<levelup>もっと強い力を……。</levelup>
+		<perfor_1>退きなさい！</perfor_1>
+		<perfor_2>深淵の印から解放を……。</perfor_2>
+		<perfor_3>引きなさい！！</perfor_3>
+	</bit_hungry>
+	<noting>
+		<feeding>ううむ……。</feeding>
+		<danger>警戒域に達したようです。</danger>
+		<dead>深淵の中で眠りなさい。</dead>
+		<stand>そろそろ時がくる。</stand>
+		<stand>深淵の境界で私は……。 </stand>
+		<levelup>もっと強い力を……。</levelup>
+		<perfor_1>退きなさい！</perfor_1>
+		<perfor_2>深淵の印から解放を……。</perfor_2>
+		<perfor_3>引きなさい！！</perfor_3>
+	</noting>
+	<full>
+		<feeding>……。</feeding>
+		<danger>そなたの命、もう長くは……。</danger>
+		<danger>警戒域に達したようです。</danger>
+		<dead>深淵の中で眠りなさい。</dead>
+		<stand>深淵の境界で私は……。 </stand>
+		<stand>恐れを抱いてしまった……。</stand>
+		<stand>深淵の恐怖に……屈服してしまった。</stand>
+		<levelup>もっと強い力を……。</levelup>
+		<levelup>そなたなら十分に……。</levelup>
+		<perfor_1>退きなさい！</perfor_1>
+		<perfor_2>深淵の印から解放を……。</perfor_2>
+		<perfor_3>引きなさい！！</perfor_3>
+	</full>
+	<so_full>
+		<feeding>……。</feeding>
+		<danger>そなたの命、もう長くは……。</danger>
+		<danger>警戒域に達したようです。</danger>
+		<dead>深淵の中で眠りなさい。</dead>
+		<stand>深淵の境界で私は……。</stand>
+		<stand>恐れを抱いてしまった……。</stand>
+		<stand>深淵の恐怖に……屈服してしまった。</stand>
+		<levelup>もっと強い力を……。</levelup>
+		<levelup>そなたなら十分に……。</levelup>
+		<perfor_1>退きなさい！</perfor_1>
+		<perfor_2>深淵の印から解放を……。</perfor_2>
+		<perfor_3>引きなさい！！</perfor_3>
+	</so_full>
+</KNIGHT_OF_ABYSS2>
 
 </monster_talk_table>

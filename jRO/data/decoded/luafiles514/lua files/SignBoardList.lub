@@ -1384,6 +1384,8 @@ SignBoardList = {
 , 
 {"march_01", 109, 84, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  人形図鑑", "255,255,255"}
 , 
+{"march_01", 107, 54, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  セイレンの手紙", "255,255,255"}
+, 
 {"glast_01", 143, 288, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  並行世界のヒメルメズ", "255,255,255"}
 , 
 {"glast_01", 141, 293, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アイテム交換", "255,255,255"}
@@ -1567,6 +1569,10 @@ SignBoardList = {
 {"enchant01", 164, 46, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  時間の破片", "255,255,255"}
 , 
 {"enchant01", 187, 58, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  特選ネコ缶(カニ)", "255,255,255"}
+, 
+{"enchant01", 176, 77, 6, IT_SIGNBOARD, "signboard\\amethyst_fragment.bmp", "  アメジストの欠片", "255,255,255"}
+, 
+{"enchant01", 173, 77, 6, IT_SIGNBOARD, "signboard\\amethyst_fragment.bmp", "  アメジストの欠片", "255,255,255"}
 , 
 {"melon_f1", 105, 61, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬・修理", "255,255,255"}
 , 
@@ -2074,8 +2080,6 @@ SignBoardList = {
 , 
 {"ev_june01", 164, 153, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  Letter For You", "255,255,255"}
 , 
-{"prontera", 105, 68, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  モンスター大討伐", "255,255,255"}
-, 
 {"yuno", 211, 329, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミッションマスター", "255,255,255"}
 , 
 {"yuno", 216, 329, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ミッション転送サポート", "255,255,255"}
@@ -2106,8 +2110,6 @@ SignBoardList = {
 , 
 {"lasagna", 314, 237, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
 , 
-{"jp_ev_map05", 72, 57, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢から醒める", "255,255,255"}
-, 
-{"prontera", 98, 63, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ﾗﾍﾙおさらいｲﾍﾞﾝﾄ", "255,255,255"}
+{"prontera", 98, 63, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  リハルト家の挑戦状", "255,255,255"}
 }
 

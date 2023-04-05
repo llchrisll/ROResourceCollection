@@ -139,6 +139,7 @@ main = function()
   InsertPetAutoFeeding(9111)
   InsertPetAutoFeeding(9102)
   InsertPetAutoFeeding(9107)
+  InsertPetAutoFeeding(9132)
   return true, "success"
 end
 

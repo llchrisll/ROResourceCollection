@@ -1218,6 +1218,8 @@ TargetItems = {
 {"Gray_W_Muffler", 480090}
 , 
 {"Gray_W_Manteau", 480091}
+, 
+{"Wild_Beast", 400409}
 }
 , NeedSource_String = "エンハンスキューブ(グレイウルフ)"}
 }

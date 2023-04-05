@@ -6478,6 +6478,150 @@ unidentifiedDescriptionName = {}
 identifiedDescriptionName = {}
 , slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
 , 
+[300177] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300178] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300179] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300180] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300181] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300182] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300183] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300184] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300185] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300186] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300187] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300188] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300189] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300190] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300191] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300192] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300193] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300170] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300171] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300172] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300173] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300174] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300175] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300176] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
 [5909] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
 unidentifiedDescriptionName = {}
 , identifiedDisplayName = "\"[衣装] ヴァルキリーサークレット\"", identifiedResourceName = "", 
@@ -28709,6 +28853,522 @@ identifiedDescriptionName = {}
 , slotCount = 0, ClassNum = 0, costume = true}
 , 
 [420192] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[15953] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[20619] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480055] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480056] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480058] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480069] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[300421] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300422] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300423] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300424] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300425] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300426] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300451] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300452] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[300453] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false, EffectID = 1186}
+, 
+[400403] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400404] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400405] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400406] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[410224] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[420150] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[420196] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[420197] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480279] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480280] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400422] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400423] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400424] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400425] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400426] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400427] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480288] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480289] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480290] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[420205] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[460005] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false}
+, 
+[460006] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false}
+, 
+[460013] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = false}
+, 
+[600014] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 49, costume = false}
+, 
+[610016] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 16, costume = false}
+, 
+[620006] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 7, costume = false}
+, 
+[630009] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 52, costume = false}
+, 
+[640014] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 96, costume = false}
+, 
+[640015] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 96, costume = false}
+, 
+[700022] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 11, costume = false}
+, 
+[700023] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 11, costume = false}
+, 
+[700024] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 11, costume = false}
+, 
+[700025] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 11, costume = false}
+, 
+[500019] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 42, costume = false}
+, 
+[500020] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 42, costume = false}
+, 
+[510027] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 31, costume = false}
+, 
+[510028] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 31, costume = false}
+, 
+[530010] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 4, costume = false}
+, 
+[540014] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 15, costume = false}
+, 
+[540015] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 15, costume = false}
+, 
+[550019] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 69, costume = false}
+, 
+[550020] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 69, costume = false}
+, 
+[560012] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 78, costume = false}
+, 
+[560013] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 78, costume = false}
+, 
+[570013] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 13, costume = false}
+, 
+[580013] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 14, costume = false}
+, 
+[590016] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 62, costume = false}
+, 
+[590017] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 62, costume = false}
+, 
+[20139] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 1271, costume = true}
+, 
+[20140] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 1272, costume = true}
+, 
+[700077] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 11, costume = false}
+, 
+[700078] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 11, costume = false}
+, 
+[510117] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 31, costume = false}
+, 
+[510118] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 31, costume = false}
+, 
+[530046] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 4, costume = false}
+, 
+[530047] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 4, costume = false}
+, 
+[570048] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 13, costume = false}
+, 
+[570049] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 13, costume = false}
+, 
+[580049] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 14, costume = false}
+, 
+[580050] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 14, costume = false}
+, 
+[400351] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400429] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400430] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[400431] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[410202] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[410230] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[420206] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[420207] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480295] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480296] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 0, costume = true}
+, 
+[480282] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
 unidentifiedDescriptionName = {}
 , identifiedDisplayName = "", identifiedResourceName = "", 
 identifiedDescriptionName = {}
