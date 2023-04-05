@@ -3558,7 +3558,7 @@ Description = {"해당 이벤트 퀘스트는 대기시간 종료 후, 프론테라의 <NAVI>[쇼콜라]
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [3332] = {Title = "납품과 수거-모로크", IconName = "ico_ev.bmp", 
-Description = {"스윗츠 축제를 위해, 모로크 스윗츠 상점의 <NAVI>[아망디오]<INFO>morocc,170,75,0,101,0</INFO></NAVI>에게 납품용 초콜렛을 배달하자."}
+Description = {"스윗츠 축제를 위해, 모로크 스윗츠 상점의 <NAVI>[아망디오]<INFO>morocc,170,75,0,101,0</INFO></NAVI>에게 ^4d4dff납품용 초콜렛^000000을 배달하자."}
 , Summary = "아망디오에게 초콜렛 납품"}
 , 
 [3333] = {Title = "오늘도 스윗츠 드롭프스 응징!", IconName = "ico_ev.bmp", 
@@ -12681,65 +12681,65 @@ Description = {"\'살아있는 물\'... 그건 언젠가 들어본 기억이 있지. ^0000ff성스러
 Description = {"어서 이것들을 가져가서 마리아 모레브나를 도와주도록 해라, 인간 꼬마야. 키히히힛. 우선 \'죽은 물\'을 마리아 모레브나에게 끼얹어, 상처와 저주를 없애거라. 그리고 \'살아있는 물\'을 끼얹으면 마리아가 살아날게다. 알아들었으면 냉큼 가 보라고! 키히히히히"}
 , Summary = "마리아 모레브나에게 간다"}
 , 
-[8181] = {Title = "사이트 블래스터", 
-Description = {"가까이 접근한 적을 일정 거리 이상으로 밀어낸다는 거지. 이게 말은 쉬워도 상당히 어려운 기술이야. 특히 기사들이 그런 기술을 잘 쓰니까... 그들에게 가면 가르쳐줄지도... 프론테라 11시 방향에 있는 기사단에 가봐. 거기서 밀어내는 기술의 원리를 배운 뒤에 나에게 다시 찾아오라구."}
-, Summary = ""}
+[8181] = {Title = "사이트 블래스터 (1)", IconName = "ico_jq.bmp", 
+Description = {"기사들이 밀어내는 기술을 잘 쓰니까 그들에게 가면 가르쳐줄지도...?", "   ", "<NAVI>[프론테라 기사단]<INFO>prt_in,82,98,0,101,0</INFO></NAVI>에서 밀어내는 기술의 원리를 배우러 가보자."}
+, Summary = "밀어내는 기술의 원리"}
 , 
-[8182] = {Title = "밀어내는 기술의 원리", 
-Description = {"더 필요한 게 있나? 밀어내는 기술의 원리라면 그 정도로 충분하다네. 그걸 어떻게 응용하느냐는 자네에게 달린 문제지."}
-, Summary = "냐오에게 돌아간다"}
+[8182] = {Title = "사이트 블래스터 (2)", IconName = "ico_jq.bmp", 
+Description = {"밀어내는 기술의 원리라면 그 정도로 충분하다네. 그걸 어떻게 응용하느냐는 자네에게 달린 문제지.", "   ", "<NAVI>[냐오]<INFO>gef_tower,115,36,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "냐오에게 돌아가자"}
 , 
-[8183] = {Title = "사이트 블래스터", 
-Description = {"수업료를 내야지 수업료를! 여긴 자선사업 단체가 아니라구! ^ff0000크리스탈 블루 10개, 그린 라이브 10개, 레드 블러드 10개 윈드 오브 버듀어 10개^000000! 이렇게 구해와. 별로 어렵진 않지? 잘 해보라구. 난 한숨 자고 있을 테니... 하아암."}
-, Summary = "재료를 구해서 냐오에게 돌아온다"}
+[8183] = {Title = "사이트 블래스터 (3)", IconName = "ico_jq.bmp", 
+Description = {"수업료를 내야지 수업료를! 여긴 자선사업 단체가 아니라구! 속성원석을 갔다 주면 수업료를 낸 걸로 해주지. 난 한숨 자고 있을 테니... 하아암.", "▶<ITEM>[레드 블러드]<INFO>990</INFO></ITEM> 10개", "▶<ITEM>[크리스탈 블루]<INFO>991</INFO></ITEM> 10개", "▶<ITEM>[윈드 오브 버듀어]<INFO>992</INFO></ITEM> 10개", "▶<ITEM>[그린 라이브]<INFO>993</INFO></ITEM> 10개", "   ", "재료를 구해서 <NAVI>[냐오]<INFO>gef_tower,115,36,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "재료를 구해서 냐오에게"}
 , 
-[8184] = {Title = "엘레멘탈 컨버터", 
+[8184] = {Title = "엘레멘탈 컨버터", IconName = "ico_jq.bmp", 
 Description = {"엘레멘탈 컨버터를 만들기 위해선 다음과 같은 재료들이 필요해요. ^ff0000전갈의 꼬리 10개, 딱딱한 뿔 7개, 알록달록한 등껍질 12개, 달팽이 껍질 10개, 빈 스크롤 4개^000000.\t이 재료들을 구해오시면 그것들을 바탕으로 하여 스킬을 가르쳐 드리겠습니다."}
 , Summary = "재료를 구해서 미슈나에게 돌아온다"}
 , 
-[8185] = {Title = "엘레멘탈 체인지", 
+[8185] = {Title = "엘레멘탈 체인지", IconName = "ico_jq.bmp", 
 Description = {"이제 남은 스킬은 컨버터를 사용하여 몬스터의 속성을 바꾸는 ^ff0000엘레멘탈 체인지 스킬^000000입니다....만 잠시 식사를 하고 돌아올 테니, 스킬을 익힐 준비가 되셨다면 나중에 다시 말 걸어주세요."}
 , Summary = ""}
 , 
-[8186] = {Title = "화속성 엘레멘탈 체인지", 
+[8186] = {Title = "화속성 엘레멘탈 체인지", IconName = "ico_jq.bmp", 
 Description = {"해당 속성의 능력을 각인시키기 위해선 다음과 같은 재료가 필요해요. ^ff0000레드 블러드 20개, 페이욘 수용액 1개, 모로크 수용액 1개^000000. 이 재료들을 구하신 뒤, 저에게 오시면 ^ff0000화속성 엘레멘탈 체인지 스킬^000000을 알려드리겠습니다. 그럼 기다리고 있을게요~."}
 , Summary = "재료를 구해서 미슈나에게 돌아온다"}
 , 
-[8187] = {Title = "지속성 엘레멘탈 체인지", 
+[8187] = {Title = "지속성 엘레멘탈 체인지", IconName = "ico_jq.bmp", 
 Description = {"해당 속성의 능력을 각인시키기 위해선 다음과 같은 재료가 필요해요. ^ff0000그린 라이브 20개, 페이욘 수용액 1개, 모로크 수용액 1개^000000. 이 재료들을 구하신 뒤, 저에게 오시면 ^ff0000지속성 엘레멘탈 체인지 스킬^000000을 알려드리겠습니다. 그럼 기다리고 있을게요~."}
 , Summary = "재료를 구해서 미슈나에게 돌아온다"}
 , 
-[8188] = {Title = "풍속성 엘레멘탈 체인지", 
+[8188] = {Title = "풍속성 엘레멘탈 체인지", IconName = "ico_jq.bmp", 
 Description = {"해당 속성의 능력을 각인시키기 위해선 다음과 같은 재료가 필요해요. ^ff0000윈드 오브 버듀어 20개, 페이욘 수용액 1개, 모로크 수용액 1개^000000. 이 재료들을 구하신 뒤, 저에게 오시면 ^ff0000풍속성 엘레멘탈 체인지 스킬^000000을 알려드리겠습니다. 그럼 기다리고 있을게요~."}
 , Summary = "재료를 구해서 미슈나에게 돌아온다"}
 , 
-[8189] = {Title = "수속성 엘레멘탈 체인지", 
+[8189] = {Title = "수속성 엘레멘탈 체인지", IconName = "ico_jq.bmp", 
 Description = {"해당 속성의 능력을 각인시키기 위해선 다음과 같은 재료가 필요해요. ^ff0000크리스탈 블루 20개, 페이욘 수용액 1개, 모로크 수용액 1개^000000. 이 재료들을 구하신 뒤, 저에게 오시면 ^ff0000수속성 엘레멘탈 체인지 스킬^000000을 알려드리겠습니다. 그럼 기다리고 있을게요~."}
 , Summary = "재료를 구해서 미슈나에게 돌아온다"}
 , 
-[8190] = {Title = "매혹의 윙크", 
-Description = {"무릇 여성을 아름답게 만드는 건 자신감이라 할 수가 있지. 마인드 컨트롤과 이미지 트레이닝은 성공하는 레이디의 필수요소야. 자, 그럼 우선 ^FF0000거울^000000을 좀 구해오겠어? 뭐니, 그 눈빛은? 그런 멍청한 눈으로 보고 섰지 말고 빨리 다녀오지 못해?!"}
-, Summary = "수정으로 만든 거울 1개를 사넬에게 가져간다"}
+[8190] = {Title = "매혹의 윙크", IconName = "ico_jq.bmp", 
+Description = {"마인드 컨트롤과 이미지 트레이닝은 성공하는 레이디의 필수요소야. 자, 그럼 우선 ^FF0000거울^000000을 좀 구해오겠어?", "   ", "▶<ITEM>[수정으로 만든 거울]<INFO>747</INFO></ITEM> 1개를 <NAVI>[사넬]<INFO>comodo,204,172,0,101,0</INFO></NAVI>에게 가져간 후 대화를 나눠보자."}
+, Summary = "수정으로 만든 거울 1개", NpcSpr = "4_F_07", NpcNavi = "comodo", NpcPosX = 204, NpcPosY = 172}
 , 
-[8191] = {Title = "매혹의 조언자", 
-Description = {"네 매력을 남들이 알아주길 원한다면 그 매력을 효과적으로 드러내는 방법을 배울 필요가 있어. 그러기 위해 그 분야에서 정통한 사람을 만나 보는 게 좋겠구나. 프론테라 성당 근처에 우리 언니가 있단다. 너에게 많은 조언을 해 줄 거야."}
-, Summary = ""}
+[8191] = {Title = "매혹의 조언자", IconName = "ico_jq.bmp", 
+Description = {"네 매력을 남들이 알아주길 원한다면 그 매력을 효과적으로 드러내는 방법을 배울 필요가 있어. 그러기 위해 그 분야에서 정통한 사람을 만나 보는 게 좋겠구나.", "   ", "▶프론테라에서 <NAVI>[사넬의 언니]<INFO>prontera,185,333,0,101,0</INFO></NAVI>를 만나 조언을 들어보자."}
+, Summary = "사넬의 언니 만나기", NpcSpr = "1_F_PRIEST", NpcNavi = "prontera", NpcPosX = 183, NpcPosY = 333}
 , 
-[8192] = {Title = "제멋대로인 조언자", 
-Description = {"너 정말 눈치가 꽝이로구나. 마실 것이라고 한다면! ^FF0000알코올^000000정도는 기본으로 들어있어야 하는 거잖아?! 그리고 조금 더 센스가 있다면 안주거리도 가져올거라 생각해. ^FF0000사과 1개, 바나나 3개, 쿠키 5개^000000를 ^FF0000접시^000000에 담아서 와 줬음 좋겠어."}
-, Summary = "술과 안주를 구해 아엘에게 돌아온다"}
+[8192] = {Title = "제멋대로인 조언자", IconName = "ico_jq.bmp", 
+Description = {"계속 말을 하다 보니 갈증이 좀 나는데 말이야. 뭔가 마실 걸 좀 가져다주지 않겠어? 센스 있게 안줏거리도 가져다줄 거라고 생각해.", "   ", "<ITEM>[알코올]<INFO>970</INFO></ITEM> 1개, <ITEM>[사과]<INFO>512</INFO></ITEM> 1개", "<ITEM>[바나나]<INFO>513</INFO></ITEM> 3개, <ITEM>[잘 구운 쿠키]<INFO>538</INFO></ITEM> 5개를", "<ITEM>[하얀색 접시]<INFO>736</INFO></ITEM>에 담아서 <NAVI>[아엘]<INFO>prontera,185,333,0,101,0</INFO></NAVI>에게 가져다 주자."}
+, Summary = "", NpcSpr = "1_F_PRIEST", NpcNavi = "prontera", NpcPosX = 183, NpcPosY = 333}
 , 
-[8193] = {Title = "제멋대로인 조언자", 
-Description = {"힘들이지 않고 자신의 매력을 상대방에게 어필할 수 있는 게 뭔지 알고 있어? 바로 ^FF0000윙크^000000야, ^FF0000윙크^000000! 단순히 한쪽 눈을 살짝 감았다 뜨는 그런 동작에 지나지 않는데도 그 효과는 작지 않단 말이제! 하트를 꿰뚫는 더블스트레이핑!! 이라는 거시란 말이여~"}
-, Summary = ""}
+[8193] = {Title = "제멋대로인 조언자", IconName = "ico_jq.bmp", 
+Description = {"아엘은 가져다준 안줏거리를 모두 먹어 치우더니.. 윙크 같은 알 수 없는 소릴 해댔다.", "   ", "▶일단 <NAVI>[아엘]<INFO>prontera,185,333,0,101,0</INFO></NAVI>과 이야기를 더 해보자."}
+, Summary = "아엘과 이야기", NpcSpr = "1_F_PRIEST", NpcNavi = "prontera", NpcPosX = 183, NpcPosY = 333}
 , 
-[8194] = {Title = "인사불성 조언자", 
-Description = {"깨우지마!!!!! 저리로 가 버리드라고!!!"}
-, Summary = ""}
+[8194] = {Title = "인사불성 조언자", IconName = "ico_jq.bmp", 
+Description = {"아엘이 윙크 어쩌고 한 것 같지만.. 더 이상은 물어보기 힘든 상황 같다.", "   ", "▶<NAVI>[사넬]<INFO>comodo,204,172,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "사넬에게로..", NpcSpr = "4_F_07", NpcNavi = "comodo", NpcPosX = 204, NpcPosY = 172}
 , 
-[8195] = {Title = "친절한 사넬", 
-Description = {"밥을 수저로 떠먹여주다 못해 씹어서 넘겨주기를 원하는 거냐! 그런 것 쯤은 스스로 개발해! ......라고 말하고 싶지만. 난 친절한 사넬님♡이니까 대충 비법을 알려줄게."}
-, Summary = ""}
+[8195] = {Title = "친절한 사넬", IconName = "ico_jq.bmp", 
+Description = {"난 친절한 사넬님♡이니까 대충 비법을 알려줄게.", "   ", "▶<NAVI>[사넬]<INFO>comodo,204,172,0,101,0</INFO></NAVI>에게 비법을 듣자."}
+, Summary = "사넬에게 비법 듣기", NpcSpr = "4_F_07", NpcNavi = "comodo", NpcPosX = 204, NpcPosY = 172}
 , 
 [8196] = {Title = "삼국 연합 조사단의 갈등", IconName = "ico_ep.bmp", 
 Description = {"연합 조사단의 사무관은 분명 귀찮은 일을 떠넘긴 것이 틀림없다. 어쨌든 원정대 캠프에 있는 룬미드가츠 조사원 <NAVI>[료슨]<INFO>mid_camp,165,245,0,101,0</INFO></NAVI>을 만나 봐야 한다."}
@@ -14746,6 +14746,86 @@ Description = {"잉크에게 클리어 선물을 받자.", "경험치는 직접 받거나, 효율에 손�
 [8838] = {Title = "귀환", IconName = "ico_vr.bmp", 
 Description = {"무사히 프론테라로 돌아왔으니 닐렘에게 감상을 말해야 한다.", "책을 읽기 전에 갑자기 나타난 것처럼 <NAVI>[책]<INFO>prt_elib,54,37,0,101,0</INFO></NAVI>을 건드리고 있으면 갑자기 나타나지 않을까?"}
 , Summary = "닐렘과 대화"}
+, 
+[8839] = {Title = "도움을 가장한 뒤치다꺼리", IconName = "ico_ep.bmp", 
+Description = {"성스러운 뿌리의 여기저기서 \'마침 정찰에서 돌아온 유능한 심부름꾼\'을 필요로 하고 있다. 그가 사실은 어떤 존재인지도 모르는 채.", "* <NAVI>[고미아간드]<INFO>jor_sanct,215,84,0,101,0</INFO></NAVI>", "* <NAVI>[홀시비간드]<INFO>jor_sanct,190,128,0,101,0</INFO></NAVI>", "* <NAVI>[파모슈간드]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI>", "* <NAVI>[날시오라미간드]<INFO>jor_sanct,271,156,0,101,0</INFO></NAVI>", "* <NAVI>[에리리간드]<INFO>jor_sanct,101,138,0,101,0</INFO></NAVI>"}
+, Summary = "곤란한 르간 도와주기"}
+, 
+[8840] = {Title = "르간의 신뢰", IconName = "ico_ep.bmp", 
+Description = {"이상하게 최상급 르간들에게 인기있는 몸이 되었다. 고집불통에 성격 이상한 자들 뿐이었다. 이제 <NAVI>[사레크간드]<INFO>jor_sanct,157,171,0,101,0</INFO></NAVI>와 이야기하면 될 것 같다."}
+, Summary = "사레크간드와 대화"}
+, 
+[8841] = {Title = "하지만 생각을 해 보라고", IconName = "ico_ep.bmp", 
+Description = {"성스러운 뿌리의 <NAVI>[고미아간드]<INFO>jor_sanct,215,84,0,101,0</INFO></NAVI>는 하고 싶은 이야기가 매우 많은 것 같지만 직속 부하인 가미라바간드가 계속 딴청을 부려 쉽지가 않다."}
+, Summary = "고미아간드와 대화"}
+, 
+[8842] = {Title = "화가 많으시군요", IconName = "ico_ep.bmp", 
+Description = {"성스러운 뿌리의 <NAVI>[홀시비간드]<INFO>jor_sanct,190,128,0,101,0</INFO></NAVI>는 <ITEM>[꼬뽀의 머리깃털]<INFO>1001246</INFO></ITEM> 30개를 가져오라고 한다."}
+, Summary = "꼬뽀의 머리깃털 30개 전달"}
+, 
+[8843] = {Title = "소리나지 않는 대답", IconName = "ico_ep.bmp", 
+Description = {"성스러운 뿌리의 파모슈간드는 <ITEM>[커다란 잿빛 깃털]<INFO>1001244</INFO></ITEM> 20개를 구해 오라고 한다.", "자기 직속 부하로 배정된 <NAVI>[도리리로간드]<INFO>jor_sanct,258,117,0,101,0</INFO></NAVI>를 내버려두고…!"}
+, Summary = "아이템 조달 후 도리리로간드와 대화"}
+, 
+[8844] = {Title = "소리나지 않는 대답의 예시-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[파모슈간드]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8845] = {Title = "소리나지 않는 대답의 예시", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[파모슈간드]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI>는 <ITEM>[커다란 잿빛 깃털]<INFO>1001244</INFO></ITEM> 20개를 구해 오라고 한다. ...그런데 이건 누구의 지시지? 도리리로간드?"}
+, Summary = "커다란 잿빛 깃털 20개 전달"}
+, 
+[8846] = {Title = "여기까지 와 있는데", IconName = "ico_ep.bmp", 
+Description = {"성스러운 뿌리에 따라온 중급 르간들에게 일이 배분되어 있지 않다. 각자에게 할 일들을 배치해 줘야 한다.", "* <NAVI>[물웅덩이]<INFO>jor_sanct,48,159,0,101,0</INFO></NAVI>", "* <NAVI>[탑]<INFO>jor_sanct,95,152,0,101,0</INFO></NAVI>", "* <NAVI>[쓰레기장]<INFO>jor_root2,12,172,0,101,0</INFO></NAVI>", "* <NAVI>[산더미같은 잡동사니]<INFO>jor_root2,242,124,0,101,0</INFO></NAVI>", "* <NAVI>[창고]<INFO>jor_root2,149,125,0,101,0</INFO></NAVI>"}
+, Summary = "중급 르간의 일 찾아주기"}
+, 
+[8847] = {Title = "날시오라미간드의 일감", IconName = "ico_dq.bmp", 
+Description = {"날시오라미간드에게 할 일을 찾아 주었다."}
+, Summary = "중급 르간의 일 찾아주기"}
+, 
+[8848] = {Title = "눔카사이가간드의 일감", IconName = "ico_dq.bmp", 
+Description = {"눔카사이가간드에게 할 일을 찾아 주었다."}
+, Summary = "중급 르간의 일 찾아주기"}
+, 
+[8849] = {Title = "온내체라멜간드의 일감", IconName = "ico_dq.bmp", 
+Description = {"온내체라멜간드에게 할 일을 찾아 주었다."}
+, Summary = "중급 르간의 일 찾아주기"}
+, 
+[8850] = {Title = "작르다구미간드의 일감", IconName = "ico_dq.bmp", 
+Description = {"작르다구미간드에게 할 일을 찾아 주었다."}
+, Summary = "중급 르간의 일 찾아주기"}
+, 
+[8851] = {Title = "클제이나모간드의 일감", IconName = "ico_dq.bmp", 
+Description = {"클제이나모간드에게 할 일을 찾아 주었다."}
+, Summary = "중급 르간의 일 찾아주기"}
+, 
+[8852] = {Title = "여기까지 와 있는데-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[날시오라미간드]<INFO>jor_sanct,271,156,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8853] = {Title = "여기까지 와 있지만", IconName = "ico_dq.bmp", 
+Description = {"성스러운 뿌리에 따라온 중급 르간들에게 일이 배분되어 있지 않다. 각자에게 할 일들을 배치해 줘야 한다."}
+, Summary = "중급 르간의 일 찾아주기"}
+, 
+[8854] = {Title = "나는 아마도 도시락", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[에리리간드]<INFO>jor_sanct,101,138,0,101,0</INFO></NAVI>는 설마 이 이야기를 모두에게 한 걸까?"}
+, Summary = "에리리간드와 대화"}
+, 
+[8855] = {Title = "말랑말랑 별미 수집", IconName = "ico_ep.bmp", 
+Description = {"조랴라의 사촌 또료료가 어린이집에 합류했다.", "천사달팽이 20마리와 눈토끼달팽이 20마리를 처치하고,", "<ITEM>[말랑말랑 형광 세포(짭짤)]<INFO>1001232</INFO></ITEM> 10개,", "<ITEM>[말랑말랑 형광 세포(달달)]<INFO>1001233</INFO></ITEM> 10개를 <NAVI>[또료료]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>에게 가져다 주면 된다."}
+, Summary = "아이템 조달"}
+, 
+[8856] = {Title = "말랑말랑 별미 수집-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[또료료]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8857] = {Title = "짭짤한 맛과 달달한 맛", IconName = "ico_dq.bmp", 
+Description = {"천사달팽이 20마리와 눈토끼달팽이 20마리를 처치하고,", "<ITEM>[말랑말랑 형광 세포(짭짤)]<INFO>1001232</INFO></ITEM> 10개, <ITEM>[말랑말랑 형광 세포(달달)]<INFO>1001233</INFO></ITEM> 10개를", "<NAVI>[또료료]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>에게 가져다 주면 된다."}
+, Summary = "아이템 조달"}
+, 
+[8858] = {Title = "짭짤한 맛과 달달한 맛과 신맛", IconName = "ico_dq.bmp", 
+Description = {"천사달팽이 20마리와 눈토끼달팽이 20마리, 그리고 멜리베달팽이 20마리를 처치하고,", "<ITEM>[말랑말랑 형광 세포(짭짤)]<INFO>1001232</INFO></ITEM> 10개,", "<ITEM>[말랑말랑 형광 세포(달달)]<INFO>1001233</INFO></ITEM> 10개,", "<ITEM>[말랑말랑 형광 세포(새콤)]<INFO>1001231</INFO></ITEM> 10개를", "<NAVI>[또료료]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>에게 가져다 주면 된다."}
+, Summary = "아이템 조달"}
 , 
 [9000] = {Title = "나이트 전직으로의 시작", IconName = "ico_jq.bmp", 
 Description = {"기사단장 헤르만은 기사전직을 위해 우선 다른 <NAVI>[기사]<INFO>prt_in,75,107,0,101,0</INFO></NAVI>들의 승인을 받아야한다고 했다."}
@@ -19999,6 +20079,122 @@ Description = {"전 지역에 흩어진 쌀가루를 10개(처치) 가지고 말랑도의 <NAVI>[설기
 Description = {"설기의 떡국을 끓이기 위해 재료가 필요하다. [나들이 문어의 다리 10], [쫄깃한 떡 10], [페코페코의 알 2]를 처치하고 [싱싱한 문어다리 10개], [쫄깃한 가래떡 5개], [직화 문어구이 1개], [찰진 반죽 3개]를 수집해서 말랑도의 <NAVI>[설기HG]<INFO>malangdo,165,141,0,101,0</INFO></NAVI>에게 돌아오자."}
 , Summary = "떡국 재료 수집"}
 , 
+[11928] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"아윈 배달부가 상자 배달을 부탁했다. 얼음성 근처 민가에서 지내고 있는 <NAVI>[프리데리케]<INFO>icas_in,35,121,0,101,0</INFO></NAVI>에게 전해주자."}
+, Summary = "프리데리케에게"}
+, 
+[11929] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼음성 꼬뽀들의 식사시간! <NAVI>[꼬뽀]<INFO>icas_in,32,116,0,101,0</INFO></NAVI>를 집에 돌려 보내자."}
+, Summary = "꼬뽀와 대화"}
+, 
+[11930] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼음성 꼬뽀들의 식사시간! <NAVI>[꼬뽀]<INFO>icas_in,30,120,0,101,0</INFO></NAVI>를 집에 돌려 보내자."}
+, Summary = "꼬뽀와 대화"}
+, 
+[11931] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼음성 꼬뽀들의 식사시간! <NAVI>[꼬뽀]<INFO>icas_in,36,117,0,101,0</INFO></NAVI>를 집에 돌려 보내자."}
+, Summary = "꼬뽀와 대화"}
+, 
+[11932] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼음성 꼬뽀들의 식사시간! <NAVI>[꼬뽀]<INFO>icas_in,28,119,0,101,0</INFO></NAVI>를 집에 돌려 보내자."}
+, Summary = "꼬뽀와 대화"}
+, 
+[11933] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"차차코가 동생 카포포를 두고 간 것 같다. 카포포를 집에 데려다 주기 위해 얼음성 프리데리케의 <NAVI>[집 밖]<INFO>icecastle,65,213,0,101,0</INFO></NAVI>으로 나가자."}
+, Summary = "문 밖으로"}
+, 
+[11934] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"차차코가 동생 카포포를 두고 간 것 같다. 카포포를 집에 데려다 주기 위해 얼음성 프리데리케의 집 아래에 있는<NAVI>[카포포의 집]<INFO>icecastle,65,159,0,101,0</INFO></NAVI>으로 가자."}
+, Summary = "카포포의 집으로"}
+, 
+[11935] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"차차코를 무사히 집에 데려다 줬다. 다시 얼음성 <NAVI>[프리데리케의 집]<INFO>icecastle,65,213,0,101,0</INFO></NAVI>으로 돌아가자."}
+, Summary = "프리데리케의 집으로"}
+, 
+[11936] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"집에 간다던 로로휴가 사라진 것 같다. <NAVI>[얼음성 주변]<INFO>icecastle,109,241,0,101,0</INFO></NAVI>을 산책하며 로로휴를 찾아보자."}
+, Summary = "로로휴 찾기"}
+, 
+[11937] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"로로휴에 대한 정보는 얻지 못했다.  <NAVI>[얼음성]<INFO>icas_in,113,38,0,101,0</INFO></NAVI> 내부에 들어가서 로로휴의 정보를 얻자."}
+, Summary = "얼음성으로"}
+, 
+[11938] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"로로휴에 대한 정보는 얻지 못했다.  얼음성 <NAVI>[마을 입구]<INFO>icecastle,24,130,0,101,0</INFO></NAVI>에 가서 경비병을 만나보자."}
+, Summary = "경비병과 대화"}
+, 
+[11939] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"아윈 경비병은 로로휴가 얼음성 마을 입구에서 밖을 구경하고 있다고 한다. 로로휴에게 말을 걸어 집으로 데려가자."}
+, Summary = "로로휴와 대화"}
+, 
+[11940] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"로로휴는 얼음성 마을 입구에 솜털을 몸처럼 만들어 두고 몰래 <NAVI>[밖]<INFO>jor_back1,310,245,0,101,0</INFO></NAVI>으로 나간 것 같다. 로로휴를 찾으로 나가보자."}
+, Summary = "마을 밖으로"}
+, 
+[11941] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼어붙은 비늘 언덕에서 <NAVI>[로로휴]<INFO>jor_back1,222,392,0,101,0</INFO></NAVI>를 찾아 보자."}
+, Summary = "로로휴 찾기"}
+, 
+[11942] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼어붙은 비늘 평원에서 <NAVI>[로로휴]<INFO>jor_back2,8,242,0,101,0</INFO></NAVI>를 찾아 보자."}
+, Summary = "로로휴 찾기"}
+, 
+[11943] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼어붙은 비늘 빙하에서 <NAVI>[로로휴]<INFO>jor_back3,95,324,0,101,0</INFO></NAVI>를 찾아 보자."}
+, Summary = "로로휴 찾기"}
+, 
+[11944] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼어붙은 비늘 해변에서 <NAVI>[로로휴]<INFO>jor_back4,101,265,0,101,0</INFO></NAVI>를 찾아 보자."}
+, Summary = "로로휴 찾기"}
+, 
+[11945] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"얼어붙은 비늘 해변에서 만난 꼬뽀는 로로휴가 구덩이에 들어갔다고 하는 것 같다. 로로휴를 찾기 위해 <NAVI>[구덩이]<INFO>jor_back4,101,265,0,101,0</INFO></NAVI>로 들어가자."}
+, Summary = "로로휴 찾기"}
+, 
+[11946] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"로로휴는 찾았지만 로로휴의 친구가 몬스터에게 잡혀 갔다고 한다. 끈적이는 바다에서 보스 몬스터를 처치하고 로로휴의 친구를 구출하자."}
+, Summary = "꼬뽀들 구출"}
+, 
+[11947] = {Title = "꼬뽀의 비밀기지", IconName = "ico_ep.bmp", 
+Description = {"로로휴와 로로휴의 친구를 무사히 구출했다. 얼음성에서 로로휴를 기다리고 있을 <NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "라라하와 대화"}
+, 
+[11948] = {Title = "에스카르고!", IconName = "ico_dq.bmp", 
+Description = {"라라하는 여전히 끈적이는 바다에 들어가는 꼬뽀들이 있는 것 같다며 끈적이는 바다의 몬스터들은 해치워 줄 것을 부탁한다. 끈적이는 바다 입구의 <NAVI>[꼬뽀]<INFO>jor_back4,101,265,0,101,0</INFO></NAVI>와 대화하여 끈적이는 바다에 들어가자."}
+, Summary = "꼬뽀와 대화"}
+, 
+[11949] = {Title = "에스카르고!", IconName = "ico_dq.bmp", 
+Description = {"끈적이는 바다에서 꼬뽀들을 괴롭히는 타락한 천사 달팽이를 처치하고 꼬뽀를 구하자."}
+, Summary = "타락한 천사달팽이 처치"}
+, 
+[11950] = {Title = "에스카르고!-대기", IconName = "ico_dq.bmp", 
+Description = {"끈적이는 바다를 청소했다. 오늘은 쉬자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11951] = {Title = "위험하다고!", IconName = "ico_dq.bmp", 
+Description = {"라라하는 여전히 끈적이는 바다에 들어가는 꼬꼬뽀들이 있는 것 같다며 끈적이는 바다에서 헤메고 있는 꼬꼬뽀들을 따끔하게 혼내서 돌려보내 달라고 한다. 끈적이는 바다 입구의 <NAVI>[꼬뽀]<INFO>jor_back4,101,265,0,101,0</INFO></NAVI>와 대화하여 끈적이는 바다에 들어가자. 퀘스트가 완료되면 <NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "꼬꼬뽀 돌려보내기"}
+, 
+[11952] = {Title = "위험하다고!-대기", IconName = "ico_dq.bmp", 
+Description = {"꼬꼬뽀들을 돌려보냈다. 오늘은 쉬자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11953] = {Title = "화해하면 좋겠다.(1)", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>는 아이들을 위해서라도 고대 얼음 협곡에 사는 아이스윈드들이 조금 얌전해 졌으면 좋겠다고 한다. <NAVI>[고대 얼음 협곡 동부]<INFO>jor_back5,263,49,0,101,0</INFO></NAVI>에서 잿빛 아이스윈드를 10마리 정도 혼내주고 돌아오자."}
+, Summary = "잿빛 아이스윈드 혼내주기"}
+, 
+[11954] = {Title = "화해하면 좋겠다.(1)-대기", IconName = "ico_dq.bmp", 
+Description = {"잿빛 아이스윈드를 혼내줬다. 오늘은 쉬자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[11955] = {Title = "화해하면 좋겠다.(2)", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>는 아이들을 위해서라도 고대 얼음 협곡에 사는 아이스윈드들이 조금 얌전해 졌으면 좋겠다고 한다. <NAVI>[고대 얼음 협곡 서부]<INFO>jor_back6,324,150,0,101,0</INFO></NAVI>에서 아이스윈드를 10마리 정도 혼내주고 돌아오자."}
+, Summary = "아이스윈드 혼내주기"}
+, 
+[11956] = {Title = "화해하면 좋겠다.(2)-대기", IconName = "ico_dq.bmp", 
+Description = {"아이스윈드를 혼내줬다. 오늘은 쉬자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
 [12000] = {Title = "친구:불협화음", 
 Description = {"마쿠의 또다른 친구를 찾아 그와 이야기를 나누어야 합니다."}
 , Summary = "마쿠의 또다른 친구 만나기"}
@@ -20195,37 +20391,37 @@ Description = {"(게 집게발찜) 을 구해 괴인에게 들고 가 봅시다."}
 Description = {"토피와 엄마에게 괴인의 어이없는 행동에 대해 낱낱히 고발하러 가봅시다."}
 , Summary = "원치않는 고자질"}
 , 
-[12049] = {Title = "로그 직업퀘스트 1", 
-Description = {"하이자라그랙의 아들 뤼그랙에게 서신을 배달해야 합니다."}
-, Summary = "서신 배달1"}
+[12049] = {Title = "채택배의 비서 (1)", IconName = "ico_jq.bmp", 
+Description = {"채택배는 100년 전 윤회의 굴레를 벗어난 최초의 전승자였지. 난 그의 비법서를 얻었고 위협이 시작되었네. 나를 도와 내 세 아들이 모두 비술을 익히도록 도와주겠는가?", "   ", "▶<NAVI>[뤼그랙]<INFO>in_rogue,152,29,0,101,0</INFO></NAVI>에게 서신 전달"}
+, Summary = "하이자라그랙의 서신 전달"}
 , 
-[12050] = {Title = "로그 직업퀘스트 2", 
-Description = {"하이자라그랙의 아들 토르그랙에게 서신을 배달해야 합니다."}
-, Summary = "서신 배달2"}
+[12050] = {Title = "채택배의 비서 (2)", IconName = "ico_jq.bmp", 
+Description = {"빨리 형에게 사실을 알려야겠어요. 이 서신을 토르 형에게 부탁해요.", "   ", "▶<NAVI>[토르그랙]<INFO>in_rogue,268,125,0,101,0</INFO></NAVI>에게 서신 전달"}
+, Summary = "뤼그랙의 서신 전달"}
 , 
-[12051] = {Title = "로그 직업퀘스트 3", 
-Description = {"하이자라그랙의 아들 제이그랙에게 서신을 배달해야 합니다."}
-, Summary = "서신 배달3"}
+[12051] = {Title = "채택배의 비서 (3)", IconName = "ico_jq.bmp", 
+Description = {"형에게도 사실을 알려야겠군. 네가 이 서신을 전해주면 아마 서신에 적힌 대로 너에게도 비술을 전해 줄 테니까, 어서 가도록 해.", "   ", "▶<NAVI>[제이그랙]<INFO>in_rogue,181,114,0,101,0</INFO></NAVI>에게 서신 전달"}
+, Summary = "토르그랙의 서신 전달"}
 , 
-[12052] = {Title = "로그 직업퀘스트 4", 
-Description = {"하이자라그랙에게 제이그랙의 서신을 배달해야 합니다."}
-, Summary = "서신 배달4"}
+[12052] = {Title = "채택배의 비서 (4)", IconName = "ico_jq.bmp", 
+Description = {"빨리 길드에 이 사실을 알리고 아버님께도 서신을 전해 드려야겠군요. 다시 한번 부탁합니다.", "   ", "▶<NAVI>[하이자라그랙]<INFO>in_rogue,355,179,0,101,0</INFO></NAVI>에게 서신 전달"}
+, Summary = "제이그랙의 서신 전달"}
 , 
-[12053] = {Title = "로그 직업퀘스트 5", 
-Description = {"토르그랙을 찾아가 비술전수를 받아야 합니다. 토르그랙의 지시사항을 주의깊게 듣고 시험에 통과하시기 바랍니다."}
-, Summary = "비술 전수"}
+[12053] = {Title = "채택배의 비서 (5)", IconName = "ico_jq.bmp", 
+Description = {"자네가 아니었으면, 나와 세 아들의 신변에 이상이 생겼을 지도 모르지. 답례로 비술을 전하고 싶으니, 토르그랙에게 가보도록 하게.", "   ", "▶<NAVI>[토르그랙]<INFO>in_rogue,268,125,0,101,0</INFO></NAVI>에게 비술의 수련을 받자."}
+, Summary = "채택배의 비술 수련"}
 , 
-[12054] = {Title = "로그 직업퀘스트 6", 
-Description = {"하이자라 그랙에게 복귀하여 스킬에 대한 상세 설명을 듣기 바랍니다."}
-, Summary = "스킬 설명듣기"}
+[12054] = {Title = "채택배의 비서 (6)", IconName = "ico_jq.bmp", 
+Description = {"마지막으로 아버지에게 가봐. 그러면 스킬에 대한 상세 설명을 들을 수 있을 거야.", "   ", "▶<NAVI>[하이자라그랙]<INFO>in_rogue,355,179,0,101,0</INFO></NAVI>에게 채택배의 비술을 전수받자."}
+, Summary = "채택배의 비술 습득"}
 , 
-[12055] = {Title = "어쌔신 직업퀘스트", 
-Description = {"베넘 나이프에 관한 스킬을 익히기 위해 킬틴과 대화를 나누어 보십시오"}
-, Summary = "베넘 나이프란?"}
+[12055] = {Title = "어쌔신 직업퀘스트", IconName = "ico_jq.bmp", 
+Description = {"^990099베넘 나이프^000000를 익히기 위해", "<NAVI>[킬틴]<INFO>in_moc_16,14,27,0,101,0</INFO></NAVI>과 대화를 나누어 보십시오."}
+, Summary = "베넘 나이프란?", NpcSpr = "4_M_ACROSS", NpcNavi = "in_moc_16", NpcPosX = 14, NpcPosY = 27}
 , 
-[12056] = {Title = "어쌔신 직업퀘스트", 
-Description = {"소닉엑셀레이션을 익히기 위해 이스밀의 지시를 잘 듣고, 그녀가 말하는 장소의 보석을 가져와야 합니다."}
-, Summary = "보석가져오기"}
+[12056] = {Title = "어쌔신 직업퀘스트", IconName = "ico_jq.bmp", 
+Description = {"^0000FF소닉 엑셀레이션^000000을 익히기 위해", "<NAVI>[이스밀]<INFO>in_moc_16,23,27,0,101,0</INFO></NAVI>의 단! 한 번뿐인 지시를 잘 듣고 모로크 <NAVI>[스핑크스<INFO>in_sphinx2,149,81,0,101,0</INFO></NAVI> / <NAVI>피라미드]<INFO>moc_pryd04,18,187,0,101,0</INFO></NAVI> 유적으로 가서 보물을 가져오자."}
+, Summary = "보물 가져오기", NpcSpr = "4_F_ACROSS", NpcNavi = "in_moc_16", NpcPosX = 23, NpcPosY = 27}
 , 
 [12057] = {Title = "연구소 출입카드", 
 Description = {"출입카드를 이용하여 연구소에 잠입 해 봅시다."}
@@ -22182,6 +22378,22 @@ Description = {"<NAVI>[환상총서-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \
 [12587] = {Title = "나 혼자 아카데미 순혈인간 금서의 제약", IconName = "ico_vr.bmp", 
 Description = {"금서를 읽고 제약에 걸리고 말았습니다. 일주일이 지나야 <NAVI>[환상총서-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'나 혼자 아카데미 순혈인간(금서판)\' 메뉴가 등장하며, 체험이 가능해집니다. "}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[12588] = {Title = "죽지 않는 자 - 대기", IconName = "ico_ep.bmp", 
+Description = {"새벽이 지나면 <NAVI>세계수의 가지<INFO>prt_elib,60,37,0,101,0</INFO></NAVI>와 다시 소통 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[12589] = {Title = "죽지 않는 자(상급) - 대기", IconName = "ico_ep.bmp", 
+Description = {"3일이 지나면 <NAVI>세계수의 가지<INFO>prt_elib,60,37,0,101,0</INFO></NAVI>와 다시 소통 가능합니다."}
+, Summary = "3일 후 새벽 초기화", CoolTimeQuest = 1}
+, 
+[12590] = {Title = "죽지않는 자의 이야기", IconName = "ico_ep.bmp", 
+Description = {"라스간드는 죽이는게 불가능하다고? 그럼 어떻게 해야하지? 방법이 없을까."}
+, Summary = "EP20 MD"}
+, 
+[12591] = {Title = "죽지 않는 자 무력화", IconName = "ico_ep.bmp", 
+Description = {"라스간드를 죽이는 것은 불가능하다고 한다. 하지만 한동안 무력하게 만드는 정도는 어떻게든 해볼 수 있을 것 같다."}
+, Summary = "라스간드 무력화"}
 , 
 [13000] = {Title = "RWC2011카드 구하기", 
 Description = {"파란카드를 모아서 RWC2011를 완성하자"}
@@ -27526,19 +27738,19 @@ Description = {"축제가 시작되었다. <NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101
 , Summary = "알 축제 참가"}
 , 
 [16405] = {Title = "행복한 알 탐사-대기", IconName = "ico_ev.bmp", 
-Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 율라타를 통해 퀘스트 수주가 가능합니다."}
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 유노의 행복한 알 축제 <NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 율라타를 통해 퀘스트 수주가 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [16406] = {Title = "행복한 알 탐사", IconName = "ico_ev.bmp", 
-Description = {"축제가 계속된다. 던전 및 필드에 숨어 있는 행복한 알 3개를 깨트리고 <NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 율라타에게 돌아가자."}
+Description = {"행복한 알 축제가 계속된다. 던전 및 필드에 숨어 있는 행복한 알 3개를 깨트리고 유노의 <NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 율라타에게 돌아가자."}
 , Summary = "알 축제 참가"}
 , 
 [16407] = {Title = "행복한 클로버 장식-대기", IconName = "ico_ev.bmp", 
-Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[축제 장식 플래너]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 유노의 <NAVI>[축제 장식 플래너]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [16408] = {Title = "행복한 클로버 장식", IconName = "ico_ev.bmp", 
-Description = {"축제가 계속된다. 던전 및 필드에서 클로버 루나틱을 3마리 사냥하고, <ITEM>[행복의 세잎 클로버]<INFO>25295</INFO></ITEM>를 세 개 모아 <NAVI>[축제 장식 플래너]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>에게 돌아가자."}
+Description = {"행복한 알 축제가 계속된다. 던전 및 필드에서 클로버 루나틱을 3마리 사냥하고, <ITEM>[행복의 세잎 클로버]<INFO>25295</INFO></ITEM>를 세 개 모아 유노의 <NAVI>[축제 장식 플래너]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>에게 돌아가자."}
 , Summary = "클로버 장식 참가"}
 , 
 [16409] = {Title = "행복한 알 재료 배달-대기", IconName = "ico_ev.bmp", 
@@ -27602,15 +27814,15 @@ Description = {"행복한 데비루치와 산책!"}
 , Summary = "데비루치와 산책"}
 , 
 [16424] = {Title = "행복한 큐펫 자판기", IconName = "ico_ev.bmp", 
-Description = {"행복한 큐펫 자판기 사용법에 대해 들었다."}
+Description = {"유노의 행복한 알 축제에서 행복한 큐펫 자판기 사용법에 대해 들었다."}
 , Summary = "행복한 큐펫 자판기"}
 , 
 [16425] = {Title = "행복한 알 탐사 첫 번째", IconName = "ico_ev.bmp", 
-Description = {"첫 번째 알 탐사를 마쳤다. 손등에 확인 도장을 받자."}
+Description = {"유노의 행복한 알 축제에서 첫 번째 알 탐사를 마쳤다. 손등에 확인 도장을 받자."}
 , Summary = "첫 번째 알 탐사"}
 , 
 [16426] = {Title = "행복한 알 탐사 두 번째", IconName = "ico_ev.bmp", 
-Description = {"두 번째 알 탐사를 마쳤다. 손등에 두 번째 확인 도장을 받자."}
+Description = {"유노의 행복한 알 축제에서 두 번째 알 탐사를 마쳤다. 손등에 두 번째 확인 도장을 받자."}
 , Summary = "두 번째 알 탐사"}
 , 
 [16427] = {Title = "중독", IconName = "ico_ep.bmp", 
@@ -28516,6 +28728,134 @@ Description = {"식사를 마치고, 이제 짧은 이야기의 마무리를 지어야 할 시간이다. <
 [16690] = {Title = "생던밥 - 완독", IconName = "ico_vr.bmp", 
 Description = {"독서를 마쳤다. <NAVI>[잉크]<INFO>vr_bob,293,202,0,101,0</INFO></NAVI>와 대화하여 완독 보상을 받고 책을 덮자."}
 , Summary = "잉크와 대화"}
+, 
+[16691] = {Title = "탐사 범위 확대", IconName = "ico_ep.bmp", 
+Description = {"아직 탐색해 보지 않은 <NAVI>[고대 얼음 협곡]<INFO>jor_back5,350,75,0,101,0</INFO></NAVI> 지역을 조사하러 가 보자."}
+, Summary = "고대 얼음 협곡 탐사"}
+, 
+[16692] = {Title = "고대 얼음 협곡의 선주민", IconName = "ico_ep.bmp", 
+Description = {"고대 얼음 협곡에서 고대 아이스윈드에게 공격당했다. 일단 <NAVI>[안전한 곳]<INFO>jor_back5,350,75,0,101,0</INFO></NAVI>으로 몸을 피하자."}
+, Summary = "안전한 곳으로 대피"}
+, 
+[16693] = {Title = "고대 얼음 협곡 탐사", IconName = "ico_ep.bmp", 
+Description = {"고대 얼음 협곡에서 수상한 설치물과 르간의 것으로 보이는 흔적을 발견했다. <NAVI>[주변]<INFO>jor_back5,353,357,0,101,0</INFO></NAVI>을 좀더 탐사해 보자."}
+, Summary = "고대 얼음 협곡 탐사"}
+, 
+[16694] = {Title = "증거물과 귀환", IconName = "ico_ep.bmp", 
+Description = {"수상한 장치를 손에 넣었다. 손에 넣은 장치의 조사를 위해서 <NAVI>[얼음성]<INFO>icas_in,262,202,0,101,0</INFO></NAVI>으로 돌아가자."}
+, Summary = "얼음성 귀환"}
+, 
+[16695] = {Title = "수상한 낌새", IconName = "ico_ep.bmp", 
+Description = {"호르르가 모험가에게 할 말이 있는 모양이다. 얼음성 모험가 숙소 <NAVI>[구석]<INFO>icas_in,259,219,0,101,0</INFO></NAVI>에서 기다리고 있겠다고 한다."}
+, Summary = "호르르와 대화"}
+, 
+[16696] = {Title = "병영 탐문", IconName = "ico_ep.bmp", 
+Description = {"얼음성 <NAVI>[병영]<INFO>icas_in,113,41,0,101,0</INFO></NAVI>에서 수상한 낌새가 없는지 탐문 조사를 해 보자."}
+, Summary = "병영 조사"}
+, 
+[16697] = {Title = "여관 탐문", IconName = "ico_ep.bmp", 
+Description = {"얼음성 <NAVI>[여관]<INFO>icas_in,92,113,0,101,0</INFO></NAVI>에서 수상한 낌새가 없는지 탐문 조사를 해 보자."}
+, Summary = "여관 조사"}
+, 
+[16698] = {Title = "뒷골목 탐색", IconName = "ico_ep.bmp", 
+Description = {"얼음성 <NAVI>[뒷골목]<INFO>icecastle,209,243,0,101,0</INFO></NAVI>에서 수상한 낌새가 없는지 탐문 조사를 해 보자."}
+, Summary = "뒷골목 조사"}
+, 
+[16699] = {Title = "수상한 낌새?", IconName = "ico_ep.bmp", 
+Description = {"수상한 낌새가 있었던가? 맡은 곳의 조사를 마쳤으니 얼음성 모험가 숙소의 <NAVI>[호르르]<INFO>icas_in,259,219,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "호르르와 대화"}
+, 
+[16700] = {Title = "수상한 장치의 정체", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[벨군드]<INFO>icas_in,260,205,0,101,0</INFO></NAVI>가 수상한 장치의 정체를 밝혀냈다고 한다. 얼음성 모험가 숙소에서 이야기를 들어 보자."}
+, Summary = "벨군드와 대화"}
+, 
+[16701] = {Title = "협곡 탐사", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[얼음성 앞]<INFO>icecastle,201,171,0,101,0</INFO></NAVI>에서 레하르가 협곡 탐사 준비를 하고 있다. 준비를 마친 뒤 성 앞으로 가 보자."}
+, Summary = "레하르와 대화"}
+, 
+[16702] = {Title = "얼음성 귀환", IconName = "ico_ep.bmp", 
+Description = {"많은 일이 있었다. <NAVI>[얼음성]<INFO>icas_in,259,200,0,101,0</INFO></NAVI>으로 귀환해 레하르와 모험가가 무사함을 알리자."}
+, Summary = "미리암과 대화"}
+, 
+[16703] = {Title = "그 동안의 이야기", IconName = "ico_ep.bmp", 
+Description = {"얼음성 <NAVI>[모험가 숙소]<INFO>icas_in,263,200,0,101,0</INFO></NAVI>에서 모험가와 레하르가 탈출하며 본 일에 대해 이야기하고 다음 계획을 세우자."}
+, Summary = "레이지와 대화"}
+, 
+[16704] = {Title = "냉전과 첩보의 시대", IconName = "ico_ep.bmp", 
+Description = {"상급 르간으로 변신해 르간들의 틈에 잠입하기로 했다. 뱀의 둥지 <NAVI>[문 앞]<INFO>jor_nest,36,274,0,101,0</INFO></NAVI>에서부터 스파이 작전을 개시하자."}
+, Summary = "뱀의 둥지 문 앞 집합"}
+, 
+[16705] = {Title = "행복한 알 만들기-대기", IconName = "ico_ev.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 유노의 <NAVI>[질리언]<INFO>yuno,142,163,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16706] = {Title = "행복한 알 만들기", IconName = "ico_ev.bmp", 
+Description = {"유노 행복한 알 축제의 <NAVI>[베티나르]<INFO>yuno,140,167,0,101,0</INFO></NAVI>와 <NAVI>[위스타드]<INFO>yuno,146,166,0,101,0</INFO></NAVI>에게 안내받아 행복한 알을 만들어 보자."}
+, Summary = "베티나르, 위스타드와 대화"}
+, 
+[16707] = {Title = "행복한 초콜렛 중탕", IconName = "ico_ev.bmp", 
+Description = {"유노 광장의 <NAVI>[모닥불]<INFO>yuno,142,167,0,101,0</INFO></NAVI>에서 초콜렛을 중탕하는 작업을 시작해 보자."}
+, Summary = "모닥불에서 작업"}
+, 
+[16708] = {Title = "행복한 초콜렛 중탕 완료", IconName = "ico_ev.bmp", 
+Description = {"초콜렛 중탕 작업을 마쳤다. 유노 광장의 <NAVI>[베티나르]<INFO>yuno,140,167,0,101,0</INFO></NAVI>에게 가서 보고하자."}
+, Summary = "베티나르와 대화"}
+, 
+[16709] = {Title = "행복한 아몬드 분쇄", IconName = "ico_ev.bmp", 
+Description = {"유노 광장의 <NAVI>[위스타드]<INFO>yuno,146,166,0,101,0</INFO></NAVI>에게 가서 아몬드를 분쇄하는 작업을 시작해 보자."}
+, Summary = "위스타드와 대화"}
+, 
+[16710] = {Title = "행복한 알 만들기 완료", IconName = "ico_ev.bmp", 
+Description = {"오늘의 알 만들기 작업을 마무리했다. 유노 광장의 <NAVI>[질리언]<INFO>yuno,142,163,0,101,0</INFO></NAVI>에게 돌아가 보고하자."}
+, Summary = "질리언과 대화"}
+, 
+[16711] = {Title = "행복한 숨바꼭질-대기", IconName = "ico_ev.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 유노의 <NAVI>[세이럼]<INFO>yuno,150,155,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16712] = {Title = "행복한 숨바꼭질", IconName = "ico_ev.bmp", 
+Description = {"큐펫들이 유노 여기저기에 숨었다. 찾으러 가 보자. <NAVI>[세이럼]<INFO>yuno,150,155,0,101,0</INFO></NAVI>에게 가면 힌트를 줄 지도?"}
+, Summary = "숨바꼭질 놀이"}
+, 
+[16713] = {Title = "행복한 포링 찾기", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨은 포링을 찾아 돌아가자."}
+, Summary = "포링 찾기"}
+, 
+[16714] = {Title = "행복한 숨바꼭질 완료", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨어 있던 큐펫을 찾았다. 큐펫과 함께 <NAVI>[세이럼]<INFO>yuno,150,155,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "세이럼과 대화"}
+, 
+[16715] = {Title = "행복한 새끼 데저트울프 찾기", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨은 새끼 데저트울프를 찾아 돌아가자."}
+, Summary = "새끼 데저트울프 찾기"}
+, 
+[16716] = {Title = "행복한 숨바꼭질 완료", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨어 있던 큐펫을 찾았다. 큐펫과 함께 <NAVI>[세이럼]<INFO>yuno,150,155,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "세이럼과 대화"}
+, 
+[16717] = {Title = "행복한 데비루치 찾기", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨은 데비루치를 찾아 돌아가자."}
+, Summary = "데비루치 찾기"}
+, 
+[16718] = {Title = "행복한 숨바꼭질 완료", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨어 있던 큐펫을 찾았다. 큐펫과 함께 <NAVI>[세이럼]<INFO>yuno,150,155,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "세이럼과 대화"}
+, 
+[16719] = {Title = "행복한 루나틱 찾기", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨은 루나틱을 찾아 돌아가자."}
+, Summary = "루나틱 찾기"}
+, 
+[16720] = {Title = "행복한 숨바꼭질 완료", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨어 있던 큐펫을 찾았다. 큐펫과 함께 <NAVI>[세이럼]<INFO>yuno,150,155,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "세이럼과 대화"}
+, 
+[16721] = {Title = "행복한 페코페코 찾기", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨은 페코페코를 찾아 돌아가자."}
+, Summary = "페코페코 찾기"}
+, 
+[16722] = {Title = "행복한 숨바꼭질 완료", IconName = "ico_ev.bmp", 
+Description = {"유노 어딘가에 숨어 있던 큐펫을 찾았다. 큐펫과 함께 <NAVI>[세이럼]<INFO>yuno,150,155,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "세이럼과 대화"}
 , 
 [17000] = {Title = "대화 거부", IconName = "ico_ep.bmp", 
 Description = {"<NAVI>[레이지]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>씨는 더 이상 카야 토스 부사장과 대화 하기를 거부했다. 무슨 사연이 있는지 물어 보자."}
@@ -30975,6 +31315,134 @@ Description = {"각계 인사의 감사 선물을 받았습니다."}
 Description = {"사령관에게서 답례품을 받았습니다."}
 , Summary = "사령관의 답례"}
 , 
+[17690] = {Title = "새로운 탐색지", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[얼음의 성]<INFO>icas_in,262,202,0,101,0</INFO></NAVI> 안쪽에서 다들 모여 새로운 탐색지에 대해 의논을 한다고 한다."}
+, Summary = "얼음의 성으로"}
+, 
+[17691] = {Title = "르간들의 은신처 잠입", IconName = "ico_ep.bmp", 
+Description = {"그간 굳게 닫혀있던 <NAVI>[뱀신의 둥지]<INFO>jor_nest,36,274,0,101,0</INFO></NAVI>의 문을 열었다. 이제 변신 스크롤로 르간으로 변신한 뒤 안으로 진입하는 일만 남았다."}
+, Summary = "문은 열렸다"}
+, 
+[17692] = {Title = "르간들의 은신처 잠입", IconName = "ico_ep.bmp", 
+Description = {"변신 스크롤로 르간으로 변신한 뒤 열린 뱀신의 둥지 <NAVI>[너머]<INFO>jor_root1,32,34,0,101,0</INFO></NAVI>로 진입했다. 샅샅이 조사해 보자."}
+, Summary = "뱀신의 뿌리로"}
+, 
+[17693] = {Title = "르간들의 은신처 잠입", IconName = "ico_ep.bmp", 
+Description = {"인간인 것을 알아보는 특이한 르간이 있다. 일단 이런 녀석들을 처리하면서 뱀신의 뿌리에 있을 <NAVI>[일행]<INFO>jor_root2,239,243,0,101,0</INFO></NAVI>을 찾아봐야겠다."}
+, Summary = "르간 주술사 처리"}
+, 
+[17694] = {Title = "르간들의 은신처 잠입", IconName = "ico_ep.bmp", 
+Description = {"레이지가 안쪽을 살펴보고 오겠다며 나갔다. 뱀신의 뿌리 안에 있는 <NAVI>[은신처]<INFO>jor_root2,239,243,0,101,0</INFO></NAVI>에서 레이지를 기다리자."}
+, Summary = "해결사 레이지"}
+, 
+[17695] = {Title = "르간들의 은신처 잠입", IconName = "ico_ep.bmp", 
+Description = {"레이지는 뱀신의 뿌리 <NAVI>[은신처]<INFO>jor_root2,239,243,0,101,0</INFO></NAVI>에 우연히 굴러떨어진 르간 주교로 변장해 안으로 잠입하자는 의견을 내놓았다."}
+, Summary = "레이지의 계책?"}
+, 
+[17696] = {Title = "성스럽고 성스러운", IconName = "ico_ep.bmp", 
+Description = {"일행은 레이지가 변장한 최상급 르간의 모습을 앞세워 <NAVI>[성스러운 뿌리]<INFO>jor_sanct,162,86,0,101,0</INFO></NAVI>로 진입하기로 했다."}
+, Summary = "성스러운 뿌리로"}
+, 
+[17697] = {Title = "성스럽고 성스러운", IconName = "ico_ep.bmp", 
+Description = {"성스러운 뿌리에 도착하자 일을 도와달라는 최상급 <NAVI>[르간]<INFO>jor_sanct,162,86,0,101,0</INFO></NAVI>들이 줄을 섰다. 성의껏 도와주도록 하자."}
+, Summary = "르간의 일을 돕자 1"}
+, 
+[17698] = {Title = "성스럽고 성스러운", IconName = "ico_ep.bmp", 
+Description = {"뱀신의 뿌리로 나가 우리 <NAVI>[주교]<INFO>jor_sanct,162,86,0,101,0</INFO></NAVI>들이 즐겨 먹는 뱀딸기 3개를 캐오너라."}
+, Summary = "뱀딸기 3개 캐기"}
+, 
+[17699] = {Title = "성스럽고 성스러운", IconName = "ico_ep.bmp", 
+Description = {"최상급 르간에게서 성스러운 뿌리에 관한 이야기를 조금 들을 수 있었다. 성스러운 뿌리에 있는 다른 최상급 <NAVI>[르간]<INFO>jor_sanct,185,128,0,101,0</INFO></NAVI>에게서 정보를 더 얻어보자."}
+, Summary = "르간의 일을 돕자 2"}
+, 
+[17700] = {Title = "성스럽고 성스러운", IconName = "ico_ep.bmp", 
+Description = {"최상급 르간에게서 마력흡수 장치와 아윈 변신 장치에 관한 이야기를 들을 수 있었다. 성스러운 뿌리에 있는 다른 최상급 <NAVI>[르간]<INFO>jor_sanct,42,105,0,101,0</INFO></NAVI>에게서 정보를 더 얻어보자."}
+, Summary = "르간의 일을 돕자 3"}
+, 
+[17701] = {Title = "르간들의 신뢰 얻기", IconName = "ico_ep.bmp", 
+Description = {"정보를 더 얻으려면 르간들의 신뢰를 얻어야한다. 성스러운 뿌리에 있는 <NAVI>[파모슈간드]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI>를 비롯한 도움이 필요한 르간들을 도와주자."}
+, Summary = "르간의 일을 돕자 4"}
+, 
+[17702] = {Title = "미로의 끝이 향하는 곳", IconName = "ico_ep.bmp", 
+Description = {"라스간드의 오른팔이라는 사레크간드는 모험가에게 뱀의 미로쪽으로 향하는 <NAVI>[문]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI> 앞으로 조용히 올 것을 당부했다."}
+, Summary = "뱀의 미로로"}
+, 
+[17703] = {Title = "미로의 끝이 향하는 곳", IconName = "ico_ep.bmp", 
+Description = {"이 문 너머 뱀의 미로에는 기생충들이 살고 있지. 청소가 필요하겠지. 그 분이 오시기 전에 3마리만 해치우고 다시 <NAVI>[성스러운 뿌리]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI>로 돌아오너라."}
+, Summary = "뱀의 미로 청소"}
+, 
+[17704] = {Title = "미로의 끝이 향하는 곳", IconName = "ico_ep.bmp", 
+Description = {"라스간드의 오른팔이라는 사레크간드는 라스간드를 맞이하러 간다고 했다. 뱀의 미로에서 사레크간드의 <NAVI>[흔적]<INFO>jor_maze,15,47,0,101,0</INFO></NAVI>을 찾자."}
+, Summary = "사레크간드의 흔적 찾기 1"}
+, 
+[17705] = {Title = "미로의 끝이 향하는 곳", IconName = "ico_ep.bmp", 
+Description = {"사레크간드의 흔적이 드문드문 이어져있다. <NAVI>[뱀의 미로]<INFO>jor_maze,17,153,0,101,0</INFO></NAVI>를 더 샅샅이 뒤져봐야 할 것 같다."}
+, Summary = "사레크간드의 흔적 찾기 2"}
+, 
+[17706] = {Title = "미로의 끝이 향하는 곳", IconName = "ico_ep.bmp", 
+Description = {"일행과 헤어진 뒤 혼자 남겨졌다. 사레크간드의 흔적을 찾아 <NAVI>[뱀의 미로]<INFO>jor_maze,140,71,0,101,0</INFO></NAVI>를 조사 하자."}
+, Summary = "사레크간드의 흔적 찾기 3"}
+, 
+[17707] = {Title = "뜻밖의 재회", IconName = "ico_ep.bmp", 
+Description = {"뱀의 미로에 수상한 <NAVI>[장치]<INFO>jor_maze,140,71,0,101,0</INFO></NAVI>가 있다. 이런 것을 만들 인물은 바곳 뿐이니 장치를 조사하면 단서를 얻을 수 있을 것 같다."}
+, Summary = "수상한 장치 조사"}
+, 
+[17708] = {Title = "뜻밖의 재회", IconName = "ico_ep.bmp", 
+Description = {"라스간드와의 대치 중에 갑자기 나타난 하얀 고양이는 라스간드 일행을 날려 버리고 모험가 <NAVI>[일행]<INFO>jor_back1,365,226,0,101,0</INFO></NAVI> 또한 얼어붙은 비늘 언덕으로 보냈다."}
+, Summary = "하얀 고양이의 힘"}
+, 
+[17709] = {Title = "은신처 잠입 보고", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[얼음의 성]<INFO>icas_in,226,255,0,101,0</INFO></NAVI>으로 돌아가 \'그 곳\'의 정보와 라스간드에 대한 정보를 보고하자."}
+, Summary = "얼음의 성으로"}
+, 
+[17710] = {Title = "뱀의 미로 청소", IconName = "ico_dq.bmp", 
+Description = {"오늘도 청소, 청소뿐이다! 뱀의 미로에서 돌아다니는 요르문간드 가디언을 색깔별로 10마리씩 치운뒤 <NAVI>[성스러운 뿌리]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI>로 돌아오너라."}
+, Summary = "요르문간드 가디언 처리"}
+, 
+[17711] = {Title = "대기: 뱀의 미로 청소", IconName = "ico_dq.bmp", 
+Description = {"새벽이 지나면 성스러운 뿌리에 있는 <NAVI>[감독관]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI>을 찾아가 청소 일을 새로 받도록 하자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17712] = {Title = "새 삶의 터전", IconName = "ico_ep.bmp", 
+Description = {"일전에 납치한 최상급 르간이 말썽이라고 한다. 도움을 요청하는 <NAVI>[아윈 병사]<INFO>icecastle,46,164,0,101,0</INFO></NAVI>를 따라 얼음의 성으로 가보자."}
+, Summary = "얼음의 성으로"}
+, 
+[17713] = {Title = "새 삶의 터전", IconName = "ico_ep.bmp", 
+Description = {"얼음의 성에 붙들어 둔 나드야간드의 요구 때문에 <NAVI>[호르르]<INFO>icas_in2,31,116,0,101,0</INFO></NAVI>는 고심 중이다."}
+, Summary = "귀하신 분"}
+, 
+[17714] = {Title = "새 삶의 터전", IconName = "ico_ep.bmp", 
+Description = {"얼음의 성에 감금 중인 <NAVI>[나드야간드]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI>의 입을 열기 위해선 그가 요구하는 뱀딸기를 가져와야 한다. 뱀신의 뿌리로 뱀딸기 10개를 캐러 다녀와야겠다."}
+, Summary = "뱀딸기 10"}
+, 
+[17715] = {Title = "새 삶의 터전", IconName = "ico_ep.bmp", 
+Description = {"뱀딸기를 공수해왔지만 최상급 르간은 아는 것이 없다. 심지어 얼음의 성에 눌러 앉을 생각을 하던 찰나에 <NAVI>[레이지]<INFO>icas_in2,32,120,0,101,0</INFO></NAVI>가 나타났다. 레이지에게 조언을 구해보자."}
+, Summary = "레이지와 대화"}
+, 
+[17716] = {Title = "새 삶의 터전", IconName = "ico_ep.bmp", 
+Description = {"일을 하지 않고 놀고 먹겠다는 나드야간드를 레이지는 손쉽게 설득했다. 대체 어떻게? 얼음의 성을 방문한 <NAVI>[레이지]<INFO>icas_in2,32,120,0,101,0</INFO></NAVI>에게 방법을 물어 보자."}
+, Summary = "레이지와 대화"}
+, 
+[17717] = {Title = "대기: 취미 생활의 맛", IconName = "ico_dq.bmp", 
+Description = {"자신도 모르게 열심히 일을 하는 <NAVI>[나드야간드]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI>에게 간식을 가져다주기로 했다. 새벽이 지난 후 다시 얼음의 성으로 찾아가자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17718] = {Title = "취미 생활의 맛", IconName = "ico_dq.bmp", 
+Description = {"얼음의 성에서 열심히 일을 하는 <NAVI>[나드야간드]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI>를 위해 뱀신의 뿌리에서 뱀딸기 10개를 캐서 가져다주자."}
+, Summary = "뱀딸기 10"}
+, 
+[17719] = {Title = "성스럽고 성스러운", IconName = "ico_ep.bmp", 
+Description = {"성스러운 뿌리에 있는 르간 <NAVI>[주교]<INFO>jor_sanct,162,86,0,101,0</INFO></NAVI>에게 뱀딸기를 가져다주자.."}
+, Summary = "뱀딸기 전달"}
+, 
+[17720] = {Title = "취미 생활의 맛", IconName = "ico_dq.bmp", 
+Description = {"뱀딸기를 모두 캤다. 얼음의 성에 있는 <NAVI>[나드야간드]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI>에게 가져다주자."}
+, Summary = "나드야간드에게"}
+, 
+[17721] = {Title = "취미 생활의 맛", IconName = "ico_dq.bmp", 
+Description = {"뱀딸기를 모두 캤다. 얼음의 성에 있는 <NAVI>[나드야간드]<INFO>icas_in2,30,121,0,101,0</INFO></NAVI>에게 가져다주자."}
+, Summary = "나드야간드에게"}
+, 
 [18000] = {Title = "진입 준비", IconName = "ico_ep.bmp", 
 Description = {"드디어 하수관의 잠금장치 해제에 성공한 리벨리온. 루키는 하수관으로 진입할 준비가 다 되면 다시 말을 걸어 달라고 했다."}
 , Summary = "루키와 대화"}
@@ -31492,7 +31960,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [18132] = {Title = "사람이 필요해요.", IconName = "ico_ep.bmp", 
-Description = {"얼음성 로비에서 만난 레하르는 레온이 급히 도와줄 사람을 찾는다는 이야길 한다. <NAVI>[벨레온]<INFO>icas_in,42,252,0,101,0</INFO></NAVI>을 만나 이야기를 들어보자."}
+Description = {"얼음성 로비에서 만난 레하르는 레온이 급히 도와줄 사람을 찾는다는 이야길 한다. <NAVI>[레온]<INFO>icas_in,42,252,0,101,0</INFO></NAVI>을 만나 이야기를 들어보자."}
 , Summary = "레온과 대화"}
 , 
 [18133] = {Title = "레온의 이야기", IconName = "ico_ep.bmp", 
@@ -31830,6 +32298,98 @@ Description = {"언제 몬스터의 범람이 일어날지 모르는 묘르닐 지하 동굴의 몬스터를
 [18217] = {Title = "대규모 몬스터 퇴치 대기", IconName = "ico_nq.bmp", 
 Description = {"해당 퀘스트는 주간 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 아인브로크 남쪽 필드에서 <NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
 , Summary = "토요일 04시 초기화", CoolTimeQuest = 1}
+, 
+[18218] = {Title = "테스입니다.", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[베르너 연구소 입구]<INFO>que_swat,145,57,0,101,0</INFO></NAVI> 앞으로 와 주십시오. 긴히 드릴 말씀이 있습니다."}
+, Summary = "테스와 대화"}
+, 
+[18219] = {Title = "근황 확인", IconName = "ico_ep.bmp", 
+Description = {"일련의 사건이 마무리되었다. 근신을 하던 <NAVI>[니힐]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>은 지금 어떻게 되었는지 궁금하다. 프론테라 성으로 가서 확인하자!"}
+, Summary = "니힐과 대화"}
+, 
+[18220] = {Title = "얼음성으로", IconName = "ico_ep.bmp", 
+Description = {"냐르 님의 도움을 받았다. 얼음성으로 돌아가 <NAVI>[레온]<INFO>icas_in,111,228,0,101,0</INFO></NAVI>과 동료들을 확인하자."}
+, Summary = "레온과 대화"}
+, 
+[18221] = {Title = "레하르를 찾아서...!", IconName = "ico_ep.bmp", 
+Description = {"뱀의 뿌리 1층에서 <NAVI>[표식]<INFO>jor_root1,32,75,0,101,0</INFO></NAVI>을 찾아 레하르와 합류하기로 했다."}
+, Summary = "표식 조사"}
+, 
+[18222] = {Title = "조사, 조사, 조사", IconName = "ico_ep.bmp", 
+Description = {"레하르는 뱀의 뿌리에 남겨 둔 표식을 조사한 뒤 성스러운 뿌리에서 정보를 교환하자고 했다. 표식이 새겨진 장소는 모두 세 곳이다."}
+, Summary = "표식 3개 조사"}
+, 
+[18223] = {Title = "레하르의 표식 1", IconName = "ico_ep.bmp", 
+Description = {"뱀의 뿌리 1층에 남겨진 레하르의 <NAVI>[표식]<INFO>jor_root1,69,128,0,101,0</INFO></NAVI> 중 하나다. 안으로 길게 이어진 길이 있다. 들어가서 바곳의 연구실이 있는지 확인하자."}
+, Summary = "표식 조사"}
+, 
+[18224] = {Title = "레하르의 표식 2", IconName = "ico_ep.bmp", 
+Description = {"뱀의 뿌리 1층에 남겨진 레하르의 <NAVI>[표식]<INFO>jor_root1,35,211,0,101,0</INFO></NAVI> 중 하나다. 안으로 길게 이어진 길이 있다. 들어가서 바곳의 연구실이 있는지 확인하자."}
+, Summary = "표식 조사"}
+, 
+[18225] = {Title = "레하르의 표식 3", IconName = "ico_ep.bmp", 
+Description = {"뱀의 뿌리 1층에 남겨진 레하르의 <NAVI>[표식]<INFO>jor_root1,254,66,0,101,0</INFO></NAVI> 중 하나다. 안으로 길게 이어진 길이 있다. 들어가서 바곳의 연구실이 있는지 확인하자."}
+, Summary = "표식 조사"}
+, 
+[18226] = {Title = "허탕이고요. 다음 장소는요.", IconName = "ico_ep.bmp", 
+Description = {"뱀의 뿌리 1층에 남겨진 모든 표식을 조사했지만 바곳의 연구실 입구는 발견하지 못했다. <NAVI>[성스러운 뿌리]<INFO>jor_sanct,133,86,0,101,0</INFO></NAVI>에서 레하르, 미리암과 합류하자."}
+, Summary = "표식 조사"}
+, 
+[18227] = {Title = "성스러운 뿌리 동향 조사", IconName = "ico_ep.bmp", 
+Description = {"레하르, 미리암과 함께 성스러운 뿌리 내부의 동향을 살피기로 했다. 담당 구역은 중앙으로 가서 <NAVI>[르간 주교]<INFO>jor_sanct,150,207,0,101,0</INFO></NAVI>에게 말을 걸어 정보를 얻자."}
+, Summary = "주교와 대화"}
+, 
+[18228] = {Title = "냐르의 부름", IconName = "ico_ep.bmp", 
+Description = {"거대한 진동과 함께 작은가지의 둥지로 끌려와버렸다.  작은가지의 둥지에 있는 <NAVI>[흰 고양이]<INFO>jor_twig,187,198,0,101,0</INFO></NAVI>는 할 말이 있는 모양이다. 다급한 표정이다."}
+, Summary = "흰 고양이와 대화"}
+, 
+[18229] = {Title = "고양이 등을 밟고 달려!", IconName = "ico_ep.bmp", 
+Description = {"거대한 진동이 다시 발생했다. 작은가지 둥지 <NAVI>[안 쪽]<INFO>jor_twig,180,123,0,101,0</INFO></NAVI>에서 무슨 일이 벌어지는 것 같다. 가보자!"}
+, Summary = "흰 고양이와 대화"}
+, 
+[18230] = {Title = "다들 여기 있었어?", IconName = "ico_ep.bmp", 
+Description = {"그토록 찾아 헤매던 바곳과 라스간드는 작은가지의 둥지에 기어코 침입한 모양이다. 라스간드와 맞서고 있을 <NAVI>[냐르]<INFO>jor_twig,142,153,0,101,0</INFO></NAVI>와 레온을 도와주러 가야한다."}
+, Summary = "흰 고양이와 대화"}
+, 
+[18231] = {Title = "그래서 무슨일이 있었는데?", IconName = "ico_ep.bmp", 
+Description = {"작은가지 둥지까지 침입한 라스간드는 <NAVI>[냐르]<INFO>jor_twig,142,153,0,101,0</INFO></NAVI>의 분신과 함께 사라졌다. <NAVI>[레온]<INFO>jor_twig,138,157,0,101,0</INFO></NAVI>에게 라스간드의 행방을 묻자."}
+, Summary = "레온과 대화"}
+, 
+[18232] = {Title = "분리된 성소", IconName = "ico_ep.bmp", 
+Description = {"세계수와 둥지의 힘을 뺏기기 전에 라스간드는 다른 차원의 공간에 고립되었다. 라스간드를 강제로 분리한 <NAVI>[냐르]<INFO>jor_twig,142,153,0,101,0</INFO></NAVI>는 결계를 유지하는데만도 빠듯한 것 같다. <NAVI>[오렐리]<INFO>jor_twig,138,152,0,101,0</INFO></NAVI>를 통해 \'분리된 성소\'로 가서 라스간드를 저지하자."}
+, Summary = "라스간드 무력화"}
+, 
+[18233] = {Title = "죽지 않는 자", IconName = "ico_ep.bmp", 
+Description = {"이미르의 심장 조각의 힘을 흡수한 라스간드는 도저히 처치할 수 없는 상대였다. 하지만 오염된 이미르의 심장 조각을 얻었으니, 일단 <NAVI>[얼음성]<INFO>icecastle,158,204,0,101,0</INFO></NAVI>으로 돌아가자. 보클린드의 위치는 <NAVI>[치치링]<INFO>icecastle,75,126,0,101,0</INFO></NAVI>이 알고 있다."}
+, Summary = "보클린드와 대화"}
+, 
+[18234] = {Title = "아윈의 아윈 걱정", IconName = "ico_dq.bmp", 
+Description = {"얼음성 <NAVI>[치치링]<INFO>icecastle,75,126,0,101,0</INFO></NAVI>의 의뢰. 고대 아이스윈드들의 안전을 위해 깊은 뿌리 동굴 몬스터를 처치해야 한다."}
+, Summary = "깊은 뿌리 동굴 몬스터 처치"}
+, 
+[18235] = {Title = "아윈의 아윈 걱정-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 얼음성의 <NAVI>[치치링]<INFO>icecastle,75,126,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[18236] = {Title = "보클린드의 섬멸작전1", IconName = "ico_dq.bmp", 
+Description = {"이스가르드의 <NAVI>[보클린드]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI>는 뱀신의 뿌리 1층에 나오는 르간을 섬멸하고 싶어한다. 같이 날뛰어주자!"}
+, Summary = "뱀신의 뿌리 1층 르간 처치"}
+, 
+[18237] = {Title = "보클린드의 섬멸작전1-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 이스가르드의 <NAVI>[보클린드]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI>를  통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[18238] = {Title = "보클린드의 섬멸작전2", IconName = "ico_dq.bmp", 
+Description = {"이스가르드의 <NAVI>[보클린드]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI>는 뱀신의 뿌리 2층에 나오는 르간을 섬멸하고 싶어한다. 같이 날뛰어주자!"}
+, Summary = "뱀신의 뿌리 2층 르간 처치"}
+, 
+[18239] = {Title = "보클린드의 섬멸작전2-대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 이스가르드의 <NAVI>[보클린드]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[18240] = {Title = "얼음성으로", IconName = "ico_ep.bmp", 
+Description = {"냐르와 대화하다."}
+, Summary = "냐르와 대화"}
 , 
 [19000] = {Title = "꽃이 피어난 대지", IconName = "ico_dq.bmp", 
 Description = {"낙원단 독점 의뢰입니다.", "<NAVI>[꽃이 피어난 대지]<INFO>ecl_fild01,182,93,0,101,0</INFO></NAVI>지역의 몬스터를 처치 후 상급의뢰 게시판에 보고해주세요.", "^FF0000※해당 지역에 입장하기 위한 조건이 있을 수 있습니다.^000000"}
@@ -32293,6 +32853,254 @@ Description = {"레벨 150 이상인 수속성 몬스터 100마리를", "잡은 후 <NAVI>[조사관
 , 
 [19115] = {Title = "초백서의 의뢰 Lv4", IconName = "ico_ev.bmp", 
 Description = {"레벨 200 이상인 수속성 몬스터 100마리를", "잡은 후 <NAVI>[조사관 초백서]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>에게 돌아가 보상을 받자."}
+, Summary = ""}
+, 
+[19116] = {Title = "피스리크의 연구(1)", IconName = "ico_jq.bmp", 
+Description = {"지금 내가 필요로 하는 재료를 납품해주면, 그 대가로 내가 뭘 만드는지 가르쳐 주지. 지금 필요한 재료는..", "▶<ITEM>[옐로우 젬스톤]<INFO>715</INFO></ITEM> 5개,", "▶<ITEM>[빈포션병]<INFO>1093</INFO></ITEM> 4개,", "▶<ITEM>[인어의 심장]<INFO>950</INFO></ITEM> 10개,", "▶<ITEM>[나방의 날개가루]<INFO>1057</INFO></ITEM> 10개", "   ", "재료를 다 구하면, <NAVI>[피스리크]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "", NpcSpr = "4_M_ALCHE_D", NpcNavi = "yuno_in04", NpcPosX = 33, NpcPosY = 108}
+, 
+[19117] = {Title = "피스리크의 연구(2-1)", IconName = "ico_jq.bmp", 
+Description = {"내 이론을 실험해 볼 <ITEM>[식인수의 꽃]<INFO>1032</INFO></ITEM>이 20개 정도 필요한데.. 이것도 좀 부탁해도 될까?", "   ", "재료를 다 구하면, <NAVI>[피스리크]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "식인수의 꽃 20개", NpcSpr = "4_M_ALCHE_D", NpcNavi = "yuno_in04", NpcPosX = 33, NpcPosY = 108}
+, 
+[19118] = {Title = "피스리크의 연구(2-2)", IconName = "ico_jq.bmp", 
+Description = {"실험이 생각같이 잘 안되네.. <ITEM>[식인수의 꽃]<INFO>1032</INFO></ITEM> 1개만 더 구해줄 수 있겠어? 부탁할게.", "   ", "재료를 다 구하면, <NAVI>[피스리크]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "식인수의 꽃 1개", NpcSpr = "4_M_ALCHE_D", NpcNavi = "yuno_in04", NpcPosX = 33, NpcPosY = 108}
+, 
+[19119] = {Title = "피스리크의 연구(3)", IconName = "ico_jq.bmp", 
+Description = {"저기.. 미안하지만 내가 쓰고 있던 것과 같은 안경을 좀 구해다 주지 않겠어? 난 앞이 안 보여서 꼼짝할 수 없으니 대신 좀 구해다 주면 정말 고마울 것 같아", "   ", "<ITEM>[스핀 글래스]<INFO>2243</INFO></ITEM>를 구해 <NAVI>[피스리크]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>에게 가져가자.", "^FF0000※ 가방에 사용중인 다른 스핀 글래스가 없는지 주의해주세요.^000000"}
+, Summary = "스핀 글래스 1개", NpcSpr = "4_M_ALCHE_D", NpcNavi = "yuno_in04", NpcPosX = 33, NpcPosY = 108}
+, 
+[19120] = {Title = "음유시인의 노래 (1)", IconName = "ico_jq.bmp", 
+Description = {"프론테라에서 만난 <ITEM>[트로피칼 소그라트]<INFO>12112</INFO></ITEM>를", "좋아하던 소심한 청년의 말이 신경 쓰인다. 음유시인의 저주라니.. 역시 이런 정보 수집은..", "<NAVI>[모로크 주점]<INFO>morocc_in,179,65,0,101,0</INFO></NAVI>에서부터 시작해야겠지?"}
+, Summary = "정보수집"}
+, 
+[19121] = {Title = "음유시인의 노래 (1)", IconName = "ico_jq.bmp", 
+Description = {"모로크 주점에서 만난 바드 <NAVI>[라이오트]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>는", "시인의 친구가 아니라며, 상대해 주지 않는다. 게펜에서 울고 있는 어린 시인? 대체 무엇을 말하는 걸까?", "  ", "※ 게펜의 <NAVI>[음유시인 퀘스트]<INFO>geffen,132,38,0,101,0</INFO></NAVI>를 클리어해야 합니다."}
+, Summary = "", NpcSpr = "2_M_BARD_ORIENT", NpcNavi = "morocc_in", NpcPosX = 169, NpcPosY = 72}
+, 
+[19122] = {Title = "음유시인의 노래 (2)", IconName = "ico_jq.bmp", 
+Description = {"라이오트.. 쉽게 알려주지는 않겠다는 건가?", "나무줄기를 타고 갈 수 있는 곳? 니플헤임?", "니플헤임에서 이히레의 알을 다섯 개를 구해오란 건가?", "  ", "니플헤임에서 이히레를 찾고 <ITEM>[알]<INFO>574</INFO></ITEM> 다섯 개를 구해 <NAVI>[라이오트]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>에게 가져다 주자.", "  ", "▶이히레의 출몰 지역", "<NAVI>[장소]<INFO>niflheim,239,70,0,101,0</INFO></NAVI>/<NAVI>[장소]<INFO>niflheim,185,205,0,101,0</INFO></NAVI>/<NAVI>[장소]<INFO>niflheim,85,203,0,101,0</INFO></NAVI>/<NAVI>[장소]<INFO>niflheim,149,81,0,101,0</INFO></NAVI>/<NAVI>[장소]<INFO>niflheim,209,144,0,101,0</INFO></NAVI>", "^FF0000※ 죽은 자의 도시에서는 밖으로 나오는 길안내가 되지 않습니다.^000000"}
+, Summary = "이히레의 알 5개", NpcSpr = "2_M_BARD_ORIENT", NpcNavi = "morocc_in", NpcPosX = 169, NpcPosY = 72}
+, 
+[19123] = {Title = "음유시인의 노래 (2)", IconName = "ico_jq.bmp", 
+Description = {"이상하다?! 분명 이히레에게 알 다섯 개를 얻었던 것 같은데? 기술이 배우고 싶다면, 무낙인형 1개를 구해오라고?", "  ", "<ITEM>[무낙인형]<INFO>7277</INFO></ITEM> 1개를 구해 <NAVI>[라이오트]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>에게 가져다 주자."}
+, Summary = "무낙인형 1개", NpcSpr = "2_M_BARD_ORIENT", NpcNavi = "morocc_in", NpcPosX = 169, NpcPosY = 72}
+, 
+[19124] = {Title = "닳지 않는 소식 (1)", IconName = "ico_jq.bmp", 
+Description = {"게펜의 포드 레슬리는 브리토리아로 근무를 나간 근무자가 소식을 보내오지 않아 걱정을 하고 있다.", "   ", "▶[브리토리아]로 가서 ^0000FF슬라티^191240라는 이름을 가진 기사를 찾아보자."}
+, Summary = "기사 슬라티 찾기", NpcSpr = "4_M_CRU", NpcNavi = "gef_fild13", NpcPosX = 297, NpcPosY = 242}
+, 
+[19125] = {Title = "닳지 않는 소식 (2)", IconName = "ico_jq.bmp", 
+Description = {"부상을 입어 정신을 차리지 못하고 있는 <NAVI>[슬라티]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI>가 정신을 차릴 수 있도록..", "   ", "▶<ITEM>[빨간포션]<INFO>909</INFO></ITEM> 1개를 구해오자."}
+, Summary = "슬라티에게 빨간포션을..", NpcSpr = "4_M_CRU", NpcNavi = "gef_fild13", NpcPosX = 297, NpcPosY = 242}
+, 
+[19126] = {Title = "닳지 않는 소식 (3)", IconName = "ico_jq.bmp", 
+Description = {"슬라티가 목숨을 걸고 가져가려던, 보고서와 기사단 출정 요청서를...", "   ", "▶게펜의 <NAVI>[포드]<INFO>geffen,110,117,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "포드에게..", NpcSpr = "4_M_CRU_OLD", NpcNavi = "geffen", NpcPosX = 110, NpcPosY = 117}
+, 
+[19127] = {Title = "닳지 않는 소식 (4)", IconName = "ico_jq.bmp", 
+Description = {"고블린 독에 당한 상처는 해독 약이 없으면 상처가 아물지 않는다고 한다. 해독 약을 만들 수 있는 프론테라 성당의 사제", "   ", "▶<NAVI>[아서]<INFO>prt_church,87,125,0,101,0</INFO></NAVI>에게 가서 치료제를 구하자."}
+, Summary = "", NpcSpr = "4_M_SAGE_C", NpcNavi = "prt_church", NpcPosX = 87, NpcPosY = 125}
+, 
+[19128] = {Title = "닳지 않는 소식 (5)", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[아서]<INFO>prt_church,87,125,0,101,0</INFO></NAVI>는 고블린독 치료제의 재료가 필요하다며 재료를 알려줬다. 재료를 구해 가져다 주자.", "   ", "▶치료제의 재료", "<ITEM>[포도]<INFO>514</INFO></ITEM> 1개, <ITEM>[덜익은 사과]<INFO>619</INFO></ITEM> 1개, <ITEM>[빈병]<INFO>713</INFO></ITEM> 3개,", "<ITEM>[젤로피]<INFO>909</INFO></ITEM> 5개, <ITEM>[끈적끈적한 액체]<INFO>938</INFO></ITEM> 20개,", "<ITEM>[석탄]<INFO>1003</INFO></ITEM> 1개, <ITEM>[사이파]<INFO>7053</INFO></ITEM> 3개"}
+, Summary = "치료제의 재료", NpcSpr = "4_M_SAGE_C", NpcNavi = "prt_church", NpcPosX = 87, NpcPosY = 125}
+, 
+[19129] = {Title = "닳지 않는 소식 (6)", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[아서]<INFO>prt_church,87,125,0,101,0</INFO></NAVI>는 고블린독 치료제를 제조하고 있다.", "   ", "▶제조가 다 되었는지 말을 걸어보자."}
+, Summary = "", NpcSpr = "4_M_SAGE_C", NpcNavi = "prt_church", NpcPosX = 87, NpcPosY = 125}
+, 
+[19130] = {Title = "닳지 않는 소식 (7)", IconName = "ico_jq.bmp", 
+Description = {"고블린독 치료제가 완성되었다.", "   ", "▶치료제의 약효가 다하기 전에 <NAVI>[슬라티]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "브리토리아로..", NpcSpr = "4_M_CRU", NpcNavi = "gef_fild13", NpcPosX = 297, NpcPosY = 242}
+, 
+[19131] = {Title = "닳지 않는 소식 (7)", IconName = "ico_jq.bmp", 
+Description = {"너무 늦게 도착한 걸까?", "슬라티에게 먹인 치료제가 아무 효과도 없다.", "   ", "▶<NAVI>[아서]<INFO>prt_church,87,125,0,101,0</INFO></NAVI>에게 치료제를 다시 만들어 달라고 하자."}
+, Summary = "아서에게로..", NpcSpr = "4_M_SAGE_C", NpcNavi = "prt_church", NpcPosX = 87, NpcPosY = 125}
+, 
+[19132] = {Title = "생명윤리 (1)", IconName = "ico_jq.bmp", 
+Description = {"호문클루스 생명윤리의 권위자 켈라서스에게  말을 걸었다가 무시당했다. 보통 상대도 해주지 않는다던데.. 혹시?", "   ", "▶<NAVI>[켈라서스]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>에게 계속 말을 걸어보자."}
+, Summary = "", NpcSpr = "1_M_LIBRARYMASTER", NpcNavi = "lhz_in01", NpcPosX = 224, NpcPosY = 140}
+, 
+[19133] = {Title = "생명윤리 (2)", IconName = "ico_jq.bmp", 
+Description = {"켈라서스에게 호문클루스의 기술을 전수받기 위해서는 일단 호문클루스에 대한 지식을 익히는게 먼저인 것 같다.", "   ", "▶<NAVI>[스크라자드]<INFO>lhz_in01,225,122,0,101,0</INFO></NAVI>에게 호문클루스에 대해 물어보자."}
+, Summary = "", NpcSpr = "4_M_SAGE_A", NpcNavi = "lhz_in01", NpcPosX = 225, NpcPosY = 122}
+, 
+[19134] = {Title = "생명윤리 (3)", IconName = "ico_jq.bmp", 
+Description = {"스크라자드는 ^FF0000콜 호문클루스^000000 스킬에 대해 자세히 알고 있는 케시비언을 소개해 줬다.", "   ", "▶<NAVI>[케시비언]<INFO>lhz_in01,204,138,0,101,0</INFO></NAVI>에게 콜 호문클루스에 대해 물어보자."}
+, Summary = "", NpcSpr = "4_M_ALCHE_C", NpcNavi = "lhz_in01", NpcPosX = 204, NpcPosY = 138}
+, 
+[19135] = {Title = "생명윤리 (4)", IconName = "ico_jq.bmp", 
+Description = {"케시비언은 마지막으로 FF0000리저렉션 호문클루스^000000 스킬에 대해 자세히 알고 있는 브런쳐를 소개해줬다.", "   ", "▶<NAVI>[브런쳐]<INFO>lhz_in02,278,273,0,101,0</INFO></NAVI>에게 리저렉션 호문클루스에 대해 물어보자."}
+, Summary = "", NpcSpr = "4_M_SEAMAN", NpcNavi = "lhz_in02", NpcPosX = 278, NpcPosY = 273}
+, 
+[19136] = {Title = "생명윤리 (5)", IconName = "ico_jq.bmp", 
+Description = {"호문클루스 스킬 안식, 콜 호문클루스, 리저렉션 호문클루스에 대해 배웠다.", "   ", "▶<NAVI>[켈라서스]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>에게 생명윤리를 알려달라고 하자."}
+, Summary = "", NpcSpr = "1_M_LIBRARYMASTER", NpcNavi = "lhz_in01", NpcPosX = 224, NpcPosY = 140}
+, 
+[19137] = {Title = "생명윤리 (6)", IconName = "ico_jq.bmp", 
+Description = {"호문쿨루스는 하나의 생명이고 인간이 왈가왈부해서는 안 된다는 켈라 서스의 고집을 꺾기 위해서는 어찌해야 할까?", "   ", "▶<NAVI>[켈라서스의 가족]<INFO>lhz_in03,106,34,0,101,0</INFO></NAVI>이라도 만나봐야 할까?"}
+, Summary = "", NpcSpr = "4_M_KID1", NpcNavi = "lhz_in03", NpcPosX = 106, NpcPosY = 34}
+, 
+[19138] = {Title = "생명윤리 (7)", IconName = "ico_jq.bmp", 
+Description = {"켈라서스 씨의 아들을 만나본 후 그의 고집을 꺾을 방법이 생각났다.", "   ", "▶<NAVI>[켈라서스]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>에게 가 말을 걸어보자."}
+, Summary = "", NpcSpr = "1_M_LIBRARYMASTER", NpcNavi = "lhz_in01", NpcPosX = 224, NpcPosY = 140}
+, 
+[19139] = {Title = "생명윤리 (8)", IconName = "ico_jq.bmp", 
+Description = {"나의 말을 듣고 켈라서스는 생각이 많아진 것 같다.", "   ", "▶계속해서 <NAVI>[켈라서스]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>에게 말을 걸어보자."}
+, Summary = "", NpcSpr = "1_M_LIBRARYMASTER", NpcNavi = "lhz_in01", NpcPosX = 224, NpcPosY = 140}
+, 
+[19140] = {Title = "생명윤리 (9)", IconName = "ico_jq.bmp", 
+Description = {"켈라서스의 생각 정리가 끝난 것 같다.", "   ", "▶<NAVI>[켈라서스]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>에게 생명윤리를 배우자."}
+, Summary = "", NpcSpr = "1_M_LIBRARYMASTER", NpcNavi = "lhz_in01", NpcPosX = 224, NpcPosY = 140}
+, 
+[19141] = {Title = "차지 어택 (1)", IconName = "ico_jq.bmp", 
+Description = {"프론테라 제7기사단의 기사 에소페는 기사단의 실상을 알고 싶다면, 밖에서 훈련하는 것을 견학하라는 것 같다.", "   ", "▶<NAVI>[기사단 훈련]<INFO>prontera,69,351,0,101,0</INFO></NAVI>을 견학해 보자."}
+, Summary = "기사단 훈련 견학"}
+, 
+[19142] = {Title = "차지 어택 (2)", IconName = "ico_jq.bmp", 
+Description = {"에소페의 말대로 기사단의 훈련 모습을 견학했다.", "   ", "▶<NAVI>[에소페]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "", NpcSpr = "4_M_JOB_KNIGHT2", NpcNavi = "prt_in", NpcPosX = 85, NpcPosY = 99}
+, 
+[19143] = {Title = "차지 어택 (3)", IconName = "ico_jq.bmp", 
+Description = {"에소페는 모든 열정과 의욕을 잃어버린 것 같다. 견학도 중 에소페의 초보 시절에 대해 들었던 것 같은데? 기사라면, 막대사탕 5개와 시들지 않는 장미 3개 정도는 채집해 올 능력이 있어야 한다던가?", "   ", "▶<ITEM>[막대사탕]<INFO>530</INFO></ITEM> 5개와 <ITEM>[시들지 않는 장미]<INFO>748</INFO></ITEM> 3개를 구하고", "▶<NAVI>[에소페]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "의욕을 잃은 기사를 위해", NpcSpr = "4_M_JOB_KNIGHT2", NpcNavi = "prt_in", NpcPosX = 85, NpcPosY = 99}
+, 
+[19144] = {Title = "차지 어택 (4)", IconName = "ico_jq.bmp", 
+Description = {"에소페는 자신이 연구 끝에 개발한 기술을 전수해 준다고 한다.", "   ", "▶<NAVI>[에소페]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>에게 기술을 배우자."}
+, Summary = "", NpcSpr = "4_M_JOB_KNIGHT2", NpcNavi = "prt_in", NpcPosX = 85, NpcPosY = 99}
+, 
+[19145] = {Title = "수행자의 기술 (1)", IconName = "ico_jq.bmp", 
+Description = {"몽크들이 혼신의 힘을 다해서 만들어낸 발경이 진기주입을 모르면 사용할 수 없다고?", "   ", "▶홀로 진기주입을 할 수 있다는 <NAVI>[멍청이인 어떤 바보]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI>를 찾아가 보자."}
+, Summary = "", NpcSpr = "4_M_MONK", NpcNavi = "prt_monk", NpcPosX = 270, NpcPosY = 198}
+, 
+[19146] = {Title = "수행자의 기술 (2)", IconName = "ico_jq.bmp", 
+Description = {"뭔가 하고 싶다면, 물욕부터 버리라고? 혹시...?", "   ", "▶물욕에 관련된 모든 물건을 비우고 <NAVI>[수련몽크]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI>를 찾아가 보자.", "^FF0000※소지 무게를 0으로 만든 후에 진행이 가능한 퀘스트입니다.^000000"}
+, Summary = "", NpcSpr = "4_M_MONK", NpcNavi = "prt_monk", NpcPosX = 270, NpcPosY = 198}
+, 
+[19147] = {Title = "수행자의 기술 (3)", IconName = "ico_jq.bmp", 
+Description = {"진기주입을 배웠다. 그렇다면 혹시 발경도 배울 수 있지 않을까?", "   ", "▶<NAVI>[수도승]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>을 찾아가자."}
+, Summary = "", NpcSpr = "4_M_CHNMONK", NpcNavi = "monk_test", NpcPosX = 316, NpcPosY = 69}
+, 
+[19148] = {Title = "수행자의 기술 (4)", IconName = "ico_jq.bmp", 
+Description = {"힘을 바르게 사용한다는 증명을 해내자.", "   ", "▶<ITEM>[식물의 줄기]<INFO>905</INFO></ITEM> 20개와 <ITEM>[새싹]<INFO>711</INFO></ITEM> 3개를 구해", "▶<NAVI>[수도승]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>을 찾아가자."}
+, Summary = "", NpcSpr = "4_M_CHNMONK", NpcNavi = "monk_test", NpcPosX = 316, NpcPosY = 69}
+, 
+[19149] = {Title = "수행자의 기술 (5)", IconName = "ico_jq.bmp", 
+Description = {"힘을 바르게 사용한다는 자격을 증명해냈다.", "   ", "▶<NAVI>[수도승]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>에게 발경을 배우자."}
+, Summary = "", NpcSpr = "4_M_CHNMONK", NpcNavi = "monk_test", NpcPosX = 316, NpcPosY = 69}
+, 
+[19150] = {Title = "희생", IconName = "ico_jq.bmp", 
+Description = {"^3131FF레뎀프티오^000000\'란 기술 아세요?", "레뎀프티오는 희생, 바로 희생 스킬입니다. ^FF0000파티원을 살리는 대신 자신이 전투 불능에 빠져버리게 되는 점^000000 잊지 마시길 바래요.", "   ", "▶ 리저렉션 스킬 1레벨 이상 습득, <ITEM>[블루 젬스톤]<INFO>717</INFO></ITEM> 20개, <ITEM>[성수]<INFO>523</INFO></ITEM> 30개", "▶ 재료를 가지고 <NAVI>[라이너스 수녀]<INFO>prt_church,111,112,0,101,0</INFO></NAVI>를 찾아가자."}
+, Summary = "", NpcSpr = "1_F_PRIEST", NpcNavi = "prt_church", NpcPosX = 111, NpcPosY = 112}
+, 
+[19151] = {Title = "수상쩍은 상술 (1)", IconName = "ico_jq.bmp", 
+Description = {"일단 재료만 구해 오시면 블랙스미스 조합에서 야심 차게 준비한 ^FF0000수상쩍은 상술^000000을 확실하게 알려 드릴게요.", "▶<ITEM>[강철의 망치]<INFO>613</INFO></ITEM> 1개", "▶<ITEM>[디트리민]<INFO>971</INFO></ITEM> 1개", "▶<ITEM>[강철]<INFO>999</INFO></ITEM> 1개", "▶<ITEM>[석탄]<INFO>1003</INFO></ITEM> 5개", "▶500 제니", "   ", "재료를 다 구하면, <NAVI>[아키]<INFO>geffen,178,72,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "기술을 배우기 위한 재료", NpcSpr = "4_F_JOB_BLACKSMITH", NpcNavi = "geffen", NpcPosX = 178, NpcPosY = 72}
+, 
+[19152] = {Title = "수상쩍은 상술 (2)", IconName = "ico_jq.bmp", 
+Description = {"스킬의 테스트용 재료를 만들어 볼 테니 잠시만 기다려주세요~", "   ", "잠시 기다렸다 <NAVI>[아키]<INFO>geffen,178,72,0,101,0</INFO></NAVI>에게 말을 걸자"}
+, Summary = "잠시만 기다려주세요.", NpcSpr = "4_F_JOB_BLACKSMITH", NpcNavi = "geffen", NpcPosX = 178, NpcPosY = 72}
+, 
+[19153] = {Title = "수상쩍은 상술 (3)", IconName = "ico_jq.bmp", 
+Description = {"한번만 더 기회를 주세요~ 정말 잘 할 수 있어요~", "▶<ITEM>[강철]<INFO>999</INFO></ITEM> 1개", "▶<ITEM>[석탄]<INFO>1003</INFO></ITEM> 3개", "   ", "재료를 다 구하면, <NAVI>[아키]<INFO>geffen,178,72,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "", NpcSpr = "4_F_JOB_BLACKSMITH", NpcNavi = "geffen", NpcPosX = 178, NpcPosY = 72}
+, 
+[19154] = {Title = "수상쩍은 상술 (4)", IconName = "ico_jq.bmp", 
+Description = {"이번에는 정말 잘 할게요. 그럼 잠시만 기다려 주세요.", "   ", "잠시 기다렸다 <NAVI>[아키]<INFO>geffen,178,72,0,101,0</INFO></NAVI>에게 말을 걸자"}
+, Summary = "잠시만 기다려주세요.", NpcSpr = "4_F_JOB_BLACKSMITH", NpcNavi = "geffen", NpcPosX = 178, NpcPosY = 72}
+, 
+[19155] = {Title = "수상쩍은 상술 (5)", IconName = "ico_jq.bmp", 
+Description = {"아무래도 새 강철의 망치를 가져다 줘야 할 것 같다.", "▶<ITEM>[강철의 망치]<INFO>613</INFO></ITEM> 1개", "   ", "강철의 망치를 구하면, <NAVI>[아키]<INFO>geffen,178,72,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "", NpcSpr = "4_F_JOB_BLACKSMITH", NpcNavi = "geffen", NpcPosX = 178, NpcPosY = 72}
+, 
+[19156] = {Title = "수상쩍은 상술 (6)", IconName = "ico_jq.bmp", 
+Description = {"이제 정말 정말 금방 알려 드릴 테니 조금만 기다려 주세요~", "   ", "잠시 기다렸다 <NAVI>[아키]<INFO>geffen,178,72,0,101,0</INFO></NAVI>에게 말을 걸자"}
+, Summary = "잠시만 기다려주세요.", NpcSpr = "4_F_JOB_BLACKSMITH", NpcNavi = "geffen", NpcPosX = 178, NpcPosY = 72}
+, 
+[19157] = {Title = "탐욕", IconName = "ico_jq.bmp", 
+Description = {"지금부터 자네는 나가서", "수집 아이템, 무기, 회복 포션 등 아이템을 개수와 아이템의 종류와 상관없이 자네가 소지할 수 있는 최대 소지 량 한도에서 아이템 무게 500 이 들어갈 수 없을 정도로 인벤토리에 채워서 나에게 오도록 하게.", "   ", "조건을 만족한 후 <NAVI>[굿데이]<INFO>geffen,172,52,0,101,0</INFO></NAVI>에게 말을 걸자."}
+, Summary = "", NpcSpr = "4_M_DWARF", NpcNavi = "geffen", NpcPosX = 172, NpcPosY = 52}
+, 
+[19158] = {Title = "그 어떤 아윈 보다 전문가", IconName = "ico_ep.bmp", 
+Description = {"독수리 순찰대에 스파이에 해박한 아윈이 있다는 것 같다. 독수리 순찰대 병영의 <NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>을 찾아가 이야기를 나눠보자."}
+, Summary = "오리료 조병에게", NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19159] = {Title = "브리핑", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>이 하는 브리핑을 들어보자."}
+, Summary = "브리핑 듣기", NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19160] = {Title = "스파이 대책회의", IconName = "ico_ep.bmp", 
+Description = {"얼렁뚱땅 회의에 참석하게 되었다. <NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>에게 말을 걸어 독수리 순찰대의 스파이 대책회의에 참석하자. "}
+, Summary = "대책회의 참석", NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19161] = {Title = "임무 설명", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>이 해주는 설명을 들어보자."}
+, Summary = "설명 듣기", NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19162] = {Title = "오늘의 암구호", IconName = "ico_dq.bmp", 
+Description = {"독수리 순찰대 규정에 따라 오리료 조병에게 오늘의 암구호를 들었다. 구두로 들은 암구호는 04시에 파기된다는 것 같다.", "※ 암구호를 잊어버렸다면, <NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>을 찾아가면 다시 들을 수 있습니다."}
+, Summary = "04시 암구호 파기", CoolTimeQuest = 1, NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19163] = {Title = "[대기] 스파이 수색", IconName = "ico_dq.bmp", 
+Description = {"얼음의 성에 숨어든 스파이를 찾아내 독수리 순찰대의 <NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>에게 보상을 받았다. 얼음의 성에서 나만 스파이 수색에 힘쓰는 것은 아닐 테니 일단 오늘은 안심인가?"}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19164] = {Title = "스파이 수색 성공", IconName = "ico_dq.bmp", 
+Description = {"뛰어난 눈썰미로 얼음의 성에 숨어든 스파이를 찾아냈다. <NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>에게 보상을 받으러 가자."}
+, Summary = "오리료 조병에게", NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19165] = {Title = "[대기] 첩보 정보 회수", IconName = "ico_dq.bmp", 
+Description = {"파견 나간 대원들이 모은 첩보 정보를 전달하고 <NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>에게 보상을 받았다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19166] = {Title = "첩보 정보 회수 완료", IconName = "ico_dq.bmp", 
+Description = {"르간 구역으로 파견 나간 대원으로부터 첩보 정보를 받았다. 받은 첩보 정보를 <NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>에게 가져가자."}
+, Summary = "오리료 조병에게", NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19167] = {Title = "첩보 정보 회수 실패", IconName = "ico_dq.bmp", 
+Description = {"르간 구역으로 파견 나간 대원으로부터 첩보 정보를 받는데 실패했다. <NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>에게 보고하자."}
+, Summary = "오리료 조병에게", NpcSpr = "EP19_NPC_IWIN_SR", NpcNavi = "icas_in", NpcPosX = 100, NpcPosY = 62}
+, 
+[19168] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_nest,171,84,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19169] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_back5,296,149,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19170] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_twice,76,100,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19171] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_maze,253,267,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19172] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_root1,39,93,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19173] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_root2,19,44,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19174] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_twig,192,211,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19175] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_sanct,120,86,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19176] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_root3,347,147,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
+, Summary = ""}
+, 
+[19177] = {Title = "접선을 위한 장소", IconName = "ico_dq.bmp", 
+Description = {"오리료 조병에게 르간지역으로 파견 나간 아윈 측 대원과 접선을 위한 장소를 들었다.", "<NAVI>[접선 장소]<INFO>jor_back6,353,260,0,101,0</INFO></NAVI>에 가서 암구호를 답한 후 정보를 가져오자."}
 , Summary = ""}
 , 
 [20000] = {Title = "유저 캐릭터 인증 완료", IconName = "ico_ev.bmp", 
@@ -33003,7 +33811,7 @@ Description = {"마을 사람들과 새로운 인연을 맺었군요!"}
 Description = {"마을 사람들과 새로운 인연을 맺었군요!"}
 , Summary = ""}
 , 
-[21101] = {Title = "헌터플라이 사냥", IconName = "ico_dq.bmp", 
+[21101] = {Title = "헌터플라이 사냥", IconName = "ico_nq.bmp", 
 Description = {"게펜 타워에서 낙원단과 연계하여 지하 던전 몬스터 토벌 작전을 실행하고 있다. 게펜 지하 <NAVI>[던전 1층]<INFO>gef_dun00,104,99,0,101,0</INFO></NAVI>에서 헌터플라이 열 마리를 처치해 실력을 보여주자."}
 , Summary = "헌터플라이 10마리 처치"}
 , 
@@ -33015,7 +33823,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"게펜 타워 지하의 몬스터는 매일같이 증식하고 있다. 오늘도 게펜 지하 <NAVI>[던전 1층]<INFO>gef_dun00,104,99,0,101,0</INFO></NAVI>에서 헌터플라이 열 마리를 처치하자."}
 , Summary = "헌터플라이 10마리 처치"}
 , 
-[21104] = {Title = "구울과 잭 사냥", IconName = "ico_dq.bmp", 
+[21104] = {Title = "구울과 잭 사냥", IconName = "ico_nq.bmp", 
 Description = {"게펜 타워에서 낙원단과 연계하여 지하 던전 몬스터 토벌 작전을 실행하고 있다. 게펜 지하 <NAVI>[던전 2층]<INFO>gef_dun01,115,236,0,101,0</INFO></NAVI>으로 내려가 구울과 잭을 각각 열 마리씩 처치하자."}
 , Summary = "구울, 잭 각각 10마리 처치"}
 , 
@@ -33027,7 +33835,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"게펜 타워 지하의 몬스터는 매일같이 증식하고 있다. 오늘도 게펜 지하 <NAVI>[던전 2층]<INFO>gef_dun01,115,236,0,101,0</INFO></NAVI>으로 내려가 구울과 잭을 각각 열 마리씩을 처치하자."}
 , Summary = "구울, 잭 각각 10마리 처치"}
 , 
-[21107] = {Title = "마리오네트와 데비루치 사냥", IconName = "ico_dq.bmp", 
+[21107] = {Title = "마리오네트와 데비루치 사냥", IconName = "ico_nq.bmp", 
 Description = {"게펜 타워 지하 <NAVI>[던전 3층]<INFO>gef_dun02,106,132,0,101,0</INFO></NAVI>에 살고 있는 마리오네트와 데비루치를 각각 열 마리씩 처치하자."}
 , Summary = "마리오네트, 데비루치 각각 10마리 처치"}
 , 
@@ -33039,7 +33847,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"게펜 타워 지하의 몬스터는 매일같이 증식하고 있다. 오늘도 게펜 지하 <NAVI>[던전 3층]<INFO>gef_dun02,106,132,0,101,0</INFO></NAVI>에서 마리오네트와 데비루치를 각각 열 마리씩 처치하자."}
 , Summary = "마리오네트, 데비루치 각각 10마리 처치"}
 , 
-[21110] = {Title = "악몽을 달리는 말", IconName = "ico_dq.bmp", 
+[21110] = {Title = "악몽을 달리는 말", IconName = "ico_nq.bmp", 
 Description = {"<NAVI>[남자]<INFO>gef_tower,48,140,0,101,0</INFO></NAVI>는 게펜 타워 지하 던전에 나이트메어가 있기 때문에 자신이 악몽을 꾸느라 잠을 못 잔다고 주장한다. 썩 믿음직스럽지는 않지만, 어쨌든 나이트메어 10마리를 잡아 주자."}
 , Summary = "나이트메어 10마리 처치"}
 , 
@@ -33051,7 +33859,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"<NAVI>[남자]<INFO>gef_tower,48,140,0,101,0</INFO></NAVI>는 오늘도 악몽을 꾸었다며 다시 나이트메어를 잡아 오기를 요구했다. 정말 나이트메어가 문제인 것일까? 아무튼 나이트미어 10마리를 다시 되치해 보자."}
 , Summary = "나이트메어 10마리 처치"}
 , 
-[21113] = {Title = "공중쁘띠 귀여워", IconName = "ico_dq.bmp", 
+[21113] = {Title = "공중쁘띠 귀여워", IconName = "ico_nq.bmp", 
 Description = {"<NAVI>[쁘띠 소년]<INFO>geffen,40,133,0,101,0</INFO></NAVI>은 쁘띠가 너무 난폭해서 가까이 다가갈 수 없다며 자기 대신 가서 상냥한 쁘띠를 찾아 와 달라고 한다. <NAVI>[공중쁘띠 서식지]<INFO>gef_fild08,357,187,0,101,0</INFO></NAVI>에서 쁘띠를 건드려 보고, 공격하지 않는 쁘띠를 데려오자. 공격하는 쁘띠라면 할 수 없이 맞서 싸워야겠지!"}
 , Summary = "공중쁘띠 10마리 처치"}
 , 
@@ -33063,7 +33871,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"오늘도 <NAVI>[공중쁘띠]<INFO>gef_fild08,357,187,0,101,0</INFO></NAVI>에게 다가가 인사를 건네 보자. 마주 인사하는 쁘띠가 있다면 데려오되, 공격한다면 맞서 싸운다!"}
 , Summary = "공중쁘띠 10마리 처치"}
 , 
-[21116] = {Title = "지상쁘띠 귀여워", IconName = "ico_dq.bmp", 
+[21116] = {Title = "지상쁘띠 귀여워", IconName = "ico_nq.bmp", 
 Description = {"지상쁘띠라도 괜찮다며, <NAVI>[쁘띠 소년]<INFO>geffen,40,133,0,101,0</INFO></NAVI>은 <NAVI>[지상쁘띠 서식지]<INFO>gef_fild06,218,20,0,101,0</INFO></NAVI>에 가서 공격하지 않는 쁘띠를 데려와 달라고 한다. 공격하지 않는 쁘띠를 찾기 위해 몇 마리의 쁘띠와 싸워야 하는 거지?"}
 , Summary = "지상쁘띠 10마리 처치"}
 , 
@@ -33187,7 +33995,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"마을 사람들이 광물을 주울 수 있도록, 마을 밖에서 광물이고 돌멩이고 닥치는 대로 삼켜 버리는 <NAVI>[스태포]<INFO>STAPO,0,0,3,-222,1</INFO></NAVI>를 30마리 사냥하도록 하자."}
 , Summary = "스태포 30마리 처치"}
 , 
-[21149] = {Title = "거북섬 둘러보기", IconName = "ico_dq.bmp", 
+[21149] = {Title = "거북섬 둘러보기", IconName = "ico_nq.bmp", 
 Description = {"어차피 실종된 기사들을 찾을수는 없을 것이다. <NAVI>[거북섬]<INFO>tur_dun01,157,39,0,101,0</INFO></NAVI>에 가서 적당히 드래곤 테일과 스프링 래빗을 잡은 뒤 보고하도록 하자."}
 , Summary = "드래곤 테일, 스프링 래빗 각각 10마리 처치"}
 , 
@@ -33199,7 +34007,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"<NAVI>[거북섬]<INFO>tur_dun01,157,39,0,101,0</INFO></NAVI>의 제 2기사단을 위해, 드래곤 테일과 스프링 래빗을 열 마리씩 사냥하도록 하자."}
 , Summary = "드래곤 테일, 스프링 래빗 각각 10마리 처치"}
 , 
-[21152] = {Title = "거북이 떼 처치 1", IconName = "ico_dq.bmp", 
+[21152] = {Title = "거북이 떼 처치 1", IconName = "ico_nq.bmp", 
 Description = {"<NAVI>[거북섬 던전]<INFO>tur_dun02,148,264,0,101,0</INFO></NAVI> 안쪽에서 사람을 발견했다는 보고가 있다. 던전 안을 탐사하는 사람들이 위험에 빠지지 않도록, 솔리더와 퍼머터를 사냥하도록 하자."}
 , Summary = "솔리더, 퍼머터 각각 10마리 처치"}
 , 
@@ -33207,7 +34015,7 @@ Description = {"<NAVI>[거북섬 던전]<INFO>tur_dun02,148,264,0,101,0</INFO></NAVI>
 Description = {"<NAVI>[거북섬 던전]<INFO>tur_dun02,148,264,0,101,0</INFO></NAVI>의 제 2기사단이 위험에 빠지지 않도록, 솔리더와 퍼머터를 사냥하여 돕도록 하자."}
 , Summary = "솔리더, 퍼머터 각각 10마리 처치"}
 , 
-[21154] = {Title = "거북이 떼 처치 2", IconName = "ico_dq.bmp", 
+[21154] = {Title = "거북이 떼 처치 2", IconName = "ico_nq.bmp", 
 Description = {"<NAVI>[거북섬 던전]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI> 안쪽에서 사람을 발견했다는 보고가 있다. 던전 안을 탐사하는 사람들이 위험에 빠지지 않도록, 프리저와 힛터를 사냥하도록 하자."}
 , Summary = "프리저, 힛터 각각 10마리 처치"}
 , 
@@ -33223,7 +34031,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"<NAVI>[거북섬 던전]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>안에 아무래도 누군가 있는 것 같다. 던전 안에 들어가, 되도록이면 무리 중 가장 높은 사람과 이야기해 보자."}
 , Summary = "거북섬에서 실종된 기사단장과 대화"}
 , 
-[21158] = {Title = "어절터 사냥", IconName = "ico_dq.bmp", 
+[21158] = {Title = "어절터 사냥", IconName = "ico_nq.bmp", 
 Description = {"기사단장의 탐색을 돕기 위해, <NAVI>[거북섬 던전]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI> 안에서 어절터 10마리를 처치해 주도록 하자."}
 , Summary = "어절터 10마리 처치"}
 , 
@@ -36290,5 +37098,105 @@ Description = {"1층에 있는 스프라키에게 체험이 종료되었음을 알리자."}
 [23085] = {Title = "체험 마무리", IconName = "ico_vr.bmp", 
 Description = {"모든 체험을 종료했다. 잉크에게 말을 걸어 기념품을 받자."}
 , Summary = "잉크와 대화"}
+, 
+[23086] = {Title = "맥그리거와의 만남", IconName = "ico_ev.bmp", 
+Description = {"맥그리거와 대화했다."}
+, Summary = ""}
+, 
+[23087] = {Title = "토끼는 다다익선", IconName = "ico_ev.bmp", 
+Description = {"프론테라 남문의 농부 <NAVI>[맥그리거]<INFO>prt_fild08,164,367,0,101,0</INFO></NAVI>는 내다 팔아야 할 <ITEM>[왕 당근]<INFO>1001022</INFO></ITEM>을 검은 토끼 포링들이 훔쳐먹고 있으니, 필드에 돌아다니는 검은 토끼 포링을 5마리 사냥하고 왕 당근 3개를 가져다 달라고 한다."}
+, Summary = "검은 토끼 포링 5마리"}
+, 
+[23088] = {Title = "당근은 거거익선 - 대기", IconName = "ico_ev.bmp", 
+Description = {"프론테라 남문의 농부 <NAVI>[맥그리거]<INFO>prt_fild08,164,367,0,101,0</INFO></NAVI>가 왕 당근을 탈환하는 것을 도왔다. 또 도와주고 싶다면 내일 다시 찾아가보자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[23089] = {Title = "당근은 거거익선", IconName = "ico_ev.bmp", 
+Description = {"프론테라 남문의 농부 <NAVI>[맥그리거]<INFO>prt_fild08,164,367,0,101,0</INFO></NAVI>는 오늘도 <ITEM>[왕 당근]<INFO>1001022</INFO></ITEM> 3개를 가져다 달라고 한다. 왕 당근은 검은 토끼 포링을 사냥하면 얻을 수 있다."}
+, Summary = "왕 당근 3개"}
+, 
+[23090] = {Title = "따뜻한 행복을 가장한 시장조사", IconName = "ico_ev.bmp", 
+Description = {"다 큰 어른들이 단체로 스위츠를 물고 다니고 있다. 좀 체통없지 않나? 쇼콜라는 그게 숙성된 카카오콩의 영향은 아닌지 걱정하고 있다. <NAVI>[크리엔]<INFO>prontera,210,321,0,101,0</INFO></NAVI>, <NAVI>[라시스]<INFO>prontera,103,308,0,101,0</INFO></NAVI>, <NAVI>[엘트산]<INFO>prontera,100,183,0,101,0</INFO></NAVI>, <NAVI>[안트]<INFO>prontera,271,339,0,101,0</INFO></NAVI>, <NAVI>[채이]<INFO>prontera,269,55,0,101,0</INFO></NAVI> 총 다섯 명에게 스윗츠 메뉴를 전달하고 반응을 살펴보자."}
+, Summary = "각 손님에게 스윗츠 메뉴 전달"}
+, 
+[23091] = {Title = "안냥! 난 VIP 블랙 프리미야!", 
+Description = {"안냥! 난 손 큰 손님들을 위한 특급 서비스로 찾아온 VIP 블랙 프리미야! 만나서 반가워~~~>.<"}
+, Summary = "안냥! >w<)/"}
+, 
+[23100] = {Title = "태고의 깊은 바다", IconName = "ico_ep.bmp", 
+Description = {"라스간드와의 대치 상황에서 우리를 구한 것은 요르문간드일지도 모른다고 한다. 하얀 고양이를 만났던 곳을 찾기 위해 <NAVI>[잠수 아윈]<INFO>icecastle,141,212,0,101,0</INFO></NAVI>에게 가보자."}
+, Summary = "잠수 아윈과 대화"}
+, 
+[23101] = {Title = "얼마나 깊든 찾을 수 있어 1", IconName = "ico_ep.bmp", 
+Description = {"얼음성의 <NAVI>[잠수 아윈]<INFO>icecastle,141,212,0,101,0</INFO></NAVI>은 유빙지대까지 헤엄칠 에너지를 비축하려면 고열량 식사가 필요하다고 한다. 근처에 서식하고 있는 아이스강구를 5마리 사냥하고 얼어붙은 벌레 껍질을 3개 가져다주자."}
+, Summary = "얼어붙은 벌레 껍질 3개"}
+, 
+[23102] = {Title = "얼마나 깊든 찾을 수 있어 2", IconName = "ico_ep.bmp", 
+Description = {"얼음성의 <NAVI>[잠수 아윈]<INFO>icecastle,141,212,0,101,0</INFO></NAVI>은 유빙지대까지 헤엄쳐 가려면 빛나는 미역으로 만든 보호제도 필요하다고 한다. 근처에 서식하고 있는 빛나는 미역을 5개체 채집해 빛나는 미역줄기를 3개 가져다주자......"}
+, Summary = "빛나는 미역줄기 3개"}
+, 
+[23103] = {Title = "얼음 사이 숨겨져 있는 것", IconName = "ico_ep.bmp", 
+Description = {"유빙지대에 도착했다. 하얀 고양이를 만난 곳과는 동떨어진 곳 같은데... <NAVI>[꼬로로]<INFO>jor_twice,235,111,0,101,0</INFO></NAVI>에게 어찌된 영문인지 확인해보자."}
+, Summary = "꼬로로와 대화"}
+, 
+[23104] = {Title = "얼음 사이 숨겨져 있는 것", IconName = "ico_ep.bmp", 
+Description = {"유빙지대에 도착했다. 이제는 하얀 고양이를 만난 지점만 찾으면 된다. 대책은 없지만 일단 움직여보기로 했다. 발길 닿는 대로 가보자."}
+, Summary = "하얀 고양이 찾기"}
+, 
+[23105] = {Title = "얼음 사이 숨겨져 있는 것", IconName = "ico_ep.bmp", 
+Description = {"여기가 대체 어디람.... 대책 없이 해메고 있는 것 같지만 하얀 고양이를 찾으려면 이 방법뿐이다. <NAVI>[유빙 지대]<INFO>jor_twice,158,243,0,101,0</INFO></NAVI>를 좀 더 돌아다녀보자."}
+, Summary = "다시 한 번 하얀 고양이 찾기"}
+, 
+[23106] = {Title = "작은 가지의 둥지", IconName = "ico_ep.bmp", 
+Description = {"요르문간드의 마력이 느껴지는 지점을 찾아 고양이를 만났다. 그런데 고양이를 따라 레온과 오렐리가 사라져버렸다. 유빙 지대의 <NAVI>[레하르]<INFO>jor_twice,235,111,0,101,0</INFO></NAVI>와 함께 그 둘을 따라가자."}
+, Summary = "레온과 오렐리 찾기"}
+, 
+[23107] = {Title = "작은 가지의 둥지", IconName = "ico_ep.bmp", 
+Description = {"작은 가지의 둥지에 도착한 레온의 머리 속에는 너무 많은 것이 들어 있는 것 같다. 생각을 정리할 시간을 잠시 가지게 둔 후 말을 걸어보자."}
+, Summary = "레온과 대화하기"}
+, 
+[23108] = {Title = "빙산 넘고 빙해 넘어", IconName = "ico_ep.bmp", 
+Description = {"레온과 오렐리에게 성소에 대한 설명을 들었다. 다시 <NAVI>[유빙 지대]<INFO>jor_twice,161,243,0,101,0</INFO></NAVI>로 돌아가 일행에게 작은 가지의 둥지에 대해 말해주자."}
+, Summary = "오렐리와 대화하기"}
+, 
+[23109] = {Title = "빙산 넘고 빙해 넘어", IconName = "ico_ep.bmp", 
+Description = {"오렐리에게 성소에 대한 설명을 들었다. 유빙지대에 나타나는 르간들은 요르문간드의 마력을 흡수하려고 하는 것 같다. 근처의 요르문간드 교단 주술사를 5마리 처리하고 유빙지대의 <NAVI>[오렐리]<INFO>jor_twice,161,243,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "요르문간드 교단 주술사 5마리"}
+, 
+[23110] = {Title = "르간 뿌리 뽑기 - 대기", IconName = "ico_dq.bmp", 
+Description = {"오늘은 이만하면 된 것 같다. 위협이 과하면 역효과가 날지도 모르니, 유빙 지대의 요르문간드 교단 주술사를 소탕하고 싶다면 내일까지 기다려보자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[23111] = {Title = "르간 뿌리 뽑기", IconName = "ico_dq.bmp", 
+Description = {"유빙 지대의 <NAVI>[꼬로로]<INFO>jor_twice,235,111,0,101,0</INFO></NAVI>의 의뢰를 받았다. 유빙 지대를 돌아다니는 요르문간드 교단 주술사를 혼내주자."}
+, Summary = "요르문간드 교단 주술사 15마리"}
+, 
+[23112] = {Title = "뿌리 깊은 르간", IconName = "ico_ep.bmp", 
+Description = {"뱀의 미로로 잠입하기로 했다. 뱀의 미로에서 <NAVI>[레하르]<INFO>jor_maze,142,73,0,101,0</INFO></NAVI>를 찾아보자."}
+, Summary = "레하르와 대화"}
+, 
+[23113] = {Title = "르간 사이의 소문 수집 1", IconName = "ico_ep.bmp", 
+Description = {"뱀의 미로에서 <NAVI>[르간]<INFO>jor_maze,52,238,0,101,0</INFO></NAVI>들 사이의 대화를 들어보자."}
+, Summary = ""}
+, 
+[23114] = {Title = "르간 사이의 소문 수집 2", IconName = "ico_ep.bmp", 
+Description = {"뱀의 미로에서 <NAVI>[르간]<INFO>jor_maze,154,244,0,101,0</INFO></NAVI>들 사이의 대화를 들어보자."}
+, Summary = ""}
+, 
+[23115] = {Title = "르간 사이의 소문 수집 3", IconName = "ico_ep.bmp", 
+Description = {"뱀의 미로에서 <NAVI>[르간]<INFO>jor_maze,281,191,0,101,0</INFO></NAVI>들 사이의 대화를 들어보자."}
+, Summary = ""}
+, 
+[23116] = {Title = "미로의 끝 고양이", IconName = "ico_ep.bmp", 
+Description = {"다시 들어온 뱀의 미로는 이전보다 묘하게 들뜬 분위기다. 그 사이 무슨 일이 생긴 걸까? 르간들 사이의 소문을 수집해보자."}
+, Summary = "뱀의 미로에서 소문 수집"}
+, 
+[23117] = {Title = "미로의 끝 고양이", IconName = "ico_ep.bmp", 
+Description = {"르간들 사이의 소문을 충분히 모은 것 같다. 뱀의 미로의 <NAVI>[약속 장소]<INFO>jor_maze,150,33,0,101,0</INFO></NAVI>로 돌아가자."}
+, Summary = "미리암과 대화"}
+, 
+[23118] = {Title = "미로의 끝 고양이", IconName = "ico_ep.bmp", 
+Description = {"일행과 뱀의 미로에서 수집한 소문을 공유했다. <NAVI>[미로 안쪽]<INFO>jor_maze,197,35,0,101,0</INFO></NAVI>으로 마저 들어가보자."}
+, Summary = "뱀의 미로 안쪽으로"}
 }
 

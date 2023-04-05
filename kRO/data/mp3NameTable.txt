@@ -1,5 +1,5 @@
 // ==========================================================================
-// mp3NameTable.txt 본서버 최종수정: 2022-01-02 - 크리스마스 BGM 원복
+// mp3NameTable.txt 본서버 최종수정: 2023-02-21 - Episode 20 죽지 않는 자
 // ==========================================================================
 //맵이름.rsw#bgm\\음악번호#
 
@@ -32,6 +32,28 @@ hu_in01.rsw#bgm\\93.mp3#
 //prontera.rsw#bgm\\55.mp3#
 //prt_in.rsw#bgm\\55.mp3#
 //prt_church.rsw#bgm\\56.mp3#
+
+// Episode 20 죽지 않는 자
+jor_twig.rsw#bgm\\194.mp3#
+icas_in2.rsw#bgm\\188.mp3#
+jor_back4.rsw#bgm\\193.mp3#
+jor_back5.rsw#bgm\\193.mp3#
+jor_back6.rsw#bgm\\193.mp3#
+jor_twice.rsw#bgm\\197.mp3#
+jor_sanct.rsw#bgm\\190.mp3#
+jor_root1.rsw#bgm\\195.mp3#
+jor_root2.rsw#bgm\\195.mp3#
+jor_root3.rsw#bgm\\195.mp3#
+jor_maze.rsw#bgm\\195.mp3#
+jor_safty1.rsw#bgm\\193.mp3#
+jor_safty2.rsw#bgm\\195.mp3#
+1@twsd.rsw#bgm\\190.mp3#
+1@slug.rsw#bgm\\197.mp3#
+1@20cn1.rsw#bgm\\193.mp3#
+1@20cn2.rsw#bgm\\195.mp3#
+1@twas.rsw#bgm\\196.mp3#
+1@twbs.rsw#bgm\\196.mp3#
+1@twig.rsw#bgm\\194.mp3#
 
 // 260 레벨 확장
 ra_pol01.rsw#bgm\\165.mp3#

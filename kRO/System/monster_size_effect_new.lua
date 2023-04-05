@@ -5860,6 +5860,22 @@ MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 [21955] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 }
+, 
+[21996] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[21980] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[22004] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DRAGON}
+}
+, 
+[22005] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DEVIL}
+}
 }
 main = function()
   -- function num : 0_0

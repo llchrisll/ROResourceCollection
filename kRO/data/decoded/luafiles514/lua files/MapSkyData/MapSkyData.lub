@@ -4,6 +4,34 @@
 -- params : ...
 -- function num : 0
 MapSkyData = {
+["1@twas.rsw"] = {
+BG_Color = {7, 7, 24}
+, Star_Effect = false, BG_Fog = true, 
+Cloud_Effect = {
+[1] = {Num = 400, CullDist = 400, 
+Color = {24, 16, 43}
+, Size = 20, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 50, Height_Extra = 0}
+, 
+[2] = {Num = 200, CullDist = 400, 
+Color = {13, 22, 35}
+, Size = 25, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 50, Height_Extra = 0}
+}
+}
+, 
+["1@twbs.rsw"] = {
+BG_Color = {7, 7, 24}
+, Star_Effect = false, BG_Fog = true, 
+Cloud_Effect = {
+[1] = {Num = 400, CullDist = 400, 
+Color = {24, 16, 43}
+, Size = 20, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 50, Height_Extra = 0}
+, 
+[2] = {Num = 200, CullDist = 400, 
+Color = {13, 22, 35}
+, Size = 25, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 50, Height_Extra = 0}
+}
+}
+, 
 ["hero_tra.rsw"] = {
 BG_Color = {153, 204, 255}
 , Star_Effect = false, BG_Fog = true, 
@@ -59,20 +87,6 @@ Cloud_Effect = {
 [1] = {Num = 500, CullDist = 200, 
 Color = {255, 255, 255}
 , Size = 20, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 40, Height_Extra = 10}
-}
-}
-, 
-["1@exhn.rsw"] = {
-BG_Color = {18, 18, 30}
-, Star_Effect = false, BG_Fog = true, 
-Cloud_Effect = {
-[1] = {Num = 1000, CullDist = 400, 
-Color = {15, 15, 64}
-, Size = 20, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 100, Height_Extra = 0}
-, 
-[1] = {Num = 1000, CullDist = 400, 
-Color = {30, 30, 80}
-, Size = 20, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 100, Height_Extra = 0}
 }
 }
 , 

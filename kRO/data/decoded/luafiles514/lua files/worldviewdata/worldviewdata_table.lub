@@ -809,4 +809,26 @@ worldtable_Doram = {
 worldtable_Doram_Dun = {
 {1, 1107, 543, 1112, 547, WORLD_MSGID.MSI_DUN42, "15~150"}
 }
+worldtable_Isgard = {
+{100, "icecastle.rsw", 998, 789, 1114, 905, WORLD_MSGID.MSI_100_ICECASTLE, ""}
+, 
+{100, "jor_tail.rsw", 881, 906, 997, 1018, WORLD_MSGID.MSI_100_JOR_TAIL, "208"}
+, 
+{100, "jor_back1.rsw", 881, 789, 997, 905, WORLD_MSGID.MSI_100_JOR_BACK1, "211"}
+, 
+{100, "jor_back2.rsw", 881, 672, 997, 788, WORLD_MSGID.MSI_100_JOR_BACK2, "212"}
+, 
+{100, "jor_back3.rsw", 764, 672, 880, 788, WORLD_MSGID.MSI_100_JOR_BACK3, "213"}
+, 
+{100, "jor_back4.rsw", 764, 556, 880, 670, WORLD_MSGID.MSI_100_JOR_BACK4, "220"}
+, 
+{100, "jor_back5.rsw", 647, 438, 763, 554, WORLD_MSGID.MSI_100_JOR_BACK5, "220"}
+, 
+{100, "jor_back6.rsw", 530, 438, 646, 554, WORLD_MSGID.MSI_100_JOR_BACK6, "244"}
+, 
+{100, "jor_twice.rsw", 530, 204, 646, 319, WORLD_MSGID.MSI_100_JOR_TWICE, "222"}
+, 
+{100, "jor_twig.rsw", 296, 87, 412, 203, WORLD_MSGID.MSI_100_JOR_TWIG, ""}
+}
+worldtable_Isgard_Dun = {}
 

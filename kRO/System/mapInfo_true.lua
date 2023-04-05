@@ -4,6 +4,86 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["jor_twig.rsw"] = {displayName = "이스가르드 성소 작은 가지의 둥지", notifyEnter = true, 
+signName = {subTitle = "이스가르드 성소", mainTitle = "작은 가지의 둥지"}
+, backgroundBmp = "village"}
+, 
+["icas_in2.rsw"] = {displayName = "얼음의 성 내부", notifyEnter = true, 
+signName = {mainTitle = "얼음의 성 내부"}
+, backgroundBmp = "village_s2"}
+, 
+["jor_back4.rsw"] = {displayName = "얼어붙은 비늘 해변", notifyEnter = true, 
+signName = {mainTitle = "얼어붙은 비늘 해변"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_back5.rsw"] = {displayName = "고대 얼음 협곡 동부", notifyEnter = true, 
+signName = {mainTitle = "고대 얼음 협곡 동부"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_back6.rsw"] = {displayName = "고대 얼음 협곡 서부", notifyEnter = true, 
+signName = {mainTitle = "고대 얼음 협곡 서부"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_twice.rsw"] = {displayName = "유빙 지대", notifyEnter = true, 
+signName = {mainTitle = "유빙 지대"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_sanct.rsw"] = {displayName = "성스러운 뿌리", notifyEnter = true, 
+signName = {subTitle = "르간 은신처", mainTitle = "성스러운 뿌리"}
+, backgroundBmp = "noname"}
+, 
+["jor_root1.rsw"] = {displayName = "뱀신의 뿌리 1층", notifyEnter = true, 
+signName = {mainTitle = "뱀신의 뿌리 1층"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_root2.rsw"] = {displayName = "뱀신의 뿌리 2층", notifyEnter = true, 
+signName = {mainTitle = "뱀신의 뿌리 2층"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_root3.rsw"] = {displayName = "깊은 뿌리 동굴", notifyEnter = true, 
+signName = {mainTitle = "깊은 뿌리 동굴"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_maze.rsw"] = {displayName = "뱀의 미로", notifyEnter = true, 
+signName = {mainTitle = "뱀의 미로"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_safty1.rsw"] = {displayName = "안전한 장소", notifyEnter = true, 
+signName = {subTitle = "안전한 장소"}
+, backgroundBmp = "field2_s1"}
+, 
+["jor_safty2.rsw"] = {displayName = "안전한 장소", notifyEnter = true, 
+signName = {subTitle = "안전한 장소"}
+, backgroundBmp = "dungeon_s1"}
+, 
+["1@twsd.rsw"] = {displayName = "유빙 지대", notifyEnter = true, 
+signName = {mainTitle = "유빙 지대"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@slug.rsw"] = {displayName = "끈적한 바다", notifyEnter = true, 
+signName = {mainTitle = "끈적한 바다"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@20cn1.rsw"] = {displayName = "협곡 탐사", notifyEnter = true, 
+signName = {mainTitle = "협곡 탐사"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@20cn2.rsw"] = {displayName = "협곡 탐사", notifyEnter = true, 
+signName = {mainTitle = "협곡 탐사"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@twas.rsw"] = {displayName = "분리된 성소", notifyEnter = true, 
+signName = {mainTitle = "분리된 성소"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@twbs.rsw"] = {displayName = "분리된 성소", notifyEnter = true, 
+signName = {mainTitle = "분리된 성소"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@twig.rsw"] = {displayName = "작은 가지의 둥지", notifyEnter = true, 
+signName = {mainTitle = "작은 가지의 둥지"}
+, backgroundBmp = "noname_s2"}
+, 
 ["ra_pol01.rsw"] = {displayName = "마력이 뒤틀린 평원", notifyEnter = true, 
 signName = {mainTitle = "마력이 뒤틀린 평원"}
 , backgroundBmp = "field2_s2"}

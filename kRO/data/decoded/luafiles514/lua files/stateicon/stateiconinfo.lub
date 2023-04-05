@@ -628,7 +628,7 @@ descript = {
 , 
 {"몬스터 사냥 시"}
 , 
-{"기본 아이템의 드롭률 2배 증가"}
+{"기본 아이템의 드롭률 증가"}
 }
 }
 -- DECOMPILER ERROR at PC1202: Confused about usage of register: R0 in 'UnsetPending'

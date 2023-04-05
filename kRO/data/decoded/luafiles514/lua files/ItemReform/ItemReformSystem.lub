@@ -5299,6 +5299,270 @@ Material = {["대장장이의축복"] = 14}
 , ResultItem = "F_Ein_1HSWORD", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
 InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
 }
+, 
+[918] = {BaseItem = "Royal_Bow_K", 
+Material = {}
+, ResultItem = "Up_Royal_Bow_K", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[919] = {BaseItem = "Shadow_Staff_K", 
+Material = {}
+, ResultItem = "Up_Shadow_Staff_K", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[920] = {BaseItem = "Iron_Nail_K", 
+Material = {}
+, ResultItem = "Up_Iron_Nail_K", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[921] = {BaseItem = "Ancient_Hero_Boots", 
+Material = {}
+, ResultItem = "Great_Hero_Boots", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[922] = {BaseItem = "Blue_Crystal_Staff", 
+Material = {}
+, ResultItem = "Up_Blue_Crystal_Staff", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[923] = {BaseItem = "Freezing_Rod", 
+Material = {}
+, ResultItem = "Up_Freezing_Rod", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[924] = {BaseItem = "Sword_Of_Bluefire", 
+Material = {}
+, ResultItem = "Up_Sword_Of_Bluefire", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[925] = {BaseItem = "Iron_Staff", 
+Material = {}
+, ResultItem = "Up_Iron_Staff", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[926] = {BaseItem = "Oriental_Sword", 
+Material = {}
+, ResultItem = "Up_Oriental_Sword", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[927] = {BaseItem = "Fog_Dew_Sword", 
+Material = {}
+, ResultItem = "Up_Fog_Dew_Sword", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[928] = {BaseItem = "Humma_Clear", 
+Material = {}
+, ResultItem = "Up_Humma_Clear", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[929] = {BaseItem = "Narcis_Bow", 
+Material = {}
+, ResultItem = "Up_Narcis_Bow", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[930] = {BaseItem = "Magic_Sword", 
+Material = {}
+, ResultItem = "Up_Magic_Sword", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[931] = {BaseItem = "Avenger", 
+Material = {}
+, ResultItem = "Up_Avenger", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[932] = {BaseItem = "Undine_Spear_K", 
+Material = {}
+, ResultItem = "Up_Undine_Spear_K", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[933] = {BaseItem = "Demon_Hunting_Bible_K", 
+Material = {}
+, ResultItem = "Up_Demon_Hunting_Bible", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[934] = {BaseItem = "Shiver_Katar_K", 
+Material = {}
+, ResultItem = "Up_Shiver_Katar_K", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[935] = {BaseItem = "OneSkyOneSun", 
+Material = {}
+, ResultItem = "Up_OneSkyOneSun", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[936] = {BaseItem = "SoulWeight", 
+Material = {}
+, ResultItem = "Up_SoulWeight", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[937] = {BaseItem = "MeawFoxtail", 
+Material = {}
+, ResultItem = "Up_MeawFoxtail", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[938] = {BaseItem = "Freedom_Stick", 
+Material = {}
+, ResultItem = "Up_Freedom_Stick", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[939] = {BaseItem = "Blessed_Knife", 
+Material = {}
+, ResultItem = "Up_Blessed_Knife", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[940] = {BaseItem = "Dragonic_Slayer", 
+Material = {}
+, ResultItem = "Up_Dragonic_Slayer", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[941] = {BaseItem = "Light_Blade", 
+Material = {}
+, ResultItem = "Up_Light_Blade", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[942] = {BaseItem = "Slate_Sword", 
+Material = {}
+, ResultItem = "Up_Slate_Sword", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[943] = {BaseItem = "Trumpet_Shell_K", 
+Material = {}
+, ResultItem = "Up_Trumpet_Shell_K", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[944] = {BaseItem = "Barb_Wire_K", 
+Material = {}
+, ResultItem = "Up_Barb_Wire_K", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[945] = {BaseItem = "Meteor_Striker", 
+Material = {}
+, ResultItem = "Up_Meteor_Striker", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[946] = {BaseItem = "Saint_Hall", 
+Material = {}
+, ResultItem = "Up_Saint_Hall", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[947] = {BaseItem = "Ray_Knuckle", 
+Material = {}
+, ResultItem = "Up_Ray_Knuckle", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[948] = {BaseItem = "Blade_Katar", 
+Material = {}
+, ResultItem = "Up_Blade_Katar", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[949] = {BaseItem = "Fatalist", 
+Material = {}
+, ResultItem = "Up_Fatalist", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[950] = {BaseItem = "Scalet_Dragon_L_Bow", 
+Material = {}
+, ResultItem = "Up_Scalet_Dragon_L_Bow", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[951] = {BaseItem = "Crimson_Rose", 
+Material = {}
+, ResultItem = "Up_Crimson_Rose", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[952] = {BaseItem = "Master_Soul_Rifle", 
+Material = {}
+, ResultItem = "Up_Master_Soul_Rifle", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[953] = {BaseItem = "Demon_S_Shot", 
+Material = {}
+, ResultItem = "Up_Demon_S_Shot", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[954] = {BaseItem = "Golden_L_Launcher", 
+Material = {}
+, ResultItem = "Up_Golden_L_Launcher", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[955] = {BaseItem = "The_Black_Gatling", 
+Material = {}
+, ResultItem = "Up_The_Black_Gatling", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : 유지됨", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨"}
+}
+, 
+[956] = {BaseItem = "D_Glacier_Armor", 
+Material = {Ep20_Cat_Whiskers = 40, EP19_D_P_Crystal = 10, EP19_N_P_Crystal = 10, EP20_D_P_Crystal = 10}
+, ResultItem = "D_Glacier_Armor", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[957] = {BaseItem = "D_Glacier_Robe", 
+Material = {Ep20_Cat_Whiskers = 40, EP19_D_P_Crystal = 10, EP19_N_P_Crystal = 10, EP20_D_P_Crystal = 10}
+, ResultItem = "D_Glacier_Robe", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[958] = {BaseItem = "D_Glacier_Manteau", 
+Material = {Ep20_Cat_Whiskers = 40, EP19_D_P_Crystal = 10, EP19_N_P_Crystal = 10, EP20_D_P_Crystal = 10}
+, ResultItem = "D_Glacier_Manteau", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[959] = {BaseItem = "D_Glacier_Muffler", 
+Material = {Ep20_Cat_Whiskers = 40, EP19_D_P_Crystal = 10, EP19_N_P_Crystal = 10, EP20_D_P_Crystal = 10}
+, ResultItem = "D_Glacier_Muffler", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[960] = {BaseItem = "D_Glacier_Boots", 
+Material = {Ep20_Cat_Whiskers = 40, EP19_D_P_Crystal = 10, EP19_N_P_Crystal = 10, EP20_D_P_Crystal = 10}
+, ResultItem = "D_Glacier_Boots", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[961] = {BaseItem = "D_Glacier_Shoes", 
+Material = {Ep20_Cat_Whiskers = 40, EP19_D_P_Crystal = 10, EP19_N_P_Crystal = 10, EP20_D_P_Crystal = 10}
+, ResultItem = "D_Glacier_Shoes", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
 }
 ReformItemList = {
 IDTest_Special = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
@@ -5452,5 +5716,9 @@ GoodnEvil_Helm_Hammer = {876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 
 Amp_Blueprint19 = {898}
 , 
 F_Ein_Weapon_Hammer = {899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917}
+, 
+Hero_Up_Cube_11 = {918, 919, 920, 921, 922, 923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955}
+, 
+EP20_DGA_Refine = {956, 957, 958, 959, 960, 961}
 }
 

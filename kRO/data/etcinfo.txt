@@ -1,7 +1,2 @@
 weather#comodo.rsw#pokjuk#
 //weather#pay_arche.rsw#sakura#
-weather#prontera.rsw#snow#
-weather#alberta.rsw#snow#
-weather#geffen.rsw#snow#
-weather#hugel.rsw#snow#
-weather#izlude.rsw#snow#

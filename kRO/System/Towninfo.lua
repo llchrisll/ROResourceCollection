@@ -241,7 +241,7 @@ einbroch = {
 , 
 {name = "대장간", X = 255, Y = 109, TYPE = 3}
 , 
-{name = "여관", X = 260, Y = 201, TYPE = 5}
+{name = "여관", X = 255, Y = 199, TYPE = 5}
 }
 , 
 einbech = {
@@ -319,7 +319,7 @@ veins = {
 , 
 {name = "무기점", X = 149, Y = 180, TYPE = 1}
 , 
-{name = "여관", X = 131, Y = 280, TYPE = 5}
+{name = "여관", X = 112, Y = 278, TYPE = 5}
 }
 , 
 brasilis = {

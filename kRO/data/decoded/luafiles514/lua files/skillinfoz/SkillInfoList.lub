@@ -286,7 +286,7 @@ SpAmount = {0, 0, 0}
 AttackRange = {1, 1, 1}
 }
 , 
-[SKID.NPC_IMMUNE_PROPERTY] = {"NPC_IMMUNE_PROPERTY"; SkillName = "¿Ãπ√ ø§∏Æ∏‡≈ª", MaxLv = 5, 
+[SKID.NPC_IMMUNE_PROPERTY] = {"NPC_IMMUNE_PROPERTY"; SkillName = "¿Ãπ√ ø§∑π∏‡≈ª", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {5, 10, 15, 20, 25}
@@ -6806,7 +6806,7 @@ SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 }
 , 
-[SKID.SA_CREATECON] = {"SA_CREATECON"; SkillName = "ø§∑π∏‡≈ª ƒ¡πˆ≈Õ ¡¶¡∂", MaxLv = 1, Type = "Quest", 
+[SKID.SA_CREATECON] = {"SA_CREATECON"; SkillName = "ƒ¡πˆ≈Õ ¡¶¡∂", MaxLv = 1, Type = "Quest", 
 SpAmount = {30}
 , bSeperateLv = false, 
 AttackRange = {1}
@@ -7208,7 +7208,7 @@ SpAmount = {0}
 AttackRange = {1}
 }
 , 
-[SKID.SO_EL_ACTION] = {"SO_EL_ACTION"; SkillName = "ø§∏Æ∏‡≈ª æ◊º«", MaxLv = 1, 
+[SKID.SO_EL_ACTION] = {"SO_EL_ACTION"; SkillName = "ø§∑π∏‡≈ª æ◊º«", MaxLv = 1, 
 SpAmount = {50}
 , bSeperateLv = false, 
 AttackRange = {5}

@@ -17,5 +17,7 @@ World_List = {
 {"localizing 02", "worldtable_localizing2", "worldtable_localizing2_Dun", "worldmap_localizing2.bmp"}
 , 
 {"Far-Star", "worldtable_Doram", "worldtable_Doram_Dun", "pasta.jpg"}
+, 
+{"Isgard", "worldtable_Isgard", "worldtable_Isgard_Dun", "WorldMap_Isgard.jpg"}
 }
 

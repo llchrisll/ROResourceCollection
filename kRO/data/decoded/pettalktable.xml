@@ -12447,5 +12447,148 @@
 			<perfor_3>	?	</perfor_3>
 		</so_full>
 	</LARVA_VIOLET>
+
+	<ep20_copo>
+		<hungry>
+			<feeding>	~~¢Ü¢Ý	</feeding>
+			<danger>	?!	</danger>
+			<dead>	!!!	</dead>
+			<stand>	...(¤Ì-¤Ì)	</stand>
+			<levelup>	(o-o)!!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	~~¢Ü¢Ý	</feeding>
+			<danger>	?!	</danger>
+			<dead>	!!!	</dead>
+			<stand>	...(¤Ì-¤Ì)	</stand>
+			<levelup>	(o-o)!!	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	~~¢Ü	</feeding>
+			<danger>	?!	</danger>
+			<dead>	!!!	</dead>
+			<stand>	~(- -  )~	</stand>
+			<stand>	~(  - -)~	</stand>
+			<levelup>	(o-o)!!	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	...	</feeding>
+			<danger>	?!	</danger>
+			<dead>	!!!	</dead>
+			<stand>	~(o-o  )~	</stand>
+			<stand>	~(  o-o)~	</stand>
+			<levelup>	(^-^)!!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	...(¤Ð-¤Ð)	</feeding>
+			<danger>	?!	</danger>
+			<dead>	(¤Ð-¤Ð)!!	</dead>
+			<stand>	~(o-o  )~	</stand>
+			<stand>	~(  o-o)~	</stand>
+			<levelup>	(^-^)!!	</levelup>
+		</so_full>
+	</ep20_copo>
 	
+	<ep20_icewind1>
+		<hungry>
+			<feeding>	·ÀÀÖ¾µ!	</feeding>
+			<danger>	ºº°òÀÌ ÇÊ°äÇÏ¼×!!	</danger>
+			<dead>	±Æ...	</dead>
+			<stand>	·ÔÀÌ¿¡ ·Ô¿í²Í¾µ...	</stand>
+			<levelup>	ÁÁ¾···!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	·ÀÀÖ¾µ!	</feeding>
+			<danger>	ºº°òÀÌ ÇÊ°äÇÏ¼×!!	</danger>
+			<dead>	±Æ...	</dead>
+			<stand>	·ÔÀÌ¿¡ ·Ô¿í²Í¾µ...	</stand>
+			<levelup>	ÁÁ¾···!	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	ÁÁ³Ò!	</feeding>
+			<danger>	ºº°òÀÌ ÇÊ°äÇÏ¼×!!	</danger>
+			<dead>	±Æ...	</dead>
+			<stand>	¶Ù¹÷ÀÌ Â÷¾µ	</stand>
+			<stand>	¾×·£·£·£·£...	</stand>
+			<levelup>	¿¨º°ÀÏ³³	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	...	</feeding>
+			<danger>	Á¹²ÉÇÏ²Ã¿Ô !!	</danger>
+			<danger>	À§ÇèÇÏ¼×!!!	</danger>
+			<dead>	ºº°òÀÌ ·øºÇ±î ¶Ì±ÈÇÏ¼×..	</dead>
+			<stand>	¶Ù¹÷ÀÌ Â÷¾µ	</stand>
+			<stand>	¾×·£·£·£·£...	</stand>
+			<levelup>	·ÚÁö¾···!	</levelup>
+			<levelup>	¿¨º°ÀÏ³³	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	¾×··ÇÏ²Ã¿Ô !!	</feeding>
+			<danger>	Á¹²ÉÇÏ²Ã¿Ô !!	</danger>
+			<danger>	À§ÇèÇÏ¼×!!!	</danger>
+			<dead>	ºº°òÀÌ ·øºÇ±î ¶Ì±ÈÇÏ¼×..	</dead>
+			<stand>	¶Ù¹÷ÀÌ Â÷¾µ	</stand>
+			<stand>	¾×·£·£·£·£...	</stand>
+			<levelup>	·ÚÁö¾···!	</levelup>
+			<levelup>	¿¨º°ÀÏ³³	</levelup>
+		</so_full>
+	</ep20_icewind1>
+	
+	<ep20_icewind2>
+		<hungry>
+			<feeding>	·ÀÀÖ¼×°ä...	</feeding>
+			<danger>	ºº°òÀÌ ÇÊ°äÇÑ¿¡°ä?	</danger>
+			<dead>	Èû¼´°ä..	</dead>
+			<stand>	Èì...	</stand>
+			<levelup>	ÃàÇÏÇØ°ä!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	·ÀÀÖ¼×°ä...	</feeding>
+			<danger>	ºº°òÀÌ ÇÊ°äÇÑ¿¡°ä?	</danger>
+			<dead>	Èû¼´°ä..	</dead>
+			<stand>	Èì...	</stand>
+			<levelup>	ÃàÇÏÇØ°ä!	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	ÁÁ±Æ°ä	</feeding>
+			<danger>	ºº°òÀÌ ÇÊ°äÇÑ¿¡°ä?	</danger>
+			<dead>	Èû¼´°ä..	</dead>
+			<stand>	¾êÅÐ Á¤·®¿¡ ÇÊ°äÇØ°ä	</stand>
+			<stand>	Èå±Æ±Ï	</stand>
+			<levelup>	ÃàÇÏÇØ°ä!	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	...	</feeding>
+			<danger>	ºº°òÀÌ ÇÊ°äÇÑ¿¡°ä?	</danger>
+			<danger>	±î³­ ºº·Á¿¡°ä!	</danger>
+			<dead>	Á¦¿¡ ÁöÄÑºå·®Áö ·øÇß¼×°ä..	</dead>
+			<stand>	¾êÅÐ Á¤·®¿¡ ÇÊ°äÇØ°ä	</stand>
+			<stand>	Èå±Æ±Ï	</stand>
+			<levelup>	ÃàÇÏÇØ°ä!	</levelup>
+			<levelup>	·ÚÁ®°ä!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	¾«¸Ó¼×°ä...	</feeding>
+			<danger>	ºº°òÀÌ ÇÊ°äÇÑ¿¡°ä?	</danger>
+			<danger>	±î³­ ºº·Á¿¡°ä!	</danger>
+			<dead>	Åª..	</dead>
+			<stand>	¾êÅÐ Á¤·®¿¡ ÇÊ°äÇØ°ä	</stand>
+			<stand>	Èå±Æ±Ï	</stand>
+			<levelup>	³µÀåÇÏ»Â ·ð²À µ·¾â ÁÁ±Æ°ä	</levelup>
+			<levelup>	·ÚÁ®°ä!	</levelup>
+		</so_full>
+	</ep20_icewind2>
+
 </monster_talk_table>

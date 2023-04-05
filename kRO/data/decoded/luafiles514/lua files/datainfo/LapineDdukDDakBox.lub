@@ -544,6 +544,14 @@ SourceItems = {
 {"SLD_Timeholder_Card", 1, 27225}
 , 
 {"봉인된타오군카카드", 1, 4493}
+, 
+{"SLD_Boitata_Card", 1, 300195}
+, 
+{"SLD_F_Muspell_Card", 1, 300203}
+, 
+{"SLD_Grave_Amon_Ra_Card", 1, 300209}
+, 
+{"SLD_P_Spi_Q_Card", 1, 300201}
 }
 , NeedSource_String = "봉인된 보스 카드"}
 , 
@@ -2040,6 +2048,154 @@ SourceItems = {
 {"S_Mega_Blitz_Weapon", 1, 24768}
 , 
 {"S_EXP_Weapon", 1, 24770}
+, 
+{"S_Master_Weapon", 1, 24792}
+, 
+{"S_Master_Shield", 1, 24793}
+, 
+{"S_DK_Armor", 1, 24800}
+, 
+{"S_DK_Shoes", 1, 24801}
+, 
+{"S_DK_Earring", 1, 24802}
+, 
+{"S_DK_Pendant", 1, 24803}
+, 
+{"S_IG_Armor", 1, 24804}
+, 
+{"S_IG_Shoes", 1, 24805}
+, 
+{"S_IG_Earring", 1, 24806}
+, 
+{"S_IG_Pendant", 1, 24807}
+, 
+{"S_SHC_Armor", 1, 24808}
+, 
+{"S_SHC_Shoes", 1, 24809}
+, 
+{"S_SHC_Earring", 1, 24810}
+, 
+{"S_SHC_Pendant", 1, 24811}
+, 
+{"S_ABC_Armor", 1, 24812}
+, 
+{"S_ABC_Shoes", 1, 24813}
+, 
+{"S_ABC_Earring", 1, 24814}
+, 
+{"S_ABC_Pendant", 1, 24815}
+, 
+{"S_CD_Armor", 1, 24816}
+, 
+{"S_CD_Shoes", 1, 24817}
+, 
+{"S_CD_Earring", 1, 24818}
+, 
+{"S_CD_Pendant", 1, 24819}
+, 
+{"S_IQ_Armor", 1, 24820}
+, 
+{"S_IQ_Shoes", 1, 24821}
+, 
+{"S_IQ_Earring", 1, 24822}
+, 
+{"S_IQ_Pendant", 1, 24823}
+, 
+{"S_MT_Armor", 1, 24824}
+, 
+{"S_MT_Shoes", 1, 24825}
+, 
+{"S_MT_Earring", 1, 24826}
+, 
+{"S_MT_Pendant", 1, 24827}
+, 
+{"S_BO_Armor", 1, 24828}
+, 
+{"S_BO_Shoes", 1, 24829}
+, 
+{"S_BO_Earring", 1, 24830}
+, 
+{"S_BO_Pendant", 1, 24831}
+, 
+{"S_WH_Armor", 1, 24832}
+, 
+{"S_WH_Shoes", 1, 24833}
+, 
+{"S_WH_Earring", 1, 24834}
+, 
+{"S_WH_Pendant", 1, 24835}
+, 
+{"S_TR_Armor", 1, 24836}
+, 
+{"S_TR_Shoes", 1, 24837}
+, 
+{"S_TR_Earring", 1, 24838}
+, 
+{"S_TR_Pendant", 1, 24839}
+, 
+{"S_AG_Armor", 1, 24840}
+, 
+{"S_AG_Shoes", 1, 24841}
+, 
+{"S_AG_Earring", 1, 24842}
+, 
+{"S_AG_Pendant", 1, 24843}
+, 
+{"S_EM_Armor", 1, 24844}
+, 
+{"S_EM_Shoes", 1, 24845}
+, 
+{"S_EM_Earring", 1, 24846}
+, 
+{"S_EM_Pendant", 1, 24847}
+, 
+{"S_NW_Armor", 1, 24848}
+, 
+{"S_NW_Shoes", 1, 24849}
+, 
+{"S_NW_Earring", 1, 24850}
+, 
+{"S_NW_Pendant", 1, 24851}
+, 
+{"S_SH_Armor", 1, 24852}
+, 
+{"S_SH_Shoes", 1, 24853}
+, 
+{"S_SH_Earring", 1, 24854}
+, 
+{"S_SH_Pendant", 1, 24855}
+, 
+{"S_SS_Armor", 1, 24856}
+, 
+{"S_SS_Shoes", 1, 24857}
+, 
+{"S_SS_Earring", 1, 24858}
+, 
+{"S_SS_Pendant", 1, 24859}
+, 
+{"S_SKE_Armor", 1, 24860}
+, 
+{"S_SKE_Shoes", 1, 24861}
+, 
+{"S_SKE_Earring", 1, 24862}
+, 
+{"S_SKE_Pendant", 1, 24863}
+, 
+{"S_SOA_Armor", 1, 24864}
+, 
+{"S_SOA_Shoes", 1, 24865}
+, 
+{"S_SOA_Earring", 1, 24866}
+, 
+{"S_SOA_Pendant", 1, 24867}
+, 
+{"S_HN_Armor", 1, 24868}
+, 
+{"S_HN_Shoes", 1, 24869}
+, 
+{"S_HN_Earring", 1, 24870}
+, 
+{"S_HN_Pendant", 1, 24871}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -7696,6 +7852,22 @@ SourceItems = {
 {"C_H_Knight_Cloak", 1, 420047}
 , 
 {"C_Chrismas_Tree", 1, 20545}
+, 
+{"C늘어진루나틱_검정", 1, 31167}
+, 
+{"C_Black_Rabbit_Ear", 1, 400407}
+, 
+{"C_Black_Rabbit", 1, 410226}
+, 
+{"C_Nydhog_Rumor", 1, 480123}
+, 
+{"C성자의리본모자", 1, 19894}
+, 
+{"C_BirthDay_Balloon_TW", 1, 410082}
+, 
+{"C허니팬케익", 1, 20256}
+, 
+{"C_Big_B_Rabbit", 1, 20618}
 }
 , NeedSource_String = "냥다래 의상"}
 , 

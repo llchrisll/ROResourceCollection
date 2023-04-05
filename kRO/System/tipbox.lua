@@ -1051,7 +1051,7 @@ Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 
 [4101] = {Title = "에피소드#퀘스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"커다란 줄기의 이야기를 따라 진행되는 퀘스트와 컨텐츠 모듬입니다.\n\n\t\t<TIPBOX>▶에피소드 13<INFO>4102</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 14<INFO>4103</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 15<INFO>4104</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 16<INFO>4105</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 17<INFO>4106</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 18<INFO>4216</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 19<INFO>4256</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"커다란 줄기의 이야기를 따라 진행되는 퀘스트와 컨텐츠 모듬입니다.\n\n\t\t<TIPBOX>▶에피소드 13<INFO>4102</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 14<INFO>4103</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 15<INFO>4104</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 16<INFO>4105</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 17<INFO>4106</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 18<INFO>4216</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 19<INFO>4256</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 20<INFO>4327</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4102] = {Title = "에피소드 13#ep", Search = 1, Image = "", 
@@ -1087,7 +1087,7 @@ Page = {"비밀 연구소를 찾아 슈발츠발드 곳곳을 조사하던 리벨리온과 비밀의 날개는 
 [4107] = {Title = "에피소드 보상#장비", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"특정 에피소드 진행시 획득할 수 있는 전용 재화로 여러가지 아이템 교환이 가능합니다.\n\n\t\t<TIPBOX>▶Ep16.1 명예의 증표 보상<INFO>4108</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 슈발츠 명예의 증표 보상<INFO>4109</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 일루시온, OS 시리즈<INFO>4110</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.2 오토매틱 시리즈<INFO>4111</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶Ep16.1 노블레스 시리즈<INFO>4112</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 임페리얼 시리즈<INFO>4113</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 그레이스 시리즈<INFO>4114</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep18 그레이 울프 시리즈<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 아둘테르 시리즈<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 비바투스 시리즈<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep19 설화 방어구 시리즈<INFO>4258</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 글레이시아 무기 시리즈<INFO>4259</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"특정 에피소드 진행시 획득할 수 있는 전용 재화로 여러가지 아이템 교환이 가능합니다.\n\n\t\t<TIPBOX>▶Ep16.1 명예의 증표 보상<INFO>4108</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 슈발츠 명예의 증표 보상<INFO>4109</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 일루시온, OS 시리즈<INFO>4110</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.2 오토매틱 시리즈<INFO>4111</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶Ep16.1 노블레스 시리즈<INFO>4112</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 임페리얼 시리즈<INFO>4113</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 그레이스 시리즈<INFO>4114</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep18 그레이 울프 시리즈<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 아둘테르 시리즈<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 비바투스 시리즈<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep19 설화 시리즈<INFO>4258</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 글레이시아 시리즈<INFO>4259</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 딤 글레이시아 시리즈<INFO>4365</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep20 글레이시아 시리즈<INFO>4329</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep20 딤 글레이시아 시리즈<INFO>4330</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4108] = {Title = "Ep16.1 명예의 증표 보상#아첨독설도심", Search = 1, Image = "", 
@@ -1261,7 +1261,7 @@ Page = {"<TIPBOX>Q 심연의 고독 (200)<INFO>8345</INFO></TIPBOX>\n\t\t<TIPBOX>Q 변
 [4136] = {Title = "퀘스트 레벨 210~219", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>Q 땅과 불 (215)<INFO>8348</INFO></TIPBOX>\n\t\t<TIPBOX>Q 물과 바람 (215)<INFO>8349</INFO></TIPBOX>\n\t\t<TIPBOX>Q 베르너의 흔적 (215)<INFO>8350</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 땅과 불 (215)<INFO>8348</INFO></TIPBOX>\n\t\t<TIPBOX>Q 물과 바람 (215)<INFO>8349</INFO></TIPBOX>\n\t\t<TIPBOX>Q 베르너의 흔적 (215)<INFO>8350</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 210레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4137] = {Title = "퀘스트 레벨 220~229", Search = 1, Image = "", 
@@ -1273,7 +1273,7 @@ Page = {"이하의 에피소드에 220레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 19 �
 [4138] = {Title = "퀘스트 레벨 230~239", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>Q 모방과 진짜 (230)<INFO>8351</INFO></TIPBOX>\n\t\t<TIPBOX>Q 자연스러운 변화 (230)<INFO>8352</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 모방과 진짜 (230)<INFO>8351</INFO></TIPBOX>\n\t\t<TIPBOX>Q 자연스러운 변화 (230)<INFO>8352</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 230레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4139] = {Title = "퀘스트 레벨 240~249", Search = 1, Image = "", 
@@ -1981,13 +1981,13 @@ Page = {"리벨리온은 민중의 안정을 위해 기업과 정부를 감시하는 감시자, 나이트워치
 [4256] = {Title = "에피소드 19#퀘스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"마지막 일루시온인 바곳이 향한 곳은 요르문간드가 봉인되었다고 알려진 이스가르드. 에피소드 19는 새로운 지역 이스가르드를 무대로 합니다.\n\t\t\n\t\t<TIPBOX>▶EP 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep19 설화 방어구 시리즈<INFO>4258</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 글레이시아 무기 시리즈<INFO>4259</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"마지막 일루시온인 바곳이 향한 곳은 요르문간드가 봉인되었다고 알려진 이스가르드. 에피소드 19는 새로운 지역 이스가르드를 무대로 합니다.\n\t\t\n\t\t<TIPBOX>▶EP 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep19 설화 방어구<INFO>4258</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 글레이시아 무기<INFO>4259</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 딤 글레이시아 무기<INFO>4365</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4257] = {Title = "Episode 19 설화의 땅 이스가르드#퀘스트에피소드", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"라헬의 신전을 어지럽히고 탈취한 이미르의 심장 조각으로 신을 흉내내는 키메라를 만들었던 바곳. 신관 \'유스\'의 증언을 토대로 \'바곳\'의 목적지가 단순한 미드가르드 북부가 아닌 바다 건너 얼음의 땅 \'이스가르드\'인 것을 알게 되고 모험가와 일행들은 전설이 고스란히 남아있는 이스가르드로 향한다.\n\t\t\n\t\t<TIPBOX>▶EP. 18 기도의 방향<INFO>4217</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 200 이상^000000\n\t\t\n\t\t▶시작 퀘스트\n\t\t<TIPBOX>Q 북풍을 타고 온 손님, 얼음성의 만남(200)<INFO>4260</INFO></TIPBOX>\n\t\t\n\t\t▶메인 퀘스트\n\t\t<TIPBOX>Q 독수리 순찰대(200)<INFO>4261</INFO></TIPBOX>\n\t\t<TIPBOX>Q 실험체210426 조우(200)<INFO>4262</INFO></TIPBOX>\n\t\t<TIPBOX>Q 레이지의 계책(200)<INFO>4263</INFO></TIPBOX>\n\t\t<TIPBOX>Q 뱀의 둥지 잠입(200)<INFO>4264</INFO></TIPBOX>\n\t\t<TIPBOX>Q 잠입 작전 중간 보고(200)<INFO>4265</INFO></TIPBOX>\n\t\t<TIPBOX>Q 단서 찾기(200)<INFO>4266</INFO></TIPBOX>\n\t\t<TIPBOX>Q 소리없이 스며드는(200)<INFO>4267</INFO></TIPBOX>\n\t\t<TIPBOX>Q 퇴적되는 의심(200)<INFO>4268</INFO></TIPBOX>\n\t\t<TIPBOX>Q 간발의 차이, 바곳의 속셈(200)<INFO>4269</INFO></TIPBOX>\n\t\t<TIPBOX>Q 혼란한 뱀의 둥지, 사라져버린 자들(200)<INFO>4270</INFO></TIPBOX>\n\t\t\n\t\t▶서브 퀘스트\n\t\t<TIPBOX>Q 정화의 성녀(200)<INFO>4271</INFO></TIPBOX>\n\t\t<TIPBOX>Q 얼어붙은 바다(200)<INFO>4272</INFO></TIPBOX>\n\t\t<TIPBOX>Q 궁금한 것(200)<INFO>4273</INFO></TIPBOX>\n\t\t<TIPBOX>Q 나이 많은 뱀(200)<INFO>4274</INFO></TIPBOX>\n\t\t<TIPBOX>Q 교리와 설법(200)<INFO>4275</INFO></TIPBOX>\n\t\t<TIPBOX>Q 특별한 생존 방식(200)<INFO>4276</INFO></TIPBOX>\n\t\t\n\t\t▶일일 퀘스트\n\t\t<TIPBOX>Q 지상에서 은신처 찾기(200)<INFO>4277</INFO></TIPBOX>\n\t\t<TIPBOX>Q 모랴라의 낚시 돕기(200)<INFO>4278</INFO></TIPBOX>\n\t\t<TIPBOX>Q 조랴라의 즐거운 점심 시간(200)<INFO>4279</INFO></TIPBOX>\n\t\t<TIPBOX>Q 먹이를 주지 마시오!(200)<INFO>4280</INFO></TIPBOX>\n\t\t<TIPBOX>Q 몰래 하는 재미(200)<INFO>4281</INFO></TIPBOX>\n\t\t<TIPBOX>Q 점심이의 메뉴 선택(200)<INFO>4282</INFO></TIPBOX>\n\t\t<TIPBOX>Q 사제님, 자비를(200)<INFO>4283</INFO></TIPBOX>\n\t\t<TIPBOX>Q 처음 보는 애네(200)<INFO>4284</INFO></TIPBOX>\n\t\t<TIPBOX>Q 벨군드의 연구 재료 조달(200)<INFO>4285</INFO></TIPBOX>\n\t\t<TIPBOX>Q 조난자 수색(200)<INFO>4286</INFO></TIPBOX>\n\t\t<TIPBOX>Q 기품어린 취미 생활(200)<INFO>4287</INFO></TIPBOX>\n\t\t<TIPBOX>Q 안전한 노동을 위해(200)<INFO>4288</INFO></TIPBOX>\n\t\t<TIPBOX>Q 우리들의 소중한 양식(200)<INFO>4289</INFO></TIPBOX>\n\t\t<TIPBOX>Q 프리데리케의 하루(200)<INFO>4290</INFO></TIPBOX>\n\t\t<TIPBOX>Q 냉장고가 필요한가?(200)<INFO>4291</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바삭바삭한 도구(200)<INFO>4292</INFO></TIPBOX>\n\t\t<TIPBOX>Q 버려질만한 장소1(220)<INFO>4293</INFO></TIPBOX>\n\t\t<TIPBOX>Q 버려질만한 장소2(240)<INFO>4294</INFO></TIPBOX>\n\t\t<TIPBOX>Q 파고 또 파고(200)<INFO>4295</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아윈과 함께 하는 순찰(200)<INFO>4296</INFO></TIPBOX>\n\t\t<TIPBOX>MD 19 시뮬레이션 융케아<INFO>4297</INFO></TIPBOX>\n\t\t<TIPBOX>MD 19 비공정 파괴작전<INFO>4298</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep19 설화 방어구 시리즈<INFO>4258</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 글레이시아 무기 시리즈<INFO>4259</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 19<INFO>4256</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"라헬의 신전을 어지럽히고 탈취한 이미르의 심장 조각으로 신을 흉내내는 키메라를 만들었던 바곳. 신관 \'유스\'의 증언을 토대로 \'바곳\'의 목적지가 단순한 미드가르드 북부가 아닌 바다 건너 얼음의 땅 \'이스가르드\'인 것을 알게 되고 모험가와 일행들은 전설이 고스란히 남아있는 이스가르드로 향한다.\n\t\t\n\t\t<TIPBOX>▶EP. 18 기도의 방향<INFO>4217</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 200 이상^000000\n\t\t\n\t\t▶시작 퀘스트\n\t\t<TIPBOX>Q 북풍을 타고 온 손님, 얼음성의 만남(200)<INFO>4260</INFO></TIPBOX>\n\t\t\n\t\t▶메인 퀘스트\n\t\t<TIPBOX>Q 독수리 순찰대(200)<INFO>4261</INFO></TIPBOX>\n\t\t<TIPBOX>Q 실험체210426 조우(200)<INFO>4262</INFO></TIPBOX>\n\t\t<TIPBOX>Q 레이지의 계책(200)<INFO>4263</INFO></TIPBOX>\n\t\t<TIPBOX>Q 뱀의 둥지 잠입(200)<INFO>4264</INFO></TIPBOX>\n\t\t<TIPBOX>Q 잠입 작전 중간 보고(200)<INFO>4265</INFO></TIPBOX>\n\t\t<TIPBOX>Q 단서 찾기(200)<INFO>4266</INFO></TIPBOX>\n\t\t<TIPBOX>Q 소리없이 스며드는(200)<INFO>4267</INFO></TIPBOX>\n\t\t<TIPBOX>Q 퇴적되는 의심(200)<INFO>4268</INFO></TIPBOX>\n\t\t<TIPBOX>Q 간발의 차이, 바곳의 속셈(200)<INFO>4269</INFO></TIPBOX>\n\t\t<TIPBOX>Q 혼란한 뱀의 둥지, 사라져버린 자들(200)<INFO>4270</INFO></TIPBOX>\n\t\t\n\t\t▶서브 퀘스트\n\t\t<TIPBOX>Q 정화의 성녀(200)<INFO>4271</INFO></TIPBOX>\n\t\t<TIPBOX>Q 얼어붙은 바다(200)<INFO>4272</INFO></TIPBOX>\n\t\t<TIPBOX>Q 궁금한 것(200)<INFO>4273</INFO></TIPBOX>\n\t\t<TIPBOX>Q 나이 많은 뱀(200)<INFO>4274</INFO></TIPBOX>\n\t\t<TIPBOX>Q 교리와 설법(200)<INFO>4275</INFO></TIPBOX>\n\t\t<TIPBOX>Q 특별한 생존 방식(200)<INFO>4276</INFO></TIPBOX>\n\t\t\n\t\t▶일일 퀘스트\n\t\t<TIPBOX>Q 지상에서 은신처 찾기(200)<INFO>4277</INFO></TIPBOX>\n\t\t<TIPBOX>Q 모랴라의 낚시 돕기(200)<INFO>4278</INFO></TIPBOX>\n\t\t<TIPBOX>Q 조랴라의 즐거운 점심 시간(200)<INFO>4279</INFO></TIPBOX>\n\t\t<TIPBOX>Q 먹이를 주지 마시오!(200)<INFO>4280</INFO></TIPBOX>\n\t\t<TIPBOX>Q 몰래 하는 재미(200)<INFO>4281</INFO></TIPBOX>\n\t\t<TIPBOX>Q 점심이의 메뉴 선택(200)<INFO>4282</INFO></TIPBOX>\n\t\t<TIPBOX>Q 사제님, 자비를(200)<INFO>4283</INFO></TIPBOX>\n\t\t<TIPBOX>Q 처음 보는 애네(200)<INFO>4284</INFO></TIPBOX>\n\t\t<TIPBOX>Q 벨군드의 연구 재료 조달(200)<INFO>4285</INFO></TIPBOX>\n\t\t<TIPBOX>Q 조난자 수색(200)<INFO>4286</INFO></TIPBOX>\n\t\t<TIPBOX>Q 기품어린 취미 생활(200)<INFO>4287</INFO></TIPBOX>\n\t\t<TIPBOX>Q 안전한 노동을 위해(200)<INFO>4288</INFO></TIPBOX>\n\t\t<TIPBOX>Q 우리들의 소중한 양식(200)<INFO>4289</INFO></TIPBOX>\n\t\t<TIPBOX>Q 프리데리케의 하루(200)<INFO>4290</INFO></TIPBOX>\n\t\t<TIPBOX>Q 냉장고가 필요한가?(200)<INFO>4291</INFO></TIPBOX>\n\t\t<TIPBOX>Q 바삭바삭한 도구(200)<INFO>4292</INFO></TIPBOX>\n\t\t<TIPBOX>Q 버려질만한 장소1(220)<INFO>4293</INFO></TIPBOX>\n\t\t<TIPBOX>Q 버려질만한 장소2(240)<INFO>4294</INFO></TIPBOX>\n\t\t<TIPBOX>Q 파고 또 파고(200)<INFO>4295</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아윈과 함께 하는 순찰(200)<INFO>4296</INFO></TIPBOX>\n\t\t<TIPBOX>MD 19 시뮬레이션 융케아<INFO>4297</INFO></TIPBOX>\n\t\t<TIPBOX>MD 19 비공정 파괴작전<INFO>4298</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep19 설화 방어구<INFO>4258</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 글레이시아 무기<INFO>4259</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 딤 글레이시아 무기<INFO>4365</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 19<INFO>4256</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4258] = {Title = "Ep19 설화 방어구 시리즈#설화의꽃잎", Search = 1, Image = "", 
@@ -2173,13 +2173,13 @@ Page = {"이스가르드의 뱀의 둥지에는 르간들이 살고 있습니다. 그 중 베르베르간드의
 [4288] = {Title = "Q 안전한 노동을 위해(200)#퀘스트에피19일일퀘", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"이스가르드의 뱀의 둥지에는 르간들이 살고 있습니다. 그 중 얼음 채취 임무를 맡은 하나더사라간드는 큰 걱정이 있습니다. 사제님 도와줘요!\n\t\t\n\t\t<TIPBOX>▶뱀의 둥지 잠입<INFO>4264</INFO></TIPBOX> 진행\n\t\t^663399◈레벨 200 이상^000000\n\t\t\n\t\t<NAVI>[하나더사라간드]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"이스가르드의 뱀의 둥지에는 르간들이 살고 있습니다. 그 중 얼음 채취 임무를 맡은 하나더사라간드는 큰 걱정이 있습니다. 사제님 도와줘요!\n\t\t\n\t\t<TIPBOX>▶뱀의 둥지 잠입<INFO>4264</INFO></TIPBOX> 진행\n\t\t^663399◈레벨 200 이상^000000\n\t\t\n\t\t<NAVI>[하나더사라간드]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4289] = {Title = "Q 우리들의 소중한 양식(200)#퀘스트에피19일일퀘", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"이스가르드의 뱀의 둥지에는 르간들이 살고 있습니다. 미미르간드는 르간식 연료 조달과 마력 조달을 함께 하길 바라고 있습니다.\n\t\t\n\t\t<TIPBOX>▶특별한 생존 방식<INFO>4276</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 200 이상^000000\n\t\t\n\t\t<NAVI>[이름]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"이스가르드의 뱀의 둥지에는 르간들이 살고 있습니다. 미미르간드는 르간식 연료 조달과 마력 조달을 함께 하길 바라고 있습니다.\n\t\t\n\t\t<TIPBOX>▶특별한 생존 방식<INFO>4276</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 200 이상^000000\n\t\t\n\t\t<NAVI>[미미르간드]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4290] = {Title = "Q 프리데리케의 하루(200)#퀘스트에피19일일퀘", Search = 1, Image = "", 
@@ -2227,13 +2227,13 @@ Page = {"이스가르드 얼음성의 믿음직한 독수리 순찰대. 순찰대장은 언제나 함께 할 �
 [4297] = {Title = "MD 19 시뮬레이션 융케아#200에피일일퀘", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"융케아가 변신한 몬스터 데이터를 이용해 전투 훈련을 할 수 있겠다는 판단을 한 얼음성의 연구자들은 모험가의 증언을 바탕으로 시뮬레이션 융케아의 데이터를 만들어낸다. 뱀의 둥지 한 켠에 융케아와의 전투를 그대로 재현한 훈련장이 만들어졌다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶혼란한 뱀의 둥지, 사라져버린 자들<INFO>4270</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t\n\t\t<NAVI>[아로롱]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"융케아가 변신한 몬스터 데이터를 이용해 전투 훈련을 할 수 있겠다는 판단을 한 얼음성의 연구자들은 모험가의 증언을 바탕으로 시뮬레이션 융케아의 데이터를 만들어낸다. 뱀의 둥지 한 켠에 융케아와의 전투를 그대로 재현한 훈련장이 만들어졌다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶혼란한 뱀의 둥지, 사라져버린 자들<INFO>4270</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t\n\t\t<NAVI>[아로롱]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4298] = {Title = "MD 19 비공정 파괴작전#200에피일일퀘", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"뱀의 둥지에는 일루시온이 탈취해 간 비공정이 있다. 일행과 상의 후 일루시온과 르간들이 더이상 사용하지 못하도록 파괴하기로 한다. 하지만 바르문트의 정수가 담긴 비공정은 쉽게 공략되지 않는데...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶잠입 작전 중간 보고<INFO>4265</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t^663399◈퀘스트 진행용 MD입니다.^000000\n\t\t\n\t\t<NAVI>[로프]<INFO>jor_nest,21,258,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"뱀의 둥지에는 일루시온이 탈취해 간 비공정이 있다. 일행과 상의 후 일루시온과 르간들이 더이상 사용하지 못하도록 파괴하기로 한다. 하지만 바르문트의 정수가 담긴 비공정은 쉽게 공략되지 않는데...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶잠입 작전 중간 보고<INFO>4265</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t^663399◈퀘스트 진행용 MD입니다.^000000\n\t\t\n\t\t<NAVI>[로프]<INFO>jor_nest,21,258,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4299] = {Title = "환상 체험 총서 VR-Books#환상총서", Search = 1, Image = "유저인터페이스\\tipbox\\tip04299", 
@@ -2348,6 +2348,240 @@ Page = {"마력이 뒤틀린 평원에서 종종 발견된다는 모카다스 석판에 기록된 제작법대�
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"묘르닐 지하 동굴에서 발견되는 설계도로 제작한 장비.\n\t\t\n\t\t^663399◈묘르닐 지하 동굴 이동^000000\n\t\t▶<NAVI>[리벨리온 대원]<INFO>ein_fild08,196,48,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈연관 퀘스트^000000\n\t\t<TIPBOX>Q 묘르닐 지하 동굴 몬스터 토벌 (250)<INFO>4324</INFO></TIPBOX>\n\t\t\n\t\t^663399◈플러시 장비 일람^000000\n\t\t<ITEM>[플러시 금속 탐지기 MK47]<INFO>510105</INFO></ITEM>\n\t\t<ITEM>[플러시 금속 탐지기 MK47-2]<INFO>510106</INFO></ITEM>\n\t\t<ITEM>[플러시 보석 탐지기 Mk47]<INFO>510077</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 세이버]<INFO>500056</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 폭스테일]<INFO>550091</INFO></ITEM>\n\t\t<ITEM>[플러시 블로킹 스피어]<INFO>530035</INFO></ITEM>\n\t\t<ITEM>[플러시 크로우 소드]<INFO>600031</INFO></ITEM>\n\t\t<ITEM>[플러시 러버 해머]<INFO>590049</INFO></ITEM>\n\t\t<ITEM>[플러시 쏘우 액스]<INFO>620020</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 너클]<INFO>560038</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 매뉴얼]<INFO>540058</INFO></ITEM>\n\t\t<ITEM>[플러시 웰딩 완드]<INFO>550092</INFO></ITEM>\n\t\t<ITEM>[플러시 디텍팅 스태프]<INFO>640035</INFO></ITEM>\n\t\t<ITEM>[플러시 그라인더 풍마수리검]<INFO>650029</INFO></ITEM>\n\t\t<ITEM>[플러시 볼트 슈터]<INFO>700060</INFO></ITEM>\n\t\t<ITEM>[플러시 볼트 크러셔]<INFO>610042</INFO></ITEM>\n\t\t<ITEM>[플러시 볼트 리볼버]<INFO>800016</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 휩]<INFO>580034</INFO></ITEM>\n\t\t<ITEM>[플러시 세이프티 류트]<INFO>570033</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4327] = {Title = "에피소드 20#퀘스트", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"바곳의 야망을 저지하고 라스간드의 행보를 막기위해, 얼음성 일원들은 그동안 금지였던 고대 얼음 협곡을 조사하기로 합니다.\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep20 글레이시아 방어구<INFO>4329</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP20 딤 글레이시아 방어구<INFO>4330</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep20 흰 고양이 동맹 상점<INFO>4331</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4328] = {Title = "Episode 20 죽지 않는 자#퀘스트에피소드", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"르간들은 뱀의 온기를 폐쇄하고, 자원 채취를 위한 최소한의 인원만 남겨두고 사라졌다. 얼음평원 전역을 수색해보지만 사라진 르간들을 찾지 못한 얼음성의 일원들은 바곳의 야망을 저지하고 라스간드의 행보를 막기 위해 그동안 금지였던 고대 얼음 협곡으로 향한다.\n\t\t\n\t\t<TIPBOX>▶EP. 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶시작 퀘스트\n\t\t<TIPBOX>Q 새로운 탐색지(215)<INFO>4332</INFO></TIPBOX>\n\t\t\n\t\t▶메인 퀘스트\n\t\t<TIPBOX>Q 고대 얼음 협곡의 선주민(215)<INFO>4333</INFO></TIPBOX>\n\t\t<TIPBOX>Q 협곡 탐사, 냉전과 첩보의 시대(215)<INFO>4334</INFO></TIPBOX>\n\t\t<TIPBOX>Q 르간들의 은신처 잠입(215)<INFO>4335</INFO></TIPBOX>\n\t\t<TIPBOX>Q 르간들의 신뢰 얻기(215)<INFO>4336</INFO></TIPBOX>\n\t\t<TIPBOX>Q 미로의 끝이 향하는 곳(215)<INFO>4337</INFO></TIPBOX>\n\t\t<TIPBOX>Q 은신처 잠입 보고(215)<INFO>4338</INFO></TIPBOX>\n\t\t<TIPBOX>Q 태고의 깊은 바다(215)<INFO>4339</INFO></TIPBOX>\n\t\t<TIPBOX>Q 작은 가지의 둥지(215)<INFO>4340</INFO></TIPBOX>\n\t\t<TIPBOX>Q 비보(215)<INFO>4341</INFO></TIPBOX>\n\t\t<TIPBOX>Q 죽지 않는 자(215)<INFO>4342</INFO></TIPBOX>\n\t\t\n\t\t▶서브 퀘스트\n\t\t<TIPBOX>Q 하지만 생각을 해보라고(215)<INFO>4343</INFO></TIPBOX>\n\t\t<TIPBOX>Q 화가 많으시군요(215)<INFO>4344</INFO></TIPBOX>\n\t\t<TIPBOX>Q 나는 아마도 도시락(215)<INFO>4346</INFO></TIPBOX>\n\t\t<TIPBOX>Q 꼬뽀의 비밀기지(215)<INFO>4345</INFO></TIPBOX>\n\t\t<TIPBOX>Q 새 삶의 터전(215)<INFO>4349</INFO></TIPBOX>\n\t\t<TIPBOX>Q 그 어떤 아윈보다 전문가(215)<INFO>4364</INFO></TIPBOX>\n\t\t\n\t\t▶일일 퀘스트\n\t\t<TIPBOX>Q 스파이 수색(215)<INFO>4347</INFO></TIPBOX>\n\t\t<TIPBOX>Q 첩보 정보 회수(215)<INFO>4348</INFO></TIPBOX>\n\t\t<TIPBOX>Q 취미생활의 맛(215)<INFO>4349</INFO></TIPBOX>\n\t\t<TIPBOX>Q 뱀신의 미로 청소(215)<INFO>4350</INFO></TIPBOX>\n\t\t<TIPBOX>Q 르간 뿌리 뽑기(215)<INFO>4351</INFO></TIPBOX>\n\t\t<TIPBOX>Q 소리나지 않는 대답(215)<INFO>4352</INFO></TIPBOX>\n\t\t<TIPBOX>Q 여기까지 와 있는데(215)<INFO>4353</INFO></TIPBOX>\n\t\t<TIPBOX>Q 화해하면 좋겠다-1(215)<INFO>4354</INFO></TIPBOX>\n\t\t<TIPBOX>Q 보클린드의 섬멸작전1(215)<INFO>4355</INFO></TIPBOX>\n\t\t<TIPBOX>Q 보클린드의 섬멸작전2(215)<INFO>4356</INFO></TIPBOX>\n\t\t<TIPBOX>Q 말랑말랑 별미 수집(215/230)<INFO>4357</INFO></TIPBOX>\n\t\t<TIPBOX>Q 화해하면 좋겠다-2(230)<INFO>4358</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아윈의 아윈 걱정(230)<INFO>4359</INFO></TIPBOX>\n\t\t<TIPBOX>Q 위험하다고!(215)<INFO>4362</INFO></TIPBOX>\n\t\t<TIPBOX>Q 에스카르고!(215)<INFO>4363</INFO></TIPBOX>\n\t\t<TIPBOX>MD 20 끈적이는 바다<INFO>4360</INFO></TIPBOX>\n\t\t<TIPBOX>MD 20 죽지 않는 자 무력화<INFO>4361</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep20 글레이시아 방어구<INFO>4329</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep20 딤 글레이시아 방어구<INFO>4330</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep20 흰 고양이 동맹 상점<INFO>4331</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 20<INFO>4327</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4329] = {Title = "Ep20 글레이시아 방어구#신성한고양이수염", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"에피소드를 진행하면서 획득한 ^i[1001217] ^4d4dff신성한 고양이 수염^000000으로 얼음성에서 여러가지 유용한 장비아이템으로 교환할 수 있습니다.\n\t\t\n\t\t^663399◈교환 위치^000000\n\t\t▶<NAVI>[삐삐링]<INFO>icas_in,170,65,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈교환 조건^000000\n\t\t▶에피소드 20 메인 퀘스트 완료\n\t\t\n\t\t^663399◈글레이시아 방어구 시리즈^000000\n\t\t^i[450264] <ITEM>[글레이시아 아머]<INFO>450264</INFO></ITEM>\n\t\t^i[450265] <ITEM>[글레이시아 로브]<INFO>450265</INFO></ITEM>\n\t\t^i[450266] <ITEM>[글레이시아 망토]<INFO>450266</INFO></ITEM>\n\t\t^i[450267] <ITEM>[글레이시아 머플러]<INFO>450267</INFO></ITEM>\n\t\t^i[470196] <ITEM>[글레이시아 부츠]<INFO>470196</INFO></ITEM>\n\t\t^i[450268] <ITEM>[글레이시아 슈즈]<INFO>450268</INFO></ITEM>\n\t\t^i[460040] <ITEM>[글레이시아 가드]<INFO>460040</INFO></ITEM>\n\t\t^i[490328] <ITEM>[글레이시아 펜던트]<INFO>490328</INFO></ITEM>\n\t\t^i[490330] <ITEM>[글레이시아 네클리스]<INFO>490330</INFO></ITEM>\n\t\t^i[490327] <ITEM>[글레이시아 링]<INFO>490327</INFO></ITEM>\n\t\t^i[490329] <ITEM>[글레이시아 이어링]<INFO>490329</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶에피소드 20<INFO>4327</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4330] = {Title = "Ep20 딤 글레이시아 방어구", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"MD 죽지 않는 자 무력화 일반/상급 모드에서 라스간드 처치 시 획득 가능한 방어구입니다.\n\t\t\n\t\t<TIPBOX>▶MD 20 죽지 않는 자 무력화<INFO>4361</INFO></TIPBOX>\n\t\t\n\t\t^663399◈인챈트 위치^000000\n\t\t▶<NAVI>[삐삐링]<INFO>icas_in,170,65,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈딤 글레이시아 방어구 시리즈^000000\n\t\t^i[450270] <ITEM>[딤 글레이시아 아머]<INFO>450270</INFO></ITEM>\n\t\t^i[450271] <ITEM>[딤 글레이시아 로브]<INFO>450271</INFO></ITEM>\n\t\t^i[480283] <ITEM>[딤 글레이시아 망토]<INFO>480283</INFO></ITEM>\n\t\t^i[480284] <ITEM>[딤 글레이시아 머플러]<INFO>480284</INFO></ITEM>\n\t\t^i[470197] <ITEM>[딤 글레이시아 부츠]<INFO>470197</INFO></ITEM>\n\t\t^i[470198] <ITEM>[딤 글레이시아 슈즈]<INFO>470198</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶에피소드 20<INFO>4327</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4331] = {Title = "Ep20 흰 고양이 동맹 상점", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"에피소드 20을 진행하면서 쌓은 흰 고양이 동맹 평판이 일정 수준 이상이면 이용할 수 있는 상점 목록입니다.\n\t\t\n\t\t^663399◈상점 위치^000000\n\t\t▶<NAVI>[삐삐링]<INFO>icas_in,170,65,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈1레벨 상점 판매 상품^000000\n\t\t^i[102202]\n\t\t\n\t\t^663399◈2레벨 상점 판매 상품^000000\n\t\t^i[102202] ^i[400414] ^i[400415] ^i[102227]\n\t\t\n\t\t<TIPBOX>▶에피소드 20<INFO>4327</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4332] = {Title = "Q 새로운 탐색지(215)#210퀘스트에피20시작", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"굳게 닫힌 르간들의 은신처를 찾기 위해 사방으로 애를 썼지만 입구를 찾을 수 없었습니다. 논의 끝에 고대 얼음 협곡으로 탐사 범위를 넓히기로 하는데…\n\t\t\n\t\t<TIPBOX>▶EP. 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[호르르]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4333] = {Title = "Q 고대 얼음 협곡의 선주민(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이스가르드의 고대 얼음 협곡에는 고대 아이스윈드가 살고 있다…! 하지만 어쩐지 사납게 들려드는데...?\n\t\t\n\t\t<TIPBOX>Q 새로운 탐색지(215)<INFO>4332</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[레하르]<INFO>jor_back5,350,75,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4334] = {Title = "Q 협곡 탐사, 냉전과 첩보의 시대(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"고대 얼음 협곡을 다시 탐사하던 중 모험가와 레하르는 함정에 빠지지만 굉장히 중요한 정보를 획득합니다. 레하르가 가져온 정보를 바탕으로 레이지는 새로운 계략을 제안합니다.\n\t\t\n\t\t<TIPBOX>Q 고대 얼음 협곡의 선주민(215)<INFO>4333</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[레하르]<INFO>icecastle,201,171,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4335] = {Title = "Q 르간들의 은신처 잠입(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"뱀의 둥지 너머에는 예상대로 르간들의 또 다른 은신처가 있었습니다. 르간으로 변신해 잠입하자 어쩐지 최상급 르간들이 반기는 분위기인데...?\n\t\t\n\t\t<TIPBOX>Q 협곡 탐사, 냉전과 첩보의 시대(215)<INFO>4334</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[레이지]<INFO>jor_nest,36,274,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4336] = {Title = "Q 르간들의 신뢰 얻기(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에서 신뢰를 얻어야 정보도 얻을 수 있을 것 같습니다. 최상급 르간들이 어떤 도움을 필요로 하는지 알아봅시다.\n\t\t\n\t\t<TIPBOX>Q 르간들의 은신처 잠입(215)<INFO>4335</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t^663399◈신뢰를 얻기 위해 해야 할 일!^000000\n\t\t<TIPBOX>Q 하지만 생각을 해보라고(215)<INFO>4343</INFO></TIPBOX>\n\t\t<TIPBOX>Q 화가 많으시군요(215)<INFO>4344</INFO></TIPBOX>\n\t\t<TIPBOX>Q 소리나지 않는 대답(215)<INFO>4352</INFO></TIPBOX>\n\t\t<TIPBOX>Q 여기까지 와 있는데(215)<INFO>4353</INFO></TIPBOX>\n\t\t<TIPBOX>Q 나는 아마도 도시락(215)<INFO>4346</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4337] = {Title = "Q 미로의 끝이 향하는 곳(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에서 최상급 르간을 도와 일을 하던 중, 자칭 라스간드의 오른팔이라던 사레크간드를 따라가 충실한 르간의 역할을 수행합시다.\n\t\t\n\t\t<TIPBOX>Q 르간들의 신뢰 얻기(215)<INFO>4336</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[사레크간드]<INFO>jor_sanct,157,171,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4338] = {Title = "Q 은신처 잠입 보고(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에서 잠입 활동을 하던 중 위기에 빠진 당신은 신묘한 존재의 도움을 받는데.. 얼어붙은 비늘 언덕에서 레하르와 이야기를 나눠봅시다.\n\t\t\n\t\t<TIPBOX>Q 미로의 끝이 향하는 곳(215)<INFO>4337</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[레하르]<INFO>jor_back1,365,226,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4339] = {Title = "Q 태고의 깊은 바다(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성에 모인 모험가와 일행은 하얀 고양이가 마지막으로 나타났던 장소인 유빙지대에서 하얀 고양이를 찾아보기로 하는데...\n\t\t\n\t\t<TIPBOX>Q 은신처 잠입 보고(215)<INFO>4338</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[레하르]<INFO>icas_in,226,255,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4340] = {Title = "Q 작은 가지의 둥지(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"유빙지대를 헤맨 끝에 하얀 고양이를 발견! 하지만 기쁨도 잠시, 레온과 오렐리는 하얀 고양이를 찾아 홀연히 사라지는데...?!\n\t\t\n\t\t<TIPBOX>Q 태고의 깊은 바다(215)<INFO>4339</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[레온]<INFO>jor_twice,158,243,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4341] = {Title = "Q 비보(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"뱀의 미로에서 라스간드에게 잡혀 제물이 되기 직전 냐르 님의 도움으로 탈출에 성공했다..! 세상에 고마워! 그런데 뭐야, 레하르가 보이지 않아...?\n\t\t\n\t\t<TIPBOX>Q 작은 가지의 둥지(215)<INFO>4340</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[냐르]<INFO>jor_back1,364,222,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4342] = {Title = "Q 죽지 않는 자(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"뱀신의 뿌리에 다시 잠입한 레하르와 미리암을 도와 동향을 살펴보자. 분명 뭔가가 있어...!\n\t\t\n\t\t<TIPBOX>Q 비보(215)<INFO>4341</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[표식]<INFO>jor_sanct,133,86,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4343] = {Title = "Q 하지만 생각을 해보라고(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에서 고미아간드는 자신의 이야기를 들어줄 르간이 필요한 것 같습니다.\n\t\t\n\t\t<TIPBOX>Q 르간들의 신뢰 얻기(215)<INFO>4336</INFO></TIPBOX> 진행\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[고미아간드]<INFO>jor_sanct,215,84,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4344] = {Title = "Q 화가 많으시군요(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에서 홀시비간드는 자신의 이야기를 들어줄 르간이 필요한 것 같습니다.\n\t\t\n\t\t<TIPBOX>Q 르간들의 신뢰 얻기(215)<INFO>4336</INFO></TIPBOX> 진행\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[홀시비간드]<INFO>jor_sanct,190,128,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4345] = {Title = "Q 꼬뽀의 비밀기지(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이스가르드 얼음성에는 꼬뽀라 불리는 귀여운 생명체가 존재합니다. 프리데리케는 사라진 꼬뽀를 찾기 위해 모험가와 함께 구출 작전을 펼치는데...!\n\t\t\n\t\t<TIPBOX>Q 얼어붙은 바다(200)<INFO>4272</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[아윈 배달부]<INFO>icecastle,109,241,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4346] = {Title = "Q 나는 아마도 도시락(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에서 에리리간드는 자신의 이야기를 들어줄 르간이 필요한 것 같습니다.\n\t\t\n\t\t<TIPBOX>Q 르간들의 신뢰 얻기(215)<INFO>4336</INFO></TIPBOX> 진행\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[에리리간드]<INFO>jor_sanct,101,138,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4347] = {Title = "Q 스파이 수색(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성에 수상한 아윈이 있다고?! 아윈 변신스크롤을 사용하여 얼음의 성으로 숨어든 르간을 찾아내자.\n\t\t\n\t\t<TIPBOX>Q 그 어떤 아윈보다 전문가(215)<INFO>4364</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4348] = {Title = "Q 첩보 정보 회수(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성에 숨어든 스파이를 색출하는 것도 물론 중요하지만, 파견된 아군이 수집한 정보를 무사히 회수해 오는 임무도 그에 못지않게 중요합니다.\n\t\t\n\t\t<TIPBOX>Q 그 어떤 아윈보다 전문가(215)<INFO>4364</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4349] = {Title = "Q 새 삶의 터전-취미생활의 맛(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성으로 데려온 르간 포로의 문제로 한 아윈 병사가 모험가의 도움을 애타게 기다리는 것 같다.\n\t\t\n\t\t<TIPBOX>Q 르간들의 은신처 잠입(215)<INFO>4335</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[아윈 병사]<INFO>icecastle,46,164,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4350] = {Title = "Q 뱀신의 미로 청소(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에 얼마나 잘 녹아들었는지, 뱀의 미로를 관리하는 감독관이 눈만 마주치면 일을 시키고 싶어합니다.\n\t\t\n\t\t<TIPBOX>Q 은신처 잠입 보고(215)<INFO>4338</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[감독관]<INFO>jor_sanct,22,283,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4351] = {Title = "Q 르간 뿌리 뽑기(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"잠수 아윈 꼬로로는 매일매일 유빙지대를 살피고 있다. 꼬로로를 도와 오늘도 유빙지대를 훼손하는 르간들에게 매운 맛을 보여주자.\n\t\t\n\t\t<TIPBOX>Q 작은 가지의 둥지(215)<INFO>4340</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[잠수 아윈]<INFO>jor_twice,235,111,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4352] = {Title = "Q 소리나지 않는 대답(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에서 파모슈간드는 자신의 이야기를 들어줄 르간이 필요한 것 같습니다.\n\t\t\n\t\t<TIPBOX>Q 르간들의 신뢰 얻기(215)<INFO>4336</INFO></TIPBOX> 진행\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[파모슈간드]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4353] = {Title = "Q 여기까지 와 있는데(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"성스러운 뿌리에서 날시오라미간드는 자신의 이야기를 들어줄 르간이 필요한 것 같습니다.\n\t\t\n\t\t<TIPBOX>Q 르간들의 신뢰 얻기(215)<INFO>4336</INFO></TIPBOX> 진행\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[날시오라미간드]<INFO>jor_sanct,271,156,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4354] = {Title = "Q 화해하면 좋겠다-1(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성의 라라하는 고대 얼음 협곡의 잿빛 아이스윈드를 혼내주고 싶어한다.\n\t\t\n\t\t<TIPBOX>Q 꼬뽀의 비밀기지(215)<INFO>4345</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4355] = {Title = "Q 보클린드의 섬멸작전1(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성의 보클린드는 르간들의 진짜 본거지 중 뱀신의 뿌리 1층을 소탕하고자 합니다.\n\t\t\n\t\t<TIPBOX>Q 죽지 않는 자(215)<INFO>4342</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[보클린드]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4356] = {Title = "Q 보클린드의 섬멸작전2(215)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성의 보클린드는 르간들의 진짜 본거지 중 뱀신의 뿌리 2층을 소탕하고자 합니다.\n\t\t\n\t\t<TIPBOX>Q 죽지 않는 자(215)<INFO>4342</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[보클린드]<INFO>icas_in2,253,118,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4357] = {Title = "Q 말랑말랑 별미 수집(215/230)#210퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성 아윈들의 식당에 조랴라의 보조로 들어온 또료료는 특이한 재료의 조달을 요청하려고 합니다.\n\t\t\n\t\t<TIPBOX>Q 작은 가지의 둥지(215)<INFO>4340</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215/230 이상^000000\n\t\t^663399◈230레벨 이상인 경우 상급 퀘스트 선택이 가능합니다.^000000\n\t\t\n\t\t▶<NAVI>[또료료]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4358] = {Title = "Q 화해하면 좋겠다-2(230)#퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라라하는 고대 얼음 협곡의 아이스윈드를 혼내주고 싶어한다.\n\t\t\n\t\t<TIPBOX>Q 꼬뽀의 비밀기지(215)<INFO>4345</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4359] = {Title = "Q 아윈의 아윈 걱정(230)#퀘스트에피20일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성의 치치링은 고대 얼음 협곡과 연결된 깊은 뿌리 동굴의 존재들이 동굴 밖으로 나올까 걱정되는 것 같습니다.\n\t\t\n\t\t<TIPBOX>Q 죽지 않는 자(215)<INFO>4342</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[치치링]<INFO>icecastle,75,126,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4360] = {Title = "MD 20 끈적이는 바다#Q210퀘스트에피20일퀘215", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성 귀엽둥이 꼬뽀의 비밀기지가 있는 곳, 처음 보는 친구들이 잔뜩 있으니 조심해야 한다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>Q 꼬뽀의 비밀기지(215)<INFO>4345</INFO></TIPBOX> 완료\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 215 이상\n\t\t\n\t\t◈ 연계 퀘스트\n\t\t<TIPBOX>Q 위험하다고!(215)<INFO>4362</INFO></TIPBOX>\n\t\t<TIPBOX>Q 에스카르고!(215)<INFO>4363</INFO></TIPBOX>\n\t\t\n\t\t▶<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4361] = {Title = "MD 20 죽지 않는 자 무력화#Q210퀘스트에피20일퀘215", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"작은 가지의 둥지에서 하얗고 길쭉길쭉한 고양이의 부탁을 받아 세계수의 심상 속에 봉인된 라스간드를 만나러 간다. 죽지 않는다면 살지도 못할 정도로 괴롭혀 주는 수 밖에...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>Q 죽지 않는 자(215)<INFO>4342</INFO></TIPBOX> 완료\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 30분\n\t\t→ 레벨 215 이상\n\t\t\n\t\t▶<NAVI>[세계수의 가지]<INFO>jor_twig,116,148,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4362] = {Title = "Q 위험하다고!(215)#210퀘스트에피20일퀘md", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음성의 귀염둥이 꼬뽀는 비밀기지 사건 이후로도 종종 길을 잃는 것 같습니다. 끈적이는 바다에서 길 잃은 꼬뽀를 집으로 돌려보냅시다...\n\t\t\n\t\t<TIPBOX>Q 꼬뽀의 비밀기지(215)<INFO>4345</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4363] = {Title = "Q 에스카르고!(215)#210퀘스트에피20일퀘md", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"꼬뽀가 항상 헤매는 끈적이는 바다의 위험한 몬스터를 소탕하는 일입니다.\n\t\t\n\t\t<TIPBOX>Q 꼬뽀의 비밀기지(215)<INFO>4345</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4364] = {Title = "Q 그 어떤 아윈보다 전문가(215)#210퀘스트에피20", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼음의 성에 찾아 든 냉전과 첩보의 시대. 독수리 순찰대에는 이런 혼란한 시기를 기대하며, 스파이를 연구해 온 의외의 아윈이 존재한다고 합니다. 그 아윈에게 도움을 청해봅시다.\n\t\t\n\t\t<TIPBOX>Q 협곡 탐사, 냉전과 첩보의 시대(215)<INFO>4334</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[오리료 조병]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4365] = {Title = "Ep19 딤 글레이시아 무기", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"뱀신의 온기, 버려진 구덩이 던전과 MD 바곳의 실험실, 비공정 파괴작전에서 획득 가능한 무기입니다.\n\t\t<TIPBOX>▶MD 19 시뮬레이션 융케아<INFO>4297</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 19 비공정 파괴작전<INFO>4298</INFO></TIPBOX>\n\t\t\n\t\t^663399◈지원 위치^000000\n\t\t▶<NAVI>[포르르]<INFO>icas_in,188,60,0,101,0</INFO></NAVI>\n\t\t▶<NAVI>[소각용 화로]<INFO>icas_in,191,57,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈딤 글레이시아 무기 일람^000000\n\t\t<ITEM>[딤 글레이시아 소드]<INFO>500054</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 베이직 소드]<INFO>500055</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 로그나이프]<INFO>510075</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 베이직 나이프]<INFO>510076</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 액스]<INFO>520021</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 스피어]<INFO>530034</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 북]<INFO>540056</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 완드]<INFO>550089</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 강아지풀]<INFO>550090</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 너클]<INFO>560037</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 바이올린]<INFO>570032</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 휩]<INFO>580033</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 메이스]<INFO>590047</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 미케닉 메이스]<INFO>590048</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 투핸드 소드]<INFO>600030</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 카타르]<INFO>610041</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 미케닉 액스]<INFO>620019</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 스태프]<INFO>640034</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 풍마수리검]<INFO>650028</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 보우]<INFO>700059</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 리볼버]<INFO>800015</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 라이플]<INFO>810015</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 샷건]<INFO>820011</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 개틀링]<INFO>830015</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 런처]<INFO>840010</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶에피소드 19<INFO>4256</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [5001] = {Title = "MD 게펜 야간 투기장(210)#게펜야간투기장대회영웅의흔적마법", Search = 1, Image = "유저인터페이스\\tipbox\\tip05001", 
@@ -3385,7 +3619,7 @@ Page = {"시공룡 오스카는 글래스트헤임에서 오염된 차원을 살피던 중 옛 글래스트헤�
 [7107] = {Title = "EPISODE MD#엠디에피소드메던", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"지금, 현재를 살아가는 우리 모두의 이야기. 미드가르드 대륙과 그 너머의 모든 이야기.\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.1<INFO>6041</INFO></TIPBOX>\n\t\t<TIPBOX>MD 안개 숲 미궁<INFO>7108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.3<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비오스의 섬 (160)<INFO>7109</INFO></TIPBOX>\n\t\t<TIPBOX>MD 모르스의 동굴 (160)<INFO>7110</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마신전 (160)<INFO>7111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 15.2<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중앙 실험실 (135)<INFO>7112</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마지막 방 (150)<INFO>7113</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.1<INFO>8118</INFO></TIPBOX>\n\t\t<TIPBOX>MD 축복의식 (100)<INFO>7114</INFO></TIPBOX>\n\t\t<TIPBOX>MD 의식의 방 (100)<INFO>7115</INFO></TIPBOX>\n\t\t<TIPBOX>MD 공중요새 침공 (140)<INFO>7116</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.2<INFO>8143</INFO></TIPBOX>\n\t\t<TIPBOX>MD 하트헌터 기지 외곽 (100)<INFO>7117</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중추실 (100)<INFO>7118</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.1<INFO>7055</INFO></TIPBOX>\n\t\t<TIPBOX>MD 레겐쉬름 탈환작전 (110)<INFO>7119</INFO></TIPBOX>\n\t\t<TIPBOX>MD 봉쇄된 오스 (110)<INFO>7120</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 점령 작전 (110)<INFO>7121</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 2차 수색 (110)<INFO>7122</INFO></TIPBOX>\n\t\t<TIPBOX>MD 코르 메모리얼 (110)<INFO>7123</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.2<INFO>7068</INFO></TIPBOX>\n\t\t<TIPBOX>MD 어스름밤의 정원 (130)<INFO>7124</INFO></TIPBOX>\n\t\t<TIPBOX>MD 헤이! 스위티 (130)<INFO>7125</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시간에게 잊혀진 사육장 (130)<INFO>7126</INFO></TIPBOX>\n\t\t<TIPBOX>MD 숨겨진 화원 (130)<INFO>7127</INFO></TIPBOX>\n\t\t<TIPBOX>MD 수상정원 (130)<INFO>7128</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 18<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>MD 성소 정화 (170)<INFO>4248</INFO></TIPBOX>\n\t\t<TIPBOX>MD 기만의 별장 (170)<INFO>4231</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 19<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시뮬레이션 융케아 (200)<INFO>4297</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비공정 파괴작전 (200)<INFO>4298</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"지금, 현재를 살아가는 우리 모두의 이야기. 미드가르드 대륙과 그 너머의 모든 이야기.\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.1<INFO>6041</INFO></TIPBOX>\n\t\t<TIPBOX>MD 안개 숲 미궁<INFO>7108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.3<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비오스의 섬 (160)<INFO>7109</INFO></TIPBOX>\n\t\t<TIPBOX>MD 모르스의 동굴 (160)<INFO>7110</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마신전 (160)<INFO>7111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 15.2<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중앙 실험실 (135)<INFO>7112</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마지막 방 (150)<INFO>7113</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.1<INFO>8118</INFO></TIPBOX>\n\t\t<TIPBOX>MD 축복의식 (100)<INFO>7114</INFO></TIPBOX>\n\t\t<TIPBOX>MD 의식의 방 (100)<INFO>7115</INFO></TIPBOX>\n\t\t<TIPBOX>MD 공중요새 침공 (140)<INFO>7116</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.2<INFO>8143</INFO></TIPBOX>\n\t\t<TIPBOX>MD 하트헌터 기지 외곽 (100)<INFO>7117</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중추실 (100)<INFO>7118</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.1<INFO>7055</INFO></TIPBOX>\n\t\t<TIPBOX>MD 레겐쉬름 탈환작전 (110)<INFO>7119</INFO></TIPBOX>\n\t\t<TIPBOX>MD 봉쇄된 오스 (110)<INFO>7120</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 점령 작전 (110)<INFO>7121</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 2차 수색 (110)<INFO>7122</INFO></TIPBOX>\n\t\t<TIPBOX>MD 코르 메모리얼 (110)<INFO>7123</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.2<INFO>7068</INFO></TIPBOX>\n\t\t<TIPBOX>MD 어스름밤의 정원 (130)<INFO>7124</INFO></TIPBOX>\n\t\t<TIPBOX>MD 헤이! 스위티 (130)<INFO>7125</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시간에게 잊혀진 사육장 (130)<INFO>7126</INFO></TIPBOX>\n\t\t<TIPBOX>MD 숨겨진 화원 (130)<INFO>7127</INFO></TIPBOX>\n\t\t<TIPBOX>MD 수상정원 (130)<INFO>7128</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 18<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>MD 성소 정화 (170)<INFO>4248</INFO></TIPBOX>\n\t\t<TIPBOX>MD 기만의 별장 (170)<INFO>4231</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 19<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시뮬레이션 융케아 (200)<INFO>4297</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비공정 파괴작전 (200)<INFO>4298</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 20<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>MD 끈적이는 바다 (215)<INFO>4360</INFO></TIPBOX>\n\t\t<TIPBOX>MD 죽지 않는 자 무력화 (215)<INFO>4361</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7108] = {Title = "MD 14.1 안개 숲 미궁#보라수호", Search = 1, Image = "", 
