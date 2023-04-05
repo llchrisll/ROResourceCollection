@@ -4,6 +4,18 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["force_map1.rsw"] = {displayName = "Labirinto das Valquírias", notifyEnter = true, 
+signName = {subTitle = "Labirinto das Valquírias", mainTitle = "Urd"}
+, backgroundBmp = "noname"}
+, 
+["force_map2.rsw"] = {displayName = "Labirinto das Valquírias", notifyEnter = true, 
+signName = {subTitle = "Labirinto das Valquírias", mainTitle = "Verdandi"}
+, backgroundBmp = "noname"}
+, 
+["force_map3.rsw"] = {displayName = "Labirinto das Valquírias", notifyEnter = true, 
+signName = {subTitle = "Labirinto das Valquírias", mainTitle = "Skuld"}
+, backgroundBmp = "noname"}
+, 
 ["1@gl_he.rsw"] = {displayName = "Dimensão Contaminada de Glast Heim", notifyEnter = true, 
 signName = {subTitle = "Dimensão Contaminada", mainTitle = "Glast Heim"}
 , backgroundBmp = "dungeon"}

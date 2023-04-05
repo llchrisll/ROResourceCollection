@@ -1057,3 +1057,6 @@ sp_os.rsw#sp_os.rsw#
 sp_rudus.rsw#Rudus (1)#
 sp_rudus2.rsw#Rudus (2)#
 sp_rudus3.rsw#Rudus (3)#
+
+// 일루전 얼던 (프로즌)
+ice_d03_i.rsw#Frozen Memory#

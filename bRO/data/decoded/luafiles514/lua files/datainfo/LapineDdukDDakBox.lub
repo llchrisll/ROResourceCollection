@@ -326,6 +326,542 @@ SourceItems = {
 {"Iron_Nail_K", 1, 1847}
 }
 , NeedSource_String = "Garra Ancestral"}
+, 
+["3Lv_9Refine_Weapon_7Gu"] = {ItemID = 100381, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 9, 
+SourceItems = {
+{"Scarlet_Knuckle", 1, 1839}
+, 
+{"Scarlet_Dagger", 1, 28705}
+, 
+{"Scarlet_Lance", 1, 1498}
+, 
+{"Scarlet_Rod", 1, 1680}
+, 
+{"Scarlet_Revolver", 1, 13127}
+, 
+{"Scarlet_Mace", 1, 16040}
+, 
+{"Scarlet_Bible", 1, 28604}
+, 
+{"Scarlet_Viollin", 1, 1939}
+, 
+{"Scarlet_Bow", 1, 18130}
+, 
+{"Scarlet_Saber", 1, 13454}
+, 
+{"Scarlet_Staff", 1, 2025}
+, 
+{"Scarlet_Spear", 1, 1443}
+, 
+{"Scarlet_Wire", 1, 1995}
+, 
+{"Scarlet_Katar", 1, 28007}
+, 
+{"Scarlet_Twohand_Sword", 1, 21015}
+, 
+{"Scarlet_Twohand_Axe", 1, 28106}
+, 
+{"Scarlet_Huuma", 1, 13327}
+}
+, NeedSource_String = "+9 Arma Rubi"}
+, 
+["3Lv_12Refine_Weapon_10G"] = {ItemID = 100384, NeedCount = 1, NeedRefineMin = 12, NeedRefineMax = 12, 
+SourceItems = {
+{"Scarlet_Knuckle", 1, 1839}
+, 
+{"Scarlet_Dagger", 1, 28705}
+, 
+{"Scarlet_Lance", 1, 1498}
+, 
+{"Scarlet_Rod", 1, 1680}
+, 
+{"Scarlet_Revolver", 1, 13127}
+, 
+{"Scarlet_Mace", 1, 16040}
+, 
+{"Scarlet_Bible", 1, 28604}
+, 
+{"Scarlet_Viollin", 1, 1939}
+, 
+{"Scarlet_Bow", 1, 18130}
+, 
+{"Scarlet_Saber", 1, 13454}
+, 
+{"Scarlet_Staff", 1, 2025}
+, 
+{"Scarlet_Spear", 1, 1443}
+, 
+{"Scarlet_Wire", 1, 1995}
+, 
+{"Scarlet_Katar", 1, 28007}
+, 
+{"Scarlet_Twohand_Sword", 1, 21015}
+, 
+{"Scarlet_Twohand_Axe", 1, 28106}
+, 
+{"Scarlet_Huuma", 1, 13327}
+}
+, NeedSource_String = "+12 Arma Rubi"}
+, 
+["4Lv_10Refine_Weapon_9Gu"] = {ItemID = 100386, NeedCount = 1, NeedRefineMin = 10, NeedRefineMax = 10, 
+SourceItems = {
+{"Thanos_Sword", 1, 13441}
+, 
+{"Thanos_Knuckle", 1, 1836}
+, 
+{"Thanos_Dagger", 1, 13093}
+, 
+{"Thanos_Great_Sword", 1, 21009}
+, 
+{"Thanos_Axe", 1, 28100}
+, 
+{"Thanos_Hammer", 1, 16028}
+, 
+{"Thanos_Violin", 1, 1933}
+, 
+{"Thanos_Rod", 1, 2023}
+, 
+{"Thanos_Long_Spear", 1, 1496}
+, 
+{"Thanos_Whip", 1, 1988}
+, 
+{"Thanos_Staff", 1, 1669}
+, 
+{"Thanos_Spear", 1, 1438}
+, 
+{"Thanos_Katar", 1, 28000}
+, 
+{"Thanos_Bow", 1, 18119}
+, 
+{"Sinister_Dagger", 1, 28706}
+, 
+{"Sinister_Lance", 1, 1450}
+, 
+{"Sinister_Rod", 1, 1600}
+, 
+{"Sinister_Revolver", 1, 13128}
+, 
+{"Sinister_Mace", 1, 16041}
+, 
+{"Sinister_Viollin", 1, 1900}
+, 
+{"Sinister_Bow", 1, 18121}
+, 
+{"Sinister_Book", 1, 28605}
+, 
+{"Sinister_Saber", 1, 13455}
+, 
+{"Sinister_Staff", 1, 2026}
+, 
+{"Sinister_Spear", 1, 1400}
+, 
+{"Sinister_Wire", 1, 1996}
+, 
+{"Sinister_Katar", 1, 28008}
+, 
+{"Sinister_Twohand_Sword", 1, 21016}
+, 
+{"Sinister_Twohand_Axe", 1, 28107}
+, 
+{"Sinister_Huuma", 1, 13328}
+, 
+{"Sinister_Fist", 1, 1800}
+}
+, NeedSource_String = "+10 Arma Sobrenatural ou das Cinza"}
+, 
+["4Lv_11Refine_Weapon_10G"] = {ItemID = 100387, NeedCount = 1, NeedRefineMin = 11, NeedRefineMax = 11, 
+SourceItems = {
+{"Thanos_Sword", 1, 13441}
+, 
+{"Thanos_Knuckle", 1, 1836}
+, 
+{"Thanos_Dagger", 1, 13093}
+, 
+{"Thanos_Great_Sword", 1, 21009}
+, 
+{"Thanos_Axe", 1, 28100}
+, 
+{"Thanos_Hammer", 1, 16028}
+, 
+{"Thanos_Violin", 1, 1933}
+, 
+{"Thanos_Rod", 1, 2023}
+, 
+{"Thanos_Long_Spear", 1, 1496}
+, 
+{"Thanos_Whip", 1, 1988}
+, 
+{"Thanos_Staff", 1, 1669}
+, 
+{"Thanos_Spear", 1, 1438}
+, 
+{"Thanos_Katar", 1, 28000}
+, 
+{"Thanos_Bow", 1, 18119}
+, 
+{"Sinister_Dagger", 1, 28706}
+, 
+{"Sinister_Lance", 1, 1450}
+, 
+{"Sinister_Rod", 1, 1600}
+, 
+{"Sinister_Revolver", 1, 13128}
+, 
+{"Sinister_Mace", 1, 16041}
+, 
+{"Sinister_Viollin", 1, 1900}
+, 
+{"Sinister_Bow", 1, 18121}
+, 
+{"Sinister_Book", 1, 28605}
+, 
+{"Sinister_Saber", 1, 13455}
+, 
+{"Sinister_Staff", 1, 2026}
+, 
+{"Sinister_Spear", 1, 1400}
+, 
+{"Sinister_Wire", 1, 1996}
+, 
+{"Sinister_Katar", 1, 28008}
+, 
+{"Sinister_Twohand_Sword", 1, 21016}
+, 
+{"Sinister_Twohand_Axe", 1, 28107}
+, 
+{"Sinister_Huuma", 1, 13328}
+, 
+{"Sinister_Fist", 1, 1800}
+}
+, NeedSource_String = "+11 Arma Sobrenatural ou das Cinza"}
+, 
+JobShadow_Mix_Shoes = {ItemID = 23238, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Knight_Shoes", 1, 24256}
+, 
+{"S_Crusader_Shoes", 1, 24257}
+, 
+{"S_Blacksmith_Shoes", 1, 24258}
+, 
+{"S_Alchemist_Shoes", 1, 24259}
+, 
+{"S_Priest_Shoes", 1, 24260}
+, 
+{"S_Monk_Shoes", 1, 24261}
+, 
+{"S_Assassin_Shoes", 1, 24262}
+, 
+{"S_Rogue_Shoes", 1, 24263}
+, 
+{"S_Wizard_Shoes", 1, 24264}
+, 
+{"S_Sage_Shoes", 1, 24265}
+, 
+{"S_Hunter_Shoes", 1, 24266}
+, 
+{"S_Bard_Shoes", 1, 24267}
+, 
+{"S_Dancer_Shoes", 1, 24268}
+, 
+{"S_Rebellion_Shoes", 1, 24405}
+, 
+{"S_Kagerou_Shoes", 1, 24406}
+, 
+{"S_Oboro_Shoes", 1, 24407}
+, 
+{"S_DoramPhysical_Shoes", 1, 24409}
+, 
+{"S_DoramMagical_Shoes", 1, 24411}
+, 
+{"S_Star_Emperor_Shoes", 1, 24413}
+, 
+{"S_Soul_Reaper_Shoes", 1, 24415}
+}
+, NeedSource_String = "+7 Greva S. de Classe"}
+, 
+JobShadow_Mix_Shield = {ItemID = 23239, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Runeknight_Shield", 1, 24301}
+, 
+{"S_Royalguard_Shield", 1, 24302}
+, 
+{"S_Mechanic_Shield", 1, 24303}
+, 
+{"S_Genetic_Shield", 1, 24304}
+, 
+{"S_Archbishop_Shield", 1, 24305}
+, 
+{"S_Sura_Shield", 1, 24306}
+, 
+{"S_Guillotine_Shield", 1, 24307}
+, 
+{"S_Shadowchaser_Shield", 1, 24308}
+, 
+{"S_Warlock_Shield", 1, 24309}
+, 
+{"S_Sorcerer_Shield", 1, 24310}
+, 
+{"S_Ranger_Shield", 1, 24311}
+, 
+{"S_Minstrel_Shield", 1, 24312}
+, 
+{"S_Wanderer_Shield", 1, 24313}
+, 
+{"S_Ninja_Shield", 1, 24314}
+, 
+{"S_Taekwon_Shield", 1, 24315}
+, 
+{"S_DoramPhysical_Shield", 1, 24316}
+, 
+{"S_DoramMagical_Shield", 1, 24317}
+, 
+{"S_SuperNovice_Shield", 1, 24318}
+, 
+{"S_Gunslinger_Shield", 1, 24319}
+}
+, NeedSource_String = "+7 Escudo S. de Classe"}
+, 
+JobShadow_Mix_Earing = {ItemID = 23241, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Swordman_earring", 1, 24246}
+, 
+{"S_Merchant_earring", 1, 24247}
+, 
+{"S_Acolyte_earring", 1, 24248}
+, 
+{"S_Magician_earring", 1, 24249}
+, 
+{"S_Thief_earring", 1, 28391}
+, 
+{"S_Archer_earring", 1, 28392}
+}
+, NeedSource_String = "+7 Brinco S. de Classe"}
+, 
+JobShadow_Mix_Armor = {ItemID = 23237, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Knight_Armor", 1, 24269}
+, 
+{"S_Crusader_Armor", 1, 24270}
+, 
+{"S_Blacksmith_Armor", 1, 24271}
+, 
+{"S_Alchemist_Armor", 1, 24272}
+, 
+{"S_Priest_Armor", 1, 24273}
+, 
+{"S_Monk_Armor", 1, 24274}
+, 
+{"S_Assassin_Armor", 1, 24275}
+, 
+{"S_Rogue_Armor", 1, 24276}
+, 
+{"S_Wizard_Armor", 1, 24277}
+, 
+{"S_Sage_Armor", 1, 24278}
+, 
+{"S_Hunter_Armor", 1, 24279}
+, 
+{"S_Bard_Armor", 1, 24280}
+, 
+{"S_Dancer_Armor", 1, 24281}
+, 
+{"S_Rebellion_Armor", 1, 24402}
+, 
+{"S_Kagerou_Armor", 1, 24403}
+, 
+{"S_Oboro_Armor", 1, 24404}
+, 
+{"S_DoramPhysical_Armor", 1, 24408}
+, 
+{"S_DoramMagical_Armor", 1, 24410}
+, 
+{"S_Star_Emperor_Armor", 1, 24412}
+, 
+{"S_Soul_Reaper_Armor", 1, 24414}
+}
+, NeedSource_String = "+7 Malha S. de Classe"}
+, 
+JobShadow_Mix_Pendant = {ItemID = 23240, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Swordman_Pendant", 1, 24250}
+, 
+{"S_Merchant_Pendant", 1, 24251}
+, 
+{"S_Acolyte_Pendant", 1, 24252}
+, 
+{"S_Thief_Pendant", 1, 24253}
+, 
+{"S_Magician_Pendant", 1, 24254}
+, 
+{"S_Archer_Pendant", 1, 24255}
+}
+, NeedSource_String = "+7 Colar S. de Classe"}
+, 
+JobShadow_Mix_Weapon = {ItemID = 23236, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_SuperNovice_Weapon", 1, 24282}
+, 
+{"S_Gunslinger_Weapon", 1, 24283}
+, 
+{"S_Taekwon_Weapon", 1, 24284}
+, 
+{"S_Ninja_Weapon", 1, 24285}
+, 
+{"S_DoramMagical_Weapon", 1, 24286}
+, 
+{"S_DoramPhysical_Weapon", 1, 24287}
+, 
+{"S_Runeknight_Weapon", 1, 24288}
+, 
+{"S_Royalguard_Weapon", 1, 24289}
+, 
+{"S_Mechanic_weapon", 1, 24290}
+, 
+{"S_Genetic_Weapon", 1, 24291}
+, 
+{"S_Archbishop_Weapon", 1, 24292}
+, 
+{"S_Sura_weapon", 1, 24293}
+, 
+{"S_Guillotine_Weapon", 1, 24294}
+, 
+{"S_Shadowchaser_Weapon", 1, 24295}
+, 
+{"S_Warlock_Weapon", 1, 24296}
+, 
+{"S_Sorcerer_Weapon", 1, 24297}
+, 
+{"S_Ranger_Weapon", 1, 24298}
+, 
+{"S_Minstrel_Weapon", 1, 24299}
+, 
+{"S_Wanderer_Weapon", 1, 24300}
+}
+, NeedSource_String = "+7 Arma S. de Classe"}
+, 
+Blade_Katar_Cube = {ItemID = 100277, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blade_Katar", 1, 610003}
+}
+, NeedSource_String = "Jur Ancestral"}
+, 
+Humma_Clear_Cube = {ItemID = 100401, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Humma_Clear", 1, 13345}
+}
+, NeedSource_String = "Shuriken Huuma Ancestral"}
+, 
+Trumpet_Shell_K_Cube = {ItemID = 100330, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Trumpet_Shell_K", 1, 570002}
+}
+, NeedSource_String = "Concha Musical"}
+, 
+Barb_Wire_K_Cube = {ItemID = 100331, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Barb_Wire_K", 1, 580002}
+}
+, NeedSource_String = "Concertina Ancestral"}
+, 
+MeawFoxtail_Cube = {ItemID = 100399, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"MeawFoxtail", 1, 26155}
+}
+, NeedSource_String = "Cauda de Gato Ancestral"}
+, 
+Sword_Of_Bluefire_Cube = {ItemID = 100327, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Sword_Of_Bluefire", 1, 13485}
+}
+, NeedSource_String = "Sabre Ancestral"}
+, 
+Avenger_Cube = {ItemID = 100360, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Avenger", 1, 28130}
+}
+, NeedSource_String = "Cutelo Ancestral"}
+, 
+Undine_Spear_K_Cube = {ItemID = 100393, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Undine_Spear_K", 1, 32018}
+}
+, NeedSource_String = "Lança Ancestral"}
+, 
+Illusion_Module_Mix = {ItemID = 100601, NeedCount = 5, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"EP17_1_EVT03", 1, 25670}
+, 
+{"EP17_1_EVT04", 1, 25671}
+, 
+{"EP17_1_EVT05", 1, 25672}
+, 
+{"EP17_1_EVT06", 1, 25673}
+, 
+{"EP17_1_EVT07", 1, 25674}
+, 
+{"EP17_1_EVT08", 1, 25675}
+, 
+{"EP17_1_EVT09", 1, 25676}
+, 
+{"EP17_1_EVT10", 1, 25677}
+, 
+{"EP17_1_EVT11", 1, 25678}
+, 
+{"EP17_1_EVT12", 1, 25679}
+, 
+{"EP17_1_EVT13", 1, 25680}
+, 
+{"EP17_1_EVT14", 1, 25681}
+, 
+{"EP17_1_EVT15", 1, 25682}
+, 
+{"EP17_1_EVT16", 1, 25683}
+, 
+{"EP17_1_EVT17", 1, 25684}
+, 
+{"EP17_1_EVT18", 1, 25685}
+, 
+{"EP17_1_EVT19", 1, 25686}
+, 
+{"EP17_1_EVT20", 1, 25687}
+, 
+{"EP17_1_EVT21", 1, 25688}
+, 
+{"EP17_1_EVT22", 1, 25689}
+, 
+{"EP17_1_EVT23", 1, 25690}
+, 
+{"EP17_1_EVT24", 1, 25691}
+, 
+{"EP17_1_EVT25", 1, 25692}
+, 
+{"EP17_1_EVT26", 1, 25693}
+, 
+{"EP17_1_EVT27", 1, 25694}
+, 
+{"EP17_1_EVT28", 1, 25695}
+, 
+{"EP17_1_EVT29", 1, 25696}
+, 
+{"EP17_1_EVT30", 1, 25697}
+, 
+{"EP17_1_EVT31", 1, 25698}
+, 
+{"EP17_1_EVT32", 1, 25699}
+, 
+{"EP17_1_EVT33", 1, 25700}
+, 
+{"EP17_1_EVT34", 1, 25701}
+, 
+{"EP17_1_EVT35", 1, 25702}
+, 
+{"EP17_1_EVT36", 1, 25703}
+, 
+{"EP17_1_EVT37", 1, 25704}
+, 
+{"EP17_1_EVT38", 1, 25705}
+}
+, NeedSource_String = "Modulo"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

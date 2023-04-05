@@ -5557,15 +5557,15 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"Comemoração", COLOR_TITLE_BUFF}
+{"Ramo de Flores", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"Aumenta ESQV, E. perfeita"}
+{"Bônus de ESQV e E. Perfeita"}
 , 
-{"e velocidade de ataque."}
+{"Reduz a conjuração variável"}
 , 
-{"Reduz conjuração variável."}
+{"Velocidade de ataque maior"}
 }
 }
 -- DECOMPILER ERROR at PC11516: Confused about usage of register: R0 in 'UnsetPending'
@@ -5928,6 +5928,41 @@ descript = {
 {"%s", COLOR_TIME}
 , 
 {"Pós-conjuração -15%"}
+}
+}
+-- DECOMPILER ERROR at PC12240: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF3] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Raminho de Flores", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"HP e SP máx. +3%."}
+}
+}
+-- DECOMPILER ERROR at PC12267: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Bolinho de Cerejeira", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Dano físico e mágico contra"}
+, 
+{"todos os Tamanhos +5%."}
+}
+}
+-- DECOMPILER ERROR at PC12291: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_M_DEFSCROLL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Escrituras", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de DEF e DEFM"}
 }
 }
 

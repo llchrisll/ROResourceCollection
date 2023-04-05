@@ -5097,6 +5097,10 @@ MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_REFLECTBODY}
 [20381] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 }
+, 
+[21384] = {MonsterSize = 1.9, 
+MonsterEff = {EFFECT.EF_NONE}
+}
 }
 main = function()
   -- function num : 0_0

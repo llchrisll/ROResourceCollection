@@ -15565,9 +15565,9 @@ Description = {"Hunt the Orange Dimik monsters at the Center of Juperos and retu
 Description = {"Cace 400 Margarethas Sorin. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
-[60522] = {Title = "Seyren-Windsor Hunting", 
-Description = {"Hunt the Seyren-Windsor monsters at Somatology Laboratory 3 and return to Gramps at the Eden Group to get your reward."}
-, Summary = "Hunt 400 Seyren-Windsor monsters."}
+[60522] = {Title = "Caça ao Seyren Windsor", 
+Description = {"Cace 400 Seyren Windsor. Após isso, converse com Mateus Além para resgatar sua recompensa."}
+, Summary = ""}
 , 
 [60523] = {Title = "Caça \224 Kathryne Keyron", 
 Description = {"Cace 400 Kathryne Keyron. Após isso, converse com Mateus Além para resgatar sua recompensa."}
@@ -15657,11 +15657,11 @@ Description = {"Passando por Ajustes"}
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[60545] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60546] = {Title = "Caça ao Kasa", 
+Description = {"Cace 400 Kasas. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
-[60546] = {Title = "Passando por Ajustes", 
+[60545] = {Title = "Passando por Ajustes", 
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
@@ -15817,8 +15817,8 @@ Description = {"Cace 400 Aranhas Pom. Após isso, converse com Mateus Além para r
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[60585] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60585] = {Title = "Caça aos Cornus", 
+Description = {"Cace 400 Cornus. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60586] = {Title = "Caça o Plagiador", 
@@ -15897,8 +15897,8 @@ Description = {"Passando por Ajustes"}
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[60605] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60605] = {Title = "Caça a Senhora do Conforto", 
+Description = {"Cace 400 Senhoras do Conforto. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60606] = {Title = "Contador de Tempo 5", 
@@ -18014,162 +18014,362 @@ Description = {"Voc\234 completou essa missão por hoje, volte no dia seguinte pa
 , Summary = "Volte amanh\227"}
 , 
 [1017] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Batalha dos Orcs, elimine 1 Orc Falso."}
-, Summary = "Batalha dos Orcs"}
+Description = {"Na <NAVI>[Batalha dos Orcs]<INFO>gef_fild10,231,203,000,0</INFO></NAVI>, elimine 1 Orc Falso."}
+, Summary = "Batalha dos Orcs", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "200.000", RewardJEXP = "200.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
 [1018] = {Title = "[Espera] Batalha dos Orcs", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1019] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Torneio de Magia, elimine 1 Muliphen."}
-, Summary = "Torneio de Magia"}
+Description = {"No <NAVI>[Torneio de Magia]<INFO>dali,98,141,000,0</INFO></NAVI>, elimine 1 Muliphen."}
+, Summary = "Torneio de Magia", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "200.000", RewardJEXP = "200.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
 [1020] = {Title = "[Espera] Torneio de Magia", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1021] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Nas Memórias de Sara, elimine 1 Lorde Irine."}
-, Summary = "Memórias de Sara"}
+Description = {"Nas <NAVI>[Memórias de Sara]<INFO>dali,130,107,000,0</INFO></NAVI>, elimine 1 Lorde Irine."}
+, Summary = "Memórias de Sara", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "200.000", RewardJEXP = "200.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
 [1022] = {Title = "[Espera] Memórias de Sara", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1023] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Palácio das Mágoas, elimine 1 Angústia Torturante."}
-, Summary = "Palácio das Mágoas"}
+Description = {"No <NAVI>[Palácio das Mágoas]<INFO>dali02,43,129,000,0</INFO></NAVI>, elimine 1 Angústia Torturante."}
+, Summary = "Palácio das Mágoas", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "600.000", RewardJEXP = "600.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
 [1024] = {Title = "[Espera] Palácio das Mágoas", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1025] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Salão de Ymir, elimine 1 Bijou."}
-, Summary = "Salão de Ymir"}
+Description = {"No <NAVI>[Salão de Ymir]<INFO>prt_cas_q,12,83,000,0</INFO></NAVI>, elimine 1 Bijou."}
+, Summary = "Salão de Ymir", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
 [1026] = {Title = "[Espera] Salão de Ymir", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1027] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Hospital Abandonado, elimine 1 Bangungot."}
-, Summary = "Hospital Abandonado"}
+Description = {"No <NAVI>[Hospital Abandonado]<INFO>ma_dun01,147,10,000,0</INFO></NAVI>, elimine 1 Bangungot."}
+, Summary = "Hospital Abandonado", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 7}
+}
+}
 , 
 [1028] = {Title = "[Espera] Hospital Abandonado", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1029] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Charleston em Crise, elimine 1 Charleston 03."}
-, Summary = "Charleston em Crise"}
+Description = {"No <NAVI>[Charleston em Crise]<INFO>verus04,75,114,000,0</INFO></NAVI>, elimine 1 Charleston 03."}
+, Summary = "Charleston em Crise", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 10}
+}
+}
 , 
 [1030] = {Title = "[Espera] Charleston em Crise", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1031] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Fábrica do Terror, elimine 1 Antonio."}
-, Summary = "Fábrica do Terror"}
+Description = {"Na <NAVI>[Fábrica do Terror]<INFO>xmas,237,303,000,0</INFO></NAVI>, elimine 1 Antonio."}
+, Summary = "Fábrica do Terror", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
 [1032] = {Title = "[Espera] Fábrica do Terror", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1033] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Pesadelo Musical, elimine 1 Réquiem de Marfim."}
-, Summary = "Pesadelo Musical"}
+Description = {"No <NAVI>[Pesadelo Musical]<INFO>moc_para01,26,96,000,0</INFO></NAVI>, elimine 1 Réquiem de Marfim."}
+, Summary = "Pesadelo Musical", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 10}
+}
+}
 , 
 [1034] = {Title = "[Espera] Pesadelo Musical", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1035] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Covil de Vermes, elimine 4 Vermes Sombrios com Rosto."}
-, Summary = "Covil de Vermes"}
+Description = {"No <NAVI>[Covil de Vermes]<INFO>dali,80,60,000,0</INFO></NAVI>, elimine 4 Vermes Sombrios com Rosto."}
+, Summary = "Covil de Vermes", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "600.000", RewardJEXP = "600.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
 [1036] = {Title = "[Espera] Covil de Vermes", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1037] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Sala Final, elimine 1 T_W_O."}
-, Summary = "Sala Final"}
+Description = {"Na <NAVI>[Sala Final]<INFO>verus01,123,181,000,0</INFO></NAVI>, elimine 1 T_W_O."}
+, Summary = "Sala Final", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 7}
+}
+}
 , 
 [1038] = {Title = "[Espera] Sala Final", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1039] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Ninho de Nidhogg, elimine 1 Sombra do Guardião."}
-, Summary = "Ninho de Nidhogg"}
+Description = {"No <NAVI>[Ninho de Nidhogg]<INFO>nyd_dun02,98,199,000,0</INFO></NAVI>, elimine 1 Sombra do Guardião."}
+, Summary = "Ninho de Nidhogg", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 20}
+}
+}
 , 
 [1040] = {Title = "[Espera] Ninho de Nidhogg", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1041] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Lago Bakonawa, elimine 1 Tesouro de Bakonawa."}
-, Summary = "Lago de Bakonawa"}
+Description = {"No <NAVI>[Lago Bakonawa]<INFO>ma_scene01,174,179,000,0</INFO></NAVI>, elimine 1 Tesouro de Bakonawa."}
+, Summary = "Lago Bakonawa", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 7}
+}
+}
 , 
 [1042] = {Title = "[Espera] Lago Bakonawa", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1043] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Caverna de Buwaya, elimine 1 Buwaya."}
-, Summary = "Caverna de Buwaya"}
+Description = {"Na <NAVI>[Caverna de Buwaya]<INFO>malaya,290,340,000,0</INFO></NAVI>, elimine 1 Buwaya."}
+, Summary = "Caverna de Buwaya", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "200.000", RewardJEXP = "200.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
-[1044] = {Title = "[Espera] Caverna Buwaya", IconName = "ico_dq.bmp", 
+[1044] = {Title = "[Espera] Caverna de Buwaya", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1045] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Glast Heim Sombria, elimine 1 Amdarais Sombrio."}
-, Summary = "Glast Heim Sombria"}
+Description = {"Na <NAVI>[Glast Heim Sombria]<INFO>glast_01,179,282,000,0</INFO></NAVI>, elimine 1 Amdarais Sombrio."}
+, Summary = "Glast Heim Sombria", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "1.000.000", RewardJEXP = "1.000.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 20}
+}
+}
 , 
 [1046] = {Title = "[Espera] Glast Heim Sombria", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1047] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Sara vs Fenrir, elimine 6 Gigantes Ancestrais."}
-, Summary = "Sara vs Fenrir"}
+Description = {"Na <NAVI>[Sara vs Fenrir]<INFO>dali02,97,142,000,0</INFO></NAVI>, elimine 6 Gigantes Ancestrais."}
+, Summary = "Sara vs Fenrir", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 25}
+}
+}
 , 
 [1048] = {Title = "[Espera] Sara vs Fenrir", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1049] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Torre do Demônio, elimine os 3 tipos de Sombras das Trevas."}
-, Summary = "Torre do Demônio"}
+Description = {"Na <NAVI>[Torre do Demônio]<INFO>dali02,134,119,000,0</INFO></NAVI>, elimine 3 tipos de Sombras das Trevas."}
+, Summary = "Torre do Demônio", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "400.000", RewardJEXP = "400.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
 , 
 [1050] = {Title = "[Espera] Torre do Demônio", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1051] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"Na Ilha Bios, elimine 1 Ceifador Ankou."}
-, Summary = "Ilha Bios"}
+Description = {"Na <NAVI>[Ilha Bios]<INFO>moro_cav,45,60,000,0</INFO></NAVI>, elimine 1 Ceifador Ankou."}
+, Summary = "Ilha Bios", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "600.000", RewardJEXP = "600.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 10}
+}
+}
 , 
 [1052] = {Title = "[Espera] Ilha Bios", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1053] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Templo do Demônio Rei, elimine 1 Deus Morroc."}
-, Summary = "Templo do Demônio Rei"}
+Description = {"No <NAVI>[Templo do Demônio Rei]<INFO>moro_vol,108,88,000,0</INFO></NAVI>, elimine 1 Deus Morroc."}
+, Summary = "Templo do Demônio Rei", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "1.000.000", RewardJEXP = "1.000.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 15}
+}
+}
 , 
 [1054] = {Title = "[Espera] Templo do Demônio Rei", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
 [1055] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
-Description = {"No Laboratório Werner, elimine 1 Fofinho."}
-, Summary = "Laboratório Werner"}
+Description = {"No <NAVI>[Laboratório Werner]<INFO>ein_fild04,284,332,000,0</INFO></NAVI>, elimine 1 Fofinho."}
+, Summary = "Laboratório Werner", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "300.000", RewardJEXP = "300.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 10}
+}
+}
 , 
 [1056] = {Title = "[Espera] Laboratório Werner", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1057] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Vila dos Porings]<INFO>izlude,46,103,000,0</INFO></NAVI>, elimine 1 Rei Poring."}
+, Summary = "Vila dos Porings", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "50.000", RewardJEXP = "50.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
+, 
+[1058] = {Title = "[Espera] Vila dos Porings", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1059] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna do Polvo]<INFO>mal_dun01,151,235,000,0</INFO></NAVI>, elimine 1 Polvo Gigante."}
+, Summary = "Caverna do Polvo", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "100.000", RewardJEXP = "100.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
+, 
+[1060] = {Title = "[Espera] Caverna do Polvo", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1061] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Quarto Crescente]<INFO>rachel,175,138,000,0</INFO></NAVI>, elimine 1 Espectro de Ktullanux."}
+, Summary = "Quarto Crescente", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "1.000.000", RewardJEXP = "1.000.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 7}
+}
+}
+, 
+[1062] = {Title = "[Espera] Quarto Crescente", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1063] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Missão OS]<INFO>sp_cor,160,55,000,0</INFO></NAVI>, elimine 1 Miguel."}
+, Summary = "Missão OS", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 7}
+}
+}
+, 
+[1064] = {Title = "[Espera] Missão OS", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1065] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Maldição de Glast Heim]<INFO>glast_01,204,273,000,0</INFO></NAVI>, elimine 1 Origem da Maldição e 1 Amdarais."}
+, Summary = "Maldição de Glast Heim", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 10}
+}
+}
+, 
+[1066] = {Title = "[Espera] Maldição de Glast Heim", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1067] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Base Militar]<INFO>ein_fild04,281,333,000,0</INFO></NAVI>, elimine 1 Malícia."}
+, Summary = "Base Militar", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "600.000", RewardJEXP = "600.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
+, 
+[1068] = {Title = "[Espera] Base Militar", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1069] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Laboratório de Wolfchev]<INFO>lhz_dun04,151,276,000,0</INFO></NAVI>, elimine as Cobaias Famintas."}
+, Summary = "Laboratório de Wolfchev", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "600.000", RewardJEXP = "600.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 10}
+}
+}
+, 
+[1070] = {Title = "[Espera] Laboratório de Wolfchev", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1071] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Memorial COR]<INFO>sp_cor,113,130,000,0</INFO></NAVI>, elimine 1 EL-A17T."}
+, Summary = "Memorial COR", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "600.000", RewardJEXP = "600.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 7}
+}
+}
+, 
+[1072] = {Title = "[Espera] Memorial COR", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1073] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Sussurro Sombrio]<INFO>dali02,121,63,000,0</INFO></NAVI>, elimine os Demônios de cada tipo."}
+, Summary = "Sussurro Sombrio", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "400.000", RewardJEXP = "400.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 5}
+}
+}
+, 
+[1074] = {Title = "[Espera] Sussurro Sombrio", IconName = "ico_dq.bmp", 
+Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
+, Summary = "Volte amanh\227", CoolTimeQuest = 1}
+, 
+[1075] = {Title = "Ordem dos Exploradores", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Mors]<INFO>moro_cav,61,69,000,0</INFO></NAVI>, elimine 1 Necromante de Morroc."}
+, Summary = "Caverna de Mors", NpcSpr = "4_BOARD3", NpcNavi = "alberta", NpcPosX = 116, NpcPosY = 71, RewardEXP = "800.000", RewardJEXP = "800.000", 
+RewardItemList = {
+{ItemID = 25737, ItemNum = 10}
+}
+}
+, 
+[1076] = {Title = "[Espera] Caverna de Mors", IconName = "ico_dq.bmp", 
 Description = {"Aguarde o período de descanso para retornar ao prédio da Ordem!"}
 , Summary = "Volte amanh\227", CoolTimeQuest = 1}
 , 
@@ -19034,7 +19234,7 @@ Description = {"Vamos fertilizar os <NAVI>[Feijões]<INFO>sp_cor,163,135,0,101,0<
 , Summary = "Fertilize os Feijões"}
 , 
 [16372] = {Title = "Agricultura - Feijão", IconName = "ico_dq.bmp", 
-Description = {"Vamos remover as ervas daninhas das <NAVI>[Green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>."}
+Description = {"Vamos remover as ervas daninhas das <NAVI>[Feijões]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>."}
 , Summary = "Remova Ervas Daninhas"}
 , 
 [16373] = {Title = "Agricultura - Abóbora", IconName = "ico_dq.bmp", 
@@ -19214,5 +19414,149 @@ Description = {"Vejo voc\234 depois do amanhecer. Voc\234 realmente trabalhou du
 [17037] = {Title = "Esperar: substituir propriedade", IconName = "ico_ev.bmp", 
 Description = {"Uma vez por dia, voc\234 pode trocar os atributos concedidos ao manto do Guardião do Tempo gratuitamente. <NAVI>[Atribuidor de atributo]<INFO>prontera,154,279,0,101,0,</INFO></NAVI>"}
 , Summary = "Inicializar em 04"}
+, 
+[3335] = {Title = "Criar um chapéu flor de cerejeira não \233 fácil", 
+Description = {"<NAVI>[Arles]<INFO>prontera,167,291,0,101,0</INFO></NAVI> pediu que voc\234 trouxesse os materiais necessários para fazer a fantasia. Traga 10 Raminhos de Flores Pequenas e 5 Ervas Amarelas."}
+, Summary = "Entregar materiais para Arles"}
+, 
+[8500] = {Title = "Spring Flower Festival", 
+Description = {""}
+, Summary = ""}
+, 
+[15110] = {Title = "Ilusão do Gelo", 
+Description = {"Procure, entre as Pilhas de Terra Seca, 10 Galhos Mortos."}
+, Summary = "10 Galhos Mortos"}
+, 
+[15111] = {Title = "Ilusão do Gelo", 
+Description = {"Elimine 10 Titãs de Cristal \224 pedido de Vrid e Zeith."}
+, Summary = "Elimine o monstro"}
+, 
+[15112] = {Title = "Ilusão do Gelo", 
+Description = {"Optamos por simplesmente bater no gelo em que Vrid e Zeith estão."}
+, Summary = "Quebre o gelo no soco"}
+, 
+[15113] = {Title = "Ilusão do Gelo", 
+Description = {"Optamos por simplesmente bater no gelo em que Vrid e Zeith estão."}
+, Summary = "Quebre o gelo no soco"}
+, 
+[15115] = {Title = "Ilusão do Gelo", 
+Description = {"Voc\234 pode repetir essa missão no dia seguinte."}
+, Summary = "Volte amanh\227."}
+, 
+[15116] = {Title = "Ilusão do Gelo", 
+Description = {""}
+, Summary = ""}
+, 
+[15117] = {Title = "Ilusão do Gelo", 
+Description = {"Elimine 10 Gazetis de Cristal \224 pedido de Vrid e Zeith."}
+, Summary = "Elimine o monstro"}
+, 
+[15118] = {Title = "Ilusão do Gelo", 
+Description = {"Elimine 10 Yetis de Cristal \224 pedido de Vrid e Zeith."}
+, Summary = "Elimine o monstro"}
+, 
+[15119] = {Title = "Ilusão do Gelo", 
+Description = {"Elimine 10 Cristais de Gelo \224 pedido de Vrid e Zeith."}
+, Summary = "Elimine o monstro"}
+, 
+[62832] = {Title = "Caça ao Espírito do Vento", 
+Description = {"Cace 400 Espírito do Vento. Após isso, converse com Mateus Além para resgatar sua recompensa."}
+, Summary = ""}
+, 
+[3312] = {Title = "Chocomania", IconName = "ico_ev.bmp", 
+Description = {"A <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI> pediu que voc\234 elimine ^4d4dffQuinding^000000."}
+, Summary = "Caçar Quinding"}
+, 
+[3313] = {Title = "Grãos de Cacau Roubados", IconName = "ico_ev.bmp", 
+Description = {"A <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI> quer 20 ^4d4dffGrãos de Cacau Roubados^000000 dos ^4d4dffQuinding^000000."}
+, Summary = "20 Grãos Roubados"}
+, 
+[3314] = {Title = "Chocomania", IconName = "ico_ev.bmp", 
+Description = {"V\225 at\233 <NAVI>[Dona Mimi]<INFO>prontera,113,103,0,101,0</INFO></NAVI> e entregue o ^4d4dffChocolate em Barra^000000."}
+, Summary = "Para Dona Mimi"}
+, 
+[3315] = {Title = "Chocomania", IconName = "ico_ev.bmp", 
+Description = {"V\225 at\233 <NAVI>[Tio Ed]<INFO>geffen,59,165,0,101,0</INFO></NAVI> e entregue o ^4d4dffChocolate em Barra^000000."}
+, Summary = "Para Tio Ed"}
+, 
+[3316] = {Title = "Chocomania", IconName = "ico_ev.bmp", 
+Description = {"V\225 at\233 <NAVI>[Allen]<INFO>payon,160,126,0,101,0</INFO></NAVI> e entregue o ^4d4dffChocolate em Barra^000000."}
+, Summary = "Para Allen"}
+, 
+[3317] = {Title = "Chocomania", IconName = "ico_ev.bmp", 
+Description = {"V\225 at\233 <NAVI>[Seu Hans]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI> e entregue o ^4d4dffChocolate em Barra^000000."}
+, Summary = "Para Seu Hans"}
+, 
+[3318] = {Title = "Chocomania", IconName = "ico_ev.bmp", 
+Description = {"Eu entreguei todos os Chocolates em Barra, vamos voltar \224 <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Chocolai"}
+, 
+[3319] = {Title = "Choco: Radigunda", IconName = "ico_ev.bmp", 
+Description = {"Fale com <NAVI>[Radigunda]<INFO>prontera,210,321,0,101,0</INFO></NAVI> e entregue o Crepe."}
+, Summary = "Para Radigunda"}
+, 
+[3320] = {Title = "Choco: Acheropita", IconName = "ico_ev.bmp", 
+Description = {"Fale com <NAVI>[Acheropita]<INFO>prontera,103,308,0,101,0</INFO></NAVI> e entregue o Cupcake."}
+, Summary = "Para Acheropita"}
+, 
+[3321] = {Title = "Choco: Clarisbadeu", IconName = "ico_ev.bmp", 
+Description = {"Fale com <NAVI>[Clarisbadeu]<INFO>prontera,100,183,0,101,0</INFO></NAVI> e entregue o Parfait."}
+, Summary = "Para Clarisbadeu"}
+, 
+[3322] = {Title = "Choco: Holofontinho", IconName = "ico_ev.bmp", 
+Description = {"Fale com <NAVI>[Holofontinho]<INFO>prontera,271,339,0,101,0</INFO></NAVI> e entregue o Macaroon."}
+, Summary = "Para Holofontinho"}
+, 
+[3323] = {Title = "Choco: Chai", IconName = "ico_ev.bmp", 
+Description = {"Fale com <NAVI>[Chai]<INFO>prontera,269,55,0,101,0</INFO></NAVI> e entregue o Bolo Mont Blanc."}
+, Summary = "Para Chai"}
+, 
+[3324] = {Title = "Chocomania", IconName = "ico_ev.bmp", 
+Description = {"Fiz todas as entregas, vamos voltar a falar com <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Para Chocolai"}
+, 
+[3325] = {Title = "Entrega de Doces", IconName = "ico_ev.bmp", 
+Description = {"Entregue os doces para <NAVI>[Radigunda]<INFO>prontera,210,321,0,101,0</INFO></NAVI>, <NAVI>[Acheropita]<INFO>prontera,103,308,0,101,0</INFO></NAVI>, <NAVI>[Clarisbadeu]<INFO>prontera,100,183,0,101,0</INFO></NAVI>, <NAVI>[Holofontinho]<INFO>prontera,271,339,0,101,0</INFO></NAVI> e <NAVI>[Chai]<INFO>prontera,269,55,0,101,0</INFO></NAVI> em Prontera."}
+, Summary = "Faça a entrega"}
+, 
+[3326] = {Title = "Radigunda", IconName = "ico_ev.bmp", 
+Description = {"Radigunda est\225 feliz. Se entregar todos os doces, fale com <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Radigunda est\225 feliz"}
+, 
+[3327] = {Title = "Acheropita", IconName = "ico_ev.bmp", 
+Description = {"Acheropita est\225 feliz. Se entregar todos os doces, fale com <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Acheropita est\225 feliz"}
+, 
+[3328] = {Title = "Clarisbadeu", IconName = "ico_ev.bmp", 
+Description = {"Clarisbadeu est\225 feliz. Se entregar todos os doces, fale com <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Clarisbadeu est\225 feliz"}
+, 
+[3329] = {Title = "Holofontinho", IconName = "ico_ev.bmp", 
+Description = {"Holofontinho est\225 feliz. Se entregar todos os doces, fale com <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Holofontinho est\225 feliz"}
+, 
+[3330] = {Title = "Chai", IconName = "ico_ev.bmp", 
+Description = {"Chai est\225 feliz. Se entregar todos os doces, fale com <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Chai est\225 feliz"}
+, 
+[3331] = {Title = "[Espera] Entrega de Doces", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 j\225 entregou seus doces hoje. Quando a missão resetar, volte a falar com <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI> se deseja repetir."}
+, Summary = "Reseta 4 da manh\227", CoolTimeQuest = 1}
+, 
+[3332] = {Title = "Chocomania", IconName = "ico_ev.bmp", 
+Description = {"V\225 at\233 <NAVI>[Amanda]<INFO>morocc,170,75,0,101,0</INFO></NAVI> e entregue o Chocolate em Barra."}
+, Summary = "Para Amanda"}
+, 
+[3333] = {Title = "Choco: Quinding", IconName = "ico_ev.bmp", 
+Description = {"Elimine 10 Quindings e retorne \224 <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Caça ao Quinding"}
+, 
+[3334] = {Title = "[Espera] Quinding", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 j\225 entregou seus doces hoje. Quando a missão resetar, volte a falar com <NAVI>[Chocolai]<INFO>prontera,163,98,0,101,0</INFO></NAVI> se deseja repetir."}
+, Summary = "Reseta 4 da manh\227", CoolTimeQuest = 1}
+, 
+[3506] = {Title = "Caça Ao Quinding Gigante", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 viu um ^4d4dffQunding Gigante^000000 por ai ? Encontre e derrote-o , e me traga 1 ^4d4dffGrão maduro de cacau^000000."}
+, Summary = "Mate 1 Quinding Gigante"}
 }
 
