@@ -2,20 +2,39 @@
 This repository is only used to make searching for official items easier from certain servers.
 
 It contains extracted and decoded .lub files from official RO Servers.
-Pre-packed with sprite and texture files from each server can be found here:
- * [MediaFire](https://www.mediafire.com/folder/1parcvp5o9n5m/RoResourceCollection)
+A pre-packed GRF with sprite and texture files from each server can be found here below.
 
-As of 12th January 2023, I will only update the merged GRF (officials-data.grf), as it lessens the time "wasted" updating those GRF's.
+As of 11th April 2023, I took the time and revamped my way of merging GRF's (took me 2 days).
+I will only provide one GRF (official_data.grf), which contains every missing sprite/texture file based on kRO GRF:
+ * [Merged GRF](https://www.mediafire.com/file/qas1fgic28zs9qx/official_data.rar/file)
 
-Here is a merged GRF of all sprite and texture files from each server above:
- * [Merged GRF](https://www.mediafire.com/file/mc8y1swq8sgypcd/officials-data.rar/file)
+<details>
+<summary>Merged Folders</summary>
+
+* sprite   
+  * ¸ó½ºÅÍ
+  * ·Îºê
+  * ¾ÆÀÌÅÛ
+  * ¾Ç¼¼»ç¸®
+  * ¹æÆÐ
+  * ÀÎ°£Á·
+  * ÀÌÆÑÆ®
+  * npc
+
+* texture
+  * À¯ÀúÀÎÅÍÆäÀÌ½º
+    * cardbmp
+    * collection
+    * illust
+    * item
  
-Here is a basic version of the merged GRF, which only has missing sprites based on kRO's data.grf present:
- * [Basic Merged GRF](https://www.mediafire.com/file/1u63hzfmnk44deh/off_data_basic.rar/file)
+   * effect
  
-Note:
-As I'm still missing entries in the itemInfo_EN.lua file, there might still be a lot missing.
-<br />Also I was unable to add the following items, because I didn't find any sprites for it in any of my sources or there were no ```identifiedResourceName``` in the iteminfo.lua or id2numresnametable.txt file:
+</details>
+ 
+### Missing Sprite Files
+As I'm still missing entries in the itemInfo_EN.lua file, there might still be a lot missing.   
+Also I was unable to add the following items, because I didn't find any sprites for it in any of my sources or there were no ```identifiedResourceName``` in the iteminfo.lua or id2numresnametable.txt file:
 | ID  | Item Name | File Name 
 | --- | --- | --- 
 | 2361 | Blue Robe | ```파란아오자이``` 
