@@ -1,13 +1,5 @@
 
-Total Quests missing: 240
-8839
-8840
-8841
-8842
-8843
-8844
-8845
-8846
+Total Quests missing: 232
 8847
 8848
 8849
