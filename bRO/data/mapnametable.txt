@@ -1060,3 +1060,6 @@ sp_rudus3.rsw#Rudus (3)#
 
 // 일루전 얼던 (프로즌)
 ice_d03_i.rsw#Frozen Memory#
+
+// 일루전 테디베어 나사리안 제국
+ein_d02_i.rsw#Nasarian Empire#

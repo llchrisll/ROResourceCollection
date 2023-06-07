@@ -225,7 +225,87 @@ SourceItems = {
 , 
 {"S_Athletic_Shoes", 1, 24045}
 , 
+{"S_Rapid_Pendant", 1, 24047}
+, 
+{"S_Caster_Pendant", 1, 24048}
+, 
+{"S_Gemstone_Armor", 1, 24084}
+, 
+{"S_Gemstone_Shoes", 1, 24085}
+, 
+{"S_Gemstone_Shield", 1, 24086}
+, 
+{"S_Gemstone_Weapon", 1, 24087}
+, 
+{"S_Gemstone_Earring", 1, 24088}
+, 
+{"S_Gemstone_Pendent", 1, 24089}
+, 
+{"S_Stability_Shield", 1, 24090}
+, 
+{"S_Plasterer\'s_Armor", 1, 24091}
+, 
+{"S_Plasterer\'s_Shoes", 1, 24092}
+, 
+{"S_Insomniac_Armor", 1, 24093}
+, 
+{"S_Insomniac_Shoes", 1, 24094}
+, 
+{"S_Peerless_Armor", 1, 24095}
+, 
+{"S_Peerless_Shoes", 1, 24096}
+, 
+{"S_Adurate_Armor", 1, 24097}
+, 
+{"S_Adurate_Shoes", 1, 24098}
+, 
+{"Unfreez_Weapon_S", 1, 24099}
+, 
+{"Unfreeze_Earing_S", 1, 24100}
+, 
+{"Unfreeze_Pendent_S", 1, 24101}
+, 
+{"Vitality_Earing_S", 1, 24102}
+, 
+{"Vitality_Pendant_S", 1, 24103}
+, 
+{"S_Neutral_Weapon", 1, 24104}
+, 
+{"S_Neutral_Earring", 1, 24105}
+, 
+{"S_Neutral_Pendent", 1, 24106}
+, 
+{"S_Curse_Lift_Earring", 1, 24107}
+, 
+{"S_Curse_Lift_Pendent", 1, 24108}
+, 
+{"S_Caster_earring", 1, 24109}
+, 
+{"S_Caster_Weapon", 1, 24110}
+, 
+{"S_Teleport_Armor", 1, 24138}
+, 
 {"S_Teleport_Shoes", 1, 24139}
+, 
+{"S_Teleport_Shield", 1, 24140}
+, 
+{"S_Teleport_Weapon", 1, 24141}
+, 
+{"S_Teleport_Earring", 1, 24142}
+, 
+{"S_Teleport_Pendant", 1, 24143}
+, 
+{"S_Infinity_Earring", 1, 24150}
+, 
+{"S_Infinity_Pendant", 1, 24151}
+, 
+{"S_Solid_Weapon", 1, 24152}
+, 
+{"S_Solid_Earring", 1, 24153}
+, 
+{"S_Immortal_Armor", 1, 24154}
+, 
+{"S_Immortal_Pendant", 1, 24155}
 , 
 {"S_Bearers_Armor", 1, 24180}
 , 
@@ -243,6 +323,14 @@ SourceItems = {
 , 
 {"S_Hasty_Armor", 1, 24197}
 , 
+{"S_Expert_Shoes", 1, 24208}
+, 
+{"S_Expert_Shield", 1, 24209}
+, 
+{"S_Beginner_Shoes", 1, 24210}
+, 
+{"S_Beginner_Shield", 1, 24211}
+, 
 {"S_Rookie_Shoes", 1, 24212}
 , 
 {"S_Rookie_Shield", 1, 24213}
@@ -250,6 +338,168 @@ SourceItems = {
 {"S_Advanced_Shoes", 1, 24214}
 , 
 {"S_Advanced_Shield", 1, 24215}
+, 
+{"S_ColdBolt_Armor", 1, 24219}
+, 
+{"S_FireBolt_Armor", 1, 24220}
+, 
+{"S_LightingBolt_Armor", 1, 24221}
+, 
+{"S_EarthSpike_Armor", 1, 24222}
+, 
+{"S_Swordman_earring", 1, 24246}
+, 
+{"S_Merchant_earring", 1, 24247}
+, 
+{"S_Acolyte_earring", 1, 24248}
+, 
+{"S_Magician_earring", 1, 24249}
+, 
+{"S_Swordman_Pendant", 1, 24250}
+, 
+{"S_Merchant_Pendant", 1, 24251}
+, 
+{"S_Acolyte_Pendant", 1, 24252}
+, 
+{"S_Thief_Pendant", 1, 24253}
+, 
+{"S_Magician_Pendant", 1, 24254}
+, 
+{"S_Archer_Pendant", 1, 24255}
+, 
+{"S_Knight_Shoes", 1, 24256}
+, 
+{"S_Crusader_Shoes", 1, 24257}
+, 
+{"S_Blacksmith_Shoes", 1, 24258}
+, 
+{"S_Alchemist_Shoes", 1, 24259}
+, 
+{"S_Priest_Shoes", 1, 24260}
+, 
+{"S_Monk_Shoes", 1, 24261}
+, 
+{"S_Assassin_Shoes", 1, 24262}
+, 
+{"S_Rogue_Shoes", 1, 24263}
+, 
+{"S_Wizard_Shoes", 1, 24264}
+, 
+{"S_Sage_Shoes", 1, 24265}
+, 
+{"S_Hunter_Shoes", 1, 24266}
+, 
+{"S_Bard_Shoes", 1, 24267}
+, 
+{"S_Dancer_Shoes", 1, 24268}
+, 
+{"S_Knight_Armor", 1, 24269}
+, 
+{"S_Crusader_Armor", 1, 24270}
+, 
+{"S_Blacksmith_Armor", 1, 24271}
+, 
+{"S_Alchemist_Armor", 1, 24272}
+, 
+{"S_Priest_Armor", 1, 24273}
+, 
+{"S_Monk_Armor", 1, 24274}
+, 
+{"S_Assassin_Armor", 1, 24275}
+, 
+{"S_Rogue_Armor", 1, 24276}
+, 
+{"S_Wizard_Armor", 1, 24277}
+, 
+{"S_Sage_Armor", 1, 24278}
+, 
+{"S_Hunter_Armor", 1, 24279}
+, 
+{"S_Bard_Armor", 1, 24280}
+, 
+{"S_Dancer_Armor", 1, 24281}
+, 
+{"S_SuperNovice_Weapon", 1, 24282}
+, 
+{"S_Gunslinger_Weapon", 1, 24283}
+, 
+{"S_Taekwon_Weapon", 1, 24284}
+, 
+{"S_Ninja_Weapon", 1, 24285}
+, 
+{"S_DoramMagical_Weapon", 1, 24286}
+, 
+{"S_DoramPhysical_Weapon", 1, 24287}
+, 
+{"S_Runeknight_Weapon", 1, 24288}
+, 
+{"S_Royalguard_Weapon", 1, 24289}
+, 
+{"S_Mechanic_weapon", 1, 24290}
+, 
+{"S_Genetic_Weapon", 1, 24291}
+, 
+{"S_Archbishop_Weapon", 1, 24292}
+, 
+{"S_Sura_weapon", 1, 24293}
+, 
+{"S_Guillotine_Weapon", 1, 24294}
+, 
+{"S_Shadowchaser_Weapon", 1, 24295}
+, 
+{"S_Warlock_Weapon", 1, 24296}
+, 
+{"S_Sorcerer_Weapon", 1, 24297}
+, 
+{"S_Ranger_Weapon", 1, 24298}
+, 
+{"S_Minstrel_Weapon", 1, 24299}
+, 
+{"S_Wanderer_Weapon", 1, 24300}
+, 
+{"S_Runeknight_Shield", 1, 24301}
+, 
+{"S_Royalguard_Shield", 1, 24302}
+, 
+{"S_Mechanic_Shield", 1, 24303}
+, 
+{"S_Genetic_Shield", 1, 24304}
+, 
+{"S_Archbishop_Shield", 1, 24305}
+, 
+{"S_Sura_Shield", 1, 24306}
+, 
+{"S_Guillotine_Shield", 1, 24307}
+, 
+{"S_Shadowchaser_Shield", 1, 24308}
+, 
+{"S_Warlock_Shield", 1, 24309}
+, 
+{"S_Sorcerer_Shield", 1, 24310}
+, 
+{"S_Ranger_Shield", 1, 24311}
+, 
+{"S_Minstrel_Shield", 1, 24312}
+, 
+{"S_Wanderer_Shield", 1, 24313}
+, 
+{"S_Ninja_Shield", 1, 24314}
+, 
+{"S_Taekwon_Shield", 1, 24315}
+, 
+{"S_DoramPhysical_Shield", 1, 24316}
+, 
+{"S_DoramMagical_Shield", 1, 24317}
+, 
+{"S_SuperNovice_Shield", 1, 24318}
+, 
+{"S_Gunslinger_Shield", 1, 24319}
+, 
+{"S_Sigrun_Armor", 1, 24326}
+, 
+{"S_Sigrun_Shield", 1, 24327}
+, 
+{"S_MagicCompose_Armor", 1, 24334}
 , 
 {"S_AllMighty_Earring", 1, 24339}
 , 
@@ -277,6 +527,34 @@ SourceItems = {
 , 
 {"Sentimental_Pendant_S", 1, 24382}
 , 
+{"S_Rebellion_Armor", 1, 24402}
+, 
+{"S_Kagerou_Armor", 1, 24403}
+, 
+{"S_Oboro_Armor", 1, 24404}
+, 
+{"S_Rebellion_Shoes", 1, 24405}
+, 
+{"S_Kagerou_Shoes", 1, 24406}
+, 
+{"S_Oboro_Shoes", 1, 24407}
+, 
+{"S_DoramPhysical_Armor", 1, 24408}
+, 
+{"S_DoramPhysical_Shoes", 1, 24409}
+, 
+{"S_DoramMagical_Armor", 1, 24410}
+, 
+{"S_DoramMagical_Shoes", 1, 24411}
+, 
+{"S_Star_Emperor_Armor", 1, 24412}
+, 
+{"S_Star_Emperor_Shoes", 1, 24413}
+, 
+{"S_Soul_Reaper_Armor", 1, 24414}
+, 
+{"S_Soul_Reaper_Shoes", 1, 24415}
+, 
 {"S_Super_Magic_Shield", 1, 24616}
 , 
 {"S_Super_Magic_Armor", 1, 24617}
@@ -288,6 +566,12 @@ SourceItems = {
 {"S_Super_Power_Pendant", 1, 24620}
 , 
 {"S_Super_Power_Earing", 1, 24621}
+, 
+{"S_EXP_Shield", 1, 24683}
+, 
+{"S_Thief_earring", 1, 28391}
+, 
+{"S_Archer_earring", 1, 28392}
 }
 , NeedSource_String = "Equip. Sombrio"}
 , 
@@ -862,6 +1146,114 @@ SourceItems = {
 {"EP17_1_EVT38", 1, 25705}
 }
 , NeedSource_String = "Modulo"}
+, 
+Meteor_Striker_Cube = {ItemID = 100361, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Meteor_Striker", 1, 590002}
+}
+, NeedSource_String = "Maça Ancestral"}
+, 
+Royal_Bow_K_Cube = {ItemID = 100376, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Royal_Bow_K", 1, 18164}
+}
+, NeedSource_String = "Arco Ancestral"}
+, 
+SLD_Card_Recipe = {ItemID = 101075, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Sealed_D_Lord_Card", 1, 4488}
+, 
+{"Sealed_Knight_WS_Card", 1, 4497}
+, 
+{"Sealed_Berz_Card", 1, 4486}
+, 
+{"Sealed_Kiel_Card", 1, 4480}
+, 
+{"Sealed_Gloom_Card", 1, 4485}
+, 
+{"Sealed_F_Bishop_Card", 1, 4539}
+, 
+{"Sealed_Ifrit_Card", 1, 4487}
+, 
+{"Sealed_TurtleG_Card", 1, 4494}
+, 
+{"Sealed_Bacsojin_Card", 1, 4538}
+, 
+{"Sealed_Pharaoh_Card", 1, 4489}
+, 
+{"Sealed_M_Flower_Card", 1, 4490}
+, 
+{"Sealed_B_Ygnizem_Card", 1, 4482}
+, 
+{"Sealed_Apocalips_H_Card", 1, 4503}
+, 
+{"Sealed_Dracula_Card", 1, 4483}
+, 
+{"Sealed_B_Shecil_Card", 1, 4491}
+, 
+{"Sealed_Orc_Hero_Card", 1, 4492}
+, 
+{"Sealed_Lady_Tanee_Card", 1, 4498}
+, 
+{"Sealed_Samurai_Card", 1, 4499}
+, 
+{"Sealed_Orc_Load_Card", 1, 4500}
+, 
+{"Sealed_B_Magaleta_Card", 1, 4501}
+, 
+{"Sealed_B_Harword_Card", 1, 4502}
+, 
+{"Sealed_Eddga_Card", 1, 4504}
+, 
+{"Sealed_Ktullanux_Card", 1, 4481}
+, 
+{"Sealed_Mistress_Card", 1, 4484}
+, 
+{"SLD_Q_Scaraba_Card", 1, 27209}
+, 
+{"SLD_Baphomet_Card", 1, 27211}
+, 
+{"SLD_Maya_Card", 1, 27212}
+, 
+{"SLD_Clown_Card", 1, 27213}
+, 
+{"SLD_Professor_Card", 1, 27214}
+, 
+{"SLD_Champion_Card", 1, 27215}
+, 
+{"SLD_Creator_Card", 1, 27216}
+, 
+{"SLD_Stalker_Card", 1, 27217}
+, 
+{"SLD_Paladin_Card", 1, 27218}
+, 
+{"SLD_Gypsy_Card", 1, 27219}
+, 
+{"SLD_Daehyon_Card", 1, 27220}
+, 
+{"SLD_Gioia_Card", 1, 27221}
+, 
+{"SLD_Pyuriel_Card", 1, 27222}
+, 
+{"SLD_Kades_Card", 1, 27224}
+, 
+{"SLD_Timeholder_Card", 1, 27225}
+, 
+{"Sealed_Tao_Card2", 1, 4624}
+}
+, NeedSource_String = "Cartas Seladas"}
+, 
+Shiver_Katar_K_Cube = {ItemID = 100276, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Shiver_Katar_K", 1, 28039}
+}
+, NeedSource_String = "Katar Ancestral"}
+, 
+Oriental_Sword_Cube = {ItemID = 100274, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Oriental_Sword", 1, 21038}
+}
+, NeedSource_String = "Espada Ancestral"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

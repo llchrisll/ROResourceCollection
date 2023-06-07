@@ -57,43 +57,43 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_BL] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_BL] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_GN] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_GN] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_OM] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_OM] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PK] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PK] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PP] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PP] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_RD] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_RD] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Long] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Long] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin_B] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin_B] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_WH] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_WH] = {Default = 102, 
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_YL] = {Default = 303, 
+[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_YL] = {Default = 102, 
 Direction = {}
 }
 , 
@@ -114,6 +114,10 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_Whistle] = {Default = 302, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Starry_Long_Wave] = {Default = 102, 
 Direction = {}
 }
 , 
@@ -242,6 +246,10 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_Side_Pigtail_YL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Rabbit_Wig] = {Default = 102, 
 Direction = {}
 }
 , 
@@ -386,6 +394,10 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_WL_Hair_GN] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Braid_Ring] = {Default = 102, 
 Direction = {}
 }
 , 

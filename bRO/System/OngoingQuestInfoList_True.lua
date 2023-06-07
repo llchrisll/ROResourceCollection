@@ -14861,9 +14861,9 @@ Description = {"Recrutando membros por a\237..."}
 Description = {"Recrutando membros por a\237..."}
 , Summary = "Novo membro recrutado! "}
 , 
-[15065] = {Title = "Ticket de Rune-Midgard", 
-Description = {"Voc\234 s\243 pode comprar 1 Ticket a cada 20 horas. "}
-, Summary = "Voc\234 não pode comprar outro. Aguarde o período de 20 horas e volte ao Carteiro para adquirir mais tickets. "}
+[15065] = {Title = "Ticket Diário", 
+Description = {"Voc\234 s\243 poder\225 comprar 1 Ticket por dia. Volte após a missão ser reiniciada."}
+, Summary = "Volte às 4 da manh\227."}
 , 
 [15071] = {Title = "Limpando Comodo", 
 Description = {"Volte amanh\227."}
@@ -15397,9 +15397,9 @@ Description = {""}
 Description = {"Hunt the monsters at Einbroch Dungeon 2 and return to Gramps at the Eden Group to get your reward."}
 , Summary = "Hunt 400 Mineral monsters."}
 , 
-[60477] = {Title = "Obsidian Hunt", 
-Description = {"Hunt the monsters at Einbroch Dungeon 2 and return to Gramps at the Eden Group to get your reward."}
-, Summary = "Hunt 400 Obsidian monsters."}
+[60477] = {Title = "Caça a Obsidiana", 
+Description = {"Cace 400 Obsidianas. Após isso, converse com Mateus Além para resgatar sua recompensa."}
+, Summary = ""}
 , 
 [60478] = {Title = "Ferus Hunt", 
 Description = {"Hunt the monsters at Abyss Dungeon and return to Gramps at the Eden Group to get your reward."}
@@ -15505,9 +15505,9 @@ Description = {"Hunt the Ancient Tree monsters at the special Nydhoggur dungeon 
 Description = {"Hunt the Phylla monsters at the special Nydhoggur dungeon and return to Gramps at the Eden Group to get your reward. Talk to Gramps and ask for a warp to the special dungeon."}
 , Summary = "Hunt 400 Phylla monsters."}
 , 
-[60507] = {Title = "Teddy Bear Hunting", 
-Description = {"Hunt the Teddy Bear monsters at Einbroch Mine dungeon and return to Gramps at the Eden Group to get your reward."}
-, Summary = "Hunt 400 Teddy Bear monsters."}
+[60507] = {Title = "Caça o Ursinho", 
+Description = {"Cace 400 Ursinhos. Após isso, converse com Mateus Além para resgatar sua recompensa."}
+, Summary = ""}
 , 
 [60508] = {Title = "Waste Stove Hunting", 
 Description = {"Hunt the Waste Stove monsters at Einbroch Mine dungeon and return to Gramps at the Eden Group to get your reward."}
@@ -15825,8 +15825,8 @@ Description = {"Cace 400 Cornus. Após isso, converse com Mateus Além para resgat
 Description = {"Cace 400 Plagiador. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
-[60587] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60587] = {Title = "Caça o Pequeno Fatum", 
+Description = {"Cace 400 Pequenos Fatum. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60588] = {Title = "Passando por Ajustes", 
@@ -15933,8 +15933,8 @@ Description = {"Passando por Ajustes"}
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[60614] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60614] = {Title = "Caça o Yeti", 
+Description = {"Cace 400 Yetis. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60815] = {Title = "Caça o Remover", 
@@ -16141,8 +16141,8 @@ Description = {"Cace 400 Breezes. Após isso, converse com Mateus Além para resga
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[60866] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60866] = {Title = "Caça a Sedora", 
+Description = {"Cace 400 Sedoras. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60867] = {Title = "Caça ao Verme Ancião", 
@@ -18478,7 +18478,7 @@ Description = {"Vamos passear com o bichinho de estimação at\233 a <NAVI>[primei
 , Summary = "Siga a trilha"}
 , 
 [16417] = {Title = "Passeio Feliz 2", IconName = "ico_ev.bmp", 
-Description = {"Vamos passear com o bichinho de estimação at\233 a <NAVI>[segunda parada]<INFO>yuno,342,156,0,101,0</INFO></NAVI>."}
+Description = {"Vamos passear com o bichinho de estimação at\233 a <NAVI>[segunda parada]<INFO>yuno,341,258,0,101,0</INFO></NAVI>."}
 , Summary = "Siga a trilha"}
 , 
 [16418] = {Title = "Passeio Feliz 3", IconName = "ico_ev.bmp", 
@@ -18486,7 +18486,7 @@ Description = {"Vamos passear com o bichinho de estimação at\233 a <NAVI>[tercei
 , Summary = "Siga a trilha"}
 , 
 [16419] = {Title = "Passeio Feliz 4", IconName = "ico_ev.bmp", 
-Description = {"Vamos terminr o passeio voltando para a <NAVI>[praça centrl]<INFO>yuno,150,155,0,101,0</INFO></NAVI>."}
+Description = {"Vamos terminr o passeio voltando para a <NAVI>[praça central]<INFO>yuno,150,155,0,101,0</INFO></NAVI>."}
 , Summary = "Siga a trilha"}
 , 
 [16420] = {Title = "Passeio com Lunático", IconName = "ico_ev.bmp", 
@@ -19558,5 +19558,89 @@ Description = {"Voc\234 j\225 entregou seus doces hoje. Quando a missão resetar,
 [3506] = {Title = "Caça Ao Quinding Gigante", IconName = "ico_ev.bmp", 
 Description = {"Voc\234 viu um ^4d4dffQunding Gigante^000000 por ai ? Encontre e derrote-o , e me traga 1 ^4d4dffGrão maduro de cacau^000000."}
 , Summary = "Mate 1 Quinding Gigante"}
+, 
+[11556] = {Title = "Ilusão do Ursinho", IconName = "ico_nq.bmp", 
+Description = {"Parece que Steven trabalha no primeiro piso das Minas de Einbech, vamos investigar l\225"}
+, Summary = "Para a Mina de Einbech"}
+, 
+[11557] = {Title = "Ilusão do Ursinho", IconName = "ico_nq.bmp", 
+Description = {"Alguém gritou por socorro no começo dessa fila da Mina e Einbech, melhor investigar"}
+, Summary = "Fale com o Ursinho"}
+, 
+[11558] = {Title = "Ilusão do Ursinho", IconName = "ico_nq.bmp", 
+Description = {"Por alguma razão, o Ursinho do começo da fila me deixou entrar no lugar dele. Então, vamos investigar"}
+, Summary = "Use a Entrada"}
+, 
+[11559] = {Title = "Ilusão do Ursinho", IconName = "ico_nq.bmp", 
+Description = {"Os Ursinhos que prenderam Steven fugiram..."}
+, Summary = "Fale com Steven"}
+, 
+[11560] = {Title = "Ilusão do Ursinho", IconName = "ico_nq.bmp", 
+Description = {"Steven se preocupa com a saúde de San e lhe deu dinheiro para pagar um médico. Vamos voltar para San, em Einbroch"}
+, Summary = "Para o Jovem Doente"}
+, 
+[11561] = {Title = "Ilusão do Ursinho", IconName = "ico_nq.bmp", 
+Description = {"San diz que est\225 preocupado com Steven e  ele mesmo ir\225 para a mina. Vamos voltar para Steven, na Mina de Einbech"}
+, Summary = "Para Steven"}
+, 
+[11562] = {Title = "Ilusão do Ursinho", IconName = "ico_nq.bmp", 
+Description = {"Ouvimos um barulho ao norte desse misterioso lugar, precisamos investigar"}
+, Summary = "V\225 para o norte"}
+, 
+[11563] = {Title = "Conspiração Nazariana", IconName = "ico_nq.bmp", 
+Description = {"Aparentemente, o barulho era uma Assembleia de Ursinhos autodenominados \'Nazarianos\'. \201 melhor se livrar dos Ursinhos Verde, Vermelho e Amarelos"}
+, Summary = "Ursinhos 1"}
+, 
+[11564] = {Title = "Conspiração Nazariana", IconName = "ico_nq.bmp", 
+Description = {"Aparentemente, o barulho era uma Assembleia de Ursinhos autodenominados \'Nazarianos\'. \201 melhor se livrar dos Ursinhos Azul e Brancos"}
+, Summary = "Ursinhos 2"}
+, 
+[11565] = {Title = "Os Outros", IconName = "ico_nq.bmp", 
+Description = {"Parece que além dos Ursinhos, h\225 outras criaturas aqui. Steven quer que voc\234 d\234 um jeito nelas também"}
+, Summary = "Cace os monstros", RewardEXP = "1.000.000", RewardJEXP = "900.000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[11566] = {Title = "[Espera] Os Outros", IconName = "ico_nq.bmp", 
+Description = {"Voc\234 j\225 completou essa missão na Ilusão do Ursinho. Aguarde para refazer a quest amanh\227."}
+, Summary = "Volte amanh\227."}
+, 
+[11567] = {Title = "Ursinhos Desastrosos", IconName = "ico_nq.bmp", 
+Description = {"Elimine 10 Ursinhos Verdes, 10 Ursinhos Vermelhos e 10 Ursinhos Amarelos. Ao entregar as duas missões, voc\234 receber\225 a premiação abaixo referente às duas caçadas Ou seja, não recebe a recompensa duas vezes."}
+, Summary = "Parte 1", RewardEXP = "1.300.000", RewardJEXP = "1.000.000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[11568] = {Title = "Ursinhos Desastrosos", IconName = "ico_nq.bmp", 
+Description = {"Elimine 10 Ursinhos Brancos e 10 Ursinhos Azuis. Ao entregar as duas missões, voc\234 receber\225 a premiação abaixo referente às duas caçadas. Ou seja, não recebe a recompensa duas vezes."}
+, Summary = "Parte 2", RewardEXP = "1.300.000", RewardJEXP = "1.000.000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[11569] = {Title = "[Espera] Ursinhos Desastrosos", IconName = "ico_nq.bmp", 
+Description = {"Voc\234 j\225 completou essa missão na Ilusão do Ursinho. Aguarde para refazer a quest amanh\227."}
+, Summary = "Volte amanh\227."}
+, 
+[11570] = {Title = "O Iluminado", IconName = "ico_nq.bmp", 
+Description = {"Um Gigantesco Ursinho todo iluminado persegue a pobre de uma produtora de cerâmicas. \201 difícil encontr\225-lo, mas voc\234 deveria elimin\225-lo para ela."}
+, Summary = "Elimine o Chefe", RewardEXP = "1.500.000", RewardJEXP = "1.100.000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[11571] = {Title = "[Espera] O Iluminado", IconName = "ico_nq.bmp", 
+Description = {"Voc\234 j\225 completou essa missão na Ilusão do Ursinho. Aguarde para refazer a quest amanh\227."}
+, Summary = "Volte amanh\227."}
+, 
+[11572] = {Title = "Bastão Ilusional", IconName = "ico_nq.bmp", 
+Description = {"Voc\234 iniciou a missão de criar um Bastão Ilusional, termine de trazer os itens pedidos pelo NPC para finalizar a produção."}
+, Summary = "Traga os itens"}
 }
 

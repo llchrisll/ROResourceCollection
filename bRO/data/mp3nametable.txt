@@ -1027,3 +1027,6 @@ sp_rudus3.rsw#bgm\\176.mp3#
 
 // 일루전 얼던 (프로즌)
 ice_d03_i.rsw#bgm\\96.mp3#
+
+// 일루전 테디베어 나사리안 제국
+ein_d02_i.rsw#bgm\\88.mp3#

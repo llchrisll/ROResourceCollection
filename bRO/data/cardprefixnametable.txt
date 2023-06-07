@@ -1368,3 +1368,36 @@
 27111#de Refugo#
 27112#do Anteparo#
 27113#de Cristal#
+//*****************************************************
+//---------------Illusion of Teddy Bear----------------
+//*****************************************************
+27286#das Cores#
+27287#do Iluminado#
+27288#dos Mineradores#
+27289#Conveniente#
+27290#de Obsidiana#
+//*****************************************************
+//---------------Update em 2023-05-16------------------
+//*****************************************************
+4487#Infernal Selada#
+4489#do Místico Selado#
+4490#Fugazes Selados#
+4492#do Herói Selado#
+4538#da Medicina Selada#
+27209#Scaraba Selada#
+27211#do Ceifeiro Selado#
+27213#da Poesia Selada#
+27214#da Proteção Terrena Selada#
+27216#da Corrosão Selada#
+27218#da Cruz Suprema Selada#
+27219#da Boa Ventura Selada#
+27220#do Mestre das Lâminas Selada#
+27222#do Furor Selado#
+27224#da Perversão Selada#
+//*****************************************************
+//---------------Update em 2023-05-30------------------
+//*****************************************************
+300307#Autografado por Meyer#
+300308#de Meyer#
+300309#Autografado por Helmut#
+300310#de Helmut#
