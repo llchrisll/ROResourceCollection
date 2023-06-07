@@ -17916,5 +17916,45 @@ Description = {"Tangkap Tiyanak di niffleheim atau malaya"}
 [292413] = {Title = "[Ramadhan] Cooldown quest 1 jam", IconName = "ico_dq.bmp", 
 Description = {"Quest sedang cooldown 1 jam setelah melapor"}
 , Summary = "Tunggu 1 jam"}
+, 
+[14585] = {Title = "[Edda Aruna] Halfmoon in daylight", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan Memorial Dungeon Lumin"}
+, Summary = "Kalahkan Memorial Dungeon Lumin"}
+, 
+[14586] = {Title = "[Edda Aruna] Cooldown", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang Cooldown"}
+, Summary = "Reset pukul 04.00 Pagi"}
+, 
+[14587] = {Title = "[Edda Aruna] Halfmoon in daylight", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan Memorial Dungeon Ktullanux"}
+, Summary = "Kalahkan Memorial Dungeon Ktullanux"}
+, 
+[14593] = {Title = "[Edda Aruna] Halfmoon in daylight", IconName = "ico_dq.bmp", 
+Description = {"Halfmoon in daylight"}
+, Summary = "Edda Arunafeltz"}
+, 
+[14594] = {Title = "[Edda Aruna] Halfmoon in daylight", IconName = "ico_dq.bmp", 
+Description = {"Halfmoon in daylight"}
+, Summary = "Edda Arunafeltz"}
+, 
+[292414] = {Title = "Panen Melon", IconName = "ico_ev.bmp", 
+Description = {"Ayo pergi ke gef_fild01 dan bantu petani Melon memanen melonnya"}
+, Summary = "Panen Melon di gef_fild01"}
+, 
+[292415] = {Title = "[Panen Melon - Lapor", IconName = "ico_ev.bmp", 
+Description = {"Kamu sudah memanen banyak melon"}
+, Summary = "Lapor ke Petani Melon"}
+, 
+[292416] = {Title = "Panen Melon - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, temui kembali npc petani melon esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292417] = {Title = "Kalahkan Naght Sieger", IconName = "ico_ev.bmp", 
+Description = {"Seseorang petualang aneh memintamu mengalahkan Naght Sieger di Endless Tower."}
+, Summary = "Kalahkan Naght Sieger"}
+, 
+[292418] = {Title = "Kalahkan Naght Sieger - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, Unknown Warrior setelah 6 hari."}
+, Summary = "Cooldown 6 hari"}
 }
 

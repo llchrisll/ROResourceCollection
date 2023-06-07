@@ -540,6 +540,20 @@ SourceItems = {
 {"C_bullhead_J", 1, 420168}
 , 
 {"C_Friendly_White_Fox", 1, 420192}
+, 
+{"C_Shining_Sunflower", 1, 31321}
+, 
+{"C_Orange_Tabby_Cat", 1, 31491}
+, 
+{"C_Easter_Egg_Shell", 1, 31499}
+, 
+{"C_BaphoJ_Parachute_JP", 1, 31630}
+, 
+{"C_BearBalloon", 1, 31732}
+, 
+{"C_Soccer_Ball", 1, 410218}
+, 
+{"C_Blink_Eyes_Frozen", 1, 410220}
 }
 , NeedSource_String = "Silvervine Costume"}
 , 
@@ -1408,6 +1422,12 @@ SourceItems = {
 {"S_Banish_Cannon_Shoes", 1, 24580}
 , 
 {"S_MagicCompose_Armor", 1, 24334}
+, 
+{"S_Huusouka_Shoes", 1, 24633}
+, 
+{"S_Huusouka_Pendant", 1, 24632}
+, 
+{"S_Huusouka_Earing", 1, 24631}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -1894,6 +1914,8 @@ SourceItems = {
 {"Teleport_Stone", 1, 25228}
 , 
 {"Steal_Stone", 1, 25229}
+, 
+{"Critical_Stone_Top", 1, 25304}
 }
 , NeedSource_String = "Enchant Stone"}
 , 
@@ -2388,6 +2410,24 @@ SourceItems = {
 {"Boost_Lance_OS", 1, 32019}
 }
 , NeedSource_String = "OS Weapon"}
+, 
+Trumpet_Shell_K_Cube = {ItemID = 100330, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Trumpet_Shell_K", 1, 570002}
+}
+, NeedSource_String = "Trumpet Shell"}
+, 
+Barb_Wire_K_Cube = {ItemID = 100331, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Barb_Wire_K", 1, 580002}
+}
+, NeedSource_String = "Barbed Wire Whip"}
+, 
+Blessed_Knife_Cube = {ItemID = 101483, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blessed_Knife", 1, 510070}
+}
+, NeedSource_String = "Blessed Knife"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

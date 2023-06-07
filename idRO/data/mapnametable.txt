@@ -1012,3 +1012,8 @@ ant_d02_i.rsw#Illusion of Twin#
 
 //Infinity Space
 1@infi.rsw#Infinity Space#
+
+// Edda Arunafeltz
+1@pop1.rsw#Pope's Office#
+1@pop2.rsw#The Way Home#
+1@pop3.rsw#Sky Garden#

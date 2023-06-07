@@ -1234,6 +1234,28 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BL] = {Default = 143, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_Soccer_Ball] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Orange_Tabby_Cat] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Spinning_Skulls] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Volume_Low_TwinK] = {Default = 152, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Demi_Freyja_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_BaphoJ_Parachute] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_BearBalloon] = {Default = 303, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

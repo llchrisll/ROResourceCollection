@@ -4,7 +4,7 @@
 -- params : ...
 -- function num : 0
 tb_cashshop_banner = {
-[1] = {"woe_te.bmp", "https://ro.gnjoy.id/news/detail/834"}
+[1] = {"Kac_20230519.bmp", "https://ro.gnjoy.id/news/detail/1166"}
 }
 set_cashshop_banner = function()
   -- function num : 0_0

@@ -769,8 +769,8 @@ aldebaran.rsw#bgm\\39.mp3#
 aldeba_in.rsw#bgm\\39.mp3#
 gef_tower.rsw#bgm\\13.mp3#
 //geffen tadinya 13
-geffen.rsw#bgm\\13.mp3#
-geffen_in.rsw#bgm\\13.mp3#
+geffen.rsw#bgm\\23.mp3#
+geffen_in.rsw#bgm\\23.mp3#
 ////geffen.rsw#bgm\\57.mp3#
 ////geffen_in.rsw#bgm\\57.mp3#
 //moc_castle.rsw#bgm\\11.mp3#
@@ -1100,3 +1100,8 @@ ant_d02_i.rsw#bgm\\46.mp3#
 
 //Infinity Space
 1@infi.rsw#bgm\\95.mp3#
+
+// Edda Arunafeltz
+1@pop1.rsw#bgm\\95.mp3#
+1@pop2.rsw#bgm\\94.mp3#
+1@pop3.rsw#bgm\\138.mp3#

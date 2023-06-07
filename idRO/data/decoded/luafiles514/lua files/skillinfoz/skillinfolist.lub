@@ -2796,6 +2796,12 @@ SpAmount = {1}
 AttackRange = {9}
 }
 , 
+[SKID.GM_FORCE_TRANSFER] = {"GM_FORCE_TRANSFER"; SkillName = "Prison Teleforce", MaxLv = 1, 
+SpAmount = {1}
+, bSeperateLv = false, 
+AttackRange = {9}
+}
+, 
 [SKID.ALL_CATCRY] = {"ALL_CATCRY"; SkillName = "Monster\'s Cry", MaxLv = 1, 
 SpAmount = {50}
 , bSeperateLv = false, 

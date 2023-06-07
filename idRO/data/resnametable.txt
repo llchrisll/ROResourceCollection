@@ -1641,3 +1641,14 @@ bossnia_04.rsw#gef_dun03.rsw#
 1@infi.gnd#1@infi.gnd#
 1@infi.gat#1@infi.gat#
 1@infi.rsw#1@infi.rsw#
+
+//Edda Arunafeltz
+1@pop1.gnd#1@pop1.gnd#
+1@pop1.gat#1@pop1.gat#
+1@pop1.rsw#1@pop1.rsw#
+1@pop2.gnd#1@pop2.gnd#
+1@pop2.gat#1@pop2.gat#
+1@pop2.rsw#1@pop2.rsw#
+1@pop3.gnd#1@pop3.gnd#
+1@pop3.gat#1@pop3.gat#
+1@pop3.rsw#1@pop3.rsw#

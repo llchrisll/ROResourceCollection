@@ -1078,6 +1078,30 @@ TargetItems = {
 {"S_Cannon_Cart_Pendant", 24564}
 , 
 {"S_Cannon_Cart_Earing", 24565}
+, 
+{"S_Arrow_Armor", 24458}
+, 
+{"S_Arrow_Shield", 24459}
+, 
+{"S_Arrow_Shoes", 24460}
+, 
+{"S_Metalic_Armor", 24506}
+, 
+{"S_Metalic_Shield", 24507}
+, 
+{"S_Metalic_Shoes", 24508}
+, 
+{"S_Menace_Armor", 24530}
+, 
+{"S_Menace_Shield", 24531}
+, 
+{"S_Menace_Shoes", 24532}
+, 
+{"S_Varetyr_Weapon", 24557}
+, 
+{"S_Varetyr_Pendant", 24558}
+, 
+{"S_Varetyr_Earing", 24559}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -1966,6 +1990,30 @@ TargetItems = {
 {"S_Cannon_Cart_Pendant", 24564}
 , 
 {"S_Cannon_Cart_Earing", 24565}
+, 
+{"S_Arrow_Armor", 24458}
+, 
+{"S_Arrow_Shield", 24459}
+, 
+{"S_Arrow_Shoes", 24460}
+, 
+{"S_Metalic_Armor", 24506}
+, 
+{"S_Metalic_Shield", 24507}
+, 
+{"S_Metalic_Shoes", 24508}
+, 
+{"S_Menace_Armor", 24530}
+, 
+{"S_Menace_Shield", 24531}
+, 
+{"S_Menace_Shoes", 24532}
+, 
+{"S_Varetyr_Weapon", 24557}
+, 
+{"S_Varetyr_Pendant", 24558}
+, 
+{"S_Varetyr_Earing", 24559}
 }
 , NeedSource_String = "+7 Shadow Equipment"}
 , 
@@ -2962,6 +3010,30 @@ TargetItems = {
 {"S_Cannon_Cart_Pendant", 24564}
 , 
 {"S_Cannon_Cart_Earing", 24565}
+, 
+{"S_Arrow_Armor", 24458}
+, 
+{"S_Arrow_Shield", 24459}
+, 
+{"S_Arrow_Shoes", 24460}
+, 
+{"S_Metalic_Armor", 24506}
+, 
+{"S_Metalic_Shield", 24507}
+, 
+{"S_Metalic_Shoes", 24508}
+, 
+{"S_Menace_Armor", 24530}
+, 
+{"S_Menace_Shield", 24531}
+, 
+{"S_Menace_Shoes", 24532}
+, 
+{"S_Varetyr_Weapon", 24557}
+, 
+{"S_Varetyr_Pendant", 24558}
+, 
+{"S_Varetyr_Earing", 24559}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -3464,6 +3536,14 @@ TargetItems = {
 {"Up_Demon_Hunting_Bible", 540011}
 , 
 {"Up_Saint_Hall", 590012}
+, 
+{"Blessed_Knife", 510070}
+, 
+{"Up_Blessed_Knife", 510071}
+, 
+{"Up_Trumpet_Shell_K", 570009}
+, 
+{"Up_Barb_Wire_K", 580009}
 }
 , NeedSource_String = "Hero Weapon"}
 , 
@@ -3598,6 +3678,14 @@ TargetItems = {
 {"Up_Demon_Hunting_Bible", 540011}
 , 
 {"Up_Saint_Hall", 590012}
+, 
+{"Blessed_Knife", 510070}
+, 
+{"Up_Blessed_Knife", 510071}
+, 
+{"Up_Trumpet_Shell_K", 570009}
+, 
+{"Up_Barb_Wire_K", 580009}
 }
 , NeedSource_String = "Hero Weapon"}
 , 
@@ -3938,6 +4026,12 @@ TargetItems = {
 {"Up_Demon_Hunting_Bible", 540011}
 , 
 {"Up_Saint_Hall", 590012}
+, 
+{"Up_Blessed_Knife", 510071}
+, 
+{"Up_Trumpet_Shell_K", 570009}
+, 
+{"Up_Barb_Wire_K", 580009}
 }
 , NeedSource_String = "Patent Weapon"}
 , 
@@ -4000,6 +4094,12 @@ TargetItems = {
 {"Up_Demon_Hunting_Bible", 540011}
 , 
 {"Up_Saint_Hall", 590012}
+, 
+{"Up_Blessed_Knife", 510071}
+, 
+{"Up_Trumpet_Shell_K", 570009}
+, 
+{"Up_Barb_Wire_K", 580009}
 }
 , NeedSource_String = "Patent Weapon"}
 , 
@@ -4482,6 +4582,242 @@ TargetItems = {
 {"Boost_Lance_OS", 32019}
 }
 , NeedSource_String = "OS Weapon"}
+, 
+Noblesse_Rifine_Ticket = {ItemID = 100128, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Noblesse_Breath_Armor", 450018}
+, 
+{"Noblesse_Knight_Armor", 450019}
+, 
+{"Noblesse_Spear_Armor", 450020}
+, 
+{"Noblesse_Genesis_Armor", 450021}
+, 
+{"Noblesse_Sharp_Suit", 450022}
+, 
+{"Noblesse_Aim_Suit", 450023}
+, 
+{"Noblesse_Severe_Suit", 450024}
+, 
+{"Noblesse_Reverb_Suit", 450025}
+, 
+{"Noblesse_Adora_Robe", 450026}
+, 
+{"Noblesse_Duple_Robe", 450027}
+, 
+{"Noblesse_Tonado_Armor", 450028}
+, 
+{"Noblesse_Vulcan_Armor", 450029}
+, 
+{"Noblesse_Kart_Suit", 450030}
+, 
+{"Noblesse_Kart_Suit2", 450031}
+, 
+{"Noblesse_Rolling_Suit", 450032}
+, 
+{"Noblesse_Assasin_Suit", 450033}
+, 
+{"Noblesse_Fatal_Suit", 450034}
+, 
+{"Noblesse_Stalker_Suit", 450035}
+, 
+{"Noblesse_Picky_Robe", 450036}
+, 
+{"Noblesse_Carrot_Robe", 450037}
+, 
+{"Noblesse_Trip_Suit", 450038}
+, 
+{"Noblesse_Firerain_Suit", 450039}
+, 
+{"Noblesse_Crimson_Robe", 450040}
+, 
+{"Noblesse_Frost_Robe", 450041}
+, 
+{"Noblesse_Psychic_Robe", 450042}
+, 
+{"Noblesse_Dust_Robe", 450043}
+, 
+{"Noblesse_Ninja_Suit", 450046}
+, 
+{"Noblesse_Kunai_Suit", 450047}
+, 
+{"Noblesse_Knuckle_Suit", 450050}
+, 
+{"Noblesse_Tiger_Suit", 450051}
+, 
+{"Noblesse_Snovice_Suit", 450121}
+, 
+{"Noblesse_Snovice_Robe", 450122}
+, 
+{"Noblesse_Attack_Boots", 470016}
+, 
+{"Noblesse_Magic_Boots", 470017}
+, 
+{"Noblesse_Attack_Manteau", 480012}
+, 
+{"Noblesse_Magic_Manteau", 480014}
+}
+, NeedSource_String = "Noblesse Equipment"}
+, 
+Imperial_Rifine_Ticket = {ItemID = 100129, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Imperial_Breath_Armor", 450052}
+, 
+{"Imperial_Knight_Armor", 450053}
+, 
+{"Imperial_Spear_Armor", 450054}
+, 
+{"Imperial_Genesis_Armor", 450055}
+, 
+{"Imperial_Sharp_Suit", 450056}
+, 
+{"Imperial_Aim_Suit", 450057}
+, 
+{"Imperial_Severe_Suit", 450058}
+, 
+{"Imperial_Reverb_Suit", 450059}
+, 
+{"Imperial_Adora_Robe", 450060}
+, 
+{"Imperial_Duple_Robe", 450061}
+, 
+{"Imperial_Tonado_Armor", 450064}
+, 
+{"Imperial_Vulcan_Armor", 450065}
+, 
+{"Imperial_Kart_Suit", 450066}
+, 
+{"Imperial_Kart_Suit2", 450067}
+, 
+{"Imperial_Rolling_Suit", 450068}
+, 
+{"Imperial_Assasin_Suit", 450069}
+, 
+{"Imperial_Fatal_Suit", 450070}
+, 
+{"Imperial_Stalker_Suit", 450071}
+, 
+{"Imperial_Picky_Robe", 450072}
+, 
+{"Imperial_Carrot_Robe", 450073}
+, 
+{"Imperial_Trip_Suit", 450074}
+, 
+{"Imperial_Firerain_Suit", 450075}
+, 
+{"Imperial_Crimson_Robe", 450076}
+, 
+{"Imperial_Frost_Robe", 450077}
+, 
+{"Imperial_Psychic_Robe", 450078}
+, 
+{"Imperial_Dust_Robe", 450079}
+, 
+{"Imperial_Sun_Suit", 450080}
+, 
+{"Imperial_Moon_Suit", 450081}
+, 
+{"Imperial_Ninja_Suit", 450082}
+, 
+{"Imperial_Kunai_Suit", 450083}
+, 
+{"Imperial_Swhoo_Robe", 450084}
+, 
+{"Imperial_Explosion_Robe", 450085}
+, 
+{"Imperial_Knuckle_Suit", 450062}
+, 
+{"Imperial_Tiger_Suit", 450063}
+, 
+{"Imperial_Snovice_Suit", 450123}
+, 
+{"Imperial_Snovice_Robe", 450124}
+, 
+{"Imperial_Attack_Boots", 470018}
+, 
+{"Imperial_Magic_Boots", 470019}
+, 
+{"Imperial_Attack_Manteau", 480016}
+, 
+{"Imperial_Magic_Manteau", 480017}
+}
+, NeedSource_String = "Imperial Equipment"}
+, 
+Grace_Rifine_Ticket = {ItemID = 100130, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Grace_Breath_Armor", 450086}
+, 
+{"Grace_Knight_Armor", 450087}
+, 
+{"Grace_Spear_Armor", 450088}
+, 
+{"Grace_Genesis_Armor", 450089}
+, 
+{"Grace_Sharp_Suit", 450090}
+, 
+{"Grace_Aim_Suit", 450091}
+, 
+{"Grace_Severe_Suit", 450092}
+, 
+{"Grace_Reverb_Suit", 450093}
+, 
+{"Grace_Adora_Robe", 450094}
+, 
+{"Grace_Duple_Robe", 450095}
+, 
+{"Grace_Knuckle_Suit", 450096}
+, 
+{"Grace_Tiger_Suit", 450097}
+, 
+{"Grace_Tonado_Armor", 450098}
+, 
+{"Grace_Vulcan_Armor", 450099}
+, 
+{"Grace_Kart_Suit", 450100}
+, 
+{"Grace_Kart_Suit2", 450101}
+, 
+{"Grace_Rolling_Suit", 450102}
+, 
+{"Grace_Assasin_Suit", 450103}
+, 
+{"Grace_Fatal_Suit", 450104}
+, 
+{"Grace_Stalker_Suit", 450105}
+, 
+{"Grace_Picky_Robe", 450106}
+, 
+{"Grace_Carrot_Robe", 450107}
+, 
+{"Grace_Trip_Suit", 450108}
+, 
+{"Grace_Firerain_Suit", 450109}
+, 
+{"Grace_Crimson_Robe", 450110}
+, 
+{"Grace_Frost_Robe", 450111}
+, 
+{"Grace_Psychic_Robe", 450112}
+, 
+{"Grace_Dust_Robe", 450113}
+, 
+{"Grace_Ninja_Suit", 450116}
+, 
+{"Grace_Kunai_Suit", 450117}
+, 
+{"Grace_Snovice_Suit", 450125}
+, 
+{"Grace_Snovice_Robe", 450126}
+, 
+{"Grace_Attack_Boots", 470020}
+, 
+{"Grace_Magic_Boots", 470021}
+, 
+{"Grace_Attack_Manteau", 480018}
+, 
+{"Grace_Magic_Manteau", 480019}
+}
+, NeedSource_String = "Grace Equipment Item"}
 }
 , serverMain = function()
   -- function num : 0_0

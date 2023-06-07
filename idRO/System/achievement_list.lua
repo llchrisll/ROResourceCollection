@@ -2333,6 +2333,26 @@ resource = {
 , 
 reward = {title = 2028}
 , score = 50}
+, 
+[310028] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "JORMUNGANDR"}
+}
+, 
+reward = {title = 2029}
+, score = 50}
+, 
+[310029] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "IMPERIAL"}
+}
+, 
+reward = {title = 2030}
+, score = 50}
 }
 main = function()
   -- function num : 0_0

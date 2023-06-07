@@ -965,3 +965,13 @@
 4649#Deadly Blow#
 4650#Magic Stun#
 4651#Monarch#
+
+//Additional Patch 20230525
+4589#of Richness#
+4590#of Helplessness#
+4591#of Bloody#
+4592#of Stone Curse#
+4607#of Librarian#
+4581#Toilet#
+4579#Morning Star#
+4575#Short Cut#

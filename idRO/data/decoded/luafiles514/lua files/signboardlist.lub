@@ -794,6 +794,12 @@ SignBoardList = {
 , 
 {"glast_01", 191, 273, 6, IT_SIGNBOARD, "item\\ÇØ°ñ¹Ù°¡Áö.bmp", "  DQ - Abyss GH", "#0x00FFFFFF"}
 , 
-{"moc_para01", 41, 33, 6, IT_SIGNBOARD, "item\\suffragium.bmp", " gnjoy.id\\ramadhan", "#0x00FFFFFF"}
+{"prontera", 162, 151, 6, IT_SIGNBOARD, "item\\noblesse_breath_armor.bmp", " Noblesse Trader", "#0x00FFFFFF"}
+, 
+{"prontera", 162, 147, 6, IT_SIGNBOARD, "item\\noblesse_genesis_armor.bmp", " Imperial Trader", "#0x00FFFFFF"}
+, 
+{"prontera", 162, 143, 6, IT_SIGNBOARD, "item\\noblesse_snovice_suit.bmp", " Grace Trader", "#0x00FFFFFF"}
+, 
+{"prontera", 148, 155, 6, IT_SIGNBOARD, "item\\C_Muranyasa.bmp", " [Evo] C Trader", "#0x00FFFFFF"}
 }
 

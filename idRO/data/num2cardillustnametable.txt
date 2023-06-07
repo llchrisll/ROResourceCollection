@@ -1126,3 +1126,13 @@
 4649#무한프리오니카드#
 4650#무한오크히어로카드#
 4651#무한타오군카카드#
+
+//Additional Patch 20230525
+4589#Jejeling_Card#
+4590#Bangungot_Card#
+4591#Bakonawa_Card#
+4592#Buwaya_Card#
+4607#FaithfulManager_Card#
+4581#Rudo_Card#
+4579#Lora_Card#
+4575#Soheon_Card#

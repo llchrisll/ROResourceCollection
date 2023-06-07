@@ -1,12 +1,9 @@
-DebugWndInfo = {
-	ShowWnd = 0,
-	AddedTabCount = 0,
-	ScrollOffset = 0,
-	CurTabNum = 0,
-	WidthSize = 250,
-	HeightSize = 260,
-}
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\debugui\_debugwndinfo.lua 
 
-DebugWndTabName_0 = [[changeJob]]
-
+-- params : ...
+-- function num : 0
+DebugWndInfo = {ShowWnd = 0, AddedTabCount = 0, ScrollOffset = 0, CurTabNum = 0, WidthSize = 250, HeightSize = 260}
+DebugWndTabName_0 = "changeJob"
 ReadDebugWndTabInfo()
+
