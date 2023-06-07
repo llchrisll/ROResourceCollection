@@ -126,8 +126,6 @@ Navi_Map = {
 , 
 {"cmd_fild04", "Kokomo beach", 5001, 400, 400}
 , 
-{"cmd_fild05", "Border of Papuchica forest", 5001, 400, 400}
-, 
 {"cmd_fild06", "Fortress Saint Darmain(West)", 5001, 400, 400}
 , 
 {"cmd_fild07", "Beacon Island, Pharos", 5001, 400, 400}
@@ -200,8 +198,6 @@ Navi_Map = {
 , 
 {"ein_fild01", "Einbroch Field", 5001, 400, 400}
 , 
-{"ein_fild02", "Einbroch Field", 5001, 400, 400}
-, 
 {"ein_fild03", "Einbroch Field", 5001, 400, 400}
 , 
 {"ein_fild04", "Einbroch Field", 5001, 400, 400}
@@ -215,8 +211,6 @@ Navi_Map = {
 {"ein_fild08", "Einbroch Field", 5001, 400, 400}
 , 
 {"ein_fild09", "Einbroch Field", 5001, 400, 400}
-, 
-{"ein_fild10", "Einbroch Field", 5001, 400, 400}
 , 
 {"ein_in01", "Inside Einbroch", 5003, 300, 300}
 , 
@@ -256,11 +250,7 @@ Navi_Map = {
 , 
 {"gef_fild11", "Geffen Field", 5001, 400, 400}
 , 
-{"gef_fild12", "Kordt Forest", 5001, 400, 400}
-, 
 {"gef_fild13", "Britoniah", 5001, 400, 400}
-, 
-{"gef_fild14", "West Orc Village", 5001, 400, 400}
 , 
 {"gef_tower", "Geffen Tower", 5003, 200, 200}
 , 
@@ -292,7 +282,7 @@ Navi_Map = {
 , 
 {"gl_dun02", "The Lowest Cave in Glast Heim", 5001, 300, 300}
 , 
-{"gl_in01", "Inside Glast Heim", 5003, 200, 200}
+{"gl_in01", "Inside Glast Heim", 5005, 200, 200}
 , 
 {"gl_knt01", "Inside Glast Heim Chivalry", 5001, 300, 300}
 , 
@@ -330,15 +320,11 @@ Navi_Map = {
 , 
 {"hu_fild02", "Hugel Field", 5001, 400, 400}
 , 
-{"hu_fild03", "Hugel Field", 5001, 400, 400}
-, 
 {"hu_fild04", "Hugel Field", 5001, 400, 400}
 , 
 {"hu_fild05", "The Abyss Lake", 5005, 400, 400}
 , 
 {"hu_fild06", "Hugel Field", 5001, 400, 400}
-, 
-{"hu_fild07", "Hugel Field", 5001, 400, 400}
 , 
 {"hu_in01", "Inside Hugel", 5003, 400, 400}
 , 
@@ -548,29 +534,13 @@ Navi_Map = {
 , 
 {"moc_fild03", "Sograt Desert", 5001, 320, 360}
 , 
-{"moc_fild04", "Sograt Desert", 5001, 400, 400}
-, 
-{"moc_fild05", "Sograt Desert", 5001, 400, 400}
-, 
-{"moc_fild06", "Sograt Desert", 5001, 400, 400}
-, 
 {"moc_fild07", "Sograt Desert", 5001, 400, 400}
-, 
-{"moc_fild08", "Sograt Desert", 5001, 400, 400}
-, 
-{"moc_fild09", "Sograt Desert", 5001, 400, 400}
-, 
-{"moc_fild10", "Sograt Desert", 5001, 400, 320}
 , 
 {"moc_fild11", "Sograt Desert", 5001, 400, 400}
 , 
 {"moc_fild12", "Sograt Desert", 5001, 320, 400}
 , 
 {"moc_fild13", "Sograt Desert", 5001, 340, 400}
-, 
-{"moc_fild14", "Sograt Desert", 5001, 400, 400}
-, 
-{"moc_fild15", "Sograt Desert", 5001, 400, 400}
 , 
 {"moc_fild16", "Sograt Desert", 5001, 400, 400}
 , 
@@ -694,8 +664,6 @@ Navi_Map = {
 , 
 {"pay_fild04", "Sograt Desert", 5001, 400, 400}
 , 
-{"pay_fild05", "Payon Forest", 5001, 300, 400}
-, 
 {"pay_fild06", "Payon Forest", 5001, 400, 400}
 , 
 {"pay_fild07", "Payon Forest", 5001, 400, 400}
@@ -705,8 +673,6 @@ Navi_Map = {
 {"pay_fild09", "Payon Forest", 5001, 400, 400}
 , 
 {"pay_fild10", "Payon Forest", 5001, 400, 400}
-, 
-{"pay_fild11", "Payon Forest", 5001, 320, 360}
 , 
 {"pay_gld", "Greenwood Lake", 5001, 400, 400}
 , 
@@ -776,8 +742,6 @@ Navi_Map = {
 , 
 {"ra_fild01", "Audhumbla Grassland", 5001, 400, 400}
 , 
-{"ra_fild02", "Od Canyon", 5001, 400, 400}
-, 
 {"ra_fild03", "The Plain of Ida", 5001, 400, 400}
 , 
 {"ra_fild04", "Audhumbla Grassland", 5001, 400, 400}
@@ -786,19 +750,11 @@ Navi_Map = {
 , 
 {"ra_fild06", "Portus Luna", 5001, 400, 400}
 , 
-{"ra_fild07", "Od Canyon", 5001, 400, 400}
-, 
 {"ra_fild08", "The Plain of Ida", 5001, 400, 400}
-, 
-{"ra_fild09", "Audhumbla Grassland", 5001, 400, 400}
-, 
-{"ra_fild10", "Od Canyon", 5001, 400, 400}
 , 
 {"ra_fild11", "The Plain of Ida", 5001, 400, 400}
 , 
 {"ra_fild12", "The Plain of Ida", 5001, 400, 400}
-, 
-{"ra_fild13", "Shore of Tears", 5001, 400, 400}
 , 
 {"ra_in01", "Inside Rachel", 5003, 400, 400}
 , 
@@ -968,8 +924,6 @@ Navi_Map = {
 , 
 {"yuno_fild04", "El Mes Plateau", 5001, 400, 400}
 , 
-{"yuno_fild05", "El Mes Plateau", 5001, 400, 400}
-, 
 {"yuno_fild06", "El Mes Plateau", 5001, 400, 400}
 , 
 {"yuno_fild07", "El Mes Gorge (Valley of Abyss)", 5001, 400, 400}
@@ -977,8 +931,6 @@ Navi_Map = {
 {"yuno_fild08", "Kiel Hyre\'s Academy", 5001, 400, 400}
 , 
 {"yuno_fild09", "Schwaltzwald Guards Camp", 5001, 400, 400}
-, 
-{"yuno_fild10", "Juno Field", 5001, 400, 400}
 , 
 {"yuno_fild11", "Juno Field", 5001, 400, 400}
 , 

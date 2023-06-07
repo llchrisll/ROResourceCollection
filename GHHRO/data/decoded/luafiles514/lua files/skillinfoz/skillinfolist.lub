@@ -2670,7 +2670,7 @@ SpAmount = {50}
 AttackRange = {1}
 }
 , 
-[SKID.ALL_PARTYFLEE] = {"ALL_PARTYFLEE"; SkillName = "Blowing Wind !!", MaxLv = 10, 
+[SKID.ALL_PARTYFLEE] = {"ALL_PARTYFLEE"; SkillName = "Here comes the Flower Wind", MaxLv = 10, 
 SpAmount = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
@@ -4571,7 +4571,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.AB_ADORAMUS] = {"AB_ADORAMUS"; SkillName = "Adoramus", MaxLv = 10, 
-SpAmount = {20, 24, 28, 32, 36, 40, 44, 48, 52, 56}
+SpAmount = {22, 28, 34, 40, 46, 52, 58, 64, 70, 76}
 , bSeperateLv = true, 
 AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 , 

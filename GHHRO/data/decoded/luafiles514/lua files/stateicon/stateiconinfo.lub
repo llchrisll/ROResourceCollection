@@ -5272,4 +5272,107 @@ descript = {
 {"Decrease HP per Attack"}
 }
 }
+-- DECOMPILER ERROR at PC10874: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Voluminous Spray of Flower", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Increase FLEE"}
+, 
+{"Increase Perfect Dodge"}
+}
+}
+-- DECOMPILER ERROR at PC10898: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CHERRY_BLOSSOM_CAKE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Cherry Blossom Rice Cake", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Decrease damage taken from Small, Medium and Large size monsters"}
+}
+}
+-- DECOMPILER ERROR at PC10921: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"Powerful force"}
+, 
+{"flows in the body."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC10944: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_DEF] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"Protected by the"}
+, 
+{"magic shield."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC10970: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_HEAL] = {haveTimeLimit = 1, posTimeLimitStr = 4, 
+descript = {
+{"Sacred magic"}
+, 
+{"maximizes the"}
+, 
+{"power of healing."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC10993: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_HIDDEN] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"Magical Defense"}
+, 
+{"energy is stacked."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC11016: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_STATE] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"All stats increase"}
+, 
+{"dramatically."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC11039: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_ITEMDEF] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"All defenses increase"}
+, 
+{"dramatically."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC11062: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_HPSP] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"Max HP and Max SP"}
+, 
+{"increase dramatically."}
+, 
+{"%s", COLOR_TIME}
+}
+}
 

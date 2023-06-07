@@ -578,7 +578,7 @@ SKILL_DESCRIPT = {
 , 
 [SKID.LK_BERSERK] = {"Frenzy", "MAX Lv: 1", "^777777Skill Requirement: Lord Knight Over Job Level 50^000000", "Skill Form: ^777777Supportive^000000", "Description: ^777777Use the power of rage to increase", "Max HP, Movement Speend and Attack Power.", "However, this skill will decrease the caster\'s", "Flee Rate and will inhibit actions including", "moving, attacking, item use or receiving support", "from healing skills. The Frenzy status will", "drain a certain amount of HP per second and", "disables natural HP and SP restoration for 5", "minutes after the Frenzy status has worn off.^000000"}
 , 
-[SKID.HP_ASSUMPTIO] = {"Assumption", "MAX Lv: 5", "^777777Skill Requirement: Angelus 1,", "Improved SP Recovery 3, Impositio Manus 3^000000", "Skill Form: ^777777Supportive^000000", "Description: ^777777Places a temporary buff on a single target", "Increase Hard Defense and Hard Magic Defense.", "Cannot be used in conjunction with the", "Kyrie Eleison and and Kaite skill.^000000", "[Lv 1]:^77777720 sec duration^000000", "[Lv 2]:^77777740 sec duration^000000", "[Lv 3]:^77777760 sec duration^000000", "[Lv 4]:^77777780 sec duration^000000", "[Lv 5]:^777777100 sec duration^000000"}
+[SKID.HP_ASSUMPTIO] = {"Assumptio", "MAX Lv: 5", "^777777Skill Requirement: Angelus 1,", "Improved SP Recovery 3, Impositio Manus 3^000000", "Skill Form: ^777777Supportive^000000", "Description: ^777777Places a temporary buff on a single target", "Increase Hard Defense and Hard Magic Defense.", "Cannot be used in conjunction with the", "Kyrie Eleison and and Kaite skill.^000000", "[Lv 1]:^77777720 sec duration^000000", "[Lv 2]:^77777740 sec duration^000000", "[Lv 3]:^77777760 sec duration^000000", "[Lv 4]:^77777780 sec duration^000000", "[Lv 5]:^777777100 sec duration^000000"}
 , 
 [SKID.HP_BASILICA] = {"Basilica", "MAX Lv: 5", "Skill Requirement: ^777777Gloria 2,", "Improved SP Recovery 1, Kyrie Eleison 4^000000", "Skill Form: ^777777Supportive^000000", "Description: ^777777Block all enemies and attacks from", "entering this skill\'s range. Ineffective against", "Boss monsters and WoE guardians.", "Basilica cannot be cast if there is an", "obstacle in the area.", "^00BB00Each cast requires 1 Holy Water, 1 Yellow", "Gemstone, 1 Blue Gemstone and 1 Red", "Gemstone.^000000", "[Lv 1]:^77777720 sec duration^000000", "[Lv 2]:^77777725 sec duration^000000", "[Lv 3]:^77777730 sec duration^000000", "[Lv 4]:^77777735 sec duration^000000", "[Lv 5]:^77777740 sec duration^000000"}
 , 
@@ -1200,7 +1200,7 @@ SKILL_DESCRIPT = {
 , 
 [SKID.ALL_CATCRY] = {"Monster\'s Cry", "Description : ^777777Can hear a cat\'s crying for kicking the mice out.^000000"}
 , 
-[SKID.ALL_PARTYFLEE] = {}
+[SKID.ALL_PARTYFLEE] = {"Here comes the Flower Wind!!", "Description: ^777777Flower^000000"}
 , 
 [SKID.ALL_ANGEL_PROTECT] = {"Thank You So Much!!"}
 , 

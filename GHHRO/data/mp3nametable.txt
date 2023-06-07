@@ -982,3 +982,6 @@ un_myst.rsw#bgm\\121.mp3#
 1@lab.rsw#bgm\\162.mp3#
 
 1@mcd.rsw#bgm\\160.mp3#
+
+//4월 13일 훈련장
+tra_fild.rsw#bgm\\08.mp3#

@@ -2640,7 +2640,7 @@ You are overburdened. Please clear some items from the inventory.#
 Vending skill failed.#
 The roulette wheel is rotating. Please try again after checking the winning items.#
 Lucky Roulette#
-Sounds an alarm when items are sold.#
+Alarm when items sold#
 Please check the charge#
 Check the user name#
 Scheduled to be removed#

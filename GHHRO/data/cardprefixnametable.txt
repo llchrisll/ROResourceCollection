@@ -554,30 +554,30 @@
 4599#Fire#
 4600#Earth#
 4601#of Explosion#
-4602#of Fury#
+4602#Rampage#
 4603#of Evil Spirit#
-4604#of Evil God#
+4604#Evil God's#
 4605#of Hunger#
 4606#of Revenge#
 4607#Librarian's#
 4556#Power Ward#
 4557#of Spell Power#
-// 2013년 2월_마신전메모리얼
+// 2013년 2월 마신전메모리얼
 4559#Blitz#
 
 4652#Punishment#
-4653#Undead_Animal#
-4654#Tomb_Raider#
-4655#Grave_Keeper#
+4653#Undead Animal#
+4654#Tomb Raider#
+4655#Grave Keeper#
 4656#Hypnotist#
 4657#Flame#
-4658#of_Sorcery#
-4625#Wise_Man's#
-4626#Echo_of#
+4658#of Sorcery#
+4625#Wise Man's#
+4626#Echo of#
 4627#Vibrating#
-4628#Invisible_Horror#
+4628#Invisible Horror#
 4629#Skinny#
-4630#Time_Keeper's#
+4630#Time Keeper's#
 4631#Nimble#
 4632#Voltaic#
 4659#Adventurer's#
@@ -595,9 +595,9 @@
 27120#Recovery#
 27121#Serrasalmus#
 27122#Tidal Wave#
-27123#Insect_Collecting#
+27123#Insect Collecting#
 27124#Hunting#
-27125#Aqua_Benedicta#
+27125#Aqua Benedicta#
 27126#Python#
 4545#Rookie#
 
@@ -751,3 +751,12 @@
 4603#Evil Spirit's#
 4605#Hungry#
 4606#Revenge#
+
+4490#Half Hasty#
+
+//5월 11일
+4535#of Half Elimination#
+
+//5월25일
+4496#of Half Infinity#
+

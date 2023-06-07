@@ -4318,8 +4318,8 @@ Description = {"You\'ve got the 4th key. It seems that a passage to the devildom
 , Summary = "Search for another seal inside the tower"}
 , 
 [7053] = {Title = "Thanatos Tower - What they want is..", 
-Description = {"When the 4th key was found, you also found Varmunt\'s journal. Maybe this journal could be the one that Rekenber was looking for! I must tell Burled about this."}
-, Summary = "Deliver Varmunt\'s journal to Burled"}
+Description = {"When the 4th key was found, you also found Varmundt\'s journal. Maybe this journal could be the one that Rekenber was looking for! I must tell Burled about this."}
+, Summary = "Deliver Varmundt\'s journal to Burled"}
 , 
 [7054] = {Title = "Myu\'s Favor - Teach them a lesson!", 
 Description = {"You\'ve got a mission to warn the Kobold Archer to protect Wild Rose\'s home."}
@@ -10766,15 +10766,15 @@ Description = {"You are on a quest from the 41~55 request board."}
 , Summary = ""}
 , 
 [12090] = {Title = "Job Change to Royal Guard", 
-Description = {"Hainrich tells you that he is looking for traces of Schmidtz and any information about the Royal Guard."}
-, Summary = "Continue the conversation with the middle-aged Gentleman, Hainrich"}
+Description = {"Heinrich tells you that he is looking for traces of Schmidt and any information about the Royal Guard."}
+, Summary = "Continue the conversation with the middle-aged Gentleman, Heinrich"}
 , 
 [12091] = {Title = "Job Change to Royal Guard", 
-Description = {"Prove your asceticism and endurance by bringing 100 Burning Hearts to Hainrich in Prontera Castle."}
+Description = {"Prove your asceticism and endurance by bringing 100 Burning Hearts to Heinrich in Prontera Castle."}
 , Summary = "Collect 100 Burning Hearts"}
 , 
 [12092] = {Title = "Job Change to Royal Guard", 
-Description = {"You\'ve collected the 100 Burning Hearts. Continue your conversation with Hainrich and listen to his story."}
+Description = {"You\'ve collected the 100 Burning Hearts. Continue your conversation with Heinrich and listen to his story."}
 , Summary = ""}
 , 
 [12093] = {Title = "Job Change to Royal Guard", 
@@ -26357,12 +26357,220 @@ Description = {"You have found GM Ghostring in Payon Field. For hints on the oth
 Description = {"You have found GM Incubus in Payon Field. For hints on the other GMs, talk to <NAVI>[CM Emi]<INFO>prontera,160,229,0,101,0</INFO></NAVI>."}
 , Summary = "You have found GM Incubus"}
 , 
-[291139] = {Title = "Try Again!", 
-Description = {"You have failed the quiz... Please try again after 10 minutes."}
-, Summary = "Try again after 10 minutes"}
+[8280] = {Title = "I don\'t look good in bells.", 
+Description = {"Get advices from Tortell, Couscous, Coco, and Ravi Ravi and go back to Olive Olive."}
+, Summary = "Talking to Dorams"}
 , 
-[291140] = {Title = "Congratulations!", 
-Description = {"You have passed the quiz! Please try again tomorrow!"}
+[8281] = {Title = "Poor thing", 
+Description = {"Tortell comforted you greatly when the bells didn\'t match."}
+, Summary = ""}
+, 
+[8282] = {Title = "Let me help you", 
+Description = {"Couscous suggested putting flowers on the bell."}
+, Summary = ""}
+, 
+[8283] = {Title = "With all one\'s wits", 
+Description = {"Coco tried to trick you once again after being bewitched by Olive Olive, but she is not a bad cat."}
+, Summary = ""}
+, 
+[8284] = {Title = "I\'m gonna put a bell on you.", 
+Description = {"If you have 10 Fluff, Ravi Ravi will find a way to match the bell on you."}
+, Summary = "Bring 10 Fluffs"}
+, 
+[8285] = {Title = "To those who face the new spring", 
+Description = {"Arles ask you to bring ^4d4dff15 Spray of Flower^000000 from ^4d4dffFlower Tree Aura^000000 near Flower Tree for students."}
+, Summary = "Bring 15 Spray of Flowers"}
+, 
+[8286] = {Title = "To those who face a new beginning", 
+Description = {"At Arles\' request, Arles\' disciples Seminy, Lysony, and Lumaca must each be delivered 5 Spray of Flowers."}
+, Summary = "Spray of Flowers Delivery"}
+, 
+[8287] = {Title = "Spray of Flowers Delivery to Seminy", 
+Description = {"Delivery to Seminy"}
+, Summary = ""}
+, 
+[8288] = {Title = "Spray of Flowers Delivery to Lysony", 
+Description = {"Delivery to Lysony"}
+, Summary = ""}
+, 
+[8289] = {Title = "Spray of Flowers Delivery to Lumaca", 
+Description = {"Delivery to Lumaca"}
+, Summary = ""}
+, 
+[291139] = {Title = "Making of SIOPAO - The Secret Ingredient", IconName = "ico_ev.bmp", 
+Description = {" <NAVI>[Meow]<INFO>prontera,156,226,0,101,0</INFO></NAVI> need some materials to make SIOPAO. Could you bring 3 Mystery Meat , 1 Organic Wheat Flour, 1 Vegetable Oil, 1 Plain Sauce , 1 Sweet Sauce for him?"}
+, Summary = "Bring materials to Meow"}
+, 
+[291140] = {Title = "Making of SIOPAO - The Secret Ingredient (Cooldown)", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Meow]<INFO>prontera,156,226,0,101,0</INFO></NAVI> is full now. Please come back tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[291141] = {Title = "Making of SIOPAO - Sweet Nyangvine (Cooldown)", IconName = "ico_ev.bmp", 
+Description = {"Bring Nyangvine Fruit to <NAVI>[Meow]<INFO>prontera,156,226,0,101,0</INFO></NAVI> again tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[291142] = {Title = "Making of SIOPAO - I Want My Pao Pao!", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Cai]<INFO>prontera,158,226,0,101,0</INFO></NAVI> is too hungry. Could you bring 1 SIOPAO for him?"}
+, Summary = "Bring SIOPAO to Cai"}
+, 
+[291143] = {Title = "Making of SIOPAO - I Want My Pao Pao! (Cooldown)", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Cai]<INFO>prontera,158,226,0,101,0</INFO></NAVI> is full now. Please come back tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[291144] = {Title = "Making of SIOPAO - Population Control", IconName = "ico_ev.bmp", 
+Description = {"Hunt 10 Les, 10 Wood Goblins and 10 Mavkas for <NAVI>[Cai]<INFO>prontera,158,226,0,101,0</INFO></NAVI>."}
+, Summary = "Hunt Moscovia monsters"}
+, 
+[291145] = {Title = "Making of SIOPAO - Population Control (Cooldown)", IconName = "ico_ev.bmp", 
+Description = {"Hunt the Moscovia monsters again tomorrow for <NAVI>[Cai]<INFO>prontera,158,226,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[291146] = {Title = "Making of SIOPAO - Juicy Carrots", IconName = "ico_ev.bmp", 
+Description = {"Bring 5 Juicy Rainbow Carrot to exchange Organic Wheat Flour with <NAVI>[Rime]<INFO>mosk_dun01,216,255,0,101,0</INFO></NAVI>."}
+, Summary = "Bring materials to Rime"}
+, 
+[291147] = {Title = "Making of SIOPAO - Juicy Carrots (Cooldown)", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Rime]<INFO>mosk_dun01,216,255,0,101,0</INFO></NAVI> are run out of Organic Wheat Flour. Please come back tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[291148] = {Title = "Making of SIOPAO - The Great Boar Hunt", IconName = "ico_ev.bmp", 
+Description = {"Hunt 10 Golden Savages for <NAVI>[Rime]<INFO>mosk_dun01,216,255,0,101,0</INFO></NAVI> to exchange for Vegetable Oil."}
+, Summary = "Hunt 10 Golden Savages"}
+, 
+[291149] = {Title = "Making of SIOPAO - The Great Boar Hunt (Cooldown)", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Rime]<INFO>mosk_dun01,216,255,0,101,0</INFO></NAVI> are run out of Vegetable Oil. Please come back tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8290] = {Title = "We blend... Melons.", 
+Description = {"You can obtain Dalcom Melons from the monster: Dalcom. <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen asked you to collect 10 Dalcom Melons."}
+, Summary = "10 Dalcom Melons"}
+, 
+[8291] = {Title = "My children love Melon Parfait.", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen asked you to deliver the Ice Box."}
+, Summary = ""}
+, 
+[8292] = {Title = "My children love Melon Parfait - Cooldown", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> asked you if you can help him again tomorrow."}
 , Summary = "Reset at 4 am"}
+, 
+[8293] = {Title = "My children love Melon Parfait.", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen asked you to deliver the Ice Box."}
+, Summary = ""}
+, 
+[8294] = {Title = "My children is busy (Payon)", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> wrote a message on the Ice Box: Dear <NAVI>[Iliya]<INFO>payon,214,123,0,101,0</INFO></NAVI> and <NAVI>[DulDumere]<INFO>payon,216,123,0,101,0</INFO></NAVI>..."}
+, Summary = "Deliver the Ice Box"}
+, 
+[8295] = {Title = "Return to Geffen.", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8296] = {Title = "My children is busy (Prontera)", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> wrote a message on the Ice Box: Dear <NAVI>[Sanza]<INFO>prontera,153,286,0,101,0</INFO></NAVI>..."}
+, Summary = "Deliver the Ice Box"}
+, 
+[8297] = {Title = "Return to Geffen.", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8298] = {Title = "My children is busy (Morocc)", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> wrote a message on the Ice Box: Dear <NAVI>[Chitree]<INFO>morocc,121,110,0,101,0</INFO></NAVI>, <NAVI>[Sita]<INFO>morocc,118,112,0,101,0</INFO></NAVI>, <NAVI>[Sesebi]<INFO>morocc,119,112,0,101,0</INFO></NAVI> and <NAVI>[Eilerr]<INFO>morocc,120,112,0,101,0</INFO></NAVI>..."}
+, Summary = "Deliver the Ice Box."}
+, 
+[8299] = {Title = "Return to Geffen.", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8300] = {Title = "My children is busy (Al De Baran)", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> wrote a message on the Ice Box: Dear <NAVI>[Farsa]<INFO>aldebaran,113,72,0,101,0</INFO></NAVI>..."}
+, Summary = "Deliver the Ice Box."}
+, 
+[8301] = {Title = "Return to Geffen.", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8302] = {Title = "My children is busy (Lighthalzen)", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> wrote a message on the Ice Box: Dear <NAVI>[Guma]<INFO>lighthalzen,179,68,0,101,0</INFO></NAVI> and <NAVI>[Yulbee]<INFO>lighthalzen,181,68,0,101,0</INFO></NAVI>..."}
+, Summary = "Deliver the Ice Box."}
+, 
+[8303] = {Title = "Return to Geffen.", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8304] = {Title = "My children is busy (Rachel)", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> wrote a message on the Ice Box: Dear <NAVI>[Eled]<INFO>rachel,133,145,0,101,0</INFO></NAVI> and <NAVI>[Jeri]<INFO>rachel,135,145,0,101,0</INFO></NAVI>..."}
+, Summary = "Deliver the Ice Box."}
+, 
+[8305] = {Title = "Return to Geffen.", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8306] = {Title = "My children is busy (Juno)", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> wrote a message on the Ice Box: Dear <NAVI>[Juny]<INFO>yuno,112,153,0,101,0</INFO></NAVI> and <NAVI>[Trez]<INFO>yuno,114,153,0,101,0</INFO></NAVI>..."}
+, Summary = "Deliver the Ice Box."}
+, 
+[8307] = {Title = "Return to Geffen.", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8308] = {Title = "My children is busy (Alberta)", 
+Description = {"<NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> wrote a message on the Ice Box: Dear <NAVI>[Vivian]<INFO>alberta,142,237,0,101,0</INFO></NAVI>, <NAVI>[Ququra]<INFO>alberta,145,237,0,101,0</INFO></NAVI> and <NAVI>[Ciseli]<INFO>alberta,143,238,0,101,0</INFO></NAVI>."}
+, Summary = "Deliver the Ice Box."}
+, 
+[8309] = {Title = "Return to Geffen.", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8310] = {Title = "Take some Parfaits", 
+Description = {"Let\'s report back to <NAVI>[Lilyou]<INFO>geffen,88,35,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Report to Lilyou."}
+, 
+[8311] = {Title = "Big Melon Contest is ongoing.", 
+Description = {"You have measured the size of the Suspicious Melon."}
+, Summary = ""}
+, 
+[8312] = {Title = "Big Melon Contest is ongoing - Cooldown", 
+Description = {"You have measured the size of the Suspicious Melon. You can try again tomorrow."}
+, Summary = "Reset at 4 am"}
+, 
+[8313] = {Title = "Do you like leatherworking?", 
+Description = {"...A leather??"}
+, Summary = ""}
+, 
+[8314] = {Title = "Thanks for collecting the leathers", 
+Description = {"...A leather???????"}
+, Summary = ""}
+, 
+[8315] = {Title = "Delivery is done (Payon)", 
+Description = {""}
+, Summary = ""}
+, 
+[8316] = {Title = "Delivery is done (Prontera)", 
+Description = {""}
+, Summary = ""}
+, 
+[8317] = {Title = "Delivery is done (Morocc)", 
+Description = {""}
+, Summary = ""}
+, 
+[8318] = {Title = "Delivery is done (Al De Baran)", 
+Description = {""}
+, Summary = ""}
+, 
+[8319] = {Title = "Delivery is done (Lighthalzen)", 
+Description = {""}
+, Summary = ""}
+, 
+[8320] = {Title = "Delivery is done (Rachel)", 
+Description = {""}
+, Summary = ""}
+, 
+[8321] = {Title = "Delivery is done (Juno)", 
+Description = {""}
+, Summary = ""}
+, 
+[8322] = {Title = "Delivery is done (Alberta)", 
+Description = {""}
+, Summary = ""}
 }
 
