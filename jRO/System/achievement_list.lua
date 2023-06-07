@@ -1146,46 +1146,6 @@ resource = {
 reward = {title = 2104}
 , score = 1}
 , 
-[500108] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索③」", 
-content = {summary = "宝箱の開封数が規定数以上", details = "「遺跡群探索」にて宝箱の開封回数が20個を超えた後、「廃亡遺跡群【醒覚ヘオース】」の座標(54,71)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2105}
-, score = 1}
-, 
-[500109] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索④」", 
-content = {summary = "宝箱の開封失敗数が規定数以上", details = "「遺跡群探索」にて宝箱の開封回数で失敗回数が　　　 5個を超えた後、「廃亡遺跡群【醒覚ヘオース】」の 座標(54,71)にいるNPC「記録官」に話しかけて　　　　 「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2106}
-, score = 1}
-, 
-[500110] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索⑤」", 
-content = {summary = "シュミッツヘルム仮面を規定数以上利用", details = "「遺跡群探索」にて「シュミッツヘルム仮面」の　　　 利用回数が15回を超えた後、　　　　　　　　　　　 「廃亡遺跡群【醒覚ヘオース】」の座標(54,71)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2107}
-, score = 1}
-, 
-[500111] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索⑥」", 
-content = {summary = "ハードラックと規定数以上遭遇", details = "「遺跡群探索」にて「ハードラック」との遭遇回数が　 13回を超えた後、「廃亡遺跡群【醒覚ヘオース】」の 座標(54,71)にいるNPC「記録官」に話しかけて　　　　 「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2108}
-, score = 1}
-, 
 [500112] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索(特別)」", 
 content = {summary = "ヒットクイーン宝箱を討伐する", details = "廃亡遺跡群に出現する「ヒットクイーン宝箱」を　　　 1体討伐する"}
 , 
@@ -1596,56 +1556,6 @@ resource = {
 }
 , 
 reward = {title = 2156}
-, score = 1}
-, 
-[500160] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ③」", 
-content = {summary = "ツールを規定回数購入する", details = "「廃亡遺跡群Lv.2」にてツールを「15」回購入した後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2157}
-, score = 1}
-, 
-[500161] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ④」", 
-content = {summary = "スロットを規定回数回す", details = "「廃亡遺跡群Lv.2」にてスロットを「10」回回した後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2158}
-, score = 1}
-, 
-[500162] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ⑤」", 
-content = {summary = "「穢れ」を規定回数引き受ける", details = "「廃亡遺跡群Lv.2」にて「穢れ」を 「10」回引き受けた後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2159}
-, score = 1}
-, 
-[500163] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ⑥」", 
-content = {summary = "「落とし穴」に規定回数落ちる", details = "「廃亡遺跡群Lv.2」にて「落とし穴」に 「5」回落ちた後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2160}
-, score = 1}
-, 
-[500164] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ⑦」", 
-content = {summary = "「監獄」を規定回数クリア", details = "「廃亡遺跡群Lv.2」にて「監獄」を「3」回突破した後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う"}
-, 
-resource = {
-[1] = {text = ""}
-}
-, 
-reward = {title = 2161}
 , score = 1}
 , 
 [500165] = {UI_Type = 1, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2(特別)」", 
@@ -2156,6 +2066,326 @@ resource = {
 }
 , 
 reward = {title = 2212}
+, score = 1}
+, 
+[500216] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 ①」", 
+content = {summary = "ゴールのフロアに到達する", details = "「廃亡遺跡群Lv.3」にてゴールのフロアに達した後、 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2213}
+, score = 1}
+, 
+[500217] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 ②」", 
+content = {summary = "最大到達フロアが規定数以上", details = "「廃亡遺跡群Lv.3」にて最大到達フロアが 「200」を超えた後、 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2214}
+, score = 1}
+, 
+[500218] = {UI_Type = 1, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3(特別)」", 
+content = {summary = "ヒットクイーン宝箱Lv.3を討伐する", details = "「廃亡遺跡群Lv.3」に出現する　　　　 「ヒットクイーン宝箱Lv.3」を1体討伐する"}
+, 
+resource = {
+[1] = {text = "「ヒットクイーン宝箱Lv.3」討伐", count = 1}
+}
+, 
+reward = {title = 2215}
+, score = 1}
+, 
+[500219] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者RK」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2216}
+, score = 1}
+, 
+[500220] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者RG」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2217}
+, score = 1}
+, 
+[500221] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者MN」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2218}
+, score = 1}
+, 
+[500222] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者GN」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2219}
+, score = 1}
+, 
+[500223] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者WL」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2220}
+, score = 1}
+, 
+[500224] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SO」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2221}
+, score = 1}
+, 
+[500225] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者RA」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2222}
+, score = 1}
+, 
+[500226] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者MI」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2223}
+, score = 1}
+, 
+[500227] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者WA」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2224}
+, score = 1}
+, 
+[500228] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者GC」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2225}
+, score = 1}
+, 
+[500229] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SC」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2226}
+, score = 1}
+, 
+[500230] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者AB」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2227}
+, score = 1}
+, 
+[500231] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SR」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2228}
+, score = 1}
+, 
+[500232] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SE」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2229}
+, score = 1}
+, 
+[500233] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SP」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2230}
+, score = 1}
+, 
+[500234] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者KA」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2231}
+, score = 1}
+, 
+[500235] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者OB」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2232}
+, score = 1}
+, 
+[500236] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者RL」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2233}
+, score = 1}
+, 
+[500237] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SN」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2234}
+, score = 1}
+, 
+[500238] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者DO」", 
+content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2235}
+, score = 1}
+, 
+[500108] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索③」", 
+content = {summary = "宝箱の開封数が規定数以上", details = "「遺跡群探索」にて宝箱の開封回数が20個を超えた後、「廃亡遺跡群【醒覚ヘオース】」の座標(54,71)にいる NPC「記録官」に話しかけて「称号の確認」を行う ※Lv.1以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2105}
+, score = 1}
+, 
+[500109] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索④」", 
+content = {summary = "宝箱の開封失敗数が規定数以上", details = "「遺跡群探索」にて宝箱の開封回数で失敗回数が　　　 5個を超えた後、「廃亡遺跡群【醒覚ヘオース】」の 座標(54,71)にいるNPC「記録官」に話しかけて　　　　 「称号の確認」を行う ※Lv.1以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2106}
+, score = 1}
+, 
+[500110] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索⑤」", 
+content = {summary = "シュミッツヘルム仮面を規定数以上利用", details = "「遺跡群探索」にて「シュミッツヘルム仮面」の　　　 利用回数が15回を超えた後、　　　　　　　　　　　 「廃亡遺跡群【醒覚ヘオース】」の座標(54,71)にいる NPC「記録官」に話しかけて「称号の確認」を行う ※Lv.1以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2107}
+, score = 1}
+, 
+[500111] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群探索⑥」", 
+content = {summary = "ハードラックと規定数以上遭遇", details = "「遺跡群探索」にて「ハードラック」との遭遇回数が　 13回を超えた後、「廃亡遺跡群【醒覚ヘオース】」の 座標(54,71)にいるNPC「記録官」に話しかけて　　　　 「称号の確認」を行う ※Lv.1以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2108}
+, score = 1}
+, 
+[500160] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ③」", 
+content = {summary = "ツールを規定回数購入する", details = "「廃亡遺跡群Lv.2」にてツールを「15」回購入した後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う ※Lv.2以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2157}
+, score = 1}
+, 
+[500161] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ④」", 
+content = {summary = "スロットを規定回数回す", details = "「廃亡遺跡群Lv.2」にてスロットを「10」回回した後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う ※Lv.2以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2158}
+, score = 1}
+, 
+[500162] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ⑤」", 
+content = {summary = "「穢れ」を規定回数引き受ける", details = "「廃亡遺跡群Lv.2」にて「穢れ」を 「10」回引き受けた後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う ※Lv.2以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2159}
+, score = 1}
+, 
+[500163] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ⑥」", 
+content = {summary = "「落とし穴」に規定回数落ちる", details = "「廃亡遺跡群Lv.2」にて「落とし穴」に 「5」回落ちた後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う ※Lv.2以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2160}
+, score = 1}
+, 
+[500164] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.2 ⑦」", 
+content = {summary = "「監獄」を規定回数クリア", details = "「廃亡遺跡群Lv.2」にて「監獄」を「3」回突破した後、 「廃亡遺跡群Lv.2【淵源門】」の座標(39,88)にいる NPC「記録官」に話しかけて「称号の確認」を行う ※Lv.2以外の遺跡群でも回数はカウントされます"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2161}
 , score = 1}
 }
 main = function()

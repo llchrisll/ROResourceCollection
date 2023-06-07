@@ -8580,6 +8580,50 @@ MonsterEff = {EFFECT.EF_REDLIGHTBODY}
 [21257] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_REDLIGHTBODY}
 }
+, 
+[23063] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23064] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23065] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23066] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23067] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23068] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23069] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23070] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23071] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23072] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23073] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
 }
 main = function()
   -- function num : 0_0

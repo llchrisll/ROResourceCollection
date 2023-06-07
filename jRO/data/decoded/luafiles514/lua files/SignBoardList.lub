@@ -614,7 +614,11 @@ SignBoardList = {
 , 
 {"ref_room02", 22, 40, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫 【50Zeny】 ", "255,255,255"}
 , 
-{"tra_hall", 55, 169, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
+{"tra_hall", 116, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
+, 
+{"tra_hall", 114, 170, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
+, 
+{"tra_hall", 46, 98, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
 , 
 {"ac_cl_area", 41, 145, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
 , 
@@ -1766,6 +1770,48 @@ SignBoardList = {
 , 
 {"rachel", 106, 144, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  転送", "255,255,255"}
 , 
+{"geffen_in", 82, 61, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲフェン夜間闘技場", "255,255,255"}
+, 
+{"geffen_in", 74, 74, 6, IT_SIGNBOARD, "signboard\\MD_Geffen_Coin.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"geffen_in", 83, 72, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  エンチャント", "255,255,255"}
+, 
+{"dali02", 79, 60, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ゲフェン夜間闘技場", "255,255,255"}
+, 
+{"dali02", 132, 78, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  飛行船墜落地", "255,255,255"}
+, 
+{"dali02", 128, 87, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  エンチャント", "255,255,255"}
+, 
+{"dali02", 128, 78, 6, IT_SIGNBOARD, "signboard\\MD_Airboat_Tokken.bmp", "  アイテム交換", "255,255,255"}
+, 
+{"pub_cat", 88, 34, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  廃棄実験所アミシティア", "255,255,255"}
+, 
+{"ein_fild08", 158, 96, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  廃棄実験所アミシティア", "255,255,255"}
+, 
+{"dali02", 102, 94, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫", "255,255,255"}
+, 
+{"izlude", 167, 136, 6, IT_SIGNBOARD, "signboard\\over_card.bmp", "  カード消去", "255,255,255"}
+, 
+{"apr_rui3_s", 63, 82, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  探索開始", "255,255,255"}
+, 
+{"apr_rui3_s", 54, 70, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  探索の記録と称号", "255,255,255"}
+, 
+{"apr_rui3_s", 70, 79, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  遺跡群の報酬", "255,255,255"}
+, 
+{"apr_rui3_s", 63, 43, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  遺跡群の出口", "255,255,255"}
+, 
+{"apr_rui3_s", 54, 53, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_rui3_s", 55, 76, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  遺跡群の各種説明", "255,255,255"}
+, 
+{"apr_rui3_s", 73, 74, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  従者の斡旋", "255,255,255"}
+, 
+{"apr_rui3_g", 183, 290, 12, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  Lv.3 ゴール!!", "255,255,255"}
+, 
+{"apr_rui3_g", 188, 272, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  最後の転職", "255,255,255"}
+, 
+{"apr_rui3_s", 70, 52, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  暗号解読", "255,255,255"}
+, 
 {"lby_in", 52, 92, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  夢幻の迷宮", "255,255,255"}
 , 
 {"lby_in", 44, 80, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  討伐依頼", "255,255,255"}
@@ -2109,7 +2155,5 @@ SignBoardList = {
 {"ac_cl_room", 49, 32, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
 , 
 {"lasagna", 314, 237, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
-, 
-{"prontera", 98, 63, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  リハルト家の挑戦状", "255,255,255"}
 }
 

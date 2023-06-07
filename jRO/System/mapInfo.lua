@@ -179,6 +179,206 @@ signName = {subTitle = "‘å—i”ª”’j", mainTitle = "—ƒ_ƒ“ƒWƒ‡ƒ“"}
 ["march_12.rsw"] = {displayName = "‘å—i‹ã‡j", notifyEnter = true, 
 signName = {subTitle = "‘å—i‹ã‡j", mainTitle = "—ƒ_ƒ“ƒWƒ‡ƒ“"}
 , backgroundBmp = "noname_s2"}
+, 
+["gef_fild14.rsw"] = {displayName = "ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 14iƒI[ƒN¼‚Ì‘ºj", notifyEnter = true, 
+signName = {subTitle = "ŒZ‹M‘º‚±‚Æ", mainTitle = "ƒI[ƒN¼‚Ì‘º"}
+, backgroundBmp = "field"}
+, 
+["apr_main1.rsw"] = {displayName = "‹v‰“‚ÌƒOƒ‰ƒXƒgƒwƒCƒ€", notifyEnter = true, 
+signName = {mainTitle = "‹v‰“‚ÌƒOƒ‰ƒXƒgƒwƒCƒ€"}
+, backgroundBmp = "village_s2"}
+, 
+["apr_forge1.rsw"] = {displayName = "Œ«Ò‚ÌƒAƒgƒŠƒG", notifyEnter = true, 
+signName = {mainTitle = "Œ«Ò‚ÌƒAƒgƒŠƒG"}
+, backgroundBmp = "village_s2"}
+, 
+["apr_forge2.rsw"] = {displayName = "Œ«Ò‚ÌƒAƒgƒŠƒG", notifyEnter = true, 
+signName = {mainTitle = "Œ«Ò‚ÌƒAƒgƒŠƒG"}
+, backgroundBmp = "village_s2"}
+, 
+["apr_forge3.rsw"] = {displayName = "Œ«Ò‚ÌƒAƒgƒŠƒG", notifyEnter = true, 
+signName = {mainTitle = "Œ«Ò‚ÌƒAƒgƒŠƒG"}
+, backgroundBmp = "village_s2"}
+, 
+["apr_forge4.rsw"] = {displayName = "Œ«Ò‚ÌƒAƒgƒŠƒG", notifyEnter = true, 
+signName = {mainTitle = "Œ«Ò‚ÌƒAƒgƒŠƒG"}
+, backgroundBmp = "village_s2"}
+, 
+["apr_forge5.rsw"] = {displayName = "Œ«Ò‚ÌƒAƒgƒŠƒG", notifyEnter = true, 
+signName = {mainTitle = "Œ«Ò‚ÌƒAƒgƒŠƒG"}
+, backgroundBmp = "village_s2"}
+, 
+["apr_ruins_s.rsw"] = {displayName = "”p–SˆâÕŒQyÁŠoƒwƒI[ƒXz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "ÁŠoƒwƒI[ƒX"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_ruins_g.rsw"] = {displayName = "”p–SˆâÕŒQy¨“|ƒjƒ…ƒNƒXz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "¨“|ƒjƒ…ƒNƒX"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_ruins1.rsw"] = {displayName = "”p–SˆâÕŒQy–åoƒfƒtƒe[ƒ‰z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "–åoƒfƒtƒe[ƒ‰"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_ruins2.rsw"] = {displayName = "”p–SˆâÕŒQyŠøs—ñƒgƒDƒŠ[ƒeƒBz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "Šøs—ñƒgƒDƒŠ[ƒeƒB"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_ruins3.rsw"] = {displayName = "”p–SˆâÕŒQy‘O£ƒeƒ^[ƒ‹ƒeƒBz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "‘O£ƒeƒ^[ƒ‹ƒeƒB"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_ruins4.rsw"] = {displayName = "”p–SˆâÕŒQyæ‰sƒyƒ“ƒvƒeƒBz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "æ‰sƒyƒ“ƒvƒeƒB"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_ruins5.rsw"] = {displayName = "”p–SˆâÕŒQy—Y”òƒpƒ‰ƒXƒPƒ”ƒBz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "—Y”òƒpƒ‰ƒXƒPƒ”ƒB"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_ruins6.rsw"] = {displayName = "”p–SˆâÕŒQyc‘–ƒT[ƒ”ƒ@ƒgz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "c‘–ƒT[ƒ”ƒ@ƒg"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_ruins7.rsw"] = {displayName = "”p–SˆâÕŒQyŒƒ“¬ƒLƒŠƒAƒLz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQ", mainTitle = "Œƒ“¬ƒLƒŠƒAƒL"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_s.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y•£Œ¹–åz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "•£Œ¹–å"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_g.rsw"] = {displayName = "”p–SˆâÕŒQLv.2yˆö‰Ê‹É’vz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "ˆö‰Ê‹É’v"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_vault_1.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y•ó•¨ŒÉz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "•ó•¨ŒÉ"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_jail_1.rsw"] = {displayName = "”p–SˆâÕŒQLv.2yŠÄ–z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "ŠÄ–"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_1.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ1‘w@‘•‹ï“_ŒŸz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ1‘w@‘•‹ï“_ŒŸ"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_2.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ2‘w@âqgŒ–ŒÄz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ2‘w@âqgŒ–ŒÄ"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_3.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ3‘w@úE‘½“ïz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ3‘w@úE‘½“ï"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_4.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ4‘w@é±é²æëç»z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ4‘w@é±é²æëç»"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_5.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ5‘w@•S‹S–ész", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ5‘w@•S‹S–és"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_6.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ6‘w@ˆºà£“qêz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ6‘w@ˆºà£“qê"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_7.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ6‘w@ˆºà£“qêz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ6‘w@ˆºà£“qê"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_8.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ7‘w@Œ¶‰ös’ëz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ7‘w@Œ¶‰ös’ë"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_9.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ8‘w@—HˆÃ–²—Vz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ8‘w@—HˆÃ–²—V"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_10.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ9‘w@–œ—¢‘–”jz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ9‘w@–œ—¢‘–”j"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_11.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ10‘w@‹YŒ¾—V‹Yz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ10‘w@‹YŒ¾—V‹Y"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_12.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ10‘w@‹YŒ¾—V‹Yz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ10‘w@‹YŒ¾—V‹Y"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_13.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ11‘w@“ïs‰Õ—óz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ11‘w@“ïs‰Õ—ó"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui2_14.rsw"] = {displayName = "”p–SˆâÕŒQLv.2y‘æ11‘w@“ïs‰Õ—óz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.2", mainTitle = "‘æ11‘w@“ïs‰Õ—ó"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_s.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‚Í‚¶‚Ü‚è‚Íğêz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‚Í‚¶‚Ü‚è‚Íğê"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_g.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‚Â‚Ş‚ª‚ê‚½“`àz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‚Â‚Ş‚ª‚ê‚½“`à"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_vault_2.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y•ó•¨ŒÉz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "•ó•¨ŒÉ"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_jail_2.rsw"] = {displayName = "”p–SˆâÕŒQLv.3yŠÄ–z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "ŠÄ–"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_1.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ1–‹@“`à‚Ì–‹ŠJ‚¯z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ1–‹@“`à‚Ì–‹ŠJ‚¯"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_2.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ2–‹@•ö—‚µ‚½’n‰º“¹z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ2–‹@•ö—‚µ‚½’n‰º“¹"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_3.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ3–‹@—‚ê‚µ‹·ŠÔz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ3–‹@—‚ê‚µ‹·ŠÔ"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_4.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ4–‹@ô‚í‚ê‚½‘ºz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ4–‹@ô‚í‚ê‚½‘º"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_5.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ5–‹@á¿ò‚ÌXz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ5–‹@á¿ò‚ÌX"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_6.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ6–‹@“V‚É‹w‚È‚·–‚“ƒz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ6–‹@“V‚É‹w‚È‚·–‚“ƒ"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_7.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ7–‹@ˆÙ‘‚ÌƒoƒU[ƒ‹z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ7–‹@ˆÙ‘‚ÌƒoƒU[ƒ‹"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_8.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ8–‹@á‹C–‚¿‚éXz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ8–‹@á‹C–‚¿‚éX"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_9.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ9–‹@_“a‚Ö‚Ì“¹z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ9–‹@_“a‚Ö‚Ì“¹"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_10.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ10–‹@–Y‚ê‚ç‚ê‚½_“az", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ10–‹@–Y‚ê‚ç‚ê‚½_“a"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_rui3_11.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y‘æ11–‹@–œ–‚‚Ìéz", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "‘æ11–‹@–œ–‚‚Ìé"}
+, backgroundBmp = "dungeon"}
+, 
+["apr_sanc_2.rsw"] = {displayName = "”p–SˆâÕŒQLv.3y“]E›‰@ƒ_ƒ“ƒ}z", notifyEnter = true, 
+signName = {subTitle = "”p–SˆâÕŒQLv.3", mainTitle = "“]E›‰@ƒ_ƒ“ƒ}"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0

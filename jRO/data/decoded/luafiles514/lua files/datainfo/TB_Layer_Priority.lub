@@ -1164,6 +1164,30 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Eternal_Rose] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bird_Cage_Candle_Hold] = {Default = 140, 
+Direction = {[0] = 410, [1] = 410, [2] = 410, [6] = 410, [7] = 410}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl_WH] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Rebel_Pocket_Watch] = {Default = 200, 
+Direction = {[0] = 410, [1] = 410, [2] = 410, [6] = 410, [7] = 410}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tiger_WH] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cookie_PinkRibbon] = {Default = 140, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Skia_Two_Side_Up] = {Default = 150, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

@@ -1222,6 +1222,24 @@ TargetItems = {
 {"Wild_Beast", 400409}
 }
 , NeedSource_String = "エンハンスキューブ(グレイウルフ)"}
+, 
+GrayWolf_7_Ticket2_JP = {ItemID = 102294, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Gray_W_Suits", 450177}
+, 
+{"Gray_W_Robe", 450178}
+, 
+{"Gray_W_Boots", 470087}
+, 
+{"Gray_W_Shoes", 470088}
+, 
+{"Gray_W_Muffler", 480090}
+, 
+{"Gray_W_Manteau", 480091}
+, 
+{"Wild_Beast", 400409}
+}
+, NeedSource_String = "エンハンスキューブII(グレイウルフ)"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0
