@@ -1159,3 +1159,27 @@ gl_cas01_.rsw#bgm\\43.mp3#
 star_frst.rsw#bgm\\14.mp3#
 star_in.rsw#bgm\\14.mp3#
 1@soul.rsw#bgm\\40.mp3#
+
+// 200 레벨확장 컨텐츠
+odin_past.rsw#bgm\\10.mp3#
+abyss_04.rsw#bgm\\100.mp3#
+ein_dun03.rsw#bgm\\88.mp3#
+
+// 에피소드 17.2 현자의 유산
+ba_maison.rsw#bgm\\177.mp3#
+ba_in01.rsw#bgm\\177.mp3#
+ba_pw01.rsw#bgm\\181.mp3#
+ba_pw03.rsw#bgm\\181.mp3#
+ba_pw02.rsw#bgm\\181.mp3#
+ba_bath.rsw#bgm\\179.mp3#
+ba_2whs01.rsw#bgm\\181.mp3#
+ba_2whs02.rsw#bgm\\181.mp3#
+ba_lost.rsw#bgm\\179.mp3#
+ba_lib.rsw#bgm\\180.mp3#
+ba_go.rsw#bgm\\180.mp3#
+ba_chess.rsw#bgm\\180.mp3#
+1@lost.rsw#bgm\\179.mp3#
+1@herbs.rsw#bgm\\178.mp3#
+1@ghg.rsw#bgm\\179.mp3#
+1@bamn.rsw#bgm\\177.mp3#
+1@bamq.rsw#bgm\\177.mp3#

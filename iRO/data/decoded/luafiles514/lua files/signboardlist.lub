@@ -1,0 +1,19 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\signboardlist.lub 
+
+-- params : ...
+-- function num : 0
+IT_NONE = 0
+IT_BMP = 1
+IT_SPRITE = 2
+IT_SIGNBOARD = 3
+SignBoardList = {
+{"Default", 157, 278, 0, IT_BMP, "collection\\²É°¡Áö.bmp", "Nothing Typed", "#0x009EBDFF"}
+, 
+{"ein_dun02", 16, 250, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  Prohibition of welfare under 180Lv", "#0x00FFFFFF"}
+, 
+{"odin_tem03", 276, 236, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  Prohibition of welfare under 180Lv", "#0x00FFFFFF"}
+, 
+{"abyss_03", 91, 110, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  Prohibition of welfare under 190Lv", "#0x00FFFFFF"}
+}
+

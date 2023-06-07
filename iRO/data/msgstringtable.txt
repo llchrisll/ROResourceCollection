@@ -2794,7 +2794,7 @@ Trade window X#
 Auction X#
 Guild storage X#
 To sell item to NPC X#
-There is a restriction on movement#
+Movement restriction item#
 Please create a character.#
 You need to disarm the equipped projectiles.#
 You cannot enter the memorial dungeon due to excessive number of people.#
@@ -3635,7 +3635,7 @@ There is no magic memorized using Reading Spellbook.#
 You are a character who has not acquired basic skill.#
 #
 #
-#
+Import#
 #
 #
 #

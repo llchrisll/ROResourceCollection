@@ -5,26 +5,34 @@
 -- function num : 0
 RecommendedQuestInfoList = {}
 RecommendedQuestInfoList = {
-[1] = {Title = "Welcome to Ragnarok World!", IconName = "ico_gq.bmp", Summary = "Cheer up!! Beginners!!", NpcSpr = "4_F_01", NpcNavi = "iz_ac01", NpcPosX = 102, NpcPosY = 44, BgName = "reco_01.bmp", 
-QuestInfo1 = {"Welcome Novice!", "Kritura Academy is giving you a lot of information to help you with your adventures! If you haven\'t visited Kritura Academy yet, be sure to visit and receive useful information and supplies."}
+[1] = {Title = "Welcome to the world of Ragnarok!", IconName = "ico_gq.bmp", Summary = "We\'re rooting for you, new adventurers!", NpcSpr = "4_F_01", NpcNavi = "iz_ac01", NpcPosX = 102, NpcPosY = 44, BgName = "reco_01.bmp", 
+QuestInfo1 = {"Welcome!", "Criatura Academy teaches new adventurers various information to help them in their adventures. If you are a new adventurer and haven\'t visited Criatura Academy yet, be sure to visit the place and get helpful information and free items."}
 , 
-QuestInfo2 = {"W*E*L*C*O*M*E NOVI$!!", "Free%%Support%%B@ng!!B@ng!!", "&*Quick Job Change*& OK!!"}
+QuestInfo2 = {"Welcome! $$Novices$$", "Plenty of support for new adventurers!!", "&*Job Change*& consultation provided!!"}
 , 
-QuestInfo3 = {"^ff0000¡Ø This page is an update introduction, not a quest. Please note that it won\'t be deleted even after completing the quest.^000000"}
+QuestInfo3 = {"^ff0000¡Ø This page is not the actual Quest page but an introduction for it. It won\'t be deleted, even if you complete the quest.^000000"}
+}
+, 
+[3] = {Title = "Episode 17.2 Sage\'s Legacy", IconName = "ico_ep.bmp", Summary = "I must not fall behind...", NpcSpr = "4_M_ROOKIE", NpcNavi = "sp_cor", NpcPosX = 255, NpcPosY = 285, BgName = "reco_03.bmp", 
+QuestInfo1 = {"The sewer pipe at a corner of Special Security Area, Cor has finally been opened.", "The Rebellion and the members go into the sewer pipe in order to track Illusion."}
+, 
+QuestInfo2 = {"Prerequisites", "Complete Episode ^99000017.1^000000", "^990000Level 130 or above^000000"}
+, 
+QuestInfo3 = {"^ff0000¡Ø This page is not the actual Quest page but an introduction for it. It won\'t be deleted, even if you complete the quest.^000000"}
+}
+, 
+[5] = {Title = "Level Expansion for Expanded Classes!", IconName = "ico_sc.bmp", Summary = "Break!Your!Limit!BANG!", BgName = "reco_05.bmp", 
+QuestInfo1 = {"Hi¡Ù", "Nice to meet you! ^950a0aI\'m a cute little magical girl who came from the magic land to unfreeze the Levels of Expanded Classes!^000000", "Now¡Ù It\'s time to ¢ÐLEVEL UP¢Ñ again¢¿!"}
+, 
+QuestInfo2 = {"^eb1842PRETTY--->.<---LEVEL UP¡Ù^000000", "Base¢½Lv: ^950a0a185^000000", "Job¢¾Lv:  ^950a0a65^000000"}
+, 
+QuestInfo3 = {"^3f3199Cheers to Rebellion/Kagerou/Oboro/Star Emperor/Soul Reaper/Super Novice/Doram friends!^000000"}
 }
 , 
 [2] = {Title = "Star Emperor Job Change", IconName = "ico_jq.bmp", Summary = "The Sun, the moon, and... the stars", BgName = "reco_02.bmp", 
 QuestInfo1 = {"The one who sees through the universe!", "The Star Emperor class is now available in game.", "Talk to the <NAVI>[Man in Star Emperor Uniform]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI>. Ask him how to get to the Meteor Forest and listen to his story about the Star Emperors. Learn about the powers of the sun, the moon, and the stars, and feel the power of the universe."}
 , 
 QuestInfo2 = {"Job Change Conditions", "Taekwon Master", "Lv. 99/JLv. 50"}
-, 
-QuestInfo3 = {"^ff0000¡Ø This page is not the actual Quest page but an introduction to it. It won\'t be deleted, even if you complete the quest.^000000"}
-}
-, 
-[3] = {Title = "Soul Reaper Job Change", IconName = "ico_jq.bmp", Summary = "The one who harvests souls", BgName = "reco_03.bmp", 
-QuestInfo1 = {"The Soul Reaper class is now available in game.", "Meet the <NAVI>troubled [Banyak]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI>. Help him solve his problems and walk the path of the Soul Reaper.", "Not everyone can harvest souls."}
-, 
-QuestInfo2 = {"Job Change Conditions", "Soul Linker", "Lv. 99/JLv. 50"}
 , 
 QuestInfo3 = {"^ff0000¡Ø This page is not the actual Quest page but an introduction to it. It won\'t be deleted, even if you complete the quest.^000000"}
 }

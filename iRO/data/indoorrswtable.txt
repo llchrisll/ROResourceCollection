@@ -209,3 +209,6 @@ star_in.rsw#
 // 낙원단 실내
 moc_para01.rsw#
 moc_paraup.rsw#
+
+//20190227 EP17.2 1차 바르문트 실내
+ba_in01.rsw#

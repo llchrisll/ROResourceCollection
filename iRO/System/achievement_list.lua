@@ -3549,6 +3549,26 @@ resource = {
 , 
 reward = {title = 9979}
 , score = 5}
+, 
+[200035] = {UI_Type = 0, group = "GOAL_LEVEL", major = 1, minor = 0, title = "Level 200!", 
+content = {summary = "Achieved Base Lv. 200!", details = "Achieve Base Lv. 200."}
+, 
+resource = {
+[1] = {text = "Base Lv. 200"}
+}
+, 
+reward = {buff = 10, item = 400124}
+, score = 100}
+, 
+[130005] = {UI_Type = 0, group = "CHATTING", major = 4, minor = 0, title = "King Maker", 
+content = {summary = "The king I crowned myself", details = "Regain the glory of Terra Gloria and crown the one who was at the vanguard."}
+, 
+resource = {
+[1] = {text = "Participate in the coronation of the new king of Rune-Midgarts Kingdom."}
+}
+, 
+reward = {title = 1046}
+, score = 10}
 }
 main = function()
   -- function num : 0_0

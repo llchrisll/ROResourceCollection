@@ -270,6 +270,7 @@ p_track02.rsw#Monster Race Arena#
 odin_tem01.rsw#Odin Shirine#
 odin_tem02.rsw#Odin Shirine#
 odin_tem03.rsw#Odin Shirine#
+odin_past.rsw#Ancient Odin's Temple#
 hu_fild02.rsw#Hugel Field#
 hu_fild03.rsw#Hugel Field#
 hu_fild06.rsw#Hugel Field#
@@ -291,6 +292,7 @@ que_job01.rsw#Private Pub#
 abyss_01.rsw#Abyss Lake Underground Cave#
 abyss_02.rsw#Abyss Lake Underground Cave#
 abyss_03.rsw#Abyss Lake Underground Cave#
+abyss_04.rsw#Abyss Lake Underground Cave#
 tha_t01.rsw#Thanatos Tower - Lower Level#
 tha_t02.rsw#Thanatos Tower - Lower Level#
 tha_t03.rsw#Thanatos Tower - Lower Level#
@@ -341,6 +343,7 @@ lhz_fild03.rsw#Lighthalzen Field#
 lhz_fild02.rsw#Lighthalzen Field (Grim Reaper's Valley)#
 ein_fild04.rsw#Einbroch Field#
 ein_fild03.rsw#Einbroch Field#
+ein_dun03.rsw#Mine Dungeon#
 ein_dun02.rsw#Mine Dungeon#
 ein_dun01.rsw#Mine Dungeon#
 ein_fild10.rsw#Einbroch Field#
@@ -1014,3 +1017,22 @@ star_frst.rsw#Meteor Forest#
 star_in.rsw#Meteor Forest indoor#
 //고성 상급 메모리얼던전
 1@soul.rsw#Passage Of Soul#
+
+//Episode 17.2 Sage's Legacy
+ba_maison.rsw#Barmund Mansion Garden#
+ba_in01.rsw#Inside Barmund Mansion#
+ba_pw01.rsw#Magic Power Plant 1#
+ba_pw03.rsw#Magic Power Plant 2#
+ba_pw02.rsw#Sewage Treatment Plant#
+ba_bath.rsw#Large Meditatio Bath#
+ba_2whs01.rsw#Tartaros Storage Upper Floor#
+ba_2whs02.rsw#Tartaros Storage Lower Floor#
+ba_lost.rsw#Farm Lost Valley#
+ba_lib.rsw#Library Hall of Memories#
+ba_go.rsw#Palm Line Battlefield#
+ba_chess.rsw#Checkmate#
+1@lost.rsw#Farm Forgotten in Time#
+1@herbs.rsw#Hidden Flower Garden#
+1@ghg.rsw#Ortus Aqua#
+1@bamn.rsw#Garden at Dusk#
+1@bamq.rsw#Airship Depot#

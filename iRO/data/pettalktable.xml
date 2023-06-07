@@ -4977,170 +4977,6 @@
 		<perfor_3> Let's relax over here. Take a seat! </perfor_3>
 		<perfor_s> No performance </perfor_s>
 	</so_full>
-		<event_ricecake>			
-			<hungry>			
-				<feeding>Gulu Gulu!</feeding>		
-				<feeding>I am so hungry I feel that I am becoming a flat rice cake now!</feeding>			
-				<feeding>I'm going to eat my own flesh if you're one more minute late!</feeding>			
-				<hunting>Do you think we can find something edible after defeating him?</hunting>			
-				<hunting>What's the color of the herb that you're carrying?!</hunting>			
-				<hunting>I must be too hungry to think that it's green in color</hunting>			
-				<danger>That's because you didn't give me the herbs.</danger>			
-				<danger>That rod looks like a white biscuit.</danger>			
-				<dead>Oh, master! You're dead now too...</dead>			
-				<dead>I miss my herbs...</dead>				
-				<dead>I wish I will be reincarnated as herb in my next life.</dead>			
-				<stand>Are you trying to turn me into a ricecake?</stand>			
-				<stand>I hate ricecake. You should give me more herbs...</stand>			
-				<stand>You shouldn't mingle that much with others!</stand>			
-				<stand>Is that the herb that I think it is?</stand>			
-				<connect>How dare of you to visit me after so long?</connect>			
-				<connect>I am freezing...</connect>			
-				<connect>Do you bring along any herbs</connect>			
-				<levelup>Why don't you gather some herbs before the angel appears?</levelup>			
-				<levelup>Is it time for me to have my herbs now?</levelup>			
-				<perfor_1>Oh... If I still can't become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</hungry>			
-				<bit_hungry>	</hungry>		
-				<feeding>Gulu Gulu!</feeding>			
-				<feeding>I'm so hungry I'm going to become a flat ricecake now.</feeding>	<bit_hungry>		
-				<feeding>Will I become a herb cake if I eat so many of these?</feeding>			
-				<feeding>I was thinking maybe we can take honey for a change...</feeding>			
-				<feeding>Please add in some beans ~</feeding>			
-				<hunting>Only if I have a biscuit rod...</hunting>			
-				<hunting>Take a break before you continue to hunt anymore</hunting>			
-				<hunting>Won't you feel hungry if you keep hunting like this?</hunting>			
-				<danger>That rod looks like a white biscuit</danger>			
-				<danger>Doesn't it look like the ricecake in the picture?</danger>			
-				<dead>I wish I will be reincarnated as herb in my next life.</dead>			
-				<dead>I'm freezing if I continue to lie on this icy floor</dead>			
-				<stand>Although I wish to become a QQ....</stand>			
-				<stand>Are you trying to make me into a white rice cake?</stand>			
-				<stand>What's the color of your heart?</stand>			
-				<stand>Is that the herb that is shown in the picture?</stand>			
-				<connect>I'm freezing...</connect>			
-				<connect>Welcome... I'm freezing just to wait for you ~</connect>			
-				<levelup>Since you've gotten your level, why don't you give me some herbs.</levelup>			
-				<levelup>Woah, an angel!!!</levelup>			
-				<perfor_1>Haargh... If I still fail to become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</bit_hungry>			
-				<noting>			
-				<feeding>The herbs have a different taste today...</feeding>	</bit_hungry>		
-				<feeding>I can feel your love from the herb you gave me.</feeding>			
-				<feeding>Will I become a herb cake if I eat so many of these?</feeding>	<noting>		
-				<feeding>Ah~~ Delicious ~</feeding>			
-				<hunting>You have become a QQ too!</hunting>			
-				<hunting>Take a break before you continue to hunt anymore</hunting>			
-				<hunting>Feel my rice cake strike!</hunting>			
-				<danger>Your HP! It's become as red as the tomato sauce</danger>			
-				<danger>Only if I had a rice cake rod...</danger>			
-				<danger>You won't restore any health with my food. Just drink your stupid potion ~</danger>			
-				<dead>I don't like the way you lie down. Stand up now!</dead>			
-				<dead>I will be frozen if you keep lying there.</dead>			
-				<stand>Don't get too friendly with strangers!</stand>			
-				<stand>The next time I'm born, I want to be a rice cake coated with honey</stand>			
-				<stand>I am your backup food supply</stand>			
-				<stand>Gugu Lulu ~~</stand>			
-				<stand>Are you trying to turn me into a white rice cake?</stand>			
-				<stand>Rice Cake! Come and get your delicious Rice Cake ~</stand>			
-				<connect>This will be a QQ day too</connect>			
-				<connect>Welcome, I'm almost frozen while waiting for you here~</connect>			
-				<levelup>Woah, congratulations, dude! ~</levelup>			
-				<levelup>You're going to become a QQ too!</levelup>			
-				<perfor_1>Haargh... If I still fail to become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</noting>			
-				<full>			
-				<feeding>Will I become a human if I ate the garlic with my food?</feeding>			
-				<feeding>If I eat this too, I will become very hot!</feeding>	</noting>		
-				<feeding>I am already filled with so many green herbs...</feeding>			
-				<hunting>I have my nose bleed in the adventures of my younger days!</hunting>	<full>		
-				<hunting>Ahhh... This is the best medicine ever....!!</hunting>			
-				<hunting>What's the color of your herbs?!</hunting>			
-				<hunting>Taste the power of my rice cake strike!</hunting>			
-				<danger>You won't restore any health with my food. Just drink your stupid potion ~</danger>			
-				<danger>Master! Eat me to spare your life!</danger>			
-				<danger>Feel free to eat me. You can start from my head...</danger>			
-				<dead>If you continue to stay here, I will be frozen</dead>			
-				<dead>How about biting me for a try</dead>			
-				<stand>I am the rice cake with the best brand.</stand>			
-				<stand>Did you smell that? That's my perfume - Rice Cake No. 5!</stand>			
-				<stand>I support the local goods. So, I won't be using any imported perfume.</stand>			
-				<stand>If I get sick, I'm sure my friends will take good care of me.</stand>			
-				<stand>I really envy the smooth skin of that white bun</stand>			
-				<stand>The sliced rice cake really looks macho.</stand>			
-				<connect>I want to be cute today ~</connect>			
-				<connect>It's going to be another cute day ~</connect>			
-				<levelup>You have become cuter now!</levelup>			
-				<levelup>Nice to meet you, Angel. I'm rice cake!</levelup>			
-				<perfor_1>Haargh... If I still fail to become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</full>			
-				<so_full>			
-				<feeding>Ohhh, I can feel that taste of honey</feeding>			
-				<feeding>Mrs. Rice Cake is getting angry now!..</feeding>			
-				<feeding>Stop! I have had more than enough..</feeding>	</full>		
-				<hunting>I used to work out when I was in the moon ~</hunting>			
-				<hunting>Don't worry. Just take a bite from my head...</hunting>	<so_full>		
-				<hunting>I saw my share of blood during my younger days!</hunting>			
-				<hunting>Feel my rice cake strike! ~</hunting>			
-				<danger>Don't eat my herbs. If you want to restore your health, drink the potions ~</danger>			
-				<danger>Master! Eat me to spare your own life!!</danger>			
-				<danger>Don't worry. You can start eating from my head...</danger>			
-				<dead>You can still take another bite of me</dead>			
-				<dead>You and me are enough to make a delicious rice cake dish</dead>			
-				<dead>When will there be anyone who's willing to mourn our defeat?</dead>			
-				<stand>Please don't cook me in a microwave oven!</stand>			
-				<stand>Did you smell that? That's my perfume - Rice Cake No. 5!</stand>			
-				<stand>I support the local goods. So, I won't be using any imported perfume.</stand>			
-				<stand>I have a strong sense of smell ~</stand>			
-				<stand>I have been waiting for you all night</stand>			
-				<stand>Have you forgotten about me?</stand>			
-				<stand>Do you like that cute little girl over there?</stand>			
-				<connect>I'm going to be a herb cake if you come any moment later</connect>			
-				<connect>This will be another cute day ~</connect>			
-				<levelup>Hello, nice to meet you. I'm the almighty rice cake!</levelup>			
-				<levelup>You're the best!</levelup>			
-				<levelup>You're really something master ~</levelup>			
-				<perfor_1>Haargh... If I still fail to become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</so_full>			
-				</event_ricecake>						
-			</so_full>		
-			
-		</event_ricecake>			
 
 </P_CHUNG_E>
 <XMAS_LUNATIC>
@@ -5634,4 +5470,151 @@
 		</so_full>
 
 	</bacsojin2>		 
+	<child_admin_b>
+
+		<hungry>
+			<feeding>	Refueling...	</feeding>
+			<dead>	You are still a tough person to raise me (¢Á_¢Á)</dead>
+			<connect>	Hello. Welcome 	</connect>
+			<stand>	I'm hungry... 	</stand>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running!	</perfor_2>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Refueling...	...	 </feeding>
+			<dead>	You are still a tough person to raise me (¢Á_¢Á)</dead>
+			<connect>	Hello. Welcome 	</connect>
+			<stand>	I'm hungry...	</stand>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Refueling...	 </feeding>
+			<dead>	You are still a tough person to raise me (¢Á_¢Á)</dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</noting>
+
+		<full>
+			<feeding>It's already full of fuel..	</feeding>
+			<dead>	You are still a tough person to raise me (¢Á_¢Á)</dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ..	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</full>
+
+		<so_full>
+			<feeding>	It's already full of fuel..	</feeding>
+			<dead>	You are still a tough person to raise me 	</dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<stand>	Receiving signal.. Connect..	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</so_full>
+
+	</child_admin_b>
+	
+	<child_admin_a>
+
+		<hungry>
+			<feeding>	Refueling...	 </feeding>
+			<dead>	You are still a tough person to raise me </dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	I'm hungry... 	</stand>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Refueling...	 </feeding>
+			<dead>	You are still a tough person to raise me </dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	I'm hungry... 	</stand>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Refueling...	 </feeding>
+			<dead>	You are still a tough person to raise me </dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</noting>
+
+		<full>
+			<feeding>It's already full of fuel..	</feeding>
+			<dead>	You are still a tough person to raise me </dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</full>
+
+		<so_full>
+			<feeding>	It's already full of fuel..	</feeding>
+			<dead>	You are still a tough person to raise me 	</dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<stand>	Receiving signal.. Connect..	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</so_full>
+
+	</child_admin_a>
 </monster_talk_table>

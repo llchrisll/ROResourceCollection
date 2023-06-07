@@ -818,3 +818,79 @@
 27390#of Wolfe Lugenburg#
 27391#Poe's#
 27392#of Richards#
+
+//Lv. 200 expansion regional cards
+300001#High Envenom#
+300002#Bulletproof#
+300003#of Wild Dog#
+300004#of Iron Wall#
+300005#of High Walker#
+300006#of Psychic#
+300007#Solid Break#
+300008#Holy Twinkle#
+300009#Ghost Magical#
+300010#Wind Magical#
+300011#Saint Magical#
+300012#of Sacred#
+300013#Reginleif#
+300014#Ingrid#
+300015#Low-level Remedy#
+300016#of Treasure#
+300017#High Hallowed#
+300018#High Damned#
+300019#Dragon Slayer's#
+300020#Poacher's#
+300021#Dragon Killer#
+
+
+//Episode 17.2 Cards
+300076#of Royal Guard#
+300077#of Mechanic#
+300078#Mad Dance#
+300079#Middle Dry#
+300080#Dry#
+300081#of Magician#
+300082#Piercing#
+300083#of Ninja#
+300084#of Holy#
+300085#of Taekwon Kid#
+300086#Heavy Attack#
+300087#of Shadow Cat#
+300088#Cross Flower#
+300089#of Assault#
+300090#of Land Power#
+300091#of Gunman#
+300092#of Merchant#
+300093#of Acolyte#
+300094#Mad Lethal#
+300095#of Keen#
+300096#Harmony#
+300097#of Thief#
+300098#Ninja's#
+300099#of Minor Guard#
+300100#of Major Guard#
+300101#of Rune Knight#
+300102#of Geneticist#
+300103#Mermaid#
+300104#of Sorcerer#
+300105#of Warlock#
+300106#Fire Magical#
+300107#Fruits#
+300108#of Shadow Chaser#
+300109#of Guillotine Cross#
+300110#of Kagerou#
+300111#of Oboro#
+300112#of Soul Reaper#
+300113#of Talent#
+300114#Immortal Magical#
+300115#of Arch Bishop#
+300116#of Sura#
+300117#of Ranger#
+300118#of Star Master#
+300119#of Rebellion#
+300120#of School of Fish#
+300121#of Purified Water#
+300122#Holy#
+300123#Shapeless#
+300124#Water Magical#
+300125#of Summoner#

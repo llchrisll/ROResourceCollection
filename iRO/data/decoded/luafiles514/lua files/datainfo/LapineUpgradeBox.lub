@@ -1360,6 +1360,18 @@ TargetItems = {
 {"S_Chain_Pendant", 24522}
 , 
 {"S_Chain_Earing", 24523}
+, 
+{"S_Spore_Bomb_Armor", 24566}
+, 
+{"S_Spore_Bomb_Shield", 24567}
+, 
+{"S_Spore_Bomb_Shoes", 24568}
+, 
+{"S_Psychic_Armor", 24554}
+, 
+{"S_Psychic_Shield", 24556}
+, 
+{"S_Psychic_Shoes", 24555}
 }
 , NeedSource_String = "+7 Shadow Equipment"}
 , 
@@ -2520,6 +2532,18 @@ TargetItems = {
 {"S_Chain_Pendant", 24522}
 , 
 {"S_Chain_Earing", 24523}
+, 
+{"S_Spore_Bomb_Armor", 24566}
+, 
+{"S_Spore_Bomb_Shield", 24567}
+, 
+{"S_Spore_Bomb_Shoes", 24568}
+, 
+{"S_Psychic_Armor", 24554}
+, 
+{"S_Psychic_Shield", 24556}
+, 
+{"S_Psychic_Shoes", 24555}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -3372,6 +3396,18 @@ TargetItems = {
 {"S_Chain_Pendant", 24522}
 , 
 {"S_Chain_Earing", 24523}
+, 
+{"S_Spore_Bomb_Armor", 24566}
+, 
+{"S_Spore_Bomb_Shield", 24567}
+, 
+{"S_Spore_Bomb_Shoes", 24568}
+, 
+{"S_Psychic_Armor", 24554}
+, 
+{"S_Psychic_Shield", 24556}
+, 
+{"S_Psychic_Shoes", 24555}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -4314,6 +4350,498 @@ TargetItems = {
 {"Up_Blessed_Knife", 510071}
 }
 , NeedSource_String = "Awakened Hero\'s Weapon"}
+, 
+Ein_Ddbox = {ItemID = 9514, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ein_BHSWORD", 21054}
+, 
+{"Ein_BHSTAFF", 2058}
+, 
+{"Ein_BHHuuma", 13346}
+, 
+{"Ein_BHKATAR", 28045}
+, 
+{"Ein_BHAXE", 28140}
+, 
+{"Ein_BHBOW", 18190}
+, 
+{"Ein_1HKNUCK", 1867}
+, 
+{"Ein_1HHAMMER", 16099}
+, 
+{"Ein_1HWAND", 26162}
+, 
+{"Ein_1HWHIP", 26215}
+, 
+{"Ein_1HBOOK", 28635}
+, 
+{"Ein_1HDAGGER", 28771}
+, 
+{"Ein_1HMAGGER", 28772}
+, 
+{"Ein_1HSPEAR", 32026}
+, 
+{"Ein_1HLUTE", 32110}
+, 
+{"Ein_1HSWORD", 32352}
+, 
+{"Ein_1HGUN", 32303}
+, 
+{"Ein_1H_Foxtail", 550006}
+}
+, NeedSource_String = "Physical Modification System"}
+, 
+Ein_Ddbox2 = {ItemID = 9529, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ein_BHSWORD", 21054}
+, 
+{"Ein_BHSTAFF", 2058}
+, 
+{"Ein_BHHuuma", 13346}
+, 
+{"Ein_BHKATAR", 28045}
+, 
+{"Ein_BHAXE", 28140}
+, 
+{"Ein_BHBOW", 18190}
+, 
+{"Ein_1HKNUCK", 1867}
+, 
+{"Ein_1HHAMMER", 16099}
+, 
+{"Ein_1HWAND", 26162}
+, 
+{"Ein_1HWHIP", 26215}
+, 
+{"Ein_1HBOOK", 28635}
+, 
+{"Ein_1HDAGGER", 28771}
+, 
+{"Ein_1HMAGGER", 28772}
+, 
+{"Ein_1HSPEAR", 32026}
+, 
+{"Ein_1HLUTE", 32110}
+, 
+{"Ein_1HSWORD", 32352}
+, 
+{"Ein_1HGUN", 32303}
+, 
+{"Ein_1H_Foxtail", 550006}
+}
+, NeedSource_String = "Magic Modification System"}
+, 
+Abyss_Ddbox = {ItemID = 23981, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"DragonA_Red", 15391}
+, 
+{"DragonA_Green", 15392}
+, 
+{"DragonA_Gold", 15393}
+, 
+{"DragonA_Purple", 15394}
+, 
+{"DragonA_Blue", 15395}
+, 
+{"DragonA_Silver", 15396}
+}
+, NeedSource_String = "Turbulent Dragon\'s Energy"}
+, 
+Abyss_Ddbox2 = {ItemID = 100142, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"DragonA_Red", 15391}
+, 
+{"DragonA_Green", 15392}
+, 
+{"DragonA_Gold", 15393}
+, 
+{"DragonA_Purple", 15394}
+, 
+{"DragonA_Blue", 15395}
+, 
+{"DragonA_Silver", 15396}
+}
+, NeedSource_String = "Immense Dragon\'s Energy"}
+, 
+Abyss_Ddbox3 = {ItemID = 100144, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Drag_Manteau", 20946}
+}
+, NeedSource_String = "Burning Dragon\'s Energy"}
+, 
+Abyss_Ddbox4 = {ItemID = 100145, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Dragon_Boots", 22208}
+}
+, NeedSource_String = "Hot Dragon\'s Energy"}
+, 
+Auto_Imp_Melee_1 = {ItemID = 100164, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_1h_Hammer", 590006}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+}
+, NeedSource_String = "Med. Improv. Weapon (Physical)"}
+, 
+Auto_Imp_Melee_2 = {ItemID = 100165, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_1h_Hammer", 590006}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+}
+, NeedSource_String = "High Improv. Weapon (Physical)"}
+, 
+Auto_Imp_Melee_3 = {ItemID = 100166, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_1h_Hammer", 590006}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+}
+, NeedSource_String = "Highest Improv. Weapon (Physical)"}
+, 
+Auto_Imp_Magic_1 = {ItemID = 100167, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_1h_Hammer", 590006}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+}
+, NeedSource_String = "Medi. Improv. Weapon (Magic)"}
+, 
+Auto_Imp_Magic_2 = {ItemID = 100168, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_1h_Hammer", 590006}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+}
+, NeedSource_String = "High Improv. Weapon (Magic)"}
+, 
+Auto_Imp_Magic_3 = {ItemID = 100169, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ep172_1h_Sword", 500007}
+, 
+{"Ep172_Bh_Sword", 600008}
+, 
+{"Ep172_1h_Wand", 550008}
+, 
+{"Ep172_1h_Book", 540004}
+, 
+{"Ep172_1h_Axe", 520002}
+, 
+{"Ep172_1h_Sword2", 500008}
+, 
+{"Ep172_Bh_Bow", 700007}
+, 
+{"Ep172_Bh_Bow2", 700008}
+, 
+{"Ep172_Bh_knuck", 560004}
+, 
+{"Ep172_1h_Spear", 530002}
+, 
+{"Ep172_Bh_Spear", 630003}
+, 
+{"Ep172_1h_Dagger", 510008}
+, 
+{"Ep172_Bh_Katar", 610006}
+, 
+{"Ep172_Bh_Staff", 640005}
+, 
+{"Ep172_1h_Book2", 540005}
+, 
+{"Ep172_1h_Dagger2", 510009}
+, 
+{"Ep172_1h_Whip", 580005}
+, 
+{"Ep172_1h_Inst", 570005}
+, 
+{"Ep172_Bh_Bow3", 700009}
+, 
+{"Ep172_Bh_Huuma", 650003}
+, 
+{"Ep172_1h_Hammer", 590006}
+, 
+{"Ep172_1h_Foxtail", 550009}
+, 
+{"Ep172_1h_Rifle", 810000}
+, 
+{"Ep172_1h_Shotgun", 820000}
+, 
+{"Ep172_1h_Gatling", 830001}
+, 
+{"Ep172_1h_Grenade", 840000}
+}
+, NeedSource_String = "Highest Improv. Weapon (Magic)"}
+, 
+Illu_Enhance_Cube = {ItemID = 100251, NeedRefineMin = 4, NeedRefineMax = 6, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Illusion_Armor_A", 15376}
+, 
+{"Illusion_Armor_B", 15377}
+, 
+{"Illusion_Engine_A", 20933}
+, 
+{"Illusion_Engine_B", 20934}
+, 
+{"Illusion_Leg_A", 22196}
+, 
+{"Illusion_Leg_B", 22197}
+}
+, NeedSource_String = "Illusion Armor (+4 or Better)"}
+, 
+Auto_Enhance_Cube = {ItemID = 100252, NeedRefineMin = 4, NeedRefineMax = 6, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Auto_Armor_A", 450127}
+, 
+{"Auto_Armor_B", 450128}
+, 
+{"Auto_Engine_A", 480020}
+, 
+{"Auto_Engine_B", 480021}
+, 
+{"Auto_Leg_A", 470022}
+, 
+{"Auto_Leg_B", 470023}
+}
+, NeedSource_String = "Automatic Armor (+4 or Better)"}
 , 
 EXP_Overclocker = {ItemID = 100710, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {

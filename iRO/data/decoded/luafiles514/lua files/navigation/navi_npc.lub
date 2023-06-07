@@ -1,0 +1,5013 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\navigation\navi_npc.lub 
+
+-- params : ...
+-- function num : 0
+Navi_Npc = {
+{"airplane", 12315, 101, 86, "apple merchant", "airplane", 50, 66}
+, 
+{"airplane", 12368, 101, 857, "exit", "airplane1a", 240, 64}
+, 
+{"airplane", 12369, 101, 857, "exit", "airplane1b", 247, 64}
+, 
+{"airplane", 12370, 101, 857, "exit", "airplane2a", 240, 40}
+, 
+{"airplane", 12371, 101, 857, "exit", "airplane2b", 247, 40}
+, 
+{"airplane", 12432, 101, 787, "umbala kid", "ein_p", 64, 94}
+, 
+{"airplane", 12433, 101, 783, "umbala lady", "ein_p", 66, 93}
+, 
+{"airplane", 12434, 101, 789, "umbala man", "ein_p", 71, 91}
+, 
+{"airplane", 12495, 101, 833, "crewman", "ein", 47, 61}
+, 
+{"airplane", 12594, 101, 67, "airship staff", "airplane", 250, 58}
+, 
+{"airplane", 12595, 101, 852, "pilot", "airplane", 221, 158}
+, 
+{"airplane", 12596, 101, 714, "maelin", "01airplane", 65, 63}
+, 
+{"airplane", 12597, 101, 834, "zerta", "01airplane", 80, 71}
+, 
+{"airplane", 12598, 101, 702, "aanos", "01airplane", 72, 34}
+, 
+{"airplane", 12922, 101, 873, "airship captain", "03", 236, 163}
+, 
+{"airplane", 13444, 101, 88, "adventurer", "", 238, 54}
+, 
+{"airplane", 13686, 101, 724, "young dancer", "sch", 76, 56}
+, 
+{"airplane", 13687, 101, 724, "cheerful dancer", "sch", 75, 53}
+, 
+{"airplane", 13688, 101, 724, "mature looking dancer", "sch", 79, 55}
+, 
+{"airplane", 21584, 101, 878, "eocatt", "decoy01", 246, 47}
+, 
+{"airplane_01", 12372, 101, 857, "exit", "airplane_011a", 240, 64}
+, 
+{"airplane_01", 12373, 101, 857, "exit", "airplane_011b", 247, 64}
+, 
+{"airplane_01", 12374, 101, 857, "exit", "airplane_012a", 240, 40}
+, 
+{"airplane_01", 12375, 101, 857, "exit", "airplane_012b", 247, 40}
+, 
+{"airplane_01", 12581, 101, 74, "clarice", "airplane", 33, 69}
+, 
+{"airplane_01", 12582, 101, 86, "apple merchant", "airplane", 50, 66}
+, 
+{"airplane_01", 12583, 101, 49, "nils", "ein", 32, 61}
+, 
+{"airplane_01", 12584, 101, 873, "airship captain", "02", 246, 54}
+, 
+{"airplane_01", 12585, 101, 873, "airship captain", "01", 238, 154}
+, 
+{"airplane_01", 12586, 101, 67, "airship staff", "airplane_01", 250, 58}
+, 
+{"airplane_01", 12587, 101, 852, "pilot", "airplane_01", 221, 158}
+, 
+{"airplane_01", 12591, 101, 72, "dianne", "01airplane_01", 83, 61}
+, 
+{"airplane_01", 12592, 101, 55, "mendel", "01airplane_01", 69, 63}
+, 
+{"airplane_01", 12593, 101, 106, "swordsman shimizu", "01airplane_01", 71, 31}
+, 
+{"airplane_01", 13714, 101, 899, "agent", "pc1", 95, 61}
+, 
+{"airport", 12316, 101, 90, "airport staff", "airport1a", 143, 43}
+, 
+{"airport", 12319, 101, 90, "airport staff", "airport1b", 158, 43}
+, 
+{"airport", 12322, 101, 90, "airport staff", "airport1c", 126, 43}
+, 
+{"airport", 12325, 101, 90, "arrival staff", "airport2a", 143, 49}
+, 
+{"airport", 12327, 101, 90, "arrival staff", "airport2b", 126, 51}
+, 
+{"airport", 12329, 101, 90, "arrival staff", "airport2c", 158, 50}
+, 
+{"airport", 12421, 101, 99, "young man", "air", 174, 41}
+, 
+{"airport", 12422, 101, 88, "old man", "air", 176, 41}
+, 
+{"airport", 16042, 101, 852, "freight manager", "toast", 148, 41}
+, 
+{"alb2trea", 11754, 101, 100, "fisk", "", 39, 50}
+, 
+{"alb2trea", 16284, 101, 117, "kafra employee", "", 59, 69}
+, 
+{"alb2trea", 16445, 102, 83, "tool dealer", "", 87, 65}
+, 
+{"alb2trea", 20125, 101, 837, "bulletin board", "sunken", 75, 101}
+, 
+{"alberta", 10006, 101, 495, "cat paw shrimp merchant", "alberta", 111, 159}
+, 
+{"alberta", 11346, 101, 89, "kinsey", "", 91, 70}
+, 
+{"alberta", 11348, 101, 709, "sailor", "", 247, 119}
+, 
+{"alberta", 11352, 101, 121, "turtle island scholar", "", 248, 89}
+, 
+{"alberta", 11665, 101, 87, "roving hair dresser", "", 33, 141}
+, 
+{"alberta", 11743, 101, 84, "fabian", "", 97, 51}
+, 
+{"alberta", 11744, 101, 100, "steiner", "", 53, 39}
+, 
+{"alberta", 11746, 101, 54, "drunken old man", "", 131, 139}
+, 
+{"alberta", 11747, 101, 99, "shakir", "", 58, 80}
+, 
+{"alberta", 11748, 101, 102, "sonya", "", 62, 156}
+, 
+{"alberta", 11749, 101, 103, "grandma alma", "", 93, 174}
+, 
+{"alberta", 11750, 101, 100, "fisk", "", 189, 151}
+, 
+{"alberta", 11756, 101, 86, "paul", "", 195, 151}
+, 
+{"alberta", 11758, 101, 85, "phelix", "", 190, 173}
+, 
+{"alberta", 12851, 101, 116, "kafra voting staff", "alberta", 119, 70}
+, 
+{"alberta", 12893, 101, 874, "cool event voting staff", "alberta", 114, 70}
+, 
+{"alberta", 13859, 101, 998, "continental messenger", "alber_edq", 127, 64}
+, 
+{"alberta", 15385, 101, 536, "alberta sailor", "alberta", 240, 47}
+, 
+{"alberta", 15746, 101, 554, "odgnalam", "albe", 200, 151}
+, 
+{"alberta", 15999, 101, 700, "point seller", "Sorcerer3", 105, 52}
+, 
+{"alberta", 16091, 101, 105, "guide", "01alberta", 23, 238}
+, 
+{"alberta", 16092, 101, 105, "guide", "02alberta", 120, 60}
+, 
+{"alberta", 16093, 101, 105, "guide", "03alberta", 184, 143}
+, 
+{"alberta", 16259, 101, 116, "kafra employee", "", 28, 229}
+, 
+{"alberta", 16264, 101, 112, "kafra employee", "", 113, 60}
+, 
+{"alberta", 16338, 101, 83, "kafra employee", "", 26, 229}
+, 
+{"alberta", 16523, 102, 712, "chef assistant", "", 167, 135}
+, 
+{"alberta", 19969, 101, 98, "necko", "", 83, 96}
+, 
+{"alberta", 19970, 101, 107, "charlron", "", 119, 221}
+, 
+{"alberta", 19971, 101, 57, "gershaun", "", 232, 106}
+, 
+{"alberta", 19989, 101, 71, "hat store girl", "new30", 136, 79}
+, 
+{"alberta", 19990, 101, 51, "stylish merchant", "new30", 120, 53}
+, 
+{"alberta", 20011, 101, 92, "smile assistance", "", 113, 53}
+, 
+{"alberta", 20058, 101, 99, "tourist", "thai", 43, 244}
+, 
+{"alberta", 20065, 101, 709, "sea captain", "0", 245, 74}
+, 
+{"alberta", 20070, 101, 776, "kunlun envoy", "0", 245, 62}
+, 
+{"alberta", 20078, 101, 815, "girl", "0", 245, 40}
+, 
+{"alberta", 20083, 101, 843, "aibakthing", "0", 245, 29}
+, 
+{"alberta", 20088, 101, 960, "moscovia p.r. officer", "0", 245, 51}
+, 
+{"alberta", 20095, 101, 100, "crewman", "bra2", 245, 82}
+, 
+{"alberta", 20124, 101, 837, "bulletin board", "alberta", 111, 59}
+, 
+{"alberta", 20294, 101, 83, "bullet merchant kenny", "alberta", 118, 157}
+, 
+{"alberta", 20297, 101, 86, "bullet merchange tony", "airplane", 118, 160}
+, 
+{"alberta", 20317, 101, 730, "akagi", "", 30, 65}
+, 
+{"alberta", 21041, 101, 486, "bard", "job_min", 196, 133}
+, 
+{"alberta", 21138, 101, 729, "eden teleport officer", "4", 124, 67}
+, 
+{"alberta", 21198, 101, 729, "eden teleport officer", "34", 27, 238}
+, 
+{"alberta", 21370, 101, 828, "funfi", "", 215, 111}
+, 
+{"alberta", 21626, 101, 105, "guard", "s10", 98, 202}
+, 
+{"alberta", 21627, 101, 89, "poor-looking merchant", "", 43, 49}
+, 
+{"alberta", 21669, 101, 85, "belder", "", 127, 143}
+, 
+{"alberta", 21672, 101, 86, "jhonnita", "", 102, 80}
+, 
+{"alberta", 21743, 101, 709, "captain janssen", "", 214, 77}
+, 
+{"alberta", 21746, 101, 709, "captain janssen admin", "", 7, 7}
+, 
+{"alberta_in", 11347, 101, 120, "grandpa turtle", "", 23, 104}
+, 
+{"alberta_in", 11664, 101, 91, "hair dresser", "", 55, 142}
+, 
+{"alberta_in", 11745, 101, 49, "chad", "", 20, 183}
+, 
+{"alberta_in", 11759, 101, 53, "inn employee", "", 32, 142}
+, 
+{"alberta_in", 14408, 101, 706, "iromo", "", 131, 95}
+, 
+{"alberta_in", 14409, 101, 53, "iromo\'s mother", "", 120, 93}
+, 
+{"alberta_in", 16375, 101, 84, "louitz", "", 133, 55}
+, 
+{"alberta_in", 16382, 101, 61, "pharmacist", "", 16, 28}
+, 
+{"alberta_in", 16435, 102, 73, "tool dealer", "", 182, 97}
+, 
+{"alberta_in", 16436, 102, 74, "item collector", "", 165, 96}
+, 
+{"alberta_in", 16437, 102, 49, "weapon dealer", "", 188, 21}
+, 
+{"alberta_in", 16438, 102, 101, "armor dealer", "", 180, 15}
+, 
+{"alberta_in", 16516, 102, 82, "weapon dealer", "", 175, 97}
+, 
+{"alberta_in", 19975, 101, 47, "cherokee", "", 122, 53}
+, 
+{"alberta_in", 19978, 101, 120, "grampa", "", 28, 145}
+, 
+{"alberta_in", 19983, 101, 125, "monster tamer", "", 173, 76}
+, 
+{"alberta_in", 19994, 101, 84, "pvp narrator", "", 22, 146}
+, 
+{"alberta_in", 19995, 101, 83, "gate keeper", "", 26, 146}
+, 
+{"alberta_in", 20109, 101, 86, "repairman", "", 31, 65}
+, 
+{"alberta_in", 20268, 101, 86, "merchant", "", 53, 43}
+, 
+{"alberta_in", 20285, 102, 900, "trading merchant", "", 176, 81}
+, 
+{"alberta_in", 20883, 101, 59, "purchasing team", "qskill_buy01", 58, 52}
+, 
+{"alberta_in", 21150, 101, 729, "eden teleport officer", "10", 75, 39}
+, 
+{"alberta_in", 21622, 101, 807, "wealthy-looking merchant", "", 125, 101}
+, 
+{"alberta_in", 21623, 101, 758, "maid", "s10", 154, 171}
+, 
+{"alberta_in", 21625, 101, 109, "refined steward", "", 114, 178}
+, 
+{"alberta_in", 21688, 101, 788, "shaman", "", 70, 109}
+, 
+{"alde_alche", 16012, 101, 748, "muscle man", "Alarm Mask Man", 88, 180}
+, 
+{"alde_alche", 16013, 101, 1193, " ", "Alarm Mask Man1", 86, 184}
+, 
+{"alde_alche", 16014, 101, 1193, " ", "Alarm Mask Man2", 89, 184}
+, 
+{"alde_alche", 16015, 101, 1193, " ", "Alarm Mask Man3", 92, 184}
+, 
+{"alde_alche", 16016, 101, 1193, " ", "Alarm Mask Man4", 95, 184}
+, 
+{"alde_alche", 16059, 101, 883, "craft book salesman", "alde", 31, 186}
+, 
+{"alde_alche", 16240, 101, 113, "kafra service", "", 38, 182}
+, 
+{"alde_alche", 16388, 102, 755, "material seller", "alche", 38, 184}
+, 
+{"alde_alche", 16577, 101, 740, "guild dealer", "", 24, 188}
+, 
+{"alde_alche", 16578, 102, 64, "tool dealer", "", 37, 186}
+, 
+{"alde_alche", 21624, 101, 749, "alchemist", "s", 169, 162}
+, 
+{"alde_dun03", 19771, 101, 101, "gatekeeper", "", 264, 16}
+, 
+{"alde_gld", 19166, 101, 722, "neuschwanstein", "", 61, 87}
+, 
+{"alde_gld", 19167, 101, 722, "neuschwanstein", "", 61, 79}
+, 
+{"alde_gld", 19168, 101, 722, "neuschwanstein", "", 45, 87}
+, 
+{"alde_gld", 19169, 101, 722, "neuschwanstein", "", 51, 87}
+, 
+{"alde_gld", 19170, 101, 722, "hohenschwangau", "", 99, 251}
+, 
+{"alde_gld", 19171, 101, 722, "hohenschwangau", "", 99, 244}
+, 
+{"alde_gld", 19172, 101, 722, "nuernberg", "", 146, 82}
+, 
+{"alde_gld", 19173, 101, 722, "nuernberg", "", 138, 83}
+, 
+{"alde_gld", 19174, 101, 722, "rothenburg", "", 265, 93}
+, 
+{"alde_gld", 19175, 101, 722, "rothenburg", "", 265, 87}
+, 
+{"alde_gld", 19588, 101, 549, "cat paw merchant guild megrez", "", 186, 157}
+, 
+{"alde_gld", 19589, 101, 421, "gate manager", "alde_f00", 191, 164}
+, 
+{"alde_gld", 19591, 101, 857, "investment status board", "fund04", 188, 158}
+, 
+{"aldeba_in", 10008, 101, 495, "cat paw shrimp merchant", "aldeba_in", 89, 56}
+, 
+{"aldeba_in", 12617, 101, 859, "kafra employee", "lt3", 155, 240}
+, 
+{"aldeba_in", 16239, 101, 113, "kafra service", "", 96, 181}
+, 
+{"aldeba_in", 16293, 101, 115, "kafra employee", "", 79, 161}
+, 
+{"aldeba_in", 16446, 102, 83, "tool dealer", "", 94, 56}
+, 
+{"aldeba_in", 16447, 102, 49, "weapon dealer", "", 28, 54}
+, 
+{"aldeba_in", 16448, 102, 101, "armor dealer", "", 20, 60}
+, 
+{"aldeba_in", 16518, 102, 713, "weapon dealer", "", 22, 47}
+, 
+{"aldeba_in", 19664, 101, 48, "rs125", "", 232, 241}
+, 
+{"aldeba_in", 19665, 101, 63, "threatening-looking man", "", 223, 121}
+, 
+{"aldeba_in", 19666, 101, 109, "friendly-looking man", "", 219, 61}
+, 
+{"aldeba_in", 19667, 101, 97, "fussy man", "", 152, 47}
+, 
+{"aldeba_in", 19668, 101, 61, "master", "", 156, 179}
+, 
+{"aldeba_in", 19669, 101, 117, "kafra service", "", 84, 166}
+, 
+{"aldeba_in", 19670, 101, 116, "kafra service", "", 83, 245}
+, 
+{"aldeba_in", 19671, 101, 115, "kafra jasmine", "", 24, 245}
+, 
+{"aldeba_in", 19672, 101, 114, "kafra service", "", 142, 238}
+, 
+{"aldeba_in", 19673, 101, 112, "kafra service", "", 91, 244}
+, 
+{"aldeba_in", 19682, 101, 53, "inn maid", "", 92, 58}
+, 
+{"aldeba_in", 19977, 101, 86, "trader", "", 152, 166}
+, 
+{"aldeba_in", 19985, 101, 125, "monster tamer", "", 168, 175}
+, 
+{"aldeba_in", 20116, 101, 86, "repairman", "", 38, 60}
+, 
+{"aldeba_in", 20161, 101, 115, "kafra employee", "", 88, 161}
+, 
+{"aldeba_in", 20254, 101, 709, "tzerero", "", 223, 167}
+, 
+{"aldeba_in", 21602, 101, 805, "sir jore", "", 155, 101}
+, 
+{"aldeba_in", 21603, 101, 102, "piru piru", "", 156, 118}
+, 
+{"aldebaran", 12616, 101, 116, "kafra employee", "lt3", 58, 225}
+, 
+{"aldebaran", 12858, 101, 116, "kafra voting staff", "aldebaran", 145, 102}
+, 
+{"aldebaran", 12900, 101, 874, "cool event voting staff", "alde", 138, 102}
+, 
+{"aldebaran", 13791, 101, 96, "girl", "prince", 132, 184}
+, 
+{"aldebaran", 13860, 101, 998, "continental messenger", "alde_edq", 135, 128}
+, 
+{"aldebaran", 14104, 101, 100, "promotional staff", "", 127, 138}
+, 
+{"aldebaran", 15733, 101, 553, "dolangmal", "alde", 170, 104}
+, 
+{"aldebaran", 16000, 101, 700, "point seller", "Sorcerer4", 133, 114}
+, 
+{"aldebaran", 16101, 101, 105, "guide soldier", "01aldebaran", 139, 63}
+, 
+{"aldebaran", 16102, 101, 105, "guide soldier", "02aldebaran", 243, 143}
+, 
+{"aldebaran", 16103, 101, 105, "guide soldier", "03aldebaran", 135, 243}
+, 
+{"aldebaran", 16104, 101, 105, "guide soldier", "04aldebaran", 36, 135}
+, 
+{"aldebaran", 16230, 101, 113, "kafra employee", "", 143, 119}
+, 
+{"aldebaran", 16524, 102, 97, "chef assistant", "", 165, 107}
+, 
+{"aldebaran", 19207, 101, 722, "neuschwanstein", "", 152, 97}
+, 
+{"aldebaran", 19208, 101, 722, "hohenschwangau", "", 149, 97}
+, 
+{"aldebaran", 19209, 101, 722, "nuernberg", "", 134, 97}
+, 
+{"aldebaran", 19211, 101, 722, "rothenburg", "", 128, 97}
+, 
+{"aldebaran", 19653, 101, 48, "forger munster", "", 113, 70}
+, 
+{"aldebaran", 19654, 101, 55, "smithing guy", "", 64, 104}
+, 
+{"aldebaran", 19655, 101, 83, "young man", "", 49, 93}
+, 
+{"aldebaran", 19656, 101, 101, "shell gathering lady", "", 81, 61}
+, 
+{"aldebaran", 19657, 101, 97, "canal guy", "", 46, 129}
+, 
+{"aldebaran", 19658, 101, 98, "forest guy", "", 67, 154}
+, 
+{"aldebaran", 19659, 101, 47, "slot guy", "", 90, 170}
+, 
+{"aldebaran", 19660, 101, 48, "phracon guy", "", 117, 181}
+, 
+{"aldebaran", 19661, 101, 49, "alchemy guy", "", 121, 231}
+, 
+{"aldebaran", 19662, 101, 62, "little kid", "", 86, 228}
+, 
+{"aldebaran", 19663, 101, 119, "insect guy", "", 159, 242}
+, 
+{"aldebaran", 19674, 101, 69, "sylvia", "", 60, 70}
+, 
+{"aldebaran", 19675, 101, 48, "issei", "", 93, 80}
+, 
+{"aldebaran", 19676, 101, 88, "joo jahk", "", 180, 46}
+, 
+{"aldebaran", 19677, 101, 97, "citizen", "", 212, 122}
+, 
+{"aldebaran", 19678, 101, 101, "town girl", "", 146, 124}
+, 
+{"aldebaran", 19680, 101, 105, "soldier", "", 133, 108}
+, 
+{"aldebaran", 19681, 101, 89, "bell keeper", "A", 143, 136}
+, 
+{"aldebaran", 19888, 101, 64, "meteurengut", "", 44, 53}
+, 
+{"aldebaran", 20009, 101, 92, "smile assistance", "", 136, 135}
+, 
+{"aldebaran", 20044, 101, 718, "mr. claus", "", 223, 222}
+, 
+{"aldebaran", 20126, 101, 837, "bulletin board", "alde", 146, 106}
+, 
+{"aldebaran", 20132, 101, 837, "bulletin board", "clocktower", 136, 133}
+, 
+{"aldebaran", 20252, 101, 86, "merchant", "alde", 152, 63}
+, 
+{"aldebaran", 20255, 101, 117, "kafra employee", "", 54, 238}
+, 
+{"aldebaran", 21072, 101, 486, "karian", "cmd8", 142, 128}
+, 
+{"aldebaran", 21140, 101, 729, "eden teleport officer", "5", 133, 119}
+, 
+{"aldebaran", 21368, 101, 900, "jeanbai", "", 144, 230}
+, 
+{"aldebaran", 21369, 101, 869, "lizingshetter", "", 105, 116}
+, 
+{"aldebaran", 21694, 101, 828, "rogue agent", "nd0", 114, 56}
+, 
+{"aldebaran", 21927, 101, 728, "maroll battle recruiter", "", 146, 109}
+, 
+{"ama_dun01", 11837, 101, 767, "soldier", "11", 229, 7}
+, 
+{"ama_in01", 11840, 101, 761, "grandma", "1", 22, 111}
+, 
+{"ama_in01", 11844, 101, 769, "shaman", "", 169, 173}
+, 
+{"ama_in01", 11845, 101, 762, "kitsune mask", "", 180, 173}
+, 
+{"ama_in01", 11853, 101, 765, "sushi master", "", 162, 17}
+, 
+{"ama_in01", 16469, 102, 763, "tool dealer", "", 24, 30}
+, 
+{"ama_in01", 16470, 102, 757, "armor dealer", "", 89, 28}
+, 
+{"ama_in01", 16471, 102, 766, "weapon dealer", "", 102, 28}
+, 
+{"ama_in02", 11821, 101, 767, "gate soldier", "3", 207, 40}
+, 
+{"ama_in02", 11822, 101, 767, "gate soldier", "4", 207, 49}
+, 
+{"ama_in02", 11825, 101, 767, "soldier", "1", 187, 57}
+, 
+{"ama_in02", 11826, 101, 767, "soldier", "2", 170, 62}
+, 
+{"ama_in02", 11827, 101, 767, "soldier", "3", 37, 157}
+, 
+{"ama_in02", 11828, 101, 767, "soldier", "4", 32, 51}
+, 
+{"ama_in02", 11829, 101, 767, "soldier", "5", 40, 167}
+, 
+{"ama_in02", 11830, 101, 767, "soldier", "6", 32, 167}
+, 
+{"ama_in02", 11831, 101, 767, "soldier", "7", 42, 34}
+, 
+{"ama_in02", 11832, 101, 767, "soldier", "8", 203, 156}
+, 
+{"ama_in02", 11833, 101, 767, "soldier", "9", 195, 156}
+, 
+{"ama_in02", 11834, 101, 767, "soldier", "10", 115, 177}
+, 
+{"ama_in02", 11839, 101, 768, "lord of palace", "", 200, 176}
+, 
+{"ama_test", 11806, 101, 109, "assistant", "ama", 52, 44}
+, 
+{"ama_test", 11811, 101, 766, "grandpa", "ama", 49, 93}
+, 
+{"ama_test", 11812, 101, 761, "grandma", "ama", 50, 93}
+, 
+{"ama_test", 11813, 101, 762, "coach", "", 50, 100}
+, 
+{"amatsu", 10019, 101, 495, "cat paw shrimp merchant", "amatsu", 102, 122}
+, 
+{"amatsu", 11804, 101, 763, "publisher", "", 223, 236}
+, 
+{"amatsu", 11819, 101, 767, "gate soldier", "1", 112, 164}
+, 
+{"amatsu", 11820, 101, 767, "gate soldier", "2", 119, 164}
+, 
+{"amatsu", 11823, 101, 767, "gate soldier", "5", 164, 174}
+, 
+{"amatsu", 11824, 101, 767, "gate soldier", "6", 171, 174}
+, 
+{"amatsu", 11843, 101, 764, "kouji", "", 189, 166}
+, 
+{"amatsu", 11846, 101, 757, "well-side maiden", "", 230, 160}
+, 
+{"amatsu", 11847, 101, 86, "john", "", 179, 107}
+, 
+{"amatsu", 11848, 101, 759, "mimi", "", 205, 163}
+, 
+{"amatsu", 11849, 101, 765, "drunken man", "", 185, 115}
+, 
+{"amatsu", 11850, 101, 760, "grandma", "", 217, 179}
+, 
+{"amatsu", 11851, 101, 766, "jyaburo", "", 287, 266}
+, 
+{"amatsu", 11852, 101, 767, "guide man", "", 251, 283}
+, 
+{"amatsu", 11854, 101, 758, "propose girl", "", 269, 221}
+, 
+{"amatsu", 11855, 101, 760, "drama teacher", "", 243, 202}
+, 
+{"amatsu", 11856, 101, 1323, "bonubonu", "1", 283, 203}
+, 
+{"amatsu", 11857, 101, 735, "veterinarian", "", 274, 178}
+, 
+{"amatsu", 13930, 101, 758, "staff member", "07russia_42", 233, 234}
+, 
+{"amatsu", 16067, 101, 758, "amatsu guide", "amatsu", 202, 91}
+, 
+{"amatsu", 16320, 101, 116, "kafra employee", "", 102, 149}
+, 
+{"amatsu", 16530, 102, 83, "chef assistant", "", 206, 150}
+, 
+{"amatsu", 20068, 101, 709, "sea captain", "1", 194, 79}
+, 
+{"amatsu", 21210, 101, 729, "eden teleport officer", "41", 102, 152}
+, 
+{"aru_gld", 19265, 101, 722, "mardol", "", 164, 270}
+, 
+{"aru_gld", 19266, 101, 722, "mardol", "", 142, 235}
+, 
+{"aru_gld", 19267, 101, 722, "mardol", "", 164, 245}
+, 
+{"aru_gld", 19268, 101, 722, "mardol", "", 182, 255}
+, 
+{"aru_gld", 19269, 101, 722, "cyr", "", 80, 41}
+, 
+{"aru_gld", 19270, 101, 722, "cyr", "", 80, 52}
+, 
+{"aru_gld", 19271, 101, 722, "cyr", "", 120, 83}
+, 
+{"aru_gld", 19272, 101, 722, "horn", "", 60, 174}
+, 
+{"aru_gld", 19273, 101, 722, "horn", "", 74, 174}
+, 
+{"aru_gld", 19274, 101, 722, "gefn", "", 306, 359}
+, 
+{"aru_gld", 19275, 101, 722, "gefn", "", 306, 348}
+, 
+{"aru_gld", 19276, 101, 722, "gefn", "", 301, 318}
+, 
+{"aru_gld", 19277, 101, 722, "gefn", "", 313, 318}
+, 
+{"aru_gld", 19278, 101, 722, "banadis", "", 289, 103}
+, 
+{"aru_gld", 19279, 101, 722, "banadis", "", 289, 112}
+, 
+{"aru_gld", 19280, 101, 722, "banadis", "", 350, 98}
+, 
+{"aru_gld", 19281, 101, 722, "banadis", "", 350, 88}
+, 
+{"arug_dun01", 19282, 101, 826, "dwarf", "aru_gd", 199, 195}
+, 
+{"arug_dun01", 19347, 101, 81, "event controller", "aru_gd", 5, 5}
+, 
+{"arug_que01", 19288, 101, 715, "pierrot doll", "aru_gd", 100, 81}
+, 
+{"arug_que01", 19289, 101, 81, "controller", "gdevent_a", 10, 10}
+, 
+{"arug_que01", 19290, 101, 412, "gergoth", "aru_gd", 100, 75}
+, 
+{"ayo_fild02", 12223, 101, 843, "aik", "thai", 25, 154}
+, 
+{"ayo_in01", 16483, 102, 840, "tool dealer", "", 18, 182}
+, 
+{"ayo_in01", 16484, 102, 842, "armor dealer", "", 90, 160}
+, 
+{"ayo_in01", 16485, 102, 843, "weapon dealer", "", 90, 192}
+, 
+{"ayothaya", 10020, 101, 495, "cat paw shrimp merchant", "ayothaya", 15, 177}
+, 
+{"ayothaya", 12208, 101, 839, "noi", "", 203, 169}
+, 
+{"ayothaya", 12209, 101, 843, "young man", "Thang", 189, 120}
+, 
+{"ayothaya", 12210, 101, 838, "girl", "Lalitha", 171, 152}
+, 
+{"ayothaya", 12211, 101, 842, "old man", "ayothaya", 143, 102}
+, 
+{"ayothaya", 12212, 101, 841, "young man", "1ayothaya", 197, 189}
+, 
+{"ayothaya", 12213, 101, 843, "young man", "5ayothaya", 214, 142}
+, 
+{"ayothaya", 12214, 101, 843, "young man", "5ayothaya", 241, 264}
+, 
+{"ayothaya", 16069, 101, 839, "ayothaya guide noa", "01ayothaya", 146, 86}
+, 
+{"ayothaya", 16332, 101, 116, "kafra employee", "", 212, 169}
+, 
+{"ayothaya", 16533, 102, 83, "chef assistant", "", 203, 178}
+, 
+{"ayothaya", 21186, 101, 729, "eden teleport officer", "28", 209, 169}
+, 
+{"bat_room", 16356, 101, 861, "kafra staff", "", 148, 147}
+, 
+{"bat_room", 21891, 101, 418, "tierra gorge officer", "01a", 124, 178}
+, 
+{"bat_room", 21892, 101, 414, "tierra gorge officer", "01b", 125, 121}
+, 
+{"bat_room", 21893, 101, 418, "flavius officer", "01a", 133, 178}
+, 
+{"bat_room", 21894, 101, 414, "flavius officer", "01b", 133, 121}
+, 
+{"bat_room", 21899, 101, 416, "prince croix", "", 160, 141}
+, 
+{"bat_room", 21900, 101, 415, "prince croix\'s aide", "01", 161, 140}
+, 
+{"bat_room", 21901, 101, 415, "prince croix\'s aide", "02", 161, 142}
+, 
+{"bat_room", 21902, 101, 420, "general guillaume", "", 160, 159}
+, 
+{"bat_room", 21903, 101, 419, "general guillaume\'s aide", "01", 161, 158}
+, 
+{"bat_room", 21904, 101, 419, "general guillaume\'s aide", "03", 161, 160}
+, 
+{"bat_room", 21905, 101, 417, "guillaume knight", "", 127, 178}
+, 
+{"bat_room", 21906, 101, 417, "guillaume knight", "", 135, 178}
+, 
+{"bat_room", 21907, 101, 417, "guillaume knight", "", 143, 178}
+, 
+{"bat_room", 21908, 101, 417, "guillaume knight", "", 151, 178}
+, 
+{"bat_room", 21909, 101, 413, "croix knight", "", 127, 121}
+, 
+{"bat_room", 21910, 101, 413, "croix knight", "", 135, 121}
+, 
+{"bat_room", 21911, 101, 413, "croix knight", "", 143, 121}
+, 
+{"bat_room", 21912, 101, 413, "croix knight", "", 151, 121}
+, 
+{"bat_room", 21913, 101, 124, "teleporter", "Battlefield", 148, 150}
+, 
+{"bat_room", 21939, 101, 86, "repairman", "", 138, 144}
+, 
+{"bat_room", 21940, 101, 109, "erundek", "", 160, 150}
+, 
+{"bat_room", 21941, 101, 418, "kvm mercenary officer", "Guillaume", 164, 178}
+, 
+{"bat_room", 21942, 101, 417, "guillaume officer", "kvm", 167, 178}
+, 
+{"bat_room", 21943, 101, 414, "kvm mercenary officer", "Croix", 164, 121}
+, 
+{"bat_room", 21944, 101, 413, "croix knight", "kvm", 167, 121}
+, 
+{"bat_room", 21951, 101, 734, "kvm logistic officer", "kvm01", 151, 144}
+, 
+{"bif_fild01", 21770, 101, 406, "purification stone", "bifrost", 155, 338}
+, 
+{"bif_fild01", 21818, 101, 10007, "dimensional device", "gate03", 318, 159}
+, 
+{"bif_fild01", 21820, 101, 852, "expedition guide", "gk05", 314, 155}
+, 
+{"bif_fild01", 21821, 101, 852, "expedition guide", "gk06", 320, 154}
+, 
+{"bif_fild02", 15866, 101, 421, "teleport cat no.2", "", 293, 325}
+, 
+{"bra_in01", 14630, 101, 478, "hotel keeper", "bra1", 27, 24}
+, 
+{"brasilis", 10021, 101, 495, "cat paw shrimp merchant", "brasilis", 249, 257}
+, 
+{"brasilis", 14624, 101, 85, "ice-cream beibe", "", 137, 77}
+, 
+{"brasilis", 14625, 101, 858, "signpost", "bra", 155, 165}
+, 
+{"brasilis", 14626, 101, 858, "signpost", "bra", 195, 231}
+, 
+{"brasilis", 14627, 101, 858, "signpost", "bra", 240, 247}
+, 
+{"brasilis", 14628, 101, 858, "signpost", "bra", 303, 309}
+, 
+{"brasilis", 14629, 101, 858, "signpost", "bra", 278, 137}
+, 
+{"brasilis", 16350, 101, 117, "kafra employee", "", 197, 221}
+, 
+{"brasilis", 16564, 102, 477, "fruit gardener", "bra", 221, 128}
+, 
+{"brasilis", 16565, 102, 476, "pet groomer", "bra", 201, 309}
+, 
+{"brasilis", 16566, 102, 477, "weapon dealer", "", 244, 243}
+, 
+{"brasilis", 16567, 102, 478, "tool dealer", "", 252, 257}
+, 
+{"brasilis", 20093, 101, 100, "crewman", "bra1", 316, 57}
+, 
+{"brasilis", 21188, 101, 729, "eden teleport officer", "29", 194, 221}
+, 
+{"c_tower3", 19769, 101, 84, "gatekeeper", "", 10, 249}
+, 
+{"cmd_fild07", 16295, 101, 721, "kafra employee", "", 136, 134}
+, 
+{"cmd_fild07", 16457, 102, 83, "tool dealer", "", 257, 126}
+, 
+{"cmd_fild07", 16458, 102, 49, "weapon dealer", "", 250, 98}
+, 
+{"cmd_fild07", 16459, 102, 101, "armor dealer", "", 277, 85}
+, 
+{"cmd_fild07", 19873, 101, 100, "rahasu", "", 192, 58}
+, 
+{"cmd_fild07", 19874, 101, 100, "hallosu", "", 52, 280}
+, 
+{"cmd_fild07", 19875, 101, 100, "zain", "", 299, 83}
+, 
+{"cmd_fild07", 19878, 101, 100, "sarumane", "", 94, 134}
+, 
+{"cmd_fild07", 21178, 101, 729, "eden teleport officer", "24", 139, 134}
+, 
+{"cmd_in01", 16453, 102, 83, "tool dealer", "", 79, 182}
+, 
+{"cmd_in01", 16454, 102, 49, "weapon dealer", "", 128, 165}
+, 
+{"cmd_in01", 16455, 102, 101, "armor dealer", "", 117, 165}
+, 
+{"cmd_in01", 21620, 101, 724, "examiner", "s", 33, 25}
+, 
+{"cmd_in02", 13715, 101, 97, "ordinary man", "pc1", 174, 89}
+, 
+{"cmd_in02", 13716, 101, 97, "ordinary man", "pc2", 111, 52}
+, 
+{"cmd_in02", 16294, 101, 721, "kafra employee", "", 146, 180}
+, 
+{"cmd_in02", 19858, 101, 49, "chief", "", 32, 140}
+, 
+{"cmd_in02", 19859, 101, 48, "martine", "", 73, 81}
+, 
+{"cmd_in02", 19860, 101, 51, "scoursege", "", 48, 55}
+, 
+{"cmd_in02", 19861, 101, 709, "roberto", "", 64, 43}
+, 
+{"cmd_in02", 19862, 101, 89, "deniroz", "", 89, 72}
+, 
+{"cmd_in02", 19863, 101, 101, "shalone", "", 178, 92}
+, 
+{"cmd_in02", 19864, 101, 98, "stonae", "", 178, 86}
+, 
+{"cmd_in02", 19865, 101, 86, "g . j", "", 172, 105}
+, 
+{"cmd_in02", 19866, 101, 83, "loyar", "", 174, 126}
+, 
+{"cmd_in02", 19867, 101, 109, "moo", "", 57, 62}
+, 
+{"cmd_in02", 19885, 101, 85, "manzi", "", 189, 99}
+, 
+{"cmd_in02", 20203, 101, 828, "man", "megin", 190, 94}
+, 
+{"cmd_in02", 21618, 101, 806, "strange guy", "s", 88, 51}
+, 
+{"cmd_in02", 21676, 101, 828, "investigator", "", 94, 208}
+, 
+{"comodo", 10018, 101, 495, "cat paw shrimp merchant", "comodo", 103, 136}
+, 
+{"comodo", 11964, 101, 84, "la ed", "", 170, 137}
+, 
+{"comodo", 11965, 101, 92, "haith", "", 171, 137}
+, 
+{"comodo", 13705, 101, 809, "young man", "sch", 135, 299}
+, 
+{"comodo", 16001, 101, 700, "point seller", "Sorcerer5", 193, 159}
+, 
+{"comodo", 16021, 101, 732, "meruntei", "", 237, 217}
+, 
+{"comodo", 16055, 101, 69, "hat girl", "Hair_Brush", 236, 164}
+, 
+{"comodo", 16105, 101, 700, "comodo guide", "", 322, 178}
+, 
+{"comodo", 16106, 101, 700, "comodo guide", "02comodo", 181, 347}
+, 
+{"comodo", 16107, 101, 700, "comodo guide", "03comodo", 197, 149}
+, 
+{"comodo", 16108, 101, 700, "comodo guide", "04comodo", 37, 219}
+, 
+{"comodo", 16299, 101, 721, "kafra employee", "", 195, 150}
+, 
+{"comodo", 16456, 102, 101, "souvenir vendor", "", 296, 125}
+, 
+{"comodo", 16525, 102, 83, "chef assistant", "", 225, 164}
+, 
+{"comodo", 16568, 102, 724, "tropical fruit dealer", "", 106, 213}
+, 
+{"comodo", 16569, 102, 479, "harive", "ƒµµªÛ¿Œ", 196, 162}
+, 
+{"comodo", 19847, 101, 700, "comodo guide", "", 176, 350}
+, 
+{"comodo", 19849, 101, 704, "campground boy", "", 206, 310}
+, 
+{"comodo", 19850, 101, 65, "camping youth", "", 204, 310}
+, 
+{"comodo", 19851, 101, 71, "camping maiden", "", 209, 305}
+, 
+{"comodo", 19852, 101, 706, "campground lad", "", 209, 314}
+, 
+{"comodo", 19853, 101, 86, "bbq boy", "", 221, 310}
+, 
+{"comodo", 19854, 101, 90, "bbq visitor", "", 218, 309}
+, 
+{"comodo", 19855, 101, 50, "bbq papa", "", 216, 310}
+, 
+{"comodo", 19856, 101, 74, "bbq mama", "", 215, 307}
+, 
+{"comodo", 19857, 101, 706, "bbq boy", "", 213, 310}
+, 
+{"comodo", 19881, 101, 109, "toruna", "", 88, 97}
+, 
+{"comodo", 19882, 101, 73, "rakusa", "", 164, 291}
+, 
+{"comodo", 19883, 101, 98, "kichiri", "", 169, 284}
+, 
+{"comodo", 19884, 101, 55, "magatu", "", 163, 280}
+, 
+{"comodo", 19886, 101, 701, "hullaris", "", 187, 153}
+, 
+{"comodo", 19890, 101, 106, "won", "", 232, 87}
+, 
+{"comodo", 19987, 101, 700, "hair ornament girl", "", 228, 159}
+, 
+{"comodo", 19988, 101, 702, "traveler", "", 273, 137}
+, 
+{"comodo", 20060, 101, 120, "old man", "thai", 68, 195}
+, 
+{"comodo", 20064, 101, 103, "munak\'s grandma", "", 112, 182}
+, 
+{"comodo", 20129, 101, 837, "bulletin board", "comodo", 210, 148}
+, 
+{"comodo", 20157, 101, 91, "kachua", "", 219, 158}
+, 
+{"comodo", 20158, 101, 90, "devellin", "", 204, 148}
+, 
+{"comodo", 20159, 101, 118, "suspicious guy", "", 210, 154}
+, 
+{"comodo", 20334, 101, 730, "wandering master", "job_star", 172, 230}
+, 
+{"comodo", 20620, 101, 741, "roaming bard", "", 226, 123}
+, 
+{"comodo", 20623, 101, 90, "sonotora", "1", 180, 153}
+, 
+{"comodo", 20624, 101, 86, "bor robin", "1", 193, 151}
+, 
+{"comodo", 20793, 101, 724, "canell", "qsk_dan01", 204, 172}
+, 
+{"comodo", 21068, 101, 486, "karian", "cmd6", 184, 109}
+, 
+{"comodo", 21069, 101, 98, "kayak master", "job_min", 192, 119}
+, 
+{"comodo", 21070, 101, 701, "woman roasting meat", "job_min", 159, 316}
+, 
+{"comodo", 21119, 101, 479, "cheerless maestro", "", 140, 86}
+, 
+{"comodo", 21174, 101, 729, "eden teleport officer", "22", 191, 153}
+, 
+{"comodo", 21324, 101, 55, "dispatched instructor", "2nd02", 173, 354}
+, 
+{"comodo", 21390, 101, 109, "ledrion", "comodo", 71, 137}
+, 
+{"comodo", 21391, 101, 86, "gatan", "comodo", 236, 197}
+, 
+{"comodo", 21392, 101, 731, "bafhail", "comodo", 152, 184}
+, 
+{"comodo", 21393, 101, 706, "lospii", "comodo", 64, 219}
+, 
+{"comodo", 21668, 101, 86, "muff", "", 224, 187}
+, 
+{"comodo", 21686, 101, 881, "man in hiding", "nd", 339, 224}
+, 
+{"comodo", 21687, 101, 742, "scholar", "", 139, 184}
+, 
+{"comodo", 21697, 101, 810, "rogue guild agent", "nd3", 233, 199}
+, 
+{"conch_in", 10051, 101, 559, "purser", "dorcon", 65, 58}
+, 
+{"conch_in", 10052, 101, 10153, "captain gamberi", "dorcon01", 26, 64}
+, 
+{"conch_in", 10053, 101, 10156, "stello", "dorcon", 24, 62}
+, 
+{"conch_in", 10056, 101, 549, "recorder", "dorcon", 96, 29}
+, 
+{"conch_in", 10057, 101, 10157, "head chef", "dorcon", 189, 63}
+, 
+{"conch_in", 10058, 101, 548, "sous chef", "dorcon", 186, 57}
+, 
+{"conch_in", 10059, 101, 421, "boatswain", "dorcon", 181, 61}
+, 
+{"conch_in", 10094, 101, 10153, "captain gamberi", "dorcon02", 101, 31}
+, 
+{"conch_in", 10102, 101, 10165, "passenger", "dorcon02", 137, 98}
+, 
+{"conch_in", 10103, 101, 10157, "passenger", "dorcon03", 135, 93}
+, 
+{"dali", 21224, 101, 729, "eden teleport officer", "49", 115, 94}
+, 
+{"dali", 21831, 102, 496, "sundries merchant", "dari01", 109, 94}
+, 
+{"dali", 21832, 101, 496, "cat hand storage", "dari02", 112, 95}
+, 
+{"dic_dun01", 14714, 101, 450, "vigilante", "ep133_23", 286, 104}
+, 
+{"dic_dun01", 14716, 101, 492, "vigilante", "ep133_23", 294, 106}
+, 
+{"dic_dun01", 14718, 101, 492, "vigilante", "ep133_26", 30, 216}
+, 
+{"dic_dun01", 14747, 101, 450, "dirty vigilante", "ep13_3", 284, 102}
+, 
+{"dic_dun01", 14749, 101, 449, "curious sapha", "seller", 266, 113}
+, 
+{"dic_dun01", 14777, 101, 490, "brian", "13_3", 205, 43}
+, 
+{"dic_dun02", 14780, 101, 489, "rose", "13_3", 111, 127}
+, 
+{"dic_fild01", 14648, 101, 496, "jahbong", "pa0829", 228, 159}
+, 
+{"dic_fild01", 14649, 101, 421, "cat paw agent", "04pa0829", 232, 189}
+, 
+{"dic_fild01", 14651, 101, 495, "jalapeno", "pa0829", 240, 198}
+, 
+{"dic_fild01", 14652, 101, 495, "mancho", "pa0829", 251, 183}
+, 
+{"dic_fild01", 14653, 101, 495, "brare", "pa0829", 259, 172}
+, 
+{"dic_fild01", 14697, 101, 492, "capital city guard", "ep133_10", 146, 281}
+, 
+{"dic_fild01", 14700, 101, 450, "capital city guard", "ep133_10", 153, 281}
+, 
+{"dic_fild01", 14713, 101, 496, "bk", "ep133_18", 231, 174}
+, 
+{"dic_fild01", 15886, 101, 421, "teleport cat no.6", "", 161, 266}
+, 
+{"dic_fild02", 21822, 101, 10007, "dimensional device", "gate04", 241, 31}
+, 
+{"dic_fild02", 21824, 101, 852, "expedition guide", "gk07", 236, 33}
+, 
+{"dic_fild02", 21825, 101, 852, "expedition guide", "gk08", 239, 36}
+, 
+{"dic_in01", 10029, 101, 495, "cat paw shrimp merchant", "dic_in01", 242, 119}
+, 
+{"dic_in01", 14654, 101, 460, "kareka", "pa0829", 353, 37}
+, 
+{"dic_in01", 14655, 101, 453, "papyrus", "0001", 40, 193}
+, 
+{"dic_in01", 14657, 101, 449, "hunting dept. 1 manager", "pa0829", 48, 263}
+, 
+{"dic_in01", 14659, 101, 449, "hunting dept. 2 manager", "pa0829", 51, 266}
+, 
+{"dic_in01", 14661, 101, 449, "supply dept. 1 manager", "pa0829", 51, 270}
+, 
+{"dic_in01", 14663, 101, 449, "supply dept. 2 manager", "pa0829", 48, 273}
+, 
+{"dic_in01", 14665, 101, 449, "transport dept. 1 mgr.", "pa0829", 43, 273}
+, 
+{"dic_in01", 14667, 101, 449, "transport dept. 2 mgr.", "pa0829", 40, 270}
+, 
+{"dic_in01", 14703, 101, 453, "adventurer clerk", "ep133_12", 42, 264}
+, 
+{"dic_in01", 14730, 101, 491, "tired piom", "a", 341, 113}
+, 
+{"dic_in01", 14732, 101, 455, "tired piom", "b", 149, 104}
+, 
+{"dic_in01", 14738, 101, 490, "talkative piom", "a", 335, 34}
+, 
+{"dic_in01", 14739, 101, 454, "manuk piom", "a", 387, 30}
+, 
+{"dic_in01", 14740, 101, 491, "tired piom", "c", 168, 116}
+, 
+{"dic_in01", 14741, 101, 490, "thrilled piom", "a", 372, 116}
+, 
+{"dic_in01", 14742, 101, 449, "serious venknicka", "", 360, 125}
+, 
+{"dic_in01", 14743, 101, 489, "worried piom", "a", 98, 110}
+, 
+{"dic_in01", 14744, 101, 489, "suspicious piom", "a", 91, 113}
+, 
+{"dic_in01", 14745, 101, 492, "lost galten", "a", 98, 96}
+, 
+{"dic_in01", 14751, 101, 454, "resting piom", "01", 87, 102}
+, 
+{"dic_in01", 14752, 101, 489, "resting piom", "04", 29, 119}
+, 
+{"dic_in01", 14753, 101, 449, "venknick", "el_01", 32, 54}
+, 
+{"dic_in01", 14754, 101, 492, "waiting galten", "in_1", 349, 282}
+, 
+{"dic_in01", 14755, 101, 492, "waiting galten", "in_2", 370, 261}
+, 
+{"dic_in01", 14756, 101, 492, "waiting galten", "in_3", 381, 261}
+, 
+{"dic_in01", 14757, 101, 492, "waiting galten", "in_4", 370, 282}
+, 
+{"dic_in01", 14758, 101, 492, "resting galten", "in_5", 354, 219}
+, 
+{"dic_in01", 14759, 101, 492, "resting galten", "in_6", 365, 197}
+, 
+{"dic_in01", 14760, 101, 489, "guide", "diel_1", 42, 250}
+, 
+{"dic_in01", 14761, 101, 711, "eating adventurer", "tre", 252, 103}
+, 
+{"dic_in01", 16570, 102, 900, "peddler", "dic", 238, 107}
+, 
+{"dicastes01", 14656, 101, 453, "laponte", "pa0829", 187, 230}
+, 
+{"dicastes01", 14658, 101, 453, "kalipo", "pa0829", 175, 217}
+, 
+{"dicastes01", 14660, 101, 453, "pura", "pa0829", 208, 230}
+, 
+{"dicastes01", 14662, 101, 453, "tragis", "pa0829", 225, 211}
+, 
+{"dicastes01", 14664, 101, 453, "calyon", "pa0829", 223, 190}
+, 
+{"dicastes01", 14666, 101, 453, "moltuka", "pa0829", 211, 178}
+, 
+{"dicastes01", 14705, 101, 449, "walking knit", "ep133_15", 207, 210}
+, 
+{"dicastes01", 14706, 101, 491, "resting piom", "ep133_16", 112, 248}
+, 
+{"dicastes01", 14707, 101, 450, "training galten", "ep133_17", 249, 140}
+, 
+{"dicastes01", 14721, 101, 449, "crazy venknick", "fihsing1-1", 202, 197}
+, 
+{"dicastes01", 14722, 101, 450, "complaining galten", "fihsing1-2", 191, 202}
+, 
+{"dicastes01", 14723, 101, 450, " training galten", "»∆∑√¿Â01", 234, 158}
+, 
+{"dicastes01", 14724, 101, 450, " training galten", "»∆∑√¿Â02", 244, 166}
+, 
+{"dicastes01", 14725, 101, 450, " training galten", "»∆∑√¿Â03", 272, 166}
+, 
+{"dicastes01", 14726, 101, 450, " training galten", "»∆∑√¿Â04", 248, 129}
+, 
+{"dicastes01", 14727, 101, 450, " training galten", "»∆∑√¿Â05", 271, 152}
+, 
+{"dicastes01", 14728, 101, 450, "sentinel", "a", 202, 86}
+, 
+{"dicastes01", 14729, 101, 450, "sentinel", "b", 193, 86}
+, 
+{"dicastes01", 14731, 101, 492, "excited galten", "a", 194, 166}
+, 
+{"dicastes01", 14733, 101, 489, "limpy piom", "a", 164, 180}
+, 
+{"dicastes01", 14734, 101, 490, "excited piom", "a", 235, 245}
+, 
+{"dicastes01", 14735, 101, 453, "favorable knit", "a", 284, 262}
+, 
+{"dicastes01", 14736, 101, 453, "free knit", "a", 282, 208}
+, 
+{"dicastes01", 14737, 101, 449, "free venknick", "a", 246, 210}
+, 
+{"dicastes01", 14746, 101, 489, "pion mechanic", "mado", 183, 196}
+, 
+{"dicastes01", 14775, 101, 455, "frede", "13_3", 117, 262}
+, 
+{"dicastes01", 16008, 101, 700, "point seller", "Sorcerer12", 207, 200}
+, 
+{"dicastes01", 16062, 101, 481, "traveler ichack", "info", 189, 191}
+, 
+{"dicastes01", 21200, 101, 729, "eden teleport officer", "35", 186, 206}
+, 
+{"e_tower", 21747, 101, 406, "tower protection stone", "", 81, 105}
+, 
+{"e_tower", 21752, 101, 406, "purification stone", "102tower", 69, 117}
+, 
+{"ecl_fild01", 15863, 101, 421, "teleport cat no.1", "", 118, 311}
+, 
+{"ecl_in01", 10028, 101, 495, "cat paw shrimp merchant", "ecl_in01", 72, 86}
+, 
+{"ecl_in01", 14906, 101, 10007, "interdimensional device", "143_1", 38, 98}
+, 
+{"ecl_in01", 14908, 101, 620, "magic scholar armandi", "143_2", 35, 89}
+, 
+{"ecl_in01", 14909, 101, 611, "magic scholar lemony", "143_3", 37, 90}
+, 
+{"ecl_in01", 14917, 101, 447, "eclage guard", "143_6", 40, 96}
+, 
+{"ecl_in01", 15838, 101, 445, "replication expert paltu", "", 67, 39}
+, 
+{"ecl_in01", 15955, 101, 436, "armor merchant naphara", "ecl", 66, 95}
+, 
+{"ecl_in01", 15956, 101, 436, "slot expert nattuer", "ecl", 64, 97}
+, 
+{"ecl_in01", 15957, 101, 443, "herb merchant plafina", "ecl", 33, 98}
+, 
+{"ecl_in02", 15945, 101, 835, "sign", "prison_inn", 96, 22}
+, 
+{"ecl_in02", 15948, 101, 437, "receptionist", "Laphine", 164, 56}
+, 
+{"ecl_in02", 15949, 101, 441, "injured laphine", "", 135, 45}
+, 
+{"ecl_in02", 15950, 101, 442, "doctor laphine", "doctor", 137, 44}
+, 
+{"eclage", 21216, 101, 729, "eden teleport officer", "44", 116, 40}
+, 
+{"ein_in01", 10012, 101, 495, "cat paw shrimp merchant", "ein_in01", 194, 22}
+, 
+{"ein_in01", 12439, 101, 851, "teinz", "", 113, 211}
+, 
+{"ein_in01", 12440, 101, 851, "lowe", "", 48, 220}
+, 
+{"ein_in01", 12441, 101, 850, "dinje", "", 87, 237}
+, 
+{"ein_in01", 12442, 101, 851, "tsuen", "", 84, 218}
+, 
+{"ein_in01", 12443, 101, 849, "gesin", "", 103, 239}
+, 
+{"ein_in01", 12444, 101, 848, "pevtatin", "", 33, 275}
+, 
+{"ein_in01", 12445, 101, 851, "rombell", "", 36, 204}
+, 
+{"ein_in01", 12446, 101, 855, "vonstein", "", 64, 271}
+, 
+{"ein_in01", 12447, 101, 851, "dorf", "", 49, 202}
+, 
+{"ein_in01", 12448, 101, 852, "khashurantze", "", 68, 209}
+, 
+{"ein_in01", 12450, 101, 851, "zherin", "", 85, 261}
+, 
+{"ein_in01", 12451, 101, 852, "canphotii", "", 43, 252}
+, 
+{"ein_in01", 12457, 101, 855, "hotel employee", "", 206, 224}
+, 
+{"ein_in01", 12477, 101, 851, "cendadt", "", 31, 217}
+, 
+{"ein_in01", 12478, 101, 854, "tavern lady", "", 279, 92}
+, 
+{"ein_in01", 12479, 101, 855, "ryan danger", "air#einbech_bar", 277, 95}
+, 
+{"ein_in01", 12480, 101, 849, "drunken man", "einbech_bar", 281, 85}
+, 
+{"ein_in01", 12483, 101, 853, "megass", "", 21, 147}
+, 
+{"ein_in01", 12493, 101, 855, "decii", "", 208, 86}
+, 
+{"ein_in01", 12494, 101, 849, "supineque", "", 192, 90}
+, 
+{"ein_in01", 13689, 101, 724, "young dancer", "sch", 174, 266}
+, 
+{"ein_in01", 13690, 101, 724, "cheerful dancer", "sch", 172, 266}
+, 
+{"ein_in01", 13691, 101, 724, "mature looking dancer", "sch", 170, 266}
+, 
+{"ein_in01", 13693, 101, 903, "hotel manager", "sch", 279, 221}
+, 
+{"ein_in01", 13694, 101, 904, "employee", "sch", 166, 282}
+, 
+{"ein_in01", 13695, 101, 109, "corporate figure", "", 181, 284}
+, 
+{"ein_in01", 13696, 101, 920, "arunafeltz figure", "", 181, 285}
+, 
+{"ein_in01", 13697, 101, 109, "corporate figure", "sch", 168, 274}
+, 
+{"ein_in01", 13698, 101, 920, "arunafeltz figure", "sch", 170, 284}
+, 
+{"ein_in01", 16486, 102, 850, "tool dealer", "", 189, 15}
+, 
+{"ein_in01", 16487, 102, 850, "one hand weapon dealer", "", 106, 27}
+, 
+{"ein_in01", 16488, 102, 850, "two hand weapon dealer", "", 109, 27}
+, 
+{"ein_in01", 16512, 102, 855, "weapon dealer", "", 119, 26}
+, 
+{"ein_in01", 20564, 101, 731, "guildsman", "BLS", 18, 28}
+, 
+{"ein_in01", 20565, 101, 63, "guildsman", "alberta", 201, 27}
+, 
+{"ein_in01", 20571, 101, 726, "blacksmith guildsman", "moc", 24, 41}
+, 
+{"ein_in01", 20574, 101, 63, "paul spanner", "", 38, 29}
+, 
+{"ein_in01", 21582, 101, 854, "ei\'felle", "repay01", 85, 208}
+, 
+{"einbech", 12310, 101, 847, "cavitar", "", 97, 167}
+, 
+{"einbech", 12391, 101, 855, "young man", "ein_main", 57, 210}
+, 
+{"einbech", 12392, 101, 846, "shena", "", 46, 107}
+, 
+{"einbech", 12393, 101, 850, "luda", "", 48, 107}
+, 
+{"einbech", 12394, 101, 855, "jung", "", 148, 242}
+, 
+{"einbech", 12395, 101, 851, "franz", "", 148, 246}
+, 
+{"einbech", 12423, 101, 855, "nemuk", "", 172, 113}
+, 
+{"einbech", 12424, 101, 855, "young man", "air", 197, 139}
+, 
+{"einbech", 12425, 101, 848, "mogan", "", 128, 238}
+, 
+{"einbech", 12426, 101, 848, "hander", "", 129, 234}
+, 
+{"einbech", 12427, 101, 848, "gushenmu", "", 105, 218}
+, 
+{"einbech", 12428, 101, 852, "train station staff", "ein-3", 39, 215}
+, 
+{"einbech", 12430, 101, 852, "train station manager", "ein", 157, 215}
+, 
+{"einbech", 12435, 101, 855, "tollaf", "", 151, 168}
+, 
+{"einbech", 12436, 101, 847, "raust", "", 93, 139}
+, 
+{"einbech", 12437, 101, 850, "mjunia", "", 149, 154}
+, 
+{"einbech", 12438, 101, 848, "ekuri", "", 130, 253}
+, 
+{"einbech", 12455, 101, 852, "guide", "", 67, 37}
+, 
+{"einbech", 12456, 101, 852, "guide", "", 48, 214}
+, 
+{"einbech", 12458, 101, 858, "bulletin board", "einbech11", 135, 250}
+, 
+{"einbech", 12459, 101, 858, "bulletin board", "einbech22", 90, 214}
+, 
+{"einbech", 12460, 101, 858, "bulletin board", "einbech33", 158, 189}
+, 
+{"einbech", 12461, 101, 858, "bulletin board", "einbech44", 180, 136}
+, 
+{"einbech", 12462, 101, 858, "bulletin board", "einbech55", 133, 114}
+, 
+{"einbech", 12463, 101, 858, "bulletin board", "einbech01", 77, 105}
+, 
+{"einbech", 12464, 101, 858, "bulletin board", "einbech03", 181, 127}
+, 
+{"einbech", 12490, 101, 854, "catzllanpu", "", 216, 118}
+, 
+{"einbech", 12492, 101, 850, "ellhenje", "", 176, 125}
+, 
+{"einbech", 13211, 101, 851, "marine sphere bottle maker", "", 208, 124}
+, 
+{"einbech", 16039, 101, 91, "metelle", "", 70, 222}
+, 
+{"einbech", 16337, 101, 860, "kafra employee", "ein3", 181, 132}
+, 
+{"einbroch", 10011, 101, 495, "cat paw shrimp merchant", "einbroch", 164, 316}
+, 
+{"einbroch", 12311, 101, 85, "uwe kleine", "", 215, 180}
+, 
+{"einbroch", 12388, 101, 852, "laboratory soldier", "ein-1", 51, 46}
+, 
+{"einbroch", 12389, 101, 852, "laboratory soldier", "ein-2", 51, 56}
+, 
+{"einbroch", 12399, 101, 854, "morei", "", 175, 196}
+, 
+{"einbroch", 12403, 101, 855, "oberu", "", 173, 229}
+, 
+{"einbroch", 12406, 101, 855, "khemko", "", 176, 172}
+, 
+{"einbroch", 12413, 101, 846, "leslie", "ein_1", 259, 326}
+, 
+{"einbroch", 12414, 101, 855, "tan", "ein", 236, 191}
+, 
+{"einbroch", 12415, 101, 855, "little toby", "ein-1", 228, 121}
+, 
+{"einbroch", 12416, 101, 855, "airship engineer", "ein-1", 40, 116}
+, 
+{"einbroch", 12417, 101, 854, "centzu", "", 294, 312}
+, 
+{"einbroch", 12418, 101, 847, "khowropher", "", 232, 255}
+, 
+{"einbroch", 12419, 101, 855, "khetine", "", 143, 109}
+, 
+{"einbroch", 12420, 101, 854, "sleik", "", 229, 149}
+, 
+{"einbroch", 12452, 101, 852, "guide", "ein", 72, 202}
+, 
+{"einbroch", 12453, 101, 852, "guide", "", 155, 43}
+, 
+{"einbroch", 12454, 101, 852, "guide", "", 162, 317}
+, 
+{"einbroch", 12465, 101, 858, "bulletin board", "", 244, 255}
+, 
+{"einbroch", 12466, 101, 858, "bulletin board", "", 253, 203}
+, 
+{"einbroch", 12467, 101, 858, "bulletin board", "", 68, 206}
+, 
+{"einbroch", 12468, 101, 858, "bulletin board", "einbroch03", 90, 84}
+, 
+{"einbroch", 12469, 101, 858, "bulletin board", "einbroch04", 101, 106}
+, 
+{"einbroch", 12470, 101, 858, "bulletin board", "einbroch05", 220, 208}
+, 
+{"einbroch", 12471, 101, 858, "bulletin board", "einbroch06", 132, 76}
+, 
+{"einbroch", 12472, 101, 858, "bulletin board", "einbroch11", 152, 46}
+, 
+{"einbroch", 12473, 101, 858, "bulletin board", "einbroch22", 235, 141}
+, 
+{"einbroch", 12474, 101, 858, "bulletin board", "einbroch33", 162, 256}
+, 
+{"einbroch", 12475, 101, 858, "bulletin board", "einbroch44", 183, 174}
+, 
+{"einbroch", 12476, 101, 858, "bulletin board", "einbroch55", 104, 202}
+, 
+{"einbroch", 12489, 101, 855, "keneshiotz", "", 188, 72}
+, 
+{"einbroch", 12491, 101, 850, "kesunboss", "", 208, 208}
+, 
+{"einbroch", 12590, 101, 91, "airship staff", "ein01", 94, 267}
+, 
+{"einbroch", 16124, 101, 852, "einbroch guide", "einbroch04", 252, 320}
+, 
+{"einbroch", 16335, 101, 861, "kafra employee", "ein1", 59, 203}
+, 
+{"einbroch", 16336, 101, 860, "kafra employee", "ein2", 242, 205}
+, 
+{"einbroch", 16489, 102, 850, "flu mask dealer", "ein", 138, 66}
+, 
+{"einbroch", 16490, 102, 855, "paddler", "ein", 82, 199}
+, 
+{"einbroch", 16528, 102, 83, "chef assistant", "", 224, 207}
+, 
+{"einbroch", 16563, 102, 49, "black marketeer", "", 122, 250}
+, 
+{"einbroch", 20375, 101, 10062, "bouncer", "", 54, 97}
+, 
+{"einbroch", 21168, 101, 729, "eden teleport officer", "19", 55, 202}
+, 
+{"einbroch", 21202, 101, 729, "eden teleport officer", "37", 244, 200}
+, 
+{"gef_fild05", 16049, 101, 877, "myu", "08_hat", 80, 149}
+, 
+{"gef_fild07", 16057, 101, 1012, "roda frog", "Frog_Cap", 108, 161}
+, 
+{"gef_fild08", 20141, 101, 836, "bulletin board", "kobold2", 211, 24}
+, 
+{"gef_fild09", 20138, 101, 835, "bulletin board", "orcvillage1", 227, 29}
+, 
+{"gef_fild10", 16287, 101, 116, "kafra employee", "", 73, 340}
+, 
+{"gef_fild10", 20137, 101, 837, "bulletin board", "orcdungeon", 69, 340}
+, 
+{"gef_fild10", 20142, 101, 836, "bulletin board", "goblin1", 109, 23}
+, 
+{"gef_fild10", 21753, 101, 406, "dimensional gorge piece", "", 242, 202}
+, 
+{"gef_fild10", 21754, 101, 865, "mad scientist", "", 238, 202}
+, 
+{"gef_fild10", 21755, 101, 406, "purification stone", "orcs", 244, 202}
+, 
+{"gef_fild13", 19176, 101, 722, "eeyorbriggar", "", 303, 243}
+, 
+{"gef_fild13", 19177, 101, 722, "eeyorbriggar", "", 312, 243}
+, 
+{"gef_fild13", 19178, 101, 722, "eeyorbriggar", "", 290, 243}
+, 
+{"gef_fild13", 19179, 101, 722, "eeyorbriggar", "", 324, 243}
+, 
+{"gef_fild13", 19180, 101, 722, "yesnelph", "", 78, 182}
+, 
+{"gef_fild13", 19181, 101, 722, "yesnelph", "", 87, 182}
+, 
+{"gef_fild13", 19182, 101, 722, "yesnelph", "", 73, 295}
+, 
+{"gef_fild13", 19183, 101, 722, "yesnelph", "", 113, 274}
+, 
+{"gef_fild13", 19184, 101, 722, "yesnelph", "", 144, 235}
+, 
+{"gef_fild13", 19185, 101, 722, "yesnelph", "", 144, 244}
+, 
+{"gef_fild13", 19186, 101, 722, "bergel", "", 190, 283}
+, 
+{"gef_fild13", 19187, 101, 722, "bergel", "", 199, 274}
+, 
+{"gef_fild13", 19188, 101, 722, "mersetzdeitz", "", 302, 87}
+, 
+{"gef_fild13", 19189, 101, 722, "mersetzdeitz", "", 313, 83}
+, 
+{"gef_fild13", 19190, 101, 722, "mersetzdeitz", "", 252, 51}
+, 
+{"gef_fild13", 19191, 101, 722, "mersetzdeitz", "", 26, 147}
+, 
+{"gef_fild13", 19592, 101, 549, "cat paw merchant guild meraq", "", 187, 208}
+, 
+{"gef_fild13", 19593, 101, 421, "gate manager", "gef_f00", 189, 206}
+, 
+{"gef_fild13", 19595, 101, 857, "investment status board", "fund01", 190, 209}
+, 
+{"gef_fild13", 20139, 101, 835, "bulletin board", "orcvillage2", 202, 31}
+, 
+{"gef_fild13", 20140, 101, 836, "bulletin board", "kobold1", 29, 206}
+, 
+{"gef_fild13", 20791, 101, 751, "soldier", "277", 297, 242}
+, 
+{"gef_tower", 15997, 101, 700, "point seller", "Sorcerer", 105, 172}
+, 
+{"gef_tower", 20120, 101, 837, "bulletin board", "gefdun", 55, 142}
+, 
+{"gef_tower", 20594, 101, 81, "white dog", "", 107, 36}
+, 
+{"gef_tower", 20880, 101, 876, "meow", "", 115, 36}
+, 
+{"gef_tower", 21643, 101, 64, "annoyed man", "", 118, 36}
+, 
+{"gef_tower", 21796, 101, 743, "summoner", "som_1", 41, 16}
+, 
+{"gef_tower", 21798, 101, 857, "summoner help", "notatrap", 45, 21}
+, 
+{"geffen", 11511, 101, 700, "nia", "yagu", 122, 77}
+, 
+{"geffen", 11584, 101, 91, "meera", "", 59, 143}
+, 
+{"geffen", 11585, 101, 82, "orwalk", "", 156, 190}
+, 
+{"geffen", 11587, 101, 97, "ralphie", "", 147, 26}
+, 
+{"geffen", 11588, 101, 101, "stacey", "", 111, 48}
+, 
+{"geffen", 11591, 101, 99, "suspicious guy", "", 146, 148}
+, 
+{"geffen", 12837, 101, 116, "kafra voting staff", "geffen", 122, 37}
+, 
+{"geffen", 12879, 101, 874, "cool event voting staff", "geffen", 117, 37}
+, 
+{"geffen", 15729, 101, 553, "dolangmal", "geffen", 109, 61}
+, 
+{"geffen", 16002, 101, 700, "point seller", "Sorcerer6", 129, 49}
+, 
+{"geffen", 16022, 101, 700, "ipore", "", 67, 87}
+, 
+{"geffen", 16029, 101, 716, "seth", "", 83, 189}
+, 
+{"geffen", 16030, 101, 779, "argen", "", 129, 148}
+, 
+{"geffen", 16087, 101, 705, "guide", "01geffen", 203, 116}
+, 
+{"geffen", 16088, 101, 705, "guide", "02geffen", 118, 62}
+, 
+{"geffen", 16089, 101, 705, "guide", "03geffen", 36, 123}
+, 
+{"geffen", 16090, 101, 705, "guide", "04geffen", 123, 203}
+, 
+{"geffen", 16214, 101, 115, "kafra employee", "", 120, 62}
+, 
+{"geffen", 16222, 101, 114, "kafra employee", "", 203, 123}
+, 
+{"geffen", 16434, 102, 124, "pet groomer", "", 193, 152}
+, 
+{"geffen", 16522, 102, 85, "chef assistant", "", 196, 111}
+, 
+{"geffen", 19213, 101, 722, "eeyorbriggar", "", 112, 129}
+, 
+{"geffen", 19214, 101, 722, "yesnelph", "", 120, 132}
+, 
+{"geffen", 19215, 101, 722, "bergel", "", 127, 130}
+, 
+{"geffen", 19216, 101, 722, "mersetzdeitz", "", 131, 123}
+, 
+{"geffen", 20010, 101, 92, "smile assistance", "", 119, 107}
+, 
+{"geffen", 20103, 101, 97, "citizen", "", 203, 146}
+, 
+{"geffen", 20119, 101, 837, "bulletin board", "geffen", 124, 65}
+, 
+{"geffen", 20150, 101, 51, "bard", "2", 132, 38}
+, 
+{"geffen", 20253, 101, 712, "merchant", "geff", 173, 88}
+, 
+{"geffen", 20409, 101, 102, "new mage manager", "M", 67, 180}
+, 
+{"geffen", 20878, 101, 726, "akkie", "", 178, 72}
+, 
+{"geffen", 20879, 101, 826, "goodman", "", 172, 52}
+, 
+{"geffen", 21136, 101, 729, "eden teleport officer", "3", 132, 66}
+, 
+{"geffen", 21206, 101, 729, "eden teleport officer", "39", 196, 147}
+, 
+{"geffen", 21367, 101, 906, "ancellia", "", 146, 132}
+, 
+{"geffen", 21931, 101, 728, "maroll battle recruiter", "", 109, 66}
+, 
+{"geffen_in", 10007, 101, 495, "cat paw shrimp merchant", "geffen_in", 75, 140}
+, 
+{"geffen_in", 11586, 101, 64, "wizard stanza", "", 164, 109}
+, 
+{"geffen_in", 11589, 101, 47, "theodore", "", 34, 170}
+, 
+{"geffen_in", 11590, 101, 63, "christopher", "", 110, 172}
+, 
+{"geffen_in", 11592, 101, 52, "crumpler", "", 22, 125}
+, 
+{"geffen_in", 11593, 101, 61, "skyler", "", 59, 61}
+, 
+{"geffen_in", 11594, 101, 91, "waitress", "elen", 27, 134}
+, 
+{"geffen_in", 11595, 101, 90, "waitress", "elise", 70, 67}
+, 
+{"geffen_in", 11596, 101, 120, "merchant daven", "", 79, 76}
+, 
+{"geffen_in", 11597, 101, 709, "hadenheim", "", 114, 73}
+, 
+{"geffen_in", 11598, 101, 704, "psychic advisor", "", 39, 127}
+, 
+{"geffen_in", 11599, 101, 90, "monster scholar", "", 109, 72}
+, 
+{"geffen_in", 11600, 101, 53, "inn employee", "", 70, 64}
+, 
+{"geffen_in", 11864, 101, 731, "blacksmith", "SaYumMoon", 71, 112}
+, 
+{"geffen_in", 11868, 101, 716, "girl", "", 106, 106}
+, 
+{"geffen_in", 16428, 102, 68, "tool dealer", "", 77, 167}
+, 
+{"geffen_in", 16429, 102, 64, "magical item seller", "", 77, 173}
+, 
+{"geffen_in", 16430, 102, 66, "armor dealer", "", 26, 178}
+, 
+{"geffen_in", 16431, 102, 47, "weapon dealer", "", 30, 178}
+, 
+{"geffen_in", 16432, 102, 66, "trader", "", 74, 144}
+, 
+{"geffen_in", 16433, 102, 64, "tool dealer", "", 171, 123}
+, 
+{"geffen_in", 16517, 102, 84, "weapon dealer", "", 22, 171}
+, 
+{"geffen_in", 19959, 101, 64, "great wizard", "", 151, 119}
+, 
+{"geffen_in", 19973, 101, 63, "blacksmith", "", 144, 166}
+, 
+{"geffen_in", 19981, 101, 83, "eric", "", 30, 71}
+, 
+{"geffen_in", 19998, 101, 84, "pvpnarrator", "", 67, 63}
+, 
+{"geffen_in", 19999, 101, 83, "gate keeper", "", 63, 63}
+, 
+{"geffen_in", 20115, 101, 99, "repairman", "", 34, 166}
+, 
+{"geffen_in", 20265, 101, 123, "mage guildsman", "", 164, 124}
+, 
+{"geffen_in", 21146, 101, 729, "eden teleport officer", "8", 160, 104}
+, 
+{"gl_cas02_", 15989, 101, 123, "hugin\'s follower", "3", 104, 36}
+, 
+{"gl_chyard_", 15987, 101, 123, "hugin\'s follower", "2", 148, 149}
+, 
+{"gl_prison1", 16036, 101, 1200, "zealotus", "hat", 137, 138}
+, 
+{"gl_prison1", 16037, 101, 1202, "phendark", "hat", 97, 104}
+, 
+{"gl_prison1", 16038, 101, 1201, "rybio", "hat", 100, 48}
+, 
+{"glast_01", 15984, 101, 123, "hugin\'s follower", "1", 195, 273}
+, 
+{"glast_01", 16357, 101, 115, "kafra employee", "", 200, 275}
+, 
+{"glast_01", 20149, 101, 837, "bulletin board", "castle", 369, 308}
+, 
+{"glast_01", 21326, 101, 95, "dispatched instructor", "2nd03", 195, 131}
+, 
+{"glast_01", 21800, 101, 755, "hugin", "", 204, 273}
+, 
+{"glast_01", 21801, 101, 66, "hugin\'s magic master", "pa0829", 212, 273}
+, 
+{"glast_01", 21802, 101, 69, "hugin\'s butler", "pa0829", 210, 273}
+, 
+{"glast_01", 21803, 101, 726, "hugin\'s craftsman", "pa0829", 210, 270}
+, 
+{"gon_fild01", 20073, 101, 776, "kunlun envoy", "1", 255, 79}
+, 
+{"gon_fild01", 20075, 101, 776, "kunlun envoy", "1", 187, 239}
+, 
+{"gon_in", 11859, 101, 702, "hostess", "", 152, 35}
+, 
+{"gon_in", 11861, 101, 771, "madam", "", 18, 27}
+, 
+{"gon_in", 11886, 101, 774, "yu jiu xia", "", 173, 27}
+, 
+{"gon_test", 11937, 101, 774, "summoner", "", 42, 89}
+, 
+{"gon_test", 11938, 101, 770, "guide to battle arena", "", 46, 14}
+, 
+{"gon_test", 11941, 101, 773, "exit guide", "", 70, 103}
+, 
+{"gonryun", 10022, 101, 495, "cat paw shrimp merchant", "gonryun", 147, 88}
+, 
+{"gonryun", 11862, 101, 772, "girl", "1", 139, 142}
+, 
+{"gonryun", 11863, 101, 733, "stranger", "", 100, 241}
+, 
+{"gonryun", 11878, 101, 776, "han ran jiao", "", 237, 226}
+, 
+{"gonryun", 11879, 101, 774, "jian chung xun", "", 200, 82}
+, 
+{"gonryun", 11880, 101, 776, "liang zhun bu", "", 268, 88}
+, 
+{"gonryun", 11881, 101, 89, "qian yuen shuang", "", 118, 111}
+, 
+{"gonryun", 11882, 101, 773, "jing wen zhen", "", 181, 161}
+, 
+{"gonryun", 11883, 101, 780, "gatekeeper", "gon", 113, 135}
+, 
+{"gonryun", 11884, 101, 780, "gatekeeper", "gon", 113, 127}
+, 
+{"gonryun", 11887, 101, 780, "kunlun guide", "", 163, 60}
+, 
+{"gonryun", 11888, 101, 780, "soldier", "", 166, 196}
+, 
+{"gonryun", 11889, 101, 770, "guide", "", 169, 71}
+, 
+{"gonryun", 11934, 101, 85, "iron man", "", 180, 118}
+, 
+{"gonryun", 16053, 101, 50, "yotang", "Flower_Of_Fairy", 149, 189}
+, 
+{"gonryun", 16323, 101, 116, "kafra employee", "", 159, 122}
+, 
+{"gonryun", 16472, 102, 777, "tool dealer", "", 147, 84}
+, 
+{"gonryun", 16473, 102, 770, "armor dealer", "", 173, 84}
+, 
+{"gonryun", 16474, 102, 774, "weapon dealer", "", 174, 101}
+, 
+{"gonryun", 16532, 102, 83, "chef assistant", "", 147, 101}
+, 
+{"gonryun", 20076, 101, 776, "kunlun envoy", "3", 153, 64}
+, 
+{"gonryun", 21180, 101, 729, "eden teleport officer", "25", 162, 122}
+, 
+{"hu_fild01", 13105, 101, 852, "tower keeper", "", 140, 163}
+, 
+{"hu_fild05", 21122, 101, 879, "dancer kim", "fild", 342, 130}
+, 
+{"hu_fild06", 13141, 101, 701, "torpy\'s mom", "", 190, 367}
+, 
+{"hu_fild06", 13145, 101, 97, "postell schuwell", "1", 34, 123}
+, 
+{"hu_fild06", 13164, 101, 896, "burupu", "Hugel", 217, 270}
+, 
+{"hu_in01", 13143, 101, 849, "allen schuwell", "Hugel1#Hugel1", 387, 245}
+, 
+{"hu_in01", 13144, 101, 97, "postell shuwell", "2", 385, 247}
+, 
+{"hu_in01", 13172, 101, 74, "cellette lavit", "hg", 15, 372}
+, 
+{"hu_in01", 13205, 101, 49, "part-timer", "1", 18, 94}
+, 
+{"hu_in01", 13206, 101, 50, "part-timer", "2", 26, 77}
+, 
+{"hu_in01", 13210, 101, 891, "girl", "Wintzil Trony", 310, 380}
+, 
+{"hu_in01", 13216, 101, 53, "inn staff", "", 246, 107}
+, 
+{"hu_in01", 13217, 101, 793, "rachel", "hgtre", 365, 170}
+, 
+{"hu_in01", 13218, 101, 892, "shaomei", "hgtre", 377, 106}
+, 
+{"hu_in01", 16385, 101, 105, "falcon breeder", "", 381, 304}
+, 
+{"hu_in01", 16536, 101, 898, "party supplies shop", "hg", 23, 311}
+, 
+{"hu_in01", 16537, 102, 898, "weapon dealer", "", 93, 390}
+, 
+{"hu_in01", 16538, 102, 86, "weapon dealer", "", 100, 390}
+, 
+{"hu_in01", 16539, 102, 86, "armor dealer", "", 94, 313}
+, 
+{"hu_in01", 16540, 102, 53, "tool dealer", "", 241, 368}
+, 
+{"hu_in01", 16541, 102, 90, "tool dealer", "", 252, 368}
+, 
+{"hu_in01", 16585, 101, 51, "falcon pipe trader", "hugel", 386, 306}
+, 
+{"hu_in01", 20913, 101, 79, "praying nun", "benew", 205, 204}
+, 
+{"hu_in01", 21046, 101, 486, "karian", "job_min2", 267, 5}
+, 
+{"hu_in01", 21047, 101, 995, "tone-deaf person", "job_min", 361, 103}
+, 
+{"hu_in01", 21121, 101, 879, "vacant looking lady", "wander", 305, 251}
+, 
+{"hugel", 10010, 101, 495, "cat paw shrimp merchant", "hugel", 76, 165}
+, 
+{"hugel", 13138, 101, 90, "lisa", "3459", 71, 197}
+, 
+{"hugel", 13139, 101, 90, "emily", "3459", 126, 151}
+, 
+{"hugel", 13140, 101, 706, "torpy", "", 107, 67}
+, 
+{"hugel", 13142, 101, 898, "strange man", "out", 100, 174}
+, 
+{"hugel", 13163, 101, 709, "kurupe", "Hugel", 56, 104}
+, 
+{"hugel", 13165, 101, 889, "booboo the cow", "Hugel", 68, 99}
+, 
+{"hugel", 13166, 101, 896, "kayplas", "hg", 85, 165}
+, 
+{"hugel", 13167, 101, 898, "young man", "hg", 189, 143}
+, 
+{"hugel", 13168, 101, 897, "marius", "hg", 175, 115}
+, 
+{"hugel", 13169, 101, 892, "old nikki", "hg", 169, 112}
+, 
+{"hugel", 13173, 101, 101, "neha", "hg", 76, 134}
+, 
+{"hugel", 13174, 101, 86, "maewan", "hg", 87, 139}
+, 
+{"hugel", 13175, 101, 700, "layoma", "hg", 84, 125}
+, 
+{"hugel", 13176, 101, 100, "erjan", "hg", 102, 161}
+, 
+{"hugel", 13177, 101, 837, "sign", "", 91, 152}
+, 
+{"hugel", 13186, 101, 709, "boatman", "", 209, 109}
+, 
+{"hugel", 16048, 101, 897, "ghenirhemin", "", 147, 103}
+, 
+{"hugel", 16114, 101, 863, "hugel guide granny", "hugel", 98, 56}
+, 
+{"hugel", 16115, 101, 414, "guide rich king", "hugel", 187, 172}
+, 
+{"hugel", 16343, 101, 874, "cool event corp. staff", "", 88, 168}
+, 
+{"hugel", 16387, 101, 892, "fruit shop", "", 77, 167}
+, 
+{"hugel", 16542, 102, 53, "milk merchant", "", 105, 169}
+, 
+{"hugel", 21170, 101, 729, "eden teleport officer", "20", 99, 167}
+, 
+{"hugel", 21571, 101, 798, "eckar erenes", "double", 62, 69}
+, 
+{"hugel", 21583, 101, 900, "wayne", "", 71, 83}
+, 
+{"hugel", 21585, 101, 866, "mudie", "dummy01", 85, 93}
+, 
+{"ice_dun01", 21093, 101, 836, "spirit detecting staff", "1", 274, 274}
+, 
+{"ice_dun01", 21328, 101, 726, "dispatched instructor", "2nd02", 154, 13}
+, 
+{"ice_dun02", 13452, 101, 924, "man stuck in ice", "cave", 120, 105}
+, 
+{"ice_dun02", 21088, 101, 802, "red flame", "sc_f02", 206, 223}
+, 
+{"ice_dun03", 13455, 101, 802, "blazing fire", "ice1", 126, 126}
+, 
+{"ice_dun03", 13456, 101, 802, "blazing fire", "ice2", 172, 126}
+, 
+{"ice_dun03", 13457, 101, 802, "blazing fire", "ice3", 172, 173}
+, 
+{"ice_dun03", 13458, 101, 802, "blazing fire", "ice4", 127, 172}
+, 
+{"ice_dun04", 13463, 101, 925, "frozen boy", "", 33, 166}
+, 
+{"in_moc_16", 16389, 102, 880, "sepulchral merchant", "", 22, 20}
+, 
+{"in_moc_16", 20434, 101, 55, "guildsman", "", 19, 33}
+, 
+{"in_moc_16", 20439, 101, 730, "guildsman", "ASN2", 25, 90}
+, 
+{"in_moc_16", 20452, 101, 725, "test guide", "ASN", 21, 168}
+, 
+{"in_moc_16", 20544, 101, 118, "thomas", "ASNTEST", 89, 98}
+, 
+{"in_moc_16", 20547, 101, 725, "barcardi", "ASN", 87, 48}
+, 
+{"in_moc_16", 20556, 101, 55, "master assist", "", 186, 81}
+, 
+{"in_moc_16", 20778, 101, 884, "assassin", "realman", 14, 27}
+, 
+{"in_moc_16", 20779, 101, 885, "assassin", "realgirl", 23, 27}
+, 
+{"in_orcs01", 16032, 101, 1023, "orc warrior", "1", 31, 93}
+, 
+{"in_orcs01", 16034, 101, 1087, "orc hero", "1", 162, 33}
+, 
+{"in_orcs01", 16051, 101, 1273, "orc lady", "2008hat03", 119, 106}
+, 
+{"in_orcs01", 21319, 101, 803, "eden group member", "para07", 38, 175}
+, 
+{"in_rogue", 20200, 101, 748, "suspicious man", "megin", 243, 61}
+, 
+{"in_rogue", 20720, 101, 747, "rogue guildsman", "", 363, 122}
+, 
+{"in_rogue", 20721, 101, 57, "mr. smith", "", 376, 23}
+, 
+{"in_rogue", 20726, 101, 85, "hermanthorn jr", "", 272, 135}
+, 
+{"in_rogue", 20734, 101, 99, "aragham junior", "", 244, 39}
+, 
+{"in_rogue", 20738, 101, 85, "hollgrehenn junior", "", 160, 34}
+, 
+{"in_rogue", 20742, 101, 88, "antonio junior", "", 177, 109}
+, 
+{"in_rogue", 20812, 101, 705, "killer", "Rogueguild", 357, 174}
+, 
+{"in_rogue", 20813, 101, 46, "haijara greg", "rogueguild", 355, 179}
+, 
+{"in_rogue", 20814, 101, 84, "louis greg", "rogueguild", 152, 29}
+, 
+{"in_rogue", 20815, 101, 86, "thor greg", "rogueguild", 268, 125}
+, 
+{"in_rogue", 20819, 101, 85, "jay greg", "rogueguild", 181, 114}
+, 
+{"in_rogue", 21081, 101, 828, "guild member", "sc01", 376, 100}
+, 
+{"in_rogue", 21082, 101, 747, "guild member", "sc02", 379, 99}
+, 
+{"in_rogue", 21083, 101, 810, "scary man", "sc03", 379, 101}
+, 
+{"in_rogue", 21675, 101, 828, "rogue investigator", "", 366, 46}
+, 
+{"in_rogue", 21679, 101, 747, "marybell", "", 359, 116}
+, 
+{"in_rogue", 21693, 101, 118, "rogue agent", "", 355, 28}
+, 
+{"iz_ac01", 21218, 101, 729, "eden teleport officer", "45", 106, 36}
+, 
+{"iz_dun04", 21320, 101, 745, "eden group member", "para08", 43, 46}
+, 
+{"izlu2dun", 11388, 101, 100, "sailor", "", 108, 27}
+, 
+{"izlu2dun", 16283, 101, 116, "kafra employee", "", 106, 58}
+, 
+{"izlu2dun", 20146, 101, 837, "bulletin board", "izlude", 104, 91}
+, 
+{"izlude", 10002, 101, 495, "cat paw shrimp merchant", "izlude", 117, 165}
+, 
+{"izlude", 10095, 101, 495, "con-chliina crewman", "doiz", 195, 213}
+, 
+{"izlude", 10224, 101, 10162, "militiaman penne", "doect01", 138, 183}
+, 
+{"izlude", 11385, 101, 100, "sailor", "", 197, 205}
+, 
+{"izlude", 11390, 101, 90, "bonne", "", 71, 92}
+, 
+{"izlude", 11391, 101, 91, "charfri", "", 172, 215}
+, 
+{"izlude", 11392, 101, 124, "cuskoal", "", 174, 164}
+, 
+{"izlude", 11393, 101, 84, "dega", "", 85, 103}
+, 
+{"izlude", 11394, 101, 97, "kylick", "", 140, 186}
+, 
+{"izlude", 11395, 101, 85, "red", "", 57, 159}
+, 
+{"izlude", 11396, 101, 98, "cebalis", "", 55, 159}
+, 
+{"izlude", 11398, 101, 105, "soldier", "", 166, 156}
+, 
+{"izlude", 11399, 101, 49, "edgar", "", 179, 219}
+, 
+{"izlude", 12171, 101, 71, "honeymoon helper", "Izlude", 180, 224}
+, 
+{"izlude", 12355, 101, 90, "airship staff", "izlude", 202, 75}
+, 
+{"izlude", 12918, 101, 853, "scamp", "", 172, 73}
+, 
+{"izlude", 14106, 101, 100, "promotional staff", "", 99, 136}
+, 
+{"izlude", 15741, 101, 554, "odgnalam", "iz", 182, 218}
+, 
+{"izlude", 16003, 101, 700, "point seller", "Sorcerer7", 138, 163}
+, 
+{"izlude", 16080, 101, 105, "guide", "01izlude", 129, 175}
+, 
+{"izlude", 16081, 101, 105, "guide", "02izlude", 133, 113}
+, 
+{"izlude", 16207, 101, 117, "kafra employee", "", 128, 148}
+, 
+{"izlude", 16367, 101, 734, "mercenary guild manager", "Sword", 47, 170}
+, 
+{"izlude", 16370, 101, 893, "mercenary merchant", "Sword", 55, 170}
+, 
+{"izlude", 16406, 102, 53, "fruit gardener", "", 124, 165}
+, 
+{"izlude", 16407, 102, 54, "butcher", "", 160, 186}
+, 
+{"izlude", 16408, 102, 90, "vendor from milk ranch", "", 128, 158}
+, 
+{"izlude", 20013, 101, 92, "smile assistance", "", 125, 175}
+, 
+{"izlude", 20134, 101, 837, "bulletin board", "izlude", 131, 116}
+, 
+{"izlude", 21204, 101, 729, "eden teleport officer", "38", 131, 148}
+, 
+{"izlude", 21593, 101, 124, "hypnotist", "iz", 127, 175}
+, 
+{"izlude_in", 10531, 101, 102, "nain", "", 173, 88}
+, 
+{"izlude_in", 11397, 101, 65, "aaron", "", 125, 164}
+, 
+{"izlude_in", 16409, 102, 72, "weapon dealer", "", 60, 127}
+, 
+{"izlude_in", 16410, 102, 62, "armor dealer", "", 70, 127}
+, 
+{"izlude_in", 16411, 102, 47, "tool dealer", "", 57, 110}
+, 
+{"izlude_in", 16412, 102, 124, "pet groomer", "", 72, 98}
+, 
+{"izlude_in", 19984, 101, 125, "monster tamer", "", 55, 105}
+, 
+{"izlude_in", 20272, 101, 119, "swordman", "", 74, 172}
+, 
+{"izlude_in", 20284, 102, 900, "trading merchant", "", 72, 110}
+, 
+{"izlude_in", 20295, 101, 83, "bullet merchant kenny", "izlude_in", 74, 104}
+, 
+{"izlude_in", 20298, 101, 86, "bullet merchange tony", "airplane", 74, 106}
+, 
+{"izlude_in", 20420, 101, 733, "shurank", "", 82, 163}
+, 
+{"izlude_in", 21142, 101, 729, "eden teleport officer", "6", 68, 162}
+, 
+{"izlude_in", 21670, 101, 878, "dorian", "", 57, 92}
+, 
+{"jawaii", 12173, 101, 100, "mariner", "toizu", 239, 112}
+, 
+{"jawaii", 12175, 101, 100, "mariner", "toalbe", 122, 263}
+, 
+{"jawaii", 12177, 101, 80, "tavern lady", "", 188, 218}
+, 
+{"jawaii", 12178, 101, 724, "jawaii resident", "heart", 220, 235}
+, 
+{"jawaii", 12179, 101, 724, "jawaii resident", "desc1", 240, 146}
+, 
+{"jawaii", 12180, 101, 724, "jawaii resident", "desc2", 168, 247}
+, 
+{"jawaii", 12181, 101, 724, "jawaii resident", "desc3", 165, 121}
+, 
+{"jawaii", 12182, 101, 798, "employee", "sroom", 141, 200}
+, 
+{"jawaii", 12183, 101, 74, "employee", "antroom", 108, 199}
+, 
+{"jawaii", 12184, 101, 93, "employee", "horoom", 107, 189}
+, 
+{"jawaii", 12185, 101, 93, "employee", "villroom", 112, 173}
+, 
+{"jawaii", 12186, 101, 71, "honeymoon helper", "Jawaii", 214, 168}
+, 
+{"jawaii", 12187, 102, 85, "ice cream guy", "", 186, 174}
+, 
+{"jawaii_in", 12159, 101, 724, "employee", "jaw1", 25, 94}
+, 
+{"jawaii_in", 12160, 101, 724, "employee", "jaw2", 25, 96}
+, 
+{"jawaii_in", 12161, 101, 724, "employee", "jaw3", 25, 98}
+, 
+{"jawaii_in", 12162, 101, 724, "employee", "jaw4", 25, 100}
+, 
+{"jawaii_in", 12163, 101, 724, "employee", "jaw5", 30, 94}
+, 
+{"jawaii_in", 12164, 101, 724, "employee", "jaw6", 30, 96}
+, 
+{"jawaii_in", 12165, 101, 724, "employee", "jaw7", 30, 98}
+, 
+{"jawaii_in", 12166, 101, 724, "employee", "jaw8", 30, 100}
+, 
+{"jawaii_in", 12167, 101, 80, "waitress", "jawaii", 15, 104}
+, 
+{"jawaii_in", 12168, 101, 46, "bartender", "jaw", 28, 124}
+, 
+{"jawaii_in", 12169, 101, 97, "customer", "jaw_1", 43, 115}
+, 
+{"jawaii_in", 12170, 101, 98, "customer", "Cage", 41, 106}
+, 
+{"jawaii_in", 20204, 101, 734, "security officer", "megin", 44, 110}
+, 
+{"job3_gen01", 20885, 101, 542, "viorel", "job3_gen01", 12, 44}
+, 
+{"job3_gen01", 21007, 101, 865, "devries", "gen", 25, 58}
+, 
+{"job3_gen01", 21008, 101, 982, "demi calberine", "gen", 91, 48}
+, 
+{"job3_gen01", 21011, 101, 837, "warning", "gen", 18, 39}
+, 
+{"job3_guil01", 15996, 101, 49, "rare poison herb collector", "", 91, 93}
+, 
+{"job3_guil01", 20927, 101, 940, "daora", "3rdgc02", 82, 95}
+, 
+{"job3_guil01", 20928, 101, 894, "mayshell", "3rdgc03", 16, 20}
+, 
+{"job3_guil01", 20936, 101, 919, "estillda", "3rdgc11", 79, 15}
+, 
+{"job3_guil01", 20942, 101, 467, "bercasell", "3rdgc16", 148, 53}
+, 
+{"job3_rune01", 15994, 101, 853, "rune seller", "", 90, 62}
+, 
+{"job3_rune01", 20962, 101, 470, "rune knight captain", "", 80, 60}
+, 
+{"job3_rune01", 20964, 101, 469, "rune knight lunarea", "", 90, 50}
+, 
+{"job3_rune01", 20965, 101, 469, "rune knight, renoa", "", 55, 50}
+, 
+{"job3_rune01", 20977, 101, 468, "rune knight velpino", "", 114, 50}
+, 
+{"job_duncer", 13679, 101, 892, "dance instructor", "sch", 93, 106}
+, 
+{"job_duncer", 13680, 101, 724, "young dancer", "sch", 85, 49}
+, 
+{"job_duncer", 13682, 101, 724, "cheerful dancer", "sch", 83, 52}
+, 
+{"job_duncer", 13684, 101, 724, "mature looking dancer", "sch", 87, 50}
+, 
+{"job_duncer", 20626, 101, 724, "aile", "", 43, 93}
+, 
+{"job_duncer", 20627, 101, 101, "bijou", "", 95, 93}
+, 
+{"job_duncer", 20630, 101, 66, "waiting room", "click", 32, 154}
+, 
+{"job_duncer", 20639, 101, 724, "backdancer", "1", 63, 110}
+, 
+{"job_duncer", 20640, 101, 724, "backdancer", "2", 66, 113}
+, 
+{"job_duncer", 20641, 101, 724, "backdancer", "3", 72, 113}
+, 
+{"job_duncer", 20642, 101, 724, "backdancer", "4", 75, 110}
+, 
+{"job_monk", 20696, 101, 89, "hyunmoo", "", 225, 180}
+, 
+{"job_star", 20343, 101, 59, "daru", "job_star", 29, 33}
+, 
+{"job_star", 20354, 101, 106, "beeryu", "job_star", 95, 33}
+, 
+{"job_star", 20364, 101, 77, "cheehee", "job_star", 161, 33}
+, 
+{"jupe_cave", 20944, 101, 883, "scholar", "", 37, 55}
+, 
+{"jupe_core2", 20946, 101, 802, "ghostfire", "1", 149, 273}
+, 
+{"jupe_core2", 20948, 101, 802, "ghostfire", "2", 53, 75}
+, 
+{"jupe_core2", 20949, 101, 802, "ghostfire", "3", 242, 62}
+, 
+{"kh_dun01", 21555, 101, 857, "signboard", "kh", 163, 223}
+, 
+{"kh_mansion", 21535, 101, 109, "steward", "kh", 78, 54}
+, 
+{"kh_mansion", 21543, 101, 894, "allysia", "", 18, 30}
+, 
+{"kh_mansion", 21544, 101, 903, "kiel hyre", "kh", 22, 28}
+, 
+{"kh_mansion", 21546, 101, 727, "mysterious woman", "kh", 25, 79}
+, 
+{"kh_school", 21506, 101, 893, "student", "kha", 57, 142}
+, 
+{"kh_school", 21507, 101, 893, "student", "khb", 57, 139}
+, 
+{"kh_school", 21508, 101, 101, "lady", "kh", 176, 60}
+, 
+{"kh_school", 21513, 101, 895, "cute student", "kh", 179, 39}
+, 
+{"kh_school", 21520, 101, 895, "elly", "", 177, 180}
+, 
+{"kh_school", 21522, 101, 894, "beautiful lady", "kh1", 117, 149}
+, 
+{"kh_school", 21523, 101, 894, "beautiful lady", "kh1", 118, 149}
+, 
+{"kh_school", 21524, 101, 894, "beautiful lady", "kh1", 120, 149}
+, 
+{"kh_school", 21525, 101, 894, "beautiful lady", "kh1", 121, 149}
+, 
+{"kh_school", 21526, 101, 894, "beautiful lady", "kh1", 119, 149}
+, 
+{"kh_school", 21530, 101, 894, "beautiful lady", "kh2", 122, 186}
+, 
+{"kh_vila", 21514, 101, 81, "vicious dog", "khp1", 181, 178}
+, 
+{"lasa_dun_q", 10068, 101, 10161, "tartufi", "dorcon01", 162, 158}
+, 
+{"lasa_fild01", 10198, 101, 10162, "militiaman ajegna", "doram01", 49, 304}
+, 
+{"lasa_fild01", 10199, 101, 10154, "militiaman alio", "doram02t", 60, 322}
+, 
+{"lasa_fild01", 10201, 101, 10167, "well-known troublemaker", "doram11t", 103, 344}
+, 
+{"lasa_fild01", 10203, 101, 10167, "sloth", "doram", 132, 374}
+, 
+{"lasa_fild01", 10211, 101, 495, "applicant paul", "doramt13", 53, 322}
+, 
+{"lasa_fild01", 10212, 101, 495, "applicant maccarnie", "doramt14", 50, 321}
+, 
+{"lasa_fild01", 10213, 101, 10162, "militiaman nyoki", "doramt15", 54, 325}
+, 
+{"lasa_in01", 10090, 101, 10152, "chief peperoncino", "dorcon99", 179, 60}
+, 
+{"lasa_in01", 10091, 101, 548, "vigilante chef", "dorcon99", 186, 57}
+, 
+{"lasa_in01", 10154, 101, 10152, "chief peperocino", "lasain", 59, 90}
+, 
+{"lasa_in01", 10157, 101, 10158, "basilisk prisoner", "lasain", 61, 91}
+, 
+{"lasa_in01", 10163, 101, 10159, "jindou", "lasain", 64, 92}
+, 
+{"lasagna", 10001, 101, 495, "cat paw shrimp merchant", "lasagna", 166, 117}
+, 
+{"lasagna", 10030, 101, 546, "the sensitive-minded eldest son", "weapon", 140, 245}
+, 
+{"lasagna", 10031, 101, 555, "the diligent second son", "weapon", 131, 245}
+, 
+{"lasagna", 10032, 101, 10164, "the brave third", "weapon", 131, 250}
+, 
+{"lasagna", 10033, 101, 10165, "the skittish fourth", "weapon", 140, 250}
+, 
+{"lasagna", 10061, 101, 10162, "vigilante", "dorcon01", 298, 84}
+, 
+{"lasagna", 10136, 101, 559, "boarding attendant", "dorcon01", 211, 186}
+, 
+{"lasagna", 10149, 101, 10166, "hair designer", "dr", 134, 113}
+, 
+{"lasagna", 10150, 101, 10162, "vigilante guide", "lasa", 202, 291}
+, 
+{"lasagna", 10151, 101, 10162, "vigilante guide", "lasa2", 174, 160}
+, 
+{"lasagna", 10152, 101, 10152, "chief peperocino", "lasa", 235, 198}
+, 
+{"lasagna", 10153, 101, 10155, "vigilante olio", "lasa", 233, 197}
+, 
+{"lasagna", 10205, 101, 10167, "kid", "doram04t", 168, 125}
+, 
+{"lasagna", 10206, 101, 10163, "tool merchant", "doram05t", 165, 125}
+, 
+{"lasagna", 10207, 101, 10164, "healer haru", "doram07t", 224, 126}
+, 
+{"lasagna", 10208, 101, 10154, "militiaman alio", "doram09t", 230, 127}
+, 
+{"lasagna", 10209, 101, 549, "hypnotist", "doram08t", 222, 123}
+, 
+{"lasagna", 10210, 101, 495, "cat paw service", "lasagna", 208, 188}
+, 
+{"lasagna", 10214, 102, 495, "peddler", "lasagna", 175, 209}
+, 
+{"lasagna", 10215, 102, 125, "taming merchant", "", 179, 176}
+, 
+{"lhz_airport", 12331, 101, 90, "airport staff", "lhz_airport1a", 143, 43}
+, 
+{"lhz_airport", 12334, 101, 90, "airship staff", "lhz_airport1b", 158, 43}
+, 
+{"lhz_airport", 12337, 101, 90, "airship staff", "lhz_airport1c", 126, 43}
+, 
+{"lhz_airport", 12340, 101, 90, "arrival staff", "lhz_airport2a", 143, 49}
+, 
+{"lhz_airport", 12342, 101, 90, "arrival staff", "lhz_airport2b", 126, 51}
+, 
+{"lhz_airport", 12344, 101, 90, "arrival staff", "lhz_airport2c", 158, 50}
+, 
+{"lhz_dun02", 12984, 101, 837, "warning", "lhz_east", 177, 150}
+, 
+{"lhz_dun02", 12985, 101, 837, "warning", "lhz_south", 150, 122}
+, 
+{"lhz_dun02", 12986, 101, 837, "warning", "lhz_west", 122, 149}
+, 
+{"lhz_dun02", 12987, 101, 837, "warning", "lhz_north", 149, 178}
+, 
+{"lhz_dun04", 21774, 101, 865, "researcher", "memo", 151, 276}
+, 
+{"lhz_fild01", 12620, 101, 859, "mysterious woman", "lt7", 66, 219}
+, 
+{"lhz_fild02", 12618, 101, 849, "wounded man", "lt", 228, 214}
+, 
+{"lhz_in01", 12621, 101, 865, "researcher", "lt", 93, 45}
+, 
+{"lhz_in01", 12622, 101, 865, "researcher", "lt1", 285, 169}
+, 
+{"lhz_in01", 12623, 101, 868, "guard", "lt5", 180, 28}
+, 
+{"lhz_in01", 12624, 101, 868, "guard", "lt5", 173, 28}
+, 
+{"lhz_in01", 12629, 101, 862, "guide", "lt2", 73, 188}
+, 
+{"lhz_in01", 12630, 101, 90, "guide", "lt1", 72, 195}
+, 
+{"lhz_in01", 12631, 101, 862, "guide", "lt1", 72, 209}
+, 
+{"lhz_in01", 12638, 101, 868, "regenschirm guard", "40", 24, 140}
+, 
+{"lhz_in01", 12746, 101, 71, "representative", "li_01", 114, 181}
+, 
+{"lhz_in01", 12747, 101, 71, "representative", "li_02", 27, 247}
+, 
+{"lhz_in01", 12748, 101, 865, "mad scientist", "li", 273, 121}
+, 
+{"lhz_in01", 12749, 101, 831, "secretary slierre", "li", 286, 226}
+, 
+{"lhz_in01", 12754, 101, 867, "rekenber guard", "li01", 35, 226}
+, 
+{"lhz_in01", 12755, 101, 867, "rekenber guard", "li02", 23, 132}
+, 
+{"lhz_in01", 12756, 101, 867, "rekenber guard", "li03", 46, 125}
+, 
+{"lhz_in01", 12757, 101, 98, "jorje", "zero", 144, 53}
+, 
+{"lhz_in01", 12758, 101, 869, "mereth", "erem", 129, 54}
+, 
+{"lhz_in01", 12759, 101, 89, "jorjerro", "fhero", 110, 40}
+, 
+{"lhz_in01", 12760, 101, 841, "ninjose", "nina", 116, 53}
+, 
+{"lhz_in01", 12761, 101, 704, "joshua", "aya", 116, 45}
+, 
+{"lhz_in01", 12762, 101, 822, "kejulle rekenber", "reken", 116, 39}
+, 
+{"lhz_in01", 12764, 101, 91, "eiya", "iaiai", 164, 45}
+, 
+{"lhz_in01", 12765, 101, 797, "mareth", "seram", 157, 47}
+, 
+{"lhz_in01", 12766, 101, 828, "mazwon", "minus1", 147, 40}
+, 
+{"lhz_in01", 12767, 101, 97, "noama", "amano", 148, 45}
+, 
+{"lhz_in01", 12768, 101, 53, "enoz", "oz", 139, 40}
+, 
+{"lhz_in01", 12769, 101, 73, "leimi", "mimir", 139, 48}
+, 
+{"lhz_in01", 12770, 101, 869, "cenku dekdam", "delic", 134, 45}
+, 
+{"lhz_in01", 12771, 101, 798, "bankri kun", "kagun", 134, 38}
+, 
+{"lhz_in01", 12772, 101, 849, "leekal", "lackee", 125, 46}
+, 
+{"lhz_in01", 12773, 101, 843, "dowbow ryuei", "ryusei", 125, 40}
+, 
+{"lhz_in01", 12774, 101, 66, "ellette", "tre", 124, 28}
+, 
+{"lhz_in01", 12776, 101, 865, "scientist", "li_01", 221, 131}
+, 
+{"lhz_in01", 12777, 101, 851, "repairman", "li_01", 217, 121}
+, 
+{"lhz_in01", 12778, 101, 750, "scientist", "li_02", 203, 123}
+, 
+{"lhz_in01", 12779, 101, 865, "scientist", "li_03", 199, 137}
+, 
+{"lhz_in01", 12790, 101, 109, "banquet staff", "", 14, 28}
+, 
+{"lhz_in01", 12791, 101, 703, "luccet", "li_party", 43, 52}
+, 
+{"lhz_in01", 12792, 101, 706, "hanccet", "li_party", 28, 33}
+, 
+{"lhz_in01", 12793, 101, 91, "annette", "li_party", 21, 50}
+, 
+{"lhz_in01", 12914, 101, 868, "young man", "", 174, 258}
+, 
+{"lhz_in01", 14078, 101, 903, "gerhart", "", 110, 174}
+, 
+{"lhz_in01", 14108, 101, 967, "munkenro", "", 136, 260}
+, 
+{"lhz_in01", 14109, 101, 868, "sikaiz", "", 132, 259}
+, 
+{"lhz_in01", 14110, 101, 899, "guard", "", 115, 250}
+, 
+{"lhz_in01", 14111, 101, 899, "guard", "", 115, 252}
+, 
+{"lhz_in01", 14112, 101, 899, "guard", "", 147, 252}
+, 
+{"lhz_in01", 14113, 101, 899, "guard", "", 147, 250}
+, 
+{"lhz_in01", 14114, 101, 899, "guard", "", 124, 234}
+, 
+{"lhz_in01", 14115, 101, 899, "guard", "", 121, 234}
+, 
+{"lhz_in01", 14116, 101, 899, "guard", "", 137, 234}
+, 
+{"lhz_in01", 14117, 101, 899, "guard", "", 140, 234}
+, 
+{"lhz_in01", 14118, 101, 899, "guard", "", 130, 232}
+, 
+{"lhz_in01", 14120, 101, 904, "member of alliance", "", 128, 249}
+, 
+{"lhz_in01", 14121, 101, 869, "member of alliance", "", 136, 245}
+, 
+{"lhz_in01", 14122, 101, 85, "member of alliance", "", 140, 245}
+, 
+{"lhz_in01", 14123, 101, 865, "member of alliance", "", 136, 249}
+, 
+{"lhz_in01", 14124, 101, 932, "member of alliance", "", 124, 245}
+, 
+{"lhz_in01", 14125, 101, 849, "member of alliance", "", 136, 241}
+, 
+{"lhz_in01", 14126, 101, 930, "member of alliance", "", 126, 249}
+, 
+{"lhz_in01", 14127, 101, 882, "member of alliance", "", 122, 245}
+, 
+{"lhz_in01", 14129, 101, 109, "officer a", "", 32, 22}
+, 
+{"lhz_in01", 14130, 101, 109, "officerb", "", 30, 24}
+, 
+{"lhz_in01", 20795, 101, 57, "kellasus", "", 224, 140}
+, 
+{"lhz_in01", 20796, 101, 754, "skrajjad", "", 225, 122}
+, 
+{"lhz_in01", 20797, 101, 750, "keshibien", "", 204, 138}
+, 
+{"lhz_in01", 20802, 101, 98, "alchemist", "", 218, 141}
+, 
+{"lhz_in02", 10013, 101, 495, "cat paw shrimp merchant", "lhz_in02", 29, 219}
+, 
+{"lhz_in02", 12632, 101, 831, "cool event staff", "Saera", 36, 274}
+, 
+{"lhz_in02", 12633, 101, 833, "event planner", "", 40, 280}
+, 
+{"lhz_in02", 12634, 101, 853, "cool event manager", "", 110, 286}
+, 
+{"lhz_in02", 12635, 101, 874, "cool event staff", "Cesuna", 36, 284}
+, 
+{"lhz_in02", 12636, 101, 851, "maintenance guy", "", 19, 274}
+, 
+{"lhz_in02", 12648, 101, 61, "bartender", "amano07", 277, 285}
+, 
+{"lhz_in02", 12649, 101, 865, "lab staff", "amano08", 265, 273}
+, 
+{"lhz_in02", 12650, 101, 47, "citizen", "amano09", 271, 281}
+, 
+{"lhz_in02", 12651, 101, 853, "customer", "amano10", 287, 282}
+, 
+{"lhz_in02", 12652, 101, 50, "customer", "amano11", 287, 273}
+, 
+{"lhz_in02", 12653, 101, 815, "customer", "amano12", 283, 276}
+, 
+{"lhz_in02", 12654, 101, 816, "customer", "amano13", 281, 280}
+, 
+{"lhz_in02", 12655, 101, 122, "hair dresser", "li", 100, 143}
+, 
+{"lhz_in02", 12656, 101, 114, "kafra admin", "hairstlye", 7, 7}
+, 
+{"lhz_in02", 12658, 101, 869, "digotz", "", 201, 210}
+, 
+{"lhz_in02", 12670, 101, 753, "martial artist", "", 289, 277}
+, 
+{"lhz_in02", 12684, 101, 869, "harp", "zen8", 221, 276}
+, 
+{"lhz_in02", 12698, 101, 747, "diana", "npc", 267, 25}
+, 
+{"lhz_in02", 12699, 101, 91, "shop assistant", "cobo", 267, 22}
+, 
+{"lhz_in02", 12701, 101, 91, "maggie", "05", 34, 212}
+, 
+{"lhz_in02", 12702, 101, 853, "millette", "05", 153, 206}
+, 
+{"lhz_in02", 12703, 101, 870, "hinkley", "06", 157, 201}
+, 
+{"lhz_in02", 12704, 101, 849, "togii", "07", 145, 177}
+, 
+{"lhz_in02", 12705, 101, 863, "tanoue", "zen04", 229, 217}
+, 
+{"lhz_in02", 12706, 101, 85, "officer guo", "06", 147, 221}
+, 
+{"lhz_in02", 12707, 101, 870, "suspect", "06", 142, 222}
+, 
+{"lhz_in02", 12715, 101, 86, "hotel employee", "", 230, 284}
+, 
+{"lhz_in02", 12716, 101, 869, "hotel employee", "zen1", 238, 275}
+, 
+{"lhz_in02", 12717, 101, 84, "ben allen", "zen11", 209, 277}
+, 
+{"lhz_in02", 12718, 101, 868, "hotel employee", "zen2", 251, 212}
+, 
+{"lhz_in02", 12719, 101, 849, "christopher michael", "zen12", 210, 189}
+, 
+{"lhz_in02", 12720, 101, 853, "safwat fahmy", "", 201, 181}
+, 
+{"lhz_in02", 12721, 101, 868, "hotel employee", "zen3", 242, 172}
+, 
+{"lhz_in02", 12722, 101, 868, "hotel employee", "zen4", 247, 275}
+, 
+{"lhz_in02", 12729, 101, 849, "arthur", "zen16", 34, 41}
+, 
+{"lhz_in02", 12730, 101, 703, "helen", "zen6", 28, 39}
+, 
+{"lhz_in02", 12731, 101, 847, "tadem", "zen6", 31, 34}
+, 
+{"lhz_in02", 12732, 101, 863, "gracie", "5", 31, 33}
+, 
+{"lhz_in02", 12733, 101, 86, "bank clerk", "1", 21, 38}
+, 
+{"lhz_in02", 12734, 101, 86, "bank clerk", "2", 21, 25}
+, 
+{"lhz_in02", 12735, 101, 755, "bank clerk", "3", 34, 22}
+, 
+{"lhz_in02", 12787, 101, 85, "healthy looking guy", "hol", 159, 198}
+, 
+{"lhz_in02", 12788, 101, 850, "hair dyer", "lich", 100, 134}
+, 
+{"lhz_in02", 12789, 101, 862, "assistant beautician", "lich", 91, 155}
+, 
+{"lhz_in02", 15993, 101, 877, "poison herb seller", "", 16, 205}
+, 
+{"lhz_in02", 16035, 101, 90, "margaret merry", "hat", 91, 38}
+, 
+{"lhz_in02", 16054, 101, 748, "drunken man", "Necktie", 276, 281}
+, 
+{"lhz_in02", 16341, 101, 861, "kafra employee", "", 237, 284}
+, 
+{"lhz_in02", 16496, 102, 851, "weapon dealer", "", 276, 99}
+, 
+{"lhz_in02", 16497, 102, 854, "wand dealer", "", 273, 35}
+, 
+{"lhz_in02", 16498, 102, 851, "armor dealer", "", 271, 99}
+, 
+{"lhz_in02", 16499, 102, 62, "beginner\'s merchant", "", 286, 95}
+, 
+{"lhz_in02", 16500, 102, 91, "jeweler", "", 105, 21}
+, 
+{"lhz_in02", 16501, 102, 102, "fruit gardener", "", 21, 220}
+, 
+{"lhz_in02", 16502, 102, 91, "vegetable gardener", "", 17, 220}
+, 
+{"lhz_in02", 16503, 102, 54, "butcher", "", 32, 219}
+, 
+{"lhz_in02", 16504, 102, 91, "gift merchant", "", 38, 145}
+, 
+{"lhz_in02", 16505, 102, 71, "wedding shop dealer", "", 47, 148}
+, 
+{"lhz_in02", 16506, 102, 862, "doll supplier", "", 85, 216}
+, 
+{"lhz_in02", 16507, 102, 715, "toy supplier", "", 87, 208}
+, 
+{"lhz_in02", 16508, 102, 90, "tool dealer", "", 31, 145}
+, 
+{"lhz_in02", 20002, 101, 84, "pvpnarrator", "", 233, 284}
+, 
+{"lhz_in02", 20003, 101, 83, "gate keeper", "", 235, 284}
+, 
+{"lhz_in02", 20798, 101, 709, "broncher", "", 278, 273}
+, 
+{"lhz_in02", 21654, 101, 84, "seiyablem", "lhz", 281, 35}
+, 
+{"lhz_in02", 21660, 101, 97, "young man", "lhz", 269, 33}
+, 
+{"lhz_in03", 12640, 101, 61, "bartender", "12", 193, 25}
+, 
+{"lhz_in03", 12641, 101, 869, "bad drunk", "12", 186, 29}
+, 
+{"lhz_in03", 12642, 101, 869, "drunken man", "amano01", 189, 87}
+, 
+{"lhz_in03", 12643, 101, 870, "drunken man", "amano02", 183, 82}
+, 
+{"lhz_in03", 12644, 101, 86, "citizen", "amano03", 180, 83}
+, 
+{"lhz_in03", 12645, 101, 869, "citizen", "amano04", 176, 85}
+, 
+{"lhz_in03", 12646, 101, 862, "city girl", "amano05", 192, 93}
+, 
+{"lhz_in03", 12647, 101, 869, "bad drunk", "amano06", 185, 20}
+, 
+{"lhz_in03", 12676, 101, 863, "sopheap", "zen1", 32, 99}
+, 
+{"lhz_in03", 12677, 101, 869, "gopal", "zen4", 25, 105}
+, 
+{"lhz_in03", 12688, 101, 849, "avetis", "zen10", 239, 38}
+, 
+{"lhz_in03", 12695, 101, 55, "loudmouth", "", 184, 38}
+, 
+{"lhz_in03", 12696, 101, 855, "haggar", "zen1", 192, 19}
+, 
+{"lhz_in03", 12741, 101, 53, "crippled girl", "li_tre", 32, 162}
+, 
+{"lhz_in03", 12745, 101, 850, "shayna", "li", 26, 167}
+, 
+{"lhz_in03", 12798, 101, 81, "rocky", "li_house", 100, 18}
+, 
+{"lhz_in03", 12799, 101, 850, "housemaid jane", "li_house1", 129, 22}
+, 
+{"lhz_in03", 12800, 101, 706, "jay", "li_house", 130, 41}
+, 
+{"lhz_in03", 12801, 101, 74, "housemaid brenda", "li_house2", 124, 117}
+, 
+{"lhz_in03", 13137, 101, 83, "makkie", "1234", 193, 28}
+, 
+{"lhz_in03", 13209, 101, 97, "enquro carson", "", 39, 44}
+, 
+{"lhz_in03", 16509, 102, 850, "tool dealer", "", 239, 106}
+, 
+{"lhz_in03", 16510, 102, 855, "arrow merchant", "", 258, 101}
+, 
+{"lhz_in03", 16511, 102, 855, "merchant", "", 249, 24}
+, 
+{"lhz_in03", 16562, 102, 49, "black marketeer", "", 181, 17}
+, 
+{"lhz_in03", 20799, 101, 706, "koring", "", 106, 34}
+, 
+{"lhz_in03", 20800, 101, 90, "beninne", "", 109, 31}
+, 
+{"lighthalzen", 12599, 101, 98, "ordinary man", "lt1", 179, 170}
+, 
+{"lighthalzen", 12637, 101, 868, "fishbone", "", 341, 224}
+, 
+{"lighthalzen", 12657, 101, 870, "maku", "", 337, 232}
+, 
+{"lighthalzen", 12661, 101, 868, "guard", "", 267, 200}
+, 
+{"lighthalzen", 12665, 101, 868, "guard", "", 294, 223}
+, 
+{"lighthalzen", 12669, 101, 869, "kosit", "zen1", 107, 107}
+, 
+{"lighthalzen", 12671, 101, 862, "joyce", "", 190, 134}
+, 
+{"lighthalzen", 12672, 101, 869, "dan song", "zen2", 191, 134}
+, 
+{"lighthalzen", 12673, 101, 862, "maivi", "zen1", 78, 120}
+, 
+{"lighthalzen", 12674, 101, 869, "sigmund", "zen3", 232, 156}
+, 
+{"lighthalzen", 12675, 101, 862, "jade", "zen2", 239, 64}
+, 
+{"lighthalzen", 12678, 101, 866, "collins", "zen1", 115, 159}
+, 
+{"lighthalzen", 12679, 101, 862, "kimmy", "zen3", 176, 65}
+, 
+{"lighthalzen", 12680, 101, 863, "samnang", "zen2", 220, 244}
+, 
+{"lighthalzen", 12681, 101, 870, "bodger", "zen5", 364, 282}
+, 
+{"lighthalzen", 12682, 101, 870, "grinnel", "zen6", 326, 249}
+, 
+{"lighthalzen", 12683, 101, 870, "shengwen", "zen7", 306, 324}
+, 
+{"lighthalzen", 12685, 101, 847, "wallace", "zen2", 202, 94}
+, 
+{"lighthalzen", 12686, 101, 847, "mauro", "zen3", 138, 50}
+, 
+{"lighthalzen", 12687, 101, 869, "victor perfecto", "zen9", 77, 203}
+, 
+{"lighthalzen", 12689, 101, 866, "srinivas", "zen4", 258, 223}
+, 
+{"lighthalzen", 12690, 101, 92, "sergei", "zen1", 192, 63}
+, 
+{"lighthalzen", 12691, 101, 700, "merpi", "zen2", 123, 212}
+, 
+{"lighthalzen", 12692, 101, 866, "klaubis", "zen3", 230, 182}
+, 
+{"lighthalzen", 12693, 101, 869, "vergil", "zen4", 40, 107}
+, 
+{"lighthalzen", 12694, 101, 866, "lucius", "zen5", 182, 102}
+, 
+{"lighthalzen", 12697, 101, 79, "nun", "light", 330, 276}
+, 
+{"lighthalzen", 12700, 101, 863, "janice", "zen03", 45, 59}
+, 
+{"lighthalzen", 12708, 101, 706, "berru", "lhz_01", 296, 239}
+, 
+{"lighthalzen", 12709, 101, 818, "pilia", "lhz_01", 297, 239}
+, 
+{"lighthalzen", 12710, 101, 870, "reuben", "lhz_02", 311, 194}
+, 
+{"lighthalzen", 12711, 101, 777, "beggar", "lhz_02", 312, 233}
+, 
+{"lighthalzen", 12712, 101, 870, "suspicious guy", "lhz_01", 240, 216}
+, 
+{"lighthalzen", 12713, 101, 870, "suspicious guy", "lhz_02", 220, 169}
+, 
+{"lighthalzen", 12714, 101, 870, "suspicious guy", "lhz_03", 164, 127}
+, 
+{"lighthalzen", 12723, 101, 716, "sung", "A", 233, 82}
+, 
+{"lighthalzen", 12724, 101, 97, "kemp", "zen13", 125, 68}
+, 
+{"lighthalzen", 12725, 101, 862, "ruth", "zen4", 261, 112}
+, 
+{"lighthalzen", 12726, 101, 869, "oyoung", "zen14", 259, 108}
+, 
+{"lighthalzen", 12727, 101, 862, "jiwon", "zen5", 198, 285}
+, 
+{"lighthalzen", 12728, 101, 854, "sameer", "zen15", 89, 73}
+, 
+{"lighthalzen", 12775, 101, 868, "rekenber employee", "li", 337, 296}
+, 
+{"lighthalzen", 12780, 101, 866, "villagomez", "li_01", 77, 157}
+, 
+{"lighthalzen", 12781, 101, 734, "sefith", "li_01", 132, 103}
+, 
+{"lighthalzen", 12782, 101, 869, "laqumet", "li_02", 147, 105}
+, 
+{"lighthalzen", 12783, 101, 863, "margie keays", "li_02", 65, 94}
+, 
+{"lighthalzen", 12784, 101, 866, "elmer keays", "li_03", 66, 94}
+, 
+{"lighthalzen", 12785, 101, 72, "kariya", "li_01", 233, 121}
+, 
+{"lighthalzen", 12786, 101, 853, "greedy looking man", "li_01", 205, 208}
+, 
+{"lighthalzen", 12794, 101, 109, "rekenber employee", "li", 159, 222}
+, 
+{"lighthalzen", 12795, 101, 868, "rekenber guard drew", "li_kafra", 162, 304}
+, 
+{"lighthalzen", 12796, 101, 867, "rekenber guard tan", "li_kafra_1", 163, 306}
+, 
+{"lighthalzen", 12797, 101, 102, "delna", "li_reken", 70, 227}
+, 
+{"lighthalzen", 12865, 101, 861, "kafra voting staff", "lght", 163, 60}
+, 
+{"lighthalzen", 12907, 101, 874, "cool event voting staff", "lght", 154, 60}
+, 
+{"lighthalzen", 12915, 101, 85, "old man", "", 141, 162}
+, 
+{"lighthalzen", 13136, 101, 85, "dono", "", 88, 79}
+, 
+{"lighthalzen", 14107, 101, 899, "guide", "", 220, 292}
+, 
+{"lighthalzen", 15737, 101, 553, "dolangmal", "light", 254, 83}
+, 
+{"lighthalzen", 16040, 101, 706, "kid", "Pacifier", 360, 313}
+, 
+{"lighthalzen", 16043, 101, 47, "strange guy", "", 143, 68}
+, 
+{"lighthalzen", 16044, 101, 91, "relaxed-looking lady", "", 182, 89}
+, 
+{"lighthalzen", 16109, 101, 852, "lighthalzen guide", "lighthalzen01", 207, 310}
+, 
+{"lighthalzen", 16110, 101, 852, "lighthalzen guide", "lighthalzen02", 220, 310}
+, 
+{"lighthalzen", 16111, 101, 852, "lighthalzen guide", "lighthalzen03", 154, 100}
+, 
+{"lighthalzen", 16112, 101, 852, "lighthalzen guide", "lighthalzen04", 307, 224}
+, 
+{"lighthalzen", 16113, 101, 852, "lighthalzen guide", "lighthalzen05", 247, 82}
+, 
+{"lighthalzen", 16339, 101, 860, "kafra employee", "", 164, 100}
+, 
+{"lighthalzen", 16340, 101, 861, "kafra employee", "", 191, 320}
+, 
+{"lighthalzen", 16342, 101, 874, "cool event corp. staff", "", 94, 248}
+, 
+{"lighthalzen", 16491, 102, 90, "flower girl", "", 112, 44}
+, 
+{"lighthalzen", 16492, 102, 90, "vendor from milk ranch", "", 220, 122}
+, 
+{"lighthalzen", 16493, 102, 102, "fruit gardener", "", 69, 75}
+, 
+{"lighthalzen", 16494, 102, 91, "vegetable gardener", "", 124, 129}
+, 
+{"lighthalzen", 16495, 102, 125, "pet groomer", "", 222, 191}
+, 
+{"lighthalzen", 16529, 102, 83, "chef assistant", "", 126, 126}
+, 
+{"lighthalzen", 16557, 102, 66, "trap specialist", "", 337, 240}
+, 
+{"lighthalzen", 20282, 101, 86, "raabe", "gungun", 322, 247}
+, 
+{"lighthalzen", 20303, 101, 85, "harrison", "gun", 205, 284}
+, 
+{"lighthalzen", 20568, 101, 734, "krongast", "BLS", 209, 80}
+, 
+{"lighthalzen", 20801, 101, 86, "nannan", "", 226, 210}
+, 
+{"lighthalzen", 21050, 101, 891, "little girl", "job_min", 162, 126}
+, 
+{"lighthalzen", 21051, 101, 486, "karian", "cmd3", 160, 124}
+, 
+{"lighthalzen", 21166, 101, 729, "eden teleport officer", "18", 167, 102}
+, 
+{"lighthalzen", 21510, 101, 46, "windmill owner", "kh", 366, 299}
+, 
+{"lighthalzen", 21511, 101, 97, "windmill owner\'s helper", "kh", 366, 289}
+, 
+{"lighthalzen", 21662, 101, 86, "leablem", "", 96, 137}
+, 
+{"lighthalzen", 21775, 101, 847, "weird old man", "Bio4Reward", 342, 291}
+, 
+{"lighthalzen", 21776, 101, 904, "giacomo girolamo", "kiup2", 303, 303}
+, 
+{"lighthalzen", 21935, 101, 728, "maroll battle recruiter", "", 153, 86}
+, 
+{"lou_fild01", 12083, 101, 819, "jiu lian bu", "1-1", 195, 177}
+, 
+{"lou_fild01", 12086, 101, 819, "jiu lian bu", "1-2", 175, 173}
+, 
+{"lou_fild01", 12141, 101, 817, "lady", "delivery", 224, 348}
+, 
+{"lou_fild01", 20081, 101, 815, "girl", "1", 190, 100}
+, 
+{"lou_in01", 12049, 101, 817, "friendly looking lady", "", 25, 23}
+, 
+{"lou_in01", 12096, 101, 750, "gunpowder expert", "", 43, 147}
+, 
+{"lou_in01", 12097, 101, 825, "soldier", "Gpwdr", 45, 138}
+, 
+{"lou_in01", 12098, 101, 825, "soldier", "Chemical", 82, 139}
+, 
+{"lou_in01", 12147, 101, 821, "lord", "bailong", 99, 158}
+, 
+{"lou_in01", 12149, 101, 825, "soldier", "bailong1", 111, 151}
+, 
+{"lou_in01", 12151, 101, 825, "soldier", "bailong2", 91, 151}
+, 
+{"lou_in01", 12153, 101, 825, "soldier", "bailong3", 102, 144}
+, 
+{"lou_in01", 12155, 101, 825, "soldier", "bailong4", 99, 144}
+, 
+{"lou_in02", 10023, 101, 495, "cat paw shrimp merchant", "lou_in02", 241, 168}
+, 
+{"lou_in02", 12051, 101, 814, "doctor", "lyang", 265, 69}
+, 
+{"lou_in02", 12052, 101, 798, "familiar-looking patient", "", 272, 55}
+, 
+{"lou_in02", 12053, 101, 824, "tool shop master", "", 248, 166}
+, 
+{"lou_in02", 12054, 101, 819, "storage keeper", "", 201, 166}
+, 
+{"lou_in02", 12055, 101, 825, "city hall officer", "", 210, 47}
+, 
+{"lou_in02", 12056, 101, 822, "studying officer", "", 156, 38}
+, 
+{"lou_in02", 12079, 101, 822, "employee", "1", 53, 174}
+, 
+{"lou_in02", 12080, 101, 822, "employee", "2", 76, 181}
+, 
+{"lou_in02", 12081, 101, 818, "employee", "3", 61, 175}
+, 
+{"lou_in02", 12082, 101, 820, "chef", "1-2", 62, 183}
+, 
+{"lou_in02", 12089, 101, 823, "chef assistant", "", 58, 183}
+, 
+{"lou_in02", 12090, 101, 746, "li min", "", 80, 173}
+, 
+{"lou_in02", 12091, 101, 816, "liu jia lim", "", 42, 186}
+, 
+{"lou_in02", 12092, 101, 827, "jiang rong", "", 43, 169}
+, 
+{"lou_in02", 12095, 101, 824, "hermit", "", 77, 37}
+, 
+{"lou_in02", 12137, 101, 824, "poison king", "", 123, 39}
+, 
+{"lou_in02", 12139, 101, 822, "employee", "poison", 253, 45}
+, 
+{"lou_in02", 16480, 102, 818, "tool dealer", "", 239, 176}
+, 
+{"lou_in02", 16481, 102, 818, "armor dealer", "", 121, 182}
+, 
+{"lou_in02", 16482, 102, 822, "weapon dealer", "", 130, 182}
+, 
+{"louyang", 12061, 101, 825, "soldier", "BA", 213, 213}
+, 
+{"louyang", 12062, 101, 825, "soldier", "BB", 160, 175}
+, 
+{"louyang", 12063, 101, 818, "representative", "", 224, 104}
+, 
+{"louyang", 12064, 101, 815, "muscular woman", "", 297, 167}
+, 
+{"louyang", 12065, 101, 819, "powerful-looking guy", "", 274, 136}
+, 
+{"louyang", 12066, 101, 819, "fist master", "", 276, 136}
+, 
+{"louyang", 12067, 101, 819, "trainee", "1", 276, 133}
+, 
+{"louyang", 12068, 101, 819, "trainee", "2", 276, 131}
+, 
+{"louyang", 12069, 101, 819, "trainee", "3", 276, 129}
+, 
+{"louyang", 12070, 101, 819, "trainee", "4", 274, 133}
+, 
+{"louyang", 12071, 101, 819, "trainee", "5", 274, 131}
+, 
+{"louyang", 12072, 101, 819, "trainee", "6", 274, 129}
+, 
+{"louyang", 12073, 101, 819, "trainee", "7", 278, 133}
+, 
+{"louyang", 12074, 101, 819, "trainee", "8", 278, 131}
+, 
+{"louyang", 12075, 101, 819, "trainee", "9", 278, 129}
+, 
+{"louyang", 12076, 101, 819, "trainee", "10", 272, 133}
+, 
+{"louyang", 12077, 101, 819, "trainee", "11", 272, 131}
+, 
+{"louyang", 12078, 101, 819, "trainee", "12", 272, 129}
+, 
+{"louyang", 12093, 101, 824, "chi wu ping", "", 261, 123}
+, 
+{"louyang", 12094, 101, 815, "jiu chi ling", "", 174, 150}
+, 
+{"louyang", 16329, 101, 116, "kafra employee", "", 210, 104}
+, 
+{"louyang", 16531, 102, 820, "chef assistant", "", 256, 123}
+, 
+{"louyang", 21184, 101, 729, "eden teleport officer", "27", 207, 102}
+, 
+{"ma_dun01", 15448, 101, 569, "nurse", "ma_n2", 35, 108}
+, 
+{"ma_dun01", 15463, 101, 858, "suspicious wooden stick", "ma_d1", 152, 23}
+, 
+{"ma_dun01", 21773, 101, 569, "nurse", "ma_dun01", 147, 10}
+, 
+{"ma_fild01", 15407, 101, 580, "kiko in mumbaki", "mal", 261, 208}
+, 
+{"ma_fild01", 15408, 101, 570, "dhong the guard", "mal", 239, 253}
+, 
+{"ma_fild01", 15409, 101, 972, "guard dog vantai", "mal", 238, 257}
+, 
+{"ma_fild01", 15410, 101, 579, "maries", "mal01", 200, 190}
+, 
+{"ma_fild01", 15411, 101, 576, "little girl", "mal01", 203, 189}
+, 
+{"ma_fild01", 15412, 101, 576, "lost child", "mal01", 251, 93}
+, 
+{"ma_fild01", 15413, 101, 576, "lost child", "mal02", 114, 141}
+, 
+{"ma_fild01", 15414, 101, 576, "lost child", "mal03", 130, 314}
+, 
+{"ma_fild01", 15423, 101, 582, "malaya immigrant", "bako2", 165, 237}
+, 
+{"ma_fild01", 15434, 101, 582, "gruffy worker", "bako2", 54, 253}
+, 
+{"ma_fild01", 15435, 101, 577, "grumpy worker", "bako2", 236, 119}
+, 
+{"ma_fild01", 15517, 101, 582, "tribe blacksmith", "malaya", 158, 243}
+, 
+{"ma_fild01", 15521, 101, 575, "old man in dilemma", "Greater Agimat", 166, 214}
+, 
+{"ma_fild01", 15522, 101, 582, "tikbalang expert", "malaya", 238, 198}
+, 
+{"ma_fild01", 15523, 101, 572, "unidentified creature", "01", 74, 367}
+, 
+{"ma_fild01", 15524, 101, 572, "unidentified creature", "02", 109, 116}
+, 
+{"ma_fild01", 15525, 101, 572, "unidentified creature", "03", 280, 150}
+, 
+{"ma_fild01", 15526, 101, 572, "unidentified creature", "04", 309, 221}
+, 
+{"ma_fild01", 15537, 101, 577, "festival helper boy", "pin", 179, 260}
+, 
+{"ma_fild01", 15538, 101, 574, "tattooist", "pin", 172, 223}
+, 
+{"ma_fild01", 15539, 101, 58, "tourist", "pin01", 192, 200}
+, 
+{"ma_fild01", 15540, 101, 775, "tourist", "pin02", 211, 200}
+, 
+{"ma_fild01", 15541, 101, 824, "tourist", "pin03", 251, 205}
+, 
+{"ma_fild01", 15542, 101, 582, "young tattooist", "pin04", 249, 206}
+, 
+{"ma_fild01", 15543, 101, 815, "tourist", "pin05", 162, 235}
+, 
+{"ma_fild01", 15544, 101, 578, "drumming young man", "pin06", 164, 234}
+, 
+{"ma_fild01", 15545, 101, 578, "drumming young man", "pin07", 170, 231}
+, 
+{"ma_fild01", 15546, 101, 578, "drumming young man", "pin08", 164, 228}
+, 
+{"ma_fild01", 15547, 101, 577, "beat catching boy", "pin09", 170, 234}
+, 
+{"ma_fild01", 15548, 101, 577, "beat catching boy", "pin10", 164, 231}
+, 
+{"ma_fild01", 15549, 101, 577, "beat catching boy", "pin11", 170, 228}
+, 
+{"ma_fild02", 15415, 101, 572, "good capre budidai", "", 241, 39}
+, 
+{"ma_fild02", 15422, 101, 578, "malaya immigrant", "bako1", 40, 240}
+, 
+{"ma_fild02", 15488, 101, 557, "unknown trace", "buwaya_1", 155, 235}
+, 
+{"ma_fild02", 15489, 101, 557, "unknown trace", "buwaya_2", 143, 142}
+, 
+{"ma_fild02", 15490, 101, 557, "unknown trace", "buwaya_3", 266, 155}
+, 
+{"ma_fild02", 15491, 101, 557, "unknown trace", "buwaya_4", 221, 91}
+, 
+{"ma_fild02", 15492, 101, 557, "unknown trace", "buwaya_5", 205, 85}
+, 
+{"ma_fild02", 15493, 101, 557, "unknown trace", "buwaya_6", 300, 98}
+, 
+{"ma_fild02", 15494, 101, 557, "unknown trace", "buwaya_7", 100, 275}
+, 
+{"ma_fild02", 15495, 101, 81, "dog", "buwaya", 312, 259}
+, 
+{"ma_fild02", 15496, 101, 570, "guard", "buwayacave", 308, 262}
+, 
+{"ma_fild02", 15527, 101, 572, "unidentified creature", "05", 282, 41}
+, 
+{"ma_fild02", 15528, 101, 572, "unidentified creature", "06", 246, 324}
+, 
+{"ma_fild02", 15529, 101, 572, "unidentified creature", "07", 71, 296}
+, 
+{"ma_fild02", 15530, 101, 572, "unidentified creature", "08", 32, 263}
+, 
+{"ma_fild02", 21771, 101, 570, "guard", "", 312, 317}
+, 
+{"ma_in01", 15399, 101, 1752, "ghost diwata", "mal", 125, 107}
+, 
+{"ma_in01", 15484, 101, 577, "totoy", "buwaya", 47, 101}
+, 
+{"ma_in01", 15485, 101, 81, "dog", "buwaya_totoi", 43, 101}
+, 
+{"ma_in01", 15520, 101, 583, "inn keeper", "ma", 30, 94}
+, 
+{"ma_in01", 16573, 102, 536, "weapon dealer", "ma", 73, 22}
+, 
+{"ma_in01", 16574, 102, 536, "tool dealer", "ma", 22, 23}
+, 
+{"ma_in01", 16576, 102, 536, "armor dealer", "ma", 67, 13}
+, 
+{"ma_scene01", 15436, 101, 578, "cowardly worker", "bako2", 177, 89}
+, 
+{"ma_scene01", 15437, 101, 582, "gloomy worker", "bako2", 141, 118}
+, 
+{"ma_scene01", 15438, 101, 578, "sentimental worker", "bako2", 175, 170}
+, 
+{"ma_scene01", 15531, 101, 572, "unidentified creature", "09", 195, 92}
+, 
+{"ma_scene01", 15532, 101, 572, "unidentified creature", "10", 158, 139}
+, 
+{"ma_scene01", 15533, 101, 572, "unidentified creature", "11", 167, 112}
+, 
+{"ma_scene01", 21772, 101, 541, "taho", "", 174, 179}
+, 
+{"mal_dun01", 15638, 101, 549, "llinguist devore", "mald", 136, 120}
+, 
+{"mal_dun01", 15639, 101, 551, "biscuit", "mal", 136, 122}
+, 
+{"mal_dun01", 15641, 101, 552, "star candy", "mal", 133, 125}
+, 
+{"mal_dun01", 15802, 101, 551, "starfish", "", 151, 235}
+, 
+{"mal_in01", 15626, 101, 547, "rican", "mal", 114, 169}
+, 
+{"mal_in01", 15627, 101, 563, "dry machine", "mal", 116, 168}
+, 
+{"mal_in01", 15674, 101, 549, "cat gamers director", "gamer", 31, 210}
+, 
+{"mal_in01", 15680, 101, 544, "ser", "gamer", 91, 216}
+, 
+{"mal_in01", 15681, 101, 544, "paa", "gamer", 86, 222}
+, 
+{"mal_in01", 15682, 101, 422, "kuka", "gamer", 91, 222}
+, 
+{"mal_in01", 15683, 101, 422, "kungkung", "gamer", 134, 221}
+, 
+{"mal_in01", 15684, 101, 546, "leader", "gamer", 133, 214}
+, 
+{"mal_in01", 15685, 101, 553, "seichi", "gamer", 136, 216}
+, 
+{"mal_in01", 15686, 101, 559, "row", "gamer", 136, 215}
+, 
+{"mal_in01", 15687, 101, 876, "debong", "gamer", 136, 214}
+, 
+{"mal_in01", 15688, 101, 421, "libs", "gamer", 136, 213}
+, 
+{"mal_in01", 15689, 101, 554, "yongyong", "gamer", 136, 212}
+, 
+{"mal_in01", 15691, 101, 858, "sign", "Cat G 1F", 15, 221}
+, 
+{"mal_in01", 15692, 101, 858, "sign", "Cat G B1", 77, 214}
+, 
+{"mal_in01", 15693, 101, 858, "sign", "Cat G B2", 142, 220}
+, 
+{"mal_in01", 15694, 101, 890, "uneet", "gamer", 155, 222}
+, 
+{"mal_in01", 15695, 101, 560, "interview cat", "gamer", 30, 222}
+, 
+{"mal_in01", 15696, 101, 555, "waiting cat", "gamer", 19, 213}
+, 
+{"mal_in01", 15716, 101, 561, "albo", "pa0829", 172, 28}
+, 
+{"mal_in01", 15717, 101, 544, "madeca", "pa0829", 172, 26}
+, 
+{"mal_in01", 15803, 101, 545, "missing, the cleaner", "", 160, 34}
+, 
+{"mal_in01", 15805, 101, 403, "fallen angel", "new10", 15, 16}
+, 
+{"mal_in01", 16355, 101, 116, "kafra employee", "02", 167, 34}
+, 
+{"mal_in01", 21222, 101, 729, "eden teleport officer", "48", 172, 32}
+, 
+{"mal_in02", 15595, 101, 505, "investment cat helper", "malang", 134, 31}
+, 
+{"mal_in02", 15597, 101, 495, "samuel", "mal", 28, 56}
+, 
+{"mal_in02", 15598, 101, 556, "tomas", "mal", 22, 62}
+, 
+{"mal_in02", 15599, 101, 421, "president of meeting", "mal", 182, 61}
+, 
+{"mal_in02", 15600, 101, 422, "scottfold", "mal", 178, 66}
+, 
+{"mal_in02", 15601, 101, 546, "koon", "mal", 177, 58}
+, 
+{"mal_in02", 15602, 101, 549, "llinguist  devore", "mal", 174, 64}
+, 
+{"mal_in02", 15603, 101, 559, "geologist mali", "mal", 179, 57}
+, 
+{"mal_in02", 15604, 101, 553, "bob", "mal", 140, 94}
+, 
+{"mal_in02", 15625, 101, 545, "brie", "mal", 181, 55}
+, 
+{"mal_in02", 15640, 101, 544, "cleaning staff", "mal", 102, 94}
+, 
+{"mal_in02", 15655, 101, 495, "banam", "mal", 1, 1}
+, 
+{"mal_in02", 15666, 101, 547, "gozangee", "ml", 184, 72}
+, 
+{"mal_in02", 15670, 101, 548, "chef nyas", "malqook01", 187, 58}
+, 
+{"mal_in02", 15671, 101, 544, "cleanyang", "malqook02", 76, 63}
+, 
+{"mal_in02", 15708, 101, 555, "neat crew", "nyaong01", 166, 74}
+, 
+{"mal_in02", 15709, 101, 561, "scary crew", "nyaong02", 132, 95}
+, 
+{"mal_in02", 15710, 101, 545, "picky crew", "nyaong03", 109, 62}
+, 
+{"malangdo", 10098, 101, 495, "con-chliina crewman", "domal", 218, 81}
+, 
+{"malangdo", 15596, 101, 560, "storekeeper", "storage", 184, 139}
+, 
+{"malangdo", 15605, 101, 550, "crack", "mal1", 114, 157}
+, 
+{"malangdo", 15607, 101, 550, "crack", "mal2", 284, 237}
+, 
+{"malangdo", 15609, 101, 550, "crack", "mal3", 134, 150}
+, 
+{"malangdo", 15611, 101, 550, "crack", "mal4", 173, 199}
+, 
+{"malangdo", 15613, 101, 550, "crack", "mal5", 233, 197}
+, 
+{"malangdo", 15615, 101, 550, "crack", "mal6", 137, 239}
+, 
+{"malangdo", 15617, 101, 550, "crack", "mal7", 239, 157}
+, 
+{"malangdo", 15619, 101, 550, "crack", "mal8", 221, 155}
+, 
+{"malangdo", 15621, 101, 550, "crack", "mal9", 217, 109}
+, 
+{"malangdo", 15623, 101, 550, "crack", "mal10", 162, 183}
+, 
+{"malangdo", 15628, 101, 557, "suspicious sand pile", "mal1", 221, 139}
+, 
+{"malangdo", 15629, 101, 557, "suspicious sand pile", "mal2", 208, 174}
+, 
+{"malangdo", 15630, 101, 557, "suspicious sand pile", "mal3", 191, 223}
+, 
+{"malangdo", 15631, 101, 557, "suspicious sand pile", "mal4", 150, 195}
+, 
+{"malangdo", 15632, 101, 557, "suspicious sand pile", "mal5", 116, 196}
+, 
+{"malangdo", 15633, 101, 557, "suspicious sand pile", "mal6", 178, 145}
+, 
+{"malangdo", 15634, 101, 557, "suspicious sand pile", "mal7", 142, 120}
+, 
+{"malangdo", 15635, 101, 557, "suspicious sand pile", "mal8", 136, 122}
+, 
+{"malangdo", 15636, 101, 557, "suspicious sand pile", "mal9", 152, 143}
+, 
+{"malangdo", 15637, 101, 557, "suspicious sand pile", "mal10", 242, 175}
+, 
+{"malangdo", 15642, 101, 546, "portali", "mal", 190, 167}
+, 
+{"malangdo", 15656, 101, 561, "gobonge", "ml", 175, 206}
+, 
+{"malangdo", 15657, 101, 547, "gobulee", "ml1", 181, 205}
+, 
+{"malangdo", 15658, 101, 547, "gobyungee", "ml1", 180, 202}
+, 
+{"malangdo", 15659, 101, 547, "gosigee", "ml1", 186, 201}
+, 
+{"malangdo", 15660, 101, 547, "gonanee", "ml2", 177, 202}
+, 
+{"malangdo", 15661, 101, 547, "godoree", "ml3", 183, 202}
+, 
+{"malangdo", 15662, 101, 543, "suspicious dealer", "ml", 203, 116}
+, 
+{"malangdo", 15663, 101, 543, "very suspicious dealer", "ml1", 205, 116}
+, 
+{"malangdo", 15664, 101, 546, "a foolish cat", "ml", 197, 120}
+, 
+{"malangdo", 15665, 101, 543, "awfully suspicious dealer", "ml2", 171, 163}
+, 
+{"malangdo", 15667, 101, 545, "patrol leader", "ml", 125, 147}
+, 
+{"malangdo", 15668, 101, 545, "crime prevention staff", "ml", 129, 146}
+, 
+{"malangdo", 15669, 101, 549, "can agency guard", "", 175, 145}
+, 
+{"malangdo", 15672, 101, 557, "strange pile of sand", "malq07", 133, 134}
+, 
+{"malangdo", 15673, 101, 557, "strange pile of sand", "malq12", 197, 237}
+, 
+{"malangdo", 15675, 101, 547, "strange cat", "gamer", 127, 111}
+, 
+{"malangdo", 15676, 101, 876, "eryu", "gamer", 161, 197}
+, 
+{"malangdo", 15677, 101, 555, "stew", "gamer", 230, 197}
+, 
+{"malangdo", 15678, 101, 546, "ketchup", "gamer", 244, 144}
+, 
+{"malangdo", 15679, 101, 560, "eff", "gamer", 181, 119}
+, 
+{"malangdo", 15690, 101, 858, "sign", "Cat G Entrance", 120, 140}
+, 
+{"malangdo", 15697, 101, 544, "clink", "Malang Normal", 224, 172}
+, 
+{"malangdo", 15698, 101, 559, "holink", "Malang Cash", 221, 174}
+, 
+{"malangdo", 15699, 101, 554, "dark merchant k", "", 236, 179}
+, 
+{"malangdo", 15700, 101, 564, "dark machinetx100", "", 233, 180}
+, 
+{"malangdo", 15701, 101, 561, "expert cat", "nya_01", 165, 223}
+, 
+{"malangdo", 15702, 101, 560, "[meow team]charo", "nya_11", 211, 203}
+, 
+{"malangdo", 15703, 101, 559, "[meow team]rosy", "nya_09", 214, 204}
+, 
+{"malangdo", 15704, 101, 553, "[meow team]roku", "nya_10", 215, 201}
+, 
+{"malangdo", 15705, 101, 544, "deckhand bubi", "nya_16", 176, 165}
+, 
+{"malangdo", 15706, 101, 560, "detective cat", "nya_14", 172, 178}
+, 
+{"malangdo", 15707, 101, 559, "friend of detective", "nya_15", 173, 177}
+, 
+{"malangdo", 15711, 101, 549, "pipielle", "", 137, 200}
+, 
+{"malangdo", 15712, 101, 555, "mayomayo", "pa0829", 213, 167}
+, 
+{"malangdo", 15713, 101, 553, "jeremy", "pa0829", 215, 166}
+, 
+{"malangdo", 15714, 101, 564, "coin exchanger cx-1", "pa0829", 220, 167}
+, 
+{"malangdo", 15715, 101, 562, "special vending machine", "pa0829", 218, 165}
+, 
+{"malangdo", 15718, 101, 495, "wandering merchant", "", 162, 146}
+, 
+{"malangdo", 15719, 101, 496, "stinky merchant", "", 173, 145}
+, 
+{"malangdo", 15720, 101, 495, "roving merchant", "", 150, 135}
+, 
+{"malangdo", 15721, 101, 554, "innkeeper", "malang", 147, 117}
+, 
+{"malangdo", 15723, 101, 479, "minstrel", "malang", 151, 120}
+, 
+{"malangdo", 15724, 101, 485, "wanderer", "malang", 149, 120}
+, 
+{"malangdo", 15725, 101, 558, "cat trainer", "malang", 216, 168}
+, 
+{"malangdo", 15726, 101, 853, "cat trainer", "malang1", 164, 203}
+, 
+{"malangdo", 15751, 101, 545, "kong", "sailor malang", 219, 86}
+, 
+{"malangdo", 15804, 101, 837, "enchanter", "new10", 234, 153}
+, 
+{"malangdo", 16004, 101, 700, "point seller", "Sorcerer8", 214, 163}
+, 
+{"malangdo", 21220, 101, 729, "eden teleport officer", "47", 232, 166}
+, 
+{"malaya", 10024, 101, 495, "cat paw shrimp merchant", "malaya", 286, 175}
+, 
+{"malaya", 15388, 101, 475, "imelda", "pm03", 169, 350}
+, 
+{"malaya", 15416, 101, 578, "singing man", "bako1", 280, 331}
+, 
+{"malaya", 15417, 101, 579, "singing woman", "bako1", 275, 333}
+, 
+{"malaya", 15418, 101, 577, "frightened boy", "bako1", 290, 329}
+, 
+{"malaya", 15419, 101, 576, "frightened maiden", "bako1", 264, 338}
+, 
+{"malaya", 15420, 101, 575, "old fortune teller", "bako1", 272, 339}
+, 
+{"malaya", 15425, 101, 578, "angry man", "bako2", 286, 269}
+, 
+{"malaya", 15426, 101, 579, "calm woman", "bako2", 276, 269}
+, 
+{"malaya", 15427, 101, 577, "angry boy", "bako2", 276, 262}
+, 
+{"malaya", 15534, 101, 576, "little girl ", "ma04", 88, 252}
+, 
+{"malaya", 15535, 101, 577, "little kid", "ma05", 219, 92}
+, 
+{"malaya", 15536, 101, 583, "womanø©¿Œ", "ma08", 63, 185}
+, 
+{"malaya", 15550, 101, 582, "jeepney driver", "01", 237, 240}
+, 
+{"malaya", 15555, 101, 582, "jeepney driver", "02", 67, 44}
+, 
+{"malaya", 15560, 101, 582, "jeepney driver", "03", 282, 129}
+, 
+{"malaya", 15565, 101, 582, "jeepney driver", "04", 134, 250}
+, 
+{"malaya", 15570, 101, 582, "jeepney driver", "05", 341, 153}
+, 
+{"malaya", 15575, 101, 582, "jeepney driver", "06", 293, 290}
+, 
+{"malaya", 15580, 101, 582, "jeepney driver", "07", 242, 221}
+, 
+{"malaya", 15585, 101, 582, "jeepney driver", "08", 62, 245}
+, 
+{"malaya", 15590, 101, 582, "jeepney driver", "09", 257, 58}
+, 
+{"malaya", 16074, 101, 579, "port malaya guide", "01", 71, 72}
+, 
+{"malaya", 16353, 101, 581, "kafra employee", "01", 71, 79}
+, 
+{"malaya", 16354, 101, 581, "kafra employee", "02", 234, 204}
+, 
+{"malaya", 16575, 102, 535, "fruit gardener", "ma", 150, 261}
+, 
+{"malaya", 21212, 101, 729, "eden teleport officer", "42", 238, 206}
+, 
+{"man_fild02", 14307, 101, 421, "cat hand agent", "", 132, 47}
+, 
+{"man_fild02", 15881, 101, 421, "teleport cat no.5", "", 135, 49}
+, 
+{"man_in01", 14381, 101, 454, "repairman", "ep13bs", 360, 137}
+, 
+{"man_in01", 14469, 101, 454, "merchant of manuk", "", 286, 16}
+, 
+{"man_in01", 21763, 101, 450, "manuk guard", "1_edq", 286, 61}
+, 
+{"man_in01", 21764, 101, 450, "manuk guard", "2_edq", 295, 61}
+, 
+{"man_in01", 21765, 101, 437, "laphine prisoner", "edq", 291, 62}
+, 
+{"manuk", 14387, 101, 450, "manuk gardener", "ep13_2dayq01", 252, 116}
+, 
+{"manuk", 14411, 101, 454, "phiom", "", 100, 100}
+, 
+{"manuk", 14412, 101, 449, "benknee", "", 188, 216}
+, 
+{"manuk", 14413, 101, 455, "phiom", "", 169, 260}
+, 
+{"manuk", 14414, 101, 450, "kalton", "", 218, 163}
+, 
+{"manuk", 14415, 101, 450, "kalton", "", 266, 199}
+, 
+{"manuk", 14416, 101, 449, "benknee", "", 225, 129}
+, 
+{"manuk", 14417, 101, 454, "phiom", "", 286, 147}
+, 
+{"manuk", 14418, 101, 454, "phiom", "", 183, 185}
+, 
+{"manuk", 14419, 101, 450, "kalton", "", 256, 143}
+, 
+{"manuk", 14420, 101, 455, "phiom", "", 245, 124}
+, 
+{"manuk", 14435, 101, 454, "villager", "ep13_11", 278, 177}
+, 
+{"manuk", 14436, 101, 449, "villager", "ep13_12", 281, 177}
+, 
+{"manuk", 14472, 101, 460, "manuk piom", "tre1", 99, 334}
+, 
+{"manuk", 14473, 101, 455, "manuk piom", "tre2", 103, 311}
+, 
+{"manuk", 14474, 101, 454, "manuk piom", "tre4", 293, 203}
+, 
+{"manuk", 14475, 101, 449, "manuk benknee", "tre5", 253, 173}
+, 
+{"manuk", 14695, 101, 450, "entrance manager", "ep133_09", 321, 182}
+, 
+{"manuk", 16009, 101, 700, "point seller", "Sorcerer13", 261, 206}
+, 
+{"mid_camp", 14065, 101, 712, "henry clifford", "", 66, 122}
+, 
+{"mid_camp", 14066, 101, 876, "hand cat mining agent", "", 88, 100}
+, 
+{"mid_camp", 14088, 101, 1989, "hillslion", "alba01", 152, 316}
+, 
+{"mid_camp", 14089, 101, 1986, "tatacho", "alba02", 145, 313}
+, 
+{"mid_camp", 14090, 101, 1992, "cornus", "alba03", 162, 306}
+, 
+{"mid_camp", 14095, 101, 852, "camp guard", "man2", 13, 143}
+, 
+{"mid_camp", 14097, 101, 852, "camp guard", "man3", 9, 215}
+, 
+{"mid_camp", 14140, 101, 707, "expedition guard", "", 213, 286}
+, 
+{"mid_camp", 14199, 101, 931, "diego", "ep13bs", 264, 263}
+, 
+{"mid_camp", 14206, 101, 886, "cooking soldier", "ep13bs", 159, 282}
+, 
+{"mid_camp", 14207, 101, 937, "sorcerer", "ep13bs", 166, 248}
+, 
+{"mid_camp", 14684, 101, 930, "expedition guard ben", "ep133_is01", 220, 246}
+, 
+{"mid_camp", 14685, 101, 868, "expedition guard maha", "ep133_is02", 223, 246}
+, 
+{"mid_camp", 15876, 101, 421, "teleport cat no.4", "", 207, 234}
+, 
+{"mid_camp", 16011, 101, 700, "point seller", "Sorcerer15", 224, 237}
+, 
+{"mid_camp", 16554, 102, 66, "trap specialist", "", 129, 284}
+, 
+{"mid_camp", 16559, 102, 49, "black marketeer", "", 184, 263}
+, 
+{"mid_camp", 20967, 101, 468, "rune knight sage guard", "", 238, 250}
+, 
+{"mid_camp", 20968, 101, 83, "dispatch rune knight agent", "rune1", 13, 138}
+, 
+{"mid_camp", 21196, 101, 729, "eden teleport officer", "33", 63, 130}
+, 
+{"mid_camp", 21810, 101, 10007, "dimensional device", "gate01", 210, 292}
+, 
+{"mid_camp", 21812, 101, 852, "time travel guide", "gk01", 207, 290}
+, 
+{"mid_camp", 21813, 101, 852, "time travel guide", "gk02", 212, 290}
+, 
+{"mid_campin", 14069, 101, 751, "instructor igrid", "", 85, 118}
+, 
+{"mid_campin", 14198, 101, 89, "receptionist brink", "ep13bs", 106, 122}
+, 
+{"mid_campin", 14202, 101, 849, "davi", "ep13bs", 292, 120}
+, 
+{"mid_campin", 14687, 101, 852, "soldier", "ep133_is04", 111, 120}
+, 
+{"mid_campin", 14691, 101, 997, "hound", "ep133_is06", 168, 125}
+, 
+{"mjolnir_01", 10964, 101, 81, "dog", "prt", 312, 269}
+, 
+{"mjolnir_02", 16290, 101, 116, "kafra employee", "", 82, 362}
+, 
+{"mjolnir_02", 20147, 101, 837, "bulletin board", "coal", 76, 362}
+, 
+{"mjolnir_11", 20403, 101, 95, "acolyte", "tu", 40, 83}
+, 
+{"moc_fild12", 19871, 101, 59, "serutero", "", 35, 303}
+, 
+{"moc_fild15", 20143, 101, 837, "bulletin board", "anthell", 267, 264}
+, 
+{"moc_fild16", 11509, 101, 55, " uncle assassin", "07rhea_29", 199, 212}
+, 
+{"moc_fild16", 11510, 101, 118, "assassin", "07rhea_30", 211, 254}
+, 
+{"moc_fild16", 11760, 101, 106, "assassin guardian", "", 200, 257}
+, 
+{"moc_fild16", 11761, 101, 106, "assassin guardian", "", 211, 257}
+, 
+{"moc_fild16", 11762, 101, 106, "assassin guardian", "", 211, 231}
+, 
+{"moc_fild16", 11763, 101, 106, "assassin guardian", "", 200, 231}
+, 
+{"moc_fild16", 11764, 101, 106, "assassin guardian", "", 216, 282}
+, 
+{"moc_fild16", 11765, 101, 106, "assassin guardian", "", 195, 282}
+, 
+{"moc_fild16", 11766, 101, 106, "assassin guardian", "", 204, 282}
+, 
+{"moc_fild16", 11767, 101, 106, "assassin guardian", "", 207, 282}
+, 
+{"moc_fild16", 21071, 101, 486, "karian", "cmd7", 204, 231}
+, 
+{"moc_fild19", 20145, 101, 837, "bulletin board", "sphinx", 107, 101}
+, 
+{"moc_fild20", 13792, 101, 707, "continental guard", "11_edq", 354, 183}
+, 
+{"moc_fild20", 13799, 101, 707, "continental guard", "12_edq", 354, 174}
+, 
+{"moc_fild20", 13806, 101, 707, "continental guard", "21_edq", 38, 174}
+, 
+{"moc_fild20", 13813, 101, 707, "continental guard", "22_edq", 38, 183}
+, 
+{"moc_fild20", 13820, 101, 707, "continental guard", "31_edq", 189, 21}
+, 
+{"moc_fild20", 13827, 101, 707, "continental guard", "32_edq", 200, 21}
+, 
+{"moc_fild20", 13834, 101, 707, "continental guard", "41_edq", 203, 336}
+, 
+{"moc_fild20", 13845, 101, 707, "continental guard", "42_edq", 215, 336}
+, 
+{"moc_fild20", 14133, 101, 707, "rift guard", "", 209, 332}
+, 
+{"moc_fild20", 14787, 101, 876, "cat", "to22", 368, 197}
+, 
+{"moc_fild22b", 14789, 101, 495, "cat hand agent", "Tat", 182, 179}
+, 
+{"moc_fild22b", 21814, 101, 10007, "dimensional device", "gate02", 222, 200}
+, 
+{"moc_fild22b", 21816, 101, 707, "expedition guide", "gk03", 225, 198}
+, 
+{"moc_fild22b", 21817, 101, 707, "expedition guide", "gk04", 223, 203}
+, 
+{"moc_para01", 14784, 101, 496, "cat hand agent", "gekk", 17, 33}
+, 
+{"moc_para01", 16582, 101, 403, "dark luhir", "new10", 179, 27}
+, 
+{"moc_para01", 16583, 101, 403, "dark luhir", "admin", 5, 140}
+, 
+{"moc_para01", 21131, 101, 952, "secretary lime evenor", "eden", 27, 35}
+, 
+{"moc_para01", 21296, 101, 900, "old adventurer", "eden", 16, 22}
+, 
+{"moc_para01", 21297, 101, 883, "eden group intern", "eden", 172, 28}
+, 
+{"moc_para01", 21298, 101, 814, "office assistant neede", "eden", 20, 35}
+, 
+{"moc_para01", 21303, 101, 414, "vip services", "eden", 53, 34}
+, 
+{"moc_para01", 21314, 101, 469, "instructor boya", "para01", 25, 35}
+, 
+{"moc_para01", 21321, 101, 967, "administrator michael", "para09", 112, 96}
+, 
+{"moc_para01", 21322, 101, 820, "chef", "", 179, 44}
+, 
+{"moc_para01", 21323, 101, 468, "instructor ur", "2nd01", 23, 35}
+, 
+{"moc_para01", 21332, 101, 813, "blacksmith thorn", "2nd10", 111, 83}
+, 
+{"moc_para01", 21333, 101, 851, "weapons expert bk", "2nd11", 112, 79}
+, 
+{"moc_para01", 21341, 101, 857, "1-11 mission board", "Tuto", 34, 38}
+, 
+{"moc_para01", 21351, 101, 90, "sprakki", "eden", 35, 39}
+, 
+{"moc_para01", 21352, 101, 857, "11-25 mission board", "Tuto", 36, 38}
+, 
+{"moc_para01", 21353, 101, 914, "spikle", "Tuto", 37, 39}
+, 
+{"moc_para01", 21354, 101, 857, "26-40 mission board", "09tuto_rhea01", 38, 38}
+, 
+{"moc_para01", 21355, 101, 99, "sponiac", "09tuto_rhea02", 39, 39}
+, 
+{"moc_para01", 21361, 101, 857, "41-55 mission board", "", 40, 38}
+, 
+{"moc_para01", 21362, 101, 99, "rakkis", "eden4155", 41, 39}
+, 
+{"moc_para01", 21363, 101, 857, "56-70 mission board", "", 42, 38}
+, 
+{"moc_para01", 21364, 101, 914, "sparkle", "Tuto", 43, 39}
+, 
+{"moc_para01", 21365, 101, 857, "71-85 mission board", "", 44, 38}
+, 
+{"moc_para01", 21373, 101, 629, "gelkah", "1", 37, 95}
+, 
+{"moc_para01", 21374, 101, 630, "rohtert", "12", 41, 95}
+, 
+{"moc_para01", 21375, 101, 643, "mingmin", "1", 17, 95}
+, 
+{"moc_para01", 21376, 101, 648, "melody-jack", "1", 44, 81}
+, 
+{"moc_para01", 21377, 101, 646, "aigu", "1", 17, 77}
+, 
+{"moc_para01", 21384, 101, 647, "ragi", "1", 41, 76}
+, 
+{"moc_para01", 21557, 101, 933, "magic gear master", "", 16, 30}
+, 
+{"moc_paraup", 15160, 101, 952, "lime eveno", "evtat01", 38, 175}
+, 
+{"moc_paraup", 16352, 101, 721, "kafra employee", "", 10, 185}
+, 
+{"moc_paraup", 16584, 101, 64, "reno", "2012hat", 41, 167}
+, 
+{"moc_paraup", 20117, 101, 86, "repairman ted", "ed", 186, 22}
+, 
+{"moc_paraup", 21313, 101, 414, "vip warp admin", "", 169, 173}
+, 
+{"moc_paraup", 21334, 101, 904, "tutorial instructor", "moc_para01", 34, 178}
+, 
+{"moc_paraup", 21335, 101, 895, "tutorial goal", "moc_para01", 32, 179}
+, 
+{"moc_paraup", 21336, 101, 734, "siege master", "moc_para01", 24, 175}
+, 
+{"moc_paraup", 21337, 101, 878, "party recruiting expert", "moc_para01", 21, 172}
+, 
+{"moc_paraup", 21338, 101, 419, "battleground master", "moc_para01", 12, 179}
+, 
+{"moc_paraup", 21339, 101, 868, "memorial dungeon expert", "moc_para01", 28, 167}
+, 
+{"moc_paraup", 21340, 101, 743, "map expert", "moc_para01", 14, 168}
+, 
+{"moc_paraup", 21371, 101, 857, "86-90 mission board", "", 48, 175}
+, 
+{"moc_paraup", 21372, 101, 857, "91-99 mission board", "", 48, 177}
+, 
+{"moc_pryd04", 13917, 101, 967, "soldier", "07russia_26", 126, 120}
+, 
+{"moc_prydb1", 15978, 101, 547, "suspicious cat", "nightmare1", 103, 54}
+, 
+{"moc_prydb1", 19962, 101, 118, "alcouskou", "", 154, 128}
+, 
+{"moc_prydb1", 20273, 101, 69, "thief guide", "", 39, 129}
+, 
+{"moc_prydb1", 20274, 101, 118, "thief guildsman", "", 42, 133}
+, 
+{"moc_prydb1", 21148, 101, 729, "eden teleport officer", "9", 53, 126}
+, 
+{"moc_prydn1", 15980, 101, 547, "suspicious cat", "nightmare1", 94, 98}
+, 
+{"moc_ruins", 11494, 101, 99, "young man", "07rhea_14", 123, 154}
+, 
+{"moc_ruins", 11495, 101, 61, "grampa", "07rhea_15", 128, 153}
+, 
+{"moc_ruins", 11496, 101, 85, "wolf young man", "07rhea_16", 132, 144}
+, 
+{"moc_ruins", 11497, 101, 83, "muka young man", "07rhea_17", 115, 144}
+, 
+{"moc_ruins", 11498, 101, 99, "diamond young man", "07rhea_18", 109, 138}
+, 
+{"moc_ruins", 11500, 101, 48, "pale looking young man", "07rhea_22", 94, 117}
+, 
+{"moc_ruins", 11501, 101, 703, "little girl", "07rhea_31", 115, 82}
+, 
+{"moc_ruins", 11502, 101, 706, "little boy", "07rhea_32", 118, 82}
+, 
+{"moc_ruins", 11503, 101, 66, "picky lady", "07rhea_23", 121, 116}
+, 
+{"moc_ruins", 11504, 101, 47, "ant man", "07rhea_24", 155, 107}
+, 
+{"moc_ruins", 11505, 101, 118, "assassin boy", "07rhea_25", 143, 43}
+, 
+{"moc_ruins", 11506, 101, 49, "dimitri", "07rhea_26", 173, 141}
+, 
+{"moc_ruins", 11507, 101, 54, "fly man", "07rhea_27", 174, 120}
+, 
+{"moc_ruins", 11508, 101, 48, "uncle morroc", "07rhea_28", 173, 70}
+, 
+{"moc_ruins", 12830, 101, 116, "kafra voting staff", "morocc", 104, 133}
+, 
+{"moc_ruins", 12872, 101, 874, "cool event voting staff", "morocc", 97, 133}
+, 
+{"moc_ruins", 13740, 101, 880, "foreign merchant", "aru1", 77, 167}
+, 
+{"moc_ruins", 13741, 101, 929, "foreign merchant", "aru2", 101, 133}
+, 
+{"moc_ruins", 13764, 101, 48, "book-touching man", "garas", 137, 70}
+, 
+{"moc_ruins", 14142, 101, 707, "time-space gap guard", "", 137, 89}
+, 
+{"moc_ruins", 16098, 101, 707, "guide", "01ruins", 159, 53}
+, 
+{"moc_ruins", 16099, 101, 707, "guide", "02ruins", 70, 164}
+, 
+{"moc_ruins", 16100, 101, 707, "guide", "03ruins", 65, 44}
+, 
+{"moc_ruins", 16286, 101, 114, "kafra employee", "", 59, 157}
+, 
+{"moc_ruins", 16413, 102, 93, "tool dealer", "", 91, 128}
+, 
+{"moc_ruins", 16414, 102, 99, "tool dealer", "", 114, 63}
+, 
+{"moc_ruins", 16415, 102, 85, "item collector", "", 93, 53}
+, 
+{"moc_ruins", 16416, 102, 85, "item collector", "", 81, 113}
+, 
+{"moc_ruins", 16417, 102, 102, "jeweler", "", 110, 105}
+, 
+{"moc_ruins", 16418, 102, 99, "jeweler", "", 52, 85}
+, 
+{"moc_ruins", 16419, 102, 99, "trader", "", 113, 126}
+, 
+{"moc_ruins", 16420, 102, 93, "trader", "", 131, 138}
+, 
+{"moc_ruins", 16421, 102, 93, "trader", "", 71, 139}
+, 
+{"moc_ruins", 16422, 102, 89, "trader", "", 125, 135}
+, 
+{"moc_ruins", 16423, 102, 58, "butcher", "", 87, 109}
+, 
+{"moc_ruins", 16424, 102, 99, "trader", "", 90, 149}
+, 
+{"moc_ruins", 16425, 102, 125, "pet groomer", "", 118, 170}
+, 
+{"moc_ruins", 16521, 102, 86, "chef assistant", "", 115, 123}
+, 
+{"moc_ruins", 19967, 101, 88, "roberto", "", 118, 99}
+, 
+{"moc_ruins", 20007, 101, 92, "smile assistance", "", 59, 154}
+, 
+{"moc_ruins", 20059, 101, 50, "jacob", "thai", 105, 62}
+, 
+{"moc_ruins", 20063, 101, 716, "tommy", "thai", 107, 62}
+, 
+{"moc_ruins", 20110, 101, 99, "repairman", "", 107, 94}
+, 
+{"moc_ruins", 20144, 101, 837, "bulletin board", "pyramid", 61, 164}
+, 
+{"moc_ruins", 20267, 101, 93, "ponka-hontas", "", 91, 150}
+, 
+{"moc_ruins", 20275, 101, 83, "mr. irrelevant", "", 141, 125}
+, 
+{"moc_ruins", 20431, 101, 84, "thief trainer", "T", 66, 164}
+, 
+{"moc_ruins", 20719, 101, 118, "thug", "", 87, 103}
+, 
+{"moc_ruins", 21134, 101, 729, "eden teleport officer", "2", 68, 164}
+, 
+{"moc_ruins", 21356, 101, 89, "dieshin man", "09tuto_rhea03", 173, 55}
+, 
+{"moc_ruins", 21671, 101, 732, "ibrahim", "", 152, 147}
+, 
+{"moc_ruins", 21682, 101, 99, "suspicious man", "1", 90, 67}
+, 
+{"moc_ruins", 21683, 101, 99, "suspicious man", "2", 75, 171}
+, 
+{"moc_ruins", 21925, 101, 728, "maroll battle recruiter", "", 75, 162}
+, 
+{"monk_in", 20385, 101, 110, "priest gardron", "tu", 18, 38}
+, 
+{"monk_in", 20391, 101, 60, "karven", "", 103, 176}
+, 
+{"monk_in", 20408, 101, 60, "bishop maugins", "", 19, 43}
+, 
+{"monk_in", 20647, 101, 60, "sensei moohae", "", 99, 58}
+, 
+{"monk_test", 20652, 101, 753, "bashu", "", 329, 61}
+, 
+{"monk_test", 20655, 101, 110, "apprentice monk", "", 386, 388}
+, 
+{"monk_test", 20701, 101, 52, "tomoon", "", 319, 139}
+, 
+{"monk_test", 20704, 101, 95, "proctor", "", 82, 85}
+, 
+{"monk_test", 20707, 101, 52, "proctor", "mk", 88, 91}
+, 
+{"monk_test", 20710, 101, 79, "proctor", "btl#3", 95, 85}
+, 
+{"monk_test", 20718, 101, 79, "switchreset", "monkmonk", 137, 338}
+, 
+{"monk_test", 20810, 101, 823, "monk", "", 316, 69}
+, 
+{"monk_test", 21740, 101, 412, "friar patrick", "edq", 309, 146}
+, 
+{"monk_test", 21742, 101, 406, "purification stone", "monk", 308, 134}
+, 
+{"mora", 10027, 101, 495, "cat paw shrimp merchant", "mora", 110, 118}
+, 
+{"mora", 14815, 101, 516, "warehouse manager", "ep14_1_bs", 185, 163}
+, 
+{"mora", 14816, 101, 513, "rondo", "ep14_1_bs", 35, 119}
+, 
+{"mora", 14817, 101, 518, "lilitia", "ep14_1_bs", 98, 66}
+, 
+{"mora", 14818, 101, 515, "humming", "ep14_1_bs", 139, 102}
+, 
+{"mora", 14819, 101, 495, "jones", "ep14_1_bs", 55, 124}
+, 
+{"mora", 14824, 101, 509, "elephantine", "pa0829", 133, 80}
+, 
+{"mora", 14825, 101, 509, "hotcha", "pa0829", 115, 98}
+, 
+{"mora", 14826, 101, 513, "bow-wow", "pa0829", 119, 103}
+, 
+{"mora", 14827, 101, 516, "general good dealer", "pa0829", 119, 118}
+, 
+{"mora", 14828, 101, 514, "woof-grrr", "pa0829", 124, 108}
+, 
+{"mora", 14829, 101, 518, "commodities dealer", "pa0829", 127, 112}
+, 
+{"mora", 14830, 101, 515, "soul guide", "pa0829", 170, 101}
+, 
+{"mora", 14831, 101, 520, "wandering customer", "pa0829", 131, 165}
+, 
+{"mora", 14832, 101, 520, "a random customer", "pa0829", 125, 174}
+, 
+{"mora", 14833, 101, 520, "victim", "pa0829", 104, 172}
+, 
+{"mora", 14834, 101, 525, "knights chief", "mo", 118, 166}
+, 
+{"mora", 14835, 101, 524, "knights boss", "mo", 116, 165}
+, 
+{"mora", 14836, 101, 522, "knights head", "mo", 114, 163}
+, 
+{"mora", 14837, 101, 523, "knights leader", "mo", 112, 161}
+, 
+{"mora", 14843, 101, 516, "mungmung", "p", 52, 138}
+, 
+{"mora", 14844, 101, 517, "nemnem", "p", 160, 123}
+, 
+{"mora", 14845, 101, 514, "boaster", "podo", 105, 104}
+, 
+{"mora", 14848, 101, 515, "decoy", "podo", 99, 100}
+, 
+{"mora", 14849, 101, 516, "moved raffle", "podo", 98, 104}
+, 
+{"mora", 14850, 101, 517, "relieved raffle", "podo", 102, 107}
+, 
+{"mora", 14851, 101, 518, "excited raffle", "podo", 101, 107}
+, 
+{"mora", 14852, 101, 518, "impressed raffle", "podo", 103, 100}
+, 
+{"mora", 14853, 101, 515, "visitor to mora", "podo1", 123, 94}
+, 
+{"mora", 14854, 101, 513, "visitor to mora", "podo2", 155, 72}
+, 
+{"mora", 14855, 101, 516, "worker", "mo1", 184, 169}
+, 
+{"mora", 14856, 101, 516, "novice worker", "mo", 179, 155}
+, 
+{"mora", 14857, 101, 518, "indifferent worker", "mo", 177, 157}
+, 
+{"mora", 14858, 101, 516, "worker", "mo4", 108, 182}
+, 
+{"mora", 14859, 101, 522, "raffle researcher", "ep14.1_muk", 31, 138}
+, 
+{"mora", 14860, 101, 517, "relaxing rafflesia", "ep14_1", 122, 97}
+, 
+{"mora", 14861, 101, 518, "warehouse worker", "ep14_1", 174, 171}
+, 
+{"mora", 14862, 101, 516, "reading rafflesia", "ep14_1", 113, 185}
+, 
+{"mora", 14863, 101, 516, "banana rafflesia", "ep14_1", 99, 65}
+, 
+{"mora", 14864, 101, 514, "relaxing traveler", "ep14_1", 30, 128}
+, 
+{"mora", 14865, 101, 513, "relaxing traveler", "ep14_1", 130, 96}
+, 
+{"mora", 14866, 101, 517, "wounded rafflesia", "ep14_1", 43, 113}
+, 
+{"mora", 14867, 101, 513, "warehouse worker", "ep14_1", 168, 161}
+, 
+{"mora", 14868, 101, 518, "warehouse worker", "ep14_1", 175, 161}
+, 
+{"mora", 14869, 101, 517, "rafflesia philosopher", "ep14_1", 140, 186}
+, 
+{"mora", 14870, 101, 513, "upset traveler", "ep14_1", 140, 72}
+, 
+{"mora", 14874, 101, 513, "traveler that posed the question", "ep14_1", 138, 72}
+, 
+{"mora", 14878, 101, 513, "traveler trying to stop the fight", "ep14_1", 139, 73}
+, 
+{"mora", 14882, 101, 521, "euridi", "pa", 117, 66}
+, 
+{"mora", 14883, 101, 520, "euridi\'s friend", "pa", 115, 68}
+, 
+{"mora", 14884, 101, 519, "pitt", "pa", 65, 145}
+, 
+{"mora", 14886, 101, 509, "master tailor", "pa0829", 105, 176}
+, 
+{"mora", 14887, 101, 509, "pendant crafter", "pa0829", 123, 177}
+, 
+{"mora", 14888, 101, 509, "bulberry westhood", "pa0829", 134, 166}
+, 
+{"mora", 14889, 101, 518, "mora villager", "sleep5", 132, 185}
+, 
+{"mora", 14890, 101, 524, "mora villager", "sleep2", 133, 185}
+, 
+{"mora", 14891, 101, 525, "mora villager", "sleep1", 134, 185}
+, 
+{"mora", 14892, 101, 522, "mora villager", "sleep6", 132, 184}
+, 
+{"mora", 14893, 101, 1162, "mora villager", "sleep4", 133, 184}
+, 
+{"mora", 14894, 101, 516, "mora villager", "sleep3", 134, 184}
+, 
+{"mora", 14895, 101, 524, "mora villager", "sleep7", 132, 183}
+, 
+{"mora", 14896, 101, 518, "mora villager", "sleep8", 133, 183}
+, 
+{"mora", 14897, 101, 522, "mora villager", "sleep9", 134, 183}
+, 
+{"mora", 14898, 101, 522, "innkeeper", "mora_inn", 43, 127}
+, 
+{"mora", 14900, 101, 516, "quiver maker", "mora", 106, 117}
+, 
+{"mora", 14901, 101, 495, "keeper of secrets", "pa0829", 88, 89}
+, 
+{"mora", 14902, 101, 495, "master of relics", "pa0829-war", 96, 74}
+, 
+{"mora", 14903, 101, 495, "guardian of artifacts", "pa0829", 104, 76}
+, 
+{"mora", 14904, 101, 495, "artifact crafter", "pa0829-war", 99, 93}
+, 
+{"mora", 14905, 101, 522, "artifact collector", "blank", 124, 82}
+, 
+{"mora", 15739, 101, 553, "dolangmal", "Mora", 57, 150}
+, 
+{"mora", 16005, 101, 700, "point seller", "Sorcerer9", 115, 118}
+, 
+{"mora", 16127, 101, 524, "raffle guide", "Center", 115, 138}
+, 
+{"mora", 16128, 101, 518, "raffle guide", "South", 72, 51}
+, 
+{"mora", 16129, 101, 516, "raffle guide", "North", 25, 158}
+, 
+{"mora", 16130, 101, 522, "raffle guide", "East", 167, 76}
+, 
+{"mora", 16571, 102, 518, "mora chef", "mor", 138, 110}
+, 
+{"mora", 16572, 102, 517, "tool dealer", "mora", 100, 118}
+, 
+{"mora", 16580, 101, 515, "guardian of power", "pa0829", 152, 97}
+, 
+{"mora", 16581, 101, 521, "artifact researcher", "new10", 148, 98}
+, 
+{"mora", 21226, 101, 729, "eden teleport officer", "49", 41, 133}
+, 
+{"mora", 21768, 101, 510, "flower smelling lady", "ep14_1", 46, 152}
+, 
+{"mora", 21769, 101, 512, "sharp eye\'d man", "ep14_1", 48, 152}
+, 
+{"moro_cav", 15149, 101, 730, "senior tracker", "a1", 61, 69}
+, 
+{"moro_cav", 15150, 101, 482, "hero token exchanger", "1", 32, 73}
+, 
+{"moro_cav", 15151, 101, 49, "expert enchanter byrnes", "morocav", 34, 65}
+, 
+{"moro_cav", 15154, 101, 510, "guardian nidhogg", "epeom01", 41, 73}
+, 
+{"moro_vol", 14919, 102, 553, "tool merchant", "", 95, 96}
+, 
+{"moro_vol", 14964, 101, 10007, "eclage teleporter", "143_1", 91, 105}
+, 
+{"moro_vol", 15139, 101, 10027, "tamarin", "ep14bs_st", 198, 179}
+, 
+{"morocc", 10005, 101, 495, "cat paw shrimp merchant", "morocc", 169, 105}
+, 
+{"morocc", 10530, 101, 97, "cetsu", "", 281, 178}
+, 
+{"morocc", 11486, 101, 707, "soldier - morroc", "07rhea_01", 150, 120}
+, 
+{"morocc", 11487, 101, 745, "volunteer - morroc", "07rhea_09", 202, 244}
+, 
+{"morocc", 11488, 101, 748, "volunteer-morroc", "07rhea_10", 88, 133}
+, 
+{"morocc", 11489, 101, 730, "volunteer-morroc", "07rhea_11", 202, 110}
+, 
+{"morocc", 11490, 101, 727, "volunteer-morroc", "07rhea_12", 268, 287}
+, 
+{"morocc", 11491, 101, 79, "volunteer-morroc", "07rhea_15", 37, 287}
+, 
+{"morocc", 11492, 101, 741, "volunteer-morroc", "07rhea_20", 223, 102}
+, 
+{"morocc", 11493, 101, 726, "volunteer-morroc", "07rhea_21", 226, 102}
+, 
+{"morocc", 11499, 101, 89, "young man", "07rhea_19", 54, 251}
+, 
+{"morocc", 13671, 101, 707, "prison ward", "sch", 53, 87}
+, 
+{"morocc", 13699, 101, 51, "thin-faced bard", "sch", 297, 154}
+, 
+{"morocc", 13700, 101, 899, "????", "sch1", 294, 152}
+, 
+{"morocc", 13701, 101, 899, "????", "sch2", 293, 155}
+, 
+{"morocc", 13702, 101, 899, "????", "sch3", 298, 150}
+, 
+{"morocc", 13706, 101, 748, "disaster victim", "", 187, 97}
+, 
+{"morocc", 13707, 101, 748, "disaster victim", "2", 143, 249}
+, 
+{"morocc", 13861, 101, 754, "continental official", "", 176, 103}
+, 
+{"morocc", 13862, 101, 752, "chief balrog", "", 159, 113}
+, 
+{"morocc", 13916, 101, 48, "morroc villager", "07russia_25", 165, 82}
+, 
+{"morocc", 14149, 101, 82, "sharp-looking boy", "dan_07", 43, 108}
+, 
+{"morocc", 15374, 101, 754, "continental guards administrator", "", 176, 101}
+, 
+{"morocc", 15382, 101, 755, "reward coordinator", "", 54, 190}
+, 
+{"morocc", 15383, 101, 857, "announcement", "moc_re", 43, 191}
+, 
+{"morocc", 15384, 101, 564, "contribution certificate vending machine", "ep14_3", 52, 197}
+, 
+{"morocc", 15735, 101, 553, "dolangmal", "morocc", 168, 275}
+, 
+{"morocc", 15992, 101, 877, "poison herb seller", "", 190, 96}
+, 
+{"morocc", 16025, 101, 99, "educated traveller", "", 273, 79}
+, 
+{"morocc", 16094, 101, 707, "guide", "01morocc", 153, 286}
+, 
+{"morocc", 16095, 101, 707, "guide", "02morocc", 154, 38}
+, 
+{"morocc", 16096, 101, 707, "guide", "03morocc", 296, 213}
+, 
+{"morocc", 16097, 101, 707, "guide", "04morocc", 28, 170}
+, 
+{"morocc", 16241, 101, 114, "kafra employee", "", 160, 258}
+, 
+{"morocc", 16250, 101, 113, "kafra employee", "", 156, 97}
+, 
+{"morocc", 19889, 101, 99, "zaka", "", 201, 30}
+, 
+{"morocc", 19976, 101, 89, "william", "", 152, 167}
+, 
+{"morocc", 19982, 101, 64, "alchemist", "", 169, 168}
+, 
+{"morocc", 20008, 101, 92, "smile assistance", "", 159, 107}
+, 
+{"morocc", 20057, 101, 86, "young man", "magum1", 248, 159}
+, 
+{"morocc", 20104, 101, 92, "citizen", "", 289, 230}
+, 
+{"morocc", 20133, 101, 837, "bulletin board", "morroc", 152, 110}
+, 
+{"morocc", 20151, 101, 741, "bard", "3", 134, 111}
+, 
+{"morocc", 20152, 101, 703, "little girl", "Jorti", 132, 111}
+, 
+{"morocc", 20250, 101, 86, "merchant", "morroc", 180, 259}
+, 
+{"morocc", 20428, 101, 84, "muetro", "", 82, 292}
+, 
+{"morocc", 20429, 101, 86, "hans", "", 240, 72}
+, 
+{"morocc", 20567, 101, 725, "wickebine", "BLS", 27, 112}
+, 
+{"morocc", 21080, 101, 93, "girl", "sc00", 156, 70}
+, 
+{"morocc", 21172, 101, 729, "eden teleport officer", "21", 161, 97}
+, 
+{"morocc", 21366, 101, 729, "meidi", "", 35, 174}
+, 
+{"morocc", 21656, 101, 84, "seiyablem", "moc", 51, 41}
+, 
+{"morocc", 21659, 101, 97, "young man", "moc", 60, 42}
+, 
+{"morocc", 21664, 101, 86, "leablem", "", 270, 159}
+, 
+{"morocc", 21684, 101, 929, "ragged man", "nd", 143, 63}
+, 
+{"morocc", 21685, 101, 98, "man", "", 102, 298}
+, 
+{"morocc", 21698, 101, 779, "rogue guild agent", "nd4", 116, 39}
+, 
+{"morocc", 21877, 101, 831, "zonda rep", "mor", 168, 271}
+, 
+{"morocc", 21923, 101, 728, "maroll battle recruiter", "", 145, 82}
+, 
+{"morocc_in", 10962, 101, 702, "historian", "prt02", 45, 126}
+, 
+{"morocc_in", 11484, 101, 729, "assistant", "moc_ex1", 46, 125}
+, 
+{"morocc_in", 13672, 101, 748, "public security officer", "sch", 79, 163}
+, 
+{"morocc_in", 16050, 101, 82, "trainee", "2008hat01", 137, 102}
+, 
+{"morocc_in", 16381, 101, 58, "java dullihan", "", 146, 99}
+, 
+{"morocc_in", 16426, 102, 58, "weapon dealer", "", 141, 67}
+, 
+{"morocc_in", 16427, 102, 58, "armor dealer", "", 141, 60}
+, 
+{"morocc_in", 16514, 102, 99, "weapon dealer", "", 132, 57}
+, 
+{"morocc_in", 19992, 101, 84, "pvpnarrator", "", 144, 138}
+, 
+{"morocc_in", 19993, 101, 83, "gate keeper", "", 144, 142}
+, 
+{"morocc_in", 20111, 101, 99, "repairman", "", 68, 31}
+, 
+{"morocc_in", 20199, 101, 66, "employee", "megin1", 146, 179}
+, 
+{"morocc_in", 20270, 101, 86, "student", "", 140, 102}
+, 
+{"morocc_in", 20328, 101, 716, "kid", "link1", 174, 30}
+, 
+{"morocc_in", 20427, 101, 89, "geil", "", 51, 101}
+, 
+{"morocc_in", 20430, 101, 97, "bankley", "", 12, 156}
+, 
+{"morocc_in", 20781, 101, 741, "spiteful-looking bard", "skill_bard02", 169, 72}
+, 
+{"morocc_in", 20787, 101, 54, "customer", "bard_skill01", 178, 73}
+, 
+{"morocc_in", 20788, 101, 50, "customer", "bard_skill02", 175, 70}
+, 
+{"morocc_in", 20789, 101, 46, "bartender", "bard_qskill", 166, 76}
+, 
+{"morocc_in", 21416, 101, 735, "old scholar tyus", "hellion", 116, 101}
+, 
+{"morocc_in", 21598, 101, 810, "rogue", "s", 115, 154}
+, 
+{"morocc_in", 21600, 101, 118, "young man", "s", 114, 162}
+, 
+{"moscovia", 13869, 101, 958, "a little girl", "mos1", 252, 203}
+, 
+{"moscovia", 13870, 101, 968, "a young man", "mos2", 233, 204}
+, 
+{"moscovia", 13871, 101, 964, "a middle aged man", "mos3", 219, 229}
+, 
+{"moscovia", 13872, 101, 962, "a little boy", "mos4", 255, 203}
+, 
+{"moscovia", 13873, 101, 959, "a maid", "mos5", 204, 188}
+, 
+{"moscovia", 13874, 101, 961, "a lady", "mos6", 167, 97}
+, 
+{"moscovia", 13875, 101, 962, "a little boy", "mos7", 202, 102}
+, 
+{"moscovia", 13876, 101, 968, "a young man", "mos8", 220, 172}
+, 
+{"moscovia", 13877, 101, 964, "a man", "mos9", 253, 175}
+, 
+{"moscovia", 13878, 101, 961, "a lady", "mos10", 168, 135}
+, 
+{"moscovia", 13879, 101, 959, "a lady", "mos11", 192, 80}
+, 
+{"moscovia", 13880, 101, 967, "a young man", "mos12", 211, 215}
+, 
+{"moscovia", 13881, 101, 964, "a man", "mos13", 149, 112}
+, 
+{"moscovia", 13882, 101, 968, "a young man", "mos14", 196, 71}
+, 
+{"moscovia", 13883, 101, 964, "a man", "mos15", 234, 168}
+, 
+{"moscovia", 13884, 101, 962, "a little boy", "mos16", 228, 80}
+, 
+{"moscovia", 13900, 101, 63, "the blacksmith", "07russia_06", 178, 127}
+, 
+{"moscovia", 13901, 101, 712, "vassili grandpapa", "07russia_07", 206, 81}
+, 
+{"moscovia", 13902, 101, 960, "ryubaba", "07russia_08", 213, 216}
+, 
+{"moscovia", 13909, 101, 962, "little boy", "07russia_09", 223, 210}
+, 
+{"moscovia", 13911, 101, 961, "worried mother", "07russia_19", 166, 145}
+, 
+{"moscovia", 13932, 101, 967, "acorn dealer", "mos", 208, 182}
+, 
+{"moscovia", 13940, 101, 966, "soldier", "mos_so1", 253, 166}
+, 
+{"moscovia", 13949, 102, 968, "fruit gardener", "", 152, 71}
+, 
+{"moscovia", 13950, 102, 959, "vendor from milk ranch", "", 199, 110}
+, 
+{"moscovia", 13951, 101, 968, "berbayeff", "npc", 171, 71}
+, 
+{"moscovia", 13952, 101, 964, "mr. ibanoff", "npc", 135, 49}
+, 
+{"moscovia", 13973, 101, 958, "irina", "edq", 211, 93}
+, 
+{"moscovia", 13974, 101, 837, "bulletin board", "mosk", 135, 52}
+, 
+{"moscovia", 13975, 101, 959, "moscovia guide", "", 161, 76}
+, 
+{"moscovia", 16073, 101, 959, "moscovia guide", "02moscovia", 226, 191}
+, 
+{"moscovia", 16351, 101, 114, "kafra staff", "", 223, 191}
+, 
+{"moscovia", 20091, 101, 960, "moscovia p.r. officer", "1", 166, 53}
+, 
+{"moscovia", 21190, 101, 729, "eden teleport officer", "30", 220, 192}
+, 
+{"mosk_in", 10025, 101, 495, "cat paw shrimp merchant", "mosk_in", 30, 246}
+, 
+{"mosk_in", 13941, 101, 966, "soldier", "mos_so2", 113, 124}
+, 
+{"mosk_in", 13942, 101, 966, "soldier", "mos_so3", 118, 66}
+, 
+{"mosk_in", 13943, 101, 966, "soldier", "mos_so4", 133, 110}
+, 
+{"mosk_in", 13944, 101, 966, "soldier", "mos_so5", 133, 73}
+, 
+{"mosk_in", 13946, 102, 968, "tool dealer", "", 21, 254}
+, 
+{"mosk_in", 13947, 102, 961, "armor dealer", "", 79, 178}
+, 
+{"mosk_in", 13948, 102, 968, "weapon dealer", "", 31, 180}
+, 
+{"nameless_n", 13735, 101, 97, "larjes", "Boat1", 259, 218}
+, 
+{"nif_in", 12002, 101, 738, "deviruchi", "divorce", 190, 112}
+, 
+{"nif_in", 12005, 101, 738, "deviruchi", "admin", 1, 1}
+, 
+{"nif_in", 16477, 102, 801, "tool dealer", "", 145, 23}
+, 
+{"nif_in", 16478, 102, 801, "axe dealer", "", 37, 93}
+, 
+{"nif_in", 16479, 102, 801, "armor dealer", "", 37, 84}
+, 
+{"niflheim", 12033, 101, 798, "roaming man", "", 107, 156}
+, 
+{"niflheim", 16328, 101, 791, "kafra employee", "34", 202, 180}
+, 
+{"niflheim", 16535, 102, 83, "chef assistant", "", 209, 180}
+, 
+{"niflheim", 20205, 101, 796, "egnigem", "", 109, 254}
+, 
+{"niflheim", 21182, 101, 729, "eden teleport officer", "26", 206, 179}
+, 
+{"nyd_dun02", 21766, 101, 406, "purification stone", "nyd2", 88, 195}
+, 
+{"odin_tem01", 13188, 101, 709, "boatman", "", 93, 146}
+, 
+{"p_track01", 21559, 101, 899, "ticket helper", "single", 73, 22}
+, 
+{"p_track01", 21560, 101, 845, "medal distributor", "single", 67, 45}
+, 
+{"p_track01", 21569, 101, 845, "game guide", "single", 39, 49}
+, 
+{"p_track01", 21589, 101, 853, "drunkard", "single", 27, 47}
+, 
+{"p_track01", 21590, 101, 107, "blacksmith guildsman", "single", 69, 31}
+, 
+{"p_track01", 21591, 101, 881, "absent minded man", "single", 45, 42}
+, 
+{"p_track02", 21576, 101, 899, "ticket helper", "double", 73, 22}
+, 
+{"p_track02", 21577, 101, 845, "game guide", "double", 39, 49}
+, 
+{"p_track02", 21578, 101, 845, "medal distributor", "medal", 67, 45}
+, 
+{"p_track02", 21579, 101, 798, "exit guide", "double", 76, 38}
+, 
+{"p_track02", 21586, 101, 755, "eccentric scholar", "double", 32, 45}
+, 
+{"p_track02", 21587, 101, 726, "blacksmith guildsman", "double1", 69, 31}
+, 
+{"p_track02", 21588, 101, 733, "valiant knight", "double", 53, 45}
+, 
+{"pay_arche", 11634, 101, 88, "archer joe", "", 77, 131}
+, 
+{"pay_arche", 16086, 101, 708, "guide", "05payon", 86, 33}
+, 
+{"pay_arche", 16285, 101, 117, "kafra employee", "", 55, 123}
+, 
+{"pay_arche", 16368, 101, 732, "mercenary guild manager", "Bow", 99, 167}
+, 
+{"pay_arche", 16371, 101, 879, "mercenary merchant", "Bow", 102, 167}
+, 
+{"pay_arche", 16586, 101, 51, "falcon pipe trader", "payon", 91, 134}
+, 
+{"pay_arche", 20122, 101, 837, "bulletin board", "archervil", 79, 31}
+, 
+{"pay_arche", 20123, 101, 837, "bulletin board", "paydun", 39, 134}
+, 
+{"pay_arche", 20396, 101, 835, "sign", "arc", 127, 154}
+, 
+{"pay_dun03", 16017, 101, 1180, "nine tails", "Kitsune Mask Fox", 48, 84}
+, 
+{"pay_gld", 19217, 101, 722, "bright arbor", "", 125, 236}
+, 
+{"pay_gld", 19218, 101, 722, "bright arbor", "", 110, 233}
+, 
+{"pay_gld", 19219, 101, 722, "bright arbor", "", 116, 233}
+, 
+{"pay_gld", 19220, 101, 722, "bright arbor", "", 91, 239}
+, 
+{"pay_gld", 19221, 101, 722, "holy shadow", "", 321, 298}
+, 
+{"pay_gld", 19222, 101, 722, "holy shadow", "", 321, 289}
+, 
+{"pay_gld", 19223, 101, 722, "holy shadow", "", 327, 304}
+, 
+{"pay_gld", 19224, 101, 722, "holy shadow", "", 333, 254}
+, 
+{"pay_gld", 19225, 101, 722, "scarlet palace", "", 137, 160}
+, 
+{"pay_gld", 19226, 101, 722, "scarlet palace", "", 143, 160}
+, 
+{"pay_gld", 19227, 101, 722, "scarlet palace", "", 133, 151}
+, 
+{"pay_gld", 19228, 101, 722, "scarlet palace", "", 153, 166}
+, 
+{"pay_gld", 19229, 101, 722, "bamboo grove hill", "", 208, 268}
+, 
+{"pay_gld", 19230, 101, 722, "bamboo grove hill", "", 199, 268}
+, 
+{"pay_gld", 19231, 101, 722, "bamboo grove hill", "", 190, 277}
+, 
+{"pay_gld", 19232, 101, 722, "bamboo grove hill", "", 187, 294}
+, 
+{"pay_gld", 19596, 101, 549, "cat paw merchant guild phecda", "", 203, 189}
+, 
+{"pay_gld", 19597, 101, 421, "gate manager", "pay_f00", 206, 189}
+, 
+{"pay_gld", 19599, 101, 857, "investment status board", "fund03", 200, 189}
+, 
+{"payon", 10004, 101, 495, "cat paw shrimp merchant", "payon", 157, 96}
+, 
+{"payon", 11601, 101, 754, "jade", "", 173, 238}
+, 
+{"payon", 11624, 101, 90, "lady", "", 246, 154}
+, 
+{"payon", 11625, 101, 59, "young man", "", 134, 211}
+, 
+{"payon", 11626, 101, 88, "young man", "", 173, 82}
+, 
+{"payon", 11628, 101, 708, "guardsman", "", 158, 246}
+, 
+{"payon", 11629, 101, 66, "woman", "", 249, 156}
+, 
+{"payon", 11630, 101, 66, "woman", "", 246, 158}
+, 
+{"payon", 11631, 101, 120, "drunkard", "", 210, 110}
+, 
+{"payon", 11635, 101, 98, "monster scholar", "02", 132, 235}
+, 
+{"payon", 12844, 101, 116, "kafra voting staff", "payon", 158, 182}
+, 
+{"payon", 12886, 101, 874, "cool event voting staff", "payon", 153, 182}
+, 
+{"payon", 13858, 101, 997, "continental messenger", "payon_edq", 200, 113}
+, 
+{"payon", 13931, 101, 78, "broom grandma", "07russia_44", 65, 119}
+, 
+{"payon", 15731, 101, 553, "dolangmal", "payon", 200, 106}
+, 
+{"payon", 16023, 101, 725, "neko neko", "", 115, 131}
+, 
+{"payon", 16047, 101, 97, "chungwolmang", "", 135, 320}
+, 
+{"payon", 16082, 101, 708, "guide", "01payon", 160, 67}
+, 
+{"payon", 16083, 101, 708, "guide", "02payon", 151, 182}
+, 
+{"payon", 16084, 101, 708, "guide", "03payon", 221, 85}
+, 
+{"payon", 16085, 101, 708, "guide", "04payon", 233, 324}
+, 
+{"payon", 16269, 101, 113, "kafra employee", "", 181, 104}
+, 
+{"payon", 16276, 101, 116, "kafra employee", "", 175, 226}
+, 
+{"payon", 16439, 102, 88, "tool dealer", "", 159, 96}
+, 
+{"payon", 16440, 102, 124, "pet groomer", "", 177, 131}
+, 
+{"payon", 16520, 102, 89, "chef assistant", "", 206, 119}
+, 
+{"payon", 16558, 102, 66, "trap specialist", "", 123, 109}
+, 
+{"payon", 19197, 101, 722, "bright arbor", "", 90, 322}
+, 
+{"payon", 19199, 101, 722, "holy shadow", "", 113, 322}
+, 
+{"payon", 19200, 101, 722, "scarlet palace", "", 118, 322}
+, 
+{"payon", 19201, 101, 722, "bamboo grove hill", "", 123, 322}
+, 
+{"payon", 19202, 101, 722, "bright arbor", "", 166, 177}
+, 
+{"payon", 19204, 101, 722, "holy shadow", "", 166, 169}
+, 
+{"payon", 19205, 101, 722, "scarlet palace", "", 166, 165}
+, 
+{"payon", 19206, 101, 722, "bamboo grove hill", "", 166, 161}
+, 
+{"payon", 20012, 101, 92, "smile assistance", "", 186, 104}
+, 
+{"payon", 20098, 101, 88, "servant", "", 209, 127}
+, 
+{"payon", 20112, 101, 88, "repairman", "", 143, 165}
+, 
+{"payon", 20217, 101, 95, "friar", "G5", 79, 171}
+, 
+{"payon", 20251, 101, 86, "merchant", "pay", 200, 134}
+, 
+{"payon", 21154, 101, 729, "eden teleport officer", "12", 177, 111}
+, 
+{"payon", 21653, 101, 84, "seiyablem", "pay", 140, 151}
+, 
+{"payon", 21658, 101, 97, "young man", "pay", 143, 143}
+, 
+{"payon", 21661, 101, 86, "leablem", "", 236, 199}
+, 
+{"payon", 21933, 101, 728, "maroll battle recruiter", "", 189, 105}
+, 
+{"payon_in01", 11627, 101, 90, "waitress", "", 180, 7}
+, 
+{"payon_in01", 11632, 101, 88, "archer zakk", "", 66, 64}
+, 
+{"payon_in01", 11633, 101, 88, "archer wolt", "", 47, 59}
+, 
+{"payon_in01", 11636, 101, 53, "inn employee", "", 132, 62}
+, 
+{"payon_in01", 11663, 101, 89, "inventor jaax", "", 5, 134}
+, 
+{"payon_in01", 16441, 102, 88, "tool dealer", "", 5, 49}
+, 
+{"payon_in01", 16442, 102, 77, "weapon dealer", "", 15, 119}
+, 
+{"payon_in01", 16443, 102, 76, "armor dealer", "", 7, 119}
+, 
+{"payon_in01", 16515, 102, 703, "weapon dealer", "", 5, 129}
+, 
+{"payon_in01", 19972, 101, 103, "granny", "", 99, 72}
+, 
+{"payon_in01", 19974, 101, 76, "mystic lady", "", 18, 10}
+, 
+{"payon_in01", 19991, 101, 89, "young man", "", 56, 12}
+, 
+{"payon_in01", 20000, 101, 84, "pvpnarrator", "", 142, 50}
+, 
+{"payon_in01", 20001, 101, 83, "gate keeper", "", 140, 53}
+, 
+{"payon_in02", 16444, 102, 75, "tool dealer", "", 87, 34}
+, 
+{"payon_in02", 19980, 101, 86, "boy", "", 25, 71}
+, 
+{"payon_in02", 21152, 101, 729, "eden teleport officer", "11", 58, 58}
+, 
+{"prontera", 10003, 101, 495, "cat paw shrimp merchant", "prontera", 137, 223}
+, 
+{"prontera", 10939, 101, 105, "guard", "", 160, 330}
+, 
+{"prontera", 10940, 101, 105, "guard", "", 223, 99}
+, 
+{"prontera", 10941, 101, 105, "guard", "", 229, 104}
+, 
+{"prontera", 10942, 101, 105, "guard", "", 47, 339}
+, 
+{"prontera", 10943, 101, 105, "guard", "", 52, 344}
+, 
+{"prontera", 10944, 101, 98, "shuger", "", 101, 288}
+, 
+{"prontera", 10945, 101, 97, "tono", "", 54, 240}
+, 
+{"prontera", 10946, 101, 91, "merideth", "", 106, 116}
+, 
+{"prontera", 10947, 101, 102, "yupi", "", 160, 133}
+, 
+{"prontera", 10948, 101, 700, "yuna", "", 149, 202}
+, 
+{"prontera", 10949, 101, 48, "strife", "", 216, 70}
+, 
+{"prontera", 12809, 101, 116, "kafra voting staff", "pron", 164, 125}
+, 
+{"prontera", 12823, 101, 874, "cool event voting staff", "pron", 147, 125}
+, 
+{"prontera", 13790, 101, 105, "messenger", "prince1", 154, 353}
+, 
+{"prontera", 13856, 101, 997, "continental messenger", "pron_edq", 164, 304}
+, 
+{"prontera", 15727, 101, 553, "dolangmal", "Pron", 114, 77}
+, 
+{"prontera", 15995, 101, 853, "rune seller", "", 168, 228}
+, 
+{"prontera", 16020, 101, 744, "nephia", "", 165, 232}
+, 
+{"prontera", 16060, 101, 105, "riding creature master", "", 130, 213}
+, 
+{"prontera", 16061, 101, 105, "pecopeco remover", "", 125, 208}
+, 
+{"prontera", 16075, 101, 105, "guide", "01prontera", 154, 187}
+, 
+{"prontera", 16076, 101, 105, "guide", "02prontera", 282, 208}
+, 
+{"prontera", 16077, 101, 105, "guide", "03prontera", 29, 200}
+, 
+{"prontera", 16078, 101, 105, "guide", "04prontera", 160, 29}
+, 
+{"prontera", 16079, 101, 105, "guide", "05prontera", 151, 330}
+, 
+{"prontera", 16131, 101, 116, "kafra employee", "", 248, 42}
+, 
+{"prontera", 16133, 101, 117, "kafra employee", "", 146, 89}
+, 
+{"prontera", 16151, 101, 115, "kafra employee", "", 151, 29}
+, 
+{"prontera", 16169, 101, 114, "kafra employee", "", 282, 200}
+, 
+{"prontera", 16187, 101, 113, "kafra employee", "", 29, 207}
+, 
+{"prontera", 16205, 101, 112, "kafra employee", "", 152, 326}
+, 
+{"prontera", 16366, 101, 105, "mercenary guild manager", "Spear", 41, 337}
+, 
+{"prontera", 16369, 101, 700, "mercenary merchant", "Spear", 30, 337}
+, 
+{"prontera", 16380, 101, 90, "dairenne", "", 78, 150}
+, 
+{"prontera", 16384, 101, 105, "peco peco breeder", "", 55, 350}
+, 
+{"prontera", 16390, 102, 90, "vendor from milk ranch", "", 73, 134}
+, 
+{"prontera", 16391, 102, 102, "fruit gardener", "", 104, 49}
+, 
+{"prontera", 16392, 102, 91, "vegetable gardener", "", 48, 58}
+, 
+{"prontera", 16393, 102, 87, "butcher", "", 64, 125}
+, 
+{"prontera", 16394, 102, 96, "flower girl", "", 58, 182}
+, 
+{"prontera", 16395, 102, 90, "flower lady", "", 113, 42}
+, 
+{"prontera", 16396, 102, 91, "gift merchant", "", 105, 87}
+, 
+{"prontera", 16397, 102, 85, "doll supplier", "", 248, 153}
+, 
+{"prontera", 16398, 102, 125, "pet groomer", "", 218, 211}
+, 
+{"prontera", 16519, 102, 700, "chef assistant", "", 156, 212}
+, 
+{"prontera", 16579, 101, 704, "catalogue magician", "catal01", 99, 64}
+, 
+{"prontera", 19193, 101, 722, "swanhild", "", 146, 194}
+, 
+{"prontera", 19194, 101, 722, "fadhgridh", "", 143, 203}
+, 
+{"prontera", 19195, 101, 722, "skoegul", "", 167, 203}
+, 
+{"prontera", 19196, 101, 722, "gondul", "", 165, 194}
+, 
+{"prontera", 20006, 101, 92, "smile assistance", "", 157, 187}
+, 
+{"prontera", 20118, 101, 837, "bulletin board", "pron", 148, 49}
+, 
+{"prontera", 20245, 101, 837, "sign post", "", 113, 294}
+, 
+{"prontera", 20249, 101, 86, "merchant", "pron", 123, 102}
+, 
+{"prontera", 20311, 102, 83, "amatsu trader", "nin", 178, 244}
+, 
+{"prontera", 20376, 102, 564, "rebellion weapon vending machine", "", 92, 209}
+, 
+{"prontera", 20377, 102, 564, "rebellion prop vending machine", "", 96, 209}
+, 
+{"prontera", 20406, 101, 753, "new guild master", "tu", 167, 281}
+, 
+{"prontera", 20407, 101, 123, "mage", "tu", 144, 301}
+, 
+{"prontera", 20622, 101, 105, "peco peco breeder", "", 232, 318}
+, 
+{"prontera", 20804, 101, 733, "grand master", "", 72, 352}
+, 
+{"prontera", 20805, 101, 734, "knight", "zabii", 78, 354}
+, 
+{"prontera", 20806, 101, 734, "knight", "drake", 73, 357}
+, 
+{"prontera", 20807, 101, 734, "knight", "sasword", 78, 357}
+, 
+{"prontera", 20808, 101, 733, "knight", "gattack", 66, 358}
+, 
+{"prontera", 20907, 101, 703, "clan helper", "clan", 138, 183}
+, 
+{"prontera", 21132, 101, 729, "eden teleport officer", "1", 124, 76}
+, 
+{"prontera", 21192, 101, 729, "eden teleport officer", "31", 271, 213}
+, 
+{"prontera", 21194, 101, 729, "eden teleport officer", "32", 38, 212}
+, 
+{"prontera", 21208, 101, 729, "eden teleport officer", "40", 162, 326}
+, 
+{"prontera", 21415, 101, 73, "apprentice craftsman", "", 165, 60}
+, 
+{"prontera", 21556, 101, 105, "magic gear master", "", 163, 178}
+, 
+{"prontera", 21592, 101, 124, "hypnotist", "2", 146, 232}
+, 
+{"prontera", 21739, 101, 899, "norman", "namadbu", 184, 197}
+, 
+{"prontera", 21921, 101, 728, "maroll battle recruiter", "", 123, 83}
+, 
+{"prt_church", 10956, 101, 67, "garnet", "", 103, 76}
+, 
+{"prt_church", 10957, 101, 120, "henson", "", 103, 71}
+, 
+{"prt_church", 10969, 101, 60, "father bamph", "", 185, 106}
+, 
+{"prt_church", 10970, 101, 60, "father biscuss", "", 184, 110}
+, 
+{"prt_church", 11120, 101, 71, "wedding staff", "", 97, 100}
+, 
+{"prt_church", 11128, 101, 108, "the king of midgard", "Switch", 28, 178}
+, 
+{"prt_church", 11132, 101, 71, "divorce staff", "", 20, 179}
+, 
+{"prt_church", 11133, 101, 71, "remarry staff", "", 22, 179}
+, 
+{"prt_church", 16400, 102, 79, "nun", "", 108, 124}
+, 
+{"prt_church", 20587, 101, 60, "high bishop", "", 16, 41}
+, 
+{"prt_church", 20588, 101, 79, "sister cecilia", "", 27, 24}
+, 
+{"prt_church", 20621, 101, 745, "crusader", "", 95, 127}
+, 
+{"prt_church", 20908, 101, 60, "praying minister", "arch", 103, 88}
+, 
+{"prt_church", 21144, 101, 729, "eden teleport officer", "7", 103, 78}
+, 
+{"prt_fild05", 10937, 101, 105, "culvert guardian", "", 270, 212}
+, 
+{"prt_fild05", 16206, 101, 114, "kafra employee", "", 290, 224}
+, 
+{"prt_fild05", 16399, 102, 83, "tool dealer", "", 290, 221}
+, 
+{"prt_fild05", 20148, 101, 837, "bulletin board", "sewer", 278, 220}
+, 
+{"prt_fild08", 11134, 101, 909, "poring war recruiter", "wop", 159, 371}
+, 
+{"prt_fild09", 15339, 101, 852, "continental guard", "man1", 95, 19}
+, 
+{"prt_fild09", 15342, 101, 852, "continental guard", "man1", 246, 17}
+, 
+{"prt_fild10", 15335, 101, 852, "continental guard", "man1", 263, 23}
+, 
+{"prt_gld", 19233, 101, 722, "swanhild", "", 244, 126}
+, 
+{"prt_gld", 19234, 101, 722, "swanhild", "", 244, 128}
+, 
+{"prt_gld", 19235, 101, 722, "swanhild", "", 236, 126}
+, 
+{"prt_gld", 19236, 101, 722, "swanhild", "", 236, 128}
+, 
+{"prt_gld", 19237, 101, 722, "fadhgridh", "", 147, 140}
+, 
+{"prt_gld", 19238, 101, 722, "fadhgridh", "", 147, 136}
+, 
+{"prt_gld", 19239, 101, 722, "fadhgridh", "", 158, 140}
+, 
+{"prt_gld", 19240, 101, 722, "fadhgridh", "", 158, 136}
+, 
+{"prt_gld", 19241, 101, 722, "skoegul", "", 120, 243}
+, 
+{"prt_gld", 19242, 101, 722, "skoegul", "", 120, 236}
+, 
+{"prt_gld", 19243, 101, 722, "skoegul", "", 122, 243}
+, 
+{"prt_gld", 19244, 101, 722, "skoegul", "", 122, 236}
+, 
+{"prt_gld", 19245, 101, 722, "gondul", "", 199, 243}
+, 
+{"prt_gld", 19246, 101, 722, "gondul", "", 199, 236}
+, 
+{"prt_gld", 19247, 101, 722, "gondul", "", 197, 243}
+, 
+{"prt_gld", 19248, 101, 722, "gondul", "", 197, 236}
+, 
+{"prt_gld", 19586, 101, 421, "revoting manager", "Invest1", 164, 98}
+, 
+{"prt_gld", 19600, 101, 549, "cat paw merchant guild dubae", "", 158, 96}
+, 
+{"prt_gld", 19601, 101, 421, "gate manager", "prt_f00", 161, 96}
+, 
+{"prt_gld", 19603, 101, 857, "investment status board", "fund01", 163, 99}
+, 
+{"prt_gld", 19624, 101, 564, "thanks ticket machine", "Invest", 165, 50}
+, 
+{"prt_gld", 19625, 101, 857, "cat paw merchants notice", "Investment Event", 148, 253}
+, 
+{"prt_gld", 19626, 101, 545, "namis", "Investment Event", 145, 255}
+, 
+{"prt_in", 10930, 101, 71, "library girl", "", 175, 50}
+, 
+{"prt_in", 10931, 101, 53, "inn employee", "", 244, 135}
+, 
+{"prt_in", 10932, 101, 53, "inn employee", "", 61, 141}
+, 
+{"prt_in", 10952, 101, 61, "bartender", "", 180, 20}
+, 
+{"prt_in", 15998, 101, 700, "point seller", "Sorcerer2", 131, 66}
+, 
+{"prt_in", 16383, 101, 55, "ginedin rephere", "", 285, 169}
+, 
+{"prt_in", 16401, 102, 53, "tool dealer", "", 126, 76}
+, 
+{"prt_in", 16402, 102, 71, "wedding shop dealer", "", 211, 169}
+, 
+{"prt_in", 16403, 102, 54, "weapon dealer", "", 172, 130}
+, 
+{"prt_in", 16404, 102, 47, "weapon dealer", "", 171, 140}
+, 
+{"prt_in", 16405, 102, 48, "armor dealer", "", 172, 132}
+, 
+{"prt_in", 16513, 102, 66, "weapon dealer", "", 165, 140}
+, 
+{"prt_in", 16555, 102, 66, "trap specialist", "", 109, 68}
+, 
+{"prt_in", 16560, 102, 49, "black marketeer", "", 175, 137}
+, 
+{"prt_in", 19979, 101, 53, "teacher", "", 38, 108}
+, 
+{"prt_in", 19996, 101, 84, "pvpnarrator", "", 56, 140}
+, 
+{"prt_in", 19997, 101, 83, "gate keeper", "", 52, 140}
+, 
+{"prt_in", 20113, 101, 86, "repairman", "", 63, 54}
+, 
+{"prt_in", 20903, 101, 10058, "raffam oranpere", "", 33, 114}
+, 
+{"prt_in", 20904, 101, 10059, "devon aire", "", 35, 114}
+, 
+{"prt_in", 20905, 101, 10060, "berman aire", "", 37, 114}
+, 
+{"prt_in", 20906, 101, 10061, "shaam rumi", "", 39, 114}
+, 
+{"prt_in", 21655, 101, 84, "seiyablem", "prt", 33, 70}
+, 
+{"prt_in", 21657, 101, 97, "young man", "prt", 31, 57}
+, 
+{"prt_in", 21663, 101, 86, "leablem", "", 22, 61}
+, 
+{"prt_maze02", 10958, 101, 105, "soldier", "", 100, 69}
+, 
+{"prt_maze02", 10959, 101, 105, "soldier", "", 110, 69}
+, 
+{"prt_monk", 16468, 102, 726, "weapon dealer", "", 135, 263}
+, 
+{"que_bingo", 13148, 101, 47, "arcade helper", "bingo1", 49, 31}
+, 
+{"que_bingo", 13149, 101, 66, "arcade helper", "bingo2", 42, 31}
+, 
+{"que_bingo", 13150, 101, 712, "arcade owner", "bingo", 54, 17}
+, 
+{"que_bingo", 13152, 101, 778, "eukran", "bingo", 53, 190}
+, 
+{"que_god01t", 20236, 101, 826, "grunburti", "god", 154, 112}
+, 
+{"que_job01", 11485, 101, 882, "girl", "moc_ex002", 70, 84}
+, 
+{"ra_fild12", 13477, 101, 934, "airship guide", "fild", 45, 230}
+, 
+{"ra_in01", 10014, 101, 495, "cat paw shrimp merchant", "ra_in01", 243, 272}
+, 
+{"ra_in01", 16543, 102, 919, "tool dealer", "", 257, 269}
+, 
+{"ra_in01", 16544, 102, 931, "fruit guardner", "", 254, 300}
+, 
+{"ra_in01", 16545, 102, 931, "weapon dealer", "", 176, 389}
+, 
+{"ra_in01", 16546, 102, 919, "armor dealer", "", 175, 364}
+, 
+{"ra_in01", 16556, 102, 66, "trap specialist", "", 263, 281}
+, 
+{"ra_in01", 16561, 102, 49, "black marketeer", "", 257, 266}
+, 
+{"rachel", 13447, 101, 919, "lachellen", "", 73, 244}
+, 
+{"rachel", 13448, 101, 921, "kid", "", 196, 77}
+, 
+{"rachel", 13449, 101, 921, "kid", "", 151, 155}
+, 
+{"rachel", 13450, 101, 918, "grandma", "", 266, 35}
+, 
+{"rachel", 13465, 101, 921, "citizen", "1", 124, 132}
+, 
+{"rachel", 13467, 101, 914, "girl", "1", 74, 150}
+, 
+{"rachel", 13480, 101, 51, "bard", "aru", 197, 137}
+, 
+{"rachel", 16116, 101, 934, "rachel guide", "rachel", 138, 146}
+, 
+{"rachel", 16344, 101, 874, "cool event corp. staff", "", 109, 138}
+, 
+{"rachel", 16547, 102, 919, "vegetable gardener", "", 65, 80}
+, 
+{"rachel", 21162, 101, 729, "eden teleport officer", "16", 125, 144}
+, 
+{"rachel", 21937, 101, 728, "maroll battle recruiter", "", 149, 138}
+, 
+{"spl_fild02", 15871, 101, 421, "teleport cat no.3", "", 53, 242}
+, 
+{"splendide", 14421, 101, 461, "fairy", "", 159, 164}
+, 
+{"splendide", 14422, 101, 439, "fairy", "", 229, 54}
+, 
+{"splendide", 14423, 101, 446, "fairy", "", 89, 235}
+, 
+{"splendide", 14424, 101, 462, "fairy", "", 245, 243}
+, 
+{"splendide", 14425, 101, 439, "fairy", "", 230, 142}
+, 
+{"splendide", 14426, 101, 444, "fairy", "", 274, 203}
+, 
+{"splendide", 14427, 101, 447, "fairy", "", 275, 141}
+, 
+{"splendide", 14428, 101, 440, "fairy", "", 224, 230}
+, 
+{"splendide", 14429, 101, 462, "fairy", "", 223, 36}
+, 
+{"splendide", 14430, 101, 436, "fairy", "", 305, 129}
+, 
+{"splendide", 14431, 101, 462, "fairy", "", 142, 315}
+, 
+{"splendide", 14432, 101, 462, "fairy", "", 181, 107}
+, 
+{"splendide", 16010, 101, 700, "point seller", "Sorcerer14", 207, 160}
+, 
+{"sword_1-1", 21105, 101, 753, "buddy", "job_shu¿¿¡¢", 223, 243}
+, 
+{"sword_1-1", 21111, 101, 484, "bruno", "job_shu", 222, 169}
+, 
+{"sword_1-1", 21114, 101, 483, "master", "job_shu", 223, 167}
+, 
+{"sword_2-1", 21107, 101, 753, "buddy", "job_shuaneh", 223, 205}
+, 
+{"tur_dun01", 11350, 101, 709, "sailor", "", 165, 29}
+, 
+{"um_in", 10017, 101, 495, "cat paw shrimp merchant", "um_in", 104, 118}
+, 
+{"um_in", 11968, 101, 787, "utan villager", "", 158, 71}
+, 
+{"um_in", 16475, 102, 788, "tool dealer", "", 104, 124}
+, 
+{"um_in", 16476, 102, 789, "weapon dealer", "", 160, 125}
+, 
+{"um_in", 21645, 101, 121, "fastidious-looking guy", "", 27, 23}
+, 
+{"umbala", 11946, 101, 785, "utan man", "1", 140, 157}
+, 
+{"umbala", 11947, 101, 786, "utan man", "2", 146, 157}
+, 
+{"umbala", 11948, 101, 787, "utan kid", "2", 194, 104}
+, 
+{"umbala", 11949, 101, 781, "utan kid", "3", 149, 165}
+, 
+{"umbala", 11950, 101, 789, "utan man", "3", 193, 208}
+, 
+{"umbala", 11951, 101, 787, "utan kid", "1", 59, 243}
+, 
+{"umbala", 11952, 101, 785, "utan man", "5", 139, 205}
+, 
+{"umbala", 11963, 101, 753, "yuwooki", "", 80, 146}
+, 
+{"umbala", 11969, 101, 781, "utan kid", "", 70, 106}
+, 
+{"umbala", 11970, 101, 97, "pasto", "", 177, 153}
+, 
+{"umbala", 11971, 101, 785, "bertan", "", 92, 159}
+, 
+{"umbala", 16064, 101, 702, "umbala guide", "01umbala", 128, 94}
+, 
+{"umbala", 16065, 101, 702, "umbala guide", "02umbala", 99, 158}
+, 
+{"umbala", 16326, 101, 721, "kafra employee", "", 87, 160}
+, 
+{"umbala", 16526, 102, 83, "chef assistant", "", 102, 154}
+, 
+{"umbala", 20135, 101, 837, "bulletin board", "umbala", 137, 94}
+, 
+{"umbala", 21176, 101, 729, "eden teleport officer", "23", 96, 160}
+, 
+{"ve_fild02", 13708, 101, 945, "wincing old man", "ve", 337, 314}
+, 
+{"ve_fild02", 20940, 101, 466, "assassin guild member", "3rdgc14", 329, 385}
+, 
+{"ve_in", 10015, 101, 495, "cat paw shrimp merchant", "ve_in", 263, 303}
+, 
+{"ve_in", 13558, 101, 947, "bartender", "ve", 235, 135}
+, 
+{"ve_in", 13559, 101, 940, "female customer", "ve1", 237, 131}
+, 
+{"ve_in", 13560, 101, 943, "male customer", "ve2", 239, 107}
+, 
+{"ve_in", 13622, 101, 709, "inn master", "veinsin", 157, 219}
+, 
+{"ve_in", 13652, 101, 946, "prisoner", "", 119, 386}
+, 
+{"ve_in", 13653, 101, 946, "ward", "", 111, 379}
+, 
+{"ve_in", 13654, 101, 946, "ward", "", 126, 378}
+, 
+{"ve_in", 13655, 101, 943, "towner", "", 101, 314}
+, 
+{"ve_in", 13656, 101, 849, "towner", "", 90, 298}
+, 
+{"ve_in", 13657, 101, 849, "towner", "", 361, 243}
+, 
+{"ve_in", 13658, 101, 849, "towner", "", 242, 124}
+, 
+{"ve_in", 13659, 101, 946, "towner", "", 180, 232}
+, 
+{"ve_in", 13660, 101, 940, "towner", "", 163, 212}
+, 
+{"ve_in", 13661, 101, 946, "towner", "", 190, 215}
+, 
+{"ve_in", 13662, 101, 943, "towner", "", 318, 121}
+, 
+{"ve_in", 13663, 101, 943, "towner", "", 222, 125}
+, 
+{"ve_in", 13664, 101, 940, "towner", "", 222, 122}
+, 
+{"ve_in", 13665, 101, 946, "towner", "", 232, 135}
+, 
+{"ve_in", 13666, 101, 946, "towner", "", 239, 135}
+, 
+{"ve_in", 13667, 101, 943, "towner", "", 232, 124}
+, 
+{"ve_in", 13668, 101, 946, "towner", "", 234, 105}
+, 
+{"ve_in", 16548, 102, 931, "weapon dealer", "", 386, 245}
+, 
+{"ve_in", 16549, 102, 931, "weapon dealer", "", 336, 243}
+, 
+{"ve_in", 16550, 102, 919, "armor dealer", "", 374, 230}
+, 
+{"ve_in", 16551, 102, 943, "tool dealer", "", 243, 303}
+, 
+{"ve_in", 16552, 102, 941, "fruit gardener", "", 253, 304}
+, 
+{"ve_in", 16553, 102, 942, "magical item seller", "", 252, 313}
+, 
+{"ve_in", 21100, 101, 484, "fighter", "job_shu", 102, 159}
+, 
+{"veins", 13623, 101, 943, "towner", "", 162, 34}
+, 
+{"veins", 13624, 101, 940, "towner", "", 148, 41}
+, 
+{"veins", 13625, 101, 943, "towner", "", 137, 179}
+, 
+{"veins", 13626, 101, 946, "towner", "", 166, 91}
+, 
+{"veins", 13627, 101, 941, "kid", "", 138, 71}
+, 
+{"veins", 13628, 101, 944, "kid", "", 253, 133}
+, 
+{"veins", 13629, 101, 945, "old man", "", 270, 164}
+, 
+{"veins", 13630, 101, 946, "towner", "", 310, 195}
+, 
+{"veins", 13631, 101, 943, "towner", "", 320, 254}
+, 
+{"veins", 13632, 101, 940, "towner", "", 333, 318}
+, 
+{"veins", 13633, 101, 945, "towner", "", 218, 323}
+, 
+{"veins", 13634, 101, 941, "kid", "", 206, 275}
+, 
+{"veins", 13635, 101, 943, "towner", "", 171, 256}
+, 
+{"veins", 13636, 101, 943, "towner", "", 197, 219}
+, 
+{"veins", 13637, 101, 942, "old lady", "", 232, 169}
+, 
+{"veins", 13638, 101, 945, "old man", "", 121, 199}
+, 
+{"veins", 13639, 101, 943, "towner", "", 111, 50}
+, 
+{"veins", 13640, 101, 940, "towner", "", 112, 51}
+, 
+{"veins", 13641, 101, 945, "old man", "", 191, 134}
+, 
+{"veins", 13642, 101, 942, "old lady", "", 177, 147}
+, 
+{"veins", 13643, 101, 944, "kid", "", 223, 165}
+, 
+{"veins", 13644, 101, 943, "towner", "", 263, 153}
+, 
+{"veins", 13645, 101, 940, "towner", "", 296, 184}
+, 
+{"veins", 13646, 101, 944, "kid", "", 291, 205}
+, 
+{"veins", 13647, 101, 945, "old man", "", 291, 259}
+, 
+{"veins", 13648, 101, 942, "old lady", "", 291, 284}
+, 
+{"veins", 13649, 101, 944, "kid", "", 248, 301}
+, 
+{"veins", 13650, 101, 945, "old man", "", 161, 63}
+, 
+{"veins", 13651, 101, 946, "towner", "", 157, 123}
+, 
+{"veins", 16007, 101, 700, "point seller", "Sorcerer11", 202, 128}
+, 
+{"veins", 16117, 101, 934, "veins guide", "veins01", 210, 345}
+, 
+{"veins", 16118, 101, 934, "veins guide", "veins02", 189, 101}
+, 
+{"veins", 16347, 101, 874, "cool event corp. staff", "", 208, 128}
+, 
+{"veins", 21164, 101, 729, "eden teleport officer", "17", 214, 122}
+, 
+{"verus04", 15318, 101, 874, "cool event corp. employee", "", 121, 243}
+, 
+{"verus04", 15319, 102, 536, "tool merchant", "verus", 144, 239}
+, 
+{"xmas", 16026, 101, 793, "pretty lindsay", "", 183, 267}
+, 
+{"xmas", 16027, 101, 712, "fuzzy fuzz", "", 175, 156}
+, 
+{"xmas", 16066, 101, 717, "lutie guide", "xmas", 140, 137}
+, 
+{"xmas", 16534, 102, 83, "chef assistant", "", 152, 137}
+, 
+{"xmas", 19986, 101, 704, "vending machine man", "", 117, 295}
+, 
+{"xmas", 20128, 101, 837, "bulletin board", "toy", 147, 311}
+, 
+{"xmas_fild01", 20127, 101, 837, "bulletin board", "lutie", 75, 80}
+, 
+{"xmas_in", 10016, 101, 495, "cat paw shrimp merchant", "xmas_in", 32, 38}
+, 
+{"xmas_in", 16031, 101, 797, "hat merchant", "zero", 35, 30}
+, 
+{"xmas_in", 16449, 102, 83, "tool dealer", "", 40, 38}
+, 
+{"xmas_in", 16450, 102, 49, "weapon dealer", "", 174, 98}
+, 
+{"xmas_in", 16451, 102, 101, "armor dealer", "", 168, 104}
+, 
+{"xmas_in", 16452, 102, 702, "gift seller", "", 169, 34}
+, 
+{"xmas_in", 20046, 101, 718, "santa claus", "", 100, 96}
+, 
+{"xmas_in", 20048, 101, 711, "duffle", "", 167, 173}
+, 
+{"y_airport", 12346, 101, 90, "airport staff", "y_airport1a", 143, 43}
+, 
+{"y_airport", 12349, 101, 90, "airport staff", "y_airport1b", 158, 43}
+, 
+{"y_airport", 12352, 101, 90, "airport staff", "y_airport1c", 126, 43}
+, 
+{"y_airport", 12358, 101, 90, "arrival staff", "y_airport2a", 143, 49}
+, 
+{"y_airport", 12360, 101, 90, "arrival staff", "y_airport2b", 126, 51}
+, 
+{"y_airport", 12362, 101, 90, "arrival staff", "y_airport2c", 158, 50}
+, 
+{"y_airport", 12364, 101, 91, "domestic boarding", "y_airport2d", 145, 63}
+, 
+{"y_airport", 12366, 101, 91, "international boarding", "y_airport2d", 140, 63}
+, 
+{"yuno", 10009, 101, 495, "cat paw shrimp merchant", "yuno", 205, 116}
+, 
+{"yuno", 11279, 101, 700, "juno guide", "", 153, 47}
+, 
+{"yuno", 11281, 101, 729, "freidrich", "", 184, 173}
+, 
+{"yuno", 11285, 101, 103, "juno granny", "", 337, 227}
+, 
+{"yuno", 11286, 101, 732, "juno fighter", "", 328, 239}
+, 
+{"yuno", 11287, 101, 730, "juno despot", "", 343, 68}
+, 
+{"yuno", 11289, 101, 123, "juno sage", "", 165, 111}
+, 
+{"yuno", 11292, 101, 54, "juno artisan", "", 157, 205}
+, 
+{"yuno", 11293, 101, 105, "juno soldier", "", 150, 283}
+, 
+{"yuno", 11294, 101, 105, "juno soldier", "", 165, 283}
+, 
+{"yuno", 11295, 101, 105, "juno soldier", "", 227, 292}
+, 
+{"yuno", 11296, 101, 105, "juno soldier", "", 165, 228}
+, 
+{"yuno", 11297, 101, 105, "juno soldier", "", 150, 228}
+, 
+{"yuno", 11298, 101, 105, "juno soldier", "", 334, 182}
+, 
+{"yuno", 11299, 101, 105, "juno soldier", "", 263, 320}
+, 
+{"yuno", 12588, 101, 91, "airship staff", "yuno01", 14, 262}
+, 
+{"yuno", 12589, 101, 91, "airship staff", "yuno02", 88, 263}
+, 
+{"yuno", 12802, 101, 861, "kafra voting staff", "yuno", 162, 191}
+, 
+{"yuno", 12816, 101, 874, "cool event voting staff", "yuno", 153, 191}
+, 
+{"yuno", 16024, 101, 813, "old blacksmith", "hgear", 241, 52}
+, 
+{"yuno", 16041, 101, 851, "kasis", "crunch", 222, 116}
+, 
+{"yuno", 16119, 101, 700, "yuno guide", "yuno01", 59, 212}
+, 
+{"yuno", 16304, 101, 860, "kafra employee", "", 327, 108}
+, 
+{"yuno", 16307, 101, 861, "kafra employee", "", 277, 221}
+, 
+{"yuno", 16310, 101, 860, "kafra employee", "", 152, 187}
+, 
+{"yuno", 16463, 102, 124, "pet groomer", "", 197, 114}
+, 
+{"yuno", 16464, 102, 125, "mr. king\'s shop", "", 205, 103}
+, 
+{"yuno", 16465, 102, 84, "tool dealer", "", 218, 97}
+, 
+{"yuno", 16466, 102, 83, "tool dealer", "", 226, 107}
+, 
+{"yuno", 16467, 102, 90, "magical item seller", "", 163, 187}
+, 
+{"yuno", 16527, 102, 83, "chef assistant", "", 130, 173}
+, 
+{"yuno", 19560, 101, 722, "heemin", "", 109, 167}
+, 
+{"yuno", 19561, 101, 722, "andlerangh", "", 110, 171}
+, 
+{"yuno", 19562, 101, 722, "bidblind", "", 111, 175}
+, 
+{"yuno", 19563, 101, 722, "hueluid", "", 112, 179}
+, 
+{"yuno", 19564, 101, 722, "schatirnil", "", 114, 183}
+, 
+{"yuno", 20130, 101, 837, "bulletin board", "juno", 153, 113}
+, 
+{"yuno", 21160, 101, 729, "eden teleport officer", "15", 144, 189}
+, 
+{"yuno_fild03", 20131, 101, 837, "bulletin board", "noggroad", 37, 143}
+, 
+{"yuno_in01", 16460, 102, 49, "weapon dealer", "", 103, 35}
+, 
+{"yuno_in01", 16461, 102, 101, "armor dealer", "", 112, 26}
+, 
+{"yuno_in01", 16462, 102, 83, "tool dealer", "", 25, 34}
+, 
+{"yuno_in01", 20004, 101, 84, "pvpnarrator", "", 24, 171}
+, 
+{"yuno_in01", 20005, 101, 83, "gate keeper", "", 30, 168}
+, 
+{"yuno_in01", 20114, 101, 86, "repairman", "", 175, 28}
+, 
+{"yuno_in03", 11300, 101, 67, "museum guide", "", 32, 15}
+, 
+{"yuno_in03", 16028, 101, 726, "nehris", "", 20, 18}
+, 
+{"yuno_in03", 20877, 102, 67, "scroll merchant", "yuno03", 176, 22}
+, 
+{"yuno_in04", 11483, 101, 73, "reading girl", "moc_girl1", 180, 106}
+, 
+{"yuno_in04", 13067, 101, 83, "librarian", "", 34, 67}
+, 
+{"NULL", 0, 0, 0, "", "", 0, 0}
+}
+

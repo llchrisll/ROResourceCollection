@@ -34,6 +34,8 @@ Navi_Map = {
 , 
 {"abyss_03", "Abyss Lake Underground Cave", 5001, 200, 200}
 , 
+{"abyss_04", "Abyss Lake Underground Cave", 5001, 340, 340}
+, 
 {"airplane", "Airship", 5002, 300, 300}
 , 
 {"airplane_01", "Airship", 5002, 300, 300}
@@ -109,6 +111,30 @@ Navi_Map = {
 {"ayothaya", "Ayotaya", 5001, 320, 320}
 , 
 {"ayothaya_e", "Ayothaya Excavation Site", 5001, 320, 320}
+, 
+{"ba_2whs01", "Tartaros Storage Upper Floor", 5001, 320, 320}
+, 
+{"ba_2whs02", "Tartaros Storage Lower Floor", 5001, 360, 360}
+, 
+{"ba_bath", "Large Meditatio Bath", 5001, 320, 320}
+, 
+{"ba_chess", "Checkmate", 5001, 48, 48}
+, 
+{"ba_go", "Palm Line Battlefield", 5001, 104, 100}
+, 
+{"ba_in01", "Inside Barmund Mansion", 5003, 400, 400}
+, 
+{"ba_lib", "Library Hall of Memories", 5001, 320, 320}
+, 
+{"ba_lost", "Farm Lost Valley", 5001, 320, 360}
+, 
+{"ba_maison", "Barmund Mansion Garden", 5001, 400, 400}
+, 
+{"ba_pw01", "Magic Power Plant 1", 5001, 300, 300}
+, 
+{"ba_pw02", "Sewage Treatment Plant", 5001, 300, 300}
+, 
+{"ba_pw03", "Magic Power Plant 2", 5001, 300, 300}
 , 
 {"bat_room", "Battle Field Waiting Room", 5001, 300, 300}
 , 
@@ -213,6 +239,8 @@ Navi_Map = {
 {"ein_dun01", "Mine Dungeon", 5001, 300, 300}
 , 
 {"ein_dun02", "Mine Dungeon", 5001, 300, 300}
+, 
+{"ein_dun03", "Mine Dungeon", 5001, 300, 300}
 , 
 {"ein_fild01", "Einbroch Field", 5001, 400, 400}
 , 
@@ -778,6 +806,8 @@ Navi_Map = {
 , 
 {"nyd_dun02", "Yggdrasil Root", 5001, 260, 400}
 , 
+{"odin_past", "Ancient Odin\'s Temple", 5001, 400, 400}
+, 
 {"odin_tem01", "Odin Shirine", 5001, 400, 400}
 , 
 {"odin_tem02", "Odin Shirine", 5001, 400, 400}
@@ -1205,6 +1235,10 @@ Navi_Map = {
 {"yuno_in04", "Republic Library", 5003, 200, 140}
 , 
 {"yuno_pre", "Schwaltzvalt Government Buildings", 5001, 140, 140}
+, 
+{"1@sara", "Sara\'s Memory", 5001, 300, 360}
+, 
+{"1@bamn", "Garden at Dusk", 5001, 400, 400}
 , 
 {"NULL", "", 0, 0, 0}
 }
