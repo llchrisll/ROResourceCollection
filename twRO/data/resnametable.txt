@@ -3816,3 +3816,9 @@ sp_rud4_B.rsw#sp_rud4_B.rsw#
 1@tcamp.gat#1@tcamp.gat#
 1@tcamp.rsw#1@tcamp.rsw#
 유저인터페이스\map\1@tcamp.bmp#유저인터페이스\map\1@tcamp.bmp#
+
+//230523 5월 컨텐츠 가라앉은 탑
+1@ch_u.gnd#1@ch_u.gnd#
+1@ch_u.gat#1@ch_u.gat#
+1@ch_u.rsw#1@ch_u.rsw#
+유저인터페이스\map\1@ch_u.bmp#유저인터페이스\map\1@ch_u.bmp#

@@ -769,7 +769,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 302}
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 301}
 , 
 [ACCESSORY_IDs.ACCESSORY_Mouton_Life] = {Default = 171, 
 Direction = {}
@@ -1121,7 +1121,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {Default = 301, 
+[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {Default = 299, 
 Direction = {}
 }
 , 
@@ -1458,6 +1458,22 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Braid_Ring] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Gods_Rabbit_Pet] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_P_blossom_Hairpin] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_Large_Ribbon_Muffler] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Stall_Of_Angel] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_L_RibbonMuff_Black] = {Default = 303, 
 Direction = {}
 }
 }

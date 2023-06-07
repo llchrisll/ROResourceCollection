@@ -6856,3 +6856,40 @@
 450272	1	0	0	0	0	0	0	0	//B_Celine_D_LT_TW
 1001256	1	0	0	0	0	0	0	0	//Ymir_Heart_P_TW
 102234	1	0	0	0	1	0	0	0	//Energy_Scroll_TW
+
+//23년 3월 소비 이벤트
+410235	1	0	0	0	1	0	0	0	//Handiness_Telescope
+470199	1	0	0	0	1	0	0	0	//Wine_Shoes_LT
+480306	1	0	0	0	1	0	0	0	//Dual_SW_Cape
+490362	1	0	0	0	1	0	0	0	//GW_Armguard
+1001255	1	0	0	0	0	0	0	0	//Red_Magic_Key_TW
+//23년 3월 추가 소비 이벤트
+1001280	1	1	0	1	0	1	1	1	//Hyper_Lubricant_TW
+
+//시공간 변화의 스크롤
+470205	1	0	0	0	0	0	0	0	//Astraea_Shoes_LT
+480312	1	0	0	0	0	0	0	0	//Temporal_Cape_TW_LT
+102321	1	0	0	0	1	0	0	0	//Time_S_Change_Scroll_TW
+
+//대천사의 스크롤
+400440	1	0	0	0	0	0	0	0	//Remorse_C_Crown
+102334	1	0	0	0	1	0	0	0	//ArcAngel_Scroll_TW
+
+//용기의 불꽃 스크롤
+400447	1	0	0	0	0	0	0	0	//Poenetentia_B_Crown
+102354	1	0	0	0	0	0	0	0	//Battle_Aura_TW
+102355	1	0	0	0	1	0	0	0	//Brave_Fire_Scroll_TW
+
+//23 05 Contents
+9135	0	0	0	0	0	1	1	1	//Wild_Rose_Egg
+10046	0	0	0	0	0	1	1	1	//Cat_Crown
+
+//2023 05 봄꽃 이벤트
+15877	0	0	0	0	0	1	1	1	//C_P_blossom_Hairpin
+
+//23년 5월 암흑 군주 스크롤
+400457	1	0	0	0	0	0	0	0	//Poenetentia_V_Crown
+102380	1	0	0	0	0	0	0	0	//Dark_Lord_Scroll_TW
+
+//23년 5월 의상 합성 상자 업데이트
+480310	0	0	0	0	0	1	1	1	//C_Giant_Mad_Bunny

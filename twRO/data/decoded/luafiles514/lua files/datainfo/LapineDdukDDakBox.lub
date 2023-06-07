@@ -5,6 +5,152 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+PetEgg_Recipe = {ItemID = 23153, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Poring_Egg", 1, 9001}
+, 
+{"Drops_Egg", 1, 9002}
+, 
+{"Poporing_Egg", 1, 9003}
+, 
+{"Lunatic_Egg", 1, 9004}
+, 
+{"Picky_Egg", 1, 9005}
+, 
+{"Chonchon_Egg", 1, 9006}
+, 
+{"Steel_Chonchon_Egg", 1, 9007}
+, 
+{"Hunter_Fly_Egg", 1, 9008}
+, 
+{"Savage_Bebe_Egg", 1, 9009}
+, 
+{"Baby_Desert_Wolf_Egg", 1, 9010}
+, 
+{"Rocker_Egg", 1, 9011}
+, 
+{"Spore_Egg", 1, 9012}
+, 
+{"Poison_Spore_Egg", 1, 9013}
+, 
+{"PecoPeco_Egg", 1, 9014}
+, 
+{"Smokie_Egg", 1, 9015}
+, 
+{"Yoyo_Egg", 1, 9016}
+, 
+{"Orc_Warrior_Egg", 1, 9017}
+, 
+{"Munak_Egg", 1, 9018}
+, 
+{"Dokkaebi_Egg", 1, 9019}
+, 
+{"Sohee_Egg", 1, 9020}
+, 
+{"Isis_Egg", 1, 9021}
+, 
+{"Green_Petite_Egg", 1, 9022}
+, 
+{"Deviruchi_Egg", 1, 9023}
+, 
+{"Bapho_Jr._Egg", 1, 9024}
+, 
+{"Bongun_Egg", 1, 9025}
+, 
+{"Zherlthsh_Egg", 1, 9026}
+, 
+{"Alice_Egg", 1, 9027}
+, 
+{"Rice_Cake_Egg", 1, 9028}
+, 
+{"Santa_Goblin_Egg", 1, 9029}
+, 
+{"Chung_E_Egg", 1, 9030}
+, 
+{"Spring_Rabbit_Egg", 1, 9031}
+, 
+{"Knife_Goblin_Egg", 1, 9032}
+, 
+{"Flail_Goblin_Egg", 1, 9033}
+, 
+{"Hammer_Goblin_Egg", 1, 9034}
+, 
+{"Red_Deleter_Egg", 1, 9035}
+, 
+{"Diabolic_Egg", 1, 9036}
+, 
+{"Wanderer_Egg", 1, 9037}
+, 
+{"New_Year_Doll_Egg", 1, 9038}
+, 
+{"Bacsojin_Egg", 1, 9039}
+, 
+{"Civil_Servant_Egg", 1, 9040}
+, 
+{"Leaf_Cat_Egg", 1, 9041}
+, 
+{"Loli_Ruri_Egg", 1, 9042}
+, 
+{"Marionette_Egg", 1, 9043}
+, 
+{"Shinobi_Egg", 1, 9044}
+, 
+{"Whisper_Egg", 1, 9045}
+, 
+{"Goblin_Leader_Egg", 1, 9046}
+, 
+{"Wicked_Nymph_Egg", 1, 9047}
+, 
+{"Miyabi_Ningyo_Egg", 1, 9048}
+, 
+{"Dullahan_Egg", 1, 9049}
+, 
+{"Medusa_Egg", 1, 9050}
+, 
+{"Stone_Shooter_Egg", 1, 9051}
+, 
+{"Incubus_Egg", 1, 9052}
+, 
+{"Golem_Egg", 1, 9053}
+, 
+{"Nightmare_Terror_Egg", 1, 9054}
+, 
+{"Succubus_Egg", 1, 9055}
+, 
+{"Imp_Egg", 1, 9056}
+, 
+{"Egg_Of_Tiny", 1, 9057}
+, 
+{"Snow_Rabbit_Egg", 1, 9058}
+, 
+{"Tikbalang_Pet", 1, 9059}
+, 
+{"Brownie_Egg", 1, 9060}
+, 
+{"Marin_Egg", 1, 9061}
+, 
+{"Woodie_Egg", 1, 9063}
+, 
+{"Nine_Tail_Egg", 1, 9095}
+, 
+{"Teddy_Bear_Egg", 1, 9099}
+, 
+{"Gremlin_Egg", 1, 9100}
+, 
+{"Scatletoncarrier", 1, 9101}
+, 
+{"Mummy_Egg", 1, 9102}
+, 
+{"Wilow_Egg", 1, 9103}
+, 
+{"Roween_Egg", 1, 9104}
+, 
+{"Dark_Priest_Egg", 1, 9128}
+, 
+{"Farmiliar_Egg", 1, 9138}
+}
+, NeedSource_String = "寵物蛋"}
+, 
 Du_S_RanOpt_Box_TW = {ItemID = 102231, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Durable_Weapon", 1, 24734}
@@ -6876,6 +7022,206 @@ SourceItems = {
 {"C_Cap_Of_Blindness_V", 1, 420070}
 , 
 {"C_Giant_Shark", 1, 480126}
+, 
+{"C_Brabery_Hat", 1, 19581}
+, 
+{"C_Rune_Helm", 1, 31160}
+, 
+{"C_Fish_Marche", 1, 410068}
+, 
+{"C_Samba_Carnival", 1, 480122}
+, 
+{"C_Classic_Hat", 1, 20106}
+, 
+{"C_Faith_Of_Yggdrasil", 1, 400214}
+, 
+{"C_Guardian_Helm", 1, 410121}
+, 
+{"C_Nydhog_Rumor", 1, 480123}
+, 
+{"C_Small_ocean", 1, 19466}
+, 
+{"C_Fluffy_Rabbit_Cape", 1, 400225}
+, 
+{"C_Swirling_Flame", 1, 480131}
+, 
+{"C_Astrologer_T_Hat", 1, 400157}
+, 
+{"C_Rabbit_Earplug_V", 1, 400183}
+, 
+{"C_Bear_Head_J", 1, 410123}
+, 
+{"C_Adventure_Cat_Bag", 1, 480110}
+, 
+{"C_Mahican", 1, 20337}
+, 
+{"C_Mechanical_Butterfly", 1, 20988}
+, 
+{"C_B_Desert_Wolf_Hat", 1, 31664}
+, 
+{"C_Hill_Wind_Mask_V", 1, 400184}
+, 
+{"C_Wonder_Egg_Basket", 1, 410029}
+, 
+{"C_Drosera_Hairpin", 1, 31541}
+, 
+{"C_Tiger_BL", 1, 410132}
+, 
+{"C_Niflheim_Key", 1, 480119}
+, 
+{"C_Br_Twin_Ribbon", 1, 31800}
+, 
+{"C_Blue_Pencil_In_Mouth", 1, 31927}
+, 
+{"C_Flower_Wing", 1, 480111}
+, 
+{"C_Diabolic_Rock_Guitar", 1, 480169}
+, 
+{"C_Crimson_Ribbon", 1, 20466}
+, 
+{"C_Fishbowl_Parfait_Hat", 1, 400176}
+, 
+{"C_Striking_Mikoshi", 1, 480121}
+, 
+{"C_Avenger", 1, 410099}
+, 
+{"C_Professor_MiniGlass", 1, 410126}
+, 
+{"C_Tiger_WH", 1, 410131}
+, 
+{"C_Maggi_Head_Dress", 1, 20431}
+, 
+{"C_Big_B_Rabbit", 1, 20618}
+, 
+{"C_Piece_Of_White_Cloth", 1, 420063}
+, 
+{"C_Navy_Beret", 1, 400224}
+, 
+{"C_Protect_Cloth_B", 1, 420163}
+, 
+{"C_Pitaya_G_Bag", 1, 480181}
+, 
+{"C_Jeje_Cap", 1, 31821}
+, 
+{"C_Pirate_Dagger", 1, 19584}
+, 
+{"C_Pink_Pajamas_Hat", 1, 19867}
+, 
+{"C_Supplement_P_Income", 1, 410128}
+, 
+{"C_Blue_Rose_Garden", 1, 480176}
+, 
+{"C_Adv_Ang_SchCap", 1, 31290}
+, 
+{"C_Adv_Dev_SchCap", 1, 31291}
+, 
+{"C_Rag_Origin_Hat", 1, 400115}
+, 
+{"C_Shovel_Hat", 1, 400271}
+, 
+{"C_Belka_Strelka", 1, 410133}
+, 
+{"C_Charm_Of_Great_Nature", 1, 420132}
+, 
+{"C_Blue_Rose_Eyepatch", 1, 31449}
+, 
+{"C_Noble_Mask", 1, 31609}
+, 
+{"C_Cons_Of_Light_Dark", 1, 420152}
+, 
+{"C_Heart_Stick_Choco", 1, 480167}
+, 
+{"C_Felock_Cap_", 1, 400277}
+, 
+{"C_Drooping_Omega", 1, 400278}
+, 
+{"C_Omega_Golf_Bag", 1, 410144}
+, 
+{"C_Macaron_Bunny_Head", 1, 400253}
+, 
+{"C_Happening_Clover", 1, 410157}
+, 
+{"C_Lunatic_Bag", 1, 480158}
+, 
+{"C_Jaty_C", 1, 400170}
+, 
+{"C_Katashiro_Flying", 1, 420016}
+, 
+{"C_Wedding_Ribbon", 1, 480187}
+, 
+{"C_Weissbier_Hat", 1, 400174}
+, 
+{"C_Proba_Angel_Blessing", 1, 400292}
+, 
+{"C_Astra_Blessing", 1, 480205}
+, 
+{"C_Souvenirs_Of_Izlude", 1, 400168}
+, 
+{"C_Valkyrie_Curse_blight", 1, 480189}
+, 
+{"C_Phaya_Ploeng_Suriyan", 1, 20619}
+, 
+{"C_Galaxy_Circlet", 1, 400313}
+, 
+{"C_PU_EarWitchHat", 1, 400370}
+, 
+{"C_Choco_Stick_In_Mouth", 1, 31882}
+, 
+{"C_Jasper_Crest", 1, 400221}
+, 
+{"C_Yesterday_Once_More", 1, 420159}
+, 
+{"C_Balloon_Hat_Classical", 1, 400355}
+, 
+{"C_Tent", 1, 420165}
+, 
+{"C_Ignis_Cap_BU", 1, 400356}
+, 
+{"C_L_Ribbon_M_BU", 1, 420193}
+, 
+{"C_Back_Ribbon_Bell_BU", 1, 480204}
+, 
+{"C_Traveller_Oil_Lantern", 1, 410182}
+, 
+{"C_Big_Magic_Book", 1, 480236}
+, 
+{"C_Fox_Bamboo_Hat", 1, 400343}
+, 
+{"C_Midnight_Candle", 1, 410199}
+, 
+{"C_Big_Golden_Bell", 1, 20004}
+, 
+{"C_White_Clay_Filler", 1, 31258}
+, 
+{"C_Giant_Angeling", 1, 480247}
+, 
+{"C_Black_Rabbit", 1, 410226}
+, 
+{"C_Melody_Wing", 1, 480168}
+, 
+{"C_Serving_Rabbit", 1, 410200}
+, 
+{"C_Strawberry_Hat", 1, 31175}
+, 
+{"C_Little_Abyss_Dragon", 1, 410212}
+, 
+{"C_White_Tiger_Glass", 1, 430005}
+, 
+{"C_Ribbon_Magic_Hat", 1, 400405}
+, 
+{"C_Friendly_White_Fox", 1, 420192}
+, 
+{"C_Lord_Of_Death_Shield", 1, 480290}
+, 
+{"C_Artist_Silk_Hat", 1, 15846}
+, 
+{"C_Mystical_Wing", 1, 480252}
+, 
+{"C_Diabolus_Helmet_V", 1, 400422}
+, 
+{"C_Sugared_Fruit_Stick", 1, 420196}
+, 
+{"C_Moonlight_Bell", 1, 480289}
 }
 , NeedSource_String = "服飾裝備"}
 , 

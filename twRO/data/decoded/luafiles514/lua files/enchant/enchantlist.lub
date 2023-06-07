@@ -1,5 +1,5 @@
 -- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
--- Command line: .\data\luafiles514\lua files\enchant\enchantlist.lub 
+-- Command line: .\data\luafiles514\lua files\enchant\EnchantList.lub 
 
 -- params : ...
 -- function num : 0
@@ -1022,7 +1022,7 @@ Table[6] = CreateEnchantInfo()
 ;
 (Table[6]):SetSlotOrder(0)
 ;
-(Table[6]):AddTargetItem("Cherryblossom_Fan")
+(Table[6]):AddTargetItem("LoveLove_Balloon")
 ;
 (Table[6]):SetCondition(0, 0)
 ;
@@ -1030,7 +1030,7 @@ Table[6] = CreateEnchantInfo()
 ;
 (Table[6]):SetReset(true, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
 ;
-(Table[6]):SetCaution("2021 浪漫春櫻季道具附魔\n基本成札鰷v100%\n重置機率100% 失敗時不會損壞")
+(Table[6]):SetCaution("2023 浪漫春櫻季道具附魔 \n基本附魔機率100% \n重置機率100% 失敗時不會損壞")
 ;
 (((Table[6]).Slot)[0]):SetRequire(10000, {"Small_Spray_Of_Flowers", 5})
 ;

@@ -5159,7 +5159,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"你儂我儂馬卡龍", COLOR_TITLE_BUFF}
+{"力量櫻花樹枝", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -5170,7 +5170,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"你儂我儂草莓芭菲", COLOR_TITLE_BUFF}
+{"魔力櫻花樹枝", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6385,7 +6385,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"你儂我儂馬卡龍", COLOR_TITLE_BUFF}
+{"力量櫻花樹枝", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6396,7 +6396,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"你儂我儂草莓芭菲", COLOR_TITLE_BUFF}
+{"魔力櫻花樹枝", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -6407,7 +6407,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"你儂我儂鮮奶油可麗餅", COLOR_TITLE_BUFF}
+{"迅速櫻花樹枝", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 

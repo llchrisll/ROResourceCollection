@@ -3457,35 +3457,35 @@ signName = {mainTitle = "PVP活動競技場"}
 , backgroundBmp = "noname_s2"}
 , 
 ["1@thts.rsw"] = {displayName = "達納托斯塔台", notifyEnter = true, 
-signName = {subTitle = "達納托斯塔的記憶", mainTitle = "達納托斯塔台"}
+signName = {subTitle = "達納托斯的記憶", mainTitle = "達納托斯塔台"}
 , backgroundBmp = "dungeon"}
 , 
 ["2@thts.rsw"] = {displayName = "天使的警告", notifyEnter = true, 
-signName = {subTitle = "達納托斯塔的記憶", mainTitle = "天使的警告"}
+signName = {subTitle = "達納托斯的記憶", mainTitle = "天使的警告"}
 , backgroundBmp = "dungeon"}
 , 
 ["3@thts.rsw"] = {displayName = "憎恨的記憶", notifyEnter = true, 
-signName = {subTitle = "達納托斯塔的記憶", mainTitle = "憎恨的記憶"}
+signName = {subTitle = "達納托斯的記憶", mainTitle = "憎恨的記憶"}
 , backgroundBmp = "dungeon"}
 , 
 ["4@thts.rsw"] = {displayName = "苦惱的記憶", notifyEnter = true, 
-signName = {subTitle = "達納托斯塔的記憶", mainTitle = "苦惱的記憶"}
+signName = {subTitle = "達納托斯的記憶", mainTitle = "苦惱的記憶"}
 , backgroundBmp = "dungeon"}
 , 
 ["5@thts.rsw"] = {displayName = "悲哀的記憶", notifyEnter = true, 
-signName = {subTitle = "達納托斯塔的記憶", mainTitle = "悲哀的記憶"}
+signName = {subTitle = "達納托斯的記憶", mainTitle = "悲哀的記憶"}
 , backgroundBmp = "dungeon"}
 , 
 ["6@thts.rsw"] = {displayName = "絕望的記憶", notifyEnter = true, 
-signName = {subTitle = "達納托斯塔的記憶", mainTitle = "絕望的記憶"}
+signName = {subTitle = "達納托斯的記憶", mainTitle = "絕望的記憶"}
 , backgroundBmp = "dungeon"}
 , 
 ["7@thts.rsw"] = {displayName = "憤怒的記憶", notifyEnter = true, 
-signName = {subTitle = "達納托斯塔的記憶", mainTitle = "憤怒的記憶"}
+signName = {subTitle = "達納托斯的記憶", mainTitle = "憤怒的記憶"}
 , backgroundBmp = "dungeon"}
 , 
 ["8@thts.rsw"] = {displayName = "達納托斯塔台", notifyEnter = true, 
-signName = {subTitle = "達納托斯塔的記憶", mainTitle = "魔劍士達納托斯塔的記憶"}
+signName = {subTitle = "達納托斯的記憶", mainTitle = "魔劍士達納托斯的記憶"}
 , backgroundBmp = "dungeon"}
 , 
 ["iz_d04_i.rsw"] = {displayName = "深淵海底洞穴上層樓", notifyEnter = true, 
@@ -3719,6 +3719,10 @@ signName = {mainTitle = "眼淚之海岸"}
 ["ant_d02_i.rsw"] = {displayName = "幻影螞蟻地獄", notifyEnter = true, 
 signName = {subTitle = "幻影系列", mainTitle = "幻影螞蟻地獄"}
 , backgroundBmp = "dungeon"}
+, 
+["1@ch_u.rsw"] = {displayName = "沉沒之塔", notifyEnter = true, 
+signName = {subTitle = "舊魔物終結塔侵蝕地", mainTitle = "沉沒之塔"}
+, backgroundBmp = "noname"}
 }
 main = function()
   -- function num : 0_0
