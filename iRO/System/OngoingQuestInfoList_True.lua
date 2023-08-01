@@ -28990,5 +28990,269 @@ Description = {"As long as Sweets Drops exists in the world, the fight against t
 [3334] = {Title = "Sweet Drops Punishment-waiting today", 
 Description = {"After the waiting period ends, you can repeat the event quest through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
 , Summary = "Initialization at 04:00"}
+, 
+[297001] = {Title = "Talk to Pvt Woods Goofus", IconName = "ico_ev.bmp", 
+Description = {"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>  in Hugel Field 5."}
+, Summary = "Talk to Pvt Woods"}
+, 
+[297002] = {Title = "Collect 30 Little Evil Horns", IconName = "ico_ev.bmp", 
+Description = {"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>  in Hugel Field 5 after collecting 30 <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM>."}
+, Summary = "Talk to Pvt Woods"}
+, 
+[297003] = {Title = "Bring Horns to Maria in Hugel", IconName = "ico_ev.bmp", 
+Description = {"Bring the 30 <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM> to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in Hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Maria"}
+, 
+[297004] = {Title = "Talk to Lt. Don Tyler in Hugel", IconName = "ico_ev.bmp", 
+Description = {"Speak with <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."}
+, Summary = "Talk to Lt. Don"}
+, 
+[297005] = {Title = "Go back to Pvt. Woods Goofus", IconName = "ico_ev.bmp", 
+Description = {"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> in Hugel Field 5."}
+, Summary = "Talk to Pvt. Woods"}
+, 
+[297006] = {Title = "Search the Northside for Buddy", IconName = "ico_ev.bmp", 
+Description = {"Search for Pvt. Buddy in Hugel field 5 <NAVI>[Pvt. Buddy Indiho]<INFO>hu_fild05,243,304,0,101,0</INFO></NAVI> in Hugel Field 5."}
+, Summary = "Search Pvt. Buddy"}
+, 
+[297007] = {Title = "Tell Woods about Buddy", IconName = "ico_ev.bmp", 
+Description = {"Tell Woods about Buddy condition <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> in Hugel Field 5."}
+, Summary = "Talk to Pvt. Woods"}
+, 
+[297008] = {Title = "Tell Lt. Don about Buddy", IconName = "ico_ev.bmp", 
+Description = {"Tell Lt. Don about Buddy condition <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."}
+, Summary = "Talk to Lt. Don"}
+, 
+[297009] = {Title = "Buddy\'s Alive, go see him", IconName = "ico_ev.bmp", 
+Description = {"The corpse you are seing in Hugel field 5 is not Buddy. Go to <NAVI>[Pvt. Buddy Indigo]<INFO>hu_in01,361,112,0,101,0</INFO></NAVI>. Pvt. Buddy is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Pvt. Buddy"}
+, 
+[297010] = {Title = "Talk to Chefcular Meow", IconName = "ico_ev.bmp", 
+Description = {"Pvt. Buddy ask you to go to <NAVI>[Chefcular Meow]<INFO>hu_in01,377,108,0,101,0</INFO></NAVI>. Chefcular Meow is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Chefcular Meow"}
+, 
+[297011] = {Title = "Chefcular needs Ingredients", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Chefcular Meow]<INFO>hu_in01,377,108,0,101,0</INFO></NAVI> ask you to bring him 30 of each : <ITEM>Cyfar<INFO>7053</INFO></ITEM>, <ITEM>Brigan<INFO>7054</INFO></ITEM>, <ITEM>Tongue<INFO>1015</INFO></ITEM>, <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM>, <ITEM>Rusty Kitchen Knife<INFO>7208</INFO></ITEM>. Chefcular Meow is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."}
+, Summary = "Bring Items to Chefcular Meow"}
+, 
+[297012] = {Title = "Go back to Maria in Hugel", IconName = "ico_ev.bmp", 
+Description = {"Go back to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Maria"}
+, 
+[297013] = {Title = "Go see Derpy Cupid in Malangdo", IconName = "ico_ev.bmp", 
+Description = {"Go to Malangdo and talk to <NAVI>[Derpy Cupid]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Derpy"}
+, 
+[297014] = {Title = "Bring Derpy\'s Confession to Lt. Don in Hugel", IconName = "ico_ev.bmp", 
+Description = {"Talk to <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."}
+, Summary = "Talk Lt. Don"}
+, 
+[297015] = {Title = "Phendark Hunting", IconName = "ico_ev.bmp", 
+Description = {"Lt. Don Tyler ask to Defeat 100 Phendark. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02"}
+, Summary = "Talk Pvt. Woods after finish"}
+, 
+[297016] = {Title = "Bloody Murderer Hunting", IconName = "ico_ev.bmp", 
+Description = {"Lt. Don Tyler ask to Defeat 100 Bloody Murderer. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."}
+, Summary = "Talk Pvt. Woods after finish"}
+, 
+[297017] = {Title = "Injustice Hunting", IconName = "ico_ev.bmp", 
+Description = {"Lt. Don Tyler ask to Defeat 100 Injustice. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."}
+, Summary = "Talk Pvt. Woods after finish"}
+, 
+[297018] = {Title = "Deviruchi Hunting", IconName = "ico_ev.bmp", 
+Description = {"Lt. Don Tyler ask to Defeat 100 Deviruchi. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."}
+, Summary = "Talk Pvt. Woods after finish"}
+, 
+[297019] = {Title = "Rybio Hunting", IconName = "ico_ev.bmp", 
+Description = {"Lt. Don Tyler ask to Defeat 100 Rybio. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."}
+, Summary = "Talk Pvt. Woods after finish"}
+, 
+[297020] = {Title = "Finish All Hunting", IconName = "ico_ev.bmp", 
+Description = {"After finishing all hunting quest, report to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>."}
+, Summary = "Talk Pvt. Woods after finish"}
+, 
+[297021] = {Title = "Phendark Hunting - Finished", IconName = "ico_ev.bmp", 
+Description = {"Phendark Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."}
+, Summary = "Hunt Phendark done"}
+, 
+[297022] = {Title = "Bloody Murderer Hunting - Finished", IconName = "ico_ev.bmp", 
+Description = {"Bloody Murderer Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."}
+, Summary = "Hunt Bloody Murderer done"}
+, 
+[297023] = {Title = "Injustice Hunting - Finished", IconName = "ico_ev.bmp", 
+Description = {"Injustice Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."}
+, Summary = "Hunt Injustice done"}
+, 
+[297024] = {Title = "Deviruchi Hunting - Finished", IconName = "ico_ev.bmp", 
+Description = {"Deviruchi Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."}
+, Summary = "Hunt Deviruchi done"}
+, 
+[297025] = {Title = "Rybio Hunting - Finished", IconName = "ico_ev.bmp", 
+Description = {"Rybio Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."}
+, Summary = "Hunt Rybio done"}
+, 
+[297026] = {Title = "Go see Lt. Don Tyler in Hugel", IconName = "ico_ev.bmp", 
+Description = {"Speak with <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."}
+, Summary = "Talk to Lt. Do"}
+, 
+[297027] = {Title = "Go speak with Maria in Hugel", IconName = "ico_ev.bmp", 
+Description = {"Talk to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Maria"}
+, 
+[297028] = {Title = "Give Derpy Cupid his Pardon in Malangdo", IconName = "ico_ev.bmp", 
+Description = {"Go to Malangdo and talk to <NAVI>[Derpy Cupid]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Derpy"}
+, 
+[1467] = {Title = "To Kiel Hyre Academy", 
+Description = {"Bring the bottle of Culinary Wine to Lecollane in the Kiel Hyre Academy south east of here."}
+, Summary = "Find Lecollane"}
+, 
+[1468] = {Title = "To Kiel Hyre Academy", 
+Description = {"A girl is crying after being scolded for making a mistake. Let\'s talk to her."}
+, Summary = "Talk to Elly"}
+, 
+[1469] = {Title = "Elly\'s Request", 
+Description = {"Elly is asking for cooking ingredients. Bring 2 Cheese, 7 Milk, 5 Cacao, 1 Flour and 1 Egg from Juno Toast Shop, and 1 Culinary Wine from Juno Bar."}
+, Summary = "Deliver ingredients to Elly"}
+, 
+[1470] = {Title = "Gather Cookie Ingredients 1", 
+Description = {"Get Flour and Eggs from Juno toast shop."}
+, Summary = "Visit Juno Toast Shop"}
+, 
+[1471] = {Title = "Gather Cookie Ingredients 2", 
+Description = {"Get Culinary Wine from Juno bar."}
+, Summary = "Visti Juno Bar"}
+, 
+[1472] = {Title = "Gather Cookie Ingredients 1", 
+Description = {"Get Delivery Package from Mills in Lighthalzen."}
+, Summary = "Visti Mills in Lighthalzen"}
+, 
+[1473] = {Title = "Gather Cookie Ingredients 1", 
+Description = {"Bring Delivery Package to Juno Toast Shop."}
+, Summary = "Deliver Package to Juno Toast Shop"}
+, 
+[1474] = {Title = "Elly\'s Request", 
+Description = {"Wait for Elly to finish baking the cookies."}
+, Summary = "Talk to Elly"}
+, 
+[1475] = {Title = "Elly\'s Cookies", 
+Description = {"Looks like Elly has something to say. Let\'s talk to her."}
+, Summary = "Talk to Elly"}
+, 
+[1476] = {Title = "Elly\'s Cookies", 
+Description = {"Bring the Well-baked cookies to Elly\'s Grandfather at Kiel Hyre\'s cottage one map north of the Academy."}
+, Summary = "Visit Kiel Hyre\'s cottage"}
+, 
+[1477] = {Title = "Elly\'s Cookies", 
+Description = {"Go back to Elly and tell her that her Grandfather is not at the cottage."}
+, Summary = "Talk to Elly"}
+, 
+[1478] = {Title = "Elly\'s Cookies", 
+Description = {"Go back to Kiel Hyre\'s cottage again. Elly gave you a Cottage Key that should allow you to get through a side door."}
+, Summary = "Visit Kiel Hyre\'s cottage"}
+, 
+[1479] = {Title = "Elly\'s Cookies", 
+Description = {"You found a letter address to Elly. You had better bring it back to her."}
+, Summary = "Talk to Elly"}
+, 
+[1480] = {Title = "The Missing Kiel Hyre", 
+Description = {"Wait for Elly to calm down before talking to her."}
+, Summary = "Talk to Elly"}
+, 
+[1481] = {Title = "The Missing Kiel Hyre", 
+Description = {"Elly seems to be forgetting to turn in her assignment. Let\'s talk to Elliy."}
+, Summary = "Talk to Elly"}
+, 
+[1482] = {Title = "The Missing Kiel Hyre", 
+Description = {"Find the items Kiel Hyre left behind in the study at cottage."}
+, Summary = "Explore Cottage"}
+, 
+[1483] = {Title = "The Missing Kiel Hyre", 
+Description = {"I think I\'ve found everything I need. Let\'s go back to Elly."}
+, Summary = "Talk to Elly"}
+, 
+[1484] = {Title = "Silent Elly", 
+Description = {"Let\'s try to talk Elly again who is not responding."}
+, Summary = "Investigate Elly"}
+, 
+[1485] = {Title = "Kiel Hyre\'s Request", 
+Description = {"You have gained access to the factory. Find Allysia\'s hideout and use the Blue Keycard to gain access."}
+, Summary = "Find Allysia"}
+, 
+[1486] = {Title = "Kiel Hyre\'s Request", 
+Description = {"Find Kiel Hyre in the Factory."}
+, Summary = "Find Kiel Hyre"}
+, 
+[1487] = {Title = "Kiel Hyre\'s Request", 
+Description = {"You have found Kiel Hyre trapped behind a door. He gave you a Metal Fragment that he asked you to take to Allysia."}
+, Summary = "Deliver Metal Fragment to Allysia"}
+, 
+[1488] = {Title = "Kiel Hyre\'s Request", 
+Description = {"Go to the Kiel Hyre Mansion in Lighthalzen. It is located just north of the Auction Hall.  Present the Golden Key to be admitted to the premises."}
+, Summary = "Visit Kiel Hyre\'s Mansion"}
+, 
+[1489] = {Title = "Outside", 
+Description = {"Kiel Hyre is grateful for helping him. It seems your role here is done. Let Kiel Hyre rest for now and leave the mansion."}
+, Summary = "Leave the mansion"}
+, 
+[1490] = {Title = "Mitchell\'s Investigation", 
+Description = {"Agreed to cooperate with Mitchell\'s investigation. Talk to Mitchell and listen to her investigation."}
+, Summary = "Talk to Mitchell"}
+, 
+[1491] = {Title = "Mitchell\'s Investigation", 
+Description = {"Investigate Allysia in Juno."}
+, Summary = "Gather Information"}
+, 
+[1492] = {Title = "Mitchell\'s Investigation", 
+Description = {"Let\'s gather information from others."}
+, Summary = "Gather Information"}
+, 
+[1493] = {Title = "Mitchell\'s Investigation", 
+Description = {"You have obtained the Rosimier Mansion Keys. Search the Mansion thoroughly and tell the Old Lady what you found."}
+, Summary = "Explore the Mansion"}
+, 
+[1494] = {Title = "Mitchell\'s Investigation", 
+Description = {"The Old Lady says to talk to the Fisherman that lives south of the Kiel Hyre Academy. He was the one that found Allysia\'s body in the river..."}
+, Summary = "Find the Fisherman"}
+, 
+[1495] = {Title = "Mitchell\'s Investigation", 
+Description = {"Investigate the hut near the Schwartzvalt guard camp just east of the Kiel Hyre Academy."}
+, Summary = "Find a hut east of the Kiel Hyre Academy."}
+, 
+[1496] = {Title = "Mitchell\'s Investigation", 
+Description = {"You have enough information by now, so you should report back to Mitchell at the Kiel Hyre Mansion in Lighthalzen."}
+, Summary = "Talk to Mitchell"}
+, 
+[1497] = {Title = "Kiel Hyre\'s Past", 
+Description = {"Confront Kiel about his past."}
+, Summary = "Talk to Kiel Hyre"}
+, 
+[1498] = {Title = "Kiel Hyre\'s Past", 
+Description = {"After waiting for Kiel Hyre to calm down, Let\'s finish talking about the past."}
+, Summary = "Talk to Kiel Hyre"}
+, 
+[1499] = {Title = "Runaway Kiel", 
+Description = {"Kiel Hyre asked you to stop the runaway Kiehl. Let\'s find him in the basement of the mansion."}
+, Summary = "Find Kiehl"}
+, 
+[1500] = {Title = "Runaway Kiel", 
+Description = {"Bring Allysia\'s Ring to Kiel Hyre in his mansion in Lighthalzen."}
+, Summary = "Talk to Kiel Hyre"}
+, 
+[1501] = {Title = "For Elly", 
+Description = {"It\'s all over. Finally, let\'s go to Elly\'s room."}
+, Summary = "Visit Elly\'s room"}
+, 
+[1502] = {Title = "Mitchell\'s Investigation", 
+Description = {"I think I\'ve seen everything worth seeing. Let\'s return to the old lady."}
+, Summary = "Talk to Old Lady"}
+, 
+[1503] = {Title = "Runaway Kiel", 
+Description = {"Kiehl has changed form and attacked. Stop Kiehl."}
+, Summary = "Defeat Kiehl"}
+, 
+[1504] = {Title = "Runaway Kiel", 
+Description = {"Retrieve Allysia\'s Ring from Kiehl\'s old body and escape."}
+, Summary = "Talk to Kiehl"}
 }
 

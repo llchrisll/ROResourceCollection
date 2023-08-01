@@ -4624,3 +4624,50 @@
 400327	0	0	0	0	0	1	1	1	//C_RA_Hair_PK
 410108	1	0	0	0	0	0	0	0	//C_B_Shiba_Inu_TW
 102368	1	1	0	1	1	1	1	1	//2305_CampingCostume_US
+
+// 23_06_08 OCP 48
+5946	0	0	0	0	0	1	1	1	//Drama_Clockwork
+19047	0	0	0	0	0	1	1	0	//Angeling_KnitCap
+19451	0	0	0	0	0	1	1	0	//Heavenly_Order
+420160	0	0	0	0	0	1	1	1	//Cons_Of_Earth_J
+480228	0	0	0	0	0	1	1	1	//Day_of_the_Dead
+490319	0	0	0	0	0	1	1	1	//YSF01_Ring
+700069	0	0	0	0	0	1	1	1	//Triangle_Disaster
+102387	1	1	0	0	0	1	1	0	//OCP_JUN_2023
+32007	0	0	0	0	0	1	1	0	//Jirant_Spear
+
+// 23_06_08 20th Anniversarty Costama
+400356	0	0	0	0	0	1	1	1	//C_Ignis_Cap_BU
+480247	0	0	0	0	0	1	1	1	//C_Giant_Angeling
+102399	1	1	0	1	1	1	1	1	//2306_20thCostume_US
+
+//RO GVI 20th anniversary event 
+400309	1	1	1	1	1	1	1	1	// C_20th_Anniversary_Hat character Bound
+480202	1	1	1	1	1	1	1	1	// C_Guardian_Butterwing character Bound
+
+// 23_07_06 Folklore Costama
+400343	0	0	0	0	0	1	1	1	//C_Fox_Bamboo_Hat
+410194	0	0	0	0	0	1	1	1	//C_Fox_Hat_J_V
+410196	0	0	0	0	0	1	1	1	//C_YinYang_Earring_Y
+420169	0	0	0	0	0	1	1	1	//C_Pipe_Of_Jiraiya
+420170	0	0	0	0	0	1	1	1	//C_Silky_Long_BL
+480221	0	0	0	0	0	1	1	1	//C_Ninetail_Tail
+480222	0	0	0	0	0	1	1	1	//C_J_Umbrella
+102424	1	1	0	1	1	1	1	1	//2307_FolkloreCostume_US
+
+// 23_07_06 OCP 49
+400307	0	0	0	0	0	1	1	1	//Ally_of_the_Demons
+410129	0	0	0	0	0	1	1	1	//Phantom_Ear
+410130	0	0	0	0	0	1	1	1	//Phantom_Ear_
+410185	0	0	0	0	0	1	1	1	//Rebel_Pocket_Watch
+420105	0	0	0	0	0	1	1	1	//Curse_Eats_the_World
+420110	0	0	0	0	0	1	1	1	//ScarfOfHero_J
+420164	0	0	0	0	0	1	1	1	//Sleep_RedSheep
+450215	0	0	0	0	0	1	1	1	//Aramazd_revelation
+102427	1	1	0	0	0	1	1	0	//OCP_JUL_2023
+
+// 23_07_20 Booster Promotion
+100857	1	1	1	1	1	1	1	1	//Booster_Pack_175_US
+102430	1	1	1	1	1	1	1	1	//Booster_Pack_200_US
+102431	1	1	1	1	1	1	1	1	//Booster_Pack_190_US
+102432	1	1	1	1	1	1	1	1	//Booster_Gift_Box_US

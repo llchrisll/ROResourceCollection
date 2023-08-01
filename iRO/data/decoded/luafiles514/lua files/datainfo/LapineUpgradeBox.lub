@@ -58,6 +58,12 @@ TargetItems = {
 {"Blue_Crystal_Staff", 640004}
 , 
 {"Freezing_Rod", 550007}
+, 
+{"Fog_Dew_Sword", 28764}
+, 
+{"Sharp_Wind_Sword", 28763}
+, 
+{"SoulWeight", 26154}
 }
 , NeedSource_String = "Ancient Hero Weapon"}
 , 
@@ -114,6 +120,12 @@ TargetItems = {
 {"Blue_Crystal_Staff", 640004}
 , 
 {"Freezing_Rod", 550007}
+, 
+{"Fog_Dew_Sword", 28764}
+, 
+{"Sharp_Wind_Sword", 28763}
+, 
+{"SoulWeight", 26154}
 }
 , NeedSource_String = "Ancient Hero Weapon"}
 , 
@@ -1372,6 +1384,18 @@ TargetItems = {
 {"S_Psychic_Shield", 24556}
 , 
 {"S_Psychic_Shoes", 24555}
+, 
+{"S_Flare_Dance_Earing", 24604}
+, 
+{"S_Flare_Dance_Pendant", 24606}
+, 
+{"S_Flare_Dance_Shoes", 24606}
+, 
+{"S_Brand_Armor", 24572}
+, 
+{"S_Brand_Shield", 24573}
+, 
+{"S_Brand_Shoes", 24574}
 }
 , NeedSource_String = "+7 Shadow Equipment"}
 , 
@@ -2544,6 +2568,42 @@ TargetItems = {
 {"S_Psychic_Shield", 24556}
 , 
 {"S_Psychic_Shoes", 24555}
+, 
+{"S_Trip_Armor", 24615}
+, 
+{"S_Trip_Shield", 24614}
+, 
+{"S_Trip_Weapon", 24613}
+, 
+{"S_Flare_Dance_Earing", 24604}
+, 
+{"S_Flare_Dance_Pendant", 24606}
+, 
+{"S_Flare_Dance_Shoes", 24606}
+, 
+{"S_Brand_Armor", 24572}
+, 
+{"S_Brand_Shield", 24573}
+, 
+{"S_Brand_Shoes", 24574}
+, 
+{"S_Judex_Armor", 24494}
+, 
+{"S_Judex_Shield", 24495}
+, 
+{"S_Judex_Shoes", 24496}
+, 
+{"S_Menace_Armor", 24530}
+, 
+{"S_Menace_Shield", 24531}
+, 
+{"S_Menace_Shoes", 24532}
+, 
+{"S_Syuriken_Earing", 24625}
+, 
+{"S_Syuriken_Pendant", 24626}
+, 
+{"S_Syuriken_Shoes", 24627}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -3408,6 +3468,42 @@ TargetItems = {
 {"S_Psychic_Shield", 24556}
 , 
 {"S_Psychic_Shoes", 24555}
+, 
+{"S_Trip_Armor", 24615}
+, 
+{"S_Trip_Shield", 24614}
+, 
+{"S_Trip_Weapon", 24613}
+, 
+{"S_Flare_Dance_Earing", 24604}
+, 
+{"S_Flare_Dance_Pendant", 24606}
+, 
+{"S_Flare_Dance_Shoes", 24606}
+, 
+{"S_Brand_Armor", 24572}
+, 
+{"S_Brand_Shield", 24573}
+, 
+{"S_Brand_Shoes", 24574}
+, 
+{"S_Judex_Armor", 24494}
+, 
+{"S_Judex_Shield", 24495}
+, 
+{"S_Judex_Shoes", 24496}
+, 
+{"S_Menace_Armor", 24530}
+, 
+{"S_Menace_Shield", 24531}
+, 
+{"S_Menace_Shoes", 24532}
+, 
+{"S_Syuriken_Earing", 24625}
+, 
+{"S_Syuriken_Pendant", 24626}
+, 
+{"S_Syuriken_Shoes", 24627}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -4854,6 +4950,12 @@ TargetItems = {
 {"Battle_Processor_", 410017}
 }
 , NeedSource_String = "Battle Processor(1)"}
+, 
+Lens_Craft_Stone = {ItemID = 100823, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Deepblue_Sunglasses_", 410080}
+}
+, NeedSource_String = "Deepblue Sunglasses(1)"}
 }
 , serverMain = function()
   -- function num : 0_0

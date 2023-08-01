@@ -98,6 +98,30 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_RA_Hair_PK] = {Default = 143, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fishbone_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Valkyrie_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Balloon_Hat_Classical] = {Default = 402, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_BirthDay_Balloon_TW] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Ignis_Cap_BU] = {Default = 402, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BL] = {Default = 143, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

@@ -7476,7 +7476,7 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.SA_LANDPROTECTOR] = {"SA_LANDPROTECTOR"; SkillName = "Magnetic Earth", MaxLv = 5, 
+[SKID.SA_LANDPROTECTOR] = {"SA_LANDPROTECTOR"; SkillName = "Land Protector", MaxLv = 5, 
 SpAmount = {66, 62, 58, 54, 50}
 , bSeperateLv = false, 
 AttackRange = {2, 2, 2, 2, 2}
