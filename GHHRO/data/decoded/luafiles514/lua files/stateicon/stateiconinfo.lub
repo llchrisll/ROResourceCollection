@@ -5060,7 +5060,7 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_EXPDROPUP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"New Year Blessing", COLOR_TITLE_BUFF}
+{"Celebration Blessing", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
@@ -5077,9 +5077,9 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"Additional damage to Earth Attribute Monsters."}
+{"Increased damage to Earth Property Enemies."}
 , 
-{"Increased Fire Tolerance."}
+{"Increased Fire Resistance."}
 }
 }
 -- DECOMPILER ERROR at PC10484: Confused about usage of register: R0 in 'UnsetPending'
@@ -5090,9 +5090,9 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"Additional damage to Neutral Monsters."}
+{"Increased damage to Neutral Property Enemies."}
 , 
-{"Increased Neutral Tolerance"}
+{"Increased Neutral Resistance."}
 }
 }
 -- DECOMPILER ERROR at PC10508: Confused about usage of register: R0 in 'UnsetPending'
@@ -5103,7 +5103,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"ATK + 3%"}
+{"ATK +3%"}
 }
 }
 -- DECOMPILER ERROR at PC10532: Confused about usage of register: R0 in 'UnsetPending'
@@ -5114,7 +5114,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"MATK + 3%"}
+{"MATK +3%"}
 }
 }
 -- DECOMPILER ERROR at PC10556: Confused about usage of register: R0 in 'UnsetPending'
@@ -5125,7 +5125,7 @@ descript = {
 , 
 {"%s", COLOR_TIME}
 , 
-{"Delay After Attack - 10%"}
+{"Delay After Attack -10%"}
 }
 }
 -- DECOMPILER ERROR at PC10580: Confused about usage of register: R0 in 'UnsetPending'
@@ -5149,7 +5149,7 @@ descript = {
 , 
 {"Increase physical damage to all enemies by 7%"}
 , 
-{"MATK + 7%"}
+{"MATK +7%"}
 , 
 {"Decrease Max HP, Max SP by 5%"}
 }
@@ -5371,6 +5371,69 @@ descript = {
 {"Max HP and Max SP"}
 , 
 {"increase dramatically."}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC11089: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CHUSEOK_MONDAY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Empower Property", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Additional damage to Shadow property monsters."}
+, 
+{"Increase resistance against Holy property."}
+}
+}
+-- DECOMPILER ERROR at PC11116: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CHUSEOK_WEDNESDAY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Empower Property", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Additional damage to Fire property monsters."}
+, 
+{"Increase resistance against Water property."}
+}
+}
+-- DECOMPILER ERROR at PC11143: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CHUSEOK_THURSDAY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Empower Property", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Additional damage to Wind property monsters."}
+, 
+{"Increase resistance against Earth property."}
+}
+}
+-- DECOMPILER ERROR at PC11170: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CHUSEOK_FRIDAY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Empower Property", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Additional damage to Water property monsters."}
+, 
+{"Increase resistance against Wind property."}
+}
+}
+-- DECOMPILER ERROR at PC11194: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"The Realm between the Living and the Dead!", COLOR_TITLE_DEBUFF}
+, 
+{"Decrease Spirit by 50%."}
 , 
 {"%s", COLOR_TIME}
 }

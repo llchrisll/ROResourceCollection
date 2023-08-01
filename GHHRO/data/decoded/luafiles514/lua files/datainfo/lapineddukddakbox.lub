@@ -214,6 +214,20 @@ SourceItems = {
 {"C_Valkyrie_Feather_Band", 1, 19613}
 , 
 {"C_Anubis_Helm_J", 1, 19743}
+, 
+{"C_ResonateTaego", 1, 31721}
+, 
+{"C_Drooping_Argiope", 1, 19959}
+, 
+{"C_There_Is_Something", 1, 20183}
+, 
+{"C_Palace_Guard_Cap", 1, 31845}
+, 
+{"C_Shura_King_Pledge", 1, 31180}
+, 
+{"C_Crown_Of_Saint", 1, 31591}
+, 
+{"C_Aviator_Hat", 1, 31836}
 }
 , NeedSource_String = "Head Costume (Upper)"}
 , 
@@ -790,6 +804,34 @@ SourceItems = {
 {"S_Penetration_Armor", 1, 24433}
 , 
 {"S_Tempest_Armor", 1, 24424}
+, 
+{"S_Penetration_Weapon", 1, 24432}
+, 
+{"S_Tempest_Weapon", 1, 24423}
+, 
+{"S_MortalBlow_Weapon", 1, 24370}
+, 
+{"S_MortalBlow_Earring", 1, 24371}
+, 
+{"S_MortalBlow_Pendent", 1, 24372}
+, 
+{"S_Blitz_Earring", 1, 24217}
+, 
+{"S_Blitz_Pendent", 1, 24218}
+, 
+{"S_AutoSpell_Shield", 1, 24722}
+, 
+{"S_AutoSpell_Armor", 1, 24723}
+, 
+{"S_AutoSpell_Shoes", 1, 24724}
+, 
+{"S2_Bearers_Shoes", 1, 24338}
+, 
+{"S2_Bearers_Armor", 1, 24337}
+, 
+{"S2_Bearers_Pendent", 1, 24321}
+, 
+{"S_EXP_Shield", 1, 24683}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -964,6 +1006,46 @@ SourceItems = {
 {"Teleport_Stone", 1, 25228}
 , 
 {"Steal_Stone", 1, 25229}
+, 
+{"ShrinkEffect_Middle", 1, 25138}
+, 
+{"ElectricEffect_Middle", 1, 25136}
+, 
+{"GreenFloor_Bottom", 1, 25137}
+, 
+{"Identify_Stone", 1, 25139}
+, 
+{"EXPStone_Middle", 1, 25141}
+, 
+{"ShadowEffect_Middle", 1, 25177}
+, 
+{"MinorCastingStone_Robe", 1, 25170}
+, 
+{"LexAeternaStone_Middle", 1, 25175}
+, 
+{"PinkGlowEffect_Middle", 1, 25178}
+, 
+{"BlueAuraEffect_Middle", 1, 25176}
+, 
+{"CastingStone_Top", 1, 25172}
+, 
+{"CastingStone_Middle", 1, 25173}
+, 
+{"CastingStone_Bottom", 1, 25174}
+, 
+{"EXPStone_Top", 1, 25171}
+, 
+{"WhiteBodyEffect_Middle", 1, 25224}
+, 
+{"ExplodingEffect_Middle", 1, 25225}
+, 
+{"WaterFieldEffect_Bottom", 1, 25226}
+, 
+{"Heal_Stone", 1, 25227}
+, 
+{"Teleport_Stone", 1, 25228}
+, 
+{"Steal_Stone", 1, 25229}
 }
 , NeedSource_String = "Enchant Stone"}
 , 
@@ -1046,6 +1128,90 @@ SourceItems = {
 {"S_Dancer_Armor", 1, 24281}
 }
 , NeedSource_String = "Refined Shadow Equipment"}
+, 
+MagicPiercing_Mix = {ItemID = 100011, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_M_Executioner_Weapon", 1, 24170}
+, 
+{"S_M_Exorcist_Weapon", 1, 24171}
+, 
+{"S_M_Hunting_Weapon", 1, 24172}
+, 
+{"S_M_Insect_Net_Weapon", 1, 24173}
+, 
+{"S_M_Fishing_Weapon", 1, 24174}
+, 
+{"S_M_Dragon_K_Weapon", 1, 24175}
+, 
+{"S_M_Corrupt_Weapon", 1, 24176}
+, 
+{"S_M_Vibration_Weapon", 1, 24177}
+, 
+{"S_M_Holy_Water_Weapon", 1, 24178}
+, 
+{"S_M_Scissors_Weapon", 1, 24179}
+}
+, NeedSource_String = "+7 M Piercing Shadow"}
+, 
+Piercing_Mix = {ItemID = 100053, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Executioner_Weapon", 1, 24156}
+, 
+{"S_Exorcist_Weapon", 1, 24157}
+, 
+{"S_Hunting_Weapon", 1, 24158}
+, 
+{"S_Insect_Net_Weapon", 1, 24159}
+, 
+{"S_Fishing_Weapon", 1, 24160}
+, 
+{"S_Dragon_Killer_Weapon", 1, 24161}
+, 
+{"S_Corrupt_Weapon", 1, 24162}
+, 
+{"S_Vibration_Weapon", 1, 24163}
+, 
+{"S_Holy_Water_Weapon", 1, 24164}
+, 
+{"S_Scissors_Weapon", 1, 24165}
+}
+, NeedSource_String = "+7 Piercing Shadow"}
+, 
+BearersShadow_Mix = {ItemID = 23249, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Bearers_Armor", 1, 24180}
+, 
+{"S_Bearers_Shoes", 1, 24181}
+, 
+{"S_Bearers_Shield", 1, 24182}
+, 
+{"S_Bearers_Weapon", 1, 24183}
+, 
+{"S_Bearers_Earring", 1, 24184}
+, 
+{"S_Bearers_Pendent", 1, 24185}
+}
+, NeedSource_String = "+7 Bearers Shadow"}
+, 
+EXPShadow_Mix = {ItemID = 100661, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Beginner_Shoes", 1, 24210}
+, 
+{"S_Beginner_Shield", 1, 24211}
+, 
+{"S_Rookie_Shoes", 1, 24212}
+, 
+{"S_Rookie_Shield", 1, 24213}
+, 
+{"S_Advanced_Shoes", 1, 24214}
+, 
+{"S_Advanced_Shield", 1, 24215}
+, 
+{"S_Expert_Shoes", 1, 24208}
+, 
+{"S_Expert_Shield", 1, 24209}
+}
+, NeedSource_String = "Experience Shadow"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

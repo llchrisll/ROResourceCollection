@@ -4995,6 +4995,10 @@ MonsterEff = {EFFECT.EF_HASTEUP}
 [3809] = {MonsterSize = 0.5, MonsterEff = EFFECT.EF_NONE}
 , 
 [3818] = {MonsterSize = 1.5, MonsterEff = EFFECT.EF_NONE}
+, 
+[2097] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
 }
 main = function()
   -- function num : 0_0

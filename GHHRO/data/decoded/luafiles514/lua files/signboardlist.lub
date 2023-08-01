@@ -592,6 +592,34 @@ SignBoardList = {
 , 
 {"itemmall", 24, 77, 0, IT_BMP, "information\\over_smithy.bmp"}
 , 
+{"dewata", 218, 164, 0, IT_BMP, "information\\over_weaponshop.bmp"}
+, 
+{"dewata", 158, 182, 0, IT_BMP, "information\\over_armorshops.bmp"}
+, 
+{"hu_in01", 100, 390, 0, IT_BMP, "information\\over_weaponshop.bmp"}
+, 
+{"hu_in01", 93, 390, 0, IT_BMP, "information\\over_weaponshop.bmp"}
+, 
+{"hu_in01", 94, 313, 0, IT_BMP, "information\\over_armorshops.bmp"}
+, 
+{"hu_in01", 252, 368, 0, IT_BMP, "information\\over_store.bmp"}
+, 
+{"ma_in01", 73, 22, 0, IT_BMP, "information\\over_weaponshop.bmp"}
+, 
+{"ma_in01", 67, 13, 0, IT_BMP, "information\\over_armorshops.bmp"}
+, 
+{"mosk_in", 31, 180, 0, IT_BMP, "information\\over_weaponshop.bmp"}
+, 
+{"nif_in", 37, 93, 0, IT_BMP, "information\\over_weaponshop.bmp"}
+, 
+{"cmd_fild07", 136, 134, 0, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"turbo_room", 130, 92, 0, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"hero_lb", 128, 151, 0, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"lhz_in02", 237, 284, 0, IT_BMP, "information\\over_kafra.bmp"}
+, 
 {"alberta", 189, 151, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
 {"alb2trea", 39, 50, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}

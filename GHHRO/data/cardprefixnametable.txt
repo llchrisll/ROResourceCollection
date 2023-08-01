@@ -475,7 +475,7 @@
 4476#Entomic#
 4477#Demonic#
 4480#Of Halfreload#
-4481#Half Jack Frost#
+4481#Half Jack Frost's#
 4482#Of Half regeneration#
 4483#Half Spiritual#
 4484#Of Half Gemstone#
@@ -759,4 +759,18 @@
 
 //5월25일
 4496#of Half Infinity#
+
+//6월 8일
+4539#Half Arrogant#
+
+//6월 22일 2분기 
+4608#Knight's#
+4609#Knight's#
+27025#Noble#
+
+//7월 6일
+4493#Half High Risk#
+
+//7월 20일
+4499#Half Bloodlust#
 

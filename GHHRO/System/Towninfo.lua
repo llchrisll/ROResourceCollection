@@ -237,7 +237,7 @@ einbroch = {
 , 
 {name = "Forge", X = 255, Y = 109, TYPE = 3}
 , 
-{name = "Inn", X = 260, Y = 201, TYPE = 5}
+{name = "Inn", X = 255, Y = 199, TYPE = 5}
 }
 , 
 einbech = {
@@ -315,7 +315,7 @@ veins = {
 , 
 {name = "Weapon Dealer", X = 149, Y = 180, TYPE = 1}
 , 
-{name = "Inn", X = 131, Y = 280, TYPE = 5}
+{name = "Inn", X = 112, Y = 278, TYPE = 5}
 }
 , 
 brasilis = {

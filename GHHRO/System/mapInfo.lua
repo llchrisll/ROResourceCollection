@@ -112,12 +112,12 @@ signName = {mainTitle = "È¯¿µÀÇ È¸¶û 3F"}
 signName = {mainTitle = "È¯¿µÀÇ È¸¶û 4F"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["2@gl_kh.rsw"] = {displayName = "¿¾Chivalry2F", notifyEnter = true, 
-signName = {subTitle = "Glast Heim", mainTitle = "¿¾ Chivalry 2F"}
+["2@gl_kh.rsw"] = {displayName = "Old Glast Heim Chivalry 2F", notifyEnter = true, 
+signName = {subTitle = "Old Glast Heim", mainTitle = "Chivalry 2F"}
 , backgroundBmp = "dungeon"}
 , 
-["1@gl_kh.rsw"] = {displayName = "¿¾Chivalry1F", notifyEnter = true, 
-signName = {subTitle = "Glast Heim", mainTitle = "¿¾ Chivalry 1F"}
+["1@gl_kh.rsw"] = {displayName = "Old Glast Heim Chivalry 1F", notifyEnter = true, 
+signName = {subTitle = "Old Glast Heim", mainTitle = "Chivalry 1F"}
 , backgroundBmp = "dungeon"}
 , 
 ["hu_fild03.rsw"] = {displayName = "Hugel Field", notifyEnter = true, 
@@ -222,12 +222,12 @@ signName = {subTitle = "¶ô ¸´Áö", mainTitle = "Å°¿Í¿Í »ç¸·"}
 signName = {subTitle = "¶ô ¸´Áö", mainTitle = "Å°¿Í¿Í »ç¸·"}
 , backgroundBmp = "field"}
 , 
-["1@md_gef.rsw"] = {displayName = "Friday Memorial Dungeon", notifyEnter = true, 
-signName = {mainTitle = "Friday Memorial Dungeon"}
-, backgroundBmp = "dungeon"}
+["1@md_gef.rsw"] = {displayName = "Friday Dungeon", notifyEnter = true, 
+signName = {mainTitle = "Friday Dungeon"}
+, backgroundBmp = "dungeon_s2"}
 , 
-["1@md_pay.rsw"] = {displayName = "Weekend Memorial Dungeon", notifyEnter = true, 
-signName = {mainTitle = "Weekend Memorial Dungeon"}
+["1@md_pay.rsw"] = {displayName = "Weekend Dungeon", notifyEnter = true, 
+signName = {mainTitle = "Weekend Dungeon"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["1@slw.rsw"] = {displayName = "º£¸£³Ê¿¬±¸¼Ò ÁßÃß½Ç", notifyEnter = true, 

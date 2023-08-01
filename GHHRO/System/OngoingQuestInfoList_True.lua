@@ -26572,5 +26572,225 @@ Description = {""}
 [8322] = {Title = "Delivery is done (Alberta)", 
 Description = {""}
 , Summary = ""}
+, 
+[291150] = {Title = "Independence Day Event: Cooldown", IconName = "ico_ev.bmp", 
+Description = {"You have completed the Independence Day Event. Talk to <NAVI>[Marites]<INFO>prontera,157,229,0,101,0</INFO></NAVI> again after 4 am to receive the quest again."}
+, Summary = "Reset at 4 am"}
+, 
+[291151] = {Title = "Defeat 10 Alma", IconName = "ico_ev.bmp", 
+Description = {"Defeat 10 Alma. To complete the quest talk to <NAVI>[Marites]<INFO>prontera,157,229,0,101,0</INFO></NAVI> and get the reward."}
+, Summary = "Defeat 10 Alma"}
+, 
+[291152] = {Title = "Defeat 10 Gelli", IconName = "ico_ev.bmp", 
+Description = {"Defeat 10 Gelli. To complete the quest talk to <NAVI>[Marites]<INFO>prontera,157,229,0,101,0</INFO></NAVI> and get the reward."}
+, Summary = "Defeat 10 Gelli"}
+, 
+[291153] = {Title = "Independence Day Buff: Cooldown", IconName = "ico_ev.bmp", 
+Description = {"You have received the Daily Buff for Independence Day Event. Talk to <NAVI>[Marites]<INFO>prontera,157,229,0,101,0</INFO></NAVI> again after 4 am to receive the buff again."}
+, Summary = "Reset at 4 am"}
+, 
+[291154] = {Title = "Blood Donation Quiz: Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Daily Quiz Quest has been completed today. After 4 am, let\'s return to <NAVI>[Nurse Joy]<INFO>prontera,154,229,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4 am"}
+, 
+[291155] = {Title = "Wrong Answer", IconName = "ico_ev.bmp", 
+Description = {"You have chose wrong answer in Blood Donation Quiz. Talk to <NAVI>[Nurse Joy]<INFO>prontera,154,229,0,101,0</INFO></NAVI> after 5 minutes to re-attempt the quiz."}
+, Summary = "Re-attempt the quiz after 5 minutes"}
+, 
+[291156] = {Title = "Get the Blood Donation Quiz reward", IconName = "ico_ev.bmp", 
+Description = {"Let\'s get the reward for Blood Donation Quiz. You can get the reward from <NAVI>[Nurse Joy]<INFO>prontera,154,229,0,101,0</INFO></NAVI>."}
+, Summary = "Get the reward"}
+, 
+[16331] = {Title = "Stamp Notebook", 
+Description = {"<NAVI>[Aru Hee-ah]<INFO>comodo,204,143,0,101,0</INFO></NAVI> gave me a stamp notebook. Let\'s go find the stamp staff waiting here and there and get the stamp and come back to her."}
+, Summary = "Complete a stamp notebook"}
+, 
+[16332] = {Title = "One Comodo stamp for June", 
+Description = {"Received the left stamp in my stamp notebook."}
+, Summary = "Left Stamp!"}
+, 
+[16333] = {Title = "One Comodo stamp for June", 
+Description = {"Received the left stamp in my stamp notebook."}
+, Summary = "Left Stamp!"}
+, 
+[16334] = {Title = "One Comodo stamp for June", 
+Description = {"Received the right stamp in my stamp notebook."}
+, Summary = "Right Stamp!"}
+, 
+[16335] = {Title = "One Comodo stamp for June", 
+Description = {"Received the right stamp in my stamp notebook."}
+, Summary = "Right Stamp!"}
+, 
+[16336] = {Title = "Golden Corn in June", 
+Description = {"Let\'s go hunt each 3 of Imps and Explosions, and come back to <NAVI>[Dr. Corn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[16337] = {Title = "Golden Corn in June", 
+Description = {"Let\'s go hunt each 3 of Hot Imps and Hot Explosions, and come back to <NAVI>[Dr. Corn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[16338] = {Title = "Golden Corn in June-Stand by", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Dr. Corn]<INFO>comodo,159,196,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am"}
+, 
+[16339] = {Title = "Volcanic Island of Corodo in June", 
+Description = {"Let\'s help Corodo\'s guide <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI> to hunt fire property monsters."}
+, Summary = "Corodo Discovery"}
+, 
+[16340] = {Title = "Volcanic Island of Corodo in June", 
+Description = {"Let\'s help Corodo\'s guide <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI> to hunt fire property monsters."}
+, Summary = "Corodo Discovery"}
+, 
+[16341] = {Title = "Volcanic Island of Corodo in June-Stand by", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am"}
+, 
+[16342] = {Title = "Healthy Herbs in June", 
+Description = {"Yerba asks you to find the 3 Magic Herbs. Let\'s go back to <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI> with 3 Magic Herbs."}
+, Summary = "3 Magic Herbs"}
+, 
+[16343] = {Title = "Healthy Herbs in June", 
+Description = {"Let\'s go back to <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI> with 3 Magic Herbs."}
+, Summary = "3 Magic Herbs"}
+, 
+[16344] = {Title = "Healthy Herbs in June-Stand by", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Yerba]<INFO>comodo,226,188,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am"}
+, 
+[16345] = {Title = "Delicious Popcorn in June", 
+Description = {"Popcorn master\'s popcorn is best in Midgard."}
+, Summary = ""}
+, 
+[16346] = {Title = "Strong Bonfire", 
+Description = {"I burned the herbs in the <NAVI>[Strong Bonfire]<INFO>comodo,289,176,0,101,0</INFO></NAVI> and breathed in the smoke, and my physical attack increased for 30 minutes! After 30 minutes, I can get power again using 5 leaves."}
+, Summary = "Reset after 30minutes"}
+, 
+[16347] = {Title = "Wise and Fine Bonfire", 
+Description = {"I burned the herbs in the <NAVI>[Wise and Fine Bonfire]<INFO>comodo,294,176,0,101,0</INFO></NAVI> and breathed in the smoke, and my magic attack increased for 30 minutes! After 30 minutes, I can get power again using 5 leaves."}
+, Summary = "Reset after 30minutes"}
+, 
+[16348] = {Title = "Sharp and Fine Bonfire", 
+Description = {"I burned the herbs in the <NAVI>[Sharp and Fine Bonfire]<INFO>comodo,299,176,0,101,0</INFO></NAVI> and breathed in the smoke, and my attack speed increased for 30 minutes! After 30 minutes, I can get power again using 3 leaves."}
+, Summary = "Reset after 30minutes"}
+, 
+[16349] = {Title = "Summer Day Bonfire", 
+Description = {"I burned the herbs in the <NAVI>[Summer Day Bonfire]<INFO>comodo,292,180,0,101,0</INFO></NAVI>and breathed in the smoke, and my fire resistance and attack against earth property enemies increased for 60 minutes! After 60 minutes, I can get power again using 15 leaves."}
+, Summary = "Reset after 60minutes"}
+, 
+[16350] = {Title = "Summer Night Bonfire", 
+Description = {"I burned the herbs in the <NAVI>[Summer Night Bonfire]<INFO>comodo,297,180,0,101,0</INFO></NAVI> and breathed in the smoke, and my neutral resistance and attack against neutral property enemies increased for 60 minutes! After 60 minutes, I can get power again using 10 leaves."}
+, Summary = "Reset after 60minutes"}
+, 
+[16351] = {Title = "Blazing Beads of June", 
+Description = {"Pop Popcornizer and Pop Popcornist are enchanting a popcorn hat."}
+, Summary = "Pop Popcorn Hat Enchant"}
+, 
+[12377] = {Title = "Playing Weekend Dungeon", 
+Description = {"This is a token that allows you to enter the Weekend Memorial Dungeon. You can enter without restriction for an hour."}
+, Summary = "Weekend Dungeon"}
+, 
+[12378] = {Title = "Need to recover from fatigue", 
+Description = {"You can\'t enter the weekend dungeon because of accumulated fatigue. All fatigue will be recovered by midnight."}
+, Summary = "Accumulated Fatigue"}
+, 
+[12379] = {Title = "Need to recover from fatigue", 
+Description = {"You can\'t enter the Friday Dungeon because of accumulated fatigue. All fatigue will be recovered by midnight."}
+, Summary = "Accumulated Fatigue"}
+, 
+[12334] = {Title = "Traces of time shifting", 
+Description = {"Time-shifting to Advanced Old Glast Heim is prohibited for 3 days"}
+, Summary = "Reset at 4am after 3 days"}
+, 
+[12335] = {Title = "Space distortion", 
+Description = {"The space inside the Advanced Old Glast Heim was distorted by Hugin. Something strange may happen in the castle."}
+, Summary = "Space distortion"}
+, 
+[12336] = {Title = "Defeating Corruption Root", 
+Description = {"Defeat Corruption Root(Advanced) in the Chivalry 1st floor of the Advanced Old Glast Heim."}
+, Summary = "Corruption Root"}
+, 
+[12337] = {Title = "Defeating Amdarais", 
+Description = {"Defeat Amdarais(Advanced) from the Chivalry 2nd floor of the Advanced Old Glast Heim."}
+, Summary = "Amdarais"}
+, 
+[12338] = {Title = "Time traveler", 
+Description = {"Partial time travel to the advanced old glast heim was finished."}
+, Summary = "Time travel to old glast heim"}
+, 
+[12339] = {Title = "Time Conqueror", 
+Description = {"All of the time travel to the advanced old glast heim was finished."}
+, Summary = "Time travel to old glast heim"}
+, 
+[14958] = {Title = "The Gatekeeper of Nyail Cave", 
+Description = {"Look for <NAVI>[Festa Manager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI> and go to Nyail Cave!"}
+, Summary = "To Festa Manager"}
+, 
+[14959] = {Title = "Start of Festa", 
+Description = {"Bring Thin Noodle x1, Ribbon Noodle x1, and Pig Potato x1 to make delicious noodles. - <NAVI>[Festa Manager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"}
+, Summary = "Noodle Ingredients"}
+, 
+[14960] = {Title = "Noodle Master", 
+Description = {"If you come to the Noodle Festa, you must try the noodles. You can taste the best noodles by visiting <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."}
+, Summary = "Noodle Master Orzo"}
+, 
+[14961] = {Title = "Watermelon Dessert", 
+Description = {"Does this remind you of a cool and sweet dessert on a hot summer day?? <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> will guide you through the event where you can get Watermelon Pudding."}
+, Summary = "Helper Lami"}
+, 
+[14962] = {Title = "Rogue Noodle Hunting", 
+Description = {"Have you ever heard of Rogue Noodle Hunting? <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> will guide you for Rogue Noodle Hunting."}
+, Summary = "Helper Domi"}
+, 
+[14963] = {Title = "Cool Ice Cream", 
+Description = {"In summer, sweet and cool ice cream comes to mind. You can invite <NAVI>[Merchant Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI> and also taste ice cream here."}
+, Summary = "Merchant Borame"}
+, 
+[14964] = {Title = "Noodle Ingredients", 
+Description = {"Bring Thin Noodle x5, Ribbon Noodle x5, and Pig Potato x3 to <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."}
+, Summary = "Noodle Ingredients"}
+, 
+[14965] = {Title = "Today\'s Noodle[Stand by]", 
+Description = {"Today\'s event is being prepared. After dawn, you can visit <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> again."}
+, Summary = "Reset at 4am"}
+, 
+[14966] = {Title = "Watermelon Fans", 
+Description = {"Break the ripe watermelons buried in the watermelon patch and find the Promotional Fan! Collect 10 and bring them to <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."}
+, Summary = "Promotional Fans x10"}
+, 
+[14967] = {Title = "Watermelon Fans [Stand by]", 
+Description = {"Today\'s event is over. After dawn, you can participate again by visiting <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."}
+, Summary = "Reset at 4am"}
+, 
+[14968] = {Title = "Rogue Noodle Hunting", 
+Description = {"Bring Tough Noodle Leather x10 after defeat Rogue Noodle x10 and visit <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."}
+, Summary = "Tough Noodle Leather x10"}
+, 
+[14969] = {Title = "Rogue Noodle Hunting [Stand by]", 
+Description = {"You must be exhausted from catching the strong, Rogue Noodle, so please relax today and return to the festival after dawn! - <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
+, 
+[14970] = {Title = "Cool and Sweet Ice Cream", 
+Description = {"Bring me Noodle Sap x5 after defeat 5 each of the Small Swirls and Dandy Stars. - <NAVI>[Merchant Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI>"}
+, Summary = "Noodle Sap x5"}
+, 
+[14971] = {Title = "Cool and Sweet Ice Cream [Stand by]", 
+Description = {"The rule is once a day, so take a break and come back. Okay? - <NAVI>[Merchant Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
+, 
+[14972] = {Title = "Coupon: Complete Noodle Event", 
+Description = {"How was today\'s Noodles event? Once you\'ve completed all of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!"}
+, Summary = "Check out Noodle Master Orzo"}
+, 
+[14973] = {Title = "Coupon: Complete Watermelon Dessert", 
+Description = {"You\'re done with the Watermelon Crushing Event. Once you have completed all four of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!"}
+, Summary = "Check out Helper Lami"}
+, 
+[14974] = {Title = "Coupon: Complete Rogue Noodle", 
+Description = {"You caught all the Rogue Noodles. Once you have completed all four of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!"}
+, Summary = "Check out Helper Domi"}
+, 
+[14975] = {Title = "Coupon: Complete Ice cream", 
+Description = {"How was the cool ice cream? Once you have completed all four of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!"}
+, Summary = "Check out Merchant Borame"}
 }
 

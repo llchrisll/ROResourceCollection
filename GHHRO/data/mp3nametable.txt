@@ -985,3 +985,10 @@ un_myst.rsw#bgm\\121.mp3#
 
 //4월 13일 훈련장
 tra_fild.rsw#bgm\\08.mp3#
+
+//6월 22일 2분기 요일메모리얼
+1@md_gef.rsw#bgm\\50.mp3#
+1@md_pay.rsw#bgm\\20.mp3#
+//--- 고성메모리얼 상급
+1@gl_kh.rsw#bgm\\44.mp3#
+2@gl_kh.rsw#bgm\\44.mp3#

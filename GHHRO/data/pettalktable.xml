@@ -8090,4 +8090,531 @@
     </so_full>
   </MIYABI_NINGYO>
 
+	<grand_peco>
+
+		<hungry>
+			<feeding>	*Slurp*...(Yum Yum)	</feeding>
+			<feeding>	Why are you so late??	</feeding>
+			<feeding>	Awwww~ I'm hungry.. hungryhungry~ Please let me have more~~	</feeding>
+			<hunting>	Wow it seems delicious~	</hunting>
+			<hunting>	Oh~	</hunting>
+			<hunting>	Hungryhungry~ Please take care of my meal~	</hunting>
+			<danger>	Oooops~ You should take care of yourself!!	</danger>
+			<danger>	Hey, hey.. You are dying...-_- 	</danger>
+			<danger>	You should eat something~ Try again after meal~	</danger>
+			<dead>	My goodness, dear...	</dead>
+			<dead>	Uhm.... I told you...	</dead>
+			<dead>	Hungryhungry~ Hmm? When did you die? Don't forget to give me food before you dead.	</dead>
+			<stand>	Uhmmmm... I'm hungry a bit...	</stand>
+			<stand>	What are you doing?	</stand>
+			<stand>	Hungryhungry~ Meal~ Food~ Let's eat something~	</stand>
+			<connect>	...You are here...	</connect>
+			<connect>	Now you are here. Did you eat something?	</connect>
+			<connect>	Hungryhungry~ Please take care of my meal~	</connect>
+			<levelup>	Grat...*Mumble*...	</levelup>
+			<levelup>	Good job. Let's eat something now..	</levelup>
+			<levelup>	Hungryhungry~ Uhm? Level up? I don't know. I'm just hungry~	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Hmm... If you don't mind me saying so.. I would rather eat more..	</feeding>
+			<feeding>	I'm super starving.	</feeding>
+			<feeding>	Thanks~ I was really hungry~	</feeding>
+			<hunting>	Show me your ability~	</hunting>
+			<hunting>	UUhmm~ What do you think of our master's power?	</hunting>
+			<danger>	Hold on! Be careful!	</danger>
+			<danger>	I'm here to protect you~	</danger>
+			<dead>	It was too much..	</dead>
+			<dead>	You should be more careful... You died too early.	</dead>
+			<dead>	Haha~ My great master......... is dead?! When did you die?	</dead>
+			<stand>	My favorite food is, which comes down from our family, made with Muka's skin and..*Mumble*	</stand>
+			<stand>	Master~ They are coming~	</stand>
+			<stand>	Have we been before..? Haven't we..?	</stand>
+			<connect>	*Mumble*....Uhm?! When did you come?	</connect>
+			<connect>	Hungry...	</connect>
+			<levelup>	Wow! Nice~	</levelup>
+			<levelup>	Ehhh.. Level up?? Congrat!~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	*Slurp*..Hmm... It's..*Yum Yum*.. quite nice..	</feeding>
+			<feeding>	It's always great. All the times. Meal, Meal~	</feeding>
+			<feeding>	*Slurp*... *Yum Yum*.. John..... What was the name for?	</feeding>
+			<hunting>	Oh~ Great, great! Go for it~!	</hunting>
+			<hunting>	Huhuhu~ How fabulous of my master~	</hunting>
+			<danger>	Oh no! Danger, Danger!	</danger>
+			<danger>	Go for it~! Hmm...? It looks dangerous, sir T_T~	</danger>
+			<dead>	Resurrection !! ... I haven't learned.. T_T	</dead>
+			<dead>	Hum..... What should I do??	</dead>
+			<stand>	Actually~ I could have flied before. I was a star in the sky but it's quite boring so... *Mumble*	</stand>
+			<stand>	Run~ Run~ I love the feeling when I'm running!	</stand>
+			<connect>	Wow~ Let's go hunting again!	</connect>
+			<connect>	Hallo~ I'm the upgrade version of Peco Peco!	</connect>
+			<levelup>	Haha~ Congrat!	</levelup>
+			<levelup>	You leveled up! I do too..... can't I?	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	*Slurp* Hmm... I'm quite full now.	</feeding>
+			<feeding>	I'm full~ But I like eating huhu~	</feeding>
+			<hunting>	Let's go!	</hunting>
+			<hunting>	Huhu~ I'm quite good at this.	</hunting>
+			<danger>	You should attack with deadly skill such as Bowling Bash~!	</danger>
+			<danger>	If you are tired, I can do better~	</danger>
+			<dead>	Oh dear.. It was almost done..	</dead>
+			<dead>	Hmm~ Why did you die..	</dead>
+			<stand>	Hey, hey, sir. which city do you like the most? Hmm.. I like... the city that cute God stays..*Mumble* 	</stand>
+			<stand>	Hmm... I thought I had something to tell you.... Just forgot it! Haha~	</stand>
+			<connect>	Oh oh~ I'm glad to see you again~ I missed you a lot~	</connect>
+			<connect>	Hmm.... You are my master..... aren't you? It's confusing...haha..	</connect>
+			<levelup>	Yoo-hoo! It's so nice day~!	</levelup>
+			<levelup>	Cool~! My master is the best~	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Phew~ Sir, my stomach is exploding~!	</feeding>
+			<feeding>	No, No more~ I'm already full~!	</feeding>
+			<hunting>	Attention~! The fight of the century is beginning!	</hunting>
+			<hunting>	Hahaha~! See? It's my master!	</hunting>
+			<danger>	/omg here, here!! Please help my master!	</danger>
+			<danger>	I will protect you, Sir! Take a rest~	</danger>
+			<dead>	Hmm.... There is a day like this... Get up, now. </dead>
+			<dead>	Oh no~~ Please somebody help my master~~	</dead>
+			<stand>	Guess what, yesterday I was eating noodle.... *Mumble*	</stand>
+			<stand>	Have you heard about new tavern which opened at Prontera?	</stand>
+			<stand>	..Hmm..... Sometimes.... I miss my home...	</stand>
+			<stand>	Oh, I heard the high fashion for these day is rubber shoes made in Payon.... *Mumble* 	</stand>
+			<stand>	I am really good at running~	</stand>
+			<connect>	Oh, finally you are here! Let's go~ I'm always ready!~	</connect>
+			<connect>	Sir, glad to see you again~ Where can we go today?	</connect>
+			<levelup>	Nice~! I knew it~	</levelup>
+			<levelup>	Nice~! You are the best today~	</levelup>
+		</so_full>
+	</grand_peco>
+	<mastering>
+
+		<hungry>
+			<feeding>	Yum Yum... I was hungry..	</feeding>
+			<feeding>	Huuung... I was hungry! 	</feeding>
+			<feeding>	Bon Appetit~!! 	</feeding>
+			<feeding>	Let me get one more...	</feeding>
+			<feeding>	I'm hungry T_T	</feeding>
+			<hunting>	Hmm.. Hey... Can I eat the item on the ground?	</hunting>
+			<hunting>	Is there any food left? 	</hunting>
+			<hunting>	You are so cool! 	</hunting>
+			<hunting>	Do you see anything to eat?	</hunting>
+			<danger>	Danger..	</danger>
+			<danger>	Ah...Did you get hurt? 	</danger>
+			<danger>	Hey, hey. Can't you see this red HP? 	</danger>
+			<danger>	You deserve it, you should get me some food...	</danger>
+			<danger>	Your head is bleeding! Don't die...	</danger>
+			<danger>	Did you get hurt? Do you need treatment?	</danger>
+			<dead>	I'm sorry T_T~~~ 	</dead>
+			<dead>	You... are... dead.....	</dead>
+			<dead>	Food Food Food!! 	</dead>
+			<dead>	Hey...... ......	</dead>
+			<dead>	Hey... You should die after feeding me... T_T	</dead>
+			<stand>	Hmm.... Hey, I think we already passed lunch time. Let's eat something.	</stand>
+			<stand>	Meat.. Sweet Potato... Meat... Grape... Meat.. Ice Cream.. Meat...	</stand>
+			<stand>	Jellopy... Empty Bottle... And your rare item... 	</stand>
+			<stand>	Heeey I'm hungry 	</stand>
+			<stand>	Hey Hey, What are you doing? 	</stand>
+			<stand>	Hey, what are you doing? will you give me something to eat?	</stand>
+			<stand>	You are making my meal, right? I'm hungry..	</stand>
+			<stand>	*RUMBLING* 	</stand>
+			<connect>	Hi. But I.... I don't like being hungry. Seriously..	</connect>
+			<connect>	You are coming to feed me! 	</connect>
+			<connect>	Hello, hello. I'm really hungry...	</connect>
+			<connect>	Hey I missed you so much~!!	</connect>
+			<connect>	LUNCH!!!	</connect>
+			<connect>	Didn't you bring some food? I'm hungry *tears*	</connect>
+			<levelup>	Congrats...	</levelup>
+			<levelup>	You are only thinking about yourself. You forgot to feed me! 	</levelup>
+			<levelup>	Yay~~ Congrat~~ 	</levelup>
+			<levelup>	Fanfare~! Now it's lunch time!	</levelup>
+			<levelup>	You forgot me leveling up... </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	I was hungry. Thanks for the meal~	</feeding>
+			<feeding>	Bon Appetit~!! 	</feeding>
+			<feeding>	Bon Appetit~	</feeding>
+			<feeding>	It's!! Delicious~!	</feeding>
+			<feeding>	Poing Poing Yum Yum~	</feeding>
+			<hunting>	Hey... sometimes I would like to eat the item on the ground...	</hunting>
+			<hunting>	Feed me first before you hunt monsters!... 	</hunting>
+			<hunting>	Hiccup.	</hunting>
+			<hunting>	Nice~	</hunting>
+			<danger>	Danger! Danger!	</danger>
+			<danger>	If you gonna die, feed me first!! 	</danger>
+			<danger>	Hey, hey!! It's dangerous !!	</danger>
+			<danger>	Hmmmm, hey, did you get hurt? *Blow*	</danger>
+			<danger>	Are you hungry like me? Let's eat something first..	</danger>
+			<dead>	Hey... Get up T_T	</dead>
+			<dead>	No...! You even didn't feed me yet!! 	</dead>
+			<dead>	No way...T0T..Hey....	</dead>
+			<dead>	Hey.. Why did you die T_T	</dead>
+			<dead>	I wanna follow you to death...	</dead>
+			<stand>	Hmmmm... Do you like Jellopy as well? Jellopy is so tasty!	</stand>
+			<stand>	Are you bored? Then feed me! 	</stand>
+			<stand>	Heyyy...	</stand>
+			<stand>	Hey~ Aren't you hungry?	</stand>
+			<stand>	*Growling*	</stand>
+			<connect>	Today's menu is baked Jellopy! I wanna try~	</connect>
+			<connect>	Hey!! It's lunch time!! 	</connect>
+			<connect>	Hey... You didn't forget feed me, right?	</connect>
+			<connect>	Welcome back~! I missed you so much..	</connect>
+			<connect>	My dear! Hey, I'm hungry..	</connect>
+			<levelup>	Congratulation!	</levelup>
+			<levelup>	You leveled up! So it's time to eat something now 	</levelup>
+			<levelup>	Ohhhh wow~ Wonderful~	</levelup>
+			<levelup>	Congratulation~~	</levelup>
+			<levelup>	Let's eat something to eat to celebrate your level up~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Food~ Food~ Tasty food~ I really like you!	</feeding>
+			<feeding>	Bon Appetit~!! 	</feeding>
+			<feeding>	Bon Appetit~!!!!	</feeding>
+			<feeding>	Yum Yum~ Poing Poing!	</feeding>
+			<feeding>	It's so tasty~!	</feeding>
+			<hunting>	Wow~ You are so strong!	</hunting>
+			<hunting>	Go for it! Go for it! 	</hunting>
+			<hunting>	I would like to eat some item...	</hunting>
+			<hunting>	You are the best~ haha.	</hunting>
+			<hunting>	Mastering specialty! Summon-Poring!!....... is not available...	</hunting>
+			<hunting>	I grew up but still cannot defeat any monster...	</hunting>
+			<danger>	Danger!! Heal!! Ahh... I cannot heal.... Hey, Priest! could you please heal?	</danger>
+			<danger>	Hey! It's dangerous!! 	</danger>
+			<danger>	Heyyy... Drink some potion first~~~~~	</danger>
+			<danger>	Take it easy. Let's hanging out!	</danger>
+			<danger>	Oooops!! Hey!!! You are bleeding....!!.. 	</danger>
+			<dead>	Somebody help us!! 	</dead>
+			<dead>	Hey! Don't die T_T	</dead>
+			<dead>	*Crying*...T0T...	</dead>
+			<dead>	Hey... don't die....	</dead>
+			<dead>	Hey.. It's time to get up...T_T	</dead>
+			<stand>	Hey, Santa isn't real? How about Santa Poring?	</stand>
+			<stand>	What should we do~ 	</stand>
+			<stand>	Mastaaaaaaaring~	</stand>
+			<stand>	Let's go~!	</stand>
+			<stand>	Hey!  ...        Boo!~	</stand>
+			<stand>	Poing!! Poing!! Poing!!.;;.. Poing!! Poing!!.... Hey!~ What are you doing here?	</stand>
+			<connect>	Haha, I really like you.	</connect>
+			<connect>	Hey, Hey! 	</connect>
+			<connect>	Hey, you are here!!	</connect>
+			<connect>	I missed you so bad!~	</connect>
+			<connect>	Poing!! Poing!! MHWA..	</connect>
+			<connect>	Hey~ Let's go Let's go~ 	</connect>
+			<levelup>	Wow~ you are getting stronger.	</levelup>
+			<levelup>	Wow! You are strong now!! 	</levelup>
+			<levelup>	Yay~	</levelup>
+			<levelup>	I wanna level up too! hehe	</levelup>
+			<levelup>	Hey! Nice~ :)	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Yum.. I feels like my stomache is gonna explode.	</feeding>
+			<feeding>	I'm... full now 	</feeding>
+			<feeding>	Hey... I'm full...	</feeding>
+			<feeding>	Stop feeding me... I already had 100 Jellopy	</feeding>
+			<feeding>	It's tasty but I'm already so full~	</feeding>
+			<hunting>	What should I do to be strong such as you?	</hunting>
+			<hunting>	Hey~ Go for it! Yay! 	</hunting>
+			<hunting>	Aren't you tired???	</hunting>
+			<hunting>	Hmmmm~ This monster looks tasty...	</hunting>
+			<hunting>	Hey, I think I can do better than you!	</hunting>
+			<danger>	Priest! Please use heal here!	</danger>
+			<danger>	Oh no! Please help us! 	</danger>
+			<danger>	Heeey, are you hungry?	</danger>
+			<danger>	Hey! ~	</danger>
+			<danger>	Hey~ I'm full~ Take it easy	</danger>
+			<dead>	Resurrection !! ....... Hmm... I'm sorry not to learn this skill yet..	</dead>
+			<dead>	Yes... You are dead.. 	</dead>
+			<dead>	Ooops... T_T....... I told you...	</dead>
+			<dead>	Poing!! Poing!! I'm sleepy too..	</dead>
+			<dead>	Hey~ Get up and keep fighting! That monster brought my item on the ground~	</dead>
+			<dead>	Hey~ Why are you laying down? Take a revenge~	</dead>
+			<stand>	Why can't I fight yet?	</stand>
+			<stand>	Yay, now I'm Mastering! Can I be Angeling or Ghostring?	</stand>
+			<stand>	Hey what are you doing here? 	</stand>
+			<stand>	Hang~ Hang~~ Hang out~~~	</stand>
+			<stand>	Poing!! Poinggg~~~~ Po!	</stand>
+			<connect>	Come here, I was waiting for you!	</connect>
+			<connect>	Yay! You are back! 	</connect>
+			<connect>	Heyyyyyy~~ Let's get into adventure~~~~	</connect>
+			<connect>	Heyyyy finally you are here! I missed you..	</connect>
+			<connect>	Hello Hello	</connect>
+			<levelup>	Fanfare~!~! Congrats~	</levelup>
+			<levelup>	Did you see? You leveled up!! 	</levelup>
+			<levelup>	WOW Level up~!~~~ +_+	</levelup>
+			<levelup>	Wow~~~ Congrats~!!	</levelup>
+			<levelup>	Hey~! Congrats!!~	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Hey..... You wanna make me Sticky Mucus?..	</feeding>
+			<feeding>	No..No more.. 	</feeding>
+			<feeding>	I'm full already... It feels bad...	</feeding>
+			<feeding>	No! Stop feeding me....	</feeding>
+			<feeding>	Hey, hey. I'm already quite fat. Even fatter than Savage...	</feeding>
+			<feeding>	No more~ Cupet doesn't like to overeat	</feeding>
+			<hunting>	Yup yup! Go for it!! 	</hunting>
+			<hunting>	I'm too full to speed up..	</hunting>
+			<hunting>	Hey hey, I want to hunt monsters too~	</hunting>
+			<hunting>	Hey... Slow down!	</hunting>
+			<danger>	Hey..... Dangerous...	</danger>
+			<danger>	H..Hey...B...Blood!! 	</danger>
+			<danger>	Drink some potion!	</danger>
+			<danger>	Oh no?!... You are bleeding..	</danger>
+			<dead>	Hey... Can I lay down besides you? I'm too full to move now..	</dead>
+			<dead>	No way! Somebody helps my buddy... 	</dead>
+			<dead>	I told you T_T	</dead>
+			<dead>	Silly, you should have drank the potions instead of feeding me this a lot...	</dead>
+			<dead>	Hey... Care of you first...	</dead>
+			<stand>	Sure~ It's so nice to stay here for a while... 	</stand>
+			<stand>	Dear, what are you doing? 	</stand>
+			<stand>	Do you want to sleep?	</stand>
+			<stand>	Look at this~ I'm rolling~~~	</stand>
+			<connect>	Yay, welcome back~!	</connect>
+			<connect>	Yay~ hello! 	</connect>
+			<connect>	Hey, Hey! I was waiting for you...	</connect>
+			<connect>	You are here now! I miss you so bad!	</connect>
+			<levelup>	I wanna level up too~	</levelup>
+			<levelup>	Yay! you leveled up!! 	</levelup>
+			<levelup>	I knew it! You are great....	</levelup>
+			<levelup>	You are stunning~ 	</levelup>
+			<levelup>	Congratulation~ Awesome!	</levelup>
+		</so_full>
+
+	</mastering>
+	<savage>
+
+		<hungry>
+			<feeding>	It's a piece of cake! 	</feeding>
+			<hunting>	We cannot eat it..	</hunting>
+			<danger>	Oink~ You better not to fight with that strong monster.	</danger>
+			<dead>	Oink Oink... I'm afraid.. 	</dead>
+			<stand>	Why don't you care of me before I'm hungry?	</stand>
+			<connect>	Oink, Oink~ Hello, Sir~	</connect>
+			<levelup>	Congrats~ Please give me some food now..	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Oink, Oink~ I was hungry!	</feeding>
+			<hunting>	Oink... Let's eat something if you beat this..	</hunting>
+			<hunting>	Oink.. You don't feed me... You're addicted to hunt.. 	</hunting>
+			<danger>	Oink~! Oink~! OINNKKK~~ 	</danger>
+			<danger>	Oink~ You'd better run away when you are in danger~ 	</danger>
+			<dead>	Oink.. What if they prey on me? 	</dead>
+			<dead>	Oink.. I'm not that fat... Hey you should wake up.. 	</dead>
+			<stand>	Oink Oink.. If you don't feed me, I won't follow you!	</stand>
+			<stand>	Oink Oink.. I miss my mom..	</stand>
+			<connect>	Oink Oink~ Give me some food~ Oink~~	</connect>
+			<connect>	Oink~ You should feed me first.	</connect>
+			<levelup>	Oink Oink~ You level up! Now let's eat something!	</levelup>
+			<levelup>	Oink Oink~ Congrat! Let's go to eat something~~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Oink Oink, so tasty!	</feeding>
+			<hunting>	Am I helpful for you a bit?	</hunting>
+			<hunting>	Even though I've gotten bigger... Pet cannot fight..	</hunting>
+			<danger>	Let's go back home when you are in danger.	</danger>
+			<danger>	Don't you have potion? you should drink one.	</danger>
+			<dead>	Oink~ Hey, get up!~	</dead>
+			<dead>	Help us... Isn't there anybody?	</dead>
+			<dead>	Hmmm... I cannot revive you though...	</dead>
+			<stand>	I became Savage... Am I cool?	</stand>
+			<stand>	Well.. What if I weren't a pet...	</stand>
+			<stand>	I wanted to meet good master just like you!	</stand>
+			<connect>	Oink! Let's have fun in the dense wood!	</connect>
+			<levelup>	LV UP! You look strong now as much as I do.	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	TASTY! Hmm.... I will be a pig if I eat too much..	</feeding>
+			<hunting>	Wow now you are strong as much as I am !	</hunting>
+			<danger>	Hmmm... You better not to die....  Please don't leave me alone here..	</danger>
+			<dead>	No way~ I'm scared... Please get up~!	</dead>
+			<stand>	I like everything but especially carrot the most.	</stand>
+			<stand>	I will follow you whatever you say~	</stand>
+			<stand>	I sometimes miss the soup that I used to eat..	</stand>
+			<connect>	Oink Oink~ Where have you been all day long!	</connect>
+			<levelup>	Wow Lv up! I'm a cool pig just like you~ 	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Ooops... Stop... I don't want to be fat~!	</feeding>
+			<hunting>	Oink... I don't want to do anything...	</hunting>
+			<danger>	Oink, Oink! It's dangerous... 	</danger>
+			<danger>	SOS SOS HELP!... Please heal my master! 	</danger>
+			<dead>	Oink... Are you dead?	</dead>
+			<dead>	Hmmm.. You are laying down.... I'd like to lay down too... I'm sleepy... Oink...	</dead>
+			<stand>	Oink, Oink.. I'm full..	</stand>
+			<stand>	Let's take a nap....	</stand>
+			<stand>	Hmm.... I need something to put my head on...	</stand>
+			<connect>	Oink~ I'm full, let's take a nap a bit~	</connect>
+			<levelup>	You level up! Let's take a rest.	</levelup>
+		</so_full>
+
+	</savage>
+	<high_orc>
+
+		<hungry>
+			<feeding>	Your day will come.	</feeding>
+			<feeding>	Thanks.	</feeding>
+			<feeding>	I was hungry.	</feeding>
+			<feeding>	Thanks.	</feeding>
+			<hunting>	Sir, let's eat something first.	</hunting>
+			<hunting>	You are so cool !!	</hunting>
+			<hunting>	You are strong and it looks weak!	</hunting>
+			<hunting>	I'm fine even though I'm so hungry!	</hunting>
+			<danger>	It looks dangerous.	</danger>
+			<danger>	Take care !!	</danger>
+			<danger>	Don't get tired!	</danger>
+			<danger>	What a fool.. I will defend my master!	</danger>
+			<dead>	Oh...Oh no...	</dead>
+			<dead>	Sir !! Come on !!	</dead>
+			<dead>	Get up, please...	</dead>
+			<dead>	Oh gosh... Who killed you?..	</dead>
+			<stand>	Did you go to the restroom?	</stand>
+			<stand>	Are you sleeping?	</stand>
+			<stand>	Don't forget to stay hungry!!	</stand>
+			<connect>	Sir, you are here.	</connect>
+			<connect>	Good morning, Sir! But the breakfast seems not to be ready.	</connect>
+			<connect>	Morning, Sir.	</connect>
+			<connect>	Good morning. I stay hungry until now.	</connect>
+			<levelup>	Please take care of us as well....	</levelup>
+			<levelup>	I knew it!! Sir, you are awesome.	</levelup>
+			<levelup>	Now you got strong, right?..	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Master, I was a little hungry...	</feeding>
+			<feeding> Thanks for the food!! </feeding>
+			<feeding> Thank you for your sincerity, master... </feeding>
+			<feeding> I was already feeling a little hungry, thank you.	</feeding>
+			<hunting> It is indeed our master!! </hunting>
+			<hunting> You're strong now. </hunting>
+			<hunting> Your swing is very good today~ </hunting>
+			<danger> How about you retreat? </danger>
+			<danger> Drink the potion!! </danger>
+			<danger> Master! Show them what you got!	</danger>
+			<danger> Looks like the kids are on a roll today. </danger>
+			<dead>	Oh no... Master!!	</dead>
+			<dead> If only you would give me something to eat now... </dead>
+			<dead> Are you sleeping? </dead>
+			<dead>	Ah~ What was close!!	</dead>
+			<stand> We are always on edge.	</stand>
+			<stand> We'll be waiting for you!! </stand>
+			<stand> Did you get a call? </stand>
+			<stand> I'm getting a little hungry...	</stand>
+			<connect>	Welcome back. </connect>
+				<connect> I've been waiting all this time to eat with you!! </connect>
+			<connect>	Welcome back!	</connect>
+			<connect>	Welcome back~ I am little bit sick today.	</connect>
+			<levelup> Congratulations </levelup>
+			<levelup> Master!! Hurray!! Please give me a salary!! </levelup>
+			<levelup> What level are you? </levelup>
+			<levelup> You finally made it! </levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Thanks for the food.	</feeding>
+			<feeding>	Thanks for the food !!	</feeding>
+			<feeding>	Join me, master!	</feeding>
+			<feeding> I am confident in one thing: eating.	</feeding>
+			<hunting> You'll be gentle with him, won't you? </hunting>
+			<hunting> Now that's a master I respect!! </hunting>
+			<hunting> I think you're getting the right posturing. </hunting>
+			<hunting> Attacking is the point. Aim for the target! </hunting>
+			<danger> This is dangerous! </danger>
+			<danger> I don't want my master to die!!! </danger>
+			<danger> Heads up, my master~ </danger>
+			<danger> Master, it's time to show off your special move!! </danger>
+			<dead>	 No, they're after my master...	</dead>
+			<dead>	It's because I'm not good enough. Master, please kill me!!!</dead>
+			<dead>	Are you dead again?	</dead>
+			<dead> I can't believe you died like this... </dead>
+			<stand>	Won't you go out with the boys? 	</stand>
+			<stand> I will always protect you!! </stand>
+			<stand> Did you get a message? </stand>
+			<stand> Teach me the way of a true man~ </stand>
+			<connect>	Welcome back!	</connect>
+			<connect> Welcome back!! We'll make sure you have a great hunt today!! </connect>
+			<connect> Good morning, master, we're on duty. </connect>
+			<connect> Master welcome back~ We've been waiting a long time. </connect>
+			<levelup> You look great. </levelup>
+			<levelup> I will be by my master's side forever!! </levelup>
+			<levelup> Congratulations! </levelup>
+			<levelup> You are living proof of a true man~ </levelup>
+		</noting>
+
+		<full>
+			<feeding>	Master, your heart is so warm!</feeding>
+			<feeding>   Master please eat!! I'm fine!! 	</feeding>
+			<feeding>	Thank you, thank you, thank you, master! Thank you, thank you, master?	</feeding>
+			<feeding>	Is it a ration? I will eat very gratefully and well. 	</feeding>
+			<hunting>	The sight of you has taken us captive.	</hunting>
+			<hunting>	You are the master!! Please pass it on to me too!! 	</hunting>
+			<hunting>	Master is coming! Move out of the way~ 	</hunting>
+			<hunting>	My master's shoulders are stronger today~ 	</hunting>
+			<danger>	Master! Leave it to us. 	</danger>
+			<danger>	Avoid!!	</danger>
+			<danger>	There! Give my master some heals! 	</danger>
+			<danger>	Master, please be gentle to yourself~	</danger>
+			<dead>	Master, we're always here for you.	</dead>
+			<dead>	I apologize!! We'll be sure to protect you next time!! 	</dead>
+			<dead>  I will kidnap one Priest!	</dead>
+			<dead>	No, Master!! I should be the one to destroy these... 	</dead>
+			<stand>	I have always considered it an honor to serve you, my master.	</stand>
+			<stand>	How can I help you?	</stand>
+			<stand>	I'm waiting! 	</stand>
+			<stand>	I wonder if there's a nice female orc around? I've been a bit lonely lately...	</stand>
+			<connect>	Welcome back!	</connect>
+			<connect>	We've been waiting for you!! We'll serve you well today!!	</connect>
+			<connect>	Master is here. Be quiet!	</connect>
+			<connect>	Welcome back~ My condition is very good today. 	</connect>
+			<levelup>	We've already fallen in love with our master, who is getting more and more handsome by the day.	</levelup>
+			<levelup>	Cheers to our master~ Aja-ja-ja~~~!!	</levelup>
+			<levelup>	I'll sing you a song! You're the best!	</levelup>
+			<levelup>	You are so handsome master!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Master, your heart is so warm!</feeding>
+			<feeding>	 I'm fine!! You can stop!	</feeding>
+			<feeding>	 Please stop...I've had enough, my master.	</feeding>
+			<feeding>	 I feel like my stomach is about to explode~	</feeding>
+			<hunting>	Well, if you're going to take on such an opponent in person...., I'll go first.	</hunting>
+			<hunting>	Master, shall I step forward?? 	</hunting>
+			<hunting>	You look like you're in good shape.	</hunting>
+			<hunting>	Let's clean up this area today!	</hunting>
+			<danger>	You're in danger. Are you sure you're not wearing an armor?	</danger>
+			<danger>	Master!! Take it easy!!	</danger>
+			<danger>	I don't have the heal skill...	</danger>
+			<danger>	You bad guys! I will protect my master. 	</danger>
+			<dead>	Well, well, well, well....	</dead>
+			<dead>	Rise, my master!!! Show me your power once more!! 	</dead>
+			<dead>	Master!! Master!! Master!!!!!!!!!!!!!!!!! 	</dead>
+			<stand>	With you, there's nothing to fear.	</stand>
+			<stand>	With you and me,... And this cigarette, we're invincible, hahaha	</stand>
+			<stand>	I will always be by your side!!	</stand>
+			<stand>	Are you restoring the SP?	</stand>
+			<stand>	Master, your technique has become very exquisite. 	</stand>
+			<connect>	May the power of the Orcish Sword always be with you, Master.		</connect>
+			<connect>	I've been waiting for you!!! Where are you going to conquer today!!	</connect>
+			<connect>	 Greetings, my master.	</connect>
+			<connect>	Welcome~ You look unusually nice today~ 	</connect>
+			<levelup>	Oh, you're getting stronger every day.	</levelup>
+			<levelup>	It's our master after all!! I'm very happy!!	</levelup>
+			<levelup>	Congratulations!	</levelup>
+			<levelup>	It's as if a dragon is flying into the sky~	</levelup>
+		</so_full>
+
+	</high_orc>
+
+
+
 </monster_talk_table>

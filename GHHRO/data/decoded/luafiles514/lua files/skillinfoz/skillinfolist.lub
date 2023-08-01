@@ -2502,6 +2502,28 @@ AttackRange = {1}
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 11, y = 11}
+, 
+[2] = {x = 15, y = 15}
+, 
+[3] = {x = 19, y = 19}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 27, y = 27}
+, 
+[6] = {x = 11, y = 11}
+, 
+[7] = {x = 15, y = 15}
+, 
+[8] = {x = 19, y = 19}
+, 
+[9] = {x = 23, y = 23}
+, 
+[10] = {x = 27, y = 27}
+}
 }
 , 
 [SKID.EL_CIRCLE_OF_FIRE] = {"EL_CIRCLE_OF_FIRE"; SkillName = "Circle of Fire", MaxLv = 1, 
@@ -2530,42 +2552,136 @@ AttackRange = {9}
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {6, 6, 6, 6, 6}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
 }
 , 
 [SKID.NPC_PULSESTRIKE] = {"NPC_PULSESTRIKE"; SkillName = "Pulse Strike", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 15, y = 15}
+, 
+[2] = {x = 15, y = 15}
+, 
+[3] = {x = 15, y = 15}
+, 
+[4] = {x = 15, y = 15}
+, 
+[5] = {x = 15, y = 15}
+}
 }
 , 
 [SKID.NPC_HELLJUDGEMENT] = {"NPC_HELLJUDGEMENT"; SkillName = "Hell\'s Judgement", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 29, y = 29}
+, 
+[2] = {x = 29, y = 29}
+, 
+[3] = {x = 29, y = 29}
+, 
+[4] = {x = 29, y = 29}
+, 
+[5] = {x = 29, y = 29}
+, 
+[6] = {x = 29, y = 29}
+, 
+[7] = {x = 29, y = 29}
+, 
+[8] = {x = 29, y = 29}
+, 
+[9] = {x = 29, y = 29}
+, 
+[10] = {x = 29, y = 29}
+}
 }
 , 
 [SKID.NPC_WIDESILENCE] = {"NPC_WIDESILENCE"; SkillName = "Bedlam", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
 }
 , 
 [SKID.NPC_WIDEFREEZE] = {"NPC_WIDEFREEZE"; SkillName = "Frozen Heart", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
 }
 , 
 [SKID.NPC_WIDEBLEEDING] = {"NPC_WIDEBLEEDING"; SkillName = "Bloody Party", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
 }
 , 
 [SKID.NPC_WIDESTONE] = {"NPC_WIDESTONE"; SkillName = "Medusa\'s Stare", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
 }
 , 
 [SKID.NPC_WIDECONFUSE] = {"NPC_WIDECONFUSE"; SkillName = "Confusion Rule", MaxLv = 5, 
@@ -2584,6 +2700,28 @@ AttackRange = {1, 1, 1, 1, 1}
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+SkillScale = {
+[1] = {x = 11, y = 11}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 11, y = 11}
+, 
+[4] = {x = 11, y = 11}
+, 
+[5] = {x = 11, y = 11}
+, 
+[6] = {x = 11, y = 11}
+, 
+[7] = {x = 11, y = 11}
+, 
+[8] = {x = 11, y = 11}
+, 
+[9] = {x = 11, y = 11}
+, 
+[10] = {x = 29, y = 29}
+}
 }
 , 
 [SKID.MC_MAMMONITE] = {"MC_MAMMONITE"; SkillName = "Mammonite", MaxLv = 10, 
@@ -10118,6 +10256,206 @@ _NeedSkillList = {
 SpAmount = {0}
 , bSeperateLv = false, 
 AttackRange = {1}
+}
+, 
+[SKID.NPC_HELLJUDGEMENT2] = {"NPC_HELLJUDGEMENT2"; SkillName = "Demonic Hell\'s Judgement", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 29, y = 29}
+, 
+[2] = {x = 29, y = 29}
+, 
+[3] = {x = 29, y = 29}
+, 
+[4] = {x = 29, y = 29}
+, 
+[5] = {x = 29, y = 29}
+, 
+[6] = {x = 29, y = 29}
+, 
+[7] = {x = 29, y = 29}
+, 
+[8] = {x = 29, y = 29}
+, 
+[9] = {x = 29, y = 29}
+, 
+[10] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_EVILLAND2] = {"NPC_EVILLAND2"; SkillName = "Demonic Evil Land", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {7, 7, 7, 7, 7, 7, 7, 7, 7, 7}
+, 
+SkillScale = {
+[1] = {x = 11, y = 11}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 11, y = 11}
+, 
+[4] = {x = 11, y = 11}
+, 
+[5] = {x = 11, y = 11}
+, 
+[6] = {x = 13, y = 13}
+, 
+[7] = {x = 15, y = 15}
+, 
+[8] = {x = 19, y = 19}
+, 
+[9] = {x = 23, y = 23}
+, 
+[10] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDESILENCE2] = {"NPC_WIDESILENCE2"; SkillName = "Demonic Bedlam", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDEFREEZE2] = {"NPC_WIDEFREEZE2"; SkillName = "Demonic Frozen Heart", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDEBLEEDING2] = {"NPC_WIDEBLEEDING2"; SkillName = "Demonic Bloody Party", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDESTONE2] = {"NPC_WIDESTONE2"; SkillName = "Demonic Medusa\'s Stare", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDECONFUSE2] = {"NPC_WIDECONFUSE2"; SkillName = "Demonic Confusion Rule", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDESLEEP2] = {"NPC_WIDESLEEP2"; SkillName = "Demonic Morpheus Slumber", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDESTUN2] = {"NPC_WIDESTUN2"; SkillName = "Demonic Stunning Gaze", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.NPC_WIDECURSE2] = {"NPC_WIDECURSE2"; SkillName = "Demonic Cursed Fate", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 29, y = 29}
+}
 }
 }
 

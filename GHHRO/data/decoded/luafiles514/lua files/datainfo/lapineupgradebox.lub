@@ -502,6 +502,62 @@ TargetItems = {
 {"S_Penetration_Armor", 24433}
 , 
 {"S_Tempest_Armor", 24424}
+, 
+{"S_Penetration_Weapon", 24432}
+, 
+{"S_Tempest_Weapon", 24423}
+, 
+{"S_Penetration_Weapon", 24432}
+, 
+{"S_Tempest_Weapon", 24423}
+, 
+{"S_Penetration_Weapon", 24432}
+, 
+{"S_Tempest_Weapon", 24423}
+, 
+{"S_MortalBlow_Weapon", 24370}
+, 
+{"S_MortalBlow_Earring", 24371}
+, 
+{"S_MortalBlow_Pendent", 24372}
+, 
+{"S_Exe_Ho_Weapon", 24434}
+, 
+{"S_Viv_Dr_Weapon", 24437}
+, 
+{"S_Sci_Hu_Weapon", 24436}
+, 
+{"S_Fis_In_Weapon", 24435}
+, 
+{"S_Exo_Co_Weapon", 24438}
+, 
+{"S_M_Exo_Co_Weapon", 24427}
+, 
+{"S_M_Viv_Dr_Weapon", 24428}
+, 
+{"S_M_Sci_Hu_Weapon", 24429}
+, 
+{"S_M_Fis_In_Weapon", 24430}
+, 
+{"S_M_Exe_Ho_Weapon", 24431}
+, 
+{"S_Blitz_Earring", 24217}
+, 
+{"S_Blitz_Pendent", 24218}
+, 
+{"S_AutoSpell_Shield", 24722}
+, 
+{"S_AutoSpell_Armor", 24723}
+, 
+{"S_AutoSpell_Shoes", 24724}
+, 
+{"S2_Bearers_Shoes", 24338}
+, 
+{"S2_Bearers_Armor", 24337}
+, 
+{"S2_Bearers_Pendent", 24321}
+, 
+{"S_EXP_Shield", 24683}
 }
 , NeedSource_String = "Shadow Item"}
 , 
