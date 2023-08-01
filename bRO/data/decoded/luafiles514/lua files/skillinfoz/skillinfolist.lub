@@ -4560,6 +4560,30 @@ _NeedSkillList = {
 }
 }
 , 
+[SKID.AB_VITUPERATUM] = {"AB_VITUPERATUM"; SkillName = "Vituperatum", MaxLv = 5, 
+SpAmount = {144, 120, 106, 92, 78}
+, bSeperateLv = false, 
+AttackRange = {3, 3, 3, 5, 5}
+, 
+_NeedSkillList = {
+{SKID.AB_EXPIATIO, 1}
+, 
+{SKID.AB_EPICLESIS, 1}
+}
+}
+, 
+[SKID.AB_CONVENIO] = {"AB_CONVENIO"; SkillName = "Convenio", MaxLv = 1, 
+SpAmount = {70}
+, bSeperateLv = false, 
+AttackRange = {1}
+, 
+_NeedSkillList = {
+{SKID.AB_ANCILLA, 1}
+, 
+{SKID.AB_ORATIO, 5}
+}
+}
+, 
 [SKID.AB_JUDEX] = {"AB_JUDEX"; SkillName = "Judex", MaxLv = 5, 
 SpAmount = {20, 23, 26, 29, 32}
 , bSeperateLv = true, 
@@ -4571,7 +4595,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.AB_ADORAMUS] = {"AB_ADORAMUS"; SkillName = "Adoramus", MaxLv = 10, 
-SpAmount = {20, 24, 28, 32, 36, 40, 44, 48, 52, 56}
+SpAmount = {32, 40, 48, 56, 64, 72, 80, 88, 96, 104}
 , bSeperateLv = true, 
 AttackRange = {11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
 , 
@@ -8525,7 +8549,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.AB_RENOVATIO] = {"AB_RENOVATIO"; SkillName = "Renovatio", MaxLv = 1, 
-SpAmount = {70}
+SpAmount = {240}
 , bSeperateLv = false, 
 AttackRange = {11}
 , 
@@ -8635,7 +8659,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.AB_ANCILLA] = {"AB_ANCILLA"; SkillName = "Criar Ancilla", MaxLv = 1, 
-SpAmount = {30}
+SpAmount = {10}
 , bSeperateLv = false, 
 AttackRange = {1}
 , 
@@ -11748,6 +11772,12 @@ AttackRange = {1, 1, 1, 1, 1}
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.ALL_THANATOS_RECALL] = {"ALL_THANATOS_RECALL"; SkillName = "Para Thanatos", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
 }
 }
 

@@ -19642,5 +19642,57 @@ Description = {"Voc\234 j\225 completou essa missão na Ilusão do Ursinho. Aguard
 [11572] = {Title = "Bastão Ilusional", IconName = "ico_nq.bmp", 
 Description = {"Voc\234 iniciou a missão de criar um Bastão Ilusional, termine de trazer os itens pedidos pelo NPC para finalizar a produção."}
 , Summary = "Traga os itens"}
+, 
+[5847] = {Title = "Ilusão de Luanda", IconName = "ico_nq.bmp", 
+Description = {"Conte para o <NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> o que voc\234 viu."}
+, Summary = "", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "1.120.000", RewardJEXP = "650.000"}
+, 
+[5848] = {Title = "Amostra de Megalito", IconName = "ico_nq.bmp", 
+Description = {"Estamos tendo problemas com o Cl\227 dos Megalitos. Elimine alguns deles e nos traga 3 <ITEM>[Símbolos de Megalito]<INFO>25638</INFO></ITEM> como prova da sua caçada."}
+, Summary = "3 Símbolos de Megalito", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "4.300.000", RewardJEXP = "2.800.000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[5849] = {Title = "[Espera] Amostra de Megalito", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera voc\234 amanh\227."}
+, Summary = "Volte amanh\227.", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255}
+, 
+[5850] = {Title = "Amostra de Wootan", IconName = "ico_nq.bmp", 
+Description = {"Estamos tendo problemas com o Cl\227 dos Wootans. Elimine alguns deles e nos traga 3 <ITEM>[Símbolos de Wootan]<INFO>25633</INFO></ITEM> como prova da sua caçada."}
+, Summary = "3 Símbolos de Wootan", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "4.300.000", RewardJEXP = "2.800.000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[5851] = {Title = "[Espera] Amostra de Wootan", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera voc\234 amanh\227."}
+, Summary = "Volte amanh\227.", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255}
+, 
+[5852] = {Title = "Caça ao Megalito", IconName = "ico_nq.bmp", 
+Description = {"Por favor, elimine 5 <NAVI>[Trilobita Ancestral]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, 5 <NAVI>[Golem Ancestral]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI> e 5 <NAVI>[Megalith Ancestral]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI> e reporte para o <NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>."}
+, Summary = "Elimine os monstros", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "4.300.000", RewardJEXP = "2.800.000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[5853] = {Title = "[Espera] Caça ao Megalito", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera voc\234 amanh\227."}
+, Summary = "Volte amanh\227.", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255}
+, 
+[5854] = {Title = "Caça ao Wootan", IconName = "ico_nq.bmp", 
+Description = {"Por favor, elimine 5 <NAVI>[Disparador de Pedras]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, e <NAVI>[Arqueiro Wootan]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI> e 5 <NAVI>[Lutador Wootan]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI> e reporte para o <NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>."}
+, Summary = "Elimine os monstros", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "4300000", RewardJEXP = "2800000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[5855] = {Title = "[Espera] Caça ao Wootan", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera voc\234 amanh\227."}
+, Summary = "Volte amanh\227.", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255}
 }
 

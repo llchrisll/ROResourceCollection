@@ -1254,6 +1254,76 @@ SourceItems = {
 {"Oriental_Sword", 1, 21038}
 }
 , NeedSource_String = "Espada Ancestral"}
+, 
+Blue_Crystal_Staff_Cube = {ItemID = 100396, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blue_Crystal_Staff", 1, 640004}
+}
+, NeedSource_String = "Báculo Ancestra"}
+, 
+Narcis_Bow_Cube = {ItemID = 100329, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Narcis_Bow", 1, 18170}
+}
+, NeedSource_String = "Arco Ancestral"}
+, 
+Hasty_Mix = {ItemID = 100058, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 9, 
+SourceItems = {
+{"S2_Hasty_Shoes", 1, 24320}
+, 
+{"S_Hasty_Armor", 1, 24197}
+, 
+{"S_Hasty_Shoes", 1, 24196}
+}
+, NeedSource_String = "Sombrio Fugaz"}
+, 
+InfinityShadow_Mix = {ItemID = 23474, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Infinity_Earring", 1, 24150}
+, 
+{"S_Infinity_Pendant", 1, 24151}
+}
+, NeedSource_String = "Sombrio do Infinito"}
+, 
+StabilityShadow_Mix = {ItemID = 23324, NeedCount = 3, NeedRefineMin = 5, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Plasterer\'s_Armor", 1, 24091}
+, 
+{"S_Plasterer\'s_Shoes", 1, 24092}
+, 
+{"S_Insomniac_Armor", 1, 24093}
+, 
+{"S_Insomniac_Shoes", 1, 24094}
+, 
+{"S_Peerless_Armor", 1, 24095}
+, 
+{"S_Peerless_Shoes", 1, 24096}
+, 
+{"S_Adurate_Armor", 1, 24097}
+, 
+{"S_Adurate_Shoes", 1, 24098}
+, 
+{"Unfreez_Weapon_S", 1, 24099}
+, 
+{"Unfreeze_Earing_S", 1, 24100}
+, 
+{"Unfreeze_Pendent_S", 1, 24101}
+, 
+{"Vitality_Earing_S", 1, 24102}
+, 
+{"Vitality_Pendant_S", 1, 24103}
+, 
+{"S_Neutral_Weapon", 1, 24104}
+, 
+{"S_Neutral_Earring", 1, 24105}
+, 
+{"S_Neutral_Pendent", 1, 24106}
+, 
+{"S_Curse_Lift_Earring", 1, 24107}
+, 
+{"S_Curse_Lift_Pendent", 1, 24108}
+}
+, NeedSource_String = "Efeitos Negativos"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

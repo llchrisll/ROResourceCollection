@@ -1401,3 +1401,14 @@
 300308#de Meyer#
 300309#Autografado por Helmut#
 300310#de Helmut#
+//*****************************************************
+//---------------Update em 2023-07-11------------------
+//*****************************************************
+27291#das Juntas#
+27292#da Estaláctica#
+27293#Circular#
+27294#do Alto Perigo#
+27295#Disparante#
+27296#da Arquearia#
+27297#da Luta#
+27298#do Wootan#

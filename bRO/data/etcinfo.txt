@@ -22,7 +22,7 @@ loadingscreen#
 //weather#gonryun.rsw#snow#
 //weather#manuk.rsw#snow#
 //weather#dicastes01.rsw#snow#
-//weather#comodo.rsw#pokjuk#
+weather#comodo.rsw#pokjuk#
 //weather#pay_arche.rsw#sakura#
 //event#1#
 

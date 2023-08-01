@@ -5965,4 +5965,52 @@ descript = {
 {"Bônus de DEF e DEFM"}
 }
 }
+-- DECOMPILER ERROR at PC12317: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_RENOVATIO] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Renovatio", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Regenera o HP máx."}
+, 
+{"a cada 5 segundos."}
+}
+}
+-- DECOMPILER ERROR at PC12344: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ANCILLA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Ancilla", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Efetiv. cura +15%."}
+, 
+{"Regen. SP +30%."}
+}
+}
+-- DECOMPILER ERROR at PC12368: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Lauda Agnus", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de HP."}
+}
+}
+-- DECOMPILER ERROR at PC12392: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LAUDARAMUS] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Lauda Ramus", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de Dano Crítico."}
+}
+}
 
