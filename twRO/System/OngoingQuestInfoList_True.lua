@@ -13270,7 +13270,7 @@ Description = {"光靠捕野豬似乎很難收到成效，因此需要特別措施，任務是消滅野豬後收
 , Summary = "收集野豬毛30個"}
 , 
 [12218] = {Title = "熔岩的精髓製作方法", 
-Description = {"為了完成熔岩的精髓需要把燃燒的心臟40個放在托爾火山動穴2樓最熱的地方以強大力量精製出來才可以，這是為了魔法書(毀滅性慧星)而使用精髓"}
+Description = {"為了完成熔岩的精髓需要把燃燒的心臟40個放在托爾火山動穴2樓最熱的地方以強大力量精製出來才可以，這是為了魔法書(毀滅彗星)而使用精髓"}
 , Summary = "thor_v02163104附近"}
 , 
 [12219] = {Title = "火燄的精髓製作方法", 
@@ -26936,7 +26936,7 @@ Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學
 , Summary = ""}
 , 
 [19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[4月的晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>"}
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[7月的晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>"}
 , Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
@@ -30236,7 +30236,7 @@ Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學
 , Summary = ""}
 , 
 [19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[4月的晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>"}
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[7月的晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>"}
 , Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
@@ -30442,5 +30442,397 @@ Description = {"漲潮時無法經由沉沒之塔的入口進入。"}
 [12542] = {Title = "女神的庇佑", 
 Description = {"女神的庇佑與你同在。伴隨庇護抵達定點，有助於成長。"}
 , Summary = "請快下來"}
+, 
+[17528] = {Title = "發送伊甸園基本裝備", IconName = "ico_nq.bmp", 
+Description = {"去見見以後會持續提供裝備的管理員吧!先去找負責防具的管理員<NAVI>[涂崙]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>。"}
+, Summary = "管理員涂崙"}
+, 
+[17529] = {Title = "發送伊甸園基本裝備", IconName = "ico_nq.bmp", 
+Description = {"接下來去見負責高級武器的<NAVI>[米賀爾]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>吧!"}
+, Summary = "管理員米賀爾"}
+, 
+[17530] = {Title = "發送伊甸園基本裝備", IconName = "ico_nq.bmp", 
+Description = {"現在該領取你可以用到的裝備了，快去找<NAVI>[皮凱伊]<INFO>moc_para01,110,79,0,101,0,</INFO></NAVI>吧!"}
+, Summary = "管理員皮凱伊"}
+, 
+[17531] = {Title = "發送伊甸園基本裝備", IconName = "ico_nq.bmp", 
+Description = {"跟<NAVI>[晤勒]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>說要領取所有基本裝備就好。"}
+, Summary = "向教官晤勒報告"}
+, 
+[17532] = {Title = "發送伊甸園影子裝備", IconName = "ico_nq.bmp", 
+Description = {"若想領取額外裝備，去諮詢<NAVI>[保亞]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>吧!"}
+, Summary = "諮詢教官保亞"}
+, 
+[17533] = {Title = "發送伊甸園影子裝備", IconName = "ico_nq.bmp", 
+Description = {"若需要影子裝備，去找武器庫的管理員<NAVI>[艾蜜]<INFO>moc_para01,110,91,0,101,0,</INFO></NAVI>吧!"}
+, Summary = "管理員艾蜜"}
+, 
+[17534] = {Title = "發送伊甸園影子裝備", IconName = "ico_nq.bmp", 
+Description = {"向<NAVI>[保亞]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>報告收到影子裝備了，不回報發放記錄的話之後會很麻煩。"}
+, Summary = "向教官保亞報告"}
+, 
+[17535] = {Title = "發送伊甸園基本裝備", IconName = "ico_nq.bmp", 
+Description = {"如果沒有派得上用場的基本裝備，去諮詢旁邊的<NAVI>[晤勒]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>教官吧!"}
+, Summary = "諮詢教官晤勒"}
+, 
+[17536] = {Title = "發送伊甸園高級裝備", IconName = "ico_nq.bmp", 
+Description = {"將橡皮筋15個和犬妖的毛3個交給<NAVI>[涂崙]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>，就可以領取高級防具。"}
+, Summary = "防具材料"}
+, 
+[17537] = {Title = "發送伊甸園高級裝備", IconName = "ico_nq.bmp", 
+Description = {"將老舊的十字鎬15個交給 <NAVI>[米賀爾]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>，就會給你高級武器。"}
+, Summary = "武器材料"}
+, 
+[19000] = {Title = "開枝散葉的大地", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[開枝散葉的大地]<INFO>ecl_fild01,182,93,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺開枝散葉的大地魔物"}
+, 
+[19001] = {Title = "開枝散葉的大地-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19002] = {Title = "冥想大浴池", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[冥想大浴池]<INFO>ba_bath,160,29,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺冥想大浴池魔物"}
+, 
+[19003] = {Title = "冥想大浴池-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19004] = {Title = "圖書館記憶迴廊", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[圖書館記憶迴廊]<INFO>ba_lib,160,13,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺圖書館記憶迴廊魔物"}
+, 
+[19005] = {Title = "圖書館記憶迴廊-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19006] = {Title = "污水處理廠", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[污水處理廠]<INFO>ba_pw02,276,22,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺污水處理廠魔物"}
+, 
+[19007] = {Title = "污水處理廠-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19008] = {Title = "第一魔力發電廠", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[第一魔力發電廠]<INFO>ba_pw01,17,116,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺第一魔力發電廠魔物"}
+, 
+[19009] = {Title = "第一魔力發電廠-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19010] = {Title = "龍巢穴2樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[龍巢穴2樓]<INFO>lasa_dun02,25,171,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000", "^FF0000※分流地圖不列入擊殺。^000000"}
+, Summary = "擊殺龍巢穴2樓魔物"}
+, 
+[19011] = {Title = "龍巢穴2樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19012] = {Title = "彩虹橋高塔", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[彩虹橋高塔]<INFO>ecl_tdun01,56,18,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺惡靈之霧、古靈精怪書"}
+, 
+[19013] = {Title = "彩虹橋高塔-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19014] = {Title = "龍巢穴3樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[龍巢穴3樓]<INFO>lasa_dun03,190,22,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000", "^FF0000※分流地圖不列入擊殺。^000000"}
+, Summary = "擊殺龍巢穴3樓魔物"}
+, 
+[19015] = {Title = "龍巢穴3樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19016] = {Title = "普隆德拉地下監獄", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[普隆德拉地下監獄]<INFO>prt_prison,161,290,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺普隆德拉地下監獄魔物"}
+, 
+[19017] = {Title = "普隆德拉地下監獄-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19018] = {Title = "被入侵的普隆德拉", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺^0000FF被入侵的普隆德拉^000000地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺被入侵的普隆德拉魔物"}
+, 
+[19019] = {Title = "被入侵的普隆德拉-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19020] = {Title = "洛克理奇岩領礦山", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[洛克理奇岩領礦山]<INFO>rockmi1,245,22,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺洛克理奇岩領礦山魔物"}
+, 
+[19021] = {Title = "洛克理奇岩領礦山-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19022] = {Title = "二樓迴廊", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[二樓迴廊]<INFO>gl_cas02_,104,32,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺孤魂怨靈"}
+, 
+[19023] = {Title = "二樓迴廊-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19024] = {Title = "地下碉堡", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺^0000FF地下碉堡^000000地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺惡臭綠腐屍"}
+, 
+[19025] = {Title = "地下碉堡-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19026] = {Title = "實驗洞-OPTATIO", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[實驗洞-OPTATIO]<INFO>verus01,240,63,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺修復機器人、綠惡靈之霧"}
+, 
+[19027] = {Title = "實驗洞-OPTATIO-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19028] = {Title = "時間扭曲的鐘塔二樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[時間扭曲的鐘塔二樓]<INFO>c_tower2_,269,26,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺大笨鐘、惡靈朽魔"}
+, 
+[19029] = {Title = "時間扭曲的鐘塔二樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19030] = {Title = "飼養場-失落的山谷", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[飼養場-失落的山谷]<INFO>ba_lost,162,41,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺飼養場-失落的山谷魔物"}
+, 
+[19031] = {Title = "飼養場-失落的山谷-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19032] = {Title = "時間扭曲的鐘塔三樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[時間扭曲的鐘塔三樓]<INFO>c_tower3_,64,148,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺大鐘怪"}
+, 
+[19033] = {Title = "時間扭曲的鐘塔三樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19034] = {Title = "歐茲峽谷與伊達平原", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[歐茲峽谷與伊達平原]<INFO>ra_fild10,378,284,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺暗灰魔羌、小灰狼"}
+, 
+[19035] = {Title = "歐茲峽谷與伊達平原-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19036] = {Title = "實驗體廢棄場魯杜斯二樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[實驗體廢棄場魯杜斯二樓]<INFO>sp_rudus2,186,257,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺實驗體廢棄場魯杜斯二樓魔物"}
+, 
+[19037] = {Title = "實驗體廢棄場魯杜斯二樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19038] = {Title = "優配擂斯東邊廢墟", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "<NAVI>[優配擂斯東邊廢墟]<INFO>ver_eju,17,148,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺巡邏機器人"}
+, 
+[19039] = {Title = "優配擂斯東邊廢墟-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19040] = {Title = "貝魯茲城", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[貝魯茲城]<INFO>verus02,72,23,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺勘查機器人、探索機器人"}
+, 
+[19041] = {Title = "貝魯茲城-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19042] = {Title = "塔耳塔羅斯儲藏室上層", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[塔耳塔羅斯儲藏室上層]<INFO>ba_2whs01,156,34,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺塔耳塔羅斯儲藏室上層魔物"}
+, 
+[19043] = {Title = "塔耳塔羅斯儲藏室上層-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19044] = {Title = "歐茲迷宮一樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[歐茲迷宮一樓]<INFO>oz_dun01,284,171,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺歐茲迷宮一樓魔物"}
+, 
+[19045] = {Title = "歐茲迷宮一樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19046] = {Title = "實驗體廢棄場魯杜斯三樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[實驗體廢棄場魯杜斯三樓]<INFO>sp_rudus3,364,207,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺實驗體廢棄場魯杜斯三樓魔物"}
+, 
+[19047] = {Title = "實驗體廢棄場魯杜斯三樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19048] = {Title = "朱諾 諾可羅德三樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[朱諾 諾可羅德三樓]<INFO>mag_dun03,119,123,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000", "^FF0000※分流地圖不列入擊殺。^000000"}
+, Summary = "擊殺朱諾 諾可羅德三樓魔物"}
+, 
+[19049] = {Title = "朱諾 諾可羅德三樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19050] = {Title = "塔耳塔羅斯儲藏室下層", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[塔耳塔羅斯儲藏室下層]<INFO>ba_2whs02,337,331,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺塔耳塔羅斯儲藏室下層魔物"}
+, 
+[19051] = {Title = "塔耳塔羅斯儲藏室下層-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19052] = {Title = "克雷斯特漢姆深淵一樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[克雷斯特漢姆深淵一樓]<INFO>gl_cas01_,200,33,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000", "^FF0000※分流地圖不列入擊殺。^000000"}
+, Summary = "擊殺克雷斯特漢姆深淵一樓魔物"}
+, 
+[19053] = {Title = "克雷斯特漢姆深淵一樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19054] = {Title = "灰狼叢林", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[灰狼叢林]<INFO>gw_fild01,274,337,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺灰狼叢林魔物"}
+, 
+[19055] = {Title = "灰狼叢林-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19056] = {Title = "灰狼叢林", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[灰狼叢林]<INFO>gw_fild02,122,384,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺灰狼叢林魔物"}
+, 
+[19057] = {Title = "灰狼叢林-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19058] = {Title = "艾音貝赫礦山三樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[艾音貝赫礦山三樓]<INFO>ein_dun03,268,277,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺艾音貝赫礦山三樓魔物"}
+, 
+[19059] = {Title = "艾音貝赫礦山三樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19060] = {Title = "古代奧丁神殿", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "<NAVI>[古代奧丁神殿]<INFO>odin_past,291,230,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000", "^FF0000※分流地圖不列入擊殺。^000000"}
+, Summary = "擊殺古代奧丁神殿魔物"}
+, 
+[19061] = {Title = "古代奧丁神殿-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19062] = {Title = "毀葛深淵湖水地下洞穴四樓", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[毀葛深淵湖水地下洞穴四樓]<INFO>abyss_04,168,162,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000", "^FF0000※分流地圖不列入擊殺。^000000"}
+, Summary = "擊殺毀葛深淵湖水地下洞穴四樓魔物"}
+, 
+[19063] = {Title = "毀葛深淵湖水地下洞穴四樓-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19064] = {Title = "第二魔力發電廠", IconName = "ico_dq.bmp", 
+Description = {"伊甸園獨家委託", "擊殺<NAVI>[第二魔力發電廠]<INFO>ba_pw03,17,115,0,101,0</INFO></NAVI>地區的魔物後，向高級委託佈告欄回報。", "^FF0000※該地區可能有進場條件。^000000"}
+, Summary = "擊殺第二魔力發電廠魔物"}
+, 
+[19065] = {Title = "第二魔力發電廠-等候", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級委託佈告欄接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[293384] = {Title = "血的教訓", IconName = "ico_ev.bmp", 
+Description = {"聽說正在準備ROS大賽，但補給品不足，將5個<ITEM>[沾血硬幣]<INFO>7642</INFO></ITEM>送給ROS補給官!"}
+, Summary = "沾血硬幣5個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
+, 
+[293385] = {Title = "魔法殘片", IconName = "ico_ev.bmp", 
+Description = {"聽說正在準備ROS大賽，但補給品不足，將5個<ITEM>[吉芬魔法大賽硬幣]<INFO>6671</INFO></ITEM>送給ROS補給官!"}
+, Summary = "吉芬魔法大賽硬幣5個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
+, 
+[293386] = {Title = "基勘特斯的低語", IconName = "ico_ev.bmp", 
+Description = {"聽說正在準備ROS大賽，但補給品不足，將1個<ITEM>[基勘特斯的碎片]<INFO>6803</INFO></ITEM>送給ROS補給官!"}
+, Summary = "基勘特斯的碎片1個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
+, 
+[293387] = {Title = "凝結的物質", IconName = "ico_ev.bmp", 
+Description = {"聽說正在準備ROS大賽，但補給品不足，將10個<ITEM>[凝結的魔力]<INFO>6608</INFO></ITEM>送給ROS補給官!"}
+, Summary = "凝結的魔力10個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
+, 
+[293388] = {Title = "死者甦醒", IconName = "ico_ev.bmp", 
+Description = {"聽說正在準備ROS大賽，但補給品不足，將3個<ITEM>[天地樹葉子]<INFO>610</INFO></ITEM>送給ROS補給官!"}
+, Summary = "天地樹葉子3個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
+, 
+[293389] = {Title = "魔力泉源", IconName = "ico_ev.bmp", 
+Description = {"聽說正在準備ROS大賽，但補給品不足，將5個<ITEM>[超時空魔力]<INFO>25866</INFO></ITEM>送給ROS補給官!"}
+, Summary = "超時空魔力5個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
+, 
+[293390] = {Title = "科技零件", IconName = "ico_ev.bmp", 
+Description = {"聽說正在準備ROS大賽，但補給品不足，將10個<ITEM>[生物研究零件]<INFO>25787</INFO></ITEM>送給ROS補給官!"}
+, Summary = "生物研究零件10個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
+, 
+[293391] = {Title = "ROS補給品支援-等候", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次承接。"}
+, Summary = "凌晨4點重置", CoolTimeQuest = 1, NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
+, 
+[16336] = {Title = "黃金蜜玉米", IconName = "ico_ev.bmp", 
+Description = {"為了讓黃金蜜玉米成熟，到原野和密穴擊殺火熱炙燄魔和火熱爆炎蝙蝠各3隻後，再去找<NAVI>[爆米花博士]<INFO>comodo,159,196,0,101,0</INFO></NAVI>。"}
+, Summary = ""}
+, 
+[16337] = {Title = "黃金蜜玉米", IconName = "ico_ev.bmp", 
+Description = {"到原野和密穴擊殺火熱炙燄魔和火熱爆炎蝙蝠各3隻後，再去找<NAVI>[爆米花博士]<INFO>comodo,159,196,0,101,0</INFO></NAVI>。"}
+, Summary = ""}
+, 
+[16338] = {Title = "黃金蜜玉米-等待", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向克魔島的<NAVI>[爆米花博士]<INFO>comodo,159,196,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16339] = {Title = "克魯德火山", IconName = "ico_ev.bmp", 
+Description = {"依克魯德小幫手<NAVI>[帕奇哈]<INFO>comodo,264,123,0,101,0</INFO></NAVI>的指示，去教訓一頓在克魯德不安分守己的火屬性怪吧!"}
+, Summary = "探索克魯德"}
+, 
+[16340] = {Title = "克魯德火山", IconName = "ico_ev.bmp", 
+Description = {"依克魯德小幫手<NAVI>[帕奇哈]<INFO>comodo,264,123,0,101,0</INFO></NAVI>的指示，去教訓一頓在克魯德不安分守己的火屬性怪吧!"}
+, Summary = "探索克魯德"}
+, 
+[16341] = {Title = "克魯德火山-等待", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。可向克魔島的<NAVI>[帕奇哈]<INFO>comodo,264,123,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16342] = {Title = "養身藥草", IconName = "ico_ev.bmp", 
+Description = {"接受了<NAVI>[葉爾巴]<INFO>comodo,227,190,0,101,0</INFO></NAVI>的委託，去原野和密穴取得神奇藥草3個後回去找葉爾巴吧!"}
+, Summary = ""}
+, 
+[16343] = {Title = "養身藥草", IconName = "ico_ev.bmp", 
+Description = {"去原野和密穴取得神奇藥草3個後回去找<NAVI>[葉爾巴]<INFO>comodo,227,190,0,101,0</INFO></NAVI>吧!"}
+, Summary = ""}
+, 
+[16344] = {Title = "養身藥草-等待", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行，可向克魔島的<NAVI>[葉爾巴]<INFO>comodo,227,190,0,101,0</INFO></NAVI>承接任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16345] = {Title = "美味爆米花", IconName = "ico_ev.bmp", 
+Description = {"爆米花達人的爆米花是米德加爾特中最棒的!"}
+, Summary = ""}
+, 
+[16346] = {Title = "旺盛的營火", IconName = "ico_ev.bmp", 
+Description = {"在<NAVI>[旺盛的營火]<INFO>comodo,289,176,0,101,0</INFO></NAVI>上燒藥草薰香後，90分鐘內攻擊力變強了!90分鐘過後可再燒藥草5個來薰香。"}
+, Summary = "90分鐘後重置"}
+, 
+[16347] = {Title = "智慧的營火", IconName = "ico_ev.bmp", 
+Description = {"在<NAVI>[智慧的營火]<INFO>comodo,294,176,0,101,0</INFO></NAVI>上燒藥草薰香後，90分鐘內魔法攻擊力變強了!90分鐘過後可再燒藥草5個來薰香。"}
+, Summary = "90分鐘後重置"}
+, 
+[16348] = {Title = "犀利的營火", IconName = "ico_ev.bmp", 
+Description = {"在<NAVI>[犀利的營火]<INFO>comodo,299,176,0,101,0</INFO></NAVI> 90分鐘內攻擊速度提升了!90分鐘過後可再燒藥草5個來薰香。"}
+, Summary = "90分鐘後重置"}
+, 
+[16772] = {Title = "爆米花嘉年華，熱情如火!", IconName = "ico_ev.bmp", 
+Description = {"為了獲得漂亮的爆米花嘉年華服飾，需要將20個<ITEM>[炙熱彈珠]<INFO>25341</INFO></ITEM>交給<NAVI>[小鳳]<INFO>comodo.gat,204,143,0,101,0</INFO></NAVI>。"}
+, Summary = "炙熱彈珠20個"}
 }
 

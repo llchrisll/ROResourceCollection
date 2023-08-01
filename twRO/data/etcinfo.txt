@@ -12,20 +12,20 @@ malangdo.rsw#
 pokjuk#
 //file end
 
-prontera.rsw#
-sakura#
-weather#
-alberta.rsw#
-sakura#
-weather#
-geffen.rsw#
-sakura#
-weather#
-izlude.rsw#
-sakura#
-weather#
-hugel.rsw#
-sakura#
+//prontera.rsw#
+//sakura#
+//weather#
+//alberta.rsw#
+//sakura#
+//weather#
+//geffen.rsw#
+//sakura#
+//weather#
+//izlude.rsw#
+//sakura#
+//weather#
+//hugel.rsw#
+//sakura#
 
 //weather#
 //prontera.rsw#

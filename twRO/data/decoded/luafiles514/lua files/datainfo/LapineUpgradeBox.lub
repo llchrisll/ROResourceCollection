@@ -5,6 +5,12 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+Reload_Shadow_Up = {ItemID = 101178, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_S_Reload_Shield", 24746}
+}
+, NeedSource_String = "影子重新裝改良神盾"}
+, 
 Battle_Aura_TW = {ItemID = 102354, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Battle_Aura_Manteau_TW", 480149}
@@ -1608,12 +1614,16 @@ TargetItems = {
 Astrea_Endurance_TW = {ItemID = 101201, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Astrea_Cape", 20905}
+, 
+{"Astraea_Cape_LT", 480338}
 }
 , NeedSource_String = "阿斯特莉亞斗篷"}
 , 
 Mysterious_F_TW = {ItemID = 101151, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Feather_Shield", 460003}
+, 
+{"Feather_Shield_LT_TW", 460053}
 }
 , NeedSource_String = "聖之羽翼神盾"}
 , 
@@ -5321,6 +5331,10 @@ TargetItems = {
 , 
 Shadow2_Op_Box_TW = {ItemID = 100549, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_S_Reload_Shield", 24746}
+, 
+{"S_KingbirdAnc_Weapon", 24745}
+, 
 {"S_CriticalHit_Weapon", 24738}
 , 
 {"S_Durable_Weapon", 24734}
@@ -6299,6 +6313,10 @@ TargetItems = {
 , 
 Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_S_Reload_Shield", 24746}
+, 
+{"S_KingbirdAnc_Weapon", 24745}
+, 
 {"S_Durable_Weapon", 24734}
 , 
 {"S_Durable_Shield", 24735}
@@ -8733,6 +8751,10 @@ TargetItems = {
 , 
 Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_S_Reload_Shield", 24746}
+, 
+{"S_KingbirdAnc_Weapon", 24745}
+, 
 {"S_Durable_Weapon", 24734}
 , 
 {"S_Durable_Shield", 24735}

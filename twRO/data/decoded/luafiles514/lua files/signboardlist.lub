@@ -1007,5 +1007,13 @@ SignBoardList = {
 {"moc_para01", 105, 41, 10, IT_SIGNBOARD, "information\\over_nmtrade.bmp", "伊甸園市集", "#0x00FFFFFF"}
 , 
 {"memohall", 82, 89, 0, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"moc_para01", 110, 79, 10, IT_SIGNBOARD, "item\\C_Popping_Poring_Aura.bmp", "支援基本裝備", "#0x00FFFFFF"}
+, 
+{"moc_para01", 110, 83, 10, IT_SIGNBOARD, "item\\t_sword_of_kingdom.bmp", "支援高級裝備", "#0x00FFFFFF"}
+, 
+{"moc_para01", 110, 87, 10, IT_SIGNBOARD, "item\\md_geffen_shield.bmp", "支援高級防具", "#0x00FFFFFF"}
+, 
+{"moc_para01", 110, 91, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "租賃影子裝備", "#0x00FFFFFF"}
 }
 

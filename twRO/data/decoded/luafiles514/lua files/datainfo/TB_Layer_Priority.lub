@@ -1465,6 +1465,10 @@ Direction = {}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_P_blossom_Hairpin] = {Default = 304}
 , 
+[ACCESSORY_IDs.ACCESSORY_C_Somtam] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wichienmaat_Bangkaew] = {Default = 304, isIgnoreRiding = true}
+, 
 [ACCESSORY_IDs.ACCESSORY_Large_Ribbon_Muffler] = {Default = 303, 
 Direction = {}
 }

@@ -11706,7 +11706,7 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.WL_COMET] = {"WL_COMET"; SkillName = "·´·À¼z¬P", MaxLv = 5, 
+[SKID.WL_COMET] = {"WL_COMET"; SkillName = "·´·À±k¬P", MaxLv = 5, 
 SpAmount = {70, 90, 110, 130, 150}
 , bSeperateLv = true, 
 AttackRange = {11, 11, 11, 11, 11}

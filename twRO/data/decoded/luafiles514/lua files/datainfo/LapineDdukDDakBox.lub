@@ -5,6 +5,122 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+ReloadShadow_Mix = {ItemID = 101181, NeedCount = 3, NeedRefineMin = 9, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Reload_Armor", 1, 24245}
+, 
+{"S_Reload_Shoes", 1, 24243}
+, 
+{"S_Reload_Shield", 1, 24244}
+, 
+{"S2_Reload_Armor", 1, 24331}
+}
+, NeedSource_String = "影子重新裝"}
+, 
+UseItem_Mix_Box_TW = {ItemID = 102384, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
+SourceItems = {
+{"Superb_Fish_Slice", 100, 14524}
+, 
+{"Snow_Flower", 150, 12739}
+, 
+{"Pill_", 150, 14523}
+, 
+{"Big_Bun", 100, 14522}
+, 
+{"DF_Token_Of_Siegfried", 10, 25310}
+, 
+{"DF_GhostringS", 30, 14861}
+, 
+{"DF_Tyr\'s_Blessing", 200, 14862}
+, 
+{"DF_Quagmire_Scroll", 200, 14865}
+, 
+{"DF_Holy_Armor_S", 12, 14866}
+, 
+{"DF_Shadow_Armor_S", 12, 14867}
+, 
+{"DF_Megaphone", 250, 14840}
+, 
+{"Greed_Scroll", 70, 14529}
+, 
+{"DF_Glass_Of_Illusion", 250, 14874}
+, 
+{"DF_Songpyun", 1000, 14841}
+, 
+{"DF_Dun_Tele_Scroll1", 10, 14842}
+, 
+{"DF_Insurance", 100, 14843}
+, 
+{"DF_Kafra_Card", 150, 14844}
+, 
+{"DF_Blessing_10_Scroll", 150, 14845}
+, 
+{"DF_Inc_Agi_10_Scroll", 150, 14846}
+, 
+{"DF_Small_Life_Potion", 50, 14847}
+, 
+{"DF_Abrasive", 50, 9895}
+, 
+{"DF_Power_Booster", 20, 9896}
+, 
+{"DF_Mental_Potion", 200, 9908}
+, 
+{"DF_Vit_Dish10", 700, 14849}
+, 
+{"DF_Luk_Dish10", 700, 14850}
+, 
+{"DF_Dex_Dish10", 700, 14851}
+, 
+{"DF_Int_Dish10", 700, 14852}
+, 
+{"DF_Agi_Dish10", 700, 14853}
+, 
+{"DF_Str_Dish10", 700, 14854}
+, 
+{"DF_Red_Booster", 80, 14869}
+, 
+{"DF_Med_Life_Potion", 15, 14875}
+, 
+{"EF_DEX_Biscuit_Stick", 100, 23221}
+, 
+{"EF_LUK_Biscuit_Stick", 100, 23222}
+, 
+{"EF_STR_Biscuit_Stick", 100, 23223}
+, 
+{"EF_VIT_Biscuit_Stick", 100, 23224}
+, 
+{"EF_AGI_Biscuit_Stick", 100, 23225}
+, 
+{"EF_INT_Biscuit_Stick", 100, 23226}
+, 
+{"UltimateCook_S", 30, 14886}
+, 
+{"Illusion_Module_Mix", 50, 100601}
+, 
+{"Infinity_Drink", 10, 23475}
+, 
+{"Guyak_Pudding", 15, 12710}
+, 
+{"Gingerbread2", 150, 22605}
+, 
+{"Automatic_Module_Mix", 30, 100602}
+, 
+{"RTC_EnergyDrink_TW", 5, 100098}
+, 
+{"Ex_Def_Potion", 200, 14614}
+, 
+{"Mana_Plus", 100, 12419}
+, 
+{"Full_SwingK", 100, 12418}
+, 
+{"Tyr\'s_Blessing", 200, 14601}
+, 
+{"Mental_Potion", 200, 14600}
+, 
+{"GhostringS", 30, 14598}
+}
+, NeedSource_String = "消耗品"}
+, 
 PetEgg_Recipe = {ItemID = 23153, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
 SourceItems = {
 {"Poring_Egg", 1, 9001}
@@ -6207,29 +6323,17 @@ SourceItems = {
 , 
 {"C_DancingButterfly_TW", 1, 31618}
 , 
-{"C_BlackBearBackpack_TW", 1, 20542}
-, 
-{"C_Magic_Inheritor_TW", 1, 31619}
-, 
 {"C_Snow_Fox_TW", 1, 31620}
 , 
 {"C_B_EarWitchHat", 1, 31607}
-, 
-{"C_CherryFesRibbon_TW", 1, 20539}
-, 
-{"C_LostTime_TW", 1, 31622}
 , 
 {"C_Sleep_Sheep_TW", 1, 31616}
 , 
 {"C_SnackParty", 1, 31731}
 , 
-{"C_RomanticRose_TW", 1, 31623}
-, 
 {"C_Lady_Tanee_TW", 1, 31617}
 , 
 {"C_AngelRibbonWing_TW", 1, 20541}
-, 
-{"C_HappyMargay_TW", 1, 31621}
 , 
 {"C_CatEars_Cyber_HeadP_R", 1, 19294}
 , 
