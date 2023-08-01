@@ -1,4 +1,4 @@
-login#bgm\\12.mp3#
+login#bgm\\146.mp3#
 dewata.rsw#bgm\\142.mp3#
 dew_in01.rsw#bgm\\143.mp3#
 dew_fild01.rsw#bgm\\143.mp3#
@@ -394,6 +394,7 @@ ra_fild07.rsw#bgm\\97.mp3#
 ra_fild08.rsw#bgm\\97.mp3#
 ra_fild09.rsw#bgm\\98.mp3#
 ra_fild10.rsw#bgm\\97.mp3#
+ra_fild11.rsw#bgm\\97.mp3#
 ra_fild12.rsw#bgm\\97.mp3#
 ra_fild13.rsw#bgm\\97.mp3#
 ra_san01.rsw#bgm\\95.mp3#
@@ -3328,7 +3329,6 @@ reb_camp4.rsw#bgm\\89.mp3#
 job_gun.rsw#bgm\\987.mp3#
 //------------------------------------------------
 ra_temple.rsw#bgm\\95.mp3#
-ra_fild11.rsw#bgm\\97.mp3#
 //------------------------------------------------
 pab_church.rsw#bgm\\10.mp3#
 pab_camp.rsw#bgm\\107.mp3#
@@ -6331,10 +6331,6 @@ que_thr.rsw#bgm\\106.mp3#
 3@nyr.rsw#bgm\\94.mp3#
 1@adv.rsw#bgm\\185.mp3#
 1@tcamp.rsw#bgm\\106.mp3#
-ra_fild11.rsw#bgm\\97.mp3#
-ra_fild10.rsw#bgm\\97.mp3#
-ra_fild07.rsw#bgm\\97.mp3#
-ra_fild02.rsw#bgm\\97.mp3#
 1@nyrd.rsw#bgm\\94.mp3#
 2@nyrd.rsw#bgm\\95.mp3#
 3@nyrd.rsw#bgm\\94.mp3#
@@ -6474,5 +6470,12 @@ aldm_cas6.rsw#bgm\\66.mp3#
 aldm_fld6.rsw#bgm\\66.mp3#
 //------------------------------------------------
 tra_hall_g.rsw#bgm\\38.mp3#
+//------------------------------------------------
+prt_elib.rsw#bgm\\08.mp3#
+1@vrpop.rsw#bgm\\93.mp3#
+2@vrpop.rsw#bgm\\146.mp3#
+3@vrpop.rsw#bgm\\180.mp3#
+//------------------------------------------------
+1@vrcas.rsw#bgm\\177.mp3#
 //------------------------------------------------
 //[file end]

@@ -1240,6 +1240,20 @@ TargetItems = {
 {"Wild_Beast", 400409}
 }
 , NeedSource_String = "エンハンスキューブII(グレイウルフ)"}
+, 
+Gef_Enhance_Cube1_JP = {ItemID = 102410, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"MD_Geffen_Suits", 450149}
+, 
+{"MD_Geffen_Robe", 450150}
+, 
+{"MD_Geffen_Shield", 460005}
+, 
+{"MD_Geffen_Shield2", 460006}
+, 
+{"MD_Geffen_Cloth_JP", 480331}
+}
+, NeedSource_String = "エンハンスキューブI(夜間闘技場)"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

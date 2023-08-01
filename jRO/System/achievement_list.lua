@@ -2387,6 +2387,56 @@ resource = {
 , 
 reward = {title = 2161}
 , score = 1}
+, 
+[500239] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "ティアマト攻城戦YE「Normal」", 
+content = {summary = "ティアマト攻城戦YEの指定難易度を完全クリア", details = "ティアマト攻城戦YEの「Normal」で1000点取得した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2236}
+, score = 1}
+, 
+[500240] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "ティアマト攻城戦YE「Inferno」", 
+content = {summary = "ティアマト攻城戦YEの指定難易度を完全クリア", details = "ティアマト攻城戦YEの「Inferno」で1000点取得した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2237}
+, score = 1}
+, 
+[500241] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "ティアマト攻城戦YE「Extra」", 
+content = {summary = "ティアマト攻城戦YEの指定難易度を完全クリア", details = "ティアマト攻城戦YEの「Extra」で1000点取得した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2238}
+, score = 1}
+, 
+[500242] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "ティアマト攻城戦YE「Ultimate」", 
+content = {summary = "ティアマト攻城戦YEの指定難易度を完全クリア", details = "ティアマト攻城戦YEの「Ultimate」で1000点取得した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2239}
+, score = 1}
+, 
+[500243] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "ティアマト攻城戦YE「All Clear」", 
+content = {summary = "ティアマト攻城戦YEの指定難易度を完全クリア", details = "ティアマト攻城戦YEの「全難易度」で1000点取得した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2240}
+, score = 1}
 }
 main = function()
   -- function num : 0_0

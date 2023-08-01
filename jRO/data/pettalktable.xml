@@ -9866,4 +9866,139 @@
 	</so_full>
 </KNIGHT_OF_ABYSS2>
 
+<wilow>
+	<hungry>
+		<feeding>……う……。</feeding>
+		<dead>……。</dead>
+		<stand>……ぅ……。</stand>
+		<levelup>う！</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>……う……。</feeding>
+		<dead>……。</dead>
+		<stand>… …。…。……</stand>
+		<stand>う、う……ぅう。</stand>
+		<stand>う！</stand>
+		<levelup>うーう！</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>ウィ!!!!</feeding>
+		<dead>……。</dead>
+		<stand>……ゥ……。</stand>
+		<stand>ウ、ウ……ゥウ。</stand>
+		<stand>ウ！</stand>
+		<stand>ウィウィウィ。</stand>
+		<levelup>ウーウ！</levelup>
+	</noting>
+	<full>
+		<feeding>ウィロ!!!!</feeding>
+		<dead>……。</dead>
+		<stand>……ゥ……。</stand>
+		<stand>ウィロ、ウィ……ゥウ。</stand>
+		<stand>ウィロ！</stand>
+		<stand>ウィロロロ。</stand>
+		<levelup>ウィウィウィウィッウィロー！</levelup>
+	</full>
+	<so_full>
+		<feeding>ウィロ!!!!</feeding>
+		<dead>……。</dead>
+		<stand>……ゥ……。</stand>
+		<stand>ウィロ、ウィ……ゥウ。</stand>
+		<stand>ウィロ！</stand>
+		<stand>ウィロロロ。</stand>
+		<levelup>ウィウィウィウィッウィロー！</levelup>
+	</so_full>
+</wilow>
+
+<ill_baphomet_j>
+	<hungry>
+		<feeding>ご飯の時間はとっくに過ぎてる！マスターもしかして……？</feeding>
+		<dead>マスターの復讐をしたいが混沌の力が不足している……。</dead>
+		<stand>混沌の力が足りない……このままじゃ消滅してしまう……。</stand>
+		<stand>闇の力が足りない……これでは形貌を維持できない……。</stand>
+		<levelup>出でよ、最後の力、BaseLvアップ！！</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>ご飯の時間はとっくに過ぎてる！マスターもしかして……？</feeding>
+		<dead>マスターの復讐をしたいが混沌の力が不足している……。</dead>
+		<stand>混沌の力が足りない……このままじゃ消滅してしまう……。</stand>
+		<stand>闇の力が足りない……これでは形貌を維持できない……。</stand>
+		<levelup>出でよ、最後の力、BaseLvアップ！！</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>くっくっくっ……。混沌の力が上がるな？</feeding>
+		<dead>こんなに弱き者にやられるとは情けないマスターだ……(泣)</dead>
+		<stand>大人しくしているところを見ると、マスター！混沌が欲しいか？</stand>
+		<stand>うふふふふ……。闇が我が身を起こす。</stand>
+		<levelup>くふふふ、燃え上がれBaseLv！</levelup>
+	</noting>
+	<full>
+		<feeding>くっくっくっ……。混沌の力が上がるな？</feeding>
+		<dead>こんなに弱き者にやられるとは情けないマスターだ……(泣)</dead>
+		<stand>大人しくしているところを見ると、マスター！混沌が欲しいか？</stand>
+		<stand>うふふふふ……。闇が我が身を起こす。</stand>
+		<levelup>くふふふ、燃え上がれBaseLv！</levelup>
+	</full>
+	<so_full>
+		<feeding>こんな臭い食物は食わん！</feeding>
+		<dead>こんなに弱き者にやられるとは情けないマスターだ……(泣)</dead>
+		<stand>うふふふふ…。闇が我が身を起こす…</stand>
+		<stand>大人しくしているところを見ると、マスター！混沌が欲しいか？</stand>
+		<levelup>くふふふ、燃え上がれBaseLv！</levelup>
+	</so_full>
+</ill_baphomet_j>
+
+<baphomet2>
+	<hungry>
+		<feeding>……モグ……モグ……</feeding>
+		<dead>あまりにも軟弱で矮小な存在だ。</dead>
+		<stand>こら、微物！遅刻だぞ。</stand>
+		<levelup>微物にしては強くなっている</levelup>
+		<perfor_1>モグモグ。</perfor_1>
+		<perfor_2>ひいいっ!?</perfor_2>
+		<perfor_3>ぶあああ！！！</perfor_3>
+	</hungry>
+	<bit_hungry>
+		<feeding>適当に噛めそうだな……。</feeding>
+		<dead>あまりにも軟弱で矮小な存在だ。</dead>
+		<stand>俺の前では、全て微物に過ぎない。</stand>
+		<levelup>微物にしては強くなっているようだな。</levelup>
+		<perfor_1>モグモグ。</perfor_1>
+		<perfor_2>ひいいっ!?</perfor_2>
+		<perfor_3>ぶあああ！！！</perfor_3>
+	</bit_hungry>
+	<noting>
+		<feeding>適当に噛めそうだな……。</feeding>
+		<dead>あまりにも軟弱で矮小な存在だ。</dead>
+		<stand>俺の前では、全て微物に過ぎない。</stand>
+		<stand>善と悪？俺の前では無意味だ。</stand>
+		<levelup>微物にしては強くなっているようだな。</levelup>
+		<perfor_1>モグモグ。</perfor_1>
+		<perfor_2>ひいいっ!?</perfor_2>
+		<perfor_3>ぶあああ！！！</perfor_3>
+	</noting>
+	<full>
+		<feeding>噛み捨ててやろうか？</feeding>
+		<dead>あまりにも軟弱で矮小な存在だ。</dead>
+		<stand>俺の前では、全て微物に過ぎない。</stand>
+		<stand>善と悪？俺の前では無意味だ。</stand>
+		<stand>ただこの俺、バフォメットがいるだけ。</stand>
+		<levelup>微物にしては強くなっているようだな。</levelup>
+		<perfor_1>モグモグ。</perfor_1>
+		<perfor_2>ひいいっ!?</perfor_2>
+		<perfor_3>ぶあああ！！！</perfor_3>
+	</full>
+	<so_full>
+		<feeding>噛み捨ててやろうか？</feeding>
+		<dead>あまりにも軟弱で矮小な存在だ。</dead>
+		<stand>俺の前では、全て微物に過ぎない。</stand>
+		<stand>善と悪？俺の前では無意味だ。</stand>
+		<stand>ただこの俺、バフォメットがいるだけ。</stand>
+		<levelup>微物にしては強くなっているようだな。</levelup>
+		<perfor_1>モグモグ。</perfor_1>
+		<perfor_2>ひいいっ!?</perfor_2>
+		<perfor_3>ぶあああ！！！</perfor_3>
+	</so_full>
+</baphomet2>
+
 </monster_talk_table>

@@ -8624,6 +8624,14 @@ MonsterEff = {EFFECT.EF_LEVEL99_3}
 [23073] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_LEVEL99_3}
 }
+, 
+[21218] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_MAP_MAGICZONE, EFFECT.EF_PRIMECHARGE4, EFFECT.EF_GUMGANG7}
+}
+, 
+[21230] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_MAP_MAGICZONE, EFFECT.EF_PRIMECHARGE4, EFFECT.EF_GUMGANG7}
+}
 }
 main = function()
   -- function num : 0_0

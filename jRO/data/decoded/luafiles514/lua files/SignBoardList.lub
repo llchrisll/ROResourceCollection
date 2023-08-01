@@ -2116,7 +2116,7 @@ SignBoardList = {
 , 
 {"ev_june01", 142, 161, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  出張カプラサービス", "255,255,255"}
 , 
-{"ev_june01", 151, 153, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  結婚式場へ", "255,255,255"}
+{"ev_june01", 148, 154, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  結婚式場へ", "255,255,255"}
 , 
 {"ev_june01", 157, 166, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  福音", "255,255,255"}
 , 
@@ -2124,7 +2124,9 @@ SignBoardList = {
 , 
 {"ev_june01", 177, 184, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
 , 
-{"ev_june01", 164, 153, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  Letter For You", "255,255,255"}
+{"ev_june01", 166, 154, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  Letter For You", "255,255,255"}
+, 
+{"ev_june01", 157, 150, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  Heart Of Love", "255,255,255"}
 , 
 {"yuno", 211, 329, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミッションマスター", "255,255,255"}
 , 

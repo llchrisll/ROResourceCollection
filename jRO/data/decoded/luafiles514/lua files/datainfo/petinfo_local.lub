@@ -375,4 +375,10 @@ PetStringTable[jobtbl.JT_GOBLIN_1] = "ゴブリン長男"
 -- DECOMPILER ERROR at PC495: Confused about usage of register: R0 in 'UnsetPending'
 
 PetStringTable[jobtbl.JT_KNIGHT_OF_ABYSS2] = "深淵の騎士"
+-- DECOMPILER ERROR at PC499: Confused about usage of register: R0 in 'UnsetPending'
+
+PetStringTable[jobtbl.JT_ILL_BAPHOMET_J] = "混沌のバフォメット.Jr"
+-- DECOMPILER ERROR at PC503: Confused about usage of register: R0 in 'UnsetPending'
+
+PetStringTable[jobtbl.JT_BAPHOMET2] = "バフォメット"
 

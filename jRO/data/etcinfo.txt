@@ -1,5 +1,5 @@
 loadingscreen#
-7#
+8#
 
 //HaloweenMap用エフェクト
 //以下、永久実装（ハロウィン専用マップ）
