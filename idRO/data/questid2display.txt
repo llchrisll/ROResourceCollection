@@ -4,155 +4,331 @@
 Reset at 04:00#
 
 7778#Yang Muyeon Lihat#SG_FEEL#QUE_NOIMAGE#
-Muyeon mengalami hal aneh pada saat ritual pensucianâ€¦Ayo kita periksa.#
+Muyeon mengalami hal aneh pada saat ritual pensucian¡¦Ayo kita periksa.#
 Bicara ke Muyeon#
 
-7779#ë‚´í‚¤ì§€ ì•ŠëŠ” ì˜ì‹#SG_FEEL#QUE_NOIMAGE#
-ë¬´ì—°ì€ ë¬¸ì œê°€ ë˜ëŠ” 'ì •í™” ì˜ì‹'ì— ëŒ€í•´ ì•Œê³  ì‹¶ë‹¤ë©´ ì§ì ‘ ì²´í—˜ì‹œì¼œ ì¤„ ìˆ˜ ìžˆë‹¤ê³  í•œë‹¤. ì¤€ë¹„ê°€ ë˜ë©´ ë¬´ì—°ì—ê²Œ ë§ì„ ê±¸ìž.#
-ë¬´ì—°ê³¼ ëŒ€í™”#
+7779#³»Å°Áö ¾Ê´Â ÀÇ½Ä#SG_FEEL#QUE_NOIMAGE#
+¹«¿¬Àº ¹®Á¦°¡ µÇ´Â 'Á¤È­ ÀÇ½Ä'¿¡ ´ëÇØ ¾Ë°í ½Í´Ù¸é Á÷Á¢ Ã¼Çè½ÃÄÑ ÁÙ ¼ö ÀÖ´Ù°í ÇÑ´Ù. ÁØºñ°¡ µÇ¸é ¹«¿¬¿¡°Ô ¸»À» °ÉÀÚ.#
+¹«¿¬°ú ´ëÈ­#
 
-7780#íê°€ì´Œì— ì„œë¦° ì•…ëª½#SG_FEEL#QUE_NOIMAGE#
-ì •í™”ì˜ì‹ ì¤‘ì— ì •ì‹ ì„ ìžƒê³  ë–¨ì–´ì§„ 'íŽ˜ì´ìš˜ ë™êµ´ íê°€ì´Œ'ì—ëŠ” 'ì¼ë ì´ëŠ” ê³µê°„'ì´ ì¡´ìž¬í–ˆë‹¤. ì´ê²ƒì´ ë¬´ì—°ì´ ë§í•œ êµ¬ì²´í™” ëœ ì•…ëª½ì¼ê¹Œ?#
-ì¼ë ì´ëŠ” ê³µê°„ ì¡°ì‚¬#
+7780#Æó°¡ÃÌ¿¡ ¼­¸° ¾Ç¸ù#SG_FEEL#QUE_NOIMAGE#
+Á¤È­ÀÇ½Ä Áß¿¡ Á¤½ÅÀ» ÀÒ°í ¶³¾îÁø 'ÆäÀÌ¿æ µ¿±¼ Æó°¡ÃÌ'¿¡´Â 'ÀÏ··ÀÌ´Â °ø°£'ÀÌ Á¸ÀçÇß´Ù. ÀÌ°ÍÀÌ ¹«¿¬ÀÌ ¸»ÇÑ ±¸Ã¼È­ µÈ ¾Ç¸ùÀÏ±î?#
+ÀÏ··ÀÌ´Â °ø°£ Á¶»ç#
 
-7781#íê°€ì´Œì— ì„œë¦° ì•…ëª½#SG_FEEL#QUE_NOIMAGE#
-íŽ˜ì´ìš” ë™êµ´ íê°€ì´Œ'ì— ë°œìƒí•œ 'ì¼ë ì´ëŠ” ê³µê°„' ë„ˆë¨¸ë¡œ ì²­ë…„ í•™ì‚¬ê°€ ì‚¬ë¼ì ¸ ë²„ë ¸ë‹¤â€¦!#
-ê³µê°„ ë„ˆë¨¸ì˜ ì¶©í•´ì™€ ëŒ€í™”#
+7781#Æó°¡ÃÌ¿¡ ¼­¸° ¾Ç¸ù#SG_FEEL#QUE_NOIMAGE#
+ÆäÀÌ¿ä µ¿±¼ Æó°¡ÃÌ'¿¡ ¹ß»ýÇÑ 'ÀÏ··ÀÌ´Â °ø°£' ³Ê¸Ó·Î Ã»³â ÇÐ»ç°¡ »ç¶óÁ® ¹ö·È´Ù¡¦!#
+°ø°£ ³Ê¸ÓÀÇ ÃæÇØ¿Í ´ëÈ­#
 
-7782#ëŒ€ë§ˆë²•ì‚¬ë¥¼ ì €ì§€í•˜ë¼!#SG_FEEL#QUE_NOIMAGE#
-ì›”ì•¼í™”ì˜ ì•…ëª½' ë˜ì „ì—ì„œ í•™ì‚¬ ëŒ€ì¶©í•´ëŠ” ì‚¬ê±´ì˜ ì›í‰ìœ¼ë¡œ ^4d4dffì§„ë¦¬ì˜ ìœ„ìžë“œ^000000ë¥¼ ì§€ëª©í•˜ë©°, ì²˜ì¹˜í•´ ë‹¬ë¼ê³  ì˜ë¢°í–ˆë‹¤.#
-ì§„ë¦¬ì˜ ìœ„ìžë“œ 1 ì²˜ì¹˜#
+7782#´ë¸¶¹ý»ç¸¦ ÀúÁöÇÏ¶ó!#SG_FEEL#QUE_NOIMAGE#
+¿ù¾ßÈ­ÀÇ ¾Ç¸ù' ´øÀü¿¡¼­ ÇÐ»ç ´ëÃæÇØ´Â »ç°ÇÀÇ ¿øÈäÀ¸·Î ^4d4dffÁø¸®ÀÇ À§ÀÚµå^000000¸¦ Áö¸ñÇÏ¸ç, Ã³Ä¡ÇØ ´Þ¶ó°í ÀÇ·ÚÇß´Ù.#
+Áø¸®ÀÇ À§ÀÚµå 1 Ã³Ä¡#
 
-7783#ëŒ€ë§ˆë²•ì‚¬ë¥¼ ì €ì§€í•˜ë¼!-ëŒ€ê¸°#SG_FEEL#QUE_NOIMAGE#
-í•´ë‹¹ í€˜ìŠ¤íŠ¸ëŠ” ì¼ì¼ í€˜ìŠ¤íŠ¸ë¡œ, ëŒ€ê¸°ì‹œê°„ì´ ì¢…ë£Œ ëœ ë’¤ 'ì›”ì•¼í™”ì˜ ì•…ëª½' ë˜ì „ì—ì„œ 'í•™ì‚¬ ëŒ€ì¶©í•´'ë¥¼ í†µí•´ ë‹¤ì‹œ ë°›ìœ¼ì‹¤ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.#
-04ì‹œ ì´ˆê¸°í™”#
+7783#´ë¸¶¹ý»ç¸¦ ÀúÁöÇÏ¶ó!-´ë±â#SG_FEEL#QUE_NOIMAGE#
+ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ÀÌ Á¾·á µÈ µÚ '¿ù¾ßÈ­ÀÇ ¾Ç¸ù' ´øÀü¿¡¼­ 'ÇÐ»ç ´ëÃæÇØ'¸¦ ÅëÇØ ´Ù½Ã ¹ÞÀ¸½Ç ¼ö ÀÖ½À´Ï´Ù.#
+04½Ã ÃÊ±âÈ­#
 
-7784#í™˜ì˜ì—ê² ìžë¹„ê°€ ì—†ë‹¤.#SG_FEEL#QUE_NOIMAGE#
-ì›”ì•¼í™”ì˜ ì•…ëª½' ë˜ì „ì—ì„œ ë³‘ì‚¬ ì‹ ì¤‘í¬ëŠ” ì£¼ë³€ì •ë¦¬ë¥¼ ìœ„í•´ ^4d4dffë¶„ë…¸í•œ êµ¬ë¯¸í˜¸^000000ë¥¼ ì²˜ì¹˜í•´ ë‹¬ë¼ê³  ì˜ë¢°í–ˆë‹¤.#
-ë¶„ë…¸í•œ êµ¬ë¯¸í˜¸ ì²˜ì¹˜#
+7784#È¯¿µ¿¡°Õ ÀÚºñ°¡ ¾ø´Ù.#SG_FEEL#QUE_NOIMAGE#
+¿ù¾ßÈ­ÀÇ ¾Ç¸ù' ´øÀü¿¡¼­ º´»ç ½ÅÁßÈñ´Â ÁÖº¯Á¤¸®¸¦ À§ÇØ ^4d4dffºÐ³ëÇÑ ±¸¹ÌÈ£^000000¸¦ Ã³Ä¡ÇØ ´Þ¶ó°í ÀÇ·ÚÇß´Ù.#
+ºÐ³ëÇÑ ±¸¹ÌÈ£ Ã³Ä¡#
 
-7785#í™˜ì˜ì—ê² ìžë¹„ê°€ ì—†ë‹¤.-ëŒ€ê¸°#SG_FEEL#QUE_NOIMAGE#
-í•´ë‹¹ í€˜ìŠ¤íŠ¸ëŠ” ì¼ì¼ í€˜ìŠ¤íŠ¸ë¡œ, ëŒ€ê¸°ì‹œê°„ì´ ì¢…ë£Œ ëœ ë’¤ 'ì›”ì•¼í™”ì˜ ì•…ëª½' ë˜ì „ì—ì„œ 'ë³‘ì‚¬ ì‹ ì¤‘í¬'ë¥¼ í†µí•´ ë‹¤ì‹œ ë°›ìœ¼ì‹¤ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.#
-04ì‹œ ì´ˆê¸°í™”#
+7785#È¯¿µ¿¡°Õ ÀÚºñ°¡ ¾ø´Ù.-´ë±â#SG_FEEL#QUE_NOIMAGE#
+ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ÀÌ Á¾·á µÈ µÚ '¿ù¾ßÈ­ÀÇ ¾Ç¸ù' ´øÀü¿¡¼­ 'º´»ç ½ÅÁßÈñ'¸¦ ÅëÇØ ´Ù½Ã ¹ÞÀ¸½Ç ¼ö ÀÖ½À´Ï´Ù.#
+04½Ã ÃÊ±âÈ­#
 
-7786#ì„ ì¡°ì˜ ë„‹ì„ ê¸°ë¦¬ë©°#SG_FEEL#QUE_NOIMAGE#
-ì›”ì•¼í™”ì˜ ì•…ëª½' ë˜ì „ì—ì„œ ë³‘ì‚¬ ì‹ ì¤‘í¬ëŠ” ^4d4dffì–µìš¸í•œ ë³‘ì‚¬^000000ë¥¼ ì™„ì „í•œ ì£½ìŒìœ¼ë¡œ ë³´ë‚´ë‹¬ë¼ê³  ì˜ë¢°í–ˆë‹¤.#
-ì–µìš¸í•œ ë³‘ì‚¬ ì²˜ì¹˜#
+7786#¼±Á¶ÀÇ ³ÌÀ» ±â¸®¸ç#SG_FEEL#QUE_NOIMAGE#
+¿ù¾ßÈ­ÀÇ ¾Ç¸ù' ´øÀü¿¡¼­ º´»ç ½ÅÁßÈñ´Â ^4d4dff¾ï¿ïÇÑ º´»ç^000000¸¦ ¿ÏÀüÇÑ Á×À½À¸·Î º¸³»´Þ¶ó°í ÀÇ·ÚÇß´Ù.#
+¾ï¿ïÇÑ º´»ç Ã³Ä¡#
 
-7787#ì„ ì¡°ì˜ ë„‹ì„ ê¸°ë¦¬ë©°-ëŒ€ê¸°#SG_FEEL#QUE_NOIMAGE#
-í•´ë‹¹ í€˜ìŠ¤íŠ¸ëŠ” ì¼ì¼ í€˜ìŠ¤íŠ¸ë¡œ, ëŒ€ê¸°ì‹œê°„ì´ ì¢…ë£Œ ëœ ë’¤ 'ì›”ì•¼í™”ì˜ ì•…ëª½' ë˜ì „ì—ì„œ 'ë³‘ì‚¬ ì‹ ì¤‘í¬'ë¥¼ í†µí•´ ë‹¤ì‹œ ë°›ìœ¼ì‹¤ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.#
-04ì‹œ ì´ˆê¸°í™”#
+7787#¼±Á¶ÀÇ ³ÌÀ» ±â¸®¸ç-´ë±â#SG_FEEL#QUE_NOIMAGE#
+ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ÀÌ Á¾·á µÈ µÚ '¿ù¾ßÈ­ÀÇ ¾Ç¸ù' ´øÀü¿¡¼­ 'º´»ç ½ÅÁßÈñ'¸¦ ÅëÇØ ´Ù½Ã ¹ÞÀ¸½Ç ¼ö ÀÖ½À´Ï´Ù.#
+04½Ã ÃÊ±âÈ­#
 
-7788#ë¬´ì—°ì—ê²Œ#SG_FEEL#QUE_NOIMAGE#
-ì¶©í•´ì˜ ì¡°ì‚¬ë¡œ ì•Œì•„ë‚¸ ì‚¬ì‹¤ì„ ^4d4dffíŽ˜ì´ìš˜ ë³„ê¶^000000ì— ìžˆëŠ” ^4d4dffë¬´ì—°^000000ì—ê²Œ ì•Œë ¤ì£¼ìž.#
-ë³„ê¶ì˜ ë¬´ì—°ê³¼ ëŒ€í™”#
+7788#¹«¿¬¿¡°Ô#SG_FEEL#QUE_NOIMAGE#
+ÃæÇØÀÇ Á¶»ç·Î ¾Ë¾Æ³½ »ç½ÇÀ» ^4d4dffÆäÀÌ¿æ º°±Ã^000000¿¡ ÀÖ´Â ^4d4dff¹«¿¬^000000¿¡°Ô ¾Ë·ÁÁÖÀÚ.#
+º°±ÃÀÇ ¹«¿¬°ú ´ëÈ­#
 
-// ì¼ë£¨ì „ ì˜¤ë¸Œ ê²ŒíŽœ - Illussion Vampire
+// ÀÏ·çÀü ¿Àºê °ÔÆæ - Illussion Vampire
 
-14652#ìžì„¸í•œ ì´ì•¼ê¸° 01#SG_FEEL#QUE_NOIMAGE#
-ì €í¬ë¥¼ ì¢€ ë„ì™€ì£¼ì‹œê² ìŠµë‹ˆê¹Œ? ê¸´ ì´ì•¼ê¸°ê°€ ë  ê²ƒ ê°™ìœ¼ë‹ˆ ìž ì‹œ ë¬¼ ì¢€ ë§ˆì‹œê² ìŠµë‹ˆë‹¤.#
-ê·¸ë¦¼ ì‚¬ì œì™€ ëŒ€í™”#
+14652#ÀÚ¼¼ÇÑ ÀÌ¾ß±â 01#SG_FEEL#QUE_NOIMAGE#
+ÀúÈñ¸¦ Á» µµ¿ÍÁÖ½Ã°Ú½À´Ï±î? ±ä ÀÌ¾ß±â°¡ µÉ °Í °°À¸´Ï Àá½Ã ¹° Á» ¸¶½Ã°Ú½À´Ï´Ù.#
+±×¸² »çÁ¦¿Í ´ëÈ­#
 
-14653#ìžì„¸í•œ ì´ì•¼ê¸° 02#SG_FEEL#QUE_NOIMAGE#
-ìž ì‹œ ì´ ë…¸íŠ¸ë¥¼ ì½ì–´ ë³´ì‹­ì‹œì˜¤.#
-ê·¸ë¦¼ ì‚¬ì œì™€ ëŒ€í™”#
+14653#ÀÚ¼¼ÇÑ ÀÌ¾ß±â 02#SG_FEEL#QUE_NOIMAGE#
+Àá½Ã ÀÌ ³ëÆ®¸¦ ÀÐ¾î º¸½Ê½Ã¿À.#
+±×¸² »çÁ¦¿Í ´ëÈ­#
 
-14654#ìžì„¸í•œ ì´ì•¼ê¸° 03#SG_FEEL#QUE_NOIMAGE#
-ë…¸íŠ¸ë¥¼ ë‹¤ ì½ì–´ ë³´ì…¨ìœ¼ë©´, ì € ì¢€ ë³´ì‹œì§€ìš”.#
-ê·¸ë¦¼ ì‚¬ì œì™€ ëŒ€í™”#
+14654#ÀÚ¼¼ÇÑ ÀÌ¾ß±â 03#SG_FEEL#QUE_NOIMAGE#
+³ëÆ®¸¦ ´Ù ÀÐ¾î º¸¼ÌÀ¸¸é, Àú Á» º¸½ÃÁö¿ä.#
+±×¸² »çÁ¦¿Í ´ëÈ­#
 
-14655#ì¤€ë¹„ëŠ” ë˜ì—ˆë‹¤#SG_FEEL#QUE_NOIMAGE#
-ì¤€ë¹„ê°€ ë˜ì—ˆë‹¤ë©´, ì €ì—ê²Œ ë§ì”€í•´ ì£¼ì‹­ì‹œì˜¤.#
-ê·¸ë¦¼ ì‚¬ì œì™€ ëŒ€í™”#
+14655#ÁØºñ´Â µÇ¾ú´Ù#SG_FEEL#QUE_NOIMAGE#
+ÁØºñ°¡ µÇ¾ú´Ù¸é, Àú¿¡°Ô ¸»¾¸ÇØ ÁÖ½Ê½Ã¿À.#
+±×¸² »çÁ¦¿Í ´ëÈ­#
 
-14656#ê·¸ë¦¼ ì‚¬ì œì˜ ì¼í–‰ì„ ì°¾ì•„#SG_FEEL#QUE_NOIMAGE#
-ì´ ë…¸íŠ¸ë¥¼ í†µí•´ ì €ìª½ìœ¼ë¡œ ê±´ë„ˆê°€ì„œ ì ¬ ìˆ˜ë…€ë‹˜ ë° ì œ ì¼í–‰ì„ ì°¾ì•„ ë¬´ì‚¬í•œì§€ í™•ì¸í•´ ì£¼ì‹­ì‹œì˜¤. ë¶€íƒë“œë¦¬ê² ìŠµë‹ˆë‹¤.#
-ì ¬ ìˆ˜ë…€ë¥¼ ì°¾ìž#
+14656#±×¸² »çÁ¦ÀÇ ÀÏÇàÀ» Ã£¾Æ#SG_FEEL#QUE_NOIMAGE#
+ÀÌ ³ëÆ®¸¦ ÅëÇØ ÀúÂÊÀ¸·Î °Ç³Ê°¡¼­ Áª ¼ö³à´Ô ¹× Á¦ ÀÏÇàÀ» Ã£¾Æ ¹«»çÇÑÁö È®ÀÎÇØ ÁÖ½Ê½Ã¿À. ºÎÅ¹µå¸®°Ú½À´Ï´Ù.#
+Áª ¼ö³à¸¦ Ã£ÀÚ#
 
-14657#ë§ˆë²•ì‚¬ì˜ ì´ë¦„ì€ ì¡°ì¡°#SG_FEEL#QUE_NOIMAGE#
-ëŒì•„ì˜¤ì§€ ì•Šê³  ìžˆëŠ” ë§ˆë²•ì‚¬ì˜ ì´ë¦„ì€ ì¡°ì¡°ìž…ë‹ˆë‹¤. í‰ë²”í•˜ê³ ë„ ì „í˜•ì ì¸ ë§ˆë²•ì‚¬ì´ë‹ˆê¹Œ ê¸ˆë°© ì°¾ìœ¼ì‹¤ ìˆ˜ ìžˆì„ê²ë‹ˆë‹¤.#
-ë§ˆë²•ì‚¬ë¥¼ ì°¾ìž#
+14657#¸¶¹ý»çÀÇ ÀÌ¸§Àº Á¶Á¶#SG_FEEL#QUE_NOIMAGE#
+µ¹¾Æ¿ÀÁö ¾Ê°í ÀÖ´Â ¸¶¹ý»çÀÇ ÀÌ¸§Àº Á¶Á¶ÀÔ´Ï´Ù. Æò¹üÇÏ°íµµ ÀüÇüÀûÀÎ ¸¶¹ý»çÀÌ´Ï±î ±Ý¹æ Ã£À¸½Ç ¼ö ÀÖÀ»°Ì´Ï´Ù.#
+¸¶¹ý»ç¸¦ Ã£ÀÚ#
 
-14658#ì‚¬ì œì˜ ì´ë¦„ì€ ì¥¬ë¹Œë ˆ#SG_FEEL#QUE_NOIMAGE#
-ëŒì•„ì˜¤ì§€ ì•Šê³  ìžˆëŠ” ì‚¬ì œì˜ ì´ë¦„ì€ ì¥¬ë¹Œë ˆìž…ë‹ˆë‹¤. í‰ë²”í•˜ê³ ë„ ì „í˜•ì ì¸ ì‚¬ì œë‹ˆê¹Œ ê¸ˆë°© ì°¾ìœ¼ì‹¤ ìˆ˜ ìžˆì„ê²ë‹ˆë‹¤.#
-ì‚¬ì œë¥¼ ì°¾ìž#
+14658#»çÁ¦ÀÇ ÀÌ¸§Àº Áêºô·¹#SG_FEEL#QUE_NOIMAGE#
+µ¹¾Æ¿ÀÁö ¾Ê°í ÀÖ´Â »çÁ¦ÀÇ ÀÌ¸§Àº Áêºô·¹ÀÔ´Ï´Ù. Æò¹üÇÏ°íµµ ÀüÇüÀûÀÎ »çÁ¦´Ï±î ±Ý¹æ Ã£À¸½Ç ¼ö ÀÖÀ»°Ì´Ï´Ù.#
+»çÁ¦¸¦ Ã£ÀÚ#
 
-14659#ê¸¸ê³  ë³µìž¡í•œ ìƒê°#SG_FEEL#QUE_NOIMAGE#
-ë³´ë¯¸ì”¨ëŠ” ìž ì‹œ ìƒê°ì— ìž ê¸´ë“¯ í•˜ë‹¤. ìž ì‹œ í›„ ë‹¤ì‹œ ëŒ€í™”ë¥¼ ì‹œë„í•´ ë³´ìž.#
-ë³´ë¯¸ì™€ ëŒ€í™”#
+14659#±æ°í º¹ÀâÇÑ »ý°¢#SG_FEEL#QUE_NOIMAGE#
+º¸¹Ì¾¾´Â Àá½Ã »ý°¢¿¡ Àá±äµí ÇÏ´Ù. Àá½Ã ÈÄ ´Ù½Ã ´ëÈ­¸¦ ½ÃµµÇØ º¸ÀÚ.#
+º¸¹Ì¿Í ´ëÈ­#
 
-14660#ê°€ì§œ í”¼ì˜ ìž¬ë£Œ#SG_FEEL#QUE_NOIMAGE#
-ê°€ì§œ í”¼ë¥¼ ë§Œë“¤ê¸° ìœ„í•´ì„œëŠ” ì•½ê°„ì˜ ìž¬ë£Œê°€ í•„ìš”í•´ìš”. ë§¤íŠ¸ ë“œë ˆì¸ë¦¬ì–´ì˜ ëˆì í•œ í”¼, ë°˜ë”” ë²„ì„¯ì˜ ë²„ì„¯ ìˆ˜ì•¡ì´ìš”. ê°ê° 10ê°œ ì •ë„ë§Œ ìžˆìœ¼ë©´ ë  ê²ƒ ê°™ì•„ìš”.#
-ëˆì í•œ í”¼, ë²„ì„¯ ìˆ˜ì•¡ ìˆ˜ì§‘#
+14660#°¡Â¥ ÇÇÀÇ Àç·á#SG_FEEL#QUE_NOIMAGE#
+°¡Â¥ ÇÇ¸¦ ¸¸µé±â À§ÇØ¼­´Â ¾à°£ÀÇ Àç·á°¡ ÇÊ¿äÇØ¿ä. ¸ÅÆ® µå·¹ÀÎ¸®¾îÀÇ ²öÀûÇÑ ÇÇ, ¹Ýµð ¹ö¼¸ÀÇ ¹ö¼¸ ¼ö¾×ÀÌ¿ä. °¢°¢ 10°³ Á¤µµ¸¸ ÀÖÀ¸¸é µÉ °Í °°¾Æ¿ä.#
+²öÀûÇÑ ÇÇ, ¹ö¼¸ ¼ö¾× ¼öÁý#
 
-14661#ë§ˆë²•ì‚¬ì˜ ì´ë¦„ì€ ì¡°ì¡° 02#SG_FEEL#QUE_NOIMAGE#
-ì´ê³³ì—ëŠ” ì €í¬ë§Œ ìžˆëŠ” ê²ƒì´ ì•„ë‹ˆì—ìš”. ì¼í–‰ì„ ì°¾ëŠ” ì¤‘ì´ë¼ë©´ ì„œë‘˜ëŸ¬ì•¼ í•  ê±°ì—ìš”.#
-ë§ˆë²•ì‚¬ë¥¼ ì°¾ìž#
+14661#¸¶¹ý»çÀÇ ÀÌ¸§Àº Á¶Á¶ 02#SG_FEEL#QUE_NOIMAGE#
+ÀÌ°÷¿¡´Â ÀúÈñ¸¸ ÀÖ´Â °ÍÀÌ ¾Æ´Ï¿¡¿ä. ÀÏÇàÀ» Ã£´Â ÁßÀÌ¶ó¸é ¼­µÑ·¯¾ß ÇÒ °Å¿¡¿ä.#
+¸¶¹ý»ç¸¦ Ã£ÀÚ#
 
-14662#ë¶ˆì•ˆí•˜ê²Œ ì™œ ê·¸ëž˜#SG_FEEL#QUE_NOIMAGE#
-ë‹¤ë“¤ ê·¸ëŒ€ë¡œ ë©ˆì¶° ë´! ë­”ê°€ ëƒ„ìƒˆê°€ ë‚˜...#
-í‚¹ê³¼ ëŒ€í™”#
+14662#ºÒ¾ÈÇÏ°Ô ¿Ö ±×·¡#SG_FEEL#QUE_NOIMAGE#
+´Ùµé ±×´ë·Î ¸ØÃç ºÁ! ¹º°¡ ³¿»õ°¡ ³ª...#
+Å·°ú ´ëÈ­#
 
-14663#í”¼ë¥¼ ë¶€ë¥´ëŠ” ì‹¸ì›€#SG_FEEL#QUE_NOIMAGE#
-ì´ê±´ í”¼ ëƒ„ìƒˆë‹¤!! ì–´ë””ì„ ê°€ ì‹¸ì›€ì´ ì¼ì–´ë‚¬ì–´! í”¼!!!#
-ë‹¤íˆ¼ì´ ì¼ì–´ë‚œ ê³³ìœ¼ë¡œ#
+14663#ÇÇ¸¦ ºÎ¸£´Â ½Î¿ò#SG_FEEL#QUE_NOIMAGE#
+ÀÌ°Ç ÇÇ ³¿»õ´Ù!! ¾îµð¼±°¡ ½Î¿òÀÌ ÀÏ¾î³µ¾î! ÇÇ!!!#
+´ÙÅùÀÌ ÀÏ¾î³­ °÷À¸·Î#
 
-14664#ê¹Šì€ ì˜¤í•´#SG_FEEL#QUE_NOIMAGE#
-ë³´ë¯¸ëŠ” ì“°ëŸ¬ì§„ ë“œë¼í˜ë¼ë¥¼ ë³´ìž ìƒê°ì´ ë§Žì•„ì¡Œë‹¤. ìƒê°ì„ ì •ë¦¬í•  ì‹œê°„ì„ ì£¼ìž.#
-ë³´ë¯¸ì™€ ëŒ€í™”#
+14664#±íÀº ¿ÀÇØ#SG_FEEL#QUE_NOIMAGE#
+º¸¹Ì´Â ¾²·¯Áø µå¶óÅ§¶ó¸¦ º¸ÀÚ »ý°¢ÀÌ ¸¹¾ÆÁ³´Ù. »ý°¢À» Á¤¸®ÇÒ ½Ã°£À» ÁÖÀÚ.#
+º¸¹Ì¿Í ´ëÈ­#
 
-14665#ì‹¸ì›€ ì¢…ê²°?#SG_FEEL#QUE_NOIMAGE#
-ë‚˜ëŠ” ìž ì‹œ ì‹œê°„ì´ í•„ìš”í•´ìš”. ëª¨í—˜ê°€ë‹˜ì€ ì¼í–‰ë¶„ì„ ì°¾ì•„ê°€ ë³´ì„¸ìš”.#
-ì ¬ ìˆ˜ë…€ì—ê²Œ#
+14665#½Î¿ò Á¾°á?#SG_FEEL#QUE_NOIMAGE#
+³ª´Â Àá½Ã ½Ã°£ÀÌ ÇÊ¿äÇØ¿ä. ¸ðÇè°¡´ÔÀº ÀÏÇàºÐÀ» Ã£¾Æ°¡ º¸¼¼¿ä.#
+Áª ¼ö³à¿¡°Ô#
 
-14666#ê°ì‹œìžì˜ ì—­í• #SG_FEEL#QUE_NOIMAGE#
-ìš°ë¦¬ëŠ” ì´ê³³ì—ì„œ ì €ë“¤ì´ ì–Œì „í•˜ê²Œ ì§€ë‚´ëŠ”ì§€ ê°ì‹œë¥¼ í•˜ë ¤ê³  í•©ë‹ˆë‹¤. ê·¸ë¦¼ ì‚¬ì œì—ê²Œ ëŒì•„ê°€ì„œ ê·¸ë ‡ê²Œ ì „í•´ ì£¼ì‹­ì‹œì˜¤.#
-ê·¸ë¦¼ ì‚¬ì œì—ê²Œ#
+14666#°¨½ÃÀÚÀÇ ¿ªÇÒ#SG_FEEL#QUE_NOIMAGE#
+¿ì¸®´Â ÀÌ°÷¿¡¼­ ÀúµéÀÌ ¾äÀüÇÏ°Ô Áö³»´ÂÁö °¨½Ã¸¦ ÇÏ·Á°í ÇÕ´Ï´Ù. ±×¸² »çÁ¦¿¡°Ô µ¹¾Æ°¡¼­ ±×·¸°Ô ÀüÇØ ÁÖ½Ê½Ã¿À.#
+±×¸² »çÁ¦¿¡°Ô#
 
-14667#ëª¨ë“  ì£½ì€ ê²ƒë“¤ì€ ë•…ìœ¼ë¡œ#SG_FEEL#QUE_NOIMAGE#
-ì•ˆì‹ì´ í•„ìš”í•œ ìžë“¤ìž…ë‹ˆë‹¤. ëª¨ë“  ì£½ì€ ê²ƒë“¤ì€ ë•…ìœ¼ë¡œ ëŒë ¤ ë³´ë‚´ì£¼ì‹­ì‹œì˜¤. 3ì¢… ëª¨ë‘ 10ë§ˆë¦¬ì”© ì²˜ì¹˜ë¥¼ ë¶€íƒë“œë¦½ë‹ˆë‹¤.#
-ì•ˆì‹ì„ ë¹¼ì•—ê¸´ ìžë“¤#
+14667#¸ðµç Á×Àº °ÍµéÀº ¶¥À¸·Î#SG_FEEL#QUE_NOIMAGE#
+¾È½ÄÀÌ ÇÊ¿äÇÑ ÀÚµéÀÔ´Ï´Ù. ¸ðµç Á×Àº °ÍµéÀº ¶¥À¸·Î µ¹·Á º¸³»ÁÖ½Ê½Ã¿À. 3Á¾ ¸ðµÎ 10¸¶¸®¾¿ Ã³Ä¡¸¦ ºÎÅ¹µå¸³´Ï´Ù.#
+¾È½ÄÀ» »©¾Ñ±ä ÀÚµé#
 
-14668#ì¶©ë¶„í•œ íœ´ì‹#SG_FEEL#QUE_NOIMAGE#
-ìˆ˜ê³  ë§Žìœ¼ì…¨ìŠµë‹ˆë‹¤. ëª¨í—˜ê°€ë‹˜ê»˜ë„ íœ´ì‹ì€ í•„ìš”í•©ë‹ˆë‹¤. ìƒˆë²½ì´ ì§€ë‚˜ë©´ ë‹¤ì‹œ ì°¾ì•„ ì™€ ì£¼ì‹­ì‹œì˜¤. - ì ¬ ìˆ˜ë…€#
-ì´ˆê¸°í™” ì‹œê°„ 04ì‹œ#
+14668#ÃæºÐÇÑ ÈÞ½Ä#SG_FEEL#QUE_NOIMAGE#
+¼ö°í ¸¹À¸¼Ì½À´Ï´Ù. ¸ðÇè°¡´Ô²²µµ ÈÞ½ÄÀº ÇÊ¿äÇÕ´Ï´Ù. »õº®ÀÌ Áö³ª¸é ´Ù½Ã Ã£¾Æ ¿Í ÁÖ½Ê½Ã¿À. - Áª ¼ö³à#
+ÃÊ±âÈ­ ½Ã°£ 04½Ã#
 
-14669#ë‹¬ì½¤í•œ ê¿ˆ#SG_FEEL#QUE_NOIMAGE#
-ì–´ì©Œë©´ ìŠ¤ìœ„íŠ¸ ë‚˜ì´íŠ¸ë©”ì–´ì˜ ê°ˆê¸°í„¸ì´ ì•…ëª½ì˜ ì›ì²œ ì•„ë‹ê¹Œìš”? í•œ ë²ˆ ì—°êµ¬í•´ ë³´ê³  ì‹¶ìŠµë‹ˆë‹¤. ì¼ë ì´ëŠ” ê°ˆê¸°í„¸ 20ê°œ ì •ë„ê°€ í•„ìš”í•˜ê³ ìš”, ê¿ˆì˜ ë³€í™”ë¥¼ ê´€ì°°í•˜ê¸° ìœ„í•´ì„œ ìŠ¤ìœ„íŠ¸ ë‚˜ì´íŠ¸ë©”ì–´ë„ 10ë§ˆë¦¬ ì •ë„ ì²˜ì¹˜ ë¶€íƒë“œë¦½ë‹ˆë‹¤.#
-ì¼ë ì´ëŠ” ê°ˆê¸°í„¸ 20ê°œ#
+14669#´ÞÄÞÇÑ ²Þ#SG_FEEL#QUE_NOIMAGE#
+¾îÂ¼¸é ½ºÀ§Æ® ³ªÀÌÆ®¸Þ¾îÀÇ °¥±âÅÐÀÌ ¾Ç¸ùÀÇ ¿øÃµ ¾Æ´Ò±î¿ä? ÇÑ ¹ø ¿¬±¸ÇØ º¸°í ½Í½À´Ï´Ù. ÀÏ··ÀÌ´Â °¥±âÅÐ 20°³ Á¤µµ°¡ ÇÊ¿äÇÏ°í¿ä, ²ÞÀÇ º¯È­¸¦ °üÂûÇÏ±â À§ÇØ¼­ ½ºÀ§Æ® ³ªÀÌÆ®¸Þ¾îµµ 10¸¶¸® Á¤µµ Ã³Ä¡ ºÎÅ¹µå¸³´Ï´Ù.#
+ÀÏ··ÀÌ´Â °¥±âÅÐ 20°³#
 
-14670#ê¿ˆ ê¾¸ëŠ” ì‹œê°„#SG_FEEL#QUE_NOIMAGE#
-ëª¨í—˜ê°€ë‹˜ë„ í•œ ìˆ¨ ìžëŠ” ê²ƒì´ ì–´ë–¨ê¹Œìš”? ìƒˆë²½ì´ ì§€ë‚˜ë©´ ë‹¤ì‹œ ì°¾ì•„ì™€ ì£¼ì„¸ìš”. - ì•™íˆ¬ì•ˆ#
-ì´ˆê¸°í™” ì‹œê°„ 04ì‹œ#
+14670#²Þ ²Ù´Â ½Ã°£#SG_FEEL#QUE_NOIMAGE#
+¸ðÇè°¡´Ôµµ ÇÑ ¼û ÀÚ´Â °ÍÀÌ ¾î¶³±î¿ä? »õº®ÀÌ Áö³ª¸é ´Ù½Ã Ã£¾Æ¿Í ÁÖ¼¼¿ä. - ¾ÓÅõ¾È#
+ÃÊ±âÈ­ ½Ã°£ 04½Ã#
 
-14671#ë¶ˆì•ˆí•œ ê°€ì§œ í”¼#SG_FEEL#QUE_NOIMAGE#
-ê°€ì§œ í”¼ë¥¼ ë§Œë“¤ê¸° ìœ„í•´ì„œëŠ” ì•½ê°„ì˜ ìž¬ë£Œê°€ í•„ìš”í•´ìš”. ë§¤íŠ¸ ë“œë ˆì¸ë¦¬ì–´ì˜ ëˆì í•œ í”¼, ë°˜ë”” ë²„ì„¯ì˜ ë²„ì„¯ ìˆ˜ì•¡ì´ìš”. ê°ê° 10ê°œ ì •ë„ë§Œ ìžˆìœ¼ë©´ ë  ê²ƒ ê°™ì•„ìš”. ë§¤íŠ¸ ë“œë ˆì¸ë¦¬ì–´ì™€ ë°˜ë”” ë²„ì„¯ì„ 5ë§ˆë¦¬ ì´ìƒ ìž¡ìœ¼ë©´ ì–»ì„ ìˆ˜ ìžˆì–´ìš”.#
-ëˆì í•œ í”¼, ë²„ì„¯ ìˆ˜ì•¡ ìˆ˜ì§‘#
+14671#ºÒ¾ÈÇÑ °¡Â¥ ÇÇ#SG_FEEL#QUE_NOIMAGE#
+°¡Â¥ ÇÇ¸¦ ¸¸µé±â À§ÇØ¼­´Â ¾à°£ÀÇ Àç·á°¡ ÇÊ¿äÇØ¿ä. ¸ÅÆ® µå·¹ÀÎ¸®¾îÀÇ ²öÀûÇÑ ÇÇ, ¹Ýµð ¹ö¼¸ÀÇ ¹ö¼¸ ¼ö¾×ÀÌ¿ä. °¢°¢ 10°³ Á¤µµ¸¸ ÀÖÀ¸¸é µÉ °Í °°¾Æ¿ä. ¸ÅÆ® µå·¹ÀÎ¸®¾î¿Í ¹Ýµð ¹ö¼¸À» 5¸¶¸® ÀÌ»ó ÀâÀ¸¸é ¾òÀ» ¼ö ÀÖ¾î¿ä.#
+²öÀûÇÑ ÇÇ, ¹ö¼¸ ¼ö¾× ¼öÁý#
 
-14674#ì†Œí™”ê°€ ë˜ëŠ” ì‹œê°„#SG_FEEL#QUE_NOIMAGE#
-ì•„ì§, ë°°ê°€ ê³ í”„ì§€ ì•Šì•„ìš”. ìƒˆë²½ì´ ì§€ë‚˜ë©´ ì „ ë˜ í—ˆê¸°ê°€ ì§€ê² ì£ . ê·¸ë•Œ ë‹¤ì‹œ ì°¾ì•„ì™€ ì£¼ì„¸ìš”. - ë³´ë¯¸#
-ì´ˆê¸°í™” ì‹œê°„ 04ì‹œ#
+14674#¼ÒÈ­°¡ µÇ´Â ½Ã°£#SG_FEEL#QUE_NOIMAGE#
+¾ÆÁ÷, ¹è°¡ °íÇÁÁö ¾Ê¾Æ¿ä. »õº®ÀÌ Áö³ª¸é Àü ¶Ç Çã±â°¡ Áö°ÚÁÒ. ±×¶§ ´Ù½Ã Ã£¾Æ¿Í ÁÖ¼¼¿ä. - º¸¹Ì#
+ÃÊ±âÈ­ ½Ã°£ 04½Ã#
 
-14675#ê¸°ë¶„ìƒì˜ ë¬¸ì œ#SG_FEEL#QUE_NOIMAGE#
-ì € ì‹œë„ëŸ¬ìš´ ë§¤íŠ¸ ë“œë ˆì¸ë¦¬ì–´ ë•Œë¬¸ì— ì§œì¦ì´ ë‚˜. ì´ ì£¼ë³€ì— ìžˆëŠ” 10ë§ˆë¦¬ ì •ë„ë§Œ ìž¡ì•„. ì•„, ê·¸ë¦¬ê³  ì—¬ê¸° ì´ ë…€ì„ì´ ë°•ì¥ì˜ ì§§ì€í„¸ì´ í•„ìš”í•˜ëŒ€. ê·¸ê²ƒë„ í•œ 20ê°œ ì •ë„?#
-ë§¤íŠ¸ ë“œë ˆì¸ë¦¬ì–´, ì§§ì€ ë°•ì¥í„¸#
+14675#±âºÐ»óÀÇ ¹®Á¦#SG_FEEL#QUE_NOIMAGE#
+Àú ½Ã²ô·¯¿î ¸ÅÆ® µå·¹ÀÎ¸®¾î ¶§¹®¿¡ Â¥ÁõÀÌ ³ª. ÀÌ ÁÖº¯¿¡ ÀÖ´Â 10¸¶¸® Á¤µµ¸¸ Àâ¾Æ. ¾Æ, ±×¸®°í ¿©±â ÀÌ ³à¼®ÀÌ ¹ÚÁãÀÇ ÂªÀºÅÐÀÌ ÇÊ¿äÇÏ´ë. ±×°Íµµ ÇÑ 20°³ Á¤µµ?#
+¸ÅÆ® µå·¹ÀÎ¸®¾î, ÂªÀº ¹ÚÁãÅÐ#
 
-14676#ê°ìžì˜ íœ´ì‹ì‹œê°„#SG_FEEL#QUE_NOIMAGE#
-ë„¤ê°€ ë§¤íŠ¸ ë“œë ˆì¸ë¦¬ì–´ë¥¼ ìž¡ì•„ì¤€ ë•ì— ì§€ê¸ˆì€ ì¡°ìš©í•´ì¡Œì–´. í•˜ì§€ë§Œ ì‹œê°„ì´ ì§€ë‚˜ë©´ ë˜ ëª°ë ¤ ì˜¤ê² ì§€. ê·¸ë•Œ ë˜ ì™€ì„œ ìž¡ì•„ì¤˜. - í‚¹#
-ì´ˆê¸°í™” ì‹œê°„ 04ì‹œ#
+14676#°¢ÀÚÀÇ ÈÞ½Ä½Ã°£#SG_FEEL#QUE_NOIMAGE#
+³×°¡ ¸ÅÆ® µå·¹ÀÎ¸®¾î¸¦ Àâ¾ÆÁØ ´ö¿¡ Áö±ÝÀº Á¶¿ëÇØÁ³¾î. ÇÏÁö¸¸ ½Ã°£ÀÌ Áö³ª¸é ¶Ç ¸ô·Á ¿À°ÚÁö. ±×¶§ ¶Ç ¿Í¼­ Àâ¾ÆÁà. - Å·#
+ÃÊ±âÈ­ ½Ã°£ 04½Ã#
 
-14677#í˜•ì„¤ì§€ê³µ#SG_FEEL#QUE_NOIMAGE#
-ìŠ¤ìœ„íŠ¸ ë‚˜ì´íŠ¸ë©”ì–´ì˜ ì•…ëª½ ë©ì–´ë¦¬ì— ë°˜ë”” ë²„ì„¯ì˜ ë¹›ë‚˜ëŠ” í¬ìžë¥¼ ì„žì–´ì„œ ë²½ì—ë‹¤ ë¶™ì´ë©´ ì±…ì˜ ê¸€ì”¨ë¥¼ ì½ì„ ìˆ˜ ìžˆì„ ì •ë„ë¡œ í™˜í•˜ëŒ€ìš”. ê°ê° 10ê°œì”© ë¶€íƒë“œë¦´ê²Œìš”.#
-ë¹›ë‚˜ëŠ” í¬ìž, ì•…ëª½ ë©ì–´ë¦¬#
+14677#Çü¼³Áö°ø#SG_FEEL#QUE_NOIMAGE#
+½ºÀ§Æ® ³ªÀÌÆ®¸Þ¾îÀÇ ¾Ç¸ù µ¢¾î¸®¿¡ ¹Ýµð ¹ö¼¸ÀÇ ºû³ª´Â Æ÷ÀÚ¸¦ ¼¯¾î¼­ º®¿¡´Ù ºÙÀÌ¸é Ã¥ÀÇ ±Û¾¾¸¦ ÀÐÀ» ¼ö ÀÖÀ» Á¤µµ·Î È¯ÇÏ´ë¿ä. °¢°¢ 10°³¾¿ ºÎÅ¹µå¸±°Ô¿ä.#
+ºû³ª´Â Æ÷ÀÚ, ¾Ç¸ù µ¢¾î¸®#
 
-14678#ê³µë¶€ì˜ ì‹œê°„#SG_FEEL#QUE_NOIMAGE#
-ë¹›ë‚˜ëŠ” í¬ìžì˜ ë¹›ì´ ì‚¬ë¼ì§€ë©´, ê·¸ë•Œ ë‹¤ì‹œ ì°¾ì•„ì™€ ì£¼ì„¸ìš”. ì €ëŠ” ê·¸ë™ì•ˆ ì—´ì‹¬ížˆ ê³µë¶€ í•˜ê² ìŠµë‹ˆë‹¤. - ì¡°ì¡°#
-ì´ˆê¸°í™” ì‹œê°„ 04ì‹œ#
+14678#°øºÎÀÇ ½Ã°£#SG_FEEL#QUE_NOIMAGE#
+ºû³ª´Â Æ÷ÀÚÀÇ ºûÀÌ »ç¶óÁö¸é, ±×¶§ ´Ù½Ã Ã£¾Æ¿Í ÁÖ¼¼¿ä. Àú´Â ±×µ¿¾È ¿­½ÉÈ÷ °øºÎ ÇÏ°Ú½À´Ï´Ù. - Á¶Á¶#
+ÃÊ±âÈ­ ½Ã°£ 04½Ã#
 
-14679#í˜¸ê¸°ì‹¬ì€ ë³¸ëŠ¥#SG_FEEL#QUE_NOIMAGE#
-ì‚´íŽ´ ë³´ê³  ì‹¤í—˜ì„ í•  ìˆ˜ ìžˆê²Œ ë§ˆë¥¸ ì´ê·¸ë“œë¼ì‹¤ ìžŽ 10ê°œì™€ ìˆ˜ìƒí•œ ë§ˆë²•ì§„ 10ê°œë¥¼ ë¶€íƒë“œë¦´ê²Œìš”. ì°¸, ê·¸ë¦¬ê³  ê·¸ë¦¼ ì‚¬ì œë‹˜ì„ ìœ„í•´ ì£½ì€ ìžë“¤ë„ 5ë§ˆë¦¬ì”© ì²˜ì¹˜í•´ì£¼ì„¸ìš”.#
-ë§ˆë¥¸ ì´ê·¸ë“œë¼ì‹¤ ìžŽ, ìˆ˜ìƒí•œ ë§ˆë²•ì§„#
+14679#È£±â½ÉÀº º»´É#SG_FEEL#QUE_NOIMAGE#
+»ìÆì º¸°í ½ÇÇèÀ» ÇÒ ¼ö ÀÖ°Ô ¸¶¸¥ ÀÌ±×µå¶ó½Ç ÀÙ 10°³¿Í ¼ö»óÇÑ ¸¶¹ýÁø 10°³¸¦ ºÎÅ¹µå¸±°Ô¿ä. Âü, ±×¸®°í ±×¸² »çÁ¦´ÔÀ» À§ÇØ Á×Àº ÀÚµéµµ 5¸¶¸®¾¿ Ã³Ä¡ÇØÁÖ¼¼¿ä.#
+¸¶¸¥ ÀÌ±×µå¶ó½Ç ÀÙ, ¼ö»óÇÑ ¸¶¹ýÁø#
 
-14680#ì—°êµ¬ì˜ ì‹œê°„#SG_FEEL#QUE_NOIMAGE#
-ì§€ê¸ˆì€ ì´ê±¸ ì‚´íŽ´ ë´ì•¼ í•˜ëŠë¼ ì–˜ê¸° í•  ì‹œê°„ë„ ì—†ì–´ìš”. ì§‘ì¤‘í•  ìˆ˜ ìžˆê²Œ ì‹œê°„ì„ ì£¼ì„¸ìš”. - ëª¨ì¡°#
-ì´ˆê¸°í™” ì‹œê°„ 04ì‹œ#
+14680#¿¬±¸ÀÇ ½Ã°£#SG_FEEL#QUE_NOIMAGE#
+Áö±ÝÀº ÀÌ°É »ìÆì ºÁ¾ß ÇÏ´À¶ó ¾ê±â ÇÒ ½Ã°£µµ ¾ø¾î¿ä. ÁýÁßÇÒ ¼ö ÀÖ°Ô ½Ã°£À» ÁÖ¼¼¿ä. - ¸ðÁ¶#
+ÃÊ±âÈ­ ½Ã°£ 04½Ã#
+
+//Rockridge
+16078#°¡Á·ÀÇ ÆòÈ­#SG_FEEL#QUE_NOIMAGE#
+Ä´ÅÍ·Ð ¾¾´Â ¾ÆµéÀ» À§ÇØ¼­, È²¾ß¿¡¼­ ÀÒ¾î¹ö¸° ÁÖ½º ¹Í½º ²Ù·¯¹Ì¸¦ 5°³ Ã£¾Æ´Ù ´Þ¶ó°í ÇÑ´Ù. ¸¶À» »ç¶÷µéÀÌ ÇÇÇØ¸¦ ÀÔÁö ¾Êµµ·Ï ÄÚ¿äÅ×µµ 30¸¶¸® »ç³ÉÇÏ°í ¿ÀÀÚ.#
+ÁÖ½º ¹Í½º ²Ù·¯¹Ì 5°³ È¹µæ, ÄÚ¿äÅ× »ç³É#
+
+16079#ÄÚ¿äÅ× »ç³ÉÀº ³»ÀÏ ´Ù½Ã#SG_FEEL#QUE_NOIMAGE#
+ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. Å°¿Í¿Í »ç¸·ÀÇ Ä´ÅÍ·Ð ¾¾¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù.#
+04½Ã ¸®¼Â#
+
+16080#¶Ç´Ù½Ã ÄÚ¿äÅ× »ç³É#SG_FEEL#QUE_NOIMAGE#
+¸¶À» »ç¶÷µéÀÌ ÇÇÇØ¸¦ ÀÔÁö ¾Êµµ·Ï ÄÚ¿äÅ×¸¦ 30¸¶¸® »ç³ÉÇÏ°í Ä´ÅÍ·Ð ¾¾¿¡°Ô µ¹¾Æ°¡ º¸°íÇÏÀÚ.#
+ÄÚ¿äÅ× »ç³É#
+
+16081#ÁÖ½º ¹Í½º ²Ù·¯¹Ì È¹µæ ½ÇÆÐ#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16082#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16083#È²¾ßÀÇ Ä´ÅÍÆ° ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16084#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16085#ÄÚ¿äÅ× ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16086#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16087#Ä´ÅÍ ¼Ò³à ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16088#ÄÚ¿äÅ× ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16089#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16090#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16091#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16092#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16093#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16094#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+16095#¼ö»óÇÑ ¸ð·¡´õ¹Ì ¹ß°ß#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+//Star Emperor Soul Reaper
+11573#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Saya mendengar dari Nalson tentang cara menuju ke Meteor forest. Temukan jalur gunung sempit di bagian utara Pegunungan Myornil dan pindah ke Hutan Meteor..#
+ke Meteor Forest#
+
+11574#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Anda dapat menulis primer di rumah teh. Ayo pergi ke rumah teh.#
+ke rumah teh#
+
+11575#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Mengikuti Choseung, Lancis juga keluar. Ayo keluar dan bicara dengan Choseung.#
+keluar dari rumah teh#
+
+11576#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Choseung meminta Lancis untuk memandu Meteor Forest dan pergi dengan tergesa-gesa. Bicaralah dengan Rancis untuk mendengar tentang Meteor Forest..#
+Bicaralah dengan Rancis#
+
+11577#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Mari kita berkeliling ke Meteor Forest mengikuti bimbingan dari Rancis.#
+Bicaralah dengan Rancis#
+
+11578#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Saat memandu Meteor Forest, Lancis sepertinya menemukan sesuatu. Mari kita pergi dengan Rancis.#
+berbicara dengan Rancis#
+
+11579#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Eun-ha mengatakan dia akan membantumu dengan pelatihan dan memintamu untuk menangkap 10 mineral. Kalahkan 10 mineral di lantai 2 Tambang Einbech dan kembali.#
+Kalahkan 10 Mineral#
+
+11580#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Eun-ha, yang melihat bahwa dia menangkap mineral itu, memberi tahu Il-gwang bahwa Il-gwang akan lebih baik darinya.#
+berbicara dengan Ilgwang#
+
+11581#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Il-gwang mengatakan bahwa dia tidak tahu cara berlatih, dan dia suka saat Cho-seung menangkap rubah berekor sembilan. Kalahkan 50 atau lebih rubah berekor sembilan di Payon Dungeon dan pergi ke Choseung.#
+Bunuh 50 Ninetails#
+
+11582#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Choseung marah atas kelakuan Eunha dan menyuruh Eunha untuk menyuruhnya datang ke kamar Ilgwang.#
+berbicara dengan Choseung#
+
+11583#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Eun-ha mengomel dan meminta pergi ke kamar Ilgwang bersama.#
+ke ruang matahari#
+
+11584#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Il-gwang berkata bahwa Tuan Cho-shi ada di dasar gunung. Ayo turun gunung dan temui Guru Choshi.#
+berbicara dengan choshi#
+
+11585#Star Emperor Job Change#SG_FEEL#QUE_NOIMAGE#
+Choshi mengatakan dia ingin menyerahkan posisi guru kepada Il-gwang, Cho-seung, dan Eun-ha, dan memberitahu mereka untuk kembali ke Meteor Forest dan memilih seseorang yang ingin mereka tumbuh bersama..#
+Bicaralah dengan Choseung, Eunhwa, atau Illgwang.#
+
+12442#Soul Reaper Way 1#SG_FEEL#QUE_NOIMAGE#
+Mari kita dengar keadaan Si Banyak yang dikelilingi oleh pekerja penginapan.#
+Soul Reaper Way#
+
+
+12443#Soul Reaper Way 2#SG_FEEL#QUE_NOIMAGE#
+Mari bertemu lagi dengan Si Banyak. Dia mungkin dibawa ke <NAVI>penginapan<INFO>payon.gat1909301010</INFO></NAVI> di suatu tempat di Payon.#
+Soul Reaper Way#
+
+
+12444#Soul Reaper Way 3#SG_FEEL#QUE_NOIMAGE#
+Ayo temukan pencuri barang si Banyak. Mungkin ada asisten di dekat penginapan.#
+Soul Reaper Way#
+
+
+12445#Soul Reaper Way 4#SG_FEEL#QUE_NOIMAGE#
+Mari kita bicara dengan <NAVI>Banyak<INFO>payon.gat1909301010</INFO></NAVI> tentang identitas pencuri tas.#
+Soul Reaper Way#
+
+
+12446 #Soul Reaper Way 5#SG_FEEL#QUE_NOIMAGE#
+Untuk mengungkap identitas pencuri koper, mari kita perang kata-kata dengan penginapan dengan anak kecil dan Banyak.#
+Soul Reaper Way#
+
+
+12447#Soul Reaper Way 6#SG_FEEL#QUE_NOIMAGE#
+Bertemu kembali dengan <NAVI>Banyak<INFO>payon.gat24129401010</INFO></NAVI> di utara Payon#
+Soul Reaper Way#
+
+
+12448#Soul Reaper Way 7#SG_FEEL#QUE_NOIMAGE#
+<NAVI>Kumpulkan 44 <ITEM>Fox Tails<INFO>1022</INFO></ITEM> diperlukan untuk Ritual ke <NAVI>Night Owl<INFO>pay_dun04.gat12011601010</INFO></NAVI>. #
+Soul Reaper Way#
+
+
+12449#Soul Reaper Way 8#SG_FEEL#QUE_NOIMAGE#
+<NAVI>Mari bertemu dengan <INFO>payon.gat24129401010</INFO></NAVI> untuk mengetahui cerita di balik First Marriage Act.#
+Soul Reaper Way#
+
+
+12450#Soul Reaper Way 9#SG_FEEL#QUE_NOIMAGE#
+Ayo masuk ke dunia Spiritual dan selamatkan adik laki-lakinya.#
+Soul Reaper Way#
+
+
+12451#Soul Reaper Way ÃÖÁ¾Àå#SG_FEEL#QUE_NOIMAGE#
+<NAVI>Mari berbicara dengan <INFO>payon.gat24129401010</INFO></NAVI> untuk berubah menjadi Soul Reaper.#
+Soul Reaper Way#
+//Star Emperor Soul Reaper end

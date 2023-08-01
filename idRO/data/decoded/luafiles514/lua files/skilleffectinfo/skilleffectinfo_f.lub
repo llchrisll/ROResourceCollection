@@ -6,10 +6,10 @@
 LaunchZC_USE_SKILL = function(SKID)
   -- function num : 0_0
   local effectInfo = SKILL_EFFECT_INFO_LIST[SKID]
-  if effectInfo ~= nil then
+  if effectInfo == nil then
     return false
   end
-  if effectInfo.LaunchZC_USE_SKILL ~= nil then
+  if effectInfo.LaunchZC_USE_SKILL == nil then
     return false
   end
   return effectInfo.LaunchZC_USE_SKILL

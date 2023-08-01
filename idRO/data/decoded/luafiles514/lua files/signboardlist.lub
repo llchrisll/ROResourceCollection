@@ -801,5 +801,7 @@ SignBoardList = {
 {"prontera", 162, 143, 6, IT_SIGNBOARD, "item\\noblesse_snovice_suit.bmp", " Grace Trader", "#0x00FFFFFF"}
 , 
 {"prontera", 148, 155, 6, IT_SIGNBOARD, "item\\C_Muranyasa.bmp", " [Evo] C Trader", "#0x00FFFFFF"}
+, 
+{"prontera", 148, 151, 6, IT_SIGNBOARD, "item\\지혜스크롤.bmp", " Angel\'s Blessing", "#0x00FFFFFF"}
 }
 

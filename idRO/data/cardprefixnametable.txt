@@ -975,3 +975,19 @@
 4581#Toilet#
 4579#Morning Star#
 4575#Short Cut#
+
+//Additional Patch 20230607
+4550#Upper Shaft#
+
+//ROCKRIDGE
+27170#Dust#
+27171#Sunset#
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27176#Dirty#
+27177#Marsh#
+27178#Zero Guard#
+27179#Wild Fang#
+27180#Power Break#

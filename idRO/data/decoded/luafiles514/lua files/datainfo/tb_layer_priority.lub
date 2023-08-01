@@ -1256,6 +1256,40 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_BearBalloon] = {Default = 303, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Jumbo_Rabbit] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bouquet_Valletta] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_Cookie_PinkRibbon] = {Default = 303}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_RBD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_PIPE_OF_JIRAIYA] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Rabbit_Wig] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Eternal_Rose] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Wave] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl_WH] = {Default = 143, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

@@ -36,7 +36,7 @@ Navi_Map = {
 , 
 {"alb2trea", " Pulau Alberta", 5001, 140, 140}
 , 
-{"alb_ship", "Kapal Alberta", 5003, 200, 200}
+{"alb_ship", "Kapal Alberta", 5001, 200, 200}
 , 
 {"alberta", "Alberta", 5001, 280, 280}
 , 
@@ -74,25 +74,33 @@ Navi_Map = {
 , 
 {"amatsu", "Amatsu, Pulau Tengu", 5001, 316, 316}
 , 
+{"ant_d02_i", "Illusion of Twin", 5001, 300, 300}
+, 
 {"anthell01", "Neraka Semut", 5001, 300, 300}
 , 
 {"anthell02", "Neraka Semut", 5001, 300, 300}
 , 
+{"arena_room", "Ruang Tunggu", 5001, 200, 200}
+, 
+{"arug_dun01", "Guild Dungeon", 5001, 400, 400}
+, 
 {"arug_que01", "Morestone", 5001, 200, 200}
 , 
-{"ayo_dun01", "Ancient Shrine Maze ", 5001, 300, 300}
+{"ayo_dun01", "Labirin Kuil Kuno", 5001, 300, 300}
 , 
-{"ayo_dun02", "Di dalam Kuil Kuno", 5001, 300, 300}
+{"ayo_dun02", "Dalam Ancient Shrine ", 5001, 300, 300}
 , 
-{"ayo_fild01", "Ayotaya Field ", 5001, 360, 360}
+{"ayo_fild01", "Daratan sekitar Ayothaya", 5001, 360, 360}
 , 
-{"ayo_fild02", "Ayotaya Field ", 5001, 360, 300}
+{"ayo_fild02", "Daratan sekitar Ayothaya", 5001, 360, 300}
 , 
-{"ayo_in01", "Di dalam Ayothaya", 5003, 200, 200}
+{"ayo_in01", "Dalam Ayotaya ", 5003, 200, 200}
 , 
 {"ayo_in02", "Dalam Ayotaya ", 5003, 200, 200}
 , 
 {"ayothaya", "Ayotaya ", 5001, 320, 320}
+, 
+{"bat_room", "Ruang Tunggu BOE", 5001, 300, 300}
 , 
 {"beach_dun", "Karu, Goa Barat", 5001, 300, 300}
 , 
@@ -118,11 +126,7 @@ Navi_Map = {
 , 
 {"c_tower2", "Clock Tower 2F", 5001, 300, 300}
 , 
-{"c_tower2_", "Twisted Clock Tower 2", 5001, 300, 300}
-, 
 {"c_tower3", "Clock Tower 3F", 5001, 260, 260}
-, 
-{"c_tower3_", "Twisted Clock Tower 3", 5001, 260, 260}
 , 
 {"c_tower4", "Clock Tower 4F", 5001, 216, 216}
 , 
@@ -148,15 +152,17 @@ Navi_Map = {
 , 
 {"cmd_in02", "Dalam Comodo", 5003, 240, 240}
 , 
+{"com_d02_i", "Illussion Luanda", 5001, 300, 300}
+, 
 {"comodo", "Pulau pantai, Comodo", 5001, 360, 380}
 , 
 {"conch_in", "Inside the Kon-Kilina", 5003, 200, 120}
 , 
 {"dali", "Dimensional Gap", 5001, 200, 200}
 , 
-{"dali02", "Dimensional Gap", 5001, 200, 200}
+{"dali02", "Dimensional Crack", 5001, 200, 200}
 , 
-{"dic_dun01", "Lorong Pertambangan Dicastes", 5005, 400, 256}
+{"dic_dun01", "Lorong Pertambangan Dicastes", 5001, 400, 256}
 , 
 {"dic_dun02", "Dungeon Scraba", 5001, 240, 240}
 , 
@@ -168,11 +174,13 @@ Navi_Map = {
 , 
 {"dic_in01", "Dalam Dicastes", 5003, 400, 300}
 , 
-{"dicastes01", "El Dicastes, Ibukota Sapha", 5005, 400, 400}
+{"dicastes01", "El Dicastes, Ibukota Sapha", 5001, 400, 400}
 , 
-{"dicastes02", "Hutan Brumbeld Jorhi", 5005, 240, 360}
+{"dicastes02", "Hutan Brumbeld Jorhi", 5001, 240, 360}
 , 
 {"e_tower", "Misty Island", 5001, 300, 300}
+, 
+{"ein_d02_i", "Illussion Teddy Bear", 5001, 300, 300}
 , 
 {"ein_dun01", "Mine Dungeon", 5001, 300, 300}
 , 
@@ -202,7 +210,9 @@ Navi_Map = {
 , 
 {"einbech", "Einbech, kota pertambangan", 5001, 300, 300}
 , 
-{"einbroch", "Einbroch, Kota Industri", 5005, 340, 380}
+{"einbroch", "Einbroch, Kota Industri", 5001, 340, 380}
+, 
+{"gef_d01_i", "Illussion Vampire", 5001, 300, 300}
 , 
 {"gef_dun00", "Dungeon Geffen", 5001, 200, 200}
 , 
@@ -242,7 +252,7 @@ Navi_Map = {
 , 
 {"gef_fild14", "Desa Barat Orc", 5001, 400, 400}
 , 
-{"gef_tower", "Menara Geffen", 5003, 200, 200}
+{"gef_tower", "Menara Geffen", 5001, 200, 200}
 , 
 {"gefenia01", "Geffenia ", 5001, 300, 300}
 , 
@@ -258,6 +268,8 @@ Navi_Map = {
 , 
 {"gl_cas01", "Glast Heim 1F", 5001, 400, 400}
 , 
+{"gl_cas01_", "Glast Heim Abyss 1st Floor", 5001, 400, 400}
+, 
 {"gl_cas02", "Glast Heim 2F", 5001, 200, 200}
 , 
 {"gl_cas02_", "Glast Heim 2F", 5001, 200, 200}
@@ -272,7 +284,7 @@ Navi_Map = {
 , 
 {"gl_dun02", "Goa terdalam di Glast Heim", 5001, 300, 300}
 , 
-{"gl_in01", "Dalam Glast Heim", 5005, 200, 200}
+{"gl_in01", "Dalam Glast Heim", 5003, 200, 200}
 , 
 {"gl_knt01", "Dalam Kavaleri Glast Heim", 5001, 300, 300}
 , 
@@ -294,9 +306,25 @@ Navi_Map = {
 , 
 {"glast_01", "Glast Heim", 5001, 400, 400}
 , 
+{"gld2_ald", "Corridor of the abyss : Tear of the Hero", 5001, 300, 300}
+, 
+{"gld2_gef", "Corridor of the abyss : Dead men\'s hill", 5001, 260, 240}
+, 
+{"gld2_pay", "Corridor of the abyss : The ancient wind", 5001, 240, 240}
+, 
+{"gld2_prt", "Corridor of the abyss : Warrior\'s way", 5001, 280, 280}
+, 
+{"gld_dun01", "Guild Dungeon", 5001, 240, 240}
+, 
+{"gld_dun02", "Guild Dungeon", 5001, 200, 200}
+, 
+{"gld_dun03", "Guild Dungeon", 5001, 300, 300}
+, 
+{"gld_dun04", "Guild Dungeon", 5001, 300, 300}
+, 
 {"gon_dun01", "Makam Xi Wang Mu", 5001, 300, 300}
 , 
-{"gon_dun02", "Catur para DewaAsian Checkers of Hermits", 5005, 300, 300}
+{"gon_dun02", "Catur para DewaAsian Checkers of Hermits", 5001, 300, 300}
 , 
 {"gon_dun03", "Khayangan", 5001, 240, 300}
 , 
@@ -304,15 +332,9 @@ Navi_Map = {
 , 
 {"gon_in", "Dalam Gonryun", 5003, 200, 120}
 , 
+{"gon_test", "Arena Pertarungan", 5001, 100, 120}
+, 
 {"gonryun", "Gonryun, Tempat para Dewa", 5001, 300, 300}
-, 
-{"guild_vs2_1", "Arena Guild", 5001, 100, 100}
-, 
-{"guild_vs2_2", "Arena Guild", 5001, 100, 100}
-, 
-{"guild_vs2_3", "Arena Guild", 5001, 100, 100}
-, 
-{"guild_vs2_4", "Arena Guild", 5001, 100, 100}
 , 
 {"hu_fild01", "Thanatos Tower ", 5001, 400, 400}
 , 
@@ -322,7 +344,7 @@ Navi_Map = {
 , 
 {"hu_fild04", "Hugel Field ", 5001, 400, 400}
 , 
-{"hu_fild05", "The Abyss Lake ", 5005, 400, 400}
+{"hu_fild05", "The Abyss Lake ", 5001, 400, 400}
 , 
 {"hu_fild06", "Hugel Field ", 5001, 400, 400}
 , 
@@ -340,17 +362,19 @@ Navi_Map = {
 , 
 {"ice_dun04", "Gua Es", 5001, 200, 200}
 , 
-{"in_moc_16", "Klan Assassin", 5003, 200, 200}
+{"in_hunter", "Perkumpulan Hunter", 5001, 200, 200}
 , 
-{"in_orcs01", "Desa Orc", 5003, 200, 200}
+{"in_moc_16", "Klan Assassin", 5001, 200, 200}
 , 
-{"in_rogue", "Dalam Perkumpulan Rogue", 5003, 400, 400}
+{"in_orcs01", "Desa Orc", 5001, 200, 200}
+, 
+{"in_rogue", "Dalam Perkumpulan Rogue", 5001, 400, 400}
 , 
 {"in_sphinx1", "Sphinx", 5001, 300, 300}
 , 
 {"in_sphinx2", "Sphinx", 5001, 300, 300}
 , 
-{"in_sphinx3", "Sphinx", 5005, 240, 240}
+{"in_sphinx3", "Sphinx", 5001, 240, 240}
 , 
 {"in_sphinx4", "Sphinx", 5001, 240, 240}
 , 
@@ -370,7 +394,7 @@ Navi_Map = {
 , 
 {"izlu2dun", "Pulau Byalan", 5001, 216, 232}
 , 
-{"izlude", "Kota Izlude", 5001, 268, 268}
+{"izlude", "Kota Izlude", 5001, 268, 300}
 , 
 {"izlude_in", "Dalam Izlude", 5003, 200, 200}
 , 
@@ -378,23 +402,35 @@ Navi_Map = {
 , 
 {"jawaii_in", "Di dalam Jawaii", 5003, 200, 140}
 , 
+{"job3_gen01", "Laboratorium Genetik", 5001, 100, 100}
+, 
 {"job3_guil01", "Bar Rahasia", 5003, 160, 100}
 , 
-{"jupe_area1", "Area Terlarang Juperos", 5003, 164, 300}
+{"job3_rune01", "Dalam Rune Knight Templar", 5001, 160, 100}
 , 
-{"jupe_area2", "Area Terlarang Juperos", 5003, 164, 300}
+{"job_duncer", "Teater Comodo", 5001, 140, 172}
 , 
-{"jupe_cave", "Pintu masuk Juperos", 5003, 232, 100}
+{"job_gun", "Shelter of Rebellion", 5001, 300, 200}
 , 
-{"jupe_core", "Pusat Juperos", 5003, 300, 300}
+{"job_monk", "Kuil St. Capitolina", 5001, 400, 300}
 , 
-{"jupe_core2", "Pusat Juperos", 5003, 300, 300}
+{"job_star", "Matahari, bulan dan bintang ", 5001, 200, 184}
 , 
-{"jupe_ele", "Lift Juperos", 5003, 100, 124}
+{"jupe_area1", "Area Terlarang Juperos", 5001, 164, 300}
 , 
-{"jupe_ele_r", "Lift Juperos", 5003, 100, 160}
+{"jupe_area2", "Area Terlarang Juperos", 5001, 164, 300}
 , 
-{"jupe_gate", "Area Terlarang Juperos", 5003, 100, 200}
+{"jupe_cave", "Pintu masuk Juperos", 5001, 232, 100}
+, 
+{"jupe_core", "Pusat Juperos", 5001, 300, 300}
+, 
+{"jupe_core2", "Pusat Juperos", 5001, 300, 300}
+, 
+{"jupe_ele", "Lift Juperos", 5001, 100, 124}
+, 
+{"jupe_ele_r", "Lift Juperos", 5001, 100, 160}
+, 
+{"jupe_gate", "Area Terlarang Juperos", 5001, 100, 200}
 , 
 {"juperos_01", "Juperos Dungeon", 5001, 300, 300}
 , 
@@ -404,13 +440,13 @@ Navi_Map = {
 , 
 {"kh_dun02", "Robot Factory level 2 ", 5001, 240, 240}
 , 
-{"kh_mansion", "Kiel Hyre\'s Mansion ", 5003, 100, 100}
+{"kh_mansion", "Kiel Hyre\'s Mansion ", 5001, 100, 100}
 , 
-{"kh_rossi", "The Rosimier\'s Mansion ", 5003, 300, 300}
+{"kh_rossi", "The Rosimier\'s Mansion ", 5001, 300, 300}
 , 
-{"kh_school", "Akademi Kiel Hyre ", 5003, 200, 200}
+{"kh_school", "Akademi Kiel Hyre ", 5001, 200, 200}
 , 
-{"kh_vila", "Kiel Hyre\'s Cottage ", 5003, 200, 200}
+{"kh_vila", "Kiel Hyre\'s Cottage ", 5001, 200, 200}
 , 
 {"lasa_dun01", "Dragon\'s Nest", 5001, 220, 220}
 , 
@@ -420,7 +456,7 @@ Navi_Map = {
 , 
 {"lasa_dun_q", "Dragon\'s Nest", 5001, 320, 320}
 , 
-{"lasa_fild01", "Ravioli Plain Watch", 5005, 400, 400}
+{"lasa_fild01", "Ravioli Plain Watch", 5001, 400, 400}
 , 
 {"lasa_fild02", "Ravioli Forest", 5001, 400, 400}
 , 
@@ -430,17 +466,13 @@ Navi_Map = {
 , 
 {"lhz_airport", "Landasan udara Lighthalzen", 5002, 300, 120}
 , 
-{"lhz_cube_1", "Cube Room", 5001, 260, 212}
-, 
 {"lhz_dun01", "Laboratorium Somatology ", 5001, 300, 300}
 , 
 {"lhz_dun02", "Laboratorium Somatology", 5001, 300, 300}
 , 
 {"lhz_dun03", "Laboratorium Somatology", 5001, 280, 280}
 , 
-{"lhz_dun04", "Human Experimentation Laboratory B4", 5001, 300, 300}
-, 
-{"lhz_dun_n", "Tomb of the dead", 5001, 280, 280}
+{"lhz_dun04", "Laboratorium Somatology B4F", 5001, 300, 300}
 , 
 {"lhz_fild01", "Field Lighthalzen", 5001, 400, 400}
 , 
@@ -454,7 +486,9 @@ Navi_Map = {
 , 
 {"lhz_in03", "Dalam Lighthalzen", 5003, 280, 280}
 , 
-{"lighthalzen", "Lighthalzen, Kota kemakmuran", 5005, 400, 360}
+{"lhz_que01", "Dalam Lighthalzen", 5001, 120, 180}
+, 
+{"lighthalzen", "Lighthalzen, Kota kemakmuran", 5001, 400, 360}
 , 
 {"lou_dun01", "Kuburan Keluarga Kerajaan", 5001, 300, 300}
 , 
@@ -480,9 +514,29 @@ Navi_Map = {
 , 
 {"ma_scene01", "Danau Bakonawa", 5001, 340, 360}
 , 
+{"ma_zif01", "Inside of Jeepney", 5003, 60, 60}
+, 
+{"ma_zif02", "Inside of Jeepney", 5003, 60, 60}
+, 
+{"ma_zif03", "Inside of Jeepney", 5003, 60, 60}
+, 
+{"ma_zif04", "Inside of Jeepney", 5003, 60, 60}
+, 
+{"ma_zif05", "Inside of Jeepney", 5003, 60, 60}
+, 
+{"ma_zif06", "Inside of Jeepney", 5003, 60, 60}
+, 
+{"ma_zif07", "Inside of Jeepney", 5003, 60, 60}
+, 
+{"ma_zif08", "Inside of Jeepney", 5003, 60, 60}
+, 
+{"ma_zif09", "Inside of Jeepney", 5003, 60, 60}
+, 
 {"mag_dun01", "Norgroad", 5001, 260, 260}
 , 
 {"mag_dun02", "Norgroad", 5001, 260, 260}
+, 
+{"mag_dun03", "Nogg Road 3rd Floor", 5001, 260, 260}
 , 
 {"mal_dun01", "malangdo Dungeon", 5001, 260, 260}
 , 
@@ -600,7 +654,7 @@ Navi_Map = {
 , 
 {"moc_pryd06", "Dalam Pyramid", 5001, 204, 204}
 , 
-{"moc_prydb1", "Perkumpulan Thief", 5005, 200, 200}
+{"moc_prydb1", "Perkumpulan Thief", 5001, 200, 200}
 , 
 {"moc_prydn1", "Morocc Pyramid Underground 1st Floor - Challenge", 5001, 232, 232}
 , 
@@ -610,7 +664,7 @@ Navi_Map = {
 , 
 {"monk_in", "Dalam St.Abbey", 5003, 200, 200}
 , 
-{"monk_test", "Kuil St. Capitolina", 5003, 400, 400}
+{"monk_test", "Kuil St. Capitolina", 5001, 400, 400}
 , 
 {"mora", "Rafle Village, Mora", 5001, 240, 240}
 , 
@@ -636,6 +690,50 @@ Navi_Map = {
 , 
 {"mosk_in", "Dalam Moscovia", 5003, 300, 300}
 , 
+{"mosk_que", "Goa Naga", 5001, 100, 240}
+, 
+{"mosk_ship", "Kapal", 5001, 200, 200}
+, 
+{"new_1-1", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_1-2", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_1-3", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_1-4", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_2-1", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_2-2", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_2-3", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_2-4", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_3-1", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_3-2", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_3-3", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_3-4", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_4-1", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_4-2", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_4-3", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_4-4", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_5-1", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_5-2", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_5-3", "Tempat Pelatihan", 5001, 200, 200}
+, 
+{"new_5-4", "Tempat Pelatihan", 5001, 200, 200}
+, 
 {"nif_fild01", "Skelington (Desa Terjauh Niflheim)", 5001, 400, 400}
 , 
 {"nif_fild02", "Kubah Setan", 5001, 400, 400}
@@ -643,6 +741,8 @@ Navi_Map = {
 {"nif_in", "Dalam Niflheim", 5003, 200, 200}
 , 
 {"niflheim", "Kota Kematian Niflheim", 5001, 400, 300}
+, 
+{"niflxmas", "Deadman\'s land Niffelheim", 5001, 400, 300}
 , 
 {"nyd_dun01", "The violent\'s Wound", 5001, 300, 300}
 , 
@@ -665,6 +765,10 @@ Navi_Map = {
 {"ordeal_3-3", "Battle Mode", 5001, 300, 300}
 , 
 {"ordeal_3-4", "Battle Mode", 5001, 308, 308}
+, 
+{"p_track01", "Monster Race Arena ", 5001, 100, 80}
+, 
+{"p_track02", "Monster Race Arena ", 5001, 100, 80}
 , 
 {"pay_arche", "Desa Archer", 5001, 200, 200}
 , 
@@ -710,7 +814,17 @@ Navi_Map = {
 , 
 {"payon_in03", "Dalam Payon", 5003, 200, 200}
 , 
+{"priest_1-1", "Tempat Suci", 5001, 200, 200}
+, 
+{"priest_2-1", "Tempat Suci", 5001, 200, 200}
+, 
+{"priest_3-1", "Tempat Suci", 5001, 200, 200}
+, 
 {"prontera", "Kota Prontera", 5001, 312, 392}
+, 
+{"prt_are01", "ARENA", 5001, 300, 300}
+, 
+{"prt_are_in", "Ruang Tunggu", 5003, 200, 200}
 , 
 {"prt_cas", "Prontera Center Palace", 5003, 400, 356}
 , 
@@ -746,27 +860,21 @@ Navi_Map = {
 , 
 {"prt_in", "Dalam Prontera", 5003, 300, 200}
 , 
-{"prt_in_1", "Dalam Prontera", 5003, 300, 200}
+{"prt_lib", "Royal Memory", 5001, 160, 120}
 , 
-{"prt_in_2", "Dalam Prontera", 5003, 300, 200}
+{"prt_lib_q", "Old Memoir of Royal Family", 5001, 160, 120}
 , 
-{"prt_in_3", "Dalam Prontera", 5003, 300, 200}
-, 
-{"prt_in_4", "Dalam Prontera", 5003, 300, 200}
-, 
-{"prt_lib", "Royal Memory", 5003, 160, 120}
-, 
-{"prt_lib_q", "Old Memoir of Royal Family", 5003, 160, 120}
-, 
-{"prt_maze01", "Hutan Labirin", 5005, 200, 200}
+{"prt_maze01", "Hutan Labirin", 5001, 200, 200}
 , 
 {"prt_maze02", "Hutan Labirin", 5001, 200, 200}
 , 
-{"prt_maze03", "Hutan Labirin", 5005, 200, 200}
+{"prt_maze03", "Hutan Labirin", 5001, 200, 200}
 , 
 {"prt_monk", "Kuil St. Capitolina", 5001, 400, 300}
 , 
-{"prt_pri00", "Prontera Prison", 5003, 200, 200}
+{"prt_mz03_i", "Illussion Labyrinth", 5001, 200, 200}
+, 
+{"prt_pri00", "Prontera Prison", 5001, 200, 200}
 , 
 {"prt_prison", "Prontera Underground Prison", 5001, 300, 300}
 , 
@@ -774,37 +882,37 @@ Navi_Map = {
 , 
 {"prt_sewb1", "Lorong Prontera", 5001, 320, 320}
 , 
-{"prt_sewb2", "Lorong Prontera", 5005, 200, 200}
+{"prt_sewb2", "Lorong Prontera", 5001, 200, 200}
 , 
 {"prt_sewb3", "Lorong Prontera", 5001, 200, 200}
 , 
 {"prt_sewb4", "Lorong Prontera", 5001, 200, 200}
 , 
+{"pub_cat", "Cat on a Bullet", 5001, 200, 160}
+, 
+{"que_bingo", "Bingo Game Room ", 5001, 100, 200}
+, 
 {"que_dan02", "Rumah Tua di Yuno", 5003, 120, 60}
 , 
-{"que_god01", "Quest Map ", 5003, 300, 140}
+{"que_god01", "Quest Map ", 5001, 300, 140}
+, 
+{"que_god02", "Quest Map ", 5001, 200, 140}
+, 
+{"que_house_s", "Strange House", 5003, 96, 60}
+, 
+{"que_hugel", "Kuil bawah tanah Odin  ", 5001, 200, 200}
 , 
 {"que_job01", "Private Pub ", 5001, 160, 100}
 , 
+{"que_lhz", "Human Experimentation Laboratory B4", 5001, 300, 300}
+, 
+{"que_qsch01", "Dungeon Okolnir", 5001, 400, 400}
+, 
+{"que_rachel", "Inside Temple", 5001, 340, 340}
+, 
 {"que_swat", "Pangkalan Militer Heart Hunter", 5001, 360, 360}
 , 
-{"que_thor", "Thor Volcano Dungeon", 5003, 200, 100}
-, 
-{"quiz_00_1", "Panggung Kuis", 5001, 140, 160}
-, 
-{"quiz_00_2", "Panggung Kuis", 5001, 140, 160}
-, 
-{"quiz_00_3", "Panggung Kuis", 5001, 140, 160}
-, 
-{"quiz_00_4", "Panggung Kuis", 5001, 140, 160}
-, 
-{"quiz_01_1", "Panggung Kuis", 5001, 400, 400}
-, 
-{"quiz_01_2", "Panggung Kuis", 5001, 400, 400}
-, 
-{"quiz_01_3", "Panggung Kuis", 5001, 400, 400}
-, 
-{"quiz_01_4", "Panggung Kuis", 5001, 400, 400}
+{"que_thor", "Thor Volcano Dungeon", 5001, 200, 100}
 , 
 {"ra_fild01", "Padang Rumput Audhumbla", 5001, 400, 400}
 , 
@@ -848,15 +956,27 @@ Navi_Map = {
 , 
 {"ra_temple", "Kuil Utama - Cheshrumnir", 5001, 240, 240}
 , 
-{"ra_temsky", "Kantor Uskup - Taman Surga", 5003, 200, 200}
+{"ra_temsky", "Kantor Uskup - Taman Surga", 5001, 200, 200}
 , 
 {"rachel", "Rachel, Ibukota Negeri Arunafeltz", 5001, 300, 300}
 , 
 {"rebel_in", "Klana Nemieri", 5003, 220, 100}
 , 
-{"s_atelier", "Bengkel Bayangan", 5003, 200, 140}
+{"rgsr_in", "Regenschirm Laboratory", 5003, 260, 260}
+, 
+{"schg_dun01", "Guild Dungeon", 5001, 400, 400}
 , 
 {"slabw01", "Institut Werner", 5001, 300, 180}
+, 
+{"sp_cor", "Cor Special Security Area", 5001, 300, 320}
+, 
+{"sp_os", "Os Special Security Area", 5001, 400, 400}
+, 
+{"sp_rudus", "Lab Waste Disposal Plant Rudus 1", 5001, 400, 400}
+, 
+{"sp_rudus2", "Lab Waste Disposal Plant Rudus 2", 5001, 400, 400}
+, 
+{"sp_rudus3", "Lab Waste Disposal Plant Rudus 3", 5001, 400, 400}
 , 
 {"spl_fild01", "Splandid Field", 5001, 400, 400}
 , 
@@ -869,6 +989,18 @@ Navi_Map = {
 {"spl_in02", "Splandid", 5003, 300, 300}
 , 
 {"splendide", "Markas Rapine, Splandid", 5001, 400, 400}
+, 
+{"star_frst", "Meteor Forest", 5001, 200, 200}
+, 
+{"star_in", "Meteor Forest in", 5003, 200, 200}
+, 
+{"sword_1-1", "Ruang Tes Swordman", 5001, 260, 260}
+, 
+{"sword_2-1", "Ruang Tes Swordman", 5001, 260, 260}
+, 
+{"teg_dun01", "Subterranean Dungeon of Guild", 5001, 300, 300}
+, 
+{"teg_dun02", "Subterranean Dungeon of Guild", 5001, 200, 200}
 , 
 {"tha_t01", "Thanatos Tower - Lower Level ", 5001, 300, 300}
 , 
@@ -896,7 +1028,7 @@ Navi_Map = {
 , 
 {"thana_boss", "Thanatos Tower - Unknown Area ", 5001, 280, 280}
 , 
-{"thana_step", "Thanatos Tower - Upper Level ", 5005, 240, 400}
+{"thana_step", "Thanatos Tower - Upper Level ", 5001, 240, 400}
 , 
 {"thor_camp", "Thor Volcano Camp", 5001, 300, 360}
 , 
@@ -906,17 +1038,9 @@ Navi_Map = {
 , 
 {"thor_v03", "Thor Volcano Dungeon", 5001, 300, 300}
 , 
-{"ti_high", "Turn-in High level", 5001, 200, 200}
+{"treasure01", "Kapal Hantu", 5001, 200, 200}
 , 
-{"ti_low", "Turn-in Low level", 5001, 200, 200}
-, 
-{"ti_mid", "Turn-in Medium level", 5001, 240, 240}
-, 
-{"ti_vip", "Turn-in VIP", 5001, 200, 200}
-, 
-{"treasure01", "Kapal Hantu", 5005, 200, 200}
-, 
-{"treasure02", "Kapal Hantu", 5005, 200, 200}
+{"treasure02", "Kapal Hantu", 5001, 200, 200}
 , 
 {"tur_dun01", "Pulau Turtle", 5001, 300, 300}
 , 
@@ -930,7 +1054,11 @@ Navi_Map = {
 , 
 {"tur_dun06", "Daerah Rawa Bawa Tanah", 5001, 100, 100}
 , 
-{"turbo_room", "Ruang Tunggu", 5003, 200, 200}
+{"turbo_room", "Ruang Tunggu", 5001, 200, 200}
+, 
+{"um_dun01", "Toko Tukang Kayu di Dalam Hutan", 5001, 300, 300}
+, 
+{"um_dun02", "Jalan Menuju ke Dunia Lain", 5001, 300, 300}
 , 
 {"um_fild01", "Hutan Ruruka", 5001, 400, 400}
 , 
@@ -944,11 +1072,11 @@ Navi_Map = {
 , 
 {"umbala", "Umbala, Desa Suku Wootan", 5001, 280, 344}
 , 
-{"un_bk_q", "Under Bunker", 5003, 400, 400}
+{"un_bk_q", "Under Bunker", 5001, 400, 400}
 , 
-{"un_bunker", "Under Bunker", 5003, 400, 400}
+{"un_bunker", "Under Bunker", 5001, 400, 400}
 , 
-{"un_myst", "Under Tunnel", 5003, 400, 220}
+{"un_myst", "Under Tunnel", 5001, 400, 220}
 , 
 {"ve_fild01", "Veins Field", 5001, 400, 400}
 , 
@@ -994,9 +1122,9 @@ Navi_Map = {
 , 
 {"y_airport", "Juno Airport", 5002, 300, 120}
 , 
-{"yggdrasil01", "?Pulau Herbet Camlet (Batang Pohon Yggdrasil)", 5003, 300, 300}
+{"yggdrasil01", "?Pulau Herbet Camlet (Batang Pohon Yggdrasil)", 5001, 300, 300}
 , 
-{"yuno", "Juno, Ibukota Schwaltsvalt", 5005, 400, 400}
+{"yuno", "Juno, Ibukota Schwaltsvalt", 5001, 400, 400}
 , 
 {"yuno_fild01", "Perbatasan", 5001, 400, 400}
 , 
@@ -1030,9 +1158,9 @@ Navi_Map = {
 , 
 {"yuno_in04", "Dalam Juno", 5003, 200, 140}
 , 
-{"yuno_pre", "Gedung Pemerintahab Schwaltzvalt", 5003, 140, 140}
+{"yuno_pre", "Gedung Pemerintahab Schwaltzvalt", 5001, 140, 140}
 , 
-{"1@sara", "Sara\'s Memory", 5001, 300, 360}
+{"1@os_a", "OS Occupation War", 5001, 400, 400}
 , 
 {"NULL", "", 0, 0, 0}
 }

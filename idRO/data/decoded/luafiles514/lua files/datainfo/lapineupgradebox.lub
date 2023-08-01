@@ -1102,6 +1102,30 @@ TargetItems = {
 {"S_Varetyr_Pendant", 24558}
 , 
 {"S_Varetyr_Earing", 24559}
+, 
+{"S_Shooting_Weapon", 24461}
+, 
+{"S_Shooting_Pendant", 24462}
+, 
+{"S_Shooting_Earing", 24463}
+, 
+{"S_Magnus_Weapon", 24497}
+, 
+{"S_Magnus_Pendant", 24498}
+, 
+{"S_Magnus_Earing", 24499}
+, 
+{"S_Reverberation_Weapon", 24509}
+, 
+{"S_Reverberation_Pendant", 24510}
+, 
+{"S_Reverberation_Earing", 24511}
+, 
+{"S_Paint_Weapon", 24533}
+, 
+{"S_Paint_Pendant", 24534}
+, 
+{"S_Paint_Earing", 24535}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -2014,6 +2038,30 @@ TargetItems = {
 {"S_Varetyr_Pendant", 24558}
 , 
 {"S_Varetyr_Earing", 24559}
+, 
+{"S_Shooting_Weapon", 24461}
+, 
+{"S_Shooting_Pendant", 24462}
+, 
+{"S_Shooting_Earing", 24463}
+, 
+{"S_Magnus_Weapon", 24497}
+, 
+{"S_Magnus_Pendant", 24498}
+, 
+{"S_Magnus_Earing", 24499}
+, 
+{"S_Reverberation_Weapon", 24509}
+, 
+{"S_Reverberation_Pendant", 24510}
+, 
+{"S_Reverberation_Earing", 24511}
+, 
+{"S_Paint_Weapon", 24533}
+, 
+{"S_Paint_Pendant", 24534}
+, 
+{"S_Paint_Earing", 24535}
 }
 , NeedSource_String = "+7 Shadow Equipment"}
 , 
@@ -3034,6 +3082,30 @@ TargetItems = {
 {"S_Varetyr_Pendant", 24558}
 , 
 {"S_Varetyr_Earing", 24559}
+, 
+{"S_Shooting_Weapon", 24461}
+, 
+{"S_Shooting_Pendant", 24462}
+, 
+{"S_Shooting_Earing", 24463}
+, 
+{"S_Magnus_Weapon", 24497}
+, 
+{"S_Magnus_Pendant", 24498}
+, 
+{"S_Magnus_Earing", 24499}
+, 
+{"S_Reverberation_Weapon", 24509}
+, 
+{"S_Reverberation_Pendant", 24510}
+, 
+{"S_Reverberation_Earing", 24511}
+, 
+{"S_Paint_Weapon", 24533}
+, 
+{"S_Paint_Pendant", 24534}
+, 
+{"S_Paint_Earing", 24535}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -3544,6 +3616,12 @@ TargetItems = {
 {"Up_Trumpet_Shell_K", 570009}
 , 
 {"Up_Barb_Wire_K", 580009}
+, 
+{"Up_Freedom_Stick", 550081}
+, 
+{"Up_Scalet_Dragon_L_Bow", 700019}
+, 
+{"Freedom_Stick", 550080}
 }
 , NeedSource_String = "Hero Weapon"}
 , 
@@ -4032,6 +4110,10 @@ TargetItems = {
 {"Up_Trumpet_Shell_K", 570009}
 , 
 {"Up_Barb_Wire_K", 580009}
+, 
+{"Up_Freedom_Stick", 550081}
+, 
+{"Up_Scalet_Dragon_L_Bow", 700019}
 }
 , NeedSource_String = "Patent Weapon"}
 , 
@@ -4637,9 +4719,17 @@ TargetItems = {
 , 
 {"Noblesse_Dust_Robe", 450043}
 , 
+{"Noblesse_Sun_Suit", 450044}
+, 
+{"Noblesse_Moon_Suit", 450045}
+, 
 {"Noblesse_Ninja_Suit", 450046}
 , 
 {"Noblesse_Kunai_Suit", 450047}
+, 
+{"Noblesse_Swhoo_Robe", 450048}
+, 
+{"Noblesse_Explosion_Robe", 450049}
 , 
 {"Noblesse_Knuckle_Suit", 450050}
 , 
@@ -4801,9 +4891,17 @@ TargetItems = {
 , 
 {"Grace_Dust_Robe", 450113}
 , 
+{"Grace_Sun_Suit", 450114}
+, 
+{"Grace_Moon_Suit", 450115}
+, 
 {"Grace_Ninja_Suit", 450116}
 , 
 {"Grace_Kunai_Suit", 450117}
+, 
+{"Grace_Swhoo_Robe", 450118}
+, 
+{"Grace_Explosion_Robe", 450119}
 , 
 {"Grace_Snovice_Suit", 450125}
 , 

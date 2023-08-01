@@ -2379,7 +2379,7 @@ Item yang akan didapatkan dari membuka item ini adalah item Character Bound (tid
 1#
 1#
 1#
-1#
+Keajaiban Matahari, Bulan, dan Bintang tidak bekerja di map ini.#
 1#
 1#
 1#
@@ -3305,10 +3305,10 @@ Kupon#
 Kupon Terpakai#
 RO Cash#
 Diskon#
-no msg#
-no msg#
-no msg#
-no msg#
+Star Emperor (Female)#
+Soul Reaper (Female)#
+Star Emperor (Male)#
+Soul Reaper (Male)#
 Jika beratmu melebihi %d persen, HP SP tidak akan regenerasi secara natural.#
 Kamu tidak bisa membeli lebih dari 8 jenis barang sekaligus#
 no msg#
@@ -3528,7 +3528,7 @@ no msg#
 no msg#
 no msg#
 no msg#
-no msg#
+Soul Energy tidak cukup#
 no msg#
 no msg#
 no msg#

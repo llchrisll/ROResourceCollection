@@ -49,6 +49,18 @@ yuno = {
 rachel = {
 {name = "Styling Shop", X = 90, Y = 189, TYPE = 7}
 }
+, 
+harboro1 = {
+{name = "Kafra Employee", X = 291, Y = 207, TYPE = 6}
+, 
+{name = "Innkeeper", X = 156, Y = 215, TYPE = 5}
+, 
+{name = "Guide", X = 356, Y = 211, TYPE = 4}
+, 
+{name = "Guide", X = 80, Y = 211, TYPE = 4}
+, 
+{name = "Portal", X = 312, Y = 193, TYPE = 0}
+}
 }
 main = function()
   -- function num : 0_0

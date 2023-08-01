@@ -554,6 +554,30 @@ SourceItems = {
 {"C_Soccer_Ball", 1, 410218}
 , 
 {"C_Blink_Eyes_Frozen", 1, 410220}
+, 
+{"C_Zherlthsh_Doll", 1, 31562}
+, 
+{"C_Sweets_Captive", 1, 400406}
+, 
+{"C_Sakura_Witch_Hat", 1, 400431}
+, 
+{"C_Bouquet_Valletta", 1, 410156}
+, 
+{"C_Pipe_Of_Jiraiya", 1, 420169}
+, 
+{"C_Angelic_Long_RBD", 1, 480272}
+, 
+{"C_Pierced_Apple", 1, 400046}
+, 
+{"C_Shovel_Hat", 1, 400271}
+, 
+{"C_Galaxy_Circlet", 1, 400313}
+, 
+{"C_Mad_Hatter_Hat", 1, 400435}
+, 
+{"C_Straw_Rice_Bag_V", 1, 410107}
+, 
+{"C_Supplement_P_Income", 1, 410128}
 }
 , NeedSource_String = "Silvervine Costume"}
 , 
@@ -2428,6 +2452,18 @@ SourceItems = {
 {"Blessed_Knife", 1, 510070}
 }
 , NeedSource_String = "Blessed Knife"}
+, 
+Scalet_Dragon_L_Cube = {ItemID = 100377, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Scalet_Dragon_L_Bow", 1, 700003}
+}
+, NeedSource_String = "Scarlet Dragon Leather Bow"}
+, 
+Freedom_Stick_Cube = {ItemID = 101482, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Freedom_Stick", 1, 550080}
+}
+, NeedSource_String = "Freedom Stick"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

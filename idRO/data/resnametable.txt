@@ -1642,6 +1642,11 @@ bossnia_04.rsw#gef_dun03.rsw#
 1@infi.gat#1@infi.gat#
 1@infi.rsw#1@infi.rsw#
 
+//Custom Map
+1@sumgarden.gnd#1@sumgarden.gnd#
+1@sumgarden.gat#1@sumgarden.gat#
+1@sumgarden.rsw#1@sumgarden.rsw#
+
 //Edda Arunafeltz
 1@pop1.gnd#1@pop1.gnd#
 1@pop1.gat#1@pop1.gat#
@@ -1652,3 +1657,16 @@ bossnia_04.rsw#gef_dun03.rsw#
 1@pop3.gnd#1@pop3.gnd#
 1@pop3.gat#1@pop3.gat#
 1@pop3.rsw#1@pop3.rsw#
+
+//Star Emperor Soul Reaper
+//초혼대법
+1@soul.gnd#1@soul.gnd#
+1@soul.gat#1@soul.gat#
+1@soul.rsw#1@soul.rsw#
+유저인터페이스\map\1@soul.bmp#유저인터페이스\map\1@soul.bmp#
+
+//Quest Special Starsoul
+starsoul.gnd#starsoul.gnd#
+starsoul.gat#starsoul.gat#
+starsoul.rsw#starsoul.rsw#
+유저인터페이스\map\starsoul.bmp#유저인터페이스\map\starsoul.bmp#

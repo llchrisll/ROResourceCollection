@@ -1017,3 +1017,21 @@ ant_d02_i.rsw#Illusion of Twin#
 1@pop1.rsw#Pope's Office#
 1@pop2.rsw#The Way Home#
 1@pop3.rsw#Sky Garden#
+
+// Rockridge
+har_in01.rsw#Rock Ridge#
+harboro1.rsw#Rock Ridge#
+harboro2.rsw#Culvert#
+rockmi1.rsw#Rock Ridge Mine 1F#
+rockmi2.rsw#Rock Ridge Mine 2F#
+rockrdg1.rsw#Kiwawa Desert 1#
+rockrdg2.rsw#Kiwawa Desert 2#
+
+//Star Emperor Soul Reaper
+star_frst.rsw#Meteor Forest#
+star_in.rsw#Meteor Forest in#
+	//고성 상급 메모리얼던전
+1@soul.rsw#Passage of Soul#
+
+//Quest Special Starsoul
+starsoul.rsw#Special Quest Map#

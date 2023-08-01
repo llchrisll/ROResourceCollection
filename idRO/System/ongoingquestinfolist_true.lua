@@ -17956,5 +17956,605 @@ Description = {"Seseorang petualang aneh memintamu mengalahkan Naght Sieger di E
 [292418] = {Title = "Kalahkan Naght Sieger - Cooldown", IconName = "ico_ev.bmp", 
 Description = {"Quest ini sedang cooldown, Unknown Warrior setelah 6 hari."}
 , Summary = "Cooldown 6 hari"}
+, 
+[1298] = {Title = "[Daily] Gas! Gas!", IconName = "ico_dq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Frail Ghast]<INFO>rockrdg2,295,328,0,101,0</INFO></NAVI>. Buru 20<NAVI>[Gaster]<INFO>GASTER,0,0,3,-222,1</INFO></NAVI>."}
+, Summary = "Buru 20 Gaster."}
+, 
+[1299] = {Title = "Cooldown: Gas! Gas!", IconName = "ico_dq.bmp", 
+Description = {"Quest sedang cooldown. Bicara ke NPC <NAVI>[Frail Ghast]<INFO>rockrdg2,295,328,0,101,0</INFO></NAVI> esok hari."}
+, Summary = "Reset pukul 04.00", CoolTimeQuest = 1}
+, 
+[1321] = {Title = "Spotty and Her Ring", IconName = "ico_nq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI> untuk memulai quest."}
+, Summary = "Mencari cincin"}
+, 
+[1322] = {Title = "Found something", IconName = "ico_nq.bmp", 
+Description = {"Kamu menemukan seseuatu, ayo kembali ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."}
+, Summary = "Kembali ke NPC Mrs. McPhy"}
+, 
+[1323] = {Title = "[Daily] Spotty, No!", IconName = "ico_dq.bmp", 
+Description = {"Investigasi <NAVI>[Hole]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI> & Laporkan kembali ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."}
+, Summary = "Investigasi Hole"}
+, 
+[1324] = {Title = "[Daily] Spotty, No!", IconName = "ico_dq.bmp", 
+Description = {"Investigasi <NAVI>[Hole]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI> & Laporkan kembali ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."}
+, Summary = "Investigasi Hole"}
+, 
+[1325] = {Title = "S[Daily] potty, No!", IconName = "ico_dq.bmp", 
+Description = {"Investigasi <NAVI>[Hole]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI> & Laporkan kembali ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."}
+, Summary = "Investigasi Hole"}
+, 
+[1326] = {Title = "[Daily] Spotty, No!", IconName = "ico_dq.bmp", 
+Description = {"Investigasi <NAVI>[Hole]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI> & Laporkan kembali ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."}
+, Summary = "Investigasi Hole"}
+, 
+[1327] = {Title = "[Daily] Spotty, No!", IconName = "ico_dq.bmp", 
+Description = {"Investigasi <NAVI>[Hole]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI> & Laporkan kembali ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."}
+, Summary = "Investigasi Hole"}
+, 
+[1328] = {Title = "[Daily] Spotty, No!", IconName = "ico_dq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI> untuk memulai quest."}
+, Summary = "Bicara ke NPC Mrs. McPhy"}
+, 
+[1329] = {Title = "Cooldown: Spotty, No!", IconName = "ico_dq.bmp", 
+Description = {"Quest sedang cooldown. Bicara ke NPC <NAVI>[Mrs. McPhy]<INFO>harboro1,347,65,0,101,0</INFO></NAVI> esok hari."}
+, Summary = "Reset pukul 04.00", CoolTimeQuest = 1}
+, 
+[1330] = {Title = "Where\'s the hole?", IconName = "ico_dq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Mr. McPhy]<INFO>rockrdg1,36,250,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Mr. McPhy"}
+, 
+[1331] = {Title = "[Daily] Avenging Spotty", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Mr. McPhy]<INFO>harboro1,344,61,0,101,0</INFO></NAVI> Tolong bantu buru para Bandit.", "<NAVI>[Buffalo Bandit Sharpsho]<INFO>COWRAIDERS1,0,0,3,-222,1</INFO></NAVI> 3,", "<NAVI>[Buffalo Bandit Duelist]<INFO>COWRAIDERS2,0,0,3,-222,1</INFO></NAVI> 3,", "<NAVI>[Bowie Buffalo Bandit]<INFO>COWRAIDERS3,0,0,3,-222,1</INFO></NAVI> 3."}
+, Summary = "Buru para bandit"}
+, 
+[1332] = {Title = "Cooldown: Avenging Spotty", IconName = "ico_dq.bmp", 
+Description = {"Quest sedang cooldown. Bicara ke NPC <NAVI>[Mr. McPhy]<INFO>harboro1,344,61,0,101,0</INFO></NAVI> esok hari."}
+, Summary = "Reset pukul 04.00", CoolTimeQuest = 1}
+, 
+[7790] = {Title = "Main Quest - Rockridge 1", 
+Description = {"Bicara ke NPC <NAVI>[Karem Pucci]<INFO>alberta,240,104,0,101,0</INFO></NAVI>"}
+, Summary = ""}
+, 
+[7791] = {Title = "Main Quest - Rockridge 2", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Costello]<INFO>harboro1,80,218,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Costello"}
+, 
+[7792] = {Title = "Main Quest - Rockridge 3", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Wyatt Warp"}
+, 
+[7793] = {Title = "Main Quest - Rockridge 4", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Costello]<INFO>harboro1,80,218,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Costello"}
+, 
+[7794] = {Title = "Main Quest - Rockridge 5", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Wyatt Warp"}
+, 
+[7795] = {Title = "Main Quest - Rockridge 6", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Unmoving Freight Train]<INFO>rockrdg1,156,312,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Unmoving Freight Train"}
+, 
+[7796] = {Title = "Main Quest - Rockridge 7", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Ivoka Skudi]<INFO>har_in01,20,25,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Ivoka Skudi"}
+, 
+[7797] = {Title = "Main Quest - Rockridge 8", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Johnny James]<INFO>har_in01,89,26,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Johnny James"}
+, 
+[7798] = {Title = "Main Quest - Rockridge 9", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Wyatt Warp"}
+, 
+[7799] = {Title = "Main Quest - Rockridge 10", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Shawn McCurdy]<INFO>harboro1,288,193,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Shawn McCurdy"}
+, 
+[7800] = {Title = "Main Quest - Rockridge 11", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Shawn McCurdy]<INFO>rockrdg2,347,216,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Shawn McCurdy"}
+, 
+[7801] = {Title = "Main Quest - Rockridge 12", IconName = "ico_lq.bmp", 
+Description = {"Mining <ITEM>[Purple Ore]<INFO>25247</INFO></ITEM>.", "dan bicara ke NPC <NAVI>[Shawn McCurdy]<INFO>rockmi2,10,86,0,101,0</INFO></NAVI>."}
+, Summary = "Mining & bicara ke NPC Shawn McCurdy"}
+, 
+[7802] = {Title = "Main Quest - Rockridge 13", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Concaved Rock]<INFO>rockrdg2,279,312,0,101,0</INFO></NAVI>.", "Pilih Knock, knock, knock."}
+, Summary = "Bicara ke NPC Concaved Rock"}
+, 
+[7803] = {Title = "Main Quest - Rockridge 14", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC Albert Ford yang tiba-tiba muncul", "Collect <ITEM>[Buffalo Bandit Mane]<INFO>25249</INFO></ITEM>", "lalu kembali ke NPC <NAVI>[Johnny James]<INFO>har_in01,89,23,0,101,0</INFO></NAVI>."}
+, Summary = "Collect item dan kembali ke NPC Jhonny James"}
+, 
+[7804] = {Title = "Main Quest - Rockridge 15", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Wyatt Warp"}
+, 
+[7805] = {Title = "Main Quest - Rockridge 16", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Shawn McCurdy]<INFO>rockrdg2,347,216,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Shawn McCurdy"}
+, 
+[7806] = {Title = "Main Quest - Rockridge 17", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Broken Elevator]<INFO>rockmi2,97,120,0,101,0</INFO></NAVI>.", "Kill para bandit yang muncul dan ambil <ITEM>[Purple Ore Crate]<INFO>25248</INFO></ITEM>"}
+, Summary = "Bicara ke NPC Broken Elevator"}
+, 
+[7807] = {Title = "Main Quest - Rockridge 18", IconName = "ico_lq.bmp", 
+Description = {"Kumpulkan 5 <ITEM>[Purple Ore Crate]<INFO>25248</INFO></ITEM>", "Kumpulkan 5 <ITEM>[Bandit\'s Scarf]<INFO>25278</INFO></ITEM>", "dan gunakan <NAVI>[Concaved Rock]<INFO>rockrdg2,279,312,0,101,0</INFO></NAVI>", "untuk dapat melapor ke NPC Albert Ford."}
+, Summary = "Kumpulkan 5 Purple Ore Crate & Bandit\'s Scarf"}
+, 
+[7808] = {Title = "Main Quest - Rockridge - Completed", IconName = "ico_lq.bmp", 
+Description = {"Bicara ke NPC <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."}
+, Summary = "Bicara ke NPC Wyatt Warp"}
+, 
+[7809] = {Title = "Ore Recovery", IconName = "ico_lq.bmp", 
+Description = {"Ore recovered."}
+, Summary = ""}
+, 
+[9438] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9439] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9440] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9441] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9442] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9443] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9444] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9445] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9446] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9447] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9448] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9449] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9450] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9451] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9452] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9453] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9454] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9455] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9456] = {Title = "Rockridge Quest", 
+Description = {"Rockridge Quest"}
+, Summary = "Rockridge Quest"}
+, 
+[9457] = {Title = "Main Quest - Rockridge - Completed", IconName = "ico_lq.bmp", 
+Description = {"Main Quest - Rockridge - Completed"}
+, Summary = "Main Quest - Rockridge - Completed"}
+, 
+[9458] = {Title = "[Daily] Pipe Cleaning", IconName = "ico_dq.bmp", 
+Description = {"Buru 20 Sea Anemone.", "dan lapor kembali ke Donovan setelah selesai."}
+, Summary = "Buru 20 Sea Anemone"}
+, 
+[9459] = {Title = "Cooldown: Pipe Cleaning", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[9460] = {Title = "[Daily] Collecting Ore Fragments", IconName = "ico_dq.bmp", 
+Description = {"Kumpukan 10 buah Fragment of Purple Ore"}
+, Summary = "Kumpukan 10 buah Fragment of Purple Ore"}
+, 
+[9461] = {Title = "Cooldown: Collecting Ore Fragments", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[12381] = {Title = "[Daily] New Continent\'s Food Supplier", 
+Description = {"Berikan salah satu item berikut:", "160 Potato / 160 Carrot / 160 Banana", "160 Pumpkin / 60 Edible Mushroom / 50 Meat"}
+, Summary = "Tukar item dengan hadiah"}
+, 
+[12382] = {Title = "Cooldown: New Continent\'s Food Supplier", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[12383] = {Title = "[Daily] New Continent\'s Food Supplier 1", IconName = "ico_dq.bmp", 
+Description = {"Berikan aku 160 buah Potato"}
+, Summary = "160 buah Potato"}
+, 
+[12384] = {Title = "[Daily] New Continent\'s Food Supplier 2", IconName = "ico_dq.bmp", 
+Description = {"Berikan aku 50 buah Meat"}
+, Summary = "50 buah Meat"}
+, 
+[12385] = {Title = "[Daily] New Continent\'s Food Supplier 3", IconName = "ico_dq.bmp", 
+Description = {"Berikan aku 160 buah Carrot"}
+, Summary = "160 buah Carrot"}
+, 
+[12386] = {Title = "[Daily] New Continent\'s Food Supplier 4", IconName = "ico_dq.bmp", 
+Description = {"Berikan aku 160 buah Banana"}
+, Summary = "160 buah Banana"}
+, 
+[12387] = {Title = "[Daily] New Continent\'s Food Supplier 5", IconName = "ico_dq.bmp", 
+Description = {"Berikan aku 160 buah Pumpkin"}
+, Summary = "160 buah Pumpkin"}
+, 
+[12388] = {Title = "[Daily] New Continent\'s Food Supplier 6", IconName = "ico_dq.bmp", 
+Description = {"Berikan aku 60 buah Edible Mushroom"}
+, Summary = "60 buah Edible Mushroom"}
+, 
+[12389] = {Title = "[Daily] Guardian of Rock Ridge", 
+Description = {"Tolong buru monster ini"}
+, Summary = "Perburuan monster"}
+, 
+[12390] = {Title = "Cooldown: Guardian of Rock Ridge (Normal)", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[12391] = {Title = "[Daily] Guardian of Rock Ridge (Normal) 1", IconName = "ico_dq.bmp", 
+Description = {"Buru 15 Buffalo Bandit Sharpsho"}
+, Summary = "Buru 15 Buffalo Bandit Sharpsho"}
+, 
+[12392] = {Title = "[Daily] Guardian of Rock Ridge (Normal) 2", IconName = "ico_dq.bmp", 
+Description = {"Buru 15 Buffalo Bandit Duelist"}
+, Summary = "Buru 15 Buffalo Bandit Duelist"}
+, 
+[12393] = {Title = "[Daily] Guardian of Rock Ridge (Normal) 3", IconName = "ico_dq.bmp", 
+Description = {"Buru 15 Bowie Buffalo Bandit"}
+, Summary = "Buru 15 Bowie Buffalo Bandit"}
+, 
+[12394] = {Title = "[Daily] Guardian of Rock Ridge (Normal) 4", IconName = "ico_dq.bmp", 
+Description = {"Buru 20 Cayote"}
+, Summary = "Buru 20 Cayote"}
+, 
+[12395] = {Title = "[Daily] Guardian of Rock Ridge (Normal) 5", IconName = "ico_dq.bmp", 
+Description = {"Buru 10 Swamp Arclouze"}
+, Summary = "Buru 10 Swamp Arclouze"}
+, 
+[12396] = {Title = "[Daily] Guardian of Rock Ridge (Normal) 6", IconName = "ico_dq.bmp", 
+Description = {"Buru 10 Brown Rat"}
+, Summary = "Buru 10 Brown Rat"}
+, 
+[12398] = {Title = "Cooldown: Guardian of Rock Ridge (Hard)", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[12399] = {Title = "[Daily] Guardian of Rock Ridge (Hard) 1", IconName = "ico_dq.bmp", 
+Description = {"Buru 10 Elite Buffalo Bandit"}
+, Summary = "Buru 10 Elite Buffalo Bandit"}
+, 
+[12400] = {Title = "[Daily] Guardian of Rock Ridge (Hard) 2", IconName = "ico_dq.bmp", 
+Description = {"Buru 10 Elite Buffalo Bandit"}
+, Summary = "Buru 10 Elite Buffalo Bandit"}
+, 
+[12401] = {Title = "[Daily] Guardian of Rock Ridge (Hard) 3", IconName = "ico_dq.bmp", 
+Description = {"Buru 10 Elite Buffalo Bandit"}
+, Summary = "Buru 10 Elite Buffalo Bandit"}
+, 
+[12402] = {Title = "[Daily] Guardian of Rock Ridge (Hard) 4", IconName = "ico_dq.bmp", 
+Description = {"Buru 10 Gaster"}
+, Summary = "Buru 10 Gaster"}
+, 
+[12403] = {Title = "[Daily] Maintain the Colored Pipes", 
+Description = {"Kunjungi beberapa pipa air untuk melakukan perawatan"}
+, Summary = "Perawatan pipa air"}
+, 
+[12404] = {Title = "Cooldown: Maintain the Colored Pipes", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[12405] = {Title = "[Daily] Maintain the Colored Pipes 1", IconName = "ico_dq.bmp", 
+Description = {"Kunjungi <NAVI>[Red Pipe]<INFO>harboro2,52,261,0,101,0</INFO></NAVI> untuk melakukan perawatan"}
+, Summary = "Memulai perawatan pada Red Pipe"}
+, 
+[12406] = {Title = "[Daily] Maintain the Colored Pipes 2", IconName = "ico_dq.bmp", 
+Description = {"Kunjungi <NAVI>[Blue Pipe]<INFO>harboro2,54,216,0,101,0</INFO></NAVI> untuk melakukan perawatan"}
+, Summary = "Memulai perawatan pada Blue Pipe"}
+, 
+[12407] = {Title = "[Daily] Maintain the Colored Pipes 3", IconName = "ico_dq.bmp", 
+Description = {"Kunjungi <NAVI>[Yellow Pipe]<INFO>harboro2,59,243,0,101,0</INFO></NAVI> untuk melakukan perawatan"}
+, Summary = "Memulai perawatan pada Yellow Pipe"}
+, 
+[12408] = {Title = "[Daily] Maintain the Colored Pipes 4", IconName = "ico_dq.bmp", 
+Description = {"Kunjungi <NAVI>[White Pipe]<INFO>harboro2,71,200,0,101,0</INFO></NAVI> untuk melakukan perawatan"}
+, Summary = "Memulai perawatan pada White Pipe"}
+, 
+[12409] = {Title = "[Daily] Maintain the Colored Pipes - Completed", IconName = "ico_dq.bmp", 
+Description = {"Kembali ke NPC <NAVI>[Desalination Facility M]<INFO>harboro1,334,135,0,101,0</INFO></NAVI> untuk melapor"}
+, Summary = "Bicara ke NPC Desalination Facility M"}
+, 
+[12410] = {Title = "[Daily] Contract with the Wealthy Merchant", 
+Description = {"Tukar salah 1 item untuk mendapatkan hadiah", "List item:", "5 Buah Clean Bone", "5 Buah Deadly Poison Powder", "5 Buah Crude Ammo", "5 Buah Bandit\'s Scarf", "5 Buah Brown Muffler", "5 Buah Broken Shotgun", "5 Buah Worn Revolver", "5 Buah Crude Scimitar", "5 Buah Swamp Bug Shell", "5 Buah Brown Rat Tail"}
+, Summary = "Tukar item untuk mendapatkan hadiah"}
+, 
+[12411] = {Title = "Cooldown: Contract with the Wealthy Merchant", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[14672] = {Title = "[Daily] Preparing for the Firework Festival", IconName = "ico_dq.bmp", 
+Description = {"Kumpulkan 10 Deadly Poison Powder", "Kumpulkan 1 Explosive Powder", "Buru 15 Gaster"}
+, Summary = "Buru dan kumpulkan quest"}
+, 
+[14673] = {Title = "Cooldown: Preparing for the Firework Festival", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[16078] = {Title = "Peace of the Family", IconName = "ico_nq.bmp", 
+Description = {"Kumpulkan 5 Juice Mix Package", "Buru 30 Cayote"}
+, Summary = "Buru dan kumpulkan quest"}
+, 
+[16079] = {Title = "Cooldown: Hunting Coyotes Again", IconName = "ico_dq.bmp", 
+Description = {"Quest cooldown. Kembali lagi esok hari."}
+, Summary = "Reset pukul 04:00", CoolTimeQuest = 1}
+, 
+[16080] = {Title = "[Daily] Hunting Coyotes Again", IconName = "ico_dq.bmp", 
+Description = {"Buru 30 Cayote"}
+, Summary = "Buru dan kumpulkan quest"}
+, 
+[16081] = {Title = "Failed to obtain Juice Mix Bundle", 
+Description = {""}
+, Summary = ""}
+, 
+[16082] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16083] = {Title = "Discover Wild Cacterton", 
+Description = {""}
+, Summary = ""}
+, 
+[16084] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16085] = {Title = "Coyote spotted", 
+Description = {""}
+, Summary = ""}
+, 
+[16086] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16087] = {Title = "Cactor Girl Found", 
+Description = {""}
+, Summary = ""}
+, 
+[16088] = {Title = "Coyote spotted", 
+Description = {""}
+, Summary = ""}
+, 
+[16089] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16090] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16091] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16092] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16093] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16094] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[16095] = {Title = "Found a suspicious pile of sand", 
+Description = {""}
+, Summary = ""}
+, 
+[11573] = {Title = "Star Emperor Job Change", 
+Description = {"Saya mendengar dari Nalson tentang cara menuju ke Meteor forest. Temukan jalur gunung sempit di bagian utara Pegunungan Myornil dan pindah ke Hutan Meteor.."}
+, Summary = "ke Meteor Forest"}
+, 
+[11574] = {Title = "Star Emperor Job Change", 
+Description = {"Anda dapat menulis primer di rumah teh. Ayo pergi ke rumah teh."}
+, Summary = "ke rumah teh"}
+, 
+[11575] = {Title = "Star Emperor Job Change", 
+Description = {"Mengikuti Choseung, Lancis juga keluar. Ayo keluar dan bicara dengan Choseung."}
+, Summary = "keluar dari rumah teh"}
+, 
+[11576] = {Title = "Star Emperor Job Change", 
+Description = {"Choseung meminta Lancis untuk memandu Meteor Forest dan pergi dengan tergesa-gesa. Bicaralah dengan Rancis untuk mendengar tentang Meteor Forest.."}
+, Summary = "Bicaralah dengan Rancis"}
+, 
+[11577] = {Title = "Star Emperor Job Change", 
+Description = {"Mari kita berkeliling ke Meteor Forest mengikuti bimbingan dari Rancis."}
+, Summary = "Bicaralah dengan Rancis"}
+, 
+[11578] = {Title = "Star Emperor Job Change", 
+Description = {"Saat memandu Meteor Forest, Lancis sepertinya menemukan sesuatu. Mari kita pergi dengan Rancis."}
+, Summary = "berbicara dengan Eun-ha"}
+, 
+[11579] = {Title = "Star Emperor Job Change", 
+Description = {"Eun-ha mengatakan dia akan membantumu dengan pelatihan dan memintamu untuk menangkap 10 mineral. Kalahkan 10 mineral di lantai 2 Tambang Einbech dan kembali."}
+, Summary = "Kalahkan 10 Mineral"}
+, 
+[11580] = {Title = "Star Emperor Job Change", 
+Description = {"Eun-ha, yang melihat bahwa dia menangkap mineral itu, memberi tahu Il-gwang bahwa Il-gwang akan lebih baik darinya."}
+, Summary = "berbicara dengan Ilgwang"}
+, 
+[11581] = {Title = "Star Emperor Job Change", 
+Description = {"Il-gwang mengatakan bahwa dia tidak tahu cara berlatih, dan dia suka saat Cho-seung menangkap rubah berekor sembilan. Kalahkan 50 atau lebih rubah berekor sembilan di Payon Dungeon dan pergi ke Choseung."}
+, Summary = "Bunuh 50 Ninetails"}
+, 
+[11582] = {Title = "Star Emperor Job Change", 
+Description = {"Choseung marah atas kelakuan Eunha dan menyuruh Eunha untuk menyuruhnya datang ke kamar Ilgwang."}
+, Summary = "berbicara dengan Eun-ha"}
+, 
+[11583] = {Title = "Star Emperor Job Change", 
+Description = {"Eun-ha mengomel dan meminta pergi ke kamar Ilgwang bersama."}
+, Summary = "ke ruang matahari"}
+, 
+[11584] = {Title = "Star Emperor Job Change", 
+Description = {"Il-gwang berkata bahwa Tuan Cho-shi ada di dasar gunung. Ayo turun gunung dan temui Guru Choshi."}
+, Summary = "berbicara dengan choshi"}
+, 
+[11585] = {Title = "Star Emperor Job Change", 
+Description = {"Choshi mengatakan dia ingin menyerahkan posisi guru kepada Il-gwang, Cho-seung, dan Eun-ha, dan memberitahu mereka untuk kembali ke Meteor Forest dan memilih seseorang yang ingin mereka tumbuh bersama.."}
+, Summary = "Bicaralah dengan Choseung, Eunhwa, atau Illgwang."}
+, 
+[12442] = {Title = "Soul Reaper Way 1", 
+Description = {"Mari kita dengar keadaan Si Banyak yang dikelilingi oleh pekerja penginapan."}
+, Summary = "Soul Reaper Way"}
+, 
+[12443] = {Title = "Soul Reaper Way 2", 
+Description = {"Mari bertemu lagi dengan Si Banyak. Dia mungkin dibawa ke <NAVI>penginapan<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> di suatu tempat di Payon."}
+, Summary = "Soul Reaper Way"}
+, 
+[12444] = {Title = "Soul Reaper Way 3", 
+Description = {"Ayo temukan pencuri barang si Banyak. Mungkin ada asisten di dekat penginapan."}
+, Summary = "Soul Reaper Way"}
+, 
+[12445] = {Title = "Soul Reaper Way 4", 
+Description = {"Mari kita bicara dengan <NAVI>Banyak<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> tentang identitas pencuri tas."}
+, Summary = "Soul Reaper Way"}
+, 
+[12446] = {Title = "Soul Reaper Way 5", 
+Description = {"Untuk mengungkap identitas pencuri koper, mari kita perang kata-kata dengan penginapan dengan anak kecil dan Banyak."}
+, Summary = "Soul Reaper Way"}
+, 
+[12447] = {Title = "Soul Reaper Way 6", 
+Description = {"Bertemu kembali dengan <NAVI>Banyak<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> di utara Payon"}
+, Summary = "Soul Reaper Way"}
+, 
+[12448] = {Title = "Soul Reaper Way 7", 
+Description = {"Kumpulkan 44 <ITEM>Fox Tails<INFO>1022</INFO></ITEM> diperlukan untuk Ritual ke <NAVI>Me Ong<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>. "}
+, Summary = "Soul Reaper Way"}
+, 
+[12449] = {Title = "Soul Reaper Way 8", 
+Description = {"Mari bertemu dengan <NAVI>Banyak<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> untuk mengetahui cerita di balik First Marriage Act."}
+, Summary = "Soul Reaper Way"}
+, 
+[12450] = {Title = "Soul Reaper Way 9", 
+Description = {"Ayo masuk ke dunia Spiritual dan selamatkan adik laki-lakinya."}
+, Summary = "Soul Reaper Way"}
+, 
+[12451] = {Title = "Soul Reaper Way Final Chapter", 
+Description = {"Mari bertemu dengan <NAVI>Banyak<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> untuk berubah menjadi Soul Reaper."}
+, Summary = "Soul Reaper Way"}
+, 
+[292419] = {Title = "One-time Starsoul Quest 1", 
+Description = {"Hunt 5 [Event] Toxic Zombie", "Hunt 5 [Event] Ghost Experiment"}
+, Summary = "Hunt 5 [Event] Toxic Zombie & [Event] Ghost Experiment"}
+, 
+[292420] = {Title = "One-time Starsoul Quest 2", 
+Description = {"Hunt 15 [Event] Toxic Zombie", "Hunt 15 [Event] Ghost Experiment"}
+, Summary = "Hunt 15 [Event] Toxic Zombie & [Event] Ghost Experiment"}
+, 
+[292421] = {Title = "One-time Starsoul Quest 3", 
+Description = {"Hunt 5 [Event] Celestial Plant"}
+, Summary = "Hunt 5 [Event] Celestial Plant"}
+, 
+[292422] = {Title = "Daily Quest Starsoul - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292423] = {Title = "Daily Quest Starsoul 1 - Hunting Monster", 
+Description = {"Hunt 20 [Event] Toxic Zombie", "Hunt 20 [Event] Ghost Experiment"}
+, Summary = "Hunt 15 [Event] Toxic Zombie & [Event] Ghost Experiment"}
+, 
+[292424] = {Title = "Daily Quest Starsoul 2 - Hunting Monster", 
+Description = {"Hunt 5 [Event] Celestial Plant"}
+, Summary = "Hunt 5 [Event] Celestial Plant"}
+, 
+[292425] = {Title = "Daily Quest Starsoul 3 - Menangkap [Event] Toxic Zombie", 
+Description = {"Tangkap [Event] Toxic Zombie"}
+, Summary = "Tangkap [Event] Toxic Zombie"}
+, 
+[292426] = {Title = "Daily Quest Starsoul 4 - Hunting Monster", 
+Description = {"Hunt 30 [Event] Toxic Zombie"}
+, Summary = "Hunt 30 [Event] Toxic Zombie"}
+, 
+[292427] = {Title = "Daily Quest Starsoul 5 - Hunting Monster", 
+Description = {"Hunt 30 [Event] Ghost Experiment"}
+, Summary = "Hunt 30 [Event] Ghost Experiment"}
+, 
+[292428] = {Title = "Daily Quest Starsoul 6 - Mengantar Barang", 
+Description = {"Tolong antar 20 [Event] Celestial Fragment ke Dr. Celestial"}
+, Summary = "Mengantar Barang ke Dr. Celestial"}
+, 
+[292429] = {Title = "Daily Quest Starsoul 7 - Mengantar Barang", 
+Description = {"Tolong antar 5 [Event] Celestial Red & 5 [Event] Celestial Blue ke Dr. Celestial"}
+, Summary = "Mengantar Barang ke Dr. Celestial"}
+, 
+[292430] = {Title = "Daily Quest Starsoul 6 - Selesai", 
+Description = {"Misi selesai, kembali esok untuk memulai lagi."}
+, Summary = "Mengantar barang - Misi Selesai"}
+, 
+[292431] = {Title = "Daily Quest Starsoul 7 - Selesai", 
+Description = {"Misi selesai, kembali esok untuk memulai lagi."}
+, Summary = "Mengantar barang - Misi Selesai"}
+, 
+[292432] = {Title = "Daily Quest Rockridge 1 - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292433] = {Title = "Daily Quest Rockridge 2 - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292434] = {Title = "Daily Quest Rockridge 3 - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292435] = {Title = "Daily Quest Rockridge 1 - Hunting Monster", 
+Description = {"Hunt 50 Buffalo Bandit Sharpsho", "Hunt 50 Buffalo Bandit Duelist", "Hunt 50 Bowie Buffalo Bandit"}
+, Summary = "Hunt Mission"}
+, 
+[292436] = {Title = "Daily Quest Rockridge 2 - Hunting Monster", 
+Description = {"Hunt 30 Elite Buffalo Bandit (Blue Eyes)", "Hunt 30 Elite Buffalo Bandit (Red Eyes)", "Hunt 30 Bowie Buffalo Bandit (White)"}
+, Summary = "Hunt Mission"}
+, 
+[292437] = {Title = "Daily Quest Rockridge 3 - Hunting BOSS Monster", 
+Description = {"Hunt 1 Spider Chariot"}
+, Summary = "Hunt BOSS Mission"}
 }
 

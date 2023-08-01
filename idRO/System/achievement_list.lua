@@ -2353,6 +2353,56 @@ resource = {
 , 
 reward = {title = 2030}
 , score = 50}
+, 
+[310030] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "WILD WEST"}
+}
+, 
+reward = {title = 2031}
+, score = 50}
+, 
+[310031] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPERSTAR S5", 
+content = {summary = "Didapatkan dari berpartisipasi dalam event special", details = "Title yang didapatkan dari RO Superstar S5."}
+, 
+resource = {
+[1] = {text = "RO Superstar S5"}
+}
+, 
+reward = {title = 2032}
+, score = 50}
+, 
+[310032] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[ECLS7 Winner] 1st Rank", 
+content = {summary = "[ECLS7 Winner] 1st Rank", details = "Title pemenang ECL Season 7 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "LIVING LEGEND"}
+}
+, 
+reward = {title = 2033}
+, score = 50}
+, 
+[310033] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[ECLS7 Winner] 2nd Rank", 
+content = {summary = "[ECLS7 Winner] 2nd Rank", details = "Title pemenang ECL Season 7 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "LORD"}
+}
+, 
+reward = {title = 2034}
+, score = 50}
+, 
+[310034] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[ECLS7 Winner] 3rd Rank", 
+content = {summary = "[ECLS7 Winner] 3rd Rank", details = "Title pemenang ECL Season 7 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "Dignity"}
+}
+, 
+reward = {title = 2035}
+, score = 50}
 }
 main = function()
   -- function num : 0_0

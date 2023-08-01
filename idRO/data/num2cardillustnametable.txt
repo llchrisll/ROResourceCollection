@@ -1136,3 +1136,19 @@
 4581#Rudo_Card#
 4579#Lora_Card#
 4575#Soheon_Card#
+
+//Additional Patch 20230608
+4550#4550#
+
+//ROCKRIDGE
+27170#cowraiders1_card#
+27171#cowraiders2_card#
+27172#cowraiders3_card#
+27173#e_cowraiders1_card#
+27174#e_cowraiders2_card#
+27175#e_cowraiders3_card#
+27176#rr_cramp_card#
+27177#rr_arclouse_card#
+27178#gaster_card#
+27179#coyote_card#
+27180#mechaspider_card#
