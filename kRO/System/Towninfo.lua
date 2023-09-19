@@ -580,6 +580,8 @@ cmd_fild07 = {
 {name = "상점", X = 257, Y = 126, TYPE = 0}
 , 
 {name = "방어구점", X = 277, Y = 85, TYPE = 2}
+, 
+{name = "편의서비스", X = 136, Y = 134, TYPE = 6}
 }
 , 
 harboro1 = {

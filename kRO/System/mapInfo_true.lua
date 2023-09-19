@@ -4,6 +4,10 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["bl_depth1.rsw"] = {displayName = "바이오스피어 심층 1층", notifyEnter = true, 
+signName = {subTitle = "바르문트의 바이오스피어", mainTitle = "심층 1층"}
+, backgroundBmp = "dungeon"}
+, 
 ["jor_twig.rsw"] = {displayName = "이스가르드 성소 작은 가지의 둥지", notifyEnter = true, 
 signName = {subTitle = "이스가르드 성소", mainTitle = "작은 가지의 둥지"}
 , backgroundBmp = "village"}
@@ -1267,7 +1271,7 @@ signName = {mainTitle = "프론테라 남쪽 필드"}
 , backgroundBmp = "field_s2"}
 , 
 ["prt_fild08c.rsw"] = {displayName = "프론테라 필드", notifyEnter = true, 
-signName = {subTitle = "프론테라 남쪽 필드"}
+signName = {mainTitle = "프론테라 남쪽 필드"}
 , backgroundBmp = "field_s2"}
 , 
 ["prt_fild08b.rsw"] = {displayName = "프론테라 필드", notifyEnter = true, 

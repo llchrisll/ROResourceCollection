@@ -5876,6 +5876,70 @@ MonsterEff = {EFFECT.MAGIC_CIRCLE_DRAGON}
 [22005] = {MonsterSize = 1.2, 
 MonsterEff = {EFFECT.MAGIC_CIRCLE_DEVIL}
 }
+, 
+[22140] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_FISH, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22142] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_INSECT, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22146] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22147] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22148] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22149] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22150] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_FISH, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22143] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANIMAL, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22144] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_HUMAN, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22152] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_PLANT, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22153] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_INSECT, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22154] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_ANGEL, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22141] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_UNDEAD, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22151] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_UNDEAD, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22145] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_NOTHING, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22155] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_PLANT, EFFECT.EF_BLACK_BUBBLE2}
+}
 }
 main = function()
   -- function num : 0_0

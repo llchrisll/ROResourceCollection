@@ -5,6 +5,38 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+Bs_Item_M_S_60 = {ItemID = 102295, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"EP20_D_Scale", 30, 1001251}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "πÏΩ≈¿« ∫Ò¥√, ¡¶∏£¥Ω"}
+, 
+Bs_Item_M_S_61 = {ItemID = 102308, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"æœ»Ê¿«¿«¡ˆ_", 30, 7566}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "∫”¿∫ æœ»Ê¿« ¿«¡ˆ, ¡¶∏£¥Ω"}
+, 
+Bs_Item_M_S_62 = {ItemID = 102310, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"EP19_Luminant", 30, 1000833}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "¿«πÆ¿« πﬂ±§√º, ¡¶∏£¥Ω"}
+, 
+Bs_Item_M_S_63 = {ItemID = 102311, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"EP19_D_P_Stone", 30, 1001033}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "µ∂±‚ æÓ∏∞ ∏∂∑¬, ¡¶∏£¥Ω"}
+, 
 Mocadas_Slabs1 = {ItemID = 102040, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
 {"Mocadas_Gold", 100, 1001201}
@@ -6496,6 +6528,28 @@ SourceItems = {
 {"ResistDefStone_Robe", 1, 1001171}
 , 
 {"StaminaWISStone_Robe_D", 1, 1001172}
+, 
+{"ShinkiroStone_Robe", 1, 1001322}
+, 
+{"ShiranuiStone_Robe", 1, 1001323}
+, 
+{"ShaCrossStone_Robe", 1, 1001324}
+, 
+{"CardinalStone_Robe", 1, 1001325}
+, 
+{"SuNoviceStone_Top", 1, 1001327}
+, 
+{"SuNoviceStone_Middle", 1, 1001328}
+, 
+{"SuNoviceStone_Bottom", 1, 1001329}
+, 
+{"SuNoviceStone_Robe", 1, 1001326}
+, 
+{"SkyEmperorStone_Robe", 1, 1001419}
+, 
+{"ElementalStone_Robe", 1, 1001420}
+, 
+{"MeisterStone_Robe", 1, 1001421}
 }
 , NeedSource_String = "¿«ªÛ¿Œ√¶∆ÆΩ∫≈Ê"}
 , 
@@ -7868,6 +7922,46 @@ SourceItems = {
 {"C«„¥œ∆“ƒ…¿Õ", 1, 20256}
 , 
 {"C_Big_B_Rabbit", 1, 20618}
+, 
+{"C_Cookie_PinkRibbon", 1, 420209}
+, 
+{"C_Jumbo_Rabbit", 1, 410219}
+, 
+{"C∑Œæ‚∑°∫¯≈©∂ÛøÓ", 1, 31201}
+, 
+{"C_MCircle_Wonderland", 1, 480298}
+, 
+{"C_Geisha_Make", 1, 31615}
+, 
+{"C_Onihime_Camellia", 1, 420015}
+, 
+{"CªÁƒÌ∂Û∏”∏Æ∂Ï", 1, 20437}
+, 
+{"C_Sakura_Fes_TW", 1, 480052}
+, 
+{"C_RabbitFamilyBalloon", 1, 31814}
+, 
+{"C_Red_Bread_Hat", 1, 31914}
+, 
+{"C_Bouquet_Valletta", 1, 410156}
+, 
+{"C_Wedding_Ribbon", 1, 480187}
+, 
+{"C_Bird_Cage_Candle_Hold", 1, 410236}
+, 
+{"C«ÿ««º∂∏”º±πŸ¿Ã¿˙", 1, 31051}
+, 
+{"C_Friendly_White_Fox", 1, 420192}
+, 
+{"C_Key_To_Happiness", 1, 480311}
+, 
+{"C¿Ø¥œƒ‹«Ô∏ß", 1, 20443}
+, 
+{"C««πØ¿∫ªÁæ»∫¿¿Œ¿«∫ÿ¥Î", 1, 31122}
+, 
+{"C_Diabolic_Lapel", 1, 31381}
+, 
+{"C_Labrys", 1, 480316}
 }
 , NeedSource_String = "≥…¥Ÿ∑° ¿«ªÛ"}
 , 
