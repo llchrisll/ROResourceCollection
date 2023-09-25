@@ -4,7 +4,7 @@ This repository is only used to make searching for official items easier from ce
 It contains extracted and decoded .lub files from official RO Servers.
 A pre-packed GRF with sprite and texture files from each server can be found here below.
 
-As of 11th April 2023, I took the time and revamped my way of merging GRF's (took me 2 days).
+As of 9th September 2023, I took the time and revamped my way of merging GRF's (took me 2 days).
 I will only provide one GRF (official_data.grf), which contains every missing sprite/texture file based on kRO GRF:
  * [Merged GRF](https://www.mediafire.com/file/qas1fgic28zs9qx/official_data.rar/file)
 
