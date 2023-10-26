@@ -12591,4 +12591,60 @@
 		</so_full>
 	</ep20_icewind2>
 
+	<DARK_LORD2>
+		<hungry>
+			<feeding>	최욱뱍 할 놜 깡지렁 롯윱렁윳 하쓸.	</feeding>
+			<danger>	까불 넛가난 죽율의 섦율이 진별하뼘쓿섈	</danger>
+			<dead>	액막왔 하찮진 궝윳 죽율이깨쁑.	</dead>
+			<stand>	옳뜻지쓸…	</stand>
+			<levelup>	흠…(굇-익)	</levelup>
+			<perfor_1>	(짝)(짝)(짝)하!하! 새 재주랩 두망돈옮뱍!	</perfor_1>
+			<perfor_2>	섈! 쁑크-LORD뿔의 레맞윱 뼈샨왔 해주왔ㅊ…까? 	</perfor_2>
+			<perfor_3>	돈이뼈셍? 이 LORD뿔의 한정판 컬링냘이!	</perfor_3>
+		</hungry>
+		<bit_hungry>
+			<feeding>	최욱뱍 할 놜 깡지렁 롯윱렁윳 하쓸.	</feeding>
+			<danger>	까불 넛가난 죽율의 섦율이 진별하뼘쓿섈	</danger>
+			<dead>	액막왔 하찮진 궝윳 죽율이깨쁑.	</dead>
+			<stand>	옳뜻지쓸…	</stand>
+			<levelup>	흠…(굇-익)	</levelup>
+			<perfor_1>	(짝)(짝)(짝)하!하! 새 재주랩 두망돈옮뱍!	</perfor_1>
+			<perfor_2>	섈! 쁑크-LORD뿔의 레맞윱 뼈샨왔 해주왔ㅊ…까? 	</perfor_2>
+			<perfor_3>	돈이뼈셍? 이 LORD뿔의 한정판 컬링냘이!	</perfor_3>
+		</bit_hungry>
+		<noting>
+			<feeding>	최욱뱍 할 놜 깡지렁 롯윱렁윳 하쓸.	</feeding>
+			<danger>	까불 넛가난 죽율의 섦율이 진별하뼘쓿섈	</danger>
+			<dead>	액막왔 하찮진 궝윳 죽율이깨쁑.	</dead>
+			<stand>	진정한 까불 넛가난 섦에 게쇰뱍.	</stand>
+			<stand>	뜰돈쁑 새 짙윳.. 귄흑의 혼보 액량욱 파룰..	</stand>
+			<levelup>	흠…(굇-익)	</levelup>
+			<perfor_1>	(짝)(짝)(짝)하!하! 새 재주랩 두망돈옮뱍!	</perfor_1>
+			<perfor_2>	섈! 쁑크-LORD뿔의 레맞윱 뼈샨왔 해주왔ㅊ…까? 	</perfor_2>
+			<perfor_3>	돈이뼈셍? 이 LORD뿔의 한정판 컬링냘이!	</perfor_3>
+		</noting>
+		<full>
+			<feeding>	액-렁	</feeding>
+			<danger>	까불 넛가난 죽율의 섦율이 진별하뼘쓿섈	</danger>
+			<dead>	액막왔 하찮진 궝윳 죽율이깨쁑.	</dead>
+			<stand>	진정한 까불 넛가난 섦에 게쇰뱍.	</stand>
+			<stand>	뜰돈쁑 새 짙윳.. 귄흑의 혼보 액량욱 파룰..	</stand>
+			<levelup>	흠…(굇-익)	</levelup>
+			<perfor_1>	(짝)(짝)(짝)하!하! 새 재주랩 두망돈옮뱍!	</perfor_1>
+			<perfor_2>	섈! 쁑크-LORD뿔의 레맞윱 뼈샨왔 해주왔ㅊ…까? 	</perfor_2>
+			<perfor_3>	돈이뼈셍? 이 LORD뿔의 한정판 컬링냘이!	</perfor_3>
+		</full>
+		<so_full>
+			<feeding>	액-렁	</feeding>
+			<danger>	까불 넛가난 죽율의 섦율이 진별하뼘쓿섈	</danger>
+			<dead>	액막왔 하찮진 궝윳 죽율이깨쁑.	</dead>
+			<stand>	진정한 까불 넛가난 섦에 게쇰뱍.	</stand>
+			<stand>	뜰돈쁑 새 짙윳.. 귄흑의 혼보 액량욱 파룰..	</stand>
+			<levelup>	흠…(굇-익)	</levelup>
+			<perfor_1>	(짝)(짝)(짝)하!하! 새 재주랩 두망돈옮뱍!	</perfor_1>
+			<perfor_2>	섈! 쁑크-LORD뿔의 레맞윱 뼈샨왔 해주왔ㅊ…까? 	</perfor_2>
+			<perfor_3>	돈이뼈셍? 이 LORD뿔의 한정판 컬링냘이!	</perfor_3>
+		</so_full>
+	</DARK_LORD2>
+
 </monster_talk_table>

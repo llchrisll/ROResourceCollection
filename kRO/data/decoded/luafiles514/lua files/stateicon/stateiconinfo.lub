@@ -8906,4 +8906,59 @@ descript = {
 {"물리 및 마법 데미지 증가"}
 }
 }
+-- DECOMPILER ERROR at PC18524: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_TARGET_MARKER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"타겟 마커 상태", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"당신을 주시하고 있습니다"}
+}
+}
+-- DECOMPILER ERROR at PC18548: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BLOCK_SEAL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"봉인 상태", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"이동 및 공격 행동이 봉인 되었습니다."}
+}
+}
+-- DECOMPILER ERROR at PC18572: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_FROST_STORM] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"서리 폭풍 상태", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"라이트닝 저지먼트에 더 큰 피해를 입게 됩니다."}
+}
+}
+-- DECOMPILER ERROR at PC18596: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_GROGGY] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"기절 상태", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"행동 불가."}
+}
+}
+-- DECOMPILER ERROR at PC18620: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_WARM_SHIELD] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"따스한 방패", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"프로스트 필드를 방어해준다."}
+}
+}
 

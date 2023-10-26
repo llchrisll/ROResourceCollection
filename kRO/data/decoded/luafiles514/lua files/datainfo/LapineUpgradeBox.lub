@@ -5702,6 +5702,22 @@ TargetItems = {
 {"S_HN_Earring", 24870}
 , 
 {"S_HN_Pendant", 24871}
+, 
+{"S_Full_Power_Armor", 24872}
+, 
+{"S_Full_Power_Shoes", 24873}
+, 
+{"S_Full_Rate_Armor", 24874}
+, 
+{"S_Full_Rate_Shoes", 24875}
+, 
+{"S_Focusing_Pendant", 24876}
+, 
+{"S_Focusing_Earring", 24877}
+, 
+{"S_Stout_Pendant", 24878}
+, 
+{"S_Stout_Earring", 24879}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -7256,6 +7272,22 @@ TargetItems = {
 {"S_HN_Earring", 24870}
 , 
 {"S_HN_Pendant", 24871}
+, 
+{"S_Full_Power_Armor", 24872}
+, 
+{"S_Full_Power_Shoes", 24873}
+, 
+{"S_Full_Rate_Armor", 24874}
+, 
+{"S_Full_Rate_Shoes", 24875}
+, 
+{"S_Focusing_Pendant", 24876}
+, 
+{"S_Focusing_Earring", 24877}
+, 
+{"S_Stout_Pendant", 24878}
+, 
+{"S_Stout_Earring", 24879}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 

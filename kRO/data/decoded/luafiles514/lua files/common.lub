@@ -30,8 +30,20 @@ getTableSize = function(t)
   return size
 end
 
-GetTableSizeForC = function(tableName)
+getTableSizeForMulti = function(in_table, in_tableName)
   -- function num : 0_3
+  if in_table == nil or in_tableName == nil or in_tableName == "" then
+    return 0
+  end
+  local targetTable = in_table[in_tableName]
+  if targetTable ~= nil then
+    return getTableSize(targetTable)
+  end
+  return 0
+end
+
+GetTableSizeForC = function(tableName)
+  -- function num : 0_4
   local t = _G[tableName]
   local size = 0
   if t ~= nil then
@@ -44,8 +56,19 @@ GetTableSizeForC = function(tableName)
   end
 end
 
+GetTableValueForC = function(tableName, index)
+  -- function num : 0_5
+  local t = _G[tableName]
+  local size = getTableSize(t)
+  if t[index] == nil then
+    return ""
+  else
+    return t[index]
+  end
+end
+
 getHelpMsg = function(idx)
-  -- function num : 0_4
+  -- function num : 0_6
   if HelpMsgStr == nil then
     return ""
   end
@@ -53,6 +76,16 @@ getHelpMsg = function(idx)
     return ""
   end
   return HelpMsgStr[idx]
+end
+
+enum = function(tbl)
+  -- function num : 0_7
+  local length = #tbl
+  for i = 1, length do
+    local v = tbl[i]
+    tbl[v] = i
+  end
+  return tbl
 end
 
 

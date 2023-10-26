@@ -40,17 +40,9 @@ Also I was unable to add the following items, because I didn't find any sprites 
 | 2361 | Blue Robe | ```파란아오자이``` 
 | 2362 | Red Robe | ```빨간아오자이``` 
 | 2363 | White Robe | ```하얀아오자이```
-| 2792 | Ring of Flame Lord | ```플레임로드링```
-| 2793 | Ring of Resonance | ```레조넌스링```
 | 5689 | Queen Ants Crown | ```개미여왕의왕관```
-| 6410 | Kartu Leberan | ```이둘피트리카드```
-| 7915 | Bronze Coin | ```코퍼코인```
-| 7916 | Silver Coin | ```실버코인```
-| 11010 | Catalogue
-| 14674 | Cup of Boza | ```보자의컵```
 | 22519 | Freeze Buff
 | 22520 | Anti-Freeze Buff
-| 22624 | Riesen Bretzel |```리젠브리첼```
 | 1000682 | Tuner | - 
 
 In case you have any of those above, please pm on me on discord with the files.

@@ -7562,7 +7562,7 @@ Table[26] = CreateEnchantInfo()
 ;
 (Table[26]):ApproveRandomOption(true)
 ;
-(Table[26]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[26]):SetReset(false, 0, 0)
 ;
 (Table[26]):SetCaution("설화의 갑옷, 로브 인챈트 부여 \n인챈트 초기화 불가")
 ;
@@ -7689,7 +7689,7 @@ Table[26] = CreateEnchantInfo()
 (((Table[26]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Skill_53", 0, {"Ice_F_Stone_Skill_53", 1})
 ;
 (((Table[26]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Skill_54", 0, {"Ice_F_Stone_Skill_54", 1})
--- DECOMPILER ERROR at PC41427: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC41423: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[27] = CreateEnchantInfo()
 ;
@@ -7703,7 +7703,7 @@ Table[27] = CreateEnchantInfo()
 ;
 (Table[27]):ApproveRandomOption(true)
 ;
-(Table[27]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[27]):SetReset(false, 0, 0)
 ;
 (Table[27]):SetCaution("설화의 망토, 머플러 인챈트 부여 \n인챈트 초기화 불가")
 ;
@@ -7736,7 +7736,7 @@ Table[27] = CreateEnchantInfo()
 (((Table[27]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_P_Full", 0, {"Ice_F_Stone_P_Full", 1})
 ;
 (((Table[27]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_M_Counter", 0, {"Ice_F_Stone_M_Counter", 1})
--- DECOMPILER ERROR at PC41693: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC41685: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[28] = CreateEnchantInfo()
 ;
@@ -7750,7 +7750,7 @@ Table[28] = CreateEnchantInfo()
 ;
 (Table[28]):ApproveRandomOption(true)
 ;
-(Table[28]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[28]):SetReset(false, 0, 0)
 ;
 (Table[28]):SetCaution("설화의 부츠, 슈즈 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -7783,7 +7783,7 @@ Table[28] = CreateEnchantInfo()
 (((Table[28]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Fa_Agi", 0, {"Ice_F_Stone_Fa_Agi", 1})
 ;
 (((Table[28]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Lu_Luk", 0, {"Ice_F_Stone_Lu_Luk", 1})
--- DECOMPILER ERROR at PC41959: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC41947: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[29] = CreateEnchantInfo()
 ;
@@ -7797,7 +7797,7 @@ Table[29] = CreateEnchantInfo()
 ;
 (Table[29]):ApproveRandomOption(true)
 ;
-(Table[29]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[29]):SetReset(false, 0, 0)
 ;
 (Table[29]):SetCaution("설화의 펜던트, 목걸이 인챈트 부여 \n인챈트 초기화 불가")
 ;
@@ -7824,7 +7824,7 @@ Table[29] = CreateEnchantInfo()
 (((Table[29]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_F_Spirit", 0, {"Ice_F_Stone_F_Spirit", 1})
 ;
 (((Table[29]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Spell", 0, {"Ice_F_Stone_Spell", 1})
--- DECOMPILER ERROR at PC42183: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC42167: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[30] = CreateEnchantInfo()
 ;
@@ -7838,7 +7838,7 @@ Table[30] = CreateEnchantInfo()
 ;
 (Table[30]):ApproveRandomOption(true)
 ;
-(Table[30]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[30]):SetReset(false, 0, 0)
 ;
 (Table[30]):SetCaution("설화의 반지, 귀걸이 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -7865,7 +7865,7 @@ Table[30] = CreateEnchantInfo()
 (((Table[30]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_F_Spirit", 0, {"Ice_F_Stone_F_Spirit", 1})
 ;
 (((Table[30]).Slot)[1]):AddPerfectEnchant("Ice_F_Orb_Spell", 0, {"Ice_F_Stone_Spell", 1})
--- DECOMPILER ERROR at PC42407: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC42387: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[31] = CreateEnchantInfo()
 ;
@@ -7927,7 +7927,7 @@ Table[31] = CreateEnchantInfo()
 ;
 (Table[31]):ApproveRandomOption(true)
 ;
-(Table[31]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[31]):SetReset(false, 0, 0)
 ;
 (Table[31]):SetCaution("글레이시아 무기 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -8288,7 +8288,7 @@ Table[31] = CreateEnchantInfo()
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_160", 0, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[31]).Slot)[0]):AddPerfectEnchant("Glacier_F_Orb_161", 0, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC46934: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC46910: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[32] = CreateEnchantInfo()
 ;
@@ -8375,7 +8375,7 @@ Table[32] = CreateEnchantInfo()
 (((Table[32]).Slot)[2]):AddUpgradeEnchant("Gray_Magic2", "Gray_Magic3", 0, {"Enchant_Ticket", 1}, {"흙빛의조각", 300}, {"Sakray_Fury", 10}, {"Sakray_Regret", 10})
 ;
 (((Table[32]).Slot)[2]):AddUpgradeEnchant("Gray_Fight2", "Gray_Fight3", 0, {"Enchant_Ticket", 1}, {"흙빛의조각", 300}, {"Sakray_Fury", 10}, {"Sakray_Regret", 10})
--- DECOMPILER ERROR at PC47811: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC47787: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[33] = CreateEnchantInfo()
 ;
@@ -8490,7 +8490,7 @@ Table[33] = CreateEnchantInfo()
 (((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 500000, {"EP17_1_EVT02", 100}, {"EP17_1_EVT39", 25})
 ;
 (((Table[33]).Slot)[2]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 500000, {"EP17_1_EVT02", 100}, {"EP17_1_EVT39", 25})
--- DECOMPILER ERROR at PC48552: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC48528: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[34] = CreateEnchantInfo()
 ;
@@ -8504,7 +8504,7 @@ Table[34] = CreateEnchantInfo()
 ;
 (Table[34]):ApproveRandomOption(true)
 ;
-(Table[34]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[34]):SetReset(false, 0, 0)
 ;
 (Table[34]):SetCaution("일루시온 아머 A타입(귀속), 일루시온 아머 B타입(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -8533,7 +8533,7 @@ Table[34] = CreateEnchantInfo()
 (((Table[34]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
 ;
 (((Table[34]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Delay", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
--- DECOMPILER ERROR at PC48842: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC48814: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[35] = CreateEnchantInfo()
 ;
@@ -8547,7 +8547,7 @@ Table[35] = CreateEnchantInfo()
 ;
 (Table[35]):ApproveRandomOption(true)
 ;
-(Table[35]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[35]):SetReset(false, 0, 0)
 ;
 (Table[35]):SetCaution("오토매틱 부스터L(귀속), 오토매틱 배틀칩L(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -8588,11 +8588,11 @@ Table[35] = CreateEnchantInfo()
 (((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb33", 0, {"BarMealTicket", 25})
 ;
 (((Table[35]).Slot)[1]):AddPerfectEnchant("Automatic_Orb35", 0, {"BarMealTicket", 25})
--- DECOMPILER ERROR at PC49164: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC49132: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[36] = CreateEnchantInfo()
 ;
-(Table[36]):SetSlotOrder(3, 2, 1)
+(Table[36]):SetSlotOrder(3, 2)
 ;
 (Table[36]):AddTargetItem("SP_B_Fox")
 ;
@@ -8674,7 +8674,7 @@ Table[36] = CreateEnchantInfo()
 ;
 (Table[36]):ApproveRandomOption(true)
 ;
-(Table[36]):SetReset(false, 100000, 0, {"Enchant_Ticket", 1})
+(Table[36]):SetReset(false, 0, 0)
 ;
 (Table[36]):SetCaution("부스터 웨폰 인챈트\n성공확률 100%\n초기화 불가")
 ;
@@ -8691,7 +8691,7 @@ Table[36] = CreateEnchantInfo()
 (((Table[36]).Slot)[2]):AddPerfectEnchant("명궁5", 0, {"Booster_Coin", 180})
 ;
 (((Table[36]).Slot)[2]):AddPerfectEnchant("Expert_Magician5", 0, {"Booster_Coin", 180})
--- DECOMPILER ERROR at PC49534: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC49497: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[37] = CreateEnchantInfo()
 ;
@@ -8709,7 +8709,7 @@ Table[37] = CreateEnchantInfo()
 ;
 (Table[37]):ApproveRandomOption(true)
 ;
-(Table[37]):SetReset(false, 100000, 0, {"Enchant_Ticket", 1})
+(Table[37]):SetReset(false, 0, 0)
 ;
 (Table[37]):SetCaution("부스터 투구 인챈트\n성공확률 100%\n초기화 불가")
 ;
@@ -8916,7 +8916,7 @@ Table[37] = CreateEnchantInfo()
 (((Table[37]).Slot)[0]):AddPerfectEnchant("Magic_Top", 0, {"Boost_C_Enchant_2", 1})
 ;
 (((Table[37]).Slot)[0]):AddPerfectEnchant("Range_Top", 0, {"Boost_C_Enchant_2", 1})
--- DECOMPILER ERROR at PC51030: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC50989: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[38] = CreateEnchantInfo()
 ;
@@ -8934,7 +8934,7 @@ Table[38] = CreateEnchantInfo()
 ;
 (Table[38]):ApproveRandomOption(true)
 ;
-(Table[38]):SetReset(false, 100000, 0, {"Enchant_Ticket", 1})
+(Table[38]):SetReset(false, 0, 0)
 ;
 (Table[38]):SetCaution("부스터 걸칠것 인챈트\n성공확률 100%\n초기화 불가")
 ;
@@ -9013,7 +9013,7 @@ Table[38] = CreateEnchantInfo()
 (((Table[38]).Slot)[1]):AddPerfectEnchant("HPdrain_Robe_D", 0, {"Boost_C_Enchant_2", 1})
 ;
 (((Table[38]).Slot)[1]):AddPerfectEnchant("SPdrain_Robe_D", 0, {"Boost_C_Enchant_2", 1})
--- DECOMPILER ERROR at PC51629: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC51584: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[39] = CreateEnchantInfo()
 ;
@@ -9027,7 +9027,7 @@ Table[39] = CreateEnchantInfo()
 ;
 (Table[39]):ApproveRandomOption(true)
 ;
-(Table[39]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[39]):SetReset(false, 0, 0)
 ;
 (Table[39]):SetCaution("일루시온 엔진윙 A타입(귀속), 일루시온 엔진윙 B타입(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -9056,7 +9056,7 @@ Table[39] = CreateEnchantInfo()
 (((Table[39]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
 ;
 (((Table[39]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Above", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
--- DECOMPILER ERROR at PC51919: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC51870: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[40] = CreateEnchantInfo()
 ;
@@ -9070,7 +9070,7 @@ Table[40] = CreateEnchantInfo()
 ;
 (Table[40]):ApproveRandomOption(true)
 ;
-(Table[40]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[40]):SetReset(false, 0, 0)
 ;
 (Table[40]):SetCaution("일루시온 레그 A타입(귀속), 일루시온 레그 B타입(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -9099,7 +9099,7 @@ Table[40] = CreateEnchantInfo()
 (((Table[40]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Mdef", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
 ;
 (((Table[40]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Fix", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
--- DECOMPILER ERROR at PC52209: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC52156: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[41] = CreateEnchantInfo()
 ;
@@ -9113,7 +9113,7 @@ Table[41] = CreateEnchantInfo()
 ;
 (Table[41]):ApproveRandomOption(true)
 ;
-(Table[41]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[41]):SetReset(false, 0, 0)
 ;
 (Table[41]):SetCaution("오토매틱 부스터R(귀속), 오토매틱 배틀칩R(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -9154,7 +9154,7 @@ Table[41] = CreateEnchantInfo()
 (((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb32", 0, {"BarMealTicket", 25})
 ;
 (((Table[41]).Slot)[1]):AddPerfectEnchant("Automatic_Orb34", 0, {"BarMealTicket", 25})
--- DECOMPILER ERROR at PC52531: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC52474: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[42] = CreateEnchantInfo()
 ;
@@ -9168,7 +9168,7 @@ Table[42] = CreateEnchantInfo()
 ;
 (Table[42]):ApproveRandomOption(true)
 ;
-(Table[42]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[42]):SetReset(false, 0, 0)
 ;
 (Table[42]):SetCaution("일루시온 부스터R(귀속), 일루시온 배틀칩R(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -9211,7 +9211,7 @@ Table[42] = CreateEnchantInfo()
 (((Table[42]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Life", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
 ;
 (((Table[42]).Slot)[1]):AddPerfectEnchant("Improve_Orb_M_Heal", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
--- DECOMPILER ERROR at PC52947: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC52886: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[43] = CreateEnchantInfo()
 ;
@@ -9225,7 +9225,7 @@ Table[43] = CreateEnchantInfo()
 ;
 (Table[43]):ApproveRandomOption(true)
 ;
-(Table[43]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[43]):SetReset(false, 0, 0)
 ;
 (Table[43]):SetCaution("일루시온 부스터L(귀속), 일루시온 배틀칩L(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -9268,7 +9268,7 @@ Table[43] = CreateEnchantInfo()
 (((Table[43]).Slot)[1]):AddPerfectEnchant("Improve_Orb_Soul", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
 ;
 (((Table[43]).Slot)[1]):AddPerfectEnchant("Improve_Orb_M_Soul", 0, {"EP17_1_EVT02", 15}, {"EP17_1_EVT39", 5})
--- DECOMPILER ERROR at PC53363: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC53298: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[44] = CreateEnchantInfo()
 ;
@@ -9282,7 +9282,7 @@ Table[44] = CreateEnchantInfo()
 ;
 (Table[44]):ApproveRandomOption(true)
 ;
-(Table[44]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[44]):SetReset(false, 0, 0)
 ;
 (Table[44]):SetCaution("오토매틱 아머 A타입(귀속), 오토매틱 아머 B타입(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -9529,7 +9529,7 @@ Table[44] = CreateEnchantInfo()
 (((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb96", 0, {"BarMealTicket", 25})
 ;
 (((Table[44]).Slot)[1]):AddPerfectEnchant("Automatic_Orb36", 0, {"BarMealTicket", 25})
--- DECOMPILER ERROR at PC55127: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC55058: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[45] = CreateEnchantInfo()
 ;
@@ -9543,7 +9543,7 @@ Table[45] = CreateEnchantInfo()
 ;
 (Table[45]):ApproveRandomOption(true)
 ;
-(Table[45]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[45]):SetReset(false, 0, 0)
 ;
 (Table[45]):SetCaution("오토매틱 엔진윙 A타입(귀속), 오토매틱 엔진윙 B타입(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -9576,7 +9576,7 @@ Table[45] = CreateEnchantInfo()
 (((Table[45]).Slot)[1]):AddPerfectEnchant("Automatic_Orb98", 0, {"BarMealTicket", 25})
 ;
 (((Table[45]).Slot)[1]):AddPerfectEnchant("Automatic_Orb31", 0, {"BarMealTicket", 25})
--- DECOMPILER ERROR at PC55393: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC55320: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[46] = CreateEnchantInfo()
 ;
@@ -9590,7 +9590,7 @@ Table[46] = CreateEnchantInfo()
 ;
 (Table[46]):ApproveRandomOption(true)
 ;
-(Table[46]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[46]):SetReset(false, 0, 0)
 ;
 (Table[46]):SetCaution("오토매틱 레그 A타입(귀속), 오토매틱 레그 B타입(귀속)에 확정 인챈트 부여 가능.")
 ;
@@ -9633,7 +9633,7 @@ Table[46] = CreateEnchantInfo()
 (((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb45", 0, {"BarMealTicket", 25})
 ;
 (((Table[46]).Slot)[1]):AddPerfectEnchant("Automatic_Orb30", 0, {"BarMealTicket", 25})
--- DECOMPILER ERROR at PC55729: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC55652: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[47] = CreateEnchantInfo()
 ;
@@ -9695,7 +9695,7 @@ Table[47] = CreateEnchantInfo()
 ;
 (Table[47]):ApproveRandomOption(true)
 ;
-(Table[47]):SetReset(false, 100000, 10000, {"Small_Spray_Of_Flowers", 5})
+(Table[47]):SetReset(false, 0, 0)
 ;
 (Table[47]):SetCaution("딤 글레이시아 무기 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -10178,7 +10178,7 @@ Table[47] = CreateEnchantInfo()
 (((Table[47]).Slot)[1]):AddUpgradeEnchant("Magical_Grade_3", "Magical_Grade_4", 0, {"EP19_S_F_1_Extract", 30}, {"EP19_S_F_2_Extract", 40}, {"EP19_S_F_3_Extract", 50}, {"EP19_Gla_Extract", 45}, {"EP19_D_P_Crystal", 10}, {"EP19_N_P_Crystal", 10}, {"EP19_D_P_Stone", 2})
 ;
 (((Table[47]).Slot)[1]):AddUpgradeEnchant("Magical_Grade_4", "Magical_Grade_5", 0, {"EP19_S_F_1_Extract", 40}, {"EP19_S_F_2_Extract", 50}, {"EP19_S_F_3_Extract", 65}, {"EP19_Gla_Extract", 70}, {"EP19_D_P_Crystal", 15}, {"EP19_N_P_Crystal", 15}, {"EP19_D_P_Stone", 3})
--- DECOMPILER ERROR at PC61353: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC61272: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[51] = CreateEnchantInfo()
 ;
@@ -10190,12 +10190,12 @@ Table[51] = CreateEnchantInfo()
 ;
 (Table[51]):ApproveRandomOption(true)
 ;
-(Table[51]):SetReset(false, 100000, 10000, {"Evt_20th_Coin", 1})
+(Table[51]):SetReset(false, 0, 0)
 ;
 (Table[51]):SetCaution("20주년을 축하합니다!!\n ")
 ;
 (((Table[51]).Slot)[3]):AddPerfectEnchant("Evt_Firecracker", 20, {"Evt_20th_Coin", 1})
--- DECOMPILER ERROR at PC61415: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC61330: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[52] = CreateEnchantInfo()
 ;
@@ -10804,7 +10804,7 @@ Table[52] = CreateEnchantInfo()
 (((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Death4", 2000)
 ;
 (((Table[52]).Slot)[1]):SetEnchant(4, "Barmund_Death5", 500)
--- DECOMPILER ERROR at PC64870: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC64785: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[53] = CreateEnchantInfo()
 ;
@@ -11413,7 +11413,7 @@ Table[53] = CreateEnchantInfo()
 (((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Death4", 2000)
 ;
 (((Table[53]).Slot)[1]):SetEnchant(4, "Barmund_Death5", 500)
--- DECOMPILER ERROR at PC68325: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC68240: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[54] = CreateEnchantInfo()
 ;
@@ -12022,7 +12022,7 @@ Table[54] = CreateEnchantInfo()
 (((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Death4", 2000)
 ;
 (((Table[54]).Slot)[1]):SetEnchant(4, "Barmund_Death5", 500)
--- DECOMPILER ERROR at PC71780: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC71695: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[55] = CreateEnchantInfo()
 ;
@@ -12631,7 +12631,7 @@ Table[55] = CreateEnchantInfo()
 (((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Death4", 2000)
 ;
 (((Table[55]).Slot)[1]):SetEnchant(4, "Barmund_Death5", 500)
--- DECOMPILER ERROR at PC75235: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC75150: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[56] = CreateEnchantInfo()
 ;
@@ -12820,7 +12820,7 @@ Table[56] = CreateEnchantInfo()
 (((Table[56]).Slot)[2]):AddUpgradeEnchant("Shooter_Orb_13", "Shooter_Orb_14", 0, {"Heros_Ruby_2", 12}, {"Heros_Topaz_2", 12}, {"Heros_Sapphire_2", 12}, {"Heros_Emerald_2", 12}, {"Heros_Diamond_2", 12})
 ;
 (((Table[56]).Slot)[2]):AddUpgradeEnchant("Shooter_Orb_14", "Shooter_Orb_15", 0, {"Heros_Ruby_2", 15}, {"Heros_Topaz_2", 15}, {"Heros_Sapphire_2", 15}, {"Heros_Emerald_2", 15}, {"Heros_Diamond_2", 15})
--- DECOMPILER ERROR at PC77986: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC77901: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[57] = CreateEnchantInfo()
 ;
@@ -12975,7 +12975,7 @@ Table[57] = CreateEnchantInfo()
 (((Table[57]).Slot)[2]):SetEnchant(0, "Ba_Mental4", 500)
 ;
 (((Table[57]).Slot)[2]):SetEnchant(0, "Ba_Mental5", 200)
--- DECOMPILER ERROR at PC78799: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC78714: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[58] = CreateEnchantInfo()
 ;
@@ -13130,7 +13130,7 @@ Table[58] = CreateEnchantInfo()
 (((Table[58]).Slot)[2]):SetEnchant(0, "Ba_Mental4", 500)
 ;
 (((Table[58]).Slot)[2]):SetEnchant(0, "Ba_Mental5", 200)
--- DECOMPILER ERROR at PC79612: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC79527: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[59] = CreateEnchantInfo()
 ;
@@ -13285,7 +13285,7 @@ Table[59] = CreateEnchantInfo()
 (((Table[59]).Slot)[2]):SetEnchant(0, "Ba_Mental4", 500)
 ;
 (((Table[59]).Slot)[2]):SetEnchant(0, "Ba_Mental5", 200)
--- DECOMPILER ERROR at PC80425: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC80340: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[60] = CreateEnchantInfo()
 ;
@@ -13486,7 +13486,7 @@ Table[60] = CreateEnchantInfo()
 (((Table[60]).Slot)[1]):SetEnchant(0, "Bio_Jam_Normal", 50)
 ;
 (((Table[60]).Slot)[1]):SetEnchant(0, "Bio_Jam_Boss", 50)
--- DECOMPILER ERROR at PC81496: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC81411: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[61] = CreateEnchantInfo()
 ;
@@ -13687,7 +13687,7 @@ Table[61] = CreateEnchantInfo()
 (((Table[61]).Slot)[1]):SetEnchant(0, "Bio_Jam_Normal", 50)
 ;
 (((Table[61]).Slot)[1]):SetEnchant(0, "Bio_Jam_Boss", 50)
--- DECOMPILER ERROR at PC82567: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC82482: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[62] = CreateEnchantInfo()
 ;
@@ -13888,7 +13888,7 @@ Table[62] = CreateEnchantInfo()
 (((Table[62]).Slot)[1]):SetEnchant(0, "Bio_Jam_Normal", 50)
 ;
 (((Table[62]).Slot)[1]):SetEnchant(0, "Bio_Jam_Boss", 50)
--- DECOMPILER ERROR at PC83638: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC83553: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[63] = CreateEnchantInfo()
 ;
@@ -14007,7 +14007,7 @@ Table[63] = CreateEnchantInfo()
 (((Table[63]).Slot)[2]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 500000, {"Mjo_Energy", 200}, {"Ein_DYNITE", 70}, {"Mjo_Treasure", 100})
 ;
 (((Table[63]).Slot)[2]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 500000, {"Mjo_Energy", 200}, {"Ein_DYNITE", 70}, {"Mjo_Treasure", 100})
--- DECOMPILER ERROR at PC84623: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC84538: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[64] = CreateEnchantInfo()
 ;
@@ -14142,7 +14142,7 @@ Table[64] = CreateEnchantInfo()
 (((Table[64]).Slot)[2]):AddPerfectEnchant("Warped_Spell2", 5000000, {"Mocadas_Water", 300}, {"Mocadas_Gold", 300})
 ;
 (((Table[64]).Slot)[2]):AddPerfectEnchant("Warped_Spell3", 5000000, {"Mocadas_Water", 300}, {"Mocadas_Gold", 300})
--- DECOMPILER ERROR at PC85287: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC85202: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[65] = CreateEnchantInfo()
 ;
@@ -14271,7 +14271,7 @@ Table[65] = CreateEnchantInfo()
 (((Table[65]).Slot)[2]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"Fate_Fragment", 60}, {"M_Dimension_Essence", 1})
 ;
 (((Table[65]).Slot)[2]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"Fate_Fragment", 65}, {"M_Dimension_Essence", 1}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC86110: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC86025: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[66] = CreateEnchantInfo()
 ;
@@ -14400,7 +14400,7 @@ Table[66] = CreateEnchantInfo()
 (((Table[66]).Slot)[2]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"Sin_Fragment", 60}, {"M_Dimension_Essence", 1})
 ;
 (((Table[66]).Slot)[2]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"Sin_Fragment", 65}, {"M_Dimension_Essence", 1}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC86933: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC86848: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[67] = CreateEnchantInfo()
 ;
@@ -14569,7 +14569,7 @@ Table[67] = CreateEnchantInfo()
 (((Table[67]).Slot)[2]):AddPerfectEnchant("Justice_Power", 3000000, {"Fate_Fragment", 250}, {"Sin_Fragment", 250}, {"Enchant_Ticket", 3})
 ;
 (((Table[67]).Slot)[2]):AddPerfectEnchant("Injustice_Power", 3000000, {"Fate_Fragment", 250}, {"Sin_Fragment", 250}, {"Enchant_Ticket", 3})
--- DECOMPILER ERROR at PC88000: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC87915: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[70] = CreateEnchantInfo()
 ;
@@ -14583,7 +14583,7 @@ Table[70] = CreateEnchantInfo()
 ;
 (Table[70]):ApproveRandomOption(true)
 ;
-(Table[70]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[70]):SetReset(false, 0, 0)
 ;
 (Table[70]):SetCaution("마스터 웨폰, 쉴드 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -14610,7 +14610,7 @@ Table[70] = CreateEnchantInfo()
 (((Table[70]).Slot)[2]):AddPerfectEnchant("M_Con3", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[70]).Slot)[2]):AddPerfectEnchant("M_Crt3", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC88223: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC88134: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[71] = CreateEnchantInfo()
 ;
@@ -14628,7 +14628,7 @@ Table[71] = CreateEnchantInfo()
 ;
 (Table[71]):ApproveRandomOption(true)
 ;
-(Table[71]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[71]):SetReset(false, 0, 0)
 ;
 (Table[71]):SetCaution("M.드래곤 나이트 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -14663,7 +14663,7 @@ Table[71] = CreateEnchantInfo()
 (((Table[71]).Slot)[2]):AddPerfectEnchant("DK_Soul_MC", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[71]).Slot)[2]):AddPerfectEnchant("DK_Soul_DB", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC88514: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC88421: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[72] = CreateEnchantInfo()
 ;
@@ -14681,7 +14681,7 @@ Table[72] = CreateEnchantInfo()
 ;
 (Table[72]):ApproveRandomOption(true)
 ;
-(Table[72]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[72]):SetReset(false, 0, 0)
 ;
 (Table[72]):SetCaution("M.임페리얼 가드 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -14712,7 +14712,7 @@ Table[72] = CreateEnchantInfo()
 (((Table[72]).Slot)[2]):AddPerfectEnchant("IG_Soul_SS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[72]).Slot)[2]):AddPerfectEnchant("IG_Soul_CR", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC88777: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC88680: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[73] = CreateEnchantInfo()
 ;
@@ -14730,7 +14730,7 @@ Table[73] = CreateEnchantInfo()
 ;
 (Table[73]):ApproveRandomOption(true)
 ;
-(Table[73]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[73]):SetReset(false, 0, 0)
 ;
 (Table[73]):SetCaution("M.쉐도우 크로스 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -14763,7 +14763,7 @@ Table[73] = CreateEnchantInfo()
 (((Table[73]).Slot)[2]):AddPerfectEnchant("SHC_Soul_IC", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[73]).Slot)[2]):AddPerfectEnchant("SHC_Soul_SS", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC89054: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC88953: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[74] = CreateEnchantInfo()
 ;
@@ -14781,7 +14781,7 @@ Table[74] = CreateEnchantInfo()
 ;
 (Table[74]):ApproveRandomOption(true)
 ;
-(Table[74]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[74]):SetReset(false, 0, 0)
 ;
 (Table[74]):SetCaution("M.어비스 체이서 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -14818,7 +14818,7 @@ Table[74] = CreateEnchantInfo()
 (((Table[74]).Slot)[2]):AddPerfectEnchant("ABC_Soul_AS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[74]).Slot)[2]):AddPerfectEnchant("ABC_Soul_FA", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC89359: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC89254: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[75] = CreateEnchantInfo()
 ;
@@ -14836,7 +14836,7 @@ Table[75] = CreateEnchantInfo()
 ;
 (Table[75]):ApproveRandomOption(true)
 ;
-(Table[75]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[75]):SetReset(false, 0, 0)
 ;
 (Table[75]):SetCaution("M.카디날 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -14867,7 +14867,7 @@ Table[75] = CreateEnchantInfo()
 (((Table[75]).Slot)[2]):AddPerfectEnchant("CD_Soul_FL", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[75]).Slot)[2]):AddPerfectEnchant("CD_Soul_PT", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC89622: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC89513: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[76] = CreateEnchantInfo()
 ;
@@ -14885,7 +14885,7 @@ Table[76] = CreateEnchantInfo()
 ;
 (Table[76]):ApproveRandomOption(true)
 ;
-(Table[76]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[76]):SetReset(false, 0, 0)
 ;
 (Table[76]):SetCaution("M.인퀴지터 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -14918,7 +14918,7 @@ Table[76] = CreateEnchantInfo()
 (((Table[76]).Slot)[2]):AddPerfectEnchant("IQ_Soul_EX", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[76]).Slot)[2]):AddPerfectEnchant("IQ_Soul_FL", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC89899: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC89786: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[77] = CreateEnchantInfo()
 ;
@@ -14936,7 +14936,7 @@ Table[77] = CreateEnchantInfo()
 ;
 (Table[77]):ApproveRandomOption(true)
 ;
-(Table[77]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[77]):SetReset(false, 0, 0)
 ;
 (Table[77]):SetCaution("M.마이스터 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -14969,7 +14969,7 @@ Table[77] = CreateEnchantInfo()
 (((Table[77]).Slot)[2]):AddPerfectEnchant("MT_Soul_MS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[77]).Slot)[2]):AddPerfectEnchant("MT_Soul_TL", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC90176: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC90059: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[78] = CreateEnchantInfo()
 ;
@@ -14987,7 +14987,7 @@ Table[78] = CreateEnchantInfo()
 ;
 (Table[78]):ApproveRandomOption(true)
 ;
-(Table[78]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[78]):SetReset(false, 0, 0)
 ;
 (Table[78]):SetCaution("M.바이올로 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15018,7 +15018,7 @@ Table[78] = CreateEnchantInfo()
 (((Table[78]).Slot)[2]):AddPerfectEnchant("BO_Soul_AZ", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[78]).Slot)[2]):AddPerfectEnchant("BO_Soul_EP", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC90439: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC90318: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[79] = CreateEnchantInfo()
 ;
@@ -15036,7 +15036,7 @@ Table[79] = CreateEnchantInfo()
 ;
 (Table[79]):ApproveRandomOption(true)
 ;
-(Table[79]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[79]):SetReset(false, 0, 0)
 ;
 (Table[79]):SetCaution("M.윈드호크 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15075,7 +15075,7 @@ Table[79] = CreateEnchantInfo()
 (((Table[79]).Slot)[2]):AddPerfectEnchant("WH_Soul_FT", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[79]).Slot)[2]):AddPerfectEnchant("WH_Soul_SW", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC90758: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC90633: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[80] = CreateEnchantInfo()
 ;
@@ -15093,7 +15093,7 @@ Table[80] = CreateEnchantInfo()
 ;
 (Table[80]):ApproveRandomOption(true)
 ;
-(Table[80]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[80]):SetReset(false, 0, 0)
 ;
 (Table[80]):SetCaution("M.트루바두르&트루베르 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15124,7 +15124,7 @@ Table[80] = CreateEnchantInfo()
 (((Table[80]).Slot)[2]):AddPerfectEnchant("TR_Soul_RS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[80]).Slot)[2]):AddPerfectEnchant("TR_Soul_MF", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC91021: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC90892: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[81] = CreateEnchantInfo()
 ;
@@ -15142,7 +15142,7 @@ Table[81] = CreateEnchantInfo()
 ;
 (Table[81]):ApproveRandomOption(true)
 ;
-(Table[81]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[81]):SetReset(false, 0, 0)
 ;
 (Table[81]):SetCaution("M.아크 메이지 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15187,7 +15187,7 @@ Table[81] = CreateEnchantInfo()
 (((Table[81]).Slot)[2]):AddPerfectEnchant("AG_Soul_ST", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[81]).Slot)[2]):AddPerfectEnchant("AG_Soul_RD", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC91382: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC91249: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[82] = CreateEnchantInfo()
 ;
@@ -15205,7 +15205,7 @@ Table[82] = CreateEnchantInfo()
 ;
 (Table[82]):ApproveRandomOption(true)
 ;
-(Table[82]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[82]):SetReset(false, 0, 0)
 ;
 (Table[82]):SetCaution("M.엘레멘탈 마스터 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15240,7 +15240,7 @@ Table[82] = CreateEnchantInfo()
 (((Table[82]).Slot)[2]):AddPerfectEnchant("EM_Soul_TD", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[82]).Slot)[2]):AddPerfectEnchant("EM_Soul_VS", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC91673: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC91536: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[83] = CreateEnchantInfo()
 ;
@@ -15258,7 +15258,7 @@ Table[83] = CreateEnchantInfo()
 ;
 (Table[83]):ApproveRandomOption(true)
 ;
-(Table[83]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[83]):SetReset(false, 0, 0)
 ;
 (Table[83]):SetCaution("M.나이트 워치 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15295,7 +15295,7 @@ Table[83] = CreateEnchantInfo()
 (((Table[83]).Slot)[2]):AddPerfectEnchant("NW_Soul_MO", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[83]).Slot)[2]):AddPerfectEnchant("NW_Soul_GR", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC91978: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC91837: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[84] = CreateEnchantInfo()
 ;
@@ -15313,7 +15313,7 @@ Table[84] = CreateEnchantInfo()
 ;
 (Table[84]):ApproveRandomOption(true)
 ;
-(Table[84]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[84]):SetReset(false, 0, 0)
 ;
 (Table[84]):SetCaution("M.혼령사 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15346,7 +15346,7 @@ Table[84] = CreateEnchantInfo()
 (((Table[84]).Slot)[2]):AddPerfectEnchant("SH_Soul_CS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[84]).Slot)[2]):AddPerfectEnchant("SH_Soul_HS", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC92255: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC92110: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[85] = CreateEnchantInfo()
 ;
@@ -15364,7 +15364,7 @@ Table[85] = CreateEnchantInfo()
 ;
 (Table[85]):ApproveRandomOption(true)
 ;
-(Table[85]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[85]):SetReset(false, 0, 0)
 ;
 (Table[85]):SetCaution("M.신키로&시라누이 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15411,7 +15411,7 @@ Table[85] = CreateEnchantInfo()
 (((Table[85]).Slot)[2]):AddPerfectEnchant("SS_Soul_KN", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[85]).Slot)[2]):AddPerfectEnchant("SS_Soul_KG", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC92630: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC92481: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[86] = CreateEnchantInfo()
 ;
@@ -15429,7 +15429,7 @@ Table[86] = CreateEnchantInfo()
 ;
 (Table[86]):ApproveRandomOption(true)
 ;
-(Table[86]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[86]):SetReset(false, 0, 0)
 ;
 (Table[86]):SetCaution("M.천제 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15466,7 +15466,7 @@ Table[86] = CreateEnchantInfo()
 (((Table[86]).Slot)[2]):AddPerfectEnchant("SKE_Soul_TG", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[86]).Slot)[2]):AddPerfectEnchant("SKE_Soul_SC", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC92935: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC92782: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[87] = CreateEnchantInfo()
 ;
@@ -15484,7 +15484,7 @@ Table[87] = CreateEnchantInfo()
 ;
 (Table[87]):ApproveRandomOption(true)
 ;
-(Table[87]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[87]):SetReset(false, 0, 0)
 ;
 (Table[87]):SetCaution("M.영도사 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15523,7 +15523,7 @@ Table[87] = CreateEnchantInfo()
 (((Table[87]).Slot)[2]):AddPerfectEnchant("SOA_Soul_SS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[87]).Slot)[2]):AddPerfectEnchant("SOA_Soul_FG", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC93254: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC93097: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[88] = CreateEnchantInfo()
 ;
@@ -15541,7 +15541,7 @@ Table[88] = CreateEnchantInfo()
 ;
 (Table[88]):ApproveRandomOption(true)
 ;
-(Table[88]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
+(Table[88]):SetReset(false, 0, 0)
 ;
 (Table[88]):SetCaution("M.하이퍼 노비스 쉐도우 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15586,7 +15586,7 @@ Table[88] = CreateEnchantInfo()
 (((Table[88]).Slot)[2]):AddPerfectEnchant("HN_Soul_GG", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[88]).Slot)[2]):AddPerfectEnchant("HN_Soul_NV", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC93615: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC93454: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[89] = CreateEnchantInfo()
 ;
@@ -15600,7 +15600,7 @@ Table[89] = CreateEnchantInfo()
 ;
 (Table[89]):ApproveRandomOption(true)
 ;
-(Table[89]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[89]):SetReset(false, 0, 0)
 ;
 (Table[89]):SetCaution("글레이시아 아머, 글레이시아 로브 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15625,7 +15625,7 @@ Table[89] = CreateEnchantInfo()
 (((Table[89]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Ran2", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[89]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Mag2", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC93909: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC93744: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[90] = CreateEnchantInfo()
 ;
@@ -15639,7 +15639,7 @@ Table[90] = CreateEnchantInfo()
 ;
 (Table[90]):ApproveRandomOption(true)
 ;
-(Table[90]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[90]):SetReset(false, 0, 0)
 ;
 (Table[90]):SetCaution("글레이시아 망토, 글레이시아 머플러 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15656,7 +15656,7 @@ Table[90] = CreateEnchantInfo()
 (((Table[90]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Above", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[90]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_P_Full", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC94119: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC93950: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[91] = CreateEnchantInfo()
 ;
@@ -15670,7 +15670,7 @@ Table[91] = CreateEnchantInfo()
 ;
 (Table[91]):ApproveRandomOption(true)
 ;
-(Table[91]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[91]):SetReset(false, 0, 0)
 ;
 (Table[91]):SetCaution("글레이시아 부츠, 글레이시아 슈즈 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15691,7 +15691,7 @@ Table[91] = CreateEnchantInfo()
 (((Table[91]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Fi_Con", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[91]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Bu_Spl", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC94373: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC94200: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[92] = CreateEnchantInfo()
 ;
@@ -15703,7 +15703,7 @@ Table[92] = CreateEnchantInfo()
 ;
 (Table[92]):ApproveRandomOption(true)
 ;
-(Table[92]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[92]):SetReset(false, 0, 0)
 ;
 (Table[92]):SetCaution("글레이시아 가드 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15718,7 +15718,7 @@ Table[92] = CreateEnchantInfo()
 (((Table[92]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Guard", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[92]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Intel", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC94555: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC94378: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[93] = CreateEnchantInfo()
 ;
@@ -15732,7 +15732,7 @@ Table[93] = CreateEnchantInfo()
 ;
 (Table[93]):ApproveRandomOption(true)
 ;
-(Table[93]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[93]):SetReset(false, 0, 0)
 ;
 (Table[93]):SetCaution("글레이시아 펜던트, 글레이시아 네클리스 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15757,7 +15757,7 @@ Table[93] = CreateEnchantInfo()
 (((Table[93]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_M_P", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[93]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_A_Force", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC94849: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC94668: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[94] = CreateEnchantInfo()
 ;
@@ -15771,7 +15771,7 @@ Table[94] = CreateEnchantInfo()
 ;
 (Table[94]):ApproveRandomOption(true)
 ;
-(Table[94]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[94]):SetReset(false, 0, 0)
 ;
 (Table[94]):SetCaution("글레이시아 링, 글레이시아 이어링 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15796,7 +15796,7 @@ Table[94] = CreateEnchantInfo()
 (((Table[94]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_M_P", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[94]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_A_Force", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC95143: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC94958: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[95] = CreateEnchantInfo()
 ;
@@ -15810,7 +15810,7 @@ Table[95] = CreateEnchantInfo()
 ;
 (Table[95]):ApproveRandomOption(true)
 ;
-(Table[95]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[95]):SetReset(false, 0, 0)
 ;
 (Table[95]):SetCaution("딤 글레이시아 아머, 딤 글레이시아 로브 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15875,7 +15875,7 @@ Table[95] = CreateEnchantInfo()
 (((Table[95]).Slot)[2]):AddUpgradeEnchant("Snake_A_Matk_9", "Snake_A_Matk_10", 6000000, {"EP20_D_P_Extract", 30}, {"EP19_S_F_2_Extract", 25}, {"EP19_S_F_3_Extract", 20}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
 ;
 (((Table[95]).Slot)[1]):AddPerfectEnchant("Snake_G_Blessing", 8000000, {"EP20_D_P_Extract", 40}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
--- DECOMPILER ERROR at PC95979: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC95790: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[96] = CreateEnchantInfo()
 ;
@@ -15889,7 +15889,7 @@ Table[96] = CreateEnchantInfo()
 ;
 (Table[96]):ApproveRandomOption(true)
 ;
-(Table[96]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[96]):SetReset(false, 0, 0)
 ;
 (Table[96]):SetCaution("딤 글레이시아 망토, 딤 글레이시아 머플러 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -15954,7 +15954,7 @@ Table[96] = CreateEnchantInfo()
 (((Table[96]).Slot)[2]):AddUpgradeEnchant("Snake_H_Matk_9", "Snake_H_Matk_10", 6000000, {"EP20_D_P_Extract", 30}, {"EP19_S_F_2_Extract", 25}, {"EP19_S_F_3_Extract", 20}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
 ;
 (((Table[96]).Slot)[1]):AddPerfectEnchant("Snake_G_Grace", 8000000, {"EP20_D_P_Extract", 40}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
--- DECOMPILER ERROR at PC96815: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC96622: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[97] = CreateEnchantInfo()
 ;
@@ -15968,7 +15968,7 @@ Table[97] = CreateEnchantInfo()
 ;
 (Table[97]):ApproveRandomOption(true)
 ;
-(Table[97]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[97]):SetReset(false, 0, 0)
 ;
 (Table[97]):SetCaution("딤 글레이시아 부츠, 딤 글레이시아 슈즈 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -16033,7 +16033,7 @@ Table[97] = CreateEnchantInfo()
 (((Table[97]).Slot)[2]):AddUpgradeEnchant("Snake_S_Matk_9", "Snake_S_Matk_10", 6000000, {"EP20_D_P_Extract", 30}, {"EP19_S_F_2_Extract", 25}, {"EP19_S_F_3_Extract", 20}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
 ;
 (((Table[97]).Slot)[1]):AddPerfectEnchant("Snake_G_Glory", 8000000, {"EP20_D_P_Extract", 40}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
--- DECOMPILER ERROR at PC97651: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC97454: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[98] = CreateEnchantInfo()
 ;
@@ -16070,7 +16070,7 @@ Table[98] = CreateEnchantInfo()
 (((Table[98]).Slot)[1]):AddPerfectEnchant("Isgard_2_Assassin2", 8000000, {"EP19_S_F_3_Extract", 10}, {"Ep20_Cat_Whiskers", 250}, {"Ep19_Snow_Flower", 500})
 ;
 (((Table[98]).Slot)[1]):AddPerfectEnchant("Isgard_2_Mage2", 8000000, {"EP19_S_F_3_Extract", 10}, {"Ep20_Cat_Whiskers", 250}, {"Ep19_Snow_Flower", 500})
--- DECOMPILER ERROR at PC97911: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC97714: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[99] = CreateEnchantInfo()
 ;
@@ -16084,7 +16084,7 @@ Table[99] = CreateEnchantInfo()
 ;
 (Table[99]):ApproveRandomOption(true)
 ;
-(Table[99]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[99]):SetReset(false, 0, 0)
 ;
 (Table[99]):SetCaution("화염의 대지 룬 아머, 각인된 화염의 대지 룬 아머 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -16127,7 +16127,7 @@ Table[99] = CreateEnchantInfo()
 (((Table[99]).Slot)[1]):AddUpgradeEnchant("Flame_Earth_R_8", "Flame_Earth_R_9", 5500000, {"Barmund_Flame_Essence", 55}, {"Barmund_Plain_Essence", 55}, {"Bar_D_Fl_Rune", 65}, {"Bar_D_Ea_Rune", 65}, {"Bar_D_Fl_Essence", 50}, {"Bar_D_Ea_Essence", 50})
 ;
 (((Table[99]).Slot)[1]):AddUpgradeEnchant("Flame_Earth_R_9", "Flame_Earth_R_10", 6000000, {"Bar_D_Fl_Rune", 80}, {"Bar_D_Ea_Rune", 80}, {"Bar_D_Fl_Essence", 70}, {"Bar_D_Ea_Essence", 70})
--- DECOMPILER ERROR at PC98529: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC98328: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[100] = CreateEnchantInfo()
 ;
@@ -16141,7 +16141,7 @@ Table[100] = CreateEnchantInfo()
 ;
 (Table[100]):ApproveRandomOption(true)
 ;
-(Table[100]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[100]):SetReset(false, 0, 0)
 ;
 (Table[100]):SetCaution("냉기의 폭풍 룬 슈츠, 각인된 냉기의 폭풍 룬 슈츠 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -16184,7 +16184,7 @@ Table[100] = CreateEnchantInfo()
 (((Table[100]).Slot)[1]):AddUpgradeEnchant("Ice_Storm_R_8", "Ice_Storm_R_9", 5500000, {"Barmund_Ice_Essence", 55}, {"Barmund_Plain_Essence", 55}, {"Bar_D_Ic_Rune", 65}, {"Bar_D_St_Rune", 65}, {"Bar_D_Ic_Essence", 50}, {"Bar_D_St_Essence", 50})
 ;
 (((Table[100]).Slot)[1]):AddUpgradeEnchant("Ice_Storm_R_9", "Ice_Storm_R_10", 6000000, {"Bar_D_Ic_Rune", 80}, {"Bar_D_St_Rune", 80}, {"Bar_D_Ic_Essence", 70}, {"Bar_D_St_Essence", 70})
--- DECOMPILER ERROR at PC99147: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC98942: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[101] = CreateEnchantInfo()
 ;
@@ -16198,7 +16198,7 @@ Table[101] = CreateEnchantInfo()
 ;
 (Table[101]):ApproveRandomOption(true)
 ;
-(Table[101]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[101]):SetReset(false, 0, 0)
 ;
 (Table[101]):SetCaution("영혼의 정화 룬 로브, 각인된 영혼의 정화 룬 로브 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -16241,7 +16241,7 @@ Table[101] = CreateEnchantInfo()
 (((Table[101]).Slot)[1]):AddUpgradeEnchant("Soul_Purify_R_8", "Soul_Purify_R_9", 5500000, {"Barmund_Soul_Essence", 55}, {"Barmund_Temple_Essence", 55}, {"Bar_D_So_Rune", 65}, {"Bar_D_Pu_Rune", 65}, {"Bar_D_So_Essence", 50}, {"Bar_D_Pu_Essence", 50})
 ;
 (((Table[101]).Slot)[1]):AddUpgradeEnchant("Soul_Purify_R_9", "Soul_Purify_R_10", 6000000, {"Bar_D_So_Rune", 80}, {"Bar_D_Pu_Rune", 80}, {"Bar_D_So_Essence", 70}, {"Bar_D_Pu_Essence", 70})
--- DECOMPILER ERROR at PC99765: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC99556: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[102] = CreateEnchantInfo()
 ;
@@ -16255,7 +16255,7 @@ Table[102] = CreateEnchantInfo()
 ;
 (Table[102]):ApproveRandomOption(true)
 ;
-(Table[102]):SetReset(false, 100000, 10000, {"Ep20_Cat_Whiskers", 1})
+(Table[102]):SetReset(false, 0, 0)
 ;
 (Table[102]):SetCaution("타락의 맹독 룬 클로스, 각인된 타락의 맹독 룬 클로스 인챈트 부여\n인챈트 초기화 불가")
 ;
@@ -16298,7 +16298,7 @@ Table[102] = CreateEnchantInfo()
 (((Table[102]).Slot)[1]):AddUpgradeEnchant("Corrupt_Poison_R_8", "Corrupt_Poison_R_9", 5500000, {"Barmund_Death_Essence", 55}, {"Barmund_Venom_Essence", 55}, {"Bar_D_Co_Rune", 65}, {"Bar_D_Po_Rune", 65}, {"Bar_D_Co_Essence", 50}, {"Bar_D_Po_Essence", 50})
 ;
 (((Table[102]).Slot)[1]):AddUpgradeEnchant("Corrupt_Poison_R_9", "Corrupt_Poison_R_10", 6000000, {"Bar_D_Co_Rune", 80}, {"Bar_D_Po_Rune", 80}, {"Bar_D_Co_Essence", 70}, {"Bar_D_Po_Essence", 70})
--- DECOMPILER ERROR at PC100383: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC100170: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[103] = CreateEnchantInfo()
 ;
@@ -16507,7 +16507,7 @@ Table[103] = CreateEnchantInfo()
 (((Table[103]).Slot)[2]):SetEnchant(4, "Satanic_Badge", 9900)
 ;
 (((Table[103]).Slot)[2]):SetEnchant(4, "Dragoon_Badge", 9900)
--- DECOMPILER ERROR at PC101479: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC101266: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[104] = CreateEnchantInfo()
 ;
@@ -16658,7 +16658,7 @@ Table[104] = CreateEnchantInfo()
 (((Table[104]).Slot)[2]):AddUpgradeEnchant("Tenacity2", "Tenacity3", 0, {"오염된마력", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[104]).Slot)[2]):AddUpgradeEnchant("패기2", "패기3", 0, {"오염된마력", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC102424: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC102211: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[105] = CreateEnchantInfo()
 ;
@@ -16707,7 +16707,7 @@ Table[105] = CreateEnchantInfo()
 (((Table[105]).Slot)[2]):SetEnchant(0, "F_Crystal_ATK", 20000)
 ;
 (((Table[105]).Slot)[2]):SetEnchant(0, "F_Crystal_MHP", 20000)
--- DECOMPILER ERROR at PC102657: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC102444: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[106] = CreateEnchantInfo()
 ;
@@ -16756,7 +16756,7 @@ Table[106] = CreateEnchantInfo()
 (((Table[106]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_CD", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[106]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_CD", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC103076: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC102863: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[107] = CreateEnchantInfo()
 ;
@@ -16805,7 +16805,7 @@ Table[107] = CreateEnchantInfo()
 (((Table[107]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_IQ", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[107]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_IQ", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC103495: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC103282: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[108] = CreateEnchantInfo()
 ;
@@ -16854,7 +16854,7 @@ Table[108] = CreateEnchantInfo()
 (((Table[108]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SOA", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[108]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SOA", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC103914: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC103701: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[109] = CreateEnchantInfo()
 ;
@@ -16903,7 +16903,7 @@ Table[109] = CreateEnchantInfo()
 (((Table[109]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_BO", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[109]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_BO", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC104333: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC104120: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[110] = CreateEnchantInfo()
 ;
@@ -16952,7 +16952,7 @@ Table[110] = CreateEnchantInfo()
 (((Table[110]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_DK", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[110]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_DK", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC104752: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC104539: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[111] = CreateEnchantInfo()
 ;
@@ -17001,4 +17001,2082 @@ Table[111] = CreateEnchantInfo()
 (((Table[111]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SH", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[111]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SH", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC104958: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[114] = CreateEnchantInfo()
+;
+(Table[114]):SetSlotOrder(3, 2)
+;
+(Table[114]):AddTargetItem("FateSin_Boots_EM")
+;
+(Table[114]):SetCondition(0, 0)
+;
+(Table[114]):ApproveRandomOption(true)
+;
+(Table[114]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[114]):SetCaution("선악의 부츠(엘레멘탈 마스터) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[114]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[114]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_EM", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[114]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_EM", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC105377: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[115] = CreateEnchantInfo()
+;
+(Table[115]):SetSlotOrder(3, 2)
+;
+(Table[115]):AddTargetItem("FateSin_Boots_WH")
+;
+(Table[115]):SetCondition(0, 0)
+;
+(Table[115]):ApproveRandomOption(true)
+;
+(Table[115]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[115]):SetCaution("선악의 부츠(윈드호크) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[115]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[115]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_WH", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[115]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_WH", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC105796: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[116] = CreateEnchantInfo()
+;
+(Table[116]):SetSlotOrder(3, 2)
+;
+(Table[116]):AddTargetItem("FateSin_Boots_SKE")
+;
+(Table[116]):SetCondition(0, 0)
+;
+(Table[116]):ApproveRandomOption(true)
+;
+(Table[116]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[116]):SetCaution("선악의 부츠(천제) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[116]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[116]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SKE", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[116]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SKE", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC106215: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[117] = CreateEnchantInfo()
+;
+(Table[117]):SetSlotOrder(3, 2, 1)
+;
+(Table[117]):AddTargetItem_Duplicate("Season_Hood_Spring")
+;
+(Table[117]):SetCondition(0, 0)
+;
+(Table[117]):ApproveRandomOption(true)
+;
+(Table[117]):SetReset(false, 0, 0)
+;
+(Table[117]):SetCaution("신수의 망토: 봄 인챈트 부여\n인챈트 초기화 불가능")
+;
+(((Table[117]).Slot)[3]):AddPerfectEnchant("Physical_Seed_1", 0, {"Spring_Material_1", 10}, {"Spring_Material_2", 10}, {"Spring_Material_3", 10}, {"Energy_Of_Spring", 60})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_1", "Physical_Seed_2", 0, {"Energy_Of_Spring", 1}, {"Energy_Of_Ground", 10}, {"Energy_Of_Wind", 10})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_2", "Physical_Seed_3", 0, {"Energy_Of_Spring", 2}, {"Energy_Of_Ground", 12}, {"Energy_Of_Wind", 12})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_3", "Physical_Seed_4", 0, {"Energy_Of_Spring", 3}, {"Energy_Of_Ground", 14}, {"Energy_Of_Wind", 14})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_4", "Physical_Seed_5", 0, {"Energy_Of_Spring", 4}, {"Energy_Of_Ground", 16}, {"Energy_Of_Wind", 16})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_5", "Physical_Seed_6", 0, {"Energy_Of_Spring", 5}, {"Energy_Of_Ground", 18}, {"Energy_Of_Wind", 18})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_6", "Physical_Seed_7", 0, {"Energy_Of_Spring", 6}, {"Energy_Of_Ground", 20}, {"Energy_Of_Wind", 20})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_7", "Physical_Seed_8", 0, {"Energy_Of_Spring", 7}, {"Energy_Of_Ground", 22}, {"Energy_Of_Wind", 22})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_8", "Physical_Seed_9", 0, {"Energy_Of_Spring", 8}, {"Energy_Of_Ground", 24}, {"Energy_Of_Wind", 24})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_9", "Physical_Seed_10", 0, {"Energy_Of_Spring", 9}, {"Energy_Of_Ground", 26}, {"Energy_Of_Wind", 26})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_10", "Physical_Leaf_1", 0, {"Energy_Of_Spring", 12}, {"Energy_Of_Ground", 30}, {"Energy_Of_Wind", 30}, {"Spring_Material_1", 3}, {"Spring_Material_2", 3}, {"Spring_Material_3", 3})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_1", "Physical_Leaf_2", 0, {"Energy_Of_Spring", 14}, {"Energy_Of_Ground", 35}, {"Energy_Of_Wind", 35}, {"Grace_Of_Spirit", 2})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_2", "Physical_Leaf_3", 0, {"Energy_Of_Spring", 16}, {"Energy_Of_Ground", 40}, {"Energy_Of_Wind", 40}, {"Grace_Of_Spirit", 4})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_3", "Physical_Leaf_4", 0, {"Energy_Of_Spring", 18}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 6})
+;
+(((Table[117]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_4", "Physical_Leaf_5", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 50}, {"Energy_Of_Wind", 50}, {"Grace_Of_Spirit", 8})
+;
+(((Table[117]).Slot)[2]):AddPerfectEnchant("Physical_Fruit_1", 0, {"Spring_Material_1", 15}, {"Spring_Material_2", 15}, {"Spring_Material_3", 15}, {"Energy_Of_Spring", 90})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_1", "Physical_Fruit_2", 0, {"Energy_Of_Spring", 2}, {"Energy_Of_Ground", 12}, {"Energy_Of_Wind", 12})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_2", "Physical_Fruit_3", 0, {"Energy_Of_Spring", 3}, {"Energy_Of_Ground", 13}, {"Energy_Of_Wind", 13})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_3", "Physical_Fruit_4", 0, {"Energy_Of_Spring", 5}, {"Energy_Of_Ground", 15}, {"Energy_Of_Wind", 15})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_4", "Physical_Fruit_5", 0, {"Energy_Of_Spring", 8}, {"Energy_Of_Ground", 18}, {"Energy_Of_Wind", 18})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_5", "Physical_Fruit_6", 0, {"Energy_Of_Spring", 12}, {"Energy_Of_Ground", 22}, {"Energy_Of_Wind", 22}, {"Grace_Of_Spirit", 2})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_6", "Physical_Fruit_7", 0, {"Energy_Of_Spring", 17}, {"Energy_Of_Ground", 27}, {"Energy_Of_Wind", 27}, {"Grace_Of_Spirit", 4})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_7", "Physical_Fruit_8", 0, {"Energy_Of_Spring", 23}, {"Energy_Of_Ground", 33}, {"Energy_Of_Wind", 33}, {"Grace_Of_Spirit", 6})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_8", "Physical_Fruit_9", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 40}, {"Energy_Of_Wind", 40}, {"Grace_Of_Spirit", 8})
+;
+(((Table[117]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_9", "Physical_Fruit_10", 0, {"Energy_Of_Spring", 38}, {"Energy_Of_Ground", 48}, {"Energy_Of_Wind", 48}, {"Grace_Of_Spirit", 10})
+;
+(((Table[117]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_10", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_10", 15000)
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_11", 85000)
+;
+(((Table[117]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_11", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_10", 20000)
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_12", 80000)
+;
+(((Table[117]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_12", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_11", 25000)
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_13", 75000)
+;
+(((Table[117]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_13", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_12", 30000)
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_14", 70000)
+;
+(((Table[117]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_14", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_13", 35000)
+;
+(((Table[117]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_15", 65000)
+;
+(((Table[117]).Slot)[1]):AddPerfectEnchant("Life_of_Spring_1", 0, {"Spring_Material_1", 25}, {"Spring_Material_2", 25}, {"Spring_Material_3", 25}, {"Energy_Of_Spring", 140})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_1", "Life_of_Spring_2", 0, {"Energy_Of_Spring", 4}, {"Energy_Of_Ground", 14}, {"Energy_Of_Wind", 14})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_2", "Life_of_Spring_3", 0, {"Energy_Of_Spring", 5}, {"Energy_Of_Ground", 16}, {"Energy_Of_Wind", 16})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_3", "Life_of_Spring_4", 0, {"Energy_Of_Spring", 7}, {"Energy_Of_Ground", 19}, {"Energy_Of_Wind", 19})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_4", "Life_of_Spring_5", 0, {"Energy_Of_Spring", 10}, {"Energy_Of_Ground", 23}, {"Energy_Of_Wind", 23}, {"Grace_Of_Spirit", 5})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_5", "Life_of_Spring_6", 0, {"Energy_Of_Spring", 14}, {"Energy_Of_Ground", 28}, {"Energy_Of_Wind", 28}, {"Grace_Of_Spirit", 7})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_6", "Life_of_Spring_7", 0, {"Energy_Of_Spring", 19}, {"Energy_Of_Ground", 34}, {"Energy_Of_Wind", 34}, {"Grace_Of_Spirit", 9})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_7", "Life_of_Spring_8", 0, {"Energy_Of_Spring", 25}, {"Energy_Of_Ground", 41}, {"Energy_Of_Wind", 41}, {"Grace_Of_Spirit", 11}, {"Spring_Material_1", 1}, {"Spring_Material_2", 1}, {"Spring_Material_3", 1})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_8", "Life_of_Spring_9", 0, {"Energy_Of_Spring", 32}, {"Energy_Of_Ground", 49}, {"Energy_Of_Wind", 49}, {"Grace_Of_Spirit", 13}, {"Spring_Material_1", 3}, {"Spring_Material_2", 3}, {"Spring_Material_3", 3})
+;
+(((Table[117]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_9", "Life_of_Spring_10", 0, {"Energy_Of_Spring", 40}, {"Energy_Of_Ground", 58}, {"Energy_Of_Wind", 58}, {"Grace_Of_Spirit", 15}, {"Spring_Material_1", 5}, {"Spring_Material_2", 5}, {"Spring_Material_3", 5})
+;
+(((Table[117]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_10", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_10", "Life_of_Spring_10", 25000)
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_10", "Life_of_Spring_11", 75000)
+;
+(((Table[117]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_11", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_11", "Life_of_Spring_10", 30000)
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_11", "Life_of_Spring_12", 70000)
+;
+(((Table[117]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_12", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_12", "Life_of_Spring_11", 35000)
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_12", "Life_of_Spring_13", 65000)
+;
+(((Table[117]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_13", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10}, {"Spring_Material_1", 2}, {"Spring_Material_2", 2}, {"Spring_Material_3", 2})
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_13", "Life_of_Spring_12", 40000)
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_13", "Life_of_Spring_14", 60000)
+;
+(((Table[117]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_14", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10}, {"Spring_Material_1", 2}, {"Spring_Material_2", 2}, {"Spring_Material_3", 2})
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_14", "Life_of_Spring_13", 45000)
+;
+(((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_14", "Life_of_Spring_15", 55000)
+-- DECOMPILER ERROR at PC107750: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[118] = CreateEnchantInfo()
+;
+(Table[118]):SetSlotOrder(3, 2, 1)
+;
+(Table[118]):AddTargetItem_Duplicate("Circul_Of_Life_Spring")
+;
+(Table[118]):SetCondition(0, 0)
+;
+(Table[118]):ApproveRandomOption(true)
+;
+(Table[118]):SetReset(false, 0, 0)
+;
+(Table[118]):SetCaution("생명의 순환: 봄 인챈트 부여\n인챈트 초기화 불가능")
+;
+(((Table[118]).Slot)[3]):AddPerfectEnchant("Physical_Seed_1", 0, {"Spring_Material_1", 10}, {"Spring_Material_2", 10}, {"Spring_Material_3", 10}, {"Energy_Of_Spring", 60})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_1", "Physical_Seed_2", 0, {"Energy_Of_Spring", 1}, {"Energy_Of_Ground", 10}, {"Energy_Of_Wind", 10})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_2", "Physical_Seed_3", 0, {"Energy_Of_Spring", 2}, {"Energy_Of_Ground", 12}, {"Energy_Of_Wind", 12})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_3", "Physical_Seed_4", 0, {"Energy_Of_Spring", 3}, {"Energy_Of_Ground", 14}, {"Energy_Of_Wind", 14})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_4", "Physical_Seed_5", 0, {"Energy_Of_Spring", 4}, {"Energy_Of_Ground", 16}, {"Energy_Of_Wind", 16})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_5", "Physical_Seed_6", 0, {"Energy_Of_Spring", 5}, {"Energy_Of_Ground", 18}, {"Energy_Of_Wind", 18})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_6", "Physical_Seed_7", 0, {"Energy_Of_Spring", 6}, {"Energy_Of_Ground", 20}, {"Energy_Of_Wind", 20})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_7", "Physical_Seed_8", 0, {"Energy_Of_Spring", 7}, {"Energy_Of_Ground", 22}, {"Energy_Of_Wind", 22})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_8", "Physical_Seed_9", 0, {"Energy_Of_Spring", 8}, {"Energy_Of_Ground", 24}, {"Energy_Of_Wind", 24})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_9", "Physical_Seed_10", 0, {"Energy_Of_Spring", 9}, {"Energy_Of_Ground", 26}, {"Energy_Of_Wind", 26})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_10", "Physical_Leaf_1", 0, {"Energy_Of_Spring", 12}, {"Energy_Of_Ground", 30}, {"Energy_Of_Wind", 30}, {"Spring_Material_1", 3}, {"Spring_Material_2", 3}, {"Spring_Material_3", 3})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_1", "Physical_Leaf_2", 0, {"Energy_Of_Spring", 14}, {"Energy_Of_Ground", 35}, {"Energy_Of_Wind", 35}, {"Grace_Of_Spirit", 2})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_2", "Physical_Leaf_3", 0, {"Energy_Of_Spring", 16}, {"Energy_Of_Ground", 40}, {"Energy_Of_Wind", 40}, {"Grace_Of_Spirit", 4})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_3", "Physical_Leaf_4", 0, {"Energy_Of_Spring", 18}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 6})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_4", "Physical_Leaf_5", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 50}, {"Energy_Of_Wind", 50}, {"Grace_Of_Spirit", 8})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_5", "Physical_Flower_1", 0, {"Energy_Of_Spring", 25}, {"Spring_Material_1", 3}, {"Spring_Material_2", 3}, {"Spring_Material_3", 3}, {"Circul_Of_Life", 10})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_1", "Physical_Flower_2", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 12})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_2", "Physical_Flower_3", 0, {"Energy_Of_Spring", 35}, {"Circul_Of_Life", 14}, {"Fruit_Of_Birth", 3}, {"Fruit_Of_Extinction", 3})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_3", "Physical_Flower_4", 0, {"Energy_Of_Spring", 40}, {"Circul_Of_Life", 16}, {"Fruit_Of_Birth", 6}, {"Fruit_Of_Extinction", 6}, {"Truth_Of_Life", 3})
+;
+(((Table[118]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_4", "Physical_Flower_5", 0, {"Energy_Of_Spring", 45}, {"Circul_Of_Life", 18}, {"Fruit_Of_Birth", 9}, {"Fruit_Of_Extinction", 9}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[118]).Slot)[2]):AddPerfectEnchant("Physical_Fruit_1", 0, {"Spring_Material_1", 15}, {"Spring_Material_2", 15}, {"Spring_Material_3", 15}, {"Energy_Of_Spring", 90})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_1", "Physical_Fruit_2", 0, {"Energy_Of_Spring", 2}, {"Energy_Of_Ground", 12}, {"Energy_Of_Wind", 12})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_2", "Physical_Fruit_3", 0, {"Energy_Of_Spring", 3}, {"Energy_Of_Ground", 13}, {"Energy_Of_Wind", 13})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_3", "Physical_Fruit_4", 0, {"Energy_Of_Spring", 5}, {"Energy_Of_Ground", 15}, {"Energy_Of_Wind", 15})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_4", "Physical_Fruit_5", 0, {"Energy_Of_Spring", 8}, {"Energy_Of_Ground", 18}, {"Energy_Of_Wind", 18})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_5", "Physical_Fruit_6", 0, {"Energy_Of_Spring", 12}, {"Energy_Of_Ground", 22}, {"Energy_Of_Wind", 22}, {"Grace_Of_Spirit", 2})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_6", "Physical_Fruit_7", 0, {"Energy_Of_Spring", 17}, {"Energy_Of_Ground", 27}, {"Energy_Of_Wind", 27}, {"Grace_Of_Spirit", 4})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_7", "Physical_Fruit_8", 0, {"Energy_Of_Spring", 23}, {"Energy_Of_Ground", 33}, {"Energy_Of_Wind", 33}, {"Grace_Of_Spirit", 6})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_8", "Physical_Fruit_9", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 40}, {"Energy_Of_Wind", 40}, {"Grace_Of_Spirit", 8})
+;
+(((Table[118]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_9", "Physical_Fruit_10", 0, {"Energy_Of_Spring", 38}, {"Energy_Of_Ground", 48}, {"Energy_Of_Wind", 48}, {"Grace_Of_Spirit", 10})
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_10", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_10", 15000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_11", 85000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_11", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_10", 20000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_12", 80000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_12", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_11", 25000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_13", 75000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_13", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_12", 30000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_14", 70000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_14", 0, {"Energy_Of_Spring", 20}, {"Energy_Of_Ground", 25}, {"Energy_Of_Wind", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_13", 35000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_15", 65000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_15", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 15})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_15", "Physical_Fruit_14", 40000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_15", "Physical_Fruit_16", 60000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_16", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_16", "Physical_Fruit_15", 45000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_16", "Physical_Fruit_17", 55000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_17", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_17", "Physical_Fruit_16", 50000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_17", "Physical_Fruit_18", 50000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_18", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_18", "Physical_Fruit_17", 55000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_18", "Physical_Fruit_19", 45000)
+;
+(((Table[118]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_19", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_19", "Physical_Fruit_18", 60000)
+;
+(((Table[118]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_19", "Physical_Fruit_20", 40000)
+;
+(((Table[118]).Slot)[1]):AddPerfectEnchant("Life_of_Spring_1", 0, {"Spring_Material_1", 25}, {"Spring_Material_2", 25}, {"Spring_Material_3", 25}, {"Energy_Of_Spring", 140})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_1", "Life_of_Spring_2", 0, {"Energy_Of_Spring", 4}, {"Energy_Of_Ground", 14}, {"Energy_Of_Wind", 14})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_2", "Life_of_Spring_3", 0, {"Energy_Of_Spring", 5}, {"Energy_Of_Ground", 16}, {"Energy_Of_Wind", 16})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_3", "Life_of_Spring_4", 0, {"Energy_Of_Spring", 7}, {"Energy_Of_Ground", 19}, {"Energy_Of_Wind", 19})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_4", "Life_of_Spring_5", 0, {"Energy_Of_Spring", 10}, {"Energy_Of_Ground", 23}, {"Energy_Of_Wind", 23}, {"Grace_Of_Spirit", 5})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_5", "Life_of_Spring_6", 0, {"Energy_Of_Spring", 14}, {"Energy_Of_Ground", 28}, {"Energy_Of_Wind", 28}, {"Grace_Of_Spirit", 7})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_6", "Life_of_Spring_7", 0, {"Energy_Of_Spring", 19}, {"Energy_Of_Ground", 34}, {"Energy_Of_Wind", 34}, {"Grace_Of_Spirit", 9})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_7", "Life_of_Spring_8", 0, {"Energy_Of_Spring", 25}, {"Energy_Of_Ground", 41}, {"Energy_Of_Wind", 41}, {"Grace_Of_Spirit", 11}, {"Spring_Material_1", 1}, {"Spring_Material_2", 1}, {"Spring_Material_3", 1})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_8", "Life_of_Spring_9", 0, {"Energy_Of_Spring", 32}, {"Energy_Of_Ground", 49}, {"Energy_Of_Wind", 49}, {"Grace_Of_Spirit", 13}, {"Spring_Material_1", 3}, {"Spring_Material_2", 3}, {"Spring_Material_3", 3})
+;
+(((Table[118]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Spring_9", "Life_of_Spring_10", 0, {"Energy_Of_Spring", 40}, {"Energy_Of_Ground", 58}, {"Energy_Of_Wind", 58}, {"Grace_Of_Spirit", 15}, {"Spring_Material_1", 5}, {"Spring_Material_2", 5}, {"Spring_Material_3", 5})
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_10", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_10", "Life_of_Spring_10", 25000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_10", "Life_of_Spring_11", 75000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_11", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_11", "Life_of_Spring_10", 30000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_11", "Life_of_Spring_12", 70000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_12", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_12", "Life_of_Spring_11", 35000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_12", "Life_of_Spring_13", 65000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_13", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10}, {"Spring_Material_1", 2}, {"Spring_Material_2", 2}, {"Spring_Material_3", 2})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_13", "Life_of_Spring_12", 40000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_13", "Life_of_Spring_14", 60000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_14", 0, {"Energy_Of_Spring", 30}, {"Energy_Of_Ground", 45}, {"Energy_Of_Wind", 45}, {"Grace_Of_Spirit", 10}, {"Spring_Material_1", 2}, {"Spring_Material_2", 2}, {"Spring_Material_3", 2})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_14", "Life_of_Spring_13", 45000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_14", "Life_of_Spring_15", 55000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_15", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 25})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_15", "Life_of_Spring_14", 50000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_15", "Life_of_Spring_16", 50000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_16", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_16", "Life_of_Spring_15", 55000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_16", "Life_of_Spring_17", 45000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_17", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_17", "Life_of_Spring_16", 60000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_17", "Life_of_Spring_18", 40000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_18", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10}, {"Light_Of_Life", 5})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_18", "Life_of_Spring_17", 65000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_18", "Life_of_Spring_19", 35000)
+;
+(((Table[118]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Spring_19", 0, {"Energy_Of_Spring", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10}, {"Light_Of_Life", 5})
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_19", "Life_of_Spring_18", 70000)
+;
+(((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_19", "Life_of_Spring_20", 30000)
+-- DECOMPILER ERROR at PC109967: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[119] = CreateEnchantInfo()
+;
+(Table[119]):SetSlotOrder(3, 2, 1)
+;
+(Table[119]):AddTargetItem_Duplicate("Season_Hood_Summer")
+;
+(Table[119]):SetCondition(0, 0)
+;
+(Table[119]):ApproveRandomOption(true)
+;
+(Table[119]):SetReset(false, 0, 0)
+;
+(Table[119]):SetCaution("신수의 망토: 여름 인챈트 부여\n인챈트 초기화 불가능")
+;
+(((Table[119]).Slot)[3]):AddPerfectEnchant("Physical_Seed_1", 0, {"Summer_Material_1", 10}, {"Summer_Material_2", 10}, {"Summer_Material_3", 10}, {"Energy_Of_Summer", 60})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_1", "Physical_Seed_2", 0, {"Energy_Of_Summer", 1}, {"Energy_Of_Water", 10}, {"Energy_Of_Flame", 10})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_2", "Physical_Seed_3", 0, {"Energy_Of_Summer", 2}, {"Energy_Of_Water", 12}, {"Energy_Of_Flame", 12})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_3", "Physical_Seed_4", 0, {"Energy_Of_Summer", 3}, {"Energy_Of_Water", 14}, {"Energy_Of_Flame", 14})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_4", "Physical_Seed_5", 0, {"Energy_Of_Summer", 4}, {"Energy_Of_Water", 16}, {"Energy_Of_Flame", 16})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_5", "Physical_Seed_6", 0, {"Energy_Of_Summer", 5}, {"Energy_Of_Water", 18}, {"Energy_Of_Flame", 18})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_6", "Physical_Seed_7", 0, {"Energy_Of_Summer", 6}, {"Energy_Of_Water", 20}, {"Energy_Of_Flame", 20})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_7", "Physical_Seed_8", 0, {"Energy_Of_Summer", 7}, {"Energy_Of_Water", 22}, {"Energy_Of_Flame", 22})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_8", "Physical_Seed_9", 0, {"Energy_Of_Summer", 8}, {"Energy_Of_Water", 24}, {"Energy_Of_Flame", 24})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_9", "Physical_Seed_10", 0, {"Energy_Of_Summer", 9}, {"Energy_Of_Water", 26}, {"Energy_Of_Flame", 26})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_10", "Physical_Leaf_1", 0, {"Energy_Of_Summer", 12}, {"Energy_Of_Water", 30}, {"Energy_Of_Flame", 30}, {"Summer_Material_1", 3}, {"Summer_Material_2", 3}, {"Summer_Material_3", 3})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_1", "Physical_Leaf_2", 0, {"Energy_Of_Summer", 14}, {"Energy_Of_Water", 35}, {"Energy_Of_Flame", 35}, {"Grace_Of_Spirit", 2})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_2", "Physical_Leaf_3", 0, {"Energy_Of_Summer", 16}, {"Energy_Of_Water", 40}, {"Energy_Of_Flame", 40}, {"Grace_Of_Spirit", 4})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_3", "Physical_Leaf_4", 0, {"Energy_Of_Summer", 18}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 6})
+;
+(((Table[119]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_4", "Physical_Leaf_5", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 50}, {"Energy_Of_Flame", 50}, {"Grace_Of_Spirit", 8})
+;
+(((Table[119]).Slot)[2]):AddPerfectEnchant("Physical_Fruit_1", 0, {"Summer_Material_1", 15}, {"Summer_Material_2", 15}, {"Summer_Material_3", 15}, {"Energy_Of_Summer", 90})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_1", "Physical_Fruit_2", 0, {"Energy_Of_Summer", 2}, {"Energy_Of_Water", 12}, {"Energy_Of_Flame", 12})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_2", "Physical_Fruit_3", 0, {"Energy_Of_Summer", 3}, {"Energy_Of_Water", 13}, {"Energy_Of_Flame", 13})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_3", "Physical_Fruit_4", 0, {"Energy_Of_Summer", 5}, {"Energy_Of_Water", 15}, {"Energy_Of_Flame", 15})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_4", "Physical_Fruit_5", 0, {"Energy_Of_Summer", 8}, {"Energy_Of_Water", 18}, {"Energy_Of_Flame", 18})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_5", "Physical_Fruit_6", 0, {"Energy_Of_Summer", 12}, {"Energy_Of_Water", 22}, {"Energy_Of_Flame", 22}, {"Grace_Of_Spirit", 2})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_6", "Physical_Fruit_7", 0, {"Energy_Of_Summer", 17}, {"Energy_Of_Water", 27}, {"Energy_Of_Flame", 27}, {"Grace_Of_Spirit", 4})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_7", "Physical_Fruit_8", 0, {"Energy_Of_Summer", 23}, {"Energy_Of_Water", 33}, {"Energy_Of_Flame", 33}, {"Grace_Of_Spirit", 6})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_8", "Physical_Fruit_9", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 40}, {"Energy_Of_Flame", 40}, {"Grace_Of_Spirit", 8})
+;
+(((Table[119]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_9", "Physical_Fruit_10", 0, {"Energy_Of_Summer", 38}, {"Energy_Of_Water", 48}, {"Energy_Of_Flame", 48}, {"Grace_Of_Spirit", 10})
+;
+(((Table[119]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_10", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_10", 15000)
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_11", 85000)
+;
+(((Table[119]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_11", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_10", 20000)
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_12", 80000)
+;
+(((Table[119]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_12", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_11", 25000)
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_13", 75000)
+;
+(((Table[119]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_13", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_12", 30000)
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_14", 70000)
+;
+(((Table[119]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_14", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_13", 35000)
+;
+(((Table[119]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_15", 65000)
+;
+(((Table[119]).Slot)[1]):AddPerfectEnchant("Life_of_Summer_1", 0, {"Summer_Material_1", 25}, {"Summer_Material_2", 25}, {"Summer_Material_3", 25}, {"Energy_Of_Summer", 140})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_1", "Life_of_Summer_2", 0, {"Energy_Of_Summer", 4}, {"Energy_Of_Water", 14}, {"Energy_Of_Flame", 14})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_2", "Life_of_Summer_3", 0, {"Energy_Of_Summer", 5}, {"Energy_Of_Water", 16}, {"Energy_Of_Flame", 16})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_3", "Life_of_Summer_4", 0, {"Energy_Of_Summer", 7}, {"Energy_Of_Water", 19}, {"Energy_Of_Flame", 19})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_4", "Life_of_Summer_5", 0, {"Energy_Of_Summer", 10}, {"Energy_Of_Water", 23}, {"Energy_Of_Flame", 23}, {"Grace_Of_Spirit", 5})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_5", "Life_of_Summer_6", 0, {"Energy_Of_Summer", 14}, {"Energy_Of_Water", 28}, {"Energy_Of_Flame", 28}, {"Grace_Of_Spirit", 7})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_6", "Life_of_Summer_7", 0, {"Energy_Of_Summer", 19}, {"Energy_Of_Water", 34}, {"Energy_Of_Flame", 34}, {"Grace_Of_Spirit", 9})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_7", "Life_of_Summer_8", 0, {"Energy_Of_Summer", 25}, {"Energy_Of_Water", 41}, {"Energy_Of_Flame", 41}, {"Grace_Of_Spirit", 11}, {"Summer_Material_1", 1}, {"Summer_Material_2", 1}, {"Summer_Material_3", 1})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_8", "Life_of_Summer_9", 0, {"Energy_Of_Summer", 32}, {"Energy_Of_Water", 49}, {"Energy_Of_Flame", 49}, {"Grace_Of_Spirit", 13}, {"Summer_Material_1", 3}, {"Summer_Material_2", 3}, {"Summer_Material_3", 3})
+;
+(((Table[119]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_9", "Life_of_Summer_10", 0, {"Energy_Of_Summer", 40}, {"Energy_Of_Water", 58}, {"Energy_Of_Flame", 58}, {"Grace_Of_Spirit", 15}, {"Summer_Material_1", 5}, {"Summer_Material_2", 5}, {"Summer_Material_3", 5})
+;
+(((Table[119]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_10", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_10", "Life_of_Summer_10", 25000)
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_10", "Life_of_Summer_11", 75000)
+;
+(((Table[119]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_11", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_11", "Life_of_Summer_10", 30000)
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_11", "Life_of_Summer_12", 70000)
+;
+(((Table[119]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_12", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_12", "Life_of_Summer_11", 35000)
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_12", "Life_of_Summer_13", 65000)
+;
+(((Table[119]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_13", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10}, {"Summer_Material_1", 2}, {"Summer_Material_2", 2}, {"Summer_Material_3", 2})
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_13", "Life_of_Summer_12", 40000)
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_13", "Life_of_Summer_14", 60000)
+;
+(((Table[119]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_14", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10}, {"Summer_Material_1", 2}, {"Summer_Material_2", 2}, {"Summer_Material_3", 2})
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_14", "Life_of_Summer_13", 45000)
+;
+(((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_14", "Life_of_Summer_15", 55000)
+-- DECOMPILER ERROR at PC111502: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[120] = CreateEnchantInfo()
+;
+(Table[120]):SetSlotOrder(3, 2, 1)
+;
+(Table[120]):AddTargetItem_Duplicate("Circul_Of_Life_Summer")
+;
+(Table[120]):SetCondition(0, 0)
+;
+(Table[120]):ApproveRandomOption(true)
+;
+(Table[120]):SetReset(false, 0, 0)
+;
+(Table[120]):SetCaution("생명의 순환: 여름 인챈트 부여\n인챈트 초기화 불가능")
+;
+(((Table[120]).Slot)[3]):AddPerfectEnchant("Physical_Seed_1", 0, {"Summer_Material_1", 10}, {"Summer_Material_2", 10}, {"Summer_Material_3", 10}, {"Energy_Of_Summer", 60})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_1", "Physical_Seed_2", 0, {"Energy_Of_Summer", 1}, {"Energy_Of_Water", 10}, {"Energy_Of_Flame", 10})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_2", "Physical_Seed_3", 0, {"Energy_Of_Summer", 2}, {"Energy_Of_Water", 12}, {"Energy_Of_Flame", 12})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_3", "Physical_Seed_4", 0, {"Energy_Of_Summer", 3}, {"Energy_Of_Water", 14}, {"Energy_Of_Flame", 14})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_4", "Physical_Seed_5", 0, {"Energy_Of_Summer", 4}, {"Energy_Of_Water", 16}, {"Energy_Of_Flame", 16})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_5", "Physical_Seed_6", 0, {"Energy_Of_Summer", 5}, {"Energy_Of_Water", 18}, {"Energy_Of_Flame", 18})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_6", "Physical_Seed_7", 0, {"Energy_Of_Summer", 6}, {"Energy_Of_Water", 20}, {"Energy_Of_Flame", 20})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_7", "Physical_Seed_8", 0, {"Energy_Of_Summer", 7}, {"Energy_Of_Water", 22}, {"Energy_Of_Flame", 22})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_8", "Physical_Seed_9", 0, {"Energy_Of_Summer", 8}, {"Energy_Of_Water", 24}, {"Energy_Of_Flame", 24})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_9", "Physical_Seed_10", 0, {"Energy_Of_Summer", 9}, {"Energy_Of_Water", 26}, {"Energy_Of_Flame", 26})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_10", "Physical_Leaf_1", 0, {"Energy_Of_Summer", 12}, {"Energy_Of_Water", 30}, {"Energy_Of_Flame", 30}, {"Summer_Material_1", 3}, {"Summer_Material_2", 3}, {"Summer_Material_3", 3})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_1", "Physical_Leaf_2", 0, {"Energy_Of_Summer", 14}, {"Energy_Of_Water", 35}, {"Energy_Of_Flame", 35}, {"Grace_Of_Spirit", 2})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_2", "Physical_Leaf_3", 0, {"Energy_Of_Summer", 16}, {"Energy_Of_Water", 40}, {"Energy_Of_Flame", 40}, {"Grace_Of_Spirit", 4})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_3", "Physical_Leaf_4", 0, {"Energy_Of_Summer", 18}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 6})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_4", "Physical_Leaf_5", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 50}, {"Energy_Of_Flame", 50}, {"Grace_Of_Spirit", 8})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_5", "Physical_Flower_1", 0, {"Energy_Of_Summer", 25}, {"Summer_Material_1", 3}, {"Summer_Material_2", 3}, {"Summer_Material_3", 3}, {"Circul_Of_Life", 10})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_1", "Physical_Flower_2", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 12})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_2", "Physical_Flower_3", 0, {"Energy_Of_Summer", 35}, {"Circul_Of_Life", 14}, {"Fruit_Of_Birth", 3}, {"Fruit_Of_Extinction", 3})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_3", "Physical_Flower_4", 0, {"Energy_Of_Summer", 40}, {"Circul_Of_Life", 16}, {"Fruit_Of_Birth", 6}, {"Fruit_Of_Extinction", 6}, {"Truth_Of_Life", 3})
+;
+(((Table[120]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_4", "Physical_Flower_5", 0, {"Energy_Of_Summer", 45}, {"Circul_Of_Life", 18}, {"Fruit_Of_Birth", 9}, {"Fruit_Of_Extinction", 9}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[120]).Slot)[2]):AddPerfectEnchant("Physical_Fruit_1", 0, {"Summer_Material_1", 15}, {"Summer_Material_2", 15}, {"Summer_Material_3", 15}, {"Energy_Of_Summer", 90})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_1", "Physical_Fruit_2", 0, {"Energy_Of_Summer", 2}, {"Energy_Of_Water", 12}, {"Energy_Of_Flame", 12})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_2", "Physical_Fruit_3", 0, {"Energy_Of_Summer", 3}, {"Energy_Of_Water", 13}, {"Energy_Of_Flame", 13})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_3", "Physical_Fruit_4", 0, {"Energy_Of_Summer", 5}, {"Energy_Of_Water", 15}, {"Energy_Of_Flame", 15})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_4", "Physical_Fruit_5", 0, {"Energy_Of_Summer", 8}, {"Energy_Of_Water", 18}, {"Energy_Of_Flame", 18})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_5", "Physical_Fruit_6", 0, {"Energy_Of_Summer", 12}, {"Energy_Of_Water", 22}, {"Energy_Of_Flame", 22}, {"Grace_Of_Spirit", 2})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_6", "Physical_Fruit_7", 0, {"Energy_Of_Summer", 17}, {"Energy_Of_Water", 27}, {"Energy_Of_Flame", 27}, {"Grace_Of_Spirit", 4})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_7", "Physical_Fruit_8", 0, {"Energy_Of_Summer", 23}, {"Energy_Of_Water", 33}, {"Energy_Of_Flame", 33}, {"Grace_Of_Spirit", 6})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_8", "Physical_Fruit_9", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 40}, {"Energy_Of_Flame", 40}, {"Grace_Of_Spirit", 8})
+;
+(((Table[120]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_9", "Physical_Fruit_10", 0, {"Energy_Of_Summer", 38}, {"Energy_Of_Water", 48}, {"Energy_Of_Flame", 48}, {"Grace_Of_Spirit", 10})
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_10", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_10", 15000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_11", 85000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_11", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_10", 20000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_12", 80000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_12", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_11", 25000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_13", 75000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_13", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_12", 30000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_14", 70000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_14", 0, {"Energy_Of_Summer", 20}, {"Energy_Of_Water", 25}, {"Energy_Of_Flame", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_13", 35000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_15", 65000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_15", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 15})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_15", "Physical_Fruit_14", 40000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_15", "Physical_Fruit_16", 60000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_16", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_16", "Physical_Fruit_15", 45000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_16", "Physical_Fruit_17", 55000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_17", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_17", "Physical_Fruit_16", 50000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_17", "Physical_Fruit_18", 50000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_18", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_18", "Physical_Fruit_17", 55000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_18", "Physical_Fruit_19", 45000)
+;
+(((Table[120]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_19", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_19", "Physical_Fruit_18", 60000)
+;
+(((Table[120]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_19", "Physical_Fruit_20", 40000)
+;
+(((Table[120]).Slot)[1]):AddPerfectEnchant("Life_of_Summer_1", 0, {"Summer_Material_1", 25}, {"Summer_Material_2", 25}, {"Summer_Material_3", 25}, {"Energy_Of_Summer", 140})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_1", "Life_of_Summer_2", 0, {"Energy_Of_Summer", 4}, {"Energy_Of_Water", 14}, {"Energy_Of_Flame", 14})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_2", "Life_of_Summer_3", 0, {"Energy_Of_Summer", 5}, {"Energy_Of_Water", 16}, {"Energy_Of_Flame", 16})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_3", "Life_of_Summer_4", 0, {"Energy_Of_Summer", 7}, {"Energy_Of_Water", 19}, {"Energy_Of_Flame", 19})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_4", "Life_of_Summer_5", 0, {"Energy_Of_Summer", 10}, {"Energy_Of_Water", 23}, {"Energy_Of_Flame", 23}, {"Grace_Of_Spirit", 5})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_5", "Life_of_Summer_6", 0, {"Energy_Of_Summer", 14}, {"Energy_Of_Water", 28}, {"Energy_Of_Flame", 28}, {"Grace_Of_Spirit", 7})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_6", "Life_of_Summer_7", 0, {"Energy_Of_Summer", 19}, {"Energy_Of_Water", 34}, {"Energy_Of_Flame", 34}, {"Grace_Of_Spirit", 9})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_7", "Life_of_Summer_8", 0, {"Energy_Of_Summer", 25}, {"Energy_Of_Water", 41}, {"Energy_Of_Flame", 41}, {"Grace_Of_Spirit", 11}, {"Summer_Material_1", 1}, {"Summer_Material_2", 1}, {"Summer_Material_3", 1})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_8", "Life_of_Summer_9", 0, {"Energy_Of_Summer", 32}, {"Energy_Of_Water", 49}, {"Energy_Of_Flame", 49}, {"Grace_Of_Spirit", 13}, {"Summer_Material_1", 3}, {"Summer_Material_2", 3}, {"Summer_Material_3", 3})
+;
+(((Table[120]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Summer_9", "Life_of_Summer_10", 0, {"Energy_Of_Summer", 40}, {"Energy_Of_Water", 58}, {"Energy_Of_Flame", 58}, {"Grace_Of_Spirit", 15}, {"Summer_Material_1", 5}, {"Summer_Material_2", 5}, {"Summer_Material_3", 5})
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_10", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_10", "Life_of_Summer_10", 25000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_10", "Life_of_Summer_11", 75000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_11", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_11", "Life_of_Summer_10", 30000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_11", "Life_of_Summer_12", 70000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_12", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_12", "Life_of_Summer_11", 35000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_12", "Life_of_Summer_13", 65000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_13", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10}, {"Summer_Material_1", 2}, {"Summer_Material_2", 2}, {"Summer_Material_3", 2})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_13", "Life_of_Summer_12", 40000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_13", "Life_of_Summer_14", 60000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_14", 0, {"Energy_Of_Summer", 30}, {"Energy_Of_Water", 45}, {"Energy_Of_Flame", 45}, {"Grace_Of_Spirit", 10}, {"Summer_Material_1", 2}, {"Summer_Material_2", 2}, {"Summer_Material_3", 2})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_14", "Life_of_Summer_13", 45000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_14", "Life_of_Summer_15", 55000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_15", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 25})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_15", "Life_of_Summer_14", 50000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_15", "Life_of_Summer_16", 50000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_16", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_16", "Life_of_Summer_15", 55000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_16", "Life_of_Summer_17", 45000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_17", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_17", "Life_of_Summer_16", 60000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_17", "Life_of_Summer_18", 40000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_18", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10}, {"Light_Of_Life", 5})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_18", "Life_of_Summer_17", 65000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_18", "Life_of_Summer_19", 35000)
+;
+(((Table[120]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Summer_19", 0, {"Energy_Of_Summer", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10}, {"Light_Of_Life", 5})
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_19", "Life_of_Summer_18", 70000)
+;
+(((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_19", "Life_of_Summer_20", 30000)
+-- DECOMPILER ERROR at PC113719: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[121] = CreateEnchantInfo()
+;
+(Table[121]):SetSlotOrder(3, 2, 1)
+;
+(Table[121]):AddTargetItem_Duplicate("Season_Hood_Autumn")
+;
+(Table[121]):SetCondition(0, 0)
+;
+(Table[121]):ApproveRandomOption(true)
+;
+(Table[121]):SetReset(false, 0, 0)
+;
+(Table[121]):SetCaution("신수의 망토: 가을 인챈트 부여\n인챈트 초기화 불가능")
+;
+(((Table[121]).Slot)[3]):AddPerfectEnchant("Magical_Seed_1", 0, {"Autumn_Material_1", 10}, {"Autumn_Material_2", 10}, {"Autumn_Material_3", 10}, {"Energy_Of_Autumn", 60})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_1", "Magical_Seed_2", 0, {"Energy_Of_Autumn", 1}, {"Energy_Of_Flame", 10}, {"Energy_Of_Ground", 10})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_2", "Magical_Seed_3", 0, {"Energy_Of_Autumn", 2}, {"Energy_Of_Flame", 12}, {"Energy_Of_Ground", 12})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_3", "Magical_Seed_4", 0, {"Energy_Of_Autumn", 3}, {"Energy_Of_Flame", 14}, {"Energy_Of_Ground", 14})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_4", "Magical_Seed_5", 0, {"Energy_Of_Autumn", 4}, {"Energy_Of_Flame", 16}, {"Energy_Of_Ground", 16})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_5", "Magical_Seed_6", 0, {"Energy_Of_Autumn", 5}, {"Energy_Of_Flame", 18}, {"Energy_Of_Ground", 18})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_6", "Magical_Seed_7", 0, {"Energy_Of_Autumn", 6}, {"Energy_Of_Flame", 20}, {"Energy_Of_Ground", 20})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_7", "Magical_Seed_8", 0, {"Energy_Of_Autumn", 7}, {"Energy_Of_Flame", 22}, {"Energy_Of_Ground", 22})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_8", "Magical_Seed_9", 0, {"Energy_Of_Autumn", 8}, {"Energy_Of_Flame", 24}, {"Energy_Of_Ground", 24})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_9", "Magical_Seed_10", 0, {"Energy_Of_Autumn", 9}, {"Energy_Of_Flame", 26}, {"Energy_Of_Ground", 26})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_10", "Magical_Leaf_1", 0, {"Energy_Of_Autumn", 12}, {"Energy_Of_Flame", 30}, {"Energy_Of_Ground", 30}, {"Autumn_Material_1", 3}, {"Autumn_Material_2", 3}, {"Autumn_Material_3", 3})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_1", "Magical_Leaf_2", 0, {"Energy_Of_Autumn", 14}, {"Energy_Of_Flame", 35}, {"Energy_Of_Ground", 35}, {"Grace_Of_Spirit", 2})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_2", "Magical_Leaf_3", 0, {"Energy_Of_Autumn", 16}, {"Energy_Of_Flame", 40}, {"Energy_Of_Ground", 40}, {"Grace_Of_Spirit", 4})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_3", "Magical_Leaf_4", 0, {"Energy_Of_Autumn", 18}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 6})
+;
+(((Table[121]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_4", "Magical_Leaf_5", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 50}, {"Energy_Of_Ground", 50}, {"Grace_Of_Spirit", 8})
+;
+(((Table[121]).Slot)[2]):AddPerfectEnchant("Magical_Fruit_1", 0, {"Autumn_Material_1", 15}, {"Autumn_Material_2", 15}, {"Autumn_Material_3", 15}, {"Energy_Of_Autumn", 90})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_1", "Magical_Fruit_2", 0, {"Energy_Of_Autumn", 2}, {"Energy_Of_Flame", 12}, {"Energy_Of_Ground", 12})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_2", "Magical_Fruit_3", 0, {"Energy_Of_Autumn", 3}, {"Energy_Of_Flame", 13}, {"Energy_Of_Ground", 13})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_3", "Magical_Fruit_4", 0, {"Energy_Of_Autumn", 5}, {"Energy_Of_Flame", 15}, {"Energy_Of_Ground", 15})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_4", "Magical_Fruit_5", 0, {"Energy_Of_Autumn", 8}, {"Energy_Of_Flame", 18}, {"Energy_Of_Ground", 18})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_5", "Magical_Fruit_6", 0, {"Energy_Of_Autumn", 12}, {"Energy_Of_Flame", 22}, {"Energy_Of_Ground", 22}, {"Grace_Of_Spirit", 2})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_6", "Magical_Fruit_7", 0, {"Energy_Of_Autumn", 17}, {"Energy_Of_Flame", 27}, {"Energy_Of_Ground", 27}, {"Grace_Of_Spirit", 4})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_7", "Magical_Fruit_8", 0, {"Energy_Of_Autumn", 23}, {"Energy_Of_Flame", 33}, {"Energy_Of_Ground", 33}, {"Grace_Of_Spirit", 6})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_8", "Magical_Fruit_9", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 40}, {"Energy_Of_Ground", 40}, {"Grace_Of_Spirit", 8})
+;
+(((Table[121]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_9", "Magical_Fruit_10", 0, {"Energy_Of_Autumn", 38}, {"Energy_Of_Flame", 48}, {"Energy_Of_Ground", 48}, {"Grace_Of_Spirit", 10})
+;
+(((Table[121]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_10", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_10", "Magical_Fruit_10", 15000)
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_10", "Magical_Fruit_11", 85000)
+;
+(((Table[121]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_11", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_11", "Magical_Fruit_10", 20000)
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_11", "Magical_Fruit_12", 80000)
+;
+(((Table[121]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_12", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_12", "Magical_Fruit_11", 25000)
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_12", "Magical_Fruit_13", 75000)
+;
+(((Table[121]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_13", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_13", "Magical_Fruit_12", 30000)
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_13", "Magical_Fruit_14", 70000)
+;
+(((Table[121]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_14", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_14", "Magical_Fruit_13", 35000)
+;
+(((Table[121]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_14", "Magical_Fruit_15", 65000)
+;
+(((Table[121]).Slot)[1]):AddPerfectEnchant("Life_of_Autumn_1", 0, {"Autumn_Material_1", 25}, {"Autumn_Material_2", 25}, {"Autumn_Material_3", 25}, {"Energy_Of_Autumn", 140})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_1", "Life_of_Autumn_2", 0, {"Energy_Of_Autumn", 4}, {"Energy_Of_Flame", 14}, {"Energy_Of_Ground", 14})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_2", "Life_of_Autumn_3", 0, {"Energy_Of_Autumn", 5}, {"Energy_Of_Flame", 16}, {"Energy_Of_Ground", 16})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_3", "Life_of_Autumn_4", 0, {"Energy_Of_Autumn", 7}, {"Energy_Of_Flame", 19}, {"Energy_Of_Ground", 19})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_4", "Life_of_Autumn_5", 0, {"Energy_Of_Autumn", 10}, {"Energy_Of_Flame", 23}, {"Energy_Of_Ground", 23}, {"Grace_Of_Spirit", 5})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_5", "Life_of_Autumn_6", 0, {"Energy_Of_Autumn", 14}, {"Energy_Of_Flame", 28}, {"Energy_Of_Ground", 28}, {"Grace_Of_Spirit", 7})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_6", "Life_of_Autumn_7", 0, {"Energy_Of_Autumn", 19}, {"Energy_Of_Flame", 34}, {"Energy_Of_Ground", 34}, {"Grace_Of_Spirit", 9})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_7", "Life_of_Autumn_8", 0, {"Energy_Of_Autumn", 25}, {"Energy_Of_Flame", 41}, {"Energy_Of_Ground", 41}, {"Grace_Of_Spirit", 11}, {"Autumn_Material_1", 1}, {"Autumn_Material_2", 1}, {"Autumn_Material_3", 1})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_8", "Life_of_Autumn_9", 0, {"Energy_Of_Autumn", 32}, {"Energy_Of_Flame", 49}, {"Energy_Of_Ground", 49}, {"Grace_Of_Spirit", 13}, {"Autumn_Material_1", 3}, {"Autumn_Material_2", 3}, {"Autumn_Material_3", 3})
+;
+(((Table[121]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_9", "Life_of_Autumn_10", 0, {"Energy_Of_Autumn", 40}, {"Energy_Of_Flame", 58}, {"Energy_Of_Ground", 58}, {"Grace_Of_Spirit", 15}, {"Autumn_Material_1", 5}, {"Autumn_Material_2", 5}, {"Autumn_Material_3", 5})
+;
+(((Table[121]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_10", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_10", "Life_of_Autumn_10", 25000)
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_10", "Life_of_Autumn_11", 75000)
+;
+(((Table[121]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_11", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_11", "Life_of_Autumn_10", 30000)
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_11", "Life_of_Autumn_12", 70000)
+;
+(((Table[121]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_12", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_12", "Life_of_Autumn_11", 35000)
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_12", "Life_of_Autumn_13", 65000)
+;
+(((Table[121]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_13", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10}, {"Autumn_Material_1", 2}, {"Autumn_Material_2", 2}, {"Autumn_Material_3", 2})
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_13", "Life_of_Autumn_12", 40000)
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_13", "Life_of_Autumn_14", 60000)
+;
+(((Table[121]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_14", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10}, {"Autumn_Material_1", 2}, {"Autumn_Material_2", 2}, {"Autumn_Material_3", 2})
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_14", "Life_of_Autumn_13", 45000)
+;
+(((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_14", "Life_of_Autumn_15", 55000)
+-- DECOMPILER ERROR at PC115254: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[122] = CreateEnchantInfo()
+;
+(Table[122]):SetSlotOrder(3, 2, 1)
+;
+(Table[122]):AddTargetItem_Duplicate("Circul_Of_Life_Autumn")
+;
+(Table[122]):SetCondition(0, 0)
+;
+(Table[122]):ApproveRandomOption(true)
+;
+(Table[122]):SetReset(false, 0, 0)
+;
+(Table[122]):SetCaution("생명의 순환: 가을 인챈트 부여\n인챈트 초기화 불가능")
+;
+(((Table[122]).Slot)[3]):AddPerfectEnchant("Magical_Seed_1", 0, {"Autumn_Material_1", 10}, {"Autumn_Material_2", 10}, {"Autumn_Material_3", 10}, {"Energy_Of_Autumn", 60})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_1", "Magical_Seed_2", 0, {"Energy_Of_Autumn", 1}, {"Energy_Of_Flame", 10}, {"Energy_Of_Ground", 10})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_2", "Magical_Seed_3", 0, {"Energy_Of_Autumn", 2}, {"Energy_Of_Flame", 12}, {"Energy_Of_Ground", 12})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_3", "Magical_Seed_4", 0, {"Energy_Of_Autumn", 3}, {"Energy_Of_Flame", 14}, {"Energy_Of_Ground", 14})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_4", "Magical_Seed_5", 0, {"Energy_Of_Autumn", 4}, {"Energy_Of_Flame", 16}, {"Energy_Of_Ground", 16})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_5", "Magical_Seed_6", 0, {"Energy_Of_Autumn", 5}, {"Energy_Of_Flame", 18}, {"Energy_Of_Ground", 18})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_6", "Magical_Seed_7", 0, {"Energy_Of_Autumn", 6}, {"Energy_Of_Flame", 20}, {"Energy_Of_Ground", 20})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_7", "Magical_Seed_8", 0, {"Energy_Of_Autumn", 7}, {"Energy_Of_Flame", 22}, {"Energy_Of_Ground", 22})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_8", "Magical_Seed_9", 0, {"Energy_Of_Autumn", 8}, {"Energy_Of_Flame", 24}, {"Energy_Of_Ground", 24})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_9", "Magical_Seed_10", 0, {"Energy_Of_Autumn", 9}, {"Energy_Of_Flame", 26}, {"Energy_Of_Ground", 26})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Seed_10", "Magical_Leaf_1", 0, {"Energy_Of_Autumn", 12}, {"Energy_Of_Flame", 30}, {"Energy_Of_Ground", 30}, {"Autumn_Material_1", 3}, {"Autumn_Material_2", 3}, {"Autumn_Material_3", 3})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_1", "Magical_Leaf_2", 0, {"Energy_Of_Autumn", 14}, {"Energy_Of_Flame", 35}, {"Energy_Of_Ground", 35}, {"Grace_Of_Spirit", 2})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_2", "Magical_Leaf_3", 0, {"Energy_Of_Autumn", 16}, {"Energy_Of_Flame", 40}, {"Energy_Of_Ground", 40}, {"Grace_Of_Spirit", 4})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_3", "Magical_Leaf_4", 0, {"Energy_Of_Autumn", 18}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 6})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_4", "Magical_Leaf_5", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 50}, {"Energy_Of_Ground", 50}, {"Grace_Of_Spirit", 8})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Leaf_5", "Magical_Flower_1", 0, {"Energy_Of_Autumn", 25}, {"Autumn_Material_1", 3}, {"Autumn_Material_2", 3}, {"Autumn_Material_3", 3}, {"Circul_Of_Life", 10})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Flower_1", "Magical_Flower_2", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 12})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Flower_2", "Magical_Flower_3", 0, {"Energy_Of_Autumn", 35}, {"Circul_Of_Life", 14}, {"Fruit_Of_Birth", 3}, {"Fruit_Of_Extinction", 3})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Flower_3", "Magical_Flower_4", 0, {"Energy_Of_Autumn", 40}, {"Circul_Of_Life", 16}, {"Fruit_Of_Birth", 6}, {"Fruit_Of_Extinction", 6}, {"Truth_Of_Life", 3})
+;
+(((Table[122]).Slot)[3]):AddPerfectUpgradeEnchant("Magical_Flower_4", "Magical_Flower_5", 0, {"Energy_Of_Autumn", 45}, {"Circul_Of_Life", 18}, {"Fruit_Of_Birth", 9}, {"Fruit_Of_Extinction", 9}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[122]).Slot)[2]):AddPerfectEnchant("Magical_Fruit_1", 0, {"Autumn_Material_1", 15}, {"Autumn_Material_2", 15}, {"Autumn_Material_3", 15}, {"Energy_Of_Autumn", 90})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_1", "Magical_Fruit_2", 0, {"Energy_Of_Autumn", 2}, {"Energy_Of_Flame", 12}, {"Energy_Of_Ground", 12})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_2", "Magical_Fruit_3", 0, {"Energy_Of_Autumn", 3}, {"Energy_Of_Flame", 13}, {"Energy_Of_Ground", 13})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_3", "Magical_Fruit_4", 0, {"Energy_Of_Autumn", 5}, {"Energy_Of_Flame", 15}, {"Energy_Of_Ground", 15})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_4", "Magical_Fruit_5", 0, {"Energy_Of_Autumn", 8}, {"Energy_Of_Flame", 18}, {"Energy_Of_Ground", 18})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_5", "Magical_Fruit_6", 0, {"Energy_Of_Autumn", 12}, {"Energy_Of_Flame", 22}, {"Energy_Of_Ground", 22}, {"Grace_Of_Spirit", 2})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_6", "Magical_Fruit_7", 0, {"Energy_Of_Autumn", 17}, {"Energy_Of_Flame", 27}, {"Energy_Of_Ground", 27}, {"Grace_Of_Spirit", 4})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_7", "Magical_Fruit_8", 0, {"Energy_Of_Autumn", 23}, {"Energy_Of_Flame", 33}, {"Energy_Of_Ground", 33}, {"Grace_Of_Spirit", 6})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_8", "Magical_Fruit_9", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 40}, {"Energy_Of_Ground", 40}, {"Grace_Of_Spirit", 8})
+;
+(((Table[122]).Slot)[2]):AddPerfectUpgradeEnchant("Magical_Fruit_9", "Magical_Fruit_10", 0, {"Energy_Of_Autumn", 38}, {"Energy_Of_Flame", 48}, {"Energy_Of_Ground", 48}, {"Grace_Of_Spirit", 10})
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_10", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_10", "Magical_Fruit_10", 15000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_10", "Magical_Fruit_11", 85000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_11", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_11", "Magical_Fruit_10", 20000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_11", "Magical_Fruit_12", 80000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_12", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_12", "Magical_Fruit_11", 25000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_12", "Magical_Fruit_13", 75000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_13", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_13", "Magical_Fruit_12", 30000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_13", "Magical_Fruit_14", 70000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_14", 0, {"Energy_Of_Autumn", 20}, {"Energy_Of_Flame", 25}, {"Energy_Of_Ground", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_14", "Magical_Fruit_13", 35000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_14", "Magical_Fruit_15", 65000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_15", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 15})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_15", "Magical_Fruit_14", 40000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_15", "Magical_Fruit_16", 60000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_16", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_16", "Magical_Fruit_15", 45000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_16", "Magical_Fruit_17", 55000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_17", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_17", "Magical_Fruit_16", 50000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_17", "Magical_Fruit_18", 50000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_18", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_18", "Magical_Fruit_17", 55000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_18", "Magical_Fruit_19", 45000)
+;
+(((Table[122]).Slot)[2]):SetRandomUpgradeRequire("Magical_Fruit_19", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_19", "Magical_Fruit_18", 60000)
+;
+(((Table[122]).Slot)[2]):AddRandomUpgradeEnchant("Magical_Fruit_19", "Magical_Fruit_20", 40000)
+;
+(((Table[122]).Slot)[1]):AddPerfectEnchant("Life_of_Autumn_1", 0, {"Autumn_Material_1", 25}, {"Autumn_Material_2", 25}, {"Autumn_Material_3", 25}, {"Energy_Of_Autumn", 140})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_1", "Life_of_Autumn_2", 0, {"Energy_Of_Autumn", 4}, {"Energy_Of_Flame", 14}, {"Energy_Of_Ground", 14})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_2", "Life_of_Autumn_3", 0, {"Energy_Of_Autumn", 5}, {"Energy_Of_Flame", 16}, {"Energy_Of_Ground", 16})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_3", "Life_of_Autumn_4", 0, {"Energy_Of_Autumn", 7}, {"Energy_Of_Flame", 19}, {"Energy_Of_Ground", 19})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_4", "Life_of_Autumn_5", 0, {"Energy_Of_Autumn", 10}, {"Energy_Of_Flame", 23}, {"Energy_Of_Ground", 23}, {"Grace_Of_Spirit", 5})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_5", "Life_of_Autumn_6", 0, {"Energy_Of_Autumn", 14}, {"Energy_Of_Flame", 28}, {"Energy_Of_Ground", 28}, {"Grace_Of_Spirit", 7})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_6", "Life_of_Autumn_7", 0, {"Energy_Of_Autumn", 19}, {"Energy_Of_Flame", 34}, {"Energy_Of_Ground", 34}, {"Grace_Of_Spirit", 9})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_7", "Life_of_Autumn_8", 0, {"Energy_Of_Autumn", 25}, {"Energy_Of_Flame", 41}, {"Energy_Of_Ground", 41}, {"Grace_Of_Spirit", 11}, {"Autumn_Material_1", 1}, {"Autumn_Material_2", 1}, {"Autumn_Material_3", 1})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_8", "Life_of_Autumn_9", 0, {"Energy_Of_Autumn", 32}, {"Energy_Of_Flame", 49}, {"Energy_Of_Ground", 49}, {"Grace_Of_Spirit", 13}, {"Autumn_Material_1", 3}, {"Autumn_Material_2", 3}, {"Autumn_Material_3", 3})
+;
+(((Table[122]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Autumn_9", "Life_of_Autumn_10", 0, {"Energy_Of_Autumn", 40}, {"Energy_Of_Flame", 58}, {"Energy_Of_Ground", 58}, {"Grace_Of_Spirit", 15}, {"Autumn_Material_1", 5}, {"Autumn_Material_2", 5}, {"Autumn_Material_3", 5})
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_10", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_10", "Life_of_Autumn_10", 25000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_10", "Life_of_Autumn_11", 75000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_11", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_11", "Life_of_Autumn_10", 30000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_11", "Life_of_Autumn_12", 70000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_12", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_12", "Life_of_Autumn_11", 35000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_12", "Life_of_Autumn_13", 65000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_13", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10}, {"Autumn_Material_1", 2}, {"Autumn_Material_2", 2}, {"Autumn_Material_3", 2})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_13", "Life_of_Autumn_12", 40000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_13", "Life_of_Autumn_14", 60000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_14", 0, {"Energy_Of_Autumn", 30}, {"Energy_Of_Flame", 45}, {"Energy_Of_Ground", 45}, {"Grace_Of_Spirit", 10}, {"Autumn_Material_1", 2}, {"Autumn_Material_2", 2}, {"Autumn_Material_3", 2})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_14", "Life_of_Autumn_13", 45000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_14", "Life_of_Autumn_15", 55000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_15", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 25})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_15", "Life_of_Autumn_14", 50000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_15", "Life_of_Autumn_16", 50000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_16", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_16", "Life_of_Autumn_15", 55000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_16", "Life_of_Autumn_17", 45000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_17", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_17", "Life_of_Autumn_16", 60000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_17", "Life_of_Autumn_18", 40000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_18", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10}, {"Light_Of_Life", 5})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_18", "Life_of_Autumn_17", 65000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_18", "Life_of_Autumn_19", 35000)
+;
+(((Table[122]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Autumn_19", 0, {"Energy_Of_Autumn", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10}, {"Light_Of_Life", 5})
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_19", "Life_of_Autumn_18", 70000)
+;
+(((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_19", "Life_of_Autumn_20", 30000)
+-- DECOMPILER ERROR at PC117471: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[123] = CreateEnchantInfo()
+;
+(Table[123]):SetSlotOrder(3, 2, 1)
+;
+(Table[123]):AddTargetItem_Duplicate("Season_Hood_Winter")
+;
+(Table[123]):SetCondition(0, 0)
+;
+(Table[123]):ApproveRandomOption(true)
+;
+(Table[123]):SetReset(false, 0, 0)
+;
+(Table[123]):SetCaution("신수의 망토: 겨울 인챈트 부여\n인챈트 초기화 불가능")
+;
+(((Table[123]).Slot)[3]):AddPerfectEnchant("Physical_Seed_1", 0, {"Winter_Material_1", 10}, {"Winter_Material_2", 10}, {"Winter_Material_3", 10}, {"Energy_Of_Winter", 60})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_1", "Physical_Seed_2", 0, {"Energy_Of_Winter", 1}, {"Energy_Of_Wind", 10}, {"Energy_Of_Water", 10})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_2", "Physical_Seed_3", 0, {"Energy_Of_Winter", 2}, {"Energy_Of_Wind", 12}, {"Energy_Of_Water", 12})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_3", "Physical_Seed_4", 0, {"Energy_Of_Winter", 3}, {"Energy_Of_Wind", 14}, {"Energy_Of_Water", 14})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_4", "Physical_Seed_5", 0, {"Energy_Of_Winter", 4}, {"Energy_Of_Wind", 16}, {"Energy_Of_Water", 16})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_5", "Physical_Seed_6", 0, {"Energy_Of_Winter", 5}, {"Energy_Of_Wind", 18}, {"Energy_Of_Water", 18})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_6", "Physical_Seed_7", 0, {"Energy_Of_Winter", 6}, {"Energy_Of_Wind", 20}, {"Energy_Of_Water", 20})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_7", "Physical_Seed_8", 0, {"Energy_Of_Winter", 7}, {"Energy_Of_Wind", 22}, {"Energy_Of_Water", 22})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_8", "Physical_Seed_9", 0, {"Energy_Of_Winter", 8}, {"Energy_Of_Wind", 24}, {"Energy_Of_Water", 24})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_9", "Physical_Seed_10", 0, {"Energy_Of_Winter", 9}, {"Energy_Of_Wind", 26}, {"Energy_Of_Water", 26})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_10", "Physical_Leaf_1", 0, {"Energy_Of_Winter", 12}, {"Energy_Of_Wind", 30}, {"Energy_Of_Water", 30}, {"Winter_Material_1", 3}, {"Winter_Material_2", 3}, {"Winter_Material_3", 3})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_1", "Physical_Leaf_2", 0, {"Energy_Of_Winter", 14}, {"Energy_Of_Wind", 35}, {"Energy_Of_Water", 35}, {"Grace_Of_Spirit", 2})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_2", "Physical_Leaf_3", 0, {"Energy_Of_Winter", 16}, {"Energy_Of_Wind", 40}, {"Energy_Of_Water", 40}, {"Grace_Of_Spirit", 4})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_3", "Physical_Leaf_4", 0, {"Energy_Of_Winter", 18}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 6})
+;
+(((Table[123]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_4", "Physical_Leaf_5", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 50}, {"Energy_Of_Water", 50}, {"Grace_Of_Spirit", 8})
+;
+(((Table[123]).Slot)[2]):AddPerfectEnchant("Physical_Fruit_1", 0, {"Winter_Material_1", 15}, {"Winter_Material_2", 15}, {"Winter_Material_3", 15}, {"Energy_Of_Winter", 90})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_1", "Physical_Fruit_2", 0, {"Energy_Of_Winter", 2}, {"Energy_Of_Wind", 12}, {"Energy_Of_Water", 12})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_2", "Physical_Fruit_3", 0, {"Energy_Of_Winter", 3}, {"Energy_Of_Wind", 13}, {"Energy_Of_Water", 13})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_3", "Physical_Fruit_4", 0, {"Energy_Of_Winter", 5}, {"Energy_Of_Wind", 15}, {"Energy_Of_Water", 15})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_4", "Physical_Fruit_5", 0, {"Energy_Of_Winter", 8}, {"Energy_Of_Wind", 18}, {"Energy_Of_Water", 18})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_5", "Physical_Fruit_6", 0, {"Energy_Of_Winter", 12}, {"Energy_Of_Wind", 22}, {"Energy_Of_Water", 22}, {"Grace_Of_Spirit", 2})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_6", "Physical_Fruit_7", 0, {"Energy_Of_Winter", 17}, {"Energy_Of_Wind", 27}, {"Energy_Of_Water", 27}, {"Grace_Of_Spirit", 4})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_7", "Physical_Fruit_8", 0, {"Energy_Of_Winter", 23}, {"Energy_Of_Wind", 33}, {"Energy_Of_Water", 33}, {"Grace_Of_Spirit", 6})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_8", "Physical_Fruit_9", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 40}, {"Energy_Of_Water", 40}, {"Grace_Of_Spirit", 8})
+;
+(((Table[123]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_9", "Physical_Fruit_10", 0, {"Energy_Of_Winter", 38}, {"Energy_Of_Wind", 48}, {"Energy_Of_Water", 48}, {"Grace_Of_Spirit", 10})
+;
+(((Table[123]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_10", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_10", 15000)
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_11", 85000)
+;
+(((Table[123]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_11", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_10", 20000)
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_12", 80000)
+;
+(((Table[123]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_12", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_11", 25000)
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_13", 75000)
+;
+(((Table[123]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_13", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_12", 30000)
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_14", 70000)
+;
+(((Table[123]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_14", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_13", 35000)
+;
+(((Table[123]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_15", 65000)
+;
+(((Table[123]).Slot)[1]):AddPerfectEnchant("Life_of_Winter_1", 0, {"Winter_Material_1", 25}, {"Winter_Material_2", 25}, {"Winter_Material_3", 25}, {"Energy_Of_Winter", 140})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_1", "Life_of_Winter_2", 0, {"Energy_Of_Winter", 4}, {"Energy_Of_Wind", 14}, {"Energy_Of_Water", 14})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_2", "Life_of_Winter_3", 0, {"Energy_Of_Winter", 5}, {"Energy_Of_Wind", 16}, {"Energy_Of_Water", 16})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_3", "Life_of_Winter_4", 0, {"Energy_Of_Winter", 7}, {"Energy_Of_Wind", 19}, {"Energy_Of_Water", 19})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_4", "Life_of_Winter_5", 0, {"Energy_Of_Winter", 10}, {"Energy_Of_Wind", 23}, {"Energy_Of_Water", 23}, {"Grace_Of_Spirit", 5})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_5", "Life_of_Winter_6", 0, {"Energy_Of_Winter", 14}, {"Energy_Of_Wind", 28}, {"Energy_Of_Water", 28}, {"Grace_Of_Spirit", 7})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_6", "Life_of_Winter_7", 0, {"Energy_Of_Winter", 19}, {"Energy_Of_Wind", 34}, {"Energy_Of_Water", 34}, {"Grace_Of_Spirit", 9})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_7", "Life_of_Winter_8", 0, {"Energy_Of_Winter", 25}, {"Energy_Of_Wind", 41}, {"Energy_Of_Water", 41}, {"Grace_Of_Spirit", 11}, {"Winter_Material_1", 1}, {"Winter_Material_2", 1}, {"Winter_Material_3", 1})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_8", "Life_of_Winter_9", 0, {"Energy_Of_Winter", 32}, {"Energy_Of_Wind", 49}, {"Energy_Of_Water", 49}, {"Grace_Of_Spirit", 13}, {"Winter_Material_1", 3}, {"Winter_Material_2", 3}, {"Winter_Material_3", 3})
+;
+(((Table[123]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_9", "Life_of_Winter_10", 0, {"Energy_Of_Winter", 40}, {"Energy_Of_Wind", 58}, {"Energy_Of_Water", 58}, {"Grace_Of_Spirit", 15}, {"Winter_Material_1", 5}, {"Winter_Material_2", 5}, {"Winter_Material_3", 5})
+;
+(((Table[123]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_10", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_10", "Life_of_Winter_10", 25000)
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_10", "Life_of_Winter_11", 75000)
+;
+(((Table[123]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_11", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_11", "Life_of_Winter_10", 30000)
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_11", "Life_of_Winter_12", 70000)
+;
+(((Table[123]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_12", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_12", "Life_of_Winter_11", 35000)
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_12", "Life_of_Winter_13", 65000)
+;
+(((Table[123]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_13", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10}, {"Winter_Material_1", 2}, {"Winter_Material_2", 2}, {"Winter_Material_3", 2})
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_13", "Life_of_Winter_12", 40000)
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_13", "Life_of_Winter_14", 60000)
+;
+(((Table[123]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_14", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10}, {"Winter_Material_1", 2}, {"Winter_Material_2", 2}, {"Winter_Material_3", 2})
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_14", "Life_of_Winter_13", 45000)
+;
+(((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_14", "Life_of_Winter_15", 55000)
+-- DECOMPILER ERROR at PC119006: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[124] = CreateEnchantInfo()
+;
+(Table[124]):SetSlotOrder(3, 2, 1)
+;
+(Table[124]):AddTargetItem_Duplicate("Circul_Of_Life_Winter")
+;
+(Table[124]):SetCondition(0, 0)
+;
+(Table[124]):ApproveRandomOption(true)
+;
+(Table[124]):SetReset(false, 0, 0)
+;
+(Table[124]):SetCaution("생명의 순환: 겨울 인챈트 부여\n인챈트 초기화 불가능")
+;
+(((Table[124]).Slot)[3]):AddPerfectEnchant("Physical_Seed_1", 0, {"Winter_Material_1", 10}, {"Winter_Material_2", 10}, {"Winter_Material_3", 10}, {"Energy_Of_Winter", 60})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_1", "Physical_Seed_2", 0, {"Energy_Of_Winter", 1}, {"Energy_Of_Wind", 10}, {"Energy_Of_Water", 10})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_2", "Physical_Seed_3", 0, {"Energy_Of_Winter", 2}, {"Energy_Of_Wind", 12}, {"Energy_Of_Water", 12})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_3", "Physical_Seed_4", 0, {"Energy_Of_Winter", 3}, {"Energy_Of_Wind", 14}, {"Energy_Of_Water", 14})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_4", "Physical_Seed_5", 0, {"Energy_Of_Winter", 4}, {"Energy_Of_Wind", 16}, {"Energy_Of_Water", 16})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_5", "Physical_Seed_6", 0, {"Energy_Of_Winter", 5}, {"Energy_Of_Wind", 18}, {"Energy_Of_Water", 18})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_6", "Physical_Seed_7", 0, {"Energy_Of_Winter", 6}, {"Energy_Of_Wind", 20}, {"Energy_Of_Water", 20})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_7", "Physical_Seed_8", 0, {"Energy_Of_Winter", 7}, {"Energy_Of_Wind", 22}, {"Energy_Of_Water", 22})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_8", "Physical_Seed_9", 0, {"Energy_Of_Winter", 8}, {"Energy_Of_Wind", 24}, {"Energy_Of_Water", 24})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_9", "Physical_Seed_10", 0, {"Energy_Of_Winter", 9}, {"Energy_Of_Wind", 26}, {"Energy_Of_Water", 26})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Seed_10", "Physical_Leaf_1", 0, {"Energy_Of_Winter", 12}, {"Energy_Of_Wind", 30}, {"Energy_Of_Water", 30}, {"Winter_Material_1", 3}, {"Winter_Material_2", 3}, {"Winter_Material_3", 3})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_1", "Physical_Leaf_2", 0, {"Energy_Of_Winter", 14}, {"Energy_Of_Wind", 35}, {"Energy_Of_Water", 35}, {"Grace_Of_Spirit", 2})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_2", "Physical_Leaf_3", 0, {"Energy_Of_Winter", 16}, {"Energy_Of_Wind", 40}, {"Energy_Of_Water", 40}, {"Grace_Of_Spirit", 4})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_3", "Physical_Leaf_4", 0, {"Energy_Of_Winter", 18}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 6})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_4", "Physical_Leaf_5", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 50}, {"Energy_Of_Water", 50}, {"Grace_Of_Spirit", 8})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Leaf_5", "Physical_Flower_1", 0, {"Energy_Of_Winter", 25}, {"Winter_Material_1", 3}, {"Winter_Material_2", 3}, {"Winter_Material_3", 3}, {"Circul_Of_Life", 10})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_1", "Physical_Flower_2", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 12})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_2", "Physical_Flower_3", 0, {"Energy_Of_Winter", 35}, {"Circul_Of_Life", 14}, {"Fruit_Of_Birth", 3}, {"Fruit_Of_Extinction", 3})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_3", "Physical_Flower_4", 0, {"Energy_Of_Winter", 40}, {"Circul_Of_Life", 16}, {"Fruit_Of_Birth", 6}, {"Fruit_Of_Extinction", 6}, {"Truth_Of_Life", 3})
+;
+(((Table[124]).Slot)[3]):AddPerfectUpgradeEnchant("Physical_Flower_4", "Physical_Flower_5", 0, {"Energy_Of_Winter", 45}, {"Circul_Of_Life", 18}, {"Fruit_Of_Birth", 9}, {"Fruit_Of_Extinction", 9}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[124]).Slot)[2]):AddPerfectEnchant("Physical_Fruit_1", 0, {"Winter_Material_1", 15}, {"Winter_Material_2", 15}, {"Winter_Material_3", 15}, {"Energy_Of_Winter", 90})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_1", "Physical_Fruit_2", 0, {"Energy_Of_Winter", 2}, {"Energy_Of_Wind", 12}, {"Energy_Of_Water", 12})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_2", "Physical_Fruit_3", 0, {"Energy_Of_Winter", 3}, {"Energy_Of_Wind", 13}, {"Energy_Of_Water", 13})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_3", "Physical_Fruit_4", 0, {"Energy_Of_Winter", 5}, {"Energy_Of_Wind", 15}, {"Energy_Of_Water", 15})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_4", "Physical_Fruit_5", 0, {"Energy_Of_Winter", 8}, {"Energy_Of_Wind", 18}, {"Energy_Of_Water", 18})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_5", "Physical_Fruit_6", 0, {"Energy_Of_Winter", 12}, {"Energy_Of_Wind", 22}, {"Energy_Of_Water", 22}, {"Grace_Of_Spirit", 2})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_6", "Physical_Fruit_7", 0, {"Energy_Of_Winter", 17}, {"Energy_Of_Wind", 27}, {"Energy_Of_Water", 27}, {"Grace_Of_Spirit", 4})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_7", "Physical_Fruit_8", 0, {"Energy_Of_Winter", 23}, {"Energy_Of_Wind", 33}, {"Energy_Of_Water", 33}, {"Grace_Of_Spirit", 6})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_8", "Physical_Fruit_9", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 40}, {"Energy_Of_Water", 40}, {"Grace_Of_Spirit", 8})
+;
+(((Table[124]).Slot)[2]):AddPerfectUpgradeEnchant("Physical_Fruit_9", "Physical_Fruit_10", 0, {"Energy_Of_Winter", 38}, {"Energy_Of_Wind", 48}, {"Energy_Of_Water", 48}, {"Grace_Of_Spirit", 10})
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_10", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_10", 15000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_10", "Physical_Fruit_11", 85000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_11", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_10", 20000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_11", "Physical_Fruit_12", 80000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_12", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_11", 25000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_12", "Physical_Fruit_13", 75000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_13", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_12", 30000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_13", "Physical_Fruit_14", 70000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_14", 0, {"Energy_Of_Winter", 20}, {"Energy_Of_Wind", 25}, {"Energy_Of_Water", 25}, {"Grace_Of_Spirit", 5})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_13", 35000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_14", "Physical_Fruit_15", 65000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_15", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 15})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_15", "Physical_Fruit_14", 40000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_15", "Physical_Fruit_16", 60000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_16", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_16", "Physical_Fruit_15", 45000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_16", "Physical_Fruit_17", 55000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_17", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_17", "Physical_Fruit_16", 50000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_17", "Physical_Fruit_18", 50000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_18", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_18", "Physical_Fruit_17", 55000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_18", "Physical_Fruit_19", 45000)
+;
+(((Table[124]).Slot)[2]):SetRandomUpgradeRequire("Physical_Fruit_19", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 15}, {"Fruit_Of_Birth", 10}, {"Fruit_Of_Extinction", 10}, {"Truth_Of_Life", 5}, {"Light_Of_Life", 3})
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_19", "Physical_Fruit_18", 60000)
+;
+(((Table[124]).Slot)[2]):AddRandomUpgradeEnchant("Physical_Fruit_19", "Physical_Fruit_20", 40000)
+;
+(((Table[124]).Slot)[1]):AddPerfectEnchant("Life_of_Winter_1", 0, {"Winter_Material_1", 25}, {"Winter_Material_2", 25}, {"Winter_Material_3", 25}, {"Energy_Of_Winter", 140})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_1", "Life_of_Winter_2", 0, {"Energy_Of_Winter", 4}, {"Energy_Of_Wind", 14}, {"Energy_Of_Water", 14})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_2", "Life_of_Winter_3", 0, {"Energy_Of_Winter", 5}, {"Energy_Of_Wind", 16}, {"Energy_Of_Water", 16})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_3", "Life_of_Winter_4", 0, {"Energy_Of_Winter", 7}, {"Energy_Of_Wind", 19}, {"Energy_Of_Water", 19})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_4", "Life_of_Winter_5", 0, {"Energy_Of_Winter", 10}, {"Energy_Of_Wind", 23}, {"Energy_Of_Water", 23}, {"Grace_Of_Spirit", 5})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_5", "Life_of_Winter_6", 0, {"Energy_Of_Winter", 14}, {"Energy_Of_Wind", 28}, {"Energy_Of_Water", 28}, {"Grace_Of_Spirit", 7})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_6", "Life_of_Winter_7", 0, {"Energy_Of_Winter", 19}, {"Energy_Of_Wind", 34}, {"Energy_Of_Water", 34}, {"Grace_Of_Spirit", 9})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_7", "Life_of_Winter_8", 0, {"Energy_Of_Winter", 25}, {"Energy_Of_Wind", 41}, {"Energy_Of_Water", 41}, {"Grace_Of_Spirit", 11}, {"Winter_Material_1", 1}, {"Winter_Material_2", 1}, {"Winter_Material_3", 1})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_8", "Life_of_Winter_9", 0, {"Energy_Of_Winter", 32}, {"Energy_Of_Wind", 49}, {"Energy_Of_Water", 49}, {"Grace_Of_Spirit", 13}, {"Winter_Material_1", 3}, {"Winter_Material_2", 3}, {"Winter_Material_3", 3})
+;
+(((Table[124]).Slot)[1]):AddPerfectUpgradeEnchant("Life_of_Winter_9", "Life_of_Winter_10", 0, {"Energy_Of_Winter", 40}, {"Energy_Of_Wind", 58}, {"Energy_Of_Water", 58}, {"Grace_Of_Spirit", 15}, {"Winter_Material_1", 5}, {"Winter_Material_2", 5}, {"Winter_Material_3", 5})
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_10", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_10", "Life_of_Winter_10", 25000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_10", "Life_of_Winter_11", 75000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_11", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_11", "Life_of_Winter_10", 30000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_11", "Life_of_Winter_12", 70000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_12", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_12", "Life_of_Winter_11", 35000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_12", "Life_of_Winter_13", 65000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_13", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10}, {"Winter_Material_1", 2}, {"Winter_Material_2", 2}, {"Winter_Material_3", 2})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_13", "Life_of_Winter_12", 40000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_13", "Life_of_Winter_14", 60000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_14", 0, {"Energy_Of_Winter", 30}, {"Energy_Of_Wind", 45}, {"Energy_Of_Water", 45}, {"Grace_Of_Spirit", 10}, {"Winter_Material_1", 2}, {"Winter_Material_2", 2}, {"Winter_Material_3", 2})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_14", "Life_of_Winter_13", 45000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_14", "Life_of_Winter_15", 55000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_15", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 25})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_15", "Life_of_Winter_14", 50000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_15", "Life_of_Winter_16", 50000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_16", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_16", "Life_of_Winter_15", 55000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_16", "Life_of_Winter_17", 45000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_17", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_17", "Life_of_Winter_16", 60000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_17", "Life_of_Winter_18", 40000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_18", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10}, {"Light_Of_Life", 5})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_18", "Life_of_Winter_17", 65000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_18", "Life_of_Winter_19", 35000)
+;
+(((Table[124]).Slot)[1]):SetRandomUpgradeRequire("Life_of_Winter_19", 0, {"Energy_Of_Winter", 30}, {"Circul_Of_Life", 25}, {"Fruit_Of_Birth", 15}, {"Fruit_Of_Extinction", 15}, {"Truth_Of_Life", 10}, {"Light_Of_Life", 5})
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_19", "Life_of_Winter_18", 70000)
+;
+(((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_19", "Life_of_Winter_20", 30000)
+-- DECOMPILER ERROR at PC121223: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[125] = CreateEnchantInfo()
+;
+(Table[125]):SetSlotOrder(3, 2)
+;
+(Table[125]):AddTargetItem("FateSin_Boots_MT")
+;
+(Table[125]):SetCondition(0, 0)
+;
+(Table[125]):ApproveRandomOption(true)
+;
+(Table[125]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[125]):SetCaution("선악의 부츠(마이스터) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[125]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[125]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_MT", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[125]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_MT", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC121642: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[126] = CreateEnchantInfo()
+;
+(Table[126]):SetSlotOrder(3, 2)
+;
+(Table[126]):AddTargetItem("FateSin_Boots_SHC")
+;
+(Table[126]):SetCondition(0, 0)
+;
+(Table[126]):ApproveRandomOption(true)
+;
+(Table[126]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[126]):SetCaution("선악의 부츠(쉐도우 크로스) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[126]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[126]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SHC", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[126]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SHC", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC122061: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[127] = CreateEnchantInfo()
+;
+(Table[127]):SetSlotOrder(3, 2)
+;
+(Table[127]):AddTargetItem("FateSin_Boots_SS")
+;
+(Table[127]):SetCondition(0, 0)
+;
+(Table[127]):ApproveRandomOption(true)
+;
+(Table[127]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[127]):SetCaution("선악의 부츠(신키로&시라누이) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[127]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[127]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SS", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[127]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SS", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC122480: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[128] = CreateEnchantInfo()
+;
+(Table[128]):SetSlotOrder(3, 2)
+;
+(Table[128]):AddTargetItem("S_Full_Power_Armor")
+;
+(Table[128]):AddTargetItem("S_Full_Power_Shoes")
+;
+(Table[128]):AddTargetItem("S_Full_Rate_Armor")
+;
+(Table[128]):AddTargetItem("S_Full_Rate_Shoes")
+;
+(Table[128]):AddTargetItem("S_Focusing_Pendant")
+;
+(Table[128]):AddTargetItem("S_Focusing_Earring")
+;
+(Table[128]):AddTargetItem("S_Stout_Pendant")
+;
+(Table[128]):AddTargetItem("S_Stout_Earring")
+;
+(Table[128]):SetCondition(0, 0)
+;
+(Table[128]):ApproveRandomOption(true)
+;
+(Table[128]):SetReset(false, 0, 0)
+;
+(Table[128]):SetCaution("특성 강화 쉐도우 인챈트 부여\n초기화 불가")
+;
+(((Table[128]).Slot)[3]):AddPerfectEnchant("힘3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[3]):AddPerfectEnchant("덱3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[3]):AddPerfectEnchant("인트3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[3]):AddPerfectEnchant("어질3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[3]):AddPerfectEnchant("바탈3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[3]):AddPerfectEnchant("럭3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[2]):AddPerfectEnchant("Shadow_ATK_1", 0, {"S_Enchant_Essence", 7})
+;
+(((Table[128]).Slot)[2]):AddPerfectEnchant("Shadow_MATK_1", 0, {"S_Enchant_Essence", 7})
+;
+(((Table[128]).Slot)[2]):AddPerfectEnchant("Shadow_CRI_1", 0, {"S_Enchant_Essence", 7})
+;
+(((Table[128]).Slot)[2]):AddPerfectEnchant("Shadow_CAST_1", 0, {"S_Enchant_Essence", 7})
+;
+(((Table[128]).Slot)[2]):AddPerfectEnchant("Shadow_HP_1", 0, {"S_Enchant_Essence", 7})
+;
+(((Table[128]).Slot)[2]):AddPerfectEnchant("Shadow_SP_1", 0, {"S_Enchant_Essence", 7})
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_ATK_1", 0, {"S_Enchant_Essence", 2})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_ATK_1", "Shadow_ATK_1", 30000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_ATK_1", "Shadow_ATK_2", 70000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_ATK_2", 0, {"S_Enchant_Essence", 3})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_ATK_2", "Shadow_ATK_1", 40000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_ATK_2", "Shadow_ATK_3", 60000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_ATK_3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_ATK_3", "Shadow_ATK_2", 50000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_ATK_3", "Shadow_ATK_4", 50000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_ATK_4", 0, {"S_Enchant_Essence", 8})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_ATK_4", "Shadow_ATK_3", 60000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_ATK_4", "Shadow_ATK_5", 40000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_MATK_1", 0, {"S_Enchant_Essence", 2})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_MATK_1", "Shadow_MATK_1", 30000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_MATK_1", "Shadow_MATK_2", 70000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_MATK_2", 0, {"S_Enchant_Essence", 3})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_MATK_2", "Shadow_MATK_1", 40000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_MATK_2", "Shadow_MATK_3", 60000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_MATK_3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_MATK_3", "Shadow_MATK_2", 50000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_MATK_3", "Shadow_MATK_4", 50000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_MATK_4", 0, {"S_Enchant_Essence", 8})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_MATK_4", "Shadow_MATK_3", 60000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_MATK_4", "Shadow_MATK_5", 40000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_CRI_1", 0, {"S_Enchant_Essence", 2})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CRI_1", "Shadow_CRI_1", 30000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CRI_1", "Shadow_CRI_2", 70000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_CRI_2", 0, {"S_Enchant_Essence", 3})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CRI_2", "Shadow_CRI_1", 40000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CRI_2", "Shadow_CRI_3", 60000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_CRI_3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CRI_3", "Shadow_CRI_2", 50000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CRI_3", "Shadow_CRI_4", 50000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_CRI_4", 0, {"S_Enchant_Essence", 8})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CRI_4", "Shadow_CRI_3", 60000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CRI_4", "Shadow_CRI_5", 40000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_CAST_1", 0, {"S_Enchant_Essence", 2})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CAST_1", "Shadow_CAST_1", 30000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CAST_1", "Shadow_CAST_2", 70000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_CAST_2", 0, {"S_Enchant_Essence", 3})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CAST_2", "Shadow_CAST_1", 40000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CAST_2", "Shadow_CAST_3", 60000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_CAST_3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CAST_3", "Shadow_CAST_2", 50000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CAST_3", "Shadow_CAST_4", 50000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_CAST_4", 0, {"S_Enchant_Essence", 8})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CAST_4", "Shadow_CAST_3", 60000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_CAST_4", "Shadow_CAST_5", 40000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_HP_1", 0, {"S_Enchant_Essence", 2})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_HP_1", "Shadow_HP_1", 30000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_HP_1", "Shadow_HP_2", 70000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_HP_2", 0, {"S_Enchant_Essence", 3})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_HP_2", "Shadow_HP_1", 40000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_HP_2", "Shadow_HP_3", 60000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_HP_3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_HP_3", "Shadow_HP_2", 50000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_HP_3", "Shadow_HP_4", 50000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_HP_4", 0, {"S_Enchant_Essence", 8})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_HP_4", "Shadow_HP_3", 60000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_HP_4", "Shadow_HP_5", 40000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_SP_1", 0, {"S_Enchant_Essence", 2})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_1", "Shadow_SP_1", 30000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_1", "Shadow_SP_2", 70000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_SP_2", 0, {"S_Enchant_Essence", 3})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_2", "Shadow_SP_1", 40000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_2", "Shadow_SP_3", 60000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_SP_3", 0, {"S_Enchant_Essence", 5})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_3", "Shadow_SP_2", 50000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_3", "Shadow_SP_4", 50000)
+;
+(((Table[128]).Slot)[2]):SetRandomUpgradeRequire("Shadow_SP_4", 0, {"S_Enchant_Essence", 8})
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_4", "Shadow_SP_3", 60000)
+;
+(((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_4", "Shadow_SP_5", 40000)
+-- DECOMPILER ERROR at PC123671: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[129] = CreateEnchantInfo()
+;
+(Table[129]):SetSlotOrder(3, 2)
+;
+(Table[129]):AddTargetItem("FateSin_Boots_ABC")
+;
+(Table[129]):SetCondition(0, 0)
+;
+(Table[129]):ApproveRandomOption(true)
+;
+(Table[129]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[129]):SetCaution("선악의 부츠(어비스 체이서) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[129]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[129]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_ABC", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[129]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_ABC", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC124090: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[130] = CreateEnchantInfo()
+;
+(Table[130]):SetSlotOrder(3, 2)
+;
+(Table[130]):AddTargetItem("FateSin_Boots_TR")
+;
+(Table[130]):SetCondition(0, 0)
+;
+(Table[130]):ApproveRandomOption(true)
+;
+(Table[130]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[130]):SetCaution("선악의 부츠(트루바두르&트루베르) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[130]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[130]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_TR", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[130]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_TR", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC124509: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[131] = CreateEnchantInfo()
+;
+(Table[131]):SetSlotOrder(3, 2)
+;
+(Table[131]):AddTargetItem("FateSin_Boots_HN")
+;
+(Table[131]):SetCondition(0, 0)
+;
+(Table[131]):ApproveRandomOption(true)
+;
+(Table[131]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[131]):SetCaution("선악의 부츠(하이퍼 노비스) 인챈트 부여\n인챈트 성공확률: 100%\n초기화 확률 90%")
+;
+(((Table[131]).Slot)[3]):AddPerfectEnchant("공격후딜레이2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddPerfectEnchant("마력5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddPerfectEnchant("명궁3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("공격후딜레이2", "공격후딜레이3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("마력5", "마력6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("명궁3", "명궁4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("공격후딜레이3", "공격후딜레이4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("마력6", "마력7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("명궁4", "명궁5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[131]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_HN", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[131]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_HN", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 

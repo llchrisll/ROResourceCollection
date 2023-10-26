@@ -1,0 +1,67 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\CashEmotion\CashEmotionListDefine_F.lub 
+
+-- params : ...
+-- function num : 0
+getEmotionPackPrice = function(in_packid)
+  -- function num : 0_0
+  local result = (_G.EMOTION_PACK_PRICE)[in_packid]
+  if result == nil then
+    return 0
+  else
+    return result
+  end
+end
+
+getEmotionPackLimitTimeStart = function(in_pack)
+  -- function num : 0_1
+  local result = (_G.EMOTION_PACK_LIMITED_TIME_START)[in_packid]
+  if result == nil then
+    return 0
+  else
+    return result
+  end
+end
+
+getEmotionPackLimitTimeEnd = function(in_pack)
+  -- function num : 0_2
+  local result = (_G.EEMOTION_PACK_LIMITED_TIME_END)[in_packid]
+  if result == nil then
+    return 0
+  else
+    return result
+  end
+end
+
+getEmotionPackPeriodRental = function(in_pack)
+  -- function num : 0_3
+  local result = (_G.EMOTION_PACK_PERIOD_RENTAL)[in_packid]
+  if result == nil then
+    return 0
+  else
+    return result
+  end
+end
+
+getEmotionPackSaleAttributionType = function(in_pack)
+  -- function num : 0_4
+  local result = (_G.EMOTION_PACK_SALE_ATTRIBUTION_TYPE)[in_packid]
+  if result == nil then
+    return 0
+  else
+    return result
+  end
+end
+
+getEmotionLastIndex = function()
+  -- function num : 0_5
+  local result = (_G.EMOTION_PACK_PRICE)[in_packid]
+  if result == nil then
+    return 0
+  else
+    return result
+  end
+  return EMOTION_TYPE.ET_EMOTION_LAST
+end
+
+

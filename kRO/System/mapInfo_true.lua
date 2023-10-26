@@ -4,6 +4,44 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["1@vrpop.rsw"] = {displayName = "환상총서-무지개 길", notifyEnter = true, 
+signName = {subTitle = "환상총서-012", mainTitle = "무지개 길"}
+, backgroundBmp = "field"}
+, 
+["2@vrpop.rsw"] = {displayName = "환상총서-무지개 길", notifyEnter = true, 
+signName = {subTitle = "환상총서-012", mainTitle = "무지개 길"}
+, backgroundBmp = "field"}
+, 
+["3@vrpop.rsw"] = {displayName = "환상총서-무지개 호수", notifyEnter = true, 
+signName = {subTitle = "환상총서-012", mainTitle = "무지개 호수"}
+, backgroundBmp = "field"}
+, 
+["1@ba_go.rsw"] = {displayName = "시간의 정원-생명의 전당", notifyEnter = true, 
+signName = {subTitle = "시간의 정원", mainTitle = "생명의 전당"}
+, backgroundBmp = "dungeon"}
+, 
+["1@f_lake.rsw"] = {displayName = "시간의 정원-불의 호수", notifyEnter = true, 
+signName = {subTitle = "시간의 정원", mainTitle = "불의 호수"}
+, backgroundBmp = "dungeon"}
+, 
+["t_garden.rsw"] = {displayName = "시간의 정원", notifyEnter = true, 
+signName = {mainTitle = "시간의 정원"}
+, backgroundBmp = "noname_s2"}
+, 
+["for_dun01.rsw"] = {displayName = "시간의 정원-잊혀진 시간 1 구역", notifyEnter = true, 
+signName = {subTitle = "시간의 정원", mainTitle = "잊혀진 시간 1 구역"}
+, backgroundBmp = "dungeon"}
+, 
+["for_dun02.rsw"] = {displayName = "시간의 정원-잊혀진 시간 2 구역", notifyEnter = true, 
+signName = {subTitle = "시간의 정원", mainTitle = "잊혀진 시간 2 구역"}
+, backgroundBmp = "dungeon"}
+, 
+["x_prt_evt.rsw"] = {displayName = "차원너머의 프론테라", notifyEnter = true, 
+signName = {subTitle = "차원 너머의", mainTitle = "프론테라 야시장"}
+, backgroundBmp = "village"}
+, 
+["x_prt_in.rsw"] = {displayName = "차원 너머의 프론테라 내부"}
+, 
 ["bl_depth1.rsw"] = {displayName = "바이오스피어 심층 1층", notifyEnter = true, 
 signName = {subTitle = "바르문트의 바이오스피어", mainTitle = "심층 1층"}
 , backgroundBmp = "dungeon"}

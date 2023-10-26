@@ -2228,6 +2228,22 @@ SourceItems = {
 {"S_HN_Earring", 1, 24870}
 , 
 {"S_HN_Pendant", 1, 24871}
+, 
+{"S_Full_Power_Armor", 1, 24872}
+, 
+{"S_Full_Power_Shoes", 1, 24873}
+, 
+{"S_Full_Rate_Armor", 1, 24874}
+, 
+{"S_Full_Rate_Shoes", 1, 24875}
+, 
+{"S_Focusing_Pendant", 1, 24876}
+, 
+{"S_Focusing_Earring", 1, 24877}
+, 
+{"S_Stout_Pendant", 1, 24878}
+, 
+{"S_Stout_Earring", 1, 24879}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -6550,6 +6566,12 @@ SourceItems = {
 {"ElementalStone_Robe", 1, 1001420}
 , 
 {"MeisterStone_Robe", 1, 1001421}
+, 
+{"AbysschaserStone_Robe", 1, 1001487}
+, 
+{"TRTRStone_Robe", 1, 1001488}
+, 
+{"HNoviceStone_Robe", 1, 1001489}
 }
 , NeedSource_String = "의상인챈트스톤"}
 , 
@@ -7962,6 +7984,30 @@ SourceItems = {
 {"C_Diabolic_Lapel", 1, 31381}
 , 
 {"C_Labrys", 1, 480316}
+, 
+{"C초원의바람", 1, 20048}
+, 
+{"C_Blink_Eyes_Frozen", 1, 410220}
+, 
+{"C_Charm_Of_Mistic_Froze", 1, 420103}
+, 
+{"C_Surf_Board_Poring", 1, 480335}
+, 
+{"C화려한하이캡", 1, 19868}
+, 
+{"C_Brother_Keen_Eye", 1, 410245}
+, 
+{"C강아지풀", 1, 20193}
+, 
+{"C_Rifle", 1, 480337}
+, 
+{"C_Horo_Ears_WH", 1, 400496}
+, 
+{"C_Fluttering_Haze", 1, 420242}
+, 
+{"C고양이입", 1, 31251}
+, 
+{"C_Ninetail_Tail_WH", 1, 480362}
 }
 , NeedSource_String = "냥다래 의상"}
 , 

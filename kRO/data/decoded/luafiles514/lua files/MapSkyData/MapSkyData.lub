@@ -4,6 +4,20 @@
 -- params : ...
 -- function num : 0
 MapSkyData = {
+["t_garden.rsw"] = {
+BG_Color = {7, 7, 24}
+, Star_Effect = true, BG_Fog = true, 
+Cloud_Effect = {
+[1] = {Num = 400, CullDist = 400, 
+Color = {24, 16, 43}
+, Size = 20, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 50, Height_Extra = 0}
+, 
+[2] = {Num = 200, CullDist = 400, 
+Color = {13, 22, 35}
+, Size = 25, Size_Extra = 20, Expand_Rate = 0.05, Alpha_Inc_Time = 80, Alpha_Inc_Time_Extra = 50, Alpha_Inc_Speed = 1, Alpha_Dec_Time = 300, Alpha_Dec_Time_Extra = 200, Alpha_Dec_Speed = 0.5, Height = 50, Height_Extra = 0}
+}
+}
+, 
 ["bl_depth1.rsw"] = {
 BG_Color = {7, 7, 24}
 , Star_Effect = false, BG_Fog = true, 

@@ -3400,6 +3400,12 @@ EFFECT.EF_NPC_GATE_RED_S = 2388
 -- DECOMPILER ERROR at PC4274: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_NPC_GATE_SKYBLUE = 2389
+-- DECOMPILER ERROR at PC4278: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_RECT_UP_ORANGE = 2401
+-- DECOMPILER ERROR at PC4282: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_GLOW_ORANGE = 2402
 tbl = {
 [2603] = {MonsterSize = 1.2, 
 MonsterEff = {EFFECT.EF_BOTTOM_DE}
@@ -5939,6 +5945,110 @@ MonsterEff = {EFFECT.MAGIC_CIRCLE_NOTHING, EFFECT.EF_BLACK_BUBBLE2}
 , 
 [22155] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.MAGIC_CIRCLE_PLANT, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22183] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GLOW_ORANGE}
+}
+, 
+[22184] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_RECT_UP_ORANGE}
+}
+, 
+[22230] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22229] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[22228] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[22231] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE3}
+}
+, 
+[22206] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22205] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[22204] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[22207] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE3}
+}
+, 
+[22226] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22225] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[22224] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[22227] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE3}
+}
+, 
+[22202] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22201] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[22200] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE1}
+}
+, 
+[22203] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_BLACK_BUBBLE3}
+}
+, 
+[22199] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[22215] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[22211] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[22235] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[22239] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[22223] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[22195] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[22219] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_NONE}
 }
 }
 main = function()

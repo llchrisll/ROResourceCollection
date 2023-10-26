@@ -87,8 +87,36 @@ CreateEnchantInfo = function()
     end
   end
 
+  EnchantInfo.AddTargetItem_Duplicate = function(self, in_targetItem)
+    -- function num : 0_1_3 , upvalues : EnchantInfo
+    if self.SlotOrder == nil then
+      self:SetFailed("AddTargetItem", "SetSlotOrder 함수가 먼저 호출되어야 합니다.")
+    end
+    if type(in_targetItem) ~= "string" then
+      self:SetFailed("AddTargetItem", "값은 문자열이어야 합니다.")
+    end
+    local slotCount = C_GetSlotCount(in_targetItem)
+    if slotCount > 0 then
+      for k,slotNum in pairs(EnchantInfo.SlotOrder) do
+        if slotNum < slotCount then
+          EnchantInfo:SetFailed("AddTargetItem", "[ " .. in_targetItem .. " ] 활성화 된 슬롯에는 인챈트를 할 수 없습니다. 해당 아이템의 슬롯 개수를 확인해주세요.")
+        end
+      end
+    end
+    do
+      if not self.TargetItemTbl then
+        self.TargetItemTbl = {}
+        if (table.find)(self.TargetItemTbl, in_targetItem) ~= nil then
+          self:SetFailed("같은 테이블 내에 AddTargetItem_Duplicate", "[ " .. in_targetItem .. " ] 아이템이 있습니다.")
+        end
+        ;
+        (table.insert)(self.TargetItemTbl, in_targetItem)
+      end
+    end
+  end
+
   EnchantInfo.SetCondition = function(self, in_minRefine, in_minGrade)
-    -- function num : 0_1_3
+    -- function num : 0_1_4
     if type(in_minRefine) ~= "number" then
       self:SetFailed("SetCondition", "1번째 값[최소 제련도]은 숫자여야 합니다.")
     else
@@ -108,7 +136,7 @@ CreateEnchantInfo = function()
   end
 
   EnchantInfo.ApproveRandomOption = function(self, in_check)
-    -- function num : 0_1_4
+    -- function num : 0_1_5
     if type(in_check) ~= "boolean" then
       self:SetFailed("ApproveRandomOption", "인자는 true 혹은 false여야 합니다.")
     end
@@ -116,7 +144,7 @@ CreateEnchantInfo = function()
   end
 
   EnchantInfo.SetReset = function(self, in_bReset, in_Rate, in_Zeny, ...)
-    -- function num : 0_1_5
+    -- function num : 0_1_6
     if type(in_bReset) ~= "boolean" then
       self:SetFailed("SetReset", "1번째 값은 true 혹은 false여야 합니다.")
     else
@@ -161,7 +189,7 @@ CreateEnchantInfo = function()
   end
 
   EnchantInfo.SetCaution = function(self, in_msg)
-    -- function num : 0_1_6
+    -- function num : 0_1_7
     if type(in_msg) ~= "string" then
       self:SetFailed("SetCaution", "값은 문자열이어야 합니다.")
     end
@@ -176,6 +204,7 @@ CreateSlotInfo = function()
   local SlotInfo = {}
   SlotInfo.PerfectECTbl = {}
   SlotInfo.UpgradeECTbl = {}
+  SlotInfo.UpgradeNewVer = nil
   SlotInfo.GetEnchantNum = function(self)
     -- function num : 0_2_0
     for EnchantNum,EnchantInfo in pairs(Table) do
@@ -346,6 +375,9 @@ CreateSlotInfo = function()
 
   SlotInfo.AddUpgradeEnchant = function(self, in_ItemDB, in_ResultItemDB, in_Zeny, ...)
     -- function num : 0_2_7
+    if self.UpgradeNewVer ~= nil and self.UpgradeNewVer == true then
+      self:SetFailed("AddUpgradeEnchant", "같은 슬롯에 AddPerfectUpgradeEnchant와 혼용하여 사용할 수 없습니다.")
+    end
     if type(in_ItemDB) ~= "string" then
       self:SetFailed("AddUpgradeEnchant", "1번째 값은 문자열이어야 합니다.")
     else
@@ -382,10 +414,152 @@ CreateSlotInfo = function()
     if (self.UpgradeECTbl)[in_ItemDB] ~= nil then
       self:SetFailed("AddPerfectEnchant", "[ " .. in_ItemDB .. " ]의 정보가 중복되었습니다.")
     end
-    -- DECOMPILER ERROR at PC101: Confused about usage of register: R7 in 'UnsetPending'
+    self.UpgradeNewVer = false
+    -- DECOMPILER ERROR at PC112: Confused about usage of register: R7 in 'UnsetPending'
 
     ;
     (self.UpgradeECTbl)[in_ItemDB] = tbl
+  end
+
+  SlotInfo.SetRandomUpgradeRequire = function(self, in_ItemDB, in_Zeny, ...)
+    -- function num : 0_2_8
+    if type(in_ItemDB) ~= "string" then
+      self:SetFailed("SetRandomUpgradeRequire", "1번째 값은 문자열이어야 합니다.")
+    else
+      if type(in_Zeny) ~= "number" then
+        self:SetFailed("SetRandomUpgradeRequire", "2번째 값은 숫자여야 합니다.")
+      end
+    end
+    if in_Zeny < 0 then
+      self:SetFailed("SetRandomUpgradeRequire", "2번째 값은 0보다 커야 합니다.")
+    end
+    if MAX_MATERIAL_NUM < #arg then
+      self:SetFailed("SetRandomUpgradeRequire", "재료는 " .. MAX_MATERIAL_NUM .. "종 이하여야 합니다.")
+    end
+    local tempMatTbl = {}
+    for i,matInfo in ipairs(arg) do
+      if type(matInfo) ~= "table" then
+        self:SetFailed("SetRequire", "재료는 테이블 형식으로 작성되어야 합니다.")
+      else
+        if type(matInfo[1]) ~= "string" then
+          self:SetFailed("SetRequire", "재료 목록이 잘못 작성되었습니다.")
+        else
+          if type(matInfo[2]) ~= "number" then
+            self:SetFailed("SetRequire", "재료 목록이 잘못 작성되었습니다.")
+          end
+        end
+      end
+      tempMatTbl[matInfo[1]] = matInfo[2]
+    end
+    do
+      if not self.RandomUpgradeECTbl then
+        self.RandomUpgradeECTbl = {}
+        -- DECOMPILER ERROR at PC86: Confused about usage of register: R5 in 'UnsetPending'
+
+        if not (self.RandomUpgradeECTbl)[in_ItemDB] then
+          (self.RandomUpgradeECTbl)[in_ItemDB] = {}
+          if ((self.RandomUpgradeECTbl)[in_ItemDB]).RequireTbl ~= nil then
+            self:SetFailed("SetRandomUpgradeRequire", "[ " .. in_ItemDB .. " ]의 정보가 중복되었습니다.")
+          end
+          local tbl = {Zeny = in_Zeny, MatTbl = tempMatTbl}
+          -- DECOMPILER ERROR at PC104: Confused about usage of register: R6 in 'UnsetPending'
+
+          ;
+          ((self.RandomUpgradeECTbl)[in_ItemDB]).RequireTbl = tbl
+        end
+      end
+    end
+  end
+
+  SlotInfo.AddRandomUpgradeEnchant = function(self, in_ItemDB, in_ResultItemDB, in_Rate)
+    -- function num : 0_2_9
+    if self.UpgradeNewVer ~= nil and self.UpgradeNewVer == false then
+      self:SetFailed("AddPerfectUpgradeEnchant", "같은 슬롯에 AddUpgradeEnchant와 혼용하여 사용할 수 없습니다.")
+    end
+    if type(in_ItemDB) ~= "string" then
+      self:SetFailed("AddRandomUpgradeEnchant", "1번째 값은 문자열이어야 합니다.")
+    else
+      if type(in_ResultItemDB) ~= "string" then
+        self:SetFailed("AddRandomUpgradeEnchant", "2번째 값은 문자열이어야 합니다.")
+      else
+        if type(in_Rate) ~= "number" then
+          self:SetFailed("AddRandomUpgradeEnchant", "3번째 값은 숫자여야 합니다.")
+        end
+      end
+    end
+    if in_Rate < 0 or in_Rate > 100000 then
+      self:SetFailed("AddRandomUpgradeEnchant", "3번째 값은 0에서 100000사이어야 합니다.")
+    end
+    if self.RandomUpgradeECTbl == nil or (self.RandomUpgradeECTbl)[in_ItemDB] == nil or ((self.RandomUpgradeECTbl)[in_ItemDB]).RequireTbl == nil then
+      self:SetFailed("AddRandomUpgradeEnchant", "SetRandomUpgradeRequire 함수가 먼저 호출되어야 합니다.")
+    end
+    -- DECOMPILER ERROR at PC71: Confused about usage of register: R4 in 'UnsetPending'
+
+    if not ((self.RandomUpgradeECTbl)[in_ItemDB]).ResultTbl then
+      ((self.RandomUpgradeECTbl)[in_ItemDB]).ResultTbl = {}
+      if (((self.RandomUpgradeECTbl)[in_ItemDB]).ResultTbl)[in_ResultItemDB] ~= nil then
+        self:SetFailed("AddRandomUpgradeEnchant", "[ " .. in_ItemDB .. " ][ " .. in_ResultItemDB .. " ]의 정보가 중복되었습니다.")
+      end
+      self.UpgradeNewVer = true
+      -- DECOMPILER ERROR at PC91: Confused about usage of register: R4 in 'UnsetPending'
+
+      ;
+      (((self.RandomUpgradeECTbl)[in_ItemDB]).ResultTbl)[in_ResultItemDB] = in_Rate
+    end
+  end
+
+  SlotInfo.AddPerfectUpgradeEnchant = function(self, in_ItemDB, in_ResultItemDB, in_Zeny, ...)
+    -- function num : 0_2_10
+    if type(in_ItemDB) ~= "string" then
+      self:SetFailed("AddPerfectUpgradeEnchant", "1번째 값은 문자열이어야 합니다.")
+    else
+      if type(in_ResultItemDB) ~= "string" then
+        self:SetFailed("AddPerfectUpgradeEnchant", "3번째 값은 문자열이어야 합니다.")
+      else
+        if type(in_Zeny) ~= "number" then
+          self:SetFailed("AddPerfectUpgradeEnchant", "3번째 값은 숫자여야 합니다.")
+        end
+      end
+    end
+    if in_Zeny < 0 then
+      self:SetFailed("AddPerfectUpgradeEnchant", "3번째 값은 0보다 커야 합니다.")
+    end
+    if MAX_MATERIAL_NUM < #arg then
+      self:SetFailed("AddPerfectUpgradeEnchant", "재료는 " .. MAX_MATERIAL_NUM .. "종 이하여야 합니다.")
+    end
+    local tempMatTbl = {}
+    for i,matInfo in ipairs(arg) do
+      if type(matInfo) ~= "table" then
+        self:SetFailed("AddPerfectUpgradeEnchant", "재료는 테이블 형식으로 작성되어야 합니다.")
+      else
+        if type(matInfo[1]) ~= "string" then
+          self:SetFailed("AddPerfectUpgradeEnchant", "재료 목록이 잘못 작성되었습니다.")
+        else
+          if type(matInfo[2]) ~= "number" then
+            self:SetFailed("AddPerfectUpgradeEnchant", "재료 목록이 잘못 작성되었습니다.")
+          end
+        end
+      end
+      tempMatTbl[matInfo[1]] = matInfo[2]
+    end
+    do
+      if not self.PerfectUpgradeECTbl then
+        self.PerfectUpgradeECTbl = {}
+        -- DECOMPILER ERROR at PC96: Confused about usage of register: R6 in 'UnsetPending'
+
+        if not (self.PerfectUpgradeECTbl)[in_ItemDB] then
+          (self.PerfectUpgradeECTbl)[in_ItemDB] = {}
+          if ((self.PerfectUpgradeECTbl)[in_ItemDB])[in_ResultItemDB] ~= nil then
+            self:SetFailed("AddPerfectUpgradeEnchant", "[ " .. in_ItemDB .. " ][ " .. in_ResultItemDB .. " ]의 정보가 중복되었습니다.")
+          end
+          local tbl = {Zeny = in_Zeny, MatTbl = tempMatTbl}
+          -- DECOMPILER ERROR at PC116: Confused about usage of register: R7 in 'UnsetPending'
+
+          ;
+          ((self.PerfectUpgradeECTbl)[in_ItemDB])[in_ResultItemDB] = tbl
+        end
+      end
+    end
   end
 
   return SlotInfo
@@ -439,6 +613,30 @@ CheckFile = function()
           if totalRate ~= 100000 then
             slotInfo:SetFailed("SetEnchant", grade .. "등급의 확률 총합이 100000이 아닙니다.")
           end
+        end
+      end
+      do
+        if slotInfo.RandomUpgradeECTbl ~= nil then
+          for ItemDB,RandomUpgradeECTInfo in pairs(slotInfo.RandomUpgradeECTbl) do
+            if RandomUpgradeECTInfo.RequireTbl == nil then
+              slotInfo:SetFailed("SetRandomUpgradeRequire", "[ " .. ItemDB .. " ] 랜덤 업그레이드 인챈트의 재료 정보가 존재하지 않습니다.")
+            end
+            if RandomUpgradeECTInfo.ResultTbl == nil then
+              slotInfo:SetFailed("AddRandomUpgradeEnchant", "[ " .. ItemDB .. " ] 랜덤 업그레이드 인챈트 정보가 존재하지 않습니다.")
+            else
+              local TotalRate = 0
+              for ResultItemDB,Rate in pairs(RandomUpgradeECTInfo.ResultTbl) do
+                TotalRate = TotalRate + Rate
+              end
+              if TotalRate ~= 100000 then
+                slotInfo:SetFailed("AddRandomUpgradeEnchant", "[ " .. ItemDB .. " ] 랜덤 업그레이드 인챈트의 확률 총합이 100000이 아닙니다.")
+              end
+            end
+          end
+        end
+        do
+          -- DECOMPILER ERROR at PC176: LeaveBlock: unexpected jumping out DO_STMT
+
         end
       end
     end
@@ -517,9 +715,37 @@ GetEnchantInfo = function(in_EnchantNum)
           return false, msg
         end
       end
+      if slotInfo.RandomUpgradeECTbl ~= nil then
+        for ItemDB,RandomUpgradeECTInfo in pairs(slotInfo.RandomUpgradeECTbl) do
+          result = C_SetRandomUpgradeRequire(in_EnchantNum, slotNum, ItemDB, (RandomUpgradeECTInfo.RequireTbl).Zeny, (RandomUpgradeECTInfo.RequireTbl).MatTbl)
+          if not result then
+            return false, msg
+          end
+          for ResultItemDB,Rate in pairs(RandomUpgradeECTInfo.ResultTbl) do
+            result = C_AddRandomUpgradeEnchant(in_EnchantNum, slotNum, ItemDB, ResultItemDB, Rate)
+            if not result then
+              return false, msg
+            end
+          end
+        end
+      end
       do
-        -- DECOMPILER ERROR at PC221: LeaveBlock: unexpected jumping out DO_STMT
+        if slotInfo.PerfectUpgradeECTbl ~= nil then
+          for ItemDB,PerfectUpgradeECTInfo in pairs(slotInfo.PerfectUpgradeECTbl) do
+            for ResultItemDB,Require in pairs(PerfectUpgradeECTInfo) do
+              result = C_AddPerfectUpgradeEnchant(in_EnchantNum, slotNum, ItemDB, ResultItemDB, Require.Zeny, Require.MatTbl)
+              if not result then
+                return false, msg
+              end
+            end
+          end
+        end
+        do
+          -- DECOMPILER ERROR at PC299: LeaveBlock: unexpected jumping out DO_STMT
 
+          -- DECOMPILER ERROR at PC299: LeaveBlock: unexpected jumping out DO_STMT
+
+        end
       end
     end
   end

@@ -1,0 +1,190 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\CashEmotion\CashEmotionList_F.lub 
+
+-- params : ...
+-- function num : 0
+local defaultMotionNum = 5
+local defaultActFilePath = "emotion\\basic.act"
+local defaultSprFilePath = "emotion\\basic.spr"
+InsertEmotionListTable = function(in_pack, in_emotion, in_msgStrID, in_actionNum, in_motionNum, in_actFilePath, in_sprFilePath)
+  -- function num : 0_0 , upvalues : defaultMotionNum, defaultActFilePath, defaultSprFilePath
+  if in_pack < 0 or in_emotion < 1 then
+    return 
+  end
+  local useMsgStrID = ""
+  if in_msgStrID ~= nil then
+    useMsgStrID = in_msgStrID
+  end
+  local useMotionNum = 0
+  if in_motionNum ~= nil then
+    useMotionNum = in_motionNum
+  else
+    useMotionNum = defaultMotionNum
+  end
+  local useActFilePath = ""
+  if in_actFilePath ~= nil then
+    useActFilePath = in_actFilePath
+  else
+    useActFilePath = defaultActFilePath
+  end
+  local useSprFilePath = ""
+  if in_sprFilePath ~= nil then
+    useSprFilePath = in_sprFilePath
+  else
+    useSprFilePath = defaultSprFilePath
+  end
+  local emotionType = ConvertEmotionTypeForClient(in_emotion)
+  local ansiText = c_InsertEmotionListTable(in_pack, emotionType, useMsgStrID, in_actionNum, useMotionNum, useActFilePath, useSprFilePath)
+  if ansiText ~= nil and ansiText ~= "" then
+    InsertEmotionMsgListTableAnsiText(in_pack, in_emotion, ansiText)
+  end
+end
+
+InsertEmotionMsgListTableAnsiText = function(in_pack, in_emotion, ...)
+  -- function num : 0_1
+  if in_pack < 0 or in_emotion < 1 then
+    return 
+  end
+  in_emotion = ConvertEmotionTypeForClient(in_emotion)
+  c_InsertEmotionMsgListTable(in_pack, in_emotion, 1, #arg, unpack(arg))
+end
+
+InsertEmotionMsgListTable = function(in_pack, in_emotion, ...)
+  -- function num : 0_2
+  if in_pack < 0 or in_emotion < 1 then
+    return 
+  end
+  in_emotion = ConvertEmotionTypeForClient(in_emotion)
+  c_InsertEmotionMsgListTable(in_pack, in_emotion, 0, #arg, unpack(arg))
+end
+
+InsertEmotionVarientListTable = function(in_pack, in_emotion, in_actionNum, in_motionNum, in_actFilePath, in_sprFilePath)
+  -- function num : 0_3 , upvalues : defaultMotionNum, defaultActFilePath, defaultSprFilePath
+  if in_pack < 0 or in_emotion < 1 then
+    return 
+  end
+  local useMotionNum = nil
+  if in_motionNum ~= nil then
+    useMotionNum = in_motionNum
+  else
+    useMotionNum = defaultMotionNum
+  end
+  local useActFilePath = nil
+  if in_actFilePath ~= nil then
+    useActFilePath = in_actFilePath
+  else
+    useActFilePath = defaultActFilePath
+  end
+  local useSprFilePath = nil
+  if in_sprFilePath ~= nil then
+    useSprFilePath = in_sprFilePath
+  else
+    useSprFilePath = defaultSprFilePath
+  end
+  in_emotion = ConvertEmotionTypeForClient(in_emotion)
+  c_InsertEmotionVarientListTable(in_pack, in_emotion, in_actionNum, useMotionNum, useActFilePath, useSprFilePath)
+end
+
+InsertPackInfo2 = function(in_pack, in_msgStrID)
+  -- function num : 0_4
+  for k,v in pairs(EMOTION_PACK_INFO) do
+    if in_pack == v[1] then
+      c_InsertPackInfo(v[1], in_msgStrID, v[2], v[3], v[4], v[5], v[6], v[7], v[8], v[9])
+      return 
+    end
+  end
+end
+
+InsertOrderList = function(in_pack, in_emotion)
+  -- function num : 0_5
+  if in_pack < 0 or in_emotion < 1 then
+    return 
+  end
+  in_emotion = ConvertEmotionTypeForClient(in_emotion)
+  c_InsertOrderList(in_pack, in_emotion)
+end
+
+InsertEmotionEnum = function(in_strEnum, in_value)
+  -- function num : 0_6
+  local iEmotionType = ConvertEmotionTypeForClient(in_value)
+  c_InsertEmotionEnum(in_strEnum, iEmotionType)
+end
+
+InsertEmotionEnumHelper = function(in_tbl)
+  -- function num : 0_7
+  if in_tbl == nil then
+    return 
+  end
+  for i = 1, #in_tbl do
+    InsertEmotionEnum(in_tbl[i], i)
+  end
+end
+
+InsertSequenceEmotion = function(in_pack, in_count, in_msgStrID, in_filePath, in_actionNum, in_motionNum)
+  -- function num : 0_8 , upvalues : defaultMotionNum, defaultActFilePath, defaultSprFilePath
+  if in_actionNum == nil then
+    in_actionNum = 0
+  end
+  if in_motionNum == nil then
+    in_motionNum = defaultMotionNum
+  end
+  local actPath, sprPath = nil, nil
+  if in_filePath == nil or in_filePath == "" then
+    actPath = defaultActFilePath
+    sprPath = defaultSprFilePath
+  else
+    actPath = in_filePath .. ".act"
+    sprPath = in_filePath .. ".spr"
+  end
+  for index = 0, in_count - 1 do
+    local msgID = in_msgStrID .. index + 1
+    local emotionType = EMOTION_TYPE.ET_CUSTOM_1 + index
+    InsertOrderList(in_pack, emotionType)
+    InsertEmotionListTable(in_pack, emotionType, msgID, in_actionNum + index, in_motionNum, actPath, sprPath)
+  end
+end
+
+InsertGroupEmotion = function(in_pack, in_filePath, ...)
+  -- function num : 0_9 , upvalues : defaultActFilePath, defaultSprFilePath
+  local actPath, sprPath = nil
+  if in_filePath == nil or in_filePath == "" then
+    actPath = defaultActFilePath
+    sprPath = defaultSprFilePath
+  else
+    actPath = in_filePath .. ".act"
+    sprPath = in_filePath .. ".spr"
+  end
+  local index = 1
+  local emotionType = nil
+  for argIdx,value in ipairs(arg) do
+    local isType = argIdx % 2 == 1
+    if isType == true then
+      emotionType = value
+    else
+      InsertOrderList(in_pack, emotionType)
+      InsertEmotionVarientListTable(in_pack, emotionType, index - 1, value, actPath, sprPath)
+      index = index + 1
+    end
+  end
+  -- DECOMPILER ERROR: 3 unprocessed JMP targets
+end
+
+InsertEmotionGroupInfo = function(in_pack, in_emotionType)
+  -- function num : 0_10
+  in_emotionType = ConvertEmotionTypeForClient(in_emotionType)
+  c_InsertEmotionGroup(in_pack, in_emotionType)
+end
+
+ConvertEmotionTypeForClient = function(in_emotionType)
+  -- function num : 0_11
+  return in_emotionType - 1
+end
+
+InsertEmotionMsgListTableForCustom = function(in_pack, in_emotionType, in_basicPackEmotionType)
+  -- function num : 0_12
+  local emotionType = ConvertEmotionTypeForClient(in_emotionType)
+  local basicType = ConvertEmotionTypeForClient(in_basicPackEmotionType)
+  c_InsertEmotionMsgListTableForCustom(in_pack, emotionType, basicType)
+end
+
+

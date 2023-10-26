@@ -1317,5 +1317,27 @@ SignBoardList = {
 {"icas_in", 81, 121, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
 , 
 {"icas_in", 169, 70, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
+, 
+{"t_garden", 156, 222, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
+, 
+{"t_garden", 97, 138, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
+, 
+{"t_garden", 91, 116, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
+, 
+{"t_garden", 144, 116, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp"}
+, 
+{"wolfvill", 167, 135, 5, IT_BMP, "유저인터페이스\\information\\over_store.bmp"}
+, 
+{"wolfvill", 164, 137, 10, IT_BMP, "item\\Ep18_Amethyst_Fragment.bmp"}
+, 
+{"wolfvill", 170, 131, 10, IT_BMP, "item\\Ep18_Amethyst_Fragment.bmp"}
+, 
+{"rebel_in", 100, 40, 5, IT_BMP, "item\\연두색나비날개.bmp"}
+, 
+{"sp_cor", 152, 158, 5, IT_BMP, "item\\갈색나비날개.bmp"}
+, 
+{"ba_in01", 87, 389, 5, IT_BMP, "item\\분홍색나비날개.bmp"}
+, 
+{"wolfvill", 164, 141, 5, IT_BMP, "item\\보라색나비날개.bmp"}
 }
 

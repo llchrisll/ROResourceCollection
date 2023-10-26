@@ -603,6 +603,10 @@ icecastle = {
 , 
 {name = "±êÅÐ ¹Î¹Ú", X = 64, Y = 224, TYPE = 5}
 }
+, 
+wolfvill = {
+{name = "»óÁ¡°ú Ã¢°í", X = 167, Y = 135, TYPE = 0}
+}
 }
 main = function()
   -- function num : 0_0

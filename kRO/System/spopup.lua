@@ -32,6 +32,10 @@ Description = {"전사자의 무덤에 진입하였습니다.", "텔레포테이션 관련 모든 스킬, 
 [7] = {uitype = SPUI_IDS.SPU_FLOATING_CHAT, textcolor = 16763904, 
 Description = {"바이오스피어 심층에 진입하였습니다.", "텔레포테이션 계열 스킬, 아이템이 금지 됩니다.", "일부 이동 관련 스킬이 금지 됩니다."}
 }
+, 
+[8] = {uitype = SPUI_IDS.SPU_FLOATING_CHAT, textcolor = 16763904, 
+Description = {"잊혀진 시간 영역에 진입하였습니다.", "텔레포테이션 계열 스킬, 아이템이 금지 됩니다.", "일부 이동 관련 스킬이 금지 됩니다."}
+}
 }
 main = function()
   -- function num : 0_0

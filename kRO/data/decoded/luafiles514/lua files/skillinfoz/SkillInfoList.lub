@@ -4,6 +4,202 @@
 -- params : ...
 -- function num : 0
 SKILL_INFO_LIST = {
+[SKID.NPC_TARGET_MARKER] = {"NPC_TARGET_MARKER"; SkillName = "타겟 마커", MaxLv = 7, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 3, y = 3}
+, 
+[2] = {x = 7, y = 7}
+, 
+[3] = {x = 11, y = 11}
+, 
+[4] = {x = 15, y = 15}
+, 
+[5] = {x = 19, y = 19}
+, 
+[6] = {x = 21, y = 21}
+, 
+[7] = {x = 27, y = 27}
+}
+}
+, 
+[SKID.NPC_AIMED_SHOWER] = {"NPC_AIMED_SHOWER"; SkillName = "에임드 샤워", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 27, y = 27}
+, 
+[2] = {x = 27, y = 27}
+, 
+[3] = {x = 27, y = 27}
+, 
+[4] = {x = 27, y = 27}
+, 
+[5] = {x = 27, y = 27}
+, 
+[6] = {x = 27, y = 27}
+, 
+[7] = {x = 27, y = 27}
+, 
+[8] = {x = 27, y = 27}
+, 
+[9] = {x = 27, y = 27}
+, 
+[10] = {x = 27, y = 27}
+}
+}
+, 
+[SKID.NPC_BLAZING_ERUPTION] = {"NPC_BLAZING_ERUPTION"; SkillName = "블레이징 이럽션", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 27, y = 27}
+, 
+[2] = {x = 27, y = 27}
+, 
+[3] = {x = 27, y = 27}
+, 
+[4] = {x = 27, y = 27}
+, 
+[5] = {x = 27, y = 27}
+, 
+[6] = {x = 27, y = 27}
+, 
+[7] = {x = 27, y = 27}
+, 
+[8] = {x = 27, y = 27}
+, 
+[9] = {x = 27, y = 27}
+, 
+[10] = {x = 27, y = 27}
+}
+}
+, 
+[SKID.NPC_BLOCK_SEAL] = {"NPC_BLOCK_SEAL"; SkillName = "봉인", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 27, y = 27}
+, 
+[2] = {x = 27, y = 27}
+, 
+[3] = {x = 27, y = 27}
+, 
+[4] = {x = 27, y = 27}
+, 
+[5] = {x = 27, y = 27}
+, 
+[6] = {x = 27, y = 27}
+, 
+[7] = {x = 27, y = 27}
+, 
+[8] = {x = 27, y = 27}
+, 
+[9] = {x = 27, y = 27}
+, 
+[10] = {x = 27, y = 27}
+}
+}
+, 
+[SKID.NPC_BLOCK_EXPLOSION] = {"NPC_BLOCK_EXPLOSION"; SkillName = "봉인 폭발", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 27, y = 27}
+, 
+[2] = {x = 27, y = 27}
+, 
+[3] = {x = 27, y = 27}
+, 
+[4] = {x = 27, y = 27}
+, 
+[5] = {x = 27, y = 27}
+, 
+[6] = {x = 27, y = 27}
+, 
+[7] = {x = 27, y = 27}
+, 
+[8] = {x = 27, y = 27}
+, 
+[9] = {x = 27, y = 27}
+, 
+[10] = {x = 27, y = 27}
+}
+}
+, 
+[SKID.NPC_FROST_FIELD] = {"NPC_FROST_FIELD"; SkillName = "프로스트 필드", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 27, y = 27}
+, 
+[2] = {x = 27, y = 27}
+, 
+[3] = {x = 27, y = 27}
+, 
+[4] = {x = 27, y = 27}
+, 
+[5] = {x = 27, y = 27}
+, 
+[6] = {x = 27, y = 27}
+, 
+[7] = {x = 27, y = 27}
+, 
+[8] = {x = 27, y = 27}
+, 
+[9] = {x = 27, y = 27}
+, 
+[10] = {x = 27, y = 27}
+}
+}
+, 
+[SKID.NPC_LIGHTNING_JUDGEMENT] = {"NPC_LIGHTNING_JUDGEMENT"; SkillName = "라이트닝 저지먼트", MaxLv = 10, 
+SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 27, y = 27}
+, 
+[2] = {x = 27, y = 27}
+, 
+[3] = {x = 27, y = 27}
+, 
+[4] = {x = 27, y = 27}
+, 
+[5] = {x = 27, y = 27}
+, 
+[6] = {x = 27, y = 27}
+, 
+[7] = {x = 27, y = 27}
+, 
+[8] = {x = 27, y = 27}
+, 
+[9] = {x = 27, y = 27}
+, 
+[10] = {x = 27, y = 27}
+}
+}
+, 
+[SKID.NPC_RESET_EFST] = {"NPC_RESET_EFST"; SkillName = "효과 해제", MaxLv = 1, 
+SpAmount = {0}
+, bSeperateLv = false, 
+AttackRange = {1}
+}
+, 
 [SKID.NPC_GROUNDDRIVE] = {"NPC_GROUNDDRIVE"; SkillName = "그라운드 드라이브", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
@@ -3522,6 +3718,28 @@ AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+, 
+SkillScale = {
+[1] = {x = 5, y = 5}
+, 
+[2] = {x = 11, y = 11}
+, 
+[3] = {x = 17, y = 17}
+, 
+[4] = {x = 23, y = 23}
+, 
+[5] = {x = 27, y = 27}
+, 
+[6] = {x = 27, y = 27}
+, 
+[7] = {x = 27, y = 27}
+, 
+[8] = {x = 27, y = 27}
+, 
+[9] = {x = 27, y = 27}
+, 
+[10] = {x = 27, y = 27}
+}
 }
 , 
 [SKID.ALL_INCCARRY] = {"ALL_INCCARRY"; SkillName = "소지량 증가R", MaxLv = 10, 
