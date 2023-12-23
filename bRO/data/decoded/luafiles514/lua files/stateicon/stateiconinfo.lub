@@ -5557,15 +5557,15 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"Ramo de Flores", COLOR_TITLE_BUFF}
+{"Festival", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
 {"Bônus de ESQV e E. Perfeita"}
 , 
-{"Reduz a conjuração variável"}
+{"Reduz Conj. Var."}
 , 
-{"Velocidade de ataque maior"}
+{"Bônus de Vel.Atq"}
 }
 }
 -- DECOMPILER ERROR at PC11516: Confused about usage of register: R0 in 'UnsetPending'
@@ -5951,7 +5951,7 @@ descript = {
 , 
 {"Dano físico e mágico contra"}
 , 
-{"todos os Tamanhos +5%."}
+{"Tamanhos + 5%."}
 }
 }
 -- DECOMPILER ERROR at PC12291: Confused about usage of register: R0 in 'UnsetPending'
@@ -6011,6 +6011,78 @@ descript = {
 {"%s", COLOR_TIME}
 , 
 {"Bônus de Dano Crítico."}
+}
+}
+-- DECOMPILER ERROR at PC12419: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Reflexo", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Permite usar"}
+, 
+{"Retaliação"}
+}
+}
+-- DECOMPILER ERROR at PC12446: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_BEEF_RIB_STEW] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Costelinha Grelhada", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Reduz conj. var."}
+, 
+{"e Custo de SP."}
+}
+}
+-- DECOMPILER ERROR at PC12473: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Costela Refogada", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Bônus de Vel.Atq."}
+, 
+{"Reduz Custo de SP."}
+}
+}
+-- DECOMPILER ERROR at PC12497: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ATK_POPCORN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Saboroso!", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATQ da arma +10%.."}
+}
+}
+-- DECOMPILER ERROR at PC12521: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_MATK_POPCORN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Delicioso!", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Dano mágico +10%."}
+}
+}
+-- DECOMPILER ERROR at PC12545: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Gostoso!", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Vel.atq. +10%."}
 }
 }
 

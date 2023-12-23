@@ -301,6 +301,434 @@
 
 	</moonlight>		
 
+	<DARK_ILLUSION2>				
+		<hungry>			
+			<feeding>	A praga da fome deve ser combatida. </feeding>
+			<dead>	Chegou o momento! Vou te guiar pelo vale da morte...!! </dead>
+			<danger>	Para evitar morrer, deseja fazer um pacto comigo?	</danger>
+			<stand>	Fico triste quando te vejo feliz. </stand>
+			<stand>	Odeio lugares ensolarados! Podemos ir para algum canto escuro? </stand>
+			<stand>	As trevas vivem dentro dos humanos.</stand>
+			<levelup>	Quando evolui, as trevas evoluem da mesma forma!! Mwahaha! </levelup>
+		</hungry>			
+		<bit_hungry>			
+			<feeding> A praga da fome deve ser combatida. </feeding>
+			<dead>	Chegou o momento! Vou te guiar pelo vale da morte...!! </dead>
+			<danger>	Para evitar morrer, deseja fazer um pacto comigo?	</danger>
+			<stand>	Fico triste quando te vejo feliz. </stand>
+			<stand>	Odeio lugares ensolarados! Podemos ir para algum canto escuro? </stand>
+			<stand>	As trevas vivem dentro dos humanos.</stand>
+			<levelup>	Quando evolui, as trevas evoluem da mesma forma!! Mwahaha! </levelup>
+		</bit_hungry>			
+		<noting>			
+			<feeding>	Evite que a praga da Fome retorne!	</feeding>
+			<dead>	Chegou o momento! Vou te guiar pelo vale da morte...!! </dead>
+			<danger>	Para evitar morrer, deseja fazer um pacto comigo?	</danger>
+			<stand>	Fico triste quando te vejo feliz. </stand>
+			<stand>	Odeio lugares ensolarados! Podemos ir para algum canto escuro? </stand>
+			<stand>	As trevas vivem dentro dos humanos.</stand>
+			<levelup>	Quando evolui, as trevas evoluem da mesma forma!! Mwahaha! </levelup>
+		</noting>			
+		<full>			
+			<feeding>	Barriga cheia vira oficina do diabo... </feeding>
+			<dead>	Chegou o momento! Vou te guiar pelo vale da morte...!! </dead>
+			<danger>	Para evitar morrer, deseja fazer um pacto comigo?	</danger>
+			<stand>	Fico triste quando te vejo feliz. </stand>
+			<stand>	Odeio lugares ensolarados! Podemos ir para algum canto escuro? </stand>
+			<stand>	As trevas vivem dentro dos humanos.</stand>
+			<levelup>	Quando evolui, as trevas evoluem da mesma forma!! Mwahaha! </levelup>
+		</full>			
+		<so_full>			
+			<feeding>	Como vou levitar se me sinto cheio? </feeding>
+			<dead>	Chegou o momento! Vou te guiar pelo vale da morte...!! </dead>
+			<danger>	Para evitar morrer, deseja fazer um pacto comigo?	</danger>
+			<stand>	Fico triste quando te vejo feliz. </stand>
+			<stand>	Odeio lugares ensolarados! Podemos ir para algum canto escuro? </stand>
+			<stand>	As trevas vivem dentro dos humanos.</stand>
+			<levelup>	Quando evolui, as trevas evoluem da mesma forma!! Mwahaha! </levelup>
+		</so_full>			
+	</DARK_ILLUSION2>	
+	<FARMILIAR>				
+		<hungry>			
+			<feeding>	Oba~ Oba~ Oba~ Agora posso voar mais alto! </feeding>
+			<dead>	Oh... Deitar nesse solo parece ser uma ideia ruim...!!	</dead>
+			<danger>	Meus sensores pressentem um perigo eminente...	</danger>
+			<stand>	Eu adoraria experimentar frutas novas, o que acha?	</stand>
+			<stand>	Sentiu vontade de beber sangue alguma vez?	</stand>
+			<stand>	Eu tenho sensibilidade aos barulhos... Fale baixo! </stand>
+			<levelup>	Yay! Vou bater as asas rapidamente para aplaudir!!	</levelup>
+		</hungry>			
+		<bit_hungry>			
+			<feeding>	Oba~ Oba~ Oba~ Agora posso voar mais alto! </feeding>
+			<dead>	Oh... Deitar nesse solo parece ser uma ideia ruim...!!	</dead>
+			<danger>	Meus sensores pressentem um perigo eminente...	</danger>
+			<stand>	Eu adoraria experimentar frutas novas, o que acha?	</stand>
+			<stand>	Sentiu vontade de beber sangue alguma vez?	</stand>
+			<stand>	Eu tenho sensibilidade aos barulhos... Fale baixo! </stand>
+			<levelup>	Yay! Vou bater as asas rapidamente para aplaudir!!	</levelup>
+		</bit_hungry>			
+		<noting>			
+			<feeding>	Que fruta colocaram nesse suco? </feeding>
+			<dead>	Oh... Deitar nesse solo parece ser uma ideia ruim...!!	</dead>
+			<danger>	Meus sensores pressentem um perigo eminente...	</danger>
+			<stand>	Eu adoraria experimentar frutas novas, o que acha?	</stand>
+			<stand>	Sentiu vontade de beber sangue alguma vez?	</stand>
+			<stand>	Eu tenho sensibilidade aos barulhos... Fale baixo! </stand>
+			<levelup>	Yay! Vou bater as asas rapidamente para aplaudir!!	</levelup>
+		</noting>			
+		<full>			
+			<feeding>	Urgh! Estou cheio demais para voar! </feeding>
+			<dead>	Oh... Deitar nesse solo parece ser uma ideia ruim...!!	</dead>
+			<danger>	Meus sensores pressentem um perigo eminente...	</danger>
+			<stand>	Eu adoraria experimentar frutas novas, o que acha?	</stand>
+			<stand>	Sentiu vontade de beber sangue alguma vez?	</stand>
+			<stand>	Eu tenho sensibilidade aos barulhos... Fale baixo! </stand>
+			<levelup>	Yay! Vou bater as asas rapidamente para aplaudir!!	</levelup>
+		</full>			
+		<so_full>			
+			<feeding>	Pare de me alimentar! Eu vou te morder se continuar! </feeding>
+			<dead>	Oh... Deitar nesse solo parece ser uma ideia ruim...!!	</dead>
+			<danger>	Meus sensores pressentem um perigo eminente...	</danger>
+			<stand>	Eu adoraria experimentar frutas novas, o que acha?	</stand>
+			<stand>	Sentiu vontade de beber sangue alguma vez?	</stand>
+			<stand>	Eu tenho sensibilidade aos barulhos... Fale baixo! </stand>
+			<levelup>	Yay! Vou bater as asas rapidamente para aplaudir!!	</levelup>
+		</so_full>						
+	</FARMILIAR>	
+	<WILD_ROSE3>
+		<hungry>
+			<feeding> Miau~ Eu estava com fome! Como sabia? </feeding>
+			<feeding> Miau~ Estava delicioso! </feeding>
+			<connect> Miau~! Quanto tempo! </connect>
+			<connect> Quero brincar antes de ir passear!! </connect>
+			<danger> *cheira* Hmm... parece... sangue!? </danger>
+			<danger> Miau... Estamos em perigo... </danger>
+			<dead> Miau~ Cochilar uma hora dessas?! </dead>
+			<dead> Miau! Tomou uma SURRA! </dead>
+			<stand> Vamos fazer algo divertido hoje~ </stand>
+			<stand> Que esse dia seja Miauvilhoso!~ </stand>
+			<stand> Alisa minha barriguinha? Hehehe... </stand>
+			<levelup> Miau! Que poder!! Vai evoluir mais?! </levelup>
+			<levelup> Miau~~ Vou cuspir meu pelo e te dar de presente! </levelup>
+			<levelup> Isso! Quanto mais poder, melhor a comida~ </levelup>
+			<levelup> Quando eu evoluir, quero me tornar um Eddga~ </levelup>
+			<perfor_1> Miaaaaau~~! </perfor_1>
+			<perfor_1> Ouvi falarem pspspsps pra mim!	</perfor_1>
+		</hungry>
+
+		<bit_hungry>
+			<feeding> Miau~ Eu estava com fome! Como sabia? </feeding>
+			<feeding> Miau~ Estava delicioso! </feeding>
+			<connect> Miau~! Quanto tempo! </connect>
+			<connect> Quero brincar antes de ir passear!! </connect>
+			<danger> *cheira* Hmm... parece... sangue!? </danger>
+			<danger> Miau... Estamos em perigo... </danger>
+			<dead> Miau~ Cochilar uma hora dessas?! </dead>
+			<dead> Miau! Tomou uma SURRA! </dead>
+			<stand> Vamos fazer algo divertido hoje~ </stand>
+			<stand> Que esse dia seja Miauvilhoso!~ </stand>
+			<stand> Alisa minha barriguinha? Hehehe... </stand>
+			<levelup> Miau! Que poder!! Vai evoluir mais?! </levelup>
+			<levelup> Miau~~ Vou cuspir meu pelo e te dar de presente! </levelup>
+			<levelup> Isso! Quanto mais poder, melhor a comida~ </levelup>
+			<levelup> Quando eu evoluir, quero me tornar um Eddga~ </levelup>
+			<perfor_1> Miaaaaau~~! </perfor_1>
+			<perfor_1> Ouvi falarem pspspsps pra mim!	</perfor_1>
+		</bit_hungry>
+
+		<noting>
+			<feeding> Perrrrrfeito! *ronrona* </feeding>
+			<feeding> O menu de hoje estava miaulicioso! </feeding>
+			<connect> Oi~ Quero carinho! </connect>
+			<connect> Eu estava no seu aguardo! Miaaau~</connect>
+			<danger> *cheira* Hmm... parece... sangue!? </danger>
+			<danger> Miau... Estamos em perigo... </danger>
+			<dead> Miau~ Cochilar uma hora dessas?! </dead>
+			<dead> Miau! Tomou uma SURRA! </dead>
+			<stand> Vamos fazer algo divertido hoje~ </stand>
+			<stand> Que esse dia seja Miauvilhoso!~ </stand>
+			<stand> Alisa minha barriguinha? Hehehe... </stand>
+			<levelup> Miau! Que poder!! Vai evoluir mais?! </levelup>
+			<levelup> Miau~~ Vou cuspir meu pelo e te dar de presente! </levelup>
+			<levelup> Isso! Quanto mais poder, melhor a comida~	</levelup>
+			<levelup> Quando eu evoluir, quero me tornar um Eddga~ </levelup>
+			<perfor_1> Miaaaaau~~! </perfor_1>
+			<perfor_1> Ouvi falarem pspspsps pra mim!	</perfor_1>
+		</noting>
+
+		<full>
+			<feeding> Delicioso! Eu estou ficando sem lugar na minha barriga para mais! </feeding>
+			<feeding> Modere na comida, por favor~ </feeding>
+			<connect> Oi~ Quero carinho! </connect>
+			<connect> Eu estava no seu aguardo! Miaaau~</connect>
+			<danger> *cheira* Hmm... parece... sangue!? </danger>
+			<danger> Miau... Estamos em perigo... </danger>
+			<dead> Miau~ Cochilar uma hora dessas?! </dead>
+			<dead> Miau! Tomou uma SURRA! </dead>
+			<stand> Vamos fazer algo divertido hoje~ </stand>
+			<stand> Que esse dia seja Miauvilhoso!~ </stand>
+			<stand> Alisa minha barriguinha? Hehehe... </stand>
+			<levelup> Miau! Que poder!! Vai evoluir mais?! </levelup>
+			<levelup> Miau~~ Vou cuspir meu pelo e te dar de presente! </levelup>
+			<levelup> Isso! Quanto mais poder, melhor a comida~	</levelup>
+			<levelup> Quando eu evoluir, quero me tornar um Eddga~ </levelup>
+			<perfor_1> Miaaaaau~~! </perfor_1>
+			<perfor_1> Ouvi falarem pspspsps pra mim!	</perfor_1>
+		</full>
+
+		<so_full>
+			<feeding> Urgh... minha barriga... encheu... </feeding>
+			<feeding> CHEGA DE COMIDA!!! </feeding>
+			<connect> Oi~ Quero carinho! </connect>
+			<connect> Eu estava no seu aguardo! Miaaau~</connect>
+			<danger> *cheira* Hmm... parece... sangue!? </danger>
+			<danger> Miau... Estamos em perigo... </danger>
+			<dead> Miau~ Cochilar uma hora dessas?! </dead>
+			<dead> Miau! Tomou uma SURRA! </dead>
+			<stand> Vamos fazer algo divertido hoje~ </stand>
+			<stand> Que esse dia seja Miauvilhoso!~ </stand>
+			<stand> Alisa minha barriguinha? Hehehe... </stand>
+			<levelup> Miau! Que poder!! Vai evoluir mais?! </levelup>
+			<levelup> Miau~~ Vou cuspir meu pelo e te dar de presente! </levelup>
+			<levelup> Isso! Quanto mais poder, melhor a comida~	</levelup>
+			<levelup> Quando eu evoluir, quero me tornar um Eddga~ </levelup>
+			<perfor_1> Miaaaaau~~! </perfor_1>
+			<perfor_1> Ouvi falarem pspspsps pra mim!	</perfor_1>
+		</so_full>
+	</WILD_ROSE3>
+	<BAPHOMET2>
+		<hungry>
+			<feeding>	... *relincha* ... 	</feeding>
+			<dead>		Criatura fraca.	</dead>
+			<stand>		Quer fazer um pacto comigo?	</stand>
+			<levelup>	Ainda incapaz de se igualar a mim.	</levelup>
+			<perfor_1>	Beeeh~~	</perfor_1>
+			<perfor_2>	Ops!	</perfor_2>
+			<perfor_3>	Mwahahaha!!!!!!	</perfor_3>
+		</hungry>
+		<bit_hungry>
+			<feeding>	Hmpf... Vale a pena devorar...	</feeding>
+			<dead>		Criatura fraca.	</dead>
+			<stand>		Vou levar todos daqui para o inferno.	</stand>
+			<levelup>	Ainda incapaz de se igualar a mim.	</levelup>
+			<perfor_1>	Beeeh~~	</perfor_1>
+			<perfor_2>	Ops!	</perfor_2>
+			<perfor_3>	Mwahahaha!!!!!!	</perfor_3>
+		</bit_hungry>
+		<noting>
+			<feeding>	Hmpf... Vale a pena devorar...	</feeding>
+			<dead>		Foi de vade retro.	</dead>
+			<stand>		Vou levar todos daqui para o inferno.	</stand>
+			<stand>		Diabo? Prefiro ser chamado de Capiroto, Tinhoso... 	</stand>
+			<levelup>	Ainda incapaz de se igualar a mim.	</levelup>
+			<perfor_1>	Beeeh~~	</perfor_1>
+			<perfor_2>	Ops!	</perfor_2>
+			<perfor_3>	Mwahahaha!!!!!!	</perfor_3>
+		</noting>
+		<full>
+			<feeding>	Chega de oferendas!! 	</feeding>
+			<dead>		Criatura fraca.	</dead>
+			<stand>		Vou levar todos daqui para o inferno.	</stand>
+			<stand>		Diabo? Prefiro ser chamado de Capiroto, Tinhoso... 	</stand>
+			<stand>		Existe apenas um Grande Bode... Eu.	</stand>
+			<levelup>	Ainda incapaz de se igualar a mim.	</levelup>
+			<perfor_1>	Beeeh~~	</perfor_1>
+			<perfor_2>	Ops!	</perfor_2>
+			<perfor_3>	Mwahahaha!!!!!!	</perfor_3>
+		</full>
+		<so_full>
+			<feeding>	Chega de oferendas!! 	</feeding>
+			<dead>		Criatura fraca.	</dead>
+			<stand>		Vou levar todos daqui para o inferno.	</stand>
+			<stand>		Diabo? Prefiro ser chamado de Capiroto, Tinhoso... 	</stand>
+			<stand>		Existe apenas um Grande Bode... Eu.	</stand>
+			<levelup>	Ainda incapaz de se igualar a mim.	</levelup>
+			<perfor_1>	Beeeh~~	</perfor_1>
+			<perfor_2>	Ops!	</perfor_2>
+			<perfor_3>	Mwahahaha!!!!!!	</perfor_3>
+		</so_full>
+	</BAPHOMET2>
+	<ILL_BAPHOMET_J>
+		<hungry>
+
+			<feeding>	Demorou muito para me alimentar, mestre!! TT.TT </feeding>
+			<dead>	Quero vingar sua morte, mas sou apenas um filhote... </dead>
+			<stand>	O CAOS precisa ser alimentado... TT.TT </stand>
+			<stand>	Acho que o CAOS... vai fugir... TT.TT </stand>
+			<levelup>	Evolua e ME ALIMENTE!!! </levelup>
+
+		</hungry>
+
+
+		<bit_hungry>
+
+			<feeding>	Demorou muito para me alimentar, mestre!! TT.TT </feeding>
+			<dead>	Quero vingar sua morte, mas sou apenas um filhote... </dead>
+			<stand>	O CAOS precisa ser alimentado... TT.TT </stand>
+			<stand>	Acho que o CAOS... vai fugir... TT.TT </stand>
+			<levelup>	Evolua e ME ALIMENTE!!! </levelup>
+
+		</bit_hungry>
+
+
+		<noting>
+
+			<feeding>	Mwahaha... gostou da minha risada maligna? </feeding>
+			<dead>	Ah... ceifaram sua alma! TT.TT </dead>
+			<stand>	Mestre! Deseja sentir um pouco do CAOS? </stand>
+			<stand>	Heheh~ Mente vazia, oficina do meu pai! </stand>
+			<levelup>	O filho do CAOS lhe parabeniza! </levelup>
+
+		</noting>
+
+
+		<full>
+
+			<feeding>	Mwahaha... gostou da minha risada maligna? </feeding>
+			<dead>	Ah... ceifaram sua alma! TT.TT </dead>
+			<stand>	Mestre! Deseja sentir um pouco do CAOS? </stand>
+			<stand>	Heheh~ Mente vazia, oficina do meu pai! </stand>
+			<levelup>	O filho do CAOS lhe parabeniza! </levelup>
+
+		</full>
+
+
+		<so_full>
+
+			<feeding>	*blurg* Posso vomitar em ti?! </feeding>
+			<dead>	Ah... ceifaram sua alma! TT.TT </dead>
+			<stand>	Heheh~ Mente vazia, oficina do meu pai!  </stand>
+			<stand>	Mestre! Deseja sentir um pouco do CAOS? </stand>
+			<levelup>	O filho do CAOS lhe parabeniza! </levelup>
+
+		</so_full>
+
+	</ILL_BAPHOMET_J>
+
+//noodle festival event
+<WANDERING_DUCK>
+<hungry>
+	<feeding>QUACK!!</feeding>
+	<feeding>QUACK! QUACK!!</feeding>
+	<hunting>Quack~</hunting>
+	<hunting>Quack? Quack!</hunting>
+	<danger>Quack! Quack! Quack!</danger>
+	<danger>Quack?!</danger>
+	<dead>Quack... Quack~</dead>
+	<dead>Quack... Quack?</dead>
+	<stand>Quack~ Quack, Quack~</stand>
+	<stand>A paz nao e uma opcao.</stand>
+	<stand>Quack?</stand>
+	<stand>Qua... Quack...</stand>
+	<connect>>QUACK?????</connect>
+	<connect>Quack...! Quack? Quack~</connect>
+	<levelup>Quack~ Quack! Quack!</levelup>
+	<levelup>Qu？ Quack... Quack...</levelup>
+	<perfor_1>Quack Quack~</perfor_1>
+	<perfor_1>Quack!</perfor_1>
+	<perfor_2>Quack~ xD</perfor_2>
+	<perfor_2>Quack!</perfor_2>
+</hungry>
+
+<bit_hungry>
+	<feeding>QUAAAAAAAAAAAAAAAAACK</feeding>
+	<feeding>Qua! Qua! Qua! Qua!</feeding>
+	<hunting>Quack? Meh...</hunting>
+	<hunting>Quack?~ </hunting>
+	<danger>Quack! Quaaaack!</danger>
+	<danger>QuackQuack! Quack!</danger>
+	<dead>Quack!!!</dead>
+	<dead>Quack..?</dead>
+	<stand>A paz nao e uma opcao.</stand>
+	<stand>Quack?</stand>
+	<stand>Quack.. Quack... Quack... Quack...</stand>
+	<stand>Quack? Qua~</stand>
+	<connect>QUACK?????</connect>
+	<connect>Quack...! Quack? Quack~</connect>
+	<levelup>Quack~ Quack! Quack!</levelup>
+	<levelup>Qu？ Quack... Quack...</levelup>
+	<perfor_1>Quack Quack~</perfor_1>
+	<perfor_1>Quack!</perfor_1>
+	<perfor_2>Quack~ xD</perfor_2>
+	<perfor_2>Quack!</perfor_2>
+</bit_hungry>
+
+<noting>
+	<feeding>QUACK!!</feeding>
+	<feeding>QUACK! QUACK!!</feeding>
+	<hunting>Quack~</hunting>
+	<hunting>Quack? Quack!</hunting>
+	<danger>Quack! Quack! Quack!</danger>
+	<danger>Quack?!</danger>
+	<dead>Quack!!!</dead>
+	<dead>Quack..?</dead>
+	<stand>A paz nao e uma opcao.</stand>
+	<stand>Quack?</stand>
+	<stand>Quack.. Quack... Quack... Quack...</stand>
+	<stand>Quack? Qua~</stand>
+	<connect>QUACK?????</connect>
+	<connect>Quack...! Quack? Quack~</connect>
+	<levelup>Quack~ Quack! Quack!</levelup>
+	<levelup>Qu？ Quack... Quack...</levelup>
+	<perfor_1>Quack Quack~</perfor_1>
+	<perfor_1>Quack!</perfor_1>
+	<perfor_2>Quack~ xD</perfor_2>
+	<perfor_2>Quack!</perfor_2>
+</noting>
+
+<full>
+	<feeding>QUAAAAAAAAAAAAAAAAACK</feeding>
+	<feeding>Qua! Qua! Qua! Qua!</feeding>
+	<hunting>Quack? Meh...</hunting>
+	<hunting>Quack?~</hunting>
+	<danger>Quack! Quaaaack!</danger>
+	<danger>QuackQuack! Quack!</danger>
+	<dead>Quack!!!</dead>
+	<dead>Quack..?</dead>
+	<stand>Ei! Eu sei falar~ E que prefiro fazer QUAC!!</stand>
+	<stand>A paz nao e uma opcao.</stand>
+	<stand>Quack...</stand>
+	<stand>Quack?</stand>
+	<stand>Quack.. Quack... Quack... Quack...</stand>
+	<stand>Quack? Qua~</stand>
+	<connect>QUACK?????</connect>
+	<connect>Quack...! Quack? Quack~</connect>
+	<levelup>Quack~ Quack! Quack!</levelup>
+	<levelup>Qu？ Quack... Quack..</levelup>
+	<perfor_1>Quack Quack~</perfor_1>
+	<perfor_1>Quack!</perfor_1>
+	<perfor_2>Quack~ xD</perfor_2>
+	<perfor_2>Quack!</perfor_2>
+</full>
+
+<so_full>
+	<feeding>QUAAAAAAAAAAAAAAAAACK</feeding>
+	<feeding>Qua! Qua! Qua! Qua!</feeding>
+	<hunting>Quack~</hunting>
+	<hunting>Quack? Quack!</hunting>
+	<danger>Quack! Quack! Quack!</danger>
+	<danger>Quack?!</danger>
+	<dead>Quack!!!</dead>
+	<dead>Quack..?</dead>
+	<stand>A paz nao e uma opcao.</stand>
+	<stand>Belo dia para cacar umas Patas, nao acha?</stand>
+	<stand>Ei! Eu sei falar~ E que prefiro fazer QUAC!!</stand>
+	<stand>Quack~ Quack, Quack~</stand>
+	<stand>Quack...</stand>
+	<stand>Quack?</stand>
+	<stand>Quack.. Quack... Quack... Quack...</stand>
+	<stand>Quack? Qua~</stand>
+	<connect>QUACK?????</connect>
+	<connect>Quack...! Quack? Quack~</connect>
+	<levelup>Quack~ Quack! Quack!</levelup>
+	<levelup>Qu？ Quack... Quack...</levelup>
+	<perfor_1>Quack Quack~</perfor_1>
+	<perfor_1>Quack!</perfor_1>
+	<perfor_2>Quack~ xD</perfor_2>
+	<perfor_2>Quack!</perfor_2>
+</so_full>
+</WANDERING_DUCK>
+
 //dimensional crack event
 
 	<wilow>				
@@ -586,7 +1014,7 @@
 			<feeding>	HAHAHA QUE DEL?IAAAAAA!	</feeding>
 			<dead>		Pat?ico...	</dead>
 			<stand>		CURVEM-SE AO SEU HER?!</stand>
-			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
+			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
 			<perfor_1>	Eu sou o her? que todos procuram!	</perfor_1>
 			<perfor_1>	N? contavam com a minha ast?ia! </perfor_1>
 			<perfor_2>	Quando alguma coisa d?errada quem voc?vai chamar?</perfor_2>
@@ -596,7 +1024,7 @@
 			<feeding>	HAHAHA QUE DEL?IAAAAAA!	</feeding>
 			<dead>		Pat?ico...	</dead>
 			<stand>		CURVEM-SE AO SEU HER?!</stand>
-			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
+			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
 			<perfor_1>	Eu sou o her? que todos procuram!	</perfor_1>
 			<perfor_1>	N? contavam com a minha ast?ia! </perfor_1>
 			<perfor_2>	Quando alguma coisa d?errada quem voc?vai chamar?</perfor_2>
@@ -606,7 +1034,7 @@
 			<feeding>	HAHAHA QUE DEL?IAAAAAA!	</feeding>
 			<dead>		Pat?ico...	</dead>
 			<stand>		CURVEM-SE AO SEU HER?!</stand>
-			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
+			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
 			<perfor_1>	Eu sou o her? que todos procuram!	</perfor_1>
 			<perfor_1>	N? contavam com a minha ast?ia! </perfor_1>
 			<perfor_2>	Quando alguma coisa d?errada quem voc?vai chamar?</perfor_2>
@@ -616,7 +1044,7 @@
 			<feeding>	CHEGA! ESTOU CHEIO!	</feeding>
 			<dead>		Pat?ico...	</dead>
 			<stand>		CURVEM-SE AO SEU HER?!</stand>
-			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
+			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
 			<perfor_1>	Eu sou o her? que todos procuram!	</perfor_1>
 			<perfor_1>	N? contavam com a minha ast?ia! </perfor_1>
 			<perfor_2>	Quando alguma coisa d?errada quem voc?vai chamar?</perfor_2>
@@ -626,7 +1054,7 @@
 			<feeding>	ORDENO QUE PARE!	</feeding>
 			<dead>		Pat?ico...	</dead>
 			<stand>		CURVEM-SE AO SEU HER?!</stand>
-			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
+			<levelup>	HAHAHAH!!! PARAB NS!!!	</levelup>
 			<perfor_1>	Eu sou o her? que todos procuram!	</perfor_1>
 			<perfor_1>	N? contavam com a minha ast?ia!	 </perfor_1>
 			<perfor_2>	Quando alguma coisa d?errada quem voc?vai chamar?</perfor_2>

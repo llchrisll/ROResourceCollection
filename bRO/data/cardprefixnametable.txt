@@ -1412,3 +1412,51 @@
 27296#da Arquearia#
 27297#da Luta#
 27298#do Wootan#
+//*****************************************************
+//---------------Update em 2023-09-19------------------
+//*****************************************************
+27025#Real#
+27334#do Bafomé#
+27335#do Filhote#
+27336#da Víbora#
+27337#da Brisa de Caça#
+27338#da Dupla Potência#
+27339#Fantasma#
+27340#do Duplo Crítico#
+27341#da Concha d'água#
+27342#da Terra Neutra#
+27343#dos Caóticos#
+//*****************************************************
+//---------------Update em 2023-10-17------------------
+//*****************************************************
+27346#de Muspell#
+27347#Montanhista#
+27348#do Nada#
+27349#da Barreira Infernal#
+27350#da Serpe#
+27351#da Cocatrice#
+27352#Dormente#
+27353#da Barreira Diabólica#
+27354#da Depravação#
+27355#do Depravado#
+27356#da Guarda Gelada#
+27357#da Imundície#
+27358#do Foragido#
+27359#Surfista#
+27360#Vulcanista#
+27361#do Andarilho#
+27362#da Majestade#
+27363#Imperdoável#
+//*****************************************************
+//---------------Update em 2023-10-31------------------
+//*****************************************************
+4642#do Escape#
+4643#da Ofensiva#
+4644#da Defensiva#
+4645#da Saúde#
+4646#do Híbrido#
+4647#Inesquecível#
+4648#Provocante#
+4649#Atacante#
+4650#Atordoante#
+4651#do Baixo Risco#

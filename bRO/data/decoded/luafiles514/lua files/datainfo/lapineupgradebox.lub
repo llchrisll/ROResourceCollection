@@ -448,6 +448,10 @@ TargetItems = {
 {"Up_OneSkyOneSun", 540010}
 , 
 {"Up_SoulWeight", 550015}
+, 
+{"Up_Freedom_Stick", 550081}
+, 
+{"Up_Blessed_Knife", 510071}
 }
 , NeedSource_String = "+9 Armas Primordiais"}
 , 
@@ -522,6 +526,10 @@ TargetItems = {
 {"Up_OneSkyOneSun", 540010}
 , 
 {"Up_SoulWeight", 550015}
+, 
+{"Up_Freedom_Stick", 550081}
+, 
+{"Up_Blessed_Knife", 510071}
 }
 , NeedSource_String = "+9 Armas Primordiais"}
 , 
@@ -701,6 +709,14 @@ TargetItems = {
 , 
 ILL_Piece_A = {ItemID = 100003, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"Taegoolyeon_IL", 21050}
+, 
+{"Bazerald_IL", 28762}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
 {"Spectral_Spear_IL", 26007}
 , 
 {"Staff_Of_Bordeaux_IL", 26109}
@@ -747,6 +763,14 @@ TargetItems = {
 , 
 ILL_Piece_B = {ItemID = 100004, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"Taegoolyeon_IL", 21050}
+, 
+{"Bazerald_IL", 28762}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
 {"Spectral_Spear_IL", 26007}
 , 
 {"Staff_Of_Bordeaux_IL", 26109}
@@ -879,6 +903,18 @@ TargetItems = {
 , 
 Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_Physical_Earring", 24018}
+, 
+{"S_Physical_Weapon", 24019}
+, 
+{"S_Physical_Pendant", 24020}
+, 
+{"S_Magical_Earring", 24021}
+, 
+{"S_Magical_Weapon", 24022}
+, 
+{"S_Magical_Pendant", 24023}
+, 
 {"S_Breezy_Armor", 24024}
 , 
 {"S_Healing_Weapon", 24033}
@@ -909,6 +945,122 @@ TargetItems = {
 , 
 {"S_Rapid_Pendant", 24047}
 , 
+{"S_Caster_Pendant", 24048}
+, 
+{"S_Spiritual_Weapon", 24078}
+, 
+{"S_Spiritual_Earring", 24079}
+, 
+{"S_Spiritual_Pendent", 24080}
+, 
+{"S_Malicious_Armor", 24081}
+, 
+{"S_Malicious_Shoes", 24082}
+, 
+{"S_Malicious_Shield", 24083}
+, 
+{"S_Gemstone_Armor", 24084}
+, 
+{"S_Gemstone_Shoes", 24085}
+, 
+{"S_Gemstone_Shield", 24086}
+, 
+{"S_Gemstone_Weapon", 24087}
+, 
+{"S_Gemstone_Earring", 24088}
+, 
+{"S_Gemstone_Pendent", 24089}
+, 
+{"S_Stability_Shield", 24090}
+, 
+{"S_Plasterer\'s_Armor", 24091}
+, 
+{"S_Plasterer\'s_Shoes", 24092}
+, 
+{"S_Insomniac_Armor", 24093}
+, 
+{"S_Insomniac_Shoes", 24094}
+, 
+{"S_Peerless_Armor", 24095}
+, 
+{"S_Peerless_Shoes", 24096}
+, 
+{"S_Adurate_Armor", 24097}
+, 
+{"S_Adurate_Shoes", 24098}
+, 
+{"Unfreez_Weapon_S", 24099}
+, 
+{"Unfreeze_Earing_S", 24100}
+, 
+{"Unfreeze_Pendent_S", 24101}
+, 
+{"Vitality_Earing_S", 24102}
+, 
+{"Vitality_Pendant_S", 24103}
+, 
+{"S_Neutral_Weapon", 24104}
+, 
+{"S_Neutral_Earring", 24105}
+, 
+{"S_Neutral_Pendent", 24106}
+, 
+{"S_Curse_Lift_Earring", 24107}
+, 
+{"S_Curse_Lift_Pendent", 24108}
+, 
+{"S_Caster_earring", 24109}
+, 
+{"S_Caster_Weapon", 24110}
+, 
+{"S_Greed_Armor", 24114}
+, 
+{"S_Greed_Shoes", 24115}
+, 
+{"S_Greed_Shield", 24116}
+, 
+{"S_Greed_Weapon", 24117}
+, 
+{"S_Greed_Earring", 24118}
+, 
+{"S_Greed_Pendant", 24119}
+, 
+{"S_Heal_Armor", 24120}
+, 
+{"S_Heal_Shoes", 24121}
+, 
+{"S_Heal_Shield", 24122}
+, 
+{"S_Heal_Weapon", 24123}
+, 
+{"S_Heal_Earring", 24124}
+, 
+{"S_Heal_Pendant", 24125}
+, 
+{"S_Hiding_Armor", 24126}
+, 
+{"S_Hiding_Shoes", 24127}
+, 
+{"S_Hiding_Shield", 24128}
+, 
+{"S_Hiding_Weapon", 24129}
+, 
+{"S_Hiding_Earring", 24130}
+, 
+{"S_Hiding_Pendant", 24131}
+, 
+{"S_Cloaking_Armor", 24132}
+, 
+{"S_Cloaking_Shoes", 24133}
+, 
+{"S_Cloaking_Shield", 24134}
+, 
+{"S_Cloaking_Weapon", 24135}
+, 
+{"S_Cloaking_Earring", 24136}
+, 
+{"S_Cloaking_Pendant", 24137}
+, 
 {"S_Teleport_Armor", 24138}
 , 
 {"S_Teleport_Shoes", 24139}
@@ -921,6 +1073,22 @@ TargetItems = {
 , 
 {"S_Teleport_Pendant", 24143}
 , 
+{"S_Steal_Armor", 24144}
+, 
+{"S_Steal_Shoes", 24145}
+, 
+{"S_Steal_Shield", 24146}
+, 
+{"S_Steal_Weapon", 24147}
+, 
+{"S_Steal_Earring", 24148}
+, 
+{"S_Steal_Pendant", 24149}
+, 
+{"S_Infinity_Earring", 24150}
+, 
+{"S_Infinity_Pendant", 24151}
+, 
 {"S_Solid_Weapon", 24152}
 , 
 {"S_Solid_Earring", 24153}
@@ -928,6 +1096,54 @@ TargetItems = {
 {"S_Immortal_Armor", 24154}
 , 
 {"S_Immortal_Pendant", 24155}
+, 
+{"S_Executioner_Weapon", 24156}
+, 
+{"S_Exorcist_Weapon", 24157}
+, 
+{"S_Hunting_Weapon", 24158}
+, 
+{"S_Insect_Net_Weapon", 24159}
+, 
+{"S_Fishing_Weapon", 24160}
+, 
+{"S_Dragon_Killer_Weapon", 24161}
+, 
+{"S_Corrupt_Weapon", 24162}
+, 
+{"S_Vibration_Weapon", 24163}
+, 
+{"S_Holy_Water_Weapon", 24164}
+, 
+{"S_Scissors_Weapon", 24165}
+, 
+{"S_Penetration_Earring", 24166}
+, 
+{"S_Penetration_Pendent", 24167}
+, 
+{"S_Tempest_Earring", 24168}
+, 
+{"S_Tempest_Pendent", 24169}
+, 
+{"S_M_Executioner_Weapon", 24170}
+, 
+{"S_M_Exorcist_Weapon", 24171}
+, 
+{"S_M_Hunting_Weapon", 24172}
+, 
+{"S_M_Insect_Net_Weapon", 24173}
+, 
+{"S_M_Fishing_Weapon", 24174}
+, 
+{"S_M_Dragon_K_Weapon", 24175}
+, 
+{"S_M_Corrupt_Weapon", 24176}
+, 
+{"S_M_Vibration_Weapon", 24177}
+, 
+{"S_M_Holy_Water_Weapon", 24178}
+, 
+{"S_M_Scissors_Weapon", 24179}
 , 
 {"S_Bearers_Armor", 24180}
 , 
@@ -969,57 +1185,13 @@ TargetItems = {
 , 
 {"S_EarthSpike_Armor", 24222}
 , 
-{"S_SuperNovice_Weapon", 24282}
+{"S_Force_Earring", 24225}
 , 
-{"S_Taekwon_Weapon", 24284}
+{"S_Force_Pendant", 24226}
 , 
-{"S_Taekwon_Shield", 24315}
+{"S_Spirit_Earring", 24229}
 , 
-{"S_SuperNovice_Shield", 24318}
-, 
-{"S_Sigrun_Armor", 24326}
-, 
-{"S_Sigrun_Shield", 24327}
-, 
-{"S_MagicCompose_Armor", 24334}
-, 
-{"S_AllMighty_Earring", 24339}
-, 
-{"S_AllMighty_Pendant", 24340}
-, 
-{"S_Tension_Weapon", 24360}
-, 
-{"S_Tension_Earring", 24361}
-, 
-{"S_Tension_Pendent", 24362}
-, 
-{"S_Elegant_Weapon", 24363}
-, 
-{"S_Elegant_Earring", 24364}
-, 
-{"S_Elegant_Pendent", 24365}
-, 
-{"S_Healing_Shield", 24366}
-, 
-{"S_Healing_Shoes", 24367}
-, 
-{"Sentimental_Weapone_S", 24380}
-, 
-{"Sentimental_Earring_S", 24381}
-, 
-{"Sentimental_Pendant_S", 24382}
-, 
-{"S_Super_Magic_Shield", 24616}
-, 
-{"S_Super_Magic_Armor", 24617}
-, 
-{"S_Super_Magic_Shoes", 24618}
-, 
-{"S_Super_Power_Weapon", 24619}
-, 
-{"S_Super_Power_Pendant", 24620}
-, 
-{"S_Super_Power_Earing", 24621}
+{"S_Spirit_Pendant", 24230}
 , 
 {"S_Swordman_earring", 24246}
 , 
@@ -1093,7 +1265,11 @@ TargetItems = {
 , 
 {"S_Dancer_Armor", 24281}
 , 
+{"S_SuperNovice_Weapon", 24282}
+, 
 {"S_Gunslinger_Weapon", 24283}
+, 
+{"S_Taekwon_Weapon", 24284}
 , 
 {"S_Ninja_Weapon", 24285}
 , 
@@ -1155,11 +1331,137 @@ TargetItems = {
 , 
 {"S_Ninja_Shield", 24314}
 , 
+{"S_Taekwon_Shield", 24315}
+, 
 {"S_DoramPhysical_Shield", 24316}
 , 
 {"S_DoramMagical_Shield", 24317}
 , 
+{"S_SuperNovice_Shield", 24318}
+, 
 {"S_Gunslinger_Shield", 24319}
+, 
+{"S2_Hasty_Shoes", 24320}
+, 
+{"S2_Gemstone_Earring", 24322}
+, 
+{"S2_Spiritual_Weapon", 24324}
+, 
+{"S2_Malicious_Armor", 24325}
+, 
+{"S_Sigrun_Armor", 24326}
+, 
+{"S_Sigrun_Shield", 24327}
+, 
+{"S2_Force_Ex_Weapon", 24328}
+, 
+{"S2_Spirit_M_E_Weapon", 24329}
+, 
+{"S_MagicCompose_Armor", 24334}
+, 
+{"S2_Gemstone_Weapon", 24335}
+, 
+{"S2_Gemstone_Shield", 24336}
+, 
+{"S_AllMighty_Earring", 24339}
+, 
+{"S_AllMighty_Pendant", 24340}
+, 
+{"S_Tempest_Shield", 24345}
+, 
+{"S_Tempest_Shoes", 24346}
+, 
+{"S_M_ExeHoly_Armor", 24347}
+, 
+{"S_M_ExoCorrupt_Armor", 24348}
+, 
+{"S_M_DragonVib_Armor", 24349}
+, 
+{"S_M_SciHunting_Armor", 24350}
+, 
+{"S_M_FishInsect_Armor", 24351}
+, 
+{"S_Tension_Weapon", 24360}
+, 
+{"S_Tension_Earring", 24361}
+, 
+{"S_Tension_Pendent", 24362}
+, 
+{"S_Elegant_Weapon", 24363}
+, 
+{"S_Elegant_Earring", 24364}
+, 
+{"S_Elegant_Pendent", 24365}
+, 
+{"S_Healing_Shield", 24366}
+, 
+{"S_Healing_Shoes", 24367}
+, 
+{"S_Penetration_Shoes", 24373}
+, 
+{"S_Penetration_Shield", 24374}
+, 
+{"S_ExeHoly_Armor", 24375}
+, 
+{"S_ExoCorrupt_Armor", 24376}
+, 
+{"S_DragonVib_Armor", 24377}
+, 
+{"S_SciHunting_Armor", 24378}
+, 
+{"S_FishInsect_Armor", 24379}
+, 
+{"Sentimental_Weapone_S", 24380}
+, 
+{"Sentimental_Earring_S", 24381}
+, 
+{"Sentimental_Pendant_S", 24382}
+, 
+{"S_Tempest_Weapon", 24423}
+, 
+{"S_Tempest_Armor", 24424}
+, 
+{"S_M_Exo_Co_Weapon", 24427}
+, 
+{"S_M_Viv_Dr_Weapon", 24428}
+, 
+{"S_M_Sci_Hu_Weapon", 24429}
+, 
+{"S_M_Fis_In_Weapon", 24430}
+, 
+{"S_M_Exe_Ho_Weapon", 24431}
+, 
+{"S_Penetration_Weapon", 24432}
+, 
+{"S_Penetration_Armor", 24433}
+, 
+{"S_Exe_Ho_Weapon", 24434}
+, 
+{"S_Fis_In_Weapon", 24435}
+, 
+{"S_Sci_Hu_Weapon", 24436}
+, 
+{"S_Viv_Dr_Weapon", 24437}
+, 
+{"S_Exo_Co_Weapon", 24438}
+, 
+{"S2_Plasterer\'s_Armor", 24352}
+, 
+{"S2_Insomniac_Shoes", 24353}
+, 
+{"S2_Peerless_Armor", 24354}
+, 
+{"S2_Adurate_Shoes", 24355}
+, 
+{"Unfreez_Weapon_S2", 24356}
+, 
+{"Vitality_Earing_S2", 24357}
+, 
+{"S2_Neutral_Weapon", 24358}
+, 
+{"S2_Curse_Lift_Pendent", 24359}
+, 
+{"S_Infinity_Weapon", 24386}
 , 
 {"S_Rebellion_Armor", 24402}
 , 
@@ -1188,6 +1490,62 @@ TargetItems = {
 {"S_Soul_Reaper_Armor", 24414}
 , 
 {"S_Soul_Reaper_Shoes", 24415}
+, 
+{"S_Hasty_Weapon", 24439}
+, 
+{"S_Super_Magic_Shield", 24616}
+, 
+{"S_Super_Magic_Armor", 24617}
+, 
+{"S_Super_Magic_Shoes", 24618}
+, 
+{"S_Super_Power_Weapon", 24619}
+, 
+{"S_Super_Power_Pendant", 24620}
+, 
+{"S_Super_Power_Earing", 24621}
+, 
+{"S_FullPene_Earring", 24661}
+, 
+{"S_FullPene_Pendant", 24662}
+, 
+{"S_FullPene_Armor", 24663}
+, 
+{"S_FullPene_Shoes", 24664}
+, 
+{"S_FullTemp_Earring", 24665}
+, 
+{"S_FullTemp_Shoes", 24666}
+, 
+{"S_FullTemp_Armor", 24667}
+, 
+{"S_FullTemp_Pendant", 24668}
+, 
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_EXP_Shield", 24683}
+, 
+{"S_AutoSpell_Shield", 24722}
+, 
+{"S_AutoSpell_Armor", 24723}
+, 
+{"S_AutoSpell_Shoes", 24724}
+, 
+{"S_AutoSpell_Weapon", 24725}
+, 
+{"S_AutoSpell_Pendant", 24726}
+, 
+{"S_AutoSpell_Earring", 24727}
 , 
 {"S_Thief_earring", 28391}
 , 
@@ -4850,6 +5208,708 @@ TargetItems = {
 {"Grace_Snovice_Robe", 450126}
 }
 , NeedSource_String = "Grácil Capa Física e Mágica"}
+, 
+OS_Weapon_Refine_Cube = {ItemID = 100321, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Beam_Claymore_OS", 21047}
+, 
+{"Meuchler_OS", 28038}
+, 
+{"Blasti_OS", 28136}
+, 
+{"Virtual_Bow_OS", 18178}
+, 
+{"MH_P89_OS", 18179}
+, 
+{"AC_B44_OS", 18180}
+, 
+{"HR_S55_OS", 28253}
+, 
+{"Burning_Knuckle_OS", 1862}
+, 
+{"Cannon_Rapier_OS", 13493}
+, 
+{"Saphir_Hall_OS", 16088}
+, 
+{"Ultio_Spes_OS", 16089}
+, 
+{"Rutilus_Stick_OS", 26151}
+, 
+{"ElectricFox_OS", 26164}
+, 
+{"Circuit_Board_OS", 28629}
+, 
+{"Kuroiro_OS", 28755}
+, 
+{"Boost_Lance_OS", 32019}
+}
+, NeedSource_String = "Arma OS"}
+, 
+Labyrinth_Box_IL = {ItemID = 100423, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Taegoolyeon_IL", 21050}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
+{"Bazerald_IL", 28762}
+, 
+{"Morpheus_Hood_IL", 19428}
+, 
+{"Morpheus_Shawl_IL", 20948}
+}
+, NeedSource_String = "Equipamento Ilusional"}
+, 
+S_Teddy_Labyrinth_IL = {ItemID = 100424, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Taegoolyeon_IL", 21050}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
+{"Bazerald_IL", 28762}
+, 
+{"Morpheus_Hood_IL", 19428}
+, 
+{"Morpheus_Shawl_IL", 20948}
+}
+, NeedSource_String = "Equipamento Ilusional"}
+, 
+Class_Sha_R_M_Melee = {ItemID = 100205, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Swordman_earring", 24246}
+, 
+{"S_Merchant_earring", 24247}
+, 
+{"S_Acolyte_earring", 24248}
+, 
+{"S_Magician_earring", 24249}
+, 
+{"S_Swordman_Pendant", 24250}
+, 
+{"S_Merchant_Pendant", 24251}
+, 
+{"S_Acolyte_Pendant", 24252}
+, 
+{"S_Thief_Pendant", 24253}
+, 
+{"S_Magician_Pendant", 24254}
+, 
+{"S_Archer_Pendant", 24255}
+, 
+{"S_Knight_Shoes", 24256}
+, 
+{"S_Crusader_Shoes", 24257}
+, 
+{"S_Blacksmith_Shoes", 24258}
+, 
+{"S_Alchemist_Shoes", 24259}
+, 
+{"S_Priest_Shoes", 24260}
+, 
+{"S_Monk_Shoes", 24261}
+, 
+{"S_Assassin_Shoes", 24262}
+, 
+{"S_Rogue_Shoes", 24263}
+, 
+{"S_Wizard_Shoes", 24264}
+, 
+{"S_Sage_Shoes", 24265}
+, 
+{"S_Hunter_Shoes", 24266}
+, 
+{"S_Bard_Shoes", 24267}
+, 
+{"S_Dancer_Shoes", 24268}
+, 
+{"S_Knight_Armor", 24269}
+, 
+{"S_Crusader_Armor", 24270}
+, 
+{"S_Blacksmith_Armor", 24271}
+, 
+{"S_Alchemist_Armor", 24272}
+, 
+{"S_Priest_Armor", 24273}
+, 
+{"S_Monk_Armor", 24274}
+, 
+{"S_Assassin_Armor", 24275}
+, 
+{"S_Rogue_Armor", 24276}
+, 
+{"S_Wizard_Armor", 24277}
+, 
+{"S_Sage_Armor", 24278}
+, 
+{"S_Hunter_Armor", 24279}
+, 
+{"S_Bard_Armor", 24280}
+, 
+{"S_Dancer_Armor", 24281}
+, 
+{"S_SuperNovice_Weapon", 24282}
+, 
+{"S_Gunslinger_Weapon", 24283}
+, 
+{"S_Taekwon_Weapon", 24284}
+, 
+{"S_Ninja_Weapon", 24285}
+, 
+{"S_DoramMagical_Weapon", 24286}
+, 
+{"S_DoramPhysical_Weapon", 24287}
+, 
+{"S_Runeknight_Weapon", 24288}
+, 
+{"S_Royalguard_Weapon", 24289}
+, 
+{"S_Mechanic_weapon", 24290}
+, 
+{"S_Genetic_Weapon", 24291}
+, 
+{"S_Archbishop_Weapon", 24292}
+, 
+{"S_Sura_weapon", 24293}
+, 
+{"S_Guillotine_Weapon", 24294}
+, 
+{"S_Shadowchaser_Weapon", 24295}
+, 
+{"S_Warlock_Weapon", 24296}
+, 
+{"S_Sorcerer_Weapon", 24297}
+, 
+{"S_Ranger_Weapon", 24298}
+, 
+{"S_Minstrel_Weapon", 24299}
+, 
+{"S_Wanderer_Weapon", 24300}
+, 
+{"S_Runeknight_Shield", 24301}
+, 
+{"S_Royalguard_Shield", 24302}
+, 
+{"S_Mechanic_Shield", 24303}
+, 
+{"S_Genetic_Shield", 24304}
+, 
+{"S_Archbishop_Shield", 24305}
+, 
+{"S_Sura_Shield", 24306}
+, 
+{"S_Guillotine_Shield", 24307}
+, 
+{"S_Shadowchaser_Shield", 24308}
+, 
+{"S_Warlock_Shield", 24309}
+, 
+{"S_Sorcerer_Shield", 24310}
+, 
+{"S_Ranger_Shield", 24311}
+, 
+{"S_Minstrel_Shield", 24312}
+, 
+{"S_Wanderer_Shield", 24313}
+, 
+{"S_Ninja_Shield", 24314}
+, 
+{"S_Taekwon_Shield", 24315}
+, 
+{"S_DoramPhysical_Shield", 24316}
+, 
+{"S_DoramMagical_Shield", 24317}
+, 
+{"S_SuperNovice_Shield", 24318}
+, 
+{"S_Gunslinger_Shield", 24319}
+, 
+{"S_Rebellion_Armor", 24402}
+, 
+{"S_Kagerou_Armor", 24403}
+, 
+{"S_Oboro_Armor", 24404}
+, 
+{"S_Rebellion_Shoes", 24405}
+, 
+{"S_Kagerou_Shoes", 24406}
+, 
+{"S_Oboro_Shoes", 24407}
+, 
+{"S_DoramPhysical_Armor", 24408}
+, 
+{"S_DoramPhysical_Shoes", 24409}
+, 
+{"S_DoramMagical_Armor", 24410}
+, 
+{"S_DoramMagical_Shoes", 24411}
+, 
+{"S_Star_Emperor_Armor", 24412}
+, 
+{"S_Star_Emperor_Shoes", 24413}
+, 
+{"S_Soul_Reaper_Armor", 24414}
+, 
+{"S_Soul_Reaper_Shoes", 24415}
+, 
+{"S_Thief_earring", 28391}
+, 
+{"S_Archer_earring", 28392}
+}
+, NeedSource_String = "Equipamentos Sombrios de Classe"}
+, 
+Class_Sha_R_M_Magic = {ItemID = 100206, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Swordman_earring", 24246}
+, 
+{"S_Merchant_earring", 24247}
+, 
+{"S_Acolyte_earring", 24248}
+, 
+{"S_Magician_earring", 24249}
+, 
+{"S_Swordman_Pendant", 24250}
+, 
+{"S_Merchant_Pendant", 24251}
+, 
+{"S_Acolyte_Pendant", 24252}
+, 
+{"S_Thief_Pendant", 24253}
+, 
+{"S_Magician_Pendant", 24254}
+, 
+{"S_Archer_Pendant", 24255}
+, 
+{"S_Knight_Shoes", 24256}
+, 
+{"S_Crusader_Shoes", 24257}
+, 
+{"S_Blacksmith_Shoes", 24258}
+, 
+{"S_Alchemist_Shoes", 24259}
+, 
+{"S_Priest_Shoes", 24260}
+, 
+{"S_Monk_Shoes", 24261}
+, 
+{"S_Assassin_Shoes", 24262}
+, 
+{"S_Rogue_Shoes", 24263}
+, 
+{"S_Wizard_Shoes", 24264}
+, 
+{"S_Sage_Shoes", 24265}
+, 
+{"S_Hunter_Shoes", 24266}
+, 
+{"S_Bard_Shoes", 24267}
+, 
+{"S_Dancer_Shoes", 24268}
+, 
+{"S_Knight_Armor", 24269}
+, 
+{"S_Crusader_Armor", 24270}
+, 
+{"S_Blacksmith_Armor", 24271}
+, 
+{"S_Alchemist_Armor", 24272}
+, 
+{"S_Priest_Armor", 24273}
+, 
+{"S_Monk_Armor", 24274}
+, 
+{"S_Assassin_Armor", 24275}
+, 
+{"S_Rogue_Armor", 24276}
+, 
+{"S_Wizard_Armor", 24277}
+, 
+{"S_Sage_Armor", 24278}
+, 
+{"S_Hunter_Armor", 24279}
+, 
+{"S_Bard_Armor", 24280}
+, 
+{"S_Dancer_Armor", 24281}
+, 
+{"S_SuperNovice_Weapon", 24282}
+, 
+{"S_Gunslinger_Weapon", 24283}
+, 
+{"S_Taekwon_Weapon", 24284}
+, 
+{"S_Ninja_Weapon", 24285}
+, 
+{"S_DoramMagical_Weapon", 24286}
+, 
+{"S_DoramPhysical_Weapon", 24287}
+, 
+{"S_Runeknight_Weapon", 24288}
+, 
+{"S_Royalguard_Weapon", 24289}
+, 
+{"S_Mechanic_weapon", 24290}
+, 
+{"S_Genetic_Weapon", 24291}
+, 
+{"S_Archbishop_Weapon", 24292}
+, 
+{"S_Sura_weapon", 24293}
+, 
+{"S_Guillotine_Weapon", 24294}
+, 
+{"S_Shadowchaser_Weapon", 24295}
+, 
+{"S_Warlock_Weapon", 24296}
+, 
+{"S_Sorcerer_Weapon", 24297}
+, 
+{"S_Ranger_Weapon", 24298}
+, 
+{"S_Minstrel_Weapon", 24299}
+, 
+{"S_Wanderer_Weapon", 24300}
+, 
+{"S_Runeknight_Shield", 24301}
+, 
+{"S_Royalguard_Shield", 24302}
+, 
+{"S_Mechanic_Shield", 24303}
+, 
+{"S_Genetic_Shield", 24304}
+, 
+{"S_Archbishop_Shield", 24305}
+, 
+{"S_Sura_Shield", 24306}
+, 
+{"S_Guillotine_Shield", 24307}
+, 
+{"S_Shadowchaser_Shield", 24308}
+, 
+{"S_Warlock_Shield", 24309}
+, 
+{"S_Sorcerer_Shield", 24310}
+, 
+{"S_Ranger_Shield", 24311}
+, 
+{"S_Minstrel_Shield", 24312}
+, 
+{"S_Wanderer_Shield", 24313}
+, 
+{"S_Ninja_Shield", 24314}
+, 
+{"S_Taekwon_Shield", 24315}
+, 
+{"S_DoramPhysical_Shield", 24316}
+, 
+{"S_DoramMagical_Shield", 24317}
+, 
+{"S_SuperNovice_Shield", 24318}
+, 
+{"S_Gunslinger_Shield", 24319}
+, 
+{"S_Rebellion_Armor", 24402}
+, 
+{"S_Kagerou_Armor", 24403}
+, 
+{"S_Oboro_Armor", 24404}
+, 
+{"S_Rebellion_Shoes", 24405}
+, 
+{"S_Kagerou_Shoes", 24406}
+, 
+{"S_Oboro_Shoes", 24407}
+, 
+{"S_DoramPhysical_Armor", 24408}
+, 
+{"S_DoramPhysical_Shoes", 24409}
+, 
+{"S_DoramMagical_Armor", 24410}
+, 
+{"S_DoramMagical_Shoes", 24411}
+, 
+{"S_Star_Emperor_Armor", 24412}
+, 
+{"S_Star_Emperor_Shoes", 24413}
+, 
+{"S_Soul_Reaper_Armor", 24414}
+, 
+{"S_Soul_Reaper_Shoes", 24415}
+, 
+{"S_Thief_earring", 28391}
+, 
+{"S_Archer_earring", 28392}
+}
+, NeedSource_String = "Equipamentos Sombrios de Classe"}
+, 
+Egir_Power_Box = {ItemID = 100466, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Egir_Helm_K", 19026}
+, 
+{"Egir_Armor_K", 15138}
+, 
+{"Egir_Shoes_K", 22059}
+, 
+{"Egir_Manteau_K", 20756}
+, 
+{"Egirnion_Helm", 400097}
+, 
+{"Egirnion_Armor", 450164}
+, 
+{"Egirnion_Manteau", 480083}
+, 
+{"Egirnion_Shoes", 470070}
+}
+, NeedSource_String = "Festival do Macarrão"}
+, 
+Egir_Magic_Box = {ItemID = 100467, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Egir_Helm_K", 19026}
+, 
+{"Egir_Armor_K", 15138}
+, 
+{"Egir_Shoes_K", 22059}
+, 
+{"Egir_Manteau_K", 20756}
+, 
+{"Egirnion_Helm", 400097}
+, 
+{"Egirnion_Armor", 450164}
+, 
+{"Egirnion_Manteau", 480083}
+, 
+{"Egirnion_Shoes", 470070}
+}
+, NeedSource_String = "Festival do Macarrão"}
+, 
+Magma_Essence = {ItemID = 23815, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 2, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Lava_Leather_Armor", 15378}
+, 
+{"Lava_Leather_Suits", 15379}
+, 
+{"Lava_Leather_Robe", 15380}
+}
+, NeedSource_String = "Armadura Magmática"}
+, 
+Mora_Refine_Cube_BR = {ItemID = 102589, NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Golden_Rod_Robe", 15025}
+, 
+{"Golden_Rod_Shoes", 2467}
+, 
+{"Aqua_Robe", 15026}
+, 
+{"Aqua_Shoes", 2468}
+, 
+{"Crimson_Robe", 15027}
+, 
+{"Crimson_Shoes", 2469}
+, 
+{"Forest_Robe", 15028}
+, 
+{"Forest_Shoes", 2470}
+, 
+{"Shoes_Of_Affection", 2471}
+, 
+{"Robe_Of_Affection", 15029}
+, 
+{"Shawl_Of_Affection", 2569}
+, 
+{"Shoes_Of_Judgement", 2472}
+, 
+{"Robe_Of_Judgement", 15030}
+, 
+{"Shawl_Of_Judgement", 2570}
+, 
+{"Bible_Of_Promise1", 2156}
+, 
+{"Wand_Of_Affection", 1657}
+, 
+{"Mace_Of_Judgement", 16013}
+, 
+{"Ur_Greave", 2475}
+, 
+{"Peuz_Greave", 2476}
+, 
+{"Ur_Manteau", 2574}
+, 
+{"Peuz_Manteau", 2575}
+, 
+{"Ur_Plate", 15036}
+, 
+{"Peuz_Plate", 15037}
+, 
+{"White_Wing_Boots", 2479}
+, 
+{"Black_Wing_Boots", 2480}
+, 
+{"White_Wing_Manteau", 2580}
+, 
+{"Black_Wing_Manteau", 2581}
+, 
+{"White_Wing_Suits", 15042}
+, 
+{"Black_Wing_Suits", 15043}
+, 
+{"Sabah_Shoes", 2477}
+, 
+{"Nab_Shoes", 2478}
+, 
+{"Sabah_Hood", 2577}
+, 
+{"Nab_Hood", 2578}
+, 
+{"Sabah_Cloth", 15038}
+, 
+{"Nab_Cloth", 15039}
+, 
+{"Wand_Of_Affection2", 1660}
+, 
+{"Mace_Of_Judgement2", 16018}
+, 
+{"Golden_Rod_Staff2", 2011}
+, 
+{"Aqua_Staff2", 2012}
+, 
+{"Crimson_Staff2", 2013}
+, 
+{"Forest_Staff2", 2014}
+, 
+{"Golden_Rod_Staff", 2007}
+, 
+{"Aqua_Staff", 2008}
+, 
+{"Crimson_Staff", 2009}
+, 
+{"Forest_Staff", 2010}
+}
+, NeedSource_String = "Relíquias de Mora"}
+, 
+Brasilis_Refine_Cube = {ItemID = 102590, NeedRefineMin = 0, NeedRefineMax = 8, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Polyhedron_Shoes", 22082}
+, 
+{"Blue_Dagger", 28720}
+, 
+{"Blue_Spear", 32000}
+, 
+{"Blue_Mace", 16057}
+, 
+{"Blue_Bow", 18144}
+, 
+{"Blue_Gun", 13139}
+, 
+{"Blue_Staff", 26104}
+, 
+{"Knit_Cap_Of_Water", 18942}
+, 
+{"BIgShield_Of_Water", 28908}
+, 
+{"Manteau_Of_Mistic_Froz", 20745}
+, 
+{"Overfishing_Dagger", 28727}
+, 
+{"Overfishing_Spear", 32006}
+, 
+{"Overfishing_Mace", 16066}
+, 
+{"Overfishing_Bow", 18152}
+, 
+{"Overfishing_Gun", 13143}
+, 
+{"Overfishing_Staff", 26113}
+, 
+{"10_Gallon_Hat_Of_Flame", 18940}
+, 
+{"Shield_Of_Flame", 28906}
+, 
+{"Manteau_Of_Flame_Heart", 20735}
+, 
+{"UnrivaledDagger", 28715}
+, 
+{"UnrivaledSpear", 1448}
+, 
+{"UnrivaledMace", 16055}
+, 
+{"UnrivaledBow", 18142}
+, 
+{"UnrivaledGun", 13133}
+, 
+{"UnrivaledStaff", 26102}
+, 
+{"Silk_Hat_Of_Earth", 18943}
+, 
+{"Shield_Of_Earth", 28909}
+, 
+{"Manteau_Great_Nature", 20747}
+, 
+{"Dagger_of_Trust", 28708}
+, 
+{"Spear_of_Trust", 1444}
+, 
+{"Mace_of_Trust", 16049}
+, 
+{"Bow_of_Trust", 18133}
+, 
+{"Gun_of_Trust", 13130}
+, 
+{"Staff_of_Trust", 1688}
+, 
+{"Hunting_Cap_Of_Gust", 18941}
+, 
+{"Shield_Of_Gust", 28907}
+, 
+{"Manteau_Of_Leafwind", 20734}
+}
+, NeedSource_String = "Festival de Brasilis"}
+, 
+Bio4_Refine_Cube_BR = {ItemID = 102591, NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Aztoe_Nail", 13069}
+, 
+{"Scarletto_Nail", 13070}
+, 
+{"Agent_Katar", 1290}
+, 
+{"Guillotine_Katar", 1291}
+, 
+{"Cannon_Spear", 1435}
+, 
+{"Giant_Lance", 1490}
+, 
+{"Ygnus_Stale", 1392}
+, 
+{"End_Sektura", 1393}
+, 
+{"Catapult", 18109}
+, 
+{"Big_CrossBow", 18110}
+, 
+{"Creeper_Bow", 18111}
+, 
+{"Recovery_Light", 1659}
+, 
+{"Bloody_Cross", 16017}
+, 
+{"Chilly_Spell_Book", 1584}
+, 
+{"Geffenia_Book_Water", 2161}
+, 
+{"Bible_Of_Promise2", 2162}
+, 
+{"Giant_Shield", 2160}
+, 
+{"Green_Operation_Coat", 15044}
+, 
+{"Salvage_Cape", 2582}
+, 
+{"Ancient_Gold_Deco", 18570}
+}
+, NeedSource_String = "Armas Biológicas"}
 }
 , serverMain = function()
   -- function num : 0_0

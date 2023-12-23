@@ -16,7 +16,7 @@ signName = {subTitle = "Labirinto das Valquírias", mainTitle = "Verdandi"}
 signName = {subTitle = "Labirinto das Valquírias", mainTitle = "Skuld"}
 , backgroundBmp = "noname"}
 , 
-["1@gl_he.rsw"] = {displayName = "Dimensão Contaminada de Glast Heim", notifyEnter = true, 
+["1@gl_he.rsw"] = {displayName = "Dimensão Contaminada", notifyEnter = true, 
 signName = {subTitle = "Dimensão Contaminada", mainTitle = "Glast Heim"}
 , backgroundBmp = "dungeon"}
 , 
@@ -41,11 +41,11 @@ signName = {mainTitle = "Glast Heim"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["mag_dun03.rsw"] = {displayName = "Caverna de Magma (3)", notifyEnter = true, 
-signName = {mainTitle = "Caverna de Magma (3)"}
-, backgroundBmp = "dungeon2_s2"}
+signName = {subTitle = "Caverna de Magma (3)", mainTitle = "Noggroad"}
+, backgroundBmp = "dungeon"}
 , 
-["gl_cas01_.rsw"] = {displayName = "Castelo Contaminado de Glast Heim (1)", notifyEnter = true, 
-signName = {subTitle = "Glast Heim", mainTitle = "Castelo Contaminado"}
+["gl_cas01_.rsw"] = {displayName = "Porão de Glast Heim", notifyEnter = true, 
+signName = {subTitle = "Glast Heim", mainTitle = "Porão do Castelo"}
 , backgroundBmp = "dungeon"}
 , 
 ["1@cor.rsw"] = {displayName = "Memorial COR", notifyEnter = true, 
@@ -238,8 +238,8 @@ signName = {subTitle = "Arredores de Rockridge (2)", mainTitle = "Deserto Kiwawa
 signName = {mainTitle = "Túmulo do Monarca"}
 , backgroundBmp = "dungeon"}
 , 
-["1@md_pay.rsw"] = {displayName = "Memorial Semanal", notifyEnter = true, 
-signName = {mainTitle = "Memorial Semanal"}
+["1@md_pay.rsw"] = {displayName = "Cripta", notifyEnter = true, 
+signName = {mainTitle = "Cripta"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["1@slw.rsw"] = {displayName = "Laboratório Werner", notifyEnter = true, 
@@ -434,8 +434,8 @@ signName = {mainTitle = "A Sala Final"}
 signName = {mainTitle = "Laboratório Central"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["lhz_dun_n.rsw"] = {displayName = "Laboratório de Somatologia (Pesadelo)", notifyEnter = true, 
-signName = {subTitle = "Laboratório de Somatologia", mainTitle = "Tumba da Honra"}
+["lhz_dun_n.rsw"] = {displayName = "Biolaboratório (Pesadelo)", notifyEnter = true, 
+signName = {subTitle = "Biolaboratório", mainTitle = "Tumba da Honra"}
 , backgroundBmp = "dungeon"}
 , 
 ["lhz_d_n2.rsw"] = {displayName = "Zona Segura da Tumba", notifyEnter = true, 
@@ -884,12 +884,12 @@ signName = {subTitle = "Feudo do Bosque Celestial", mainTitle = "Ventos Ancestra
 signName = {subTitle = "Feudo das Valquírias", mainTitle = "Caminho do Guerreiro"}
 , backgroundBmp = "dungeon"}
 , 
-["lhz_dun04.rsw"] = {displayName = "Laboratório de Somatologia (4)", notifyEnter = true, 
-signName = {mainTitle = "Lab. de Somatologia (4)"}
+["lhz_dun04.rsw"] = {displayName = "Biolaboratório (4)", notifyEnter = true, 
+signName = {mainTitle = "Biolaboratório (4)"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["que_lhz.rsw"] = {displayName = "Laboratório de Somatologia", notifyEnter = true, 
-signName = {mainTitle = "Laboratório de Somatologia"}
+["que_lhz.rsw"] = {displayName = "Biolaboratório", notifyEnter = true, 
+signName = {mainTitle = "Biolaboratório"}
 , backgroundBmp = "noname_s2"}
 , 
 ["1@lhz.rsw"] = {displayName = "Laboratório de Wolfchev", notifyEnter = true, 
@@ -1796,16 +1796,16 @@ signName = {mainTitle = "Aeroporto de Lighthalzen"}
 signName = {mainTitle = "Aeroplano"}
 , backgroundBmp = "village_s2"}
 , 
-["lhz_dun01.rsw"] = {displayName = "Laboratório de Somatologia (1)", notifyEnter = true, 
-signName = {mainTitle = "Lab. de Somatologia (1)"}
+["lhz_dun01.rsw"] = {displayName = "Biolaboratório (1)", notifyEnter = true, 
+signName = {mainTitle = "Biolaboratório (1)"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["lhz_dun02.rsw"] = {displayName = "Laboratório de Somatologia (2)", notifyEnter = true, 
-signName = {mainTitle = "Lab. de Somatologia (2)"}
+["lhz_dun02.rsw"] = {displayName = "Biolaboratório (2)", notifyEnter = true, 
+signName = {mainTitle = "Biolaboratório (2)"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["lhz_dun03.rsw"] = {displayName = "Laboratório de Somatologia (3)", notifyEnter = true, 
-signName = {mainTitle = "Lab. de Somatologia (3)"}
+["lhz_dun03.rsw"] = {displayName = "Biolaboratório (3)", notifyEnter = true, 
+signName = {mainTitle = "Biolaboratório (3)"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["lhz_fild01.rsw"] = {displayName = "Arredores de Lighthalzen (1)", notifyEnter = true, 

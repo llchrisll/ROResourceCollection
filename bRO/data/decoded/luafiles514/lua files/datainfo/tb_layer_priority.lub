@@ -61,11 +61,83 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_Alpha_Long_Pony] = {Default = 102, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_SR_Hair_GN] = {Default = 102, 
 Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_SR_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_BD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_SV] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Kururinpa_Hair_BD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Long_Wave_LBW] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl_WH] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_SV] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Skia_Two_Side_Up] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Valkyrie_Hair] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Chocolat_Rabbit_Hair] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Eternal_Rose] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_BD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_RBD] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_SV] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_RSV] = {Default = 102, 
 Direction = {}
 }
 , 

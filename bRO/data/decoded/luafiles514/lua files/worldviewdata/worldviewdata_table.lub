@@ -32,6 +32,8 @@ worldtable_main = {
 , 
 {2, "mag_dun02.rsw", 465, 45, 533, 79, WORLD_MSGID.MSI_2_MAG_DUN02, "110"}
 , 
+{2, "mag_dun03.rsw", 465, 45, 533, 79, WORLD_MSGID.MSI_2_MAG_DUN03, "110"}
+, 
 {3, "ice_dun01.rsw", 380, 121, 447, 155, WORLD_MSGID.MSI_3_ICE_DUN01, "100"}
 , 
 {3, "ice_dun02.rsw", 380, 121, 447, 155, WORLD_MSGID.MSI_3_ICE_DUN02, "105"}

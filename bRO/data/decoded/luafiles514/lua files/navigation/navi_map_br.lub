@@ -160,6 +160,8 @@ Navi_Map = {
 , 
 {"cmd_in02", "Casa em Comodo (2) ", 5003, 240, 240}
 , 
+{"com_d02_i", "Northern Cave Luanda", 5001, 300, 300}
+, 
 {"comodo", "Cidade Litorânea de Comodo ", 5001, 360, 380}
 , 
 {"conch_in", "Dentro do Conchiolina", 5003, 200, 120}
@@ -215,6 +217,8 @@ Navi_Map = {
 {"ecl_tdun04", "Topo da Torre de Bifröst ", 5001, 60, 60}
 , 
 {"eclage", "Eclage ", 5001, 400, 400}
+, 
+{"ein_d02_i", "Nasarian Empire", 5001, 300, 300}
 , 
 {"ein_dun01", "Calabouço da Mina ", 5001, 300, 300}
 , 
@@ -304,6 +308,8 @@ Navi_Map = {
 , 
 {"gl_cas01", "Glast Heim (1) ", 5001, 400, 400}
 , 
+{"gl_cas01_", "Porão de Glast Heim", 5001, 400, 400}
+, 
 {"gl_cas02", "Glast Heim (2) ", 5001, 200, 200}
 , 
 {"gl_cas02_", "Castelo Amaldiçoado ", 5001, 200, 200}
@@ -374,7 +380,7 @@ Navi_Map = {
 , 
 {"hu_fild02", "Campos de Hugel ", 5001, 400, 400}
 , 
-{"hu_fild03", "Campos de Hugel ", 5001, 400, 400}
+{"hu_fild03", "Campo de Caça", 5001, 400, 400}
 , 
 {"hu_fild04", "Campos de Hugel ", 5001, 400, 400}
 , 
@@ -387,6 +393,8 @@ Navi_Map = {
 {"hu_in01", "Interior de Hugel ", 5003, 400, 400}
 , 
 {"hugel", "Hugel, a Vila do Jardim Fantástico ", 5001, 268, 280}
+, 
+{"ice_d03_i", "Frozen Memory", 5001, 300, 300}
 , 
 {"ice_dun01", "Caverna de Gelo ", 5001, 300, 300}
 , 
@@ -573,6 +581,8 @@ Navi_Map = {
 {"mag_dun01", "Calabouço de Magma ", 5001, 260, 260}
 , 
 {"mag_dun02", "Calabouço de Magma ", 5001, 260, 260}
+, 
+{"mag_dun03", "Noggroad", 5001, 260, 260}
 , 
 {"mal_dun01", "Área de Coral Estrelado ", 5001, 260, 260}
 , 

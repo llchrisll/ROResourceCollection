@@ -5297,129 +5297,129 @@ Description = {"Faça 300 zenys com a ajuda da habilidade \'Superfaturar\' e \'De
 Description = {"Derrote 5 Salgueiros com a ajuda da habilidade \'Ataque Duplo\'. "}
 , Summary = "Derrote 5 Salgueiros "}
 , 
-[7128] = {Title = "Grupo Valhalla", 
-Description = {"Voc\234 começa seu treinamento com o Grupo Valhalla. Procure o cão falante em Sograt. "}
-, Summary = "Converse com o cão falante "}
+[7128] = {Title = "[É] Conhecer o Deserto", 
+Description = {"Voc\234 iniciou seu treinamento com o Grupo do Éden. Procure o <NAVI>[cão falante]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> em Sograt e diga ^4d4dffA Boya \233 demais^000000."}
+, Summary = "Fale com Mutt"}
 , 
-[7129] = {Title = "Grupo Valhalla", 
-Description = {"Proteja os habitantes. Derrote 10 Condores. "}
-, Summary = "Derrote 10 Condores "}
+[7129] = {Title = "[É] Conhecer o Deserto", 
+Description = {"Derrote 10 Condores \224 pedido de <NAVI>[Mutt]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> no deserto de Sograt."}
+, Summary = "10 Condor"}
 , 
-[7130] = {Title = "Grupo Valhalla", 
-Description = {"Proteja os habitantes. Derrote 10 Filhotes de Lobo do Deserto. "}
-, Summary = "Derrote 10 Filhotes de Lobo do Deserto "}
+[7130] = {Title = "[É] Conhecer o Deserto", 
+Description = {"Derrote 10 Filhotes de Lobo do Deserto \224 pedido de <NAVI>[Mutt]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> no deserto de Sograt."}
+, Summary = "10 Filhotes de Lobo"}
 , 
-[7131] = {Title = "Grupo Valhalla", 
-Description = {"Proteja os habitantes. Derrote 5 Escorpiões. "}
-, Summary = "Derrote 5 Escorpiões "}
+[7131] = {Title = "[É] Conhecer o Deserto", 
+Description = {"Derrote 5 Escorpiões \224 pedido de <NAVI>[Mutt]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> no deserto de Sograt"}
+, Summary = "5 Escorpiões"}
 , 
-[7132] = {Title = "Grupo Valhalla", 
-Description = {"Voc\234 completou todas as tarefas do cão falante. Fale com o membro do Grupo Valhalla. "}
-, Summary = "V\225 ao escritório do Grupo Valhalla "}
+[7132] = {Title = "[É] Conhecer o Deserto", 
+Description = {"Voc\234 completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Boya"}
 , 
-[7133] = {Title = "Grupo Valhalla", 
-Description = {"O membro do Grupo Valhalla pede que voc\234 converse com um gato falante perto do esgoto de Prontera. "}
-, Summary = "Procure o Gato Falante. "}
+[7133] = {Title = "[É] Conhecer os Esgotos", 
+Description = {"Voc\234 iniciou seu treinamento com o Grupo do Éden. Procure o <NAVI>[gato falante]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI> nos Esgotos de Prontera e diga ^4d4dffUm belo atum^000000."}
+, Summary = "Fale com Perrault"}
 , 
-[7134] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Besouros-Ladrões "}
-, Summary = "Derrote 10 Besouros-Ladrões "}
+[7134] = {Title = "[É] Conhecer os Esgotos", 
+Description = {"Derrote 10 Besouros-Ladrões \224 pedido de <NAVI>[Perrault]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI> nos esgotos."}
+, Summary = "10 Besouros-Ladrões"}
 , 
-[7135] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Tarous "}
-, Summary = "Derrote 10 Tarous "}
+[7135] = {Title = "[É] Conhecer os Esgotos", 
+Description = {"Derrote 10 Tarous \224 pedido de <NAVI>[Perrault]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI> nos esgotos."}
+, Summary = "10 Tarou"}
 , 
-[7136] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Familiares "}
-, Summary = "Derrote 10 Familiares "}
+[7136] = {Title = "[É] Conhecer os Esgotos", 
+Description = {"Derrote 10 Familiares \224 pedido de <NAVI>[Perrault]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI> nos esgotos."}
+, Summary = "10 Familiar"}
 , 
-[7137] = {Title = "Grupo Valhalla", 
-Description = {"Voc\234 completou todas as tarefas do gato falante. Fale com o membro do Grupo Valhalla. "}
-, Summary = "V\225 ao escritório do Grupo Valhalla "}
+[7137] = {Title = "[É] Conhecer os Esgotos", 
+Description = {"Voc\234 completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Boya"}
 , 
-[7138] = {Title = "Grupo Valhalla", 
-Description = {"Seu próximo desafio \233 em na Caverna de Payon. Procure um representante do Grupo Valhalla. "}
-, Summary = "Converse com o representante do Grupo Valhalla "}
+[7138] = {Title = "[É] Conhecer a Caverna", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Coral]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> na Vila dos Arqueiros."}
+, Summary = "Fale com Coral"}
 , 
-[7139] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 15 Esqueletos. "}
-, Summary = "Derrote 15 Esqueletos "}
+[7139] = {Title = "[É] Conhecer a Caverna", 
+Description = {"Derrote 15 Esqueletos \224 pedido de <NAVI>[Coral]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> na Vila dos Arqueiros."}
+, Summary = "15 Esqueletos"}
 , 
-[7140] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Poporings. "}
-, Summary = "Derrote 10 Poporings "}
+[7140] = {Title = "[É] Conhecer a Caverna", 
+Description = {"Derrote 10 Poporings \224 pedido de <NAVI>[Coral]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> na Vila dos Arqueiros."}
+, Summary = "10 Poporings"}
 , 
-[7141] = {Title = "Grupo Valhalla", 
-Description = {"Voc\234 completou todas as tarefas. Fale com o membro do Grupo Valhalla. "}
-, Summary = "V\225 ao escritório do Grupo Valhalla "}
+[7141] = {Title = "[É] Conhecer a Caverna", 
+Description = {"Voc\234 completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Boya"}
 , 
-[7142] = {Title = "Grupo Valhalla", 
-Description = {"Seu próximo desafio \233 no Formigueiro Infernal. Procure um representante do Grupo Valhalla. "}
-, Summary = "Converse com o representante do Grupo Valhalla "}
+[7142] = {Title = "[É] Conhecer o Formigueiro", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Clod]<INFO>anthell01,29,264,0,101,0</INFO></NAVI> no Formigueiro Infernal."}
+, Summary = "Fale com Clod"}
 , 
-[7143] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 15 Pierres. "}
-, Summary = "Derrote 15 Pierres "}
+[7143] = {Title = "[É] Conhecer o Formigueiro", 
+Description = {"Derrote 15 Pierres \224 pedido de <NAVI>[Clod]<INFO>anthell01,29,264,0,101,0</INFO></NAVI> no Formigueiro Infernal."}
+, Summary = "15 Pierres"}
 , 
-[7144] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 15 Andres. "}
-, Summary = "Derrote 15 Andres "}
+[7144] = {Title = "[É] Conhecer o Formigueiro", 
+Description = {"Derrote 15 Andres \224 pedido de <NAVI>[Clod]<INFO>anthell01,29,264,0,101,0</INFO></NAVI> no Formigueiro Infernal."}
+, Summary = "15 Andres"}
 , 
-[7145] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Vitatas. "}
-, Summary = "Derrote 10 Vitatas "}
+[7145] = {Title = "[É] Conhecer o Formigueiro", 
+Description = {"Derrote 10 Vitatas \224 pedido de <NAVI>[Clod]<INFO>anthell01,29,264,0,101,0</INFO></NAVI> no Formigueiro Infernal."}
+, Summary = "10 Vitatas"}
 , 
-[7146] = {Title = "Grupo Valhalla", 
-Description = {"Voc\234 completou todas as tarefas. Fale com o membro do Grupo Valhalla. "}
-, Summary = "V\225 ao escritório do Grupo Valhalla "}
+[7146] = {Title = "[É] Conhecer o Formigueiro", 
+Description = {"Voc\234 completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Boya"}
 , 
-[7147] = {Title = "Grupo Valhalla", 
-Description = {"Seu próximo desafio \233 na Vila Orc. Procure um representante do Grupo Valhalla. "}
-, Summary = "Converse com o representante do Grupo Valhalla "}
+[7147] = {Title = "[É] Conhecer a Vila dos Orcs", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "Fale com Absalom"}
 , 
-[7148] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Filhotes de Orc. "}
-, Summary = "Derrote 10 Filhotes de Orc "}
+[7148] = {Title = "[É] Conhecer a Vila dos Orcs", 
+Description = {"Derrote 10 Filhotes de Orc \224 pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "10 Filhotes de Orc"}
 , 
-[7149] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Guerreiros Orc. "}
-, Summary = "Derrote 10 Guerreiros Orc "}
+[7149] = {Title = "[É] Conhecer a Vila dos Orcs", 
+Description = {"Derrote 10 Guerreiros Orc \224 pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "10 Guerreiros Orc"}
 , 
-[7150] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Senhoras Orc. "}
-, Summary = "Derrote 10 Senhoras Orc "}
+[7150] = {Title = "[É] Conhecer a Vila dos Orcs", 
+Description = {"Derrote 10 Senhoras Orc \224 pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "10 Senhoras Orc"}
 , 
-[7151] = {Title = "Grupo Valhalla", 
-Description = {"Voc\234 completou todas as tarefas. Fale com o membro do Grupo Valhalla. "}
-, Summary = "V\225 ao escritório do Grupo Valhalla "}
+[7151] = {Title = "[É] Conhecer a Vila dos Orcs", 
+Description = {"Voc\234 completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Boya"}
 , 
-[7152] = {Title = "Grupo Valhalla", 
-Description = {"Seu próximo desafio \233 no Calabouço Orc. Procure um representante do Grupo Valhalla. "}
-, Summary = "Converse com o representante do Grupo Valhalla "}
+[7152] = {Title = "[É] Conhecer a Caverna Orc", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "Fale com Absalom"}
 , 
-[7153] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 20 Orcs Zumbis. "}
-, Summary = "Derrote 20 Orcs Zumbis "}
+[7153] = {Title = "[É] Conhecer a Caverna Orc", 
+Description = {"Derrote 20 Orcs Zumbis \224 pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "20 Orcs Zumbis"}
 , 
-[7154] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 20 Orcs Esqueletos. "}
-, Summary = "Derrote 20 Orcs Esqueletos "}
+[7154] = {Title = "[É] Conhecer a Caverna Orc", 
+Description = {"Derrote 20 Orcs Esqueletos \224 pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "20 Orcs Esqueletos"}
 , 
-[7155] = {Title = "Grupo Valhalla", 
-Description = {"Voc\234 completou todas as tarefas. Fale com o membro do Grupo Valhalla. "}
-, Summary = "V\225 ao escritório do Grupo Valhalla "}
+[7155] = {Title = "[É] Conhecer a Caverna Orc", 
+Description = {"Voc\234 completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Boya"}
 , 
-[7156] = {Title = "Grupo Valhalla", 
-Description = {"Seu próximo desafio \233 na Ilha Byalan. Procure um representante do Grupo Valhalla. "}
-, Summary = "Converse com o representante do Grupo Valhalla "}
+[7156] = {Title = "[É] Conhecer Byalan", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Callandiva]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> no Túnel Submarino da ilha Byalan."}
+, Summary = "Fale com Callandiva"}
 , 
-[7157] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 15 Tritões. "}
-, Summary = "Derrote 15 Tritões "}
+[7157] = {Title = "[É] Conhecer Byalan", 
+Description = {"Derrote 15 Tritões \224 pedido de <NAVI>[Callandiva]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> no Túnel Submarino da ilha Byalan."}
+, Summary = "15 Tritões"}
 , 
-[7158] = {Title = "Grupo Valhalla", 
-Description = {"Complete o desafio. Derrote 10 Stroufs. "}
-, Summary = "Derrote 10 Stroufs "}
+[7158] = {Title = "[É] Conhecer Byalan", 
+Description = {"Derrote 10 Stroufs \224 pedido de <NAVI>[Callandiva]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> no Túnel Submarino da ilha Byalan."}
+, Summary = "10 Stroufs"}
 , 
 [7159] = {Title = "Grupo Valhalla", 
 Description = {"Voc\234 completou todas as tarefas. Fale com o membro do Grupo Valhalla. "}
@@ -5637,117 +5637,117 @@ Description = {"Por acaso, voc\234 conhece alguém chamado Loki na floresta. Ele 
 Description = {"Loki estava procurando o Guardião Niddhog que estava andando sem rumo por entre a névoa.  Voc\234 concordou em se encontrar com ele na Vila de Mora assim que sair da floresta. "}
 , Summary = ""}
 , 
-[7214] = {Title = "Treino Avançado - Passo 1 - Comodo", 
-Description = {"Encontre o Membro do Grupo Éden em frente \224 entrada da caverna norte de Comodo "}
-, Summary = "Fale com Romeo "}
+[7214] = {Title = "[É] Treino em Comodo", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Romeo]<INFO>comodo,173,354,0,101,0</INFO></NAVI> na entrada da caverna norte de Comodo."}
+, Summary = "Fale com Romeo"}
 , 
-[7215] = {Title = "Treino Avançado - Passo 1.1 - Comodo", 
-Description = {"Romeo pediu para que voc\234 derrotasse Golems Estalactíticos. "}
-, Summary = "Derrote 3 Golem Estalactítico "}
+[7215] = {Title = "[É] Treino em Comodo", 
+Description = {"<NAVI>[Romeo]<INFO>comodo,173,354,0,101,0</INFO></NAVI> pediu para que voc\234 derrotasse Golens Estalactíticos."}
+, Summary = "3 Golem Estalactítico"}
 , 
-[7216] = {Title = "Treino Avançado - Passo 1.2 - Comodo", 
-Description = {"Agora que voc\234 j\225 sabe como \233, derrote mais Golems Estalactíticos e encontre Romeo no Pântano de Kalala. "}
-, Summary = "Derrote 10 Golem Estalactítico "}
+[7216] = {Title = "[É] Treino em Comodo", 
+Description = {"Agora que voc\234 j\225 sabe como \233, derrote mais 10 Golens Estalactíticos e encontre Romeo na <NAVI>[Floresta de Luluka]<INFO>um_fild01,34,280,0,101,0</INFO></NAVI>."}
+, Summary = "Na Floresta de Luluka"}
 , 
-[7217] = {Title = "Treino Avançado - Passo 1.3 - Comodo", 
-Description = {"Romeo te passou uma última missão. Derrote Guerreiros Wootan e Dríades para conseguir alguns itens "}
-, Summary = "Traga 5 Ombreiras, 7 Folhas Afiadas "}
+[7217] = {Title = "[É] Treino em Comodo", 
+Description = {"<NAVI>[Romeo]<INFO>um_fild01,34,280,0,101,0</INFO></NAVI> te passou uma última missão. Derrote Guerreiros Wootan e Dríades para conseguir alguns 5 Ombreiras e 7 Folhas Afiadas."}
+, Summary = "5 Ombreira, 7 Folha Afiada"}
 , 
-[7218] = {Title = "Reporte para Uru", 
-Description = {"Voc\234 completou este passo do Grupo Éden. Voc\234 pode voltar para a sede do Grupo Éden. "}
-, Summary = "Reporte para Uru "}
+[7218] = {Title = "[É] Treino em Comodo", 
+Description = {"Voc\234 completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Ur"}
 , 
-[7219] = {Title = "Treino Avançado - Passo 2 - Glast Heim", 
-Description = {"Procure o Oficial do Grupo Éden em Glast-heim. Johan est\225 em frente ao monastério de Glast Heim "}
-, Summary = "Encontre Johan "}
+[7219] = {Title = "[É] Treino em Glast Heim", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Johan]<INFO>glast_01,195,131,0,101,0</INFO></NAVI> na entrada da Abadia de Glast Heim."}
+, Summary = "Encontre Johan"}
 , 
-[7220] = {Title = "Treino Avançado - Passo 2.1 - Alma Penada", 
-Description = {"Johan pediu para voc\234 derrotar algumas \'Almas Penadas\' no primeiro andar do Monastério. "}
-, Summary = "Derrote 20 Almas Penadas "}
+[7220] = {Title = "[É] Treino em Glast Heim", 
+Description = {"<NAVI>[Johan]<INFO>glast_01,195,131,0,101,0</INFO></NAVI> pediu para voc\234 derrotar algumas \'Almas Penadas\' no primeiro andar da Abadia de Glast Heim."}
+, Summary = "20 Almas Penadas"}
 , 
-[7221] = {Title = "Treino Avançado - Passo 2.2 - Druida Malígno", 
-Description = {"H\225 alguns druidas no monastério. Entretanto, eles foram corrompidos e não salvam pessoas. Vamos d\225-los a paz eterna "}
-, Summary = "Derrote 10 Druida Malígno "}
+[7221] = {Title = "[É] Treino em Glast Heim", 
+Description = {"H\225 alguns druidas na Abadia. Entretanto, eles foram corrompidos e não salvam pessoas. Vamos atender o pedido de <NAVI>[Johan]<INFO>glast_01,195,131,0,101,0</INFO></NAVI>."}
+, Summary = "10 Druida Maligno"}
 , 
-[7222] = {Title = "Reporte para Uru", 
-Description = {"Johan informou que a missão foi completa. Voc\234 deve voltar para o Grupo Éden. "}
-, Summary = "Reporte para Uru "}
+[7222] = {Title = "[É] Treino em Glast Heim", 
+Description = {"Voc\234 completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Ur"}
 , 
-[7223] = {Title = "Treino Avançado - Passo 3 - Einbroch", 
-Description = {"Voc\234 deve encontrar o Membro do Grupo Éden, Giren, ao sul de Einbroch para sua próxima missão. "}
-, Summary = "Fale com Giren "}
+[7223] = {Title = "[É] Treino em Einbroch", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> ao sul de Einbroch."}
+, Summary = "Fale com Girhen"}
 , 
-[7224] = {Title = "Treino Avançado - Passo 3.1 - Porcellio", 
-Description = {"Giren, um cara muito relaxado, pediu para voc\234 caçar alguns Porcellios. "}
-, Summary = "Derrote 30 Porcellios "}
+[7224] = {Title = "[É] Treino em Einbroch", 
+Description = {"<NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI>, um cara muito relaxado, pediu para voc\234 caçar alguns Porcellios."}
+, Summary = "30 Porcellios"}
 , 
-[7225] = {Title = "Treino Avançado - Passo 3.2 - Nuvem Tóxica", 
-Description = {"Os cidadãos de Einbroch pedira para derrotar Nuvens Tóxicas, mas Giren não deu a mínima. "}
-, Summary = "Não precisa derrotar Nuvem Tóxica "}
+[7225] = {Title = "[É] Treino em Einbroch", 
+Description = {"Os cidadãos de Einbroch pediram para derrotar Nuvens Tóxicas, mas <NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> não deu a mínima."}
+, Summary = "Ignore a Nuvem Tóxica"}
 , 
-[7226] = {Title = "Treino Avançado - Passo 3.3 - Nuvem Venenosa", 
-Description = {"Essa missão \233 um pedido de 100% dos cidadãos de Einbroch. "}
-, Summary = "Derrote 30 Nuvens Venenosas "}
+[7226] = {Title = "[É] Treino em Einbroch", 
+Description = {"Essa missão \233 um pedido de 100% dos cidadãos de Einbroch, mas reporte para <NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> quando terminar."}
+, Summary = "30 Nuvens Venenosas"}
 , 
-[7227] = {Title = "Treino Avançado - Passo 3.4 - Nuvem Venenosa", 
-Description = {"Um cidadão pediu, mas \233 muito importante. Alguns Ursinhos podem causar o caos. Giren pediu para ter cuidado com esse poderoso inimigo. "}
-, Summary = "Derrote 5 Ursinhos "}
+[7227] = {Title = "[É] Treino em Einbroch", 
+Description = {"Um cidadão pediu e \233 muito importante. Alguns Ursinhos podem causar o caos. <NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> pediu para ter cuidado com esse poderoso inimigo."}
+, Summary = "5 Ursinhos"}
 , 
-[7228] = {Title = "Reporte para Uru", 
-Description = {"Missão completa. Volte ao Grupo Éden. "}
-, Summary = "Reporte para Uru "}
+[7228] = {Title = "[É] Treino em Einbroch", 
+Description = {"Voc\234 completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Ur"}
 , 
-[7229] = {Title = "Treino Avançado - Passo 4 - Caverna de Gelo", 
-Description = {"A missão continua na Caverna de Gelo localizada ao Norte de Rachel. Procure por Naomi na entrada da Caverna. "}
-, Summary = "Fale com Naomi "}
+[7229] = {Title = "[É] Treino na Caverna de Gelo", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Neomi]<INFO>ice_dun01,154,13,0,101,0</INFO></NAVI> na Caverna de Gelo."}
+, Summary = "Fale com Neomi"}
 , 
-[7230] = {Title = "Treino Avançado - Passo 4.1 - Siromas", 
-Description = {"Depois de tudo, esta era uma missão que refletia os pedidos do aldeões. Vamos derrotar mais alguns Siromas que estão atrapalhando a coleta de gelo. "}
-, Summary = "Derrote 30 Siromas "}
+[7230] = {Title = "[É] Treino na Caverna de Gelo", 
+Description = {"Esta \233 uma missão de <NAVI>[Neomi]<INFO>ice_dun01,154,13,0,101,0</INFO></NAVI>. Vamos derrotar alguns Siromas que estão atrapalhando a coleta de gelo."}
+, Summary = "30 Siromas"}
 , 
-[7231] = {Title = "Treino Avançado - Passo 4.2 - Siromas de novo", 
-Description = {"Voc\234 precisa derrotar Siromas novamente para Naomi. Ela planeja fazer Lama Gelada com 30 Cubos de Gelo, 1 Molho Doce e 1 Leite. "}
-, Summary = "Derrote 30 Siromas e recolha o material para fazer Raspadinha "}
+[7231] = {Title = "[É] Treino na Caverna de Gelo", 
+Description = {"Voc\234 precisa derrotar Siromas novamente para <NAVI>[Neomi]<INFO>ice_dun01,154,13,0,101,0</INFO></NAVI>. Ela também precisa de 30 Cubos de Gelo, 1 Molho Doce e 1 Leite."}
+, Summary = "Cubos de Gelo, Molho Doce e Leite"}
 , 
-[7232] = {Title = "Reporte para Uru", 
-Description = {"Voc\234 completou a missão. Est\225 na hora de voltar ao Grupo Éden. "}
-, Summary = "Reporte para Uru "}
+[7232] = {Title = "[É] Treino na Caverna de Gelo", 
+Description = {"Voc\234 completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Ur"}
 , 
-[7233] = {Title = "Treino Avançado - Passo 5 - Ash Vacuum", 
-Description = {"Uru pediu para que voc\234 encontre Magret no Acampamento da Expedição da Aliança em Ash Vacuum. "}
-, Summary = "Encontre Magret "}
+[7233] = {Title = "[É] Treino em Ash Vacuum", 
+Description = {"Voc\234 iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Magret]<INFO>mid_camp,212,229,0,101,0</INFO></NAVI> no Acampamento em Ash Vacuum."}
+, Summary = "Fale com Magret"}
 , 
-[7234] = {Title = "Treino Avançado - Passo 5.1 - Pedido de Magret", 
-Description = {"Magret precisa encontrar seus colegas Miru e Mineh. Encontre Miru a oeste e Mine a leste do acampamento. V\225 primeiro at\233 Miru. "}
-, Summary = "Encontre Miru e Mine "}
+[7234] = {Title = "[É] Treino em Ash Vacuum", 
+Description = {"<NAVI>[Magret]<INFO>mid_camp,212,229,0,101,0</INFO></NAVI> precisa encontrar seus colegas Miru e Mineh. Encontre Miru a oeste e Mine a leste do acampamento. V\225 primeiro at\233 <NAVI>[Miru]<INFO>man_fild01,43,234,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Miru"}
 , 
-[7235] = {Title = "Treino Avançado - Passo 5.1 - As Razões de Miru", 
-Description = {"Os gêmeos Miru e Mineh estão brigado e querem provar que estão certos ao seu modo. Miru pediu para que voc\234 derrotasse uma Nephentes. "}
-, Summary = "Derrote uma Nephentes "}
+[7235] = {Title = "[É] Treino em Ash Vacuum", 
+Description = {"Os gêmeos Miru e Mineh estão brigado e querem provar que estão certos ao seu modo. <NAVI>[Miru]<INFO>man_fild01,43,234,0,101,0</INFO></NAVI> pediu para que voc\234 derrotasse uma Nephentes."}
+, Summary = "1 Nephentes"}
 , 
-[7236] = {Title = "Treino Avançado - Passo 5.2 - As Razões de Mineh", 
-Description = {"Mine pediu ajuda pra derrotar Pinguiculas. Voc\234 precisar\225 derrotar 5 delas. "}
-, Summary = "Derrote 5 Pinguiculas "}
+[7236] = {Title = "[É] Treino em Ash Vacuum", 
+Description = {"<NAVI>[Mineh]<INFO>spl_fild02,377,149,0,101,0</INFO></NAVI> pediu ajuda pra derrotar Pinguiculas. Voc\234 precisar\225 derrotar 5 delas."}
+, Summary = "5 Pinguiculas"}
 , 
-[7237] = {Title = "Reporte para Uru", 
-Description = {"Magrot pediu discrição sobre o caso de Miru e Mineh. Reporte apenas o necessário para Uru. "}
-, Summary = "Reporte para Uru "}
+[7237] = {Title = "[É] Treino em Ash Vacuum", 
+Description = {"Voc\234 completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."}
+, Summary = "Fale com Ur"}
 , 
-[7238] = {Title = "Recado para Thorn (Fácil)", 
-Description = {"Voc\234 tem um recado para Thorn, o exímio ferreiro do Grupo Éden. Traga o que ele pediu para seu objetivo. "}
-, Summary = "20 Minério de Ferro, 10 Ferro "}
+[7238] = {Title = "[É] Pedido Fácil de Torhen", 
+Description = {"O <NAVI>[Ferreiro Torhen]<INFO>moc_para01,111,83,0,101,0</INFO></NAVI> s\243 encantar\225 seus equipamentos se trouxer 20 Minérios de Ferro e 10 Ferros. Esse pedido \233 fácil porque seu nível est\225 entre 60 a 79."}
+, Summary = "10 Ferro, 20 Minério de Ferro"}
 , 
-[7239] = {Title = "Recado para Thorn (Normal)", 
-Description = {"Um recado para Thorn, o ferreiro do Grupo Éden. Traga o que ele pediu para seu objetivo .A melhor alternativa \233 derrotando Minérios! "}
-, Summary = "Traga 20 Placa de Ferro Usada "}
+[7239] = {Title = "[É] Pedido Difícil de Torhen", 
+Description = {"O <NAVI>[Ferreiro Torhen]<INFO>moc_para01,111,83,0,101,0</INFO></NAVI> s\243 encantar\225 seus equipamentos se trouxer 20 Placas de Ferro Usada. Esse pedido \233 difícil porque seu nível acima do 80."}
+, Summary = "20 Placa de Ferro Usada"}
 , 
-[7240] = {Title = "A Garantia de Thorn para equipamentos", 
-Description = {"Como recompensa pela missão, Thorn prometeu encantar um dos seus Equipamentos do Grupo Éden. Voc\234 pode encantar a Capa II do Grupo Éden, Armadura do Grupo Éden ou Botas IV do Grupo Éden. O encantamento ser\225 aleatório. "}
-, Summary = ""}
+[7240] = {Title = "[É] Pedido de Torhen", 
+Description = {"Como recompensa pela missão, <NAVI>[Ferreiro Torhen]<INFO>moc_para01,111,83,0,101,0</INFO></NAVI> prometeu encantar um dos seus Equipamentos do Grupo Éden. O encantamento ser\225 aleatório."}
+, Summary = "Fale com Torhen"}
 , 
-[7241] = {Title = "Recado para Thorn", 
-Description = {"Thorn parece não precisar de mais nada. Visite-o amanh\227. "}
-, Summary = ""}
+[7241] = {Title = "[É] Pedido de Torhen", 
+Description = {"Thorn parece não precisar de mais nada. Visite-o amanh\227."}
+, Summary = "Volte amanh\227"}
 , 
 [7242] = {Title = "Brincar com o gatinho", 
 Description = {"A solicitação de Rato, um marinheiro gato especialista, em Malangdo. Ele se preocupa com os gatinhos, então, te pediu para encontr\225-los e brincar com eles. V\225 encontrar os gatinhos. Eles são Rosy, a branca, Roku, o preto e Charo, o dourado. "}
@@ -12029,129 +12029,167 @@ Description = {"Passando por Ajustes"}
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[11498] = {Title = "Jakk e os Jakks", 
-Description = {"Voc\234 foi acordado pelas vozes sussurrantes de fantasmas. Voc\234 se encontra em Niflheim, a cidade dos mortos. Vamos ouvir o que os fantasmas tem a dizer."}
+[11498] = {Title = "Halloween", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 se encontra em Niflheim, a cidade dos mortos. Vamos ouvir o que o <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI> tem a dizer."}
 , Summary = "Fale com Hororong"}
 , 
-[11499] = {Title = "Jakk e os Jakks", 
-Description = {"Eles disseram que o Jakk da praça pode saber de algo. Vamos perguntar para o Jakk da praça."}
+[11499] = {Title = "Halloween", IconName = "ico_ev.bmp", 
+Description = {"Eles disseram que o Jakk da praça pode saber de algo. Vamos perguntar para o <NAVI>[Jakk]<INFO>niflheim,187,190,0,101,0</INFO></NAVI> da praça central."}
 , Summary = "Fale com Jakk"}
 , 
-[11500] = {Title = "Jakk e os Jakks", 
-Description = {"Voc\234 ouviu sobre o lugar onde Jakk costumava ficar. Vamos voltar para Hooroorong."}
-, Summary = "Fale com Hooroorong"}
+[11500] = {Title = "Halloween", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 ouviu sobre o lugar onde Jakk costumava ficar. Vamos voltar para <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Hororong"}
 , 
-[11501] = {Title = "Jakk e os Jakks", 
-Description = {"Em algum lugar dos campos e das masmorras, capture 10 Jakks fugitivos. Traga 10 Decorações de Abóbora e 20 Ramos Brancos Finos para Hororong. Eles são pegos ao capturar os Jakks."}
-, Summary = "Leve Jakks para Niflheim"}
+[11501] = {Title = "Halloween: Jakk e os Jakks", IconName = "ico_ev.bmp", 
+Description = {"Elimine 10 Jakks Fugitivos e traga 10 <ITEM>[Decoração de Abóbora]<INFO>25421</INFO></ITEM> e 20 <ITEM>[Ramos Brancos Finos]<INFO>25422</INFO></ITEM> que caem ao derrot\225-los. Com tudo pronto, volte ao <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
 , 
-[11502] = {Title = "Jakk e os Jakks", 
+RewardItemList = {
+{ItemID = 11605, ItemNum = 30}
+, 
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Colete os itens"}
+, 
+[11502] = {Title = "[Espera] Jakk e os Jakks", IconName = "ico_ev.bmp", 
 Description = {"Voc\234 trouxe Jakks para Niflheim. De acordo com os fantasmas, ramos de Jakk nascem se ele ficar no mundo dos vivos por um longo período. Deixe-o descansar."}
-, Summary = "Descanso de Jakk"}
+, Summary = "Reseta às 4 da manh\227.", CoolTimeQuest = 1}
 , 
-[11503] = {Title = "Jack e Jack\'s days like Jack", 
-Description = {"Em algum lugar dos campos e das masmorras, capture 10 Jakks fugitivos. Traga 10 Decorações de Abóbora e 20 Ramos Brancos Finos para Hororing. Eles são pegos ao caprturar os Jakks."}
-, Summary = "Leve Jakks para Niflheim"}
+[11503] = {Title = "Jakk e os Jakks", IconName = "ico_ev.bmp", 
+Description = {"Elimine 10 Jakks Fugitivos e traga 10 <ITEM>[Decoração de Abóbora]<INFO>25421</INFO></ITEM> e 20 <ITEM>[Ramo Branco Fino]<INFO>25422</INFO></ITEM> que caem ao derrot\225-los. Com tudo pronto, volte ao <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
 , 
-[11504] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"\201 difícil de entender, mas parece que voc\234 precisa pegar Ramo Branco Fino e voltar at\233 Jakk."}
-, Summary = "Colete um Ramo Branco Fino"}
+RewardItemList = {
+{ItemID = 11605, ItemNum = 30}
 , 
-[11505] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"Parece que o gatinho assustado fugiu quando Jakk foi capturado. Pergunte a  Harorong, quem estava com Jakk."}
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Colete os itens"}
+, 
+[11504] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"\201 difícil de entender, mas parece que voc\234 precisa pegar 1 <ITEM>[Ramo Branco Fino]<INFO>25422</INFO></ITEM> e voltar at\233 <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
+, Summary = "1 Ramo Branco Fino"}
+, 
+[11505] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"Parece que o gatinho assustado fugiu quando Jakk foi capturado. Pergunte a <NAVI>[Harorong]<INFO>niflheim,169,240,0,101,0</INFO></NAVI> quem estava com Jakk."}
 , Summary = "Fale com Harorong"}
 , 
-[11506] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"Nibble na entrada pode ter visto o bichano. Fale com Nibble na entrada oeste de Niflheim."}
-, Summary = "Nibble no oeste de Niflheim"}
+[11506] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"Nibble na entrada pode ter visto o bichano. Fale com <NAVI>[Nibble]<INFO>niflheim,43,147,0,101,0</INFO></NAVI> na entrada oeste de Niflheim."}
+, Summary = "Fale com Nibble"}
 , 
-[11507] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"Um pequeno, e branco objeto foi avistado na entrada pouco tempo atrás. Eles não tem certeza se era um gato. Vamos perguntar para alguém fora da entrada."}
-, Summary = "Fale com Jakk Aterrorizado"}
+[11507] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"Um pequeno e branco objeto foi avistado na entrada pouco tempo atrás. Ela não tem certeza se era um gato. Vamos perguntar para alguém no <NAVI>[Vale de Gyoll]<INFO>nif_fild02,366,247,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Jakk Assustado"}
 , 
-[11508] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"Jakk disse que o gato de Jakk foi ali. Vamos falar com o Jakk que est\225 tentando encontrar o gato."}
+[11508] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"Jakk disse que o gato de Jakk foi ali. Vamos falar com o <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> que est\225 tentando encontrar o gato."}
 , Summary = "Fale com Jakk"}
 , 
-[11509] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"Parece que o gato de Jakk foi para Midgard através de uma raiz da Yggdrasil. Ele provavelmente foi por Umbala. Vamos investigar."}
-, Summary = "Investigação na entrada Norte de Umbala"}
+[11509] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"Parece que o gato de Jakk foi para Midgard através de uma raiz da Yggdrasil. Ele provavelmente foi por Umbala. Vamos <NAVI>[investigar]<INFO>umbala,113,287,0,101,0</INFO></NAVI>."}
+, Summary = "Ao Pesquisador Assustado"}
 , 
-[11510] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"O pesquisador disse que ele explicou para o gatinho como chegar at\233 Morroc. Vamos investigar perto da entrada Norte de Morroc."}
-, Summary = "Investigação na entrada Norte de Morroc"}
+[11510] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"O pesquisador disse que ele explicou para o gatinho como chegar at\233 Morroc. Vamos <NAVI>[investigar]<INFO>morocc,154,248,0,101,0</INFO></NAVI> perto da entrada Norte de Morroc."}
+, Summary = "Ao Mercador Assustado"}
 , 
-[11511] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"O mercador disse que ele contou a alguém como chegar at\233 Alberta. Vamos investigar perto da entrada Norte de Alberta."}
-, Summary = "Investigação na entrada de Alberta"}
+[11511] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"O mercador disse que ele contou a alguém como chegar at\233 Alberta. Vamos <NAVI>[investigar]<INFO>alberta,45,239,0,101,0</INFO></NAVI> perto da entrada Norte de Alberta."}
+, Summary = "Ao Negociante Assustado"}
 , 
-[11512] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"Se voc\234 for at\233 o porto, voc\234 encontrar\225 muitos gatos que querem roubar seus peixes. Vamos investigar perto do porto."}
-, Summary = "Invesgitação no porto de Alberta"}
+[11512] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"Se voc\234 for at\233 o porto, voc\234 encontrar\225 muitos gatos que querem roubar seus peixes. Vamos <NAVI>[investigar]<INFO>alberta,198,50,0,101,0</INFO></NAVI> perto do porto."}
+, Summary = "Ao Gato Branco"}
 , 
-[11513] = {Title = "Jakk e o Gato de Jakk", 
+[11513] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
 Description = {"Voc\234 achou um gato branco, mas não parece ser o gato de Jakk. O monte de areia \233 suspeito. Vamos investigar."}
-, Summary = "Investigação no Monte de Areia"}
+, Summary = "Monte de Areia"}
 , 
-[11514] = {Title = "Jakk e o Gato de Jakk", 
-Description = {"No monte de areia, voc\234 encontrou ossos que parecem vir de um animal pequeno. Voc\234 também encontrou uma coleira vermelha com um sino. Vamos voltar at\233 Jakk."}
-, Summary = "Fale com Jakk em Niflheim"}
+[11514] = {Title = "Halloween: Gato de Jakk", IconName = "ico_ev.bmp", 
+Description = {"No monte de areia, voc\234 encontrou ossos que parecem vir de um animal pequeno. Voc\234 também encontrou uma coleira vermelha com um sino. Vamos voltar at\233 <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> em Niflheim."}
 , 
-[11515] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Jakk disse que o Gatinho não est\225 bem. Encontre o Gatinho ao Sul de Jakk."}
-, Summary = "Converse com o Gatinho"}
+RewardItemList = {
+{ItemID = 9101, ItemNum = 1}
 , 
-[11516] = {Title = "O Vento Uivante de Memórias", 
-Description = {"O Gatinho mudou para o Zumbichano de Juba devido \224 aventura. Conte ao Jakk que ele não pode voltar a ser quem era, pois muito foi mudado."}
-, Summary = "Converse com Jakk"}
+{ItemID = 10040, ItemNum = 1}
 , 
-[11517] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Existem diversos gatos no meio do Vale de Gyoll. Tente encontrar o gatinho ali."}
-, Summary = "Procure pelo Gato"}
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Fale com Jakk"}
 , 
-[11518] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Voc\234 encontrou diversos zumbichanos no meio do Vale de Gyoll, mas eles não parecem bem. Colete ^ff00005 Pelugens Negras^000000 para esquentar o Zumbichano."}
+[11515] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Jakk disse que o Gatinho não est\225 bem. Encontre o <NAVI>[Zumbichano]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> ao sul de Jakk."}
+, Summary = "Fale com o Zumbichano"}
+, 
+[11516] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"O gatinho agora quer ser conhecido como Zumbichano de Juba devido às aventuras que teve. Conte ao <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> que ele não quer voltar a ser um animal doméstico."}
+, Summary = "Fale com Jakk"}
+, 
+[11517] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Existem diversas covas no meio do <NAVI>[Vale de Gyoll]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI>. Tente encontrar algum zumbichano l\225."}
+, Summary = "Encontre as Covas"}
+, 
+[11518] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 encontrou diversos zumbichanos no meio do Vale de Gyoll, mas eles não parecem bem. Colete 5 <ITEM>[Pelugem Negra]<INFO>25401</INFO></ITEM> que caem direto dos monstros de Nifflheim."}
 , Summary = "5 Pelugens Negras"}
 , 
-[11519] = {Title = "O Vento Uivante de Memórias", 
-Description = {"O Zumbichano ficou muito triste para continuar conversando. Volte at\233 Jakk."}
-, Summary = "Converse com Jakk"}
+[11519] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"O Zumbichano ficou muito triste para continuar conversando. Volte at\233 <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Jakk"}
 , 
-[11520] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Jakk ama seu gato demais para ter outro gato em seu lugar. Converse com Zumbichano de Juba novamente."}
-, Summary = "Converse com o Zumbichano de Juba"}
+[11520] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Jakk ama seu gato demais para ter outro gato em seu lugar. Converse com <NAVI>[Zumbichano]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> novamente."}
+, Summary = "Ao Zumbichano"}
 , 
-[11521] = {Title = "O Vento Uivante de Memórias", 
-Description = {"O Zumbichano de Juba não quer mais conversar. Volte at\233 Jakk."}
-, Summary = "Converse com Jakk"}
+[11521] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"O Zumbichano de Juba não quer mais conversar. Volte at\233 <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Jakk"}
 , 
-[11522] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Jakk disse que esperaria pelo Gatinho e pediu que voc\234 cuidasse dos outros gatos. Ajude zumbichanos no Vale de Gyoll ao coletar ^ff000010 Ramos Brancos Finos^000000."}
-, Summary = "Para o Vale de Gyoll"}
+[11522] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Jakk disse que esperaria pelo Gatinho e pediu que voc\234 cuidasse dos outros gatos. Ajude zumbichanos no Vale de Gyoll ao coletar 10 <ITEM>[Ramo Branco Fino]<INFO>25422</INFO></ITEM>."}
+, Summary = "10 Ramos Brancos Finos"}
 , 
-[11523] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Ao se recuperar, Zumbichano ficou com fome. Colete ^ff000010 Peixes Frescos^000000."}
+[11523] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Ao se recuperar, Zumbichano ficou com fome. Colete 10 <ITEM>[Peixes Frescos]<INFO>579</INFO></ITEM> para ele."}
 , Summary = "10 Peixes Frescos"}
 , 
-[11524] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Zumbichano pediu por mais ^ff000020 Ramos Brancos Finos^000000. Colete-os."}
+[11524] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Zumbichano pediu por mais 20 <ITEM>[Ramo Branco Fino]<INFO>25422</INFO></ITEM>. Traga para ele."}
+, 
+RewardItemList = {
+{ItemID = 25408, ItemNum = 1}
+, 
+{ItemID = 6658, ItemNum = 1}
+}
 , Summary = "20 Ramos Brancos Finos"}
 , 
-[11525] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Zumbichano parece estar com o mesmo vigor que o Zumbichano de Juba. Pergunte ao Zumbichano de Juba sobre isso."}
-, Summary = "Converse com Zumbichano de Juba"}
+[11525] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"O novo gatinho parece ter com o mesmo vigor que o Zumbichano de Juba. Pergunte ao <NAVI>[Zumbichano]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> sobre isso."}
+, Summary = "Ao Zumbichano"}
 , 
-[11526] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Zumbichano de Juba também estar\225 partindo em uma nova jornada. Converse com Jakk sobre isso."}
-, Summary = "Conte ao Jakk"}
+[11526] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Zumbichano de Juba também estar\225 partindo em uma nova jornada. Converse com <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> sobre isso."}
 , 
-[11527] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Jakk deve estar cansado. Volte a falar com ele após as 4 da manh\227."}
-, Summary = "At\233 amanh\227, Jakk!"}
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Fale com Jakk"}
 , 
-[11528] = {Title = "O Vento Uivante de Memórias", 
-Description = {"Permite pegar Pelugens Negras dos monstros do Vale de Gyoll."}
-, Summary = "Coletor de Pelugens Negras"}
+[11527] = {Title = "[Espera] Memórias de Halloween", IconName = "ico_ev.bmp", 
+Description = {"Jakk deve estar cansado. Volte a falar com ele amanh\227."}
+, Summary = "Reseta às 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[11528] = {Title = "Halloween: Memórias", IconName = "ico_ev.bmp", 
+Description = {"Permite pegar <ITEM>[Pelugem Negra]<INFO>25401</INFO></ITEM> dos monstros do Vale de Gyoll."}
+, 
+RewardItemList = {
+{ItemID = 11616, ItemNum = 10}
+, 
+{ItemID = 11605, ItemNum = 10}
+, 
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Pelugens Negras"}
 , 
 [11573] = {Title = "Mudança de Classe: Mestre Estelar", IconName = "ico_jq.bmp", 
 Description = {"Existe um Dojang no Monte Mjolnir.", "Vamos visitar o Bosque Meteoro."}
@@ -15533,7 +15571,7 @@ Description = {"Hunt the Red Dimik monsters at the Center of Juperos and return 
 Description = {"Hunt the OKnocker monsters at Thor Volcano Dungeon 2 and return to Gramps at the Eden Group to get your reward."}
 , Summary = "Hunt 400 Knocker monsters."}
 , 
-[60514] = {Title = "Caça Imp", 
+[60514] = {Title = "Caça ao Imp", 
 Description = {"Cace 400 Imps. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
@@ -15841,8 +15879,8 @@ Description = {"Passando por Ajustes"}
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[60591] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60591] = {Title = "Caça ao Golem de Lava", 
+Description = {"Cace 400 Golens de Lava. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60592] = {Title = "Passando por Ajustes", 
@@ -15913,8 +15951,8 @@ Description = {"Aguarde o contador zerar antes de iniciar outra missão."}
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[60609] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60609] = {Title = "Caça a Alicel", 
+Description = {"Cace 400 Alicels. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60610] = {Title = "Passando por Ajustes", 
@@ -15957,8 +15995,8 @@ Description = {"Passando por Ajustes"}
 Description = {"Aguarde o intervalo de 16 horas para receber um novo buff aleatório."}
 , Summary = ""}
 , 
-[60820] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60820] = {Title = "Caça ao Grand Orc", 
+Description = {"Cace 400 Grand Orcs. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60821] = {Title = "Passando por Ajustes", 
@@ -15977,8 +16015,8 @@ Description = {"Passando por Ajustes"}
 Description = {"Passando por Ajustes"}
 , Summary = ""}
 , 
-[60825] = {Title = "Passando por Ajustes", 
-Description = {"Passando por Ajustes"}
+[60825] = {Title = "Caça ao Ancião", 
+Description = {"Cace 400 Anciões. Após isso, converse com Mateus Além para resgatar sua recompensa."}
 , Summary = ""}
 , 
 [60826] = {Title = "Passando por Ajustes", 
@@ -19694,5 +19732,4043 @@ RewardItemList = {
 [5855] = {Title = "[Espera] Caça ao Wootan", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera voc\234 amanh\227."}
 , Summary = "Volte amanh\227.", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255}
+, 
+[19066] = {Title = "As circunstâncias do primeiro white paper do investigador", IconName = "ico_ev.bmp", 
+Description = {"Ouvi as circunstâncias do investigador Cho Baek-seo.", "A partir de agora, estou em viagem de negócios para a área de eventos", "Voc\234 pode realizar o pedido da Yuno Monster Society."}
+, Summary = ""}
+, 
+[19067] = {Title = "[Aguardando] Pedido do Super Livro Branco", IconName = "ico_dq.bmp", 
+Description = {"A missão do Super Livro Branco s\243 pode ser feita uma vez por dia", "Tem, mas se voc\234 me trouxer <ITEM>[água ultra carbonatada]<INFO>1000374</INFO></ITEM>, a história vai mudar", "Talvez seja diferente de novo?", "Vamos ao super white paper que recebeu a solicitação.", "", "<NAVI>[Primeiro white paper de janeiro]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> / <NAVI>[Primeiro white paper de fevereiro]<INFO>prontera,163,92 ,0,101,0</INFO></NAVI> / <NAVI>[Primeiro white paper de março]<INFO>yuno,180,145,0,101,0</INFO></NAVI>", "<NAVI>[Primeiro white paper de abril]<INFO>prontera,170,288,0,101,0</INFO></NAVI> / <NAVI>[Primeiro white paper de maio]<INFO>geffen,74,42 ,0,101 ,0</INFO></NAVI> / <NAVI>[Primeiro white paper de junho]<INFO>comodo,248,128,0,101,0</INFO></NAVI>", "<NAVI>[Primeiro white paper de julho]<INFO>lasanha,87,206,0,101,0</INFO></NAVI> / <NAVI>[Primeiro white paper de agosto]<INFO>prontera,149,305,0,101 ,0</INFO></NAVI> / <NAVI>[Primeiro white paper de setembro]<INFO>alberta,131,174,0,101,0</INFO></NAVI>", "<NAVI>[White Paper de outubro]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> / <NAVI>[Primeiro White Paper de novembro]<INFO>prt_fild01,108,173,0,101 ,0< /INFO></NAVI> / <NAVI>[Primeiro white paper de dezembro]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
+, Summary = "Inicializar às 04:00", CoolTimeQuest = 1}
+, 
+[19068] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros do tipo peixe de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19069] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros do tipo peixe de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19070] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros do tipo peixe de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19071] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros do tipo peixe de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>malangdo,209,151,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19072] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 pequenos monstros de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,163,92,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19073] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 pequenos monstros de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,163,92,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19074] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 pequenos monstros de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,163,92,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19075] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 pequenos monstros de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,163,92,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19076] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros intangíveis de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>yuno,180,145,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19077] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros intangíveis de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>yuno,180,145,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19078] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros intangíveis de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>yuno,180,145,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19079] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros intangíveis de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>yuno,180,145,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19080] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros persistentes de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,170,288,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19081] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros persistentes de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,170,288,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19082] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros persistentes de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,170,288,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19083] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros persistentes de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,170,288,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19084] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros grandes de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>geffen,74,42,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19085] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros grandes de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>geffen,74,42,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19086] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros grandes de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>geffen,74,42,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19087] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros grandes de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>geffen,74,42,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19088] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de atributo de fogo de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>comodo,248,128,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19089] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de nível 100 ou superior com propriedade de fogo", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>comodo,248,128,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19090] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de nível 150 ou superior com propriedade de fogo", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>comodo,248,128,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19091] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de nível 200 ou superior com propriedade de fogo", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>comodo,248,128,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19092] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de atributo Fogo de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19093] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de atributo de chama de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19094] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de atributo de chama de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19095] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de atributo chama nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19096] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros médios de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,149,305,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19097] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros médios de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,149,305,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19098] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros médios de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,149,305,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19099] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros médios de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prontera,149,305,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19100] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros tipo planta de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>alberta,131,174,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19101] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros planta de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>alberta,131,174,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19102] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros tipo planta de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>alberta,131,174,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19103] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros planta de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>alberta,131,174,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19104] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros do tipo demônio nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Livro Branco do Investigador]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19105] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros do tipo demônio de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Livro Branco do Investigador]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19106] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros do tipo demônio de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Livro Branco do Investigador]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19107] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros demoníacos de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Livro Branco do Investigador]<INFO>niflheim,198,238,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19108] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19109] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19110] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19111] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de nível 200 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Investigator\'s White Paper]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19112] = {Title = "Solicitação de Super White Paper Lv1", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de atributo de água de nível 50 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Primeiro Livro Branco do Inspetor]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19113] = {Title = "Pedido do Super Livro Branco Lv2", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de atributo de água de nível 100 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Primeiro Livro Branco do Inspetor]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19114] = {Title = "Pedido do Super Livro Branco Lv3", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de água de nível 150 ou superior", "Depois de peg\225-lo, volte para <NAVI>[Primeiro Livro Branco do Inspetor]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> para receber sua recompensa."}
+, Summary = ""}
+, 
+[19115] = {Title = "Pedido do Super Livro Branco Lv4", IconName = "ico_ev.bmp", 
+Description = {"100 monstros de atributo de água de nível 200 ou superior", "v"}
+, Summary = ""}
+, 
+[7770] = {Title = "Uma Noite sem Dormir", 
+Description = {"Taísa, que sofre de noites sem dormir todos os dias devido a um grito sem sentido, acredita que a causa \233 Banshee na Ilha Esquecida."}
+, Summary = "Acesso \224 Ilha Esquecida"}
+, 
+[7771] = {Title = "Limpe o Santuário!!", 
+Description = {"Eduardo, que trabalha no Santuário, ouve barulhos estranhos vindos do porão e pede para voc\234 se livrar dos monstros caso eles apareçam."}
+, Summary = "Acesso ao Santuário"}
+, 
+[7772] = {Title = "Deve ser um Fantasma!", 
+Description = {"Lígia, uma estudante da Academia Kiel Hyre, pede para voc\234 investigar ruídos estranhos vindos da catedral abandonada. Abra a porta da catedral abandonada e entre."}
+, Summary = "Acesso \224 Academia"}
+, 
+[7773] = {Title = "Investigando a Academia", 
+Description = {"O interior da catedral abandonada era composto por instalações complexas. Kauan, membro do Grupo do Éden, quer que voc\234 v\225 ao 2\186 piso da Fábrica de Robôs e traga 1 Peça Queimada, de Aliot."}
+, Summary = "1 Peça Queimada"}
+, 
+[7774] = {Title = "Canal de Esgoto", 
+Description = {"Através de Laura, aprendemos o caminho para as instalações subterrâneas do Biolaboratório."}
+, Summary = "Acesso ao Biolaboratório"}
+, 
+[15101] = {Title = "Notificação de Mudança de Classe", 
+Description = {"Notificação via RODEX"}
+, Summary = "Notificação via RODEX"}
+, 
+[15102] = {Title = "Notificação de Mudança de Classe", 
+Description = {"Notificação via RODEX"}
+, Summary = "Notificação via RODEX"}
+, 
+[15103] = {Title = "Notificação de Mudança de Classe", 
+Description = {"Notificação via RODEX"}
+, Summary = "Notificação via RODEX"}
+, 
+[15104] = {Title = "Notificação de Mudança de Classe", 
+Description = {"Notificação via RODEX"}
+, Summary = "Notificação via RODEX"}
+, 
+[15105] = {Title = "Notificação de Mudança de Classe", 
+Description = {"Notificação via RODEX"}
+, Summary = "Notificação via RODEX"}
+, 
+[15106] = {Title = "Notificação de Mudança de Classe", 
+Description = {"Notificação via RODEX"}
+, Summary = "Notificação via RODEX"}
+, 
+[15107] = {Title = "Notificação de Mudança de Classe", 
+Description = {"Notificação via RODEX"}
+, Summary = "Notificação via RODEX"}
+, 
+[21001] = {Title = "Primeiros Passos", 
+Description = {"Saia do navio naufragado e converse com o Capitão Chobber."}
+, Summary = "Fale com o Capitão Chobber"}
+, 
+[21002] = {Title = "Primeira Batalha", 
+Description = {"Elimine 2 Porings e entregue 2 <ITEM>[Madeiras de Reparos]<INFO>6008</INFO></ITEM> para Marino."}
+, Summary = "2 Madeiras de Reparo"}
+, 
+[21003] = {Title = "Primeira Amizade", 
+Description = {"Na enfermaria do Institudo do Aprendiz, encontre o Terapeuta Flávio e aprenda mais sobre Ervas e Receitas."}
+, Summary = "Fale com o Terapeuta"}
+, 
+[21004] = {Title = "Primeira Amizade", 
+Description = {"Existe uma Planta Vermelha na entrada do Instituto do Aprendiz."}
+, Summary = "Fale com Rumin"}
+, 
+[21005] = {Title = "Salvar ponto de retorno", 
+Description = {"Salve o seu ponto de retorno."}
+, Summary = ""}
+, 
+[21006] = {Title = "Primeira Amizade", 
+Description = {"Agora que voc\234 entende sobre itens de regeneração, vamos voltar para o porto de Izlude e dar a Leno as boas notícias!"}
+, Summary = "Fale com Leno"}
+, 
+[21007] = {Title = "Primeira Amizade", 
+Description = {""}
+, Summary = ""}
+, 
+[21008] = {Title = "Primeira Batalha", 
+Description = {"Elimine 2 Porings e entregue 2 <ITEM>[Madeiras de Reparos]<INFO>6008</INFO></ITEM> para Marino."}
+, Summary = "2 Madeiras de Reparos"}
+, 
+[21011] = {Title = "O Poço Gelado", 
+Description = {"O Aldeão pediu que voc\234 puxe o balde que est\225 no fundo o Poço."}
+, Summary = "Puxe o Balde no Poço"}
+, 
+[21012] = {Title = "A Caverna de Payon", 
+Description = {"Procure pelo neto do Aldeão na caverna que fica na Vila dos Arqueiros. \201 melhor perguntarmos para o <NAVI>[Guarda]<INFO>pay_arche,41,133,0,101,0</INFO></NAVI> que fica na entrada da Caverna de Payon."}
+, Summary = "Fale com o Guarda"}
+, 
+[21013] = {Title = "Leno Perdido", 
+Description = {"Leno deve estar na Caverna de Payon, vamos procur\225-lo ao <NAVI>[norte da caverna]<INFO>pay_dun00,155,174,0,101,0</INFO></NAVI>."}
+, Summary = "Encontre Leno"}
+, 
+[21014] = {Title = "Livre-se dos Zumbis", 
+Description = {"Para acalmar <NAVI>[Leno]<INFO>pay_dun00,155,174,0,101,0</INFO></NAVI>, \233 melhor derrotar 5 Zumbis."}
+, Summary = "Ajudando Leno"}
+, 
+[21015] = {Title = "[É] Guerra aos Mortos", IconName = "ico_dq.bmp", 
+Description = {"V\225 para a Caverna de Payon, na Vila dos Arqueiros, e elimine 20 Esqueletos e 10 Zumbis para o <NAVI>[Guarda]<INFO>pay_arche,41,133,0,101,0</INFO></NAVI>."}
+, Summary = "Caverna de Payon"}
+, 
+[21016] = {Title = "[Espera] Guerra aos Mortos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda]<INFO>pay_arche,41,133,0,101,0</INFO></NAVI> na Vila dos Arqueiros."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21017] = {Title = "[É] Ritual de Exorcismo", IconName = "ico_dq.bmp", 
+Description = {"No 3\186 subsolo da Caverna de Payon, elimine 15 Munaks e 15 Bonguns. Ao derrot\225-los, haver\225 uma chance de conseguir <ITEM>[Amuleto]<INFO>609</INFO></ITEM> direto para o seu inventário. Traga 15 deles."}
+, Summary = "15 Amuletos"}
+, 
+[21018] = {Title = "[Espera] Ritual de Exorcismo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda]<INFO>pay_arche,41,133,0,101,0</INFO></NAVI> na Vila dos Arqueiros."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21019] = {Title = "[É] Oferenda aos Espíritos", IconName = "ico_dq.bmp", 
+Description = {"Colete 10 <ITEM>[Últimos Suspiros]<INFO>25079</INFO></ITEM>. Pegue o Licor de Lotus com o <NAVI>[Aldeão]<INFO>payon,192,109,0,101,0</INFO></NAVI>, v\225 na Caverna de Payon e encontre os Espíritos Malignos at\233 conseguir o item Último Suspiro."}
+, Summary = "10 Últimos Suspiros"}
+, 
+[21020] = {Title = "[Espera] Oferenda aos Espíritos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Aldeão]<INFO>payon,192,109,0,101,0</INFO></NAVI> na Caverna de Payon."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21021] = {Title = "[É] Cheiro de Magia", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Pesquisador]<INFO>payon,198,111,0,101,0</INFO></NAVI> encontrou vestígios de magia nas Lenços de Menina da Sohee. Elimine algumas delas e traga 3 unidades de <ITEM>[Lenço de Menina]<INFO>25188</INFO></ITEM> para ele."}
+, Summary = "3 Lenços de Menina"}
+, 
+[21022] = {Title = "[Espera] Cheiro de Magia", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Pesquisador]<INFO>payon,198,111,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21023] = {Title = "Caçando Raposas", IconName = "ico_dq.bmp", 
+Description = {"Elimine as raposas chamadas Nove Caudas e colete 10 <ITEM>[Miçangas de Raposa]<INFO>25080</INFO></ITEM>. Voc\234 tem que entregar a missão para o <NAVI>[Ancião]<INFO>pay_arche,139,33,0,101,0</INFO></NAVI>."}
+, Summary = "10 Miçangas de Raposa"}
+, 
+[21024] = {Title = "[Espera] Caçando Raposas", IconName = "ico_dq.bmp", 
+Description = {"Para purificar a Flor do Luar, primeiro atacamos a raposa de nove caudas. Voc\234 pode repetir a missão no <NAVI>[Quadro de Aviso]<INFO>pay_dun03,121,65,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21025] = {Title = "História de Payon", 
+Description = {"Voc\234 ouviu a história do Ancião de Payon."}
+, Summary = ""}
+, 
+[21026] = {Title = "Um Pai Preocupado", 
+Description = {"Ricardo foi cortar lenha e não voltou. Encontre o filho do Pai Nervoso que deve estar ao <NAVI>[sul de Payon]<INFO>pay_fild01,328,351,0,101,0</INFO></NAVI>."}
+, Summary = "Encontre Ricardo"}
+, 
+[21027] = {Title = "Um Trabalho Braçal", 
+Description = {"Elimine o monstro Salgueiro, que fica nos arredores de Payon, e traga 2 unidades de <ITEM>[Tronco Estéril]<INFO>1068</INFO></ITEM> para <NAVI>[Ricardo]<INFO>pay_fild01,328,351,0,101,0</INFO></NAVI>."}
+, Summary = "2 Troncos Estéreis"}
+, 
+[21028] = {Title = "[É] Trabalho Braçal", IconName = "ico_dq.bmp", 
+Description = {"Ricardo, o filho de um Pai Nervoso, que voc\234 faça o trabalho para ele. Elimine Salgueiros e colete <ITEM>[Tronco Estéril]<INFO>1068</INFO></ITEM>."}
+, Summary = "3 Troncos Estéreis"}
+, 
+[21029] = {Title = "[Espera] Trabalho Braçal", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Pai Nervoso]<INFO>payon,173,77,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21030] = {Title = "Evitando as Cobras", 
+Description = {"As Jiboias tem a mesma cor dos arbustos da Floresta de Payon, por isso, as crianças se confundem e podem pisar nelas sem querer. Uma <NAVI>[Moça Assustada]<INFO>payon,217,94,0,101,0</INFO></NAVI> pediu que voc\234 elimine 5 Jiboias."}
+, Summary = "Caçar Jiboia"}
+, 
+[21031] = {Title = "[É] Medo de Cobras", IconName = "ico_dq.bmp", 
+Description = {"Uma <NAVI>[Moça Assustada]<INFO>payon,217,94,0,101,0</INFO></NAVI> pediu que voc\234 elimine 5 Jiboias na floresta próxima a Payon."}
+, Summary = "Caçar Jiboia"}
+, 
+[21032] = {Title = "[Espera] Medo de Cobras", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com a <NAVI>[Moça Assustada]<INFO>payon,217,94,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21033] = {Title = "Ser\225 uma Cebola?", 
+Description = {"A <NAVI>[Vovozinha]<INFO>payon,237,64,0,101,0</INFO></NAVI> de Payon disse que viu cebolas na floresta. Elimine o Rabo de Verme e traga 1 <ITEM>[Escama Afiada]<INFO>906</INFO></ITEM>."}
+, Summary = "1 Escama Afiada"}
+, 
+[21034] = {Title = "[É] Não \233 uma Cebola", IconName = "ico_dq.bmp", 
+Description = {"Na floresta próxima de Payon, elimine os Rabos de Verme, que se parecem com uma cebola verde."}
+, Summary = "Caçar Rabo de Verme"}
+, 
+[21035] = {Title = "[Espera] Não \233 uma Cebola", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com a <NAVI>[Vovozinha]<INFO>payon,237,64,0,101,0</INFO></NAVI> em Payon."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21036] = {Title = "Cogumelo Estranho", 
+Description = {"O <NAVI>[Vovozinho]<INFO>payon,239,64,0,101,0</INFO></NAVI> de Payon disse que viu um cogumelo suspeito na floresta. J\225 que \233 claramente um monstro, voc\234 deve eliminar o cogumelo chamado \'Esporo\'."}
+, Summary = "Caçar Esporos"}
+, 
+[21037] = {Title = "[É] Cogumelo Estranho", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Vovozinho]<INFO>payon,239,64,0,101,0</INFO></NAVI> de Payon parece surpreso com a fertilidade do Esporo. Ele quer que voc\234 o elimine antes que a floresta fique coberta de esporos. Vamos caçar Esporos!"}
+, Summary = "Caçar Esporo"}
+, 
+[21038] = {Title = "[Espera] Cogumelo Estranho", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Vovozinho]<INFO>payon,239,64,0,101,0</INFO></NAVI> de Payon."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21039] = {Title = "Dando Notícias", 
+Description = {"Eu fiz o trabalho de Ricardo. Agora vamos at\233 o <NAVI>[Pai Nervoso]<INFO>payon,173,77,0,101,0</INFO></NAVI>, que est\225 esperando por notícias."}
+, Summary = "Fale com o Pai Nervoso"}
+, 
+[21040] = {Title = "[É] Fugitivos da Prisão", IconName = "ico_dq.bmp", 
+Description = {"Na prisão de Glast Heim, um prisioneiro que j\225 havia morrido foi revivido como um morto-vivo e est\225 caminhando. Elimine o Esqueleto Prisioneiro e o Zumbi Prisioneiro para <NAVI>[Karon]<INFO>glast_01,206,291,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Caçar Prisioneiros"}
+, 
+[21041] = {Title = "[Espera] Fugitivos da Prisão", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Karon]<INFO>glast_01,206,291,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21042] = {Title = "[É] Torturador Sádico", IconName = "ico_dq.bmp", 
+Description = {"Dizem que na Pisão de Glast Heim, h\225 demônios torturadores. <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> tentou ajudar <NAVI>[Karon]<INFO>glast_01,206,291,0,101,0</INFO></NAVI>, mas não foi o suficiente. <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> pediu para voc\234 derrotar Rybio."}
+, Summary = "Caçar Rybio"}
+, 
+[21043] = {Title = "[Espera] Torturador Sádico", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21044] = {Title = "[É] Gosto da Vingança", IconName = "ico_dq.bmp", 
+Description = {"Dizem que na Prisão de Glast Heim, h\225 demônios torturados. <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> tentou ajudar <NAVI>[Karon]<INFO>glast_01,206,291,0,101,0</INFO></NAVI>, mas não foi o suficiente. <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> pediu para voc\234 derrotar Injustiçados."}
+, Summary = "Caçar Injustiçado"}
+, 
+[21045] = {Title = "[Espera] Gosto da Vingança", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21046] = {Title = "Pesquisador de Saias", 
+Description = {"O jeito que o <NAVI>[Pesquisador]<INFO>payon,198,111,0,101,0</INFO></NAVI> trabalha parece estranho, mas acho que o verei com mais frequência."}
+, Summary = ""}
+, 
+[21047] = {Title = "[É] Pesadelo Soviético", IconName = "ico_dq.bmp", 
+Description = {"Elimine Kikimoras na ^4d4dffFloresta Encantada de Moscóvia^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Kikimora"}
+, 
+[21048] = {Title = "[Espera] Pesadelo Soviético", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21049] = {Title = "[É] Bonecas Delicadas", IconName = "ico_dq.bmp", 
+Description = {"Elimine Miyabi Ningyo no ^4d4dffLabirinto de Tatames em Amatsu^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Miyabi Ningyo"}
+, 
+[21050] = {Title = "[Espera] Bonecas Delicadas", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21051] = {Title = "[É] Areias Atacam?", IconName = "ico_dq.bmp", 
+Description = {"Elimine Mi Gao nos ^4d4dffarredores de Louyang^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Mi Gao"}
+, 
+[21052] = {Title = "[Espera] Areias Atacam?", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21053] = {Title = "[É] Lenda do Folclore", IconName = "ico_dq.bmp", 
+Description = {"Elimine Mula sem Cabeça na ^4d4dffFloresta de Brasilis^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Mula sem Cabeça"}
+, 
+[21054] = {Title = "[Espera] Lenda do Folclore", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21055] = {Title = "[É] Arauto do Templo", IconName = "ico_dq.bmp", 
+Description = {"Elimine Tamruan no ^4d4dffSantuário Ancestral de Ayothaya^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Tamruan"}
+, 
+[21056] = {Title = "[Espera] Arauto do Templo", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21057] = {Title = "[É] Pássaro Colorido", IconName = "ico_dq.bmp", 
+Description = {"Elimine Espírito do Vento na ^4d4dffFloresta de Brasilis^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Espírito do Vento"}
+, 
+[21058] = {Title = "[Espera] Pássaro Colorido", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21059] = {Title = "[É] Vov\243 Vidente", IconName = "ico_dq.bmp", 
+Description = {"Elimine Baba-Yaga na ^4d4dffFloresta Encantada de Moscóvia^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Baba Yaga"}
+, 
+[21060] = {Title = "[Espera] Vov\243 Vidente", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21061] = {Title = "[É] Vigia Morto-Vivo", IconName = "ico_dq.bmp", 
+Description = {"Elimine Zumbi Atirador no ^4d4dffLabirinto de Tatames em Amatsu^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Zumbi Atirador"}
+, 
+[21062] = {Title = "[Espera] Vigia Morto-Vivo", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21063] = {Title = "[É] Donzela Celestial", IconName = "ico_dq.bmp", 
+Description = {"Elimine Ninfa Perversa na ^4d4dffTerra das Fadas em Kunlun^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Ninfa Perversa"}
+, 
+[21064] = {Title = "[Espera] Donzela Celestial", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21065] = {Title = "[É] Tumba de Segredos", IconName = "ico_dq.bmp", 
+Description = {"Elimine Yao Jun e Mao Guai na ^4d4dffTumba Real de Louyang^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caça em Louyang"}
+, 
+[21066] = {Title = "[Espera] Tumba de Segredos", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21067] = {Title = "[É] Alguém \224 Espreita", IconName = "ico_dq.bmp", 
+Description = {"Elimine Shinobi no ^4d4dffLabirinto de Tatames em Amatsu^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Shinobi"}
+, 
+[21068] = {Title = "[Espera] Alguém \224 Espreita", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21069] = {Title = "[É] Pêssegos e Yoyos", IconName = "ico_dq.bmp", 
+Description = {"Elimine Pessegueira Encantada no ^4d4dffSantuário de Xi Wang Mu de Kunlun^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Pessegueiras"}
+, 
+[21070] = {Title = "[Espera] Pêssegos e Yoyos", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21071] = {Title = "[É] Homem nas Nuvens", IconName = "ico_dq.bmp", 
+Description = {"Elimine Ermitão Maligno no ^4d4dffTabuleiro de Go em Kunlun^000000. A cidade pode ser acessada pelo barco em Alberta."}
+, Summary = "Caçar Ermitão Maligno"}
+, 
+[21072] = {Title = "[Espera] Homem nas Nuvens", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do quadro no Grupo do Éden."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21073] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21074] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21075] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21076] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21077] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21078] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21079] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21080] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21081] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21082] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21083] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21084] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21085] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21086] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21087] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21088] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21089] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21090] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21091] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21092] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21093] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21094] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21095] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21096] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21097] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21098] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21099] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21100] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21101] = {Title = "[É] Caça \224 Caçadora", 
+Description = {"Na <NAVI>[Torre de Geffen]<INFO>gef_dun00,104,99,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente."}
+, Summary = "Caçar Moscas Caçadoras"}
+, 
+[21102] = {Title = "[Espera] Caça \224 Caçadora", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Estudante de Magia]<INFO>geffen,126,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21103] = {Title = "[É] Caça \224 Caçadora", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Geffen]<INFO>gef_dun00,104,99,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente."}
+, Summary = "Caçar Moscas Caçadoras"}
+, 
+[21104] = {Title = "[É] Magia Maligna", 
+Description = {"Na <NAVI>[Torre de Geffen]<INFO>gef_dun01,115,236,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente."}
+, Summary = "Caça na Torre"}
+, 
+[21105] = {Title = "[Espera] Magia Maligna", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Estudante de Magia]<INFO>geffen,126,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21106] = {Title = "[É] Magia Maligna", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Geffen]<INFO>gef_dun01,115,236,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente."}
+, Summary = "Caça na Torre"}
+, 
+[21107] = {Title = "[É] Seres Demoníacos", 
+Description = {"Na <NAVI>[Torre de Geffen]<INFO>gef_dun02,106,132,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente."}
+, Summary = "Caçar Demônios"}
+, 
+[21108] = {Title = "[Espera] Seres Demoníacos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Estudante de Magia]<INFO>geffen,126,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21109] = {Title = "[É] Seres Demoníacos", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Geffen]<INFO>gef_dun02,106,132,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente."}
+, Summary = "Caçar Demônios"}
+, 
+[21110] = {Title = "[É] Cavalos Sinistros", 
+Description = {"O <NAVI>[Homem Cansado]<INFO>geffen,117,89,0,101,0</INFO></NAVI> afirma que não consegue dormir porque tem pesadelos no subterrâneo da Torre Geffen."}
+, Summary = "Caçar 10 Pesadelos"}
+, 
+[21111] = {Title = "[Espera] Cavalos Sinistros", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Homem Cansado]<INFO>geffen,117,89,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21112] = {Title = "[É] Cavalos Sinistros", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Homem Cansado]<INFO>geffen,117,89,0,101,0</INFO></NAVI> disse que teve um pesadelo. O Pesadelo \233 realmente o problema?"}
+, Summary = "Caçar 10 Pesadelos"}
+, 
+[21113] = {Title = "[É] Dragões Fofinhos", 
+Description = {"<NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> diz que Petites são muito violentos para se aproximar. V\225 at\233 o <NAVI>[campo dos petites]<INFO>gef_fild08,357,187,0,101,0</INFO></NAVI> verificar."}
+, Summary = "Caçar Petite Voador"}
+, 
+[21114] = {Title = "[Espera] Dragões Fofinhos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21115] = {Title = "[É] Dragões Fofinhos", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> diz que Petites são muito violentos para se aproximar. V\225 at\233 o <NAVI>[campo dos petites]<INFO>gef_fild08,357,187,0,101,0</INFO></NAVI> verificar."}
+, Summary = "Caçar Petite Voador"}
+, 
+[21116] = {Title = "[É] Dragões Fortinhos", 
+Description = {"O Petite Verde pode servir, então <NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> quer que voc\234 v\225 at\233 o <NAVI>[habitat]<INFO>gef_fild06,218,20,0,101,0</INFO></NAVI> deles. Quantos Petites voc\234 tem que lutar para encontrar um que não ataque?"}
+, Summary = "Caçar Petite Verde"}
+, 
+[21117] = {Title = "[Espera] Dragões Fortinhos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21118] = {Title = "[É] Dragões Fortinhos", IconName = "ico_dq.bmp", 
+Description = {"Vamos abordar Petites Verdes em seu <NAVI>[habitat]<INFO>gef_fild06,218,20,0,101,0</INFO></NAVI>. Se um Petite atacar, revide!"}
+, Summary = "Caçar Petite Verde"}
+, 
+[21120] = {Title = "Resgatar amigos", 
+Description = {"Kayle foi seduzido e acabou em um perigoso naufrágio. V\225 at\233 o <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI> e elimine 10 Esqueletos Piratas para evitar o perigo."}
+, Summary = "Caçar Esqueleto Pirata"}
+, 
+[21121] = {Title = "[Espera] Resgatar Amigos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Timothy]<INFO>alberta,138,72,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21122] = {Title = "[É] Resgatar Amigos", IconName = "ico_dq.bmp", 
+Description = {"Elimine 20 Esqueletos Piratas no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Esqueleto Pirata"}
+, 
+[21123] = {Title = "Preocupado com Amigo", 
+Description = {"\201 bom se preocupar, mas nem todo mundo gosta de ser vigiado. De qualquer forma, vamos informar a <NAVI>[Timothy]<INFO>alberta,138,72,0,101,0</INFO></NAVI> no cais de Alberta que Kayle est\225 bem."}
+, Summary = "Fale com Timothy"}
+, 
+[21124] = {Title = "Para o Salão de Beleza", 
+Description = {"Se eu deixar Timothy e Kayle falarem com a <NAVI>[Auxiliar da Zonda]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI>, uma briga vai acontecer. Vamos encontrar o Salão de Beleza em Alberta."}
+, Summary = "Fale com Amora"}
+, 
+[21125] = {Title = "Kukre Comeu!", 
+Description = {"Kukre pode ter comido o tesouro perdido no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>. Abra a barriga de 10 Kukres e confira voc\234 mesmo."}
+, Summary = "Caçar Kukre"}
+, 
+[21126] = {Title = "[Espera] Barata do Mar", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com Amora, a <NAVI>[Auxiliar da Zonda]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21127] = {Title = "[É] Barata do Mar", IconName = "ico_dq.bmp", 
+Description = {"Elimine Kukres no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI> para encontrar algum tesouro que pode ter sido comido por ele."}
+, Summary = "Caçar Kukre"}
+, 
+[21128] = {Title = "Tesouro de Mentira", 
+Description = {"Para motivar os aventureiros que procuram nos destroços do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, decidimos esconder o tesouro diretamente dentro das caixas. \201 um tesouro insignificante, mas \233 melhor que nada."}
+, Summary = "Esconder 10 Dobrões"}
+, 
+[21129] = {Title = "[Espera] Tesouro do Mar", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com Amora, a <NAVI>[Auxiliar da Zonda]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21130] = {Title = "[É] Tesouro do Mar", IconName = "ico_dq.bmp", 
+Description = {"Vamos esconder <ITEM>[Dobrão]<INFO>25074</INFO></ITEM> para motivar os aventureiros no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>."}
+, Summary = "Esconder 10 Dobrões"}
+, 
+[21131] = {Title = "Para o Navio Fantasma", 
+Description = {"Para esclarecer o som que voc\234 ouviu enquanto escondia dobrões, v\225 at\233 o <NAVI>[Pesquisador]<INFO>alb2trea,94,77,0,101,0</INFO></NAVI> de destroços, na ilha de Alberta."}
+, Summary = "Fale com Aspar"}
+, 
+[21132] = {Title = "Objeto Suspeito", 
+Description = {"Por Aspar, que \233 fraco para entrar, traga de volta algum item. Tente encontrar o <NAVI>[Objeto Suspeito]<INFO>treasure01,69,24,0,101,0</INFO></NAVI> no Navio Fantasma."}
+, Summary = "1 Espada do Almirante"}
+, 
+[21133] = {Title = "Mostre o Resultado", 
+Description = {"Agora que descobrimos um pouco mais sobre o Navio, vamos voltar ao Salão de Beleza e falar com a <NAVI>[Auxiliar da Zonda]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI>"}
+, Summary = "Fale com Amora"}
+, 
+[21134] = {Title = "Promessa pro Morto", IconName = "ico_dq.bmp", 
+Description = {"Depois de encontrar com o fantasma de Drake, Amora disse que estava ocupada e adiou para amanh\227. Vamos visitar a <NAVI>[Auxiliar da Zonda]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI> em Alberta novamente amanh\227."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21135] = {Title = "[Espera] Limpando o Navio", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com Amora, a <NAVI>[Auxiliar da Zonda]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21136] = {Title = "[É] Limpando o Navio", IconName = "ico_dq.bmp", 
+Description = {"Para manter a promessa com o fantasma de Drake, elimine Hidras e colete 10 <ITEM>[Ossos]<INFO>932</INFO></ITEM>, 5 <ITEM>[Peles de Verme]<INFO>955</INFO></ITEM> e 5 <ITEM>[Tentáculos]<INFO>962</INFO></ITEM> no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>."}
+, Summary = "Colete os itens"}
+, 
+[21137] = {Title = "[Espera] Navio Assombrado", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com Amora, a <NAVI>[Auxiliar da Zonda]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21138] = {Title = "[É] Navio Assombrado", IconName = "ico_dq.bmp", 
+Description = {"Para manter a promessa com o fantasma de Drake, vamos eliminar os monstros no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>. O Marinheiro Ágil \233 um monstro campeão que aparece raramente no 1\186 andar do Navio."}
+, Summary = "Caçada no Navio"}
+, 
+[21140] = {Title = "[É] Peregrinação Pacífica", IconName = "ico_dq.bmp", 
+Description = {"Para proteger os peregrinos e aventureiros que vêm e vão para o <NAVI>[Aeroporto de Rachel]<INFO>ra_fild12,296,200,0,101,0</INFO></NAVI>, vamos caçar Roween."}
+, Summary = "Caçar Roween"}
+, 
+[21141] = {Title = "[Espera] Peregrinação Pacífica", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda Aeroportuário]<INFO>ra_fild12,296,200,0,101,0</INFO></NAVI> nas Planícies de Ida."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21142] = {Title = "[É] Peregrinação Pacífica", IconName = "ico_dq.bmp", 
+Description = {"Vamos caçar 30 Roweens para que o <NAVI>[Guarda Aeroportuário]<INFO>ra_fild12,296,200,0,101,0</INFO></NAVI> e os peregrinos fracos não se machuquem."}
+, Summary = "Caçar 30 Roween"}
+, 
+[21143] = {Title = "[É] Guardião da Beleza", IconName = "ico_dq.bmp", 
+Description = {"Vingue-se do Jovem que ficou com o rosto desconfigurado. V\225 at\233 a <NAVI>[Caverna de Gelo]<INFO>ice_dun01,158,16,0,101,0</INFO></NAVI> e elimine Siromas."}
+, Summary = "Caçar Siroma"}
+, 
+[21144] = {Title = "[Espera] Guardião da Beleza", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Leonardo]<INFO>rachel,192,138,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21145] = {Title = "[É] Guardião da Beleza", IconName = "ico_dq.bmp", 
+Description = {"Não sei se \233 algo para ficar com raiva, mas de qualquer maneira, aqueles que pregam peças ruins precisam ser repreendidos. Vamos pegar 30 Siromas na <NAVI>[Caverna de Gelo]<INFO>ice_dun01,158,16,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Siroma"}
+, 
+[21146] = {Title = "[É] Pedra sobre Pedra", IconName = "ico_dq.bmp", 
+Description = {"Para ajudar os aldeões a ganhar a vida coletando minerais, elimine 30 <NAVI>[Stapos]<INFO>STAPO,0,0,3,-222,1</INFO></NAVI> para que eles possam coletar minerais."}
+, Summary = "Caçar Stapo"}
+, 
+[21147] = {Title = "[Espera] Pedra sobre Pedra", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Caetano]<INFO>veins,182,130,0,101,0</INFO></NAVI>, em Veins."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21148] = {Title = "[É] Pedra sobre Pedra", IconName = "ico_dq.bmp", 
+Description = {"Para que os aldeões possam pegar minerais, vamos caçar 30 <NAVI>[Stapos]<INFO>STAPO,0,0,3,-222,1</INFO></NAVI>, pedras que vão engolir qualquer coisa."}
+, Summary = "Caçar Stapo"}
+, 
+[21149] = {Title = "[É] Passeio pela Ilha", 
+Description = {"Vamos eliminar Lavadeiras e Coelhos na <NAVI>[Ilha da Tartaruga]<INFO>tur_dun01,157,39,0,101,0</INFO></NAVI>. Voc\234 pode acess\225-la pelo barco em Alberta."}
+, Summary = "Ilha da Tartaruga"}
+, 
+[21150] = {Title = "[Espera] Passeio pela Ilha", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o Soldado <NAVI>[Tibalto]<INFO>alberta,210,120,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21151] = {Title = "[É] Passeio pela Ilha", IconName = "ico_dq.bmp", 
+Description = {"Vamos eliminar Lavadeiras e Coelhos na <NAVI>[Ilha da Tartaruga]<INFO>tur_dun01,157,39,0,101,0</INFO></NAVI>. Voc\234 pode acess\225-la pelo barco em Alberta."}
+, Summary = "Ilha da Tartaruga"}
+, 
+[21152] = {Title = "[É] Nativos da Ilha 1", 
+Description = {"Para que quem explora o <NAVI>[subterrâneo]<INFO>tur_dun02,148,264,0,101,0</INFO></NAVI> não caia em perigo, vamos caçar Solidificadores e Batedores."}
+, Summary = "Caçar Tartarugas"}
+, 
+[21153] = {Title = "[É] Nativos da Ilha 1", IconName = "ico_dq.bmp", 
+Description = {"Para que quem explora o <NAVI>[subterrâneo]<INFO>tur_dun02,148,264,0,101,0</INFO></NAVI> não caia em perigo, vamos caçar Solidificadores e Batedores."}
+, Summary = "Caçar Tartarugas"}
+, 
+[21154] = {Title = "[É] Nativos da Ilha 2", 
+Description = {"Vamos caçar Congeladores e Aquecedores na <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Tartarugas"}
+, 
+[21155] = {Title = "[É] Nativos da Ilha 2", IconName = "ico_dq.bmp", 
+Description = {"Vamos caçar Congeladores e Aquecedores na <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Tartarugas"}
+, 
+[21156] = {Title = "[Espera] Nativos da Ilha", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o Soldado <NAVI>[Tibalto]<INFO>alberta,210,120,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21157] = {Title = "Procurando pela Brigada", 
+Description = {"V\225 at\233 a <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI> e procure por um membro da Brigada de Segurança de Alberta."}
+, Summary = "Fale com Expedito"}
+, 
+[21158] = {Title = "[É] Tartaruga Ninja", 
+Description = {"Vamos eliminar 10 Agressores na <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Agressor"}
+, 
+[21159] = {Title = "[Espera] Tartaruga Ninja", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Capitão Expedito]<INFO>tur_dun03,108,74,0,101,0</INFO></NAVI>, na Vila das Boas Tartarugas."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21160] = {Title = "[É] Tartaruga Ninja", IconName = "ico_dq.bmp", 
+Description = {"Vamos eliminar 10 Agressores na <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Agressor"}
+, 
+[21161] = {Title = "Reporte a Situação", 
+Description = {"Vamos voltar para Alberta e informar  para o Soldado <NAVI>[Tibalto]<INFO>alberta,210,120,0,101,0</INFO></NAVI> sobre a decisão do Capitão Expedito."}
+, Summary = "Fale com Tibalto"}
+, 
+[21162] = {Title = "[É] Tesouro do Mar", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."}
+, Summary = "Caixa Antiga"}
+, 
+[21163] = {Title = "[É] Tesouro do Mar novamente", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."}
+, Summary = "Caixa Antiga"}
+, 
+[21164] = {Title = "[É] Tesouro do Mar", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."}
+, Summary = "Caixa Antiga"}
+, 
+[21165] = {Title = "[É] Tesouro do Mar", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."}
+, Summary = "Caixa Antiga"}
+, 
+[21166] = {Title = "[É] Tesouro do Mar", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."}
+, Summary = "Caixa Antiga"}
+, 
+[21167] = {Title = "Modo História", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Estudante de Magia]<INFO>geffen,126,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21168] = {Title = "Modo História", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Estudante de Magia]<INFO>geffen,126,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21169] = {Title = "Modo História", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Estudante de Magia]<INFO>geffen,126,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21170] = {Title = "Modo História", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com Amora, a <NAVI>[Auxiliar da Zonda]<INFO>alberta_in,71,182,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21171] = {Title = "Modo História", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o Soldado <NAVI>[Tibalto]<INFO>alberta,210,120,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21172] = {Title = "Modo História", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o Soldado <NAVI>[Tibalto]<INFO>alberta,210,120,0,101,0</INFO></NAVI> em Alberta."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21173] = {Title = "Modo História", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21180] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21181] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21182] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21183] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21184] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21185] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21186] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21187] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21188] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21189] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21190] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21191] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21192] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21193] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21194] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21195] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21196] = {Title = "Passagem Secreta", 
+Description = {"Encontrei uma passagem secreta que leva ao Santuário!"}
+, Summary = ""}
+, 
+[21201] = {Title = "Aluno Sumido", 
+Description = {"Um velho estudioso que conheci em Morroc me pediu para encontrar um <NAVI>[Jovem Andarilho]<INFO>moc_fild17,358,277,0,101,0</INFO></NAVI> que havia saído sozinho para encontrar a Guilda dos Mercenários. Vamos para o deserto a sudeste de Morroc, onde fica a Guilda dos Mercenários."}
+, Summary = "Ao Jovem Andarilho"}
+, 
+[21202] = {Title = "[É] Areia Movediça", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Jovem Andarilho]<INFO>moc_fild17,358,277,0,101,0</INFO></NAVI> diz que não pode ir mais longe por causa do Arenoso. Ele pede para voc\234 eliminar Arenosos e coletar 5 <ITEM>[Torrões de Areia]<INFO>1056</INFO></ITEM>."}
+, Summary = "5 Torrões de Areia"}
+, 
+[21203] = {Title = "[Espera] Areia Movediça", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Jovem Andarilho]<INFO>moc_fild17,358,277,0,101,0</INFO></NAVI> no deserto de Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21204] = {Title = "Verit Ladrão.", 
+Description = {"O <NAVI>[Velho Professor]<INFO>moc_ruins,104,122,0,101,0</INFO></NAVI> pede para voc\234 encontrar a <ITEM>[P\225 de Campo]<INFO>6381</INFO></ITEM> que Verit pegou. Ao derrotar Verit e Minorous, voc\234 ter\225 uma chance de conseguir uma P\225 de Campo direto no seu inventário."}
+, Summary = "1 P\225 de Campo"}
+, 
+[21205] = {Title = "[É] Preciso Dormir!", IconName = "ico_dq.bmp", 
+Description = {"Um pedido de <NAVI>[Rumin]<INFO>moc_ruins,105,124,0,101,0</INFO></NAVI> que vive na Guilda dos Gatunos. Os membros da guilda estão desconfortáveis por causa de Verit e Minorous morando no porão da guilda. Vamos derrotar Verit e Minorous."}
+, Summary = "Caça na Pirâmide"}
+, 
+[21206] = {Title = "[Espera] Preciso Dormir!", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Rumin]<INFO>moc_ruins,105,124,0,101,0</INFO></NAVI> nas ruínas de Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21207] = {Title = "Intercambistas", 
+Description = {"<NAVI>[Ernesto]<INFO>moc_ruins,101,124,0,101,0</INFO></NAVI> pede que encontre seus amigos que entraram na <NAVI>[Pirâmide]<INFO>moc_pryd01,20,192,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Maximus"}
+, 
+[21208] = {Title = "Velha Caixa Azul?", 
+Description = {"O Líder <NAVI>[Maximus]<INFO>moc_pryd01,20,192,0,101,0</INFO></NAVI> acredita que o Espólio \233 uma velha caixa azul. Depois de eliminar Múmias, vamos conferir de novo..."}
+, Summary = "1 Espólio"}
+, 
+[21209] = {Title = "Intercambistas", 
+Description = {"Vamos contar a <NAVI>[Ernesto]<INFO>moc_ruins,101,124,0,101,0</INFO></NAVI> quem estar\225 esperando no Oasis sobre a história de Maximus e seus amigos!"}
+, Summary = "Fale com Ernesto"}
+, 
+[21210] = {Title = "O Segredo da Ísis", 
+Description = {"<NAVI>[Ernesto]<INFO>moc_ruins,101,124,0,101,0</INFO></NAVI> quer desvendar os segredos da pirâmide. Derrote Ísis e traga 1 <ITEM>[Bandagem Estragada]<INFO>930</INFO></ITEM>."}
+, Summary = "1 Bandagem Estragada"}
+, 
+[21211] = {Title = "Trabalhadores da Esfinge", 
+Description = {"<NAVI>[Ernesto]<INFO>moc_ruins,101,124,0,101,0</INFO></NAVI> quer investigar a relação entre a Pirâmide, a Esfinge, ^4d4dffZerom e Réquiem^000000..."}
+, Summary = "Elimine os Pedreiros"}
+, 
+[21212] = {Title = "Segredos da Esfinge", 
+Description = {"Voc\234 deve investigar ^4d4dffMarduk e Pasana^000000 que aparecem na Esfinge. Ao derrotar Marduk, haver\225 uma chance de adquirir um <ITEM>[Antigo Papiro]<INFO>25073</INFO></ITEM> direto no seu inventário."}
+, Summary = "1 Antigo Papiro"}
+, 
+[21213] = {Title = "[É] Metade Cobra", IconName = "ico_dq.bmp", 
+Description = {"Elimine Ísis no segundo piso da Pirâmide."}
+, Summary = "Caçar Ísis"}
+, 
+[21214] = {Title = "[Espera] Metade Cobra", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Ernesto]<INFO>moc_ruins,101,124,0,101,0</INFO></NAVI> nas Ruínas de Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21215] = {Title = "[É] Pedreiros", IconName = "ico_dq.bmp", 
+Description = {"Devo eliminar Zerom e Réquiem, que estão interferindo na investigação interna da Esfinge. Zerom e Réquiem aparecem principalmente no 1\186 e 2\186 andares da Esfinge."}
+, Summary = "Caçada na Esfinge"}
+, 
+[21216] = {Title = "[Espera] Pedreiros", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Ernesto]<INFO>moc_ruins,101,124,0,101,0</INFO></NAVI> nas Ruínas de Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21217] = {Title = "[É] Enigma da Esfinge", IconName = "ico_dq.bmp", 
+Description = {"Elimine Marduk e Pasana na Esfinge. Ao derrotar Marduk, haver\225 uma chance de conseguir <ITEM>[Antigo Papiro]<INFO>25073</INFO></ITEM> direto no seu inventário."}
+, Summary = "10 Antigos Papiros"}
+, 
+[21218] = {Title = "[Espera] Enigma da Esfinge", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Ernesto]<INFO>moc_ruins,101,124,0,101,0</INFO></NAVI> nas Ruínas de Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21219] = {Title = "[É] A Caixa da Múmia", IconName = "ico_dq.bmp", 
+Description = {"A pedido do <NAVI>[Líder Maximus]<INFO>moc_pryd01,20,192,0,101,0</INFO></NAVI>, devo eliminar ^4d4dff10 Múmias e pegar 1 Espólio^000000."}
+, Summary = "1 Espólio"}
+, 
+[21220] = {Title = "[Espera] A Caixa da Múmia", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Líder Maximus]<INFO>moc_pryd01,20,192,0,101,0</INFO></NAVI> na Pirâmide."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21221] = {Title = "Bichos Barulhentos", 
+Description = {"Elimine ^4d4dffPecoPeco^000000 e ^4d4dffMuka^000000 no <NAVI>[deserto de Sograt]<INFO>moc_fild01,253,357,0,101,0</INFO></NAVI> e volte a falar com a <NAVI>[Instrutora Pontis]<INFO>izlude,132,207,0,101,0</INFO></NAVI>."}
+, Summary = "Caça no Deserto"}
+, 
+[21222] = {Title = "[É] Bichos Barulhentos", IconName = "ico_dq.bmp", 
+Description = {"Elimine PecoPeco e Muka no <NAVI>[deserto de Sograt]<INFO>moc_fild01,253,357,0,101,0</INFO></NAVI>. As reclamações dizem que são \'muito ruidosos\'."}
+, Summary = "Caça no Deserto"}
+, 
+[21223] = {Title = "[Espera] Bichos Barulhentos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com a <NAVI>[Instrutora Pontis]<INFO>izlude,132,207,0,101,0</INFO></NAVI> em Izlude."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21224] = {Title = "Estranhos do Deserto", 
+Description = {"Solicitação da <NAVI>[Instrutora Pontis]<INFO>izlude,132,207,0,101,0</INFO></NAVI> para treinamento. Elimine os monstros no <NAVI>[deserto de Sograt]<INFO>prt_fild09,380,237,0,101,0</INFO></NAVI>."}
+, Summary = "Caçada em Sograt"}
+, 
+[21225] = {Title = "[É] Estranhos do Deserto", IconName = "ico_dq.bmp", 
+Description = {"Solicitação da <NAVI>[Instrutora Pontis]<INFO>izlude,132,207,0,101,0</INFO></NAVI> para treinamento. Elimine os monstros no <NAVI>[deserto de Sograt]<INFO>prt_fild09,380,237,0,101,0</INFO></NAVI>."}
+, Summary = "Caçada em Sograt"}
+, 
+[21226] = {Title = "[Espera] Estranhos do Deserto", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com a <NAVI>[Instrutora Pontis]<INFO>izlude,132,207,0,101,0</INFO></NAVI> em Izlude."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21227] = {Title = "Biologia Marinha", 
+Description = {"Procure pelo <NAVI>[Biólogo Helder]<INFO>izlu2dun,105,68,0,101,0</INFO></NAVI> na ilha Byalan. Voc\234 pode acess\225-la pegando um barco em Izlude."}
+, Summary = "Fale com o Biólogo"}
+, 
+[21228] = {Title = "[É] Biologia Marinha", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Biólogo Helder]<INFO>izlu2dun,105,68,0,101,0</INFO></NAVI> diz que precisa de uma amostra. Entre no <NAVI>[Túnel Submarino]<INFO>iz_dun00,168,166,0,101,0</INFO></NAVI> e consiga 10 <ITEM>[Células Únicas]<INFO>1052</INFO></ITEM> caçando Marina ou Plâncton."}
+, Summary = "10 Células Únicas"}
+, 
+[21229] = {Title = "[Espera] Biologia Marinha", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Biólogo Helder]<INFO>izlu2dun,105,68,0,101,0</INFO></NAVI>, na ilha Byalan."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21230] = {Title = "Amuleto de Caranguejo", 
+Description = {"O <NAVI>[Ambulante]<INFO>izlu2dun,108,68,0,101,0</INFO></NAVI> disse que iria lhe recompensar se voc\234 obtivesse 5 <ITEM>[Garras de Crustáceo]<INFO>960</INFO></ITEM> que podem ser obtidas ao derrotar <NAVI>[Vadon]<INFO>iz_dun00,168,166,0,101,0</INFO></NAVI>."}
+, Summary = "5 Garras de Crustáceo"}
+, 
+[21231] = {Title = "[É] Amuleto de Caranguejo", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Ambulante]<INFO>izlu2dun,108,68,0,101,0</INFO></NAVI> disse que iria lhe recompensar se voc\234 obtivesse 5 <ITEM>[Garras de Crustáceo]<INFO>960</INFO></ITEM> que podem ser obtidas ao derrotar <NAVI>[Vadon]<INFO>iz_dun00,168,166,0,101,0</INFO></NAVI>."}
+, Summary = "5 Garras de Crustáceo"}
+, 
+[21232] = {Title = "[Espera] Amuleto de Caranguejo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Ambulante]<INFO>izlu2dun,108,68,0,101,0</INFO></NAVI> na ilha Byalan."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21233] = {Title = "Sem Notícias", 
+Description = {"Ernesto, um intercambista, est\225 ansioso porque não tem notícias dos outros amigos enquanto est\225 ferido. Procure pelos <NAVI>[amigos]<INFO>iz_dun02,229,231,0,101,0</INFO></NAVI> de Ernesto."}
+, Summary = "Fale com o Líder Maximus"}
+, 
+[21234] = {Title = "Ingredientes Culinários", 
+Description = {"O jovem <NAVI>[Kysekili]<INFO>iz_dun02,228,229,0,101,0</INFO></NAVI> est\225 cheio de pensamentos sobre cozinhar. Derrote Martes e traga <ITEM>[Tinta de Polvo]<INFO>1024</INFO></ITEM>."}
+, Summary = "10 Tintas de Polvo"}
+, 
+[21235] = {Title = "[É] Sereia Encantadora", IconName = "ico_dq.bmp", 
+Description = {"O pobre <NAVI>[Ankana]<INFO>iz_dun02,231,230,0,101,0</INFO></NAVI> continua falando sobre uma certa mulher que conheceu, ele duvida que seja uma sereia. Derrote Obeaune e pegue 1 <ITEM>[Coração de Sereia]<INFO>950</INFO></ITEM> como prova."}
+, Summary = "1 Coração de Sereia"}
+, 
+[21236] = {Title = "Estamos Preocupados!", 
+Description = {"V\225 at\233 <NAVI>[Ernesto]<INFO>iz_dun01,121,158,0,101,0</INFO></NAVI> e entregue a Sopa de Lula e Sapo feita por Kysekili para mostrar que o grupo ainda se importa com ele."}
+, Summary = "Leve a Sopa para Ernesto"}
+, 
+[21237] = {Title = "[É] Cuidando do Grupo", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Ernesto]<INFO>iz_dun01,121,158,0,101,0</INFO></NAVI> parece estar de alguma forma comovido com a maneira como os membros do grupo cuidam dele. Como gratidão, ele quer que voc\234 elimine alguns monstros no <NAVI>[Túnel Submarino]<INFO>iz_dun03,37,64,0,101,0</INFO></NAVI>."}
+, Summary = "Túnel Submarino"}
+, 
+[21238] = {Title = "[Espera] Cuidando do Grupo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Ernesto]<INFO>iz_dun01,121,158,0,101,0</INFO></NAVI> no Túnel Submarino."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21239] = {Title = "[É] Ingredientes Culinários", IconName = "ico_dq.bmp", 
+Description = {"O jovem <NAVI>[Kysekili]<INFO>iz_dun02,228,229,0,101,0</INFO></NAVI> est\225 cheio de pensamentos sobre cozinhar. Derrote Martes e traga <ITEM>[Tinta de Polvo]<INFO>1024</INFO></ITEM>."}
+, Summary = "10 Tintas de Polvo"}
+, 
+[21240] = {Title = "[Espera] Ingredientes Culinários", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Kysekili]<INFO>iz_dun02,228,229,0,101,0</INFO></NAVI> no Túnel Submarino."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21241] = {Title = "Ser\225 um Deus?", 
+Description = {"O <NAVI>[Líder Maximus]<INFO>iz_dun02,229,231,0,101,0</INFO></NAVI> acredita ter visto Poseidon, o Deus do mar, no <NAVI>[Túnel Submarino]<INFO>iz_dun04,28,35,0,101,0</INFO></NAVI>. No entanto, eles são apenas monstros chamados Strouf e Tritão. Vamos provar isso trazendo 1 <ITEM>[Nadadeira]<INFO>951</INFO></ITEM> e 1 <ITEM>[Lábio Fossilizado]<INFO>1054</INFO></ITEM>."}
+, Summary = "1 Nadadeira e 1 Lábio"}
+, 
+[21242] = {Title = "[É] Deus dos Oceanos", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Líder Maximus]<INFO>iz_dun02,229,231,0,101,0</INFO></NAVI> descobriu que Strouf e Tritão não eram Deuses do mar, mas ele pediu que fossem eliminados no <NAVI>[Túnel Submarino]<INFO>iz_dun04,28,35,0,101,0</INFO></NAVI>."}
+, Summary = "Caçada Submarina"}
+, 
+[21243] = {Title = "[Espera] Deus dos Oceanos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Líder Maximus]<INFO>iz_dun02,229,231,0,101,0</INFO></NAVI> no Túnel Submarino."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21244] = {Title = "[Espera] Sereia Encantadora", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Ankana]<INFO>iz_dun02,231,230,0,101,0</INFO></NAVI> no Túnel Submarino."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21246] = {Title = "Protegendo o Parquinho", 
+Description = {"O pequeno <NAVI>[Paulinho]<INFO>prt_fild05,353,221,0,101,0</INFO></NAVI> quer que voc\234 elimine os Zangões do campo \224 esquerda de Prontera."}
+, Summary = "Caçar Zangão"}
+, 
+[21247] = {Title = "Segurança do Parquinho", 
+Description = {"O pequeno <NAVI>[Paulinho]<INFO>prt_fild05,353,221,0,101,0</INFO></NAVI> quer que voc\234 elimine os Rockers do <NAVI>[campo ao sul]<INFO>prt_fild07,251,364,0,101,0</INFO></NAVI> do parquinho."}
+, Summary = "Caçar Rocker"}
+, 
+[21248] = {Title = "Guardião do Parquinho", 
+Description = {"A pequena <NAVI>[Aninha]<INFO>prt_fild05,351,220,0,101,0</INFO></NAVI> acha que Ambernites são cavaleiros de armadura redonda. Vamos at\233 o <NAVI>[habitat]<INFO>prt_fild04,380,160,0,101,0</INFO></NAVI> deles e eliminar alguns para tranquilizar essas crianças."}
+, Summary = "Caçar Ambernite"}
+, 
+[21249] = {Title = "[É] Salvando o Parquinho", IconName = "ico_dq.bmp", 
+Description = {"O pequeno <NAVI>[Paulinho]<INFO>prt_fild05,353,221,0,101,0</INFO></NAVI> quer que voc\234 elimine os Zangões do campo \224 esquerda de Prontera."}
+, Summary = "Caçar Zangão"}
+, 
+[21250] = {Title = "[É] Insetos Musicais", IconName = "ico_dq.bmp", 
+Description = {"O pequeno <NAVI>[Paulinho]<INFO>prt_fild05,353,221,0,101,0</INFO></NAVI> quer que voc\234 elimine os Rockers do <NAVI>[campo ao sul]<INFO>prt_fild07,251,364,0,101,0</INFO></NAVI> do parquinho."}
+, Summary = "Caçar Rocker"}
+, 
+[21251] = {Title = "[É] Problema Pegajoso", IconName = "ico_dq.bmp", 
+Description = {"A pequena <NAVI>[Aninha]<INFO>prt_fild05,351,220,0,101,0</INFO></NAVI> acha que Ambernites são cavaleiros de armadura redonda. Vamos at\233 o <NAVI>[habitat]<INFO>prt_fild04,380,160,0,101,0</INFO></NAVI> deles e eliminar alguns para tranquilizar essas crianças."}
+, Summary = "Caçar Ambernite"}
+, 
+[21252] = {Title = "[Espera] Salvando o Parquinho", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Paulinho]<INFO>prt_fild05,353,221,0,101,0</INFO></NAVI> \224 esquerda de Prontera."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21253] = {Title = "[Espera] Insetos Musicais", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Paulinho]<INFO>prt_fild05,353,221,0,101,0</INFO></NAVI> \224 esquerda de Prontera."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21254] = {Title = "[Espera] Problema Pegajoso", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Aninha]<INFO>prt_fild05,351,220,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21255] = {Title = "Quadro de Caça", 
+Description = {"A Cavalaria de Prontera est\225 vigiando os ^4d4dffOrcs e Goblins^000000 nos vilarejos para evitar a expansão do território. Fale com a Escriv\227 da Cavalaria para mais detalhes."}
+, Summary = "Fale com a Escriv\227"}
+, 
+[21256] = {Title = "[É] Família Orc", IconName = "ico_dq.bmp", 
+Description = {"Atendendo ao pedido do <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI>, vamos eliminar ^4d4dffGuerreiro Orc, Senhora Orc e Filhote de Orc^000000!"}
+, Summary = "Caçar Orcs"}
+, 
+[21257] = {Title = "[Espera] Família Orc", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21258] = {Title = "[É] Orcs Infernais", IconName = "ico_dq.bmp", 
+Description = {"Atendendo ao pedido do <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI>, vamos eliminar ^4d4dffOrc Zumbi e Orc Esqueleto^000000 na caverna subterrânea."}
+, Summary = "Caverna dos Orcs"}
+, 
+[21259] = {Title = "[Espera] Orcs Infernais", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21260] = {Title = "[É] Ganancioso", IconName = "ico_dq.bmp", 
+Description = {"Atendendo ao pedido do <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI>, vamos eliminar ^4d4dffZenorc^000000 na caverna subterrânea."}
+, Summary = "Caçar Zenorc"}
+, 
+[21261] = {Title = "[Espera] Ganancioso", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI> na Vila dos Orcs."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21262] = {Title = "[É] Goblins Ferozes", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> da tropa na Vila Goblin quer que voc\234 elimine Goblins específicos. Preste atenção: são Goblins carregando Machado e Mangual."}
+, Summary = "Machado e Mangual"}
+, 
+[21263] = {Title = "[Espera] Goblins Ferozes", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> na Vila Goblin."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21264] = {Title = "[É] Goblins Velozes", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> da tropa na Vila Goblin quer que voc\234 elimine Goblins específicos. Preste atenção: são Goblins carregando Martelo e Adaga."}
+, Summary = "Martelo e Adaga"}
+, 
+[21265] = {Title = "[Espera] Goblins Velozes", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> na Vila Goblin."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21266] = {Title = "Suprimentos da Tropa", IconName = "ico_dq.bmp", 
+Description = {"V\225 at\233 o <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI> na Vila dos Orcs e entregue os <ITEM>[Suprimentos da Cavalaria]<INFO>25077</INFO></ITEM>. Se perder o item, ter\225 que comprar um novo com a <NAVI>[Escrivã]<INFO>prontera,62,339,0,101,0</INFO></NAVI>."}
+, Summary = "Ao Líder da Tropa"}
+, 
+[21267] = {Title = "Suprimentos do Vice-Líder", IconName = "ico_dq.bmp", 
+Description = {"Entregue os <ITEM>[Suprimentos da Cavalaria]<INFO>25077</INFO></ITEM> para o <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> na Vila Goblin."}
+, Summary = "Ao Vice-Líder"}
+, 
+[21268] = {Title = "[Espera] Suprimentos da Tropa", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através da <NAVI>[Escriv\227 da Cavalaria]<INFO>prontera,62,339,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21269] = {Title = "[É] Goblins Atrozes", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> da tropa na Vila Goblin quer que voc\234 elimine Goblins específicos. Preste atenção: são Goblins carregando Maça e Arco."}
+, Summary = "Maça e Arco"}
+, 
+[21270] = {Title = "[Espera] Goblins Atrozes", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> na Vila Goblin."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21271] = {Title = "Para Glast Heim", 
+Description = {"Laerte, da Catedral de Prontera est\225 preocupado com a falta de notícias de <NAVI>[Cláudio]<INFO>glast_01,205,131,0,101,0</INFO></NAVI>, que partiu para purificar a Abadia de Glast Heim."}
+, Summary = "Encontre Cláudio"}
+, 
+[21272] = {Title = "[É] Purificando o Lugar", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Cláudio]<INFO>glast_01,205,131,0,101,0</INFO></NAVI> pediu para lidar com mortos-vivos na Abadia. Se voc\234 encontrar outras meninas da Catedral de Prontera, elas poderão lhe ajudar."}
+, Summary = "Abadia de Glast Heim"}
+, 
+[21273] = {Title = "[Espera] Purificando o Lugar", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Cláudio]<INFO>glast_01,205,131,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21274] = {Title = "[É] Cemitério de Sacerdotes", IconName = "ico_dq.bmp", 
+Description = {"Derrote o Sacerdote Maldito e sua versão campe\227, o Sacerdote Maldito Feroz, para o monge <NAVI>[Cláudio]<INFO>glast_01,205,131,0,101,0</INFO></NAVI>."}
+, Summary = "Em Glast Heim"}
+, 
+[21275] = {Title = "[Espera] Cemitério de Sacerdotes", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Cláudio]<INFO>glast_01,205,131,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21276] = {Title = "Marmita da Mãe", IconName = "ico_dq.bmp", 
+Description = {"A senhora que conheci em Al De Baran pediu que eu entregasse uma marmita para o filho que trabalha no <NAVI>[posto da fronteira]<INFO>yuno_fild01,196,154,0,101,0</INFO></NAVI> ao norte de Al De Baran."}
+, Summary = "Fale com o Guarda"}
+, 
+[21277] = {Title = "[É] Problema na Fronteira", IconName = "ico_dq.bmp", 
+Description = {"O Capitão <NAVI>[César]<INFO>yuno_fild01,193,158,0,101,0</INFO></NAVI> solicitou a caçada aos monstros ao redor da fronteira."}
+, Summary = "Fronteira de Juno"}
+, 
+[21278] = {Title = "[Espera] Problema na Fronteira", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[César]<INFO>yuno_fild01,193,158,0,101,0</INFO></NAVI> na fronteira de Al De Baran."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21279] = {Title = "Macio e Fofinho", 
+Description = {"Um pedido de uma garota que conheci no posto de fronteira. Ela revelou que era aluna da Academia Kiel Hyre e pediu ^4d4dff5 Pele de Bode e 5 Pena de Grand Peco^000000 para fazer um cobertor macio. Entregue para ela na <NAVI>[Academia Kiel Hyre]<INFO>yuno_fild08,179,200,0,101,0</INFO></NAVI>."}
+, Summary = "Pele de Bode e Pena de Peco"}
+, 
+[21280] = {Title = "[É] Proteger a Academia", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Guarda da Academia]<INFO>yuno_fild08,198,200,0,101,0</INFO></NAVI> encarregado da segurança disse que muitas pessoas foram atacadas por Harpias e Rochosos no campus."}
+, Summary = "Caçar no Campus"}
+, 
+[21281] = {Title = "[Espera] Proteger a Academia", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda]<INFO>yuno_fild08,198,200,0,101,0</INFO></NAVI> da Academia Kiel Hyre."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21282] = {Title = "[É] Itens Valiosos", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Ambulante]<INFO>yuno_fild08,172,198,0,101,0</INFO></NAVI> solicitou ^4d4dff10 Peles de Bode e 10 Penas de GrandPeco^000000. Ele parece estar vendendo cobertores e travesseiros para os estudantes."}
+, Summary = "Pele de Bode, Pena de Peco"}
+, 
+[21283] = {Title = "[Espera] Itens Valiosos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Ambulante]<INFO>yuno_fild08,172,198,0,101,0</INFO></NAVI> na Academia Kiel Hyre."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21284] = {Title = "[É] Animais no Campus", IconName = "ico_dq.bmp", 
+Description = {"A <NAVI>[Aluna da Academia]<INFO>yuno_fild08,179,200,0,101,0</INFO></NAVI> fez um pedido adicional de eliminar Grand Pecos e Bodes."}
+, Summary = "Caça em Kiel Hyre"}
+, 
+[21285] = {Title = "[Espera] Animais no Campus", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com a <NAVI>[Aluna da Academia]<INFO>yuno_fild08,179,200,0,101,0</INFO></NAVI> Kiel Hyre."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21286] = {Title = "[É] Faxina na Torre", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Zelador]<INFO>aldebaran,136,123,0,101,0</INFO></NAVI> pediu para eliminar os monstros na <NAVI>[Torre do Relógio]<INFO>c_tower1,200,192,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Rideword e Punk"}
+, 
+[21287] = {Title = "[Espera] Faxina na Torre", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Zelador]<INFO>aldebaran,136,123,0,101,0</INFO></NAVI> em Al De Baran."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21288] = {Title = "[É] Objeto Animado", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Zelador]<INFO>aldebaran,136,123,0,101,0</INFO></NAVI> pediu para eliminar os monstros na <NAVI>[Sala do Pêndulo]<INFO>c_tower2,263,26,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Relógio"}
+, 
+[21289] = {Title = "[Espera] Objeto Animado", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Zelador]<INFO>aldebaran,136,123,0,101,0</INFO></NAVI> em Al De Baran."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21290] = {Title = "[É] Objeto Vivo", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Zelador]<INFO>aldebaran,136,123,0,101,0</INFO></NAVI> pediu para eliminar os monstros no <NAVI>[andar superior]<INFO>c_tower3,66,145,0,101,0</INFO></NAVI> da Torre do Relógio."}
+, Summary = "Caçar Alarme"}
+, 
+[21291] = {Title = "[Espera] Objeto Vivo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Zelador]<INFO>aldebaran,136,123,0,101,0</INFO></NAVI> em Al De Baran."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21292] = {Title = "[É] Risadas no Subsolo", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Zelador]<INFO>aldebaran,136,123,0,101,0</INFO></NAVI> conta que ouve barulhos sinistros vindo do <NAVI>[subsolo]<INFO>alde_dun04,80,265,0,101,0</INFO></NAVI> da Torre do Relógio."}
+, Summary = "Caçar Bathory"}
+, 
+[21293] = {Title = "[Espera] Risadas no Subsolo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Zelador]<INFO>aldebaran,136,123,0,101,0</INFO></NAVI> em Al De Baran."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21294] = {Title = "[É] Guerra na Praia", IconName = "ico_dq.bmp", 
+Description = {"O pescador <NAVI>[Raimundo]<INFO>hugel,100,149,0,101,0</INFO></NAVI> pediu para voc\234 se livrar dos Caranguejos e Estrelas do Mar afim de evitar que as redes de pesca fossem danificadas. Vamos fazer uma limpa na <NAVI>[praia]<INFO>hu_fild06,200,364,0,101,0</INFO></NAVI> sul de Hugel."}
+, Summary = "Caça na Praia"}
+, 
+[21295] = {Title = "[É] Catador de Ostras", IconName = "ico_dq.bmp", 
+Description = {"O pescador <NAVI>[Raimundo]<INFO>hugel,100,149,0,101,0</INFO></NAVI> um prato delicioso para voc\234 usando <ITEM>[Carne de Ostra]<INFO>966</INFO></ITEM>, dos <NAVI>[Moluscos]<INFO>hu_fild06,200,364,0,101,0</INFO></NAVI>."}
+, Summary = "5 Carnes de Ostra"}
+, 
+[21296] = {Title = "[É] Um Grande Lago", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Hudson]<INFO>hugel,91,142,0,101,0</INFO></NAVI>, responsável pelo abastecimento de água de Hugel, solicitou que os Novus fossem eliminados. Eles estão quebrando o cano de água conectado ao <NAVI>[Lago do Abismo]<INFO>hu_fild05,335,153,0,101,0</INFO></NAVI> todas as vezes."}
+, Summary = "Caçar Novus"}
+, 
+[21297] = {Title = "[Espera] Guerra na Praia", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Raimundo]<INFO>hugel,100,149,0,101,0</INFO></NAVI>, o pescador em Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21298] = {Title = "[Espera] Catador de Ostras", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Raimundo]<INFO>hugel,100,149,0,101,0</INFO></NAVI>, o pescador em Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21299] = {Title = "[Espera] Um Grande Lago", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Hudson]<INFO>hugel,91,142,0,101,0</INFO></NAVI>, o engenheiro hídrico de Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21300] = {Title = "[Espera] Marmita da Mãe", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Ela pode ser repetida com a <NAVI>[Senhora de Idade]<INFO>aldebaran,114,180,0,101,0</INFO></NAVI> em Al De Baran."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21301] = {Title = "D\234 lembranças ao meu irmão", 
+Description = {"Enrico Schumacher gostaria que voc\234 mandasse notícias ao irmão dele, Fred Schumacher. Ele est\225 trabalhando na <NAVI>[Usina]<INFO>ein_fild06,163,173,0,101,0</INFO></NAVI> depois do Vale do Abismo."}
+, Summary = "Fale com Fred"}
+, 
+[21302] = {Title = "[É] Patrulhamento", IconName = "ico_dq.bmp", 
+Description = {"A pedido de <NAVI>[Fred]<INFO>ein_fild06,163,173,0,101,0</INFO></NAVI>, decidi eliminar os Metallings e Holdens que comem e danificam a Usina."}
+, Summary = "Caça na Usina"}
+, 
+[21303] = {Title = "[Espera] Patrulhamento", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Fred]<INFO>ein_fild06,163,173,0,101,0</INFO></NAVI> na Usina dos campos de Einbroch."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21304] = {Title = "Passagem de Trem", 
+Description = {"Usei a passagem de Friedrich, que me permite ir para Einbech imediatamente."}
+, Summary = "Fale com Aiden"}
+, 
+[21305] = {Title = "[É] Trabalhadores da Mina", IconName = "ico_dq.bmp", 
+Description = {"Devo eliminar os Mineiros que est\225 causando problemas nas <NAVI>[Minas de Einbech]<INFO>ein_dun01,22,23,0,101,0</INFO></NAVI>. Vamos nos concentrar no primeiro andar da mina de carvão."}
+, Summary = "Caçar Mineiros"}
+, 
+[21306] = {Title = "[Espera] Trabalhadores da Mina", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda Aiden]<INFO>einbech,156,200,0,101,0</INFO></NAVI> em Einbech."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21307] = {Title = "[É] Como isso se move?", IconName = "ico_dq.bmp", 
+Description = {"Dizem que a Fornalha Velha, que era usada pelos Mineiros na <NAVI>[Mina de Einbech]<INFO>ein_dun02,291,292,0,101,0</INFO></NAVI>, começou a apresentar defeito e atacar os viajantes."}
+, Summary = "Caçar Fornalha Velha"}
+, 
+[21308] = {Title = "[Espera] Como isso se move?", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda Aiden]<INFO>einbech,156,200,0,101,0</INFO></NAVI> em Einbech."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21309] = {Title = "[É] Minérios Saltitantes", IconName = "ico_dq.bmp", 
+Description = {"Os Mineiros estão tendo problemas com Minerais e Obsidianas no segundo andar da <NAVI>[Mina de Einbech]<INFO>ein_dun02,291,292,0,101,0</INFO></NAVI>. Vamos lidar com isso."}
+, Summary = "Caçar Minerais"}
+, 
+[21310] = {Title = "[Espera] Minérios Saltitantes", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda Aiden]<INFO>einbech,156,200,0,101,0</INFO></NAVI> em Einbech."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21311] = {Title = "História das Cidades", 
+Description = {"Eu ouvi sobre a relação entre Einbroch e Einbech e a situação atual."}
+, Summary = "Fale com Aisen"}
+, 
+[21312] = {Title = "[É] Gases Venenosos", IconName = "ico_dq.bmp", 
+Description = {"A poluição do ar na cidade de Einbroch não pode se espalhar para outras áreas. Elimine Nuvens Venenosas nos <NAVI>[arredores]<INFO>ein_fild04,183,40,0,101,0</INFO></NAVI> de Einbroch."}
+, Summary = "Caçar Nuvem Venenosa"}
+, 
+[21313] = {Title = "[Espera] Gases Venenosos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda Aisen]<INFO>einbroch,220,254,0,101,0</INFO></NAVI> em Einbroch."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21314] = {Title = "[É] Gases Tóxicos", IconName = "ico_dq.bmp", 
+Description = {"A poluição do ar na cidade de Einbroch não pode se espalhar para outras áreas. Elimine Nuvens Tóxicas nos <NAVI>[arredores]<INFO>ein_fild04,183,40,0,101,0</INFO></NAVI> de Einbroch."}
+, Summary = "Caçar Nuvem Tóxica"}
+, 
+[21315] = {Title = "[Espera] Gases Tóxicos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda Aisen]<INFO>einbroch,220,254,0,101,0</INFO></NAVI> em Einbroch."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21316] = {Title = "[É] Boneco Assassino", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos de Einbroch]<INFO>ein_fild03,159,279,0,101,0</INFO></NAVI> h\225 muitos Ursinhos atacando aventureiros. Não se deixe enganar pela aparência fofa deles. O <NAVI>[Guarda Aisen]<INFO>einbroch,220,254,0,101,0</INFO></NAVI> pediu para voc\234 derrotar o Ursinho."}
+, Summary = "Caçar Ursinho"}
+, 
+[21317] = {Title = "[Espera] Boneco Assassino", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Guarda Aisen]<INFO>einbroch,220,254,0,101,0</INFO></NAVI> em Einbroch."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21318] = {Title = "Troca de Turnos", 
+Description = {"O Guarda Aisen est\225 esperando Carlos para a troca de turno. V\225 at\233 o <NAVI>[Aeroporto]<INFO>airport,133,42,0,101,0</INFO></NAVI> lembrar Carlos."}
+, Summary = "Fale com Carlos"}
+, 
+[21319] = {Title = "[É] Uma Grande Piscina", IconName = "ico_dq.bmp", 
+Description = {"Amy, moradora de Lighthalzen, reclama sobre não poder usar a <NAVI>[Piscina Pública]<INFO>lhz_fild01,231,104,0,101,0</INFO></NAVI>. Por isso, <NAVI>[Teodoro]<INFO>lighthalzen,200,314,0,101,0</INFO></NAVI> quer que voc\234 elimine as Rafflesias do local."}
+, Summary = "Caçar Rafflesia"}
+, 
+[21320] = {Title = "[Espera] Uma Grande Piscina", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Teodoro]<INFO>lighthalzen,200,314,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21321] = {Title = "[É] Bate no Tornozelo", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Teodoro]<INFO>lighthalzen,200,314,0,101,0</INFO></NAVI> ouviu que Miya foi atacada no tornozelo por Talos de Verme na <NAVI>[Piscina Pública]<INFO>lhz_fild01,207,75,0,101,0</INFO></NAVI>. Vamos revidar contra esses monstros."}
+, Summary = "Caçar Talo de Verme"}
+, 
+[21322] = {Title = "[Espera] Bate no Tornozelo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Teodoro]<INFO>lighthalzen,200,314,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21323] = {Title = "[É] Brisa Desagradável", IconName = "ico_dq.bmp", 
+Description = {"O Cavaleiro <NAVI>[Leno]<INFO>lighthalzen,208,314,0,101,0</INFO></NAVI> est\225 com medo de um lugar chamado <NAVI>[Vale da Morte]<INFO>lhz_fild02,36,221,0,101,0</INFO></NAVI>, mas ele precisa cumprir sua missão de eliminar Breezes."}
+, Summary = "Caçar Breeze"}
+, 
+[21324] = {Title = "[Espera] Brisa Desagradável", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Leno]<INFO>lighthalzen,208,314,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21325] = {Title = "Férias são Férias", 
+Description = {"Eu ouvi a história das crianças exigindo várias coisas a Teodoro, que est\225 de férias."}
+, Summary = "Fale com Teodoro"}
+, 
+[21326] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21327] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21328] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21329] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21330] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21331] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21332] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21333] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21334] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21335] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21336] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21337] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21338] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21339] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21340] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21341] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21342] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21343] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21344] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21345] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21346] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21347] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21348] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21349] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão com os aldeões!"}
+, Summary = ""}
+, 
+[21350] = {Title = "Alunos Intercambistas", 
+Description = {"Pediram-me para procurar os intercambistas que haviam saído para investigar Juperos. Vamos encontrar o <NAVI>[Líder Maximus]<INFO>yuno_fild07,228,172,0,101,0</INFO></NAVI> e ouvir sua história."}
+, Summary = "Fale com o Líder Maximus"}
+, 
+[21351] = {Title = "[É] Formigas de Aço", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Ernesto]<INFO>yuno_fild07,232,176,0,101,0</INFO></NAVI> encarregou voc\234 de exterminar Venatu (Laranja) e Venatu (Verde), que estão interferindo na exploração de Juperos."}
+, Summary = "Verde e Laranja"}
+, 
+[21352] = {Title = "[Espera] Formigas de Aço", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas por meio de <NAVI>[Ernesto]<INFO>yuno_fild07,232,176,0,101,0</INFO></NAVI> na entrada de Juperos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21353] = {Title = "[É] Formigas de Ferro", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Ernesto]<INFO>yuno_fild07,232,176,0,101,0</INFO></NAVI> encarregou voc\234 de exterminar Venatu (Vermelho) e Venatu (Azul), que estão interferindo na exploração de Juperos."}
+, Summary = "Vermelho e Azul"}
+, 
+[21354] = {Title = "[Espera] Formigas de Ferro", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas por meio de <NAVI>[Ernesto]<INFO>yuno_fild07,232,176,0,101,0</INFO></NAVI> na entrada de Juperos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21355] = {Title = "[É] Robôs Coloridos", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Maximus]<INFO>yuno_fild07,228,172,0,101,0</INFO></NAVI> pediu para voc\234 eliminar Dimik (Verde) e Dimik (Azul) que estão interferindo na exploração de Juperos."}
+, Summary = "Verde e Azul"}
+, 
+[21356] = {Title = "[Espera] Robôs Coloridos", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Missões podem ser aceitas através de <NAVI>[Maximus]<INFO>yuno_fild07,228,172,0,101,0</INFO></NAVI> na entrada de Juperos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21357] = {Title = "[É] Robôs Multicoloridos", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Maximus]<INFO>yuno_fild07,228,172,0,101,0</INFO></NAVI> pediu para voc\234 eliminar Dimik (Laranja) e Dimik (Vermelho) que estão interferindo na exploração de Juperos."}
+, Summary = "Laranja e Vermelho"}
+, 
+[21358] = {Title = "[Espera] Robôs Multicoloridos", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Missões podem ser aceitas através de <NAVI>[Maximus]<INFO>yuno_fild07,228,172,0,101,0</INFO></NAVI> na entrada de Juperos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21359] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21360] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21361] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21362] = {Title = "Bônus de EXP!", 
+Description = {"Voc\234 fez uma nova conexão!"}
+, Summary = ""}
+, 
+[21363] = {Title = "[É] Irmãos Zumbis", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> pediu para voc\234 eliminar ^4d4dffMassacres e Zumbis Dilacerados^000000 na ilha Esquecida."}
+, Summary = "Caçar Zumbis"}
+, 
+[21364] = {Title = "[Espera] Irmãos Zumbis", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Missões podem ser aceitas através de <NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> na ilha Esquecida."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21365] = {Title = "[É] Gritos e mais Gritos", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> solicitou que voc\234 matasse ^4d4dffBanshee^000000 para purificar a ilha Esquecida."}
+, Summary = "Caçar Banshee"}
+, 
+[21366] = {Title = "[Espera] Gritos e mais Gritos", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Missões podem ser aceitas através de <NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> na ilha Esquecida."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21367] = {Title = "[É] Controle dos Mortos", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> solicitou que voc\234 derrotasse ^4d4dffNecromante^000000 para purificar a ilha Esquecida."}
+, Summary = "Caçar Necromante"}
+, 
+[21368] = {Title = "[Espera] Controle dos Mortos", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Missões podem ser aceitas através de <NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> na ilha Esquecida."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21369] = {Title = "[É] Limpe a Ala Oeste", IconName = "ico_dq.bmp", 
+Description = {"A <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> solicita que voc\234 elimine ^4d4dffVanberk e Isilla^000000 no Santuário de Rachel. Se voc\234 não em acesso ao santuário, fale com <NAVI>[Eduardo]<INFO>ra_temple,168,169,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Vanberk e Isilla"}
+, 
+[21370] = {Title = "[Espera] Limpe a Ala Oeste", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através da <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> em Rachel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21371] = {Title = "[É] Limpe a Ala Leste", IconName = "ico_dq.bmp", 
+Description = {"A <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> solicita que voc\234 elimine ^4d4dffHodremlin^000000 no Santuário de Rachel. Se voc\234 não em acesso ao santuário, fale com <NAVI>[Eduardo]<INFO>ra_temple,168,169,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Hodremlin"}
+, 
+[21372] = {Title = "[Espera] Limpe a Ala Leste", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através da <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> em Rachel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21373] = {Title = "[É] Limpe a Ala Sul", IconName = "ico_dq.bmp", 
+Description = {"A <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> solicita que voc\234 elimine ^4d4dffAgav e Echio^000000 no Santuário de Rachel. Se voc\234 não em acesso ao santuário, fale com <NAVI>[Eduardo]<INFO>ra_temple,168,169,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Agav e Echio"}
+, 
+[21374] = {Title = "[Espera] Limpe a Ala Sul", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através da <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> em Rachel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21375] = {Title = "[É] Vilarejo dos Kobolds", IconName = "ico_dq.bmp", 
+Description = {"Recebi um pedido de <NAVI>[Harim]<INFO>ra_fild12,57,239,0,101,0</INFO></NAVI>, um caçador na Planície de Ida, para caçar Kobolds de qualquer tipo."}
+, Summary = "Caçar Kobold"}
+, 
+[21376] = {Title = "[Espera] Vilarejo dos Kobolds", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o Caçador <NAVI>[Harim]<INFO>ra_fild12,57,239,0,101,0</INFO></NAVI> na Planície de Ida."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21377] = {Title = "[É] Vila da Colina", IconName = "ico_dq.bmp", 
+Description = {"Recebi um pedido de <NAVI>[Harim]<INFO>ra_fild12,57,239,0,101,0</INFO></NAVI>, um caçador na Planície de Ida, para caçar Vento da Colina."}
+, Summary = "Caçar Vento da Colina"}
+, 
+[21378] = {Title = "[Espera] Vila da Colina", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o Caçador <NAVI>[Harim]<INFO>ra_fild12,57,239,0,101,0</INFO></NAVI> na Planície de Ida."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21379] = {Title = "[É] Pelos de Cachorro", IconName = "ico_dq.bmp", 
+Description = {"O fazendeiro <NAVI>[Cheda]<INFO>rachel,247,120,0,101,0</INFO></NAVI>, de Rachel, solicitou 20 <ITEM>[Cabelos Azuis]<INFO>1034</INFO></ITEM> dos Kobolds."}
+, Summary = "20 Cabelos Azuis"}
+, 
+[21380] = {Title = "[Espera] Pelos de Cachorro", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do Fazendeiro <NAVI>[Cheda]<INFO>rachel,247,120,0,101,0</INFO></NAVI> em Rachel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21381] = {Title = "[É] Guerra contra as Plantas", IconName = "ico_dq.bmp", 
+Description = {"A jardineira <NAVI>[Minne]<INFO>veins,183,91,0,101,0</INFO></NAVI> solicitou que voc\234 corte ^4d4dffDrosera e Muscipular^000000 por serem ervas daninhas."}
+, Summary = "Caçar Drosera e Muscipular"}
+, 
+[21382] = {Title = "[Espera] Guerra contra as Plantas", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Missões podem ser aceitas através da jardineira <NAVI>[Minne]<INFO>veins,183,91,0,101,0</INFO></NAVI> em Veins."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21383] = {Title = "[É] Mutação Vulcânica", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Vigia de Veins]<INFO>ve_fild03,75,135,0,101,0</INFO></NAVI> encomendou a caça dos ^4d4dffMagmarings^000000 gerados a partir de um vulcão próximo. Dizem que se eles proliferarem, a vegetação vai queimar."}
+, Summary = "Caçar Magmaring"}
+, 
+[21384] = {Title = "[Espera] Mutação Vulcânica", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do <NAVI>[Vigia de Veins]<INFO>ve_fild03,75,135,0,101,0</INFO></NAVI> próximo ao Vulcão de Thor."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21385] = {Title = "[É] Alcateia no Deserto", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Sarim]<INFO>ra_fild01,225,325,0,101,0</INFO></NAVI>, o caçador na frente da Caverna de Gelo, pediu para voc\234 derrotar 30 ^4d4dffLobos do Deserto^000000."}
+, Summary = "Caçar Lobo do Deserto"}
+, 
+[21386] = {Title = "[Espera] Alcateia no Deserto", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do caçador <NAVI>[Sarim]<INFO>ra_fild01,225,325,0,101,0</INFO></NAVI> na frente da Caverna de Gelo."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21387] = {Title = "[É] Minhas Bebidas Geladas", IconName = "ico_dq.bmp", 
+Description = {"A Barista de Rahel, <NAVI>[Tarim]<INFO>rachel,91,134,0,101,0</INFO></NAVI>, pediu para voc\234 pegar 20 <ITEM>[Corações Glaciais]<INFO>7561</INFO></ITEM> na <NAVI>[Caverna de Gelo]<INFO>ice_dun01,157,18,0,101,0</INFO></NAVI>."}
+, Summary = "20 Corações Glaciais"}
+, 
+[21388] = {Title = "[Espera] Minhas Bebidas Geladas", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas por meio de <NAVI>[Tarim]<INFO>rachel,91,134,0,101,0</INFO></NAVI>, a Barista de Rachel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21389] = {Title = "[É] Monstro das Neves", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Amigo do Mago]<INFO>ice_dun01,149,168,0,101,0</INFO></NAVI> da Caverna de Gelo me pediu para se livrar de ^4d4dffYetis^000000 no caminho."}
+, Summary = "Caçar Yeti"}
+, 
+[21390] = {Title = "[Espera] Monstro das Neves", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do <NAVI>[Amigo do Mago]<INFO>ice_dun01,149,168,0,101,0</INFO></NAVI> dentro da Caverna de Gelo."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21391] = {Title = "[É] Cristais são Duros?", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Amigo do Mago]<INFO>ice_dun01,149,168,0,101,0</INFO></NAVI> da Caverna de Gelo me pediu para derrotar ^4d4dffTitãs de Gelo e Gazetis^000000."}
+, Summary = "Caçar Tit\227 e Gazeti"}
+, 
+[21392] = {Title = "[Espera] Cristais são Duros?", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através do <NAVI>[Amigo do Mago]<INFO>ice_dun01,149,168,0,101,0</INFO></NAVI> dentro da Caverna de Gelo."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21393] = {Title = "[É] Demônios dos Sonhos", IconName = "ico_dq.bmp", 
+Description = {"Em Geffen, <NAVI>[Mingmin]<INFO>geffen,129,46,0,101,0</INFO></NAVI> permitir\225 que voc\234 entre em Geffenia se ajud\225-la a lidar com ^4d4dffIncubus e Succubus^000000 para sua pesquisa."}
+, Summary = "Acesso a Geffenia"}
+, 
+[21394] = {Title = "[Espera] Demônios dos Sonhos", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. As missões podem ser aceitas através de <NAVI>[Mingmin]<INFO>geffen,129,46,0,101,0</INFO></NAVI> em Geffen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21401] = {Title = "Especiaria de Comodo", 
+Description = {"O <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> me pediu para ir at\233 a <NAVI>[caverna]<INFO>beach_dun3,23,260,0,101,0</INFO></NAVI> caçar Sapos de Thara e trazer 5 <ITEM>[Ovas de Sapo]<INFO>908</INFO></ITEM>."}
+, Summary = "5 Ovas de Sapo"}
+, 
+[21402] = {Title = "Especiaria de Comodo", 
+Description = {"Pergunte a <NAVI>[Seravi]<INFO>comodo,166,137,0,101,0</INFO></NAVI> sobre Korasera."}
+, Summary = "Fale com Seravi"}
+, 
+[21403] = {Title = "Especiaria de Comodo", 
+Description = {"Se voc\234 eliminar cerca de 10 <NAVI>[Megalodons]<INFO>beach_dun3,23,260,0,101,0</INFO></NAVI>, isso ajudar\225 no desenvolvimento de Korasera. Volte para <NAVI>[Seravi]<INFO>comodo,166,137,0,101,0</INFO></NAVI> após derrot\225-los."}
+, Summary = "Caçar Megalodon"}
+, 
+[21404] = {Title = "Especiaria de Comodo", 
+Description = {"Consegui uma Korasera de boa qualidade. Então, vamos voltar para o <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> de Comodo."}
+, Summary = "Fale com o Churrasqueiro"}
+, 
+[21405] = {Title = "Especiaria de Comodo", 
+Description = {"O <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> pediu para ir at\233 <NAVI>[a casa]<INFO>comodo,189,311,0,101,0</INFO></NAVI> dele."}
+, Summary = "Fale com Bunny"}
+, 
+[21406] = {Title = "Especiaria de Comodo", 
+Description = {"A filha do <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> foi enganada por sua amiga e aplicou Korasera no rosto. V\225 at\233 a <NAVI>[Seravi]<INFO>comodo,166,137,0,101,0</INFO></NAVI>, que mais conhece o Korasera, e peça uma solução."}
+, Summary = "Fale com Seravi"}
+, 
+[21407] = {Title = "Especiaria de Comodo", 
+Description = {"Seravi disse que massagear com os tentáculos da hidra melhorar\225 a condição. Elimine 10 <NAVI>[Hidras]<INFO>beach_dun3,23,260,0,101,0</INFO></NAVI> e leve 5 <ITEM>[Tentáculos]<INFO>962</INFO></ITEM> para o <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> em Comodo."}
+, Summary = "5 Tentáculos"}
+, 
+[21408] = {Title = "Churrasco Ruim", 
+Description = {"O <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> me pediu 10 <ITEM>[Patas Pegajosas]<INFO>918</INFO></ITEM> dos Sapos de Thara."}
+, Summary = "10 Patas Pegajosas"}
+, 
+[21410] = {Title = "[Espera] Churrasco Ruim", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> em Comodo."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21411] = {Title = "[É] Churrasco Ruim", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> me pediu 10 <ITEM>[Patas Pegajosas]<INFO>918</INFO></ITEM> dos Sapos de Thara."}
+, Summary = "10 Patas Pegajosas"}
+, 
+[21412] = {Title = "[Espera] Tratamento de Pele", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Bunny]<INFO>comodo,249,300,0,101,0</INFO></NAVI> em Comodo."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21413] = {Title = "[É] Tratamento de Pele", IconName = "ico_dq.bmp", 
+Description = {"Traga 5 <ITEM>[Tentáculos]<INFO>962</INFO></ITEM> obtidos ao eliminar 10 <NAVI>[Hidras]<INFO>beach_dun3,23,260,0,101,0</INFO></NAVI> para <NAVI>[Bunny]<INFO>comodo,249,300,0,101,0</INFO></NAVI>, que est\225 sofrendo os efeitos colaterais da aplicação do Korasera."}
+, Summary = "5 Tentáculos"}
+, 
+[21414] = {Title = "[Espera] Tempero Korasera", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Seravi]<INFO>comodo,166,137,0,101,0</INFO></NAVI> em Comodo."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21415] = {Title = "[É] Tempero Korasera", IconName = "ico_dq.bmp", 
+Description = {"Para ajudar <NAVI>[Seravi]<INFO>comodo,166,137,0,101,0</INFO></NAVI> a crescer Korasera, elimine 10 Megalodons."}
+, Summary = "Caçar Megalodon"}
+, 
+[21416] = {Title = "[É] Amigos na Praia", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Soldado]<INFO>cmd_fild07,126,139,0,101,0</INFO></NAVI> na Fortaleza de Sanderman quer que voc\234 elimine Focas e Lontras na <NAVI>[Praia de Kokomo]<INFO>cmd_fild02,220,365,0,101,0</INFO></NAVI>."}
+, Summary = "Praia de Kokomo"}
+, 
+[21417] = {Title = "[Espera] Amigos na Praia", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Soldado]<INFO>cmd_fild07,126,139,0,101,0</INFO></NAVI> na Fortaleza de Sanderman."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21418] = {Title = "[É] Duro como Pedra", IconName = "ico_dq.bmp", 
+Description = {"O <NAVI>[Soldado]<INFO>comodo,170,347,0,101,0</INFO></NAVI> solicita a eliminação de monstros na <NAVI>[caverna norte]<INFO>beach_dun2,153,38,0,101,0</INFO></NAVI> afim de abrir caminho para Umbala"}
+, Summary = "Caverna de Comodo"}
+, 
+[21419] = {Title = "[Espera] Duro como Pedra", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Soldado]<INFO>comodo,170,347,0,101,0</INFO></NAVI> em Comodo."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21420] = {Title = "[É] A Cor Verde", IconName = "ico_dq.bmp", 
+Description = {"Elimine 15 Groves e 10 Crocodilos para o <NAVI>[Explorador]<INFO>cmd_fild01,40,320,0,101,0</INFO></NAVI> que est\225 pesquisando a ecologia da <NAVI>[Floresta Papuchica]<INFO>cmd_fild01,82,250,0,101,0</INFO></NAVI> e do <NAVI>[Mangue Zenhai]<INFO>cmd_fild03,79,188,0,101,0</INFO></NAVI>."}
+, Summary = "Pedido do Explorador"}
+, 
+[21421] = {Title = "[Espera] A Cor Verde", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Explorador]<INFO>cmd_fild01,40,320,0,101,0</INFO></NAVI> na Floresta Papuchica."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21422] = {Title = "[Espera] Estoque de Pata Pegajosa", 
+Description = {"Entreguei Pata Pegajosa para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21423] = {Title = "[Espera] Estoque de Perna de Gafanhoto", 
+Description = {"Entreguei Perna de Gafanhoto para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21424] = {Title = "[Espera] Estoque de Casco de Caramujo", 
+Description = {"Entreguei Casco de Caramujo para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21425] = {Title = "[Espera] Estoque de Bico do Ave", 
+Description = {"Entreguei Bico do Ave para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21426] = {Title = "[Espera] Estoque de Pata de Urso", 
+Description = {"Entreguei Pata de Urso para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21427] = {Title = "[Espera] Estoque de Galho Seco", 
+Description = {"Entreguei Galho Seco para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21428] = {Title = "[Espera] Estoque de Cauda de Yoyo", 
+Description = {"Entreguei Cauda de Yoyo para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21429] = {Title = "[Espera] Estoque de Lampião", 
+Description = {"Entreguei Lampião para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21430] = {Title = "[Espera] Estoque de Concha", 
+Description = {"Entreguei Concha para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21431] = {Title = "[Espera] Estoque de Coração de Sereia", 
+Description = {"Entreguei Coração de Sereia para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21432] = {Title = "[Espera] Estoque de Crina", 
+Description = {"Entreguei Crina para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21433] = {Title = "[Espera] Estoque de Cabelos Morenos", 
+Description = {"Entreguei Cabelos Morenos para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21434] = {Title = "[Espera] Estoque de Ferradura", 
+Description = {"Entreguei Ferradura para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21435] = {Title = "[Espera] Estoque de Pata de Inseto", 
+Description = {"Entreguei Pata de Inseto para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21436] = {Title = "[Espera] Estoque de Areia Molhada", 
+Description = {"Entreguei Areia Molhada para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21437] = {Title = "[Espera] Estoque de Areia Seca", 
+Description = {"Entregamos Areia Seca para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21438] = {Title = "[Espera] Estoque de Casco de Tartaruga", 
+Description = {"Entreguei Casco de Tartaruga para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21439] = {Title = "[Espera] Estoque de Pequeno Chifre Maligno", 
+Description = {"Entreguei Pequeno Chifre Maligno para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21440] = {Title = "[Espera] Estoque de Coração Glacial", 
+Description = {"Entreguei Coração Glacial para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21441] = {Title = "[Espera] Estoque de Felpas", 
+Description = {"Entreguei Felpas para o Estoquista no Grupo do Éden. Voc\234 pode repetir a missão em 1 hora."}
+, Summary = "Volte em 1 hora"}
+, 
+[21442] = {Title = "Amigos na Praia", 
+Description = {"Se voc\234 visitar o cliente diretamente, poder\225 receber mais recompensas apenas uma vez."}
+, Summary = ""}
+, 
+[21443] = {Title = "Duro como Pedra", 
+Description = {"Se voc\234 visitar o cliente diretamente, poder\225 receber mais recompensas apenas uma vez."}
+, Summary = ""}
+, 
+[21444] = {Title = "A Cor Verde", 
+Description = {"Se voc\234 visitar o cliente diretamente, poder\225 receber mais recompensas apenas uma vez."}
+, Summary = ""}
+, 
+[21501] = {Title = "[É] Zangão Fugaz", 
+Description = {"Vamos caçar uma Zangão Fugaz no campo a oeste de Prontera."}
+, Summary = "Caçar 1 Zangão Fugaz"}
+, 
+[21502] = {Title = "[Espera] Zangão Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21503] = {Title = "[É] Rocker Fugaz", 
+Description = {"Vamos caçar um Rocker Fugaz no campo a sudoeste de Prontera."}
+, Summary = "Caçar 1 Rocker Fugaz"}
+, 
+[21504] = {Title = "[Espera] Rocker Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21505] = {Title = "[É] Ambernite Fugaz", 
+Description = {"Vamos caçar Ambernite Fugaz no campo a oeste de Prontera."}
+, Summary = "Caçar 1 Ambernite Fugaz"}
+, 
+[21506] = {Title = "[Espera] Ambernite Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21507] = {Title = "[É] Muka Alfa", 
+Description = {"Vamos caçar um Muka Alfa no campo a sudoeste de Izlude."}
+, Summary = "Caçar 1 Muka Alfa"}
+, 
+[21508] = {Title = "[Espera] Muka Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21509] = {Title = "[É] P\233-Grande Alfa", 
+Description = {"Vamos caçar um P\233-Grande Alfa no campo a sudeste de Payon."}
+, Summary = "Caçar 1 P\233-Grande Alfa"}
+, 
+[21510] = {Title = "[Espera] P\233-Grande Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21511] = {Title = "[É] Besouro-Chifre Brutal", 
+Description = {"Vamos caçar um Besouro-Chifre Brutal no campo a leste de Payon."}
+, Summary = "Caçar 1 Besouro-Chifre Brutal]"}
+, 
+[21512] = {Title = "[Espera] Besouro-Chifre Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21513] = {Title = "[É] Salgueiro Ancião Ágil", 
+Description = {"Cace um Salgueiro Ancião Ágil no campo a sudeste de Oak Village."}
+, Summary = "Caçar 1 Salgueiro Ancião Ágil"}
+, 
+[21514] = {Title = "[Espera] Salgueiro Ancião Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21515] = {Title = "[É] Koko Brutal", 
+Description = {"Cace um Koko Brutal no campo sudoeste de Prontera."}
+, Summary = "Caçar 1 Koko Brutal"}
+, 
+[21516] = {Title = "[Espera] Koko Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21517] = {Title = "[É] Yoyo Ágil", 
+Description = {"Vamos caçar um Yoyo Ágil no campo a nordeste de Prontera."}
+, Summary = "Caçar 1 Yoyo Ágil"}
+, 
+[21518] = {Title = "[Espera] Yoyo Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21519] = {Title = "[É] Magnólia Fugaz", 
+Description = {"Vamos caçar uma Magnólia Fugaz no campo ao sul de Izlude."}
+, Summary = "Caçar 1 Magnólia Fugaz"}
+, 
+[21520] = {Title = "[Espera] Magnólia Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21521] = {Title = "[É] Guerreiro Orc Feroz", 
+Description = {"Vamos caçar um Guerreiro Orc Feroz em uma Orc Village."}
+, Summary = "Caçar 1 Guerreiro Orc Feroz"}
+, 
+[21522] = {Title = "[Espera] Guerreiro Orc Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21523] = {Title = "[É] Goblin Ágil", 
+Description = {"Cace um Goblin Ágil no campo ao sul da Vila Orc."}
+, Summary = "Caçar 1 Goblin Ágil"}
+, 
+[21524] = {Title = "[Espera] Goblin Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21525] = {Title = "[É] Goblin Fugaz", 
+Description = {"Vamos caçar um Goblin Fugaz no campo a sudeste da Vila Orc."}
+, Summary = "Caçar 1 Goblin Fugaz"}
+, 
+[21526] = {Title = "[Espera] Goblin Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21527] = {Title = "[É] Petite Ágil", 
+Description = {"Vamos caçar um Petite Ágil no campo a oeste de Geffen."}
+, Summary = "Caçar 1 Petite Ágil"}
+, 
+[21528] = {Title = "[Espera] Petite Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21529] = {Title = "[É] Petite Brutal", 
+Description = {"Vamos caçar um Petite Brutal no campo ao norte de Geffen West."}
+, Summary = "Caçar 1 Petite Brutal"}
+, 
+[21530] = {Title = "[Espera] Petite Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21531] = {Title = "[É] Arenoso Feroz", 
+Description = {"Vamos caçar um Arenoso Feroz no campo sul-sudeste de Morroc."}
+, Summary = "Caçar 1 Arenoso Feroz"}
+, 
+[21532] = {Title = "[Espera] Arenoso Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21533] = {Title = "[É] Foca Ágil", 
+Description = {"Vamos caçar uma Foca Ágil no campo a sudeste de Comodo."}
+, Summary = "Caçar 1 Foca Ágil"}
+, 
+[21534] = {Title = "[Espera] Foca Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21535] = {Title = "[É] Grove Fugaz", 
+Description = {"Vamos caçar um Grove Fugaz no campo a leste de Comodo."}
+, Summary = "Caçar 1 Grove Fugaz"}
+, 
+[21536] = {Title = "[Espera] Grove Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21537] = {Title = "[É] Crocodilo Brutal", 
+Description = {"Vamos caçar um Crocodilo Brutal no campo a leste de Comodo."}
+, Summary = "Caçar 1 Crocodilo Brutal"}
+, 
+[21538] = {Title = "[Espera] Crocodilo Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21539] = {Title = "[É] Guerreiro Wootan Feroz", 
+Description = {"Vamos caçar um Guerreiro Wootan Feroz no campo oeste de Umbala."}
+, Summary = "Caçar 1 Guerreiro Wootan Feroz"}
+, 
+[21540] = {Title = "[Espera] Guerreiro Wootan Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21541] = {Title = "[É] Dríade Ágil", 
+Description = {"Cace uma Dríade Ágil nos campos a noroeste de Comodo."}
+, Summary = "Caçar 1 Dríade Ágil"}
+, 
+[21542] = {Title = "[Espera] Dríade Ágil]", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21543] = {Title = "[É] Molusco Ágil", 
+Description = {"Vamos caçar um Molusco Ágil no campo ao sul de Huigel."}
+, Summary = "Caçar 1 Molusco Ágil"}
+, 
+[21544] = {Title = "[Espera] Molusco Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21545] = {Title = "[É] Planta Carnívora Brutal", 
+Description = {"Cace uma Planta Carnívora Brutal nos campos ao norte de Al De Baran."}
+, Summary = "Caçar 1 Planta Carnívora Brutal"}
+, 
+[21546] = {Title = "[Espera] Planta Carnívora Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21547] = {Title = "[É] Grand Peco Alfa", 
+Description = {"Vamos caçar o Grand Peco Alfa no campo norte-noroeste de Al De Baran."}
+, Summary = "Caçar 1 Grand Peco Alfa"}
+, 
+[21548] = {Title = "[Espera] Grand Peco Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21549] = {Title = "[É] Bode Alfa", 
+Description = {"Vamos caçar um Bode Alfa no campo sul-sudeste de Juno."}
+, Summary = "Caçar 1 Bode Alfa"}
+, 
+[21550] = {Title = "[Espera] Bode Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21551] = {Title = "[É] Rochoso Ágil", 
+Description = {"Vamos caçar um Rochoso Ágil no campo sul-sudeste de Juno."}
+, Summary = "Caçar 1 Rochoso Ágil"}
+, 
+[21552] = {Title = "[Espera] Rochoso Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21553] = {Title = "[É] Talo de Verme Ágil", 
+Description = {"Vamos caçar um Talo de Verme Ágil no campo a nordeste de Lighthalzen."}
+, Summary = "Caçar 1 Talo de Verme Ágil"}
+, 
+[21554] = {Title = "[Espera] Talo de Verme Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21555] = {Title = "[É] Holden Brutal", 
+Description = {"Vamos caçar um Holden Brutal no campo a nordeste de Einbroch."}
+, Summary = "Caçar 1 Holden Brutal"}
+, 
+[21556] = {Title = "[Espera] Holden Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21557] = {Title = "[É] Rafflesia Ágil", 
+Description = {"Vamos caçar uma Rafflesia Ágil no campo ao norte de Lighthalzen."}
+, Summary = "Caçar 1 Rafflesia Ágil"}
+, 
+[21558] = {Title = "[Espera] Rafflesia Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21559] = {Title = "[É] Nuvem Venenosa Alfa", 
+Description = {"Vamos caçar uma Nuvem Venenosa Alfa no campo ao norte de Einbroch."}
+, Summary = "Caçar 1 Nuvem Venenosa Alfa"}
+, 
+[21560] = {Title = "[Espera] Nuvem Venenosa Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21561] = {Title = "[É] Nuvem Tóxica Feroz", 
+Description = {"Vamos caçar uma Nuvem Tóxica Feroz no campo a nordeste de Einbroch."}
+, Summary = "Caçar 1 Nuvem Tóxica Feroz"}
+, 
+[21562] = {Title = "[Espera] Nuvem Tóxica Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21563] = {Title = "[É] Novus Fugaz", 
+Description = {"Vamos caçar um Novus Fugaz no campo a sudoeste de Hugel."}
+, Summary = "Caçar 1 Novus Fugaz"}
+, 
+[21564] = {Title = "[Espera] Novus Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21565] = {Title = "[É] Roween Brutal", 
+Description = {"Vamos caçar um Roween Brutal no campo a leste de Rachel."}
+, Summary = "Caçar 1 Roween Brutal"}
+, 
+[21566] = {Title = "[Espera] Roween Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21567] = {Title = "[É] Stapo Alfa", 
+Description = {"Vamos caçar um Stapo Alfa no campo ao sul de Veins."}
+, Summary = "Caçar 1 Stapo Alfa"}
+, 
+[21568] = {Title = "[Espera] Stapo Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21569] = {Title = "[É] Fumacento Feroz", 
+Description = {"Vamos caçar um Fumacento Feroz em Ayotaya Field."}
+, Summary = "Caçar 1 Fumacento Feroz"}
+, 
+[21570] = {Title = "[Espera] Fumacento Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21571] = {Title = "[É] Pirralho Alfa", 
+Description = {"Vamos caçar um Pirralho Alfa em Kunlun Field."}
+, Summary = "Caçar 1 Pirralho Alfa"}
+, 
+[21572] = {Title = "[Espera] Pirralho Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21573] = {Title = "[É] Espírito do Vento Feroz", 
+Description = {"Vamos caçar um Espírito do Vento Feroz no Campo Brasilis."}
+, Summary = "Caçar 1 Espírito do Vento Feroz"}
+, 
+[21574] = {Title = "[Espera] Espírito do Vento Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21575] = {Title = "[É] Sorrateiro Brutal", 
+Description = {"Cace um Sorrateiro Brutal no Campo Moscovia."}
+, Summary = "Caçar 1 Sorrateiro Brutal"}
+, 
+[21576] = {Title = "[Espera] Sorrateiro Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21577] = {Title = "[É] Karakasa Ágil", 
+Description = {"Vamos caçar um Karakasa Ágil no Campo de Amatsu."}
+, Summary = "Caçar 1 Karakasa Ágil"}
+, 
+[21578] = {Title = "[Espera] Karakasa Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21579] = {Title = "[É] Mi Gao Fugaz", 
+Description = {"Vamos caçar um Mi Gao Fugaz no campo do Castelo de Papel."}
+, Summary = "Caçar 1 Mi Gao Fugaz"}
+, 
+[21580] = {Title = "[Espera] Mi Gao Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21581] = {Title = "Para o Templo de Odin", 
+Description = {"Recebi um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos ao templo de Odin para caçar monstros."}
+, Summary = "Ao Templo de Odin"}
+, 
+[21582] = {Title = "[É] Menina Gótica", IconName = "ico_dq.bmp", 
+Description = {"Esse \233 um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 20 Skogul que supostamente se comunicam com demônios."}
+, Summary = "Caçar Skogul"}
+, 
+[21583] = {Title = "[Espera] Menina Gótica", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI> em Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21584] = {Title = "[É] Menina Gótica", IconName = "ico_dq.bmp", 
+Description = {"Esse \233 um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 20 Skogul que supostamente se comunicam com demônios."}
+, Summary = "20 Skogul"}
+, 
+[21585] = {Title = "[É] Purificar o Mal", IconName = "ico_dq.bmp", 
+Description = {"Esse \233 um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 20 Frus cujos movimentos bizarros são assustadores."}
+, Summary = "20 Frus"}
+, 
+[21586] = {Title = "[Espera] Purificar o Mal", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI> em Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21587] = {Title = "[É] Purificar o Mal", IconName = "ico_dq.bmp", 
+Description = {"Esse \233 um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 20 Frus cujos movimentos bizarros são assustadores."}
+, Summary = "20 Frus"}
+, 
+[21588] = {Title = "[É] Seres Gelatinosos", IconName = "ico_dq.bmp", 
+Description = {"Esse \233 um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 5 Skeggiold marrons e 5 azuis, que parecem fofos, mas são monstros assustadores."}
+, Summary = "Caçar Skeggiold"}
+, 
+[21589] = {Title = "[Espera] Seres Gelatinosos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI> em Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21590] = {Title = "[É] Seres Gelatinosos", IconName = "ico_dq.bmp", 
+Description = {"Esse \233 um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 5 Skeggiold marrons e 5 azuis, que parecem fofos, mas são monstros assustadores."}
+, Summary = "Caçar Skeggiold"}
+, 
+[21591] = {Title = "Para o Biolaboratório", 
+Description = {"Recebi um pedido de uma pessoa desconhecida. Vamos para o Laboratório de Somatologia."}
+, Summary = "Ao Laboratório"}
+, 
+[21592] = {Title = "[É] Cobaia Espadachim", IconName = "ico_dq.bmp", 
+Description = {"Elimine Egnigem Cenia. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Egnigem Cenia"}
+, 
+[21593] = {Title = "[Espera] Cobaia Espadachim", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21594] = {Title = "[É] Cobaia Espadachim", IconName = "ico_dq.bmp", 
+Description = {"Elimine Egnigem Cenia. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Egnigem Cenia"}
+, 
+[21595] = {Title = "[É] Cobaia Mercadora", IconName = "ico_dq.bmp", 
+Description = {"Elimine Armeyer Dinze. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Armeyer Dinze"}
+, 
+[21596] = {Title = "[Espera] Cobaia Mercadora", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21597] = {Title = "[É] Cobaia Mercadora", IconName = "ico_dq.bmp", 
+Description = {"Elimine Armeyer Dinze. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Armeyer Dinze"}
+, 
+[21598] = {Title = "[É] Cobaia Gatuna", IconName = "ico_dq.bmp", 
+Description = {"Elimine Wickebine Tres. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Wickebine Tres"}
+, 
+[21599] = {Title = "[Espera] Cobaia Gatuna", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21600] = {Title = "[É] Cobaia Gatuna", IconName = "ico_dq.bmp", 
+Description = {"Elimine Wickebine Tres. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Wickebine Tres"}
+, 
+[21601] = {Title = "[É] Cobaia Arqueiro", IconName = "ico_dq.bmp", 
+Description = {"Elimine Kavach Ícaro. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Kavach Ícaro"}
+, 
+[21602] = {Title = "[Espera] Cobaia Arqueiro", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21603] = {Title = "[É] Cobaia Arqueiro", IconName = "ico_dq.bmp", 
+Description = {"Elimine Kavach Ícaro. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Kavach Ícaro"}
+, 
+[21604] = {Title = "[É] Cobaia Noviço", IconName = "ico_dq.bmp", 
+Description = {"Elimine Errende Ebecee. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Errende Ebecee"}
+, 
+[21605] = {Title = "[Espera] Cobaia Noviço", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21606] = {Title = "[É] Cobaia Noviço", IconName = "ico_dq.bmp", 
+Description = {"Elimine Errende Ebecee. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Errende Ebecee"}
+, 
+[21607] = {Title = "[É] Cobaia Mago", IconName = "ico_dq.bmp", 
+Description = {"Elimine Laurell Weinder. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Laurell Weinder"}
+, 
+[21608] = {Title = "[Espera] Cobaia Mago", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21609] = {Title = "[É] Cobaia Mago", IconName = "ico_dq.bmp", 
+Description = {"Elimine Laurell Weinder. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "30 Laurell Weinder"}
+, 
+[21610] = {Title = "[É] Cobaia Atiradora", IconName = "ico_dq.bmp", 
+Description = {"Elimine Cecil Damon. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Cecil Damon"}
+, 
+[21611] = {Title = "[Espera] Cobaia Atiradora", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21612] = {Title = "[É] Cobaia Atiradora", IconName = "ico_dq.bmp", 
+Description = {"Elimine Cecil Damon. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Cecil Damon"}
+, 
+[21613] = {Title = "[É] Cobaia Arquimaga", IconName = "ico_dq.bmp", 
+Description = {"Elimine Kathryne Keyron. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Kathryne Keyron"}
+, 
+[21614] = {Title = "[Espera] Cobaia Arquimaga", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21615] = {Title = "[É] Cobaia Arquimaga", IconName = "ico_dq.bmp", 
+Description = {"Elimine Kathryne Keyron. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Kathryne Keyron"}
+, 
+[21616] = {Title = "[É] Cobaia Sacerdotisa", IconName = "ico_dq.bmp", 
+Description = {"Elimine Margaretha Sorin. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Margaretha Sorin"}
+, 
+[21617] = {Title = "Espera] Cobaia Sacerdotisa", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21618] = {Title = "[É] Cobaia Sacerdotisa", IconName = "ico_dq.bmp", 
+Description = {"Elimine Margaretha Sorin. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Margaretha Sorin"}
+, 
+[21619] = {Title = "[É] Cobaia Lorde", IconName = "ico_dq.bmp", 
+Description = {"Elimine Seyren Windsor. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Seyren Windsor"}
+, 
+[21620] = {Title = "[Espera] Cobaia Lorde", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21621] = {Title = "[É] Cobaia Lorde", IconName = "ico_dq.bmp", 
+Description = {"Elimine Seyren Windsor. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Seyren Windsor"}
+, 
+[21622] = {Title = "[É] Cobaia Algoz", IconName = "ico_dq.bmp", 
+Description = {"Elimine Eremes Guile. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Eremes Guile"}
+, 
+[21623] = {Title = "[Espera] Cobaia Algoz", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21624] = {Title = "[É] Cobaia Algoz", IconName = "ico_dq.bmp", 
+Description = {"Elimine Eremes Guile. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Eremes Guile"}
+, 
+[21625] = {Title = "[É] Cobaia Ferreiro", IconName = "ico_dq.bmp", 
+Description = {"Elimine para Howard Alteisen. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Howard Alteisen"}
+, 
+[21626] = {Title = "[Espera] Cobaia Ferreiro", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com os <NAVI>[Vestígios]<INFO>lighthalzen,328,202,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21627] = {Title = "[É] Cobaia Ferreiro", IconName = "ico_dq.bmp", 
+Description = {"Elimine Howard Alteisen. Se não tiver a missão de acesso, voc\234 pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."}
+, Summary = "2 Howard Alteisen"}
+, 
+[21628] = {Title = "Para a Caverna de Magma", 
+Description = {"Fui questionado pela equipe do Museu dos Monstros. Vamos para Caverna de Magma."}
+, Summary = "Para a Caverna de Magma"}
+, 
+[21629] = {Title = "[É] Filtro dos Sonhos", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, elimine 30 Pesadelos Sombrios em nome do Museu de Monstros de Juno."}
+, Summary = "30 Pesadelos Sombrios"}
+, 
+[21630] = {Title = "[Espera] Filtro dos Sonhos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando o <NAVI>[Diligente do Museu]<INFO>yuno,273,292,0,101,0</INFO></NAVI> em Juno ou na <NAVI>[entrada]<INFO>yuno_fild03,40,150,0,101,0</INFO></NAVI> na Caverna de Magma."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21631] = {Title = "[É] Filtro dos Sonhos", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, elimine 30 Pesadelos Sombrios em nome do Museu de Monstros de Juno."}
+, Summary = "30 Pesadelos Sombrios"}
+, 
+[21632] = {Title = "[É] Dragões de Fogo", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, elimine 30 Exterminadores e 30 Deletérios em nome do Museu de Monstros de Juno."}
+, Summary = "Caçar Dragões"}
+, 
+[21633] = {Title = "Espera] Dragões de Fogo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando o <NAVI>[Diligente do Museu]<INFO>yuno,273,292,0,101,0</INFO></NAVI> em Juno ou na <NAVI>[entrada]<INFO>yuno_fild03,40,150,0,101,0</INFO></NAVI> na Caverna de Magma."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21634] = {Title = "[É] Dragões de Fogo", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, elimine 30 Exterminadores e 30 Deletérios em nome do Museu de Monstros de Juno."}
+, Summary = "Caçar Dragões"}
+, 
+[21635] = {Title = "[É] Estudo Geológico", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, colete 10 <ITEM>[Pedras Pomes]<INFO>7096</INFO></ITEM> em nome do Museu de Monstros de Juno."}
+, Summary = "10 Pedras Pomes"}
+, 
+[21636] = {Title = "[Espera] Estudo Geológico", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando o <NAVI>[Diligente do Museu]<INFO>yuno,273,292,0,101,0</INFO></NAVI> em Juno ou na <NAVI>[entrada]<INFO>yuno_fild03,40,150,0,101,0</INFO></NAVI> na Caverna de Magma."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21637] = {Title = "[É] Estudo Geológico", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, colete 10 <ITEM>[Pedras Pomes]<INFO>7096</INFO></ITEM> em nome do Museu de Monstros de Juno."}
+, Summary = "10 Pedras Pomes"}
+, 
+[21638] = {Title = "Caça ao Ferus", 
+Description = {"Recebi um pedido de Nahadan. Vamos para o <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI> e eliminar 30 Ferus da cor vermelha."}
+, Summary = "Ferus Escarlate"}
+, 
+[21639] = {Title = "Salvou uma Viajante", 
+Description = {"Nahadan resgatou a viajante ferida. Vamos voltar para <NAVI>[Hugel]<INFO>hugel,95,37,0,101,0</INFO></NAVI> e avaliar a situação."}
+, Summary = "Volte para Hugel"}
+, 
+[21640] = {Title = "[É] Dragões do Lago", IconName = "ico_dq.bmp", 
+Description = {"Para a segurança dos viajantes, vamos caçar 30 Ferus Escarlate e 30 Ferus Verdes no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Ferus"}
+, 
+[21641] = {Title = "[Espera] Dragões do Lago", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Nahadan]<INFO>hugel,69,121,0,101,0</INFO></NAVI> em Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21642] = {Title = "[É] Dragões do Lago", IconName = "ico_dq.bmp", 
+Description = {"Para a segurança dos viajantes, vamos caçar 30 Ferus Escarlate e 30 Ferus Verdes no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Ferus"}
+, 
+[21643] = {Title = "[É] Dragões do Subsolo", IconName = "ico_dq.bmp", 
+Description = {"Para a segurança dos viajantes, vamos caçar 30 Acidus Dourados e 30 Acidus Azuis no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Acidus"}
+, 
+[21644] = {Title = "[Espera] Dragões do Subsolo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Nahadan]<INFO>hugel,69,121,0,101,0</INFO></NAVI> em Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21645] = {Title = "[É] Dragões do Subsolo", IconName = "ico_dq.bmp", 
+Description = {"Para a segurança dos viajantes, vamos caçar 30 Acidus Dourados e 30 Acidus Azuis no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Acidus"}
+, 
+[21646] = {Title = "[É] Dragão do Tesouro", IconName = "ico_dq.bmp", 
+Description = {"Para a segurança dos viajantes, vamos caçar 1 Hydrolancer no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Hydrolancer"}
+, 
+[21647] = {Title = "[Espera] Dragão do Tesouro", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Nahadan]<INFO>hugel,69,121,0,101,0</INFO></NAVI> em Hugel."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21648] = {Title = "[É] Dragão do Tesouro", IconName = "ico_dq.bmp", 
+Description = {"Para a segurança dos viajantes, vamos caçar 1 Hydrolancer no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."}
+, Summary = "Caçar Hydrolancer"}
+, 
+[21649] = {Title = "Para a Torre Thanatos", 
+Description = {"Aceitei o pedido de Felícia para caçar os monstros no andar inferior da Torre Thanatos."}
+, Summary = "Pedido de Felícia"}
+, 
+[21650] = {Title = "Para a Torre Thanatos", 
+Description = {"Aceitei o pedido de Talita para caçar os monstros no andar superior da Torre Thanatos."}
+, Summary = "Pedido de Talita"}
+, 
+[21651] = {Title = "[É] Uma Caixa Viva", IconName = "ico_dq.bmp", 
+Description = {"Este \233 um pedido da Felícia, que parece estar mais interessada no conteúdo do que nos monstros. Cace 30 Mímicos Anciões na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>. "}
+, Summary = "30 Mímicos Anciões"}
+, 
+[21652] = {Title = "[Espera] Uma Caixa Viva", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Felícia]<INFO>tha_t01,160,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21653] = {Title = "[É] Uma Caixa Viva", IconName = "ico_dq.bmp", 
+Description = {"Este \233 um pedido da Felícia, que parece estar mais interessada no conteúdo do que nos monstros. Cace 30 Mímicos Anciões na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>. "}
+, Summary = "30 Mímicos Anciões"}
+, 
+[21654] = {Title = "[É] Palavras ao Vento", IconName = "ico_dq.bmp", 
+Description = {"Elimine 30 Palavras Mortas na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>."}
+, Summary = "30 Palavras Mortas"}
+, 
+[21655] = {Title = "[Espera] Palavras ao Vento", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Felícia]<INFO>tha_t01,160,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21656] = {Title = "[É] Palavras ao Vento", IconName = "ico_dq.bmp", 
+Description = {"Elimine 30 Palavras Mortas na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>."}
+, Summary = "30 Palavras Mortas"}
+, 
+[21657] = {Title = "[É] Barão do Reino", IconName = "ico_dq.bmp", 
+Description = {"Elimine 20 Barões Coruja na <NAVI>[Torre de Thanatos]<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>."}
+, Summary = "20 Barões Coruja"}
+, 
+[21658] = {Title = "[Espera] Barão do Reino", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Felícia]<INFO>tha_t01,160,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21659] = {Title = "[É] Barão do Reino", IconName = "ico_dq.bmp", 
+Description = {"Elimine 20 Barões Coruja na <NAVI>[Torre de Thanatos]<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>."}
+, Summary = "20 Barões Coruja"}
+, 
+[21660] = {Title = "[É] Páginas de um Livro", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>, algumas Palavras Mortas derrubam <ITEM>[Página Sangrenta]<INFO>7449</INFO></ITEM>. Vamos coletar 10 unidades."}
+, Summary = "10 Páginas Sangrentas"}
+, 
+[21661] = {Title = "[Espera] Páginas de um Livro", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Felícia]<INFO>tha_t01,160,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21662] = {Title = "[É] Páginas de um Livro", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>, algumas Palavras Mortas derrubam <ITEM>[Página Sangrenta]<INFO>7449</INFO></ITEM>. Vamos coletar 10 unidades."}
+, Summary = "10 Páginas Sangrentas"}
+, 
+[21663] = {Title = "[É] Manuscritos Mágicos", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>, alguns Anciões derrubam <ITEM>[Pergaminho Antigo]<INFO>7099</INFO></ITEM>. Vamos coletar 10 unidades."}
+, Summary = "10 Pergaminhos Antigos"}
+, 
+[21664] = {Title = "[Espera] Manuscritos Mágicos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Felícia]<INFO>tha_t01,160,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21665] = {Title = "[É] Manuscritos Mágicos", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>, alguns Anciões derrubam <ITEM>[Pergaminho Antigo]<INFO>7099</INFO></ITEM>. Vamos coletar 10 unidades."}
+, Summary = "10 Pergaminhos Antigos"}
+, 
+[21666] = {Title = "[É] Aula de Reciclagem", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>, alguns Duques e Barões Corujas derrubam <ITEM>[Farrapos]<INFO>7071</INFO></ITEM>. Vamos coletar 30 unidades."}
+, Summary = "30 Farrapos"}
+, 
+[21667] = {Title = "[Espera] Aula de Reciclagem", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Felícia]<INFO>tha_t01,160,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21668] = {Title = "[É] Aula de Reciclagem", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>, alguns Duques e Barões Corujas derrubam <ITEM>[Farrapos]<INFO>7071</INFO></ITEM>. Vamos coletar 30 unidades."}
+, Summary = "30 Farrapos"}
+, 
+[21669] = {Title = "[É] Punição Angelical", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Retribuições."}
+, Summary = "30 Retribuições"}
+, 
+[21670] = {Title = "[Espera] Punição Angelical", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Talita]<INFO>tha_t01,162,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21671] = {Title = "[É] Punição Angelical", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Retribuições."}
+, Summary = "30 Retribuições"}
+, 
+[21672] = {Title = "[É] Som Angelical", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Confortos."}
+, Summary = "30 Confortos"}
+, 
+[21673] = {Title = "[Espera] Som Angelical", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Talita]<INFO>tha_t01,162,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21674] = {Title = "[É] Som Angelical", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Confortos."}
+, Summary = "30 Confortos"}
+, 
+[21675] = {Title = "[É] Descanso Angelical", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Abrigos."}
+, Summary = "30 Abrigos"}
+, 
+[21676] = {Title = "[Espera] Descanso Angelical", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Talita]<INFO>tha_t01,162,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21677] = {Title = "[É] Descanso Angelical", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Abrigos."}
+, Summary = "30 Abrigos"}
+, 
+[21678] = {Title = "[É] Vigia Angelical", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Observações."}
+, Summary = "30 Observações"}
+, 
+[21679] = {Title = "[Espera] Vigia Angelical", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Talita]<INFO>tha_t01,162,84,0,101,0</INFO></NAVI> na Torre de Thanatos."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21680] = {Title = "[É] Vigia Angelical", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Observações."}
+, Summary = "30 Observações"}
+, 
+[21681] = {Title = "Para Glast Heim", 
+Description = {"Aceite o pedido do Padre Lúcifer e v\225 em direção ao castelo principal de Glast Heim."}
+, Summary = "Acesso a Glast Heim"}
+, 
+[21682] = {Title = "Para Glast Heim", 
+Description = {"Aceite o pedido de Thiago e v\225 at\233 a Cavalaria de Glast Heim."}
+, Summary = "Acesso Glast Heim"}
+, 
+[21683] = {Title = "[É] Pobre Palhaço", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Castelo de Glast Heim]<INFO>gl_cas01,199,29,0,101,0</INFO></NAVI>, elimine 30 Carats."}
+, Summary = "30 Carats"}
+, 
+[21684] = {Title = "[Espera] Pobre Palhaço", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Padre Lúcifer]<INFO>glast_01,198,273,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21685] = {Title = "[É] Pobre Palhaço", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Castelo de Glast Heim]<INFO>gl_cas01,199,29,0,101,0</INFO></NAVI>, elimine 30 Carats."}
+, Summary = "30 Carats"}
+, 
+[21686] = {Title = "[É] O MVP mais Forte", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Glast Heim]<INFO>gl_dun01,133,271,0,101,0</INFO></NAVI>, elimine 30 Arclouses e envie-os para o Deus que cuida at\233 desses pequenos insetos."}
+, Summary = "30 Arclouses"}
+, 
+[21687] = {Title = "[Espera] O MVP mais Forte", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Padre Lúcifer]<INFO>glast_01,198,273,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21688] = {Title = "[É] O MVP mais Forte", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Caverna de Glast Heim]<INFO>gl_dun01,133,271,0,101,0</INFO></NAVI>, elimine 30 Arclouses e envie-os para o Deus que cuida at\233 desses pequenos insetos."}
+, Summary = "30 Arclouses"}
+, 
+[21689] = {Title = "[É] Limpeza de Esgoto", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[Aquedutos de Glast Heim]<INFO>gl_sew04,68,277,0,101,0</INFO></NAVI>, elimine 30 Anolians."}
+, Summary = "30 Anolians"}
+, 
+[21690] = {Title = "[Espera] Limpeza de Esgoto", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Padre Lúcifer]<INFO>glast_01,198,273,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21691] = {Title = "[É] Limpeza de Esgoto", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[Aquedutos de Glast Heim]<INFO>gl_sew04,68,277,0,101,0</INFO></NAVI>, elimine 30 Anolians."}
+, Summary = "30 Anolians"}
+, 
+[21692] = {Title = "[É] Mão Inimiga", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[Esgotos de Glast Heim]<INFO>gl_sew03,171,283,0,101,0</INFO></NAVI>, elimine 30 Stings."}
+, Summary = "30 Stings"}
+, 
+[21693] = {Title = "[Espera] Mão Inimiga", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Padre Lúcifer]<INFO>glast_01,198,273,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21694] = {Title = "[É] Mão Inimiga", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[Esgotos de Glast Heim]<INFO>gl_sew03,171,283,0,101,0</INFO></NAVI>, elimine 30 Stings."}
+, Summary = "30 Stings"}
+, 
+[21695] = {Title = "[É] Touro Valente", IconName = "ico_dq.bmp", 
+Description = {"Nas <NAVI>[Profundezas de Glast Heim]<INFO>gl_dun02,224,266,0,101,0</INFO></NAVI>, elimine 30 Majoruros."}
+, Summary = "30 Majorous"}
+, 
+[21696] = {Title = "[Espera] Touro Valente", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com o <NAVI>[Padre Lúcifer]<INFO>glast_01,198,273,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21697] = {Title = "[É] Touro Valente", IconName = "ico_dq.bmp", 
+Description = {"Nas <NAVI>[Profundezas de Glast Heim]<INFO>gl_dun02,224,266,0,101,0</INFO></NAVI>, elimine 30 Majorous."}
+, Summary = "30 Majorous"}
+, 
+[21698] = {Title = "[É] Armadura Vazia", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Cavalaria de Glast Heim]<INFO>gl_knt01,150,15,0,101,0</INFO></NAVI>, elimine 30 Raydrics para ajudar Thiago."}
+, Summary = "30 Raydrics"}
+, 
+[21699] = {Title = "[Espera] Armadura Vazia", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Thiago]<INFO>glast_01,67,193,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21700] = {Title = "[É] Armadura Vazia", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Cavalaria de Glast Heim]<INFO>gl_knt01,150,15,0,101,0</INFO></NAVI>, elimine 30 Raydrics para ajudar Thiago."}
+, Summary = "30 Raydrics"}
+, 
+[21701] = {Title = "[É] Ajeite a Postura", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Cavalaria de Glast Heim]<INFO>gl_knt01,150,15,0,101,0</INFO></NAVI>, elimine 30 Khalitzburgs para ajudar Thiago."}
+, Summary = "30 Khalitzburgs"}
+, 
+[21702] = {Title = "[Espera] Ajeite a Postura", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Thiago]<INFO>glast_01,67,193,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21703] = {Title = "[É] Ajeite a Postura", IconName = "ico_dq.bmp", 
+Description = {"Na <NAVI>[Cavalaria de Glast Heim]<INFO>gl_knt01,150,15,0,101,0</INFO></NAVI>, elimine 30 Khalitzburgs para ajudar Thiago."}
+, Summary = "30 Khalitzburgs"}
+, 
+[21704] = {Title = "[É] Viajante sem Rumo", IconName = "ico_dq.bmp", 
+Description = {"No<NAVI>[Castelo de Glast Heim]<INFO>gl_cas02,104,33,0,101,0</INFO></NAVI>, elimine 30 Andarilhos para ajudar Thiago."}
+, Summary = "30 Andarilhos"}
+, 
+[21705] = {Title = "[Espera] Viajante sem Rumo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Thiago]<INFO>glast_01,67,193,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21706] = {Title = "[É] Viajante sem Rumo", IconName = "ico_dq.bmp", 
+Description = {"No<NAVI>[Castelo de Glast Heim]<INFO>gl_cas02,104,33,0,101,0</INFO></NAVI>, elimine 30 Andarilhos para ajudar Thiago."}
+, Summary = "30 Andarilhos"}
+, 
+[21707] = {Title = "[É] Inimigo \224 Altura", IconName = "ico_dq.bmp", 
+Description = {"No<NAVI>[Castelo de Glast Heim]<INFO>gl_cas02,104,33,0,101,0</INFO></NAVI>, elimine 10 Cavaleiros do Abismo para ajudar Thiago."}
+, Summary = "10 Cavaleiros do Abismo"}
+, 
+[21708] = {Title = "[Espera] Inimigo \224 Altura", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Thiago]<INFO>glast_01,67,193,0,101,0</INFO></NAVI> em Glast Heim."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21709] = {Title = "[É] Inimigo \224 Altura", IconName = "ico_dq.bmp", 
+Description = {"No<NAVI>[Castelo de Glast Heim]<INFO>gl_cas02,104,33,0,101,0</INFO></NAVI>, elimine 10 Cavaleiros do Abismo para ajudar Thiago."}
+, Summary = "10 Cavaleiros do Abismo"}
+, 
+[21710] = {Title = "Para Ash Vacuum", 
+Description = {"Aceite o pedido de Zeca e cace os monstros do outro mundo."}
+, Summary = "Acesso ao Outro Mundo"}
+, 
+[21711] = {Title = "Para Ash Vacuum", 
+Description = {"Aceite o pedido de Téo e cace os monstros do outro mundo."}
+, Summary = "Acesso ao Outro Mundo"}
+, 
+[21712] = {Title = "Para Mora", 
+Description = {"Aceite o pedido de Lulu e cace monstros ao redor da Vila Mora."}
+, Summary = "Vila Mora"}
+, 
+[21713] = {Title = "[É] Menina das Flores", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos esplêndidos]<INFO>spl_fild02,376,143,0,101,0</INFO></NAVI>, elimine 30 Pinguiculas."}
+, Summary = "30 Pinguiculas"}
+, 
+[21714] = {Title = "[Espera] Menina das Flores", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21715] = {Title = "[É] Menina das Flores", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos esplêndidos]<INFO>spl_fild02,376,143,0,101,0</INFO></NAVI>, elimine 30 Pinguiculas."}
+, Summary = "30 Pinguiculas"}
+, 
+[21716] = {Title = "[É] Brilho Fatal", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos esplêndidos]<INFO>spl_fild02,376,143,0,101,0</INFO></NAVI>, elimine  30 Vespas Vagalume."}
+, Summary = "30 Vespas Vagalume"}
+, 
+[21717] = {Title = "[Espera] Brilho Fatal", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21718] = {Title = "[É] Brilho Fatal", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos esplêndidos]<INFO>spl_fild02,376,143,0,101,0</INFO></NAVI>, elimine  30 Vespas Vagalume."}
+, Summary = "30 Vespas Vagalume"}
+, 
+[21719] = {Title = "[É] Rei do Novo Mundo", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 1 Leão de Vinhas."}
+, Summary = "1 Leão de Vinhas"}
+, 
+[21720] = {Title = "[Espera] Rei do Novo Mundo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21721] = {Title = "[É] Rei do Novo Mundo", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 1 Leão de Vinhas."}
+, Summary = "1 Leão de Vinhas"}
+, 
+[21722] = {Title = "[É] Menina Veneno", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo norte]<INFO>spl_fild01,289,32,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Pinguiculas Sombrias."}
+, Summary = "30 Pinguiculas Sombrias"}
+, 
+[21723] = {Title = "[Espera] Menina Veneno", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21724] = {Title = "[É] Menina Veneno", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo norte]<INFO>spl_fild01,289,32,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Pinguiculas Sombrias."}
+, Summary = "30 Pinguiculas Sombrias"}
+, 
+[21725] = {Title = "[É] Marcador de Páginas", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[arredores de Manuk]<INFO>man_fild01,35,238,0,101,0</INFO></NAVI>, elimine 30 Nepenthes com lindas flores."}
+, Summary = "30 Nepenthes"}
+, 
+[21726] = {Title = "[Espera] Marcador de Páginas", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21727] = {Title = "[É] Marcador de Páginas", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[arredores de Manuk]<INFO>man_fild01,35,238,0,101,0</INFO></NAVI>, elimine 30 Nepenthes com lindas flores."}
+, Summary = "30 Nepenthes"}
+, 
+[21728] = {Title = "[É] Belos Músculos!", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Nagas com grandes músculos."}
+, Summary = "30 Nagas"}
+, 
+[21729] = {Title = "[Espera] Belos Músculos!", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21730] = {Title = "[É] Belos Músculos!", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Nagas com grandes músculos."}
+, Summary = "30 Nagas"}
+, 
+[21731] = {Title = "[É] Conto de Fadas", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Cornus que parecem estar em um conto de fadas."}
+, Summary = "30 Cornus"}
+, 
+[21732] = {Title = "[Espera] Conto de Fadas", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21733] = {Title = "[É] Conto de Fadas", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Cornus que parecem estar em um conto de fadas."}
+, Summary = "30 Cornus"}
+, 
+[21734] = {Title = "[É] Espinhos Perigosos", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[arredores de Manuk]<INFO>man_fild01,35,238,0,101,0</INFO></NAVI>, elimine 20 Larvas de Centopéia que são tão fofas."}
+, Summary = "20 Larvas de Centopéia"}
+, 
+[21735] = {Title = "[Espera] Espinhos Perigosos", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21736] = {Title = "[É] Espinhos Perigosos", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[arredores de Manuk]<INFO>man_fild01,35,238,0,101,0</INFO></NAVI>, elimine 20 Larvas de Centopéia que são tão fofas."}
+, Summary = "20 Larvas de Centopéia"}
+, 
+[21737] = {Title = "[É] Poder do Chifre", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, vamos coletar 20 <ITEM>[Chifres Místicos]<INFO>6023</INFO></ITEM> contendo o poder mágico de Cornus."}
+, Summary = "20 Chifres Místicos"}
+, 
+[21738] = {Title = "[É] Poder do Chifre", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Zeca]<INFO>mid_camp,271,244,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21739] = {Title = "[É] Poder do Chifre", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, vamos coletar 20 <ITEM>[Chifres Místicos]<INFO>6023</INFO></ITEM> contendo o poder mágico de Cornus."}
+, Summary = "20 Chifres Místicos"}
+, 
+[21740] = {Title = "[É] Alerta Venenoso", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos de Manuk]<INFO>man_fild02,38,264,0,101,0</INFO></NAVI>, elimine 20 Centopéias."}
+, Summary = "20 Centopéias"}
+, 
+[21741] = {Title = "[Espera] Alerta Venenoso", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21742] = {Title = "[É] Alerta Venenoso", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos de Manuk]<INFO>man_fild02,38,264,0,101,0</INFO></NAVI>, elimine 20 Centopéias."}
+, Summary = "20 Centopéias"}
+, 
+[21743] = {Title = "[É] Animal Pateta", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos de Manuk]<INFO>man_fild02,38,264,0,101,0</INFO></NAVI>, elimine 20 Tatachos."}
+, Summary = "20 Tatachos"}
+, 
+[21744] = {Title = "[Espera] Animal Pateta", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21745] = {Title = "[É] Animal Pateta", IconName = "ico_dq.bmp", 
+Description = {"Nos <NAVI>[campos de Manuk]<INFO>man_fild02,38,264,0,101,0</INFO></NAVI>, elimine 20 Tatachos."}
+, Summary = "20 Tatachos"}
+, 
+[21746] = {Title = "[É] Parece uma Joia", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Monte Kamidal]<INFO>dic_fild02,238,34,0,101,0</INFO></NAVI>, elimine 30 Dolomedes para que os tolos não sejam seduzidos pela aparência."}
+, Summary = "30 Dolomedes"}
+, 
+[21747] = {Title = "[Espera] Parece uma Joia", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21748] = {Title = "[É] Parece uma Joia", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Monte Kamidal]<INFO>dic_fild02,238,34,0,101,0</INFO></NAVI>, elimine 30 Dolomedes para que os tolos não sejam seduzidos pela aparência."}
+, Summary = "30 Dolomedes"}
+, 
+[21749] = {Title = "[É] Um Único Chifre", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Túnel Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Chifre. São os Scarabas que carregam uma lança."}
+, Summary = "30 Scarabas Chifre"}
+, 
+[21750] = {Title = "[Espera] Um Único Chifre", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21751] = {Title = "[É] Um Único Chifre", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Túnel Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Chifre. São os Scarabas que carregam uma lança."}
+, Summary = "30 Scarabas Chifre"}
+, 
+[21752] = {Title = "[É] São Dois Chifres", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Túnel Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scaraba Chifres Duplos. São os Scarabas que carregam uma adaga."}
+, Summary = "30 Chifres Duplos"}
+, 
+[21753] = {Title = "[Espera] São Dois Chifres", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21754] = {Title = "[É] São Dois Chifres", IconName = "ico_dq.bmp", 
+Description = {"Dentro do <NAVI>[Túnel Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Chifres Duplos. São os Scarabas que carregam uma adaga."}
+, Summary = "30 Chifres Duplos"}
+, 
+[21755] = {Title = "[É] Chifres de Galho", IconName = "ico_dq.bmp", 
+Description = {"Dentro da <NAVI>[Caverna Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Galhados."}
+, Summary = "30 Scarabas Galhados"}
+, 
+[21756] = {Title = "[Espera] Chifres de Galho", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21757] = {Title = "[É] Chifres de Galho", IconName = "ico_dq.bmp", 
+Description = {"Dentro da <NAVI>[Caverna Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Galhados."}
+, Summary = "30 Scarabas Galhados"}
+, 
+[21758] = {Title = "[É] Chifres de Pinça", IconName = "ico_dq.bmp", 
+Description = {"Dentro da <NAVI>[Caverna Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Ancinho."}
+, Summary = "30 Scarabas Ancinho"}
+, 
+[21759] = {Title = "[Espera] Chifres de Pinça", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21760] = {Title = "[É] Chifres de Pinça", IconName = "ico_dq.bmp", 
+Description = {"Dentro da <NAVI>[Caverna Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Ancinho."}
+, Summary = "30 Scarabas Ancinho"}
+, 
+[21761] = {Title = "[É] Animais de Fogo", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Círculo de Fogo]<INFO>moro_vol,131,103,0,101,0</INFO></NAVI>, elimine 15 Condores de Fogo e 15 Frilldoras de Fogo."}
+, Summary = "No Círculo de Fogo"}
+, 
+[21762] = {Title = "Espera] Animais de Fogo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21763] = {Title = "[É] Animais de Fogo", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Círculo de Fogo]<INFO>moro_vol,131,103,0,101,0</INFO></NAVI>, elimine 15 Condores de Fogo e 15 Frilldoras de Fogo."}
+, Summary = "No Círculo de Fogo"}
+, 
+[21764] = {Title = "[É] Criaturas de Fogo", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Círculo de Fogo]<INFO>moro_vol,131,103,0,101,0</INFO></NAVI>, elimine 15 Arenosos de Fogo e 15 Golens de Fogo."}
+, Summary = "No Círculo de Fogo"}
+, 
+[21765] = {Title = "[Espera] Criaturas de Fogo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Téo]<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> no Acampamento da Aliança, em Ash Vacuum."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21766] = {Title = "[É] Criaturas de Fogo", IconName = "ico_dq.bmp", 
+Description = {"No <NAVI>[Círculo de Fogo]<INFO>moro_vol,131,103,0,101,0</INFO></NAVI>, elimine 15 Arenosos de Fogo e 15 Golens de Fogo."}
+, Summary = "No Círculo de Fogo"}
+, 
+[21767] = {Title = "[É] Carinha Felpudo", IconName = "ico_dq.bmp", 
+Description = {"Ajude Lulu caçando 20 Plagiadores em <NAVI>[Bifröst]<INFO>bif_fild02,286,327,0,101,0</INFO></NAVI>."}
+, Summary = "20 Plagiadores"}
+, 
+[21768] = {Title = "[Espera] Carinha Felpudo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Lulu]<INFO>mora,101,53,0,101,0</INFO></NAVI> em Mora."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21769] = {Title = "[É] Carinha Felpudo", IconName = "ico_dq.bmp", 
+Description = {"Ajude Lulu caçando 20 Plagiadores em <NAVI>[Bifröst]<INFO>bif_fild02,286,327,0,101,0</INFO></NAVI>."}
+, Summary = "20 Plagiadores"}
+, 
+[21770] = {Title = "[É] Fada Travessa", IconName = "ico_dq.bmp", 
+Description = {"Ajude Lulu caçando 20 Pequenos Fatum em <NAVI>[Bifröst]<INFO>bif_fild02,286,327,0,101,0</INFO></NAVI>."}
+, Summary = "20 Pequenos Fatum"}
+, 
+[21771] = {Title = "[Espera] Fada Travessa", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Lulu]<INFO>mora,101,53,0,101,0</INFO></NAVI> em Mora."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21772] = {Title = "[É] Fada Travessa", IconName = "ico_dq.bmp", 
+Description = {"Ajude Lulu caçando 20 Pequenos Fatum em <NAVI>[Bifröst]<INFO>bif_fild02,286,327,0,101,0</INFO></NAVI>."}
+, Summary = "20 Pequenos Fatum"}
+, 
+[21773] = {Title = "A Encarnação de Morroc?", 
+Description = {"Aceite o pedido de Lartal e acumule a energia da encarnação de Morroc."}
+, Summary = "Os Pecados de Morroc"}
+, 
+[21774] = {Title = "[É] Forma de Anjo", IconName = "ico_dq.bmp", 
+Description = {"\192 pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>moc_fild20,353,179,0,101,0</INFO></NAVI> caçar 30 Sombras da Inveja."}
+, Summary = "30 Sombras da Inveja"}
+, 
+[21775] = {Title = "[Espera] Forma de Anjo", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Lartal]<INFO>morocc,228,104,0,101,0</INFO></NAVI> em Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21776] = {Title = "[É] Forma de Anjo", IconName = "ico_dq.bmp", 
+Description = {"\192 pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>moc_fild20,353,179,0,101,0</INFO></NAVI> caçar 30 Sombras da Inveja."}
+, Summary = "30 Sombras da Inveja"}
+, 
+[21777] = {Title = "[É] Forma de Lama", IconName = "ico_dq.bmp", 
+Description = {"\192 pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>moc_fild20,353,179,0,101,0</INFO></NAVI> caçar 30 Sombras da Gula."}
+, Summary = "30 Sombras da Gula"}
+, 
+[21778] = {Title = "[Espera] Forma de Lama", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Lartal]<INFO>morocc,228,104,0,101,0</INFO></NAVI> em Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21779] = {Title = "[É] Forma de Lama", IconName = "ico_dq.bmp", 
+Description = {"\192 pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>moc_fild20,353,179,0,101,0</INFO></NAVI> caçar 30 Sombras da Gula."}
+, Summary = "30 Sombras da Gula"}
+, 
+[21780] = {Title = "[É] Forma Humana", IconName = "ico_dq.bmp", 
+Description = {"\192 pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>moc_fild20,353,179,0,101,0</INFO></NAVI> caçar 30 Sombras da Vaidade."}
+, Summary = "30 Sombras da Vaidade"}
+, 
+[21781] = {Title = "[Espera] Forma Humana", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Lartal]<INFO>morocc,228,104,0,101,0</INFO></NAVI> em Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21782] = {Title = "[É] Forma Humana", IconName = "ico_dq.bmp", 
+Description = {"\192 pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>moc_fild20,353,179,0,101,0</INFO></NAVI> caçar 30 Sombras da Vaidade."}
+, Summary = "30 Sombras da Vaidade"}
+, 
+[21783] = {Title = "[É] Forma Fantasma", IconName = "ico_dq.bmp", 
+Description = {"\192 pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>moc_fild20,353,179,0,101,0</INFO></NAVI> caçar 30 Sombras da Ira."}
+, Summary = "30 Sombras da Ira"}
+, 
+[21784] = {Title = "[Espera] Forma Fantasma", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode repetir a missão no quadro do Grupo do Éden ou falando com <NAVI>[Lartal]<INFO>morocc,228,104,0,101,0</INFO></NAVI> em Morroc."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21785] = {Title = "[É] Forma Fantasma", IconName = "ico_dq.bmp", 
+Description = {"\192 pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>moc_fild20,353,179,0,101,0</INFO></NAVI> caçar 30 Sombras da Ira."}
+, Summary = "30 Sombras da Ira"}
+, 
+[21786] = {Title = "[É] Carat Fugaz", 
+Description = {"Vamos caçar um Carat Fugaz no primeiro andar do Castelo de Glast Heim."}
+, Summary = "Caçar 1 Carat Fugaz"}
+, 
+[21787] = {Title = "[Espera] Carat Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21788] = {Title = "[É] Majoruros Feroz", 
+Description = {"Vamos caçar um Majoruros Feroz no 2\186 andar da caverna subterrânea em Glast Heim."}
+, Summary = "Caçar 1 Majoruros Feroz"}
+, 
+[21789] = {Title = "[Espera] Majoruros Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21790] = {Title = "[É] Raydric Brutal", 
+Description = {"Vamos caçar um Raydric Brutal no 1\186 andar da Cavalaria de Glast Heim."}
+, Summary = "Caçar 1 Raydric Brutal"}
+, 
+[21791] = {Title = "[Espera] Raydric Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21792] = {Title = "[É] Raydric Ágil", 
+Description = {"Cace um Raydric Ágil no 2\186 andar da Cavalaria de Glast Heim."}
+, Summary = "Caçar 1 Raydric Ágil"}
+, 
+[21793] = {Title = "[Espera] Raydric Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21794] = {Title = "[É] Andarilho Feroz", 
+Description = {"Vamos caçar um Andarilho Feroz no 2\186 andar do Castelo de Glast Heim."}
+, Summary = "Caçar 1 Andarilho Feroz"}
+, 
+[21795] = {Title = "[Espera] Andarilho Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21796] = {Title = "[É] Massacre Ágil", 
+Description = {"Vamos caçar um Massacre Ágil no 1\186 andar do Monastério da Ilha Esquecida."}
+, Summary = "Caçar 1 Massacre Ágil"}
+, 
+[21797] = {Title = "[Espera] Massacre Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21798] = {Title = "[É] Banshee Ágil", 
+Description = {"Cace uma Banshee Ágil no primeiro andar do Monastério na Ilha Esquecida."}
+, Summary = "Caçar 1 Banshee Ágil"}
+, 
+[21799] = {Title = "[Espera] Banshee Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21800] = {Title = "[É] Necromante Alfa", 
+Description = {"Vamos caçar um Necromante Alfa no 2\186 nível do Monastério da Ilha Esquecida."}
+, Summary = "Caçar 1 Necromante Alfa"}
+, 
+[21801] = {Title = "[Espera] Necromante Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21802] = {Title = "[É] Pesadelo Sombrio Feroz", 
+Description = {"Cace um Pesadelo Sombrio Feroz no 2\186 andar da Caverna de Magma."}
+, Summary = "Caçar 1 Terror do Pesadelo Furioso"}
+, 
+[21803] = {Title = "[Espera] Pesadelo Sombrio Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21804] = {Title = "[É] Mímico Ancião Alfa", 
+Description = {"Vamos caçar um Mímico Ancião Alfa no museu no nível inferior da Torre Thanatos."}
+, Summary = "Caçar 1 Mímico Ancião Alfa"}
+, 
+[21805] = {Title = "[Espera] Mímico Ancião Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21806] = {Title = "[É] Palavra Morta Brutal", 
+Description = {"Vamos caçar uma Palavra Morta Brutal no espaço abandonado na parte inferior da Torre Thanatos."}
+, Summary = "Caçar 1 Palavra Morta Brutal"}
+, 
+[21807] = {Title = "[Espera] Palavra Morta Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21808] = {Title = "[É] Venatu Feroz", 
+Description = {"Cace um Venatu Feroz nas Ruínas de Juperos."}
+, Summary = "Caçar 1 Venatu Feroz"}
+, 
+[21809] = {Title = "[Espera] Venatu Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21810] = {Title = "[É] Dimik Ágil", 
+Description = {"Vamos caçar um Dimik Ágil no centro de Juperos."}
+, Summary = "Caçar 1 Dimik Ágil"}
+, 
+[21811] = {Title = "[Espera] Dimik Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21812] = {Title = "[É] Ferus Feroz", 
+Description = {"Vamos caçar um Ferus Feroz no 1\186 andar da caverna subterrânea do Lago do Abismo."}
+, Summary = "Caçar 1 Ferus Feroz"}
+, 
+[21813] = {Title = "[Espera] Ferus Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21814] = {Title = "[É] Acidus Brutal", 
+Description = {"Vamos caçar um Acidus Brutal no 2\186 andar da caverna subterrânea do Lago do Abismo."}
+, Summary = "Caçar 1 Acidus Brutal"}
+, 
+[21815] = {Title = "[Espera] Acidus Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21816] = {Title = "[É] Senhora Fugaz", 
+Description = {"Vamos caçar uma Senhora Fugaz na Torre Thanatos."}
+, Summary = "Caçar 1 Senhora Fugaz"}
+, 
+[21817] = {Title = "[Espera] Senhora Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21818] = {Title = "[É] Dama da Guarda Alfa", 
+Description = {"Vamos caçar Dama da Guarda Alfa na Torre Thanatos."}
+, Summary = "Caçar 1 Dama da Guarda Alfa"}
+, 
+[21819] = {Title = "Espera] Dama da Guarda Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21820] = {Title = "[É] Laurell Weinder Alfa", 
+Description = {"Vamos caçar Laurell Weinder Alfa no 2\186 andar do Biolaboratório."}
+, Summary = "Caçar 1 Laurell Weinder Alfa"}
+, 
+[21821] = {Title = "[Espera] Laurell Weinder Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21822] = {Title = "[É] Cecil Damon Brutal", 
+Description = {"Vamos caçar Cecil Damon Brutal no 3\186 andar do Biolaboratório."}
+, Summary = "Caçar 1 Cecil Damon Brutal"}
+, 
+[21823] = {Title = "[Espera] Cecil Damon Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21824] = {Title = "[É] Vento da Colina Ágil", 
+Description = {"Vamos caçar um Vento da Colina Ágil nos campos nordeste e noroeste de Rachel."}
+, Summary = "Caçar 1 Vento da Colina Ágil"}
+, 
+[21825] = {Title = "[Espera] Vento da Colina Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21826] = {Title = "[É] Kobold Brutal", 
+Description = {"Vamos caçar um Kobold Brutal no campo norte-noroeste de Lighthalzen."}
+, Summary = "Caçar 1 Kobold Brutal"}
+, 
+[21827] = {Title = "[Espera] Kobold Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21828] = {Title = "[É] Kobold Arqueiro Ágil", 
+Description = {"Vamos caçar um Kobold Arqueiro Ágil no campo ao norte de Lighthalzen."}
+, Summary = "Caçar 1 Kobold Arqueiro Ágil"}
+, 
+[21829] = {Title = "[Espera] Kobold Arqueiro Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21830] = {Title = "[É] Yeti Brutal", 
+Description = {"Vamos caçar um Yeti Brutal no segundo andar da caverna de gelo."}
+, Summary = "Caçar 1 Yeti Brutal"}
+, 
+[21831] = {Title = "[Espera] Yeti Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21832] = {Title = "[É] Tit\227 de Gelo Ágil", 
+Description = {"Cace um Tit\227 de Gelo Ágil no 3\186 andar da caverna de gelo."}
+, Summary = "Caçar 1 Tit\227 de Gelo Ágil"}
+, 
+[21833] = {Title = "[Espera] Tit\227 de Gelo Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21834] = {Title = "[É] Isilla Alfa", 
+Description = {"Vamos caçar Isilla Alfa no primeiro andar do santuário de Rachel."}
+, Summary = "Caçar 1 Isilla Alfa"}
+, 
+[21835] = {Title = "[Espera] Isilla Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21836] = {Title = "[É] Echio Alfa", 
+Description = {"Vamos caçar Echio Alfa na área sul do 1\186 andar do santuário de Rachel."}
+, Summary = "Caçar 1 Echio Alfa"}
+, 
+[21837] = {Title = "[Espera] Echio Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21838] = {Title = "[É] Agav Ágil", 
+Description = {"Vamos caçar um Agav Ágil na área central do 2\186 andar do santuário de Rachel."}
+, Summary = "Caçar 1 Agav Ágil"}
+, 
+[21839] = {Title = "[Espera] Agav Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21840] = {Title = "[É] Vespa Vagalume Fugaz", 
+Description = {"Vamos caçar uma Vespa Vagalume Fugaz no Campo Esplêndido."}
+, Summary = "Caçar 1 Vespa Vagalume Fugaz"}
+, 
+[21841] = {Title = "[Espera] Vespa Vagalume Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21842] = {Title = "[É] Pinguicula Brutal", 
+Description = {"Vamos caçar uma Pinguicula Brutal no Campo Esplêndido."}
+, Summary = "Caçar 1 Pinguicula Brutal"}
+, 
+[21843] = {Title = "[Espera] Pinguicula Brutal", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21844] = {Title = "[É] Centopéia Ágil", 
+Description = {"Vamos caçar uma Centopéia Ágil no sop\233 da Montanha Kamidal."}
+, Summary = "Caçar 1 Centopéia Ágil"}
+, 
+[21845] = {Title = "[Espera] Centopéia Ágil", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21846] = {Title = "[É] Dolomedes Alfa", 
+Description = {"Vamos caçar Dolomedes Alfa no sop\233 da Montanha Kamidal."}
+, Summary = "Caçar 1 Dolomedes Alfa"}
+, 
+[21847] = {Title = "[Espera] Dolomedes Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21848] = {Title = "[É] Scaraba Galhado Fugaz", 
+Description = {"Vamos caçar um Scaraba Galhado Fugaz no 1\186 andar do Túnel Kamidal."}
+, Summary = "Caçar 1 Scaraba Galhado Fugaz"}
+, 
+[21849] = {Title = "[Espera] Scaraba Galhado Fugaz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21850] = {Title = "[É] Plagiador Alfa", 
+Description = {"Vamos caçar um Plagiador Alfa no sul de Bifröst."}
+, Summary = "Caçar 1 Plagiador Alfa"}
+, 
+[21851] = {Title = "[Espera] Plagiador Alfa", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[21852] = {Title = "[É] Pequeno Fatum Feroz", 
+Description = {"Vamos caçar um Pequeno Fatum Feroz no norte de Bifröst."}
+, Summary = "Caçar 1 Pequeno Fatum Feroz"}
+, 
+[21853] = {Title = "[Espera] Pequeno Fatum Feroz", 
+Description = {"Essa missão pode ser repetida diariamente após o tempo de espera terminar. Repita a missão no Grupo do Éden falando com o quadro <NAVI>[Missões Especiais]<INFO>moc_para01,16,33,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[12377] = {Title = "Túmulo do Monarca", 
+Description = {"Voc\234 obteve acesso ao Túmulo do Monarca, onde reside o Lich. Voc\234 s\243 pode acessar esse local às sextas-feiras."}
+, Summary = "Entre na instância"}
+, 
+[12378] = {Title = "[Espera] Túmulo do Monarca", 
+Description = {"Voc\234 não pode mais entrar no Túmulo do Monarca. Volte na próxima sexta-feira"}
+, Summary = "Volte sexta-feira"}
+, 
+[12379] = {Title = "[Espera] Cripta", 
+Description = {"Voc\234 não pode mais entrar na Cripta. Volte no próximo Sábado ou Domingo, a partir da meia-noite."}
+, Summary = "Volte no Fim de Semana"}
+, 
+[12470] = {Title = "Vingança de Andrea I", 
+Description = {"\t\t\tAndrea morreu pela foice de uma pequena criatura.\n\t\t\t\n\t\t\t^ff0000\"Não se engane pela sua aparência fofinha\"^000000\n\t\t\t\n\t\t\tVoc\234 deve vingar a morte de Andrea.\n\t\t"}
+, Summary = "Caçar Bafinho Caótico", RewardEXP = "1.750.000", RewardJEXP = "1.137.500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12471] = {Title = "Vingança de Andrea II", 
+Description = {"\t\t\tEnquanto agonizava, Andrea decidiu dedicar sua alma \224 purificação dos mortos.\n\t\t\t\n\t\t\t^ff0000\"\201 a alma de algum aventureiro que morreu anteriormente\"^000000\n\t\t\t\n\t\t\tNão se conhecia esse lado dedicado de Andrea.\n\t\t"}
+, Summary = "Caçar Ghostring Caótico", RewardEXP = "1.750.000", RewardJEXP = "1.137.500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12472] = {Title = "Vingança de Agnes I", 
+Description = {"\t\t\tEnquanto sofria um grave ferimento, Agnes viu que esse inseto j\225 perambulava sentindo o cheiro do seu sangue.\n\t\t\t\n\t\t\t^ff0099\"Sua cor \233 vermelha de tanto beber sangue\"^000000\n\t\t\t\n\t\t\tEla não teve uma boa experiência com esse inseto.\n\t\t"}
+, Summary = "Caçar Mosca Caótica", RewardEXP = "1.750.000", RewardJEXP = "1.137.500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12473] = {Title = "Vingança de Agnes II", 
+Description = {"\t\t\tAgnes estava almoçando quando foi morta por esse monstro que surgiu escondido de um arbusto.\n\t\t\t\n\t\t\t^ff0099\"Corte suas asas e jogue-as no lixo.\"^000000\n\n\t\t\t\n\t\t\tInterromper o almoço de alguém \233 imperdoável.\n\t\t"}
+, Summary = "Caçar Mantis Caótico", RewardEXP = "1.750.000", RewardJEXP = "1.137.500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12474] = {Title = "Vingança de Silvano I", 
+Description = {"\t\t\tSilvano não lembra muito bem como morreu, mas sabe que foi um monstro igual ao da irm\227 Agnes. \n\t\t\t\n\t\t\t^ff0077\"Quero que esse monstro entre em extinção\"^000000\n\t\t"}
+, Summary = "Caçar Louva-Caos", RewardEXP = "1.750.000", RewardJEXP = "1.137.500", 
+RewardItemList = {
+{ItemID = 25781, ItemNum = 1}
+}
+}
+, 
+[12475] = {Title = "Vingança de Silvano II", 
+Description = {"\t\t\tSilvano estava \224 beira da morte quando tentou beber algumas poções. Entretanto, perceu que elas haviam sido roubadas.\n\t\t\t\n\t\t\t^ff0077\"Tudo que quero \233 que nenhum outro aventureiro tenha o mesmo destino que eu\"^000000\n\t\t\t\n\t\t\tVamos nos vingar dos monstros que comeram as poções.\n\t\t"}
+, Summary = "Caçar Poporing Caótico", RewardEXP = "1.750.000", RewardJEXP = "1.137.500", 
+RewardItemList = {
+{ItemID = 25782, ItemNum = 1}
+}
+}
+, 
+[12476] = {Title = "Vingança de Cecília I", 
+Description = {"\t\t\t^0000ff\"Cuidado com aquela cobra, \233 mais forte do que parece.\"^000000\n\t\t\t\n\t\t\tCecília foi mordida por uma serpente enquanto descansava. Seu corpo rapidamente paralisou por conta do veneno.\n\t\t\t\n\t\t\t^0000ff\"Se voc\234 descansar no labirinto, tenha cautela...\"^000000\n\t\t"}
+, Summary = "Caçar Sorrateiro Caótico", RewardEXP = "1.750.000", RewardJEXP = "1.137.500", 
+RewardItemList = {
+{ItemID = 25783, ItemNum = 1}
+}
+}
+, 
+[12477] = {Title = "Vingança de Cecília II", 
+Description = {"\t\t\tEnquanto Cecília agonizava com o veneno, ela foi empalada por esse monstro.\n\t\t\t\n\t\t\t^0000ff\"Foi horrível ser perfurada por esse monstro enquanto meu corpo estava paralisado!!\"^000000\n\t\t\t\n\t\t\tImagino o sofrimento dela.\n\t\t"}
+, Summary = "Caçar Talo Caótico", RewardEXP = "1.750.000", RewardJEXP = "1.137.500", 
+RewardItemList = {
+{ItemID = 25784, ItemNum = 1}
+}
+}
+, 
+[12478] = {Title = "Purificação", 
+Description = {"\t\t\tEsse pedido \233 para purificar uma das quatro almas dos noviços recrutas do labirinto. Esse processo poder\225 facilitar a ressurreição deles.\n\t\t\t\n\t\t\t^ff0000* S\243 pode ser feita 1 vez por semana.^000000\n\t\t\t\n\t\t\t^ff00ccO alvo pode mudar semanalmente.^000000\n\t\t"}
+, Summary = "Purificar Andrea", RewardEXP = "2.500.000", RewardJEXP = "1.625.000", 
+RewardItemList = {
+{ItemID = 25781, ItemNum = 3}
+}
+}
+, 
+[12479] = {Title = "Purificação", 
+Description = {"\t\t\tEsse pedido \233 para purificar uma das quatro almas dos noviços recrutas do labirinto. Esse processo poder\225 facilitar a ressurreição deles.\n\t\t\t\n\t\t\t^ff0000* S\243 pode ser feita 1 vez por semana.^000000\n\t\t\t\n\t\t\t^ff00ccO alvo pode mudar semanalmente.^000000\n\t\t"}
+, Summary = "Purificar Agnes", RewardEXP = "2.500.000", RewardJEXP = "1.625.000", 
+RewardItemList = {
+{ItemID = 25782, ItemNum = 3}
+}
+}
+, 
+[12480] = {Title = "Purificação", 
+Description = {"\t\t\tEsse pedido \233 para purificar uma das quatro almas dos noviços recrutas do labirinto. Esse processo poder\225 facilitar a ressurreição deles.\n\t\t\t\n\t\t\t^ff0000* S\243 pode ser feita 1 vez por semana.^000000\n\t\t\t\n\t\t\t^ff00ccO alvo pode mudar semanalmente.^000000\n\t\t"}
+, Summary = "Purificar Silvano", RewardEXP = "2.500.000", RewardJEXP = "1.625.000", 
+RewardItemList = {
+{ItemID = 25783, ItemNum = 3}
+}
+}
+, 
+[12481] = {Title = "Purificação", 
+Description = {"\t\t\tEsse pedido \233 para purificar uma das quatro almas dos noviços recrutas do labirinto. Esse processo poder\225 facilitar a ressurreição deles.\n\t\t\t\n\t\t\t^ff0000* S\243 pode ser feita 1 vez por semana.^000000\n\t\t\t\n\t\t\t^ff00ccO alvo pode mudar semanalmente.^000000\n\t\t"}
+, Summary = "Purificar Cecília", RewardEXP = "2.500.000", RewardJEXP = "1.625.000", 
+RewardItemList = {
+{ItemID = 25784, ItemNum = 3}
+}
+}
+, 
+[12482] = {Title = "Ilusão do Labirinto", 
+Description = {"\t\t\tFale com <NAVI>[Esmeralda]<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI> em Prontera.\n\t\t\t\n\t\t\t\192 pedido de Irene, devemos informar a situação dos outros noviços no labirinto.\n\t\t"}
+, Summary = "Fale com Esmeralda"}
+, 
+[12483] = {Title = "Ilusão do Labirinto", 
+Description = {"\t\t\tEncontre <NAVI>[Esmeralda]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI>.\n\t\t\t\n\t\t\tV\225 at\233 o labirinto da floresta e converse com a líder do cl\227 dos noviços da Catedral de Prontera.\n\t\t"}
+, Summary = "V\225 at\233 Esmeralda"}
+, 
+[12484] = {Title = "Restos de Andrea", 
+Description = {"\t\t\tPreciso encontrar o que restou do corpo de Andrea na Ilusão do Labirinto.\n\t\t\t\n\t\t\t^0000ffPrecisamos de vestígios para saber o que aconteceu aqui^000000\n\t\t"}
+, Summary = "Encontre Andrea"}
+, 
+[12485] = {Title = "Restos de Agnes", 
+Description = {"\t\t\tPreciso encontrar o que restou do corpo de Agnes na Ilusão do Labirinto.\n\t\t\t\n\t\t\t^0000ffPrecisamos de vestígios para saber o que aconteceu aqui^000000\n\t\t"}
+, Summary = "Encontre Agnes"}
+, 
+[12486] = {Title = "Restos de Silvano", 
+Description = {"\t\t\tPreciso encontrar o que restou do corpo de Silvano na Ilusão do Labirinto.\n\t\t\t\n\t\t\t^0000ffPrecisamos de vestígios para saber o que aconteceu aqui^000000\n\t\t"}
+, Summary = "Encontre Silvano"}
+, 
+[12487] = {Title = "Restos de Cecília", 
+Description = {"\t\t\tPreciso encontrar o que restou do corpo de Cecília na Ilusão do Labirinto.\n\t\t\t\n\t\t\t^0000ffPrecisamos de vestígios para saber o que aconteceu aqui^000000\n\t\t"}
+, Summary = "Encontre Cecília"}
+, 
+[12488] = {Title = "Ilusão do Labirinto", 
+Description = {"\t\t\tConverse com <NAVI>[Esmeralda]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI>.\n\t\t\t\n\t\t\tVoc\234 encontrou os restos mortais dos 4 noviços, volte para o labirinto da floresta e fale com Esmeralda.\n\t\t"}
+, Summary = "Fale com Esmeralda"}
+, 
+[12489] = {Title = "Ilusão do Labirinto", 
+Description = {"\t\t\tPerto de <NAVI>[Esmeralda]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> estão os espíritos dos noviços mortos no labirinto.\n\t\t\t\n\t\t\tAceite o desejo deles de tornar voc\234 membro provisório do cl\227 dos noviços.\n\t\t"}
+, Summary = "Aceite o Pedido"}
+, 
+[12490] = {Title = "[Espera] Vingança", 
+Description = {"\t\t\tFale com os <NAVI>[Noviços]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> dentro do labirinto da floresta.\n\t\t\t\n\t\t\tComo voc\234 concluiu todas as missões, elas ^ff0000podem ser repetidas^000000 após um certo período.\n\t\t"}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[12491] = {Title = "[Espera] Purificação", 
+Description = {"\t\t\tFale com os <NAVI>[Noviços]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> dentro do labirinto da floresta.\n\t\t\t\n\t\t\tComo voc\234 concluiu a missão da semana, ela ^ff0000pode ser repetida^000000 no sábado.\n\t\t"}
+, Summary = "Reseta Sábado"}
+, 
+[12492] = {Title = "Ilusão do Labirinto", 
+Description = {"\t\t\tFale com Esmeralda\n\t\t"}
+, Summary = "Fim da conversa"}
+, 
+[17307] = {Title = "Festival do Macarrão", 
+Description = {"<NAVI>[Oceanógrafo]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI> levar\225 seu personagem para a caverna do mar de Lasagna!"}
+, Summary = "Fale com o Oceanógrafo"}
+, 
+[17308] = {Title = "Festival do Macarrão", 
+Description = {"Traga 1 Almôndega, 1 Macarrão Gravatinha, 1 Macarrão Parafuso e 1 Macarrão Espaguete para o <NAVI>[Oceanógrafo]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"}
+, Summary = "Traga os itens"}
+, 
+[17309] = {Title = "Cozinhar Macarrão", 
+Description = {"Encontre o <NAVI>[Chef Orochi]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI> no Festival do Macarrão."}
+, Summary = "Chef Orochi"}
+, 
+[17310] = {Title = "Colheita de Melancia", 
+Description = {"Encontre o <NAVI>[Fazendeiro Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI> no Festival do Macarrão."}
+, Summary = "Fazendeiro Rami"}
+, 
+[17311] = {Title = "Macarrão Estragado", 
+Description = {"Encontre o <NAVI>[Marinheiro Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI> no Festival do Macarrão."}
+, Summary = "Marinheiro Domi"}
+, 
+[17313] = {Title = "Cozinhar Macarrão", 
+Description = {"<NAVI>[Chef Orochi]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI> pediu 5 Macarrão Gravatinha, 5 Macarrão Espaguete, 5 Macarrão Parafuso e 3 Almôndegas."}
+, Summary = "Traga os itens"}
+, 
+[17314] = {Title = "[Espera] Cozinhar Macarrão", 
+Description = {"Voc\234 concluiu a missão diária de hoje. Após o amanhecer, voc\234 pode visitar <NAVI>[Chef Orochi]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI> novamente."}
+, Summary = "Reseta 4 da manh\227."}
+, 
+[17315] = {Title = "Colheita de Melancia", 
+Description = {"<NAVI>[Fazendeiro Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI> pediu a caça de algumas Melancias e trazer 10 Leques do Festival."}
+, Summary = "10 Leques do Festival"}
+, 
+[17316] = {Title = "[Espera] Colheita de Melancia", 
+Description = {"Voc\234 concluiu a missão diária de hoje. Após o amanhecer, voc\234 pode visitar <NAVI>[Moderator Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI> novamente."}
+, Summary = "Reseta 4 da manh\227."}
+, 
+[17317] = {Title = "Macarrão Estragado", 
+Description = {"<NAVI>[Marinheiro Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI> pediu que voc\234 traga 10 Macarrões Podres."}
+, Summary = "10 Macarrão Podre"}
+, 
+[17318] = {Title = "[Espera] Macarrão Estragado", 
+Description = {"Voc\234 concluiu a missão diária de hoje. Após o amanhecer, voc\234 pode visitar <NAVI>[Marinheiro Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI> novamente."}
+, Summary = "Reseta 4 da manh\227."}
+, 
+[17328] = {Title = "[Feito] Cozinhar Macarrão", 
+Description = {"Se voc\234 completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI> para confirar sua presença no festival!"}
+, Summary = "Fale com o Organizador"}
+, 
+[17329] = {Title = "[Feito] Colheita de Melancia", 
+Description = {"Se voc\234 completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI> para confirar sua presença no festival!"}
+, Summary = "Fale com o Organizador"}
+, 
+[17330] = {Title = "[Feito] Macarrão Estragado", 
+Description = {"Se voc\234 completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI> para confirar sua presença no festival!"}
+, Summary = "Fale com o Organizador"}
+, 
+[17332] = {Title = "Visual do Macarrão", 
+Description = {"Feliz festival!"}
+, Summary = "Voc\234 recebeu o visual desse ano"}
+, 
+[8541] = {Title = "Armaduras Vivas", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Nilem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> quer que voc\234 elimine 20 Raydrics Polutos e 20 Raydrics Atiradores nos Porões do Castelo de Glast Heim."}
+, Summary = "Elimine Raydrics"}
+, 
+[8542] = {Title = "[Espera] Armaduras Vivas", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente com Nilem após o tempo de espera acabar."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[8543] = {Title = "Armaduras Vivas", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Nilem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> quer que voc\234 elimine 20 Raydrics Polutos e 20 Raydrics Atiradores nos Porões do Castelo de Glast Heim."}
+, Summary = "Elimine Raydrics"}
+, 
+[8544] = {Title = "Porões do Castelo", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Nilem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> quer que voc\234 elimine 5 Gárgulas Congeladas e 5 Foragidos nos Porões do Castelo de Glast Heim."}
+, Summary = "Elimine os monstros"}
+, 
+[8545] = {Title = "[Espera] Porões do Castelo", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente com Nilem após o tempo de espera acabar."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[8546] = {Title = "Porões do Castelo", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Nilem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> quer que voc\234 elimine 5 Gárgulas Congeladas e 5 Foragidos nos Porões do Castelo de Glast Heim."}
+, Summary = "Elimine os monstros"}
+, 
+[8547] = {Title = "Igual a um Espelho", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Nilem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 Xamãs do Fogo e 10 Xamãs do Gelo nos Porões do Castelo de Glast Heim."}
+, Summary = "Elimine os Xamãs"}
+, 
+[8548] = {Title = "[Espera] Igual a um Espelho", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente com Nilem após o tempo de espera acabar."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[8549] = {Title = "Igual a um Espelho", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Nilem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 Xamãs do Fogo e 10 Xamãs do Gelo nos Porões do Castelo de Glast Heim."}
+, Summary = "Elimine os Xamãs"}
+, 
+[8550] = {Title = "Evoluções Draconianas", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> quer que voc\234 elimine 15 Deleter e 15 Deleter Voadores em Noggroad, o terceiro andar da Caverna de Magma."}
+, Summary = "Elimine Deleter"}
+, 
+[8551] = {Title = "[Espera] Evoluções Draconianas", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente com Lily Blanc após o tempo de espera acabar."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[8552] = {Title = "Evoluções Draconianas", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> quer que voc\234 elimine 15 Deleter e 15 Deleter Voadores em Noggroad, o terceiro andar da Caverna de Magma."}
+, Summary = "Elimine Deleter"}
+, 
+[8553] = {Title = "Diferenças Evolutivas", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 Pesadelos Sinistros em Noggroad, o terceiro andar da Caverna de Magma."}
+, Summary = "Elimine Pesadelos Sinistros"}
+, 
+[8554] = {Title = "[Espera] Diferenças Evolutivas", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente com Lily Blanc após o tempo de espera acabar."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[8555] = {Title = "Diferenças Evolutivas", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 Pesadelos Sinistros em Noggroad, o terceiro andar da Caverna de Magma."}
+, Summary = "Elimine Pesadelos Sinistros"}
+, 
+[8556] = {Title = "Conferir a Densidade", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 Golens de Magma em Noggroad, o terceiro andar da Caverna de Magma."}
+, Summary = "Elimine Golens de Magma"}
+, 
+[8557] = {Title = "[Espera] Conferir a Densidade", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente com Lily Blanc após o tempo de espera acabar."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[8558] = {Title = "Conferir a Densidade", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 Golens de Magma em Noggroad, o terceiro andar da Caverna de Magma."}
+, Summary = "Elimine Golens de Magma"}
+, 
+[8559] = {Title = "Conteúdo Inflamável", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 Brasas e 10 Explosões em Noggroad, o terceiro andar da Caverna de Magma."}
+, Summary = "Elimine Brasa e Explosão"}
+, 
+[8560] = {Title = "[Espera] Conteúdo Inflamável", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida diariamente com Lily Blanc após o tempo de espera acabar."}
+, Summary = "Reseta 4 da manh\227"}
+, 
+[8561] = {Title = "Conteúdo Inflamável", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 Brasas e 10 Explosões em Noggroad, o terceiro andar da Caverna de Magma."}
+, Summary = "Elimine Brasa e Explosão"}
+, 
+[11650] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Hararong diz que h\225 um estranho Jakk ali próximo. Fale com <NAVI>[Jakk]<INFO>niflheim,187,248,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Jakk"}
+, 
+[11651] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Jakk diz que não viu o estranho Jakk. Vamos perguntar para o <NAVI>[Jakk]<INFO>niflheim,24,155,0,101,0</INFO></NAVI> na entrada de Nifflheim."}
+, Summary = "Fale com Jakk"}
+, 
+[11652] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Jakk na entrada de Nifflheim diz para voc\234 perguntar a <NAVI>[Jakk]<INFO>niflheim,181,192,0,101,0</INFO></NAVI> na praça central."}
+, Summary = "Fale com Jakk"}
+, 
+[11653] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Jakk na praça disse que não viu um Jakk Estranho, mas viu um <NAVI>[Jakk Esquisito]<INFO>niflheim,158,132,0,101,0</INFO></NAVI>. Vamos conversar com Jakk, que \233 um pouco esquisito."}
+, Summary = "Ao Jakk Esquisito"}
+, 
+[11654] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Jakk Esquisito precisa de <ITEM>[Asa de Borboleta Azul]<INFO>12510</INFO></ITEM>, comprada na Ordem dos Exploradores, para voltar para casa. Vamos dar ao <NAVI>[Jakk Esquisito]<INFO>niflheim,158,132,0,101,0</INFO></NAVI> o que ele pediu."}
+, 
+RewardItemList = {
+{ItemID = 12347, ItemNum = 1}
+}
+, Summary = "1 Asa de Borboleta Azul"}
+, 
+[11655] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Jakk Esquisito diz que viu Cavaleiros estranhos, embora não tenha certeza se são <NAVI>[Jakks Estranhos]<INFO>niflheim,223,266,0,101,0</INFO></NAVI>. Vamos conversar com os cavaleiros."}
+, Summary = "Fale com Jakk Estranho"}
+, 
+[11656] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"O Cavaleiro Estranho diz que tem dificuldade para respirar devido ao aumento repentino de Alhorings. Vamos caçar 20 Alhorings e voltar a ele."}
+, Summary = "20 Alhorings"}
+, 
+[11657] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Apesar de Alhoring ter sido derrotado, a situação não parece ter melhorado muito. Vamos relatar a situação para <NAVI>[Hararong]<INFO>niflheim,183,249,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Hararong"}
+, 
+[11658] = {Title = "Halloween: Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Hararong pede para voc\234 caçar 20 Alhorings para o Jakk Estranho. Assim que completar, volte para <NAVI>[Hararong]<INFO>niflheim,183,249,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "20 Alhorings"}
+, 
+[11659] = {Title = "[Espera] Jakk Estranho", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 caçou os Alhorings. Dizem que se voc\234 se esforçar mais, pode virar um Macarrão ao Alho e Ódio, então, \233 melhor voltar amanh\227."}
+, Summary = "Reseta às 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[11684] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Jakk Choroso quer aprender como fazer amizade com seu gatinho, ao sul de Nifflheim. Fale com <NAVI>[Jakk]<INFO>niflheim,173,81,0,101,0</INFO></NAVI> ao sul de Nifflheim."}
+, Summary = "Fale com Jakk"}
+, 
+[11685] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Diz-se que o gato de Jakk seguiu Wiz. Fale com <NAVI>[Wiz]<INFO>niflheim,102,78,0,101,0</INFO></NAVI> no caminho \224 esquerda."}
+, Summary = "Fale com Wiz"}
+, 
+[11686] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Se voc\234 quiser ouvir a história sobre o gatinho, traga 2 <ITEM>[Ossos]<INFO>932</INFO></ITEM> e volte para Wiz.."}
+, Summary = "2 Ossos"}
+, 
+[11687] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Wiz, que recebeu um Osso, diz para voc\234 dar o outro <ITEM>[Osso]<INFO>932</INFO></ITEM> para Jakk, ao sul de Niflheim. D\234 o Osso para <NAVI>[Jakk]<INFO>niflheim,173,81,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Jakk"}
+, 
+[11688] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Não obtive nenhuma informação útil. Infelizmente, voltemos ao <NAVI>[Jakk Choroso]<INFO>niflheim,177,227,0,101,0</INFO></NAVI>."}
+, Summary = "Ao Jakk Choroso"}
+, 
+[11689] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Vamos caçar 10 Jakks Fugitivos e trazer 5 <ITEM>[Decorações de Abóbora]<INFO>25421</INFO></ITEM> e 5 <ITEM>[Ramos Brancos Finos]<INFO>25422</INFO></ITEM> para <NAVI>[Jakk Choroso]<INFO>niflheim,177,227,0,101,0</INFO></NAVI>."}
+, Summary = "Colete os itens"}
+, 
+[11690] = {Title = "[Espera] Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Vamos falar com Jakk Choroso novamente amanh\227."}
+, Summary = "Reseta às 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[11691] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Vamos caçar 10 Jakks Fugitivos e trazer 5 <ITEM>[Decorações de Abóbora]<INFO>25421</INFO></ITEM> e 5 <ITEM>[Ramos Brancos Finos]<INFO>25422</INFO></ITEM> para <NAVI>[Jakk Choroso]<INFO>niflheim,177,227,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Colete os itens"}
+, 
+[11692] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Vamos caçar 10 Jakks Fugitivos e trazer 5 <ITEM>[Decorações de Abóbora]<INFO>25421</INFO></ITEM> e 5 <ITEM>[Ramos Brancos Finos]<INFO>25422</INFO></ITEM> para <NAVI>[Jakk Choroso]<INFO>niflheim,177,227,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Colete os itens"}
+, 
+[11693] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Vamos caçar 10 Jakks Fugitivos e trazer 5 <ITEM>[Decorações de Abóbora]<INFO>25421</INFO></ITEM> e 5 <ITEM>[Ramos Brancos Finos]<INFO>25422</INFO></ITEM> para <NAVI>[Jakk Choroso]<INFO>niflheim,177,227,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Colete os itens"}
+, 
+[11694] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Vamos caçar 10 Jakks Fugitivos e trazer 5 <ITEM>[Decorações de Abóbora]<INFO>25421</INFO></ITEM> e 5 <ITEM>[Ramos Brancos Finos]<INFO>25422</INFO></ITEM> para <NAVI>[Jakk Choroso]<INFO>niflheim,177,227,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Colete os itens"}
+, 
+[11695] = {Title = "Halloween: Lealdade", IconName = "ico_ev.bmp", 
+Description = {"Vamos caçar 10 Jakks Fugitivos e trazer 5 <ITEM>[Decorações de Abóbora]<INFO>25421</INFO></ITEM> e 5 <ITEM>[Ramos Brancos Finos]<INFO>25422</INFO></ITEM> para <NAVI>[Jakk Choroso]<INFO>niflheim,177,227,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Colete os itens"}
+, 
+[11783] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Para ajudar Jakk, encontre <NAVI>[Jakk]<INFO>niflheim,265,275,0,101,0</INFO></NAVI>."}
+, Summary = "Fale com Jakk"}
+, 
+[11784] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Jakk parece não saber nada sobre os estranhos sintomas de Jakk. Vamos perguntar ao outro <NAVI>[Jakk]<INFO>niflheim,288,249,0,101,0</INFO></NAVI> em outro lugar."}
+, Summary = "Fale com Jakk"}
+, 
+[11785] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Dizem que Jack recebeu ajuda do Doutor <NAVI>[Argos]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> na esquina de Nifflheim. Vamos at\233 ele pedir ajuda."}
+, Summary = "Fale com Argos"}
+, 
+[11786] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"\201 difícil entender o que o doutor, mas acho que \233 sobre Alhorings. Vamos caçar 2 Alhorings e retornar para <NAVI>[Argos]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> em Nifflheim."}
+, Summary = "2 Alhorings"}
+, 
+[11787] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Ainda \233 difícil entender o Dr. Argos, mas parece que est\225 me dando uma direção. Vamos procurar uma <NAVI>[Voz]<INFO>nif_fild01,187,117,0,101,0</INFO></NAVI> no Vilarejo de Skellington."}
+, Summary = "Para Skellington"}
+, 
+[11788] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Siga o caminho que a voz sussurrou e v\225 em direção ao <NAVI>[Espírito Feliz]<INFO>um_fild04,188,119,0,101,0</INFO></NAVI> na Selva de Hoomga."}
+, Summary = "Ao Espírito Feliz"}
+, 
+[11789] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Ser\225 que finalmente descansaremos? Vamos voltar a falar com o doutor <NAVI>[Argos]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> em Nifflheim."}
+, Summary = "Fale com Argos"}
+, 
+[11790] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Argos diz que as almas de Nifflheim devem ser libertadas. Vamos caçar ^ff345620 monstros quaisquer^000000 do mapa de Nifflheim e voltar a <NAVI>[Argos]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+, 
+{ItemID = 1000657, ItemNum = 1}
+}
+, Summary = "Monstros de Nifflheim"}
+, 
+[11791] = {Title = "[Espera] Curativos", IconName = "ico_ev.bmp", 
+Description = {"Deu certo? Então vamos falar com o <NAVI>[Argos]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> amanh\227."}
+, Summary = "Reseta às 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[11792] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Argos diz que as almas de Skellington devem ser libertadas. Vamos caçar ^ff345620 monstros quaisquer^000000 do mapa do Vilarejo de Skellington e voltar a <NAVI>[Argos]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+, 
+{ItemID = 1000657, ItemNum = 1}
+}
+, Summary = "Monstros de Skellington"}
+, 
+[11793] = {Title = "Halloween: Curativos", IconName = "ico_ev.bmp", 
+Description = {"Argos diz que as almas do Vale de Gyoll devem ser libertadas. Vamos caçar ^ff345620 monstros quaisquer^000000 do mapa Vale de Gyoll e voltar a <NAVI>[Argos]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+, 
+{ItemID = 1000657, ItemNum = 1}
+}
+, Summary = "Monstros em Gyoll"}
+, 
+[12364] = {Title = "Colapso em Pharos", 
+Description = {"Ouvi a história do que aconteceu com o Farol de Pharos."}
+, Summary = "Para a Arqueóloga"}
+, 
+[12365] = {Title = "[Espera] Espaço Infinito", 
+Description = {"Efeitos colaterais de ter visitado o interior de Pharos ainda permanecem. \201 recomendável esperar outro dia."}
+, Summary = "Volte amanh\227."}
+, 
+[12366] = {Title = "Espaço Infinito 1", 
+Description = {"Voc\234 recebeu uma missão para eliminar o monstro chefe da 10\170 sala da instância."}
+, Summary = "Chefe do 10\186."}
+, 
+[12367] = {Title = "Espaço Infinito 2", 
+Description = {"Voc\234 recebeu uma missão para eliminar o monstro chefe da 30\170 sala da instância."}
+, Summary = "Chefe do 30\186."}
+, 
+[12543] = {Title = "Promoção de verão do Rift Dimensional", 
+Description = {"A promoção de verão do Fenda Dimensional foi concluída."}
+, Summary = "Promoção de verão"}
+, 
+[3364] = {Title = "Festival da Colheita", 
+Description = {"Traga para <NAVI>[Lana]<INFO>alberta,138,169,0,101,0</INFO></NAVI> os seguintes ingredientes: 1 Flecha de Fogo, 10 Raizes de Árvore e 5 Lenhas de Qualidade adquiridas com o monstro Lenha Viva."}
+, Summary = "Coletar os itens"}
+, 
+[3365] = {Title = "Kadu, o Mago", 
+Description = {"Conheça <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI> o Mago-Bombeiro do Festival da Colheita."}
+, Summary = "Fale com Kadu"}
+, 
+[3366] = {Title = "Serena, a Caçadora", 
+Description = {"Conheça <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI> a caçadora de selvagens."}
+, Summary = "Fale com Serena"}
+, 
+[3367] = {Title = "Songhwa, o Cozinheiro", 
+Description = {"Conheça <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> o cozinheiro regional."}
+, Summary = "Fale com Songhwa"}
+, 
+[3369] = {Title = "Lenha Viva", 
+Description = {"Elimine 10 Lenhas Vivas e traga 10 Lenhas de Qualidade para <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI> no Festival da Colheita."}
+, Summary = "10 Lenha de Qualidade"}
+, 
+[3370] = {Title = "[Espera] Lenha Viva", 
+Description = {"Voc\234 completou uma missão diária do Festival da Colheita. Após as 4 horas da manh\227, fale com <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"}
+, Summary = "Reset às 4:00"}
+, 
+[3371] = {Title = "Capturando Selvagens", 
+Description = {"Use a Armadilha de Selvagem nos monstros [Selvagens Famintos] at\233 conseguir 10 Selvagem Capturado. Leve-os parta <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI> no Festival da Colheita."}
+, Summary = "10 Selvagem Capturado"}
+, 
+[3372] = {Title = "[Espera] Capturando Selvagens", 
+Description = {"Voc\234 completou uma missão diária do Festival da Colheita. Após as 4 horas da manh\227, fale com <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>"}
+, Summary = "Reset às 4:00"}
+, 
+[3373] = {Title = "Comidas Típicas: Brasilis", 
+Description = {"Traga 1 Sacola de Grãos, 3 Mel e 10 Erva Verde para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "Grão, Mel e Erva"}
+, 
+[3374] = {Title = "Comidas Típicas: Louyang", 
+Description = {"Traga 1 Condimento Amarelo e 3 Tronco para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "Tronco e Condimento"}
+, 
+[3375] = {Title = "Comidas Típicas: Peru", 
+Description = {"Traga 10 Cenoura, 3 Limão e 1 Molho Saboroso para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "Cenoura, Limão e Molho"}
+, 
+[3376] = {Title = "[Espera] Comidas Típicas", 
+Description = {"Voc\234 completou uma missão diária do Festival da Colheita. Após as 4 horas da manh\227, fale com <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "Reset às 4:00"}
+, 
+[3377] = {Title = "Pedido de Louise", 
+Description = {"<NAVI>[Louise]<INFO>alberta,115,198,0,101,0</INFO></NAVI> quer ajuda."}
+, Summary = "Fale com Louise"}
+, 
+[3378] = {Title = "Alimentar o Peru", 
+Description = {"Perus comem comem 30 <ITEM>[Perna de Gafanhoto]<INFO>940</INFO></ITEM>, 20 <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> e 20 <ITEM>[Biscoito Outonal]<INFO>11613</INFO></ITEM>"}
+, Summary = "Coletar itens"}
+, 
+[3379] = {Title = "Alimentar o Peru (de novo)", 
+Description = {"Perus comem comem 30 <ITEM>[Perna de Gafanhoto]<INFO>940</INFO></ITEM>, 20 <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> e 20 <ITEM>[Biscoito Outonal]<INFO>11613</INFO></ITEM>"}
+, Summary = "Coletar itens"}
+, 
+[3380] = {Title = "Alimentar o Peru (de novo)", 
+Description = {"Perus comem comem 30 <ITEM>[Perna de Gafanhoto]<INFO>940</INFO></ITEM>, 20 <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> e 20 <ITEM>[Biscoito Outonal]<INFO>11613</INFO></ITEM>"}
+, Summary = "Coletar itens"}
+, 
+[3381] = {Title = "Alimentar o Peru (de novo)", 
+Description = {"Perus comem comem 30 <ITEM>[Perna de Gafanhoto]<INFO>940</INFO></ITEM>, 20 <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> e 20 <ITEM>[Biscoito Outonal]<INFO>11613</INFO></ITEM>"}
+, Summary = "Coletar itens"}
+, 
+[3382] = {Title = "Saudades da Família", 
+Description = {"Traga 2 <ITEM>[Vale-Viagem]<INFO>25392</INFO></ITEM> para o Seu Alberto."}
+, Summary = "2 Vale-Viagem"}
+, 
+[3383] = {Title = "Saudades da Família (de novo)", 
+Description = {"Traga 2 <ITEM>[Vale-Viagem]<INFO>25392</INFO></ITEM> para o Seu Alberto."}
+, Summary = "2 Vale-Viagem"}
+, 
+[3384] = {Title = "[Espera] Saudades da Família", 
+Description = {"Voc\234 completou uma missão diária do Festival da Colheita. Após as 4 horas da manh\227, fale com Seu Alberto"}
+, Summary = "Reset às 4:00"}
+, 
+[3385] = {Title = "Pedido de Eunwol", 
+Description = {"<NAVI>[Eunwol]<INFO>alberta,117,198,0,101,0</INFO></NAVI> quer ajuda."}
+, Summary = "Fale com Eunwol"}
+, 
+[3386] = {Title = "Delivery de Biscoitos", 
+Description = {"Traga 10 <ITEM>[Biscoitos Outonais]<INFO>11613</INFO></ITEM> para Eunwol."}
+, Summary = "10 Biscoitos Outonais"}
+, 
+[3387] = {Title = "Delivery de Biscoitos (de novo)", 
+Description = {"Traga 10 <ITEM>[Biscoitos Outonais]<INFO>11613</INFO></ITEM> para Eunwol."}
+, Summary = "10 Biscoitos Outonais"}
+, 
+[3388] = {Title = "[Espera] Delivery de Biscoitos", 
+Description = {"Voc\234 completou uma missão diária do Festival da Colheita. Após as 4 horas da manh\227, fale com Eunwol."}
+, Summary = "Reset às 4:00"}
+, 
+[17382] = {Title = "Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Elimine Siromas Natalinos para conseguir 10 unidades de <ITEM>[Flor de Neve]<INFO>25425</INFO></ITEM> e entregue-as para <NAVI>[Maria Carei]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI> em Al De Baran."}
+, Summary = "10 Flor de Neve"}
+, 
+[17383] = {Title = "Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"A partir de agora, voc\234 pode falar com <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> o ilusionista."}
+, Summary = "Fale com Marine"}
+, 
+[17384] = {Title = "Doação de Algodão", IconName = "ico_ev.bmp", 
+Description = {"Ajude <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> a coletar algodão quentinho para fazer agasalhos. Voc\234 pode conseguir algodão ao derrotar Sasquatch, Marin, Lunático, Raggler ou Esqueleto."}
+, Summary = "Fale com Coti"}
+, 
+[17385] = {Title = "Soletrando", IconName = "ico_ev.bmp", 
+Description = {"Entregue Cartões com letras para <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI> decorar a cidade."}
+, Summary = "Fale com Twinkle"}
+, 
+[17386] = {Title = "Interação com visitantes", IconName = "ico_ev.bmp", 
+Description = {"Que tal aproveitar o festival com os <NAVI>[visitantes]<INFO>aldebaran,162,127,0,101,0</INFO></NAVI> que vieram ao Snowflake Festival?"}
+, Summary = "perto da torre do relógio"}
+, 
+[17387] = {Title = "Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Traga 10 <ITEM>[Flores de Neve]<INFO>25425</INFO></ITEM> e 1 <ITEM>[Cenoura]<INFO>515</INFO></ITEM> para <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>. Voc\234 consegue Flores de Neve derrotando Siromas Natalinos."}
+, Summary = "Colete os itens"}
+, 
+[17388] = {Title = "[Espera] Flores de Neve", IconName = "ico_ev.bmp", 
+Description = {"Volte a falar com <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> quando o sol raiar."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[17389] = {Title = "Doação de Algodão", IconName = "ico_ev.bmp", 
+Description = {"Traga 10 <ITEM>[Algodão Quentinho]<INFO>25426</INFO></ITEM> para <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>. Voc\234 pode conseguir algodão ao derrotar Sasquatch, Marin, Lunático, Raggler ou Esqueleto."}
+, Summary = "10 Algodão Quentinho"}
+, 
+[17390] = {Title = "[Espera] Doação de Algodão", IconName = "ico_ev.bmp", 
+Description = {"Volte a falar com <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> quando o sol raiar."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[17391] = {Title = "Soletrando", IconName = "ico_ev.bmp", 
+Description = {"A palavra do dia \233... INVERNO!! Abra o <ITEM>[Envelope de Cartões]<INFO>23554</INFO></ITEM> e leve as letras corretas para <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>. Voc\234 consegue os envelopes com o monstro Caixa de Presente."}
+, Summary = "I.N.V.E.R.N.O"}
+, 
+[17392] = {Title = "Soletrando", IconName = "ico_ev.bmp", 
+Description = {"A palavra do dia \233... NEVE!! Abra o <ITEM>[Envelope de Cartões]<INFO>23554</INFO></ITEM> e leve as letras corretas para <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>. Voc\234 consegue os envelopes com o monstro Caixa de Presente."}
+, Summary = "N.E.V.E"}
+, 
+[17393] = {Title = "Soletrando", IconName = "ico_ev.bmp", 
+Description = {"A palavra do dia \233... FESTIVAL!! Abra o <ITEM>[Envelope de Cartões]<INFO>23554</INFO></ITEM> e leve as letras corretas para <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>. Voc\234 consegue os envelopes com o monstro Caixa de Presente."}
+, Summary = "F.E.S.T.I.V.A.L"}
+, 
+[17394] = {Title = "Soletrando", IconName = "ico_ev.bmp", 
+Description = {"A palavra do dia \233... NATAL!! Abra o <ITEM>[Envelope de Cartões]<INFO>23554</INFO></ITEM> e leve as letras corretas para <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>. Voc\234 consegue os envelopes com o monstro Caixa de Presente."}
+, Summary = "N.A.T.A.L"}
+, 
+[17395] = {Title = "[Espera] Soletrando", IconName = "ico_ev.bmp", 
+Description = {"Volte a falar com <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI> quando o sol raiar."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[17596] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Ajude os participantes do <NAVI>[Concurso]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI> com seus Bonecos de Neve."}
+, Summary = "Fale com Krem"}
+, 
+[17597] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Encontre Sally <NAVI>[nesse lugar]<INFO>aldebaran,179,159,0,101,0</INFO></NAVI> e converse com ela."}
+, Summary = "Fale com Sally"}
+, 
+[17598] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Volte a falar com <NAVI>[Krem]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI> no local do evento."}
+, Summary = "Fale com Krem"}
+, 
+[17599] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"V\225 at\233 os <NAVI>[campos de Lutie]<INFO>xmas_fild01,128,123,0,101,0</INFO></NAVI> e colete <ITEM>[Neve Branca]<INFO>1000709</INFO></ITEM> do lugar."}
+, Summary = "5 Neve Branca"}
+, 
+[17600] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 coletou a Neve Branca daqui, vamos para a próxima <NAVI>[área]<INFO>xmas_fild01,141,166,0,101,0</INFO></NAVI>."}
+, Summary = "Coletando Neve Branca"}
+, 
+[17601] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 coletou a Neve Branca daqui, vamos para a próxima <NAVI>[área]<INFO>xmas_fild01,169,214,0,101,0</INFO></NAVI>."}
+, Summary = "Coletando Neve Branca"}
+, 
+[17602] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 coletou a Neve Branca daqui, vamos para a próxima <NAVI>[área]<INFO>xmas_fild01,59,219,0,101,0</INFO></NAVI>."}
+, Summary = "Coletando Neve Branca"}
+, 
+[17603] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Voc\234 coletou a Neve Branca daqui, vamos para a próxima <NAVI>[área]<INFO>xmas_fild01,119,52,0,101,0</INFO></NAVI>."}
+, Summary = "Coletando Neve Branca"}
+, 
+[17604] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Agora que temos 5 Neves Brancas, precisamos pegar 10 Flores de Neve e levar para o <NAVI>[Krem]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>."}
+, Summary = "10 Flor de Neve"}
+, 
+[17605] = {Title = "[Espera] Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Volte a falar com <NAVI>[Krem]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI> quando o sol raiar."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[17606] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
+Description = {"Agora que temos 5 Neves Brancas, precisamos pegar 10 Flores de Neve e levar para o <NAVI>[Krem]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>."}
+, Summary = "10 Flor de Neve"}
 }
 

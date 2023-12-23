@@ -1066,3 +1066,21 @@ ein_d02_i.rsw#Nasarian Empire#
 
 // 老风傈 坷宏 风救促
 com_d02_i.rsw#Northern Cave Luanda#
+
+// 夸老带傈
+1@md_gef.rsw#T鷐ulo do Monarca#
+1@md_pay.rsw#Weekend Dungeon#
+
+prt_mz03_i.rsw#Ilus鉶 do Labirinto#
+
+//惫荐 绵力
+lasa_sea.rsw#Mar de Lasagna#
+
+mag_dun03.rsw#Noggroad#
+gl_cas01_.rsw#Por鉶 de Glast Heim#
+
+//公茄MD
+1@infi.rsw#Espa鏾 Infinit#
+
+// 颇扼付南
+paramk.rsw#Mercado Paralelo do 蒬en#
