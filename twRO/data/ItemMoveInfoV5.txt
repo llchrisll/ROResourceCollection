@@ -5280,7 +5280,7 @@
 //2019 신년이벤트
 19454	1	1	0	1	0	1	1	1	//Poring_Letter_TW
 20294	1	1	0	1	0	1	1	1	//C_Savage_Baby_Hat_Jp
-20957	1	0	0	0	0	0	1	1	//BF_manteau_TW
+20957	1	0	0	0	0	0	1	0	//BF_manteau_TW
 31665	1	1	0	1	0	1	1	1	//C_GoldPoring_Hat_TW
 21202	1	1	0	1	0	1	1	1	//C_Eat_Coin
 
@@ -5536,8 +5536,6 @@
 25791	1	1	0	1	1	1	1	1	//Inventory_Ex_Evt
 25792	1	1	1	1	0	1	1	1	//Inventory_Ex_Dis
 25793	1	1	0	1	1	1	1	1	//Inventory_Ex
-//추수감사제
-14908	1	1	0	1	0	1	1	1	//Korea_Rice_Cake_B
 
 //2019 쌍십절 이벤트
 31835	1	0	0	0	0	0	0	0	//C_2019_D10_Muffler_TW
@@ -7080,3 +7078,183 @@
 //23년 리로드 스크롤
 480341	1	0	0	0	0	0	0	0	//Kyel_hyre_Ulti_TW
 102458	1	0	0	0	1	0	0	0	//Reload_Scroll_TW
+
+//23년 마심 스크롤
+19437	1	0	0	0	0	0	0	0	//LittleGarden
+420239	1	0	0	0	0	0	0	0	//Adventure_Clover
+450299	1	0	0	0	0	0	0	0	//Temporal_Armor_TW_LT
+102489	1	0	0	0	1	0	0	0	//EvilMind_Scroll_TW
+//23년 7월 소비 이벤트
+410256	1	0	0	0	0	0	0	0	//Magic_Star_TW_LT
+490404	1	0	0	0	0	0	0	0	//Temporal_Ring_TW_LT
+490405	1	0	0	0	0	0	0	0	//Beast_Ring
+1001437	1	0	0	0	0	0	0	0	//Time_Temp_Core_TW
+1001438	1	0	0	0	0	0	0	0	//MAgic_Star_Stone
+
+//23년 국수 축제
+400319	0	0	0	0	0	1	1	1	//C_Poringnoodle_Head
+400471	0	0	0	0	0	1	1	1	//C_Angry_Fish
+25657	1	1	1	1	0	1	1	1	//Evt_July01_KR
+25664	1	1	1	1	0	1	1	1	//Evt_July03_KR
+25841	1	1	1	1	0	1	1	1	//Smooth_Noodle
+1000570	1	1	1	1	0	1	1	1	//Noodle_Fes_Ticket
+1000571	1	1	1	1	0	1	1	1	//E_Star_Button
+23362	1	1	1	1	0	1	1	1	//Pig_Potato
+23363	1	1	1	1	0	1	1	1	//E_Watermelon_Pudding
+100829	1	1	1	1	0	1	1	1	//Farfalle
+100830	1	1	1	1	0	1	1	1	//Cream_Noodle2
+100831	1	1	1	1	0	1	1	1	//Festival_Noodle2
+100832	1	1	1	1	0	1	1	1	//Tamato_Noodle2
+100833	1	1	1	1	0	1	1	1	//Oil_Noodle
+
+//23년 천지영웅 스크롤
+102512	1	0	0	0	0	0	0	0	//Temporal_Up_Box
+102513	1	0	0	0	1	0	0	0	//AllWorld_Hero_Scroll_TW
+
+//한여름의 시원함 스크롤
+400511	1	0	0	0	0	0	0	0	//Q_Scaraba_Crown_TW
+102539	1	0	0	0	0	0	0	0	//Remorse_C_Box_TW
+102549	1	0	0	0	1	0	0	0	//Cool_Summer_Scroll_TW
+
+//헤어 뚝딱 상자 업데이트
+102580	1	0	0	0	0	0	0	0	//C_AB_Hair_Box_TW
+
+//23 호상토 콜라보 이벤트
+400503	1	1	0	1	0	1	1	1	//C_Hosangto_Hat
+410266	1	0	0	0	0	0	0	0	//C_H_N_Hat
+480363	1	0	0	0	0	0	0	0	//C_Big_Hosangto
+490409	1	0	0	0	0	0	0	0	//Copy_Book_Resur
+300484	0	0	0	0	1	0	0	0	//Hosangto_Card
+300485	0	0	0	0	1	0	0	0	//Nitco_Card
+25400	1	1	1	1	1	1	1	1	//TW_PiecesOfWarrior
+//호상토 스크롤
+102578	1	0	0	0	1	0	0	0	//Hosangto_Scroll_TW
+
+//달의힘 스크롤
+420260	1	0	0	0	0	0	0	0	//RabbitFamilyBalloon_LT
+480372	1	0	0	0	0	0	0	0	//Giant_Mad_Bunny_TW
+490440	1	0	0	0	0	0	0	0	//Eclipsedefmind_LT
+102607	1	0	0	0	1	0	1	0	//PowerMoon_Scroll_TW
+
+//추수감사제 이벤트
+14908	1	1	1	1	1	1	1	1	//Korea_Rice_Cake_B
+
+//21주년 패키지
+24880	1	0	0	0	0	0	0	0	//21Anni_W_Shadow_TW
+24881	1	0	0	0	0	0	0	0	//21Anni2_W_Shadow_TW
+24882	1	0	0	0	0	0	0	0	//21Anni3_W_Shadow_TW
+420261	1	0	0	0	0	0	0	0	//Nightmare_Looker_TW
+490443	1	0	0	0	0	0	0	0	//21Anni_Memory_TW
+102627	1	0	0	0	0	0	0	0	//21_Anni_Stone1_TW
+102628	1	0	0	0	0	0	0	0	//21_Anni_Stone2_TW
+102629	1	0	0	0	0	0	0	0	//21_Anni_Stone3_TW
+102630	1	0	0	0	0	0	0	0	//21Anni_Scroll_TW
+
+//21주년 이벤트
+//프론테라 야시장
+1001359	1	1	0	1	0	1	1	1	//Unidentified_Bug
+1100009	1	1	0	1	0	1	1	1	//South_Pork_Ricebowl
+1100010	1	1	0	1	0	1	1	1	//Poring_Kombucha
+1100011	1	1	0	1	0	1	1	1	//Monster_Bread
+1100012	1	1	0	1	0	1	1	1	//Monster_Bread_
+1100013	1	1	0	1	0	1	1	1	//South_Pork_Slice
+1100014	1	1	0	1	0	1	1	1	//Grilled_Fish
+1100015	1	1	0	1	0	1	1	1	//Grilled_Veg_Skewers_
+1100016	1	1	0	1	0	1	1	1	//Night_M_Ice_Flakes
+1100017	1	1	0	1	0	1	1	1	//Night_M_Ice_Cream
+1100018	1	1	0	1	0	1	1	1	//Night_M_Cotton_Candy
+1100019	1	1	0	1	0	1	1	1	//Grilled_Veg_Skewers
+1100020	1	1	0	1	0	1	1	1	//Grilled_Hm_Sausage
+//케익 배달 이벤트
+1001490	1	1	0	1	0	1	1	1	//TW_B_Event01
+102610	1	1	0	1	0	1	1	1	//TW_B_Special01
+
+//신서버 웹 이벤트
+24739	1	1	1	1	0	1	1	1	//S_SU_Weapon
+24740	1	1	1	1	0	1	1	1	//S_SJ_Weapon
+24741	1	1	1	1	0	1	1	1	//S_KO_Weapon
+24742	1	1	1	1	0	1	1	1	//S_RL_Weapon
+24743	1	1	1	1	0	1	1	1	//S_SP_Weapon
+24744	1	1	1	1	0	1	1	1	//S_NV_Weapon
+
+//23 09 소비 이벤트
+400547	1	0	0	0	0	0	0	0	//2023Seppay_02
+400548	1	0	0	0	0	0	0	0	//2023Seppay_03
+400549	1	0	0	0	0	0	0	0	//2023Seppay_04
+400550	1	0	0	0	0	0	0	0	//2023Seppay_05
+400551	1	0	0	0	0	0	0	0	//2023Seppay_06
+490452	1	0	0	0	0	0	0	0	//2023Seppay_01
+1001557	1	0	0	0	0	0	0	0	//2023Seppay_07
+1001558	1	0	0	0	0	0	0	0	//2023Seppay_08
+
+//차상위 업데이트 이벤트
+420195	1	1	0	1	1	1	1	1	//C_1st_Evt_Balloon_MSP
+490450	1	1	1	1	1	1	1	1	//Imperfect_Temp_Acc
+100906	1	1	0	1	0	1	1	1	//E_All_In_One_Buff
+
+//자연의 힘 스크롤
+102644	1	0	0	0	0	0	0	0	//Nature_Life
+102645	1	0	0	0	0	0	0	0	//Natural_P_Scroll_TW
+
+//23 10 Contents
+//차상위 추가 아이템
+101100	1	1	1	1	0	1	1	1	//Poenetentia_Box3
+101101	1	1	1	1	0	1	1	1	//Poenetentia_Box4
+
+//산리오 콜라보
+410267	1	1	0	1	1	1	1	1	//C_Cinnamon
+410268	1	1	0	1	1	1	1	1	//C_Cinnamon2
+480243	1	1	0	1	1	1	1	1	//C_JP_EV16
+480244	1	1	0	1	1	1	1	1	//C_JP_EV17
+480245	1	1	0	1	1	1	1	1	//JP_EV17
+102663	1	0	0	0	0	0	0	0	//San_Pack1_TW
+102664	1	0	0	0	0	0	0	0	//San_Pack2_TW
+102665	1	0	0	0	0	0	0	0	//San_Pack3_TW
+102666	1	0	0	0	0	0	0	0	//San_Pack4_TW
+
+//ROS 우승 보상
+20625	1	1	0	1	1	1	1	1	//C_ROS2023_Cape_1
+20626	1	1	0	1	1	1	1	1	//C_ROS2023_Cape_2
+//캐스터 캐스팅 쉐도우 속성 상자
+102690	1	0	0	0	0	0	0	0	//C_C_Shadow_Opti_Box_TW
+//초승달 스크롤
+102688	1	0	0	0	0	0	0	0	//Hight_helm_Box
+102689	1	0	0	0	0	0	0	0	//Crescent_Scroll_TW
+//인챈트 스톤상자 26_27
+101271	1	1	0	1	0	1	1	1	//Enchant_Stone_Box26
+101416	1	1	0	1	0	1	1	1	//Enchant_Stone_Box27
+
+//초겨울 스크롤
+102697	1	0	0	0	1	0	0	0	//Early_Winter_Scroll_TW
+//Oct_consume_event
+420301	1	0	0	0	1	0	0	0	//Magic_Circle_LT
+470247	1	0	0	0	1	0	0	0	//Mid_Knight_Shoes
+490466	1	0	0	0	1	0	0	0	//Fallen_Seraphim_ring
+490467	1	0	0	0	1	0	0	0	//Garnet_Pendant_LT
+490468	1	0	0	0	1	0	0	0	//Wine_Jewel_Brooch_LT
+1001573	1	0	0	0	0	0	0	0	//Crimson_M_Petal
+
+//23년 11월 왕실 사냥 대회 이벤트
+11627	1	1	0	1	0	1	1	1	//High_Q_Beef_Jerky
+11628	1	1	0	1	0	1	1	1	//Fleshy_Larva
+//악령화염 스크롤
+480399	1	0	0	0	0	0	0	0	//Devil_Flame_Manteau_LT
+490472	1	0	0	0	0	0	0	0	//Evil_Purgatory_Ring
+102725	1	0	0	0	1	0	0	0	//EvilFire_Scroll_TW
+
+//메가블리츠 쉐도우 뚝딱상자
+102727	1	0	0	0	0	0	0	0	//M_B_S_OTP_Box_TW
+//KOL 투표 이벤트
+20306	1	1	0	1	1	1	1	1	//C_Artist_Hat
+
+//눈꽃축제 스크롤
+102770	1	0	0	0	1	0	0	0	//SnowF_Fes_Scroll_TW
+
+//카나헤이 콜라보 스크롤
+102695	1	0	0	0	1	0	0	0	//Kanahei_Scroll_TW
+400571	1	1	0	1	0	1	1	1	//C_Kanahei_Fam
+300500	0	0	0	0	1	0	0	0	//E_Usagi_Card
+300501	0	0	0	0	1	0	0	0	//E_Piske_Card
+460066	1	0	0	0	0	0	0	0	//Fake_Alloy_Pot_LT
+490482	1	0	0	0	0	0	0	0	//Cel_Design_Pendant
+102695	1	0	0	0	1	0	0	0	//Kanahei_Scroll_TW

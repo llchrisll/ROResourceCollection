@@ -3723,6 +3723,38 @@ signName = {subTitle = "幻影系列", mainTitle = "幻影螞蟻地獄"}
 ["1@ch_u.rsw"] = {displayName = "沉沒之塔", notifyEnter = true, 
 signName = {subTitle = "舊魔物終結塔侵蝕地", mainTitle = "沉沒之塔"}
 , backgroundBmp = "noname"}
+, 
+["1@exnw.rsw"] = {displayName = "克萊納 奈米艾利", notifyEnter = true, 
+signName = {mainTitle = "克萊納 奈米艾利"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@exsr.rsw"] = {displayName = "內在世界", notifyEnter = true, 
+signName = {mainTitle = "內在世界"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@exds.rsw"] = {displayName = "無名山山麓", notifyEnter = true, 
+signName = {mainTitle = "無名山山麓"}
+, backgroundBmp = "field2_s2"}
+, 
+["2@exds.rsw"] = {displayName = "無名山山麓", notifyEnter = true, 
+signName = {mainTitle = "無名山山麓"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@exse.rsw"] = {displayName = "銀河天界分部", notifyEnter = true, 
+signName = {mainTitle = "銀河天界分部"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@exhn.rsw"] = {displayName = "初學者的記憶", notifyEnter = true, 
+signName = {mainTitle = "初學者的記憶"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@exsh.rsw"] = {displayName = "深邃叢林", notifyEnter = true, 
+signName = {mainTitle = "深邃叢林"}
+, backgroundBmp = "field2_s2"}
+, 
+["clock_01.rsw"] = {displayName = "鐘塔神秘地下室", notifyEnter = true, 
+signName = {subTitle = "鐘塔", mainTitle = "神秘地下室"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0

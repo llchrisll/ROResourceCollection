@@ -3373,6 +3373,36 @@ EFFECT.EF_NPC_GATE_RED_S = 2388
 -- DECOMPILER ERROR at PC4238: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_NPC_GATE_SKYBLUE = 2389
+-- DECOMPILER ERROR at PC4242: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_ANGEL = 2356
+-- DECOMPILER ERROR at PC4246: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_ANIMAL = 2357
+-- DECOMPILER ERROR at PC4250: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_DEVIL = 2358
+-- DECOMPILER ERROR at PC4254: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_DRAGON = 2359
+-- DECOMPILER ERROR at PC4258: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_FISH = 2360
+-- DECOMPILER ERROR at PC4262: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_HUMAN = 2361
+-- DECOMPILER ERROR at PC4266: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_INSECT = 2362
+-- DECOMPILER ERROR at PC4270: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_NOTHING = 2363
+-- DECOMPILER ERROR at PC4274: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_PLANT = 2364
+-- DECOMPILER ERROR at PC4278: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.MAGIC_CIRCLE_UNDEAD = 2365
 tbl = {
 [2603] = {MonsterSize = 1.2, 
 MonsterEff = {EFFECT.EF_BOTTOM_DE}
@@ -6050,6 +6080,10 @@ MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 , 
 [23000] = {MonsterSize = 0.7, 
 MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[20118] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 }
 }
 main = function()

@@ -5,6 +5,192 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+PerfectSize_Up = {ItemID = 101362, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_PerfectSize_Armor", 24426}
+, 
+{"S_PerfectSize_Weapon", 24425}
+}
+, NeedSource_String = "影子全然體型"}
+, 
+Hasty_Up = {ItemID = 101360, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Hasty_Weapon", 24439}
+, 
+{"S_Hasty_Shield", 24732}
+}
+, NeedSource_String = "影子急速"}
+, 
+M_Blitz_Shadow_Up = {ItemID = 101261, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Mega_Blitz_Shield", 24767}
+, 
+{"S_Mega_Blitz_Weapon", 24768}
+}
+, NeedSource_String = "影子優越突擊"}
+, 
+MajorAutoSpell_Up = {ItemID = 101359, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+}
+, NeedSource_String = "影子嫻熟自動念咒"}
+, 
+SpellCaster_Shadow_Up = {ItemID = 101179, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_SpellCaster_Armor", 24747}
+, 
+{"S_SpellCaster_Shoes", 24748}
+, 
+{"S_SpellCaster_Earring", 24749}
+, 
+{"S_SpellCaster_Pendant", 24750}
+}
+, NeedSource_String = "影子精工詠唱"}
+, 
+Nature_Life = {ItemID = 102644, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Occult_Nature_Cape", 480276}
+}
+, NeedSource_String = "曼妙自然之力斗篷"}
+, 
+MagicalShadow_Up = {ItemID = 101310, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Clever_Shield", 24737}
+, 
+{"S_Clever_Weapon", 24736}
+}
+, NeedSource_String = "影子魔力"}
+, 
+PhysicalShadow_Up = {ItemID = 101361, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Durable_Shield", 24735}
+, 
+{"S_Durable_Weapon", 24734}
+}
+, NeedSource_String = "影子天然"}
+, 
+True_GemShadow_Up = {ItemID = 101308, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Armor", 24675}
+}
+, NeedSource_String = "影子真魔力礦石 "}
+, 
+Mammoth_Shadow_Up = {ItemID = 101264, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
+}
+, NeedSource_String = "影子神力猛瑪之力"}
+, 
+InfinityShadow_Up = {ItemID = 101311, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Infinity_Shield", 24733}
+, 
+{"S_Infinity_Weapon", 24386}
+}
+, NeedSource_String = "影子無極"}
+, 
+R_Bearers_Shadow_Up = {ItemID = 101260, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_R_Bearers_Armor", 24764}
+, 
+{"S_R_Bearers_Shoes", 24763}
+, 
+{"S_R_Bearers_Earring", 24766}
+, 
+{"S_R_Bearers_Pendant", 24765}
+}
+, NeedSource_String = "影子君主送信者"}
+, 
+Absorb_Shadow_Up = {ItemID = 101262, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Absorb_Shield", 24685}
+, 
+{"S_Absorb_Weapon", 24686}
+}
+, NeedSource_String = "影子全力吸收"}
+, 
+Egir_Power_Box = {ItemID = 100466, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Egir_Helm_K", 19026}
+, 
+{"Egir_Armor_K", 15138}
+, 
+{"Egir_Shoes_K", 22059}
+, 
+{"Egir_Manteau_K", 20756}
+, 
+{"Egirnion_Armor", 450164}
+, 
+{"Egirnion_Shoes", 470070}
+, 
+{"Egirnion_Manteau", 480083}
+, 
+{"Egirnion_Helm", 400097}
+, 
+{"Egirnion_Gardiansword", 490235}
+}
+, NeedSource_String = "海神艾格防具"}
+, 
+Egir_Magic_Box = {ItemID = 100467, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Egir_Helm_K", 19026}
+, 
+{"Egir_Armor_K", 15138}
+, 
+{"Egir_Shoes_K", 22059}
+, 
+{"Egir_Manteau_K", 20756}
+, 
+{"Egirnion_Armor", 450164}
+, 
+{"Egirnion_Shoes", 470070}
+, 
+{"Egirnion_Manteau", 480083}
+, 
+{"Egirnion_Helm", 400097}
+, 
+{"Egirnion_Gardiansword", 490235}
+}
+, NeedSource_String = "海神艾格防具"}
+, 
+FullPenest_Shadow_Up = {ItemID = 101177, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_FullPene_Earring", 24661}
+, 
+{"S_FullPene_Pendant", 24662}
+, 
+{"S_FullPene_Armor", 24663}
+, 
+{"S_FullPene_Shoes", 24664}
+, 
+{"S_FullTemp_Earring", 24665}
+, 
+{"S_FullTemp_Shoes", 24666}
+, 
+{"S_FullTemp_Armor", 24667}
+, 
+{"S_FullTemp_Pendant", 24668}
+}
+, NeedSource_String = "影子天衣無縫,影子風暴"}
+, 
 Reload_Shadow_Up = {ItemID = 101178, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_S_Reload_Shield", 24746}
@@ -1286,6 +1472,28 @@ TargetItems = {
 {"Poenitentia_Flagellum", 580013}
 , 
 {"Poenetentia_Vatia", 700025}
+, 
+{"Poenitentia_Foramen", 800011}
+, 
+{"Poenitentia_Penet", 810007}
+, 
+{"Poenitentia_Veloci", 830010}
+, 
+{"Poenitentia_Ruina", 840006}
+, 
+{"Poenitentia_Orbis", 500046}
+, 
+{"Poenitentia_Sol", 510056}
+, 
+{"Poenitentia_Jana", 510057}
+, 
+{"Poenitentia_Radius", 540044}
+, 
+{"Poenitentia_Ramus", 550060}
+, 
+{"Poenitentia_Planta", 550061}
+, 
+{"Poenitentia_Ferrum", 550062}
 }
 , NeedSource_String = "懺悔覺醒武器(物理)"}
 , 
@@ -1340,6 +1548,28 @@ TargetItems = {
 {"Poenitentia_Flagellum", 580013}
 , 
 {"Poenetentia_Vatia", 700025}
+, 
+{"Poenitentia_Foramen", 800011}
+, 
+{"Poenitentia_Penet", 810007}
+, 
+{"Poenitentia_Veloci", 830010}
+, 
+{"Poenitentia_Ruina", 840006}
+, 
+{"Poenitentia_Orbis", 500046}
+, 
+{"Poenitentia_Sol", 510056}
+, 
+{"Poenitentia_Jana", 510057}
+, 
+{"Poenitentia_Radius", 540044}
+, 
+{"Poenitentia_Ramus", 550060}
+, 
+{"Poenitentia_Planta", 550061}
+, 
+{"Poenitentia_Ferrum", 550062}
 }
 , NeedSource_String = "懺悔覺醒武器(物理)"}
 , 
@@ -1394,6 +1624,28 @@ TargetItems = {
 {"Poenitentia_Flagellum", 580013}
 , 
 {"Poenetentia_Vatia", 700025}
+, 
+{"Poenitentia_Foramen", 800011}
+, 
+{"Poenitentia_Penet", 810007}
+, 
+{"Poenitentia_Veloci", 830010}
+, 
+{"Poenitentia_Ruina", 840006}
+, 
+{"Poenitentia_Orbis", 500046}
+, 
+{"Poenitentia_Sol", 510056}
+, 
+{"Poenitentia_Jana", 510057}
+, 
+{"Poenitentia_Radius", 540044}
+, 
+{"Poenitentia_Ramus", 550060}
+, 
+{"Poenitentia_Planta", 550061}
+, 
+{"Poenitentia_Ferrum", 550062}
 }
 , NeedSource_String = "懺悔覺醒武器(魔法)"}
 , 
@@ -1448,6 +1700,28 @@ TargetItems = {
 {"Poenitentia_Flagellum", 580013}
 , 
 {"Poenetentia_Vatia", 700025}
+, 
+{"Poenitentia_Foramen", 800011}
+, 
+{"Poenitentia_Penet", 810007}
+, 
+{"Poenitentia_Veloci", 830010}
+, 
+{"Poenitentia_Ruina", 840006}
+, 
+{"Poenitentia_Orbis", 500046}
+, 
+{"Poenitentia_Sol", 510056}
+, 
+{"Poenitentia_Jana", 510057}
+, 
+{"Poenitentia_Radius", 540044}
+, 
+{"Poenitentia_Ramus", 550060}
+, 
+{"Poenitentia_Planta", 550061}
+, 
+{"Poenitentia_Ferrum", 550062}
 }
 , NeedSource_String = "懺悔覺醒武器(魔法)"}
 , 
@@ -1508,10 +1782,12 @@ TargetItems = {
 Hell_fire_D_Box = {ItemID = 101614, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Devil_Flame_Manteau_TW", 480154}
+, 
+{"Devil_Flame_Manteau_LT", 480399}
 }
 , NeedSource_String = "魔鬼惡火斗篷"}
 , 
-Force_of_Fullmoon = {ItemID = 101592, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Force_of_Fullmoon = {ItemID = 101592, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"lunar_eclipse_Armor_", 15374}
 , 
@@ -2773,9 +3049,11 @@ TargetItems = {
 }
 , NeedSource_String = "恩典鎧甲"}
 , 
-Twisted_Time_Key_TW = {ItemID = 100915, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+Twisted_Time_Key_TW = {ItemID = 100915, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
 {"Temporal_Armor_TW", 450175}
+, 
+{"Temporal_Armor_TW_LT", 450299}
 }
 , NeedSource_String = "時光超越湧現鎧甲"}
 , 
@@ -5331,6 +5609,18 @@ TargetItems = {
 , 
 Shadow2_Op_Box_TW = {ItemID = 100549, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_Mega_Blitz_Shield", 24767}
+, 
+{"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_SpellCaster_Armor", 24747}
+, 
+{"S_SpellCaster_Shoes", 24748}
+, 
+{"S_SpellCaster_Earring", 24749}
+, 
+{"S_SpellCaster_Pendant", 24750}
+, 
 {"S_S_Reload_Shield", 24746}
 , 
 {"S_KingbirdAnc_Weapon", 24745}
@@ -6313,6 +6603,24 @@ TargetItems = {
 , 
 Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_Mega_Blitz_Shield", 24767}
+, 
+{"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_SpellCaster_Armor", 24747}
+, 
+{"S_SpellCaster_Shoes", 24748}
+, 
+{"S_SpellCaster_Earring", 24749}
+, 
+{"S_SpellCaster_Pendant", 24750}
+, 
+{"21Anni_W_Shadow_TW", 24880}
+, 
+{"21Anni2_W_Shadow_TW", 24881}
+, 
+{"21Anni3_W_Shadow_TW", 24882}
+, 
 {"S_S_Reload_Shield", 24746}
 , 
 {"S_KingbirdAnc_Weapon", 24745}
@@ -8751,6 +9059,24 @@ TargetItems = {
 , 
 Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_Mega_Blitz_Shield", 24767}
+, 
+{"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_SpellCaster_Armor", 24747}
+, 
+{"S_SpellCaster_Shoes", 24748}
+, 
+{"S_SpellCaster_Earring", 24749}
+, 
+{"S_SpellCaster_Pendant", 24750}
+, 
+{"21Anni_W_Shadow_TW", 24880}
+, 
+{"21Anni2_W_Shadow_TW", 24881}
+, 
+{"21Anni3_W_Shadow_TW", 24882}
+, 
 {"S_S_Reload_Shield", 24746}
 , 
 {"S_KingbirdAnc_Weapon", 24745}

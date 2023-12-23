@@ -5,6 +5,158 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+Bs_Item_Record2 = {ItemID = 102791, NeedCount = 4, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Pieces_Of_Sentiment", 300, 22687}
+, 
+{"Pieces_Of_Grudge", 1000, 23016}
+, 
+{"Zelunium", 1000, 25731}
+, 
+{"Shadowdecon", 1000, 25729}
+}
+, NeedSource_String = "邪念碎片, 咒怨碎片, 鍺金石, 影子神秘金屬"}
+, 
+Bs_Item_Tate = {ItemID = 102792, NeedCount = 4, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"OldTank", 200, 6962}
+, 
+{"ClockTower_Lead", 10000, 1000680}
+, 
+{"Zelunium", 1000, 25731}
+, 
+{"Shadowdecon", 1000, 25729}
+}
+, NeedSource_String = "老舊油桶, 鉛塊, 鍺金石, 影子神秘金屬"}
+, 
+Bs_Item_Naght_C = {ItemID = 102793, NeedCount = 5, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Naght_Sieger_Soul", 150, 1000396}
+, 
+{"Betelgeuse_Soul", 300, 1000397}
+, 
+{"M_Dimension_Essence", 5, 7925}
+, 
+{"Zelunium", 1000, 25731}
+, 
+{"Shadowdecon", 1000, 25729}
+}
+, NeedSource_String = "夜勝魔靈珠, 參宿四靈珠, 強力精華球, 鍺金石, 影子神秘金屬"}
+, 
+Bs_Item_Imir_H_P = {ItemID = 102794, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"M_Dimension_Essence", 50, 7925}
+, 
+{"Zelunium", 1000, 25731}
+, 
+{"Shadowdecon", 1000, 25729}
+}
+, NeedSource_String = "強力精華球, 鍺金石, 影子神秘金屬"}
+, 
+Bs_Item_M_S_57 = {ItemID = 101345, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Tiger\'s_Skin", 50, 1029}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "虎皮, 鍺金石"}
+, 
+Bs_Item_M_S_58 = {ItemID = 101346, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Will_Of_Darkness_", 30, 7566}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "紅色黑暗的意志, 鍺金石"}
+, 
+Bs_Item_M_S_59 = {ItemID = 101347, NeedCount = 2, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Loki\'s_Whispers", 30, 7019}
+, 
+{"Zelunium", 250, 25731}
+}
+, NeedSource_String = "傲慢之像, 鍺金石"}
+, 
+M_B_S_OTP_Box_TW = {ItemID = 102727, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Mega_Blitz_Shield", 1, 24767}
+, 
+{"S_Mega_Blitz_Weapon", 1, 24768}
+}
+, NeedSource_String = "影子優越突擊"}
+, 
+M_BlitzShadow_Mix = {ItemID = 101258, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Blitz_Armor", 1, 24344}
+, 
+{"S_Blitz_Weapon", 1, 24343}
+, 
+{"S_Blitz_Shield", 1, 24232}
+, 
+{"S_Blitz_Shoes", 1, 24231}
+, 
+{"S_Blitz_Pendent", 1, 24218}
+, 
+{"S_Blitz_Earring", 1, 24217}
+}
+, NeedSource_String = "影子突擊"}
+, 
+C_C_Shadow_Opti_Box_TW = {ItemID = 102690, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 10, 
+SourceItems = {
+{"S_SpellCaster_Armor", 1, 24747}
+, 
+{"S_SpellCaster_Shoes", 1, 24748}
+, 
+{"S_SpellCaster_Earring", 1, 24749}
+, 
+{"S_SpellCaster_Pendant", 1, 24750}
+}
+, NeedSource_String = "影子精工詠唱"}
+, 
+SpellCasterShadow_Mix = {ItemID = 101182, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S2_Spell_Flow_Shield", 1, 24323}
+, 
+{"S_Spell_Flow_Shield", 1, 24113}
+, 
+{"S_Spell_Flow_Armor", 1, 24112}
+, 
+{"S_Spell_Flow_Shoes", 1, 24111}
+, 
+{"S2_Caster_Armor", 1, 24330}
+, 
+{"S_Caster_Armor", 1, 24242}
+, 
+{"S_Caster_Shield", 1, 24241}
+, 
+{"S_Caster_Shoes", 1, 24240}
+, 
+{"S_Caster_Weapon", 1, 24110}
+, 
+{"S_Caster_earring", 1, 24109}
+, 
+{"S_Caster_Pendant", 1, 24048}
+}
+, NeedSource_String = "影子念咒,影子詠唱"}
+, 
+["21_Anni_Stone1_TW"] = {ItemID = 102627, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"21Anni_W_Shadow_TW", 1, 24880}
+}
+, NeedSource_String = "影子純淨手套"}
+, 
+["21_Anni_Stone2_TW"] = {ItemID = 102628, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"21Anni2_W_Shadow_TW", 1, 24881}
+}
+, NeedSource_String = "影子雜念墮落手套"}
+, 
+["21_Anni_Stone3_TW"] = {ItemID = 102629, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"21Anni3_W_Shadow_TW", 1, 24882}
+}
+, NeedSource_String = "影子純淨聖潔手套"}
+, 
 ReloadShadow_Mix = {ItemID = 101181, NeedCount = 3, NeedRefineMin = 9, NeedRefineMax = 10, 
 SourceItems = {
 {"S_Reload_Armor", 1, 24245}
@@ -3880,6 +4032,78 @@ SourceItems = {
 {"WanderMinsStone_Middle2", 1, 1000306}
 , 
 {"WanderMinsStone_Bottom2", 1, 1000307}
+, 
+{"Range_Stone_Top", 1, 1000375}
+, 
+{"Range_Stone_Bottom", 1, 1000376}
+, 
+{"Melee_Stone_Top", 1, 1000377}
+, 
+{"Melee_Stone_Middle", 1, 1000378}
+, 
+{"Melee_Stone_Bottom", 1, 1000379}
+, 
+{"ASPDStone_Robe_D", 1, 1000520}
+, 
+{"CastStone_Robe_D", 1, 1000522}
+, 
+{"Melee_Stone_Robe_D", 1, 1000524}
+, 
+{"HPdrainStone_Robe_D", 1, 1000526}
+, 
+{"Magic_Stone_Robe_D", 1, 1000527}
+, 
+{"Magic_Stone_Top", 1, 1000528}
+, 
+{"Magic_Stone_Middle", 1, 1000529}
+, 
+{"Magic_Stone_Bottom", 1, 1000530}
+, 
+{"MinorCastStone_Robe_D", 1, 1000521}
+, 
+{"Range_Stone_Robe_D", 1, 1000523}
+, 
+{"SPdrainStone_Robe_D", 1, 1000525}
+, 
+{"RuneknightStone_Top3", 1, 1000610}
+, 
+{"RuneknightStone_Middle3", 1, 1000611}
+, 
+{"RuneknightStone_Bottom3", 1, 1000612}
+, 
+{"WarlockStone_Top3", 1, 1000613}
+, 
+{"WarlockStone_Middle3", 1, 1000614}
+, 
+{"WarlockStone_Bottom3", 1, 1000615}
+, 
+{"RoyalguardStone_Top3", 1, 1000616}
+, 
+{"RoyalguardStone_Middle3", 1, 1000617}
+, 
+{"RoyalguardStone_Bottom3", 1, 1000618}
+, 
+{"WanderMinsStone_Top3", 1, 1000666}
+, 
+{"WanderMinsStone_Middle3", 1, 1000667}
+, 
+{"WanderMinsStone_Bottom3", 1, 1000668}
+, 
+{"GeneticStone_Top3", 1, 1000669}
+, 
+{"GeneticStone_Middle3", 1, 1000670}
+, 
+{"GeneticStone_Bottom3", 1, 1000671}
+, 
+{"SorcererStone_Top3", 1, 1000672}
+, 
+{"SorcererStone_Middle3", 1, 1000673}
+, 
+{"SorcererStone_Bottom3", 1, 1000674}
+, 
+{"ReloadStone_Robe_D", 1, 1000675}
+, 
+{"CrtStone_Robe_D", 1, 1000676}
 }
 , NeedSource_String = "附魔石"}
 , 
@@ -7649,6 +7873,28 @@ SourceItems = {
 , 
 Hair_Ddbox_TW = {ItemID = 23798, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
+{"C_AB_Hair_PP", 1, 420062}
+, 
+{"C_AB_Hair_GN", 1, 420060}
+, 
+{"C_AB_Hair_BU", 1, 420059}
+, 
+{"C_AB_Hair_YL", 1, 420058}
+, 
+{"C_AB_Hair_RD", 1, 420057}
+, 
+{"C_AB_Hair_WH", 1, 31971}
+, 
+{"C_AB_Hair_LPP", 1, 31969}
+, 
+{"C_AB_Hair_BL", 1, 31968}
+, 
+{"C_Twinkle_Wave", 1, 420197}
+, 
+{"C_Valkyrie_Hair_J", 1, 420177}
+, 
+{"C_Demi_Freyja_Hair", 1, 400427}
+, 
 {"C_Snow_Rabbit_Wig", 1, 420191}
 , 
 {"C_Twinkle_Twin_B", 1, 420150}

@@ -1965,23 +1965,1601 @@ Material = {}
 , ResultItem = "Up_The_Black_Gatling", NeedRefineMin = 11, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
 InformationString = {"<B>改造資訊說明</B>", "1) 附加能力 : 保留", "2) 卡片及附魔 : 保留", "3) 評價階級 : 保留"}
 }
+, 
+[10035] = {BaseItem = "Temporal_Armor_TW", 
+Material = {Armor_Stone_1 = 150, Timeoverload_Power_TW = 10, M_Dimension_Essence = 40, Ymir_Heart_TW = 1}
+, ResultItem = "Temporal_Armor_TW_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10036] = {BaseItem = "Temporal_Armor_TW", 
+Material = {Armor_Stone_2 = 150, Timeoverload_Power_TW = 10, M_Dimension_Essence = 40, Ymir_Heart_TW = 1}
+, ResultItem = "Temporal_Armor_TW_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10037] = {BaseItem = "Temporal_Ring_TW", 
+Material = {Acc_Stone_3 = 100, Time_Temp_Core_TW = 1, Spell_Of_Time = 200, M_Dimension_Essence = 1}
+, ResultItem = "Temporal_Ring_TW_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF0^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10038] = {BaseItem = "Magic_Star_TW", 
+Material = {Armor_Stone_3 = 100, Meteorite_Fragment = 200, Betelgeuse_Soul = 30, MAgic_Star_Stone = 1}
+, ResultItem = "Magic_Star_TW_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF0^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10039] = {BaseItem = "Temporal_M_Str", 
+Material = {Timeoverload_Power_TW = 5, M_Dimension_Essence = 10, Time_Unseal_Key = 25}
+, ResultItem = "Temporal_Cape_TW", NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10040] = {BaseItem = "Temporal_M_Agi", 
+Material = {Timeoverload_Power_TW = 5, M_Dimension_Essence = 10, Time_Unseal_Key = 25}
+, ResultItem = "Temporal_Cape_TW", NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10041] = {BaseItem = "Temporal_M_Vit", 
+Material = {Timeoverload_Power_TW = 5, M_Dimension_Essence = 10, Time_Unseal_Key = 25}
+, ResultItem = "Temporal_Cape_TW", NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10042] = {BaseItem = "Temporal_M_Int", 
+Material = {Timeoverload_Power_TW = 5, M_Dimension_Essence = 10, Time_Unseal_Key = 25}
+, ResultItem = "Temporal_Cape_TW", NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10043] = {BaseItem = "Temporal_M_Dex", 
+Material = {Timeoverload_Power_TW = 5, M_Dimension_Essence = 10, Time_Unseal_Key = 25}
+, ResultItem = "Temporal_Cape_TW", NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10044] = {BaseItem = "Temporal_M_Luk", 
+Material = {Timeoverload_Power_TW = 5, M_Dimension_Essence = 10, Time_Unseal_Key = 25}
+, ResultItem = "Temporal_Cape_TW", NeedRefineMin = 12, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[459] = {BaseItem = "Up_OneSkyOneSun", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "OneSkyOneSun_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[462] = {BaseItem = "Up_SoulWeight", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "SoulWeight_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[463] = {BaseItem = "Up_MeawFoxtail", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "MeawFoxtail_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[469] = {BaseItem = "Up_OneSkyOneSun", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "OneSkyOneSun_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[472] = {BaseItem = "Up_SoulWeight", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "SoulWeight_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[473] = {BaseItem = "Up_MeawFoxtail", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "MeawFoxtail_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[479] = {BaseItem = "Up_OneSkyOneSun", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "OneSkyOneSun_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[482] = {BaseItem = "Up_SoulWeight", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "SoulWeight_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[483] = {BaseItem = "Up_MeawFoxtail", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "MeawFoxtail_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[499] = {BaseItem = "King_Tiger_Doll_Hat", 
+Material = {Armor_Stone_1 = 100, Tiger_Footskin = 40}
+, ResultItem = "King_Tiger_Doll_Hat_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[500] = {BaseItem = "Zaha_Doll_Hat", 
+Material = {Armor_Stone_1 = 100, Limpid_Celestial_Robe = 200, Soft_Silk_Cloth = 100}
+, ResultItem = "Baksojin_Hat_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[501] = {BaseItem = "King_Tiger_Doll_Hat", 
+Material = {Armor_Stone_2 = 100, Tiger_Footskin = 80}
+, ResultItem = "King_Tiger_Doll_Hat_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[502] = {BaseItem = "Zaha_Doll_Hat", 
+Material = {Armor_Stone_2 = 100, Limpid_Celestial_Robe = 400, Soft_Silk_Cloth = 200}
+, ResultItem = "Baksojin_Hat_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[456] = {BaseItem = "Up_The_Black_Gatling", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "The_Black_Gatling_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[466] = {BaseItem = "Up_The_Black_Gatling", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "The_Black_Gatling_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[476] = {BaseItem = "Up_The_Black_Gatling", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "The_Black_Gatling_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[457] = {BaseItem = "Up_Crimson_Rose", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Crimson_Rose_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[467] = {BaseItem = "Up_Crimson_Rose", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Crimson_Rose_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[477] = {BaseItem = "Up_Crimson_Rose", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Crimson_Rose_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[455] = {BaseItem = "Up_Humma_Clear", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Humma_Clear_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[465] = {BaseItem = "Up_Humma_Clear", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Humma_Clear_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[475] = {BaseItem = "Up_Humma_Clear", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Humma_Clear_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10045] = {BaseItem = "Eclipsedefmind_TW", 
+Material = {Acc_Stone_3 = 100, Mystic_Horn = 300, M_Dimension_Essence = 10, Ymir_Heart_P_TW = 2}
+, ResultItem = "Eclipsedefmind_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF0^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10046] = {BaseItem = "RabbitFamilyBalloon", 
+Material = {Armor_Stone_3 = 200, Feather = 777, Rainbow_Carrot = 50, Ymir_Heart_P_TW = 1}
+, ResultItem = "RabbitFamilyBalloon_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF0^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[51] = {BaseItem = "Adulter_F_T_Sword", 
+Material = {Conse_F_T_Sword = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_T_Sword", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[52] = {BaseItem = "Adulter_F_Lance", 
+Material = {Conse_F_Lance = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Lance", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[53] = {BaseItem = "Adulter_F_G_Sword", 
+Material = {Conse_F_G_Sword = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_G_Sword", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[54] = {BaseItem = "Adulter_F_G_Spear", 
+Material = {Conse_F_G_Spear = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_G_Spear", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[55] = {BaseItem = "Adulter_F_Axe", 
+Material = {Conse_F_Axe = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Axe", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[56] = {BaseItem = "Adulter_F_Mace", 
+Material = {Conse_F_Mace = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Mace", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[57] = {BaseItem = "Adulter_F_Lapier", 
+Material = {Conse_F_Lapier = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Lapier", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[58] = {BaseItem = "Adulter_F_Hall", 
+Material = {Conse_F_Hall = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Hall", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[59] = {BaseItem = "Adulter_F_Cakram", 
+Material = {Conse_F_Cakram = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Cakram", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[60] = {BaseItem = "Adulter_F_Katar", 
+Material = {Conse_F_Katar = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Katar", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[61] = {BaseItem = "Adulter_F_Dagger", 
+Material = {Conse_F_Dagger = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Dagger", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[62] = {BaseItem = "Adulter_F_C_Bow", 
+Material = {Conse_F_C_Bow = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_C_Bow", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[63] = {BaseItem = "Adulter_F_T_Staff", 
+Material = {Conse_F_T_Staff = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_T_Staff", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[64] = {BaseItem = "Adulter_F_Rod", 
+Material = {Conse_F_Rod = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Rod", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[65] = {BaseItem = "Adulter_F_M_Book", 
+Material = {Conse_F_M_Book = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_M_Book", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[66] = {BaseItem = "Adulter_F_P_Book", 
+Material = {Conse_F_P_Book = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_P_Book", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[67] = {BaseItem = "Adulter_F_Bible", 
+Material = {Conse_F_Bible = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Bible", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[68] = {BaseItem = "Adulter_F_Wand", 
+Material = {Conse_F_Wand = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Wand", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[69] = {BaseItem = "Adulter_F_Knuckle", 
+Material = {Conse_F_Knuckle = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Knuckle", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[70] = {BaseItem = "Adulter_F_Claw", 
+Material = {Conse_F_Claw = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Claw", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[71] = {BaseItem = "Adulter_F_Ballista", 
+Material = {Conse_F_Ballista = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Ballista", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[72] = {BaseItem = "Adulter_F_A_Bow", 
+Material = {Conse_F_A_Bow = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_A_Bow", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[73] = {BaseItem = "Adulter_F_Violin", 
+Material = {Conse_F_Violin = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Violin", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[74] = {BaseItem = "Adulter_F_C_Rope", 
+Material = {Conse_F_C_Rope = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_C_Rope", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[75] = {BaseItem = "Adulter_F_Harp", 
+Material = {Conse_F_Harp = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Harp", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[76] = {BaseItem = "Adulter_F_Ribbon", 
+Material = {Conse_F_Ribbon = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Ribbon", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[77] = {BaseItem = "Adulter_F_T_Sword", 
+Material = {Conse_F_T_Sword = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_T_Sword", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[78] = {BaseItem = "Adulter_F_Lance", 
+Material = {Conse_F_Lance = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Lance", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[79] = {BaseItem = "Adulter_F_G_Sword", 
+Material = {Conse_F_G_Sword = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_G_Sword", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[80] = {BaseItem = "Adulter_F_G_Spear", 
+Material = {Conse_F_G_Spear = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_G_Spear", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[81] = {BaseItem = "Adulter_F_Axe", 
+Material = {Conse_F_Axe = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Axe", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[82] = {BaseItem = "Adulter_F_Mace", 
+Material = {Conse_F_Mace = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Mace", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[83] = {BaseItem = "Adulter_F_Lapier", 
+Material = {Conse_F_Lapier = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Lapier", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[84] = {BaseItem = "Adulter_F_Hall", 
+Material = {Conse_F_Hall = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Hall", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[85] = {BaseItem = "Adulter_F_Cakram", 
+Material = {Conse_F_Cakram = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Cakram", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[86] = {BaseItem = "Adulter_F_Katar", 
+Material = {Conse_F_Katar = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Katar", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[87] = {BaseItem = "Adulter_F_Dagger", 
+Material = {Conse_F_Dagger = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Dagger", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[88] = {BaseItem = "Adulter_F_C_Bow", 
+Material = {Conse_F_C_Bow = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_C_Bow", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[89] = {BaseItem = "Adulter_F_T_Staff", 
+Material = {Conse_F_T_Staff = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_T_Staff", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[90] = {BaseItem = "Adulter_F_Rod", 
+Material = {Conse_F_Rod = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Rod", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[91] = {BaseItem = "Adulter_F_M_Book", 
+Material = {Conse_F_M_Book = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_M_Book", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[92] = {BaseItem = "Adulter_F_P_Book", 
+Material = {Conse_F_P_Book = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_P_Book", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[93] = {BaseItem = "Adulter_F_Bible", 
+Material = {Conse_F_Bible = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Bible", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[94] = {BaseItem = "Adulter_F_Wand", 
+Material = {Conse_F_Wand = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Wand", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[95] = {BaseItem = "Adulter_F_Knuckle", 
+Material = {Conse_F_Knuckle = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Knuckle", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[96] = {BaseItem = "Adulter_F_Claw", 
+Material = {Conse_F_Claw = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Claw", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[97] = {BaseItem = "Adulter_F_Ballista", 
+Material = {Conse_F_Ballista = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Ballista", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[98] = {BaseItem = "Adulter_F_A_Bow", 
+Material = {Conse_F_A_Bow = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_A_Bow", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[99] = {BaseItem = "Adulter_F_Violin", 
+Material = {Conse_F_Violin = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Violin", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[100] = {BaseItem = "Adulter_F_C_Rope", 
+Material = {Conse_F_C_Rope = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_C_Rope", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[101] = {BaseItem = "Adulter_F_Harp", 
+Material = {Conse_F_Harp = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Harp", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[102] = {BaseItem = "Adulter_F_Ribbon", 
+Material = {Conse_F_Ribbon = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Ribbon", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[370] = {BaseItem = "Adulter_F_Humma", 
+Material = {Conse_F_Humma = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Humma", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[371] = {BaseItem = "Adulter_F_C_Humma", 
+Material = {Conse_F_C_Humma = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_C_Humma", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[372] = {BaseItem = "Adulter_F_Revolver", 
+Material = {Conse_F_Revolver = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Revolver", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[373] = {BaseItem = "Adulter_F_Rifle", 
+Material = {Conse_F_Rifle = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Rifle", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[374] = {BaseItem = "Adulter_F_Gatling", 
+Material = {Conse_F_Gatling = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Gatling", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[375] = {BaseItem = "Adulter_F_Launcher", 
+Material = {Conse_F_Launcher = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Launcher", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[376] = {BaseItem = "Adulter_F_Moon_B", 
+Material = {Conse_F_Moon_B = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Moon_B", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[377] = {BaseItem = "Adulter_F_Star_B", 
+Material = {Conse_F_Star_B = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Star_B", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[378] = {BaseItem = "Adulter_F_S_Stick", 
+Material = {Conse_F_S_Stick = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_S_Stick", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[379] = {BaseItem = "Adulter_F_D_Wand", 
+Material = {Conse_F_D_Wand = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_D_Wand", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[380] = {BaseItem = "Adulter_F_F_Wand", 
+Material = {Conse_F_F_Wand = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_F_Wand", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[381] = {BaseItem = "Adulter_F_F_model", 
+Material = {Conse_F_F_model = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_F_model", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[394] = {BaseItem = "Adulter_F_Humma", 
+Material = {Conse_F_Humma = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Humma", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[395] = {BaseItem = "Adulter_F_C_Humma", 
+Material = {Conse_F_C_Humma = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_C_Humma", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[396] = {BaseItem = "Adulter_F_Revolver", 
+Material = {Conse_F_Revolver = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Revolver", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[397] = {BaseItem = "Adulter_F_Rifle", 
+Material = {Conse_F_Rifle = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Rifle", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[398] = {BaseItem = "Adulter_F_Gatling", 
+Material = {Conse_F_Gatling = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Gatling", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[399] = {BaseItem = "Adulter_F_Launcher", 
+Material = {Conse_F_Launcher = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Launcher", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[400] = {BaseItem = "Adulter_F_Moon_B", 
+Material = {Conse_F_Moon_B = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Moon_B", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[401] = {BaseItem = "Adulter_F_Star_B", 
+Material = {Conse_F_Star_B = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Star_B", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[402] = {BaseItem = "Adulter_F_S_Stick", 
+Material = {Conse_F_S_Stick = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_S_Stick", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[403] = {BaseItem = "Adulter_F_D_Wand", 
+Material = {Conse_F_D_Wand = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_D_Wand", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[404] = {BaseItem = "Adulter_F_F_Wand", 
+Material = {Conse_F_F_Wand = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_F_Wand", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[405] = {BaseItem = "Adulter_F_F_model", 
+Material = {Conse_F_F_model = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_F_model", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[430] = {BaseItem = "Adulter_F_Shotgun", 
+Material = {Conse_F_Shotgun = 10, Purificatory_Holy_O = 50, Purificatory_Holy_W = 50, Sanctuary_Sudarium = 50, Ep18_Amethyst_Fragment = 200}
+, ResultItem = "Vivatus_F_Shotgun", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[431] = {BaseItem = "Adulter_F_Shotgun", 
+Material = {Conse_F_Shotgun = 30, Purificatory_Holy_O = 200, Purificatory_Holy_W = 200, Sanctuary_Sudarium = 200, Ep18_Amethyst_Fragment = 400}
+, ResultItem = "Vivatus_F_Shotgun", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-1^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[10047] = {BaseItem = "2020maypay_06", 
+Material = {Acc_Stone_3 = 100, ["2023Seppay_08"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_01", NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF0^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10048] = {BaseItem = "2020maypay_01", 
+Material = {Armor_Stone_1 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_02", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10049] = {BaseItem = "2020maypay_01", 
+Material = {Armor_Stone_2 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_02", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10050] = {BaseItem = "2020maypay_02", 
+Material = {Armor_Stone_1 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_03", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10051] = {BaseItem = "2020maypay_02", 
+Material = {Armor_Stone_2 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_03", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10052] = {BaseItem = "2020maypay_03", 
+Material = {Armor_Stone_1 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_04", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10053] = {BaseItem = "2020maypay_03", 
+Material = {Armor_Stone_2 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_04", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10054] = {BaseItem = "2020maypay_04", 
+Material = {Armor_Stone_1 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_05", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10055] = {BaseItem = "2020maypay_04", 
+Material = {Armor_Stone_2 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_05", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10056] = {BaseItem = "2020maypay_05", 
+Material = {Armor_Stone_1 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_06", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10057] = {BaseItem = "2020maypay_05", 
+Material = {Armor_Stone_2 = 100, ["2023Seppay_07"] = 1, M_Dimension_Essence = 5}
+, ResultItem = "2023Seppay_06", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[437] = {BaseItem = "Up_Master_Soul_Rifle", 
+Material = {}
+, ResultItem = "Master_Soul_Rifle_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : 保留", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[461] = {BaseItem = "Up_Master_Soul_Rifle", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Master_Soul_Rifle_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[471] = {BaseItem = "Up_Master_Soul_Rifle", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Master_Soul_Rifle_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[481] = {BaseItem = "Up_Master_Soul_Rifle", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Master_Soul_Rifle_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[438] = {BaseItem = "Up_Demon_S_Shot", 
+Material = {}
+, ResultItem = "Demon_S_Shot_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : 保留", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[458] = {BaseItem = "Up_Demon_S_Shot", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Demon_S_Shot_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[468] = {BaseItem = "Up_Demon_S_Shot", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Demon_S_Shot_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[478] = {BaseItem = "Up_Demon_S_Shot", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Demon_S_Shot_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[440] = {BaseItem = "Up_Golden_L_Launcher", 
+Material = {}
+, ResultItem = "Golden_L_Launcher_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : 保留", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[460] = {BaseItem = "Up_Golden_L_Launcher", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Golden_L_Launcher_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[470] = {BaseItem = "Up_Golden_L_Launcher", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Golden_L_Launcher_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[480] = {BaseItem = "Up_Golden_L_Launcher", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Golden_L_Launcher_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[435] = {BaseItem = "Up_Fog_Dew_Sword", 
+Material = {}
+, ResultItem = "Fog_Dew_Sword_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : 保留", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[445] = {BaseItem = "Fog_Dew_Sword_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Fog_Dew_Sword_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[454] = {BaseItem = "Up_Fog_Dew_Sword", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Fog_Dew_Sword_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[464] = {BaseItem = "Up_Fog_Dew_Sword", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Fog_Dew_Sword_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[474] = {BaseItem = "Up_Fog_Dew_Sword", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Fog_Dew_Sword_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[444] = {BaseItem = "Humma_Clear_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Humma_Clear_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[445] = {BaseItem = "Fog_Dew_Sword_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Fog_Dew_Sword_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[446] = {BaseItem = "Crimson_Rose_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Crimson_Rose_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[447] = {BaseItem = "Master_Soul_Rifle_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Master_Soul_Rifle_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[448] = {BaseItem = "Demon_S_Shot_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Demon_S_Shot_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[449] = {BaseItem = "The_Black_Gatling_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "The_Black_Gatling_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[450] = {BaseItem = "Golden_L_Launcher_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Golden_L_Launcher_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[451] = {BaseItem = "MeawFoxtail_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "MeawFoxtail_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[452] = {BaseItem = "OneSkyOneSun_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "OneSkyOneSun_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[453] = {BaseItem = "SoulWeight_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "SoulWeight_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[704] = {BaseItem = "Freedom_Stick_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[705] = {BaseItem = "Blessed_Knife_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[706] = {BaseItem = "Up_Freedom_Stick", 
+Material = {}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[707] = {BaseItem = "Up_Blessed_Knife", 
+Material = {}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[708] = {BaseItem = "Up_Freedom_Stick", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[709] = {BaseItem = "Up_Blessed_Knife", 
+Material = {Weapon_Stone_1 = 100, Bio_Test_Fragment = 100, Bio_Reseearch_Docu = 50}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[710] = {BaseItem = "Up_Freedom_Stick", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[711] = {BaseItem = "Up_Blessed_Knife", 
+Material = {Weapon_Stone_2 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[712] = {BaseItem = "Up_Freedom_Stick", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Freedom_Stick_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[713] = {BaseItem = "Up_Blessed_Knife", 
+Material = {Weapon_Stone_3 = 100, Bio_Test_Fragment = 300, Bio_Reseearch_Docu = 150, M_Dimension_Essence = 1}
+, ResultItem = "Blessed_Knife_LT", NeedRefineMin = 9, NeedRefineMax = 19, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10058] = {BaseItem = "Magic_Circle_TW", 
+Material = {Armor_Stone_3 = 100, Meteorite_Fragment = 200, Betelgeuse_Soul = 30, MAgic_Star_Stone = 1}
+, ResultItem = "Magic_Circle_LT", NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF0^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10059] = {BaseItem = "Wine_Jewel_Brooch_TW", 
+Material = {Acc_Stone_3 = 100, Dark_Red_Jewel = 50, Cardinal_Jewel_ = 50, Crimson_M_Petal = 1}
+, ResultItem = "Wine_Jewel_Brooch_LT", NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF0^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10060] = {BaseItem = "Garnet_Pendant_TW", 
+Material = {Acc_Stone_3 = 100, Dark_Red_Jewel = 50, Cardinal_Jewel_ = 50, Crimson_M_Petal = 1}
+, ResultItem = "Garnet_Pendant_LT", NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^4D4DFF0^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[678] = {BaseItem = "Precision_Bow", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Bow", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[679] = {BaseItem = "Precision_Fist", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Fist", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[680] = {BaseItem = "Precision_Fuuma", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Fuuma", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[681] = {BaseItem = "Precision_Gatling", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Gatling", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[682] = {BaseItem = "Precision_Grenade", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Grenade", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[683] = {BaseItem = "Precision_Lute", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Lute", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[684] = {BaseItem = "Precision_Pistol", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Pistol", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[685] = {BaseItem = "Precision_Rifle", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Rifle", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[686] = {BaseItem = "Precision_Shotgun", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Shotgun", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[687] = {BaseItem = "Precision_Whip", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Precision_Whip", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[688] = {BaseItem = "Solid_Claymore", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Solid_Claymore", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[689] = {BaseItem = "Solid_Dagger", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Solid_Dagger", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[690] = {BaseItem = "Solid_Edge", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Solid_Edge", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[691] = {BaseItem = "Solid_Manual", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Solid_Manual", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[692] = {BaseItem = "Solid_Rod", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Solid_Rod", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[693] = {BaseItem = "Solid_Spear", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Solid_Spear", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[694] = {BaseItem = "Solid_Staff", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Solid_Staff", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[695] = {BaseItem = "Solid_Wand", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Solid_Wand", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[696] = {BaseItem = "Wicked_Axe", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Wicked_Axe", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[697] = {BaseItem = "Wicked_Blade", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Wicked_Blade", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[698] = {BaseItem = "Wicked_Book", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Wicked_Book", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[699] = {BaseItem = "Wicked_Cross", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Wicked_Cross", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[700] = {BaseItem = "Wicked_Dagger", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Wicked_Dagger", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[701] = {BaseItem = "Wicked_Edge", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Wicked_Edge", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[702] = {BaseItem = "Wicked_Katar", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Wicked_Katar", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[703] = {BaseItem = "Wicked_Plant", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Wicked_Plant", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10061] = {BaseItem = "Devil_Flame_Manteau_TW", 
+Material = {Armor_Stone_1 = 150, Zelunium = 1000, Scale_Of_Red_Dragon = 300, Sin_Fragment = 300, Ymir_Heart_P_TW = 3}
+, ResultItem = "Devil_Flame_Manteau_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10062] = {BaseItem = "Devil_Flame_Manteau_TW", 
+Material = {Armor_Stone_2 = 150, Zelunium = 1000, Scale_Of_Red_Dragon = 300, Sin_Fragment = 300, Ymir_Heart_P_TW = 3}
+, ResultItem = "Devil_Flame_Manteau_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"改造資訊說明", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[591] = {BaseItem = "Beam_Claymore_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Beam_Claymore_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[592] = {BaseItem = "Meuchler_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Meuchler_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[593] = {BaseItem = "Blasti_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Blasti_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[594] = {BaseItem = "Virtual_Bow_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Virtual_Bow_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[595] = {BaseItem = "MH_P89_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "MH_P89_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[596] = {BaseItem = "AC_B44_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "AC_B44_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[597] = {BaseItem = "HR_S55_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "HR_S55_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[598] = {BaseItem = "Burning_Knuckle_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Burning_Knuckle_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[599] = {BaseItem = "Cannon_Rapier_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Cannon_Rapier_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[600] = {BaseItem = "Saphir_Hall_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Saphir_Hall_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[601] = {BaseItem = "Ultio_Spes_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Ultio_Spes_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[602] = {BaseItem = "Rutilus_Stick_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Rutilus_Stick_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[603] = {BaseItem = "ElectricFox_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "ElectricFox_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[604] = {BaseItem = "Circuit_Board_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Circuit_Board_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[605] = {BaseItem = "Kuroiro_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Kuroiro_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[606] = {BaseItem = "Boost_Lance_OS", 
+Material = {Weapon_Stone_1 = 70, EP17_1_EVT02 = 200, EP17_1_EVT39 = 40}
+, ResultItem = "Boost_Lance_AD", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = 0, RandomOptionCode = "G0", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 保留", "2) 附加能力：不保留", "3) 卡片資訊：轉移"}
+}
+, 
+[607] = {BaseItem = "Sagittarius_DiademK_LT", 
+Material = {Shadowdecon = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Sagittarius_DiademK_LT", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移"}
+}
+, 
+[608] = {BaseItem = "Scorpio_Diadem_K_LT", 
+Material = {Shadowdecon = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Scorpio_Diadem_K_LT", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移"}
+}
+, 
+[609] = {BaseItem = "Large_Sorcerer_Crown_LT", 
+Material = {Shadowdecon = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Large_Sorcerer_Crown_LT", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移"}
+}
+, 
+[610] = {BaseItem = "Stripe_Hat_LT", 
+Material = {Shadowdecon = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Stripe_Hat_LT", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移"}
+}
+, 
+[611] = {BaseItem = "Phantom_Cap_LT", 
+Material = {Shadowdecon = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Phantom_Cap_LT", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移"}
+}
+, 
+[612] = {BaseItem = "Ignis_CapK_LT", 
+Material = {Shadowdecon = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Ignis_CapK_LT", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移"}
+}
+, 
+[613] = {BaseItem = "Clock_Casket_RD_LT", 
+Material = {Shadowdecon = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Clock_Casket_RD_LT", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移"}
+}
+, 
+[614] = {BaseItem = "Beam_Claymore_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Beam_Claymore_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[615] = {BaseItem = "Meuchler_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Meuchler_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[616] = {BaseItem = "Blasti_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Blasti_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[617] = {BaseItem = "Virtual_Bow_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Virtual_Bow_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[618] = {BaseItem = "MH_P89_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "MH_P89_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[619] = {BaseItem = "AC_B44_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "AC_B44_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[620] = {BaseItem = "HR_S55_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "HR_S55_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[621] = {BaseItem = "Burning_Knuckle_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Burning_Knuckle_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[622] = {BaseItem = "Cannon_Rapier_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Cannon_Rapier_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[623] = {BaseItem = "Saphir_Hall_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Saphir_Hall_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[624] = {BaseItem = "Ultio_Spes_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Ultio_Spes_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[625] = {BaseItem = "Rutilus_Stick_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Rutilus_Stick_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[626] = {BaseItem = "ElectricFox_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "ElectricFox_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[627] = {BaseItem = "Circuit_Board_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Circuit_Board_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[628] = {BaseItem = "Kuroiro_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Kuroiro_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[629] = {BaseItem = "Boost_Lance_AD", 
+Material = {Zelunium = 30, EP17_1_EVT39 = 30}
+, ResultItem = "Boost_Lance_AD", NeedRefineMin = 0, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留"}
+}
+, 
+[630] = {BaseItem = "Sagittarius_DiademK", 
+Material = {Armor_Stone_1 = 100, EP17_1_EVT02 = 100, EP17_1_EVT39 = 20}
+, ResultItem = "Sagittarius_DiademK_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[631] = {BaseItem = "Scorpio_Diadem_K", 
+Material = {Armor_Stone_1 = 100, EP17_1_EVT02 = 100, EP17_1_EVT39 = 20}
+, ResultItem = "Scorpio_Diadem_K_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[632] = {BaseItem = "Large_Sorcerer_Crown", 
+Material = {Armor_Stone_1 = 100, EP17_1_EVT02 = 100, EP17_1_EVT39 = 20}
+, ResultItem = "Large_Sorcerer_Crown_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[633] = {BaseItem = "Stripe_Hat", 
+Material = {Armor_Stone_1 = 100, EP17_1_EVT02 = 100, EP17_1_EVT39 = 20}
+, ResultItem = "Stripe_Hat_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[634] = {BaseItem = "Phantom_Cap", 
+Material = {Armor_Stone_1 = 100, EP17_1_EVT02 = 100, EP17_1_EVT39 = 20}
+, ResultItem = "Phantom_Cap_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[635] = {BaseItem = "Ignis_CapK", 
+Material = {Armor_Stone_1 = 100, EP17_1_EVT02 = 100, EP17_1_EVT39 = 20}
+, ResultItem = "Ignis_CapK_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[636] = {BaseItem = "Clock_Casket_RD", 
+Material = {Armor_Stone_1 = 100, EP17_1_EVT02 = 100, EP17_1_EVT39 = 20}
+, ResultItem = "Clock_Casket_RD_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[637] = {BaseItem = "Sagittarius_DiademK", 
+Material = {Armor_Stone_2 = 100, EP17_1_EVT02 = 300, EP17_1_EVT39 = 60}
+, ResultItem = "Sagittarius_DiademK_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[638] = {BaseItem = "Scorpio_Diadem_K", 
+Material = {Armor_Stone_2 = 100, EP17_1_EVT02 = 300, EP17_1_EVT39 = 60}
+, ResultItem = "Scorpio_Diadem_K_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[639] = {BaseItem = "Large_Sorcerer_Crown", 
+Material = {Armor_Stone_2 = 100, EP17_1_EVT02 = 300, EP17_1_EVT39 = 60}
+, ResultItem = "Large_Sorcerer_Crown_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[640] = {BaseItem = "Stripe_Hat", 
+Material = {Armor_Stone_2 = 100, EP17_1_EVT02 = 300, EP17_1_EVT39 = 60}
+, ResultItem = "Stripe_Hat_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[641] = {BaseItem = "Phantom_Cap", 
+Material = {Armor_Stone_2 = 100, EP17_1_EVT02 = 300, EP17_1_EVT39 = 60}
+, ResultItem = "Phantom_Cap_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[642] = {BaseItem = "Ignis_CapK", 
+Material = {Armor_Stone_2 = 100, EP17_1_EVT02 = 300, EP17_1_EVT39 = 60}
+, ResultItem = "Ignis_CapK_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[643] = {BaseItem = "Clock_Casket_RD", 
+Material = {Armor_Stone_2 = 100, EP17_1_EVT02 = 300, EP17_1_EVT39 = 60}
+, ResultItem = "Clock_Casket_RD_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[766] = {BaseItem = "Barmund_Flame_Armor", 
+Material = {Armor_Stone_4 = 100, Flame_Barmund_Rune2 = 20, Barmund_Flame_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Flame_Rune_Armor", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[767] = {BaseItem = "Barmund_Flame_Boots", 
+Material = {Armor_Stone_4 = 100, Flame_Barmund_Rune2 = 20, Barmund_Flame_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Flame_Rune_Boots", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[768] = {BaseItem = "Barmund_Flame_Hood", 
+Material = {Armor_Stone_4 = 100, Flame_Barmund_Rune2 = 20, Barmund_Flame_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Flame_Rune_Hood", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[769] = {BaseItem = "Barmund_Plain_Armor", 
+Material = {Armor_Stone_4 = 100, Plain_Barmund_Rune2 = 20, Barmund_Plain_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Plain_Rune_Armor", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[770] = {BaseItem = "Barmund_Plain_Boots", 
+Material = {Armor_Stone_4 = 100, Plain_Barmund_Rune2 = 20, Barmund_Plain_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Plain_Rune_Boots", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[771] = {BaseItem = "Barmund_Plain_Hood", 
+Material = {Armor_Stone_4 = 100, Plain_Barmund_Rune2 = 20, Barmund_Plain_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Plain_Rune_Hood", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[772] = {BaseItem = "Barmund_Ice_Armor", 
+Material = {Armor_Stone_4 = 100, Ice_Barmund_Rune2 = 20, Barmund_Ice_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Ice_Rune_Armor", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[773] = {BaseItem = "Barmund_Ice_Boots", 
+Material = {Armor_Stone_4 = 100, Ice_Barmund_Rune2 = 20, Barmund_Ice_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Ice_Rune_Boots", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[774] = {BaseItem = "Barmund_Ice_Hood", 
+Material = {Armor_Stone_4 = 100, Ice_Barmund_Rune2 = 20, Barmund_Ice_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Ice_Rune_Hood", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[775] = {BaseItem = "Barmund_Death_Armor", 
+Material = {Armor_Stone_4 = 100, Death_Barmund_Rune2 = 20, Barmund_Death_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Death_Rune_Armor", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[776] = {BaseItem = "Barmund_Death_Boots", 
+Material = {Armor_Stone_4 = 100, Death_Barmund_Rune2 = 20, Barmund_Death_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Death_Rune_Boots", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[777] = {BaseItem = "Barmund_Death_Hood", 
+Material = {Armor_Stone_4 = 100, Death_Barmund_Rune2 = 20, Barmund_Death_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Death_Rune_Hood", NeedRefineMin = 7, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : 轉移", "2) 附加能力 : 轉移", "3) 卡片及附魔 : 轉移", "4) 評價階級 : 轉移"}
+}
+, 
+[784] = {BaseItem = "Barmund_Soul_Ring", 
+Material = {Acc_Stone_4 = 100, Soul_Barmund_Rune2 = 20, Barmund_Soul_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Soul_Rune_Ring", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>合成結果情報指南</B>", "卡片和附魔詳情：已移動"}
+}
+, 
+[785] = {BaseItem = "Barmund_Venom_Ring", 
+Material = {Acc_Stone_4 = 100, Venom_Barmund_Rune2 = 20, Barmund_Venom_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Venom_Rune_Ring", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>合成結果情報指南</B>", "卡片和附魔詳情：已移動"}
+}
+, 
+[786] = {BaseItem = "Barmund_Temple_Ring", 
+Material = {Acc_Stone_4 = 100, Temple_Barmund_Rune2 = 20, Barmund_Temple_Essence = 50, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Temple_Rune_Ring", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>合成結果情報指南</B>", "卡片和附魔詳情：已移動"}
+}
+, 
+[787] = {BaseItem = "Barmund_Soul_Ring", 
+Material = {Acc_Stone_4 = 100, Soul_Barmund_Rune2 = 5, Barmund_Water = 10, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Soul_M_Ring", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>合成結果情報指南</B>", "卡片和附魔詳情：已移動"}
+}
+, 
+[788] = {BaseItem = "Barmund_Venom_Ring", 
+Material = {Acc_Stone_4 = 100, Venom_Barmund_Rune2 = 5, Barmund_Water3 = 10, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Venom_M_Ring", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>合成結果情報指南</B>", "卡片和附魔詳情：已移動"}
+}
+, 
+[789] = {BaseItem = "Barmund_Temple_Ring", 
+Material = {Acc_Stone_4 = 100, Temple_Barmund_Rune2 = 5, Barmund_Water2 = 10, Zelunium = 300, BarMealTicket = 500}
+, ResultItem = "Temple_M_Ring", NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>合成結果情報指南</B>", "卡片和附魔詳情：已移動"}
+}
+, 
+[10063] = {BaseItem = "Fake_Alloy_Pot", 
+Material = {C_Flowerpot_Mask = 1, Pot_Stone = 200, Armor_Stone_3 = 100, Ymir_Heart_TW = 1}
+, ResultItem = "Fake_Alloy_Pot_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
 }
 ReformItemList = {
 Thanos_W_Reform_1 = {12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24}
 , 
 Thanos_W_Reform_2 = {25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37}
 , 
-C_Armor_Reform_1 = {103, 105, 107, 109, 173, 174, 175, 176, 177, 178, 285, 10001, 10003, 10005, 10007, 10009, 10011, 10013, 10015, 10017, 10019, 10021, 10023, 10025, 10027, 10029, 10031, 10033}
+C_Armor_Reform_1 = {103, 105, 107, 109, 173, 174, 175, 176, 177, 178, 285, 630, 631, 632, 633, 634, 635, 636, 10001, 10003, 10005, 10007, 10009, 10011, 10013, 10015, 10017, 10019, 10021, 10023, 10025, 10027, 10029, 10031, 10033, 10035, 499, 500, 10048, 10050, 10052, 10054, 10056, 10061}
 , 
-C_Armor_Reform_2 = {104, 106, 108, 110, 179, 180, 181, 182, 183, 184, 286, 10002, 10004, 10006, 10008, 10010, 10012, 10014, 10016, 10018, 10020, 10022, 10024, 10026, 10028, 10030, 10032, 10034}
+C_Armor_Reform_2 = {104, 106, 108, 110, 179, 180, 181, 182, 183, 184, 286, 637, 638, 639, 640, 641, 642, 643, 10002, 10004, 10006, 10008, 10010, 10012, 10014, 10016, 10018, 10020, 10022, 10024, 10026, 10028, 10030, 10032, 10034, 10036, 501, 502, 10049, 10051, 10053, 10055, 10057, 10062}
 , 
-C_Armor_Reform_3 = {185}
+C_Armor_Reform_3 = {185, 10037, 10038, 10045, 10046, 10047, 10058, 10059, 10060, 10063}
 , 
-C_Weapon_Reform_1 = {113, 114, 115, 116, 111, 112, 186, 187, 188, 189, 190, 191, 257, 258, 259, 260, 270, 271, 272, 273, 274, 298, 299, 300, 301}
+C_Weapon_Reform_1 = {113, 114, 115, 116, 111, 112, 186, 187, 188, 189, 190, 191, 257, 258, 259, 260, 270, 271, 272, 273, 274, 298, 299, 300, 301, 459, 462, 463, 455, 456, 457, 461, 458, 460, 454, 708, 709}
 , 
-C_Weapon_Reform_2 = {119, 120, 121, 122, 117, 118, 192, 193, 194, 195, 196, 197, 261, 262, 263, 264, 275, 276, 277, 278, 279, 302, 303, 304, 305}
+C_Weapon_Reform_2 = {119, 120, 121, 122, 117, 118, 192, 193, 194, 195, 196, 197, 261, 262, 263, 264, 275, 276, 277, 278, 279, 302, 303, 304, 305, 469, 472, 473, 465, 466, 467, 471, 468, 470, 464, 710, 711}
 , 
-C_Weapon_Reform_3 = {125, 126, 127, 128, 123, 124, 198, 199, 200, 201, 202, 203, 265, 266, 267, 268, 280, 281, 282, 283, 284, 306, 307, 308, 309}
+C_Weapon_Reform_3 = {125, 126, 127, 128, 123, 124, 198, 199, 200, 201, 202, 203, 265, 266, 267, 268, 280, 281, 282, 283, 284, 306, 307, 308, 309, 479, 482, 483, 475, 476, 477, 481, 478, 480, 474, 712, 713}
 , 
 Hero_Weapon_Up_Box_1 = {225, 226, 228, 223, 224, 227}
 , 
@@ -1993,15 +3571,17 @@ Hero_Weapon_Up_Box_4 = {287, 288, 289, 290, 291}
 , 
 Hero_Weapon_Up_Box_5 = {310, 311, 312, 313}
 , 
+Hero_Weapon_Up_Box_6 = {435, 437, 438, 440, 706, 707}
+, 
 Shadow_Changer_W_Shi = {171, 172}
 , 
 Thanos_Refine_Hammer = {38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 165, 166, 167, 168, 169, 170, 204, 205}
 , 
 Special_Hat_Hammer = {494, 495, 496, 497, 498}
 , 
-Consecrate_Weapon_1 = {51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76}
+Consecrate_Weapon_1 = {51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 430}
 , 
-Consecrate_Weapon_2 = {77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102}
+Consecrate_Weapon_2 = {77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 431}
 , 
 Hero_Weapon_Hammer_1 = {235, 236, 237, 238, 239, 240}
 , 
@@ -2013,8 +3593,40 @@ Hero_Weapon_Hammer_4 = {292, 293, 294, 295, 296}
 , 
 Hero_Weapon_Hammer_5 = {314, 315, 316, 317}
 , 
+Hero_Weapon_Hammer_6 = {444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 704, 705}
+, 
 Shadow_Changer_A_W = {269, 297}
 , 
 Hero_Up_Cube_11 = {918, 919, 920, 921, 922, 923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955}
+, 
+Temporal_Up_Box = {10039, 10040, 10041, 10042, 10043, 10044}
+, 
+OS_Weapon_Hammer = {614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629}
+, 
+Clock_Tower_W_Hammer = {678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703}
+, 
+OS_Weapon_Reform = {591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606}
+, 
+OS_Helm_Hammer = {607, 608, 609, 610, 611, 612, 613}
+, 
+Barmund_Flame_Reform = {766, 767, 768}
+, 
+Barmund_Plain_Reform = {769, 770, 771}
+, 
+Barmund_Ice_Reform = {772, 773, 774}
+, 
+Barmund_Death_Reform = {775, 776, 777}
+, 
+Barmund_Soul_Reform = {784}
+, 
+Barmund_Venom_Reform = {785}
+, 
+Barmund_Temple_Reform = {786}
+, 
+Barmund_S_Reform = {787}
+, 
+Barmund_V_Reform = {788}
+, 
+Barmund_T_Reform = {789}
 }
 

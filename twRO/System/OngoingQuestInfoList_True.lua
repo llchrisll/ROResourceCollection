@@ -3542,23 +3542,23 @@ Description = {"聽說初學者世界裡的傳說人物不久前到克魔島辦事，根據亞瑟雷的說法，
 , Summary = "變強的方法應該就在克魔島洞穴某處吧?"}
 , 
 [5093] = {Title = "突破初學者的極限", 
-Description = {"你想變想嗎?想的話就稍後再來找我!"}
+Description = {"你想變強嗎?想的話就稍後再來找我!"}
 , Summary = "與史努比對話。"}
 , 
 [5094] = {Title = "突破初學者的極限", 
-Description = {"哇哈哈~你想變想嗎?那就先讓我看看你是否有變強的資格!!"}
+Description = {"哇哈哈~你想變強嗎?那就先讓我看看你是否有變強的資格!!"}
 , Summary = "去抓波利1000隻回來!!"}
 , 
 [5095] = {Title = "突破初學者的極限", 
-Description = {"哇哈哈~你想變想嗎?那就先讓我看看你是否有變強的資格!!"}
+Description = {"哇哈哈~你想變強嗎?那就先讓我看看你是否有變強的資格!!"}
 , Summary = "去抓瘋兔1000隻回來!!"}
 , 
 [5096] = {Title = "突破初學者的極限", 
-Description = {"哇哈哈~你想變想嗎?那就先讓我看看你是否有變強的資格!!"}
+Description = {"哇哈哈~你想變強嗎?那就先讓我看看你是否有變強的資格!!"}
 , Summary = "去抓綠棉蟲1000隻回來!!"}
 , 
 [5097] = {Title = "突破初學者的極限", 
-Description = {"哇哈哈~你想變想嗎?那就先讓我看看你是否有變強的資格!!"}
+Description = {"哇哈哈~你想變強嗎?那就先讓我看看你是否有變強的資格!!"}
 , Summary = "去抓小雞1000隻回來!!"}
 , 
 [5098] = {Title = "突破初學者的極限", 
@@ -26936,7 +26936,7 @@ Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學
 , Summary = ""}
 , 
 [19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[7月的晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>"}
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[11月的晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>"}
 , Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
@@ -30236,7 +30236,7 @@ Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學
 , Summary = ""}
 , 
 [19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[7月的晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>"}
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[11月的晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>"}
 , Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
@@ -30834,5 +30834,1417 @@ Description = {"在<NAVI>[犀利的營火]<INFO>comodo,299,176,0,101,0</INFO></NAVI> 9
 [16772] = {Title = "爆米花嘉年華，熱情如火!", IconName = "ico_ev.bmp", 
 Description = {"為了獲得漂亮的爆米花嘉年華服飾，需要將20個<ITEM>[炙熱彈珠]<INFO>25341</INFO></ITEM>交給<NAVI>[小鳳]<INFO>comodo.gat,204,143,0,101,0</INFO></NAVI>。"}
 , Summary = "炙熱彈珠20個"}
+, 
+[16586] = {Title = "傳教士之路", IconName = "ico_nq.bmp", 
+Description = {"身負將奧丁口諭傳遍整個大陸的重責，完成任務後，向<NAVI>[傳教士羅潔塔]<INFO>prontera,226,329,0,101,0</INFO></NAVI>回報。"}
+, Summary = "完成任務後與羅潔塔對話"}
+, 
+[16587] = {Title = "汶巴拉傳教士", IconName = "ico_nq.bmp", 
+Description = {"前來汶巴拉傳達奧丁口諭的<NAVI>[泰特]<INFO>umbala,127,140,0,101,0</INFO></NAVI>似乎遇到了些困難，去聽聽他說什麼吧。"}
+, Summary = "完成任務後與泰特對話"}
+, 
+[16588] = {Title = "艾音布羅克傳教士", IconName = "ico_nq.bmp", 
+Description = {"前來艾音布羅克傳達奧丁口諭的<NAVI>[蘇安]<INFO>einbroch,178,148,0,101,0</INFO></NAVI>似乎遇到了些困難，去聽聽他說什麼吧。"}
+, Summary = "完成任務後與蘇安對話"}
+, 
+[16589] = {Title = "亡者宴會，引誘活人", IconName = "ico_nq.bmp", 
+Description = {"前往亡者宴會，找到被引誘進入宴會場所的<NAVI>[約翰]<INFO>nif_dun01,101,246,0,101,0</INFO></NAVI>，並將他帶出來。"}
+, Summary = "與約翰對話"}
+, 
+[16590] = {Title = "亡者宴會，引誘活人", IconName = "ico_nq.bmp", 
+Description = {"前往亡者宴會，找到被引誘進入宴會場所的<NAVI>[瑪麗亞]<INFO>nif_dun01,213,148,0,101,0</INFO></NAVI>，並將他帶出來。"}
+, Summary = "與瑪麗亞對話"}
+, 
+[16591] = {Title = "亡者宴會，引誘活人", IconName = "ico_nq.bmp", 
+Description = {"前往亡者宴會，找到被引誘進入宴會廳的<NAVI>[布魯]<INFO>nif_dun01,160,183,0,101,0</INFO></NAVI>，並將他帶出來。"}
+, Summary = "與布魯對話"}
+, 
+[16592] = {Title = "亡者宴會，慶典之夜結束後", IconName = "ico_nq.bmp", 
+Description = {"為了不讓更多人被引誘進入亡者宴會，趕走<NAVI>[亡者宴會廳]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI>中的100個亡者吧!", "^FF0000擊殺指定地圖只限原分流^000000"}
+, Summary = ""}
+, 
+[16593] = {Title = "淘氣鬼躲貓貓，大人們煩憂不已", IconName = "ico_nq.bmp", 
+Description = {"前往艾音貝赫 礦山3樓，找到躲在裡面的淘氣鬼<NAVI>[拉斯]<INFO>ein_dun03,148,221,0,101,0</INFO></NAVI>，將他送回家。"}
+, Summary = "與拉斯對話"}
+, 
+[16594] = {Title = "淘氣鬼躲貓貓，大人們煩憂不已", IconName = "ico_nq.bmp", 
+Description = {"前往艾音貝赫 礦山3樓，找到躲在裡面的淘氣鬼<NAVI>[米納斯]<INFO>ein_dun03,38,152,0,101,0</INFO></NAVI>，將他送回家。"}
+, Summary = "與米納斯對話"}
+, 
+[16595] = {Title = "淘氣鬼躲貓貓，大人們煩憂不已", IconName = "ico_nq.bmp", 
+Description = {"前往艾音貝赫 礦山3樓，找到躲在裡面的淘氣鬼<NAVI>[提里斯]<INFO>ein_dun03,234,20,0,101,0</INFO></NAVI>，將他送回家。"}
+, Summary = "與提里斯對話"}
+, 
+[16596] = {Title = "淘氣鬼們的躲貓貓，比手畫腳來找到他們", IconName = "ico_nq.bmp", 
+Description = {"為了保護躲在[<NAVI>[艾音貝赫 礦山3樓]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>的淘氣鬼們，在艾音貝赫 礦山3樓擊殺100隻怪物。"}
+, Summary = ""}
+, 
+[16597] = {Title = "重返普隆德拉大教堂", IconName = "ico_nq.bmp", 
+Description = {"已完成在汶巴拉的任務，回到普隆德拉，向<NAVI>[傳教士羅潔塔]<INFO>prontera,226,329,0,101,0</INFO></NAVI>回報。"}
+, Summary = "與羅潔塔對話"}
+, 
+[16598] = {Title = "重返普隆德拉大教堂", IconName = "ico_nq.bmp", 
+Description = {"已完成在艾音布羅克的任務，回到普隆德拉，向<NAVI>[傳教士羅潔塔]<INFO>prontera,226,329,0,101,0</INFO></NAVI>回報。"}
+, Summary = "與羅潔塔對話"}
+, 
+[16599] = {Title = "完成任務後平安歸來", IconName = "ico_nq.bmp", 
+Description = {"成功救出受魅惑的三人，在亡者宴會廳驅散100個亡者後，向<NAVI>[泰特]<INFO>umbala,127,140,0,101,0</INFO></NAVI>回報。"}
+, Summary = "與泰特對話"}
+, 
+[16600] = {Title = "完成任務後平安歸來", IconName = "ico_nq.bmp", 
+Description = {"成功找到並救出躲在艾音貝赫 礦山3樓的孩子們，在艾音貝赫 礦山3樓擊殺100隻怪物後，向<NAVI>[蘇安]<INFO>einbroch,178,148,0,101,0</INFO></NAVI>回報。"}
+, Summary = "與蘇安對話"}
+, 
+[17307] = {Title = "人魚妖怪巢穴的守門將", IconName = "ico_ev.bmp", 
+Description = {"去找<NAVI>[慶典主席]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>並前往人魚妖怪巢穴冒險吧!"}
+, Summary = "找慶典主席"}
+, 
+[17308] = {Title = "慶典開始", IconName = "ico_ev.bmp", 
+Description = {"為了製作美味湯麵，請準備好家常細麵條，蝴蝶麵條，古溜古溜麵條和菊芋各一個。- <NAVI>[慶典主席]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"}
+, Summary = "菊芋，湯麵材料"}
+, 
+[17309] = {Title = "湯麵捲", IconName = "ico_ev.bmp", 
+Description = {"來到湯麵節，當然要品嚐美味的湯麵，去找<NAVI>[湯麵達人 奧勒初]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>的話，將品嚐到最棒的麵條。"}
+, Summary = "湯麵達人 奧勒初"}
+, 
+[17310] = {Title = "西瓜甜點", IconName = "ico_ev.bmp", 
+Description = {"炎熱的夏天就會讓人想到清涼的甜品吧！去找<NAVI>[工作人員 小菇]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>將會提供西瓜布丁的活動指南。"}
+, Summary = "工作人員 小菇"}
+, 
+[17311] = {Title = "擊殺不良麵條", IconName = "ico_ev.bmp", 
+Description = {"聽過不良麵條嗎?去找<NAVI>[工作人員 小山]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>，了解一下擊殺不良麵條的相關事宜。"}
+, Summary = "工作人員 小山"}
+, 
+[17314] = {Title = "等待:今日湯麵", IconName = "ico_ev.bmp", 
+Description = {"今天的活動正在準備中，請等到清晨四點後，再去找<NAVI>[湯麵達人 奧勒初]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17315] = {Title = "西瓜香扇", IconName = "ico_ev.bmp", 
+Description = {"快去西瓜田裡找出成熟的西瓜，然後再找到廣告涼扇！收集10個帶到<NAVI>[工作人員 小菇]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>那裡。"}
+, Summary = "廣告涼扇10個"}
+, 
+[17316] = {Title = "等待:西瓜香扇", IconName = "ico_ev.bmp", 
+Description = {"今天的活動已經結束了，請於凌晨過後，再前往找<NAVI>[工作人員 小菇]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>參與活動吧。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17317] = {Title = "擊殺不良麵條", IconName = "ico_ev.bmp", 
+Description = {"[抓住10個不良麵條，並帶著10個堅韌麵皮回來找<NAVI>[我]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>。"}
+, Summary = "堅韌麵皮10個"}
+, 
+[17318] = {Title = "等待:擊殺不良麵條", IconName = "ico_ev.bmp", 
+Description = {"為了抓強悍的不良麵條，你應該消耗了許多力氣吧，今天就先休息，凌晨後再來參加節慶吧！ - <NAVI>[工作人員 小山]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17328] = {Title = "闖關卡:湯麵活動完成", IconName = "ico_ev.bmp", 
+Description = {"今天的湯麵如何呀？完成所有4個關卡後，去找<NAVI>[闖關卡蓋章員]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>蓋印章吧！"}
+, Summary = "湯麵達人 奧勒初確認"}
+, 
+[17329] = {Title = "闖關卡:西瓜甜點完成", IconName = "ico_ev.bmp", 
+Description = {"完成切西瓜的關卡！完成所有4個關卡後，去找<NAVI>[闖關卡蓋章員]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>蓋印章吧！"}
+, Summary = "工作人員 小菇確認"}
+, 
+[17330] = {Title = "闖關卡:不良麵條完成", IconName = "ico_ev.bmp", 
+Description = {"逮到所有不良麵條了！完成所有4個關卡後，去找<NAVI>[闖關卡蓋章員]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>蓋印章吧！"}
+, Summary = "工作人員 小山確認"}
+, 
+[17332] = {Title = "闖關卡:帽子交換", IconName = "ico_ev.bmp", 
+Description = {"帽子給你~盡情享受節慶吧！"}
+, Summary = "帽子交換確認"}
+, 
+[17555] = {Title = "湯麵材料", IconName = "ico_ev.bmp", 
+Description = {"請帶給<NAVI>[我]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>，小漩渦裡的家常細麵條5個和蠕動海星上的蝴蝶麵條5個，搖搖蠕蟲上的古溜古溜麵條5個，菊芋1個。"}
+, Summary = "菊芋，湯麵材料"}
+, 
+[17556] = {Title = "闖關卡:代號完成", IconName = "ico_ev.bmp", 
+Description = {"幫助了小鴨玩偶！完成所有4個關卡後，去找<NAVI>[闖關卡蓋章員]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>蓋印章吧！"}
+, Summary = "小鴨玩偶撲通確認"}
+, 
+[17725] = {Title = "出現了！什麼？！", IconName = "ico_ev.bmp", 
+Description = {"快去找羅札納的<NAVI>[巡守隊]<INFO>lasagna,111,214,0,101,0,</INFO></NAVI>尋求幫助！"}
+, Summary = "前往巡守隊"}
+, 
+[17726] = {Title = "出現了！什麼？！", IconName = "ico_ev.bmp", 
+Description = {"去<NAVI>[人魚妖怪巢穴]<INFO>lasa_sea,28,142,0,101,0,</INFO></NAVI>，接下尋找失蹤人員的委託。"}
+, Summary = "人魚妖怪巢穴的失蹤人員"}
+, 
+[17727] = {Title = "出現了！什麼？！", IconName = "ico_ev.bmp", 
+Description = {"人魚妖怪巢穴裡面出現了<NAVI>[奇怪的東西]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>！一起去確認看看吧！"}
+, Summary = "前往人魚妖怪巢穴內"}
+, 
+[17728] = {Title = "出現了！什麼？！", IconName = "ico_ev.bmp", 
+Description = {"請幫<NAVI>[我]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>找可以替代頭髮的家常細麵條10個。"}
+, Summary = "家常細麵條 10個"}
+, 
+[17729] = {Title = "出現了！什麼？！", IconName = "ico_ev.bmp", 
+Description = {"帶著克爾回去找還在等待的<NAVI>[羅札納]<INFO>lasagna,111,214,0,101,0,</INFO></NAVI>。"}
+, Summary = "平安歸來"}
+, 
+[17730] = {Title = "釣魚準備用品", IconName = "ico_ev.bmp", 
+Description = {"羅札納的<NAVI>[湯麵節]<INFO>lasagna,111,214,0,101,0,</INFO></NAVI>中，提供10個家常細麵條，製作紀念帽子。"}
+, Summary = "家常細麵條 10"}
+, 
+[17731] = {Title = "等待:準備釣魚用品", IconName = "ico_ev.bmp", 
+Description = {"辛苦了！請於凌晨四點過後，再重新回來<NAVI>[羅札納]<INFO>lasagna,111,214,0,101,0,</INFO></NAVI>並提供幫助。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17732] = {Title = "出現了！什麼？！完成", IconName = "ico_ev.bmp", 
+Description = {"出現了！什麼？！完成"}
+}
+, 
+[17733] = {Title = "與觀眾互動", IconName = "ico_ev.bmp", 
+Description = {"今年的湯麵節又吸引了許多觀眾前來參與，與其他<NAVI>[觀眾]<INFO>lasagna,196,137,0,101,0,</INFO></NAVI>交流對話，增進彼此的了解吧！"}
+, Summary = "與觀眾交流"}
+, 
+[19066] = {Title = "調查官晁白溪的隱情", IconName = "ico_ev.bmp", 
+Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
+, Summary = ""}
+, 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[11月的晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19069] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19070] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19071] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19072] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19073] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19074] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19075] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19076] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19077] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19078] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19079] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19080] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19081] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19082] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19083] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19084] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19085] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19086] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19087] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19088] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19089] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19090] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19091] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19092] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19093] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19094] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19095] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19096] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19097] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19098] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19099] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19100] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19101] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19102] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19103] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19104] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19105] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19106] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19107] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19108] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19109] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19110] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19111] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19112] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19113] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19114] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19115] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[293392] = {Title = "ROx好想兔", IconName = "ico_ev.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[293393] = {Title = "好想兔的委託 - 等待", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次承接執行。"}
+, Summary = "凌晨4點重置", CoolTimeQuest = 1}
+, 
+[293394] = {Title = "好想兔的委託", IconName = "ico_ev.bmp", 
+Description = {"好想兔正在收集情報，以便跟瘋兔更親近，擊殺30隻瘋兔後返回。"}
+, Summary = "擊殺30隻瘋兔"}
+, 
+[293395] = {Title = "好想兔的委託", IconName = "ico_ev.bmp", 
+Description = {"好想兔正在收集情報，以便跟群葉瘋兔更親近，擊殺30隻群葉瘋兔後返回。"}
+, Summary = "擊殺30隻群葉瘋兔"}
+, 
+[293396] = {Title = "好想兔的委託", IconName = "ico_ev.bmp", 
+Description = {"好想兔正在收集情報，以便跟彈簧兔更親近，擊殺30隻彈簧兔後返回。"}
+, Summary = "擊殺30隻彈簧兔"}
+, 
+[293397] = {Title = "好想兔的委託", IconName = "ico_ev.bmp", 
+Description = {"好想兔正在收集情報，以便跟兔斯拉更親近，擊殺30隻兔斯拉後返回。"}
+, Summary = "擊殺30隻兔斯拉"}
+, 
+[293398] = {Title = "好想兔的委託", IconName = "ico_ev.bmp", 
+Description = {"好想兔要10個瘋兔娃娃，盡快準備好交給他。"}
+, Summary = "給予10瘋兔娃娃"}
+, 
+[293399] = {Title = "小賤狗的委託", IconName = "ico_ev.bmp", 
+Description = {"小賤狗想跟好想兔和好，幫他向好想兔傳話吧。"}
+, Summary = "和好想兔對話"}
+, 
+[293400] = {Title = "小賤狗的委託 - 等待", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再次承接執行。"}
+, Summary = "凌晨4點重置", CoolTimeQuest = 1}
+, 
+[293401] = {Title = "月的委託", IconName = "ico_ev.bmp", 
+Description = {"占卜師 月委託幫忙消滅強大的怪物，", "請打倒500隻LV100以上的怪物後再回來。"}
+, Summary = "打倒500隻LV100的怪物"}
+, 
+[293402] = {Title = "月的委託-等候", IconName = "ico_ev.bmp", 
+Description = {"此為每日任務，冷卻時間過後可再進行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[12421] = {Title = "拯救世界的後遺症", IconName = "ico_ev.bmp", 
+Description = {"你已領取了拯救世界後的獎勵，下次重置之前無法再獲取獎勵。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[12422] = {Title = "超越者的請託", IconName = "ico_ev.bmp", 
+Description = {"超越者霸肋門德建議一起攜手合作。"}
+, Summary = "超越者的請託"}
+, 
+[12423] = {Title = "拯救世界的人", IconName = "ico_ev.bmp", 
+Description = {"幫助遠在次元世界裡孤軍奮戰的霸肋門德，負責守護石的修復工作。"}
+, Summary = "修復守護石]"}
+, 
+[12456] = {Title = "消除拯救世界後遺症-等待", 
+Description = {"以超凡之力消除拯救世界後遺症的冷卻時間依然存在。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16776] = {Title = "夜市釣金魚-等待", IconName = "ico_ev.bmp", 
+Description = {"此為每日任務，重置時間過後可再進行，可找普隆德拉夜市的金魚姐姐接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16777] = {Title = "夜市占星-等待", IconName = "ico_ev.bmp", 
+Description = {"此為每日任務，重置時間過後可再進行，可找普隆德拉夜市的占星家接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17734] = {Title = "安全等級SSS", IconName = "ico_ev.bmp", 
+Description = {"冒險家，你能去見一下我朋友嗎?他應該就在普隆德拉夜市的某處。"}
+, Summary = "找貝爾托"}
+, 
+[17735] = {Title = "安全等級SSS", IconName = "ico_ev.bmp", 
+Description = {"那麼，在你回家的路上，順便參觀一下普隆德拉的避難所吧。"}
+, Summary = "堅固的城牆"}
+, 
+[17736] = {Title = "安全等級SSS", IconName = "ico_ev.bmp", 
+Description = {"向你展示嘔心瀝血製作的普隆德拉信號裝置。"}
+, Summary = "靈敏的緊急信號"}
+, 
+[17737] = {Title = "安全等級SSS", IconName = "ico_ev.bmp", 
+Description = {"現在都沒問題了，要去找阿蓋爾，他應該還在普隆德拉夜市吧？"}
+, Summary = "找煙火商人"}
+, 
+[18241] = {Title = "獨特布娃娃", IconName = "ico_ev.bmp", 
+Description = {"在另一個平行次元的普隆德拉，夜市節慶正熱鬧，在那裡遇到迪多，他渴望擁有霸肋門德玩偶，挑戰看看夾娃娃機。"}
+, Summary = "將1個霸肋門德玩偶交給迪多", NpcSpr = "4_RAGFES_11", NpcNavi = "x_prt_evt", NpcPosX = 91, NpcPosY = 83}
+, 
+[18242] = {Title = "特別的旋律卡片", IconName = "ico_ev.bmp", 
+Description = {"在另一個平行次元的普隆德拉，夜市節慶正熱鬧，在那裡遇到了慶典樂家，他希望收集旋律卡片10張，並承諾會用音樂盒來交換，旋律卡片可以在夾娃娃機中抽取。"}
+, Summary = "將10張旋律卡片交給慶典樂家", NpcSpr = "4_M_NEWOZ", NpcNavi = "x_prt_evt", NpcPosX = 117, NpcPosY = 26}
+, 
+[23092] = {Title = "夜市創始成員", 
+Description = {"因為有冒險家的幫助，夜市正式開幕時，將優待冒險家，讓他們成為榮譽創始成員！-夜市管委會長 馬克辛-"}
+, Summary = ""}
+, 
+[23119] = {Title = "歡迎來到夜市", IconName = "ico_ev.bmp", 
+Description = {"霸肋門德希望有比他更了解慶典的人來參觀夜市，透過<NAVI>[霸肋門德]<INFO>prontera,156,303,0,101,0</INFO></NAVI>前往另一個次元的普隆德拉，與夜市的主辦人馬心會面。"}
+, Summary = "與馬心對話"}
+, 
+[23120] = {Title = "夜市燈飾檢查1", IconName = "ico_ev.bmp", 
+Description = {"你被委託檢查普隆德拉夜市的燈飾，請檢查城鎮各處的燈飾。"}
+, Summary = ""}
+, 
+[23121] = {Title = "夜市燈飾檢查2", IconName = "ico_ev.bmp", 
+Description = {"你被委託檢查普隆德拉夜市的燈飾，請檢查城鎮各處的燈飾。"}
+, Summary = ""}
+, 
+[23122] = {Title = "夜市燈飾檢查3", IconName = "ico_ev.bmp", 
+Description = {"你被委託檢查普隆德拉夜市的燈飾，請檢查城鎮各處的燈飾。"}
+, Summary = ""}
+, 
+[23123] = {Title = "燈飾線路無異常", IconName = "ico_ev.bmp", 
+Description = {"已完成普隆德拉夜市的所有燈飾檢查，幸好沒有壞掉的燈飾，回普隆德拉夜市將檢查結果告訴馬心吧。"}
+, Summary = "與馬心對話"}
+, 
+[23124] = {Title = "最近的年輕人", IconName = "ico_ev.bmp", 
+Description = {"回到馬心那裡後，居民們正前來抗議，馬心似乎不放在心上，但這種情況實在讓人擔憂，讓我們幫助普隆德拉夜市的庫絲奇麗。"}
+, Summary = "幫助庫絲奇麗"}
+, 
+[23125] = {Title = "最近的年輕人", IconName = "ico_ev.bmp", 
+Description = {"成功地幫助庫絲奇麗將居民送回，應該是順利解決了吧？與普隆德拉夜市的庫絲奇麗交談看看吧。"}
+, Summary = "與庫絲奇麗對話"}
+, 
+[23126] = {Title = "最近的年輕人", IconName = "ico_ev.bmp", 
+Description = {"庫絲奇麗已經完成了自己的工作，他要請冒險家幫助馬心的工作，回普隆德拉夜市找馬心吧。"}
+, Summary = "與馬心對話"}
+, 
+[23127] = {Title = "心意誠可貴", IconName = "ico_ev.bmp", 
+Description = {"馬心說夜市的準備工作已經完成，現在他想要休息一下，所以請冒險家幫助心事重重的歐內斯特，前往普隆德拉夜市與歐內斯特交談。"}
+, Summary = "與歐內斯特對話"}
+, 
+[23128] = {Title = "心意誠可貴", IconName = "ico_ev.bmp", 
+Description = {"歐內斯特有很多事情要做，但他對於放任夜市管委會的朋友們感到不滿，幫助歐內斯特找來5個生鏽的螺絲和10個瑪哪樹枝。"}
+, Summary = "5個生鏽的螺絲、10個瑪哪樹枝"}
+, 
+[23129] = {Title = "收起私心", IconName = "ico_ev.bmp", 
+Description = {"歐內斯特說他急著找庫絲奇麗，發生什麼事了嗎?前往普隆德拉夜市找庫絲奇麗。"}
+, Summary = "與庫絲奇麗對話"}
+, 
+[23130] = {Title = "收起私心", IconName = "ico_ev.bmp", 
+Description = {"根據庫絲奇麗的說法，有一個攤位商人試圖賣一些被禁止販售的東西，前往普隆德拉夜市與怪物麵包攤的老闆對話，再次提醒他要注意。"}
+, Summary = "與怪物麵包攤的老闆對話"}
+, 
+[23131] = {Title = "收起私心", IconName = "ico_ev.bmp", 
+Description = {"怪物麵包攤老闆似乎單純只是怪物愛好者，由於他很固執，就毫不客氣地沒收怪物麵包。"}
+, Summary = "沒收怪物麵包"}
+, 
+[23132] = {Title = "收起私心", IconName = "ico_ev.bmp", 
+Description = {"已經沒收了所有的怪物麵包，透過強硬的態度，攤販老闆應該會明白吧？回到普隆德拉夜市，向庫絲奇麗報告進展。"}
+, Summary = "與庫絲奇麗對話"}
+, 
+[23133] = {Title = "世上沒有壞怪物", IconName = "ico_ev.bmp", 
+Description = {"庫絲奇麗說，崙達 安卡拿想要親自問點事情，崙達 安卡拿究竟想知道什麼呢？前往普隆德拉夜市，與崙達 安卡拿對話。"}
+, Summary = "與崙達 安卡拿對話"}
+, 
+[23134] = {Title = "世上沒有壞怪物", IconName = "ico_ev.bmp", 
+Description = {"崙達 安卡拿對寵物有興趣，並詢問寵物硬幣的用途，前往普隆德拉夜市確認金手販賣機，使用金手販賣機需要10個寵物硬幣。"}
+, Summary = "確認金手販賣機"}
+, 
+[23135] = {Title = "世上沒有壞怪物", IconName = "ico_ev.bmp", 
+Description = {"已使用金手販賣機，回普隆德拉夜市，向崙達 安卡拿報告進度。"}
+, Summary = "與崙達 安卡拿對話"}
+, 
+[23136] = {Title = "明天是夜市開幕日", IconName = "ico_ev.bmp", 
+Description = {"明天是夜市開幕日，天亮後，前往普隆德拉夜市找馬心，正式開幕後會發生什麼事呢？"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23137] = {Title = "明天也請來夜市", IconName = "ico_ev.bmp", 
+Description = {"今天接收了不少夜市的工作，到了凌晨4點，無法再進行未完成的工作，請在凌晨4點前完成工作！凌晨4點後，前往普隆德拉夜市找馬心，可以再接受新的工作。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23138] = {Title = "老闆，出來一下", IconName = "ico_ev.bmp", 
+Description = {"夜市的食物裡有蟲！前往普隆德拉夜市找庫絲奇麗，他負責管理食品衛生，庫絲奇麗說去找歐內斯特或是攤販老闆，看看他們怎麼處理。"}
+, Summary = "前往找歐內斯特或攤販"}
+, 
+[23139] = {Title = "有我在就夠了", IconName = "ico_ev.bmp", 
+Description = {"向歐內斯特提及了攤販食品中有蟲的情況，歐內斯特表示會嚴肅警告攤販，回到普隆德拉夜市，將情況告訴庫絲奇麗。"}
+, Summary = "與庫絲奇麗對話"}
+, 
+[23140] = {Title = "老闆真的出來了", IconName = "ico_ev.bmp", 
+Description = {"跟攤販老闆說有蟲，他說保持低調的話會給我報酬...當作什麼都沒發生過這樣好嗎?回到普隆德拉夜市，告訴庫絲奇麗，說攤販食品中沒有蟲。"}
+, Summary = "與庫絲奇麗對話"}
+, 
+[23141] = {Title = "蛋白質攝取也是有底限的", IconName = "ico_ev.bmp", 
+Description = {"今天夜市攤販的食品再次出現蟲，所以又帶回給歐內斯特，如果明天攤販還是沒有改善衛生，就前往普隆德拉夜市找歐內斯特。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23142] = {Title = "蛋白質攝取也是有底限的", IconName = "ico_ev.bmp", 
+Description = {"今天夜市攤販的食品再次出現蟲，所以帶回給南國廚師，如果明天還是出現這種情況，或許可以藉此與南國廚師達成協議。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23143] = {Title = "初次總是美好的", IconName = "ico_ev.bmp", 
+Description = {"多虧了冒險家，可怕的怪物麵包形狀得以改變，真是太感謝了，但是，因為怪物麵包的形狀改變，連味道也變了，所以有些顧客抱怨，前往普隆德拉夜市找怪物麵包敢死隊，幫助解決不滿。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與怪物麵包敢死隊對話"}
+, 
+[23144] = {Title = "初次總是美好的", IconName = "ico_ev.bmp", 
+Description = {"冒險家上次為怪物麵包取得了紅色藥草果醬的材料後，顧客仍然在持續抱怨，前往普隆德拉夜市找怪物麵包敢死隊，看看是否能解決。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與怪物麵包敢死隊對話"}
+, 
+[23145] = {Title = "初次總是美好的", IconName = "ico_ev.bmp", 
+Description = {"怪物麵包敢死隊需要5個紅色藥草來製作紅色藥草果醬，收集5個紅色藥草，然後前往普隆德拉夜市交給怪物麵包敢死隊。"}
+, Summary = "收集5個紅色藥草"}
+, 
+[23146] = {Title = "令人討厭的小毛團們", IconName = "ico_ev.bmp", 
+Description = {"在烤魚攤位附近，貓咪總是到處亂跑，使攤販傷透腦筋，前往普隆德拉夜市找魚販，解決這個問題。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與魚販對話"}
+, 
+[23147] = {Title = "令人討厭的小毛團們", IconName = "ico_ev.bmp", 
+Description = {"居然給貓吃的就能解決問題，這真是皆大歡喜的解決方法！看來效果還不錯，普隆德拉夜市的魚販再次請求幫忙，這次也拜託你了！", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與魚販對話"}
+, 
+[23148] = {Title = "給貓飯吃1", IconName = "ico_ev.bmp", 
+Description = {"在烤魚攤位附近的位置放下貓飯！"}
+, Summary = ""}
+, 
+[23149] = {Title = "給貓飯吃2", IconName = "ico_ev.bmp", 
+Description = {"在烤魚攤位附近的位置放下貓飯！"}
+, Summary = ""}
+, 
+[23150] = {Title = "給貓飯吃3", IconName = "ico_ev.bmp", 
+Description = {"在烤魚攤位附近的位置放下貓飯！"}
+, Summary = ""}
+, 
+[23151] = {Title = "令人討厭的小毛團們", IconName = "ico_ev.bmp", 
+Description = {"在適當的位置放下貓飯後，回到普隆德拉夜市找魚販報告情況。"}
+, Summary = "與魚販對話"}
+, 
+[23152] = {Title = "意外受歡迎菜單", IconName = "ico_ev.bmp", 
+Description = {"品嚐過夜市攤位的食物了嗎？令人意想不到的是，蔬菜燒烤很受歡迎，所以燒烤攤位非常忙碌，前往普隆德拉夜市找燒烤攤販，看看是否能幫上忙。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與燒烤攤販對話"}
+, 
+[23153] = {Title = "意外受歡迎菜單", IconName = "ico_ev.bmp", 
+Description = {"燒烤攤販雖然努力，但為了迅速獲得食材，情況不太理想，為了順利經營，這次也去普隆德拉夜市幫忙燒烤攤販吧。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與燒烤攤販對話"}
+, 
+[23154] = {Title = "意外受歡迎菜單", IconName = "ico_ev.bmp", 
+Description = {"燒烤攤販的蔬菜燒烤所需的材料不足，取得5個紅蘿蔔和2個綠色藥草，然後去普隆德拉夜市找燒烤攤販交給他們。"}
+, Summary = "5個紅蘿蔔、2個綠色藥草"}
+, 
+[23155] = {Title = "有辦法少做多賺嗎", IconName = "ico_ev.bmp", 
+Description = {"你知道夜市有贊助者嗎？有人在夜市內編寫報告，將其交給贊助者，但似乎出了點問題，去普隆德拉夜市找書記，看看是否能幫上忙。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與書記對話"}
+, 
+[23156] = {Title = "有辦法少做多賺嗎", IconName = "ico_ev.bmp", 
+Description = {"幫助編寫報告，最終對我們也是好事，如果冒險家能幫助書記，或許他能向贊助者說點好話，對管委會也有好處，去普隆德拉夜市再次幫忙書記吧。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與書記對話"}
+, 
+[23157] = {Title = "有辦法少做多賺嗎", IconName = "ico_ev.bmp", 
+Description = {"書記向你展示以前編寫的報告，要求不能有任何一個字的錯誤，直接抄寫報告內容，與普隆德拉夜市的書記交談，開始抄寫報告。"}
+, Summary = "抄寫報告"}
+, 
+[23158] = {Title = "次元裂縫的裂縫", IconName = "ico_ev.bmp", 
+Description = {"你有在夜市看過巡邏的警備兵嗎？除了防止事故，還能指出夜市各處的維修需求，聽說有一些地方出現了裂縫，去普隆德拉夜市最前線警備兵那裡，詢問詳細位置，開始協助工作。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與最前線警備兵對話"}
+, 
+[23159] = {Title = "次元裂縫的裂縫", IconName = "ico_ev.bmp", 
+Description = {"聽說上次你修復的地面裂縫出了問題，既然你是負責人，去普隆德拉夜市的最前線警備兵那裡了解詳情，然後適當的處理。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與最前線警備兵對話"}
+, 
+[23160] = {Title = "修補地面裂縫1", IconName = "ico_ev.bmp", 
+Description = {"修補普隆德拉夜市北邊的地面裂縫。"}
+, Summary = ""}
+, 
+[23161] = {Title = "修補地面裂縫2", IconName = "ico_ev.bmp", 
+Description = {"修補普隆德拉夜市北邊的地面裂縫。"}
+, Summary = ""}
+, 
+[23162] = {Title = "修補地面裂縫3", IconName = "ico_ev.bmp", 
+Description = {"修補普隆德拉夜市北邊的地面裂縫。"}
+, Summary = ""}
+, 
+[23163] = {Title = "次元裂縫的裂縫", IconName = "ico_ev.bmp", 
+Description = {"修補普隆德拉夜市所有地面裂縫後，返回最前線警備兵處，向他報告進度。"}
+, Summary = "與最前線警備兵對話"}
+, 
+[23164] = {Title = "除了衛生就是屍體", IconName = "ico_ev.bmp", 
+Description = {"有關特定攤位食物中有蟲的報告不斷湧入，去普隆德拉夜市找守倉員，檢查南國美食攤位的倉庫，如果有蟲子，請儘快清理掉。", "-普隆德拉夜市管委會員歐內斯特-"}
+, Summary = "與守倉員對話"}
+, 
+[23165] = {Title = "除了衛生就是屍體", IconName = "ico_ev.bmp", 
+Description = {"有關特定攤位食物中有蟲的報告不斷湧入，去普隆德拉夜市找守倉員，檢查南國美食攤位的倉庫，如果有蟲子，請儘快清理掉。", "-普隆德拉夜市管委會員歐內斯特-"}
+, Summary = "與守倉員對話"}
+, 
+[23166] = {Title = "除了衛生就是屍體", IconName = "ico_ev.bmp", 
+Description = {"南國料理攤位的倉庫裡爬滿老鼠和蟲子，抓到10個證物後，向普隆德拉夜市的守倉員報告。"}
+, Summary = "清除10隻老鼠或蟲"}
+, 
+[23167] = {Title = "在夜市的中心喊話", IconName = "ico_ev.bmp", 
+Description = {"上次在夜市遇到一個有振興夜市好點子的朋友，因為我很忙，沒有仔細聽，但肯定對我們會有很大幫助，去普隆德拉夜市找拉比奧利，聽聽他的建議。", " -普隆德拉夜市管委會長馬心 -"}
+, Summary = "與拉比奧利對話"}
+, 
+[23168] = {Title = "在夜市的中心喊話", IconName = "ico_ev.bmp", 
+Description = {"上次的計劃失敗了嗎？但我覺得只要稍微調整一下拉比奧利的想法，就可以讓它有市場潛力，去普隆德拉夜市再次找拉比奧利，看看能否改為明年的夜市目標。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與拉比奧利對話"}
+, 
+[23169] = {Title = "在夜市的中心喊話", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉夜市的拉比奧利正在推動在夜市約會，無論怎麼想，都像是在滿足個人私心，但馬心似乎認為這個想法很好，幫助拉比奧利尋找^4d4dff紅頭髮的人^000000。"}
+, Summary = " - 紅色篇 - "}
+, 
+[23170] = {Title = "紅頭髮的人1", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到紅頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23171] = {Title = "紅頭髮的人2", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到紅頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23172] = {Title = "紅頭髮的人3", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到紅頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23173] = {Title = "在夜市的中心喊話", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉夜市的拉比奧利正在推動在夜市約會，無論怎麼想，都像是在滿足個人私心，但馬心似乎認為這個想法很好，幫助拉比奧利尋找^4d4dff藍頭髮的人^000000。"}
+, Summary = " - 藍色篇 - "}
+, 
+[23174] = {Title = "藍頭髮的人1", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到藍頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23175] = {Title = "藍頭髮的人2", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到藍頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23176] = {Title = "藍頭髮的人3", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到藍頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23177] = {Title = "在夜市的中心喊話", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉夜市的拉比奧利正在推動在夜市約會，無論怎麼想，都像是在滿足個人私心，但馬心似乎認為這個想法很好，幫助拉比奧利尋找^4d4dff白頭髮的人^000000。"}
+, Summary = " - 白色篇 - "}
+, 
+[23178] = {Title = "白頭髮的人1", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到白頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23179] = {Title = "白頭髮的人2", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到白頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23180] = {Title = "白頭髮的人3", IconName = "ico_ev.bmp", 
+Description = {"如果在普隆德拉夜市找到白頭髮的人，詢問他是否有意與拉比奧利約會。"}
+, Summary = ""}
+, 
+[23181] = {Title = "再讓我試一次就好", IconName = "ico_ev.bmp", 
+Description = {"有在夜市裡抽過玩偶了嗎？我也玩過，裡面的獎品真的很不錯，但有人為了搶獎品不肯離開夾娃娃機，需要注意普隆德拉夜市的角力師，不要讓他影響其他人的福利。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與角力師對話"}
+, 
+[23182] = {Title = "再讓我試一次就好", IconName = "ico_ev.bmp", 
+Description = {"多虧你，夾娃娃機變得舒適許多，但因為夾娃娃機所在的地方比較偏僻，監視較少，似乎有人想偷偷占機，如果普隆德拉夜市的角力師再次出現，注意不要讓他影響其他人的福利。", "-普隆德拉夜市管委會長馬心-"}
+, Summary = "與角力師對話"}
+, 
+[23183] = {Title = "再讓我試一次就好", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉夜市的角力師似乎不打算離開夾娃娃機，想辦法說服角力師離開夾娃娃機，確保其他人的福利。"}
+, Summary = "說服角力師"}
+, 
+[3364] = {Title = "點火活動", IconName = "ico_ev.bmp", 
+Description = {"若要參加點火活動，需要幾件易燃物，請收集優質樹枝5個、樹根10個、火箭矢1個", "給<NAVI>[我]<INFO>alberta,138,169,0,101,0</INFO></NAVI>吧!"}
+, Summary = "旺火的材料"}
+, 
+[3365] = {Title = "魔法師魯拏", IconName = "ico_ev.bmp", 
+Description = {"去找由吉芬塔派去負責點火活動的<NAVI>[魔法師魯拏]<INFO>alberta,134,162,0,101,0</INFO></NAVI>後對話吧!"}
+, Summary = "去找魯拏"}
+, 
+[3366] = {Title = "捕獲野豬", IconName = "ico_ev.bmp", 
+Description = {"需要很多人手要去捕獲毀損農作物的野豬，", "去找<NAVI>[舒蕾娜]<INFO>alberta,152,198,0,101,0</INFO></NAVI>吧!"}
+, Summary = "去找舒蕾娜"}
+, 
+[3367] = {Title = "準備豐年祭食物", IconName = "ico_ev.bmp", 
+Description = {"慶典時美食不可或缺，去找正準備豐年祭美食的<NAVI>[阿茹]<INFO>alberta,119,193,0,101,0</INFO></NAVI>吧!備有許多美食喔!"}
+, Summary = "去找阿茹"}
+, 
+[3369] = {Title = "復活的樹枝", IconName = "ico_ev.bmp", 
+Description = {"請擊殺復活的樹枝10隻後帶來優質樹枝10個吧!這攸關我的性命和名聲!<NAVI>[魔法師魯拏]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"}
+, Summary = "優質樹枝10個"}
+, 
+[3370] = {Title = "等候:復活的樹枝", IconName = "ico_ev.bmp", 
+Description = {"現在阿嘉正在監視著，請凌晨過後再來好嗎? <NAVI>[魔法師魯拏]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3371] = {Title = "飢餓的野豬", IconName = "ico_ev.bmp", 
+Description = {"已經跑到村裡的野豬，必須活捉後放回牠們的窩，請用<NAVI>[我]<INFO>alberta,152,198,0,101,0</INFO></NAVI>給的捕獸籠活捕獲飢餓的野豬10隻吧!"}
+, Summary = "捕獲野豬10隻"}
+, 
+[3372] = {Title = "等候:飢餓的野豬", IconName = "ico_ev.bmp", 
+Description = {"現在需要修理野豬捕獸籠，你可以清晨過後再來找<NAVI>[我]<INFO>alberta,152,198,0,101,0</INFO></NAVI>嗎?"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3373] = {Title = "準備年糕", IconName = "ico_ev.bmp", 
+Description = {"年糕的食材用完了，請收集年糕材料好嗎?需要穀物1個、蜂蜜3個、綠色藥草10個。<NAVI>[阿茹]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "年糕食材"}
+, 
+[3374] = {Title = "準備月餅", IconName = "ico_ev.bmp", 
+Description = {"月餅的食材用完了，請收集月餅材料好嗎?需要黃色香料1個、瑪哪樹枝3個。<NAVI>[阿茹]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "月餅食材"}
+, 
+[3375] = {Title = "準備烤火雞", IconName = "ico_ev.bmp", 
+Description = {"烤火雞的食材用完了，請收集烤火雞的材料好嗎?需要純調味料1個、檸檬3個、紅蘿蔔10個。<NAVI>[阿茹]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "烤火雞食材"}
+, 
+[3376] = {Title = "等候:準備豐年祭美食", IconName = "ico_ev.bmp", 
+Description = {"正忙著準備佳餚沒多餘的可給你，請凌晨過後再來找<NAVI>[我]<INFO>alberta,119,193,0,101,0</INFO></NAVI>，就會一定給你喔!"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3377] = {Title = "魯伊斯的意圖", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[魯伊斯]<INFO>alberta,115,198,0,101,0</INFO></NAVI>似乎需要幫助，去問問他吧!"}
+, Summary = "與魯伊斯對話"}
+, 
+[3378] = {Title = "火雞的飼料", IconName = "ico_ev.bmp", 
+Description = {"急需火雞飼料，收集<ITEM>[蝗蟲後腿]<INFO>940</INFO></ITEM>30個、<ITEM>[綠色藥草]<INFO>511</INFO></ITEM>20個、<ITEM>[豐年祭紀念餅乾]<INFO>11613</INFO></ITEM>20個後交給<NAVI>[魯伊斯]<INFO>alberta,115,198,0,101,0</INFO></NAVI>吧!"}
+, Summary = "收集火雞飼料"}
+, 
+[3379] = {Title = "火雞的飼料-重複", IconName = "ico_ev.bmp", 
+Description = {"還需要火雞飼料，再收集<ITEM>[蝗蟲後腿]<INFO>940</INFO></ITEM>30個、<ITEM>[綠色藥草]<INFO>511</INFO></ITEM>20個、<ITEM>[豐年祭紀念餅乾]<INFO>11613</INFO></ITEM>20個給後交給<NAVI>[魯伊斯]<INFO>alberta,115,198,0,101,0</INFO></NAVI>吧!"}
+, Summary = "再收集火雞飼料"}
+, 
+[3380] = {Title = "火雞的飼料-等候", IconName = "ico_ev.bmp", 
+Description = {"現在火雞的飼料夠了，凌晨過後再找他吧!"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3381] = {Title = "金師傅的意圖", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[金師傅]<INFO>alberta,119,198,0,101,0</INFO></NAVI>好像需要幫忙，去和他對話吧!"}
+, Summary = "與金師傅對話"}
+, 
+[3382] = {Title = "前往崑崙的理由", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[金師傅]<INFO>alberta,119,198,0,101,0</INFO></NAVI>為了去見自己的女兒凱真，希望幫忙收集<ITEM>[一票通船票]<INFO>25392</INFO></ITEM>2張給他。"}
+, Summary = "協助金師傅"}
+, 
+[3383] = {Title = "前往崑崙的理由-重複", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[金師傅]<INFO>alberta,119,198,0,101,0</INFO></NAVI>今天也想見自己的女兒凱真，希望再幫忙收集<ITEM>[一票通船票]<INFO>25392</INFO></ITEM>2張給他。"}
+, Summary = "協助金師傅"}
+, 
+[3384] = {Title = "前往崑崙的理由-等候", IconName = "ico_ev.bmp", 
+Description = {"現在時間太晚，等凌晨過後再去找金師傅吧!"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3385] = {Title = "銀月的意圖", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[銀月]<INFO>alberta,117,198,0,101,0</INFO></NAVI>似乎也需要幫忙，去問問他吧!"}
+, Summary = "與銀月對話"}
+, 
+[3386] = {Title = "轉交豐年祭紀念餅乾", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[銀月]<INFO>alberta,117,198,0,101,0</INFO></NAVI>為了研究豐年祭餅乾，希望幫忙收集<ITEM>[豐年祭紀念餅乾]<INFO>11613</INFO></ITEM>10個給他。"}
+, Summary = "協助銀月"}
+, 
+[3387] = {Title = "轉交豐年祭紀念餅乾-重複", IconName = "ico_ev.bmp", 
+Description = {"似乎還需要更多的<ITEM>[豐年祭紀念餅乾]<INFO>11613</INFO></ITEM>，再收集10個給<NAVI>[銀月]<INFO>alberta,117,198,0,101,0</INFO></NAVI>吧!"}
+, Summary = "協助銀月"}
+, 
+[3388] = {Title = "轉交豐年祭紀念餅乾-等候", IconName = "ico_ev.bmp", 
+Description = {"等銀月還需要更多豐年祭紀念餅乾時再過來吧!"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23015] = {Title = "波利，救救我啊我救我！", IconName = "ico_ev.bmp", 
+Description = {"周圍太吵了，聽不到埃克雷歐想對法芊芊說什麼，前往普隆德拉告訴<NAVI>[法芊芊]<INFO>prontera,179,126,0,101,0</INFO></NAVI>鮮奶油不夠了。"}
+, Summary = "與法芊芊對話"}
+, 
+[23016] = {Title = "波利波利粉紅鮮奶油失竊案", IconName = "ico_ev.bmp", 
+Description = {"必須代替法芊芊將掉落的粉紅鮮奶油找回來，是被波利吃掉了嗎？如果是的話，波利看起來會像蛋糕一樣，找回3個鮮奶油後，回普隆德拉找<NAVI>[法芊芊]<INFO>prontera,179,126,0,101,0</INFO></NAVI>。"}
+, Summary = "交給法芊芊3個粉紅鮮奶油"}
+, 
+[23017] = {Title = "外送波利波利粉紅鮮奶油", IconName = "ico_ev.bmp", 
+Description = {"將找回的粉紅鮮奶油帶給普隆德拉的<NAVI>[埃克雷歐]<INFO>prontera,172,125,0,101,0</INFO></NAVI>。"}
+, Summary = "交給埃克雷歐3個粉紅鮮奶油"}
+, 
+[23018] = {Title = "甜點就是我的活力泉源", IconName = "ico_ev.bmp", 
+Description = {"擊敗原野中的蛋糕波利，就可以獲得粉紅鮮奶油，將3個粉紅鮮奶油交給普隆德拉的<NAVI>[法芊芊]<INFO>prontera,179,126,0,101,0</INFO></NAVI>。"}
+, Summary = "交給法芊芊3個粉紅鮮奶油"}
+, 
+[23019] = {Title = "甜點就是我的活力泉源-等待", IconName = "ico_ev.bmp", 
+Description = {"法芊芊說了，明天的粉紅鮮奶油明天再給，凌晨四點過後再來普隆德拉找<NAVI>[法芊芊]<INFO>prontera,179,126,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17617] = {Title = "轉生說明", IconName = "ico_jq.bmp", 
+Description = {"你已達可以轉生的等級。現在請立即前往朱諾的<NAVI>[賢者公會]<INFO>yuno_in02,88,164,0,101,0</INFO></NAVI>，展開突破極限的新生活。"}
+, Summary = "朱諾賢者公會"}
+, 
+[17618] = {Title = "發送轉職說明郵件", IconName = "ico_jq.bmp", 
+Description = {"已向可轉職次上位擴張職業的玩家發送說明郵件。"}
+, Summary = "已發送"}
+, 
+[16601] = {Title = "夜行使之路", IconName = "ico_jq.bmp", 
+Description = {"為取得夜行使相關說明，聽聽<NAVI>[伊利亞]<INFO>einbroch,315,322,0,101,0</INFO></NAVI>說的話吧。"}
+, Summary = "與伊利亞對話"}
+, 
+[16602] = {Title = "夜行使之路", IconName = "ico_jq.bmp", 
+Description = {"為參加夜行使測驗，和在克萊納奈米艾利前面等待的<NAVI>[埃琳娜 博克巴]<INFO>einbech,237,79,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與埃琳娜對話"}
+, 
+[16603] = {Title = "夜行使之路", IconName = "ico_jq.bmp", 
+Description = {"和<NAVI>[埃琳娜 博克巴]<INFO>einbech,237,79,0,101,0</INFO></NAVI>對話，進入考場進行夜行使轉職測驗吧。"}
+, Summary = "夜行使轉職測驗"}
+, 
+[16604] = {Title = "夜行使之路", IconName = "ico_jq.bmp", 
+Description = {"終於到了轉職這一刻。和<NAVI>[埃琳娜 博克巴]<INFO>einbech,237,79,0,101,0</INFO></NAVI>對話，進行轉職流程吧。"}
+, Summary = "與埃琳娜對話"}
+, 
+[3519] = {Title = "書妍的考驗(1)", IconName = "ico_jq.bmp", 
+Description = {"在<NAVI>[天津町 榻榻米迷宮]<INFO>ama_dun01.gat,156,192,0,101,0</INFO></NAVI>無關種類，擊殺100隻魔物。"}
+, Summary = "擊殺100隻魔物"}
+, 
+[3520] = {Title = "書妍的考驗(2)", IconName = "ico_jq.bmp", 
+Description = {"在<NAVI>[天津町 地下森林戰場]<INFO>ama_dun02.gat,121,47,0,101,0</INFO></NAVI>無關種類，擊殺100隻魔物。"}
+, Summary = "擊殺100隻魔物"}
+, 
+[3521] = {Title = "書妍的考驗(3)", IconName = "ico_jq.bmp", 
+Description = {"在<NAVI>[天津町 地下神舍]<INFO>ama_dun03.gat,152,55,0,101,0</INFO></NAVI>無關種類，擊殺100隻魔物。"}
+, Summary = "擊殺100隻魔物"}
+, 
+[3522] = {Title = "焱鬼的痕跡", IconName = "ico_jq.bmp", 
+Description = {"在<NAVI>[天津町 地下森林戰場]<INFO>ama_dun02.gat,121,47,0,101,0</INFO></NAVI>某處尋找焱鬼的痕跡。"}
+, Summary = "尋找痕跡"}
+, 
+[3523] = {Title = "遇見古代忍者", IconName = "ico_jq.bmp", 
+Description = {"驅趕焱鬼的靈魂，獲得新力量吧。"}
+, Summary = "與焱鬼戰鬥"}
+, 
+[17549] = {Title = "契靈士轉職: 意外的相遇", IconName = "ico_jq.bmp", 
+Description = {"在斐揚的客棧偶然遇到<NAVI>[萊恩]<INFO>payon,197,122,0,101,0,</INFO></NAVI>，問她這段時間過得怎麼樣。"}
+, Summary = "與萊恩對話"}
+, 
+[17550] = {Title = "契靈士轉職: 請幫幫我", IconName = "ico_jq.bmp", 
+Description = {"在客棧內掛著一幅畫有山峰的<NAVI>[畫]<INFO>payon_in01,187,90,0,101,0,</INFO></NAVI>，在前面行禮尋求幫助後即可。"}
+, Summary = "前往山水畫前"}
+, 
+[17551] = {Title = "契靈士轉職: 打頭陣", IconName = "ico_jq.bmp", 
+Description = {"你帶路吧!。<NAVI>[萊恩]<INFO>payon,197,122,0,101,0,</INFO></NAVI>人情，膽先聽聽他要說什麼。"}
+, Summary = "去找萊恩"}
+, 
+[17552] = {Title = "契靈士轉職: 嚴酷的修練", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[我]<INFO>payon,197,122,0,101,0,</INFO></NAVI>只是教了我能做的部分，學以致用全靠學習的人。"}
+, Summary = "完成修練"}
+, 
+[17538] = {Title = "天帝轉職: 你叫我嗎?", IconName = "ico_jq.bmp", 
+Description = {"認為比別人更善良、擁有出眾能力的人來找<NAVI>[我]<INFO>mjolnir_03,280,252,0,101,0,</INFO></NAVI>，宣揚自己的志向吧!"}
+, Summary = "告示牌指引的地方"}
+, 
+[17539] = {Title = "天帝轉職: 第一件善事", IconName = "ico_jq.bmp", 
+Description = {"幫助其他人後我也會幫助你。剛好有<NAVI>[人]<INFO>veins,238,110,0,101,0,</INFO></NAVI>向我許願，去那邊就好。"}
+, Summary = "需要幫助的地方"}
+, 
+[17540] = {Title = "天帝轉職: 第一件善事", IconName = "ico_jq.bmp", 
+Description = {"請盡快取得，<NAVI>[我]<INFO>veins,238,110,0,101,0,</INFO></NAVI>會一直在這裡。粘稠的毒3個、噬人樹花20個、噬人樹根3個。"}
+, Summary = "尋找藥材"}
+, 
+[17541] = {Title = "天帝轉職: 第二件善事", IconName = "ico_jq.bmp", 
+Description = {"聽說艾音貝赫<NAVI>[礦山]<INFO>einbech,156,243,0,101,0,</INFO></NAVI>有幽靈出沒的消息，好像在找可以處理的人。"}
+, Summary = "前往艾音貝赫"}
+, 
+[17542] = {Title = "天帝轉職: 第二件善事", IconName = "ico_jq.bmp", 
+Description = {"擊殺白色礦石魔10隻，只要可以馬上工作就好。剩下的<NAVI>[我們]<INFO>einbech,156,243,0,101,0,</INFO></NAVI>會自己看著辦。"}
+, Summary = "擊殺幽靈"}
+, 
+[17543] = {Title = "天帝轉職: 第三件善事", IconName = "ico_jq.bmp", 
+Description = {"去找位於夢羅克的<NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI>。雖然無法問出什麼事，但他看起來很煩惱。"}
+, Summary = "前往夢羅克"}
+, 
+[17544] = {Title = "天帝轉職: 第三件善事", IconName = "ico_jq.bmp", 
+Description = {"我們追蹤封殺的痕跡標示幾個可疑的地方，請以那為主進行尋找。", "<NAVI>[標記處]<INFO>moc_fild12,232,228,0,101,0,</INFO></NAVI>", "<NAVI>[標記處]<INFO>moc_fild12,234,59,0,101,0,</INFO></NAVI>", "<NAVI>[標記處]<INFO>moc_fild18,125,222,0,101,0,</INFO></NAVI>", "<NAVI>[標記處]<INFO>moc_fild18,314,192,0,101,0,</INFO></NAVI>", "<NAVI>[標記處]<INFO>moc_fild17,219,258,0,101,0,</INFO></NAVI>"}
+, Summary = "在沙漠找針"}
+, 
+[17545] = {Title = "天帝轉職: 第三件善事", IconName = "ico_jq.bmp", 
+Description = {"好不容易在沙漠找到針，回去向<NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI>報告吧。"}
+, Summary = "去找M"}
+, 
+[17546] = {Title = "天帝轉職: 第四件善事", IconName = "ico_jq.bmp", 
+Description = {"最後一個人...是要幫助在斐揚見過的那個<NAVI>[人]<INFO>payon,215,201,0,101,0,</INFO></NAVI>。"}
+, Summary = "前往斐揚"}
+, 
+[17547] = {Title = "天帝轉職: 第四件善事", IconName = "ico_jq.bmp", 
+Description = {"某天指引我去<NAVI>[那裡]<INFO>mjolnir_03,280,252,0,101,0,</INFO></NAVI>。動作快，時間不多了。"}
+, Summary = "去找銀河"}
+, 
+[17548] = {Title = "天帝轉職: 輪到冒險家了", IconName = "ico_jq.bmp", 
+Description = {"前往<NAVI>[銀河]<INFO>mjolnir_03,280,252,0,101,0,</INFO></NAVI>的住處，接受銀河承諾的幫助。"}
+, Summary = "承諾的幫助"}
+, 
+[17568] = {Title = "天帝轉職: 標記的地方", IconName = "ico_jq.bmp", 
+Description = {"已搜查標記的地方。"}
+, Summary = "結束搜查"}
+, 
+[17569] = {Title = "天帝轉職: 標記的地方", IconName = "ico_jq.bmp", 
+Description = {"已搜查標記的地方。"}
+, Summary = "結束搜查"}
+, 
+[17570] = {Title = "天帝轉職: 標記的地方", IconName = "ico_jq.bmp", 
+Description = {"已搜查標記的地方。"}
+, Summary = "結束搜查"}
+, 
+[17571] = {Title = "天帝轉職: 標記的地方", IconName = "ico_jq.bmp", 
+Description = {"已搜查標記的地方。"}
+, Summary = "結束搜查"}
+, 
+[5950] = {Title = "終極初學者", IconName = "ico_jq.bmp", 
+Description = {"若你對終極初學者有興趣，就去找葛雷佛對話吧。"}
+, Summary = ""}
+, 
+[5951] = {Title = "終極初學者", IconName = "ico_jq.bmp", 
+Description = {"跟隨追求自由的初學者公會理念，挑戰終極初學者是自己的自由。若要挑戰，就去找葛雷佛對話吧。"}
+, Summary = ""}
+, 
+[5952] = {Title = "終極初學者", IconName = "ico_jq.bmp", 
+Description = {"成為終極初學者的挑戰!!每1小時可重新挑戰初學者的記憶。"}
+, Summary = "冷卻時間1小時"}
+, 
+[5953] = {Title = "終極初學者", IconName = "ico_jq.bmp", 
+Description = {"成為終極初學者的挑戰!!每1小時可重新挑戰初學者的記憶。"}
+, Summary = "冷卻時間1小時"}
+, 
+[5954] = {Title = "終極初學者", IconName = "ico_jq.bmp", 
+Description = {"成為終極初學者的挑戰!!每1小時可重新挑戰初學者的記憶。"}
+, Summary = "冷卻時間1小時"}
+, 
+[5955] = {Title = "終極初學者", IconName = "ico_jq.bmp", 
+Description = {"成為終極初學者的挑戰!!每1小時可重新挑戰初學者的記憶。"}
+, Summary = "冷卻時間1小時"}
+, 
+[5956] = {Title = "終極初學者", IconName = "ico_jq.bmp", 
+Description = {"成為終極初學者的挑戰!!每1小時可重新挑戰初學者的記憶。"}
+, Summary = "冷卻時間1小時"}
+, 
+[5957] = {Title = "初學者的記憶(1)", IconName = "ico_jq.bmp", 
+Description = {"已儲存初學者的記憶中進行副本的記錄。"}
+, Summary = ""}
+, 
+[5958] = {Title = "初學者的記憶(2)", IconName = "ico_jq.bmp", 
+Description = {"已儲存初學者的記憶中進行副本的記錄。"}
+, Summary = ""}
+, 
+[5959] = {Title = "初學者的記憶(3)", IconName = "ico_jq.bmp", 
+Description = {"已儲存初學者的記憶中進行副本的記錄。"}
+, Summary = ""}
+, 
+[5960] = {Title = "終極初學者", IconName = "ico_jq.bmp", 
+Description = {"好像已在初學者的記憶獲得所有東西，出去見葛雷佛吧。"}
+, Summary = ""}
+, 
+[11769] = {Title = "魂靈師轉職!", IconName = "ico_jq.bmp", 
+Description = {"玄鹿說謝謝幫忙並留下一封信。在<NAVI>[深邃叢林入口]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>與鐵虎對話。"}
+, Summary = "與鐵虎對話"}
+, 
+[11770] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"斐揚的張木柴木工坊發出委託，前往<NAVI>[張木柴木工坊]<INFO>payon,252,297,0,101,0</INFO></NAVI>確認委託吧。"}
+, Summary = "前往張木柴木工坊"}
+, 
+[11771] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"發出委託的張木柴好像在斐揚森林。在^ff3456斐揚森林^000000見<NAVI>[張木柴]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI>並與他對話吧。"}
+, Summary = "與張木柴對話"}
+, 
+[11772] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"張木柴好像因為山中野獸損失慘重。調查山中野獸破壞的<NAVI>[工具]<INFO>pay_fild08,155,128,0,101,0</INFO></NAVI>吧。"}
+, Summary = "調查壞掉的工具"}
+, 
+[11773] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"壞掉的工具附近有凌亂的動物腳印，進一步調查<NAVI>[凌亂的痕跡]<INFO>pay_fild08,153,116,0,101,0</INFO></NAVI>比較好。"}
+, Summary = "檢查四周"}
+, 
+[11774] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"有和道具箱前類似的腳印，跟著腳印<NAVI>[移動]<INFO>pay_fild08,137,88,0,101,0</INFO></NAVI>吧。"}
+, Summary = "檢查四周"}
+, 
+[11775] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"從腳印又大又身來看，應該是大型草食性動物。跟著腳印<NAVI>[移動]<INFO>pay_fild08,165,68,0,101,0</INFO></NAVI>吧。"}
+, Summary = "檢查四周"}
+, 
+[11776] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"從密密麻麻的腳印來看，應該不只一兩隻。跟著腳印<NAVI>[移動]<INFO>pay_fild08,214,89,0,101,0</INFO></NAVI>吧。"}
+, Summary = "檢查四周"}
+, 
+[11777] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"動物們好像沿路直接來到張木柴的工作坊，跟著腳印<NAVI>[移動]<INFO>pay_fild09,31,87,0,101,0</INFO></NAVI>吧。"}
+, Summary = "檢查四周"}
+, 
+[11778] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"取得山中野獸經過的路上掉有食物的情報，回去找<NAVI>[張木柴]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與張木柴對話"}
+, 
+[11779] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"好像是某人把食物掉在張木柴的工作坊。為了尋找線索，再仔細檢查<NAVI>[壞掉的工具]<INFO>pay_fild08,155,128,0,101,0</INFO></NAVI>吧。"}
+, Summary = "檢查四周"}
+, 
+[11780] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"作為收到草莓的回報，鐵虎告訴你傳出<NAVI>[香味]<INFO>payon,233,159,0,101,0</INFO></NAVI>的地方。跟著鐵虎吧。"}
+, Summary = "跟著鐵虎"}
+, 
+[11781] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"搞砸張木柴工作的人，是委託工作的李大監。好像有人因為這件事很生氣，跟著<NAVI>[鐵虎]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>吧。"}
+, Summary = "跟著鐵虎"}
+, 
+[11782] = {Title = "親近魂靈的方法", IconName = "ico_jq.bmp", 
+Description = {"在<NAVI>[深邃叢林]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>內部與鐵虎對話吧。"}
+, Summary = "與鐵虎對話"}
+, 
+[5961] = {Title = "[等候]惡魔的餐點", IconName = "ico_dq.bmp", 
+Description = {"今天也要替<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>準備餐點。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[5962] = {Title = "惡魔的早餐", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[鐘塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>100隻魔物的靈魂沉澱物，應該就夠當早餐。替<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>準備餐點吧。", "^FF0000擊殺指定地圖只限原分流^000000"}
+, Summary = "鐘塔神秘地下室魔物100"}
+, 
+[5963] = {Title = "惡魔的中餐", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[鐘塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>300隻魔物的靈魂沉澱物，應該就夠當中餐。替<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>準備餐點吧。", "^FF0000擊殺指定地圖只限原分流^000000"}
+, Summary = "鐘塔神秘地下室魔物300"}
+, 
+[5964] = {Title = "惡魔的晚餐", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[鐘塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>1000隻魔物的靈魂沉澱物，應該就夠當晚餐。替<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>準備餐點吧。", "^FF0000擊殺指定地圖只限原分流^000000"}
+, Summary = "鐘塔神秘地下室魔物1000"}
+, 
+[5965] = {Title = "[等候]惡魔的特餐", IconName = "ico_nq.bmp", 
+Description = {"替<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>準備本週特餐，星期一的時候再準備一次就好了吧?"}
+, Summary = "星期一凌晨四點重置", CoolTimeQuest = 1}
+, 
+[5966] = {Title = "惡魔的特餐", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>一週要求一次特餐，<NAVI>[鐘塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>5000隻魔物的靈魂沉澱物，應該就夠當特餐。", "^FF0000擊殺指定地圖只限原分流^000000"}
+, Summary = "鐘塔神秘地下室魔物5000"}
+, 
+[5967] = {Title = "[等候]惡魔的點心", IconName = "ico_dq.bmp", 
+Description = {"替<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>準備點心。明天他也會要求，收集<ITEM>[王牌外卡]<INFO>25505</INFO></ITEM>、<ITEM>[可愛的掃把]<INFO>25506</INFO></ITEM>、<ITEM>[華麗的珊瑚]<INFO>25507</INFO></ITEM>、<ITEM>[閃耀圓形外皮]<INFO>25509</INFO></ITEM>各100個吧?"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[5968] = {Title = "[等候]惡魔的寵物邪惡箱", IconName = "ico_dq.bmp", 
+Description = {"也要準備<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>飼養的寵物邪惡箱食物。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[5969] = {Title = "寵物邪惡箱的飼料", IconName = "ico_dq.bmp", 
+Description = {"箱子的惡魔希望準配寵物邪惡箱的飼料，尋找在<NAVI>[鐘塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>某處的寵物邪惡箱吧", "^FF0000任務指定地圖只限原分流^000000"}
+, Summary = "尋找寵物邪惡箱"}
+, 
+[5970] = {Title = "完成轉交飼料(?)", IconName = "ico_dq.bmp", 
+Description = {"寵物邪惡箱搶走飼料，確定是給他沒錯嗎?向<NAVI>[箱子的惡魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>報告吧"}
+, Summary = "向箱子的惡魔報告"}
+, 
+[5971] = {Title = "箱子的惡魔", IconName = "ico_nq.bmp", 
+Description = {"遇見箱子的惡魔。"}
+, Summary = ""}
+, 
+[293423] = {Title = "埃克雷歐的謝禮-等待", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，重置時間過後可再承接執行。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[293420] = {Title = "體驗未知的力量", IconName = "ico_ev.bmp", 
+Description = {"與時空裂縫流浪者對話"}
+, Summary = "與時空裂縫流浪者對話"}
+, 
+[293421] = {Title = "體驗未知的力量-等待", IconName = "ico_ev.bmp", 
+Description = {"每天只能租借一次道具。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[293422] = {Title = "未知的卑金屬收集家", IconName = "ico_ev.bmp", 
+Description = {"與卑金屬收集家對話"}
+, Summary = "與卑金屬收集家對話"}
+, 
+[19066] = {Title = "調查官晁白溪的隱情", IconName = "ico_ev.bmp", 
+Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
+, Summary = ""}
+, 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[11月的晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19069] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19070] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19071] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19072] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19073] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19074] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19075] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19076] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19077] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19078] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19079] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19080] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19081] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19082] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19083] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19084] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19085] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19086] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19087] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19088] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19089] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19090] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19091] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19092] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19093] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19094] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19095] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19096] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19097] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19098] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19099] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19100] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19101] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19102] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19103] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19104] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19105] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19106] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19107] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19108] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19109] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19110] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19111] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19112] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19113] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19114] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19115] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19178] = {Title = "報名王室狩獵大會", IconName = "ico_ev.bmp", 
+Description = {"報名2023年王室狩獵大會了。"}
+, Summary = ""}
+, 
+[19179] = {Title = "[等待] 懶惰的獵人", IconName = "ico_ev.bmp", 
+Description = {"完成了王室狩獵大會的任務，等待一段時間後，前往找<NAVI>[委託負責人]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI>，可以再次接受任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19180] = {Title = "懶惰的獵人(波利)", IconName = "ico_ev.bmp", 
+Description = {"捕捉30隻<NAVI>[波利]<INFO>PORING,0,0,3,-222,1</INFO></NAVI> 後，前往找<NAVI>[委託負責人]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI> 領取獎勵。"}
+, Summary = "波利30隻"}
+, 
+[19181] = {Title = "懶惰的獵人(瘋兔)", IconName = "ico_ev.bmp", 
+Description = {"捕捉30隻<NAVI>[瘋兔]<INFO>LUNATIC,0,0,3,-222,1</INFO></NAVI> 後，前往找<NAVI>[委託負責人]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI> 領取獎勵。"}
+, Summary = "瘋兔30隻"}
+, 
+[19182] = {Title = "懶惰的獵人(綠棉蟲)", IconName = "ico_ev.bmp", 
+Description = {"捕捉30隻<NAVI>[綠棉蟲]<INFO>FABRE,0,0,3,-222,1</INFO></NAVI>後，前往找<NAVI>[委託負責人]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI> 領取獎勵。"}
+, Summary = "綠棉蟲30隻"}
+, 
+[19183] = {Title = "懶惰的獵人(蛋殼小雞)", IconName = "ico_ev.bmp", 
+Description = {"捕捉30隻<NAVI>[蛋殼小雞]<INFO>PICKY_,0,0,3,-222,1</INFO></NAVI>後，前往找<NAVI>[委託負責人]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI> 領取獎勵。"}
+, Summary = "蛋殼小雞30隻"}
+, 
+[293424] = {Title = "和兔兔對話", IconName = "ico_ev.bmp", 
+Description = {"想和兔兔對話，但無法理解兔兔的話，問問看冒險溝通師。"}
+, Summary = "和冒險溝通師對話"}
+, 
+[293425] = {Title = "和P助對話", IconName = "ico_ev.bmp", 
+Description = {"無法理解P助的話，問問看冒險溝通師。"}
+, Summary = "和冒險溝通師對話"}
+, 
+[293403] = {Title = "我隱藏我自己，這森林之謎", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：冒險家們在這片森林的二樓迷路了"}
+, Summary = "尋找兔兔"}
+, 
+[293404] = {Title = "忍術!霧隱之術", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往忍者轉職所在的城堡某處"}
+, Summary = "尋找兔兔"}
+, 
+[293405] = {Title = "再次開放觀光", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往供奉弗蕾亞女神的城市，西邊原野的某處"}
+, Summary = "尋找兔兔"}
+, 
+[293406] = {Title = "眼角淚光閃閃", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往骷髏形狀島嶼的某處"}
+, Summary = "尋找兔兔"}
+, 
+[293407] = {Title = "宅邸x搶奪x爭議", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往大賢者大宅的花園某處"}
+, Summary = "尋找兔兔"}
+, 
+[293408] = {Title = "尋找隱藏在市集的美食之旅", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往看起來和普隆德拉很像但不同的地方"}
+, Summary = "尋找兔兔"}
+, 
+[293409] = {Title = "龍蛋里舊址", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往盧恩米德加茲首都的某處"}
+, Summary = "尋找兔兔"}
+, 
+[293410] = {Title = "呆呆送幸福挑戰", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往擁有魔法學會的城市，東部原野的某處"}
+, Summary = "尋找兔兔"}
+, 
+[293411] = {Title = "阿好囉!出航!", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往被稱為港口之都，船隻的某處"}
+, Summary = "尋找兔兔"}
+, 
+[293412] = {Title = "愉快的週末占卜", IconName = "ico_ev.bmp", 
+Description = {"找到躲起來的兔兔！", "提示：前往斐揚附近小村莊的某處"}
+, Summary = "尋找兔兔"}
+, 
+[293413] = {Title = "向冒險溝通師報告", IconName = "ico_ev.bmp", 
+Description = {"找到了躲起來的兔兔！現在快去找冒險溝通師報告！"}
+, Summary = "向冒險溝通師報告"}
+, 
+[293414] = {Title = "粉紅兔兔捉迷藏-等待", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，冷卻時間後才可再次接取每日任務。"}
+, Summary = "凌晨4點重置", CoolTimeQuest = 1}
+, 
+[293415] = {Title = "P助的謝禮(初級)", IconName = "ico_ev.bmp", 
+Description = {"擊殺Lv100以上的魔物100隻"}
+, Summary = "擊殺Lv100的魔物100隻"}
+, 
+[293416] = {Title = "P助的謝禮(中級)", IconName = "ico_ev.bmp", 
+Description = {"擊殺Lv140以上的魔物150隻"}
+, Summary = "擊殺Lv140的魔物150隻"}
+, 
+[293417] = {Title = "P助的謝禮(高級)", IconName = "ico_ev.bmp", 
+Description = {"擊殺Lv180以上的魔物200隻"}
+, Summary = "擊殺Lv180的魔物200隻"}
+, 
+[293418] = {Title = "P助的謝禮(頂級)", IconName = "ico_ev.bmp", 
+Description = {"擊殺Lv220以上的魔物250隻"}
+, Summary = "擊殺Lv220的魔物250隻"}
+, 
+[293419] = {Title = "P助的謝禮-等待", IconName = "ico_ev.bmp", 
+Description = {"該任務為每日任務，冷卻時間後才可再次接取每日任務。"}
+, Summary = "凌晨4點重置", CoolTimeQuest = 1}
 }
 

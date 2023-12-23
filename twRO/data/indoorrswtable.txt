@@ -208,3 +208,6 @@ ve_in.rsw#
 ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
+
+//20230613 X주년 프론테라 야시장 실내
+x_prt_in.rsw#

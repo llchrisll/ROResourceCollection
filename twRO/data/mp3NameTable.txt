@@ -481,7 +481,6 @@ ein_fild06.rsw#bgm\\87.mp3#
 airplane.rsw#bgm\\87.mp3#
 airport.rsw#bgm\\86.mp3#
 ein_in01.rsw#bgm\\86.mp3#
-einbech.rsw#bgm\\86.mp3#
 einbroch.rsw#bgm\\86.mp3#
 nif_fild02.rsw#bgm\\85.mp3#
 nif_fild01.rsw#bgm\\85.mp3#
@@ -1340,3 +1339,12 @@ ant_d02_i.rsw#bgm\\46.mp3#
 
 // 230523 5월 컨텐츠 가라앉은 탑
 1@ch_u.rsw#bgm\\125.mp3#
+
+// 23년 8월 프론테라 차원의 균열 야시장
+x_prt_evt.rsw#bgm\\172.mp3#
+x_prt_in.rsw#bgm\\172.mp3#
+
+//231017 10월 컨텐츠 240레벨 컨텐츠 시계탑 미지의 지하층
+clock_01.rsw#bgm\\61.mp3#
+
+einbech.rsw#bgm\\86.mp3#

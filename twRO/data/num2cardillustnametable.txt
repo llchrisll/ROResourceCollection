@@ -1322,4 +1322,32 @@
 300238#ILL_Vitata_Card#
 300239#ILL_Maya_Card#
 
+//230905 호상토 이벤트
+300484#Hosangto_Card#
+300485#Nitco_Card#
 
+//231017 10월 컨텐츠
+300292#Extra_Joker_Card#
+300293#Erzsebet_Card#
+300294#Jeniffer_Card#
+300295#General_Orc_Card#
+300296#Sieglouse_Card#
+300297#sorry#
+
+//231121 왕실사냥대회
+300486#Elena_Card#
+300487#S_Elena_Card#
+300488#Lookie_Card#
+300489#S_Lookie_Card#
+300490#Est_Card#
+300491#S_Est_Card#
+300492#Gony_Card#
+300493#S_Gony_Card#
+300494#Tes_Card#
+300495#S_Tes_Card#
+300496#Leizi_Card#
+300497#S_Leizi_Card#
+
+//231205 카나헤이 이벤트
+300500#E_Usagi_Card#
+300501#E_Piske_Card#

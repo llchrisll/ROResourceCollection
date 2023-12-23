@@ -11530,5 +11530,245 @@
 			<perfor_1> 只要看到會動的東西就會撲過去!	</perfor_1>
 		</so_full>
 	</WILD_ROSE3>
+<WANDERING_DUCK>
+<hungry>
+	<feeding>吃飽飽的我，真是隻幸福的鴨子啊</feeding>
+	<feeding>謝謝你給我美味的東西~好開薰！</feeding>
+	<hunting>我也想參與戰鬥~好餓~</hunting>
+	<hunting>快把它們解決，然後給我吃東西</hunting>
+	<danger>好像快死了！要小心啊！</danger>
+	<danger>你還好嗎？</danger>
+	<dead>快起來...你快起來</dead>
+	<dead>不要丟下我！</dead>
+	<stand>啊啊~快給吃的~</stand>
+	<stand>現在吃飯的話，我會超級開心~</stand>
+	<stand>為什麼不給我東西吃？我們有這麼窮嗎？</stand>
+	<stand>肚子餓餓的...錯過吃飯時間了...</stand>
+	<connect>你有帶吃的給我嗎？</connect>
+	<connect>好久不見！你吃飯了嗎？我還沒吃喔~</connect>
+	<levelup>哇~恭喜！我們可以來吃些美味食物慶祝一下啦！</levelup>
+	<levelup>可能太餓了，我好像看到天使了...</levelup>
+	<perfor_1>我能飛了~</perfor_1>
+	<perfor_1>在天熱的時候拍動翅膀會很涼快哦！</perfor_1>
+	<perfor_2>心情好的時候，晃動一下尾巴~&#9836;</perfor_2>
+	<perfor_2>偶爾梳理一下尾巴，才不會糾在一起！</perfor_2>
+</hungry>
+
+<bit_hungry>
+	<feeding>今天的棉花球格外柔軟，謝謝你~</feeding>
+	<feeding>你聽，今天我的心跳聲更可愛了吧~嘿嘿</feeding>
+	<hunting>你是為了我的肚子而戰嗎？</hunting>
+	<hunting>稍微打一下，就能獲勝吧？</hunting>
+	<danger>危險！保持警惕！</danger>
+	<danger>吃這個，吃這個！藥水！</danger>
+	<dead>呱！！！</dead>
+	<dead>我們要重新開始了嗎...？</dead>
+	<stand>有點餓了...</stand>
+	<stand>剛剛好像聽到肚子在叫…</stand>
+	<stand>好餓...好餓...好...餓...</stand>
+	<stand>你不餓嗎？我超餓~</stand>
+	<connect>又見面了！</connect>
+	<connect>今天的我可愛嗎？</connect>
+	<levelup>哇哦~升級了！</levelup>
+	<levelup>我也感覺我好像又長大了一些！</levelup>
+	<perfor_1>我能飛了~</perfor_1>
+	<perfor_1>在天熱的時候拍動翅膀會很涼快哦！</perfor_1>
+	<perfor_2>心情好的時候，晃動一下尾巴~&#9836;</perfor_2>
+	<perfor_2>偶爾梳理一下尾巴，才不會糾在一起！</perfor_2>
+</bit_hungry>
+
+<noting>
+	<feeding>今天一般般，味道跟平常一樣</feeding>
+	<feeding>嗯嘛嘛~</feeding>
+	<hunting>只要盯著對方的眼睛，我就能壓制它！</hunting>
+	<hunting>一擊必殺！三倍冰淇淋！</hunting>
+	<danger>哎呀，感覺有點危險…</danger>
+	<danger>你還好嗎？</danger>
+	<dead>快起來...你快起來</dead>
+	<dead>不要丟下我！</dead>
+	<stand>今天怎麼樣？我把棉花整理得不錯吧？</stand>
+	<stand>戴帽子要戴整齊，不然會掉下來</stand>
+	<stand>今天要去哪裡呢？去有趣的地方！我來帶路！</stand>
+	<stand>有漂亮的鈕扣嗎？有的話我看看。</stand>
+	<connect>你有帶吃的給我嗎？</connect>
+	<connect>為什麼現在才來！</connect>
+	<levelup>哇~帥喔！要升級什麼素質呢？</levelup>
+    <levelup>我們變強了！！！</levelup>
+	<perfor_1>我能飛了~</perfor_1>
+	<perfor_1>在天熱的時候拍動翅膀會很涼快哦！</perfor_1>
+	<perfor_2>心情好的時候，晃動一下尾巴~&#9836;</perfor_2>
+	<perfor_2>偶爾梳理一下尾巴，才不會糾在一起！</perfor_2>
+</noting>
+
+<full>
+	<feeding>吃不下了...</feeding>
+	<feeding>就算是美味的東西，吃太多也會膩...</feeding>
+	<hunting>幹得好！給你拍拍手！</hunting>
+	<hunting>趕緊解決它，休息吧！</hunting>
+	<danger>我不能代替你上場，怎麼辦？</danger>
+	<danger>趕快補充點東西吧！再這樣下去我會死的！</danger>
+	<dead>Noooooooo~~~~呱呱！！！</dead>
+    <dead>我們會變得更強的，快點起來。</dead>
+    <stand>我喜歡唱歌~哼~哼哼哼~~&#9836;</stand>
+    <stand>我開嗓了，要不要聽我唱歌？</stand>
+    <stand>看看我的可愛小翅膀，可以摸摸看。</stand>
+    <stand>我好像可以在這陣風中飛起來！如果我飛起來了，你要接住我喔！</stand>
+    <stand>你聽，有聲音傳來，哈！是我的心跳聲！</stand>
+    <stand>&#22040;！安靜一點，我聽到了你的心跳聲，咚咚，咚咚，像在唱歌一樣~&#9836;</stand>
+    <connect>等你很久耶！</connect>
+    <connect>耶！今天也是美好的一天！</connect>
+    <levelup>雖然想送你祝賀禮，但沒什麼可送的~只能收下我的心意！</levelup>
+    <levelup>太棒了！變得更強了！</levelup>
+	<perfor_1>我能飛了~</perfor_1>
+	<perfor_1>在天熱的時候拍動翅膀會很涼快哦！</perfor_1>
+	<perfor_2>心情好的時候，晃動一下尾巴~&#9836;</perfor_2>
+	<perfor_2>偶爾梳理一下尾巴，才不會糾在一起！</perfor_2>
+</full>
+
+<so_full>
+	<feeding>我可不是小豬玩偶，我是小鴨玩偶！</feeding>
+	<feeding>吃是吃了，但這有一種比悲傷還悲傷的味道...</feeding>
+	<hunting>你待在這！我會全力解決的！</hunting>
+	<hunting>一彈指就能解決一切，看招~</hunting>
+	<danger>小心一點！你要不要補個藥水？</danger>
+	<danger>這樣！那樣！嗖嗖！快跟上我！</danger>
+	<dead>趕快起來...還是我的小心臟給你？</dead>
+	<dead>你很快就會回來吧？我會在這等你...</dead>
+	<stand>我們今天要去哪裡呢？不管去哪裡都好~&#9829;</stand>
+	<stand>今天怎麼感覺好像不太順利？</stand>
+	<stand>想想漂亮的鈕扣吧~呼啊~我的心在撲通撲通跳動...</stand>
+	<stand>我真的很喜歡！就像這閃閃發亮的鈕扣一樣！！</stand>
+	<stand>我喜歡游泳！就算濕答答也沒關係~</stand>
+	<stand>今天我們要做什麼呢？心跳加速~&#9829;</stand>
+	<stand>小鴨滴人生只有一次，為了漂亮的鈕扣，我願意獻上一切！</stand>
+	<stand>哇~你的眼睛像星星一樣美麗~★比漂亮的鈕扣還要閃亮~★</stand>
+	<connect>我等了好久了！因為太想見你了！</connect>
+	<connect>今天我們也要玩得開心！</connect>
+	<levelup>哇啊啊~你光芒四射啊！！！</levelup>
+	<levelup>變強了！真是太帥了！</levelup>
+	<perfor_1>我能飛了~</perfor_1>
+	<perfor_1>在天熱的時候拍動翅膀會很涼快哦！</perfor_1>
+	<perfor_2>心情好的時候，晃動一下尾巴~&#9836;</perfor_2>
+	<perfor_2>偶爾梳理一下尾巴，才不會糾在一起！</perfor_2>
+</so_full>
+</WANDERING_DUCK>
+
+<PITAYA_B_PET>
+<hungry>
+<feeding> 都快餓成火龍果乾了 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</hungry>
+<bit_hungry>
+<feeding> 吃飯時間囉 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</bit_hungry>
+<noting>
+<feeding> 還行啦 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<stand> 理我一下啦 </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</noting>
+<full>
+<feeding> 真的太飽了 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<stand> 理我一下啦 </stand>
+<stand> 現在要做甚麼呢 </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</full>
+<so_full>
+<feeding> 真的太飽了 </feeding>
+<dead> 怎麼變成這樣子... </dead>
+<stand> 陪我玩! </stand>
+<stand> 理我一下啦 </stand>
+<stand> 現在要做甚麼呢 </stand>
+<levelup> 太厲害了!恭喜你 </levelup>
+<perfor_1> 好睏好睏</perfor_1>
+<perfor_2> 我先睡一下 </perfor_2>
+<perfor_2> Zzzzz </perfor_2>
+<perfor_3> 有點想睡了 </perfor_3>
+</so_full>
+</PITAYA_B_PET>
+
+<HOSANGTO_PET>
+
+<hungry>
+<feeding> 我...我需要食物 </feeding>
+<dead> 出大事了 </dead>
+<stand> 好想出去丸哦~ </stand>
+<levelup> 我都感動的流兩滴淚了 </levelup>
+<perfor_1> 吃飽了好想睡</perfor_1>
+<perfor_2> 今天要來追哪個劇呢~? </perfor_2>
+<perfor_2> 雞排雞排雞排 </perfor_2>
+<perfor_3> 珍奶珍奶珍奶 </perfor_3>
+</hungry>
+<bit_hungry>
+<feeding> 好想吃雞排 </feeding>
+<dead> 出大事了 </dead>
+<stand> 好想出去丸哦~ </stand>
+<levelup> 我都感動的流兩滴淚了 </levelup>
+<perfor_1> 吃飽了好想睡</perfor_1>
+<perfor_2> 今天要來追哪個劇呢~? </perfor_2>
+<perfor_2> 雞排雞排雞排 </perfor_2>
+<perfor_3> 珍奶珍奶珍奶 </perfor_3>
+</bit_hungry>
+<noting>
+<feeding> 再來一份鹽酥雞 </feeding>
+<dead> 出大事了 </dead>
+<stand> 好想出去丸哦~ </stand>
+<stand> 該去買零食吃了 </stand>
+<levelup> 我都感動的流兩滴淚了 </levelup>
+<perfor_1> 吃飽了好想睡</perfor_1>
+<perfor_2> 今天要來追哪個劇呢~? </perfor_2>
+<perfor_2> 雞排雞排雞排 </perfor_2>
+<perfor_3> 珍奶珍奶珍奶 </perfor_3>
+</noting>
+<full>
+<feeding> 我再也吃不下了 </feeding>
+<dead> 出大事了 </dead>
+<stand> 這次一定要減肥成功 </stand>
+<stand> 好想出去丸哦~ </stand>
+<stand> 該去買零食吃了 </stand>
+<levelup> 我都感動的流兩滴淚了 </levelup>
+<perfor_1> 吃飽了好想睡</perfor_1>
+<perfor_2> 今天要來追哪個劇呢~? </perfor_2>
+<perfor_2> 雞排雞排雞排 </perfor_2>
+<perfor_3> 珍奶珍奶珍奶 </perfor_3>
+</full>
+<so_full>
+<feeding> 我再也吃不下了 </feeding>
+<dead> 出大事了 </dead>
+<stand> 這次一定要減肥成功 </stand>
+<stand> 好想出去丸哦~ </stand>
+<stand> 該去買零食吃了 </stand>
+<levelup> 我都感動的流兩滴淚了 </levelup>
+<perfor_1> 吃飽了好想睡</perfor_1>
+<perfor_2> 今天要來追哪個劇呢~? </perfor_2>
+<perfor_2> 雞排雞排雞排 </perfor_2>
+<perfor_3> 珍奶珍奶珍奶 </perfor_3>
+</so_full>
+
+</HOSANGTO_PET>
 
 </monster_talk_table>
