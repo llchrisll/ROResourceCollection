@@ -3606,11 +3606,13 @@
 22913	1	1	0	1	1	1	1	1	//Weapon_9Up_Box
 22915	1	1	0	1	1	1	1	1	//Weapon_11Up_Box
 22916	1	1	0	1	1	1	1	1	//Weapon_12Up_Box
+22917	1	1	1	1	1	1	1	1	//Weapon_13Up_Box
 22926	1	1	0	1	1	1	1	1	//Armor_7Up_Box
 22927	1	1	0	1	1	1	1	1	//Armor_8Up_Box
 22928	1	1	0	1	1	1	1	1	//Armor_9Up_Box
 22930	1	1	0	1	1	1	1	1	//Armor_11Up_Box
 22931	1	1	0	1	1	1	1	1	//Armor_12Up_Box
+22932	1	1	1	1	1	1	1	1	//Armor_13Up_Box
 22943	1	1	0	1	1	1	1	1	//Armor_10Up_Box
 22944	1	1	0	1	1	1	1	1	//Weapon_10Up_Box
 22971	1	1	0	1	1	1	1	1	//Mad_Bunny_Scroll
@@ -4596,15 +4598,111 @@
 830005	0	0	0	0	0	1	1	1	//Antique_Gatling_Gun
 102263	1	1	0	0	0	1	1	0	//OCP_FEB2_2023
 
-
 // 23_03_23 Spring_Celebrations_Costama
-400144	1	1	0	1	0	1	1	1	//C_Glory_Symbol_TW
-400221	1	1	0	1	1	1	1	1	//C_Jasper_Crest
+400144	0	0	0	0	0	1	1	1	//C_Glory_Symbol_TW
+400221	0	0	0	0	0	1	1	1	//C_Jasper_Crest
 400290	0	0	0	0	0	1	1	1	//C_Pink_Angel_Hairband
 400292	0	0	0	0	0	1	1	1	//C_Proba_Angel_Blessing
 410156	0	0	0	0	0	1	1	1	//C_Bouquet_Valletta
 480187	0	0	0	0	0	1	1	1	//C_Wedding_Ribbon
 102293	1	1	0	1	1	1	1	1	//2303_SpringCostume_US
+
+// 23_04_06 OCP 46
+5931	0	0	0	0	0	1	1	0	//Niflheim_Bunny_Hat
+5966	0	0	0	0	0	1	1	0	//KarduiEar
+410096	0	0	0	0	0	1	1	1	//Pope_Ribbon_R
+410097	0	0	0	0	0	1	1	1	//Pope_Ribbon_R_
+470112	0	0	0	0	0	1	1	1	//Moaning_of_EvilSpirits
+21053	0	0	0	0	0	1	1	0	//FullForce
+102237	1	1	0	0	0	1	1	0	//OCP_APR_2023
+13085	0	0	0	0	0	1	1	0	//Volcano_Knife
+520003	0	0	0	0	0	1	1	0	//Scythe_Of_Ice_Flame
+
+// 23_04_06 2020 March egg 
+25295	1	1	1	1	0	1	1	1	//Happiness_Clover
+
+// 23_04_06 Galaxy Costama
+400313	0	0	0	0	0	1	1	1	//C_Galaxy_Circlet
+400314	0	0	0	0	0	1	1	1	//C_Northern_Cross
+400315	0	0	0	0	0	1	1	1	//C_2012RMSCNO4
+410171	0	0	0	0	0	1	1	1	//C_Wish_Tree_Hat_J
+420162	0	0	0	0	0	1	1	1	//C_Starry_Ribbon_Twin
+480204	0	0	0	0	0	1	1	1	//C_Back_Ribbon_Bell_BU
+100461	1	1	0	1	1	1	1	1	//2304_GalaxyCostume_US
+
+// 23_2Q UPDATE
+490087	1	1	1	1	0	1	1	1	//4th_Q_Necklace
+1000268	1	1	0	1	0	1	1	1	//J4_Gas_Mask
+1000269	1	1	0	1	0	1	1	1	//J4_Sealing_Box
+1000270	1	1	0	1	0	1	1	1	//J4_Mandra_Incubator
+1000271	1	1	1	1	0	1	1	1	//J4_Impression_Piece
+1000272	1	1	1	1	0	1	1	1	//J4_Inspiration_Piece
+12848	1	1	0	1	0	1	1	0	//Falcon_Pipe
+1000311	1	1	1	1	1	1	1	1	//Hawk_Pipe
+6586	1	1	1	1	1	1	1	1	//CapturedBook
+23040	1	1	0	1	1	1	1	1	//White_Potion_Box_
+25098	0	0	0	1	0	0	0	0	//Jobmap_1st
+25099	0	0	0	1	0	0	0	0	//Jobmap_su
+25100	0	0	0	1	0	0	0	0	//Jobmap_sword
+25101	0	0	0	1	0	0	0	0	//Jobmap_magic
+25102	0	0	0	1	0	0	0	0	//Jobmap_Merch
+25103	0	0	0	1	0	0	0	0	//Jobmap_acol
+25104	0	0	0	1	0	0	0	0	//Jobmap_thief
+25105	0	0	0	1	0	0	0	0	//Jobmap_archer
+25106	0	0	0	1	0	0	0	0	//Jobmap_taekwon
+25107	0	0	0	1	0	0	0	0	//Jobmap_rune
+25108	0	0	0	1	0	0	0	0	//Jobmap_royal
+25109	0	0	0	1	0	0	0	0	//Jobmap_war
+25110	0	0	0	1	0	0	0	0	//Jobmap_socer
+25111	0	0	0	1	0	0	0	0	//Jobmap_mecha
+25112	0	0	0	1	0	0	0	0	//Jobmap_gene
+25113	0	0	0	1	0	0	0	0	//Jobmap_bishop
+25114	0	0	0	1	0	0	0	0	//Jobmap_sura
+25115	0	0	0	1	0	0	0	0	//Jobmap_cross
+25116	0	0	0	1	0	0	0	0	//Jobmap_chaser
+25117	0	0	0	1	0	0	0	0	//Jobmap_ranger
+25118	0	0	0	1	0	0	0	0	//Jobmap_mins
+25119	0	0	0	1	0	0	0	0	//Jobmap_wander
+25120	0	0	0	1	0	0	0	0	//Jobmap_ninja
+25121	0	0	0	1	0	0	0	0	//Jobmap_gun
+25122	0	0	0	1	0	0	0	0	//Jobmap_super2
+6993	1	1	0	1	1	1	1	1	//Guarantee_Weapon_10Up
+6994	1	1	0	1	1	1	1	1	//Guarantee_Armor_10Up
+6584	1	1	0	1	1	1	1	1	//Guarantee_Weapon_12Up
+6585	1	1	0	1	1	1	1	1	//Guarantee_Armor_12Up
+6864	1	1	0	1	1	1	1	1	//Guarantee_Weapon_19Up
+6865	1	1	0	1	1	1	1	1	//Guarantee_Armor_19Up
+6870	1	1	0	1	1	1	1	1	//Guarantee_Weapon_13Up
+6871	1	1	0	1	1	1	1	1	//Guarantee_Weapon_14Up
+6872	1	1	0	1	1	1	1	1	//Guarantee_Weapon_15Up
+6873	1	1	0	1	1	1	1	1	//Guarantee_Weapon_16Up
+6874	1	1	0	1	1	1	1	1	//Guarantee_Weapon_17Up
+6875	1	1	0	1	1	1	1	1	//Guarantee_Weapon_18Up
+6876	1	1	0	1	1	1	1	1	//Guarantee_Armor_13Up
+6877	1	1	0	1	1	1	1	1	//Guarantee_Armor_14Up
+6878	1	1	0	1	1	1	1	1	//Guarantee_Armor_15Up
+6879	1	1	0	1	1	1	1	1	//Guarantee_Armor_16Up
+6880	1	1	0	1	1	1	1	1	//Guarantee_Armor_17Up
+6881	1	1	0	1	1	1	1	1	//Guarantee_Armor_18Up
+23365	1	1	1	1	0	1	1	1	//Cryptura_Giftbox
+25123	0	0	0	1	0	0	0	0	//Jobmap_karma2
+17920	1	1	0	1	1	1	1	1	//Zero_Merchant_Bell_Box
+23647	1	1	0	1	1	1	1	1	//Zero_Merchant_Bell
+6327	1	1	0	1	1	1	1	1	//LI_HD_Bradium
+6906	1	1	0	1	1	1	1	1	//LI_HD_Carnium
+17314	1	1	0	1	1	1	1	1	//C_Wing_Of_Fly_1Day_Box
+17251	1	1	0	1	1	1	1	1	//C_Wing_Of_Fly_3Day_Box
+17474	1	1	0	1	1	1	1	1	//C_Wing_Of_Fly_5Day_Box
+23023	1	1	1	1	1	1	1	1	//C_Giant_Fly_Wing
+17229	1	1	0	1	1	1	1	1	//C_Wing_Of_Fly_Box
+22816	1	1	0	1	1	1	1	1	//G_Mysterious_Water
+22817	1	1	0	1	1	1	1	1	//G_Small_Life_Potion
+22818	1	1	0	1	1	1	1	1	//G_Med_Life_Potion
+100005	1	1	0	1	1	1	1	1	//G_Small_Mana_Potion
+100006	1	1	0	1	1	1	1	1	//G_M_DEFScroll
+14766	1	1	0	1	1	1	1	1	//Limit_Power_Booster
+23203	1	1	0	1	1	1	1	1	//Small_Mana_Potion
+23204	1	1	0	1	1	1	1	1	//M_DEFScroll
 
 // 23_05_11 OCP 47
 15099	0	0	0	0	0	1	1	0	//White_Tiger_Armor
@@ -4618,11 +4716,11 @@
 102367	1	1	0	0	0	1	1	0	//OCP_MAY_2023
 
 // 23_05_25 Comfy Camping Costama
-20581	0	0	0	0	1	1	1	1	//C_Soldier_Backpack
+20581	0	0	0	0	0	1	1	1	//C_Soldier_Backpack
 400325	0	0	0	0	0	1	1	1	//C_Wondering_Wolf_V
 400326	0	0	0	0	0	1	1	1	//C_Bull_Hat
 400327	0	0	0	0	0	1	1	1	//C_RA_Hair_PK
-410108	1	0	0	0	0	0	0	0	//C_B_Shiba_Inu_TW
+410108	0	0	0	0	0	1	1	1	//C_B_Shiba_Inu_TW
 102368	1	1	0	1	1	1	1	1	//2305_CampingCostume_US
 
 // 23_06_08 OCP 48
@@ -4666,8 +4764,204 @@
 450215	0	0	0	0	0	1	1	1	//Aramazd_revelation
 102427	1	1	0	0	0	1	1	0	//OCP_JUL_2023
 
-// 23_07_20 Booster Promotion
+// 23_07_06 Booster Promotion
 100857	1	1	1	1	1	1	1	1	//Booster_Pack_175_US
 102430	1	1	1	1	1	1	1	1	//Booster_Pack_200_US
 102431	1	1	1	1	1	1	1	1	//Booster_Pack_190_US
 102432	1	1	1	1	1	1	1	1	//Booster_Gift_Box_US
+
+// 23_08_23 OCP 50
+15374	0	0	0	0	0	1	1	0	//lunar_eclipse_Armor_
+410057	0	0	0	0	0	1	1	1	//YinYang_Earring_Y
+410109	0	0	0	0	0	1	1	1	//Fluffy_Lovely_Fox
+420187	0	0	0	0	0	1	1	1	//Sacred_Lapel
+450257	0	0	0	0	0	1	1	1	//Platinum_Arbitrator
+470192	0	0	0	0	0	1	1	1	//Fifth_Element
+490029	0	0	0	0	0	1	1	0	//Geffenia_Magictool_Ice
+102461	1	1	0	0	0	1	1	0	//OCP_AUG_2023
+550021	0	0	0	0	0	1	1	0	//Deus_Ex_Machina_JP
+
+// 23_08_03 Royal Family Costama
+31308	0	0	0	0	0	1	1	0	//C_Protect_Feathers
+31555	0	0	0	0	0	1	1	0	//C_Hoplite_Helmet_V
+400450	0	0	0	0	0	1	1	1	//C_Lion_Crown
+420029	0	0	0	0	0	1	1	1	//C_Imperial_Glory
+420221	0	0	0	0	0	1	1	1	//C_Skia_Two_Side_Up
+480315	0	0	0	0	0	1	1	1	//C_Milky
+102459	1	1	0	1	1	1	1	1	//2308_RoyalCostume_US
+
+// 23_08_31 Monster Costama
+400426	0	0	0	0	0	1	1	1	//C_Smoky_TransformHat
+400427	0	0	0	0	0	1	1	1	//C_Demi_Freyja_Hair
+480288	0	0	0	0	0	1	1	1	//C_Dark_Lord_Cloak
+480289	0	0	0	0	0	1	1	1	//C_Moonlight_Bell
+480290	0	0	0	0	0	1	1	1	//C_Lord_Of_Death_Shield
+102460	1	1	0	1	1	1	1	1	//2308_MonsterCostume_US
+
+// 23_08_31 2020 Noodle Festival Event
+15210	1	1	1	1	0	1	1	1	//Rental_SupperSwimsuit
+19275	1	1	1	1	0	1	1	1	//Rental_Scuba_Mask
+20855	1	1	1	1	0	1	1	1	//Rental_Oxygen_Bomb
+31319	1	1	1	1	0	1	1	1	//C_Fan_Of_Summer_R
+31320	1	1	1	1	0	1	1	1	//C_Pinwheel_Cap_R
+25365	1	1	1	1	0	1	1	1	//Thin_Noodle
+25366	1	1	1	1	0	1	1	1	//Noodle_Festa_Coupon
+25367	1	1	1	1	0	1	1	1	//Promotion_Fan
+25657	1	1	1	1	0	1	1	1	//Evt_July01_KR
+25658	1	1	1	1	0	1	1	1	//Evt_July02_KR
+25664	1	1	1	1	0	1	1	1	//Evt_July03_KR
+25841	1	1	1	1	0	1	1	1	//Smooth_Noodle
+23921	1	1	1	1	0	1	1	1	//Season_Evt_Reward
+
+//2023.09 OCP
+400421	0	0	0	0	0	1	1	1	//Two_tone_Cap
+400453	0	0	0	0	0	1	1	1	//Striking_hat_A
+400454	0	0	0	0	0	1	1	1	//Khalitzburg_KN_Helm_W
+410071	0	0	0	0	0	1	1	1	//Demons_Familiar_
+420199	1	0	0	0	0	0	0	0	//Ghost_Fire
+420246	0	0	0	0	1	1	1	1	//Arbitrator_Shawl_US
+480251	0	0	0	0	0	1	1	1	//Mystical_Wing
+490243	0	0	0	0	0	1	1	1	//Ring_of_SilverClaw
+102537	1	1	0	1	1	1	1	1	//OCP_SEP_2023
+
+
+//2023.09 Kachua
+24493	0	0	0	0	0	1	1	0	//S_Adoramus_Earing
+480149	1	0	0	0	1	0	0	0	//Battle_Aura_Manteau_TW
+490229	1	0	0	0	0	1	1	0	//Record_Thief_TH
+490334	1	0	0	0	1	1	1	0	//Record_Acol_TH
+490400	1	0	0	0	1	1	1	0	//Record_Archer_TH
+101041	1	1	0	1	1	1	1	1	//S_Mammoth_Cube
+
+//2023.09.21 Promotion_Package Reselling
+102596	1	1	0	1	1	1	1	1	//FolkloreCos_12
+102597	1	1	0	1	1	1	1	1	//OCP48_12
+102598	1	1	0	1	1	1	1	1	//OCP46_12
+102599	1	1	0	1	1	1	1	1	//OCP51_12
+102600	1	1	0	1	1	1	1	1	//RoyalCos_12
+102601	1	1	0	1	1	1	1	1	//MonsterCos_12
+
+//2023.10.05 Haunted Halloween Costama
+31833	0	0	0	0	0	1	1	0	//C_Halloween_Cat_Short
+31952	0	0	0	0	0	1	1	0	//C_GatesofNetherWorld
+400347	0	0	0	0	0	1	1	1	//C_Necromencer_Hood_V
+410199	0	0	0	0	0	1	1	1	//C_Midnight_Candle
+102603	1	1	0	1	1	1	1	1	//2310_Halloween_US
+
+//2023.10.17 OCP 52
+400408	0	0	0	0	0	1	1	1	//Clockwise
+400416	0	0	0	0	0	1	1	1	//Squirrel_Ear_Hat_W
+400437	0	0	0	0	0	1	1	1	//Chic_Peony
+400438	0	0	0	0	0	1	1	1	//Wildcat_Knit_Cap_W
+420198	0	0	0	0	0	1	1	1	//Sanctus
+460052	0	0	0	0	0	1	1	1	//Striking_Armguard
+480319	0	0	0	0	0	1	1	1	//Divine_Phoenix
+490234	1	0	0	0	0	0	0	0	//Copy_Book_Concen
+102622	1	1	0	1	1	1	1	1	//OCP_OCT_2023
+
+//2023.10.17 Kachua
+28982	0	0	0	0	0	1	1	0	//Shield_Of_Angel_TH
+480369	0	0	0	0	0	1	1	0	//Scarlet_Hero_Manteau_TH
+490221	1	0	0	0	1	1	1	0	//Record_Swordsman_TH
+490239	1	0	0	0	1	1	1	0	//Record_Merchant_TH
+490288	1	0	0	0	1	1	1	0	//Record_Mage_TH
+490413	0	0	0	0	0	1	1	0	//Twin_Dragon_Ring_TH
+//2023.10.17 Kachua end
+//========2023 3Q UPDATE==================
+//글래스트헤임 도전모드
+19474	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RK
+19475	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_LG
+19476	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_NC
+19477	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_GN
+19478	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_GC
+19479	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SC
+19480	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_AB
+19481	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SR
+19482	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_WL
+19483	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SO
+19484	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RA
+19485	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_WM
+19486	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SJ
+19487	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SP
+19488	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RL
+19489	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_OB
+19490	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_KG
+19491	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_NV
+19492	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SU
+
+//게펜 야간 투기장
+1000366	1	1	1	1	0	1	1	1	//MD_Geffen_Win
+100365	1	1	1	1	0	1	1	1	//MD_Geffen_Rarmor
+100366	1	1	1	1	0	1	1	1	//MD_Geffen_Rhood
+100367	1	1	1	1	0	1	1	1	//MD_Geffen_Racc
+100368	1	1	1	1	0	1	1	1	//MD_Geffen_Rsheild
+100369	1	1	1	1	1	1	1	1	//MD_Geffen_Reward
+100370	1	1	1	1	1	1	1	1	//MD_Geffen_Reward2
+100484	1	1	1	1	0	1	1	1	//MD_Geffen_Gamble
+
+//=======================2023 3Q UPDATE end
+
+//2023.10.17 2021 할로윈 이벤트
+1000657	1	1	1	1	0	1	1	1	//Evt_Soul_Skein
+101056	1	1	1	1	1	1	1	1	//Season_Evt_Reward_10
+
+//2023.10.31 Beach Parade Costama 해변가 퍼레이드 코스타마
+15925	1	0	0	0	0	1	1	1	//C_Splash_Hat
+31613	1	0	0	0	1	1	1	1	//C_Blue_Strong_Hair
+400458	0	0	0	0	0	1	1	1	//C_Ally_of_the_Demons
+400462	0	0	0	0	0	1	1	1	//C_Sailor_Cap
+410187	0	0	0	0	0	1	1	1	//C_Diving_Goggles
+420224	0	0	0	0	0	1	1	1	//C_Ocean_Color_Long
+420233	0	0	0	0	0	1	1	1	//C_TV_Hair_PK
+480320	0	0	0	0	0	1	1	1	//C_Aqua_Fin_Decoration
+480321	0	0	0	0	0	1	1	1	//C_Surf_Board
+480336	0	0	0	0	0	1	1	1	//C_Forest_S_Vacation
+102642	1	1	0	1	1	1	1	1	//2311_Beach_US
+
+//2023.10.31 OCP 53
+28517	0	0	0	0	0	1	1	0	//Ring_Of_The_Abyss_King
+400213	0	0	0	0	0	1	1	1	//Faith_Of_Yggdrasil
+400481	0	0	0	0	0	1	1	1	//Flash_of_Lightning
+410210	0	0	0	0	0	1	1	1	//Little_Abyss_Dragon
+420235	0	0	0	0	0	1	1	1	//Mobile_Support_Systems
+490340	0	0	0	0	0	1	1	1	//Illegal_Tip
+490381	0	0	0	0	0	1	1	1	//Majesty_of_Yggdrasil_
+490396	0	0	0	0	0	1	1	1	//Establish
+102670	1	1	0	1	1	1	1	1	//OCP_NOV_2023
+
+//2023.11.14 kachua
+490376	1	0	0	0	1	1	1	0	//Record_Swordsman2_TH
+490394	1	0	0	0	1	1	1	0	//Record_Thief2_TH
+490411	1	0	0	0	1	1	1	0	//Record_Merchant2_TH
+
+//2023.12.05 OCP 54
+400505	0	0	0	0	0	1	1	1	//StripedRibbonHat
+400506	0	0	0	0	0	1	1	1	//Altair_Hat
+410120	0	0	0	0	0	1	1	1	//Guardian_Helm_
+420223	0	0	0	0	0	1	1	1	//Consecrate_F_Aureola
+450291	0	0	0	0	0	1	1	1	//Amazing_Grace
+490336	0	0	0	0	0	1	1	1	//Dimension_L_Stone
+490410	0	0	0	0	0	1	1	1	//Into_The_Abyss
+700078	0	0	0	0	0	1	1	1	//MoonGod_Bow_J
+102724	1	1	0	1	1	1	1	1	//OCP_DEC_2023
+
+//2023.12.05 Happy Christmas Costama 해피 크리스마스 코스타마
+31634	0	0	0	0	0	1	1	0	//C_Rudolf_Hairband
+410219	0	0	0	0	0	1	1	1	//C_Jumbo_Rabbit
+420191	0	0	0	0	0	1	1	1	//C_Snow_Rabbit_Wig
+420241	0	0	0	0	0	1	1	1	//C_Temari_Candy_Hair
+480362	0	0	0	0	0	1	1	1	//C_Ninetail_Tail_WH
+102722	1	1	0	1	1	1	1	1	//2312_Christmas_US
+
+//2023.12.19 Kachua
+22264	0	0	0	0	0	1	1	0	//Noname_Sm_Boots_TH
+470247	1	0	0	0	1	0	0	0	//Mid_Knight_Shoes
+490318	1	0	0	0	1	0	0	0	//Arc_A_Ring
+490418	1	0	0	0	1	1	1	0	//Record_Mage2_TH
+490430	1	0	0	0	1	1	1	0	//Record_Archer2_TH
+490436	1	0	0	0	1	1	1	0	//Record_Acol2_TH
+100536	1	1	1	1	1	1	1	1	//Main_Lucky_Box_US
+
+//2023.12.19 Dec Cash Promotion 소비 프로모션
+480252	0	0	0	0	0	1	1	1	//C_Mystical_Wing
+490466	1	0	0	0	1	0	0	0	//Fallen_Seraphim_ring

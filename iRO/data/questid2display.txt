@@ -24949,6 +24949,119 @@ Talk to the girl again#
 Let's talk to the girl in middle of the Turtles vilage.#
 Talk to the girl again#
 
+// 2023 June Anniversary Quest
+
+63801#Talk to Pvt Woods Goofus#SG_FEEL#QUE_NOIMAGE#
+Speak with Pvt Woods Goofus in Hugel Field 5.#
+Talk to Pvt Woods Goofus#
+
+63802#Collect 30 Little Evil Horns#SG_FEEL#QUE_NOIMAGE#
+Speak with Pvt Woods Goofus in Hugel Field 5.#
+Talk to Pvt Woods Goofus#
+
+63803#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63804#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63805#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63806#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63807#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63808#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63809#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63810#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63811#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63812#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63813#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63814#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63815#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63816#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63817#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63818#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63819#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63820#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63821#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63822#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63823#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63824#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63825#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63826#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63827#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
+
+63828#Placeholder#SG_FEEL#QUE_NOIMAGE#
+Placeholder.#
+Placeholder#
 
 // Snow Flower Festival - Dec
 
@@ -25806,3 +25919,73 @@ Gifts for the Villains#
 17403#Stand by: Need Attention#SG_FEEL#QUE_NOIMAGE#
 I knew that the winter snacks and the affectionate cards would work. Now take a good rest and help us again after dawn. - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>#
 Reset at 04:00#
+
+//2023 3Q Additional Update Illusion of TeddyBear
+11556#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+Steven seems to have gone to the 1st floor of the Einbech Mines. I should go there and look for traces of him.#
+To Einbech Mines Floor 1#
+
+11557#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+A man is screaming in front of the line. I'd better go check the situation at the front.#
+To the front of the line#
+
+11558#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+The teddy bear in front of me has let me go in first. I should go in.#
+Into the dungeon#
+
+11559#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+The teddy bears that were holding Steven hostage ran away.#
+Talk to Steven#
+
+11560#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+Steven, worrying about San's health, has given me some money to give to his friend for his doctor's appointment. I should go back to San in Einbroch.#
+To Einbroch#
+
+11561#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+San is so worried about Steven that he wants to go to the mines. I should go with him.#
+Back to the Mines#
+
+11562#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+Steven said some strange noise was coming from the north. I should go look for its possible source in the north.#
+To the north#
+
+11563#Nasarian Conspiracy#SG_FEEL#QUE_NOIMAGE#
+I got caught while eavesdropping on the Nasarians. I should hunt the Red, Yellow, and Green Teddy Bears hot on my heels, 10 each, and then talk to Steven at the entrance.#
+To the entrance through the angry Nasarians#
+
+11564#Nasarian Conspiracy#SG_FEEL#QUE_NOIMAGE#
+I got caught while eavesdropping on the Nasarians. I should hunt the Blue and White Teddy Bears hot on my heels, 10 each, and then talk to Steven at the entrance.#
+To the entrance through the angry Nasarians#
+
+11565#RUN!#SG_FEEL#QUE_NOIMAGE#
+Doll makers like me can't get out of here easily because we're not used to fighting. Help me get rid of Hardworking Pitmen, Soul Shards, and Sinister Dwelling Obsidians, will you?#
+Hardworking Pitmen, Soul Shards, and Sinister Dwelling Obsidians, 10 each#
+
+11566#RUN! - Pending#SG_FEEL#QUE_NOIMAGE#
+I already completed this quest for the day. I have to wait until it becomes available again.#
+#
+
+11567#Things That Shouldn't Exist#SG_FEEL#QUE_NOIMAGE#
+Please ^ff0000take care of Red, Yellow, and Green Teddy Bears, 10 each,^000000 so they can be returned to the earth and rest...#
+Defeat Teddy Bears of different types, 10 each#
+
+11568#Things that Shouldn't Exist#SG_FEEL#QUE_NOIMAGE#
+Please ^ff0000take care of Blue and White Teddy Bears, 10 each,^000000 so they can be returned to the earth and rest...#
+Defeat Teddy Bears of different types, 10 each#
+
+11569#Things that Shouldn't Exist - Pending#SG_FEEL#QUE_NOIMAGE#
+I already completed this quest for the day. I have to wait until it becomes available again.#
+#
+
+11570#Let the Light Devour the Darkness#SG_FEEL#QUE_NOIMAGE#
+Have you seen that big, dazzlingly ^ff0000Shiny Teddy Bear^000000 around here? I managed to reach the entrance, and it keeps showing up to stop me from leaving. I've been hiding here for days.#
+Defeat Shiny Teddy Bear#
+
+11571#Let the Light Devour the Darkness - Pendng#SG_FEEL#QUE_NOIMAGE#
+I already completed this quest for the day. I have to wait until it becomes available again.#
+#
+
+11572#Illusion Survivor's Staff#SG_FEEL#QUE_NOIMAGE#
+I'm in the process of crafting an Illusion Survivor's Staff. Now that I've completed Stage 1, I should take the remaining materials to the Bear for Illusion Stones.#
+Crafting Stage 1#
+//2023 3Q Additional Update Illusion of TeddyBear end

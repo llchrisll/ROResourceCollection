@@ -1809,7 +1809,7 @@ minute(s)#
 second(s)#
 please enter the item name#
 item name doesn't exist#
-there is no available ma #
+there is no available map #
 selected name or prefix-suffix does not exist#
 you can purchase up to 10#
 you failed to purchase some items#
@@ -2794,7 +2794,7 @@ Trade window X#
 Auction X#
 Guild storage X#
 To sell item to NPC X#
-Movement restriction item#
+There is a restriction on movement#
 Please create a character.#
 You need to disarm the equipped projectiles.#
 You cannot enter the memorial dungeon due to excessive number of people.#
@@ -3387,12 +3387,12 @@ Confirm#
 #
 #
 Taekwon#
-#
-#
-#
-#
-#
-#
+Refusal status for all chats and whispers.#
+Request to refuse all chats and whispers failed.#
+Request to refuse all chats and whispers failed(exceeded number of people).#
+Possible status for all chats and whispers.#
+Request to enable all chats and whispers failed.#
+Request to enable all chats and whispers failed(exceeded number of people).#
 There is no block list#
 -Block list-#
 #
@@ -3420,15 +3420,15 @@ Posted on Adventurer Agency.#
 Enter your search#
 Tank#
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
+/ex (character name) or /block (character name): block all chats and whispers for the specified character.#
+/in (character name) or /unblock (character name): Allow all chats and whispers for the specified character.#
+/ex or /block: list of characters with blocked chats and whispers.#
+/exall or /blockall: block all chats and whispers for everyone.#
+/inall or /unblockall: allow all chats and whispers for everyone.#
+Refusal status for all chats and whispers to everyone.#
+Request to refuse all chats and whispers to everyone failed.#
+Possible status for all chats and whispers to everyone.#
+Request to enable all chats and whispers for everyone failed#
 #
 #
 Strength and Attack have increased.#
@@ -3568,15 +3568,15 @@ Successfully expanded the maximum number of items you can have.#
 You can not contain more than %d of same items.#
 It is impossible to purchase due to exceeding the possession limit.#
 You only can purchase quantity of 1 at once.#
-#
-#
+Star Emperor#
+Soul Reaper#
 Settings will be saved when properly closed.#
 #
 #
 #
 damage notation extension#
 map name#
-#
+System message: Current stall view function is in %s status. (/viewstall)#
 #
 #
 #
@@ -3611,22 +3611,22 @@ There is no magic memorized using Reading Spellbook.#
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Talent Status#
+Power Parameter\n^cc0000Physical Attack, Talent Physical Attack^ffffff increased#
+Stamina Parameter\n^cc0000Physical Resistance^ffffff increased#
+Wisdom Parameter\n^cc0000Magic Resistance^ffffff increased#
+Spell Parameter\n^cc0000Magic Attack, Talent Magic Attack^ffffff increased#
+Concentration Parameter\n^cc0000Accuracy, Evasion, Talent Physical/Magic Attack^ffffff increased#
+Creative Parameter\n^cc0000Talent Healing Amount, Critical Damage Ratio^ffffff increased#
+Talent Physical Attack#
+Talent Magic Attack#
+Physical Resistance#
+Magic Resistance#
+Talent Healing Amount#
+Critical Damage Ratio#
+Points used for talent parameter leveling up#
+J.Lv#
+AP#
 #
 #
 #
@@ -3635,13 +3635,13 @@ There is no magic memorized using Reading Spellbook.#
 You are a character who has not acquired basic skill.#
 #
 #
-Import#
+Get#
+Gets information on the item last registered in the stall#
 #
 #
 #
 #
-#
-#
+Not enough AP.#
 Cannot be combined. Refine rate is too high.#
 Refine rate is higher than the requirements of the combination.#
 Card is already enchanted or equipped.#
@@ -3683,8 +3683,8 @@ You cannot trade equipped items. Please unequip first.#
 #
 The purchase limit cannot exceed your possession.#
 #
-#
-#
+Selling stall item list has been saved.#
+Buying stall item list has been saved.#
 #
 You cant equip while trading.#
 Item exchange#
@@ -3700,11 +3700,128 @@ You can trade %d same items at once.#
 Total : %d z#
 Message#
 You can't purchase while you are opening a purchase.#
+Grade upgrade was successful.#
+Grade upgrade failed.#
+The grade value has been adjusted downwards.#
+The equipment has been destroyed.#
+The equipment is being protected.#
+No materials selected.#
+Not enough materials.#
+Not enough money.#
+Not enough item space.#
+The equipment is being protected.#
+The equipment may be destroyed.#
+If the grade upgrade fails, the grade may decrease.#
+During grade enhancement, Rolex cannot be used. Rolex has been forcibly terminated.#
+Rolex cannot be used during grade enhancement.#
+#
+#
+[%s] has successfully upgraded and obtained a [%s grade %s] item.#
+[%s] has failed to upgrade the [%s grade %s] item.#
+This equipment cannot be upgraded.#
+#
+#
+#
+#
+#
+Attack power and special attack power have increased.#
+The effect of Strong Conviction has been lifted.#
+HP and physical resistance have increased.#
+The effect of Steadfast Conviction has been lifted.#
+Attack speed and guided attack probability have increased.#
+The effect of Faithful Conviction has been lifted.#
+POW, CRT, and CON have increased.#
+The effect of Benedictum has been lifted.#
+SPL, WIS, and CRT have increased.#
+The effect of Religio has been lifted.#
+Special attack power and special magic attack power have increased.#
+The effect of Competentia has been lifted.#
+Critical damage ratio has increased.#
+The effect of Presence Archis has been lifted.#
+Ignore physical resistance effect has been granted.#
+The effect of Argutus Tellum has been lifted.#
+Ignore magic resistance effect has been granted.#
+The effect of Argutus Vita has been lifted.#
+#
+The effect of Servant Weapon has been lifted.#
+The effect of Charging Pierce has been lifted.#
+The effect of Vigor has been lifted.#
+Attack power has increased, and defense power has decreased.#
+The effect of Attack Stance has been lifted.#
+Defense power has increased, and attack power has decreased.#
+The effect of Guard Stance has been lifted.#
+A barrier has been granted.#
+The effect of Guardian Shield has been lifted.#
+Damage received through Devotion effect has decreased.#
+The effect of Rebound Shield has been lifted.#
+Holy magic damage and dark/fire attribute resistance have increased.#
+The effect of Holy Shield has been lifted.#
+Instant resurrection effect has been granted.#
+The effect of Ultimate Sacrifice has been lifted.#
+The effect of certain skills has been changed.#
+The effect of Climax has been lifted.#
+The effect of certain skills has been changed.#
+The effect of Shadow Exceed has been lifted.#
+Ignore physical resistance effect has been granted.#
+The effect of Potent Venom has been lifted.#
+Increase the damage received by the target with a certain probability with each attack.#
+The effect of Enchanting Shadow has been lifted.#
+#
+#
+Target's AP is maxed out#
+#
+#
+%d Servant Weapons are required.#
+#
+#
+#
+#
+Enters Research Report state.#
+Exits Research Report state.#
+#
+#
+Shadow equipment is protected from destruction and release.#
+Full Shadow Protection is lifted.#
+Damage dealt to plant and intangible monsters is increased.#
+Hell Tree Powder effect disappears.#
+The attack device has been activated.#
+The attack device has been deactivated.#
+Physical defense and resistance have increased.#
+The defense device has been deactivated.#
+#
+The ensemble can be used alone.#
+Kubashir's wisdom disappears.#
+The effect of Mystic Symphony is granted.#
+The effect of Mystic Symphony disappears.#
+Magic resistance has decreased.#
+The effect of Gephennia Norton has been released.#
+Physical resistance has decreased.#
+Mine Worker Rhapsody state has been released.#
+Physical resistance has increased.#
+The Musical Interlude state has been released.#
+Special magic attack power and movement speed increase.#
+The effect of Evening Serenade has been released.#
+Special physical attack power and movement speed increase.#
+The effect of Protera's March has been released.#
+The wrath of the wind flows into the caster.#
+Calamity Gaile state has been released.#
+Weakness and appearance are revealed by the wind.#
 #
 #
 #
 #
+Special magic attack power has increased.#
+The effect of Spell Enchanting has been released.#
+The effect of From the Abyss has been released.#
+Special physical attack power, special magic attack power, and accuracy have increased.#
+The Abyss Slayer effect has been released.#
 #
+The world is in a saturated state. Please use another world.#
+Unblock chat (remove receiver block).#
+Block chat (receiver block).#
+The refinement level cannot be enhanced.#
+The equipment is in an undamaged state.#
+No auxiliary material is applied. Would you like to continue with the reinforcement?#
 #
 #
 #
@@ -3712,124 +3829,7 @@ You can't purchase while you are opening a purchase.#
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Auxiliary material selection will be reset.#
 #
 #
 #
@@ -3868,9 +3868,9 @@ You can't purchase while you are opening a purchase.#
 #
 RODEX all user received#
 #
-#
-#
-#
+If successful, refining level will be reset to 0!#
+Cards, random options, and enchantments will be preserved.#
+If failed, refining level will be maintained.#
 #
 #
 #

@@ -1036,3 +1036,45 @@ ba_chess.rsw#Checkmate#
 1@ghg.rsw#Ortus Aqua#
 1@bamn.rsw#Garden at Dusk#
 1@bamq.rsw#Airship Depot#
+
+
+// 23_2Q UPDATE
+// 250 레벨 확장 컨텐츠
+sp_rudus4.rsw#Laboratory Waste Disposal Plant Rudus Floor 4#
+amicitia1.rsw#Abandoned Lab Amicitia#
+amicitia2.rsw#Abandoned Lab Amicitia#
+nif_dun01.rsw#Nifflheim Dungeon Banquet Hall of the Dead#
+nif_dun02.rsw#Nifflheim Dungeon Collapsed Opera House#
+
+// 등급강화소
+grademk.rsw#Grade-up Center#
+
+// 4차 전직 퀘스트
+1@4sac.rsw#Shadow Manor#
+1@4inq.rsw#Monastery Basemen#
+1@4mst.rsw#Juperos Core VT#
+1@4cdn.rsw#Last Ordeal Phantom Cave#
+1@4igd.rsw#Tourney Hall of Justice#
+1@4drk.rsw#Dragon's Test#
+1@4win.rsw#Deep Luluka Forest#
+1@4tro.rsw#Kvasir's Chest#
+job4_tro.rsw#Empty Kvasir's Chest#
+1@4mag.rsw#Mana Spring#
+job4_mag.rsw#Mana Spring#
+job4_bio.rsw#Secret Flower Garden#
+
+//========2023 3Q UPDATE==================
+// 글래스트 헤임 도전모드
+1@gl_he.rsw#Glastheim Challenge#
+
+//EDDA 생체연구소 - 원정의 여로
+1@gol1.rsw#Bio Test Chamber#
+1@gol2.rsw#Morgue#
+//=======================2023 3Q UPDATE end
+
+// Illusion Teddy Bear Nasarian Empire
+ein_d02_i.rsw#Nasarian Empire#
+
+//2023 3Q Additional Update Fall of Glast Heim
+// EDDA 글래스트 헤임의 몰락
+1@gl_prq.rsw#글래스트 헤임의 몰락#

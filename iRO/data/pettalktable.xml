@@ -5617,4 +5617,210 @@
 		</so_full>
 
 	</child_admin_a>
+	<phreeoni>				
+					
+		<hungry>			
+			<feeding>	Hmm..delicious..	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Ugh..My back hurts!	</stand>
+			<levelup>	You look stronger..	</levelup>
+			<perfor_1>	Wow wow wow!!	</perfor_1>
+			<perfor_1>	Weee hahaha!	</perfor_1>
+			<perfor_2>	Jump!	</perfor_2>
+			<perfor_2>	To the Sky!!	</perfor_2>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	Ahh..T..h..x	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Huh?	</stand>
+			<levelup>	You look more buff.	</levelup>
+			<perfor_1>	Look at me!	</perfor_1>
+			<perfor_1>	Hahahaha ~	</perfor_1>
+			<perfor_2>	Roar!	</perfor_2>
+			<perfor_2>	I can reach the sky!	</perfor_2>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	Ahh..T..h..x	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Huh?	</stand>
+			<stand>	I miss sand..	</stand>
+			<stand>	I miss my Hode..	</stand>
+			<levelup>	Way to go Boss!!	</levelup>
+			<perfor_1>	Wahu ~~	</perfor_1>
+			<perfor_1>	Look at me ~	</perfor_1>
+			<perfor_2>	Growl!	</perfor_2>
+			<perfor_2>	Sky..Sky!	</perfor_2>
+		</noting>			
+					
+		<full>			
+			<feeding>	Im FULL, no more!	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Ah the sun so Hot!	</stand>
+			<stand>	Hey master..	</stand>
+			<stand>	*Clap *Clap kyaa ~	</stand>
+			<stand>	Hmm!!! What does this taste like?!	</stand>
+			<levelup>	You look strong Master!!	</levelup>
+			<perfor_1>	Woahh ~	</perfor_1>
+			<perfor_1>	Yahuu ~	</perfor_1>
+			<perfor_2>	Woahh!!	</perfor_2>
+			<perfor_2>	Sky !!</perfor_2>
+		</full>			
+					
+		<so_full>			
+			<feeding>	I am FULL, no more eating!	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Want to go to Morroc?	</stand>
+			<stand>	Hello Master..	</stand>
+			<stand>	The sun so bright today ~	</stand>
+			<stand>	Hmm!!! What does this taste like?!	</stand>
+			<levelup>	Be a little more cheeky!!	</levelup>
+			<perfor_1>	Look at me!	</perfor_1>
+			<perfor_1>	I'm so strong you know ~	</perfor_1>
+			<perfor_2>	Groooaahh!	</perfor_2>
+			<perfor_2>	Up to the Sky ~	</perfor_2>
+		</so_full>			
+					
+	</phreeoni>	
+	<DARK_PRIEST>				
+		<hungry>			
+			<feeding>	The darkness rises! Dark Lord will be pleased too.	</feeding>
+			<dead>	You got closer to Dark Lord...	</dead>
+			<stand>	Dark Lord will be pleased...	</stand>
+			<stand>	I will offer the power of eternal darkness to Lord.	</stand>
+			<stand>	A sacrifice is needed to bring about true death...	</stand>
+			<stand>	Dark Lord says he needs a sacrifice...	</stand>
+			<levelup>	How about offering a thanks to Dark Lord?	</levelup>
+		</hungry>			
+		<bit_hungry>			
+			<feeding>	Praise the Dark Lord!	</feeding>
+			<dead>	You got closer to Dark Lord...	</dead>
+			<stand>	Dark Lord will be pleased...	</stand>
+			<stand>	Psst.. Got time to talk about Darkness?	</stand>
+			<stand>	The sun so bright! Hate it!	</stand>
+			<stand>	Dark Lord says he needs a sacrifice...	</stand>
+			<levelup>	How about offering a thanks to Dark Lord?	</levelup>
+		</bit_hungry>			
+		<noting>			
+			<feeding>	A snack? Thank you	</feeding>
+			<dead>	You have entered the real world from a place of lies.	</dead>
+			<stand>	Obey Dark Lord. And i will Obey you, human.	</stand>
+			<stand>	The time of eternal darkness, ruled by the Lord, will come...	</stand>
+			<stand>	Only in the darkness will we find true eternal life...	</stand>
+			<stand>	Rejoice and worship! For the Dark Lord!	</stand>
+			<levelup>	heh... Thank you Lord...	</levelup>
+		</noting>			
+		<full>			
+			<feeding>	Rejoice. Lord will be pleased...	</feeding>
+			<dead>	You have entered the real world from a place of lies.	</dead>
+			<stand>	Obey Dark Lord. And i will Obey you, human.	</stand>
+			<stand>	The time of eternal darkness, ruled by the Dark Lord, will come...</stand>
+			<stand>	Only in the darkness will we find true eternal life...	</stand>
+			<stand>	Rejoice and worship! for the Dark lord!	</stand>
+			<levelup>	heh... Thank you Lord...	</levelup>
+		</full>			
+		<so_full>			
+			<feeding>	This is not the time for ceremonies... wait...	</feeding>
+			<dead>	You have entered the real world from a place of lies.	</dead>
+			<stand>	Obey Dark Lord. And i will Obey you, human.	</stand>
+			<stand>	The time of eternal darkness, ruled by the Dark Lord, will come...	</stand>
+			<stand>	Only in the darkness will we find true eternal life...	</stand>
+			<stand>	Rejoice and worship! for the lord!	</stand>
+			<levelup>	heh... Thank you Dark Lord...	</levelup>
+		</so_full>			
+	</DARK_PRIEST>
+	<ALIOT>
+		<hungry>
+			<feeding> Need more engine oil? </feeding>
+			<feeding> There's no problem with the parts turning.</feeding>
+			<feeding> Thank you so much.. </feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</hungry>
+		<bit_hungry>
+			<feeding> Need more engine oil? </feeding>
+			<feeding> There's no problem with the parts turning.</feeding>
+			<feeding> Thank you so much.. </feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</bit_hungry>
+		<noting>
+			<feeding> Need more engine oil? </feeding>
+			<feeding> There's no problem with the parts turning.</feeding>
+			<feeding> Thank you so much.. </feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</noting>
+		<full>
+			<feeding> Hey, you can stop! My fuel is full!</feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</full>
+		<so_full>
+			<feeding> Hey, it looks like the engine oil is overflowing!</feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</so_full>
+	</ALIOT>
 </monster_talk_table>

@@ -122,6 +122,58 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BL] = {Default = 143, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Skia_Two_Side_Up] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Demi_Freyja_Hair] = {Default = 153, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_LOVER_IN_MOUTH] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Spinning_Skulls] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_KID_DEVILING] = {Default = 304}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Sanctus] = {Default = 303, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Diving_Goggles] = {Default = 304, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Ocean_Color_Long] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_TV_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Electro_Two_Side_Up] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Snow_Rabbit_Wig] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Temari_Candy_Hair] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Jumbo_Rabbit] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_ROROGO] = {Default = 304, isIgnoreRiding = true}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

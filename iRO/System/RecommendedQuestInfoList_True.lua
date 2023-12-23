@@ -37,6 +37,14 @@ QuestInfo2 = {"Job Change Conditions", "Taekwon Master", "Lv. 99/JLv. 50"}
 QuestInfo3 = {"^ff0000¡Ø This page is not the actual Quest page but an introduction to it. It won\'t be deleted, even if you complete the quest.^000000"}
 }
 , 
+[84] = {Title = "4th Jobs Released!", IconName = "ico_jq.bmp", Summary = "A new age has begun!", BgName = "reco_84.bmp", 
+QuestInfo1 = {"Finally, the secrets of the 4th jobs have been revealed!", "The whole Midgard Continent is stirred up by the emergence of these new jobs. One by one, adventurers start taking up the challenge for different goals and intentions.\n\t\t\tGaining strength through the struggle and ordeal!\n\t\t\tAnd your story.", "\t\t\t<TIPBOX>¢º 4th Job Change Guide<INFO>9136</INFO></TIPBOX>"}
+, 
+QuestInfo2 = {"Targets: ^55bbeeTranscendent 3rd Job Characters^000000", "Base Level: ^ffaa66200^000000", "Job Level: ^ffaa6670^000000"}
+, 
+QuestInfo3 = {"^ff0000¡Ø This page is not the actual Quest page but an introduction for it. It won\'t be deleted, even if you complete the quest.^000000"}
+}
+, 
 [96] = {Title = "Episode 17.1 Illusion", IconName = "ico_ep.bmp", Summary = "A full- scale operation begins.", NpcSpr = "4_M_PHILOFONTES", NpcNavi = "pub_cat", NpcPosX = 93, NpcPosY = 105, BgName = "reco_96.bmp", 
 QuestInfo1 = {"The stage of the Episode is moved to Schwaltzvalt!", "A full-fledged joint operation begins with the Rebelion and the Secret Wings.", "Rebellion, which also established an operational base in Einbroch, will target secret research facilities found with information brought by Secret Wings..."}
 , 

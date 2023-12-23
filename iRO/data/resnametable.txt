@@ -2454,3 +2454,91 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 1@lost.gat#1@lost.gat#
 1@lost.rsw#1@lost.rsw#
 유저인터페이스\map\1@lost.bmp#유저인터페이스\map\1@lost.bmp#
+
+// 23_2Q UPDATE
+//4차 전직 마이스터
+1@4mst.gnd#1@4mst.gnd#
+1@4mst.gat#1@4mst.gat#
+1@4mst.rsw#1@4mst.rsw#
+유저인터페이스\map\1@4mst.bmp#유저인터페이스\map\1@4mst.bmp#
+
+// 4차 전직 쉐도우크로스 어비스체이서
+1@4sac.gnd#1@4sac.gnd#
+1@4sac.gat#1@4sac.gat#
+1@4sac.rsw#1@4sac.rsw#
+유저인터페이스\map\1@4sac.bmp#유저인터페이스\map\1@4sac.bmp#
+
+// 4차 전직 트루바두르 트루베르
+1@4tro.gnd#1@4tro.gnd#
+1@4tro.gat#1@4tro.gat#
+1@4tro.rsw#1@4tro.rsw#
+유저인터페이스\map\1@4tro.bmp#유저인터페이스\map\1@4tro.bmp#
+
+// 법계 전직MD : 마력의 샘
+1@4mag.gnd#1@4mag.gnd#
+1@4mag.gat#1@4mag.gat#
+1@4mag.rsw#1@4mag.rsw#
+유저인터페이스\map\1@4mag.bmp#유저인터페이스\map\1@4mag.bmp#
+
+// 윈드호크 전직전용MD : 루루카 깊은 숲
+1@4win.gnd#1@4win.gnd#
+1@4win.gat#1@4win.gat#
+1@4win.rsw#1@4win.rsw#
+유저인터페이스\map\1@4win.bmp#유저인터페이스\map\1@4win.bmp#
+
+//2020 4차 인퀴지터 전직
+1@4inq.gnd#1@4inq.gnd#
+1@4inq.gat#1@4inq.gat#
+1@4inq.rsw#1@4inq.rsw#
+유저인터페이스\map\1@4inq.bmp#유저인터페이스\map\1@4inq.bmp#
+
+//2020 4차 카디날 전직
+1@4cdn.gnd#1@4cdn.gnd#
+1@4cdn.gat#1@4cdn.gat#
+1@4cdn.rsw#1@4cdn.rsw#
+유저인터페이스\map\1@4cdn.bmp#유저인터페이스\map\1@4cdn.bmp#
+
+//2020 4차 임페리얼가드 전직
+1@4igd.gnd#1@4igd.gnd#
+1@4igd.gat#1@4igd.gat#
+1@4igd.rsw#1@4igd.rsw#
+유저인터페이스\map\1@4igd.bmp#유저인터페이스\map\1@4igd.bmp#
+
+//2020 4차 드래곤 전직
+1@4drk.gnd#1@4drk.gnd#
+1@4drk.gat#1@4drk.gat#
+1@4drk.rsw#1@4drk.rsw#
+유저인터페이스\map\1@4drk.bmp#유저인터페이스\map\1@4drk.bmp#
+
+//========2023 3Q UPDATE==================
+
+//20190227 글래스트헤임 도전모드
+1@gl_he.gnd#1@gl_he.gnd#
+1@gl_he.gat#1@gl_he.gat#
+1@gl_he.rsw#1@gl_he.rsw#
+유저인터페이스\map\1@gl_he.bmp#유저인터페이스\map\1@gl_he.bmp#
+
+// 게펜 야간 투기장
+1@ge_sn.gnd#1@ge_sn.gnd#
+1@ge_sn.gat#1@ge_sn.gat#
+1@ge_sn.rsw#1@ge_sn.rsw#
+유저인터페이스\map\1@ge_sn.bmp#유저인터페이스\map\1@ge_sn.bmp#
+
+//Edda Biolab - Expedition Path
+1@gol1.gnd#1@gol1.gnd#
+1@gol1.gat#1@gol1.gat#
+1@gol1.rsw#1@gol1.rsw#
+유저인터페이스\map\1@gol1.bmp#유저인터페이스\map\1@gol1.bmp#
+
+1@gol2.gnd#1@gol2.gnd#
+1@gol2.gat#1@gol2.gat#
+1@gol2.rsw#1@gol2.rsw#
+유저인터페이스\map\1@gol2.bmp#유저인터페이스\map\1@gol2.bmp#
+//=======================2023 3Q UPDATE end
+
+//2023 3Q Additional Update Fall of Glast Heim
+// EDDA 글래스트 헤임의 몰락
+1@gl_prq.gnd#1@gl_prq.gnd#
+1@gl_prq.gat#1@gl_prq.gat#
+1@gl_prq.rsw#1@gl_prq.rsw#
+유저인터페이스\map\1@gl_prq.bmp#유저인터페이스\map\1@gl_prq.bmp#

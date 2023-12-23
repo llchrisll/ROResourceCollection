@@ -3310,6 +3310,9 @@ EFFECT.EF_BLACK_BUBBLE2 = 1618
 -- DECOMPILER ERROR at PC4154: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_BLACK_BUBBLE3 = 1619
+-- DECOMPILER ERROR at PC4158: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_AMDARAIS_EFFECT = 1419
 tbl = {
 [2603] = {MonsterSize = 1.2, 
 MonsterEff = {EFFECT.EF_LEVEL150_SUB}
@@ -4847,6 +4850,54 @@ MonsterEff = {EFFECT.EF_RED_WAVE1, EFFECT.EF_RED_WAVE2}
 , 
 [20648] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[20573] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT}
+}
+, 
+[20813] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT}
+}
+, 
+[20846] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BOTTOM_EVILLAND}
+}
+, 
+[20847] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_MAP_MAGICZONE}
+}
+, 
+[20426] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_TORCH_PURPLE}
+}
+, 
+[20386] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_SPHEREWIND2}
+}
+, 
+[20387] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_SPHEREWIND2}
+}
+, 
+[20389] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_REDBODY}
+}
+, 
+[20391] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_REDBODY}
+}
+, 
+[20392] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_REFLECTBODY}
+}
+, 
+[20393] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_REFLECTBODY}
+}
+, 
+[20394] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_REFLECTBODY}
 }
 }
 main = function()

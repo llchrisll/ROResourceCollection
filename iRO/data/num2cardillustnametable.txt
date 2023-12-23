@@ -989,3 +989,69 @@
 300123#Pitaya_V_Card#
 300124#Pitaya_B_Card#
 300125#Pitaya_G_Card#
+
+// 23_2Q UPDATE
+300240#Gan_Ceann_Card#
+300241#Brutal_Murderer_Card#
+300242#Ghost_Cube_Card#
+300243#Lude_Gal_Card#
+300244#Disguiser_Card#
+300245#Bluemoon_Loli_Ruri_Card#
+300246#Grote_Card#
+300247#Pierrotzoist_Card#
+300248#Death_Witch_Card#
+300249#Giant_Caput_Card#
+300250#Dolorian_Card#
+300251#Plagarion_Card#
+300252#Deadre_Card#
+300253#Venedi_Card#
+300254#Amitera_Card#
+300255#Litus_Card#
+300256#Fillia_Card#
+300257#Vanilaqus_Card#
+300258#Lava_Eater_Card#
+300259#Fulgor_Card#
+300260#Napeo_Card#
+300261#Galensis_Card#
+300262#The_One_Card#
+300281#R001_Bestia_Card#
+
+//========2023 3Q UPDATE==================
+//고성 도전모드
+27381#C_Himel_Card#
+27382#C_CorruptionRoot_Card#
+27383#C_Amdarais_Card#
+27384#C_White_Knight_Card#
+27385#C_Khaliz_Knight_Card#
+27386#C_Raydric_Card#
+27387#C_Raydric_Archer_Card#
+27388#C_Cursed_Butler#
+
+//게펜 야간투기장 카드
+300177#MD_Geffen_Archi_Card#
+300178#MD_Geffen_Dio_Card#
+300179#MD_Geffen_Thief_Card#
+300180#MD_Geffen_Gang_Card#
+300181#MD_Geffen_Thug_Card#
+300182#MD_Geffen_Monk_Card#
+300183#MD_Geffen_Ordre_Card#
+300184#MD_Geffen_Blut_Card#
+300185#MD_Geffen_Akuma_Card#
+300186#MD_Geffen_Hyper_Card#
+300187#MD_Geffen_Odorico_Card#
+300188#MD_Geffen_Reche_Card#
+300189#MD_Geffen_Jew_Card#
+300190#MD_Geffen_Fei_Card#
+300191#MD_Geffen_Dy_Card#
+//=======================2023 3Q UPDATE end
+
+//일루전 오브 테디베어
+27286#알록달록곰인형카드#
+27287#빛나는곰인형카드#
+27288#노동형핏맨카드#
+27289#영혼의파편카드#
+27290#사념이깃든옵시디언카드#
+
+//2023 3Q Additional Update Fall of Glast Heim
+//글래스트헤임 에다 카드
+27329#Schmidt_Card#

@@ -287,3 +287,33 @@
 300116#
 300120#
 300121#
+
+// 23_2Q UPDATE
+300244#
+300245#
+300246#
+300247#
+300248#
+300251#
+300252#
+300254#
+300260#
+300261#
+300281#
+
+//========2023 3Q UPDATE==================
+//고성 도전 모드
+27381#
+27382#
+27383#
+//=======================2023 3Q UPDATE end
+
+//2023 3Q Additional Update Illusion of TeddyBear
+27287#
+27288#
+27290#
+//2023 3Q Additional Update Illusion of TeddyBear end
+
+//2023 3Q Additional Update Fall of Glast Heim
+//글래스트헤임 에다 카드
+27329#

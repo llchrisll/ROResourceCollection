@@ -1396,6 +1396,72 @@ TargetItems = {
 {"S_Brand_Shield", 24573}
 , 
 {"S_Brand_Shoes", 24574}
+, 
+{"S_AllRace_Shield", 24342}
+, 
+{"S_Arms_Earing", 24475}
+, 
+{"S_Arms_Pendant", 24474}
+, 
+{"S_Arms_Weapon", 24473}
+, 
+{"S_Huusouka_Earing", 24631}
+, 
+{"S_Huusouka_Pendant", 24632}
+, 
+{"S_Huusouka_Shoes", 24633}
+, 
+{"S_Adoramus_Weapon", 24491}
+, 
+{"S_Adoramus_Pendant", 24492}
+, 
+{"S_Adoramus_Earing", 24493}
+, 
+{"S_Blitz_Armor", 24344}
+, 
+{"S_Blitz_Weapon", 24343}
+, 
+{"S_Blitz_Shield", 24232}
+, 
+{"S_W_Breath_Armor", 24446}
+, 
+{"S_W_Breath_Shield", 24447}
+, 
+{"S_W_Breath_Shoes", 24448}
+, 
+{"S_Mega_Blitz_Shield", 24767}
+, 
+{"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_Metalic_Armor", 24506}
+, 
+{"S_Metalic_Shield", 24507}
+, 
+{"S_Metalic_Shoes", 24508}
+, 
+{"S_P_Power_Weapon", 24751}
+, 
+{"S_P_Power_Shield", 24752}
+, 
+{"S_M_Spell_Weapon", 24753}
+, 
+{"S_M_Spell_Shield", 24754}
+, 
+{"S_Concentration_Weapon", 24755}
+, 
+{"S_Concentration_Shield", 24756}
+, 
+{"S_Wisdom_Weapon", 24757}
+, 
+{"S_Wisdom_Shield", 24758}
+, 
+{"S_Stamina_Weapon", 24759}
+, 
+{"S_Stamina_Shield", 24760}
+, 
+{"S_Creative_Weapon", 24761}
+, 
+{"S_Creative_Shield", 24762}
 }
 , NeedSource_String = "+7 Shadow Equipment"}
 , 
@@ -2604,6 +2670,98 @@ TargetItems = {
 {"S_Syuriken_Pendant", 24626}
 , 
 {"S_Syuriken_Shoes", 24627}
+, 
+{"S_AllRace_Shield", 24342}
+, 
+{"S_Arms_Earing", 24475}
+, 
+{"S_Arms_Pendant", 24474}
+, 
+{"S_Arms_Weapon", 24473}
+, 
+{"S_Huusouka_Earing", 24631}
+, 
+{"S_Huusouka_Pendant", 24632}
+, 
+{"S_Huusouka_Shoes", 24633}
+, 
+{"S_Adoramus_Weapon", 24491}
+, 
+{"S_Adoramus_Pendant", 24492}
+, 
+{"S_Adoramus_Earing", 24493}
+, 
+{"S_Rampage_Armor", 24476}
+, 
+{"S_Rampage_Shield", 24477}
+, 
+{"S_Rampage_Shoes", 24478}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Blitz_Armor", 24344}
+, 
+{"S_Blitz_Weapon", 24343}
+, 
+{"S_Blitz_Shield", 24232}
+, 
+{"S_W_Breath_Armor", 24446}
+, 
+{"S_W_Breath_Shield", 24447}
+, 
+{"S_W_Breath_Shoes", 24448}
+, 
+{"S_Mega_Blitz_Shield", 24767}
+, 
+{"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_Metalic_Armor", 24506}
+, 
+{"S_Metalic_Shield", 24507}
+, 
+{"S_Metalic_Shoes", 24508}
+, 
+{"S_P_Power_Weapon", 24751}
+, 
+{"S_P_Power_Shield", 24752}
+, 
+{"S_M_Spell_Weapon", 24753}
+, 
+{"S_M_Spell_Shield", 24754}
+, 
+{"S_Concentration_Weapon", 24755}
+, 
+{"S_Concentration_Shield", 24756}
+, 
+{"S_Wisdom_Weapon", 24757}
+, 
+{"S_Wisdom_Shield", 24758}
+, 
+{"S_Stamina_Weapon", 24759}
+, 
+{"S_Stamina_Shield", 24760}
+, 
+{"S_Creative_Weapon", 24761}
+, 
+{"S_Creative_Shield", 24762}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -3504,6 +3662,98 @@ TargetItems = {
 {"S_Syuriken_Pendant", 24626}
 , 
 {"S_Syuriken_Shoes", 24627}
+, 
+{"S_AllRace_Shield", 24342}
+, 
+{"S_Arms_Earing", 24475}
+, 
+{"S_Arms_Pendant", 24474}
+, 
+{"S_Arms_Weapon", 24473}
+, 
+{"S_Huusouka_Earing", 24631}
+, 
+{"S_Huusouka_Pendant", 24632}
+, 
+{"S_Huusouka_Shoes", 24633}
+, 
+{"S_Adoramus_Weapon", 24491}
+, 
+{"S_Adoramus_Pendant", 24492}
+, 
+{"S_Adoramus_Earing", 24493}
+, 
+{"S_Rampage_Armor", 24476}
+, 
+{"S_Rampage_Shield", 24477}
+, 
+{"S_Rampage_Shoes", 24478}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Blitz_Armor", 24344}
+, 
+{"S_Blitz_Weapon", 24343}
+, 
+{"S_Blitz_Shield", 24232}
+, 
+{"S_W_Breath_Armor", 24446}
+, 
+{"S_W_Breath_Shield", 24447}
+, 
+{"S_W_Breath_Shoes", 24448}
+, 
+{"S_Mega_Blitz_Shield", 24767}
+, 
+{"S_Mega_Blitz_Weapon", 24768}
+, 
+{"S_Metalic_Armor", 24506}
+, 
+{"S_Metalic_Shield", 24507}
+, 
+{"S_Metalic_Shoes", 24508}
+, 
+{"S_P_Power_Weapon", 24751}
+, 
+{"S_P_Power_Shield", 24752}
+, 
+{"S_M_Spell_Weapon", 24753}
+, 
+{"S_M_Spell_Shield", 24754}
+, 
+{"S_Concentration_Weapon", 24755}
+, 
+{"S_Concentration_Shield", 24756}
+, 
+{"S_Wisdom_Weapon", 24757}
+, 
+{"S_Wisdom_Shield", 24758}
+, 
+{"S_Stamina_Weapon", 24759}
+, 
+{"S_Stamina_Shield", 24760}
+, 
+{"S_Creative_Weapon", 24761}
+, 
+{"S_Creative_Shield", 24762}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -4956,6 +5206,398 @@ TargetItems = {
 {"Deepblue_Sunglasses_", 410080}
 }
 , NeedSource_String = "Deepblue Sunglasses(1)"}
+, 
+Egir_Power_Box = {ItemID = 100466, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Egir_Helm_K", 19026}
+, 
+{"Egir_Armor_K", 15138}
+, 
+{"Egir_Shoes_K", 22059}
+, 
+{"Egir_Manteau_K", 20756}
+, 
+{"Egirnion_Helm", 400097}
+, 
+{"Egirnion_Armor", 450164}
+, 
+{"Egirnion_Manteau", 480083}
+, 
+{"Egirnion_Shoes", 470070}
+}
+, NeedSource_String = "Egir Power Box"}
+, 
+Egir_Magic_Box = {ItemID = 100467, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Egir_Helm_K", 19026}
+, 
+{"Egir_Armor_K", 15138}
+, 
+{"Egir_Shoes_K", 22059}
+, 
+{"Egir_Manteau_K", 20756}
+, 
+{"Egirnion_Helm", 400097}
+, 
+{"Egirnion_Armor", 450164}
+, 
+{"Egirnion_Manteau", 480083}
+, 
+{"Egirnion_Shoes", 470070}
+}
+, NeedSource_String = "Egir Magic Box"}
+, 
+Mammoth_Shadow_Up = {ItemID = 101264, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
+}
+, NeedSource_String = "Maximum Mammoth Shadows"}
+, 
+MD_Geffen_Rarmor = {ItemID = 100365, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Geffen_Suits", 450149}
+, 
+{"MD_Geffen_Robe", 450150}
+}
+, NeedSource_String = "Blazing Magical Jewel"}
+, 
+MD_Geffen_Rhood = {ItemID = 100366, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Geffen_Hood", 480065}
+, 
+{"MD_Geffen_Hood2", 480066}
+, 
+{"MD_Geffen_Hood3", 480067}
+, 
+{"MD_Geffen_Hood4", 480068}
+}
+, NeedSource_String = "Sunken Magical Jewel"}
+, 
+MD_Geffen_Racc = {ItemID = 100367, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Geffen_Ring", 490077}
+, 
+{"MD_Geffen_Ring2", 490078}
+}
+, NeedSource_String = "Growth Magical Jewel"}
+, 
+MD_Geffen_Rsheild = {ItemID = 100368, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Geffen_Shield", 460005}
+, 
+{"MD_Geffen_Shield2", 460006}
+}
+, NeedSource_String = "Shining Magical Jewel"}
+, 
+ILL_Piece_A = {ItemID = 100003, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Bazerald_IL", 28762}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Spectral_Spear_IL", 26007}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Hunter_Bow_IL", 18174}
+, 
+{"Tablet_IL", 28626}
+, 
+{"Gate_KeeperDD_IL", 28244}
+, 
+{"Counter_Dagger_IL", 28745}
+, 
+{"Survival_Staff_IL", 2051}
+, 
+{"Taegoolyeon_IL", 21050}
+}
+, NeedSource_String = "Lv.4 Illusion Weapon"}
+, 
+ILL_Piece_B = {ItemID = 100004, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Bazerald_IL", 28762}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Spectral_Spear_IL", 26007}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Hunter_Bow_IL", 18174}
+, 
+{"Tablet_IL", 28626}
+, 
+{"Gate_KeeperDD_IL", 28244}
+, 
+{"Counter_Dagger_IL", 28745}
+, 
+{"Survival_Staff_IL", 2051}
+, 
+{"Taegoolyeon_IL", 21050}
+}
+, NeedSource_String = "Lv.4 Illusion Weapon"}
+, 
+Frozen_Box_IL = {ItemID = 9785, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Cap_IL", 19223}
+, 
+{"Clack_Of_Servival_IL", 20847}
+, 
+{"Herald_Of_GOD_IL", 28922}
+}
+, NeedSource_String = "일루전 오브 프로즌 장비"}
+, 
+Moonlight_Box_IL = {ItemID = 100391, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Spectral_Spear_IL", 26007}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Muffler_IL", 20838}
+, 
+{"Shoes_IL", 22133}
+, 
+{"Nurse_Cap_IL", 19209}
+, 
+{"Puente_Robe_IL", 15195}
+, 
+{"Apple_Of_Archer_IL", 19210}
+}
+, NeedSource_String = "일루전 오브 문라이트 장비"}
+, 
+S_Moonlight_Box_IL = {ItemID = 100392, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Spectral_Spear_IL", 26007}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Muffler_IL", 20838}
+, 
+{"Shoes_IL", 22133}
+, 
+{"Nurse_Cap_IL", 19209}
+, 
+{"Puente_Robe_IL", 15195}
+, 
+{"Apple_Of_Archer_IL", 19210}
+}
+, NeedSource_String = "일루전 오브 문라이트 장비"}
+, 
+Vampire_Box_IL = {ItemID = 100414, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Ghoul_Leg_IL", 28023}
+, 
+{"Cape_Of_Ancient_Lord_IL", 20840}
+}
+, NeedSource_String = "일루전 오브 뱀파이어 장비"}
+, 
+S_Vampire_Box_IL = {ItemID = 100415, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Ghoul_Leg_IL", 28023}
+, 
+{"Cape_Of_Ancient_Lord_IL", 20840}
+}
+, NeedSource_String = "일루전 오브 뱀파이어 장비"}
+, 
+S_Frozen_Box_IL = {ItemID = 100416, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Cap_IL", 19223}
+, 
+{"Clack_Of_Servival_IL", 20847}
+, 
+{"Herald_Of_GOD_IL", 28922}
+}
+, NeedSource_String = "일루전 오브 프로즌 장비"}
+, 
+Turtle_Is_Box_IL = {ItemID = 100417, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Fancy_Flower_IL", 19247}
+}
+, NeedSource_String = "일루전 오브 터틀아일랜드 장비"}
+, 
+S_Turtle_Is_Box_IL = {ItemID = 100418, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Fancy_Flower_IL", 19247}
+}
+, NeedSource_String = "일루전 오브 터틀아일랜드 장비"}
+, 
+Teddy_Bear_Box_IL = {ItemID = 100419, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Survival_Staff_IL", 2051}
+, 
+{"Gate_KeeperDD_IL", 28244}
+, 
+{"Counter_Dagger_IL", 28745}
+, 
+{"Headband_Of_Power_IL", 19344}
+, 
+{"Boots_IL", 22190}
+}
+, NeedSource_String = "일루전 오브 테디베어 장비"}
+, 
+S_Teddy_Bear_Box_IL = {ItemID = 100420, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Survival_Staff_IL", 2051}
+, 
+{"Gate_KeeperDD_IL", 28244}
+, 
+{"Counter_Dagger_IL", 28745}
+, 
+{"Headband_Of_Power_IL", 19344}
+, 
+{"Boots_IL", 22190}
+}
+, NeedSource_String = "일루전 오브 테디베어 장비"}
+, 
+M_Blitz_Shadow_Up = {ItemID = 101261, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_Mega_Blitz_Shield", 24767}
+, 
+{"S_Mega_Blitz_Weapon", 24768}
+}
+, NeedSource_String = "Mega Blitz Shadows"}
+, 
+Ex_Status_Shadow_Up = {ItemID = 101180, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_P_Power_Weapon", 24751}
+, 
+{"S_P_Power_Shield", 24752}
+, 
+{"S_M_Spell_Weapon", 24753}
+, 
+{"S_M_Spell_Shield", 24754}
+, 
+{"S_Concentration_Weapon", 24755}
+, 
+{"S_Concentration_Shield", 24756}
+, 
+{"S_Wisdom_Weapon", 24757}
+, 
+{"S_Wisdom_Shield", 24758}
+, 
+{"S_Stamina_Weapon", 24759}
+, 
+{"S_Stamina_Shield", 24760}
+, 
+{"S_Creative_Weapon", 24761}
+, 
+{"S_Creative_Shield", 24762}
+}
+, NeedSource_String = "Talent Status Shadows"}
 }
 , serverMain = function()
   -- function num : 0_0

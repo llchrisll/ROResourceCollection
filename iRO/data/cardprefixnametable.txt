@@ -894,3 +894,71 @@
 300123#Shapeless#
 300124#Water Magical#
 300125#of Summoner#
+
+// 23_2Q UPDATE
+300250#Demon Slayer#
+300254#of high Mars#
+300255#Gale#
+300244#of Spiral#
+300245#of Fast Heal#
+300246#of Gigantic Magic Immune#
+300247#of Ghost Killer#
+300248#of Death Witch#
+300249#Formless Destroyer's#
+300259#Earthquake#
+300260#of High Intelligence#
+300261#of High Lucky#
+300262#Undead Dragon Hunter's#
+300281#of Water Bug#
+300251#of High Immortal#
+300252#of High Holy Power#
+300253#Venomous#
+300240#Fatal Heavy#
+300241#Fatal Boned#
+300242#Shrewd#
+300243#Strong Patient#
+300256#Hellfire#
+300257#Torrent#
+300258#Deep Darkness#
+
+//========2023 3Q UPDATE==================
+//고성 도전모드
+27381#of Fallen Angel#
+27382#of Creep#
+27383#of Relax#
+27384#Magical Knightage#
+27385#Magical Knightage#
+27386#Exorcist's#
+27387#Undead Slayer's#
+27388#Strong Recovery#
+
+//게펜야간투기장 카드
+300177#Midnight Arhi#
+300178#Midnight Anemos#
+300180#Midnight Gangster#
+300181#Midnight Bully#
+300179#Midnight Shoplifter#
+300182#Midnight Faymont#
+300183#Midnight Ordre#
+300184#Midnight Hase#
+300185#Midnight Akuma#
+300186#Midnight Ifodes#
+300188#Midnight Licheniyes#
+300187#Midnight Odoric#
+300189#Midnight Ju#
+300191#Midnight Dy#
+300190#Midnight Kanavian#
+
+//=======================2023 3Q UPDATE end
+
+//2023 3Q Additional Update Illusion of TeddyBear
+27286#Lumping#
+27287#of Luminant#
+27288#of Worker#
+27289#Proper#
+27290#of Obsidian#
+//2023 3Q Additional Update Illusion of TeddyBear end
+
+//2023 3Q Additional Update Fall of Glast Heim
+//글래스트헤임 에다 카드
+27329#of Schmidt#

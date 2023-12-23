@@ -16273,38 +16273,6 @@ Description = {"You\'ve heard the final song from Nosdan. Time to go back and si
 Description = {"The Secret Service have taken Vitre away for Espionage. You should probably go back to Lasda and let him know what happened to Vitre."}
 , Summary = "Lasda Midar"}
 , 
-[18060] = {Title = "Missing boy Mikhail", 
-Description = {"You have agreed to find the Gallina\'s timid son Mikhail. He couldn\'t have gone far, search around and see if he is hiding somewhere."}
-, Summary = ""}
-, 
-[18061] = {Title = "Mikhail\'s Whereabouts", 
-Description = {"Your only clue is to go to the ^3131FFInn \'Sticky Herb Tree\'^000000. You might be able to find out something about Mikahil there."}
-, Summary = "Inn \'Sticky Herb Tree\'"}
-, 
-[18062] = {Title = "Missing boy Mikhail", 
-Description = {"The Landlord said that you should speak to the Pub Owner as he was the last person to speak to Mikhail."}
-, Summary = "Pub Owner"}
-, 
-[18063] = {Title = "The isolated swamp", 
-Description = {"You find out from Victor that he told Mikhail of an isolated swamp on a nearby island. Mikhail is not likely to be there but you have to check just in case."}
-, Summary = "Find the swamp."}
-, 
-[18064] = {Title = "Back to the Village", 
-Description = {"You found no traces of Mikhail at the swamp. You\'ve decided to check the village for any signs of him."}
-, Summary = "Moscovia Village"}
-, 
-[18065] = {Title = "High-strength Adhesive", 
-Description = {"You\'ve promised Mikhail that you will make the paste for him. Talk to Victor to find out what materials you need to make the paste."}
-, Summary = "Victor"}
-, 
-[18066] = {Title = "Back to the swamp", 
-Description = {"Victor said that you need to go back to the swamp on the island near Moscovia and bring back the ingredients for the paste. Search the swamp until you get all 10 sticky herbs."}
-, Summary = "10 sticky herbs and 1 medicine bowl"}
-, 
-[18067] = {Title = "Make the paste", 
-Description = {"You have the 10 sticky herbs for the paste. If you also have 1 medicine bowl you should bring them back to Victor so that he can make it for you."}
-, Summary = "Victor"}
-, 
 [18068] = {Title = "Fixing the Matrushka", 
 Description = {"Victor has created the paste for you. Bring it to Mikhail so that he can fix the broken Matrushka."}
 , Summary = "Mikhail"}
@@ -16312,38 +16280,6 @@ Description = {"Victor has created the paste for you. Bring it to Mikhail so tha
 [18069] = {Title = "Report to Gallina", 
 Description = {"Tell Gallina that her son Mikhail is safe and sound."}
 , Summary = "Gallina"}
-, 
-[18070] = {Title = "Banishing Winter", 
-Description = {"You decide to help Baba Yaga make her spell to banish winter."}
-, Summary = "Baba Yaga, the Horrible"}
-, 
-[18071] = {Title = "Making the magic dust", 
-Description = {"Baba Yaga asked you to bring back the following: ^ff000020 Grasshopper\'s Legs, 5 Spawn, 20 Wings of Red Bat, 10 Sticky Mucus, 10 Witch Starsand, 10 Fine Grit, 1 Detonator, 5 Red Blood, 10 Burning Hearts, and 1 Diamond.^000000"}
-, Summary = ""}
-, 
-[18072] = {Title = "Making the magic dust", 
-Description = {"Baba Yaga asked you to bring back the following: ^ff000020 Grasshopper\'s Legs, 5 Spawn, 20 Wings of Red Bat, 10 Witch Starsand, 10 Fine Grit, 1 Detonator, 5 Red Blood, 10 Burning Hearts, and 1 Diamond.^000000"}
-, Summary = ""}
-, 
-[18073] = {Title = "The Dragon\'s Lair", 
-Description = {"Now that you have the ingredients for the magic dust, Baba Yaga has asked you to find a magic gourd bottle from the lair of a sleeping dragon."}
-, Summary = "Magic Gourd Bottle"}
-, 
-[18074] = {Title = "The Magic Gourd Bottle", 
-Description = {"You found the Magic Gourd Bottle! Bring it back to Baba Yaga the Horrible."}
-, Summary = "Baba Yaga, the Horrible"}
-, 
-[18075] = {Title = "Containing People\'s Speech", 
-Description = {"You must find and contain the voices of 3 people. From a child, a young person and a middle-aged person. You need to contain the wish phrase, \"I don\'t want winter to come,\" from the 3 different people."}
-, Summary = ""}
-, 
-[18076] = {Title = "Containing People\'s Speech", 
-Description = {"You have contained the speech of a child, a young person and a middle-aged person. Bring the Magic Gourd Bottle back to Baba Yaga, the Horrible."}
-, Summary = "Baba Yaga, the Horrible"}
-, 
-[18077] = {Title = "Csar\'s Request", 
-Description = {"The Csar has requested you to help Baba Yaga complete her spell to make sure that winter does not return."}
-, Summary = "Baba Yaga\'s Hut"}
 , 
 [18078] = {Title = "Baba Yaga\'s Secret Medicine", 
 Description = {"You have successfully made Baba Yaga\'s Secret Medicine. Drop the bottle in the middle of the village to make sure that winter does not come back."}
@@ -28869,7 +28805,7 @@ Description = {"Let\'s search the garden after sunset to pressure Illusion. Hunt
 , 
 [18018] = {Title = "To the Airship Depot", IconName = "ico_ep.bmp", 
 Description = {"Perhaps we can get some information out of Sweetie. Let\'s go to the airship depot."}
-, Summary = "Talk to Smart Elly"}
+, Summary = "Talk to Alpha"}
 , 
 [18019] = {Title = "Talk to Sweetie", IconName = "ico_ep.bmp", 
 Description = {"Almond fixed Sweetie at the airship depot. She told me to talk to him as he woke up."}
@@ -28990,6 +28926,666 @@ Description = {"As long as Sweets Drops exists in the world, the fight against t
 [3334] = {Title = "Sweet Drops Punishment-waiting today", 
 Description = {"After the waiting period ends, you can repeat the event quest through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
 , Summary = "Initialization at 04:00"}
+, 
+[17499] = {Title = "4th job change notification email sent", IconName = "ico_jq.bmp", 
+Description = {"We have sent a change guide email to those who are eligible for the 4th job change."}
+, Summary = "Shipped"}
+, 
+[8639] = {Title = "Banquet Hall in the Depths of the Netherworld", 
+Description = {"The retired scholar, Garim, wants to know if the dead are really holding a banquet in the depths of Nifflheim. I\'ve never heard of this before. I should go to <NAVI>[Nifflheim]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> and look for someone who knows."}
+, Summary = "Listen to the news in Nifflheim"}
+, 
+[8640] = {Title = "Everyone\'s Drunk, Dead or Alive", IconName = "ico_dq.bmp", 
+Description = {"I should report to <NAVI>[Garim]<INFO>moc_para01,14,19,0,101,0</INFO></NAVI> with what I\'ve heard and seen in Nifflheim. Aside from this, I can report to Milla for her requests on a daily basis."}
+, Summary = "Report to Garim"}
+, 
+[8641] = {Title = "Deceptively Cute Looks", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to beat up 15 Ghost Quves and 15 Lude Gals and send them home, so she can sleep."}
+, Summary = "Hunt the selected monsters"}
+, 
+[8642] = {Title = "Deceptively Cute Looks - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it from <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[8643] = {Title = "Not Really Cute", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to beat up 15 Ghost Quves and 15 Lude Gals and send them home, so she can sleep."}
+, Summary = "Hunt the selected monsters"}
+, 
+[8644] = {Title = "Not a Musical Instrument", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to beat up 10 Brutal Murderers and 10 Gan Ceanns and send them home, so she can sleep."}
+, Summary = "Hunt the selected monsters"}
+, 
+[8645] = {Title = "Not a Musical Instrument - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it from <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[8646] = {Title = "I Said, Not a Musical Instrument!", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to beat up 10 Brutal Murderers and 10 Gan Ceanns and send them home, so she can sleep."}
+, Summary = "Hunt the selected monsters"}
+, 
+[8647] = {Title = "Piano Play", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to play the grand piano in the middle of the Banquet Hall of the Dead. But wouldn\'t that be noisy?"}
+, Summary = "Play the piano in the Banquet Hall of the Dead"}
+, 
+[8648] = {Title = "Piano Play - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it from <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[8649] = {Title = "That Was Great Performance", IconName = "ico_dq.bmp", 
+Description = {"I played the piano just as <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> asked. She should have heard me, but I should go let her know."}
+, Summary = "Report to Milla"}
+, 
+[8650] = {Title = "Those with Unkempt Hair", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to beat up 15 Disguisers and 15 Blue Moon Loli Ruris and send them home, so she can sleep."}
+, Summary = "Hunt the selected monsters"}
+, 
+[8651] = {Title = "Those with Unkempt Hair - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it from <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[8652] = {Title = "Those with Bushy Hair", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to beat up 15 Disguisers and 15 Blue Moon Loli Ruris and send them home, so she can sleep."}
+, Summary = "Hunt the selected monsters"}
+, 
+[8653] = {Title = "Those with Dolls", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to beat up 10 Grotes and 10 Pierrotzoists and send them home, so she can sleep."}
+, Summary = "Hunt the selected monsters"}
+, 
+[8654] = {Title = "Those with Dolls - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it from <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[8655] = {Title = "You Know, Those with Dolls", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to beat up 10 Grotes and 10 Pierrotzoists and send them home, so she can sleep."}
+, Summary = "Hunt the selected monsters"}
+, 
+[8656] = {Title = "Wake Them Up", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> wants me to wake up two snoring ghosts in the picture frames in the Collapsed Opera House by twisting their noses. Can I even touch their noses? Picture frames are <NAVI>[here]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI> and <NAVI>[there]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to the Picture Frames in the Opera House"}
+, 
+[8657] = {Title = "Wake Them Up - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it from <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[8658] = {Title = "I\'m Sorry I Dozed (1)", IconName = "ico_dq.bmp", 
+Description = {"I woke up a picture frame ghost at <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>\'s request. I should wake up both ghosts, and then go back to her."}
+, Summary = ""}
+, 
+[8659] = {Title = "I\'m Sorry I Dozed (2)", IconName = "ico_dq.bmp", 
+Description = {"I woke up a picture frame ghost at <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>\'s request. I should wake up both ghosts, and then go back to her."}
+, Summary = ""}
+, 
+[16521] = {Title = "Laboratory Waste Disposal Plant Rudus Floor 4", IconName = "ico_dq.bmp", 
+Description = {"Julma told me about Laboratory Waste Disposal Plant Rudus Floor 4. I should go to <NAVI>[Paian]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> and take a look at the place."}
+, Summary = "Talk to Paian"}
+, 
+[16522] = {Title = "Laboratory Waste Disposal Plant Rudus Floor 4", IconName = "ico_dq.bmp", 
+Description = {"I talked to Paian and explored Rudus Floor 4. I should return to <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Julma"}
+, 
+[16523] = {Title = "Abyssal Solitude - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI> in Einbroch."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[16524] = {Title = "Abyssal Solitude", IconName = "ico_dq.bmp", 
+Description = {"I should hunt 10 Dolorians, 10 Plagarions, and 10 Deadres, and then return to <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI> for report."}
+, Summary = ""}
+, 
+[16525] = {Title = "Modification and Development - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI> in Einbroch."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[16526] = {Title = "Modification and Development", IconName = "ico_dq.bmp", 
+Description = {"I should hunt 15 Giant Kaputs and 15 Venedis, and then return to <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI> for report."}
+, Summary = ""}
+, 
+[16527] = {Title = "Data Backup - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI> in Einbroch."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[16528] = {Title = "Data Backup", IconName = "ico_dq.bmp", 
+Description = {"I need to maintain my chip every day. I should go to the Secret Wing <NAVI>[Researcher]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to the Researcher"}
+, 
+[16529] = {Title = "Abandoned Lab Amicitia", IconName = "ico_dq.bmp", 
+Description = {"I\'ve collected information about Amicitia, the abandoned lab, from the Rebellion members in the Cat on a Bullet."}
+, Summary = ""}
+, 
+[16530] = {Title = "Earth and Fire - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI> in Einbroch."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[16531] = {Title = "Earth and Fire", IconName = "ico_dq.bmp", 
+Description = {"I should hunt the mutant chimeras, Amitias and Fillias, 15 each, and then report to the Rebellion\'s <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[16532] = {Title = "Water and Wind - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI> in Einbroch."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[16533] = {Title = "Water and Wind", IconName = "ico_dq.bmp", 
+Description = {"I should hunt the mutant chimeras, Lituses and Vanilaquses, 15 each, and then report to the Rebellion\'s <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[16534] = {Title = "Werner\'s Traces - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI> in Einbroch."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[16535] = {Title = "Werner\'s Traces", IconName = "ico_dq.bmp", 
+Description = {"Find Werner\'s traces on Abandoned Lab Amicitia Floor 1, and then bring them to the Rebellion\'s <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ansuria"}
+, 
+[16536] = {Title = "Imitation and Authenticity - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Gerbena]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI> in Einbroch."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[16537] = {Title = "Imitation and Authenticity", IconName = "ico_dq.bmp", 
+Description = {"I should hunt the mutant chimeras, Napeoes and Galensises, 15 each, and then report to the Rebellion\'s <NAVI>[Gerbena]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[16538] = {Title = "Natural Change - Pending", IconName = "ico_dq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Gerbena]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI> in Einbroch."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
+, 
+[16539] = {Title = "Natural Change", IconName = "ico_dq.bmp", 
+Description = {"I should hunt the mutant chimeras, Lava Eaters and Fulgors, 15 each, and then report to the Rebellion\'s <NAVI>[Gerbena]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[16540] = {Title = "Data Backup", IconName = "ico_dq.bmp", 
+Description = {"I maintained my chip for the day. I should return to <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Julma"}
+, 
+[16541] = {Title = "Werner\'s Traces", IconName = "ico_dq.bmp", 
+Description = {"I\'ve found Werner\'s traces. I should return to <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ansuria"}
+, 
+[16542] = {Title = "Werner\'s Traces", IconName = "ico_dq.bmp", 
+Description = {"I\'ve found Werner\'s traces. I should return to <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ansuria"}
+, 
+[16543] = {Title = "Werner\'s Traces", IconName = "ico_dq.bmp", 
+Description = {"I\'ve found Werner\'s traces. I should return to <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ansuria"}
+, 
+[16544] = {Title = "Werner\'s Traces", IconName = "ico_dq.bmp", 
+Description = {"I\'ve found Werner\'s traces. I should return to <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ansuria"}
+, 
+[16545] = {Title = "Werner\'s Traces", IconName = "ico_dq.bmp", 
+Description = {"I\'ve found Werner\'s traces. I should return to <NAVI>[Ansuria]<INFO>pub_cat,86,33,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ansuria"}
+, 
+[12508] = {Title = "Apply for the Dragon\'s Test", IconName = "ico_jq.bmp", 
+Description = {"^FF0000\'\'Are you really the Dragon Knight candidate?\'\'^FF0000", "The space-time dinosaur in front of you doesn\'t seem to believe it, but who else is more qualified to become a ^ff0000Dragon Knight^000000 than you? Apply for the test and prove it to it."}
+, Summary = "Become a dragon\'s companion"}
+, 
+[12509] = {Title = "Cool Your Head", IconName = "ico_jq.bmp", 
+Description = {"My head hurts from concentrating so much. I\'d better take a break for now."}
+, Summary = "Rest for 30 min."}
+, 
+[8624] = {Title = "Path to Becoming a Meister (1)", IconName = "ico_jq.bmp", 
+Description = {"A couple of senior Mechanics told me a famous <NAVI>[Meister]<INFO>verus04,214,251,0,101,0</INFO></NAVI> had set up shop somewhere in Verus."}
+, Summary = ""}
+, 
+[8625] = {Title = "What Can a Meister Do?", IconName = "ico_jq.bmp", 
+Description = {"Maura, whom I met through Mist, is stiffer than I thought."}
+, Summary = "Talk to Maura"}
+, 
+[8626] = {Title = "Path to Becoming a Meister (2)", IconName = "ico_jq.bmp", 
+Description = {"When I think about the meaning of the mana engine to us Mechanics and Meisters, I can\'t help but remember what happened to Frankelson. It\'s no more than a tool. It must not be a goal."}
+, Summary = "Talk to Maura"}
+, 
+[8627] = {Title = "Back to Juperos", IconName = "ico_jq.bmp", 
+Description = {"Maura also met Frankelson. Maura wants me to go back to Juperos and meet Naoise Lian, one of her competitors during her Mechanic days. Instead of going in there physically..."}
+, Summary = "Connect to the terminal through a Madogear"}
+, 
+[8628] = {Title = "Path to Becoming a Meister (3)", IconName = "ico_jq.bmp", 
+Description = {"I\'ve used my Madogear and established a virtual terminal connected to Juperos Core. I should follow Maura Dash\'s instructions to complete my task."}
+, Summary = "Clear Juperos Core VT"}
+, 
+[8629] = {Title = "Path to Becoming a Meister (4)", IconName = "ico_jq.bmp", 
+Description = {"I\'ve completed my task. I should report back to <NAVI>[Maura]<INFO>verus04,214,251,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Maura"}
+, 
+[8604] = {Title = "Verus Landscaping Department\'s Request", IconName = "ico_jq.bmp", 
+Description = {"Aldina at the Landscaping Department asked me to search the <NAVI>[dump site]<INFO>verus04,28,115,0,101,0</INFO></NAVI> for the illegally dumped source of stench."}
+, Summary = "Confirm the source of stench"}
+, 
+[8605] = {Title = "Source of Stench", IconName = "ico_jq.bmp", 
+Description = {"To address the problem at Verus\'s <NAVI>[dump site]<INFO>verus04,28,115,0,101,0</INFO></NAVI>, I need 20 <ITEM>[Black Cloths]<INFO>7205</INFO></ITEM> ,1 <ITEM>[Needle Packet]<INFO>7213</INFO></ITEM> ,10 <ITEM>[Black_Charcoal]<INFO>6251</INFO></ITEM>.", "I saw the <NAVI>[Alchemist Job Change Center]<INFO>alde_alche,38,184,0,101,0</INFO></NAVI> selling Black Charcoals."}
+, Summary = "To Verus with the required materials"}
+, 
+[8606] = {Title = "Search the Dump Site", IconName = "ico_jq.bmp", 
+Description = {"As a highly technical adventurer, I\'m doing the public a service by searching a <NAVI>[dump site]<INFO>verus04,28,115,0,101,0</INFO></NAVI> like this."}
+, Summary = "Investigate the Verus\'s dump site"}
+, 
+[8607] = {Title = "Report to Aldina", IconName = "ico_jq.bmp", 
+Description = {"I used my professional skills and knowledge to address the problem in Verus. I should report back to <NAVI>[Aldina]<INFO>verus04,157,165,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Aldina"}
+, 
+[8608] = {Title = "Aldina\'s New Request (1)", IconName = "ico_jq.bmp", 
+Description = {"Aldina frowned at the box, and then started creating a document to fulfill her duty as a governmental official."}
+, Summary = "Talk to Aldina"}
+, 
+[8609] = {Title = "Aldina\'s New Request (2)", IconName = "ico_jq.bmp", 
+Description = {"Aldina thrust the fine notice into my pocket and asked me to collect the illegal dumping fine from the Biolo who did it. I should go to his <NAVI>[lab]<INFO>verus04,53,263,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Gregor"}
+, 
+[8610] = {Title = "Illegal Dumping Suspect", IconName = "ico_jq.bmp", 
+Description = {"A masked Biolo is standing alone in the ruined room in the house without a doorplate."}
+, Summary = "Talk to Gregor"}
+, 
+[8611] = {Title = "Gregor\'s Question", IconName = "ico_jq.bmp", 
+Description = {"A promotion test for an excellent Geneticist."}
+, Summary = "The answer already exists. All you have to do is say it."}
+, 
+[8612] = {Title = "Mandragora Incubator (1)", IconName = "ico_jq.bmp", 
+Description = {"In the end, I\'ll have to revive that stinky thing."}
+, Summary = "Talk to Gregor"}
+, 
+[8613] = {Title = "Plant Design", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 1 <ITEM>[Dead Branch]<INFO>604</INFO></ITEM>, 10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM>, 10 <ITEM>[Coral Reef]<INFO>7013</INFO></ITEM> , 10 <ITEM>[Beautiful Flower]<INFO>6511</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."}
+, Summary = "Collect required materials and perform your task"}
+, 
+[8614] = {Title = "Plant Design", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 10 <ITEM>[Elder Twigs]<INFO>7939</INFO></ITEM> , 10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM> , 10 <ITEM>[Coral Reef]<INFO>7013</INFO></ITEM> , 1 <ITEM>[Mysterious Flower]<INFO>6509</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."}
+, Summary = "Collect required materials and perform your task"}
+, 
+[8615] = {Title = "Plant Design", IconName = "ico_jq.bmp", 
+Description = {"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 10 <ITEM>[Shoots]<INFO>711</INFO></ITEM>,  10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM>, 10 <ITEM>[Coral Reef]<INFO>7013</INFO></ITEM>, 10 <ITEM>[Elegant Flower]<INFO>6510</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."}
+, Summary = "Collect required materials and perform your task"}
+, 
+[8616] = {Title = "Answers in Book 1", 
+Description = {"I finished reading a dusty book."}
+, Summary = ""}
+, 
+[8617] = {Title = "Answers in Book 2", 
+Description = {"I finished reading a dusty book."}
+, Summary = ""}
+, 
+[8618] = {Title = "Answers in Book 3", 
+Description = {"I finished reading a dusty book."}
+, Summary = ""}
+, 
+[8619] = {Title = "Answers in Book 4", 
+Description = {"I finished reading a dusty book."}
+, Summary = ""}
+, 
+[8620] = {Title = "Answers in Book 5", 
+Description = {"I finished reading a dusty book."}
+, Summary = ""}
+, 
+[8621] = {Title = "Boundaries", IconName = "ico_jq.bmp", 
+Description = {"Create a flask with invisible boundaries, whose exterior is identical to its interior. This is just a basic tool I need to expand my mind. I know from intuition that I can create it based on my experience."}
+, Summary = "Create a design on the desk"}
+, 
+[8622] = {Title = "Mandragora Incubator (2)", IconName = "ico_jq.bmp", 
+Description = {"I should report back to <NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Gregor"}
+, 
+[8623] = {Title = "Reunion with Aldina", 
+Description = {"Aldina congratulated (?) me on becoming a Biolo."}
+, Summary = ""}
+, 
+[18059] = {Title = "Shadow\'s Call", IconName = "ico_jq.bmp", 
+Description = {"Rumin, whom I met in the Assassin Guild\'s Veins branch, said I should go meet Verkhasel at the safehouse on the east side of Veins. The Guild needs me for some operation. To prove my skills, I have to find this place on my own."}
+, Summary = "Talk to Verkhasel"}
+, 
+[18060] = {Title = "For Shadow Crosses 1", IconName = "ico_jq.bmp", 
+Description = {"Verkhasel asked me to investigate the Shadow Phenomenon <NAVI>[near the dock]<INFO>ve_fild07,99,141,0,101,0</INFO></NAVI> on the southern coast of Veins. There\'s a clue as to becoming a Shadow Cross."}
+, Summary = "Look for the Shadow"}
+, 
+[18061] = {Title = "For Shadow Crosses 2", IconName = "ico_jq.bmp", 
+Description = {"I should find Tori in Veins and ask him about the Shadow Phenomenon. If I don\'t see him, I can shout out his name <NAVI>[here]<INFO>veins,87,158,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Tori"}
+, 
+[18062] = {Title = "For Shadow Crosses 3", IconName = "ico_jq.bmp", 
+Description = {"I should check the containers <NAVI>[near the dock]<INFO>ve_fild07,99,141,0,101,0</INFO></NAVI> again. Perhaps Noir might respond to me this time."}
+, Summary = "Talk to Noir"}
+, 
+[18063] = {Title = "For Shadow Crosses 4", IconName = "ico_jq.bmp", 
+Description = {"I\'ve verified the information. I should report back to <NAVI>[Verkhasel]<INFO>ve_in,212,384,0,101,0</INFO></NAVI> in the safehouse."}
+, Summary = "Talk to Verkhasel"}
+, 
+[18064] = {Title = "For Shadow Crosses 5", IconName = "ico_jq.bmp", 
+Description = {"I should bring 5 <ITEM>Crystals of Darkness<INFO>7799</INFO></ITEM> ,20 <ITEM>Dark Piece<INFO>6089</INFO></ITEM> to Verkhasel in this <NAVI>[location]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>. I can collect Crystals of Darkness from Incarnations of Morroc and Dark Pieces in Rudus."}
+, Summary = "Talk to Verkhasel"}
+, 
+[18065] = {Title = "For Shadow Crosses 6", IconName = "ico_jq.bmp", 
+Description = {"I should enter the Shadowy Mansion with <NAVI>[Verkhasel]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI> and use the Crystals of Darkness and Dark Pieces I have to summon the Dark Elemental."}
+, Summary = "Summon the Dark Elemental"}
+, 
+[18066] = {Title = "For Shadow Crosses 7", IconName = "ico_jq.bmp", 
+Description = {"I should pass the Dark Elemental\'s test. If I fail, I can reenter the Shadowy Mansion through <NAVI>[Verkhasel]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI> on the Veins Field."}
+, Summary = ""}
+, 
+[18067] = {Title = "For Shadow Crosses 8", IconName = "ico_jq.bmp", 
+Description = {"I should get ready to become a Shadow Cross, and then talk to the Dark Elemental again."}
+, Summary = "Talk to the Dark Elemental"}
+, 
+[11668] = {Title = "Arch Mage Job Change", IconName = "ico_jq.bmp", 
+Description = {"Master Egnoloria, whom I met for my Warlock job change, is getting ready for her Deep Sleep, and the fairies have a few things to do before she falls asleep. I should follow them and meet Egnoloria."}
+, Summary = "Check Strange Plant"}
+, 
+[11669] = {Title = "Arch Mage Job Change", IconName = "ico_jq.bmp", 
+Description = {"Egnoloria\'s assistant, Yoop, disappeared during our conversation. I should join Maggie to ^ff0000hunt 10 monsters and get 1 Burning Heart on the 3rd floor of the Thor Volcano Dungeon^000000."}
+, Summary = "A Burning Heart to Maggie"}
+, 
+[11670] = {Title = "Arch Mage Job Change", IconName = "ico_jq.bmp", 
+Description = {"Our second challenge: ^ff0000Hunt 10 monsters and get 1 Mermaid\'s Heart in the Barmund Mansion\'s Bathhouse^000000."}
+, Summary = "A Mermaid\'s Heart to Maggie"}
+, 
+[11671] = {Title = "Arch Mage Job Change", IconName = "ico_jq.bmp", 
+Description = {"Our third challenge: ^ff0000Collect 1 Shining Plant for 1 Yggdrasil Seed^000000."}
+, Summary = "A Yggdrasil Seed to Maggie"}
+, 
+[11672] = {Title = "Arch Mage Job Change", IconName = "ico_jq.bmp", 
+Description = {"After checking our materials, Yoop asked us to follow him. I should talk to Maggie and follow Yoop."}
+, Summary = "Talk to Maggie"}
+, 
+[11673] = {Title = "Arch Mage Job Change", IconName = "ico_jq.bmp", 
+Description = {"We\'d made so much noise that Mana Spring woke up. I should talk to Master Egnoloria at the Mana Spring."}
+, Summary = "Talk to Egnoloria"}
+, 
+[18070] = {Title = "For Abyss Chasers 1", IconName = "ico_jq.bmp", 
+Description = {"I should go to <NAVI>[Julie]<INFO>rachel,54,48,0,101,0</INFO></NAVI> in the market district on the southwest side of Rachel and ask her about the dark elemental."}
+, Summary = "Talk to Julie"}
+, 
+[18071] = {Title = "For Abyss Chasers 2", IconName = "ico_jq.bmp", 
+Description = {"Julie wants me to warn her brothers who went to the <NAVI>[Abandoned Post]<INFO>ve_fild02,53,189,0,101,0</INFO></NAVI> in the south of Rachel."}
+, Summary = "Talk to Mulie"}
+, 
+[18072] = {Title = "For Abyss Chasers 3", IconName = "ico_jq.bmp", 
+Description = {"After sending Mulie and Peter away, I decided to look for the dark elemental that the children mentioned."}
+, Summary = "Investigate Pale Shadow"}
+, 
+[18073] = {Title = "For Abyss Chasers 4", IconName = "ico_jq.bmp", 
+Description = {"I should report back to Vicente in Rachel\'s <NAVI>[Shadow Workshop]<INFO>rachel,180,117,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Vicente"}
+, 
+[18074] = {Title = "For Abyss Chasers 5", IconName = "ico_jq.bmp", 
+Description = {"I should bring 5 <ITEM>Crystals of Darkness<INFO>7799</INFO></ITEM> ,20 <ITEM>Dark Piece<INFO>6089</INFO></ITEM> to Vicente in Rachel\'s <NAVI>[Shadow Workshop]<INFO>rachel,180,117,0,101,0</INFO></NAVI>. I can collect Crystals of Darkness from Incarnations of Morroc and Dark Pieces in Rudus."}
+, Summary = "Collect items, and then talk to Vicente"}
+, 
+[18075] = {Title = "For Abyss Chasers 6", IconName = "ico_jq.bmp", 
+Description = {"I should go meet <NAVI>[Doomk]<INFO>ve_fild05,313,110,0,101,0</INFO></NAVI> where Vicente told me. I cannot forget about the Crystals of Darkness and Dark Pieces I need to summon the Dark Elemental."}
+, Summary = "Talk to Doomk"}
+, 
+[18076] = {Title = "For Abyss Chasers 7", IconName = "ico_jq.bmp", 
+Description = {"I should pass the Dark Elemental\'s test. If I fail, I can reenter the Abyssal Mansion through <NAVI>[Doomk]<INFO>ve_fild05,313,110,0,101,0</INFO></NAVI> on the Veins Field."}
+, Summary = ""}
+, 
+[18077] = {Title = "For Abyss Chasers 8", IconName = "ico_jq.bmp", 
+Description = {"I should get ready to become an Abyss Chaser, and then talk to the Dark Elemental again."}
+, Summary = "Talk to the Dark Elemental"}
+, 
+[11674] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"Elma wants to know how to summon greater elementals. Talk to Kiran."}
+, Summary = "Talk to Kiran"}
+, 
+[11675] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"Kiran says there\'s nothing to tell her."}
+, Summary = "Talk to Elma"}
+, 
+[11676] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"Elma said she saw Kiran visiting the ^ff0000Barmund Mansion^000000. First, check the ^ff0000Magic Power Plant^000000 in the Mansion for clues."}
+, Summary = "Investigate the Magic Power Plant"}
+, 
+[11677] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"Elma can\'t investigate because of monsters. ^ff0000Hunt Magic-poisoned Dolors and Unleashed Magics, 10 each^000000."}
+, Summary = "Hunt bothersome monsters"}
+, 
+[11678] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"There\'s no clue about greater elementals in the Magic Power Plant. ^ff0000Investigate the Barmund\'s Library^000000."}
+, Summary = "Investigate the Barmund\'s Library"}
+, 
+[11679] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"Books keep running away. Catch ^ff000010 Roaming Spellbooks^000000, and then return to Elma near the bookshelf."}
+, Summary = "Retrieve Roaming Spellbooks"}
+, 
+[11680] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"The collected books don\'t have any clues in them. Check the bookshelf again."}
+, Summary = "Check the bookshelf again"}
+, 
+[11681] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"When I opened the book, a small fairy showed up. Talk to the fairy in that new place."}
+, Summary = "Talk to Yoop"}
+, 
+[11682] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"Yoop asked me to summon Shez and Ivane just like I summoned him. Go where he says and summon Shez and Ivane."}
+, Summary = "Summon Shez and Ivane"}
+, 
+[11683] = {Title = "Elemental Master Job Change", IconName = "ico_jq.bmp", 
+Description = {"I summoned the two as Yoop asked, but we were so loud that Egnoloria caught us."}
+, Summary = "Talk to Master"}
+, 
+[5901] = {Title = "Drunk Old Man", IconName = "ico_jq.bmp", 
+Description = {"A drunk old man is standing on a dangerous place. I should tell him to move away."}
+, Summary = "Talk to the Drunk Old Man"}
+, 
+[5902] = {Title = "Reasons for Attraction", IconName = "ico_jq.bmp", 
+Description = {"For some reason, I feel drawn to this old man whom I just met. I should continue to talk to him to find out why."}
+, Summary = "Talk to the Drunk Old Man"}
+, 
+[5903] = {Title = "Looking For His Secret Training Ground", IconName = "ico_jq.bmp", 
+Description = {"The drunk old man whom I met in Payon said", "he used to train in the Luluka Forest when he was young.", "I should find a frog-shaped stone in the <NAVI>[Luluka Forest]<INFO>um_fild01,356,282,0,101,0</INFO></NAVI> to enter that training ground."}
+, Summary = "Look for a frog-shaped stone in the Luluka Forest", NpcSpr = "4_FROG"}
+, 
+[5904] = {Title = "Into the Deep Luluka Forest", IconName = "ico_jq.bmp", 
+Description = {"The drunk old man I met in Payon said he had a secret training ground", "in the Deep Luluka Forest. I should enter it and train there, too.", " ", "Note to self: The entrance to the Deep Luluka Forest only opens once an hour."}
+, Summary = "", NpcSpr = "4_FROG", NpcNavi = "um_fild01", NpcPosX = 47, NpcPosY = 345}
+, 
+[5905] = {Title = "How to Survive", IconName = "ico_jq.bmp", 
+Description = {"I thought about what I needed", "to survive in the Deep Luluka Forest.", " ", "1. Is there enough food?", "2. Where can I get the water to drink?", "3. What if it gets cold at night?", "4. Are there dangerous wild animals around here?"}
+, Summary = ""}
+, 
+[5906] = {Title = "Out of the Forest", IconName = "ico_jq.bmp", 
+Description = {"I should leave the Deep Luluka Forest and meet the owner of the cabin."}
+, Summary = "Out of the Deep Luluka Forest"}
+, 
+[5907] = {Title = "Evaluate My Archery Stance", IconName = "ico_jq.bmp", 
+Description = {"The owner of the cabin suggested I become a Wind Hawk. I should talk to him.", " ", "^FF0000To change you job...^000000", "^FF0000Please use all your remaining Skill Points.^000000", "^FF0000Please remove your falcon or warg.^000000", "^FF0000Please get off your mount.^000000"}
+, Summary = "Talk to the Cabin Owner"}
+, 
+[16454] = {Title = "Path of the Inquisitor", IconName = "ico_jq.bmp", 
+Description = {"I\'ve decided to stay in the Prontera Inn. My room is the <NAVI>[2nd one]<INFO>prt_in,246,104,0,101,0</INFO></NAVI> on the 2nd floor."}
+, Summary = "Get an inn room"}
+, 
+[16455] = {Title = "Test of Desperation", IconName = "ico_jq.bmp", 
+Description = {"I met a girl named Seriang. I should follow her advice and go to <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI> on the path to St. Capitolina Abbey."}
+, Summary = "Meet Einhar"}
+, 
+[16456] = {Title = "Test of Execution", IconName = "ico_jq.bmp", 
+Description = {"I\'ve passed the test of desperation. I should <NAVI>[enter]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI> St. Capitolina Abbey for my next test of execution."}
+, Summary = "Enter the abbey"}
+, 
+[16457] = {Title = "Path of the Inquisitor", IconName = "ico_jq.bmp", 
+Description = {"I\'ve decided to take the test to become an Inquisitor. I must enter the underground ward in the abbey\'s basement and fight the heinous monster there alone. When I\'m done, I should report back to <NAVI>[Einhar]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.", "Nied - Is", "|\tWard\t|", "Wyn - Siegel"}
+, Summary = ""}
+, 
+[16458] = {Title = "Path of the Inquisitor", IconName = "ico_jq.bmp", 
+Description = {"I\'ve decided to take the test to become an Inquisitor. I must enter the underground ward in the abbey\'s basement and fight the heinous monster there alone again. When I\'m done, I should report back to <NAVI>[Einhar]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.", "Nied - Is", "|\tWard\t|", "Wyn - Siegel"}
+, Summary = ""}
+, 
+[16459] = {Title = "Path of the Inquisitor", IconName = "ico_jq.bmp", 
+Description = {"I\'ve decided to take the test to become an Inquisitor. I must enter the underground ward in the abbey\'s basement and fight the heinous monster there alone one more time. When I\'m done, I should report back to <NAVI>[Einhar]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.", "Nied - Is", "|\tWard\t|", "Wyn - Siegel"}
+, Summary = ""}
+, 
+[16460] = {Title = "Change to Inquisitor", IconName = "ico_jq.bmp", 
+Description = {"Finally, I can become an Inquisitor! I should prepare myself for my appointment ceremony and go back to <NAVI>[Einhar]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>."}
+, Summary = "Change to Inquisitor"}
+, 
+[3430] = {Title = "Talk to the Knight of Devotion", IconName = "ico_jq.bmp", 
+Description = {"She\'s on the <NAVI>[northwest side of Prontera]<INFO>prontera,58,364,</INFO></NAVI>. Talk to her."}
+, Summary = "Talk to the Knight of Devotion"}
+, 
+[3431] = {Title = "Talk to the Knight of Armament", IconName = "ico_jq.bmp", 
+Description = {"He\'s on the <NAVI>[northeast side of Prontera]<INFO>prontera,276,355,</INFO></NAVI>. Talk to him."}
+, Summary = "Talk to the Knight of Armament"}
+, 
+[3432] = {Title = "Equipment and Skills: The Knight of Devotion", IconName = "ico_jq.bmp", 
+Description = {"You told the Knight of Devotion that you believe in powerful equipment and skills."}
+, Summary = ""}
+, 
+[3433] = {Title = "Faith and Loyalty: The Knight of Devotion", IconName = "ico_jq.bmp", 
+Description = {"You told the Knight of Devotion that you believe in faith and loyalty."}
+, Summary = ""}
+, 
+[3434] = {Title = "Equipment and Skills: The Knight of Armament", IconName = "ico_jq.bmp", 
+Description = {"You told the Knight of Armament that you believe in powerful equipment and skills."}
+, Summary = ""}
+, 
+[3435] = {Title = "Faith and Loyalty: The Knight of Armament", IconName = "ico_jq.bmp", 
+Description = {"You told the Knight of Armament that you believe in faith and loyalty."}
+, Summary = ""}
+, 
+[3436] = {Title = "Round 1: The Knight of Armament", IconName = "ico_jq.bmp", 
+Description = {"Defeat the Knight of Armament in the 1st round of the Tourney of Trials."}
+, Summary = "Subdue the Knight of Armament"}
+, 
+[3437] = {Title = "Round 2: The Knight of Devotion", IconName = "ico_jq.bmp", 
+Description = {"Defeat the Knight of Devotion in the 2nd round of the Tourney of Trials."}
+, Summary = "Subdue the Knight of Devotion"}
+, 
+[3438] = {Title = "Round 1: The Knight of Devotion", IconName = "ico_jq.bmp", 
+Description = {"Defeat the Knight of Devotion in the 1st round of the Tourney of Trials."}
+, Summary = "Subdue the Knight of Devotion"}
+, 
+[3439] = {Title = "Round 2: The Knight of Armament", IconName = "ico_jq.bmp", 
+Description = {"Defeat the Knight of Armament in the 2nd round of the Tourney of Trials."}
+, Summary = "Subdue the Knight of Armament"}
+, 
+[3440] = {Title = "To the Tourney Hall of Trials", IconName = "ico_jq.bmp", 
+Description = {"Talk to the King\'s Knight and apply for the Tourney of Trials."}
+, Summary = "Apply for the Tourney of Trials"}
+, 
+[3421] = {Title = "Finding the Book of Illusion", IconName = "ico_jq.bmp", 
+Description = {"Priest Jergus asked me to test my faith by finding the Book of Illusion on <NAVI>[Payon Cave Floor 1]<INFO>pay_arche,39,131,0,101,0</INFO></NAVI>."}
+, Summary = "Find Book of Illusion Vol. 1"}
+, 
+[3422] = {Title = "Book of Illusion Vol. 2", IconName = "ico_jq.bmp", 
+Description = {"The first volume of the Book of Illusion says that the second volume is somewhere on <NAVI>[Orc Dungeon Floor 1]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI>. "}
+, Summary = "Find Book of Illusion Vol. 2"}
+, 
+[3423] = {Title = "Book of Illusion Vol. 3", IconName = "ico_jq.bmp", 
+Description = {"The seconds volume of the Book of Illusion reads the third volume is somewhere on <NAVI>[Glast Heim Monastery]<INFO>glast_01,200,135,0,101,0</INFO></NAVI>. "}
+, Summary = "Find Book of Illusion Vol. 3"}
+, 
+[3424] = {Title = "Defeat Monastery Monsters", IconName = "ico_jq.bmp", 
+Description = {"To read the third volume of the Book of Illusion further, I must hunt 30 monsters of any kind inside the Monastery."}
+, Summary = "Hunt 30 monsters inside the Monastery"}
+, 
+[3425] = {Title = "Last Ordeal", IconName = "ico_jq.bmp", 
+Description = {"Enter the Cave of Trials and defeat Dark Illusions."}
+, Summary = "Defeat Dark Illusions"}
+, 
+[3429] = {Title = "Defeat Dark Illusions", IconName = "ico_jq.bmp", 
+Description = {"Defeat Dark Illusions."}
+, Summary = "Defeat Dark Illusions"}
+, 
+[17450] = {Title = "4th Job Change: A New Stage", IconName = "ico_jq.bmp", 
+Description = {"Go to the <NAVI>[north side of Odin\'s Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>, where the new stage is being built."}
+, Summary = "To Odin\'s Temple"}
+, 
+[17451] = {Title = "4th Job Change: Inspiration Piece 1", IconName = "ico_jq.bmp", 
+Description = {"Go to the <NAVI>[Audumbla Grassland]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI>. The wind that caresses that land must have been inspiring to the ancients."}
+, Summary = "Inspiration Piece 1"}
+, 
+[17452] = {Title = "4th Job Change: Inspiration Piece 1", IconName = "ico_jq.bmp", 
+Description = {"I should hunt Wind monsters at Level 105 or above to fill the <NAVI>[Piece]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI> with wind energy."}
+, Summary = "Inspiration Piece 1"}
+, 
+[17453] = {Title = "4th Job Change: Inspiration Piece 2", IconName = "ico_jq.bmp", 
+Description = {"As I hold the crystal in my hand, I hear the sound that shakes the <NAVI>[earth]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>surrounding me."}
+, Summary = "Inspiration Piece 2"}
+, 
+[17454] = {Title = "4th Job Change: Inspiration Piece 2", IconName = "ico_jq.bmp", 
+Description = {"I should hunt Earth monsters at Level 130 or above to fill the <NAVI>[Piece]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI> with earth energy."}
+, Summary = "Inspiration Piece 2"}
+, 
+[17455] = {Title = "4th Job Change: Inspiration Piece 3", IconName = "ico_jq.bmp", 
+Description = {"As I hold the crystal in my hand, I hear a <NAVI>[heavenly]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI> voice surrounding me."}
+, Summary = "Inspiration Piece 3"}
+, 
+[17456] = {Title = "4th Job Change: Inspiration Piece 3", IconName = "ico_jq.bmp", 
+Description = {"I should hunt Angel monsters at Level 180 or above to fill the <NAVI>[Piece]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI> with angelic energy."}
+, Summary = "Inspiration Piece 3"}
+, 
+[17457] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"The Emotion Pieces must have headed for <NAVI>[Lutie]<INFO>xmas,82,146,0,101,0</INFO></NAVI>. Cold places like that tend to produce many great artists, too."}
+, Summary = "Emotion Piece 1"}
+, 
+[17458] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"I keep feeling as if I\'m boiling on the inside. I think another piece is somewhere near <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>."}
+, Summary = "Emotion Piece 2"}
+, 
+[17459] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"I keep hearing a hollow sound that reminds me of a tunnel. This is what you were talking about, isn\'t it? Then, can it be that another piece is in the <NAVI>[Einbech Mine]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>?"}
+, Summary = "Emotion Piece 3"}
+, 
+[17460] = {Title = "4th Job Change: Piece Collection Completed", IconName = "ico_jq.bmp", 
+Description = {"Now that I\'ve collected all the pieces, I should report back to the <NAVI>[Folklorist]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."}
+, Summary = "To the Folklorist"}
+, 
+[17461] = {Title = "4th Job Change: A New Stage", IconName = "ico_jq.bmp", 
+Description = {"Go to the <NAVI>[north side of Odin\'s Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>, where the new stage is being built."}
+, Summary = "To Odin\'s Temple"}
+, 
+[17462] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"Why don\'t you go to the <NAVI>[Realm of the Dead]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>? People\'s fear and sympathy for the dead have affected many aspects of life."}
+, Summary = "Inspiration Piece 1"}
+, 
+[17463] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"I should hunt Shadow monsters at Level 105 or above to fill the <NAVI>[Piece]<INFO>niflheim,331,267,0,101,0</INFO></NAVI> with dark energy."}
+, Summary = "Inspiration Piece 1"}
+, 
+[17464] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"As I hold the crystal in my hand, I hear the sound of something <NAVI>[burning]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> urrounding me.,"}
+, Summary = "Inspiration Piece 2"}
+, 
+[17465] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"I should hunt Fire monsters at Level 130 or above to fill the <NAVI>[Piece]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> with fiery energy."}
+, Summary = "Inspiration Piece 2"}
+, 
+[17466] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"As I hold the crystal in my hand, I hear a <NAVI>[mysterious]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> sound surrounding me."}
+, Summary = "Inspiration Piece 3"}
+, 
+[17467] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"I should hunt Dragon monsters at Level 180 or above to fill the <NAVI>[Piece]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> with draconic energy."}
+, Summary = "Inspiration Piece 3"}
+, 
+[17468] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"Why don\'t you go to the biggest <NAVI>[church]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>? The songs could be drawn to the sound of people singing a hymn there."}
+, Summary = "Emotion Piece 1"}
+, 
+[17469] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"The sound of sea waves... I think I know. You should go to <NAVI>[Kokomo Beach]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. My intuition tells me that\'s your next destination."}
+, Summary = "Emotion Piece 2"}
+, 
+[17470] = {Title = "4th Job Change: Piece Collection", IconName = "ico_jq.bmp", 
+Description = {"Where you began your career. I think that\'s <NAVI>[where]<INFO>payon,62,157,0,101,0</INFO></NAVI> your answer is."}
+, Summary = "Emotion Piece 3"}
+, 
+[17471] = {Title = "4th Job Change: Piece Collection Completed", IconName = "ico_jq.bmp", 
+Description = {"Now that I\'ve collected all the pieces, I should report back to the <NAVI>[Folklorist]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."}
+, Summary = "To the Folklorist"}
+, 
+[17472] = {Title = "4th Job Change: Where\'s the Stage?", IconName = "ico_jq.bmp", 
+Description = {"Did you come to see the new stage? Oh, no... For now, why don\'t we go to the <NAVI>[basement]<INFO>job4_tro,51,47,0,101,0</INFO></NAVI>? I\'ll explain everything there."}
+, Summary = "Go to the basement"}
+, 
+[17473] = {Title = "4th Job Change: A Detailed Explanation", IconName = "ico_jq.bmp", 
+Description = {"I don\'t know all the technical details. You should talk to <NAVI>[Heren]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI> instead."}
+, Summary = "Talk to the Folklorist"}
+, 
+[17474] = {Title = "4th Job Change: The Steps of the Ritual", IconName = "ico_jq.bmp", 
+Description = {"When the Guardian Tree\'s Spring is activated, place your hand on it. If it takes forever to be activated, please let <NAVI>[me]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI> know."}
+, Summary = "Guardian Tree\'s Spring"}
+, 
+[17475] = {Title = "4th Job Change: Kvasir\'s Chest", IconName = "ico_jq.bmp", 
+Description = {"Drive away all of the void and fill the 12 altars with Inspiration and Emotion Pieces. - <NAVI>[Heren]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI>"}
+, Summary = "Healing ritual"}
 , 
 [297001] = {Title = "Talk to Pvt Woods Goofus", IconName = "ico_ev.bmp", 
 Description = {"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>  in Hugel Field 5."}
@@ -29254,5 +29850,393 @@ Description = {"Kiehl has changed form and attacked. Stop Kiehl."}
 [1504] = {Title = "Runaway Kiel", 
 Description = {"Retrieve Allysia\'s Ring from Kiehl\'s old body and escape."}
 , Summary = "Talk to Kiehl"}
+, 
+[17307] = {Title = "Gatekeeper of Nyail Cave", 
+Description = {"Go to <NAVI>[Festa Manager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI> and leave quickly to Nyail Cave!"}
+, Summary = "Go to Festa Manager"}
+, 
+[17308] = {Title = "Start of festival", 
+Description = {"Bring 1 each of the ingredients for making delicious noodles: long thin noodles, butterfly noodles, smooth noodles and pig potatoes. - <NAVI>[Festa ,amager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"}
+, Summary = "Pig Potato, Noodle Ingredients"}
+, 
+[17309] = {Title = "Noodle artisan", 
+Description = {"If you come to the Noodle Festival, you must try the noodles. <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> You can taste the best noodles."}
+, Summary = "Go to Orzo"}
+, 
+[17310] = {Title = "Watermelon dessert", 
+Description = {"Do you remember cool and sweet desserts in the hot summer? Visit <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> and he will guide you through the event where you can get watermelon pudding."}
+, Summary = "Go to Lami"}
+, 
+[17311] = {Title = "Bad noodle hunt", 
+Description = {"Have you ever heard of bad noodles? Go to <NAVI>[Helper Domi] <INFO>malangdo,183,221,0,101,0,</INFO></NAVI> for guidance on hunting bad noodles."}
+, Summary = "Go to Domi"}
+, 
+[17313] = {Title = "Ingredients for Noodles", 
+Description = {"Bring <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> 5 Long Thin Noodles from Small Whirlpool, 5 Butterfly Noodles from Dandy Star, 5 Smooth Noodles from Swing Tail, and 3 Pig Potatoes."}
+, Summary = "Pig Potato, Noodle Ingredients"}
+, 
+[17314] = {Title = "Cooldown: Noodles of the day", 
+Description = {"Today\'s event is over. After dawn, you can visit <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> again."}
+, Summary = "Reset at 04.00 AM"}
+, 
+[17315] = {Title = "Watermelon fan", 
+Description = {"Break ripe watermelons buried in the watermelon field to find promotional fans! Collect 10 and bring them to <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."}
+, Summary = "Bring 10 Promotional Fan"}
+, 
+[17316] = {Title = "Cooldown: Watermelon Fan", 
+Description = {"Today\'s event is over. After dawn, find <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> and you can join again."}
+, Summary = "Reset at 04.00 AM"}
+, 
+[17317] = {Title = "Bad noodle hunt", 
+Description = {"Kill 10 Bad Noodles and bring 10 Tough Noodle Skins to me, <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."}
+, Summary = "Tough Noodle Leather x10"}
+, 
+[17318] = {Title = "Cooldown : Bad Noodle Hunt", 
+Description = {"You must have put a lot of effort into catching the strong noodle, but please take a break today and enjoy the festival again after dawn! - <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"}
+, Summary = "Reset at 04.00 AM"}
+, 
+[17328] = {Title = "Coupon: Noodle Event Completed", 
+Description = {"How was today\'s noodles? If you have completed all of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!"}
+, Summary = "Orzo done"}
+, 
+[17329] = {Title = "Coupon: Complete Watermelon Dessert", 
+Description = {"You have completed the watermelon breaking event. If you have completed all 4 events of the day, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!!"}
+, Summary = "Helper Lami done"}
+, 
+[17330] = {Title = "Coupon: Bad Noodles Done", 
+Description = {"You caught all the bad noodles. If you have completed all 4 events of the day, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon."}
+, Summary = "Helper Domi done"}
+, 
+[17332] = {Title = "Coupon: Hat Exchange", 
+Description = {"I gave you a hat. Happy festival!"}
+, Summary = "Hat exchange done"}
+, 
+[12493] = {Title = "Aftermath of the challenge", 
+Description = {"Once entered, you cannot re-challenge the Glastheim Challenge Mode before 3 days have passed."}
+, Summary = "Reset in 3 days at 4 AM"}
+, 
+[12494] = {Title = "Explanation complete", 
+Description = {"Did you hear about the twisted space-time from Oscar?"}
+, Summary = "Done hearing Explanation"}
+, 
+[12495] = {Title = "Risky challenge", 
+Description = {"You are the only one who can stop the tainted dimension from tainting this World."}
+, Summary = "Dimensional Contamination Purification"}
+, 
+[12501] = {Title = "Eliminate Phantom in Glastheim", 
+Description = {"Eliminate at least one of two Phantoms in Glastheim", "^0000ffYou can complete this quest even if you eliminate just one of them^000000"}
+, Summary = "Eliminate Phantom Amdarais"}
+, 
+[12502] = {Title = "Eliminate Phantom in Glastheim", 
+Description = {"Eliminate at least one of two Phantoms in Glastheim", "^0000ffYou can complete this quest even if you eliminate just one of them^000000"}
+, Summary = "Eliminate Phantom Himmelmez"}
+, 
+[12510] = {Title = "About the hidden arena", 
+Description = {"I found out that the arena is being operated in an illegal way beyond the dimensional rift.", "I dont know how they manage to do illegal Tournament, but it\'s definitely a lot of fun."}
+, Summary = "Cowardly Rules"}
+, 
+[12511] = {Title = "Cooldown - No Arena today", 
+Description = {"The arena opens once every 3 days. It\'s better to take a break when there\'s no game."}
+, Summary = "Arena resumes at 4:00 AM 3 days later", CoolTimeQuest = 1}
+, 
+[12512] = {Title = "Evidence of Survival", 
+Description = {"If you are still standing in the arena. And if you\'re looking at this pass, it\'s proof that you\'re alive."}
+, Summary = "Not yet dead."}
+, 
+[16388] = {Title = "First Path", IconName = "ico_nq.bmp", 
+Description = {"Joined the Virtual Record translation for the first time."}
+, Summary = "First translation"}
+, 
+[16389] = {Title = "First Path - Expedition Declined", IconName = "ico_nq.bmp", 
+Description = {"Declined to join the Virtual Record translation."}
+, Summary = "Declined to join the translation"}
+, 
+[16390] = {Title = "Expedition Path - Pending", IconName = "ico_nq.bmp", 
+Description = {"A Daily quest. It can be repeated after its cooldown."}
+, Summary = "Reset at 4:00 a.m."}
+, 
+[16391] = {Title = "?", IconName = "ico_nq.bmp", 
+Description = {"?"}
+, Summary = "?"}
+, 
+[16392] = {Title = "Expedition Path - Reward", IconName = "ico_nq.bmp", 
+Description = {"Obtained a translation participation reward."}
+, Summary = "Obtained reward"}
+, 
+[16393] = {Title = "Expedition Path - Swordsman Lab", IconName = "ico_nq.bmp", 
+Description = {"Joined the Swordsman Lab expedition."}
+, Summary = "Swordsman Lab expedition"}
+, 
+[16394] = {Title = "Expedition Path - Acolyte Lab", IconName = "ico_nq.bmp", 
+Description = {"Joined the Acolyte Lab expedition."}
+, Summary = "Acolyte Lab expedition"}
+, 
+[16395] = {Title = "Expedition Path - Thief Lab", IconName = "ico_nq.bmp", 
+Description = {"Joined the Thief Lab expedition."}
+, Summary = "Thief Lab expedition"}
+, 
+[16396] = {Title = "Expedition Path - Mage Lab", IconName = "ico_nq.bmp", 
+Description = {"Joined the Mage Lab expedition."}
+, Summary = "Mage Lab expedition"}
+, 
+[16397] = {Title = "Expedition Path - Merchant Lab", IconName = "ico_nq.bmp", 
+Description = {"Joined the Merchant Lab expedition."}
+, Summary = "Merchant Lab expedition"}
+, 
+[16398] = {Title = "Expedition Path - Archer Lab", IconName = "ico_nq.bmp", 
+Description = {"Joined the Archer Lab expedition."}
+, Summary = "Archer Lab expedition"}
+, 
+[16399] = {Title = "Expedition Path", IconName = "ico_nq.bmp", 
+Description = {"Joined the Virtual Record translation in Expedition mode."}
+, Summary = "Joined Expedition mode", RewardEXP = "", RewardJEXP = "", 
+RewardItemList = {
+{ItemID = 25787, ItemNum = 2}
+}
+}
+, 
+[16400] = {Title = "Battle Path", IconName = "ico_nq.bmp", 
+Description = {"Joined the Virtual Record translation in Battle mode."}
+, Summary = "Joined Battle mode", RewardEXP = "", RewardJEXP = "", 
+RewardItemList = {
+{ItemID = 25787, ItemNum = 5}
+, 
+{ItemID = 25786, ItemNum = 3}
+}
+}
+, 
+[11556] = {Title = "Missing Steven", 
+Description = {"Steven seems to have gone to the 1st floor of the Einbech Mines. I should go there and look for traces of him."}
+, Summary = "To Einbech Mines Floor 1"}
+, 
+[11557] = {Title = "Missing Steven", 
+Description = {"A man is screaming in front of the line. I\'d better go check the situation at the front."}
+, Summary = "To the front of the line"}
+, 
+[11558] = {Title = "Missing Steven", 
+Description = {"The teddy bear in front of me has let me go in first. I should go in."}
+, Summary = "Into the dungeon"}
+, 
+[11559] = {Title = "Missing Steven", 
+Description = {"The teddy bears that were holding Steven hostage ran away."}
+, Summary = "Talk to Steven"}
+, 
+[11560] = {Title = "Missing Steven", 
+Description = {"Steven, worrying about San\'s health, has given me some money to give to his friend for his doctor\'s appointment. I should go back to San in Einbroch."}
+, Summary = "To Einbroch"}
+, 
+[11561] = {Title = "Missing Steven", 
+Description = {"San is so worried about Steven that he wants to go to the mines. I should go with him."}
+, Summary = "Back to the Mines"}
+, 
+[11562] = {Title = "Missing Steven", 
+Description = {"Steven said some strange noise was coming from the north. I should go look for its possible source in the north."}
+, Summary = "To the north"}
+, 
+[11563] = {Title = "Nasarian Conspiracy", 
+Description = {"I got caught while eavesdropping on the Nasarians. I should hunt the Red, Yellow, and Green Teddy Bears hot on my heels, 10 each, and then talk to Steven at the entrance."}
+, Summary = "To the entrance through the angry Nasarians"}
+, 
+[11564] = {Title = "Nasarian Conspiracy", 
+Description = {"I got caught while eavesdropping on the Nasarians. I should hunt the Blue and White Teddy Bears hot on my heels, 10 each, and then talk to Steven at the entrance."}
+, Summary = "To the entrance through the angry Nasarians"}
+, 
+[11565] = {Title = "RUN!", 
+Description = {"Doll makers like me can\'t get out of here easily because we\'re not used to fighting. Help me get rid of Hardworking Pitmen, Soul Shards, and Sinister Dwelling Obsidians, will you?"}
+, Summary = "Hardworking Pitmen, Soul Shards, and Sinister Dwelling Obsidians, 10 each"}
+, 
+[11566] = {Title = "RUN! - Pending", 
+Description = {"I already completed this quest for the day. I have to wait until it becomes available again."}
+, Summary = ""}
+, 
+[11567] = {Title = "Things That Shouldn\'t Exist", 
+Description = {"Please ^ff0000take care of Red, Yellow, and Green Teddy Bears, 10 each,^000000 so they can be returned to the earth and rest..."}
+, Summary = "Defeat Teddy Bears of different types, 10 each"}
+, 
+[11568] = {Title = "Things that Shouldn\'t Exist", 
+Description = {"Please ^ff0000take care of Blue and White Teddy Bears, 10 each,^000000 so they can be returned to the earth and rest..."}
+, Summary = "Defeat Teddy Bears of different types, 10 each"}
+, 
+[11569] = {Title = "Things that Shouldn\'t Exist - Pending", 
+Description = {"I already completed this quest for the day. I have to wait until it becomes available again."}
+, Summary = ""}
+, 
+[11570] = {Title = "Let the Light Devour the Darkness", 
+Description = {"Have you seen that big, dazzlingly ^ff0000Shiny Teddy Bear^000000 around here? I managed to reach the entrance, and it keeps showing up to stop me from leaving. I\'ve been hiding here for days."}
+, Summary = "Defeat Shiny Teddy Bear"}
+, 
+[11571] = {Title = "Let the Light Devour the Darkness - Pendng", 
+Description = {"I already completed this quest for the day. I have to wait until it becomes available again."}
+, Summary = ""}
+, 
+[11572] = {Title = "Illusion Survivor\'s Staff", 
+Description = {"I\'m in the process of crafting an Illusion Survivor\'s Staff. Now that I\'ve completed Stage 1, I should take the remaining materials to the Bear for Illusion Stones."}
+, Summary = "Crafting Stage 1"}
+, 
+[7775] = {Title = "Job Change to Geneticist", IconName = "ico_jq.bmp", 
+Description = {"Demmi Calverine said that the best way to get used to a cart is to swing it against something. There were a lot of poison spores inside the cage..."}
+, Summary = "Defeat 100 Poison Spores in the cage"}
+, 
+[11684] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Jakk, who looks sad, wants to learn how to become friends with Meow from Jakk south of Niflheim. Talk to Jakk south of Niflheim."}
+, Summary = "Talk to Jakk in South of Niflheim"}
+, 
+[11685] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Jakk\'s cat is said to have followed Wiz. Talk to Wiz on the left path."}
+, Summary = "Talk to Wiz"}
+, 
+[11686] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"If you want to hear the story about Meow, get him 2 Skeleton Bone."}
+, Summary = "Get 2 Skeleton Bone"}
+, 
+[11687] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Wiz, who received 1 Skeleton Bone, tells you to give the remaining Skeleton Bone to Jakk south of Niflheim."}
+, Summary = "Talk to Jakk in South of Niflheim"}
+, 
+[11688] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"I didn\'t get any useful information. Unfortunately, let\'s go back to Sad Looking Jakk."}
+, Summary = "Talk to Sad Looking Jakk"}
+, 
+[11689] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Let\'s catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."}
+, Summary = "Talk to Sad Looking Jakk"}
+, 
+[11690] = {Title = "Jakk\'s strange eyes-대기", IconName = "ico_ev.bmp", 
+Description = {"Let\'s talk to Jakk again tomorrow."}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
+, 
+[11691] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Let\'s catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Talk to Sad Looking Jakk"}
+, 
+[11692] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Let\'s catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Talk to Sad Looking Jakk"}
+, 
+[11693] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Let\'s catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Talk to Sad Looking Jakk"}
+, 
+[11694] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Let\'s catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Talk to Sad Looking Jakk"}
+, 
+[11695] = {Title = "Jakk\'s strange eyes", IconName = "ico_ev.bmp", 
+Description = {"Let\'s catch ^ff000010 Running Jakk^000000 and bring ^ff00005 Pumpkin Decorations and Dry White Stem^000000."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+}
+, Summary = "Talk to Sad Looking Jakk"}
+, 
+[11783] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"To help Strange Jakk, let\'s ask <NAVI>[Jakk]<INFO>niflheim,265,275,0,101,0</INFO></NAVI> for help in Niflheim."}
+, Summary = "Talk to Jakk"}
+, 
+[11784] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"Jakk doesn\'t seem to know anything about the strange symptoms. Let\'s ask another <NAVI>[Jakk]<INFO>niflheim,288,249,0,101,0</INFO></NAVI> in Niflheim."}
+, Summary = "Talk to Jakk"}
+, 
+[11785] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"Jakk said he received help from <NAVI>[Lilles]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> in the corner of Niflheim. Let\'s go to Lilles and ask for help."}
+, Summary = "Talk to Lilles"}
+, 
+[11786] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"It\'s hard to understand what he\'s saying, but I think he\'s telling me to catch 2 Garlings. Let\'s talk to <NAVI>[Lilles]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>afterwards."}
+, Summary = "Hunt 2 Garlings"}
+, 
+[11787] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"It\'s still hard to understand what he\'s saying, but it seems to be telling me the direction to go. Let\'s hear information from <NAVI>[A person at a crossroads]<INFO>nif_fild01,187,117,0,101,0</INFO></NAVI> in the remote village of Skellington."}
+, Summary = "Talk to [A person at a crossroads]."}
+, 
+[11788] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"Follow the path shown by the person at the crossroads to the Hoomga Jungle and talk to <NAVI>[One full of joy]<INFO>um_fild04,188,119,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to [One full of joy]."}
+, 
+[11789] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"Did he finally pass on? Let\'s return <NAVI>[Lilles]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> in Niflheim."}
+, Summary = "Talk to Lilles"}
+, 
+[11790] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"Lilles says that the souls of ^ff3456Niflheim^000000 must be released. But, is it okay to do it? Let\'s hunt 20 monsters in ^ff3456Niflheim^000000 and return to <NAVI>[Lilles ]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+, 
+{ItemID = 1000657, ItemNum = 1}
+}
+, Summary = "Defeat monsters in Niflheim"}
+, 
+[11791] = {Title = "The warm story of Jakk and Strange Jakk-대기", IconName = "ico_ev.bmp", 
+Description = {"Does it work? Let\'s talk to <NAVI>[Lilles]<INFO>niflheim,343,277,0,101,0</INFO></NAVI> in Niflheim again tomorrow."}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
+, 
+[11792] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"Lilles says that the souls of ^ff3456Skelington^000000 must be released. But, is it okay to do it? Let\'s hunt 20 monsters in ^ff3456Skelington^000000 and return to <NAVI>[Lilles ]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+, 
+{ItemID = 1000657, ItemNum = 1}
+}
+, Summary = "Defeat monsters in Skelington"}
+, 
+[11793] = {Title = "The warm story of Jakk and Strange Jakk", IconName = "ico_ev.bmp", 
+Description = {"Lilles says that the souls of ^ff3456Vally of Gyoll^000000 must be released. But, is it okay to do it? Let\'s hunt 20 monsters in ^ff3456Vally of Gyoll^000000 and return to <NAVI>[Lilles ]<INFO>niflheim,343,277,0,101,0</INFO></NAVI>."}
+, 
+RewardItemList = {
+{ItemID = 6658, ItemNum = 1}
+, 
+{ItemID = 1000657, ItemNum = 1}
+}
+, Summary = "Defeat monsters in Vally of Gyoll"}
+, 
+[12457] = {Title = "Moment of downfall", 
+Description = {"Follow the space dragon Oscar to the past and watch how Glastheim, the strongest fortress, fell."}
+, Summary = "Moment of downfall"}
+, 
+[12458] = {Title = "Orb\'s backstory", 
+Description = {"Despite King Schmidt\'s sacrifice, his performance has been distorted and passed on."}
+, Summary = "Dragon\'s Taste"}
+, 
+[12459] = {Title = "Rest in the King\'s thoughts", 
+Description = {"To save countless lives, Schmidt threw his own life into the orb. However, in the process, the power of the orb materializes his thoughts and tries to leave a record of disgrace for future generations. It is your job to put his thoughts to rest."}
+, Summary = "Defeat Schmidt\'s Thoughts", NpcSpr = "4_ED_SCHMIDT", RewardEXP = "650000", RewardJEXP = "480000", 
+RewardItemList = {
+{ItemID = 25739, ItemNum = 3}
+}
+}
+, 
+[12460] = {Title = "Aftermath of downfall", 
+Description = {"It\'s hard to watch the scene of downfall in any way. You cannot enter or create ^ff0000Glastheim Purification^000000 while the aftereffects remain."}
+, Summary = "Reset at 04.00 AM"}
+, 
+[12461] = {Title = "Powerful aftermath of death", 
+Description = {"This aftereffect is accompanied by the aftereffect of the downfall. During the remaining time, menus related to ^ff0000Glastheim Purification (Hard)^000000 do not appear and cannot be used."}
+, Summary = "Reset at 04:00 AM after 3 days"}
+, 
+[12462] = {Title = "Rest in the King\'s thoughts (Hard)", 
+Description = {"To save countless lives, Schmidt threw his own life into the orb. However, in the process, the power of the orb materializes his thoughts and tries to leave a record of disgrace for future generations. It is your job to put his thoughts to rest."}
+, Summary = "Defeat Schmidt\'s Thoughts (Hard)", NpcSpr = "4_ED_SCHMIDT", RewardEXP = "2800000", RewardJEXP = "1900000", 
+RewardItemList = {
+{ItemID = 25740, ItemNum = 6}
+}
+}
 }
 

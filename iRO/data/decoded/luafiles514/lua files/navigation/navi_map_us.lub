@@ -82,6 +82,10 @@ Navi_Map = {
 , 
 {"amatsu", "Amatsu, the Land of Destiny", 5001, 316, 316}
 , 
+{"amicitia1", "Abandoned Lab Amicitia", 5001, 300, 300}
+, 
+{"amicitia2", "Abandoned Lab Amicitia", 5001, 300, 300}
+, 
 {"anthell01", "Ant Hell", 5001, 300, 300}
 , 
 {"anthell02", "Ant Hell", 5001, 300, 300}
@@ -400,6 +404,8 @@ Navi_Map = {
 , 
 {"gonryun", "Gonryun, the Hermit Land", 5001, 300, 300}
 , 
+{"grademk", "Grade-up Center", 5001, 200, 200}
+, 
 {"har_in01", "Rock Ridge", 5003, 120, 120}
 , 
 {"harboro1", "Rock Ridge", 5001, 400, 360}
@@ -492,17 +498,57 @@ Navi_Map = {
 , 
 {"jawaii_in", "Inside Jawaii", 5003, 200, 140}
 , 
+{"job3_arch01", "Waiting room for Arch Bishop Job Change", 5001, 60, 60}
+, 
+{"job3_arch02", "Odin Temple", 5001, 400, 400}
+, 
 {"job3_gen01", "Geneticist Lab", 5001, 100, 100}
 , 
 {"job3_guil01", "Secret Tavern", 5001, 160, 100}
 , 
+{"job3_guil02", "Inside the Old Warehouse", 5001, 80, 80}
+, 
+{"job3_guil03", "An isolated mansion", 5001, 160, 100}
+, 
+{"job3_rang01", "Waiting room for Ranger Job Change", 5001, 120, 80}
+, 
+{"job3_rang02", "Test room for Ranger Job Change", 5001, 300, 100}
+, 
 {"job3_rune01", "Inside of Rune Knight Templar", 5001, 160, 100}
+, 
+{"job3_rune02", "Test room for Rune Knight Job Change", 5001, 80, 80}
+, 
+{"job3_war01", "Test room for Warlock Job Change", 5001, 52, 52}
+, 
+{"job4_bio", "Secret Flower Garden", 5001, 64, 60}
+, 
+{"job4_mag", "Mana Spring", 5001, 240, 240}
+, 
+{"job4_tro", "Empty Kvasir\'s Chest", 5001, 100, 100}
+, 
+{"job_cru", "Crusader Realm", 5001, 200, 200}
 , 
 {"job_duncer", "Comodo Theatre", 5001, 140, 172}
 , 
+{"job_hunte", "Hunter Job Change Place", 5001, 200, 200}
+, 
+{"job_knt", "Knight Realm", 5001, 200, 200}
+, 
+{"job_ko", "Hidden Place", 5001, 200, 140}
+, 
 {"job_monk", "Saint Capitolina Abbey", 5001, 400, 300}
 , 
+{"job_prist", "Priest Realm", 5001, 200, 200}
+, 
+{"job_sage", "Sage Realm", 5001, 200, 200}
+, 
+{"job_soul", "Your Heart", 5001, 60, 60}
+, 
 {"job_star", "The Sun, the Moon and the Stars", 5001, 200, 184}
+, 
+{"job_thief1", "Mushroom Farm", 5001, 360, 360}
+, 
+{"job_wiz", "Wizard Realm", 5001, 200, 200}
 , 
 {"jupe_area1", "Juperos, Restricted Zone", 5001, 164, 300}
 , 
@@ -794,6 +840,10 @@ Navi_Map = {
 , 
 {"nameless_n", "Nameless Island", 5001, 340, 340}
 , 
+{"nif_dun01", "Nifflheim Dungeon Banquet Hall of the Dead", 5001, 300, 300}
+, 
+{"nif_dun02", "Nifflheim Dungeon Collapsed Opera House", 5001, 300, 300}
+, 
 {"nif_fild01", "Skellington, a Solitary Village in Nifflheim", 5001, 400, 400}
 , 
 {"nif_fild02", "Vally of Gyoll", 5001, 400, 400}
@@ -1038,6 +1088,8 @@ Navi_Map = {
 , 
 {"rockrdg2", "Kiwawa Desert", 5001, 400, 400}
 , 
+{"s_atelier", "Shadow Workshop", 5001, 200, 140}
+, 
 {"sch_gld", "Nidhoggur", 5001, 400, 400}
 , 
 {"schg_dun01", "Subterranean Guild Dungeon", 5001, 400, 400}
@@ -1053,6 +1105,8 @@ Navi_Map = {
 {"sp_rudus2", "Laboratory Waste Disposal Plant Rudus Floor 2", 5001, 400, 400}
 , 
 {"sp_rudus3", "Laboratory Waste Disposal Plant Rudus Floor 3", 5001, 400, 400}
+, 
+{"sp_rudus4", "Laboratory Waste Disposal Plant Rudus Floor 4", 5001, 400, 400}
 , 
 {"spl_fild01", "Splendide Field", 5001, 400, 400}
 , 
@@ -1077,6 +1131,8 @@ Navi_Map = {
 {"teg_dun01", "Subterranean Guild Dungeon", 5001, 300, 300}
 , 
 {"teg_dun02", "Subterranean Guild Dungeon", 5001, 200, 200}
+, 
+{"tha_scene01", "UnKnown", 5001, 400, 400}
 , 
 {"tha_t01", "Thanatos Tower - Lower Level", 5001, 300, 300}
 , 

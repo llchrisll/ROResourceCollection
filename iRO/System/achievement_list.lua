@@ -1952,17 +1952,15 @@ resource = {
 reward = {title = 1004, buff = 10, item = 12439}
 , score = 50}
 , 
-[129021] = {UI_Type = 0, group = "GOAL_LEVEL", major = 1, minor = 0, title = "Life Goals", 
-content = {summary = "Reach for your full potential", details = "Achieve Base Level 99 and Job Level 70"}
+[129021] = {UI_Type = 1, group = "BATTLE", major = 5, minor = 0, title = "Glastheim Challenge Mode", 
+content = {summary = "Glastheim Challenge Mode Complete", details = "Complete the Memorial Dungeon"}
 , 
 resource = {
-[1] = {text = "Reach Job Level 70", shortcut = 200004}
-, 
-[2] = {text = "Reach Base Level 90", shortcut = 200000}
+[1] = {text = "Complete Times", count = 100}
 }
 , 
-reward = {item = 12817}
-, score = 50}
+reward = {title = 1045}
+, score = 10}
 , 
 [200005] = {UI_Type = 0, group = "JOB_CHANGE", major = 1, minor = 0, title = "Official Adventurer", 
 content = {summary = "Obtain the First Job Class", details = "Become a Swordsman, Merchant, Thief, Mage, Acolyte, or Archer."}

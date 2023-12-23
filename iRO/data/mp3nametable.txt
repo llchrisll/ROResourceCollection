@@ -1,34 +1,34 @@
 //맵이름.rsw#bgm\\음악번호#
 
-//--- 통상판 마을음악
-prt_church.rsw#bgm\\10.mp3#
-izlude.rsw#bgm\\26.mp3#
-izlude_in.rsw#bgm\\26.mp3#
-prontera.rsw#bgm\\08.mp3#
-prt_in.rsw#bgm\\08.mp3#
-geffen.rsw#bgm\\13.mp3#
-geffen_in.rsw#bgm\\13.mp3#
-aldebaran.rsw#bgm\\39.mp3#
-aldeba_in.rsw#bgm\\39.mp3#
-alberta.rsw#bgm\\15.mp3#
-alberta_in.rsw#bgm\\15.mp3#
-hugel.rsw#bgm\\93.mp3#
-hu_in01.rsw#bgm\\93.mp3#
+//--- 통상판 마을음악 normal BGM
+//prt_church.rsw#bgm\\10.mp3#
+//izlude.rsw#bgm\\26.mp3#
+//izlude_in.rsw#bgm\\26.mp3#
+//prontera.rsw#bgm\\08.mp3#
+//prt_in.rsw#bgm\\08.mp3#
+//geffen.rsw#bgm\\13.mp3#
+//geffen_in.rsw#bgm\\13.mp3#
+//aldebaran.rsw#bgm\\39.mp3#
+//aldeba_in.rsw#bgm\\39.mp3#
+//alberta.rsw#bgm\\15.mp3#
+//alberta_in.rsw#bgm\\15.mp3#
+//hugel.rsw#bgm\\93.mp3#
+//hu_in01.rsw#bgm\\93.mp3#
 
-//--- 크리스마스 이벤트 마을음악
-//alberta.rsw#bgm\\54.mp3#
-//alberta_in.rsw#bgm\\54.mp3#
-//aldebaran.rsw#bgm\\56.mp3#
-//aldeba_in.rsw#bgm\\56.mp3#
-//geffen.rsw#bgm\\57.mp3#
-//geffen_in.rsw#bgm\\57.mp3#
-//hugel.rsw#bgm\\54.mp3#
-//hu_in01.rsw#bgm\\54.mp3#
-//izlude.rsw#bgm\\56.mp3#
-//izlude_in.rsw#bgm\\56.mp3#
-//prontera.rsw#bgm\\55.mp3#
-//prt_in.rsw#bgm\\55.mp3#
-//prt_church.rsw#bgm\\56.mp3#
+//--- 크리스마스 이벤트 마을음악 Snow event
+alberta.rsw#bgm\\54.mp3#
+alberta_in.rsw#bgm\\54.mp3#
+aldebaran.rsw#bgm\\56.mp3#
+aldeba_in.rsw#bgm\\56.mp3#
+geffen.rsw#bgm\\57.mp3#
+geffen_in.rsw#bgm\\57.mp3#
+hugel.rsw#bgm\\54.mp3#
+hu_in01.rsw#bgm\\54.mp3#
+izlude.rsw#bgm\\56.mp3#
+izlude_in.rsw#bgm\\56.mp3#
+prontera.rsw#bgm\\55.mp3#
+prt_in.rsw#bgm\\55.mp3#
+prt_church.rsw#bgm\\56.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
@@ -1183,3 +1183,40 @@ ba_chess.rsw#bgm\\180.mp3#
 1@ghg.rsw#bgm\\179.mp3#
 1@bamn.rsw#bgm\\177.mp3#
 1@bamq.rsw#bgm\\177.mp3#
+
+// 23_2Q UPDATE
+// 250 레벨 확장 컨텐츠
+sp_rudus4.rsw#bgm\\176.mp3#
+amicitia1.rsw#bgm\\124.mp3#
+amicitia2.rsw#bgm\\124.mp3#
+nif_dun01.rsw#bgm\\84.mp3#
+nif_dun02.rsw#bgm\\85.mp3#
+
+// 등급강화소
+grademk.rsw#bgm\\143.mp3#
+
+// 4차 전직 퀘스트
+1@4sac.rsw#bgm\\16.mp3#
+1@4inq.rsw#bgm\\124.mp3#
+1@4mst.rsw#bgm\\106.mp3#
+1@4cdn.rsw#bgm\\120.mp3#
+1@4igd.rsw#bgm\\159.mp3#
+1@4drk.rsw#bgm\\100.mp3#
+1@4win.rsw#bgm\\65.mp3#
+1@4tro.rsw#bgm\\129.mp3#
+job4_tro.rsw#bgm\\129.mp3#
+1@4mag.rsw#bgm\\128.mp3#
+job4_mag.rsw#bgm\\128.mp3#
+job4_bio.rsw#bgm\\163.mp3#
+
+//========2023 3Q UPDATE==================
+// 글래스트 헤임 도전모드
+1@gl_he.rsw#bgm\\166.mp3#
+
+// 게펜 야간 투기장
+1@ge_sn.rsw#bgm\\159.mp3#
+//=======================2023 3Q UPDATE end
+
+//2023 3Q Additional Update Fall of Glast Heim
+// EDDA 글래스트 헤임의 몰락
+1@gl_prq.rsw#bgm\\48.mp3#

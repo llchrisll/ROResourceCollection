@@ -1664,19 +1664,19 @@ signName = {mainTitle = "Thanatos Tower Entrance"}
 , 
 ["hu_fild05.rsw"] = {displayName = "Abyss Lake, Hugel", notifyEnter = true, 
 signName = {mainTitle = "Abyss Lake, Hugel"}
-, backgroundBmp = "field_2"}
+, backgroundBmp = "field2"}
 , 
 ["hu_fild04.rsw"] = {displayName = "Hugel Field", notifyEnter = true, 
 signName = {mainTitle = "Hugel Field"}
-, backgroundBmp = "field_2"}
+, backgroundBmp = "field2"}
 , 
 ["hu_fild01.rsw"] = {displayName = "Thanatos Tower Entrance", notifyEnter = true, 
 signName = {mainTitle = "Thanatos Tower Entrance"}
-, backgroundBmp = "field_2"}
+, backgroundBmp = "field2"}
 , 
 ["yuno_fild06.rsw"] = {displayName = "El Mes Plateau", notifyEnter = true, 
 signName = {mainTitle = "El Mes Plateau"}
-, backgroundBmp = "field_2"}
+, backgroundBmp = "field2"}
 , 
 ["quiz_02.rsw"] = {displayName = "Quiz Arena"}
 , 
@@ -1686,11 +1686,11 @@ signName = {mainTitle = "Juperos Cave Entrance"}
 , 
 ["juperos_01.rsw"] = {displayName = "Outside the Ruins of Juperos", notifyEnter = true, 
 signName = {mainTitle = "Outside the Ruins of Juperos"}
-, backgroundBmp = "dungeon_2"}
+, backgroundBmp = "dungeon_s2"}
 , 
 ["juperos_02.rsw"] = {displayName = "Inside the Ruins of Juperos", notifyEnter = true, 
 signName = {mainTitle = "Inside the Ruins of Juperos"}
-, backgroundBmp = "dungeon_2"}
+, backgroundBmp = "dungeon_s2"}
 , 
 ["jupe_gate.rsw"] = {displayName = "Juperos Restricted Zone", notifyEnter = true, 
 signName = {mainTitle = "Juperos Restricted Zone"}
@@ -3453,6 +3453,86 @@ signName = {mainTitle = "Ancient Odin\'s Temple"}
 ["abyss_04.rsw"] = {displayName = "Hugel Abyss Lake Underground Cave Floor 4", notifyEnter = true, 
 signName = {subTitle = "Hugel Abyss Lake", mainTitle = "Abyss Underground Cave Floor 4"}
 , backgroundBmp = "dungeon"}
+, 
+["sp_rudus4.rsw"] = {displayName = "Laboratory Waste Disposal Plant Rudus Floor 4", notifyEnter = true, 
+signName = {subTitle = "Laboratory Waste Disposal Plant", mainTitle = "Rudus Floor 4"}
+, backgroundBmp = "dungeon"}
+, 
+["amicitia1.rsw"] = {displayName = "Abandoned Lab Amicitia", notifyEnter = true, 
+signName = {subTitle = "Abandoned Lab Amicitia", mainTitle = "Floor 1 General Research Center"}
+, backgroundBmp = "dungeon"}
+, 
+["amicitia2.rsw"] = {displayName = "Abandoned Lab Amicitia", notifyEnter = true, 
+signName = {subTitle = "Abandoned Lab Amicitia", mainTitle = "Floor 2 Intensive Culture Room"}
+, backgroundBmp = "dungeon"}
+, 
+["nif_dun01.rsw"] = {displayName = "Nifflheim Dungeon Banquet Hall of the Dead", notifyEnter = true, 
+signName = {subTitle = "Nifflheim Dungeon Floor 1", mainTitle = "Banquet Hall of the Dead"}
+, backgroundBmp = "dungeon"}
+, 
+["nif_dun02.rsw"] = {displayName = "Nifflheim Dungeon Collapsed Opera House", notifyEnter = true, 
+signName = {subTitle = "Nifflheim Dungeon Floor 2", mainTitle = "Collapsed Opera House"}
+, backgroundBmp = "dungeon"}
+, 
+["grademk.rsw"] = {displayName = "Grade-up Center", notifyEnter = true, 
+signName = {subTitle = "Grade-up Center"}
+, backgroundBmp = "village_s1"}
+, 
+["1@4sac.rsw"] = {displayName = "Shadow Manor", notifyEnter = true, 
+signName = {mainTitle = "Shadow Manor"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4drk.rsw"] = {displayName = "Dragon\'s Test", notifyEnter = true, 
+signName = {mainTitle = "Dragon\'s Test"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4win.rsw"] = {displayName = "Deep Luluka Forest", notifyEnter = true, 
+signName = {mainTitle = "Deep Luluka Forest"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4tro.rsw"] = {displayName = "Kvasir\'s Chest", notifyEnter = true, 
+signName = {mainTitle = "Kvasir\'s Chest"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_tro.rsw"] = {displayName = "Empty Kvasir\'s Chest", notifyEnter = true, 
+signName = {mainTitle = "Empty Kvasir\'s Chest"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4inq.rsw"] = {displayName = "Monastery Basement", notifyEnter = true, 
+signName = {mainTitle = "Monastery Basement"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_bio.rsw"] = {displayName = "Secret Flower Garden", notifyEnter = true, 
+signName = {mainTitle = "Secret Flower Garden"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4mst.rsw"] = {displayName = "Juperos Core VT", notifyEnter = true, 
+signName = {mainTitle = "Juperos Core VT"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4cdn.rsw"] = {displayName = "Last Ordeal Phantom Cave", notifyEnter = true, 
+signName = {mainTitle = "Last Ordeal Phantom Cave"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4igd.rsw"] = {displayName = "Tourney Hall of Justice", notifyEnter = true, 
+signName = {mainTitle = "Tourney Hall of Justice"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@4mag.rsw"] = {displayName = "Mana Spring", notifyEnter = true, 
+signName = {mainTitle = "Mana Spring"}
+, backgroundBmp = "field2_s2"}
+, 
+["job4_mag.rsw"] = {displayName = "Mana Spring", notifyEnter = true, 
+signName = {mainTitle = "Mana Spring"}
+, backgroundBmp = "field2_s2"}
+, 
+["tra_fild.rsw"] = {displayName = "Prontera Suburb Training Camp", notifyEnter = true, 
+signName = {mainTitle = "Prontera Suburb Training Camp"}
+, backgroundBmp = "field_s2"}
+, 
+["1@ge_sn.rsw"] = {displayName = "Geffen Night Arena", notifyEnter = true, 
+signName = {mainTitle = "Geffen Night Arena"}
+, backgroundBmp = "dungeon_s2"}
 }
 main = function()
   -- function num : 0_0

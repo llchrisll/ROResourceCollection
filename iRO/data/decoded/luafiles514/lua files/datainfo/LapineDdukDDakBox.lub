@@ -514,6 +514,50 @@ SourceItems = {
 {"Ancient_Hero_Boots", 1, 22171}
 }
 , NeedSource_String = "Ancient Heroes boots"}
+, 
+Egirnion_Box = {ItemID = 100468, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Egir_Helm_K", 1, 19026}
+, 
+{"Egir_Armor_K", 1, 15138}
+, 
+{"Egir_Shoes_K", 1, 22059}
+, 
+{"Egir_Manteau_K", 1, 20756}
+}
+, NeedSource_String = "Sea God Egir Equipment"}
+, 
+Mammoth_Mix = {ItemID = 100621, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+}
+, NeedSource_String = "Mammoth Shadows"}
+, 
+M_BlitzShadow_Mix = {ItemID = 101258, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Blitz_Armor", 1, 24344}
+, 
+{"S_Blitz_Weapon", 1, 24343}
+, 
+{"S_Blitz_Shield", 1, 24232}
+, 
+{"S_Blitz_Shoes", 1, 24231}
+, 
+{"S_Blitz_Pendent", 1, 24218}
+, 
+{"S_Blitz_Earring", 1, 24217}
+}
+, NeedSource_String = "Blitz Shadows"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

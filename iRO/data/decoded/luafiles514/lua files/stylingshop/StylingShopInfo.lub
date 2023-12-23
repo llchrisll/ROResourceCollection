@@ -65,6 +65,8 @@
 ;
 (StylingShop.AddHeadStyle)(23, {zeny = 100000})
 ;
+(StylingShop.AddHeadStyle)(32, {zeny = 100000})
+;
 (StylingShop.AddBodyPalette)(0, {itid = 6287, boxitid = 14289})
 ;
 (StylingShop.AddBodyPalette)(2, {itid = 6287, boxitid = 14289})
