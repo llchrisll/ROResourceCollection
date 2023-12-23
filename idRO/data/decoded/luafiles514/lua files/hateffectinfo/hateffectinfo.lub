@@ -381,7 +381,7 @@ hatEffectTable = {
 , 
 [HatEFID.HAT_EF_c_sakura_fubuki] = {resourceFileName = "efst_c_sakura_fubuki\\sakura_fubuki.str", hatEffectPos = -11, hatEffectPosX = 0, isRenderBeforeCharacter = true, isIgnoreRiding = true, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 , 
-[HatEFID.HAT_EF_C_Dark_Lord_Manteau] = {resourceFileName = "C_Dark_Lord_Manteau\\darklordcloak02.str", hatEffectPos = 0, hatEffectPosX = 0, isRenderBeforeCharacter = true, isIgnoreRiding = true, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
+[HatEFID.HAT_EF_C_Dark_Lord_Manteau] = {resourceFileName = "C_Dark_Lord_Manteau\\darklordcloak02.str", hatEffectPos = -11, hatEffectPosX = -0.5, isRenderBeforeCharacter = true, isIgnoreRiding = true, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 , 
 [HatEFID.HAT_EF_decoration_of_music] = {resourceFileName = "efst_decoration_of_music\\note_1.str", hatEffectPos = 0, hatEffectPosX = 0, isAdjustPositionWhenShrinkState = true, isAdjustSizeWhenShrinkState = true}
 }

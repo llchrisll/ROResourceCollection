@@ -803,5 +803,65 @@ SignBoardList = {
 {"prontera", 148, 155, 6, IT_SIGNBOARD, "item\\C_Muranyasa.bmp", " [Evo] C Trader", "#0x00FFFFFF"}
 , 
 {"prontera", 148, 151, 6, IT_SIGNBOARD, "item\\지혜스크롤.bmp", " Angel\'s Blessing", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 31, 43, 6, IT_SIGNBOARD, "item\\etel_violet_jewel.bmp", " Universal Enchant", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 43, 19, 6, IT_SIGNBOARD, "item\\화살통.bmp", " Quiver Maker", "#0x00FFFFFF"}
+, 
+{"alberta", 240, 103, 6, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Pergi ke Rockridge", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 26, 39, 6, IT_SIGNBOARD, "item\\flame_stone_4th.bmp", " Special Blessed", "#0x00FFFFFF"}
+, 
+{"malangdo", 127, 146, 6, IT_SIGNBOARD, "item\\포링코인.bmp", " Malangdo Stone Gacha", "#0x00FFFFFF"}
+, 
+{"prt_q", 158, 119, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 191, 121, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 238, 155, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 215, 220, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 201, 246, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 154, 258, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 115, 247, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 97, 203, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 108, 177, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 73, 245, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 109, 290, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 157, 298, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 147, 281, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 157, 245, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 139, 209, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 136, 194, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 100, 167, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 155, 143, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 162, 190, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 179, 207, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 130, 214, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 240, 244, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 197, 256, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"prt_q", 153, 218, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 31, 31, 6, IT_SIGNBOARD, "item\\etel_stone.bmp", " 2nd Gen Univ Enc", "#0x00FFFFFF"}
 }
 

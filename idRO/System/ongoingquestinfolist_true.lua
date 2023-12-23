@@ -14762,7 +14762,7 @@ Description = {"Mendengar tentang tempat Jack sebelumnya. Kembali ke Hururong."}
 , Summary = "Bicara dengan Hururong"}
 , 
 [11501] = {Title = "Hari-hari Jack and Jack seperti Jack", 
-Description = {"Berburu 10 Runaway Jack di field dan dungeon dan kumpulkan 10 Decorating Pumpkin dan 20 Dry White Stem ke Hororong."}
+Description = {"Berburu 10 Runaway Jack di field dan dungeon dan kumpulkan 10 Pumpkin Decoration dan 20 Dry White Stem ke Hororong."}
 , Summary = "Kirim Jack ke Niflheim"}
 , 
 [11502] = {Title = "Hari-hari Jack and Jack seperti Jack", 
@@ -14770,7 +14770,7 @@ Description = {"Membawa kembali Jack ke Niflheim. Menurut para hantu, Jack akan 
 , Summary = "Jack beristirahat"}
 , 
 [11503] = {Title = "Hari-hari Jack and Jack seperti Jack", 
-Description = {"Berburu 10 Runaway Jack di field dan dungeon dan kumpulkan 10 Decorating Pumpkin dan 20 Dry White Stem ke Hororing."}
+Description = {"Berburu 10 Runaway Jack di field dan dungeon dan kumpulkan 10 Pumpkin Decoration dan 20 Dry White Stem ke Hororing."}
 , Summary = "Kirim Jack ke Niflheim"}
 , 
 [11504] = {Title = "Kucing Jack dan Jack", 
@@ -18556,5 +18556,133 @@ Description = {"Hunt 30 Elite Buffalo Bandit (Blue Eyes)", "Hunt 30 Elite Buffal
 [292437] = {Title = "Daily Quest Rockridge 3 - Hunting BOSS Monster", 
 Description = {"Hunt 1 Spider Chariot"}
 , Summary = "Hunt BOSS Mission"}
+, 
+[292438] = {Title = "Semarak Kemerdekaan - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292439] = {Title = "Semarak Kemerdekaan 1 - Hunting Monster", 
+Description = {"Hunt 50 Yellow Flying Crystal", "Hunt 50 Green Flying Crystal", "Hunt 50 Red Flying Crystal"}
+, Summary = "Hunt Mission"}
+, 
+[292440] = {Title = "Semarak Kemerdekaan 2 - Hunting Monster", 
+Description = {"Hunt 50 Blue Flying Crystal", "Hunt 50 Cloned Blue Crystal", "Hunt 50 Cloned Yellow Crystal"}
+, Summary = "Hunt Mission"}
+, 
+[292441] = {Title = "Semarak Kemerdekaan 3 - Hunting Monster", 
+Description = {"Hunt 50 Cloned Green Crystal", "Hunt 50 Cloned Red Crystal", "Hunt 50 Yellow Flying Crystal"}
+, Summary = "Hunt Mission"}
+, 
+[292442] = {Title = "Semarak Kemerdekaan 4 - Hunting Monster", 
+Description = {"Hunt 50 Green Flying Crystal", "Hunt 50 Red Flying Crystal", "Hunt 50 Blue Flying Crystal"}
+, Summary = "Hunt Mission"}
+, 
+[292443] = {Title = "Semarak Kemerdekaan 5 - Hunting Monster", 
+Description = {"Hunt 50 Cloned Blue Crystal", "Hunt 50 Cloned Yellow Crystal", "Hunt 50 Cloned Green Crystal"}
+, Summary = "Hunt Mission"}
+, 
+[292444] = {Title = "Daily Quest Rudus Lab 1 - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292445] = {Title = "Daily Quest Rudus Lab 2 - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292446] = {Title = "Daily Quest Rudus Lab 3 - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292447] = {Title = "Daily Quest Rudus Lab 4 - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292448] = {Title = "Daily Quest Rudus Lab 1 - Hunting Monster", 
+Description = {"Hunt 50 Heart Hunter Velare", "Hunt 50 Heart Hunter Sanare", "Hunt 40 Mutant Plaga"}
+, Summary = "Hunt Mission"}
+, 
+[292449] = {Title = "Daily Quest Rudus Lab 2 - Hunting Monster", 
+Description = {"Hunt 50 Plaga (Red)", "Hunt 40 Mutant Hunter Bellare", "Hunt 40 Mutant Hunter Sanare"}
+, Summary = "Hunt Mission"}
+, 
+[292450] = {Title = "Daily Quest Rudus Lab 3 - Hunting Monster", 
+Description = {"Hunt 40 Mutant Venenum", "Hunt 40 Mutant Dolor", "Hunt 40 Mutant Twin Caput"}
+, Summary = "Hunt Mission"}
+, 
+[292451] = {Title = "Daily Quest Rudus Lab 4 - Hunting Monster", 
+Description = {"Hunt 50 Venenum", "Hunt 50 Dolor", "Hunt 50 Twin Caput"}
+, Summary = "Hunt Mission"}
+, 
+[12416] = {Title = "The Ancient Ent", 
+Description = {"Kalahkan dan selesaikan semua misi yang diberikan untuk menyelesaikan Instance"}
+, Summary = "Complete the Mission"}
+, 
+[12417] = {Title = "The Ancient Ent - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi dalam 3 hari."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[12418] = {Title = "The Ancient Ent - Kunjungan pertama kali", 
+Description = {"Mengunjungi Instance - The Ancient Ent untuk pertama kalinya"}
+, Summary = "Kunjungan pertama kali"}
+, 
+[292452] = {Title = "[Four Season Royal Raid - Fall", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan Four Beast MVP 1 kali."}
+, Summary = "Kalahkan Four Beast MVP 1 kali"}
+, 
+[292453] = {Title = "[Cooldown] Four Season Royal Raid - Fall", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[292454] = {Title = "Raid Gacha tiket yaang hilang - Fall", IconName = "ico_ev.bmp", 
+Description = {"Hunt 20 [MD] Garden Keeper", "Hunt 20 [MD] Permeter", "Hunt 20 [MD] Baby Nature"}
+, Summary = "Lapor ke Isaac apabila sudah selesai"}
+, 
+[292455] = {Title = "Cooldown] Raid Gacha tiket yaang hilang - Fall", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[292456] = {Title = "[STREAMERS] Ancient Ent", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan Four Beast MVP 1 kali."}
+, Summary = "Kalahkan Ancient Ent"}
+, 
+[292457] = {Title = "[STREAMERS] Cooldown Royal Raid - Fall", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[292458] = {Title = "[STREAMERS] Kalahkan anak buah Ancient Ent", IconName = "ico_ev.bmp", 
+Description = {"Hunt 20 [MD] Garden Keeper", "Hunt 20 [MD] Permeter", "Hunt 20 [MD] Baby Nature"}
+, Summary = "Lapor ke Streamer Veteran di Lounge apabila sudah selesai"}
+, 
+[292459] = {Title = "[STREAMERS] Cooldown Kalahkan anak buah Ancient Ent", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[292460] = {Title = "[STREAMERS] Green MVP Aura Mission 1", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Lapor ke Streamer Veteran jika sudah selesai"}
+, 
+[292461] = {Title = "[STREAMERS] Green MVP Aura Mission 3", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Lapor ke Streamer Veteran jika sudah selesai"}
+, 
+[292462] = {Title = "[STREAMERS] Green MVP Aura Mission 4", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Lapor ke Streamer Veteran jika sudah selesai"}
+, 
+[292463] = {Title = "[STREAMERS] Green MVP Aura Mission 5", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Lapor ke Streamer Veteran jika sudah selesai"}
+, 
+[292464] = {Title = "[STREAMERS] Green MVP Aura Mission 6", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Lapor ke Streamer Veteran jika sudah selesai"}
+, 
+[292465] = {Title = "[STREAMERS] Green MVP Aura Mission 7", IconName = "ico_dq.bmp", 
+Description = {"Kalahkan semua MVP pada misi ini!!."}
+, Summary = "Lapor ke Streamer Veteran jika sudah selesai"}
+, 
+[292466] = {Title = "[STREAMERS] Cooldown Green MVP Aura Mission", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang cooldown, datang lagi esok hari ke NPC Mr Green."}
+, Summary = "Reset Pukul 04.00 Pagi", CoolTimeQuest = 1}
 }
 

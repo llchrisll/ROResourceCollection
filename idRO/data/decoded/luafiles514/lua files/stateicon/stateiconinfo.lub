@@ -5811,4 +5811,45 @@ descript = {
 {"State of mind"}
 }
 }
+-- DECOMPILER ERROR at PC12008: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_KAGEMUSYA] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Shadow Warrior", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Membarikan status Double Attack sementara ke 1 target"}
+, 
+{"Sejumlah SP akan hilang per detiknya"}
+, 
+{"Damage Kunai Explosion, Kunai Splash"}
+, 
+{"Cross Slash, and Swirling Petal meningkat"}
+}
+}
+-- DECOMPILER ERROR at PC12035: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_HELPANGEL] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Help, Angel!", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Memulihkan 1000 HP/detik"}
+, 
+{"Memulihkan 500 SP/detik"}
+}
+}
+-- DECOMPILER ERROR at PC12059: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_SOULCURSE] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Evil Soul Curse", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Mengurangi shadow resist."}
+}
+}
 

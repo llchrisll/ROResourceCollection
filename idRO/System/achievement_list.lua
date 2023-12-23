@@ -2403,6 +2403,86 @@ resource = {
 , 
 reward = {title = 2035}
 , score = 50}
+, 
+[310035] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "NAVY SOLDIER"}
+}
+, 
+reward = {title = 2036}
+, score = 50}
+, 
+[310036] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "GUA PUNYA KUASA"}
+}
+, 
+reward = {title = 2037}
+, score = 50}
+, 
+[310037] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "WONDERLAND"}
+}
+, 
+reward = {title = 2038}
+, score = 50}
+, 
+[310038] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[Title Ticket] GE S8 Winner", 
+content = {summary = "[Title Ticket] GE S8 Winner", details = "Title pemenang GE Season 8 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "Treble Winner"}
+}
+, 
+reward = {title = 2039}
+, score = 50}
+, 
+[310039] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[Title Ticket] SE1 S8 Winner", 
+content = {summary = "[Title Ticket] SE1 S8 Winner", details = "Title pemenang SE1 Season 8 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "Vanquisher"}
+}
+, 
+reward = {title = 2040}
+, score = 50}
+, 
+[310040] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[Title Ticket] SE2 S8 Winner", 
+content = {summary = "[Title Ticket] SE2 S8 Winner", details = "Title pemenang SE2 Season 8 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "OCOCO KASIH PAHAM"}
+}
+, 
+reward = {title = 2041}
+, score = 50}
+, 
+[310041] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "WHIMSICAL"}
+}
+, 
+reward = {title = 2042}
+, score = 50}
+, 
+[310042] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "BANG BANG!"}
+}
+, 
+reward = {title = 2043}
+, score = 50}
 }
 main = function()
   -- function num : 0_0

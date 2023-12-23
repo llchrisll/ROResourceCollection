@@ -1290,6 +1290,38 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl_WH] = {Default = 143, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Bird_Cage_Candle_Hold] = {Default = 301, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_AB_Hair_PP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Kururinpa_Hair_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Silky_Long_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Alien_Sunglass_GN] = {Default = 301, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_ZombieMask] = {Default = 301, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Skia_Two_Side_Up] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_TV_Hair_PK] = {Default = 143, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

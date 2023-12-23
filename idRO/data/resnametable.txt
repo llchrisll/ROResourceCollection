@@ -1670,3 +1670,21 @@ starsoul.gnd#starsoul.gnd#
 starsoul.gat#starsoul.gat#
 starsoul.rsw#starsoul.rsw#
 유저인터페이스\map\starsoul.bmp#유저인터페이스\map\starsoul.bmp#
+
+//4th Anniv Map
+annivpront.gnd#annivpront.gnd#
+annivpront.gat#annivpront.gat#
+annivpront.rsw#annivpront.rsw#
+유저인터페이스\map\annivpront.bmp#유저인터페이스\map\annivpront.bmp#
+
+//Raid Four Season - The Ancient Ent
+1@begi.gnd#1@begi.gnd#
+1@begi.gat#1@begi.gat#
+1@begi.rsw#1@begi.rsw#
+유저인터페이스\map\1@begi.bmp#유저인터페이스\map\1@begi.bmp#
+
+//Streamer Lounge
+strm_lng.gnd#strm_lng.gnd#
+strm_lng.gat#strm_lng.gat#
+strm_lng.rsw#strm_lng.rsw#
+유저인터페이스\map\strm_lng.bmp#유저인터페이스\map\strm_lng.bmp#

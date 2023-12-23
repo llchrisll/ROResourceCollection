@@ -183,7 +183,7 @@ un_myst.rsw#
 
 //파라마켓 전용 맵
 
-//paramk.rsw#
+paramk.rsw#
 
 //북미요청 복사맵 
 
@@ -325,3 +325,4 @@ ve_in.rsw#
 ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
+strm_lng.rsw#

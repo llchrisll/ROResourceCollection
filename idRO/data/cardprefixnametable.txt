@@ -991,3 +991,13 @@
 27178#Zero Guard#
 27179#Wild Fang#
 27180#Power Break#
+
+//Card Special Kerajaan #2
+27200#Nihil's#
+27201#Agnes's#
+27202#Juergen's#
+27203#Spica's#
+27332#Of Skia#
+27395#Isaac's#
+300129#Poe's#
+300127#Wolf's#

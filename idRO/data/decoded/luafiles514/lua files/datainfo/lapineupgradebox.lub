@@ -1126,6 +1126,98 @@ TargetItems = {
 {"S_Paint_Pendant", 24534}
 , 
 {"S_Paint_Earing", 24535}
+, 
+{"S_Huusouka_Earing", 24631}
+, 
+{"S_Huusouka_Pendant", 24632}
+, 
+{"S_Huusouka_Shoes", 24633}
+, 
+{"S_Star_Emperor_Armor", 24412}
+, 
+{"S_Star_Emperor_Shoes", 24413}
+, 
+{"S_Soul_Reaper_Armor", 24414}
+, 
+{"S_Soul_Reaper_Shoes", 24415}
+, 
+{"S_Moonlight_Earring", 24649}
+, 
+{"S_Moonlight_Pendant", 24650}
+, 
+{"S_Moonlight_Shoes", 24651}
+, 
+{"S_Evilcurse_Earring", 24658}
+, 
+{"S_Evilcurse_Pendant", 24659}
+, 
+{"S_Evilcurse_Shoes", 24660}
+, 
+{"S_Tension_Weapon", 24360}
+, 
+{"S_Tension_Earring", 24361}
+, 
+{"S_Tension_Pendent", 24362}
+, 
+{"S_Elegant_Weapon", 24363}
+, 
+{"S_Elegant_Earring", 24364}
+, 
+{"S_Elegant_Pendent", 24365}
+, 
+{"S_MortalBlow_Weapon", 24370}
+, 
+{"S_MortalBlow_Earring", 24371}
+, 
+{"S_MortalBlow_Pendent", 24372}
+, 
+{"Sentimental_Weapone_S", 24380}
+, 
+{"Sentimental_Earring_S", 24381}
+, 
+{"Sentimental_Pendant_S", 24382}
+, 
+{"Enchanting_Weapone_S", 24383}
+, 
+{"Enchanting_Earring_S", 24384}
+, 
+{"Enchanting_Pendant_S", 24385}
+, 
+{"S_Crimson_Armor", 24518}
+, 
+{"S_Crimson_Shield", 24519}
+, 
+{"S_Crimson_Shoes", 24520}
+, 
+{"S_Genesis_Weapon", 24581}
+, 
+{"S_Genesis_Pendant", 24582}
+, 
+{"S_Genesis_Earing", 24583}
+, 
+{"S_Flare_Dance_Earing", 24604}
+, 
+{"S_Flare_Dance_Pendant", 24605}
+, 
+{"S_Flare_Dance_Shoes", 24606}
+, 
+{"S_Super_Magic_Shield", 24616}
+, 
+{"S_Super_Magic_Armor", 24617}
+, 
+{"S_Super_Magic_Shoes", 24618}
+, 
+{"S_Super_Power_Weapon", 24619}
+, 
+{"S_Super_Power_Pendant", 24620}
+, 
+{"S_Super_Power_Earing", 24621}
+, 
+{"S_Pickyrush_Weapon", 24634}
+, 
+{"S_Pickyrush_Shield", 24635}
+, 
+{"S_Pickyrush_Armor", 24636}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -2062,6 +2154,98 @@ TargetItems = {
 {"S_Paint_Pendant", 24534}
 , 
 {"S_Paint_Earing", 24535}
+, 
+{"S_Huusouka_Earing", 24631}
+, 
+{"S_Huusouka_Pendant", 24632}
+, 
+{"S_Huusouka_Shoes", 24633}
+, 
+{"S_Star_Emperor_Armor", 24412}
+, 
+{"S_Star_Emperor_Shoes", 24413}
+, 
+{"S_Soul_Reaper_Armor", 24414}
+, 
+{"S_Soul_Reaper_Shoes", 24415}
+, 
+{"S_Moonlight_Earring", 24649}
+, 
+{"S_Moonlight_Pendant", 24650}
+, 
+{"S_Moonlight_Shoes", 24651}
+, 
+{"S_Evilcurse_Earring", 24658}
+, 
+{"S_Evilcurse_Pendant", 24659}
+, 
+{"S_Evilcurse_Shoes", 24660}
+, 
+{"S_Tension_Weapon", 24360}
+, 
+{"S_Tension_Earring", 24361}
+, 
+{"S_Tension_Pendent", 24362}
+, 
+{"S_Elegant_Weapon", 24363}
+, 
+{"S_Elegant_Earring", 24364}
+, 
+{"S_Elegant_Pendent", 24365}
+, 
+{"S_MortalBlow_Weapon", 24370}
+, 
+{"S_MortalBlow_Earring", 24371}
+, 
+{"S_MortalBlow_Pendent", 24372}
+, 
+{"Sentimental_Weapone_S", 24380}
+, 
+{"Sentimental_Earring_S", 24381}
+, 
+{"Sentimental_Pendant_S", 24382}
+, 
+{"Enchanting_Weapone_S", 24383}
+, 
+{"Enchanting_Earring_S", 24384}
+, 
+{"Enchanting_Pendant_S", 24385}
+, 
+{"S_Crimson_Armor", 24518}
+, 
+{"S_Crimson_Shield", 24519}
+, 
+{"S_Crimson_Shoes", 24520}
+, 
+{"S_Genesis_Weapon", 24581}
+, 
+{"S_Genesis_Pendant", 24582}
+, 
+{"S_Genesis_Earing", 24583}
+, 
+{"S_Flare_Dance_Earing", 24604}
+, 
+{"S_Flare_Dance_Pendant", 24605}
+, 
+{"S_Flare_Dance_Shoes", 24606}
+, 
+{"S_Super_Magic_Shield", 24616}
+, 
+{"S_Super_Magic_Armor", 24617}
+, 
+{"S_Super_Magic_Shoes", 24618}
+, 
+{"S_Super_Power_Weapon", 24619}
+, 
+{"S_Super_Power_Pendant", 24620}
+, 
+{"S_Super_Power_Earing", 24621}
+, 
+{"S_Pickyrush_Weapon", 24634}
+, 
+{"S_Pickyrush_Shield", 24635}
+, 
+{"S_Pickyrush_Armor", 24636}
 }
 , NeedSource_String = "+7 Shadow Equipment"}
 , 
@@ -3106,6 +3290,98 @@ TargetItems = {
 {"S_Paint_Pendant", 24534}
 , 
 {"S_Paint_Earing", 24535}
+, 
+{"S_Huusouka_Earing", 24631}
+, 
+{"S_Huusouka_Pendant", 24632}
+, 
+{"S_Huusouka_Shoes", 24633}
+, 
+{"S_Star_Emperor_Armor", 24412}
+, 
+{"S_Star_Emperor_Shoes", 24413}
+, 
+{"S_Soul_Reaper_Armor", 24414}
+, 
+{"S_Soul_Reaper_Shoes", 24415}
+, 
+{"S_Moonlight_Earring", 24649}
+, 
+{"S_Moonlight_Pendant", 24650}
+, 
+{"S_Moonlight_Shoes", 24651}
+, 
+{"S_Evilcurse_Earring", 24658}
+, 
+{"S_Evilcurse_Pendant", 24659}
+, 
+{"S_Evilcurse_Shoes", 24660}
+, 
+{"S_Tension_Weapon", 24360}
+, 
+{"S_Tension_Earring", 24361}
+, 
+{"S_Tension_Pendent", 24362}
+, 
+{"S_Elegant_Weapon", 24363}
+, 
+{"S_Elegant_Earring", 24364}
+, 
+{"S_Elegant_Pendent", 24365}
+, 
+{"S_MortalBlow_Weapon", 24370}
+, 
+{"S_MortalBlow_Earring", 24371}
+, 
+{"S_MortalBlow_Pendent", 24372}
+, 
+{"Sentimental_Weapone_S", 24380}
+, 
+{"Sentimental_Earring_S", 24381}
+, 
+{"Sentimental_Pendant_S", 24382}
+, 
+{"Enchanting_Weapone_S", 24383}
+, 
+{"Enchanting_Earring_S", 24384}
+, 
+{"Enchanting_Pendant_S", 24385}
+, 
+{"S_Crimson_Armor", 24518}
+, 
+{"S_Crimson_Shield", 24519}
+, 
+{"S_Crimson_Shoes", 24520}
+, 
+{"S_Genesis_Weapon", 24581}
+, 
+{"S_Genesis_Pendant", 24582}
+, 
+{"S_Genesis_Earing", 24583}
+, 
+{"S_Flare_Dance_Earing", 24604}
+, 
+{"S_Flare_Dance_Pendant", 24605}
+, 
+{"S_Flare_Dance_Shoes", 24606}
+, 
+{"S_Super_Magic_Shield", 24616}
+, 
+{"S_Super_Magic_Armor", 24617}
+, 
+{"S_Super_Magic_Shoes", 24618}
+, 
+{"S_Super_Power_Weapon", 24619}
+, 
+{"S_Super_Power_Pendant", 24620}
+, 
+{"S_Super_Power_Earing", 24621}
+, 
+{"S_Pickyrush_Weapon", 24634}
+, 
+{"S_Pickyrush_Shield", 24635}
+, 
+{"S_Pickyrush_Armor", 24636}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -3531,15 +3807,9 @@ TargetItems = {
 , 
 {"Slate_Sword", 500004}
 , 
-{"Trumpet_Shell_K", 570002}
-, 
-{"Barb_Wire_K", 580002}
-, 
 {"Meteor_Striker", 590002}
 , 
 {"Blade_Katar", 610003}
-, 
-{"Scalet_Dragon_L_Bow", 700003}
 , 
 {"Fatalist", 510006}
 , 
@@ -3613,15 +3883,27 @@ TargetItems = {
 , 
 {"Up_Blessed_Knife", 510071}
 , 
+{"Trumpet_Shell_K", 570002}
+, 
 {"Up_Trumpet_Shell_K", 570009}
+, 
+{"Barb_Wire_K", 580002}
 , 
 {"Up_Barb_Wire_K", 580009}
 , 
+{"Freedom_Stick", 550080}
+, 
 {"Up_Freedom_Stick", 550081}
+, 
+{"Scalet_Dragon_L_Bow", 700003}
 , 
 {"Up_Scalet_Dragon_L_Bow", 700019}
 , 
-{"Freedom_Stick", 550080}
+{"Up_OneSkyOneSun", 540010}
+, 
+{"Up_SoulWeight", 550015}
+, 
+{"Up_Fog_Dew_Sword", 510022}
 }
 , NeedSource_String = "Hero Weapon"}
 , 
@@ -3679,15 +3961,9 @@ TargetItems = {
 , 
 {"Slate_Sword", 500004}
 , 
-{"Trumpet_Shell_K", 570002}
-, 
-{"Barb_Wire_K", 580002}
-, 
 {"Meteor_Striker", 590002}
 , 
 {"Blade_Katar", 610003}
-, 
-{"Scalet_Dragon_L_Bow", 700003}
 , 
 {"Fatalist", 510006}
 , 
@@ -3761,9 +4037,23 @@ TargetItems = {
 , 
 {"Up_Blessed_Knife", 510071}
 , 
+{"Trumpet_Shell_K", 570002}
+, 
 {"Up_Trumpet_Shell_K", 570009}
 , 
+{"Barb_Wire_K", 580002}
+, 
 {"Up_Barb_Wire_K", 580009}
+, 
+{"Scalet_Dragon_L_Bow", 700003}
+, 
+{"Up_Scalet_Dragon_L_Bow", 700019}
+, 
+{"Up_OneSkyOneSun", 540010}
+, 
+{"Up_SoulWeight", 550015}
+, 
+{"Up_Fog_Dew_Sword", 510022}
 }
 , NeedSource_String = "Hero Weapon"}
 , 
@@ -4114,6 +4404,12 @@ TargetItems = {
 {"Up_Freedom_Stick", 550081}
 , 
 {"Up_Scalet_Dragon_L_Bow", 700019}
+, 
+{"Up_OneSkyOneSun", 540010}
+, 
+{"Up_SoulWeight", 550015}
+, 
+{"Up_Fog_Dew_Sword", 510022}
 }
 , NeedSource_String = "Patent Weapon"}
 , 
@@ -4182,6 +4478,16 @@ TargetItems = {
 {"Up_Trumpet_Shell_K", 570009}
 , 
 {"Up_Barb_Wire_K", 580009}
+, 
+{"Up_Freedom_Stick", 550081}
+, 
+{"Up_Scalet_Dragon_L_Bow", 700019}
+, 
+{"Up_OneSkyOneSun", 540010}
+, 
+{"Up_SoulWeight", 550015}
+, 
+{"Up_Fog_Dew_Sword", 510022}
 }
 , NeedSource_String = "Patent Weapon"}
 , 
@@ -4916,6 +5222,542 @@ TargetItems = {
 {"Grace_Magic_Manteau", 480019}
 }
 , NeedSource_String = "Grace Equipment Item"}
+, 
+ILL_Piece_A = {ItemID = 100003, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Bazerald_IL", 28762}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Spectral_Spear_IL", 26007}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Hunter_Bow_IL", 18174}
+, 
+{"Tablet_IL", 28626}
+, 
+{"Gate_KeeperDD_IL", 28244}
+, 
+{"Counter_Dagger_IL", 28745}
+, 
+{"Survival_Staff_IL", 2051}
+, 
+{"Taegoolyeon_IL", 21050}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Dea_Staff_IL", 550031}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Ghoul_Leg_IL", 28023}
+, 
+{"Electric_Eel_IL", 580008}
+, 
+{"Electronic_Guitar_IL", 570008}
+, 
+{"Brionac_IL", 630006}
+, 
+{"KatarOfCold_Icicle_IL", 610012}
+, 
+{"Death_Guidance_IL", 600011}
+, 
+{"Zephyrus_IL", 630007}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Gelerdria_IL", 530015}
+}
+, NeedSource_String = "Illusion Weapon Lv4"}
+, 
+ILL_Piece_B = {ItemID = 100004, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Bazerald_IL", 28762}
+, 
+{"Butcher_IL", 28254}
+, 
+{"Gold_Lux_IL", 32301}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Long_Mace_IL", 16063}
+, 
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Spectral_Spear_IL", 26007}
+, 
+{"Staff_Of_Bordeaux_IL", 26109}
+, 
+{"Moonlight_Sword_IL", 28725}
+, 
+{"Hunter_Bow_IL", 18174}
+, 
+{"Tablet_IL", 28626}
+, 
+{"Gate_KeeperDD_IL", 28244}
+, 
+{"Counter_Dagger_IL", 28745}
+, 
+{"Survival_Staff_IL", 2051}
+, 
+{"Taegoolyeon_IL", 21050}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Dea_Staff_IL", 550031}
+, 
+{"Huuma_Bird_Wing_IL", 13338}
+, 
+{"Pole_Axe_IL", 32005}
+, 
+{"Iron_Driver_IL", 16065}
+, 
+{"Immaterial_Sword_IL", 13469}
+, 
+{"War_Axe_IL", 1326}
+, 
+{"Huuma_Flutter_Snow_IL", 13337}
+, 
+{"Combo_Battle_Glove_IL", 1846}
+, 
+{"Infiltrator_IL", 28022}
+, 
+{"Wizardy_Staff_IL", 2039}
+, 
+{"Balistar_IL", 18149}
+, 
+{"Book_Of_The_Apo_IL", 28612}
+, 
+{"Ghoul_Leg_IL", 28023}
+, 
+{"Electric_Eel_IL", 580008}
+, 
+{"Electronic_Guitar_IL", 570008}
+, 
+{"Brionac_IL", 630006}
+, 
+{"KatarOfCold_Icicle_IL", 610012}
+, 
+{"Death_Guidance_IL", 600011}
+, 
+{"Zephyrus_IL", 630007}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Gelerdria_IL", 530015}
+}
+, NeedSource_String = "Illusion Weapon Lv4"}
+, 
+Imperial_Convert1 = {ItemID = 100131, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Imperial_Attack_Manteau", 480016}
+, 
+{"Imperial_Magic_Manteau", 480017}
+}
+, NeedSource_String = "Imperial Manteau"}
+, 
+Imperial_Convert2 = {ItemID = 100132, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Imperial_Attack_Manteau", 480016}
+, 
+{"Imperial_Magic_Manteau", 480017}
+}
+, NeedSource_String = "Imperial Manteau"}
+, 
+Imperial_Convert3 = {ItemID = 100135, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Imperial_Breath_Armor", 450052}
+, 
+{"Imperial_Knight_Armor", 450053}
+, 
+{"Imperial_Spear_Armor", 450054}
+, 
+{"Imperial_Genesis_Armor", 450055}
+, 
+{"Imperial_Sharp_Suit", 450056}
+, 
+{"Imperial_Aim_Suit", 450057}
+, 
+{"Imperial_Severe_Suit", 450058}
+, 
+{"Imperial_Reverb_Suit", 450059}
+, 
+{"Imperial_Adora_Robe", 450060}
+, 
+{"Imperial_Duple_Robe", 450061}
+, 
+{"Imperial_Tonado_Armor", 450064}
+, 
+{"Imperial_Vulcan_Armor", 450065}
+, 
+{"Imperial_Kart_Suit", 450066}
+, 
+{"Imperial_Kart_Suit2", 450067}
+, 
+{"Imperial_Rolling_Suit", 450068}
+, 
+{"Imperial_Assasin_Suit", 450069}
+, 
+{"Imperial_Fatal_Suit", 450070}
+, 
+{"Imperial_Stalker_Suit", 450071}
+, 
+{"Imperial_Picky_Robe", 450072}
+, 
+{"Imperial_Carrot_Robe", 450073}
+, 
+{"Imperial_Trip_Suit", 450074}
+, 
+{"Imperial_Firerain_Suit", 450075}
+, 
+{"Imperial_Crimson_Robe", 450076}
+, 
+{"Imperial_Frost_Robe", 450077}
+, 
+{"Imperial_Psychic_Robe", 450078}
+, 
+{"Imperial_Dust_Robe", 450079}
+, 
+{"Imperial_Sun_Suit", 450080}
+, 
+{"Imperial_Moon_Suit", 450081}
+, 
+{"Imperial_Ninja_Suit", 450082}
+, 
+{"Imperial_Kunai_Suit", 450083}
+, 
+{"Imperial_Swhoo_Robe", 450084}
+, 
+{"Imperial_Explosion_Robe", 450085}
+, 
+{"Imperial_Knuckle_Suit", 450062}
+, 
+{"Imperial_Tiger_Suit", 450063}
+, 
+{"Imperial_Snovice_Suit", 450123}
+, 
+{"Imperial_Snovice_Robe", 450124}
+}
+, NeedSource_String = "Imperial Equipment"}
+, 
+Imperial_Convert4 = {ItemID = 100136, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Imperial_Breath_Armor", 450052}
+, 
+{"Imperial_Knight_Armor", 450053}
+, 
+{"Imperial_Spear_Armor", 450054}
+, 
+{"Imperial_Genesis_Armor", 450055}
+, 
+{"Imperial_Sharp_Suit", 450056}
+, 
+{"Imperial_Aim_Suit", 450057}
+, 
+{"Imperial_Severe_Suit", 450058}
+, 
+{"Imperial_Reverb_Suit", 450059}
+, 
+{"Imperial_Adora_Robe", 450060}
+, 
+{"Imperial_Duple_Robe", 450061}
+, 
+{"Imperial_Tonado_Armor", 450064}
+, 
+{"Imperial_Vulcan_Armor", 450065}
+, 
+{"Imperial_Kart_Suit", 450066}
+, 
+{"Imperial_Kart_Suit2", 450067}
+, 
+{"Imperial_Rolling_Suit", 450068}
+, 
+{"Imperial_Assasin_Suit", 450069}
+, 
+{"Imperial_Fatal_Suit", 450070}
+, 
+{"Imperial_Stalker_Suit", 450071}
+, 
+{"Imperial_Picky_Robe", 450072}
+, 
+{"Imperial_Carrot_Robe", 450073}
+, 
+{"Imperial_Trip_Suit", 450074}
+, 
+{"Imperial_Firerain_Suit", 450075}
+, 
+{"Imperial_Crimson_Robe", 450076}
+, 
+{"Imperial_Frost_Robe", 450077}
+, 
+{"Imperial_Psychic_Robe", 450078}
+, 
+{"Imperial_Dust_Robe", 450079}
+, 
+{"Imperial_Sun_Suit", 450080}
+, 
+{"Imperial_Moon_Suit", 450081}
+, 
+{"Imperial_Ninja_Suit", 450082}
+, 
+{"Imperial_Kunai_Suit", 450083}
+, 
+{"Imperial_Swhoo_Robe", 450084}
+, 
+{"Imperial_Explosion_Robe", 450085}
+, 
+{"Imperial_Knuckle_Suit", 450062}
+, 
+{"Imperial_Tiger_Suit", 450063}
+, 
+{"Imperial_Snovice_Suit", 450123}
+, 
+{"Imperial_Snovice_Robe", 450124}
+}
+, NeedSource_String = "Imperial Equipment"}
+, 
+Grace_Convert1 = {ItemID = 100133, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Grace_Attack_Manteau", 480018}
+, 
+{"Grace_Magic_Manteau", 480019}
+}
+, NeedSource_String = "Grace Manteau"}
+, 
+Grace_Convert2 = {ItemID = 100134, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Grace_Attack_Manteau", 480018}
+, 
+{"Grace_Magic_Manteau", 480019}
+}
+, NeedSource_String = "Grace Manteau"}
+, 
+Grace_Convert3 = {ItemID = 100137, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Grace_Breath_Armor", 450086}
+, 
+{"Grace_Knight_Armor", 450087}
+, 
+{"Grace_Spear_Armor", 450088}
+, 
+{"Grace_Genesis_Armor", 450089}
+, 
+{"Grace_Sharp_Suit", 450090}
+, 
+{"Grace_Aim_Suit", 450091}
+, 
+{"Grace_Severe_Suit", 450092}
+, 
+{"Grace_Reverb_Suit", 450093}
+, 
+{"Grace_Adora_Robe", 450094}
+, 
+{"Grace_Duple_Robe", 450095}
+, 
+{"Grace_Tonado_Armor", 450098}
+, 
+{"Grace_Vulcan_Armor", 450099}
+, 
+{"Grace_Kart_Suit", 450100}
+, 
+{"Grace_Kart_Suit2", 450101}
+, 
+{"Grace_Rolling_Suit", 450102}
+, 
+{"Grace_Assasin_Suit", 450103}
+, 
+{"Grace_Fatal_Suit", 450104}
+, 
+{"Grace_Stalker_Suit", 450105}
+, 
+{"Grace_Picky_Robe", 450106}
+, 
+{"Grace_Carrot_Robe", 450107}
+, 
+{"Grace_Trip_Suit", 450108}
+, 
+{"Grace_Firerain_Suit", 450109}
+, 
+{"Grace_Crimson_Robe", 450110}
+, 
+{"Grace_Frost_Robe", 450111}
+, 
+{"Grace_Psychic_Robe", 450112}
+, 
+{"Grace_Dust_Robe", 450113}
+, 
+{"Grace_Sun_Suit", 450114}
+, 
+{"Grace_Moon_Suit", 450115}
+, 
+{"Grace_Ninja_Suit", 450116}
+, 
+{"Grace_Kunai_Suit", 450117}
+, 
+{"Grace_Swhoo_Robe", 450118}
+, 
+{"Grace_Explosion_Robe", 450119}
+, 
+{"Grace_Knuckle_Suit", 450096}
+, 
+{"Grace_Tiger_Suit", 450097}
+, 
+{"Grace_Snovice_Suit", 450125}
+, 
+{"Grace_Snovice_Robe", 450126}
+}
+, NeedSource_String = "Grace Equipment"}
+, 
+Grace_Convert4 = {ItemID = 100138, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Grace_Breath_Armor", 450086}
+, 
+{"Grace_Knight_Armor", 450087}
+, 
+{"Grace_Spear_Armor", 450088}
+, 
+{"Grace_Genesis_Armor", 450089}
+, 
+{"Grace_Sharp_Suit", 450090}
+, 
+{"Grace_Aim_Suit", 450091}
+, 
+{"Grace_Severe_Suit", 450092}
+, 
+{"Grace_Reverb_Suit", 450093}
+, 
+{"Grace_Adora_Robe", 450094}
+, 
+{"Grace_Duple_Robe", 450095}
+, 
+{"Grace_Tonado_Armor", 450098}
+, 
+{"Grace_Vulcan_Armor", 450099}
+, 
+{"Grace_Kart_Suit", 450100}
+, 
+{"Grace_Kart_Suit2", 450101}
+, 
+{"Grace_Rolling_Suit", 450102}
+, 
+{"Grace_Assasin_Suit", 450103}
+, 
+{"Grace_Fatal_Suit", 450104}
+, 
+{"Grace_Stalker_Suit", 450105}
+, 
+{"Grace_Picky_Robe", 450106}
+, 
+{"Grace_Carrot_Robe", 450107}
+, 
+{"Grace_Trip_Suit", 450108}
+, 
+{"Grace_Firerain_Suit", 450109}
+, 
+{"Grace_Crimson_Robe", 450110}
+, 
+{"Grace_Frost_Robe", 450111}
+, 
+{"Grace_Psychic_Robe", 450112}
+, 
+{"Grace_Dust_Robe", 450113}
+, 
+{"Grace_Sun_Suit", 450114}
+, 
+{"Grace_Moon_Suit", 450115}
+, 
+{"Grace_Ninja_Suit", 450116}
+, 
+{"Grace_Kunai_Suit", 450117}
+, 
+{"Grace_Swhoo_Robe", 450118}
+, 
+{"Grace_Explosion_Robe", 450119}
+, 
+{"Grace_Knuckle_Suit", 450096}
+, 
+{"Grace_Tiger_Suit", 450097}
+, 
+{"Grace_Snovice_Suit", 450125}
+, 
+{"Grace_Snovice_Robe", 450126}
+}
+, NeedSource_String = "Grace Equipment"}
 }
 , serverMain = function()
   -- function num : 0_0

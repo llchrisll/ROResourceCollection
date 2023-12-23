@@ -719,8 +719,8 @@
 4584#머너넝걸카드#
 4585#멍쿠쿠럼카드#
 4586#틱버렁카드#
-4587#티억넠#
-4588#웤웤카드#
+4587#티억?#
+4588#??카드#
 4593#맨블릿카드#
 4594#페탈카드#
 4595#체네레카드#
@@ -1046,7 +1046,7 @@
 300148#sorry#
 300149#sorry#
 300150#sorry#
-300151#sorry#
+300151#ill_kraken_card#
 
 //Card Special Kerajaan
 27196#nihil_card#
@@ -1152,3 +1152,13 @@
 27178#gaster_card#
 27179#coyote_card#
 27180#mechaspider_card#
+
+//Card Special Kerajaan #2
+27200#s_nihil_card#
+27201#s_agnes_card#
+27202#s_jurgen_card#
+27203#s_spica_card#
+27332#s_skia_card#
+27395#s_issac_card#
+300129#s_poe_card#
+300127#s_wolf_card#

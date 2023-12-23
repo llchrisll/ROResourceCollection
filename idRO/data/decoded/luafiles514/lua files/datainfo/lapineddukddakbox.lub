@@ -578,6 +578,22 @@ SourceItems = {
 {"C_Straw_Rice_Bag_V", 1, 410107}
 , 
 {"C_Supplement_P_Income", 1, 410128}
+, 
+{"C_Strawberry_Hat", 1, 31175}
+, 
+{"C_Smoky_TransformHat", 1, 400426}
+, 
+{"C_Queen_Headphone", 1, 410179}
+, 
+{"C_Cheesy_Snack_In_Mouth", 1, 420232}
+, 
+{"C_Ally_of_the_Demons", 1, 400458}
+, 
+{"C_Naval_Officer_Hat", 1, 400459}
+, 
+{"C_Nero_Mask", 1, 410098}
+, 
+{"C_Tiger_Muffler_MSP", 1, 420237}
 }
 , NeedSource_String = "Silvervine Costume"}
 , 
@@ -2464,6 +2480,24 @@ SourceItems = {
 {"Freedom_Stick", 1, 550080}
 }
 , NeedSource_String = "Freedom Stick"}
+, 
+OneSkyOneSun_Cube = {ItemID = 100402, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"OneSkyOneSun", 1, 28631}
+}
+, NeedSource_String = "One Sky One Sun"}
+, 
+SoulWeight_Cube = {ItemID = 100403, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"SoulWeight", 1, 26154}
+}
+, NeedSource_String = "Spirit Pendulum"}
+, 
+Fog_Dew_Sword_Cube = {ItemID = 100400, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Fog_Dew_Sword", 1, 28764}
+}
+, NeedSource_String = "Kiri no Tsuyu"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0
