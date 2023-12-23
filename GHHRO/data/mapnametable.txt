@@ -940,3 +940,49 @@ gl_cas02_.rsw#2nd Hall#
 gl_chyard_.rsw#Churchyard#
 2@gl_k.rsw#Old Glast Heim Chivalry 2F#
 1@gl_k.rsw#Old Glast Heim Chivalry 1F#
+
+//6월 2분기 요일던전
+1@md_gef.rsw#Friday Memorial Dungeon#
+1@md_pay.rsw#Weekend Memorial Dungeon#
+
+//6월 상급고성메모리얼던전
+2@gl_kh.rsw#Old Glast Heim Chivalry 2F#
+1@gl_kh.rsw#Old Glast Heim Chivalry 1F#
+
+//9월 EDDA 낮에 나온 반달
+1@pop1.rsw#Pope's Office#
+1@pop2.rsw#On the way Home#
+1@pop3.rsw#Sky Garden#
+
+//에피소드 16.1 영웅을 위한 	연회
+1@mir.rsw#Room of Consciousness#
+2@mir.rsw#Room of Consciousness#
+1@sthb.rsw#Sky Fortress Interior#
+1@sthc.rsw#Sky Fortress and the Chamber of Secrets#
+1@sthd.rsw#Sky Fortress Top Floor#
+prt_cas.rsw#Prontera Central Palace#
+prt_cas_q.rsw#Prontera Royal Villa#
+prt_prison.rsw#Prontera Underground Prison#
+prt_lib.rsw#Memories of the Royal Family#
+prt_lib_q.rsw#Past Memories of the Royal Family#
+prt_q.rsw#Invaded Prontera#
+prt_pri00.rsw#Prontera Prison#
+
+//10월 12일 할로윈
+1@halo.rsw#Halloween Festival Hall#
+
+//11월 23일 건슬링거 레벨링
+ayo_dun2a.rsw#Sharpshooter’s Haven#
+bossnia_1a.rsw#Dreadfell#
+//11월 23일 슈퍼노비스 레벨링
+moc_pryd4a.rsw#Novice Ground#
+ra_fild8a.rsw#Super Novice Area 1#
+tur_dun4a.rsw#Super Novice Area 2#
+//11월 23일 국가대항전의상
+thor_v02a.rsw#Volcano Peaks#
+
+//4분기
+// 리벨리온 전직맵
+job_gun.rsw#Shelter of Rebellion#
+que_ng.rsw#Unknown Area#
+1@infi.rsw#Infinity Space#

@@ -1307,8 +1307,6 @@ AttackRange = {9}
 , 
 _NeedSkillList = {
 {SKID.GS_GLITTERING, 1}
-, 
-{SKID.GS_CHAINACTION, 10}
 }
 }
 , 
@@ -1329,8 +1327,6 @@ AttackRange = {9}
 , 
 _NeedSkillList = {
 {SKID.GS_GLITTERING, 5}
-, 
-{SKID.GS_TRACKING, 10}
 }
 }
 , 
@@ -1346,8 +1342,6 @@ SpAmount = {30}
 AttackRange = {1}
 , 
 _NeedSkillList = {
-{SKID.GS_GATLINGFEVER, 10}
-, 
 {SKID.GS_GLITTERING, 4}
 }
 }
@@ -1365,8 +1359,6 @@ AttackRange = {1}
 , 
 _NeedSkillList = {
 {SKID.GS_GLITTERING, 4}
-, 
-{SKID.GS_DISARM, 5}
 }
 }
 , 
@@ -1387,8 +1379,6 @@ AttackRange = {1}
 , 
 _NeedSkillList = {
 {SKID.GS_GLITTERING, 2}
-, 
-{SKID.GS_SNAKEEYE, 10}
 }
 }
 , 
@@ -1405,7 +1395,7 @@ _NeedSkillList = {
 [SKID.GS_MAGICALBULLET] = {"GS_MAGICALBULLET"; SkillName = "Magical Bullet", MaxLv = 1, 
 SpAmount = {7}
 , bSeperateLv = false, 
-AttackRange = {9}
+AttackRange = {1}
 , 
 _NeedSkillList = {
 {SKID.GS_GLITTERING, 1}
@@ -1540,7 +1530,7 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.GS_GATLINGFEVER] = {"GS_GATLINGFEVER"; SkillName = "Gatling Feaver", MaxLv = 10, 
+[SKID.GS_GATLINGFEVER] = {"GS_GATLINGFEVER"; SkillName = "Gatling Fever", MaxLv = 10, 
 SpAmount = {30, 32, 34, 36, 38, 40, 42, 44, 46, 48}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
@@ -1572,25 +1562,23 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.GS_SPREADATTACK] = {"GS_SPREADATTACK"; SkillName = "Spread Attack", MaxLv = 10, 
-SpAmount = {15, 20, 25, 30, 35, 40, 45, 50, 55, 60}
+[SKID.GS_SPREADATTACK] = {"GS_SPREADATTACK"; SkillName = "Spread Shot", MaxLv = 10, 
+SpAmount = {13, 16, 19, 22, 25, 28, 31, 34, 37, 40}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
 _NeedSkillList = {
-{SKID.GS_FULLBUSTER, 5}
+{SKID.GS_SINGLEACTION, 5}
 }
 }
 , 
 [SKID.GS_GROUNDDRIFT] = {"GS_GROUNDDRIFT"; SkillName = "Gunslinger Mine", MaxLv = 10, 
-SpAmount = {4, 8, 12, 16, 20, 24, 28, 32, 36, 40}
+SpAmount = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
 _NeedSkillList = {
 {SKID.GS_SPREADATTACK, 7}
-, 
-{SKID.GS_FULLBUSTER, 5}
 }
 }
 , 
@@ -9717,7 +9705,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.RL_R_TRIP] = {"RL_R_TRIP"; SkillName = "Round Trip", MaxLv = 5, 
-SpAmount = {20, 25, 30, 35, 40}
+SpAmount = {40, 45, 50, 55, 60}
 , bSeperateLv = true, 
 AttackRange = {0, 0, 0, 0, 0}
 , 
@@ -9737,7 +9725,7 @@ _NeedSkillList = {
 }
 , 
 [SKID.RL_MASS_SPIRAL] = {"RL_MASS_SPIRAL"; SkillName = "Mass Spiral", MaxLv = 5, 
-SpAmount = {80, 84, 88, 92, 96}
+SpAmount = {40, 44, 48, 52, 56}
 , bSeperateLv = true, 
 AttackRange = {15, 15, 15, 15, 15}
 , 
@@ -9750,6 +9738,10 @@ _NeedSkillList = {
 SpAmount = {30, 32, 34, 36, 38}
 , bSeperateLv = true, 
 AttackRange = {0, 0, 0, 0, 0}
+, 
+_NeedSkillList = {
+{SKID.RL_FLICKER, 1}
+}
 }
 , 
 [SKID.RL_BANISHING_BUSTER] = {"RL_BANISHING_BUSTER"; SkillName = "Vanishing Buster", MaxLv = 5, 
@@ -9787,7 +9779,7 @@ _NeedSkillList = {
 [SKID.RL_AM_BLAST] = {"RL_AM_BLAST"; SkillName = "Anti Material Blast", MaxLv = 5, 
 SpAmount = {80, 84, 88, 92, 96}
 , bSeperateLv = true, 
-AttackRange = {9, 9, 9, 9, 9}
+AttackRange = {15, 15, 15, 15, 15}
 , 
 _NeedSkillList = {
 {SKID.RL_MASS_SPIRAL, 1}
@@ -9800,6 +9792,8 @@ SpAmount = {45, 45, 45, 45, 45, 45, 45, 45, 45, 45}
 AttackRange = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , 
 _NeedSkillList = {
+{SKID.GS_GLITTERING, 1}
+, 
 {SKID.GS_CHAINACTION, 10}
 }
 }
@@ -9810,7 +9804,7 @@ SpAmount = {5}
 AttackRange = {0}
 , 
 _NeedSkillList = {
-{SKID.RL_E_CHAIN, 1}
+{SKID.GS_CHAINACTION, 1}
 }
 }
 , 
@@ -9820,17 +9814,17 @@ SpAmount = {10}
 AttackRange = {11}
 , 
 _NeedSkillList = {
-{SKID.GS_INCREASING, 1}
+{SKID.GS_GLITTERING, 1}
 }
 }
 , 
 [SKID.RL_FIREDANCE] = {"RL_FIREDANCE"; SkillName = "Fire Dance", MaxLv = 5, 
-SpAmount = {10, 10, 10, 10, 10}
+SpAmount = {12, 14, 16, 18, 20}
 , bSeperateLv = true, 
 AttackRange = {0, 0, 0, 0, 0}
 , 
 _NeedSkillList = {
-{SKID.RL_FALLEN_ANGEL, 1}
+{SKID.GS_DESPERADO, 1}
 }
 }
 , 
@@ -9844,10 +9838,10 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.RL_FALLEN_ANGEL] = {"RL_FALLEN_ANGEL"; SkillName = "Fallen Angel", MaxLv = 5, 
-SpAmount = {10, 10, 10, 10, 10}
-, bSeperateLv = true, 
-AttackRange = {9, 9, 9, 9, 9}
+[SKID.RL_FALLEN_ANGEL] = {"RL_FALLEN_ANGEL"; SkillName = "Fallen Angel", MaxLv = 1, 
+SpAmount = {10}
+, bSeperateLv = false, 
+AttackRange = {9}
 , 
 _NeedSkillList = {
 {SKID.GS_DESPERADO, 10}
@@ -9858,6 +9852,10 @@ _NeedSkillList = {
 SpAmount = {20, 24, 28, 32, 36}
 , bSeperateLv = true, 
 AttackRange = {0, 0, 0, 0, 0}
+, 
+_NeedSkillList = {
+{SKID.RL_RICHS_COIN, 1}
+}
 }
 , 
 [SKID.RL_FLICKER] = {"RL_FLICKER"; SkillName = "Flicker", MaxLv = 1, 
@@ -9866,7 +9864,7 @@ SpAmount = {2}
 AttackRange = {0}
 , 
 _NeedSkillList = {
-{SKID.GS_FLING, 1}
+{SKID.GS_GLITTERING, 1}
 }
 }
 , 
@@ -9876,7 +9874,7 @@ SpAmount = {45, 50, 55, 60, 65}
 AttackRange = {7, 8, 9, 10, 11}
 , 
 _NeedSkillList = {
-{SKID.GS_SPREADATTACK, 1}
+{SKID.GS_GROUNDDRIFT, 1}
 }
 }
 , 
@@ -9886,6 +9884,8 @@ SpAmount = {35, 40, 45, 50, 55}
 AttackRange = {7, 8, 9, 10, 11}
 , 
 _NeedSkillList = {
+{SKID.RL_RICHS_COIN, 1}
+, 
 {SKID.RL_AM_BLAST, 3}
 }
 }
@@ -9896,7 +9896,7 @@ SpAmount = {30, 30, 30, 30, 30}
 AttackRange = {0, 0, 0, 0, 0}
 , 
 _NeedSkillList = {
-{SKID.RL_FIREDANCE, 2}
+{SKID.RL_RICHS_COIN, 1}
 }
 }
 , 
@@ -10455,6 +10455,42 @@ SkillScale = {
 [4] = {x = 23, y = 23}
 , 
 [5] = {x = 29, y = 29}
+}
+}
+, 
+[SKID.ALL_PRONTERA_RECALL] = {"ALL_PRONTERA_RECALL"; SkillName = "To Prontera", MaxLv = 2, 
+SpAmount = {0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1}
+}
+, 
+[SKID.NPC_ELECTRICWALK] = {"NPC_ELECTRICWALK"; SkillName = "Electric Walk", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.NPC_FIREWALK] = {"NPC_FIREWALK"; SkillName = "Fire Walk", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {1, 1, 1, 1, 1}
+}
+, 
+[SKID.NPC_CLOUD_KILL] = {"NPC_CLOUD_KILL"; SkillName = "Killing Cloud", MaxLv = 5, 
+SpAmount = {0, 0, 0, 0, 0}
+, bSeperateLv = false, 
+AttackRange = {9, 9, 9, 9, 9}
+, 
+SkillScale = {
+[1] = {x = 3, y = 3}
+, 
+[2] = {x = 5, y = 5}
+, 
+[3] = {x = 7, y = 7}
+, 
+[4] = {x = 7, y = 7}
+, 
+[5] = {x = 7, y = 7}
 }
 }
 }

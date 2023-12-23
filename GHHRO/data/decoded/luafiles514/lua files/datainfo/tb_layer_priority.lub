@@ -5,6 +5,8 @@
 -- function num : 0
 TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, Default_Robe = 400, 
 Items_List = {
+[ACCESSORY_IDs.ACCESSORY_C_Cinnamon] = {Default = 304, isIgnoreRiding = true}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Picnic_Basket] = {Default = 304, 
 Direction = {}
 }

@@ -4079,7 +4079,7 @@ Description = {"Take the letter to Mr. Wise Bull Horn in Payon."}
 , 
 [6021] = {Title = "Wise Bull Horn\'s voucher", 
 Description = {"I can make a voucher that will demonstrate your desire to become a warrior of the earth for you to present to Gunslinger drillmasters."}
-, Summary = "1 Trunk, 1 Mushroom Spore, 1 Green Herb"}
+, Summary = "3 Mushroom Spore, 3 Green Herb"}
 , 
 [6022] = {Title = "Making a voucher", 
 Description = {"It\'s going to take a little while. Talk to him again a bit later."}
@@ -10194,7 +10194,7 @@ Description = {"Talk to Peperoncino at the [Adventurer\'s Club]."}
 , Summary = "Talk to Peperoncino"}
 , 
 [11446] = {Title = "Jakk and Jakk\'s Jakky days", 
-Description = {"You are woken up by the whispering voices of ghosts. You find yourself in Niflheim, the city of the dead. Let\'s hear what the ghosts have to say."}
+Description = {"You are woken up by the whispering voices of ghosts. You find yourself in Nifflheim, the city of the dead. Let\'s hear what the ghosts have to say."}
 , Summary = "Talk to Hororong"}
 , 
 [11447] = {Title = "Jakk and Jakk\'s Jakky days", 
@@ -10207,15 +10207,15 @@ Description = {"You hear about the place where Jakk used to stay. Let\'s go back
 , 
 [11449] = {Title = "Jakk and Jakk\'s Jakky days", 
 Description = {"Somewhere in the field and in the dungeon, capture about 10 Jakks who are running away. Bring 10 Pumpkin Decos and 20 Dry White Stems to Hororong. They are dropped when you capture the Jakks."}
-, Summary = "Send Jakk to Niflheim"}
+, Summary = "Send Jakk to Nifflheim"}
 , 
 [11450] = {Title = "Jakk and Jakk\'s Jakky days", 
-Description = {"You have brought Jakk to Niflheim. According to the ghosts, Jakk\'s stem can grow if he stays in the land of the living for a long time. Let him take a good rest."}
+Description = {"You have brought Jakk to Nifflheim. According to the ghosts, Jakk\'s stem can grow if he stays in the land of the living for a long time. Let him take a good rest."}
 , Summary = "Jakk\'s rest"}
 , 
 [11451] = {Title = "Jakk and Jakk\'s Jakky days", 
 Description = {"Somewhere in the field and in the dungeon, capture about 10 Jakks who are running away. Bring 10 Pumpkin Decos and 20 Dry White Stems to Hororing. They are dropped when you capture the Jakks."}
-, Summary = "Send Jakk to Niflheim"}
+, Summary = "Send Jakk to Nifflheim"}
 , 
 [11471] = {Title = "The Fast & The Old man", 
 Description = {"Deliver ^0000ff20 Empty Test Tubes, 50 Empty Potion Bottles, 1 Fire Scroll, and 5 Holy Water^000000to Boxter."}
@@ -10278,8 +10278,8 @@ Description = {"It seems that the surprised kitty ran away when Jakk was capture
 , Summary = "Talk to Harorong"}
 , 
 [11486] = {Title = "Jakk and Jakk\'s cat", 
-Description = {"Nibble, who\'s at the entrance, may have seen the kitty. Talk to Nibble at the western entrance to Niflheim."}
-, Summary = "Nibble at the western entrance to Niflheim"}
+Description = {"Nibble, who\'s at the entrance, may have seen the kitty. Talk to Nibble at the western entrance to Nifflheim."}
+, Summary = "Nibble at the western entrance to Nifflheim"}
 , 
 [11487] = {Title = "Jakk and Jakk\'s cat", 
 Description = {"A small, white object quickly passed the entrance not so long ago. They are not sure if it was a cat. Let\'s ask the guy outside the entrance."}
@@ -10311,14 +10311,14 @@ Description = {"You\'ve found a white cat, but it doesn\'t look like Jakk??s kit
 , 
 [11494] = {Title = "Jakk and Jakk\'s cat", 
 Description = {"In the sand, you find bones that seem to come from a small animal. You also find a red necklace with a bell. Let\'s go back to Jakk."}
-, Summary = "Talk to Jakk in Niflheim"}
+, Summary = "Talk to Jakk in Nifflheim"}
 , 
 [11495] = {Title = "Hi! I\'m Premi!", 
 Description = {"Hi! I\'m Premi! Nice to meet you~~~~>.<"}
 , Summary = "Hi! >w<)/"}
 , 
 [11498] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"You arrive in Niflheim, the town of the dead, where you woke up to the murmur of ghosts. Listen to the ghosts\' stories."}
+Description = {"You arrive in Nifflheim, the town of the dead, where you woke up to the murmur of ghosts. Listen to the ghosts\' stories."}
 , Summary = "Talk to Hororong"}
 , 
 [11499] = {Title = "Jakk and Jakk\'s days like Jakk", 
@@ -10330,16 +10330,16 @@ Description = {"You hear about the place where Jakk once was. Go back to <NAVI>[
 , Summary = "Talk to Hururong"}
 , 
 [11501] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"Hunt 10 Runaway Jakk in the fields and dungeons and collect 10 Pumpkin Decorations and 20 Dry White Stems for <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
-, Summary = "Send Jakk to Niflheim"}
+Description = {"Hunt 10 Jakk in the fields and dungeons and collect 10 Pumpkin Decorations and 20 Dry White Stems for <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
+, Summary = "Send Jakk to Nifflheim"}
 , 
 [11502] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"You\'ve brought Jakk to Niflheim. According to the ghosts, Jakk will take root in the ground if he stays too long in the land of the living. Let <NAVI>[him]<INFO>niflheim,177,242,0,101,0</INFO></NAVI> rest."}
+Description = {"You\'ve brought Jakk to Nifflheim. According to the ghosts, Jakk will take root in the ground if he stays too long in the land of the living. Let <NAVI>[him]<INFO>niflheim,177,242,0,101,0</INFO></NAVI> rest."}
 , Summary = "Resets at 4am"}
 , 
 [11503] = {Title = "Jakk and Jakk\'s days like Jakk", 
-Description = {"Hunt 10 Runaway Jakk in the fields and dungeons and collect 10 Pumpkin Decorations and 20 Dry White Stems for <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
-, Summary = "Send Jakk to Niflheim"}
+Description = {"Hunt 10 Jakk in the fields and dungeons and collect 10 Pumpkin Decorations and 20 Dry White Stems for <NAVI>[Hororong]<INFO>niflheim,177,242,0,101,0</INFO></NAVI>."}
+, Summary = "Send Jakk to Nifflheim"}
 , 
 [11504] = {Title = "Jakk and Jakk\'s Cat", 
 Description = {"It\'s hard to understand, but it seems that you have to get a Dry White Stem and come back to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
@@ -10350,8 +10350,8 @@ Description = {"When Jakk was caught, Meow got spooked and ran away. Inquire wit
 , Summary = "Talk to Harorong"}
 , 
 [11506] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"You hear Nible, who\'s at the entrance, might have seen Meow. Talk to <NAVI>[Nible]<INFO>niflheim,43,147,0,101,0</INFO></NAVI> at the western entrance to Niflheim."}
-, Summary = "Nible at the western entrance to Niflheim"}
+Description = {"You hear Nible, who\'s at the entrance, might have seen Meow. Talk to <NAVI>[Nible]<INFO>niflheim,43,147,0,101,0</INFO></NAVI> at the western entrance to Nifflheim."}
+, Summary = "Nible at the western entrance to Nifflheim"}
 , 
 [11507] = {Title = "Jakk and Jakk\'s Cat", 
 Description = {"Whether it was a cat or not, a little white thing went past the entrance very fast. Inquire with the <NAVI>[guy]<INFO>nif_fild02,366,247,0,101,0</INFO></NAVI> past the entrance about it."}
@@ -10366,7 +10366,7 @@ Description = {"Jakk\'s Meow seems to have gone to Midgard through the stems of 
 , Summary = "Examine the northern entrance of Umbala"}
 , 
 [11510] = {Title = "Jakk and Jakk\'s Cat", 
-Description = {"The researcher said he reported a small white thing on the way to Morocc. Examine the northern entrance area of <NAVI>[Morroc]<INFO>morocc,154,248,0,101,0</INFO></NAVI>."}
+Description = {"The researcher said he reported a small white thing on the way to Morocc. Examine the northern entrance area of <NAVI>[Morocc]<INFO>morocc,154,248,0,101,0</INFO></NAVI>."}
 , Summary = "Examine the entrance of Morocc"}
 , 
 [11511] = {Title = "Jakk and Jakk\'s Cat", 
@@ -10383,61 +10383,61 @@ Description = {"You\'ve found a white cat, but it\'s not Jakk\'s. Examine the su
 , 
 [11514] = {Title = "Jakk and Jakk\'s Cat", 
 Description = {"You find the bones of a small animal and a red ribbon with a bell. Go back to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
-, Summary = "Talk to Jakk in Niflheim"}
+, Summary = "Talk to Jakk in Nifflheim"}
 , 
-[11515] = {Title = "The wind is blowing from the black hill", 
+[11515] = {Title = "Wind from the Black Hill", 
 Description = {"Jakk says Meow was not okay. Meet <NAVI>[Meow]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> in the south of Jakk."}
 , Summary = "Talk to Meow"}
 , 
-[11516] = {Title = "The wind is blowing from the black hill", 
+[11516] = {Title = "Wind from the Black Hill", 
 Description = {"Meow has evolved into a Teacher Scatleton due to the adventure. Tell <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> that the cat cannot go back to how he was because he has changed a lot."}
 , Summary = "Talk to Jakk"}
 , 
-[11517] = {Title = "The wind is blowing from the black hill", 
+[11517] = {Title = "Wind from the Black Hill", 
 Description = {"There are lots of cats in the middle of the Valley of Gyoll. Try to find Meow <NAVI>[there]<INFO>nif_fild02,135,230,0,101,0</INFO></NAVI>."}
 , Summary = "Search for Meow"}
 , 
-[11518] = {Title = "The wind is blowing from the black hill", 
+[11518] = {Title = "Wind from the Black Hill", 
 Description = {"You find several Scatletons in the middle of the Valley of Gyoll, but they don\'t seem so good. Collect ^ff00005 Black Fur^000000 to warm <NAVI>[Scatleton]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI>."}
 , Summary = "5 Black Furs"}
 , 
-[11519] = {Title = "The wind is blowing from the black hill", 
+[11519] = {Title = "Wind from the Black Hill", 
 Description = {"Scatleton was too upset to have further conversations. Go back to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Jakk"}
 , 
-[11520] = {Title = "The wind is blowing from the black hill", 
+[11520] = {Title = "Wind from the Black Hill", 
 Description = {"Jakk loves his cat more than any other cat. Talk to <NAVI>[Teacher Scatleton]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> again."}
 , Summary = "Talk to Teacher Scatleton"}
 , 
-[11521] = {Title = "The wind is blowing from the black hill", 
+[11521] = {Title = "Wind from the Black Hill", 
 Description = {"Teacher Scatleton doesn\'t want to talk anymore. Go back to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>."}
 , Summary = "Talk to Jakk"}
 , 
-[11522] = {Title = "The wind is blowing from the black hill", 
+[11522] = {Title = "Wind from the Black Hill", 
 Description = {"Jakk says he will wait for Meow and asks to take care of other cats. Help <NAVI>[Scatletons]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI> in the valley of Gyoll by collecting ^ff000010 Dry White Stems^000000."}
 , Summary = "To the Valley of Gyoll"}
 , 
-[11523] = {Title = "The wind is blowing from the black hill", 
+[11523] = {Title = "Wind from the Black Hill", 
 Description = {"<NAVI>[Scatletons]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI> seems to get hungry when he recovers. Collect ^ff000010 Delicious Fish^000000."}
 , Summary = "10 Delicious Fish"}
 , 
-[11524] = {Title = "The wind is blowing from the black hill", 
+[11524] = {Title = "Wind from the Black Hill", 
 Description = {"<NAVI>[Scatletons]<INFO>nif_fild02,137,228,0,101,0</INFO></NAVI> asks for ^ff000020 more Dry White Stems^000000. Collect them."}
 , Summary = "20 Dry White Stems"}
 , 
-[11525] = {Title = "The wind is blowing from the black hill", 
+[11525] = {Title = "Wind from the Black Hill", 
 Description = {"Teacher Scatleton seems to have the same vigor that Teacher Scatleton has. Let\'s ask <NAVI>[Teacher Scatleton]<INFO>niflheim,147,199,0,101,0</INFO></NAVI> for more details."}
 , Summary = "Talk to Teacher Scatleton"}
 , 
-[11526] = {Title = "The wind is blowing from the black hill", 
+[11526] = {Title = "Wind from the Black Hill", 
 Description = {"Teacher Scatleton is also going to set out on the journey. Talk to <NAVI>[Jakk]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> about it."}
 , Summary = "Talk to Jakk"}
 , 
-[11527] = {Title = "The wind is blowing from the black hill", 
+[11527] = {Title = "Wind from the Black Hill", 
 Description = {"Jakk must be tired. Come back to <NAVI>[him]<INFO>niflheim,172,244,0,101,0</INFO></NAVI> after 4 in the morning."}
 , Summary = "Resets at 4am"}
 , 
-[11528] = {Title = "The wind is blowing from the black hill", 
+[11528] = {Title = "Wind from the Black Hill", 
 Description = {"Enabled to get black fur from the monsters in the Valley of Gyoll."}
 , Summary = "A black fur collector"}
 , 
@@ -26792,5 +26792,1641 @@ Description = {"You caught all the Rogue Noodles. Once you have completed all fo
 [14975] = {Title = "Coupon: Complete Ice cream", 
 Description = {"How was the cool ice cream? Once you have completed all four of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!"}
 , Summary = "Check out Merchant Borame"}
+, 
+[291162] = {Title = "Land of the Kings - Standby", IconName = "ico_ev.bmp", 
+Description = {"You can enter Land of the Kings 5 times a day by talking to <NAVI>[Abang Mat]<INFO>prontera,142,169,0,101,0,</INFO></NAVI>."}
+, Summary = "Resets at 4 am"}
+, 
+[291163] = {Title = "Abang Mat\'s Special Quest", IconName = "ico_ev.bmp", 
+Description = {"Defeat 40 Kucing and 40 Singapura in Land of the Kings. Return to <NAVI>[Abang Mat]<INFO>prontera,142,169,0,101,0,</INFO></NAVI> after completing the quest."}
+, Summary = "Defeat monsters in Land of the Kings"}
+, 
+[291164] = {Title = "Abang Mat\'s Special Quest", IconName = "ico_ev.bmp", 
+Description = {"Defeat 40 Kucing and 40 Singapura in Land of the Kings. Return to <NAVI>[Abang Mat]<INFO>prontera,142,169,0,101,0,</INFO></NAVI> after completing the quest."}
+, Summary = "Defeat monsters in Land of the Kings"}
+, 
+[291165] = {Title = "Standby : Abang Mat\'s Special Quest", IconName = "ico_ev.bmp", 
+Description = {"You can receive a special quest once a day from <NAVI>[Abang Mat]<INFO>prontera,142,169,0,101,0,</INFO></NAVI>. This quest can be reset once by using a Nyangvine."}
+, Summary = "Resets at 4 am"}
+, 
+[291166] = {Title = "Standby : Abang Mat\'s Special Quest (Repeat)", IconName = "ico_ev.bmp", 
+Description = {"After using Nyangvine, you have received Abang Mat\'s Special Quest once again. This can be reset once a day only. After 4 am go to <NAVI>[Abang Mat]<INFO>prontera,142,169,0,101,0,</INFO></NAVI> to receive a new quest."}
+, Summary = "Resets at 4 am"}
+, 
+[291167] = {Title = "A Wrinkle In Time - Standby", IconName = "ico_ev.bmp", 
+Description = {"Now we can re-enter the Endless Tower by bringing 6 Nyangvines to <NAVI>[Lady Regina]<INFO>e_tower,76,92,0,101,0,</INFO></NAVI>. This is only available once a day and will be reset at 4 am."}
+, Summary = "Resets at 4 am"}
+, 
+[291168] = {Title = "message to support WMHD 2023", IconName = "ico_ev.bmp", 
+Description = {"."}
+, Summary = "."}
+, 
+[14976] = {Title = "Fire Event", 
+Description = {"You need a few things that burn well to participate in the fire. Please bring <NAVI>[me]<INFO>alberta,138,169,0,101,0</INFO></NAVI> 5 High Quality Branches, 10 Tree Root, and 1 Fire Arrow."}
+, Summary = "Collect flammable material"}
+, 
+[14977] = {Title = "Luna", 
+Description = {"Would you like to meet and talk to <NAVI>[Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI> who is the wizard from the Geffen Tower for this festival?"}
+, Summary = "Looking for Luna"}
+, 
+[14978] = {Title = "Hungry Wild Boar", 
+Description = {"It takes a lot of work to capture wild boar that ruin crops. Please look for <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>."}
+, Summary = "Looking for Serena"}
+, 
+[14979] = {Title = "Harvest Festival Preparations", 
+Description = {"Food is indispensable to the festival. Please look for <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> who is preparing the festival food."}
+, Summary = "Looking for Songhwa"}
+, 
+[14980] = {Title = "The meaning of Harvest Festival", 
+Description = {"On Thanksgiving, we always make fruit lunch boxes and distribute them to those who cannot participate in the festival. Go to event hall for make the <NAVI>[Fruit Lunch Box]<INFO>alberta,140,217,0,101,0</INFO></NAVI>."}
+, Summary = "To event hall"}
+, 
+[14981] = {Title = "Revival Branches", 
+Description = {"Please defeat 10 Revival Branches and bring me 10 High Quality Branches. My honor and my life depend on you! <NAVI>[Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"}
+, Summary = "10 High Quality Branches"}
+, 
+[14982] = {Title = "Revival Branches(Stand by)", 
+Description = {"Will you come back after dawn? -<NAVI>[Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
+, 
+[14983] = {Title = "Hungry Wild Boar", 
+Description = {"It has to capture hungry wild boars who are lost and wandering and sending them back home. Capture 10 hungry wild boars with the savage trap <NAVI>[I]<INFO>alberta,151,200,0,101,0</INFO></NAVI> gave you."}
+, Summary = "Defeat 10 Wild Boars"}
+, 
+[14984] = {Title = "Hungry Wild Boar(Stand by)", 
+Description = {"They need to fix the savage trap. Please come back to <NAVI>[me]<INFO>alberta,152,198,0,101,0</INFO></NAVI> after dawn?"}
+, Summary = "Reset at 4am"}
+, 
+[14985] = {Title = "Harvest Festival Preparations", 
+Description = {"Don\'t have any ingredients to make Songpyun. Could you please bring 1 Grain, 3 Honey and 10 Green Herb to make Songpyun? -<NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "1 Grain, 3 Honey and 10 Green Herb"}
+, 
+[14986] = {Title = "Harvest Festival Preparations", 
+Description = {"Don\'t have any ingredients to make Moon Cookie. Could you please bring 1 Yellow Spice and 3 Trunk to make Moon Cookie? -<NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "1 Yellow Spice and 3 Trunk"}
+, 
+[14987] = {Title = "Harvest Festival Preparations", 
+Description = {"Don\'t have any ingredients to make roasted turkey. Could you please bring 1 Plain Sauce, 10 Carrot and 3 Lemon to make roasted turkey? -<NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"}
+, Summary = "1 Plain Sauce, 10 Carrot and 3 Lemon"}
+, 
+[14988] = {Title = "Harvest Festival Preparations(Stand by)", 
+Description = {"I\'m in the middle of food prep and can\'t give you anything. Will you come back to <NAVI>[me]<INFO>alberta,119,193,0,101,0</INFO></NAVI>after dawn?"}
+, Summary = "Reset at 4am"}
+, 
+[14989] = {Title = "The meaning of Harvest Festival", 
+Description = {"There is a way to reconcile the two houses. Let\'s go to <NAVI>[apple orchard]<INFO>pay_fild03,211,174,0,101,0</INFO></NAVI>!"}
+, Summary = "Go to Apple Orchard"}
+, 
+[14990] = {Title = "The meaning of Harvest Festival", 
+Description = {"Please bring the 2 Apples from Coco\'s <NAVI>[apple tree]<INFO>pay_fild03,211,179,0,101,0</INFO></NAVI>."}
+, Summary = "2 Apples"}
+, 
+[14991] = {Title = "The meaning of Harvest Festival", 
+Description = {"Please deliver to <NAVI>[Zingco\'s house]<INFO>alberta,47,118,0,101,0</INFO></NAVI>. I will follow you soon!"}
+, Summary = "Go to Zingco\'s house"}
+, 
+[14992] = {Title = "The meaning of Harvest Festival", 
+Description = {"<NAVI>[The field of sweet potato]<INFO>pay_fild03,211,174,0,101,0</INFO></NAVI> is being destroyed by a wild boar! "}
+, Summary = "Go to Sweet Potato Field"}
+, 
+[14993] = {Title = "The meaning of Harvest Festival", 
+Description = {"Bring me 5 Apples and 5 Sweet Potatoes for hungry wild boar! - <NAVI>[Iai]<INFO>pay_fild03,211,174,0,101,0</INFO></NAVI>"}
+, Summary = "5 Apple and 5 Sweet Potato"}
+, 
+[14994] = {Title = "Fruit Lunch Box Delivery", 
+Description = {"Bring me 3 each of Apple, Sweet Potato, and Tasty Corn, and we\'ll make a delicious fruit lunch! - <NAVI>[Iai]<INFO>alberta,140,217,0,101,0</INFO></NAVI>"}
+, Summary = "Fruit Lunch Box"}
+, 
+[14995] = {Title = "Fruit Lunch Box Delivery", 
+Description = {"Please deliver this fruit lunch box to <NAVI>[Sailor]<INFO>alberta,231,117,0,101,0</INFO></NAVI>."}
+, Summary = "To Sailor"}
+, 
+[14996] = {Title = "Fruit Lunch Box Delivery", 
+Description = {"Please deliver this fruit lunch box to <NAVI>[Old Man]<INFO>alberta,108,236,0,101,0</INFO></NAVI>."}
+, Summary = "To Old Man"}
+, 
+[14997] = {Title = "Fruit Lunch Box Delivery", 
+Description = {"Please deliver this fruit lunch box to <NAVI>[Outsider]<INFO>alberta,208,50,0,101,0</INFO></NAVI>."}
+, Summary = "To Outsider"}
+, 
+[14998] = {Title = "Fruit Lunch Box Delivery", 
+Description = {"It has delivered the fruit lunch box, let\'s go back to <NAVI>[Iai]<INFO>alberta,140,217,0,101,0</INFO></NAVI>."}
+, Summary = "To Iai"}
+, 
+[14999] = {Title = "Fruit Lunch Box Delivery(Stand by)", 
+Description = {"You\'ll be exhausted today, so come back after dawn! - <NAVI>[Iai]<INFO>alberta,140,217,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
+, 
+[17036] = {Title = "The meaning of Harvest Festival", 
+Description = {"Apple picking"}
+, Summary = "Apple picking"}
+, 
+[5402] = {Title = "The Royal Richard", IconName = "ico_ep.bmp", 
+Description = {"You have made an appointment to meet Po, the head of the Richard family. Go to see <NAVI>[Po]<INFO>prt_cas_q,93,74,0,101,0</INFO></NAVI> the head of the Richard family."}
+, Summary = ""}
+, 
+[5403] = {Title = "The Royal Richard", IconName = "ico_nq.bmp", 
+Description = {"For some reason, he has asked you to proceed with the training program of the Richard family. You\'ll be rewarded for it. Why don\'t you try?"}
+, Summary = ""}
+, 
+[5404] = {Title = "[Repeat]Warrior Discipline Demi-Human", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 Demi-Human monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5405] = {Title = "[Repeat]Warrior Discipline-Beast", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 Beast monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5406] = {Title = "[Repeat]Warrior Discipline-Insect", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 insect monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5407] = {Title = "[Repeat]Warrior Discipline-Fish", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 fish monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5408] = {Title = "[Repeat]Warrior Discipline-Plant", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 plant monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5409] = {Title = "[Repeat]Warrior Discipline-Demon", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 demon monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5410] = {Title = "[Repeat]Warrior Discipline-Angel", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 angel monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5411] = {Title = "[Repeat]Warrior Discipline-Undead", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 undead monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5412] = {Title = "[Repeat]Warrior Discipline-Formless", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 formless monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5413] = {Title = "[Repeat]Warrior Discipline-Dragon", IconName = "ico_dq.bmp", 
+Description = {"Defeat the 50 dragon monsters as part of the Warrior Discipline program of the Richard family."}
+, Summary = ""}
+, 
+[5414] = {Title = "[Stand by] Warrior Discipline", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Butler]<INFO>prt_cas_q,80,80,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5415] = {Title = "Restricted Sector", IconName = "ico_nq.bmp", 
+Description = {"You decided to hear about the Restricted Sector from Royal Crusader <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5416] = {Title = "Restricted Sector A", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring Sector A. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5417] = {Title = "Restricted Sector B", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring Sector B. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5418] = {Title = "Restricted Sector C", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring Sector C. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5419] = {Title = "Restricted Sector D", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring Sector D. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5420] = {Title = "Restricted Sector E", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring Sector E. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5421] = {Title = "Restricted Sector F", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring Sector F. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5422] = {Title = "Restricted Sector G", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring Sector G. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5423] = {Title = "Restricted Sector H", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring Sector H. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5424] = {Title = "[Complete]Restricted Sector", IconName = "ico_nq.bmp", 
+Description = {"You have finished exploring the Restricted Sector."}
+, Summary = ""}
+, 
+[5425] = {Title = "To My Beloved Fellow", IconName = "ico_nq.bmp", 
+Description = {"What if you hear a familiar voice in a dark prison? It may scare you a little, but you would feel somewhat nostalgic. Let\'s find the source of the voice."}
+, Summary = ""}
+, 
+[5426] = {Title = "[Stand by] To My Beloved Fellow", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Prisoner]<INFO>prt_prison,243,259,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5427] = {Title = "[Repeat]To My Beloved Fellow", IconName = "ico_dq.bmp", 
+Description = {"Regular exchange of letters is good for the mental health of the prisoners. Get the letter from the friend somewhere in the underground prison."}
+, Summary = ""}
+, 
+[5428] = {Title = "Lowly Standards", IconName = "ico_nq.bmp", 
+Description = {"The prisoner who seems to collect pretty eyes has asked you to bring 20 red eyes of the monster boasting batwings. Is it a self-esteem issue?"}
+, Summary = "20 Red Eyes"}
+, 
+[5429] = {Title = "[Stand by]Lowly Standards", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Prisoner]<INFO>prt_prison,267,188,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5430] = {Title = "[Repeat]Lowly Standards", IconName = "ico_dq.bmp", 
+Description = {"The prisoner asked you to go get some more. Let\'s bring 20 red eyes to calm down the prisoner."}
+, Summary = "20 Red Eyes"}
+, 
+[5431] = {Title = "Clean Life", IconName = "ico_nq.bmp", 
+Description = {"You need to clean the dirty underground prison. Clean with a joyful heart."}
+, Summary = ""}
+, 
+[5432] = {Title = "Cleaning is complete", IconName = "ico_nq.bmp", 
+Description = {"You have finished cleaning the underground prison. Why don\'t you go back for a check?"}
+, Summary = ""}
+, 
+[5433] = {Title = "[Stand by]Clean Life", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Prisoner]<INFO>prt_prison,260,154,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5434] = {Title = "[Repeat]Clean Life", IconName = "ico_dq.bmp", 
+Description = {"It is the time to feel the joy of cleaning. Let\'s clean the underground prison with your heart full of joy."}
+, Summary = ""}
+, 
+[5435] = {Title = "[Repeat]Cleaning is complete.", IconName = "ico_dq.bmp", 
+Description = {"You have finished cleaning the underground prison. Why don\'t you go back for a check?"}
+, Summary = ""}
+, 
+[5436] = {Title = "Finding Lights", IconName = "ico_nq.bmp", 
+Description = {"This prisoner seems to hate darkness. Let\'s bring a bright light from the huge torch in this prison."}
+, Summary = ""}
+, 
+[5437] = {Title = "[Stand by]Finding Lights", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Prisoner]<INFO>prt_prison,101,72,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5438] = {Title = "[Repeat]Finding Lights", IconName = "ico_dq.bmp", 
+Description = {"Let\'s bring a bright light again from the huge torch in this prison."}
+, Summary = ""}
+, 
+[5439] = {Title = "Refreshing Prison Life", IconName = "ico_nq.bmp", 
+Description = {"The prisoner seems uncomfortable in the humid prison. Bring 20 Dehumidifier for the pleasant jail life of the prisoner."}
+, Summary = ""}
+, 
+[5440] = {Title = "[Stand by]Refreshing Prison Life", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Prisoner]<INFO>prt_prison,111,188,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5441] = {Title = "[Repeat]Refreshing Prison Life", IconName = "ico_dq.bmp", 
+Description = {"As expected, the Dehumidifiers didn\'t last long. Bring 20 Dehumidifiers again."}
+, Summary = ""}
+, 
+[5442] = {Title = "Suppressing Darkness", IconName = "ico_nq.bmp", 
+Description = {"A flower not only brightens up the darkness but also brings peace to the mind. Bring a flower."}
+, Summary = ""}
+, 
+[5443] = {Title = "[Stand by]Suppressing Darkness", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Prisoner]<INFO>prt_prison,98,214,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5444] = {Title = "[Repeat]Suppressing Darkness", IconName = "ico_dq.bmp", 
+Description = {"Darkness is raging again. Bring a flower. Which flower should I bring this time?"}
+, Summary = ""}
+, 
+[5445] = {Title = "Bothersome Little Thing", IconName = "ico_nq.bmp", 
+Description = {"The little bump on the horn... I can\'t understand since don\'t have a horn, but I guess it is supposed to be a bothersome thing. Let\'s bring 20 pieces of Sandpaper by hunting the Taffies."}
+, Summary = ""}
+, 
+[5446] = {Title = "[Stand by]Bothersome Little Thing", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Prisoner]<INFO>prt_prison,55,118,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5447] = {Title = "[Repeat]Bothersome Little Thing", IconName = "ico_dq.bmp", 
+Description = {"Why does he need more pieces of Sandpaper? Since he asks, hunt Taffies and bring 20 pieces of Sandpaper."}
+, Summary = ""}
+, 
+[5448] = {Title = "Request from Chief Guard", IconName = "ico_dq.bmp", 
+Description = {"Prontera Chief Guard Spiegel asked you to help the <NAVI>[villagers]<INFO>prt_q,221,193,0,101,0</INFO></NAVI> in distress in the places marked on the map."}
+, Summary = ""}
+, 
+[5449] = {Title = "Request from Chief Guard", IconName = "ico_dq.bmp", 
+Description = {"Prontera Chief Guard Spiegel asked you to help the <NAVI>[villagers]<INFO>prt_q,276,242,0,101,0</INFO></NAVI> in distress in the places marked on the map."}
+, Summary = ""}
+, 
+[5450] = {Title = "Request from Chief Guard", IconName = "ico_dq.bmp", 
+Description = {"Prontera Chief Guard Spiegel asked you to help the <NAVI>[villagers]<INFO>prt_q,140,304,0,101,0</INFO></NAVI> in distress in the places marked on the map."}
+, Summary = ""}
+, 
+[5451] = {Title = "Request from Chief Guard", IconName = "ico_dq.bmp", 
+Description = {"Prontera Chief Guard Spiegel asked you to help the <NAVI>[villagers]<INFO>prt_q,38,261,0,101,0</INFO></NAVI> in distress in the places marked on the map."}
+, Summary = ""}
+, 
+[5452] = {Title = "[Stand by] Request from Chief Guard", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Chief Guard]<INFO>prt_q,156,324,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[5453] = {Title = "Ungrateful(1)", IconName = "ico_dq.bmp", 
+Description = {"I met Village Lad trembling in fear. First of all, let\'s take Village Lad to the nearby evacuation building, the <NAVI>[Town Office]<INFO>prt_q,79,96,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5454] = {Title = "Ungrateful(2)", IconName = "ico_dq.bmp", 
+Description = {"After taking Village Lad to the nearby evacuation building, he asks us to help him find his tool bag, which he lost near the <NAVI>[Smelter]<INFO>prt_q,178,185,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5455] = {Title = "Ungrateful(3)", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[The Village Lad]<INFO>prt_q,77,98,0,101,0</INFO></NAVI> has found his lost tool bag in front of the Prontera Smelter."}
+, Summary = ""}
+, 
+[5456] = {Title = "Ungrateful(4)", IconName = "ico_dq.bmp", 
+Description = {"I safely delivered the village lad\'s tool bag. It\'s embarrassing, but since you did a good job, should I move on?"}
+, Summary = ""}
+, 
+[5457] = {Title = "Find My Sister(1)", IconName = "ico_dq.bmp", 
+Description = {"Let\'s take the crying girl who has lost her sister to the nearby <NAVI>[Church]<INFO>prt_q,232,318,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5458] = {Title = "Find My Sister(2)", IconName = "ico_dq.bmp", 
+Description = {"Let\'s take the girl to another evacuation building, the <NAVI>[Knights Building]<INFO>prt_q,52,340,0,101,0</INFO></NAVI>, to meet her sister."}
+, Summary = ""}
+, 
+[5459] = {Title = "Find My Sister(3)", IconName = "ico_dq.bmp", 
+Description = {"Help a girl who was crying because she was separated from her sister to be reunited with her sister."}
+, Summary = ""}
+, 
+[5460] = {Title = "Blatant Bluff(1)", IconName = "ico_dq.bmp", 
+Description = {"Let\'s take the soldiers to the nearby evacuation building, the <NAVI>[Knights]<INFO>prt_q,52,340,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5461] = {Title = "Blatant Bluff(2)", IconName = "ico_dq.bmp", 
+Description = {"I think it would be okay to stay in the Knights Building, but he insisted on going somewhere else. Let\'s go together to the <NAVI>[Town Office]<INFO>prt_q,79,96,0,101,0</INFO></NAVI> as you wish."}
+, Summary = ""}
+, 
+[5462] = {Title = "Blatant Bluff(3)", IconName = "ico_dq.bmp", 
+Description = {"Why was this soldier from Geffen in Prontera? This guy is bluffing...."}
+, Summary = ""}
+, 
+[5463] = {Title = "Love for Wife(1)", IconName = "ico_dq.bmp", 
+Description = {"You have promised to find Eryus\'s wife. For now, get Eryus to the safety of the <NAVI>[Church]<INFO>prt_q,232,318,0,101,0</INFO></NAVI>."}
+, Summary = ""}
+, 
+[5464] = {Title = "Love for Wife(2)", IconName = "ico_dq.bmp", 
+Description = {"Eryus is said to have separated from his wife near the Prontera <NAVI>[Employment Agency]<INFO>prt_q,108,164,0,101,0</INFO></NAVI>. Let\'s take a look at the area near the Prontera."}
+, Summary = ""}
+, 
+[5465] = {Title = "Love for Wife(3)", IconName = "ico_dq.bmp", 
+Description = {"I\'ve met Ellie, Eryus\' wife. She\'s weak, so let\'s get her to the <NAVI>[Church]<INFO>prt_q,232,318,0,101,0</INFO></NAVI> where she\'s safe."}
+, Summary = ""}
+, 
+[5466] = {Title = "Love for Wife(4)", IconName = "ico_dq.bmp", 
+Description = {"Ellie seems to have relaxed and her illness has suddenly become more serious. Let\'s go to <NAVI>[the place where we met]<INFO>prt_q,108,164,0,101,0</INFO></NAVI> Ellie and find the missing medicine."}
+, Summary = ""}
+, 
+[5467] = {Title = "Love for Wife(5)", IconName = "ico_dq.bmp", 
+Description = {"It is found the medicine. Let\'s get them back to <NAVI>[Ellie]<INFO>prt_q,232,318,0,101,0</INFO></NAVI> before she gets any worse."}
+, Summary = ""}
+, 
+[5468] = {Title = "Love for Wife(6)", IconName = "ico_dq.bmp", 
+Description = {"I assisted Mr. and Mrs. Eryus, who are greatly neglectful of their wife. It made me feel like I hadn\'t seen a loving relationship in a long time."}
+, Summary = ""}
+, 
+[7681] = {Title = "Invitation to Royal Banquet", IconName = "ico_ep.bmp", 
+Description = {"A banquet is held at the Prontera Palace to honor the sacrifice made by those who went on with the expedition mission in Ash-Vacuum to eliminate atrocious Morocc and praise their dedication. All of you are invited to this banquet."}
+, Summary = "Visit Prontera Palace"}
+, 
+[7682] = {Title = "Socializing starts with eye contact", IconName = "ico_ep.bmp", 
+Description = {"Visit the seven royal families to exchange greetings. There are the <NAVI>[Heine]<INFO>prt_cas_q,19,85,0,101,0</INFO></NAVI>, <NAVI>[Nerius]<INFO>prt_cas_q,20,139,0,101,0</INFO></NAVI>, and <NAVI>[Walther]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI> families in the West Villa, and there are the <NAVI>[Richard]<INFO>prt_cas_q,93,74,0,101,0</INFO></NAVI>, <NAVI>[Wigner]<INFO>prt_cas_q,82,21,0,101,0</INFO></NAVI>, <NAVI>[Roegenburg]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>, <NAVI>[Geoborg]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI> families in the East Villa."}
+, Summary = "Visit each family"}
+, 
+[7683] = {Title = "Visit the Heines", IconName = "ico_ep.bmp", 
+Description = {"You visited the Heines to exchange greetings."}
+, Summary = ""}
+, 
+[7684] = {Title = "Visit the Nerius", IconName = "ico_ep.bmp", 
+Description = {"You visited the Nerius to exchange greetings."}
+, Summary = ""}
+, 
+[7685] = {Title = "What\'s next on the schedule?", IconName = "ico_ep.bmp", 
+Description = {"You have completed everything on the schedule. Ask <NAVI>[Chamberlain Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI> in your room about the next thing on the schedule."}
+, Summary = "Talk with Bell"}
+, 
+[7686] = {Title = "Nyhill and Skia", IconName = "ico_ep.bmp", 
+Description = {"You witnessed the conversation between Nyhill and Skia in the hallway."}
+, Summary = ""}
+, 
+[7687] = {Title = "Participating in the Banquet", IconName = "ico_ep.bmp", 
+Description = {"Bell asked you to participate in the banquet since you are free. You were told that <NAVI>[Spica]<INFO>prt_cas,106,240,0,101,0</INFO></NAVI> the lady of the Nerius family wanted to meet you."}
+, Summary = "Talk with Spica"}
+, 
+[7688] = {Title = "Suspicious Movement", IconName = "ico_ep.bmp", 
+Description = {"While moving to take part in the banquet, you heard about the conversation between the strangers in the guest room."}
+, Summary = ""}
+, 
+[7689] = {Title = "Find Nyhill", IconName = "ico_ep.bmp", 
+Description = {"Skia felt that Nyhill wasn\'t walking straight. Skia asked you to follow Nyhill who left the banquet early."}
+, Summary = "Follow Nyhill"}
+, 
+[7690] = {Title = "Where Is Nyhill?", IconName = "ico_ep.bmp", 
+Description = {"When you were looking for Nyhill, you eavesdropped on a suspicious conversation. Where is Nyhill?"}
+, Summary = "Talk with Nyhill"}
+, 
+[7691] = {Title = "Waiting for the Consciousness", IconName = "ico_ep.bmp", 
+Description = {"Go back to the room to talk to <NAVI>[Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>. A magician was supposed to come for the consciousness..."}
+, Summary = "Talk with Bell"}
+, 
+[7692] = {Title = "Attend the Consciousness", IconName = "ico_ep.bmp", 
+Description = {"Participate in the consciousness following the lead of the magician."}
+, Summary = "Attend the Consciousness"}
+, 
+[7693] = {Title = "Attack", IconName = "ico_ep.bmp", 
+Description = {"A surprise attack was cast during the consciousness!"}
+, Summary = ""}
+, 
+[7694] = {Title = "I\'d like to see that too!", IconName = "ico_ep.bmp", 
+Description = {"After everyone leaves, let\'s take a look at the royal document that Kronecker was looking at."}
+, Summary = "Talk with the Librarian"}
+, 
+[7695] = {Title = "Escape from the Memories of Royal Family", IconName = "ico_ep.bmp", 
+Description = {"You need to get out of the place through the emergency exit instead of the gate which doesn\'t work. The <NAVI>[Knight]<INFO>prt_lib,56,61,0,101,0</INFO></NAVI> guarding in front of the door may guide you."}
+, Summary = "Talk with the Guardian Knight"}
+, 
+[7696] = {Title = "What\'s Next?!", IconName = "ico_ep.bmp", 
+Description = {"I don\'t know what to do now. Let\'s ask <NAVI>[Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>."}
+, Summary = "Talk with Bell"}
+, 
+[7697] = {Title = "Invitation from the Nerius", IconName = "ico_ep.bmp", 
+Description = {"You have been invited to the Nerius family. Let\'s go visit the <NAVI>[Nerius]<INFO>prt_cas_q,20,139,0,101,0</INFO></NAVI>!"}
+, Summary = "Visit the Nerius"}
+, 
+[7698] = {Title = "Heine", IconName = "ico_ep.bmp", 
+Description = {"While talking to the Nerius, the request to visit the <NAVI>[Heine]<INFO>prt_cas_q,19,85,0,101,0</INFO></NAVI> has arrived."}
+, Summary = "Visit the Heine"}
+, 
+[7699] = {Title = "To the Past", IconName = "ico_ep.bmp", 
+Description = {"You have been asked to visit the Past Memories of the Royal Family with Nillem by connecting the gaps in the dimension. Where is Nillem?"}
+, Summary = "Talk with Nillem"}
+, 
+[7700] = {Title = "Once More!", IconName = "ico_ep.bmp", 
+Description = {"Move once more through the gap in the dimension which Nillem has twisted by force. What happened in the Room of Consciousness in the past?"}
+, Summary = "To the Room of Consciousness"}
+, 
+[7701] = {Title = "Lost Ymir Heart", IconName = "ico_ep.bmp", 
+Description = {"Check what had happened to the actual Ymir Heart in the Room of Consciousness."}
+, Summary = ""}
+, 
+[7702] = {Title = "Prontera at the Time", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Prontera]<INFO>prt_q,156,324,0,101,0</INFO></NAVI> has been attacked by the Undead before, and it is taking place right now. You have decided to go out there after a persistent persuasion by Nillem."}
+, Summary = "To the Outside"}
+, 
+[7703] = {Title = "Who Knows the Truth", IconName = "ico_ep.bmp", 
+Description = {"It is the time to go back to the present time, unseal the document and find out about the truth. Everything lies in the Past Memories of the Royal Family."}
+, Summary = "Talk with Kronecker"}
+, 
+[7704] = {Title = "Unchangeable Past", IconName = "ico_ep.bmp", 
+Description = {"It couldn\'t save the Ymir Heart infringed by Valkyrie today either."}
+, Summary = ""}
+, 
+[7705] = {Title = "Hope against hope", IconName = "ico_dq.bmp", 
+Description = {"You are not sure whether it would work or not, but you are asked to challenge again in the Room of Consciousness. Defeat Bijou and defend the piece of Ymir\'s Heart."}
+, Summary = "Room of Consciousness in the Past"}
+, 
+[7706] = {Title = "Nillem Is Not Almighty", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. <NAVI>[Friedrich S. Heine]<INFO>prt_cas_q,21,83,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[9418] = {Title = "Attack Sky Fortress Invasion Prontera", 
+Description = {"You need to attack the Sky Fortress attacking Prontera and defeat the boss..."}
+, Summary = "Attack Sky Fortress."}
+, 
+[9419] = {Title = "Attack Sky Fortress Invasion Prontera", 
+Description = {"^8B4513Scientist Doyeon\'s Message^000000: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Sky Fortress Ticket- or I need about 3 days to collect magic."}
+, Summary = "Visit Scientist Doyeon in 3days."}
+, 
+[9427] = {Title = "Clearing the Sky Fortress for the Same Time", 
+Description = {"Clearing the Sky Fortress for the Same Time."}
+, Summary = "Clearing the Sky Fortress for the Same Time."}
+, 
+[11394] = {Title = "Call of the Royal Chef", IconName = "ico_ep.bmp", 
+Description = {"The <NAVI>[Royal Chef]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI> in the kitchen seems to look for you."}
+, Summary = "Talk with the Royal Chef"}
+, 
+[11395] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"You are asked to bring the sauce to be used in the dish. Go see the <NAVI>[Sauce Master]<INFO>prt_cas,319,211,0,101,0</INFO></NAVI> nearby."}
+, Summary = "Talk with the Sauce Master"}
+, 
+[11396] = {Title = "Why should I prepare for the banquet?", IconName = "ico_ep.bmp", 
+Description = {"Make the sauce with the master."}
+, Summary = "Make the Sauce"}
+, 
+[11397] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Bring the sauce to the <NAVI>[Royal Chef]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>."}
+, Summary = "Talk with the Royal Chef"}
+, 
+[11398] = {Title = "Why should I prepare for the banquet?", IconName = "ico_ep.bmp", 
+Description = {"Fill in the empty spot and make the food for the miraculously luxurious and superlatively fabulous banquet."}
+, Summary = "Move to the Empty Spot"}
+, 
+[11399] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Move the grilled gryphon with crispy crust and juicy meat covered in the special sauce to the <NAVI>[Dining Room]<INFO>prt_cas,361,124,0,101,0</INFO></NAVI>."}
+, Summary = "Deliver to the Dining Room"}
+, 
+[11400] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"Talk to <NAVI>[Queen Catherine D. Geoborg]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI> the head of the Geoborg family."}
+, Summary = "Talk with the Queen"}
+, 
+[11401] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"The queen seems to be too busy to talk with me. Let\'s talk to <NAVI>[Bodyguard Jerad]<INFO>prt_cas_q,85,127,0,101,0</INFO></NAVI>."}
+, Summary = "Talk with Jerad"}
+, 
+[11402] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"Go to the Banquet Hall to meet the sister of the queen, <NAVI>[Scarlet Jaha]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI>."}
+, Summary = "Talk with Scarlet"}
+, 
+[11403] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"While talking to Scarlet Jaha about the Geoborgs, <NAVI>[Lidion Geoborg]<INFO>prt_cas,82,240,0,101,0</INFO></NAVI> interrupted the conversation."}
+, Summary = "Talk with Lidion"}
+, 
+[11404] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"Lidion is screaming in anger. It seems impossible to proceed with the conversation. Let\'s talk to <NAVI>[Scarlet]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI> again."}
+, Summary = "Talk with Scarlet"}
+, 
+[11405] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"Let\'s go find Prince Ernst of the Geoborg family. He is supposed to be in the Banquet Hall."}
+, Summary = "Investigation in the Banquet Hall(0/7)"}
+, 
+[11406] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"To hear the rumors about the Geoborgs. Keep on searching for Prince Ernst."}
+, Summary = "Investigation in the Banquet Hall(1/7)"}
+, 
+[11407] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"To hear the rumors about the Geoborgs. Keep on searching for Prince Ernst."}
+, Summary = "Investigation in the Banquet Hall(2/7)"}
+, 
+[11408] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"To hear the rumors about the Geoborgs. Keep on searching for Prince Ernst."}
+, Summary = "Investigation in the Banquet Hall(3/7)"}
+, 
+[11409] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"To hear the rumors about the Geoborgs. Keep on searching for Prince Ernst."}
+, Summary = "Investigation in the Banquet Hall(4/7)"}
+, 
+[11410] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"To hear the rumors about the Geoborgs. Keep on searching for Prince Ernst."}
+, Summary = "Investigation in the Banquet Hall(5/7)"}
+, 
+[11411] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"To hear the rumors about the Geoborgs. Keep on searching for Prince Ernst."}
+, Summary = "Investigation in the Banquet Hall(6/7)"}
+, 
+[11412] = {Title = "Geoborg\'s Family", IconName = "ico_ep.bmp", 
+Description = {"To hear the rumors about the Geoborgs. Prince Ernst must have left the Banquet Hall. Let\'s go back to <NAVI>[Scarlet]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI>."}
+, Summary = "To Scarlet"}
+, 
+[11413] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Talk to <NAVI>[Tamarin]<INFO>prt_cas,361,142,0,101,0</INFO></NAVI> working in the dining room."}
+, Summary = "Talk with Tamarin"}
+, 
+[11414] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Go and talk to <NAVI>[Deu]<INFO>prt_cas,111,235,0,101,0</INFO></NAVI> in the Banquet Hall."}
+, Summary = "Talk with Deu"}
+, 
+[11415] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Deu doesn\'t seem to know. Talk to <NAVI>[Magi]<INFO>prt_cas,111,234,0,101,0</INFO></NAVI> next to him."}
+, Summary = "Talk with Magi"}
+, 
+[11416] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Talk to <NAVI>[Mark]<INFO>prt_cas,82,268,0,101,0</INFO></NAVI> working upstairs in the Banquet Hall."}
+, Summary = "Talk with Mark"}
+, 
+[11417] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Let\'s talk to <NAVI>[Alice]<INFO>prt_cas,83,270,0,101,0</INFO></NAVI>."}
+, Summary = "Talk with Alice"}
+, 
+[11418] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Go back to <NAVI>[Tamarin]<INFO>prt_cas,361,142,0,101,0</INFO></NAVI>."}
+, Summary = "Talk with Tamarin"}
+, 
+[11419] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Find 15 dishes in the Dining Hall and bring them to the <NAVI>[Dishwasher]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI> in the kitchen."}
+, Summary = "Talk with Dishwasher"}
+, 
+[11420] = {Title = "Why I prepare a banquet?", IconName = "ico_ep.bmp", 
+Description = {"Go back to the <NAVI>[Royal Chef]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>."}
+, Summary = "Talk with the Royal Chef"}
+, 
+[11421] = {Title = "Banquet: Unexpected Sauce", IconName = "ico_dq.bmp", 
+Description = {"Make the sauce with the master."}
+, Summary = "Make the Sauce"}
+, 
+[11422] = {Title = "Complete Today\'s Sauce", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Sauce Master]<INFO>prt_cas,319,211,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[11423] = {Title = "Banquet: Gryphon Barbecue", IconName = "ico_dq.bmp", 
+Description = {"Make the grilled gryphon following the commands of the Head Chef."}
+, Summary = "Make Grilled Gryphon"}
+, 
+[11424] = {Title = "Banquet: Gryphon Barbecue", IconName = "ico_dq.bmp", 
+Description = {"Move the grilled gryphon with crispy crust and juicy meat covered in the special sauce to the <NAVI>[Dining Room]<INFO>prt_cas,361,124,0,101,0</INFO></NAVI>."}
+, Summary = "Deliver to the Dining Room"}
+, 
+[11425] = {Title = "Complete Today\'s Grilled Gryphon", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Royal Chef]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[11426] = {Title = "Banquet: Washing 15 Dishes", IconName = "ico_dq.bmp", 
+Description = {"Find 15 dishes in the Dining Hall and bring them to the <NAVI>[Dishwasher]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI> in the kitchen"}
+, Summary = "Collect Dishes"}
+, 
+[11427] = {Title = "Complete Today\'s Dish Collecting", IconName = "ico_dq.bmp", 
+Description = {"It\'s a daily quest, you can get the quest again after the end of the cooltime. Please go to <NAVI>[Dishwasher]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI> tomorrow."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[11428] = {Title = "Ingredient for the Sauce", 
+Description = {"Fresh Flavor"}
+, Summary = ""}
+, 
+[11429] = {Title = "Ingredient for the Sauce", 
+Description = {"Chewy Texture"}
+, Summary = ""}
+, 
+[11430] = {Title = "Ingredient for the Sauce", 
+Description = {"Gorgeous Light"}
+, Summary = ""}
+, 
+[11431] = {Title = "Ingredient for the Sauce", 
+Description = {"Soft Taste"}
+, Summary = ""}
+, 
+[12369] = {Title = "Secret Business Relation", 
+Description = {"Build a secret business relation"}
+, Summary = "Complete the conversation with the suspicious prisoner"}
+, 
+[14469] = {Title = "Look around the Walther\'s Family", IconName = "ico_ep.bmp", 
+Description = {"Look around and meet <NAVI>[Isenhonor]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI> who seemed upset."}
+, Summary = "Look Around"}
+, 
+[14470] = {Title = "In Search of the Guardian Knight", IconName = "ico_ep.bmp", 
+Description = {"My Guardian Knight may know nothing. If you have to meet him, you can go to our <NAVI>[Manor]<INFO>alberta,48,30,0,101,0</INFO></NAVI> in the south of Alberta."}
+, Summary = "To Alberta"}
+, 
+[14471] = {Title = "To the Royal Prison", IconName = "ico_ep.bmp", 
+Description = {"There must be a thief named Big Foot trapped in the <NAVI>[prison of Prontera Palace]<INFO>prt_cas,183,258,0,101,0</INFO></NAVI>. You may hear something from him. Please tell Isenhonor that I would be waiting for his order as always."}
+, Summary = "To the Royal Prison"}
+, 
+[14472] = {Title = "Gourmet Bigfoot", IconName = "ico_ep.bmp", 
+Description = {"I want to have 3 Grilled Buns and 1 Green Salad. You need to bring them to <NAVI>[me]<INFO>prt_cas,183,258,0,101,0</INFO></NAVI> to hear my story."}
+, Summary = "Bring 3 Grilled Buns and 1 Green Salad"}
+, 
+[14473] = {Title = "To Veins", IconName = "ico_ep.bmp", 
+Description = {"He was in <NAVI>[Veins]<INFO>veins,156,160,0,101,0</INFO></NAVI>. He really was in Veins!"}
+, Summary = "To Veins"}
+, 
+[14474] = {Title = "Report to Isenhonor", IconName = "ico_ep.bmp", 
+Description = {"You have received the letter sent by Isenarm from his Guardian Knight. Let\'s go back to <NAVI>[Isenhonor]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI> now."}
+, Summary = "Report to Isenhonor"}
+, 
+[14475] = {Title = "To Jurgen", IconName = "ico_ep.bmp", 
+Description = {"Speak more to <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI> the candidate for the throne."}
+, Summary = "To Jurgen"}
+, 
+[14476] = {Title = "To Levuiere and His Wife", IconName = "ico_ep.bmp", 
+Description = {"Why don\'t you go have a cup of tea with my <NAVI>[Parents]<INFO>prt_cas_q,82,21,0,101,0</INFO></NAVI> if you have time? They really enjoy hearing the stories from the adventures."}
+, Summary = "To Levuiere and His Wife"}
+, 
+[14477] = {Title = "What is going on?", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Katrin]<INFO>prt_cas_q,96,7,0,101,0</INFO></NAVI>, has anything happened to my baby? I wouldn\'t be able to live if anything has happened to her."}
+, Summary = "To Katrin"}
+, 
+[14478] = {Title = "Searching for the Clue", IconName = "ico_ep.bmp", 
+Description = {"The <NAVI>[Maid]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> was here to clean the room. Let\'s go ask her about the whereabouts of the box."}
+, Summary = "To the Royal Kitchen"}
+, 
+[14479] = {Title = "Clean-up out of Apology", IconName = "ico_ep.bmp", 
+Description = {"Who else was there? I don\'t know... I may remember if <NAVI>[this place]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> becomes clean again. Would you clean it for me? Oh, so sweet! You first need to wipe the mold on the wall, remove the grease and clean the floor."}
+, Summary = "Let\'s start Cleaning"}
+, 
+[14480] = {Title = "Conquer the Grease", IconName = "ico_ep.bmp", 
+Description = {"You need the mixture of orange and alcohol to clean the <NAVI>[Grease]<INFO>prt_cas,337,197,0,101,0</INFO></NAVI>. Bring 1 Orange and 1 Alcohol"}
+, Summary = "Bring 1 Orange and 1 Alcohol"}
+, 
+[14481] = {Title = "Conquer the Mold", IconName = "ico_ep.bmp", 
+Description = {"You cannot get rid of the <NAVI>[mold]<INFO>prt_cas,337,212,0,101,0</INFO></NAVI> without the power of its own kind and the power of god. Bring 1 Mold Powder and 1 Holy Water!"}
+, Summary = "Bring 1 Mold Powder & 1 Holy Water"}
+, 
+[14482] = {Title = "Conquer the Dirt of Devil", IconName = "ico_ep.bmp", 
+Description = {"In order to remove the <NAVI>[target]<INFO>prt_cas,309,215,0,101,0</INFO></NAVI>, you need 1 Fine Sand and 1 Lemon! Go get them now!!!"}
+, Summary = "Bring 1 Fine Sand and 1 Lemon"}
+, 
+[14483] = {Title = "Report the Completion of the Clean-up", IconName = "ico_ep.bmp", 
+Description = {"The cleaning is completed. Go to see the <NAVI>[Maid]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> to report and hear her story."}
+, Summary = "To the Maid"}
+, 
+[14484] = {Title = "There was a Furniture Delivery Man", IconName = "ico_ep.bmp", 
+Description = {"There was a man delivering the furniture all day. That\'s why I had to stay there all day to clean the room. He must be <NAVI>[near the Town Office]<INFO>prontera,68,68,0,101,0</INFO></NAVI>. There are many stores in the area."}
+, Summary = "Find the Delivery Man"}
+, 
+[14485] = {Title = "I am upset", IconName = "ico_ep.bmp", 
+Description = {"Ah...I\'ve been decent all my life, and this is what I get? <NAVI>[I]<INFO>prontera,68,68,0,101,0</INFO></NAVI> have no power to live on... However, 3 Beef Head may cheer me up."}
+, Summary = "3 Beef Head"}
+, 
+[14486] = {Title = "Heard the Story", IconName = "ico_ep.bmp", 
+Description = {"You have heard the story. Let\'s go back to the palace to report to <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>."}
+, Summary = "To Jurgen"}
+, 
+[14487] = {Title = "Please find the Token of Memory", IconName = "ico_ep.bmp", 
+Description = {"In order to cheer up my sister, we may have to bring the things my sister has cherished. Let\'s bring 1 Witherless Rose and 10 Sea Stones. You can get the Sea Stones when you hunt the Medusa. - <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>"}
+, Summary = "1 Witherless Rose and 10 Sea Stones"}
+, 
+[14488] = {Title = "Please deliver My Love", IconName = "ico_nq.bmp", 
+Description = {"Please let <NAVI>[her]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> know of my love for her. Please help me."}
+, Summary = "To the Maid"}
+, 
+[14489] = {Title = "I have to turn it down", IconName = "ico_nq.bmp", 
+Description = {"I have never expected this, and I feel pressured. Moreover, I have a reason why I can\'t see someone now. Please deliver my words to <NAVI>[Wigner]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI> without hurting his feelings."}
+, Summary = "To Jurgen"}
+, 
+[14490] = {Title = "My Love Once More", IconName = "ico_nq.bmp", 
+Description = {"I want to show <NAVI>[her]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> my heart as wide as the sea and my undying passion. Please deliver my love for her with 15 Sea Stones which can be acquired upon hunting the Medusa, and 1 Witherless Rose."}
+, Summary = "1 Witherless Rose and 15 Sea Stones"}
+, 
+[14491] = {Title = "I have to turn it down again", IconName = "ico_nq.bmp", 
+Description = {"I am sorry... But I am actually... Please tell Prince <NAVI>[Wigner]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI> about it without hurting his feelings."}
+, Summary = "To Jurgen"}
+, 
+[14492] = {Title = "Hope", IconName = "ico_dq.bmp", 
+Description = {"Would you come back again later? Just enough time for her so that she doesn\'t feel pressured without forgetting me. After some time, I\'d like to deliver my hear to her again! - <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[14493] = {Title = "Today I Feel", IconName = "ico_dq.bmp", 
+Description = {"How should I do? I like Mary even more today. Please deliver my love for <NAVI>[Mary]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> with 15 Sea Stones which can be acquired upon hunting the Medusa, and 1 Witherless Rose."}
+, Summary = "1 Witherless Rose and 15 Sea Stones"}
+, 
+[14494] = {Title = "I have to turn it down again", IconName = "ico_dq.bmp", 
+Description = {"I really appreciate his feelings. However, I can\'t accept it. Please tell <NAVI>[Wigner]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI> without hurting his feelings."}
+, Summary = "To Jurgen"}
+, 
+[14495] = {Title = "To Wolf", IconName = "ico_ep.bmp", 
+Description = {"Let\'s hear the story about the family from <NAVI>[Wolf]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI> Roegenburg."}
+, Summary = "To Wolf"}
+, 
+[14496] = {Title = "To Isaac", IconName = "ico_ep.bmp", 
+Description = {"If you meet Isaac of the Wigner family, please hand him the thing I asked you for. The <NAVI>[Wigner family]<INFO>prt_cas_q,150,119,0,101,0</INFO></NAVI> is at the end of the hallway."}
+, Summary = "To Isaac"}
+, 
+[14497] = {Title = "Delivery to Wolf", IconName = "ico_ep.bmp", 
+Description = {"Please deliver the box to <NAVI>[Wolf]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>. You have to be careful with it. It is fragile."}
+, Summary = "Delivery to Wolf"}
+, 
+[14498] = {Title = "Rumor", IconName = "ico_ep.bmp", 
+Description = {"If there is a bad rumor about our family going around in Prontera, I cannot just wait and see. I need to know what the rumor is about to deal with it. Please collect the rumors for me. You may hear them from <NAVI>[young children]<INFO>prontera,271,70,0,101,0</INFO></NAVI>."}
+, Summary = "Collect the Rumors"}
+, 
+[14499] = {Title = "Prove Yourself", IconName = "ico_ep.bmp", 
+Description = {"Prove that you are eligible to hear <NAVI>[our]<INFO>prontera,271,70,0,101,0</INFO></NAVI> the story. Defeating 33 Majoruroses! And bring the history book of Rune Midgard from the library! Oh, I also need 12 Soft Silk Cloth!"}
+, Summary = "Prove Yourself"}
+, 
+[14501] = {Title = "Report to Wolf", IconName = "ico_ep.bmp", 
+Description = {"Since you have heard the rumor, let\'s go to see <NAVI>[Wolf]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI> and tell him the whole story."}
+, Summary = "Report to Wolf"}
+, 
+[14502] = {Title = "To Isaac", IconName = "ico_ep.bmp", 
+Description = {"Please hand this document to <NAVI>[Isaac]<INFO>prt_cas_q,94,7,0,101,0</INFO></NAVI>. I have a lot of things to do now. I am defending you then."}
+, Summary = "To Isaac"}
+, 
+[14503] = {Title = "Report to Wolf", IconName = "ico_ep.bmp", 
+Description = {"Dear <NAVI>[Wolf]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>, I respect your decision and trust you as always."}
+, Summary = "Report to Wolf"}
+, 
+[14504] = {Title = "In Search of Helmut", IconName = "ico_ep.bmp", 
+Description = {"Would you persuade <NAVI>[Helmut]<INFO>yuno_fild01,242,175,0,101,0</INFO></NAVI> and bring him to me? He would be at the checkpoint near the border with Schwartzvald."}
+, Summary = "In Search of Helmut"}
+, 
+[14505] = {Title = "I won\'t go back", IconName = "ico_ep.bmp", 
+Description = {"I belong here. Please tell my <NAVI>[grandfather]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI> that."}
+, Summary = "To Maximilian"}
+, 
+[14506] = {Title = "Reasons", IconName = "ico_ep.bmp", 
+Description = {"Please tell <NAVI>[Myer]<INFO>prontera,271,70,0,101,0</INFO></NAVI> who left the home that things have turned out this way at home. He may run away if one of the family members goes there."}
+, Summary = "To Myer"}
+, 
+[14507] = {Title = "To Maximilian", IconName = "ico_ep.bmp", 
+Description = {"It turned out well. Everything is all right now. Please tell him that I\'ll go visit <NAVI>[grandfather]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI> when the banquet is over."}
+, Summary = "To Maximilian"}
+, 
+[14508] = {Title = "Jewel and Cloth", IconName = "ico_nq.bmp", 
+Description = {"Please bring 3 Pearls and 50 Feathers. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"}
+, Summary = "3 Pearls and 50 Feathers"}
+, 
+[14509] = {Title = "Still Making It", IconName = "ico_dq.bmp", 
+Description = {"I am still in the progress of making it with what you have brought me. I\'ll decide what to make after finishing the work. Would you come back after dawn? - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[14510] = {Title = "A dress like pink petals", IconName = "ico_dq.bmp", 
+Description = {"I\'m going to make a dress like pink petals! Please bring 15 Soft Silk Cloth, 30 Red Herbs and 10 White Herbs. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"}
+, Summary = "15 Soft Silk Cloth, 30 Red Herbs and 10 White Herbs"}
+, 
+[14511] = {Title = "Beautiful floral Decoration", IconName = "ico_dq.bmp", 
+Description = {"I\'m going to decorate it with beautiful flowers. Please bring 5 Beautiful Flowers, 5 Elegant Flowers and 5 Mysterious Flowers. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"}
+, Summary = "5 Beautiful Flowers, 5 Elegant Flowers and 5 Mysterious Flowers"}
+, 
+[14512] = {Title = "Dress in the Dark Night", IconName = "ico_dq.bmp", 
+Description = {"I want to make a dress that is as far and mysterious as a dark night. Please bring 20 Piece of Black Cloth. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"}
+, Summary = "20 Piece of Black Cloth"}
+, 
+[14513] = {Title = "The Blazing Sun Shawl", IconName = "ico_dq.bmp", 
+Description = {"I want to create a shawl that makes a statement, like the blazing sun in the sky. Please bring 20 Burning Hair. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"}
+, Summary = "20 Burning Hair"}
+, 
+[14514] = {Title = "Step of the Fairy", IconName = "ico_dq.bmp", 
+Description = {"I\'ll make a dress as fairy and elegant as the step of a fairy. A gorgeous one! I need 5 Fancy Fairy Wings. It would be enough to make an elegant dress. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"}
+, Summary = "5 Fancy Fairy Wings"}
+, 
+[14515] = {Title = "Twinkle of a Star", IconName = "ico_dq.bmp", 
+Description = {"I want to decorate my dress with stardust. Please bring 5 Star Dust. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"}
+, Summary = "5 Star Dust"}
+, 
+[14516] = {Title = "Suspicious Shadow", IconName = "ico_ep.bmp", 
+Description = {"I heard the conversation between a suspicious person and Ian."}
+, Summary = "Suspicious Shadow"}
+, 
+[14517] = {Title = "Midnight Snack Delivery", IconName = "ico_nq.bmp", 
+Description = {"You delivered the midnight snack."}
+, Summary = "Midnight Snack Delivery"}
+, 
+[14585] = {Title = "Identify the cause", 
+Description = {"We need to figure out what\'s causing the Pope\'s sleep time to get longer and longer recently. Please enter the Pope\'s dreams to find the cause and solve any concerns."}
+, Summary = "Into the Dream"}
+, 
+[14586] = {Title = "Time to go to sleep", 
+Description = {"The Pope has not yet fallen asleep, please come back in the early morning hours."}
+, Summary = "Reset at 4 am"}
+, 
+[14587] = {Title = "Identify the cause.", 
+Description = {"We need to figure out what\'s causing the Pope\'s sleep time to get longer and longer recently. Please enter the Pope\'s dreams to find the cause and solve any concerns."}
+, Summary = "Into the Dream"}
+, 
+[14593] = {Title = "Send Mail", 
+Description = {"Send Mail"}
+, Summary = ""}
+, 
+[14594] = {Title = "Ready to walk the dream", 
+Description = {"When you\'re ready to walk the dream path, come back to me."}
+, Summary = "To Niren"}
+, 
+[16547] = {Title = "Juno Monster Institute", IconName = "ico_nq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[8660] = {Title = "World Bounty-Prontera Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>prt_fild05,367,209,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8661] = {Title = "[Stand by]World Bounty-Prontera Field", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>prt_fild05,367,209,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8662] = {Title = "World Bounty-Prontera Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>prt_fild05,367,209,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8663] = {Title = "World Bounty-Prontera Culvert 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>prt_sewb2,79,103,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8664] = {Title = "[Stand by]World Bounty-Prontera Culvert 2F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>prt_sewb2,79,103,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8665] = {Title = "World Bounty-Prontera Culvert 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>prt_sewb2,79,103,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8666] = {Title = "World Bounty-Prontera Culvert 3F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>prt_sewb3,28,41,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8667] = {Title = "[Stand by]World Bounty-Prontera Culvert 3F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>prt_sewb3,28,41,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8668] = {Title = "World Bounty-Prontera Culvert 3F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>prt_sewb3,28,41,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8669] = {Title = "World Bounty-Ant Hell Dungeon 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>anthell01,35,249,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8670] = {Title = "[Stand by]World Bounty-Ant Hell Dungeon 1F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>anthell01,35,249,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8671] = {Title = "World Bounty-Ant Hell Dungeon 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>anthell01,35,249,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8672] = {Title = "World Bounty-Ant Hell Dungeon 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>anthell02,262,34,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8673] = {Title = "[Stand by]World Bounty-Ant Hell Dungeon 2F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>anthell02,262,34,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8674] = {Title = "World Bounty-Ant Hell Dungeon 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>anthell02,262,34,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8675] = {Title = "World Bounty-Sunken Ship 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>treasure01,74,22,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8676] = {Title = "[Stand by]World Bounty-Sunken Ship 1F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>treasure01,74,22,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8677] = {Title = "World Bounty-Sunken Ship 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>treasure01,74,22,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8678] = {Title = "World Bounty-Undersea Tunnel Dungeon 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>iz_dun00,169,159,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8679] = {Title = "[Stand by]World Bounty-Undersea Tunnel Dungeon 1F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>iz_dun00,169,159,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8680] = {Title = "World Bounty-Undersea Tunnel Dungeon 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>iz_dun00,169,159,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8681] = {Title = "World Bounty-Undersea Tunnel Dungeon 3F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>iz_dun02,237,215,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8682] = {Title = "[Stand by]World Bounty-Undersea Tunnel Dungeon 3F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>iz_dun02,237,215,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8683] = {Title = "World Bounty-Undersea Tunnel Dungeon 3F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>iz_dun02,237,215,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8684] = {Title = "World Bounty-Mt. Mjolnir (South)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>mjolnir_10,19,261,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8685] = {Title = "[Stand by]World Bounty-Mt. Mjolnir (South)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>mjolnir_10,19,261,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8686] = {Title = "World Bounty-Mt. Mjolnir (South)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>mjolnir_10,19,261,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8687] = {Title = "World Bounty-Undersea Tunnel Dungeon 4F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>iz_dun03,40,58,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8688] = {Title = "[Stand by]World Bounty-Undersea Tunnel Dungeon 4F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>iz_dun03,40,58,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8689] = {Title = "World Bounty-Undersea Tunnel Dungeon 4F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>iz_dun03,40,58,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8690] = {Title = "World Bounty-Orc Cave 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>orcsdun02,28,183,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8691] = {Title = "[Stand by]World Bounty-Orc Cave 2F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>orcsdun02,28,183,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8692] = {Title = "World Bounty-Orc Cave 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>orcsdun02,28,183,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8693] = {Title = "World Bounty-Undersea Tunnel Dungeon 5F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>iz_dun04,136,204,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8694] = {Title = "[Stand by]World Bounty-Undersea Tunnel Dungeon 5F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>iz_dun04,136,204,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8695] = {Title = "World Bounty-Undersea Tunnel Dungeon 5F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>iz_dun04,136,204,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8696] = {Title = "World Bounty-Sphinx Basement 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>in_sphinx1,84,183,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8697] = {Title = "[Stand by]World Bounty-Sphinx Basement 1F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>in_sphinx1,84,183,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8698] = {Title = "World Bounty-Sphinx Basement 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>in_sphinx1,84,183,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8699] = {Title = "World Bounty-Sphinx Basement 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>in_sphinx2,141,106,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8700] = {Title = "[Stand by]World Bounty-Sphinx Basement 2F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>in_sphinx2,141,106,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8701] = {Title = "World Bounty-Sphinx Basement 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>in_sphinx2,141,106,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8702] = {Title = "World Bounty-Kiel Hyre\'s Academy", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild08,208,291,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8703] = {Title = "[Stand by]World Bounty-Kiel Hyre\'s Academy", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>yuno_fild08,208,291,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8704] = {Title = "World Bounty-Kiel Hyre\'s Academy", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild08,208,291,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8705] = {Title = "World Bounty-Guards Camp", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild09,155,285,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8706] = {Title = "[Stand by]World Bounty-Guards Camp", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>yuno_fild09,155,285,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8707] = {Title = "World Bounty-Guards Camp", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild09,155,285,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8708] = {Title = "World Bounty-Border Checkpoint", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild01,193,187,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8709] = {Title = "[Stand by]World Bounty-Border Checkpoint", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>yuno_fild01,193,187,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8710] = {Title = "World Bounty-Border Checkpoint", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild01,193,187,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8711] = {Title = "World Bounty-El Mes Plateau", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild04,237,239,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8712] = {Title = "[Stand by]World Bounty-El Mes Plateau", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>yuno_fild04,237,239,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8713] = {Title = "World Bounty-El Mes Plateau", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild04,237,239,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8714] = {Title = "World Bounty-Einbroch Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ein_fild07,194,285,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8715] = {Title = "[Stand by]World Bounty-Einbroch Field", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ein_fild07,194,285,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8716] = {Title = "World Bounty-Einbroch Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ein_fild07,194,285,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8717] = {Title = "World Bounty-Juno Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild11,138,192,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8718] = {Title = "[Stand by]World Bounty-Juno Field", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>yuno_fild11,138,192,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8719] = {Title = "World Bounty-Juno Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>yuno_fild11,138,192,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8720] = {Title = "World Bounty-Nogg Road 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>mag_dun01,132,76,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8721] = {Title = "[Stand by]World Bounty-Nogg Road 1F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>mag_dun01,132,76,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8722] = {Title = "World Bounty-Nogg Road 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>mag_dun01,132,76,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8723] = {Title = "World Bounty-Veins Field(07)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ve_fild07,220,109,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8724] = {Title = "[Stand by]World Bounty-Veins Field(07)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ve_fild07,220,109,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8725] = {Title = "World Bounty-Veins Field(07)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ve_fild07,220,109,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8726] = {Title = "World Bounty-Veins Field(03)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ve_fild03,219,88,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8727] = {Title = "[Stand by]World Bounty-Veins Field(03)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ve_fild03,219,88,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8728] = {Title = "World Bounty-Veins Field(03)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ve_fild03,219,88,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8729] = {Title = "World Bounty-Veins Field(01)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ve_fild01,128,201,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8730] = {Title = "[Stand by]World Bounty-Veins Field(01)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ve_fild01,128,201,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8731] = {Title = "World Bounty-Veins Field(01)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ve_fild01,128,201,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8732] = {Title = "World Bounty-Veins Field(02)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ve_fild02,203,379,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8733] = {Title = "[Stand by]World Bounty-Veins Field(02)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ve_fild02,203,379,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8734] = {Title = "World Bounty-Veins Field(02)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ve_fild02,203,379,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8735] = {Title = "World Bounty-Ida Plain(03)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ra_fild03,214,267,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8736] = {Title = "[Stand by]World Bounty-Ida Plain(03)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ra_fild03,214,267,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8737] = {Title = "World Bounty-Ida Plain(03)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ra_fild03,214,267,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8738] = {Title = "World Bounty-Audhumbla Grassland(04)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ra_fild04,304,252,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8739] = {Title = "[Stand by]World Bounty-Audhumbla Grassland(04)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ra_fild04,304,252,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8740] = {Title = "World Bounty-Audhumbla Grassland(04)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ra_fild04,304,252,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8741] = {Title = "World Bounty-Ida Plain(08)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ra_fild08,332,216,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8742] = {Title = "[Stand by]World Bounty-Ida Plain(08)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ra_fild08,332,216,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8743] = {Title = "World Bounty-Ida Plain(08)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ra_fild08,332,216,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8744] = {Title = "World Bounty-Audhumbla Grassland(05)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ra_fild05,46,354,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8745] = {Title = "[Stand by]World Bounty-Audhumbla Grassland(05)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ra_fild05,46,354,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8746] = {Title = "World Bounty-Audhumbla Grassland(05)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ra_fild05,46,354,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8747] = {Title = "World Bounty-Geffenia", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>gefenia03,80,161,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8748] = {Title = "[Stand by]World Bounty-Audhumbla Grassland(05)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>gefenia03,80,161,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8749] = {Title = "World Bounty-Audhumbla Grassland(05)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>gefenia03,80,161,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 70 Monsters in the field."}
+, Summary = ""}
+, 
+[8750] = {Title = "World Bounty-Splendide Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>spl_fild02,172,304,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8751] = {Title = "[Stand by]World Bounty-Splendide Field", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>spl_fild02,172,304,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8752] = {Title = "World Bounty-Splendide Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>spl_fild02,172,304,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8753] = {Title = "World Bounty-Manuk Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>man_fild01,226,170,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8754] = {Title = "[Stand by]World Bounty-Manuk Field", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>man_fild01,226,170,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8755] = {Title = "World Bounty-Manuk Field", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>man_fild01,226,170,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8756] = {Title = "World Bounty-Churchyard", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>gl_chyard_,147,146,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 120 Monsters in the field."}
+, Summary = ""}
+, 
+[8757] = {Title = "[Stand by]World Bounty-Churchyard", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>gl_chyard_,147,146,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8758] = {Title = "World Bounty-Churchyard", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>gl_chyard_,147,146,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 120 Monsters in the field."}
+, Summary = ""}
+, 
+[8759] = {Title = "World Bounty-Kamidal Tunnel", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>dic_dun01,367,49,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8760] = {Title = "[Stand by]World Bounty-Kamidal Tunnel", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>dic_dun01,367,49,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8761] = {Title = "World Bounty-Kamidal Tunnel", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>dic_dun01,367,49,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8762] = {Title = "World Bounty-Scaraba Hall(02)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>dic_dun02,105,144,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8763] = {Title = "[Stand by]World Bounty-Scaraba Hall(02)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>dic_dun02,105,144,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8764] = {Title = "World Bounty-Scaraba Hall(02)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>dic_dun02,105,144,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8765] = {Title = "World Bounty-Scaraba Hall(03)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>dic_dun03,100,138,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8766] = {Title = "[Stand by]World Bounty-Scaraba Hall(03)", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>dic_dun03,100,138,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8767] = {Title = "World Bounty-Scaraba Hall(03)", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>dic_dun03,100,138,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8768] = {Title = "World Bounty-Nameless Island", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>nameless_n,159,180,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 60 Monsters in the field."}
+, Summary = ""}
+, 
+[8769] = {Title = "[Stand by]World Bounty-Nameless Island", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>nameless_n,159,180,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8770] = {Title = "World Bounty-Nameless Island", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>nameless_n,159,180,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 60 Monsters in the field."}
+, Summary = ""}
+, 
+[8771] = {Title = "World Bounty-Monastery Basement 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>abbey02,150,203,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 60 Monsters in the field."}
+, Summary = ""}
+, 
+[8772] = {Title = "[Stand by]World Bounty-Monastery Basement 1F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>abbey02,150,203,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8773] = {Title = "World Bounty-Monastery Basement 1F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>abbey02,150,203,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 60 Monsters in the field."}
+, Summary = ""}
+, 
+[8774] = {Title = "World Bounty-Monastery Basement 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>abbey03,124,123,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 60 Monsters in the field."}
+, Summary = ""}
+, 
+[8775] = {Title = "[Stand by]World Bounty-Monastery Basement 2F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>abbey03,124,123,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8776] = {Title = "World Bounty-Monastery Basement 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>abbey03,124,123,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 60 Monsters in the field."}
+, Summary = ""}
+, 
+[8777] = {Title = "World Bounty-Bio Laboratory Underground 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>lhz_dun02,154,148,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8778] = {Title = "[Stand by]World Bounty-Bio Laboratory Underground 2F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>lhz_dun02,154,148,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8779] = {Title = "World Bounty-Bio Laboratory Underground 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>lhz_dun02,154,148,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 80 Monsters in the field."}
+, Summary = ""}
+, 
+[8780] = {Title = "World Bounty-Bifrost Floor 1", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ecl_tdun01,60,53,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8781] = {Title = "[Stand by]World Bounty-Bifrost Floor 1", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ecl_tdun01,60,53,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8782] = {Title = "World Bounty-Bifrost Floor 1", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ecl_tdun01,60,53,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8783] = {Title = "World Bounty-Bifrost Floor 2", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ecl_tdun02,56,87,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8784] = {Title = "[Stand by]World Bounty-Bifrost Floor 2", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>ecl_tdun02,56,87,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8785] = {Title = "World Bounty-Bifrost Floor 2", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>ecl_tdun02,56,87,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8786] = {Title = "World Bounty-Flame Basin", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>moro_vol,95,90,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8787] = {Title = "[Stand by]World Bounty-Flame Basin", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>moro_vol,95,90,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8788] = {Title = "World Bounty-Flame Basin", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>moro_vol,95,90,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8789] = {Title = "World Bounty-2nd Hall", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>gl_cas02_,102,39,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 120 Monsters in the field."}
+, Summary = ""}
+, 
+[8790] = {Title = "[Stand by]World Bounty-2nd Hall", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>gl_cas02_,102,39,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8791] = {Title = "World Bounty-2nd Hall", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>gl_cas02_,102,39,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 120 Monsters in the field."}
+, Summary = ""}
+, 
+[8792] = {Title = "World Bounty-Clock Tower 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>c_tower2_,267,32,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8793] = {Title = "[Stand by]World Bounty-Clock Tower 2F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>c_tower2_,267,32,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8794] = {Title = "World Bounty-Clock Tower 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>c_tower2_,267,32,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8795] = {Title = "World Bounty-Clock Tower 3F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>c_tower3_,69,151,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8796] = {Title = "[Stand by]World Bounty-Clock Tower 3F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>c_tower3_,69,151,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8797] = {Title = "World Bounty-Clock Tower 3F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>c_tower3_,69,151,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8798] = {Title = "World Bounty-Bio Laboratory Underground 3F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>lhz_dun03,133,128,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 50 Monsters in the field."}
+, Summary = ""}
+, 
+[8799] = {Title = "[Stand by]World Bounty-Bio Laboratory Underground 3F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>lhz_dun03,133,128,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8800] = {Title = "World Bounty-Bio Laboratory Underground 3F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>lhz_dun03,133,128,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8801] = {Title = "World Bounty-Nogg Road 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>mag_dun02,43,44,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[8802] = {Title = "[Stand by]World Bounty-Nogg Road 2F", IconName = "ico_dq.bmp", 
+Description = {"The mission has been completed. You can take another mission tomorrow from <NAVI>[World Bounty]<INFO>mag_dun02,43,44,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am", CoolTimeQuest = 1}
+, 
+[8803] = {Title = "World Bounty-Nogg Road 2F", IconName = "ico_dq.bmp", 
+Description = {"Take the mission from <NAVI>[World Bounty]<INFO>mag_dun02,43,44,0,101,0</INFO></NAVI> and help Magical Boy. Defeat any 150 Monsters in the field."}
+, Summary = ""}
+, 
+[14500] = {Title = "Complete checking out the book", IconName = "ico_ep.bmp", 
+Description = {"You have checked out the history book of Rune Midgards."}
+, Summary = "Complete checking out the book"}
+, 
+[11604] = {Title = "Jakk the Giant Pumpkin", 
+Description = {"It is said that ^ff000010 red and hot Elder Willows^000000 are required to complete the Halloween Festival. Catch Elder Willow and return to <NAVI>[Hurarong]<INFO>niflheim,193,235,0,101,0</INFO></NAVI>."}
+, Summary = "10 Elder Willows"}
+, 
+[11605] = {Title = "Jakk the Giant Pumpkin", 
+Description = {"Visit the Halloween festivities and complete the ^ff0000Jakk Catching Game^000000. The Halloween Festival can be accessed through the guide."}
+, Summary = "Catching Jakk the Giant"}
+, 
+[11606] = {Title = "Jakk the Giant Pumpkin", 
+Description = {"If you want to go to the Halloween festival, come back after 4am."}
+, Summary = "Reset at 4am"}
+, 
+[300000] = {Title = "Prove your worth", 
+Description = {"Defeat 200 Nine Tails, 200 Headless Mule, 200 Heater and report back to <NAVI>[ROS2023 Valkyrie]<INFO>prontera,151,187,0,101,0</INFO></NAVI>."}
+, Summary = "Defeat Monsters"}
+, 
+[300001] = {Title = "Prove your worth", 
+Description = {"Defeat 200 Banaspaty, 200 Pasana, and 200 Kaho and report back to <NAVI>[ROS2023 Valkyrie]<INFO>prontera,151,187,0,101,0</INFO></NAVI>."}
+, Summary = "Defeat Monsters"}
+, 
+[300002] = {Title = "Prove your worth", 
+Description = {"Defeat 200 Hellhound, 200 Ferus and 200 Nightmare Minorous and report back to <NAVI>[ROS2023 Valkyrie]<INFO>prontera,151,187,0,101,0</INFO></NAVI>."}
+, Summary = "Defeat Monsters"}
+, 
+[300003] = {Title = "Prove your worth", 
+Description = {"Defeat 200 Salamander, 200 Kasa and 200 Imp and report back to <NAVI>[ROS2023 Valkyrie]<INFO>prontera,151,187,0,101,0</INFO></NAVI>."}
+, Summary = "Defeat Monsters"}
+, 
+[291171] = {Title = "The Sacred Phoenix Ash", IconName = "ico_ev.bmp", 
+Description = {"Use Calm Embrace Blanket to collect 500 Phoenix Ashes. Once all the ashes has been collected bring it to <NAVI>[ROS2023 Valkyrie]<INFO>prontera,151,187,0,101,0</INFO></NAVI>."}
+, Summary = "Gather 500 Phoenix Ash"}
+, 
+[291172] = {Title = "Incendria", IconName = "ico_ev.bmp", 
+Description = {"Find <NAVI>[Incendria]<INFO>ve_fild03,183,240,0,101,0</INFO></NAVI> and follow her instruction."}
+, Summary = "Talk with Incendria"}
+, 
+[291173] = {Title = "The Smoldering Phoenix Ash", IconName = "ico_ev.bmp", 
+Description = {"Talk to <NAVI>[Incendria]<INFO>ve_fild03,183,240,0,101,0</INFO></NAVI> and move to Volcano Peaks. Collect her Wand, Gloves and Ring. Bring the items back to <NAVI>[Incendria]<INFO>ve_fild03,183,240,0,101,0</INFO></NAVI>."}
+, Summary = "Collect Incendria\'s items"}
+, 
+[291174] = {Title = "The Phoenix\'s Rebirth ", IconName = "ico_ev.bmp", 
+Description = {"Return to <NAVI>[ROS2023 Valkyrie]<INFO>prontera,151,187,0,101,0</INFO></NAVI>."}
+, Summary = "Return to ROS2023 Valkyrie"}
+, 
+[17137] = {Title = "Make Snow Flower Bouquet", 
+Description = {"Do you wish to make a snow flower bouquet? Then, collect 10 <ITEM>magical snow flowers<INFO>25425</INFO></ITEM> and come back <NAVI>[Here]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."}
+, Summary = "10 Magical Snow Flower"}
+, 
+[17138] = {Title = "Make Snow Flower Bouquet", 
+Description = {"<NAVI>[Snow Flower Illusionist]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> will be running the snow flower bouquet event. If you are interested, find the place."}
+, Summary = "To Snow Flower Illusionist"}
+, 
+[17139] = {Title = "To get through the Warm Wintering", 
+Description = {"Snow for the region where it does not fall, Cotton clothes for the cold region! If you wish to get through the winter, find <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> and Ulsi."}
+, Summary = "To Coti"}
+, 
+[17140] = {Title = "Exchange Festival Card", 
+Description = {"Have you found a special card in your gift box? Then, bring to <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI> and Bling. You will receive a special gift."}
+, Summary = "To Twinkle"}
+, 
+[17141] = {Title = "Festival Organizers", 
+Description = {"Why don\'t you meet the festival organizers and listen to the behind story of this event? Snow Boy Keeper, <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI> is around here."}
+, Summary = "To Eugene"}
+, 
+[17142] = {Title = "Make Snow Flower Bouquet", 
+Description = {"You need 10 <ITEM>magical snow flowers<INFO>25425</INFO></ITEM> to make a snow flower bouquet. Please don\'t forget 1 <ITEM>carrot<INFO>515</INFO></ITEM> to decorate the snowman. - <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "10 Snow Flowers, 1 Carrot"}
+, 
+[17143] = {Title = "[Stand by]The chilly feeling remains", 
+Description = {"The magical snow flower effect still remains. Please come back after dawn. - <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
+, 
+[17144] = {Title = "To get through the Warm Wintering", 
+Description = {"Snow for children! Warm cotton clothes for children in the cold region! Please donate 10 warm cottons to <NAVI>[us]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>!"}
+, Summary = "10 Warm Cotton"}
+, 
+[17145] = {Title = "[Stand by]Cotton is being wrapped", 
+Description = {"Cotton is being wrapped. The wrapping seems like it will be finished by dawn, so please come back after dawn! - <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
+, 
+[17146] = {Title = "Exchange Festival Card", 
+Description = {"The lucky word for you is ALDEBARAN!! Please open the Snow Flower Card Envelope from Gift Box. In the envelope, you can find these alphabet letters: A.L.D.E.B.A.R.A.N total of 9 alphabet letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Collect the ALDEBARAN card"}
+, 
+[17147] = {Title = "Exchange Festival Card", 
+Description = {"The lucky word for you is SNOW!! Please open the Snow Flower Card Envelope from Gift Box. In the envelope, you can find these alphabet letters: S. N. O. W. total of 4 alphabet letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Collect the SNOW card"}
+, 
+[17148] = {Title = "Exchange Festival Card", 
+Description = {"The lucky word for you is FESTIVAL!! Please open the Snow Flower Card Envelope from Gift Box. In the envelope, you can find these alphabet letters: F. E. S. T. I. V. A. L. total of 8 alphabet letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Collect the FESTIVAL card"}
+, 
+[17149] = {Title = "Exchange Festival Card", 
+Description = {"The lucky word for you is SPARKLE!! Please open the Snow Flower Card Envelope from Gift Box. In the envelope, you can find these alphabet letters: S.P.A.R.K.L.E total of 7 alphabet letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Collect the SPARKLE card"}
+, 
+[17150] = {Title = "[Stand by]Card exchange is once a day", 
+Description = {"Alphabet card exchange is once a day. Okay? So please come back after dawn! - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
+, 
+[17151] = {Title = "It\'s not liked by everyone.", 
+Description = {"<NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI> and Rigel said they had plans and told you to gather closer."}
+, Summary = "Talk with Eugene"}
+, 
+[17152] = {Title = "It\'s not liked by everyone.", 
+Description = {"Please bring 10 <ITEM>Flower<INFO>712</INFO></ITEM>. There is a <NAVI>[Flower Merchant]<INFO>geffen,161,83,0,101,0</INFO></NAVI> in Geffen."}
+, Summary = "Geffen Flower Merchant"}
+, 
+[17153] = {Title = "It\'s not liked by everyone.", 
+Description = {"Rigel has worked at <NAVI>[Toy Factory]<INFO>xmas_dun01,128,154,0,101,0</INFO></NAVI> in Lutie. You might find something there."}
+, Summary = "Lutie Toy Factory"}
+, 
+[17154] = {Title = "It\'s not liked by everyone.", 
+Description = {"Eugene has come to Lutie by <NAVI>[train]<INFO>xmas,204,223,0,101,0</INFO></NAVI>. you\'ll find something there."}
+, Summary = "Lutie Track"}
+, 
+[17155] = {Title = "It\'s not liked by everyone.", 
+Description = {"Let\'s go back to <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI> and Rigel at Snow Festival with 10 Flowers and persuade them again."}
+, Summary = "To Eugene"}
+, 
+[17156] = {Title = "It\'s not liked by everyone.", 
+Description = {"<NAVI>[Rigel]<INFO>aldebaran,107,164,0,101,0</INFO></NAVI> seems to carry out the plan to the end. Is there any way to stop him?"}
+, Summary = "Talk with Rigel"}
+, 
+[17157] = {Title = "Growing Snow Boy", 
+Description = {"If you\'d like to grow snow Boy, you need holy water. Please bring 5 Holy water. - <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>"}
+, Summary = "5 Holy Water"}
+, 
+[17158] = {Title = "[Stnad by]Growing Snow Boy", 
+Description = {"You can grow snow boy with the holy water you brought. Please come back after dawn. - <NAVI>[Eugene]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 4am"}
+, 
+[12340] = {Title = "Falsely accused", 
+Description = {"It seems you\'ve been mistaken for someone else. Let\'s visit the secret tavern in Einbroch where the wanted flyer was issued."}
+, Summary = "Rebellion Job Change"}
+, 
+[12341] = {Title = "New Challenges", 
+Description = {"You have decided to become a Rebellion. Let\'s pass their tests."}
+, Summary = "Rebellion Job Change"}
+, 
+[12342] = {Title = "Firearms Assembly", 
+Description = {"Obtain five standardized Steel Artifact pieces from the foundry, then assemble them into firearms in the assembly room next door. Failure to do so within the time limit will result in disqualification."}
+, Summary = "Rebellion Job Change"}
+, 
+[12343] = {Title = "Improper Target Sniping", 
+Description = {"You need to hit the 10 illusions named Standard-issue Target. Make sure you do it quickly."}
+, Summary = "Rebellion Job Change"}
+, 
+[12344] = {Title = "Improper Target Sniping", 
+Description = {"You will be disqualified if you hit more than three of the Defective Target Illusions."}
+, Summary = "Rebellion Job Change"}
+, 
+[12345] = {Title = "Become a Rebelion", 
+Description = {"Visit the legendary Rebellion, Ivan Sidorenko, to complete your final job change quest."}
+, Summary = "Rebellion Job Change"}
+, 
+[12364] = {Title = "Collapsed Pharos lighthouse", 
+Description = {"Reckless Explorer shared with me about what was going on at Pharos lighthouse."}
+, Summary = "Collapsed Pharos lighthouse"}
+, 
+[12365] = {Title = "Subterranean Dismalness", 
+Description = {"It is an after effect of entering and exiting the Infinite Space under the Pharos Lighthouse."}
+, Summary = "Subterranean Dismalness"}
+, 
+[12366] = {Title = "Defeat Boss Monster on the 10F", 
+Description = {"It received an additional request from Oz Og to the Infinite Space Memorial."}
+, Summary = "Defeat Boss Monster on the 10F"}
+, 
+[12367] = {Title = "Defeat Boss Monster on the 30F", 
+Description = {"It received an additional request from Oz Og to the Infinite Space Memorial."}
+, Summary = "Defeat Boss Monster on the 10F"}
 }
 

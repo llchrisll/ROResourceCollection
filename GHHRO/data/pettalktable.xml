@@ -8614,7 +8614,651 @@
 		</so_full>
 
 	</high_orc>
+	<LITTLE_ISIS>
 
+		<hungry>
+			<feeding>	You took too long to feed me. Hmph!	</feeding>
+			<dead>	Hmph... Must be cozy lying there on the ground.	</dead>
+			<stand>	My underlings are acting strange lately...	</stand>
+			<stand>	Forgetting something?	</stand>
+			<levelup>	Leveling up is great, but don't forget that I'm here, too.	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Wonderful, thank you. 	</feeding>
+			<dead>	Hmm... You should've been careful.	</dead>
+			<stand>	What do you usually eat when you're hungry?	</stand>
+			<levelup>	That's not good enough. You have to do better than that.	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Let's eat together!	</feeding>
+			<dead>	I'll ask someone for help.	</dead>
+			<stand>	Did you bring everything you need for today's hunt, master?	</stand>
+			<stand>	Magic is mysterious indeed.	</stand>
+			<stand>	The world looks so different from below.	</stand>
+			<levelup>	You're getting closer to your goal.	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	I should start watching my figure. Oops, did you hear that?	</feeding>
+			<dead>	That's too bad. Better luck next time, I guess...	</dead>
+			<stand>	Did you bring everything you need for today's hunt, master?	</stand>
+			<stand>	Magic is mysterious indeed.	</stand>
+			<stand>	The world looks so different from below.	</stand>
+			<stand>	We can do it. Isis is at your side. Good luck!	</stand>
+			<levelup>	Haha... You're the best, master. Congratulations.	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	I am gaining weight. Please put me on a diet.	</feeding>
+			<dead>	That's too bad. Better luck next time, I guess...	</dead>
+			<stand>	Did you bring everything you need for today's hunt, master?	</stand>
+			<stand>	Magic is mysterious indeed.	</stand>
+			<stand>	The world looks so different from below.	</stand>
+			<stand>	We can do it. Isis is at your side. Good luck!	</stand>
+			<levelup>	Heh I'm glad you're my master. Congratulations  	</levelup>
+		</so_full>
+
+	</LITTLE_ISIS>
+	<dr_eggring>
+
+		<hungry>
+			<feeding>	Thank you! (munch munch)	</feeding>
+			<dead>	Yiek!, you should've fed me first.	</dead>
+			<stand>	Feed me.. ¤Ð ¤µ¤Ð)/	</stand>
+			<levelup>	You leveled up. That means you'll feed me, right?	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Thank you! </feeding>
+			<dead>	You can't die without feeding me first... 	</dead>
+			<stand>	I'm hungry....	</stand>
+			<levelup>	Another level up! Let's eat to celebrate 	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Thank you for the food!  	</feeding>
+			<dead>	Help me, master! </dead>
+			<stand>	I became like this from eating Peco eggs...	</stand>
+			<stand>	What are we gonna do for fun today? </stand>
+			<stand>	You'll fry like an egg if you stay in a hot place for too long.	</stand>
+			<levelup>	Oh! L E V E L U P ! 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Eggring cannot eat any more.. </feeding>
+			<dead>	Help me, master! </dead>
+			<stand>	I became like this from eating Peco eggs...	</stand>
+			<stand>	What are we gonna do for fun today? </stand>
+			<stand>	You'll fry like an egg if you stay in a hot place for too long.	</stand>
+			<stand>	Hehe  You look happy today.	</stand>
+			<levelup>	It's an angel! </levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Eggring cannot eat any more.. </feeding>
+			<dead>	Help me, master! </dead>
+			<stand>	I became like this from eating Peco eggs...	</stand>
+			<stand>	What are we gonna do for fun today? </stand>
+			<stand>	You'll fry like an egg if you stay in a hot place for too long.	</stand>
+			<stand>	Hehe  You look happy today.	</stand>
+			<levelup>	It's an angel! </levelup>
+		</so_full>
+
+	</dr_eggring>
+	<angeling>
+
+		<hungry>
+			<feeding>	Yo! I am so hungryring.	</feeding>
+			<dead>	That's why you need to feed mering.	</dead>
+			<stand>	...I ...I am hungryring.... 	</stand>
+			<levelup>	You're the only one who's happy... I hate youring!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Thank you for the foodring!	</feeding>
+			<dead>	I knew this would happenring...	</dead>
+			<stand>	Don't just stand there. Feed mering!	</stand>
+			<levelup>	Now that you've leveled up, why don't we go out to eat tonightring?	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Thank you for the foodring!	</feeding>
+			<dead>	Try not to overdo itring...	</dead>
+			<stand>	 ~Ririring Ring ring~  Riririring~ 	</stand>
+			<stand>	I'm tougher than an Arc Angeling. 	</stand>
+			<stand>	Angeling is better than Mastering, that's for surering.	</stand>
+			<levelup>	Congratulations, ring ring... 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Can I leave this herering?	</feeding>
+			<dead>	Try not to overdo itring...	</dead>
+			<stand>	 ~Ririring Ring ring~  Riririring~ 	</stand>
+			<stand>	I'm tougher than an Arc Angeling. 	</stand>
+			<stand>	Angeling is better than Mastering, that's for surering.	</stand>
+			<stand>	Hehe. I am sooo happy today. </stand>
+			<levelup>	It's a real angel! Ringring!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	I'm so full! I feel like my belly will burstring 	</feeding>
+			<dead>	Try not to overdo itring...	</dead>
+			<stand>	 ~Ririring Ring ring~  Riririring~ 	</stand>
+			<stand>	I'm tougher than an Arc Angeling. 	</stand>
+			<stand>	Angeling is better than Mastering, that's for surering.	</stand>
+			<stand>	Hehe. I am sooo happy today. </stand>
+			<levelup>	It's a real angel! Ringring!	</levelup>
+		</so_full>
+
+	</angeling>
+	<am_mut>
+
+		<hungry>
+			<feeding>	Ah! So tasty!	</feeding>
+			<dead>	Goodness!	</dead>
+			<stand>	My bat isn't any good for cooking, you know.	</stand>
+			<levelup>	Level up! Now feed me!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Healthy and delicious food 	</feeding>
+			<dead>	Hey, tell me where you put my food 	</dead>
+			<stand>	I'm hungry. But you don't feed me.	</stand>
+			<levelup>	Congratulations. Shall we go eat now?	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Delicious, healthy, and it makes me happy 	</feeding>
+			<dead>	... (cries)	</dead>
+			<stand>	100 swings a day! 100 lunges! 100 hearty laughs!	</stand>
+			<stand>	Wow... Back when I was a Dokebi, I never imagined anything like this!	</stand>
+			<stand>	I am not a common Dokebi! See this cloak? 	</stand>
+			<levelup>	Whoa!!  	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	I'm full. Stop feeding me..	</feeding>
+			<dead>	... (cries)	</dead>
+			<stand>	100 swings a day! 100 lunges! 100 hearty laughs!	</stand>
+			<stand>	Wow... Back when I was a Dokebi, I never imagined anything like this!	</stand>
+			<stand>	I am not a common Dokebi! See this cloak? 	</stand>
+			<stand>	I am Super Dokebi, Am Mut!	</stand>
+			<levelup>	It makes me so happy to see you level up!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	My belly feels like it'll burst! 	</feeding>
+			<dead>	... (cries)	</dead>
+			<stand>	100 swings a day! 100 lunges! 100 hearty laughs!	</stand>
+			<stand>	Wow... Back when I was a Dokebi, I never imagined anything like this!	</stand>
+			<stand>	I am not a common Dokebi! See this cloak? 	</stand>
+			<stand>	I am Super Dokebi, Am Mut!	</stand>
+			<levelup>	It makes me so happy to see you level up!	</levelup>
+		</so_full>
+
+	</am_mut>	
+	<choco>
+
+		<hungry>
+			<feeding>	I'm hungry, cho~~ I'm always hungry, cho~~~	</feeding>
+			<dead>	Feed me before you die, cho~ I'm hungry, cho~ Hungry, cho~	</dead>
+			<stand>	I'm very hungry, so I have no strength, cho..	</stand>
+			<levelup>	*sniffing* Stop leveling up and feed me, cho~	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	I was so hungry, cho~	</feeding>
+			<dead>	Get up, cho~ Why are you lying down, cho~ 	</dead>
+			<stand>I think it's time to eat, cho~ 	</stand>
+			<levelup>	Congratulations, cho~   Let's eat, cho~  	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Thank you, cho~	</feeding>
+			<dead>	Don't you think you overdid it a bit, cho? 	</dead>
+			<stand>	I like the breeze from the forest, cho.	</stand>
+			<stand>	Ahh, I want to take a nap, cho. Can I, cho?	</stand>
+			<stand>	I am the captain of the Yoyos, cho. </stand>
+			<levelup>	*squeaks* You're the best. Cho~   	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Don't just feed Choco willy-nilly! Cho 	</feeding>
+			<dead>	Don't you think you overdid it a bit, cho? 	</dead>
+			<stand>	I like the breeze from the forest, cho.	</stand>
+			<stand>	Ahh, I want to take a nap, cho. Can I, cho?	</stand>
+			<stand>	I am the captain of the Yoyos, cho. </stand>
+			<stand>	(Squeak) Play with me, cho.	</stand>
+			<levelup>	Wow! I am so happy! Cho!!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	I really can't eat this. Cho... 	</feeding>
+			<dead>	Don't you think you overdid it a bit, cho? 	</dead>
+			<stand>	I like the breeze from the forest, cho.	</stand>
+			<stand>	Ahh, I want to take a nap, cho. Can I, cho?	</stand>
+			<stand>	I am the captain of the Yoyos, cho. </stand>
+			<stand>	(Squeak) Play with me, cho.	</stand>
+			<levelup>	Wow! I am so happy! Cho!!	</levelup>
+		</so_full>
+
+	</choco>	
+	<diabolic2>
+
+		<hungry>
+			<feeding>	Thank you sooooo much.	</feeding>
+			<dead>	Won't you feed me? *snorts*	</dead>
+			<stand>	I'm leaving, okay?	</stand>
+			<levelup>	Your level is on fire!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	I'll have to brush my teeth when I finish this.	</feeding>
+			<dead>	Get up.	</dead>
+			<stand>	Feed me.	</stand>
+			<levelup>	Your level is on fire!	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	I'll have to brush my teeth when I finish this.	</feeding>
+			<dead>	Get up, master! 	</dead>
+			<stand>	I am different from those Deviruchis!	</stand>
+			<stand>	Wow, I'm on fire!	</stand>
+			<stand>	I am a fiery demon. 	</stand>
+			<levelup>	Your level is on fire! 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	But I already brushed my teeth!	</feeding>
+			<dead>	Get up, master!	</dead>
+			<stand>	I am different from those Deviruchis!	</stand>
+			<stand>	Wow, I'm on fire!	</stand>
+			<stand>	I am a fiery demon. 	</stand>
+			<stand>	Fireball! Huh? Oh, was I wrong?	</stand>
+			<levelup>	Your level is on fire! 	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	But I already brushed my teeth!	</feeding>
+			<dead>	Get up, master! 	</dead>
+			<stand>	I am different from those Deviruchis!	</stand>
+			<stand>	Wow, I'm on fire!	</stand>
+			<stand>	I am a fiery demon. 	</stand>
+			<stand>	Fireball! Huh? Oh, was I wrong?	</stand>
+			<levelup>	Your level is on fire!	</levelup>
+		</so_full>
+
+	</diabolic2>
+	<deleter_2>
+
+		<hungry>
+			<feeding>	Wooooot-	</feeding>
+			<dead>	Are you dead?	</dead>
+			<stand>	Give me some food. Woot!	</stand>
+			<levelup>	Let's eat. Woot.	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	This is delicious. Woot!	</feeding>
+			<dead>	Don't just lie there, feed me! Woot!	</dead>
+			<stand>	It's time to eat. Woot.	</stand>
+			<levelup>	Congratu... Woot.	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	This is delicious. Woot!	</feeding>
+			<dead>	Get up, master. 	</dead>
+			<stand> Burning fiery pits are nothing to me. Woot.	</stand>
+			<stand>	I can cast fire breath. Woot.	</stand>
+			<stand>	That thing on my head is not a star candy. Woot.	</stand>
+			<levelup>	Congratu... Woot. 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Wooooooooooot!	</feeding>
+			<dead>	Get up, master. 	</dead>
+			<stand>	Burning fiery pits are nothing to me. Woot.	</stand>
+			<stand>	I can cast fire breath. Woot.	</stand>
+			<stand>	That thing on my head is not a star candy. Woot.	</stand>
+			<stand>	Boom boom, boom boom. Woot.	</stand>
+			<levelup>	Congratu... Woot.	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Wooooooooooot!	</feeding>
+			<dead>	Get up, master.  	</dead>
+			<stand>	Burning fiery pits are nothing to me. Woot.	</stand>
+			<stand>	I can cast fire breath. Woot.	</stand>
+			<stand>	That thing on my head is not a star candy. Woot. 	</stand>
+			<stand>	Boom boom, boom boom. Woot.	</stand>
+			<levelup>	Congratu... Woot.	</levelup>
+		</so_full>
+
+	</deleter_2>
+	<cat_o_nine_tail>
+
+		<hungry>
+			<feeding>	Bon appetit, meow.	</feeding>
+			<dead>	Do you want me to take revenge on that one? Meow.	</dead>
+			<stand>	Meal time. Meow!	</stand>
+			<levelup>	Congratulations, meow.	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Bon appetit, meow.	</feeding>
+			<dead>	Do you want me to take revenge on that one? Meow.	</dead>
+			<stand>	Meal time. Meow!	</stand>
+			<levelup>	Congratulations, meow.	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Bon appetit, meow.	</feeding>
+			<dead>	Do you want me to take revenge on that one? Meow.	</dead>
+			<stand> (Ringing)~	</stand>
+			<stand>	Don't let them take your stuff away, meow.	</stand>
+			<stand>	I had something, then I lost it... Meow.	</stand>
+			<levelup>	Congratulations, meow.	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	I am full, meow. 	</feeding>
+			<dead>	Do you want me to take revenge on that one? Meow.	</dead>
+			<stand>	(Ringing)~	</stand>
+			<stand>	Don't let them take your stuff away, meow.	</stand>
+			<stand>	I had something, then I lost it... Meow.	</stand>
+			<stand>	Don't call me Moonlight Flower, meow!	</stand>
+			<levelup>	Congratulations, meow.	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	I am full, meow. 	</feeding>
+			<dead>	Do you want me to take revenge on that one? Meow.	</dead>
+			<stand>	(Ringing)~	</stand>
+			<stand>	Don't let them take your stuff away, meow.	</stand>
+			<stand>	I had something, then I lost it... Meow.	</stand>
+			<stand>	Don't call me Moonlight Flower, meow!	</stand>
+			<levelup>	Congratulations, meow.	</levelup>
+		</so_full>
+
+	</cat_o_nine_tail>
+	<dr_lunatic>
+
+		<hungry>
+			<feeding>	I was hungry, Liru! 	</feeding>
+			<dead>	Are we heading to a village to eat, Liru?	</dead>
+			<stand>	You can drink potions when your HP is low, master, but I can't eat anything when I am hungry, Liru...	</stand>
+			<levelup>	Quickly! Feed me, Liru! 	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	I was hungry, Liru! 	</feeding>
+			<dead>	Are we heading to a village to eat, Liru?	</dead>
+			<stand>	You can drink potions when your HP is low, master, but I can't eat anything when I am hungry, Liru...	</stand>
+			<levelup>	Quickly! Feed me, Liru! 	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	I was hungry, Liru! 	</feeding>
+			<dead>	Are we heading to a village to eat, Liru?	</dead>
+			<stand>	Master! My ears are not tree leaves, Liru...	</stand>
+			<stand>	Many wanted to collect Lunatic's fur back in the days, Liru...	</stand>
+			<stand>	They say that there are none who want my leaves, Liru...	</stand>
+			<levelup>	Congratulations, Liru...	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Stop feeding me, Liru!	</feeding>
+			<dead>	Nooooo, Liru! 	</dead>
+			<stand>	Master! My ears are not tree leaves, Liru...	</stand>
+			<stand>	Many wanted to collect Lunatic's fur back in the days, Liru...	</stand>
+			<stand>	They say that there are none who want my leaves, Liru...	</stand>
+			<stand>	Look at the dew on my green leaf, Liru!	</stand>
+			<levelup>	Congratulations, Liru...	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Stop feeding me, Liru! 	</feeding>
+			<dead>	Nooooo, Liru! 	</dead>
+			<stand>	Master! My ears are not tree leaves, Liru...	</stand>
+			<stand>	Many wanted to collect Lunatic's fur back in the days, Liru...	</stand>
+			<stand>	They say that there are none who want my leaves, Liru...	</stand>
+			<stand>	Look at the dew on my green leaf, Liru!	</stand>
+			<levelup>	Congratulations, Liru...	</levelup>
+		</so_full>
+
+	</dr_lunatic>
+	<hyegun>
+
+		<hungry>
+			<feeding>	Hmm... I wish you'd prepare things like this on time. 	</feeding>
+			<dead>	I cannot leave you, even though you are dead.	</dead>
+			<stand>	Now's the time to fill my belly.	</stand>
+			<levelup>	I am happy to see you grow stronger. 	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Whew... A tasty meal.	</feeding>
+			<dead>	I cannot leave you, even though you are dead.	</dead>
+			<stand>	Now's the time to fill my belly.		</stand>
+			<levelup>	I am happy to see you grow stronger. 	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Whew... A tasty meal.	</feeding>
+			<dead>	I cannot leave you, even though you are dead.	</dead>
+			<stand>	I remember when I shared tea with that woman.	</stand>
+			<stand>	I might see her if I continue travelling with you.	</stand>
+			<stand>	Hmm... I would really like a cup of warm tea.	</stand>
+			<levelup>	I am happy to see you grow stronger. 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	(Sigh) Eating too much is never a good idea.	</feeding>
+			<dead>	I cannot leave you, even though you are dead.	</dead>
+			<stand>	I remember when I shared tea with that woman.	</stand>
+			<stand>	I might see her if I continue travelling with you.	</stand>
+			<stand>	Hmm... I would really like a cup of warm tea.	</stand>
+			<stand>	Do you know anything about eternal love?	</stand>
+			<levelup>	I am happy to see you grow stronger. 	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	(Sigh) Eating too much is never a good idea.	</feeding>
+			<dead>	I cannot leave you, even though you are dead.	</dead>
+			<stand>	I remember when I shared tea with that woman.	</stand>
+			<stand>	I might see her if I continue travelling with you.	</stand>
+			<stand>	Hmm... I would really like a cup of warm tea.	</stand>
+			<stand>	Do you know anything about eternal love?	</stand>
+			<levelup>	I am happy to see you grow stronger. 	</levelup>
+		</so_full>
+
+	</hyegun>
+	<hodremlin>
+
+		<hungry>
+			<feeding>	Hahaha... This tastes good.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Hahaha... This tastes good.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Hahaha... This tastes good.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<stand>	Haha... Souls in pitch black.	</stand>
+			<stand>	Can you fill the emptiness in my heart?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Hahaha... Stop it.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<stand>	Haha... Souls in pitch black.	</stand>
+			<stand>	Wherever there's a machine, you can count on a Gremlin being there. Hehe.	</stand>
+			<stand>	Can you fill the emptiness in my heart?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Hahaha... Stop it.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<stand>	Haha... Souls in pitch black.	</stand>
+			<stand>	Wherever there's a machine, you can count on a Gremlin being there. Hehe.	</stand>
+			<stand>	Can you fill the emptiness in my heart?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	 </levelup>
+		</so_full>
+
+	</hodremlin>
+	<metaller>
+
+		<hungry>
+			<feeding>	This is sweet	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	This is sweet	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	This is sweet	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<stand>	What's my score?	</stand>
+			<stand>	 Won't you listen to my song?~   	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	I don't need this food for now.	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<stand>	What's my score?	</stand>
+			<stand>	 Won't you listen to my song?~   	</stand>
+			<stand>	Oh! Come play with me now~  	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	I don't need this food for now.	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<stand>	What's my score?	</stand>
+			<stand>	 Won't you listen to my song?~   	</stand>
+			<stand>	Oh! Come play with me now~  	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</so_full>
+
+	</metaller>
+	<ancient_mummy>
+
+		<hungry>
+			<feeding>	I've regained my power.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	I've regained my power.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	I've regained my power.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<stand>	Can you find my pretty puppy I used to raise?	</stand>
+			<stand>	Not anyone can pull this off, you know.	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	I have no strength to muster.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<stand>	Can you find my pretty puppy I used to raise?	</stand>
+			<stand>	Not anyone can pull this off, you know.	</stand>
+			<stand>	I have been waiting for an eternity... Finally, today has come...	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	I have no strength to muster.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<stand>	Can you find my pretty puppy I used to raise?	</stand>
+			<stand>	Not anyone can pull this off, you know.	</stand>
+			<stand>	I have been waiting for an eternity... Finally, today has come...	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</so_full>
+
+	</ancient_mummy>
+	<xm_teddy_bear>
+
+		<hungry>
+			<feeding>	Dolls need to eat sometimes, too.	</feeding>
+			<dead>	Hmm... Are you throwing me away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Dolls need to eat sometimes, too.	</feeding>
+			<dead>	Hmm... Are you throwing me away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Dolls need to eat sometimes, too.	</feeding>
+			<dead>	Hmm... Are you throwing me away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<stand>	Curse you...	</stand>
+			<stand>	There's no escape from this nightmare...	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Don't force me to eat, master.	</feeding>
+			<dead>	Hmm... Am I being thrown away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<stand>	Curse you...	</stand>
+			<stand>	There's no escape from this nightmare...	</stand>
+			<stand>	I don't want to be thrown away anymore.	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Don't force me to eat, master.	</feeding>
+			<dead>	Hmm... Am I being thrown away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<stand>	Curse you...	</stand>
+			<stand>	There's no escape from this nightmare...	</stand>
+			<stand>	I don't want to be thrown away anymore.	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</so_full>
+
+	</xm_teddy_bear>
 
 
 </monster_talk_table>

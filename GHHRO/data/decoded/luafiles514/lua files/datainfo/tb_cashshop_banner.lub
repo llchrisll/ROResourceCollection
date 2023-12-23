@@ -4,17 +4,17 @@
 -- params : ...
 -- function num : 0
 tb_cashshop_banner = {
-[1] = {"01_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=504"}
+[1] = {"01_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=637"}
 , 
-[2] = {"02_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=502"}
+[2] = {"02_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=631"}
 , 
-[3] = {"03_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=503"}
+[3] = {"03_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=542"}
 , 
-[4] = {"04_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=461"}
+[4] = {"04_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=541"}
 , 
-[5] = {"05_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=446"}
+[5] = {"05_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=504"}
 , 
-[6] = {"06_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=379"}
+[6] = {"06_Cashshop_Banner.bmp", "https://ro.gnjoy.asia/news/detail.php?id=571"}
 }
 set_cashshop_banner = function()
   -- function num : 0_0

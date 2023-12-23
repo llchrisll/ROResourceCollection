@@ -686,6 +686,10 @@ Navi_Map = {
 , 
 {"prontera", "Prontera City, Capitol of Rune-Midgarts", 5001, 312, 392}
 , 
+{"prt_cas", "Prontera Central Palace", 5003, 400, 356}
+, 
+{"prt_cas_q", "Prontera Royal Villa", 5003, 180, 200}
+, 
 {"prt_church", "the Sanctuary", 5003, 200, 200}
 , 
 {"prt_fild00", "Prontera Field", 5001, 400, 400}
@@ -716,6 +720,10 @@ Navi_Map = {
 , 
 {"prt_in", "Inside Prontera", 5003, 300, 200}
 , 
+{"prt_lib", "Memories of the Royal Family", 5003, 160, 120}
+, 
+{"prt_lib_q", "Past Memories of the Royal Family", 5003, 160, 120}
+, 
 {"prt_maze01", "Labyrinth Forest", 5005, 200, 200}
 , 
 {"prt_maze02", "Labyrinth Forest", 5001, 200, 200}
@@ -723,6 +731,12 @@ Navi_Map = {
 {"prt_maze03", "Labyrinth Forest", 5005, 200, 200}
 , 
 {"prt_monk", "St. Capitolina Abbey", 5001, 400, 300}
+, 
+{"prt_pri00", "Prontera Prison", 5003, 200, 200}
+, 
+{"prt_prison", "Prontera Underground Prison", 5001, 300, 300}
+, 
+{"prt_q", "Invaded Prontera", 5001, 312, 392}
 , 
 {"prt_sewb1", "Prontera Culvert", 5001, 320, 320}
 , 
@@ -737,6 +751,8 @@ Navi_Map = {
 {"que_god01", "Quest Map", 5003, 300, 140}
 , 
 {"que_job01", "Private Pub", 5001, 160, 100}
+, 
+{"que_ng", "Unknown Area", 5003, 200, 200}
 , 
 {"que_thor", "Thor Volcano Dungeon", 5003, 200, 100}
 , 
@@ -945,6 +961,12 @@ Navi_Map = {
 {"yuno_in04", "Republic Library", 5003, 200, 140}
 , 
 {"yuno_pre", "Schwaltzvalt Government Buildings", 5003, 140, 140}
+, 
+{"1@pop1", "Pope\'s Office", 5001, 160, 160}
+, 
+{"1@pop2", "On the way Home", 5001, 160, 300}
+, 
+{"1@pop3", "Sky Garden", 5001, 116, 116}
 , 
 {"NULL", "", 0, 0, 0}
 }

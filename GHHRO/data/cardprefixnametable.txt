@@ -511,7 +511,7 @@
 4533#Blinding#
 4534#Water Bomb#
 
-//-----¿µ¿õÀÇ ÈçÀû2
+//-----ì˜ì›…ì˜ í”ì 2
 4560#Bragi's#
 4561#Magic Protection#
 4562#Penetrating#
@@ -562,7 +562,7 @@
 4607#Librarian's#
 4556#Power Ward#
 4557#of Spell Power#
-// 2013³â 2¿ù ¸¶½ÅÀü¸Ş¸ğ¸®¾ó
+// 2013ë…„ 2ì›” ë§ˆì‹ ì „ë©”ëª¨ë¦¬ì–¼
 4559#Blitz#
 
 4652#Punishment#
@@ -601,7 +601,7 @@
 27126#Python#
 4545#Rookie#
 
-//2020³â 5¿ù Moscovia Card
+//2020ë…„ 5ì›” Moscovia Card
 27157#of Aqua Wood#
 27158#of Windness#
 27159#Demon Hunter#
@@ -642,7 +642,7 @@
 4924#Fortunate#
 4925#Fortunate#
 
-//¿¡ÇÇ¼Òµå14.3 ¸ğ·ÎÅ©Ä«µå
+//ì—í”¼ì†Œë“œ14.3 ëª¨ë¡œí¬ì¹´ë“œ
 27325#Muspell Heim#
 27326#Ruinous#
 27327#Reaper Ankou#
@@ -664,7 +664,7 @@
 //Item ID test
 300000#Test#
 
-//7¿ù ¿µ¿õÀÇ ÈçÀû ÆÄÆ®1
+//7ì›” ì˜ì›…ì˜ í”ì  íŒŒíŠ¸1
 27163#of Abranchia#
 27164#Coya#
 27165#of Avian#
@@ -673,7 +673,7 @@
 27168#of Padre#
 27169#Infante#
 
-//8¿ù ¿µ¿õÀÇÈçÀû ÆÄÆ®2,3
+//8ì›” ì˜ì›…ì˜í”ì  íŒŒíŠ¸2,3
 4556#Power Ward#
 4557#of Spell Power#
 4610#Protection#
@@ -699,7 +699,7 @@
 27264#of Evil Shadow#
 27265#Evil Fanatic#
 
-//8¿ù19ÀÏ 
+//8ì›”19ì¼ 
 4488#of Half Doom#
 4489#of Half Kirin#
 4492#Half Neutral#
@@ -711,7 +711,7 @@
 27211#Half Scythelike#
 27212#Half Reflect#
 
-//10¿ù ÄÁÅÙÃ÷ ½Ã°èÅ¾³ªÀÌÆ®¸Ş¾î
+//10ì›” ì»¨í…ì¸  ì‹œê³„íƒ‘ë‚˜ì´íŠ¸ë©”ì–´
 4625#Wise Man's#
 4626#Echo#
 4627#Vibrating#
@@ -721,14 +721,14 @@
 4631#Mercurial#
 4632#Voltaic#
 
-//11¿ù
+//11ì›”
 4697#of Overload#
 27012#Active Protection#
 27013#Balkan#
 4698#Boomerang#
 4699#Dual Cannon#
 
-//12¿ù
+//12ì›”
 27014#Mirage#
 27015#Restore#
 27016#All Scan#
@@ -737,16 +737,16 @@
 27019#Debug#
 27020#System Error#
 
-//2¿ù 2ÀÏ Ä³½Ã½ºÅ©·Ñ
+//2ì›” 2ì¼ ìºì‹œìŠ¤í¬ë¡¤
 4494#Half Explosive#
 
-//2¿ù16ÀÏ Ä³½Ã½ºÅ©·Ñ
+//2ì›”16ì¼ ìºì‹œìŠ¤í¬ë¡¤
 4503#of Half Vision Eye#
 
-//3¿ù 16ÀÏ
+//3ì›” 16ì¼
 4487#Half Inferno#
 
-//3¿ù ÄÁÅÙÃ÷
+//3ì›” ì»¨í…ì¸ 
 4601#Explosive#
 4603#Evil Spirit's#
 4605#Hungry#
@@ -754,23 +754,66 @@
 
 4490#Half Hasty#
 
-//5¿ù 11ÀÏ
+//5ì›” 11ì¼
 4535#of Half Elimination#
 
-//5¿ù25ÀÏ
+//5ì›”25ì¼
 4496#of Half Infinity#
 
-//6¿ù 8ÀÏ
+//6ì›” 8ì¼
 4539#Half Arrogant#
 
-//6¿ù 22ÀÏ 2ºĞ±â 
+//6ì›” 22ì¼ 2ë¶„ê¸° 
 4608#Knight's#
 4609#Knight's#
 27025#Noble#
 
-//7¿ù 6ÀÏ
+//7ì›” 6ì¼
 4493#Half High Risk#
 
-//7¿ù 20ÀÏ
+//7ì›” 20ì¼
 4499#Half Bloodlust#
 
+//3ë¶„ê¸°
+4446#Sharpen#
+4633#Queen Bird#
+4634#Fatal#
+4635#Hard#
+4636#Legion#
+4637#of Drain#
+4638#Plaid#
+4639#Powerful#
+4640#Intelligence#
+4641#of Soul Gathering#
+31024#Volcanic#
+31025#Deadly#
+31026#Auto Magic#
+
+//10ì›” 5ì¼
+4540#Half Crisis#
+
+//10ì›” 26ì¼
+4486#of Half Big Mouth#
+
+//11ì›” 9ì¼
+27225#Half  Wise Man's#
+
+//11ì›” 23ì¼
+4495#of Half Protection#
+
+//12ì›” 7ì¼
+27209#Half Scaraba#
+
+
+//4ë¶„ê¸°
+// 2015 06 ë¬´í•œì˜ë˜ì „
+4642#Side Step#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Immortal#
+4648#Provocation#
+4649#Fatal Blow#
+4650#Magic Stun#
+4651#Monarch#

@@ -20,8 +20,8 @@ signName = {subTitle = "원정의 여로", mainTitle = "시체 보관소"}
 signName = {subTitle = "일루전", mainTitle = "뒤틀린 Labyrinth Forest"}
 , backgroundBmp = "dungeon"}
 , 
-["1@halo.rsw"] = {displayName = "할로윈 축제장", notifyEnter = true, 
-signName = {mainTitle = "할로윈 축제장"}
+["1@halo.rsw"] = {displayName = "Halloween Festival Hall", notifyEnter = true, 
+signName = {mainTitle = "Halloween Festival Hall"}
 , backgroundBmp = "noname_s2"}
 , 
 ["1@gl_prq.rsw"] = {displayName = "Glast Heim의 몰락", notifyEnter = true, 
@@ -150,8 +150,6 @@ signName = {mainTitle = "Nyail Cave"}
 signName = {mainTitle = "Legendary Dorado"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["que_ng.rsw"] = {displayName = "알 수 없는 곳"}
-, 
 ["1@crd.rsw"] = {displayName = "Volcanic Island Corodo", notifyEnter = true, 
 signName = {mainTitle = "Volcanic Island Corodo"}
 , backgroundBmp = "dungeon_s2"}
@@ -251,15 +249,15 @@ signName = {mainTitle = "클라나 네미에리"}
 , backgroundBmp = "noname_s2"}
 , 
 ["1@pop1.rsw"] = {displayName = "Pope\'s Office", notifyEnter = true, 
-signName = {subTitle = "낮에 나온 반달", mainTitle = "Pope\'s Office"}
+signName = {subTitle = "Half Moon in the Daylight", mainTitle = "Pope\'s Office"}
 , backgroundBmp = "dungeon"}
 , 
-["1@pop2.rsw"] = {displayName = "집으로 가는 길", notifyEnter = true, 
-signName = {subTitle = "낮에 나온 반달", mainTitle = "집으로 가는 길"}
+["1@pop2.rsw"] = {displayName = "On the way Home", notifyEnter = true, 
+signName = {subTitle = "Half Moon in the Daylight", mainTitle = "On the way Home"}
 , backgroundBmp = "dungeon"}
 , 
-["1@pop3.rsw"] = {displayName = "하늘 정원", notifyEnter = true, 
-signName = {subTitle = "낮에 나온 반달", mainTitle = "하늘 정원"}
+["1@pop3.rsw"] = {displayName = "Sky Garden", notifyEnter = true, 
+signName = {subTitle = "Half Moon in the Daylight", mainTitle = "Sky Garden"}
 , backgroundBmp = "dungeon"}
 , 
 ["lasagna.rsw"] = {displayName = "Port City 라자냐", notifyEnter = true, 
@@ -336,56 +334,56 @@ signName = {mainTitle = "Remote Island"}
 signName = {mainTitle = "Remote Island"}
 , backgroundBmp = "field_s2"}
 , 
-["1@mir.rsw"] = {displayName = "의식의 방", notifyEnter = true, 
-signName = {mainTitle = "의식의 방"}
+["1@mir.rsw"] = {displayName = "Room of Consciousness", notifyEnter = true, 
+signName = {mainTitle = "Room of Consciousness"}
 , backgroundBmp = "noname_s2"}
 , 
-["2@mir.rsw"] = {displayName = "의식의 방", notifyEnter = true, 
-signName = {mainTitle = "의식의 방"}
-, backgroundBmp = "noname"}
+["2@mir.rsw"] = {displayName = "Room of Consciousness", notifyEnter = true, 
+signName = {mainTitle = "Room of Consciousness"}
+, backgroundBmp = "noname_s2"}
 , 
-["1@sthb.rsw"] = {displayName = "공중요새 Interior", notifyEnter = true, 
-signName = {mainTitle = "공중요새 Interior"}
+["1@sthb.rsw"] = {displayName = "Sky Fortress Interior", notifyEnter = true, 
+signName = {mainTitle = "Sky Fortress Interior"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["1@sthc.rsw"] = {displayName = "공중요새 비밀의 방", notifyEnter = true, 
-signName = {mainTitle = "공중요새 비밀의 방"}
+["1@sthc.rsw"] = {displayName = "Sky Fortress and the Chamber of Secrets", notifyEnter = true, 
+signName = {mainTitle = "Sky Fortress and the Chamber of Secrets"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["1@sthd.rsw"] = {displayName = "공중요새 최상층", notifyEnter = true, 
-signName = {mainTitle = "공중요새 최상층"}
+["1@sthd.rsw"] = {displayName = "Sky Fortress Top Floor", notifyEnter = true, 
+signName = {mainTitle = "Sky Fortress Top Floor"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["prt_cas.rsw"] = {displayName = "Prontera 중앙궁", notifyEnter = true, 
-signName = {subTitle = "Prontera 왕성", mainTitle = "중앙궁"}
+["prt_cas.rsw"] = {displayName = "Prontera Central Palace", notifyEnter = true, 
+signName = {subTitle = "Prontera Palace", mainTitle = "Central Palace"}
 , backgroundBmp = "village"}
 , 
-["prt_cas_q.rsw"] = {displayName = "Prontera 별궁", notifyEnter = true, 
-signName = {subTitle = "Prontera 왕성", mainTitle = "별궁"}
+["prt_cas_q.rsw"] = {displayName = "Prontera Royal Villa", notifyEnter = true, 
+signName = {subTitle = "Prontera Palace", mainTitle = "Royal Villa"}
 , backgroundBmp = "village"}
 , 
-["prt_prison.rsw"] = {displayName = "Prontera Underground감옥", notifyEnter = true, 
-signName = {subTitle = "Prontera 왕성", mainTitle = "Underground Prison"}
+["prt_prison.rsw"] = {displayName = "Prontera Underground Prison", notifyEnter = true, 
+signName = {subTitle = "Prontera Palace", mainTitle = "Underground Prison"}
 , backgroundBmp = "dungeon"}
 , 
-["prt_lib.rsw"] = {displayName = "왕가의 기억", notifyEnter = true, 
-signName = {subTitle = "Prontera 왕궁", mainTitle = "왕가의 기억"}
+["prt_lib.rsw"] = {displayName = "Memories of the Royal Family", notifyEnter = true, 
+signName = {subTitle = "Prontera Palace", mainTitle = "Memories of the Royal Family"}
 , backgroundBmp = "noname"}
 , 
-["prt_lib_q.rsw"] = {displayName = "과거 왕가의 기억"}
+["prt_lib_q.rsw"] = {displayName = "Past Memories of the Royal Family"}
 , 
-["prt_q.rsw"] = {displayName = "침공당한 Prontera", notifyEnter = true, 
-signName = {mainTitle = "침공당한 Prontera"}
+["prt_q.rsw"] = {displayName = "Invaded Prontera", notifyEnter = true, 
+signName = {mainTitle = "Invaded Prontera"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["prt_pri00.rsw"] = {displayName = "Prontera 감옥"}
+["prt_pri00.rsw"] = {displayName = "Prontera Prison"}
 , 
 ["1@ffp.rsw"] = {displayName = "잔당들의 아지트", notifyEnter = true, 
 signName = {mainTitle = "잔당들의 아지트"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["1@infi.rsw"] = {displayName = "무한의 공간", notifyEnter = true, 
-signName = {mainTitle = "무한의 공간"}
+["1@infi.rsw"] = {displayName = "Infinite Space", notifyEnter = true, 
+signName = {mainTitle = "Infinite Space"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["paramk.rsw"] = {displayName = "파라마켓"}
@@ -437,10 +435,6 @@ signName = {mainTitle = "Airship"}
 ["1@air2.rsw"] = {displayName = "Airship", notifyEnter = true, 
 signName = {mainTitle = "Airship"}
 , backgroundBmp = "dungeon_s2"}
-, 
-["job_gun.rsw"] = {displayName = "해방의 쉼터", notifyEnter = true, 
-signName = {mainTitle = "해방의 쉼터"}
-, backgroundBmp = "noname_s2"}
 , 
 ["ver_eju.rsw"] = {displayName = "Juperos East Ruin", notifyEnter = true, 
 signName = {subTitle = "Juperos", mainTitle = "East Ruin"}
@@ -1358,11 +1352,11 @@ signName = {mainTitle = "Nameless Island"}
 signName = {subTitle = "Nameless Island", mainTitle = "Monastery 1F"}
 , backgroundBmp = "dungeon"}
 , 
-["abbey02.rsw"] = {displayName = "Nameless Island Monastery Basement 1F", notifyEnter = true, 
+["abbey02.rsw"] = {displayName = "Monastery Basement 1F", notifyEnter = true, 
 signName = {subTitle = "Nameless Island", mainTitle = "Monastery Basement 1F"}
 , backgroundBmp = "dungeon"}
 , 
-["abbey03.rsw"] = {displayName = "Nameless Island Monastery Basement 2F", notifyEnter = true, 
+["abbey03.rsw"] = {displayName = "Monastery Basement 2F", notifyEnter = true, 
 signName = {subTitle = "Nameless Island", mainTitle = "Monastery Basement 2F"}
 , backgroundBmp = "dungeon"}
 , 
@@ -1864,28 +1858,28 @@ signName = {mainTitle = "Juno Kiel Hyre\'s Academy"}
 signName = {subTitle = "Valley of Abyss", mainTitle = "El Mes Gorge"}
 , backgroundBmp = "field"}
 , 
-["ayo_in02.rsw"] = {displayName = "Ayotaya Interior"}
+["ayo_in02.rsw"] = {displayName = "Ayothaya Interior"}
 , 
-["ayo_in01.rsw"] = {displayName = "Ayotaya Interior"}
+["ayo_in01.rsw"] = {displayName = "Ayothaya Interior"}
 , 
-["ayo_dun02.rsw"] = {displayName = "Ayotaya Ancient Shrine Interior", notifyEnter = true, 
-signName = {mainTitle = "Ayotaya Ancient Shrine Interior"}
+["ayo_dun02.rsw"] = {displayName = "Ayothaya Ancient Shrine Interior", notifyEnter = true, 
+signName = {mainTitle = "Ayothaya Ancient Shrine Interior"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["ayo_dun01.rsw"] = {displayName = "Ayotaya Ancient Shrine Maze", notifyEnter = true, 
-signName = {mainTitle = "Ayotaya Ancient Shrine Maze"}
+["ayo_dun01.rsw"] = {displayName = "Ayothaya Ancient Shrine Maze", notifyEnter = true, 
+signName = {mainTitle = "Ayothaya Ancient Shrine Maze"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["ayo_fild02.rsw"] = {displayName = "Ayotaya Field", notifyEnter = true, 
-signName = {mainTitle = "Ayotaya Field"}
+["ayo_fild02.rsw"] = {displayName = "Ayothaya Field", notifyEnter = true, 
+signName = {mainTitle = "Ayothaya Field"}
 , backgroundBmp = "field_s2"}
 , 
-["ayo_fild01.rsw"] = {displayName = "Ayotaya Field", notifyEnter = true, 
-signName = {mainTitle = "Ayotaya Field"}
+["ayo_fild01.rsw"] = {displayName = "Ayothaya Field", notifyEnter = true, 
+signName = {mainTitle = "Ayothaya Field"}
 , backgroundBmp = "field_s2"}
 , 
-["ayothaya.rsw"] = {displayName = "Ayotaya", notifyEnter = true, 
-signName = {mainTitle = "Ayotaya"}
+["ayothaya.rsw"] = {displayName = "Ayothaya", notifyEnter = true, 
+signName = {mainTitle = "Ayothaya"}
 , backgroundBmp = "village_s2"}
 , 
 ["que_god02.rsw"] = {displayName = "Quest Map"}
@@ -3465,6 +3459,48 @@ signName = {mainTitle = "PvP : Waiting Room"}
 ["verus04.rsw"] = {displayName = "Verus Excavation", notifyEnter = true, 
 signName = {subTitle = "Verus City Excavation", mainTitle = "Residential-HOPE"}
 , backgroundBmp = "noname"}
+, 
+["odin1_msp.rsw"] = {displayName = "Land of the Kings 1", notifyEnter = true, 
+signName = {mainTitle = "Land of the Kings"}
+, backgroundBmp = "field_s2"}
+, 
+["odin2_msp.rsw"] = {displayName = "Land of the Kings 2", notifyEnter = true, 
+signName = {mainTitle = "Land of the Kings"}
+, backgroundBmp = "field_s2"}
+, 
+["odin3_msp.rsw"] = {displayName = "Land of the Kings 3", notifyEnter = true, 
+signName = {mainTitle = "Land of the Kings"}
+, backgroundBmp = "field_s2"}
+, 
+["job_gun.rsw"] = {displayName = "Shelter of Rebellion", notifyEnter = true, 
+signName = {mainTitle = "Shelter of Rebellion"}
+, backgroundBmp = "noname_s2"}
+, 
+["que_ng.rsw"] = {displayName = "Unknown Area"}
+, 
+["ayo_dun2a.rsw"] = {displayName = "Sharpshooter\'s Heaven", notifyEnter = true, 
+signName = {mainTitle = "Sharpshooter\'s Heaven"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["bossnia_1a.rsw"] = {displayName = "Dreadfell", notifyEnter = true, 
+signName = {mainTitle = "Dreadfell"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["moc_pryd4a.rsw"] = {displayName = "Novice Ground", notifyEnter = true, 
+signName = {subTitle = " ", mainTitle = "Novice Ground"}
+, backgroundBmp = "dungeon"}
+, 
+["ra_fild8a.rsw"] = {displayName = "Super Novice Area 1", notifyEnter = true, 
+signName = {mainTitle = "Super Novice Area 1"}
+, backgroundBmp = "dungeon"}
+, 
+["tur_dun4a.rsw"] = {displayName = "Super Novice Area 2", notifyEnter = true, 
+signName = {mainTitle = "Super Novice Area 2"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["thor_v02a.rsw"] = {displayName = "Volcano Peaks", notifyEnter = true, 
+signName = {mainTitle = "Volcano Peaks"}
+, backgroundBmp = "dungeon_s2"}
 }
 main = function()
   -- function num : 0_0

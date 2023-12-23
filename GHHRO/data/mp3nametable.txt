@@ -1,36 +1,36 @@
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
-prt_church.rsw#bgm\\10.mp3#
-izlude.rsw#bgm\\26.mp3#
-izlude_in.rsw#bgm\\26.mp3#
-prontera.rsw#bgm\\08.mp3#
-prt_in.rsw#bgm\\08.mp3#
-geffen.rsw#bgm\\13.mp3#
-geffen_in.rsw#bgm\\13.mp3#
-aldebaran.rsw#bgm\\39.mp3#
-aldeba_in.rsw#bgm\\39.mp3#
-alberta.rsw#bgm\\15.mp3#
-alberta_in.rsw#bgm\\15.mp3#
-hugel.rsw#bgm\\93.mp3#
-hu_in01.rsw#bgm\\93.mp3#
+//prt_church.rsw#bgm\\10.mp3#
+//izlude.rsw#bgm\\26.mp3#
+//izlude_in.rsw#bgm\\26.mp3#
+//prontera.rsw#bgm\\08.mp3#
+//prt_in.rsw#bgm\\08.mp3#
+//geffen.rsw#bgm\\13.mp3#
+//geffen_in.rsw#bgm\\13.mp3#
+//aldebaran.rsw#bgm\\39.mp3#
+//aldeba_in.rsw#bgm\\39.mp3#
+//alberta.rsw#bgm\\15.mp3#
+//alberta_in.rsw#bgm\\15.mp3#
+//hugel.rsw#bgm\\93.mp3#
+//hu_in01.rsw#bgm\\93.mp3#
 
 //--- 크리스마스 이벤트 마을음악
-//alberta.rsw#bgm\\54.mp3#
-//alberta_in.rsw#bgm\\54.mp3#
-//aldebaran.rsw#bgm\\56.mp3#
-//aldeba_in.rsw#bgm\\56.mp3#
-//geffen.rsw#bgm\\57.mp3#
-//geffen_in.rsw#bgm\\57.mp3#
-//hugel.rsw#bgm\\54.mp3#
-//hu_in01.rsw#bgm\\54.mp3#
-//izlude.rsw#bgm\\56.mp3#
-//izlude_in.rsw#bgm\\56.mp3#
-//prontera.rsw#bgm\\55.mp3#
-//prt_in.rsw#bgm\\55.mp3#
-//prt_church.rsw#bgm\\56.mp3#
-//evt_xmas.rsw#bgm\\58.mp3#
-//evt_mobroom.rsw#bgm\\18.mp3#
+alberta.rsw#bgm\\54.mp3#
+alberta_in.rsw#bgm\\54.mp3#
+aldebaran.rsw#bgm\\56.mp3#
+aldeba_in.rsw#bgm\\56.mp3#
+geffen.rsw#bgm\\57.mp3#
+geffen_in.rsw#bgm\\57.mp3#
+hugel.rsw#bgm\\54.mp3#
+hu_in01.rsw#bgm\\54.mp3#
+izlude.rsw#bgm\\56.mp3#
+izlude_in.rsw#bgm\\56.mp3#
+prontera.rsw#bgm\\55.mp3#
+prt_in.rsw#bgm\\55.mp3#
+prt_church.rsw#bgm\\56.mp3#
+evt_xmas.rsw#bgm\\58.mp3#
+evt_mobroom.rsw#bgm\\18.mp3#
 
 //시계탑 나이트메어
 c_tower2_.rsw#bgm\\60.mp3#
@@ -960,7 +960,7 @@ lasa_sea.rsw#bgm\\93.mp3#
 1@glast.rsw#bgm\\95.mp3#
 
 //9월15일 포링섬
-poring_tw.rsw#bgm\\105.mp3#
+poring_tw.rsw#bgm\\85.mp3#
 
 //10월 컨텐츠 시계탑 나이트메어
 c_tower2_.rsw#bgm\\60.mp3#
@@ -992,3 +992,41 @@ tra_fild.rsw#bgm\\08.mp3#
 //--- 고성메모리얼 상급
 1@gl_kh.rsw#bgm\\44.mp3#
 2@gl_kh.rsw#bgm\\44.mp3#
+
+//8월 3일 싱가폴 말레이시아 국경일 이벤트
+odin1_msp.rsw#bgm\\162.mp3#
+odin2_msp.rsw#bgm\\162.mp3#
+odin3_msp.rsw#bgm\\162.mp3#
+
+//3분기 ep16.1 영웅을 위한 연회 + 프론테라 리뉴얼
+1@mir.rsw#bgm\\166.mp3#
+2@mir.rsw#bgm\\10.mp3#
+1@sthb.rsw#bgm\\165.mp3#
+1@sthc.rsw#bgm\\165.mp3#
+1@sthd.rsw#bgm\\165.mp3#
+prt_lib.rsw#bgm\\10.mp3#
+prt_lib_q.rsw#bgm\\10.mp3#
+prt_cas.rsw#bgm\\09.mp3#
+prt_cas_q.rsw#bgm\\09.mp3#
+prt_pri00.rsw#bgm\\09.mp3#
+prt_prison.rsw#bgm\\125.mp3#
+prt_q.rsw#bgm\\167.mp3#
+// 교황 메모리얼 낮에나온 반달
+1@pop1.rsw#bgm\\95.mp3#
+1@pop2.rsw#bgm\\94.mp3#
+1@pop3.rsw#bgm\\138.mp3#
+
+//11월 23일 건슬링거 레벨링
+ayo_dun2a.rsw#bgm\\02.mp3#
+bossnia_1a.rsw#bgm\\27.mp3#
+//11월 23일 슈퍼노비스 레벨링
+moc_pryd4a.rsw#bgm\\91.mp3#
+ra_fild8a.rsw#bgm\\73.mp3#
+tur_dun4a.rsw#bgm\\106.mp3#
+//11월 23일 국가대항전의상
+thor_v02a.rsw#bgm\\120.mp3#
+
+
+//4분기 리벨리온 전직맵
+job_gun.rsw#bgm\\132.mp3#
+1@infi.rsw#bgm\\95.mp3#

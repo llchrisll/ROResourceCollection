@@ -228,6 +228,8 @@ SourceItems = {
 {"C_Crown_Of_Saint", 1, 31591}
 , 
 {"C_Aviator_Hat", 1, 31836}
+, 
+{"C_Unicorn_Helm", 1, 20443}
 }
 , NeedSource_String = "Head Costume (Upper)"}
 , 
@@ -304,6 +306,8 @@ SourceItems = {
 {"New_Year_Bun", 1, 12754}
 , 
 {"Booster_Wine_MSP", 1, 101685}
+, 
+{"BlissCookie_MSP", 1, 102656}
 }
 , NeedSource_String = "Consumables Item"}
 , 
@@ -825,13 +829,79 @@ SourceItems = {
 , 
 {"S_AutoSpell_Shoes", 1, 24724}
 , 
-{"S2_Bearers_Shoes", 1, 24338}
-, 
-{"S2_Bearers_Armor", 1, 24337}
-, 
 {"S2_Bearers_Pendent", 1, 24321}
 , 
 {"S_EXP_Shield", 1, 24683}
+, 
+{"S_Force_Weapon", 1, 24224}
+, 
+{"S_Force_Earring", 1, 24225}
+, 
+{"S_Force_Pendant", 1, 24226}
+, 
+{"S_MagicCompose_Armor", 1, 24334}
+, 
+{"S_AutoSpell_Weapon", 1, 24725}
+, 
+{"S_AutoSpell_Pendant", 1, 24726}
+, 
+{"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_Blitz_Shoes", 1, 24231}
+, 
+{"S_Blitz_Shield", 1, 24232}
+, 
+{"S2_Malicious_Armor", 1, 24325}
+, 
+{"S_Titan_Earring", 1, 24234}
+, 
+{"S_Titan_Pendant", 1, 24235}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+, 
+{"S_Blitz_Weapon", 1, 24343}
+, 
+{"S_Blitz_Armor", 1, 24344}
+, 
+{"Enchanting_Weapone_S", 1, 24383}
+, 
+{"Enchanting_Earring_S", 1, 24384}
+, 
+{"Enchanting_Pendant_S", 1, 24385}
+, 
+{"S_Rapid_Pendant", 1, 24047}
+, 
+{"S_CriticalHit_Armor", 1, 15280}
+, 
+{"S_Reload_Shoes", 1, 24243}
+, 
+{"S_Reload_Shield", 1, 24244}
+, 
+{"S_Reload_Armor", 1, 24245}
+, 
+{"S_Restore_Earring", 1, 24368}
+, 
+{"S_Restore_Pendent", 1, 24369}
+, 
+{"S_CriticalHit_Weapon", 1, 24738}
+, 
+{"Unfreez_Weapon_S", 1, 24099}
+, 
+{"Unfreeze_Earing_S", 1, 24100}
+, 
+{"Unfreeze_Pendent_S", 1, 24101}
+, 
+{"S_KingbirdAncient_Armor", 1, 24401}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -1046,6 +1116,42 @@ SourceItems = {
 {"Teleport_Stone", 1, 25228}
 , 
 {"Steal_Stone", 1, 25229}
+, 
+{"ShrinkEffect_Bottom", 1, 25205}
+, 
+{"DoubleAttack_Stone", 1, 25302}
+, 
+{"Critical_Stone_Robe", 1, 25303}
+, 
+{"Critical_Stone_Top", 1, 25304}
+, 
+{"Critical_Stone_Bottom", 1, 25305}
+, 
+{"CastStone_Robe", 1, 25306}
+, 
+{"SuraStone_Top", 1, 25409}
+, 
+{"SuraStone_Middle", 1, 25410}
+, 
+{"SuraStone_Bottom", 1, 25411}
+, 
+{"SuraStone_Robe", 1, 25412}
+, 
+{"RangerStone_Top", 1, 25413}
+, 
+{"RangerStone_Middle", 1, 25414}
+, 
+{"RangerStone_Bottom", 1, 25415}
+, 
+{"RangerStone_Robe", 1, 25416}
+, 
+{"SorcererStone_Top", 1, 25417}
+, 
+{"SorcererStone_Middle", 1, 25418}
+, 
+{"SorcererStone_Bottom", 1, 25419}
+, 
+{"SorcererStone_Robe", 1, 25420}
 }
 , NeedSource_String = "Enchant Stone"}
 , 
@@ -1212,6 +1318,136 @@ SourceItems = {
 {"S_Expert_Shield", 1, 24209}
 }
 , NeedSource_String = "Experience Shadow"}
+, 
+MagicalShadow_Mix = {ItemID = 100887, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Magical_Weapon", 1, 24022}
+, 
+{"S_Magical_Earring", 1, 24021}
+, 
+{"S_Magical_Pendant", 1, 24023}
+, 
+{"S_Magical_Shoes", 1, 24396}
+, 
+{"S_Magical_Shield", 1, 24397}
+, 
+{"S_Magical_Armor", 1, 24398}
+}
+, NeedSource_String = "Magical Shadow"}
+, 
+AbsorbShadow_Mix = {ItemID = 100691, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Spiritual_Weapon", 1, 24078}
+, 
+{"S_Spiritual_Earring", 1, 24079}
+, 
+{"S_Spiritual_Pendent", 1, 24080}
+, 
+{"S2_Spiritual_Weapon", 1, 24324}
+, 
+{"S_Malicious_Armor", 1, 24081}
+, 
+{"S_Malicious_Shoes", 1, 24082}
+, 
+{"S_Malicious_Shield", 1, 24083}
+, 
+{"S2_Malicious_Armor", 1, 24325}
+}
+, NeedSource_String = "Spiritual, Malicious Shadow"}
+, 
+Silver_Statue = {ItemID = 23545, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Bloody_Knight_Shield", 1, 28942}
+}
+, NeedSource_String = "Cused Knight\'s Shield"}
+, 
+PhysicalShadow_Mix = {ItemID = 100888, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Physical_Weapon", 1, 24019}
+, 
+{"S_Physical_Earring", 1, 24018}
+, 
+{"S_Physical_Pendant", 1, 24020}
+, 
+{"S_Physical_Shoes", 1, 24393}
+, 
+{"S_Physical_Armor", 1, 24395}
+, 
+{"S_Physical_Shield", 1, 24394}
+}
+, NeedSource_String = "Physical Shadow"}
+, 
+KingbirdAncient_Mix = {ItemID = 23668, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Kingbird_Weapon", 1, 24031}
+, 
+{"S_Ancient_Armor", 1, 24029}
+}
+, NeedSource_String = "Kingbird Ancient Shadow"}
+, 
+ImmunedAthena_Mix = {ItemID = 23666, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Immune_Armor", 1, 24027}
+, 
+{"S_Athena_Shield", 1, 24026}
+, 
+{"S_Athena_Earring", 1, 24051}
+}
+, NeedSource_String = "Immuned Athena Shadow"}
+, 
+HardChamption_Mix = {ItemID = 23667, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Hard_Armor", 1, 24028}
+, 
+{"S_Hard_Earring", 1, 24049}
+, 
+{"S_Champion_Shoes", 1, 24025}
+}
+, NeedSource_String = "Hard Champion Shadow"}
+, 
+ComposeShadow_Mix = {ItemID = 23250, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_ColdBolt_Armor", 1, 24219}
+, 
+{"S_FireBolt_Armor", 1, 24220}
+, 
+{"S_LightingBolt_Armor", 1, 24221}
+, 
+{"S_EarthSpike_Armor", 1, 24222}
+}
+, NeedSource_String = "Bolt Shadow Armor"}
+, 
+PhysicalMagical_Mix = {ItemID = 23665, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Physical_Weapon", 1, 24019}
+, 
+{"S_Physical_Earring", 1, 24018}
+, 
+{"S_Physical_Pendant", 1, 24020}
+, 
+{"S_Magical_Weapon", 1, 24022}
+, 
+{"S_Magical_Earring", 1, 24021}
+, 
+{"S_Magical_Pendant", 1, 24023}
+}
+, NeedSource_String = "Physical Magical Shadow"}
+, 
+PerfectSize_Mix = {ItemID = 100010, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Big_Weapon", 1, 24075}
+, 
+{"S_Medium_Weapon", 1, 24076}
+, 
+{"S_Small_Weapon", 1, 24077}
+, 
+{"S_Big_Armor", 1, 24072}
+, 
+{"S_Medium_Armor", 1, 24073}
+, 
+{"S_Small_Armor", 1, 24074}
+}
+, NeedSource_String = "Size Shadow Equipments"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

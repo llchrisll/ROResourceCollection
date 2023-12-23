@@ -149,5 +149,27 @@ effectID = {EFID.EF_MOVE_COORDINATE}
 , targetEffectNum = 1, 
 targetEffectID = {EFID.EF_MOVE_COORDINATE}
 , onTarget = true}
+, 
+[SKID.RL_HEAT_BARREL] = {effectNum = 1, 
+effectID = {EFID.EF_HEAT_BARREL}
+, LaunchZC_USE_SKILL = true}
+, 
+[SKID.RL_FIREDANCE] = {effectNum = 1, 
+effectID = {EFID.EF_FIREDANCE}
+, targetEffectNum = 1, 
+targetEffectID = {EFID.EF_TRACKING}
+, waveFileName = "effect\\데스페라도.wav"}
+, 
+[SKID.RL_D_TAIL] = {targetWaveFileName = "effect\\RL_D_TAIL.wav", targetEffectNum = 1, 
+targetEffectID = {EFID.EF_D_TAIL}
+}
+, 
+[SKID.RL_E_CHAIN] = {effectNum = 1, 
+effectID = {EFID.EF_E_CHAIN}
+, LaunchZC_USE_SKILL = true}
+, 
+[SKID.RL_RICHS_COIN] = {effectNum = 1, 
+effectID = {EFID.EF_RICHS_COIN_A}
+, LaunchZC_USE_SKILL = true}
 }
 

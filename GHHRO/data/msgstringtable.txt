@@ -1335,9 +1335,9 @@ Failed to create Memorial Dungeon %s. Please try again.#
 This skill cannot be used within this area.#
 This item cannot be used within this area.#
 Memorial Dungeon#
-%s on Standby#
-%s Available#
-%s in Progress#
+Creating %s#
+%s Ready#
+%s Ongoing#
 No one entered the Memorial Dungeon within its duration; the dungeon has disappeared.#
 Please apply for dungeon entry again to play in this dungeon.#
 Your Standby Priority: ^ff0000%d^000000#
@@ -2275,15 +2275,15 @@ Medium#
 Large#
 Small#
 Undead#
-Animal#
+Beast#
 Plant#
 Insect#
 Fish#
 Demon#
-Human#
+Demi-Human#
 Angel#
 Dragon#
-Nothing#
+Formless#
 %s click move#
 NPC use move service#
 NPC click#
@@ -2464,7 +2464,7 @@ Job EXP from monsters will increase for %dmins by %d%%.#
 Available zeny: %s zeny#
 zeny#
 You can keep up to 214,748,364,700,000,000 zeny here.#
-You don't have enough money.#
+Not enough Ammo.#
 Even if you put in more than 1,000,000,000 zeny, it will be sold as 1,000,000,000.#
 AuthTicket is Not Valid#
 ErrorCode: %d, ErrorValue: %d#
@@ -2560,7 +2560,7 @@ A Saint-type bullet should be equipped.#
 Selling item list#
 Purchased item list#
 A grenade launcher type should be equipped.#
-A skill effect such as [Hit Barrel], [Madness Canceler], or [Platinum Altar] cannot be duplicated for use.#
+A skill effect such as [Hit Barrel], [Last Stand], or [Platinum Altar] cannot be duplicated for use.#
 This skill cannot be used in this map.#
 When you are using guild storage, all the items in storage will disappear.#
 ro.gnjoy.asia/#
@@ -2660,7 +2660,7 @@ Character#
 Actions#
 Etc.#
 Adventure#
-Rune-Midgards#
+Rune Midgard#
 Schwartzvald#
 Arunafeltz#
 New World#
@@ -2672,11 +2672,11 @@ Training#
 Quest#
 Episode#
 Basic#
-Memorial Dungeon#
+Memorial#
 Midgard#
 New World#
 Etc.#
-Great Achievement#
+Milestone#
 Attained quest#
 You cannot add any more#
 You have achieved < %s >.#
@@ -3014,7 +3014,7 @@ Access date: %s#
 You can not use the bank while refining. The bank is closed.#
 You cannot use the bank while refining.#
 The item has bind to set equipment.#
-Human#
+Demi-Human#
 Swordman, Mage, Merchant, Acolyte, Thief, Archer, Expanded Classes#
 Doram#
 Summoner#
@@ -3327,10 +3327,10 @@ PASSWORD HAS NOT BEEN CHANGED FOR MORE THAN 90 DAYS#
 INPUT DATA ERROR#
 DATABASE ERROR#
 SYSTEM ERROR#
-Loss %s #
+Use %s #
 Payment#
-This map cannot be used#
-This map can be used#
+Cannot use on current map#
+Cannot be used on this map#
 Not enough items#
 Please input the same line without skipping a line#
 Unable to register because of inappropriate name#
@@ -3444,8 +3444,8 @@ Party master unable to get request#
 Unable to find party#
 Dealer#
 ro.gnjoy.asia#
-up#
-down#
+ and above#
+ and below#
 Already in the friend list#
 Unable to find target#
 Another player's request to add a friend#
@@ -3599,7 +3599,7 @@ left#
 up#
 right#
 down#
-¢Ç#
+  #
 left#
 Unable to close the window while loading#
 No skill recorded in the Reading Spellbook#
@@ -3644,7 +3644,7 @@ We suggest not playing the game more than 3 hours at a time#
 AP is not sufficient#
 Unable to merge because refine level is too high#
 The refine level is higher than refine level requested for merging#
-The card is socketed, or the item is engaged in Enchant#
+The item is enchanted or the card is socketed#
 infinite#
 Z#
 Total: %s Zeny#
@@ -3669,12 +3669,12 @@ Tag item is included and cannot be used#
 Monster#
 Unknown#
 Undead#
-Animal#
+Beast#
 Plant#
 Insect#
 Marine#
 Devil#
-Human#
+Demi-Human#
 Angel#
 Dragon#
 Balance: %s %c#

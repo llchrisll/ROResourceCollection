@@ -558,6 +558,106 @@ TargetItems = {
 {"S2_Bearers_Pendent", 24321}
 , 
 {"S_EXP_Shield", 24683}
+, 
+{"S_Force_Weapon", 24224}
+, 
+{"S_Force_Earring", 24225}
+, 
+{"S_Force_Pendant", 24226}
+, 
+{"S_Clever_Weapon", 24736}
+, 
+{"S_Clever_Shield", 24737}
+, 
+{"S_MagicCompose_Armor", 24334}
+, 
+{"S_AutoSpell_Weapon", 24725}
+, 
+{"S_AutoSpell_Pendant", 24726}
+, 
+{"S_AutoSpell_Earring", 24727}
+, 
+{"S_Blitz_Shoes", 24231}
+, 
+{"S_Blitz_Shield", 24232}
+, 
+{"S2_Malicious_Armor", 24325}
+, 
+{"S_Absorb_Shield", 24685}
+, 
+{"S_Absorb_Weapon", 24686}
+, 
+{"S_Titan_Earring", 24234}
+, 
+{"S_Titan_Pendant", 24235}
+, 
+{"S_Mammoth_Shoes", 24670}
+, 
+{"S_Mammoth_Weapon", 24673}
+, 
+{"S_Mammoth_Armor", 24669}
+, 
+{"S_Mammoth_Pendant", 24671}
+, 
+{"S_Mammoth_Earring", 24672}
+, 
+{"S_Mammoth_Shield", 24674}
+, 
+{"S_Blitz_Weapon", 24343}
+, 
+{"S_Blitz_Armor", 24344}
+, 
+{"S_CriticalHit_Armor", 15280}
+, 
+{"S_Rapid_Pendant", 24047}
+, 
+{"Enchanting_Weapone_S", 24383}
+, 
+{"Enchanting_Earring_S", 24384}
+, 
+{"Enchanting_Pendant_S", 24385}
+, 
+{"S_Durable_Shield", 24735}
+, 
+{"S_Durable_Weapon", 24734}
+, 
+{"S_Reload_Shoes", 24243}
+, 
+{"S_Reload_Shield", 24244}
+, 
+{"S_Reload_Armor", 24245}
+, 
+{"S_Restore_Earring", 24368}
+, 
+{"S_Restore_Pendent", 24369}
+, 
+{"S_CriticalHit_Weapon", 24738}
+, 
+{"Unfreez_Weapon_S", 24099}
+, 
+{"Unfreeze_Earing_S", 24100}
+, 
+{"Unfreeze_Pendent_S", 24101}
+, 
+{"S_KingbirdAncient_Armor", 24401}
+, 
+{"S_ImmunedAthena_Shield", 24399}
+, 
+{"S_HardChamption_Shoes", 24400}
+, 
+{"S_PerfectSize_Weapon", 24425}
+, 
+{"S_PerfectSize_Armor", 24426}
+, 
+{"S_Gunslinger_Weapon_MSP", 24893}
+, 
+{"S_Gunslinger_Shield_MSP", 24892}
+, 
+{"S_Super_M_Shield_MSP", 24890}
+, 
+{"S_Super_Magic_Armor_MSP", 24889}
+, 
+{"S_Super_M_Shoes_MSP", 24891}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -706,6 +806,50 @@ TargetItems = {
 {"Giant_Blade", 21011}
 }
 , NeedSource_String = "Charleston Part(Range)"}
+, 
+Gold_Statue = {ItemID = 23547, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Bloody_Knight_Shield__", 28946}
+}
+, NeedSource_String = "Purified Knight\'s Shield"}
+, 
+Cursed_Blood = {ItemID = 23546, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Bloody_Knight_Shield_", 28945}
+}
+, NeedSource_String = "Bloody Knight\'s Shield"}
+, 
+Time_Unseal_Key = {ItemID = 9551, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Temporal_M_Str", 20963}
+, 
+{"Temporal_M_Agi", 20964}
+, 
+{"Temporal_M_Vit", 20965}
+, 
+{"Temporal_M_Int", 20966}
+, 
+{"Temporal_M_Dex", 20967}
+, 
+{"Temporal_M_Luk", 20968}
+}
+, NeedSource_String = "Temporal Manteau"}
+, 
+Gemstone_Of_Time = {ItemID = 9550, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Overwhelm_Str_Armor", 15278}
+, 
+{"Overwhelm_Int_Armor", 15279}
+, 
+{"Overwhelm_Vit_Armor", 15347}
+, 
+{"Overwhelm_Dex_Armor", 15354}
+, 
+{"Overwhelm_Agi_Armor", 15353}
+, 
+{"Overwhelm_Luk_Armor", 15346}
+}
+, NeedSource_String = "Overwhelm Armor"}
 }
 , serverMain = function()
   -- function num : 0_0

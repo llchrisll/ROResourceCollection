@@ -5,6 +5,14 @@ niflxmas.rsw#
 0x22ffccff#
 0.5#
 
+//3분기
+//공중요새 메모리얼
+1@sthd.rsw#
+0.15#
+0.9#
+0xffDFCAA0#
+0.5#
+
 //영웅의 흔적 2012.8.27
 
 1@tnm2.rsw#

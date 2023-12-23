@@ -3,7 +3,6 @@
 505	0	0	0	0	1	1	1	1	//Blue_Potion
 518	0	0	0	0	1	1	1	1	//Honey
 526	0	0	0	0	1	1	1	1	//Royal_Jelly
-547	1	0	0	0	1	1	1	1	//White_Slim_Potion
 556	1	1	0	1	0	1	1	1	//Long_Rice_Cake
 558	0	0	0	0	1	1	1	1	//Chocolate
 561	0	0	0	0	1	1	1	1	//White_Chocolate
@@ -76,7 +75,7 @@
 1391	1	1	1	1	0	1	1	1	//P_Two_Handed_Axe1
 1398	1	1	1	1	0	1	1	1	//Metal_Two_Handed_Axe
 1399	1	1	1	1	0	1	1	1	//TE_Woe_Two_Handed_Axe
-1419	1	1	1	1	1	1	1	1	
+1419	1	1	1	1	1	1	1	1	//
 1423	1	1	0	1	1	1	1	1	//Pole_XO
 1424	1	1	0	1	1	1	1	1	//Skewer_C
 1425	1	1	0	1	1	1	1	1	//BF_Spear1
@@ -305,7 +304,6 @@
 2643	1	1	0	1	1	1	1	1	//Serin's_Gold_Ring_
 2644	1	1	1	1	1	1	1	1	//The_Sign_
 2647	1	1	1	1	1	1	1	1	//Nile_Rose
-2658	1	1	0	1	1	1	1	1	//Nile_Rose_
 2668	1	1	1	1	0	1	1	1	//Women's_Glory
 2670	1	1	0	1	1	1	1	1	//Ring_Of_Longing
 2673	1	1	1	1	1	1	1	1	//Shining_Ring
@@ -789,17 +787,7 @@
 5873	0	0	0	0	0	1	1	1	//Helmet_Of_Siegfried
 5874	0	0	0	0	0	1	1	1	//Circlet_Of_Kriemhild
 5875	0	0	0	0	0	1	1	1	//Diadem_Of_Bruenhild
-5897	1	1	0	1	0	1	1	1	//Ascendant_Crown_
-5898	1	1	0	1	0	1	1	1	//Autumn_Headband
-5899	1	1	0	1	0	1	1	1	//Black_Ribbon_
-5900	1	1	0	1	0	1	1	1	//Divine_Guard_Hat_
-5901	1	1	0	1	0	1	1	1	//Focus_Beret_
-5902	1	1	0	1	0	1	1	1	//Harvester_Hat_
 5903	1	1	0	1	0	1	1	1	//Hitaikakushi_
-5904	1	1	0	1	0	1	1	1	//Inconspicuous_Hat_
-5905	1	1	0	1	0	1	1	1	//Lyrica_Hat_
-5906	1	1	0	1	0	1	1	1	//Oni_Horns_
-5907	1	1	0	1	0	1	1	1	//Sea_Captain_Hat_
 5939	1	0	0	0	1	1	1	1	//Love_Dad_2014
 5942	1	1	0	1	1	1	1	1	//Lovegame_Hat
 5977	1	0	0	0	1	1	1	1	//C_Poker_Card_In_Mouth
@@ -1488,10 +1476,6 @@
 11580	0	1	0	1	0	1	1	1	//Candy_B
 11581	0	1	0	1	0	1	1	1	//Piece_Of_Cake_B
 11583	0	0	0	1	1	1	1	1	//Chocolate_Drink_B
-11592	1	0	0	0	1	1	1	1	//Trance_Candy_R
-11593	1	0	0	0	1	1	1	1	//Trance_Candy_B
-11594	1	0	0	0	1	1	1	1	//Trance_Candy_Y
-11595	1	0	0	0	1	1	1	1	//Trance_Candy_G
 11598	0	0	0	0	0	1	1	1	//Bitter_Cacao_Bean
 12132	1	1	0	1	0	1	1	1	//Red_Bag
 12142	0	1	1	1	1	1	1	1	//Magic_Book
@@ -1661,7 +1645,7 @@
 12542	1	1	1	1	0	1	1	1	//Fortune_Cookie2
 12543	1	1	1	1	0	1	1	1	//Fortune_Cookie3
 12545	1	1	0	1	1	1	1	1	//Lucky_Egg_C5
-12549	1	0	0	0	1	1	1	1	//White_Slim_Pot_Box2
+12549	1	1	0	1	1	1	1	1	//White_Slim_Pot_Box2 //3분기수정
 12553	1	0	0	0	1	1	1	1	//Brysinggamen_Piece_Box
 12556	1	0	0	0	1	1	1	1	//Sleipnir_Piece_Box
 12557	1	0	0	0	1	1	1	1	//Mjolnir_Piece_Box
@@ -1824,7 +1808,7 @@
 12938	1	0	0	0	1	1	1	1	//Combat_Knife_Box
 12939	1	0	0	0	1	1	1	1	//Counter_Dagger_Box
 12940	1	0	0	0	1	1	1	1	//Kaiser_Knuckle_Box
-12941	1	0	0	0	1	1	1	1	
+12941	1	0	0	0	1	1	1	1	//
 12942	1	0	0	0	1	1	1	1	//Mighty_Staff_Box
 12943	1	0	0	0	1	1	1	1	//Right_Epsilon_Box
 12944	1	0	0	0	1	1	1	1	//Balistar_Box
@@ -1901,11 +1885,6 @@
 13186	1	1	1	1	0	1	1	1	//TE_Woe_Shotgun
 13187	1	1	1	1	0	1	1	1	//TE_Woe_Grenade
 13208	1	1	0	1	1	1	1	1	//Gong_Bug
-13228	1	1	0	1	1	1	1	1	//Flare_Bullet
-13229	1	1	0	1	1	1	1	1	//Lighting_Bullet
-13230	1	1	0	1	1	1	1	1	//Ice_Bullet
-13231	1	1	0	1	1	1	1	1	//Poison_Bullet
-13232	1	1	0	1	1	1	1	1	//Blind_Bullet
 13291	1	1	0	1	1	1	1	1	//Starfish
 13292	1	1	0	1	1	1	1	1	//Dried_Squid
 13293	1	1	0	1	1	1	1	1	//Flying_Fish
@@ -1981,7 +1960,7 @@
 13718	1	0	0	0	1	1	1	1	//Abrasive_Box10
 13738	1	0	0	0	1	1	1	1	//Glass_Of_Illusion_Box5
 13739	1	0	0	0	1	1	1	1	//Glass_Of_Illusion_Box10
-13742	1	0	0	0	1	1	1	1	
+13742	1	0	0	0	1	1	1	1	//
 13764	1	0	0	0	1	0	0	1	//Battle_Manual_Box_TW
 13765	1	1	1	1	1	1	1	1	//Certificate_TW_Box
 13766	1	0	0	0	1	1	1	1	//Nagan_Box
@@ -3397,7 +3376,6 @@
 18666	1	0	0	0	1	1	1	1	//CD_In_Mouth
 18670	0	0	0	0	0	0	1	1	//Hankie_In_Mouth
 18671	1	1	0	1	1	1	1	1	//Rudolf_Hairband
-18673	1	0	0	0	1	1	1	1	//Tare_Pope_
 18676	0	0	0	0	0	1	1	1	//Hexagon_Spectacles
 18677	1	0	0	0	1	1	1	1	//Cherry_Twig_In_Mouth
 18678	1	0	0	0	1	1	1	1	//Leek_In_Mouth
@@ -3418,7 +3396,6 @@
 18719	1	0	0	0	1	1	1	1	//Angel_Stairs
 18727	1	0	0	0	1	1	1	1	//Sedora_Hat
 18728	1	0	0	0	1	1	1	1	//Egir_Helm
-18729	1	0	0	0	1	1	1	1	//MVP_Basketball
 18730	0	0	0	0	0	1	1	1	//Cryptura_Academy_Hat
 18731	1	0	0	0	0	1	1	1	//Valkyrie_Outing_Helm
 18732	1	1	1	1	0	1	1	1	//TE_Woe_Cap
@@ -3430,7 +3407,6 @@
 18754	1	0	0	0	1	1	1	1	//Blood_Sucker
 18786	1	0	0	0	1	1	1	1	//Anemos_Mask
 18787	1	0	0	0	1	1	1	1	//Goal_Tender_Mask
-18799	1	0	0	0	1	1	1	1	//Nero_Mask
 18828	1	0	0	0	1	1	1	1	//2012RMSCNO1
 18829	1	0	0	0	1	1	1	1	//2012RMSCNO2
 18830	1	0	0	0	1	1	1	1	//2012RMSCNO3
@@ -3457,16 +3433,13 @@
 18918	0	0	0	0	0	1	1	1	//Long_Octopus_Balloon
 18919	1	0	0	0	1	1	1	1	//Jack_Castle_Bat
 18930	1	0	0	0	0	1	1	1	//Gorilla_Model_Hat
-18931	1	0	0	0	0	1	1	1	//Lion_Model_Hat
 18932	1	0	0	0	0	1	1	1	//Rhino_Model_Hat
 18944	1	0	0	0	1	1	1	1	//Deviruchi_Balloon
 19015	0	0	0	0	0	1	1	1	//C_Gemma_Hairband
 19038	1	0	0	0	1	1	1	1	//12th_Crown
 19039	1	0	0	0	1	1	1	1	//12th_ElvenEars
 19102	1	0	0	0	1	1	1	1	//Pale_Moon_Hat
-19114	1	0	0	0	1	1	1	1	//Sting_Silk_Ribbon
 19147	1	0	0	0	1	1	1	1	//Drops_Balloon
-19148	1	1	0	1	1	1	1	1	//SantaPoring_Balloon
 19158	1	0	0	0	1	1	1	1	//C_Gemini_Eyes
 19164	1	1	0	1	0	1	1	1	//Para_Team_Hat100
 19165	1	1	0	1	0	1	1	1	//Para_Team_Hat160
@@ -3491,7 +3464,6 @@
 19517	1	1	0	1	1	1	1	1	//Cocks_Comb
 19521	1	1	0	1	1	1	1	1	//Charlie_Hat
 19522	1	1	0	1	1	1	1	1	//Mini_Crown1
-19523	1	1	0	1	1	1	1	1	//Donation_Ribbon
 19524	1	0	0	0	1	1	1	1	//C_Green_Feeler
 19525	1	0	0	0	1	0	0	1	//C_Jack_A_Dandy
 19526	1	0	0	0	1	0	0	1	//C_Helm
@@ -3586,7 +3558,6 @@
 19817	0	0	0	0	0	1	1	0	//C_Ifrits_Breath
 19823	0	0	0	0	0	1	1	0	//C_White_Cat_Hood
 19824	0	0	0	0	0	1	1	0	//C_Evil_Druid_Hat
-19826	0	0	0	0	0	1	1	0	//C_Ice_Wing_Ear
 19830	0	0	0	0	0	1	1	0	//C_SunGlasses
 19834	0	0	0	0	0	1	1	0	//C_Baseball_Cap
 19836	0	0	0	0	0	1	1	0	//C_L_Magestic_Goat
@@ -3613,7 +3584,6 @@
 19886	0	0	0	0	0	1	1	0	//C_Luxury_Sunglasses
 19890	0	0	0	0	0	1	1	0	//C_Wizardry_Hat
 19901	0	0	0	0	0	1	1	0	//C_Viking_Helm
-19903	0	0	0	0	0	1	1	0	//C_Witchs_Hat
 19905	0	0	0	0	0	1	1	0	//C_Secret_Society_Hood
 19909	0	0	0	0	0	1	1	0	//C_White_Deviruchi_Cap
 19913	0	0	0	0	0	1	1	0	//C_Poo_Poo_Hat
@@ -3643,7 +3613,6 @@
 19988	0	0	0	0	0	1	1	0	//C_Elder_Crown
 19989	0	0	0	0	0	1	1	0	//C_Mouton_Life
 19992	0	0	0	0	0	1	1	0	//C_Chilly_Breath
-19996	1	0	0	0	1	1	1	1	//Horse_King
 20005	1	0	0	0	0	1	1	1	//C_Pegasus_Wing_Ears
 20006	1	0	0	0	1	1	1	1	//C_Dark_Knight_Mask
 20007	1	0	0	0	1	1	1	1	//C_Bullock_Helm_J
@@ -3689,7 +3658,6 @@
 20096	0	0	0	0	0	1	1	0	//C_Fillet_Blue
 20097	0	0	0	0	0	1	1	0	//C_Fillet_White
 20098	1	0	0	0	1	1	1	1	//C_Vampire_Hairband
-20099	1	0	0	0	1	1	1	1	//C_Ljosalfar
 20100	1	0	0	0	1	1	1	1	//C_Volume_Fhat
 20101	1	1	0	1	1	1	1	1	//C_Bragi_Wing_Ears
 20102	1	0	0	0	1	1	1	1	//C_Horse_King
@@ -3787,7 +3755,6 @@
 20438	1	0	0	0	1	1	1	1	//C_Abacus_In_Mouth
 20441	1	0	0	0	1	1	1	1	//C_L_RibbonMuff_Red
 20442	1	0	0	0	1	1	1	1	//C_RW_Mochiring_Hat
-20443	1	0	0	0	1	1	1	1	//C_Unicorn_Helm
 20447	1	0	0	0	1	1	1	1	//C_Small_Poring_Band
 20449	1	0	0	0	1	1	1	1	//C_White_Black_Temp
 20450	1	0	0	0	1	1	1	1	//C_Gram_Peony
@@ -3798,7 +3765,6 @@
 20462	1	0	0	0	1	1	1	1	//C_Cat_Ears_Cape
 20463	1	0	0	0	0	1	1	1	//C_Two_Tone_Beret
 20464	1	0	0	0	1	1	1	1	//C_Monochrome_RibbonHat
-20468	1	0	0	0	1	1	1	1	//C_Youinone_Mask
 20474	1	1	0	1	0	1	1	1	//C_Banana_Hat
 20482	1	0	0	0	1	1	1	1	//C_Heaven_Cage
 20483	1	0	0	0	0	1	1	1	//C_Butterfly_Barrettes
@@ -3806,7 +3772,6 @@
 20485	1	0	0	0	0	1	1	1	//C_Maneater_Flower_Hp
 20486	1	0	0	0	0	1	1	1	//C_Twin_Margaret
 20488	1	0	0	0	1	1	1	1	//C_Pope_Ribbon
-20489	1	0	0	0	1	1	1	1	//C_Pope_Crown
 20490	1	0	0	0	1	1	1	1	//C_Full_Bloom_Hp_Blue
 20499	1	0	0	0	1	1	1	1	//C_Cat_Ear_Hat
 20504	1	0	0	0	1	1	1	1	//C_Cupid_Wing_Pink
@@ -3817,7 +3782,6 @@
 20524	1	1	0	1	1	1	1	1	//C_Shining_Angel_Wing
 20527	1	0	0	0	1	1	1	1	//C_PinkButterfly_Wing
 20537	1	0	0	0	1	1	1	1	//C_Maple_Which_Falls_Rd
-20547	1	0	0	0	1	1	1	1	//C_Ghost_Effect
 20549	1	1	0	1	1	1	1	1	//C_99LV_Royal_Guard_Blue
 20550	1	1	0	1	1	1	1	1	//C_99LV_Warlock_Violet
 20551	1	1	0	1	1	1	1	1	//C_99LV_Sorcerer_LBlue
@@ -3842,9 +3806,7 @@
 20571	1	0	0	0	1	1	1	1	//C_Valkyrie_Wing
 20574	1	0	0	0	1	1	1	1	//C_School_Bag_RD
 20575	1	0	0	0	1	1	1	1	//C_School_Bag_BL
-20577	1	0	0	0	1	1	1	1	//C_Balloon_Wing
 20588	1	0	0	0	1	1	1	1	//C_Nifl_Bloom
-20592	1	0	0	0	1	1	1	1	//C_Santa_Backpack
 20594	1	0	0	0	1	1	1	1	//C_Big_Ribbon_Cloak
 20596	1	0	0	0	1	1	1	1	//C_BlackBear_Back_TW
 20601	1	1	0	1	1	1	1	1	//C_99LV_Rune_Red
@@ -3875,7 +3837,6 @@
 21060	1	1	0	1	0	1	1	1	//Zeolite_Sword_EXE
 22012	1	1	1	1	1	1	1	1	//Mana_Boots
 22014	0	0	0	0	0	1	1	1	//Enhanced_Variant_Shoes
-22017	1	0	0	0	1	1	1	1	//Fisherman_Shoes
 22031	1	0	0	0	1	1	1	1	//Aurelian_Shoes
 22032	1	0	0	0	1	1	1	1	//Shoes_Of_Exorcism
 22050	1	0	0	0	1	1	1	1	//Gardener_Shoes
@@ -3947,11 +3908,6 @@
 23050	1	1	0	1	1	1	1	1	//Comp_Magic_Candy
 23117	1	1	0	1	1	1	1	1	//Songkran_Egg2016
 23118	1	1	0	1	1	1	1	1	//RedCrystalChunk
-23123	1	0	0	0	1	1	1	1	//Bullet_Case_Flare
-23124	1	0	0	0	1	1	1	1	//Bullet_Case_Lighting
-23125	1	0	0	0	1	1	1	1	//Bullet_Case_Ice
-23126	1	0	0	0	1	1	1	1	//Bullet_Case_Poison
-23127	1	0	0	0	1	1	1	1	//Bullet_Case_Blind
 23142	1	1	0	1	0	1	1	1	//EXPUP_Potion1 6월22일 2분기
 23143	1	1	0	1	0	1	1	1	//JEXPUP_Potion1 6월22일 2분기
 23149	1	1	0	1	1	1	1	1	//Premium_Box_3d
@@ -4018,7 +3974,7 @@
 25079	1	1	1	1	0	1	1	1	//FaintBreathing
 25080	1	1	1	1	0	1	1	1	//FoxBeads
 25132	0	1	1	1	0	1	1	1	//Pumpkin_Decorations
-25133	0	1	1	1	0	1	1	1	//Dry_White_Stem
+25133	1	1	1	1	0	1	1	1	//Dry_White_Stem
 25143	1	1	1	1	0	1	1	1	//Gift_Stuffed_Doll
 25144	1	1	1	1	0	1	1	1	//Bridge_Stuffed_Doll
 25145	1	1	1	1	1	1	1	1	//Burned_Specter_Doll
@@ -4036,7 +3992,7 @@
 25221	1	1	1	1	0	1	1	1	//MoonScent_Tree_Branches
 25222	1	1	1	1	0	1	1	1	//MoonPattern_WindowPaper
 25223	1	1	0	1	0	1	1	1	//Para_Team_Coin
-25245	1	1	1	1	1	1	1	1	//Small_pile_of_bones
+25245	1	1	1	1	0	1	1	1	//Little_Skel_Bone
 25252	1	1	0	1	0	1	1	1	//Sprig_Of_Holly
 25253	1	1	1	1	1	1	1	1	//Sugar_Box
 25254	1	1	0	1	0	1	1	1	//Firewood
@@ -4158,7 +4114,6 @@
 31123	1	0	0	0	1	1	1	1	//C_Ghostring_Tall_Hat
 31125	1	0	0	0	1	1	1	1	//C_QueenAnzRevenge
 31131	1	0	0	0	1	1	1	1	//C_Holy_Bonnet
-31132	1	0	0	0	1	1	1	1	//C_Christmas_Wreath
 31133	1	0	0	0	1	1	1	1	//C_Gambler_Seal
 31134	1	0	0	0	1	1	1	1	//C_Chatty_Parrot
 31136	1	0	0	0	1	1	1	1	//C_Clock_Casket
@@ -4168,14 +4123,13 @@
 31155	1	0	0	0	1	0	0	1	//C_Spinning_Eyes
 31156	1	1	0	1	1	1	1	1	//C_Fruit_Shell
 31157	1	0	0	0	1	0	0	1	//C_Spirit_Chain
-31158	1	0	0	0	1	1	1	1	//C_Squirrel_Ear_Hat
+31158	1	1	0	1	0	1	1	1	//C_Squirrel_Ear_Hat
 31162	1	0	0	0	1	1	1	1	//C_Shaving_Foam
 31163	1	0	0	0	1	1	1	1	//C_Sheep_Hat
 31164	1	0	0	0	1	1	1	1	//C_Brown_Stall
 31167	1	0	0	0	1	1	1	1	//C_Lunatic_Ear_Black
 31168	1	0	0	0	1	1	1	1	//C_Mouton_Life_BL
 31175	1	0	0	0	1	1	1	1	//C_Strawberry_Hat
-31176	1	0	0	0	1	1	1	1	//C_Looking
 31177	1	0	0	0	1	1	1	1	//C_Tail_Hat
 31183	1	0	0	0	1	1	1	1	//C_Fallen_Angel_Blessing
 31189	1	0	0	0	1	1	1	1	//C_Cat_Ears_Cape_Red
@@ -4193,7 +4147,6 @@
 31252	1	0	0	0	1	1	1	1	//C_Cat_Ear_Hat_White
 31257	1	0	0	0	1	1	1	1	//C_Clay_Poring_Jar
 31258	1	0	0	0	1	1	1	1	//C_White_Clay_Filler
-31259	1	0	0	0	1	1	1	1	//C_Bubble_A_Angel_H
 31290	1	0	0	0	1	1	1	1	//C_Adv_Ang_SchCap
 31291	1	0	0	0	1	1	1	1	//C_Adv_Dev_SchCap
 31295	1	1	0	1	0	1	1	1	//C_Priest_Hat_J
@@ -4211,7 +4164,6 @@
 31332	1	0	0	0	1	1	1	1	//C_Khalitzburg_Helm_BL
 31380	1	0	0	0	1	1	1	1	//C_Gossip_Raven
 31382	1	0	0	0	1	1	1	1	//C_Cat_Ears_Punkish
-31383	1	0	0	0	1	1	1	1	//C_Volume_Low_Twin
 31384	1	0	0	0	1	1	1	1	//C_False_Ears
 31391	1	0	0	0	1	1	1	1	//C_Floating_Stone_Of_Int
 31395	1	1	0	1	0	1	1	1	//C_Book_Of_Magic 11월 17일
@@ -4220,7 +4172,6 @@
 31407	1	0	0	0	1	1	1	1	//C_Alice_Wig_PK
 31416	1	0	0	0	1	1	1	1	//C_SeraphimCoronet
 31420	1	0	0	0	1	1	1	1	//C_SantaPoring_Promo
-31432	1	0	0	0	1	1	1	1	//C_Luwmin_Ice
 31445	1	0	0	0	1	1	1	1	//Feather_Fedora_TW
 31453	1	0	0	0	1	1	1	1	//C_L_RibbonMuff_Black
 31455	1	0	0	0	1	1	1	1	//Enchanted_Dog
@@ -4248,7 +4199,6 @@
 31575	1	0	0	0	1	1	1	1	//C_Electro_Two_Side_Up
 31577	1	0	0	0	1	1	1	1	//C_Roast_Memory_J
 31587	1	0	0	0	1	1	1	1	//C_NationalDay_helmet_TW
-31588	1	0	0	0	1	1	1	1	//C_SnowFlake_Tiara
 31593	1	0	0	0	1	1	1	1	//C_Yellow_Scarf
 31599	1	0	0	0	1	1	1	1	//C_Medium_Wave
 31600	1	0	0	0	1	1	1	1	//C_Kishu_Inu
@@ -4263,9 +4213,8 @@
 31665	1	1	0	1	1	1	1	1	//C_GoldPoring_Hat_TW
 31666	1	0	0	0	1	1	1	1	//C_Crown_of_Unity
 31668	1	0	0	0	1	1	1	1	//C_Majoruros_Horn
-31669	1	0	0	0	1	1	1	1	//C_Adv_Whisper_Mask_J
+31669	1	1	0	1	0	1	1	1	//C_Adv_Whisper_Mask_J
 31671	1	0	0	0	1	1	1	1	//C_Twin_Canon
-31673	1	0	0	0	1	1	1	1	//C_Picnic_Basket
 31684	1	0	0	0	1	1	1	1	//C_Kururinpa_Hair
 31685	1	0	0	0	1	1	1	1	//C_Fluffy_Semi_Long
 31686	1	0	0	0	1	1	1	1	//C_Desert_Wolf_B
@@ -4289,7 +4238,6 @@
 31831	1	0	0	0	1	1	1	1	//C_Disguise_Mantle
 31832	1	0	0	0	1	1	1	1	//C_Bicolor_Cat_Witch_Hat
 31837	1	0	0	0	1	1	1	1	//C_SharkHead_J
-31844	1	0	0	0	1	1	1	1	//C_Mob_Scarf
 31852	1	0	0	0	1	1	1	1	//C_WitchManteau
 31854	1	0	0	0	1	1	1	1	//C_SnackParty_J
 31858	1	0	0	0	1	1	1	1	//C_Signon_Prin_Wave_BU
@@ -4583,7 +4531,7 @@
 19845	1	1	0	1	0	1	1	1	//C_Hair_Protector
 20194	1	1	0	1	0	1	1	1	//C_Lion_Mask
 31161	1	1	0	1	0	1	1	1	//C_Tiger_Mask
-1001066	1	1	1	1	0	1	1	1	//Gold_Bullion_MSP
+1001066	1	1	0	1	0	1	1	1	//Gold_Bullion_MSP
 101684	1	1	1	1	0	1	1	1	//August_Evt_MSP
 23012	1	1	0	1	1	1	1	1	//Comp_Small_Mana_Potion
 101741	1	1	0	1	1	1	1	1	//National_Day_Box_MSP
@@ -4781,16 +4729,6 @@
 24787	1	1	0	1	0	1	1	1	//S_1th_MSP_Earring
 1001221	1	1	1	1	0	1	1	1	//1st_evt_Coin_MSP
 1001222	1	1	1	1	1	1	1	1	//1th_evt_badge_MSP
-6018	1	1	0	1	0	1	1	1	//Blue_Card_V
-7461	1	1	0	1	0	1	1	1	//BlueCard_A
-7462	1	1	0	1	0	1	1	1	//BlueCard_E
-7464	1	1	0	1	0	1	1	1	//BlueCard_H
-7466	1	1	0	1	0	1	1	1	//BlueCard_N
-7471	1	1	0	1	0	1	1	1	//BlueCard_Y
-7598	1	1	0	1	0	1	1	1	//BlueCard_I
-7601	1	1	0	1	0	1	1	1	//BlueCard_S
-7602	1	1	0	1	0	1	1	1	//BlueCard_R
-7719	1	1	0	1	0	1	1	1	//BlueCard_G
 
 //3월 2일
 102260	1	0	0	0	1	1	1	1	//GGH_1st_Egg_2_MSP
@@ -4869,7 +4807,7 @@
 
 //6월 8일
 1001005	1	1	1	1	0	1	1	1	//Event_Token_MSP
-102356	1	1	1	1	0	1	1	1	//Dracula_Box_MSP
+102356	1	1	0	1	0	1	1	1	//Dracula_Box_MSP
 31847	1	1	0	1	0	1	1	1	//C_Blink_Eyes_Cocktai_BU
 102349	1	1	1	1	1	1	1	1	//Donation_Prize_Box_MSP
 25656	1	1	1	1	0	1	1	1	//Evt_June01_KR
@@ -4900,4 +4838,253 @@
 102453	1	0	0	0	1	1	1	1	//2023ROS_Egg_MSP
 480329	1	1	0	1	0	1	1	1	//C_2023RTC_S_Robe4
 
+//8월 3일
+102469	1	1	0	1	1	1	1	1	//Biolab_Card_Album_MSP
+102470	1	1	0	1	1	1	1	1	//MiniBoss_Card_Album_MSP
+102471	1	1	0	1	1	1	1	1	//Boss_Card_Album_MSP
+102472	1	1	0	1	1	1	1	1	//SG58_Promo_Pack3_MSP
+102473	1	1	0	1	1	1	1	1	//SG58_Promo_Pack1_MSP
+102474	1	1	0	1	1	1	1	1	//SG58_Promo_Pack2_MSP
+102481	1	1	0	1	0	1	1	1	//Sealed_Card_2_MSP
+102483	1	0	0	0	1	1	1	1	//SG58_Celebration_Egg_MS
+20263	1	1	0	1	0	1	1	1	//C_Hat_Of_Drowsy_Cat
 
+//8월 17일
+1001466	1	1	0	1	1	1	1	1	//Midgard_Coin_MSP
+102504	1	0	0	0	1	1	1	1	//Midgard_Egg_MSP
+
+//8월 31일
+25464	1	1	0	1	1	1	1	1	//World_Tour_Ticket
+102536	1	0	0	0	1	1	1	1	//Merdeka_Egg_MSP
+102529	1	1	0	1	1	1	1	1	//Clawford_Pack_MSP
+102530	1	1	0	1	1	1	1	1	//Holgren_Pack_MSP
+102531	1	1	0	1	1	1	1	1	//BS_Blessing_Pack_MSP
+102532	1	1	0	1	1	1	1	1	//Enchant_Stone_Pack_MSP
+1001469	1	1	0	1	0	1	1	1	//Clawford_Coin_MSP
+102493	1	1	1	1	0	1	1	1	//Clawford350_Box_MSP
+1001475	1	1	0	1	0	1	1	1	//ROS_SpecialDye_MSP
+1001476	1	1	0	1	0	1	1	1	//ROS_PhoenixGem_MSP
+102533	1	1	0	1	1	1	1	1	//ValkyrieExp_Box_MSP
+102534	1	1	0	1	1	1	1	1	//ValkyrieBuff_Box_MSP
+102519	1	1	0	1	1	1	1	1	//23_Aug_1000KP_Box_MSP
+102520	1	1	0	1	1	1	1	1	//Pre_Gacha_Box_MSP
+102522	1	1	0	1	1	1	1	1	//23_Aug_10000KP_Box_MSP
+102524	1	1	0	1	1	1	1	1	//23_Aug_20000KP_Box_MSP
+102526	1	1	0	1	1	1	1	1	//23_Aug_30000KP_Box_MSP
+23921	1	1	1	1	0	1	1	1	//Season_Evt_Reward
+20624	1	1	0	1	0	1	1	1	//C_2023RTC_S_Robe3
+20279	1	1	0	1	0	1	1	1	//C_Cheering_Whistle_J
+1000619	1	1	0	1	0	1	1	1	//C_World_Tour_Ticket
+102527	1	1	0	1	0	1	1	1	//C_WorldTicket_Box_MSP
+410269	1	1	0	1	0	1	1	1	//Comp_Crow_Tengu_Mask
+420247	1	1	0	1	0	1	1	1	//Comp_Tengu_Scroll
+450305	1	1	0	1	0	1	1	1	//Comp_Kardui_Robe
+480248	1	1	0	1	0	1	1	1	//Comp_Bag_Antonio_Melee
+480255	1	1	0	1	0	1	1	1	//Comp_Bag_Antonio_Range
+480263	1	1	0	1	0	1	1	1	//Comp_Bag_Antonio_Magic
+
+//9월 21일
+102579	1	0	0	0	1	1	1	1	//Royal_Egg_MSP
+102582	1	1	0	1	1	1	1	1	//Sep_Pre_Gacha_Box_MSP
+102583	1	1	0	1	1	1	1	1	//23_Sep_10000KP_Box_MSP
+102584	1	1	0	1	1	1	1	1	//23_Sep_20000KP_Box_MSP
+102585	1	1	0	1	1	1	1	1	//23_Sep_30000KP_Box_MSP
+400514	1	1	0	1	0	1	1	1	//Comp_Engineer_Cap_K
+400515	1	1	0	1	0	1	1	1	//Comp_Classical_Fhat
+480366	1	1	0	1	0	1	1	1	//Comp_Scarlet_Poncho
+490422	1	1	0	1	0	1	1	1	//Comp_RingOfDevil
+490423	1	1	0	1	0	1	1	1	//Comp_EgirRing
+490424	1	1	0	1	0	1	1	1	//Comp_Critical_Anklet
+420250	1	1	0	1	0	1	1	1	//Comp_Panda_Balloon
+//3분기
+22808	1	1	0	1	1	1	1	1	//NoviceBox
+17569	1	1	0	1	1	1	1	1	//Dun_Voucher_Box1
+17570	1	1	0	1	1	1	1	1	//Dun_Voucher_Box2
+6919	1	1	1	1	0	1	1	1	//TokenOfHonor
+6923	1	1	1	1	0	1	1	1	//Bright_Lights
+6925	1	1	1	1	0	1	1	1	//Prisoner_Letter
+6926	1	1	1	1	0	1	1	1	//Midgards_Histories
+6927	1	1	1	1	0	1	1	1	//Filled_With_SeaStones
+6928	1	1	1	1	0	1	1	1	//Poring_Loofah
+6929	1	1	1	1	0	1	1	1	//Letters_Stamped_Seal
+6930	1	1	1	1	0	1	1	1	//Biz_Items_Sample
+6931	1	1	1	1	0	1	1	1	//Secret_Documents
+6932	1	1	1	1	0	1	1	1	//Rare_Old_Books
+6933	1	1	1	1	0	1	1	1	//Banquet_Invitation
+6934	1	1	1	1	0	1	1	1	//Wonderful_Cuisine
+6935	1	1	1	1	0	1	1	1	//Luxurious_Dish
+6920	1	1	0	1	0	1	1	1	//RuneMagicPowder
+6960	1	1	0	1	0	1	1	1	//Air_Stronghold_Key
+22901	1	1	1	1	0	1	1	1	//BlueboxOfQuestions
+14505	1	1	1	1	1	1	1	1	//Dun_1HR_Voucher
+14506	1	1	1	1	1	1	1	1	//Dun_Voucher
+25087	1	1	1	1	0	1	1	1	//Old_Doll
+25088	1	1	0	1	0	1	1	1	//Dream_Piece
+23063	1	1	1	1	1	1	1	1	//Freeze_Dream
+23036	1	1	1	1	1	1	1	1	//Pope_Merc_Scroll2
+23037	1	1	1	1	1	1	1	1	//CasualPope_Merc_Scroll2
+23025	1	1	1	1	1	1	1	1	//Pope_Merc_Scroll
+23026	1	1	1	1	1	1	1	1	//CasualPope_Merc_Scroll
+23027	1	1	0	1	0	1	1	1	//Dandelion_Ring
+16483	1	1	0	1	1	1	1	1	//E_Abrasive_Box10
+16504	1	1	0	1	1	1	1	1	//E_Bubble_Gum_Box
+
+//10월 5일
+19523	1	1	0	1	0	1	1	1	//Donation_Ribbon
+
+//10월 12일
+400521	1	1	0	1	0	1	1	1	//Comp_Golden_Angel_Band
+450306	1	1	0	1	0	1	1	1	//Comp_EvilDragon_Armor
+460054	1	1	0	1	0	1	1	1	//Comp_Shield_Of_Death
+480373	1	1	0	1	0	1	1	1	//Comp_Golden_Angel_Wing
+430008	1	1	0	1	0	1	1	1	//Comp_Lord_of_Death
+102608	1	1	0	1	0	1	1	1	//ROS_Cloak_Material_Box
+420259	1	1	0	1	0	1	1	1	//Comp_Card_Mouth_MSP
+400520	1	1	0	1	0	1	1	1	//C_Comp_Gold_Magestic
+102616	1	0	0	0	1	1	1	1	//Blood_Halloween_Egg_MSP
+102617	1	1	0	1	1	1	1	1	//EventBonus_Pack_MSP
+102618	1	0	0	0	1	1	1	1	//Special_HD_Ori_Box_MSP
+102619	1	0	0	0	1	1	1	1	//Special_HD_Elu_Box_MSP
+102620	1	0	0	0	1	1	1	1	//Special_HD_Car_Box_MSP
+102621	1	0	0	0	1	1	1	1	//Special_HD_Bra_Box_MSP
+20623	1	1	0	1	0	1	1	1	//C_2023RTC_S_Robe2
+
+//10월 26일
+102657	1	0	0	0	1	1	1	1	//BeelzebubEgg_MSP
+410267	1	1	0	1	1	1	1	1	//C_Cinnamon
+410268	1	1	0	1	1	1	1	1	//C_Cinnamon2
+480243	1	1	0	1	1	1	1	1	//C_JP_EV16
+480244	1	1	0	1	1	1	1	1	//C_JP_EV17
+480245	1	1	0	1	1	1	1	1	//JP_EV17
+200336	1	1	0	1	1	1	1	1	//Cinnamon_Pack4
+102640	1	1	0	1	1	1	1	1	//Effect_Stone_Box_MSP
+102647	1	1	0	1	1	1	1	1	//Garment_Stone_MSP
+102648	1	1	0	1	1	1	1	1	//Middle_Stone_Box_MSP
+102649	1	1	0	1	1	1	1	1	//Bottom_Stone_Box_MSP
+102650	1	1	0	1	1	1	1	1	//Cinnamon_Pack1_MSP
+102651	1	1	0	1	1	1	1	1	//Cinnamon_Pack2_MSP
+102652	1	1	0	1	1	1	1	1	//Cinnamon_Pack3_MSP
+102653	1	1	0	1	1	1	1	1	//Cinnamon_Pack4_MSP
+102654	1	1	0	1	1	1	1	1	//Top_Stone_Box_MSP
+102658	1	1	0	1	1	1	1	1	//KP_Oct_Pre_Box_MSP
+102659	1	1	0	1	1	1	1	1	//23_Oct_10000KP_Box_MSP
+102660	1	1	0	1	1	1	1	1	//23_Oct_20000KP_Box_MSP
+102661	1	1	0	1	1	1	1	1	//23_Oct_30000KP_Box_MSP
+400560	1	1	0	1	0	1	1	1	//Comp_Fallen_Angel_MSP
+450316	1	1	0	1	0	1	1	1	//Comp_Fallen_Amor_MSP
+480383	1	1	0	1	0	1	1	1	//Comp_Fallen_Wing_MSP
+100874	1	1	0	1	0	1	1	1	//C_Giant_Fly_1Day_Box__
+20626	1	1	0	1	1	1	1	1	//C_ROS2023_Cape_2
+
+//11월 9일
+15944	1	1	0	1	0	1	1	1	//Comp_WhistleK
+19075	1	1	0	1	0	1	1	1	//R_Blue_Poring_Bubble
+400573	1	1	0	1	0	1	1	1	//Comp_Skull_Cap
+400569	1	1	0	1	0	1	1	1	//Comp_DVAngelNurseCap
+400570	1	1	0	1	0	1	1	1	//Comp_Amistr_Beret
+102694	1	0	0	0	1	1	1	1	//TimeHolder_Egg_MSP
+102696	1	0	0	0	1	1	1	1	//Lucky_Egg_MSP
+102698	1	1	0	1	0	1	1	1	//ClawfordCoin_Box_3_MSP
+102700	1	1	0	1	0	1	1	1	//ClawfordCoin_Box_9_MSP
+
+//11월 23일
+24892	1	1	0	1	0	1	1	1	//S_Gunslinger_Shield_MSP
+24893	1	1	0	1	0	1	1	1	//S_Gunslinger_Weapon_MSP
+450339	1	1	0	1	0	1	1	1	//Dawson_Suit_MSP
+470244	1	1	0	1	0	1	1	1	//Dawson_Boots_MSP
+480392	1	1	0	1	0	1	1	1	//Dawson_Cloak_MSP
+490463	1	1	0	1	0	1	1	1	//Dawson_Badge_MSP
+1001571	1	1	1	1	0	1	1	1	//Gold_Round_MSP
+102685	1	1	1	1	1	1	1	1	//Dawson_Device1_MSP
+102686	1	1	1	1	1	1	1	1	//Dawson_Device2_MSP
+24889	1	1	0	1	0	1	1	1	//S_Super_Magic_Armor_MSP
+24890	1	1	0	1	0	1	1	1	//S_Super_M_Shield_MSP
+24891	1	1	0	1	0	1	1	1	//S_Super_M_Shoes_MSP
+490462	1	1	0	1	0	1	1	1	//Comp_S_Novice_Figure
+1001570	1	1	0	1	0	1	1	1	//Smiley_Doll_MSP
+500080	1	1	0	1	0	1	1	1	//Comp_Blessed_Knife
+550136	1	1	0	1	0	1	1	1	//Comp_Freedom_Stick_MSP
+1001563	1	1	0	1	0	1	1	1	//Phoenix_Ash_MSP
+1001564	1	1	1	1	1	1	1	1	//Sa_Phoenix_Ash_MSP
+1001565	1	1	1	1	1	1	1	1	//Sm_Phoenix_Ash_MSP
+1001566	1	1	1	1	1	1	1	1	//Incendria_Wand_MSP
+1001567	1	1	1	1	1	1	1	1	//Incendria_Glove_MSP
+1001568	1	1	1	1	1	1	1	1	//Incendria_Ring_MSP
+102667	1	1	1	1	1	1	1	1	//Embrace_Blanket_MSP
+102709	1	0	0	0	1	1	1	1	//Conqueror_Egg_MSP
+400580	1	1	0	1	0	1	1	1	//Comp_Green_Bn_Hairband
+460063	1	1	0	1	0	1	1	1	//Comp_Scutum
+480398	1	1	0	1	0	1	1	1	//Comp_Etran_Shirt
+102710	1	1	0	1	1	1	1	1	//KP_Nov_Pre_Box_MSP
+102711	1	1	0	1	1	1	1	1	//23_Nov_10000KP_Box_MSP
+102712	1	1	0	1	1	1	1	1	//23_Nov_20000KP_Box_MSP
+102713	1	1	0	1	1	1	1	1	//23_Nov_30000KP_Box_MSP
+20622	1	1	0	1	0	1	1	1	//C_2023RTC_S_Robe1 
+
+//11월 30일
+31132	1	1	0	1	0	1	1	1	//C_Christmas_Wreath
+12528	1	1	0	1	0	1	1	1	//E_Convex_Mirror
+
+//12월 7일
+102737	1	0	0	0	1	1	1	1	//Overwhelm_Egg_MSP
+15972	1	1	0	1	0	1	1	1	//Comp_Happy_Balloon_K
+102718	1	1	0	1	1	1	1	1	//Master_C_Box_MSP
+102719	1	1	0	1	1	1	1	1	//Plutozenia_Box_MSP
+400583	1	1	0	1	0	1	1	1	//Comp_Magical_Feather_K
+480400	1	1	0	1	0	1	1	1	//Comp_Elemental_Towel
+490473	1	1	0	1	0	1	1	1	//Comp_Emerald_Ring
+1001574	1	1	0	1	1	1	1	1	//Skyler_Coin_MSP
+102715	1	1	1	1	1	1	1	1	//Skyler_Box_MSP
+102739	1	0	0	0	1	1	1	1	//Scarab_Egg_MSP
+102339	1	1	1	1	1	1	1	1	//Common_Box_MSP
+102748	1	1	0	1	1	1	1	1	//GGH_Christmas_Bag_MSP
+480406	1	1	0	1	0	1	1	1	//C_Comp_Valkyrie_Wing
+
+
+//12월 21일
+102774	1	0	0	0	1	1	1	1	//Christmas_Hday_Egg_MSP
+400591	1	1	0	1	0	1	1	1	//Comp_Survive_Circlet
+410299	1	1	0	1	0	1	1	1	//Comp_Sunglasses_
+420308	1	1	0	1	0	1	1	1	//Comp_Mob_Scarf
+420309	1	1	0	1	0	1	1	1	//Comp_SurviveOrb
+430009	1	1	0	1	0	1	1	1	//Comp_Crown_Of_Deceit
+102775	1	0	0	0	1	1	1	1	//Temporal_Egg_MSP
+102776	1	0	0	0	1	1	1	1	//PoringIsland_Pack1_MSP
+102777	1	0	0	0	1	1	1	1	//PoringIsland_Pack2_MSP
+102787	1	1	0	1	1	1	1	1	//KP_Dec_Pre_Box_MSP
+102788	1	1	0	1	1	1	1	1	//23_Dec_10000KP_Box_MSP
+102789	1	1	0	1	1	1	1	1	//23_Dec_20000KP_Box_MSP
+102790	1	1	0	1	1	1	1	1	//23_Dec_30000KP_Box_MSP
+19826	1	1	0	1	0	1	1	1	//C_Ice_Wing_Ear
+20592	1	1	0	1	0	1	1	1	//C_Santa_Backpack
+31259	1	1	0	1	0	1	1	1	//C_Bubble_A_Angel_H
+31432	1	1	0	1	0	1	1	1	//C_Luwmin_Ice
+
+
+//4분기
+13208	1	1	0	1	1	1	1	1	//Gong_Bug
+6746	1	1	1	1	0	1	1	1	//Steel_Article
+6747	1	1	1	1	0	1	1	1	//Steel_Article_
+13118	1	1	1	1	0	1	1	1	//Tiny_Flame
+13119	1	1	0	1	0	1	1	1	//Freedom_Flame
+15141	1	1	0	1	0	1	1	1	//Armor_Of_Goddess
+19033	1	1	0	1	0	1	1	1	//Accessories_Of_Goddess
+20779	1	1	0	1	0	1	1	1	//ManteauOfCracks
+22075	1	1	0	1	0	1	1	1	//Shoes_Of_Cracks
+15141	1	1	0	1	0	1	1	1	//Armor_Of_Goddess
+19033	1	1	0	1	0	1	1	1	//Accessories_Of_Goddess
+20779	1	1	0	1	0	1	1	1	//ManteauOfCracks
+22075	1	1	0	1	0	1	1	1	//Shoes_Of_Cracks
+5796	1	1	1	1	0	1	1	1	//Cheer_Scarf
+15141	1	1	0	1	0	1	1	1	//Armor_Of_Goddess
+19033	1	1	0	1	0	1	1	1	//Accessories_Of_Goddess
+2024	1	1	0	1	0	1	1	1	//D_Staff_Of_Infinite
+13323	1	1	0	1	0	1	1	1	//Huuma_Of_Infinite
+21014	1	1	0	1	0	1	1	1	//D_Sword_Of_Infinite
+28105	1	1	0	1	0	1	1	1	//Axe_Of_Infinite
+18128	1	1	0	1	0	1	1	1	//Bow_Of_Infinite
+13126	1	1	0	1	0	1	1	1	//Gun_Of_Infinite
+1938	1	1	0	1	0	1	1	1	//Viollin_Of_Infinite
+1994	1	1	0	1	0	1	1	1	//Whip_Of_Infinite
+16038	1	1	0	1	0	1	1	1	//Mace_Of_Infinite
+28703	1	1	0	1	0	1	1	1	//Dagger_Of_Infinite
