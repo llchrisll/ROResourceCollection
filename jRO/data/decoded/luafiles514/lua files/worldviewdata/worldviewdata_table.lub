@@ -815,4 +815,16 @@ worldtable_Doram = {
 worldtable_Doram_Dun = {
 {1, 1107, 543, 1112, 547, WORLD_MSGID.MSI_DUN42, ""}
 }
+worldtable_Isgard = {
+{100, "icecastle.rsw", 998, 789, 1114, 905, WORLD_MSGID.MSI_100_ICECASTLE, ""}
+, 
+{100, "jor_tail.rsw", 881, 906, 997, 1018, WORLD_MSGID.MSI_100_JOR_TAIL, ""}
+, 
+{100, "jor_back1.rsw", 881, 789, 997, 905, WORLD_MSGID.MSI_100_JOR_BACK1, ""}
+, 
+{100, "jor_back2_.rsw", 881, 672, 997, 788, WORLD_MSGID.MSI_100_JOR_BACK2, ""}
+, 
+{100, "jor_back3_.rsw", 764, 672, 880, 788, WORLD_MSGID.MSI_100_JOR_BACK3, ""}
+}
+worldtable_Isgard_Dun = {}
 

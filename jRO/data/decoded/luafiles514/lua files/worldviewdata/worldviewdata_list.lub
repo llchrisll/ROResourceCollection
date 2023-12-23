@@ -17,5 +17,7 @@ World_List = {
 {"ローカルマップ2", "worldtable_localizing2", "worldtable_localizing2_Dun", "worldmap_localizing2.bmp"}
 , 
 {"パースタ大陸", "worldtable_Doram", "worldtable_Doram_Dun", "pasta.jpg"}
+, 
+{"イスガルド大陸", "worldtable_Isgard", "worldtable_Isgard_Dun", "WorldMap_Isgard.jpg"}
 }
 

@@ -10001,4 +10001,267 @@
 	</so_full>
 </baphomet2>
 
+<DARK_PRIEST>
+	<hungry>
+		<feeding>ククッ、闇が満ちている！ロードも喜んでらっしゃるだろう……。</feeding>
+		<dead>これでロードに近づいたな……。</dead>
+		<stand>奉納せよ！ロードが喜ばれるように！</stand>
+		<stand>ロードに永遠の闇の力を捧げよう。</stand>
+		<stand>真なる死に導くには、生贄が必要だ……。</stand>
+		<stand>ロードは生贄が必要だと仰られている……。</stand>
+		<levelup>ロードに感謝の生贄でも捧げたらどうか？</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>ククッ、闇が満ちている！ロードも喜んでらっしゃるだろう……。</feeding>
+		<dead>これでロードに近づいたな……。</dead>
+		<stand>奉納せよ！ロードが喜ばれるように！</stand>
+		<stand>ロードに永遠の闇の力を捧げよう。</stand>
+		<stand>真なる死に導くには、生贄が必要だ……。</stand>
+		<stand>ロードは生贄が必要だと仰られている……。</stand>
+		<levelup>ロードに感謝の生贄でも捧げたらどうか？</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>喜べ！ロードも喜んでらっしゃる！</feeding>
+		<dead>虚偽から真実の世界に入り込んだのだ。ロードにより近づけるだろう！</dead>
+		<stand>ロードに服従せよ！さすればロードもそなたと共にあるだろう。</stand>
+		<stand>ロードが支配する永遠の暗黒が来るだろう……。</stand>
+		<stand>闇の中でのみ真の永生を得られるだろう……。</stand>
+		<stand>歓喜の敬拝をせよ！ダークロードのために！</stand>
+		<levelup>フッ……ロードに感謝せよ……。</levelup>
+	</noting>
+	<full>
+		<feeding>喜べ！ロードも喜んでらっしゃる！</feeding>
+		<dead>虚偽から真実の世界に入り込んだのだ。ロードにより近づけるだろう！</dead>
+		<stand>ロードに服従せよ！さすればロードもそなたと共にあるだろう。</stand>
+		<stand>ロードが支配する永遠の暗黒が来るだろう……。</stand>
+		<stand>闇の中でのみ真の永生を得られるだろう……。</stand>
+		<stand>喜んで敬拝せよ！ロードのために！</stand>
+		<levelup>フッ……ロードに感謝せよ……。</levelup>
+	</full>
+	<so_full>
+		<feeding>今は儀式の時間ではない……待っていろ……。</feeding>
+		<dead>虚偽から真実の世界に入り込んだのだ。ロードにより近づけるだろう！</dead>
+		<stand>ロードに服従せよ！さすればロードもそなたと共にあるだろう。</stand>
+		<stand>ロードが支配する永遠の暗黒が来るだろう……。</stand>
+		<stand>闇の中でのみ真の永生を得られるだろう……。</stand>
+		<stand>喜んで敬拝せよ！ロードのために！</stand>
+		<levelup>フッ……ロードに感謝せよ……。</levelup>
+	</so_full>
+</DARK_PRIEST>
+<dark_illusion2>
+	<hungry>
+		<feeding>おい、俺も飢えることがあるから忘れないように。</feeding>
+		<dead>待っていたぞ！この瞬間を！闇の道へ案内してあげよう……!!</dead>
+		<danger>助けが必要に見えるな。暗黒魔法を掛けてあげようか？</danger>
+		<stand>時にお前から明るい面が見えるのが誠に遺憾だ。</stand>
+		<stand>俺は明るいところが嫌いだ！暗いところを進んだらダメなのか？</stand>
+		<stand>人間の内面には常に闇が溢れている。</stand>
+		<levelup>お前が強くなるほど、お前の中の闇もまた強くなるだろう……クハハ！</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>おい、俺も飢えることがあるから忘れないように。</feeding>
+		<dead>待っていたぞ！この瞬間を！闇の道へ案内してあげよう……!!</dead>
+		<danger>助けが必要に見えるな。暗黒魔法を掛けてあげようか？</danger>
+		<stand>時にお前から明るい面が見えるのが誠に遺憾だ。</stand>
+		<stand>俺は明るいところが嫌いだ！暗いところを進んだらダメなのか？</stand>
+		<stand>人間の内面には常に闇が溢れている。</stand>
+		<levelup>お前が強くなるほど、お前の中の闇もまた強くなるだろう……クハハ！</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>これをどうやって食べるのかって？秘密だ！</feeding>
+		<dead>待っていたぞ！この瞬間を！闇の道へ案内してあげよう……!!</dead>
+		<danger>助けが必要に見えるな。暗黒魔法を掛けてあげようか？</danger>
+		<stand>時にお前から明るい面が見えるのが誠に遺憾だ。</stand>
+		<stand>俺は明るいところが嫌いだ！暗いところを進んだらダメなのか？</stand>
+		<stand>人間の内面には常に闇が溢れている。</stand>
+		<levelup>お前が強くなるほど、お前の中の闇もまた強くなるだろう……クハハ！</levelup>
+	</noting>
+	<full>
+		<feeding>そろそろ腹が一杯だから、もうくれなくても結構だ、人間よ……</feeding>
+		<dead>待っていたぞ！この瞬間を！闇の道へ案内してあげよう……!!</dead>
+		<danger>助けが必要に見えるな。暗黒魔法を掛けてあげようか？</danger>
+		<stand>時にお前から明るい面が見えるのが誠に遺憾だ。</stand>
+		<stand>俺は明るいところが嫌いだ！暗いところを進んだらダメなのか？</stand>
+		<stand>人間の内面には常に闇が溢れている。</stand>
+		<levelup>お前が強くなるほど、お前の中の闇もまた強くなるだろう……クハハ！</levelup>
+	</full>
+	<so_full>
+		<feeding>今喧嘩売ってるのか？見えないだろうけど、腹が一杯で鎧が破れそうだ。</feeding>
+		<dead>待っていたぞ！この瞬間を！闇の道へ案内してあげよう……!!</dead>
+		<danger>助けが必要に見えるな。暗黒魔法を掛けてあげようか？</danger>
+		<stand>時にお前から明るい面が見えるのが誠に遺憾だ。</stand>
+		<stand>俺は明るいところが嫌いだ！暗いところを進んだらダメなのか？</stand>
+		<stand>人間の内面には常に闇が溢れている。</stand>
+		<levelup>お前が強くなるほど、お前の中の闇もまた強くなるだろう……クハハ！</levelup>
+	</so_full>
+</dark_illusion2>
+<dark_lord2>
+	<hungry>
+		<feeding>最高とは言えんが食べられそうだな。</feeding>
+		<danger>闇の中から死の香りが漂っているぞ。</danger>
+		<dead>誉めてやろう。そこまでつまらなくない死であった。</dead>
+		<stand>生意気だな……。</stand>
+		<levelup>ふむ……クク。</levelup>
+		<perfor_1>ハ！ハ！もっと魅せてみろ！</perfor_1>
+		<perfor_2>感謝せよ……このダークロード様の魔力を感じられ……ム？</perfor_2>
+		<perfor_3>見るがいい！このロード様の限定コレクションを！</perfor_3>
+	</hungry>
+	<bit_hungry>
+		<feeding>最高とは言えんが食べられそうだな。</feeding>
+		<danger>闇の中から死の香りが漂っているぞ。</danger>
+		<dead>誉めてやろう。そこまでつまらなくない死であった。</dead>
+		<stand>生意気だな……。</stand>
+		<levelup>ふむ……クク。</levelup>
+		<perfor_1>ハ！ハ！もっと魅せてみろ！</perfor_1>
+		<perfor_2>感謝せよ……このダークロード様の魔力を感じられ……ム？</perfor_2>
+		<perfor_3>見るがいい！このロード様の限定コレクションを！</perfor_3>
+	</bit_hungry>
+	<noting>
+		<feeding>最高とは言えんが食べられそうだな。</feeding>
+		<danger>闇の中から死の香りが漂っているぞ。</danger>
+		<dead>誉めてやろう。そこまでつまらなくない死であった。</dead>
+		<stand>真の闇の中から、我は現れたのだ。</stand>
+		<stand>闇より濃い……暗黒の混沌、そして破滅……。</stand>
+		<levelup>ふむ……クク。</levelup>
+		<perfor_1>ハ！ハ！もっと魅せてみろ！</perfor_1>
+		<perfor_2>感謝せよ……このダークロード様の魔力を感じられ……ム？</perfor_2>
+		<perfor_3>見るがいい！このロード様の限定コレクションを！</perfor_3>
+	</noting>
+	<full>
+		<feeding>そこまで。</feeding>
+		<danger>闇の中から死の香りが漂っているぞ。</danger>
+		<dead>誉めてやろう。そこまでつまらなくない死であった。</dead>
+		<stand>真の闇の中から、我は現れたのだ。</stand>
+		<stand>闇より濃い……暗黒の混沌、そして破滅……。</stand>
+		<levelup>ふむ……クク。</levelup>
+		<perfor_1>ハ！ハ！もっと魅せてみろ！</perfor_1>
+		<perfor_2>感謝せよ……このダークロード様の魔力を感じられ……ム？</perfor_2>
+		<perfor_3>見るがいい！このロード様の限定コレクションを！</perfor_3>
+	</full>
+	<so_full>
+		<feeding>そこまで。</feeding>
+		<danger>闇の中から死の香りが漂っているぞ。</danger>
+		<dead>誉めてやろう。そこまでつまらなくない死であった。</dead>
+		<stand>真の闇の中から、我は現れたのだ。</stand>
+		<stand>闇より濃い……暗黒の混沌、そして破滅……。</stand>
+		<levelup>ふむ……クク。</levelup>
+		<perfor_1>ハ！ハ！もっと魅せてみろ！</perfor_1>
+		<perfor_2>感謝せよ……このダークロード様の魔力を感じられ……ム？</perfor_2>
+		<perfor_3>見るがいい！このロード様の限定コレクションを！</perfor_3>
+	</so_full>
+</dark_lord2>
+<nightmare_terror_mj>
+	<hungry>
+		<feeding>イヒヒ～ヒン！　イヒヒ～ヒン！</feeding>
+		<feeding>人間の夢も食べたいのだがな……</feeding>
+		<feeding>私の主食は人間の夢なのだ！　ブルルル!!</feeding>
+		<hunting>ブルルルル!!　ヒヒヒ～ン!! イヒヒヒヒ～ン!!!</hunting>
+		<hunting>見るが良い、私の鍛え上げられた体を！</hunting>
+		<hunting>私の力強さと硬化さを見せてやろう！</hunting>
+		<danger>危険だ……しかし、乗り越えてみせる！</danger>
+		<danger>人間よ！　見て見ぬふりをするつもりか？</danger>
+		<danger>危ない！　このままでは私が夢の中へ消えてしまうぞ！</danger>
+		<dead>ブル……ブルルルル……ル……</dead>
+		<dead>私をこのままにするなら……お前の夢を喰らってやる！</dead>
+		<dead>私は……消えてしまう……のか？ </dead>
+		<stand>現実世界での楽しみを探すとしようか。</stand>
+		<stand>みっともない姿を私に見せるなよ？　反故にするなら夢の中に現れてやるからな。 </stand>
+		<stand>お前はどのような夢を見るのだ？　美味しい夢か？ </stand>
+		<connect>現実世界での私を見たお前は、どんな夢を見るのだろうな？ </connect>
+		<connect>ようこそ。　現実世界で会えるのを待っていたぞ。</connect>
+		<connect>夢から覚めたようだな。さあ現実の始まりだ。頑張るのだぞ。</connect>
+		<levelup>夢の中では、私はもっとパワフルで硬いぞ！</levelup>
+		<levelup>ブルル、ルッルル～～!!　お前の強さが見えるぞ！</levelup>
+		<levelup>イヒヒ～～ン！　私も強くなった気がするぞ!!</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>イヒヒ～ヒン！　イヒヒ～ヒン！</feeding>
+		<feeding>人間の夢も食べたいのだがな……</feeding>
+		<feeding>私の主食は人間の夢なのだ！　ブルルル!!</feeding>
+		<hunting>ブルルルル!!　ヒヒヒ～ン!! イヒヒヒヒ～ン!!!</hunting>
+		<hunting>見るが良い、私の鍛え上げられた体を！</hunting>
+		<hunting>私の力強さと硬化さを見せてやろう！</hunting>
+		<danger>危険だ……しかし、乗り越えてみせる！</danger>
+		<danger>人間よ！　見て見ぬふりをするつもりか？</danger>
+		<danger>危ない！　このままでは私が夢の中へ消えてしまうぞ！</danger>
+		<dead>ブル……ブルルルル……ル……</dead>
+		<dead>私をこのままにするなら……お前の夢を喰らってやる！</dead>
+		<dead>私は……消えてしまう……のか？ </dead>
+		<stand>現実世界での楽しみを探すとしようか。</stand>
+		<stand>みっともない姿を私に見せるなよ？　反故にするなら夢の中に現れてやるからな。 </stand>
+		<stand>お前はどのような夢を見るのだ？　美味しい夢か？ </stand>
+		<connect>現実世界での私を見たお前は、どんな夢を見るのだろうな？ </connect>
+		<connect>ようこそ。　現実世界で会えるのを待っていたぞ。</connect>
+		<connect>夢から覚めたようだな。さあ現実の始まりだ。頑張るのだぞ。</connect>
+		<levelup>夢の中では、私はもっとパワフルで硬いぞ！</levelup>
+		<levelup>ブルル、ルッルル～～!!　お前の強さが見えるぞ！</levelup>
+		<levelup>イヒヒ～～ン！　私も強くなった気がするぞ!!</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>イヒヒ～ヒン！　イヒヒ～ヒン！</feeding>
+		<feeding>人間の夢も食べたいのだがな……</feeding>
+		<feeding>私の主食は人間の夢なのだ！　ブルルル!!</feeding>
+		<hunting>ブルルルル!!　ヒヒヒ～ン!! イヒヒヒヒ～ン!!!</hunting>
+		<hunting>見るが良い、私の鍛え上げられた体を！</hunting>
+		<hunting>私の力強さと硬化さを見せてやろう！</hunting>
+		<danger>危険だ……しかし、乗り越えてみせる！</danger>
+		<danger>人間よ！　見て見ぬふりをするつもりか？</danger>
+		<danger>危ない！　このままでは私が夢の中へ消えてしまうぞ！</danger>
+		<dead>ブル……ブルルルル……ル……</dead>
+		<dead>私をこのままにするなら……お前の夢を喰らってやる！</dead>
+		<dead>私は……消えてしまう……のか？ </dead>
+		<stand>現実世界での楽しみを探すとしようか。</stand>
+		<stand>みっともない姿を私に見せるなよ？　反故にするなら夢の中に現れてやるからな。 </stand>
+		<stand>お前はどのような夢を見るのだ？　美味しい夢か？ </stand>
+		<connect>現実世界での私を見たお前は、どんな夢を見るのだろうな？ </connect>
+		<connect>ようこそ。　現実世界で会えるのを待っていたぞ。</connect>
+		<connect>夢から覚めたようだな。さあ現実の始まりだ。頑張るのだぞ。</connect>
+		<levelup>夢の中では、私はもっとパワフルで硬いぞ！</levelup>
+		<levelup>ブルル、ルッルル～～!!　お前の強さが見えるぞ！</levelup>
+		<levelup>イヒヒ～～ン！　私も強くなった気がするぞ!!</levelup>
+	</noting>
+	<full>
+		<feeding>は、腹が破裂しそうだ……ブルルルル!!!</feeding>
+		<hunting>ブルルルル!!　ヒヒヒ～ン!! イヒヒヒヒ～ン!!!</hunting>
+		<hunting>見るが良い、私の鍛え上げられた体を！</hunting>
+		<hunting>私の力強さと硬化さを見せてやろう！</hunting>
+		<danger>危険だ……しかし、乗り越えてみせる！</danger>
+		<danger>人間よ！　見て見ぬふりをするつもりか？</danger>
+		<danger>危ない！　このままでは私が夢の中へ消えてしまうぞ！</danger>
+		<dead>ブル……ブルルルル……ル……</dead>
+		<dead>私をこのままにするなら……お前の夢を喰らってやる！</dead>
+		<dead>私は……消えてしまう……のか？ </dead>
+		<stand>現実世界での楽しみを探すとしようか。</stand>
+		<stand>みっともない姿を私に見せるなよ？　反故にするなら夢の中に現れてやるからな。 </stand>
+		<stand>お前はどのような夢を見るのだ？　美味しい夢か？ </stand>
+		<connect>現実世界での私を見たお前は、どんな夢を見るのだろうな？ </connect>
+		<connect>ようこそ。　現実世界で会えるのを待っていたぞ。</connect>
+		<connect>夢から覚めたようだな。さあ現実の始まりだ。頑張るのだぞ。</connect>
+		<levelup>夢の中では、私はもっとパワフルで硬いぞ！</levelup>
+		<levelup>ブルル、ルッルル～～!!　お前の強さが見えるぞ！</levelup>
+		<levelup>イヒヒ～～ン！　私も強くなった気がするぞ!!</levelup>
+	</full>
+	<so_full>
+		<feeding>は、腹が破裂しそうだ……ブルルルル!!!</feeding>
+		<hunting>ブルルルル!!　ヒヒヒ～ン!! イヒヒヒヒ～ン!!!</hunting>
+		<hunting>見るが良い、私の鍛え上げられた体を！</hunting>
+		<hunting>私の力強さと硬化さを見せてやろう！</hunting>
+		<danger>危険だ……しかし、乗り越えてみせる！</danger>
+		<danger>人間よ！　見て見ぬふりをするつもりか？</danger>
+		<danger>危ない！　このままでは私が夢の中へ消えてしまうぞ！</danger>
+		<dead>ブル……ブルルルル……ル……</dead>
+		<dead>私をこのままにするなら……お前の夢を喰らってやる！</dead>
+		<dead>私は……消えてしまう……のか？ </dead>
+		<stand>現実世界での楽しみを探すとしようか。</stand>
+		<stand>みっともない姿を私に見せるなよ？　反故にするなら夢の中に現れてやるからな。 </stand>
+		<stand>お前はどのような夢を見るのだ？　美味しい夢か？ </stand>
+		<connect>現実世界での私を見たお前は、どんな夢を見るのだろうな？ </connect>
+		<connect>ようこそ。　現実世界で会えるのを待っていたぞ。</connect>
+		<connect>夢から覚めたようだな。さあ現実の始まりだ。頑張るのだぞ。</connect>
+		<levelup>夢の中では、私はもっとパワフルで硬いぞ！</levelup>
+		<levelup>ブルル、ルッルル～～!!　お前の強さが見えるぞ！</levelup>
+		<levelup>イヒヒ～～ン！　私も強くなった気がするぞ!!</levelup>
+	</so_full>
+</nightmare_terror_mj>
+
 </monster_talk_table>

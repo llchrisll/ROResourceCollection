@@ -681,6 +681,14 @@ rag_fes_ = {
 , 
 {name = "カメラにゃん助手", X = 200, Y = 320, TYPE = 4}
 }
+, 
+icecastle = {
+{name = "ヴェルグンデの研究室", X = 186, Y = 222, TYPE = 0}
+, 
+{name = "案内員", X = 59, Y = 123, TYPE = 4}
+, 
+{name = "羽根の民宿", X = 64, Y = 232, TYPE = 5}
+}
 }
 main = function()
   -- function num : 0_0

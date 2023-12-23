@@ -2437,6 +2437,126 @@ resource = {
 , 
 reward = {title = 2240}
 , score = 1}
+, 
+[500244] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を13種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(119,56)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「13」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2241}
+, score = 1}
+, 
+[500245] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「メロンクッキング(衣装)」", 
+content = {summary = "メロンクッキングで衣装を15種類作成する", details = "メロンクッキングで作成した衣装を メロンフェスタ会場の座標(119,56)にいる NPC「メロン鑑定士」に見せる。 作成した衣装の種類が「15」種類到達で達成。 ※装備したままでは見せられないので注意 ※チャーム＜揚花火＞は対象には含まれない"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2242}
+, score = 1}
+, 
+[500246] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "蜃気楼の塔YE「Normal」", 
+content = {summary = "蜃気楼の塔YEの指定難易度を完全クリア", details = "蜃気楼の塔YEの「Normal」を登頂した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2243}
+, score = 1}
+, 
+[500247] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "蜃気楼の塔YE「Inferno」", 
+content = {summary = "蜃気楼の塔YEの指定難易度を完全クリア", details = "蜃気楼の塔YEの「Inferno」を登頂した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2244}
+, score = 1}
+, 
+[500248] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "蜃気楼の塔YE「Extra」", 
+content = {summary = "蜃気楼の塔YEの指定難易度を完全クリア", details = "蜃気楼の塔YEの「Extra」を登頂した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2245}
+, score = 1}
+, 
+[500249] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "蜃気楼の塔YE「Ultimate」", 
+content = {summary = "蜃気楼の塔YEの指定難易度を完全クリア", details = "蜃気楼の塔YEの「Ultimate」を登頂した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2246}
+, score = 1}
+, 
+[500250] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 3, title = "蜃気楼の塔YE「All Clear」", 
+content = {summary = "蜃気楼の塔YEの指定難易度を完全クリア", details = "蜃気楼の塔YEの「全難易度」を登頂した後、Yggdrasill用倉庫の座標(183,92)または、悠久の王国の首都プロンテラの座標(125,83)にいる NPC「時空の旅人」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2247}
+, score = 1}
+, 
+[500251] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「スパイダリン捕獲作戦I」", 
+content = {summary = "スパイダリンの討伐を1回達成する", details = "「スパイダリン捕獲作戦」にて スパイダリン討伐を「1」回達成後、 「ハロウィンパーティー会場(hal_main)」の 座標(202,191)にいるNPC「アラクニャ」に話かけ 「称号の確認」を行う。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2248}
+, score = 1}
+, 
+[500252] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「スパイダリン捕獲作戦II」", 
+content = {summary = "スパイダリンの討伐を11回達成する", details = "「スパイダリン捕獲作戦」にて スパイダリン討伐を「11」回達成後、 「ハロウィンパーティー会場(hal_main)」の 座標(202,191)にいるNPC「アラクニャ」に話かけ 「称号の確認」を行う。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2249}
+, score = 1}
+, 
+[500253] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「スパイダリン捕獲作戦III」", 
+content = {summary = "スパイダリンの討伐を12回達成する", details = "「スパイダリン捕獲作戦」にて スパイダリン討伐を「12」回達成後、 「ハロウィンパーティー会場(hal_main)」の 座標(202,191)にいるNPC「アラクニャ」に話かけ 「称号の確認」を行う。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2250}
+, score = 1}
+, 
+[500254] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「人生はギャンブル！」", 
+content = {summary = "？？？？？？？？？？", details = "？？？？？"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2251}
+, score = 1}
+, 
+[500255] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「毎日の食事」", 
+content = {summary = "？？？？？？？？？？", details = "？？？？？"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2252}
+, score = 1}
 }
 main = function()
   -- function num : 0_0

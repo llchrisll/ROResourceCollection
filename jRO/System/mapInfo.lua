@@ -975,6 +975,294 @@ signName = {subTitle = "幻想叢書", mainTitle = "虹の終わりの湖"}
 ["1@vrcas.rsw"] = {displayName = "幻想叢書‐リリウム宮", notifyEnter = true, 
 signName = {subTitle = "幻想叢書", mainTitle = "リリウム宮"}
 , backgroundBmp = "village"}
+, 
+["1@vrev.rsw"] = {displayName = "幻想叢書‐アミシティア秘密研究室", notifyEnter = true, 
+signName = {subTitle = "幻想叢書", mainTitle = "アミシティア秘密研究室"}
+, backgroundBmp = "dungeon"}
+, 
+["1@vrgen.rsw"] = {displayName = "幻想叢書‐ジェネティック研究所", notifyEnter = true, 
+signName = {subTitle = "幻想叢書", mainTitle = "ジェネティック研究所"}
+, backgroundBmp = "noname"}
+, 
+["air_if.rsw"] = {displayName = "飛行船イフ号 内部", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "飛行船イフ号 内部"}
+, backgroundBmp = "village_s2"}
+, 
+["icecastle.rsw"] = {displayName = "イスガルド 氷の城", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "イスガルド 氷の城"}
+, backgroundBmp = "village_s2"}
+, 
+["icas_in.rsw"] = {displayName = "イスガルド 室内", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "イスガルド 室内"}
+, backgroundBmp = "village_s2"}
+, 
+["jor_nest.rsw"] = {displayName = "蛇の巣", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "蛇の巣"}
+, backgroundBmp = "village_s2"}
+, 
+["jor_tail.rsw"] = {displayName = "凍て付いた尻尾", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "凍て付いた尻尾"}
+, backgroundBmp = "field_s2"}
+, 
+["jor_back1.rsw"] = {displayName = "凍て付いた鱗の丘", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "凍て付いた鱗の丘"}
+, backgroundBmp = "field_s2"}
+, 
+["jor_back2.rsw"] = {displayName = "凍て付いた鱗の平原(クエスト)", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "凍て付いた鱗の平原(クエスト)"}
+, backgroundBmp = "field_s2"}
+, 
+["jor_back3.rsw"] = {displayName = "凍て付いた鱗の氷河(クエスト)", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "凍て付いた鱗の氷河(クエスト)"}
+, backgroundBmp = "field_s2"}
+, 
+["jor_ab01.rsw"] = {displayName = "捨てられた穴 01(クエスト)", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "捨てられた穴 01(クエスト)"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_ab02.rsw"] = {displayName = "捨てられた穴 02(クエスト)", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "捨てられた穴 02(クエスト)"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun01.rsw"] = {displayName = "蛇神の温もり 01(クエスト)", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "蛇神の温もり 01(クエスト)"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun02.rsw"] = {displayName = "蛇神の温もり 02(クエスト)", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "蛇神の温もり 02(クエスト)"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun03.rsw"] = {displayName = "蛇の巣(バゴットの研究室)", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "蛇の巣(バゴットの研究室)"}
+, backgroundBmp = "village_s2"}
+, 
+["jor_que.rsw"] = {displayName = "捨てられた蛇神の温もり", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "捨てられた蛇神の温もり"}
+, backgroundBmp = "village_s2"}
+, 
+["1@iwp.rsw"] = {displayName = "はじめてのパトロール", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "はじめてのパトロール"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@jorchs.rsw"] = {displayName = "混乱の蛇の巣", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "混乱の蛇の巣"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@jorlab.rsw"] = {displayName = "バゴットの研究室 入口", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "バゴットの研究室 入口"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["2@jorlab.rsw"] = {displayName = "バゴットの研究室", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "バゴットの研究室"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@whl.rsw"] = {displayName = "飛行船破壊作戦(飛行船ワイル1号)", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "飛行船破壊作戦(飛行船ワイル1号)"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@jca_1.rsw"] = {displayName = "シミュレーション戦闘 入場エリア", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "シミュレーション戦闘 入場エリア"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@jca_2.rsw"] = {displayName = "シミュレーション戦闘 戦闘エリア", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "シミュレーション戦闘 戦闘エリア"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_back2_.rsw"] = {displayName = "凍て付いた鱗の平原", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "凍て付いた鱗の平原"}
+, backgroundBmp = "field_s2"}
+, 
+["jor_back3_.rsw"] = {displayName = "凍て付いた鱗の氷河", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "凍て付いた鱗の氷河"}
+, backgroundBmp = "field_s2"}
+, 
+["jor_ab01_.rsw"] = {displayName = "捨てられた穴 01", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "捨てられた穴 01"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_ab02_.rsw"] = {displayName = "捨てられた穴 02", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "捨てられた穴 02"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun01_.rsw"] = {displayName = "蛇神の温もり 01", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "蛇神の温もり 01"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun02_.rsw"] = {displayName = "蛇神の温もり 02", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "蛇神の温もり 02"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["p_cas_gr_1.rsw"] = {displayName = "プロンテラ中央宮", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "プロンテラ中央宮"}
+, backgroundBmp = "village_s2"}
+, 
+["p_cas_gr_2.rsw"] = {displayName = "プロンテラ中央宮", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "プロンテラ中央宮"}
+, backgroundBmp = "village_s2"}
+, 
+["vr_bob.rsw"] = {displayName = "幻想叢書‐今日のご飯", notifyEnter = true, 
+signName = {subTitle = "幻想叢書", mainTitle = "今日のご飯"}
+, backgroundBmp = "noname"}
+, 
+["1@vrpo.rsw"] = {displayName = "\"幻想叢書‐ポリンテラ\"", notifyEnter = true, 
+signName = {subTitle = "幻想叢書", mainTitle = "ポリンテラ"}
+, backgroundBmp = "noname"}
+, 
+["melon_f1.rsw"] = {displayName = "メロンフェスタ会場", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "メロンフェスタ会場"}
+, backgroundBmp = "village_s2"}
+, 
+["melon_f2.rsw"] = {displayName = "メロンフェスタ会場(メロン畑)", notifyEnter = true, 
+signName = {subTitle = "メロンフェスタ会場", mainTitle = "メロン畑"}
+, backgroundBmp = "village"}
+, 
+["melon_que1.rsw"] = {displayName = "甘露山 餡蜜寺", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "甘露山 餡蜜寺"}
+, backgroundBmp = "village_s2"}
+, 
+["melon_que2.rsw"] = {displayName = "餡蜜寺 大修練場", notifyEnter = true, 
+signName = {subTitle = "餡蜜寺", mainTitle = "大修練場"}
+, backgroundBmp = "village"}
+, 
+["melon_que3.rsw"] = {displayName = "餡蜜寺 室内", notifyEnter = true, 
+signName = {subTitle = "餡蜜寺", mainTitle = "室内"}
+, backgroundBmp = "village"}
+, 
+["melon_que4.rsw"] = {displayName = "餡蜜寺 竹林", notifyEnter = true, 
+signName = {subTitle = "餡蜜寺", mainTitle = "竹林"}
+, backgroundBmp = "village"}
+, 
+["melon_que5.rsw"] = {displayName = "秘密のメロン工場", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "秘密のメロン工場"}
+, backgroundBmp = "noname_s2"}
+, 
+["melon_que6.rsw"] = {displayName = "秘密のメロン工場　裏口", notifyEnter = true, 
+signName = {subTitle = "秘密のメロン工場", mainTitle = "裏口"}
+, backgroundBmp = "noname"}
+, 
+["melon_que7.rsw"] = {displayName = "秘密のメロン工場　跡地", notifyEnter = true, 
+signName = {subTitle = "秘密のメロン工場", mainTitle = "跡地"}
+, backgroundBmp = "noname"}
+, 
+["melon_que8.rsw"] = {displayName = "秘密のメロン工場 地下", notifyEnter = true, 
+signName = {subTitle = "秘密のメロン工場", mainTitle = "地下"}
+, backgroundBmp = "noname"}
+, 
+["melon_que9.rsw"] = {displayName = "秘密のメロン工場 地下工場", notifyEnter = true, 
+signName = {subTitle = "秘密のメロン工場", mainTitle = "地下工場"}
+, backgroundBmp = "noname"}
+, 
+["melon_que10.rsw"] = {displayName = "秘密のメロン工場 終着点", notifyEnter = true, 
+signName = {subTitle = "秘密のメロン工場", mainTitle = "終着点"}
+, backgroundBmp = "noname"}
+, 
+["1@mel.rsw"] = {displayName = "秘密のメロン工場 冷蔵庫", notifyEnter = true, 
+signName = {subTitle = "秘密のメロン工場", mainTitle = "冷蔵庫"}
+, backgroundBmp = "noname"}
+, 
+["melon_que11.rsw"] = {displayName = "ゲフェン地下遺跡", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "ゲフェン地下遺跡"}
+, backgroundBmp = "noname_s2"}
+, 
+["melon_que12.rsw"] = {displayName = "ゲフェン地下遺跡　水鏡の間", notifyEnter = true, 
+signName = {subTitle = "ゲフェン地下遺跡", mainTitle = "水鏡の間"}
+, backgroundBmp = "noname"}
+, 
+["melon_que13.rsw"] = {displayName = "隠されたピラミッド", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "隠されたピラミッド"}
+, backgroundBmp = "noname_s2"}
+, 
+["melon_que14.rsw"] = {displayName = "遺棄された修練場", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "遺棄された修練場"}
+, backgroundBmp = "field2_s2"}
+, 
+["melon_que15.rsw"] = {displayName = "地下闘技場", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "地下闘技場"}
+, backgroundBmp = "field2_s2"}
+, 
+["melon_que16.rsw"] = {displayName = "王城ティアマト", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "王城ティアマト"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["melon_que17.rsw"] = {displayName = "王城ティアマト(地下祭壇)", notifyEnter = true, 
+signName = {subTitle = "王城ティアマト", mainTitle = "地下祭壇"}
+, backgroundBmp = "dungeon"}
+, 
+["melon_que18.rsw"] = {displayName = "王城ティアマト(深淵の玉座)", notifyEnter = true, 
+signName = {subTitle = "王城ティアマト", mainTitle = "深淵の玉座"}
+, backgroundBmp = "dungeon"}
+, 
+["2@mel.rsw"] = {displayName = "王城ティアマト(城門)", notifyEnter = true, 
+signName = {subTitle = "王城ティアマト", mainTitle = "城門"}
+, backgroundBmp = "dungeon"}
+, 
+["hal_main.rsw"] = {displayName = "ハロウィンパーティー会場", notifyEnter = true, 
+signName = {subTitle = "ハロウィン", mainTitle = "パーティー会場"}
+, backgroundBmp = "noname"}
+, 
+["hal_fes1.rsw"] = {displayName = "パレード準備会場", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "パレード準備会場"}
+, backgroundBmp = "noname_s2"}
+, 
+["hal_fes2.rsw"] = {displayName = "エキセントリックパレード", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "エキセントリックパレード"}
+, backgroundBmp = "noname_s2"}
+, 
+["hal_mostro1.rsw"] = {displayName = "キッコ・モストロ", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "キッコ・モストロ"}
+, backgroundBmp = "noname_s2"}
+, 
+["hal_mostro2.rsw"] = {displayName = "キッコ・モストロ（店長の部屋）", notifyEnter = true, 
+signName = {subTitle = "キッコ・モストロ", mainTitle = "店長の部屋"}
+, backgroundBmp = "noname"}
+, 
+["hal_mostro3.rsw"] = {displayName = "キッコ・モストロ（店長の部屋）", notifyEnter = true, 
+signName = {subTitle = "キッコ・モストロ", mainTitle = "店長の部屋"}
+, backgroundBmp = "noname"}
+, 
+["hal_field1.rsw"] = {displayName = "ハロウィンフィールド 01", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "ハロウィンフィールド 01"}
+, backgroundBmp = "field2_s2"}
+, 
+["hal_field2.rsw"] = {displayName = "ハロウィンフィールド 02", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "ハロウィンフィールド 02"}
+, backgroundBmp = "field2_s2"}
+, 
+["hal_field3.rsw"] = {displayName = "ハロウィンフィールド 03", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "ハロウィンフィールド 03"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@ct0.rsw"] = {displayName = "星座の塔 入場エリア", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "星座の塔 入場エリア"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@ct1.rsw"] = {displayName = "星座の塔 開始エリア", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "星座の塔 開始エリア"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@ct2.rsw"] = {displayName = "星座の塔 1層", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "星座の塔 1層"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@ct3.rsw"] = {displayName = "星座の塔 2層", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "星座の塔 2層"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@ct4.rsw"] = {displayName = "星座の塔 女神の祭壇", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "星座の塔 女神の祭壇"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@ct5.rsw"] = {displayName = "星座の塔 覇王の間", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "星座の塔 覇王の間"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["ev_library.rsw"] = {displayName = "メモリアルレポート", notifyEnter = true, 
+signName = {mainTitle = "～　メモリアルレポート　～"}
+, backgroundBmp = "village"}
+, 
+["clock_01.rsw"] = {displayName = "アルデバラン時計塔地下 未知の空間", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "アルデバラン時計塔地下 未知の空間"}
+, backgroundBmp = "dungeon_s2"}
 }
 main = function()
   -- function num : 0_0

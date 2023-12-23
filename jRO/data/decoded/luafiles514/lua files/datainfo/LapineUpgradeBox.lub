@@ -1254,6 +1254,74 @@ TargetItems = {
 {"MD_Geffen_Cloth_JP", 480331}
 }
 , NeedSource_String = "エンハンスキューブI(夜間闘技場)"}
+, 
+Snow_F_Refine = {ItemID = 101187, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Snowflower_Armor", 450206}
+, 
+{"Snowflower_Robe", 450207}
+, 
+{"Snowflower_Boots", 470115}
+, 
+{"Snowflower_Shoes", 470116}
+, 
+{"Snowflower_Manteau", 480159}
+, 
+{"Snowflower_Muffler", 480160}
+}
+, NeedSource_String = "エンハンスキューブ(雪花)"}
+, 
+ClockTower_Regulator = {ItemID = 101099, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Precision_Lute", 570028}
+, 
+{"Precision_Rifle", 810005}
+, 
+{"Precision_Bow", 700050}
+, 
+{"Precision_Whip", 580028}
+, 
+{"Precision_Fuuma", 650019}
+, 
+{"Precision_Fist", 560030}
+, 
+{"Precision_Pistol", 800009}
+, 
+{"Precision_Shotgun", 820004}
+, 
+{"Precision_Grenade", 840004}
+, 
+{"Precision_Gatling", 830008}
+, 
+{"Solid_Wand", 550054}
+, 
+{"Solid_Rod", 550055}
+, 
+{"Solid_Manual", 540041}
+, 
+{"Solid_Spear", 530023}
+, 
+{"Solid_Staff", 640031}
+, 
+{"Solid_Claymore", 21063}
+, 
+{"Solid_Edge", 500044}
+, 
+{"Wicked_Blade", 500045}
+, 
+{"Wicked_Book", 540042}
+, 
+{"Wicked_Plant", 550056}
+, 
+{"Wicked_Dagger", 510051}
+, 
+{"Wicked_Cross", 590036}
+, 
+{"Wicked_Katar", 610035}
+, 
+{"Wicked_Axe", 620016}
+}
+, NeedSource_String = "ゼンマイ制御機"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0
