@@ -171,7 +171,7 @@ PageEX = {
 [19] = {Title = "채팅: 대화", Search = 1, Image = "유저인터페이스\\tipbox\\tip00019", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"엔터키로 채팅창을 활성화 시킬 수 있습니다. 하고 싶은 말을 쓰고 다시 엔터키를 누르면 대화가 전송 됩니다.\n\t\t<TIPBOX>▶채팅: 채팅방<INFO>20</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 귓속말<INFO>21</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 파티<INFO>22</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 채팅창<INFO>25</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 내용표시<INFO>26</INFO></TIPBOX>\n\t\t<TIPBOX>▶차단<INFO>28</INFO></TIPBOX>\n\t\t<TIPBOX>▶이모션<INFO>27</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 대화내용 저장<INFO>24</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"엔터키로 채팅창을 활성화 시킬 수 있습니다. 하고 싶은 말을 쓰고 다시 엔터키를 누르면 대화가 전송 됩니다.\n\t\t<TIPBOX>▶채팅: 채팅방<INFO>20</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 귓속말<INFO>21</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 파티<INFO>22</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 동맹 길드<INFO>134</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 채팅창<INFO>25</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 내용표시<INFO>26</INFO></TIPBOX>\n\t\t<TIPBOX>▶차단<INFO>28</INFO></TIPBOX>\n\t\t<TIPBOX>▶이모션<INFO>27</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 대화내용 저장<INFO>24</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 , 
 PageEX = {
 {EffectNum = 3, Twinkle = 1, StartX = 100, StartY = 280, DistX = 0, DistY = 0, MoveTime = 0}
@@ -203,7 +203,7 @@ Page = {"파티멤버와의 대화는 % 하고 싶은 말  또는 CTRL+ENTER로 할 수 있습니다.\\
 [23] = {Title = "채팅: 길드", Search = 1, Image = "유저인터페이스\\tipbox\\tip00023", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"길드멤버와의 대화는 /gc 하고 싶은 말  또는 $ 하고 싶은 말  또는 ALT+ENTER로 할 수 있습니다.\\n또, 채팅창 오른쪽의 ^3b488c파란동그라미^000000를 누르면 ^3b488c수신그룹을 설정^000000할 수 있습니다.\n\t\t<TIPBOX>▶채팅: 파티<INFO>22</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"길드멤버와의 대화는 /gc 하고 싶은 말  또는 $ 하고 싶은 말  또는 ALT+ENTER로 할 수 있습니다.\\n또, 채팅창 오른쪽의 ^3b488c파란동그라미^000000를 누르면 ^3b488c수신그룹을 설정^000000할 수 있습니다.\n\t\t<TIPBOX>▶채팅: 동맹 길드<INFO>134</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 파티<INFO>22</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [24] = {Title = "채팅: 대화내용 저장", Search = 1, Image = "유저인터페이스\\tipbox\\tip00024", 
@@ -253,7 +253,7 @@ Page = {"/결성 파티이름 또는 /organize 파티이름으로 파티를 만들 수 있습니다.\\n/
 [30] = {Title = "길드 시스템#공성전,엠펠리움", Search = 1, Image = "유저인터페이스\\tipbox\\tip00030", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"/길드 길드이름으로 길드를 만들 수 있습니다. 길드를 만드는데에는 엠펠리움 1개가 소모됩니다.\\n자신이 소속한 길드의 정보는 ALT + G로 볼 수 있습니다.\\n^ff0000길드마스터는 길드를 해체할 수 있습니다. 길드마스터를 제외한 길드원이 없는 상태에서 /해체 길드를 입력하면 길드가 해체 됩니다.\n\t\t※ (Y/N)를 묻지 않으므로, 신중하게 선택하셔야 합니다.\\n길드를 만들기 위한 재료인 \'엠펠리움\'은 몬스터에게서 얻거나, 길드사무소 직원에게서 구매할 수 있습니다.^000000\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 직위<INFO>31</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 엠블렘<INFO>68</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 공성전<INFO>116</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"/길드 길드이름으로 길드를 만들 수 있습니다. 길드를 만드는데에는 엠펠리움 1개가 소모됩니다.\\n자신이 소속한 길드의 정보는 ALT + G로 볼 수 있습니다.\\n^ff0000길드마스터는 길드를 해체할 수 있습니다. 길드마스터를 제외한 길드원이 없는 상태에서 /해체 길드를 입력하면 길드가 해체 됩니다.\n\t\t※ (Y/N)를 묻지 않으므로, 신중하게 선택하셔야 합니다.\\n길드를 만들기 위한 재료인 \'엠펠리움\'은 몬스터에게서 얻거나, 길드사무소 직원에게서 구매할 수 있습니다.^000000\n\t\t다른 길드와 동맹을 맺으면 공성전에서 협력해 함께 싸우거나 동맹 채팅을 이용할 수 있습니다.\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶채팅: 동맹 길드<INFO>134</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 직위<INFO>31</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 엠블렘<INFO>68</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드: 공성전<INFO>116</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [31] = {Title = "길드: 직위", Search = 1, Image = "", 
@@ -441,13 +441,13 @@ Page = {"99레벨에 도달한 2차 직업 캐릭터는 전승을 통해 상위 클래스로 다시 태어날
 [77] = {Title = "제련#장비,무기,방어구,오리데오콘,에르늄,고농축,카르늄,브라디움,대장장이,홀그렌,아라감,바스타", Search = 1, Image = "유저인터페이스\\tipbox\\tip00077", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"무기와 방어구 아이템을 제련하여 성능을 향상시킬 수 있습니다.\n\t제련을 위해서는 대장장이와 만나보세요.\n\n\t▷대장장이\n\t\t^ff6677각 마을의 안내요원에게 대장간 위치를 확인해 주세요.^000000\n\t\t프론테라, 모로크, 페이욘, 알베르타, 유노, 아인브로크, 리히타르젠, 말랑도, 아이템몰\n\t\t\\n<TIPBOX>▶제련석<INFO>78</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐시 제련석<INFO>79</INFO></TIPBOX>\n\t\t<TIPBOX>▶대장장이의 축복<INFO>80</INFO></TIPBOX>\n\t\t<TIPBOX>▶쉐도우 제련<INFO>81</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"무기와 방어구 아이템을 제련하여 성능을 향상시킬 수 있습니다.\n\t제련을 위해서는 대장장이와 만나보세요.\n\n\t▷대장장이\n\t\t^ff6677각 마을의 안내요원에게 대장간 위치를 확인해 주세요.^000000\n\t\t프론테라, 모로크, 페이욘, 알베르타, 유노, 아인브로크, 리히타르젠, 말랑도, 아이템몰\n\t\t\\n<TIPBOX>▶제련석<INFO>78</INFO></TIPBOX>\n\t\t<TIPBOX>▶상위 제련석<INFO>135</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐시 제련석<INFO>79</INFO></TIPBOX>\n\t\t<TIPBOX>▶대장장이의 축복<INFO>80</INFO></TIPBOX>\n\t\t<TIPBOX>▶쉐도우 제련<INFO>81</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [78] = {Title = "제련석#장비,무기,방어구,오리데오콘,에르늄,고농축,고밀도,카르늄,브라디움,대장장이,홀그렌,아라감,바스타", Search = 1, Image = "유저인터페이스\\tipbox\\tip00077", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"제련석은 장비를 제련할때 사용 됩니다.\n\n\t▷프라콘 : 1레벨 무기 제련\n\t▷엠베르타콘 : 2레벨 무기 제련\n\t▷오리데오콘 : 3레벨 이상의 무기 제련\n\t▷브라디움 : 제련도가 +10이상인 무기 제련\n\t▷에르늄 : 방어구 제련\n\t▷카르늄 : 제련도가 +10이상인 방어구 제련\n\t\\n<TIPBOX>▶제련<INFO>77</INFO></TIPBOX>\n\t<TIPBOX>▶캐시 제련석<INFO>79</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"제련석은 장비를 제련할때 사용 됩니다.\n\n\t▷프라콘 : 1레벨 무기 제련\n\t▷엠베르타콘 : 2레벨 무기 제련\n\t▷오리데오콘 : 3레벨 이상의 무기 제련\n\t▷브라디움 : 제련도가 +10이상인 무기 제련\n\t▷에르늄 : 방어구 제련\n\t▷카르늄 : 제련도가 +10이상인 방어구 제련\n\t\\n<TIPBOX>▶제련<INFO>77</INFO></TIPBOX>\n\t<TIPBOX>▶상위 제련석<INFO>135</INFO></TIPBOX>\n\t<TIPBOX>▶캐시 제련석<INFO>79</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [79] = {Title = "캐시 제련석#장비,무기,방어구,오리데오콘,에르늄,고농축,고밀도,카르늄,브라디움,대장장이,홀그렌,아라감,바스타", Search = 1, Image = "유저인터페이스\\tipbox\\tip00077", 
@@ -667,7 +667,7 @@ Page = {"크리티컬 데미지 비율\n\t\n\t크리티컬 데미지의 기본 능력치인 데미지 140%
 [110] = {Title = "Activity Point 시스템(AP 시스템)#액티비티", Search = 1, Image = "유저인터페이스\\tipbox\\tip00110", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"Activity Point(AP)는 200레벨 이후 상위직업으로 전직하면 추가되는 포인트 입니다.\n\t\n\tAP는 강력한 위력을 가진 스킬을 사용할 때 소모되는 포인트로서, 직업 구분없이 Max값이 200으로 한정되어 있습니다.\n\tAP는 오로지 AP를 회복해주는 효과를 지닌 스킬로만 회복이 가능하며, 일부 직업군에 한해 스킬로 타인의 AP를 회복시켜주거나, 소모시켜버릴 수도 있습니다.\n\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"Activity Point(AP)는 200레벨 이후 상위직업으로 전직하면 추가되는 포인트 입니다.\n\t\n\tAP는 강력한 위력을 가진 스킬을 사용할 때 소모되는 포인트로서, 직업 구분없이 Max값이 200으로 한정되어 있습니다.\n\tAP는 AP 회복 혹은 소모 효과를 지닌 스킬을 직접 시전하는 것으로만 회복 혹은 소모가 가능(오토 스펠로 인한 발동 시에는 회복 및 소모되지 않습니다)하며, 일부 직업군에 한해 스킬로 타인의 AP를 회복시켜주거나, 소모시켜버릴 수도 있습니다.\n\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [111] = {Title = "등급 강화#등급강화,무기,방어구,에텔스톤,에텔 스톤,에텔더스트,에텔 더스트", Search = 1, Image = "유저인터페이스\\tipbox\\tip00111", 
@@ -685,13 +685,17 @@ Page = {"보석상인에게서 살 수 있는 보석을 에텔 스톤과 조합하여 등급 강화 재료를 
 [113] = {Title = "무기/방어구 레벨#무기레벨,방어구레벨", Search = 1, Image = "유저인터페이스\\tipbox\\tip00113", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"각 지역 대장간에 있는 NPC로부터 제련 광석을 교환할 수 있습니다.\n\t▷<NAVI>[제노폰]<INFO>alberta_in,21,63,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[디트리히]<INFO>prt_in,63,69,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[압둘라]<INFO>morocc_in,72,32,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[하킴]<INFO>payon,137,178,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[딜레잇]<INFO>yuno_in01,164,27,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[마티슈타인]<INFO>ein_in01,18,82,0,100,0,0</INFO></NAVI>\n\t▷<NAVI>[프루일]<INFO>lhz_in02,281,24,0,100,0,0</INFO></NAVI>\n\t\n\t<ITEM>[에테르데오콘]<INFO>1000332</INFO></ITEM>\n\t\t: 오리데오콘 1개 + 에텔 더스트 1개\n\t<ITEM>[에테르늄]<INFO>1000331</INFO></ITEM>\n\t\t: 에르늄 1개 + 에텔 더스트 1개\n\t<ITEM>[농축 에테르데오콘]<INFO>1000334</INFO></ITEM>\n\t\t: 농축 오리데오콘 1개 + 에텔 더스트 2개\n\t<ITEM>[농축 에테르늄]<INFO>1000333</INFO></ITEM>\n\t\t: 농축 에르늄 1개 + 에텔 더스트 2개\n\t<ITEM>[고농축 에테르데오콘]<INFO>1000336</INFO></ITEM>\n\t\t: 고농축 오리데오콘(한정 포함) 1개 + 에텔 더스트 3개\n\t<ITEM>[고농축 에테르늄]<INFO>1000335</INFO></ITEM>\n\t\t: 고농축 에르늄(한정 포함) 1개 + 에텔 더스트 3개\n\t<ITEM>[에텔 브라디움]<INFO>1000368</INFO></ITEM>\n\t\t: 브라디움 1개 + 에텔 더스트 3개\n\t<ITEM>[에텔 카르늄]<INFO>1000370</INFO></ITEM>\n\t\t: 카르늄 1개 + 에텔 더스트 3개\n\t<ITEM>[고밀도 에텔 브라디움]<INFO>1000369</INFO></ITEM>\n\t\t: 고밀도 브라디움(한정 포함) 1개 + 에텔 더스트 3개\n\t<ITEM>[고밀도 에텔 카르늄]<INFO>1000371</INFO></ITEM>\n\t\t: 고밀도 카르늄(한정 포함) 1개 + 에텔 더스트 3개\n\t\n\t<TIPBOX>▶에텔 광물<INFO>114</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"무기와 방어구에는 각자 레벨이 존재합니다.\n\t5레벨 무기와 2레벨 방어구는 1~10 제련 사이에서 제련에 실패 하더라도 무기나 방어구가 파괴되어 사라지지 않습니다.\n\t다만, 실패 시, 제련도가 감소합니다.\n\t\n\t11제련 시도 시 부터는 제련광석의 종류에 상관 없이, 제련에 실패하면 장비 파괴가 적용됩니다.\n\t\n\t<TIPBOX>▶제련<INFO>77</INFO></TIPBOX>\n\t<TIPBOX>▶에텔 광물<INFO>114</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+, 
+PageEX = {
+{EffectNum = 3, Twinkle = 1, StartX = 145, StartY = 190, DistX = 0, DistY = 0, MoveTime = 0}
+}
 }
 , 
 [114] = {Title = "에텔 광물#에텔 더스트,에텔더스트,에텔 스톤,에텔스톤,등급,제련", Search = 1, Image = "유저인터페이스\\tipbox\\tip00114", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"에텔은 직접적으로 사용할 수는 없지만 각종 보석이나 광석을 조합하여 사용하는 광석 입니다.\n\t<ITEM>[에텔 더스트]<INFO>1000322</INFO></ITEM>\n\t<ITEM>[에텔 스톤]<INFO>1000323</INFO></ITEM>\n\t\n\t주 재료인 에텔 더스트와 에텔 스톤은 망자의 연회장, 무너진 오페라 하우스, 폐기실험체 유기장 루두스 4층, 버려진 연구소 아미키티아 1층 종합연구실, 2층 호문쿨루스 집중배양실 등에서 획득 할 수 있습니다.\n\t\n\t<TIPBOX>▶무기/방어구 레벨<INFO>113</INFO></TIPBOX>\n\t<TIPBOX>▶등급 강화 시스템<INFO>111</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"에텔은 직접적으로 사용할 수는 없지만 각종 보석이나 광석을 조합하여 사용하는 광석 입니다.\n\t<ITEM>[에텔 더스트]<INFO>1000322</INFO></ITEM>\n\t<ITEM>[에텔 스톤]<INFO>1000323</INFO></ITEM>\n\t\n\t주 재료인 에텔 더스트와 에텔 스톤은 망자의 연회장, 무너진 오페라 하우스, 폐기실험체 유기장 루두스 4층, 버려진 연구소 아미키티아 1층 종합연구실, 2층 호문쿨루스 집중배양실 등에서 획득 할 수 있습니다.\n\t\n\t<TIPBOX>▶상위 제련석<INFO>135</INFO></TIPBOX>\n\t<TIPBOX>▶무기/방어구 레벨<INFO>113</INFO></TIPBOX>\n\t<TIPBOX>▶등급 강화 시스템<INFO>111</INFO></TIPBOX>\n\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [115] = {Title = "유저 숨기기#화면,가리기,NPC,반투명", Search = 1, Image = "유저인터페이스\\tipbox\\tip00115", 
@@ -802,6 +806,24 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"◈ 장비 교체 시스템 사용 방법\n\t\t▷ 장착 아이템 창의 하단에서 \'장비 세트 설정\' 버튼을 눌러 호출 할 수 있습니다.\n\t\t▷ 인벤토리의 장비 아이템을 드래그 앤 드랍으로 설정 가능합니다.\n\t\t▷ 장비 세트에 설정된 장비 아이템은 바닥에 드랍할 수 없습니다.\n\t\t\n\t\t◈ 장비 교체 시스템 사용 방법\n\t\t▷ 세팅된 장비 아이템은 \'CHANGE\'버튼으로 장착됩니다.\n\t\t▷ 현재 입고 있던 \'일반 장비\'가 벗겨지며, 교체 장비로 설정됩니다.\n\t\t\n\t\t<TIPBOX>▶장비 해제<INFO>52</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
+[133] = {Title = "룬 타블렛", Search = 1, Image = "유저인터페이스\\tipbox\\tip00133", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"대현자 바르문트의 수많은 연구 중 하나인, 룬 타블렛은 이 세계의 모든 생명과 물질이 가진 룬의 힘을 추출하여 모험가가 활용할 수 있는 특정한 힘으로 변환해주는 비석입니다.\n\t\t룬의 힘들은 각각의 모험 지역에 따라 서로 다른 형태의 효과를 지니고 있으므로, 다양한 룬 세트를 모아 필요한 곳에 따라 세트 효과를 바꾸어 장착할 수 있습니다.\n\t\t\n\t\t◈ 룬 세트\n\t\t▷ 룬 세트란 2~6개 사이의 룬 조각으로 이루어진 하나의 단위입니다.\n\t\t▷ 룬 세트의 구성 요소 및 효과는 모험 지역에 따라 다릅니다.\n\t\t▷ 룬 세트는 활성화 해야만 장착이 가능합니다.\n\t\t▷ 룬 세트의 효과는 룬 조각의 구성마다 다릅니다.\n\t\t▷ 룬 세트의 효과는 강화에도 영향을 받습니다.\n\t\t\n\t\t◈ 룬 조각\n\t\t▷ 룬 조각이란 아이템이 가진 룬의 힘을 추출하여 만들어진 취합 물질입니다.\n\t\t▷ 룬 조각을 완성해야 룬 세트의 진정한 효과를 끌어낼 수 있습니다.\n\t\t▷ 장비 아이템은 추출을 위해서 리폼을 통해 판화 되어야만 합니다.\n\t\t▷ 판화된 장비 아이템은 제련도, 랜덤옵션, 인챈트, 장착 카드 모두 소멸합니다.\n\t\t\n\t\t◈ 룬 세트의 강화\n\t\t▷ 활성화 된 룬 세트는 특정 아이템으로 강화가 가능합니다.\n\t\t▷ 강화를 통해 룬 세트의 효과를 더 높일 수 있습니다.\n\t\t\n\t\t◈ 분해\n\t\t▷ 카드가 가지고 있는 룬의 힘은 분해를 통해 룬 타블렛에 필요한 형태로 바꿀 수 있습니다.\n\t\t▷ 보스카드는 더욱 특별한 형태로 바뀝니다.\n\t\t\n\t\t[룬 타블렛의 위치]\n\t\t▷ <NAVI>[프론테라]<INFO>prontera,161,192,0,101,0,0</INFO></NAVI>\n\t\t▷ <NAVI>[유노]<INFO>yuno,142,177,0,101,0,0</INFO></NAVI>\n\t\t▷ <NAVI>[라헬]<INFO>rachel,131,144,0,101,0,0</INFO></NAVI>\n\t\t▷ <NAVI>[얼음성]<INFO>icecastle,71,230,0,101,0,0</INFO></NAVI>\n\t\t▷ <NAVI>[바르문트 저택]<INFO>ba_maison,137,111,0,101,0,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶게임 플레이<INFO>1002</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[134] = {Title = "채팅: 동맹 길드", Search = 1, Image = "유저인터페이스\\tipbox\\tip00134", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"길드끼리의 동맹이 맺어진 멤버와의 대화는 # 하고 싶은 말 Enter, 또는 하고 싶은 말 Shift + Enter로 할 수 있습니다.\\n또, 채팅창 오른쪽의 ^3b488c파란동그라미^000000를 누르면 ^3b488c수신그룹을 설정^000000할 수 있습니다.\n\t\t최대 3개의 길드와 동맹을 맺을 수 있습니다.\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[135] = {Title = "상위 제련석#에텔,5레벨무기,2레벨방어구,에텔더스트,고밀도,에테르늄,에테르데오콘", Search = 1, Image = "유저인터페이스\\tipbox\\tip00077", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"상위 제련석으로는 5레벨 무기, 2레벨 방어구를 제련할 때 사용됩니다.\n\t\t상위 제련석은 일반 제련석과 에텔 더스트를 조합하여 제작합니다.\n\t\t\n\t\t^663399■ 아이템 조합^000000\n\t\t각 지역의 대장간에서 조합할 수 있습니다.\n\t\t▷알베르타 <NAVI>[제노폰]<INFO>alberta_in,21,63,0,100,0,0</INFO></NAVI>\n\t\t▷프론테라 <NAVI>[디트리히]<INFO>prt_in,63,69,0,100,0,0</INFO></NAVI>\n\t\t▷모로크 <NAVI>[압둘라]<INFO>morocc_in,72,32,0,100,0,0</INFO></NAVI>\n\t\t▷페이욘 <NAVI>[하킴]<INFO>payon,137,178,0,100,0,0</INFO></NAVI>\n\t\t▷유노 <NAVI>[딜레잇]<INFO>yuno_in01,164,27,0,100,0,0</INFO></NAVI>\n\t\t▷아인브로크 <NAVI>[마티슈타인]<INFO>ein_in01,18,82,0,100,0,0</INFO></NAVI>\n\t\t▷리히타르젠 <NAVI>[프루일]<INFO>lhz_in02,281,24,0,100,0,0</INFO></NAVI>\n\t\t\n\t\t^663399■ 방어구(2레벨) 0~10 제련 구간^000000\n\t\t▷^i[1000331]에테르늄 조합 재료\n\t\t^i[1000322]x1, ^i[985]x1, 10,000z\n\t\t▷^i[1000333]농축 에테르늄 조합 재료\n\t\t^i[1000322]x2, ^i[7619]x1, 20,000z\n\t\t\n\t\t^663399■ 방어구(2레벨) 10~20 제련 구간^000000\n\t\t▷^i[1000370]에텔 카르늄 조합 재료\n\t\t^i[1000322]x3, ^i[6223]x1, 50,000z\n\t\t\n\t\t^663399■ 방어구(2레벨) 15~20 제련 구간^000000\n\t\t▷^i[1000371]고밀도 에텔 카르늄 조합 재료\n\t\t^i[1000322]x3, ^i[6225]x1, 50,000z\n\t\t\n\t\t^663399■ 무기(5레벨) 0~10 제련 구간^000000\n\t\t▷^i[1000332]에테르데오콘 조합 재료\n\t\t^i[1000322]x1, ^i[984]x1, 10,000z\n\t\t▷^i[1000334]농축 에테르데오콘 조합 재료\n\t\t^i[1000322]x2, ^i[7620]x1, 20,000z\n\t\t\n\t\t^663399■ 무기(5레벨) 10~20 제련 구간^000000\n\t\t▷^i[1000368]에텔 브라디움 조합 재료\n\t\t^i[1000322]x3, ^i[6224]x1, 50,000z\n\t\t\n\t\t^663399■ 무기(5레벨) 15~20 제련 구간^000000\n\t\t▷^i[1000369]고밀도 에텔 브라디움 조합 재료\n\t\t^i[1000322]x3, ^i[6226]x1, 50,000z\n\t\t\n\t\t<TIPBOX>▶제련<INFO>77</INFO></TIPBOX>\n\t\t<TIPBOX>▶제련석<INFO>78</INFO></TIPBOX>\n\t\t<TIPBOX>▶에텔 광물<INFO>114</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
 [900] = {Title = "월드맵#map", Search = 1, Image = "유저인터페이스\\tipbox\\tip00900", 
 Imgcoord = {Position = 5, Size = 100}
 , 
@@ -835,7 +857,7 @@ Page = {"<TIPBOX>▶캐릭터: 레벨업<INFO>5</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 
 [1002] = {Title = "게임 플레이", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>▶전투<INFO>14</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶아이템<INFO>17</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶게임옵션창<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>▶커맨드 리스트<INFO>83</INFO></TIPBOX>\n\t\t<TIPBOX>▶의복 효과 해제<INFO>46</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>▶전투<INFO>14</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶아이템<INFO>17</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶게임옵션창<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>▶커맨드 리스트<INFO>83</INFO></TIPBOX>\n\t\t<TIPBOX>▶의복 효과 해제<INFO>46</INFO></TIPBOX>\n\t\t<TIPBOX>▶룬 타블렛<INFO>133</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [1003] = {Title = "커뮤니케이션", Search = 1, Image = "", 
@@ -1117,7 +1139,7 @@ Page = {"베인스 남쪽 바다에 홀로 떠 있는 작은 섬. 섬의 주민들은 수도원을 짓고 안
 [4100] = {Title = "퀘스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 있습니다. 또는 전직 퀘스트를 수행하고 상위 직업으로 전직할 수도 있습니다.\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶가이드 퀘스트<INFO>4175</INFO></TIPBOX>\n\t\t<TIPBOX>▶레벨별 퀘스트<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역별 퀘스트<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징 퀘스트<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상 체험 총서 VR-Books<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 있습니다. 또는 전직 퀘스트를 수행하고 상위 직업으로 전직할 수도 있습니다.\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶가이드 퀘스트<INFO>4175</INFO></TIPBOX>\n\t\t<TIPBOX>▶레벨별 퀘스트<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역별 퀘스트<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징 퀘스트<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상 체험 총서 VR-Books<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶시간의 정원<INFO>5004</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4101] = {Title = "에피소드#퀘스트", Search = 1, Image = "", 
@@ -1303,7 +1325,7 @@ Page = {"이하의 에피소드에 150레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 14.3
 [4131] = {Title = "퀘스트 레벨 160~169", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"이하의 에피소드에 160레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 14.3 결전(決戰)<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 17.2 현자의 유산<INFO>7068</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 160레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 루안다<INFO>9091</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"이하의 에피소드에 160레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 14.3 결전(決戰)<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 17.2 현자의 유산<INFO>7068</INFO></TIPBOX>\n\t\t\n\t\t이하의 일루전에 160레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▷일루전 오브 루안다<INFO>9091</INFO></TIPBOX>\n\t\t<TIPBOX>▷일루전 오브 트윈스<INFO>9157</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4132] = {Title = "퀘스트 레벨 170~179", Search = 1, Image = "", 
@@ -1357,7 +1379,7 @@ Page = {"<TIPBOX>Q 머리 부시시한 애들 (240)<INFO>9154</INFO></TIPBOX>\n\t\t<TIPB
 [4140] = {Title = "퀘스트 레벨 250~259", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>Q 마력이 뒤틀린 평원 정화 작업 (250)<INFO>4323</INFO></TIPBOX>\n\t\t<TIPBOX>Q 묘르닐 지하 동굴 몬스터 토벌 (250)<INFO>4324</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 마력이 뒤틀린 평원 정화 작업 (250)<INFO>4323</INFO></TIPBOX>\n\t\t<TIPBOX>Q 묘르닐 지하 동굴 몬스터 토벌 (250)<INFO>4324</INFO></TIPBOX>\n\t\t\n\t\t이하의 컨텐츠에 250레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶일반던전 잊혀진 시간(250)<INFO>5005</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 불의 호수<INFO>5006</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 생명의 전당<INFO>5007</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4141] = {Title = "지역 퀘스트 목록", Search = 1, Image = "", 
@@ -2311,7 +2333,7 @@ Page = {"뱀의 둥지에는 일루시온이 탈취해 간 비공정이 있다. 일행과 상의 후 일루시
 [4299] = {Title = "환상 체험 총서 VR-Books#환상총서", Search = 1, Image = "유저인터페이스\\tipbox\\tip04299", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"환상총서는 가상의 공간에서 책 속의 인물과 함께 어울려 이야기를 진행할 수 있는 신개념 이야기책입니다. 프론테라 동쪽 도서관에서 체험 가능합니다! 환상총서를 읽고 보상으로 인물들의 소지품을 모아보세요! 나만의 특별한 미니미가 기다리고 있습니다.\n\t\t\n\t\t^663399▣ 환상총서 도서 목록^000000\n\t\t<TIPBOX>▶금수저 영애님은 조용히 살고싶다.<INFO>4300</INFO></TIPBOX>\n\t\t<TIPBOX>▶어느 과학자의 탈출 기록<INFO>4301</INFO></TIPBOX>\n\t\t<TIPBOX>▶엘레나 볼코바, 그 위대한 불꽃<INFO>4302</INFO></TIPBOX>\n\t\t<TIPBOX>▶누구나 쉽게 키워보는 관상용 식물(실무편)<INFO>4303</INFO></TIPBOX>\n\t\t<TIPBOX>▶나와 나<INFO>4307</INFO></TIPBOX>\n\t\t<TIPBOX>▶생던밥~세이렌 윈저의 휘겔 휴양 요리편<INFO>4308</INFO></TIPBOX>\n\t\t<TIPBOX>▶엔젤링 키우기~꿈꾸는 포링~<INFO>4309</INFO></TIPBOX>\n\t\t<TIPBOX>▶나 혼자 아카데미 순혈인간<INFO>4310</INFO></TIPBOX>\n\t\t<TIPBOX>▶크리투라 업무편람<INFO>4311</INFO></TIPBOX>\n\t\t\n\t\t^663399▣ 특별한 아이템^000000\n\t\t<TIPBOX>▶환상총서 일반 교환 아이템 보기<INFO>4304</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상총서 미니미 보기<INFO>4305</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상총서 주인공 버프 아이템 보기<INFO>4306</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"환상총서는 가상의 공간에서 책 속의 인물과 함께 어울려 이야기를 진행할 수 있는 신개념 이야기책입니다. 프론테라 동쪽 도서관에서 체험 가능합니다! 환상총서를 읽고 보상으로 인물들의 소지품을 모아보세요! 나만의 특별한 미니미가 기다리고 있습니다.\n\t\t\n\t\t^663399▣ 환상총서 도서 목록^000000\n\t\t<TIPBOX>▶금수저 영애님은 조용히 살고싶다.<INFO>4300</INFO></TIPBOX>\n\t\t<TIPBOX>▶어느 과학자의 탈출 기록<INFO>4301</INFO></TIPBOX>\n\t\t<TIPBOX>▶엘레나 볼코바, 그 위대한 불꽃<INFO>4302</INFO></TIPBOX>\n\t\t<TIPBOX>▶누구나 쉽게 키워보는 관상용 식물(실무편)<INFO>4303</INFO></TIPBOX>\n\t\t<TIPBOX>▶나와 나<INFO>4307</INFO></TIPBOX>\n\t\t<TIPBOX>▶생던밥~세이렌 윈저의 휘겔 휴양 요리편<INFO>4308</INFO></TIPBOX>\n\t\t<TIPBOX>▶엔젤링 키우기~꿈꾸는 포링~<INFO>4309</INFO></TIPBOX>\n\t\t<TIPBOX>▶나 혼자 아카데미 순혈인간<INFO>4310</INFO></TIPBOX>\n\t\t<TIPBOX>▶크리투라 업무편람<INFO>4311</INFO></TIPBOX>\n\t\t<TIPBOX>▶무지개 끝 너머 대모험<INFO>4312</INFO></TIPBOX>\n\t\t\n\t\t^663399▣ 특별한 아이템^000000\n\t\t<TIPBOX>▶환상총서 일반 교환 아이템 보기<INFO>4304</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상총서 미니미 보기<INFO>4305</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상총서 주인공 버프 아이템 보기<INFO>4306</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4300] = {Title = "VR001 금수저 영애님은 조용히 살고싶다.#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook001_k", 
@@ -2386,10 +2408,16 @@ Imgcoord = {Position = 5, Size = 70}
 Page = {"대면업무 종사자를 위한 지침서, 그 첫번째 시리즈!\n\t\t실무와 똑같은 환경과 체험을 통해 업무 능력을 키울 수 있습니다.\n\t\t사회 초년생들에게 대인기!\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t말브론 지음\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
+[4312] = {Title = "VR012 무지개 끝 너머 대모험#환총환상총서", Search = 1, Image = "유저인터페이스\\illust\\vrbook012_k", 
+Imgcoord = {Position = 5, Size = 70}
+, 
+Page = {"룬-미드가츠 왕국과 아루나펠츠와의 양국 문화 교류의 시작!\n\t\t특별한 동행과 함께 떠나는 대모험 이야기!\n\t\t여러분은 이루고 싶은 간절한 소원이 있나요?\n\t\t\n\t\t^663399◈도서 위치^000000\n\t\t▶프론테라 동쪽 도서관\n\t\t<NAVI>[환상총서-012]<INFO>prt_elib,73,53,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈체험 가능 레벨: 100 Lv^000000\n\t\t^663399◈진행 유형: MD^000000\n\t\t\n\t\t제드 지음\n\t\t제작 출판:VR-Books\n\t\t\n\t\t<TIPBOX>▶환상 체험 총서 보기<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
 [4321] = {Title = "바르문트의 바이오스피어#룬마력수초원죽음화염혹한맹독영혼성전정수", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"바르문트의 바이오스피어는 대현자 바르문트가 생태계 연구를 위해 실제 존재하는 자연 환경과 지형을 그대로 본따 저택 안에 조성한 공간입니다.\n\t\t그간 바르문트의 부재로 오랜 시간 방치되어 왔으나 최근 내부의 움직임이 심상치 않다는 판단으로 저택의 관리자는 굳게 닫힌 문을 활짝 열었습니다.\n\t\t\n\t\t^663399◈조건 : 240Lv 이상^000000\n\t\t\n\t\t^663399◈안내 NPC^000000\n\t\t▶<NAVI>[관리자 베타]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>\n\t\t▶<NAVI>[관리자 베타]<INFO>ba_in01,237,301,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바이오스피어 보상<INFO>4322</INFO></TIPBOX>\n\t\t\n\t\t^663399◈바이오스피어 위치 안내^000000\n\t\t<NAVI>[표본환경 - 혹한]<INFO>ba_in01,310,38,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 화염]<INFO>ba_in01,311,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 초원]<INFO>ba_in01,325,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 죽음]<INFO>ba_in01,339,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 영혼]<INFO>ba_in01,201,302,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 맹독]<INFO>ba_in01,215,302,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 성전]<INFO>ba_in01,229,302,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바르문트의 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"바르문트의 바이오스피어는 대현자 바르문트가 생태계 연구를 위해 실제 존재하는 자연 환경과 지형을 그대로 본따 저택 안에 조성한 공간입니다.\n\t\t그간 바르문트의 부재로 오랜 시간 방치되어 왔으나 최근 내부의 움직임이 심상치 않다는 판단으로 저택의 관리자는 굳게 닫힌 문을 활짝 열었습니다.\n\t\t\n\t\t^663399◈조건 : 240Lv 이상^000000\n\t\t\n\t\t^663399◈안내 NPC^000000\n\t\t▶<NAVI>[관리자 베타]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>\n\t\t▶<NAVI>[관리자 베타]<INFO>ba_in01,237,301,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바이오스피어 보상<INFO>4322</INFO></TIPBOX>\n\t\t\n\t\t^663399◈바이오스피어 위치 안내^000000\n\t\t<NAVI>[표본환경 - 혹한]<INFO>ba_in01,310,38,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 화염]<INFO>ba_in01,311,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 초원]<INFO>ba_in01,325,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 죽음]<INFO>ba_in01,339,56,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 영혼]<INFO>ba_in01,201,302,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 맹독]<INFO>ba_in01,215,302,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 성전]<INFO>ba_in01,229,302,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바르문트의 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층 어비스<INFO>8368</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4322] = {Title = "바이오스피어 보상#바르문트룬장비각인오를레앙", Search = 1, Image = "", 
@@ -2672,6 +2700,30 @@ Page = {"엔들리스 타워였던 곳에 무슨일이 벌어진 걸까요. 아무래도 새로운 주인이 �
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"엔들리스 타워였던 곳은 성좌의 탑이란 이름으로 새 주인을 맞이하였습니다. 하지만 가라앉은 탑의 균열에서 반갑지 않은 손님들이 계속해서 밀려나오고 있습니다. 누군가는 이 불청객들을 맞이해야 할 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 40 ~ 249. 적정 레벨 구간별로 입장가능.\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[레티시아]<INFO>alberta,212,71,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[5004] = {Title = "시간의 정원(250)#오스카레티시아리겔", Search = 1, Image = "유저인터페이스\\tipbox\\tip05004", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"루티에의 눈덮인 설원에 나타난 새로운 차원균열. 불안정한 균열들을 소멸하는 임무를 띄고 움직이던 레티시아는 새로 발견된 균열을 소거하지 않고 오스카를 부르는데...\n\t\t\n\t\t◈ 필드 구성\n\t\t\t▷ 메모리얼 던전 2종. 일반던전 1종 (2개 구역)\n\t\t\t▷ 레벨 250 이상 필드 입장가능\n\t\t\t\n\t\t◈ 최초 시작지점\n\t\t<NAVI>[차원의 결계]<INFO>xmas_fild01,155,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 시간의 정원 장비\n\t\t^i[480345] ^i[480346] ^i[480347] ^i[480348]\n\t\t^i[480349] ^i[480350] ^i[480351] ^i[480352]\n\t\t\n\t\t◈ 시간의 정원 자판기\n\t\t<NAVI>[아공간 자판기(잡화)]<INFO>t_garden,129,123,0,101,0</INFO></NAVI>\n\t\t<NAVI>[아공간 자판기(의류)]<INFO>t_garden,132,120,0,101,0</INFO></NAVI>\n\t\t<NAVI>[아공간 자판기(인챈트)]<INFO>t_garden,135,117,0,101,0</INFO></NAVI>\n\n\t\t시간의 정원 컨텐츠 목록\n\t\t<TIPBOX>▶일반던전 잊혀진 시간<INFO>5005</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 불의 호수<INFO>5006</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 생명의 전당<INFO>5007</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[5005] = {Title = "잊혀진 시간(250)#오스카레티시아리겔", Search = 1, Image = "유저인터페이스\\tipbox\\tip05005", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"시간의 정원안에 도사린 잊혀진 시간의 차원에선 원소들이 계속해서 정령화 하고 있습니다. 그들의 과도한 정령화는 원소의 고갈로 이어질 것이며 곧 차원붕괴를 불러올 것입니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 잊혀진 시간 1구역. 2구역\n\t\t\t▷ 레벨 250 이상 필드 입장가능\n\t\t\t▷ 1시간마다 서로 다른 구역에 몬스터 웨이브 발생.\n\t\t\t\n\t\t◈ 최초 시작지점\n\t\t<NAVI>[3인의 성좌]<INFO>t_garden,115,47,0,101,0</INFO></NAVI> 를 만난 이후 레티시아 연결 퀘스트\n\t\t\n\t\t◈ 주요 전리품\n\t\t^i[1001432] ^i[1001433] ^i[1001434] ^i[1001435] ^i[1001436]\n\t\t\n\t\t◈ 주요 보상\n\t\t^i[1001461] ^i[1001462] ^i[1001463] ^i[1001464] ^i[1001465]\n\n\t\t<TIPBOX>▶시간의 정원 페이지로<INFO>5004</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[5006] = {Title = "MD 불의 호수(250)#오스카레티시아리겔", Search = 1, Image = "유저인터페이스\\tipbox\\tip05006", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"생명의 성좌를 추종하던 4신수들은 생명의 성좌의 모습을 훔쳐낸 차원의 범죄자에게 여전히 충성을 바치고 있습니다. 그 이유는 알 수 없지만 그들을 제압하고 감옥 열쇠를 얻어 내야 합니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1일 1회 반복 공략 가능\n\t\t\t▷ 제한시간 30분\n\t\t\t▷ 레벨 250 이상 필드 입장가능\n\t\t\t\n\t\t◈ 최초 시작지점\n\t\t<NAVI>[3인의 성좌]<INFO>t_garden,115,47,0,101,0</INFO></NAVI> 를 만난 이후 리겔 연결 퀘스트\n\t\t\n\t\t◈ 주요 전리품\n\t\t^i[1001444] ^i[1001445] ^i[1001446] ^i[1001447]\n\t\t^i[1001448] ^i[1001449] ^i[1001450] ^i[1001451]\n\t\t^i[1001452] ^i[1001453] ^i[1001454] ^i[1001455]\n\t\t\n\t\t◈ 주요 보상\n\t\t^i[1001414] ^i[1001415]\n\t\t^i[1001440] ^i[1001441] ^i[1001442] ^i[1001443]\n\n\t\t<TIPBOX>▶시간의 정원 페이지로<INFO>5004</INFO></TIPBOX>\n\t\t<TIPBOX>▶미드가르드 대륙 MD<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[5007] = {Title = "MD 생명의 전당(250)#오스카레티시아리겔", Search = 1, Image = "유저인터페이스\\tipbox\\tip05007", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"차원 너머 생명의 성좌를 삼킨 차원 범죄자를 두고 볼 수 없었던 리겔은 차원 범죄자를 영원한 감옥에 감금하고 그녀의 힘을 서서히 빼내고 있습니다. 차원범죄자의 진짜 모습은 무엇일까요.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 생명의 전당 열쇠 소지시 1시간에 1번 재입장 가능\n\t\t\t▷ 보상은 1주일에 1회 수령 가능.\n\t\t\t▷ 제한시간 60분\n\t\t\t▷ 레벨 250 이상 필드 입장가능\n\t\t\t\n\t\t◈ 최초 시작지점\n\t\t<NAVI>[3인의 성좌]<INFO>t_garden,115,47,0,101,0</INFO></NAVI> 를 만난 이후 리겔 연결 퀘스트\n\t\t\n\t\t◈ 주요 보상\n\t\t^i[1001456] ^i[1001457] ^i[1001458] ^i[1001459] ^i[1001460]\n\n\t\t<TIPBOX>▶시간의 정원 페이지로<INFO>5004</INFO></TIPBOX>\n\t\t<TIPBOX>▶미드가르드 대륙 MD<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6004] = {Title = "Episode 13.1 애쉬 바쿰#애쉬#바쿰#13.1#", Search = 1, Image = "", 
@@ -3559,7 +3611,7 @@ Page = {"미지에 대한 호기심은 탐험으로 이어집니다. 이것은 모험가의 숙명과도 같습
 [7084] = {Title = "미드가르드 대륙 MD#고성포링타워보르세브요일오크장던바포문어바다신무한꿈구두굽", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"신화가 역사로 남아 있는 곳, 미드가르드 대륙. 옛 이야기와 영웅의 모험담이 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶MD 수상한 난파선 (10)<INFO>7085</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 포링 마을 (30)<INFO>7086</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 보르세브 연구실 (60)<INFO>7088</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 주말 던전 (60)<INFO>7089</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 오크의 기억 (60)<INFO>7090</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 호러 장난감 공장<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 잔당들의 아지트<INFO>7094</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 봉인의 신전 (75)<INFO>7095</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 지하 배수로 (90)<INFO>7096</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 문어 동굴<INFO>7097</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 금요일 던전 (99)<INFO>7098</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 무한의 공간 (100)<INFO>7099</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 꿈과 그림자 (120)<INFO>7100</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 왕의 구두굽에서 (130)<INFO>7101</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 성좌의 탑 (240)<INFO>5002</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 가라앉은 탑 (40~249)<INFO>5003</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"신화가 역사로 남아 있는 곳, 미드가르드 대륙. 옛 이야기와 영웅의 모험담이 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶MD 수상한 난파선 (10)<INFO>7085</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 포링 마을 (30)<INFO>7086</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 보르세브 연구실 (60)<INFO>7088</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 주말 던전 (60)<INFO>7089</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 오크의 기억 (40)<INFO>7090</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 호러 장난감 공장<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 잔당들의 아지트<INFO>7094</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 봉인의 신전 (75)<INFO>7095</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 지하 배수로 (90)<INFO>7096</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 문어 동굴<INFO>7097</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 금요일 던전 (99)<INFO>7098</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 무한의 공간 (100)<INFO>7099</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 꿈과 그림자 (120)<INFO>7100</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 왕의 구두굽에서 (130)<INFO>7101</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 성좌의 탑 (240)<INFO>5002</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 가라앉은 탑 (40~249)<INFO>5003</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 불의 호수 (250)<INFO>5006</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 생명의 전당 (250)<INFO>5007</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7085] = {Title = "MD 수상한 난파선 (10)#초보루민레노", Search = 1, Image = "", 
@@ -3571,7 +3623,7 @@ Page = {"레노와 모험가가 프론테라의 감옥 구경을 하게 만든 여신 신봉자 브랜. 그자
 [7086] = {Title = "MD 포링 마을 (30)#초보채소야채", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"초보자들이 쉽게 도전할 수 있는 모험은 그리 많지 않습니다. 하지만 그러한 곳을 먼저 찾아낸 임시 동료가 있다면 어떨까요? 초보자들끼리 서로 도와 도전해 봅시다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 30 이상 60 이하\n\t\t\t\n\t\t<NAVI>[에밀리]<INFO>prt_fild05,145,235,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 중 획득한 <ITEM>[포링마을 대파]<INFO>19238</INFO></ITEM>나 <ITEM>[포링마을 당근]<INFO>19239</INFO></ITEM>을 <NAVI>[채소 강화사]<INFO>prt_fild05,174,238,0,101,0</INFO></NAVI>에게 가지고 가면 인챈트 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"초보자들이 쉽게 도전할 수 있는 모험은 그리 많지 않습니다. 하지만 그러한 곳을 먼저 찾아낸 임시 동료가 있다면 어떨까요? 초보자들끼리 서로 도와 도전해 봅시다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 30 이상 99 이하\n\t\t\t\n\t\t<NAVI>[에밀리]<INFO>prt_fild05,145,235,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 중 획득한 <ITEM>[포링마을 대파]<INFO>19238</INFO></ITEM>나 <ITEM>[포링마을 당근]<INFO>19239</INFO></ITEM>을 <NAVI>[채소 강화사]<INFO>prt_fild05,174,238,0,101,0</INFO></NAVI>에게 가지고 가면 인챈트 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7088] = {Title = "MD 보르세브의 연구실 (60)#생던리히기업", Search = 1, Image = "", 
@@ -3586,10 +3638,10 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"주중에 쌓인 피로와 스트레스를 주말에 모두 풀어버리자!\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매주 금요일 23:59 ~ 일요일 23:59 사이에 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 60 이상\n\t\t\t\n\t\t<NAVI>[마리아쥬]<INFO>pay_arche,44,124,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[최하급성장비약]<INFO>23142</INFO></ITEM>\n\t\t<ITEM>[최하급직업비약]<INFO>23143</INFO></ITEM>\n\t\t\n\t\t<NAVI>[선물용품 점원]<INFO>pay_arche,44,121,0,101,0</INFO></NAVI>에게서 비약 포장 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[7090] = {Title = "MD 오크의 기억 (60)#오던", Search = 1, Image = "", 
+[7090] = {Title = "MD 오크의 기억 (40)#오던", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"지도교수는 사라졌지만 연구는 계속되고 있습니다. 차분한 과학자는 오크지역에서 고대 차원으로 통하는 게이트 작업을 마치고 탐사를 할 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 60 이상\n\t\t\t\n\t\t<NAVI>[차분한 과학자]<INFO>gef_fild10,231,203,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[타락의 반지]<INFO>28522</INFO></ITEM>\n\t\t<ITEM>[재앙의 반지]<INFO>28523</INFO></ITEM>\n\t\t\n\t\t<NAVI>[수상한 남자]<INFO>gef_fild10,227,197,0,101,0</INFO></NAVI>에게서 반지 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"지도교수는 사라졌지만 연구는 계속되고 있습니다. 차분한 과학자는 오크지역에서 고대 차원으로 통하는 게이트 작업을 마치고 탐사를 할 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 40 이상 99 이하\n\t\t\t\n\t\t<NAVI>[차분한 과학자]<INFO>gef_fild10,231,203,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[타락의 반지]<INFO>28522</INFO></ITEM>\n\t\t<ITEM>[재앙의 반지]<INFO>28523</INFO></ITEM>\n\t\t\n\t\t<NAVI>[수상한 남자]<INFO>gef_fild10,227,197,0,101,0</INFO></NAVI>에게서 반지 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7091] = {Title = "MD 호러 장난감 공장#루티에장던", Search = 1, Image = "", 
@@ -3886,7 +3938,7 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"부하와 백성을 지키기 위한 국왕, 슈미츠의 선택. 동시대의 세력들에 의해 사실과 다르게 기록된 국왕의 헌신은 후세에 이르러서는 완전히 왜곡되었습니다. 이를 위해 시공룡이 나섰습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 시나리오 모드\n\t\t\t\t→ 시나리오 모드 진행 후 일반 난이도, 상급 난이도 던전의 입장 자격 부여\n\t\t\t\t→ 1인 던전 \n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 레벨 130 이상\n\t\t\t\n\t\t\t▷ 일반 난이도\n\t\t\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 130 이상\n\t\t\t\t→ 주요 보상 : 저주에 잠식되는 결정\n\t\t\t\n\t\t\t▷ 상급 난이도\n\t\t\t\t→ 3일에 1회 반복 공략 가능\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 170 이상\n\t\t\t\t→ 주요 보상 : 저주에 침식된 원석\n\t\t\t\n\t\t<NAVI>[오스카]<INFO>glast_01,241,290,0,101,0</INFO></NAVI>", "◈ 국왕 슈미츠의 유물 교환\n\t\t▷ 필요 아이템\n\t\t\t<ITEM>[저주에 잠식되는 결정]<INFO>25739</INFO></ITEM>과 <ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[저주에 침식된 원석]<INFO>25740</INFO></ITEM>과 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\t던전 공략 중 획득 가능\n\t\t▷ <NAVI>[OSC1052]<INFO>glast_01,245,296,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 국왕 슈미츠의 유물 강화\n\t\t▷ 필요 아이템\n\t\t\t<ITEM>[저주에 잠식되는 결정]<INFO>25739</INFO></ITEM>과 <ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[저주에 침식된 원석]<INFO>25740</INFO></ITEM>과 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\t던전 공략 중 획득 가능\n\t\t▷ <NAVI>[OSC1127]<INFO>glast_01,243,296,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[7140] = {Title = "MD 생체연구소-원정의 여로 (170)#슈발츠생던리히에다메던메모던전", Search = 1, Image = "", 
+[7140] = {Title = "MD 생체연구소-원정의 여로 (170)#슈발츠생던리히에다메던메모던전EDDA", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"트리스탄 국왕의 실종을 조사하러 슈발츠발드로 떠났지만 역시나 실종된 세이렌 윈저 일행. 그 실종의 비밀은 생체연구소의 지하에 매몰되어 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 170이상\n\t\t\t▷ 탐사모드/ 전투모드 선택\n\t\t\t\t→ 탐사모드 : 탐사대가 겪은 사건을 이야기를 중심으로 진행. 전투가 쉽고 적으나 보상이 적고 보너스 보상이 지급되지 않음.\n\t\t\t\t→ 전투모드 : 탐사대 사대가 겪은 사건을 전투를 중심으로 진행. 전투가 까다로우나 많은 보상과 함께 일정 확률로 보너스 보상 상자가 등장.\n\t\t\t\n\t\t<NAVI>[시에라]<INFO>yuno,216,345,0,101,0</INFO></NAVI>", "◈ 전투모드 공략 전리품\n\t\t\t▷ 던전 진행 중 ??? 상자에서 무기류 획득 가능\n\t\t\t\n\t\t◈ 획득 무기 강화\n\t\t\t▷ 필요 아이템\n\t\t\t\t<ITEM>[생체 실험 파편]<INFO>25787</INFO></ITEM>과 <ITEM>[생체 연구 서류]<INFO>25786</INFO></ITEM>\n\t\t\t\t던전 공략 보상으로 획득\n\t\t\t▷ <NAVI>[라비앙]<INFO>yuno,220,352,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ ??? 상자 구성품 (랜덤 획득)\n\t\t\t<ITEM>[아도라레 스태프]<INFO>2057</INFO></ITEM>\n\t\t\t<ITEM>[아구도 필로]<INFO>28044</INFO></ITEM>\n\t\t\t<ITEM>[에이밍 보우]<INFO>18186</INFO></ITEM>\n\t\t\t<ITEM>[앤틱 첼로]<INFO>32108</INFO></ITEM>\n\t\t\t<ITEM>[아르헨 블란코]<INFO>32023</INFO></ITEM>\n\t\t\t<ITEM>[투신의 붕대]<INFO>1866</INFO></ITEM>\n\t\t\t<ITEM>[블랙 서클]<INFO>32107</INFO></ITEM>\n\t\t\t<ITEM>[볼티진]<INFO>28633</INFO></ITEM>\n\t\t\t<ITEM>[총명추]<INFO>16096</INFO></ITEM>\n\t\t\t<ITEM>[맹룡투갑]<INFO>1865</INFO></ITEM>\n\t\t\t<ITEM>[쿨란트 인젝션]<INFO>16093</INFO></ITEM>\n\t\t\t<ITEM>[크림즌 로즈 스틱]<INFO>26158</INFO></ITEM>\n\t\t\t<ITEM>[더스트 그레이브]<INFO>26160</INFO></ITEM>\n\t\t\t<ITEM>[엔진 파일벙커]<INFO>16092</INFO></ITEM>\n\t\t\t<ITEM>[이스탈]<INFO>32351</INFO></ITEM>\n\t\t\t<ITEM>[팔켄 슈터]<INFO>18187</INFO></ITEM>\n\t\t\t<ITEM>[파르테잔]<INFO>32350</INFO></ITEM>\n\t\t\t<ITEM>[포트리지]<INFO>32025</INFO></ITEM>\n\t\t\t<ITEM>[제네로드]<INFO>16094</INFO></ITEM>\n\t\t\t<ITEM>[골든 렌치]<INFO>1333</INFO></ITEM>\n\t\t\t<ITEM>[그라비테이션 스태프]<INFO>2056</INFO></ITEM>\n\t\t\t<ITEM>[하베]<INFO>32024</INFO></ITEM>\n\t\t\t<ITEM>[하트 휩]<INFO>26212</INFO></ITEM>\n\t\t\t<ITEM>[잭 더 나이프]<INFO>28767</INFO></ITEM>\n\t\t\t<ITEM>[저지먼트 슬래셔]<INFO>28765</INFO></ITEM>\n\t\t\t<ITEM>[루시스 플레일]<INFO>16095</INFO></ITEM>\n\t\t\t<ITEM>[맥시 스패너]<INFO>28138</INFO></ITEM>\n\t\t\t<ITEM>[플래티넘 대거]<INFO>28768</INFO></ITEM>\n\t\t\t<ITEM>[페니텐티아]<INFO>26161</INFO></ITEM>\n\t\t\t<ITEM>[사이킥 스피어 로드]<INFO>26159</INFO></ITEM>\n\t\t\t<ITEM>[래피드 파이어]<INFO>18184</INFO></ITEM>\n\t\t\t<ITEM>[리퍼 크로스]<INFO>28042</INFO></ITEM>\n\t\t\t<ITEM>[스칼렛 리본]<INFO>26213</INFO></ITEM>\n\t\t\t<ITEM>[샤프 스타]<INFO>18185</INFO></ITEM>\n\t\t\t<ITEM>[스태프 오브 미라클]<INFO>2055</INFO></ITEM>\n\t\t\t<ITEM>[베르난]<INFO>21052</INFO></ITEM>\n\t\t\t<ITEM>[볼라르]<INFO>21051</INFO></ITEM>\n\t\t\t<ITEM>[윈드 가일]<INFO>18188</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
@@ -5513,13 +5565,25 @@ Page = {"눈 없는 눈꽃 축제, 알데바란의 명물 눈꽃 축제가 올해 12월에도 개최됩니다
 [8366] = {Title = "바르문트의 바이오스피어 심층#혹한화염초원죽음영혼맹독성전", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"바르문트의 잊힌 인공 서식지, 바이오스피어 심층이 발견되었습니다.\n\t\t일곱 표본 환경이 서로 뒤엉켜 버린 그곳을 연구하는 연구 관리자들을 도와주세요.\n\t\t\n\t\t^663399◈조건 : 250Lv 이상^000000\n\t\t\n\t\t^663399◈안내 NPC^000000\n\t\t▶<NAVI>[심층 연구 총괄 관리자]<INFO>ba_in01,292,104,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바이오스피어 심층 1층 보상<INFO>8367</INFO></TIPBOX>\n\t\t\n\t\t^663399◈심층 1층 입구 위치 안내^000000\n\t\t<NAVI>[표본환경 - 혹한지역]<INFO>bl_ice,198,268,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 화염지역]<INFO>bl_lava,151,263,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 초원지역]<INFO>bl_grass,131,365,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 죽음지역]<INFO>bl_death,65,121,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 영혼지역]<INFO>bl_soul,300,292,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 맹독지역]<INFO>bl_venom,182,250,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 성전지역]<INFO>bl_temple,272,331,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바르문트의 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"바르문트의 잊힌 인공 서식지, 바이오스피어 심층이 발견되었습니다.\n\t\t일곱 표본 환경이 서로 뒤엉켜 버린 그곳을 연구하는 연구 관리자들을 도와주세요.\n\t\t\n\t\t^663399◈조건 : 250Lv 이상^000000\n\t\t\n\t\t^663399◈안내 NPC^000000\n\t\t▶<NAVI>[심층 연구 총괄 관리자]<INFO>ba_in01,292,104,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바이오스피어 심층 1층 보상<INFO>8367</INFO></TIPBOX>\n\t\t\n\t\t^663399◈심층 1층 입구 위치 안내^000000\n\t\t<NAVI>[표본환경 - 혹한지역]<INFO>bl_ice,198,268,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 화염지역]<INFO>bl_lava,151,263,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 초원지역]<INFO>bl_grass,131,365,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 죽음지역]<INFO>bl_death,65,121,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 영혼지역]<INFO>bl_soul,300,292,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 맹독지역]<INFO>bl_venom,182,250,0,101,0</INFO></NAVI>\n\t\t<NAVI>[표본환경 - 성전지역]<INFO>bl_temple,272,331,0,101,0</INFO></NAVI>\n\t\t\n\t\t심층 연구를 일정이상 진행하면 새로운 지역의 연구가 가능합니다.\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층 어비스<INFO>8368</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶바르문트의 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [8367] = {Title = "바이오스피어 심층 1층 보상#바르문트룬갑옷정수", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"바르문트의 잊힌 인공 서식지, 바이오스피어 심층 1층을 연구하고 추출된 연구 결과물로 새로운 룬 장비를 제작할 수 있습니다.\n\t\t\n\t\t^663399◈심층의 룬 및 정수 교환^000000\n\t\t▶<NAVI>[룬 에너지 융합 관리자]<INFO>ba_in01,293,119,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈심층의 룬 갑옷 제작^000000\n\t\t▶<NAVI>[룬 에너지 장비 관리자]<INFO>ba_in01,293,116,0,101,0</INFO></NAVI>\n\t\t^FF0000※ 심층 1층 연구 진행도 500이상 필요^000000\n\t\t\n\t\t^663399◈심층의 룬 갑옷^000000\n\t\t^i[450274] ^i[450279] ^i[450280] ^i[450281]\n\t\t\n\t\t^663399◈각인된 심층의 룬 갑옷^000000\n\t\t^i[450282] ^i[450283] ^i[450284] ^i[450285]\n\t\t\n\t\t^663399◈심층의 룬 갑옷 인챈트^000000\n\t\t▶<NAVI>[룬 에너지 장비 관리자]<INFO>ba_in01,293,116,0,101,0</INFO></NAVI>\n\t\t^FF0000※ 심층 1층 연구 진행도 1000이상 필요^000000\n\t\t\n\t\t^663399◈심층의 룬 갑옷 각인^000000\n\t\t갑옷에 사용자의 마력을 각인시켜, 사용자에게 귀속되는 대신 갑옷의 능력치가 강화됩니다.\n\t\t▶<NAVI>[룬 에너지 장비 관리자]<INFO>ba_in01,293,116,0,101,0</INFO></NAVI>\n\t\t^FF0000※ 심층 1층 연구 진행도 1500이상 필요^000000\n\t\t\n\t\t^663399◈심층의 룬 갑옷 각인 해제^000000\n\t\t갑옷에 새겨진 사용자의 마력 각인을 해제하여, 이전으로 되돌립니다.\n\t\t▶<NAVI>[룬 에너지 장비 관리자]<INFO>ba_in01,293,116,0,101,0</INFO></NAVI>\n\t\t^FF0000※ 심층 1층 연구 진행도 3500이상 필요^000000\n\t\t\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[8368] = {Title = "바르문트의 바이오스피어 심층 어비스#체스정원", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"바이오스피어 심층에 대해 연구하던 중 저택 내에 갑작스럽게 열린 의문의 워프.\n\t\t기록조차 존재하지 않는 또 다른 심층 구역의 조사를 함께 해 주세요.\n\t\t\n\t\t^663399◈조건 : 바이오스피어 심층 1층 연구 진행도 2000점 이상^000000\n\t\t\n\t\t^663399◈안내 NPC^000000\n\t\t▶<NAVI>[심층 연구 총괄 관리자]<INFO>ba_in01,292,104,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바이오스피어 심층 어비스 보상<INFO>8369</INFO></TIPBOX>\n\t\t\n\t\t^663399◈심층 어비스 입구 위치 안내^000000\n\t\t안내 NPC와 대화 후 입장 가능합니다.\n\t\t<NAVI>[입구]<INFO>ba_chess,13,36,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[8369] = {Title = "바이오스피어 심층 어비스 보상#타임디멘션즈룬크라운", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"바르문트의 잊힌 인공 서식지, 바이오스피어의 두번째 심층, 시간과 공간이 왜곡된 심층 어비스를 연구하고 새로운 룬 장비를 제작할 수 있습니다.\n\t\t\n\t\t^663399◈심층 어비스 표본 정제^000000\n\t\t▶<NAVI>[표본 정제 담당자]<INFO>ba_chess,22,16,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈디멘션즈 웨폰^000000\n\t\t심층 어비스에 서식하는 몬스터가 드랍하는 무기 시리즈 입니다.\n\t\t^i[600054] ^i[630041] ^i[530054] ^i[500092]\n\t\t^i[620037] ^i[590079] ^i[590080] ^i[500093]\n\t\t^i[610064] ^i[610065] ^i[510139] ^i[700092]\n\t\t^i[640049] ^i[640050] ^i[540079] ^i[540080]\n\t\t^i[550130] ^i[540081] ^i[560060] ^i[560061]\n\t\t^i[700093] ^i[700094] ^i[570063] ^i[580062]\n\t\t^i[570062] ^i[580061] ^i[650046] ^i[650047]\n\t\t^i[810040] ^i[840032] ^i[540083] ^i[540082]\n\t\t^i[550131] ^i[550132] ^i[500094] ^i[550133]\n\t\t^i[550134] ^i[550135]\n\n\t\t^663399◈디멘션즈 웨폰 인챈트^000000\n\t\t▶<NAVI>[인챈트 담당자]<INFO>ba_chess.gat,28,16,0,101,0</INFO></NAVI>\n\t\t^FF0000※ 심층 어비스 연구 진행도 500이상 필요^000000\n\n\t\t^663399◈타임 디멘션즈 룬 크라운 제작^000000\n\t\t▶<NAVI>[룬 크라운 제작]<INFO>ba_chess,25,19,0,101,0</INFO></NAVI>\n\t\t^FF0000※ 심층 어비스 연구 진행도 750이상 필요^000000\n\t\t^i[400529] ^i[400530] ^i[400531] ^i[400532]\n\t\t^i[400533] ^i[400534] ^i[400535] ^i[400536]\n\t\t^i[400537] ^i[400538] ^i[400539] ^i[400540]\n\t\t^i[400541] ^i[400542] ^i[400543] ^i[400544]\n\t\t^i[400545] ^i[400546]\n\t\t\n\t\t^663399◈타임 디멘션즈 룬 크라운 인챈트^000000\n\t\t▶<NAVI>[인챈트 담당자]<INFO>ba_chess.gat,28,16,0,101,0</INFO></NAVI>\n\t\t^FF0000※ 심층 어비스 연구 진행도 1500이상 필요^000000\n\t\t\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층 어비스<INFO>8368</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9000] = {Title = "2차 직업", Search = 1, Image = "", 
@@ -5861,7 +5925,7 @@ Page = {"어쌔신크로스에서 전직하는 3차 직업군 길로틴크로스는 어쌔신 계열답게, 회
 [9056] = {Title = "JQ 아크비숍 전직", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"하이프리스트에서 전직하는 3차 직업군 아크비숍은 기존의 프리스트 계열에 비해 공격면에 있어 크게 강화된 특징을 가집니다.\n\t\t아크비숍은 기존의 구마계 공격 마법 뿐만 아니라 성속성 공격 마법을 사용하며, 또한 광범위 보조 마법 및 파워업 된 회복마법을 사용합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 하이프리스트^000000\n\n\t\t<NAVI>[기도하는 성직자]<INFO>prt_church,130,88,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"하이프리스트에서 전직하는 3차 직업군 아크비숍은 기존의 프리스트 계열에 비해 공격면에 있어 크게 강화된 특징을 가집니다.\n\t\t아크비숍은 기존의 구마계 공격 마법 뿐만 아니라 성속성 공격 마법을 사용하며, 또한 광범위 보조 마법 및 파워업 된 회복마법을 사용합니다.\n\t\t^663399◈베이스레벨 99 이상^000000\n\t\t^663399◈직업레벨 50 이상^000000\n\t\t^663399◈대상: 하이프리스트^000000\n\n\t\t<NAVI>[기도하는 성직자]<INFO>prt_church,103,88,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶이전 페이지로<INFO>9053</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9057] = {Title = "JQ 레인저 전직", Search = 1, Image = "", 
@@ -6299,7 +6363,7 @@ Page = {"의욕이 가득한 라디미르는 두려움보다 의지가 앞서는 사람입니다.\n\t\t라디
 [9129] = {Title = "Q 일루전 오브 프로즌 100마리 처치(120)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"엘리시아는 다른 곳에 파견된 동료인 겁쟁이 지로커가 걱정이 되기는 하지만, 그보다 자신의 일이 우선이라는 사실을 잘 알고 있습니다.\n\t\t엘리시아가 있는 맵의 몬스터 100마리를 처치하는 것이 이번 임무입니다.\n  \n\t\t<NAVI>[엘리시아]<INFO>ice_dun02,142,18,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈레벨 120 이상^000000\n\n  <TIPBOX>▶이전 페이지로<INFO>9088</INFO></TIPBOX>\n  <TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"엘리시아는 다른 곳에 파견된 동료인 겁쟁이 지로커가 걱정이 되기는 하지만, 그보다 자신의 일이 우선이라는 사실을 잘 알고 있습니다.\n\t\t엘리시아가 있는 맵의 몬스터 100마리를 처치하는 것이 이번 임무입니다.\n  \n\t\t<NAVI>[엘리시아]<INFO>ice_d03_i,145,25,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈레벨 120 이상^000000\n\n  <TIPBOX>▶이전 페이지로<INFO>9088</INFO></TIPBOX>\n  <TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9130] = {Title = "Q 일루전 오브 구양궁 100마리 처치(150)", Search = 1, Image = "", 
@@ -6323,7 +6387,7 @@ Page = {"프론테라에서 가게를 경영하던 케시스는 대면업무에 스트레스를 느껴 조사단
 [9133] = {Title = "Q 일루전 오브 라비린스 100마리 처치(170)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"테리안에게는 다른 조사단원들과는 달리 자신의 학설을 연구하고자 하는 목적이 있는 것 같습니다.\n\t\t프론테라 미궁 숲의 몬스터 100마리를 처치하는 것이 이번 임무입니다.\n  \n\t\t<NAVI>[테리안]<INFO>prt_fild01,131,364,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈레벨 170 이상^000000\n\n  <TIPBOX>▶이전 페이지로<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"테리안에게는 다른 조사단원들과는 달리 자신의 학설을 연구하고자 하는 목적이 있는 것 같습니다.\n\t\t프론테라 미궁 숲의 몬스터 100마리를 처치하는 것이 이번 임무입니다.\n  \n\t\t<NAVI>[테리안]<INFO>prt_mz03_i,97,31,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈레벨 170 이상^000000\n\n  <TIPBOX>▶이전 페이지로<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [9134] = {Title = "Q 일루전 오브 언더워터 100마리 처치(180)", Search = 1, Image = "", 
@@ -7139,643 +7203,667 @@ Page = {"일루전 탐험에 자신이 있었던 세신은 생각보다 강한 적들과 마주하게 되어 �
 [10089] = {Title = "큐펫 리스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"테이밍 아이템을 사용하거나 쿠폰 또는 이벤트 등으로 획득 가능한 큐펫 리스트입니다.\n\n\t\t▶큐펫 리스트\n\t\t<TIPBOX>큐펫 풋내기 포링<INFO>10090</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포링<INFO>10091</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 마스터링<INFO>10092</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엔젤링<INFO>10093</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 드롭프스<INFO>10094</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에그링<INFO>10095</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포포링<INFO>10096</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 새끼 데저트 울프<INFO>10097</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 데저트 울프<INFO>10098</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오크 워리어<INFO>10099</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 하이오크<INFO>10100</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 화염고렘<INFO>10101</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 쁘띠<INFO>10102</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 지상 딜리터<INFO>10103</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 굳은 나이트메어 테러<INFO>10104</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 바포메트 주니어<INFO>10105</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 혼돈의 바포메트 주니어<INFO>10106</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 페코페코<INFO>10107</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그랜드 페코페코<INFO>10108</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 곰인형<INFO>10109</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 버려진 곰인형<INFO>10110</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리엇<INFO>10111</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리셀<INFO>10112</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스포아<INFO>10113</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포이즌 스포아<INFO>10114</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 이시스<INFO>10115</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리틀 이시스<INFO>10116</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 배회하는 자<INFO>10117</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오염된 배회하는 자<INFO>10118</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 무낙<INFO>10119</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 본건<INFO>10120</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 혜군<INFO>10121</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 소희<INFO>10122</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 요선녀<INFO>10123</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 구미호<INFO>10124</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 캣 오 나인테일<INFO>10125</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 인큐버스<INFO>10126</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 서큐버스<INFO>10127</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로커<INFO>10128</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 메틀러<INFO>10129</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 미이라<INFO>10130</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에인션트 미이라<INFO>10131</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 루나틱<INFO>10132</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리프 루나틱<INFO>10133</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 픽키<INFO>10134</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 촌촌<INFO>10135</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스틸 촌촌<INFO>10136</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 헌터 플라이<INFO>10137</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 세비지 베베<INFO>10138</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 세비지<INFO>10139</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스모키<INFO>10140</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 요요<INFO>10141</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 쵸코<INFO>10142</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 도깨비<INFO>10143</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 암 무트<INFO>10144</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 데비루치<INFO>10145</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 디아볼릭<INFO>10146</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리스<INFO>10147</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리자<INFO>10148</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 청이<INFO>10149</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리프캣<INFO>10150</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로리루리<INFO>10151</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 시노비<INFO>10152</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 미야비인형<INFO>10153</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 마리오네트<INFO>10154</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 위스퍼<INFO>10155</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스톤슈터<INFO>10157</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 임프<INFO>10158</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 틱버렁<INFO>10159</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그렘린<INFO>10160</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 호드렘린<INFO>10161</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크 프리스트<INFO>10162</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 윌로우<INFO>10163</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로우윈<INFO>10164</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 지르타스<INFO>10165</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬마 관리자β<INFO>10166</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬마 관리자α<INFO>10167</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스윗츠 드롭프스<INFO>10168</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 크리스마스 고블린<INFO>10169</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 고블린 리더<INFO>10170</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 묘괴<INFO>10171</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 눈토끼<INFO>10172</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 블루 유니콘<INFO>10173</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 딱딱한 떡<INFO>10174</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스캣레톤<INFO>10175</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스켈리온<INFO>10176</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 방황하는 오리인형<INFO>10177</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 고렘<INFO>10178</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 백소진<INFO>10179</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 월야화<INFO>10180</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 프리오니<INFO>10181</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오크 히어로<INFO>10182</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그룸 언더나이트<INFO>10183</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 키엘-D-01<INFO>10184</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 듀라한<INFO>10185</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 나이트메어 테러<INFO>10186</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 바포메트<INFO>10187</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 퍼밀리어<INFO>10188</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크 일루젼<INFO>10189</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 블루 문 로리루리<INFO>10190</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 와일드 로즈<INFO>10191</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 변이하는 백색의 기사<INFO>10192</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 심연의 기사<INFO>10193</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 백색의 기사<INFO>10194</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에드가<INFO>10195</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 메두사<INFO>10196</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"테이밍 아이템을 사용하거나 쿠폰 또는 이벤트 등으로 획득 가능한 큐펫 리스트입니다.\n\n\t\t▶큐펫 리스트\n\t\t<TIPBOX>큐펫 풋내기 포링<INFO>10090</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포링<INFO>10091</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 마스터링<INFO>10092</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엔젤링<INFO>10093</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 드롭프스<INFO>10094</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에그링<INFO>10095</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포포링<INFO>10096</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 새끼 데저트 울프<INFO>10097</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 데저트 울프<INFO>10098</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오크 워리어<INFO>10099</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 하이 오크<INFO>10100</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 화염 고렘<INFO>10101</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 쁘띠<INFO>10102</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 지상 딜리터<INFO>10103</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 굳은 나이트메어 테러<INFO>10104</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 바포메트 주니어<INFO>10105</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 혼돈의 바포메트 주니어<INFO>10106</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 페코페코<INFO>10107</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그랜드 페코<INFO>10108</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 곰인형<INFO>10109</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 버려진 곰인형<INFO>10110</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리엇<INFO>10111</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리셀<INFO>10112</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스포아<INFO>10113</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포이즌 스포아<INFO>10114</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 이시스<INFO>10115</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리틀 이시스<INFO>10116</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 배회하는 자<INFO>10117</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오염된 배회하는 자<INFO>10118</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 무낙<INFO>10119</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 본건<INFO>10120</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 혜군<INFO>10121</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 소희<INFO>10122</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 요선녀<INFO>10123</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 구미호<INFO>10124</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 캣 오 나인 테일<INFO>10125</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 인큐버스<INFO>10126</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 서큐버스<INFO>10127</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로커<INFO>10128</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 메틀러<INFO>10129</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 미이라<INFO>10130</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에인션트 미이라<INFO>10131</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 루나틱<INFO>10132</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리프 루나틱<INFO>10133</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 픽키<INFO>10134</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 촌촌<INFO>10135</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스틸 촌촌<INFO>10136</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 헌터 플라이<INFO>10137</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 세비지 베베<INFO>10138</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 세비지<INFO>10139</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스모키<INFO>10140</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 요요<INFO>10141</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 쵸코<INFO>10142</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 도깨비<INFO>10143</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 암 무트<INFO>10144</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 데비루치<INFO>10145</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 디아볼릭<INFO>10146</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리스<INFO>10147</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리자<INFO>10148</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 청이<INFO>10149</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리프캣<INFO>10150</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로리루리<INFO>10151</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 시노비<INFO>10152</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 미야비 인형<INFO>10153</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 마리오네트<INFO>10154</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 위스퍼<INFO>10155</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스톤슈터<INFO>10157</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 임프<INFO>10158</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 틱버렁<INFO>10159</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그렘린<INFO>10160</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 호드렘린<INFO>10161</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크 프리스트<INFO>10162</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 윌로우<INFO>10163</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로우윈<INFO>10164</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 지르타스<INFO>10165</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬마 관리자β<INFO>10166</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬마 관리자α<INFO>10167</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스윗츠 드롭프스<INFO>10168</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 크리스마스 고블린<INFO>10169</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 고블린 리더<INFO>10170</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 묘괴<INFO>10171</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 눈토끼<INFO>10172</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 블루 유니콘<INFO>10173</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 딱딱한 떡<INFO>10174</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스캣레톤<INFO>10175</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스켈리온<INFO>10176</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 방황하는 오리인형<INFO>10177</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 고렘<INFO>10178</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 백소진<INFO>10179</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 월야화<INFO>10180</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 프리오니<INFO>10181</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오크 히어로<INFO>10182</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그룸 언더 나이트<INFO>10183</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 키엘-D-01<INFO>10184</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 듀라한<INFO>10185</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 나이트메어 테러<INFO>10186</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 바포메트<INFO>10187</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 퍼밀리어<INFO>10188</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크일루젼<INFO>10189</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 블루 문 로리루리<INFO>10190</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 와일드 로즈<INFO>10191</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 변이하는 백색의 기사<INFO>10192</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 심연의 기사<INFO>10193</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 백색의 기사<INFO>10194</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에드가<INFO>10195</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 메두사<INFO>10196</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬뽀<INFO>10197</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 잿빛 아이스윈드<INFO>10198</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 아이스윈드<INFO>10199</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크 로드<INFO>10200</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10090] = {Title = "큐펫 풋내기 포링#풋사과#사과 쥬스", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 풋내기 포링. 풋사과 1개를 이용하여 테이밍 할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[사과 쥬스]<INFO>531</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9062]큐펫 풋내기 포링\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12846]\n\t\t\n\t\t▶ 먹이\n\t\t^i[531]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10091] = {Title = "큐펫 포링#덜익은 사과#사과 쥬스", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 포링. 덜익은 사과 1개를 이용하여 테이밍 할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[사과 쥬스]<INFO>531</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[책가방]<INFO>10013</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[마스터링]으로 진화할 수 있습니다.\n\t\t<TIPBOX>▶마스터링<INFO>10092</INFO></TIPBOX>\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9001]큐펫 포링\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[619]\n\t\t\n\t\t▶ 먹이\n\t\t^i[531]\n\n\t\t▶ 액세서리\n\t\t^i[10013]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 마스터링<INFO>10092</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10092] = {Title = "큐펫 마스터링#펫 푸드#덜익은 사과#이그드라실의 나뭇잎", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 마스터링. 덜익은 사과 3개와 이그드라실의 나뭇잎 10개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[엔젤링]으로 진화할 수 있습니다.\n\t\t<TIPBOX>▶엔젤링<INFO>10093</INFO></TIPBOX>\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9069]큐펫 마스터링\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 포링<INFO>10091</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[619]x3, ^i[610]x10\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷엔젤링<INFO>10093</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10093] = {Title = "큐펫 엔젤링#펫 푸드#덜익은 사과#영혼의 고리", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 엔젤링. 영혼의 고리 1개와 하얀허브 50개, 노란포션 20개, 젤로피 200개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9088]큐펫 엔젤링\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 마스터링<INFO>10092</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[2282]x1, ^i[509]x50,\n\t\t^i[503]x20, ^i[909]x200\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10094] = {Title = "큐펫 드롭프스#노란 허브#오렌지 쥬스", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 드롭프스. 오렌지 쥬스 1개를 이용하여 테이밍 할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[노란허브]<INFO>508</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[책가방]<INFO>10013</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[에그링],[스윗츠 드롭프스]으로 진화할 수 있습니다.\n\t\t<TIPBOX>▶에그링<INFO>10095</INFO></TIPBOX>\n\t\t<TIPBOX>▶스윗츠 드롭프스<INFO>10168</INFO></TIPBOX>\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9002]큐펫 드롭프스\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[620]\n\n\t\t▶ 먹이\n\t\t^i[508]\n\n\t\t▶ 액세서리\n\t\t^i[10013]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 에그링<INFO>10095</INFO></TIPBOX>\n\t\t<TIPBOX>▷큐펫 스윗츠 드롭프스<INFO>10168</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10095] = {Title = "큐펫 에그링#펫 푸드#달걀껍질 조각#헌후라이팬", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 에그링. 달걀껍질 조각 20개와 헌후라이팬 10개, 사과쥬스 3개, 에그링 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9092]큐펫 에그링\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 드롭프스<INFO>10094</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7032]x20, ^i[7031]x10,\n\t\t^i[531]x3, ^i[4659]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10096] = {Title = "큐펫 포포링#초록허브#쓰디쓴 풀", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 포포링. 쓰디쓴 풀 1개를 이용하여 테이밍 할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[초록허브]<INFO>511</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[책가방]<INFO>10013</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9003]큐펫 포포링\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[621]\n\n\t\t▶ 먹이\n\t\t^i[511]\n\n\t\t▶ 액세서리\n\t\t^i[10013]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10097] = {Title = "큐펫 새끼 데저트 울프#펫 푸드#잘 말린 뼈다귀", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 새끼 데저트울프. 잘 말린 뼈다귀 1개를 이용하여 테이밍 할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[투명한 머리 보호대]<INFO>10003</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[데저트 울프]로 진화할 수 있습니다.\n\t\t<TIPBOX>▶데저트 울프<INFO>10098</INFO></TIPBOX>\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9010]큐펫 새끼 데저트 울프\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[628]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10003]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 데저트 울프<INFO>10098</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10098] = {Title = "큐펫 데저트 울프#펫 푸드#잘 말린 뼈다귀", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 데저트울프. 잘 말린 뼈다귀 3개, 사맥 늑대의 발톱 300개, 동물의 가죽 20개, 데저트 울프 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9129]큐펫 데저트 울프\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 새끼 데저트 울프<INFO>10097</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[628]x3, ^i[7030]x300,\n\t\t^i[919]x20, ^i[4082]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10099] = {Title = "큐펫 오크 워리어#펫 푸드#조직의 쓴맛", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 오크 워리어. 조직의 쓴맛 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[야생화]<INFO>10009</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[하이오크]로 진화할 수 있습니다.\n\t\t<TIPBOX>▶하이오크<INFO>10100</INFO></TIPBOX>\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9017]큐펫 오크 워리어\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[635]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10009]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 하이오크<INFO>10100</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10100] = {Title = "큐펫 하이오크#펫 푸드#조직의 쓴맛", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 하이오크. 조직의 쓴맛 3개와 오키쉬 소드 1개, 오크전사의 증표 500개, 담배 1개, 오크 워리어 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[오크 히어로]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶오크 히어로<INFO>10182</INFO></TIPBOX>\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9087]큐펫 하이오크\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 오크 워리어<INFO>10099</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[635]x3, ^i[1124]x1,\n\t\t^i[931]x500, ^i[2267]x1,\n\t\t^i[4066]x1\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 오크 히어로<INFO>10182</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[10101] = {Title = "큐펫 화염고렘#펫 푸드#돌심장#마력의 석판", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+[10101] = {Title = "큐펫 화염 고렘#펫 푸드#돌심장#마력의 석판", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 화염고렘. 돌심장 500개와 마력의 석판 3개, 레드 블러드 20개, 화염 고렘카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9131]큐펫 화염 고렘\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 고렘<INFO>10178</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[953]x500, ^i[12371]x3,\n\t\t^i[990]x20, ^i[27029]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10102] = {Title = "큐펫 쁘띠#펫 푸드#반짝이는 돌", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 쁘띠. 반짝이는 돌 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[별모양 머리핀]<INFO>10011</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[지상 딜리터]로 진화할 수 있습니다.\n\t\t<TIPBOX>▶지상 딜리터<INFO>10103</INFO></TIPBOX>\n\n  \n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9022]큐펫 쁘띠\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[640]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10011]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 지상 딜리터<INFO>10103</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10103] = {Title = "큐펫 지상 딜리터#펫 푸드#쁘띠의 꼬리#알로에베라", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 지상 딜리터. 쁘띠의 꼬리 100개와 알로에베라 150개, 반짝이는 돌 3개, 지상 딜리터 카드 1개를 이용하여 진화시킬 수 있습니다. \n\n\t\t▶ 먹이\n\t\t<ITEM>[통 바베큐]<INFO>7822</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9098]큐펫 지상 딜리터\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 쁘띠<INFO>10102</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[6260]x100, ^i[606]x150,\n\t\t^i[640]x3, ^i[4279]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10104] = {Title = "큐펫 굳은 나이트메어 테러#펫 푸드#불타는 말발굽", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 굳은 나이트메어 테러. 불타는 말발굽 500개와 파란허브 100개, 단단한 껍질 100개, 나이트메어 테러 카드 1개를 이용하여 진화시킬 수 있습니다. \n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9116]큐펫 굳은 나이트메어 테러\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 나이트메어 테러<INFO>10186</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7120]x500, ^i[510]x100,\n\t\t^i[935]x100, ^i[4166]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10105] = {Title = "큐펫 바포메트 주니어#펫 푸드#악마소환서", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 바포메트 주니어. 악마소환서 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[꿀]<INFO>518</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[동물의 머리뼈 투구]<INFO>10001</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[혼돈의 바포메트 주니어]로 진화할 수 있습니다.\n\t\t<TIPBOX>▶혼돈의 바포메트 주니어<INFO>10106</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9024]큐펫 바포메트 주니어\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[642]\n\n\t\t▶ 먹이\n\t\t^i[518]\n\t\t\n\t\t▶ 액세서리\n\t\t^i[10001]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 혼돈의 바포메트 주니어<INFO>10106</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10106] = {Title = "큐펫 혼돈의 바포메트 주니어#펫 푸드#악마의 뿔", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 혼돈의 바포메트 주니어. 악마의 뿔 300개와 브리간 300개, 노란허브 100개. 혼돈의 바포메트 주니어 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[바포메트]로 진화할 수 있습니다.\n\t\t<TIPBOX>▶바포메트<INFO>10187</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9130]큐펫 혼돈의 바포메트 주니어\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 바포메트 주니어<INFO>10105</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[923]x300, ^i[7054]x300,\n\t\t^i[508]x100, ^i[27335]x1\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 바포메트<INFO>10187</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10107] = {Title = "큐펫 페코페코#펫 푸드#토실토실 살찐 지렁이", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 페코페코. 토실토실 살찐 지렁이 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[찌그러진 냄비]<INFO>10010</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[그랜드 페코페코]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶그랜드 페코페코<INFO>10108</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9014]큐펫 페코페코\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[632]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10010]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 그랜드 페코<INFO>10108</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[10108] = {Title = "큐펫 그랜드 페코페코#펫 푸드#토실토실 살찐 지렁이", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+[10108] = {Title = "큐펫 그랜드 페코#펫 푸드#토실토실 살찐 지렁이", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 그랜드 페코페코. 토실토실 살찐 지렁이 3개와 펫 푸드 10개, 페코 날개깃털 300개, 마스테라 열매 10개, 페코페코 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9071]큐펫 그랜드 페코\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 페코페코<INFO>10107</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[632]x3, ^i[537]x10,\n\t\t^i[7101]x300, ^i[522]x10,\n\t\t^i[4031]x1\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10109] = {Title = "큐펫 곰인형#솜뭉치#작은 인형바늘", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 곰인형. 작은 인형바늘 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[솜뭉치]<INFO>25233</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[버려진 곰인형],[엘리엇],[엘리셀]으로 진화할 수 있습니다.\n\t\t<TIPBOX>▶버려진 곰인형<INFO>10110</INFO></TIPBOX>\n\t\t<TIPBOX>▶엘리엇<INFO>10111</INFO></TIPBOX>\n\t\t<TIPBOX>▶엘리셀<INFO>10112</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9099]큐펫 곰인형\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[23189]\n\n\t\t▶ 먹이\n\t\t^i[25233]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 버려진 곰인형<INFO>10110</INFO></TIPBOX>\n\t\t<TIPBOX>▷큐펫 엘리엇<INFO>10111</INFO></TIPBOX>\n\t\t<TIPBOX>▷큐펫 엘리셀<INFO>10112</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10110] = {Title = "큐펫 버려진 곰인형#펫 푸드#저주받은 인", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 버려진 곰인형. 저주받은 인 300개와 저주받은 루비 50개, 작은 인형 바늘 3개, 곰인형 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9108]큐펫 버려진 곰인형\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 곰인형<INFO>10109</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7442]x300, ^i[724]x50,\n\t\t^i[23189]x3, ^i[4340]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[10111] = {Title = "큐펫 엘리엇#펫 푸드#녹슬어바린 나사#오팔", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+[10111] = {Title = "큐펫 엘리엇#펫 푸드#녹슬어버린 나사#오팔", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 엘리엇. 녹슬어버린 나사 500개와 꿀 100개, 오팔 10개, 곰인형 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[키엘-D-01]으로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶키엘-D-01<INFO>10184</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9118]큐펫 엘리엇\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 곰인형<INFO>10109</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7317]x500, ^i[518]x100,\n\t\t^i[727]x10, ^i[4340]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 키엘-D-01<INFO>10184</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[10112] = {Title = "큐펫 엘리셀#펫 푸드#녹슬어바린 나사#피묻은 책장", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+[10112] = {Title = "큐펫 엘리셀#펫 푸드#녹슬어버린 나사#피묻은 책장", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 엘리셀. 녹슬어버린 나사 500개와 꿀 100개, 피묻은 책장 50개, 곰인형 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9119]큐펫 엘리셀\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 곰인형<INFO>10109</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7317]x500, ^i[518]x100,\n\t\t^i[7449]x50, ^i[4340]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10113] = {Title = "큐펫 스포아#펫 푸드#아침이슬을 머금은 이끼", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 스포아. 아침이슬을 머금은 이끼 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[나무팬츠]<INFO>10017</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9012]큐펫 스포아\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[630]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10017]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10114] = {Title = "큐펫 포이즌 스포아#펫 푸드#맹독초", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 포이즌 스포아. 맹독초 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[나무팬츠]<INFO>10017</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9013]큐펫 포이즌 스포아\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[631]\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10017]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10115] = {Title = "큐펫 이시스#펫 푸드#복종의 팔찌", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 이시스. 복종의 팔찌 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[여왕의 머리장식]<INFO>10006</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[리틀 이시스]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶리틀 이시스<INFO>10116</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9021]큐펫 이시스\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[639]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10006]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 리틀 이시스<INFO>10116</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10116] = {Title = "큐펫 리틀 이시스#펫 푸드#복종의 팔찌3여왕의 머리장식", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 리틀 이시스. 복종의 팔찌 3개와 여왕의 머리장식 1개, 빛나는 비늘 300개, 다이아몬드 3캐럿 6개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9090]큐펫 리틀 이시스\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 이시스<INFO>10115</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[639]x3, ^i[10006]x1,\n\t\t^i[954]x300, ^i[732]x6\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10117] = {Title = "큐펫 배회하는 자#혼령주#낭인의 해골", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 배회하는 자. 낭인의 해골 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[혼령주]<INFO>7824</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[오염된 배회하는 자]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶오염된 배회하는 자<INFO>10118</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9037]큐펫 배회하는 자\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[14574]\n\n\t\t▶ 먹이\n\t\t^i[7824]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 오염된 배회하는 자<INFO>10118</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10118] = {Title = "큐펫 오염된 배회하는 자#펫 푸드#해골 바가지", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 오염된 배회하는 자. 해골바가지 500개와 투명한 천조각 100개, 성흔 50개, 배회하는 자 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9117]큐펫 오염된 배회하는 자\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 배회하는 자<INFO>10117</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7005]x500, ^i[1059]x100,\n\t\t^i[1009]x50, ^i[4210]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10119] = {Title = "큐펫 무낙#펫 푸드#수취인 불명", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 무낙. 수취인 불명 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[정신봉]<INFO>10008</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9018]큐펫 무낙\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[636]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10008]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10120] = {Title = "큐펫 본건#펫 푸드#그녀의 마음", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 본건. 그녀의 마음 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[영환도사의 검]<INFO>10020</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[혜군]으로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶혜군<INFO>10121</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9025]큐펫 본건\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[659]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10020]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 혜군<INFO>10121</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10121] = {Title = "큐펫 혜군#펫 푸드#무낙인형", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 혜군. 무낙인형 100개, 낡은 자화상 50개, 혜군 모자[1] 1개, 혜군 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9093]큐펫 혜군\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 본건<INFO>10120</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7277]x100, ^i[7014]x50,\n\t\t^i[5367]x1, ^i[4328]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10122] = {Title = "큐펫 소희#펫 푸드#순결의 은장도", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 소희. 순결의 은장도 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[금방울]<INFO>10016</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9020]큐펫 소희\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[638]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10016]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10123] = {Title = "큐펫 요선녀#아침 이슬#탐스러운 연꽃", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 요선녀. 탐스러운 연꽃 1개를 이용하여 테이밍할 수 있다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[아침 이슬]<INFO>6105</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[백소진]으로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶백소진<INFO>10179</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9047]큐펫 요선녀\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12365]\n\n\t\t▶ 먹이\n\t\t^i[6105]\n\n\t\t▶ 액세서리\n\t\t^i[10029]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 백소진<INFO>10179</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10124] = {Title = "큐펫 구미호#수상한 병#수액 젤리", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 구미호. 수액 젤리 1개를 이용하여 테이밍할 수 있다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[수상한 병]<INFO>25231</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[캣 오 나인테일]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶캣 오 나인테일<INFO>10125</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9095]큐펫 구미호\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[23187]\n\t\t\n\t\t▶ 먹이\n\t\t^i[25231]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 캣 오 나인테일<INFO>10125</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10125] = {Title = "큐펫 캣 오 나인테일#펫 푸드#여우의 꼬리", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 캣 오 나인테일. 여우의 꼬리 999개와 수액 젤리 3개, 정신봉 1개, 구미호 카드 1개를 이용하여 진화시킬 수 있다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[월야화]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶월야화<INFO>10180</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9096]큐펫 캣 오 나인테일\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 구미호<INFO>10124</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[1022]x999, ^i[23187]x3,\n\t\t^i[10008]x1, ^i[4159]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 월야화<INFO>10180</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10126] = {Title = "큐펫 인큐버스#생기있는 꽃#소녀의 순정", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 인큐버스. 소녀의 순정 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[생기있는 꽃]<INFO>6110</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[무도회 가면]<INFO>10034</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9052]큐펫 인큐버스\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12370]\n\n\t\t▶ 먹이\n\t\t^i[6110]\n\n\t\t▶ 액세서리\n\t\t^i[10034]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10127] = {Title = "큐펫 서큐버스#생기있는 꽃#소년의 순정", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 인큐버스. 소년의 순정 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[생기있는 꽃]<INFO>6113</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[검은 나비 가면]<INFO>10037</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9055]큐펫 서큐버스\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12373]\n\n\t\t▶ 먹이\n\t\t^i[6113]\n\n\t\t▶ 액세서리\n\t\t^i[10037]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10128] = {Title = "큐펫 로커#펫 푸드#노래하는 꽃", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 로커. 노래하는 꽃 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[메뚜기 안경]<INFO>10014</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[메틀러]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶메틀러<INFO>10129</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9011]큐펫 로커\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[629]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10014]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 메틀러<INFO>10129</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10129] = {Title = "큐펫 메틀러#펫 푸드#메뚜기의 뒷다리", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 메틀러. 메뚜기의 뒷다리 777개와 노란허브 200개, 노래하는 풀 3개, 메틀러 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9106]큐펫 메틀러\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 로커<INFO>10128</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[940]x777, ^i[508]x200,\n\t\t^i[707]x3, ^i[4057]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10130] = {Title = "큐펫 미이라#죽은자의 유품#영험한 붕대", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 미이라. 영험한 붕대 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[죽은자의 유품]<INFO>934</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[에인션트 미이라]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶에인션트 미이라<INFO>10131</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9102]큐펫 미이라\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[23256]\n\n\t\t▶ 먹이\n\t\t^i[934]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 에인션트 미이라<INFO>10131</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10131] = {Title = "큐펫 에인션트 미이라#펫 푸드#어둠의 룬", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 에인션트 미이라. 어둠의 룬 200개, 황금 30개, 영험한 붕대 3개, 에인션트 미이라 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9107]큐펫 에인션트 미이라\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 미이라<INFO>10130</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7511]x200, ^i[969]x30,\n\t\t^i[23256]x3, ^i[4248]x1\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10132] = {Title = "큐펫 루나틱#당근 쥬스#무지개색 당근", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 루나틱. 무지개색 당근 1개를 이용하에 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[당근 쥬스]<INFO>534</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[실크 리본]<INFO>10007</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[리프 루나틱]으로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶리프 루나틱<INFO>10133</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9004]큐펫 루나틱\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[622]\n\t\t\n\t\t▶ 먹이\n\t\t^i[534]\n\n\t\t▶ 액세서리\n\t\t^i[10007]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 리프 루나틱<INFO>10133</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10133] = {Title = "큐펫 리프 루나틱#펫 푸드#클로버", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 리프 루나틱. 클로버 250개와 네잎 클로버 30개, 커다란 잎사귀 100개, 리프 루나틱 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9094]큐펫 리프 루나틱\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 루나틱<INFO>10132</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[705]x250, ^i[706]x30,\n\t\t^i[7198]x100, ^i[4663]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10134] = {Title = "큐펫 픽키#빨간 허브#멋쟁이 청년 지렁이", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 픽키. 멋쟁이 청년 지렁이 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[빨간허브]<INFO>507</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[작은 알껍질]<INFO>10012</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9005]큐펫 픽키\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[623]\n\t\t\n\t\t▶ 먹이\n\t\t^i[507]\n\n\t\t▶ 액세서리\n\t\t^i[10012]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10135] = {Title = "큐펫 촌촌#펫 푸드#썩은 생선", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 촌촌. 썩은 생선 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[몬스터 산소 마스크]<INFO>10002</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9006]큐펫 촌촌\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[624]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10002]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10136] = {Title = "큐펫 스틸 촌촌#철광석#녹슬어버린 철", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 스틸 촌촌. 녹슬어버린 철 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[철광석]<INFO>1002</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[몬스터 산소 마스크]<INFO>10002</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9007]큐펫 스틸 촌촌\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[625]\n\n\t\t▶ 먹이\n\t\t^i[1002]\n\n\t\t▶ 액세서리\n\t\t^i[10002]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10137] = {Title = "큐펫 헌터 플라이#레드 젬스톤#몬스터 쥬스", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 헌터 플라이. 몬스터 쥬스 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[레드 젬스톤]<INFO>716</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[몬스터 산소 마스크]<INFO>10002</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9008]큐펫 헌터 플라이\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[626]\n\t\t\n\t\t▶ 먹이\n\t\t^i[716]\n\t\t\n\t\t▶ 액세서리\n\t\t^i[10002]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10138] = {Title = "큐펫 세비지 베베#펫 푸드#달콤한 우유", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 세비지 베베. 달콤한 우유 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[초록색 레이스]<INFO>10015</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[세비지]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶세비지<INFO>10139</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9009]큐펫 세비지 베베\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[627]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t^i[10015]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 세비지<INFO>10139</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10139] = {Title = "큐펫 세비지#펫 푸드#달콤한 우유", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 세비지. 달콤한 우유 3개와 펫 푸드 10개, 고기 100개, 부드러운털 50개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9070]큐펫 세비지\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 세비지 베베<INFO>10138</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[627]x3, ^i[537]x10,\n\t\t^i[517]x100, ^i[949]x50\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10140] = {Title = "큐펫 스모키#펫 푸드#구운 고구마", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 스모키. 구운 고구마 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[붉은색 머플러]<INFO>10019</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9015]큐펫 스모키\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[633]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10019]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10141] = {Title = "큐펫 요요#바나나 쥬스#열대의 바나나", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 요요. 열대의 바나나 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[바나나 쥬스]<INFO>532</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[원숭이 머리띠]<INFO>10018</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[쵸코]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶쵸코<INFO>10142</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9016]큐펫 요요\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[634]\n\t\t\n\t\t▶ 먹이\n\t\t^i[532]\n\n\t\t▶ 액세서리\n\t\t^i[10018]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 쵸코<INFO>10142</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10142] = {Title = "큐펫 쵸코#펫 푸드#열대의 바나나", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 쵸코. 열대의 바나나 3개와 원숭이 인형 2개, 카카오 300개, 요요 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9091]큐펫 쵸코\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 요요<INFO>10141</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[634]x3, ^i[753]x2,\n\t\t^i[7182]x300, ^i[4051]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10143] = {Title = "큐펫 도깨비#펫 푸드#헌 빗자루", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 도깨비. 헌 빗자루 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[패션 가발]<INFO>10005</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[암 무트]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶암 무트<INFO>10144</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9019]큐펫 도깨비\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[637]\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10005]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 암 무트<INFO>10144</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10144] = {Title = "큐펫 암 무트#펫 푸드#헌 빗자루", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 암 무트. 헌 빗자루 3개와 보라색 염료 3개, 도깨비의 뿔 300개, 황금 3개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9089]큐펫 암 무트\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 도깨비<INFO>10143</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[637]x3, ^i[981]x3,\n\t\t^i[1021]x300, ^i[969]x3\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10145] = {Title = "큐펫 데비루치#새싹#어둠의 계약서", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 데비루치. 어둠의 계약서 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[새싹]<INFO>711</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[꼭지]<INFO>10004</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[디아볼릭]으로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶디아볼릭<INFO>10146</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9023]큐펫 데비루치\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[641]\n\n\t\t▶ 먹이\n\t\t^i[711]\n\n\t\t▶ 액세서리\n\t\t^i[10004]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 디아볼릭<INFO>10146</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10146] = {Title = "큐펫 디아볼릭#펫 푸드#어둠의 계약서", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 디아볼릭. 어둠의 계약서 3개와 새끼악마의날개 250개, 성흔 30개, 데비루치 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고기야채꼬치]<INFO>7823</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9097]큐펫 디아볼릭\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 데비루치<INFO>10145</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[641]x3, ^i[1039]x250,\n\t\t^i[1009]x30, ^i[4122]x1\n\t\t\n\t\t▶ 먹이\n\t\t^i[7823]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10147] = {Title = "큐펫 엘리스#하얀 포션#하늘하늘한 앞치마", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 엘리스. 하늘하늘한 앞치마 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[하얀포션]<INFO>504</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[엘리자]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶엘리자<INFO>10148</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9027]큐펫 엘리스\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[661]\n\n\t\t▶ 먹이\n\t\t^i[504]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 엘리자<INFO>10148</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10148] = {Title = "큐펫 엘리자#펫 푸드#엘리스의 앞치마", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 엘리자. 엘리스의 앞치마 500개와 초록허브 200개, 에르늄 30개, 엘리스 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9120]큐펫 엘리자\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 엘리스<INFO>10147</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7047]x500, ^i[511]x200,\n\t\t^i[985]x30, ^i[4253]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10149] = {Title = "큐펫 청이#어린이 만두#탄탄면", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 청이. 탄탄면 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[어린이 만두]<INFO>6115</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9030]큐펫 청이\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12395]\n\n\t\t▶ 먹이\n\t\t^i[6115]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10150] = {Title = "큐펫 리프캣#등푸른 생선#매우 부드러운 풀", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 리프캣. 매우 부드러운 풀 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[등푸른 생선]<INFO>6096</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[초록 복주머니]<INFO>10023</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[와일드 로즈]로 진화할 수 있습니다.\n\t\t<TIPBOX>▶와일드 로즈<INFO>10191</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9041]큐펫 리프캣\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12359]\n\n\t\t▶ 먹이\n\t\t^i[6096]\n\n\t\t▶ 액세서리\n\t\t^i[10023]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 와일드 로즈<INFO>10191</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10151] = {Title = "큐펫 로리루리#달콤한 호박파이#새빨간 쥬스", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 로리루리. 새빨간 쥬스 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[달콤한 호박파이]<INFO>6097</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[패션 안경]<INFO>10024</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[블루 문 로리루리]로 진화할 수 있습니다.\n\t\t<TIPBOX>▶블루 문 로리루리<INFO>10190</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9042]큐펫 로리루리\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12360]\n\n\t\t▶ 먹이\n\t\t^i[6097]\n\n\t\t▶ 액세서리\n\t\t^i[10024]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 블루 문 로리루리<INFO>10190</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10152] = {Title = "큐펫 시노비#구운 떡#쿠로렌", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 시노비. 쿠로렌 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[구운 떡]<INFO>6099</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9044]큐펫 시노비\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12362]\n\n\t\t▶ 먹이\n\t\t^i[6099]\n\n\t\t▶ 액세서리\n\t\t^i[10026]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10153] = {Title = "큐펫 미야비 인형#잘익은 딸기#여자아이 인형", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 미야비 인형. 여자아이 인형 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[잘익은 딸기]<INFO>6106</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[여름 부채]<INFO>10030</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9048]큐펫 미야비 인형\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12366]\n\t\t\n\t\t▶ 먹이\n\t\t^i[6106]\n\n\t\t▶ 액세서리\n\t\t^i[10030]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10154] = {Title = "큐펫 마리오네트#작은 눈꽃#맛있는 빙수", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 마리오네트. 맛있는 빙수 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[작은 눈꽃]<INFO>6098</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9043]큐펫 마리오네트\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12361]\n\n\t\t▶ 먹이\n\t\t^i[6098]\n\n\t\t▶ 액세서리\n\t\t^i[10025]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10155] = {Title = "큐펫 위스퍼#음습한 어둠#맞춤 관", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 위스퍼. 맞춤 관 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[음습한 어둠]<INFO>6100</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9045]큐펫 위스퍼\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12363]\n\n\t\t▶ 먹이\n\t\t^i[6100]\n\n\t\t▶ 액세서리\n\t\t^i[10027]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10157] = {Title = "큐펫 스톤슈터#식물 영양제#기름야자 열매", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 스톤슈터. 기름야자 열매 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[식물 영양제]<INFO>6109</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9051]큐펫 스톤슈터\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12369]\n\n\t\t▶ 먹이\n\t\t^i[6109]\n\t\t\n\t\t▶ 액세서리\n\t\t^i[10033]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10158] = {Title = "큐펫 임프#불꽃 젬스톤#불꽃 얼음", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 임프. 불꽃 얼음 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[불꽃 젬스톤]<INFO>6114</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[뿔 보호대]<INFO>10038</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9056]큐펫 임프\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12374]\n\n\t\t▶ 먹이\n\t\t^i[6114]\n\n\t\t▶ 액세서리\n\t\t^i[10038]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10159] = {Title = "큐펫 틱버렁#괴물의 먹이#틱버렁 벨트", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 틱버렁. 틱버렁 벨트 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[괴물의 먹이]<INFO>528</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9059]큐펫 틱버렁\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12699]\n\n\t\t▶ 먹이\n\t\t^i[528]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10160] = {Title = "큐펫 그렘린#값싼 윤활유#비공정 부품", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 그렘린. 비공정 부품 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[값싼 윤활유]<INFO>25232</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[호드렘린]으로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶호드렘린<INFO>10161</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9100]큐펫 그렘린\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[23188]\n\n\t\t▶ 먹이\n\t\t^i[25232]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 호드렘린<INFO>10161</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10161] = {Title = "큐펫 호드렘린#펫 푸드#암흑의 의지", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 호드렘린. 암흑의 의지 200개와 음습한 어둠 50개, 비공정 부품 3개, 호드렘린 카드 1개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[그룸 언더나이트]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶그룸 언더나이트<INFO>10183</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9105]큐펫 호드렘린\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 그렘린<INFO>10160</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7340]x200, ^i[6100]x50,\n\t\t^i[23188]x3, ^i[4413]x1\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 그룸 언더 나이트<INFO>10183</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10162] = {Title = "큐펫 다크 프리스트#사악한 암수#어둠의 성서", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 다크 프리스트. 어둠의 성서 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[사악한 암수]<INFO>1000552</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[다크 일루젼]으로 진화할 수 있습니다.\n\t\t<TIPBOX>▶다크 일루젼<INFO>10189</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9128]큐펫 다크 프리스트\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[100796]\n\n\t\t▶ 먹이\n\t\t^i[1000552]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 다크일루젼<INFO>10189</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10163] = {Title = "큐펫 윌로우#결이 고운 나무조각#고목에 맺힌 이슬", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 윌로우. 고목에 맺힌 이슬 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[결이 고운 나무 조각]<INFO>1066</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9103]큐펫 윌로우\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[23257]\n\n\t\t▶ 먹이\n\t\t^i[1066]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10164] = {Title = "큐펫 로우윈#썩은 고기#악취나는 썩은 고기", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 로우윈. 악취나는 썩은 고기 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[썩은 고기]<INFO>7564</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9104]큐펫 로우윈\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[23258]\n\n\t\t▶ 먹이\n\t\t^i[7564]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10165] = {Title = "큐펫 지르타스#멈추지 않는 심장#금단의 붉은 양초", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 지르타스. 금단의 붉은 양초 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[멈추지 않는 심장]<INFO>929</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9026]큐펫 지르타스\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[660]\n\n\t\t▶ 먹이\n\t\t^i[929]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10166] = {Title = "큐펫 꼬마 관리자β#구름솜", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 꼬마 관리자β. 바르밀 티켓 30개로 교환할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[구름솜]<INFO>1000227</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[꼬마 헤드드레스β]<INFO>10043</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[꼬마 관리자α]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶꼬마 관리자α<INFO>10167</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9123]큐펫 꼬마 관리자β\n\t\t▶ 입수 방법:교환\n\t\t교환 아이템:^i[1000103]x30\n\t\t<NAVI>[꼬마 관리자β]<INFO>ba_in01,87,386,0,101,0</INFO></NAVI>\n\n\t\t▶ 먹이\n\t\t^i[1000227]\n\n\t\t▶ 액세서리\n\t\t^i[10043]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 꼬마 관리자α<INFO>10167</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10167] = {Title = "큐펫 꼬마 관리자α#펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 꼬마 관리자α. 바르밀 티켓 500개와 깨진 금속 파편 50개, 미지의 조각 10개로 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[꼬마 헤드드레스α]<INFO>10044</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9124]큐펫 꼬마 관리자α\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 꼬마 관리자β<INFO>10166</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[1000103]x500, ^i[7095]x50,\n\t\t^i[7094]x10\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t^i[10044]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10168] = {Title = "큐펫 스윗츠 드롭프스#사탕", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 스윗츠 드롭프스. 사탕 50개와 막대 사탕 50개, 스윗츠 축제 코인 500개, 드롭프스 카드 1개로 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[사탕]<INFO>529</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9109]큐펫 스윗츠 드롭프스\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 드롭프스<INFO>10094</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[529]x50, ^i[530]x50,\n\t\t^i[25290]x500, ^i[4004]x1\n\t\t\n\t\t▶ 먹이\n\t\t^i[529]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10169] = {Title = "큐펫 크리스마스 고블린#셀#달콤한 막대사탕", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 크리스마스 고블린. 달콤한 막대사탕 1개로 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[셀]<INFO>911</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9029]큐펫 크리스마스 고블린\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12225]\n\n\t\t▶ 먹이\n\t\t^i[911]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10170] = {Title = "큐펫 고블린 리더#커다란 셀#달콤한 막대사탕", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 고블린 리더. 지도자의 지팡이 1개로 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[커다란 셀]<INFO>6104</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[멋진 휘장]<INFO>10028</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9046]큐펫 고블린 리더\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12364]\n\n\t\t▶ 먹이\n\t\t^i[6104]\n\n\t\t▶ 액세서리\n\t\t^i[10028]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10171] = {Title = "큐펫 묘괴#향주#바람의 부채", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 묘괴. 바람의 부채 1개로 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[향주]<INFO>6095</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9040]큐펫 묘괴\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12358]\n\n\t\t▶ 먹이\n\t\t^i[6095]\n\n\t\t▶ 액세서리\n\t\t^i[10022]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10172] = {Title = "큐펫 눈토끼#사탕", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 눈토끼. 이벤트 기간 중에 눈토끼 알으로부터 획득할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[사탕]<INFO>529</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9058]큐펫 눈토끼\n\t\t▶ 입수 방법\n\t\t이벤트 기간 ^i[9058]에서 획득\n\n\t\t▶ 먹이\n\t\t^i[529]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10173] = {Title = "큐펫 블루 유니콘#펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 블루 유니콘. 이벤트 기간 중에 블루 유니콘의 알으로부터 획득할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫 푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9068]큐펫 블루 유니콘\n\t\t▶ 입수 방법\n\t\t이벤트 기간 ^i[9068]에서 획득\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10174] = {Title = "큐펫 딱딱한 떡#초록허브#신비한 찹쌀가루", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 딱딱한 떡. 신비한 찹쌀가루 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[초록허브]<INFO>511</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9028]큐펫 딱딱한 떡\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12340]\n\n\t\t▶ 먹이\n\t\t^i[511]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10175] = {Title = "큐펫 스캣레톤#맛좋은 물고기", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 스캣레톤. 할로윈 이벤트에서 퀘스트로 획득 가능합니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[맛좋은 물고기]<INFO>579</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[빨간 방울 목걸이]<INFO>10040</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[스켈리온]으로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶스켈리온<INFO>10176</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9101]큐펫 스캣레톤\n\t\t▶ 입수 방법\n\t\t할로윈 이벤트 기간 퀘스트로 획득\n\t\t<NAVI>[잭]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>\n\n\t\t▶ 먹이\n\t\t^i[579]\n\n\t\t▶ 액세서리\n\t\t^i[10040]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 스켈리온<INFO>10176</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10176] = {Title = "큐펫 스켈리온#맛있는 고기", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 스켈리온. 굘의 기억 2개와 맛있는 고기 100개, 쿠키뱃 100개를 이용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[맛있는 고기]<INFO>11616</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[암흑 갈기]<INFO>10042</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9113]큐펫 스켈리온\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 스캣레톤<INFO>10175</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[25408]x2, ^i[11616]x100,\n\t\t^i[11605]x100\n\n\t\t▶ 먹이\n\t\t^i[11616]\n\n\t\t▶ 액세서리\n\t\t^i[10042]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10177] = {Title = "큐펫 방황하는 오리인형#솜뭉치#반짝이는 인형 단추", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 방황하는 오리인형. 반짝이는 인형 단추 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[솜뭉치]<INFO>25233</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[오리인형의 별단추]<INFO>10045</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9125]큐펫 방황하는 오리인형\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[9897]\n\n\t\t▶ 먹이\n\t\t^i[25233]\n\n\t\t▶ 액세서리\n\t\t^i[10045]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10178] = {Title = "큐펫 고렘#마력 담긴 돌#마력의 석판", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 고렘. 마력의 석판 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[마력 담긴 돌]<INFO>6111</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[태엽]<INFO>10035</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[화염 고렘]으로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶화염 고렘<INFO>10101</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9053]큐펫 고렘\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12371]\n\n\t\t▶ 먹이\n\t\t^i[6111]\n\n\t\t▶ 액세서리\n\t\t^i[10035]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 화염 고렘<INFO>10101</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10179] = {Title = "큐펫 백소진#고급스러운 펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 백소진. 묘괴 카드 10개와 이매망량 카드 10개, 저파룡 카드 10개, 강력한 영혼의 정수 30개로 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고급스러운 펫 푸드]<INFO>25377</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9115]큐펫 백소진\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 요선녀<INFO>10123</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[4202]x10, ^i[4265]x10,\n\t\t^i[4272]x10, ^i[25375]x30\n\n\t\t▶ 먹이\n\t\t^i[25377]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10180] = {Title = "큐펫 월야화#고급스러운 펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 월야화. 구미호 카드 10개와 무낙 카드 10개, 소희 카드 10개, 강력한 영혼의 정수 30개로 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고급스러운 펫 푸드]<INFO>25377</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9112]큐펫 월야화\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 캣 오 나인테일<INFO>10125</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[4159]x10, ^i[4090]x10,\n\t\t^i[4100]x10, ^i[25375]x30\n\t\t\n\t\t▶ 먹이\n\t\t^i[25377]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10181] = {Title = "큐펫 프리오니#고급스러운 펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 프리오니. 강력한 영혼의 정수 30개로 교환할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고급스러운 펫 푸드]<INFO>25377</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9111]큐펫 프리오니\n\t\t▶ 입수 방법:교환\n\t\t교환 아이템:^i[25375]x30\n\t\t<NAVI>[초월자의 종복 골드핸드]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\n\t\t▶ 먹이\n\t\t^i[25377]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10182] = {Title = "큐펫 오크 히어로#고급스러운 펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 오크 히어로. 오크워리어 카드 10개와 오크베이비 카드 10개, 오크용자의 증표 10개, 강력한 영혼의 정수 30개로 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고급스러운 펫 푸드]<INFO>25377</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9121]큐펫 오크 히어로\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 하이오크<INFO>10100</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[4066]x10, ^i[4375]x10,\n\t\t^i[968]x10, ^i[25375]x30\n\n\t\t▶ 먹이\n\t\t^i[25377]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[10183] = {Title = "큐펫 그룸 언더나이트#고급스러운 펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+[10183] = {Title = "큐펫 그룸 언더 나이트#고급스러운 펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 그룸 언더나이트. 호드렘린 카드 10개와 아가브 카드 10개, 이실라 카드 10개, 강력한 영혼의 정수 30개로 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고급스러운 펫 푸드]<INFO>25377</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9122]큐펫 그룸 언더 나이트\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 호드렘린<INFO>10161</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[4413]x10, ^i[4409]x10,\n\t\t^i[4412]x10, ^i[25375]x30\n\n\t\t▶ 먹이\n\t\t^i[25377]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10184] = {Title = "큐펫 키엘-D-01#고급스러운 펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 키엘-D-01. 엘리엇 카드 10개와 엘리자 카드 10개, 엘리셀 카드 10개, 강력한 영혼의 정수 30개로 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고급스러운 펫 푸드]<INFO>25377</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음] \n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9126]큐펫 키엘-D-01\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 엘리엇<INFO>10111</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[4402]x10, ^i[4400]x10,\n\t\t^i[4401]x10, ^i[25375]x30\n\n\t\t▶ 먹이\n\t\t^i[25377]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음] \n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10185] = {Title = "큐펫 듀라한#죽음의 고리#고급 양주병", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 듀라한. 고급 양주병 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[선셋 온 더 락]<INFO>6107</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[죽음의 고리]<INFO>10031</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음] \n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9049]큐펫 듀라한\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12367]\n\n\t\t▶ 먹이\n\t\t^i[6107]\n\n\t\t▶ 액세서리\n\t\t^i[10031]\n\n\t\t▶ 진화 정보\n\t\t[없음] \n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10186] = {Title = "큐펫 나이트메어 테러#신선한 풀#지옥의 계약서", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 나이트메어 테러. 지옥의 계약서 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[신선한 풀]<INFO>6112</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t<ITEM>[지옥의 뿔]<INFO>10036</INFO></ITEM>\n\n\t\t▶ 진화 정보\n\t\t[굳은 나이트메어 테러]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶굳은 나이트메어 테러<INFO>10104</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9054]큐펫 나이트메어 테러\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12372]\n\n\t\t▶ 먹이\n\t\t^i[6112]\n\t\t\n\t\t▶ 액세서리\n\t\t^i[10036]\n\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 굳은 나이트메어 테러<INFO>10104</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10187] = {Title = "큐펫 바포메트#고급스러운 펫 푸드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 바포메트. 바포메트 주니어 카드 15개, 혼돈의 바포메트 주니어 카드 15개, 강력한 영혼의 정수 30개를 사용하여 진화시킬 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고급스러운 펫 푸드]<INFO>25377</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음] \n\n\t\t▶ 진화 정보\n\t\t[진화하지 않음] \n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9137]큐펫 바포메트\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 혼돈의 바포메트 주니어<INFO>10106</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[4129]x15, ^i[27335]x15,\n\t\t^i[25375]x30\n\n\t\t▶ 먹이\n\t\t^i[25377]\n\n\t\t▶ 액세서리\n\t\t[없음] \n\n\t\t▶ 진화 정보\n\t\t[없음] \n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10188] = {Title = "큐펫 퍼밀리어#모듬과일트랩#복합과일주스", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 퍼밀리어. 모듬 과일 트랩 1개를 이용하여 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[복합 과일 주스]<INFO>1000889</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[진화 정보 없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9138]큐펫 퍼밀리어\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[101331]\n\n\t\t▶ 먹이\n\t\t^i[1000889]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 정보\n\t\t[없음] \n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[10189] = {Title = "큐펫 다크 일루젼#진화#다크프리스트", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+[10189] = {Title = "큐펫 다크일루젼#진화#다크프리스트", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 다크 일루젼은 큐펫 다크 프리스트를 진화 시키면 얻을 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 재료\n\t\t<TIPBOX>◎큐펫 다크 프리스트<INFO>10162</INFO></TIPBOX>\n\t\t<ITEM>[해골 바가지]<INFO>7005</INFO></ITEM> 500개\n\t\t<ITEM>[로자리]<INFO>2608</INFO></ITEM> 1개\n\t\t<ITEM>[성흔]<INFO>1009</INFO></ITEM> 5개\n\t\t<ITEM>[다크프리스트 카드]<INFO>4171</INFO></ITEM> 10장\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9139]큐펫 다크일루젼\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 다크 프리스트<INFO>10162</INFO></TIPBOX> 진화\n\t\t▷진화 재료:\n\t\t^i[7005]x500, ^i[2608]x1,\n\t\t^i[1009]x5, ^i[4171]x10\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 다크 로드<INFO>10200</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10190] = {Title = "큐펫 블루 문 로리루리#진화", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 블루 문 로리루리는 큐펫 로리루리를 진화 시키면 얻을 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 재료\n\t\t<TIPBOX>◎큐펫 로리루리<INFO>10151</INFO></TIPBOX>\n\t\t<ITEM>[박쥐우리]<INFO>7214</INFO></ITEM> 500개\n\t\t<ITEM>[파란허브]<INFO>510</INFO></ITEM> 50개\n\t\t<ITEM>[로키의 속삭임]<INFO>7019</INFO></ITEM> 1개\n\t\t<ITEM>[로리루리 카드]<INFO>4191</INFO></ITEM> 10장\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9140]큐펫 블루 문 로리루리\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 로리루리<INFO>10151</INFO></TIPBOX> 진화\n\t\t▷진화 재료:\n\t\t^i[7214]x500, ^i[510]x50,\n\t\t^i[7019]x1, ^i[4191]x10\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10191] = {Title = "큐펫 와일드 로즈#진화#리프캣", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 와일드 로즈는 큐펫 리프캣을 진화 시키면 얻을 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫푸드]<INFO>537</INFO></ITEM>\n\n\t\t▶ 액세서리\n\t\t[없음]\n\n\t\t▶ 진화 재료\n\t\t<TIPBOX>◎큐펫 리프캣<INFO>10150</INFO></TIPBOX>\n\t\t<ITEM>[커다란 잎사귀]<INFO>7198</INFO></ITEM> 500개\n\t\t<ITEM>[검은 고양이 인형]<INFO>7206</INFO></ITEM> 200개\n\t\t<ITEM>[생선의 꼬리]<INFO>1023</INFO></ITEM> 200개\n\t\t<ITEM>[리프캣 카드]<INFO>4195</INFO></ITEM> 10장\n\t\t\n\t\t▶ 진화 정보\n\t\t[큐펫 에드가]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶큐펫 에드가<INFO>10195</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9141]큐펫 와일드 로즈\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 리프캣<INFO>10150</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[7198]x500, ^i[7206]x200,\n\t\t^i[1023]x200, ^i[4195]x10\n\n\t\t▶ 먹이\n\t\t^i[537]\n\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 에드가<INFO>10195</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10192] = {Title = "큐펫 변이하는 백색의 기사#진화", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<ITEM>[큐펫 변이하는 백색의 기사]<INFO>9133</INFO></ITEM> X주년 이벤트 기간 중에 골드핸드의 자판기를 통해 획득할 수 있습니다. 큐펫 심연의 기사와 큐펫 백색의 기사로 진화 시킬 수 있습니다.\n\n\t\t<NAVI>[골드핸드의 자판기]<INFO>prontera,165,303,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 먹이\n\t\t<ITEM>[펫푸드]<INFO>537</INFO></ITEM>\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[큐펫 심연의 기사], [큐펫 백색의 기사]로 진화시킬 수 있습니다.\n\t\t<TIPBOX>▶큐펫 심연의 기사<INFO>10193</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 백색의 기사<INFO>10194</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9133]큐펫 변이하는 백색의 기사\n\t\t▶ 입수 방법:교환\n\t\t교환 아이템:^i[25375]x10\n\t\t<NAVI>[초월자의 종복 골드핸드]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 심연의 기사<INFO>10193</INFO></TIPBOX>\n\t\t<TIPBOX>▷큐펫 백색의 기사<INFO>10194</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10193] = {Title = "큐펫 심연의 기사#진화", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<ITEM>[큐펫 심연의 기사]<INFO>9132</INFO></ITEM> 큐펫 변이하는 백색의 기사를 진화시켜 얻을 수 있다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫푸드]<INFO>537</INFO></ITEM>\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 재료\n\t\t<TIPBOX>◎큐펫 변이하는 백색의 기사<INFO>10192</INFO></TIPBOX>\n\t\t<ITEM>[어둠의 조각]<INFO>6089</INFO></ITEM> 100개\n\t\t<ITEM>[어둠의 룬]<INFO>7511</INFO></ITEM> 100개\n\t\t<ITEM>[죄악의 조각]<INFO>1000257</INFO></ITEM> 200개\n\t\t<ITEM>[심연의기사 카드]<INFO>4140</INFO></ITEM> 5개\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9132]큐펫 심연의 기사\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 변이하는 백색의 기사<INFO>10192</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[6089]x100, ^i[7511]x100,\n\t\t^i[1000257]x200, ^i[4140]x5\n\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10194] = {Title = "큐펫 백색의 기사#진화", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<ITEM>[큐펫 백색의 기사]<INFO>9134</INFO></ITEM> 큐펫 변이하는 백색의 기사를 진화시켜 얻을 수 있다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[펫푸드]<INFO>537</INFO></ITEM>\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 재료\n\t\t<TIPBOX>◎큐펫 변이하는 백색의 기사<INFO>10192</INFO></TIPBOX>\n\t\t<ITEM>[빛나는 둥근껍질]<INFO>25509</INFO></ITEM> 100개\n\t\t<ITEM>[빛나는 미역줄기]<INFO>1000831</INFO></ITEM> 100개\n\t\t<ITEM>[선의의 조각]<INFO>1000263</INFO></ITEM> 200개\n\t\t<ITEM>[백색의 기사단 카드]<INFO>4608</INFO></ITEM> 2개\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9134]큐펫 백색의 기사\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 변이하는 백색의 기사<INFO>10192</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[25509]x100, ^i[1000831]x100,\n\t\t^i[1000263]x200, ^i[4608]x2\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10195] = {Title = "큐펫 에드가#진화", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<ITEM>[큐펫 에드가]<INFO>9142</INFO></ITEM> 큐펫 와일드 로즈를 진화시켜 얻을 수 있다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[고급스러운 펫푸드]<INFO>25377</INFO></ITEM>\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 재료\n\t\t<TIPBOX>◎큐펫 와일드 로즈<INFO>10191</INFO></TIPBOX>\n\t\t<ITEM>[리프캣 카드]<INFO>4195</INFO></ITEM> 10개\n\t\t<ITEM>[와일드로즈 카드]<INFO>4257</INFO></ITEM> 10개\n\t\t<ITEM>[재규어 카드]<INFO>27124</INFO></ITEM> 10개\n\t\t<ITEM>[강력한 영혼의 정수]<INFO>25375</INFO></ITEM> 30개\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9142]큐펫 에드가\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 와일드 로즈<INFO>10191</INFO></TIPBOX> 진화\n\t\t▷진화 재료:\n\t\t^i[4195]x10, ^i[4257]x10,\n\t\t^i[27124]x10, ^i[25375]x30\n\t\t\n\t\t▶ 먹이\n\t\t^i[25377]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10196] = {Title = "큐펫 메두사", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"큐펫 메두사. <ITEM>[화려한 거울]<INFO>12368</INFO></ITEM> 1개를 사용해 테이밍할 수 있습니다.\n\n\t\t▶ 먹이\n\t\t<ITEM>[사과 푸딩]<INFO>6108</INFO></ITEM>\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[진화하지 않음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9050]큐펫 메두사\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[12368]\n\n\t\t▶ 먹이\n\t\t^i[6108]\n\t\t\n\t\t▶ 액세서리\n\t\t^i[10032]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10197] = {Title = "큐펫 꼬뽀", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"^i[9145]큐펫 꼬뽀\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[102202]\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 잿빛 아이스윈드<INFO>10198</INFO></TIPBOX>\n\t\t<TIPBOX>▷큐펫 아이스윈드<INFO>10199</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10198] = {Title = "큐펫 잿빛 아이스윈드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"^i[9146]큐펫 잿빛 아이스윈드\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 꼬뽀<INFO>10197</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[1001244]x200, ^i[1001247]x150,\n\t\t^i[1001246]x150, ^i[300457]x1\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10199] = {Title = "큐펫 아이스윈드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"^i[9147]큐펫 아이스윈드\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 꼬뽀<INFO>10197</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[1001245]x200, ^i[1001247]x150,\n\t\t^i[1001246]x150, ^i[300458]x1\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10200] = {Title = "큐펫 다크 로드", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"^i[9148]큐펫 다크 로드\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 다크일루젼<INFO>10189</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[4169]x10, ^i[4141]x10,\n\t\t^i[4171]x10, ^i[25375]x30\n\t\t\n\t\t▶ 먹이\n\t\t^i[25377]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 }
 main = function()

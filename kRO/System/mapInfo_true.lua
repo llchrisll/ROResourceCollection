@@ -4,6 +4,10 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["bl_depth2.rsw"] = {displayName = "바이오스피어 심층-어비스", notifyEnter = true, 
+signName = {subTitle = "바르문트의 바이오스피어", mainTitle = "심층-어비스"}
+, backgroundBmp = "dungeon"}
+, 
 ["1@vrpop.rsw"] = {displayName = "환상총서-무지개 길", notifyEnter = true, 
 signName = {subTitle = "환상총서-012", mainTitle = "무지개 길"}
 , backgroundBmp = "field"}
@@ -636,8 +640,8 @@ signName = {subTitle = "도서관", mainTitle = "기억의 회랑"}
 signName = {mainTitle = "수상전장 (手相戰場)"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["ba_chess.rsw"] = {displayName = "체크메이트", notifyEnter = true, 
-signName = {mainTitle = "체크메이트"}
+["ba_chess.rsw"] = {displayName = "체스 정원", notifyEnter = true, 
+signName = {mainTitle = "체스 정원"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["1@lost.rsw"] = {displayName = "시간에게 잊혀진 사육장", notifyEnter = true, 

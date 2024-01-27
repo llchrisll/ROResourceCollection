@@ -1339,5 +1339,23 @@ SignBoardList = {
 {"ba_in01", 87, 389, 5, IT_BMP, "item\\분홍색나비날개.bmp"}
 , 
 {"wolfvill", 164, 141, 5, IT_BMP, "item\\보라색나비날개.bmp"}
+, 
+{"ba_maison", 73, 169, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
+, 
+{"ba_maison", 193, 71, 5, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
+, 
+{"ba_maison", 193, 134, 5, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
+, 
+{"ba_maison", 297, 199, 5, IT_BMP, "유저인터페이스\\information\\over_guide.bmp"}
+, 
+{"prt_in", 253, 167, 0, IT_SIGNBOARD, "item\\코스츔변경티켓.bmp", "  미용 쿠폰,코스튬 변경 티켓", "#0x00FFFFFF"}
+, 
+{"alberta_in", 56, 137, 0, IT_SIGNBOARD, "item\\코스츔변경티켓.bmp", "  미용 쿠폰,코스튬 변경 티켓", "#0x00FFFFFF"}
+, 
+{"lhz_in02", 100, 138, 0, IT_SIGNBOARD, "item\\코스츔변경티켓.bmp", "  미용 쿠폰,코스튬 변경 티켓", "#0x00FFFFFF"}
+, 
+{"ra_in01", 194, 148, 0, IT_SIGNBOARD, "item\\코스츔변경티켓.bmp", "  미용 쿠폰,코스튬 변경 티켓", "#0x00FFFFFF"}
+, 
+{"lasagna", 135, 110, 0, IT_SIGNBOARD, "item\\코스츔변경티켓.bmp", "  미용 쿠폰,코스튬 변경 티켓", "#0x00FFFFFF"}
 }
 

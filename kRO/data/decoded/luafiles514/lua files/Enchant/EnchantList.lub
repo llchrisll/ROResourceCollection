@@ -14583,7 +14583,7 @@ Table[70] = CreateEnchantInfo()
 ;
 (Table[70]):ApproveRandomOption(true)
 ;
-(Table[70]):SetReset(false, 0, 0)
+(Table[70]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
 ;
 (Table[70]):SetCaution("¸¶½ºÅÍ ¿þÆù, ½¯µå ½¦µµ¿ì ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ÃÊ±âÈ­ ºÒ°¡")
 ;
@@ -14610,7 +14610,7 @@ Table[70] = CreateEnchantInfo()
 (((Table[70]).Slot)[2]):AddPerfectEnchant("M_Con3", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[70]).Slot)[2]):AddPerfectEnchant("M_Crt3", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC88134: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC88138: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[71] = CreateEnchantInfo()
 ;
@@ -14628,7 +14628,7 @@ Table[71] = CreateEnchantInfo()
 ;
 (Table[71]):ApproveRandomOption(true)
 ;
-(Table[71]):SetReset(false, 0, 0)
+(Table[71]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
 ;
 (Table[71]):SetCaution("M.µå·¡°ï ³ªÀÌÆ® ½¦µµ¿ì ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ÃÊ±âÈ­ ºÒ°¡")
 ;
@@ -14663,7 +14663,7 @@ Table[71] = CreateEnchantInfo()
 (((Table[71]).Slot)[2]):AddPerfectEnchant("DK_Soul_MC", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[71]).Slot)[2]):AddPerfectEnchant("DK_Soul_DB", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC88421: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC88429: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[72] = CreateEnchantInfo()
 ;
@@ -14681,7 +14681,7 @@ Table[72] = CreateEnchantInfo()
 ;
 (Table[72]):ApproveRandomOption(true)
 ;
-(Table[72]):SetReset(false, 0, 0)
+(Table[72]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
 ;
 (Table[72]):SetCaution("M.ÀÓÆä¸®¾ó °¡µå ½¦µµ¿ì ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ÃÊ±âÈ­ ºÒ°¡")
 ;
@@ -14712,7 +14712,7 @@ Table[72] = CreateEnchantInfo()
 (((Table[72]).Slot)[2]):AddPerfectEnchant("IG_Soul_SS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[72]).Slot)[2]):AddPerfectEnchant("IG_Soul_CR", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC88680: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC88692: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[73] = CreateEnchantInfo()
 ;
@@ -14730,7 +14730,7 @@ Table[73] = CreateEnchantInfo()
 ;
 (Table[73]):ApproveRandomOption(true)
 ;
-(Table[73]):SetReset(false, 0, 0)
+(Table[73]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
 ;
 (Table[73]):SetCaution("M.½¦µµ¿ì Å©·Î½º ½¦µµ¿ì ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ÃÊ±âÈ­ ºÒ°¡")
 ;
@@ -14763,7 +14763,7 @@ Table[73] = CreateEnchantInfo()
 (((Table[73]).Slot)[2]):AddPerfectEnchant("SHC_Soul_IC", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[73]).Slot)[2]):AddPerfectEnchant("SHC_Soul_SS", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC88953: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC88969: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[74] = CreateEnchantInfo()
 ;
@@ -14781,7 +14781,7 @@ Table[74] = CreateEnchantInfo()
 ;
 (Table[74]):ApproveRandomOption(true)
 ;
-(Table[74]):SetReset(false, 0, 0)
+(Table[74]):SetReset(false, 100000, 10000, {"S_Enchant_Essence", 1})
 ;
 (Table[74]):SetCaution("M.¾îºñ½º Ã¼ÀÌ¼­ ½¦µµ¿ì ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ÃÊ±âÈ­ ºÒ°¡")
 ;
@@ -14818,7 +14818,7 @@ Table[74] = CreateEnchantInfo()
 (((Table[74]).Slot)[2]):AddPerfectEnchant("ABC_Soul_AS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[74]).Slot)[2]):AddPerfectEnchant("ABC_Soul_FA", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC89254: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC89274: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[75] = CreateEnchantInfo()
 ;
@@ -14867,7 +14867,7 @@ Table[75] = CreateEnchantInfo()
 (((Table[75]).Slot)[2]):AddPerfectEnchant("CD_Soul_FL", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[75]).Slot)[2]):AddPerfectEnchant("CD_Soul_PT", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC89513: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC89533: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[76] = CreateEnchantInfo()
 ;
@@ -14918,7 +14918,7 @@ Table[76] = CreateEnchantInfo()
 (((Table[76]).Slot)[2]):AddPerfectEnchant("IQ_Soul_EX", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[76]).Slot)[2]):AddPerfectEnchant("IQ_Soul_FL", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC89786: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC89806: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[77] = CreateEnchantInfo()
 ;
@@ -14969,7 +14969,7 @@ Table[77] = CreateEnchantInfo()
 (((Table[77]).Slot)[2]):AddPerfectEnchant("MT_Soul_MS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[77]).Slot)[2]):AddPerfectEnchant("MT_Soul_TL", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC90059: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC90079: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[78] = CreateEnchantInfo()
 ;
@@ -15018,7 +15018,7 @@ Table[78] = CreateEnchantInfo()
 (((Table[78]).Slot)[2]):AddPerfectEnchant("BO_Soul_AZ", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[78]).Slot)[2]):AddPerfectEnchant("BO_Soul_EP", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC90318: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC90338: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[79] = CreateEnchantInfo()
 ;
@@ -15075,7 +15075,7 @@ Table[79] = CreateEnchantInfo()
 (((Table[79]).Slot)[2]):AddPerfectEnchant("WH_Soul_FT", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[79]).Slot)[2]):AddPerfectEnchant("WH_Soul_SW", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC90633: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC90653: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[80] = CreateEnchantInfo()
 ;
@@ -15124,7 +15124,7 @@ Table[80] = CreateEnchantInfo()
 (((Table[80]).Slot)[2]):AddPerfectEnchant("TR_Soul_RS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[80]).Slot)[2]):AddPerfectEnchant("TR_Soul_MF", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC90892: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC90912: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[81] = CreateEnchantInfo()
 ;
@@ -15187,7 +15187,7 @@ Table[81] = CreateEnchantInfo()
 (((Table[81]).Slot)[2]):AddPerfectEnchant("AG_Soul_ST", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[81]).Slot)[2]):AddPerfectEnchant("AG_Soul_RD", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC91249: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC91269: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[82] = CreateEnchantInfo()
 ;
@@ -15240,7 +15240,7 @@ Table[82] = CreateEnchantInfo()
 (((Table[82]).Slot)[2]):AddPerfectEnchant("EM_Soul_TD", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[82]).Slot)[2]):AddPerfectEnchant("EM_Soul_VS", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC91536: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC91556: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[83] = CreateEnchantInfo()
 ;
@@ -15295,7 +15295,7 @@ Table[83] = CreateEnchantInfo()
 (((Table[83]).Slot)[2]):AddPerfectEnchant("NW_Soul_MO", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[83]).Slot)[2]):AddPerfectEnchant("NW_Soul_GR", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC91837: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC91857: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[84] = CreateEnchantInfo()
 ;
@@ -15346,7 +15346,7 @@ Table[84] = CreateEnchantInfo()
 (((Table[84]).Slot)[2]):AddPerfectEnchant("SH_Soul_CS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[84]).Slot)[2]):AddPerfectEnchant("SH_Soul_HS", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC92110: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC92130: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[85] = CreateEnchantInfo()
 ;
@@ -15411,7 +15411,7 @@ Table[85] = CreateEnchantInfo()
 (((Table[85]).Slot)[2]):AddPerfectEnchant("SS_Soul_KN", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[85]).Slot)[2]):AddPerfectEnchant("SS_Soul_KG", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC92481: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC92501: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[86] = CreateEnchantInfo()
 ;
@@ -15466,7 +15466,7 @@ Table[86] = CreateEnchantInfo()
 (((Table[86]).Slot)[2]):AddPerfectEnchant("SKE_Soul_TG", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[86]).Slot)[2]):AddPerfectEnchant("SKE_Soul_SC", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC92782: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC92802: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[87] = CreateEnchantInfo()
 ;
@@ -15523,7 +15523,7 @@ Table[87] = CreateEnchantInfo()
 (((Table[87]).Slot)[2]):AddPerfectEnchant("SOA_Soul_SS", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[87]).Slot)[2]):AddPerfectEnchant("SOA_Soul_FG", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC93097: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC93117: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[88] = CreateEnchantInfo()
 ;
@@ -15586,7 +15586,7 @@ Table[88] = CreateEnchantInfo()
 (((Table[88]).Slot)[2]):AddPerfectEnchant("HN_Soul_GG", 0, {"S_Enchant_Essence", 5})
 ;
 (((Table[88]).Slot)[2]):AddPerfectEnchant("HN_Soul_NV", 0, {"S_Enchant_Essence", 5})
--- DECOMPILER ERROR at PC93454: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC93474: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[89] = CreateEnchantInfo()
 ;
@@ -15625,7 +15625,7 @@ Table[89] = CreateEnchantInfo()
 (((Table[89]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Ran2", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[89]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Mag2", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC93744: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC93764: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[90] = CreateEnchantInfo()
 ;
@@ -15656,7 +15656,7 @@ Table[90] = CreateEnchantInfo()
 (((Table[90]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Above", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[90]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_P_Full", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC93950: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC93970: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[91] = CreateEnchantInfo()
 ;
@@ -15691,7 +15691,7 @@ Table[91] = CreateEnchantInfo()
 (((Table[91]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Fi_Con", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[91]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Bu_Spl", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC94200: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC94220: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[92] = CreateEnchantInfo()
 ;
@@ -15718,7 +15718,7 @@ Table[92] = CreateEnchantInfo()
 (((Table[92]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Guard", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[92]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_Intel", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC94378: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC94398: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[93] = CreateEnchantInfo()
 ;
@@ -15757,7 +15757,7 @@ Table[93] = CreateEnchantInfo()
 (((Table[93]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_M_P", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[93]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_A_Force", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC94668: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC94688: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[94] = CreateEnchantInfo()
 ;
@@ -15796,7 +15796,7 @@ Table[94] = CreateEnchantInfo()
 (((Table[94]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_M_P", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
 ;
 (((Table[94]).Slot)[1]):AddPerfectEnchant("Ice_C_Orb_A_Force", 3000000, {"Ep20_Cat_Whiskers", 70}, {"Snow_F_Stone1", 60}, {"Snow_F_Stone2", 20}, {"Snow_F_Stone3", 10})
--- DECOMPILER ERROR at PC94958: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC94978: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[95] = CreateEnchantInfo()
 ;
@@ -15875,7 +15875,7 @@ Table[95] = CreateEnchantInfo()
 (((Table[95]).Slot)[2]):AddUpgradeEnchant("Snake_A_Matk_9", "Snake_A_Matk_10", 6000000, {"EP20_D_P_Extract", 30}, {"EP19_S_F_2_Extract", 25}, {"EP19_S_F_3_Extract", 20}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
 ;
 (((Table[95]).Slot)[1]):AddPerfectEnchant("Snake_G_Blessing", 8000000, {"EP20_D_P_Extract", 40}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
--- DECOMPILER ERROR at PC95790: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC95810: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[96] = CreateEnchantInfo()
 ;
@@ -15954,7 +15954,7 @@ Table[96] = CreateEnchantInfo()
 (((Table[96]).Slot)[2]):AddUpgradeEnchant("Snake_H_Matk_9", "Snake_H_Matk_10", 6000000, {"EP20_D_P_Extract", 30}, {"EP19_S_F_2_Extract", 25}, {"EP19_S_F_3_Extract", 20}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
 ;
 (((Table[96]).Slot)[1]):AddPerfectEnchant("Snake_G_Grace", 8000000, {"EP20_D_P_Extract", 40}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
--- DECOMPILER ERROR at PC96622: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC96642: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[97] = CreateEnchantInfo()
 ;
@@ -16033,7 +16033,7 @@ Table[97] = CreateEnchantInfo()
 (((Table[97]).Slot)[2]):AddUpgradeEnchant("Snake_S_Matk_9", "Snake_S_Matk_10", 6000000, {"EP20_D_P_Extract", 30}, {"EP19_S_F_2_Extract", 25}, {"EP19_S_F_3_Extract", 20}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
 ;
 (((Table[97]).Slot)[1]):AddPerfectEnchant("Snake_G_Glory", 8000000, {"EP20_D_P_Extract", 40}, {"EP20_D_Scale", 2}, {"EP19_D_P_Stone", 1})
--- DECOMPILER ERROR at PC97454: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC97474: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[98] = CreateEnchantInfo()
 ;
@@ -16070,7 +16070,7 @@ Table[98] = CreateEnchantInfo()
 (((Table[98]).Slot)[1]):AddPerfectEnchant("Isgard_2_Assassin2", 8000000, {"EP19_S_F_3_Extract", 10}, {"Ep20_Cat_Whiskers", 250}, {"Ep19_Snow_Flower", 500})
 ;
 (((Table[98]).Slot)[1]):AddPerfectEnchant("Isgard_2_Mage2", 8000000, {"EP19_S_F_3_Extract", 10}, {"Ep20_Cat_Whiskers", 250}, {"Ep19_Snow_Flower", 500})
--- DECOMPILER ERROR at PC97714: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC97734: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[99] = CreateEnchantInfo()
 ;
@@ -16127,7 +16127,7 @@ Table[99] = CreateEnchantInfo()
 (((Table[99]).Slot)[1]):AddUpgradeEnchant("Flame_Earth_R_8", "Flame_Earth_R_9", 5500000, {"Barmund_Flame_Essence", 55}, {"Barmund_Plain_Essence", 55}, {"Bar_D_Fl_Rune", 65}, {"Bar_D_Ea_Rune", 65}, {"Bar_D_Fl_Essence", 50}, {"Bar_D_Ea_Essence", 50})
 ;
 (((Table[99]).Slot)[1]):AddUpgradeEnchant("Flame_Earth_R_9", "Flame_Earth_R_10", 6000000, {"Bar_D_Fl_Rune", 80}, {"Bar_D_Ea_Rune", 80}, {"Bar_D_Fl_Essence", 70}, {"Bar_D_Ea_Essence", 70})
--- DECOMPILER ERROR at PC98328: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC98348: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[100] = CreateEnchantInfo()
 ;
@@ -16184,7 +16184,7 @@ Table[100] = CreateEnchantInfo()
 (((Table[100]).Slot)[1]):AddUpgradeEnchant("Ice_Storm_R_8", "Ice_Storm_R_9", 5500000, {"Barmund_Ice_Essence", 55}, {"Barmund_Plain_Essence", 55}, {"Bar_D_Ic_Rune", 65}, {"Bar_D_St_Rune", 65}, {"Bar_D_Ic_Essence", 50}, {"Bar_D_St_Essence", 50})
 ;
 (((Table[100]).Slot)[1]):AddUpgradeEnchant("Ice_Storm_R_9", "Ice_Storm_R_10", 6000000, {"Bar_D_Ic_Rune", 80}, {"Bar_D_St_Rune", 80}, {"Bar_D_Ic_Essence", 70}, {"Bar_D_St_Essence", 70})
--- DECOMPILER ERROR at PC98942: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC98962: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[101] = CreateEnchantInfo()
 ;
@@ -16241,7 +16241,7 @@ Table[101] = CreateEnchantInfo()
 (((Table[101]).Slot)[1]):AddUpgradeEnchant("Soul_Purify_R_8", "Soul_Purify_R_9", 5500000, {"Barmund_Soul_Essence", 55}, {"Barmund_Temple_Essence", 55}, {"Bar_D_So_Rune", 65}, {"Bar_D_Pu_Rune", 65}, {"Bar_D_So_Essence", 50}, {"Bar_D_Pu_Essence", 50})
 ;
 (((Table[101]).Slot)[1]):AddUpgradeEnchant("Soul_Purify_R_9", "Soul_Purify_R_10", 6000000, {"Bar_D_So_Rune", 80}, {"Bar_D_Pu_Rune", 80}, {"Bar_D_So_Essence", 70}, {"Bar_D_Pu_Essence", 70})
--- DECOMPILER ERROR at PC99556: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC99576: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[102] = CreateEnchantInfo()
 ;
@@ -16298,7 +16298,7 @@ Table[102] = CreateEnchantInfo()
 (((Table[102]).Slot)[1]):AddUpgradeEnchant("Corrupt_Poison_R_8", "Corrupt_Poison_R_9", 5500000, {"Barmund_Death_Essence", 55}, {"Barmund_Venom_Essence", 55}, {"Bar_D_Co_Rune", 65}, {"Bar_D_Po_Rune", 65}, {"Bar_D_Co_Essence", 50}, {"Bar_D_Po_Essence", 50})
 ;
 (((Table[102]).Slot)[1]):AddUpgradeEnchant("Corrupt_Poison_R_9", "Corrupt_Poison_R_10", 6000000, {"Bar_D_Co_Rune", 80}, {"Bar_D_Po_Rune", 80}, {"Bar_D_Co_Essence", 70}, {"Bar_D_Po_Essence", 70})
--- DECOMPILER ERROR at PC100170: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC100190: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[103] = CreateEnchantInfo()
 ;
@@ -16507,7 +16507,7 @@ Table[103] = CreateEnchantInfo()
 (((Table[103]).Slot)[2]):SetEnchant(4, "Satanic_Badge", 9900)
 ;
 (((Table[103]).Slot)[2]):SetEnchant(4, "Dragoon_Badge", 9900)
--- DECOMPILER ERROR at PC101266: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC101286: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[104] = CreateEnchantInfo()
 ;
@@ -16658,7 +16658,7 @@ Table[104] = CreateEnchantInfo()
 (((Table[104]).Slot)[2]):AddUpgradeEnchant("Tenacity2", "Tenacity3", 0, {"¿À¿°µÈ¸¶·Â", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[104]).Slot)[2]):AddUpgradeEnchant("ÆÐ±â2", "ÆÐ±â3", 0, {"¿À¿°µÈ¸¶·Â", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC102211: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC102231: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[105] = CreateEnchantInfo()
 ;
@@ -16707,7 +16707,7 @@ Table[105] = CreateEnchantInfo()
 (((Table[105]).Slot)[2]):SetEnchant(0, "F_Crystal_ATK", 20000)
 ;
 (((Table[105]).Slot)[2]):SetEnchant(0, "F_Crystal_MHP", 20000)
--- DECOMPILER ERROR at PC102444: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC102464: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[106] = CreateEnchantInfo()
 ;
@@ -16756,7 +16756,7 @@ Table[106] = CreateEnchantInfo()
 (((Table[106]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_CD", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[106]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_CD", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC102863: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC102883: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[107] = CreateEnchantInfo()
 ;
@@ -16805,7 +16805,7 @@ Table[107] = CreateEnchantInfo()
 (((Table[107]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_IQ", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[107]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_IQ", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC103282: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC103302: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[108] = CreateEnchantInfo()
 ;
@@ -16854,7 +16854,7 @@ Table[108] = CreateEnchantInfo()
 (((Table[108]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SOA", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[108]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SOA", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC103701: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC103721: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[109] = CreateEnchantInfo()
 ;
@@ -16903,7 +16903,7 @@ Table[109] = CreateEnchantInfo()
 (((Table[109]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_BO", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[109]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_BO", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC104120: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC104140: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[110] = CreateEnchantInfo()
 ;
@@ -16952,7 +16952,7 @@ Table[110] = CreateEnchantInfo()
 (((Table[110]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_DK", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[110]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_DK", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC104539: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC104559: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[111] = CreateEnchantInfo()
 ;
@@ -17001,7 +17001,7 @@ Table[111] = CreateEnchantInfo()
 (((Table[111]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SH", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[111]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SH", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC104958: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC104978: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[114] = CreateEnchantInfo()
 ;
@@ -17050,7 +17050,7 @@ Table[114] = CreateEnchantInfo()
 (((Table[114]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_EM", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[114]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_EM", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC105377: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC105397: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[115] = CreateEnchantInfo()
 ;
@@ -17099,7 +17099,7 @@ Table[115] = CreateEnchantInfo()
 (((Table[115]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_WH", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[115]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_WH", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC105796: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC105816: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[116] = CreateEnchantInfo()
 ;
@@ -17148,7 +17148,7 @@ Table[116] = CreateEnchantInfo()
 (((Table[116]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SKE", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[116]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SKE", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC106215: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC106235: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[117] = CreateEnchantInfo()
 ;
@@ -17293,7 +17293,7 @@ Table[117] = CreateEnchantInfo()
 (((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_14", "Life_of_Spring_13", 45000)
 ;
 (((Table[117]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_14", "Life_of_Spring_15", 55000)
--- DECOMPILER ERROR at PC107750: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC107770: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[118] = CreateEnchantInfo()
 ;
@@ -17508,7 +17508,7 @@ Table[118] = CreateEnchantInfo()
 (((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_19", "Life_of_Spring_18", 70000)
 ;
 (((Table[118]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Spring_19", "Life_of_Spring_20", 30000)
--- DECOMPILER ERROR at PC109967: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC109987: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[119] = CreateEnchantInfo()
 ;
@@ -17653,7 +17653,7 @@ Table[119] = CreateEnchantInfo()
 (((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_14", "Life_of_Summer_13", 45000)
 ;
 (((Table[119]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_14", "Life_of_Summer_15", 55000)
--- DECOMPILER ERROR at PC111502: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC111522: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[120] = CreateEnchantInfo()
 ;
@@ -17868,7 +17868,7 @@ Table[120] = CreateEnchantInfo()
 (((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_19", "Life_of_Summer_18", 70000)
 ;
 (((Table[120]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Summer_19", "Life_of_Summer_20", 30000)
--- DECOMPILER ERROR at PC113719: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC113739: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[121] = CreateEnchantInfo()
 ;
@@ -18013,7 +18013,7 @@ Table[121] = CreateEnchantInfo()
 (((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_14", "Life_of_Autumn_13", 45000)
 ;
 (((Table[121]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_14", "Life_of_Autumn_15", 55000)
--- DECOMPILER ERROR at PC115254: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC115274: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[122] = CreateEnchantInfo()
 ;
@@ -18228,7 +18228,7 @@ Table[122] = CreateEnchantInfo()
 (((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_19", "Life_of_Autumn_18", 70000)
 ;
 (((Table[122]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Autumn_19", "Life_of_Autumn_20", 30000)
--- DECOMPILER ERROR at PC117471: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC117491: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[123] = CreateEnchantInfo()
 ;
@@ -18373,7 +18373,7 @@ Table[123] = CreateEnchantInfo()
 (((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_14", "Life_of_Winter_13", 45000)
 ;
 (((Table[123]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_14", "Life_of_Winter_15", 55000)
--- DECOMPILER ERROR at PC119006: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC119026: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[124] = CreateEnchantInfo()
 ;
@@ -18588,7 +18588,7 @@ Table[124] = CreateEnchantInfo()
 (((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_19", "Life_of_Winter_18", 70000)
 ;
 (((Table[124]).Slot)[1]):AddRandomUpgradeEnchant("Life_of_Winter_19", "Life_of_Winter_20", 30000)
--- DECOMPILER ERROR at PC121223: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC121243: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[125] = CreateEnchantInfo()
 ;
@@ -18637,7 +18637,7 @@ Table[125] = CreateEnchantInfo()
 (((Table[125]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_MT", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[125]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_MT", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC121642: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC121662: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[126] = CreateEnchantInfo()
 ;
@@ -18686,7 +18686,7 @@ Table[126] = CreateEnchantInfo()
 (((Table[126]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SHC", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[126]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SHC", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC122061: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC122081: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[127] = CreateEnchantInfo()
 ;
@@ -18735,7 +18735,7 @@ Table[127] = CreateEnchantInfo()
 (((Table[127]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_SS", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[127]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_SS", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC122480: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC122500: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[128] = CreateEnchantInfo()
 ;
@@ -18756,6 +18756,18 @@ Table[128] = CreateEnchantInfo()
 (Table[128]):AddTargetItem("S_Stout_Pendant")
 ;
 (Table[128]):AddTargetItem("S_Stout_Earring")
+;
+(Table[128]):AddTargetItem("S_Full_Spell_Armor")
+;
+(Table[128]):AddTargetItem("S_Full_Spell_Shoes")
+;
+(Table[128]):AddTargetItem("S_Centering_Pendant")
+;
+(Table[128]):AddTargetItem("S_Centering_Earring")
+;
+(Table[128]):AddTargetItem("S_Witty_Pendant")
+;
+(Table[128]):AddTargetItem("S_Witty_Earring")
 ;
 (Table[128]):SetCondition(0, 0)
 ;
@@ -18932,7 +18944,7 @@ Table[128] = CreateEnchantInfo()
 (((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_4", "Shadow_SP_3", 60000)
 ;
 (((Table[128]).Slot)[2]):AddRandomUpgradeEnchant("Shadow_SP_4", "Shadow_SP_5", 40000)
--- DECOMPILER ERROR at PC123671: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC123727: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[129] = CreateEnchantInfo()
 ;
@@ -18981,7 +18993,7 @@ Table[129] = CreateEnchantInfo()
 (((Table[129]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_ABC", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[129]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_ABC", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC124090: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC124146: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[130] = CreateEnchantInfo()
 ;
@@ -19030,7 +19042,7 @@ Table[130] = CreateEnchantInfo()
 (((Table[130]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_TR", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[130]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_TR", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
--- DECOMPILER ERROR at PC124509: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC124565: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[131] = CreateEnchantInfo()
 ;
@@ -19079,4 +19091,1537 @@ Table[131] = CreateEnchantInfo()
 (((Table[131]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_HN", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 ;
 (((Table[131]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_HN", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC124984: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[132] = CreateEnchantInfo()
+;
+(Table[132]):SetSlotOrder(3, 2, 1)
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_DK")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_IG")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_MT")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_BO")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_SHC")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_ABC")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_AG")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_EM")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_CD")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_IQ")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_WH")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_TR")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_SS")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_NW")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_SKE")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_SOA")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_HN")
+;
+(Table[132]):AddTargetItem_Duplicate("Time_DM_R_Crown_SH")
+;
+(Table[132]):SetCondition(0, 0)
+;
+(Table[132]):ApproveRandomOption(true)
+;
+(Table[132]):SetReset(true, 100000, 0, {"Zelunium", 15}, {"Shadowdecon", 15}, {"Etel_Dust", 30})
+;
+(Table[132]):SetCaution("Å¸ÀÓ µð¸à¼ÇÁî ·é Å©¶ó¿î ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ÃÊ±âÈ­ °¡´É : ÃÊ±âÈ­ È®·ü 100%")
+;
+(((Table[132]).Slot)[3]):SetRequire(0, {"Abyss_Rune", 5})
+;
+(((Table[132]).Slot)[3]):SetSuccessRate(100000)
+;
+(((Table[132]).Slot)[3]):SetGradeBonus(1, 0)
+;
+(((Table[132]).Slot)[3]):SetGradeBonus(2, 0)
+;
+(((Table[132]).Slot)[3]):SetGradeBonus(3, 0)
+;
+(((Table[132]).Slot)[3]):SetGradeBonus(4, 0)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "Èû2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "ÀÎÆ®2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "¹ÙÅ»2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "·°2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "Èû1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "ÀÎÆ®1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "¹ÙÅ»1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "·°1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "Èû3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "ÀÎÆ®3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "¹ÙÅ»3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "·°3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "Èû5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "ÀÎÆ®5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "¹ÙÅ»5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "·°5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "Èû4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "ÀÎÆ®4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "¹ÙÅ»4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(0, "·°4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "Èû2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "ÀÎÆ®2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "¹ÙÅ»2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "·°2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "Èû1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "ÀÎÆ®1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "¹ÙÅ»1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "·°1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "Èû3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "ÀÎÆ®3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "¹ÙÅ»3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "·°3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "Èû5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "ÀÎÆ®5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "¹ÙÅ»5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "·°5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "Èû4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "ÀÎÆ®4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "¹ÙÅ»4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(1, "·°4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "Èû2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "ÀÎÆ®2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "¹ÙÅ»2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "·°2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "Èû1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "ÀÎÆ®1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "¹ÙÅ»1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "·°1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "Èû3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "ÀÎÆ®3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "¹ÙÅ»3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "·°3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "Èû5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "ÀÎÆ®5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "¹ÙÅ»5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "·°5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "Èû4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "ÀÎÆ®4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "¹ÙÅ»4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(2, "·°4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "Èû2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "ÀÎÆ®2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "¹ÙÅ»2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "·°2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "Èû1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "ÀÎÆ®1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "¹ÙÅ»1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "·°1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "Èû3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "ÀÎÆ®3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "¹ÙÅ»3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "·°3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "Èû5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "ÀÎÆ®5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "¹ÙÅ»5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "·°5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "Èû4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "ÀÎÆ®4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "¹ÙÅ»4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(3, "·°4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "Èû2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "ÀÎÆ®2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "¹ÙÅ»2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "·°2", 8000)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "Èû1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "ÀÎÆ®1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "¹ÙÅ»1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "·°1", 11500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "Èû3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "ÀÎÆ®3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "¹ÙÅ»3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "·°3", 3500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "Èû5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "ÀÎÆ®5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "¹ÙÅ»5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "·°5", 500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "Èû4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "ÀÎÆ®4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "¹ÙÅ»4", 1500)
+;
+(((Table[132]).Slot)[3]):SetEnchant(4, "·°4", 1500)
+;
+(((Table[132]).Slot)[2]):SetRequire(0, {"Abyss_Rune", 10})
+;
+(((Table[132]).Slot)[2]):SetSuccessRate(100000)
+;
+(((Table[132]).Slot)[2]):SetGradeBonus(1, 0)
+;
+(((Table[132]).Slot)[2]):SetGradeBonus(2, 0)
+;
+(((Table[132]).Slot)[2]):SetGradeBonus(3, 0)
+;
+(((Table[132]).Slot)[2]):SetGradeBonus(4, 0)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_STR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_AGI_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_DEX_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_VIT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_INT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_SPR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_WIS_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_LUK_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_STR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_AGI_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_DEX_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_VIT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_INT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_SPR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_WIS_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_LUK_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_STR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_AGI_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_DEX_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_VIT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_INT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_SPR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_WIS_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(0, "T_D_Jewel_LUK_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_STR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_AGI_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_DEX_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_VIT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_INT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_SPR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_WIS_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_LUK_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_STR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_AGI_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_DEX_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_VIT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_INT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_SPR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_WIS_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_LUK_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_STR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_AGI_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_DEX_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_VIT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_INT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_SPR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_WIS_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(1, "T_D_Jewel_LUK_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_STR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_AGI_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_DEX_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_VIT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_INT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_SPR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_WIS_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_LUK_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_STR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_AGI_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_DEX_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_VIT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_INT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_SPR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_WIS_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_LUK_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_STR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_AGI_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_DEX_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_VIT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_INT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_SPR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_WIS_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(2, "T_D_Jewel_LUK_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_STR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_AGI_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_DEX_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_VIT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_INT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_SPR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_WIS_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_LUK_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_STR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_AGI_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_DEX_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_VIT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_INT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_SPR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_WIS_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_LUK_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_STR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_AGI_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_DEX_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_VIT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_INT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_SPR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_WIS_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(3, "T_D_Jewel_LUK_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_STR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_AGI_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_DEX_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_VIT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_INT_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_SPR_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_WIS_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_LUK_1", 7000)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_STR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_AGI_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_DEX_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_VIT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_INT_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_SPR_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_WIS_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_LUK_3", 1800)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_STR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_AGI_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_DEX_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_VIT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_INT_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_SPR_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_WIS_2", 3700)
+;
+(((Table[132]).Slot)[2]):SetEnchant(4, "T_D_Jewel_LUK_2", 3700)
+;
+(((Table[132]).Slot)[1]):SetRequire(0, {"Time_D_Ma_Rune", 2})
+;
+(((Table[132]).Slot)[1]):SetSuccessRate(100000)
+;
+(((Table[132]).Slot)[1]):SetGradeBonus(1, 0)
+;
+(((Table[132]).Slot)[1]):SetGradeBonus(2, 0)
+;
+(((Table[132]).Slot)[1]):SetGradeBonus(3, 0)
+;
+(((Table[132]).Slot)[1]):SetGradeBonus(4, 0)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Ã·¿¹1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "¸í±Ã1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "°ø°ÝÈÄµô·¹ÀÌ1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "¸¶·Â1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Ã·¿¹3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "¸í±Ã3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "°ø°ÝÈÄµô·¹ÀÌ3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "¸¶·Â3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Acute_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Mettle_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Tenacity_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Master_A_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Magic_E_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Spell_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Adamatine_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Affection_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Ã·¿¹4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "¸í±Ã4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "°ø°ÝÈÄµô·¹ÀÌ4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "¸¶·Â4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "Ã·¿¹2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "¸í±Ã2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "°ø°ÝÈÄµô·¹ÀÌ2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(0, "¸¶·Â2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Ã·¿¹1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "¸í±Ã1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "°ø°ÝÈÄµô·¹ÀÌ1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "¸¶·Â1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Ã·¿¹3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "¸í±Ã3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "°ø°ÝÈÄµô·¹ÀÌ3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "¸¶·Â3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Acute_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Mettle_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Tenacity_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Master_A_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Magic_E_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Spell_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Adamatine_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Affection_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Ã·¿¹4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "¸í±Ã4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "°ø°ÝÈÄµô·¹ÀÌ4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "¸¶·Â4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "Ã·¿¹2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "¸í±Ã2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "°ø°ÝÈÄµô·¹ÀÌ2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(1, "¸¶·Â2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Ã·¿¹1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "¸í±Ã1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "°ø°ÝÈÄµô·¹ÀÌ1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "¸¶·Â1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Ã·¿¹3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "¸í±Ã3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "°ø°ÝÈÄµô·¹ÀÌ3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "¸¶·Â3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Acute_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Mettle_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Tenacity_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Master_A_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Magic_E_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Spell_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Adamatine_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Affection_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Ã·¿¹4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "¸í±Ã4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "°ø°ÝÈÄµô·¹ÀÌ4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "¸¶·Â4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "Ã·¿¹2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "¸í±Ã2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "°ø°ÝÈÄµô·¹ÀÌ2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(2, "¸¶·Â2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Ã·¿¹1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "¸í±Ã1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "°ø°ÝÈÄµô·¹ÀÌ1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "¸¶·Â1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Ã·¿¹3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "¸í±Ã3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "°ø°ÝÈÄµô·¹ÀÌ3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "¸¶·Â3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Acute_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Mettle_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Tenacity_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Master_A_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Magic_E_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Spell_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Adamatine_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Affection_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Ã·¿¹4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "¸í±Ã4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "°ø°ÝÈÄµô·¹ÀÌ4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "¸¶·Â4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "Ã·¿¹2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "¸í±Ã2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "°ø°ÝÈÄµô·¹ÀÌ2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(3, "¸¶·Â2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Ã·¿¹1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "¸í±Ã1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "°ø°ÝÈÄµô·¹ÀÌ1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "¸¶·Â1", 8000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Ã·¿¹3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "¸í±Ã3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "°ø°ÝÈÄµô·¹ÀÌ3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "¸¶·Â3", 4500)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Acute_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Mettle_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Tenacity_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Master_A_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Magic_E_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Spell_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Adamatine_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Affection_Jewel_1", 1750)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Ã·¿¹4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "¸í±Ã4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "°ø°ÝÈÄµô·¹ÀÌ4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "¸¶·Â4", 3000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "Ã·¿¹2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "¸í±Ã2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "°ø°ÝÈÄµô·¹ÀÌ2", 6000)
+;
+(((Table[132]).Slot)[1]):SetEnchant(4, "¸¶·Â2", 6000)
+;
+(((Table[132]).Slot)[1]):AddPerfectEnchant("Acute_Jewel_1", 0, {"Time_D_Ma_Rune", 125})
+;
+(((Table[132]).Slot)[1]):AddPerfectEnchant("Mettle_Jewel_1", 0, {"Time_D_Ma_Rune", 125})
+;
+(((Table[132]).Slot)[1]):AddPerfectEnchant("Tenacity_Jewel_1", 0, {"Time_D_Ma_Rune", 125})
+;
+(((Table[132]).Slot)[1]):AddPerfectEnchant("Master_A_Jewel_1", 0, {"Time_D_Ma_Rune", 125})
+;
+(((Table[132]).Slot)[1]):AddPerfectEnchant("Magic_E_Jewel_1", 0, {"Time_D_Ma_Rune", 125})
+;
+(((Table[132]).Slot)[1]):AddPerfectEnchant("Spell_Jewel_1", 0, {"Time_D_Ma_Rune", 125})
+;
+(((Table[132]).Slot)[1]):AddPerfectEnchant("Adamatine_Jewel_1", 0, {"Time_D_Ma_Rune", 125})
+;
+(((Table[132]).Slot)[1]):AddPerfectEnchant("Affection_Jewel_1", 0, {"Time_D_Ma_Rune", 125})
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_1", 0, {"Time_D_Ma_Rune", 5})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_1", "Mettle_Jewel_1", 20000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_1", "Mettle_Jewel_2", 80000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_2", 0, {"Time_D_Ma_Rune", 10})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_2", "Mettle_Jewel_1", 35000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_2", "Mettle_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_3", 0, {"Time_D_Ma_Rune", 20})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_3", "Mettle_Jewel_2", 50000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_3", "Mettle_Jewel_4", 50000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_4", 0, {"Time_D_Ma_Rune", 35})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_4", "Mettle_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_4", "Mettle_Jewel_5", 35000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_5", 0, {"Time_D_Ma_Rune", 55})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_5", "Mettle_Jewel_4", 75000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_5", "Mettle_Jewel_6", 25000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_6", 0, {"Time_D_Ma_Rune", 80})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_6", "Mettle_Jewel_5", 80000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_6", "Mettle_Jewel_7", 20000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_7", 0, {"Time_D_Ma_Rune", 110})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_7", "Mettle_Jewel_6", 90000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_7", "Mettle_Jewel_8", 10000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_8", 0, {"Time_D_Ma_Rune", 145})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_8", "Mettle_Jewel_7", 93000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_8", "Mettle_Jewel_9", 7000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Mettle_Jewel_9", 0, {"Time_D_Ma_Rune", 185})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_9", "Mettle_Jewel_8", 95000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Mettle_Jewel_9", "Mettle_Jewel_10", 5000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_1", 0, {"Time_D_Ma_Rune", 5})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_1", "Tenacity_Jewel_1", 20000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_1", "Tenacity_Jewel_2", 80000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_2", 0, {"Time_D_Ma_Rune", 10})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_2", "Tenacity_Jewel_1", 35000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_2", "Tenacity_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_3", 0, {"Time_D_Ma_Rune", 20})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_3", "Tenacity_Jewel_2", 50000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_3", "Tenacity_Jewel_4", 50000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_4", 0, {"Time_D_Ma_Rune", 35})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_4", "Tenacity_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_4", "Tenacity_Jewel_5", 35000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_5", 0, {"Time_D_Ma_Rune", 55})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_5", "Tenacity_Jewel_4", 75000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_5", "Tenacity_Jewel_6", 25000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_6", 0, {"Time_D_Ma_Rune", 80})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_6", "Tenacity_Jewel_5", 80000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_6", "Tenacity_Jewel_7", 20000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_7", 0, {"Time_D_Ma_Rune", 110})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_7", "Tenacity_Jewel_6", 90000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_7", "Tenacity_Jewel_8", 10000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_8", 0, {"Time_D_Ma_Rune", 145})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_8", "Tenacity_Jewel_7", 93000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_8", "Tenacity_Jewel_9", 7000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Tenacity_Jewel_9", 0, {"Time_D_Ma_Rune", 185})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_9", "Tenacity_Jewel_8", 95000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Tenacity_Jewel_9", "Tenacity_Jewel_10", 5000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_1", 0, {"Time_D_Ma_Rune", 5})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_1", "Master_A_Jewel_1", 20000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_1", "Master_A_Jewel_2", 80000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_2", 0, {"Time_D_Ma_Rune", 10})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_2", "Master_A_Jewel_1", 35000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_2", "Master_A_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_3", 0, {"Time_D_Ma_Rune", 20})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_3", "Master_A_Jewel_2", 50000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_3", "Master_A_Jewel_4", 50000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_4", 0, {"Time_D_Ma_Rune", 35})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_4", "Master_A_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_4", "Master_A_Jewel_5", 35000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_5", 0, {"Time_D_Ma_Rune", 55})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_5", "Master_A_Jewel_4", 75000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_5", "Master_A_Jewel_6", 25000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_6", 0, {"Time_D_Ma_Rune", 80})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_6", "Master_A_Jewel_5", 80000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_6", "Master_A_Jewel_7", 20000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_7", 0, {"Time_D_Ma_Rune", 110})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_7", "Master_A_Jewel_6", 90000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_7", "Master_A_Jewel_8", 10000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_8", 0, {"Time_D_Ma_Rune", 145})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_8", "Master_A_Jewel_7", 93000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_8", "Master_A_Jewel_9", 7000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Master_A_Jewel_9", 0, {"Time_D_Ma_Rune", 185})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_9", "Master_A_Jewel_8", 95000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Master_A_Jewel_9", "Master_A_Jewel_10", 5000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_1", 0, {"Time_D_Ma_Rune", 5})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_1", "Acute_Jewel_1", 20000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_1", "Acute_Jewel_2", 80000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_2", 0, {"Time_D_Ma_Rune", 10})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_2", "Acute_Jewel_1", 35000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_2", "Acute_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_3", 0, {"Time_D_Ma_Rune", 20})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_3", "Acute_Jewel_2", 50000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_3", "Acute_Jewel_4", 50000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_4", 0, {"Time_D_Ma_Rune", 35})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_4", "Acute_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_4", "Acute_Jewel_5", 35000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_5", 0, {"Time_D_Ma_Rune", 55})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_5", "Acute_Jewel_4", 75000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_5", "Acute_Jewel_6", 25000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_6", 0, {"Time_D_Ma_Rune", 80})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_6", "Acute_Jewel_5", 80000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_6", "Acute_Jewel_7", 20000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_7", 0, {"Time_D_Ma_Rune", 110})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_7", "Acute_Jewel_6", 90000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_7", "Acute_Jewel_8", 10000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_8", 0, {"Time_D_Ma_Rune", 145})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_8", "Acute_Jewel_7", 93000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_8", "Acute_Jewel_9", 7000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Acute_Jewel_9", 0, {"Time_D_Ma_Rune", 185})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_9", "Acute_Jewel_8", 95000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Acute_Jewel_9", "Acute_Jewel_10", 5000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_1", 0, {"Time_D_Ma_Rune", 5})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_1", "Magic_E_Jewel_1", 20000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_1", "Magic_E_Jewel_2", 80000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_2", 0, {"Time_D_Ma_Rune", 10})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_2", "Magic_E_Jewel_1", 35000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_2", "Magic_E_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_3", 0, {"Time_D_Ma_Rune", 20})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_3", "Magic_E_Jewel_2", 50000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_3", "Magic_E_Jewel_4", 50000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_4", 0, {"Time_D_Ma_Rune", 35})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_4", "Magic_E_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_4", "Magic_E_Jewel_5", 35000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_5", 0, {"Time_D_Ma_Rune", 55})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_5", "Magic_E_Jewel_4", 75000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_5", "Magic_E_Jewel_6", 25000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_6", 0, {"Time_D_Ma_Rune", 80})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_6", "Magic_E_Jewel_5", 80000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_6", "Magic_E_Jewel_7", 20000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_7", 0, {"Time_D_Ma_Rune", 110})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_7", "Magic_E_Jewel_6", 90000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_7", "Magic_E_Jewel_8", 10000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_8", 0, {"Time_D_Ma_Rune", 145})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_8", "Magic_E_Jewel_7", 93000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_8", "Magic_E_Jewel_9", 7000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Magic_E_Jewel_9", 0, {"Time_D_Ma_Rune", 185})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_9", "Magic_E_Jewel_8", 95000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Magic_E_Jewel_9", "Magic_E_Jewel_10", 5000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_1", 0, {"Time_D_Ma_Rune", 5})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_1", "Spell_Jewel_1", 20000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_1", "Spell_Jewel_2", 80000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_2", 0, {"Time_D_Ma_Rune", 10})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_2", "Spell_Jewel_1", 35000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_2", "Spell_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_3", 0, {"Time_D_Ma_Rune", 20})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_3", "Spell_Jewel_2", 50000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_3", "Spell_Jewel_4", 50000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_4", 0, {"Time_D_Ma_Rune", 35})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_4", "Spell_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_4", "Spell_Jewel_5", 35000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_5", 0, {"Time_D_Ma_Rune", 55})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_5", "Spell_Jewel_4", 75000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_5", "Spell_Jewel_6", 25000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_6", 0, {"Time_D_Ma_Rune", 80})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_6", "Spell_Jewel_5", 80000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_6", "Spell_Jewel_7", 20000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_7", 0, {"Time_D_Ma_Rune", 110})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_7", "Spell_Jewel_6", 90000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_7", "Spell_Jewel_8", 10000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_8", 0, {"Time_D_Ma_Rune", 145})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_8", "Spell_Jewel_7", 93000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_8", "Spell_Jewel_9", 7000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Spell_Jewel_9", 0, {"Time_D_Ma_Rune", 185})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_9", "Spell_Jewel_8", 95000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Spell_Jewel_9", "Spell_Jewel_10", 5000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_1", 0, {"Time_D_Ma_Rune", 5})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_1", "Adamatine_Jewel_1", 20000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_1", "Adamatine_Jewel_2", 80000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_2", 0, {"Time_D_Ma_Rune", 10})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_2", "Adamatine_Jewel_1", 35000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_2", "Adamatine_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_3", 0, {"Time_D_Ma_Rune", 20})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_3", "Adamatine_Jewel_2", 50000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_3", "Adamatine_Jewel_4", 50000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_4", 0, {"Time_D_Ma_Rune", 35})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_4", "Adamatine_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_4", "Adamatine_Jewel_5", 35000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_5", 0, {"Time_D_Ma_Rune", 55})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_5", "Adamatine_Jewel_4", 75000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_5", "Adamatine_Jewel_6", 25000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_6", 0, {"Time_D_Ma_Rune", 80})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_6", "Adamatine_Jewel_5", 80000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_6", "Adamatine_Jewel_7", 20000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_7", 0, {"Time_D_Ma_Rune", 110})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_7", "Adamatine_Jewel_6", 90000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_7", "Adamatine_Jewel_8", 10000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_8", 0, {"Time_D_Ma_Rune", 145})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_8", "Adamatine_Jewel_7", 93000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_8", "Adamatine_Jewel_9", 7000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Adamatine_Jewel_9", 0, {"Time_D_Ma_Rune", 185})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_9", "Adamatine_Jewel_8", 95000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Adamatine_Jewel_9", "Adamatine_Jewel_10", 5000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_1", 0, {"Time_D_Ma_Rune", 5})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_1", "Affection_Jewel_1", 20000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_1", "Affection_Jewel_2", 80000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_2", 0, {"Time_D_Ma_Rune", 10})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_2", "Affection_Jewel_1", 35000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_2", "Affection_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_3", 0, {"Time_D_Ma_Rune", 20})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_3", "Affection_Jewel_2", 50000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_3", "Affection_Jewel_4", 50000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_4", 0, {"Time_D_Ma_Rune", 35})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_4", "Affection_Jewel_3", 65000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_4", "Affection_Jewel_5", 35000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_5", 0, {"Time_D_Ma_Rune", 55})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_5", "Affection_Jewel_4", 75000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_5", "Affection_Jewel_6", 25000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_6", 0, {"Time_D_Ma_Rune", 80})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_6", "Affection_Jewel_5", 80000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_6", "Affection_Jewel_7", 20000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_7", 0, {"Time_D_Ma_Rune", 110})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_7", "Affection_Jewel_6", 90000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_7", "Affection_Jewel_8", 10000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_8", 0, {"Time_D_Ma_Rune", 145})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_8", "Affection_Jewel_7", 93000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_8", "Affection_Jewel_9", 7000)
+;
+(((Table[132]).Slot)[1]):SetRandomUpgradeRequire("Affection_Jewel_9", 0, {"Time_D_Ma_Rune", 185})
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_9", "Affection_Jewel_8", 95000)
+;
+(((Table[132]).Slot)[1]):AddRandomUpgradeEnchant("Affection_Jewel_9", "Affection_Jewel_10", 5000)
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Mettle_Jewel_1", "Mettle_Jewel_2", 0, {"Time_D_Ma_Rune", 175})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Mettle_Jewel_2", "Mettle_Jewel_3", 0, {"Time_D_Ma_Rune", 225})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Mettle_Jewel_3", "Mettle_Jewel_4", 0, {"Time_D_Ma_Rune", 275})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Mettle_Jewel_4", "Mettle_Jewel_5", 0, {"Time_D_Ma_Rune", 325})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Tenacity_Jewel_1", "Tenacity_Jewel_2", 0, {"Time_D_Ma_Rune", 175})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Tenacity_Jewel_2", "Tenacity_Jewel_3", 0, {"Time_D_Ma_Rune", 225})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Tenacity_Jewel_3", "Tenacity_Jewel_4", 0, {"Time_D_Ma_Rune", 275})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Tenacity_Jewel_4", "Tenacity_Jewel_5", 0, {"Time_D_Ma_Rune", 325})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Master_A_Jewel_1", "Master_A_Jewel_2", 0, {"Time_D_Ma_Rune", 175})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Master_A_Jewel_2", "Master_A_Jewel_3", 0, {"Time_D_Ma_Rune", 225})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Master_A_Jewel_3", "Master_A_Jewel_4", 0, {"Time_D_Ma_Rune", 275})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Master_A_Jewel_4", "Master_A_Jewel_5", 0, {"Time_D_Ma_Rune", 325})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Acute_Jewel_1", "Acute_Jewel_2", 0, {"Time_D_Ma_Rune", 175})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Acute_Jewel_2", "Acute_Jewel_3", 0, {"Time_D_Ma_Rune", 225})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Acute_Jewel_3", "Acute_Jewel_4", 0, {"Time_D_Ma_Rune", 275})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Acute_Jewel_4", "Acute_Jewel_5", 0, {"Time_D_Ma_Rune", 325})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Magic_E_Jewel_1", "Magic_E_Jewel_2", 0, {"Time_D_Ma_Rune", 175})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Magic_E_Jewel_2", "Magic_E_Jewel_3", 0, {"Time_D_Ma_Rune", 225})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Magic_E_Jewel_3", "Magic_E_Jewel_4", 0, {"Time_D_Ma_Rune", 275})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Magic_E_Jewel_4", "Magic_E_Jewel_5", 0, {"Time_D_Ma_Rune", 325})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Spell_Jewel_1", "Spell_Jewel_2", 0, {"Time_D_Ma_Rune", 175})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Spell_Jewel_2", "Spell_Jewel_3", 0, {"Time_D_Ma_Rune", 225})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Spell_Jewel_3", "Spell_Jewel_4", 0, {"Time_D_Ma_Rune", 275})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Spell_Jewel_4", "Spell_Jewel_5", 0, {"Time_D_Ma_Rune", 325})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Adamatine_Jewel_1", "Adamatine_Jewel_2", 0, {"Time_D_Ma_Rune", 175})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Adamatine_Jewel_2", "Adamatine_Jewel_3", 0, {"Time_D_Ma_Rune", 225})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Adamatine_Jewel_3", "Adamatine_Jewel_4", 0, {"Time_D_Ma_Rune", 275})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Adamatine_Jewel_4", "Adamatine_Jewel_5", 0, {"Time_D_Ma_Rune", 325})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Affection_Jewel_1", "Affection_Jewel_2", 0, {"Time_D_Ma_Rune", 175})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Affection_Jewel_2", "Affection_Jewel_3", 0, {"Time_D_Ma_Rune", 225})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Affection_Jewel_3", "Affection_Jewel_4", 0, {"Time_D_Ma_Rune", 275})
+;
+(((Table[132]).Slot)[1]):AddPerfectUpgradeEnchant("Affection_Jewel_4", "Affection_Jewel_5", 0, {"Time_D_Ma_Rune", 325})
+-- DECOMPILER ERROR at PC132520: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[133] = CreateEnchantInfo()
+;
+(Table[133]):SetSlotOrder(3, 2)
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_DK_T_Sword")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SHC_Katar")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SHC_Cakram")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_MT_Axe")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_DK_Lance")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_AG_Staff")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_AG_Rod")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SS_Humma")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SS_Wheel")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_ABC_Bow")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_WH_C_Bow")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_WH_Bow")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_NW_Rifle")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_NW_Launcher")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_IG_Sword")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_BO_Sword")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_HN_Sword")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_ABC_Knife")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_IG_Spear")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_EM_M_Book")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_EM_S_Book")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_CD_Bible")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SKE_M_Book")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SKE_S_Book")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_CD_Rod")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SOA_Stick")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SOA_Rod")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_HN_Rod")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SH_Foxtail")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_SH_F_Model")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_IQ_Knuckle")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_IQ_Claw")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_TR_Vilolin")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_TR_Ribbon")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_TR_Harp")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_TR_Rope")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_MT_Mace")
+;
+(Table[133]):AddTargetItem_Duplicate("Dimen_BO_Hall")
+;
+(Table[133]):SetCondition(0, 0)
+;
+(Table[133]):ApproveRandomOption(true)
+;
+(Table[133]):SetReset(true, 100000, 5000000, {"Zelunium", 50}, {"Shadowdecon", 50}, {"Etel_Dust", 100})
+;
+(Table[133]):SetCaution("µð¸à¼ÇÁî ¿þÆù ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ÃÊ±âÈ­ °¡´É : ÃÊ±âÈ­ È®·ü 100%")
+;
+(((Table[133]).Slot)[3]):AddPerfectEnchant("Bio_Jam_Df2", 1000000, {"Abyss_Rune", 50}, {"Time_D_Ma_Rune", 10})
+;
+(((Table[133]).Slot)[3]):AddPerfectEnchant("Bio_Jam_Es2", 1000000, {"Abyss_Rune", 50}, {"Time_D_Ma_Rune", 10})
+;
+(((Table[133]).Slot)[3]):AddPerfectEnchant("Bio_Jam_Vl2", 1000000, {"Abyss_Rune", 50}, {"Time_D_Ma_Rune", 10})
+;
+(((Table[133]).Slot)[3]):AddPerfectEnchant("Bio_Jam_Eq2", 1000000, {"Abyss_Rune", 50}, {"Time_D_Ma_Rune", 10})
+;
+(((Table[133]).Slot)[3]):AddPerfectEnchant("Bio_Jam_Hd2", 1000000, {"Abyss_Rune", 50}, {"Time_D_Ma_Rune", 10})
+;
+(((Table[133]).Slot)[2]):AddPerfectEnchant("Barmund_Flame3", 3000000, {"Abyss_Rune", 75}, {"Time_D_Ma_Rune", 15})
+;
+(((Table[133]).Slot)[2]):AddPerfectEnchant("Barmund_Ice3", 3000000, {"Abyss_Rune", 75}, {"Time_D_Ma_Rune", 15})
+;
+(((Table[133]).Slot)[2]):AddPerfectEnchant("Barmund_Plain3", 3000000, {"Abyss_Rune", 75}, {"Time_D_Ma_Rune", 15})
+;
+(((Table[133]).Slot)[2]):AddPerfectEnchant("Barmund_Death3", 3000000, {"Abyss_Rune", 75}, {"Time_D_Ma_Rune", 15})
+;
+(((Table[133]).Slot)[2]):AddPerfectEnchant("Barmund_Poison3", 3000000, {"Abyss_Rune", 75}, {"Time_D_Ma_Rune", 15})
+-- DECOMPILER ERROR at PC133017: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[134] = CreateEnchantInfo()
+;
+(Table[134]):SetSlotOrder(3, 2)
+;
+(Table[134]):AddTargetItem("FateSin_Boots_IG")
+;
+(Table[134]):SetCondition(0, 0)
+;
+(Table[134]):ApproveRandomOption(true)
+;
+(Table[134]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[134]):SetCaution("¼±¾ÇÀÇ ºÎÃ÷(ÀÓÆä¸®¾ó °¡µå) ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ¼º°øÈ®·ü: 100%\nÃÊ±âÈ­ È®·ü 90%")
+;
+(((Table[134]).Slot)[3]):AddPerfectEnchant("°ø°ÝÈÄµô·¹ÀÌ2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddPerfectEnchant("¸¶·Â5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddPerfectEnchant("¸í±Ã3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ2", "°ø°ÝÈÄµô·¹ÀÌ3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("¸¶·Â5", "¸¶·Â6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("¸í±Ã3", "¸í±Ã4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ3", "°ø°ÝÈÄµô·¹ÀÌ4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("¸¶·Â6", "¸¶·Â7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("¸í±Ã4", "¸í±Ã5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[134]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_IG", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[134]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_IG", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC133436: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[135] = CreateEnchantInfo()
+;
+(Table[135]):SetSlotOrder(3, 2)
+;
+(Table[135]):AddTargetItem("FateSin_Boots_AG")
+;
+(Table[135]):SetCondition(0, 0)
+;
+(Table[135]):ApproveRandomOption(true)
+;
+(Table[135]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[135]):SetCaution("¼±¾ÇÀÇ ºÎÃ÷(¾ÆÅ© ¸ÞÀÌÁö) ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ¼º°øÈ®·ü: 100%\nÃÊ±âÈ­ È®·ü 90%")
+;
+(((Table[135]).Slot)[3]):AddPerfectEnchant("°ø°ÝÈÄµô·¹ÀÌ2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddPerfectEnchant("¸¶·Â5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddPerfectEnchant("¸í±Ã3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ2", "°ø°ÝÈÄµô·¹ÀÌ3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("¸¶·Â5", "¸¶·Â6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("¸í±Ã3", "¸í±Ã4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ3", "°ø°ÝÈÄµô·¹ÀÌ4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("¸¶·Â6", "¸¶·Â7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("¸í±Ã4", "¸í±Ã5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[135]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_AG", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[135]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_AG", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+-- DECOMPILER ERROR at PC133855: Confused about usage of register: R0 in 'UnsetPending'
+
+Table[136] = CreateEnchantInfo()
+;
+(Table[136]):SetSlotOrder(3, 2)
+;
+(Table[136]):AddTargetItem("FateSin_Boots_NW")
+;
+(Table[136]):SetCondition(0, 0)
+;
+(Table[136]):ApproveRandomOption(true)
+;
+(Table[136]):SetReset(true, 90000, 1500000, {"GH_Cursed_Crystal", 30}, {"GH_Cursed_Gemstone", 30})
+;
+(Table[136]):SetCaution("¼±¾ÇÀÇ ºÎÃ÷(³ªÀÌÆ® ¿öÄ¡) ÀÎÃ¦Æ® ºÎ¿©\nÀÎÃ¦Æ® ¼º°øÈ®·ü: 100%\nÃÊ±âÈ­ È®·ü 90%")
+;
+(((Table[136]).Slot)[3]):AddPerfectEnchant("°ø°ÝÈÄµô·¹ÀÌ2", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddPerfectEnchant("¸¶·Â5", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddPerfectEnchant("¸í±Ã3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddPerfectEnchant("Expert_Magician3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddPerfectEnchant("Expert_Fighter3", 1000000, {"GH_Cursed_Gemstone", 50}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ2", "°ø°ÝÈÄµô·¹ÀÌ3", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("¸¶·Â5", "¸¶·Â6", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("¸í±Ã3", "¸í±Ã4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 0, {"GH_Cursed_Crystal", 100}, {"GH_Cursed_Gemstone", 100}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("°ø°ÝÈÄµô·¹ÀÌ3", "°ø°ÝÈÄµô·¹ÀÌ4", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("¸¶·Â6", "¸¶·Â7", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("¸í±Ã4", "¸í±Ã5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[3]):AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 0, {"GH_Cursed_Crystal", 250}, {"GH_Cursed_Gemstone", 250}, {"M_Dimension_Essence", 1})
+;
+(((Table[136]).Slot)[2]):AddPerfectEnchant("Justice_Vigor_NW", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
+;
+(((Table[136]).Slot)[2]):AddPerfectEnchant("Injustice_Vigor_NW", 5000000, {"GH_Cursed_Crystal", 50}, {"Enchant_Ticket", 1})
 

@@ -3,7 +3,7 @@
 
 -- params : ...
 -- function num : 0
-Runesystemtbl_tag = {[RUNETAGIDTBL.EPISODE17] = "EP17", [RUNETAGIDTBL.EVT] = "EVT"}
+Runesystemtbl_tag = {[RUNETAGIDTBL.EPISODE17] = "EP17", [RUNETAGIDTBL.EPISODE18] = "EP18", [RUNETAGIDTBL.EVT] = "EVT"}
 RuneSettbl_desc = {
 [RUNETAGIDTBL.EPISODE17] = {
 [RUNESETIDTBL.Rt_Ep17_Doubt] = {RuneSetDisplayName = "의문의 부속품", 
@@ -119,6 +119,82 @@ RuneSetDescription = {
 [4] = {"인간형 몬스터에게 주는", "물리/마법 데미지 2% 추가 증가."}
 , 
 [6] = {"15강화 시,", "물리 공격 시, 1% 확률로", "준 데미지의 1%를 SP로 흡수."}
+}
+}
+}
+, 
+[RUNETAGIDTBL.EPISODE18] = {
+[RUNESETIDTBL.Rt_Ep18_Armor] = {RuneSetDisplayName = "그레이 울프", 
+RuneSetDescription = {
+[2] = {"에피소드18 몬스터에게 주는", "물리/마법 데미지 10% 증가.", "3강화 당,", "에피소드18 몬스터에게 주는", "물리/마법 데미지 1%씩 추가 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep18_Melee] = {RuneSetDisplayName = "거짓된 전사", 
+RuneSetDescription = {
+[2] = {"5강화 당,", "근접 물리 데미지 1%씩 증가."}
+, 
+[3] = {"근접 물리 데미지 3% 추가 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep18_Magic] = {RuneSetDisplayName = "거짓된 술사", 
+RuneSetDescription = {
+[2] = {"5강화 당,", "모든 속성 마법 데미지 1%씩 증가."}
+, 
+[3] = {"모든 속성 마법 데미지 2%씩 추가 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep18_Range] = {RuneSetDisplayName = "거짓된 사수", 
+RuneSetDescription = {
+[2] = {"5강화 당,", "원거리 물리 데미지 1%씩 증가."}
+, 
+[3] = {"원거리 물리 데미지 3% 추가 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep18_Field] = {RuneSetDisplayName = "회색 숲", 
+RuneSetDescription = {
+[2] = {"크리티컬 데미지 2% 증가."}
+, 
+[3] = {"CRI + 3.", "3강화 당,", "CRI + 1 추가 증가."}
+, 
+[4] = {"크리티컬 데미지 3% 추가 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep18_Lava] = {RuneSetDisplayName = "용암지대", 
+RuneSetDescription = {
+[2] = {"암속성 마법 데미지 3% 증가."}
+, 
+[3] = {"지속성 마법 데미지 3% 증가.", "3강화 당,", "화속성 마법 데미지 2%씩 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep18_Total] = {RuneSetDisplayName = "잿빛 황야", 
+RuneSetDescription = {
+[2] = {"ATK + 10, MATK + 10.", "3강화 당,", "ATK + 3, MATK + 3씩 추가 증가."}
+, 
+[4] = {"3강화 당,", "변동 캐스팅 1%씩 감소,", "공격 속도 증가(공격 후 딜레이 1%씩 감소)."}
+, 
+[6] = {"MHP + 2%, MSP + 2%.", "3강화 당,", "MHP + 1%, MSP + 1% 추가 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep18_Fang] = {RuneSetDisplayName = "불타는 송곳니", 
+RuneSetDescription = {
+[2] = {"피격 시, 2% 확률로", "1초마다 SP 200씩 4회 회복."}
+, 
+[3] = {"스킬 사용 시 SP 소모량 5% 추가 감소.", "3강화 당,", "스킬 사용 시 SP 소모량 2%씩 추가 감소."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep18_Demi] = {RuneSetDisplayName = "반신", 
+RuneSetDescription = {
+[2] = {"보스형 몬스터에게 주는", "물리/마법 데미지 10% 증가."}
+, 
+[3] = {"보스형 몬스터에게 주는", "물리/마법 데미지 15% 증가.", "3강화 당,", "보스형 몬스터에게 주는", "물리/마법 데미지 3%씩 추가 증가."}
 }
 }
 }

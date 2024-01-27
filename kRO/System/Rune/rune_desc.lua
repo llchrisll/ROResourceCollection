@@ -68,6 +68,46 @@ Runetbl_desc = {
 [RUNEIDTBL.Rp_Ep17_Tiger] = {Rune_DisplayName = "호랑이 기운"}
 }
 , 
+[RUNETAGIDTBL.EPISODE18] = {
+[RUNEIDTBL.Rp_Ep18_Armor_A] = {Rune_DisplayName = "그레이 울프 방어구 A"}
+, 
+[RUNEIDTBL.Rp_Ep18_Armor_B] = {Rune_DisplayName = "그레이 울프 방어구 B"}
+, 
+[RUNEIDTBL.Rp_Ep18_Sword] = {Rune_DisplayName = "아둘테르 피데스 블레이즈"}
+, 
+[RUNEIDTBL.Rp_Ep18_Spear] = {Rune_DisplayName = "아둘테르 피데스 헤비웨폰"}
+, 
+[RUNEIDTBL.Rp_Ep18_Range] = {Rune_DisplayName = "아둘테르 피데스 레인져"}
+, 
+[RUNEIDTBL.Rp_Ep18_Book] = {Rune_DisplayName = "아둘테르 피데스 북"}
+, 
+[RUNEIDTBL.Rp_Ep18_Magic] = {Rune_DisplayName = "아둘테르 피데스 매지컬"}
+, 
+[RUNEIDTBL.Rp_Ep18_Fuuma] = {Rune_DisplayName = "아둘테르 피데스 커터"}
+, 
+[RUNEIDTBL.Rp_Ep18_Gun] = {Rune_DisplayName = "아둘테르 피데스 건"}
+, 
+[RUNEIDTBL.Rp_Ep18_Katar] = {Rune_DisplayName = "아둘테르 피데스 피스트"}
+, 
+[RUNEIDTBL.Rp_Ep18_Instrum] = {Rune_DisplayName = "아둘테르 피데스 리듬"}
+, 
+[RUNEIDTBL.Rp_Ep18_Rakehand] = {Rune_DisplayName = "갈퀴손"}
+, 
+[RUNEIDTBL.Rp_Ep18_Ashhopper] = {Rune_DisplayName = "애쉬링 제조법"}
+, 
+[RUNEIDTBL.Rp_Ep18_Phantom] = {Rune_DisplayName = "유령 솔개"}
+, 
+[RUNEIDTBL.Rp_Ep18_Greywolf] = {Rune_DisplayName = "회색늑대"}
+, 
+[RUNEIDTBL.Rp_Ep18_Toad] = {Rune_DisplayName = "용암과 재"}
+, 
+[RUNEIDTBL.Rp_Ep18_Hot] = {Rune_DisplayName = "뜨거운 볼케링"}
+, 
+[RUNEIDTBL.Rp_Ep18_Burning] = {Rune_DisplayName = "불태우는 송곳니"}
+, 
+[RUNEIDTBL.Rp_Ep18_Demi] = {Rune_DisplayName = "반신"}
+}
+, 
 [RUNETAGIDTBL.EVT] = {
 [RUNEIDTBL.Rp_21th_Poring] = {Rune_DisplayName = "야시장 포링"}
 , 

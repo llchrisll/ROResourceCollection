@@ -8578,7 +8578,7 @@ Description = {"Äí¿ì°¡ °¡ÀÌ¿¡°Ô ´Ù½Ã ¸»À» °É °Í"}
 , Summary = ""}
 , 
 [6020] = {Title = "¹Ð·¯ÀÇ ÆíÁö", 
-Description = {"ÁÖ¼ú»ç ÃÑ¸íÇÑ È²¼Ò »Ô´ÔÀ» Ã£¾Æ ÆäÀÌ¿ÂÀ¸·Î °¡º¸°Ô³ª."}
+Description = {"ÁÖ¼ú»ç ÃÑ¸íÇÑ È²¼Ò »Ô´ÔÀ» Ã£¾Æ ÆäÀÌ¿æÀ¸·Î °¡º¸°Ô³ª."}
 , Summary = ""}
 , 
 [6021] = {Title = "È²¼Ò »ÔÀÌ ¸»ÇÏ´Â Â¡Ç¥", 
@@ -11333,63 +11333,63 @@ Description = {"ÀÀ±ÞÄ¡·á¸¦ ¹è¿ü½À´Ï´Ù."}
 Description = {"½ºÅÂÀÌÅÍ½º, ´É·ÂÄ¡¶ó´Â °Í¿¡ ´ëÇØ ¾Ë°Ô µÇ¾ú´Ù. ±ÙÃ³¿¡ ÀÖ´Â ÀÚ°æ´Ü¿ø ´¢Å°¿¡°Ô Á» ´õ ÀÚ¼¼ÇÑ ¼³¸íÀ» µé¾îº¸ÀÚ."}
 , Summary = "´¢Å°¿Í ´ëÈ­"}
 , 
-[7731] = {Title = "Àº¹ÐÇÑ ¿òÁ÷ÀÓ", 
+[7731] = {Title = "Àº¹ÐÇÑ ¿òÁ÷ÀÓ", IconName = "ico_ep.bmp", 
 Description = {"¸®È÷Å¸¸£Á¨¿¡¼­ ºê·ç³ë¶ó´Â ½ÃÁ¾À» Ã£±â·Î Çß´Ù. ¿ì¼± ¸®È÷Å¸¸£Á¨ °øÇ×¿¡¼­ <NAVI>[Å©·è½º]<INFO>lhz_airport,189,39,0,101,0</INFO></NAVI>¿Í ÇÕ·ùÇÏÀÚ."}
 , Summary = "Å©·è½º¿Í ´ëÈ­"}
 , 
-[7732] = {Title = "¿ëÀÇÀÚ ¼ö»ö", 
+[7732] = {Title = "¿ëÀÇÀÚ ¼ö»ö", IconName = "ico_ep.bmp", 
 Description = {"ºê·ç³ë¸¦ Ã£±â À§ÇØ <NAVI>[¸®È÷Å¸¸£Á¨ ºÏºÎ]<INFO>lighthalzen,186,293,0,101,0</INFO></NAVI>¸¦ ¼ö»öÇÏ±â·Î Çß´Ù."}
 , Summary = "ºê·ç³ë Ã£±â"}
 , 
-[7733] = {Title = "ÃßÀû!", 
+[7733] = {Title = "ÃßÀû!", IconName = "ico_ep.bmp", 
 Description = {"ºê·ç³ë°¡ ÇâÇÑ °÷À» ¾Ë°Ô µÇ¾ú´Ù. ¸®È÷Å¸¸£Á¨ ¹éÈ­Á¡ ±ÙÃ³¿¡¼­ ±â´Ù¸®°í ÀÖÀ» ½ºÅ°¾Æ¿¡°Ô ¾Ë¸®°í ºó¹Î°¡·Î °¡¼­ ºê·ç³ë¸¦ Ã£ÀÚ!"}
 , Summary = "ºó¹Î°¡ ¼ö»ö"}
 , 
-[7734] = {Title = "Ã¼Æ÷", 
+[7734] = {Title = "Ã¼Æ÷", IconName = "ico_ep.bmp", 
 Description = {"ºê·ç³ë¸¦ »ç·ÎÀâ´Âµ¥ ¼º°øÇß´Ù. ¿ì¼± <NAVI>[ÇÁ·ÐÅ×¶ó ¿Õ±Ã]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>À¸·Î µ¹¾Æ°¡ ´ÙÀ½ ÀÏ¿¡ ´ëÇØ ÇùÀÇÇÏÀÚ."}
 , Summary = "´ÏÈú°ú ´ëÈ­"}
 , 
-[7735] = {Title = "Àº¹ÐÇÑ ¿òÁ÷ÀÓ2", 
+[7735] = {Title = "Àº¹ÐÇÑ ¿òÁ÷ÀÓ2", IconName = "ico_ep.bmp", 
 Description = {"¾Æ¹«·¡µµ ½´¹ßÃ÷¹ßµå °øÈ­±¹ Á¤º¸¿ÍÀÇ ÇùÁ¶°¡ ÇÊ¿äÇÑ »óÈ²ÀÎ °Í °°´Ù. ¸ô·¡ Çù»óÀ» ÇÏ·¯ ¶°³­ ½ºÇÇÄ«ÀÇ È£À§¸¦ ¸Ã¾Ò´Ù. <NAVI>[À¯³ë °øÇ×]<INFO>y_airport,168,41,0,101,0</INFO></NAVI>¿¡¼­ ÇÕ·ùÇÏÀÚ."}
 , Summary = "Å©·è½º¿Í ´ëÈ­"}
 , 
-[7736] = {Title = "°ü±¤°ú ¹Ð´ãÀº Á¾ÀÕÀå Â÷ÀÌ", 
+[7736] = {Title = "°ü±¤°ú ¹Ð´ãÀº Á¾ÀÕÀå Â÷ÀÌ", IconName = "ico_ep.bmp", 
 Description = {"À¯³ë¿¡¼­ ÇÕ·ùÇÏ±â·Î ÇÑ ½ºÇÇÄ«´Â º¸¾ÈÀ» À§ÇØ <NAVI>[¸®È÷Å¸¸£Á¨ÀÇ È£ÅÚ]<INFO>lhz_in02,239,145,0,101,0</INFO></NAVI>·Î ÀÌµ¿ÇÑ µÚ¶ó°í ÇÑ´Ù. °ü±¤À» À§ÀåÇÑ ½ºÇÇÄ«¸¦ ¸¸³ª·¯ ¸®È÷Å¸¸£Á¨ È£ÅÚ·Î ÀÌµ¿ÇÏÀÚ."}
 , Summary = "½ºÇÇÄ«¿Í ´ëÈ­"}
 , 
-[7737] = {Title = "¸®º§¸®¿Â°ú ÇÔ²²", 
+[7737] = {Title = "¸®º§¸®¿Â°ú ÇÔ²²", IconName = "ico_ep.bmp", 
 Description = {"¸®º§¸®¿ÂÀ» ²ø¾îµéÀÌ±â À§ÇØ ÁØºñÁßÀÎ ¿ä¿ø°ú ÇÔ²² ¸®º§¸®¿ÂÀ» ¼³µæÇÏ±â·Î Çß´Ù. <NAVI>[¾ÆÀÎºê·ÎÅ© ±âÂ÷¿ª]<INFO>einbroch,239,269,0,101,0</INFO></NAVI>¿¡¼­ Çù»ó¿ä¿ø ·¹ÀÌÁö¸¦ ¸¸³ª ¸®º§¸®¿Â°úÀÇ Çù»óÀ» ¼º°øÇÏÀÚ."}
 , Summary = "¸®º§¸®¿Â"}
 , 
-[7738] = {Title = "´ÙÀ½ ÀÛÀüÀ» À§ÇØ", 
+[7738] = {Title = "´ÙÀ½ ÀÛÀüÀ» À§ÇØ", IconName = "ico_ep.bmp", 
 Description = {"¸®º§¸®¿ÂÀÇ ÇùÁ¶¸¦ ¾ò´Âµ¥ ¼º°øÇÏÀÚ °èÈ¹Àº »¡¸® ÁøÇàµÇ¾ú´Ù. <NAVI>[¾ÆÀÎºê·ÎÅ© È£ÅÚ]<INFO>ein_in01,274,246,0,101,0</INFO></NAVI>·Î ÀÌµ¿ÇØ ´ÙÀ½ Áö½Ã¸¦ µèÀÚ."}
 , Summary = "´ÏÈú°ú ´ëÈ­"}
 , 
-[7739] = {Title = "Ãàº¹ÀÇ º°À» Ã£¾Æ¶ó!", 
+[7739] = {Title = "Ãàº¹ÀÇ º°À» Ã£¾Æ¶ó!", IconName = "ico_ep.bmp", 
 Description = {"ÀÛÀüÁöÁ¡Àº <NAVI>[¾ÆÀÎºê·ÎÅ© ºÏºÎ ÇÊµå]<INFO>ein_fild04,284,330,0,101,0</INFO></NAVI> ¶ó°í ÇÑ´Ù. ¸®º§¸®¿ÂÃø¿¡¼­ ÆîÄ¡´Â ÀÛÀüÀ» ¼º°ø½ÃÅ°°í Ãàº¹ÀÇ º°À» µÇÃ£ÀÚ."}
 , Summary = "Ãàº¹ÀÇ º° È¸¼ö"}
 , 
-[7740] = {Title = "µÇÃ£Àº º°", 
+[7740] = {Title = "µÇÃ£Àº º°", IconName = "ico_ep.bmp", 
 Description = {"Ãàº¹ÀÇ º°À» µÇÃ£¾Ò´Ù. <NAVI>[¾ÆÀÎºê·ÎÅ© È£ÅÚ]<INFO>ein_in01,274,246,0,101,0</INFO></NAVI>¿¡¼­ °á°ú¸¦ ±â´Ù¸®°í ÀÖÀ» ÀÏÇà¿¡°Ô µ¹¾Æ°¡ÀÚ."}
 , Summary = "´ÏÈú°ú ´ëÈ­"}
 , 
-[7741] = {Title = "±ÍÈ¯", 
+[7741] = {Title = "±ÍÈ¯", IconName = "ico_ep.bmp", 
 Description = {"Ãàº¹ÀÇ º°À» µÇÃ£¾Ò´Ù. »ç°ÇÀÇ ¸¶¹«¸®¸¦ À§ÇØ <NAVI>[ÇÁ·ÐÅ×¶ó ¿Õ±Ã]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>À¸·Î µ¹¾Æ°¡±â·Î Çß´Ù."}
 , Summary = "½ºÅ°¾Æ¿Í ´ëÈ­"}
 , 
-[7742] = {Title = "ÀÜ´ç ¼ÒÅÁ", 
+[7742] = {Title = "ÀÜ´ç ¼ÒÅÁ", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[º£¸£³Ê ¿¬±¸¼Ò ÁßÃß½Ç]<INFO>slabw01,240,88,0,101,0</INFO></NAVI>¿¡¼­ ±×°£ º¸Áö ¸øÇß´ø °­·ÂÇÑ Å°¸Þ¶ó°¡ ³ªÅ¸³­´Ù°í ÇÑ´Ù. <NAVI>[·çÅ°]<INFO>que_swat,150,58,0,101,0</INFO></NAVI>´Â ±«¹° Å°¸Þ¶ó \'±Í¿°µÕÀÌ\'¸¦ Ã³Ä¡ÇØ ´Þ¶ó°í ÀÇ·ÚÇß´Ù."}
 , Summary = "±Í¿°µÕÀÌ Ã³Ä¡"}
 , 
-[7743] = {Title = "ÀÜ´ç ¼ÒÅÁ-´ë±â", 
+[7743] = {Title = "ÀÜ´ç ¼ÒÅÁ-´ë±â", IconName = "ico_dq.bmp", 
 Description = {"¿µ¹®À» ¸ð¸¦ ³ë¸©ÀÌÁö¸¸, <NAVI>[º£¸£³Ê ¿¬±¸¼Ò ÁßÃß½Ç]<INFO>slabw01,240,88,0,101,0</INFO></NAVI>¿¡¼­ ±«¹° Å°¸Þ¶ó´Â Áö¼ÓÀûÀ¸·Î ³ªÅ¸³ª°í ÀÖ´Ù°í. <NAVI>[·çÅ°]<INFO>que_swat,150,58,0,101,0</INFO></NAVI>´Â Áö¼ÓÀûÀÎ Ã³¸®¸¦ ¹Ù¶ó´Â °Í °°´Ù."}
 , Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
 , 
-[7744] = {Title = "¼û¾îÀÖ´Â ¿¬±¸¿ø", 
+[7744] = {Title = "¼û¾îÀÖ´Â ¿¬±¸¿ø", IconName = "ico_dq.bmp", 
 Description = {"º£¸£³Ê ¿¬±¸¼Ò ³»ºÎ °÷°÷¿¡´Â ¹ÌÃ³ ¸öÀ» »©Áö ¸øÇÑ ¿¬±¸¿øµéÀÌ ¼û¾îÀÖ´Ù. <NAVI>[ÇÊ·ÎÆùÅ×½º]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>´Â ¼û¾îÀÖ´Â Á÷¿øÀÌ³ª ¿¬±¸¿øÀ» Ã£¾Æ´Þ¶ó°í Çß´Ù."}
 , Summary = "¿¬±¸¿ø 3¸í Ã£±â"}
 , 
-[7745] = {Title = "¼û¾îÀÖ´Â ¿¬±¸¿ø-´ë±â", 
+[7745] = {Title = "¼û¾îÀÖ´Â ¿¬±¸¿ø-´ë±â", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[ÇÊ·ÎÆùÅ×½º]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>ÀÇ ¿¬±¸¼Ò ¼ö»öÀº °è¼Ó µÉ µí ÇÏ´Ù. ½Ã°£ÀÌ ³ª¸é °¡¼­ µµ¿ÍÁÖÀÚ."}
 , Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
 , 
@@ -14838,6 +14838,10 @@ Description = {"Ãµ»ç´ÞÆØÀÌ 20¸¶¸®¿Í ´«Åä³¢´ÞÆØÀÌ 20¸¶¸®¸¦ Ã³Ä¡ÇÏ°í,", "<ITEM>[¸»
 [8858] = {Title = "Â¬Â©ÇÑ ¸À°ú ´Þ´ÞÇÑ ¸À°ú ½Å¸À", IconName = "ico_dq.bmp", 
 Description = {"Ãµ»ç´ÞÆØÀÌ 20¸¶¸®¿Í ´«Åä³¢´ÞÆØÀÌ 20¸¶¸®, ±×¸®°í ¸á¸®º£´ÞÆØÀÌ 20¸¶¸®¸¦ Ã³Ä¡ÇÏ°í,", "<ITEM>[¸»¶û¸»¶û Çü±¤ ¼¼Æ÷(Â¬Â©)]<INFO>1001232</INFO></ITEM> 10°³,", "<ITEM>[¸»¶û¸»¶û Çü±¤ ¼¼Æ÷(´Þ´Þ)]<INFO>1001233</INFO></ITEM> 10°³,", "<ITEM>[¸»¶û¸»¶û Çü±¤ ¼¼Æ÷(»õÄÞ)]<INFO>1001231</INFO></ITEM> 10°³¸¦", "<NAVI>[¶Ç·á·á]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>¿¡°Ô °¡Á®´Ù ÁÖ¸é µÈ´Ù."}
 , Summary = "¾ÆÀÌÅÛ Á¶´Þ"}
+, 
+[8859] = {Title = "µ£¿¡ °É¸° °Í 5°³ È¸¼ö", IconName = "ico_dq.bmp", 
+Description = {"µ£¿¡ °É¸° °Íµé 5°³¸¦ È¸¼öÇß´Ù."}
+, Summary = "¿¡·çÀÎ°ú ´ëÈ­"}
 , 
 [9000] = {Title = "³ªÀÌÆ® ÀüÁ÷À¸·ÎÀÇ ½ÃÀÛ", IconName = "ico_jq.bmp", 
 Description = {"±â»ç´ÜÀå Çì¸£¸¸Àº ±â»çÀüÁ÷À» À§ÇØ ¿ì¼± ´Ù¸¥ <NAVI>[±â»ç]<INFO>prt_in,75,107,0,101,0</INFO></NAVI>µéÀÇ ½ÂÀÎÀ» ¹Þ¾Æ¾ßÇÑ´Ù°í Çß´Ù."}
@@ -22587,6 +22591,14 @@ Description = {"¿À¿°µÈ Å×¶óÀÇ ºÐ³ë 10°³¸¦ ±¸ÇÑ µÚ <NAVI>[Á¤·É ¹Î¿ø ´Ü¸»±â]<INFO>
 Description = {"¿À¿°µÈ Á¤·ÉµéÀÇ ºÐ³ë 20°³¸¦ ±¸ÇÑ µÚ <NAVI>[Á¤·É ¹Î¿ø ´Ü¸»±â]<INFO>t_garden,124,122,0,101,0</INFO></NAVI> ¾È¿¡ ºÀÀÎÇØ ´Þ¶ó´Â ¿äÃ»À» ¹Þ¾Ò´Ù. ÀØÇôÁø ±â¾ïÀÇ °¢ ±¸¿ªÀ» µ¹¸ç Ã£¾Æº¸ÀÚ."}
 , Summary = "¿À¿°µÈ Á¤·ÉµéÀÇ ºÐ³ë 20°³ ±¸ÇÏ±â"}
 , 
+[12644] = {Title = "´ë¿ÕÆ÷¸µ ÄíÆù", 
+Description = {"Æ÷¸µ ´ë¿ÕÀ» Ã³Ä¡ÇÏ½Å ÀÌÈÄ¿¡´Â <NAVI>[Ã¤¼Ò °­È­»ç]<INFO>prt_fild05,173,238,0,101,0</INFO></NAVI> ¸¦ Ã£¾Æ°¡ º¾½Ã´Ù. <ITEM>[Æ÷¸µ¸¶À» ´ç±Ù]<INFO>19239</INFO></ITEM> ¶Ç´Â <ITEM>[Æ÷¸µ¸¶À» ´ëÆÄ]<INFO>19238</INFO></ITEM> ¸¦ °¡Áö°í ÀÖ´Ù¸é ÀÌ ÁõÇ¥¸¦ ³»°í ^0000ff¹«·á·Î °­È­^000000ÇÒ ¼ö ÀÖ½À´Ï´Ù."}
+, Summary = "ÀÌ ÁõÇ¥´Â ¹«·á·Î ¾ßÃ¤¸¦ °­È­ÇØ ÁÝ´Ï´Ù."}
+, 
+[12645] = {Title = "Å¸¶ôÇÑ ¿ÀÅ© È÷¾î·Î Ã³Ä¡", 
+Description = {"±¼·ÎÅ©ÀÇ ¿µÈ¥ÀÌ Å¸¶ôÇÑ ¿ÀÅ© È÷¾î·Î¸¦ Ã³´ÜÇØ ÁÖ±æ °£ÀýÈ÷ ¿øÇÏ°í ÀÖ½À´Ï´Ù. ±×ÀÇ ¹Ù¶÷À» µé¾îÁÖ°í ¸¶À½ÀÇ ÆòÈ­¸¦ Ã£µµ·Ï µµ¿ÍÁÝ½Ã´Ù."}
+, Summary = "±¼·ÎÅ©ÀÇ ºÎÅ¹ÀÔ´Ï´Ù."}
+, 
 [13000] = {Title = "RWC2011Ä«µå ±¸ÇÏ±â", 
 Description = {"ÆÄ¶õÄ«µå¸¦ ¸ð¾Æ¼­ RWC2011¸¦ ¿Ï¼ºÇÏÀÚ"}
 , Summary = ""}
@@ -29213,6 +29225,102 @@ Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼
 Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ÇÁ·ÐÅ×¶ó ¾ß½ÃÀåÀÇ Á¡¼º°¡¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
 , Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
 , 
+[16778] = {Title = "¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º ¾È³»", IconName = "ico_nq.bmp", 
+Description = {"<NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô ¹Ù¸£¹®Æ® ¹ÙÀÌ¿À½ºÇÇ¾î¿¡ »õ·Î ¹ß°ßµÈ ½ÉÃþ ¾îºñ½º¿¡ ´ëÇØ ¾È³»¸¦ ¹ÞÀ¸·¯ °¡ÀÚ."}
+, Summary = "½ÉÃþ ¾îºñ½º ¾È³»"}
+, 
+[16779] = {Title = "½ÉÃþ ¾îºñ½º Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ Á¾·ù¸¦ ºÒ¹®ÇÏ°í 450¸¶¸®ÀÇ ¸ó½ºÅÍ¸¦ ÀâÀº µÚ, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16780] = {Title = "½ÉÃþ ¾îºñ½º Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16781] = {Title = "½ÉÃþ ¾îºñ½º ÀÎ°£Çü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ µÎ³×ÀÌ¸£]<INFO>BIO_DUNEYRR,0,0,3,-222,1</INFO></NAVI>¸¦ 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16782] = {Title = "½ÉÃþ ¾îºñ½º ÀÎ°£Çü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16783] = {Title = "½ÉÃþ ¾îºñ½º µ¿¹°Çü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ ³ª°¡]<INFO>BIO_NAGA,0,0,3,-222,1</INFO></NAVI>¸¦ 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16784] = {Title = "½ÉÃþ ¾îºñ½º µ¿¹°Çü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16785] = {Title = "½ÉÃþ ¾îºñ½º ½Ä¹°Çü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ ¿¡ÀÎ¼ÇÆ® Æ®¸®]<INFO>BIO_ANCIENT_TREE,0,0,3,-222,1</INFO></NAVI>¸¦ 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16786] = {Title = "½ÉÃþ ¾îºñ½º ½Ä¹°Çü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16787] = {Title = "½ÉÃþ ¾îºñ½º ¾îÆÐÇü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ µ¹·ÎÄ«¸®½º]<INFO>BIO_DOLLOCARIS,0,0,3,-222,1</INFO></NAVI>¸¦ 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16788] = {Title = "½ÉÃþ ¾îºñ½º ¾îÆÐÇü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16789] = {Title = "½ÉÃþ ¾îºñ½º ¾Ç¸¶Çü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ ³Ãµ¿ °¡°íÀÏ]<INFO>BIO_ICE_GARGOYLE,0,0,3,-222,1</INFO></NAVI>À» 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16790] = {Title = "½ÉÃþ ¾îºñ½º ¾Ç¸¶Çü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16791] = {Title = "½ÉÃþ ¾îºñ½º ºÒ»çÇü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ ÇÃ·¹ÀÓ °í½ºÆ®]<INFO>BIO_FLAME_GHOST,0,0,3,-222,1</INFO></NAVI>¸¦ 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16792] = {Title = "½ÉÃþ ¾îºñ½º ºÒ»çÇü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16793] = {Title = "½ÉÃþ ¾îºñ½º ¿ëÁ· Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ ¾î½Ã´õ½º]<INFO>BIO_ACIDUS_,0,0,3,-222,1</INFO></NAVI>¸¦ 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16794] = {Title = "½ÉÃþ ¾îºñ½º ¿ëÁ· Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16795] = {Title = "½ÉÃþ ¾îºñ½º Ãµ»çÇü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ ¸ð·ÎÅ©ÀÇ Çö½Å]<INFO>BIO_MOROCC_1,0,0,3,-222,1</INFO></NAVI>À» 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16796] = {Title = "½ÉÃþ ¾îºñ½º Ãµ»çÇü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16797] = {Title = "½ÉÃþ ¾îºñ½º ¹«Çü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ »ì¶ó¸¸´Ù]<INFO>BIO_SALAMANDER,0,0,3,-222,1</INFO></NAVI>¸¦ 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16798] = {Title = "½ÉÃþ ¾îºñ½º ¹«Çü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16799] = {Title = "½ÉÃþ ¾îºñ½º °ïÃæÇü Ç¥º» ¿¬±¸", IconName = "ico_dq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡¼­ <NAVI>[½É¿¬ÀÇ ¸ð½ºÅ³·Î]<INFO>BIO_MOSKILLO,0,0,3,-222,1</INFO></NAVI>¸¦ 25¸¶¸® Àâ°í, ¹Ù¸£¹®Æ® ÀúÅÃ Ã¼½º Á¤¿øÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¿¡°Ô º¸°íÇÏÀÚ."}
+, Summary = ""}
+, 
+[16800] = {Title = "½ÉÃþ ¾îºñ½º °ïÃæÇü Ç¥º» ¿¬±¸-´ë±â", IconName = "ico_dq.bmp", 
+Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù. ¹Ù¸£¹®Æ® ÀúÅÃ ³»ºÎÀÇ <NAVI>[¿¬±¸ ÀÇ·Ú ´ã´çÀÚ]<INFO>ba_chess,25,13,0,101,0</INFO></NAVI>¸¦ ÅëÇØ Äù½ºÆ® ¼öÁÖ°¡ °¡´ÉÇÕ´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[16801] = {Title = "¾îºñ½º ¿¬±¸ÀÚ", IconName = "ico_nq.bmp", 
+Description = {"¹ÙÀÌ¿À½ºÇÇ¾î ½ÉÃþ ¾îºñ½º¿¡ ´ëÇØ¼­ ±íÀÌ ¿¬±¸Çß´Ù."}
+, Summary = ""}
+, 
 [17000] = {Title = "´ëÈ­ °ÅºÎ", IconName = "ico_ep.bmp", 
 Description = {"<NAVI>[·¹ÀÌÁö]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>¾¾´Â ´õ ÀÌ»ó Ä«¾ß Åä½º ºÎ»çÀå°ú ´ëÈ­ ÇÏ±â¸¦ °ÅºÎÇß´Ù. ¹«½¼ »ç¿¬ÀÌ ÀÖ´ÂÁö ¹°¾î º¸ÀÚ."}
 , Summary = "·¹ÀÌÁö¾¾¿Í ´ëÈ­"}
@@ -30644,7 +30752,7 @@ Description = {"¸ÕÀú ¿À½Å ÀÏÇàºÐµéÀº ÇöÀç <NAVI>[ÂþÁý]<INFO>ba_in01,206,106,0,10
 , Summary = "ÂþÁýÀ¸·Î"}
 , 
 [17382] = {Title = "´«²É´Ù¹ß ¸¸µé±â", IconName = "ico_ev.bmp", 
-Description = {"´«²É´Ù¹ßÀ» ¸¸µé°í ½ÍÀ¸½Ã´Ù°í¿ä? ±×·³ ´«µ¿ÀÚ°¡ ÁÖ´Â <ITEM>[¸¶·ÂÀÇ ´«²É]<INFO>25425</INFO></ITEM> 10°³¸¦ °¡Áö°í ´Ù½Ã <NAVI>[ÀÌ°÷]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>À¸·Î ¿À¼¼¿ä."}
+Description = {"´«²É´Ù¹ßÀ» ¸¸µé°í ½ÍÀ¸½Ã´Ù°í¿ä? ±×·³ ¾Ëµ¥¹Ù¶õ ÁÖº¯ ÇÊµåÀÇ ´« µ¿ÀÚ¿¡°Ô¼­ ¾òÀ» ¼ö ÀÖ´Â <ITEM>[¸¶·ÂÀÇ ´«²É]<INFO>25425</INFO></ITEM> 10°³¸¦ °¡Áö°í ´Ù½Ã <NAVI>[ÀÌ°÷]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>À¸·Î ¿À¼¼¿ä."}
 , Summary = "¸¶·ÂÀÇ ´«²É 10°³"}
 , 
 [17383] = {Title = "´«²É´Ù¹ß ¸¸µé±â", IconName = "ico_ev.bmp", 
@@ -30655,7 +30763,7 @@ Description = {"´«²É´Ù¹ß ¸¸µé±â ÀÌº¥Æ®´Â ¾ÕÀ¸·Î <NAVI>[È¯»óÀÇ ´«²É¼ú»ç]<INFO>ald
 Description = {"´«ÀÌ ³»¸®Áö ¾Ê´Â Áö¿ª¿¡´Â Èò ´«À», Ãß¿î Áö¿ª¿¡´Â µû¶æÇÑ ¼Ø¿ÊÀ»! µû¶æÇÑ °Ü¿ï³ª±â¸¦ µ½°í ½ÍÀ¸½Ã´Ù¸é <NAVI>[ÄÚÆ¼]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>¿Í ¿ï½Ã¸¦ Ã£¾Æ°¡ º¸¼¼¿ä."}
 , Summary = "ÄÚÆ¼¿¡°Ô"}
 , 
-[17385] = {Title = "ÃàÁ¦ Ä«µå ±³È¯", IconName = "ico_ev.bmp", 
+[17385] = {Title = "´ç½ÅÀ» À§ÇÑ ¼±¹°", IconName = "ico_ev.bmp", 
 Description = {"´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ Æ¯º°ÇÑ Ä«µå¸¦ Ã£À¸¼Ì´Ù°í¿ä? ±×·³ <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>°ú ºí¸µ¿¡°Ô °¡Áö°í °¡¼¼¿ä. Æ¯º°ÇÑ ¼±¹°À» ¹ÞÀ¸½Ç ¼ö ÀÖÀ» °Ì´Ï´Ù."}
 , Summary = "Æ®À®Å¬¿¡°Ô"}
 , 
@@ -30664,7 +30772,7 @@ Description = {"´«²É ÃàÁ¦¿¡ Ã£¾Æ ¿Â <NAVI>[Âü°ü°´]<INFO>aldebaran,162,127,0,101,
 , Summary = "½Ã°èÅ¾ ±ÙÃ³·Î"}
 , 
 [17387] = {Title = "´«²É´Ù¹ß ¸¸µé±â", IconName = "ico_ev.bmp", 
-Description = {"´«²É´Ù¹ßÀ» ¸¸µé±â À§ÇØ¼­´Â <ITEM>[¸¶·ÂÀÇ ´«²É]<INFO>25425</INFO></ITEM> 10°³°¡ ÇÊ¿äÇØ¿ä. ´«»ç¶÷µéÀÌ ÄÚ¿¡ Àå½ÄÇÒ ´ç±Ùµµ ¿øÇÏ°í ÀÖÀ¸´Ï <ITEM>[´ç±Ù]<INFO>515</INFO></ITEM> 1°³µµ ÀØÁö ¸¶½Ã°í¿ä. - <NAVI>[¸¶¸°]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+Description = {"´«²É´Ù¹ßÀ» ¸¸µé±â À§ÇØ¼­´Â ¾Ëµ¥¹Ù¶õ ÁÖº¯ ÇÊµåÀÇ ´« µ¿ÀÚ¿¡°Ô¼­ ¾òÀ» ¼ö ÀÖ´Â <ITEM>[¸¶·ÂÀÇ ´«²É]<INFO>25425</INFO></ITEM> 10°³°¡ ÇÊ¿äÇØ¿ä. ´«»ç¶÷µéÀÌ ÄÚ¿¡ Àå½ÄÇÒ ´ç±Ùµµ ¿øÇÏ°í ÀÖÀ¸´Ï <ITEM>[´ç±Ù]<INFO>515</INFO></ITEM> 1°³µµ ÀØÁö ¸¶½Ã°í¿ä. - <NAVI>[¸¶¸°]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
 , Summary = "´«²É 10°³, ´ç±Ù 1°³"}
 , 
 [17388] = {Title = "´ë±â: ³Ã±â°¡ ³²¾ÆÀÖ´Ù", IconName = "ico_ev.bmp", 
@@ -30676,23 +30784,23 @@ Description = {"´«ÀÌ ¿ÀÁö ¾Ê´Â ¾î¸°ÀÌµé¿¡°Õ ´«À»! Ãß¿î Áö¿ªÀÇ ¾î¸°ÀÌµé¿¡°Õ µû¶æÇ
 , Summary = "µû¶æÇÑ ¼Ø 10°³"}
 , 
 [17390] = {Title = "´ë±â: ¼ØÀº Æ÷Àå Áß", IconName = "ico_ev.bmp", 
-Description = {"¼ØÀº Áö±Ý Æ÷Àå ÁßÀÌ¿¡¿ä. »õº®¹«·Æ¿¡´Â Æ÷ÀåÀÌ ³¡³¯ °Í °°Àºµ¥ »õº®ÀÌ Áö³­ ÈÄ¿¡ ´Ù½Ã Ã£¾Æ ÁÖ¼¼¿ä! - <NAVI>[ÄÚÆ¼]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"}
+Description = {"¼ØÀº Áö±Ý Æ÷Àå ÁßÀÌ¿¡¿ä. »õº® ¹«·Æ¿¡´Â Æ÷ÀåÀÌ ³¡³¯ °Í °°Àºµ¥ »õº®ÀÌ Áö³­ ÈÄ¿¡ ´Ù½Ã Ã£¾Æ ÁÖ¼¼¿ä! - <NAVI>[ÄÚÆ¼]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"}
 , Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
 , 
-[17391] = {Title = "ÃàÁ¦ Ä«µå ±³È¯", IconName = "ico_ev.bmp", 
-Description = {"¸ðÇè°¡´ÔÀÇ Çà¿îÀÇ ´Ü¾î´Â DECEMBER!! ´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ ³ª¿À´Â ´«²É Ä«µå ºÀÅõ¸¦ ¿­¾î º¸¼¼¿ä. ±× ¼Ó¿¡ µé¾î ÀÖ´Â D.E.C.E.M.B.E.R ³¹¸» Ä«µå¸¦ ¸ð¾Æ ¿À½Ã¸é µÅ¿ä. ÃÑ 8ÀåÀÌ¿¡¿ä. - <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+[17391] = {Title = "´ç½ÅÀ» À§ÇÑ ¼±¹°", IconName = "ico_ev.bmp", 
+Description = {"¸ðÇè°¡´ÔÀÇ Çà¿îÀÇ ´Ü¾î´Â DECEMBER!! ¾Ëµ¥¹Ù¶õ ÁÖº¯ ÇÊµå¿¡ µ¹¾Æ´Ù´Ï´Â ´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ ³ª¿À´Â ´«²É Ä«µå ºÀÅõ¸¦ ¿­¾î º¸¼¼¿ä. ±× ¼Ó¿¡ µé¾î ÀÖ´Â D.E.C.E.M.B.E.R ³¹¸» Ä«µå¸¦ ¸ð¾Æ ¿À½Ã¸é µÅ¿ä. ÃÑ 8ÀåÀÌ¿¡¿ä. - <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
 , Summary = "DECEMBER Ä«µå ¸ðÀ¸±â"}
 , 
-[17392] = {Title = "ÃàÁ¦ Ä«µå ±³È¯", IconName = "ico_ev.bmp", 
-Description = {"¸ðÇè°¡´ÔÀÇ Çà¿îÀÇ ´Ü¾î´Â SNOW!! ´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ ³ª¿À´Â ´«²É Ä«µå ºÀÅõ¸¦ ¿­¾î º¸¼¼¿ä. ±× ¼Ó¿¡ µé¾î ÀÖ´Â S.N.O.W ³¹¸» Ä«µå¸¦ ¸ð¾Æ ¿À½Ã¸é µÅ¿ä. ÃÑ 4ÀåÀÌ¿¡¿ä. - <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+[17392] = {Title = "´ç½ÅÀ» À§ÇÑ ¼±¹°", IconName = "ico_ev.bmp", 
+Description = {"¸ðÇè°¡´ÔÀÇ Çà¿îÀÇ ´Ü¾î´Â SNOW!! ¾Ëµ¥¹Ù¶õ ÁÖº¯ ÇÊµå¿¡ µ¹¾Æ´Ù´Ï´Â ´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ ³ª¿À´Â ´«²É Ä«µå ºÀÅõ¸¦ ¿­¾î º¸¼¼¿ä. ±× ¼Ó¿¡ µé¾î ÀÖ´Â S.N.O.W ³¹¸» Ä«µå¸¦ ¸ð¾Æ ¿À½Ã¸é µÅ¿ä. ÃÑ 4ÀåÀÌ¿¡¿ä. - <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
 , Summary = "SNOW Ä«µå ¸ðÀ¸±â"}
 , 
-[17393] = {Title = "ÃàÁ¦ Ä«µå ±³È¯", IconName = "ico_ev.bmp", 
-Description = {"¸ðÇè°¡´ÔÀÇ Çà¿îÀÇ ´Ü¾î´Â FESTIVAL!! ´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ ³ª¿À´Â ´«²É Ä«µå ºÀÅõ¸¦ ¿­¾î º¸¼¼¿ä. ±× ¼Ó¿¡ µé¾î ÀÖ´Â F.E.S.T.I.V.A.L ³¹¸» Ä«µå¸¦ ¸ð¾Æ ¿À½Ã¸é µÅ¿ä. ÃÑ 8ÀåÀÌ¿¡¿ä. - <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+[17393] = {Title = "´ç½ÅÀ» À§ÇÑ ¼±¹°", IconName = "ico_ev.bmp", 
+Description = {"¸ðÇè°¡´ÔÀÇ Çà¿îÀÇ ´Ü¾î´Â FESTIVAL!! ¾Ëµ¥¹Ù¶õ ÁÖº¯ ÇÊµå¿¡ µ¹¾Æ´Ù´Ï´Â ´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ ³ª¿À´Â ´«²É Ä«µå ºÀÅõ¸¦ ¿­¾î º¸¼¼¿ä. ±× ¼Ó¿¡ µé¾î ÀÖ´Â F.E.S.T.I.V.A.L ³¹¸» Ä«µå¸¦ ¸ð¾Æ ¿À½Ã¸é µÅ¿ä. ÃÑ 8ÀåÀÌ¿¡¿ä. - <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
 , Summary = "FESTIVAL Ä«µå ¸ðÀ¸±â"}
 , 
-[17394] = {Title = "ÃàÁ¦ Ä«µå ±³È¯", IconName = "ico_ev.bmp", 
-Description = {"¸ðÇè°¡´ÔÀÇ Çà¿îÀÇ ´Ü¾î´Â WHITE!! ´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ ³ª¿À´Â ´«²É Ä«µå ºÀÅõ¸¦ ¿­¾î º¸¼¼¿ä. ±× ¼Ó¿¡ µé¾î ÀÖ´Â W.H.I.T.E ³¹¸» Ä«µå¸¦ ¸ð¾Æ ¿À½Ã¸é µÅ¿ä. ÃÑ 5ÀåÀÌ¿¡¿ä. - <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+[17394] = {Title = "´ç½ÅÀ» À§ÇÑ ¼±¹°", IconName = "ico_ev.bmp", 
+Description = {"¸ðÇè°¡´ÔÀÇ Çà¿îÀÇ ´Ü¾î´Â WHITE!! ¾Ëµ¥¹Ù¶õ ÁÖº¯ ÇÊµå¿¡ µ¹¾Æ´Ù´Ï´Â ´ç½ÅÀÇ ¼±¹°»óÀÚ¿¡¼­ ³ª¿À´Â ´«²É Ä«µå ºÀÅõ¸¦ ¿­¾î º¸¼¼¿ä. ±× ¼Ó¿¡ µé¾î ÀÖ´Â W.H.I.T.E ³¹¸» Ä«µå¸¦ ¸ð¾Æ ¿À½Ã¸é µÅ¿ä. ÃÑ 5ÀåÀÌ¿¡¿ä. - <NAVI>[Æ®À®Å¬]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
 , Summary = "WHITE Ä«µå ¸ðÀ¸±â"}
 , 
 [17395] = {Title = "´ë±â: Ä«µå ±³È¯Àº 1ÀÏ 1È¸", IconName = "ico_ev.bmp", 
@@ -31862,6 +31970,62 @@ Description = {"½ÉÇ÷À» ±â¿ïÀÎ ÇÁ·ÐÅ×¶óÀÇ ½ÅÈ£ ÀåÄ¡¸¦ º¸¿©µå¸®°Ú½À´Ï´Ù."}
 [17737] = {Title = "¾ÈÀü µî±Þ SSS", IconName = "ico_ev.bmp", 
 Description = {"ÀÌÁ¦ ±¦ÂúÀ¸´Ï±î¿ä. ¾Æ°¡ÀÏ¿¡°Ô °¡º¸¾Æ¾ß°Ú¾î¿ä. ¾ÆÁ÷ ÇÁ·ÐÅ×¶ó ¾ß½ÃÀå¿¡ ³²¾ÆÀÖ°ÚÁÒ?"}
 , Summary = "ÆøÁ×»óÀÎ¿¡°Ô"}
+, 
+[17738] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"¹üÀÎÀÌ ¾Ëµ¥¹Ù¶õ¿¡ ³²±ä <NAVI>[ÈçÀû]<INFO>aldebaran,143,177,0,101,0</INFO></NAVI>À» µû¶ó°¡ º¸ÀÚ."}
+, Summary = "ÈçÀû Ã£±â"}
+, 
+[17739] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"¹üÀÎÀÌ ¾Ëµ¥¹Ù¶õ¿¡ ³²±ä <NAVI>[ÈçÀû]<INFO>aldebaran,137,238,0,101,0</INFO></NAVI>À» µû¶ó°¡ º¸ÀÚ."}
+, Summary = "ÈçÀû Ã£±â"}
+, 
+[17740] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"¹üÀÎÀÌ ³²±ä <NAVI>[ÈçÀû]<INFO>yuno_fild01,222,48,0,101,0</INFO></NAVI>Àº ±¹°æ °Ë¹®¼Ò±îÁö ÀÌ¾îÁ®ÀÖ´Ù."}
+, Summary = "ÈçÀû Ã£±â"}
+, 
+[17741] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"±¹°æ °Ë¹®¼Ò ºÎ±Ù¿¡ ¹üÀÎÀÌ ³²±ä <NAVI>[ÈçÀû]<INFO>yuno_fild01,260,89,0,101,0</INFO></NAVI>ÀÌ ÀÌ¾îÁ®ÀÖ´Ù."}
+, Summary = "ÈçÀû Ã£±â"}
+, 
+[17742] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"±¹°æ °Ë¹®¼Ò ºÎ±Ù¿¡ ¹üÀÎÀÌ ³²±ä <NAVI>[ÈçÀû]<INFO>yuno_fild01,250,140,0,101,0</INFO></NAVI>ÀÌ Á» ´õ ¶Ñ·ÇÇØ º¸ÀÎ´Ù. ÀÌ ºÎ±Ù¿¡ ÀÖ´Â °Í °°Àºµ¥?!"}
+, Summary = "ÈçÀû Ã£±â"}
+, 
+[17743] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"±æÀ» ÀÒÀº °Í °°Àº °­¾ÆÁö¸¦ µ¥¸®°í ÀÏ´Ü ¾Ëµ¥¹Ù¶õÀÇ <NAVI>[Çà»çÀå]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>À¸·Î µ¹¾Æ°¡±â·Î Çß´Ù."}
+, Summary = "Çà»çÀåÀ¸·Î"}
+, 
+[17744] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"´«°­¾ÆÁö¸¦ ¸¸µé±â À§ÇÑ ±ú²ýÇÑ ´« 5µ¢¾î¸®°¡ ÇÊ¿äÇÏ´Ù. <NAVI>[·çÆ¼¿¡]<INFO>xmas_fild01,128,123,0,101,0</INFO></NAVI>·Î °¡º¸ÀÚ."}
+, Summary = "±ú²ýÇÑ ´«"}
+, 
+[17745] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"±ú²ýÇÑ ´« ÇÑ µ¢¾î¸®´Â ¾ò¾ú´Ù. ´ÙÀ½ <NAVI>[Àå¼Ò]<INFO>xmas_fild01,141,166,0,101,0</INFO></NAVI>·Î ÀÌµ¿ÇÏÀÚ."}
+, Summary = "±ú²ýÇÑ ´«"}
+, 
+[17746] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"ÀÌ Á¤µµ·Î ±ú²ýÇÑ ´«ÀÌ¸é µÇ°ÚÁö. ¶Ç ´Ù¸¥ <NAVI>[°÷]<INFO>xmas_fild01,169,214,0,101,0</INFO></NAVI>À» Ã£¾Æº¸ÀÚ."}
+, Summary = "±ú²ýÇÑ ´«"}
+, 
+[17747] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"´«À» ¿­½ÉÈ÷ ÆÇ º¸¶÷ÀÌ ÀÖ´Ù. ´Ù¸¥ ±ú²ýÇÑ <NAVI>[´«]<INFO>xmas_fild01,59,219,0,101,0</INFO></NAVI>À» Ã£À¸·¯ °¡ º¸ÀÚ."}
+, Summary = "±ú²ýÇÑ ´«"}
+, 
+[17748] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"ÀÌÁ¦ ¸¶Áö¸·À¸·Î ÇÑ µ¢¾î¸®¸¸ ³²¾Ò´Ù! ±ú²ýÇÑ <NAVI>[´«]<INFO>xmas_fild01,119,52,0,101,0</INFO></NAVI>ÀÌ ½×ÀÎ °÷À» Ã£¾Æº¸ÀÚ."}
+, Summary = "±ú²ýÇÑ ´«"}
+, 
+[17749] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"±ú²ýÇÑ ´«Àº ¸ðµÎ ¾ò¾úÀ¸´Ï ÀÌÁ¦ °í±â 1°³¸¦ °¡Áö°í <NAVI>[Ä«¹Ð]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>¾¾¿¡°Ô µ¹¾Æ°¡ÀÚ."}
+, Summary = "°í±â 1"}
+, 
+[17750] = {Title = "°Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"±ú²ýÇÑ ´«Àº ¸ðµÎ ¾ò¾úÀ¸´Ï ÀÌÁ¦ °í±â 1°³¸¦ °¡Áö°í <NAVI>[Ä«¹Ð]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>¾¾¿¡°Ô µ¹¾Æ°¡ÀÚ."}
+, Summary = "°í±â 1"}
+, 
+[17751] = {Title = "´ë±â: °Ü¿ï ´«²É ÃàÁ¦", IconName = "ico_ev.bmp", 
+Description = {"»õº®ÀÌ Áö³­ ÈÄ <NAVI>[Ä«¹Ð]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>¾¾¸¦ ´Ù½Ã µµ¿ÍÁÖÀÚ."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
 , 
 [18000] = {Title = "ÁøÀÔ ÁØºñ", IconName = "ico_ep.bmp", 
 Description = {"µåµð¾î ÇÏ¼ö°üÀÇ Àá±ÝÀåÄ¡ ÇØÁ¦¿¡ ¼º°øÇÑ ¸®º§¸®¿Â. ·çÅ°´Â ÇÏ¼ö°üÀ¸·Î ÁøÀÔÇÒ ÁØºñ°¡ ´Ù µÇ¸é ´Ù½Ã ¸»À» °É¾î ´Þ¶ó°í Çß´Ù."}
@@ -33567,6 +33731,30 @@ Description = {"¿À¸®·á Á¶º´¿¡°Ô ¸£°£Áö¿ªÀ¸·Î ÆÄ°ß ³ª°£ ¾ÆÀ© Ãø ´ë¿ø°ú Á¢¼±À» À§Ç
 Description = {"¿À¸®·á Á¶º´¿¡°Ô ¸£°£Áö¿ªÀ¸·Î ÆÄ°ß ³ª°£ ¾ÆÀ© Ãø ´ë¿ø°ú Á¢¼±À» À§ÇÑ Àå¼Ò¸¦ µé¾ú´Ù.", "<NAVI>[Á¢¼± Àå¼Ò]<INFO>jor_back6,353,260,0,101,0</INFO></NAVI>¿¡ °¡¼­ ¾Ï±¸È£¸¦ ´äÇÑ ÈÄ Á¤º¸¸¦ °¡Á®¿ÀÀÚ."}
 , Summary = ""}
 , 
+[19178] = {Title = "¿Õ½Ç »ç³É ´ëÈ¸ Á¢¼ö", IconName = "ico_ev.bmp", 
+Description = {"2023³â ¿Õ½Ç »ç³É ´ëÈ¸¿¡ Á¢¼öÇß½À´Ï´Ù."}
+, Summary = ""}
+, 
+[19179] = {Title = "[´ë±â] ´ëÃæ »ç´Â »ç³É²Û", IconName = "ico_ev.bmp", 
+Description = {"¿Õ½Ç »ç³É ´ëÈ¸ ÀÇ·Ú¸¦ ¼öÇàÇß½À´Ï´Ù. ´ë±â½Ã°£ ÈÄ <NAVI>[ÀÇ·Ú ´ã´ç ³ëµµ¸£]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI>¿¡°Ô °¡¸é ÀÇ·Ú¸¦ ´Ù½Ã ¼öÇàÇÒ ¼ö ÀÖ½À´Ï´Ù."}
+, Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
+, 
+[19180] = {Title = "´ëÃæ »ç´Â »ç³É²Û(Æ÷¸µ)", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[Æ÷¸µ]<INFO>PORING,0,0,3,-222,1</INFO></NAVI>À» 30¸¶¸® Àâ°í <NAVI>[ÀÇ·Ú ´ã´ç ³ëµµ¸£]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI>¿¡°Ô °¡¸é º¸»óÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."}
+, Summary = "Æ÷¸µ 30¸¶¸®"}
+, 
+[19181] = {Title = "´ëÃæ »ç´Â »ç³É²Û(·ç³ªÆ½)", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[·ç³ªÆ½]<INFO>LUNATIC,0,0,3,-222,1</INFO></NAVI>À» 30¸¶¸® Àâ°í <NAVI>[ÀÇ·Ú ´ã´ç ³ëµµ¸£]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI>¿¡°Ô °¡¸é º¸»óÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."}
+, Summary = "·ç³ªÆ½ 30¸¶¸®"}
+, 
+[19182] = {Title = "´ëÃæ »ç´Â »ç³É²Û(ÆÄºê¸£)", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[ÆÄºê¸£]<INFO>FABRE,0,0,3,-222,1</INFO></NAVI>À» 30¸¶¸® Àâ°í <NAVI>[ÀÇ·Ú ´ã´ç ³ëµµ¸£]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI>¿¡°Ô °¡¸é º¸»óÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."}
+, Summary = "ÆÄºê¸£ 30¸¶¸®"}
+, 
+[19183] = {Title = "´ëÃæ »ç´Â »ç³É²Û(¾ËÇÈÅ°)", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[¾ËÇÈÅ°]<INFO>PICKY_,0,0,3,-222,1</INFO></NAVI>À» 30¸¶¸® Àâ°í <NAVI>[ÀÇ·Ú ´ã´ç ³ëµµ¸£]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI>¿¡°Ô °¡¸é º¸»óÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù."}
+, Summary = "¾ËÇÈÅ° 30¸¶¸®"}
+, 
 [20000] = {Title = "À¯Àú Ä³¸¯ÅÍ ÀÎÁõ ¿Ï·á", IconName = "ico_ev.bmp", 
 Description = {"¶ó±×Æä½ºÀÇ À¯Àú Ä³¸¯ÅÍ ÀÎÁõ ¿Ï·áÇß½À´Ï´Ù!"}
 , Summary = "¶ó±×Æä½º"}
@@ -34320,7 +34508,7 @@ Description = {"ÇØ´ç Äù½ºÆ®´Â ÀÏÀÏ Äù½ºÆ®·Î, ´ë±â½Ã°£ ¸¸·á ½Ã ´Ù½Ã ¹Þ¾Æ ¼öÇàÇÒ ¼
 , Summary = "04½Ã ÃÊ±âÈ­", CoolTimeQuest = 1}
 , 
 [21112] = {Title = "¿À´Ãµµ ¾Ç¸ùÀ» ´Þ¸®´Â ¸»", IconName = "ico_dq.bmp", 
-Description = {"<NAVI>[³²ÀÚ]<INFO>gef_tower,48,140,0,101,0</INFO></NAVI>´Â ¿À´Ãµµ ¾Ç¸ùÀ» ²Ù¾ú´Ù¸ç ´Ù½Ã ³ªÀÌÆ®¸Þ¾î¸¦ Àâ¾Æ ¿À±â¸¦ ¿ä±¸Çß´Ù. Á¤¸» ³ªÀÌÆ®¸Þ¾î°¡ ¹®Á¦ÀÎ °ÍÀÏ±î? ¾Æ¹«Æ° ³ªÀÌÆ®¹Ì¾î 10¸¶¸®¸¦ ´Ù½Ã µÇÄ¡ÇØ º¸ÀÚ."}
+Description = {"<NAVI>[³²ÀÚ]<INFO>gef_tower,48,140,0,101,0</INFO></NAVI>´Â ¿À´Ãµµ ¾Ç¸ùÀ» ²Ù¾ú´Ù¸ç ´Ù½Ã ³ªÀÌÆ®¸Þ¾î¸¦ Àâ¾Æ ¿À±â¸¦ ¿ä±¸Çß´Ù. Á¤¸» ³ªÀÌÆ®¸Þ¾î°¡ ¹®Á¦ÀÎ °ÍÀÏ±î? ¾Æ¹«Æ° ³ªÀÌÆ®¸Þ¾î 10¸¶¸®¸¦ ´Ù½Ã µÇÄ¡ÇØ º¸ÀÚ."}
 , Summary = "³ªÀÌÆ®¸Þ¾î 10¸¶¸® Ã³Ä¡"}
 , 
 [21113] = {Title = "°øÁß»Ú¶ì ±Í¿©¿ö", IconName = "ico_nq.bmp", 

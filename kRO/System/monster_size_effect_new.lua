@@ -6050,6 +6050,46 @@ MonsterEff = {EFFECT.EF_NONE}
 [22219] = {MonsterSize = 1.4, 
 MonsterEff = {EFFECT.EF_NONE}
 }
+, 
+[22258] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22254] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22255] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22252] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22257] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22256] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22259] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22261] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22253] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
+, 
+[22260] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
+}
 }
 main = function()
   -- function num : 0_0

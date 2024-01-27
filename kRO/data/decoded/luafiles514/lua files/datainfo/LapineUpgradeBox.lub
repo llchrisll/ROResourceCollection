@@ -5,6 +5,18 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+Loki_Coin_4 = {ItemID = 102676, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Gambler_Seal_KR_", 410233}
+}
+, NeedSource_String = "갬블러의 씰(1)"}
+, 
+Loki_Advice_4 = {ItemID = 102677, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Clover_Ace_Defense", 420269}
+}
+, NeedSource_String = "입에 문 클로버 에이스(방어)"}
+, 
 Fan_Upgrade_Kit_EX = {ItemID = 102344, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"SeeOtter_Fan_LT", 490374}
@@ -5718,6 +5730,18 @@ TargetItems = {
 {"S_Stout_Pendant", 24878}
 , 
 {"S_Stout_Earring", 24879}
+, 
+{"S_Full_Spell_Armor", 24883}
+, 
+{"S_Full_Spell_Shoes", 24884}
+, 
+{"S_Centering_Pendant", 24885}
+, 
+{"S_Centering_Earring", 24886}
+, 
+{"S_Witty_Pendant", 24887}
+, 
+{"S_Witty_Earring", 24888}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 
@@ -7288,6 +7312,18 @@ TargetItems = {
 {"S_Stout_Pendant", 24878}
 , 
 {"S_Stout_Earring", 24879}
+, 
+{"S_Full_Spell_Armor", 24883}
+, 
+{"S_Full_Spell_Shoes", 24884}
+, 
+{"S_Centering_Pendant", 24885}
+, 
+{"S_Centering_Earring", 24886}
+, 
+{"S_Witty_Pendant", 24887}
+, 
+{"S_Witty_Earring", 24888}
 }
 , NeedSource_String = "쉐도우 아이템"}
 , 

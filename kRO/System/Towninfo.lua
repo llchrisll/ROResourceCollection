@@ -607,6 +607,16 @@ icecastle = {
 wolfvill = {
 {name = "상점과 창고", X = 167, Y = 135, TYPE = 0}
 }
+, 
+ba_maison = {
+{name = "위치안내", X = 193, Y = 69, TYPE = 4}
+, 
+{name = "위치안내", X = 193, Y = 133, TYPE = 4}
+, 
+{name = "위치안내", X = 73, Y = 169, TYPE = 4}
+, 
+{name = "위치안내", X = 297, Y = 200, TYPE = 4}
+}
 }
 main = function()
   -- function num : 0_0

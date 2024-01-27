@@ -4,19 +4,17 @@
 -- params : ...
 -- function num : 0
 tb_cashshop_banner = {
-[1] = {"01_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1183&kind=A&curpage=1"}
+[1] = {"01_Cashshop_Banner.bmp", "https://ro.gnjoy.com/event/2023/12/1206_ro1_winterPromotion_ZEMV_DIJ1277"}
 , 
-[2] = {"02_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1184&kind=A&curpage=1"}
+[2] = {"02_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1194&kind=A&curpage=1"}
 , 
-[3] = {"03_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1181&kind=A&curpage=1"}
+[3] = {"03_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1189&kind=A&curpage=1"}
 , 
-[4] = {"04_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1182&kind=A&curpage=1"}
+[4] = {"04_Cashshop_Banner.bmp", "https://ro.gnjoy.com/news/event/View.asp?Seq=1190&kind=A&curpage=1"}
 , 
-[5] = {"05_Cashshop_Banner.bmp", "https://ro.gnjoy.com/event/2023/09/0920_ro1_boosterPromotionEvent/"}
+[5] = {"05_Cashshop_Banner.bmp", "https://ro.gnjoy.com/event/2023/03/0302_ro1_vipSupport_H4WE8R9F32/"}
 , 
-[6] = {"06_Cashshop_Banner.bmp", "https://ro.gnjoy.com/event/2023/03/0302_ro1_vipSupport_H4WE8R9F32/"}
-, 
-[7] = {"RO_Cashshop_ingame.bmp", "http://ro.gnjoy.com"}
+[6] = {"RO_Cashshop_ingame.bmp", "http://ro.gnjoy.com"}
 }
 set_cashshop_banner = function()
   -- function num : 0_0
