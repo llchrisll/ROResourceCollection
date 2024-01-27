@@ -1,0 +1,126 @@
+%f5f5dc
+^000088Prontera Castle Commissary Arner Exchange item - Consumables^000000
+
+^ff0000[City Map]^000000
+A guide map to center of city.
+When used, enable use of Lv1 [Increase Agility]
+Caution! - This item won't work while your character is casting a spell or skill.
+Caution! - This item consumes 15 HP and will be ineffective if the character has lower than 15 HP.
+Weight : 1
+
+^ff0000[Shining Holy Water]^000000
+Damage taken from Room of Consciousness and Prontera Invasion Dungeon monsters -10% for 3 minutes.
+Restores 1000 HP and cures Curse, Poison and Silence.
+Weight : 1.5
+
+^ff0000[Prison Key]^000000
+Several old and dirty keys that are held together by a metal ring.
+that instantly sends its user to the underground dungeon of Prontera when actived.
+Weight : 1
+
+^ff0000[Prontera Badge]^000000
+A prontera emblem crafted on it. When active, it will teleport you to prontera.
+Enable use of [Move to Prontera].
+Weight : 1 
+
+
+^000088Prontera Castle Commissary Arner Exchange item - Armors^000000
+
+^ff0000[City Map]^000000
+A guide map to center of city.
+When used, enable use of Lv3 [Increase Agility]
+Class : Accessory 
+Defense : 0
+Weight : 10 
+Required Level : 40 
+Jobs :  All Jobs
+Slot : 1
+
+^ff0000[Shining Holy Water]^000000
+Damage taken from Room of Consciousness and Prontera Invasion Dungeon monsters -20%.
+Restores 100 HP and 5 SP every 10 seconds.
+Class : Accessory Defense : 0 
+Weight : 15 
+Required Level : 100 
+Jobs :  All Jobs
+Slot : 1
+
+^ff0000[Royal Guard Shield]^000000
+Prontera Kingdom's Knight Shield.
+Enable use of  Lv1 [Shield Spell].
+When receiving a melee physical attack, has a chance of casting Lv3 [Assumptio] on yourself.
+For every refine level, increase chance of casting Lv3 [Assumptio].
+Every refine level, DEF +10, MDEF +1.
+ 
+Class : Shield Defense : 30
+Weight : 300
+Required Level : 100
+Jobs : All Jobs
+
+^ff0000[Prontera Badge]^000000
+Enable use of [Move to Prontera].
+15 minutes cooldown.
+ 
+Class : Accessory Defense : 0
+Weight : 10
+Required Level : 40
+Jobs : All Jobs
+Slot : 1
+
+^ff0000[Flattery Robe]^000000
+Attire for those who would use whatever means necessary to bring their desires to pass.
+ 
+Enable use of Lv1 [Endure].
+MATK +50 
+If base level is 120 or above, MATK +50 additionally.
+If base level is 140 or above, MATK +50 additionally.
+ 
+Equip with ^008080Ancient Cape^000000,
+Max SP +10%, for every refine level of the Flattery Robe, Max SP +1% additionally.
+FLEE +10, for every refine level of the Flattery Robe, FLEE +1 additionally.
+ 
+Equip with ^008080Survivor's Manteau [0]^000000,
+Max HP +10%, for every refine level of the Flattery Robe, Max HP +1% additionally.
+MATK +2%, for every refine level of the Flattery Robe, MATK +1% additionally.
+ 
+Class : Armor Defense : 0
+Weight : 10
+Required Level : 100
+Jobs : All Jobs
+
+^ff0000[Invective Robe]^000000
+Attire for those who can inflict critical damage straight to the soul by talking.
+ 
+Enable use of Lv1 [Improve Concentration].
+For every refine level, DEF pierce on Demi-human, Demon and Undead enemies +4%.
+ 
+Equip with ^008080Morrigane's Manteau^000000, 
+DEF pierce on Demi-human, Demon and Undead enemies +15%.
+LUK +3, CRIT +10.
+For refine level of Invective Robe, LUK +1, CRI +1 additionally.
+ 
+Equip with ^008080Valkyrie Manteau^000000,
+DEF pierce on Demi-human, Demon and Undead enemies +15%.
+Max HP +10%, ATK +2%.
+For refine level of Invective Robe, Max HP +1%, ATK +1% additionally.
+ 
+Class : Armor Defense : 0
+Weight : 10
+Required Level : 100
+Jobs : All Jobs
+
+^ff0000[Costume Decoration Time]^000000
+It feels locked inside the flow of time.
+Class : Costume 
+Defense : 0 
+Location : Middle
+Weight : 0 
+Required Level : 1 
+Jobs :  All Jobs
+
+^ff0000[Costume Fate of Black Hand]^000000
+A costume that makes you feel like your head is trapped in the costume and your fate is controlled by it.
+Class : Costume Defense : 0 
+Location : Upper Weight : 0 
+Required Level : 1 
+Jobs :  All Jobs

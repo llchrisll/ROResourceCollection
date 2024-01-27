@@ -1,0 +1,169 @@
+^ff0000---- Chapter of Ardor, the Fire Spirit ----^000000
+
+Legendary fire spirit, Ardor, bestows the power of fire on the summoner.
+Spirit Control ability allows them to take different actions individually.
+
+Increases fire property magical damage by 10%, and Conflagration damage by 30%.
+
+^fa8072[Spirit Control Level 1: Passive Mode]^000000
+"Summoner, I give you the power of flame."
+
+[Flame Technique]
+i. Increases Fire Bolt's MATK by 100%.
+ii. When the summoner uses a normal physical attack, there is a 7% chance to cast Level 1 Fire Bolt.
+(If a higher level is learned, activates according to highest level)
+iii. Psychic Wave becomes fire property.
+
+^0000ff[Spirit Control Level 2: Defensive Mode]^000000
+"Summoner, receive the protection of fire."
+
+[Flame Armor]
+i. Adds fire property to the summoner's armor property.
+ii. Summoner's resistance to fire property +100, resistance to water property -30.
+
+^ff0000[Spirit Control Level 3: Offensive Mode]^000000
+"I take care of it myself"
+
+[Flame Rock]
+i. Creates an instant fire in a 7x7 area around the target and Ardor, burning enemies within the range.
+Inflicts MATK 2400% fire property magic damage that ignores the target's magic defense.
+(Damage is additionally increased according to the summoner's base level.)
+
+
+
+
+
+^0000ff---- Chapter of Diluvio, the Water Spirit ----^000000
+
+Legendary water spirit, Diluvio, bestows the power of water and ice on the summoner.
+Spirit Control ability allows them to take different actions individually.
+
+Increases water property magical damage by 10%, and Diamond Storm damage by 30%.
+
+^fa8072[Spirit Control Level 1: Passive Mode]^000000
+"Summoner, receive the power of pure ice."
+
+[Cold Force]
+i. Increases Cold Bolt's MATK by 100%.
+ii. When the summoner uses a normal physical attack, there is a 7% chance to cast Level 1 Cold Bolt.
+(If a higher level is learned, activates according to highest level)
+iii. Psychic Wave's becomes water property.
+
+^0000ff[Spirit Control Level 2: Defensive Mode]^000000
+"Summoner, receive the protection of the water."
+
+[Crystal Armor]
+i. Adds water property to the summoner's armor property.
+ii. Summoner's water resistance +100, wind resistance -30.
+
+^ff0000[Spirit Control Level 3: Offensive Mode]^000000
+"I hope my strength will be of help to the summoner."
+
+[Age of Ice]
+i. Creates an ice storm in an 11X11 area around Diluvio, hitting enemies within the range.
+Inflicts MATK 3700% water property magic damage that ignores the target's magic defense.
+(Damage is additionally increased according to the summoner's base level.)
+
+
+
+
+^000088---- Chapter of Procella, the Wind Spirit ----^000000
+
+Legendary wind spirit, Procella, bestows the power of wind and lightning on the summoner.
+Spirit Control ability allows them to take different actions individually.
+
+Increases wind property magical damage by 10%, and Lightning Land damage by 30%.
+
+^fa8072[Spirit Control Level 1: Passive Mode]^000000
+"The power of wind and lightning to the summoner!"
+
+[Grace Breeze]
+i. Increases Lightning Bolt MATK by 100%.
+ii. When the summoner uses a normal physical attack, there is a 7% chance to cast Level 1 Lightning Bolt.
+(If a higher level is learned, activates according to highest level)
+iii. Psychic Wave's becomes wind property.
+
+^0000ff[Spirit Control Level 2: Defensive Mode]^000000
+"The power of lightning to pierce the truth to the summoner!"
+
+[Eyes of the Storm]
+i. Adds wind property to the summoner's armor property.
+ii. Summoner's wind resistance +100, earth resistance -30.
+
+^ff0000[Spirit Control Level 3: Offensive Mode]^000000
+"I will bring judgment with the power of the storm."
+
+[Storm Wind]
+i. Creates a strong wind in a 5X5 area around the target and Procella, striking enemies within the range.
+Inflicts MATK 2600% wind property magic damage that ignores the target's magic defense.
+(Damage is additionally increased according to the summoner's base level.)
+
+
+
+
+
+^008040---- Chapter of Terremotus, the Earth Spirit ----^000000
+
+Legendary earth spirit, Terremotus, bestows the power of earth on the summoner.
+Spirit Control ability allows them to take different actions individually.
+
+Increases earth property magical damage by 10%, and Terra Drive damage by 30%.
+
+^fa8072[Spirit Control Level 1: Passive Mode]^000000
+"Feel it, Summoner, this is the power of the earth."
+
+[Earth Care]
+i. Increases Earth Spike MATK by 80%.
+ii. When the summoner uses a normal physical attack, there is a 7% chance to cast Level 1 Earth Spike.
+(If a higher level is learned, activates according to highest level)
+iii. Psychic Wave's becomes earth property.
+
+^0000ff[Spirit Control Level 2: Defensive Mode]^000000
+"Feel the perseverance of the strong earth"
+
+[Strong Protection]
+i. Adds earth property to the summoner's armor attribute.
+ii. Summoner's earth resistance +100, fire resistance -30.
+
+^ff0000[Spirit Control Level 3: Offensive Mode]^000000
+"Unleash the fury of the earth"
+
+[Avalanche]
+i. Unleash rock spear to enemies within a 9x9 range around the target.
+Inflicts MATK 450% continuous magic damage that ignores the target's magic defense 7 times.
+(Damage is additionally increased according to the summoner's base level.)
+
+
+
+
+
+^7112FF---- Chapter of Serpens, the Poison Spirit ----^000000
+
+Legendary poison spirit, Serpens, bestows the power of poison on the summoner.
+Spirit Control ability allows them to take different actions individually.
+
+Increases Poison property magical damage by 10%, and Venom Swamp damage by 30%.
+
+^fa8072[Spirit Control Level 1: Passive Mode]^000000
+"Can you handle it, Summoner?"
+
+[Deep Poisoning]
+i. Increases Killing Cloud MATK by 50%.
+ii. When a summoner uses a normal physical attack, there is a 7% chance to cast Level 1 Poison Burst.
+(If a higher level is learned, activates according to highest level)
+iii. Psychic Wave's becomes poison property.
+
+^0000ff[Spirit Control Level 2: Defensive Mode]^000000
+"I will protect you with the power of poison."
+
+[Poison Shield]
+i. Adds Poison property to summoner's armor property.
+ii. Summoner's Poison resistance +100, Holy resistance -30.
+
+^ff0000[Spirit Control Level 3: Offensive Mode]^000000
+"I will swallow them all with the power of deadly poison!"
+
+[Deadly Poison]
+i. Sprays poison in a 9x9 area around the target to enemies within the range.
+Inflicts MATK 700% continuous magic damage that ignores the target's magic defense 5 times.
+(Damage is additionally increased according to the summoner's base level.)
