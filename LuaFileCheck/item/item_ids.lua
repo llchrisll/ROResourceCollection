@@ -1,4 +1,4 @@
-Missing items from Korean Ragnarok Online [kRO]: 1043
+	* Korean Ragnarok Online [kRO]
 9148
 11627
 11628
@@ -1042,8 +1042,7 @@ Missing items from Korean Ragnarok Online [kRO]: 1043
 1100018
 1100019
 1100020
-
-Missing Items from Japan Ragnarok Online [jRO]: 2031
+	* Japan Ragnarok Online [jRO]
 1100
 1150
 1335
@@ -1169,13 +1168,11 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 19373
 19410
 19412
-19437
 19438
 19440
 19441
 19442
 19443
-19444
 19445
 19447
 19449
@@ -3075,7 +3072,7 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 1001561
 1001562
 1001569
- International Ragnarok Online [iRO]: 468
+	* International Ragnarok Online [iRO]
 1
 790
 791
@@ -3544,8 +3541,23 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 1000393
 1000394
 1001070
- Chinese Ragnarok Online [cRO]: 73
-6583
+	* Brazil Ragnarok Online [bRO]
+764
+1439
+1597
+1673
+1674
+1838
+2047
+4624
+5887
+5892
+5893
+5894
+5895
+5939
+5962
+5964
 6631
 6632
 6633
@@ -3564,79 +3576,11 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 6737
 6738
 6739
+6831
+6992
 7645
 7652
 7653
-12861
-12862
-14622
-14631
-14632
-14633
-14634
-14635
-14636
-14637
-14638
-14639
-14640
-14641
-14642
-14647
-14648
-14650
-14651
-14652
-14653
-14654
-14655
-14656
-14657
-14658
-14659
-14660
-14661
-14662
-14677
-14678
-17203
-17226
-17227
-17228
-17230
-17297
-18902
-22518
-22530
-22531
-22532
-22563
-22572
-22573
-22574
-22575
-22576
-22577
-22578
- Brazil Ragnarok Online [bRO]: 1274
-764
-1439
-1597
-1673
-1674
-1838
-2047
-4624
-5887
-5892
-5893
-5894
-5895
-5939
-5962
-5964
-6831
-6992
 7675
 7676
 7679
@@ -3687,6 +3631,8 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 11741
 12755
 12756
+12861
+12862
 13096
 13321
 13445
@@ -3694,6 +3640,36 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 13487
 13490
 14502
+14622
+14631
+14632
+14633
+14634
+14635
+14636
+14637
+14638
+14639
+14640
+14641
+14642
+14647
+14648
+14650
+14651
+14652
+14653
+14654
+14655
+14656
+14657
+14658
+14659
+14660
+14661
+14662
+14677
+14678
 14684
 14685
 14686
@@ -3935,7 +3911,13 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 16994
 17033
 17064
+17203
 17208
+17226
+17227
+17228
+17230
+17297
 17318
 17319
 17320
@@ -4080,6 +4062,7 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 18687
 18688
 18689
+18902
 18957
 18958
 18960
@@ -4258,6 +4241,18 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 22182
 22188
 22191
+22518
+22530
+22531
+22532
+22563
+22572
+22573
+22574
+22575
+22576
+22577
+22578
 22608
 22609
 22628
@@ -4893,7 +4888,7 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 490198
 490366
 700080
- Indonesia Ragnarok Online [idRO]: 393
+	* Indonesia Ragnarok Online [idRO]
 648
 649
 650
@@ -5287,7 +5282,7 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 490320
 490364
 1001023
- GHH Ragnarok Online [ghhRO]: 774
+	* GHH Ragnarok Online [ghhRO]
 755
 758
 759
@@ -6062,58 +6057,7 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 1001570
 1001571
 1001574
- Philippine Ragnarok Online [phRO]: 50
-71
-15459
-15895
-15896
-15901
-15902
-15903
-15907
-15908
-15909
-15910
-15911
-15912
-15913
-15914
-15915
-15916
-15917
-15918
-20938
-22250
-22251
-22252
-22253
-22254
-22255
-22256
-23326
-23407
-25621
-25732
-25750
-28642
-28967
-28968
-28969
-31592
-100774
-100775
-100776
-100777
-100778
-100843
-480112
-480113
-480132
-480133
-490138
-490144
-490154
- Taiwan Ragnarok Online [twRO]: 792
+	* Taiwan Ragnarok Online [twRO]
 6533
 6534
 6551
@@ -6907,5 +6851,13 @@ Missing Items from Japan Ragnarok Online [jRO]: 2031
 1001573
 1100002
 
-Total from from non-kro servers: 5855
-Total: 6898
+	* Korean Ragnarok Online [kRO]: 1043
+	* Japan Ragnarok Online [jRO]: 2029
+	* International Ragnarok Online [iRO]: 468
+	* Brazil Ragnarok Online [bRO]: 1346
+	* Indonesia Ragnarok Online [idRO]: 393
+	* GHH Ragnarok Online [ghhRO]: 774
+	* Taiwan Ragnarok Online [twRO]: 792
+
+Total from from non-kro servers: 5802
+Total: 6845
