@@ -1,6 +1,6 @@
 ## Sprite Folder List
  * 몬스터 > Monster Sprites
- * 도람족 > Doram + Wedding Sprites
+ * 도람족 > Doram Class related sprites (Wedding/Weapon,etc)
  * 로브 > Robes/Custome Garmnents
  * 아이템 > Skill Icons + Item Drop Sprites
  * 악세사리 > Headgears
@@ -21,6 +21,27 @@
  * npc > NPC Sprites
 ---
 ### File/folder Names for Classes
+* abyss_chaser = Abyss Chaser
+* arch_mage = Arch Mage
+* biolo = Biolo
+* cardinal = Cardinal
+* dragon_knight = Dragon Knight
+* elemetal_master = Elemental Master
+* hyper_novice = Hyper Novice
+* imperial_guard = Imperial Guard
+* inquisitor = Inquisitor
+* kagerou = Kagerou
+* meister = Meister
+* night_watch = Night Watch
+* oboro = Oboro
+* rebellion = Rebellion
+* shadow_cross = Shadow Cross
+* shinkiro(남)/shiranui(여) = Shinkiro/Shiranui
+* sky_emperor2 = Sky Emperor (Fusion)
+* sky_emperor = Sky Emperor
+* soul_ascetic = Soul Ascetic
+* troubadour(남)/trouvere(여) = Troubadour/Trouvere
+* windhawk = Wind Hawk
 * 가드 = Royal Guard
 * 건너 = Gunslinger
 * 검사 = Swordsman
@@ -36,7 +57,6 @@
 * 도둑 = Thief
 * 드래곤나이트 = Rune Knight
 * 레인져 = Ranger
-* 레인져늑대 = Ranger (Wolf Rider)
 * 로그_h = Rogue(?)
 * 로그 = Rogue
 * 로드나이트 = Lord Knight
@@ -111,18 +131,28 @@
 * 헌터 = Hunter
 * 화이트스미스 = Whitesmith
 -----------------------------------------
-* Class포링 = Poring Halter Sprites (Novice/Super Novice+Taekwon)
-* Class알파카 = Alpaca Halter Sprites (Acolyte Classes)
-* Class멧돼지 = Savage Halter Sprites (Merchant Classes)
-* 두꺼비Class = Frog Halter Sprites (Ninja/Soul Linker)
-* 사자Class = Lion Halter Sprites (Knight Classes)
-* 여우Class = Fox Halter Sprites (Magician Classes)
-* 켈베로스Class = Hyuena Halter Sprites (Thief Classes)
-* 타조Class = Ostrich Halter Sprites (Archer Classes)
-* 해태Class = Haetae Halter Sprites (Star Emperor/Soul Reaper)
-* 4th Class_riding_ = Halter Sprites
+Note: -Class- needs to be replaced with the respective name from above
+* -Class-_riding_ = Halter Sprites for 4th Classes
+* frog_kagerou = Frog Mount for Kagerou
+* frog_oboro = Frog Mount for Oboro
+* peco_rebellion = Bike Mount for Rebellion (why Peco?)
+
+* -Class-포링 = Poring Halter Sprites (Novice/Super Novice+Taekwon)
+* -Class-알파카 = Alpaca Halter Sprites (Acolyte Classes)
+* -Class-멧돼지 = Savage Halter Sprites (Merchant Classes)
+* 두꺼비-Class- = Frog Halter Sprites (Ninja/Soul Linker)
+* 사자-Class- = Lion Halter Sprites (Knight Classes)
+* 여우-Class-= Fox Halter Sprites (Magician Classes)
+* 켈베로스-Class- = Hyuena Halter Sprites (Thief Classes)
+* 타조-Class- = Ostrich Halter Sprites (Archer Classes)
+* 해태-Class- = Haetae Halter Sprites (Star Emperor/Soul Reaper)
 -----------------------------------------
-* 4th Class_chicken_ = Mount Sprites
+* -Class-_chicken_ = Mount Sprites for Dragon Knight and Imperial Guard
+* meister_madogear1 = Old Madogear for Meister
+* meister_madogear2 = New Madogear for Meister
+* wolf_windhawk = Wind Hawk (Wolf)
+
+* 레인져늑대 = Ranger (Wolf)
 * 신페코크루세이더_h = Crusader (Peco - Alternative)(?)
 * 신페코크루세이더 = Crusader (Peco - Alternative)
 * 페코rebellion = Rebellion on Peco
