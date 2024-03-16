@@ -12,11 +12,11 @@ SignBoardList = {
 , 
 {"prontera", 82, 108, 0, IT_BMP, "유저인터페이스\\information\\over_mkect.bmp"}
 , 
-{"prt_in", 37, 95, 15, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", "  메가 부스터 지원", "#0x00FFFFFF"}
+{"prt_in", 37, 95, 10, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", "  메가 부스터 지원", "#0x00FFFFFF"}
 , 
-{"sp_cor", 98, 136, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터일루시온인챈트", "#0x00FFFFFF"}
+{"sp_cor", 98, 136, 10, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터일루시온인챈트", "#0x00FFFFFF"}
 , 
-{"ba_maison", 136, 103, 15, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터오토매틱인챈트", "#0x00FFFFFF"}
+{"ba_maison", 136, 103, 10, IT_SIGNBOARD, "item\\Auto_M_I_Box_A.bmp", " 부스터오토매틱인챈트", "#0x00FFFFFF"}
 , 
 {"prontera", 134, 184, 15, IT_SIGNBOARD, "item\\콜오브네메시스.bmp", " 모험가 편의센터", "#0x00FFFFFF"}
 , 
@@ -1357,5 +1357,11 @@ SignBoardList = {
 {"ra_in01", 194, 148, 0, IT_SIGNBOARD, "item\\코스츔변경티켓.bmp", "  미용 쿠폰,코스튬 변경 티켓", "#0x00FFFFFF"}
 , 
 {"lasagna", 135, 110, 0, IT_SIGNBOARD, "item\\코스츔변경티켓.bmp", "  미용 쿠폰,코스튬 변경 티켓", "#0x00FFFFFF"}
+, 
+{"sp_cor", 98, 142, 10, IT_SIGNBOARD, "item\\13주년기념뱃지.bmp", "  일루시온 패스", "#0x00FFFFFF"}
+, 
+{"ba_maison", 132, 103, 10, IT_SIGNBOARD, "item\\13주년기념뱃지.bmp", "  현자의 유산 패스", "#0x00FFFFFF"}
+, 
+{"wolfvill", 166, 144, 10, IT_SIGNBOARD, "item\\13주년기념뱃지.bmp", "  기도의 방향 패스", "#0x00FFFFFF"}
 }
 

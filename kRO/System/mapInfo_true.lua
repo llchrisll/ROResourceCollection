@@ -4,6 +4,10 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["1@vrsn.rsw"] = {displayName = "Dr. 에그맨의 비밀 기지", notifyEnter = true, 
+signName = {subTitle = "환상총서-소닉", mainTitle = "Dr. 에그맨의 비밀 기지"}
+, backgroundBmp = "noname"}
+, 
 ["bl_depth2.rsw"] = {displayName = "바이오스피어 심층-어비스", notifyEnter = true, 
 signName = {subTitle = "바르문트의 바이오스피어", mainTitle = "심층-어비스"}
 , backgroundBmp = "dungeon"}

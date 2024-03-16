@@ -815,7 +815,7 @@ Page = {"대현자 바르문트의 수많은 연구 중 하나인, 룬 타블렛은 이 세계의 모든 생�
 [134] = {Title = "채팅: 동맹 길드", Search = 1, Image = "유저인터페이스\\tipbox\\tip00134", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"길드끼리의 동맹이 맺어진 멤버와의 대화는 # 하고 싶은 말 Enter, 또는 하고 싶은 말 Shift + Enter로 할 수 있습니다.\\n또, 채팅창 오른쪽의 ^3b488c파란동그라미^000000를 누르면 ^3b488c수신그룹을 설정^000000할 수 있습니다.\n\t\t최대 3개의 길드와 동맹을 맺을 수 있습니다.\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"길드끼리의 동맹이 맺어진 멤버와의 대화는 # 하고 싶은 말 Enter, 또는 하고 싶은 말 CapsLock + Enter로 할 수 있습니다.\\n또, 채팅창 오른쪽의 ^3b488c파란동그라미^000000를 누르면 ^3b488c수신그룹을 설정^000000할 수 있습니다.\n\t\t최대 3개의 길드와 동맹을 맺을 수 있습니다.\n\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [135] = {Title = "상위 제련석#에텔,5레벨무기,2레벨방어구,에텔더스트,고밀도,에테르늄,에테르데오콘", Search = 1, Image = "유저인터페이스\\tipbox\\tip00077", 
@@ -1139,7 +1139,7 @@ Page = {"베인스 남쪽 바다에 홀로 떠 있는 작은 섬. 섬의 주민들은 수도원을 짓고 안
 [4100] = {Title = "퀘스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 있습니다. 또는 전직 퀘스트를 수행하고 상위 직업으로 전직할 수도 있습니다.\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶가이드 퀘스트<INFO>4175</INFO></TIPBOX>\n\t\t<TIPBOX>▶레벨별 퀘스트<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역별 퀘스트<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징 퀘스트<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상 체험 총서 VR-Books<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶시간의 정원<INFO>5004</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 있습니다. 또는 전직 퀘스트를 수행하고 상위 직업으로 전직할 수도 있습니다.\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶가이드 퀘스트<INFO>4175</INFO></TIPBOX>\n\t\t<TIPBOX>▶레벨별 퀘스트<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역별 퀘스트<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징 퀘스트<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶계절 이벤트<INFO>7145</INFO></TIPBOX>\n\t\t<TIPBOX>▶명절 이벤트<INFO>7150</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상 체험 총서 VR-Books<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶시간의 정원<INFO>5004</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4101] = {Title = "에피소드#퀘스트", Search = 1, Image = "", 
@@ -2723,7 +2723,7 @@ Page = {"생명의 성좌를 추종하던 4신수들은 생명의 성좌의 모습을 훔쳐낸 차원의 범�
 [5007] = {Title = "MD 생명의 전당(250)#오스카레티시아리겔", Search = 1, Image = "유저인터페이스\\tipbox\\tip05007", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"차원 너머 생명의 성좌를 삼킨 차원 범죄자를 두고 볼 수 없었던 리겔은 차원 범죄자를 영원한 감옥에 감금하고 그녀의 힘을 서서히 빼내고 있습니다. 차원범죄자의 진짜 모습은 무엇일까요.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 생명의 전당 열쇠 소지시 1시간에 1번 재입장 가능\n\t\t\t▷ 보상은 1주일에 1회 수령 가능.\n\t\t\t▷ 제한시간 60분\n\t\t\t▷ 레벨 250 이상 필드 입장가능\n\t\t\t\n\t\t◈ 최초 시작지점\n\t\t<NAVI>[3인의 성좌]<INFO>t_garden,115,47,0,101,0</INFO></NAVI> 를 만난 이후 리겔 연결 퀘스트\n\t\t\n\t\t◈ 주요 보상\n\t\t^i[1001456] ^i[1001457] ^i[1001458] ^i[1001459] ^i[1001460]\n\n\t\t<TIPBOX>▶시간의 정원 페이지로<INFO>5004</INFO></TIPBOX>\n\t\t<TIPBOX>▶미드가르드 대륙 MD<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"차원 너머 생명의 성좌를 삼킨 차원 범죄자를 두고 볼 수 없었던 리겔은 차원 범죄자를 영원한 감옥에 감금하고 그녀의 힘을 서서히 빼내고 있습니다. 차원범죄자의 진짜 모습은 무엇일까요.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 생명의 전당 열쇠 소지시 1시간에 1번 재입장 가능\n\t\t\t▷ 보상은 1주일에 1회 수령 가능.\n\t\t\t▷ 제한시간 60분\n\t\t\t▷ 레벨 250 이상 필드 입장가능\n\t\t\t\n\t\t◈ 최초 시작지점\n\t\t<NAVI>[3인의 성좌]<INFO>t_garden,115,47,0,101,0</INFO></NAVI> 를 만난 이후 리겔 연결 퀘스트\n\t\t\n\t\t◈ 주요 보상\n\t\t^i[1001456] ^i[1001457] ^i[1001458] ^i[1001459] ^i[1001460] ^i[1001601] ^i[1001593]\n\n\t\t<TIPBOX>▶시간의 정원 페이지로<INFO>5004</INFO></TIPBOX>\n\t\t<TIPBOX>▶미드가르드 대륙 MD<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6004] = {Title = "Episode 13.1 애쉬 바쿰#애쉬#바쿰#13.1#", Search = 1, Image = "", 
@@ -3966,6 +3966,66 @@ Page = {"마을 사람들의 실종에 관련된 동굴 속의 몬스터, 부워여. 그간 부워여를 처�
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"버코너워 때문에 우리 모두 다 죽겠다!! 간절한 마을 사람들의 외침.\n\t\t이제는 이 고통을 끊어야 할 때입니다.\n\t\t\n\t\t◈ 선행 조건: 버코너워 호수 입장 퀘스트 완료\n\t\t◈ 던전 구성\n\t\t\t▷ 7일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 140 이상\n\t\t\t\n\t\t<NAVI>[따호]<INFO>ma_scene01,174,179,0,101,0</INFO></NAVI>\n\t\t◈ 던전공략 중 획득한 <ITEM>[버코너워 비늘 갑옷]<INFO>15051</INFO></ITEM>나 <ITEM>[칼라삭]<INFO>2169</INFO></ITEM>을 <NAVI>[부족 대장장이]<INFO>ma_fild01,158,243,0,101,0</INFO></NAVI>에게 가지고 가면 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7145] = {Title = "계절 이벤트#축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라그나로크 세계에는 다채롭게 변화하는 계절을 느낄 수 있는 다양한 이벤트가 있습니다. 변화하는 계절 속에서 즐거운 시간을 만끽해 보세요.\n\t\t계절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\n\t\t<TIPBOX>▶봄 이벤트<INFO>7146</INFO></TIPBOX>\n\t\t<TIPBOX>▶여름 이벤트<INFO>7147</INFO></TIPBOX>\n\t\t<TIPBOX>▶가을 이벤트<INFO>7148</INFO></TIPBOX>\n\t\t<TIPBOX>▶겨울 이벤트<INFO>7149</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7146] = {Title = "봄 이벤트#축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"추위가 물러난 자리에 따뜻한 봄이 찾아왔습니다. 프론테라에서 사락사락 내리는 꽃비를 맞으며 봄의 정취를 느껴보는 것은 어떨까요?\n\t\t^663399◈이벤트 기간: 3월 - 5월^000000\n\t\t계절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\t\t\n\t\t<TIPBOX>▶계절 이벤트<INFO>7145</INFO></TIPBOX>\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7147] = {Title = "여름 이벤트#축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"몸과 마음이 지치는 무더운 여름! 더위를 피할 수 있는 시원한 곳으로! 사막의 땅, 라헬의 한가운데에 개장한 수영장에서 여름밤의 더위를 식혀보세요.\n\t\t^663399◈이벤트 기간: 6월 - 8월^000000\n\t\t계절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\t\t\n\t\t<TIPBOX>▶계절 이벤트<INFO>7145</INFO></TIPBOX>\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7148] = {Title = "가을 이벤트#축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"결실의 계절 가을이 찾아왔습니다. 유노의 대학, 학술원, 박물관도 그간의 연구 성과를 내보이며 일 년을 결산하는 자리를 마련했으니 꼭 한번 방문하시어 자리를 빛내주세요.\n\t\t^663399◈이벤트 기간: 9월 - 11월^000000\n\t\t계절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\t\t\n\t\t<TIPBOX>▶계절 이벤트<INFO>7145</INFO></TIPBOX>\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7149] = {Title = "겨울 이벤트#축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"겨울나기를 위해 필요한 것은 무엇일까요? 사냥대회가 한창인 프론테라에 방문하여 기나긴 겨울을 대비해 보세요.\n\t\t^663399◈이벤트 기간: 12월 - 이듬해 2월^000000\n\t\t계절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\t\t\n\t\t<TIPBOX>▶계절 이벤트<INFO>7145</INFO></TIPBOX>\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7150] = {Title = "명절 이벤트#축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"해마다 돌아오는 명절을 다양한 이벤트와 함께 기념하며 풍성하게 보내보세요.\n\t\t명절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\n\t\t<TIPBOX>▶설날 이벤트<INFO>7151</INFO></TIPBOX>\n\t\t<TIPBOX>▶차원의 균열 이벤트<INFO>7152</INFO></TIPBOX>\n\t\t<TIPBOX>▶추석 이벤트<INFO>7153</INFO></TIPBOX>\n\t\t<TIPBOX>▶홀리데이 이벤트<INFO>7154</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7151] = {Title = "설날 이벤트#새해명절축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"새해가 밝았습니다. 새 다짐, 새 각오로 한 해를 보낼 예정이라면 페이욘에 방문하셔서 다양한 이벤트와 함께 시작해보는 것은 어떨까요?\n\t\t^663399◈이벤트 기간: 1월 - 2월^000000\n\t\t명절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\t\t\n\t\t<TIPBOX>▶명절 이벤트<INFO>7150</INFO></TIPBOX>\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7152] = {Title = "차원의 균열 이벤트#여름명절축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"초월자 바르문트와 함께 차원의 균열 너머로!\n\t\t또 다른 미드가르드로 당신을 초대합니다. 지금 바로 프론테라로 GO!\n\t\t^663399◈이벤트 기간: 8월^000000\n\t\t명절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\t\t\n\t\t<TIPBOX>▶명절 이벤트<INFO>7150</INFO></TIPBOX>\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7153] = {Title = "추석 이벤트#명절가을한가위축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"풍성한 가을! 한가위를 맞아 다양한 이벤트가 준비된 페이욘에서 다 함께 나눔의 기쁨을 누려보세요.\n\t\t^663399◈이벤트 기간: 9월 - 10월^000000\n\t\t명절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\t\t\n\t\t<TIPBOX>▶명절 이벤트<INFO>7150</INFO></TIPBOX>\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[7154] = {Title = "홀리데이 이벤트#명절겨울축제", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"몸도 마음도 움츠러드는 계절, 겨울입니다. 알데바란으로 오세요. 모두 함께 따뜻한 겨울을 보낼 수 있어요!\n\t\t^663399◈이벤트 기간: 12월^000000\n\t\t명절 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행 중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\t\t\n\t\t<TIPBOX>▶명절 이벤트<INFO>7150</INFO></TIPBOX>\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [8048] = {Title = "일기장", Search = 0, Image = "유저인터페이스\\item\\그녀의마음", 
@@ -5482,84 +5542,6 @@ Page = {"공격성이 강화된 채 방치되어 있는 호문클루스들, 인간의 형태를 모방해 발�
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"버려진 연구실의 호문클루스들은 주인이 없이도 스스로 판단해 번식을 거듭하고 있습니다.\n\t\t^663399◈레벨 230 이상^000000\n\t\t^663399◈EPISODE 17.1 완료^000000\n\t\t\n\t\t<NAVI>[거베나]<INFO>pub_cat,89,32,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EPISODE 17.1<INFO>7055</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역 퀘스트: 아인브로크, 아인베흐<INFO>4156</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 230~239<INFO>4138</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8353] = {Title = "월별 이벤트", Search = 1, Image = "", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"라그나로크 세계에는 매월 약 2주간 진행되는 전용 축제와 이벤트가 있습니다. 매월 진행되는 축제를 즐기고 이벤트 전용 보상도 획득해 보세요.\n\t\t월별 이벤트에 대한 자세한 사항은 공식 홈페이지의 이벤트 안내를 참고해 주세요.\n\t\t<URL>▷진행중인 이벤트<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\n\t\t\n\t\t<TIPBOX>▶1월 신년 이벤트 말랑도 문어 축제<INFO>8354</INFO></TIPBOX>\n\t\t<TIPBOX>▶2월 스윗츠 페어<INFO>8355</INFO></TIPBOX>\n\t\t<TIPBOX>▶3월 행복한 알 축제<INFO>8356</INFO></TIPBOX>\n\t\t<TIPBOX>▶4월 봄꽃 축제<INFO>8357</INFO></TIPBOX>\n\t\t<TIPBOX>▶5월 멜론 축제<INFO>8358</INFO></TIPBOX>\n\t\t<TIPBOX>▶6월 팝콘 페스타<INFO>8359</INFO></TIPBOX>\n\t\t<TIPBOX>▶7월 국수 축제<INFO>8360</INFO></TIPBOX>\n\t\t<TIPBOX>▶8월 X주년 이벤트<INFO>8361</INFO></TIPBOX>\n\t\t<TIPBOX>▶9월 추수감사제<INFO>8362</INFO></TIPBOX>\n\t\t<TIPBOX>▶10월 할로윈<INFO>8363</INFO></TIPBOX>\n\t\t<TIPBOX>▶11월 왕실 사냥대회<INFO>8364</INFO></TIPBOX>\n\t\t<TIPBOX>▶12월 겨울 눈꽃 축제<INFO>8365</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8354] = {Title = "1월 신년 이벤트 말랑도 문어 축제#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08354", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"매년 1월이 되면 말랑도에서 문어축제가 열립니다.\n\t\t매년 찾아오는 특별손님도 만나보고 맛있는 문어구이도 즐기세요!\n\t\t페이욘에서 닭을 튀기는 학사의 문어 떡국도 일품!\n\t\t^663399◈1월 초순 ~ 1월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈20레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[미묘]<INFO>malangdo,206,145,0,101,0</INFO></NAVI>\n\t\t<NAVI>[휼]<INFO>payon,220,112,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[직화 문어구이]<INFO>12646</INFO></ITEM>\n\t\t<ITEM>[문어 떡국]<INFO>12378</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8355] = {Title = "2월 스윗츠 페어#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08355", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"사랑하는 사람들을 위한 축제!\n\t\t매년 2월이 되면 달콤한 스윗츠를 주고받는 스윗츠 축제가 열립니다.\n\t\t사랑을 나누는 전령이 되어 달콤한 스윗츠를 종류별로 맛보세요.\n\t\t^663399◈2월 초순 ~ 2월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈30레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[쇼콜라]<INFO>prontera,163,98,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[스윗츠 축제 코인]<INFO>25290</INFO></ITEM>\n\t\t<ITEM>[스윗츠 간식 꾸러미]<INFO>9999</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8356] = {Title = "3월 행복한 알 축제#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08356", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"매년 3월이 되면 유노에서 행복한 알 축제가 열립니다.\n\t\t큐펫과 함께하는 다양한 축제를 즐기세요.\n\t\t행복의 큐펫 자판기에서 클로버 티켓을 사용해 다양한 테이밍 아이템도 얻어 보세요!\n\t\t^663399◈3월 초순 ~ 3월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈20레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[축제 위원]<INFO>yuno,175,162,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8357] = {Title = "4월 봄꽃 축제#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08357", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"추운 계절이 끝나고 봄이 찾아오는 4월.\n\t\t분홍빛으로 물든 꽃나무를 흔들어 꽃가지를 얻어 보세요.\n\t\t매년 찾아오는 벚꽃 찰떡을 맛보고, 향기로운 꽃가지를 엮어 풍류를 즐겨 보세요.\n\t\t^663399◈4월 초순 ~ 4월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈30레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>\n\t\t<NAVI>[베릴]<INFO>prontera,165,290,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[벚꽃 찰떡]<INFO>22945</INFO></ITEM>\n\t\t<ITEM>[아담한 꽃가지]<INFO>9585</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8358] = {Title = "5월 멜론 축제#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08358", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"매년 5월이면 게펜에서 멜론 수확 기념 축제가 열립니다.\n\t\t멜론 수확에 참여해 땀흘려 일하는 기쁨을 느껴볼 수 있습니다!\n\t\t달콤한 멜론을 먹고, 더 다디단 멜론 디저트도 맛보세요.\n\t\t^663399◈5월 초순 ~ 5월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈20레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[라벤더]<INFO>geffen,86,35,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>\n\t\t<ITEM>[달콤한 멜론 쥬스]<INFO>23321</INFO></ITEM>\n\t\t<ITEM>[멜론 파르페]<INFO>23322</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8359] = {Title = "6월 팝콘 페스타#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08359", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"매년 유월, 뜨끈뜨끈해진 코모도 중앙에는 용암이 끓어오르기 시작합니다.\n\t\t그러나 코모도 사람들은 용암에 팝콘을 튀겨 먹는 축제를 즐기지요!\n\t\t팝콘을 먹고, 허브를 태우고, 핫한 초여름의 열기를 즐겨 보세요!\n\t\t^663399◈6월 초순 ~ 6월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈30레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[케를린]<INFO>comodo,262,126,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[이글이글 구슬]<INFO>25341</INFO></ITEM>\n\t\t<ITEM>[몸에 좋은 허브]<INFO>25342</INFO></ITEM>\n\t\t<ITEM>[고메 버터 팝콘]<INFO>11625</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8360] = {Title = "7월 국수 축제#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08360", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"몸과 마음이 지치는 더운 여름, 맛있는 국수 한 그릇 어떠신가요?\n\t\t라자냐에 크고 아름다운 달이 뜰 때만 맛볼 수 있는 최고의 국수!\n\t\t후루룩 먹을 수 있는 맛난 국수와 시원한 수박을 즐기세요.\n\t\t^663399◈7월 초순 ~ 7월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈50레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[축제 참가 접수]<INFO>lasagna,83,197,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[국수 축제 코인]<INFO>25366</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8361] = {Title = "8월 X주년 이벤트#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08361", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"차원 너머의 미드가르드, 어둠의 힘과 맞서 싸우고 있는 그곳을 도웁시다!\n\t\t차원의 초월자 바르문트의 능력으로 방문할 수 있는 차원 너머의 미드가르드.\n\t\t그곳을 돕고 큐펫 코인을 받아 강력한 큐펫을 얻어 봅시다.\n\t\t^663399◈8월 초순 ~ 8월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈60레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[차원의 초월자 바르문트]<INFO>prontera,156,303,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[큐펫 코인]<INFO>25376</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8362] = {Title = "9월 추수감사제#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08362", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"매년 9월 열리는 추수제에서 불놓기 행사에 참여하세요!\n\t\t한 해의 풍족한 수확에 감사하며 불을 피워 음식을 만들어 밤새워 먹고 춤을 춥시다.\n\t\t아름다운 알베르타에서, 바다에 비친 불을 감상하며 축제를 즐겨 봅시다.\n\t\t^663399◈9월 초순 ~ 9월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈30레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[라나]<INFO>alberta,138,169,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[추수제 추첨권]<INFO>25876</INFO></ITEM>\n\t\t<ITEM>[어디로든 티켓]<INFO>25392</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8363] = {Title = "10월 할로윈#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08363", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"이상한 일이 일어나고 잭이 돌아오는 10월, 할로윈 축제입니다.\n\t\t잭은 어디에 간 걸까? 모두 잭을 찾아서 장식하자!\n\t\t이야기를 엿들어 보면 신비한 일이! 해피 할로윈! 해피 할로윈!\n\t\t^663399◈10월 초순 ~ 10월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈20레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[후리롱]<INFO>prontera,161,97,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[할로윈 코인]<INFO>6658</INFO></ITEM>\n\t\t<ITEM>[쿠키뱃]<INFO>11605</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8364] = {Title = "11월 왕실 사냥대회#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08364", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"겨울 준비를 위해 묘르닐 산맥에서 내려온 사나운 몬스터를 토벌하기 위한 행사.\n\t\t올해도 11월이 되자 어김없이 왕실 사냥대회가 열렸습니다.\n\t\t왕국의 국민들을 지키고, 빼어난 기량을 발휘하여 훌륭한 보상을 얻으세요!\n\t\t^663399◈11월 초순 ~ 11월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈50레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[지휘관 나데즈다]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>\n\t\t<ITEM>[레지아 장비]<INFO>15390</INFO></ITEM>\n\t\t<ITEM>[트루아 장비]<INFO>15246</INFO></ITEM>\n\t\t<ITEM>[왕가 일원들의 카드]<INFO>27333</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[8365] = {Title = "12월 겨울 눈꽃 축제#월별이벤트축제", Search = 1, Image = "유저인터페이스\\tipbox\\tip08365", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"눈 없는 눈꽃 축제, 알데바란의 명물 눈꽃 축제가 올해 12월에도 개최됩니다.\n\t\t눈꽃을 모아 눈꽃 꽃다발, 눈사람을 만들고 낱말 카드 찾기도 즐겨보세요.\n\t\t^663399◈12월 초순 ~ 12월 중순 진행^000000\n\t\t(자세한 내용은 <URL>홈페이지<INFO>https://ro.gnjoy.com/news/event/list.asp?kind=b,1024,768</INFO></URL> 참조)\n\t\t^663399◈50레벨 이상 참여 가능^000000\n\t\t\n\t\t<NAVI>[눈꽃 축제 관리자]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>\n\t\t(이벤트 진행 기간에만 만나볼 수 있습니다)\n\t\t\n\t\t^663399◈주요 보상^000000\n\t\t<ITEM>[얼음 사탕]<INFO>23548</INFO></ITEM>\n\t\t그 외 선물 상자에서 드리는 많은 보상들!\n\t\t\n\t\t<TIPBOX>▶월별 이벤트<INFO>8353</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [8366] = {Title = "바르문트의 바이오스피어 심층#혹한화염초원죽음영혼맹독성전", Search = 1, Image = "", 
@@ -7713,7 +7695,7 @@ Page = {"^i[9028]큐펫 딱딱한 떡\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[1
 [10175] = {Title = "큐펫 스캣레톤#맛좋은 물고기", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"^i[9101]큐펫 스캣레톤\n\t\t▶ 입수 방법\n\t\t할로윈 이벤트 기간 퀘스트로 획득\n\t\t<NAVI>[잭]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>\n\n\t\t▶ 먹이\n\t\t^i[579]\n\n\t\t▶ 액세서리\n\t\t^i[10040]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 스켈리온<INFO>10176</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"^i[9101]큐펫 스캣레톤\n\t\t▶ 입수 방법\n\t\t할로윈 이벤트 기간 퀘스트로 획득(종료된 이벤트)\n\n\t\t▶ 먹이\n\t\t^i[579]\n\n\t\t▶ 액세서리\n\t\t^i[10040]\n\t\t\n\t\t▶ 진화 정보\n\t\t<TIPBOX>▷큐펫 스켈리온<INFO>10176</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10176] = {Title = "큐펫 스켈리온#맛있는 고기", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 

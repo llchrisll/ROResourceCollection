@@ -12261,7 +12261,7 @@ _NeedSkillList = {
 [SKID.AG_CLIMAX] = {"AG_CLIMAX"; SkillName = "클라이막스", MaxLv = 5, 
 SpAmount = {60, 60, 60, 60, 60}
 , 
-ApAmount = {150, 150, 150, 150, 150}
+ApAmount = {125, 125, 125, 125, 125}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -12532,6 +12532,8 @@ _NeedSkillList = {
 , 
 [SKID.IG_GUARDIAN_SHIELD] = {"IG_GUARDIAN_SHIELD"; SkillName = "가디언 쉴드", MaxLv = 5, 
 SpAmount = {60, 60, 60, 60, 60}
+, 
+ApAmount = {35, 35, 35, 35, 35}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1}
 , 
@@ -12903,7 +12905,7 @@ _NeedSkillList = {
 [SKID.CD_PNEUMATICUS_PROCELLA] = {"CD_PNEUMATICUS_PROCELLA"; SkillName = "프네우마티쿠스 프로첼라", MaxLv = 10, 
 SpAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
 , 
-ApAmount = {30, 30, 30, 30, 30, 30, 30, 30, 30, 30}
+ApAmount = {20, 20, 20, 20, 20, 20, 20, 20, 20, 20}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
@@ -13213,7 +13215,7 @@ _NeedSkillList = {
 [SKID.WH_CALAMITYGALE] = {"WH_CALAMITYGALE"; SkillName = "캘러미티 가일", MaxLv = 1, 
 SpAmount = {300}
 , 
-ApAmount = {200}
+ApAmount = {125}
 , bSeperateLv = true, 
 AttackRange = {1}
 , 
@@ -13545,7 +13547,7 @@ AttackRange = {3, 3, 3, 3, 3}
 [SKID.ABC_ABYSS_SLAYER] = {"ABC_ABYSS_SLAYER"; SkillName = "어비스 슬레이어", MaxLv = 10, 
 SpAmount = {100, 100, 100, 100, 100, 100, 100, 100, 100, 100}
 , 
-ApAmount = {150, 150, 150, 150, 150, 150, 150, 150, 150, 150}
+ApAmount = {120, 120, 120, 120, 120, 120, 120, 120, 120, 120}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
@@ -13559,7 +13561,7 @@ _NeedSkillList = {
 [SKID.ABC_ABYSS_STRIKE] = {"ABC_ABYSS_STRIKE"; SkillName = "오메가 어비스 스트라이크", MaxLv = 10, 
 SpAmount = {125, 125, 125, 125, 125, 125, 125, 125, 125, 125}
 , 
-ApAmount = {15, 15, 15, 15, 15, 15, 15, 15, 15, 15}
+ApAmount = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10}
 , bSeperateLv = true, 
 AttackRange = {9, 9, 9, 9, 9, 9, 9, 9, 9, 9}
 , 
@@ -13963,7 +13965,7 @@ _NeedSkillList = {
 [SKID.EM_ELEMENTAL_BUSTER] = {"EM_ELEMENTAL_BUSTER"; SkillName = "엘레멘탈 버스터", MaxLv = 10, 
 SpAmount = {140, 140, 140, 140, 140, 140, 140, 140, 140, 140}
 , 
-ApAmount = {30, 30, 30, 30, 30, 30, 30, 30, 30, 30}
+ApAmount = {15, 15, 15, 15, 15, 15, 15, 15, 15, 15}
 , bSeperateLv = true, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
 , 
