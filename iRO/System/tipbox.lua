@@ -813,6 +813,24 @@ Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"Our goal for Stage 1 was to successfully replace their hearts with the proto Cores without killing them. They didn\'t die within the amount of our goal time, so we moved on to Stage 2. \n\t\t\t \n\t\t\tOur goal for Stage 2 was to maximize their latent combat power, observe the results, and record any meaningful data. \n\t\t\t \n\t\t\tFor the Stage 2 test, we exposed the test subjects to some stimulating environments in which they could draw and use the power of their Battle Cores. \n\t\t\t \n\t\t\tWe\'ve paid extra attention not to kill the test subjects through excessive stimulation, but the current death rate is still 100%. We suggest reinforcing the ghosts\' will..."}
 }
+, 
+[8165] = {Title = "MD Tomb of Remorse (180)", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Listen to the tragic story of the Princess of Sorrow about her ruined kingdom.\n\n\t\t -Level 220 or higher\n\t\t -<NAVI>[Princess of Sorrow]<INFO>dali.gat,124,88,0,101,0</INFO></NAVI> - Talk to begin the quest\n\t\t -<NAVI>[Princess of Sorrow]<INFO>dali02.gat,78,116,0,101,0</INFO></NAVI> - Talk to access the Memorial Dungeon\n\n\t\t<TIPBOX>-Memorial Dungeon<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>-View Tip List<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6095] = {Title = "Airship Crash Site#Airship#Crash#Memorial#Side#Hero#", Search = 1, Image = "유저인터페이스\\tipbox\\tip06095", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Hero Side Story! Airship Crash\n\t\tA dimensional rift was discovered that could lead to the Mjolnir Mountains where the airship crashed. \n\t\t<NAVI>[Dr. Dry Circle Strong]<INFO>dali02,137,86,0,101,0</INFO></NAVI>\n\n\t\t▶ Quest Conditions\n\t\t^663399◈Level 200 or higher^000000\n\n\t\t<TIPBOX>▶View Airship Crash Site rewards<INFO>6096</INFO></TIPBOX>\n\t\t<TIPBOX>▶View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6096] = {Title = "Airship Crash Site#Airship#Crash#Memorial#Side#Hero#Reward#", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"You can obtain <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> from Airship Crash Site and exchange it for various rewards.\n\t\t▶ Elixir and Storage Device\n\t\t<ITEM>[Purified Growth Elixir]<INFO>100460</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 5\n\t\t\n\t\t<ITEM>[Purple Special Storage Device]<INFO>100475</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t→ <ITEM>[Purified Growth Elixir]<INFO>100460</INFO></ITEM> 10\n\t\t\n\t\t▶ Unknown Equipment & Enhancement Items\n\t\t<ITEM>[Unknown STR Boots]<INFO>470071</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown DEX Boots]<INFO>470072</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown VIT Boots]<INFO>470073</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown INT Boots]<INFO>470074</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown AGI Boots]<INFO>470076</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown LUK Boots]<INFO>470077</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Ymir Beads]<INFO>100476</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 5\n\t\t→ 30,000 Zeny\n\t\t\n\t\t▶ Card Album\n\t\t<ITEM>[Contaminated Card Album]<INFO>100462</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 50개\n\t\t\n\t\t<TIPBOX>▶View the Airship Crash Site<INFO>6095</INFO></TIPBOX>\n\t\t<TIPBOX>▶View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
 }
 main = function()
   -- function num : 0_0

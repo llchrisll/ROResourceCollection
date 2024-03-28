@@ -1077,4 +1077,10 @@ ein_d02_i.rsw#Nasarian Empire#
 
 //2023 3Q Additional Update Fall of Glast Heim
 // EDDA 글래스트 헤임의 몰락
-1@gl_prq.rsw#글래스트 헤임의 몰락#
+1@gl_prq.rsw#Fall of Glast Heim#
+
+//2024 1Q Additional Update Illusion of Luanda 일루전 오브 루안다
+com_d02_i.rsw#North Cave Luanda#
+
+//2024.03.05 일루전 오브 라비린스 Illusion of Labyrinth
+prt_mz03_i.rsw#Illusion Labyrinth#

@@ -962,3 +962,73 @@
 //2023 3Q Additional Update Fall of Glast Heim
 //글래스트헤임 에다 카드
 27329#of Schmidt#
+
+//2024 1Q Additional Update Illusion of Luanda
+//일루전 오브 루안다
+27291#Full Charging#
+27292#of Stalactic#
+27293#Circular#
+27294#of Big Stone#
+27295#of Stone Shooter#
+27296#of Wootan Shooter#
+27297#Wootan Fist#
+27298#of Big Shield#
+
+//========2024 1Q UPDATE==================
+//회한의 무덤 Tomb of Remorese
+300192#Pisa#
+300193#Bobetta#
+
+//비공정 추락 신규카드 Airship Crash
+300170#Rotten#
+300171#Digger#
+300172#Melting#
+300173#Annoying#
+300174#Denied#
+300175#Unknown#
+300176#of Undefine#
+
+//=======================2024 1Q UPDATE end
+
+//2024.02.06 신규카드 42종, 모로크 EP14.3 신규카드
+27321#Demon God's#
+27322#Dominator's#
+27323#Coordinator's#
+27324#Brinaranea#
+27325#Muspelheim#
+27326#Destructive#
+27327#Grim Reaper Ankou#
+27328#Corrupt Life#
+300263#Guardman#
+300264#High Guardman#
+300265#Magic Guardman#
+300266#of Unknown Swordsman#
+300267#of Speed Bolt#
+300268#of Power Bolt#
+300269#Eldest#
+300270#Empathic#
+300271#Happy#
+300272#Pray#
+300273#Smile#
+300274#of Real Rage#
+300275#of Real Horror#
+300276#Wing Breaker#
+300277#of Real Resent#
+300278#of Void#
+300279#Dead-pansion#
+300280#Corrupted Magic Swordsman's#
+300281#of Water Bug#
+//2024.02.06 신규카드 42종, 모로크 EP14.3 신규카드 end
+
+//2024.03.05 일루전 오브 라비린스 Illusion of Labyrinth
+27334#of Chaotic#
+27335#of Blackguard#
+27336#of Viper#
+27337#Hunting Breeze#
+27338#of Double Power#
+27339#Ghost#
+27340#of Angry Killer#
+27341#of Water Shell#
+27342#Metal Ground#
+27343#Holy Spell#
+//2024.03.05 일루전 오브 라비린스 Illusion of Labyrinth end

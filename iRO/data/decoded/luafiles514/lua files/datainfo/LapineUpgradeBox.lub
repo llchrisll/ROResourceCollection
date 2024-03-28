@@ -1462,6 +1462,14 @@ TargetItems = {
 {"S_Creative_Weapon", 24761}
 , 
 {"S_Creative_Shield", 24762}
+, 
+{"S_Focusing_Pendant", 24876}
+, 
+{"S_Focusing_Earring", 24877}
+, 
+{"S_Centering_Pendant", 24885}
+, 
+{"S_Centering_Earring", 24886}
 }
 , NeedSource_String = "+7 Shadow Equipment"}
 , 
@@ -2762,6 +2770,28 @@ TargetItems = {
 {"S_Creative_Weapon", 24761}
 , 
 {"S_Creative_Shield", 24762}
+, 
+{"S_R_Bearers_Armor", 24764}
+, 
+{"S_R_Bearers_Earring", 24766}
+, 
+{"S_R_Bearers_Pendant", 24765}
+, 
+{"S_R_Bearers_Shoes", 24763}
+, 
+{"S2_Bearers_Armor", 24337}
+, 
+{"S2_Bearers_Shoes", 24338}
+, 
+{"S2_Bearers_Pendent", 24321}
+, 
+{"S_Focusing_Pendant", 24876}
+, 
+{"S_Focusing_Earring", 24877}
+, 
+{"S_Centering_Pendant", 24885}
+, 
+{"S_Centering_Earring", 24886}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -3754,6 +3784,28 @@ TargetItems = {
 {"S_Creative_Weapon", 24761}
 , 
 {"S_Creative_Shield", 24762}
+, 
+{"S_R_Bearers_Armor", 24764}
+, 
+{"S_R_Bearers_Earring", 24766}
+, 
+{"S_R_Bearers_Pendant", 24765}
+, 
+{"S_R_Bearers_Shoes", 24763}
+, 
+{"S2_Bearers_Armor", 24337}
+, 
+{"S2_Bearers_Shoes", 24338}
+, 
+{"S2_Bearers_Pendent", 24321}
+, 
+{"S_Focusing_Pendant", 24876}
+, 
+{"S_Focusing_Earring", 24877}
+, 
+{"S_Centering_Pendant", 24885}
+, 
+{"S_Centering_Earring", 24886}
 }
 , NeedSource_String = "Shadow Item"}
 , 
@@ -5571,6 +5623,38 @@ TargetItems = {
 }
 , NeedSource_String = "Mega Blitz Shadows"}
 , 
+Luanda_Box_IL = {ItemID = 100421, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Hunter_Bow_IL", 18174}
+, 
+{"Tablet_IL", 28626}
+, 
+{"Goibne_Armor_IL", 15348}
+, 
+{"Goibne_Helmet_IL", 19366}
+, 
+{"Goibne_Shoulder_IL", 20923}
+, 
+{"Goibne_Boots_IL", 22192}
+}
+, NeedSource_String = "Illusion of Luanda Equipments"}
+, 
+S_Luanda_Box_IL = {ItemID = 100422, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Hunter_Bow_IL", 18174}
+, 
+{"Tablet_IL", 28626}
+, 
+{"Goibne_Armor_IL", 15348}
+, 
+{"Goibne_Helmet_IL", 19366}
+, 
+{"Goibne_Shoulder_IL", 20923}
+, 
+{"Goibne_Boots_IL", 22192}
+}
+, NeedSource_String = "Illusion of Luanda Equipments"}
+, 
 Ex_Status_Shadow_Up = {ItemID = 101180, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_P_Power_Weapon", 24751}
@@ -5598,6 +5682,250 @@ TargetItems = {
 {"S_Creative_Shield", 24762}
 }
 , NeedSource_String = "Talent Status Shadows"}
+, 
+Sakray_Fury = {ItemID = 100479, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Poenitentia_Ensis", 600014}
+, 
+{"Poenitentia_Catapulta", 630009}
+, 
+{"Poenitentia_Gladius", 500019}
+, 
+{"Poenitentia_Hasta", 530010}
+, 
+{"Poenitentia_Ascia", 620006}
+, 
+{"Poenitentia_Clava", 590016}
+, 
+{"Poenitentia_Pendulus", 590017}
+, 
+{"Poenitentia_Ligula", 500020}
+, 
+{"Poenitentia_Termes", 640014}
+, 
+{"Poenitentia_Virga", 640015}
+, 
+{"Poenitentia_Scipio", 550019}
+, 
+{"Poenitentia_Codex", 540014}
+, 
+{"Poenitentia_Liber", 540015}
+, 
+{"Poenitentia_Crystallum", 550020}
+, 
+{"Poenitentia_Caestus", 560012}
+, 
+{"Poenitentia_Ungula", 560013}
+, 
+{"Poenitentia_Manus", 610016}
+, 
+{"Poenitentia_Mucro", 510027}
+, 
+{"Poenitentia_Tenon", 700022}
+, 
+{"Poenetentia_Dilacero", 510028}
+, 
+{"Poenitentia_Nervus", 700023}
+, 
+{"Poenetentia_Attendo", 700024}
+, 
+{"Poenitentia_Chorda", 570013}
+, 
+{"Poenitentia_Flagellum", 580013}
+, 
+{"Poenetentia_Vatia", 700025}
+}
+, NeedSource_String = "Poenitentia Weapon(Physical)"}
+, 
+Sakray_Fury2 = {ItemID = 100480, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Poenitentia_Ensis", 600014}
+, 
+{"Poenitentia_Catapulta", 630009}
+, 
+{"Poenitentia_Gladius", 500019}
+, 
+{"Poenitentia_Hasta", 530010}
+, 
+{"Poenitentia_Ascia", 620006}
+, 
+{"Poenitentia_Clava", 590016}
+, 
+{"Poenitentia_Pendulus", 590017}
+, 
+{"Poenitentia_Ligula", 500020}
+, 
+{"Poenitentia_Termes", 640014}
+, 
+{"Poenitentia_Virga", 640015}
+, 
+{"Poenitentia_Scipio", 550019}
+, 
+{"Poenitentia_Codex", 540014}
+, 
+{"Poenitentia_Liber", 540015}
+, 
+{"Poenitentia_Crystallum", 550020}
+, 
+{"Poenitentia_Caestus", 560012}
+, 
+{"Poenitentia_Ungula", 560013}
+, 
+{"Poenitentia_Manus", 610016}
+, 
+{"Poenitentia_Mucro", 510027}
+, 
+{"Poenitentia_Tenon", 700022}
+, 
+{"Poenetentia_Dilacero", 510028}
+, 
+{"Poenitentia_Nervus", 700023}
+, 
+{"Poenetentia_Attendo", 700024}
+, 
+{"Poenitentia_Chorda", 570013}
+, 
+{"Poenitentia_Flagellum", 580013}
+, 
+{"Poenetentia_Vatia", 700025}
+}
+, NeedSource_String = "Poenitentia Weapon(Physical)"}
+, 
+Sakray_Regret = {ItemID = 100485, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Poenitentia_Ensis", 600014}
+, 
+{"Poenitentia_Catapulta", 630009}
+, 
+{"Poenitentia_Gladius", 500019}
+, 
+{"Poenitentia_Hasta", 530010}
+, 
+{"Poenitentia_Ascia", 620006}
+, 
+{"Poenitentia_Clava", 590016}
+, 
+{"Poenitentia_Pendulus", 590017}
+, 
+{"Poenitentia_Ligula", 500020}
+, 
+{"Poenitentia_Termes", 640014}
+, 
+{"Poenitentia_Virga", 640015}
+, 
+{"Poenitentia_Scipio", 550019}
+, 
+{"Poenitentia_Codex", 540014}
+, 
+{"Poenitentia_Liber", 540015}
+, 
+{"Poenitentia_Crystallum", 550020}
+, 
+{"Poenitentia_Caestus", 560012}
+, 
+{"Poenitentia_Ungula", 560013}
+, 
+{"Poenitentia_Manus", 610016}
+, 
+{"Poenitentia_Mucro", 510027}
+, 
+{"Poenitentia_Tenon", 700022}
+, 
+{"Poenetentia_Dilacero", 510028}
+, 
+{"Poenitentia_Nervus", 700023}
+, 
+{"Poenetentia_Attendo", 700024}
+, 
+{"Poenitentia_Chorda", 570013}
+, 
+{"Poenitentia_Flagellum", 580013}
+, 
+{"Poenetentia_Vatia", 700025}
+}
+, NeedSource_String = "Poenitentia Weapon(Magic)"}
+, 
+Sakray_Regret2 = {ItemID = 100486, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Poenitentia_Ensis", 600014}
+, 
+{"Poenitentia_Catapulta", 630009}
+, 
+{"Poenitentia_Gladius", 500019}
+, 
+{"Poenitentia_Hasta", 530010}
+, 
+{"Poenitentia_Ascia", 620006}
+, 
+{"Poenitentia_Clava", 590016}
+, 
+{"Poenitentia_Pendulus", 590017}
+, 
+{"Poenitentia_Ligula", 500020}
+, 
+{"Poenitentia_Termes", 640014}
+, 
+{"Poenitentia_Virga", 640015}
+, 
+{"Poenitentia_Scipio", 550019}
+, 
+{"Poenitentia_Codex", 540014}
+, 
+{"Poenitentia_Liber", 540015}
+, 
+{"Poenitentia_Crystallum", 550020}
+, 
+{"Poenitentia_Caestus", 560012}
+, 
+{"Poenitentia_Ungula", 560013}
+, 
+{"Poenitentia_Manus", 610016}
+, 
+{"Poenitentia_Mucro", 510027}
+, 
+{"Poenitentia_Tenon", 700022}
+, 
+{"Poenetentia_Dilacero", 510028}
+, 
+{"Poenitentia_Nervus", 700023}
+, 
+{"Poenetentia_Attendo", 700024}
+, 
+{"Poenitentia_Chorda", 570013}
+, 
+{"Poenitentia_Flagellum", 580013}
+, 
+{"Poenetentia_Vatia", 700025}
+}
+, NeedSource_String = "Poenitentia Weapon(Magic)"}
+, 
+MD_Airboat_Random = {ItemID = 100476, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"MD_Airboat_Boots", 470071}
+, 
+{"MD_Airboat_Boots2", 470072}
+, 
+{"MD_Airboat_Boots3", 470073}
+, 
+{"MD_Airboat_Boots4", 470074}
+, 
+{"MD_Airboat_Boots5", 470076}
+, 
+{"MD_Airboat_Boots6", 470077}
+}
+, NeedSource_String = "Unknown Magic Power"}
+, 
+R_Bearers_Shadow_Up = {ItemID = 101260, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_R_Bearers_Armor", 24764}
+, 
+{"S_R_Bearers_Shoes", 24763}
+, 
+{"S_R_Bearers_Earring", 24766}
+, 
+{"S_R_Bearers_Pendant", 24765}
+}
+, NeedSource_String = "Lord Bearer\'s Shadows"}
 }
 , serverMain = function()
   -- function num : 0_0

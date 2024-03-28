@@ -1055,3 +1055,111 @@
 //2023 3Q Additional Update Fall of Glast Heim
 //글래스트헤임 에다 카드
 27329#Schmidt_Card#
+
+//2024 1Q Additional Update Illusion of Luanda
+27291#고대의트라이조인트카드#
+27292#고대의스터랙틱고렘카드#
+27293#고대의메갈리스카드#
+27294#고대의타오군카카드#
+27295#고대의스톤슈터카드#
+27296#고대의우탄슈터카드#
+27297#고대의우탄파이터카드#
+27298#고대의우탄디펜더카드#
+
+//========2024 1Q UPDATE==================
+//회한의 무덤 카드 Tomb of Remorse
+300192#sorry#
+300193#sorry#
+
+//비공정 추락 신규카드 Airship Crash
+300170#MD_Airboat_Card#
+300171#MD_Airboat_Card2#
+300172#MD_Airboat_Card3#
+300173#MD_Airboat_Card4#
+300174#MD_Airboat_Card5#
+300175#MD_Airboat_Card6#
+300176#MD_Airboat_Card7#
+
+//타나토스 타워 개편(lv180) Thanatos Tower Revamp
+300267#Crow_Baron_Card#
+300268#Crow_Duke_Card#
+300269#Eldest_Card#
+300270#Empathizer_Card#
+300271#Happy_Giver_Card#
+300272#Pray_Giver_Card#
+300273#Smile_Giver_Card#
+300274#Tha_Anger_Card#
+300275#Tha_Horror_Card#
+300276#Tha_Regret_Card#
+300277#Tha_Resent_Card#
+300278#Void_Mimic_Card#
+300279#Book_Of_Death_Card#
+300280#Broken_Thanatos_Card#
+
+//=======================2024 1Q UPDATE end
+
+//2024.02.06 신규카드 42종, 모로크 EP14.3
+300240#Gan_Ceann_Card#
+300241#Brutal_Murderer_Card#
+300242#Ghost_Cube_Card#
+300243#Lude_Gal_Card#
+300244#Disguiser_Card#
+300245#Bluemoon_Loli_Ruri_Card#
+300246#Grote_Card#
+300247#Pierrotzoist_Card#
+300248#Death_Witch_Card#
+300249#Giant_Caput_Card#
+300250#Dolorian_Card#
+300251#Plagarion_Card#
+300252#Deadre_Card#
+300253#Venedi_Card#
+300254#Amitera_Card#
+300255#Litus_Card#
+300256#Fillia_Card#
+300257#Vanilaqus_Card#
+300258#Lava_Eater_Card#
+300259#Fulgor_Card#
+300260#Napeo_Card#
+300261#Galensis_Card#
+300262#The_One_Card#
+300263#Reken_Guard_Card#
+300264#Reken_H_Guard_Card#
+300265#Regen_Scientist_Card#
+300266#Unknown_Swordman_Card#
+300267#Crow_Baron_Card#
+300268#Crow_Duke_Card#
+300269#Eldest_Card#
+300270#Empathizer_Card#
+300271#Happy_Giver_Card#
+300272#Pray_Giver_Card#
+300273#Smile_Giver_Card#
+300274#Tha_Anger_Card#
+300275#Tha_Horror_Card#
+300276#Tha_Regret_Card#
+300277#Tha_Resent_Card#
+300278#Void_Mimic_Card#
+300279#Book_Of_Death_Card#
+300280#Broken_Thanatos_Card#
+300281#R001_Bestia_Card#
+27325#Muspellskoll_Card#
+27326#MinionOfMorocc_Card#
+27327#ReaperAnkou_Card#
+27321#DespairGodMorocc_Card#
+27328#LivingDeath_Card#
+27322#Ahat_Card#
+27323#Shnaim_Card#
+27324#Brinaranea_Card#
+//2024.02.06 신규카드 42종, 모로크 EP14.3 end
+
+//2024.03.05 일루전 오브 라비린스 Illusion of Labyrinth
+//일루전오브라비린스 카드
+27338#혼돈의맨티스카드#
+27339#혼돈의고스트링카드#
+27340#혼돈의킬러맨티스카드#
+27334#혼돈의바포메트카드#
+27341#혼돈의포포링카드#
+27335#혼돈의바포메트주니어카드#
+27342#혼돈의스템웜카드#
+27336#혼돈의사이드와인더카드#
+27343#혼돈의복사카드#
+27337#혼돈의헌터플라이카드#

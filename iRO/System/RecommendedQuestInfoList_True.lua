@@ -76,5 +76,21 @@ QuestInfo2 = {"Required:", "BaseLV 140 or higher", "A person who joined the Eden
 , 
 QuestInfo3 = {"^ff0000¡Ø This page is an update introduction, not a quest. Please note that it won\'t be deleted even after completing the quest.^000000"}
 }
+, 
+[82] = {Title = "Tomb of Remorse", IconName = "ico_sc.bmp", Summary = "A story of a tragic couple met in the Tomb of Remorse", BgName = "reco_82.bmp", NpcSpr = "MD_TIARA", NpcNavi = "dali", NpcPosX = 124, NpcPosY = 88, 
+QuestInfo1 = {"A request received from the princess of a ruined country, and a cursed magic swordman met at the destination.", "The sword roars, and the body that wakes up in an untimely manner sheds tears."}
+, 
+QuestInfo2 = {"Requirement", "Adventurer ^990000Level 220 or higher^000000"}
+, 
+QuestInfo3 = {"^ff0000This page is an update introduction, not a quest. Please note that the quest will not be deleted even if you complete it.^000000"}
+}
+, 
+[10000] = {Title = "Airship Crash Site", IconName = "ico_sc.bmp", Summary = "A story from the place where the airship crashed", NpcSpr = "4_M_FAIRYANG", BgName = "reco_10000.bmp", 
+QuestInfo1 = {"Meet Dr. Dry Circle Strong at <NAVI>[Dimensional Rift]<INFO>dali02,137,86,0,101,0</INFO></NAVI>.", "Adventurer are now able to go to the place where the airship crashed. Let\'s explore the Forgotten Cavity found there."}
+, 
+QuestInfo2 = {"Requirement", "Adventurer ^990000Level 200 or higher^000000"}
+, 
+QuestInfo3 = {"^ff0000This page is an update introduction, not a quest. Please note that the quest will not be deleted even if you complete it.^000000"}
+}
 }
 

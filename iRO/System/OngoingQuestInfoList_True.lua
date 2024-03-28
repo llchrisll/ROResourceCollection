@@ -4195,7 +4195,7 @@ Description = {"Hunt the 50 dragon monsters as part of the Warrior Discipline pr
 , 
 [5414] = {Title = "[Stand by]Warrior Discipline", 
 Description = {"You can participate in the training of the Richard family again in tomorrow morning."}
-, Summary = "Reset Time 4:00 am"}
+, Summary = "Reset Time 4:00 am", CoolTimeQuest = 1}
 , 
 [5415] = {Title = "Restricted Sector", 
 Description = {"You decided to hear about the Restricted Area from Royal Crusader Ellond Lawrence."}
@@ -4243,7 +4243,7 @@ Description = {"What if you hear a familiar voice in a dark prison? It may scare
 , 
 [5426] = {Title = "[Stand by]To My Beloved Fellow", 
 Description = {"You have sent the news of the old friend. Why don\'t you allow him some time to be lost in old memories?"}
-, Summary = "Reset Time 4:00 am"}
+, Summary = "Reset Time 4:00 am", CoolTimeQuest = 1}
 , 
 [5427] = {Title = "[Repeat]To My Beloved Fellow", 
 Description = {"Regular exchange of letters is good for the mental health of the prisoners. Get the letter from the friend somewhere in the underground prison."}
@@ -4255,7 +4255,7 @@ Description = {"The prisoner who seems to collect pretty eyes has asked you to b
 , 
 [5429] = {Title = "[Stand by]Lowly Standards", 
 Description = {"The prisoner is infatuated with the red eyes. Why don\'t you bring more later to calm down the prisoner again?"}
-, Summary = "Reset Time 4:00 am"}
+, Summary = "Reset Time 4:00 am", CoolTimeQuest = 1}
 , 
 [5430] = {Title = "[Repeat]Lowly Standards", 
 Description = {"The prisoner asked you to go get some more. Let\'s bring 20 red eyes to calm down the prisoner."}
@@ -4271,7 +4271,7 @@ Description = {"You have finished cleaning the underground prison. Why don\'t yo
 , 
 [5433] = {Title = "[Stand by]Clean Life", 
 Description = {"Do you know? It is the time to wait for the fun of making a mess after the joy of cleaning."}
-, Summary = "Reset Time 4:00 am"}
+, Summary = "Reset Time 4:00 am", CoolTimeQuest = 1}
 , 
 [5434] = {Title = "[Repeat]Clean Life", 
 Description = {"It is the time to feel the joy of cleaning. Let\'s clean the underground prison with your heart full of joy."}
@@ -4287,7 +4287,7 @@ Description = {"This prisoner seems to hate darkness. Let\'s bring a bright ligh
 , 
 [5437] = {Title = "[Stand by]Finding Lights", 
 Description = {"He seems to be satisfied with the bright light. Let\'s bring him once more when the light is about to subside."}
-, Summary = "Reset Time 4:00 am"}
+, Summary = "Reset Time 4:00 am", CoolTimeQuest = 1}
 , 
 [5438] = {Title = "[Repeat]Finding Lights", 
 Description = {"Let\'s bring a bright light again from the huge torch in this prison."}
@@ -4299,7 +4299,7 @@ Description = {"The prisoner seems uncomfortable in the humid prison. Bring 20 D
 , 
 [5440] = {Title = "[Stand by]Refreshing Prison Life", 
 Description = {"Since the prison is a humid place, the Dehumidifiers would run out sooner or later. Bring more when they run out."}
-, Summary = "Reset Time 4:00 am"}
+, Summary = "Reset Time 4:00 am", CoolTimeQuest = 1}
 , 
 [5441] = {Title = "[Repeat]Refreshing Prison Life", 
 Description = {"As expected, the Dehumidifiers didn\'t last long. Bring 20 Dehumidifiers again."}
@@ -4311,7 +4311,7 @@ Description = {"A flower not only brighten up the darkness but also brings peace
 , 
 [5443] = {Title = "[Stand by]Suppressing Darkness", 
 Description = {"The darkness has been calmed down, but it may become unruly again. When the time comes, I may have to bring another flower."}
-, Summary = "Reset Time 4:00 am"}
+, Summary = "Reset Time 4:00 am", CoolTimeQuest = 1}
 , 
 [5444] = {Title = "[Repeat]Suppressing Darkness", 
 Description = {"Darkness is raging again. Bring a flower. Which flower should I bring this time?"}
@@ -4323,7 +4323,7 @@ Description = {"Little bump on the horn... I can\'t understand since don\'t have
 , 
 [5446] = {Title = "[Stand by]Bothersome Little Thing", 
 Description = {"This prisoner who really seems to think of me as a concierge of this prison hotel may call me regularly."}
-, Summary = "Reset Time 4:00 am"}
+, Summary = "Reset Time 4:00 am", CoolTimeQuest = 1}
 , 
 [5447] = {Title = "[Repeat]Bothersome Little Thing", 
 Description = {"Why does he need more pieces of Sandpaper? Since he asks, hunt Taffies and bring 20 pieces of Sandpaper."}
@@ -4439,7 +4439,7 @@ Description = {"Hello, my friend! I\'m sorry I keep asking you for favors. I tol
 , 
 [5861] = {Title = "[Pending] Taking Care of Morning", 
 Description = {"I fed <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>. If I can, I should feed him tomorrow as well."}
-, Summary = "Reset at 4:00 a.m."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [5862] = {Title = "Morning\'s Menu Selection", 
 Description = {"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat jellopies today. I should bring 10 <ITEM>[Jellopies]<INFO>909</INFO></ITEM>."}
@@ -7127,7 +7127,7 @@ Description = {"You are not sure whether it would work or not, but you are asked
 , 
 [7706] = {Title = "Nillem Is Not Almighty", 
 Description = {"Multiple connection is a difficult thing even for Nillem. I think there is a certain limit to connect to the Room of Consciousness. Let\'s wait for Nillem\'s recovery."}
-, Summary = "Reset at 4 o\'clock"}
+, Summary = "Reset at 4 o\'clock", CoolTimeQuest = 1}
 , 
 [7711] = {Title = "Beginning", 
 Description = {"Yo Ho! I am a fabulous Doram from Pa~sta! I\'ve climbed Laviol mountain, came to Lasagna port. And I\'m going to take over the new continent Midgard!"}
@@ -7211,7 +7211,7 @@ Description = {"Scholar Chunghae in the Nightmare of the Moonlight Flower dungeo
 , 
 [7783] = {Title = "Stop the Wizard! - Pending", 
 Description = {"You can re-receive this Daily quest from Scholar Chunghae in the Nightmare of the Moonlight Flower dungeon after it cools down."}
-, Summary = "Reset at 4:00 a.m."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [7784] = {Title = "No Mercy for Illusions", 
 Description = {"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to clear the area around him of ^4d4dffAngry Nine Tails^000000."}
@@ -7219,7 +7219,7 @@ Description = {"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon
 , 
 [7785] = {Title = "No Mercy for Illusions - Pending", 
 Description = {"You can re-receive this Daily quest from Soldier Junghee in the Nightmare of the Moonlight Flower dungeon after it cools down."}
-, Summary = "Reset at 4:00 a.m."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [7786] = {Title = "Remembering My Ancestors", 
 Description = {"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to send ^4d4dffResentful Soldiers^000000 to Heaven."}
@@ -7227,7 +7227,7 @@ Description = {"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon
 , 
 [7787] = {Title = "Remebering My Ancestors - Pending", 
 Description = {"You can re-receive this Daily quest from Soldier Junghee in the Nightmare of the Moonlight Flower dungeon after it cools down."}
-, Summary = "Reset at 4:00 a.m."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [7788] = {Title = "Back to Muyeon", 
 Description = {"Relay Chunghae\'s investigation results to ^4d4dffMuyeon^000000 in the ^4d4dffDetached Payon Palace^000000."}
@@ -7387,7 +7387,7 @@ Description = {"<NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the s
 , 
 [7868] = {Title = "Merc vs. Merc - Pending", 
 Description = {"A Daily quest. It can be repeated after its cooldown through <NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor."}
-, Summary = "Reset at 04:00 a.m."}
+, Summary = "Reset at 04:00 a.m.", CoolTimeQuest = 1}
 , 
 [8000] = {Title = "Quitting Job Change", 
 Description = {"Give up changing your job to Assassin and go back to town. "}
@@ -8651,7 +8651,7 @@ Description = {"If you defeat 50 wild Steps and EXP Cards within the Summoning R
 , 
 [8528] = {Title = "Delay Insurance - Standby", 
 Description = {"Delay Insurance re-registration cannot be instantly processed. Please wait and try again."}
-, Summary = "Resets at 4 am"}
+, Summary = "Resets at 4 am", CoolTimeQuest = 1}
 , 
 [8529] = {Title = "Master of the King’s Heel", 
 Description = {""}
@@ -8679,7 +8679,7 @@ Description = {"Geffen\'s Nannabi is having a problem with making a hat since th
 , 
 [8538] = {Title = "Tomorrow at the King’s Heel", 
 Description = {"I never want to see another card again... But maybe I’ll feel differently tomorrow! Let’s go talk to Dr. Magnatum again tomorrow."}
-, Summary = "Resets at 4 am"}
+, Summary = "Resets at 4 am", CoolTimeQuest = 1}
 , 
 [8541] = {Title = "An Empty Thing", 
 Description = {"Nillem asks you to hunt 20 Contaminated Raydrics and 20 Contaminated Raydric Archers, and see what\'s in them."}
@@ -8687,7 +8687,7 @@ Description = {"Nillem asks you to hunt 20 Contaminated Raydrics and 20 Contamin
 , 
 [8542] = {Title = "An Empty Thing-Waiting", 
 Description = {"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."}
-, Summary = "Reset at 04:00 am"}
+, Summary = "Reset at 04:00 am", CoolTimeQuest = 1}
 , 
 [8543] = {Title = "Perhaps, An Empty Thing", 
 Description = {"Nillem asks you to hunt 20 Contaminated Raydrics and 20 Contaminated Raydric Archers, and see what\'s in them."}
@@ -8699,7 +8699,7 @@ Description = {"Nillem asks you to defeat 5 Frozen Gargoyles and 5 Prison Breake
 , 
 [8545] = {Title = "A Thing with High Freezing Point-Waiting", 
 Description = {"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."}
-, Summary = "Reset at 04:00 am"}
+, Summary = "Reset at 04:00 am", CoolTimeQuest = 1}
 , 
 [8546] = {Title = "A Thing with Pretty High Freezing Point", 
 Description = {"Nillem asks you to defeat 5 Frozen Gargoyles and 5 Prison Breakers, and  allow him to see a change."}
@@ -8711,7 +8711,7 @@ Description = {"Nillem asks you to defeat 10 Ice Ghosts and 10 Flame Ghosts, all
 , 
 [8548] = {Title = "A Thing Like A Mirror-Waiting", 
 Description = {"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."}
-, Summary = "Reset at 04:00 am"}
+, Summary = "Reset at 04:00 am", CoolTimeQuest = 1}
 , 
 [8549] = {Title = "A Thing Like A Mysterious Mirror", 
 Description = {"Nillem asks you to defeat 10 Ice Ghosts and 10 Flame Ghosts, allow him to see a change."}
@@ -8723,7 +8723,7 @@ Description = {"Lily Blanc asks to fight with 15 Stiff Deleters(Sky) and 15 Stif
 , 
 [8551] = {Title = "Abnormally Evolved Deleter-Waiting", 
 Description = {"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."}
-, Summary = "Reset at 04:00 am"}
+, Summary = "Reset at 04:00 am", CoolTimeQuest = 1}
 , 
 [8552] = {Title = "Reinvestigation of Abnormally Evolved Deleter", 
 Description = {"Lily Blanc asks to fight with 15 Stiff Deleters(Sky) and 15 Stiff Deleters(Ground), and report ethnic differences."}
@@ -8735,7 +8735,7 @@ Description = {"Lily Blanc asks to fight with 10 Stiff Nightmare Terrors and rep
 , 
 [8554] = {Title = "Defeat Real Nightmare-Waiting", 
 Description = {"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."}
-, Summary = "Reset at 04:00 am"}
+, Summary = "Reset at 04:00 am", CoolTimeQuest = 1}
 , 
 [8555] = {Title = "Defeat Real Scary Nightmare", 
 Description = {"Lily Blanc asks to fight with 10 Stiff Nightmare Terrors and report ethnic differences."}
@@ -8747,7 +8747,7 @@ Description = {"Lily Blancasks to defeat 10 Stiff Lava Golems and report ethnic 
 , 
 [8557] = {Title = "Density Verification-Waiting", 
 Description = {"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."}
-, Summary = "Reset at 04:00 am"}
+, Summary = "Reset at 04:00 am", CoolTimeQuest = 1}
 , 
 [8558] = {Title = "Density Verification Again", 
 Description = {"Lily Blancasks to defeat 10 Stiff Lava Golems and report ethnic differences."}
@@ -8759,7 +8759,7 @@ Description = {"Lily Blancasks to defeat 10 Stiff Explosions and 10 Stiff Blazer
 , 
 [8560] = {Title = "The Small Things That Rustle-Waiting", 
 Description = {"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."}
-, Summary = "Reset at 04:00 am"}
+, Summary = "Reset at 04:00 am", CoolTimeQuest = 1}
 , 
 [8561] = {Title = "The Very Small Things That Rustle", 
 Description = {"Lily Blancasks to defeat 10 Stiff Explosions and 10 Stiff Blazers and report ethnic differences."}
@@ -11747,7 +11747,7 @@ Description = {"It still seems that the rats have not disappeared. Let\'s catch 
 , 
 [11767] = {Title = "It\'s unfair, moo! -Waiting", 
 Description = {"I defeated What a cheap Rat. Let\'s visit again tomorrow."}
-, Summary = "Reset at 4:00"}
+, Summary = "Reset at 4:00", CoolTimeQuest = 1}
 , 
 [12000] = {Title = "An old friend", 
 Description = {"Find Maku\'s old friend and talk with him."}
@@ -13039,7 +13039,7 @@ Description = {"Supply food ingredients to the new continent to the best of your
 , 
 [12382] = {Title = "Distributing Food", 
 Description = {"Thanks to you, now the food distributer has enough ingredients to cook for everyone who has been waiting for their food."}
-, Summary = "Quest resets at 4:00 a.m."}
+, Summary = "Quest resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [12383] = {Title = "Sweet Potato Delivery", 
 Description = {"Get 160 Sweet Potatoes516 from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."}
@@ -13071,7 +13071,7 @@ Description = {"You have joined the vigilante group of the pioneer village in th
 , 
 [12390] = {Title = "Relieved for Now", 
 Description = {"This should keep the pioneer village safe from monsters for now."}
-, Summary = "Quest resets at 4:00 a.m."}
+, Summary = "Quest resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [12391] = {Title = "Buffaloes with Rifles", 
 Description = {"Eliminate 15 ^ff0000rifle Buffalo Bandits^000000. "}
@@ -13099,7 +13099,7 @@ Description = {"Eliminate 10 ^ff0000Brown Rats^000000. You can find them in the 
 , 
 [12398] = {Title = "You\'re Good", 
 Description = {"Good job accomplishing a tricky mission. Go ahead and rest for a while."}
-, Summary = "Quest resets at 4:00 a.m."}
+, Summary = "Quest resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [12399] = {Title = "Hunt Heinous Criminals", 
 Description = {"Eliminate 10 ^ff0000rifle Buffalo Bandits with glowing blue eyes^000000. "}
@@ -13123,7 +13123,7 @@ Description = {"Be the supplier of water for the pioneer village in the new cont
 , 
 [12404] = {Title = "Are You Not Tired?", 
 Description = {"You have maintained all the pipes in the basement of Rock Ridge. The desalination system should be fine for a while."}
-, Summary = "Quest resets at 4:00 a.m."}
+, Summary = "Quest resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [12405] = {Title = "Maintain the Red Pipe", 
 Description = {"Repair the leaky red pipe. Find a glowing red spot in the basement of Rock Ridge, and then click it to repair the pipe."}
@@ -13151,7 +13151,7 @@ Description = {"Entered a contract with the wealthy merchant."}
 , 
 [12411] = {Title = "Come Back Tomorrow", 
 Description = {"He\'s done doing business with you for the day. Please come back tomorrow."}
-, Summary = "Quest resets at 4:00 a.m."}
+, Summary = "Quest resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [12413] = {Title = "See you on Thursday~", 
 Description = {"I don\'t think they\'ll let you enter the Old Glastheim Beginner Mode until Thursday."}
@@ -13167,7 +13167,7 @@ Description = {"Talked to Emily about proper reward."}
 , 
 [12417] = {Title = "Overcoming fatigue", 
 Description = {"It seems you need to wait until next 4 am to visit Poring Village."}
-, Summary = "04:00 Reset"}
+, Summary = "04:00 Reset", CoolTimeQuest = 1}
 , 
 [12418] = {Title = "First Visit to Poring Village", 
 Description = {"Let\'s develop a sincere relationship with neighbor!"}
@@ -13179,7 +13179,7 @@ Description = {"Look what happened on Orc\'s Memory Dungeon 1F"}
 , 
 [12420] = {Title = "Recovery", 
 Description = {"It seems hard to see Orc\'s memory again unless you get relieved."}
-, Summary = "4am reset"}
+, Summary = "4am reset", CoolTimeQuest = 1}
 , 
 [12452] = {Title = "Os Occupation", 
 Description = {"A train transport route has been secured. Now, I\'d better clear Os of the enemy remnants."}
@@ -14711,7 +14711,7 @@ Description = {"Stick to the basic is the most effective way. Collect Basil 20 e
 , 
 [14563] = {Title = "Free time", 
 Description = {"Today\'s work is not finished. We can\'t research without our work is done. Come back after dawn time."}
-, Summary = "Reset at 4 am"}
+, Summary = "Reset at 4 am", CoolTimeQuest = 1}
 , 
 [14564] = {Title = "I love buns, too", 
 Description = {"It is said there is bun in the new continent. There is a similar food in Lasagna, so I would like to compare them. Can you bring me 20 of them?"}
@@ -14803,7 +14803,7 @@ Description = {"We need to find out why the Pope has been sleeping more recently
 , 
 [14586] = {Title = "Time for bed", 
 Description = {"Her Holiness is not in bed yet. Please visit after dawn."}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [14587] = {Title = "Find the cause", 
 Description = {"We need to find out why the Pope has been sleeping more recently. Please enter her dream to find out the reason and take care of the problem."}
@@ -14847,7 +14847,7 @@ Description = {"Gasters drop deadly poisonous powder and explosive powder. Bring
 , 
 [14673] = {Title = "Time to Make Bombs", 
 Description = {"You\'ve brought me enough ingredients to make bombs all night. Come back early in the morning tomorrow. That\'s the best time to do things. - Demon"}
-, Summary = "Quest resets at 4:00 a.m."}
+, Summary = "Quest resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [14683] = {Title = "Mysterious Device", 
 Description = {"You can see the device of great crystal shape if you look around where you arrive. Close in with it so that you could use the device."}
@@ -15055,7 +15055,7 @@ Description = {"Vrid and Zeith want to get revenge on the strange lizard that fr
 , 
 [15115] = {Title = "Vrid and Zeith", 
 Description = {"You can re-receive this quest after 4:00 a.m."}
-, Summary = "Quest resets at 4:00 a.m."}
+, Summary = "Quest resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [15116] = {Title = "Clear the Illusion of the Frozen", 
 Description = {""}
@@ -15631,7 +15631,7 @@ Description = {"Hunt Hot Imp x 10 and Hot Explosion x 10 to get tasty Gold Corn 
 , 
 [16162] = {Title = "Hot Monster Hunt- Stand by", 
 Description = {"This is a daily quest that players can repeatedly get after stand by time during the event period. You can get the quest from Dr. Corn at Comodo."}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [16163] = {Title = "Hot Monster Hunt- Repeat", 
 Description = {"Hunt Hot Imp x 10 and Hot Explosion x 10 again to get tasty Gold Corn and report back to <NAVI>[Dr. Corn]<INFO>comodo,161,177,0,101,0</INFO></NAVI> with your progress."}
@@ -15647,7 +15647,7 @@ Description = {"Corodo Helper [Pakiha] gave me a guide to Corodo. Visit Corodo w
 , 
 [16166] = {Title = "Corodo the Volcanic Island! - Stand by", 
 Description = {"This is a daily quest that players can repeatedly get after stand by time during the event period. You can get the quest from Corodo Helper at Comodo."}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [16167] = {Title = "Corodo the Volcanic Island! - Repeat", 
 Description = {""}
@@ -15655,11 +15655,11 @@ Description = {""}
 , 
 [16168] = {Title = "Costume Disposable 3D Glasses Rental", 
 Description = {"This is a daily quest that players can repeatedly get after stand by time during the event period. Comodo Joy Booster <NAVI>[Yeon]<INFO>comodo,260,126,0,101,0</INFO></NAVI>gives out the quest to the player."}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [16169] = {Title = "Rent Disposable Popcorn Hat Costume", 
 Description = {"This is a daily quest that players can repeatedly get after stand by time during the event period. Comodo Joy Booster <NAVI>[Yeon]<INFO>comodo,260,126,0,101,0</INFO></NAVI>gives out the quest to the player."}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [16170] = {Title = "Soda In Mouth Costume gift", 
 Description = {""}
@@ -15723,7 +15723,7 @@ Description = {"You’ve agreed to accompany Loreche’s investigation. Speak with
 , 
 [16217] = {Title = "Rest and Relaxation", 
 Description = {"This is a daily quest, and you can re-take it when the cooldown resets. Speak to <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>in the Dimensional Gap to accept the quest."}
-, Summary = "Resets at 4 am"}
+, Summary = "Resets at 4 am", CoolTimeQuest = 1}
 , 
 [16218] = {Title = "Modification and Calculation", 
 Description = {"Let’s go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap."}
@@ -15891,7 +15891,7 @@ Description = {"Ask Elena\'s <NAVI>[Subordinate]<INFO>sp_cor,113,130,0,101,0</IN
 , 
 [16362] = {Title = "Innocent Cleanup - Pending", 
 Description = {"A Daily quest. It can be repeated after its cooldown through <NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> in Cor."}
-, Summary = "Reset at 04:00 a.m."}
+, Summary = "Reset at 04:00 a.m.", CoolTimeQuest = 1}
 , 
 [16363] = {Title = "Take Care of EL1_A17T", 
 Description = {"I\'ve successfully taken care of EL1_A17T."}
@@ -15903,7 +15903,7 @@ Description = {"Because of this incident, the <NAVI>[Farm]<INFO>sp_cor,246,97,0,
 , 
 [16365] = {Title = "Help the Farm - Pending", 
 Description = {"A Daily quest. It can be repeated after its cooldown through <NAVI>[Farmhand]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> in Cor."}
-, Summary = "Reset at 04:00 a.m."}
+, Summary = "Reset at 04:00 a.m.", CoolTimeQuest = 1}
 , 
 [16366] = {Title = "Help the Farm", 
 Description = {"Because of this incident, the <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> is in need of help. I should tend to the young vegetables in the patch."}
@@ -16091,7 +16091,7 @@ Description = {"Now, please put 20 of those test subjects called Dolors to rest 
 , 
 [17035] = {Title = "Pending: To Rudus", 
 Description = {"I\'ll see you again after dawn. You did a great job. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"}
-, Summary = "Quest resets at 4:00 a.m."}
+, Summary = "Quest resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [17137] = {Title = "Make snow flower bouquet", 
 Description = {"You wanna a make snow flower bouquet? Then, collect 10 <ITEM>magical snow flowers<INFO>25425</INFO></ITEM> and come back <NAVI>[here]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."}
@@ -21723,7 +21723,7 @@ Description = {"Happy Egg Festival began. Come back to member of Egg festival af
 , 
 [62900] = {Title = "Find Happy Egg - Stand by", 
 Description = {"Visit later since the festival item can be received once per day."}
-, Summary = "04h Reset"}
+, Summary = "04h Reset", CoolTimeQuest = 1}
 , 
 [62901] = {Title = "Find Happy Egg again!", 
 Description = {"Happy Egg Festival began. Come back to member of Egg festival after break 10 of happy eggs."}
@@ -21735,7 +21735,7 @@ Description = {"To decorate festival, collect 10 Happy Three Leaf Clovers from C
 , 
 [62903] = {Title = "Help Festival Decoration - Stand by", 
 Description = {"Doing one thing in a day is waste of time. Come back after midnight."}
-, Summary = "04h Reset"}
+, Summary = "04h Reset", CoolTimeQuest = 1}
 , 
 [62904] = {Title = "Help Festival Decoration again!", 
 Description = {"To decorate festival, collect 10 Happy Three Leaf Clovers from Clover Poporing or Clover Lunatic and give to Deco Expert."}
@@ -21751,7 +21751,7 @@ Description = {"Something fatal showed up from festival eggs. You can capture th
 , 
 [62907] = {Title = "404 Unable to find - Stand by", 
 Description = {"It is so tiring to catch bugs... somehow want to go back home. Let\'s catch them again tomorrow."}
-, Summary = "04h Reset"}
+, Summary = "04h Reset", CoolTimeQuest = 1}
 , 
 [62908] = {Title = "Unable to find 404!", 
 Description = {"Something fatal showed up from festival eggs. You can capture those bugs from mysterious eggs with D. Buger. Collect 10 of them and give to Festival Guide."}
@@ -21767,7 +21767,7 @@ Description = {"Mrs. Cacturon asked me to find 5 Juice Mix Packages that she bou
 , 
 [62911] = {Title = "Back for More Coyotes Tomorrow", 
 Description = {"I should call it a day today and come back tomorrow to hunt more coyotes."}
-, Summary = "Reset at 4:00 a.m."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [62912] = {Title = "Hunting Coyotes Again", 
 Description = {"I should hunt 30 Coyotes to protect the villagers, and report to Mrs. Cacturon."}
@@ -24863,7 +24863,7 @@ Description = {"To make a Snow Bouquet, you need 10 <ITEM>Magical Snow Flowers<I
 , 
 [17388] = {Title = "Stand by: The chill remains", 
 Description = {"You still have the effect of Magical Snow Flower. Please come back after dawn. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [17389] = {Title = "Heartwarming Winter Days", 
 Description = {"Snow for children who don’t get to see snow! Warm cotton-padded coat for children in cold regions! <NAVI>[We]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>take donations of Warm Cotton x 10!"}
@@ -24871,7 +24871,7 @@ Description = {"Snow for children who don’t get to see snow! Warm cotton-padded
 , 
 [17390] = {Title = "Stand by: Packing cotton", 
 Description = {"We’re packing cotton. I think we’ll be done by dawn. Please come back after dawn! - <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [17391] = {Title = "Exchange Festa Cards", 
 Description = {"Your lucky word is DECEMBER!! Open the Blue Snow Festa Card Pack that can be found in your Gift Box. Collect D, E, C, E, M, B, E, and R cards and bring them to me. That will be eight cards. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
@@ -24895,7 +24895,7 @@ Description = {"Your lucky word is WHITE!! Open the Blue Snow Festa Card Pack th
 , 
 [17395] = {Title = "Stand by: Card exchange once a day", 
 Description = {"You can only exchange letter cards once a day. Got it? So come back after dawn! - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [17396] = {Title = "O time, halt your hasty feet.", 
 Description = {"Pacify <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> who is crying and listen to his story."}
@@ -24927,7 +24927,7 @@ Description = {"I knew that even villains would love winter snacks. Get Sweet Po
 , 
 [17403] = {Title = "Stand by: Need Attention", 
 Description = {"I knew that the winter snacks and the affectionate cards would work. Now take a good rest and help us again after dawn. - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [1208] = {Title = "Invisible Quest", 
 Description = {"Place Holder"}
@@ -27339,7 +27339,7 @@ Description = {"I delivered chocolate to a Morocc sweets store. If you have comp
 , 
 [7839] = {Title = "Ready for Today\'s Exciting Festival - Wait", 
 Description = {"After the waiting time ends, the event quest can be repeated through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
-, Summary = "Reset at 04 o\'clock"}
+, Summary = "Reset at 04 o\'clock", CoolTimeQuest = 1}
 , 
 [7840] = {Title = "Delivery and Collection-Morocc", 
 Description = {"For sweets festival, let\'s deliver chocolate for delivery to <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI>of Aldebaran Sweets store."}
@@ -27351,7 +27351,7 @@ Description = {"As long as Sweets Drops exists in the world, the fight against s
 , 
 [7842] = {Title = "Sweets Drops Retribution-Waiting", 
 Description = {"After the waiting time ends, the event quest can be repeated through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
-, Summary = "Reset at 04 o\'clock"}
+, Summary = "Reset at 04 o\'clock", CoolTimeQuest = 1}
 , 
 [16404] = {Title = "Happy Egg Exploration", IconName = "ico_ev.bmp", 
 Description = {"The festival began. Let\'s hear about it from <NAVI>[Festival Committee]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."}
@@ -27359,7 +27359,7 @@ Description = {"The festival began. Let\'s hear about it from <NAVI>[Festival Co
 , 
 [16405] = {Title = "Happy Egg Exploration-Hold", IconName = "ico_ev.bmp", 
 Description = {"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Festival Committee]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."}
-, Summary = "Reset at 04am"}
+, Summary = "Reset at 04am", CoolTimeQuest = 1}
 , 
 [16406] = {Title = "Happy Egg Exploration", IconName = "ico_ev.bmp", 
 Description = {"The festival continues. Break 3 happy eggs hidden in dungeons and fields and return to <NAVI>[Festival Committee]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."}
@@ -27367,7 +27367,7 @@ Description = {"The festival continues. Break 3 happy eggs hidden in dungeons an
 , 
 [16407] = {Title = "Happy Clover Decoration-Hold", IconName = "ico_ev.bmp", 
 Description = {"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Festival Decoration Planner]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4am"}
+, Summary = "Resets at 4am", CoolTimeQuest = 1}
 , 
 [16408] = {Title = "Happy Clover Decoration", IconName = "ico_ev.bmp", 
 Description = {"The festival continues. Hunt 3 lunatics hidden in dungeons and fields and obtain 3 <ITEM>[Happy three-leaf clover]<INFO>25295</INFO></ITEM> and return to <NAVI>[Festival Decoration Planner]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."}
@@ -27375,7 +27375,7 @@ Description = {"The festival continues. Hunt 3 lunatics hidden in dungeons and f
 , 
 [16409] = {Title = "Happy Clover Decoration-Hold", IconName = "ico_ev.bmp", 
 Description = {"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4am"}
+, Summary = "Resets at 4am", CoolTimeQuest = 1}
 , 
 [16410] = {Title = "Deliver Happy Almond", IconName = "ico_ev.bmp", 
 Description = {"Let\'s go receive one bucket of almonds from Ezlude\'s <NAVI>[Farmer Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>."}
@@ -27395,7 +27395,7 @@ Description = {"Just received some chocolates from Patissier Ian. Let\'s get som
 , 
 [16414] = {Title = "Happy Cutepet Walk-Hold", IconName = "ico_ev.bmp", 
 Description = {"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Seirum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4am"}
+, Summary = "Resets at 4am", CoolTimeQuest = 1}
 , 
 [16415] = {Title = "Happy Cutepet Walk", IconName = "ico_ev.bmp", 
 Description = {"Let\'s choose one Cutepet and go for a walk."}
@@ -27559,7 +27559,7 @@ Description = {"Pray that the last surviving knight would walk the path"}
 , 
 [7999] = {Title = "Central Room\'s \'\'Return\'\'", 
 Description = {"I might have to reinvestigate the core of the Central Room equipped with a partial \'\'return\'\' system."}
-, Summary = "Reset at 4:00 a.m."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [11573] = {Title = "Star Emperor Job Change Quest", IconName = "ico_jq.bmp", 
 Description = {"Nalson told me how to get to the Meteor Forest.", "Follow the narrow path on the north side of Mjolnir to the Meteor Forest."}
@@ -27671,7 +27671,7 @@ Description = {"Lavender\'s Cousin, <NAVI>[Dilpore]<INFO>geffen,90,35,0,101,0</I
 , 
 [8581] = {Title = "Delicious Sour Melon - Hold", IconName = "ico_ev.bmp", 
 Description = {"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> asked me to help him again tomorrow."}
-, Summary = "Resets at 4am"}
+, Summary = "Resets at 4am", CoolTimeQuest = 1}
 , 
 [8582] = {Title = "Analysis on Saecom", IconName = "ico_ev.bmp", 
 Description = {"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> in Geffen is asking for assistance with gathering melons for his research. Sour Melons can be obtained from Saecoms."}
@@ -27679,7 +27679,7 @@ Description = {"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> in Geffe
 , 
 [8583] = {Title = "Analysis on Saecom - Hold", IconName = "ico_ev.bmp", 
 Description = {"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> asked me to help him again tomorrow."}
-, Summary = "Resets at 4am"}
+, Summary = "Resets at 4am", CoolTimeQuest = 1}
 , 
 [8584] = {Title = "Melon Festival Celebration Hat (1)", 
 Description = {"Lavender\'s Cousin, <NAVI>[Nannavi]<INFO>geffen,106,63,0,101,0</INFO></NAVI> is collecting Dalcom Skins. As Lavender said, I think I can make a special hat."}
@@ -27719,7 +27719,7 @@ Description = {"Let\'s go hunt 3 Imps and Explosions, and come back to <NAVI>[Co
 , 
 [16338] = {Title = "Golden Corn in June", 
 Description = {"It\'s a daily quest. Please go to <NAVI>[Corn Professor]<INFO>comodo,159,196,0,101,0</INFO></NAVI> tomorrow."}
-, Summary = "Resets at 04am"}
+, Summary = "Resets at 04am", CoolTimeQuest = 1}
 , 
 [16339] = {Title = "Corrodo, a volcanic island", 
 Description = {"Let\'s help Corrodo\'s guide <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI>to hunt fire property monsters."}
@@ -27731,7 +27731,7 @@ Description = {"Let\'s help Corrodo\'s guide <NAVI>[Pakiha]<INFO>comodo,264,123,
 , 
 [16341] = {Title = "Corrodo, a volcanic island- Hold", 
 Description = {"It\'s a daily quest. Please go to <NAVI>[Pakiha]<INFO>comodo,264,123,0,101,0</INFO></NAVI> tomorrow."}
-, Summary = "Resets at 04am"}
+, Summary = "Resets at 04am", CoolTimeQuest = 1}
 , 
 [16342] = {Title = "Healthy Herbs in June", 
 Description = {"<NAVI>[Yerva]<INFO>comodo,225,187,0,101,0</INFO></NAVI>is asking for 3 magical herbs."}
@@ -27743,7 +27743,7 @@ Description = {"<NAVI>[Yerva]<INFO>comodo,225,187,0,101,0</INFO></NAVI>is asking
 , 
 [16344] = {Title = "Healthy Herbs in June - Hold", 
 Description = {"It\'s a daily quest. Please go to <NAVI>[Yerva]]<INFO>comodo,225,187,0,101,0</INFO></NAVI> tomorrow."}
-, Summary = "Resets at 04am"}
+, Summary = "Resets at 04am", CoolTimeQuest = 1}
 , 
 [16345] = {Title = "Delicious Popcorn in June", 
 Description = {"Popcorn master\'s popcorn is best in midgard."}
@@ -27751,23 +27751,23 @@ Description = {"Popcorn master\'s popcorn is best in midgard."}
 , 
 [16346] = {Title = "Strong, strong bonfire", 
 Description = {"I burned Herbs on <NAVI>[Strong, strong bonfire]<INFO>comodo,289,176,0,101,0</INFO></NAVI>. My physical power increased for 30 minutes. After 30 minutes, I can power up again using 5 herb leaves."}
-, Summary = "Resets after 30 min"}
+, Summary = "Resets after 30 min", CoolTimeQuest = 1}
 , 
 [16347] = {Title = "Wise and strong bonfire", 
 Description = {"I burned Herbs on <NAVI>[Wise and strong bonfire]<INFO>comodo,294,176,0,101,0</INFO></NAVI>. My magical power increased for 30 minutes. After 30 minutes, I can power up again using 5 herb leaves."}
-, Summary = "Resets after 30 min"}
+, Summary = "Resets after 30 min", CoolTimeQuest = 1}
 , 
 [16348] = {Title = "Sharp and strong bonfire", 
 Description = {"I burned Herbs on <NAVI>[Sharp and strong bonfire]<INFO>comodo,299,176,0,101,0</INFO></NAVI>. My accuracy increased for 30 minutes. After 30 minutes, I can power up again using 3 herb leaves."}
-, Summary = "Resets after 30 min"}
+, Summary = "Resets after 30 min", CoolTimeQuest = 1}
 , 
 [16349] = {Title = "Fire in Daytime", 
 Description = {"I burned Herbs on <NAVI>[Fire in Daytime]<INFO>comodo,292,180,0,101,0</INFO></NAVI>. My fire resistance and attack against earth property increased for 60 minutes. After 60minutes, I can power up again using 10 herb leaves."}
-, Summary = "Resets after 60 min"}
+, Summary = "Resets after 60 min", CoolTimeQuest = 1}
 , 
 [16350] = {Title = "Fire in Nighttime", 
 Description = {"I burned Herbs on <NAVI>[Fire in Nighttime]<INFO>comodo,297,180,0,101,0</INFO></NAVI>My neutral resistance and attack against neutral property increased for 60 minutes. After 60minutes, I can power up again using 10 herb leaves."}
-, Summary = "Resets after 60 min"}
+, Summary = "Resets after 60 min", CoolTimeQuest = 1}
 , 
 [16351] = {Title = "Blazing beads of June", 
 Description = {"Pop Popcornizer and Pop Popcornist, this pair is enchanting a popcorn hat."}
@@ -27847,7 +27847,7 @@ Description = {"How was the cool ice cream? Once you have completed all four of 
 , 
 [12421] = {Title = "Aftereffect of Saving the World", 
 Description = {"You have received the reward for saving the world. You cannot get it again before it is reset."}
-, Summary = "Reset at 04:00"}
+, Summary = "Reset at 04:00", CoolTimeQuest = 1}
 , 
 [12422] = {Title = "Request of the Overlord", 
 Description = {"A request from Overlord Barmund has come to join him."}
@@ -27891,7 +27891,7 @@ Description = {"After hunting 30 insect-type monsters over Lv 50, report to <NAV
 , 
 [3400] = {Title = "Insect Monster Hunting - Standby", 
 Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
-, Summary = "04:00 Reset"}
+, Summary = "04:00 Reset", CoolTimeQuest = 1}
 , 
 [3401] = {Title = "Animal Monster Hunting", 
 Description = {"After hunting 30 animal-type monsters over Lv 50, report to <NAVI>[Assistant Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."}
@@ -27899,7 +27899,7 @@ Description = {"After hunting 30 animal-type monsters over Lv 50, report to <NAV
 , 
 [3402] = {Title = "Animal Monster Hunting - Standby", 
 Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
-, Summary = "04:00 Reset"}
+, Summary = "04:00 Reset", CoolTimeQuest = 1}
 , 
 [3403] = {Title = "Fish and Shell-type Monster Hunting", 
 Description = {"After hunting 30 fish-type monsters over Lv 50, report to <NAVI>[Assistant Lofince]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>"}
@@ -27907,7 +27907,7 @@ Description = {"After hunting 30 fish-type monsters over Lv 50, report to <NAVI>
 , 
 [3404] = {Title = "Fish and Shell-type Monster Hunting - Standby", 
 Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
-, Summary = "04:00 Reset"}
+, Summary = "04:00 Reset", CoolTimeQuest = 1}
 , 
 [3405] = {Title = "Dragon Monster Hunting", 
 Description = {"Hunt down 30 dragon monsters of 50 lv or more and then report to <NAVI>[Deputy Lopinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."}
@@ -27915,7 +27915,7 @@ Description = {"Hunt down 30 dragon monsters of 50 lv or more and then report to
 , 
 [3406] = {Title = "Dragon Monster Hunting - Standby", 
 Description = {"These quests are daily quests that you can receive again when the waiting time expires."}
-, Summary = "04:00 Reset"}
+, Summary = "04:00 Reset", CoolTimeQuest = 1}
 , 
 [11650] = {Title = "Jakk and Weird Jakk\'s Little Weird Story", 
 Description = {"Hurorong says Jakk is weird. Let\'s talk to Jakk."}
@@ -28137,7 +28137,7 @@ Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</IN
 , 
 [7880] = {Title = "New Poison Gas Research - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the New Poison Gas Research quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244, CoolTimeQuest = 1}
 , 
 [7881] = {Title = "Unusual Mineral Research 1", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine said she is researching Green Minerals and Red Minerals, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."}
@@ -28145,7 +28145,7 @@ Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</IN
 , 
 [7882] = {Title = "Unusual Mineral Research 1 - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Unusual Mineral Research 1 quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244, CoolTimeQuest = 1}
 , 
 [7883] = {Title = "Unusual Mineral Research 2", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine said she is researching White Minerals and Purple Minerals, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."}
@@ -28153,7 +28153,7 @@ Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</IN
 , 
 [7884] = {Title = "Unusual Mineral Research 2 - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Unusual Mineral Research 2 quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244, CoolTimeQuest = 1}
 , 
 [7885] = {Title = "Abyssman Research", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine said she is researching Abyssmen, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."}
@@ -28161,7 +28161,7 @@ Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</IN
 , 
 [7886] = {Title = "Abyssman Research - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Abyssman Research quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244, CoolTimeQuest = 1}
 , 
 [7887] = {Title = "Mine Bug Research", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>near the Einbech Mine said she is researching White Porcellios and Jeweliants, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."}
@@ -28169,7 +28169,7 @@ Description = {"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</IN
 , 
 [7888] = {Title = "Mine Bug Research - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Mine Bug Research quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_LGTGIRL", NpcNavi = "einbech", NpcPosX = 143, NpcPosY = 244, CoolTimeQuest = 1}
 , 
 [7889] = {Title = "Xth Century XXgolt", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, who studies Odin\'s Temple at a small ferry nearby, asked me to help him with investigating Ancient Odin\'s Temple by hunting two kinds of Angelgolts."}
@@ -28177,7 +28177,7 @@ Description = {"<NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INF
 , 
 [7890] = {Title = "Xth Century XXgiold - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Xth Century XXgiold quest again from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> at the Odin\'s Temple Ferry after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_M_SITDOWN", NpcNavi = "odin_tem01", NpcPosX = 108, NpcPosY = 152}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_M_SITDOWN", NpcNavi = "odin_tem01", NpcPosX = 108, NpcPosY = 152, CoolTimeQuest = 1}
 , 
 [7891] = {Title = "What Is Valkyrie?", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, who studies Odin\'s Temple at a small ferry nearby, asked me to help him with investigating Ancient Odin\'s Temple by hunting Holy Fruses and Holy Skoguls."}
@@ -28185,7 +28185,7 @@ Description = {"<NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INF
 , 
 [7892] = {Title = "What Is Valkyrie? - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the What Is Valkyrie? quest again from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> at the Odin\'s Temple Ferry after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_M_SITDOWN", NpcNavi = "odin_tem01", NpcPosX = 108, NpcPosY = 152}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_M_SITDOWN", NpcNavi = "odin_tem01", NpcPosX = 108, NpcPosY = 152, CoolTimeQuest = 1}
 , 
 [7893] = {Title = "A Strangely-colored Ferus", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza asked me to help her study Purple Ferus, an elemental mutant found in Abyss Dungeon Floor 4."}
@@ -28193,7 +28193,7 @@ Description = {"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></N
 , 
 [7894] = {Title = "A Strangely-colored Ferus - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Purple Ferus Research quest again from <NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_HUWOMAN", NpcNavi = "hugel", NpcPosX = 102, NpcPosY = 143}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_HUWOMAN", NpcNavi = "hugel", NpcPosX = 102, NpcPosY = 143, CoolTimeQuest = 1}
 , 
 [7895] = {Title = "Studying the New Mimic", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza asked me to hunt Treasure Mimic, a new type of Mimic found in Abyss Dungeon Floor 4, and collect its data."}
@@ -28201,7 +28201,7 @@ Description = {"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></N
 , 
 [7896] = {Title = "Studying the New Mimic - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Studying the New Mimic quest again from <NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_HUWOMAN", NpcNavi = "hugel", NpcPosX = 102, NpcPosY = 143}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_HUWOMAN", NpcNavi = "hugel", NpcPosX = 102, NpcPosY = 143, CoolTimeQuest = 1}
 , 
 [7897] = {Title = "Acidus Elemental Study", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza asked me to help her study Black Acidus and Silver Acidus, which are found in Abyss Dungeon Floor 4."}
@@ -28209,7 +28209,7 @@ Description = {"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></N
 , 
 [7898] = {Title = "Acidus Elemental Study - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Acidus Elemental Study quest again from <NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_HUWOMAN", NpcNavi = "hugel", NpcPosX = 102, NpcPosY = 143}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_HUWOMAN", NpcNavi = "hugel", NpcPosX = 102, NpcPosY = 143, CoolTimeQuest = 1}
 , 
 [7899] = {Title = "Against Providence", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza asked me to send Bone Ferus and Bone Acidus, which are found in Abyss Dungeon Floor 4, back into the natural cycle."}
@@ -28217,7 +28217,7 @@ Description = {"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></N
 , 
 [7900] = {Title = "Against Providence - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can receive the Against Providence quest again from <NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_HUWOMAN", NpcNavi = "hugel", NpcPosX = 102, NpcPosY = 143}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "4_F_HUWOMAN", NpcNavi = "hugel", NpcPosX = 102, NpcPosY = 143, CoolTimeQuest = 1}
 , 
 [3389] = {Title = "Remove Organic Jamming Chips", IconName = "ico_dq.bmp", 
 Description = {"Chip has been removed successfully, enabling smooth communication with Eorpa."}
@@ -28229,7 +28229,7 @@ Description = {"Steal potato chips from ^4d4dffMagic-poisoned Sanares^000000!"}
 , 
 [3391] = {Title = "Potato Chips of Illusion - Pending", IconName = "ico_dq.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Eorpa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [3392] = {Title = "Potato Chips of Illusion", IconName = "ico_dq.bmp", 
 Description = {"Steal potato chips from ^4d4dffMagic-poisoned Sanares^000000!"}
@@ -28253,7 +28253,7 @@ Description = {"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></
 , 
 [5896] = {Title = "[Pending] Sewage Treatment Plant Cleanup", IconName = "ico_dq.bmp", 
 Description = {"You can accept the Sewage Treatment Plant Cleanup quest again", "from <NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> after its cooldown."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "EP17_2_OMEGA_CLEANER"}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "EP17_2_OMEGA_CLEANER", CoolTimeQuest = 1}
 , 
 [5897] = {Title = "Magic Power Plant 1 Cleanup Ⅰ", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can\'t clean the plant.", "Let\'s ^0000FFpunish^000000 44 <NAVI>[Elite Bellares]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.", " ", "You have to complete all of Magic Power Plant 1 Cleanup Ⅰ, Magic Power Plant 1 Cleanup Ⅱ, and Magic Power Plant 1 Cleanup Ⅲ to receive the reward."}
@@ -28269,7 +28269,7 @@ Description = {"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></
 , 
 [5900] = {Title = "[Pending] Magic Power Plant 1 Cleanup", IconName = "ico_dq.bmp", 
 Description = {"You can accept the Sewage Treatment Plant Cleanup quest again", "from <NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> after the cooldown has been passed."}
-, Summary = "Resets at 4:00 a.m.", NpcSpr = "EP17_2_OMEGA_CLEANER"}
+, Summary = "Resets at 4:00 a.m.", NpcSpr = "EP17_2_OMEGA_CLEANER", CoolTimeQuest = 1}
 , 
 [8586] = {Title = "Farm Guide", 
 Description = {"I can\'t enter the farm unless I listen to the facility guide and precautions. I should listen to what <NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> says."}
@@ -28277,7 +28277,7 @@ Description = {"I can\'t enter the farm unless I listen to the facility guide an
 , 
 [8587] = {Title = "Daily Farm Experience - Pending", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> will always be waiting for me. I can work and request payment again tomorrow."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [8588] = {Title = "Collecting Tails", 
 Description = {"I should collect various Pitaya Tails while on the farm and hand them to the robot named Silk at the end of the course."}
@@ -28309,7 +28309,7 @@ Description = {"Robot <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI
 , 
 [8595] = {Title = "Playing with Pitayas - Pending", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> will always be waiting for me. I can work and request payment again tomorrow."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [11615] = {Title = "Straggler in the Sewer Pipe", IconName = "ico_ep.bmp", 
 Description = {"A person has drowned and got knocked out. I should heal him using a Yggdrasil Leaf."}
@@ -28389,7 +28389,7 @@ Description = {"Bookworms, which gnaw on spellbooks, are seriously bothering Lib
 , 
 [11635] = {Title = "Ultimate Bookworm Hunt", IconName = "ico_dq.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [11636] = {Title = "Ultimate Book Arrangement", IconName = "ico_dq.bmp", 
 Description = {"Roaming Spellbooks are making a mess of the bookshelves. Let\'s retrieve Roaming Spellbooks and return to Library Manager Beta."}
@@ -28397,7 +28397,7 @@ Description = {"Roaming Spellbooks are making a mess of the bookshelves. Let\'s 
 , 
 [11637] = {Title = "Ultimate Book Arrangement", IconName = "ico_dq.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [11638] = {Title = "Ultimate Scrap Metal Collecting", IconName = "ico_dq.bmp", 
 Description = {"Tamarin says she can fix the Guardian if I get her broken parts of Guardians. Let\'s retrieve Guardian parts and return to her who is in front of Laboratory 1."}
@@ -28405,7 +28405,7 @@ Description = {"Tamarin says she can fix the Guardian if I get her broken parts 
 , 
 [11639] = {Title = "Ultimate Scrap Metal Collecting", IconName = "ico_dq.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [12496] = {Title = "Flower Garden Access Permission - Pending", 
 Description = {"You can enter this Memorial Dungeon again through <NAVI>[Restricted Zone Entry Manager]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> after the cooldown has been passed."}
@@ -28449,7 +28449,7 @@ Description = {"I should hunt a Silva Papilia in the Floating Garden and return 
 , 
 [16432] = {Title = "Silva Papilia Hunt - Pending", IconName = "ico_dq.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [16433] = {Title = "Grand Papilia Hunt", IconName = "ico_dq.bmp", 
 Description = {"I should hunt a Grand Papilia in the Floating Garden and return to <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."}
@@ -28457,7 +28457,7 @@ Description = {"I should hunt a Grand Papilia in the Floating Garden and return 
 , 
 [16434] = {Title = "Grand Papilia Hunt - Pending", IconName = "ico_dq.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [16435] = {Title = "Where are the Gardeners?", IconName = "ico_dq.bmp", 
 Description = {"Some gardeners have not come out from the Maze Garden yet. I should look for them, see if they\'re safe, and report to <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."}
@@ -28465,7 +28465,7 @@ Description = {"Some gardeners have not come out from the Maze Garden yet. I sho
 , 
 [16436] = {Title = "Where are the Gardeners? - Pending", IconName = "ico_dq.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [16437] = {Title = "Floating Garden", IconName = "ico_dq.bmp", 
 Description = {"I challenged to Floating Garden Normal mode."}
@@ -28477,7 +28477,7 @@ Description = {"I challenged to Floating Garden Hard mode."}
 , 
 [16439] = {Title = "Floating Garden - Pending", IconName = "ico_ep.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [16440] = {Title = "That Is the Question", IconName = "ico_ep.bmp", 
 Description = {"I should talk to <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> to hear why the elders are opposing Philofontes."}
@@ -28569,7 +28569,7 @@ Description = {"Please deal with broken Betas and bring me 10 Robot Communicatio
 , 
 [17341] = {Title = "Pending: No Signal", IconName = "ico_dq.bmp", 
 Description = {"If you have time, please consider helping me again after dawn tomorrow. I hope you rest well. - <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [17342] = {Title = "Actually, I Don\'t Really Like It", IconName = "ico_ep.bmp", 
 Description = {"In that case, I guess I can ask you to do it. Please dispose of 5 Broken Cleaner Robots. I hope you enjoy yourself in there. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"}
@@ -28645,7 +28645,7 @@ Description = {"You really love battles. Please dispose of 20 Heart Hunter Scout
 , 
 [17360] = {Title = "Pending: Cleaning the Storage (Street Level)", IconName = "ico_dq.bmp", 
 Description = {"I can sense that their number has decreased. I can start doing my task now. Thank you. Please come back after dawn. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [17361] = {Title = "Cleaning the Storage (Basement)", IconName = "ico_dq.bmp", 
 Description = {"You really like battles. Please dispose of 20 Broken Security Betas in the basement. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"}
@@ -28653,7 +28653,7 @@ Description = {"You really like battles. Please dispose of 20 Broken Security Be
 , 
 [17362] = {Title = "Pending: Cleaning the Storage (Basement)", IconName = "ico_dq.bmp", 
 Description = {"I can sense that their number has decreased. I can start doing my task now. Thank you. Please come back after dawn. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [17363] = {Title = "Searching the Bathhouse", IconName = "ico_ep.bmp", 
 Description = {"We\'ll start searching as soon as we get <NAVI>[into]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> the bathhouse."}
@@ -28713,7 +28713,7 @@ Description = {"Take care of 20 Broken Cleaners and bring me 5 Broken Robot Part
 , 
 [17377] = {Title = "Pending: Between Hot and Cold Bath", IconName = "ico_dq.bmp", 
 Description = {"Rest up, and I\'d appreciate it if you\'d come back after dawn tomorrow. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [17378] = {Title = "Sweeper\'s Request", IconName = "ico_ep.bmp", 
 Description = {"Please eradicate 15 Boiling Marcs and 15 Boiling Piranhas. They\'re all in there. - <NAVI>[Sweeper]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"}
@@ -28725,7 +28725,7 @@ Description = {"Please eradicate 15 Boiling Marcs and 15 Boiling Piranhas. They\
 , 
 [17380] = {Title = "Pending: Bathhouse Is Under Cleaning", IconName = "ico_dq.bmp", 
 Description = {"You should come back after dawn. There will still be plenty of fish here. - <NAVI>[Sweeper]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [17381] = {Title = "Joining with the Party", IconName = "ico_ep.bmp", 
 Description = {"The companions who arrived first are at the <NAVI>[Teahouse]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Take a look around there and have a chat with them."}
@@ -28825,7 +28825,7 @@ Description = {"I should take care of Sweetie if he starts to run amok at the ai
 , 
 [18023] = {Title = "Hey, Sweetie! - Pending", IconName = "ico_dq.bmp", 
 Description = {"Sweetie\'s body needs repair and relax after the bucking. You can accept this quest again from <NAVI>[Sweetie]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI> at the airship depot after its cooldown."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [18024] = {Title = "Collecting Cores", IconName = "ico_dq.bmp", 
 Description = {"Almond at the airship depot asked me to patrol the garden at night and get her some Broken Robot Cores if I could spare more time."}
@@ -28833,7 +28833,7 @@ Description = {"Almond at the airship depot asked me to patrol the garden at nig
 , 
 [18025] = {Title = "Collecting Cores - Pending", IconName = "ico_dq.bmp", 
 Description = {"You can accept this quest again from <NAVI>[Almond]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> at the airship depot after its cooldown."}
-, Summary = "Resets at 4:00 a.m."}
+, Summary = "Resets at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [3312] = {Title = "Catch Sweets Drops!", 
 Description = {"Sweets festival committee member <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> hopes that Sweets Drops will be punished for stealing cacao beans."}
@@ -29877,7 +29877,7 @@ Description = {"Bring <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,<
 , 
 [17314] = {Title = "Cooldown: Noodles of the day", 
 Description = {"Today\'s event is over. After dawn, you can visit <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> again."}
-, Summary = "Reset at 04.00 AM"}
+, Summary = "Reset at 04.00 AM", CoolTimeQuest = 1}
 , 
 [17315] = {Title = "Watermelon fan", 
 Description = {"Break ripe watermelons buried in the watermelon field to find promotional fans! Collect 10 and bring them to <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."}
@@ -29885,7 +29885,7 @@ Description = {"Break ripe watermelons buried in the watermelon field to find pr
 , 
 [17316] = {Title = "Cooldown: Watermelon Fan", 
 Description = {"Today\'s event is over. After dawn, find <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> and you can join again."}
-, Summary = "Reset at 04.00 AM"}
+, Summary = "Reset at 04.00 AM", CoolTimeQuest = 1}
 , 
 [17317] = {Title = "Bad noodle hunt", 
 Description = {"Kill 10 Bad Noodles and bring 10 Tough Noodle Skins to me, <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."}
@@ -29893,7 +29893,7 @@ Description = {"Kill 10 Bad Noodles and bring 10 Tough Noodle Skins to me, <NAVI
 , 
 [17318] = {Title = "Cooldown : Bad Noodle Hunt", 
 Description = {"You must have put a lot of effort into catching the strong noodle, but please take a break today and enjoy the festival again after dawn! - <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"}
-, Summary = "Reset at 04.00 AM"}
+, Summary = "Reset at 04.00 AM", CoolTimeQuest = 1}
 , 
 [17328] = {Title = "Coupon: Noodle Event Completed", 
 Description = {"How was today\'s noodles? If you have completed all of today\'s events, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!"}
@@ -29913,7 +29913,7 @@ Description = {"I gave you a hat. Happy festival!"}
 , 
 [12493] = {Title = "Aftermath of the challenge", 
 Description = {"Once entered, you cannot re-challenge the Glastheim Challenge Mode before 3 days have passed."}
-, Summary = "Reset in 3 days at 4 AM"}
+, Summary = "Reset in 3 days at 4 AM", CoolTimeQuest = 1}
 , 
 [12494] = {Title = "Explanation complete", 
 Description = {"Did you hear about the twisted space-time from Oscar?"}
@@ -29953,7 +29953,7 @@ Description = {"Declined to join the Virtual Record translation."}
 , 
 [16390] = {Title = "Expedition Path - Pending", IconName = "ico_nq.bmp", 
 Description = {"A Daily quest. It can be repeated after its cooldown."}
-, Summary = "Reset at 4:00 a.m."}
+, Summary = "Reset at 4:00 a.m.", CoolTimeQuest = 1}
 , 
 [16391] = {Title = "?", IconName = "ico_nq.bmp", 
 Description = {"?"}
@@ -30225,11 +30225,11 @@ RewardItemList = {
 , 
 [12460] = {Title = "Aftermath of downfall", 
 Description = {"It\'s hard to watch the scene of downfall in any way. You cannot enter or create ^ff0000Glastheim Purification^000000 while the aftereffects remain."}
-, Summary = "Reset at 04.00 AM"}
+, Summary = "Reset at 04.00 AM", CoolTimeQuest = 1}
 , 
 [12461] = {Title = "Powerful aftermath of death", 
 Description = {"This aftereffect is accompanied by the aftereffect of the downfall. During the remaining time, menus related to ^ff0000Glastheim Purification (Hard)^000000 do not appear and cannot be used."}
-, Summary = "Reset at 04:00 AM after 3 days"}
+, Summary = "Reset at 04:00 AM after 3 days", CoolTimeQuest = 1}
 , 
 [12462] = {Title = "Rest in the King\'s thoughts (Hard)", 
 Description = {"To save countless lives, Schmidt threw his own life into the orb. However, in the process, the power of the orb materializes his thoughts and tries to leave a record of disgrace for future generations. It is your job to put his thoughts to rest."}
@@ -30238,5 +30238,429 @@ RewardItemList = {
 {ItemID = 25740, ItemNum = 6}
 }
 }
+, 
+[5847] = {Title = "A story for Luanda", IconName = "ico_nq.bmp", 
+Description = {"Let\'s tell <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> about what you saw and experienced a little while ago."}
+, Summary = "", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "1120000", RewardJEXP = "650000"}
+, 
+[5848] = {Title = "Proof of Megalith Extermination", IconName = "ico_nq.bmp", 
+Description = {"The village is having a hard time because of the Megalith tribe. Bring back 3 <ITEM>[Megalith Token]<INFO>25638</INFO></ITEM>, and the chief will reward you once a day."}
+, Summary = "3 Megalith Token", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "4300000", RewardJEXP = "2800000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[5849] = {Title = "[Waiting] Proof of Megalith Extermination", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> will reward you tomorrow if you bring evidence of defeating the Megalith tribe."}
+, Summary = "Reset at 4 AM", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, CoolTimeQuest = 1}
+, 
+[5850] = {Title = "Proof of Wootan Extermination", IconName = "ico_nq.bmp", 
+Description = {"The village is having a hard time because of the Wootan tribe. Bring back 3 <ITEM>[Wootan Token]<INFO>25633</INFO></ITEM>, and the chief will reward you once a day."}
+, Summary = "3 Wootan Token", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "4300000", RewardJEXP = "2800000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[5851] = {Title = "[Waiting] Proof of Wootan Extermination", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> will reward you tomorrow if you bring evidence of defeating the Wootan tribe."}
+, Summary = "Reset at 4 AM", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, CoolTimeQuest = 1}
+, 
+[5852] = {Title = "Megalith Hunt", IconName = "ico_nq.bmp", 
+Description = {"We planned to subdue the Megalith tribe. Please defeat 5 of <NAVI>[Ancient Tri Joint]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Stalactic Golem]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Megalith]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>. Report to <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> once you\'re done."}
+, Summary = "", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "4300000", RewardJEXP = "2800000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[5853] = {Title = "[Waiting] Megalith Hunt", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> is expecting you to join the Megalith Hunt tomorrow."}
+, Summary = "Reset at 4 AM", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, CoolTimeQuest = 1}
+, 
+[5854] = {Title = "Wootan Hunt", IconName = "ico_nq.bmp", 
+Description = {"We planned to subdue the Wootan tribe. Please defeat 5 of <NAVI>[Ancient Stone Shooter]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Wootan Shooter]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Wootan Fighter]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>. Report to <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> once you\'re done."}
+, Summary = "", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255, RewardEXP = "4300000", RewardJEXP = "2800000", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[5855] = {Title = "[Waiting] Wootan Hunt", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> is expecting you to join the Wootan Hunt tomorrow."}
+, Summary = "Reset at 4 AM", NpcSpr = "4_M_THAIONGBAK", NpcNavi = "com_d02_i", NpcPosX = 241, NpcPosY = 255}
+, 
+[16461] = {Title = "Tomb of Remorse", IconName = "ico_nq.bmp", 
+Description = {"The <NAVI>[Princess]<INFO>dali,124,88,0,101,0</INFO></NAVI> of a strange kingdom seems to have a favor to ask the adventurer."}
+, Summary = "Talk to the Princess"}
+, 
+[16462] = {Title = "Tomb of Remorse", IconName = "ico_nq.bmp", 
+Description = {"To hear more of the princess\'s story, let\'s follow <NAVI>[her]<INFO>dali,79,112,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to the Princess"}
+, 
+[16463] = {Title = "Tomb of Remorse", IconName = "ico_dq.bmp", 
+Description = {"After listening to <NAVI>[Princess]<INFO>dali02,78,116,0,101,0</INFO></NAVI>\'s story, let\'s head to the Tomb of Remorse."}
+, Summary = "Talk to the Princess"}
+, 
+[16464] = {Title = "[Cooldown] Tomb of Remorse", IconName = "ico_dq.bmp", 
+Description = {"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Princess of Sorrow]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[16465] = {Title = "The Thread of a Broken Relationship", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> hopes to send the Magic Swordman Sakray, who has no relationship with the princess, out of the palace. "}
+, Summary = ""}
+, 
+[16466] = {Title = "[Cooldown] The Thread of a Broken Relationship", IconName = "ico_dq.bmp", 
+Description = {"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[16467] = {Title = "Lament of the Princess", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to put rest to the Princess who already lost her mind."}
+, Summary = ""}
+, 
+[16468] = {Title = "[Cooldown] Lament of the Princess", IconName = "ico_dq.bmp", 
+Description = {"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[16469] = {Title = "Fragmented Memories", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to collect 3 Memories to find out the full story of the incident."}
+, Summary = ""}
+, 
+[16470] = {Title = "[Cooldown] Fragmented Memories", IconName = "ico_dq.bmp", 
+Description = {"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[16471] = {Title = "Fragmented Past", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to collect 10 Fragment of the Past so that their presence will not be forgotten."}
+, Summary = ""}
+, 
+[16472] = {Title = "[Cooldown] Fragmented Past", IconName = "ico_dq.bmp", 
+Description = {"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[16473] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16474] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16475] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16476] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16477] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16478] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16479] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16480] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16481] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[16482] = {Title = "Memory Fragment", IconName = "ico_dq.bmp", 
+Description = {""}
+, Summary = ""}
+, 
+[5908] = {Title = "Airship Crash Site", IconName = "ico_nq.bmp", 
+Description = {"Let\'s hear about the Airship Crash incident from Dr. Dry Circle Strong."}
+, Summary = ""}
+, 
+[5909] = {Title = "[Cooldown] Airship Crash Site", IconName = "ico_nq.bmp", 
+Description = {"You can enter the airship crash site once every 3 days. Talk to <NAVI>[Dr. Dry Circle Strong]<INFO>dali02,137,86,0,101,0</INFO></NAVI> to access the site again later."}
+, Summary = "Reset at 04.00 after 3 days", CoolTimeQuest = 1, NpcSpr = "4_M_FAIRYANG", NpcNavi = "dali02", NpcPosX = 137, NpcPosY = 86}
+, 
+[5910] = {Title = "Forgotten Collaborative Research (1)", IconName = "ico_nq.bmp", 
+Description = {"Professor Daeguto asked graduate student Maratha to explain the matter."}
+, Summary = ""}
+, 
+[5911] = {Title = "Forgotten Collaborative Research (2)", IconName = "ico_nq.bmp", 
+Description = {"I think the last explanation should be heard from graduate student Saseong. Let\'s listen to the final explanation."}
+, Summary = ""}
+, 
+[5912] = {Title = "Monster Hunting Request (50)", IconName = "ico_nq.bmp", 
+Description = {"We received a request to hunt 50 common monsters.", "    ", "If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.", "^FF0000This is a repeatable quest.^000000"}
+, Summary = ""}
+, 
+[5913] = {Title = "Monster Hunting Request (100)", IconName = "ico_nq.bmp", 
+Description = {"We received a request to hunt 100 common monsters.", "    ", "If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.", "^FF0000This is a repeatable quest.^000000"}
+, Summary = ""}
+, 
+[5914] = {Title = "Monster Hunting Request (150)", IconName = "ico_nq.bmp", 
+Description = {"We received a request to hunt 150 common monsters.", "    ", "If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.", "^FF0000This is a repeatable quest.^000000"}
+, Summary = ""}
+, 
+[5915] = {Title = "Rewards for helping the injured", IconName = "ico_nq.bmp", 
+Description = {"Pelloch received compensation for his help in finding the injuries caused by the airship crash."}
+, Summary = ""}
+, 
+[18026] = {Title = "Memory of Thanatos", IconName = "ico_dq.bmp", 
+Description = {"Thanatos, the swordsman who fought against Morocc in the past, is seen in the tower. Lumin, who has come to check the truth of the rumor, asks you to explore the tower."}
+, Summary = "Defeat Thanatos", NpcSpr = "4_M_AC_RUMIN", NpcNavi = "thana_step", NpcPosX = 154, NpcPosY = 367}
+, 
+[18027] = {Title = "Memory of Thanatos", IconName = "ico_dq.bmp", 
+Description = {"Thanatos, the swordsman who fought against Morocc in the past, is seen in the tower. Lumin, who has come to check the truth of the rumor, asks you to explore the tower."}
+, Summary = "Defeat Broken Thanatos", NpcSpr = "5_M_AC_RUMIN", NpcNavi = "thana_step", NpcPosX = 154, NpcPosY = 367}
+, 
+[18028] = {Title = "[Cooldown] Memory of Thanatos", IconName = "ico_dq.bmp", 
+Description = {"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Lumin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4 AM", NpcSpr = "6_M_AC_RUMIN", NpcNavi = "thana_step", NpcPosX = 154, NpcPosY = 367}
+, 
+[17408] = {Title = "Thanatos Tower Contract", IconName = "ico_nq.bmp", 
+Description = {"The Thanatos Tower mercenary contract has been completed."}
+, Summary = "Contract Completed"}
+, 
+[17409] = {Title = "Sign of Red Key", IconName = "ico_nq.bmp", 
+Description = {"When I hold the red key, it trembles faintly and I feel a strange power. Let\'s go where the power <NAVI>[leads]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>."}
+, Summary = "Follow the leads."}
+, 
+[17410] = {Title = "Sign of Yellow Key", IconName = "ico_nq.bmp", 
+Description = {"When I hold the yellow key, it trembles faintly and I feel a strange power. Let\'s go where the power <NAVI>[leads]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>."}
+, Summary = "Follow the leads."}
+, 
+[17411] = {Title = "Sign of Blue Key", IconName = "ico_nq.bmp", 
+Description = {"When I hold the blue key, it trembles faintly and I feel a strange power. Let\'s go where the power <NAVI>[leads]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>."}
+, Summary = "Follow the leads."}
+, 
+[17412] = {Title = "Sign of Green Key", IconName = "ico_nq.bmp", 
+Description = {"When I hold the green key, it trembles faintly and I feel a strange power. Let\'s go where the power <NAVI>[leads]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>."}
+, Summary = "Follow the leads."}
+, 
+[17413] = {Title = "Sign of Black Key", IconName = "ico_nq.bmp", 
+Description = {"When I hold the black key, it trembles faintly and I feel a strange power. Let\'s go where the power <NAVI>[leads]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>."}
+, Summary = "Follow the leads."}
+, 
+[17414] = {Title = "Secret of Thanatos Tower", IconName = "ico_nq.bmp", 
+Description = {"Let’s show the notebook you obtained to <NAVI>[Entrance Guide]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Entrance Guide"}
+, 
+[17415] = {Title = "Solis\' Request", IconName = "ico_dq.bmp", 
+Description = {"You decided to accept Solis’ request."}
+, Summary = "Request Accepted."}
+, 
+[17416] = {Title = "[Daily] 9th Floor Monsters", IconName = "ico_dq.bmp", 
+Description = {"You need to defeat 20 Crow Dukes and 20 Crow Barons on the 9th floor of Thanatos Tower. If you bring 10 Fragment of Misery, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = "Collect 10 Fragment of Misery"}
+, 
+[17417] = {Title = "[Daily] 10th Floor Monsters", IconName = "ico_dq.bmp", 
+Description = {"You need to defeat 15 Void Mimic, 15 Book of Death, and 15 Eldest on the 10th floor of Thanatos Tower. If you bring 10 Fragment of Despair, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = "Collect 10 Fragment of Despair"}
+, 
+[17418] = {Title = "[Daily] 11th Floor Monsters I", IconName = "ico_dq.bmp", 
+Description = {"You need to defeat 15 Empathizer and 15 Happiness Giver on the 11th floor of Thanatos Tower. If you bring 10 Fragment of Hatred, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = "Collect 10 Fragment of Hatred"}
+, 
+[17419] = {Title = "[Daily] 11th Floor Monsters II", IconName = "ico_dq.bmp", 
+Description = {"You need to defeat 15 Pray Giver and 15 Smile Giver on the 11th floor of Thanatos Tower. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = ""}
+, 
+[17420] = {Title = "[Daily] 12th Floor Monsters I", IconName = "ico_dq.bmp", 
+Description = {"You need to defeat 10 Anger of Thanatos and 10 Horror of Thanatos on the 12th floor of Thanatos Tower. If you bring 10 Fragment of Agony, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = "Collect 10 Fragment of Agony"}
+, 
+[17421] = {Title = "[Daily] 12th Floor Monsters II", IconName = "ico_dq.bmp", 
+Description = {"You need to defeat 10 Regret of Thanatos and 10 Resentment of Thanatos on the 12th floor of Thanatos Tower. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = ""}
+, 
+[17422] = {Title = "[Cooldown] 9th Floor Monsters", IconName = "ico_dq.bmp", 
+Description = {"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[17423] = {Title = "[Cooldown] 10th Floor Monsters", IconName = "ico_dq.bmp", 
+Description = {"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[17424] = {Title = "[Cooldown] 11th Floor Monsters", IconName = "ico_dq.bmp", 
+Description = {"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[17425] = {Title = "[Cooldown] 12th Floor Monsters", IconName = "ico_dq.bmp", 
+Description = {"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"}
+, Summary = "Reset at 04.00", CoolTimeQuest = 1}
+, 
+[15101] = {Title = "전직메일알림용", 
+Description = {"전직메일알림용"}
+, Summary = "전직메일알림용"}
+, 
+[15102] = {Title = "전직메일알림용", 
+Description = {"전직메일알림용"}
+, Summary = "전직메일알림용"}
+, 
+[15103] = {Title = "전직메일알림용", 
+Description = {"전직메일알림용"}
+, Summary = "전직메일알림용"}
+, 
+[15104] = {Title = "전직메일알림용", 
+Description = {"전직메일알림용"}
+, Summary = "전직메일알림용"}
+, 
+[15105] = {Title = "전직메일알림용", 
+Description = {"전직메일알림용"}
+, Summary = "전직메일알림용"}
+, 
+[15106] = {Title = "전직메일알림용", 
+Description = {"전직메일알림용"}
+, Summary = "전직메일알림용"}
+, 
+[15107] = {Title = "전직메일알림용", 
+Description = {"전직메일알림용"}
+, Summary = "전직메일알림용"}
+, 
+[12470] = {Title = "[Daily] Andrea\'s Revenge I", 
+Description = {"\t\t\tAndrea is mortally wounded by a scythe wielded by a small creature. He wants you to punish upon this small creature that caused his death.\n\t\t\t\n\t\t\t^ff0000\"Don\'t be fooled by its cute appearance. It\'s worse than the devil.\"^000000\n\t\t\t\n\t\t\tI guess I\'ll have to check to see if it\'s really cute though.\n\t\t"}
+, Summary = "Defeat Chaotic Baphomet Jr.", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12471] = {Title = "[Daily] Andrea\'s Revenge II", 
+Description = {"\t\t\tAfter suffering a fatal injury, Andrea tried to heal with his own spiritual power, but he was overpowered by this chaotic entities.\n\t\t\t\n\t\t\t^ff0000\"It\'s probably the soul of an adventurer who died long before me. What else?\"^000000\n\t\t\t\n\t\t\tIt is unknown whether Andrea was such a hot blooded acolyte even when he was alive.\n\t\t"}
+, Summary = "Defeat Chaotic Ghostring", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12472] = {Title = "[Daily] Anes\' Revenge I", 
+Description = {"\t\t\tThis fast and vicious insect dealt a decisive blow to Anes. She believes that all winged insects should be eradicated from the world.\n\t\t\t\n\t\t\t^ff0099\"Don\'t let down your guard just because it looks like a fly. Because their prey includes \'living\' people...\"^000000\n\t\t\t\n\t\t\tIt seems that there are no good memories between her and this insect.\n\t\t"}
+, Summary = "Defeat Chaotic Hunter Fly", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12473] = {Title = "[Daily] Anes\' Revenge II", 
+Description = {"\t\t\tAs she lost her way, she was attacked by this cruel predator that jumped out of the bushes.\n\t\t\tUnfortunately, it happened just as she was about to take a bite of the sandwich she had made since dawn for her expedition.\n\t\t\t\n\t\t\t^ff0099\"When you find that damn thing, take off all its legs and throw it in the mud.\"^000000\n\n\t\t\t\n\t\t\tIf anyone disturbs her meal time, it will be a big problem.\n\t\t"}
+, Summary = "Defeat Chaotic Killer Mantis", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25271, ItemNum = 1}
+}
+}
+, 
+[12474] = {Title = "[Daily] Silvano\'s Revenge I", 
+Description = {"\t\t\tSilvano clearly remembers who attacked him and left him in a near-death state.\n\t\t\tThe enemy in his memory looked similar to the monster that attacked Anes, but it clearly had different characteristics.\n\t\t\t\n\t\t\t^ff0077\"What did Agnes want? Right, exterminate them all.\"^000000\n\t\t"}
+, Summary = "Defeat Chaotic Mantis", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25781, ItemNum = 1}
+}
+}
+, 
+[12475] = {Title = "[Daily] Silvano\'s Revenge II", 
+Description = {"\t\t\tSilvano, who was in a near-death state, did not even have time to chant a recovery spell, so he tried to use potions.\n\t\t\tBut all the potions in his inventory had been swallowed by this mushy monster.\n\t\t\t\n\t\t\t^ff0077\"I just hope that no other adventurer suffers the same fate.\"^000000\n\t\t\t\n\t\t\tIt will be up to the next adventurer to grant his small wish.\n\t\t"}
+, Summary = "Defeat Chaotic Poporing", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25782, ItemNum = 1}
+}
+}
+, 
+[12476] = {Title = "[Daily] Cecilia\'s Revenge I", 
+Description = {"\t\t\t^0000ff\"Watch out for that snake, it\'s much fiercer than it looks. The moment you look away, it will attack.\"^000000\n\t\t\t\n\t\t\tCecilia was momentarily exhausted and was bitten by this monster where she was sitting.\n\t\t\tShe became unable to move due to the paralyzing poison that quickly spread through her body.\n\t\t\t\n\t\t\t^0000ff\"If you want to take a break in the labyrinth, I won\'t stop you. But if I were alive, I would avoid that...\"^000000\n\t\t"}
+, Summary = "Defeat Chaotic Side Winder", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25783, ItemNum = 1}
+}
+}
+, 
+[12477] = {Title = "[Daily] Cecilia\'s Revenge II", 
+Description = {"\t\t\tShe was in a situation where she couldn\'t move due to paralyzing poison, and she suffered a wound from this spiky monster.\n\t\t\t\n\t\t\t^0000ff\"Do you know the feeling of not being able to move due to paralyze? It\'s all because of that damn skewered monster!!\"^000000\n\t\t\t\n\t\t\tHer anger is understandable.\n\t\t"}
+, Summary = "Defeat Chaotic Stem Worm", RewardEXP = "1750000", RewardJEXP = "1137500", 
+RewardItemList = {
+{ItemID = 25784, ItemNum = 1}
+}
+}
+, 
+[12478] = {Title = "[Weekly] Soul Purification - Andrea", 
+Description = {"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes\' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"}
+, Summary = "Defeat Chaotic Andrea", RewardEXP = "2500000", RewardJEXP = "1625000", 
+RewardItemList = {
+{ItemID = 25781, ItemNum = 3}
+}
+}
+, 
+[12479] = {Title = "[Weekly] Soul Purification - Anes", 
+Description = {"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes\' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"}
+, Summary = "Defeat Chaotic Anes", RewardEXP = "2500000", RewardJEXP = "1625000", 
+RewardItemList = {
+{ItemID = 25782, ItemNum = 3}
+}
+}
+, 
+[12480] = {Title = "[Weekly] Soul Purification - Silvano", 
+Description = {"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes\' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"}
+, Summary = "Defeat Chaotic Silvano", RewardEXP = "2500000", RewardJEXP = "1625000", 
+RewardItemList = {
+{ItemID = 25783, ItemNum = 3}
+}
+}
+, 
+[12481] = {Title = "[Weekly] Soul Purification - Cecilia", 
+Description = {"\t\t\tThis is a quest to exorcise one of the four acolytes wandering the labyrinth.\n\t\t\tThese thoughts are born from the condensation of acolytes\' resentment and hatred during their end.\n\t\t\t\n\t\t\t^ff0000This mission can only be performed once a week.^000000\n\t\t\t\n\t\t\t^ff00ccPurification targets may change every week.^000000\n\t\t"}
+, Summary = "Defeat Chaotic Cecilia", RewardEXP = "2500000", RewardJEXP = "1625000", 
+RewardItemList = {
+{ItemID = 25784, ItemNum = 3}
+}
+}
+, 
+[12482] = {Title = "Disappearance of a Colleague", 
+Description = {"\t\t\tTalk to <NAVI>Esmeralda<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI> around Prontera Cathedral.\n\t\t\t\n\t\t\tAt Irene\'s request, you must inform Esmeralda, the guild leader about the situation of missing guild members.\n\t\t"}
+, Summary = "Talk to Esmeralda about the situation"}
+, 
+[12483] = {Title = "Follow Up", 
+Description = {"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tI relayed the news to the Priest guild leader, but I\'m curious about the next action.\n\t\t\tLet\'s follow Esmeralda into the labyrinth and see what happened next.\n\t\t"}
+, Summary = "Talk to Esmeralda inside the Labyrinth"}
+, 
+[12484] = {Title = "Searching for Traces - Andrea", 
+Description = {"\t\t\tYou must find traces of Andrea who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let\'s approach and compare them.^000000\n\t\t"}
+, Summary = "Find Andrea"}
+, 
+[12485] = {Title = "Searching for Traces - Anes", 
+Description = {"\t\t\tYou must find traces of Anes who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let\'s approach and compare them.^000000\n\t\t"}
+, Summary = "Find Anes"}
+, 
+[12486] = {Title = "Searching for Traces - Silvano", 
+Description = {"\t\t\tYou must find traces of Silvano who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let\'s approach and compare them.^000000\n\t\t"}
+, Summary = "Find Silvano"}
+, 
+[12487] = {Title = "Searching for Traces - Cecilia", 
+Description = {"\t\t\tYou must find traces of Cecilia who entered the Illusion of Labyrinth.\n\t\t\t\n\t\t\t^0000ffThere is an information to compare physical characteristics. If I find remains, let\'s approach and compare them.^000000\n\t\t"}
+, Summary = "Find Cecilia"}
+, 
+[12488] = {Title = "Search Result", 
+Description = {"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tWe have found all traces of the four missing acolytes. Let\'s meet Esmeralda and gives her the search result.\n\t\t"}
+, Summary = "Report what you found to Esmeralda"}
+, 
+[12489] = {Title = "Guest Guild Member", 
+Description = {"\t\t\tTalk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tLet’s meet the acolytes who have been revived as souls and work as guest guild members.\n\t\t"}
+, Summary = "Join as Guest Member of the Guild"}
+, 
+[12490] = {Title = "[Cooldown] Daily Mission", 
+Description = {"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tAs the guest member of Prontera Priest guild, I have received all daily quests. These missions can be accepted ^ff0000every day at 4 AM^000000 and cannot be received multiple times.\n\t\t"}
+, Summary = "Reset at 4 AM the next day"}
+, 
+[12491] = {Title = "[Cooldown] Weekly Mission", 
+Description = {"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.\n\t\t\t\n\t\t\tAs the guest member of Prontera Priest guild, I have received the weekly quest. This mission can be accepted ^ff0000every Saturday at 4 AM^000000 and cannot be received multiple times.\n\t\t"}
+, Summary = "Reset every Saturday at 4 AM"}
+, 
+[12492] = {Title = "Esmeralda", 
+Description = {"\t\t\tTalk to Esmeralda to find out her story.\n\t\t"}
+, Summary = "Talk to Esmeralda"}
 }
 

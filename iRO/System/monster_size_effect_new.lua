@@ -4899,6 +4899,10 @@ MonsterEff = {EFFECT.EF_REFLECTBODY}
 [20394] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_REFLECTBODY}
 }
+, 
+[20520] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
 }
 main = function()
   -- function num : 0_0

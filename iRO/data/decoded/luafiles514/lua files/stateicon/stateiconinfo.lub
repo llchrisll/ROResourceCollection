@@ -7184,4 +7184,113 @@ descript = {
 {"Signed by Servant Weapon"}
 }
 }
+-- DECOMPILER ERROR at PC14869: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPWEAPON2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Strip Shadow", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Unable to wear Shadow Weapon equipment"}
+}
+}
+-- DECOMPILER ERROR at PC14893: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPARMOR2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Strip Shadow", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Unable to wear Shadow Armor equipment"}
+}
+}
+-- DECOMPILER ERROR at PC14917: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Strip Shadow", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Unable to wear Shadow Shield equipment"}
+}
+}
+-- DECOMPILER ERROR at PC14941: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPSHOES2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Strip Shadow", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Unable to wear Shadow Shoes equipment"}
+}
+}
+-- DECOMPILER ERROR at PC14965: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPPENDANT2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Strip Shadow", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Unable to wear Shadow pendant equipment"}
+}
+}
+-- DECOMPILER ERROR at PC14989: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPEARING2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Strip Shadow", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Unable to wear Shadow earrings equipment"}
+}
+}
+-- DECOMPILER ERROR at PC15013: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_NOEQUIPFULL2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Strip Shadow", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Unable to wear All Shadow equipment"}
+}
+}
+-- DECOMPILER ERROR at PC15049: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_LIMIT_POWER_BOOSTER] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Limit Power Boster", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATK, MATK increase"}
+, 
+{"HIT, FLEE increase"}
+, 
+{"ASPD increase"}
+, 
+{"Reduce SP consumption"}
+, 
+{"Reduce Fixed Casting"}
+}
+}
+-- DECOMPILER ERROR at PC15076: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_C_BUFF_1] = {haveTimeLimit = 1, posTimeLimitStr = 4, 
+descript = {
+{"Force Booster", COLOR_TITLE_BUFF}
+, 
+{"All Talent Status + 5"}
+, 
+{"P.ATK + 10, S.MATK + 10"}
+, 
+{"%s", COLOR_TIME}
+}
+}
 

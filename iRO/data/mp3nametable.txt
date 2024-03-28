@@ -1,34 +1,34 @@
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악 normal BGM
-//prt_church.rsw#bgm\\10.mp3#
-//izlude.rsw#bgm\\26.mp3#
-//izlude_in.rsw#bgm\\26.mp3#
-//prontera.rsw#bgm\\08.mp3#
-//prt_in.rsw#bgm\\08.mp3#
-//geffen.rsw#bgm\\13.mp3#
-//geffen_in.rsw#bgm\\13.mp3#
-//aldebaran.rsw#bgm\\39.mp3#
-//aldeba_in.rsw#bgm\\39.mp3#
-//alberta.rsw#bgm\\15.mp3#
-//alberta_in.rsw#bgm\\15.mp3#
-//hugel.rsw#bgm\\93.mp3#
-//hu_in01.rsw#bgm\\93.mp3#
+prt_church.rsw#bgm\\10.mp3#
+izlude.rsw#bgm\\26.mp3#
+izlude_in.rsw#bgm\\26.mp3#
+prontera.rsw#bgm\\08.mp3#
+prt_in.rsw#bgm\\08.mp3#
+geffen.rsw#bgm\\13.mp3#
+geffen_in.rsw#bgm\\13.mp3#
+aldebaran.rsw#bgm\\39.mp3#
+aldeba_in.rsw#bgm\\39.mp3#
+alberta.rsw#bgm\\15.mp3#
+alberta_in.rsw#bgm\\15.mp3#
+hugel.rsw#bgm\\93.mp3#
+hu_in01.rsw#bgm\\93.mp3#
 
 //--- 크리스마스 이벤트 마을음악 Snow event
-alberta.rsw#bgm\\54.mp3#
-alberta_in.rsw#bgm\\54.mp3#
-aldebaran.rsw#bgm\\56.mp3#
-aldeba_in.rsw#bgm\\56.mp3#
-geffen.rsw#bgm\\57.mp3#
-geffen_in.rsw#bgm\\57.mp3#
-hugel.rsw#bgm\\54.mp3#
-hu_in01.rsw#bgm\\54.mp3#
-izlude.rsw#bgm\\56.mp3#
-izlude_in.rsw#bgm\\56.mp3#
-prontera.rsw#bgm\\55.mp3#
-prt_in.rsw#bgm\\55.mp3#
-prt_church.rsw#bgm\\56.mp3#
+//alberta.rsw#bgm\\54.mp3#
+//alberta_in.rsw#bgm\\54.mp3#
+//aldebaran.rsw#bgm\\56.mp3#
+//aldeba_in.rsw#bgm\\56.mp3#
+//geffen.rsw#bgm\\57.mp3#
+//geffen_in.rsw#bgm\\57.mp3#
+//hugel.rsw#bgm\\54.mp3#
+//hu_in01.rsw#bgm\\54.mp3#
+//izlude.rsw#bgm\\56.mp3#
+//izlude_in.rsw#bgm\\56.mp3#
+//prontera.rsw#bgm\\55.mp3#
+//prt_in.rsw#bgm\\55.mp3#
+//prt_church.rsw#bgm\\56.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
@@ -1220,3 +1220,42 @@ job4_bio.rsw#bgm\\163.mp3#
 //2023 3Q Additional Update Fall of Glast Heim
 // EDDA 글래스트 헤임의 몰락
 1@gl_prq.rsw#bgm\\48.mp3#
+
+//========2024 1Q UPDATE==================
+// 영웅의 흔적 외전 회한의 무덤 Tomb of Remorese
+1@spa2.rsw#bgm\\117.mp3#
+
+// 영웅의 흔적 외전 비공정추락지 Airship Crash
+1@mjo1.rsw#bgm\\34.mp3#
+1@mjo2.rsw#bgm\\35.mp3#
+
+//타나토스 타워 개편(lv180) Thanatos Tower Revamp
+// MD 타나토스의 기억
+1@thts.rsw#bgm\\108.mp3#
+2@thts.rsw#bgm\\108.mp3#
+3@thts.rsw#bgm\\108.mp3#
+4@thts.rsw#bgm\\108.mp3#
+5@thts.rsw#bgm\\108.mp3#
+6@thts.rsw#bgm\\108.mp3#
+7@thts.rsw#bgm\\108.mp3#
+8@thts.rsw#bgm\\103.mp3#
+//=======================2024 1Q UPDATE end
+
+// 일루전 얼던 (프로즌)
+ice_d03_i.rsw#bgm\\96.mp3#
+
+//일루전 페이욘 (문라이트)
+pay_d03_i.rsw#bgm\\47.mp3#
+
+// 일루전 테디베어 나사리안 제국
+ein_d02_i.rsw#bgm\\88.mp3#
+
+// 일루전 오브 루안다
+com_d02_i.rsw#bgm\\41.mp3#
+
+//신규 훈련장(2020)
+tra_fild.rsw#bgm\\08.mp3#
+
+
+//일루전 오브 라비린스
+prt_mz03_i.rsw#bgm\\16.mp3#

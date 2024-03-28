@@ -3526,13 +3526,57 @@ signName = {mainTitle = "Mana Spring"}
 signName = {mainTitle = "Mana Spring"}
 , backgroundBmp = "field2_s2"}
 , 
-["tra_fild.rsw"] = {displayName = "Prontera Suburb Training Camp", notifyEnter = true, 
-signName = {mainTitle = "Prontera Suburb Training Camp"}
-, backgroundBmp = "field_s2"}
+["tra_fild.rsw"] = {displayName = "Prontera Training Ground", notifyEnter = true, 
+signName = {mainTitle = "Prontera Training Ground"}
+, backgroundBmp = "field"}
 , 
 ["1@ge_sn.rsw"] = {displayName = "Geffen Night Arena", notifyEnter = true, 
 signName = {mainTitle = "Geffen Night Arena"}
 , backgroundBmp = "dungeon_s2"}
+, 
+["1@spa2.rsw"] = {displayName = "Tomb of Remorse", notifyEnter = true, 
+signName = {mainTitle = "Tomb of Remorse"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@mjo1.rsw"] = {displayName = "Mjolnir Mountains Airplane Crash Site", notifyEnter = true, 
+signName = {subTitle = "Mjolnir Mountains", mainTitle = "Airplane Crash Site"}
+, backgroundBmp = "field_s2"}
+, 
+["1@mjo2.rsw"] = {displayName = "Mjolnir Mountains Forgotten Cavity", notifyEnter = true, 
+signName = {subTitle = "Mjolnir Mountains", mainTitle = "Forgotten Cavity"}
+, backgroundBmp = "dungeon"}
+, 
+["1@thts.rsw"] = {displayName = "Thanatos Tower", notifyEnter = true, 
+signName = {subTitle = "Memory of Thanatos", mainTitle = "Thanatos Tower"}
+, backgroundBmp = "dungeon"}
+, 
+["2@thts.rsw"] = {displayName = "Angel\'s Warning", notifyEnter = true, 
+signName = {subTitle = "Memory of Thanatos", mainTitle = "Angel\'s Warning"}
+, backgroundBmp = "dungeon"}
+, 
+["3@thts.rsw"] = {displayName = "Memory of Hatred", notifyEnter = true, 
+signName = {subTitle = "Memory of Thanatos", mainTitle = "Memory of Hatred"}
+, backgroundBmp = "dungeon"}
+, 
+["4@thts.rsw"] = {displayName = "Memory of Agony", notifyEnter = true, 
+signName = {subTitle = "Memory of Thanatos", mainTitle = "Memory of Agony"}
+, backgroundBmp = "dungeon"}
+, 
+["5@thts.rsw"] = {displayName = "Memory of Sorrow", notifyEnter = true, 
+signName = {subTitle = "Memory of Thanatos", mainTitle = "Memory of Sorrow"}
+, backgroundBmp = "dungeon"}
+, 
+["6@thts.rsw"] = {displayName = "Memory of Despair", notifyEnter = true, 
+signName = {subTitle = "Memory of Thanatos", mainTitle = "Memory of Despair"}
+, backgroundBmp = "dungeon"}
+, 
+["7@thts.rsw"] = {displayName = "Memory of Anger", notifyEnter = true, 
+signName = {subTitle = "Memory of Thanatos", mainTitle = "Memory of Anger"}
+, backgroundBmp = "dungeon"}
+, 
+["8@thts.rsw"] = {displayName = "Thanatos Tower", notifyEnter = true, 
+signName = {subTitle = "Memory of Thanatos", mainTitle = "Memory of Thanatos"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0

@@ -558,6 +558,44 @@ SourceItems = {
 {"S_Blitz_Earring", 1, 24217}
 }
 , NeedSource_String = "Blitz Shadows"}
+, 
+BearersShadow_Mix = {ItemID = 23249, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Bearers_Shoes", 1, 24181}
+, 
+{"S_Bearers_Armor", 1, 24180}
+, 
+{"S_Bearers_Shield", 1, 24182}
+, 
+{"S_Bearers_Earring", 1, 24184}
+, 
+{"S_Bearers_Weapon", 1, 24183}
+, 
+{"S_Bearers_Pendent", 1, 24185}
+}
+, NeedSource_String = "+7 Bearer\'s Shadows"}
+, 
+R_BearersShadow_Mix = {ItemID = 101257, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S2_Bearers_Shoes", 1, 24338}
+, 
+{"S2_Bearers_Armor", 1, 24337}
+, 
+{"S2_Bearers_Pendent", 1, 24321}
+, 
+{"S_Bearers_Earring", 1, 24184}
+, 
+{"S_Bearers_Pendent", 1, 24185}
+, 
+{"S_Bearers_Armor", 1, 24180}
+, 
+{"S_Bearers_Weapon", 1, 24183}
+, 
+{"S_Bearers_Shoes", 1, 24181}
+, 
+{"S_Bearers_Shield", 1, 24182}
+}
+, NeedSource_String = "Bearer\'s Shadows"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

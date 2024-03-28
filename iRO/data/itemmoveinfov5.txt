@@ -4867,39 +4867,6 @@
 490288	1	0	0	0	1	1	1	0	//Record_Mage_TH
 490413	0	0	0	0	0	1	1	0	//Twin_Dragon_Ring_TH
 //2023.10.17 Kachua end
-//========2023 3Q UPDATE==================
-//글래스트헤임 도전모드
-19474	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RK
-19475	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_LG
-19476	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_NC
-19477	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_GN
-19478	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_GC
-19479	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SC
-19480	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_AB
-19481	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SR
-19482	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_WL
-19483	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SO
-19484	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RA
-19485	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_WM
-19486	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SJ
-19487	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SP
-19488	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RL
-19489	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_OB
-19490	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_KG
-19491	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_NV
-19492	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SU
-
-//게펜 야간 투기장
-1000366	1	1	1	1	0	1	1	1	//MD_Geffen_Win
-100365	1	1	1	1	0	1	1	1	//MD_Geffen_Rarmor
-100366	1	1	1	1	0	1	1	1	//MD_Geffen_Rhood
-100367	1	1	1	1	0	1	1	1	//MD_Geffen_Racc
-100368	1	1	1	1	0	1	1	1	//MD_Geffen_Rsheild
-100369	1	1	1	1	1	1	1	1	//MD_Geffen_Reward
-100370	1	1	1	1	1	1	1	1	//MD_Geffen_Reward2
-100484	1	1	1	1	0	1	1	1	//MD_Geffen_Gamble
-
-//=======================2023 3Q UPDATE end
 
 //2023.10.17 2021 할로윈 이벤트
 1000657	1	1	1	1	0	1	1	1	//Evt_Soul_Skein
@@ -4934,6 +4901,40 @@
 490394	1	0	0	0	1	1	1	0	//Record_Thief2_TH
 490411	1	0	0	0	1	1	1	0	//Record_Merchant2_TH
 
+//========2023 3Q UPDATE==================
+//글래스트헤임 도전모드
+19474	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RK
+19475	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_LG
+19476	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_NC
+19477	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_GN
+19478	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_GC
+19479	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SC
+19480	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_AB
+19481	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SR
+19482	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_WL
+19483	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SO
+19484	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RA
+19485	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_WM
+19486	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SJ
+19487	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SP
+19488	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_RL
+19489	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_OB
+19490	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_KG
+19491	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_NV
+19492	1	1	0	1	0	1	1	1	//S_Circlet_Of_Time_SU
+
+//게펜 야간 투기장
+1000366	1	1	1	1	0	1	1	1	//MD_Geffen_Win
+100365	1	1	1	1	0	1	1	1	//MD_Geffen_Rarmor
+100366	1	1	1	1	0	1	1	1	//MD_Geffen_Rhood
+100367	1	1	1	1	0	1	1	1	//MD_Geffen_Racc
+100368	1	1	1	1	0	1	1	1	//MD_Geffen_Rsheild
+100369	1	1	1	1	1	1	1	1	//MD_Geffen_Reward
+100370	1	1	1	1	1	1	1	1	//MD_Geffen_Reward2
+100484	1	1	1	1	0	1	1	1	//MD_Geffen_Gamble
+
+//=======================2023 3Q UPDATE end
+
 //2023.12.05 OCP 54
 400505	0	0	0	0	0	1	1	1	//StripedRibbonHat
 400506	0	0	0	0	0	1	1	1	//Altair_Hat
@@ -4965,3 +4966,162 @@
 //2023.12.19 Dec Cash Promotion 소비 프로모션
 480252	0	0	0	0	0	1	1	1	//C_Mystical_Wing
 490466	1	0	0	0	1	0	0	0	//Fallen_Seraphim_ring
+
+
+//========2024 1Q UPDATE==================
+//회한의 무덤 Tomb of Remorese
+1000367	1	1	1	1	0	1	1	1	//Mine_As
+100477	1	1	1	1	0	1	1	1	//Poenetentia_Box1
+100478	1	1	1	1	0	1	1	1	//Poenetentia_Box2
+
+//비공정 추락 Airship Crash
+1000364	1	1	1	1	0	1	1	1	//MD_Airboat_Ore
+100460	1	1	0	1	0	1	1	1	//MD_Airboat_Bexp
+100462	1	1	1	1	0	1	1	1	//MD_Airboat_Reward
+100476	1	1	0	1	0	1	1	1	//MD_Airboat_Random
+
+
+//타나토스 타워 개편(lv180) Thanatos Tower Revamp
+6728	1	1	1	1	0	1	1	0	//ScarletWing_Key
+6729	1	1	1	1	0	1	1	0	//CobaltScale_Key
+6730	1	1	1	1	0	1	1	0	//EmeraldEye_Key
+6731	1	1	1	1	0	1	1	0	//GoldenFang_Key
+
+//=======================2024 1Q UPDATE end
+
+
+//2024.01.02 OCP 55
+400287	0	0	0	0	0	1	1	1	//Legacy_of_Wise_One_J
+410215	1	0	0	0	0	0	0	0	//Ear_OF_Spirit
+420093	0	0	0	0	0	1	1	1	//Einherial_Mantle
+450216	0	0	0	0	0	1	1	1	//Twinhead_dragon_Mail_J
+460050	0	0	0	0	0	1	1	1	//Symbol_Of_Eden
+470128	0	0	0	0	0	0	1	1	//Pegasus_Shoes
+470206	0	0	0	0	0	1	1	1	//Prana_Boots
+480341	1	0	0	0	0	0	0	0	//Kyel_hyre_Ulti_TW
+490206	0	0	0	0	0	1	1	1	//Noblesse_oblige
+102778	1	1	0	1	1	1	1	1	//OCP_JAN_2024
+
+//2024.01.02 심연의 닌자 코스타마 Abyss Ninja Costama
+420171	0	0	0	0	0	1	1	1	//C_Spike_Scarf
+420190	0	0	0	0	0	1	1	1	//C_Mask_Of_Orochimaru
+420240	0	0	0	0	0	1	1	1	//C_Scroll_Of_Tsunade
+420255	0	0	0	0	0	1	1	1	//C_GC_Hair_OM
+480360	0	0	0	0	0	1	1	1	//C_Big_Shuriken
+102779	1	1	0	1	1	1	1	1	//2401_Ninja_US
+
+
+//2024.01.02 소비 프로모션 Cash Promotion
+20621	0	0	0	0	0	1	1	0	//C_Dark_Lord_Manteau
+31851	0	0	0	0	0	1	1	0	//C_Phalanx
+410289	1	0	0	0	1	1	1	0	//C_Baby_Gloom
+420239	1	0	0	0	0	0	0	0	//Adventure_Clover
+480318	0	0	0	0	0	1	1	1	//C_Divine_Phoenix
+
+//2024.01.16 일루전 플레이 유도 캐시아이템 판매 US Cash Items for Illusion Dungeons
+420310	0	0	0	0	1	0	1	0	//Frozen_Flower_US
+420311	0	0	0	0	1	0	1	0	//Teddybear_US
+420312	0	0	0	0	1	0	1	0	//Faisca_US
+420313	0	0	0	0	1	0	1	0	//Pires_US
+420314	0	0	0	0	1	0	1	0	//White_Fox_US
+420315	0	0	0	0	1	0	1	0	//Morcegos_US
+
+//2024.01.16 카츄아 Kachua
+32296	0	0	0	0	0	1	1	1	//Crystal_Blade_Necklace_
+460015	0	0	0	0	0	1	1	1	//Auto_Shield_A
+480306	1	0	0	0	1	0	0	0	//Dual_SW_Cape
+480365	0	0	0	0	0	1	1	0	//Fallen_Protect_Manteau
+102068	1	1	0	1	1	1	1	1	//S_Bearers_Cube
+
+//2024.01.30 산리오 콜라보 Sanrio Collab
+480243	1	1	0	1	1	1	1	1	//C_JP_EV16
+480244	1	1	0	1	1	1	1	1	//C_JP_EV17
+480245	1	1	0	1	1	1	1	1	//JP_EV17
+200336	1	1	0	1	1	1	1	1	//Cinnamon_Pack4
+200371	1	1	0	1	1	1	1	1	//Cinnamon_Pack1_US
+200372	1	1	0	1	1	1	1	1	//Cinnamon_Pack2_US
+
+//2024.02.06 차밍 애니멀즈 코스타마 Charming Animals Costume Egg
+31405	0	0	0	0	0	1	1	1	//C_Eleanor_Wig_YL
+31624	0	0	0	0	0	1	1	1	//C_HeartOfCat_TW
+410236	0	0	0	0	0	1	1	1	//C_Bird_Cage_Candle_Hold
+410277	0	0	0	0	0	1	1	1	//C_Ragdoll
+410290	0	0	0	0	0	1	1	1	//C_Jellyfish
+420150	0	0	0	0	0	1	1	1	//C_Twinkle_Twin_B
+420197	0	0	0	0	0	1	1	1	//C_Twinkle_Wave
+480310	0	0	0	0	0	1	1	1	//C_Giant_Mad_Bunny
+430005	0	0	0	0	0	1	1	1	//C_White_Tiger_Glass
+440002	0	0	0	0	0	1	1	1	//C_Happy_Cat_TW
+102821	1	1	0	1	1	1	1	1	//2402_Charming_US
+
+//2024.02.06 OCP 56
+400396	0	0	0	0	0	1	1	1	//Ghost_Whisper
+420245	0	0	0	0	1	1	1	0	//MoonGod_Lapel_US
+470057	0	0	0	0	0	1	1	0	//Chaser_Shoes_
+480331	0	0	0	0	0	1	1	1	//MD_Geffen_Cloth_JP
+490427	0	0	0	0	0	1	1	1	//Ring_Of_Storm
+490500	0	0	0	0	1	1	1	0	//Eroded_Necklace_US
+102860	1	1	0	1	1	1	1	1	//OCP_6FEB_2024
+
+//2024.02.06 소비 프로모션
+102870	1	1	0	1	1	1	1	1	//OCP56_12
+102871	1	1	0	1	1	1	1	1	//CharmingAniCos_12
+
+//2024.02.20 컨텐츠 크리에이터 어워즈 이벤트 보상 Contents Creator Awards
+2672	1	1	0	1	1	1	1	1	//Anniversary_Ring
+20528	1	1	0	1	1	1	1	1	//C_GoldButterfly_Wing
+31820	1	1	0	1	1	1	1	1	//C_Golden_Baseball_Cap
+410253	1	1	0	1	1	1	1	1	//C_Alien_Sunglass_GN
+
+
+//2024.02.20 2월 카츄아 Feb Kachua
+28984	0	0	0	0	0	1	1	0	//Forbidden_Grimoire_TH
+470180	0	0	0	0	0	1	1	1	//Starry_Sky_Twin_Prime
+470255	1	0	0	0	1	1	1	0	//Zodiac_Boots_SM
+470266	0	0	0	0	1	1	1	0	//Mythical_Moonlight_US
+480188	0	0	0	0	0	1	1	1	//Valkyrie_Curse_blight
+100536	1	1	1	1	1	1	1	1	//Main_Lucky_Box_US
+
+//2024.03.05 드라고닉 코스타마
+5981	0	0	0	0	0	1	1	1	//C_Satanic_Chain_P
+19575	0	0	0	0	0	1	1	1	//C_Rising_Black_Dragon
+20408	0	0	0	0	0	1	1	1	//C_Bldy_Light_Dark_Crown
+31159	0	0	0	0	0	1	1	1	//C_Jormungandr_Hat
+410212	0	0	0	0	0	1	1	1	//C_Little_Abyss_Dragon
+410242	0	0	0	0	0	1	1	1	//C_Wanderer_Grim_Reaper
+410297	0	0	0	0	0	1	1	1	//C_Blink_Eyes_A_Dragon
+420152	0	0	0	0	0	1	1	1	//C_Cons_Of_Light_Dark
+480282	0	0	0	0	0	1	1	1	//C_Ancient_Dragon_Spear
+480407	0	0	0	0	0	1	1	1	//C_Leticia_Wing
+102962	1	1	0	1	1	1	1	1	//2403_Dragonic_US
+
+//2024.03.05 OCP 57
+19446	0	0	0	0	0	1	1	0	//Injured_Eyepatch_JP_
+22214	0	0	0	0	0	1	1	0	//Authority_Sandals
+22244	0	0	0	0	0	1	1	1	//Chic_Silent_Shoes
+410216	1	0	0	0	0	0	0	0	//Ear_OF_Abyss
+420182	0	0	0	0	0	1	1	1	//Book_of_Sorcery
+420236	1	0	0	0	0	0	0	0	//Moroc_Slave_TW
+450258	0	0	0	0	0	1	1	1	//Loud_Park
+102963	1	1	0	1	1	1	1	1	//OCP_MAR_2024
+500005	0	0	0	0	0	1	1	0	//Magic_Sword_J
+
+//2024.03.05 신규 패키지 제작 요청
+17270	1	1	0	1	1	1	1	1	//STR_Biscuit_Stick_Box
+17271	1	1	0	1	1	1	1	1	//VIT_Biscuit_Stick_Box
+17272	1	1	0	1	1	1	1	1	//AGI_Biscuit_Stick_Box
+17273	1	1	0	1	1	1	1	1	//INT_Biscuit_Stick_Box
+17274	1	1	0	1	1	1	1	1	//DEX_Biscuit_Stick_Box
+17275	1	1	0	1	1	1	1	1	//LUK_Biscuit_Stick_Box
+17979	1	1	0	1	1	1	1	1	//A_LimitPowerBooster_100
+17980	1	1	0	1	1	1	1	1	//A_LimitPowerBooster
+200366	1	1	0	1	1	1	1	1	//A_Force_Booster_Box
+200367	1	1	0	1	1	1	1	1	//A_Force_Booster_10_Box
+14616	1	1	0	1	1	1	1	1	//STR_Biscuit_Stick
+14617	1	1	0	1	1	1	1	1	//VIT_Biscuit_Stick
+14618	1	1	0	1	1	1	1	1	//AGI_Biscuit_Stick
+14619	1	1	0	1	1	1	1	1	//INT_Biscuit_Stick
+14620	1	1	0	1	1	1	1	1	//DEX_Biscuit_Stick
+14621	1	1	0	1	1	1	1	1	//LUK_Biscuit_Stick
+14766	1	1	0	1	1	1	1	1	//Limit_Power_Booster
+102803	1	1	0	1	1	1	1	1	//Force_Booster
