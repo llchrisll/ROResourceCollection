@@ -12,5 +12,9 @@ QuestInfo2 = {"Welcome $$Novice$$!!", "Novice%%Support%%Bang@!!Bang@!!", "&*Job 
 , 
 QuestInfo3 = {"^ff0000¡Ø This page lists updates. Even if you complete the related quests, the event will still be displayed on this page.^000000"}
 }
+, 
+[5846] = {Title = "MVP Buffet", IconName = "ico_ev.bmp", 
+Description = {"You can receive an <ITEM>[Event Token]<INFO>25504</INFO></ITEM> from <NAVI>[Phantom of the Illusion]<INFO>glast_01,357,308,000,0</INFO></NAVI> that can be used for 1 hour."}
+, Summary = "Reset at 4am", NpcNavi = "glast_01", NpcPosX = 357, NpcPosY = 308}
 }
 

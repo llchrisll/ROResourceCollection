@@ -769,8 +769,18 @@ worldtable_Crack_of_Dimension1 = {
 {100, "dali02.rsw", 525, 771, 685, 927, WORLD_MSGID.MSI_100_DALI02, ""}
 }
 worldtable_Crack_of_Dimension1_Dun = {}
-worldtable_north = {}
-worldtable_north_Dun = {}
+worldtable_north = {
+{1, "xmas_dun01.rsw", 873, 872, 1000, 906, WORLD_MSGID.MSI_1_XMAS_DUN01, "35"}
+, 
+{1, "xmas_dun02.rsw", 873, 872, 1000, 906, WORLD_MSGID.MSI_1_XMAS_DUN02, "40"}
+, 
+{100, "xmas_fild01.rsw", 795, 963, 854, 1018, WORLD_MSGID.MSI_100_XMAS_FILD01, "37"}
+, 
+{100, "xmas.rsw", 795, 904, 854, 963, WORLD_MSGID.MSI_100_XMAS, ""}
+}
+worldtable_north_Dun = {
+{1, 818, 909, 838, 929, WORLD_MSGID.MSI_DUN44, "35~40"}
+}
 worldtable_Doram = {
 {1, "lasa_dun01.rsw", 971, 728, 1076, 762, WORLD_MSGID.MSI_1_LASA_DUN01, "15"}
 , 

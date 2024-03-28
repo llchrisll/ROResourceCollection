@@ -3667,13 +3667,13 @@ An equipped item cannot be exchanged; please try again after un-equipping#
 You can't move to a character selection window while using Guild Storage#
 Tag item is included and cannot be used#
 Monster#
-Unknown#
+Formless#
 Undead#
 Beast#
 Plant#
 Insect#
-Marine#
-Devil#
+Fish#
+Demon#
 Demi-Human#
 Angel#
 Dragon#
@@ -3873,3 +3873,104 @@ Card, Random Option, Enchant still remain#
 When failed, the refine level still remains#
 Reset#
 Old version#
+Base Lv. %d#
+Job Lv. %d#
+Lv.%d %s#
+퀘스트목록#
+캐시상점#
+단축키안내#
+모험가중개소#
+UI 테마#
+기존 UI#
+신규 UI#
+UI 스킨#
+- Additional options -#
+무형#
+불사형#
+동물형#
+식물형#
+곤충형#
+어패형#
+악마형#
+인간형#
+천사형#
+용족#
+무#
+수#
+지#
+화#
+풍#
+독#
+성#
+암#
+염#
+불사#
+소형#
+중형#
+대형#
+DEF#
+청소년은 접속이 제한되어 있습니다.#
+0Zeny (염색제거)#
+모두 선택#
+간편 퀘스트 UI#
+FREE!#
+임대 기간#
+임대 기간은 최대 14일까지 입력 가능합니다.#
+거래 불가#
+간편 퀘스트 보기#
+간편 퀘스트 숨김#
+간편 퀘스트창에 추가#
+간편 퀘스트창에서 삭제#
+퀘스트 도움말#
+1. 콤보박스 + 검색어 입력창 : 퀘스트 정렬, 검색 기능#
+NAME?#
+- 퀘스트 종류 : NORMAL(노멀)/ MAIN(메인)/ EPISODE(에피소드)/ DAILY(일일)/ LOCAL(지역)/ JOB(직업)/ GUIDE(가이드)/ EVENT(이벤트) 퀘스트로 분류하여 정렬합니다.#
+NAME?#
+2. 내비게이션 UI#
+- 내비게이션 UI 열기 :#
+메뉴아이콘 → 내비게이션 아이콘(단축키 : N)#
+- 텍스트 하이퍼링크 또는 npc(몬스터) 이미지 클릭 : #
+내비게이션 경로 표시 & 필드 바닥에 목표 지점까지 발자국(화살표)표시#
+3. 내비게이션 실행 시, 채팅창에 이동 경로가 안내 됩니다#
+4. 카프라 직원과 대화하여[공간이동 서비스]를 이용할 수 있습니다.#
+5. 간편 퀘스트 UI :#
+퀘스트 UI를 게임 화면에 간단히 표시 해주는 기능#
+각 퀘스트 제목 마우스 우클릭 시, 퀘스트정보 UI 호출 또는 해당 퀘스트 목록 내 삭제#
+기능이 있습니다.#
+시작할 때 열기#
+결제정보 세션이 만료되었습니다. 클라이언트를 재실행 해주세요#
+오류가 발생했습니다. 다시 시도해 주세요#
+크기 변경(%s)#
+기능 잠금#
+기능 해제#
+입력 활성#
+입력 비활성#
+수신인 설정#
+수신그룹 설정#
+설정#
+팝업창 분리#
+탭으로 돌아가기#
+탭 추가#
+탭 삭제#
+Enter키를 누르면 채팅을 시작할수 있습니다#
+장비해제#
+잠시 후 다시 시도해주세요.#
+천지만성 지역에서 사용가능합니다.#
+영혼 축적 효과가 필요합니다.#
+부적이 부족합니다.#
+개틀링건 혹은 샷건 계열의 총기류를 장착한 상태여야 합니다.#
+라이플 혹은 리볼버 계열의 총기류를 장착한 상태여야 합니다.#
+그레네이드 런처 혹은 라이플 계열의 총기류를 장착한 상태여야 합니다.#
+개틀링건 혹은 리볼버 계열의 총기류를 장착한 상태여야 합니다.#
+샷건 혹은 그레네이드 런처 계열의 총기류를 장착한 상태여야 합니다.#
+장착한 방패가 없습니다.#
+다중 물물 교환 중에는 은행을 사용할 수 없습니다. 은행을 강제 종료하였습니다.#
+다중 물물 교환 중에는 은행을 사용할 수 없습니다.#
+대상의 그림자에 이동할 공간이 없습니다.#
+최소한 한종의 영물과 교감하는 상태여야 합니다.#
+Item cannot be used on Sleep and Stone Cuese status.#
+Item cannot be used on Burrow status.#
+Package item cannot be used at the moment.#
+Fail to set package item!!#
+^ff0000Expires after %d Day(s) %d Hour(s)^000000#
+You have selected %s. Please confirm your choice.#

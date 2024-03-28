@@ -474,7 +474,6 @@
 4475#Intangible#
 4476#Entomic#
 4477#Demonic#
-4480#Of Halfreload#
 4481#Half Jack Frost's#
 4482#Of Half regeneration#
 4483#Half Spiritual#
@@ -817,3 +816,19 @@
 4649#Fatal Blow#
 4650#Magic Stun#
 4651#Monarch#
+
+//1월 4일
+300198#Half Soul Steal#
+
+//1월 18일
+27220#Half Sword Master#
+
+//2월 1일
+4537#Half Perfect#
+4480#of Half Reload#
+
+//2월 15일
+27210#Half Penetration#
+
+//2월 29일
+27222#Half Fear#

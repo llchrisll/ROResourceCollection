@@ -902,6 +902,62 @@ SourceItems = {
 {"Unfreeze_Pendent_S", 1, 24101}
 , 
 {"S_KingbirdAncient_Armor", 1, 24401}
+, 
+{"S_PerfectSize_Weapon", 1, 24425}
+, 
+{"S_PerfectSize_Armor", 1, 24426}
+, 
+{"S2_Gemstone_Weapon", 1, 24335}
+, 
+{"S2_Gemstone_Shield", 1, 24336}
+, 
+{"S2_Gemstone_Earring", 1, 24322}
+, 
+{"S_ImmunedAthena_Shield", 1, 24399}
+, 
+{"S_HardChamption_Shoes", 1, 24400}
+, 
+{"S2_Bearers_Shoes", 1, 24338}
+, 
+{"S2_Bearers_Armor", 1, 24337}
+, 
+{"S_Clever_Weapon", 1, 24736}
+, 
+{"S_Absorb_Shield", 1, 24685}
+, 
+{"S_Absorb_Weapon", 1, 24686}
+, 
+{"S_Durable_Shield", 1, 24735}
+, 
+{"S_Exe_Ho_Weapon", 1, 24434}
+, 
+{"S_Fis_In_Weapon", 1, 24435}
+, 
+{"S_Sci_Hu_Weapon", 1, 24436}
+, 
+{"S_Viv_Dr_Weapon", 1, 24437}
+, 
+{"S_Exo_Co_Weapon", 1, 24438}
+, 
+{"S_M_Exo_Co_Weapon", 1, 24427}
+, 
+{"S_M_Viv_Dr_Weapon", 1, 24428}
+, 
+{"S_M_Sci_Hu_Weapon", 1, 24429}
+, 
+{"S_M_Fis_In_Weapon", 1, 24430}
+, 
+{"S_M_Exe_Ho_Weapon", 1, 24431}
+, 
+{"S_Hasty_Shoes", 1, 24196}
+, 
+{"S_Hasty_Armor", 1, 24197}
+, 
+{"S_Infinity_Earring", 1, 24150}
+, 
+{"S_Infinity_Pendant", 1, 24151}
+, 
+{"S_Infinity_Weapon", 1, 24386}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -1448,6 +1504,78 @@ SourceItems = {
 {"S_Small_Armor", 1, 24074}
 }
 , NeedSource_String = "Size Shadow Equipments"}
+, 
+GemstoneShadow_Mix = {ItemID = 23248, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Gemstone_Pendent", 1, 24089}
+, 
+{"S_Gemstone_Armor", 1, 24084}
+, 
+{"S_Gemstone_Shoes", 1, 24085}
+, 
+{"S_Gemstone_Shield", 1, 24086}
+, 
+{"S_Gemstone_Earring", 1, 24088}
+, 
+{"S_Gemstone_Weapon", 1, 24087}
+}
+, NeedSource_String = "+7 Gemstone Shadow"}
+, 
+RaceShadow_Mix = {ItemID = 23281, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Homers_Shield", 1, 24056}
+, 
+{"S_Cadi_Shield", 1, 24061}
+, 
+{"S_Requiem_Shield", 1, 24060}
+, 
+{"S_Flameguard_Shield", 1, 24059}
+, 
+{"S_Satanic_Shield", 1, 24058}
+, 
+{"S_Dragoon_Shield", 1, 24057}
+, 
+{"S_Gargantua_Shield", 1, 24055}
+, 
+{"S_Brutal_Shield", 1, 24054}
+, 
+{"S_Cranial_Shield", 1, 24052}
+, 
+{"S_Divine_Shoes", 1, 24070}
+, 
+{"S_Beholder_Shoes", 1, 24069}
+, 
+{"S_Seraphim_Shoes", 1, 24068}
+, 
+{"S_Fisher_Shoes", 1, 24067}
+, 
+{"S_Insecticide_Shoes", 1, 24066}
+, 
+{"S_Clamorous_Shoes", 1, 24065}
+, 
+{"S_Chemical_Shoes", 1, 24064}
+, 
+{"S_Bloody_Shoes", 1, 24062}
+, 
+{"S_Dragoon_Shoes", 1, 24071}
+}
+, NeedSource_String = "Race Shadow"}
+, 
+Hasty_Mix = {ItemID = 100058, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Hasty_Armor", 1, 24197}
+, 
+{"S_Hasty_Shoes", 1, 24196}
+}
+, NeedSource_String = "Hasty Shadow"}
+, 
+InfinityShadow_Mix = {ItemID = 23474, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Infinity_Earring", 1, 24150}
+, 
+{"S_Infinity_Pendant", 1, 24151}
+}
+, NeedSource_String = "Infinity Shadow"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

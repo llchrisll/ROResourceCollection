@@ -96,8 +96,8 @@ signName = {subTitle = "일루전", mainTitle = "North Cave 루안다"}
 signName = {subTitle = "일루전", mainTitle = "나사리안 제국"}
 , backgroundBmp = "dungeon"}
 , 
-["vis_h01.rsw"] = {displayName = "환영의 회랑 1F", notifyEnter = true, 
-signName = {mainTitle = "환영의 회랑 1F"}
+["vis_h01.rsw"] = {displayName = "Phantom Of Illusion 1F", notifyEnter = true, 
+signName = {mainTitle = "Phantom Of Illusion 1F"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["vis_h02.rsw"] = {displayName = "환영의 회랑 2F", notifyEnter = true, 
@@ -386,7 +386,7 @@ signName = {mainTitle = "잔당들의 아지트"}
 signName = {mainTitle = "Infinite Space"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["paramk.rsw"] = {displayName = "파라마켓"}
+["paramk.rsw"] = {displayName = "Para Market"}
 , 
 ["verus01.rsw"] = {displayName = "Lab-OPTATIO", notifyEnter = true, 
 signName = {subTitle = "Verus City", mainTitle = "Lab-OPTATIO"}
@@ -494,8 +494,8 @@ signName = {mainTitle = "Isle of Bios"}
 signName = {mainTitle = "Morse\'s Cave"}
 , backgroundBmp = "dungeon_s2"}
 , 
-["1@xm_d.rsw"] = {displayName = "호러 Toy 공장", notifyEnter = true, 
-signName = {mainTitle = "호러 Toy 공장"}
+["1@xm_d.rsw"] = {displayName = "Horror Toy Factory", notifyEnter = true, 
+signName = {mainTitle = "Horror Toy Factory"}
 , backgroundBmp = "dungeon_s2"}
 , 
 ["1@eom.rsw"] = {displayName = "Temple of the Demon God", notifyEnter = true, 
@@ -3501,6 +3501,10 @@ signName = {mainTitle = "Super Novice Area 2"}
 ["thor_v02a.rsw"] = {displayName = "Volcano Peaks", notifyEnter = true, 
 signName = {mainTitle = "Volcano Peaks"}
 , backgroundBmp = "dungeon_s2"}
+, 
+["iz_dun02a.rsw"] = {displayName = "Octopus Cave", notifyEnter = true, 
+signName = {mainTitle = "Octopus Cave"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0

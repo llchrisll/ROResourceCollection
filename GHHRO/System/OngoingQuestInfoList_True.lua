@@ -11669,14 +11669,6 @@ Description = {"Dol-Seoi weeps when you give him the pills that you found. Bring
 Description = {"Why can\'t this soul rest in peace? Bring any bracelets you find in the Faceworm\'s Nest back to Keaton."}
 , Summary = "Resets at 4am"}
 , 
-[12330] = {Title = "Skull-faced Girl", 
-Description = {"Heard a story from a girl with strange appearance."}
-, Summary = "Skull-faced Girl"}
-, 
-[12331] = {Title = "Trail to the Toy Factory", 
-Description = {"There is a trail leading to the toy factory. Unable to re-enter for 23 hours."}
-, Summary = "Trail to the Toy Factory"}
-, 
 [12346] = {Title = "Strange Ancient Science", 
 Description = {"Discussed with the researcher about the strangeness of ancient science."}
 , Summary = "Strange Ancient Science"}
@@ -28428,5 +28420,229 @@ Description = {"It received an additional request from Oz Og to the Infinite Spa
 [12367] = {Title = "Defeat Boss Monster on the 30F", 
 Description = {"It received an additional request from Oz Og to the Infinite Space Memorial."}
 , Summary = "Defeat Boss Monster on the 10F"}
+, 
+[7820] = {Title = "Sweets Drops!", 
+Description = {"Sweets Festival Commissioner <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> hopes that the withdrawal of condemnation will be handed down to Sweets Drops who stole and fled with the cacao beans."}
+, Summary = "Defeat Sweets Drops"}
+, 
+[7821] = {Title = "Stolen Cacao Beans", 
+Description = {"Sweets Festival Commissioner <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> asked for 20 cacao beans stolen by Sweets Drops."}
+, Summary = "Collect 20 Stolen Cacao Beans"}
+, 
+[7822] = {Title = "Delivery and Collection-Prontera", 
+Description = {"For the festival, let\'s deliver chocolate to <NAVI>[Mimi]<INFO>prontera,113,103,0,101,0</INFO></NAVI> of the Prontera Sweets store."}
+, Summary = "Chocolate delivery to Mimi"}
+, 
+[7823] = {Title = "Delivery and Collection-Geffen", 
+Description = {"For the Sweets Festival, let\'s deliver chocolate to <NAVI>[Ed]<INFO>geffen,59,165,0,101,0</INFO></NAVI> of Geffen Sweets Store."}
+, Summary = "Chocolate Delivery to Ed"}
+, 
+[7824] = {Title = "Delivery and Collection-Payon", 
+Description = {"For the Sweets Festival, let\'s deliver chocolate for delivery to <NAVI>[Allen]<INFO>payon,160,126,0,101,0</INFO></NAVI> of Payon Sweets Store."}
+, Summary = "Chocolate Delivery to Allen"}
+, 
+[7825] = {Title = "Delivery and Collection-Aldebaran", 
+Description = {"For the Sweets Festival, let\'s deliver chocolate to <NAVI>[Hans]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI> of AlDeBaran sweets store."}
+, Summary = "Chocolate delivery to Hans"}
+, 
+[7826] = {Title = "Chocolate Delivery Completed!", 
+Description = {"We delivered all the chocolates to sweets stores in each big city! Report to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> at Prontera."}
+, Summary = "Report to Chocolate"}
+, 
+[7827] = {Title = "Special Order To Share Sweetness 1", 
+Description = {"<NAVI>[Cherry]<INFO>prontera,225,346,0,101,0</INFO></NAVI> at Prontera Cathedral said they wanted to eat sweets like bouquets. We\'ve prepared a sweets crepe for Cherry."}
+, Summary = "Crepe Gift to Cherry"}
+, 
+[7828] = {Title = "Special Order To Share Sweetness 2", 
+Description = {"The cutie <NAVI>[Blossom]<INFO>prontera,225,322,0,101,0</INFO></NAVI> of Prontera Cathedral, says strawberries are her favorite thing in the world! We\'ve prepared a small, pretty strawberry cream cupcakes for Blossom."}
+, Summary = "Cupcake Gift to Blossom"}
+, 
+[7829] = {Title = "Special Order To Share Sweetness 3", 
+Description = {"The walnuts of the Prontera Great Star love to collect small, pretty cobblestones and beads. We\'ve prepared a sweet jewelry parfait for <NAVI>[Walnut]<INFO>prontera,210,338,0,101,0</INFO></NAVI>."}
+, Summary = "Parfait Gift to Walnut"}
+, 
+[7830] = {Title = "Special Order To Share Sweetness 4", 
+Description = {"<NAVI>[Cinnamon]<INFO>prontera,255,311,0,101,0</INFO></NAVI> at Prontera Cathedral has quite the sweet tooth. We\'ve created a moist macaroon that they will be smitten with just one bite!"}
+, Summary = "Macaroon Gift to Cinnamon"}
+, 
+[7831] = {Title = "Special Order To Share Sweetness 5", 
+Description = {"<NAVI>[Hazel]<INFO>prontera,236,308,0,101,0</INFO></NAVI> sometimes tells the story of Mont Blanc, her favorite treat made from chestnuts harvested from Payon forest. Let\'s present Hazel with these forest chestnuts."}
+, Summary = "Mont Blanc Gift to Hazel"}
+, 
+[7832] = {Title = "Sweet happiness shared!", 
+Description = {"I handed out sweets to all five children. Let\'s report our progress to Festival Commissioner <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Report to Chocolate"}
+, 
+[7833] = {Title = "Prepare for Today\'s Exciting Festival", 
+Description = {"Deliver Chocolates to the Sweets Shop in each city. Delivery Shop : Prontera - <NAVI>[Mimi]<INFO>prontera,113,103,0,101,0</INFO></NAVI>, Geffen - <NAVI>[Ed]<INFO>geffen,59,165,0,101,0</INFO></NAVI>, Payon - <NAVI>[Allen]<INFO>payon,160,126,0,101,0</INFO></NAVI>, Aldebaran - <NAVI>[Hans]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI>, Morocc - <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI>."}
+, Summary = "Chocolate delivery to each store"}
+, 
+[7834] = {Title = "Prontera Delivery Confirmation", 
+Description = {"I delivered chocolate to the Prontera Sweets store. If you have completed delivery to all stores, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Prontera Delivery Completed"}
+, 
+[7835] = {Title = "Geffen Delivery Confirmation", 
+Description = {"I delivered chocolate to the Geffen Sweets store. If you have completed delivery to all stores, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Geffen Delivery Completed"}
+, 
+[7836] = {Title = "Payon Delivery Confirmation", 
+Description = {"I delivered chocolate to the Payon Sweets store. If you have completed delivery to all stores, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Payon Delivery Completed"}
+, 
+[7837] = {Title = "Aldebaran Delivery Confirmation", 
+Description = {"I delivered chocolate to Aldebaran sweets store. If you have completed delivery to all stores, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Aldebaran Delivery Completed"}
+, 
+[7838] = {Title = "Morocc Delivery Confirmation", 
+Description = {"I delivered chocolate to a Morocc sweets store. If you have completed delivery to all stores, let\'s report it to <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Morocc Delivery Completed"}
+, 
+[7839] = {Title = "Prepare for Today\'s Exciting Festival-Stand by", 
+Description = {"After the waiting time ends, the event quest can be repeated through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am"}
+, 
+[7840] = {Title = "Delivery and Collection-Morocc", 
+Description = {"For the sweets festival, let\'s deliver chocolate for delivery to <NAVI>[Amandio]<INFO>morocc,170,75,0,101,0</INFO></NAVI>."}
+, Summary = "Chocolate delivery to Amandio"}
+, 
+[7841] = {Title = "Sweets Drops Retribution Today!", 
+Description = {"As long as Sweets Drops exists worldwide, the fight against sweets festival members will not end. <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI> asks to defeat 10 Sweets Drops."}
+, Summary = "Defeat 10 Sweets Drops"}
+, 
+[7842] = {Title = "Sweets Drops Retribution-Stand by", 
+Description = {"After the waiting time ends, the event quest can be repeated through Prontera\'s <NAVI>[Chocolate]<INFO>prontera,163,98,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am"}
+, 
+[291180] = {Title = "2nd Anniversary Event", IconName = "ico_ev.bmp", 
+Description = {"Talk to NPC <NAVI>[Taki]<INFO>prontera,155,227,0,101,0</INFO></NAVI> to enter the cave and defeat the Octopus."}
+, Summary = "Hunt Octopus"}
+, 
+[291181] = {Title = "Cooldown: 2nd Anniversary Event", IconName = "ico_ev.bmp", 
+Description = {"Talk to NPC <NAVI>[Taki]<INFO>prontera,155,227,0,101,0</INFO></NAVI> after 4 am."}
+, Summary = "Reset at 4 am"}
+, 
+[5846] = {Title = "MVP Buffet", 
+Description = {"You can receive an <ITEM>[Entry Ticket]<INFO>25504</INFO></ITEM> from <NAVI>[Soul Servant]<INFO>glast_01,360,308,000,0</INFO></NAVI> that can be used for 1 hour."}
+, Summary = "Reset at 4am"}
+, 
+[291182] = {Title = "MVP Buffet : Purchase", 
+Description = {"You can receive an <ITEM>[Entry Ticket]<INFO>25504</INFO></ITEM> from <NAVI>[Soul Servant]<INFO>glast_01,360,308,000,0</INFO></NAVI> that can be used for 1 hour."}
+, Summary = "Reset at 4am"}
+, 
+[16261] = {Title = "Happy Egg Explore", 
+Description = {"The festival has begun. Break 3 Happy Eggs hidden in the dungeon and field and return to <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>."}
+, Summary = "Return to Yulata"}
+, 
+[16262] = {Title = "Happy Egg Explore-Stand by", 
+Description = {"These quests are daily quests and can be received at the expiration of the Cool down time. You can receive quests through the <NAVI>[Happy Egg Festival commissioner]<INFO>yuno,175,162,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am"}
+, 
+[16263] = {Title = "Happy Egg Explore", 
+Description = {"The festival continues. Break 3 Happy Eggs hidden in the dungeon and field and return to the  <NAVI>[Happy Egg Festival commissioner]<INFO>yuno,175,162,0,101,0</INFO></NAVI>."}
+, Summary = "Return to Yulata"}
+, 
+[16264] = {Title = "Happy Clover Decoration", 
+Description = {"The festival has begun. Hunt 3 Clover Lunatic and Clover Poporing each in dungeons and fields, then collect 3 <ITEM>[Happy Three Leaf Clovers]<INFO>25295</INFO></ITEM> and return to the <NAVI>[Festival Deco Expert]<INFO>yuno,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "Return to Luluphant"}
+, 
+[16265] = {Title = "Happy Clover Decoration-Stand by", 
+Description = {"These quests are daily quests and can be received at the expiration of the Cool down time. You can receive quests through <NAVI>[Festival Deco Expert]<INFO>yuno,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am"}
+, 
+[16266] = {Title = "Happy Clover Decoration", 
+Description = {"The festival continues. Hunt 3 clovers each in dungeons and fields, then collect 3 <ITEM>[Happy Three Leaf Clovers]<INFO>25295</INFO></ITEM> and return to the <NAVI>[Festival Deco Expert]<INFO>yuno,165,153,0,101,0</INFO></NAVI>."}
+, Summary = "Return to Luluphant"}
+, 
+[16267] = {Title = "Looking for Happy Hint", 
+Description = {"After helping Member of the <NAVI>[Happy Egg Festival commissioner]<INFO>yuno,175,162,0,101,0</INFO></NAVI> Yulata, let\'s check if there\'s anything suspicious and report to Frowny."}
+, Summary = "Investigate Yulata"}
+, 
+[16268] = {Title = "Looking for Happy Hint", 
+Description = {"After helping Festival Deco Expert, Luluphant, let\'s check if there\'s anything suspicious and report to <NAVI>[Frowny]<INFO>yuno,33,192,0,101,0</INFO></NAVI>."}
+, Summary = "Investigate Luluphant"}
+, 
+[16269] = {Title = "Jump into the Enemy camp", 
+Description = {"Let\'s help <NAVI>[Zilean]<INFO>yuno_in03,173,170,0,101,0</INFO></NAVI> make egg-shaped snacks at Schwarzwald Academy and see if there\'s anything suspicious."}
+, Summary = "Investigate Zilean"}
+, 
+[16270] = {Title = "Invest the Enemy camp", 
+Description = {"Let\'s help <NAVI>[Salem]<INFO>yuno_in03,176,55,0,101,0</INFO></NAVI> care of pets at Schwarzwald Academy, and see if there\'s anything suspicious."}
+, Summary = "Investigate Salem"}
+, 
+[16271] = {Title = "Report Happy Result", 
+Description = {"I\'ve completed investigating Academy. Let\'s report these happy results to <NAVI>[Frowny]<INFO>yuno,142,152,0,101,0</INFO></NAVI> waiting at the new place."}
+, Summary = "Return to Frowny"}
+, 
+[16272] = {Title = "Track the truth", 
+Description = {"Let\'s comfort <NAVI>[Frowny]<INFO>yuno,142,152,0,101,0</INFO></NAVI>, who has become very depressed."}
+, Summary = "Talk to Frowny"}
+, 
+[16273] = {Title = "Sweet Cookie Egg Ingredients", 
+Description = {"Meet <NAVI>[Farmer Sheran]<INFO>izlude,164,148,0,101,0</INFO></NAVI> waiting in Izlude get an Almond and go back to <NAVI>[Zilean]<INFO>yuno_in03,173,170,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Sheran"}
+, 
+[16274] = {Title = "Chocolate Egg Ingredients", 
+Description = {"Meet <NAVI>[Patissier Ian]<INFO>prontera,268,156,0,101,0</INFO></NAVI> waiting in Prontera get a Chocolate Plate and go back to <NAVI>[Zilean]<INFO>yuno_in03,173,170,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ian"}
+, 
+[16275] = {Title = "Sweet Ingredients", 
+Description = {"These quests are daily quests and can be received at the expiration of the Cool down time. You can receive quests through <NAVI>[Zilean]<INFO>yuno_in03,173,170,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am"}
+, 
+[16276] = {Title = "Sweet Cookie Egg Ingredients", 
+Description = {"Meet <NAVI>[Farmer Sheran]<INFO>izlude,164,148,0,101,0</INFO></NAVI> waiting in Izlude get an Almond and go back to <NAVI>[Zilean]<INFO>yuno_in03,173,170,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Sheran"}
+, 
+[16277] = {Title = "Chocolate Egg Ingredients", 
+Description = {"Meet <NAVI>[Patissier Ian]<INFO>prontera,268,156,0,101,0</INFO></NAVI> waiting in Prontera get a Chocolate Plate and go back to <NAVI>[Zilean]<INFO>yuno_in03,173,170,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ian"}
+, 
+[16278] = {Title = "Take a walk with Pet Lunatic", 
+Description = {"You decided to take a walk with Pet Lunatic"}
+, Summary = "Take a walk with Lunatic"}
+, 
+[16279] = {Title = "Take a walk with Pet Poring", 
+Description = {"You decided to take a walk with Pet Poring."}
+, Summary = "Take a walk with Poring"}
+, 
+[16280] = {Title = "Take a walk with Pet Desert Wolf Baby", 
+Description = {"You decided to take a walk with Pet Desert Wolf Baby."}
+, Summary = "Take a walk with Pet Desert Wolf Baby"}
+, 
+[16281] = {Title = "Take a walk with Pet Deviruchi", 
+Description = {"You decided to take a walk with pet Deviruchi."}
+, Summary = "Take a walk with Pet Deviruchi"}
+, 
+[16282] = {Title = "Happy Survey", 
+Description = {"Talk to <NAVI>[Salem]<INFO>yuno_in03,176,55,0,101,0</INFO></NAVI> and fill out the questionnaire, and today\'s experiment is over."}
+, Summary = "Happy Survey"}
+, 
+[16283] = {Title = "Happy walking", 
+Description = {"These quests are daily quests and can be received at the expiration of the Cool down time. You can receive quests through <NAVI>[Salem]<INFO>yuno_in03,176,55,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4am"}
+, 
+[16284] = {Title = "Happy Walking Course", 
+Description = {"Let\'s go to the first <NAVI>[Walking Course]<INFO>yuno,301,190,0,101,0</INFO></NAVI> on the map."}
+, Summary = "First Walking Course"}
+, 
+[16285] = {Title = "Happy Walking Course", 
+Description = {"Let\'s go to the second <NAVI>[Walking Course]<INFO>yuno,291,116,0,101,0</INFO></NAVI> on the map."}
+, Summary = "Second Walking Course"}
+, 
+[16286] = {Title = "Happy Walking Course", 
+Description = {"Let\'s go to the third <NAVI>[Walking Course]<INFO>yuno,179,204,0,101,0</INFO></NAVI> on the map."}
+, Summary = "Third Walking Course"}
+, 
+[16287] = {Title = "Happy Walking Course", 
+Description = {"Let\'s go to the fourth <NAVI>[Walking Course]<INFO>yuno,208,330,0,101,0</INFO></NAVI> on the map."}
+, Summary = "Fourth Walking Course"}
+, 
+[16288] = {Title = "Happy Walking Course", 
+Description = {"Let\'s get back to <NAVI>[Schwarzwald Academy]<INFO>yuno_in03,176,55,0,101,0</INFO></NAVI>."}
+, Summary = "Return to Academy"}
+, 
+[16289] = {Title = "Happy Pet Vending Machine", 
+Description = {"Happy Pet Vending Machine"}
+, Summary = ""}
 }
 
