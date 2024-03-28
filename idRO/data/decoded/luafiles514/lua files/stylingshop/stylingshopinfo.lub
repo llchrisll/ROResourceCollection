@@ -100,4 +100,8 @@
 (StylingShop.AddMidAccessory)(2212, {zeny = 1000})
 ;
 (StylingShop.AddBottomAccessory)(2241, {zeny = 5000})
+;
+(StylingShop.AddSecondCostume)(0, {itid = 6959, boxitid = 6959})
+;
+(StylingShop.AddSecondCostume)(1, {itid = 6959, boxitid = 6959})
 

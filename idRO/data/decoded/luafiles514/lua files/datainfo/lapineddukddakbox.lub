@@ -594,6 +594,30 @@ SourceItems = {
 {"C_Nero_Mask", 1, 410098}
 , 
 {"C_Tiger_Muffler_MSP", 1, 420237}
+, 
+{"C_Warm_Cat_Muffler_BL", 1, 31533}
+, 
+{"C_PU_EarWitchHat", 1, 400370}
+, 
+{"C_Charlie_Beard", 1, 410143}
+, 
+{"C_Wish_Tree_Hat_J", 1, 410171}
+, 
+{"C_Chocolate_Bomb", 1, 420108}
+, 
+{"C_Cat_Straw_Hat", 1, 400480}
+, 
+{"C_Professor_MiniGlass", 1, 410126}
+, 
+{"C_Memories_Of_Lovers", 1, 20376}
+, 
+{"C_Sorc_Night_Cap", 1, 19895}
+, 
+{"C_Male_Poring_Earmuff", 1, 31461}
+, 
+{"C_Pope_Ribbon_R", 1, 410224}
+, 
+{"C_Carrot_In_Mouth_J", 1, 420081}
 }
 , NeedSource_String = "Silvervine Costume"}
 , 
@@ -1468,6 +1492,102 @@ SourceItems = {
 {"S_Huusouka_Pendant", 1, 24632}
 , 
 {"S_Huusouka_Earing", 1, 24631}
+, 
+{" S_Cart_Tornado_Armor ", 1, 24560}
+, 
+{" S_Cart_Tornado_Shield ", 1, 24561}
+, 
+{" S_Cart_Tornado_Shoes ", 1, 24562}
+, 
+{" S_Cannon_Cart_Weapon ", 1, 24563}
+, 
+{" S_Cannon_Cart_Pendant ", 1, 24564}
+, 
+{" S_Cannon_Cart_Earing ", 1, 24565}
+, 
+{" S_Judex_Armor ", 1, 24494}
+, 
+{" S_Judex_Shield ", 1, 24495}
+, 
+{" S_Judex_Shoes ", 1, 24496}
+, 
+{" S_TigerCannon_Weapon ", 1, 24485}
+, 
+{" S_Tigercannon_Pendant ", 1, 24486}
+, 
+{" S_Tigercannon_Earing ", 1, 24487}
+, 
+{" S_Crimson_Armor ", 1, 24518}
+, 
+{" S_Crimson_Shield ", 1, 24519}
+, 
+{" S_Crimson_Shoes ", 1, 24520}
+, 
+{" S_Paint_Weapon ", 1, 24533}
+, 
+{" S_Paint_Pendant ", 1, 24534}
+, 
+{" S_Paint_Earing ", 1, 24535}
+, 
+{" S_Flare_Dance_Earing ", 1, 24604}
+, 
+{" S_Flare_Dance_Pendant ", 1, 24605}
+, 
+{" S_Flare_Dance_Shoes ", 1, 24606}
+, 
+{" S_Super_Magic_Shield ", 1, 24616}
+, 
+{" S_Super_Magic_Armor ", 1, 24617}
+, 
+{" S_Super_Magic_Shoes ", 1, 24618}
+, 
+{" S_Super_Power_Weapon ", 1, 24619}
+, 
+{" S_Super_Power_Pendant ", 1, 24620}
+, 
+{" S_Super_Power_Earing ", 1, 24621}
+, 
+{" S_Reverberation_Weapon ", 1, 24509}
+, 
+{" S_Reverberation_Pendant ", 1, 24510}
+, 
+{" S_Reverberation_Earing ", 1, 24511}
+, 
+{" S_Magnus_Weapon ", 1, 24497}
+, 
+{" S_Magnus_Pendant ", 1, 24498}
+, 
+{" S_Magnus_Earing ", 1, 24499}
+, 
+{" Sentimental_Weapone_S ", 1, 24380}
+, 
+{" Sentimental_Earring_S ", 1, 24381}
+, 
+{" Sentimental_Pendant_S ", 1, 24382}
+, 
+{" Enchanting_Weapone_S ", 1, 24383}
+, 
+{" Enchanting_Earring_S ", 1, 24384}
+, 
+{" Enchanting_Pendant_S ", 1, 24385}
+, 
+{" S_Tension_Weapon ", 1, 24360}
+, 
+{" S_Tension_Earring ", 1, 24361}
+, 
+{" S_Tension_Pendent ", 1, 24362}
+, 
+{" S_Elegant_Weapon ", 1, 24363}
+, 
+{" S_Elegant_Earring ", 1, 24364}
+, 
+{" S_Elegant_Pendent ", 1, 24365}
+, 
+{" S_MortalBlow_Weapon ", 1, 24370}
+, 
+{" S_MortalBlow_Earring ", 1, 24371}
+, 
+{" S_MortalBlow_Pendent ", 1, 24372}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 

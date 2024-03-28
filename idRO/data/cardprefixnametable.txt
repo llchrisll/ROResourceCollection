@@ -628,7 +628,7 @@
 4556#Power Ward#
 4557#of Spell Power#
 
-//?í”¼?Œë“œ14.3 ëª¨ë¡œ?¬ì¹´??
+//? í”¼? ë“œ14.3 ëª¨ë¡œ? ì¹´??
 27325#Muspelheim#
 27326#Destructive#
 27327#Grim Reaper Ankou#
@@ -648,7 +648,6 @@
 
 //July update
 4610#Of Protection#
-4610##
 4939##
 4940##
 4941##
@@ -678,7 +677,7 @@
 
 
 
-// 2015??1??16???í”¼?Œë“œ 16.1
+// 2015??1??16??? í”¼? ë“œ 16.1
 4446#Sharpen#
 4633#Queenbird#
 4634#Fatal#
@@ -702,7 +701,7 @@
 27151#of Freezing#
 27152#Prompt#
 
-// 2015??12???„ì‚¬?ì˜ ë¬´ë¤ ì¹´ë“œ ì¶”ê?
+// 2015??12??? ì‚¬? ì˜ ë¬´ë¤ ì¹´ë“œ ì¶” ?
 4671#of Sorcerer#
 4672#of Sura#
 4673#of Maestro#
@@ -808,7 +807,7 @@
 27161#Land Blast#
 27162#Soul Steel#
 
-// 2016³â 12¿ù ÀÏ·çÀü ¿Àºê ¹®¶óÀÌÆ® - Illussion Vampire
+// 2016   12    Ï·               Æ® - Illussion Vampire
 27081#Moonlight#
 27082#Fox Tail#
 27083#Growth#
@@ -818,7 +817,7 @@
 27087#Truth#
 27088#Instigating#
 
-// 2017³â 1¿ù ÀÏ·çÀü ¿Àºê ¹ìÆÄÀÌ¾î - Illussion Vampire
+// 2017   1    Ï·              Ì¾  - Illussion Vampire
 27101#Sorcery#
 27102#Fire Immune#
 27103#Vigor#
@@ -832,13 +831,13 @@
 //Update Card - 20220608
 27183#Onslaught#
 
-// 2017³â 2¿ù ÀÏ·çÀü ¿Àºê ÇÁ·ÎÁğ - Illssion Frozen
+// 2017   2    Ï·                - Illssion Frozen
 27110#Fast-footed#
 27111#Crisp#
 27112#Hardy#
 27113#Frozen#
 
-//2017³â 4¿ù ÀÏ·çÀü ¿Àºê ÅÍÆ²¾ÆÀÏ·£µå - Illusion Turtle
+//2017   4    Ï·           Æ²   Ï·    - Illusion Turtle
 27114#Indomitable#
 27115#Sagacious#
 27116#Dual Critical#
@@ -856,14 +855,14 @@
 //ROFL 3rd Aniv Card
 300291#3rd ROFL#
 
-//ÀÏ·çÀü ¿Àºê Å×µğº£¾î - Illussion Teddy Bear
+// Ï·          ×µğº£¾  - Illussion Teddy Bear
 27286#Lumping#
 27287#of Luminant#
 27288#of Worker#
 27289#Proper#
 27290#of Obsidian#
 
-//ÀÏ·çÀü ¿Àºê ·ç¾È´Ù - Illussion Luanda
+// Ï·           È´  - Illussion Luanda
 27291#Full Charging#
 27292#of Stalactic#
 27293#Circular#
@@ -873,7 +872,7 @@
 27297#Wootan Fist#
 27298#of Big Shield#
 
-//ÀÏ·çÀü¿Àºê¶óºñ¸°½º Ä«µå - Illussion Labyrinth
+// Ï·        ñ¸°½  Ä«   - Illussion Labyrinth
 27338#of Double Power#
 27339#Ghost#
 27340#of Angry Killer#
@@ -1001,3 +1000,6 @@
 27395#Isaac's#
 300129#Poe's#
 300127#Wolf's#
+
+//EDDA - Fall of Glastheim
+27329#of Schmidt#

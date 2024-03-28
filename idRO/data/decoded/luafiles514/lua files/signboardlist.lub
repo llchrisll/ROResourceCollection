@@ -863,5 +863,11 @@ SignBoardList = {
 {"prt_q", 153, 218, 10, IT_SIGNBOARD, "item\\tf_invenom.bmp", " Jejak Lost Knight", "#0x00FFFFFF"}
 , 
 {"lhz_in01", 31, 31, 6, IT_SIGNBOARD, "item\\etel_stone.bmp", " 2nd Gen Univ Enc", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 34, 27, 16, IT_SIGNBOARD, "item\\light_of_life.bmp", " Valkyrie Blessing", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 39, 15, 6, IT_SIGNBOARD, "item\\buy_arbeit_3lv.bmp", " Time-Slipping Trader", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 43, 17, 6, IT_SIGNBOARD, "item\\³É¹îÁö.bmp", " Black Fredas", "#0x00FFFFFF"}
 }
 

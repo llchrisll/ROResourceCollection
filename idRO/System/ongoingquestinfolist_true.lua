@@ -14737,7 +14737,7 @@ Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat d
 Description = {"Semangat, kamu pasti bisa!! Cari dan kalahkan monster dengan elemen tanah, ukuran Sedang dan ukuran Kecil dengan Level Monster 145~160. Laporkan ke Lime Evenor jika sudah selesai menggunakan Booster Call."}
 , Summary = ""}
 , 
-[18052] = {Title = "Petualang Profesional 2-Dalam Prosesê¸\191", IconName = "ico_dq.bmp", 
+[18052] = {Title = "Petualang Profesional 2-Dalam Prosesê¸?", IconName = "ico_dq.bmp", 
 Description = {"Quest ini bisa didapatkan lagi dari \'Lime Evenor\' yang dapat dipanggil menggunakan Booster Call setelah waktu tunggu selesai."}
 , Summary = "Tunggu sampai jam 04.00"}
 , 
@@ -18613,16 +18613,16 @@ Description = {"Hunt 40 Mutant Venenum", "Hunt 40 Mutant Dolor", "Hunt 40 Mutant
 Description = {"Hunt 50 Venenum", "Hunt 50 Dolor", "Hunt 50 Twin Caput"}
 , Summary = "Hunt Mission"}
 , 
-[12416] = {Title = "The Ancient Ent", 
+[12416] = {Title = "Raid Four Season", 
 Description = {"Kalahkan dan selesaikan semua misi yang diberikan untuk menyelesaikan Instance"}
 , Summary = "Complete the Mission"}
 , 
-[12417] = {Title = "The Ancient Ent - Cooldown", IconName = "ico_ev.bmp", 
+[12417] = {Title = "Raid Four Season - Cooldown", IconName = "ico_ev.bmp", 
 Description = {"Quest ini sedang cooldown, kembali lagi dalam 3 hari."}
 , Summary = "Reset dalam 3 hari, pukul 04.00"}
 , 
-[12418] = {Title = "The Ancient Ent - Kunjungan pertama kali", 
-Description = {"Mengunjungi Instance - The Ancient Ent untuk pertama kalinya"}
+[12418] = {Title = "Raid Four Season - Kunjungan pertama kali", 
+Description = {"Mengunjungi Instance - Raid Four Season untuk pertama kalinya"}
 , Summary = "Kunjungan pertama kali"}
 , 
 [292452] = {Title = "[Four Season Royal Raid - Fall", IconName = "ico_ev.bmp", 
@@ -18684,5 +18684,299 @@ Description = {"Kalahkan semua MVP pada misi ini!!."}
 [292466] = {Title = "[STREAMERS] Cooldown Green MVP Aura Mission", IconName = "ico_dq.bmp", 
 Description = {"Quest ini sedang cooldown, datang lagi esok hari ke NPC Mr Green."}
 , Summary = "Reset Pukul 04.00 Pagi", CoolTimeQuest = 1}
+, 
+[292467] = {Title = "[Four Season Royal Raid] Boss Hunt - Spring", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan Four Beast MVP 1 kali."}
+, Summary = "Kalahkan Four Beast MVP 1 kali"}
+, 
+[292468] = {Title = "[Cooldown] [Four Season Royal Raid] Boss Hunt - Spring", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[292469] = {Title = "[Four Season Royal Raid] Monster Hunt - Spring", IconName = "ico_dq.bmp", 
+Description = {"Hunt 1 [MD] Guardian of Wind", "Hunt 20 [MD] Little Breeze", "Hunt 20 [MD] Baby Nature"}
+, Summary = "Lapor ke Isaac apabila sudah selesai"}
+, 
+[292470] = {Title = "[Cooldown] [Four Season Royal Raid] Monster Hunt - Spring", IconName = "ico_dq.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[292471] = {Title = "[STREAMERS] Raid Four Season Beast", IconName = "ico_ev.bmp", 
+Description = {"Kalahkan Four Beast MVP 1 kali."}
+, Summary = "Kalahkan Raid Four Season Beast"}
+, 
+[292472] = {Title = "[STREAMERS] Cooldown Raid Four Season Beast", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[292473] = {Title = "[STREAMERS] Kalahkan anak buah Raid Four Season Beast", IconName = "ico_ev.bmp", 
+Description = {"Hunt 1 [MD] Guardian of Wind", "Hunt 20 [MD] Little Breeze", "Hunt 20 [MD] Baby Nature"}
+, Summary = "Lapor ke Streamer Veteran di Lounge apabila sudah selesai"}
+, 
+[292474] = {Title = "[STREAMERS] Cooldown Kalahkan anak buah Four Season Beast", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang Cooldown."}
+, Summary = "Reset dalam 3 hari, pukul 04.00"}
+, 
+[12457] = {Title = "Moment of downfall", 
+Description = {"Mengikuti dinosaurus luar angkasa Oscar, Kamu harus kembali ke masa lalu dan melihat bagaimana Glast Heim, benteng terkuat, runtuh."}
+, Summary = "Moment of downfall"}
+, 
+[12458] = {Title = "Afterlife", 
+Description = {"Terlepas dari pengorbanan Raja Schmitz, penampilannya terdistorsi dan diturunkan."}
+, Summary = "Afterlife"}
+, 
+[12459] = {Title = "Rest in the king\'s thoughts", 
+Description = {"Untuk menyelamatkan nyawa yang tak terhitung jumlahnya, Schmitz melemparkan nyawanya sendiri ke dalam bola tersebut. Namun, dalam prosesnya, kekuatan bola tersebut mewujudkan pikirannya dan meninggalkan catatan aib bagi generasi mendatang. Tugasmu adalah mengistirahatkan pikirannya."}
+, Summary = "Kalahkan Schmitz\'s Thought", NpcSpr = "4_ED_SCHMIDT", RewardEXP = "650000", RewardJEXP = "480000", 
+RewardItemList = {
+{ItemID = 25739, ItemNum = 3}
+}
+}
+, 
+[12460] = {Title = "Aftereffects of Downfall", 
+Description = {"Sulit untuk menyaksikan pemandangan kemunduran dengan cara apa pun. Selama efek sampingnya masih ada, mustahil untuk memasukkan atau membuat ^ff0000Glast Heim Purification^000000."}
+, Summary = "Reset pukul 04.00"}
+, 
+[12461] = {Title = "Powerful aftereffects of death", 
+Description = {"Dampak lanjutan ini disertai dengan dampak kejatuhan. Selama sisa waktu, menu yang terkait dengan ^ff0000Glastheim Purification (Advanced)^000000 tidak akan muncul dan tidak dapat digunakan."}
+, Summary = "Reset setelah 3 hari, pukul 04.00"}
+, 
+[12462] = {Title = "Rest in the King\'s Thought (Advanced)", 
+Description = {"Untuk menyelamatkan nyawa yang tak terhitung jumlahnya, Schmitz melemparkan nyawanya sendiri ke dalam bola tersebut. Namun, dalam prosesnya, kekuatan bola tersebut mewujudkan pikirannya dan meninggalkan catatan aib bagi generasi mendatang. Tugasmu adalah mengistirahatkan pikirannya."}
+, Summary = "Kalahkan Schmitz\'s Thought (Advanced)", NpcSpr = "4_ED_SCHMIDT", RewardEXP = "2800000", RewardJEXP = "1900000", 
+RewardItemList = {
+{ItemID = 25740, ItemNum = 6}
+}
+}
+, 
+[16388] = {Title = "First Path", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Virtual Record translation untuk pertama kalinya."}
+, Summary = "First translation"}
+, 
+[16389] = {Title = "First Path - Expedition Declined", IconName = "ico_nq.bmp", 
+Description = {"Menolak untuk bergabung dengan Virtual Record translation."}
+, Summary = "Menolak untuk bergabung the translation"}
+, 
+[16390] = {Title = "Expedition Path - Pending", IconName = "ico_nq.bmp", 
+Description = {"Quest sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 4:00"}
+, 
+[16391] = {Title = "?", IconName = "ico_nq.bmp", 
+Description = {"?"}
+, Summary = "?"}
+, 
+[16392] = {Title = "Expedition Path - Reward", IconName = "ico_nq.bmp", 
+Description = {"Hadiah dari menyelesaikan misi."}
+, Summary = "Mendapatkan hadiah"}
+, 
+[16393] = {Title = "Expedition Path - Swordsman Lab", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Ekspedisi Swordsman Lab."}
+, Summary = "Ekspedisi Swordsman Lab"}
+, 
+[16394] = {Title = "Expedition Path - Acolyte Lab", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Ekspedisi Acolyte Lab."}
+, Summary = "Ekspedisi Acolyte Lab"}
+, 
+[16395] = {Title = "Expedition Path - Thief Lab", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Ekspedisi Thief Lab."}
+, Summary = "Ekspedisi Thief Lab"}
+, 
+[16396] = {Title = "Expedition Path - Mage Lab", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Ekspedisi Mage Lab."}
+, Summary = "Ekspedisi Mage Lab"}
+, 
+[16397] = {Title = "Expedition Path - Merchant Lab", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Ekspedisi Merchant Lab."}
+, Summary = "Ekspedisi Merchant Lab"}
+, 
+[16398] = {Title = "Expedition Path - Archer Lab", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Ekspedisi Archer Lab."}
+, Summary = "Ekspedisi Archer Lab"}
+, 
+[16399] = {Title = "Expedition Path", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Virtual Record translation di mode Ekspedisi."}
+, Summary = "Bergabung dalam Expedition mode", RewardEXP = "", RewardJEXP = "", 
+RewardItemList = {
+{ItemID = 25787, ItemNum = 2}
+}
+}
+, 
+[16400] = {Title = "Battle Path", IconName = "ico_nq.bmp", 
+Description = {"Bergabung dengan Virtual Record translation di mode Battle."}
+, Summary = "Bergabung dalam Battle mode", RewardEXP = "", RewardJEXP = "", 
+RewardItemList = {
+{ItemID = 25787, ItemNum = 5}
+, 
+{ItemID = 25786, ItemNum = 3}
+}
+}
+, 
+[292475] = {Title = "One-time Spirit of Dragon Quest 1", 
+Description = {"CNY Event - Hunt 10 [Event] Rice cake"}
+, Summary = "Hunt 10 [Event] Rice cake"}
+, 
+[292476] = {Title = "One-time Spirit of Dragon Quest 2", 
+Description = {"CNY Event - Hunt 20 [Event] Rice cake", "Hunt 20 [Event] Zhu Po Long"}
+, Summary = "Hunt 20 [Event] Rice cake & [Event] Zhu Po Long"}
+, 
+[292477] = {Title = "One-time Spirit of Dragon Quest 3", 
+Description = {"CNY Event - Hunt 5 [Event] Giok Monster"}
+, Summary = "Hunt 5 [Event] Giok Monster"}
+, 
+[292478] = {Title = "Daily Quest Spirit of Dragon - Cooldown", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
+, 
+[292479] = {Title = "Daily Quest Spirit of Dragon 1 - Hunting Monster", 
+Description = {"CNY Event - Hunt 20 [Event] Rice cake", "Hunt 20 [Event] Zhu Po Long"}
+, Summary = "Hunt  20 [Event] Rice cake & [Event] Zhu Po Long"}
+, 
+[292480] = {Title = "Daily Quest Spirit of Dragon 2 - Hunting Monster", 
+Description = {"CNY Event - Hunt 30 [Event] Rice cake", "Hunt 30 [Event] Zhu Po Long"}
+, Summary = "Hunt 30 [Event] Rice cake & [Event] Zhu Po Long"}
+, 
+[292481] = {Title = "Daily Quest Spirit of Dragon 3 - Hunting Monster", 
+Description = {"CNY Event - Hunt 1 [Event] Giok Monster"}
+, Summary = "Hunt 1 [Event] Giok Monster"}
+, 
+[292482] = {Title = "Daily Quest Spirit of Dragon 4 - Hunting Monster", 
+Description = {"Hunt 30 [Event] [Event] Rice cake"}
+, Summary = "Hunt 30 [Event] Rice cake"}
+, 
+[292483] = {Title = "Daily Quest Spirit of Dragon 5 - Hunting Monster", 
+Description = {"Hunt 30 [Event] Zhu Po Long"}
+, Summary = "Hunt 30 [Event] Zhu Po Long"}
+, 
+[292484] = {Title = "Daily Quest Spirit of Dragon 6 - Mengantar Barang", 
+Description = {"Antarkan 20 [Event] Rare Giiok ke Lian Mei"}
+, Summary = "Mengantar Barang ke Lian Mei"}
+, 
+[292485] = {Title = "Daily Quest Spirit of Dragon 7 - Mengantar Barang", 
+Description = {"Tolong antar 5 [Event] Rare Giok & 5 [Event] Shiny Giok ke Lian Mei"}
+, Summary = "Mengantar Barang ke Lian Mei"}
+, 
+[292486] = {Title = "Daily Quest Spirit of Dragon 6 - Selesai", 
+Description = {"Misi selesai, kembali esok untuk memulai lagi."}
+, Summary = "Mengantar barang - Misi Selesai"}
+, 
+[292487] = {Title = "Daily Quest Spirit of Dragon 7 - Selesai", 
+Description = {"Misi selesai, kembali esok untuk memulai lagi."}
+, Summary = "Mengantar barang - Misi Selesai"}
+, 
+[292488] = {Title = "Quest Special Ramdhan 1", 
+Description = {"Hunt 30 Goat", "Hunt 30 Harpy"}
+, Summary = "Kalahkan 30 Goat dan Harpy", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7998, ItemNum = 2}
+}
+}
+, 
+[292489] = {Title = "Quest Special Ramdhan 2", 
+Description = {"Hunt 30 Raydric", "Hunt 30 Khalitzburg"}
+, Summary = "Kalahkan 30 Raydric dan Khalitzburg", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7998, ItemNum = 2}
+}
+}
+, 
+[292490] = {Title = "Quest Special Ramdhan 3", 
+Description = {"Hunt 30 Combat Basilisk (Red)", "Hunt 30 Combat Basilisk (Green)"}
+, Summary = "Kalahkan 30 Combat Basilisk (Red) dan (Green)", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7998, ItemNum = 2}
+}
+}
+, 
+[292491] = {Title = "Quest Special Ramdhan 4", 
+Description = {"Hunt 1 Baphomet"}
+, Summary = "Kalahkan 1 Baphomet", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7998, ItemNum = 2}
+}
+}
+, 
+[292492] = {Title = "Quest Special Ramdhan 5", 
+Description = {"Gunakan Armor +9 dan lapor ke Abah Gus"}
+, Summary = "Gunakan Armor +9", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7998, ItemNum = 2}
+}
+}
+, 
+[292493] = {Title = "Quest Special Ramdhan 6", 
+Description = {"Gunakan Garment +9 dan lapor ke Abah Gus"}
+, Summary = "Gunakan Garment +9", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7998, ItemNum = 2}
+}
+}
+, 
+[292494] = {Title = "Quest Special Ramdhan 7", 
+Description = {"Masuk ke Map PVP, dan lapor ke Abah Gus"}
+, Summary = "Masuk ke Map PVP", NpcSpr = "4_M_GUSLIMAN"}
+, 
+[292495] = {Title = "Quest Special Ramdhan 8", 
+Description = {"Masuk ke Map WOE, dan lapor ke Abah Gus"}
+, Summary = "Masuk ke Map WOE", NpcSpr = "4_M_GUSLIMAN"}
+, 
+[292496] = {Title = "Quest Special Ramdhan 9", 
+Description = {"Quest masuk map PVP/WOE selesai"}
+, Summary = "Quest masuk map PVP/WOE selesai", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7998, ItemNum = 2}
+}
+}
+, 
+[292497] = {Title = "Quest Special Ramdhan 10", 
+Description = {"Berdonasi ke Bunda Yoona"}
+, Summary = "Donasi ke panti asuhan Bunda Yoona", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7998, ItemNum = 2}
+}
+}
+, 
+[292498] = {Title = "Extra Quest Special Ramdhan 1", 
+Description = {"Membawa Silvervine Box10 ke Abah Gus"}
+, Summary = "Silvervine Box10", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7999, ItemNum = 1}
+}
+}
+, 
+[292499] = {Title = "Extra Quest Special Ramdhan 2", 
+Description = {"Membawa Enriched Elunium Box ke Abah Gus"}
+, Summary = "Enriched Elunium Box", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7999, ItemNum = 1}
+}
+}
+, 
+[292500] = {Title = "Extra Quest Special Ramdhan 3", 
+Description = {"Membawa Enriched Oridecon Box ke Abah Gus"}
+, Summary = "Enriched Oridecon Box", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7999, ItemNum = 1}
+}
+}
+, 
+[292501] = {Title = "Extra Quest Special Ramdhan 4", 
+Description = {"Membawa Almighty Package ke Abah Gus"}
+, Summary = "Almighty Package", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7999, ItemNum = 1}
+}
+}
+, 
+[292502] = {Title = "Extra Quest Special Ramdhan 5", 
+Description = {"Membawa Sealed Crystals  ke Abah Gus"}
+, Summary = "Sealed Crystals ", NpcSpr = "4_M_GUSLIMAN", 
+RewardItemList = {
+{ItemID = 7999, ItemNum = 1}
+}
+}
+, 
+[292503] = {Title = "Cooldown Ramadhan Special Event", IconName = "ico_ev.bmp", 
+Description = {"Quest ini sedang cooldown, kembali lagi esok hari."}
+, Summary = "Reset pukul 04.00"}
 }
 

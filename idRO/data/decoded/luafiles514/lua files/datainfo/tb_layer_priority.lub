@@ -1307,6 +1307,10 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_BD] = {Default = 143, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_Alien_Sunglass_GN] = {Default = 301, 
 Direction = {}
 }
@@ -1320,6 +1324,10 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_TV_Hair_PK] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Temari_Candy_Hair] = {Default = 143, 
 Direction = {}
 }
 }

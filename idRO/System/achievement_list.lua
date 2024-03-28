@@ -2483,6 +2483,66 @@ resource = {
 , 
 reward = {title = 2043}
 , score = 50}
+, 
+[310043] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[Title Ticket] GE S9 Winner", 
+content = {summary = "[Title Ticket] GE S9 Winner", details = "Title pemenang GE Season 9 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "Salah Anov"}
+}
+, 
+reward = {title = 2044}
+, score = 50}
+, 
+[310044] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "Back to Nature"}
+}
+, 
+reward = {title = 2045}
+, score = 50}
+, 
+[310045] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "KYUUBI"}
+}
+, 
+reward = {title = 2046}
+, score = 50}
+, 
+[310046] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "SURFING"}
+}
+, 
+reward = {title = 2047}
+, score = 50}
+, 
+[310047] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[Title Ticket] GE S10 Winner", 
+content = {summary = "[Title Ticket] GE S10 Winner", details = "Title pemenang GE Season 10 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "FOREVER REQUEST"}
+}
+, 
+reward = {title = 2048}
+, score = 50}
+, 
+[310048] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "NUTCRACKER"}
+}
+, 
+reward = {title = 2049}
+, score = 50}
 }
 main = function()
   -- function num : 0_0
