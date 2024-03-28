@@ -2557,6 +2557,486 @@ resource = {
 , 
 reward = {title = 2252}
 , score = 1}
+, 
+[500256] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 1」", 
+content = {summary = "ニーヒルからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「ニーヒル」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2253}
+, score = 1}
+, 
+[500257] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 2」", 
+content = {summary = "スピーカからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「スピーカ」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2254}
+, score = 1}
+, 
+[500258] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 3」", 
+content = {summary = "スキアからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「スキア」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2255}
+, score = 1}
+, 
+[500259] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 4」", 
+content = {summary = "アグネスからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「アグネス」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2256}
+, score = 1}
+, 
+[500260] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 5」", 
+content = {summary = "ポーからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「ポー」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2257}
+, score = 1}
+, 
+[500261] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 6」", 
+content = {summary = "アイザックからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「アイザック」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2258}
+, score = 1}
+, 
+[500262] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 7」", 
+content = {summary = "キャサリンからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「キャサリン」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2259}
+, score = 1}
+, 
+[500263] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 8」", 
+content = {summary = "フリードリヒからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「フリードリヒ」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2260}
+, score = 1}
+, 
+[500264] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 9」", 
+content = {summary = "クロネカーからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「クロネカー」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2261}
+, score = 1}
+, 
+[500265] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 10」", 
+content = {summary = "レイジーからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「レイジー」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2262}
+, score = 1}
+, 
+[500266] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 11」", 
+content = {summary = "エレナからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「エレナ」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2263}
+, score = 1}
+, 
+[500267] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのおもてなし 12」", 
+content = {summary = "エストからの評価を得る", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(256,328)にいるNPC「レイジー」にて お客の「エスト」にお菓子を渡し 「★」20個分の評価を得る。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2264}
+, score = 1}
+, 
+[500268] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ロイヤル・スウィーツ　6」", 
+content = {summary = "「アグネスが夢見たローズケーキ」作成", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(288,342)にいるNPC「ショコラ=バシニオ」にて 「アグネスが夢見たローズケーキ」を 「15」個作ったら 「＜実績＞作ったお菓子の確認」を選択し 実績を解除する。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2265}
+, score = 1}
+, 
+[500269] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ロイヤル・スウィーツ　7」", 
+content = {summary = "「アイザックが仕掛けるミルククレープ」作成", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(288,342)にいるNPC「ショコラ=バシニオ」にて 「アイザックが仕掛けるミルククレープ」を 「15」個作ったら 「＜実績＞作ったお菓子の確認」を選択し 実績を解除する。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2266}
+, score = 1}
+, 
+[500270] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ロイヤル・スウィーツ　8」", 
+content = {summary = "「クロネカーお墨付き団子(老舗の味)」作成", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(288,342)にいるNPC「ショコラ=バシニオ」にて 「クロネカーお墨付き団子(老舗の味)」を 「15」個作ったら 「＜実績＞作ったお菓子の確認」を選択し 実績を解除する。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2267}
+, score = 1}
+, 
+[500271] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ロイヤル・スウィーツ　9」", 
+content = {summary = "「レイジーの心を奪った教皇クッキー」作成", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(288,342)にいるNPC「ショコラ=バシニオ」にて 「レイジーの心を奪った教皇クッキー」を 「15」個作ったら 「＜実績＞作ったお菓子の確認」を選択し 実績を解除する。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2268}
+, score = 1}
+, 
+[500272] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ロイヤル・スウィーツ　10」", 
+content = {summary = "「エレナ爆推しの芳烈ポップコーン」作成", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(288,342)にいるNPC「ショコラ=バシニオ」にて 「エレナ爆推しの芳烈ポップコーン」を 「15」個作ったら 「＜実績＞作ったお菓子の確認」を選択し 実績を解除する。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2269}
+, score = 1}
+, 
+[500273] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「ロイヤル・スウィーツ　11」", 
+content = {summary = "「エストが愛飲する炭酸ベリージュース」作成", details = "「ロイヤル・ティーパーティー(val_tea1)」の 座標(288,342)にいるNPC「ショコラ=バシニオ」にて 「エストが愛飲する炭酸ベリージュース」を 「15」個作ったら 「＜実績＞作ったお菓子の確認」を選択し 実績を解除する。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2270}
+, score = 1}
+, 
+[500274] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加1回目」", 
+content = {summary = "レイジーのサイン会に1回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2271}
+, score = 1}
+, 
+[500275] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加2回目」", 
+content = {summary = "レイジーのサイン会に2回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2272}
+, score = 1}
+, 
+[500276] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加3回目」", 
+content = {summary = "レイジーのサイン会に3回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2273}
+, score = 1}
+, 
+[500277] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加4回目」", 
+content = {summary = "レイジーのサイン会に4回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2274}
+, score = 1}
+, 
+[500278] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加5回目」", 
+content = {summary = "レイジーのサイン会に5回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2275}
+, score = 1}
+, 
+[500279] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加6回目」", 
+content = {summary = "レイジーのサイン会に6回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2276}
+, score = 1}
+, 
+[500280] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加7回目」", 
+content = {summary = "レイジーのサイン会に7回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2277}
+, score = 1}
+, 
+[500281] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加8回目」", 
+content = {summary = "レイジーのサイン会に8回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2278}
+, score = 1}
+, 
+[500282] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加9回目」", 
+content = {summary = "レイジーのサイン会に9回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2279}
+, score = 1}
+, 
+[500283] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「レイジーのサイン会参加10回目」", 
+content = {summary = "レイジーのサイン会に10回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2280}
+, score = 1}
+, 
+[500284] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加1回目」", 
+content = {summary = "エレナのサイン会に1回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2281}
+, score = 1}
+, 
+[500285] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加2回目」", 
+content = {summary = "エレナのサイン会に2回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2282}
+, score = 1}
+, 
+[500286] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加3回目」", 
+content = {summary = "エレナのサイン会に3回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2283}
+, score = 1}
+, 
+[500287] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加4回目」", 
+content = {summary = "エレナのサイン会に4回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2284}
+, score = 1}
+, 
+[500288] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加5回目」", 
+content = {summary = "エレナのサイン会に5回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2285}
+, score = 1}
+, 
+[500289] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加6回目」", 
+content = {summary = "エレナのサイン会に6回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2286}
+, score = 1}
+, 
+[500290] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加7回目」", 
+content = {summary = "エレナのサイン会に7回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2287}
+, score = 1}
+, 
+[500291] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加8回目」", 
+content = {summary = "エレナのサイン会に8回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2288}
+, score = 1}
+, 
+[500292] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加9回目」", 
+content = {summary = "エレナのサイン会に9回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2289}
+, score = 1}
+, 
+[500293] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エレナのサイン会参加10回目」", 
+content = {summary = "エレナのサイン会に10回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2290}
+, score = 1}
+, 
+[500294] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加1回目」", 
+content = {summary = "エストのサイン会に1回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2291}
+, score = 1}
+, 
+[500295] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加2回目」", 
+content = {summary = "エストのサイン会に2回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2292}
+, score = 1}
+, 
+[500296] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加3回目」", 
+content = {summary = "エストのサイン会に3回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2293}
+, score = 1}
+, 
+[500297] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加4回目」", 
+content = {summary = "エストのサイン会に4回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2294}
+, score = 1}
+, 
+[500298] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加5回目」", 
+content = {summary = "エストのサイン会に5回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2295}
+, score = 1}
+, 
+[500299] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加6回目」", 
+content = {summary = "エストのサイン会に6回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2296}
+, score = 1}
+, 
+[500300] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加7回目」", 
+content = {summary = "エストのサイン会に7回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2297}
+, score = 1}
+, 
+[500301] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加8回目」", 
+content = {summary = "エストのサイン会に8回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2298}
+, score = 1}
+, 
+[500302] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加9回目」", 
+content = {summary = "エストのサイン会に9回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2299}
+, score = 1}
+, 
+[500303] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「エストのサイン会参加10回目」", 
+content = {summary = "エストのサイン会に10回参加する", details = "サイン会チケットを手に入れたらイベント開催期間中にUrdrワールドのプロンテラの座標(148,277)にいる NPC「サイン会受付係」に話しかけて サイン会に参加する"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2300}
+, score = 1}
 }
 main = function()
   -- function num : 0_0

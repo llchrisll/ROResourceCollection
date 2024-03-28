@@ -9298,6 +9298,58 @@ MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 [10265] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_NONE}
 }
+, 
+[21996] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[21980] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[22004] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DRAGON}
+}
+, 
+[22005] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DEVIL}
+}
+, 
+[23222] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[23223] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_WATER_BELOW}
+}
+, 
+[23224] = {MonsterSize = 1.6, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[23225] = {MonsterSize = 1.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[23226] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_QSCARABA}
+}
+, 
+[23227] = {MonsterSize = 1.3, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_QSCARABA}
+}
+, 
+[23228] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_QSCARABA}
+}
+, 
+[23229] = {MonsterSize = 2.5, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_QSCARABA, EFFECT.EF_WATER_BELOW}
+}
+, 
+[23230] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_RED_WAVE2, EFFECT.EF_FLOWERSMOKE}
+}
 }
 main = function()
   -- function num : 0_0

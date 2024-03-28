@@ -1356,6 +1356,8 @@ SignBoardList = {
 , 
 {"val_tea1", 290, 352, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
 , 
+{"val_tea1", 256, 328, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ﾚｲｼﾞｰのおもてな�\181", "255,255,255"}
+, 
 {"march_01", 130, 46, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  神秘の館転送", "255,255,255"}
 , 
 {"march_01", 130, 59, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  イベントホールへ", "255,255,255"}
@@ -1581,6 +1583,8 @@ SignBoardList = {
 {"enchant01", 170, 77, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  善意の欠片", "255,255,255"}
 , 
 {"enchant01", 167, 77, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  エフェクトストーン", "255,255,255"}
+, 
+{"enchant01", 99, 95, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  小さな氷華の魔石", "255,255,255"}
 , 
 {"melon_f1", 105, 61, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  精錬・修理", "255,255,255"}
 , 
@@ -2207,175 +2211,5 @@ SignBoardList = {
 {"ac_cl_room", 49, 32, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
 , 
 {"lasagna", 314, 237, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
-, 
-{"prontera", 150, 123, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ｱﾆﾊﾞｰｻﾘｰ会場入口", "255,255,255"}
-, 
-{"prontera", 235, 200, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ｱﾆﾊﾞｰｻﾘｰ会場入口", "255,255,255"}
-, 
-{"prontera", 159, 275, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ｱﾆﾊﾞｰｻﾘｰ会場入口", "255,255,255"}
-, 
-{"prontera", 76, 208, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ｱﾆﾊﾞｰｻﾘｰ会場入口", "255,255,255"}
-, 
-{"ac_cl_area", 56, 126, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ｱﾆﾊﾞｰｻﾘｰ会場入口", "255,255,255"}
-, 
-{"lasagna", 311, 207, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ｱﾆﾊﾞｰｻﾘｰ会場入口", "255,255,255"}
-, 
-{"x_prt_evt", 89, 80, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ｺﾞｰｼﾞｬｽ夜市開催だぜ", "255,255,255"}
-, 
-{"x_prt_evt", 20, 21, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  アイテム交換", "255,255,255"}
-, 
-{"x_prt_evt", 69, 3, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
-, 
-{"x_prt_evt", 135, 69, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
-, 
-{"x_prt_evt", 69, 135, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
-, 
-{"x_prt_evt", 4, 69, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
-, 
-{"x_prt_evt", 48, 87, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  運営本部へ", "255,255,255"}
-, 
-{"x_prt_evt", 46, 80, 4, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
-, 
-{"x_prt_evt", 13, 131, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
-, 
-{"x_prt_evt", 128, 120, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
-, 
-{"x_prt_evt", 132, 31, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
-, 
-{"x_prt_evt", 38, 32, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
-, 
-{"x_prt_evt", 94, 74, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  毎日祭り体験", "255,255,255"}
-, 
-{"x_prt_evt", 70, 63, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｱﾆﾊﾞｰｻﾘｰｵｰｸｼｮﾝやで", "255,255,255"}
-, 
-{"x_prt_evt", 101, 34, 24, IT_SIGNBOARD, "signboard\\21st_sign1.bmp", "  美味い！豚丼！", "255,255,255"}
-, 
-{"x_prt_evt", 63, 5, 16, IT_SIGNBOARD, "signboard\\21st_sign1.bmp", "  食ってけ！豚丼！", "255,255,255"}
-, 
-{"x_prt_evt", 76, 110, 16, IT_SIGNBOARD, "signboard\\21st_sign2.bmp", "  気分爽快！ｺﾝﾌﾞﾁｬ！", "255,255,255"}
-, 
-{"x_prt_evt", 59, 78, 16, IT_SIGNBOARD, "signboard\\21st_sign2.bmp", "  酵素ﾊﾟﾜｰ！ｺﾝﾌﾞﾁｬ！", "255,255,255"}
-, 
-{"x_prt_evt", 79, 95, 16, IT_SIGNBOARD, "signboard\\21st_sign3.bmp", "  おいしいよ！ﾓﾝｽﾀｰﾊﾟﾝ", "255,255,255"}
-, 
-{"x_prt_evt", 65, 34, 16, IT_SIGNBOARD, "signboard\\21st_sign3.bmp", "  可愛い！ﾓﾝｽﾀｰﾊﾟﾝ", "255,255,255"}
-, 
-{"x_prt_evt", 76, 120, 16, IT_SIGNBOARD, "signboard\\21st_sign4.bmp", "  絶叫！ﾓﾝｽﾀｰﾊﾟﾝ", "255,255,255"}
-, 
-{"x_prt_evt", 113, 11, 16, IT_SIGNBOARD, "signboard\\21st_sign4.bmp", "  秘伝の味！ﾓﾝｽﾀｰﾊﾟﾝ", "255,255,255"}
-, 
-{"x_prt_evt", 58, 49, 16, IT_SIGNBOARD, "signboard\\21st_sign5.bmp", "  オレの！茹で豚頭肉！", "255,255,255"}
-, 
-{"x_prt_evt", 63, 120, 16, IT_SIGNBOARD, "signboard\\21st_sign5.bmp", "  酒の友！茹で豚頭肉", "255,255,255"}
-, 
-{"x_prt_evt", 59, 60, 16, IT_SIGNBOARD, "signboard\\21st_sign6.bmp", "  自慢の！直火焼き魚", "255,255,255"}
-, 
-{"x_prt_evt", 59, 94, 16, IT_SIGNBOARD, "signboard\\21st_sign6.bmp", "  高級炭！直火焼き魚", "255,255,255"}
-, 
-{"x_prt_evt", 118, 8, 30, IT_SIGNBOARD, "signboard\\21st_sign7.bmp", "  味の虜！珍味串", "255,255,255"}
-, 
-{"x_prt_evt", 76, 7, 16, IT_SIGNBOARD, "signboard\\21st_sign11.bmp", "  もぎたて新鮮！野菜串", "255,255,255"}
-, 
-{"x_prt_evt", 121, 48, 16, IT_SIGNBOARD, "signboard\\21st_sign8.bmp", "  天然！夜市のかき氷", "255,255,255"}
-, 
-{"x_prt_evt", 78, 59, 16, IT_SIGNBOARD, "signboard\\21st_sign9.bmp", "  究極の！ｱｲｽｸﾘｰ\209", "255,255,255"}
-, 
-{"x_prt_evt", 10, 51, 16, IT_SIGNBOARD, "signboard\\21st_sign10.bmp", "  甘～い！綿菓子", "255,255,255"}
-, 
-{"x_prt_evt", 28, 28, 16, IT_SIGNBOARD, "signboard\\21st_sign10.bmp", "  とろける！綿菓子", "255,255,255"}
-, 
-{"x_prt_evt", 82, 77, 16, IT_SIGNBOARD, "signboard\\21st_sign12.bmp", "  ﾊﾟﾘｯ！直火焼きｿｰｾｰｼﾞ", "255,255,255"}
-, 
-{"x_prt_evt", 7, 46, 16, IT_SIGNBOARD, "signboard\\21st_sign12.bmp", "  肉汁溢れる！ｿｰｾｰｼﾞ", "255,255,255"}
-, 
-{"x_prt_evt", 26, 57, 16, IT_SIGNBOARD, "signboard\\21st_sign2.bmp", "  ドリンク冷えてます", "255,255,255"}
-, 
-{"x_prt_evt", 50, 4, 16, IT_SIGNBOARD, "signboard\\21st_sign7.bmp", "  焼きたて！珍味串", "255,255,255"}
-, 
-{"x_prt_evt", 52, 4, 16, IT_SIGNBOARD, "signboard\\21st_sign11.bmp", "  産地直送！野菜串", "255,255,255"}
-, 
-{"x_prt_evt", 30, 9, 16, IT_SIGNBOARD, "signboard\\21st_sign8.bmp", "  氷あります", "255,255,255"}
-, 
-{"x_prt_evt", 32, 9, 16, IT_SIGNBOARD, "signboard\\21st_sign9.bmp", "  冷たい！ｱｲｽｸﾘｰ\209", "255,255,255"}
-, 
-{"x_prt_evt", 118, 113, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  ルーレット受付", "255,255,255"}
-, 
-{"x_prt_evt", 18, 110, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  ナンバーズ受付", "255,255,255"}
-, 
-{"x_prt_evt", 116, 25, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  おもち積みやって枡", "255,255,255"}
-, 
-{"x_prt_evt", 79, 70, 6, IT_SIGNBOARD, "signboard\\21st_sign13.bmp", "  メモリアルレポート", "255,255,255"}
-, 
-{"x_prt_evt", 54, 88, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  実績確認", "255,255,255"}
-, 
-{"x_prt_in", 35, 17, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  ラザーニャへ", "255,255,255"}
-, 
-{"x_prt_in", 31, 45, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  夜市へ", "255,255,255"}
-, 
-{"x_prt_in", 39, 34, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  夜市のお手伝い", "255,255,255"}
-, 
-{"x_prt_in", 39, 28, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  チケット交換所", "255,255,255"}
-, 
-{"x_prt_in", 25, 21, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  髪型変更やで！", "255,255,255"}
-, 
-{"x_prt_in", 28, 17, 6, IT_SIGNBOARD, "signboard\\over_style.bmp", "  ドラムさん用です", "255,255,255"}
-, 
-{"x_prt_in", 23, 39, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  神秘の館転送", "255,255,255"}
-, 
-{"x_prt_in", 20, 38, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  イベントホールへ", "255,255,255"}
-, 
-{"x_prt_in", 41, 31, 4, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  カプラサービス", "255,255,255"}
-, 
-{"ev_library", 54, 46, 6, IT_SIGNBOARD, "signboard\\21st_sign13.bmp", "  メモリアルレポート", "255,255,255"}
-, 
-{"ev_library", 13, 46, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  夜市へ", "255,255,255"}
-, 
-{"ev_library", 53, 54, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
-, 
-{"x_prt_evt", 15, 16, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  自動両替機", "255,255,255"}
-, 
-{"ev_auction", 97, 5, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  夜市へ", "255,255,255"}
-, 
-{"ev_auction", 102, 58, 6, IT_SIGNBOARD, "signboard\\over_money.bmp", "  商品受け取り所", "255,255,255"}
-, 
-{"ev_auction", 93, 58, 6, IT_SIGNBOARD, "signboard\\over_store.bmp", "  チケット交換所", "255,255,255"}
-, 
-{"ev_auction", 107, 73, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ﾒｲﾝｵｰｸｼｮﾝ入札窓口", "255,255,255"}
-, 
-{"ev_auction", 119, 57, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ﾒｲﾝｵｰｸｼｮﾝ入札窓口", "255,255,255"}
-, 
-{"ev_auction", 108, 41, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ﾒｲﾝｵｰｸｼｮﾝ入札窓口", "255,255,255"}
-, 
-{"ev_auction", 89, 41, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ﾒｲﾝｵｰｸｼｮﾝ入札窓口", "255,255,255"}
-, 
-{"ev_auction", 76, 57, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ﾒｲﾝｵｰｸｼｮﾝ入札窓口", "255,255,255"}
-, 
-{"ev_auction", 89, 73, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ﾒｲﾝｵｰｸｼｮﾝ入札窓口", "255,255,255"}
-, 
-{"ev_auction", 66, 30, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｻﾌﾞAｵｰｸｼｮﾝ入札板", "255,255,255"}
-, 
-{"ev_auction", 81, 32, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｻﾌﾞBｵｰｸｼｮﾝ入札板", "255,255,255"}
-, 
-{"ev_auction", 90, 30, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｻﾌﾞCｵｰｸｼｮﾝ入札板", "255,255,255"}
-, 
-{"ev_auction", 103, 30, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｻﾌﾞDｵｰｸｼｮﾝ入札板", "255,255,255"}
-, 
-{"ev_auction", 115, 30, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｻﾌﾞEｵｰｸｼｮﾝ入札板", "255,255,255"}
-, 
-{"ev_auction", 128, 33, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ｻﾌﾞFｵｰｸｼｮﾝ入札板", "255,255,255"}
-, 
-{"ev_auction_", 9, 171, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  オークション会場へ", "255,255,255"}
-, 
-{"x_prt_in", 22, 27, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  ラッピングサービス", "255,255,255"}
-, 
-{"x_prt_in", 37, 39, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  記名しま～す♪", "255,255,255"}
-, 
-{"x_prt_in", 25, 34, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  ルイーゼの洋服箱", "255,255,255"}
-, 
-{"x_prt_in", 26, 31, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  瑞々しいバラの精錬", "255,255,255"}
-, 
-{"x_prt_in", 25, 28, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ｾﾘｰﾇのﾘﾎﾞﾝ衣装化", "255,255,255"}
-, 
-{"prontera", 101, 66, 15, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  Lv220達成して応募！", "255,255,255"}
 }
 

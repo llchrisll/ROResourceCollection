@@ -132,10 +132,6 @@ signName = {subTitle = "脈動するマグマ", mainTitle = "ルビルビ火山"}
 signName = {subTitle = "何が出るかな？", mainTitle = "ルビーアイランド中心部"}
 , backgroundBmp = "dungeon"}
 , 
-["march_01.rsw"] = {displayName = "桃の節句", notifyEnter = true, 
-signName = {subTitle = "第三壇", mainTitle = "教皇と神官たちのデイドリーム"}
-, backgroundBmp = "village"}
-, 
 ["1@march2.rsw"] = {displayName = "ひな壇", notifyEnter = true, 
 signName = {mainTitle = "ひな壇"}
 , backgroundBmp = "field_s2"}
@@ -1263,6 +1259,18 @@ signName = {mainTitle = "～　メモリアルレポート　～"}
 ["clock_01.rsw"] = {displayName = "アルデバラン時計塔地下 未知の空間", notifyEnter = true, 
 signName = {subTitle = "", mainTitle = "アルデバラン時計塔地下 未知の空間"}
 , backgroundBmp = "dungeon_s2"}
+, 
+["gate_in.rsw"] = {displayName = "餅つき会場", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "餅つき会場"}
+, backgroundBmp = "village_s2"}
+, 
+["jp_ev_map08.rsw"] = {displayName = "餅つき会場　おかわり", notifyEnter = true, 
+signName = {subTitle = "", mainTitle = "餅つき会場 おかわり"}
+, backgroundBmp = "village_s2"}
+, 
+["march_01.rsw"] = {displayName = "桃の節句", notifyEnter = true, 
+signName = {subTitle = "第四壇", mainTitle = "教皇と神官たちのデイドリーム"}
+, backgroundBmp = "village"}
 }
 main = function()
   -- function num : 0_0

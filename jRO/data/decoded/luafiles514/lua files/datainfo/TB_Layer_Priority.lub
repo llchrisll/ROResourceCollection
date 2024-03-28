@@ -1190,36 +1190,64 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Flying_Tilby] = {Default = 450, 
-Direction = {}
+Direction = {[3] = 403, [4] = 403, [5] = 403}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Adventurer_Pope_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Adventurer_Pope_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Agnes_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Agnes_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Debris_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Debris_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_ElenaVolkova_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_ElenaVolkova_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Elumina_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Elumina_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Berner_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Berner_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_King_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_King_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Spica_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Spica_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Angeling_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Angeling_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Seyren_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Seyren_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Gulaling_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Gulaling_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Marlbron_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Marlbron_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Lehar_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Lehar_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Evil_Mini] = {Default = 450, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Evil_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Ocean_Color_Long] = {Default = 150, 
 Direction = {}
@@ -1281,7 +1309,7 @@ Direction = {}
 Direction = {}
 }
 , 
-[ACCESSORY_IDs.ACCESSORY_EvilEye_of_FalseGods] = {Default = 480, isHelmRobe = true, 
+[ACCESSORY_IDs.ACCESSORY_EvilEye_of_FalseGods] = {Default = 451, isHelmRobe = true, 
 Direction = {[3] = 401, [4] = 401, [5] = 401}
 }
 , 
@@ -1410,6 +1438,46 @@ Direction = {[0] = 410, [1] = 410, [2] = 410, [6] = 410, [7] = 410}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_A_Dragon] = {Default = 100, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wichienmaat_Bangkaew] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tuktuk] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Gods_Rabbit_Pet] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Serving_Rabbit] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_White_Rabbit_Hair] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Sonic_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Super_Sonic_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Tails_Mini] = {Default = 450, isIgnoreRiding = true, 
+Direction = {[3] = 403, [4] = 403, [5] = 403}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_FACEBOX2] = {Default = 80, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Neon_Half_Long] = {Default = 150, 
 Direction = {}
 }
 }
