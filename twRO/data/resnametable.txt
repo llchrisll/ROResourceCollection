@@ -3858,3 +3858,49 @@ sp_rud4_B.rsw#sp_rud4_B.rsw#
 1@exsh.gat#1@exsh.gat#
 1@exsh.rsw#1@exsh.rsw#
 유저인터페이스\map\1@exsh.bmp#유저인터페이스\map\1@exsh.bmp#
+
+// 환상총서 1차 - 금수저 영애님
+1@vrcas.gnd#1@vrcas.gnd#
+1@vrcas.gat#1@vrcas.gat#
+1@vrcas.rsw#1@vrcas.rsw#
+유저인터페이스\map\1@vrcas.bmp#유저인터페이스\map\1@vrcas.bmp#
+// 환상총서 1차 - 엘레나 볼코바, 그 위대한 불꽃
+1@vrev.gnd#1@vrev.gnd#
+1@vrev.gat#1@vrev.gat#
+1@vrev.rsw#1@vrev.rsw#
+유저인터페이스\map\1@vrev.bmp#유저인터페이스\map\1@vrev.bmp#
+// 환상총서 1차 - 식물 실무
+1@vrgen.gnd#1@vrgen.gnd#
+1@vrgen.gat#1@vrgen.gat#
+1@vrgen.rsw#1@vrgen.rsw#
+유저인터페이스\map\1@vrgen.bmp#유저인터페이스\map\1@vrgen.bmp#
+
+// 환상총서 2차 - 엔젤링 키우기 ~꿈꾸는 포링~
+1@vrpo.gnd#1@vrpo.gnd#
+1@vrpo.gat#1@vrpo.gat#
+1@vrpo.rsw#1@vrpo.rsw#
+유저인터페이스\map\1@vrpo.bmp#유저인터페이스\map\1@vrpo.bmp#
+
+// 환상총서 3차 - 거울 수도원
+1@vrclo.gnd#1@vrclo.gnd#
+1@vrclo.gat#1@vrclo.gat#
+1@vrclo.rsw#1@vrclo.rsw#
+유저인터페이스\map\1@vrclo.bmp#유저인터페이스\map\1@vrclo.bmp#
+2@vrclo.gnd#2@vrclo.gnd#
+2@vrclo.gat#2@vrclo.gat#
+2@vrclo.rsw#2@vrclo.rsw#
+유저인터페이스\map\2@vrclo.bmp#유저인터페이스\map\2@vrclo.bmp#
+// 환상총서 3차 - 나 혼자 순혈인간&순혈인간-금서판
+1@vrhha.gnd#1@vrhha.gnd#
+1@vrhha.gat#1@vrhha.gat#
+1@vrhha.rsw#1@vrhha.rsw#
+유저인터페이스\map\1@vrhha.bmp#유저인터페이스\map\1@vrhha.bmp#
+// 환상총서 3차 - 크리투라 업무편람
+1@vrac1.gnd#1@vrac1.gnd#
+1@vrac1.gat#1@vrac1.gat#
+1@vrac1.rsw#1@vrac1.rsw#
+유저인터페이스\map\1@vrac1.bmp#유저인터페이스\map\1@vrac1.bmp#
+1@vrac2.gnd#1@vrac2.gnd#
+1@vrac2.gat#1@vrac2.gat#
+1@vrac2.rsw#1@vrac2.rsw#
+유저인터페이스\map\1@vrac2.bmp#유저인터페이스\map\1@vrac2.bmp#

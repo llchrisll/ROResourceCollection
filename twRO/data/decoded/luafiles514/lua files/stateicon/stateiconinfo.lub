@@ -8750,4 +8750,204 @@ descript = {
 {"惡夢標記"}
 }
 }
+-- DECOMPILER ERROR at PC18111: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK001] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"角色Buff", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"INT + 5"}
+, 
+{"FLEE + 30"}
+, 
+{"賦予移動速度增加Buff"}
+}
+}
+-- DECOMPILER ERROR at PC18141: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK002] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"角色Buff", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MHP + 10%"}
+, 
+{"MSP + 5%"}
+, 
+{"黃色藥草恢復力+500%"}
+}
+}
+-- DECOMPILER ERROR at PC18165: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK003] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"角色Buff", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"遠距離物理傷害+10%"}
+}
+}
+-- DECOMPILER ERROR at PC18189: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK004] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"角色Buff", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"詠唱不會中斷"}
+}
+}
+-- DECOMPILER ERROR at PC18219: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK006] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"主角BUFF", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"所有基本屬性+ 5"}
+, 
+{"ATK + 2%"}
+, 
+{"MATK + 2%"}
+}
+}
+-- DECOMPILER ERROR at PC18255: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK007] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"主角BUFF ", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"暗屬性魔法傷害+10%"}
+, 
+{"聖屬性魔法傷害+10%"}
+, 
+{"水屬性魔法傷害+10%"}
+, 
+{"地屬性魔法傷害+10%"}
+, 
+{"火屬性魔法傷害+10%"}
+}
+}
+-- DECOMPILER ERROR at PC18282: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK005] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"主角BUFF", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ASPD+ 3"}
+, 
+{"誘導攻擊機率+10%。"}
+}
+}
+-- DECOMPILER ERROR at PC18309: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK008] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"主角BUFF", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"對人類型的物理、魔法傷害+7% "}
+, 
+{"遭受人類型的傷害-7%"}
+}
+}
+-- DECOMPILER ERROR at PC18333: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_BOOK009] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"主角BUFF", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"DEF +400, MDEF +100"}
+}
+}
+-- DECOMPILER ERROR at PC18357: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_SPEED] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"移動速度增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"移動速度增加"}
+}
+}
+-- DECOMPILER ERROR at PC18381: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_ASPD] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"攻擊速度增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"攻擊速度增加"}
+}
+}
+-- DECOMPILER ERROR at PC18405: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_MHP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"MHP增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MHP增加"}
+}
+}
+-- DECOMPILER ERROR at PC18429: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_MSP] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"MSP增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MSP增加"}
+}
+}
+-- DECOMPILER ERROR at PC18453: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_HIT] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"HIT增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"HIT增加"}
+}
+}
+-- DECOMPILER ERROR at PC18477: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_DEF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"DEF增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"DEF增加"}
+}
+}
+-- DECOMPILER ERROR at PC18501: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_VR_MDEF] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"MDEF增加", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MDEF增加"}
+}
+}
 

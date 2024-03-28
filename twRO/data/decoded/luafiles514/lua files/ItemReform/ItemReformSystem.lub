@@ -3543,17 +3543,95 @@ Material = {C_Flowerpot_Mask = 1, Pot_Stone = 200, Armor_Stone_3 = 100, Ymir_Hea
 , ResultItem = "Fake_Alloy_Pot_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
 InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
 }
+, 
+[10064] = {BaseItem = "TwinCannon_TW", 
+Material = {Armor_Stone_3 = 100, ClockTower_Lead = 300, ClockTower_Gear = 50, Robot_Heart_TW = 1}
+, ResultItem = "TwinCannon_LT_TW", NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF00000^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10065] = {BaseItem = "S_G_Manteau_TW", 
+Material = {Ice_Cream = 20, SunShine_Sand = 30, Armor_Stone_2 = 150, Special_Jawai = 1}
+, ResultItem = "S_G_Manteau_LT_TW", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10066] = {BaseItem = "Pure_Heart_TW", 
+Material = {Acc_Stone_3 = 100, Ice_Heart = 300, Burning_Heart = 300, Twisted_Love_TW = 1}
+, ResultItem = "Pure_Heart_LT_TW", NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF00000^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10067] = {BaseItem = "Violent_D_S_Armor", 
+Material = {Armor_Stone_1 = 450, Zelunium = 1000, Scale_Of_Red_Dragon = 150, Dark_Red_Scale = 150, Ymir_Heart_TW = 1}
+, ResultItem = "Violent_D_S_Armor_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[10068] = {BaseItem = "Violent_D_S_Armor", 
+Material = {Armor_Stone_2 = 600, Zelunium = 1000, Scale_Of_Red_Dragon = 150, Dark_Red_Scale = 150, Ymir_Heart_TW = 1}
+, ResultItem = "Violent_D_S_Armor_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10069] = {BaseItem = "Abbys_L_H_Armor", 
+Material = {Armor_Stone_1 = 450, Zelunium = 1000, Scale_Of_Red_Dragon = 150, Dark_Red_Scale = 150, Ymir_Heart_TW = 1}
+, ResultItem = "Abbys_L_H_Armor_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>組合成果資訊說明</B>", "1) 精練值 : ^FF0000-5^000000", "2) 隨機能力資訊 : 保留", "3) 卡片及附魔資訊 : 保留"}
+}
+, 
+[10070] = {BaseItem = "Abbys_L_H_Armor", 
+Material = {Armor_Stone_2 = 600, Zelunium = 1000, Scale_Of_Red_Dragon = 150, Dark_Red_Scale = 150, Ymir_Heart_TW = 1}
+, ResultItem = "Abbys_L_H_Armor_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10071] = {BaseItem = "EC_Boots_TW", 
+Material = {Armor_Stone_1 = 300, Zelunium = 800, Bluish_Green_Jewel = 300, Dragonball_Green = 100, Ymir_Heart_P_TW = 2}
+, ResultItem = "EC_Boots__LT_TW", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10072] = {BaseItem = "EC_Boots_TW", 
+Material = {Armor_Stone_2 = 450, Zelunium = 800, Bluish_Green_Jewel = 300, Dragonball_Green = 100, Ymir_Heart_P_TW = 2}
+, ResultItem = "EC_Boots__LT_TW", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10073] = {BaseItem = "Emerald_Ring", 
+Material = {Acc_Stone_3 = 200, Zelunium = 600, Bluish_Green_Jewel = 200, Dragonball_Green = 50, Ymir_Heart_P_TW = 1}
+, ResultItem = "Emerald_Ring_LT", NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF00000^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10074] = {BaseItem = "Emerald_Earring_TW", 
+Material = {Acc_Stone_3 = 200, Zelunium = 600, Bluish_Green_Jewel = 200, Dragonball_Green = 50, Ymir_Heart_P_TW = 1}
+, ResultItem = "Emerald_Earring_LT_TW", NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 0, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF00000^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10075] = {BaseItem = "Ultio_Cape_TW", 
+Material = {Armor_Stone_1 = 150, Zelunium = 1000, Valhalla_Flower = 200, Fate_Fragment = 300, Ymir_Heart_P_TW = 3}
+, ResultItem = "Ultio_Cape_LT_TW", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10076] = {BaseItem = "Ultio_Cape_TW", 
+Material = {Armor_Stone_2 = 150, Zelunium = 1000, Valhalla_Flower = 200, Fate_Fragment = 300, Ymir_Heart_P_TW = 3}
+, ResultItem = "Ultio_Cape_LT_TW", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
 }
 ReformItemList = {
 Thanos_W_Reform_1 = {12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24}
 , 
 Thanos_W_Reform_2 = {25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37}
 , 
-C_Armor_Reform_1 = {103, 105, 107, 109, 173, 174, 175, 176, 177, 178, 285, 630, 631, 632, 633, 634, 635, 636, 10001, 10003, 10005, 10007, 10009, 10011, 10013, 10015, 10017, 10019, 10021, 10023, 10025, 10027, 10029, 10031, 10033, 10035, 499, 500, 10048, 10050, 10052, 10054, 10056, 10061}
+C_Armor_Reform_1 = {103, 105, 107, 109, 173, 174, 175, 176, 177, 178, 285, 630, 631, 632, 633, 634, 635, 636, 10001, 10003, 10005, 10007, 10009, 10011, 10013, 10015, 10017, 10019, 10021, 10023, 10025, 10027, 10029, 10031, 10033, 10035, 499, 500, 10048, 10050, 10052, 10054, 10056, 10061, 10067, 10069, 10071, 10075}
 , 
-C_Armor_Reform_2 = {104, 106, 108, 110, 179, 180, 181, 182, 183, 184, 286, 637, 638, 639, 640, 641, 642, 643, 10002, 10004, 10006, 10008, 10010, 10012, 10014, 10016, 10018, 10020, 10022, 10024, 10026, 10028, 10030, 10032, 10034, 10036, 501, 502, 10049, 10051, 10053, 10055, 10057, 10062}
+C_Armor_Reform_2 = {104, 106, 108, 110, 179, 180, 181, 182, 183, 184, 286, 637, 638, 639, 640, 641, 642, 643, 10002, 10004, 10006, 10008, 10010, 10012, 10014, 10016, 10018, 10020, 10022, 10024, 10026, 10028, 10030, 10032, 10034, 10036, 501, 502, 10049, 10051, 10053, 10055, 10057, 10062, 10065, 10068, 10070, 10072, 10076}
 , 
-C_Armor_Reform_3 = {185, 10037, 10038, 10045, 10046, 10047, 10058, 10059, 10060, 10063}
+C_Armor_Reform_3 = {185, 10037, 10038, 10045, 10046, 10047, 10058, 10059, 10060, 10063, 10064, 10066, 10073, 10074}
 , 
 C_Weapon_Reform_1 = {113, 114, 115, 116, 111, 112, 186, 187, 188, 189, 190, 191, 257, 258, 259, 260, 270, 271, 272, 273, 274, 298, 299, 300, 301, 459, 462, 463, 455, 456, 457, 461, 458, 460, 454, 708, 709}
 , 

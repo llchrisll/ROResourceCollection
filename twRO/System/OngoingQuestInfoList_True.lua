@@ -26216,11 +26216,11 @@ Description = {"今天順利地轉達了革命旗幟。"}
 , Summary = "4:00AM以後可執行任務", NpcSpr = "4_F_LAPERM", NpcNavi = "hugel", NpcPosX = 76, NpcPosY = 100}
 , 
 [3407] = {Title = "失蹤者的釣竿", 
-Description = {"把希魯德的釣竿交給 <NAVI>[海洋學者傑瑞孟]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>。"}
+Description = {"把希魯德的釣竿交給 <NAVI>[海洋學者傑瑞孟]<INFO>prt_elib,57,18,0,101,0</INFO></NAVI>。"}
 , Summary = "與傑瑞孟對話"}
 , 
 [3408] = {Title = "收集深淵精華", 
-Description = {"把加恩給的深淵精華交給<NAVI>[海洋學者傑瑞孟]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>。"}
+Description = {"把加恩給的深淵精華交給<NAVI>[海洋學者傑瑞孟]<INFO>prt_elib,57,18,0,101,0</INFO></NAVI>。"}
 , Summary = "轉交深淵精華"}
 , 
 [3409] = {Title = "連接深海的漩渦", 
@@ -26934,10 +26934,6 @@ Description = {"擊殺^4d4dff小胖蜜糖波利^000000後，收集^4d4dff熟成可可豆^000000 1
 [19066] = {Title = "調查官晁白溪的隱情", IconName = "ico_ev.bmp", 
 Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
 , Summary = ""}
-, 
-[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[11月的晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>"}
-, Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV50以上的魚貝型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
@@ -30235,10 +30231,6 @@ Description = {"找到了躲起來的寵物後，和寵物一起去找<NAVI>[賽勒]<INFO>yuno,150,1
 Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
 , Summary = ""}
 , 
-[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[11月的晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>"}
-, Summary = "凌晨四點重置", CoolTimeQuest = 1}
-, 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV50以上的魚貝型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
 , Summary = ""}
@@ -30998,10 +30990,6 @@ Description = {"今年的湯麵節又吸引了許多觀眾前來參與，與其他<NAVI>[觀眾]<INFO>la
 [19066] = {Title = "調查官晁白溪的隱情", IconName = "ico_ev.bmp", 
 Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
 , Summary = ""}
-, 
-[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[11月的晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>"}
-, Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV50以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
@@ -31951,10 +31939,6 @@ Description = {"與卑金屬收集家對話"}
 Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
 , Summary = ""}
 , 
-[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[11月的晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>"}
-, Summary = "凌晨四點重置", CoolTimeQuest = 1}
-, 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV50以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
 , Summary = ""}
@@ -32246,5 +32230,725 @@ Description = {"擊殺Lv220以上的魔物250隻"}
 [293419] = {Title = "P助的謝禮-等待", IconName = "ico_ev.bmp", 
 Description = {"該任務為每日任務，冷卻時間後才可再次接取每日任務。"}
 , Summary = "凌晨4點重置", CoolTimeQuest = 1}
+, 
+[17738] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"跟隨嫌疑人在艾爾帕蘭留下的<NAVI>[蹤跡]<INFO>aldebaran,143,177,0,101,0</INFO></NAVI>。"}
+, Summary = "找尋蹤跡"}
+, 
+[17739] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"跟隨嫌疑人在艾爾帕蘭留下的<NAVI>[蹤跡]<INFO>aldebaran,137,238,0,101,0</INFO></NAVI>。"}
+, Summary = "找尋蹤跡"}
+, 
+[17740] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"追查嫌疑人的<NAVI>[蹤跡]<INFO>yuno_fild01,222,48,0,101,0</INFO></NAVI>，一直到國界檢查站。"}
+, Summary = "尋找蹤跡"}
+, 
+[17741] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"在國界檢查站附近，跟隨嫌疑人留下的<NAVI>[蹤跡]<INFO>yuno_fild01,260,89,0,101,0</INFO></NAVI>。"}
+, Summary = "尋找蹤跡"}
+, 
+[17742] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"在國界檢查站附近，嫌疑人留下的<NAVI>[蹤跡]<INFO>yuno_fild01,250,140,0,101,0</INFO></NAVI>變得更加清晰，看來就在附近？！"}
+, Summary = "找尋蹤跡"}
+, 
+[17743] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"帶著迷路的小狗回到艾爾帕蘭的<NAVI>[會場]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "前往會場"}
+, 
+[17744] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"需要5個晶瑩白雪來製作小狗雪人，前往<NAVI>[薑餅城]<INFO>xmas_fild01,128,123,0,101,0</INFO></NAVI>。"}
+, Summary = "晶瑩白雪"}
+, 
+[17745] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"已獲得1個晶瑩白雪，前往下一個<NAVI>[地點]<INFO>xmas_fild01,141,166,0,101,0</INFO></NAVI>。"}
+, Summary = "晶瑩白雪"}
+, 
+[17746] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"晶瑩白雪已足夠，前往另一個<NAVI>[地方]<INFO>xmas_fild01,169,214,0,101,0</INFO></NAVI>看看。"}
+, Summary = "晶瑩白雪"}
+, 
+[17747] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"努力堆雪人總算有了回報，尋找其他 <NAVI>[晶瑩白雪]<INFO>xmas_fild01,59,219,0,101,0</INFO></NAVI>。"}
+, Summary = "晶瑩白雪"}
+, 
+[17748] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"現在只剩最後一個了！尋找有<NAVI>[晶瑩白雪]<INFO>xmas_fild01,119,52,0,101,0</INFO></NAVI>的地方。"}
+, Summary = "晶瑩白雪"}
+, 
+[17749] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"已獲得所有晶瑩白雪，帶著1個肉回去找<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "肉 1"}
+, 
+[17750] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"已獲得所有晶瑩白雪，帶著1個肉回去找<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "肉 1"}
+, 
+[17751] = {Title = "等待: 冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"等凌晨過後再來幫助<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他三個<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[12月的晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[293426] = {Title = "GUNGUN的試煉", IconName = "ico_ev.bmp", 
+Description = {"GUNGUN的試煉，要擊殺1000隻Lv100以上的怪物，完成後，將能獲得可觀的經驗值，單獨完成難度較高，建議組隊挑戰。"}
+, Summary = "擊殺Lv100以上怪物1000隻"}
+, 
+[293427] = {Title = "GUNGUN的試煉 – 等待", IconName = "ico_ev.bmp", 
+Description = {"此為每日任務，冷卻時間過後可再承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[8806] = {Title = "種植一株植物", 
+Description = {"如何在短短的六秒鐘裡完成呢，完成幻想叢書植物實務一次後打勾。"}
+, Summary = ""}
+, 
+[8807] = {Title = "幻想叢書: 植物實務-等待", IconName = "ico_vr.bmp", 
+Description = {"該任務為每日任務，冷卻時間過後可再次閱讀<NAVI>[本書]<INFO>prt_elib,59,53,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8808] = {Title = "製作肥料所需", IconName = "ico_vr.bmp", 
+Description = {"德布梨絲說製作步驟太繁雜，有一本書籍整理了摘要說明，去讀那本書。"}
+, Summary = "閱讀初學者肥料製作"}
+, 
+[8809] = {Title = "製作肥料(1)", IconName = "ico_vr.bmp", 
+Description = {"依照德布梨絲的指示，在備用的實驗台上按照材料製作肥料。"}
+, Summary = "在實驗台上製作"}
+, 
+[8810] = {Title = "製作肥料(2)", IconName = "ico_vr.bmp", 
+Description = {"向德布梨絲展示燒杯，看到平常的東西被用在不同的地方，覺得非常神奇。"}
+, Summary = "跟德布梨絲對話"}
+, 
+[8811] = {Title = "施肥", IconName = "ico_vr.bmp", 
+Description = {"將肥料混合到德布梨絲研究室中間的培養土中，摸著泥土的感覺比想像中的好。"}
+, Summary = "在培養土上施肥"}
+, 
+[8812] = {Title = "幼苗長大了", IconName = "ico_vr.bmp", 
+Description = {"剛種下的種子迅速長成幼苗！要精心照料它長大，需要在實驗台上製作營養劑。"}
+, Summary = "在實驗台上製作"}
+, 
+[8813] = {Title = "灑營養劑", IconName = "ico_vr.bmp", 
+Description = {"在發芽的草或蘑菇上灑營養劑，為了製作營養劑，需要收割實驗室內的草。"}
+, Summary = "在培養土上灑營養劑"}
+, 
+[8814] = {Title = "培育成功！", IconName = "ico_vr.bmp", 
+Description = {"成功種植了一株健康的植物！讓德布梨絲評估一下。"}
+, Summary = "跟德布梨絲對話"}
+, 
+[8815] = {Title = "印克的禮物", IconName = "ico_vr.bmp", 
+Description = {"向印克領取獎勵，可直接獲取經驗值，或著兌換<ITEM>[藥水]<INFO>101404</INFO></ITEM>，但會有點小損失喔。"}
+, Summary = "跟印克對話"}
+, 
+[8816] = {Title = "世界上最簡單的煉金術", IconName = "ico_vr.bmp", 
+Description = {"如果煉金術這麼簡單，那是不是任何人都可以成為煉金術師呢？但時至今天，熟練的煉金術師卻得包辦所有事情，再說...這本書看起來似乎真的很容易...真的很簡單吧？"}
+, Summary = "閱讀世界上最簡單的煉金術"}
+, 
+[8817] = {Title = "選擇草藥", IconName = "ico_vr.bmp", 
+Description = {"無論如何，都必須選擇一株草藥，書上寫得非常詳細，參考一下關於草藥的部分。"}
+, Summary = "按照書中內容選擇草藥"}
+, 
+[16664] = {Title = "埃琳娜 博克巴，偉大的火焰 - 初讀", IconName = "ico_vr.bmp", 
+Description = {"在<NAVI>[幻想叢書]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI>中，開始閱讀『埃琳娜 博克巴，偉大的火焰』，閱讀完畢後，去見目錄妖精印克。"}
+, Summary = "完成幻想叢書初讀"}
+, 
+[16665] = {Title = "埃琳娜 博克巴，偉大的火焰 - 等待", IconName = "ico_vr.bmp", 
+Description = {"每天只能閱讀一次<NAVI>[幻想叢書]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI>的『埃琳娜 博克巴，偉大的火焰』，想再讀一次的話，待重置時間過後再來。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[16666] = {Title = "埃琳娜 博克巴，偉大的火焰", IconName = "ico_vr.bmp", 
+Description = {"已經開始閱讀<NAVI>[幻想叢書]<INFO>prt_elib,54,53,0,101,0</INFO></NAVI>的『埃琳娜 博克巴，偉大的火焰』閱讀完畢後，去見目錄妖精印克。"}
+, Summary = "完成幻想叢書圖書"}
+, 
+[17663] = {Title = "富二代千金想安靜過生活", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-001]<INFO>prt_elib,54,61,0,101,0</INFO></NAVI>\'富二代千金想安靜過生活\'體驗中!"}
+, Summary = "VR體驗"}
+, 
+[17664] = {Title = "富二代千金想安靜過生活", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-001]<INFO>prt_elib,54,61,0,101,0</INFO></NAVI>\'富二代千金想安靜過生活\'體驗中!"}
+, Summary = "VR體驗"}
+, 
+[17665] = {Title = "富二代千金想安靜過生活 - 等待", IconName = "ico_vr.bmp", 
+Description = {"凌晨四點過後，可再次體驗<NAVI>[幻想叢書-001]<INFO>prt_elib,51,61,0,101,0</INFO></NAVI>\'富二代千金想安靜過生活\'。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[18145] = {Title = "某個科學家的逃生記錄-體驗中", IconName = "ico_vr.bmp", 
+Description = {"體驗幻想叢書\"某個科學家的逃生記錄\"中，請啟動已租借的書籍獲得導覽。（啟動方法：雙擊）"}
+, Summary = ""}
+, 
+[18146] = {Title = "某個科學家的逃生記錄-1", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[章節1-1]<INFO>hu_fild02,270,273,0,101,0</INFO></NAVI>關鍵時刻，研究室發生爆炸，阿伊建 維爾納趁亂逃出，由於叛亂者們設置的移動阻斷效果，他感到有些困惑，但道具啟動時，阿伊建 維爾納成功逃脫了。"}
+, Summary = "閱讀章節1-1"}
+, 
+[18147] = {Title = "某個科學家的逃生記錄-2", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[章節1-1]<INFO>hu_fild02,270,273,0,101,0</INFO></NAVI>\"確保安全後再行動\" 阿伊建 維爾納漫不經心地對著櫻櫻美蝶子說，櫻櫻美蝶子忙於處理附近的諾博斯時，阿伊建 維爾納會躲在樹附近的安全地方。"}
+, Summary = "確保安全"}
+, 
+[18148] = {Title = "某個科學家的逃生記錄-3", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[章節1-2]<INFO>hu_fild04,307,379,0,101,0</INFO></NAVI>利用櫻櫻美蝶子擊敗附近的諾博斯後，阿伊建 維爾納開始沿著指定的路徑行進，阿伊建的腦海中只想著趕快抵達毀葛，好好的休息一番。"}
+, Summary = "閱讀章節1-2"}
+, 
+[18149] = {Title = "某個科學家的逃生記錄-4", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[章節1-2]<INFO>hu_fild04,307,379,0,101,0</INFO></NAVI>\"如果你能幫我找到精靈草，我就告訴你一條安全的捷徑！\"一個調皮的小鬼提出這個交易，阿伊建 維爾納迅速命令櫻櫻美蝶子，\"櫻櫻美蝶子，找到與描述相符的植物。\""}
+, Summary = "尋找精靈草"}
+, 
+[18150] = {Title = "某個科學家的逃生記錄-5", IconName = "ico_vr.bmp", 
+Description = {"毀葛酒館<NAVI>[章節1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI>阿伊建 維爾納想要一頓溫飽，\"休息之後，要搭飛空艇去艾音布羅克。\""}
+, Summary = "閱讀章節1-3"}
+, 
+[18151] = {Title = "某個科學家的逃生記錄-6", IconName = "ico_vr.bmp", 
+Description = {"毀葛酒館<NAVI>[章節1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI>\"是時候該行動了\"維爾納悠閒地結束了用餐，為了應對接下來可能發生的事情，給櫻櫻美蝶子下達了周圍偵察的指令。"}
+, Summary = "偵察一樓"}
+, 
+[18152] = {Title = "某個科學家的逃生記錄-7", IconName = "ico_vr.bmp", 
+Description = {"毀葛酒館<NAVI>[章節1-3]<INFO>hu_in01,352,168,0,101,0</INFO></NAVI>在一樓的酒館，有一幫叛亂者們在享用晚餐，他們正在討論逃走的科學家—維爾納研究室的主人—的特徵描述，忠實的小助手櫻櫻美蝶子要將這個消息傳達給主人。"}
+, Summary = "向阿伊建匯報情況"}
+, 
+[18153] = {Title = "某個科學家的逃生記錄-8", IconName = "ico_vr.bmp", 
+Description = {"毀葛旅館<NAVI>[章節1-4]<INFO>hu_in01,321,20,0,101,0</INFO></NAVI>阿伊建·維爾納坐在旅館房間的床上，陷入沉思，他瀏覽了櫻櫻美蝶子記錄的內容，但無法理解為什麼自己會變成這樣。"}
+, Summary = "閱讀章節1-4"}
+, 
+[18154] = {Title = "某個科學家的逃生記錄-9", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[章節2-1]<INFO>hu_fild04,64,363,0,101,0</INFO></NAVI>\"沒辦法，真是沒辦法\"阿伊建 維爾納喃喃自語，他的視線投向前方的山路，\"該死的叛亂者們\"，暗罵著手段不公平的同時，他的步伐變得沉重。"}
+, Summary = "閱讀章節2-1"}
+, 
+[18155] = {Title = "某個科學家的逃生記錄-10", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[章節2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI>冷風如刀刃般吹襲，刺痛著他燙熱的身體，他四處觀望，但山頂上的景色沒有什麼值得欣賞的，阿伊建 維爾納罕見地生氣\"櫻櫻美蝶子!!!!\""}
+, Summary = "閱讀章節2-2"}
+, 
+[18156] = {Title = "某個科學家的逃生記錄-11", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[章節2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI>無論是地形掃描還是地圖，阿伊建 維爾納都已經沒有了前進的動力，雖然不想，但也只能先露宿，阿伊建 維爾納決定也讓櫻櫻美蝶子苦一下，櫻櫻美蝶子為了趕跑露宿地附近的怪物，忙碌地四處奔波。"}
+, Summary = "擊敗怪物並匯報給阿伊建"}
+, 
+[18157] = {Title = "某個科學家的逃生記錄-12", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[章節2-2]<INFO>hu_fild04,267,205,0,101,0</INFO></NAVI>確保安全之後，阿伊建 維爾納翻出了櫻櫻美蝶子記錄的實驗數據，為什麼會研究時光倒流呢？因為他不想看到那個孩子再次死去……"}
+, Summary = "小心地生火"}
+, 
+[18158] = {Title = "某個科學家的逃生記錄-13", IconName = "ico_vr.bmp", 
+Description = {"朱諾 原野<NAVI>[章節2-3]<INFO>yuno_fild06,41,321,0,101,0</INFO></NAVI>單調的山路和崎嶇的小徑似乎永無止境，阿伊建 維爾納的身體已經筋疲力盡，他艱難地走著，身上只剩下一些藥水和草藥，他訓斥櫻櫻美蝶子。"}
+, Summary = "閱讀章節2-3"}
+, 
+[18159] = {Title = "某個科學家的逃生記錄-14", IconName = "ico_vr.bmp", 
+Description = {"朱諾 原野<NAVI>[章節2-4]<INFO>yuno_fild06,308,172,0,101,0</INFO></NAVI>終於，他發現有人，不僅如此，還有一個完美的營地！即使是一名逃亡者，阿伊建 維爾納在經過幾天孤獨的旅程後，很高興能再次看到人。"}
+, Summary = "閱讀章節2-4"}
+, 
+[18160] = {Title = "某個科學家的逃生記錄-end", IconName = "ico_vr.bmp", 
+Description = {"已體驗完某個科學家的逃生記錄，請返回普隆德拉東邊圖書館，將\'某個科學家的逃生記錄\'歸還到<NAVI>[書架]<INFO>prt_elib,59,60,0,101,0</INFO></NAVI>並向目錄妖精印克領取閱讀獎勵！"}
+, Summary = "在圖書館歸還書本", NpcSpr = "4_VR_BOOK_BLUE", NpcNavi = "prt_elib", NpcPosX = 59, NpcPosY = 60}
+, 
+[18161] = {Title = "某個科學家的逃生記錄-等待", IconName = "ico_vr.bmp", 
+Description = {"幻想叢書\'某個科學家的逃生記錄\'仍在等待租借，因需要重新充電，請過一段時間後再來普隆德拉東邊圖書館的<NAVI>[書架]<INFO>prt_elib,59,60,0,101,0</INFO></NAVI>使用這本書。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1, NpcSpr = "4_VR_BOOK_BLUE", NpcNavi = "prt_elib", NpcPosX = 59, NpcPosY = 60}
+, 
+[18162] = {Title = "完成閱讀某個科學家的逃生記錄", IconName = "ico_vr.bmp", 
+Description = {"已經閱讀完成一次以上的幻想叢書\'某個科學家的逃生記錄！"}
+, Summary = ""}
+, 
+[18163] = {Title = "某個科學家的逃生記錄-2-1", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[儲存點2-1]<INFO>hu_fild02,266,151,0,101,0</INFO></NAVI>看來櫻櫻美蝶子可能欺騙了他，淡淡的背叛感流過阿伊建 維爾納的心頭，但現在的阿伊建 維爾納已經完全依賴櫻櫻美蝶子，除了相信她別無選擇\"機器會背叛？是我想太多了吧。\""}
+, Summary = "到達儲存點2-1"}
+, 
+[18164] = {Title = "某個科學家的逃生記錄-9-1", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[儲存點9-1]<INFO>hu_fild04,59,146,0,101,0</INFO></NAVI>有規律的山地徒步對健康有益，但在疲憊不堪的情況下，穿越充滿諾博斯的森林小路，是不是有點瘋？"}
+, Summary = "到達儲存點9-1"}
+, 
+[18165] = {Title = "某個科學家的逃生記錄-9-2", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[儲存點9-2]<INFO>hu_fild04,286,159,0,101,0</INFO></NAVI>阿伊建 維爾納在崎嶇的小徑上滑了一下，小腿上有撕裂傷，為了治療這個小傷口，他不想浪費藥水，決定就地尋找一些藥草，\"櫻櫻美蝶子，想辦法找到綠色藥草和黃色藥草。\""}
+, Summary = "在儲存點9-2傳遞藥草"}
+, 
+[18166] = {Title = "某個科學家的逃生記錄-9-3", IconName = "ico_vr.bmp", 
+Description = {"毀葛 原野<NAVI>[儲存點9-3]<INFO>hu_fild04,170,114,0,101,0</INFO></NAVI>深不見底的深淵四周到處都是諾博斯，櫻櫻美蝶子從遠處看到阿伊建 維爾納，他氣喘吁吁地用四肢攀爬著山坡，身為出色的AI小助手，為了能讓主人有舒適的旅行，櫻櫻美蝶子決定清理掉諾博斯。"}
+, Summary = "到達儲存點9-3以確保安全"}
+, 
+[18167] = {Title = "某個科學家的逃生記錄-13-1", IconName = "ico_vr.bmp", 
+Description = {"朱諾 原野<NAVI>[儲存點13-1]<INFO>yuno_fild06,126,334,0,101,0</INFO></NAVI>離目的地不遠了，他嘗試加快步伐，但爾邁斯瀑雷德的沙妖們並不容易對付，不知道是因為沙妖的沙塵還是疲憊的身體，阿伊建維爾納的身體變得沉重，但他仍然跟隨著櫻櫻美蝶子的引導繼續前進。"}
+, Summary = "到達儲存點13-1"}
+, 
+[18168] = {Title = "某個科學家的逃生記錄-13-2", IconName = "ico_vr.bmp", 
+Description = {"朱諾 原野<NAVI>[儲存點13-2]<INFO>yuno_fild06,224,261,0,101,0</INFO></NAVI>口乾舌燥，僵硬的腿艱難地拖動著，透過朦朧的視線，又一陣沙塵暴颳過，突然湧上心頭的憤怒使阿伊建 維爾納不顧一切地踢向腳下的東西，耗盡餘力後跌坐在地上，\"主人，前方出現了沙妖\"，乏味的通報聲中，阿伊建 維爾納無聲地尖叫著，充滿憤怒地脫掉了鞋子。"}
+, Summary = "平安抵達儲存點13-2"}
+, 
+[18169] = {Title = "某個科學家的逃生記錄-13-3", IconName = "ico_vr.bmp", 
+Description = {"朱諾 原野<NAVI>[儲存點13-3]<INFO>yuno_fild06,301,224,0,101,0</INFO></NAVI>阿伊建 維爾納拋出的鞋子激怒了附近的沙妖，櫻櫻美蝶子正在對付它們，而他則不得不繼續前進，\"哪裡才是有人的地方？櫻櫻美蝶子！櫻櫻美蝶子！！！\""}
+, Summary = "平安抵達儲存點13-3"}
+, 
+[8818] = {Title = "邁倫的波利研究", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書007-飼育天使波利]<INFO>prt_elib,54,37,0,101,0</INFO></NAVI>的作者就是邁倫!", "邁倫以迄今的研究成果作為基礎，為了讓大家可以在旁觀察波利族的生態才寫下這本書…?"}
+, Summary = "通過飼育天使波利"}
+, 
+[8819] = {Title = "飼育天使波利–等待", IconName = "ico_vr.bmp", 
+Description = {"該任務為每日任務，等待時間過後可再次閱讀<NAVI>[該本書]<INFO>prt_elib,54,37,0,101,0</INFO></NAVI>。"}
+, Summary = "04點重置", CoolTimeQuest = 1}
+, 
+[8820] = {Title = "冒險者的傳說", IconName = "ico_vr.bmp", 
+Description = {"不久之後冒險者就會將波利德拉自邪惡手中救出!", "...不知不覺歲月流逝...", "隱居中的勇士，某天聽到巴希莉的召喚。"}
+, Summary = "與巴希莉對話"}
+, 
+[8821] = {Title = "巴希莉的請求", IconName = "ico_vr.bmp", 
+Description = {"巴希莉界的流氓，也是所有冒險者好朋友的巴希莉，將可愛的菜鳥波利交給冒險者。", "請將這孩子培養成天使波利。巴希莉懇切的請求，讓冒險者點了點頭。"}
+, Summary = "與小波利對話"}
+, 
+[8822] = {Title = "和小波利問好(1)", IconName = "ico_vr.bmp", 
+Description = {"波利德拉是由3座島嶼形成的波利族小城市。", "居民自從波利德拉侵略後，就對在波利德拉扎根的勇士十分友善。", "勇士帶著小波利前往廣場。"}
+, Summary = "與小波利對話"}
+, 
+[8823] = {Title = "和小波利問好(2)", IconName = "ico_vr.bmp", 
+Description = {"波利德拉是由3座島嶼形成的波利族小城市。", "居民自從波利德拉侵略後，就對在波利德拉扎根的勇士十分友善。", "勇士帶著小波利前往廣場。"}
+, Summary = "與小圓波利對話"}
+, 
+[8824] = {Title = "和小波利問好(3)", IconName = "ico_vr.bmp", 
+Description = {"小圓波利的小故事一結束，熔岩波利便呼喚勇士。"}
+, Summary = "與熔岩波利對話"}
+, 
+[8825] = {Title = "4月的計劃", IconName = "ico_vr.bmp", 
+Description = {"本月要教小波利什麼呢?"}
+, Summary = "安排小波利的行程"}
+, 
+[8826] = {Title = "5月的計劃", IconName = "ico_vr.bmp", 
+Description = {"本月要教小波利什麼呢?"}
+, Summary = "安排小波利的行程"}
+, 
+[8827] = {Title = "6月的計劃", IconName = "ico_vr.bmp", 
+Description = {"本月要教小波利什麼呢?"}
+, Summary = "安排小波利的行程"}
+, 
+[8828] = {Title = "7月是外出遊玩月", IconName = "ico_vr.bmp", 
+Description = {"波利德拉的居民在農務較少的7月，會享受一個短短的假期。小波利的老師們也各自忙著準備出去玩。", "勇士和小波利也決定要出去玩。"}
+, Summary = "安排小波利的行程"}
+, 
+[8829] = {Title = "8月的計劃", IconName = "ico_vr.bmp", 
+Description = {"本月要教小波利什麼呢?"}
+, Summary = "安排小波利的行程"}
+, 
+[8830] = {Title = "9月的計劃", IconName = "ico_vr.bmp", 
+Description = {"本月要教小波利什麼呢?"}
+, Summary = "安排小波利的行程"}
+, 
+[8831] = {Title = "10月的計劃", IconName = "ico_vr.bmp", 
+Description = {"本月要教小波利什麼呢?"}
+, Summary = "安排小波利的行程"}
+, 
+[8832] = {Title = "11月的計劃", IconName = "ico_vr.bmp", 
+Description = {"本月要教小波利什麼呢?"}
+, Summary = "安排小波利的行程"}
+, 
+[8833] = {Title = "12月是外出遊玩月", IconName = "ico_vr.bmp", 
+Description = {"波利德拉的居民在農務較少的12月，也會享受一個短短的假期。小波利的老師們也各自忙著準備出去玩。", "勇士和小波利也決定要出去玩。"}
+, Summary = "安排小波利的行程"}
+, 
+[8834] = {Title = "1月的計劃", IconName = "ico_vr.bmp", 
+Description = {"本月要教小波利什麼呢?"}
+, Summary = "安排小波利的行程"}
+, 
+[8835] = {Title = "作夢的波利", IconName = "ico_vr.bmp", 
+Description = {"小波利長大了…"}
+, Summary = "與小波利對話"}
+, 
+[8836] = {Title = "小波利的成長", IconName = "ico_vr.bmp", 
+Description = {"小波利長大成為自己夢中的樣子。希望牠無論選擇哪條路，都有幸福的結果。"}
+, Summary = "與小波利對話"}
+, 
+[8837] = {Title = "印克的禮物", IconName = "ico_vr.bmp", 
+Description = {"向印克領取通關禮物。", "雖然直接領取經驗值會有效率損失，但可兌換為<ITEM>[藥水]<INFO>101404</INFO></ITEM>。"}
+, Summary = "與印克對話"}
+, 
+[8838] = {Title = "返回", IconName = "ico_vr.bmp", 
+Description = {"順利返回普隆德拉，得向邁倫述說感想。", "就像讀書前突然出現一樣，觸碰<NAVI>[書本]<INFO>prt_elib,54,37,0,101,0</INFO></NAVI>時會不會突然出現呢?"}
+, Summary = "與邁倫對話"}
+, 
+[16667] = {Title = "生研餐–初次閱讀", IconName = "ico_vr.bmp", 
+Description = {"第一次開始閱讀<NAVI>[幻想叢書]<INFO>prt_elib,59,45,0,101,0</INFO></NAVI>的『生研餐』。全部閱讀完畢後，去找目次精靈印克吧。"}
+, Summary = "初次閱讀生研餐"}
+, 
+[16668] = {Title = "生研餐–等待", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書]<INFO>prt_elib,59,45,0,101,0</INFO></NAVI>的『生研餐』一天僅可閱讀一次，請再稍等一下。"}
+, Summary = "04點重置", CoolTimeQuest = 1}
+, 
+[16669] = {Title = "生研餐–書中的印克", IconName = "ico_vr.bmp", 
+Description = {"開始閱讀幻想叢書的『生研餐』，與幻想叢書中的<NAVI>[印克]<INFO>vr_bob,293,202,0,101,0</INFO></NAVI>對話吧。"}
+, Summary = "與印克對話"}
+, 
+[16670] = {Title = "生研餐-賽依連 溫莎反常的中午", IconName = "ico_vr.bmp", 
+Description = {"幻想叢書中的<NAVI>[賽依連 溫莎]<INFO>vr_bob,296,200,0,101,0</INFO></NAVI>在一旁守護。"}
+, Summary = "與賽依連 溫莎對話"}
+, 
+[16671] = {Title = "生研餐–海邊的兩人", IconName = "ico_vr.bmp", 
+Description = {"在幻想叢書中的海邊與<NAVI>[瑪嘉雷特 索林]<INFO>vr_bob,146,293,0,101,0</INFO></NAVI>和凱特莉娜 凱倫見面，問她們午餐要吃什麼。"}
+, Summary = "與瑪嘉雷特 索林對話"}
+, 
+[16672] = {Title = "生研餐-瑪嘉雷特 索林", IconName = "ico_vr.bmp", 
+Description = {"在幻想叢書中的海邊詢問<NAVI>[瑪嘉雷特 索林]<INFO>vr_bob,146,293,0,101,0</INFO></NAVI>好奇的事。"}
+, Summary = "與瑪嘉雷特 索林對話。"}
+, 
+[16673] = {Title = "生研餐-凱特莉娜 凱倫", IconName = "ico_vr.bmp", 
+Description = {"在幻想叢書中的海邊詢問<NAVI>[凱特莉娜 凱倫]<INFO>vr_bob,149,290,0,101,0</INFO></NAVI>好奇的事。"}
+, Summary = "與凱特莉娜 凱倫對話"}
+, 
+[16674] = {Title = "生研餐–午餐菜單", IconName = "ico_vr.bmp", 
+Description = {"向在幻想叢書中的海邊出現的<NAVI>[賽依連 溫莎]<INFO>vr_bob,144,289,0,101,0</INFO></NAVI>轉達希望事項。"}
+, Summary = "與賽依連 溫莎對話"}
+, 
+[16675] = {Title = "生研餐–打賭狩獵", IconName = "ico_vr.bmp", 
+Description = {"決定親手在幻想叢書中的海邊收集新鮮的午餐食材，去找<NAVI>[凱特莉娜 凱倫]<INFO>vr_bob,149,290,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與凱特莉娜 凱倫對話"}
+, 
+[16676] = {Title = "生研餐–抓螃蟹與蛤蜊", IconName = "ico_vr.bmp", 
+Description = {"在幻想叢書中的海邊抓5隻螃蟹和10個蛤蜊後，再去找<NAVI>[凱特莉娜 凱倫]<INFO>vr_bob,149,290,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與凱特莉娜 凱倫對話"}
+, 
+[16677] = {Title = "生研餐-配合狩獵時間", IconName = "ico_vr.bmp", 
+Description = {"搶先在幻想叢書中的海邊完成狩獵再去找<NAVI>[凱特莉娜 凱倫]<INFO>vr_bob,149,290,0,101,0</INFO></NAVI>，說不定會發生好事。"}
+, Summary = "與凱特莉娜 凱倫對話"}
+, 
+[16678] = {Title = "生研餐–打賭結果", IconName = "ico_vr.bmp", 
+Description = {"在幻想叢書中和凱特莉娜 凱倫的打賭中贏了，說不定會有好事發生?"}
+, Summary = "打賭獲勝"}
+, 
+[16679] = {Title = "生研餐–準備午餐", IconName = "ico_vr.bmp", 
+Description = {"把抓到的海鮮交給在幻想叢書中的住處準備午餐的<NAVI>[賽依連 溫莎]<INFO>vr_bob,295,209,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與賽依連 溫莎對話"}
+, 
+[16680] = {Title = "生研餐–烤螃蟹", IconName = "ico_vr.bmp", 
+Description = {"被幻想叢書中的賽依連 溫莎分配任務，在<NAVI>[火爐]<INFO>vr_bob,290,209,0,101,0</INFO></NAVI>和瑪嘉雷特 索林一起烤螃蟹吧。"}
+, Summary = "在火爐進行料理"}
+, 
+[16681] = {Title = "生研餐–分送螃蟹", IconName = "ico_vr.bmp", 
+Description = {"將在幻想叢書中的火爐烤熟的螃蟹與挑出的蟹肉交給<NAVI>[賽依連 溫莎]<INFO>vr_bob,295,209,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與賽依連 溫莎對話"}
+, 
+[16682] = {Title = "生研餐–分送醬料", IconName = "ico_vr.bmp", 
+Description = {"被幻想叢書中的賽依連 溫莎分配另一個任務，把<NAVI>[櫥櫃]<INFO>vr_bob,302,210,0,101,0</INFO></NAVI>中的蕃茄糊與甜椒粉交給她。"}
+, Summary = "瀏覽櫥櫃"}
+, 
+[16683] = {Title = "生研餐–是這個醬料嗎?", IconName = "ico_vr.bmp", 
+Description = {"在櫥櫃拿出醬料。"}
+, Summary = "獲得醬料"}
+, 
+[16684] = {Title = "生研餐–是這個醬料嗎?", IconName = "ico_vr.bmp", 
+Description = {"在櫥櫃拿出醬料。"}
+, Summary = "獲得醬料"}
+, 
+[16685] = {Title = "生研餐–是這個醬料嗎?", IconName = "ico_vr.bmp", 
+Description = {"在櫥櫃拿出醬料。"}
+, Summary = "獲得醬料"}
+, 
+[16686] = {Title = "生研餐–是這個醬料嗎?", IconName = "ico_vr.bmp", 
+Description = {"在櫥櫃拿出醬料。"}
+, Summary = "獲得醬料"}
+, 
+[16687] = {Title = "生研餐–完成料理", IconName = "ico_vr.bmp", 
+Description = {"美味的蟹肉濃湯完成了。端去戶外桌，和<NAVI>[凱特莉娜 凱倫]<INFO>vr_bob,291,195,0,101,0</INFO></NAVI>、瑪嘉雷特 索林、賽依連 溫莎一起享用吧。"}
+, Summary = "與凱特莉娜 凱倫對話"}
+, 
+[16688] = {Title = "生研餐–用餐結束", IconName = "ico_vr.bmp", 
+Description = {"用完令人滿足的一餐，<NAVI>[瑪嘉雷特 索林]<INFO>vr_bob,294,196,0,101,0</INFO></NAVI>自願收拾善後。"}
+, Summary = "與瑪嘉雷特 索林對話"}
+, 
+[16689] = {Title = "生研餐故事的結尾", IconName = "ico_vr.bmp", 
+Description = {"用完餐後，這短短的故事也要結束了。與<NAVI>[賽依連 溫莎]<INFO>vr_bob,290,198,0,101,0</INFO></NAVI>對話，準備闔上書本吧。"}
+, Summary = "與賽依連 溫莎對話"}
+, 
+[16690] = {Title = "生研餐–完成閱讀", IconName = "ico_vr.bmp", 
+Description = {"閱讀完畢，和<NAVI>[印克]<INFO>vr_bob,293,202,0,101,0</INFO></NAVI>對話領取完成閱讀的獎勵並闔上書本。"}
+, Summary = "與印克對話"}
+, 
+[12582] = {Title = "只有我是學院的純種人類", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'只有我是學院的純種人類\'首次體驗中!"}
+, Summary = "VR體驗"}
+, 
+[12583] = {Title = "只有我是學院的純種人類 (禁書版)", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'只有我是學院的純種人類(禁書版)\'首次體驗中!"}
+, Summary = "VR體驗"}
+, 
+[12584] = {Title = "只有我是學院的純種人類 - 等待", IconName = "ico_vr.bmp", 
+Description = {"清晨過後可再次閱讀<NAVI>[幻想叢書-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'只有我是學院的純種人類\'，請再來找我。"}
+, Summary = "04點重置", CoolTimeQuest = 1}
+, 
+[12585] = {Title = "只有我是學院的純種人類", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'只有我是學院的純種人類\'體驗中!"}
+, Summary = "VR體驗"}
+, 
+[12586] = {Title = "只有我是學院的純種人類 (禁書版)", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'只有我是學院的純種人類(禁書版)\'體驗中!"}
+, Summary = "VR體驗"}
+, 
+[12587] = {Title = "只有我是學院的純種人類禁書的制約", IconName = "ico_vr.bmp", 
+Description = {"閱讀禁書後受到制約，需經過一週才會出現<NAVI>[幻想叢書-008]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> \'只有我是學院的純種人類(禁書版)\'選單，才可以進行體驗。"}
+, Summary = "04點重置", CoolTimeQuest = 1}
+, 
+[17666] = {Title = "我與我", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> \'我與我\'體驗中!"}
+, Summary = "VR體驗"}
+, 
+[17667] = {Title = "我與我", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> \'我與我\'體驗中!"}
+, Summary = "VR體驗"}
+, 
+[17668] = {Title = "我與我 - 等待", IconName = "ico_vr.bmp", 
+Description = {"清晨過後可再次閱讀<NAVI>[幻想叢書-005]<INFO>prt_elib,54,45,0,101,0</INFO></NAVI> \'我與我\'，請再來找我。"}
+, Summary = "04點重置", CoolTimeQuest = 1}
+, 
+[23020] = {Title = "克里圖拉業務手冊", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> 透過\'面對面客服指南: 克里圖拉業務手冊\'，江學院業務指南銘記於心。"}
+, Summary = "VR體驗"}
+, 
+[23021] = {Title = "克里圖拉業務手冊", IconName = "ico_vr.bmp", 
+Description = {"<NAVI>[幻想叢書-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> \'面對面客服指南: 克里圖拉業務手冊\'江學院業務指南銘記於心。"}
+, Summary = "VR體驗"}
+, 
+[23022] = {Title = "克里圖拉業務手冊 - 等待", IconName = "ico_vr.bmp", 
+Description = {"為保障有多人可以體驗，<NAVI>[幻想叢書-009]<INFO>prt_elib,54,29,0,101,0</INFO></NAVI> \'面對面客服指南: 克里圖拉業務手冊\'1天限定體驗1次。"}
+, Summary = "04點重置", CoolTimeQuest = 1}
+, 
+[23023] = {Title = "登錄新職員程序", IconName = "ico_vr.bmp", 
+Description = {"順利進入幻想叢書: 面對面客服指南 - 克里圖拉業務手冊，與迎接你的馬布侖對話。"}
+, Summary = "與馬布侖對話吧。"}
+, 
+[23024] = {Title = "登錄新職員程序", IconName = "ico_vr.bmp", 
+Description = {"馬布侖說要去找斯瀑拉齊對話，進行登錄新職員。與學院1樓櫃檯的斯瀑拉齊對話吧。"}
+, Summary = "與斯瀑拉齊對話"}
+, 
+[23025] = {Title = "登錄新職員程序", IconName = "ico_vr.bmp", 
+Description = {"完成新職員登錄，告訴馬布侖登錄好了吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23026] = {Title = "登錄新職員程序", IconName = "ico_vr.bmp", 
+Description = {"在學院2樓的弓箭手教室正式開始學習業務吧。"}
+, Summary = "前往弓箭手教室"}
+, 
+[23027] = {Title = "常態性業務與時效性業務", IconName = "ico_vr.bmp", 
+Description = {"準備好後與馬布侖對話，學習學院業務的基礎吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23028] = {Title = "常態性業務與時效性業務", IconName = "ico_vr.bmp", 
+Description = {"學會學院業務的基礎，準備好後跟馬布侖說要實際體驗吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23029] = {Title = "常態性業務與時效性業務", IconName = "ico_vr.bmp", 
+Description = {"整理散落在弓箭手教室的所有公文後，向馬布侖報告吧。"}
+, Summary = "處理公文"}
+, 
+[23030] = {Title = "處理公文1", IconName = "ico_vr.bmp", 
+Description = {"處理弓箭手教室桌上的公文。"}
+, Summary = ""}
+, 
+[23031] = {Title = "處理公文2", IconName = "ico_vr.bmp", 
+Description = {"處理弓箭手教室桌上的公文。"}
+, Summary = ""}
+, 
+[23032] = {Title = "處理公文3", IconName = "ico_vr.bmp", 
+Description = {"處理弓箭手教室桌上的公文。"}
+, Summary = ""}
+, 
+[23033] = {Title = "處理公文4", IconName = "ico_vr.bmp", 
+Description = {"處理弓箭手教室桌上的公文。"}
+, Summary = ""}
+, 
+[23034] = {Title = "處理公文5", IconName = "ico_vr.bmp", 
+Description = {"處理弓箭手教室桌上的公文。"}
+, Summary = ""}
+, 
+[23035] = {Title = "處理公文6", IconName = "ico_vr.bmp", 
+Description = {"處理弓箭手教室桌上的公文。"}
+, Summary = ""}
+, 
+[23036] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"稍作休息後與馬布侖對話，繼續接受教育。"}
+, Summary = "與馬布侖對話"}
+, 
+[23037] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"去克里圖拉學院1樓找馬布侖吧"}
+, Summary = "與1樓的與馬布侖對話"}
+, 
+[23038] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"跟著馬布侖前往位於學院1樓西南方的醫務室吧。"}
+, Summary = "前往醫務室"}
+, 
+[23039] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"醫務室內有治療師。他說教職員可以在醫務室享有優惠，向治療師問好吧。"}
+, Summary = "與治療師打招呼"}
+, 
+[23040] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"跟著馬布侖前往位於學院1樓西北方的後勤室吧。"}
+, Summary = "前往後勤室"}
+, 
+[23041] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"後勤室內有戰鬥教官史必奴。他說在學院工作後，會發現有許多事需要協助。向戰鬥教官史必奴問好吧。"}
+, Summary = "與戰鬥教官史必奴打招呼"}
+, 
+[23042] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"跟著馬布侖前往位於學院1樓北方的大教室吧"}
+, Summary = "前往大教室"}
+, 
+[23043] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"跟著馬布侖前往位於學院1樓東北方的圖書室吧。"}
+, Summary = "前往圖書室"}
+, 
+[23044] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"跟著馬布侖前往位於學院1樓東南方的餐廳吧。"}
+, Summary = "前往餐廳"}
+, 
+[23045] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"餐廳內有達庫瓦茲。若按馬布侖所說，對上班族來說最重要的東西就是食物...向達庫瓦茲問好吧。"}
+, Summary = "與達庫瓦茲打招呼"}
+, 
+[23046] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"好像已經說明所有1樓設施與關係人了，再去2樓吧?"}
+, Summary = "要去2樓嗎?"}
+, 
+[23047] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"斯瀑拉齊在找你，去找1樓櫃檯的斯瀑拉齊吧。"}
+, Summary = "與斯瀑拉齊對話"}
+, 
+[23048] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"進入2樓前往弓箭手教室，告訴馬布侖和斯瀑拉齊漏掉要給他們的資料。"}
+, Summary = "與馬布侖對話"}
+, 
+[23049] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"幫馬布侖在教室後面尋找勤勉獎學生的工作日誌。"}
+, Summary = "尋找工作日誌"}
+, 
+[23050] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"找到工作日誌了，交給馬布侖吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23051] = {Title = "校園設施與協力職員說明", IconName = "ico_vr.bmp", 
+Description = {"在2樓稍微休息一下，馬布侖說可以吃教室內的餅乾。"}
+, Summary = "吃餅乾"}
+, 
+[23052] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願人來了，觀察馬布侖如何處理請願吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23053] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願人來了，觀察馬布侖如何處理請願吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23054] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願人來了，觀察馬布侖如何處理請願吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23055] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願人來了，觀察馬布侖如何處理請願吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23056] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"米卡艾拉來了，聽馬布侖和米卡艾拉在說什麼吧。"}
+, Summary = "聽馬布侖與米卡艾拉的對話"}
+, 
+[23057] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願人來了，觀察馬布侖如何處理請願吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23058] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願人來了，觀察馬布侖如何處理請願吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23059] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願人來了，觀察馬布侖如何處理請願吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23060] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"教授來了，聽馬布侖和教授在說什麼吧。"}
+, Summary = "聽馬布侖與教授的對話"}
+, 
+[23061] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願人來了，觀察馬布侖如何處理請願吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23062] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"馬布侖請你幫他在教室後面的講桌尋找弓箭手授課講義教材。"}
+, Summary = "在講桌尋找授課教材"}
+, 
+[23063] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"請願喵情緒上好像被馬布侖傷得很深，代替馬布侖和請願喵對話吧。"}
+, Summary = "與請願喵對話"}
+, 
+[23064] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"動手解決講不聽的請願人最快!好好教訓請願喵。"}
+, Summary = "處理請願喵"}
+, 
+[23065] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"馬布侖請你製作要貼在外面、禁止外人進出的告示。在教室後方的講桌製作告示吧。"}
+, Summary = "製作告示"}
+, 
+[23066] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"聽了對話內容後，發現馬布侖差點做了不屬於自己的工作。再去和馬布侖對話吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23067] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"和請願人諮詢中的啞口無言的馬布侖暫時中斷諮詢，與馬布侖對話吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23068] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"教授把要交出過期資料的這件事推給我，與馬布侖對話討論該怎麼解決這個危機吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23069] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"歷經曲折後請願喵回去了，與馬布侖對話吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23070] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"完成禁止外人進出的告示，拿給馬布侖吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23071] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"區分必要的業務和不做也可以的業務很重要。放在教室後方的書第5冊、別冊附錄中的內容可以幫上忙，去確認看看吧。"}
+, Summary = "閱讀教室後方的書"}
+, 
+[23072] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"吃了舒緩壓力的果凍、靜下心的馬布侖又開始諮詢。觀看馬布侖與請願人的諮詢，看他是怎麼處理吧。"}
+, Summary = "聆聽請願人與馬布侖的對話"}
+, 
+[23073] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"馬布侖說有的時候也可以接受過期的資料，去找斯瀑拉齊了。先回到1樓吧。"}
+, Summary = "回到1樓與馬布侖對話"}
+, 
+[23074] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"找到弓箭手講義教材了，交給請願人吧。"}
+, Summary = "把教材交給請願人"}
+, 
+[23075] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"馬布侖說要告訴你面對面業務服務員要告訴你該做的事，而不是和請願人吵架。回到1樓吧。"}
+, Summary = "前往1樓與馬布侖對話"}
+, 
+[23076] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"確認克里圖拉學院，回去找馬布侖吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23077] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"歷經曲折後請願人回去了，與馬布侖對話吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23078] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"確認組織圖了，先下去跟著馬布侖前往1樓吧。"}
+, Summary = "前往1樓與馬布侖對話"}
+, 
+[23079] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"幸好斯瀑拉齊說可以收下資料，但需要修改幾個地方...詢問斯瀑拉齊要修改什麼吧。"}
+, Summary = "與斯瀑拉齊對話"}
+, 
+[23080] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"馬布侖說不少人把工作交給面對面客服，他說會教我該怎麼應對...?"}
+, Summary = "與馬布侖對話"}
+, 
+[23081] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"和2樓教室的馬布侖對話，結束體驗吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23082] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"和1樓的馬布侖對話，結束體驗吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23083] = {Title = "處理突發狀況的方法", IconName = "ico_vr.bmp", 
+Description = {"和1樓的馬布侖對話，結束體驗吧。"}
+, Summary = "與馬布侖對話"}
+, 
+[23084] = {Title = "滿意度調查", IconName = "ico_vr.bmp", 
+Description = {"告訴1樓的斯瀑拉齊體驗結束了。"}
+, Summary = "與斯瀑拉齊對話"}
+, 
+[23085] = {Title = "結束體驗", IconName = "ico_vr.bmp", 
+Description = {"所有體驗結束了，和印克對話領取紀念品吧。"}
+, Summary = "與印克對話"}
 }
 

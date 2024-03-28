@@ -1065,5 +1065,19 @@ SignBoardList = {
 {"mosk_in", 18, 174, 0, IT_BMP, "group\\group_12.bmp"}
 , 
 {"har_in01", 30, 84, 0, IT_BMP, "group\\group_12.bmp"}
+, 
+{"ba_in01", 310, 38, 0, IT_SIGNBOARD, "item\\wl_frostmisty.bmp", "標本環境–冰凍", "#0x00FFFFFF"}
+, 
+{"ba_in01", 311, 56, 0, IT_SIGNBOARD, "item\\gs_grounddrift.bmp", "標本環境–火燄", "#0x00FFFFFF"}
+, 
+{"ba_in01", 325, 56, 0, IT_SIGNBOARD, "item\\sg_star_bless.bmp", "標本環境–草原", "#0x00FFFFFF"}
+, 
+{"ba_in01", 339, 56, 0, IT_SIGNBOARD, "item\\rl_banishing_buster.bmp", "標本環境–死靈", "#0x00FFFFFF"}
+, 
+{"ba_in01", 229, 302, 0, IT_SIGNBOARD, "item\\ab_eucharistica.bmp", "標本環境 - 聖殿", "#0x00FFFFFF"}
+, 
+{"ba_in01", 215, 302, 0, IT_SIGNBOARD, "item\\gc_researchnewpoison.bmp", "標本環境 - 劇毒", "#0x00FFFFFF"}
+, 
+{"ba_in01", 201, 302, 0, IT_SIGNBOARD, "item\\pf_soulburn.bmp", "標本環境 - 靈魂", "#0x00FFFFFF"}
 }
 

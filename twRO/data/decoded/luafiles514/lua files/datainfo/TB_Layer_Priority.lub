@@ -5,8 +5,6 @@
 -- function num : 0
 TB_Layer_Priority = {Default_Mid = 100, Default_Top = 200, Default_Bottom = 300, Default_Robe = 400, 
 Items_List = {
-[ACCESSORY_IDs.ACCESSORY_C_Usa_Pis] = {Default = 304, isIgnoreRiding = true}
-, 
 [ACCESSORY_IDs.ACCESSORY_C_TW_1st_Balloon] = {Default = 156, 
 Direction = {isIgnoreRiding = true}
 }
@@ -1507,7 +1505,125 @@ Direction = {}
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Cinnamon] = {Default = 304, isIgnoreRiding = true}
 , 
-[ACCESSORY_IDs.ACCESSORY_C_Ragdoll] = {Default = 304, isIgnoreRiding = true}
+[ACCESSORY_IDs.ACCESSORY_C_Agnes_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Debris_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_ElenaVolkova_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Elumina_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Berner_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_King_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Angeling_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Seyren_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Gulaling_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Marlbron_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Lehar_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Evil_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Spica_Mini] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Black_Magenta_Ribbon] = {Default = 155, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Baby_Gloom] = {Default = 304, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_BG] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_CB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_LB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_JBL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_BG] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_YL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_CB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_LB] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_LPP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_JBL] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_OM] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Rose_Wave_BD] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Rose_Wave_BDP] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Rose_Wave_SV] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl_WH] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Skia_Two_Side_Up] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Kotatsu] = {Default = 403, isIgnoreRiding = true}
+, 
+[ACCESSORY_IDs.ACCESSORY_Bear_Candy_Cart] = {Default = 304, isIgnoreRiding = true}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

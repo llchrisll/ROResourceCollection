@@ -5,6 +5,14 @@
 -- function num : 0
 tblLapineUpgradeBox = {
 targets = {
+EXPShadow_Up = {ItemID = 101309, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"S_EXP_Shield", 24683}
+, 
+{"S_EXP_Weapon", 24770}
+}
+, NeedSource_String = "¼v¤l¸gÅç­È­¿¼W"}
+, 
 PerfectSize_Up = {ItemID = 101362, NeedRefineMin = 0, NeedRefineMax = 10, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_PerfectSize_Armor", 24426}
@@ -1000,6 +1008,8 @@ TargetItems = {
 SunShine_Sand = {ItemID = 101952, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"S_G_Manteau_TW", 480153}
+, 
+{"S_G_Manteau_LT_TW", 480410}
 }
 , NeedSource_String = "Æv¶§¨FÄt¤æÁO"}
 , 
@@ -1798,6 +1808,8 @@ TargetItems = {
 God_Favor_TW = {ItemID = 101484, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
 {"Ultio_Cape_TW", 480088}
+, 
+{"Ultio_Cape_LT_TW", 480428}
 }
 , NeedSource_String = "¯Qº¸¸¦¶ø¸tÅ]ªk¤æÁO"}
 , 
@@ -5609,6 +5621,8 @@ TargetItems = {
 , 
 Shadow2_Op_Box_TW = {ItemID = 100549, NeedRefineMin = 6, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
 TargetItems = {
+{"S_EXP_Weapon", 24770}
+, 
 {"S_Mega_Blitz_Shield", 24767}
 , 
 {"S_Mega_Blitz_Weapon", 24768}
@@ -6603,6 +6617,8 @@ TargetItems = {
 , 
 Shadow_9_Refine_Hammer = {ItemID = 23926, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_EXP_Weapon", 24770}
+, 
 {"S_Mega_Blitz_Shield", 24767}
 , 
 {"S_Mega_Blitz_Weapon", 24768}
@@ -9059,6 +9075,8 @@ TargetItems = {
 , 
 Shadow_Refine_Hammer = {ItemID = 23436, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
 TargetItems = {
+{"S_EXP_Weapon", 24770}
+, 
 {"S_Mega_Blitz_Shield", 24767}
 , 
 {"S_Mega_Blitz_Weapon", 24768}

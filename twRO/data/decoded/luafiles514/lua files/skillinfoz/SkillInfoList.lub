@@ -10530,13 +10530,13 @@ SkillScale = {
 }
 }
 , 
-[SKID.NPC_WIDELEASH] = {"NPC_WIDELEASH"; SkillName = "?? ??? ???", MaxLv = 5, 
+[SKID.NPC_WIDELEASH] = {"NPC_WIDELEASH"; SkillName = "¼s½d³ò¤`ÆF´x¤ß", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {5, 10, 15, 20, 25}
 }
 , 
-[SKID.NPC_LEASH] = {"NPC_LEASH"; SkillName = "??? ???", MaxLv = 5, 
+[SKID.NPC_LEASH] = {"NPC_LEASH"; SkillName = "¤`ÆF´x¤ß", MaxLv = 5, 
 SpAmount = {0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {5, 10, 15, 20, 25}
@@ -10572,7 +10572,7 @@ SpAmount = {0}
 AttackRange = {1}
 }
 , 
-[SKID.ALL_THANATOS_RECALL] = {"ALL_THANATOS_RECALL"; SkillName = "???? ??", MaxLv = 1, 
+[SKID.ALL_THANATOS_RECALL] = {"ALL_THANATOS_RECALL"; SkillName = "ªð¦^¹F¯Ç¦«´µ", MaxLv = 1, 
 SpAmount = {0}
 , bSeperateLv = false, 
 AttackRange = {1}

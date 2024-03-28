@@ -5,6 +5,26 @@
 -- function num : 0
 tblLapineDdukddakBox = {
 sources = {
+EXPShadow_Mix2 = {ItemID = 101665, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Beginner_Shoes", 1, 24210}
+, 
+{"S_Beginner_Shield", 1, 24211}
+, 
+{"S_Rookie_Shoes", 1, 24212}
+, 
+{"S_Rookie_Shield", 1, 24213}
+, 
+{"S_Advanced_Shoes", 1, 24214}
+, 
+{"S_Advanced_Shield", 1, 24215}
+, 
+{"S_Expert_Shoes", 1, 24208}
+, 
+{"S_Expert_Shield", 1, 24209}
+}
+, NeedSource_String = "影子經驗值"}
+, 
 Bs_Item_Record2 = {ItemID = 102791, NeedCount = 4, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
 {"Pieces_Of_Sentiment", 300, 22687}
@@ -4104,6 +4124,50 @@ SourceItems = {
 {"ReloadStone_Robe_D", 1, 1000675}
 , 
 {"CrtStone_Robe_D", 1, 1000676}
+, 
+{"CriticalStone_Robe_D", 1, 1000855}
+, 
+{"ConStone_Robe_D", 1, 1000856}
+, 
+{"ArchbishopStone_Top3", 1, 1000857}
+, 
+{"ArchbishopStone_Middle3", 1, 1000858}
+, 
+{"ArchbishopStone_Bottom3", 1, 1000859}
+, 
+{"RangerStone_Top3", 1, 1000860}
+, 
+{"RangerStone_Middle3", 1, 1000861}
+, 
+{"RangerStone_Bottom3", 1, 1000862}
+, 
+{"ShadowchasStone_Top3", 1, 1000863}
+, 
+{"ShadowchasStone_Middle3", 1, 1000864}
+, 
+{"ShadowchasStone_Bottom3", 1, 1000865}
+, 
+{"SplStone_Robe_D", 1, 1000921}
+, 
+{"SmatkStone_Robe", 1, 1000922}
+, 
+{"SuraStone_Top3", 1, 1000968}
+, 
+{"SuraStone_Middle3", 1, 1000969}
+, 
+{"SuraStone_Bottom3", 1, 1000970}
+, 
+{"MechanicStone_Top3", 1, 1000971}
+, 
+{"MechanicStone_Middle3", 1, 1000972}
+, 
+{"MechanicStone_Bottom3", 1, 1000973}
+, 
+{"GuillcrossStone_Top3", 1, 1000974}
+, 
+{"GuillcrossStone_Middle3", 1, 1000975}
+, 
+{"GuillcrossStone_Bottom3", 1, 1000976}
 }
 , NeedSource_String = "附魔石"}
 , 
@@ -7550,6 +7614,80 @@ SourceItems = {
 {"C_Sugared_Fruit_Stick", 1, 420196}
 , 
 {"C_Moonlight_Bell", 1, 480289}
+, 
+{"C_Dark_Lord_Manteau", 1, 20621}
+, 
+{"C_Sweets_Captive", 1, 400406}
+, 
+{"C_Magic_Celestial_Globe", 1, 410160}
+, 
+{"C_Giant_Mad_Bunny", 1, 480310}
+, 
+{"C_Owlviscount_Silk_Hat", 1, 400424}
+, 
+{"C_Smoky_TransformHat", 1, 400426}
+, 
+{"C_MCircle_Wonderland", 1, 480298}
+, 
+{"C_Classical_Fhat", 1, 5980}
+, 
+{"C_Wichienmaat_Bangkaew", 1, 15954}
+, 
+{"C_Icecream_Hat", 1, 19813}
+, 
+{"C_Spinning_Skulls", 1, 410201}
+, 
+{"C_Hoplite_Helmet_S_V", 1, 400452}
+, 
+{"C_Guardian_Claus", 1, 420212}
+, 
+{"C_Cookie_PinkRibbon", 1, 420209}
+, 
+{"C_Mad_Hatter_Hat", 1, 400435}
+, 
+{"C_Labrys", 1, 480316}
+, 
+{"C_Brother_Keen_Eye", 1, 410245}
+, 
+{"C_Big_Ribbon_Cloak_WH", 1, 480280}
+, 
+{"C_Scuba_Mask", 1, 410083}
+, 
+{"C_Diving_Goggles", 1, 410187}
+, 
+{"C_Surf_Board", 1, 480321}
+, 
+{"C_Moon_Eyepatch", 1, 19289}
+, 
+{"C_Jumbo_Rabbit", 1, 410219}
+, 
+{"C_Cat_Straw_Hat", 1, 400480}
+, 
+{"C_Power_Rele_TW", 1, 420262}
+, 
+{"C_Ally_of_the_Demons", 1, 400458}
+, 
+{"C_Tare_Maid_Doll_Hat", 1, 400449}
+, 
+{"C_Lion_Crown", 1, 400450}
+, 
+{"C_Evil_Double_Edged", 1, 480361}
+, 
+{"C_Cheesy_Snack_In_Mouth", 1, 420232}
+, 
+{"C_Loli_Ruri_Moon_B", 1, 480393}
+, 
+{"C_Grisly_Soul", 1, 410276}
+, 
+{"C_Tiger_Muffler_MSP", 1, 420237}
+, 
+{"C_Ninetail_Tail_WH", 1, 480362}
+, 
+{"C_Shrine_Maiden_Hat", 1, 19894}
+, 
+{"C_Forest_S_Vacation", 1, 480336}
+, 
+{"Horo_Ears", 1, 20018}
 }
 , NeedSource_String = "服飾裝備"}
 , 
@@ -7873,76 +8011,6 @@ SourceItems = {
 , 
 Hair_Ddbox_TW = {ItemID = 23798, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
 SourceItems = {
-{"C_AB_Hair_PP", 1, 420062}
-, 
-{"C_AB_Hair_GN", 1, 420060}
-, 
-{"C_AB_Hair_BU", 1, 420059}
-, 
-{"C_AB_Hair_YL", 1, 420058}
-, 
-{"C_AB_Hair_RD", 1, 420057}
-, 
-{"C_AB_Hair_WH", 1, 31971}
-, 
-{"C_AB_Hair_LPP", 1, 31969}
-, 
-{"C_AB_Hair_BL", 1, 31968}
-, 
-{"C_Twinkle_Wave", 1, 420197}
-, 
-{"C_Valkyrie_Hair_J", 1, 420177}
-, 
-{"C_Demi_Freyja_Hair", 1, 400427}
-, 
-{"C_Snow_Rabbit_Wig", 1, 420191}
-, 
-{"C_Twinkle_Twin_B", 1, 420150}
-, 
-{"C_Twinkle_Twin", 1, 420107}
-, 
-{"C_Braid_Ring", 1, 420172}
-, 
-{"C_Bun_Twin_Tail_BU", 1, 400205}
-, 
-{"C_Bun_Twin_Tail_RD", 1, 400206}
-, 
-{"C_Bun_Twin_Tail_YL", 1, 400207}
-, 
-{"C_Bun_Twin_Tail_GN", 1, 400208}
-, 
-{"C_Bun_Twin_Tail_BL", 1, 400209}
-, 
-{"C_Bun_Twin_Tail_WH", 1, 400210}
-, 
-{"C_Bun_Twin_Tail_OM", 1, 400211}
-, 
-{"C_Bun_Twin_Tail_PP", 1, 400212}
-, 
-{"C_Intake_BU", 1, 410111}
-, 
-{"C_Intake_RD", 1, 410112}
-, 
-{"C_Intake_YL", 1, 410113}
-, 
-{"C_Intake_GN", 1, 410114}
-, 
-{"C_Intake_BL", 1, 410115}
-, 
-{"C_Intake_WH", 1, 410116}
-, 
-{"C_Intake_OM", 1, 410117}
-, 
-{"C_Intake_PP", 1, 410118}
-, 
-{"C_Dreaming_Rose_Long", 1, 420133}
-, 
-{"C_Flower_L_Knitting", 1, 420156}
-, 
-{"C_Starry_Long_Wave", 1, 420161}
-, 
-{"C_Silky_Long_BL", 1, 420170}
-, 
 {"C_Hair_Bun_BU", 1, 31063}
 , 
 {"C_Hair_Bun_RD", 1, 31064}
@@ -8346,6 +8414,120 @@ SourceItems = {
 {"C_Rocking_Short", 1, 420111}
 , 
 {"C_Wanderer_Curl", 1, 400258}
+, 
+{"C_Bun_Twin_Tail_BU", 1, 400205}
+, 
+{"C_Bun_Twin_Tail_RD", 1, 400206}
+, 
+{"C_Bun_Twin_Tail_YL", 1, 400207}
+, 
+{"C_Bun_Twin_Tail_GN", 1, 400208}
+, 
+{"C_Bun_Twin_Tail_BL", 1, 400209}
+, 
+{"C_Bun_Twin_Tail_WH", 1, 400210}
+, 
+{"C_Bun_Twin_Tail_OM", 1, 400211}
+, 
+{"C_Bun_Twin_Tail_PP", 1, 400212}
+, 
+{"C_Intake_BU", 1, 410111}
+, 
+{"C_Intake_RD", 1, 410112}
+, 
+{"C_Intake_YL", 1, 410113}
+, 
+{"C_Intake_GN", 1, 410114}
+, 
+{"C_Intake_BL", 1, 410115}
+, 
+{"C_Intake_WH", 1, 410116}
+, 
+{"C_Intake_OM", 1, 410117}
+, 
+{"C_Intake_PP", 1, 410118}
+, 
+{"C_Flower_L_Knitting", 1, 420156}
+, 
+{"C_Starry_Long_Wave", 1, 420161}
+, 
+{"C_Silky_Long_BL", 1, 420170}
+, 
+{"C_Dreaming_Rose_Long", 1, 420133}
+, 
+{"C_Snow_Rabbit_Wig", 1, 420191}
+, 
+{"C_Twinkle_Twin_B", 1, 420150}
+, 
+{"C_Twinkle_Twin", 1, 420107}
+, 
+{"C_Braid_Ring", 1, 420172}
+, 
+{"C_AB_Hair_PP", 1, 420062}
+, 
+{"C_AB_Hair_GN", 1, 420060}
+, 
+{"C_AB_Hair_BU", 1, 420059}
+, 
+{"C_AB_Hair_YL", 1, 420058}
+, 
+{"C_AB_Hair_RD", 1, 420057}
+, 
+{"C_AB_Hair_WH", 1, 31971}
+, 
+{"C_AB_Hair_LPP", 1, 31969}
+, 
+{"C_AB_Hair_BL", 1, 31968}
+, 
+{"C_Twinkle_Wave", 1, 420197}
+, 
+{"C_Valkyrie_Hair_J", 1, 420177}
+, 
+{"C_Demi_Freyja_Hair", 1, 400427}
+, 
+{"C_Rose_Wave_BD", 1, 420273}
+, 
+{"C_Rose_Wave_SV", 1, 420275}
+, 
+{"C_Rose_Wave_BDP", 1, 420274}
+, 
+{"C_Wanderer_Curl_WH", 1, 420218}
+, 
+{"C_Kururinpa_Hair_BD", 1, 420085}
+, 
+{"C_Skia_Two_Side_Up", 1, 420221}
+, 
+{"C_GCM_Hair_LPP", 1, 420281}
+, 
+{"C_GCM_Hair_BG", 1, 420277}
+, 
+{"C_GCM_Hair_LB", 1, 420280}
+, 
+{"C_GCM_Hair_YL", 1, 420278}
+, 
+{"C_GCM_Hair_OM", 1, 420284}
+, 
+{"C_GCM_Hair_WH", 1, 420283}
+, 
+{"C_GCM_Hair_CB", 1, 420279}
+, 
+{"C_GCM_Hair_JBL", 1, 420282}
+, 
+{"C_MN_Hair_LPP", 1, 420289}
+, 
+{"C_MN_Hair_BG", 1, 420285}
+, 
+{"C_MN_Hair_LB", 1, 420288}
+, 
+{"C_MN_Hair_YL", 1, 420286}
+, 
+{"C_MN_Hair_OM", 1, 420292}
+, 
+{"C_MN_Hair_WH", 1, 420291}
+, 
+{"C_MN_Hair_CB", 1, 420287}
+, 
+{"C_MN_Hair_JBL", 1, 420290}
 }
 , NeedSource_String = "髮型服飾道具"}
 , 

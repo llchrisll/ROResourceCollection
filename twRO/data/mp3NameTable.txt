@@ -42,8 +42,6 @@ hu_in01.rsw#bgm\\93.mp3#
 //prontera.rsw#bgm\\55.mp3#
 //prt_in.rsw#bgm\\55.mp3#
 //prt_church.rsw#bgm\\56.mp3#
-//evt_xmas.rsw#bgm\\58.mp3#
-//evt_mobroom.rsw#bgm\\18.mp3#
 
 //운영팀이벤트
 e_hugel.rsw#bgm\\48.mp3#
@@ -1348,3 +1346,35 @@ x_prt_in.rsw#bgm\\172.mp3#
 clock_01.rsw#bgm\\61.mp3#
 
 einbech.rsw#bgm\\86.mp3#
+
+// 바르문트 인공생태환경 바이오스피어
+bl_grass.rsw#bgm\\31.mp3#
+bl_lava.rsw#bgm\\106.mp3#
+bl_ice.rsw#bgm\\138.mp3#
+bl_death.rsw#bgm\\84.mp3#
+
+bl_venom.rsw#bgm\\106.mp3#
+bl_temple.rsw#bgm\\110.mp3#
+bl_soul.rsw#bgm\\40.mp3#
+
+
+
+// 환상총서 1차
+prt_elib.rsw#bgm\\08.mp3#
+1@vrcas.rsw#bgm\\177.mp3#
+1@vrev.rsw#bgm\\88.mp3#
+1@vrgen.rsw#bgm\\90.mp3#
+
+// 환상총서 2차
+vr_bob.rsw#bgm\\03.mp3#
+1@vrpo.rsw#bgm\\05.mp3#
+
+// 환상총서 3차
+1@vrclo.rsw#bgm\\28.mp3#
+2@vrclo.rsw#bgm\\117.mp3#
+1@vrhha.rsw#bgm\\86.mp3#
+1@vrac1.rsw#bgm\\28.mp3#
+1@vrac2.rsw#bgm\\28.mp3#
+
+clock_01a.rsw#bgm\\61.mp3#
+clock_01b.rsw#bgm\\61.mp3#

@@ -1,3 +1,7 @@
+
+//20230613 X주년 프론테라 야시장 실내
+x_prt_in.rsw#
+
 //20220628 20주년 차원수호 기념관
 memohall.rsw#
 
@@ -209,5 +213,3 @@ ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
 
-//20230613 X주년 프론테라 야시장 실내
-x_prt_in.rsw#

@@ -11771,4 +11771,548 @@
 
 </HOSANGTO_PET>
 
+	<CWHITEKNIGHT>
+		<hungry>
+			<feeding>...	</feeding>
+			<danger>	沒...時間...了..	</danger>
+			<dead>	到此為止了嗎..	</dead>
+			<stand>	呃..嗚...	</stand>
+			<levelup>	...	</levelup>
+			<perfor_1>	必須...戰勝...	</perfor_1>
+			<perfor_2>	進入深淵之內..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	嗚...	</feeding>
+			<danger>	沒...時間...了..	</danger>
+			<dead>	到此為止了嗎..	</dead>
+			<stand>	呃..嗚...	</stand>
+			<levelup>	這種程度的話，應該可以..		</levelup>
+			<perfor_1>	必須...戰勝...	</perfor_1>
+			<perfor_2>	進入深淵之內..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	嗚...	</feeding>
+			<danger>	沒...時間...了..	</danger>
+			<dead>	到此為止了嗎..	</dead>
+			<stand>	呃..嗚...	</stand>
+			<stand>	屈..服..的話....  	</stand>
+			<levelup>	這種程度的話，應該可以..		</levelup>
+			<perfor_1>	必須...戰勝...	</perfor_1>
+			<perfor_2>	進入深淵之內..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>	...	</feeding>
+			<danger>	快..快...快沒...	</danger>
+			<danger>	沒...時間...了..	</danger>
+			<dead>	到此為止了嗎..	</dead>
+			<stand>	屈..服..的話....  	</stand>
+			<stand>	不行..但是...	</stand>
+			<stand>	好害怕.....	</stand>
+			<levelup>	這種程度的話，應該可以..		</levelup>
+			<levelup>	應該能夠克服...		</levelup>
+			<perfor_1>	必須...戰勝...	</perfor_1>
+			<perfor_2>	進入深淵之內..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</full>
+
+		<so_full>
+			<feeding>	...	</feeding>
+			<danger>	快..快...快沒...	</danger>
+			<danger>	沒...時間...了..	</danger>
+			<dead>	到此為止了嗎..	</dead>
+			<stand>	屈..服..的話....  	</stand>
+			<stand>	不行..但是...	</stand>
+			<stand>	好害怕.....	</stand>
+			<levelup>	這種程度的話，應該可以..		</levelup>
+			<levelup>	應該能夠克服...	</levelup>
+			<perfor_1>	必須...戰勝...	</perfor_1>
+			<perfor_2>	進入深淵之內..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</so_full>
+	</CWHITEKNIGHT>
+
+	<KNIGHT_OF_ABYSS2>
+		<hungry>
+			<feeding>	嗯...	</feeding>
+			<danger>	該保持警覺了...	</danger>
+			<dead>	讓我在深淵中長眠吧	</dead>
+			<stand>	忘了..	</stand>
+			<levelup>	...	</levelup>
+			<perfor_1>	滾開!	</perfor_1>
+			<perfor_2>	從深淵的..封印中解脫..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	嗯...	</feeding>
+			<danger>	該保持警覺了...	</danger>
+			<dead>	讓我在深淵中長眠吧	</dead>
+			<stand>	已經這個時間了啊.	</stand>
+			<levelup>	更...強大的力量	</levelup>
+			<perfor_1>	滾開!	</perfor_1>
+			<perfor_2>	從深淵的..封印中解脫..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	呃嗯...	</feeding>
+			<danger>	該保持警覺了...	</danger>
+			<dead>	讓我在深淵中長眠吧	</dead>
+			<stand>	時機快到了.	</stand>
+			<stand>	我在深淵的..邊界.. 	</stand>
+			<levelup>	更...強大的力量	</levelup>
+			<perfor_1>	滾開!	</perfor_1>
+			<perfor_2>	從深淵的..封印中解脫..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>	...	</feeding>
+			<danger>	是時候了..	</danger>
+			<danger>	該保持警覺了...	</danger>
+			<dead>	讓我在深淵中長眠吧	</dead>
+			<stand>	我在深淵的..邊界.. 	</stand>
+			<stand>	猶豫不決著..	</stand>
+			<stand>	屈服於深淵的恐懼	</stand>
+			<levelup>	更...強大的力量	</levelup>
+			<levelup>	如此.. 足矣..	</levelup>
+			<perfor_1>	滾開!	</perfor_1>
+			<perfor_2>	從深淵的..封印中解脫..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</full>
+
+		<so_full>
+			<feeding>	...	</feeding>
+			<danger>	是時候了..	</danger>
+			<danger>	該保持警覺了...	</danger>
+			<dead>	讓我在深淵中長眠吧	</dead>
+			<stand>	我在深淵的..邊界..	</stand>
+			<stand>	猶豫不決著..	</stand>
+			<stand>	屈服於深淵的恐懼	</stand>
+			<levelup>	更...強大的力量	</levelup>
+			<levelup>	如此.. 足矣..	</levelup>
+			<perfor_1>	滾開!	</perfor_1>
+			<perfor_2>	從深淵的..封印中解脫..	</perfor_2>
+			<perfor_3>	給我退下!!	</perfor_3>
+		</so_full>
+	</KNIGHT_OF_ABYSS2>
+	
+	<GH_WHITEKNIGHT>
+		<hungry>
+			<feeding>	遲了點!	</feeding>
+			<danger>	要小心!!	</danger>
+			<dead>	抱歉，沒辦法守護..	</dead>
+			<stand>	...餓了	</stand>
+			<levelup>	...	</levelup>
+			<perfor_1>	停!	</perfor_1>
+			<perfor_2>	為白騎士團的榮譽!!	</perfor_2>
+			<perfor_3>	守護到底!!	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	正好!	</feeding>
+			<danger>	要小心!!	</danger>
+			<dead>	抱歉，沒辦法守護..	</dead>
+			<stand>	...餓了	</stand>
+			<levelup>	這種程度的話，應該可以..		</levelup>
+			<perfor_1>	停!	</perfor_1>
+			<perfor_2>	為白騎士團的榮譽!!	</perfor_2>
+			<perfor_3>	守護到底!!	</perfor_3>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	正好!	</feeding>
+			<danger>	要小心!!	</danger>
+			<dead>	抱歉，沒辦法守護..	</dead>
+			<stand>	在深淵中感到彷徨的時候.. 想起了	</stand>
+			<stand>	許下的誓約!	</stand>
+			<levelup>	這種程度的話，應該可以..		</levelup>
+			<perfor_1>	停!	</perfor_1>
+			<perfor_2>	為白騎士團的榮譽!!	</perfor_2>
+			<perfor_3>	守護到底!!	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>	...	</feeding>
+			<danger>	要小心 !!	</danger>
+			<danger>	太危險了!!!	</danger>
+			<dead>	抱歉，沒辦法守護..	</dead>
+			<stand>	在深淵中感到彷徨的時候.. 想起了	</stand>
+			<stand>	許下的誓約!	</stand>
+			<stand>	說好要守護到底的誓約..	</stand>
+			<levelup>	這種程度的話，應該可以..		</levelup>
+			<levelup>	應該能夠克服!	</levelup>
+			<perfor_1>	停!	</perfor_1>
+			<perfor_2>	為白騎士團的榮譽!!	</perfor_2>
+			<perfor_3>	守護到底!!	</perfor_3>
+		</full>
+
+		<so_full>
+			<feeding>	...	</feeding>
+			<danger>	要小心!!	</danger>
+			<danger>	太危險了!!!	</danger>
+			<dead>	到此為止了嗎..	</dead>
+			<stand>	在深淵中感到彷徨的時候.. 想起了	</stand>
+			<stand>	許下的誓約!	</stand>
+			<stand>	說好要守護到底的誓約..	</stand>
+			<stand>	是它促使我離開深淵的邊界	</stand>
+			<levelup>	這種程度的話，應該可以..		</levelup>
+			<levelup>	應該能夠克服!	</levelup>
+			<perfor_1>	停!	</perfor_1>
+			<perfor_2>	為白騎士團的榮譽!!	</perfor_2>
+			<perfor_3>	守護到底!!	</perfor_3>
+		</so_full>
+	</GH_WHITEKNIGHT>
+
+	<EDDGA3>
+		<hungry>
+			<feeding>	呼...好晚喔!你這傢伙!	</feeding>
+			<danger>	危險，塊陶啊!	</danger>
+			<dead>	呃啊啊~~ 老奸巨猾~	</dead>
+			<stand>	...我餓了，給我吃的~	</stand>
+			<levelup>	哎喲~?	</levelup>
+			<perfor_1>	(箱子!!?!! 我忍不住了!)	</perfor_1>
+			<perfor_2>	嗯! 嗯! 嗯!!	</perfor_2>
+			<perfor_3>	zZzZzz (呼嚕呼嚕)	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	剛好餓了~	</feeding>
+			<danger>	危險，塊陶啊!	</danger>
+			<dead>	呃啊啊~~ 老奸巨猾~	</dead>
+			<stand>	...我餓了，給我吃的~	</stand>
+			<levelup>	唉呦~讓你見識一下我的厲害	</levelup>
+			<perfor_1>	(箱子!!?!! 我忍不住了!)	</perfor_1>
+			<perfor_2>	嗯! 嗯! 嗯!!	</perfor_2>
+			<perfor_3>	zZzZzz (呼嚕呼嚕)	</perfor_3>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	剛好餓了~	</feeding>
+			<danger>	危險，塊陶啊!	</danger>
+			<dead>	呃啊啊~~ 老奸巨猾~	</dead>
+			<stand>	唉~今非昔比了呢~	</stand>
+			<stand>	話說當年...	</stand>
+			<levelup>	唉呦~讓你見識一下我的厲害	</levelup>
+			<perfor_1>	(箱子!!?!! 我忍不住了!)	</perfor_1>
+			<perfor_2>	嗯! 嗯! 嗯!!	</perfor_2>
+			<perfor_3>	zZzZzz (呼嚕呼嚕)	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>	有了!	</feeding>
+			<danger>	危險，塊陶啊!	</danger>
+			<dead>	呃啊啊~~ 老奸巨猾~	</dead>
+			<stand>	唉~今非昔比了呢~	</stand>
+			<stand>	話說當年...	</stand>
+			<stand>	呃...我的腰有點痠痛	</stand>
+			<levelup>	唉呦~讓你見識一下我的厲害	</levelup>
+			<perfor_1>	(箱子!!?!! 我忍不住了!)	</perfor_1>
+			<perfor_2>	嗯! 嗯! 嗯!!	</perfor_2>
+			<perfor_3>	zZzZzz (呼嚕呼嚕)	</perfor_3>
+		</full>
+
+		<so_full>
+			<feeding>	有了!	</feeding>
+			<danger>	危險，塊陶啊!	</danger>
+			<dead>	呃啊啊~~ 老奸巨猾~	</dead>
+			<stand>	唉~今非昔比了呢~	</stand>
+			<stand>	話說當年...	</stand>
+			<stand>	呃...我的腰有點痠痛	</stand>
+			<levelup>	唉呦~讓你見識一下我的厲害	</levelup>
+			<perfor_1>	(箱子!!?!! 我忍不住了!)	</perfor_1>
+			<perfor_2>	嗯! 嗯! 嗯!!	</perfor_2>
+			<perfor_3>	zZzZzz (呼嚕呼嚕)	</perfor_3>
+		</so_full>
+	</EDDGA3>
+
+<WICKED_NYMPH>
+<hungry>
+<feeding> 晨露啊，晨露啊，我的晨露啊。</feeding>
+<feeding> 比起冰涼的飲料更喜歡晨露~ </feeding>
+<hunting> 主人啊，打怪有什麼問題嗎？我口好渴。</hunting>
+<hunting> 我會努力的...嗯~，這一切都是為了我的晨露吧？ </hunting>
+<danger> 啊啊..主人，你會死的~，我也會渴死~</danger>
+<danger> 兌換白色藥水1瓶和晨露1瓶怎麼樣？主人</danger>
+<dead> 地板好冷啊..去村落喝杯晨露吧，主人..</dead>
+<dead> ..我的主人，應該會感到失落吧？都是因為我..</dead>
+<stand> 主人，晨露還有剩嗎？為什麼不給我呢？我每天都在四處尋找呢。</stand>
+<stand> 你知道北方天空的七顆星星，宛如晨露的杯子嗎?</stand>
+<connect> 哦哦，主人，你是來和我喝杯晨露的嗎？</connect>
+<connect> 主人，這裡有位口渴的仙女。</connect>
+<levelup> 主人太棒了。 </levelup>
+<levelup> 為了紀念變強，來杯晨露怎麼樣？主人，我有點累。</levelup>
+<perfor_1> ..這就是所謂的無念無想啊，主人.. </perfor_1>
+<perfor_1>我閉著眼睛都會做，在洞穴里待久了，就只能做這些事情。</perfor_1>
+<perfor_2>主人啊，你不知道翅膀的衣服也能這樣穿吧？</perfor_2>
+<perfor_2>無論多困難，腳不落地是仙女的尊嚴。</perfor_2>
+<perfor_2> ..呼，好累，稍微休息一下吧..</perfor_2>
+</hungry>
+<bit_hungry>
+<feeding> 還是主人陪我喝的晨露最棒啦 </feeding>
+<feeding>有點渴，我們的主人，眼力真好？</feeding>
+<hunting> 啊啊..贏了，贏了，我們贏了。 </hunting>
+<hunting> 先處理這個，然後休息一下，主人，我口渴了。</hunting>
+<danger>嗯..主人的體力似乎有些耗竭？</danger>
+<danger>主人，喝藥水的時候，可以留一些給我嗎？</danger>
+<dead> .....這不是你自找的嗎？嗯？ </dead>
+<dead> 趁躺著的時候，去村裡休息一下吧，吃頓豐盛的飯吧 </dead>
+<stand> 嗯.. 雲岳山的爺爺有時候也會給我點心…突然有點想念呢？</stand>
+<stand> 我為什麼不是天上的仙女而是在這裡呢？難道是因為我們主人每天給我的晨露太美味了嗎？</stand>
+<stand> ..風中飄著濕氣的時候最好了，當風吹過草葉時，那感覺。</stand>
+<connect>主人，你終於來了。</connect>
+<connect>主人，你今天好像有點晚？無論如何，很高興你來了。</connect>
+<levelup>我們的主人又成長了一步？啊啊，太棒了。</levelup>
+<levelup>為了慶祝主人的成長，一起來喝一杯如何？乾杯！</levelup>
+<perfor_1> ..這就是所謂的無念無想啊，主人.. </perfor_1>
+<perfor_1>我閉著眼睛都會做，在洞穴里待久了，就只能做這些事情。</perfor_1>
+<perfor_2>主人啊，你不知道翅膀的衣服也能這樣穿吧？</perfor_2>
+<perfor_2>無論多困難，腳不落地是仙女的尊嚴。</perfor_2>
+<perfor_2> ..呼，好累，稍微休息一下吧..</perfor_2>
+</bit_hungry>
+<noting>
+<feeding>哇~！好涼快！這味道！</feeding>
+<feeding>嗯~主人，要一起喝嗎？</feeding>
+<hunting>主人，你還蠻厲害的？</hunting>
+<hunting>你在我們主人面前完全露餡了，等著被主人收拾吧。</hunting>
+<danger>主人，看起來有點危險？要不要先躲開或者恢復一下..</danger>
+<danger>無法提供幫助真是抱歉，不過也別冒太大的險，主人。</danger>
+<dead>.....我們的主人可是世界上最強的，對吧？回來後一起報仇，好嗎？</dead>
+<dead>沒人在嗎？沒有祭司嗎？這邊請求幫助！</dead>
+<stand>..清涼的樹蔭~ 微風拂過~ 一直在身邊的主人~ 嗯嗯，這就是世外桃源吧。</stand>
+<stand>我不只喜歡晨露，葡萄酒也好~ 烈酒也好~ 啊啊，如果可以喝看看龍的呼吸..</stand>
+<stand>主人，你喝過那個嗎？禾貝勒開米勒之酒..還是特力斯坦12年產？來這邊看看也不錯..</stand>
+<stand>主人，你試過嗎？聽說感冒的時候，在晨露上灑上辣椒醬，一口吃下去就會好起來？</stand> 
+<stand>..啊啊，能夠有這樣的閒情逸致都是因為遇到了主人吧？人世間真是美好。</stand>
+<connect>快來吧，主人，我是沒有特別等你啦。</connect>
+<connect>嘿~！主人！想你了！這段時間在幹嘛呢？我來猜猜看嗎？</connect>
+<levelup>為了慶祝主人的成長，一起來喝一杯如何？乾杯！</levelup>
+<levelup> 主人的升級全部都是我的功德。 </levelup>
+<perfor_1> ..這就是所謂的無念無想啊，主人.. </perfor_1>
+<perfor_1>我閉著眼睛都會做，在洞穴里待久了，就只能做這些事情。</perfor_1>
+<perfor_2>主人啊，你不知道翅膀的衣服也能這樣穿吧？</perfor_2>
+<perfor_2>無論多困難，腳不落地是仙女的尊嚴。</perfor_2>
+<perfor_2> ..呼，好累，稍微休息一下吧..</perfor_2>
+</noting>
+<full>
+<feeding>..主人啊，今天有點太多了吧？我是仙女，晨露喝太多也會醉..</feeding>
+<feeding>啊啊..雖然晨露很好，但這樣下去有點危險..</feeding>
+<hunting>看起來非常滿足，主人的實力也是一如既往的..</hunting>
+<hunting>..哈嗯..抱歉，我有點想睡了，主人..</hunting>
+<hunting>被我們主人打得滿地找牙吧，後面的皮繃緊一點。</hunting>
+<danger>啊..主人，你有危險！誰來治療一下！</danger>
+<danger>別硬撐了！先恢復體力啊！</danger>
+<dead>沒人嗎？沒有祭司嗎？這邊需要幫助！</dead>
+<dead>現在後悔也太晚了，振作點，再挑戰吧，這可不是主人的錯，別沮喪。</dead>
+<stand>嗯..去崑崙的話，有一種叫猴桃木的東西，用它的果實釀酒會是什麼味道呢？</stand>
+<stand>啊啊..端著一杯晨露看風景，這就是極樂世界吧...</stand>
+<stand>主人啊，能不能找到像[名酒百選]這樣的書？這附近有沒有厲害的酒吧？</stand>
+<stand>我為什麼不能成為仙界的一員呢..真要說…是因為犯了滔天大罪...因為偷喝了供奉用的晨露。</stand>
+<connect>主人召喚！</connect>
+<connect>今天又要去哪裡呢？我非常期待，主人。</connect>
+<levelup>我們的主人節節高升。</levelup>
+<levelup>恭喜~！要慶祝！</levelup>
+<perfor_1> ..這就是所謂的無念無想啊，主人.. </perfor_1>
+<perfor_1>我閉著眼睛都會做，在洞穴里待久了，就只能做這些事情。</perfor_1>
+<perfor_2>主人啊，你不知道翅膀的衣服也能這樣穿吧？</perfor_2>
+<perfor_2>無論多困難，腳不落地是仙女的尊嚴。</perfor_2>
+<perfor_2> ..呼，好累，稍微休息一下吧..</perfor_2>
+</full>
+<so_full>
+<feeding>主人...終於...是打算讓我...屈服於晨露之下嗎..</feeding>
+<feeding>哈啊啊..嗨呦，這太過分了太過分了太過分了啊啊啊</feeding>
+<hunting>嗯嗯..為什麼主人看起來像兩個？..噢..什麼時候學的？分身術..</hunting>
+<hunting>哇啊啊...主人真厲害，這世上主人最強大，這種氣勢甚至能突破天際~</hunting>
+<danger>.....是我眼花了嗎..主人看起來是紅色的..</danger>
+<danger>啊啊..主人要死了，要死了..</danger>
+<dead>地板涼涼的，是恢復神智的好地方吧？嗨呦。</dead>
+<dead>哈哈哈哈哈哈哈哈哈哈哈村裡的大家~！我主人在這裡躺著呢..噢..為什麼我的眼淚..</dead>
+<stand>嗚嗚....冷風吹來感覺會清醒一點..</stand>
+<stand>頭痛..晨露雖好，但居然會有這種副作用..</stand>
+<stand>什麼都好，先動起來吧，不…休息一下吧..噢..不，該怎麼辦，主人</stand>
+<connect>主人來了~！啊..真希望今天能放過自己..</connect>
+<connect>主人！先跑吧，嗯？晨露還是先別拿出來，先跑！</connect>
+<connect>今天又是仙女的召喚大成功~主人降臨！</connect>
+<levelup>是我看錯了嗎，主人召喚了一位天使？</levelup>
+<levelup>恭喜，恭喜..今天就不用恭喜了吧，算了，繼續跑吧。</levelup>
+<perfor_1> ..這就是所謂的無念無想啊，主人.. </perfor_1>
+<perfor_1>我閉著眼睛都會做，在洞穴里待久了，就只能做這些事情。</perfor_1>
+<perfor_2>主人啊，你不知道翅膀的衣服也能這樣穿吧？</perfor_2>
+<perfor_2>無論多困難，腳不落地是仙女的尊嚴。</perfor_2>
+<perfor_2> ..呼，好累，稍微休息一下吧..</perfor_2>
+</so_full>
+</WICKED_NYMPH>
+<MEDUSA>
+<hungry>
+<feeding>嘿..現在才給？</feeding>
+<feeding>我一直看你一個人在吃</feeding>
+<feeding>雖然很感激，但是按照尊卑，應該先照顧好主人吧？</feeding>
+<hunting>呼呼，還不錯吧？</hunting>
+<hunting>打倒他！</hunting>
+<hunting>不要支持那些卑微又骯髒的傢伙！</hunting>
+<hunting>能快點結束嗎？</hunting>
+<danger>這樣啊~</danger>
+<danger>這樣子是不是快要倒下了？</danger>
+<danger>竟然只有這程度？</danger>
+<dead>呼呼...只能嘆氣了。</dead>
+<dead>比我還弱...</dead>
+<dead>太弱了太弱了...</dead>
+<dead>呼呼.....</dead>
+<stand>嘿..別老是那樣盯著我看..</stand>
+<stand>今天真是無聊..</stand>
+<stand>如果沒那麼多事情，你想做什麼呢？</stand>
+<stand>在幹嘛呢？一直站在那裡。</stand>
+<connect>我正打瞌睡..</connect>
+<connect>又遲到了..</connect>
+<connect>仔細一想，你每天都遲到呢..</connect>
+<connect>換了其他寵物？感覺有點可疑..</connect>
+<levelup>好吧..總之，雖然也沒什麼區別嗯..</levelup>
+<levelup>怎麼還在升級啊？...</levelup>
+<levelup>嗯呼...現在應該會好一點了吧？</levelup>
+<perfor_1>啊呼..好愛睏..</perfor_1>
+<perfor_1>你一點都不睏嗎？</perfor_1>
+<perfor_2>為什麼這樣盯著我看？</perfor_2>
+<perfor_2>什麼？好奇我的年齡嗎？女人年齡可是秘密哦</perfor_2>
+<perfor_3>這麼一想，你好像經常盯著我看..</perfor_3>
+<perfor_3>什麼？想知道我的年齡？問女人年齡可是不禮貌的哦。</perfor_3>
+</hungry>
+<bit_hungry>
+<feeding>好晚...</feeding>
+<feeding>我的靈魂都神遊一圈了..</feeding>
+<feeding>雖然很感激，但是按照尊卑，應該先照顧好主人吧？</feeding>
+<feeding>看你這麼有誠意，這次就放過你吧。</feeding>
+<hunting>對付這種傢伙，連當我的侍從都不配。</hunting>
+<hunting>啊呵...還沒抓到嗎？</hunting>
+<hunting>嘿，你不是在看我吧？..</hunting>
+<danger>唉....</danger>
+<danger>你這麼弱，怎麼打算保護我？</danger>
+<danger>照我看，你的狀態有點危險吧？</danger>
+<dead>....無話可說。</dead>
+<dead>呼....</dead>
+<dead>要成為一個真正合格的侍從，還有很長一段路要走。</dead>
+<stand>為什麼老是以那樣的眼神盯著我？</stand>
+<stand>當女孩子在打扮時，是不是不應該這樣盯著她？</stand>
+<stand>沒聽說一直盯著我看的話，會變成石頭的故事嗎？</stand>
+<connect>好久不見。</connect>
+<connect>哎呀，這是誰呀？</connect>
+<connect>啊，你來了喔…我睡到一半。</connect>
+<connect>什麼？都快忘了你是誰了。</connect>
+<levelup>稍微變強了一點了嗎？</levelup>
+<levelup>快點成長，我相信你能走遍江湖。</levelup>
+<levelup>不錯，但還有很遠的路要走。</levelup>
+<levelup>呵呵...變得更強大了一些？</levelup>
+<perfor_1>去哪去哪...呵呵</perfor_1>
+<perfor_1>現在要去哪裡呢？</perfor_1>
+<perfor_2>其實..我迷失方向了。</perfor_2>
+<perfor_2>啊..抱歉，我剛才稍微打瞌睡。</perfor_2>
+<perfor_3>你知道為什麼人們看我一眼就會變成石頭嗎？</perfor_3>
+<perfor_3>因為他們愛上了我的容貌~</perfor_3>
+</bit_hungry>
+<noting>
+<feeding>唉呦，很有Sense喔？</feeding>
+<feeding>謝謝~最近比較關心我喔？</feeding>
+<feeding>有學會獨門絕技了嗎？呵呵..</feeding>
+<hunting>這傢伙滿是破綻，不用害怕！</hunting>
+<hunting>快打倒那傢伙，變得更強吧~</hunting>
+<hunting>呼呼..看起來不錯喔？</hunting>
+<hunting>不要太大意，否則可能會受傷。</hunting>
+<danger>看起來有點危險..</danger>
+<danger>小心點。</danger>
+<danger>別輕視對手，謹慎行事。</danger>
+<dead>這樣....</dead>
+<dead>還好嗎？</dead>
+<dead>不要太氣餒，你還可以更好的。</dead>
+<dead>我有叫你要小心，所以.. </dead>
+<stand>稍微休息一下？</stand>
+<stand>今天特別累，你呢？</stand>
+<stand>蛇女伊絲...別多看那女人一眼好嗎？</stand>
+<stand>這附近有鏡子嗎？我想看看我的臉。</stand>
+<connect>你來了~</connect>
+<connect>只要好好聽我的話就行。</connect>
+<connect>現在才來？</connect>
+<connect>應該不是為了看了其他寵物才回來的吧？</connect>
+<levelup>呼呼，總覺得心情變好了。</levelup>
+<levelup>比第一次見面時好多了呢~</levelup>
+<levelup>威風凜凜，呼呼</levelup>
+<perfor_1>呼呼~</perfor_1>
+<perfor_1>今天心情格外不錯！</perfor_1>
+<perfor_2>今天要去哪裡呢？</perfor_2>
+<perfor_2>我以前一直在家，很少出去看看外面的風景~</perfor_2>
+<perfor_3>為什麼人們喜歡那些小清新的傢伙呢？</perfor_3>
+<perfor_3>我無法理解！</perfor_3>
+</noting>
+<full>
+<feeding>呵呵，品味變好了？真不錯~</feeding>
+<feeding>謝謝~繼續多關心我哦~</feeding>
+<feeding>漸漸地讓我喜歡上你了，我的侍從~</feeding>
+<hunting>一堆破綻，沒什麼好怕的！</hunting>
+<hunting>快打倒那傢伙，變得更強吧~</hunting>
+<hunting>呼呼..看起來不錯喔？</hunting>
+<hunting>不要太大意，否則可能會受傷。</hunting>
+<danger>看起來有點危險..趕快恢復一下體力吧！</danger>
+<danger>小心點..記得小心。</danger>
+<danger>沒事吧？看起來有點危險。</danger>
+<dead>這樣....</dead>
+<dead>還好嗎？</dead>
+<dead>不要太氣餒，你還可以更好的。</dead>
+<dead>我有叫你要小心，所以.. </dead>
+<stand>稍微休息一下？</stand>
+<stand>今天特別累，你呢？</stand>
+<stand>蛇女伊絲...別多看那女人一眼好嗎？</stand>
+<stand>這附近有鏡子嗎？我想看看我的臉。</stand>
+<connect>你來了~</connect>
+<connect>只要好好聽我的話就行。</connect>
+<connect>現在才來？</connect>
+<connect>應該不是為了看了其他寵物才回來的吧？</connect>
+<levelup>呼呼，總覺得心情變好了。</levelup>
+<levelup>比第一次見面時好多了呢~</levelup>
+<levelup>威風凜凜，呼呼</levelup>
+<perfor_1>呼呼~</perfor_1>
+<perfor_1>今天心情格外不錯！</perfor_1>
+<perfor_2>今天要去哪裡呢？</perfor_2>
+<perfor_2>我以前一直在家，很少出去看看外面的風景~</perfor_2>
+<perfor_3>為什麼人們喜歡那些小清新的傢伙呢？</perfor_3>
+<perfor_3>我無法理解！</perfor_3>
+</full>
+<so_full>
+<feeding>呵呵，品味變好了？真不錯~</feeding>
+<feeding>謝謝~繼續多關心我哦~</feeding>
+<feeding>漸漸地讓我喜歡上你了，我的侍從~</feeding>
+<hunting>一堆破綻，沒什麼好怕的！</hunting>
+<hunting>快打倒那傢伙，變得更強吧~</hunting>
+<hunting>呼呼..看起來不錯喔？</hunting>
+<hunting>不要太大意，否則可能會受傷。</hunting>
+<danger>看起來有點危險..趕快恢復一下體力吧！</danger>
+<danger>小心點..記得小心。</danger>
+<danger>沒事吧？看起來有點危險。</danger>
+<dead>這樣....</dead>
+<dead>還好嗎？</dead>
+<dead>不要太氣餒，你還可以更好的。</dead>
+<dead>我有叫你要小心，所以.. </dead>
+<stand>稍微休息一下？</stand>
+<stand>今天特別累，你呢？</stand>
+<stand>蛇女伊絲...別多看那女人一眼好嗎？</stand>
+<stand>這附近有鏡子嗎？我想看看我的臉。</stand>
+<connect>你來了~</connect>
+<connect>只要好好聽我的話就行。</connect>
+<connect>現在才來？</connect>
+<connect>應該不是為了看了其他寵物才回來的吧？</connect>
+<levelup>呼呼，總覺得心情變好了。</levelup>
+<levelup>比第一次見面時好多了呢~</levelup>
+<levelup>威風凜凜，呼呼</levelup>
+<perfor_1>呼呼~</perfor_1>
+<perfor_1>今天心情格外不錯！</perfor_1>
+<perfor_2>今天要去哪裡呢？</perfor_2>
+<perfor_2>我以前一直在家，很少出去看看外面的風景~</perfor_2>
+<perfor_3>為什麼人們喜歡那些小清新的傢伙呢？</perfor_3>
+<perfor_3>我無法理解！</perfor_3>
+</so_full>
+</MEDUSA>
+
 </monster_talk_table>

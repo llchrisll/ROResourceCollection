@@ -3755,6 +3755,78 @@ signName = {mainTitle = "深邃叢林"}
 ["clock_01.rsw"] = {displayName = "鐘塔神秘地下室", notifyEnter = true, 
 signName = {subTitle = "鐘塔", mainTitle = "神秘地下室"}
 , backgroundBmp = "dungeon"}
+, 
+["bl_grass.rsw"] = {displayName = "生物圈標本環境-草原", notifyEnter = true, 
+signName = {subTitle = "霸肋門德的生物圈", mainTitle = "標本環境 - 草原"}
+, backgroundBmp = "dungeon"}
+, 
+["bl_lava.rsw"] = {displayName = "生物圈標本環境-火燄", notifyEnter = true, 
+signName = {subTitle = "霸肋門德的生物圈", mainTitle = "標本環境 - 火燄"}
+, backgroundBmp = "dungeon"}
+, 
+["bl_ice.rsw"] = {displayName = "生物圈標本環境-冰凍", notifyEnter = true, 
+signName = {subTitle = "霸肋門德的生物圈", mainTitle = "標本環境 - 冰凍"}
+, backgroundBmp = "dungeon"}
+, 
+["bl_death.rsw"] = {displayName = "生物圈標本環境-死靈", notifyEnter = true, 
+signName = {subTitle = "霸肋門德的生物圈", mainTitle = "標本環境 - 死靈"}
+, backgroundBmp = "dungeon"}
+, 
+["bl_venom.rsw"] = {displayName = "生物圈標本環境-劇毒", notifyEnter = true, 
+signName = {subTitle = "霸肋門德的生物圈", mainTitle = "標本環境 - 劇毒"}
+, backgroundBmp = "dungeon"}
+, 
+["bl_temple.rsw"] = {displayName = "生物圈標本環境-聖殿", notifyEnter = true, 
+signName = {subTitle = "霸肋門德的生物圈", mainTitle = "標本環境 - 聖殿"}
+, backgroundBmp = "dungeon"}
+, 
+["bl_soul.rsw"] = {displayName = "生物圈標本環境-靈魂", notifyEnter = true, 
+signName = {subTitle = "霸肋門德的生物圈", mainTitle = "標本環境 - 靈魂"}
+, backgroundBmp = "dungeon"}
+, 
+["prt_elib.rsw"] = {displayName = "普隆德拉東邊圖書館", notifyEnter = true, 
+signName = {subTitle = "普隆德拉東邊圖書館"}
+, backgroundBmp = "village_s1"}
+, 
+["1@vrcas.rsw"] = {displayName = "幻想叢書-利利姆宮", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-001", mainTitle = "利利姆宮"}
+, backgroundBmp = "village"}
+, 
+["1@vrev.rsw"] = {displayName = "幻想叢書-阿米希提婭秘密實驗室", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-003", mainTitle = "阿米希提婭秘密實驗室"}
+, backgroundBmp = "dungeon"}
+, 
+["1@vrgen.rsw"] = {displayName = "幻想叢書-基因學者研究所", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-004", mainTitle = "基因學者研究所"}
+, backgroundBmp = "noname"}
+, 
+["vr_bob.rsw"] = {displayName = "幻想叢書-今天的餐桌", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-006", mainTitle = "今天的餐桌"}
+, backgroundBmp = "noname"}
+, 
+["1@vrpo.rsw"] = {displayName = "幻想叢書-波利德拉", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-007", mainTitle = "波利德拉"}
+, backgroundBmp = "noname"}
+, 
+["1@vrclo.rsw"] = {displayName = "幻想叢書-明鏡修道院", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-005", mainTitle = "明鏡修道院"}
+, backgroundBmp = "noname"}
+, 
+["2@vrclo.rsw"] = {displayName = "幻想叢書-每一個瞬間", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-005", mainTitle = "每一個瞬間"}
+, backgroundBmp = "noname"}
+, 
+["1@vrhha.rsw"] = {displayName = "幻想叢書-邪心獵人訓練班", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-008", mainTitle = "邪心獵人訓練班"}
+, backgroundBmp = "noname"}
+, 
+["1@vrac1.rsw"] = {displayName = "幻想叢書-學院1樓", notifyEnter = true, 
+signName = {subTitle = "幻想叢書", mainTitle = "克里圖拉學院1樓"}
+, backgroundBmp = "village"}
+, 
+["1@vrac2.rsw"] = {displayName = "幻想叢書-學院2樓", notifyEnter = true, 
+signName = {subTitle = "幻想叢書", mainTitle = "克里圖拉學院2樓"}
+, backgroundBmp = "village"}
 }
 main = function()
   -- function num : 0_0

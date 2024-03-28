@@ -7258,3 +7258,145 @@
 460066	1	0	0	0	0	0	0	0	//Fake_Alloy_Pot_LT
 490482	1	0	0	0	0	0	0	0	//Cel_Design_Pendant
 102695	1	0	0	0	1	0	0	0	//Kanahei_Scroll_TW
+
+//절망의 연결 반지 인챈트
+313050	1	0	0	0	1	0	0	0	//Life_Soul_Enchant_TW
+313051	1	0	0	0	1	0	0	0	//Birth_Death_Enchant_TW
+313052	1	0	0	0	1	0	0	0	//Soul_Heal_Enchant_TW
+313053	1	0	0	0	1	0	0	0	//Make_World_Enchant_TW
+313054	1	0	0	0	1	0	0	0	//D_R_Wing_Enchant_TW
+313055	1	0	0	0	1	0	0	0	//D_L_Wing_Enchant_TW
+313056	1	0	0	0	1	0	0	0	//Pray_Enchant_TW
+313057	1	0	0	0	1	0	0	0	//Pray_Soul_Enchant_TW
+313058	1	0	0	0	1	0	0	0	//Loyalty_Enchant_TW
+//1월 스크롤 1
+400598	1	0	0	0	0	0	0	0	//Poenetentia_P_Crown
+102818	1	0	0	0	1	0	0	0	//24_Jan_Scroll_1_TW
+//12월 소비 이벤트
+480410	1	0	0	0	1	0	0	0	//S_G_Manteau_LT_TW
+490491	1	0	0	0	1	0	0	0	//Dictator_True_Ring
+490492	1	0	0	0	1	0	0	0	//Pure_Heart_LT_TW
+1001472	1	0	0	0	0	0	0	0	//Robot_Heart_TW
+1001473	1	0	0	0	0	0	0	0	//Special_Jawai
+1001602	1	0	0	0	0	0	0	0	//Twisted_Love_TW
+
+//24년 1월 유저 창작 아이템
+400604	1	0	0	0	1	0	0	0	//C_Ribbon_Beret_B
+//24년 1월 스크롤 2
+400603	1	0	0	0	0	0	0	0	//Poenetentia_S_Crown
+490502	1	0	0	0	0	0	0	0	//Pray_Dusk_Bell_ArcM
+102855	1	0	0	0	1	0	0	0	//24_Jan_Scroll_2_TW
+
+
+//24년 컨텐츠
+//2월
+450200	1	1	0	1	0	1	1	1	//Barmund_Flame_Armor
+450201	1	1	0	1	0	1	1	1	//Barmund_Plain_Armor
+450202	1	1	0	1	0	1	1	1	//Barmund_Death_Armor
+450203	1	1	0	1	0	1	1	1	//Barmund_Ice_Armor
+470108	1	1	0	1	0	1	1	1	//Barmund_Plain_Boots
+470109	1	1	0	1	0	1	1	1	//Barmund_Flame_Boots
+470110	1	1	0	1	0	1	1	1	//Barmund_Death_Boots
+470111	1	1	0	1	0	1	1	1	//Barmund_Ice_Boots
+480145	1	1	0	1	0	1	1	1	//Barmund_Plain_Hood
+480146	1	1	0	1	0	1	1	1	//Barmund_Flame_Hood
+480147	1	1	0	1	0	1	1	1	//Barmund_Death_Hood
+480148	1	1	0	1	0	1	1	1	//Barmund_Ice_Hood
+101759	1	1	1	1	0	1	1	1	//Plain_Rune_Box5
+101760	1	1	1	1	0	1	1	1	//Flame_Rune_Box5
+101761	1	1	1	1	0	1	1	1	//Ice_Rune_Box5
+101762	1	1	1	1	0	1	1	1	//Death_Rune_Box5
+101765	1	1	1	1	1	1	1	1	//Barmund_P_Enchant
+101766	1	1	1	1	1	1	1	1	//Barmund_D_Enchant
+101767	1	1	1	1	1	1	1	1	//Barmund_F_Enchant
+101768	1	1	1	1	1	1	1	1	//Barmund_I_Enchant
+101769	1	1	1	1	1	1	1	1	//Barmund_Plain_Reform
+101770	1	1	1	1	1	1	1	1	//Barmund_Death_Reform
+101771	1	1	1	1	1	1	1	1	//Barmund_Flame_Reform
+101772	1	1	1	1	1	1	1	1	//Barmund_Ice_Reform
+490299	1	1	0	1	0	1	1	1	//Barmund_Soul_Ring
+490300	1	1	0	1	0	1	1	1	//Barmund_Venom_Ring
+490301	1	1	0	1	0	1	1	1	//Barmund_Temple_Ring
+101912	1	1	1	1	0	1	1	1	//Temple_Rune_Box5
+101913	1	1	1	1	0	1	1	1	//Venom_Rune_Box5
+101914	1	1	1	1	0	1	1	1	//Soul_Rune_Box5
+101930	1	1	1	1	1	1	1	1	//Barmund_S_Enchant
+101931	1	1	1	1	1	1	1	1	//Barmund_V_Enchant
+101932	1	1	1	1	1	1	1	1	//Barmund_T_Enchant
+101933	1	1	1	1	1	1	1	1	//Barmund_Soul_Reform
+101934	1	1	1	1	1	1	1	1	//Barmund_Venom_Reform
+101935	1	1	1	1	1	1	1	1	//Barmund_Temple_Reform
+101936	1	1	1	1	1	1	1	1	//Barmund_S_Reform
+101937	1	1	1	1	1	1	1	1	//Barmund_V_Reform
+101938	1	1	1	1	1	1	1	1	//Barmund_T_Reform
+
+//24년 신년 이벤트
+20086	1	0	0	0	0	0	0	0	//C_DragonCintamani_Hat1
+31935	1	0	0	0	0	0	0	0	//C_Baby_Dragon_Hat
+480380	1	1	1	1	1	1	1	1	//C_NewYear_Light
+21400	1	1	1	1	0	1	1	1	//C_Bluedragon
+
+//24 2월 스크롤1
+450355	1	0	0	0	0	0	0	0	//Violent_D_S_Armor
+450356	1	0	0	0	0	0	0	0	//Abbys_L_H_Armor
+450357	1	0	0	0	0	0	0	0	//Violent_D_S_Armor_LT
+450358	1	0	0	0	0	0	0	0	//Abbys_L_H_Armor_LT
+490517	1	0	0	0	0	0	0	0	//Pray_Dusk_Bell
+102907	1	0	0	0	1	0	0	0	//24_Feb_Scroll_1_TW
+410211	1	0	0	0	0	0	1	0	//Little_Abyss_Dragon_
+
+//월실수호심-LT 인챈트
+313110	1	0	0	0	1	0	0	0	//Lunar_Eclipse_Bless
+313144	1	0	0	0	1	0	0	0	//Crecendo_Eclipse_Bless
+313145	1	0	0	0	1	0	0	0	//Half_Eclipse_Bless
+//24년 2월 스크롤2
+400625	1	0	0	0	0	0	0	0	//Poenetentia_M_Crown
+420323	1	0	0	0	1	0	0	0	//CharmOfAnywhere
+470269	1	0	0	0	0	0	0	0	//EC_Boots__LT_TW
+490525	1	0	0	0	0	0	0	0	//P_Dusk_B_Cardinal
+490526	1	0	0	0	0	0	0	0	//Emerald_Ring_LT
+490527	1	0	0	0	0	0	0	0	//Emerald_Earring_LT_TW
+102961	1	0	0	0	1	0	0	0	//24_Feb_Scroll_2_TW
+
+//24년 헤어 뚝딱상자 2종
+102987	1	0	0	0	0	0	0	0	//MN_Hair_Box_TW
+102988	1	0	0	0	0	0	0	0	//GCM_Hair_Box_TW
+//24년 3월스크롤1
+480428	1	0	0	0	0	0	0	0	//Ultio_Cape_LT_TW
+490534	1	0	0	0	0	0	0	0	//P_Dusk_B_InQu
+490535	1	0	0	0	1	0	0	0	//HYOUSENSOU_Page
+490536	1	0	0	0	1	0	0	0	//HUUJIN_Page
+102989	1	0	0	0	1	0	0	0	//24_Mar_Scroll_1
+//3월 유저 창작대회
+480429	1	0	0	0	1	0	0	0	//C_Cat_Donut_TW
+//Mar
+101409	1	1	1	1	1	1	1	1	//Fanta_Buff_Speed
+101410	1	1	1	1	1	1	1	1	//Fanta_Buff_Aspd
+101411	1	1	1	1	1	1	1	1	//Fanta_Buff_MHP
+101412	1	1	1	1	1	1	1	1	//Fanta_Buff_MSP
+101413	1	1	1	1	1	1	1	1	//Fanta_Buff_Hit
+101414	1	1	1	1	1	1	1	1	//Fanta_Buff_DEF
+101415	1	1	1	1	1	1	1	1	//Fanta_Buff_MDEF
+101391	1	1	1	1	1	1	1	1	//VR_Books001
+101522	1	1	1	1	1	1	1	1	//F_VR_Book001
+101523	1	1	1	1	1	1	1	1	//F_VR_Book002
+101524	1	1	1	1	1	1	1	1	//F_VR_Book003
+101525	1	1	1	1	1	1	1	1	//F_VR_Book004
+101705	1	1	1	1	1	1	1	1	//F_VR_Book006
+101706	1	1	1	1	1	1	1	1	//F_VR_Book007
+101834	1	1	1	1	1	1	1	1	//F_VR_Book009
+101835	1	1	1	1	1	1	1	1	//F_VR_Book005
+101837	1	1	1	1	1	1	1	1	//F_VR_Book008
+22997	1	1	1	1	1	1	1	1	//C_Greed_Scroll
+
+//24년 3월 스크롤2
+490541	1	0	0	0	0	0	0	0	//P_Dusk_B_Sha_Cro
+490542	1	0	0	0	0	0	0	0	//Galaxy_Time_Nec
+103013	1	0	0	0	1	0	0	0	//24_Mar_Scroll_2_TW
+//Little_Golden_Wing 거래설정 변경 요청
+19742	1	1	1	1	0	1	1	1	//Little_Golden_Wing
+
+//24년 3월 유저 창작대회2
+410316	1	0	0	0	1	0	0	0	//Bear_Candy_Cart
+//24년 3월 스크롤3
+103031	1	0	0	0	1	0	0	0	//Mar_Scroll_3_TW
