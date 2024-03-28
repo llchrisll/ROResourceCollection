@@ -207,6 +207,18 @@ SourceItems = {
 , 
 {"S_Breezy_Armor", 1, 24024}
 , 
+{"S_Champion_Shoes", 1, 24025}
+, 
+{"S_Athena_Shield", 1, 24026}
+, 
+{"S_Immune_Armor", 1, 24027}
+, 
+{"S_Hard_Armor", 1, 24028}
+, 
+{"S_Critical_Armor", 1, 24030}
+, 
+{"S_Cri_Hit_Weapon", 1, 24032}
+, 
 {"S_Healing_Weapon", 1, 24033}
 , 
 {"S_Lucky_Weapon", 1, 24034}
@@ -233,9 +245,69 @@ SourceItems = {
 , 
 {"S_Athletic_Shoes", 1, 24045}
 , 
+{"S_Resist_Spell_Pendant", 1, 24046}
+, 
 {"S_Rapid_Pendant", 1, 24047}
 , 
 {"S_Caster_Pendant", 1, 24048}
+, 
+{"S_Hard_Earring", 1, 24049}
+, 
+{"S_Wise_Earring", 1, 24050}
+, 
+{"S_Athena_Earring", 1, 24051}
+, 
+{"S_Cranial_Shield", 1, 24052}
+, 
+{"S_Safeguard_Shield", 1, 24053}
+, 
+{"S_Brutal_Shield", 1, 24054}
+, 
+{"S_Gargantua_Shield", 1, 24055}
+, 
+{"S_Homers_Shield", 1, 24056}
+, 
+{"S_Dragoon_Shield", 1, 24057}
+, 
+{"S_Satanic_Shield", 1, 24058}
+, 
+{"S_Flameguard_Shield", 1, 24059}
+, 
+{"S_Requiem_Shield", 1, 24060}
+, 
+{"S_Cadi_Shield", 1, 24061}
+, 
+{"S_Bloody_Shoes", 1, 24062}
+, 
+{"S_Liberation_Shoes", 1, 24063}
+, 
+{"S_Chemical_Shoes", 1, 24064}
+, 
+{"S_Clamorous_Shoes", 1, 24065}
+, 
+{"S_Insecticide_Shoes", 1, 24066}
+, 
+{"S_Fisher_Shoes", 1, 24067}
+, 
+{"S_Seraphim_Shoes", 1, 24068}
+, 
+{"S_Beholder_Shoes", 1, 24069}
+, 
+{"S_Divine_Shoes", 1, 24070}
+, 
+{"S_Dragoon_Shoes", 1, 24071}
+, 
+{"S_Big_Armor", 1, 24072}
+, 
+{"S_Medium_Armor", 1, 24073}
+, 
+{"S_Small_Armor", 1, 24074}
+, 
+{"S_Big_Weapon", 1, 24075}
+, 
+{"S_Medium_Weapon", 1, 24076}
+, 
+{"S_Small_Weapon", 1, 24077}
 , 
 {"S_Spiritual_Weapon", 1, 24078}
 , 
@@ -300,6 +372,12 @@ SourceItems = {
 {"S_Caster_earring", 1, 24109}
 , 
 {"S_Caster_Weapon", 1, 24110}
+, 
+{"S_Spell_Flow_Shoes", 1, 24111}
+, 
+{"S_Spell_Flow_Armor", 1, 24112}
+, 
+{"S_Spell_Flow_Shield", 1, 24113}
 , 
 {"S_Greed_Armor", 1, 24114}
 , 
@@ -445,9 +523,49 @@ SourceItems = {
 , 
 {"S_Bearers_Pendent", 1, 24185}
 , 
+{"S_Basis_Armor", 1, 24186}
+, 
+{"S_Hallowed_Armor", 1, 24187}
+, 
+{"S_Saharic_Armor", 1, 24188}
+, 
+{"S_Underneath_Armor", 1, 24189}
+, 
+{"S_Flam_Armor", 1, 24190}
+, 
+{"S_Windy_Armor", 1, 24191}
+, 
+{"S_Envenom_Armor", 1, 24192}
+, 
+{"S_Damned_Armor", 1, 24193}
+, 
+{"S_Geist_Armor", 1, 24194}
+, 
+{"S_Divine_Armor", 1, 24195}
+, 
 {"S_Hasty_Shoes", 1, 24196}
 , 
 {"S_Hasty_Armor", 1, 24197}
+, 
+{"S_Basis_Shield", 1, 24198}
+, 
+{"S_Hallowed_Shield", 1, 24199}
+, 
+{"S_Saharic_Shield", 1, 24200}
+, 
+{"S_Underneath_Shield", 1, 24201}
+, 
+{"S_Flam_Shield", 1, 24202}
+, 
+{"S_Windy_Shield", 1, 24203}
+, 
+{"S_Envenom_Shield", 1, 24204}
+, 
+{"S_Damned_Shield", 1, 24205}
+, 
+{"S_Geist_Shield", 1, 24206}
+, 
+{"S_Divine_Shield", 1, 24207}
 , 
 {"S_Expert_Shoes", 1, 24208}
 , 
@@ -465,6 +583,12 @@ SourceItems = {
 , 
 {"S_Advanced_Shield", 1, 24215}
 , 
+{"S_Attack_Armor", 1, 24216}
+, 
+{"S_Blitz_Earring", 1, 24217}
+, 
+{"S_Blitz_Pendent", 1, 24218}
+, 
 {"S_ColdBolt_Armor", 1, 24219}
 , 
 {"S_FireBolt_Armor", 1, 24220}
@@ -473,13 +597,41 @@ SourceItems = {
 , 
 {"S_EarthSpike_Armor", 1, 24222}
 , 
+{"S_Enhance_Force_Weapon", 1, 24223}
+, 
 {"S_Force_Earring", 1, 24225}
 , 
 {"S_Force_Pendant", 1, 24226}
 , 
+{"S_Enhance_Spirit_Weapon", 1, 24227}
+, 
 {"S_Spirit_Earring", 1, 24229}
 , 
 {"S_Spirit_Pendant", 1, 24230}
+, 
+{"S_Blitz_Shoes", 1, 24231}
+, 
+{"S_Blitz_Shield", 1, 24232}
+, 
+{"S_Exceed_Weapon", 1, 24233}
+, 
+{"S_Titan_Earring", 1, 24234}
+, 
+{"S_Titan_Pendant", 1, 24235}
+, 
+{"S_Boned_Earring", 1, 24236}
+, 
+{"S_Boned_Pendant", 1, 24237}
+, 
+{"S_Gigantic_Earring", 1, 24238}
+, 
+{"S_Gigantic_Pendant", 1, 24239}
+, 
+{"S_Caster_Shoes", 1, 24240}
+, 
+{"S_Caster_Shield", 1, 24241}
+, 
+{"S_Caster_Armor", 1, 24242}
 , 
 {"S_Swordman_earring", 1, 24246}
 , 
@@ -645,6 +797,10 @@ SourceItems = {
 , 
 {"S2_Spirit_M_E_Weapon", 1, 24329}
 , 
+{"S_Critical_Shield", 1, 24332}
+, 
+{"S_Critical_Shoes", 1, 24333}
+, 
 {"S_MagicCompose_Armor", 1, 24334}
 , 
 {"S2_Gemstone_Weapon", 1, 24335}
@@ -654,6 +810,10 @@ SourceItems = {
 {"S_AllMighty_Earring", 1, 24339}
 , 
 {"S_AllMighty_Pendant", 1, 24340}
+, 
+{"S_Blitz_Weapon", 1, 24343}
+, 
+{"S_Blitz_Armor", 1, 24344}
 , 
 {"S_Tempest_Shield", 1, 24345}
 , 
@@ -701,6 +861,16 @@ SourceItems = {
 , 
 {"S_Healing_Shoes", 1, 24367}
 , 
+{"S_Restore_Earring", 1, 24368}
+, 
+{"S_Restore_Pendent", 1, 24369}
+, 
+{"S_MortalBlow_Weapon", 1, 24370}
+, 
+{"S_MortalBlow_Earring", 1, 24371}
+, 
+{"S_MortalBlow_Pendent", 1, 24372}
+, 
 {"S_Penetration_Shoes", 1, 24373}
 , 
 {"S_Penetration_Shield", 1, 24374}
@@ -720,6 +890,12 @@ SourceItems = {
 {"Sentimental_Earring_S", 1, 24381}
 , 
 {"Sentimental_Pendant_S", 1, 24382}
+, 
+{"Enchanting_Weapone_S", 1, 24383}
+, 
+{"Enchanting_Earring_S", 1, 24384}
+, 
+{"Enchanting_Pendant_S", 1, 24385}
 , 
 {"S_Infinity_Weapon", 1, 24386}
 , 
@@ -834,6 +1010,14 @@ SourceItems = {
 {"S_AutoSpell_Pendant", 1, 24726}
 , 
 {"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_Durable_Weapon", 1, 24734}
+, 
+{"S_Durable_Shield", 1, 24735}
+, 
+{"S_Clever_Weapon", 1, 24736}
+, 
+{"S_Clever_Shield", 1, 24737}
 , 
 {"S_Thief_earring", 1, 28391}
 , 
@@ -2020,6 +2204,86 @@ SourceItems = {
 {"S_Physical_Shield", 1, 24394}
 }
 , NeedSource_String = "Equip. Sombrio Físico"}
+, 
+ReloadShadow_Mix = {ItemID = 101181, NeedCount = 3, NeedRefineMin = 9, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Reload_Armor", 1, 24245}
+, 
+{"S_Reload_Shoes", 1, 24243}
+, 
+{"S_Reload_Shield", 1, 24244}
+, 
+{"S2_Reload_Armor", 1, 24331}
+}
+, NeedSource_String = "Sombrios de Pós"}
+, 
+BearersShadow_Mix = {ItemID = 23249, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Bearers_Shoes", 1, 24181}
+, 
+{"S_Bearers_Armor", 1, 24180}
+, 
+{"S_Bearers_Shield", 1, 24182}
+, 
+{"S_Bearers_Earring", 1, 24184}
+, 
+{"S_Bearers_Weapon", 1, 24183}
+, 
+{"S_Bearers_Pendent", 1, 24185}
+}
+, NeedSource_String = "Sombrios Autoportantes"}
+, 
+Mammoth_Mix = {ItemID = 100621, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+}
+, NeedSource_String = "Sombrios do Mamute"}
+, 
+MajorAutoSpell_Mix = {ItemID = 100783, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_AutoSpell_Shoes", 1, 24724}
+, 
+{"S_AutoSpell_Armor", 1, 24723}
+, 
+{"S_AutoSpell_Weapon", 1, 24725}
+, 
+{"S_AutoSpell_Shield", 1, 24722}
+, 
+{"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_AutoSpell_Pendant", 1, 24726}
+}
+, NeedSource_String = "Sombrios de Autoconjuração"}
+, 
+AbsorbShadow_Mix = {ItemID = 100691, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Spiritual_Weapon", 1, 24078}
+, 
+{"S_Spiritual_Earring", 1, 24079}
+, 
+{"S_Spiritual_Pendent", 1, 24080}
+, 
+{"S2_Spiritual_Weapon", 1, 24324}
+, 
+{"S_Malicious_Armor", 1, 24081}
+, 
+{"S_Malicious_Shoes", 1, 24082}
+, 
+{"S_Malicious_Shield", 1, 24083}
+, 
+{"S2_Malicious_Armor", 1, 24325}
+}
+, NeedSource_String = "Sombrio de Conversão"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

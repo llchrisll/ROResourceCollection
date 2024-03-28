@@ -3495,6 +3495,10 @@ signName = {mainTitle = "PvP Morroc"}
 ["pvp_2vs2.rsw"] = {displayName = "PvP : Colisseu", notifyEnter = true, 
 signName = {mainTitle = "PvP Colisseu"}
 , backgroundBmp = "noname_s2"}
+, 
+["1@vrsn.rsw"] = {displayName = "Base Secreta do Dr. Eggman", notifyEnter = true, 
+signName = {subTitle = "Livros Fantásticos - Sonic", mainTitle = "Base Secreta"}
+, backgroundBmp = "noname"}
 }
 main = function()
   -- function num : 0_0

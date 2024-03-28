@@ -917,6 +917,18 @@ TargetItems = {
 , 
 {"S_Breezy_Armor", 24024}
 , 
+{"S_Champion_Shoes", 24025}
+, 
+{"S_Athena_Shield", 24026}
+, 
+{"S_Immune_Armor", 24027}
+, 
+{"S_Hard_Armor", 24028}
+, 
+{"S_Critical_Armor", 24030}
+, 
+{"S_Cri_Hit_Weapon", 24032}
+, 
 {"S_Healing_Weapon", 24033}
 , 
 {"S_Lucky_Weapon", 24034}
@@ -943,9 +955,69 @@ TargetItems = {
 , 
 {"S_Athletic_Shoes", 24045}
 , 
+{"S_Resist_Spell_Pendant", 24046}
+, 
 {"S_Rapid_Pendant", 24047}
 , 
 {"S_Caster_Pendant", 24048}
+, 
+{"S_Hard_Earring", 24049}
+, 
+{"S_Wise_Earring", 24050}
+, 
+{"S_Athena_Earring", 24051}
+, 
+{"S_Cranial_Shield", 24052}
+, 
+{"S_Safeguard_Shield", 24053}
+, 
+{"S_Brutal_Shield", 24054}
+, 
+{"S_Gargantua_Shield", 24055}
+, 
+{"S_Homers_Shield", 24056}
+, 
+{"S_Dragoon_Shield", 24057}
+, 
+{"S_Satanic_Shield", 24058}
+, 
+{"S_Flameguard_Shield", 24059}
+, 
+{"S_Requiem_Shield", 24060}
+, 
+{"S_Cadi_Shield", 24061}
+, 
+{"S_Bloody_Shoes", 24062}
+, 
+{"S_Liberation_Shoes", 24063}
+, 
+{"S_Chemical_Shoes", 24064}
+, 
+{"S_Clamorous_Shoes", 24065}
+, 
+{"S_Insecticide_Shoes", 24066}
+, 
+{"S_Fisher_Shoes", 24067}
+, 
+{"S_Seraphim_Shoes", 24068}
+, 
+{"S_Beholder_Shoes", 24069}
+, 
+{"S_Divine_Shoes", 24070}
+, 
+{"S_Dragoon_Shoes", 24071}
+, 
+{"S_Big_Armor", 24072}
+, 
+{"S_Medium_Armor", 24073}
+, 
+{"S_Small_Armor", 24074}
+, 
+{"S_Big_Weapon", 24075}
+, 
+{"S_Medium_Weapon", 24076}
+, 
+{"S_Small_Weapon", 24077}
 , 
 {"S_Spiritual_Weapon", 24078}
 , 
@@ -1012,6 +1084,12 @@ TargetItems = {
 {"S_Caster_earring", 24109}
 , 
 {"S_Caster_Weapon", 24110}
+, 
+{"S_Spell_Flow_Shoes", 24111}
+, 
+{"S_Spell_Flow_Armor", 24112}
+, 
+{"S_Spell_Flow_Shield", 24113}
 , 
 {"S_Greed_Armor", 24114}
 , 
@@ -1157,9 +1235,49 @@ TargetItems = {
 , 
 {"S_Bearers_Pendent", 24185}
 , 
+{"S_Basis_Armor", 24186}
+, 
+{"S_Hallowed_Armor", 24187}
+, 
+{"S_Saharic_Armor", 24188}
+, 
+{"S_Underneath_Armor", 24189}
+, 
+{"S_Flam_Armor", 24190}
+, 
+{"S_Windy_Armor", 24191}
+, 
+{"S_Envenom_Armor", 24192}
+, 
+{"S_Damned_Armor", 24193}
+, 
+{"S_Geist_Armor", 24194}
+, 
+{"S_Divine_Armor", 24195}
+, 
 {"S_Hasty_Shoes", 24196}
 , 
 {"S_Hasty_Armor", 24197}
+, 
+{"S_Basis_Shield", 24198}
+, 
+{"S_Hallowed_Shield", 24199}
+, 
+{"S_Saharic_Shield", 24200}
+, 
+{"S_Underneath_Shield", 24201}
+, 
+{"S_Flam_Shield", 24202}
+, 
+{"S_Windy_Shield", 24203}
+, 
+{"S_Envenom_Shield", 24204}
+, 
+{"S_Damned_Shield", 24205}
+, 
+{"S_Geist_Shield", 24206}
+, 
+{"S_Divine_Shield", 24207}
 , 
 {"S_Expert_Shoes", 24208}
 , 
@@ -1177,6 +1295,12 @@ TargetItems = {
 , 
 {"S_Advanced_Shield", 24215}
 , 
+{"S_Attack_Armor", 24216}
+, 
+{"S_Blitz_Earring", 24217}
+, 
+{"S_Blitz_Pendent", 24218}
+, 
 {"S_ColdBolt_Armor", 24219}
 , 
 {"S_FireBolt_Armor", 24220}
@@ -1185,13 +1309,41 @@ TargetItems = {
 , 
 {"S_EarthSpike_Armor", 24222}
 , 
+{"S_Enhance_Force_Weapon", 24223}
+, 
 {"S_Force_Earring", 24225}
 , 
 {"S_Force_Pendant", 24226}
 , 
+{"S_Enhance_Spirit_Weapon", 24227}
+, 
 {"S_Spirit_Earring", 24229}
 , 
 {"S_Spirit_Pendant", 24230}
+, 
+{"S_Blitz_Shoes", 24231}
+, 
+{"S_Blitz_Shield", 24232}
+, 
+{"S_Exceed_Weapon", 24233}
+, 
+{"S_Titan_Earring", 24234}
+, 
+{"S_Titan_Pendant", 24235}
+, 
+{"S_Boned_Earring", 24236}
+, 
+{"S_Boned_Pendant", 24237}
+, 
+{"S_Gigantic_Earring", 24238}
+, 
+{"S_Gigantic_Pendant", 24239}
+, 
+{"S_Caster_Shoes", 24240}
+, 
+{"S_Caster_Shield", 24241}
+, 
+{"S_Caster_Armor", 24242}
 , 
 {"S_Swordman_earring", 24246}
 , 
@@ -1357,6 +1509,10 @@ TargetItems = {
 , 
 {"S2_Spirit_M_E_Weapon", 24329}
 , 
+{"S_Critical_Shield", 24332}
+, 
+{"S_Critical_Shoes", 24333}
+, 
 {"S_MagicCompose_Armor", 24334}
 , 
 {"S2_Gemstone_Weapon", 24335}
@@ -1366,6 +1522,10 @@ TargetItems = {
 {"S_AllMighty_Earring", 24339}
 , 
 {"S_AllMighty_Pendant", 24340}
+, 
+{"S_Blitz_Weapon", 24343}
+, 
+{"S_Blitz_Armor", 24344}
 , 
 {"S_Tempest_Shield", 24345}
 , 
@@ -1397,6 +1557,16 @@ TargetItems = {
 , 
 {"S_Healing_Shoes", 24367}
 , 
+{"S_Restore_Earring", 24368}
+, 
+{"S_Restore_Pendent", 24369}
+, 
+{"S_MortalBlow_Weapon", 24370}
+, 
+{"S_MortalBlow_Earring", 24371}
+, 
+{"S_MortalBlow_Pendent", 24372}
+, 
 {"S_Penetration_Shoes", 24373}
 , 
 {"S_Penetration_Shield", 24374}
@@ -1416,6 +1586,12 @@ TargetItems = {
 {"Sentimental_Earring_S", 24381}
 , 
 {"Sentimental_Pendant_S", 24382}
+, 
+{"Enchanting_Weapone_S", 24383}
+, 
+{"Enchanting_Earring_S", 24384}
+, 
+{"Enchanting_Pendant_S", 24385}
 , 
 {"S_Tempest_Weapon", 24423}
 , 
@@ -1546,6 +1722,14 @@ TargetItems = {
 {"S_AutoSpell_Pendant", 24726}
 , 
 {"S_AutoSpell_Earring", 24727}
+, 
+{"S_Durable_Weapon", 24734}
+, 
+{"S_Durable_Shield", 24735}
+, 
+{"S_Clever_Weapon", 24736}
+, 
+{"S_Clever_Shield", 24737}
 , 
 {"S_Thief_earring", 28391}
 , 
@@ -5910,6 +6094,54 @@ TargetItems = {
 {"Ancient_Gold_Deco", 18570}
 }
 , NeedSource_String = "Armas Biológicas"}
+, 
+Charleston_Parts_W = {ItemID = 23706, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Pilebuncker", 1549}
+, 
+{"Pilebuncker_S", 16030}
+, 
+{"Pilebuncker_T", 16032}
+, 
+{"Pilebuncker_P", 16031}
+, 
+{"Robot\'s_Arm", 16033}
+, 
+{"Tornado_Axe", 28101}
+, 
+{"Giant_Blade", 21011}
+}
+, NeedSource_String = "Corporal"}
+, 
+Charleston_Parts_R = {ItemID = 23707, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Pilebuncker", 1549}
+, 
+{"Pilebuncker_S", 16030}
+, 
+{"Pilebuncker_T", 16032}
+, 
+{"Pilebuncker_P", 16031}
+, 
+{"Robot\'s_Arm", 16033}
+, 
+{"Tornado_Axe", 28101}
+, 
+{"Giant_Blade", 21011}
+}
+, NeedSource_String = "Certeiro"}
+, 
+Loki_Coin_4 = {ItemID = 102676, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Gambler_Seal_KR_", 410233}
+}
+, NeedSource_String = "Selo de Loki"}
+, 
+Loki_Advice_4 = {ItemID = 102677, NeedRefineMin = 0, NeedRefineMax = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Clover_Ace_Defense", 420269}
+}
+, NeedSource_String = "Selo de Bastões"}
 }
 , serverMain = function()
   -- function num : 0_0

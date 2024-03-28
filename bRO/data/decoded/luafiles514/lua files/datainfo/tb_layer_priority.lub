@@ -77,6 +77,10 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Wave] = {Default = 102, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Long_Wave_BD] = {Default = 102, 
 Direction = {}
 }
@@ -133,6 +137,38 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_BG] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_YL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_CB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_LB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_LPP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_JBL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_WH] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GCM_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_SV] = {Default = 102, 
 Direction = {}
 }
@@ -142,6 +178,26 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_SR_Hair_PK] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Sweet_Corone] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair_LPP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Temari_Candy_Hair] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_GC_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Cat_Straight_Long_WH] = {Default = 102, 
 Direction = {}
 }
 , 

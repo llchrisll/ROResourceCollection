@@ -9315,4 +9315,108 @@ Por favor?</dead>
 			<perfor_s>Caos!!!! O caos est?chegando!!!!!	</perfor_s>
 		</so_full>		
 	</skelion>
+
+	<VR_CHAO>				
+	<hungry>			
+		<feeding>	Chao com fome~	</feeding>
+		<feeding>	ChaoChao! Chao. 	</feeding>
+		<hunting>	Chao, Chao~ (Me alimente~)	</hunting>
+		<hunting>	ChaoChao~. (Quero comer.)	</hunting>
+		<danger>	É perigoso!! Chao!	</danger>
+		<danger>	ChaoChao... Sem noção!!	</danger>
+		<dead>	Chao morreu~?	</dead>
+		<dead>	Chao... TT.TT	</dead>
+		<stand>	O clima Chao está muito bom~	</stand>
+		<stand>	Chao Chao entediado?	</stand>
+		<connect>	Chao voltou!	</connect>
+		<connect>	Chao~! ChaoChao.	</connect>
+		<levelup>	Chao está mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
+		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
+		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+	</hungry>			
+	<bit_hungry>			
+		<feeding>	Chao com fome~	</feeding>
+		<feeding>	ChaoChao! Chao. 	</feeding>
+		<hunting>	Chao, Chao~ (Me alimente~)	</hunting>
+		<hunting>	ChaoChao~. (Quero comer.)	</hunting>
+		<danger>	É perigoso!! Chao!	</danger>
+		<danger>	ChaoChao... Sem noção!!	</danger>
+		<dead>	Chao morreu~?	</dead>
+		<dead>	Chao... TT.TT	</dead>
+		<stand>	O clima Chao está muito bom~	</stand>
+		<stand>	Chao Chao entediado?	</stand>
+		<connect>	Chao voltou!	</connect>
+		<connect>	Chao~! ChaoChao.	</connect>
+		<levelup>	Chao está mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
+		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
+		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+	</bit_hungry>			
+	<noting>			
+		<feeding>	Chao com fome~	</feeding>
+		<feeding>	Chao Chao agradece a comida!	</feeding>
+		<hunting>	Chao Chao~	</hunting>
+		<hunting>	Bom trabalho! Chao Chao	</hunting>
+		<danger>	É perigoso!! Chao!	</danger>
+		<danger>	Use um Chao Chao para se curar!!!	</danger>
+		<dead>	Chao triste TT.TT	</dead>
+		<dead>	Tá tudo bem, Chao Chao, vamos voltar~	</dead>
+		<stand>	Chao está com um bom pressentimento!	</stand>
+		<stand>	Chao acha que hoje vai ser um dia feliz!	</stand>
+		<connect>	Chao voltou!	</connect>
+		<connect>	Chao~! ChaoChao.	</connect>
+		<levelup>	Chao está mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
+		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
+		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+	</noting>			
+	<full>			
+		<feeding>	Chao já comeu muito!	</feeding>
+		<feeding>	Chao Chao não quer mais comida!	</feeding>
+		<hunting>	Chao Chao podia ajudar!!	</hunting>
+		<hunting>	ChaoChao... Não consegue se mover por estar cheio!	</hunting>
+		<danger>	É perigoso!! Chao!	</danger>
+		<danger>	Use um Chao Chao para se curar!!!	</danger>
+		<dead>	Chao triste TT.TT	</dead>
+		<dead>	Tá tudo bem, Chao Chao, vamos voltar~	</dead>
+		<stand>	Chao está com um bom pressentimento!	</stand>
+		<stand>	Chao acha que hoje vai ser um dia feliz!	</stand>
+		<connect>	Chao voltou!	</connect>
+		<connect>	Chao~! ChaoChao.	</connect>
+		<levelup>	Chao está mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
+		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
+		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+	</full>			
+	<so_full>			
+		<feeding>	Chao comeu demais!!!	</feeding>
+		<feeding>	Chao Chao não quer mais comida!	</feeding>
+		<hunting>	Chao Chao podia ajudar!!	</hunting>
+		<hunting>	ChaoChao... Não consegue se mover por estar cheio!	</hunting>
+		<danger>	É perigoso!! Chao!	</danger>
+		<danger>	Use um Chao Chao para se curar!!!	</danger>
+		<dead>	Chao triste TT.TT	</dead>
+		<dead>	Tá tudo bem, Chao Chao, vamos voltar~	</dead>
+		<stand>	Chao está com um bom pressentimento!	</stand>
+		<stand>	Chao acha que hoje vai ser um dia feliz!	</stand>
+		<connect>	Chao voltou!	</connect>
+		<connect>	Chao~! ChaoChao.	</connect>
+		<levelup>	Chao está mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
+		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
+		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+	</so_full>			
+	</VR_CHAO>
+
 </monster_talk_table>

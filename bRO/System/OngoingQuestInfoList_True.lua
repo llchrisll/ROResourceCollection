@@ -5298,7 +5298,7 @@ Description = {"Derrote 5 Salgueiros com a ajuda da habilidade \'Ataque Duplo\'.
 , Summary = "Derrote 5 Salgueiros "}
 , 
 [7128] = {Title = "[É] Conhecer o Deserto", 
-Description = {"Voc\234 iniciou seu treinamento com o Grupo do Éden. Procure o <NAVI>[cão falante]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> em Sograt e diga ^4d4dffA Boya \233 demais^000000."}
+Description = {"Voc\234 iniciou seu treinamento com o Grupo do Éden. Procure o <NAVI>[cão falante]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> em Sograt e diga ^4d4dffA Boya \233 incrível^000000."}
 , Summary = "Fale com Mutt"}
 , 
 [7129] = {Title = "[É] Conhecer o Deserto", 
@@ -23770,5 +23770,133 @@ Description = {"Volte a falar com <NAVI>[Krem]<INFO>aldebaran,122,112,0,101,0</I
 [17606] = {Title = "Concurso de Bonecos", IconName = "ico_ev.bmp", 
 Description = {"Agora que temos 5 Neves Brancas, precisamos pegar 10 Flores de Neve e levar para o <NAVI>[Krem]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>."}
 , Summary = "10 Flor de Neve"}
+, 
+[16215] = {Title = "Sonho Sombrio", 
+Description = {"Vamos ajudar Runane nessa aventura. Fale com <NAVI>[Mingmin]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> para iniciar a instância."}
+, Summary = "Fale com Mingmin"}
+, 
+[16216] = {Title = "Sonho Sombrio", 
+Description = {"Vamos ajudar Runane nessa aventura. Fale com <NAVI>[Mingmin]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> para iniciar a instância."}
+, Summary = "Fale com Mingmin"}
+, 
+[16217] = {Title = "[Espera] Sonho Sombrio", 
+Description = {"Essa missão pode ser repetida diariamente, fale com <NAVI>[Runane]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI> se desejar refazer a instância."}
+, Summary = "Volte amanh\227."}
+, 
+[16218] = {Title = "Sonho Sombrio", 
+Description = {"Vamos pedir ajuda de <NAVI>[Mingmin]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> no Espaço Dimensional."}
+, Summary = "Fale com Mingmin"}
+, 
+[16219] = {Title = "Sonho Sombrio", 
+Description = {""}
+, Summary = ""}
+, 
+[8401] = {Title = "Aos Pés do Rei", 
+Description = {""}
+, Summary = "Entre na instância"}
+, 
+[8402] = {Title = "[Espera] Aos Pés do Rei", 
+Description = {"Vamos voltar ao Dr. Magnatum amanh\227 para entrar na instância."}
+, Summary = "Volte amanh\227."}
+, 
+[8527] = {Title = "Compensação", 
+Description = {"Elimine 50 Roborings que estão atrapalhando o duelo. Ao final da instância, sua compensação ser\225 paga."}
+, Summary = "Elimine Roborings"}
+, 
+[8528] = {Title = "[Espera] Compensação", 
+Description = {"Essa missão pode ser repetida diariamente."}
+, Summary = "Volte amanh\227."}
+, 
+[8529] = {Title = "Aos Pés do Rei", 
+Description = {""}
+, Summary = ""}
+, 
+[8860] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Voc\234 conhece Sonic, que de repente apareceu na biblioteca. Juntamente com Sonic e Tails, derrote Eggman e recupere as Esmeraldas do Caos!"}
+, Summary = "Derrote o Dr. Eggman"}
+, 
+[8861] = {Title = "[Espera] Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Esta missão \233 diária e quando o tempo de espera expirar, voc\234 poder\225 ler o <NAVI>[Livro Fantástico]<INFO>prt_in,40,35,0,101,0</INFO></NAVI>  novamente.", "----------", "Se voc\234 tiver <ITEM>[Emblema Sonic]<INFO>1001549</INFO></ITEM>  pode refazer a missão falando com <NAVI>[Tails]<INFO>prt_in,167,92,0,101,0</INFO></NAVI>  e depois lendo o <NAVI>[Livro Fantástico]<INFO>prt_in,164,92,0,101,0</INFO></NAVI>  mais uma vez."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[8862] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Resgate os monstros"}
+, Summary = "Resgate os monstros"}
+, 
+[8863] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Embora não saiba que perigo me espera, decidi explorar a base com Sonic e Tails."}
+, Summary = "Explore a base"}
+, 
+[8864] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Vamos conversar com o Chao."}
+, Summary = "Fale com Chao"}
+, 
+[8865] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Fale com Chao."}
+, Summary = ""}
+, 
+[8866] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Fale com Chao."}
+, Summary = ""}
+, 
+[8867] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Fale com Chao."}
+, Summary = ""}
+, 
+[8868] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Fale com Chao."}
+, Summary = ""}
+, 
+[8869] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Chao parece estar bem. Vamos falar com Sonic."}
+, Summary = "Fale com Sonic"}
+, 
+[8870] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Minha aventura com Sonic, Tails e Knuckles ser\225 inesquecível! No entanto\133 Sinto que <NAVI>[alguém]<INFO>prt_in,45,51,0,101,0</INFO></NAVI>  est\225 me observando."}
+, Summary = "Fale com o Bibliotecário"}
+, 
+[8871] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Um <NAVI>[Livro Fantástico]<INFO>prt_in,40,35,0,101,0</INFO></NAVI>  foi colocado na biblioteca leste de Prontera por tempo limitado."}
+, Summary = "Fale com Sonic"}
+, 
+[8872] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Se Eggman manipular um monstro, basta destruir o dispositivo de lavagem cerebral equipado. O que ser\225 que ele quer com isso...?"}
+, Summary = "Siga pelos Canos"}
+, 
+[8873] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Metal Sonic est\225 bloqueando o caminho! Vamos derrotar o Metal Sonic e passar para a próxima área!"}
+, Summary = "Elimine Metal Sonic"}
+, 
+[8874] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"O que espera por voc\234 depois de derrotar Metal Sonic... ?"}
+, Summary = "Siga pelos Canos"}
+, 
+[8875] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Sonic não disse antes que Knuckles era seu amigo?"}
+, Summary = "Elimine Knuckles"}
+, 
+[8876] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Se Eggman manipular um monstro, basta destruir o dispositivo de lavagem cerebral equipado."}
+, Summary = "Siga pelos Canos"}
+, 
+[8877] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Se Eggman manipular um monstro, basta destruir o dispositivo de lavagem cerebral equipado."}
+, Summary = "Siga pelos Canos"}
+, 
+[8878] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Derrote Eggman e recupere as Esmeraldas do Caos!"}
+, Summary = "Elimine Eggman"}
+, 
+[8879] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Dr. Eggman escapou! Encontre-o!!"}
+, Summary = "Siga pelos Canos"}
+, 
+[8880] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Derrote Eggman e recupere as Esmeraldas do Caos!"}
+, Summary = "Elimine Eggman"}
+, 
+[8881] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
+Description = {"Esta missão \233 diária e quando o tempo de espera expirar, voc\234 poder\225 ler o <NAVI>[Livro Fantástico]<INFO>prt_in,40,35,0,101,0</INFO></NAVI>  novamente."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
 }
 

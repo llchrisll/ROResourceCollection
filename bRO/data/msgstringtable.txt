@@ -3004,7 +3004,7 @@ Troca indisponível enquanto vende itens.#
 Troca indiponível enquanto fala com NPC.#
 #
 #
-#
+A habilidade requer um mínimo de %d flechas para ser activada.#
 #
 #
 Troca indisponível por falta de equipamentos.#
@@ -3481,7 +3481,7 @@ O evento de Logue e Ganhe não está ativo no momento.#
 #
 #
 #
-#
+O SP do parceiro é insuficiente ou a habilidade não pode ser usada.#
 Aviso sobre a remoção da sua loja#
 Olá!\r\nSua loja foi fechada antes da hora porque percebemos que ela violava a política de conduta do jogo.\r\n Se precisar se mais informações, envie um ticket.\r\nAgradecemos a compreensão.#
 #
@@ -4095,4 +4095,4 @@ Por favor, tente novamente em alguns minutos.#
 #
 #
 #
-#
+API Gráfica#

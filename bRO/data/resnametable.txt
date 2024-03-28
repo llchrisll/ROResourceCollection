@@ -1706,3 +1706,9 @@ iz_ac02_d.rsw#iz_ac02.rsw#
 1@infi.gat#1@infi.gat#
 1@infi.rsw#1@infi.rsw#
 유저인터페이스\map\1@infi.bmp#유저인터페이스\map\1@infi.bmp#
+
+// 환상총서 소닉콜라보 - Dr. 에그맨의 비밀 기지
+1@vrsn.gnd#1@vrsn.gnd#
+1@vrsn.gat#1@vrsn.gat#
+1@vrsn.rsw#1@vrsn.rsw#
+유저인터페이스\map\1@vrsn.bmp#유저인터페이스\map\1@vrsn.bmp#
