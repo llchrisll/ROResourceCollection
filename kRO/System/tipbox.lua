@@ -151,7 +151,7 @@ Page = {"몬스터를 사냥하면 ^3b488c경험치^000000를 얻을 수 있습니다.\\n몬스터에게
 [17] = {Title = "아이템", Search = 1, Image = "유저인터페이스\\tipbox\\tip00017", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"바닥에 떨어진 아이템은 마우스를 아이템에 가져간 후 ^3b488c왼쪽 클릭^000000을 하면 주울 수 있습니다.\\n주운 아이템은 ^3b488c인벤토리-소지아이템^000000에 들어가게 됩니다.\n\t\t<TIPBOX>▶인벤토리: 소지아이템<INFO>64</INFO></TIPBOX>\n\t\t<TIPBOX>▶아이템 감정<INFO>18</INFO></TIPBOX>\n\t\t<TIPBOX>▶카드<INFO>92</INFO></TIPBOX>\n\t\t<TIPBOX>▶모자 조합<INFO>9167</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"바닥에 떨어진 아이템은 마우스를 아이템에 가져간 후 ^3b488c왼쪽 클릭^000000을 하면 주울 수 있습니다.\\n주운 아이템은 ^3b488c인벤토리-소지아이템^000000에 들어가게 됩니다.\n\t\t<TIPBOX>▶인벤토리: 소지아이템<INFO>64</INFO></TIPBOX>\n\t\t<TIPBOX>▶아이템 감정<INFO>18</INFO></TIPBOX>\n\t\t<TIPBOX>▶카드<INFO>92</INFO></TIPBOX>\n\t\t<TIPBOX>▶모자 조합<INFO>9167</INFO></TIPBOX>\n\t\t<TIPBOX>▶신비의 조합서<INFO>136</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 , 
 PageEX = {
 {EffectNum = 5, Twinkle = 1, StartX = 150, StartY = 250, DistX = 0, DistY = 0, MoveTime = 0}
@@ -824,6 +824,18 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"상위 제련석으로는 5레벨 무기, 2레벨 방어구를 제련할 때 사용됩니다.\n\t\t상위 제련석은 일반 제련석과 에텔 더스트를 조합하여 제작합니다.\n\t\t\n\t\t^663399■ 아이템 조합^000000\n\t\t각 지역의 대장간에서 조합할 수 있습니다.\n\t\t▷알베르타 <NAVI>[제노폰]<INFO>alberta_in,21,63,0,100,0,0</INFO></NAVI>\n\t\t▷프론테라 <NAVI>[디트리히]<INFO>prt_in,63,69,0,100,0,0</INFO></NAVI>\n\t\t▷모로크 <NAVI>[압둘라]<INFO>morocc_in,72,32,0,100,0,0</INFO></NAVI>\n\t\t▷페이욘 <NAVI>[하킴]<INFO>payon,137,178,0,100,0,0</INFO></NAVI>\n\t\t▷유노 <NAVI>[딜레잇]<INFO>yuno_in01,164,27,0,100,0,0</INFO></NAVI>\n\t\t▷아인브로크 <NAVI>[마티슈타인]<INFO>ein_in01,18,82,0,100,0,0</INFO></NAVI>\n\t\t▷리히타르젠 <NAVI>[프루일]<INFO>lhz_in02,281,24,0,100,0,0</INFO></NAVI>\n\t\t\n\t\t^663399■ 방어구(2레벨) 0~10 제련 구간^000000\n\t\t▷^i[1000331]에테르늄 조합 재료\n\t\t^i[1000322]x1, ^i[985]x1, 10,000z\n\t\t▷^i[1000333]농축 에테르늄 조합 재료\n\t\t^i[1000322]x2, ^i[7619]x1, 20,000z\n\t\t\n\t\t^663399■ 방어구(2레벨) 10~20 제련 구간^000000\n\t\t▷^i[1000370]에텔 카르늄 조합 재료\n\t\t^i[1000322]x3, ^i[6223]x1, 50,000z\n\t\t\n\t\t^663399■ 방어구(2레벨) 15~20 제련 구간^000000\n\t\t▷^i[1000371]고밀도 에텔 카르늄 조합 재료\n\t\t^i[1000322]x3, ^i[6225]x1, 50,000z\n\t\t\n\t\t^663399■ 무기(5레벨) 0~10 제련 구간^000000\n\t\t▷^i[1000332]에테르데오콘 조합 재료\n\t\t^i[1000322]x1, ^i[984]x1, 10,000z\n\t\t▷^i[1000334]농축 에테르데오콘 조합 재료\n\t\t^i[1000322]x2, ^i[7620]x1, 20,000z\n\t\t\n\t\t^663399■ 무기(5레벨) 10~20 제련 구간^000000\n\t\t▷^i[1000368]에텔 브라디움 조합 재료\n\t\t^i[1000322]x3, ^i[6224]x1, 50,000z\n\t\t\n\t\t^663399■ 무기(5레벨) 15~20 제련 구간^000000\n\t\t▷^i[1000369]고밀도 에텔 브라디움 조합 재료\n\t\t^i[1000322]x3, ^i[6226]x1, 50,000z\n\t\t\n\t\t<TIPBOX>▶제련<INFO>77</INFO></TIPBOX>\n\t\t<TIPBOX>▶제련석<INFO>78</INFO></TIPBOX>\n\t\t<TIPBOX>▶에텔 광물<INFO>114</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
+[136] = {Title = "신비의 조합서", Search = 1, Image = "유저인터페이스\\tipbox\\tip00136", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"^i[23817]\n\n\t\t유니크한 장비를 직접 제작할 수 있는 조합법들이 모여있는 묶음으로, 랜덤한 하나의 조합법을 얻을 수 있습니다.\n\t\t(ex : 보이타타 모자 조합서, 베르제브브의 왕관 조합서 등...)\n\t\t대륙 내 존재하는 다양한 보스 몬스터들을 토벌하여 얻거나, 파라마켓에서 구매도 가능합니다.\n\t\t\n\t\t▶획득처\n\t\t▷파라마켓 : <NAVI>[화란]<INFO>paramk,116,100,0,101,0</INFO></NAVI>\n\t\t▷보스 몬스터\n\t\t　오크 로드 / 아몬 라 / 아몬 라(나이트메어) / 베스퍼 / 아트로스 / 백소진 / 바포메트 / 베르제브브(변신 후) / 보이타타 / 장군 대현 / 다크 로드 / 흑사왕 / 디타르데우르스 / 도플갱어 / 드라큘라 / 드레이크 / 에드가 / 독성 강화 키메라 / 타락한 대신관 히밤 / 하티 / 지오이아 / 그룸 언더 나이트 / 황금 도둑벌레 / 여왕 스카라바 / 여왕 스카라바(나이트메어) / 이프리트 / 원령무사 / 카데스 / 키엘 D-01 / 폭풍의 기사 / 크라켄 / 타니 아가씨 / 타임홀더 / 크툴라낙스 / 무시무시한 릭 / 죽은 자의 주인 / 마야 / 거미전차 / 미스트레스 / 월야화 / 상처입은 모로크 / 오크 히어로 / 오시리스 / 파라오 / 프리오니 / 탈락자 퓨리엘 / 발키리 란드그리스 / RSX 0806 / 타오군 카 / 마검사 타나토스의 기억 / 터틀 제네럴 / 고피니츠\n\t\t\n\t\t<TIPBOX>▶아이템<INFO>17</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[137] = {Title = "휘겔 몬스터 레이싱", Search = 1, Image = "유저인터페이스\\tipbox\\tip00137", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"휴양도시 휘겔만의 몬스터 경주.\n\t\t몬스터들의 레이싱으로 자신의 운을 시험할 수 있습니다.\n\t\t\n\t\t▷입장 안내 :\n\t\t- <NAVI>[에카르 이르버드]<INFO>hugel,58,72,0,101,0</INFO></NAVI>\n\t\t- <NAVI>[에카르 이르니스]<INFO>hugel,62,69,0,101,0</INFO></NAVI>\n\t\t\n\t\t▷보상 안내 :\n\t\t- <NAVI>[신비한 메달 크레인]<INFO>hugel,64,79,0,101,0</INFO></NAVI>\n\t\t- <NAVI>[신비한 메달 크레인]<INFO>hugel,96,168,0,101,0</INFO></NAVI>\n\t\t* 신비한 메달 크레인에서는 무기,방어구의 7~13제련권이나, 실릿퐁, 섬광막대 등 희귀한 보상 획득이 가능합니다.\n\t\t\n\t\t- <NAVI>[웨인]<INFO>hugel,68,79,0,101,0</INFO></NAVI>\n\t\t* 몬스터 레이싱 협회직원인 웨인에게서는 기념품으로 레이싱캡 시리즈를 교환 받을 수 있습니다.\n\t\t\n\t\t- <NAVI>[화끈머신]<INFO>hugel,66,67,0,101,0</INFO></NAVI>\n\t\t* 화끈머신에게서 레이싱캡 시리즈의 인챈트가 가능합니다.\n\t\t\n\t\t- <NAVI>[에이펠]<INFO>ein_in01,85,208,0,101,0</INFO></NAVI>\n\t\t* 아인브로크의 에이펠이 특정한 금속을 모으고 있다는데....\n\t\t\n\t\t<TIPBOX>▶휴양도시 휘겔<INFO>4042</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
 [900] = {Title = "월드맵#map", Search = 1, Image = "유저인터페이스\\tipbox\\tip00900", 
 Imgcoord = {Position = 5, Size = 100}
 , 
@@ -893,7 +905,7 @@ Page = {"라그나로크 세계에서 모험의 무대는 크게 인간들이 중심인 땅 미드가르드 대
 [4001] = {Title = "미드가르드 대륙", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"미드가르드는 신족과 마족 그리고 인간이 서로의 신념을 위해 싸웠던 성전 이후,\n\t\t살아남은 인간들의 삶의 터전이자 중심대륙입니다.\n\t\t미드가르드 대륙의 동남부 해안선을 따라 주축이 되는 세 개의 나라가 있습니다.\n\n\t\t<TIPBOX>▶룬-미드가츠 왕국<INFO>4004</INFO></TIPBOX>\n\t\t<TIPBOX>▶슈발츠발드 공화국<INFO>4040</INFO></TIPBOX>\n\t\t<TIPBOX>▶아루나펠츠 교국<INFO>4050</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶말랑도<INFO>4031</INFO></TIPBOX>\n\t\t<TIPBOX>▶루티에<INFO>4014</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"미드가르드는 신족과 마족 그리고 인간이 서로의 신념을 위해 싸웠던 성전 이후,\n\t\t살아남은 인간들의 삶의 터전이자 중심대륙입니다.\n\t\t미드가르드 대륙의 동남부 해안선을 따라 주축이 되는 세 개의 나라가 있습니다.\n\n\t\t<TIPBOX>▶룬-미드가츠 왕국<INFO>4004</INFO></TIPBOX>\n\t\t<TIPBOX>▶슈발츠발드 공화국<INFO>4040</INFO></TIPBOX>\n\t\t<TIPBOX>▶아루나펠츠 교국<INFO>4050</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶말랑도<INFO>4031</INFO></TIPBOX>\n\t\t<TIPBOX>▶루티에<INFO>4014</INFO></TIPBOX>\n\t\t\n\t\t^663399◈미드가르드 지역 던전◈^000000\n\t\t<TIPBOX>▶바로가기◀<INFO>6151</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4002] = {Title = "차원 너머의 땅", Search = 1, Image = "", 
@@ -905,7 +917,7 @@ Page = {"봉인되어 있던 마왕 모로크가 몸을 숨기기위해 차원에 거대한 균열을 만들었
 [4003] = {Title = "로컬라이징", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"어느날 표류하던 한 항해자를 통해 발견 된 미지의 지역. 각기 다양한 문화에 충격을 받은 미드가르드 인들은 너도 나도 탐험에 뛰어드는데..\n\n\t\t<TIPBOX>▶로컬라이징: 용지성<INFO>4027</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 아마쯔<INFO>4028</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 쿤룬<INFO>4029</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 포트 말라야<INFO>4022</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 브라질리스<INFO>4023</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 아요타야<INFO>4024</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 모스코비아<INFO>4025</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 데와타<INFO>4026</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 락 릿지<INFO>4030</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶라그나로크의 세계<INFO>4000</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"어느날 표류하던 한 항해자를 통해 발견 된 미지의 지역. 각기 다양한 문화에 충격을 받은 미드가르드 인들은 너도 나도 탐험에 뛰어드는데..\n\n\t\t<TIPBOX>▶로컬라이징: 용지성<INFO>4027</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 아마쯔<INFO>4028</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 쿤룬<INFO>4029</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 포트 말라야<INFO>4022</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 브라질리스<INFO>4023</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 아요타야<INFO>4024</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 모스코비아<INFO>4025</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 데와타<INFO>4026</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징: 락 릿지<INFO>4030</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶라그나로크의 세계<INFO>4000</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4004] = {Title = "룬-미드가츠 왕국", Search = 1, Image = "유저인터페이스\\tipbox\\tip04004", 
@@ -1091,7 +1103,7 @@ Page = {"슈발츠발드의 수도이며, 세이지 캐슬과 슈바이체르빌 대학이 있어 현자의 도
 [4042] = {Title = "휴양도시 휘겔#어비스심연호수오딘신전", Search = 1, Image = "유저인터페이스\\tipbox\\tip04042", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"슈발츠발드의 북부에 위치한 작고 조용한 전원 도시 휘겔. 새로이 하늘길이 열리면서 모험과 휴식을 찾아 많은 사람들이 밀려들기 시작했습니다.\n\t\t고대의 유적지 오딘 신전과 용들이 잠들어 있는 심연의 호수로 신비함을 간직한 휘겔에서 모험에 대한 도전과 전원의 평화로움을 만끽하세요.\n\n\t\t<NAVI>[헌터길드]<INFO>hugel,209,224,0,101,0</INFO></NAVI>\n\t\t<NAVI>[무기점]<INFO>hugel,88,167,0,101,0</INFO></NAVI>\n\t\t<NAVI>[도구점]<INFO>hugel,92,163,0,101,0</INFO></NAVI>\n\t\t<NAVI>[여관]<INFO>hugel,101,77,0,101,0</INFO></NAVI>\n\t\t<NAVI>[비공정 승강장]<INFO>hugel,178,146,0,101,0</INFO></NAVI>\n\t\t<NAVI>[마을회관]<INFO>hugel,58,206,0,101,0</INFO></NAVI>\n\t\t<NAVI>[교회]<INFO>hugel,159,113,0,101,0</INFO></NAVI>\n\t\t<NAVI>[주점]<INFO>hugel,126,65,0,101,0</INFO></NAVI>\n\t\t<NAVI>[축제용품점]<INFO>hugel,95,103,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶슈발츠발드 공화국<INFO>4040</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"슈발츠발드의 북부에 위치한 작고 조용한 전원 도시 휘겔. 새로이 하늘길이 열리면서 모험과 휴식을 찾아 많은 사람들이 밀려들기 시작했습니다.\n\t\t고대의 유적지 오딘 신전과 용들이 잠들어 있는 심연의 호수로 신비함을 간직한 휘겔에서 모험에 대한 도전과 전원의 평화로움을 만끽하세요.\n\n\t\t<NAVI>[헌터길드]<INFO>hugel,209,224,0,101,0</INFO></NAVI>\n\t\t<NAVI>[무기점]<INFO>hugel,88,167,0,101,0</INFO></NAVI>\n\t\t<NAVI>[도구점]<INFO>hugel,92,163,0,101,0</INFO></NAVI>\n\t\t<NAVI>[여관]<INFO>hugel,101,77,0,101,0</INFO></NAVI>\n\t\t<NAVI>[비공정 승강장]<INFO>hugel,178,146,0,101,0</INFO></NAVI>\n\t\t<NAVI>[마을회관]<INFO>hugel,58,206,0,101,0</INFO></NAVI>\n\t\t<NAVI>[교회]<INFO>hugel,159,113,0,101,0</INFO></NAVI>\n\t\t<NAVI>[주점]<INFO>hugel,126,65,0,101,0</INFO></NAVI>\n\t\t<NAVI>[축제용품점]<INFO>hugel,95,103,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶휘겔 몬스터 레이싱<INFO>137</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶슈발츠발드 공화국<INFO>4040</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4043] = {Title = "강철도시 아인브로크", Search = 1, Image = "유저인터페이스\\tipbox\\tip04043", 
@@ -1139,13 +1151,13 @@ Page = {"베인스 남쪽 바다에 홀로 떠 있는 작은 섬. 섬의 주민들은 수도원을 짓고 안
 [4100] = {Title = "퀘스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 있습니다. 또는 전직 퀘스트를 수행하고 상위 직업으로 전직할 수도 있습니다.\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶가이드 퀘스트<INFO>4175</INFO></TIPBOX>\n\t\t<TIPBOX>▶레벨별 퀘스트<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역별 퀘스트<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징 퀘스트<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶계절 이벤트<INFO>7145</INFO></TIPBOX>\n\t\t<TIPBOX>▶명절 이벤트<INFO>7150</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상 체험 총서 VR-Books<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶시간의 정원<INFO>5004</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"모험을 하는 도중에 만나는 여러 인물로부터 의뢰나 임무를 받아 수행할 수 있습니다. 또는 전직 퀘스트를 수행하고 상위 직업으로 전직할 수도 있습니다.\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶캐릭터: 직업<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶가이드 퀘스트<INFO>4175</INFO></TIPBOX>\n\t\t<TIPBOX>▶레벨별 퀘스트<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역별 퀘스트<INFO>4141</INFO></TIPBOX>\n\t\t<TIPBOX>▶토벌 퀘스트<INFO>4193</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬라이징 퀘스트<INFO>4165</INFO></TIPBOX>\n\t\t<TIPBOX>▶메모리얼 던전<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶계절 이벤트<INFO>7145</INFO></TIPBOX>\n\t\t<TIPBOX>▶명절 이벤트<INFO>7150</INFO></TIPBOX>\n\t\t<TIPBOX>▶환상 체험 총서 VR-Books<INFO>4299</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어<INFO>4321</INFO></TIPBOX>\n\t\t<TIPBOX>▶바르문트 바이오스피어 심층<INFO>8366</INFO></TIPBOX>\n\t\t<TIPBOX>▶시간의 정원<INFO>5004</INFO></TIPBOX>\n\t\t<TIPBOX>▶전사자의 무덤<INFO>4401</INFO></TIPBOX>\n\t\t<TIPBOX>▶시계탑 미지의 지하층<INFO>4402</INFO></TIPBOX>\n\t\t<TIPBOX>▶던전<INFO>6150</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶게임 플레이 보기<INFO>1002</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4101] = {Title = "에피소드#퀘스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"커다란 줄기의 이야기를 따라 진행되는 퀘스트와 컨텐츠 모듬입니다.\n\n\t\t<TIPBOX>▶에피소드 13<INFO>4102</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 14<INFO>4103</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 15<INFO>4104</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 16<INFO>4105</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 17<INFO>4106</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 18<INFO>4216</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 19<INFO>4256</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 20<INFO>4327</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"커다란 줄기의 이야기를 따라 진행되는 퀘스트와 컨텐츠 모듬입니다.\n\n\t\t<TIPBOX>▶에피소드 13<INFO>4102</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 14<INFO>4103</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 15<INFO>4104</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 16<INFO>4105</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 17<INFO>4106</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 18<INFO>4216</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 19<INFO>4256</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 20<INFO>4327</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 21<INFO>4366</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4102] = {Title = "에피소드 13#ep", Search = 1, Image = "", 
@@ -1181,7 +1193,7 @@ Page = {"비밀 연구소를 찾아 슈발츠발드 곳곳을 조사하던 리벨리온과 비밀의 날개는 
 [4107] = {Title = "에피소드 보상#장비", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"특정 에피소드 진행시 획득할 수 있는 전용 재화로 여러가지 아이템 교환이 가능합니다.\n\n\t\t<TIPBOX>▶Ep16.1 명예의 증표 보상<INFO>4108</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 슈발츠 명예의 증표 보상<INFO>4109</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 일루시온, OS 시리즈<INFO>4110</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.2 오토매틱 시리즈<INFO>4111</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶Ep16.1 노블레스 시리즈<INFO>4112</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 임페리얼 시리즈<INFO>4113</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 그레이스 시리즈<INFO>4114</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep18 그레이 울프 시리즈<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 아둘테르 시리즈<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 비바투스 시리즈<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep19 설화 시리즈<INFO>4258</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 글레이시아 시리즈<INFO>4259</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 딤 글레이시아 시리즈<INFO>4365</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep20 글레이시아 시리즈<INFO>4329</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep20 딤 글레이시아 시리즈<INFO>4330</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"특정 에피소드 진행시 획득할 수 있는 전용 재화로 여러가지 아이템 교환이 가능합니다.\n\n\t\t<TIPBOX>▶Ep16.1 명예의 증표 보상<INFO>4108</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 슈발츠 명예의 증표 보상<INFO>4109</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 일루시온, OS 시리즈<INFO>4110</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.2 오토매틱 시리즈<INFO>4111</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶Ep16.1 노블레스 시리즈<INFO>4112</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep16.2 임페리얼 시리즈<INFO>4113</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep17.1 그레이스 시리즈<INFO>4114</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep18 그레이 울프 시리즈<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 아둘테르 시리즈<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep18 비바투스 시리즈<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep19 설화 시리즈<INFO>4258</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 글레이시아 시리즈<INFO>4259</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep19 딤 글레이시아 시리즈<INFO>4365</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep20 글레이시아 시리즈<INFO>4329</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep20 딤 글레이시아 시리즈<INFO>4330</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶Ep21 게오보르그 시리즈<INFO>4368</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶에피소드<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4108] = {Title = "Ep16.1 명예의 증표 보상#아첨독설도심", Search = 1, Image = "", 
@@ -1367,7 +1379,7 @@ Page = {"이하의 에피소드에 220레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 19 �
 [4138] = {Title = "퀘스트 레벨 230~239", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"<TIPBOX>Q 모방과 진짜 (230)<INFO>8351</INFO></TIPBOX>\n\t\t<TIPBOX>Q 자연스러운 변화 (230)<INFO>8352</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 230레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"<TIPBOX>Q 모방과 진짜 (230)<INFO>8351</INFO></TIPBOX>\n\t\t<TIPBOX>Q 자연스러운 변화 (230)<INFO>8352</INFO></TIPBOX>\n\t\t\n\t\t이하의 에피소드에 230레벨대의 퀘스트가 있습니다.\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶레벨별 퀘스트 목록<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4139] = {Title = "퀘스트 레벨 240~249", Search = 1, Image = "", 
@@ -1925,7 +1937,7 @@ Page = {"이 모든 일의 배후에는 대신관 아말과 결탁한 일루시온이 있는 것 같습니다.
 [4231] = {Title = "MD 18 기만의 별장 (170)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"대신관 유스의 여름 별장에서 이미 처치한 존재들의 형상이 여전히 목도되고 있다고 한다. 아이라는 불길한 그것이 신의 분노를 부르기 전에 모험가들의 손에 처리되길 바랍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>대신관의 별장 조사<INFO>4230</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t▷ 일반 모드\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 170 이상\n\t\t\n\t\t▷ 상급 모드\n\t\t→ <ITEM>[별장의 지하 열쇠]<INFO>1000471</INFO></ITEM>를 사용해 공략 가능\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t\n\t\t<NAVI>[아이라]<INFO>wolfvill,77,257,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4219</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"대신관 유스의 여름 별장에서 이미 처치한 존재들의 형상이 여전히 목도되고 있다고 한다. 아이라는 불길한 그것이 신의 분노를 부르기 전에 모험가들의 손에 처리되길 바랍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>대신관의 별장 조사<INFO>4230</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t▷ 일반 모드\n\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 170 이상\n\t\t\n\t\t▷ 상급 모드\n\t\t→ <ITEM>[별장의 지하 열쇠]<INFO>1000471</INFO></ITEM>를 사용해 공략 가능\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t\n\t\t<NAVI>[아이라]<INFO>wolfvill,77,257,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4219</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4232] = {Title = "Q 회색늑대 마을의 총관 (170)#퀘스트에피18", Search = 1, Image = "", 
@@ -2027,7 +2039,7 @@ Page = {"회색늑대 마을의 입구를 지키는 문지기는 시시때때로 위협하는 숲의 마물들�
 [4248] = {Title = "MD 18 성소 정화 (170)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"라헬의 신관은 불미스러운 일이 발생했던 성소에 아직도 수상한 무리가 포착되는 것 같다며, 성소를 정화해 주기를 바랍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶양 속의 늑대<INFO>4228</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 170 이상\n\t\t^663399◈퀘스트 진행용 MD입니다.^000000\n\t\t\n\t\t<NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"라헬의 신관은 불미스러운 일이 발생했던 성소에 아직도 수상한 무리가 포착되는 것 같다며, 성소를 정화해 주기를 바랍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶양 속의 늑대<INFO>4228</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 170 이상\n\t\t^663399◈퀘스트 진행용 MD입니다.^000000\n\t\t\n\t\t<NAVI>[신관]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 18 기도의 방향<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4249] = {Title = "확장 직업 상위 전직 안내", Search = 1, Image = "", 
@@ -2141,7 +2153,7 @@ Page = {"뱀의 둥지의 인간들이 자리를 비운 사이, 레이지는 그들의 거주 구역을 뒤져
 [4267] = {Title = "Q 소리없이 스며드는(200)#퀘스트에피19", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"바곳보다 한발 먼저 이스가드르에서 르간과 협력하며 입지를 다지고 있던 융케아는 나중에 합류한 바곳이 모든 혜택을 받아가는게 신경쓰입니다. 이 둘 사이를 이용하면 좋은 결과를 얻을 수 있을 것 같군요.\n\t\t\n\t\t<TIPBOX>▶단서 찾기<INFO>4266</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 200 이상^000000\n\t\t\n\t\t<NAVI>[융케아]<INFO>jor_nset,31,140,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"바곳보다 한발 먼저 이스가드르에서 르간과 협력하며 입지를 다지고 있던 융케아는 나중에 합류한 바곳이 모든 혜택을 받아가는게 신경쓰입니다. 이 둘 사이를 이용하면 좋은 결과를 얻을 수 있을 것 같군요.\n\t\t\n\t\t<TIPBOX>▶단서 찾기<INFO>4266</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 200 이상^000000\n\t\t\n\t\t<NAVI>[융케아]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4268] = {Title = "Q 퇴적되는 의심(200)#퀘스트에피19", Search = 1, Image = "", 
@@ -2321,13 +2333,13 @@ Page = {"이스가르드 얼음성의 믿음직한 독수리 순찰대. 순찰대장은 언제나 함께 할 �
 [4297] = {Title = "MD 19 시뮬레이션 융케아#200에피일일퀘", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"융케아가 변신한 몬스터 데이터를 이용해 전투 훈련을 할 수 있겠다는 판단을 한 얼음성의 연구자들은 모험가의 증언을 바탕으로 시뮬레이션 융케아의 데이터를 만들어낸다. 뱀의 둥지 한 켠에 융케아와의 전투를 그대로 재현한 훈련장이 만들어졌다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶혼란한 뱀의 둥지, 사라져버린 자들<INFO>4270</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t\n\t\t<NAVI>[아로롱]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"융케아가 변신한 몬스터 데이터를 이용해 전투 훈련을 할 수 있겠다는 판단을 한 얼음성의 연구자들은 모험가의 증언을 바탕으로 시뮬레이션 융케아의 데이터를 만들어낸다. 뱀의 둥지 한 켠에 융케아와의 전투를 그대로 재현한 훈련장이 만들어졌다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶혼란한 뱀의 둥지, 사라져버린 자들<INFO>4270</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t\n\t\t<NAVI>[아로롱]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4298] = {Title = "MD 19 비공정 파괴작전#200에피일일퀘", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"뱀의 둥지에는 일루시온이 탈취해 간 비공정이 있다. 일행과 상의 후 일루시온과 르간들이 더이상 사용하지 못하도록 파괴하기로 한다. 하지만 바르문트의 정수가 담긴 비공정은 쉽게 공략되지 않는데...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶잠입 작전 중간 보고<INFO>4265</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t^663399◈퀘스트 진행용 MD입니다.^000000\n\t\t\n\t\t<NAVI>[로프]<INFO>jor_nest,21,258,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"뱀의 둥지에는 일루시온이 탈취해 간 비공정이 있다. 일행과 상의 후 일루시온과 르간들이 더이상 사용하지 못하도록 파괴하기로 한다. 하지만 바르문트의 정수가 담긴 비공정은 쉽게 공략되지 않는데...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>▶잠입 작전 중간 보고<INFO>4265</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 200 이상\n\t\t^663399◈퀘스트 진행용 MD입니다.^000000\n\t\t\n\t\t<NAVI>[로프]<INFO>jor_nest,21,258,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶Episode 19 설화의 땅 이스가르드<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4299] = {Title = "환상 체험 총서 VR-Books#환상총서", Search = 1, Image = "유저인터페이스\\tipbox\\tip04299", 
@@ -2489,7 +2501,7 @@ Page = {"굳게 닫힌 르간들의 은신처를 찾기 위해 사방으로 애를 썼지만 입구를 찾을 
 [4333] = {Title = "Q 고대 얼음 협곡의 선주민(215)#210퀘스트에피20", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"이스가르드의 고대 얼음 협곡에는 고대 아이스윈드가 살고 있다…! 하지만 어쩐지 사납게 들려드는데...?\n\t\t\n\t\t<TIPBOX>Q 새로운 탐색지(215)<INFO>4332</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[레하르]<INFO>jor_back5,350,75,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"이스가르드의 고대 얼음 협곡에는 고대 아이스윈드가 살고 있다…! 하지만 어쩐지 사납게 달려드는데...?\n\t\t\n\t\t<TIPBOX>Q 새로운 탐색지(215)<INFO>4332</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 215 이상^000000\n\t\t\n\t\t▶<NAVI>[레하르]<INFO>jor_back5,350,75,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4334] = {Title = "Q 협곡 탐사, 냉전과 첩보의 시대(215)#210퀘스트에피20", Search = 1, Image = "", 
@@ -2651,13 +2663,13 @@ Page = {"얼음성의 치치링은 고대 얼음 협곡과 연결된 깊은 뿌리 동굴의 존재들이 동�
 [4360] = {Title = "MD 20 끈적이는 바다#Q210퀘스트에피20일퀘215", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"얼음성 귀엽둥이 꼬뽀의 비밀기지가 있는 곳, 처음 보는 친구들이 잔뜩 있으니 조심해야 한다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>Q 꼬뽀의 비밀기지(215)<INFO>4345</INFO></TIPBOX> 완료\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 215 이상\n\t\t\n\t\t◈ 연계 퀘스트\n\t\t<TIPBOX>Q 위험하다고!(215)<INFO>4362</INFO></TIPBOX>\n\t\t<TIPBOX>Q 에스카르고!(215)<INFO>4363</INFO></TIPBOX>\n\t\t\n\t\t▶<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"얼음성 귀엽둥이 꼬뽀의 비밀기지가 있는 곳, 처음 보는 친구들이 잔뜩 있으니 조심해야 한다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>Q 꼬뽀의 비밀기지(215)<INFO>4345</INFO></TIPBOX> 완료\n\t\t◈ 던전 구성\n\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 215 이상\n\t\t\n\t\t◈ 연계 퀘스트\n\t\t<TIPBOX>Q 위험하다고!(215)<INFO>4362</INFO></TIPBOX>\n\t\t<TIPBOX>Q 에스카르고!(215)<INFO>4363</INFO></TIPBOX>\n\t\t\n\t\t▶<NAVI>[라라하]<INFO>icecastle,67,218,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4361] = {Title = "MD 20 죽지 않는 자 무력화#Q210퀘스트에피20일퀘215", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"작은 가지의 둥지에서 하얗고 길쭉길쭉한 고양이의 부탁을 받아 세계수의 심상 속에 봉인된 라스간드를 만나러 간다. 죽지 않는다면 살지도 못할 정도로 괴롭혀 주는 수 밖에...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>Q 죽지 않는 자(215)<INFO>4342</INFO></TIPBOX> 완료\n\t\t◈ 던전 구성\n\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 30분\n\t\t→ 레벨 215 이상\n\t\t\n\t\t▶<NAVI>[세계수의 가지]<INFO>jor_twig,116,148,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"작은 가지의 둥지에서 하얗고 길쭉길쭉한 고양이의 부탁을 받아 세계수의 심상 속에 봉인된 라스간드를 만나러 간다. 죽지 않는다면 살지도 못할 정도로 괴롭혀 주는 수 밖에...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>Q 죽지 않는 자(215)<INFO>4342</INFO></TIPBOX> 완료\n\t\t◈ 던전 구성\n\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 30분\n\t\t→ 레벨 215 이상\n\t\t\n\t\t▶<NAVI>[세계수의 가지]<INFO>jor_twig,116,148,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 20 죽지 않는 자<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [4362] = {Title = "Q 위험하다고!(215)#210퀘스트에피20일퀘md", Search = 1, Image = "", 
@@ -2684,22 +2696,256 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"뱀신의 온기, 버려진 구덩이 던전과 MD 바곳의 실험실, 비공정 파괴작전에서 획득 가능한 무기입니다.\n\t\t<TIPBOX>▶MD 19 시뮬레이션 융케아<INFO>4297</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 19 비공정 파괴작전<INFO>4298</INFO></TIPBOX>\n\t\t\n\t\t^663399◈지원 위치^000000\n\t\t▶<NAVI>[포르르]<INFO>icas_in,188,60,0,101,0</INFO></NAVI>\n\t\t▶<NAVI>[소각용 화로]<INFO>icas_in,191,57,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈딤 글레이시아 무기 일람^000000\n\t\t<ITEM>[딤 글레이시아 소드]<INFO>500054</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 베이직 소드]<INFO>500055</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 로그나이프]<INFO>510075</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 베이직 나이프]<INFO>510076</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 액스]<INFO>520021</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 스피어]<INFO>530034</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 북]<INFO>540056</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 완드]<INFO>550089</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 강아지풀]<INFO>550090</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 너클]<INFO>560037</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 바이올린]<INFO>570032</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 휩]<INFO>580033</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 메이스]<INFO>590047</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 미케닉 메이스]<INFO>590048</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 투핸드 소드]<INFO>600030</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 카타르]<INFO>610041</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 미케닉 액스]<INFO>620019</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 스태프]<INFO>640034</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 풍마수리검]<INFO>650028</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 보우]<INFO>700059</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 리볼버]<INFO>800015</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 라이플]<INFO>810015</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 샷건]<INFO>820011</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 개틀링]<INFO>830015</INFO></ITEM>\n\t\t<ITEM>[딤 글레이시아 런처]<INFO>840010</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶에피소드 19<INFO>4256</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
+[4366] = {Title = "에피소드 21#퀘스트", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라스간드가 가진 힘의 근원을 없애기 위해, 이스가르드 인근에 발생한 균열을 이용하기로 합니다.\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep21 게오보르그 방어구<INFO>4368</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep21 영웅 동맹 상점<INFO>4369</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4367] = {Title = "Episode 21 영웅의 시대#퀘스트에피소드", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이스가르드 근처 비늘섬에 발생한 균열을 조사하러 온 닐렘과 함께, 균열을 이용해 과거의 시점으로 이동하여 현재의 라스간드가 가진 힘의 근원을 없애버리는 작전을 수행하게 된다.\n\t\t\n\t\t<TIPBOX>▶EP. 20 죽지 않는 자<INFO>4328</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶시작 퀘스트\n\t\t<TIPBOX>Q 북쪽에서 균열이 감지되었습니다.(230)<INFO>4370</INFO></TIPBOX>\n\t\t\n\t\t▶메인 퀘스트\n\t\t<TIPBOX>Q 저항군 게오보르그(230)<INFO>4371</INFO></TIPBOX>\n\t\t<TIPBOX>Q 용병단 리하르트(230)<INFO>4372</INFO></TIPBOX>\n\t\t<TIPBOX>Q 수지타산 이해타산(230)<INFO>4373</INFO></TIPBOX>\n\t\t<TIPBOX>Q 알베르타의 성실한 일꾼(230)<INFO>4374</INFO></TIPBOX>\n\t\t<TIPBOX>Q 한량 아이반 위그너(230)<INFO>4375</INFO></TIPBOX>\n\t\t<TIPBOX>Q 교단 잠입(230)<INFO>4376</INFO></TIPBOX>\n\t\t<TIPBOX>Q 정체불명의 유령선(230)<INFO>4377</INFO></TIPBOX>\n\t\t<TIPBOX>Q 검은 머리 짐승(230)<INFO>4378</INFO></TIPBOX>\n\t\t<TIPBOX>Q 거대한 뱀(230)<INFO>4379</INFO></TIPBOX>\n\t\t<TIPBOX>Q 최후의 전투(230)<INFO>4380</INFO></TIPBOX>\n\t\t<TIPBOX>Q 비밀 제단(230)<INFO>4381</INFO></TIPBOX>\n\t\t<TIPBOX>Q 멈춰버린 영웅의 시대(230)<INFO>4382</INFO></TIPBOX>\n\t\t\n\t\t▶서브 퀘스트\n\t\t<TIPBOX>Q 뢰겐부르그 형제(230)<INFO>4383</INFO></TIPBOX>\n\t\t<TIPBOX>Q 용병단이라 쓰고...(230)<INFO>4387</INFO></TIPBOX>\n\t\t\n\t\t▶일일 퀘스트\n\t\t<TIPBOX>Q 안전한 탈출로1(230)<INFO>4384</INFO></TIPBOX>\n\t\t<TIPBOX>Q 안전한 탈출로2(230)<INFO>4385</INFO></TIPBOX>\n\t\t<TIPBOX>Q 고양이 손이라도 필요해!(230)<INFO>4388</INFO></TIPBOX>\n\t\t<TIPBOX>Q 싱싱한 맛!(230)<INFO>4399</INFO></TIPBOX>\n\t\t<TIPBOX>Q 상처엔 조개껍질!(230)<INFO>4389</INFO></TIPBOX>\n\t\t<TIPBOX>Q 아이들을 위해서(230)<INFO>4390</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마무리는 깨끗하게1(230)<INFO>4391</INFO></TIPBOX>\n\t\t<TIPBOX>Q 마무리는 깨끗하게2(230)<INFO>4392</INFO></TIPBOX>\n\t\t<TIPBOX>Q 악몽에 시달리는 자들(230)<INFO>4393</INFO></TIPBOX>\n\t\t<TIPBOX>Q 냄새로 전하는 소식(230)<INFO>4394</INFO></TIPBOX>\n\t\t<TIPBOX>Q 항상 부족한 식량(230)<INFO>4395</INFO></TIPBOX>\n\t\t<TIPBOX>Q 남의 공을 모른다(230)<INFO>4396</INFO></TIPBOX>\n\t\t<TIPBOX>Q 위그너 상단의 고충(230)<INFO>4386</INFO></TIPBOX>\n\t\t<TIPBOX>MD 구 발터 호의 기억 조각(230)<INFO>4397</INFO></TIPBOX>\n\t\t<TIPBOX>MD 최후의 전투(230)<INFO>4398</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶Ep21 게오보르그 방어구<INFO>4368</INFO></TIPBOX>\n\t\t<TIPBOX>▶Ep21 영웅 동맹 상점<INFO>4369</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶에피소드 21<INFO>4366</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보기<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4368] = {Title = "Ep21 게오보르그 방어구#위그너상단교환증#에피소드", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"에피소드를 진행하면서 획득한  ^i[1001618] ^4d4dff 위그너 상단 교환증^000000으로 교환가능합니다.\n\t\t\n\t\t^663399◈상점 위치^000000\n\t\t▶<NAVI>[위그너 상단원 포포]<INFO>mbase_in,220,127,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈교환 조건^000000\n\t\t▶에피소드 21 메인 퀘스트 완료\n\t\t\n\t\t^663399◈인챈트 및 마석 교환^000000\n\t\t▶<NAVI>[로벨리아]<INFO>mbase_in,228,131,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈게오보르그 방어구 시리즈^000000\n\t\t^i[450350] <ITEM>[게오보르그 아머]<INFO>450350</INFO></ITEM>\n\t\t^i[450351] <ITEM>[게오보르그 로브]<INFO>450351</INFO></ITEM>\n\t\t^i[480415] <ITEM>[게오보르그 망토]<INFO>480415</INFO></ITEM>\n\t\t^i[480416] <ITEM>[게오보르그 머플러]<INFO>480416</INFO></ITEM>\n\t\t^i[470260] <ITEM>[게오보르그 부츠]<INFO>470260</INFO></ITEM>\n\t\t^i[470261] <ITEM>[게오보르그 슈즈]<INFO>470261</INFO></ITEM>\n\t\t^i[490510] <ITEM>[게오보르그 네클리스]<INFO>490510</INFO></ITEM>\n\t\t^i[490509] <ITEM>[게오보르그 이어링]<INFO>490509</INFO></ITEM>\n\t\t^i[490508] <ITEM>[게오보르그 글러브]<INFO>490508</INFO></ITEM>\n\t\t^i[490507] <ITEM>[게오보르그 링]<INFO>490507</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶에피소드 21<INFO>4366</INFO></TIPBOX>\n\t\t<TIPBOX>▶에피소드 보상<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4369] = {Title = "Ep21 영웅 동맹 상점", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"에피소드 21 메인 퀘스트 완료 시 이용할 수 있는 평판 상점입니다. 에피소드 21을 진행하면서 쌓은 영웅 동맹 평판이 일정 수준 이상이면 이용할 수 있는 상점 목록입니다.\n\t\t\n\t\t^663399◈상점 위치^000000\n\t\t▶<NAVI>[위그너 상단원 포포]<INFO>mbase_in,220,127,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈기본 상점 판매 상품^000000\n\t\t^i[102964] ^i[102881]\n\t\t^i[450350] ^i[450351] ^i[480415] ^i[480416] ^i[470260] \n\t\t^i[470261]^i[490510]^i[490509] ^i[490508]^i[490507]\n\t\t\n\t\t^663399◈1레벨 상점 판매 상품^000000\n\t\t^i[1000812] ^i[1000813] ^i[1000814] ^i[1001249] ^i[102869] ^i[102882]\n\t\t\n\t\t^663399◈2레벨 상점 판매 상품^000000\n\t\t^i[102883]\n\t\t\n\t\t^663399◈3레벨 상점 판매 상품^000000\n\t\t^i[410309] ^i[410310]\n\t\t\n\t\t<TIPBOX>▶에피소드 21<INFO>4366</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4370] = {Title = "Q 북쪽에서 균열이 감지되었습니다.(230)#230퀘스트에피21시작", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"얼어붙은 꼬리 남쪽 끝에 잠수 아윈 슈파파가 모험가를 기다리고 있습니다. 마침 잘 만났다며 비늘섬 조사를 같이 가자는데..\n\t\t\n\t\t<TIPBOX>▶EP. 20 죽지 않는 자<INFO>4328</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[슈파파]<INFO>jor_tail,233,41,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4371] = {Title = "Q 저항군 게오보르그(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"과거의 격전지 루나포마에서 저항군 게오보르그의 일원이 되어 요르문간드 교단을 상대하며 라스간드를 무력화할 실마리를 찾아야 합니다.\n\t\t<TIPBOX>Q 북쪽에서 균열이 감지되었습니다.(230)<INFO>4370</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[저항군 병사]<INFO>jor_mbase,52,155,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4372] = {Title = "Q 용병단 리하르트(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"게오보르그의 일원이 되기 위해 리하르트 용병단에서 훈련을 받으면 본격적으로 루나포마에서 여러가지 일을 할 수 있게 됩니다.\n\t\t\n\t\t<TIPBOX>Q 저항군 게오보르그(230)<INFO>4371</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[탄]<INFO>jor_mbase,313,106,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4373] = {Title = "Q 수지타산 이해타산(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"리하르트 용병단에서 돌아온 후 레하르는 위그너 상단으로, 닐렘은 알베르타 상단으로 배치받고 모험가는 하이네를 소개받습니다.\n\t\t\n\t\t<TIPBOX>Q 용병단 리하르트(230)<INFO>4372</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[트리스]<INFO>jor_mbase,168,200,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4374] = {Title = "Q 알베르타의 성실한 일꾼(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"어촌 알베르타에서 여러가지 물자와 해상전투를 지원해주는 발터 상단에 무언가 문제가 생긴 것 같습니다. 모험가가 할 수 있는 일은 상단에서 시키는 잡다한 일들 뿐… 당분간 주어진 일을 하며 상황을 살펴봐야합니다.\n\t\t\n\t\t<TIPBOX>Q 수지타산 이해타산(230)<INFO>4373</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[닐렘]<INFO>jor_albe,192,209,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4375] = {Title = "Q 한량 아이반 위그너(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"사라진 상선과 관련된 정보를 모으던 중, 유령선의 존재를 알게 됩니다. 유령선의 자세한 이야기를 듣기 위해 위그너 상단의 아이반을 만나야 합니다.\n\t\t\n\t\t<TIPBOX>Q 알베르타의 성실한 일꾼(230)<INFO>4374</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[아이반]<INFO>jor_mbase,233,277,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4376] = {Title = "Q 교단 잠입(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"유령선의 정보를 얻고 탈출을 원하는 인간 신도들을 직접 빼내 오기 위해 모험가 일행은 교단에 잠입하기로 합니다. 솟아오른 대지 북부에서 아이반을 만납시다.\n\t\t\n\t\t<TIPBOX>Q 한량 아이반 위그너(230)<INFO>4375</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[아이반]<INFO>jor_raise1,323,71,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4377] = {Title = "Q 정체불명의 유령선(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"드디어 유령선에 대한 실마리를 확실히 잡았습니다. 이제는 그 실체를 마주하러 갈 때가 왔습니다.\n\t\t\n\t\t<TIPBOX>Q 교단 잠입(230)<INFO>4376</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[마리스텔라 발터]<INFO>jalbe_in,68,46,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4378] = {Title = "Q 검은 머리 짐승(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"유령선의 정체를 밝혀낸 뒤 루나포마로 귀환하자, 하이네는 타블렛 수리를 빌미로 잡다한 이야기를 하기 시작하는데...\n\t\t\n\t\t<TIPBOX>Q 정체불명의 유령선(230)<INFO>4377</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[트리스]<INFO>mbase_in,92,123,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4379] = {Title = "Q 거대한 뱀(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"솟아오른 대지에서 거대한 뱀 형상의 괴물이 나타난 것 같습니다. 요르문간드 교단에서 무슨 짓을 저지르는지 확인해야 합니다.\n\t\t\n\t\t<TIPBOX>Q 검은 머리 짐승(230)<INFO>4378</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[나도요]<INFO>jor_mbase,201,192,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4380] = {Title = "Q 최후의 전투(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"거대한 뱀은 실제로 존재했습니다. 교단에서 만든 거대한 뱀이 진짜 요르문간드가 되기 전에 해치워야 합니다. 교단의 신전 깊은 곳, 비밀 장소에 거대한 뱀의 실체가 있다고 합니다.\n\t\t\n\t\t<TIPBOX>Q 거대한 뱀(230)<INFO>4379</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[장식문]<INFO>jor_raise1,128,326,0,101,0</INFO></NAVI> 안 쪽의 하이네\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4381] = {Title = "Q 비밀 제단(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"거대한 뱀과의 전투가 끝난 직후 갑자기 나타난 냐르에게 물려 가는데… 원래 목적이었던 라스간드가 가진 힘의 근원을 없애러 가야합니다.\n\t\t\n\t\t<TIPBOX>Q 최후의 전투(230)<INFO>4380</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[냐르]<INFO>luna_sf2,254,150,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4382] = {Title = "Q 멈춰버린 영웅의 시대(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라스간드가 가진 근원의 힘을 제거하는데 성공했습니다. 원래 시간으로 돌아가서 마무리를 지어야 합니다. 원래 시간대의 비늘섬으로 돌아갑시다.\n\t\t\n\t\t<TIPBOX>Q 비밀 제단(230)<INFO>4381</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[비늘섬]<INFO>jor_crk,137,138,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4383] = {Title = "Q 뢰겐부르그 형제(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"오랜 기간 헤어져 있던 형님과 단둘이 남게 된 빌헬름. 어색한 분위기를 견디다 못해 자리를 피하려고 하는데...\n\t\t\n\t\t<TIPBOX>Q 교단 잠입(230)<INFO>4376</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[빌헬름]<INFO>mbase_in,116,186,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4384] = {Title = "Q 안전한 탈출로1(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"빌헬름과 라인하르트는 탈출한 신도들이 안전하게 길을 이용할 수 있도록 솟아오른 대지 북부를 정리해달라고 합니다.\n\t\t\n\t\t<TIPBOX>Q 뢰겐부르그 형제(230)<INFO>4383</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[빌헬름]<INFO>jor_mbase,140,201,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4385] = {Title = "Q 안전한 탈출로2(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"빌헬름과 라인하르트는 탈출한 신도들이 안전하게 길을 이용할 수 있도록 솟아오른 대지 남부를 정리해달라고 합니다.\n\t\t\n\t\t<TIPBOX>Q 뢰겐부르그 형제(230)<INFO>4383</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[빌헬름]<INFO>jor_mbase,140,201,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4386] = {Title = "Q 위그너 상단의 고충(230)#230퀘스트에피21평판", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"루나포마의 보급품을 담당하고 있는 만델은 모험가에게 주요 인물들이 요구하는 보급품을 모아 오라는 부탁을 합니다. 보급품 조달을 수행할 때마다 관련한 주요인물 사이의 평판이 오릅니다.\n\t\t주요 인물 또는 세력의 평판을 달성하면 \"\"위그너 상단 교환증\"\"을 이용해 유용한 버프를 교환할 수 있습니다.\n\t\t\n\t\t<TIPBOX>Q 멈춰버린 영웅의 시대(230)<INFO>4382</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[만델]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4387] = {Title = "Q 용병단이라 쓰고...(230)#230퀘스트에피21", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"리하르트 용병단은 루나포마에서 아주 많은 일을 하고 있습니다. 상상하는 것보다 더 다양한 일을…\n\t\t\n\t\t<TIPBOX>Q 멈춰버린 영웅의 시대(230)<INFO>4382</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4388] = {Title = "Q 고양이 손이라도 필요해!(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"루나포마에는 다양한 사람들이 게오보르그에 합류하기 위해 찾아옵니다. 쓸만한 사람들을 찾아 용병단으로 보냅시다.\n\t\t\n\t\t<TIPBOX>Q 용병단이라 쓰고...(230)<INFO>4387</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4389] = {Title = "Q 상처엔 조개껍질!(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"루나포마에서 다양한 일을 하는 리하르트 용병단은 상처치료에 필요한 약재료 중 하나로 조개껍질을 필요로 하고 있습니다.\n\t\t\n\t\t<TIPBOX>Q 용병단이라 쓰고...(230)<INFO>4387</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4390] = {Title = "Q 아이들을 위해서(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"교단의 핍박을 피해 도망쳤거나, 요른빌에서 구출한 난민 중에는 어린아이들도 많습니다. 아이들을 위해 간식거리를 찾아봅시다.\n\t\t\n\t\t<TIPBOX>Q 용병단이라 쓰고...(230)<INFO>4387</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4391] = {Title = "Q 마무리는 깨끗하게1(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"대륙의 민간인을 현혹하는 요르문간드 교단의 그럴싸한 신전 기믈레 1층을 깨끗하게 청소해야 합니다.\n\t\t\n\t\t<TIPBOX>Q 용병단이라 쓰고...(230)<INFO>4387</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4392] = {Title = "Q 마무리는 깨끗하게2(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"대륙의 민간인을 현혹하는 요르문간드 교단의 그럴싸한 신전 기믈레 2층도 깨끗하게 청소합시다.\n\t\t\n\t\t<TIPBOX>Q 용병단이라 쓰고...(230)<INFO>4387</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4393] = {Title = "Q 악몽에 시달리는 자들(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"어촌 알베르타의 상담사 울스는 최근 늘어난 환자들로 몸이 세개라도 부족한 상황입니다. 그렇다고 환자를 내팽겨칠 수도 없는 일. 상담의 시작은 이야기를 들어주는 것부터! 모험가들이 환자에게 찾아가 성실하게 이야기를 들어주길 원하고 있습니다.\n\t\t\n\t\t<TIPBOX>Q 수지타산 이해타산(230)<INFO>4373</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[울스]<INFO>jor_albe,160,137,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4394] = {Title = "Q 냄새로 전하는 소식(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"요르문간드 교단 마을 요른빌에 잡혀 있는 리브라는 자신의 부탁을 들어줄 누군가를 필요로 합니다.\n\t\t\n\t\t<TIPBOX>Q 수지타산 이해타산(230)<INFO>4373</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[리브라]<INFO>jor_base,314,138,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4395] = {Title = "Q 항상 부족한 식량(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"저항군 거점 루마포마로 밀려드는 난민들로 인해 식량이 부족해지고 있습니다. 발런 웍은 여유로울 때 조금이라도 식량을 확보해둬야 한다고 생각합니다.\n\t\t\n\t\t<TIPBOX>Q 수지타산 이해타산(230)<INFO>4373</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[자원봉사자 발런 웍]<INFO>jor_mbase,213,280,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4396] = {Title = "Q 남의 공을 모른다(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이질적인 마력을 느낀 하이네는 모험가에게 정밀 테스트를 위한 재료를 모아오는 것을 부탁합니다.\n\t\t\n\t\t<TIPBOX>Q 멈춰버린 영웅의 시대(230)<INFO>4382</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[하이네의 타블렛]<INFO>mbase_in,21,168,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4397] = {Title = "MD 구 발터 호의 기억 조각(230)", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"유령선을 탐사한 뒤, 그 정체를 알아내고 사라져 가는 유령선을 배웅했다. 그런데 닐렘이 의아한 무언가를 관측했다는데?\n\t\t\n\t\t◈ 선행 조건:<TIPBOX>Q 정체불명의 유령선(230)<INFO>4377</INFO></TIPBOX> 완료\n\t\t◈ 던전 구성\n\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 60분\n\t\t→ 레벨 230 이상\n\t\t\n\t\t▶<NAVI>[닐렘]<INFO>jor_albe,195,179,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4398] = {Title = "MD 최후의 전투(230)", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"끝없이 반복되는 시간속에서 최후의 전투도 반복의 굴레를 벗어나지 못했습니다. 요르문간드 교단 기믈레 외곽의 비밀 공간에서 멈춰버린 시간 속의 마지막 전투를 지켜봅시다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>Q 멈춰버린 영웅의 시대(230)<INFO>4382</INFO></TIPBOX> 완료\n\t\t◈ 던전 구성\n\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t→ 제한 시간 30분\n\t\t→ 레벨 230 이상\n\t\t\n\t\t▶<NAVI>[장식문]<INFO>jor_raise1,128,326,0,101,0</INFO></NAVI> 안 쪽의 하이네\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4399] = {Title = "Q 싱싱한 맛!(230)#230퀘스트에피21일퀘", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"루나포마에서 다양한 일을 하는 리하르트 용병단은 상황에 따라 다양한 식재료를 필요로 합니다. 지금 필요한 싱싱한 식재료를 근처에서 찾아봅시다.\n\t\t\n\t\t<TIPBOX>Q 용병단이라 쓰고...(230)<INFO>4387</INFO></TIPBOX> 완료\n\t\t^663399◈레벨 230 이상^000000\n\t\t\n\t\t▶<NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶EP 21 영웅의 시대<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4401] = {Title = "전사자의 무덤", Search = 1, Image = "유저인터페이스\\tipbox\\tip04401", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"무수한 모험가의 실종사태를 불러온 던전, \'전사자의 무덤\'이 당신의 생존을 시험합니다.\n\t\t오노 토히로를 통해 입장할 경우, 출구가 가깝습니다.\n\t\t손 끝이 까만 아이를 통해서도 입장이 가능하나, 더 많은 재화를 요구하며 모든 회복이 가능한 머신이 근처에 있습니다. 또한, 아이를 통해 들어갈 수 있는 \'사념의 공간\'은 몬스터로부터 안전하나, 많은 재화와 아이템을 추가로 요구합니다.\n\t\t\n\t\t▷입장 안내 :\n\t\t- <NAVI>[오노 토히로]<INFO>lighthalzen,321,218,0,101,0</INFO></NAVI>\n\t\t- <NAVI>[손 끝이 까만 아이]<INFO>lighthalzen,320,204,0,101,0</INFO></NAVI>\n\t\t\n\t\t▷보상 안내 :\n\t\t- <NAVI>[불량배]<INFO>lighthalzen,312,296,0,101,0</INFO></NAVI>\n\t\t* 불량배는 다양한 종류의 에너지 파편을 모아 응축해줍니다.\n\t\t\n\t\t- <NAVI>[베테랑모험가]<INFO>lighthalzen,319,213,0,101,0</INFO></NAVI>\n\t\t* 베테랑모험가는 수많은 에너지 파편을 모아 용사의 의지, 피의 갈증, 망자의 한기로 교환해줍니다.\n\t\t\n\t\t- <NAVI>[헤매는 사념]<INFO>lhz_dun_n,134,265,0,101,0</INFO></NAVI> : 던전 내부\n\t\t- <NAVI>[헤매는 사념]<INFO>lhz_d_n2,42,49,0,101,0</INFO></NAVI> : 사념의 공간\n\t\t* 헤매는 사념은 전사자의 무덤의 투구시리즈에 인챈트를 해줍니다.\n\t\t\n\t\t- <NAVI>[침묵의 사념]<INFO>lhz_dun_n,145,265,0,101,0</INFO></NAVI> : 던전 내부\n\t\t* 침묵의 사념은 각 직업의 혼을 모아 죽음의 궤로 교환해줍니다.\n\t\t\n\t\t- <NAVI>[억울한 혼의 사념]<INFO>lhz_dun_n,143,265,0,101,0</INFO></NAVI> : 던전 내부\n\t\t- <NAVI>[억울한 혼의 사념]<INFO>lhz_d_n2,51,49,0,101,0</INFO></NAVI> : 사념의 공간\n\t\t* 억울한 혼의 사념은 전사자의 무덤의 무기를 에너지 파편으로 교환해줍니다.\n\t\t\n\t\t- <NAVI>[서글픈 혼의 사념]<INFO>lhz_dun_n,136,265,0,101,0</INFO></NAVI> : 던전 내부\n\t\t- <NAVI>[서글픈 혼의 사념]<INFO>lhz_d_n2,44,49,0,101,0</INFO></NAVI> : 사념의 공간\n\t\t* 서글픈 혼의 사념은 투구를 교환해줍니다.\n\t\t\n\t\t- <NAVI>[화끈머신]<INFO>lhz_d_n2,42,49,0,101,0</INFO></NAVI> : 사념의 공간\n\t\t* 화끈머신은 전사자의 무덤의 투구시리즈에 확정 인챈트를 해줍니다.\n\t\t\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4402] = {Title = "시계탑 미지의 지하층 (240)", Search = 1, Image = "유저인터페이스\\tipbox\\tip04402", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"시계탑 1층 안쪽 구석에서 상자 속에 들어 있는 악마가 살던 곳으로 돌아가지 못하고 도움을 구하고 있습니다.\n\t\t악마의 요구대로 근처의 거대한 태엽을 감으면 미지의 지하층으로 입장할 수 있습니다.\n\t\t\n\t\t▷입장 안내 : \n\t\t- <NAVI>[거대한 태엽]<INFO>c_tower1,244,198,0,101,0</INFO></NAVI>\n\t\t\n\t\t▷레벨 제한 : \n\t\t- Base Lv 240 이상\n\t\t\n\t\t▷퀘스트 :\n\t\t상자의 악마로부터 여러가지 퀘스트를 받을 수 있습니다.\n\t\t<NAVI>[의문의 상자]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>\n\t\t\n\t\t일일퀘스트\n\t\t- 악마의 식사 : 몬스터 100, 300, 1000마리 처치 중 택1\n\t\t- 악마의 애완 미믹 : 미지의 지하층 내부 애완 미믹과 대화\n\t\t- 악마의 간식 : 악마가 희망하는 간식 100개 조달\n\t\t\n\t\t주간 퀘스트 : \n\t\t- 악마의 특식 : 몬스터 5000마리 처치\n\t\t* 매주 월요일 오전 4시 초기화\n\t\t\n\t\t▷상점 : \n\t\t<NAVI>[의문의 상자]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>와 대화를 취소하면 랜덤한 상점 항목이 나타납니다.\n\t\t-인챈트 아이템 상점\n\t\t-무기 업그레이드 교환 상점\n\t\t<TIPBOX>-포티파이 → 솔리드 시리즈<INFO>4403</INFO></TIPBOX>\n\t\t<TIPBOX>-리랩스 → 위키드 시리즈<INFO>4404</INFO></TIPBOX>\n\t\t<TIPBOX>-스크랩 → 프리시전 시리즈<INFO>4405</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4403] = {Title = "포티파이, 솔리드 시리즈#시계탑장비무기", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"던전에서 획득한 포티파이 무기는 상자의 악마를 통해 솔리드 무기로 교환할 수 있습니다.\n\t\t<NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>\n\t\t\n\t\t▷포티파이 시리즈\n\t\t^i[600013] ^i[640013] ^i[540013] ^i[530009]\n\t\t^i[550059] ^i[510053] ^i[510054] ^i[550057]\n\t\t\n\t\t▷솔리드 시리즈\n\t\t^i[21063] ^i[640031] ^i[540041] ^i[530023]\n\t\t^i[550054] ^i[510050] ^i[500044] ^i[550055]\n\t\t\n\t\t<TIPBOX>▶시계탑 미지의 지하층 보기<INFO>4402</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4404] = {Title = "리랩스, 위키드 시리즈#시계탑장비무기", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"던전에서 획득한 리랩스 무기는 상자의 악마를 통해 위키드 무기로 교환할 수 있습니다.\n\t\t<NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>\n\t\t\n\t\t▷리랩스 시리즈\n\t\t^i[610015] ^i[590015] ^i[510026] ^i[500018]\n\t\t^i[620005] ^i[540043] ^i[550058] ^i[510055]\n\t\t\n\t\t▷위키드 시리즈\n\t\t^i[610035] ^i[590036] ^i[510051] ^i[500045]\n\t\t^i[620016] ^i[540042] ^i[550056] ^i[510052]\n\t\t\n\t\t<TIPBOX>▶시계탑 미지의 지하층 보기<INFO>4402</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4405] = {Title = "스크랩, 프리시전 시리즈#시계탑장비무기", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"던전에서 획득한 스크랩 무기는 상자의 악마를 통해 프리시전 무기로 교환할 수 있습니다.\n\t\t<NAVI>[상자의 악마]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>\n\t\t\n\t\t▷스크랩 시리즈\n\t\t^i[570012] ^i[580012] ^i[560011] ^i[700021] ^i[800010]\n\t\t^i[810006] ^i[820005] ^i[830009] ^i[840005] ^i[650020]\n\t\t\n\t\t▷프리시전 시리즈\n\t\t^i[570028] ^i[580028] ^i[560030] ^i[700050] ^i[800009]\n\t\t^i[820004] ^i[820004] ^i[830008] ^i[840004] ^i[650019]\n\t\t\n\t\t<TIPBOX>▶시계탑 미지의 지하층 보기<INFO>4402</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
 [5001] = {Title = "MD 게펜 야간 투기장(210)#게펜야간투기장대회영웅의흔적마법", Search = 1, Image = "유저인터페이스\\tipbox\\tip05001", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"마법대회에서 활약하던 싸움꾼들이 가면을 벗어두고 난투를 벌이는 장소가 있다는 첩보가 있다. 아마도 험상궂은 사내에게 물어보면 적당한 정보를 받을 수 있지 않을까?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 60분 \n\t\t\t    (다만 각 라운드의 제한시간 1분)\n\t\t\t▷ 레벨 210 이상\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[험상궂은 남자]<INFO>geffen_in,78,62,0,101,0</INFO></NAVI>\n\n\t\t던전 출입 위치\n\t\t<NAVI>[폐기된 포탈]<INFO>dali02,80,61,0,101,0</INFO></NAVI>\n\n\t\t장비 교환장소\n\t\t<NAVI>[버려진 자판기]<INFO>dali02,83,67,0,101,0</INFO></NAVI>\n\t\t\n\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"마법대회에서 활약하던 싸움꾼들이 가면을 벗어두고 난투를 벌이는 장소가 있다는 첩보가 있다. 아마도 험상궂은 사내에게 물어보면 적당한 정보를 받을 수 있지 않을까?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 공략 가능\n\t\t\t▷ 제한 시간 60분 \n\t\t\t    (다만 각 라운드의 제한시간 1분)\n\t\t\t▷ 레벨 210 이상\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[험상궂은 남자]<INFO>geffen_in,78,62,0,101,0</INFO></NAVI>\n\n\t\t던전 출입 위치\n\t\t<NAVI>[폐기된 포탈]<INFO>dali02,80,61,0,101,0</INFO></NAVI>\n\n\t\t장비 교환장소\n\t\t<NAVI>[버려진 자판기]<INFO>dali02,83,67,0,101,0</INFO></NAVI>\n\t\t\n\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [5002] = {Title = "MD 성좌의 탑(240)#성좌엔들리스베텔기우스", Search = 1, Image = "유저인터페이스\\tipbox\\tip05002", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"엔들리스 타워였던 곳에 무슨일이 벌어진 걸까요. 아무래도 새로운 주인이 그곳을 완전히 뒤집어 엎기로 작정한 모양입니다. 강력한 조력자가 없다면 가까이 가지 않는게 좋을지도 모르겠습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 240 이상\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[함장 얀센]<INFO>alberta,213,76,0,101,0</INFO></NAVI>\n\n\t\t던전 출입 위치\n\t\t<NAVI>[오스카]<INFO>e_tower,71,115,0,101,0</INFO></NAVI>\n\n\t\t장비 교환장소\n\t\t<NAVI>[OSC0007]<INFO>e_tower,77,111,0,101,0</INFO></NAVI>\n\n\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"엔들리스 타워였던 곳에 무슨일이 벌어진 걸까요. 아무래도 새로운 주인이 그곳을 완전히 뒤집어 엎기로 작정한 모양입니다. 강력한 조력자가 없다면 가까이 가지 않는게 좋을지도 모르겠습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 240 이상\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[함장 얀센]<INFO>alberta,213,76,0,101,0</INFO></NAVI>\n\n\t\t던전 출입 위치\n\t\t<NAVI>[오스카]<INFO>e_tower,71,115,0,101,0</INFO></NAVI>\n\n\t\t장비 교환장소\n\t\t<NAVI>[OSC0007]<INFO>e_tower,77,111,0,101,0</INFO></NAVI>\n\n\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [5003] = {Title = "MD 가라앉은 탑(40~249)#가라앉은탑엔들리스침식지", Search = 1, Image = "유저인터페이스\\tipbox\\tip05003", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"엔들리스 타워였던 곳은 성좌의 탑이란 이름으로 새 주인을 맞이하였습니다. 하지만 가라앉은 탑의 균열에서 반갑지 않은 손님들이 계속해서 밀려나오고 있습니다. 누군가는 이 불청객들을 맞이해야 할 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 40 ~ 249. 적정 레벨 구간별로 입장가능.\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[레티시아]<INFO>alberta,212,71,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"엔들리스 타워였던 곳은 성좌의 탑이란 이름으로 새 주인을 맞이하였습니다. 하지만 가라앉은 탑의 균열에서 반갑지 않은 손님들이 계속해서 밀려나오고 있습니다. 누군가는 이 불청객들을 맞이해야 할 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 공략 가능\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 40 ~ 249. 적정 레벨 구간별로 입장가능.\n\t\t\t\n\t\t최초 시작지점\n\t\t<NAVI>[레티시아]<INFO>alberta,212,71,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [5004] = {Title = "시간의 정원(250)#오스카레티시아리겔", Search = 1, Image = "유저인터페이스\\tipbox\\tip05004", 
@@ -2717,7 +2963,7 @@ Page = {"시간의 정원안에 도사린 잊혀진 시간의 차원에선 원소들이 계속해서 정령화 
 [5006] = {Title = "MD 불의 호수(250)#오스카레티시아리겔", Search = 1, Image = "유저인터페이스\\tipbox\\tip05006", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"생명의 성좌를 추종하던 4신수들은 생명의 성좌의 모습을 훔쳐낸 차원의 범죄자에게 여전히 충성을 바치고 있습니다. 그 이유는 알 수 없지만 그들을 제압하고 감옥 열쇠를 얻어 내야 합니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1일 1회 반복 공략 가능\n\t\t\t▷ 제한시간 30분\n\t\t\t▷ 레벨 250 이상 필드 입장가능\n\t\t\t\n\t\t◈ 최초 시작지점\n\t\t<NAVI>[3인의 성좌]<INFO>t_garden,115,47,0,101,0</INFO></NAVI> 를 만난 이후 리겔 연결 퀘스트\n\t\t\n\t\t◈ 주요 전리품\n\t\t^i[1001444] ^i[1001445] ^i[1001446] ^i[1001447]\n\t\t^i[1001448] ^i[1001449] ^i[1001450] ^i[1001451]\n\t\t^i[1001452] ^i[1001453] ^i[1001454] ^i[1001455]\n\t\t\n\t\t◈ 주요 보상\n\t\t^i[1001414] ^i[1001415]\n\t\t^i[1001440] ^i[1001441] ^i[1001442] ^i[1001443]\n\n\t\t<TIPBOX>▶시간의 정원 페이지로<INFO>5004</INFO></TIPBOX>\n\t\t<TIPBOX>▶미드가르드 대륙 MD<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"생명의 성좌를 추종하던 4신수들은 생명의 성좌의 모습을 훔쳐낸 차원의 범죄자에게 여전히 충성을 바치고 있습니다. 그 이유는 알 수 없지만 그들을 제압하고 감옥 열쇠를 얻어 내야 합니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1일 1회 공략 가능\n\t\t\t▷ 제한시간 30분\n\t\t\t▷ 레벨 250 이상 필드 입장가능\n\t\t\t\n\t\t◈ 최초 시작지점\n\t\t<NAVI>[3인의 성좌]<INFO>t_garden,115,47,0,101,0</INFO></NAVI> 를 만난 이후 리겔 연결 퀘스트\n\t\t\n\t\t◈ 주요 전리품\n\t\t^i[1001444] ^i[1001445] ^i[1001446] ^i[1001447]\n\t\t^i[1001448] ^i[1001449] ^i[1001450] ^i[1001451]\n\t\t^i[1001452] ^i[1001453] ^i[1001454] ^i[1001455]\n\t\t\n\t\t◈ 주요 보상\n\t\t^i[1001414] ^i[1001415]\n\t\t^i[1001440] ^i[1001441] ^i[1001442] ^i[1001443]\n\n\t\t<TIPBOX>▶시간의 정원 페이지로<INFO>5004</INFO></TIPBOX>\n\t\t<TIPBOX>▶미드가르드 대륙 MD<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [5007] = {Title = "MD 생명의 전당(250)#오스카레티시아리겔", Search = 1, Image = "유저인터페이스\\tipbox\\tip05007", 
@@ -3275,7 +3521,7 @@ Page = {"영웅의 흔적 외전! 비공정 추락지\n\t\t한 라피네에 의해 비공정이 추락한 �
 [6096] = {Title = "비공정 추락지 보상#비공정#추락지#메모리얼#외전#영웅의흔적#보상#", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"비공정 추락지에서 얻을 수 있는 <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM>은 다양한 보상으로 교환할 수 있습니다.\n\t\t▶ 비약 & 보관장치\n\t\t<ITEM>[정화된 성장 비약]<INFO>100460</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 5개\n\t\t\n\t\t<ITEM>[보라색 특수 보관장치]<INFO>100475</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t→ <ITEM>[정화된 성장 비약]<INFO>100460</INFO></ITEM> 10개\n\t\t\n\t\t▶ 불명의 부츠 & 강화 아이템\n\t\t<ITEM>[불명의 힘 부츠]<INFO>470071</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 손재주 부츠]<INFO>470072</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 생명력 부츠]<INFO>470073</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 마력 부츠]<INFO>470074</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 민첩 부츠]<INFO>470076</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 행운 부츠]<INFO>470077</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[마력을 머금은 구슬]<INFO>100476</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 5개\n\t\t→ 30,000 제니\n\t\t\n\t\t▶ 카드첩\n\t\t<ITEM>[오염된 카드첩]<INFO>100462</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 50개\n\t\t\n\t\t<TIPBOX>▶비공정 추락지 보기<INFO>6095</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"비공정 추락지에서 얻을 수 있는 <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM>은 다양한 보상으로 교환할 수 있습니다.\n\t\t▶ 비약 & 보관장치\n\t\t<ITEM>[정화된 성장 비약]<INFO>100460</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 5개\n\t\t\n\t\t<ITEM>[보라색 특수 보관장치]<INFO>100475</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t→ <ITEM>[정화된 성장 비약]<INFO>100460</INFO></ITEM> 10개\n\t\t\n\t\t▶ 불명의 부츠 & 강화 아이템\n\t\t<ITEM>[불명의 힘 부츠]<INFO>470071</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 손재주 부츠]<INFO>470072</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 생명력 부츠]<INFO>470073</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 마력 부츠]<INFO>470074</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 민첩 부츠]<INFO>470076</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[불명의 행운 부츠]<INFO>470077</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<ITEM>[마력을 머금은 구슬]<INFO>100476</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 2개\n\t\t→ 30,000 제니\n\t\t\n\t\t▶ 카드첩\n\t\t<ITEM>[오염된 카드첩]<INFO>100462</INFO></ITEM>\n\t\t→ <ITEM>[마력이 머문 돌]<INFO>1000363</INFO></ITEM> 25개\n\t\t\n\t\t<TIPBOX>▶비공정 추락지 보기<INFO>6095</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6097] = {Title = "Q 수상한고양이: 앙숙 (110)#피라미드#모로크#나이트메어#110#", Search = 1, Image = "", 
@@ -3359,13 +3605,13 @@ Page = {"안녕하쇼. 모험가 친구. 디나이트로 채굴 장비를 구매하거나 광석을 디나이�
 [6110] = {Title = "Q X세기 XX골트 (180)#휘겔#오딘신전#3층#180#", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"스케골트의 옛 모습을 볼 수 있는 드문 기횜다. 두 종류의 \'엔젤골트\'를 상대해 주시지 않겠슴까? 보답은 경험치로 하겠슴다!\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"스케골트의 옛 모습을 볼 수 있는 드문 기?다. 두 종류의 \'엔젤골트\'를 상대해 주시지 않겠슴까? 보답은 경험치로 하겠슴다!\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6111] = {Title = "Q 발키리란 무엇인가 (180)#휘겔#오딘신전#3층#180#", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"프루스와 스코글의 옛 모습을 볼 수 있는 드문 기횜다. 어째서 신의 종자가 인간에게 적대적인 모습을 보이는지 의문임다만 알 때까지 들이대는게 학자 아니겠슴까?\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"프루스와 스코글의 옛 모습을 볼 수 있는 드문 기?다. 어째서 신의 종자가 인간에게 적대적인 모습을 보이는지 의문임다만 알 때까지 들이대는게 학자 아니겠슴까?\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6112] = {Title = "Q 특이한 색의 페러스 (190)#어비스#호수#4층#190#", Search = 1, Image = "", 
@@ -3432,6 +3678,138 @@ Page = {"어는 점이 높은 것들이 있어요. 냉동 가고일과 프리즌 브레이커라고.. 쓰러�
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"서로 거울같은 존재가 있어요. 아이스 고스트와 플레임 고스트.. 전혀 달라 보이지만 차원의 틈새란 알 수 없는 존재죠.\n\t\t^663399◈레벨 175 이상^000000\n\t\t\n\t\t<NAVI>[마법사 닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 게펜<INFO>4147</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 170~179<INFO>4132</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6150] = {Title = "라그나로크 온라인의 던전#미드가르드#이스가르드#로컬라이징#기타#지역", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라그나로크 온라인에는 몬스터 사냥을 위한 다양한 던전이 존재합니다.\n\t\t\n\t\t^663399◈미드가르드 지역 던전◈^000000\n\t\t<TIPBOX>▶바로가기◀<INFO>6151</INFO></TIPBOX>\n\t\t\n\t\t^663399◈로컬라이징 지역 던전◈^000000\n\t\t<TIPBOX>▶바로가기◀<INFO>6152</INFO></TIPBOX>\n\t\t\n\t\t^663399◈이스가르드 지역 던전◈^000000\n\t\t<TIPBOX>▶바로가기◀<INFO>6153</INFO></TIPBOX>\n\t\t\n\t\t^663399◈기타 지역 던전◈^000000\n\t\t<TIPBOX>▶바로가기◀<INFO>6154</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶퀘스트 보기<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6151] = {Title = "미드가르드 지역 던전#미드가르드", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"미드가르드 지역에 존재하는 던전입니다.\n\t\t\n\t\t^663399◈일반 던전◈^000000\n\t\t<TIPBOX>▶글래스트헤임<INFO>6203</INFO></TIPBOX>\n\t\t<TIPBOX>▶폐기실험체 유기장 루두스<INFO>6225</INFO></TIPBOX>\n\t\t<TIPBOX>▶아인베흐 광산<INFO>6220</INFO></TIPBOX>\n\t\t<TIPBOX>▶유노 노그로드<INFO>6226</INFO></TIPBOX>\n\t\t<TIPBOX>▶죽은자의 나라 니플헤임<INFO>6204</INFO></TIPBOX>\n\t\t<TIPBOX>▶마력이 뒤틀린 평원<INFO>6209</INFO></TIPBOX>\n\t\t<TIPBOX>▶모로크 피라미드<INFO>6211</INFO></TIPBOX>\n\t\t<TIPBOX>▶묘르닐 지하 동굴<INFO>6212</INFO></TIPBOX>\n\t\t<TIPBOX>▶알데바란 시계탑<INFO>6221</INFO></TIPBOX>\n\t\t<TIPBOX>▶아미키티아 종합 연구실<INFO>6215</INFO></TIPBOX>\n\t\t<TIPBOX>▶휘겔 어비스 호수 지하 동굴<INFO>6237</INFO></TIPBOX>\n\t\t<TIPBOX>▶휘겔 오딘 신전<INFO>6238</INFO></TIPBOX>\n\t\t<TIPBOX>▶타나토스 타워<INFO>6232</INFO></TIPBOX>\n\t\t\n\t\t^663399◈나이트메어 던전◈^000000\n\t\t<TIPBOX>▶모로크 피라미드 나이트메어<INFO>6211</INFO></TIPBOX>\n\t\t<TIPBOX>▶알데바란 시계탑 나이트메어<INFO>6221</INFO></TIPBOX>\n\t\t\n\t\t^663399◈일루전 던전◈^000000\n\t\t<TIPBOX>▶일루전 오브 문라이트<INFO>9086</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전 오브 뱀파이어<INFO>9087</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전 오브 프로즌<INFO>9088</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전 오브 구양궁<INFO>9089</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전 오브 테디베어<INFO>9090</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전 오브 루안다<INFO>9091</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전 오브 라비린스<INFO>9092</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전 오브 언더워터<INFO>9093</INFO></TIPBOX>\n\t\t<TIPBOX>▶일루전 오브 트윈스<INFO>9157</INFO></TIPBOX>\n\t\t\n\t\t^663399◈메모리얼 던전◈^000000\n\t\t<TIPBOX>▶EDDA 낮에 나온 반달<INFO>7138</INFO></TIPBOX>\n\t\t<TIPBOX>▶EDDA 글래스트 헤임 정화<INFO>7139</INFO></TIPBOX>\n\t\t<TIPBOX>▶EDDA 원정의 여로<INFO>7140</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 글래스트 헤임 도전모드<INFO>7106</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트 헤임 초심자<INFO>7103</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트 헤임<INFO>7104</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트 헤임 상급<INFO>7105</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 타나토스의 기억<INFO>6241</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6152] = {Title = "로컬라이징 지역 던전#로컬라이징", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"로컬라이징 지역에 존재하는 던전입니다.\n\t\t\n\t\t^663399◈일반 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t^663399◈나이트메어 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t^663399◈일루전 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t^663399◈메모리얼 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6153] = {Title = "이스가르드 지역 던전#이스가르드", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"이스가르드 지역에 존재하는 던전입니다.\n\t\t\n\t\t^663399◈일반 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t^663399◈나이트메어 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t^663399◈일루전 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t^663399◈메모리얼 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6154] = {Title = "기타 지역 던전#기타#이계", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"기타 지역에 존재하는 던전입니다.\n\t\t\n\t\t^663399◈일반 던전◈^000000\n\t\t<TIPBOX>▶스카라바 던전<INFO>6503</INFO></TIPBOX>\n\t\t<TIPBOX>▶스플랑디드 난폭자의 상처<INFO>6500</INFO></TIPBOX>\n\t\t\n\t\t^663399◈나이트메어 던전◈^000000\n\t\t<TIPBOX>▶스카라바 홀 나이트메어 입장<INFO>6033</INFO></TIPBOX>\n\t\t\n\t\t^663399◈일루전 던전◈^000000\n\t\t해당 지역 던전 정보를 준비하고 있습니다.\n\t\t\n\t\t^663399◈메모리얼 던전◈^000000\n\t\t<TIPBOX>▶MD 니드호그의 둥지<INFO>6505</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6203] = {Title = "글래스트헤임#던전#레벨확장#나이트메어#실내#계단#기사단#성#어비스#수도원#지하#묘지#감옥#동굴#수로#회랑", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"글래스트헤임은 옛 룬-미드가츠 왕성의 터로 던전마다 다양한 종류와 레벨대의 몬스터가 등장하여 사랑받는 던전입니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[글래스트헤임]<INFO>glast_01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 실내]<INFO>gl_in01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 계단 던전]<INFO>gl_step,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 기사단 1층]<INFO>gl_knt01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 기사단 2층]<INFO>gl_knt02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 성 1층]<INFO>gl_cas01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 성 2층]<INFO>gl_cas02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 수도원]<INFO>gl_church,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 감옥 1층]<INFO>gl_prison,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 감옥 2층]<INFO>gl_prison1,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 동굴 1층]<INFO>gl_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 동굴 2층]<INFO>gl_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 묘지]<INFO>gl_chyard,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 수로 1층]<INFO>gl_sew01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 수로 2층]<INFO>gl_sew02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 수로 3층]<INFO>gl_sew03,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[글래스트헤임 지하 수로 4층]<INFO>gl_sew04,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈나이트메어 던전◈^000000\n\t\t<NAVI>[고성 글래스트헤임 2층 회랑]<INFO>gl_cas02_,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[고성 글래스트헤임 수도원 묘지]<INFO>gl_chyard_,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[글래스트헤임 어비스 1층]<INFO>gl_cas01_,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈메모리얼 던전◈^000000\n\t\t<TIPBOX>▶옛 글래스트헤임 초심자(65) <INFO>7103</INFO></TIPBOX>\n\t\t<TIPBOX>▶옛 글래스트헤임(130)<INFO>7104</INFO></TIPBOX>\n\t\t<TIPBOX>▶옛 글래스트헤임 상급(160)<INFO>7105</INFO></TIPBOX>\n\t\t<TIPBOX>▶옛 글래스트헤임 도전모드(170)<INFO>7106</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6204] = {Title = "니플헤임#던전#망자#연회장#오페라#하우스#200#240", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"죽은자의 나라 니플헤임은 100레벨 대 모험가가 사냥하기 좋은 던전으로 니플헤임 마을에는 200레벨 이상을 위한 던전이 따로 마련되어 있습니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[흐베르겔미르의 샘<INFO>yggdrasil01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>(이그드라실줄기)]<INFO>yggdrasil01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 외딴마을 스켈링튼]<INFO>nif_fild01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 굘의 골짜기]<INFO>nif_fild02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[죽은자의 나라 니플헤임]<INFO>niflheim,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[니플헤임 던전 1층<INFO>nif_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>망자의 연회장]<INFO>nif_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 던전 2층<INFO>nif_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>무너진 오페라 하우스]<INFO>nif_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>▶지역 퀘스트: 니플헤임<INFO>4154</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6209] = {Title = "마력이 뒤틀린 평원#던전#레벨확장#250", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"라헬의 서쪽 오즈의 협곡 너머에 존재하는 오염된 평원으로 250레벨 이상의 강력한 몬스터가 등장하는 던전입니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\tLv250↑\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[마력이 뒤틀린 평원]<INFO>ra_pol01,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>Q 마력이 뒤틀린 평원<INFO>4323</INFO></TIPBOX>\n\t\t<TIPBOX>정화 작업 (250)<INFO>4323</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6211] = {Title = "모로크 피라미드#던전#나이트메어#110", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"사막도시 모로크의 유적 피라미드로 지상 4층, 지하 4층 던전입니다. 지하로 내려가는 길목에는 도둑 길드가 존재하며, 110레벨 이상을 위한 나이트메어 던전이 있습니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[모로크 피라미드 4층]<INFO>moc_pryd04,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[모로크 피라미드 3층]<INFO>moc_pryd03,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[모로크 피라미드 2층]<INFO>moc_pryd02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[모로크 피라미드 1층]<INFO>moc_pryd01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[도둑 길드]<INFO>moc_prydb1,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[모로크 피라미드 지하 1층]<INFO>moc_pryd05,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[모로크 피라미드 지하 2층]<INFO>moc_pryd06,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈나이트메어 던전◈^000000\n\t\t<NAVI>[모로크 피라미드<INFO>moc_prydn1,0,0,0,-222,1</INFO></NAVI>\n\t\t　　　　　　　<NAVI>지하 1층 - 나이트]<INFO>moc_prydn1,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[모로크 피라미드<INFO>moc_prydn2,0,0,0,-222,1</INFO></NAVI>\n\t\t　　　　　　　<NAVI>지하 2층 - 나이트]<INFO>moc_prydn2,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6212] = {Title = "묘르닐 지하 동굴#던전#레벨확장#250", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아인브로크 남쪽에서 묘르닐 산맥 지하로 연결되는 거대한 지하 동굴로 250레벨 이상이 사냥하기 좋은 던전입니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\tLv250↑\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[묘르닐 지하 동굴]<INFO>mjo_wst01,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>▶Q 묘르닐 지하 동굴 몬스터 토벌<INFO>4324</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6215] = {Title = "아미키티아 종합 연구실#던전#레벨확장#215#230", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"버려진 후 던전화 된 연구소. 1층은 215레벨이 사냥하기 좋은 변이 호문클루스가 2층은 230레벨이 사냥하기 좋은 변이 호문클루스가 등장합니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\tLv215↑\n\t\tLv230↑\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[버려진 연구소<INFO>amicitia1,0,0,0,-222,1</INFO></NAVI>\n\t\t　　　<NAVI>아미키티아 1층 종합연구실]<INFO>amicitia1,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[버려진 연구소<INFO>amicitia2,0,0,0,-222,1</INFO></NAVI>\n\t\t　　　<NAVI>아미키티아 2층 집중배양실]<INFO>amicitia2,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6220] = {Title = "아인베흐 광산#던전#레벨확장#180", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"아인베흐의 광산 던전. 1층과 2층은 100레벨 대가 사냥하기 좋은 던전입니다. 180레벨 이상이라면, 던전 3층이 사냥하기 적당합니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[아인베흐 광산 1층]<INFO>ein_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[아인베흐 광산 2층]<INFO>ein_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[아인베흐 광산 3층]<INFO>ein_dun03,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>Q 일루전 오브 테디베어<INFO>9090</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6221] = {Title = "알데바란 시계탑#던전#나이트메어#뒤틀린#미지의#레벨확장#240", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"국경도시 알데바란의 상징 지상 4층, 지하 4층 시계탑 던전입니다. 미궁같은 구조 때문에 아직도 새로운 던전이 발견된다고 합니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[알데바란 시계탑 지상 4층]<INFO>c_tower4,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[알데바란 시계탑 지상 3층]<INFO>c_tower3,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[알데바란 시계탑 지상 2층]<INFO>c_tower2,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[알데바란 시계탑 지상 1층]<INFO>c_tower1,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[알데바란 시계탑 지하 1층]<INFO>alde_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[알데바란 시계탑 지하 2층]<INFO>alde_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[알데바란 시계탑 지하 3층]<INFO>alde_dun03,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[알데바란 시계탑 지하 4층]<INFO>alde_dun04,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈나이트메어 던전◈^000000\n\t\t<NAVI>[뒤틀린 시간의 시계탑 2층]<INFO>c_tower2_,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[뒤틀린 시간의 시계탑 3층]<INFO>c_tower3_,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[시계탑 미지의 지하층]<INFO>clock_01,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6225] = {Title = "폐기실험체 유기장 루두스#던전#레벨확장#200", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"일루시온이 실험에 실패한 실험체를 유기한 루두스 던전입니다. 층이 깊어질수록 더 강력한 몬스터가 등장하며, 120레벨부터 200레벨이 사냥하기 적당한 던전입니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[폐기실험체 유기장 루두스 1층]<INFO>sp_rudus,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[폐기실험체 유기장 루두스 2층]<INFO>sp_rudus2,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[폐기실험체 유기장 루두스 3층]<INFO>sp_rudus3,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[폐기실험체 유기장 루두스 4층]<INFO>sp_rudus4,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6226] = {Title = "유노 노그로드 용암 던전#던전#레벨확장#175", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"유노 엘메스 플레투 지역의 용암 던전. 화속성 몬스터가 많이 등장합니다. 위험지역인 3층은 175레벨 이상만 진입 가능합니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[유노 노그로드 1층]<INFO>mag_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[유노 노그로드 2층]<INFO>mag_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[유노 노그로드 3층]<INFO>mag_dun03,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6232] = {Title = "타나토스 타워#던전#180", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"오랜 기간 버려져 있던 황폐한 탑을 레켄베르가 대대적으로 보수한 뒤 개방한 관광명소. 몬스터 퇴치에 협력할 모험가들을 모집하고 있습니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[상층부 12층 증오의 방]<INFO>tha_t12,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[상층부 11층 절망의 방]<INFO>tha_t11,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[상층부 10층 슬픔의 방]<INFO>tha_t10,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[상층부 9층 고뇌의 방]<INFO>tha_t09,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[상층부 8층 천사의 방]<INFO>tha_t08,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[상층부 7층 천사의 방]<INFO>tha_t07,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[상층부 계단]<INFO>thana_step,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[상층부 6층]<INFO>tha_t06,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[상층부 5층]<INFO>tha_t05,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[하층부 4층 버려진 공간]<INFO>tha_t04,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[하층부 3층 버려진 공간]<INFO>tha_t03,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[하층부 2층 박물관]<INFO>tha_t02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[하층부 1층 박물관 입구]<INFO>tha_t01,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈메모리얼 던전◈^000000\n\t\t<TIPBOX>▶타나토스 타워<INFO>6241</INFO></TIPBOX>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>▶지역 퀘스트: 타나토스<INFO>4158</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6237] = {Title = "휘겔 어비스 호수 지하 동굴#던전#레벨확장#190", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"어비스 호수의 지하 동굴 던전으로 4개층에는 다양한 종류의 용족 몬스터가 등장합니다. 위험지역인 던전 4층은 190레벨 이상만 진입이 가능합니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[휘겔 어비스 호수 지하 동굴 1층]<INFO>abyss_01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[휘겔 어비스 호수 지하 동굴 2층]<INFO>abyss_02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[휘겔 어비스 호수 지하 동굴 3층]<INFO>abyss_03,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[휘겔 어비스 호수 지하 동굴 4층]<INFO>abyss_04,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6238] = {Title = "휘겔 오딘 신전#던전#레벨확장#고대#180", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"휘겔 오딘 신전은 필드 던전으로 좁은 구간에는 몬스터가 몰려 주의를 요하는 던전으로 최근 180레벨 이상 진입이 가능한 고대 오딘 신전이 발굴되었습니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[휘겔 오딘 신전 서쪽 지역]<INFO>odin_tem01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[휘겔 오딘 신전 남쪽 지역]<INFO>odin_tem02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[휘겔 오딘 신전 북쪽 지역]<INFO>odin_tem03,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[고대 오딘 신전]<INFO>odin_past,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6241] = {Title = "MD 타나토스 타워 (180)#MD#180", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"루민이 열어준 타나토스 타워의 상층부. 평소가는 상층부와는 다르게 뭔가 굴레에 매여 매 순간을 반복하는 존재들이 나타난다는 것 같다.\n\t\t<NAVI>[루민]<INFO>thana_step,154,367,0,111,0</INFO></NAVI>\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\tLv180↑\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>▶타나토스 타워<INFO>6232</INFO></TIPBOX>\n\t\t<TIPBOX>▶지역 퀘스트: 타나토스<INFO>4158</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6500] = {Title = "스플랑디드 난폭자의 상처#던전#니드호그#100", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"스플랑디드 필드의 굵은 나무줄기 아래에서 발견된 동굴. 몬스터가 있는 1층과는 달리 2층에는 몬스터가 존재하지 않으며 대신 긴 동굴의 끝에 수상한 문이 존재합니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[스플랑디드 난폭자의 상처 1층]<INFO>nyd_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[스플랑디드 난폭자의 상처 2층]<INFO>nyd_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈메모리얼 던전◈^000000\n\t\t<TIPBOX>▶MD 니드호그의 둥지<INFO>6505</INFO></TIPBOX>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>Q 이그드라실의 수호자 니드호그,<INFO>6019</INFO></TIPBOX>\n\t\t　　　　　　<TIPBOX>진실을 찾아서 (95)<INFO>6019</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6503] = {Title = "스카라바 던전#던전#나이트메어#향수", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"마누크에서 엘 디카스테스로 가는 길목인 카미달 터널. 곤충형 몬스터 스카라바가 서식하고 있기 때문에 스카라바 던전이라고도 불리고 있습니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[카미달 터널]<INFO>dic_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[스카라바 홀]<INFO>dic_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈나이트메어 던전◈^000000\n\t\t<NAVI>[스카라바 홀]<INFO>dic_dun03,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>▶스카라바 홀 나이트메어 입장<INFO>6033</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[6505] = {Title = "MD 니드호그의 둥지(100)#MD#이그드라실#수호자#100", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"세계수의 수호자의 목소리를 들을 수 없게 되면서 발생한 라피네, 사파 두 종족 간의 전쟁. 진실을 찾기 위해 인간들은 니드호그의 둥지로 발걸음을 옮긴다.\n\t\t<NAVI>[수수께기의 문]<INFO>nyd_dun02,100,199,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>Q 이그드라실의 수호자 니드호그, 진실을 찾아서 (95)<INFO>6019</INFO></TIPBOX> 완료\n\t\t<TIPBOX>이계 입장 퀘스트<INFO>6015</INFO></TIPBOX>\n\t\t<TIPBOX>Q 통역기 (95)<INFO>6018</INFO></TIPBOX>\n\t\t\n\t\t◈ 던전 구성\n\t\t▷ 3일마다 1회 공략 가능\n\t\t▷ 제한 시간 240분\n\t\t▷ 두개 층으로 구성된 던전\n\t\t\n\t\t<TIPBOX>▶미지와의 조우 퀘스트 보기<INFO>6016</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7055] = {Title = "Episode 17.1 등장, 일루시온#퀘스트에피소드", Search = 1, Image = "유저인터페이스\\tipbox\\tip07055", 
@@ -3608,10 +3986,10 @@ Imgcoord = {Position = 5, Size = 100}
 Page = {"미지에 대한 호기심은 탐험으로 이어집니다. 이것은 모험가의 숙명과도 같습니다.\n\t\t미드가르드 대륙을 넘어 신세계로, 이계로. 발이 닿는 곳마다 발견되는 새로운 이야기는 모험가를 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶미드가르드 대륙 MD 리스트<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶EPISODE MD 리스트<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 영웅의 흔적 리스트<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD EDDA 리스트<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶로컬지역 MD 리스트<INFO>7141</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>4100</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
-[7084] = {Title = "미드가르드 대륙 MD#고성포링타워보르세브요일오크장던바포문어바다신무한꿈구두굽", Search = 1, Image = "", 
+[7084] = {Title = "미드가르드 대륙 MD#고성포링타워보르세브요일오크장던바포무한꿈구두굽", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"신화가 역사로 남아 있는 곳, 미드가르드 대륙. 옛 이야기와 영웅의 모험담이 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶MD 수상한 난파선 (10)<INFO>7085</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 포링 마을 (30)<INFO>7086</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 보르세브 연구실 (60)<INFO>7088</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 주말 던전 (60)<INFO>7089</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 오크의 기억 (40)<INFO>7090</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 호러 장난감 공장<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 잔당들의 아지트<INFO>7094</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 봉인의 신전 (75)<INFO>7095</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 지하 배수로 (90)<INFO>7096</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 문어 동굴<INFO>7097</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 금요일 던전 (99)<INFO>7098</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 무한의 공간 (100)<INFO>7099</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 꿈과 그림자 (120)<INFO>7100</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 왕의 구두굽에서 (130)<INFO>7101</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 성좌의 탑 (240)<INFO>5002</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 가라앉은 탑 (40~249)<INFO>5003</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 불의 호수 (250)<INFO>5006</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 생명의 전당 (250)<INFO>5007</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"신화가 역사로 남아 있는 곳, 미드가르드 대륙. 옛 이야기와 영웅의 모험담이 기다리고 있습니다.\n\t\t\n\t\t<TIPBOX>▶MD 수상한 난파선 (10)<INFO>7085</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 포링 마을 (30)<INFO>7086</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 보르세브 연구실 (60)<INFO>7088</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 주말 던전 (60)<INFO>7089</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 오크의 기억 (40)<INFO>7090</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 호러 장난감 공장<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 잔당들의 아지트<INFO>7094</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 봉인의 신전 (75)<INFO>7095</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 금요일 던전 (99)<INFO>7098</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 무한의 공간 (100)<INFO>7099</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 꿈과 그림자 (120)<INFO>7100</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 왕의 구두굽에서 (130)<INFO>7101</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 옛 글래스트헤임<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 성좌의 탑 (240)<INFO>5002</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 가라앉은 탑 (40~249)<INFO>5003</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 불의 호수 (250)<INFO>5006</INFO></TIPBOX>\n\t\t<TIPBOX>▶MD 생명의 전당 (250)<INFO>5007</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7085] = {Title = "MD 수상한 난파선 (10)#초보루민레노", Search = 1, Image = "", 
@@ -3623,13 +4001,13 @@ Page = {"레노와 모험가가 프론테라의 감옥 구경을 하게 만든 여신 신봉자 브랜. 그자
 [7086] = {Title = "MD 포링 마을 (30)#초보채소야채", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"초보자들이 쉽게 도전할 수 있는 모험은 그리 많지 않습니다. 하지만 그러한 곳을 먼저 찾아낸 임시 동료가 있다면 어떨까요? 초보자들끼리 서로 도와 도전해 봅시다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 30 이상 99 이하\n\t\t\t\n\t\t<NAVI>[에밀리]<INFO>prt_fild05,145,235,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 중 획득한 <ITEM>[포링마을 대파]<INFO>19238</INFO></ITEM>나 <ITEM>[포링마을 당근]<INFO>19239</INFO></ITEM>을 <NAVI>[채소 강화사]<INFO>prt_fild05,174,238,0,101,0</INFO></NAVI>에게 가지고 가면 인챈트 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"초보자들이 쉽게 도전할 수 있는 모험은 그리 많지 않습니다. 하지만 그러한 곳을 먼저 찾아낸 임시 동료가 있다면 어떨까요? 초보자들끼리 서로 도와 도전해 봅시다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 30 이상 99 이하\n\t\t\t\n\t\t<NAVI>[에밀리]<INFO>prt_fild05,145,235,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 중 획득한 <ITEM>[포링마을 대파]<INFO>19238</INFO></ITEM>나 <ITEM>[포링마을 당근]<INFO>19239</INFO></ITEM>을 <NAVI>[채소 강화사]<INFO>prt_fild05,174,238,0,101,0</INFO></NAVI>에게 가지고 가면 인챈트 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7088] = {Title = "MD 보르세브의 연구실 (60)#생던리히기업", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"보르세브가 풀어 놓은 실험체들은 그 소환자마저도 공격하는 지경에 이르렀습니다. 실험체를 제어하기 위해서는 연구실 안의 보스격인 실험체를 전투불능으로 만들어야 합니다.\n\t\t\n\t\t◈ 선행 조건: 기업 퀘스트 완료/ 기업 그 이후의 이야기 진행\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 240분\n\t\t\t▷ 레벨 60 이상\n\t\t\t\n\t\t<NAVI>[연구원]<INFO>lhz_dun04,151,276,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[용사의 의지]<INFO>6469</INFO></ITEM>\n\t\t<ITEM>[피의 갈증]<INFO>6470</INFO></ITEM>\n\t\t<ITEM>[망자의 한기]<INFO>6471</INFO></ITEM>\n\t\t<ITEM>[냉기의 마법서]<INFO>1584</INFO></ITEM>\n\t\t<ITEM>[길로틴 카타르]<INFO>1291</INFO></ITEM>\n\t\t<ITEM>[기간트 랜스]<INFO>1490</INFO></ITEM>\n\t\t<ITEM>[고대의 금장식]<INFO>18570</INFO></ITEM>\n\t\t<ITEM>[샐비지 케이프]<INFO>2582</INFO></ITEM>\n\t\t<ITEM>[블러디 크로스]<INFO>16017</INFO></ITEM>\n\t\t\n\t\t◈ 장비 교환\n\t\t▷ <ITEM>[용사의 의지]<INFO>6469</INFO></ITEM>, <ITEM>[피의 갈증]<INFO>6470</INFO></ITEM>, <ITEM>[망자의 한기]<INFO>6471</INFO></ITEM>으로 장비 교환 가능\n\t\t▷ <NAVI>[괴상한 노인]<INFO>lighthalzen,342,291,0,101,0</INFO></NAVI>\n\t\t▷ 장비 목록\n\t\t<ITEM>[기간트 쉴드]<INFO>2160</INFO></ITEM>\n\t\t<ITEM>[게페니아의 고서(水)]<INFO>2161</INFO></ITEM>\n\t\t<ITEM>[약속의 성서 2권]<INFO>2162</INFO></ITEM>\n\t\t<ITEM>[샐비지 케이프]<INFO>2582</INFO></ITEM>\n\t\t<ITEM>[암살자의 수갑]<INFO>2892</INFO></ITEM>\n\t\t<ITEM>[초록수술복]<INFO>15044</INFO></ITEM>\n\t\t<ITEM>[고대의 금장식]<INFO>18570</INFO></ITEM>\n\t\t<ITEM>[에이전트 카타르]<INFO>1290</INFO></ITEM>\n\t\t<ITEM>[길로틴 카타르]<INFO>1291</INFO></ITEM>\n\t\t<ITEM>[이그누스 스테일]<INFO>1392</INFO></ITEM>\n\t\t<ITEM>[엔드 세크투라]<INFO>1393</INFO></ITEM>\n\t\t<ITEM>[캐논 스피어]<INFO>1435</INFO></ITEM>\n\t\t<ITEM>[기간트 랜스]<INFO>1490</INFO></ITEM>\n\t\t<ITEM>[냉기의 마법서]<INFO>1584</INFO></ITEM>\n\t\t<ITEM>[회복의 빛]<INFO>1659</INFO></ITEM>\n\t\t<ITEM>[아즈토네일]<INFO>13069</INFO></ITEM>\n\t\t<ITEM>[스칼렛토네일]<INFO>13070</INFO></ITEM>\n\t\t<ITEM>[블러디 크로스]<INFO>16017</INFO></ITEM>\n\t\t<ITEM>[연노]<INFO>18109</INFO></ITEM>\n\t\t<ITEM>[대형 크로스 보우]<INFO>18110</INFO></ITEM>\n\t\t<ITEM>[크리퍼 보우]<INFO>18111</INFO></ITEM>\n\t\t\n\t\t◈ 장비 강화 및 초기화\n\t\t▷ 리히타르젠 큐브방의 마법사에게서 가능\n\t\t▷ <ITEM>[용사의 의지]<INFO>6469</INFO></ITEM>, <ITEM>[피의 갈증]<INFO>6470</INFO></ITEM>으로 장비 인챈트 가능\n\t\t<ITEM>[망자의 한기]<INFO>6471</INFO></ITEM>로 인챈트 초기화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"보르세브가 풀어 놓은 실험체들은 그 소환자마저도 공격하는 지경에 이르렀습니다. 실험체를 제어하기 위해서는 연구실 안의 보스격인 실험체를 전투불능으로 만들어야 합니다.\n\t\t\n\t\t◈ 선행 조건: 기업 퀘스트 완료/ 기업 그 이후의 이야기 진행\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 공략 가능\n\t\t\t▷ 제한 시간 240분\n\t\t\t▷ 레벨 60 이상\n\t\t\t\n\t\t<NAVI>[연구원]<INFO>lhz_dun04,151,276,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[용사의 의지]<INFO>6469</INFO></ITEM>\n\t\t<ITEM>[피의 갈증]<INFO>6470</INFO></ITEM>\n\t\t<ITEM>[망자의 한기]<INFO>6471</INFO></ITEM>\n\t\t<ITEM>[냉기의 마법서]<INFO>1584</INFO></ITEM>\n\t\t<ITEM>[길로틴 카타르]<INFO>1291</INFO></ITEM>\n\t\t<ITEM>[기간트 랜스]<INFO>1490</INFO></ITEM>\n\t\t<ITEM>[고대의 금장식]<INFO>18570</INFO></ITEM>\n\t\t<ITEM>[샐비지 케이프]<INFO>2582</INFO></ITEM>\n\t\t<ITEM>[블러디 크로스]<INFO>16017</INFO></ITEM>\n\t\t\n\t\t◈ 장비 교환\n\t\t▷ <ITEM>[용사의 의지]<INFO>6469</INFO></ITEM>, <ITEM>[피의 갈증]<INFO>6470</INFO></ITEM>, <ITEM>[망자의 한기]<INFO>6471</INFO></ITEM>으로 장비 교환 가능\n\t\t▷ <NAVI>[괴상한 노인]<INFO>lighthalzen,342,291,0,101,0</INFO></NAVI>\n\t\t▷ 장비 목록\n\t\t<ITEM>[기간트 쉴드]<INFO>2160</INFO></ITEM>\n\t\t<ITEM>[게페니아의 고서(水)]<INFO>2161</INFO></ITEM>\n\t\t<ITEM>[약속의 성서 2권]<INFO>2162</INFO></ITEM>\n\t\t<ITEM>[샐비지 케이프]<INFO>2582</INFO></ITEM>\n\t\t<ITEM>[암살자의 수갑]<INFO>2892</INFO></ITEM>\n\t\t<ITEM>[초록수술복]<INFO>15044</INFO></ITEM>\n\t\t<ITEM>[고대의 금장식]<INFO>18570</INFO></ITEM>\n\t\t<ITEM>[에이전트 카타르]<INFO>1290</INFO></ITEM>\n\t\t<ITEM>[길로틴 카타르]<INFO>1291</INFO></ITEM>\n\t\t<ITEM>[이그누스 스테일]<INFO>1392</INFO></ITEM>\n\t\t<ITEM>[엔드 세크투라]<INFO>1393</INFO></ITEM>\n\t\t<ITEM>[캐논 스피어]<INFO>1435</INFO></ITEM>\n\t\t<ITEM>[기간트 랜스]<INFO>1490</INFO></ITEM>\n\t\t<ITEM>[냉기의 마법서]<INFO>1584</INFO></ITEM>\n\t\t<ITEM>[회복의 빛]<INFO>1659</INFO></ITEM>\n\t\t<ITEM>[아즈토네일]<INFO>13069</INFO></ITEM>\n\t\t<ITEM>[스칼렛토네일]<INFO>13070</INFO></ITEM>\n\t\t<ITEM>[블러디 크로스]<INFO>16017</INFO></ITEM>\n\t\t<ITEM>[연노]<INFO>18109</INFO></ITEM>\n\t\t<ITEM>[대형 크로스 보우]<INFO>18110</INFO></ITEM>\n\t\t<ITEM>[크리퍼 보우]<INFO>18111</INFO></ITEM>\n\t\t\n\t\t◈ 장비 강화 및 초기화\n\t\t▷ 리히타르젠 큐브방의 마법사에게서 가능\n\t\t▷ <ITEM>[용사의 의지]<INFO>6469</INFO></ITEM>, <ITEM>[피의 갈증]<INFO>6470</INFO></ITEM>으로 장비 인챈트 가능\n\t\t<ITEM>[망자의 한기]<INFO>6471</INFO></ITEM>로 인챈트 초기화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7089] = {Title = "MD 주말 던전 (60)#요일", Search = 1, Image = "", 
@@ -3641,7 +4019,7 @@ Page = {"주중에 쌓인 피로와 스트레스를 주말에 모두 풀어버리자!\n\t\t\n\t\t◈ 던�
 [7090] = {Title = "MD 오크의 기억 (40)#오던", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"지도교수는 사라졌지만 연구는 계속되고 있습니다. 차분한 과학자는 오크지역에서 고대 차원으로 통하는 게이트 작업을 마치고 탐사를 할 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 40 이상 99 이하\n\t\t\t\n\t\t<NAVI>[차분한 과학자]<INFO>gef_fild10,231,203,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[타락의 반지]<INFO>28522</INFO></ITEM>\n\t\t<ITEM>[재앙의 반지]<INFO>28523</INFO></ITEM>\n\t\t\n\t\t<NAVI>[수상한 남자]<INFO>gef_fild10,227,197,0,101,0</INFO></NAVI>에게서 반지 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"지도교수는 사라졌지만 연구는 계속되고 있습니다. 차분한 과학자는 오크지역에서 고대 차원으로 통하는 게이트 작업을 마치고 탐사를 할 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 30분\n\t\t\t▷ 레벨 40 이상 99 이하\n\t\t\t\n\t\t<NAVI>[차분한 과학자]<INFO>gef_fild10,231,203,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[타락의 반지]<INFO>28522</INFO></ITEM>\n\t\t<ITEM>[재앙의 반지]<INFO>28523</INFO></ITEM>\n\t\t\n\t\t<NAVI>[수상한 남자]<INFO>gef_fild10,227,197,0,101,0</INFO></NAVI>에게서 반지 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7091] = {Title = "MD 호러 장난감 공장#루티에장던", Search = 1, Image = "", 
@@ -3653,13 +4031,13 @@ Page = {"눈이 내리는 풍경, 따뜻한 벽난로... 낭만적인 루티에의 커다란 장난감 공장
 [7092] = {Title = "MD 호러 장난감 공장 초심자 (70)#장던", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"특이한 복장으로 자신을 시간과 차원을 연구하는 연구원이라 소개하는 한 연구원. 안정화되어 있는 차원의 균열 너머 던전의 내부 인과를 휘저어 놓을 수 있다는데. 미심쩍지만 초보자도 들어갈 수 있을 정도로 약화된 장난감 공장이라니 탐험해 보는 것도 나쁘지는 않을 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매주 1회 반복 공략 가능 (목요일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 70 이상\n\t\t\t\n\t\t<NAVI>[특이한 광대]<INFO>xmas,232,290,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[오래된 양산]<INFO>13442</INFO></ITEM>\n\t\t<ITEM>[쉐도우 워크]<INFO>2486</INFO></ITEM>\n\t\t<ITEM>[붉은 랜턴]<INFO>2976</INFO></ITEM>\n\t\t<ITEM>[상처받은 마음]<INFO>2977</INFO></ITEM>\n\t\t<ITEM>[상냥한 마음]<INFO>2978</INFO></ITEM>\n\t\t<ITEM>[싱싱한 장미]<INFO>18848</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"특이한 복장으로 자신을 시간과 차원을 연구하는 연구원이라 소개하는 한 연구원. 안정화되어 있는 차원의 균열 너머 던전의 내부 인과를 휘저어 놓을 수 있다는데. 미심쩍지만 초보자도 들어갈 수 있을 정도로 약화된 장난감 공장이라니 탐험해 보는 것도 나쁘지는 않을 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매주 1회 공략 가능 (목요일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 70 이상\n\t\t\t\n\t\t<NAVI>[특이한 광대]<INFO>xmas,232,290,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[오래된 양산]<INFO>13442</INFO></ITEM>\n\t\t<ITEM>[쉐도우 워크]<INFO>2486</INFO></ITEM>\n\t\t<ITEM>[붉은 랜턴]<INFO>2976</INFO></ITEM>\n\t\t<ITEM>[상처받은 마음]<INFO>2977</INFO></ITEM>\n\t\t<ITEM>[상냥한 마음]<INFO>2978</INFO></ITEM>\n\t\t<ITEM>[싱싱한 장미]<INFO>18848</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7093] = {Title = "MD 호러 장난감 공장 (140)#장던", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"인형장인이 만들어 낸 마지막 작품에는 생명이 깃들었습니다. 그 인형, 키미를 처음 본 날에 인형장인의 조수였던 캐서린 제트존스는 모든 것을 잃고 말았습니다. 그날 무슨 일이 일어난 것일까요?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 140 이상\n\t\t\t\n\t\t<NAVI>[캐서린 제트존슨]<INFO>xmas,237,303,0,101,0</INFO></NAVI>", "◈ 던전 공략 전리품\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[닫힌 마음의 상자]<INFO>22534</INFO></ITEM>\n\t\t<ITEM>[오래된 양산]<INFO>13442</INFO></ITEM>\n\t\t<ITEM>[쉐도우 워크]<INFO>2486</INFO></ITEM>\n\t\t<ITEM>[붉은 랜턴]<INFO>2976</INFO></ITEM>\n\t\t<ITEM>[상처받은 마음]<INFO>2977</INFO></ITEM>\n\t\t<ITEM>[상냥한 마음]<INFO>2978</INFO></ITEM>\n\t\t<ITEM>[싱싱한 장미]<INFO>18848</INFO></ITEM>\n\t\t\n\t\t◈ 던전 전리품 교환\n\t\t▷ <ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>으로 각종 아이템 교환 가능\n\t\t▷ 교환 대상\n\t\t<ITEM>[닫힌 마음의 상자]<INFO>22534</INFO></ITEM>\n\t\t<ITEM>[싱싱한 장미]<INFO>18848</INFO></ITEM>\n\t\t<ITEM>[의상 싱싱한 장미]<INFO>19687</INFO></ITEM>\n\t\t<ITEM>[의상 산타인형 머리띠]<INFO>19686</INFO></ITEM>\n\t\t<ITEM>[의상 붉은색의 보닛]<INFO>19701</INFO></ITEM>\n\t\t<ITEM>[오래된 양산]<INFO>13442</INFO></ITEM>\n\t\t<ITEM>[따뜻한 차]<INFO>11563</INFO></ITEM>\n\t\t<ITEM>[달콤한 과자]<INFO>11564</INFO></ITEM>\n\t\t<ITEM>[성수]<INFO>523</INFO></ITEM>\n\t\t<ITEM>[암수]<INFO>12020</INFO></ITEM>\n\t\t▷ <NAVI>[황금의 손 빌리]<INFO>xmas,240,291,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 아이템 조합\n\t\t▷ <ITEM>[셀린느의 리본]<INFO>18849</INFO></ITEM> 조합\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[+9 싱싱한 장미]<INFO>18848</INFO></ITEM>\t\t\n\t\t▷ <ITEM>[노블 크로스]<INFO>16029</INFO></ITEM> 조합\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[그랜드 크로스[1]]<INFO>1540</INFO></ITEM>\t\t\n\t\t▷ <ITEM>[악령의 실 장갑]<INFO>2980</INFO></ITEM> 조합\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[상처받은 마음]<INFO>2977</INFO></ITEM>\n\t\t<ITEM>[상냥한 마음]<INFO>2978</INFO></ITEM>\n\t\t<ITEM>[붉은 랜턴]<INFO>2976</INFO></ITEM>\n\t\t▷ <NAVI>[부랑아 케인]<INFO>xmas,240,297,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 아이템 강화\n\t\t▷ <ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>으로 아이템 강화\n\t\t▷ 대상 장비\n\t\t<ITEM>[상처받은 마음]<INFO>2977</INFO></ITEM>\n\t\t<ITEM>[상냥한 마음]<INFO>2978</INFO></ITEM>\n\t\t<ITEM>[붉은 랜턴]<INFO>2976</INFO></ITEM>\n\t\t<ITEM>[악령의 실 장갑]<INFO>2980</INFO></ITEM>\n\t\t<ITEM>[오래된 양산]<INFO>13442</INFO></ITEM>\n\t\t<ITEM>[쉐도우 워크]<INFO>2486</INFO></ITEM>\n\t\t<ITEM>[싱싱한 장미]<INFO>18848</INFO></ITEM>\n\t\t<ITEM>[셀린느의 리본]<INFO>18849</INFO></ITEM>\n\t\t▷ <NAVI>[검은턱수염 죠]<INFO>xmas,240,294,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"인형장인이 만들어 낸 마지막 작품에는 생명이 깃들었습니다. 그 인형, 키미를 처음 본 날에 인형장인의 조수였던 캐서린 제트존스는 모든 것을 잃고 말았습니다. 그날 무슨 일이 일어난 것일까요?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 140 이상\n\t\t\t\n\t\t<NAVI>[캐서린 제트존슨]<INFO>xmas,237,303,0,101,0</INFO></NAVI>", "◈ 던전 공략 전리품\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[닫힌 마음의 상자]<INFO>22534</INFO></ITEM>\n\t\t<ITEM>[오래된 양산]<INFO>13442</INFO></ITEM>\n\t\t<ITEM>[쉐도우 워크]<INFO>2486</INFO></ITEM>\n\t\t<ITEM>[붉은 랜턴]<INFO>2976</INFO></ITEM>\n\t\t<ITEM>[상처받은 마음]<INFO>2977</INFO></ITEM>\n\t\t<ITEM>[상냥한 마음]<INFO>2978</INFO></ITEM>\n\t\t<ITEM>[싱싱한 장미]<INFO>18848</INFO></ITEM>\n\t\t\n\t\t◈ 던전 전리품 교환\n\t\t▷ <ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>으로 각종 아이템 교환 가능\n\t\t▷ 교환 대상\n\t\t<ITEM>[닫힌 마음의 상자]<INFO>22534</INFO></ITEM>\n\t\t<ITEM>[싱싱한 장미]<INFO>18848</INFO></ITEM>\n\t\t<ITEM>[의상 싱싱한 장미]<INFO>19687</INFO></ITEM>\n\t\t<ITEM>[의상 산타인형 머리띠]<INFO>19686</INFO></ITEM>\n\t\t<ITEM>[의상 붉은색의 보닛]<INFO>19701</INFO></ITEM>\n\t\t<ITEM>[오래된 양산]<INFO>13442</INFO></ITEM>\n\t\t<ITEM>[따뜻한 차]<INFO>11563</INFO></ITEM>\n\t\t<ITEM>[달콤한 과자]<INFO>11564</INFO></ITEM>\n\t\t<ITEM>[성수]<INFO>523</INFO></ITEM>\n\t\t<ITEM>[암수]<INFO>12020</INFO></ITEM>\n\t\t▷ <NAVI>[황금의 손 빌리]<INFO>xmas,240,291,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 아이템 조합\n\t\t▷ <ITEM>[셀린느의 리본]<INFO>18849</INFO></ITEM> 조합\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[+9 싱싱한 장미]<INFO>18848</INFO></ITEM>\t\t\n\t\t▷ <ITEM>[노블 크로스]<INFO>16029</INFO></ITEM> 조합\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[그랜드 크로스[1]]<INFO>1540</INFO></ITEM>\t\t\n\t\t▷ <ITEM>[악령의 실 장갑]<INFO>2980</INFO></ITEM> 조합\n\t\t<ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>\n\t\t<ITEM>[상처받은 마음]<INFO>2977</INFO></ITEM>\n\t\t<ITEM>[상냥한 마음]<INFO>2978</INFO></ITEM>\n\t\t<ITEM>[붉은 랜턴]<INFO>2976</INFO></ITEM>\n\t\t▷ <NAVI>[부랑아 케인]<INFO>xmas,240,297,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 아이템 강화\n\t\t▷ <ITEM>[피묻은 코인]<INFO>7642</INFO></ITEM>으로 아이템 강화\n\t\t▷ 대상 장비\n\t\t<ITEM>[상처받은 마음]<INFO>2977</INFO></ITEM>\n\t\t<ITEM>[상냥한 마음]<INFO>2978</INFO></ITEM>\n\t\t<ITEM>[붉은 랜턴]<INFO>2976</INFO></ITEM>\n\t\t<ITEM>[악령의 실 장갑]<INFO>2980</INFO></ITEM>\n\t\t<ITEM>[오래된 양산]<INFO>13442</INFO></ITEM>\n\t\t<ITEM>[쉐도우 워크]<INFO>2486</INFO></ITEM>\n\t\t<ITEM>[싱싱한 장미]<INFO>18848</INFO></ITEM>\n\t\t<ITEM>[셀린느의 리본]<INFO>18849</INFO></ITEM>\n\t\t▷ <NAVI>[검은턱수염 죠]<INFO>xmas,240,294,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7091</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7094] = {Title = "MD 잔당들의 아지트#클랜", Search = 1, Image = "", 
@@ -3672,18 +4050,6 @@ Page = {"미드가르드 대륙 전역에 걸쳐 문제를 일으키는 괴 집단 \'룬미드가츠 해방전
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"과거 대륙을 공포에 떨게했던 거대한 악마인 바포메트를 봉인하기 위해서는 많은 용사들의 피와 영혼을 희생해야 했습니다. 하지만 마왕 모로크의 부활로 봉인석이 점점 약해지고 있습니다. 봉인석을 재정비할 모험가가 필요합니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 12시간마다 재공략 가능\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 75 이상 권장\n\t\t\t\n\t\t<NAVI>[마수사 패트릭]<INFO>monk_test,309,146,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <ITEM>[대형 마제스틱 고우트]<INFO>5374</INFO></ITEM> 조합\n\t\t<ITEM>[마제스틱 고우트]<INFO>2256</INFO></ITEM>\n\t\t<ITEM>[마력이 깃든 바포메트 인형]<INFO>6004</INFO></ITEM>\n\t\t<ITEM>[어둠의 결정체]<INFO>7799</INFO></ITEM>\n\t\t<ITEM>[어둠의 파편]<INFO>7798</INFO></ITEM>\n\t\t일부 아이템 던전 진행 중 획득 가능\n\t\t\n\t\t<NAVI>[러스트 블랙핸드]<INFO>prt_monk,261,91,0,101,0</INFO></NAVI>\n\t\t\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[7096] = {Title = "MD 지하 배수로 (90)#말랑도바다신", Search = 1, Image = "", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"섬이 크게 흔들리는 바람에 귀중품을 보관하던 장소에서는 물이 들어차기 시작했습니다. 그 때문에 청소부 미싱은 하루종일 물이 새는 곳을 찾아 청소를 해야 한다고 합니다. 그런데 청소 중에 돈이 될만한 것도 제법 건진다는데...?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 입장 시 <ITEM>[바다신의 가호]<INFO>6436</INFO></ITEM> 1개 필요\n\t\t\t<NAVI>[특산물자판기CX-82]<INFO>malangdo,218,165,0,101,0</INFO></NAVI>\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 노멀 모드: 레벨 90 이상 139이하\n\t\t\t   나이트메어 모드: 레벨 140 이상\n\t\t\t\n\t\t<NAVI>[청소부 미싱]<INFO>mal_in01,160,34,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[바다신의 분노]<INFO>6423</INFO></ITEM>로 <NAVI>[마요마요]<INFO>malangdo,213,167,0,101,0</INFO></NAVI>에게서 장비 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[7097] = {Title = "MD 문어 동굴#말랑도바다신", Search = 1, Image = "", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"입구를 얼기설기 막아 놓은 동굴 앞에서 불가사리는 고충을 토로하고 있습니다. 손버릇이 고약한 문어를 처치하고 싶지만 자신들만의 힘으로는 역부족이라 하네요.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 입장 시 입장 시 <ITEM>[문어사냥용 꼬챙이]<INFO>6442</INFO></ITEM> 1개 필요\n\t\t\t<NAVI>[특산물자판기CX-82]<INFO>malangdo,218,165,0,101,0</INFO></NAVI>\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 일일 퀘스트 레벨 90 이상\n\t\t\t\n\t\t<NAVI>[불가사리]<INFO>mal_dun01,151,235,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7098] = {Title = "MD 금요일 던전 (99)#90", Search = 1, Image = "", 
@@ -3701,13 +4067,13 @@ Page = {"큰 위험이 있는 곳에는 큰 보상도 있는 법입니다. 완전히 붕괴한 파로스 등�
 [7100] = {Title = "MD 꿈과 그림자 (120)#지터벅펜던트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"새로운 발견을 하였을 때 자신있게 탐사를 할 수 있는 사람은 몇이나 될까요. 새로운 균열을 발견하였지만 연구원 출신의 약한 파티원들 때문에 괴멸을 걱정하는 로레체와 유제니를 도와주어야 할 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 120 이상\n\t\t\t\n\t\t<NAVI>[로레체]<INFO>dali02,108,94,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t▷ 던전 공략 중 획득한 아이템을 핌퍼넬에게 가져가면 아이템 교환 가능\n\t\t▷ <ITEM>[펜던트 오브 하모니]<INFO>2990</INFO></ITEM>과 <ITEM>[펜던트 오브 카오스]<INFO>2991</INFO></ITEM>로 <ITEM>[펜던트 오브 마엘슈트롬]<INFO>2992</INFO></ITEM> 교환 가능\n\t\t▷ <ITEM>[지터벅의 이빨]<INFO>6719</INFO></ITEM> 교환 목록(랜덤 획득)\n\t\t<ITEM>[얼어붙은 흉갑]<INFO>15100</INFO></ITEM>\n\t\t<ITEM>[굳어진 흉갑]<INFO>15101</INFO></ITEM>\n\t\t<ITEM>[옛 음유시인의 날개 반지]<INFO>2988</INFO></ITEM>\n\t\t<ITEM>[옛 무희의 꽃장식 팔찌]<INFO>2989</INFO></ITEM>\n\t\t<ITEM>[펜던트 오브 카오스]<INFO>2991</INFO></ITEM>\n\t\t<ITEM>[펜던트 오브 하모니]<INFO>2990</INFO></ITEM>\n\t\t<ITEM>[마력이 깃든 카드첩]<INFO>12246</INFO></ITEM>\n\t\t<ITEM>[낡은 카드첩]<INFO>616</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"새로운 발견을 하였을 때 자신있게 탐사를 할 수 있는 사람은 몇이나 될까요. 새로운 균열을 발견하였지만 연구원 출신의 약한 파티원들 때문에 괴멸을 걱정하는 로레체와 유제니를 도와주어야 할 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 120 이상\n\t\t\t\n\t\t<NAVI>[로레체]<INFO>dali02,108,94,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t▷ 던전 공략 중 획득한 아이템을 핌퍼넬에게 가져가면 아이템 교환 가능\n\t\t▷ <ITEM>[펜던트 오브 하모니]<INFO>2990</INFO></ITEM>과 <ITEM>[펜던트 오브 카오스]<INFO>2991</INFO></ITEM>로 <ITEM>[펜던트 오브 마엘슈트롬]<INFO>2992</INFO></ITEM> 교환 가능\n\t\t▷ <ITEM>[지터벅의 이빨]<INFO>6719</INFO></ITEM> 교환 목록(랜덤 획득)\n\t\t<ITEM>[얼어붙은 흉갑]<INFO>15100</INFO></ITEM>\n\t\t<ITEM>[굳어진 흉갑]<INFO>15101</INFO></ITEM>\n\t\t<ITEM>[옛 음유시인의 날개 반지]<INFO>2988</INFO></ITEM>\n\t\t<ITEM>[옛 무희의 꽃장식 팔찌]<INFO>2989</INFO></ITEM>\n\t\t<ITEM>[펜던트 오브 카오스]<INFO>2991</INFO></ITEM>\n\t\t<ITEM>[펜던트 오브 하모니]<INFO>2990</INFO></ITEM>\n\t\t<ITEM>[마력이 깃든 카드첩]<INFO>12246</INFO></ITEM>\n\t\t<ITEM>[낡은 카드첩]<INFO>616</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7101] = {Title = "MD 왕의 구두굽에서 (130)#찰스턴강화근력파일벙커", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"고대 도시 베루스에서 차원의 균열이 발견되었다는 소식을 듣고 한걸음에 달려왔다는 마그나툼 박사는 출토된 카드를 보고 상심했습니다. 박사는 차원의 균열로 들어 가 쓸만한 카드를 가져다 달라는 의뢰를 해옵니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130 이상\n\t\t\t\n\t\t<NAVI>[마그나툼 박사]<INFO>verus04,79,114,0,101,0</INFO></NAVI>", "◈ 던전 공략 전리품\n\t\t<ITEM>[금색 카드]<INFO>25627</INFO></ITEM>\n\t\t<ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>\n\t\t\n\t\t◈ <NAVI>[마그나툼 박사]<INFO>verus04,79,114,0,101,0</INFO></NAVI>\n\t\t▷ <ITEM>[금색 카드]<INFO>25627</INFO></ITEM>를 <ITEM>[낡은 연료통]<INFO>6962</INFO></ITEM>으로 교환\n\t\t▷ 낡은 연료통은 <NAVI>[PLUTO_09]<INFO>verus04,163,219,0,101,0</INFO></NAVI>에게서 장비로 교환하거나 <NAVI>[MARS_01]<INFO>verus04,165,217,0,101,0</INFO></NAVI>에게서 장비 강화 가능\n\t\t\n\t\t◈ <NAVI>[수 윈터가드]<INFO>verus04,75,114,0,101,0</INFO></NAVI>\n\t\t▷ <ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>과 소켓이 없는 장비를 가지고 가면 소켓 작업 가능\n\t\t▷ <ITEM>[근력 보완장치[1]]<INFO>15343</INFO></ITEM>\n\t\t<ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>\n\t\t<ITEM>[+9근력 보완장치(0)]<INFO>15110</INFO></ITEM> 필요\n\t\t▷ <ITEM>[강화파츠-장갑[1]]<INFO>15344</INFO></ITEM>\n\t\t<ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>\n\t\t<ITEM>[+9강화파츠-장갑(0)]<INFO>15111</INFO></ITEM> 필요\n\t\t▷ 근력 보완장치(0)과 강화파츠-장갑(0)은 <NAVI>[인그라타 A]<INFO>verus04,65,112,0,101,0</INFO></NAVI>에게서 구입 가능\n\t\t\n\t\t◈ <NAVI>[인그라타 A]<INFO>verus04,65,112,0,101,0</INFO></NAVI>\n\t\t▷ 던전 공략 중 획득한 <ITEM>[파일벙커]<INFO>1549</INFO></ITEM>, <ITEM>[찌그러진 철판]<INFO>6751</INFO></ITEM>, <ITEM>[고장난 엔진]<INFO>6750</INFO></ITEM>을 업그레이드 파일 벙커로 교환\n\t\t▷ 교환 장비 (택1)\n\t\t<ITEM>[파일벙커S]<INFO>16030</INFO></ITEM>\n\t\t<ITEM>[파일벙커P]<INFO>16031</INFO></ITEM>\n\t\t<ITEM>[파일벙커T]<INFO>16032</INFO></ITEM>\n\t\t\n\t\t◈ <NAVI>[인그라타 M]<INFO>verus04,69,108,0,101,0</INFO></NAVI>\n\t\t▷ <ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>으로 장비나 업그레이드 부품으로 교환 가능\n\t\t▷ 교환 장비\n\t\t<ITEM>[강화파츠-엔진]<INFO>20733</INFO></ITEM>\n\t\t<ITEM>[강화파츠-부스터]<INFO>22044</INFO></ITEM>\n\t\t<ITEM>[강화파츠-포신]<INFO>2996</INFO></ITEM>\n\t\t<ITEM>[체력 보완장치]<INFO>20732</INFO></ITEM>\n\t\t<ITEM>[민첩성 보완장치]<INFO>22043</INFO></ITEM>\n\t\t<ITEM>[손재주 보완장치]<INFO>2995</INFO></ITEM>\n\t\t<ITEM>[찰스턴 업그레이드 부품(물리)]<INFO>23706</INFO></ITEM>\n\t\t<ITEM>[찰스턴 업그레이드<INFO>23707</INFO></ITEM>\n\t\t<ITEM>부품(원거리)]<INFO>23707</INFO></ITEM>\n\t\t\n\t\t◈ <NAVI>[인그라타 D]<INFO>verus04,68,115,0,101,0</INFO></NAVI>\n\t\t▷ <ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>으로 장비 강화 가능\n\t\t▷ 강화 대상 장비\n\t\t<ITEM>[강화파츠-엔진]<INFO>20733</INFO></ITEM>\n\t\t<ITEM>[강화파츠-부스터]<INFO>22044</INFO></ITEM>\n\t\t<ITEM>[강화파츠-포신]<INFO>2996</INFO></ITEM>\n\t\t<ITEM>[체력 보완장치]<INFO>20732</INFO></ITEM>\n\t\t<ITEM>[민첩성 보완장치]<INFO>22043</INFO></ITEM>\n\t\t<ITEM>[손재주 보완장치]<INFO>2995</INFO></ITEM>\n\t\t<ITEM>[근력 보완장치(0)]<INFO>15110</INFO></ITEM>\n\t\t<ITEM>[근력 보완장치[1]]<INFO>15343</INFO></ITEM>\n\t\t<ITEM>[강화파츠-장갑(0)]<INFO>15111</INFO></ITEM>\n\t\t<ITEM>[강화파츠-장갑[1]]<INFO>15344</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"고대 도시 베루스에서 차원의 균열이 발견되었다는 소식을 듣고 한걸음에 달려왔다는 마그나툼 박사는 출토된 카드를 보고 상심했습니다. 박사는 차원의 균열로 들어 가 쓸만한 카드를 가져다 달라는 의뢰를 해옵니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130 이상\n\t\t\t\n\t\t<NAVI>[마그나툼 박사]<INFO>verus04,79,114,0,101,0</INFO></NAVI>", "◈ 던전 공략 전리품\n\t\t<ITEM>[금색 카드]<INFO>25627</INFO></ITEM>\n\t\t<ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>\n\t\t\n\t\t◈ <NAVI>[마그나툼 박사]<INFO>verus04,79,114,0,101,0</INFO></NAVI>\n\t\t▷ <ITEM>[금색 카드]<INFO>25627</INFO></ITEM>를 <ITEM>[낡은 연료통]<INFO>6962</INFO></ITEM>으로 교환\n\t\t▷ 낡은 연료통은 <NAVI>[PLUTO_09]<INFO>verus04,163,219,0,101,0</INFO></NAVI>에게서 장비로 교환하거나 <NAVI>[MARS_01]<INFO>verus04,165,217,0,101,0</INFO></NAVI>에게서 장비 강화 가능\n\t\t\n\t\t◈ <NAVI>[수 윈터가드]<INFO>verus04,75,114,0,101,0</INFO></NAVI>\n\t\t▷ <ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>과 소켓이 없는 장비를 가지고 가면 소켓 작업 가능\n\t\t▷ <ITEM>[근력 보완장치[1]]<INFO>15343</INFO></ITEM>\n\t\t<ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>\n\t\t<ITEM>[+9근력 보완장치(0)]<INFO>15110</INFO></ITEM> 필요\n\t\t▷ <ITEM>[강화파츠-장갑[1]]<INFO>15344</INFO></ITEM>\n\t\t<ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>\n\t\t<ITEM>[+9강화파츠-장갑(0)]<INFO>15111</INFO></ITEM> 필요\n\t\t▷ 근력 보완장치(0)과 강화파츠-장갑(0)은 <NAVI>[인그라타 A]<INFO>verus04,65,112,0,101,0</INFO></NAVI>에게서 구입 가능\n\t\t\n\t\t◈ <NAVI>[인그라타 A]<INFO>verus04,65,112,0,101,0</INFO></NAVI>\n\t\t▷ 던전 공략 중 획득한 <ITEM>[파일벙커]<INFO>1549</INFO></ITEM>, <ITEM>[찌그러진 철판]<INFO>6751</INFO></ITEM>, <ITEM>[고장난 엔진]<INFO>6750</INFO></ITEM>을 업그레이드 파일 벙커로 교환\n\t\t▷ 교환 장비 (택1)\n\t\t<ITEM>[파일벙커S]<INFO>16030</INFO></ITEM>\n\t\t<ITEM>[파일벙커P]<INFO>16031</INFO></ITEM>\n\t\t<ITEM>[파일벙커T]<INFO>16032</INFO></ITEM>\n\t\t\n\t\t◈ <NAVI>[인그라타 M]<INFO>verus04,69,108,0,101,0</INFO></NAVI>\n\t\t▷ <ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>으로 장비나 업그레이드 부품으로 교환 가능\n\t\t▷ 교환 장비\n\t\t<ITEM>[강화파츠-엔진]<INFO>20733</INFO></ITEM>\n\t\t<ITEM>[강화파츠-부스터]<INFO>22044</INFO></ITEM>\n\t\t<ITEM>[강화파츠-포신]<INFO>2996</INFO></ITEM>\n\t\t<ITEM>[체력 보완장치]<INFO>20732</INFO></ITEM>\n\t\t<ITEM>[민첩성 보완장치]<INFO>22043</INFO></ITEM>\n\t\t<ITEM>[손재주 보완장치]<INFO>2995</INFO></ITEM>\n\t\t<ITEM>[찰스턴 업그레이드 부품(물리)]<INFO>23706</INFO></ITEM>\n\t\t<ITEM>[찰스턴 업그레이드<INFO>23707</INFO></ITEM>\n\t\t<ITEM>부품(원거리)]<INFO>23707</INFO></ITEM>\n\t\t\n\t\t◈ <NAVI>[인그라타 D]<INFO>verus04,68,115,0,101,0</INFO></NAVI>\n\t\t▷ <ITEM>[찰스턴 부품]<INFO>6752</INFO></ITEM>으로 장비 강화 가능\n\t\t▷ 강화 대상 장비\n\t\t<ITEM>[강화파츠-엔진]<INFO>20733</INFO></ITEM>\n\t\t<ITEM>[강화파츠-부스터]<INFO>22044</INFO></ITEM>\n\t\t<ITEM>[강화파츠-포신]<INFO>2996</INFO></ITEM>\n\t\t<ITEM>[체력 보완장치]<INFO>20732</INFO></ITEM>\n\t\t<ITEM>[민첩성 보완장치]<INFO>22043</INFO></ITEM>\n\t\t<ITEM>[손재주 보완장치]<INFO>2995</INFO></ITEM>\n\t\t<ITEM>[근력 보완장치(0)]<INFO>15110</INFO></ITEM>\n\t\t<ITEM>[근력 보완장치[1]]<INFO>15343</INFO></ITEM>\n\t\t<ITEM>[강화파츠-장갑(0)]<INFO>15111</INFO></ITEM>\n\t\t<ITEM>[강화파츠-장갑[1]]<INFO>15344</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7084</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7102] = {Title = "MD 옛 글래스트헤임#고성", Search = 1, Image = "", 
@@ -3719,31 +4085,31 @@ Page = {"글래스트헤임이 간직한 과거의 비밀.\n\t\t시간이 흐른 지금, 진실과 마주할
 [7103] = {Title = "MD 옛 글래스트헤임 초심자 (65)#60고성초고", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"특이한 복장으로 자신을 시간과 차원을 연구하는 연구원이라 소개하는 한 연구원. 안정화되어 있는 차원의 균열 너머 던전의 내부 인과를 휘저어 놓을 수 있다는데.\n\t\t초심자의 몸으로 옛 글래스트헤임을 볼 수 있다니 나쁘지 않은 제안인 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매주 1회 반복 공략 가능 (목요일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 65 이상\n\t\t\t\n\t\t<NAVI>[특이한 광대]<INFO>glast_01,196,235,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"특이한 복장으로 자신을 시간과 차원을 연구하는 연구원이라 소개하는 한 연구원. 안정화되어 있는 차원의 균열 너머 던전의 내부 인과를 휘저어 놓을 수 있다는데.\n\t\t초심자의 몸으로 옛 글래스트헤임을 볼 수 있다니 나쁘지 않은 제안인 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매주 1회 공략 가능 (목요일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 65 이상\n\t\t\t\n\t\t<NAVI>[특이한 광대]<INFO>glast_01,196,235,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7104] = {Title = "MD 옛 글래스트헤임 (130)#고성일고", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"진실을 알고있는 과거의 시간이 내려줄 답을 기다리고 있는 학자 후긴. 차원의 틈을 엿볼 수 있게 되자마자 옛 글래스트헤임에 관심을 갖게 되었다고 합니다.\n\t\t과연 슈미츠 왕은 역사서대로의 폭군이었을까요?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130 이상\n\t\t\t\n\t\t<NAVI>[후긴]<INFO>glast_01,204,273,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>\n\t\t\n\t\t◈ 장비 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>으로 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM> 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 시간의 부츠 업그레이드\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 변형된 부츠로 업그레이드\n\t\t\t\n\t\t\t<NAVI>[후긴의 집사]<INFO>glast_01,210,274,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 카드 교환\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>이나 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>으로 <ITEM>[백색의 기사단 카드]<INFO>4608</INFO></ITEM> 혹은 <ITEM>[칼리츠버그 기사단 카드]<INFO>4609</INFO></ITEM>로 교환 가능\n\t\t\t\n\t\t\t<NAVI>[초상화 수집가]<INFO>glast_01,216,292,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 인챈트\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>으로 시간의 부츠 확장형에 인챈트 가능\n\t\t\t\n\t\t\t<NAVI>[후긴의 마법장인]<INFO>glast_01,212,273,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 소켓 작업\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>을 가지고 가면 시간의 부츠 확장형에 카드 소켓 작업 가능\n\t\t\t\n\t\t\t<NAVI>[후긴의 세공장인]<INFO>glast_01,210,270,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"진실을 알고있는 과거의 시간이 내려줄 답을 기다리고 있는 학자 후긴. 차원의 틈을 엿볼 수 있게 되자마자 옛 글래스트헤임에 관심을 갖게 되었다고 합니다.\n\t\t과연 슈미츠 왕은 역사서대로의 폭군이었을까요?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130 이상\n\t\t\t\n\t\t<NAVI>[후긴]<INFO>glast_01,204,273,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>\n\t\t\n\t\t◈ 장비 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>으로 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM> 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 시간의 부츠 업그레이드\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 변형된 부츠로 업그레이드\n\t\t\t\n\t\t\t<NAVI>[후긴의 집사]<INFO>glast_01,210,274,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 카드 교환\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>이나 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>으로 <ITEM>[백색의 기사단 카드]<INFO>4608</INFO></ITEM> 혹은 <ITEM>[칼리츠버그 기사단 카드]<INFO>4609</INFO></ITEM>로 교환 가능\n\t\t\t\n\t\t\t<NAVI>[초상화 수집가]<INFO>glast_01,216,292,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 인챈트\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>으로 시간의 부츠 확장형에 인챈트 가능\n\t\t\t\n\t\t\t<NAVI>[후긴의 마법장인]<INFO>glast_01,212,273,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 소켓 작업\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>을 가지고 가면 시간의 부츠 확장형에 카드 소켓 작업 가능\n\t\t\t\n\t\t\t<NAVI>[후긴의 세공장인]<INFO>glast_01,210,270,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7105] = {Title = "MD 옛 글래스트헤임 상급 (160)#고성상고", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"진실을 알고있는 과거의 시간이 내려줄 답을 기다리고 있는 학자 후긴. 차원의 틈을 엿볼 수 있게 되자마자 옛 글래스트헤임에 관심을 갖게 되었다고 합니다.\n\t\t이번엔 더욱 위험한 탐사가 될 것이라고 합니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>MD 옛 글래스트헤임<INFO>7104</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 160 이상\n\t\t\t\n\t\t<NAVI>[또다른 후긴]<INFO>glast_01,179,283,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\n\t\t◈ 장비 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>으로 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM> 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 시간의 부츠 업그레이드\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 변형된 부츠로 업그레이드\n\t\t\t\n\t\t\t<NAVI>[후긴의 집사]<INFO>glast_01,210,274,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 카드 교환\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>이나 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>으로 <ITEM>[백색의 기사단 카드]<INFO>4608</INFO></ITEM> 혹은 <ITEM>[칼리츠버그 기사단 카드]<INFO>4609</INFO></ITEM>로 교환 가능\n\t\t\t\n\t\t\t<NAVI>[초상화 수집가]<INFO>glast_01,216,292,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 인챈트\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>으로 시간의 부츠 확장형에 인챈트 가능\n\t\t\t<NAVI>[후긴의 마법장인]<INFO>glast_01,212,273,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 소켓 작업\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>을 가지고 가면 시간의 부츠 확장형에 카드 소켓 작업 가능\n\t\t\t\n\t\t\t<NAVI>[후긴의 세공장인]<INFO>glast_01,210,270,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"진실을 알고있는 과거의 시간이 내려줄 답을 기다리고 있는 학자 후긴. 차원의 틈을 엿볼 수 있게 되자마자 옛 글래스트헤임에 관심을 갖게 되었다고 합니다.\n\t\t이번엔 더욱 위험한 탐사가 될 것이라고 합니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>MD 옛 글래스트헤임<INFO>7104</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 160 이상\n\t\t\t\n\t\t<NAVI>[또다른 후긴]<INFO>glast_01,179,283,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\n\t\t◈ 장비 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>으로 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM> 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 시간의 부츠 업그레이드\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 변형된 부츠로 업그레이드\n\t\t\t\n\t\t\t<NAVI>[후긴의 집사]<INFO>glast_01,210,274,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 카드 교환\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>이나 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>으로 <ITEM>[백색의 기사단 카드]<INFO>4608</INFO></ITEM> 혹은 <ITEM>[칼리츠버그 기사단 카드]<INFO>4609</INFO></ITEM>로 교환 가능\n\t\t\t\n\t\t\t<NAVI>[초상화 수집가]<INFO>glast_01,216,292,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 인챈트\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>으로 시간의 부츠 확장형에 인챈트 가능\n\t\t\t<NAVI>[후긴의 마법장인]<INFO>glast_01,212,273,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 소켓 작업\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>을 가지고 가면 시간의 부츠 확장형에 카드 소켓 작업 가능\n\t\t\t\n\t\t\t<NAVI>[후긴의 세공장인]<INFO>glast_01,210,270,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7106] = {Title = "MD 옛 글래스트헤임 도전모드 (170)#고성도고", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"시공룡 오스카는 글래스트헤임에서 오염된 차원을 살피던 중 옛 글래스트헤임과 관련된 새로운 차원의 틈을 발견했다고 합니다. 하지만 이전과는 다르게 있어야 할 사람이 없어 자칫하면 그 파장이 현재의 시간에도 큰 영향을 끼칠 수 있다고 합니다. 시공룡 오스카와 다시 한 번 옛 글래스트헤임을 찾아야 할 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 170 이상\n\t\t\t\n\t\t<NAVI>[오스카]<INFO>glast_01,143,288,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\n\t\t◈ 장비 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>으로 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM> 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 시간의 부츠 업그레이드\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 변형된 부츠로 업그레이드\n\t\t\t\n\t\t\t<NAVI>[후긴의 집사]<INFO>glast_01,210,274,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 카드 교환\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>이나 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>으로 <ITEM>[백색의 기사단 카드]<INFO>4608</INFO></ITEM> 혹은 <ITEM>[칼리츠버그 기사단 카드]<INFO>4609</INFO></ITEM>로 교환 가능\n\t\t\t\n\t\t\t<NAVI>[초상화 수집가]<INFO>glast_01,216,292,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 인챈트\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>으로 시간의 부츠 확장형에 인챈트 가능\n\t\t\t<NAVI>[후긴의 마법장인]<INFO>glast_01,212,273,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 소켓 작업\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>을 가지고 가면 시간의 부츠 확장형에 카드 소켓 작업 가능\n\t\t\t\n\t\t\t<NAVI>[후긴의 세공장인]<INFO>glast_01,210,270,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"시공룡 오스카는 글래스트헤임에서 오염된 차원을 살피던 중 옛 글래스트헤임과 관련된 새로운 차원의 틈을 발견했다고 합니다. 하지만 이전과는 다르게 있어야 할 사람이 없어 자칫하면 그 파장이 현재의 시간에도 큰 영향을 끼칠 수 있다고 합니다. 시공룡 오스카와 다시 한 번 옛 글래스트헤임을 찾아야 할 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일마다 1회 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 170 이상\n\t\t\t\n\t\t<NAVI>[오스카]<INFO>glast_01,143,288,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\n\t\t◈ 장비 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>으로 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM> 교환\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 시간의 부츠 업그레이드\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>과 <ITEM>[시간의 부츠]<INFO>2499</INFO></ITEM>로 변형된 부츠로 업그레이드\n\t\t\t\n\t\t\t<NAVI>[후긴의 집사]<INFO>glast_01,210,274,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 카드 교환\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>이나 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>으로 <ITEM>[백색의 기사단 카드]<INFO>4608</INFO></ITEM> 혹은 <ITEM>[칼리츠버그 기사단 카드]<INFO>4609</INFO></ITEM>로 교환 가능\n\t\t\t\n\t\t\t<NAVI>[초상화 수집가]<INFO>glast_01,216,292,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 인챈트\n\t\t\t<ITEM>[응고된 마력]<INFO>6608</INFO></ITEM>으로 시간의 부츠 확장형에 인챈트 가능\n\t\t\t<NAVI>[후긴의 마법장인]<INFO>glast_01,212,273,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ 소켓 작업\n\t\t\t<ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>을 가지고 가면 시간의 부츠 확장형에 카드 소켓 작업 가능\n\t\t\t\n\t\t\t<NAVI>[후긴의 세공장인]<INFO>glast_01,210,270,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7102</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7107] = {Title = "EPISODE MD#엠디에피소드메던", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"지금, 현재를 살아가는 우리 모두의 이야기. 미드가르드 대륙과 그 너머의 모든 이야기.\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.1<INFO>6041</INFO></TIPBOX>\n\t\t<TIPBOX>MD 안개 숲 미궁<INFO>7108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.3<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비오스의 섬 (160)<INFO>7109</INFO></TIPBOX>\n\t\t<TIPBOX>MD 모르스의 동굴 (160)<INFO>7110</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마신전 (160)<INFO>7111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 15.2<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중앙 실험실 (135)<INFO>7112</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마지막 방 (150)<INFO>7113</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.1<INFO>8118</INFO></TIPBOX>\n\t\t<TIPBOX>MD 축복의식 (100)<INFO>7114</INFO></TIPBOX>\n\t\t<TIPBOX>MD 의식의 방 (100)<INFO>7115</INFO></TIPBOX>\n\t\t<TIPBOX>MD 공중요새 침공 (140)<INFO>7116</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.2<INFO>8143</INFO></TIPBOX>\n\t\t<TIPBOX>MD 하트헌터 기지 외곽 (100)<INFO>7117</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중추실 (100)<INFO>7118</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.1<INFO>7055</INFO></TIPBOX>\n\t\t<TIPBOX>MD 레겐쉬름 탈환작전 (110)<INFO>7119</INFO></TIPBOX>\n\t\t<TIPBOX>MD 봉쇄된 오스 (110)<INFO>7120</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 점령 작전 (110)<INFO>7121</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 2차 수색 (110)<INFO>7122</INFO></TIPBOX>\n\t\t<TIPBOX>MD 코르 메모리얼 (110)<INFO>7123</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.2<INFO>7068</INFO></TIPBOX>\n\t\t<TIPBOX>MD 어스름밤의 정원 (130)<INFO>7124</INFO></TIPBOX>\n\t\t<TIPBOX>MD 헤이! 스위티 (130)<INFO>7125</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시간에게 잊혀진 사육장 (130)<INFO>7126</INFO></TIPBOX>\n\t\t<TIPBOX>MD 숨겨진 화원 (130)<INFO>7127</INFO></TIPBOX>\n\t\t<TIPBOX>MD 수상정원 (130)<INFO>7128</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 18<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>MD 성소 정화 (170)<INFO>4248</INFO></TIPBOX>\n\t\t<TIPBOX>MD 기만의 별장 (170)<INFO>4231</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 19<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시뮬레이션 융케아 (200)<INFO>4297</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비공정 파괴작전 (200)<INFO>4298</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 20<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>MD 끈적이는 바다 (215)<INFO>4360</INFO></TIPBOX>\n\t\t<TIPBOX>MD 죽지 않는 자 무력화 (215)<INFO>4361</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"지금, 현재를 살아가는 우리 모두의 이야기. 미드가르드 대륙과 그 너머의 모든 이야기.\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.1<INFO>6041</INFO></TIPBOX>\n\t\t<TIPBOX>MD 안개 숲 미궁<INFO>7108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 14.3<INFO>6082</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비오스의 섬 (160)<INFO>7109</INFO></TIPBOX>\n\t\t<TIPBOX>MD 모르스의 동굴 (160)<INFO>7110</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마신전 (160)<INFO>7111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 15.2<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중앙 실험실 (135)<INFO>7112</INFO></TIPBOX>\n\t\t<TIPBOX>MD 마지막 방 (150)<INFO>7113</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.1<INFO>8118</INFO></TIPBOX>\n\t\t<TIPBOX>MD 축복의식 (100)<INFO>7114</INFO></TIPBOX>\n\t\t<TIPBOX>MD 의식의 방 (100)<INFO>7115</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 16.2<INFO>8143</INFO></TIPBOX>\n\t\t<TIPBOX>MD 하트헌터 기지 외곽 (100)<INFO>7117</INFO></TIPBOX>\n\t\t<TIPBOX>MD 중추실 (100)<INFO>7118</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.1<INFO>7055</INFO></TIPBOX>\n\t\t<TIPBOX>MD 레겐쉬름 탈환작전 (110)<INFO>7119</INFO></TIPBOX>\n\t\t<TIPBOX>MD 봉쇄된 오스 (110)<INFO>7120</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 점령 작전 (110)<INFO>7121</INFO></TIPBOX>\n\t\t<TIPBOX>MD 오스 2차 수색 (110)<INFO>7122</INFO></TIPBOX>\n\t\t<TIPBOX>MD 코르 메모리얼 (110)<INFO>7123</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 17.2<INFO>7068</INFO></TIPBOX>\n\t\t<TIPBOX>MD 어스름밤의 정원 (130)<INFO>7124</INFO></TIPBOX>\n\t\t<TIPBOX>MD 헤이! 스위티 (130)<INFO>7125</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시간에게 잊혀진 사육장 (130)<INFO>7126</INFO></TIPBOX>\n\t\t<TIPBOX>MD 숨겨진 화원 (130)<INFO>7127</INFO></TIPBOX>\n\t\t<TIPBOX>MD 수상정원 (130)<INFO>7128</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 18<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>MD 성소 정화 (170)<INFO>4248</INFO></TIPBOX>\n\t\t<TIPBOX>MD 기만의 별장 (170)<INFO>4231</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 19<INFO>4257</INFO></TIPBOX>\n\t\t<TIPBOX>MD 시뮬레이션 융케아 (200)<INFO>4297</INFO></TIPBOX>\n\t\t<TIPBOX>MD 비공정 파괴작전 (200)<INFO>4298</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 20<INFO>4328</INFO></TIPBOX>\n\t\t<TIPBOX>MD 끈적이는 바다 (215)<INFO>4360</INFO></TIPBOX>\n\t\t<TIPBOX>MD 죽지 않는 자 무력화 (215)<INFO>4361</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶ EPISODE 21<INFO>4367</INFO></TIPBOX>\n\t\t<TIPBOX>MD 구 발터 호의 기억 조각 (230)<INFO>4397</INFO></TIPBOX>\n\t\t<TIPBOX>MD 최후의 전투 (230)<INFO>4398</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7083</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7108] = {Title = "MD 14.1 안개 숲 미궁#보라수호", Search = 1, Image = "", 
@@ -3755,31 +4121,31 @@ Page = {"라피네는 가지 않는 곳, 안개 숲. 그곳으로 통하는 입구를 지키고 있는 라피
 [7109] = {Title = "MD 14.3 비오스의 섬 (160)#용사의", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"언제부터인가 계속해서 반복되는 꿈은 노인을 노란 씨앗의 앞으로 이끌었습니다. 마왕 모로크가 부활하는 곳이라 주장하는 노인의 말에 따라 씨앗 안에서 진실을 확인해 봅시다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>불타는 땅<INFO>6083</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 160이상\n\t\t\t\n\t\t<NAVI>[방황하는 노인]<INFO>moro_cav,45,60,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[용사의 전리품]<INFO>22537</INFO></ITEM>\n\t\t\t<ITEM>[용사의 증표]<INFO>6684</INFO></ITEM>\n\t\t\t\n\t\t◈ 용사의 전리품 구성 (랜덤 획득)\n\t\t<ITEM>[용사의 플레이트]<INFO>15093</INFO></ITEM>\n\t\t<ITEM>[용사의 매직코트]<INFO>15094</INFO></ITEM>\n\t\t<ITEM>[용사의 저지먼트숄]<INFO>15095</INFO></ITEM>\n\t\t<ITEM>[용사의 트레이드메일]<INFO>15096</INFO></ITEM>\n\t\t<ITEM>[용사의 히든클로스]<INFO>15097</INFO></ITEM>\n\t\t<ITEM>[용사의 타겟슈츠]<INFO>15098</INFO></ITEM>\n\t\t<ITEM>[용사의 네펜데스 구두]<INFO>22035</INFO></ITEM>\n\t\t<ITEM>[용사의 은빛여우가죽 부츠]<INFO>22036</INFO></ITEM>\n\t\t<ITEM>[용사의 운골리안트 부츠]<INFO>22037</INFO></ITEM> 외 소모품 다수\n\t\t\n\t\t◈ 용사의 반지 교환 및 인챈트\n\t\t\t▷ <ITEM>[용사의 반지]<INFO>2981</INFO></ITEM>\n\t\t\t▷ 필요 아이템: <ITEM>[용사의 증표]<INFO>6684</INFO></ITEM>\n\t\t\t▷ <NAVI>[번즈]<INFO>moro_cav,34,65,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"언제부터인가 계속해서 반복되는 꿈은 노인을 노란 씨앗의 앞으로 이끌었습니다. 마왕 모로크가 부활하는 곳이라 주장하는 노인의 말에 따라 씨앗 안에서 진실을 확인해 봅시다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>불타는 땅<INFO>6083</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 160이상\n\t\t\t\n\t\t<NAVI>[방황하는 노인]<INFO>moro_cav,45,60,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[용사의 전리품]<INFO>22537</INFO></ITEM>\n\t\t\t<ITEM>[용사의 증표]<INFO>6684</INFO></ITEM>\n\t\t\t\n\t\t◈ 용사의 전리품 구성 (랜덤 획득)\n\t\t<ITEM>[용사의 플레이트]<INFO>15093</INFO></ITEM>\n\t\t<ITEM>[용사의 매직코트]<INFO>15094</INFO></ITEM>\n\t\t<ITEM>[용사의 저지먼트숄]<INFO>15095</INFO></ITEM>\n\t\t<ITEM>[용사의 트레이드메일]<INFO>15096</INFO></ITEM>\n\t\t<ITEM>[용사의 히든클로스]<INFO>15097</INFO></ITEM>\n\t\t<ITEM>[용사의 타겟슈츠]<INFO>15098</INFO></ITEM>\n\t\t<ITEM>[용사의 네펜데스 구두]<INFO>22035</INFO></ITEM>\n\t\t<ITEM>[용사의 은빛여우가죽 부츠]<INFO>22036</INFO></ITEM>\n\t\t<ITEM>[용사의 운골리안트 부츠]<INFO>22037</INFO></ITEM> 외 소모품 다수\n\t\t\n\t\t◈ 용사의 반지 교환 및 인챈트\n\t\t\t▷ <ITEM>[용사의 반지]<INFO>2981</INFO></ITEM>\n\t\t\t▷ 필요 아이템: <ITEM>[용사의 증표]<INFO>6684</INFO></ITEM>\n\t\t\t▷ <NAVI>[번즈]<INFO>moro_cav,34,65,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7110] = {Title = "MD 14.3 모르스의 동굴 (160)#용사의", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"모로크의 발자취를 추적하는 선임 추적대원은 자신의 능력으로는 더 이상 추적이 불가능하다 말하며 모험가에게 도움을 요청합니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>비오스의 섬<INFO>7109</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 160이상\n\t\t\t\n\t\t<NAVI>[선임 추적대원]<INFO>moro_cav,61,69,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[용사의 전리품]<INFO>22537</INFO></ITEM>\n\t\t\t<ITEM>[용사의 증표]<INFO>6684</INFO></ITEM>\n\t\t\t\n\t\t◈ 용사의 전리품 구성 (랜덤 획득)\n\t\t<ITEM>[용사의 플레이트]<INFO>15093</INFO></ITEM>\n\t\t<ITEM>[용사의 매직코트]<INFO>15094</INFO></ITEM>\n\t\t<ITEM>[용사의 저지먼트숄]<INFO>15095</INFO></ITEM>\n\t\t<ITEM>[용사의 트레이드메일]<INFO>15096</INFO></ITEM>\n\t\t<ITEM>[용사의 히든클로스]<INFO>15097</INFO></ITEM>\n\t\t<ITEM>[용사의 타겟슈츠]<INFO>15098</INFO></ITEM>\n\t\t<ITEM>[용사의 네펜데스 구두]<INFO>22035</INFO></ITEM>\n\t\t<ITEM>[용사의 은빛여우가죽 부츠]<INFO>22036</INFO></ITEM>\n\t\t<ITEM>[용사의 운골리안트 부츠]<INFO>22037</INFO></ITEM> 외 소모품 다수\n\t\t\n\t\t◈ 용사의 반지 교환 및 인챈트\n\t\t\t▷ <ITEM>[용사의 반지]<INFO>2981</INFO></ITEM>\n\t\t\t▷ 필요 아이템: <ITEM>[용사의 증표]<INFO>6684</INFO></ITEM>\n\t\t\t▷ <NAVI>[번즈]<INFO>moro_cav,34,65,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"모로크의 발자취를 추적하는 선임 추적대원은 자신의 능력으로는 더 이상 추적이 불가능하다 말하며 모험가에게 도움을 요청합니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>비오스의 섬<INFO>7109</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 160이상\n\t\t\t\n\t\t<NAVI>[선임 추적대원]<INFO>moro_cav,61,69,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t\t<ITEM>[용사의 전리품]<INFO>22537</INFO></ITEM>\n\t\t\t<ITEM>[용사의 증표]<INFO>6684</INFO></ITEM>\n\t\t\t\n\t\t◈ 용사의 전리품 구성 (랜덤 획득)\n\t\t<ITEM>[용사의 플레이트]<INFO>15093</INFO></ITEM>\n\t\t<ITEM>[용사의 매직코트]<INFO>15094</INFO></ITEM>\n\t\t<ITEM>[용사의 저지먼트숄]<INFO>15095</INFO></ITEM>\n\t\t<ITEM>[용사의 트레이드메일]<INFO>15096</INFO></ITEM>\n\t\t<ITEM>[용사의 히든클로스]<INFO>15097</INFO></ITEM>\n\t\t<ITEM>[용사의 타겟슈츠]<INFO>15098</INFO></ITEM>\n\t\t<ITEM>[용사의 네펜데스 구두]<INFO>22035</INFO></ITEM>\n\t\t<ITEM>[용사의 은빛여우가죽 부츠]<INFO>22036</INFO></ITEM>\n\t\t<ITEM>[용사의 운골리안트 부츠]<INFO>22037</INFO></ITEM> 외 소모품 다수\n\t\t\n\t\t◈ 용사의 반지 교환 및 인챈트\n\t\t\t▷ <ITEM>[용사의 반지]<INFO>2981</INFO></ITEM>\n\t\t\t▷ 필요 아이템: <ITEM>[용사의 증표]<INFO>6684</INFO></ITEM>\n\t\t\t▷ <NAVI>[번즈]<INFO>moro_cav,34,65,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7111] = {Title = "MD 14.3 마신전 (160)#보라", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"모로크가 숨어든 나무 앞에서 모험가를 기다리고 있던 수호자는 최후의 결전을 위해 영웅에게 길을 열어줍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>마신토벌 진행<INFO>6084</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 160이상\n\t\t\t\n\t\t<NAVI>[수호자 니드호그]<INFO>moro_cav,41,73,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 후 보상으로 <ITEM>[원정대 포상상자]<INFO>22567</INFO></ITEM> 획득 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"모로크가 숨어든 나무 앞에서 모험가를 기다리고 있던 수호자는 최후의 결전을 위해 영웅에게 길을 열어줍니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>마신토벌 진행<INFO>6084</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 160이상\n\t\t\t\n\t\t<NAVI>[수호자 니드호그]<INFO>moro_cav,41,73,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 후 보상으로 <ITEM>[원정대 포상상자]<INFO>22567</INFO></ITEM> 획득 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7112] = {Title = "MD 15.2 중앙 실험실 (135)#130", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"흥미로운 과거의 문명 탐사보다도 밀린 업무와 나약한 몸뚱아리가 걱정인 문명 탐사원은 모험가만 기다린 듯 합니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>재생되는 기억<INFO>10014</INFO></TIPBOX> 진행\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 135이상\n\t\t\t\n\t\t<NAVI>[문명 탐사원]<INFO>verus01,149,155,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"흥미로운 과거의 문명 탐사보다도 밀린 업무와 나약한 몸뚱아리가 걱정인 문명 탐사원은 모험가만 기다린 듯 합니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>재생되는 기억<INFO>10014</INFO></TIPBOX> 진행\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 135이상\n\t\t\t\n\t\t<NAVI>[문명 탐사원]<INFO>verus01,149,155,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7113] = {Title = "MD 15.2 마지막 방 (150)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"지금까지 살펴봤던 다른 방과는 달리 단단해 보이는 문이 일행의 앞을 가로 막고 있습니다. 생존자의 마지막을 떠올리면 문 너머를 확인하기 꺼려지지만 진실과 마주하는 것도 모험가의 일일 겁니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>흔적<INFO>10015</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 150이상\n\t\t\t\n\t\t<NAVI>[베리티]<INFO>verus01,123,181,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 중 획득한 <ITEM>[온전한 기계부품]<INFO>6827</INFO></ITEM>으로 장비 교환 가능\n\t\t▷ 교환 가능 장비\n\t\t\t<ITEM>[폭주하는 칩]<INFO>18997</INFO></ITEM>\n\t\t\t<ITEM>[부러진 칩 01]<INFO>28326</INFO></ITEM>\n\t\t\t<ITEM>[부러진 칩 02]<INFO>28327</INFO></ITEM>\n\t\t\t\n\t\t▷ <NAVI>[프룻]<INFO>verus01,151,173,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"지금까지 살펴봤던 다른 방과는 달리 단단해 보이는 문이 일행의 앞을 가로 막고 있습니다. 생존자의 마지막을 떠올리면 문 너머를 확인하기 꺼려지지만 진실과 마주하는 것도 모험가의 일일 겁니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>흔적<INFO>10015</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 150이상\n\t\t\t\n\t\t<NAVI>[베리티]<INFO>verus01,123,181,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 중 획득한 <ITEM>[온전한 기계부품]<INFO>6827</INFO></ITEM>으로 장비 교환 가능\n\t\t▷ 교환 가능 장비\n\t\t\t<ITEM>[폭주하는 칩]<INFO>18997</INFO></ITEM>\n\t\t\t<ITEM>[부러진 칩 01]<INFO>28326</INFO></ITEM>\n\t\t\t<ITEM>[부러진 칩 02]<INFO>28327</INFO></ITEM>\n\t\t\t\n\t\t▷ <NAVI>[프룻]<INFO>verus01,151,173,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7114] = {Title = "MD 16.1 축복의식 (100)#닐렘", Search = 1, Image = "", 
@@ -3791,25 +4157,19 @@ Page = {"모험가는 영웅의 자격으로 왕위 조례에 참석하는 영예을 얻었습니다.\n\t\t�
 [7115] = {Title = "MD 16.1 의식의 방 (100)#닐렘", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"사라진 테라 글로리아를 추적할 단서를 찾는 왕가들. 실마리는 과거에서 찾을 수 밖에 없는데...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>진실의 실마리<INFO>8121</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 100이상\n\t\t\t\n\t\t<NAVI>[시종 벨]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>을 통해 닐렘을 호출하여 이동\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
-}
-, 
-[7116] = {Title = "MD 16.1 공중요새 침공 (145)#140사념의린디합해바라기레이첼", Search = 1, Image = "", 
-Imgcoord = {Position = 5, Size = 100}
-, 
-Page = {"평화로운 일상을 되찾기 위한 과학자의 노력으로 프론테라를 침공한 공중 요새로 진입할 수 있게 되었습니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>진실의 실마리<INFO>8121</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 3일 1회 공략 가능 (던전 이용권 소지 시 재공략 가능)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 145이상\n\t\t\t\n\t\t<NAVI>[과학자 도연]<INFO>prt_q,249,79,0,101,0</INFO></NAVI>\n\t\t<NAVI>[과학자 도연]<INFO>dali02,122,63,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[린디합]<INFO>21018</INFO></ITEM>\n\t\t<ITEM>[해바라기 소년]<INFO>2027</INFO></ITEM>\n\t\t<ITEM>[줄리엣 디 레이첼]<INFO>28010</INFO></ITEM>\n\t\t<ITEM>[사념의 대거]<INFO>28706</INFO></ITEM>\n\t\t<ITEM>[사념의 세이버]<INFO>13455</INFO></ITEM>\n\t\t<ITEM>[사념의 스피어]<INFO>1400</INFO></ITEM>\n\t\t<ITEM>[사념의 메이스]<INFO>16041</INFO></ITEM>\n\t\t<ITEM>[사념의 로드]<INFO>1600</INFO></ITEM>\n\t\t<ITEM>[사념의 바이올린]<INFO>1900</INFO></ITEM>\n\t\t<ITEM>[사념의 와이어]<INFO>1996</INFO></ITEM>\n\t\t<ITEM>[사념의 북]<INFO>28605</INFO></ITEM>\n\t\t<ITEM>[사념의 투핸드소드]<INFO>21016</INFO></ITEM>\n\t\t<ITEM>[사념의 랜스]<INFO>1450</INFO></ITEM>\n\t\t<ITEM>[사념의 투핸드액스]<INFO>28107</INFO></ITEM>\n\t\t<ITEM>[사념의 스태프]<INFO>2026</INFO></ITEM>\n\t\t<ITEM>[사념의 보우]<INFO>18121</INFO></ITEM>\n\t\t<ITEM>[사념의 카타르]<INFO>28008</INFO></ITEM>\n\t\t<ITEM>[사념의 피스트]<INFO>1800</INFO></ITEM>\n\t\t<ITEM>[사념의 리볼버]<INFO>13128</INFO></ITEM>\n\t\t<ITEM>[사념의 풍마수리검]<INFO>13328</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"사라진 테라 글로리아를 추적할 단서를 찾는 왕가들. 실마리는 과거에서 찾을 수 밖에 없는데...\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>진실의 실마리<INFO>8121</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 100이상\n\t\t\t\n\t\t<NAVI>[시종 벨]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>을 통해 닐렘을 호출하여 이동\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4108</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7117] = {Title = "MD 16.2 하트헌터 군수기지 (100)#기지외곽", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"하트헌터 기지의 타격을 위해 모인 리벨리온들. 적이 맞대응 할 여지를 주지 않으려면 속도가 생명입니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>앙금<INFO>8147</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t   ▷ 하트헌터 군수기지\n\t\t\t→ 1회성 시나리오 모드\n\t\t\t→ 선행 조건: 앙금 완료\n\t\t\t→ 시나리오 모드 진행 후 하트헌터 군수기지 MD 공략 가능\n\t\t\t→ 제한 시간 60분\n\t\t\t→ 레벨 100 이상\n\t\t\t\n\t\t   ▷ 하트헌터 기지 외곽\n\t\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t→ 제한 시간 60분\n\t\t\t→ 제한 레벨 100 이상\n\t\t\t\n\t\t<NAVI>[율리안]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4109</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"하트헌터 기지의 타격을 위해 모인 리벨리온들. 적이 맞대응 할 여지를 주지 않으려면 속도가 생명입니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>앙금<INFO>8147</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t   ▷ 하트헌터 군수기지\n\t\t\t→ 1회성 시나리오 모드\n\t\t\t→ 선행 조건: 앙금 완료\n\t\t\t→ 시나리오 모드 진행 후 하트헌터 군수기지 MD 공략 가능\n\t\t\t→ 제한 시간 60분\n\t\t\t→ 레벨 100 이상\n\t\t\t\n\t\t   ▷ 하트헌터 기지 외곽\n\t\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t→ 제한 시간 60분\n\t\t\t→ 제한 레벨 100 이상\n\t\t\t\n\t\t<NAVI>[율리안]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4109</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7118] = {Title = "중추실 (100)#귀염둥이세이렌", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"리벨리온의 빠른 타격으로 연구소를 완전히 장악했습니다. 사라진 테라 글로리아를 찾으려면 서둘러 중추실로 진입해야 합니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>하트헌터 군수기지<INFO>7117</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1회성 시나리오 모드 공략 후 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 100이상\n\t\t\t\n\t\t<NAVI>[루키]<INFO>slabw01,236,91,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4109</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"리벨리온의 빠른 타격으로 연구소를 완전히 장악했습니다. 사라진 테라 글로리아를 찾으려면 서둘러 중추실로 진입해야 합니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>하트헌터 군수기지<INFO>7117</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1회성 시나리오 모드 공략 후 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 100이상\n\t\t\t\n\t\t<NAVI>[루키]<INFO>slabw01,236,91,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4109</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7119] = {Title = "MD 17.1 레겐쉬름 탈환작전 (110)", Search = 1, Image = "", 
@@ -3833,13 +4193,13 @@ Page = {"선발대가 오스의 철도 수송로를 확보했지만, 완벽하지는 않습니다.\n\t\t일�
 [7122] = {Title = "MD 17.1 오스 2차 수색 (110)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"섬멸 작전으로 1차적인 제압은 했지만 계속해서 뮤턴트들이 출몰하고 있는 실정입니다. 꾸준한 재수색을 통한 색출만이 답인 모양입니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>오스 점령 작전<INFO>7121</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 110이상\n\t\t\t\n\t\t<NAVI>[작전장교]<INFO>sp_cor,160,55,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4110</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"섬멸 작전으로 1차적인 제압은 했지만 계속해서 뮤턴트들이 출몰하고 있는 실정입니다. 꾸준한 재수색을 통한 색출만이 답인 모양입니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>오스 점령 작전<INFO>7121</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 110이상\n\t\t\t\n\t\t<NAVI>[작전장교]<INFO>sp_cor,160,55,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4110</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7123] = {Title = "MD 17.1 코르 메모리얼 (110)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"엘류미나의 아이들은 저전력 모드로 전환하여 코르의 어딘가에 숨어 있습니다. 하지만 그들은 모험가라는 강한 자극을 받아 엘류미나의 통제에서 벗어나 강제 종료시킬 수도 없는 상황.\n\t\t방법은 꾸준한 전투를 통해 지속적으로 힘을 소모시키는 것 뿐!\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>순수한 악동<INFO>7061</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1회 시나리오 모드 진행 후 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 110이상\n\t\t\t\n\t\t<NAVI>[리벨리온]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4110</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"엘류미나의 아이들은 저전력 모드로 전환하여 코르의 어딘가에 숨어 있습니다. 하지만 그들은 모험가라는 강한 자극을 받아 엘류미나의 통제에서 벗어나 강제 종료시킬 수도 없는 상황.\n\t\t방법은 꾸준한 전투를 통해 지속적으로 힘을 소모시키는 것 뿐!\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>순수한 악동<INFO>7061</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1회 시나리오 모드 진행 후 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 110이상\n\t\t\t\n\t\t<NAVI>[리벨리온]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4110</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7124] = {Title = "MD 17.2 어스름밤의 정원 (130)", Search = 1, Image = "", 
@@ -3851,25 +4211,25 @@ Page = {"감시의 눈을 피해서 돌아다니는 하트헌터와 일루시온들을 만나려면 밤을 기�
 [7125] = {Title = "MD 17.2 헤이! 스위티 (130)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"사춘기의 아이들은 불안과 스트레스를 좋지 않은 방향으로 표출하고는 합니다. 스위티와 대련하며 안전하게 스트레스를 발산할 수 있도록 도와줍시다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>해충 박멸 작전<INFO>7073</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130이상\n\t\t\t\n\t\t<NAVI>[스위티]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"사춘기의 아이들은 불안과 스트레스를 좋지 않은 방향으로 표출하고는 합니다. 스위티와 대련하며 안전하게 스트레스를 발산할 수 있도록 도와줍시다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>해충 박멸 작전<INFO>7073</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130이상\n\t\t\t\n\t\t<NAVI>[스위티]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7126] = {Title = "MD 17.2 시간에게 잊혀진 사육장 (130)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"대저택 한켠에 위치한 웅장하고 아름다운 사육장. 그곳에는 야옹이와 피타야들이 살고 있습니다.\n\t\t자동인형의 안내에 따라 사육장 견학과 수확 체험을 해보는 것은 어떨까요?\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>저택의 손님<INFO>7071</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130이상\n\t\t\t\n\t\t<NAVI>[루이난]<INFO>ba_maison,311,206,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"대저택 한켠에 위치한 웅장하고 아름다운 사육장. 그곳에는 야옹이와 피타야들이 살고 있습니다.\n\t\t자동인형의 안내에 따라 사육장 견학과 수확 체험을 해보는 것은 어떨까요?\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>저택의 손님<INFO>7071</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130이상\n\t\t\t\n\t\t<NAVI>[루이난]<INFO>ba_maison,311,206,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7127] = {Title = "MD 17.2 숨겨진 화원 (130)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"숙제를 했는데 검사해줄 사람이 없어 하염없이 기다리던 자동인형들. 그들은 바르문트와 비슷한 마력치를 가진 모험가를 임시 관리자로 삼아 평가를 받길 원합니다.\n\t\t하지만 관리자 자동인형들은 저마다 다른 생각을 품고 있는 것 같은데...?\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>저택의 손님<INFO>7071</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 시나리오 모드\n\t\t\t\t→ 선행 조건: 저택의 손님 완료\n\t\t\t\t→ 1인 던전\n\t\t\t\t→ 시나리오 모드 진행 후 일반 난이도, 상급 난이도 던전의 입장 자격 부여\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 레벨 130 이상\n\t\t\t\n\t\t\t▷ 제 1 보안구역\n\t\t\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 130 이상\n\t\t\t\n\t\t\t▷ 제 2 보안구역\n\t\t\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 180 이상\n\t\t\t\n\t\t<NAVI>[화원 출입 담당자]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"숙제를 했는데 검사해줄 사람이 없어 하염없이 기다리던 자동인형들. 그들은 바르문트와 비슷한 마력치를 가진 모험가를 임시 관리자로 삼아 평가를 받길 원합니다.\n\t\t하지만 관리자 자동인형들은 저마다 다른 생각을 품고 있는 것 같은데...?\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>저택의 손님<INFO>7071</INFO></TIPBOX> 완료\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 시나리오 모드\n\t\t\t\t→ 선행 조건: 저택의 손님 완료\n\t\t\t\t→ 1인 던전\n\t\t\t\t→ 시나리오 모드 진행 후 일반 난이도, 상급 난이도 던전의 입장 자격 부여\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 레벨 130 이상\n\t\t\t\n\t\t\t▷ 제 1 보안구역\n\t\t\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 130 이상\n\t\t\t\n\t\t\t▷ 제 2 보안구역\n\t\t\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 180 이상\n\t\t\t\n\t\t<NAVI>[화원 출입 담당자]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7128] = {Title = "MD 17.2 수상정원 (130)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"엘류미나의 중독을 치료하기 위해서는 대현자의 수상정원에서 나오는 실바 파필리아의 잎이 필요하지만, 정원사들이 쉽게 입장 시켜줄지는 모르는 일입니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>수상정원<INFO>7075</INFO></TIPBOX> 진행\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 제한 레벨\n\t\t\t\t→ 일반 모드 : 레벨 130 이상\n\t\t\t\t→ 어려움 모드 : 레벨 180 이상\n\t\t\t\n\t\t<NAVI>[하라드]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"엘류미나의 중독을 치료하기 위해서는 대현자의 수상정원에서 나오는 실바 파필리아의 잎이 필요하지만, 정원사들이 쉽게 입장 시켜줄지는 모르는 일입니다.\n\t\t\n\t\t◈ 선행 조건: <TIPBOX>수상정원<INFO>7075</INFO></TIPBOX> 진행\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 제한 레벨\n\t\t\t\t→ 일반 모드 : 레벨 130 이상\n\t\t\t\t→ 어려움 모드 : 레벨 180 이상\n\t\t\t\n\t\t<NAVI>[하라드]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ <TIPBOX>던전 공략 전리품<INFO>4111</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7129] = {Title = "MD 영웅의 흔적", Search = 1, Image = "", 
@@ -3881,37 +4241,37 @@ Page = {"오랜 연구 끝에 불안정한 차원의 균열을 통제할 수 있게 되자 균열을 통해 �
 [7130] = {Title = "MD 게펜 마법대회 (90)#차원의균열", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"미드가르드 대륙의 최강자를 가린다!\n\t\t과거 게펜에서 개최된 마법대회에 대한 연구를 진행중인 학자의 부탁을 받아 차원의 균열 너머 게펜으로 넘어간 모험가. 그곳에서 만난 것은 뜻밖에도 대회에 참가한 영웅들?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 90이상\n\t\t\t\n\t\t<NAVI>[차원의 균열 연구 학자]<INFO>dali,98,141,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[게펜 마법 대회 주화]<INFO>6671</INFO></ITEM>\n\t\t<ITEM>[펜릴 카드]<INFO>4556</INFO></ITEM>\n\t\t<ITEM>[약화된 펜릴 카드]<INFO>4557</INFO></ITEM>\n\t\t<ITEM>[펜릴 카드]<INFO>22511</INFO></ITEM>\n\t\t\n\t\t◈ 던전 공략 전리품 교환\n\t\t▷ <ITEM>[게펜 마법 대회 주화]<INFO>6671</INFO></ITEM>를 던전 내 게펜 주화 교환원에게 가지고 가면 장비로 교환 가능\n\t\t<ITEM>[안티 매직 슈츠]<INFO>15073</INFO></ITEM>\n\t\t<ITEM>[게펜 매직 로브]<INFO>15074</INFO></ITEM>\n\t\t<ITEM>[신체 강화 반지]<INFO>2963</INFO></ITEM>\n\t\t<ITEM>[마력 증폭 반지]<INFO>2964</INFO></ITEM>\n\t\t<ITEM>[매직 리플렉터]<INFO>2185</INFO></ITEM>\n\t\t<ITEM>[대백과 사전 개정판]<INFO>2186</INFO></ITEM>\n\t\t\n\t\t◈ 던전 공략 전리품 강화\n\t\t▷ 던전 내 주화 교환원 조수에게서 <ITEM>[게펜 마법 대회 주화]<INFO>6671</INFO></ITEM>로 강화 물품 교환 가능\n\t\t<ITEM>[게펜 마법 방어구 주문서]<INFO>23675</INFO></ITEM>\n\t\t<ITEM>[게펜 마법 액세서리 주문서]<INFO>23679</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"미드가르드 대륙의 최강자를 가린다!\n\t\t과거 게펜에서 개최된 마법대회에 대한 연구를 진행중인 학자의 부탁을 받아 차원의 균열 너머 게펜으로 넘어간 모험가. 그곳에서 만난 것은 뜻밖에도 대회에 참가한 영웅들?\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 90이상\n\t\t\t\n\t\t<NAVI>[차원의 균열 연구 학자]<INFO>dali,98,141,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[게펜 마법 대회 주화]<INFO>6671</INFO></ITEM>\n\t\t<ITEM>[펜릴 카드]<INFO>4556</INFO></ITEM>\n\t\t<ITEM>[약화된 펜릴 카드]<INFO>4557</INFO></ITEM>\n\t\t<ITEM>[펜릴 카드]<INFO>22511</INFO></ITEM>\n\t\t\n\t\t◈ 던전 공략 전리품 교환\n\t\t▷ <ITEM>[게펜 마법 대회 주화]<INFO>6671</INFO></ITEM>를 던전 내 게펜 주화 교환원에게 가지고 가면 장비로 교환 가능\n\t\t<ITEM>[안티 매직 슈츠]<INFO>15073</INFO></ITEM>\n\t\t<ITEM>[게펜 매직 로브]<INFO>15074</INFO></ITEM>\n\t\t<ITEM>[신체 강화 반지]<INFO>2963</INFO></ITEM>\n\t\t<ITEM>[마력 증폭 반지]<INFO>2964</INFO></ITEM>\n\t\t<ITEM>[매직 리플렉터]<INFO>2185</INFO></ITEM>\n\t\t<ITEM>[대백과 사전 개정판]<INFO>2186</INFO></ITEM>\n\t\t\n\t\t◈ 던전 공략 전리품 강화\n\t\t▷ 던전 내 주화 교환원 조수에게서 <ITEM>[게펜 마법 대회 주화]<INFO>6671</INFO></ITEM>로 강화 물품 교환 가능\n\t\t<ITEM>[게펜 마법 방어구 주문서]<INFO>23675</INFO></ITEM>\n\t\t<ITEM>[게펜 마법 액세서리 주문서]<INFO>23679</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7131] = {Title = "MD 사라의 기억 (99)#90차원의균열", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"지금까지 수많은 곳을 탐험해왔던 탐험가 레온은 차원의 균열에서 과거의 페이욘과 연결된 틈을 발견합니다. 탐험가의 등쌀에 떠밀려 도착한 과거의 페이욘에서 모험가는 한 소녀를 만나게 됩니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 99이상\n\t\t\t\n\t\t<NAVI>[탐험가 레온]<INFO>dali,130,107,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"지금까지 수많은 곳을 탐험해왔던 탐험가 레온은 차원의 균열에서 과거의 페이욘과 연결된 틈을 발견합니다. 탐험가의 등쌀에 떠밀려 도착한 과거의 페이욘에서 모험가는 한 소녀를 만나게 됩니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 99이상\n\t\t\t\n\t\t<NAVI>[탐험가 레온]<INFO>dali,130,107,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7132] = {Title = "MD 망령의 왕궁 (120)#차원의균열", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"차원의 균열에서 도움을 청하는 로열가드의 부탁으로 습격을 받고 있는 왕궁으로 가게 된 모험가. 그곳에서 공주와 로열가드의 이야기를 지켜본 모험가는 로열가드의 정체를 알게 되는데...\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 120이상\n\t\t\t\n\t\t<NAVI>[흙빛의 로열가드]<INFO>dali02,43,129,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t▷ 던전 공략 중 획득한 <ITEM>[흙빛의 조각]<INFO>6672</INFO></ITEM>으로 던전 내 국왕에게서 흙빛의 방어구나 타노스의 무기로 교환 가능\n\t\t▷ 흙빛의 방어구\n\t\t<ITEM>[흙빛의 투구]<INFO>18820</INFO></ITEM>\n\t\t<ITEM>[흙빛의 망토]<INFO>20721</INFO></ITEM>\n\t\t<ITEM>[흙빛의 신발]<INFO>22033</INFO></ITEM>\n\t\t<ITEM>[흙빛의 갑옷]<INFO>15090</INFO></ITEM>\n\t\t<ITEM>[흙빛의 로브]<INFO>15091</INFO></ITEM>\n\t\t<ITEM>[흙빛의 방패]<INFO>2187</INFO></ITEM>\n\t\t▷ 타노스의 무기\n\t\t<ITEM>[타노스의 양손 지팡이]<INFO>2023</INFO></ITEM>\n\t\t<ITEM>[타노스의 양손창]<INFO>1496</INFO></ITEM>\n\t\t<ITEM>[타노스의 대검]<INFO>21009</INFO></ITEM>\n\t\t<ITEM>[타노스의 도끼]<INFO>28100</INFO></ITEM>\n\t\t<ITEM>[타노스의 카타르]<INFO>28000</INFO></ITEM>\n\t\t<ITEM>[타노스의 활]<INFO>18119</INFO></ITEM>\n\t\t<ITEM>[타노스의 검]<INFO>13441</INFO></ITEM>\n\t\t<ITEM>[타노스의 단검]<INFO>13093</INFO></ITEM>\n\t\t<ITEM>[타노스의 창]<INFO>1438</INFO></ITEM>\n\t\t<ITEM>[타노스의 망치]<INFO>16028</INFO></ITEM>\n\t\t<ITEM>[타노스의 지팡이]<INFO>1669</INFO></ITEM>\n\t\t<ITEM>[타노스의 너클]<INFO>1836</INFO></ITEM>\n\t\t<ITEM>[타노스의 바이올린]<INFO>1933</INFO></ITEM>\n\t\t<ITEM>[타노스의 윕소드]<INFO>1988</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"차원의 균열에서 도움을 청하는 로열가드의 부탁으로 습격을 받고 있는 왕궁으로 가게 된 모험가. 그곳에서 공주와 로열가드의 이야기를 지켜본 모험가는 로열가드의 정체를 알게 되는데...\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 120이상\n\t\t\t\n\t\t<NAVI>[흙빛의 로열가드]<INFO>dali02,43,129,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t▷ 던전 공략 중 획득한 <ITEM>[흙빛의 조각]<INFO>6672</INFO></ITEM>으로 던전 내 국왕에게서 흙빛의 방어구나 타노스의 무기로 교환 가능\n\t\t▷ 흙빛의 방어구\n\t\t<ITEM>[흙빛의 투구]<INFO>18820</INFO></ITEM>\n\t\t<ITEM>[흙빛의 망토]<INFO>20721</INFO></ITEM>\n\t\t<ITEM>[흙빛의 신발]<INFO>22033</INFO></ITEM>\n\t\t<ITEM>[흙빛의 갑옷]<INFO>15090</INFO></ITEM>\n\t\t<ITEM>[흙빛의 로브]<INFO>15091</INFO></ITEM>\n\t\t<ITEM>[흙빛의 방패]<INFO>2187</INFO></ITEM>\n\t\t▷ 타노스의 무기\n\t\t<ITEM>[타노스의 양손 지팡이]<INFO>2023</INFO></ITEM>\n\t\t<ITEM>[타노스의 양손창]<INFO>1496</INFO></ITEM>\n\t\t<ITEM>[타노스의 대검]<INFO>21009</INFO></ITEM>\n\t\t<ITEM>[타노스의 도끼]<INFO>28100</INFO></ITEM>\n\t\t<ITEM>[타노스의 카타르]<INFO>28000</INFO></ITEM>\n\t\t<ITEM>[타노스의 활]<INFO>18119</INFO></ITEM>\n\t\t<ITEM>[타노스의 검]<INFO>13441</INFO></ITEM>\n\t\t<ITEM>[타노스의 단검]<INFO>13093</INFO></ITEM>\n\t\t<ITEM>[타노스의 창]<INFO>1438</INFO></ITEM>\n\t\t<ITEM>[타노스의 망치]<INFO>16028</INFO></ITEM>\n\t\t<ITEM>[타노스의 지팡이]<INFO>1669</INFO></ITEM>\n\t\t<ITEM>[타노스의 너클]<INFO>1836</INFO></ITEM>\n\t\t<ITEM>[타노스의 바이올린]<INFO>1933</INFO></ITEM>\n\t\t<ITEM>[타노스의 윕소드]<INFO>1988</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7133] = {Title = "MD 비공정 습격 (125)#120차원의균열", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"과거의 영웅들도 탔던 비공정!\n\t\t하지만 직접 탐험을 할 수 없는 리온은 비공정의 기억이 새겨진 균열 근처에서 서성이며 정보를 가져다 줄 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 125이상\n\t\t\t\n\t\t<NAVI>[탐험가 리온]<INFO>dali02,136,79,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[비공정 갑옷]<INFO>15116</INFO></ITEM>\n\t\t<ITEM>[비공정 망토]<INFO>20743</INFO></ITEM>\n\t\t<ITEM>[비공정 부츠]<INFO>22046</INFO></ITEM>\n\t\t<ITEM>[펠록의 갑옷]<INFO>15117</INFO></ITEM>\n\t\t<ITEM>[펠록의 망토]<INFO>20744</INFO></ITEM>\n\t\t<ITEM>[펠록의 부츠]<INFO>22047</INFO></ITEM>\n\t\t<ITEM>[펠록의 모자]<INFO>19914</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"과거의 영웅들도 탔던 비공정!\n\t\t하지만 직접 탐험을 할 수 없는 리온은 비공정의 기억이 새겨진 균열 근처에서 서성이며 정보를 가져다 줄 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 125이상\n\t\t\t\n\t\t<NAVI>[탐험가 리온]<INFO>dali02,136,79,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[비공정 갑옷]<INFO>15116</INFO></ITEM>\n\t\t<ITEM>[비공정 망토]<INFO>20743</INFO></ITEM>\n\t\t<ITEM>[비공정 부츠]<INFO>22046</INFO></ITEM>\n\t\t<ITEM>[펠록의 갑옷]<INFO>15117</INFO></ITEM>\n\t\t<ITEM>[펠록의 망토]<INFO>20744</INFO></ITEM>\n\t\t<ITEM>[펠록의 부츠]<INFO>22047</INFO></ITEM>\n\t\t<ITEM>[펠록의 모자]<INFO>19914</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7134] = {Title = "MD 마신의 탑 (130)#차원의균열", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"마신이 강림한 탑을 탐사할 탐사원 급구!! 희대의 마신 모로크를 직접 만날 수 있는 절호의 기회!! 제발 와주세요!!!\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130이상\n\t\t\t\n\t\t<NAVI>[역사학자 세피트]<INFO>dali02,134,119,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 보상\n\t\t▷ 보물 상자에서 랜덤 제련, 랜덤 인챈트 된 마신을 해치운 무기 드랍\n\t\t<ITEM>[마신을 이긴 지팡이]<INFO>1671</INFO></ITEM>\n\t\t<ITEM>[마신을 찌른 단검]<INFO>13094</INFO></ITEM>\n\t\t<ITEM>[마신을 파괴한 해머]<INFO>16027</INFO></ITEM>\n\t\t<ITEM>[마신을 꿰뚫은 활]<INFO>18120</INFO></ITEM>\n\t\t<ITEM>[마신을 베어낸 검]<INFO>21010</INFO></ITEM>\n\t\t<ITEM>[마신을 찢은 카타르]<INFO>28001</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"마신이 강림한 탑을 탐사할 탐사원 급구!! 희대의 마신 모로크를 직접 만날 수 있는 절호의 기회!! 제발 와주세요!!!\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130이상\n\t\t\t\n\t\t<NAVI>[역사학자 세피트]<INFO>dali02,134,119,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 보상\n\t\t▷ 보물 상자에서 랜덤 제련, 랜덤 인챈트 된 마신을 해치운 무기 드랍\n\t\t<ITEM>[마신을 이긴 지팡이]<INFO>1671</INFO></ITEM>\n\t\t<ITEM>[마신을 찌른 단검]<INFO>13094</INFO></ITEM>\n\t\t<ITEM>[마신을 파괴한 해머]<INFO>16027</INFO></ITEM>\n\t\t<ITEM>[마신을 꿰뚫은 활]<INFO>18120</INFO></ITEM>\n\t\t<ITEM>[마신을 베어낸 검]<INFO>21010</INFO></ITEM>\n\t\t<ITEM>[마신을 찢은 카타르]<INFO>28001</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7135] = {Title = "MD 페이스웜의 둥지 (140)#차원의균열", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"차원의 균열을 연구중인 마법학자는 자신이 담당하고 있는 곳을 다녀간 모험가들이 균열의 너머에서 경험한 것을 이야기해주지 않아 매우 궁금해하고 있습니다.\n\t\t직접 찾아간 그 곳에서 맞닥뜨리게 된 것은...!!\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 140이상\n\t\t\t\n\t\t<NAVI>[마법학자]<INFO>dali,80,60,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[거신뱀의 껍질]<INFO>20717</INFO></ITEM>\n\t\t<ITEM>[거신뱀의 껍질[1]]<INFO>20718</INFO></ITEM>\n\t\t<ITEM>[페이스웜의 다리]<INFO>13089</INFO></ITEM>\n\t\t<ITEM>[페이스웜 퀸의 다리]<INFO>13090</INFO></ITEM>\n\t\t\n\t\t◈ 던전 공략 전리품 강화\n\t\t던전 공략 중 등장하는 보물상자를 클릭하여 <ITEM>[거신뱀의 껍질]<INFO>20717</INFO></ITEM> 혹은 <ITEM>[거신뱀의 껍질[1]]<INFO>20718</INFO></ITEM> 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"차원의 균열을 연구중인 마법학자는 자신이 담당하고 있는 곳을 다녀간 모험가들이 균열의 너머에서 경험한 것을 이야기해주지 않아 매우 궁금해하고 있습니다.\n\t\t직접 찾아간 그 곳에서 맞닥뜨리게 된 것은...!!\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 140이상\n\t\t\t\n\t\t<NAVI>[마법학자]<INFO>dali,80,60,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 던전 공략 전리품\n\t\t<ITEM>[거신뱀의 껍질]<INFO>20717</INFO></ITEM>\n\t\t<ITEM>[거신뱀의 껍질[1]]<INFO>20718</INFO></ITEM>\n\t\t<ITEM>[페이스웜의 다리]<INFO>13089</INFO></ITEM>\n\t\t<ITEM>[페이스웜 퀸의 다리]<INFO>13090</INFO></ITEM>\n\t\t\n\t\t◈ 던전 공략 전리품 강화\n\t\t던전 공략 중 등장하는 보물상자를 클릭하여 <ITEM>[거신뱀의 껍질]<INFO>20717</INFO></ITEM> 혹은 <ITEM>[거신뱀의 껍질[1]]<INFO>20718</INFO></ITEM> 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7129</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7136] = {Title = "MD 펜릴과 사라 (145)#140차원의균열", Search = 1, Image = "", 
@@ -3929,19 +4289,19 @@ Page = {"미드가르드 대륙에 자리한 룬-미드가츠, 슈발츠발드, 아루나펠츠의 삼국. 오
 [7138] = {Title = "MD EDDA 낮에 나온 반달 (80)#라헬아루나교황에다메던메모던전신관", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"미드가르드와 신대륙을 오가던 어느 날 아루나펠츠의 대신관 니르엔으로부터 가급적 빠른 방문을 요청하는 편지를 받습니다.\n\t\t아무래도 교황에게 무슨 일이 생긴 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 제한 레벨\n\t\t\t\t→ 이지 모드 : 레벨 80 이상 129 이하\n\t\t\t\t→ 하드 모드 : 레벨 130 이상\n\t\t\t\n\t\t<NAVI>[니르엔 대신관]<INFO>rachel,174,138,0,101,0</INFO></NAVI>\n\t\t◈ 던전 공략 중 획득한 <ITEM>[신관의 목걸이]<INFO>28387</INFO></ITEM>와 <ITEM>[꿈의 파편]<INFO>25088</INFO></ITEM>을 <NAVI>[신전 물품 관리인]<INFO>rachel,177,139,0,101,0</INFO></NAVI>에게 가지고 가면 인챈트 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"미드가르드와 신대륙을 오가던 어느 날 아루나펠츠의 대신관 니르엔으로부터 가급적 빠른 방문을 요청하는 편지를 받습니다.\n\t\t아무래도 교황에게 무슨 일이 생긴 것 같습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 1인 던전\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 제한 레벨\n\t\t\t\t→ 이지 모드 : 레벨 80 이상 129 이하\n\t\t\t\t→ 하드 모드 : 레벨 130 이상\n\t\t\t\n\t\t<NAVI>[니르엔 대신관]<INFO>rachel,174,138,0,101,0</INFO></NAVI>\n\t\t◈ 던전 공략 중 획득한 <ITEM>[신관의 목걸이]<INFO>28387</INFO></ITEM>와 <ITEM>[꿈의 파편]<INFO>25088</INFO></ITEM>을 <NAVI>[신전 물품 관리인]<INFO>rachel,177,139,0,101,0</INFO></NAVI>에게 가지고 가면 인챈트 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7139] = {Title = "MD EDDA 글래스트헤임 (130)#룬미드가츠고성게펜에다메던메모던전국왕오염응고결정저주오스카", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"부하와 백성을 지키기 위한 국왕, 슈미츠의 선택. 동시대의 세력들에 의해 사실과 다르게 기록된 국왕의 헌신은 후세에 이르러서는 완전히 왜곡되었습니다. 이를 위해 시공룡이 나섰습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 시나리오 모드\n\t\t\t\t→ 시나리오 모드 진행 후 일반 난이도, 상급 난이도 던전의 입장 자격 부여\n\t\t\t\t→ 1인 던전 \n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 레벨 130 이상\n\t\t\t\n\t\t\t▷ 일반 난이도\n\t\t\t\t→ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 130 이상\n\t\t\t\t→ 주요 보상 : 저주에 잠식되는 결정\n\t\t\t\n\t\t\t▷ 상급 난이도\n\t\t\t\t→ 3일에 1회 반복 공략 가능\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 170 이상\n\t\t\t\t→ 주요 보상 : 저주에 침식된 원석\n\t\t\t\n\t\t<NAVI>[오스카]<INFO>glast_01,241,290,0,101,0</INFO></NAVI>", "◈ 국왕 슈미츠의 유물 교환\n\t\t▷ 필요 아이템\n\t\t\t<ITEM>[저주에 잠식되는 결정]<INFO>25739</INFO></ITEM>과 <ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[저주에 침식된 원석]<INFO>25740</INFO></ITEM>과 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\t던전 공략 중 획득 가능\n\t\t▷ <NAVI>[OSC1052]<INFO>glast_01,245,296,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 국왕 슈미츠의 유물 강화\n\t\t▷ 필요 아이템\n\t\t\t<ITEM>[저주에 잠식되는 결정]<INFO>25739</INFO></ITEM>과 <ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[저주에 침식된 원석]<INFO>25740</INFO></ITEM>과 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\t던전 공략 중 획득 가능\n\t\t▷ <NAVI>[OSC1127]<INFO>glast_01,243,296,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"부하와 백성을 지키기 위한 국왕, 슈미츠의 선택. 동시대의 세력들에 의해 사실과 다르게 기록된 국왕의 헌신은 후세에 이르러서는 완전히 왜곡되었습니다. 이를 위해 시공룡이 나섰습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 시나리오 모드\n\t\t\t\t→ 시나리오 모드 진행 후 일반 난이도, 상급 난이도 던전의 입장 자격 부여\n\t\t\t\t→ 1인 던전 \n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 레벨 130 이상\n\t\t\t\n\t\t\t▷ 일반 난이도\n\t\t\t\t→ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 130 이상\n\t\t\t\t→ 주요 보상 : 저주에 잠식되는 결정\n\t\t\t\n\t\t\t▷ 상급 난이도\n\t\t\t\t→ 3일에 1회 공략 가능\n\t\t\t\t→ 제한 시간 60분\n\t\t\t\t→ 제한 레벨 170 이상\n\t\t\t\t→ 주요 보상 : 저주에 침식된 원석\n\t\t\t\n\t\t<NAVI>[오스카]<INFO>glast_01,241,290,0,101,0</INFO></NAVI>", "◈ 국왕 슈미츠의 유물 교환\n\t\t▷ 필요 아이템\n\t\t\t<ITEM>[저주에 잠식되는 결정]<INFO>25739</INFO></ITEM>과 <ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[저주에 침식된 원석]<INFO>25740</INFO></ITEM>과 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\t던전 공략 중 획득 가능\n\t\t▷ <NAVI>[OSC1052]<INFO>glast_01,245,296,0,101,0</INFO></NAVI>\n\t\t\n\t\t◈ 국왕 슈미츠의 유물 강화\n\t\t▷ 필요 아이템\n\t\t\t<ITEM>[저주에 잠식되는 결정]<INFO>25739</INFO></ITEM>과 <ITEM>[시간의 결정]<INFO>6607</INFO></ITEM>\n\t\t\t<ITEM>[저주에 침식된 원석]<INFO>25740</INFO></ITEM>과 <ITEM>[오염된 마력]<INFO>6755</INFO></ITEM>\n\t\t\t던전 공략 중 획득 가능\n\t\t▷ <NAVI>[OSC1127]<INFO>glast_01,243,296,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7140] = {Title = "MD 생체연구소-원정의 여로 (170)#슈발츠생던리히에다메던메모던전EDDA", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"트리스탄 국왕의 실종을 조사하러 슈발츠발드로 떠났지만 역시나 실종된 세이렌 윈저 일행. 그 실종의 비밀은 생체연구소의 지하에 매몰되어 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 170이상\n\t\t\t▷ 탐사모드/ 전투모드 선택\n\t\t\t\t→ 탐사모드 : 탐사대가 겪은 사건을 이야기를 중심으로 진행. 전투가 쉽고 적으나 보상이 적고 보너스 보상이 지급되지 않음.\n\t\t\t\t→ 전투모드 : 탐사대 사대가 겪은 사건을 전투를 중심으로 진행. 전투가 까다로우나 많은 보상과 함께 일정 확률로 보너스 보상 상자가 등장.\n\t\t\t\n\t\t<NAVI>[시에라]<INFO>yuno,216,345,0,101,0</INFO></NAVI>", "◈ 전투모드 공략 전리품\n\t\t\t▷ 던전 진행 중 ??? 상자에서 무기류 획득 가능\n\t\t\t\n\t\t◈ 획득 무기 강화\n\t\t\t▷ 필요 아이템\n\t\t\t\t<ITEM>[생체 실험 파편]<INFO>25787</INFO></ITEM>과 <ITEM>[생체 연구 서류]<INFO>25786</INFO></ITEM>\n\t\t\t\t던전 공략 보상으로 획득\n\t\t\t▷ <NAVI>[라비앙]<INFO>yuno,220,352,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ ??? 상자 구성품 (랜덤 획득)\n\t\t\t<ITEM>[아도라레 스태프]<INFO>2057</INFO></ITEM>\n\t\t\t<ITEM>[아구도 필로]<INFO>28044</INFO></ITEM>\n\t\t\t<ITEM>[에이밍 보우]<INFO>18186</INFO></ITEM>\n\t\t\t<ITEM>[앤틱 첼로]<INFO>32108</INFO></ITEM>\n\t\t\t<ITEM>[아르헨 블란코]<INFO>32023</INFO></ITEM>\n\t\t\t<ITEM>[투신의 붕대]<INFO>1866</INFO></ITEM>\n\t\t\t<ITEM>[블랙 서클]<INFO>32107</INFO></ITEM>\n\t\t\t<ITEM>[볼티진]<INFO>28633</INFO></ITEM>\n\t\t\t<ITEM>[총명추]<INFO>16096</INFO></ITEM>\n\t\t\t<ITEM>[맹룡투갑]<INFO>1865</INFO></ITEM>\n\t\t\t<ITEM>[쿨란트 인젝션]<INFO>16093</INFO></ITEM>\n\t\t\t<ITEM>[크림즌 로즈 스틱]<INFO>26158</INFO></ITEM>\n\t\t\t<ITEM>[더스트 그레이브]<INFO>26160</INFO></ITEM>\n\t\t\t<ITEM>[엔진 파일벙커]<INFO>16092</INFO></ITEM>\n\t\t\t<ITEM>[이스탈]<INFO>32351</INFO></ITEM>\n\t\t\t<ITEM>[팔켄 슈터]<INFO>18187</INFO></ITEM>\n\t\t\t<ITEM>[파르테잔]<INFO>32350</INFO></ITEM>\n\t\t\t<ITEM>[포트리지]<INFO>32025</INFO></ITEM>\n\t\t\t<ITEM>[제네로드]<INFO>16094</INFO></ITEM>\n\t\t\t<ITEM>[골든 렌치]<INFO>1333</INFO></ITEM>\n\t\t\t<ITEM>[그라비테이션 스태프]<INFO>2056</INFO></ITEM>\n\t\t\t<ITEM>[하베]<INFO>32024</INFO></ITEM>\n\t\t\t<ITEM>[하트 휩]<INFO>26212</INFO></ITEM>\n\t\t\t<ITEM>[잭 더 나이프]<INFO>28767</INFO></ITEM>\n\t\t\t<ITEM>[저지먼트 슬래셔]<INFO>28765</INFO></ITEM>\n\t\t\t<ITEM>[루시스 플레일]<INFO>16095</INFO></ITEM>\n\t\t\t<ITEM>[맥시 스패너]<INFO>28138</INFO></ITEM>\n\t\t\t<ITEM>[플래티넘 대거]<INFO>28768</INFO></ITEM>\n\t\t\t<ITEM>[페니텐티아]<INFO>26161</INFO></ITEM>\n\t\t\t<ITEM>[사이킥 스피어 로드]<INFO>26159</INFO></ITEM>\n\t\t\t<ITEM>[래피드 파이어]<INFO>18184</INFO></ITEM>\n\t\t\t<ITEM>[리퍼 크로스]<INFO>28042</INFO></ITEM>\n\t\t\t<ITEM>[스칼렛 리본]<INFO>26213</INFO></ITEM>\n\t\t\t<ITEM>[샤프 스타]<INFO>18185</INFO></ITEM>\n\t\t\t<ITEM>[스태프 오브 미라클]<INFO>2055</INFO></ITEM>\n\t\t\t<ITEM>[베르난]<INFO>21052</INFO></ITEM>\n\t\t\t<ITEM>[볼라르]<INFO>21051</INFO></ITEM>\n\t\t\t<ITEM>[윈드 가일]<INFO>18188</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"트리스탄 국왕의 실종을 조사하러 슈발츠발드로 떠났지만 역시나 실종된 세이렌 윈저 일행. 그 실종의 비밀은 생체연구소의 지하에 매몰되어 모험가를 기다리고 있습니다.\n\t\t\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 170이상\n\t\t\t▷ 탐사모드/ 전투모드 선택\n\t\t\t\t→ 탐사모드 : 탐사대가 겪은 사건을 이야기를 중심으로 진행. 전투가 쉽고 적으나 보상이 적고 보너스 보상이 지급되지 않음.\n\t\t\t\t→ 전투모드 : 탐사대 사대가 겪은 사건을 전투를 중심으로 진행. 전투가 까다로우나 많은 보상과 함께 일정 확률로 보너스 보상 상자가 등장.\n\t\t\t\n\t\t<NAVI>[시에라]<INFO>yuno,216,345,0,101,0</INFO></NAVI>", "◈ 전투모드 공략 전리품\n\t\t\t▷ 던전 진행 중 ??? 상자에서 무기류 획득 가능\n\t\t\t\n\t\t◈ 획득 무기 강화\n\t\t\t▷ 필요 아이템\n\t\t\t\t<ITEM>[생체 실험 파편]<INFO>25787</INFO></ITEM>과 <ITEM>[생체 연구 서류]<INFO>25786</INFO></ITEM>\n\t\t\t\t던전 공략 보상으로 획득\n\t\t\t▷ <NAVI>[라비앙]<INFO>yuno,220,352,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t◈ ??? 상자 구성품 (랜덤 획득)\n\t\t\t<ITEM>[아도라레 스태프]<INFO>2057</INFO></ITEM>\n\t\t\t<ITEM>[아구도 필로]<INFO>28044</INFO></ITEM>\n\t\t\t<ITEM>[에이밍 보우]<INFO>18186</INFO></ITEM>\n\t\t\t<ITEM>[앤틱 첼로]<INFO>32108</INFO></ITEM>\n\t\t\t<ITEM>[아르헨 블란코]<INFO>32023</INFO></ITEM>\n\t\t\t<ITEM>[투신의 붕대]<INFO>1866</INFO></ITEM>\n\t\t\t<ITEM>[블랙 서클]<INFO>32107</INFO></ITEM>\n\t\t\t<ITEM>[볼티진]<INFO>28633</INFO></ITEM>\n\t\t\t<ITEM>[총명추]<INFO>16096</INFO></ITEM>\n\t\t\t<ITEM>[맹룡투갑]<INFO>1865</INFO></ITEM>\n\t\t\t<ITEM>[쿨란트 인젝션]<INFO>16093</INFO></ITEM>\n\t\t\t<ITEM>[크림즌 로즈 스틱]<INFO>26158</INFO></ITEM>\n\t\t\t<ITEM>[더스트 그레이브]<INFO>26160</INFO></ITEM>\n\t\t\t<ITEM>[엔진 파일벙커]<INFO>16092</INFO></ITEM>\n\t\t\t<ITEM>[이스탈]<INFO>32351</INFO></ITEM>\n\t\t\t<ITEM>[팔켄 슈터]<INFO>18187</INFO></ITEM>\n\t\t\t<ITEM>[파르테잔]<INFO>32350</INFO></ITEM>\n\t\t\t<ITEM>[포트리지]<INFO>32025</INFO></ITEM>\n\t\t\t<ITEM>[제네로드]<INFO>16094</INFO></ITEM>\n\t\t\t<ITEM>[골든 렌치]<INFO>1333</INFO></ITEM>\n\t\t\t<ITEM>[그라비테이션 스태프]<INFO>2056</INFO></ITEM>\n\t\t\t<ITEM>[하베]<INFO>32024</INFO></ITEM>\n\t\t\t<ITEM>[하트 휩]<INFO>26212</INFO></ITEM>\n\t\t\t<ITEM>[잭 더 나이프]<INFO>28767</INFO></ITEM>\n\t\t\t<ITEM>[저지먼트 슬래셔]<INFO>28765</INFO></ITEM>\n\t\t\t<ITEM>[루시스 플레일]<INFO>16095</INFO></ITEM>\n\t\t\t<ITEM>[맥시 스패너]<INFO>28138</INFO></ITEM>\n\t\t\t<ITEM>[플래티넘 대거]<INFO>28768</INFO></ITEM>\n\t\t\t<ITEM>[페니텐티아]<INFO>26161</INFO></ITEM>\n\t\t\t<ITEM>[사이킥 스피어 로드]<INFO>26159</INFO></ITEM>\n\t\t\t<ITEM>[래피드 파이어]<INFO>18184</INFO></ITEM>\n\t\t\t<ITEM>[리퍼 크로스]<INFO>28042</INFO></ITEM>\n\t\t\t<ITEM>[스칼렛 리본]<INFO>26213</INFO></ITEM>\n\t\t\t<ITEM>[샤프 스타]<INFO>18185</INFO></ITEM>\n\t\t\t<ITEM>[스태프 오브 미라클]<INFO>2055</INFO></ITEM>\n\t\t\t<ITEM>[베르난]<INFO>21052</INFO></ITEM>\n\t\t\t<ITEM>[볼라르]<INFO>21051</INFO></ITEM>\n\t\t\t<ITEM>[윈드 가일]<INFO>18188</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7137</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7141] = {Title = "로컬 지역 MD", Search = 1, Image = "", 
@@ -3953,19 +4313,19 @@ Page = {"미드가르드 대륙과는 다른 이국의 정취를 느낄 수 있는 미지의 지역.\n\t\t�
 [7142] = {Title = "MD 벙웅곳 병원 2층 (100)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"병원은 어쩐지 무서운 기분이 드는 곳입니다. 이 병원은 심지어 저주일지 질병일지 요정일지도 모르는 몬스터가 사는 곳??? 죽어도 죽은 것이 아니라는 흉흉한 이야기까지?\n\t\t\n\t\t◈ 선행 조건: 포트 말라야의 간호사 완료\n\t\t◈ 던전 구성\n\t\t\t▷ 7일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 100 이상\n\t\t\t\n\t\t<NAVI>[간호사]<INFO>ma_dun01,147,10,0,101,0</INFO></NAVI>\n\t\t◈ 던전공략 중 획득한 <ITEM>[악몽의 벙웅곳 부츠]<INFO>2491</INFO></ITEM>나 <ITEM>[칼라삭]<INFO>2169</INFO></ITEM>을 <NAVI>[부족 대장장이]<INFO>ma_fild01,158,243,0,101,0</INFO></NAVI>에게 가지고 가면 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"병원은 어쩐지 무서운 기분이 드는 곳입니다. 이 병원은 심지어 저주일지 질병일지 요정일지도 모르는 몬스터가 사는 곳??? 죽어도 죽은 것이 아니라는 흉흉한 이야기까지?\n\t\t\n\t\t◈ 선행 조건: 포트 말라야의 간호사 완료\n\t\t◈ 던전 구성\n\t\t\t▷ 7일마다 1회 공략 가능\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 100 이상\n\t\t\t\n\t\t<NAVI>[간호사]<INFO>ma_dun01,147,10,0,101,0</INFO></NAVI>\n\t\t◈ 던전공략 중 획득한 <ITEM>[악몽의 벙웅곳 부츠]<INFO>2491</INFO></ITEM>나 <ITEM>[칼라삭]<INFO>2169</INFO></ITEM>을 <NAVI>[부족 대장장이]<INFO>ma_fild01,158,243,0,101,0</INFO></NAVI>에게 가지고 가면 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7143] = {Title = "MD 부워여의 동굴 (130)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"마을 사람들의 실종에 관련된 동굴 속의 몬스터, 부워여. 그간 부워여를 처치하기 위해 많은 사람들이 동원되었으나 완전히 격퇴된 적은 없다고 합니다.\n\t\t다시는 나타나는 일이 없도록 힘을 보탭시다.\n\t\t\n\t\t◈ 선행 조건: 숲 속의 비밀 완료\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 반복 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130 이상\n\t\t\t\n\t\t<NAVI>[경비병]<INFO>ma_fild02,312,317,0,101,0</INFO></NAVI>\n\t\t◈ 던전공략 중 획득한 <ITEM>[부워여 주머니 옷]<INFO>2590</INFO></ITEM>나 <ITEM>[칼라삭]<INFO>2169</INFO></ITEM>을 <NAVI>[부족 대장장이]<INFO>ma_fild01,158,243,0,101,0</INFO></NAVI>에게 가지고 가면 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"마을 사람들의 실종에 관련된 동굴 속의 몬스터, 부워여. 그간 부워여를 처치하기 위해 많은 사람들이 동원되었으나 완전히 격퇴된 적은 없다고 합니다.\n\t\t다시는 나타나는 일이 없도록 힘을 보탭시다.\n\t\t\n\t\t◈ 선행 조건: 숲 속의 비밀 완료\n\t\t◈ 던전 구성\n\t\t\t▷ 매일 공략 가능 (익일 04시 초기화)\n\t\t\t▷ 제한 시간 60분\n\t\t\t▷ 레벨 130 이상\n\t\t\t\n\t\t<NAVI>[경비병]<INFO>ma_fild02,312,317,0,101,0</INFO></NAVI>\n\t\t◈ 던전공략 중 획득한 <ITEM>[부워여 주머니 옷]<INFO>2590</INFO></ITEM>나 <ITEM>[칼라삭]<INFO>2169</INFO></ITEM>을 <NAVI>[부족 대장장이]<INFO>ma_fild01,158,243,0,101,0</INFO></NAVI>에게 가지고 가면 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7144] = {Title = "MD 버코너워 호수 (140)", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"버코너워 때문에 우리 모두 다 죽겠다!! 간절한 마을 사람들의 외침.\n\t\t이제는 이 고통을 끊어야 할 때입니다.\n\t\t\n\t\t◈ 선행 조건: 버코너워 호수 입장 퀘스트 완료\n\t\t◈ 던전 구성\n\t\t\t▷ 7일마다 1회 반복 공략 가능\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 140 이상\n\t\t\t\n\t\t<NAVI>[따호]<INFO>ma_scene01,174,179,0,101,0</INFO></NAVI>\n\t\t◈ 던전공략 중 획득한 <ITEM>[버코너워 비늘 갑옷]<INFO>15051</INFO></ITEM>나 <ITEM>[칼라삭]<INFO>2169</INFO></ITEM>을 <NAVI>[부족 대장장이]<INFO>ma_fild01,158,243,0,101,0</INFO></NAVI>에게 가지고 가면 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"버코너워 때문에 우리 모두 다 죽겠다!! 간절한 마을 사람들의 외침.\n\t\t이제는 이 고통을 끊어야 할 때입니다.\n\t\t\n\t\t◈ 선행 조건: 버코너워 호수 입장 퀘스트 완료\n\t\t◈ 던전 구성\n\t\t\t▷ 7일마다 1회 공략 가능\n\t\t\t▷ 제한 시간 120분\n\t\t\t▷ 레벨 140 이상\n\t\t\t\n\t\t<NAVI>[따호]<INFO>ma_scene01,174,179,0,101,0</INFO></NAVI>\n\t\t◈ 던전공략 중 획득한 <ITEM>[버코너워 비늘 갑옷]<INFO>15051</INFO></ITEM>나 <ITEM>[칼라삭]<INFO>2169</INFO></ITEM>을 <NAVI>[부족 대장장이]<INFO>ma_fild01,158,243,0,101,0</INFO></NAVI>에게 가지고 가면 강화 가능\n\t\t\n\t\t<TIPBOX>▶이전 페이지로<INFO>7141</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [7145] = {Title = "계절 이벤트#축제", Search = 1, Image = "", 
@@ -7185,7 +7545,7 @@ Page = {"일루전 탐험에 자신이 있었던 세신은 생각보다 강한 적들과 마주하게 되어 �
 [10089] = {Title = "큐펫 리스트", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"테이밍 아이템을 사용하거나 쿠폰 또는 이벤트 등으로 획득 가능한 큐펫 리스트입니다.\n\n\t\t▶큐펫 리스트\n\t\t<TIPBOX>큐펫 풋내기 포링<INFO>10090</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포링<INFO>10091</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 마스터링<INFO>10092</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엔젤링<INFO>10093</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 드롭프스<INFO>10094</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에그링<INFO>10095</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포포링<INFO>10096</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 새끼 데저트 울프<INFO>10097</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 데저트 울프<INFO>10098</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오크 워리어<INFO>10099</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 하이 오크<INFO>10100</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 화염 고렘<INFO>10101</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 쁘띠<INFO>10102</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 지상 딜리터<INFO>10103</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 굳은 나이트메어 테러<INFO>10104</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 바포메트 주니어<INFO>10105</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 혼돈의 바포메트 주니어<INFO>10106</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 페코페코<INFO>10107</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그랜드 페코<INFO>10108</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 곰인형<INFO>10109</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 버려진 곰인형<INFO>10110</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리엇<INFO>10111</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리셀<INFO>10112</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스포아<INFO>10113</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포이즌 스포아<INFO>10114</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 이시스<INFO>10115</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리틀 이시스<INFO>10116</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 배회하는 자<INFO>10117</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오염된 배회하는 자<INFO>10118</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 무낙<INFO>10119</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 본건<INFO>10120</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 혜군<INFO>10121</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 소희<INFO>10122</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 요선녀<INFO>10123</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 구미호<INFO>10124</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 캣 오 나인 테일<INFO>10125</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 인큐버스<INFO>10126</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 서큐버스<INFO>10127</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로커<INFO>10128</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 메틀러<INFO>10129</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 미이라<INFO>10130</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에인션트 미이라<INFO>10131</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 루나틱<INFO>10132</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리프 루나틱<INFO>10133</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 픽키<INFO>10134</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 촌촌<INFO>10135</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스틸 촌촌<INFO>10136</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 헌터 플라이<INFO>10137</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 세비지 베베<INFO>10138</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 세비지<INFO>10139</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스모키<INFO>10140</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 요요<INFO>10141</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 쵸코<INFO>10142</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 도깨비<INFO>10143</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 암 무트<INFO>10144</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 데비루치<INFO>10145</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 디아볼릭<INFO>10146</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리스<INFO>10147</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리자<INFO>10148</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 청이<INFO>10149</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리프캣<INFO>10150</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로리루리<INFO>10151</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 시노비<INFO>10152</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 미야비 인형<INFO>10153</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 마리오네트<INFO>10154</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 위스퍼<INFO>10155</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스톤슈터<INFO>10157</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 임프<INFO>10158</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 틱버렁<INFO>10159</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그렘린<INFO>10160</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 호드렘린<INFO>10161</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크 프리스트<INFO>10162</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 윌로우<INFO>10163</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로우윈<INFO>10164</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 지르타스<INFO>10165</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬마 관리자β<INFO>10166</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬마 관리자α<INFO>10167</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스윗츠 드롭프스<INFO>10168</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 크리스마스 고블린<INFO>10169</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 고블린 리더<INFO>10170</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 묘괴<INFO>10171</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 눈토끼<INFO>10172</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 블루 유니콘<INFO>10173</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 딱딱한 떡<INFO>10174</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스캣레톤<INFO>10175</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스켈리온<INFO>10176</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 방황하는 오리인형<INFO>10177</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 고렘<INFO>10178</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 백소진<INFO>10179</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 월야화<INFO>10180</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 프리오니<INFO>10181</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오크 히어로<INFO>10182</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그룸 언더 나이트<INFO>10183</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 키엘-D-01<INFO>10184</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 듀라한<INFO>10185</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 나이트메어 테러<INFO>10186</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 바포메트<INFO>10187</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 퍼밀리어<INFO>10188</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크일루젼<INFO>10189</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 블루 문 로리루리<INFO>10190</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 와일드 로즈<INFO>10191</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 변이하는 백색의 기사<INFO>10192</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 심연의 기사<INFO>10193</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 백색의 기사<INFO>10194</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에드가<INFO>10195</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 메두사<INFO>10196</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬뽀<INFO>10197</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 잿빛 아이스윈드<INFO>10198</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 아이스윈드<INFO>10199</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크 로드<INFO>10200</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"테이밍 아이템을 사용하거나 쿠폰 또는 이벤트 등으로 획득 가능한 큐펫 리스트입니다.\n\n\t\t▶큐펫 리스트\n\t\t<TIPBOX>큐펫 풋내기 포링<INFO>10090</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포링<INFO>10091</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 마스터링<INFO>10092</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엔젤링<INFO>10093</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 드롭프스<INFO>10094</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에그링<INFO>10095</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포포링<INFO>10096</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 새끼 데저트 울프<INFO>10097</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 데저트 울프<INFO>10098</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오크 워리어<INFO>10099</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 하이 오크<INFO>10100</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 화염 고렘<INFO>10101</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 쁘띠<INFO>10102</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 지상 딜리터<INFO>10103</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 굳은 나이트메어 테러<INFO>10104</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 바포메트 주니어<INFO>10105</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 혼돈의 바포메트 주니어<INFO>10106</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 페코페코<INFO>10107</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그랜드 페코<INFO>10108</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 곰인형<INFO>10109</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 버려진 곰인형<INFO>10110</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리엇<INFO>10111</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리셀<INFO>10112</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스포아<INFO>10113</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 포이즌 스포아<INFO>10114</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 이시스<INFO>10115</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리틀 이시스<INFO>10116</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 배회하는 자<INFO>10117</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오염된 배회하는 자<INFO>10118</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 무낙<INFO>10119</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 본건<INFO>10120</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 혜군<INFO>10121</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 소희<INFO>10122</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 요선녀<INFO>10123</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 구미호<INFO>10124</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 캣 오 나인 테일<INFO>10125</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 인큐버스<INFO>10126</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 서큐버스<INFO>10127</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로커<INFO>10128</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 메틀러<INFO>10129</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 미이라<INFO>10130</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에인션트 미이라<INFO>10131</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 루나틱<INFO>10132</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리프 루나틱<INFO>10133</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 픽키<INFO>10134</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 촌촌<INFO>10135</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스틸 촌촌<INFO>10136</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 헌터 플라이<INFO>10137</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 세비지 베베<INFO>10138</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 세비지<INFO>10139</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스모키<INFO>10140</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 요요<INFO>10141</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 쵸코<INFO>10142</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 도깨비<INFO>10143</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 암 무트<INFO>10144</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 데비루치<INFO>10145</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 디아볼릭<INFO>10146</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리스<INFO>10147</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 엘리자<INFO>10148</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 청이<INFO>10149</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 리프캣<INFO>10150</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로리루리<INFO>10151</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 시노비<INFO>10152</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 미야비 인형<INFO>10153</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 마리오네트<INFO>10154</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 위스퍼<INFO>10155</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스톤슈터<INFO>10157</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 임프<INFO>10158</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 틱버렁<INFO>10159</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그렘린<INFO>10160</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 호드렘린<INFO>10161</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크 프리스트<INFO>10162</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 윌로우<INFO>10163</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 로우윈<INFO>10164</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 지르타스<INFO>10165</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬마 관리자β<INFO>10166</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬마 관리자α<INFO>10167</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스윗츠 드롭프스<INFO>10168</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 크리스마스 고블린<INFO>10169</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 고블린 리더<INFO>10170</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 묘괴<INFO>10171</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 눈토끼<INFO>10172</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 블루 유니콘<INFO>10173</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 딱딱한 떡<INFO>10174</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스캣레톤<INFO>10175</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 스켈리온<INFO>10176</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 방황하는 오리인형<INFO>10177</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 고렘<INFO>10178</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 백소진<INFO>10179</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 월야화<INFO>10180</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 프리오니<INFO>10181</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 오크 히어로<INFO>10182</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 그룸 언더 나이트<INFO>10183</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 키엘-D-01<INFO>10184</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 듀라한<INFO>10185</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 나이트메어 테러<INFO>10186</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 바포메트<INFO>10187</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 퍼밀리어<INFO>10188</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크일루젼<INFO>10189</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 블루 문 로리루리<INFO>10190</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 와일드 로즈<INFO>10191</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 변이하는 백색의 기사<INFO>10192</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 심연의 기사<INFO>10193</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 백색의 기사<INFO>10194</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 에드가<INFO>10195</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 메두사<INFO>10196</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 꼬뽀<INFO>10197</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 잿빛 아이스윈드<INFO>10198</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 아이스윈드<INFO>10199</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 다크 로드<INFO>10200</INFO></TIPBOX>\n\t\t<TIPBOX>큐펫 얼음해마<INFO>10201</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [10090] = {Title = "큐펫 풋내기 포링#풋사과#사과 쥬스", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
@@ -7846,6 +8206,12 @@ Page = {"^i[9147]큐펫 아이스윈드\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 꼬뽀<INFO
 Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"^i[9148]큐펫 다크 로드\n\t\t▶ 입수 방법\n\t\t<TIPBOX>▷큐펫 다크일루젼<INFO>10189</INFO></TIPBOX> 진화\n\t\t▷진화재료:\n\t\t^i[4169]x10, ^i[4141]x10,\n\t\t^i[4171]x10, ^i[25375]x30\n\t\t\n\t\t▶ 먹이\n\t\t^i[25377]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[10201] = {Title = "큐펫 얼음해마", Search = 1, Image = "유저인터페이스\\tipbox\\tip10090", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"^i[9157]큐펫 얼음해마\n\t\t▶ 입수 방법:테이밍\n\t\t테이밍 아이템:^i[102869]\n\t\t\n\t\t▶ 먹이\n\t\t^i[537]\n\t\t\n\t\t▶ 액세서리\n\t\t[없음]\n\t\t\n\t\t▶ 진화 정보\n\t\t[없음]\n\t\t\n\t\t<TIPBOX>▶큐펫 리스트 보기<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶큐펫 시스템 보기<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 }
 main = function()

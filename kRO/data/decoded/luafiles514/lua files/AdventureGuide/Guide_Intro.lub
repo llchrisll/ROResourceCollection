@@ -1,0 +1,24 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\AdventureGuide\Guide_Intro.lub 
+
+-- params : ...
+-- function num : 0
+-- DECOMPILER ERROR at PC1: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideIntro.TitleText = "모험 가이드"
+-- DECOMPILER ERROR at PC3: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideIntro.MainMenuIndex = 0
+-- DECOMPILER ERROR at PC5: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideIntro.MainMenuTitle = "소개"
+-- DECOMPILER ERROR at PC7: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideIntro.NewsImage = "유저인터페이스\\AdventureGuide\\"
+GuideIntro:AddContents(0, "에피소드", "진행할 수 있는 에피소드 퀘스트 정보를 확인할 수 있습니다.")
+GuideIntro:AddContents(1, "몬스터", "레벨에 적합한 몬스터가 배치된 사냥터를 추천합니다.")
+GuideIntro:AddContents(2, "퀘스트", "레벨에 적합한 퀘스트를 확인할 수 있습니다.")
+GuideIntro:AddContents(3, "던전", "레벨에 적합한 던전과 보상 등을 확인할 수 있습니다.")
+GuideIntro:AddContents(4, "무기", "레벨에 적합한 무기를 추천합니다.")
+GuideIntro:AddContents(5, "방어구", "레벨에 적합한 방어구를 추천합니다.")
+

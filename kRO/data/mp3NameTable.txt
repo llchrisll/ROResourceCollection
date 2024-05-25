@@ -1,5 +1,5 @@
 // ==========================================================================
-// mp3NameTable.txt 본서버 최종수정: 2024-01-31 - 소닉콜라보
+// mp3NameTable.txt 본서버 최종수정: 2024-03-27 - Episode 21 영웅의 시대
 // ==========================================================================
 //맵이름.rsw#bgm\\음악번호#
 
@@ -33,6 +33,27 @@ hu_in01.rsw#bgm\\93.mp3#
 //hugel.rsw#bgm\\54.mp3#
 //hu_in01.rsw#bgm\\54.mp3#
 
+
+// Episode 21 영웅의 시대
+jor_crk.rsw#bgm\\194.mp3#
+jor_crk_p.rsw#bgm\\194.mp3#
+jor_mbase.rsw#bgm\\198.mp3#
+mbase_in.rsw#bgm\\198.mp3#
+jor_albe.rsw#bgm\\199.mp3#
+jalbe_in.rsw#bgm\\199.mp3#
+jor_base.rsw#bgm\\201.mp3#
+jor_raise2.rsw#bgm\\200.mp3#
+jor_raise1.rsw#bgm\\200.mp3#
+jor_tmple1.rsw#bgm\\202.mp3#
+jor_tmple2.rsw#bgm\\202.mp3#
+1@wtgs.rsw#bgm\\156.mp3#
+1@mdtem.rsw#bgm\\202.mp3#
+2@mdtem.rsw#bgm\\202.mp3#
+1@twbs2.rsw#bgm\\196.mp3#
+1@ep21a.rsw#bgm\\202.mp3#
+1@ep21b.rsw#bgm\\203.mp3#
+luna_sf1.rsw#bgm\\200.mp3#
+luna_sf2.rsw#bgm\\202.mp3#
 
 // 환상총서 소닉콜라보 - Dr. 에그맨의 비밀 기지(임시)
 1@vrsn.rsw#bgm\\168.mp3#

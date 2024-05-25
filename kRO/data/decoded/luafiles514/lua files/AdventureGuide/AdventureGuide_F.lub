@@ -1,0 +1,630 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\AdventureGuide\AdventureGuide_F.lub 
+
+-- params : ...
+-- function num : 0
+main = function()
+  -- function num : 0_0
+  result = InsertIntro(GuideIntro.MainMenuIndex, GuideIntro.TitleText, GuideIntro.NewsImage, GuideIntro.MainMenuTitle)
+  if not result then
+    return false, msg
+  end
+  for ContentsIdx,ContentsInfo in pairs(GuideIntro.Contents) do
+    result = InsertIntroContents(ContentsIdx, ContentsInfo.Name, ContentsInfo.Desc)
+    if not result then
+      return false, msg
+    end
+  end
+  result = InsertEpisode(GuideEpisode.MainMenuIndex, GuideEpisode.TitleText, GuideEpisode.MainMenuTitle)
+  if not result then
+    return false, msg
+  end
+  for SubMenuIdx,SubMenuInfo in pairs(GuideEpisode.SubMenu) do
+    result = InsertEpisodeSubMenu(SubMenuIdx, SubMenuInfo.SubMenuMinLevel, SubMenuInfo.SubMenuMaxLevel, SubMenuInfo.SubMenuCompleteQuestID, SubMenuInfo.SubMenuTitle)
+    if not result then
+      return false, msg
+    end
+  end
+  for ContentsIdx,ContentsInfo in pairs(GuideEpisode.Contents) do
+    result = InsertEpisodeContents(ContentsIdx, ContentsInfo.SubMenu, ContentsInfo.RequireMinLevel, ContentsInfo.RequireMaxLevel, ContentsInfo.QuestID, ContentsInfo.CompleteType, ContentsInfo.Mapinfo, ContentsInfo.Prerequisite)
+    if not result then
+      return false, msg
+    end
+    for RewardIdx,Reward in pairs(ContentsInfo.Reward) do
+      result = InsertEpisodeReward(ContentsIdx, Reward)
+      if not result then
+        return false, msg
+      end
+    end
+  end
+  result = InsertMonster(GuideMonster.MainMenuIndex, GuideMonster.TitleText, GuideMonster.MainMenuTitle)
+  if not result then
+    return false, msg
+  end
+  for ContentsIdx,ContentsInfo in pairs(GuideMonster.Contents) do
+    result = InsertMonsterContents(ContentsIdx, ContentsInfo.RequireMinLevel, ContentsInfo.RequireMaxLevel)
+    if not result then
+      return false, msg
+    end
+    for RewardIdx,Reward in pairs(ContentsInfo.Reward) do
+      result = InsertMonsterReward(ContentsIdx, Reward)
+      if not result then
+        return false, msg
+      end
+    end
+  end
+  result = InsertQuest(GuideQuest.MainMenuIndex, GuideQuest.TitleText, GuideQuest.MainMenuTitle)
+  if not result then
+    return false, msg
+  end
+  for SubMenuIdx,SubMenuInfo in pairs(GuideQuest.SubMenu) do
+    result = InsertQuestSubMenu(SubMenuIdx, SubMenuInfo.SubMenuMinLevel, SubMenuInfo.SubMenuMaxLevel, SubMenuInfo.SubMenuTitle)
+    if not result then
+      return false, msg
+    end
+  end
+  for ContentsIdx,ContentsInfo in pairs(GuideQuest.Contents) do
+    result = InsertQuestContents(ContentsIdx, ContentsInfo.SubMenu, ContentsInfo.RequireMinLevel, ContentsInfo.RequireMaxLevel, ContentsInfo.CompleteType, ContentsInfo.Mapinfo, ContentsInfo.Prerequisite)
+    if not result then
+      return false, msg
+    end
+    for RewardIdx,Reward in pairs(ContentsInfo.Reward) do
+      result = InsertQuestReward(ContentsIdx, Reward)
+      if not result then
+        return false, msg
+      end
+    end
+  end
+  result = InsertDungeon(GuideDungeon.MainMenuIndex, GuideDungeon.TitleText, GuideDungeon.MainMenuTitle)
+  if not result then
+    return false, msg
+  end
+  for SubMenuIdx,SubMenuInfo in pairs(GuideDungeon.SubMenu) do
+    result = InsertDungeonSubMenu(SubMenuIdx, SubMenuInfo.SubMenuMinLevel, SubMenuInfo.SubMenuMaxLevel, SubMenuInfo.SubMenuTitle)
+    if not result then
+      return false, msg
+    end
+  end
+  for ContentsIdx,ContentsInfo in pairs(GuideDungeon.Contents) do
+    result = InsertDungeonContents(ContentsIdx, ContentsInfo.SubMenu, ContentsInfo.RequireMinLevel, ContentsInfo.RequireMaxLevel, ContentsInfo.CompleteType, ContentsInfo.Mapinfo, ContentsInfo.Prerequisite)
+    if not result then
+      return false, msg
+    end
+    for RewardIdx,Reward in pairs(ContentsInfo.Reward) do
+      result = InsertDungeonReward(ContentsIdx, Reward)
+      if not result then
+        return false, msg
+      end
+    end
+  end
+  result = InsertWeapon(GuideWeapon.MainMenuIndex, GuideWeapon.TitleText, GuideWeapon.MainMenuTitle)
+  if not result then
+    return false, msg
+  end
+  for SubMenuIdx,SubMenuInfo in pairs(GuideWeapon.SubMenu) do
+    result = InsertWeaponSubMenu(SubMenuIdx, SubMenuInfo.SubMenuMinLevel, SubMenuInfo.SubMenuMaxLevel, SubMenuInfo.SubMenuTitle)
+    if not result then
+      return false, msg
+    end
+  end
+  for ContentsIdx,ContentsInfo in pairs(GuideWeapon.Contents) do
+    result = InsertWeaponContents(ContentsIdx, ContentsInfo.SubMenu, ContentsInfo.RequireMinLevel, ContentsInfo.RequireMaxLevel, ContentsInfo.Refining, ContentsInfo.Enchant, ContentsInfo.GradeEnchant, ContentsInfo.Mapinfo)
+    if not result then
+      return false, msg
+    end
+    for ObtainGuideIdx,Obtain in pairs(ContentsInfo.ObtainGuide) do
+      result = InsertWeaponObtainGuide(ContentsIdx, Obtain)
+      if not result then
+        return false, msg
+      end
+    end
+  end
+  result = InsertArmor(GuideArmor.MainMenuIndex, GuideArmor.TitleText, GuideArmor.MainMenuTitle)
+  if not result then
+    return false, msg
+  end
+  for SubMenuIdx,SubMenuInfo in pairs(GuideArmor.SubMenu) do
+    result = InsertArmorSubMenu(SubMenuIdx, SubMenuInfo.SubMenuMinLevel, SubMenuInfo.SubMenuMaxLevel, SubMenuInfo.SubMenuTitle)
+    if not result then
+      return false, msg
+    end
+  end
+  for ContentsIdx,ContentsInfo in pairs(GuideArmor.Contents) do
+    result = InsertArmorContents(ContentsIdx, ContentsInfo.SubMenu, ContentsInfo.RequireMinLevel, ContentsInfo.RequireMaxLevel, ContentsInfo.Refining, ContentsInfo.Enchant, ContentsInfo.GradeEnchant, ContentsInfo.Mapinfo)
+    if not result then
+      return false, msg
+    end
+    for ObtainGuideIdx,Obtain in pairs(ContentsInfo.ObtainGuide) do
+      result = InsertArmorObtainGuide(ContentsIdx, Obtain)
+      if not result then
+        return false, msg
+      end
+    end
+  end
+  return true, "good"
+end
+
+GuideIntro = {
+Contents = {}
+}
+-- DECOMPILER ERROR at PC8: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideIntro.AddContents = function(self, in_index, in_name, in_desc)
+  -- function num : 0_1
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_name) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : 2번째 값은 문자열이여야 합니다.")
+    else
+      if type(in_desc) ~= "string" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 문자열이여야 합니다.")
+      end
+    end
+  end
+  local tbl = {Name = in_name, Desc = in_desc}
+  -- DECOMPILER ERROR at PC39: Confused about usage of register: R5 in 'UnsetPending'
+
+  ;
+  (self.Contents)[in_index] = tbl
+end
+
+GuideEpisode = {
+SubMenu = {}
+, 
+Contents = {}
+}
+-- DECOMPILER ERROR at PC17: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideEpisode.AddSubMenu = function(self, in_index, in_title, in_minLevel, in_maxLevel, in_questID)
+  -- function num : 0_2
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_title) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. "] : 2번째 값은 문자열이어야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        else
+          if type(in_questID) ~= "number" then
+            MessageBox("AddSubMenu[ " .. in_index .. " ] : 5번째 값은 숫자여야 합니다.")
+          end
+        end
+      end
+    end
+  end
+  local tbl = {SubMenuTitle = in_title, SubMenuMinLevel = in_minLevel, SubMenuMaxLevel = in_maxLevel, SubMenuCompleteQuestID = in_questID}
+  -- DECOMPILER ERROR at PC65: Confused about usage of register: R7 in 'UnsetPending'
+
+  ;
+  (self.SubMenu)[in_index] = tbl
+end
+
+-- DECOMPILER ERROR at PC20: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideEpisode.AddContents = function(self, in_index, in_subMenu, in_questID, in_minLevel, in_maxLevel, in_completeType, in_mapInfo, in_prerequisite, ...)
+  -- function num : 0_3
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_subMenu) ~= "number" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : 2번째 값은 숫자여야 합니다.")
+    else
+      if type(in_questID) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_minLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        else
+          if type(in_maxLevel) ~= "number" then
+            MessageBox("AddSubMenu[ " .. in_index .. " ] : 5번째 값은 숫자여야 합니다.")
+          else
+            if type(in_completeType) ~= "number" then
+              MessageBox("AddSubMenu[ " .. in_index .. " ] : 6번째 값은 숫자여야 합니다.")
+            else
+              if type(in_mapInfo) ~= "string" then
+                MessageBox("AddSubMenu[ " .. in_index .. " ] : 7번째 값은 문자열이여야 합니다.")
+              else
+                if type(in_prerequisite) ~= "string" then
+                  MessageBox("AddSubMenu[ " .. in_index .. " ] : 8번째 값은 문자열이여야 합니다.")
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+  for i,v in ipairs(arg) do
+    if type(v) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : " .. 8 + i .. "번째 값은 문자열이여야 합니다.")
+    end
+  end
+  local tbl = {SubMenu = in_subMenu, QuestID = in_questID, RequireMinLevel = in_minLevel, RequireMaxLevel = in_maxLevel, CompleteType = in_completeType, Mapinfo = in_mapInfo, Prerequisite = in_prerequisite, 
+Reward = {}
+}
+  for i,v in ipairs(arg) do
+    -- DECOMPILER ERROR at PC129: Confused about usage of register: R16 in 'UnsetPending'
+
+    (tbl.Reward)[i] = v
+  end
+  -- DECOMPILER ERROR at PC133: Confused about usage of register: R11 in 'UnsetPending'
+
+  ;
+  (self.Contents)[in_index] = tbl
+end
+
+GuideMonster = {
+Contents = {}
+}
+-- DECOMPILER ERROR at PC27: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideMonster.AddContents = function(self, in_index, in_minLevel, in_maxLevel, ...)
+  -- function num : 0_4
+  if type(in_index) ~= "string" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 문자열이여야 합니다.")
+  else
+    if type(in_minLevel) ~= "number" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : 2번째 값은 숫자여야 합니다.")
+    else
+      if type(in_maxLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      end
+    end
+  end
+  for i,v in ipairs(arg) do
+    if type(v) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : " .. 3 + i .. "번째 값은 문자열이여야 합니다.")
+    end
+  end
+  local tbl = {RequireMinLevel = in_minLevel, RequireMaxLevel = in_maxLevel, 
+Reward = {}
+}
+  for i,v in ipairs(arg) do
+    -- DECOMPILER ERROR at PC64: Confused about usage of register: R11 in 'UnsetPending'
+
+    (tbl.Reward)[i] = v
+  end
+  -- DECOMPILER ERROR at PC68: Confused about usage of register: R6 in 'UnsetPending'
+
+  ;
+  (self.Contents)[in_index] = tbl
+end
+
+GuideQuest = {
+SubMenu = {}
+, 
+Contents = {}
+}
+-- DECOMPILER ERROR at PC36: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideQuest.AddSubMenu = function(self, in_index, in_title, in_minLevel, in_maxLevel)
+  -- function num : 0_5
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_title) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. "] : 2번째 값은 문자열이어야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        end
+      end
+    end
+  end
+  local tbl = {SubMenuTitle = in_title, SubMenuMinLevel = in_minLevel, SubMenuMaxLevel = in_maxLevel}
+  -- DECOMPILER ERROR at PC52: Confused about usage of register: R6 in 'UnsetPending'
+
+  ;
+  (self.SubMenu)[in_index] = tbl
+end
+
+-- DECOMPILER ERROR at PC39: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideQuest.AddContents = function(self, in_index, in_subMenu, in_minLevel, in_maxLevel, in_completeType, in_mapInfo, in_prerequisite, ...)
+  -- function num : 0_6
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_subMenu) ~= "number" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : 2번째 값은 숫자여야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        else
+          if type(in_completeType) ~= "number" then
+            MessageBox("AddSubMenu[ " .. in_index .. " ] : 5번째 값은 숫자여야 합니다.")
+          else
+            if type(in_mapInfo) ~= "string" then
+              MessageBox("AddSubMenu[ " .. in_index .. " ] : 6번째 값은 문자열이여야 합니다.")
+            else
+              if type(in_prerequisite) ~= "string" then
+                MessageBox("AddSubMenu[ " .. in_index .. " ] : 7번째 값은 문자열이여야 합니다.")
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+  for i,v in ipairs(arg) do
+    if type(v) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : " .. 7 + i .. "번째 값은 문자열이여야 합니다.")
+    end
+  end
+  local tbl = {SubMenu = in_subMenu, RequireMinLevel = in_minLevel, RequireMaxLevel = in_maxLevel, CompleteType = in_completeType, Mapinfo = in_mapInfo, Prerequisite = in_prerequisite, 
+Reward = {}
+}
+  for i,v in ipairs(arg) do
+    -- DECOMPILER ERROR at PC116: Confused about usage of register: R15 in 'UnsetPending'
+
+    (tbl.Reward)[i] = v
+  end
+  -- DECOMPILER ERROR at PC120: Confused about usage of register: R10 in 'UnsetPending'
+
+  ;
+  (self.Contents)[in_index] = tbl
+end
+
+GuideDungeon = {
+SubMenu = {}
+, 
+Contents = {}
+}
+-- DECOMPILER ERROR at PC48: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideDungeon.AddSubMenu = function(self, in_index, in_title, in_minLevel, in_maxLevel)
+  -- function num : 0_7
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_title) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. "] : 2번째 값은 문자열이어야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        end
+      end
+    end
+  end
+  local tbl = {SubMenuTitle = in_title, SubMenuMinLevel = in_minLevel, SubMenuMaxLevel = in_maxLevel}
+  -- DECOMPILER ERROR at PC52: Confused about usage of register: R6 in 'UnsetPending'
+
+  ;
+  (self.SubMenu)[in_index] = tbl
+end
+
+-- DECOMPILER ERROR at PC51: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideDungeon.AddContents = function(self, in_index, in_subMenu, in_minLevel, in_maxLevel, in_completeType, in_mapInfo, in_prerequisite, ...)
+  -- function num : 0_8
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_subMenu) ~= "number" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : 2번째 값은 숫자여야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        else
+          if type(in_completeType) ~= "number" then
+            MessageBox("AddSubMenu[ " .. in_index .. " ] : 5번째 값은 숫자여야 합니다.")
+          else
+            if type(in_mapInfo) ~= "string" then
+              MessageBox("AddSubMenu[ " .. in_index .. " ] : 6번째 값은 문자열이여야 합니다.")
+            else
+              if type(in_prerequisite) ~= "string" then
+                MessageBox("AddSubMenu[ " .. in_index .. " ] : 7번째 값은 문자열이여야 합니다.")
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+  for i,v in ipairs(arg) do
+    if type(v) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : " .. 7 + i .. "번째 값은 문자열이여야 합니다.")
+    end
+  end
+  local tbl = {SubMenu = in_subMenu, RequireMinLevel = in_minLevel, RequireMaxLevel = in_maxLevel, CompleteType = in_completeType, Mapinfo = in_mapInfo, Prerequisite = in_prerequisite, 
+Reward = {}
+}
+  for i,v in ipairs(arg) do
+    -- DECOMPILER ERROR at PC116: Confused about usage of register: R15 in 'UnsetPending'
+
+    (tbl.Reward)[i] = v
+  end
+  -- DECOMPILER ERROR at PC120: Confused about usage of register: R10 in 'UnsetPending'
+
+  ;
+  (self.Contents)[in_index] = tbl
+end
+
+GuideWeapon = {
+SubMenu = {}
+, 
+Contents = {}
+}
+-- DECOMPILER ERROR at PC60: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideWeapon.AddSubMenu = function(self, in_index, in_title, in_minLevel, in_maxLevel)
+  -- function num : 0_9
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_title) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. "] : 2번째 값은 문자열이어야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        end
+      end
+    end
+  end
+  local tbl = {SubMenuTitle = in_title, SubMenuMinLevel = in_minLevel, SubMenuMaxLevel = in_maxLevel}
+  -- DECOMPILER ERROR at PC52: Confused about usage of register: R6 in 'UnsetPending'
+
+  ;
+  (self.SubMenu)[in_index] = tbl
+end
+
+-- DECOMPILER ERROR at PC63: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideWeapon.AddContents = function(self, in_index, in_subMenu, in_minLevel, in_maxLevel, in_refining, in_enchant, in_gradeenchant, in_mapInfo, ...)
+  -- function num : 0_10
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_subMenu) ~= "number" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : 2번째 값은 숫자여야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        else
+          if type(in_refining) ~= "number" then
+            MessageBox("AddSubMenu[ " .. in_index .. " ] : 5번째 값은 숫자여야 합니다.")
+          else
+            if type(in_enchant) ~= "number" then
+              MessageBox("AddSubMenu[ " .. in_index .. " ] : 6번째 값은 숫자여야 합니다.")
+            else
+              if type(in_gradeenchant) ~= "number" then
+                MessageBox("AddSubMenu[ " .. in_index .. " ] : 7번째 값은 숫자여야 합니다.")
+              else
+                if type(in_mapInfo) ~= "string" then
+                  MessageBox("AddSubMenu[ " .. in_index .. " ] : 8번째 값은 문자열이여야 합니다.")
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+  for i,v in ipairs(arg) do
+    if type(v) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : " .. 8 + i .. "번째 값은 문자열이여야 합니다.")
+    end
+  end
+  local tbl = {SubMenu = in_subMenu, RequireMinLevel = in_minLevel, RequireMaxLevel = in_maxLevel, Refining = in_refining, Enchant = in_enchant, GradeEnchant = in_gradeenchant, Mapinfo = in_mapInfo, 
+ObtainGuide = {}
+}
+  for i,v in ipairs(arg) do
+    -- DECOMPILER ERROR at PC129: Confused about usage of register: R16 in 'UnsetPending'
+
+    (tbl.ObtainGuide)[i] = v
+  end
+  -- DECOMPILER ERROR at PC133: Confused about usage of register: R11 in 'UnsetPending'
+
+  ;
+  (self.Contents)[in_index] = tbl
+end
+
+GuideArmor = {
+SubMenu = {}
+, 
+Contents = {}
+}
+-- DECOMPILER ERROR at PC72: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideArmor.AddSubMenu = function(self, in_index, in_title, in_minLevel, in_maxLevel)
+  -- function num : 0_11
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_title) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. "] : 2번째 값은 문자열이어야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        end
+      end
+    end
+  end
+  local tbl = {SubMenuTitle = in_title, SubMenuMinLevel = in_minLevel, SubMenuMaxLevel = in_maxLevel}
+  -- DECOMPILER ERROR at PC52: Confused about usage of register: R6 in 'UnsetPending'
+
+  ;
+  (self.SubMenu)[in_index] = tbl
+end
+
+-- DECOMPILER ERROR at PC75: Confused about usage of register: R0 in 'UnsetPending'
+
+GuideArmor.AddContents = function(self, in_index, in_subMenu, in_minLevel, in_maxLevel, in_refining, in_enchant, in_gradeenchant, in_mapInfo, ...)
+  -- function num : 0_12
+  if type(in_index) ~= "number" then
+    MessageBox("AddSubMenu[ " .. in_index .. " ] : 1번째 값은 숫자여야 합니다.")
+  else
+    if type(in_subMenu) ~= "number" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : 2번째 값은 숫자여야 합니다.")
+    else
+      if type(in_minLevel) ~= "number" then
+        MessageBox("AddSubMenu[ " .. in_index .. " ] : 3번째 값은 숫자여야 합니다.")
+      else
+        if type(in_maxLevel) ~= "number" then
+          MessageBox("AddSubMenu[ " .. in_index .. " ] : 4번째 값은 숫자여야 합니다.")
+        else
+          if type(in_refining) ~= "number" then
+            MessageBox("AddSubMenu[ " .. in_index .. " ] : 5번째 값은 숫자여야 합니다.")
+          else
+            if type(in_enchant) ~= "number" then
+              MessageBox("AddSubMenu[ " .. in_index .. " ] : 6번째 값은 숫자여야 합니다.")
+            else
+              if type(in_gradeenchant) ~= "number" then
+                MessageBox("AddSubMenu[ " .. in_index .. " ] : 7번째 값은 숫자여야 합니다.")
+              else
+                if type(in_mapInfo) ~= "string" then
+                  MessageBox("AddSubMenu[ " .. in_index .. " ] : 8번째 값은 문자열이여야 합니다.")
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+  for i,v in ipairs(arg) do
+    if type(v) ~= "string" then
+      MessageBox("AddSubMenu[ " .. in_index .. " ] : " .. 8 + i .. "번째 값은 문자열이여야 합니다.")
+    end
+  end
+  local tbl = {SubMenu = in_subMenu, RequireMinLevel = in_minLevel, RequireMaxLevel = in_maxLevel, Refining = in_refining, Enchant = in_enchant, GradeEnchant = in_gradeenchant, Mapinfo = in_mapInfo, 
+ObtainGuide = {}
+}
+  for i,v in ipairs(arg) do
+    -- DECOMPILER ERROR at PC129: Confused about usage of register: R16 in 'UnsetPending'
+
+    (tbl.ObtainGuide)[i] = v
+  end
+  -- DECOMPILER ERROR at PC133: Confused about usage of register: R11 in 'UnsetPending'
+
+  ;
+  (self.Contents)[in_index] = tbl
+end
+
+

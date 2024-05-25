@@ -8976,6 +8976,19 @@ descript = {
 }
 -- DECOMPILER ERROR at PC18674: Confused about usage of register: R0 in 'UnsetPending'
 
+StateIconList[EFST_IDs.EFST_C_BUFF_2] = {haveTimeLimit = 1, posTimeLimitStr = 4, 
+descript = {
+{"스피드 부스터", COLOR_TITLE_BUFF}
+, 
+{"FLEE + 50, ASPD + 1"}
+, 
+{"이동속도 증가 버프 부여"}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC18701: Confused about usage of register: R0 in 'UnsetPending'
+
 StateIconList[EFST_IDs.EFST_CONTENTS_1] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
 {"역린찹쌀떡", COLOR_TITLE_BUFF}
@@ -8987,7 +9000,7 @@ descript = {
 {"모든 속성 적에게 주는 마법 데미지 증가."}
 }
 }
--- DECOMPILER ERROR at PC18704: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC18731: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CONTENTS_2] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -9002,7 +9015,7 @@ descript = {
 {"모든 속성 마법 데미지 증가."}
 }
 }
--- DECOMPILER ERROR at PC18731: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC18758: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CONTENTS_3] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -9015,7 +9028,7 @@ descript = {
 {"MATK % 증가."}
 }
 }
--- DECOMPILER ERROR at PC18758: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC18785: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CONTENTS_11] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -9028,7 +9041,7 @@ descript = {
 {"모든 크기의 적에게 주는 마법 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC18785: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC18812: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CONTENTS_12] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -9041,7 +9054,7 @@ descript = {
 {"모든 속성의 적에게 주는 마법 데미지 증가"}
 }
 }
--- DECOMPILER ERROR at PC18812: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC18839: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CONTENTS_13] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -9054,7 +9067,7 @@ descript = {
 {"MSP 증가"}
 }
 }
--- DECOMPILER ERROR at PC18842: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC18869: Confused about usage of register: R0 in 'UnsetPending'
 
 StateIconList[EFST_IDs.EFST_CONTENTS_14] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
@@ -9067,6 +9080,112 @@ descript = {
 {"원거리 물리 데미지 증가"}
 , 
 {"모든 속성 마법 데미지 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18896: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_4] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"루나포마의 축복(공격력)", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATK + 10%"}
+, 
+{"MATK + 10%"}
+}
+}
+-- DECOMPILER ERROR at PC18926: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_5] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"루나포마의 축복(속도)", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"변동 캐스팅 10% 감소"}
+, 
+{"공격 속도 증가"}
+, 
+{"(공격 후 딜레이 10% 감소)"}
+}
+}
+-- DECOMPILER ERROR at PC18953: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_6] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"루나포마의 축복(용/식물)", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"용족 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+, 
+{"식물형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+}
+}
+-- DECOMPILER ERROR at PC18980: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_7] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"루나포마의 축복(악마/불사)", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"악마형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+, 
+{"불사형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19007: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_8] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"루나포마의 축복(무/어패)", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"무형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+, 
+{"어패형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19034: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_9] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"루나포마의 축복(동물/천사)", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"동물형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+, 
+{"천사형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19061: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_10] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"루나포마의 축복(인간/곤충)", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"인간형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+, 
+{"곤충형 몬스터에게 주는 물리/마법 데미지 15% 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19088: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_21] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"사랑의 케이크", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"모든 일반 스테이터스 + 15"}
+, 
+{"모든 특성 스테이터스 + 10"}
 }
 }
 

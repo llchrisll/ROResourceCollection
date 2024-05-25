@@ -617,6 +617,22 @@ ba_maison = {
 , 
 {name = "위치안내", X = 297, Y = 200, TYPE = 4}
 }
+, 
+jor_mbase = {
+{name = "냐르의 창고", X = 220, Y = 165, TYPE = 6}
+, 
+{name = "숙소", X = 170, Y = 248, TYPE = 5}
+, 
+{name = "상점", X = 222, Y = 264, TYPE = 0}
+}
+, 
+jor_albe = {
+{name = "냐르의 창고", X = 62, Y = 150, TYPE = 6}
+, 
+{name = "여관", X = 72, Y = 138, TYPE = 5}
+, 
+{name = "상점", X = 118, Y = 150, TYPE = 0}
+}
 }
 main = function()
   -- function num : 0_0

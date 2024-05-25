@@ -6793,6 +6793,234 @@ Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
 , ResultItem = "FuriousCirclet_SH", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
 InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
 }
+, 
+[1148] = {BaseItem = "Gaebolg_Armor", 
+Material = {Zelunium = 150, Ep21_Armor_E_Stone1 = 20, Ep21_Robe_E_Stone1 = 20, Ep21_Shoes_E_Stone1 = 20, Ep21_Acc_E_Stone1 = 20}
+, ResultItem = "Gaebolg_Armor", NeedRefineMin = 9, NeedRefineMax = 9, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1149] = {BaseItem = "Gaebolg_Robe", 
+Material = {Zelunium = 150, Ep21_Armor_E_Stone1 = 20, Ep21_Robe_E_Stone1 = 20, Ep21_Shoes_E_Stone1 = 20, Ep21_Acc_E_Stone1 = 20}
+, ResultItem = "Gaebolg_Robe", NeedRefineMin = 9, NeedRefineMax = 9, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1150] = {BaseItem = "Gaebolg_Manteau", 
+Material = {Zelunium = 150, Ep21_Armor_E_Stone1 = 20, Ep21_Robe_E_Stone1 = 20, Ep21_Shoes_E_Stone1 = 20, Ep21_Acc_E_Stone1 = 20}
+, ResultItem = "Gaebolg_Manteau", NeedRefineMin = 9, NeedRefineMax = 9, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1151] = {BaseItem = "Gaebolg_Muffler", 
+Material = {Zelunium = 150, Ep21_Armor_E_Stone1 = 20, Ep21_Robe_E_Stone1 = 20, Ep21_Shoes_E_Stone1 = 20, Ep21_Acc_E_Stone1 = 20}
+, ResultItem = "Gaebolg_Muffler", NeedRefineMin = 9, NeedRefineMax = 9, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1152] = {BaseItem = "Gaebolg_Boots", 
+Material = {Zelunium = 150, Ep21_Armor_E_Stone1 = 20, Ep21_Robe_E_Stone1 = 20, Ep21_Shoes_E_Stone1 = 20, Ep21_Acc_E_Stone1 = 20}
+, ResultItem = "Gaebolg_Boots", NeedRefineMin = 9, NeedRefineMax = 9, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1153] = {BaseItem = "Gaebolg_Shoes", 
+Material = {Zelunium = 150, Ep21_Armor_E_Stone1 = 20, Ep21_Robe_E_Stone1 = 20, Ep21_Shoes_E_Stone1 = 20, Ep21_Acc_E_Stone1 = 20}
+, ResultItem = "Gaebolg_Shoes", NeedRefineMin = 9, NeedRefineMax = 9, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1154] = {BaseItem = "Gaebolg_Armor", 
+Material = {Zelunium = 200, Ep21_Armor_E_Stone2 = 7, Ep21_Robe_E_Stone2 = 7, Ep21_Shoes_E_Stone2 = 7, Ep21_Acc_E_Stone2 = 7}
+, ResultItem = "Gaebolg_Armor", NeedRefineMin = 10, NeedRefineMax = 10, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1155] = {BaseItem = "Gaebolg_Robe", 
+Material = {Zelunium = 200, Ep21_Armor_E_Stone2 = 7, Ep21_Robe_E_Stone2 = 7, Ep21_Shoes_E_Stone2 = 7, Ep21_Acc_E_Stone2 = 7}
+, ResultItem = "Gaebolg_Robe", NeedRefineMin = 10, NeedRefineMax = 10, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1156] = {BaseItem = "Gaebolg_Manteau", 
+Material = {Zelunium = 200, Ep21_Armor_E_Stone2 = 7, Ep21_Robe_E_Stone2 = 7, Ep21_Shoes_E_Stone2 = 7, Ep21_Acc_E_Stone2 = 7}
+, ResultItem = "Gaebolg_Manteau", NeedRefineMin = 10, NeedRefineMax = 10, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1157] = {BaseItem = "Gaebolg_Muffler", 
+Material = {Zelunium = 200, Ep21_Armor_E_Stone2 = 7, Ep21_Robe_E_Stone2 = 7, Ep21_Shoes_E_Stone2 = 7, Ep21_Acc_E_Stone2 = 7}
+, ResultItem = "Gaebolg_Muffler", NeedRefineMin = 10, NeedRefineMax = 10, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1158] = {BaseItem = "Gaebolg_Boots", 
+Material = {Zelunium = 200, Ep21_Armor_E_Stone2 = 7, Ep21_Robe_E_Stone2 = 7, Ep21_Shoes_E_Stone2 = 7, Ep21_Acc_E_Stone2 = 7}
+, ResultItem = "Gaebolg_Boots", NeedRefineMin = 10, NeedRefineMax = 10, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1159] = {BaseItem = "Gaebolg_Shoes", 
+Material = {Zelunium = 200, Ep21_Armor_E_Stone2 = 7, Ep21_Robe_E_Stone2 = 7, Ep21_Shoes_E_Stone2 = 7, Ep21_Acc_E_Stone2 = 7}
+, ResultItem = "Gaebolg_Shoes", NeedRefineMin = 10, NeedRefineMax = 10, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1160] = {BaseItem = "Gaebolg_Armor", 
+Material = {Zelunium = 250, Ep21_Armor_E_Stone3 = 5, Ep21_Robe_E_Stone3 = 5, Ep21_Shoes_E_Stone3 = 5, Ep21_Acc_E_Stone3 = 5}
+, ResultItem = "Gaebolg_Armor", NeedRefineMin = 11, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1161] = {BaseItem = "Gaebolg_Robe", 
+Material = {Zelunium = 250, Ep21_Armor_E_Stone3 = 5, Ep21_Robe_E_Stone3 = 5, Ep21_Shoes_E_Stone3 = 5, Ep21_Acc_E_Stone3 = 5}
+, ResultItem = "Gaebolg_Robe", NeedRefineMin = 11, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1162] = {BaseItem = "Gaebolg_Manteau", 
+Material = {Zelunium = 250, Ep21_Armor_E_Stone3 = 5, Ep21_Robe_E_Stone3 = 5, Ep21_Shoes_E_Stone3 = 5, Ep21_Acc_E_Stone3 = 5}
+, ResultItem = "Gaebolg_Manteau", NeedRefineMin = 11, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1163] = {BaseItem = "Gaebolg_Muffler", 
+Material = {Zelunium = 250, Ep21_Armor_E_Stone3 = 5, Ep21_Robe_E_Stone3 = 5, Ep21_Shoes_E_Stone3 = 5, Ep21_Acc_E_Stone3 = 5}
+, ResultItem = "Gaebolg_Muffler", NeedRefineMin = 11, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1164] = {BaseItem = "Gaebolg_Boots", 
+Material = {Zelunium = 250, Ep21_Armor_E_Stone3 = 5, Ep21_Robe_E_Stone3 = 5, Ep21_Shoes_E_Stone3 = 5, Ep21_Acc_E_Stone3 = 5}
+, ResultItem = "Gaebolg_Boots", NeedRefineMin = 11, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1165] = {BaseItem = "Gaebolg_Shoes", 
+Material = {Zelunium = 250, Ep21_Armor_E_Stone3 = 5, Ep21_Robe_E_Stone3 = 5, Ep21_Shoes_E_Stone3 = 5, Ep21_Acc_E_Stone3 = 5}
+, ResultItem = "Gaebolg_Shoes", NeedRefineMin = 11, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 랜덤 옵션 정보 : 유지됨", "3) 카드 및 인챈트 정보 : 유지됨", "4) 등급 정보 : 유지됨"}
+}
+, 
+[1185] = {BaseItem = "OverSpear_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "OverSpear_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1186] = {BaseItem = "Lance_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Lance_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1187] = {BaseItem = "Impact_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Impact_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1188] = {BaseItem = "RightShape_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "RightShape_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1189] = {BaseItem = "Humma_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Humma_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1190] = {BaseItem = "WheelHumma_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "WheelHumma_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1191] = {BaseItem = "FuriousCirclet_IG", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_IG", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1192] = {BaseItem = "FuriousCirclet_SHC", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_SHC", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1193] = {BaseItem = "FuriousCirclet_SS", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_SS", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1194] = {BaseItem = "Shield_Furious", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "Shield_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1195] = {BaseItem = "LeftShape_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "LeftShape_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1232] = {BaseItem = "GiganticAxe_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "GiganticAxe_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1233] = {BaseItem = "Hammer_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Hammer_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1234] = {BaseItem = "MasterSpellBook_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "MasterSpellBook_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1235] = {BaseItem = "Grimoire_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Grimoire_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1236] = {BaseItem = "Soul_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Soul_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1237] = {BaseItem = "SpiritStick_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "SpiritStick_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1238] = {BaseItem = "FuriousCirclet_MT", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_MT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1239] = {BaseItem = "FuriousCirclet_EM", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_EM", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1240] = {BaseItem = "FuriousCirclet_SOA", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_SOA", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
 }
 ReformItemList = {
 IDTest_Special = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
@@ -6969,6 +7197,12 @@ Season_H_Upgrade = {1048, 1049, 1050, 1051}
 , 
 Dimen_W_Refine = {1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1119, 1120, 1121, 1122, 1123, 1124, 1125, 1126, 1127, 1128, 1129, 1130, 1131, 1132, 1133, 1134, 1135, 1136, 1137, 1141}
 , 
-Refine_Furious = {1166, 1167, 1168, 1169, 1170, 1171, 1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183, 1184}
+Refine_Furious = {1166, 1167, 1168, 1169, 1170, 1171, 1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1189, 1190, 1191, 1192, 1193, 1194, 1195, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240}
+, 
+Gaebolg_A_Hammer_1 = {1148, 1149, 1150, 1151, 1152, 1153}
+, 
+Gaebolg_A_Hammer_2 = {1154, 1155, 1156, 1157, 1158, 1159}
+, 
+Gaebolg_A_Hammer_3 = {1160, 1161, 1162, 1163, 1164, 1165}
 }
 

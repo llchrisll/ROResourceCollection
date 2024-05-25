@@ -1,6 +1,36 @@
 // ==========================================================================
-// resnametable.txt 본서버 최종수정: 2024-01-31 - 소닉콜라보
+// resnametable.txt 본서버 최종수정: 2024-03-27 - Episode 21 영웅의 시대
 // ==========================================================================
+// Episode 21 영웅의 시대 - 정체불명의 유령선
+1@wtgs.gnd#1@wtgs.gnd#
+1@wtgs.gat#1@wtgs.gat#
+1@wtgs.rsw#1@wtgs.rsw#
+유저인터페이스\map\1@wtgs.bmp#유저인터페이스\map\1@wtgs.bmp#
+// Episode 21 영웅의 시대 - 고요한 성소
+1@twbs2.gnd#1@twbs2.gnd#
+1@twbs2.gat#1@twbs2.gat#
+1@twbs2.rsw#1@twbs2.rsw#
+유저인터페이스\map\1@twbs2.bmp#유저인터페이스\map\1@twbs2.bmp#
+// Episode 21 영웅의 시대 - 기믈레 잠입
+1@mdtem.gnd#1@mdtem.gnd#
+1@mdtem.gat#1@mdtem.gat#
+1@mdtem.rsw#1@mdtem.rsw#
+유저인터페이스\map\1@mdtem.bmp#유저인터페이스\map\1@mdtem.bmp#
+2@mdtem.gnd#2@mdtem.gnd#
+2@mdtem.gat#2@mdtem.gat#
+2@mdtem.rsw#2@mdtem.rsw#
+유저인터페이스\map\2@mdtem.bmp#유저인터페이스\map\2@mdtem.bmp#
+// Episode 21 영웅의 시대 - 비밀 제단
+1@ep21a.gnd#1@ep21a.gnd#
+1@ep21a.gat#1@ep21a.gat#
+1@ep21a.rsw#1@ep21a.rsw#
+유저인터페이스\map\1@ep21a.bmp#유저인터페이스\map\1@ep21a.bmp#
+// Episode 21 영웅의 시대 - 최후의 전투(시나리오/일반))
+1@ep21b.gnd#1@ep21b.gnd#
+1@ep21b.gat#1@ep21b.gat#
+1@ep21b.rsw#1@ep21b.rsw#
+유저인터페이스\map\1@ep21b.bmp#유저인터페이스\map\1@ep21b.bmp#
+
 // 환상총서 소닉콜라보 - Dr. 에그맨의 비밀 기지
 1@vrsn.gnd#1@vrsn.gnd#
 1@vrsn.gat#1@vrsn.gat#

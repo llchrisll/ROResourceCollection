@@ -14931,6 +14931,58 @@ Description = {"Dr. 에그맨을 쓰러뜨리고 카오스 에메랄드를 회수하라!"}
 Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[해당 도서]<INFO>prt_elib,40,35,0,101,0</INFO></NAVI>를 다시 읽을 수 있게 됩니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[8882] = {Title = "아이반 위그너의 즐거운 포교 생활", IconName = "ico_ep.bmp", 
+Description = {"루나포마에서 아이반 위그너와 이야기를 나눌 참이었으나, 마침 그도 바쁘고 레하르도 바쁘다. <NAVI>[레하르]<INFO>jor_mbase,214,316,0,101,0</INFO></NAVI>를 도와 배식을 준비하자."}
+, Summary = "레하르와 대화"}
+, 
+[8883] = {Title = "레하르의 보람찬 구휼 활동 (1)", IconName = "ico_ep.bmp", 
+Description = {"루나포마의 피난소는 그때그때 있는 식재를 사용하여 식사를 제공할 수 있게 설비를 확충해 두었는데, <NAVI>[레하르]<INFO>jor_mbase,214,316,0,101,0</INFO></NAVI>에게 가마솥밥을 완벽하게 지을 수 있는 숨겨진 재능이 있었다는 것이 밝혀졌다…!"}
+, Summary = "레하르와 대화"}
+, 
+[8884] = {Title = "레하르의 보람찬 구휼 활동 (2)", IconName = "ico_ep.bmp", 
+Description = {"루나포마의 피난소는 다행히도 별 문제 없이 잘 운영되고 있다. 배식이 끝나고, 이제 <NAVI>[레하르]<INFO>jor_mbase,214,316,0,101,0</INFO></NAVI>와 함께 식사를 하기로 했다."}
+, Summary = "레하르와 대화"}
+, 
+[8885] = {Title = "쟤가 집안 다 털어먹는다!", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[레하르]<INFO>jor_mbase,214,316,0,101,0</INFO></NAVI>가 들은 바에 따르면 아이반은 루나포마에 피난소를 정비하기 위해 위그너 상단의 돈을 꽤나 쏟아부은 모양이다."}
+, Summary = "레하르와 대화"}
+, 
+[8886] = {Title = "레하르의 보람찬 구휼 활동 (3)", IconName = "ico_ep.bmp", 
+Description = {"루나포마의 피난소에서 배식 작업이 끝났다. 이제 한숨 돌릴 겸, <NAVI>[아이반]<INFO>jor_mbase,189,282,0,101,0</INFO></NAVI>, 레하르와 식사를 하자."}
+, Summary = "아이반과 대화"}
+, 
+[8887] = {Title = "유령선을 본 사람 (1)", IconName = "ico_ep.bmp", 
+Description = {"루나포마의 <NAVI>[리릭]<INFO>jor_mbase,185,311,0,101,0</INFO></NAVI>과 대화해 보자."}
+, Summary = "리릭과 대화"}
+, 
+[8888] = {Title = "유령선을 본 사람 (2)", IconName = "ico_ep.bmp", 
+Description = {"루나포마의 <NAVI>[리릭]<INFO>jor_mbase,185,311,0,101,0</INFO></NAVI>과 대화해 보자."}
+, Summary = "리릭과 대화"}
+, 
+[8889] = {Title = "아이반의 꿍꿍이", IconName = "ico_ep.bmp", 
+Description = {"리릭의 이야기는 참고가 되지는 않았으나, 유령선이 실존한다는 것은 확인했다.<NAVI>[아이반]<INFO>jor_mbase,233,277,0,101,0</INFO></NAVI>의 이야기를 들어보자."}
+, Summary = "아이반과 대화"}
+, 
+[8890] = {Title = "아이반의 심부름", IconName = "ico_ep.bmp", 
+Description = {"알베르타의 위그너 상단에 있는 <NAVI>[라라이라 위그너]<INFO>jalbe_in,56,138,0,101,0</INFO></NAVI>와 만나야 한다."}
+, Summary = "라라이라 위그너와 대화"}
+, 
+[8891] = {Title = "아이반의 오래된 미련", IconName = "ico_ep.bmp", 
+Description = {"알베르타의 위그너 상단에서, 라라이라는 아이반이 부탁한 물건이 <NAVI>[어디]<INFO>jalbe_in,73,187,0,101,0</INFO></NAVI>에 있는지 가르쳐 주었다."}
+, Summary = "상자 찾기"}
+, 
+[8892] = {Title = "주인 없는 무기와 함께", IconName = "ico_ep.bmp", 
+Description = {"그러면 다음은 주인을 잃었던 무기를 원래의 주인에게 되돌려줄 차례다. 루나포마로 돌아가 <NAVI>[아이반]<INFO>jor_mbase,233,277,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "아이반과 대화"}
+, 
+[8893] = {Title = "교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"이제, 멤버를 재정비해 솟아오른 대지 북부로 이동하자. 교단에 <NAVI>[잠입]<INFO>jor_raise1,323,71,0,101,0</INFO></NAVI>할 때가 왔다."}
+, Summary = "교단 잠입"}
+, 
+[8894] = {Title = "편지를 받을 사람은", IconName = "ico_ep.bmp", 
+Description = {"위그너 상단의 라라이라 위그너는 <NAVI>[발터 선장]<INFO>jalbe_in,68,46,0,101,0</INFO></NAVI>에게 편지를 전해 달라고 부탁했다. 중요한 서신일까?"}
+, Summary = "마리스텔라 발터와 대화"}
+, 
 [9000] = {Title = "나이트 전직으로의 시작", IconName = "ico_jq.bmp", 
 Description = {"기사단장 헤르만은 기사전직을 위해 우선 다른 <NAVI>[기사]<INFO>prt_in,75,107,0,101,0</INFO></NAVI>들의 승인을 받아야한다고 했다."}
 , Summary = "다른 기사들과 대화"}
@@ -22648,11 +22700,11 @@ Description = {"금서를 읽고 제약에 걸리고 말았습니다. 일주일이 지나야 <NAVI>[환�
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [12588] = {Title = "죽지 않는 자 - 대기", IconName = "ico_ep.bmp", 
-Description = {"새벽이 지나면 <NAVI>세계수의 가지<INFO>prt_elib,60,37,0,101,0</INFO></NAVI>와 다시 소통 가능합니다."}
+Description = {"새벽이 지나면 <NAVI>세계수의 가지<INFO>jor_twig,113,146,0,101,0</INFO></NAVI>와 다시 소통 가능합니다."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [12589] = {Title = "죽지 않는 자(상급) - 대기", IconName = "ico_ep.bmp", 
-Description = {"3일이 지나면 <NAVI>세계수의 가지<INFO>prt_elib,60,37,0,101,0</INFO></NAVI>와 다시 소통 가능합니다."}
+Description = {"3일이 지나면 <NAVI>세계수의 가지<INFO>jor_twig,113,146,0,101,0</INFO></NAVI>와 다시 소통 가능합니다."}
 , Summary = "3일 후 새벽 초기화", CoolTimeQuest = 1}
 , 
 [12590] = {Title = "죽지않는 자의 이야기", IconName = "ico_ep.bmp", 
@@ -22850,6 +22902,50 @@ Description = {"포링 대왕을 처치하신 이후에는 <NAVI>[채소 강화사]<INFO>prt_fild0
 [12645] = {Title = "타락한 오크 히어로 처치", 
 Description = {"굴로크의 영혼이 타락한 오크 히어로를 처단해 주길 간절히 원하고 있습니다. 그의 바람을 들어주고 마음의 평화를 찾도록 도와줍시다."}
 , Summary = "굴로크의 부탁입니다."}
+, 
+[12646] = {Title = "최후의 전투", IconName = "ico_dq.bmp", 
+Description = {"최후의 전투"}
+, Summary = "새벽 4시 초기화", CoolTimeQuest = 1}
+, 
+[12647] = {Title = "기억의 반복", IconName = "ico_dq.bmp", 
+Description = {"최후의 전투를 치렀던 시간이 매일 같이 미세하게 변화하여 반복되는 모양입니다. 다음날 다시 찾아오면 또 같은 날이 반복되겠지요.", "교단의 신전, <NAVI>[장식문]<INFO>jor_raise1,128,326,0,101,0</INFO></NAVI>으로 가려져 있던 미지의 장소에서 최후의 전투를 다시 목격하도록 하자"}
+, Summary = "새벽 4시 초기화", CoolTimeQuest = 1}
+, 
+[12648] = {Title = "기억의 혼돈", IconName = "ico_dq.bmp", 
+Description = {"때때로 반복되는 시간 중 어떤 시간은 상상을 초월할 정도로 격렬하기도 합니다. 이런 날은 자주 오지 않는 것 같습니다. 3일 후 다시 확인해 봅시다", "교단의 신전, <NAVI>[장식문]<INFO>jor_raise1,128,326,0,101,0</INFO></NAVI>으로 가려져 있던 미지의 장소에서 최후의 전투를 다시 목격하도록 하자"}
+, Summary = "3일후 새벽 4시 초기화", CoolTimeQuest = 1}
+, 
+[12649] = {Title = "최후의 전투(쉬움)", IconName = "ico_dq.bmp", 
+Description = {"반복되는 최후의 날에서 잠식된 탄을 처치하고 역사의 흐름이 뒤틀리지 않게 하자.", "^0000ff냐르의 의지로 모험가의 온몸에 힘이 솟아오른다. 전투가 쉬워질 만큼 보상은 줄어들 것이다.^000000"}
+, Summary = "잠식당한 탄 처치"}
+, 
+[12650] = {Title = "최후의 전투(보통)", IconName = "ico_dq.bmp", 
+Description = {"반복되는 최후의 날에서 잠식된 탄을 처치하고 역사의 흐름이 뒤틀리지 않게 하자."}
+, Summary = "잠식당한 탄 처치"}
+, 
+[12651] = {Title = "최후의 전투(어려움)", IconName = "ico_dq.bmp", 
+Description = {"반복되는 최후의 날에서 잠식된 탄을 처치하고 역사의 흐름이 뒤틀리지 않게 하자.", "^ff0000거대한 뱀의 힘이 극도로 강해져 있다. 전투가 어려워질 만큼 보상도 커질 것이다.^000000"}
+, Summary = "잠식당한 탄 처치"}
+, 
+[12652] = {Title = "최후의 전투 1", IconName = "ico_ep.bmp", 
+Description = {"최후의 전투 1"}
+, Summary = "1"}
+, 
+[12653] = {Title = "최후의 전투 2", IconName = "ico_ep.bmp", 
+Description = {"최후의 전투 3"}
+, Summary = "1"}
+, 
+[12654] = {Title = "최후의 전투 3", IconName = "ico_ep.bmp", 
+Description = {"최후의 전투 3"}
+, Summary = "1"}
+, 
+[12655] = {Title = "최후의 전투 4", IconName = "ico_ep.bmp", 
+Description = {"최후의 전투 4"}
+, Summary = "1"}
+, 
+[12656] = {Title = "최후의 전투", IconName = "ico_ep.bmp", 
+Description = {"눈앞의 음산하고 거대한 문 너머에 어떤 싸움이 기다리고 있을지 짐작조차 할 수 없습니다. 인류의 존망을 건 싸움을 목격하러 갑시다.", "교단의 신전, <NAVI>[장식문]<INFO>jor_raise1,128,326,0,101,0</INFO></NAVI>으로 가려져 있는 미지의 장소로 향하도록 하자"}
+, Summary = "역사의 흐름에 한 손 거들기"}
 , 
 [13000] = {Title = "RWC2011카드 구하기", 
 Description = {"파란카드를 모아서 RWC2011를 완성하자"}
@@ -29573,6 +29669,106 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 �
 Description = {"바이오스피어 심층 어비스에 대해서 깊이 연구했다."}
 , Summary = ""}
 , 
+[16802] = {Title = "자잘한 수하물 운송", IconName = "ico_ep.bmp", 
+Description = {"알베르타 항구의 수하물을 제자리에 가져다 놓는 일을 맡았다. 알베르타 <NAVI>[시장 근처]<INFO>jor_albe.gat,148,235,0,101,0</INFO></NAVI>의 발터 함대원을 찾아보자."}
+, Summary = "발터 함대원과 대화"}
+, 
+[16803] = {Title = "자잘한 수하물 운송", IconName = "ico_ep.bmp", 
+Description = {"알베르타 항구의 수하물을 제자리에 가져다 놓는 일을 맡았다. 알베르타 발터 <NAVI>[상단 창고]<INFO>jalbe_in.gat,22,63,0,101,0</INFO></NAVI> 안의 발터 함대원을 찾아보자."}
+, Summary = "발터 함대원과 대화"}
+, 
+[16804] = {Title = "자잘한 수하물 운송", IconName = "ico_ep.bmp", 
+Description = {"알베르타의 수하물을 모두 제자리에 가져다 두었다. 알베르타 해변가의 <NAVI>[요한]<INFO>jor_albe.gat,239,115,0,101,0</INFO></NAVI>에게 돌아가 일을 마쳤다고 보고하자."}
+, Summary = "요한과 대화"}
+, 
+[16805] = {Title = "잡일 거부", IconName = "ico_ep.bmp", 
+Description = {"알베르타의 요한에게 이런 사소한 일은 할 수 없다고 불평했다. 푹 쉬라고 하는데, 그래도 괜찮을까? <NAVI>[요한]<INFO>jor_albe.gat,239,115,0,101,0</INFO></NAVI>에게 다시 말을 걸어 볼까?"}
+, Summary = "요한과 대화"}
+, 
+[16806] = {Title = "꼼꼼한 항만 청소", IconName = "ico_ep.bmp", 
+Description = {"알베르타 항만 근처의 흙더미를 청소해야 한다. 두 눈을 크게 뜨고 <NAVI>[지저분한 곳]<INFO>jor_albe.gat,151,210,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "흙더미 청소"}
+, 
+[16807] = {Title = "꼼꼼한 항만 청소", IconName = "ico_ep.bmp", 
+Description = {"알베르타 항만 근처의 흙더미를 청소해야 한다. 두 눈을 크게 뜨고 <NAVI>[지저분한 곳]<INFO>jor_albe.gat,211,136,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "흙더미 청소"}
+, 
+[16808] = {Title = "꼼꼼한 항만 청소", IconName = "ico_ep.bmp", 
+Description = {"알베르타 항만 근처의 흙더미를 청소해야 한다. 두 눈을 크게 뜨고 <NAVI>[지저분한 곳]<INFO>jor_albe.gat,167,139,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "흙더미 청소"}
+, 
+[16809] = {Title = "꼼꼼한 항만 청소", IconName = "ico_ep.bmp", 
+Description = {"알베르타 항만 근처의 흙더미를 청소해야 한다. 두 눈을 크게 뜨고 <NAVI>[지저분한 곳]<INFO>jor_albe.gat,190,175,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "흙더미 청소"}
+, 
+[16810] = {Title = "꼼꼼한 항만 청소", IconName = "ico_ep.bmp", 
+Description = {"이제야 알베르타 항만 근처가 좀 깨끗해 보인다. 알베르타 해변가의 <NAVI>[요한]<INFO>jor_albe.gat,239,115,0,101,0</INFO></NAVI>에게 돌아가 청소를 마쳤다고 보고하자."}
+, Summary = "요한과 대화"}
+, 
+[16811] = {Title = "발터 상단 방문", IconName = "ico_ep.bmp", 
+Description = {"알베르타에서 해야 할 다음 일은 발터 상단 건물 안에서 받을 수 있는 모양이다. 상단 건물 <NAVI>[창고 반대쪽 방]<INFO>jalbe_in.gat,67,95,0,101,0</INFO></NAVI>으로 가 보자."}
+, Summary = "이아나 오페르타와 대화"}
+, 
+[16812] = {Title = "의아한 서신 전달", IconName = "ico_ep.bmp", 
+Description = {"발터 상단 건물의 이아나에게서 알베르타 여기저기로 편지를 전하는 심부름을 받았다. 편지를 가지고 <NAVI>[팔리에리아 에델]<INFO>jalbe_in.gat,126,54,0,101,0</INFO></NAVI>에게 가 보자."}
+, Summary = "팔리에리아 에델과 대화"}
+, 
+[16813] = {Title = "의아한 서신 전달", IconName = "ico_ep.bmp", 
+Description = {"발터 상단 건물의 이아나에게서 알베르타 여기저기로 편지를 전하는 심부름을 받았다. 편지를 가지고 <NAVI>[한터 상귄]<INFO>jalbe_in.gat,29,28,0,101,0</INFO></NAVI>에게 가 보자."}
+, Summary = "한터 상귄과 대화"}
+, 
+[16814] = {Title = "의아한 서신 전달", IconName = "ico_ep.bmp", 
+Description = {"알베르타의 두 곳에 서신을 보내고 답장까지 모두 받았다. 발터 상단 건물 안의 <NAVI>[이아나 오페르타]<INFO>jalbe_in.gat,67,95,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "이아나 오페르타와 대화"}
+, 
+[16815] = {Title = "루나포마의 소식을 들으러", IconName = "ico_ep.bmp", 
+Description = {"알베르타에서 잡다한 심부름을 해야만 했던 이유에 대해 들었다. 새로운 임무를 부탁받고 이제 교단에서 탈출한 사람들이 도착했다는 루나포마로 돌아갈 때다. 가서 <NAVI>[아이반 위그너]<INFO>jor_mbase.gat,233,277,0,101,0</INFO></NAVI>의 이야기를 들어 보자."}
+, Summary = "아이반 위그너와 대화"}
+, 
+[16816] = {Title = "정체불명의 유령선", IconName = "ico_ep.bmp", 
+Description = {"바다를 떠다니는 정체불명의 유령선의 정체를 드디어 밝혀낼 수 있을 것 같다. 알베르타 <NAVI>[항구]<INFO>jor_albe.gat,191,186,0,101,0</INFO></NAVI>에서 기다리고 있는 마리스텔라와 함께 유령선에 몸을 싣자."}
+, Summary = "마리스텔라 발터와 대화"}
+, 
+[16817] = {Title = "유령선의 정체", IconName = "ico_ep.bmp", 
+Description = {"떠도는 유령선의 정체를 알게 되었다. 마음 속에 품은 그리움을 갈무리한 채, 마리스텔라와 함께 알베르타 <NAVI>[항구]<INFO>jor_albe.gat,191,186,0,101,0</INFO></NAVI>로 돌아가자."}
+, Summary = "마리스텔라 발터와 대화"}
+, 
+[16818] = {Title = "루나포마로 귀환", IconName = "ico_ep.bmp", 
+Description = {"알베르타에서 할 수 있는 일은 어느 정도 마무리된 것 같다. 이제 루나포마의 <NAVI>[트리스]<INFO>mbase_in.gat,92,123,0,101,0</INFO></NAVI>에게로 귀환하도록 하자."}
+, Summary = "트리스와 대화"}
+, 
+[16819] = {Title = "마법사로부터의 전언", IconName = "ico_ep.bmp", 
+Description = {"알베르타 항구에서 이야기하고 있던 마리스텔라 뒤쪽에서 어느 새 <NAVI>[위그너 상단원]<INFO>jor_albe.gat,192,189,0,101,0</INFO></NAVI>이 기다리고 있다."}
+, Summary = "위그너 상단원과 대화"}
+, 
+[16820] = {Title = "알베르타의 성실한 일꾼", IconName = "ico_ep.bmp", 
+Description = {"알베르타의 에페스토 발터 메가스는 알베르타 <NAVI>[해변가]<INFO>jor_albe.gat,239,115,0,101,0</INFO></NAVI>로 가서 일거리를 찾아보라고 한다. 일을 줄 만한 사람을 찾아보자."}
+, Summary = "요한과 대화"}
+, 
+[16821] = {Title = "남아 있는 의문", IconName = "ico_dq.bmp", 
+Description = {"분명 구 발터 호의 마지막 모습을 확인했는데 여전히 그 배의 마력이 관측된다고 한다. 알베르타에 머물러 있는 <NAVI>[닐렘]<INFO>jor_albe.gat,195,179,0,101,0</INFO></NAVI>의 도움을 받아 다시 한번 승선해 보자."}
+, Summary = "닐렘과 대화"}
+, 
+[16822] = {Title = "남아 있는 의문", IconName = "ico_dq.bmp", 
+Description = {"구 발터 호에 다시 승선했지만 의문은 풀리지 않는다. 이지를 잃은 함장의 모습도 의아하다. 알베르타로 돌아와 <NAVI>[닐렘]<INFO>jor_albe.gat,195,179,0,101,0</INFO></NAVI>에게 이야기해 보자."}
+, Summary = "닐렘과 대화"}
+, 
+[16823] = {Title = "구 발터 호의 기억 조각-대기", IconName = "ico_dq.bmp", 
+Description = {"모험가와 마리스텔라의 활약으로 지금은 일시적으로 구 발터 호의 흔적이 관측되지 않는다. 알베르타에서 기다리고 있는 <NAVI>[닐렘]<INFO>jor_albe.gat,195,179,0,101,0</INFO></NAVI>이 다시 관측할 때까지 잠시 휴식을 취하자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[16824] = {Title = "구 발터 호의 기억 조각", IconName = "ico_dq.bmp", 
+Description = {"구 발터 호의 기억 조각을 다시금 흩어 버리고 알베르타에서 기다리는 <NAVI>[닐렘]<INFO>jor_albe.gat,195,179,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "구 발터 호의 기억 조각 탐사"}
+, 
+[16825] = {Title = "남아 있는 의문", IconName = "ico_dq.bmp", 
+Description = {"이곳의 이상한 점에 대해 조사하고 이지를 잃은 함장을 다시 쓰러트리자."}
+, Summary = ""}
+, 
+[16826] = {Title = "구 발터 호의 기억 조각", IconName = "ico_dq.bmp", 
+Description = {"유령선의 선장을 저지하여 이 배에 고여 있는 마력을 흩어내자."}
+, Summary = ""}
+, 
 [17000] = {Title = "대화 거부", IconName = "ico_ep.bmp", 
 Description = {"<NAVI>[레이지]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>씨는 더 이상 카야 토스 부사장과 대화 하기를 거부했다. 무슨 사연이 있는지 물어 보자."}
 , Summary = "레이지씨와 대화"}
@@ -32279,6 +32475,162 @@ Description = {"깨끗한 눈은 모두 얻었으니 이제 고기 1개를 가지고 <NAVI>[카밀]<IN
 Description = {"새벽이 지난 후 <NAVI>[카밀]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>씨를 다시 도와주자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[17752] = {Title = "교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"요르문간드 교단 신전 <NAVI>[기믈레]<INFO>jor_tmple1,186,72,0,101,0</INFO></NAVI>에서 본격적인 행동에 돌입하기로 했다."}
+, Summary = "신전 진입"}
+, 
+[17753] = {Title = "교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"요르문간드 교단 신전 <NAVI>[기믈레]<INFO>jor_tmple1,110,190,0,101,0</INFO></NAVI>에서 탈출을 원하는 사람이 있는지 찾아보자."}
+, Summary = "신전 탐색 01"}
+, 
+[17754] = {Title = "교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"요르문간드 교단 신전 <NAVI>[기믈레]<INFO>jor_tmple1,186,228,0,101,0</INFO></NAVI>에서 유령선에 대한 정보를 찾아보자."}
+, Summary = "신전 탐색 02"}
+, 
+[17755] = {Title = "교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"요르문간드 교단 신전 <NAVI>[기믈레]<INFO>jor_tmple1,238,268,0,101,0</INFO></NAVI>의 2층으로 올라가면 고급 정보를 얻을 수 있지 않을까?"}
+, Summary = "신전 탐색 03"}
+, 
+[17756] = {Title = "교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"쓸만한 정보를 얻지 못했다. 요르문간드 교단 신전 <NAVI>[기믈레]<INFO>jor_tmple1,188,72,0,101,0</INFO></NAVI>의 합류 지점에서 일행을 만나자."}
+, Summary = "일행과 합류"}
+, 
+[17757] = {Title = "교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"모두들 성과가 없긴 마찬가지였다. 대책을 세우러 <NAVI>[루나포마]<INFO>jor_mbase,143,272,0,101,0</INFO></NAVI>로 돌아가자."}
+, Summary = "루나포마로"}
+, 
+[17758] = {Title = "성공을 향한 인재 영입", IconName = "ico_ep.bmp", 
+Description = {"접선 장소인 <NAVI>[비늘섬]<INFO>jor_crk_p,71,85,0,101,0</INFO></NAVI>에서 나도요를 만나면 교단 신전의 정보를 얻을 수 있다고 한다."}
+, Summary = "접선 장소로"}
+, 
+[17759] = {Title = "성공을 향한 인재 영입", IconName = "ico_ep.bmp", 
+Description = {"비늘섬에 남겨진 일행에게 <NAVI>[아이반]<INFO>jor_crk_p,69,85,0,101,0</INFO></NAVI>은 한 가지 제안이 있다고 하지만..."}
+, Summary = "아이반과 대화"}
+, 
+[17760] = {Title = "성공을 향한 인재 영입", IconName = "ico_ep.bmp", 
+Description = {"아이반이 이야기 한 인재는 <NAVI>[루나포마]<INFO>jor_mbase,166,302,0,101,0</INFO></NAVI>의 급식소에 있다고 한다. 영입에 성공을 할 수 있을까?"}
+, Summary = "루나포마로"}
+, 
+[17761] = {Title = "2차 교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[솟아오른 대지]<INFO>jor_raise1,323,71,0,101,0</INFO></NAVI> 북부에서 나도요와 합류한 뒤 신전 진입에 대한 자세한 이야기를 들어보자."}
+, Summary = "솟아오른 대지로"}
+, 
+[17762] = {Title = "2차 교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"요르문간드 교단 신전 <NAVI>[기믈레]<INFO>jor_tmple1,238,268,0,101,0</INFO></NAVI>에서 대기 중이던 나도요를 만나 교단에서의 주의 사항을 들어야 한다. 이번에도 실패할 수는 없다."}
+, Summary = "신전 2층으로"}
+, 
+[17763] = {Title = "2차 교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"요르문간드 교단 신전 <NAVI>[기믈레]<INFO>jor_tmple1,238,268,0,101,0</INFO></NAVI>의 경비는 잠시 시간이 필요하다고 했다."}
+, Summary = "경비에게 명부 등록"}
+, 
+[17764] = {Title = "2차 교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"고위 사제인 카르밀간드는 요르문간드 교단 신전 <NAVI>[기믈레]<INFO>jor_tmple1,238,268,0,101,0</INFO></NAVI>의 어딘가에 갇혀있다. 그를 도와 탈출해야 한다."}
+, Summary = "카르밀간드 구출"}
+, 
+[17765] = {Title = "2차 교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"간신히 카르밀간드를 구출했다. <NAVI>[솟아오른 대지]<INFO>jor_raise1,323,71,0,101,0</INFO></NAVI> 북부로 가서 일행과 합류하자."}
+, Summary = "솟아오른 대지로"}
+, 
+[17766] = {Title = "2차 교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"구출 임무에 성공했다. 카르밀간드와 신도들을 데리고 <NAVI>[루나포마]<INFO>jor_mbase,143,272,0,101,0</INFO></NAVI>로 돌아가기로 했다."}
+, Summary = "루나포마로"}
+, 
+[17767] = {Title = "2차 교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"넓은 곳은 이야기를 하기에 적절치가 않다. <NAVI>[루나포마]<INFO>mbase_in,116,186,0,101,0</INFO></NAVI>의 조용한 곳으로 가 대화를 해보자."}
+, Summary = "조용한 곳으로"}
+, 
+[17768] = {Title = "2차 교단 잠입", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[루나포마]<INFO>mbase_in,118,186,0,101,0</INFO></NAVI>의 중앙막사에서는 라인하르트를 두고 대화가 한창이다. 라인하르트는 유령선에 대해 알고 있다고 한다."}
+, Summary = "라인하르트와 대화"}
+, 
+[17769] = {Title = "유령선에 대한 보고", IconName = "ico_ep.bmp", 
+Description = {"유령선의 정보를 얻었다. 기다리고 있을 <NAVI>[마리스텔라]<INFO>jalbe_in,68,46,0,101,0</INFO></NAVI>에게 보고하러 알베르타로 가자."}
+, Summary = "마리스텔라에게"}
+, 
+[17770] = {Title = "뢰겐부르그 형제", IconName = "ico_sub.bmp", 
+Description = {"<NAVI>[루나포마]<INFO>mbase_in,118,186,0,101,0</INFO></NAVI>의 중앙막사에 기거하고 있는 라인하르트는 동생과 할 이야기가 많아 보인다."}
+, Summary = "라인하르트와 대화"}
+, 
+[17771] = {Title = "뢰겐부르그 형제", IconName = "ico_sub.bmp", 
+Description = {"라인하르트의 의견은 <NAVI>[루나포마]<INFO>jor_mbase,140,201,0,101,0</INFO></NAVI>의 책임자인 트리스에게 전달하기로 했다."}
+, Summary = "트리스에게"}
+, 
+[17772] = {Title = "뢰겐부르그 형제", IconName = "ico_sub.bmp", 
+Description = {"트리스는 곧 <NAVI>[라인하르트]<INFO>mbase_in,118,186,0,101,0</INFO></NAVI>를 찾아가겠다며 먼저 루나포마의 중앙막사로 돌아가라고 한다."}
+, Summary = "라인하르트에게"}
+, 
+[17773] = {Title = "뢰겐부르그 형제", IconName = "ico_sub.bmp", 
+Description = {"트리스는 라인하르트와 함께 루나포마의 <NAVI>[급식소]<INFO>jor_mbase,197,277,0,101,0</INFO></NAVI>로 빌헬름을 보러 가자고 제안했다."}
+, Summary = "급식소로"}
+, 
+[17774] = {Title = "뢰겐부르그 형제", IconName = "ico_sub.bmp", 
+Description = {"루나포마의 <NAVI>[급식소]<INFO>jor_mbase,194,279,0,101,0</INFO></NAVI>를 둘러보던 라인하르트의 주변으로 신도들이 모여들었다. 무슨 일이지?"}
+, Summary = "라인하르트와 대화"}
+, 
+[17775] = {Title = "뢰겐부르그 형제", IconName = "ico_sub.bmp", 
+Description = {"루나포마의 급식소에서 일을 하던 <NAVI>[빌헬름]<INFO>jor_mbase,196,280,0,101,0</INFO></NAVI>은 형의 주변으로 몰려든 사람들을 보고 불안한 얼굴을 한 채 다가왔다."}
+, Summary = "빌헬름과 대화"}
+, 
+[17776] = {Title = "뢰겐부르그 형제", IconName = "ico_sub.bmp", 
+Description = {"대화의 물꼬를 튼 형제를 본 <NAVI>[트리스]<INFO>jor_mbase,197,277,0,101,0</INFO></NAVI>는 매우 흐뭇해하고 있다. 루나포마에서 할 일은 없는지 트리스에게 물어보자."}
+, Summary = "트리스와 대화"}
+, 
+[17777] = {Title = "안전한 탈출로 1", IconName = "ico_dq.bmp", 
+Description = {"솟아오른 대지 북부에서 몬스터를 종류에 상관없이 300마리씩 처리하고 <NAVI>[루나포마]<INFO>jor_mbase,140,201,0,101,0</INFO></NAVI>로 돌아와서 보고하면 돼요."}
+, Summary = "솟아오른 대지 북부"}
+, 
+[17778] = {Title = "안전한 탈출로 2", IconName = "ico_dq.bmp", 
+Description = {"솟아오른 대지 남부에서 몬스터를 종류에 상관없이 300마리씩 처리하고 <NAVI>[루나포마]<INFO>jor_mbase,140,201,0,101,0</INFO></NAVI>로 돌아와서 보고하면 돼요."}
+, Summary = "솟아오른 대지 남부"}
+, 
+[17779] = {Title = "대기: 안전한 탈출로 1", IconName = "ico_dq.bmp", 
+Description = {"잘했어요. 푹 쉬다가 새벽이 지나고 루나포마에서 <NAVI>[나]<INFO>jor_mbase,140,201,0,101,0</INFO></NAVI>를 찾아와요."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17780] = {Title = "대기: 안전한 탈출로 2", IconName = "ico_dq.bmp", 
+Description = {"잘했어요. 푹 쉬다가 새벽이 지나고 루나포마에서 <NAVI>[나]<INFO>jor_mbase,140,201,0,101,0</INFO></NAVI>를 찾아와요."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17781] = {Title = "보급 계획", IconName = "ico_sub.bmp", 
+Description = {"보급품 담당자에게서 루나포마의 보급품 수급 계획을 들었다."}
+, Summary = "보급 계획 설명 완료"}
+, 
+[17782] = {Title = "게오보르그의 보급품 요청", IconName = "ico_dq.bmp", 
+Description = {"요르미 전도사를 처리하고 요르문간드 교리서 10개를 가지고 루나포마로 돌아와 <NAVI>[나]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>에게 주면 돼."}
+, Summary = "요르문간드 교리서 10"}
+, 
+[17783] = {Title = "네리우스의 보급품 요청", IconName = "ico_dq.bmp", 
+Description = {"얼음 해마에게서 얻을 수 있는 얼음 별사탕 10개를 가지고 루나포마로 와. 그리고 그걸 <NAVI>[나]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>에게 주면 돼."}
+, Summary = "얼음 별사탕 10"}
+, 
+[17784] = {Title = "하이네의 보급품 요청", IconName = "ico_dq.bmp", 
+Description = {"요르투스 주술사가 지니고 있는 요란한 장신구 10개를 떼어 내. 루나포마에서 <NAVI>[나]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>에게 주면 끝."}
+, Summary = "요란한 장신구 10"}
+, 
+[17785] = {Title = "뢰겐부르그의 보급품 요청", IconName = "ico_dq.bmp", 
+Description = {"요르도스 집행자가 가지고 다니는 뱀 모양 단검 조각 10개가 필요해. 그걸 얻으면 루나포마로 돌아와 <NAVI>[나]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>에게 주면 돼."}
+, Summary = "뱀 모양 단검 조각 10"}
+, 
+[17786] = {Title = "발터의 보급품 요청", IconName = "ico_dq.bmp", 
+Description = {"클리오리마 알지? 그것에서 말랑한 핵 10개만 가지고 와. <NAVI>[나]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>는 루나포마에서 늘 대기 중이니까 언제든지 가져와도 돼."}
+, Summary = "말랑한 핵 10"}
+, 
+[17787] = {Title = "위그너의 보급품 요청", IconName = "ico_dq.bmp", 
+Description = {"구아노 10개만 가지고 와. 바다바람새에게서 얻을 수 있어. <NAVI>[나]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>는 늘 루나포마에 있으니까 언제든지 찾아와."}
+, Summary = "구아노 10"}
+, 
+[17788] = {Title = "리하르트의 보급품 요청", IconName = "ico_dq.bmp", 
+Description = {"레터스터에게서 딱딱한 긴 다리 10개만 잘라 와. <NAVI>[나]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>는 루나포마에서 상시대기 중이니까. 언제든 환영!"}
+, Summary = "딱딱한 긴 다리 10"}
+, 
+[17789] = {Title = "대기: 보급품 수급 요청", IconName = "ico_dq.bmp", 
+Description = {"수고했어. 푹 쉬고 새벽이 지난 뒤에 루나포마의 이자리에서 <NAVI>[나]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>를 찾아. 새로운 임무를 줄 테니까."}
+, Summary = "초기화 04시", CoolTimeQuest = 1}
+, 
+[17790] = {Title = "보급품 수급 계획", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[만델]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>이 요청한 루나포마의 보급품을 조달하자."}
+, Summary = ""}
+, 
 [18000] = {Title = "진입 준비", IconName = "ico_ep.bmp", 
 Description = {"드디어 하수관의 잠금장치 해제에 성공한 리벨리온. 루키는 하수관으로 진입할 준비가 다 되면 다시 말을 걸어 달라고 했다."}
 , Summary = "루키와 대화"}
@@ -33595,6 +33947,118 @@ Description = {"현자의 유산 패스를 오픈하였습니다."}
 Description = {"기도의 방향 패스를 오픈하였습니다."}
 , Summary = ""}
 , 
+[18334] = {Title = "북쪽에 균열이 감지되었습니다.", IconName = "ico_ep.bmp", 
+Description = {"닐렘은 이스가르드 근처의 비늘섬에서 균열이 발생한 것 같다며 조사를 원한다. 얼어붙은 꼬리에서 대기 중인 <NAVI>[슈파파]<INFO>jor_tail,233,41,0,101,0</INFO></NAVI>를 통해 비늘섬으로 갈 수 있다."}
+, Summary = "냐르와 대화"}
+, 
+[18335] = {Title = "비늘섬의 균열", IconName = "ico_ep.bmp", 
+Description = {"냐르와 함께 과거의 비늘섬으로 넘어왔다. 이 곳에서 라스간드의 힘의 근원을 찾아 없애야 한다. <NAVI>[냐르]<INFO>jor_crk_p,105,108,0,101,0</INFO></NAVI>와 대화하자."}
+, Summary = "냐르와 대화"}
+, 
+[18336] = {Title = "첫 만남", IconName = "ico_ep.bmp", 
+Description = {"과거의 비늘섬에서 앞으로의 행보를 논의하던 중 인기척을 느꼈다. 균열 근처에서 사람을 만나보자. 과거의 비늘섬은 <NAVI>[냐르]<INFO>jor_crk,105,108,0,101,0</INFO></NAVI>를 통해 이동할 수 있다."}
+, Summary = "균열 근처에서 사람 만나기"}
+, 
+[18337] = {Title = "루나포마로", IconName = "ico_ep.bmp", 
+Description = {"과거의 비늘섬에서 만난 건 아이반 위그너였다. <NAVI>[아이반]<INFO>jor_crk_p,95,93,0,101,0</INFO></NAVI>과 병사의 안내를 받아 루나포마로 이동하기로 했다."}
+, Summary = "루나포마에서 병사와 대화"}
+, 
+[18338] = {Title = "목격담 수집", IconName = "ico_ep.bmp", 
+Description = {"거대한 뱀과 관련된 정보를 모으기로 했다. 실존하는 것인지 목격담이 필요하다. 루나포마로 귀환한 사람들로부터 목격담을 들어보자."}
+, Summary = "목격담 3개 수집"}
+, 
+[18339] = {Title = "목격담 1", IconName = "ico_ep.bmp", 
+Description = {"지친 병사는 불길하고 징그러운 뱀 괴물을 봤다고 한다."}
+, Summary = ""}
+, 
+[18340] = {Title = "목격담2", IconName = "ico_ep.bmp", 
+Description = {"교단을 탈출한 신도는 뱀 괴물이 사람을 먹는 것을 봤다고 한다."}
+, Summary = ""}
+, 
+[18341] = {Title = "목격담 3", IconName = "ico_ep.bmp", 
+Description = {"부상당한 병사의 등에는 커다란 뱀의 비늘 자국이 있다."}
+, Summary = ""}
+, 
+[18342] = {Title = "목격담 취합 완료!", IconName = "ico_ep.bmp", 
+Description = {"목격담을 모두 모았다. 루나포마 중앙 막사 앞에서 <NAVI>[트리스]<INFO>jor_mbase,204,193,0,101,0</INFO></NAVI>에게 보고하자."}
+, Summary = "트리스와 대화"}
+, 
+[18343] = {Title = "탄과 나도요를 찾아서", IconName = "ico_ep.bmp", 
+Description = {"트리스는 귀환하지 않는 탄과 나도요를 걱정한다. 솟아오른 대지 <NAVI>[북부]<INFO>jor_raise1,199,190,0,101,0</INFO></NAVI>로 조사를 하러 간 탄과 나도요를 찾으러 가자."}
+, Summary = "나도요와 대화"}
+, 
+[18344] = {Title = "신전의 수상한 장소", IconName = "ico_ep.bmp", 
+Description = {"탄, 나도요, 라인하르트와 함께 솟아오른 대지 북부에 위치한 요르문간드 교단의 신전 기믈레의 수상한 장소를 확인하기로 했다. 신전 밖의 <NAVI>[장식문]<INFO>jor_raise1,128,326,0,101,0</INFO></NAVI>을 조사하자."}
+, Summary = "장식문 조사"}
+, 
+[18345] = {Title = "뱀의 거처?", IconName = "ico_ep.bmp", 
+Description = {"교단에서 아무래도 거대한 뱀 괴물을 만든 모양이다. 어서 루나포마로 돌아가 <NAVI>[트리스]<INFO>jor_mbase,204,193,0,101,0</INFO></NAVI>에게 이 사실을 알려주어야 한다."}
+, Summary = "트리스와 대화"}
+, 
+[18346] = {Title = "최후의 전투에서 열외를 당한다면", IconName = "ico_ep.bmp", 
+Description = {"트리스는 동료들과 거대한 뱀을 상대기로 한다. 루나포마의 중앙 막사 내부의<NAVI>[작은 방]<INFO>mbase_in,64,184,0,101,0</INFO></NAVI>에서 기다리고 있을 동료들과 다음 일정에 대해 논의하자. "}
+, Summary = "냐르와 대화"}
+, 
+[18347] = {Title = "내가 빠질 수 없어요!", IconName = "ico_ep.bmp", 
+Description = {"동료들과 논의하던 중, 하이네가 거대한 뱀과의 전투에 합류하길 권한다. 트리스와 동료들이 거대한 뱀을 상대하기 전에 일전의 <NAVI>[장식문]<INFO>jor_raise1,128,326,0,101,0</INFO></NAVI>이 있던 곳으로 빠르게 이동해 합류하자."}
+, Summary = "나도요와 대화"}
+, 
+[18348] = {Title = "최후의 전투에 합류", IconName = "ico_ep.bmp", 
+Description = {"교단의 신전, <NAVI>[장식문]<INFO>jor_raise1,128,326,0,101,0</INFO></NAVI>으로 가려져 있던 미지의 장소에서 거대한 뱀의 위치를 찾기 위해 동료들이 조사 중이다. 트리스와 함께 역사에 기록된 최후의 전투에 동참하자."}
+, Summary = "최후의 전투 참여"}
+, 
+[18349] = {Title = "고양이에게 물려가는 모험가", IconName = "ico_ep.bmp", 
+Description = {"갑자기 나타난 냐르에게 물려 이동 당했다. 요르문간드의 마력을 쫓으러 갔던 냐르는 교단의 신전 기믈레의 <NAVI>[제단 장식문]<INFO>jor_tmple1,170,307,0,101,0</INFO></NAVI> 뒤의 숨겨진 공간으로 안내했다. 냐르를 따라가자."}
+, Summary = "냐르와 대화"}
+, 
+[18350] = {Title = "기믈레의 수상한 책", IconName = "ico_ep.bmp", 
+Description = {"냐르에게 물려 온 기믈레의 <NAVI>[제단]<INFO>jor_tmple1,170,307,0,101,0</INFO></NAVI> 뒤쪽에는 숨겨진 장소가 있었고, 한눈에도 수상한 책이 놓여 있다. 닐렘은 책은 일종의 장치라고 하며 눌러보라고 하는데.."}
+, Summary = "수상한 책 누르기"}
+, 
+[18351] = {Title = "빛나는 문", IconName = "ico_ep.bmp", 
+Description = {"교단의 신전 기믈레의 <NAVI>[제단]<INFO>jor_tmple1,170,307,0,101,0</INFO></NAVI> 너머 숨겨진 장소에서 수상한 책을 누르자 아래쪽에 빛나는 문이 생겼다! 요르문간드의 마력이 느껴진다. 들어가 보자!"}
+, Summary = "빛나는 문으로"}
+, 
+[18352] = {Title = "드디어 진짜 임무!", IconName = "ico_ep.bmp", 
+Description = {"교단의 신전 기믈레의 <NAVI>[제단]<INFO>jor_tmple1,170,307,0,101,0</INFO></NAVI> 너머 숨겨진 장소는 또 다른 통로와 연결되어 있었다. 요동치는 마력의 흐름을 따라가, 요르문간드의 마력이 라스간드에게 응집 되기 전에 없애자."}
+, Summary = "비밀 제단 공략"}
+, 
+[18353] = {Title = "근원 차단 성공", IconName = "ico_ep.bmp", 
+Description = {"우여곡절 끝에 라스간드에게 갈 요르문간드의 마력은 냐르가 잘 회수한 것 같다. 과거의 비늘섬에서 <NAVI>[냐르]<INFO>jor_crk_p,105,108,0,101,0</INFO></NAVI>앞으로의 일정을 의논하자."}
+, Summary = "냐르와 대화"}
+, 
+[18354] = {Title = "하이네의 선물", IconName = "ico_ep.bmp", 
+Description = {"타블렛으로 통신을 걸어 온 일제 엘 하이네는 루나포마 나루터 근처의 <NAVI>[풀 숲]<INFO>jor_mbase,129,43,0,101,0</INFO></NAVI>에 숨겨둔 새 타블렛을 가져가라고 한다."}
+, Summary = "풀 숲 조사"}
+, 
+[18355] = {Title = "다시 비늘섬으로", IconName = "ico_ep.bmp", 
+Description = {"원래 시간대의 <NAVI>[비늘섬]<INFO>jor_crk,137,138,0,101,0</INFO></NAVI>으로 돌아가서 계획대로 일이 진행됐는지 확인해야 한다."}
+, Summary = "비늘섬으로"}
+, 
+[18356] = {Title = "인과를 확인할 시간", IconName = "ico_ep.bmp", 
+Description = {"어린 가지의 둥지로 가서 라스간드를 확인해야 한다. 둥지에 있는 <NAVI>[냐르의 분신]<INFO>jor_twig,122,164,0,101,0</INFO></NAVI>을 통해 봉인된 라스간드의 마력 상태를 알 수 있다."}
+, Summary = "냐르의 분신과 대화"}
+, 
+[18357] = {Title = "저주를 청산할 시간", IconName = "ico_ep.bmp", 
+Description = {"보클린드와 레하르가 저주의 끝을 보기 위해 결계 안으로 들어갔다. 무사히 성공하기를 기원하며 기다리자. <NAVI>[냐르의 분신]<INFO>jor_twig,122,164,0,101,0</INFO></NAVI>을 통해 알 수 있다."}
+, Summary = "대기 후 냐르의 분신과 대화"}
+, 
+[18358] = {Title = "라스간드?", IconName = "ico_ep.bmp", 
+Description = {"라스간드가 계속 부활한다고 한다. 하나의 가능성을 두고 확인을 하기 위해 결계 안으로 들어가기로 했다. <NAVI>[냐르의 분신]<INFO>jor_twig,122,164,0,101,0</INFO></NAVI>을 통해 고요한 성소로 진입하자."}
+, Summary = "고요한 성소 확인"}
+, 
+[18359] = {Title = "나비효과", IconName = "ico_ep.bmp", 
+Description = {"예상대로 결계 속의 라스간드는 라스간드가 아니었다. 이미르의 심장 조각의 마력이 라스간드를 흉내내며 결계 속에서 존재하고 있었다. 어린 가지의 둥지에서 <NAVI>[냐르의 분신]<INFO>jor_twig,122,164,0,101,0</INFO></NAVI>에게 사실을 전해주자."}
+, Summary = "냐르의 분신과 대화"}
+, 
+[18360] = {Title = "멈춰버린 영웅의 시대", IconName = "ico_ep.bmp", 
+Description = {"비늘섬에서 균열을 닫는 작업 중인 <NAVI>[냐르]<INFO>jor_crk,105,108,0,101,0</INFO></NAVI>와 닐렘이 이상한 일이 있다며 와달라고 한다. 비늘섬으로 가자."}
+, Summary = "냐르와 대화"}
+, 
+[18361] = {Title = "냐르의 원시주머니", IconName = "ico_ep.bmp", 
+Description = {"냐르가 원시주머니를 자랑했다."}
+, Summary = "냐르와 대화"}
+, 
 [19000] = {Title = "꽃이 피어난 대지", IconName = "ico_dq.bmp", 
 Description = {"낙원단 독점 의뢰입니다.", "<NAVI>[꽃이 피어난 대지]<INFO>ecl_fild01,182,93,0,101,0</INFO></NAVI>지역의 몬스터를 처치 후 상급의뢰 게시판에 보고해주세요.", "^FF0000※해당 지역에 입장하기 위한 조건이 있을 수 있습니다.^000000"}
 , Summary = "꽃이 피어난 대지 몬스터 처치"}
@@ -34330,6 +34794,86 @@ Description = {"<NAVI>[파브르]<INFO>FABRE,0,0,3,-222,1</INFO></NAVI>을 30마리 잡
 [19183] = {Title = "대충 사는 사냥꾼(알픽키)", IconName = "ico_ev.bmp", 
 Description = {"<NAVI>[알픽키]<INFO>PICKY_,0,0,3,-222,1</INFO></NAVI>을 30마리 잡고 <NAVI>[의뢰 담당 노도르]<INFO>prt_fild01,108,177,0,101,0</INFO></NAVI>에게 가면 보상을 받을 수 있습니다."}
 , Summary = "알픽키 30마리"}
+, 
+[19184] = {Title = "상담사 울스와 만남", IconName = "ico_nq.bmp", 
+Description = {"상담사 울스와 만났습니다."}
+, Summary = ""}
+, 
+[19185] = {Title = "[대기] 악몽에 시달리는 자들", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[상담사 울스]<INFO>jor_albe,160,137,0,101,0</INFO></NAVI>는 내일도 상담에 나서주기를 바라는 것 같다. 대기시간이 지난 후 상담사 울스를 찾아가자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[19186] = {Title = "상담의뢰서", IconName = "ico_dq.bmp", 
+Description = {"상담의뢰서", "성명: <NAVI>[유크터 뿌뿌]<INFO>jor_albe,89,103,0,101,0</INFO></NAVI>", "정보: 교단의 핍박에 고향에 있는 모든 것을 버리고 알베르타에 오신 분입니다. 아닌 척 하시지만, 고향을 매우 그리워하고 계십니다. 서운하지 않도록 이야기를 잘 들어주세요.", "  ", "^FF0000※ 해당 의뢰서의 내용은 개인 정보에 해당되니 외부 유출에 주의하시기 바랍니다.^000000"}
+, Summary = ""}
+, 
+[19187] = {Title = "상담의뢰서", IconName = "ico_dq.bmp", 
+Description = {"상담의뢰서", "성명: <NAVI>[토토르 앰버]<INFO>jor_albe,136,196,0,101,0</INFO></NAVI>", "정보: 알베르타에 후송되어 온 난민의 모습을 보고 그 충격에 악몽을 겪고 계신 분입니다. 충격을 덜어낼 수 있게 이야기를 잘 들어주세요.", "  ", "^FF0000※ 해당 의뢰서의 내용은 개인 정보에 해당되니 외부 유출에 주의하시기 바랍니다.^000000"}
+, Summary = ""}
+, 
+[19188] = {Title = "상담의뢰서", IconName = "ico_dq.bmp", 
+Description = {"상담의뢰서", "성명: <NAVI>[개르주 샌샤]<INFO>jor_albe,49,244,0,101,0</INFO></NAVI>", "정보: 교단에 감금되어 있다가 저항군 분들이 구해온 분 입니다. 겉으로는 쎈 척을 하시기는 하는데 속은 안 그럴 것이라고 예상합니다. 이야기를 잘 들어주세요.", "  ", "^FF0000※ 해당 의뢰서의 내용은 개인 정보에 해당되니 외부 유출에 주의하시기 바랍니다.^000000"}
+, Summary = ""}
+, 
+[19189] = {Title = "상담의뢰서", IconName = "ico_dq.bmp", 
+Description = {"상담의뢰서", "성명: <NAVI>[모가자 실드]<INFO>jor_albe,116,214,0,101,0</INFO></NAVI>", "정보: 교단에 끌려갔다가 정말 극적으로 구조되신 분입니다. 아직 후유증을 겪고 계셔서 말을 좀 더듬으시긴 하지만, 인내심을 가지고 이야기를 잘 들어주세요.", "  ", "^FF0000※ 해당 의뢰서의 내용은 개인 정보에 해당되니 외부 유출에 주의하시기 바랍니다.^000000"}
+, Summary = ""}
+, 
+[19190] = {Title = "상담완료", IconName = "ico_dq.bmp", 
+Description = {"성공적으로 상담을 마쳤습니다. <NAVI>[상담사 울스]<INFO>jor_albe,160,137,0,101,0</INFO></NAVI>에게 가서 보상을 받으세요."}
+, Summary = ""}
+, 
+[19191] = {Title = "유크터 뿌뿌와 만남", IconName = "ico_nq.bmp", 
+Description = {"유크터 뿌뿌와 만났습니다."}
+, Summary = ""}
+, 
+[19192] = {Title = "토토르 앰버와 만남", IconName = "ico_nq.bmp", 
+Description = {"토토르 앰버와 만났습니다."}
+, Summary = ""}
+, 
+[19193] = {Title = "개르주 샌샤와 만남", IconName = "ico_nq.bmp", 
+Description = {"개르주 샌샤와 만났습니다."}
+, Summary = ""}
+, 
+[19194] = {Title = "모가자 실드와 만남", IconName = "ico_nq.bmp", 
+Description = {"모가자 실드와 만났습니다."}
+, Summary = ""}
+, 
+[19195] = {Title = "리브라", IconName = "ico_nq.bmp", 
+Description = {"리브라와 만났습니다."}
+, Summary = ""}
+, 
+[19196] = {Title = "냄새로 전하는 소식", IconName = "ico_dq.bmp", 
+Description = {"리브라는 <NAVI>[중앙]<INFO>jor_base,131,182,0,101,0</INFO></NAVI>의 누군가에게 한 <ITEM>[물건]<INFO>1001626</INFO></ITEM>을 전해주길 바라고 있다."}
+, Summary = ""}
+, 
+[19197] = {Title = "[대기]냄새로 전하는 소식", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[리브라]<INFO>jor_base,314,138,0,101,0</INFO></NAVI>가 요청한 일을 수행했다. 내일쯤 또 도움을 요청하지 않을까?"}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[19198] = {Title = "발런 웍", IconName = "ico_nq.bmp", 
+Description = {"발런 웍과 만났습니다."}
+, Summary = ""}
+, 
+[19199] = {Title = "[대기] 항상 부족한 식량", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[발런 웍]<INFO>jor_mbase,213,280,0,101,0</INFO></NAVI>에게 오늘 치 식량을 전달해 한 손 거들었다. 내일도 한 손 거들어 볼까?"}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[19200] = {Title = "식량확보(낚시)", IconName = "ico_dq.bmp", 
+Description = {"낚시로 식량 조달을 부탁받았다. 낚시로 같은 재료 10개를 구하면 <NAVI>[발런 웍]<INFO>jor_mbase,213,280,0,101,0</INFO></NAVI>에게 가져다 주자.", "---", "<NAVI>[1시 낚시터]<INFO>jor_mbase,295,288,0,101,0</INFO></NAVI> <NAVI>[3시 낚시터]<INFO>jor_mbase,331,194,0,101,0</INFO></NAVI>", "<NAVI>[6시 낚시터]<INFO>jor_mbase,189,26,0,101,0</INFO></NAVI> <NAVI>[8시 낚시터]<INFO>jor_mbase,21,93,0,101,0</INFO></NAVI>", "<NAVI>[9시 낚시터]<INFO>jor_mbase,23,151,0,101,0</INFO></NAVI>"}
+, Summary = ""}
+, 
+[19201] = {Title = "식량확보(풀 채집)", IconName = "ico_dq.bmp", 
+Description = {"루나포마 주변을 돌아다니며, 먹을만한 풀 조달을 부탁받았다. 루나포마에서 채집한 같은 종류의 풀 10개를 구하면 <NAVI>[발런 웍]<INFO>jor_mbase,213,280,0,101,0</INFO></NAVI>에게 가져다 주자."}
+, Summary = ""}
+, 
+[19202] = {Title = "식량확보(천연 조미료)", IconName = "ico_dq.bmp", 
+Description = {"발런 웍은 <NAVI>[루나포마 해변]<INFO>jor_mbase,340,30,0,101,0</INFO></NAVI>에서 반짝이는 천연 조미료를 발견한다면, 긁어와 달라고 부탁하였다."}
+, Summary = ""}
+, 
+[19203] = {Title = "식량확보(천연 조미료)", IconName = "ico_dq.bmp", 
+Description = {"루나포마 해변에서 천연 조미료를 획득했다. <NAVI>[발런 웍]<INFO>jor_mbase,213,280,0,101,0</INFO></NAVI>에게 가져다 주자."}
+, Summary = ""}
 , 
 [20000] = {Title = "유저 캐릭터 인증 완료", IconName = "ico_ev.bmp", 
 Description = {"라그페스의 유저 캐릭터 인증 완료했습니다!"}
@@ -38359,6 +38903,10 @@ Description = {"도와준 정이 있으니, 야시장 사업을 정식으로 시작하게 되면 모험가�
 Description = {"안냥! 만나서 반가웠어요! 내일도 마법을 걸어주기 위해 힘을 모아놓을테니 또 만나요 >.<"}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
+[23094] = {Title = "뇨끼? 뇨끼뇨끼", IconName = "ico_ev.bmp", 
+Description = {"가족 사랑의 케이크를 만들자"}
+, Summary = ""}
+, 
 [23100] = {Title = "태고의 깊은 바다", IconName = "ico_ep.bmp", 
 Description = {"라스간드와의 대치 상황에서 우리를 구한 것은 요르문간드일지도 모른다고 한다. 하얀 고양이를 만났던 곳을 찾기 위해 <NAVI>[잠수 아윈]<INFO>icecastle,141,212,0,101,0</INFO></NAVI>에게 가보자."}
 , Summary = "잠수 아윈과 대화"}
@@ -38917,6 +39465,246 @@ Description = {"프론테라의 <NAVI>[새콤이]<INFO>prontera,171,278,0,101,0</INFO></
 , 
 [23239] = {Title = "약간 달콤한 건 괜찮을지도 -대기-", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[새콤이]<INFO>prontera,171,278,0,101,0</INFO></NAVI>의 당도 개량 연구를 도왔다. 내일도 돕고 싶다면 04시 이후에 새콤이를 다시 찾아가보자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[23240] = {Title = "저항군 게오보르그", IconName = "ico_ep.bmp", 
+Description = {"저항군 게오보르그의 거점, 루나포마에 도착하자마자 말다툼 소리가 들려온다. 저항군 병사의 반응으로 보아 항의를 받고 있는 것은 저항군 게오보르그의 <NAVI>[대장]<INFO>jor_mbase,56,152,0,101,0</INFO></NAVI>과 부대장인 것으로 보인다. 레하르와 닐렘은 괜히 불똥을 맞지 않게 조용히 내용을 들어보자고 한다."}
+, Summary = "말다툼의 내용 들어보기"}
+, 
+[23241] = {Title = "저항군 게오보르그", IconName = "ico_ep.bmp", 
+Description = {"프레이야교 신자들은 오딘을 주축으로 삼은 저항군 게오보르그에 불만을 가지고 있었지만 타협안을 찾지 못하고 다른 정착지를 찾겠다며 루나포마를 떠나갔다. 상황이 정리되자 <NAVI>[저항군 병사]<INFO>jor_mbase,54,155,0,101,0</INFO></NAVI>가 이쪽으로 오라며 손짓한다."}
+, Summary = "저항군 병사와 대화하기"}
+, 
+[23242] = {Title = "저항군 게오보르그", IconName = "ico_ep.bmp", 
+Description = {"루나포마에서 만난 트리스는 게오보르그 저항군에 입단하고 싶다는 의사를 밝힌 모험가와 레하르, 닐렘을 반갑게 맞아주었다. 적절한 업무를 배정받기 전, 우선은 리하르트 용병단의 일을 도우며 분위기에 적응하라고 한다. 한편 부대장인 탄은 모험가 일행을 탐탁지 않게 생각하지만, 트리스는 리하르트 용병단까지의 안내를 탄에게 맡겨버린다. 리하르트 용병단으로 가는 길을 안내받기 위해 <NAVI>[탄]<INFO>jor_mbase,57,150,0,101,0</INFO></NAVI>에게 말을 걸어보자."}
+, Summary = "탄과 대화하기"}
+, 
+[23243] = {Title = "저항군 게오보르그", IconName = "ico_ep.bmp", 
+Description = {"탄은 모험가 일행에 대한 불신을 드러내며, 리하르트 용병단의 훈련을 견뎌낸다면 지금의 판단을 재고해 보겠다고 말했다. 탄의 안내를 받아 루나포마 내에 위치한 <NAVI>[리하르트 용병단]<INFO>jor_mbase,313,106,0,101,0</INFO></NAVI>으로 출발하자."}
+, Summary = "리하르트와 대화하기"}
+, 
+[23244] = {Title = "수지타산 이해타산", IconName = "ico_ep.bmp", 
+Description = {"루나포마로 돌아와 트리스에게 용병단에서의 일을 보고했다. 닐렘은 알베르타, 레하르는 위그너 상단으로 배치받아 떠났고, 트리스는 모험가에게 소개해줄 사람이 있다며 잠시 기다려 달라고 말했다. 루나포마의 <NAVI>[트리스]<INFO>jor_mbase,168,200,0,101,0</INFO></NAVI>에게 다시 한 번 말을 걸어보자."}
+, Summary = "트리스와 대화하기"}
+, 
+[23245] = {Title = "수지타산 이해타산", IconName = "ico_ep.bmp", 
+Description = {"코모도의 마법사 하이네, 그리고 하이네가 만든 최첨단 통신 수단인 하이네의 태블릿에 대한 소개를 받았다. 새로운 일을 맡을 준비가 되면 루나포마의 <NAVI>[트리스]<INFO>jor_mbase,168,200,0,101,0</INFO></NAVI>에게 알려주자."}
+, Summary = "트리스와 대화하기"}
+, 
+[23246] = {Title = "수지타산 이해타산", IconName = "ico_ep.bmp", 
+Description = {"하이네는 모험가가 직접 루나포마 인근에서 구할 수 있는 <ITEM>[영롱한 눈동자]<INFO>1001641</INFO></ITEM>를 모아 오라는 지시를 내렸다. 트리스의 반응으로 보아, 하이네는 갑작스러운 변덕을 부려 모험가에게 예정에 없던 일을 시킨 것 같다. 난처해하는 <NAVI>[트리스]<INFO>jor_mbase,168,200,0,101,0</INFO></NAVI>에게 마저 설명을 들어보자."}
+, Summary = "트리스와 대화하기"}
+, 
+[23247] = {Title = "수지타산 이해타산", IconName = "ico_ep.bmp", 
+Description = {"트리스의 말에 따르면, 하이네는 자신이 시킨 일을 정확하게 해내지 않으면 금방 알아채는 모양이다. 트리스는 미안해하면서도 하이네의 뜻에 따라줄 것을 부탁했다. 하이네가 원하는 대로 둥둥어 10마리를 사냥해 <ITEM>[영롱한 눈동자]<INFO>1001641</INFO></ITEM> 1개를 모은 후, 루나포마로 돌아와 <NAVI>[트리스]<INFO>jor_mbase,168,200,0,101,0</INFO></NAVI>에게 보고하자."}
+, Summary = "영롱한 눈동자 1개"}
+, 
+[23248] = {Title = "수지타산 이해타산", IconName = "ico_ep.bmp", 
+Description = {"하이네가 원하는 물건을 모으는 동안 하이네는 트리스에게 모험가를 알베르타로 보내줄 것을 요청했다고 한다. 트리스는 몹시 미안해하며 하이네의 뜻에 따라줄 것을 부탁했다. 먼저 알베르타에 가 있던 <NAVI>[닐렘]<INFO>jor_albe,192,209,0,101,0</INFO></NAVI>과 합류하자."}
+, Summary = "알베르타로"}
+, 
+[23249] = {Title = "검은 머리 짐승", IconName = "ico_ep.bmp", 
+Description = {"루나포마 막사로 돌아와 트리스를 만났다. 트리스와 하이네가 하이네의 타블렛을 통해 하이네와 통신하던 중, 타블렛이 오류를 일으켰다. <NAVI>[트리스]<INFO>mbase_in,92,123,0,101,0</INFO></NAVI>는 하이네에게 다시 연락이 올 때까지 기다려보자고 한다."}
+, Summary = "트리스와 대화"}
+, 
+[23250] = {Title = "검은 머리 짐승", IconName = "ico_ep.bmp", 
+Description = {"하이네의 타블렛에 오류가 발생했다. 다행히 다시 연결되기는 했지만, 하이네는 대대적인 개조가 필요하겠다며 수리 담당자로 모험가를 지목했다. 안정적인 환경을 구성하기 위해 트리스가 루나포마 막사의 독방을 내주었으니, <NAVI>[독방]<INFO>mbase_in,21,168,0,101,0</INFO></NAVI>으로 가보자."}
+, Summary = "본부 독방으로"}
+, 
+[23251] = {Title = "검은 머리 짐승", IconName = "ico_ep.bmp", 
+Description = {"하이네는 안정적인 환경을 구성한 후 본격적으로 수리를 시도해보려는 모양이다. 하이네는 원격 수리가 단번에 성공한다는 가능성이 없으니, 재료를 넉넉히 구해오라고 말했다. 수리에 필요한 재료인 <ITEM>[벨레로피]<INFO>1001643</INFO></ITEM> 2개를 구한 후 루나포마 막사 독방에 있는 <NAVI>[하이네]<INFO>mbase_in,21,168,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "벨레로피 2개"}
+, 
+[23252] = {Title = "검은 머리 짐승", IconName = "ico_ep.bmp", 
+Description = {"하이네가 타블렛 수리를 시작했다. 하이네의 원격 수리가 진행되는 동안 루나포마 막사의 <NAVI>[독방]<INFO>mbase_in,21,168,0,101,0</INFO></NAVI>에 머무르며 하이네의 수리를 보조하자."}
+, Summary = "하이네의 수리 돕기"}
+, 
+[23253] = {Title = "검은 머리 짐승", IconName = "ico_ep.bmp", 
+Description = {"첫 번째 수리 시도는 실패에 그친 모양이다. 다시 한 번 하이네의 원격 수리가 진행되는 동안 루나포마 막사의 <NAVI>[독방]<INFO>mbase_in,21,168,0,101,0</INFO></NAVI>에 머무르며 하이네의 수리를 보조하자."}
+, Summary = "하이네의 수리 돕기"}
+, 
+[23254] = {Title = "검은 머리 짐승", IconName = "ico_ep.bmp", 
+Description = {"타블렛은 잘 수리됐지만, 하이네가 모험가를 수리 보조로 지목한 것은 다른 이유에서 비롯된 것이었다. 모험가는 하이네에게 모험가 일행이 과거로 온 이유를 말해주었다. 하이네는 앞으로는 타블렛을 통해 전에 없던 기능까지 사용할 수 있을 것이라며 자신만만해하고, 루나포마 막사로 돌아가 <NAVI>[트리스]<INFO>mbase_in,92,123,0,101,0</INFO></NAVI>에게 이 소식을 알리라고 말했다."}
+, Summary = "트리스와 대화"}
+, 
+[23255] = {Title = "검은 머리 짐승", IconName = "ico_ep.bmp", 
+Description = {"오렐리가 전해준 레온이 알아낸 사실, 그리고 미래에서 온 모험가가 가져온 소식을 토대로 저항군 게오보르그는 요르문간드 교단과의 전쟁을 끝낼 전면전을 준비하기로 결정한다. 그러던 중 바깥에서 큰 소리가 들려온다. 루나포마 막사의 <NAVI>[바깥]<INFO>jor_mbase,201,192,0,101,0</INFO></NAVI>으로 나가 동태를 살피자."}
+, Summary = "본부 밖으로"}
+, 
+[23256] = {Title = "남의 공을 모른다", IconName = "ico_dq.bmp", 
+Description = {"하이네는 주변에서 이상한 마력이 느껴진다며, 타블렛을 통해 코모도 바깥의 마력도 측정할 수 있도록 <ITEM>[영롱한 눈동자]<INFO>1001641</INFO></ITEM>를 3개 모아오라고 요청했다. 재료를 모두 모으면 루나포마 막사의 <NAVI>[독방]<INFO>mbase_in,21,168,0,101,0</INFO></NAVI>으로 돌아가자."}
+, Summary = "영롱한 눈동자 3개"}
+, 
+[23257] = {Title = "남의 공을 모른다 -대기-", IconName = "ico_dq.bmp", 
+Description = {"하이네를 도와 주변의 마력 탐지에 필요한 재료를 모았다. 충분한 정보가 쌓인 뒤 본격적인 탐지를 시작할 모양이니, 내일 다시 루나포마 막사의 독방에 있는 <NAVI>[하이네]<INFO>mbase_in,21,168,0,101,0</INFO></NAVI>에게 찾아가자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[23258] = {Title = "남의 공을 모른다", IconName = "ico_dq.bmp", 
+Description = {"일퀘 반복 플래그"}
+, Summary = ""}
+, 
+[24000] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"탄은 모험가에게 믿음이 가지 않는 모양이다. 루나포마 남동쪽에 있는 <NAVI>[용병단 사무실]<INFO>mbase_in,289,124,0,101,0</INFO></NAVI>로 가서 리하르트를 만나자."}
+, Summary = "용병단 사무실로"}
+, 
+[24001] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"아무도 없던 루나포마의 리하르트 용병단 사무실에 나타난 <NAVI>[남자]<INFO>mbase_in,292,127,0,101,0</INFO></NAVI>에게 리하르트의 행방을 물어보자."}
+, Summary = "용병단에서 남자와 대화"}
+, 
+[24002] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"리하르트는 방에 있을지도 모른다고 한다. 루나포마 중앙 막사에 있는 <NAVI>[리하르트의 방]<INFO>mbase_in,113,120,0,101,0</INFO></NAVI>으로 가보자."}
+, Summary = "리하르트의 방으로"}
+, 
+[24003] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마 중앙 막사에 있는 리하르트의 방은 잠겨 있다. <NAVI>[옆 방]<INFO>mbase_in,113,114,0,101,0</INFO></NAVI>으로 가서 사람이 있는지 알아보자. "}
+, Summary = "옆방으로"}
+, 
+[24004] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"리하르트의 옆방에서 나온 여자는 루나포마 남동쪽 <NAVI>[용병단 사무실]<INFO>mbase_in,289,124,0,101,0</INFO></NAVI>로 돌아가자고 한다."}
+, Summary = "다시 용병단 사무실로"}
+, 
+[24005] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마 남동쪽에 있는 리하르트 용병단에 가입하기 위해서는 가입 <NAVI>[서류]<INFO>mbase_in,299,126,0,101,0</INFO></NAVI>를 작성해야 한다."}
+, Summary = "서류 작성"}
+, 
+[24006] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마 남동쪽에 있는 리하르트 용병단의 가입 서류를 작성하면 사무실 안쪽의 <NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>에게 제출하자."}
+, Summary = "발다리스에게 서류 제출"}
+, 
+[24007] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"발다리스가 서류를 확인하자 탄이 나타났다. 루나포마 남동쪽에 있는 리하르트 용병단 사무실에서 <NAVI>[탄]<INFO>mbase_in,302,122,0,101,0</INFO></NAVI>과 대화하자."}
+, Summary = "탄과 대화"}
+, 
+[24008] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"탄은 발다리스에게 모험가를 맡기고 다시 사라졌다. 루나포마 남동쪽에 있는 용병단 사무실 밖에서 <NAVI>[발다리스]<INFO>jor_mbase,316,117,0,101,0</INFO></NAVI>와 대화하자."}
+, Summary = "발다리스와 대화"}
+, 
+[24009] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마의 안내를 해주겠다고 한다. <NAVI>[발다리스]<INFO>jor_mbase,316,100,0,101,0</INFO></NAVI>를 따라가자."}
+, Summary = "발다리스와 대화"}
+, 
+[24010] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마에서 위그너 상단과 발터 함대에 대한 이야기를 들었다. <NAVI>[다음 장소]<INFO>jor_mbase,243,120,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "발다리스와 대화"}
+, 
+[24011] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마에 있는 아이들에 대한 이야기를 들었다. <NAVI>[다음 장소]<INFO>jor_mbase,145,108,0,101,0</INFO></NAVI>로 이동하자."}
+, Summary = "발다리스와 대화"}
+, 
+[24012] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마 남쪽의 훈련장 근처가 소란스러운 것 같다. <NAVI>[소리가 나는 장소]<INFO>jor_mbase,135,108,0,101,0</INFO></NAVI> 가까이로 이동하자."}
+, Summary = "훈련장으로 이동"}
+, 
+[24013] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마 남쪽의 훈련장에서 네리우스에게 맞고 있는 리하르트를 만났다. 치료를 위해 <NAVI>[리하르트의 방]<INFO>mbase_in,167,128,0,101,0</INFO></NAVI>으로 이동하자."}
+, Summary = "리하르트의 방으로"}
+, 
+[24014] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"루나포마 중앙 막사에 있는 리하르트의 방으로 돌아온 발다리스가 많이 화난 것 같다. 싸움에 원인에 대해 <NAVI>[리하르트]<INFO>mbase_in,168,126,0,101,0</INFO></NAVI>에게 자세히 듣자."}
+, Summary = "리하르트와 대화"}
+, 
+[24015] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"리하르트와 갈라시아는 전투 교본에 들어갈 삽화를 위해 싸움을 연출하고 있었던 것 같다. 루나포마 중앙 막사에 있는 리하르트의 방에서 <NAVI>[리]<INFO>mbase_in,166,124,0,101,0</INFO></NAVI>의 그림을 확인하자."}
+, Summary = "리와 대화"}
+, 
+[24016] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"발다리스는 리하르트와 따로 할 이야기가 있는 것 같다. 자리를 피해 루나포마 중앙 막사에 있는 <NAVI>[갈라시아의 방]<INFO>mbase_in,167,79,0,101,0</INFO></NAVI>으로 가자."}
+, Summary = "갈라시아의 방으로"}
+, 
+[24017] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"갈라시아와 리하르트에 대한 이야기를 들었다. 밖으로 나가 <NAVI>[리]<INFO>jor_mbase,163,196,0,101,0</INFO></NAVI>에게 루나포마의 안내를 받자."}
+, Summary = "리와 대화"}
+, 
+[24018] = {Title = "용병단 리하르트", IconName = "ico_ep.bmp", 
+Description = {"앞의 상황들로 조금은 신용을 얻은 것 같다. 루나포마에서 <NAVI>[트리스]<INFO>jor_mbase,168,200,0,101,0</INFO></NAVI>를 만나자."}
+, Summary = "트리스에게"}
+, 
+[24019] = {Title = "용병단이라 쓰고...", IconName = "ico_sub.bmp", 
+Description = {"루나포마에 도움이 필요한 곳이 없는지 조사하자. 거점에 있는 <NAVI>[용병단원]<INFO>jor_mbase,300,151,0,101,0</INFO></NAVI>들에게 물어보면 될 것 같다. "}
+, Summary = "용병단원과 대화"}
+, 
+[24020] = {Title = "용병단이라 쓰고...", IconName = "ico_sub.bmp", 
+Description = {"현재 루나포마에는 배를 수리할 사람이 부족한 것 같다. 다른 <NAVI>[용병단원]<INFO>jor_mbase,198,251,0,101,0</INFO></NAVI>에게도 도움이 필요한 곳이 없는지 물어보자."}
+, Summary = "용병단원과 대화"}
+, 
+[24021] = {Title = "용병단이라 쓰고...", IconName = "ico_sub.bmp", 
+Description = {"사람들을 기운 나게 해줄 신선한 식재료가 필요한 것 같다. 루나포마의 다른 <NAVI>[용병단원]<INFO>jor_mbase,133,128,0,101,0</INFO></NAVI>에게도 도움이 필요한 곳이 없는지 물어보자."}
+, Summary = "용병단원과 대화"}
+, 
+[24022] = {Title = "용병단이라 쓰고...", IconName = "ico_sub.bmp", 
+Description = {"루나포마의 사람들을 위해 치료약이 필요한 것 같다. 다른 <NAVI>[용병단원]<INFO>jor_mbase,248,103,0,101,0</INFO></NAVI>에게도 도움이 필요한 곳이 없는지 물어보자."}
+, Summary = "용병단원과 대화"}
+, 
+[24023] = {Title = "용병단이라 쓰고...", IconName = "ico_sub.bmp", 
+Description = {"물자를 정리할 사람이 부족해서 가진 물자를 제대로 활용하지 못하고 있는 것 같다. 루나포마 남동쪽 리하르트 용병단 사무실에 있는 <NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>에게 돌아가 지금의 상황을 보고하자."}
+, Summary = "발다리스와 대화"}
+, 
+[24024] = {Title = "고양이 손이라도 필요해!", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "루나포마에서 리하르트 용병단 지원자들을 찾아 지원서를 확인하고 쓸만해 보이는 인재를 용병단으로 보내자.(5명)"}
+, Summary = "용병단 지원자 확인"}
+, 
+[24025] = {Title = "고양이 손이라도 필요해!", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "루나포마에서 리하르트 용병단 지원자들을 찾아 지원서를 확인하고 쓸만해 보이는 인재를 용병단으로 보내자.(4명)"}
+, Summary = "용병단 지원자 확인"}
+, 
+[24026] = {Title = "고양이 손이라도 필요해!", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "루나포마에서 리하르트 용병단 지원자들을 찾아 지원서를 확인하고 쓸만해 보이는 인재를 용병단으로 보내자.(3명)"}
+, Summary = "용병단 지원자 확인"}
+, 
+[24027] = {Title = "고양이 손이라도 필요해!", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "루나포마에서 리하르트 용병단 지원자들을 찾아 지원서를 확인하고 쓸만해 보이는 인재를 용병단으로 보내자.(2명)"}
+, Summary = "용병단 지원자 확인"}
+, 
+[24028] = {Title = "고양이 손이라도 필요해!", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "루나포마에서 리하르트 용병단 지원자들을 찾아 지원서를 확인하고 쓸만해 보이는 인재를 용병단으로 보내자.(1명)"}
+, Summary = "용병단 지원자 확인"}
+, 
+[24029] = {Title = "고양이 손이라도 필요해!", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "리하르트 용병단 지원자들을 확인했다. 루나포마 남동쪽 리하르트 용병단 사무실에 있는 <NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "발다리스에게 보고"}
+, 
+[24030] = {Title = "고양이 손이라도 필요해!-대기-", IconName = "ico_dq.bmp", 
+Description = {"리하르트 용병단의 일을 도왔다. 04시 이후 다시 오자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[24031] = {Title = "싱싱한 맛!", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "루나포마의 사람들을 위한 보양식의 재료를 모아서 루나포마 남동쪽 리하르트 용병단 사무실에 있는 <NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>에게 돌아가자. 둥둥어의 둥둥 지느러미 10개, 락스트라이커의 두툼한 속살 10개."}
+, Summary = "보양식 재료 수집"}
+, 
+[24032] = {Title = "싱싱한 맛!-대기-", IconName = "ico_dq.bmp", 
+Description = {"리하르트 용병단의 일을 도왔다. 04시 이후 다시 오자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[24033] = {Title = "상처엔 조개껍질!", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "살은 맛있고 껍질은 치료약의 재료가 되는 다리비를 50마리 잡아서 루나포마 남동쪽 리하르트 용병단 사무실에 있는 <NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = ""}
+, 
+[24034] = {Title = "상처엔 조개껍질!-대기-", IconName = "ico_dq.bmp", 
+Description = {"리하르트 용병단의 일을 도왔다. 04시 이후 다시 오자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[24035] = {Title = "아이들을 위해서.", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "아이들 간식용 벨레링을 50마리 잡아서 루나포마 남동쪽 리하르트 용병단 사무실에 있는 <NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = ""}
+, 
+[24036] = {Title = "아이들을 위해서.-대기-", IconName = "ico_dq.bmp", 
+Description = {"리하르트 용병단의 일을 도왔다. 04시 이후 다시 오자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[24037] = {Title = "마무리는 깨끗하게(1)", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "교단 신전 기믈레 1층을 청소하고 루나포마 남동쪽 리하르트 용병단 사무실에 있는 <NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = ""}
+, 
+[24038] = {Title = "마무리는 깨끗하게(1)-대기-", IconName = "ico_dq.bmp", 
+Description = {"리하르트 용병단의 일을 도왔다. 04시 이후 다시 오자."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[24039] = {Title = "마무리는 깨끗하게(2)", IconName = "ico_dq.bmp", 
+Description = {"[리하르트 용병단의 임무]", "교단 신전 기믈레 2층을 청소하고 루나포마 남동쪽 리하르트 용병단 사무실에 있는 <NAVI>[발다리스]<INFO>mbase_in,302,123,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = ""}
+, 
+[24040] = {Title = "마무리는 깨끗하게(2)-대기-", IconName = "ico_dq.bmp", 
+Description = {"리하르트 용병단의 일을 도왔다. 04시 이후 다시 오자."}
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 }
 

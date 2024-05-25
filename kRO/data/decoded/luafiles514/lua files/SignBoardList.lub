@@ -1363,5 +1363,23 @@ SignBoardList = {
 {"ba_maison", 132, 103, 10, IT_SIGNBOARD, "item\\13주년기념뱃지.bmp", "  현자의 유산 패스", "#0x00FFFFFF"}
 , 
 {"wolfvill", 166, 144, 10, IT_SIGNBOARD, "item\\13주년기념뱃지.bmp", "  기도의 방향 패스", "#0x00FFFFFF"}
+, 
+{"jor_mbase", 217, 172, 5, IT_BMP, "information\\over_wigner_ticket.bmp"}
+, 
+{"jor_mbase", 220, 165, 10, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"mbase_in", 380, 128, 5, IT_BMP, "information\\over_inn.bmp"}
+, 
+{"mbase_in", 217, 126, 5, IT_BMP, "information\\over_store.bmp"}
+, 
+{"mbase_in", 220, 127, 5, IT_BMP, "information\\over_wigner_ticket.bmp"}
+, 
+{"mbase_in", 231, 131, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"jor_albe", 62, 150, 10, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"jor_albe", 118, 150, 5, IT_BMP, "information\\over_store.bmp"}
+, 
+{"jalbe_in", 32, 142, 5, IT_BMP, "information\\over_inn.bmp"}
 }
 

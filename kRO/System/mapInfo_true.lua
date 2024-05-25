@@ -4,6 +4,82 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["jor_crk.rsw"] = {displayName = "비늘섬", notifyEnter = true, 
+signName = {subTitle = "이스가르드", mainTitle = "비늘섬"}
+, backgroundBmp = "noname"}
+, 
+["jor_crk_p.rsw"] = {displayName = "비늘섬", notifyEnter = true, 
+signName = {mainTitle = "비늘섬"}
+, backgroundBmp = "noname_s2"}
+, 
+["jor_mbase.rsw"] = {displayName = "게오보르그 거점 루나포마", notifyEnter = true, 
+signName = {subTitle = "게오보르그 거점", mainTitle = "루나포마"}
+, backgroundBmp = "village"}
+, 
+["mbase_in.rsw"] = {displayName = "루나포마 내부", notifyEnter = true, 
+signName = {mainTitle = "루나포마 내부"}
+, backgroundBmp = "village_s2"}
+, 
+["jor_albe.rsw"] = {displayName = "어촌 알베르타", notifyEnter = true, 
+signName = {subTitle = "어촌", mainTitle = "알베르타"}
+, backgroundBmp = "village"}
+, 
+["jalbe_in.rsw"] = {displayName = "어촌 알베르타 내부", notifyEnter = true, 
+signName = {mainTitle = "어촌 알베르타 내부"}
+, backgroundBmp = "village_s2"}
+, 
+["jor_base.rsw"] = {displayName = "요르문간드 교단 마을 요른빌", notifyEnter = true, 
+signName = {subTitle = "요르문간드 교단 마을", mainTitle = "요른빌"}
+, backgroundBmp = "field"}
+, 
+["jor_raise2.rsw"] = {displayName = "솟아오른 대지 남부", notifyEnter = true, 
+signName = {mainTitle = "솟아오른 대지 남부"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_raise1.rsw"] = {displayName = "솟아오른 대지 북부", notifyEnter = true, 
+signName = {mainTitle = "솟아오른 대지 북부"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_tmple1.rsw"] = {displayName = "요르문간드 교단 신전 기믈레 1층", notifyEnter = true, 
+signName = {subTitle = "요르문간드 교단 신전", mainTitle = "기믈레 1층"}
+, backgroundBmp = "dungeon"}
+, 
+["jor_tmple2.rsw"] = {displayName = "요르문간드 교단 신전 기믈레 2층", notifyEnter = true, 
+signName = {subTitle = "요르문간드 교단 신전", mainTitle = "기믈레 2층"}
+, backgroundBmp = "dungeon"}
+, 
+["1@wtgs.rsw"] = {displayName = "정체불명의 유령선", notifyEnter = true, 
+signName = {mainTitle = "정체불명의 유령선"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@mdtem.rsw"] = {displayName = "고요한 교단의 신전", notifyEnter = true, 
+signName = {mainTitle = "고요한 교단의 신전"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["2@mdtem.rsw"] = {displayName = "조용한 기도실", notifyEnter = true, 
+signName = {mainTitle = "조용한 기도실"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@twbs2.rsw"] = {displayName = "분리된 성소", notifyEnter = true, 
+signName = {mainTitle = "분리된 성소"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@ep21a.rsw"] = {displayName = "비밀 제단", notifyEnter = true, 
+signName = {mainTitle = "비밀 제단"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@ep21b.rsw"] = {displayName = "뱀의 휴식처", notifyEnter = true, 
+signName = {mainTitle = "뱀의 휴식처"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["luna_sf1.rsw"] = {displayName = "안전한 장소", notifyEnter = true, 
+signName = {mainTitle = "안전한 장소"}
+, backgroundBmp = "noname_s2"}
+, 
+["luna_sf2.rsw"] = {displayName = "안전한 장소", notifyEnter = true, 
+signName = {mainTitle = "안전한 장소"}
+, backgroundBmp = "noname_s2"}
+, 
 ["1@vrsn.rsw"] = {displayName = "Dr. 에그맨의 비밀 기지", notifyEnter = true, 
 signName = {subTitle = "환상총서-소닉", mainTitle = "Dr. 에그맨의 비밀 기지"}
 , backgroundBmp = "noname"}

@@ -6090,6 +6090,22 @@ MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
 [22260] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_BLUE_WAVE2, EFFECT.EF_BLACK_BUBBLE2}
 }
+, 
+[22363] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[22364] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[22362] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[22374] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DRAGON}
+}
 }
 main = function()
   -- function num : 0_0
