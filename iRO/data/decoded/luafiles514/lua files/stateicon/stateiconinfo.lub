@@ -2229,7 +2229,7 @@ descript = {
 , 
 {"Decrease Hit and Flee."}
 , 
-{"Cannot use skill and item"}
+{"Cannot use item"}
 }
 }
 -- DECOMPILER ERROR at PC4491: Confused about usage of register: R0 in 'UnsetPending'
@@ -7291,6 +7291,26 @@ descript = {
 {"P.ATK + 10, S.MATK + 10"}
 , 
 {"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC15099: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM] = {haveTimeLimit = 1, posTimeLimitStr = 1, 
+descript = {
+{"%s", COLOR_TIME}
+, 
+{"Increase item drop rate two times higher"}
+, 
+{"from the monsters"}
+}
+}
+-- DECOMPILER ERROR at PC15119: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_PERIOD_PLUSJOBEXP] = {haveTimeLimit = 1, posTimeLimitStr = 1, 
+descript = {
+{"%s", COLOR_TIME}
+, 
+{"Get more Job EXP when hunting monsters"}
 }
 }
 

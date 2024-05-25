@@ -831,6 +831,222 @@ Imgcoord = {Position = 5, Size = 100}
 , 
 Page = {"You can obtain <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> from Airship Crash Site and exchange it for various rewards.\n\t\t▶ Elixir and Storage Device\n\t\t<ITEM>[Purified Growth Elixir]<INFO>100460</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 5\n\t\t\n\t\t<ITEM>[Purple Special Storage Device]<INFO>100475</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t→ <ITEM>[Purified Growth Elixir]<INFO>100460</INFO></ITEM> 10\n\t\t\n\t\t▶ Unknown Equipment & Enhancement Items\n\t\t<ITEM>[Unknown STR Boots]<INFO>470071</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown DEX Boots]<INFO>470072</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown VIT Boots]<INFO>470073</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown INT Boots]<INFO>470074</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown AGI Boots]<INFO>470076</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Unknown LUK Boots]<INFO>470077</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 25\n\t\t\n\t\t<ITEM>[Ymir Beads]<INFO>100476</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 5\n\t\t→ 30,000 Zeny\n\t\t\n\t\t▶ Card Album\n\t\t<ITEM>[Contaminated Card Album]<INFO>100462</INFO></ITEM>\n\t\t→ <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM> 50개\n\t\t\n\t\t<TIPBOX>▶View the Airship Crash Site<INFO>6095</INFO></TIPBOX>\n\t\t<TIPBOX>▶View list of tips<INFO>1000</INFO></TIPBOX>"}
 }
+, 
+[9162] = {Title = "Introduction to Regenschrm Lab\'s equipment modification project #Item Reform", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Four teams belonging to the Regenschrim Research Institute affiliated with Rekenber are conducting experiments in their own way to improve perfection toward commercialization.\n\t\tThey receive requests from adventurers for equipment that has been successfully researched, modify it, and upgrade it to new equipment. The purpose of all processes is to accumulate data, so the results are returned to the owner. How fortunate.\n\t\tPlease note that modifications generally require a certain level of refinement.\n\t\t\n\t\tPlease refer to each list for equipment.\n\t\t<TIPBOX>->[Team Atnad]<INFO>9163</INFO></TIPBOX>\n\t\tWeapon specialized research team\n\t\t<TIPBOX>▶[Team Lighith]<INFO>9166</INFO></TIPBOX>\n\t\tNon-Standard Equipments research team\n\t\t\n\t\tDirections to the Regenschrm Institute:\n\t\t<NAVI>[Equipment modif agent]<INFO>lighthalzen,99,156,0,101,0</INFO></NAVI>\n\t\t(Lighthalzen)\n\t\t<NAVI>[Equipment modif agent]<INFO>itemmall,14,50,0,101,0</INFO></NAVI>\n\t\t(Item Mall)\n\n  <TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9163] = {Title = "Team Atnad\'s Modification Equipment List #Regenschirm Equipment Modification Item Reform", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"This is a list of modified equipment from Team Atnad, affiliated with Rekenber Regenschirm Research Institute.\n\t\tEquipment subject to modification requires a refinement level of +9 or higher for Thanos weapons and +7 or higher for OS weapons.\n\t\t\n\t\t->Thanatos Weapon\n\t\t<ITEM>[Thanatos Sword-AD]<INFO>500024</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Sword]<INFO>13441</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Great Sword-AD]<INFO>600016</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Great Sword]<INFO>21009</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Katar-AD]<INFO>610019</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Katar]<INFO>28000</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Axe-AD]<INFO>620009</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Axe]<INFO>28100</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Bow-AD]<INFO>700029</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Bow]<INFO>18119</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Hammer-AD]<INFO>590020</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Hammer]<INFO>16028</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Dagger-AD]<INFO>510030</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Dagger]<INFO>13093</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Two-handed Staff-AD]<INFO>640017</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Two-handed Staff]<INFO>2023</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Whipsword-AD]<INFO>580016</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Whip]<INFO>1988</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Violin-AD]<INFO>570016</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Violin]<INFO>1933</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Knuckle-AD]<INFO>560017</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Knuckle]<INFO>1836</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Staff-AD]<INFO>550023</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Staff]<INFO>1669</INFO></ITEM>\n\t\t-><ITEM>[Thanatos Spear-AD]<INFO>530012</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Spear]<INFO>1438</INFO></ITEM>\n\t\t\n\t\t->OS Weapon\n\t\t-><ITEM>[Beam Claymore-OSAD]<INFO>600028</INFO></ITEM>\n\t\t+7 <ITEM>[Beam Claymore-OS]<INFO>21047</INFO></ITEM>\n\t\t-><ITEM>[Meuchler-OSAD]<INFO>610039</INFO></ITEM>\n\t\t+7 <ITEM>[Meuchler-OS]<INFO>28038</INFO></ITEM>\n\t\t-><ITEM>[Blasti-OSAD]<INFO>620018</INFO></ITEM>\n\t\t+7 <ITEM>[Blasti-OS]<INFO>28136</INFO></ITEM>\n\t\t-><ITEM>[Virtual Bow-OSAD]<INFO>700054</INFO></ITEM>\n\t\t+7 <ITEM>[Virtual Bow-OS]<INFO>18178</INFO></ITEM>\n\t\t-><ITEM>[MH-P89-OSAD]<INFO>700055</INFO></ITEM>\n\t\t+7 <ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\n\t\t-><ITEM>[AC-B44-OSAD]<INFO>700056</INFO></ITEM>\n\t\t+7 <ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\n\t\t-><ITEM>[HR-S55-OSAD]<INFO>810013</INFO></ITEM>\n\t\t+7 <ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\n\t\t-><ITEM>[Burning Knuckle-OSAD]<INFO>560034</INFO></ITEM>\n\t\t+7 <ITEM>[Burning Knuckle-OS]<INFO>1862</INFO></ITEM>\n\t\t-><ITEM>[Cannon Rapier-OSAD]<INFO>500051</INFO></ITEM>\n\t\t+7 <ITEM>[Cannon Rapier-OS]<INFO>13493</INFO></ITEM>\n\t\t-><ITEM>[Saphir Mace-OSAD]<INFO>590043</INFO></ITEM>\n\t\t+7 <ITEM>[Saphir Hall-OS]<INFO>16088</INFO></ITEM>\n\t\t-><ITEM>[Ultio-OSAD]<INFO>590044</INFO></ITEM>\n\t\t+7 <ITEM>[Ultio-OS]<INFO>16089</INFO></ITEM>\n\t\t-><ITEM>[Rutilus Stick-OSAD]<INFO>550075</INFO></ITEM>\n\t\t+7 <ITEM>[Rutilus Stick-OS]<INFO>26151</INFO></ITEM>\n\t\t-><ITEM>[Electric Fox-OSAD]<INFO>550076</INFO></ITEM>\n\t\t+7 <ITEM>[Electric Fox-OS]<INFO>26164</INFO></ITEM>\n\t\t-><ITEM>[Circuit Board-OSAD]<INFO>540051</INFO></ITEM>\n\t\t+7 <ITEM>[Circuit Board-OS]<INFO>28629</INFO></ITEM>\n\t\t-><ITEM>[Kuroiro-OSAD]<INFO>510066</INFO></ITEM>\n\t\t+7 <ITEM>[Kuroiro-OS]<INFO>28755</INFO></ITEM>\n\t\t-><ITEM>[Boost Lance-OSAD]<INFO>530031</INFO></ITEM>\n\t\t+7 <ITEM>[Boost Lance-OS]<INFO>32019</INFO></ITEM>\n\t\t\n\t\tTeam Atnad Director:\n\t\t<NAVI>[Phase]<INFO>rgsr_in,115,169,0,101,0</INFO></NAVI>\n\n  <TIPBOX>->To previous page<INFO>9162</INFO></TIPBOX>\n  <TIPBOX>->View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4216] = {Title = "Episode 18#ep", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"According to the information analyzed at Varmundt Mansion, it seems that remnants of the Illusion were working on something in Rachel.?\n\t\tWe need an adventurer to investigate why they are targeting Rachel.\n\t\t\n\t\t<TIPBOX>EP 18: Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>EP 18 Equipment: Gray Wolf Series<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>EP 18 Equipment: Adulter Series<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>EP 18 Equipment: Vivatus Series<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>Watch Episode<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4217] = {Title = "Episode 18 Direction of Prayer#Quest Episode", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"According to the information analyzed at Varmundt Mansion by Elly, it seems that remnants of the Illusion were working on something in Rachel.\n\t\tThe adventurer and Elly headed to Rachel on behalf of Rebellion, but what they encountered there was distrust and incitement.\n\t\t\n\t\t<TIPBOX>EP. 17.2 Legacy of the Wise One<INFO>7068</INFO></TIPBOX> Completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\tStart Quest\n\t\t<TIPBOX>Q Towards Rachel <INFO>4221</INFO></TIPBOX>\n\t\t\n\t\tMain Quest\n\t\t<TIPBOX>Q Niren\'s Request<INFO>4222</INFO></TIPBOX>\n\t\t<TIPBOX>Q Gray Children<INFO>4223</INFO></TIPBOX>\n\t\t<TIPBOX>Q Eligibility to attend the competition<INFO>4224</INFO></TIPBOX>\n\t\t<TIPBOX>Q Gray Wolf Forest Tournament<INFO>4225</INFO></TIPBOX>\n\t\t<TIPBOX>Q Source of Weapons<INFO>4226</INFO></TIPBOX>\n\t\t<TIPBOX>Q Rebellion<INFO>4227</INFO></TIPBOX>\n\t\t<TIPBOX>Q Wolf Among Sheep<INFO>4228</INFO></TIPBOX>\n\t\t<TIPBOX>Q Aftermath<INFO>4229</INFO></TIPBOX>\n\t\t<TIPBOX>Q Investigation of the High Priest\'s villa<INFO>4230</INFO></TIPBOX>\n\t\t\n\t\tSub Quest\n\t\t<TIPBOX>Q Transporting Goods<INFO>4232</INFO></TIPBOX>\n\t\t<TIPBOX>Q I can\'t sleep<INFO>4233</INFO></TIPBOX>\n\t\t<TIPBOX>Q Collecting Folklore<INFO>4234</INFO></TIPBOX>\n\t\t<TIPBOX>Q Ahab\'s Gossip<INFO>4235</INFO></TIPBOX>\n\t\t<TIPBOX>Q Today\'s Daily Bread<INFO>4236</INFO></TIPBOX>\n\t\t<TIPBOX>Q Water Purification<INFO>4237</INFO></TIPBOX>\n\t\t<TIPBOX>Q Horim\'s Bizarre Adventure<INFO>4238</INFO></TIPBOX>\n\t\t<TIPBOX>Q Where is My Home<INFO>4239</INFO></TIPBOX>\n\t\t<TIPBOX>Q There are no evil beasts in this world<INFO>4240</INFO></TIPBOX>\n\t\t<TIPBOX>Q The Labyrinth and the Merchant<INFO>4241</INFO></TIPBOX>\n\t\t<TIPBOX>Q Opinion Gathering<INFO>4242</INFO></TIPBOX>\n\t\t<TIPBOX>Q Even children know<INFO>4243</INFO></TIPBOX>\n\t\t<TIPBOX>Q The Price of Labor<INFO>4244</INFO></TIPBOX>\n\t\t<TIPBOX>Q Half Flower Gathering]<INFO>4245</INFO></TIPBOX>\n\t\t<TIPBOX>Q Flower Room\'s operations<INFO>4246</INFO></TIPBOX>\n\t\t<TIPBOX>Q Gray Wolf Forest Hunting<INFO>4247</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>EP 18 Equipment: Gray Wolf Series<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>EP 18 Equipment: Adulter Series<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>EP 18 Equipment: Vivatus Series<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>Episode 18<INFO>4216</INFO></TIPBOX>\n\t\t<TIPBOX>Watch Episode<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4218] = {Title = "Ep18 Gray Wolf Series#Amethyst Fragment", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"The <ITEM>[Amethyst Fragment]<INFO>1000405</INFO></ITEM> acquired during the episode can be exchanged for various useful equipment items at Gray Wolf Village.\n\t\t\n\t\t^663399Exchange Location^000000\n\t\t><NAVI>[Emmett]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399Gray Wolf Series^000000\n\t\t<ITEM>[Gray Wolf Suit]<INFO>450177</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Robe]<INFO>450178</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Manteau]<INFO>480091</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Muffler]<INFO>480090</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Boots]<INFO>470087</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Shoes]<INFO>470088</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Pendant]<INFO>490106</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Ring]<INFO>490107</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Earring]<INFO>490108</INFO></ITEM>\n\t\t<ITEM>[Gray Wolf Necklace]<INFO>490109</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>Episode Rewards<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4219] = {Title = "Ep18 Adulter Fides Series#Villa of Deception ep18 Weapon", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"These are weapons that can be obtained from MD Villa of Deception, which can be accessed by clearing the episode.\n\t\t\n\t\t^663399Adulter Fides Series^000000\n\t\tMD Villa of Deception can be obtained on Normal difficulty.\n\t\t<ITEM>[Two-handed Sword]<INFO>600017</INFO></ITEM>\n\t\t<ITEM>[Lance]<INFO>630012</INFO></ITEM>\n\t\t<ITEM>[Guardian Sword]<INFO>500025</INFO></ITEM>\n\t\t<ITEM>[Guardian Spear]<INFO>530013</INFO></ITEM>\n\t\t<ITEM>[Axe]<INFO>520008</INFO></ITEM>\n\t\t<ITEM>[Mace]<INFO>590021</INFO></ITEM>\n\t\t<ITEM>[Rapier]<INFO>500026</INFO></ITEM>\n\t\t<ITEM>[Scepter]<INFO>590022</INFO></ITEM>\n\t\t<ITEM>[Chakram]<INFO>610020</INFO></ITEM>\n\t\t<ITEM>[Katar]<INFO>610021</INFO></ITEM>\n\t\t<ITEM>[Dagger]<INFO>510032</INFO></ITEM>\n\t\t<ITEM>[Crossbow]<INFO>700030</INFO></ITEM>\n\t\t<ITEM>[Two-handed Staff]<INFO>640019</INFO></ITEM>\n\t\t<ITEM>[Rod]<INFO>640020</INFO></ITEM>\n\t\t<ITEM>[Magic Book]<INFO>540019</INFO></ITEM>\n\t\t<ITEM>[Poison Book]<INFO>540020</INFO></ITEM>\n\t\t<ITEM>[Bible]<INFO>540021</INFO></ITEM>\n\t\t<ITEM>[Wand]<INFO>550024</INFO></ITEM>\n\t\t<ITEM>[Knuckle]<INFO>560018</INFO></ITEM>\n\t\t<ITEM>[Claw]<INFO>560019</INFO></ITEM>\n\t\t<ITEM>[Ballista]<INFO>700031</INFO></ITEM>\n\t\t<ITEM>[Aiming Bow]<INFO>700032</INFO></ITEM>\n\t\t<ITEM>[Violin]<INFO>570017</INFO></ITEM>\n\t\t<ITEM>[Chain Rope]<INFO>580017</INFO></ITEM>\n\t\t<ITEM>[Harp]<INFO>570018</INFO></ITEM>\n\t\t<ITEM>[Ribbon]<INFO>580018</INFO></ITEM>\n\t\t<ITEM>[Huuma Shuriken]<INFO>650008</INFO></ITEM>\n\t\t<ITEM>[Cross Huuma Shuriken]<INFO>650009</INFO></ITEM>\n\t\t<ITEM>[Revolver]<INFO>800003</INFO></ITEM>\n\t\t<ITEM>[Shotgun]<INFO>820002</INFO></ITEM>\n\t\t<ITEM>[Rifle]<INFO>810002</INFO></ITEM>\n\t\t<ITEM>[Gatling Gun]<INFO>830003</INFO></ITEM>\n\t\t<ITEM>[Launcher]<INFO>840002</INFO></ITEM>\n\t\t<ITEM>[Moon Book]<INFO>540022</INFO></ITEM>\n\t\t<ITEM>[Stardust Book]<INFO>540023</INFO></ITEM>\n\t\t<ITEM>[Soul Stick]<INFO>550025</INFO></ITEM>\t\n\t\t<ITEM>[Dark Wand]<INFO>550026</INFO></ITEM>\n\t\t<ITEM>[Foxtail Wand]<INFO>550027</INFO></ITEM>\n\t\t<ITEM>[Foxtail Model]<INFO>550028</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>Episode Rewards<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4220] = {Title = "Ep18 Vivatus Fides Series#Villa of Deception ep18 Weapon", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"These are weapons that can be obtained from MD Villa of Deception, which can be accessed by clearing the episode.\n\t\tIt can be obtained from MD Villa of Deception on higher difficulty or crafted by purifying the Adulter Fides weapon. \n\t\tThe purification ritual requires a +9 refined Adultes Fides weapon.\n\t\t\n\t\t^663399Purification Ritual Location^000000\n\t\t<NAVI>[Bamdart]<INFO>wolfvill,170,131,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399Vivatus Fides Series^000000\n\t\t<ITEM>[Two-handed Sword]<INFO>600018</INFO></ITEM>\n\t\t<ITEM>[Lance]<INFO>630013</INFO></ITEM>\n\t\t<ITEM>[Guardian Sword]<INFO>500027</INFO></ITEM>\n\t\t<ITEM>[Guardian Spear]<INFO>530014</INFO></ITEM>\n\t\t<ITEM>[Axe]<INFO>520009</INFO></ITEM>\n\t\t<ITEM>[Mace]<INFO>590023</INFO></ITEM>\n\t\t<ITEM>[Rapier]<INFO>500028</INFO></ITEM>\n\t\t<ITEM>[Scepter]<INFO>590024</INFO></ITEM>\n\t\t<ITEM>[Chakram]<INFO>610022</INFO></ITEM>\n\t\t<ITEM>[Katar]<INFO>610023</INFO></ITEM>\n\t\t<ITEM>[Dagger]<INFO>510033</INFO></ITEM>\n\t\t<ITEM>[Cross Bow]<INFO>700033</INFO></ITEM>\n\t\t<ITEM>[Two-handed Staff]<INFO>640021</INFO></ITEM>\n\t\t<ITEM>[Rod]<INFO>640022</INFO></ITEM>\n\t\t<ITEM>[Magic Book]<INFO>540024</INFO></ITEM>\n\t\t<ITEM>[Poison Book]<INFO>540025</INFO></ITEM>\n\t\t<ITEM>[Bible]<INFO>540026</INFO></ITEM>\n\t\t<ITEM>[Wand]<INFO>550029</INFO></ITEM>\n\t\t<ITEM>[Knuckle]<INFO>560020</INFO></ITEM>\n\t\t<ITEM>[Claw]<INFO>560021</INFO></ITEM>\n\t\t<ITEM>[Ballista]<INFO>700034</INFO></ITEM>\n\t\t<ITEM>[Aiming Bow]<INFO>700035</INFO></ITEM>\n\t\t<ITEM>[Violin]<INFO>570019</INFO></ITEM>\n\t\t<ITEM>[Chain Rope]<INFO>580019</INFO></ITEM>\n\t\t<ITEM>[Harp]<INFO>570020</INFO></ITEM>\n\t\t<ITEM>[Ribbon]<INFO>580020</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>Episode Rewards<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4221] = {Title = "Q Towards Rachel (170)#Quest Episode 18 begins", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"The automatons at Varmund Mansion finally confirmed the identity of the signal that had arrived.\n\t\tWhere are those who ran away and what are they doing now?\n\t\t\n\t\t<TIPBOX>EP. 17.2 Legacy of the Wise One<INFO>7068</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Smart Elly]<INFO>ba_in01,26,266,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4222] = {Title = "Q Niren\'s Request (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Niren, who received information about those who invaded the temple, seems to have a favor to ask the adventurer to focus on guarding the temple.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Marshal Dent]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4223] = {Title = "Q Gray Children (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"It seems that Niren\'s son Maram has urgent business to attend to.\n\t\tIs there anything the adventurer can do to help?\n\t\t<TIPBOX>Niren\'s Request<INFO>4222</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4224] = {Title = "Q Eligibility to attend General Council (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"To attend the Great Council in Gray Wolf Village, you must be accepted as a member of the village. If you find something to do in the village, just do it.\n\t\tGray Wolf Village 10 general quests completed\n\t\t<TIPBOX>Transporting Goods<INFO>4232</INFO></TIPBOX>\n\t\t<TIPBOX>I can\'t sleep<INFO>4233</INFO></TIPBOX>\n\t\t<TIPBOX>Collecting Folklore<INFO>4234</INFO></TIPBOX>\n\t\t<TIPBOX>Ahab\'s Gossip<INFO>4235</INFO></TIPBOX>\n\t\t<TIPBOX>Today\'s Daily Bread<INFO>4236</INFO></TIPBOX>\n\t\t<TIPBOX>Water Purification<INFO>4237</INFO></TIPBOX>\n\t\t<TIPBOX>Horim\'s Bizarre Adventure<INFO>4238</INFO></TIPBOX>\n\t\t<TIPBOX>Where is My Home<INFO>4239</INFO></TIPBOX>\n\t\t<TIPBOX>There are no evil beasts in this world<INFO>4240</INFO></TIPBOX>\n\t\t<TIPBOX>The Labyrinth and the Merchant<INFO>4241</INFO></TIPBOX>\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4225] = {Title = "Q Gray Wolf Forest Tournament (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Adventurers who build relationships with the people of Gray Wolf Forest and are accepted as members of the village are recognized for their efforts and even participate in the grand conference that decides the future of Gray Wolf Forest.\n\t\tWhat will be the outcome of the conference that has finally begun?\n\t\tQualification to attend the quest competition\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Village Boy]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4226] = {Title = "Q Source of Weapons (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"The competition ended after heated debate. Among the scattered people, Miriam discovers something strange.\n\t\tSome residents were overarmed. Where do the weapons come from and what are the residents\' intentions for arming themselves?\n\t\t<TIPBOX>Gray Wolf Forest Tournament<INFO>4225</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Miriam]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4227] = {Title = "Q Rebellion (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"This time, Suad, who is worried about the weapons that appeared in the Gray Wolf Village and their source, is informed of an attack on the upper level by members of the Gray Wolf Village.\n\t\t<TIPBOX>Source of Weapons<INFO>4226</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Suad]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4228] = {Title = "Q Wolf Among Sheep (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"The Gray Wolf villagers finally gathered in front of the temple.\n\t\tCan Rachel\'s people properly hear her voice?\n\t\t<TIPBOX>Rebellion<INFO>4227</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Ordinary Person]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4229] = {Title = "Q Aftermath (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Suad and the priests are deeply shocked by the betrayal of a trusted colleague. \n\t\tHowever, they soon come out of their shock and decide to clean up the chaos in the village and temple.\n\t\tMiriam leaves for the place where her father headed to investigate this incident.\n\t\t<TIPBOX>Wolf Among Sheep<INFO>4228</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Niren]<INFO>rachel,116,200,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4230] = {Title = "Q Investigation of the High Priest\'s villa (170)#퀘스트에피18기도의방향", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"It seems that Illusion, in collusion with High Priest Amal, is behind all of this. \n\t\tCan we find out what they are trying to do in the high priest\'s villa and why they are causing confusion in Rachel?\n\t\t<TIPBOX>Aftermath<INFO>4229</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Appointment Point]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4231] = {Title = "EP18 MD Villa of Deception (170)", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"It is said that the ^FF0000foul beings^000000 that were already eradicated before are showing up again in a certain ^FF0000Villa^000000.\n\t\tIra hopes that adventurers can take care of it before it invokes the wrath of God.\n\t\t\n\t\tPrerequisites: <TIPBOX>Investigation of the High Priest\'s villa<INFO>4230</INFO></TIPBOX> completed\n\t\t\n\t\tDungeon Configuration:\n\t\tNormal Mode\n\t\tRepeatable after 20 hours\n\t\tTime limit 60 minutes\n\t\tLevel 170 or higher\n\t\t\n\t\tHard Mode\n\t\t<ITEM>[Villa Basement Key]<INFO>1000471</INFO></ITEM> is required\n\t\tTime limit 60 minutes\n\t\tLevel 200 or higher\n\t\t\n\t\t<NAVI>[Ira]<INFO>wolfvill,77,257,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Dungeon Raid Loot<INFO>4219</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4232] = {Title = "Q Transporting Goods (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Hajar, the head of the Gray Wolf Village, is trying to train his student Camille, but things don\'t seem to be going easy from the start.\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Hajar]<INFO>wolfvill,54,237,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4233] = {Title = "Q I can\'t sleep (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"A child from the Gray Wolf Forest with sleepy eyes. What happened that prevented him from sleeping even a wink? Let\'s hear a story from a child who somehow seems to twitch his shoulders every time he hears the cry of a kite.\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4234] = {Title = "Q Collecting Folklore (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Gudra, who doesn\'t look like a scholar, but is actually an excellent scholar, seems to be trying to research something by gathering the stories of the people of Gray Wolf Village. Can you help?\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4235] = {Title = "Q Ahab\'s Gossip (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Young men gathered on the quiet lakeside of Gray Wolf Village, gossiping someone. Let\'s take a peek at what\'s being said.\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Zlan]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4236] = {Title = "Q Today\'s Daily Bread(170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Eruin, who lives in Gray Wolf Village, is a trapper. We are recruiting workers to retrieve the trap every day.\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4237] = {Title = "Q Water Purification(170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Budan, the water manager of Gray Wolf Village, is looking for someone to retrieve a filter for purifying drinking water from Rachel.\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4238] = {Title = "Q Horim\'s Bizarre Adventure(170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Horim, an employee at Rachel\'s hotel, wants to leave for Gray Wolf Village.\n\t\tLet\'s help Horim and take him to Gray Wolf Village.\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Horim]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4239] = {Title = "Q Where is My Home (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Gray Wolf has come to the village looking for a place to settle his heart, but it is difficult to achieve what he wants.\n\t\tWhat is Ezekiel\'s plan?\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4240] = {Title = "Q There are no evil beasts in this world (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"People are not the only members of Gray Wolf Village.\n\t\tWhat does it take for everyone to live together?\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4241] = {Title = "Q The Labyrinth and the Merchant (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"It is not easy to pass through the Oz Labyrinth, the only passage to Gray Wolf Village.\n\t\tWhat\'s wrong with the Oz Labyrinth?\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t^663399Mandatory quest to attend the competition^000000\n\t\t\n\t\t<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4242] = {Title = "Q Opinion Gathering (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Rachel\'s priest Junok is in deep trouble due to the conflict between settlers and natives. \n\t\tAt Junok\'s request, let\'s take a look at what friction there is between them.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4243] = {Title = "Q Even children know (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"The adventurer discovers a child on a corner of Rachel\'s Road who appears to be being ostracized by several of his friends. What is the situation? Let’s hear it for ourselves.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Samariam]<INFO>rachel,38,44,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4244] = {Title = "Q The Price of Labor (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"A residential area in Rachel. There is a person in shabby clothes who keeps sighing and looking at the sky. There seems to be some trouble... Let\'s hear the story.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Amodipin]<INFO>rachel,181,51,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4245] = {Title = "Q Half Flower Gathering] (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"An uncomfortable truth I encountered while passing through Rachel’s alley. Still, the child does not give up and wants to keep trying.\n\t\t<TIPBOX>Towards Rachel<INFO>4221</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Abused Child]<INFO>rachel,176,80,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Flower Room\'s operations<INFO>4246</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4246] = {Title = "Q Flower Room\'s operations (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Mejai escapes from being treated as a mean child by Rachel and starts a business to pursue his dream. \n\t\tYou are the partner who will go to the Gray Wolf Forest every day and help Mejai with his business.\n\t\t<TIPBOX>Half Flower Gathering]<INFO>4245</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4247] = {Title = "Q Gray Wolf Forest Hunting (170)#Quest Episode 18", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"The gatekeeper guarding the entrance to Gray Wolf Village is plagued by forest monsters that threaten him from time to time.\n\t\t<TIPBOX>Gray Children<INFO>4223</INFO></TIPBOX> completed\n\t\t^663399Level 170 or higher^000000\n\t\t\n\t\t<NAVI>[Guard]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Ep18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[4248] = {Title = "EP18 MD Sanctuary Purification (170)", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"Rachel\'s priest says that a suspicious group still seems to be found in the sanctuary where an unpleasant incident occurred, and wants you to purify the sanctuary.\n\t\t\n\t\tRequirement: <TIPBOX>>Wolf Among Sheep<INFO>4228</INFO></TIPBOX> completed\n\t\t\n\t\tMD Specification\n\t\tEntry: Once per day (Reset at 4 AM)\n\t\tTime Limit: 60 minutes\n\t\tLevel 170 or higher\n\t\t^663399This is an MD for quest progression.^000000\n\t\t\n\t\t<NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
+, 
+[9166] = {Title = "Team Lighth\'s Modification Equipment List #Regenschirm Equipment Modification Item Reform", Search = 1, Image = "", 
+Imgcoord = {Position = 5, Size = 100}
+, 
+Page = {"This is a list of modified equipment from Team Lighth, affiliated with Rekenber Regenschirm Research Institute.\n\t\tEquipment subject to modification requires a refinement level of +9 or higher.\n\n\t\t▶Non-Standard Armors\n\t\t▷<ITEM>[Thanatos Warrior Helmet-LT]<INFO>400135</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Warrior Helmet]<INFO>400134</INFO></ITEM>\n\t\t▷<ITEM>[Thanos Shooter Helmet-LT]<INFO>400142</INFO></ITEM>\n\t\t+9 <ITEM>[Thanos Shooter Helmet]<INFO>400141</INFO></ITEM>\n\t\t▷<ITEM>[Thanatos Magic Helmet-LT]<INFO>400145</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Magic Helmet]<INFO>400146</INFO></ITEM>\n\t\t▷<ITEM>[Thanatos Fighter Helmet-LT]<INFO>400151</INFO></ITEM>\n\t\t+9 <ITEM>[Thanatos Fighter Helmet]<INFO>400150</INFO></ITEM>\n\n\t\tTeam Lighth Director:\n\t\t<NAVI>[Stack]<INFO>rgsr_in,136,171,0,101,0</INFO></NAVI>\n\n  <TIPBOX>->To previous page<INFO>9162</INFO></TIPBOX>\n  <TIPBOX>->View list of tips<INFO>1000</INFO></TIPBOX>"}
+}
 }
 main = function()
   -- function num : 0_0

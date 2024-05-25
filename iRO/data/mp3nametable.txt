@@ -1256,6 +1256,30 @@ com_d02_i.rsw#bgm\\41.mp3#
 //신규 훈련장(2020)
 tra_fild.rsw#bgm\\08.mp3#
 
+//소닉 콜라보 (임시설정이며 아직 최종확인 안됨)
+1@vrsn.rsw#bgm\\168.mp3#
 
 //일루전 오브 라비린스
 prt_mz03_i.rsw#bgm\\16.mp3#
+
+//===========2024 2Q UPDATE=============
+//EP18
+// 에피소드 18 기도의 방향
+wolfvill.rsw#bgm\\186.mp3#
+gw_fild01.rsw#bgm\\183.mp3#
+gw_fild02.rsw#bgm\\183.mp3#
+oz_dun01.rsw#bgm\\184.mp3#
+oz_dun02.rsw#bgm\\184.mp3#
+1@oz.rsw#bgm\\184.mp3#
+1@nyr.rsw#bgm\\94.mp3#
+2@nyr.rsw#bgm\\95.mp3#
+1@adv.rsw#bgm\\185.mp3#
+1@advs.rsw#bgm\\185.mp3#
+que_thr.rsw#bgm\\106.mp3#
+1@tcamp.rsw#bgm\\106.mp3#
+//===========2024 2Q UPDATE end
+
+//2024.04.23 일루전 오브 언더워터
+iz_d04_i.rsw#bgm\\49.mp3#
+iz_d05_i.rsw#bgm\\49.mp3#
+//2024.04.23 일루전 오브 언더워터 end

@@ -3577,6 +3577,86 @@ signName = {subTitle = "Memory of Thanatos", mainTitle = "Memory of Anger"}
 ["8@thts.rsw"] = {displayName = "Thanatos Tower", notifyEnter = true, 
 signName = {subTitle = "Memory of Thanatos", mainTitle = "Memory of Thanatos"}
 , backgroundBmp = "dungeon"}
+, 
+["wolfvill.rsw"] = {displayName = "Gray Wolf Village", notifyEnter = true, 
+signName = {subTitle = "Native Hideout", mainTitle = "Gray Wolf Village"}
+, backgroundBmp = "village"}
+, 
+["gw_fild01.rsw"] = {displayName = "Gray Wolf Forest", notifyEnter = true, 
+signName = {mainTitle = "Gray Wolf Forest"}
+, backgroundBmp = "field_s2"}
+, 
+["gw_fild02.rsw"] = {displayName = "Gray Wolf Forest", notifyEnter = true, 
+signName = {mainTitle = "Gray Wolf Forest"}
+, backgroundBmp = "field_s2"}
+, 
+["oz_dun01.rsw"] = {displayName = "Oz Labyrinth 1F", notifyEnter = true, 
+signName = {mainTitle = "Oz Labyrinth 1F"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["oz_dun02.rsw"] = {displayName = "Oz Labyrinth 2F", notifyEnter = true, 
+signName = {mainTitle = "Oz Labyrinth 2F"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["1@oz.rsw"] = {displayName = "Oz Labyrinth", notifyEnter = true, 
+signName = {mainTitle = "Oz Labyrinth"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["que_thr.rsw"] = {displayName = "Inside Thor Volcano", notifyEnter = true, 
+signName = {mainTitle = "Inside Thor Volcano"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@tcamp.rsw"] = {displayName = "Thor Volcano Military Base", notifyEnter = true, 
+signName = {mainTitle = "Thor Volcano Military Base"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@nyr.rsw"] = {displayName = "Sanctuary Sessrumnir Garden", notifyEnter = true, 
+signName = {mainTitle = "Sanctuary Sessrumnir Garden"}
+, backgroundBmp = "noname_s2"}
+, 
+["2@nyr.rsw"] = {displayName = "Sanctuary Sessrumnir Heart Storage", notifyEnter = true, 
+signName = {subTitle = "Sanctuary Sessrumnir Heart Storage", mainTitle = "Heart Storage"}
+, backgroundBmp = "noname"}
+, 
+["1@adv.rsw"] = {displayName = "High Priest Villa", notifyEnter = true, 
+signName = {mainTitle = "High Priest Villa"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@advs.rsw"] = {displayName = "Villa of Deception", notifyEnter = true, 
+signName = {mainTitle = "Villa of Deception"}
+, backgroundBmp = "noname_s2"}
+, 
+["ra_fild02.rsw"] = {displayName = "Rachel Oz Gorge", notifyEnter = true, 
+signName = {mainTitle = "Oz Gorge"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild07.rsw"] = {displayName = "Rachel Oz Gorge", notifyEnter = true, 
+signName = {mainTitle = "Oz Gorge"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild09.rsw"] = {displayName = "Rachel Audhumbla Grassland", notifyEnter = true, 
+signName = {mainTitle = "Audhumbla Grassland"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild10.rsw"] = {displayName = "Rachel Oz Gorge", notifyEnter = true, 
+signName = {mainTitle = "Oz Gorge"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild11.rsw"] = {displayName = "Rachel Ida Grassland", notifyEnter = true, 
+signName = {mainTitle = "Ida Grassland"}
+, backgroundBmp = "field_s2"}
+, 
+["ra_fild13.rsw"] = {displayName = "Rachel Shore of Tears", notifyEnter = true, 
+signName = {mainTitle = "Shore of Tears"}
+, backgroundBmp = "field_s2"}
+, 
+["iz_d04_i.rsw"] = {displayName = "Illusion of Underwater 1F", notifyEnter = true, 
+signName = {mainTitle = "Illusion of Underwater 1F"}
+, backgroundBmp = "dungeon"}
+, 
+["iz_d05_i.rsw"] = {displayName = "Illusion of Underwater 2F", notifyEnter = true, 
+signName = {mainTitle = "Illusion of Underwater 2F"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0

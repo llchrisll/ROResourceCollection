@@ -5823,4 +5823,109 @@
 			<levelup> Congratulations!! </levelup>
 		</so_full>
 	</ALIOT>
+	
+	<VR_CHAO>				
+		<hungry>			
+			<feeding>	Chao Chao~ (I'm hungry Chao~)	</feeding>
+			<feeding>	Chaochao! Chao. (I was hungry! Thank you Chao.)	</feeding>
+			<hunting>	Chao, Chao~ (Adventurer, so strong Chao~)	</hunting>
+			<hunting>	Chaochao~. (Hunting is good, but I¡¯m hungry~.)	</hunting>
+			<danger>	Chao! (It¡¯s dangerous!)	</danger>
+			<danger>	Chaochao... (It's hard for adventurers...)	</danger>
+			<dead>	Chaochao~ (come to your senses, chao~)	</dead>
+			<dead>	Chao~ (It¡¯s a big deal, Chao~)	</dead>
+			<stand>	Chaochao. (The weather is nice.)	</stand>
+			<stand>	Chao? (Did you call me Chao?)	</stand>
+			<connect>	Chaochao! (Wait, Chao!)	</connect>
+			<connect>	Chao~! Chaochao. (Hello Chao~! See you again Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chaochaochao! (I¡¯m going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let¡¯s do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</hungry>			
+		<bit_hungry>			
+			<feeding>	Chao Chao~ (Thank you Chao~)	</feeding>
+			<feeding>	Chao Chao Chao~ (Even adventurers eat delicious food~)	</feeding>
+			<hunting>	Chao Chao! (Cheer up!)	</hunting>
+			<hunting>	Chaochao~ (I will become stronger, chao~)	</hunting>
+			<danger>	Chao-chao, chao~ (If it¡¯s dangerous, run away~)	</danger>
+			<danger>	Chao? Chaochao? (Wouldn't it be better to run away?)	</danger>
+			<dead>	Chao~¡¦ (Cheer up~¡¦)	</dead>
+			<dead>	Chaochao~ (Be strong, Chao~)	</dead>
+			<stand>	Chaochao. (I think something good will happen.)	</stand>
+			<stand>	Chaochao~! (It¡¯s good weather for a walk!)	</stand>
+			<connect>	Chaochao! (Wait, Chao!)	</connect>
+			<connect>	Chao~! Chaochao. (Hello Chao~! See you again Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chao Chao, Chao! (I¡¯m going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let¡¯s do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</bit_hungry>			
+		<noting>			
+			<feeding>	Chao~ (Delicious Chao~)	</feeding>
+			<feeding>	Chao Chao! (It's a fun meal time!)	</feeding>
+			<hunting>	Chao Chao~ (I¡¯m working hard today too Chao~)	</hunting>
+			<hunting>	Chao! Chao! (Good job Chao! Good job Chao!)	</hunting>
+			<danger>	Chao Chao~ (Use the item Chao~)	</danger>
+			<danger>	Chaochao! (Retreating is also a way!)	</danger>
+			<dead>	Chaochao~ (It¡¯s okay, let¡¯s try again Chao~)	</dead>
+			<dead>	Chao, Chao Chao~ (That could be possible~)	</dead>
+			<stand>	Chao~ (I have a good feeling Chao~)	</stand>
+			<stand>	Chaochao~ (It's a happy day, chao~)	</stand>
+			<connect>	Chaochao~! (I waited~!)	</connect>
+			<connect>	Chao Chao. (Chao appears Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chao Chao, Chao! (I¡¯m going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let¡¯s do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</noting>			
+		<full>			
+			<feeding>	Chao Chao. (I ate a lot.)	</feeding>
+			<feeding>	Chaochao~. (I¡¯m full. Chao~.)	</feeding>
+			<hunting>	Chao Chao~ (I think Chao can do something too Chao~)	</hunting>
+			<hunting>	Chaochao... (I¡¯m tired because I¡¯m full¡¦)	</hunting>
+			<danger>	Chao! Chaochao! (Retreat! Run away first!)	</danger>
+			<danger>	Chaochao! (I'm using an item!)	</danger>
+			<dead>	Chao~ Chaochao~ (You can do that~)	</dead>
+			<dead>	Chaochao~ (Be strong, Chao~)	</dead>
+			<stand>	Chao~ (I have a good feeling Chao~)	</stand>
+			<stand>	Chaochao~ (It's a happy day, chao~)	</stand>
+			<connect>	Chao~! Chaochao. (Hello Chao~! See you again Chao.)	</connect>
+			<connect>	Chao~ Chao. (Chao appears Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chao Chao, Chao! (I¡¯m going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let¡¯s do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</full>			
+		<so_full>			
+			<feeding>	Chao~ Chao~~. (I¡¯m so full that it¡¯s hard to move.)	</feeding>
+			<feeding>	Chao chao chao~. (I ate too much~.)	</feeding>
+			<hunting>	Chao Chao~ (I think Chao can do something too Chao~)	</hunting>
+			<hunting>	Chaochao... (I¡¯m tired because I¡¯m full¡¦)	</hunting>
+			<danger>	Chao! Chaochao! (Retreat! Run away first!)	</danger>
+			<danger>	Chaochao! (I'm using an item!)	</danger>
+			<dead>	Chao Chao Chao~ (It could be so~)	</dead>
+			<dead>	Chaochao~ (Be strong, Chao~)	</dead>
+			<stand>	Chao~ (I have a good feeling Chao~)	</stand>
+			<stand>	Chaochao~ (It's a happy day, chao~)	</stand>
+			<connect>	Chao~! Chaochao. (Hello Chao~! See you again Chao.)	</connect>
+			<connect>	Chao Chao Chao. (Chao appears Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chao Chao, Chao! (I¡¯m going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let¡¯s do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</so_full>				
+	</VR_CHAO>				
+			
+			
 </monster_talk_table>

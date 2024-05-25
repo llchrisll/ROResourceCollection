@@ -30523,6 +30523,94 @@ Description = {"전직메일알림용"}
 Description = {"전직메일알림용"}
 , Summary = "전직메일알림용"}
 , 
+[8860] = {Title = "Dr. Eggman\'s Secret Base", IconName = "ico_vr.bmp", 
+Description = {"A sudden encounter with Sonic and Tails in the library leads you to adventure together to the depths of Dr. Eggman\'s Secret Base.", "Will you be able to defeat this evil genius plan that may bring destruction to Rune Midgard and retrieve the stolen Chaos Emeralds?"}
+, Summary = "Defeat Dr. Eggman"}
+, 
+[8861] = {Title = "[Cooldown] Dr. Eggman\'s Secret Base", IconName = "ico_vr.bmp", 
+Description = {"This quest can be played daily.", "Once the cooldown expires, you can replay the quest by reading the <NAVI>[Book]<INFO>prt_in,163,88,0,101,0</INFO></NAVI> in the Prontera Library.", "For Dr. Eggman\'s Secret Base, once a day, you can give <ITEM>[Sonic Badge]<INFO>1001549</INFO></ITEM> to <NAVI>[Tails]<INFO>prt_in,167,91,0,101,0</INFO></NAVI> to give an additional attempt to read the <NAVI>[Book]<INFO>prt_in,163,88,0,101,0</INFO></NAVI>."}
+, Summary = "Reset at 4 AM", CoolTimeQuest = 1}
+, 
+[8862] = {Title = "Kidnapped Monsters", IconName = "ico_vr.bmp", 
+Description = {"Rescue the trapped monster in Dr. Eggman\'s Base."}
+, Summary = "Rescue the trapped monster"}
+, 
+[8863] = {Title = "Inside Eggman\'s Base", IconName = "ico_vr.bmp", 
+Description = {"Although I don\'t know what danger awaits me, I decided to explore the base with Sonic and Tails."}
+, Summary = "Explore the Base"}
+, 
+[8864] = {Title = "Mysterious Chao", IconName = "ico_vr.bmp", 
+Description = {"These mysterious beings are called Chao. Let\'s try to talk to them."}
+, Summary = "Talk to Chao"}
+, 
+[8865] = {Title = "Mysterious Chao", IconName = "ico_vr.bmp", 
+Description = {"These mysterious beings are called Chao. Let\'s try to talk to them."}
+, Summary = "Talk to Chao"}
+, 
+[8866] = {Title = "Mysterious Chao", IconName = "ico_vr.bmp", 
+Description = {"These mysterious beings are called Chao. Let\'s try to talk to them."}
+, Summary = "Talk to Chao"}
+, 
+[8867] = {Title = "Mysterious Chao", IconName = "ico_vr.bmp", 
+Description = {"These mysterious beings are called Chao. Let\'s try to talk to them."}
+, Summary = "Talk to Chao"}
+, 
+[8868] = {Title = "Mysterious Chao", IconName = "ico_vr.bmp", 
+Description = {"These mysterious beings are called Chao. Let\'s try to talk to them."}
+, Summary = "Talk to Chao"}
+, 
+[8869] = {Title = "Chao\'s Condition", IconName = "ico_vr.bmp", 
+Description = {"The Chao seem to be okay. Let\'s talk to Sonic."}
+, Summary = "Talk to Sonic"}
+, 
+[8870] = {Title = "The End of an Adventure", IconName = "ico_vr.bmp", 
+Description = {"Your adventure with Sonic, Tails, and Knuckles will be unforgettable!", "But... I feel <NAVI>[Someone]<INFO>prt_in,178,97,0,101,0</INFO></NAVI> is calling for me."}
+, Summary = "Talk to the Librarian"}
+, 
+[8871] = {Title = "New Book", IconName = "ico_vr.bmp", 
+Description = {"It looks like there\'s a <NAVI>[New Book]<INFO>prt_in,163,88,0,101,0</INFO></NAVI> placed in the East Library of Prontera for a limited time."}
+, Summary = "Find Sonic"}
+, 
+[8872] = {Title = "Lurking Shadow", IconName = "ico_vr.bmp", 
+Description = {"If Eggman has been using a brainwash device on the kidnapped monsters, we can just destroy the device to save them.", "But what if there\'s something else besides those brainwashed monsters...?"}
+, Summary = "Explore further"}
+, 
+[8873] = {Title = "Metal Sonic Showdown!", IconName = "ico_vr.bmp", 
+Description = {"Metal Sonic, who blocks the path ahead, is targeting the adventurer for some reason.", "Let\'s defeat Metal Sonic and move on to the next area!"}
+, Summary = "Defeat Metal Sonic"}
+, 
+[8874] = {Title = "Down the Rabbit Hole", IconName = "ico_vr.bmp", 
+Description = {"You have successfully defeated the Metal Sonic, but the secret of this base is still unknown.", "What kind of obstruction awaits you next in your path ahead...?"}
+, Summary = "Explore further"}
+, 
+[8875] = {Title = "Knuckles Showdown!", IconName = "ico_vr.bmp", 
+Description = {"Didn\'t Sonic say earlier that Knuckles was his friend?", "Anyway, it seems you need to defeat him to proceed deeper into the base."}
+, Summary = "Defeat Knuckles"}
+, 
+[8876] = {Title = "Unexpected Encounter", IconName = "ico_vr.bmp", 
+Description = {"You have successfully convinced Knuckles \'physically\'. He decided to free the other trapped monsters within the base.", "It\'s time to move to the next area of the secret base."}
+, Summary = "Explore further"}
+, 
+[8877] = {Title = "The Evil Genius", IconName = "ico_vr.bmp", 
+Description = {"After checking out Chao\'s condition, you, Sonic, and Tails found another passage within the base.", "Your intuition tells you that the mastermind behind this is waiting for you ahead."}
+, Summary = "Explore further"}
+, 
+[8878] = {Title = "Dr. Eggman Showdown!", IconName = "ico_vr.bmp", 
+Description = {"Dr. Eggman revealed his plan to use the brainwash device on you, the adventurer of another world.", "The confrontation with the evil genius is inevitable. Let\'s defeat him and retrieve the stolen Chaos Emeralds!"}
+, Summary = "Defeat Dr. Eggman"}
+, 
+[8879] = {Title = "Eggman\'s Strategic Retreat", IconName = "ico_vr.bmp", 
+Description = {"After a few clashes with Sonic, Tails, and the adventurer, Dr. Eggman made a strategic retreat to prepare for another attack.", "Let\'s pursue him, and don\'t let him escape with the Chaos Emeralds!"}
+, Summary = "Pursue Dr. Eggman"}
+, 
+[8880] = {Title = "Eggman\'s Final Showdown!", IconName = "ico_vr.bmp", 
+Description = {"Dr. Eggman unleashed his final trump card. It\'s time to finish the job once and for all."}
+, Summary = "Defeat Dr. Eggman"}
+, 
+[8881] = {Title = "[Cooldown] Additional Book Attempt ", IconName = "ico_vr.bmp", 
+Description = {"Once the cooldown expires, you can replay the quest by reading the <NAVI>[Book]<INFO>prt_in,163,88,0,101,0</INFO></NAVI> in the Prontera Library."}
+, Summary = "Reset at 4 AM", CoolTimeQuest = 1}
+, 
 [12470] = {Title = "[Daily] Andrea\'s Revenge I", 
 Description = {"\t\t\tAndrea is mortally wounded by a scythe wielded by a small creature. He wants you to punish upon this small creature that caused his death.\n\t\t\t\n\t\t\t^ff0000\"Don\'t be fooled by its cute appearance. It\'s worse than the devil.\"^000000\n\t\t\t\n\t\t\tI guess I\'ll have to check to see if it\'s really cute though.\n\t\t"}
 , Summary = "Defeat Chaotic Baphomet Jr.", RewardEXP = "1750000", RewardJEXP = "1137500", 
@@ -30662,5 +30750,4169 @@ Description = {"\t\t\tTalk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,
 [12492] = {Title = "Esmeralda", 
 Description = {"\t\t\tTalk to Esmeralda to find out her story.\n\t\t"}
 , Summary = "Talk to Esmeralda"}
+, 
+[3493] = {Title = "Conversation with Jarad", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Jarad]<INFO>rachel,69,234,0,101,0</INFO></NAVI> about his opinion on the situation."}
+, Summary = "Talk to Jarad"}
+, 
+[3494] = {Title = "Conversation with Rohi", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Rohi]<INFO>rachel,100,72,0,101,0</INFO></NAVI> about her opinion on the situation."}
+, Summary = "Talk to Rohi"}
+, 
+[3495] = {Title = "Conversation with Jeojin", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Jeojin]<INFO>rachel,258,207,0,101,0</INFO></NAVI> about her opinion on the situation."}
+, Summary = "Talk to Jeojin"}
+, 
+[3496] = {Title = "Conversation with Skuain", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Skuain]<INFO>rachel,159,173,0,101,0</INFO></NAVI> about his opinion on the situation."}
+, Summary = "Talk to Skuain"}
+, 
+[3497] = {Title = "Conversation with Senado", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Senado]<INFO>rachel,190,30,0,101,0</INFO></NAVI> about her opinion on the situation."}
+, Summary = "Talk to Senado"}
+, 
+[3498] = {Title = "Conversation with Japer", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Japer]<INFO>rachel,210,52,0,101,0</INFO></NAVI> about his opinion on the situation."}
+, Summary = "Talk to Japer"}
+, 
+[3499] = {Title = "Conversation with Shiroan", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Shiroan]<INFO>rachel,40,73,0,101,0</INFO></NAVI> about her opinion on the situation."}
+, Summary = "Talk to Shiroan"}
+, 
+[3500] = {Title = "Conversation with Isira", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Isira]<INFO>rachel,88,151,0,101,0</INFO></NAVI> about her opinion on the situation."}
+, Summary = "Talk to Isira"}
+, 
+[3501] = {Title = "Conversation with Dina", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Dina]<INFO>rachel,240,182,0,101,0</INFO></NAVI> about her opinion on the situation."}
+, Summary = "Talk to Dina"}
+, 
+[3502] = {Title = "Conversation with Hari", IconName = "ico_dq.bmp", 
+Description = {"Let\'s talk to <NAVI>[Hari]<INFO>rachel,212,52,0,101,0</INFO></NAVI> about her opinion on the situation."}
+, Summary = "Talk to Hari"}
+, 
+[3503] = {Title = "[Daily] Opinion Gathering", IconName = "ico_dq.bmp", 
+Description = {"\t\t\tYou have been tasked with checking on the ^FF0000social tension between natives and immigrants^000000. \n\t\t\tGather opinions by talking to ^4D4DFF3 natives^000000 and ^4D4DFF3 immigrants^000000 and then report your findings to <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>.\n\t\t"}
+, Summary = "Gather 6 Opinions"}
+, 
+[3504] = {Title = "[Cooldown] Opinion Gathering", IconName = "ico_dq.bmp", 
+Description = {"\t\t\tThis daily quest can be completed again when the cooldown expires. \n\t\t\tQuest can be accepted by talking to <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>.\n\t\t"}
+, Summary = "Reset at 4 AM", CoolTimeQuest = 1}
+, 
+[3505] = {Title = "Completed Opinion Gathering", IconName = "ico_dq.bmp", 
+Description = {"\t\t\tWe have enough opinions regarding the situation between natives and immigrants. \n\t\t\tLet\'s report our finding to <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>.\n\t\t"}
+, Summary = "Report to Junok"}
+, 
+[5932] = {Title = "Abused Child", IconName = "ico_ep.bmp", 
+Description = {"I saw a child who was treated a bit too much by a man.", "What on earth happened?", "Let\'s try to talk to the child."}
+, Summary = "Talk to the child.", NpcSpr = "4_M_DST_CHILD"}
+, 
+[5933] = {Title = "Business Plan", IconName = "ico_ep.bmp", 
+Description = {"Mejai, who had an unusual way of speaking, asked you if you would be interested in joining his business.", " ", "If you\'re interested, let\'s go to the place on the <NAVI>[Map]<INFO>rachel,70,135,0,101,0</INFO></NAVI> given by him."}
+, Summary = "Go to the meeting spot", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5934] = {Title = "Foraging Practice (1)", IconName = "ico_ep.bmp", 
+Description = {"It seems that in order to participate in Mejai\'s business, you must receive training in collecting half flowers."}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5935] = {Title = "Foraging Practice (2)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s collect half flowers for practice.", "------------------------", "How to collect half flowers based on its bloom location:", "------------------------", "1) Near Rocks", "Angle 40/2 Leaves left/Water 50ml/Secret Powder 2g", "2) On Flat Ground", "Angle 30/4 Leaves left/Water 40ml/Secret Powder 4g", "^0000FF3) Near Trees^000000", "^0000FFAngle 20/4 Leaves left/Water 30ml/Secret Powder 6g^000000", "4) Near Water", "Angle 10/8 Leaves left/Water 20ml/Secret Powder 8g"}
+, Summary = "Collect Half Flower", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5936] = {Title = "Foraging Practice (3)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s take the collected Half Flower to Mejai."}
+, Summary = "Report to Mejai", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5937] = {Title = "[Cooldown] Half Flower Gathering", IconName = "ico_dq.bmp", 
+Description = {"^4D4DFFFlower Room\'s Company Regulations^000000", "^FF0000NO EXCESSIVE WORK. IF YOU FINISHED ONE TASK, TAKE ENOUGH REST!^000000", " ", "It seems you can go to work again once the cooldown expires.", "Talk to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> when you\'re ready to work again."}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1, NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 70, NpcPosY = 135}
+, 
+[5938] = {Title = "[Daily] Half Flower Gathering", IconName = "ico_dq.bmp", 
+Description = {"Half Flower Gathering Bag", "The bag contains scissors, a small cylinder, Mejai\'s secret powder, some water, and a piece of paper with detailed instructions on how to collect them.", "Collect the flower according to the instruction and bring it to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers.", "------------------------", "How to collect half flowers based on its bloom location:", "------------------------", "^0000FF1) Near Rocks^000000", "^0000FFAngle 40/2 Leaves left/Water 50ml/Secret Powder 2g^000000", "2) On Flat Ground", "Angle 30/4 Leaves left/Water 40ml/Secret Powder 4g", "3) Near Trees", "Angle 20/4 Leaves left/Water 30ml/Secret Powder 6g", "4) Near Water", "Angle 10/8 Leaves left/Water 20ml/Secret Powder 8g"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5939] = {Title = "[Daily] Half Flower Gathering", IconName = "ico_dq.bmp", 
+Description = {"Half Flower Gathering Bag", "The bag contains scissors, a small cylinder, Mejai\'s secret powder, some water, and a piece of paper with detailed instructions on how to collect them.", "Collect the flower according to the instruction and bring it to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers.", "------------------------", "How to collect half flowers based on its bloom location:", "------------------------", "1) Near Rocks", "Angle 40/2 Leaves left/Water 50ml/Secret Powder 2g", "^0000FF2) On Flat Ground^000000", "^0000FFAngle 30/4 Leaves left/Water 40ml/Secret Powder 4g^000000", "3) Near Trees", "Angle 20/4 Leaves left/Water 30ml/Secret Powder 6g", "4) Near Water", "Angle 10/8 Leaves left/Water 20ml/Secret Powder 8g"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5940] = {Title = "[Daily] Half Flower Gathering", IconName = "ico_dq.bmp", 
+Description = {"Half Flower Gathering Bag", "The bag contains scissors, a small cylinder, Mejai\'s secret powder, some water, and a piece of paper with detailed instructions on how to collect them.", "Collect the flower according to the instruction and bring it to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers.", "------------------------", "How to collect half flowers based on its bloom location:", "------------------------", "1) Near Rocks", "Angle 40/2 Leaves left/Water 50ml/Secret Powder 2g", "2) On Flat Ground", "Angle 30/4 Leaves left/Water 40ml/Secret Powder 4g", "^0000FF3) Near Trees^000000", "^0000FFAngle 20/4 Leaves left/Water 30ml/Secret Powder 6g^000000", "4) Near Water", "Angle 10/8 Leaves left/Water 20ml/Secret Powder 8g"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5941] = {Title = "[Daily] Half Flower Gathering", IconName = "ico_dq.bmp", 
+Description = {"Half Flower Gathering Bag", "The bag contains scissors, a small cylinder, Mejai\'s secret powder, some water, and a piece of paper with detailed instructions on how to collect them.", "Collect the flower according to the instruction and bring it to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers.", "------------------------", "How to collect half flowers based on its bloom location:", "------------------------", "1) Near Rocks", "Angle 40/2 Leaves left/Water 50ml/Secret Powder 2g", "2) On Flat Ground", "Angle 30/4 Leaves left/Water 40ml/Secret Powder 4g", "3) Near Trees", "Angle 20/4 Leaves left/Water 30ml/Secret Powder 6g", "^0000FF4) Near Water^000000", "^0000FFAngle 10/8 Leaves left/Water 20ml/Secret Powder 8g^000000"}
+, Summary = "", NpcSpr = "EP18_HALFFLOWER"}
+, 
+[5942] = {Title = "Flower Room Opening Ceremony", IconName = "ico_ep.bmp", 
+Description = {"You attended the flower room opening ceremony."}
+, Summary = ""}
+, 
+[5943] = {Title = "Flower Room Delivery Service", IconName = "ico_ep.bmp", 
+Description = {"Flower Room has started a delivery service."}
+, Summary = ""}
+, 
+[5944] = {Title = "Flower Delivery Service", IconName = "ico_dq.bmp", 
+Description = {"Please deliver the flowers based on the information provided by the client.", "Don’t forget to receive the delivery confirmation after delivery.", "------------------------", "Today, I ask you to deliver flowers to the girl I met on the <NAVI>[Stairs to the Temple]<INFO>rachel,150,192,0,101,0</INFO></NAVI>.", "Her name might be ^0000FFMully^000000 or ^0000FFMolly^000000, I don\'t remember very well. We couldn\'t talk much, but she was a girl with really pretty eyes."}
+, Summary = "Deliver the Flower"}
+, 
+[5945] = {Title = "Flower Delivery Service", IconName = "ico_dq.bmp", 
+Description = {"Please deliver the flowers based on the information provided by the client.", "Don’t forget to receive the delivery confirmation after delivery.", "------------------------", "Today, I ask you to deliver flowers to the girl I met on the <NAVI>[North of Veins Village]<INFO>veins,218,354,0,101,0</INFO></NAVI>.", "Her name might be ^0000FFMartha^000000? ^0000FFMasha^000000? it\'s difficult to pronounce. She\'s wearing an exotic outfit that doesn\'t match Veins, so it won\'t be hard to find her."}
+, Summary = "Deliver the Flower"}
+, 
+[5946] = {Title = "Flower Delivery Service", IconName = "ico_dq.bmp", 
+Description = {"Please deliver the flowers based on the information provided by the client.", "Don’t forget to receive the delivery confirmation after delivery.", "------------------------", "Today, I ask you to deliver flowers to the girl I met on the <NAVI>[Rachel Weapon Shop]<INFO>rachel,42,87,0,101,0</INFO></NAVI>.", "^0000FFTilling^000000? ^0000FFTelling^000000? No, I think it was ^0000FFTeilling^000000? This girl looks great with yellow hair."}
+, Summary = "Deliver the Flower"}
+, 
+[5947] = {Title = "Flower Delivery Service", IconName = "ico_dq.bmp", 
+Description = {"Please deliver the flowers based on the information provided by the client.", "Don’t forget to receive the delivery confirmation after delivery.", "------------------------", "Today, I ask you to deliver flowers to the girl I met on the <NAVI>[Gray Wolf Village]<INFO>wolfvill,269,29,0,101,0</INFO></NAVI>.", "^0000FFSyeil^000000? ^0000FFSeil^000000? She was a girl with a name that made you think you needed to buy something quickly."}
+, Summary = "Deliver the Flower"}
+, 
+[5948] = {Title = "Delivery Confirmation", IconName = "ico_dq.bmp", 
+Description = {"I received a confirmation that the half flower was delivered and received.", "Show the receipt to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> and claim your reward."}
+, Summary = "Show the receipt to Mejai"}
+, 
+[5949] = {Title = "Delivery Confirmation", IconName = "ico_dq.bmp", 
+Description = {"I received a confirmation that the half flower was delivered and received.", "Show the receipt to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> and claim your reward."}
+, Summary = "Show the receipt to Mejai"}
+, 
+[8681] = {Title = "Towards Rachel (1)", IconName = "ico_ep.bmp", 
+Description = {"The automatons at Varmund Mansion finally confirmed the identity of the signal that had arrived.", "It comes from <NAVI>[Rachel]<INFO>rachel,182,176,0,101,0</INFO></NAVI>, and it looks like we\'ll have to move quickly."}
+, Summary = "Go to Rachel"}
+, 
+[8682] = {Title = "Towards Rachel (2)", IconName = "ico_ep.bmp", 
+Description = {"It seems the situation of Rachel is not looking good. As they were listening to a public discussion, a fight broke out among the people. However, a <NAVI>[Person]<INFO>rachel,183,170,0,101,0</INFO></NAVI> stood out."}
+, Summary = "Talk to the Priest"}
+, 
+[8683] = {Title = "Heated Argument", IconName = "ico_ep.bmp", 
+Description = {"The nervous priest asks to stop the fight, but what should we do?"}
+, Summary = "Talk to the Priest"}
+, 
+[8684] = {Title = "State of Conflict", IconName = "ico_ep.bmp", 
+Description = {"Priest Junok, who could not hide his nervousness the whole time, said he would tell me about the current situation of Arunafeltz.", "He asks you to meet him <NAVI>[in front of the Temple]<INFO>ra_temple,72,54,0,101,0</INFO></NAVI>."}
+, Summary = "Go to the Temple"}
+, 
+[8685] = {Title = "Suspicious Movement", IconName = "ico_ep.bmp", 
+Description = {"As soon as Priest Junok and the security guards heard the disturbing news that an intruder had recently appeared in Cheshrumnir, word came that a suspicious movement had appeared in <NAVI>[the west side of the temple]<INFO>ra_temple,30,142,0,101,0</INFO></NAVI>."}
+, Summary = "Follow the Guards"}
+, 
+[8686] = {Title = "Intruder of the Temple", IconName = "ico_ep.bmp", 
+Description = {"Their identity, which I had seen somewhere before, was Heart Hunter.", "I don\'t think I\'ve heard any news yet that those who invaded the mansion were vanquished."}
+, Summary = "Talk to the Priest"}
+, 
+[8687] = {Title = "Staged Plot", IconName = "ico_ep.bmp", 
+Description = {"Strangely, the power of the heart hunters is weak. A moment like a staged play ends without a hint of suspiciousness.", "The security guard who seems to know who this side is tells him to go see <NAVI>[High Priestess Niren]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Niren"}
+, 
+[8688] = {Title = "Today\'s Daily Bread", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI> asks you to check the traps he set and collect 5 of them."}
+, Summary = "Retrieve 5 items from the trap"}
+, 
+[8689] = {Title = "[Cooldown] Today\'s Daily Bread", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI> is expecting you to help with the trap work tomorrow as well."}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1}
+, 
+[8690] = {Title = "[Daily] Today\'s Daily Bread", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI> asks you to check the traps he set and collect 5 of them."}
+, Summary = "Retrieve 5 items from the trap"}
+, 
+[8691] = {Title = "Water Purification (1)", IconName = "ico_ep.bmp", 
+Description = {"Budan of Gray Wolf Village asks you to buy a Water Filter in Rachel.", "Let\'s go to Rachel and find the <NAVI>[Trader]<INFO>rachel,103,141,0,101,0</INFO></NAVI>."}
+, Summary = "Buy a Water Filter"}
+, 
+[8692] = {Title = "Water Purification (2)", IconName = "ico_ep.bmp", 
+Description = {"You purchased a Water Filter from the trader.", "Now you can get clean water by bringing it to the <NAVI>[Water Bucket]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI> in Gray Wolf Village."}
+, Summary = "Put the Filter into Water Bucket"}
+, 
+[8693] = {Title = "Water Purification (3)", IconName = "ico_ep.bmp", 
+Description = {"You got the Bucket of Purified Water.", "Bring it to <NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> to receive your reward."}
+, Summary = "Talk to Budan"}
+, 
+[8694] = {Title = "[Cooldown] Water Purification", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> is expecting you to help him get some water again tomorrow."}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1}
+, 
+[8695] = {Title = "[Daily] Water Purification (1)", IconName = "ico_dq.bmp", 
+Description = {"Budan of Gray Wolf Village asks you to buy a Water Filter in Rachel.", "Let\'s go to Rachel and find the <NAVI>[Trader]<INFO>rachel,103,141,0,101,0</INFO></NAVI>."}
+, Summary = "Buy a Water Filter"}
+, 
+[8696] = {Title = "[Daily] Water Purification (2)", IconName = "ico_dq.bmp", 
+Description = {"You purchased a Water Filter from the trader.", "Now you can get clean water by bringing it to the <NAVI>[Water Bucket]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI> in Gray Wolf Village."}
+, Summary = "Put the Filter into Water Bucket"}
+, 
+[8697] = {Title = "[Daily] Water Purification (3)", IconName = "ico_dq.bmp", 
+Description = {"You got the Bucket of Purified Water.", "Bring it to <NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> to receive your reward."}
+, Summary = "Talk to Budan"}
+, 
+[8698] = {Title = "Horim\'s Bizarre Adventure (1)", IconName = "ico_ep.bmp", 
+Description = {"Horim, an employee she met at Rachel\'s hotel, wants to go to Gray Wolf Village.", "He agreed to meet at <NAVI>[West Rachel]<INFO>ra_fild11,358,229,0,101,0</INFO></NAVI> after the work."}
+, Summary = "Meet with Horim"}
+, 
+[8699] = {Title = "Horim\'s Bizarre Adventure (2)", IconName = "ico_ep.bmp", 
+Description = {"Horim said he has never felt a sense of belonging anywhere he has lived his entire life.", "We must <NAVI>[guide]<INFO>ra_fild10,375,293,0,101,0</INFO></NAVI> him who is still hesitant."}
+, Summary = "Talk to Horim"}
+, 
+[8700] = {Title = "Horim\'s Bizarre Adventure (3)", IconName = "ico_ep.bmp", 
+Description = {"Horim seems to be acting harshly, it might be because it\'s his first time going out of the city.", "Since I have stamina, let\'s continue <NAVI>[guide]<INFO>oz_dun01,285,170,0,101,0</INFO></NAVI> him."}
+, Summary = "Talk to Horim"}
+, 
+[8701] = {Title = "Horim\'s Bizarre Adventure (4)", IconName = "ico_ep.bmp", 
+Description = {"Horim, overwhelmed by Mother Nature, asks what the gray wolf forest is like. But perhaps the story Horim heard and reality are not much different.", "Let\'s continue <NAVI>[guide]<INFO>gw_fild01,275,338,0,101,0</INFO></NAVI> him."}
+, Summary = "Talk to Horim"}
+, 
+[8702] = {Title = "Horim\'s Bizarre Adventure (5)", IconName = "ico_ep.bmp", 
+Description = {"It seems that careless people have been spreading confidential information from the military base here and there.", "Anyway, you know that this place is dangerous. Let\'s continue <NAVI>[guide]<INFO>gw_fild01,38,99,0,101,0</INFO></NAVI> Horim."}
+, Summary = "Talk to Horim"}
+, 
+[8703] = {Title = "Horim\'s Bizarre Adventure (6)", IconName = "ico_ep.bmp", 
+Description = {"Horim says he needs a place to return to. Does that mean that to him, home has never been a place he wants to return to?", "He cannot sit for long. Let\'s <NAVI>[guide]<INFO>wolfvill,266,26,0,101,0</INFO></NAVI> him."}
+, Summary = "Talk to Horim"}
+, 
+[8704] = {Title = "Temple Closure (1)", 
+Description = {"The temple door was suddenly closed. Let\'s <NAVI>[ask around]<INFO>rachel,243,37,0,101,0</INFO></NAVI> if there is another entrance for the worried Priest Nemma."}
+, Summary = "Let\'s ask around for other entrance"}
+, 
+[8705] = {Title = "Temple Closure (2)", 
+Description = {"It is said that there is an unlocked <NAVI>[Window]<INFO>ra_temple,67,209,0,101,0</INFO></NAVI> in the temple that can be entered secretly..."}
+, Summary = "Find the unlocked Window"}
+, 
+[8706] = {Title = "Temple Closure (3)", 
+Description = {"I succeeded in sneaking into the temple. Let\'s go to the <NAVI>[entrance direction]<INFO>que_rachel,59,112,0,101,0</INFO></NAVI>."}
+, Summary = "Explore the Temple"}
+, 
+[8707] = {Title = "Temple Closure (4)", 
+Description = {"A mumbling <NAVI>[sound]<INFO>que_rachel,94,138,0,101,0</INFO></NAVI> is heard from somewhere. Let\'s investigate it."}
+, Summary = "Go to the Hallway"}
+, 
+[8708] = {Title = "Temple Closure (5)", 
+Description = {"A suspicious sound is heard. It seems to be coming from <NAVI>[the stairs]<INFO>que_rachel,132,70,0,101,0</INFO></NAVI>."}
+, Summary = "Move towards the stairs"}
+, 
+[8709] = {Title = "Temple Closure (6)", 
+Description = {"<NAVI>[Sound]<INFO>que_rachel,239, 258,0,101,0</INFO></NAVI> seems to have come from the top of the stairs. Let\'s go upstairs."}
+, Summary = "Move up the stairs"}
+, 
+[8710] = {Title = "Temple Closure (7)", 
+Description = {"Let’s follow the direction where the <NAVI>[sound]<INFO>que_rachel,28,315,0,101,0</INFO></NAVI> came from."}
+, Summary = "Explore the Temple"}
+, 
+[8711] = {Title = "Temple Closure (8)", 
+Description = {"What if someone shows up while I\'m looking for something else?", "First, let\'s examine the blood stains again."}
+, Summary = "Investigate the blood stain"}
+, 
+[8712] = {Title = "Temple Closure (9)", 
+Description = {"I don\'t know what will happen if I spend any more time and run into someone.", "First, let\'s head to <NAVI>[Door]<INFO>que_rachel,169,18,0,101,0</INFO></NAVI>."}
+, Summary = "Go to the temple lobby"}
+, 
+[8713] = {Title = "Temple Closure (10)", 
+Description = {"The door opened safely and I was able to get out. Let\'s talk to <NAVI>[Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Priest Nemma"}
+, 
+[8714] = {Title = "Temple Closure (11)", 
+Description = {"I have something to ask the <NAVI>[Priest Panno]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI> inside the temple."}
+, Summary = "Talk to Priest Panno"}
+, 
+[8715] = {Title = "Temple Closure (12)", 
+Description = {"I have something to ask the <NAVI>[Priest Panno]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI> inside the temple."}
+, Summary = "Talk to Priest Panno"}
+, 
+[8716] = {Title = "Temple Closure (13)", 
+Description = {"Does <NAVI>[Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI> really know nothing?"}
+, Summary = "Talk to Priest Nemma"}
+, 
+[8717] = {Title = "Temple Closure (14)", 
+Description = {"<NAVI>[Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI> asked me to procure 20 <ITEM>[Firecrackers]<INFO>12018</INFO></ITEM>."}
+, Summary = "Bring the required item"}
+, 
+[8718] = {Title = "Greetings from a Friend", IconName = "ico_ep.bmp", 
+Description = {"Albert of Gray Wolf Village is worried about the well-being of his friend, <NAVI>[Horim]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI> who works at Rachel\'s hotel."}
+, Summary = "Talk to Horim"}
+, 
+[11696] = {Title = "Niren\'s Request (1)", IconName = "ico_ep.bmp", 
+Description = {"It seems like Dent from the security force has been having a hard time recently due to the Rachel situation.", "------------------------", "Let\'s listen to the story of <NAVI>[other guard]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Marshal Neil"}
+, 
+[11697] = {Title = "Niren\'s Request (2)", IconName = "ico_ep.bmp", 
+Description = {"Neil also says he has a lot of difficulties. The situation at the temple doesn\'t seem to be good either.", "------------------------", "Let\'s also listen to the story of <NAVI>[Priest Freya]<INFO>ra_temin,172,36,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Priest Freya"}
+, 
+[11698] = {Title = "Niren\'s Request (3)", IconName = "ico_ep.bmp", 
+Description = {"Niren, who heard the word Heart Hunter, suggested moving the converstaion somewhere else.", "------------------------", "Let\'s talk to <NAVI>[Niren]<INFO>ra_temin,213,87,0,101,0</INFO></NAVI> in the corner of the hallway where people don\'t often go."}
+, Summary = "Talk to Niren"}
+, 
+[11699] = {Title = "Niren\'s Request (4)", IconName = "ico_ep.bmp", 
+Description = {"Niren asks his son Maram to find out the situation of the residents.", "------------------------", "Go back to the temple entrance and ask <NAVI>[Neil]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI> about the place where Maram is likely to be."}
+, Summary = "Talk to Marshal Neal"}
+, 
+[11700] = {Title = "Niren\'s Request (5)", IconName = "ico_ep.bmp", 
+Description = {"Neil says he saw Maram near Rachel Square. Let\'s ask the villagers near the area about Maram\'s whereabouts."}
+, Summary = "Talk to the Villager"}
+, 
+[11701] = {Title = "Niren\'s Request (6)", IconName = "ico_ep.bmp", 
+Description = {"The villager said that they didn\'t know where Maram was. Let\'s talk to other villager."}
+, Summary = "Talk to other Villager"}
+, 
+[11702] = {Title = "Niren\'s Request (7)", IconName = "ico_ep.bmp", 
+Description = {"The villager said that they didn\'t know where Maram was. Let\'s talk to other villager."}
+, Summary = "Talk to other Villager"}
+, 
+[11703] = {Title = "Niren\'s Request (8)", IconName = "ico_ep.bmp", 
+Description = {"It is said that Maram passed the villagers and went up.", "------------------------", "Let\'s find <NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI> on the upper road."}
+, Summary = "Find Maram"}
+, 
+[11704] = {Title = "Gray Children (1)", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI> tells me about the Gray Children. Then, he introduces his friend, Miriam.", "------------------------", "Let\'s talk to <NAVI>[Miriam]<INFO>rachel,62,144,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Miriam"}
+, 
+[11705] = {Title = "Gray Children (2)", IconName = "ico_ep.bmp", 
+Description = {"It appears that Miriam can\'t buy the item she intended to.", "------------------------", "Let\'s help her <NAVI>[buy things]<INFO>rachel,87,122,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to the Merchant"}
+, 
+[11706] = {Title = "Gray Children (3)", IconName = "ico_ep.bmp", 
+Description = {"The merchant says he will not sell anything to Maram.", "------------------------", "Let\'s try to buy it at <NAVI>[Other Merchant]<INFO>rachel,107,102,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to other Merchant"}
+, 
+[11707] = {Title = "Gray Children (4)", IconName = "ico_ep.bmp", 
+Description = {"In the end, I couldn\'t buy it.", "------------------------", "Let\'s go back to <NAVI>[Miriam]<INFO>rachel,107,102,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Miriam"}
+, 
+[11708] = {Title = "Gray Children (5)", IconName = "ico_ep.bmp", 
+Description = {"It seems the <NAVI>[Merchant]<INFO>rachel,107,102,0,101,0</INFO></NAVI> don\'t want to sell anything to the gray children.", "------------------------", "Let\'s talk to Maram to find the solution."}
+, Summary = "Talk to Maram"}
+, 
+[11709] = {Title = "Gray Children (6)", IconName = "ico_ep.bmp", 
+Description = {"Maram and Miriam left Rachel and tried to buy supplies to help the natives who were living a difficult life.", "------------------------", "Let\'s try to purchase goods from the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI> without Maram."}
+, Summary = "Talk to the Merchant"}
+, 
+[11710] = {Title = "Gray Children (7)", IconName = "ico_ep.bmp", 
+Description = {"I signed a contract with the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI> to purchase goods under the lie that I was from a foreign country.", "------------------------", "Let\'s talk to Miriam."}
+, Summary = "Talk to Miriam"}
+, 
+[11711] = {Title = "Gray Children (8)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s wait and eat <NAVI>[Dumplings]<INFO>rachel,108,73,0,101,0</INFO></NAVI> while Maram and Miriam prepare to disguise themselves as merchants."}
+, Summary = "Eat the Dumplings"}
+, 
+[11712] = {Title = "Gray Children (9)", IconName = "ico_ep.bmp", 
+Description = {"I met Tamarin by chance and asked him to help me disguise. He asks you to take <NAVI>[Mark]<INFO>rachel,122,120,0,101,0</INFO></NAVI> and Maggi."}
+, Summary = "Find Mark"}
+, 
+[11713] = {Title = "Gray Children (10)", IconName = "ico_ep.bmp", 
+Description = {"Mark and Maggi also joined. Let\'s go to the place where we first met <NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Maram"}
+, 
+[11714] = {Title = "Gray Children (11)", IconName = "ico_ep.bmp", 
+Description = {"Maram and Miriam say they will wait at the village entrance.", "Let\'s meet the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI> who purchased the product."}
+, Summary = "Talk to Merchant"}
+, 
+[11715] = {Title = "Gray Children (12)", IconName = "ico_ep.bmp", 
+Description = {"I talked to the merchant. Let\'s go to the west entrance of Rachel and check for the <NAVI>[item]<INFO>rachel,41,132,0,101,0</INFO></NAVI>."}
+, Summary = "To the west entrance of Rachel"}
+, 
+[11716] = {Title = "Gray Children (13)", IconName = "ico_ep.bmp", 
+Description = {"I purchased the item safely. Talk to <NAVI>[Maram]<INFO>ra_fild11,354,235,0,101,0</INFO></NAVI> outside the western entrance to Rachel."}
+, Summary = "Talk to Maram"}
+, 
+[11717] = {Title = "Gray Children (14)", IconName = "ico_ep.bmp", 
+Description = {"In order not to reveal our destination, we decided to move separately from Maram.", "Let\'s meet with <NAVI>[Miriam]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI> in Oz Canyon, west of Rachel."}
+, Summary = "Talk to Miriam"}
+, 
+[11718] = {Title = "Gray Children (15)", IconName = "ico_ep.bmp", 
+Description = {"When preparations to go to the Oz Labyrinth are complete, talk to <NAVI>[Miriam]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Miriam"}
+, 
+[11719] = {Title = "Gray Children (16)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s break through the Oz Labyrinth with the group."}
+, Summary = "Pass Oz Labyrinth"}
+, 
+[11720] = {Title = "Gray Children (17)", IconName = "ico_ep.bmp", 
+Description = {"You have broken through the labyrinth. Talk to <NAVI>[Maram]<INFO>gw_fild01,273,339,0,101,0</INFO></NAVI> outside the labyrinth."}
+, Summary = "Talk to Maram"}
+, 
+[11721] = {Title = "Gray Children (18)", IconName = "ico_ep.bmp", 
+Description = {"Find the village entrance to the west of Gray Wolf Forest and talk to Maram."}
+, Summary = "Find the village entrance"}
+, 
+[11722] = {Title = "Gray Children (19)", IconName = "ico_ep.bmp", 
+Description = {"It seems <NAVI>[Maram]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI> is not allowed to enter the village with outsider. Let\'s talk to Imril."}
+, Summary = "Talk to Imril"}
+, 
+[11723] = {Title = "Gray Children (20)", IconName = "ico_ep.bmp", 
+Description = {"I asked Imril to call Suad. Let\'s talk to <NAVI>[Maram]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI> while waiting for Suad."}
+, Summary = "Talk to Maram"}
+, 
+[11724] = {Title = "Gray Children (21)", IconName = "ico_ep.bmp", 
+Description = {"I received permission from Suad to enter Gray Wolf Village. Let\'s talk to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> in the village."}
+, Summary = "Enter Gray Wolf Village"}
+, 
+[11725] = {Title = "The Labyrinth and the Merchant (1)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s meet <NAVI>[Imril]<INFO>oz_dun01,27,184,0,101,0</INFO></NAVI> at the entrance to the first floor of Oz Labyrinth."}
+, Summary = "Go to Oz Labyrinth 1F"}
+, 
+[11726] = {Title = "The Labyrinth and the Merchant (2)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s follow Imril\'s guidance and move to <NAVI>[narrow road]<INFO>oz_dun01,68,284,0,101,0</INFO></NAVI>."}
+, Summary = "Investigate Oz Labyrinth"}
+, 
+[11727] = {Title = "The Labyrinth and the Merchant (3)", IconName = "ico_ep.bmp", 
+Description = {"I found the box. Let\'s continue Imril\'s instructions and move <NAVI>[below]<INFO>oz_dun01,65,189,0,101,0</INFO></NAVI>."}
+, Summary = "Investigate Oz Labyrinth"}
+, 
+[11728] = {Title = "The Labyrinth and the Merchant (4)", IconName = "ico_ep.bmp", 
+Description = {"It\'s a dangerous road. Be careful and follow Imril\'s guidance by moving <NAVI>[below]<INFO>oz_dun01,111,96,0,101,0</INFO></NAVI>."}
+, Summary = "Investigate Oz Labyrinth"}
+, 
+[11729] = {Title = "The Labyrinth and the Merchant (5)", IconName = "ico_ep.bmp", 
+Description = {"While investigating the hole where the steam was coming out, I heard a voice calling for Imril from somewhere.", "Let\'s investigate <NAVI>[where the sound came from]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI>."}
+, Summary = "Investigate the sound"}
+, 
+[11730] = {Title = "The Labyrinth and the Merchant (6)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s defeat 10 monsters around <NAVI>[Paul]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI> so they don\'t interfere with the treatment."}
+, Summary = "Protect the treatment"}
+, 
+[11731] = {Title = "The Labyrinth and the Merchant (7)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s follow Imril\'s instructions and move to <NAVI>[below]<INFO>oz_dun01,134,56,0,101,0</INFO></NAVI>."}
+, Summary = "Investigate Oz Labyrinth"}
+, 
+[11732] = {Title = "The Labyrinth and the Merchant (8)", IconName = "ico_ep.bmp", 
+Description = {"I found the box. Let\'s continue Imril\'s instructions and move <NAVI>[below]<INFO>oz_dun01,110,37,0,101,0</INFO></NAVI>."}
+, Summary = "Investigate Oz Labyrinth"}
+, 
+[11733] = {Title = "The Labyrinth and the Merchant (9)", IconName = "ico_ep.bmp", 
+Description = {"We arrived at the entrance to the second floor of the Oz Labyrinth.", "Let\'s follow Imril\'s instructions and move to <NAVI>[below]<INFO>oz_dun02,152,276,0,101,0</INFO></NAVI>."}
+, Summary = "Go to Labyrinth 2F"}
+, 
+[11734] = {Title = "The Labyrinth and the Merchant (10)", IconName = "ico_ep.bmp", 
+Description = {"The second floor investigation seems to be too much for Imril. Let\'s investigate the <NAVI>[surroundings]<INFO>oz_dun02,143,231,0,101,0</INFO></NAVI>."}
+, Summary = "Investigate Oz Labyrinth"}
+, 
+[11735] = {Title = "The Labyrinth and the Merchant (11)", IconName = "ico_ep.bmp", 
+Description = {"I met the old labyrinth keeper. Let\'s return to the village and talk to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> to inform Suad about the investigation."}
+, Summary = "Talk to Imril"}
+, 
+[11736] = {Title = "Oz Labyrinth 1F (170lv)", IconName = "ico_dq.bmp", 
+Description = {"Let\'s defeat 20 Ash Toad on the first floor of Oz Labyrinth. Return to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> when you\'re done."}
+, Summary = "Explore Oz Labyrinth 1F"}
+, 
+[11737] = {Title = "[Cooldown] Oz Labyrinth 1F", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> is expecting you to join the expidition on the Oz Labyrinth 1F again tomorrow."}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1}
+, 
+[11738] = {Title = "Oz Labyrinth 2F (200lv)", IconName = "ico_dq.bmp", 
+Description = {"Let\'s defeat 20 Hot Molar on the second floor of Oz Labyrinth. Return to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> when you\'re done."}
+, Summary = "Explore Oz Labyrinth 2F"}
+, 
+[11739] = {Title = "[Cooldown] Oz Labyrinth 2F", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> is expecting you to join the expidition on the Oz Labyrinth 2F again tomorrow."}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1}
+, 
+[12520] = {Title = "[Normal] Villa of Deception", 
+Description = {"It is said that the ^FF0000foul beings^000000 that were already eradicated before are showing up again in a certain ^FF0000Villa^000000.", "Ira hopes that adventurers can take care of it before it invokes the wrath of God."}
+, Summary = "Defeat the Twisted God"}
+, 
+[12521] = {Title = "[Hard] Villa of Deception", 
+Description = {"It is said that the ^FF0000foul beings^000000 that were already eradicated before are showing up again in a certain ^FF0000Villa^000000.", "Ira hopes that adventurers can take care of it before it invokes the wrath of God."}
+, Summary = "Defeat the Twisted God"}
+, 
+[12522] = {Title = "[Cooldown] Villa of Deception", 
+Description = {"After staying in the Villa, I felt nauseous and dizzy.", "It would be a good idea to take some time to rest."}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1}
+, 
+[12531] = {Title = "Transporting Goods", IconName = "ico_ep.bmp", 
+Description = {"If we can retrieve the goods to this extent, I think we can avoid the worst situation.", "Let\'s go back to the <NAVI>[Upper Area]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI> and help Camille."}
+, Summary = "Help Camille"}
+, 
+[12532] = {Title = "Broken Wagon", IconName = "ico_ep.bmp", 
+Description = {"There seems to be a problem with the wagon. I think I can use some <ITEM>[Materials]<INFO>7197</INFO></ITEM> to repair the broken wheel."}
+, Summary = "Find suitable materials."}
+, 
+[12533] = {Title = "Hidden Helper", IconName = "ico_ep.bmp", 
+Description = {"Hazar told you to follow Camille on his trip to make sure he travels safely with the wagon.", "<NAVI>[Follow Wagon\'s track]<INFO>gw_fild01,118,131,0,101,0</INFO></NAVI>"}
+, Summary = "Follow Camille secretly"}
+, 
+[12534] = {Title = "Missing Camille", IconName = "ico_ep.bmp", 
+Description = {"It seems like the situation I was worried about has happened. Camille must be in great trouble by now.", "Let\'s help him by following the <NAVI>[trace]<INFO>gw_fild01,200,96,0,101,0</INFO></NAVI>"}
+, Summary = "Save Camille"}
+, 
+[12535] = {Title = "Chief Decision", IconName = "ico_ep.bmp", 
+Description = {"We don\'t know what kind of treatment Camille will receive in the village.", "Let\'s go back to the <NAVI>[Upper Area]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI>, check Camille\'s disposition, and intervene if necessary."}
+, Summary = "Return to the Chief"}
+, 
+[12536] = {Title = "Scattered Goods (North)", IconName = "ico_ep.bmp", 
+Description = {"There may be a lost goods somewhere ^FF0000north of the Gray Wolf Forest^000000.", "Let\'s search on the <NAVI>[estimated location]<INFO>gw_fild01,242,321,0,101,0</INFO></NAVI>."}
+, Summary = "Retrieve the Goods"}
+, 
+[12537] = {Title = "Scattered Goods (West)", IconName = "ico_ep.bmp", 
+Description = {"There may be a lost goods somewhere ^FF0000west of the Gray Wolf Forest^000000.", "Let\'s search on the <NAVI>[estimated location]<INFO>gw_fild01,93,211,0,101,0</INFO></NAVI>."}
+, Summary = "Retrieve the Goods"}
+, 
+[12538] = {Title = "Scattered Goods (East)", IconName = "ico_ep.bmp", 
+Description = {"There may be a lost goods somewhere ^FF0000east of the Gray Wolf Forest^000000.", "Let\'s search on the <NAVI>[estimated location]<INFO>gw_fild01,343,194,0,101,0</INFO></NAVI>."}
+, Summary = "Retrieve the Goods"}
+, 
+[12539] = {Title = "Scattered Goods (South)", IconName = "ico_ep.bmp", 
+Description = {"There may be a lost goods somewhere ^FF0000south of the Gray Wolf Forest^000000.", "Let\'s search on the <NAVI>[estimated location]<INFO>gw_fild01,228,59,0,101,0</INFO></NAVI>."}
+, Summary = "Retrieve the Goods"}
+, 
+[16548] = {Title = "I can\'t sleep", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> who seems to be having a hard time sleeping due to noisy monster cries, is asking you to hunt 30 Firewind Kites to help him sleep peacefully."}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16549] = {Title = "[Daily] I can\'t sleep", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> is asking for your help in hunting 30 Firewind Kites again to help him sleep peacefully."}
+, Summary = "", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16550] = {Title = "[Cooldown] I can\'t sleep", IconName = "ico_dq.bmp", 
+Description = {"Ahir seems to be sleep peacefully tonight. Let\'s come back to <NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> tomorrow and see whether he needs help again."}
+, Summary = "04시 초기화", CoolTimeQuest = 1, NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 147, NpcPosY = 97}
+, 
+[16551] = {Title = "Collecting Folklore (1)", IconName = "ico_ep.bmp", 
+Description = {"Take the notebook Gudra gave you and go to <NAVI>[Dinar]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI> and write down the amazing story."}
+, Summary = "Talk to Dinar", NpcSpr = "4_F_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 106, NpcPosY = 224}
+, 
+[16552] = {Title = "Collecting Folklore (2)", IconName = "ico_ep.bmp", 
+Description = {"Take the notebook Gudra gave you and go to <NAVI>[Amira]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI> and write down the story about the mysterious gods."}
+, Summary = "Talk to Amira", NpcSpr = "4_F_DESERT", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 204}
+, 
+[16553] = {Title = "Collecting Folklore (3)", IconName = "ico_ep.bmp", 
+Description = {"Take the notebook Gudra gave you and go to <NAVI>[Shanina]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI> and write down the old stories."}
+, Summary = "Talk to Shanina", NpcSpr = "4_F_DST_GRAND", NpcNavi = "wolfvill", NpcPosX = 154, NpcPosY = 184}
+, 
+[16554] = {Title = "Collecting Folklore (4)", IconName = "ico_ep.bmp", 
+Description = {"We\'ve collected all of today\'s stories. Let\'s return to <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> with the collected stories."}
+, Summary = "Talk to Gudra", NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16555] = {Title = "[Daily] Dinar\'s Story", IconName = "ico_dq.bmp", 
+Description = {"Take the notebook Gudra gave you and go to <NAVI>[Dinar]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI> and write down the amazing story."}
+, Summary = "Talk to Dinar", NpcSpr = "4_F_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 106, NpcPosY = 224}
+, 
+[16556] = {Title = "[Daily] Amira\'s Story", IconName = "ico_dq.bmp", 
+Description = {"Take the notebook Gudra gave you and go to <NAVI>[Amira]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI> and write down the story about the mysterious gods."}
+, Summary = "Talk to Amira", NpcSpr = "4_F_DESERT", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 204}
+, 
+[16557] = {Title = "[Daily] Shanina\'s Story", IconName = "ico_dq.bmp", 
+Description = {"Take the notebook Gudra gave you and go to <NAVI>[Shanina]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI> and write down the old stories."}
+, Summary = "Talk to Shanina", NpcSpr = "4_F_DST_GRAND", NpcNavi = "wolfvill", NpcPosX = 154, NpcPosY = 184}
+, 
+[16558] = {Title = "[Daily] Collecting Folklore", IconName = "ico_dq.bmp", 
+Description = {"We\'ve collected all of today\'s stories. Let\'s return to <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> with the collected stories."}
+, Summary = "Talk to Gudra", NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16559] = {Title = "[Cooldown] Collecting Folklore", IconName = "ico_dq.bmp", 
+Description = {"Let\'s come back to <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> tomorrow and see whether she needs help again."}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1, NpcSpr = "4_F_SHABBY", NpcNavi = "wolfvill", NpcPosX = 61, NpcPosY = 170}
+, 
+[16560] = {Title = "Ahab\'s Gossip (1)", IconName = "ico_ep.bmp", 
+Description = {"A group of young men are seen complaining about someone near the lake.", "Let\'s listen to the gossip from <NAVI>[Kayar]<INFO>wolfvill,83,109,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Kayar", NpcSpr = "4W_M_03", NpcNavi = "wolfvill", NpcPosX = 83, NpcPosY = 109}
+, 
+[16561] = {Title = "Ahab\'s Gossip (2)", IconName = "ico_ep.bmp", 
+Description = {"They say the only people who can help them are adventurers...", "Let\'s hear from <NAVI>[Desel]<INFO>wolfvill,87,109,0,101,0</INFO></NAVI> to find out why."}
+, Summary = "Talk to Desel", NpcSpr = "4_M_DESERT", NpcNavi = "wolfvill", NpcPosX = 87, NpcPosY = 109}
+, 
+[16562] = {Title = "Ahab\'s Gossip (3)", IconName = "ico_ep.bmp", 
+Description = {"They were asked to meet in person the person they were talking about. Let\'s visit <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Ahab", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16563] = {Title = "Ahab\'s Gossip (4)", IconName = "ico_ep.bmp", 
+Description = {"It seems there is nothing I can do. Let\'s go to <NAVI>[Merno Mart]<INFO>rachel,135,64,0,101,0</INFO></NAVI> in Rachel and buy a bottle of Cucumber Sauce."}
+, Summary = "Buy Cucumber Sauce", NpcSpr = "4_M_RACHMAN2", NpcNavi = "rachel", NpcPosX = 135, NpcPosY = 64}
+, 
+[16564] = {Title = "Ahab\'s Gossip (5)", IconName = "ico_ep.bmp", 
+Description = {"I purchased some Cucumber Sauce, with my money.....", "Return to <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI> and complete the errand."}
+, Summary = "Talk to Ahab", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16565] = {Title = "Ahab\'s Gossip (6)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s persuade <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>, who is busy eating with sauce."}
+, Summary = "Persuade Ahab", NpcSpr = "4_M_MIDDLE1", NpcNavi = "wolfvill", NpcPosX = 127, NpcPosY = 155}
+, 
+[16566] = {Title = "Ahab\'s Gossip (7)", IconName = "ico_ep.bmp", 
+Description = {"Ahab says he will change his mind and asks you to tell this to others.", "Let\'s tell Ahab\'s decision to <NAVI>[Zlan]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI> and the others."}
+, Summary = "Tell Ahab\'s decision", NpcSpr = "4_M_RACHMAN1", NpcNavi = "wolfvill", NpcPosX = 85, NpcPosY = 111}
+, 
+[16567] = {Title = "Gray Wolf Forest Tournament (1)", IconName = "ico_ep.bmp", 
+Description = {"The Great Conference of the Gray Wolf Forest will soon begin. Let\'s go meet <NAVI>[Suad]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI> where people are gathered."}
+, Summary = "Talk to Suad", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 144, NpcPosY = 151}
+, 
+[16568] = {Title = "People\'s Opinion (1)", IconName = "ico_ep.bmp", 
+Description = {"I was advised to come after hearing various opinions. Let\'s hear the opinion of <NAVI>[Passionate Young Man]<INFO>wolfvill,145,146,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Passionate Young Man", NpcSpr = "4_EP18_GW_MAN01", NpcNavi = "wolfvill", NpcPosX = 145, NpcPosY = 146}
+, 
+[16569] = {Title = "People\'s Opinion (2)", IconName = "ico_ep.bmp", 
+Description = {"I was advised to come after hearing various opinions. Let\'s hear the opinion of <NAVI>[Native Old Man]<INFO>wolfvill,139,148,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Native Old Man", NpcSpr = "4_EP18_GW_OLD01", NpcNavi = "wolfvill", NpcPosX = 139, NpcPosY = 148}
+, 
+[16570] = {Title = "People\'s Opinion (3)", IconName = "ico_ep.bmp", 
+Description = {"I was advised to come after hearing various opinions. Let\'s hear the opinion of <NAVI>[Passionate Old Man]<INFO>wolfvill,150,147,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Passionate Old Man", NpcSpr = "4_M_MIDDLE", NpcNavi = "wolfvill", NpcPosX = 150, NpcPosY = 147}
+, 
+[16571] = {Title = "People\'s Opinion (4)", IconName = "ico_ep.bmp", 
+Description = {"I was advised to come after hearing various opinions. Let\'s hear the opinion of <NAVI>[Timid Young Man]<INFO>wolfvill,152,145,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Timid Young Man", NpcSpr = "4_M_RACHMAN1", NpcNavi = "wolfvill", NpcPosX = 152, NpcPosY = 145}
+, 
+[16572] = {Title = "Gray Wolf Forest Tournament (2)", IconName = "ico_ep.bmp", 
+Description = {"I think I have listened enough opinions of the people of Gray Wolf Forest. Let\'s go back to <NAVI>[Suad]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Suad", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 144, NpcPosY = 151}
+, 
+[16573] = {Title = "Source of Weapons (1)", IconName = "ico_ep.bmp", 
+Description = {"After the meeting, <NAVI>[Miriam]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI> quietly called you and the others. What\'s going on?"}
+, Summary = "Talk to Miriam", NpcSpr = "4_EP18_MIRIAM", NpcNavi = "wolfvill", NpcPosX = 148, NpcPosY = 151}
+, 
+[16574] = {Title = "Source of Weapons (2)", IconName = "ico_ep.bmp", 
+Description = {"With Maram, go to the armed <NAVI>[Radical Youth]<INFO>wolfvill,143,145,0,101,0</INFO></NAVI> and find out the source of the weapon."}
+, Summary = "Talk to Radical Youth", NpcSpr = "4_M_RASWORD", NpcNavi = "wolfvill", NpcPosX = 143, NpcPosY = 145}
+, 
+[16575] = {Title = "Source of Weapons (3)", IconName = "ico_ep.bmp", 
+Description = {"To find out where the weapon came from, you must call <NAVI>[Bearded Jack]<INFO>rachel,75,44,0,101,0</INFO></NAVI> for the password."}
+, Summary = "Talk to Bearded Jack", NpcSpr = "4_M_MIDDLE1", NpcNavi = "rachel", NpcPosX = 75, NpcPosY = 44}
+, 
+[16576] = {Title = "Source of Weapons (4)", IconName = "ico_ep.bmp", 
+Description = {"Bearded Jack introduced the adventurer and Maram to <NAVI>[Dandelion]<INFO>veins,293,282,0,101,0</INFO></NAVI>, a Veins weapon dealer."}
+, Summary = "Talk to Dandelion", NpcSpr = "4_M_DESERT", NpcNavi = "veins", NpcPosX = 293, NpcPosY = 282}
+, 
+[16577] = {Title = "Source of Weapons (5)", IconName = "ico_ep.bmp", 
+Description = {"Maram guided the adventurer, saying that he knew the shortcut to <NAVI>[Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>."}
+, Summary = "Contact with Maram", NpcSpr = "4_EP18_MARAM", NpcNavi = "que_thr", NpcPosX = 133, NpcPosY = 53}
+, 
+[16578] = {Title = "Source of Weapons (6)", IconName = "ico_ep.bmp", 
+Description = {"Who I met inside <NAVI>[Thor Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI> was an unexpected person."}
+, Summary = "Talk to Miriam", NpcSpr = "4_EP18_MIRIAM"}
+, 
+[16579] = {Title = "Source of Weapons (7)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s talk to Maram at <NAVI>[Thor Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI> about the clues you obtained."}
+, Summary = "Talk to Maram", NpcSpr = "4_EP18_MARAM"}
+, 
+[16580] = {Title = "Source of Weapons (8)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s quickly explain what we found out at the Thor Military Base to <NAVI>[Suad]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Suad", NpcSpr = "4_EP18_SUAD", NpcNavi = "wolfvill", NpcPosX = 140, NpcPosY = 112}
+, 
+[16581] = {Title = "Even children know (1)", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Kar]<INFO>rachel,37,41,0,101,0</INFO></NAVI>\'s eyes widened when Naiman said that he had no money."}
+, Summary = "Talk to Kar=],\n\tNpcSpr = [=[4_M_RACHMAN1", NpcNavi = "rachel", NpcPosX = 37, NpcPosY = 41}
+, 
+[16582] = {Title = "Even children know (2)", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Luccy]<INFO>rachel,40,45,0,101,0</INFO></NAVI> frowned when she saw Nai looking angry with a straight face."}
+, Summary = "Talk to Luccy", NpcSpr = "4_M_DST_CHILD", NpcNavi = "rachel", NpcPosX = 40, NpcPosY = 45}
+, 
+[16583] = {Title = "Even children know (3)", IconName = "ico_ep.bmp", 
+Description = {"Why on earth did <NAVI>[Naiman]<INFO>rachel,36,45,0,101,0</INFO></NAVI> choose these kids as friends? Let\'s ask directly."}
+, Summary = "Talk to Naiman", NpcSpr = "4_F_DST_CHILD", NpcNavi = "rachel", NpcPosX = 36, NpcPosY = 45}
+, 
+[16584] = {Title = "The Price of Labor (1)", IconName = "ico_ep.bmp", 
+Description = {"Amodipine wants help to receive overdue salary. Let\'s talk to Amodipine\'s employer, <NAVI>[Dahil]<INFO>rachel,136,95,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Dahil", NpcSpr = "4_M_RACHMAN2", NpcNavi = "rachel", NpcPosX = 136, NpcPosY = 95}
+, 
+[16585] = {Title = "The Price of Labor (2)", IconName = "ico_ep.bmp", 
+Description = {"Dahil was very upset, but listened to the story anyway. Let\'s go to <NAVI>[Amodipine]<INFO>rachel,181,51,0,101,0</INFO></NAVI> and tell the news."}
+, Summary = "Talk to Amodipine", NpcSpr = "4_M_MIDDLE", NpcNavi = "rachel", NpcPosX = 181, NpcPosY = 51}
+, 
+[17504] = {Title = "Where is My Home (1)", IconName = "ico_ep.bmp", 
+Description = {"Adventurer, I have a favor to ask. A state-of-the-art clinic is a must here. Please persuade the <NAVI>[Elder]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to the Old Man"}
+, 
+[17505] = {Title = "Where is My Home (2)", IconName = "ico_ep.bmp", 
+Description = {"We\'ll go and talk about the clinic matter with <NAVI>[him]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI> one more time later, so it would be best for outsiders to stay out of this matter."}
+, Summary = "Failed to Persuade"}
+, 
+[17506] = {Title = "Where is My Home (3)", IconName = "ico_ep.bmp", 
+Description = {"It seems Ezekiel is asking for some Steel. Let\'s bring 3 of them <NAVI>[here]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>."}
+, Summary = "Collect 3 Steel"}
+, 
+[17507] = {Title = "Where is My Home (4)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s talk to <NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI> who helps another villager."}
+, Summary = "Treatment Process"}
+, 
+[17508] = {Title = "[Daily] Shortage of Supplies", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI> asked you to bring 1 <ITEM>[Steel]<INFO>999</INFO></ITEM> and 10 <ITEM>[Very Unusual Crystal]<INFO>1000406</INFO></ITEM>.", "Very Unusual Crystal can be obtained from ^FF0000Gray Wolf^000000."}
+, Summary = "Gather Required Materials"}
+, 
+[17509] = {Title = "[Cooldown] Shortage of Supplies", IconName = "ico_dq.bmp", 
+Description = {"Adventurer, thank you for your hard work. Take a break today and I\'ll see you again after dawn!", " ", "- <NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>"}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1}
+, 
+[17510] = {Title = "There are no evil beasts in this world (1)", IconName = "ico_ep.bmp", 
+Description = {"<NAVI>[Aisha]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI> seems want to guide you to train a baby gray wolf."}
+, Summary = "Talk to Aisha"}
+, 
+[17511] = {Title = "There are no evil beasts in this world (2)", IconName = "ico_ep.bmp", 
+Description = {"As long as you have a Meat, training a <NAVI>[Baby Gray Wolf]<INFO>wolfvill,100,177,0,101,0</INFO></NAVI> will not be a problem."}
+, Summary = "Give Meat to Baby Gray Wolf"}
+, 
+[17512] = {Title = "There are no evil beasts in this world (3)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s get back to <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI> and tell you are ready to become part of the village."}
+, Summary = "Talk to Scania"}
+, 
+[17513] = {Title = "An Unexpected Shepherd (1)", IconName = "ico_dq.bmp", 
+Description = {"It seems the goat likes to graze in the <NAVI>[forest]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI>. Let\'s protect it while it\'s grazing."}
+, Summary = "Go to the Forest"}
+, 
+[17514] = {Title = "An Unexpected Shepherd (2)", IconName = "ico_dq.bmp", 
+Description = {"Let\'s defeat 20 Ashring while <NAVI>[Boksil]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI> is grazing."}
+, Summary = "Defeat 20 Ashring"}
+, 
+[17515] = {Title = "An Unexpected Shepherd (3)", IconName = "ico_dq.bmp", 
+Description = {"Let\'s report back to <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI> and return Boksil."}
+, Summary = "Talk to Scania"}
+, 
+[17516] = {Title = "[Cooldown] An Unexpected Shepherd", IconName = "ico_dq.bmp", 
+Description = {"Adventurer, you worked hard. Then please ask again tomorrow! - <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>"}
+, Summary = "Reset after 20 hours.", CoolTimeQuest = 1}
+, 
+[17517] = {Title = "Rebellion (1)", IconName = "ico_ep.bmp", 
+Description = {"We need to warn <NAVI>[those guys]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI> about the weapons."}
+, Summary = "Check the truth"}
+, 
+[17518] = {Title = "Rebellion (2)", IconName = "ico_ep.bmp", 
+Description = {"Although the punishment was relatively light, <NAVI>[Wolves]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI> seem to be very dissatisfied."}
+, Summary = "People Rebel"}
+, 
+[17519] = {Title = "Rebellion (3)", IconName = "ico_ep.bmp", 
+Description = {"Well, now that it\'s decided, let\'s hurry. Tell them to gather <NAVI>[in front of the temple]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."}
+, Summary = "Start the Protest!"}
+, 
+[17520] = {Title = "Wolf Among Sheep (1)", IconName = "ico_ep.bmp", 
+Description = {"Let\'s participate in the protest at <NAVI>[Rachel]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."}
+, Summary = "Go to the temple"}
+, 
+[17521] = {Title = "Wolf Among Sheep (2)", IconName = "ico_ep.bmp", 
+Description = {"Everyone is moving to <NAVI>[Safe Place]<INFO>rachel,116,200,0,101,0</INFO></NAVI>."}
+, Summary = "Let\'s evacuate quickly"}
+, 
+[17522] = {Title = "Wolf Among Sheep (3)", IconName = "ico_dq.bmp", 
+Description = {"The main forces that infiltrated the temple have escaped, but please clean up the temple guards who have crossed over to the Heart Hunters! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "Defeat the Traitors"}
+, 
+[17523] = {Title = "Sanctuary Purification", IconName = "ico_dq.bmp", 
+Description = {"The remnants of the Heart Hunters still lingering in the Sanctuary Sessrumnir Heart Storage. Let\'s clear them out! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "Clear the Heart Hunters"}
+, 
+[17524] = {Title = "[Completed] Renegade Cleaning", IconName = "ico_dq.bmp", 
+Description = {"The operation to clear out the traitors has been completed. Let\'s report back to the <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."}
+, Summary = "Report to the Priest"}
+, 
+[17525] = {Title = "Aftermath", IconName = "ico_ep.bmp", 
+Description = {"Miriam said she had someone to accompany her and asked her to meet separately at the Maze of Oz. Let\'s wait at the appointment <NAVI>[location]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>."}
+, Summary = "Go to the meeting place"}
+, 
+[17526] = {Title = "[Completed] Sanctuary Purification", IconName = "ico_dq.bmp", 
+Description = {"The operation to clear out the Heart Hunters has been completed. Let\'s report back to the <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."}
+, Summary = "Report to the Priest"}
+, 
+[17527] = {Title = "[Cooldown] Sanctuary Purification", IconName = "ico_dq.bmp", 
+Description = {"Thank you adventurer for your cooperation. Please rest today and cooperate again tomorrow! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1}
+, 
+[18082] = {Title = "Eligibility to attend the competition", IconName = "ico_ep.bmp", 
+Description = {"I was recognized as a member of the Gray Wolf Village and was eligible to attend the grand meeting.", "Let\'s ask <NAVI>[Village Boy]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI> where the grand meeting will be held."}
+, Summary = "Ask the Village Boy", NpcSpr = "4_M_DST_CHILD", NpcNavi = "wolfvill", NpcPosX = 180, NpcPosY = 179}
+, 
+[18083] = {Title = "High Priest\'s Villa", IconName = "ico_ep.bmp", 
+Description = {"You decided to investigate High Priest Amal\'s villa to find the whereabouts of Bagot and the Heart Hunter.", "with hope to interfere Bagot and High Priest Amal\'s plans."}
+, Summary = "Investigate the Villa"}
+, 
+[18084] = {Title = "Fact Finding", IconName = "ico_ep.bmp", 
+Description = {"We must find out what High Priest Amal\'s true purpose was and why he cooperated with the Illusion.", "Let\'s talk to <NAVI>[Miriam]<INFO>ra_temin,254,117,0,101,0</INFO></NAVI> in Sessrumnir."}
+, Summary = "Talk to Miriam"}
+, 
+[18085] = {Title = "Direction of Prayer", IconName = "ico_ep.bmp", 
+Description = {"Elly appeared in a strange form at the Sanctuary of Sessrumnir. It looks like she has something important to say.", "Let\'s talk to <NAVI>[Elly]<INFO>ra_temin,258,117,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Elly"}
+, 
+[18086] = {Title = "[Daily] Gray Wolf Forest Hunting", IconName = "ico_dq.bmp", 
+Description = {"The <NAVI>[Gatekeeper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI> asked you to hunt the monsters in the Gray Wolf Forest to make the village safer."}
+, Summary = "Hunt Monsters in Gray Wolf Forest", NpcSpr = "4_M_SITDOWN", NpcNavi = "gw_fild01", NpcPosX = 32, NpcPosY = 101}
+, 
+[18087] = {Title = "[Cooldown] Gray Wolf Forest Hunting", IconName = "ico_dq.bmp", 
+Description = {"It seems the <NAVI>[Gatekeeper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI> is expecting you to help with the hunt again tomorrow."}
+, Summary = "Reset after 20 hours", CoolTimeQuest = 1, NpcSpr = "4_M_SITDOWN", NpcNavi = "gw_fild01", NpcPosX = 32, NpcPosY = 101}
+, 
+[297029] = {Title = "Easter Egg Hunt", 
+Description = {" Let\'s find 5 easter eggs. It is probably somewhere in lasagna field."}
+, Summary = "Talk to Eggministrator"}
+, 
+[297030] = {Title = "Easter Egg Hunt Complete", 
+Description = {" Found all easter eggs. Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna."}
+, Summary = "Talk to Eggministrator"}
+, 
+[297031] = {Title = "[Cooldown] Easter Egg Hunt", 
+Description = {"Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna.", "Joined Easter Egg Hunt already. Try again after ^ff000020 hours^000000 to join the Egg Hunt."}
+, Summary = "Reset every 20 hours", CoolTimeQuest = 1}
+, 
+[3407] = {Title = "Illusion of Underwater I", 
+Description = {"Let\'s take Shirud\'s fishing rod to <NAVI>[Oceanologist Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."}
+, Summary = "Talk to Jerimon"}
+, 
+[3408] = {Title = "Illusion of Underwater II", 
+Description = {"Bring the Abyssal Essence received from Gein to <NAVI>[Oceanologist Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."}
+, Summary = "Deliver Essence to Jerimon"}
+, 
+[3409] = {Title = "Illusion of Underwater III", 
+Description = {"Let\'s return to <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI> with Jerimon and create a vortex that connects to the deep sea."}
+, Summary = "Talk to Jerimon in Izlude"}
+, 
+[3410] = {Title = "Illusion of Underwater IV", 
+Description = {"Sirud asks you to take him with you when you return to the surface."}
+, Summary = "Return with Sirud"}
+, 
+[3411] = {Title = "Illusion of Underwater V", 
+Description = {"Defeat 10 of ^4d4dffAbysmal Sropho^000000, ^4d4dffAbysmal Deviace^000000, and ^4d4dffAbysmal Marse^000000 each."}
+, Summary = "Defeat Abysmal Creatures"}
+, 
+[3412] = {Title = "Illusion of Underwater VI", 
+Description = {"Collect 10 ^4d4dffAbyssal Essence^000000 and bring it to <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."}
+, Summary = "Collect 10 Abyssal Essence"}
+, 
+[3413] = {Title = "[Daily] Collect Abyssal Essence", IconName = "ico_dq.bmp", 
+Description = {"Collect 10 ^4d4dffAbyssal Essence^000000 and bring it to <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."}
+, Summary = "Collect 10 Abyssal Essence"}
+, 
+[3414] = {Title = "[Cooldown] Collect Abyssal Essence", IconName = "ico_dq.bmp", 
+Description = {"You have finished the task for today. Talk to <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> tomorrow to accept the quest again."}
+, Summary = "Reset at 4 AM"}
+, 
+[3415] = {Title = "[Daily] Defeat Abysmal Creatures I", IconName = "ico_dq.bmp", 
+Description = {"Defeat 10 of ^4d4dffAbysmal Sropho^000000, ^4d4dffAbysmal Deviace^000000, and ^4d4dffAbysmal Marse^000000 each."}
+, Summary = "Defeat Abysmal Creatures"}
+, 
+[3416] = {Title = "[Cooldown] Defeat Abysmal Creatures I", IconName = "ico_dq.bmp", 
+Description = {"You have finished the task for today. Talk to <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> tomorrow to accept the quest again."}
+, Summary = "Reset at 4 AM"}
+, 
+[3417] = {Title = "[Daily] Defeat Abysmal Creatures II", IconName = "ico_dq.bmp", 
+Description = {"Defeat 10 of ^4d4dffAbysmal Swordfish^000000, ^4d4dffAbysmal Phen^000000, and ^4d4dffAbysmal King Dramoh^000000 each."}
+, Summary = "Defeat Abysmal Creatures"}
+, 
+[3418] = {Title = "[Cooldown] Defeat Abysmal Creatures II", IconName = "ico_dq.bmp", 
+Description = {"You have finished the task for today. Talk to <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> tomorrow to accept the quest again."}
+, Summary = "Reset at 4 AM"}
+, 
+[3419] = {Title = "[Daily] Defeat Abysmal Creatures III", IconName = "ico_dq.bmp", 
+Description = {"Defeat 15 of ^4d4dffAbysmal Sedora^000000 and ^4d4dffAbysmal Strouf^000000 each."}
+, Summary = "Defeat Abysmal Creatures"}
+, 
+[3420] = {Title = "[Cooldown] Defeat Abysmal Creatures III", IconName = "ico_dq.bmp", 
+Description = {"You have finished the task for today. Talk to <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> tomorrow to accept the quest again."}
+, Summary = "Reset at 4 AM"}
+, 
+[14518] = {Title = "Bubble gum reuse time", 
+Description = {"You can receive the bubble gum effect service twice every day until the reset time."}
+, Summary = "Reset at 04 AM", CoolTimeQuest = 1}
+, 
+[14519] = {Title = "JOB Manual reuse time", 
+Description = {"You can receive the JOB Combat Manual effect service twice every day until reset time."}
+, Summary = "Reset at 04 AM", CoolTimeQuest = 1}
+, 
+[14688] = {Title = "My name is Shorty", 
+Description = {"My name is Shorty! Be good to me!"}
+, Summary = "Take care!"}
+, 
+[14689] = {Title = "Help me Shorty", 
+Description = {"You called Shorty for the first time. Way to go, Sunsammie!"}
+, Summary = "You sang Shorty for the first time"}
+, 
+[14690] = {Title = "To the Kritura Academy", 
+Description = {"Let\'s go meet our <NAVI>[Lena]<INFO>iz ac01,85,44,000,0,</INFO></NAVI>. She\'s an instructor at the Kritura Academy in Izrud."}
+, Summary = "Academy Instructor Lena"}
+, 
+[14691] = {Title = "Prontera Cathedral", 
+Description = {"Sunsammi!!! <NAVI>[Margarita]<INFO>prt church,112,119,000,0,</INFO></NAVI> wants to meet me! She\'s the choir director at Prontera Cathedral, so if you\'re free, please stop by."}
+, Summary = "choir director"}
+, 
+[14692] = {Title = "To Kritura Academy", 
+Description = {"Sunsammi, Solti\'s friend and mine, Suza, wants to tell you about a job! <NAVI>[Suza]<INFO>iz ac02,205,41,000,0,</INFO></NAVI> works as a former receptionist on the second floor of Kritura Academy."}
+, Summary = "Former receptionist Souza"}
+, 
+[14693] = {Title = "To Payon", 
+Description = {"Sunsammi, I miss Saltie so much. She\'s in <NAVI>[Payon\'s Inn]<INFO>payon in01,193,23,000,0,</INFO></NAVI>, so let\'s go find her. I want to see Solti. "}
+, Summary = "Saltie is in the tavern"}
+, 
+[14694] = {Title = "Prontera Fields", 
+Description = {"Saltie sent me to <NAVI>[Prontera South-Southwest Fields]<INFO>prt fild10,318,191,000,0,</INFO></NAVI> to get the acorns from Coco. Go there."}
+, Summary = "Solti is on Prontera."}
+, 
+[14695] = {Title = "Come on, Sunsammi!", 
+Description = {"I\'m giving you Agility and Blessing. I\'ll give it to you again in 30 minutes, but in the meantime, cheer up, my little Sunsammie! I\'ll give you as much as you need to reach level 30. - Shorty"}
+, Summary = "Come on!"}
+, 
+[16147] = {Title = "Report to the guards", 
+Description = {"Let\'s take the captured criminal to <NAVI>[Guard Rachel]<INFO>rachel,142,181,0,101,1</INFO></NAVI>."}
+, Summary = "Report to Guard"}
+, 
+[16148] = {Title = "Great Growth", 
+Description = {"Return to <NAVI>[Kritura Academy]<INFO>iz ac01,97,49,0,101,1</INFO></NAVI> and report to Castegna in charge."}
+, Summary = "Report to Kritura"}
+, 
+[16149] = {Title = "Toward the Otherworld", 
+Description = {"After visiting the Otherworld via Paradise <NAVI>[Cat\'s paw top]<INFO>moc para01,44,19,0,101,1</INFO></NAVI>, return to Paradise and tell Leno and Rumin."}
+, Summary = "Visit the Otherworld"}
+, 
+[16150] = {Title = "Royally", 
+Description = {"Return to Paradise and tell Leno and Rumin about what happened after you accepted the royal courier\'s invitation."}
+, Summary = "Accept the Royal Envoy\'s invitation"}
+, 
+[16151] = {Title = "Pantas Magorica", 
+Description = {"Become a member of the Fantasmagorica Investigation Team."}
+, Summary = "Pantas Magorica"}
+, 
+[16152] = {Title = "To Thanatos Tower", 
+Description = {"Go to <NAVI>[Thanatos Tower]<INFO>tha t01,160,84,0,101,1</INFO></NAVI> to complete the quest \'In Mimic\'s Box\' and return to Paradise to report to Leno and Rumin."}
+, Summary = "Complete Inside Mimic\'s Box"}
+, 
+[16153] = {Title = "Euphorus", 
+Description = {"Go to <NAVI>[Euphoros]<INFO>yuno fild07,232,176,0,101,1</INFO></NAVI> to complete the \'Iron Ants-1\' request and return to Paradise to report to Leno and Rumin."}
+, Summary = "Completed Iron Ants-1"}
+, 
+[16154] = {Title = "Inside the Biome", 
+Description = {"Go to <NAVI>[Lighthalzen]<INFO>lighthalzen,218,202,0,101,1</INFO></NAVI> to complete the \'Ignisem Cenia\' request from the Biothrallion and report back to Leno and Rumin at the Paradise Corps."}
+, Summary = "Completed Ignigem Xenia"}
+, 
+[16155] = {Title = "To the Dragon\'s Nest", 
+Description = {"Let\'s visit the 2nd floor of the Dragon\'s Nest"}
+, Summary = "Lasagna Visit the 2nd floor of the Dragon\'s Nest"}
+, 
+[16156] = {Title = "HELP!", 
+Description = {"Return to <NAVI>[Leno]<INFO>glast 01,212,126,0,101,1</INFO></NAVI> after completing the \'Cleanse the Monastery\' quest in Glastheim."}
+, Summary = "Talk to Leno after completing the Monastery Purification"}
+, 
+[16157] = {Title = "To Aldebaran", 
+Description = {"Go to <NAVI>[Aldebaran]<INFO>aldebaran,117,167,0,101,1</INFO></NAVI> and meet Rumin and Leno."}
+, Summary = "To Aldebaran"}
+, 
+[16158] = {Title = "An invisible helping hand", 
+Description = {"Help Leno with the \'A Name for the Valley of the Dead\' quest in Lighthalzen and go to <NAVI>[Lumine]<INFO>lighthalzen,251,312,0,101,1</INFO></NAVI>."}
+, Summary = "Talk to Rumin after completing A Name for the Valley of the Reaper"}
+, 
+[16159] = {Title = "The ingredients are all gathered", 
+Description = {"We\'ve found all the clues. Let\'s go back to <NAVI>[Rumin]<INFO>rachel,129,134,0,101,1</INFO></NAVI> and talk to her."}
+, Summary = "Report to Rumin"}
+, 
+[16160] = {Title = "Kritura Souvenirs", 
+Description = {""}
+, Summary = ""}
+, 
+[21001] = {Title = "Shipwreck Escape", 
+Description = {"You are traveling on a ship that has been wrecked on a deserted island due to a storm. Inform the captain that there are still injured people on board."}
+, Summary = "Talk to the captain"}
+, 
+[21002] = {Title = "First Battle", 
+Description = {"You have been asked to capture a Forling who has stolen the ship\'s repair materials, recover two pieces of lumber, and deliver them to the crew. Defeat the Forging nearby and retrieve the wood."}
+, Summary = "Deliver 2 pieces of wood to the sailor"}
+, 
+[21003] = {Title = "Something for motion sickness", 
+Description = {"I decided to get my friend Leno, whom I met while traveling, something to drink to relieve his motion sickness. Let\'s ask the ^4d4dffhealer^000000 at the ^4d4dffKritura Gakuen healing center^000000 about herbal medicine."}
+, Summary = "Ask the healer a herbalism question"}
+, 
+[21004] = {Title = "Basic herbalism", 
+Description = {"The healer wants you to find the red herb for the potion. Let\'s find the ^4d4dffRed Grass^000000 outside the main gate of Kritura."}
+, Summary = "Find the red grass outside the main entrance"}
+, 
+[21005] = {Title = "Save location!", 
+Description = {"I got a good one."}
+, Summary = ""}
+, 
+[21006] = {Title = "Good news for Leno", 
+Description = {"I think you can tell Leno what you got from the therapist."}
+, Summary = "Talk to Leno"}
+, 
+[21007] = {Title = "First time meeting a friend", 
+Description = {"I got to know a good friend."}
+, Summary = ""}
+, 
+[21008] = {Title = "First Battle", 
+Description = {"You have been asked to capture a Forling who has stolen the ship\'s repair materials, recover two pieces of lumber, and deliver them to the crew. Defeat the Forging nearby and retrieve the wood."}
+, Summary = "Deliver 2 pieces of wood to the sailor"}
+, 
+[21009] = {Title = "Sparky\'s Call", 
+Description = {"The Guild has been summoned by the Order of Paradise. Meet <NAVI>[Spraki]<INFO>iz ac01,102,44,000,0</INFO></NAVI> at the Kritura Academy in northern Izrud."}
+, Summary = "Talk to Sprarky"}
+, 
+[21011] = {Title = "Durevak\'s Liquor", 
+Description = {"You\'ve been asked by an old man in Fey\'yon to draw up some liquor from a well. Let\'s see if you can raise the liquor in the stave from the neighboring well once and for all."}
+, Summary = "Raising the stave from the well"}
+, 
+[21012] = {Title = "The Grandson\'s Whereabouts", 
+Description = {"You need to find your grandfather\'s grandson who snuck out of Archer Village in northern Feyon. Talk to the guard in front of the cave that says he is in Archer Village."}
+, Summary = "Talk to the guard at the cave"}
+, 
+[21013] = {Title = "I look for one, but there is no one", 
+Description = {"Leno is still in the cave, looking for his grandson. You can\'t go back now that you\'ve named him. Let\'s find Leno in Peyon Cave."}
+, Summary = "Talk to Leno in the cave"}
+, 
+[21014] = {Title = "Smelly, slippery ghost", 
+Description = {"If you are a zombie, you must kill 5 zombies in the area for Leno, who is freaking out."}
+, Summary = "Hunt Zombie for Leno"}
+, 
+[21015] = {Title = "Undead War", 
+Description = {"The growing number of zombies and skeletons is overwhelming the Feyon guards. You have been asked to kill 10 zombies and 20 skeletons to reduce their numbers. The skeletons won\'t appear until you get deeper into the cave."}
+, Summary = "kill undead in Peyon Cave"}
+, 
+[21016] = {Title = "UndeadWar-Rest", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from a soldier in Feyon Archer Village."}
+, Summary = "Reset at 04:00"}
+, 
+[21017] = {Title = "Soul Purification Ritual", 
+Description = {"You need \'Banhonbu\' to purify the souls of the grieving spirits of the villagers who were buried in the past. Defeat Munak and Vaughan to collect the Half-Horned Parts. Munak and Vaughn appear on the 3rd floor of Feyon Cave."}
+, Summary = "Banhonbu Chapter 15"}
+, 
+[21018] = {Title = "Soul Purification Ritual - Rest", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from a soldier in Feyon Archer Village."}
+, Summary = "Reset at 04:00"}
+, 
+[21019] = {Title = "Sorrow soothed by a cup of sake", 
+Description = {"A monk of great power asks you to appease a ghost fire with clear liquor in exchange for 10 spirit breaths. The clear liquor can be obtained from Feiyon\'s grandfather, and the ghost fire can be found in the Abandoned Village on the 4th floor of Feiyon\'s cave."}
+, Summary = "10 Spirit Breaths"}
+, 
+[21020] = {Title = "Sorrow soothed with a drink - relaxation", 
+Description = {"This quest is a daily quest that can be picked up again when the cooldown expires. The quest can be obtained from the Wandering Monk on the 2nd floor of Feyon Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21021] = {Title = "Traces of magic", 
+Description = {"You don\'t know why you need a Girl\'s Handkerchief to find the Trace of Magic, but a young scholar has asked for three of them. You can get them from Sohee in the Abandoned Village of Feiyon Cave."}
+, Summary = "Girl\'s Handkerchief 3"}
+, 
+[21022] = {Title = "Traces of Magic - Rest", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from the Young Bachelor of Feyon."}
+, Summary = "Reset at 04:00"}
+, 
+[21023] = {Title = "Fox Hunting", 
+Description = {"The fox fiend Yue Yahua is responsible for the souls being bound in the abandoned village. The elders of Feiyon have decided to kill her. Take the ^4d4dffFox Orb^000000 obtained after defeating Wolya Hua and go to the Buddha statue in Archer Village^000000."}
+, Summary = "After getting the orb, talk to the elder in front of the Buddha statue"}
+, 
+[21024] = {Title = "The Fox Hunt Continues", 
+Description = {"The Moonflower of Lung Family Village refuses to leave the village, giving up her life through tricks and deception. Perhaps the moonflower itself is a mass of spirits that has already died an unjust death like the others."}
+, Summary = "Reset at 04:00"}
+, 
+[21025] = {Title = "A story from a long time ago", 
+Description = {"You heard the story of the formation of the village of Feiyon from an elder."}
+, Summary = ""}
+, 
+[21026] = {Title = "The anxious heart waiting for firewood", 
+Description = {"Your son hasn\'t returned from chopping wood. He may have gone to the forest south of Peiyon to collect firewood. Let\'s find him."}
+, Summary = "Talk to a relaxed Dong Dong"}
+, 
+[21027] = {Title = "What is that tree.", 
+Description = {"To do the tree, you need to catch Willow and get a piece of Dry Wood, which is too hard for you. Instead, Dong Dong will catch 3 Willows and bring them back to you with 2 Dry Wood Chips."}
+, Summary = "2 pieces of dry wood"}
+, 
+[21028] = {Title = "Honeyed labor", 
+Description = {"You\'ve decided to make a tree for your son. Catch 5 Willows in the forest south of Feyon, gather 3 Dry Wood Chips, and bring them to the middle-aged man who will be waiting impatiently."}
+, Summary = "3 pieces of dry wood"}
+, 
+[21029] = {Title = "Honeyed Labor - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Corps bulletin board or from a nervous middle-aged man in Feyon."}
+, Summary = "Reset at 04:00"}
+, 
+[21030] = {Title = "Action for children", 
+Description = {"A lady is worried that her children will be hurt by a \'boa\' coming from the forest east of Payon, so let\'s kill it."}
+, Summary = "boa hunt"}
+, 
+[21031] = {Title = "Professional Snake Hunter", 
+Description = {"I decided to continue my hunt for boas in the forest east of Payon. Today you will kill 5 boas."}
+, Summary = "boa-hunting"}
+, 
+[21032] = {Title = "Pro Snake Hunter - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Corps message board or from the Worried Lady in Feyon."}
+, Summary = "Reset at 04:00"}
+, 
+[21033] = {Title = "Wonderful onion", 
+Description = {"Fayon\'s grandmother saw a strange-looking onion in the forest. It\'s called a \'wormtail\', and she wants to make sure it\'s a real onion, so she asks you to grab it and get one of its \'scaly stalks\'."}
+, Summary = "1 scaly stalk"}
+, 
+[21034] = {Title = "It\'s a noxious onion.", 
+Description = {"After realizing that the wormtail was confusing people, Grandma asked you to kill it. Wormtails can be found in the forests east of Fayon."}
+, Summary = "hunt wormtail"}
+, 
+[21035] = {Title = "It\'s a noxious onion - wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. The quest can be obtained from the Paradise Corps message board or from Fayon\'s Worried Grandmother."}
+, Summary = "Reset at 04:00"}
+, 
+[21036] = {Title = "Wonderful Mushrooms", 
+Description = {"Feyon\'s grandfather saw a strange mushroom in the eastern forest. He asked you to hunt down the mushroom, which he called a \'spoa\', because he was sure it was dangerous."}
+, Summary = "Hunt Spore"}
+, 
+[21037] = {Title = "Before the mushroom world.", 
+Description = {"Fayon\'s grandfather is alarmed by the fecundity of the spores. He wants you to kill them before the forest to the east is overrun with them. Hunt the Spoa!"}
+, Summary = "Hunt a Spore"}
+, 
+[21038] = {Title = "Before You Become a Mushroom Heaven.-Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. The quest can be obtained from the Paradise Corps message board or from Fayon\'s Worried Grandfather."}
+, Summary = "Reset at 04:00"}
+, 
+[21039] = {Title = "I only trust you!", 
+Description = {"Dongdong gives him a tree instead. Dong Dong visits his father, who is waiting for news anyway, and tells him the story."}
+, Summary = "Talk to a nervous middle-aged man"}
+, 
+[21040] = {Title = "Prisoners dreaming of escape", 
+Description = {"In the dungeons of Glastheim itself, a dark force has taken hold, raising the dead and reanimating the undead."}
+, Summary = "Defeat Skellprisoner, Zombieprisoner"}
+, 
+[21041] = {Title = "Prisoners Dreaming of Breaking Out - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Corps bulletin board or from Karon in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21042] = {Title = "Vicious Torturer", 
+Description = {"Demons are said to be sneaking out of the dungeons of Glastheim, taking advantage of the chaos. Nadir tries to help Karon, but it\'s not enough. Nadir asks you to defeat Livio."}
+, Summary = "defeat Livio"}
+, 
+[21043] = {Title = "Vicious Torturer - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Nadir in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21044] = {Title = "Fine Taste", 
+Description = {"The Glastheim dungeons are said to be infested with demons who have taken advantage of the chaos to sneak out. Nadir struggles to help Karon, but it\'s not enough. Nadir asks you to defeat Injustice."}
+, Summary = "defeat Injustice"}
+, 
+[21045] = {Title = "Fine Taste - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Nadir in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21046] = {Title = "Young bachelor\'s taste", 
+Description = {"The young bachelor\'s tastes may be strange, but I think we\'ll be seeing them a lot in the future."}
+, Summary = ""}
+, 
+[21047] = {Title = "Moscow\'s Nightmare", 
+Description = {"^4d4dffDeep in the forests of the Moscovia region^000000, there are said to be many fairies. One of them asks you to exterminate the ^4d4dffUzas^000000 that scare and harass passersby. Moscovia can be reached by boat from Alberta."}
+, Summary = "slay uzas"}
+, 
+[21048] = {Title = "Moscovian Nightmare - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. The quest can be picked up via the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21049] = {Title = "Beautiful doll", 
+Description = {"This is a request to defeat ^4d4fffMiyabi^000000, a youma who dazzles people with her beautiful appearance, in the Tatami Labyrinth^000000 inside ^4d4fffAmatsu\'s keep. Amatsu can be reached by boat from Alberta."}
+, Summary = "Defeat Miyabi"}
+, 
+[21050] = {Title = "Beautiful Doll - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can order the quest via the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21051] = {Title = "Rice cakes made of sand?", 
+Description = {"This is a request to exorcize the ^4d4dffSix-Yang^000000, a monster created when the sand on the beach in front of Luoyang\'s Yongji Castle^000000 clumped together by itself. Luoyang can be reached by boat from Alberta."}
+, Summary = "Exterminate Sikyang"}
+, 
+[21052] = {Title = "Sandy Mochi?-Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can order the quest from the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21053] = {Title = "Headless horse", 
+Description = {"This is a request to exterminate the ^4d4dffHeadless Horse^000000 that is terrorizing people in the ^4d4dffBrazilis Fields^000000. Brasilis can be reached by boat from Alberta."}
+, Summary = "Exterminate the Headless Horse"}
+, 
+[21054] = {Title = "Headless Horse - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be picked up via the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21055] = {Title = "Temple Lion", 
+Description = {"This is a request to exterminate the ^4d4dffTamluan^000000, the original guardian of the ^4d4dffAyotaya Ancient Temple^000000, who is now terrorizing worshippers. Ayotaya can be reached by boat from Alberta."}
+, Summary = "Exterminate Tamruan"}
+, 
+[21056] = {Title = "Temple Lion - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. The quest can be picked up via the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21057] = {Title = "Bird with a rainbow", 
+Description = {"This is a request to control the number of ^4d4dffTukans^000000 that have suddenly increased in number in ^4d4dffBrazilis Field^000000 and are damaging crops. Brasilis can be reached by boat from Alberta."}
+, Summary = "Exterminate Tukans"}
+, 
+[21058] = {Title = "Bird with Rainbow - Standby", 
+Description = {"This is a daily quest, which can be picked up again at the end of the cooldown. The quest can be picked up via the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21059] = {Title = "A broom, a cast iron pot, and an old woman", 
+Description = {"An old woman riding a broom and riding a large cauldron has been seen in the ^4d4dffdeep, deep forests of Moscovia^000000. Because the old woman riding the cauldron and wielding the broom is a witch, this witch, ^4d4dffBabaya^000000, is asking you to exorcise her. Moscovia can be reached by boat from Alberta."}
+, Summary = "Defeat Babayaga"}
+, 
+[21060] = {Title = "A Broom, a Cast Iron Pot, and an Old Lady - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. The quest can be obtained through the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21061] = {Title = "The Losers, the Winners, and the Remnants", 
+Description = {"It is said that the ^4d4dffTatami Labyrinth of Amatsu^000000 is haunted by soldiers who were sacrificed in a fierce war long ago. This is a request to exterminate the ^4d4dffOld Style Musketeers^000000 for the safety of the castle. Amatsu can be reached by boat from Alberta."}
+, Summary = "Exterminate the Old Style Musketeers"}
+, 
+[21062] = {Title = "The Losers, the Winners, and the Remainder - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. The quest can be picked up via the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21063] = {Title = "Heavenly Lady", 
+Description = {"The ^4d4dffKunlun\'s Muling Temple^000000 is visited by many people, but it has become a problem because a beautiful fairy has appeared and attacked people. This is a request to stop the dangerous ^4d4dffFairy Maiden^000000. Kunlun can be reached by boat from Alberta."}
+, Summary = "Punish the Fairy Godmother"}
+, 
+[21064] = {Title = "Celestial Lady - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. The quest can be picked up via the Paradise Order bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21065] = {Title = "The tomb where secrets sleep", 
+Description = {"^4d4dffThe royal tomb of Yongji Castle^000000 holds many legends and secrets. But it\'s also home to many ghosts, which can be a real headache. This is a request to exorcise ^4d4dffHye-gun and Imaemang-lang^000000, who are particularly obstructive to the investigation of the tomb. Yongji Castle can be reached by boat from Alberta."}
+, Summary = "Defeat Hye-gun and Imaemang-lang"}
+, 
+[21066] = {Title = "The Tomb Where Secrets Sleep - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. The quest can be picked up via the Paradise Order bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21067] = {Title = "I hear you at the end of the night, and I hear you at the end of the day.", 
+Description = {"One of the many secrets in ^4d4dffAmatsu\'s Tatami Labyrinth^000000 is a long-dead shinobi who was in charge of information warfare. He is asked to kill a ^4d4dffShinobi^000000 who has lost his identity and is attacking people. Amatsu can be reached by boat from Alberta."}
+, Summary = "defeat shinobi"}
+, 
+[21068] = {Title = "I hear you at the end of the night, and I hear you at the end of the day - Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can order the quest from the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21069] = {Title = "Son Goku Candidate", 
+Description = {"A peach monster and a group of monkeys have appeared at ^4d4dffKunlun\'s Temple of the West King Mother^000000, asking you to defeat them before they grow up to become Goku and wreak even more havoc. Kunlun can be reached by boat from Alberta."}
+, Summary = "Defeat Cadet Mok"}
+, 
+[21070] = {Title = "Son Goku Candidate - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. The quest can be obtained through the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21071] = {Title = "An old man in the clouds", 
+Description = {"^4d4dffKunlun\'s Checkerboard of Freshness^000000\'s home is naturally fresh, but for some reason, this freshness is a nasty one. You\'ve been asked to help rid the people of the ^4d4dffUnfortunate Ship^000000, which has been causing trouble. Kunlun can be reached by boat from Alberta."}
+, Summary = "Exterminate the Unakshun"}
+, 
+[21072] = {Title = "Old Man in the Clouds - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be picked up via the Paradise Corps bulletin board."}
+, Summary = "Reset at 04:00"}
+, 
+[21073] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21074] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21075] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21076] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21077] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21078] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21079] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21080] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21081] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21082] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21083] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21084] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21085] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21086] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21087] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21088] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21089] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21090] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21091] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21092] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21093] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21094] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21095] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21096] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21097] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21098] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21099] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21100] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21101] = {Title = "Hunt a Hunterfly", 
+Description = {"The Geffen Tower is organizing a dungeon monster extermination campaign in cooperation with the Order of Paradise. Show your skills by defeating 10 Hunterflies on the first floor of Geffen\'s underground dungeon."}
+, Summary = "Defeat 10 Hunterflies"}
+, 
+[21102] = {Title = "Hunt Hunterfly - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Circle bulletin board or from the Endbringer in Geffen."}
+, Summary = "Reset at 04:00"}
+, 
+[21103] = {Title = "Hunting Hunterflies today", 
+Description = {"The monsters in the basement of Geffen Tower continue to multiply every day. Defeat ten Hunterflies again today."}
+, Summary = "Defeat 10 Hunterflies"}
+, 
+[21104] = {Title = "Hunting Ghouls and Jacks", 
+Description = {"Geffen Tower is coordinating with the Order of Paradise to defeat the dungeon monsters. Go down to the second floor of Geffen\'s dungeon and defeat 10 ghouls and 10 jacks each."}
+, Summary = "Defeated 10 ghouls and 10 jacks"}
+, 
+[21105] = {Title = "Hunt Ghouls and Jacks - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the Terminal Wizard in Geffen."}
+, Summary = "Reset at 04:00"}
+, 
+[21106] = {Title = "Hunting ghouls and jacks again today", 
+Description = {"The monsters in the basement of Geffen Tower continue to multiply every day. Today, kill 10 ghouls and 10 jacks each."}
+, Summary = "Defeat 10 Ghouls and 10 Jacks"}
+, 
+[21107] = {Title = "Hunt Marionettes and Deviroots", 
+Description = {"Defeat 10 Marionettes and 10 Deviroots living on the third floor of Geffen Tower\'s basement."}
+, Summary = "Defeated 10 Marionettes and 10 Deviroots"}
+, 
+[21108] = {Title = "Hunt for Marionette and Deviroochi - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain the quest from the Paradise Circle bulletin board or from Geffen\'s Terminal Wizard."}
+, Summary = "Reset at 04:00"}
+, 
+[21109] = {Title = "Hunting Marionettes and Deviroots today", 
+Description = {"The monsters in Geffen Tower\'s basement are growing every day. Let\'s defeat 10 Marionettes and 10 Deviroots today."}
+, Summary = "Defeat 10 Marionettes and 10 Devilurches"}
+, 
+[21110] = {Title = "Horse Riding a Nightmare", 
+Description = {"The man claims that he can\'t sleep because he has nightmares because there are nightmares in the dungeons of Geffen Tower. We don\'t find this very believable, but let\'s kill 10 Nightmares anyway."}
+, Summary = "Defeat 10 Nightmares"}
+, 
+[21111] = {Title = "Horse Riding a Nightmare - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Corps message board or from the Tired Man in Geffen."}
+, Summary = "Reset at 04:00"}
+, 
+[21112] = {Title = "Horse Riding a Nightmare", 
+Description = {"The man says he\'s had nightmares again today and demands that you bring the Nightmare back. Are nightmares really the problem? Anyway, let\'s bring back the 10 Nightmares."}
+, Summary = "Defeat 10 Nightmares"}
+, 
+[21113] = {Title = "Petite is cute in the air", 
+Description = {"The boy says he can\'t get close to Pete because he\'s too aggressive, so he asks you to go find a gentle Pete for him. Try petting a petit in its habitat and bring back a petit that doesn\'t attack you. If they do attack, you\'ll have to fight them off!"}
+, Summary = "Defeat 10 Flying Petites"}
+, 
+[21114] = {Title = "Airborne Cutie - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can get the quest from the Paradise Corps message board or from Petite Boy in Geffen."}
+, Summary = "Reset at 04:00"}
+, 
+[21115] = {Title = "Petite is cute in the air again today", 
+Description = {"Let\'s go up to the petits and say hello. If they greet you, bring them back, but if they attack you, fight back!"}
+, Summary = "Defeat 10 Flying Petites"}
+, 
+[21116] = {Title = "Ground Pete is cute", 
+Description = {"The boy says that a ground pet is okay, and he wants you to go to the ground pet colony and bring him a pet that doesn\'t attack. How many petits do you have to fight to find one that doesn\'t attack?"}
+, Summary = "Defeat 10 Ground Petites"}
+, 
+[21117] = {Title = "Ground Cute - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can get the quest from the Paradise Corps bulletin board or from Petite Boy in Geffen."}
+, Summary = "Reset at 04:00"}
+, 
+[21118] = {Title = "Petite is still cute on the ground", 
+Description = {"Let\'s go up to the petits and say hello. If they greet you, bring them back, but if they attack you, fight back!"}
+, Summary = "Defeat 10 Ground Petites"}
+, 
+[21120] = {Title = "Rescue a friend", 
+Description = {"Kale has been tricked into entering a dangerous shipwreck. Go to the wreck, rescue Kale, and defeat 10 Firelord Skells to keep him out of danger."}
+, Summary = "Defeat 10 Firelord Skells"}
+, 
+[21121] = {Title = "Watch a Friend - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Corps bulletin board or from Timothy in Alberta."}
+, Summary = "Reset at 04:00"}
+, 
+[21122] = {Title = "Rescue your friends again today", 
+Description = {"Defeat 20 Fireteam Skulls for Kale, then capture him and bring him back."}
+, Summary = "Defeated 20 Fireteam Skulls"}
+, 
+[21123] = {Title = "Librarian Worry", 
+Description = {"It\'s good to be concerned, but too much worry is poison. Anyway, let\'s let Timothy at the docks know we\'re safe."}
+, Summary = "Go to Timothy"}
+, 
+[21124] = {Title = "Zonda Scammer Rescued", 
+Description = {"If we let Timothy and Kale go to the Zonda shill, there\'s going to be a fistfight. I\'d rather go meet them in person."}
+, Summary = "Go to Zonda\'s publicist, Mulberry"}
+, 
+[21125] = {Title = "Eating a Kukre liver", 
+Description = {"The kukre may have eaten the treasure left in the wreck. Kill ten Kukre to find out for yourself."}
+, Summary = "Kill 10 Kukre"}
+, 
+[21126] = {Title = "Cooked Kukre Liver - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Corps message board or from the Zonda Promoter in Alberta."}
+, Summary = "Reset at 04:00"}
+, 
+[21127] = {Title = "Today, we still eat the liver of a cucre", 
+Description = {"Today we hunt for the treasures that would have been eaten by the Kukre."}
+, Summary = "Defeat 10 Kukre"}
+, 
+[21128] = {Title = "Economic logic in the absence of", 
+Description = {"To motivate shipwreck seekers, we\'ve decided to hide treasure inside the wrecks themselves. It\'s not much of a treasure, but it\'s better than nothing."}
+, Summary = "Hide 10 old coins in the wreck"}
+, 
+[21129] = {Title = "Economic logic to create without - wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps message board or from the Zonda Promoter in Alberta."}
+, Summary = "Reset at 04:00"}
+, 
+[21130] = {Title = "The economic logic of creating without today", 
+Description = {"Today, let\'s hide old coins in the wrecks to motivate our adventurers."}
+, Summary = "Hide 10 old coins in a shipwreck"}
+, 
+[21131] = {Title = "A geek with a real skill set", 
+Description = {"Let\'s visit the shipwreck researcher to find out what you heard while hiding the coins."}
+, Summary = "Go to Shipwreck Researcher Aspar"}
+, 
+[21132] = {Title = "For the faint of heart", 
+Description = {"For Aspas who love wrecks but are too weak to enter them, enter the wrecks yourself and bring back any suspicious items that catch your eye."}
+, Summary = "Search the wrecks for suspicious items"}
+, 
+[21133] = {Title = "Results of our research", 
+Description = {"Now that we have some idea of the identity of the wreck, let\'s relay this information to the Zonda Promoter"}
+, Summary = "Go to Zonda Promoter Mulberry"}
+, 
+[21134] = {Title = "A Promise to the Dead", 
+Description = {"You\'ve made an appointment with Drake\'s ghost, but Mulberry says he\'s busy and puts it off until tomorrow. Let\'s go back to Alberta\'s Zonda Promoter tomorrow."}
+, Summary = "Reset at 04:00"}
+, 
+[21135] = {Title = "Cleaning the Wrecked Ship 1F - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps message board or from the Zonda Promoter in Alberta."}
+, Summary = "Reset at 04:00"}
+, 
+[21136] = {Title = "Clean up the first floor of the shipwreck again today", 
+Description = {"To fulfill your promise to Drake\'s ghost, defeat the monsters on the first floor of the wreck and collect 10 bone fragments, 5 worm carapaces, and 5 tentacles."}
+, Summary = "Defeat the Hydra and collect the trash"}
+, 
+[21137] = {Title = "Cleaning the Wrecked Ship 2F - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps message board or from the Zonda Promoter in Alberta."}
+, Summary = "Reset at 04:00"}
+, 
+[21138] = {Title = "Clean up the second floor of the shipwreck again today", 
+Description = {"To fulfill our promise to Drake\'s Ghost, let\'s take on the monsters on the second floor of the Wreck."}
+, Summary = "10 Whispers and a quick kill of a Fireteam Skell"}
+, 
+[21140] = {Title = "Traveling in peace", 
+Description = {"Hunt 30 Rowyns at Rachel Airport to protect the pilgrims and adventurers entering and leaving Rachel."}
+, Summary = "Slay 30 Rowyns"}
+, 
+[21141] = {Title = "Travel a Pilgrimage in Peace - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Order Bulletin Board or from the Airport Guard in Rachel Ida Plains."}
+, Summary = "Reset at 04:00"}
+, 
+[21142] = {Title = "Today\'s pilgrimage is still peaceful", 
+Description = {"Rachel Airport is still bustling today. To prevent the weak from being harmed, hunt 30 Rowyns."}
+, Summary = "Slay 30 Rowyns"}
+, 
+[21143] = {Title = "Keeper of Beauty", 
+Description = {"The Shiromas on the first floor of the Ice Cave have done unspeakable things to the young man. It\'s a bit of a shame, but... slay 30 Shiromas and help him get his revenge."}
+, Summary = "Defeat 30 Shiromas"}
+, 
+[21144] = {Title = "Keeper of Beauty - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Order of Paradise bulletin board or from Leonard in Rachel."}
+, Summary = "Reset at 04:00"}
+, 
+[21145] = {Title = "The guardian of beauty", 
+Description = {"I don\'t know if I should be so angry, but I\'m still going to punish those who are up to no good. Let\'s get 30 Shiroma today."}
+, Summary = "30 Shiroma slain"}
+, 
+[21146] = {Title = "Stone Swallowing Stone", 
+Description = {"To help the villagers who make their living by gathering minerals, defeat 30 Staffo to buy them time to gather minerals."}
+, Summary = "Defeat 30 Staffos"}
+, 
+[21147] = {Title = "Stone Swallowing Stone - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Bane\'s Craven."}
+, Summary = "Reset at 04:00"}
+, 
+[21148] = {Title = "Stone swallowing stone", 
+Description = {"Let\'s hunt down 30 Staffo that swallow minerals, stones, and anything else they can find so the villagers can pick up the minerals."}
+, Summary = "30 Staffo slain"}
+, 
+[21149] = {Title = "Exploring Turtle Island", 
+Description = {"You won\'t be able to find the missing knights anyway. Go to Turtle Island, catch as many Dragon Tails and Spring Rabbits as you can, and report back."}
+, Summary = "Dragon Tail and Spring Rabbit slain, 10 each"}
+, 
+[21150] = {Title = "Explore Turtle Island - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Order of Paradise message board or from Tibalt, Knight of Alberta."}
+, Summary = "Reset at 04:00"}
+, 
+[21151] = {Title = "Exploring Turtle Island again today", 
+Description = {"For the 2nd Knights of Turtle Island, hunt down 10 Dragon Tails and 10 Spring Rabbits."}
+, Summary = "Dragon Tail and Spring Rabbit killed 10 each"}
+, 
+[21152] = {Title = "Turtle Swarm Defeated 1", 
+Description = {"There are reports of people inside the dungeons of Turtle Island. To ensure that those exploring the dungeon are not endangered, hunt down Soliders and Permutators."}
+, Summary = "Kill 10 Soliders and 10 Permutations each"}
+, 
+[21153] = {Title = "Defeat the Turtles again today 1", 
+Description = {"To keep the Second Knights of Turtle Island out of harm\'s way, let\'s help them by hunting down Soliders and Permutators."}
+, Summary = "Defeated 10 Soliders and 10 Permutators"}
+, 
+[21154] = {Title = "Turtle ?kill 2", 
+Description = {"There are reports of humans inside the dungeons of Turtle Island. To ensure that those exploring the dungeon are not endangered, hunt down Freezers and Hitters."}
+, Summary = "Defeated 10 Frieza and 10 Hitters each"}
+, 
+[21155] = {Title = "Take down the turtle hordes again today 2", 
+Description = {"To keep the Second Knights of Turtle Island out of harm\'s way, hunt down Frieza and Hitter to help them."}
+, Summary = "Defeated 10 Frieza and 10 Hitters each"}
+, 
+[21156] = {Title = "Kill a group of turtles - wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Order of Paradise message board or from Tibalt, Knight of Alberta."}
+, Summary = "Reset at 04:00"}
+, 
+[21157] = {Title = "Turtle Island Lost and Found", 
+Description = {"There seems to be someone inside the Turtle Island dungeon. Enter the dungeon and talk to the highest ranking member of the group, if possible."}
+, Summary = "Talk to the missing Templar leader on Turtle Island"}
+, 
+[21158] = {Title = "Hunt for the Ursuline", 
+Description = {"To help the Templar find his way around, kill 10 Ursulines."}
+, Summary = "Defeat 10 Ursulines"}
+, 
+[21159] = {Title = "Apartment Hunt - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from the Order of Paradise Bulletin Board or from the Templar Captain in the Foster Village."}
+, Summary = "Reset at 04:00"}
+, 
+[21160] = {Title = "Today\'s hunt for the Ursulines", 
+Description = {"To aid the Templar in his quest, let\'s kill 10 Ursulines again today."}
+, Summary = "Defeat 10 Ursulines"}
+, 
+[21161] = {Title = "Delivering resolve", 
+Description = {"Return to Knight Tibald and convey the Templar\'s resolve to him."}
+, Summary = "Talk to Knight Tibald"}
+, 
+[21162] = {Title = "Hide old coins", 
+Description = {"Let\'s hide old coins in a shipwreck."}
+, Summary = "Hide an old coin in a shipwreck"}
+, 
+[21163] = {Title = "Hide the old coin again", 
+Description = {"Let\'s hide some old coins in the wreck."}
+, Summary = "Hide old coins in a shipwreck"}
+, 
+[21164] = {Title = "Keep hiding old coins", 
+Description = {"Let\'s hide old coins in the wreck."}
+, Summary = "Hide old coins in the shipwreck"}
+, 
+[21165] = {Title = "Keep hiding old coins", 
+Description = {"Let\'s hide the old coins in the wreck."}
+, Summary = "Keep hiding old coins in the wrecks"}
+, 
+[21166] = {Title = "Hide all the old coins", 
+Description = {"Let\'s hide the old coins in the shipwreck."}
+, Summary = "Hide all the old coins in the shipwreck"}
+, 
+[21167] = {Title = "Town Trust", 
+Description = {"You have fulfilled a Hunterfly hunt request from the Town. When the wait expires, you can pick up the quest from the Paradise Circle Bulletin Board or Geffen\'s Terminal Wizard."}
+, Summary = "Reset at 04:00"}
+, 
+[21168] = {Title = "Town Trust", 
+Description = {"You have fulfilled the Town\'s request to hunt Ghouls and Jacks. You can pick up the quest from the Paradise Circle bulletin board or Geffen\'s Terminal Wizard when the wait time expires."}
+, Summary = "Reset at 04:00"}
+, 
+[21169] = {Title = "Town Trust", 
+Description = {"You have fulfilled the request to hunt Marionettes and Deviruchi in the village. You can pick up the quest from the Paradise Circle bulletin board or Geffen\'s Terminal Wizard when the wait time expires."}
+, Summary = "Reset at 04:00"}
+, 
+[21170] = {Title = "Town trust", 
+Description = {"You have fulfilled the request to hunt Kukre in the Town. You can pick up the quest from the Paradise Corps Bulletin Board or Alberta\'s Zonda Promoter when the wait time expires."}
+, Summary = "Reset at 04:00"}
+, 
+[21171] = {Title = "Town Trust", 
+Description = {"You have fulfilled the quest to hunt Dragon Tail and Spring Rabbit in Town. You can pick up the quest from the Paradise Order Bulletin Board or Alberta\'s Knight Tibalt when the wait time expires."}
+, Summary = "Reset at 04:00"}
+, 
+[21172] = {Title = "Town trust", 
+Description = {"You have fulfilled the Town\'s request to hunt down a group of turtles. You can pick up the quest from the Paradise Order Bulletin Board or Alberta\'s Knight Tibalt when the wait time expires."}
+, Summary = "Reset at 04:00"}
+, 
+[21173] = {Title = "Town trust", 
+Description = {"You have fulfilled the request for an Aerial Petite Hunt in Town. You can pick up the quest from the Paradise Corps bulletin board or the Petite Boy in Geffen when the cooldown expires."}
+, Summary = "Reset at 04:00"}
+, 
+[21180] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21181] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21182] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21183] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21184] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21185] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21186] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21187] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21188] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21189] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21190] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21191] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21192] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21193] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21194] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21195] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21196] = {Title = "Opening in the Temple", 
+Description = {"You\'ve found the opening to the Sanctuary!"}
+, Summary = ""}
+, 
+[21201] = {Title = "Find the Lost", 
+Description = {"The old scholar you met in Morrocc has asked you to find his apprentice, who went off on his own to find the Assassin\'s Guild. Go to the desert southeast of Morok, where the Assassin\'s Guild is said to be."}
+, Summary = "Talk to the apprentice"}
+, 
+[21202] = {Title = "Bodies blocking the path ahead", 
+Description = {"The old scholar\'s apprentice, whom you found in a corner of the desert, says he can\'t go any further because of the Sandman, and asks you to defeat him and collect ^4d4dff5^000000 sand grains."}
+, Summary = "5 grains of sand"}
+, 
+[21203] = {Title = "You like Mia, not Mia like Mia", 
+Description = {"This is a daily quest that can be picked up again when the cooldown expires. You can pick up the quest from the Paradise Order bulletin board or from the Wandering Boy in the desert east of Morok."}
+, Summary = "Reset at 04:00"}
+, 
+[21204] = {Title = "Giving up an item because of back pain.", 
+Description = {"Outside of Morok, in the oasis in front of the pyramid, an old scholar asks you to find the ^4d4dffField Shovel^000000 that Berit bit in the pyramid\'s basement. Berit and Minoruros are killed."}
+, Summary = "1 Fieldaxe"}
+, 
+[21205] = {Title = "I can\'t sleep.", 
+Description = {"A request from Rumin, a member of the Thieves\' Guild. He says the guild members are uncomfortable with Berit and Minoruros living in the guild\'s basement. Let\'s defeat Berit and Minoruros."}
+, Summary = ""}
+, 
+[21206] = {Title = "Sleep doesn\'t last just one day,", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Lumine in the Morok Ruins."}
+, Summary = "Reset at 04:00"}
+, 
+[21207] = {Title = "The Whereabouts of Friends Beyond the Maze-1", 
+Description = {"Ernest has gotten separated from his friends who came to do the task with him, and he wants you to find them in the pyramid and tell them his news. Let\'s climb the pyramid slowly."}
+, Summary = "Talk to Maxim, the foreman"}
+, 
+[21208] = {Title = "An old blue box and a good dream", 
+Description = {"Ernest\'s friends believe that the dead man\'s belongings are an old blue box. They want to catch the mummy, get the relic, and check it again..."}
+, Summary = "1 Dead Man\'s Relic"}
+, 
+[21209] = {Title = "The Whereabouts of Friends Beyond the Maze-2", 
+Description = {"Tell Ernest the tale of Chief Maxim and his friends, who will be waiting for him in the Oasis. Very well!"}
+, Summary = "Talk to Ernest"}
+, 
+[21210] = {Title = "What Isis Has", 
+Description = {"Ernest says he needs to do some processing to unlock the secret of the pyramid. He asks you to defeat Isis and bring him the unusual items she has."}
+, Summary = "1 Rotten Bandage"}
+, 
+[21211] = {Title = "The Workers of the Sphinx", 
+Description = {"Ernest\'s research with the elderly scholar began to yield more requests. This time, he wants to see ^4d4dffJerome and the Requiem^000000 to investigate the relationship between the pyramids and the Sphinx..."}
+, Summary = ""}
+, 
+[21212] = {Title = "Secrets of the Sphinx", 
+Description = {"You have been asked to investigate ^4d4dffMarduk and Fasana^000000 on the upper level of the Sphinx. Make sure to take anything that Marduk has that might be of interest to you."}
+, Summary = "1 tattered papyrus"}
+, 
+[21213] = {Title = "Kill Isis", 
+Description = {"You\'ve been asked to kill Isis that are in the way of smooth exploration. Isistles are concentrated on the second and fourth floors of the pyramid."}
+, Summary = ""}
+, 
+[21214] = {Title = "Waiting to kill Isis", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from an assistant in the Morrocc Ruins."}
+, Summary = "Reset at 04:00"}
+, 
+[21215] = {Title = "Kill a Sphinx worker", 
+Description = {"You have been asked to kill Jerome and Requiem, who are interfering with the investigation inside the Sphinx. Jerome and Requiem can be found on the first and second floors of the Sphinx."}
+, Summary = ""}
+, 
+[21216] = {Title = "Waiting to defeat the Sphinx\'s Worker", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Circle Bulletin Board or from Ernest in the Morrocc Ruins."}
+, Summary = "Reset at 04:00"}
+, 
+[21217] = {Title = "Secrets of the Sphinx", 
+Description = {"It seems that Marduk needs more of his \'old papyrus\'. While you\'re at it, you\'ve been asked to kill Parsa as well, to facilitate our exploration."}
+, Summary = "Worn Papyrus 10"}
+, 
+[21218] = {Title = "Sphinx\'s Secret Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Corps bulletin board or from Ernest in the Morrocc Ruins."}
+, Summary = "Reset at 04:00"}
+, 
+[21219] = {Title = "Mummies and the Blue Box", 
+Description = {"You\'ve been asked by Maxim and his crew to defeat 10 ^4d4dffMiiras and bring back 1^000000 Relic of the Dead."}
+, Summary = "1 dead man\'s relic"}
+, 
+[21220] = {Title = "An Unbreakable Dream", 
+Description = {"These are daily quests that can be picked up again at the end of the cooldown. The quest can be obtained through the pyramid\'s mastermind, Maxim."}
+, Summary = "Reset at 04:00"}
+, 
+[21221] = {Title = "It\'s all experience. 1", 
+Description = {"To get used to taking requests from others, you\'ve been asked to defeat ^4d4dffPekopeko^000000 and ^4d4dffMuka^000000 in the fields southwest of ^4d4dffEzrud^000000. Your instructor, Mr. Pontes, believes that only by helping each other can you become true adventurers..."}
+, Summary = "Defeat Pecopeco and Mooka"}
+, 
+[21222] = {Title = "noisy guys", 
+Description = {"I decided to start taking requests from the locals. First, I received a request to exterminate Pekopeko and Mooka, which I had practiced before. The complaints come mainly from the field southwest of Izrud, and all of them say that it\'s too noisy."}
+, Summary = "Fighting Pecopecos and Mookas"}
+, 
+[21223] = {Title = "Noisy Guys - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Instructor Fontes in Izrud."}
+, Summary = "Reset at 04:00"}
+, 
+[21224] = {Title = "This is all experience. 2", 
+Description = {"A request brought to you by Instructor Fontes for training. He asks you to defeat the Lapis Lazuli and Mettler that appear when you leave Izrud and head southwest or south-southwest. If you\'ve defeated Mooka and Pekopeko before, you\'ll recognize the field as being nearby."}
+, Summary = "defeating lapis lazuli and mettlers"}
+, 
+[21225] = {Title = "Eggs and grasshoppers", 
+Description = {"A request brought to you by Instructor Fontes for training. He asks you to defeat the Mooka and Mettler that appear when you leave Izrud and head southwest or south-southwest. If you\'ve defeated Mooka and Pekopeko before, you\'ll recognize the field as being nearby."}
+, Summary = "defeating lapis lazuli and mettlers"}
+, 
+[21226] = {Title = "Eggs and Grasshoppers - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Order of Paradise message board or from Instructor Fontes in Izrud."}
+, Summary = "Reset at 04:00"}
+, 
+[21227] = {Title = "People in Trouble 1", 
+Description = {"It seems that a university student who has come to Baiaran Island to do research is in trouble and has asked you to send someone to help him. Travel by boat from Izrud Harbor to Baiaran Island and meet Helden."}
+, Summary = "Talk to Helden the university student"}
+, 
+[21228] = {Title = "Biology is the hardest to sample", 
+Description = {"Helden needs biology samples, but he\'s too afraid to enter the dungeon. He asks you to hunt down marina and plankton, which are found on the first floor of the Undersea Caverns, and obtain the specimen \"single cells.\""}
+, Summary = "10 Monocytes"}
+, 
+[21229] = {Title = "Biology is the hardest to sample - wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can get the quest from the Paradise Corps bulletin board or from Helden, a university student on Baiaran Island."}
+, Summary = "Reset at 04:00"}
+, 
+[21230] = {Title = "Fisherman", 
+Description = {"The cat vendor next to you, who realized you were entering Izrud\'s dungeon when Helden asked for a favor, has a request. He says he\'ll pay you if you can get him 5 claws, which can be obtained by defeating Vadon."}
+, Summary = "5 claws"}
+, 
+[21231] = {Title = "You should paddle when the water comes in.", 
+Description = {"The traveling cat vendor asks you to get more claws for him, as he thinks his claw clan will be a successful item. Bardons can be found on the second floor of the Undersea Caverns of Izrud."}
+, Summary = "5 claws"}
+, 
+[21232] = {Title = "Row when the water comes in.-Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can get the quest from the Paradise Order bulletin board or from a traveling vendor on Baiaran Island."}
+, Summary = "Reset at 04:00"}
+, 
+[21233] = {Title = "No news is good news...? 1", 
+Description = {"Ernest, one of Yuno\'s students on the group investigation, is worried that he hasn\'t heard from the others while he\'s been injured and resting. Go to the third floor of the Izrud Undersea Dungeon to find the group and Captain Maxim and tell them Ernest\'s story."}
+, Summary = "Talk to Captain Maksim"}
+, 
+[21234] = {Title = "Extreme Chef", 
+Description = {"Zowon Kusekili doesn\'t do much research in dungeons, only cooking. All she needs is one ingredient in the dungeon to make a great dish. Defeat Marth and ask for the ink."}
+, Summary = "10 Ink"}
+, 
+[21235] = {Title = "Fantasy Woman", 
+Description = {"Nonda Ankana is very drunk. She keeps talking about a woman she met while drunk, but no matter what she says, it\'s Obonne. She asks you to confirm that the woman she saw was indeed Ovonne. Defeat Ovonne and take the mermaid\'s heart as proof."}
+, Summary = "1 mermaid\'s heart"}
+, 
+[21236] = {Title = "No news is good news...? 2", 
+Description = {"Kusekili and the others tell Assistant Ernest to deliver the frog egg ink soup they made. We\'re fine! Let\'s just give it to them."}
+, Summary = "Deliver the ink soup to Ernest"}
+, 
+[21237] = {Title = "Caring for a friend", 
+Description = {"Ernest is angry at the group\'s lackadaisical behavior, but somehow touched by their concern for him. He asks you to remove the menacing monsters Swordfish and Mark from the fourth floor so that they can investigate more comfortably."}
+, Summary = "Defeat Swordfish and Mark"}
+, 
+[21238] = {Title = "Caring for a Friend - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Corps bulletin board or from an assistant in Ezrud Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21239] = {Title = "Cooking ingredients", 
+Description = {"Zowon Kusekili doesn\'t do much research in dungeons, only cooking. If you can find just one ingredient in the dungeon, you\'ll be able to cook something amazing. Defeat Marth and ask for the ink."}
+, Summary = "10 Ink"}
+, 
+[21240] = {Title = "Procure Cooking Ingredients - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Kusekili in Izrud Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21241] = {Title = "Proof of the Sea God", 
+Description = {"Captain Maksim claims to have seen the sea god Poseidon deep beneath the dungeons. But he says it was a monster called Strauf and Merman, so he wants proof that it was a monster. Show him the dorsal fin and the ancient language lips."}
+, Summary = "One dorsal fin, one ancient language lip"}
+, 
+[21242] = {Title = "Pesky Watchmen", 
+Description = {"After realizing that Strauf was not a sea god, Maxim wants to visit the underground temple, but is disturbed by the presence of the polite Strauf and Merman, so he asks you to kill them."}
+, Summary = "Defeat Strauf and Merman"}
+, 
+[21243] = {Title = "Pesky Watchmen - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Maxim in Izrud Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21244] = {Title = "Fantasy Lady - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Nonda Ankana in Izrud Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21246] = {Title = "Are you strong? 1", 
+Description = {"Outside the gates of Prontera, a boy named Paul asks you if you\'re strong, and if you are, can you kill a hornet? He\'s been warned not to play outside because the bees that escaped from the accidentally knocked over hive have become wild and dangerous. Help protect the playground by killing the hornet."}
+, Summary = "Slay Honets"}
+, 
+[21247] = {Title = "How strong are you? 2", 
+Description = {"Outside the west gate of Prontera, commissioned by Paul. He asks you to protect the western fields from an unseen threat, saying that there is a local population of giant locusts just to the south, and he doesn\'t know when they will invade the western fields. Reassure him by defeating the Rockers in the Southwest Fields of Prontera."}
+, Summary = "defeat Lockers"}
+, 
+[21248] = {Title = "Are you strong? 3", 
+Description = {"Outside the west gate of Prontera, at the request of a girl named Anne. A man named Hohenhallhoch has told her that the dreaded knight Amberknight may be advancing on Prontera from the western fields, and she wants you to stop him. Let\'s defeat the Amber Knight and reassure him."}
+, Summary = "defeat Amberknight"}
+, 
+[21249] = {Title = "Playground Stabilization Operation - Hornet", 
+Description = {"Outside the gates of Prontera, a boy named Paul asks you if you\'re strong and if you are, can you help him kill a hornet? He\'s been warned not to play outside because the bees that escaped from the accidentally knocked over hive have become wild and dangerous. Help protect the playground by killing the hornets."}
+, Summary = "Slay Honet"}
+, 
+[21250] = {Title = "Playground Stabilization Operation - Locker", 
+Description = {"Outside the west gate of Prontera, courtesy of Paul. He says that there is a local population of giant locusts just south of him, and he doesn\'t know when they will invade the western fields, so he wants you to protect them from an unseen threat. Reassure him by defeating the Rockers in the Southwest Fields of Prontera."}
+, Summary = "defeat Lockers"}
+, 
+[21251] = {Title = "The legendary knight, Amber Knight!", 
+Description = {"Outside the West Gate of Prontera, a girl named Anne asks for help. A man named Hohenhallhoch has told her that the fearsome knight Amberknight may be advancing on Prontera from the western fields, and she needs you to stop him. Let\'s defeat the Amber Knight and reassure him."}
+, Summary = "defeat Amberknight"}
+, 
+[21252] = {Title = "Playground Stabilization Operation - Hornet Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be picked up from the Paradise Corps bulletin board or from the pole outside the Prontera gates."}
+, Summary = "Reset at 04:00"}
+, 
+[21253] = {Title = "Playground Stabilization Operation - Locker Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or the pole outside the Prontera gates."}
+, Summary = "Reset at 04:00"}
+, 
+[21254] = {Title = "Legendary Knight, Amber Knight! Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Anne outside the Prontera gates."}
+, Summary = "Reset at 04:00"}
+, 
+[21255] = {Title = "Regular Monster Slaying Cooperation Announcement", 
+Description = {"The Knights of Prontera will be conducting ^4d4dffroutine exterminations^000000 of ^4d4dffOrcs and Goblins^000000 to prevent them from expanding their territory into the neighborhoods of Prontera."}
+, Summary = "Talk to the Templars\' office staff"}
+, 
+[21256] = {Title = "Orcs, Operation Lost!", 
+Description = {"I\'ve joined the Orc extermination. The leader called out curiously. \"Let\'s wipe out the ^4d4dffOak Warrior, Oak Crady, and Oak Baby^000000 families!\" Let\'s live up to our expectations and wipe them out!"}
+, Summary = "Orc Warrior, Lady, and Baby slain"}
+, 
+[21257] = {Title = "Orcs, Operation Doomed!-Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from the Orc Village Exterminators."}
+, Summary = "Reset at 04:00"}
+, 
+[21258] = {Title = "Tired of Orcs", 
+Description = {"In the dungeons beneath the Orc Village, undead orc zombies and orc skeletons reside. Let\'s get rid of these unholy orcs."}
+, Summary = "Defeat Orc Zombies and Skeletons"}
+, 
+[21259] = {Title = "Tired of Orcs - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can get the quest from the Paradise Order bulletin board or from the Orc Village Exterminators."}
+, Summary = "Reset at 04:00"}
+, 
+[21260] = {Title = "Greedy", 
+Description = {"On the second floor of the underground tunnels of the Orc Village, there is a deformed orc named \"Xenok\" who has never seen sunlight and has become greedy. Defeat this greedy creature."}
+, Summary = "Defeat Xenok"}
+, 
+[21261] = {Title = "Greedy-Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can get the quest from the Paradise Order bulletin board or from the Orcish Village Exterminators."}
+, Summary = "Reset at 04:00"}
+, 
+[21262] = {Title = "Clearing out the fierce goblins", 
+Description = {"South of the Orc Village, a small band of goblins live in a village. The Deputy Leader of the Exterminators has asked for your help in exterminating the goblins, saying that they, like the orcs, must be stopped from expanding their territory."}
+, Summary = "Defeat Axe Goblins, Flail Goblins"}
+, 
+[21263] = {Title = "Clearing Out the Ferocious Goblins - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the Deputy Leader of the Exterminators in the Goblin Clan south of Orc Village."}
+, Summary = "Reset at 04:00"}
+, 
+[21264] = {Title = "Sleek Goblin Cleanup", 
+Description = {"To the south of the Orc Village, there is a small clan of goblins. The Deputy Leader of the Exterminators has asked for your help in exterminating the goblins, saying that like the orcs, they must be kept from expanding their territory."}
+, Summary = "Defeat Hammer Goblins, Dagger Goblins"}
+, 
+[21265] = {Title = "Sleek Goblin Cleanup - Standby", 
+Description = {"This is a daily quest that can be picked up again when the cooldown expires. You can pick up the quest from the Paradise Order bulletin board or from the Deputy Leader of the Exterminators in the Goblin Clan south of Orc Village."}
+, Summary = "Reset at 04:00"}
+, 
+[21266] = {Title = "Supplies are here! 1", 
+Description = {"Deliver the ^4d4dffKnights of Prontera supplies^000000 you received as a Knights of Prontera clerk to the leader of the Ravagers in Orc Village."}
+, Summary = "Talk to the Exterminators leader"}
+, 
+[21267] = {Title = "Supplies are here! 2", 
+Description = {"After removing the supplies for use in the Orcish Village, the Extermination Leader asked you to deliver the rest of the supplies to the Deputy Leader, who had gone to the Goblin Village, just south of the Orcish Village."}
+, Summary = "Deliver Templar Supplies to the Deputy Leader"}
+, 
+[21268] = {Title = "Supplies are here - wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the clerk in front of the Knights of Prontera."}
+, Summary = "Reset at 04:00"}
+, 
+[21269] = {Title = "Troublesome creatures", 
+Description = {"Some of the goblins have expanded their territory into the fields east of the Goblin Clan. The Vice-Captain of the Ravagers has ordered the goblins to be exterminated, saying that any further expansion must be stopped."}
+, Summary = "Morningstar Goblins slay Goblin Archer"}
+, 
+[21270] = {Title = "Troublesome Bastards - Waiting", 
+Description = {"This is a daily quest that can be picked up again when the cooldown expires. You can pick up the quest from the Paradise Order bulletin board or from the Deputy Leader of the Exterminators in the Goblin Clan south of Orc Village."}
+, Summary = "Reset at 04:00"}
+, 
+[21271] = {Title = "The Whereabouts of the Priest", 
+Description = {"Lars of Prontera Cathedral says he hasn\'t heard from Priest Clod, who has gone on a quest to cleanse Glastheim Castle Monastery, and he is worried."}
+, Summary = ""}
+, 
+[21272] = {Title = "Cleansing the Monastery", 
+Description = {"Claude has asked you to deal with the undead Wraiths and Evil Druids inside the monastery. If you can find a priest inside performing the cleansing, he should be able to provide some simple assistance."}
+, Summary = "Wraith and Evil Druid killed"}
+, 
+[21273] = {Title = "Cleansing the Monastery - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or the clod in front of Glastheim Monastery."}
+, Summary = "Reset at 04:00"}
+, 
+[21274] = {Title = "Catacombs Stabilized", 
+Description = {"The old priests buried in the catacombs of the monastery have awakened as undead and are causing trouble. Defeat the Dark Priest and the Raging Dark Priest to help stabilize the monastery."}
+, Summary = "Defeat the Dark Priest and the Enraged Dark Priest"}
+, 
+[21275] = {Title = "Catacombs Stabilized - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or the clod in front of Glastheim Monastery."}
+, Summary = "Reset at 04:00"}
+, 
+[21276] = {Title = "Mother and son lunch box", 
+Description = {"A woman I met in Aldebaran, asking me to deliver a lunchbox to her son who works at the border checkpoint. The border checkpoint is located north of Aldebaran."}
+, Summary = "Talk to the guard at the border crossing"}
+, 
+[21277] = {Title = "Work at a border checkpoint", 
+Description = {"Chezare, the warden of the border checkpoint, says it\'s too much work for his limited staff to handle complaints from passersby, so he\'s asked you to do it for him. The monsters in the field near the checkpoint."}
+, Summary = "Geographer fights off mantis"}
+, 
+[21278] = {Title = "Border Checkpoint Work - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Corps bulletin board or from Chezare at the border checkpoint."}
+, Summary = "Reset at 04:00"}
+, 
+[21279] = {Title = "Bodlebodle fluffy", 
+Description = {"A request from a girl I met at a border checkpoint. She identified herself as a student at Kil Hir Academy and asked for ^4d4dff5 mountain goat furs and 5 peco wing feathers^000000 to be brought to Kil Hir Academy as materials for making fluffy quilts and pillows."}
+, Summary = "5 goat\'s fur, 5 peco wing feathers"}
+, 
+[21280] = {Title = "School safety enhanced", 
+Description = {"The guards responsible for the safety of the Kil Heir Academy are concerned about the number of attacks by harpies and slippers in the field between the academy and the cottages, and have requested that the harpies and slippers be exterminated."}
+, Summary = "Extermination of harpies and slippers"}
+, 
+[21281] = {Title = "Improve School Safety - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from a guard at Kil\'hyr Academy."}
+, Summary = "Reset at 04:00"}
+, 
+[21282] = {Title = "Innovative business item", 
+Description = {"The cat hand trader you met in front of Kil Hir Academy has asked you to obtain ^4d4dff10 mountain goat furs and 10 peco wing feathers^000000. He plans to sell quilts and pillows to the students."}
+, Summary = "10 mountain goat furs and 10 peco wing feathers"}
+, 
+[21283] = {Title = "Pioneering Business Item - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Order bulletin board or the Cat\'s Hand vendor in Kil\'hyr Academy."}
+, Summary = "Reset at 04:00"}
+, 
+[21284] = {Title = "A sure finish", 
+Description = {"A female student who had been watching the Cat\'s Hand Merchant at Kil\'hyr Academy has requested an additional request, saying that since Grant Peko and Gout have entered the academy, she would like to make sure that they are defeated."}
+, Summary = "Gout defeats Grand Peko"}
+, 
+[21285] = {Title = "Sure Finish - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from the Paradise Order bulletin board or from a student in Kil\'hyr."}
+, Summary = "Reset at 04:00"}
+, 
+[21286] = {Title = "Clean the first floor of the Clock Tower", 
+Description = {"This is a request from Aldebaran Clock Tower Manager Serdin. He wants you to help him clean the clock tower by defeating the demonized book ^4d4dffRideword^000000 and dust ^4d4dffPunk^000000 on the first floor of the clock tower."}
+, Summary = "Defeat Rideward and Funk"}
+, 
+[21287] = {Title = "Clean Clock Tower 1F - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can get the quest from the Paradise Corps bulletin board or from Clock Tower Manager Serdin in Aldebaran."}
+, Summary = "Reset at 04:00"}
+, 
+[21288] = {Title = "A living, moving clock 1", 
+Description = {"In the Clock Tower, there are small clocks that come to life. Clockmaster Serdin has ordered their destruction, saying that those who have forgotten their true purpose are unforgivable. Clocks are most commonly found on the second floor of the Clock Tower."}
+, Summary = "defeat clocks"}
+, 
+[21289] = {Title = "A Living, Moving Clock 1 - Waiting", 
+Description = {"This quest is a daily quest that can be picked up again at the end of the wait time. You can get the quest from the Paradise Order message board or from Clock Tower Manager Serdin in Aldebaran."}
+, Summary = "Reset at 04:00"}
+, 
+[21290] = {Title = "A Living, Moving Clock 2", 
+Description = {"In addition to the clock, there was another clock in the clock tower. This one is more annoying than the Clock, and you\'ve been asked to kill it because it keeps going off without warning. Alarms are most common on the third floor of the Clock Tower."}
+, Summary = "defeat Alarm"}
+, 
+[21291] = {Title = "A Living, Moving Clock 2 - Waiting", 
+Description = {"This quest is a daily quest that can be picked up again at the end of the cooldown. You can get the quest from the Paradise Order message board or from Clock Tower Manager Serdin in Aldebaran."}
+, Summary = "Reset at 04:00"}
+, 
+[21292] = {Title = "Laughter from Underground", 
+Description = {"There is a dungeon beneath Aldebaran, which is said to lead to the basement of the Clock Tower. Serdin is haunted by the sound of a witch\'s laughter from deep below. He asks you to exorcize the witch, saying that she may be responsible for the state of the clock tower."}
+, Summary = "Slay Basori"}
+, 
+[21293] = {Title = "Laughter from Underground - Waiting", 
+Description = {"This quest is a daily quest that can be picked up again when the cooldown expires. You can get the quest from the Paradise Order bulletin board or from Serdin, the Clocktower Keeper in Aldebaran."}
+, Summary = "Reset at 04:00"}
+, 
+[21294] = {Title = "Sacred War", 
+Description = {"Ain, a fisherman in Whigel, says that the crabs and esters that wash up on the beach ruin his trimmed nets and he has to trim them again every time, so he asks you to exterminate the crabs and esters to prevent them from ruining his nets."}
+, Summary = "Exterminate the crabs and esters"}
+, 
+[21295] = {Title = "Shell Digging Experience", 
+Description = {"Ein, a fisherman in Hugel, suggests that since you\'re in the seaside resort town of Hugel, why not experience the life of an authentic fishing village? If you catch the clams and get the shells, he will prepare a delicious dish for you."}
+, Summary = "5 Clams"}
+, 
+[21296] = {Title = "Causes of water pipe breaks", 
+Description = {"Mr. Dry, who is in charge of the waterworks in Whigel, has been having trouble with the water pipes connected to Lake Abyss, and has requested that the Novus around the lake be properly exterminated."}
+, Summary = "Red Novus, kill yellow Novus"}
+, 
+[21297] = {Title = "Sublime War Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Order of Paradise message board or from Fisherman Ein in Whigel."}
+, Summary = "Reset at 04:00"}
+, 
+[21298] = {Title = "Waiting for the Seashell Digging Experience", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Fisherman Ein in Whigel."}
+, Summary = "Reset at 04:00"}
+, 
+[21299] = {Title = "Atmosphere Causing Water Pipe Failure", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Blacksmith Dry in Whigel."}
+, Summary = "Reset at 04:00"}
+, 
+[21300] = {Title = "Mom\'s Bento - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. The quest can be obtained from a middle-aged woman in Aldebaran."}
+, Summary = "Reset at 04:00"}
+, 
+[21301] = {Title = "Please give my regards to my brother.", 
+Description = {"A letter of regards from Ernst, a student at the Kilheir Academy, to his brother Friedrich. Friedrich is said to be working in the factory district west of the Valley of the Abyss."}
+, Summary = "talk to friedrich"}
+, 
+[21302] = {Title = "Clean up the surroundings, please.", 
+Description = {"At Friedrich\'s request, I\'ve decided to clean up the area around the factory building by exterminating the Metalings and Holdens that are digging in and eating and damaging things."}
+, Summary = "Defeat Holden and Metallings"}
+, 
+[21303] = {Title = "Clean up the surroundings, please - Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Friedrich in the Ainbrook Fields Factory area."}
+, Summary = "Reset at 04:00"}
+, 
+[21304] = {Title = "Commuter free pass", 
+Description = {"I used Friedrich\'s commuter pass, which allows me to travel all the way to Einbach in one trip."}
+, Summary = "Talk to Atin"}
+, 
+[21305] = {Title = "Shadow Miner", 
+Description = {"You\'ve been asked to take care of a troublesome Pitman in the Einbach Coal Mine. The Einbach Coal Mine is located inside the town. Let\'s focus on the first floor of the mine."}
+, Summary = "defeat Pitman"}
+, 
+[21306] = {Title = "Shadow Miner - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Corps bulletin board or from Athyn in Einbech."}
+, Summary = "Reset at 04:00"}
+, 
+[21307] = {Title = "Why is that thing moving!", 
+Description = {"In the Einbech Coal Mine, a scrap metal stove that was supposed to be a resting place for the miners has broken down and started attacking the miners. Defeat the scrap hearth and bring peace to the mines."}
+, Summary = "defeat the scraphearth"}
+, 
+[21308] = {Title = "Why is that thing moving!-Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Athyn in Einbech."}
+, Summary = "Reset at 04:00"}
+, 
+[21309] = {Title = "Jumping Minerals", 
+Description = {"Minerals and Obsidians are on the rampage on the second floor of the Einbach Mine, and the miners are having trouble. Let\'s deal with the Minerals and Obsidians."}
+, Summary = "Defeat the Minerals and Obsidians"}
+, 
+[21310] = {Title = "Jumping Mineral - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Athyn in Einbek."}
+, Summary = "Reset at 04:00"}
+, 
+[21311] = {Title = "Ainbrook\'s situation", 
+Description = {"I was told about Einbrock\'s relationship with Einbech and the current situation."}
+, Summary = ""}
+, 
+[21312] = {Title = "Floating toxic gas1", 
+Description = {"You\'re needed to help stop the poisonous gas from spreading to Lichtharzen and beyond. Defeat the Venomus found in Ainbrook Field."}
+, Summary = "Defeat Venomus"}
+, 
+[21313] = {Title = "Floating Poisonous Gas1-Atmosphere", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Ainbrok\'s Eisen."}
+, Summary = "Reset at 04:00"}
+, 
+[21314] = {Title = "Floating toxic gas2", 
+Description = {"You\'re needed to help stop the poisonous gas from spreading to Lichtharzen and beyond. Defeat the Noxious found in Ainbrook Fields."}
+, Summary = "Defeat Noxious"}
+, 
+[21315] = {Title = "Floating Toxic Gas 2 - Atmosphere", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Ainbrok\'s Eisen."}
+, Summary = "Reset at 04:00"}
+, 
+[21316] = {Title = "Horrible, horrible...", 
+Description = {"A rogue automaton in the shape of a bear is attacking people in a field near Ainbrook. Don\'t be fooled by its cute appearance, Eisen of Ainbrook has been hired to take it down."}
+, Summary = "Slay Teddy Bears"}
+, 
+[21317] = {Title = "A terrible, terrible...-Wait", 
+Description = {"This is a daily quest that can be picked up again when the wait expires. You can pick up the quest from the Paradise Order bulletin board or from Ainbrok\'s Aizen."}
+, Summary = "Reset at 04:00"}
+, 
+[21318] = {Title = "Transferring shifts", 
+Description = {"Eisen has asked Karl, who often forgets his shift, to remind him not to forget his shift. Karl works at Einbrock Unfair Airport."}
+, Summary = "talk to Karl"}
+, 
+[21319] = {Title = "Why not when there\'s such a big pool!", 
+Description = {"Amy, a resident of Lichtharsen, is unhappy about not being able to use the large pool outside. Defeat the Rafflesia for Theodore, who is not in charge but has to take Amy\'s blame."}
+, Summary = "defeating Rafflesia"}
+, 
+[21320] = {Title = "Why is there such a big pool!-Wait", 
+Description = {"This quest is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or through the Theodore in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21321] = {Title = "Snap your ankle!", 
+Description = {"Theodore is troubled by Miya\'s insistence that he take care of the stemworms that are attacking passersby with their stalks in the fields near Lichtharzen. Theodore agrees to take care of the stemworms for her."}
+, Summary = "Slay Stemworms"}
+, 
+[21322] = {Title = "Click your ankle!-Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or through the Theodore in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21323] = {Title = "The name of the valley of the dead", 
+Description = {"Leno, a knight afraid of ghosts, is unable to fulfill his duties in the Valley of the Dead. He\'s decided to take Leno\'s place and banish the breeze from the Valley of the Dead."}
+, Summary = "exorcize breeze"}
+, 
+[21324] = {Title = "A Name Called Valley of the Dead - Waiting", 
+Description = {"This is a daily quest that can be picked up again when the wait expires. You can pick up the quest from the Paradise Order bulletin board or from Leno in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21325] = {Title = "A vacation is not a vacation.", 
+Description = {"I\'ve heard that the children are asking for things from Theodore while he\'s on vacation."}
+, Summary = "Talk to Theodore"}
+, 
+[21326] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21327] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21328] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21329] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21330] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21331] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21332] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21333] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21334] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21335] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21336] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21337] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21338] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21339] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21340] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21341] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21342] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21343] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21344] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21345] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21346] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21347] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the townspeople!"}
+, Summary = ""}
+, 
+[21348] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21349] = {Title = "Bonus experience!", 
+Description = {"You\'ve made new connections with the villagers!"}
+, Summary = ""}
+, 
+[21350] = {Title = "Uneasy Disciples", 
+Description = {"You have been asked to warn the disciples of danger as they venture out to investigate near Euphoros. Find ^4d4dffMaster Maxim^000000 and hear what he has to say."}
+, Summary = "Talk to Tutor Maxim"}
+, 
+[21351] = {Title = "A Swarm of Iron Ants-1", 
+Description = {"Ernest has asked you to exterminate the Benatu (purple) and Benatu (green) that are interfering with his exploration of Euphoros."}
+, Summary = "Defeat Venatu"}
+, 
+[21352] = {Title = "A Swarm of Iron Ants-1 Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from Ernest near Euphoros Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21353] = {Title = "A Swarm of Iron Ants-2", 
+Description = {"Ernest has asked you to exterminate the Benatu (Vermilion) Benatu (Blue) that have been interfering with his exploration of Euphorus."}
+, Summary = "Defeat Venatu"}
+, 
+[21354] = {Title = "A Swarm of Iron Ants-2 Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from Ernest near Euphoros Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21355] = {Title = "Colorful Dimik-1", 
+Description = {"Maxim has asked you to kill Dimik (green) and Dimik (blue) for his research on Euphoros."}
+, Summary = "Defeat Dimik"}
+, 
+[21356] = {Title = "Colorful Dimic-1 Waiting", 
+Description = {"This is a daily quest that can be picked up again when the cooldown expires. You can pick up the quest from Maxim near the Euphoros Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21357] = {Title = "Colorful Dimik-2", 
+Description = {"Maxim has asked you to kill Dimik (Vermilion) Dimik (Red) for his research on Euphoros."}
+, Summary = "Defeat Dimik"}
+, 
+[21358] = {Title = "Colorful Dimic-2 Waiting", 
+Description = {"This is a daily quest that can be picked up again when the cooldown expires. You can pick up the quest from Maxim near Euphoros Dungeon."}
+, Summary = "Reset at 04:00"}
+, 
+[21359] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21360] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21361] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21362] = {Title = "Bonus Experience", 
+Description = {"You\'ve made a new friend!"}
+, Summary = ""}
+, 
+[21363] = {Title = "Purify Nameless Island", 
+Description = {"Rotheart has asked you to defeat ^4d4dffRag Zombie and Zombie Slaughter^000000 to help cleanse the island."}
+, Summary = "Defeated Ragzombie and Zombie Slaughter"}
+, 
+[21364] = {Title = "Waiting to Purify Nameless Island", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be obtained through the Nameless Island rotation."}
+, Summary = "Reset at 04:00"}
+, 
+[21365] = {Title = "Crying, crying, crying", 
+Description = {"Rotheart has asked you to kill the ^4d4dffBanshee^000000 to help purify the island."}
+, Summary = "Kill the Banshee"}
+, 
+[21366] = {Title = "Cry, cry, cry and wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. The quest can be obtained through the Nameless Island rotation."}
+, Summary = "Reset at 04:00"}
+, 
+[21367] = {Title = "Lord of the Dead Marionettes", 
+Description = {"Rotheart has asked you to defeat the ^4d4dffNecromancer^000000 to help cleanse the island."}
+, Summary = "Defeat the Necromancer"}
+, 
+[21368] = {Title = "Waiting for the Dead Marionette\'s Owner", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be obtained through the Nameless Island rotation."}
+, Summary = "Reset at 04:00"}
+, 
+[21369] = {Title = "Cleansing the West Sanctuary of the Temple", 
+Description = {"Priest Tebenio has asked you to cleanse the Sanctuary by entering the opening he has secretly drilled. Defeat ^4d4dffFanbergh and Isila^000000, the monsters that usually appear in the west."}
+, Summary = "Farnberg and Isila defeated"}
+, 
+[21370] = {Title = "Awaits Purification of the West Area of the Temple Sanctuary", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from Tebenio, Priest of Rachel."}
+, Summary = "Reset at 04:00"}
+, 
+[21371] = {Title = "Cleansing the East Sanctuary of the Temple", 
+Description = {"Priest Tebenio has asked you to cleanse the Sanctuary by entering the opening he has secretly drilled. Defeat the ^4d4dffHodremlin^000000, a monster that appears in the east."}
+, Summary = "Defeat Hordremlin"}
+, 
+[21372] = {Title = "Waiting to Purify the East Area of the Temple Sanctuary", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from Priest Tebenio of Rachel."}
+, Summary = "Reset at 04:00"}
+, 
+[21373] = {Title = "Cleansing the South Sanctuary of the Temple", 
+Description = {"Priest Tevenio has asked you to cleanse the Sanctuary by entering the opening in the south. Defeat ^4d4dffAgab and Ekio^000000, the monsters that usually appear in the south."}
+, Summary = "Agab and Ekio defeated"}
+, 
+[21374] = {Title = "Waiting to Purify the South Sanctum of the Temple", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from Tebenio, Priest of Rachel."}
+, Summary = "Reset at 04:00"}
+, 
+[21375] = {Title = "Steppe Brawl - Kobolds", 
+Description = {"You have been asked by the hunter Harim of the Ida Plains to hunt down the kobolds that are interfering with the clearing of the plains"}
+, Summary = "Kobolds defeated"}
+, 
+[21376] = {Title = "Grassland Brawl - Kobold Side Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from Harim, the Itha Plains Hunter."}
+, Summary = "Reset at 04:00"}
+, 
+[21377] = {Title = "Grassland Brawl - Hillwind\'s Side", 
+Description = {"You have been commissioned by Harim, a hunter in the Ida Plains, to hunt down the Hillwinds who are interfering with the clearing."}
+, Summary = "Hunt the Hillwind"}
+, 
+[21378] = {Title = "Grassland Brawl - Standby for Hillwind", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from Harim, the Itha Plains Hunter."}
+, Summary = "Reset at 04:00"}
+, 
+[21379] = {Title = "Not even dog hair is good enough.", 
+Description = {"Rachel\'s farmer, Cheddar, asks for 20 kobold fur. Slaying kobolds is a bonus."}
+, Summary = "20 kobold fur"}
+, 
+[21380] = {Title = "Nothing to write home about. Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from Farmer Cheddar in Rachel."}
+, Summary = "Reset at 04:00"}
+, 
+[21381] = {Title = "Weed Wars", 
+Description = {"Minnie, a farmer in Baines, asks me to pull ^4d4dffDrosera and Muskypula^000000 that are getting in the way of her land clearing. They are mostly found in the fields near Baines."}
+, Summary = "Remove the Drosera and Muskypula"}
+, 
+[21382] = {Title = "Weed War Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be obtained through Bane\'s Minerals."}
+, Summary = "Reset at 04:00"}
+, 
+[21383] = {Title = "Volcanic Mutation", 
+Description = {"Baines\'s vigilantes have been called in to combat the ^4d4dffmagma rings^000000 generated by a nearby volcano. They say that the stones burn vegetation to a crisp when they pass by."}
+, Summary = "Fighting Magma Rings"}
+, 
+[21384] = {Title = "Awaits Mutation in the Volcano", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. The quest can be obtained from Bane\'s Vigilante."}
+, Summary = "Reset at 04:00"}
+, 
+[21385] = {Title = "Grassland Brawl - Desert Wolf", 
+Description = {"Hunter Sarim from the Ice Cave has asked you to join him on a hunt for ^4d4dffDesert Wolves^000000, and he wants you to kill 30 of them."}
+, Summary = "Desert Wolf Hunt"}
+, 
+[21386] = {Title = "Grassland Brawl - Desert Wolf Side Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be obtained from the Hunter\'s Mission in front of the Ice Cave in Outumra."}
+, Summary = "Reset at 04:00"}
+, 
+[21387] = {Title = "Cold hearts, cool dishes", 
+Description = {"Tarim, the barkeep at Rachel\'s Tavern, has asked you to obtain 20 ^4d4dffIce Hearts^000000, which can be found in the Ice Cave."}
+, Summary = "20 Ice Hearts"}
+, 
+[21388] = {Title = "Cold heart, waiting for a cool dish", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can obtain this quest from Tarim, the barkeep at Rachel\'s Tavern."}
+, Summary = "Reset at 04:00"}
+, 
+[21389] = {Title = "The Unspeakable Yeti", 
+Description = {"The wizard\'s friend you met in the Ice Cave asked you to defeat ^4d4dffSnowy^000000 because he was getting in the way."}
+, Summary = "Defeat Snoyer"}
+, 
+[21390] = {Title = "Waiting for the Speechless Yeti", 
+Description = {"This is a daily quest that can be picked up again when the wait expires. The quest can be obtained from a wizard friend inside the Ice Cave."}
+, Summary = "Reset at 04:00"}
+, 
+[21391] = {Title = "How hard are ice crystals", 
+Description = {"The wizard friend you met inside the ice cave has asked you to beat ^4d4dffIstitan and Gaezti^000000 for his research."}
+, Summary = "Defeated Aistitan and Guezti"}
+, 
+[21392] = {Title = "How hard is an ice crystal? Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be obtained from the wizard\'s friend inside the Ice Cave."}
+, Summary = "Reset at 04:00"}
+, 
+[21393] = {Title = "Monk Research", 
+Description = {"Geffen\'s alchemist, Mingmin, promises to let you enter Geffenia if you help him with his Monk Research. In Geffenia, let\'s face the ^4d4dffIncubus and Succubus^000000."}
+, Summary = "Battle the Incubus and the Succubus"}
+, 
+[21394] = {Title = "Waiting for Monma Research", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can obtain this quest from Mingmin, the Alchemist of Geffen."}
+, Summary = "Reset at 04:00"}
+, 
+[21401] = {Title = "Coceracera", 
+Description = {"Return to Bobby Q with the materials needed to research the new source. 10 Tarafrog, 5 Frog Eggs "}
+, Summary = "Gather the ingredients and return to Bobby Q"}
+, 
+[21402] = {Title = "Koseracera", 
+Description = {"Talk to Serabi on the south shore of Komodo and ask him about the Koseracera."}
+, Summary = "Talk to Serabi"}
+, 
+[21403] = {Title = "Kothera", 
+Description = {"Defeating about 10 Megalodons will help drain the poison from Cosera. Defeat the Megalodons and return to Seravi."}
+, Summary = "Defeat the Megalodons"}
+, 
+[21404] = {Title = "Coseracera", 
+Description = {"You\'ve found a good quality Corseracera. Return to Bobby Q, he\'s already sent it to you."}
+, Summary = "Talk to Bobby Q"}
+, 
+[21405] = {Title = "Coseracera", 
+Description = {"Bobby Q says he didn\'t get the Corseracera. Let\'s go to Bobby Q\'s house in the east."}
+, Summary = "To Bobby Q\'s house"}
+, 
+[21406] = {Title = "Coseracera", 
+Description = {"Bobby Q\'s daughter, Barney Q, has been tricked by a friend into applying Cosera to her face, and it doesn\'t look good. Go to Serabi, who is the most knowledgeable about cosera, and ask her what to do."}
+, Summary = "Talk to Serabi"}
+, 
+[21407] = {Title = "coseracera", 
+Description = {"Massaging the hydra\'s tentacles will improve your condition. Take 5 tentacles from 10 hydras to Barney Q."}
+, Summary = "Give the tentacles to Barney"}
+, 
+[21408] = {Title = "coseracera", 
+Description = {"Bobby Q told you to bring 10 of Tarafrog\'s sticky water rakes to the campsite, and then he ran off."}
+, Summary = "Give the rakes to Bobby Q"}
+, 
+[21410] = {Title = "Bobby Q\'s Cooking Hell", 
+Description = {"You need to rest before you can quest again."}
+, Summary = "Reset at 04:00"}
+, 
+[21411] = {Title = "Barbie Q\'s Cooking Hell", 
+Description = {"It\'s time for a new culinary challenge, so let\'s catch 10 Tara Frogs and get 10 sticky water hooks for Bobby Q."}
+, Summary = "Give Bobby Q the sticky rakes"}
+, 
+[21412] = {Title = "Honey Skin Barney Q", 
+Description = {"You need to rest before you can quest again."}
+, Summary = "Resetting at 04:00"}
+, 
+[21413] = {Title = "Honey Skin Barney Q", 
+Description = {"Barney Q is suffering from the after-effects of applying Coseracera, so give him the 5 tentacles you got from defeating 10 Hydras."}
+, Summary = "Give the tentacles to Barney Q."}
+, 
+[21414] = {Title = "KeseraceraKeseracera", 
+Description = {"You need to rest before you can quest again."}
+, Summary = "Reset at 04:00"}
+, 
+[21415] = {Title = "KeseraceraKeseracera", 
+Description = {"Defeat 10 Megalodons and return to Seravi to help him grow Cicerasera."}
+, Summary = "Defeat 10 Megalodons"}
+, 
+[21416] = {Title = "Cute guys", 
+Description = {"Defeat 10 Persiles and 10 Sea Otters attacking people on Kokomo Beach."}
+, Summary = ""}
+, 
+[21417] = {Title = "Cute guys", 
+Description = {"You need to rest before you can quest again."}
+, Summary = "Reset at 04:00"}
+, 
+[21418] = {Title = "Tough guys", 
+Description = {"Defeated 10 Sturactic Gorem, 5 Trijoint, and 5 Megalith to clear the path to Umbala"}
+, Summary = ""}
+, 
+[21419] = {Title = "Hard guys", 
+Description = {"You need to rest before you can quest again."}
+, Summary = "Resetting at 04:00"}
+, 
+[21420] = {Title = "Ghastly creatures", 
+Description = {"Defeat 15 Groves and 10 Alligators for an explorer who is investigating the ecology of Papuchika Forest and Zinai Swamp."}
+, Summary = ""}
+, 
+[21421] = {Title = "Gross guys", 
+Description = {"You need to rest before you can quest again."}
+, Summary = "Reset at 04:00"}
+, 
+[21422] = {Title = "Delivered a sticky water rake to Paradise", 
+Description = {"Delivered the sticky water rake to the logistician of Paradise. You can deliver it again in an hour."}
+, Summary = ""}
+, 
+[21423] = {Title = "Delivered Grasshopper Hind Legs", 
+Description = {"You have delivered the grasshopper hind legs to the logistician. You can deliver them again in one hour."}
+, Summary = ""}
+, 
+[21424] = {Title = "Delivered Snail Shells to Paradise Corps", 
+Description = {"You have delivered the snail shell to the logistician. "}
+, Summary = ""}
+, 
+[21425] = {Title = "Paradise Delivered Bird\'s Beak", 
+Description = {"Delivered a bird\'s beak to the Paradise Corps logistician. You can deliver it again in one hour."}
+, Summary = ""}
+, 
+[21426] = {Title = "Paradise Bear Paw Delivered", 
+Description = {"You have delivered the bear paw pads to the paradise logistician. You can deliver them again in one hour."}
+, Summary = ""}
+, 
+[21427] = {Title = "Paradise Delivered Old Tree Paper", 
+Description = {"Delivered the old-growth zine to the logistics manager of Paradise. You can deliver it again in an hour."}
+, Summary = ""}
+, 
+[21428] = {Title = "Delivered monkey tail to Paradise", 
+Description = {"You have delivered the monkey tail to the logistician in Paradise. You can deliver it again in one hour."}
+, Summary = ""}
+, 
+[21429] = {Title = "Paradise Delivered Lantern", 
+Description = {"You have delivered a lantern to the Paradise Corps logistician. You can deliver it again in an hour."}
+, Summary = ""}
+, 
+[21430] = {Title = "Paradise Delivered Conch", 
+Description = {"You have delivered a Conch to the Paradise Corps Logistics Officer. "}
+, Summary = ""}
+, 
+[21431] = {Title = "Paradise Delivered Mermaid Heart", 
+Description = {"You have delivered the Mermaid\'s Heart to the Paradise Corps Logistics Manager. You can deliver it again in one hour."}
+, Summary = ""}
+, 
+[21432] = {Title = "Paradise Delivered Boar\'s Mane", 
+Description = {"You have delivered the boar\'s mane to the logistician of Paradise. You can deliver it again in an hour."}
+, Summary = ""}
+, 
+[21433] = {Title = "Paradise Delivered Long Hair", 
+Description = {"You have delivered the long hair to the logistician in Paradise. "}
+, Summary = ""}
+, 
+[21434] = {Title = "Paradise Delivered Horseshoes", 
+Description = {"You have delivered the Horseshoes to the Paradise Corps Logistics Officer. You can deliver them again in an hour."}
+, Summary = ""}
+, 
+[21435] = {Title = "Delivered a short leg to Paradise", 
+Description = {"Delivered a short leg to the paradise group logistician. "}
+, Summary = ""}
+, 
+[21436] = {Title = "Delivered sand to Paradise", 
+Description = {"You have delivered sand to the logistician in Paradise. You can deliver it again in one hour."}
+, Summary = ""}
+, 
+[21437] = {Title = "Paradise Delivered dry sand", 
+Description = {"You have delivered dry sand to the logistician in Paradise. You can deliver it again in one hour."}
+, Summary = ""}
+, 
+[21438] = {Title = "Paradise Delivered Tortoise Shell", 
+Description = {"You have delivered the tortoiseshell to the Paradise Corps logistician. You can deliver it again in one hour."}
+, Summary = ""}
+, 
+[21439] = {Title = "Paradise Corps Delivered a Baby Devil\'s Horn", 
+Description = {"You\'ve delivered the Devil\'s Horn to the Paradise Corps logistician. You can deliver it again in an hour."}
+, Summary = ""}
+, 
+[21440] = {Title = "Delivered Ice Heart to Paradise Corps", 
+Description = {"You have delivered an Ice Heart to the Paradise Corps logistician. You can deliver it again in an hour."}
+, Summary = ""}
+, 
+[21441] = {Title = "Paradise Delivery of Fluff", 
+Description = {"You have delivered the fluff to the paradise clan logistician. You can deliver it again in an hour."}
+, Summary = ""}
+, 
+[21442] = {Title = "Cute guys", 
+Description = {"If you visit the client in person, you can get extra rewards for a one-time fee."}
+, Summary = ""}
+, 
+[21443] = {Title = "Hard guys", 
+Description = {"You can get extra rewards for visiting the client in person, but only once."}
+, Summary = ""}
+, 
+[21444] = {Title = "Gross guys", 
+Description = {"Visit the client in person for a one-time bonus reward."}
+, Summary = ""}
+, 
+[21501] = {Title = "Hunt a Wandering Hornet", 
+Description = {"Hunt down a Wandering Hornet in the field west of Prontera."}
+, Summary = "Defeated 1 Wandering Hornet"}
+, 
+[21502] = {Title = "Hunt a Flying Hornet - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21503] = {Title = "Hunt a Wandering Rocker", 
+Description = {"Hunt down a Wandering Rocker in the field southwest of Prontera."}
+, Summary = "Defeated 1 Wandering Rocker"}
+, 
+[21504] = {Title = "Hunt the Fleeing Locker - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21505] = {Title = "Hunt a Fleeing Amber Knight", 
+Description = {"Hunt down a Wandering Amber Knight in the field west of Prontera."}
+, Summary = "Slayed 1 Wandering Amber Knight"}
+, 
+[21506] = {Title = "Hunt a Fleeing Amber Knight - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21507] = {Title = "Hunt a Boss Mooka", 
+Description = {"You have hunted a Boss Mooka in the field southwest of Izrud."}
+, Summary = "Defeated 1 Boss Mooka"}
+, 
+[21508] = {Title = "Hunt Boss Mooka - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Champions in Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21509] = {Title = "Hunting a boss bigfoot", 
+Description = {"You hunt a boss bigfoot in the field southeast of Payon."}
+, Summary = "Kill 1 boss bigfoot"}
+, 
+[21510] = {Title = "Boss Bigfoot Hunt - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be claimed via the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21511] = {Title = "Hunt a Sturdy Horn", 
+Description = {"Hunt a Sturdy Horn in the field northeast of Feyon."}
+, Summary = "Defeated 1 Sturdy Horn"}
+, 
+[21512] = {Title = "Hunt a Sturdy Horn - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. This quest can be obtained through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21513] = {Title = "Hunt a Fast Elder Willow", 
+Description = {"Hunt a Fast Elder Willow in the field southeast of the Orc Village."}
+, Summary = "Defeated 1 Rapid Elder Willow"}
+, 
+[21514] = {Title = "Quick Elder Willow Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be claimed via the Hunt for Champions in Paradise board."}
+, Summary = "Reset at 04:00"}
+, 
+[21515] = {Title = "Hunt a Sturdy Coco", 
+Description = {"Hunt a Sturdy Coco in the field southwest of Prontera."}
+, Summary = "Defeated 1 Sturdy Coco"}
+, 
+[21516] = {Title = "Hunt a Sturdy Coco - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21517] = {Title = "Hunting a fast yoyo", 
+Description = {"Hunt a Fast Yo-Yo in the field northeast of Prontera."}
+, Summary = "Kill 1 Fast Yo-Yo"}
+, 
+[21518] = {Title = "Quick Yo-Yo Hunt - Standby", 
+Description = {"This is a daily quest that can be reclaimed when the cooldown expires. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21519] = {Title = "Hunt a Wandering White Pearl", 
+Description = {"Hunt down a Wandering White Jade in the field southwest of Izrud."}
+, Summary = "Slaughtered 1 Wandering White Jade"}
+, 
+[21520] = {Title = "Hunt for a Fleeing Citrine - Standby", 
+Description = {"This is a daily quest that can be picked up again when the cooldown expires. The quest can be obtained through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21521] = {Title = "Hunt an Enraged Orc Warrior", 
+Description = {"Hunt down a Wrathful Orc Warrior in the Orc Village."}
+, Summary = "Defeated 1 Enraged Orc Warrior"}
+, 
+[21522] = {Title = "Hunt a Wrathful Orc Warrior - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21523] = {Title = "Hunt a fast goblin", 
+Description = {"Hunt a Fast Goblin in the field south of the Orc Village."}
+, Summary = "Defeated 1 Fast Goblin"}
+, 
+[21524] = {Title = "Quick Goblin Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21525] = {Title = "Hunt a wandering goblin", 
+Description = {"Hunt the wandering goblin in the field southeast of the Orc Village."}
+, Summary = "Defeated 1 Wandering Goblin"}
+, 
+[21526] = {Title = "Hunt Fleeing Goblins - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21527] = {Title = "Hunting a fast petit", 
+Description = {"Hunt a Fast Petite in the field west of Geffen."}
+, Summary = "Kill 1 Rapid Petite"}
+, 
+[21528] = {Title = "Quick Petite Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be claimed via the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21529] = {Title = "Hunt a sturdy petit", 
+Description = {"Hunt a Sturdy Petite in the field northwest of Geffen."}
+, Summary = "Defeated 1 Sturdy Petite"}
+, 
+[21530] = {Title = "Sturdy Petite Hunt - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21531] = {Title = "Hunt a Wrathful Sandman", 
+Description = {"Hunt a Fury Sandman in the field southeast-southeast of Morok."}
+, Summary = "Defeated 1 Wrathful Sandman"}
+, 
+[21532] = {Title = "Hunt a Wrathful Sandman - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21533] = {Title = "Hunting a fast Perseid", 
+Description = {"Hunt a Fast Perseid in the field southeast of Komodo."}
+, Summary = "Defeated 1 Fast Perseid"}
+, 
+[21534] = {Title = "Quick Perseid Hunt - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21535] = {Title = "Hunt a Wandering Grove", 
+Description = {"Hunt down a Wandering Grove in the field east of Komodo."}
+, Summary = "Slayed 1 Wandering Grove"}
+, 
+[21536] = {Title = "Hunt the Wandering Grove - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21537] = {Title = "Hunt a sturdy alligator", 
+Description = {"Hunt a Sturdy Alligator in the field northeast of Komodo."}
+, Summary = "Defeated 1 Sturdy Alligator"}
+, 
+[21538] = {Title = "Hunt a Sturdy Alligator - Standby", 
+Description = {"This is a daily quest that can be reclaimed when the cooldown expires. The quest is available on the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21539] = {Title = "Hunt a Wrathful Utanfighter", 
+Description = {"Hunt a Wrathful Utanfighter in the field west of Prontera."}
+, Summary = "Defeated 1 Wrathful Uthanfighter"}
+, 
+[21540] = {Title = "Hunt a Wrathful Wotanfighter - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Champions in Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21541] = {Title = "Hunt a fast Dryad", 
+Description = {"Hunt a Fast Dryad in the field northwest of Komodo."}
+, Summary = "Defeated 1 Fast Dryad"}
+, 
+[21542] = {Title = "Quick Dryad Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21543] = {Title = "Hunting for fast clams", 
+Description = {"Hunt down a Quick Clam in the field south of Whigel."}
+, Summary = "Hunted 1 Quick Clam"}
+, 
+[21544] = {Title = "Quick Shellfish Hunt - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21545] = {Title = "Hunt a Sturdy Geographer", 
+Description = {"Hunt a Sturdy Geographer in the field north of Aldebaran."}
+, Summary = "Defeated 1 Sturdy Geographer"}
+, 
+[21546] = {Title = "Hunt a Sturdy Geographer - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21547] = {Title = "Hunt a Boss Grand Peko", 
+Description = {"You have hunted a Grand Peko in the field north-northwest of Aldebaran."}
+, Summary = "Defeated 1 Boss Grand Pekko"}
+, 
+[21548] = {Title = "Boss Grand Peko Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. This quest can be obtained through the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21549] = {Title = "Hunt a Boss Goat", 
+Description = {"Hunt a Boss Gout in the field southeast of Yuno."}
+, Summary = "Defeated 1 Boss Gout"}
+, 
+[21550] = {Title = "Hunt a Boss Gout - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be claimed via the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21551] = {Title = "Hunting a Fast Slipper", 
+Description = {"Hunt a Fast Slipper in the field southeast of Yuno."}
+, Summary = "Slayed 1 Fast Slipper"}
+, 
+[21552] = {Title = "Quick Slipper Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21553] = {Title = "Hunt for a fast stemworm", 
+Description = {"Hunt a single Fast Stemworm in the field northeast of Lichtharzen."}
+, Summary = "Kill 1 Fast Stemwyrm"}
+, 
+[21554] = {Title = "Quick Stemworm Hunt - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21555] = {Title = "Hunt a Sturdy Holden", 
+Description = {"Hunt a Sturdy Holden in the field northeast of Ainbrook."}
+, Summary = "Defeated 1 Sturdy Holden"}
+, 
+[21556] = {Title = "Hunt a Sturdy Holden - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21557] = {Title = "Hunt a fast Rafflesia", 
+Description = {"Hunt a Rapid Rafflesia in the field north of Lichtharzen."}
+, Summary = "Slay 1 Rapid Rafflesia"}
+, 
+[21558] = {Title = "Fast Rafflesia Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21559] = {Title = "Hunt a Boss Venomus", 
+Description = {"You\'ve hunted a Boss Venomus in the field north of Ainbrook."}
+, Summary = "Defeated 1 Boss Venomus"}
+, 
+[21560] = {Title = "Hunt Boss Venomous - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21561] = {Title = "Hunt a Wrathful Noxious", 
+Description = {"Hunt a Wrathful Noxious in the fields northeast of Ainbrook."}
+, Summary = "Slay 1 Wrathful Noxious"}
+, 
+[21562] = {Title = "Hunt Wrathful Noxious - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21563] = {Title = "Hunt a Wandering Novus", 
+Description = {"Hunt down a Wandering Novus in the field southwest of Whigel."}
+, Summary = "Slayed 1 Wandering Novus"}
+, 
+[21564] = {Title = "Hunt a Fleeing Novus - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21565] = {Title = "Hunt a Sturdy Rowyn", 
+Description = {"Hunt a Sturdy Rowyn in the field east of Rachel."}
+, Summary = "Defeated 1 Sturdy Rowyn"}
+, 
+[21566] = {Title = "Hunt a Sturdy Rowyn - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21567] = {Title = "Hunt a Boss Staffo", 
+Description = {"Hunt a Boss Staffo in the field south of Bane\'s."}
+, Summary = "1 Boss Staffo slain"}
+, 
+[21568] = {Title = "Hunt Boss Staffo - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21569] = {Title = "Hunt a Fury Smokey", 
+Description = {"Hunt a Fury Smokey in Ayotaya Fields."}
+, Summary = "Defeated 1 Wrathful Smokey"}
+, 
+[21570] = {Title = "Furious Smokey Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21571] = {Title = "Hunt for the boss Jingdong", 
+Description = {"Hunt down one of the bosses in Kunlun Fields."}
+, Summary = "Defeated 1 Boss Light Dandong"}
+, 
+[21572] = {Title = "Hunt a Boss Light Dancer - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21573] = {Title = "Hunt a Wrathful Tookan", 
+Description = {"Hunt a Fury Tookan in Brasilis Fields."}
+, Summary = "Defeated 1 Wrathful Tookan"}
+, 
+[21574] = {Title = "Hunt a Wrathful Tukan - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. This quest can be obtained through the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21575] = {Title = "Hunt for a sturdy sidewinder", 
+Description = {"Hunt down a Sturdy Sidewinder in Moscovia Fields."}
+, Summary = "Defeated 1 Sturdy Sidewinder"}
+, 
+[21576] = {Title = "Hunt a Sturdy Sidewinder - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21577] = {Title = "Hunting a fast caracasa", 
+Description = {"Hunt a Fast Caracasa in the Amatsu Fields."}
+, Summary = "Defeated 1 Fast Caracasa"}
+, 
+[21578] = {Title = "Quick Caracasa Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21579] = {Title = "Hunt a wandering food sheep", 
+Description = {"Hunt down a Wandering Eater in the Yongji Castle Fields."}
+, Summary = "Slayed 1 Wandering Eater"}
+, 
+[21580] = {Title = "Hunt the Fleeing Prey - Standby", 
+Description = {"This is a daily quest that can be reclaimed when the cooldown expires. You can obtain this quest through the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21581] = {Title = "To the Temple of Odin", 
+Description = {"Morvand has asked for a favor. Let\'s go to the Temple of Odin to slay the monsters."}
+, Summary = "To the Temple of Odin"}
+, 
+[21582] = {Title = "From the one who radios", 
+Description = {"Defeat 20 Skaggs, rumored to be in communication with the devil."}
+, Summary = "20 Skogles"}
+, 
+[21583] = {Title = "From the Radio Operator - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Morvand in Whigel."}
+, Summary = "Reset at 04:00"}
+, 
+[21584] = {Title = "From the one who radioed again", 
+Description = {"Defeat 20 Skaggs, rumored to be in communication with the devil."}
+, Summary = "20 Skaggs"}
+, 
+[21585] = {Title = "Demon Purification", 
+Description = {"Slay 20 Prus, whose bizarre movements give you the creeps."}
+, Summary = "20 Prus"}
+, 
+[21586] = {Title = "Demonic Purification - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Order of Paradise bulletin board or Morvand of Whigel."}
+, Summary = "Reset at 04:00"}
+, 
+[21587] = {Title = "Purge the demons again", 
+Description = {"Slay 20 Prus, whose bizarre movements give you the creeps."}
+, Summary = "20 Prus"}
+, 
+[21588] = {Title = "Before you are fooled", 
+Description = {"Defeat 5 brown and 5 blue Skegolts, a cute but fearsome monster."}
+, Summary = "5 Skegolts each"}
+, 
+[21589] = {Title = "Before You Be Dazzled - Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or Morvand of Whigel."}
+, Summary = "Reset at 04:00"}
+, 
+[21590] = {Title = "Before you\'re fooled again", 
+Description = {"Defeat 5 brown and 5 blue Skegolts, the cute but fearsome monsters."}
+, Summary = "5 Skegolts each"}
+, 
+[21591] = {Title = "To the Living Challenge", 
+Description = {"I\'ve been asked to do a favor by an unknown person. Let\'s go to the vital challenge."}
+, Summary = "To the Living Challenge"}
+, 
+[21592] = {Title = "Ignigem Xenia", 
+Description = {"Rest in peace, Ignisem Senia."}
+, Summary = "30 Ignizem Xenia"}
+, 
+[21593] = {Title = "Ignigem Xenia - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21594] = {Title = "Again Igniseme Senia", 
+Description = {"Rest in peace, Ignisem Senia."}
+, Summary = "30 Ignizem Xenia"}
+, 
+[21595] = {Title = "Armaire Dinze", 
+Description = {"Armaire Dinze rest in peace."}
+, Summary = "30 Armaire Dinze"}
+, 
+[21596] = {Title = "Armeyer Dinze - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21597] = {Title = "Armeyer Dinze again", 
+Description = {"Armaire Dinze rest in peace."}
+, Summary = "30 Armaire Dinze"}
+, 
+[21598] = {Title = "Whiskebein Tris", 
+Description = {"Rest in peace, Whiskevine Tris."}
+, Summary = "30 Whiskebein Tris"}
+, 
+[21599] = {Title = "Wyckebein Tris-Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21600] = {Title = "Return of the Whiskevine Tris", 
+Description = {"Rest in peace, Whiskevine Tris."}
+, Summary = "30 Whiskebein Tris"}
+, 
+[21601] = {Title = "Kabak Icarus", 
+Description = {"Rest in peace, Kabak Icarus."}
+, Summary = "30 Kavak Icarus"}
+, 
+[21602] = {Title = "Kavak Icarus - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21603] = {Title = "RIP Kabak Icarus", 
+Description = {"Rest in peace, Kavak Icarus."}
+, Summary = "30 Kabak Icarus"}
+, 
+[21604] = {Title = "Irend Ebesi", 
+Description = {"Rest in peace, Irend Evesi."}
+, Summary = "30 Irene Ebesh"}
+, 
+[21605] = {Title = "Irend Evesi - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21606] = {Title = "Rest in peace Irene Evesey", 
+Description = {"Rest in peace, Irene Evesey."}
+, Summary = "30 Elend Ebesh"}
+, 
+[21607] = {Title = "Raurel Binder", 
+Description = {"Rest in peace, Laurel Binder"}
+, Summary = "30"}
+, 
+[21608] = {Title = "Laurel Binder - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21609] = {Title = "Return to Laurel Binder", 
+Description = {"Rest in peace, Laurel Binder"}
+, Summary = "30 Laurel Binder"}
+, 
+[21610] = {Title = "Cecil B. DeMille", 
+Description = {"Rest in Peace to Cecil B. DeMille"}
+, Summary = "2 Cecil Dyman"}
+, 
+[21611] = {Title = "Chamber Daemon - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21612] = {Title = "RIP Cecil B. DeMonk", 
+Description = {"Rest in Peace to Cecil B. DeMille"}
+, Summary = "2 Cecil B. DeMonds"}
+, 
+[21613] = {Title = "Catherine Keiron", 
+Description = {"Rest in Peace to Catherine Keillor"}
+, Summary = "2 Katrinin Kayron"}
+, 
+[21614] = {Title = "Catrine Keiron - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21615] = {Title = "Rest in Peace to Catherine Keiron", 
+Description = {"Rest in peace to Catherine Keillor"}
+, Summary = "2 Katrin de Ceylon"}
+, 
+[21616] = {Title = "Margareta Sorin", 
+Description = {"Rest in peace, Margareta Sorin"}
+, Summary = "2 Margaretha Sorin"}
+, 
+[21617] = {Title = "Magaretha Sorin - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21618] = {Title = "Rest in Peace Margareta Sorin", 
+Description = {"Rest in peace, Margareta Sorin"}
+, Summary = "2 Margaretha Sorin"}
+, 
+[21619] = {Title = "Siren Windsor", 
+Description = {"Rest in peace to Siren Windsor"}
+, Summary = "2 Siren Windsor"}
+, 
+[21620] = {Title = "Siren Windsor - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21621] = {Title = "Rest in Peace Siren Windsor", 
+Description = {"Rest in peace to Siren Windsor"}
+, Summary = "2 Siren Windsor"}
+, 
+[21622] = {Title = "Eremes Gail", 
+Description = {"Rest in peace, Eremes Gail."}
+, Summary = "2 Eremes Gail"}
+, 
+[21623] = {Title = "Eremes Gile - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21624] = {Title = "Rest in peace Eremes Gail", 
+Description = {"Rest in peace to Eremes Gail."}
+, Summary = "2 Eremes Gail"}
+, 
+[21625] = {Title = "Howard Alt-Eisen", 
+Description = {"Rest in peace, Howard AltEisen."}
+, Summary = "2 Howard Altizen"}
+, 
+[21626] = {Title = "Howard Alt-Eisen - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the trail of fires in Lichtharzen."}
+, Summary = "Reset at 04:00"}
+, 
+[21627] = {Title = "RIP Howard AltEisen", 
+Description = {"Rest in peace, Howard AltEisen."}
+, Summary = "2 Howard AltEisen"}
+, 
+[21628] = {Title = "To the Nogrod Lava Dungeon", 
+Description = {"You\'ve been asked by the staff at the Monster Museum. Let\'s go to the Nogrod Lava Dungeon."}
+, Summary = "To the Nogrod Lava Dungeon"}
+, 
+[21629] = {Title = "Capture a Nightmare Terror", 
+Description = {"Hunt 30 Nightmare Terror so you can display them in the museum."}
+, Summary = "30 Nightmare Terror"}
+, 
+[21630] = {Title = "Capture a Nightmare Terror - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from the museum staff in Yuno, Elmes Platou."}
+, Summary = "Reset at 04:00"}
+, 
+[21631] = {Title = "Capturing the Nightmare Terror again", 
+Description = {"Hunt 30 Nightmare Terror so you can display them in the museum."}
+, Summary = "30 Nightmare Terror"}
+, 
+[21632] = {Title = "Capture a Dilator", 
+Description = {"Hunt down 30 Deliters so you can display them in your museum."}
+, Summary = "30 airborne and 30 ground Deltas"}
+, 
+[21633] = {Title = "Capture Delitter - Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from the museum staff in Yuno, Elmes Platou."}
+, Summary = "Reset at 04:00"}
+, 
+[21634] = {Title = "Capture the Dilator again", 
+Description = {"Hunt 30 Dilithers so we can display them in the museum."}
+, Summary = "30 airborne and 30 ground Dilators"}
+, 
+[21635] = {Title = "Collect hardened lava", 
+Description = {"Collect 10 hardened lava to help the museum\'s finances."}
+, Summary = "10 hardened lava rocks"}
+, 
+[21636] = {Title = "Collect Solidified Lava - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from the museum staff in Yuno, Elmes Platou."}
+, Summary = "Reset at 04:00"}
+, 
+[21637] = {Title = "Collect hardened lava again", 
+Description = {"Collect 10 hardened lava to help the museum\'s finances."}
+, Summary = "10 hardened lava"}
+, 
+[21638] = {Title = "Red Dragon of Lake Abyss", 
+Description = {"You\'ve been asked by Nahadan. Let\'s go to Lake Abyss and catch 30 Red Ferus."}
+, Summary = "30 Red Ferrers"}
+, 
+[21639] = {Title = "Traveler rescued", 
+Description = {"Nahadan has rescued an injured traveler. Let\'s get back to town in case you need to help with something."}
+, Summary = "Returning to Whigel"}
+, 
+[21640] = {Title = "Lake Dragon", 
+Description = {"For the safety of travelers, hunt 30 red and 30 green ferus."}
+, Summary = "30 red and 30 green ferrers"}
+, 
+[21641] = {Title = "Lake Dragon - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Nahadan in Whigel."}
+, Summary = "Reset at 04:00"}
+, 
+[21642] = {Title = "Dashi Lake Dragon", 
+Description = {"Let\'s hunt 30 red and 30 green ferus for the safety of travelers."}
+, Summary = "30 red and 30 green ferrus"}
+, 
+[21643] = {Title = "Lake Rain Dragon", 
+Description = {"Hunt 30 Yellow and 30 Blue Acidus for the safety of the lake."}
+, Summary = "30 Yellow and 30 Blue Acidus each"}
+, 
+[21644] = {Title = "Lake Beast - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Order bulletin board or from Nahadan in Whigel."}
+, Summary = "Reset at 04:00"}
+, 
+[21645] = {Title = "Dashi Lake\'s Rain Dragon", 
+Description = {"Hunt 30 Yellow and 30 Blue Acidus for the safety of the lake."}
+, Summary = "30 Yellow and 30 Blue Acidus each"}
+, 
+[21646] = {Title = "Triadragon of the Lake", 
+Description = {"Hunt 1 Hydrolancer deep in the Lake Region."}
+, Summary = "1 Hydrolancer"}
+, 
+[21647] = {Title = "Lake Three-headed Dragon - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Whigel\'s Nahadan."}
+, Summary = "Reset at 04:00"}
+, 
+[21648] = {Title = "Dashi Lake\'s Three-headed Dragon", 
+Description = {"Hunt 1 Hydrolancer deep in the lake area."}
+, Summary = "1 Hydrolancer"}
+, 
+[21649] = {Title = "To Thanatos Tower", 
+Description = {"Accept Avril\'s request to hunt the monsters in the lower levels of Thanatos Tower."}
+, Summary = "To Thanatos Tower"}
+, 
+[21650] = {Title = "To Thanatos Tower", 
+Description = {"Accept Tart\'s request and hunt down the monsters on the upper levels of Thanatos Tower."}
+, Summary = "To Thanatos Tower"}
+, 
+[21651] = {Title = "In Mimic\'s Box", 
+Description = {"A request from Avril, who seems more interested in the contents than the monsters. Hunt down 30 Ancient Mimics. "}
+, Summary = "30 Ancient Mimics"}
+, 
+[21652] = {Title = "In Mimic\'s Box - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Avril at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21653] = {Title = "In Mimic\'s box again", 
+Description = {"A request from Avril, who seems more interested in the contents than the monsters. Let\'s hunt down 30 Ancient Mimics. "}
+, Summary = "30 Ancient Mimics"}
+, 
+[21654] = {Title = "Dispersed Wisdom", 
+Description = {"Hunt down 30 Deathwords that may contain rare knowledge."}
+, Summary = "30 Deathwards"}
+, 
+[21655] = {Title = "Drifting Old Wisdom - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Avril at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21656] = {Title = "Returning to the old wisdom", 
+Description = {"Hunt 30 Deathwords that may contain rare knowledge."}
+, Summary = "30 Deathwards"}
+, 
+[21657] = {Title = "Baron of the Castle", 
+Description = {"Hunt 20 Aul Barons while keeping an eye on your relationship with Duke Aul."}
+, Summary = "20 Aul Barons"}
+, 
+[21658] = {Title = "Castle Baron - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Order bulletin board or from Avril at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21659] = {Title = "Baron of the Castle", 
+Description = {"Hunt 20 Aul Barons while keeping an eye on your relationship with Duke Aul."}
+, Summary = "20 Aul Barons"}
+, 
+[21660] = {Title = "Bits of Knowledge", 
+Description = {"Collect 10 Bloody Bookshelves, which are sometimes found in Deathward."}
+, Summary = "10 Bloodstained Bookshelves"}
+, 
+[21661] = {Title = "Nuggets of Knowledge - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Avril at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21662] = {Title = "Again, the knowledge in bits and pieces", 
+Description = {"Collect 10 bloody bookshelves that are sometimes found in Deathward."}
+, Summary = "10 Bloodstained Bookshelves"}
+, 
+[21663] = {Title = "A Record of Old Magic", 
+Description = {"Let\'s collect 10 old magic circles that the Elder has from time to time."}
+, Summary = "10 Worn Magical Scrolls"}
+, 
+[21664] = {Title = "A Record of Old Magic - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Avril at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21665] = {Title = "Old Magic Records Again", 
+Description = {"Let\'s collect 10 old magic circles that the Elder has from time to time."}
+, Summary = "10 Worn Magic Scrolls"}
+, 
+[21666] = {Title = "Recycling", 
+Description = {"Collect 30 tattered clothes belonging to Aul Duke or Aul Baron."}
+, Summary = "30 Tattered Clothes"}
+, 
+[21667] = {Title = "Collect Recyclables - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Avril at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21668] = {Title = "Recycling again", 
+Description = {"Collect 30 tattered clothes that belong to either Aul Duke or Aul Baron."}
+, Summary = "30 Tattered Clothes"}
+, 
+[21669] = {Title = "Surveillance and Punishment", 
+Description = {"Hunt down 30 agents of the Divine Punishment who seek to limit human exploration."}
+, Summary = "30 agents of the god punishment"}
+, 
+[21670] = {Title = "Surveillance and Punishment - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Order bulletin board or from the tart at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21671] = {Title = "Surveillance and Punishment Again", 
+Description = {"Hunt down 30 agents of the Divine Punishment who seek to limit human exploration."}
+, Summary = "30 Agents of the Divine Punishment"}
+, 
+[21672] = {Title = "Sweet poison", 
+Description = {"Hunt down 30 Consolers, who are nothing but sweet poison to your ears."}
+, Summary = "30 Consolers"}
+, 
+[21673] = {Title = "Sweet Poison - Waiting", 
+Description = {"This is a daily quest that can be picked up again when the wait expires. You can pick up the quest from the Paradise Corps bulletin board or from the tart at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21674] = {Title = "Sweet poison again", 
+Description = {"Let\'s hunt down 30 Consolers, who are nothing but sweet poison to the ears."}
+, Summary = "30 Consolers"}
+, 
+[21675] = {Title = "Death brings peace", 
+Description = {"Let\'s hunt down the first 30 of the Rest Givers here, as their intentions are obviously to give you rest by killing you."}
+, Summary = "30 Rest Givers"}
+, 
+[21676] = {Title = "Rest in Death - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the tart at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21677] = {Title = "Death again brings rest", 
+Description = {"Let\'s hunt down the first 30 of the Rest Givers, the ones who want to give you rest by killing you."}
+, Summary = "30 Givers of Rest"}
+, 
+[21678] = {Title = "Seeds of Control", 
+Description = {"To stop the surveillance that begins control, hunt 30 Watchers."}
+, Summary = "30 Watchers"}
+, 
+[21679] = {Title = "Seeds of Control - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or the tart at the museum entrance in the lower level of Thanatos Tower."}
+, Summary = "Reset at 04:00"}
+, 
+[21680] = {Title = "The seeds of control again", 
+Description = {"To stop the surveillance that begins control, hunt down 30 Watchers."}
+, Summary = "30 Watchers"}
+, 
+[21681] = {Title = "To Glastheim", 
+Description = {"Accept Father Darketh\'s request and head to Glastheim itself."}
+, Summary = "To Glastheim"}
+, 
+[21682] = {Title = "To Glastheim", 
+Description = {"Accept Chiab\'s request and head to the Knights of Glastheim."}
+, Summary = "To Glastheim"}
+, 
+[21683] = {Title = "Poor clown", 
+Description = {"Poor clown, hunt 30 carats to comfort your soul."}
+, Summary = "30 carats"}
+, 
+[21684] = {Title = "Pitiful Clown - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Corps bulletin board or from Darketh in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21685] = {Title = "Again the poor clown", 
+Description = {"Poor clown, hunt 30 carats to comfort your soul."}
+, Summary = "30 Carats"}
+, 
+[21686] = {Title = "A small bug", 
+Description = {"Let\'s hunt down 30 Akraus and send them to the gods, who watch over even these tiny insects."}
+, Summary = "30 Akraus"}
+, 
+[21687] = {Title = "One Small Bug - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Darketh in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21688] = {Title = "Again one tiny bug", 
+Description = {"Let\'s hunt down 30 Akraus and send them to the gods, who watch over even these tiny worms."}
+, Summary = "30 Akraus"}
+, 
+[21689] = {Title = "If I\'m alive, I\'m going to heaven", 
+Description = {"Thirty Anolians, beaten to a pulp to purify them."}
+, Summary = "30 Anolians"}
+, 
+[21690] = {Title = "If You\'re Alive, Go to Heaven - Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Darketh in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21691] = {Title = "I would go to heaven if I were alive again", 
+Description = {"Thirty Anolians, beaten to a pulp to purify them."}
+, Summary = "30 Anolians"}
+, 
+[21692] = {Title = "Doubt not", 
+Description = {"Don\'t doubt that Sting has a soul, let\'s just beat 30 of them to a pulp."}
+, Summary = "30 Stings"}
+, 
+[21693] = {Title = "Doubt Not - Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Darketh in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21694] = {Title = "Doubt not again", 
+Description = {"Don\'t doubt that Sting has a soul, let\'s just beat the crap out of 30 of them."}
+, Summary = "30 Stings"}
+, 
+[21695] = {Title = "Delicious, no, poor soul", 
+Description = {"Thirty Meizhou Loths, beaten to a pulp to purify them."}
+, Summary = "30 Meizhouros"}
+, 
+[21696] = {Title = "Delicious, no, poor soul - waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Order bulletin board or from Darketh in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21697] = {Title = "Delicious again, no poor soul", 
+Description = {"Thirty Meizhouros, beaten to a pulp to purify them."}
+, Summary = "30 Meizhouros"}
+, 
+[21698] = {Title = "Empty armor", 
+Description = {"Hunt down 30 Radrik and help Chiab."}
+, Summary = "30 Radrik"}
+, 
+[21699] = {Title = "Just Empty Armor - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Chiab in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21700] = {Title = "An empty suit of armor again", 
+Description = {"Let\'s hunt down 30 Radrik and help Chiab."}
+, Summary = "30 Radrik"}
+, 
+[21701] = {Title = "Maybe a straight soul", 
+Description = {"Hunt 30 Kalitzburgs to help Chiab."}
+, Summary = "30 Kalitzbugs"}
+, 
+[21702] = {Title = "Maybe a Straight Soul - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Chiab in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21703] = {Title = "Again, maybe a straight soul", 
+Description = {"Hunt 30 Kalitzburgs to help Chiab."}
+, Summary = "30 Kalitzbugs"}
+, 
+[21704] = {Title = "Nemesis of the Knight", 
+Description = {"Hunt down 30 Prowlers and help Chiab."}
+, Summary = "30 Prowlers"}
+, 
+[21705] = {Title = "Nemesis of Knights - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Chiab in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21706] = {Title = "A knight\'s nemesis again", 
+Description = {"Hunt down 30 Prowlers and help Chiab."}
+, Summary = "30 Wandering Ones"}
+, 
+[21707] = {Title = "A worthy opponent", 
+Description = {"Hunt down 10 Abyssal Knights and help Chiab."}
+, Summary = "10 Abyssal Knights"}
+, 
+[21708] = {Title = "Worthy Opponent - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Chiab in Glastheim."}
+, Summary = "Reset at 04:00"}
+, 
+[21709] = {Title = "An opponent worth fighting again", 
+Description = {"Hunt down 10 Abyssal Knights and help Chiab."}
+, Summary = "10 Abyssal Knights"}
+, 
+[21710] = {Title = "To the Otherworld", 
+Description = {"Accept Yerne\'s request and hunt the monsters of the Otherworld."}
+, Summary = "Into the Otherworld"}
+, 
+[21711] = {Title = "To the Otherworld", 
+Description = {"Accept Theodore\'s request to hunt monsters in the Otherworld."}
+, Summary = "To the Otherworld"}
+, 
+[21712] = {Title = "To Mora Village", 
+Description = {"Accept Nunu\'s request to hunt monsters around Mora Village."}
+, Summary = "To Mora Village"}
+, 
+[21713] = {Title = "Girl draped in leaves", 
+Description = {"Let\'s catch 30 beautiful pinguicula."}
+, Summary = "30 Pinguicula"}
+, 
+[21714] = {Title = "Girl with Leaves - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Yerne in the Midgard Union Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21715] = {Title = "Girl with leaves again", 
+Description = {"Let\'s catch 30 beautiful pinguicula."}
+, Summary = "30 Pinguicula"}
+, 
+[21716] = {Title = "Thrilling beauty", 
+Description = {"Let\'s catch 30 thrillingly cool Luciola Vespas."}
+, Summary = "30 luciola vespas"}
+, 
+[21717] = {Title = "Electrifying Beauty - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Yerne in the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21718] = {Title = "A thrilling beauty again", 
+Description = {"Let\'s catch 30 thrillingly cool Luciola Vespas."}
+, Summary = "30 luciola vespas"}
+, 
+[21719] = {Title = "King of the Otherworld", 
+Description = {"Let\'s catch 1 majestic Tendrillion."}
+, Summary = "1 Tendrillion"}
+, 
+[21720] = {Title = "King of the Otherworld - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Yerne in the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21721] = {Title = "King of the Otherworld", 
+Description = {"Let\'s catch 1 majestic Tendrillion."}
+, Summary = "1 Tendrillion"}
+, 
+[21722] = {Title = "Lady draped in leaves", 
+Description = {"Let\'s catch 30 Pinguicula Darks with their mature beauty."}
+, Summary = "30 Pinguicula Darks"}
+, 
+[21723] = {Title = "Lady with Leaves - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Yerne in the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21724] = {Title = "Lady draped in leaves again", 
+Description = {"Let\'s catch 30 Pinguicula Darks with their mature beauty."}
+, Summary = "30 Pinguicula Darks"}
+, 
+[21725] = {Title = "Dried flower bookmark", 
+Description = {"Let\'s catch 30 Nepenthes with beautiful flowers."}
+, Summary = "30 Nepenthes"}
+, 
+[21726] = {Title = "Dried Flower Bookmark - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Yerne in the Midgard Union Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21727] = {Title = "Dried Flowers Bookmark", 
+Description = {"Let\'s catch 30 Nepenthes with beautiful flowers."}
+, Summary = "30 Nependes"}
+, 
+[21728] = {Title = "Good... Muscle!", 
+Description = {"Let\'s catch 30 nagas with nice muscles."}
+, Summary = "30 Naga"}
+, 
+[21729] = {Title = "Good... Muscle!-Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Yerne in the Midgard Union Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21730] = {Title = "Good again... Muscle!", 
+Description = {"Let\'s catch 30 nagas with nice muscles."}
+, Summary = "30 Naga"}
+, 
+[21731] = {Title = "Fairytale", 
+Description = {"Let\'s catch 30 Cornus, like something out of a fairy tale."}
+, Summary = "30 Cornus"}
+, 
+[21732] = {Title = "Fairytale - wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from Yerne in the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21733] = {Title = "Fairytale Again", 
+Description = {"Let\'s catch 30 Cornus, just like in a fairy tale."}
+, Summary = "30 Cornus"}
+, 
+[21734] = {Title = "Stimulating charm", 
+Description = {"Let\'s catch 20 cute centipede larvae with sexy carapaces."}
+, Summary = "20 centipede larvae"}
+, 
+[21735] = {Title = "Stimulating Charm - Standby", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Yerne in the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21736] = {Title = "Revitalize your attraction", 
+Description = {"Let\'s catch 20 cute centipede larvae with sexy carapaces."}
+, Summary = "20 centipede larvae"}
+, 
+[21737] = {Title = "Horn of Enchantment", 
+Description = {"Collect 20 of Cornus\'s precious Horns of Enchantment."}
+, Summary = "20 Horns of Enchantment"}
+, 
+[21738] = {Title = "Horn of Enchantment - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Yerne in the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21739] = {Title = "An enchanted horn again", 
+Description = {"Collect 20 precious Horns of Enchantment that contain the magic of Cornus."}
+, Summary = "20 Horns of Enchantment"}
+, 
+[21740] = {Title = "Venomous Bug", 
+Description = {"Defeat 20 Centipedes, a fearsome, fertile, and poisonous creature."}
+, Summary = "20 Centipede"}
+, 
+[21741] = {Title = "Poisonous Bug - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or Theodore at the Midgard Union Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21742] = {Title = "Venomous Bugs Again", 
+Description = {"Defeat 20 Centipedes, a fearsome, fertile, and poisonous creature."}
+, Summary = "20 Centipedes"}
+, 
+[21743] = {Title = "Incompetent lazy", 
+Description = {"20 Tachos for being lazy and always on the go."}
+, Summary = "20 Tachos"}
+, 
+[21744] = {Title = "Incompetent Idler - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be picked up from the Paradise Order Bulletin Board or Theodore at the Midgard Union Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21745] = {Title = "The incompetent slacker again", 
+Description = {"20 Tachos for being lazy and always on the go."}
+, Summary = "20 Tachos"}
+, 
+[21746] = {Title = "The appearance is a shell", 
+Description = {"Let us slay 30 Dolomedes, lest the foolish be deceived by appearances."}
+, Summary = "30 Dolomedes"}
+, 
+[21747] = {Title = "It looks like a shell - waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or Theodore at the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21748] = {Title = "Again, appearances are deceiving", 
+Description = {"Lest the foolish be deceived by appearances, let us slay 30 Dolomedes."}
+, Summary = "30 Dolomedes"}
+, 
+[21749] = {Title = "Snap the horns", 
+Description = {"Defeat 30 Horned Scarabas in Scarabas Hall."}
+, Summary = "30 Horned Scarabas"}
+, 
+[21750] = {Title = "Horns on end", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or Theodore at the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21751] = {Title = "Snap the horns again", 
+Description = {"Defeat 30 Horned Scarabas in Scarabas Hall."}
+, Summary = "30 Horned Scarabas"}
+, 
+[21752] = {Title = "Take off the Twin Horns", 
+Description = {"Defeat 30 Twin-Horned Scarabas in Scarabas Hall."}
+, Summary = "30 Twin-Horned Scarabas"}
+, 
+[21753] = {Title = "Twinned Horns - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or Theodore at the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21754] = {Title = "Two horns again", 
+Description = {"Defeat 30 Twin-Horned Scarabas in Scarabas Hall."}
+, Summary = "30 Twin-Horned Scarabas"}
+, 
+[21755] = {Title = "Mistaken Antlers", 
+Description = {"Defeat 30 Antler Scarabas in Scarabas Hall."}
+, Summary = "30 Antler Scarabas"}
+, 
+[21756] = {Title = "Ododox Antlers - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or Theodore at the Midgard Union Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21757] = {Title = "Odog Dog the Antlers again", 
+Description = {"Defeat 30 Antler Scarabas in Scarabas Hall."}
+, Summary = "30 Antler Scarabas"}
+, 
+[21758] = {Title = "Dominate a Clawed Scarab", 
+Description = {"Defeat 30 Clawed Scarabas in Scarabas Hall."}
+, Summary = "30 Rakehorn Scarabas"}
+, 
+[21759] = {Title = "Dominate the Pitchfork - Wait", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or Theodore at the Midgard Alliance Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21760] = {Title = "Dominate the Claws again", 
+Description = {"Defeat 30 Clawed Scarabas in Scarabas Hall."}
+, Summary = "30 Rakehorn Scarabas"}
+, 
+[21761] = {Title = "Morok\'s Harassment", 
+Description = {"Defeat 15 Flame Condors and 15 Flame Pridoras, each of which has been horrified by Morok\'s harassment."}
+, Summary = "15 Flame Condors and 15 Flame Prildoras each"}
+, 
+[21762] = {Title = "Moroq\'s Harassment - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or Theodore at the Midgard Union Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21763] = {Title = "Morok\'s Harassment again", 
+Description = {"Defeat 15 Flame Condors and 15 Flame Pridoras, each of which has been horrifically transformed by Morok\'s harassment."}
+, Summary = "15 Flame Condors and 15 Flame Prildoras each"}
+, 
+[21764] = {Title = "Morok\'s Nongan", 
+Description = {"Defeat 15 Flame Sandmen and 15 Flame Gorem that have been rampaged by Morok\'s rampage."}
+, Summary = "15 Flame Sandmen and 15 Flame Gorems each"}
+, 
+[21765] = {Title = "Morok\'s Nongan - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait. You can pick up the quest from the Paradise Order Bulletin Board or Theodore at the Midgard Union Garrison."}
+, Summary = "Reset at 04:00"}
+, 
+[21766] = {Title = "Morok\'s Nongan again", 
+Description = {"Defeat 15 Flame Sandmen and 15 Flame Gorem that have been rampaged by Morok\'s rampage."}
+, Summary = "15 Flame Sandmen and 15 Flame Gorems each"}
+, 
+[21767] = {Title = "Nunu", 
+Description = {"Let\'s hunt down 20 Mimings and clear the way for Nunu to go on her adventure."}
+, Summary = "20 Mimings"}
+, 
+[21768] = {Title = "A Bubbly Little Kid - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Nunu in Mora Town."}
+, Summary = "Reset at 04:00"}
+, 
+[21769] = {Title = "A bubbly little girl again", 
+Description = {"Let\'s hunt down 20 Mimings to clear the way for Nunu to go on her adventure."}
+, Summary = "20 Mimings"}
+, 
+[21770] = {Title = "Little prankster", 
+Description = {"Let\'s hunt down 20 Little Fatum and clear the way for Nunu to go on her adventure."}
+, Summary = "20 Little Fatum"}
+, 
+[21771] = {Title = "Tiny Prankster - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the Paradise Corps bulletin board or from Nunu in Mora Town."}
+, Summary = "Reset at 04:00"}
+, 
+[21772] = {Title = "A Little Prankster Again", 
+Description = {"Let\'s hunt down 20 Little Fatum and clear the way for Nunu so she can go on her adventure."}
+, Summary = "20 Little Fatums"}
+, 
+[21773] = {Title = "In Search of Morok\'s Manifestation", 
+Description = {"Accumulate the energy of Morok\'s manifestation at Lartal\'s request."}
+, Summary = "Find Morok\'s Manifestation"}
+, 
+[21774] = {Title = "Angelic Forms", 
+Description = {"Hunt 30 Valkyrie-type Moroks for Lartal\'s unfulfillable fantasy."}
+, Summary = "30 Valkyrie-type Morok manifestations"}
+, 
+[21775] = {Title = "Angelic Form - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Lartal in Morrocc."}
+, Summary = "Reset at 04:00"}
+, 
+[21776] = {Title = "Angelic Form Again", 
+Description = {"Hunt 30 Valkyrie-type Moroks for Lartal\'s unfulfillable fantasy."}
+, Summary = "30 Valkyrie-type Moroks"}
+, 
+[21777] = {Title = "Blessing of Rest", 
+Description = {"Hunt down 30 Mud-type Moroks for Lartal\'s unfulfillable delusions."}
+, Summary = "30 Mud-type Morok Manifestations"}
+, 
+[21778] = {Title = "Blessing of Rest - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Corps bulletin board or from Lartal in Morrocc."}
+, Summary = "Reset at 04:00"}
+, 
+[21779] = {Title = "Blessing of Rest", 
+Description = {"Hunt down 30 Mud-type Moroks for Lartal\'s unfulfillable delusion."}
+, Summary = "30 Mud-type Morok Manifestations"}
+, 
+[21780] = {Title = "Binding Joy", 
+Description = {"Hunt 30 Exorcist-type Moroks for Lartal\'s unfulfillable delusions."}
+, Summary = "30 Exorcist-type Moroccan Manifestations"}
+, 
+[21781] = {Title = "Joy of Bondage - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order Bulletin Board or from Lartal in Morrocc."}
+, Summary = "Reset at 04:00"}
+, 
+[21782] = {Title = "The Joy of Bondage", 
+Description = {"Hunt 30 Exorcist-type Moroks for Lartal\'s unfulfillable delusions."}
+, Summary = "30 Exorcist-type Moroccan Manifestations"}
+, 
+[21783] = {Title = "The embodiment of purity", 
+Description = {"Hunt 30 Ghostly Moroks for Lartal\'s unfulfillable delusions."}
+, Summary = "30 Ghostly Morok Manifestations"}
+, 
+[21784] = {Title = "Implementation of Purity - Waiting", 
+Description = {"This is a daily quest that can be picked up again at the end of the cooldown. The quest can be picked up from the Paradise Order bulletin board or from Lartal in Morrork."}
+, Summary = "Reset at 04:00"}
+, 
+[21785] = {Title = "Implementing purity again", 
+Description = {"Hunt 30 Ghostly Moroks for Lartal\'s unfulfillable delusions."}
+, Summary = "30 Ghostly Morok manifestations"}
+, 
+[21786] = {Title = "Hunt a Wandering Carat", 
+Description = {"Hunt down a Wandering Carat on the first floor of Glastheim Castle."}
+, Summary = "Defeated 1 Wandering Carat"}
+, 
+[21787] = {Title = "Hunt for Fleeing Carats - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21788] = {Title = "Hunt a Wrathful Meizuroth", 
+Description = {"Hunt a Wrathful Meizuroth on the 2nd floor of Glastheim\'s underground caverns."}
+, Summary = "Defeated 1 Wrathful Meizuroth"}
+, 
+[21789] = {Title = "Hunt a Wrathful Meizhouros - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. This quest can be obtained through the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21790] = {Title = "Hunt a Sturdy Radrik", 
+Description = {"Hunt a Sturdy Radrik on the first floor of the Knights of Glastheim."}
+, Summary = "Defeated 1 Sturdy Radrik"}
+, 
+[21791] = {Title = "Hunt a Sturdy Radrik - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Champions in Paradise board."}
+, Summary = "Reset at 04:00"}
+, 
+[21792] = {Title = "Hunt a Fast Radrik", 
+Description = {"Hunt a Fast Radrik on the second floor of the Knights of Glastheim."}
+, Summary = "Kill 1 Fast Radrik"}
+, 
+[21793] = {Title = "Quick Hunt for Radrik - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21794] = {Title = "Hunt a Wrathful Prowler", 
+Description = {"Hunt a Raging Prowler on the 2nd floor of Glastheim Castle."}
+, Summary = "Slayed 1 Wrathful Prowler"}
+, 
+[21795] = {Title = "Hunt a Wrathful Prowler - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21796] = {Title = "Hunt a fast Zombie Slaughter", 
+Description = {"Hunt a Fast Zombie Slaughter in the basement of the Monastery on the Nameless Island."}
+, Summary = "Kill 1 Rapid Zombie Slaughter"}
+, 
+[21797] = {Title = "Quick Zombie Slaughter Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21798] = {Title = "Hunt a fast banshee", 
+Description = {"Hunt a Fast Banshee on the first floor of the Monastery on the Nameless Island."}
+, Summary = "Defeat 1 Fast Banshee"}
+, 
+[21799] = {Title = "Quick Banshee Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21800] = {Title = "Hunt a Boss Necromancer", 
+Description = {"Hunt down the boss Necromancer in the basement of the Monastery on the Nameless Island."}
+, Summary = "Defeated 1 Boss Necromancer"}
+, 
+[21801] = {Title = "Hunt a Boss Necromancer - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21802] = {Title = "Hunt a Wrathful Nightmare Terror", 
+Description = {"Hunt a Raging Nightmare Terror on the 2nd floor of the Lava Dungeon in Nogrod."}
+, Summary = "Defeated 1 Wrathful Nightmare Terror"}
+, 
+[21803] = {Title = "Hunt a Wrathful Nightmare Terror - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21804] = {Title = "Hunt the boss Ancient Mimic", 
+Description = {"Hunt the boss Ancient Mimic in the museum in the lower level of Thanatos Tower."}
+, Summary = "Defeated 1 boss Ancient Mimic"}
+, 
+[21805] = {Title = "Hunt Boss Ancient Mimic - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21806] = {Title = "Hunt a Sturdy Deathward", 
+Description = {"Hunt down a Sturdy Deathward in the abandoned area at the bottom of Thanatos Tower."}
+, Summary = "Defeated 1 Sturdy Deathward"}
+, 
+[21807] = {Title = "Hunt a Sturdy Deathwarden - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21808] = {Title = "Hunt a Venatu of Wrath", 
+Description = {"Hunt a Venatu of Wrath outside the Ruins of Euphoros."}
+, Summary = "Slayed 1 Wrathful Venatu"}
+, 
+[21809] = {Title = "Hunt a Venatu of Wrath - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. This quest can be obtained through the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21810] = {Title = "Hunt a fast Dimyke", 
+Description = {"Hunt a Fast Dimyke in the center of Euphoros."}
+, Summary = "Defeat 1 Rapid Dimyke"}
+, 
+[21811] = {Title = "Quick Dimic Hunt - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21812] = {Title = "Hunt a Wrathful Ferus", 
+Description = {"Hunt a Wrathful Ferus on the first floor of the caves beneath Lake Abyss."}
+, Summary = "Defeated 1 Wrathful Ferus"}
+, 
+[21813] = {Title = "Hunt a Wrathful Ferus - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21814] = {Title = "Hunt a Sturdy Acidus", 
+Description = {"Hunt a Sturdy Acidus on the second floor of the cave below Lake Abyss."}
+, Summary = "Defeated 1 Sturdy Acidus"}
+, 
+[21815] = {Title = "Hunt for Sturdy Assistants - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21816] = {Title = "Hunt a Wandering Comforter", 
+Description = {"Hunt a Wandering Consoler in the Agony Chamber on the upper level of Thanatos Tower."}
+, Summary = "Defeated 1 Wandering Comforter"}
+, 
+[21817] = {Title = "Hunt the Fleeing Comforter - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21818] = {Title = "Hunt the Boss Watcher", 
+Description = {"Hunt down a Boss Watcher in the Hate Chamber on the upper level of Thanatos Tower."}
+, Summary = "1 Boss Watcher slain"}
+, 
+[21819] = {Title = "Hunt the Boss Watcher - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21820] = {Title = "Hunt the boss, Laurel Binder", 
+Description = {"Hunt down the boss, Laurel Binder, in the basement of the Biotech Lab."}
+, Summary = "Defeated 1 Boss Laurel Binder"}
+, 
+[21821] = {Title = "Hunt Boss Laurel Binder - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Champions in Paradise board."}
+, Summary = "Reset at 04:00"}
+, 
+[21822] = {Title = "Hunt a sturdy Cecil Dimon", 
+Description = {"Hunt down a Sturdy Cecil Dimon in the basement of the Biotech Lab."}
+, Summary = "Defeated 1 Sturdy Chesil Dimon"}
+, 
+[21823] = {Title = "Hunt a Sturdy Shesildiman - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21824] = {Title = "Hunting a fast hillwind", 
+Description = {"Hunt a Rapid Hill Wind in the field northeast-northwest of Rachel."}
+, Summary = "Kill 1 Rapid Hill Wind"}
+, 
+[21825] = {Title = "Quick Hillwind Hunt - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21826] = {Title = "Hunt a sturdy kobold", 
+Description = {"Hunt a Sturdy Kobold in the field north-northwest of Lichtharzen."}
+, Summary = "Defeated 1 Sturdy Kobold"}
+, 
+[21827] = {Title = "Hunt a Sturdy Kobold - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21828] = {Title = "Hunt a fast Kobold Archer", 
+Description = {"Hunt a Fast Kobold Archer in the field north of Lichtharzen."}
+, Summary = "Defeated 1 Fast Kobold Archer"}
+, 
+[21829] = {Title = "Quick Kobold Archer Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21830] = {Title = "Hunt a Sturdy Snoyer", 
+Description = {"Hunt a Sturdy Snoyer on the second floor of the Ice Cave."}
+, Summary = "Defeated 1 Sturdy Snoyer"}
+, 
+[21831] = {Title = "Hunt a Sturdy Snire - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. This quest can be obtained through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21832] = {Title = "Hunt a fast Ice Titan", 
+Description = {"Hunt a Fast Ice Titan on the 3rd floor of the Ice Cave."}
+, Summary = "Defeat 1 Fast Ice Titan"}
+, 
+[21833] = {Title = "Quick Ice Titan Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Champions in Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21834] = {Title = "Hunt Boss Isila", 
+Description = {"Hunt down a Boss Isila in the west section of the Sanctuary on the first floor of the Temple of Rachel."}
+, Summary = "Defeated 1 Boss Isila"}
+, 
+[21835] = {Title = "Hunt Boss Isila - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. This quest can be obtained through the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21836] = {Title = "Hunt a Boss Ekio", 
+Description = {"You\'ve hunted a Boss Ekio in the south section of the Sanctuary on the 1st floor of the Temple of Rachel."}
+, Summary = "Slay 1 Boss Ekio"}
+, 
+[21837] = {Title = "Hunt Boss Ekio - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21838] = {Title = "Hunt a Fast Agave", 
+Description = {"Hunt a Fast Agave in the Sanctuary of Rachel\'s Temple, 2nd floor, center area."}
+, Summary = "Defeat 1 Rapid Agave"}
+, 
+[21839] = {Title = "Fast Agave Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Paradise Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21840] = {Title = "Hunt for a wandering Luciola Vespa", 
+Description = {"Hunt down a Wandering Luciola Vespa in the Splendid Fields."}
+, Summary = "1 Wandering Luciola Vespa slain"}
+, 
+[21841] = {Title = "Hunt a Fleeing Luciola Vespa - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21842] = {Title = "Hunt a sturdy Pinguicula Dark", 
+Description = {"Hunt a Sturdy Pinguicula Dark in the Splendid Fields."}
+, Summary = "Defeated 1 Sturdy Pinguicula Dark"}
+, 
+[21843] = {Title = "Hunt a Sturdy Pinguicula Dark - Standby", 
+Description = {"This is a daily quest that can be reclaimed when the cooldown expires. This quest can be obtained through the Paradise Order Champion Hunt Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21844] = {Title = "Hunting a fast centipede", 
+Description = {"Hunt a Fast Centipede at the foot of Camidal Mountain."}
+, Summary = "Kill 1 Rapid Centipede"}
+, 
+[21845] = {Title = "Quick Centipede Hunt - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest can be obtained through the Hunt for Paradise Champions request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21846] = {Title = "Hunt the boss Dolomedes", 
+Description = {"Hunt down a single Boss Dolomedes at the foot of Camidal Mountain."}
+, Summary = "Defeated 1 Boss Dolomedes"}
+, 
+[21847] = {Title = "Hunt Boss Dolomedes - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. The quest is available on the Hunt for Paradise Champions Request Board."}
+, Summary = "Reset at 04:00"}
+, 
+[21848] = {Title = "Hunt a wandering Antler Scarabar", 
+Description = {"Hunt a wandering Antler Scarabar on the first floor of Scarabar Hall."}
+, Summary = "Defeated 1 Wandering Antler Scarabar"}
+, 
+[21849] = {Title = "Hunt a Flying Antler Scarabar - Standby", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21850] = {Title = "Hunt a Boss Miming", 
+Description = {"You\'ve hunted a Boss Miming in southern Befrost."}
+, Summary = "Defeated 1 Boss Miming"}
+, 
+[21851] = {Title = "Hunt Boss Miming - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt for Champions in Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21852] = {Title = "Hunt a Fury Little Fatum", 
+Description = {"Hunt down a Fury Little Fatum in northern Befrost."}
+, Summary = "Slain 1 Wrathful Fatoum"}
+, 
+[21853] = {Title = "Hunt a Wrathful Little Fatum - Waiting", 
+Description = {"This is a daily quest that can be reclaimed at the end of the cooldown. You can obtain this quest through the Hunt the Champions of Paradise request board."}
+, Summary = "Reset at 04:00"}
+, 
+[21900] = {Title = "Hello!", 
+Description = {"There is an academy and guild in Izrud to support adventurers. Meet <NAVI>[Spraki]<INFO>iz ac01,102,44,000,0</INFO></NAVI> at the Kritura Academy in northern Izrud."}
+, Summary = "Talk to the Spraki"}
+, 
+[21901] = {Title = "Must-Know Services", 
+Description = {"Spraki says that there is something you must know in order to venture out, and tells you to meet <NAVI>[Capra employee]<INFO>izlude,128,148,000,0</INFO></NAVI> in the center of Izlude."}
+, Summary = "Talk to the Capra employee"}
+, 
+[21902] = {Title = "Is this your first request?", 
+Description = {"A Capra employee has asked <NAVI>[Maurice]<INFO>izlude in,69,116,000,0</INFO></NAVI> to deliver a delivery box to <NAVI>[Maurice]<INFO>izlude in,69,116,000,0</INFO></NAVI>. Maurice is at Izlude\'s tool shop."}
+, Summary = "Deliver the crate to Maurice"}
+, 
+[21903] = {Title = "Has anyone seen Leno? ", 
+Description = {"Maurice at the Tool Shop wants you to find Leno, the Redheaded Inspector, who went to check out the Hub. Gather information about Leno from <NAVI>[Ezrud Westfield]<INFO>prt fild08,320,230,000,0</INFO></NAVI>."}
+, Summary = "Talk to Ur"}
+, 
+[21904] = {Title = "The Whereabouts of the Herb Tracker", 
+Description = {"I\'ve agreed to check the herb garden for Leno, who\'s off practicing. In fact, he has a friend who has already gone in his place.... "}
+, Summary = "Conversation with the kid"}
+, 
+[21905] = {Title = "Betting with the Herb Tracker", 
+Description = {"We made a bet to kill \'Lunatic\' and get \'Clover\'. It\'s a one-sided bet, but.... There are many Lunatics around, so let\'s defeat them quickly."}
+, Summary = "1 clover for the little boy"}
+, 
+[21906] = {Title = "Advice from the Herb Tracker", 
+Description = {"Lumine informs you that there are herbs near the little boy. Return to <NAVI>[Leno and Ur]<INFO>prt fild08,320,230,000,0</INFO></NAVI> with the herbs you gathered."}
+, Summary = "Talk to Ur"}
+, 
+[21907] = {Title = "The end of the hub", 
+Description = {"Ur explained the test to you. Take the herbs you\'ve gotten to <NAVI>[Maurice]<INFO>izlude in,69,116,000,0</INFO></NAVI>."}
+, Summary = "Talk to Morris"}
+, 
+[21908] = {Title = "For a moment of crisis", 
+Description = {"Maurice at the Tool Shop gives you a \'Combination Kit\' and tells you to meet with <NAVI>[Healer]<INFO>iz ac01,60,43,000,0</INFO></NAVI> in the infirmary of Kritura Academy to learn how to use it."}
+, Summary = "Talk to the healer"}
+, 
+[21909] = {Title = "What\'s possible with gelophy", 
+Description = {"The archer <NAVI>[Malvron]<INFO>izlude,115,103,000,0</INFO></NAVI> you met in Izlude asked you to get him 3 Jellopies for his skill called \'Split Arrow\'. Jellopies can be obtained by \'Foraging\'."}
+, Summary = "Deliver 3 Jell-O Pies to Malbron"}
+, 
+[21910] = {Title = "Prontera!", 
+Description = {"As a member of the Regal Order of Paradise, you\'ve decided to help solve a problem in the Cathedral of Prontera. Meet <NAVI>[Companion]<INFO>prt fild08,182,359,000,0</INFO></NAVI> outside the southern gates of Prontera and join him."}
+, Summary = "Talk to Leno"}
+, 
+[21911] = {Title = "Three flyers", 
+Description = {"We decided to center our flyers around the northern Prontera wall. If you walk up the main boulevard, you may see the wall marked by Bran...."}
+, Summary = "Posting flyers"}
+, 
+[21912] = {Title = "Contents of the flyer", 
+Description = {"When you put the flyer on the designated spot, Rumin says something disturbing and disappears. Let\'s find a second spot for the flyer."}
+, Summary = "Attach the flyer"}
+, 
+[21913] = {Title = "Again, to Prontera!", 
+Description = {"You\'ve decided to meet with <NAVI>[Priest Roam]<INFO>prt church,107,99,000,0</INFO></NAVI> at the Prontera Cathedral to resolve the matter of the flyer incident."}
+, Summary = "Talk to Priest Roam"}
+, 
+[21914] = {Title = "For the safety of the children", 
+Description = {"Priest Roam of Prontera Cathedral has asked you to clear the monsters in the \'Prontera East Field\'. Let\'s defeat Lunatic and Favre to make it safe for children to play."}
+, Summary = "Defeat Lunatic and Favre"}
+, 
+[21915] = {Title = "Scattered strawberries", 
+Description = {"Father Roam, the priest of Prontera Cathedral, has asked us to find the children who have not returned. Look for \'raspberries\', \'blueberries\', and \'cranberries\' throughout Prontera."}
+, Summary = "Find the children and talk to Roam"}
+, 
+[21916] = {Title = "Raspberry found!", 
+Description = {"You found the raspberries in front of the smelter, <NAVI>[Blueberry]<INFO>prontera,78,104,000,0</INFO></NAVI> near the town hall, and <NAVI>[Cranberry]<INFO>prontera,162,324,000,0</INFO></NAVI> in front of the palace."}
+, Summary = ""}
+, 
+[21917] = {Title = "Blueberries found!", 
+Description = {"I found blueberries in front of the town hall, <NAVI>[Raspberry]<INFO>prontera,170,183,000,0</INFO></NAVI> near the smelter and <NAVI>[Cranberry]<INFO>prontera,162,324,000,0</INFO></NAVI> in front of the palace."}
+, Summary = ""}
+, 
+[21918] = {Title = "I found a cranberry!", 
+Description = {"You\'ve found cranberries in front of the palace. <NAVI>[Blueberry]<INFO>prontera,78,104,000,0</INFO></NAVI> is near the town hall, and <NAVI>[Raspberry]<INFO>prontera,170,183,000,0</INFO></NAVI> is near the smelter."}
+, Summary = ""}
+, 
+[21919] = {Title = "Searching for a Goddess Cultist1", 
+Description = {"Merrick of the Templars asks for your help in finding Bran, the man who caused the suspicious flyers to be distributed. Look for <NAVI>[Leno]<INFO>prt fild05,335,225,000,0</INFO></NAVI> in the Fields West of Prontera."}
+, Summary = "Investigate the Fighting Traces"}
+, 
+[21920] = {Title = "Searching for a Goddess Devotee2", 
+Description = {"Leno says there\'s a suspicious trail leading south, let\'s follow it."}
+, Summary = "Investigate the cleared brush"}
+, 
+[21921] = {Title = "Search for a Goddess Worshipper3", 
+Description = {"Leno\'s clues have been eaten by a nearby Rocker. Let\'s try to catch the \'Rocker\' in time."}
+, Summary = "Defeat the Rocker"}
+, 
+[21922] = {Title = "Searching for a Goddess Devotee4", 
+Description = {"Leno says there\'s a suspicious trail of movement leading east. Let\'s follow it."}
+, Summary = "Talk to the soldier"}
+, 
+[21923] = {Title = "For now, that\'s it.", 
+Description = {"I have decided to report the results of our search to <NAVI>[Spraki]<INFO>iz ac01,102,44,000,0</INFO></NAVI> at the Izrud Kritura Academy."}
+, Summary = "Talk to Sprarky"}
+, 
+[21924] = {Title = "Advice for Training", 
+Description = {"Spraki suggests traveling to Feyon, saying that there might be something to do in Feyon. Go to Feyon via <NAVI>[Capra Staff]<INFO>izlude,128,148,000,0</INFO></NAVI> in Izlude Square."}
+, Summary = "Talk to the Capra employee"}
+, 
+[21925] = {Title = "A Call from the Adventurers\' Guild", 
+Description = {"You have received a message from the Kritura Academy in Izrud that you are urgently needed. Go to <NAVI>[Spraki]<INFO>iz ac01,102,44,000,0</INFO></NAVI>."}
+, Summary = "Talk to Sprarky"}
+, 
+[21926] = {Title = "Tracking a Goddess Worshipper", 
+Description = {"Knight Merrick received a tip from Alberta about Bran. Meet with <NAVI>[Peter]<INFO>alberta,175,138,000,0</INFO></NAVI> in Alberta to confirm the information about Bran\'s whereabouts."}
+, Summary = "Talk to Peterwah"}
+, 
+[21927] = {Title = "Award-winning shipwreck", 
+Description = {"Peterwana says that \'Bran\' borrowed a boat and headed for the wreck. They survey the wreck, enter it, and search inside."}
+, Summary = "To the shipwrecked island"}
+, 
+[21928] = {Title = "Village of the Fourlings", 
+Description = {"You\'ve been tasked by the Order of Paradise to determine the truth behind rumors of a \'Village of Forlorns\' spreading around Prontera. Gather information from \'West of Prontera\'."}
+, Summary = ""}
+, 
+[21929] = {Title = "To Shipwrecked Island", 
+Description = {"Bran seems to be hiding on Shipwrecked Island. Take the sailor near Alberta Harbor to the \'Wreck\' and investigate."}
+, Summary = "Investigate the suspicious wreck"}
+, 
+[21930] = {Title = "Ring of Blessings", 
+Description = {"The Blessed Flower Ring given to you by Lord Merrick can be blessed. Visit Prontera Cathedral and give the Blessing Flower Ring to <NAVI>[Priest Roam]<INFO>prt church,107,99,000,0</INFO></NAVI>."}
+, Summary = "Talk to the Roam Priest"}
 }
 

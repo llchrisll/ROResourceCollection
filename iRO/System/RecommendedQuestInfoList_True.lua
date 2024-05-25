@@ -92,5 +92,21 @@ QuestInfo2 = {"Requirement", "Adventurer ^990000Level 200 or higher^000000"}
 , 
 QuestInfo3 = {"^ff0000This page is an update introduction, not a quest. Please note that the quest will not be deleted even if you complete it.^000000"}
 }
+, 
+[80] = {Title = "Episode 18: Direction of Prayer", IconName = "ico_ep.bmp", Summary = "What\'s happening in Rachel?", NpcSpr = "4_EP17_TABLET", NpcNavi = "ba_in01", NpcPosX = 26, NpcPosY = 266, BgName = "reco_80.bmp", 
+QuestInfo1 = {"The slow-moving signal analysis of the airship has finally been completed!", "It seems that the remnants of Illusion are plotting something in Rachel, the capital of Arunafeltz.", "Eli decides to go to Rachel herself alongside the adventurer."}
+, 
+QuestInfo2 = {"Prerequisites", "Episode ^99000017.2^000000 Completed", "Adventurer ^990000Level 170 or higher^000000"}
+, 
+QuestInfo3 = {"^ff0000This page is an update introduction, not the actual quest. Please note that the quest won\'t be deleted even if you complete it.^000000"}
+}
+, 
+[79] = {Title = "Illusion of Underwater", IconName = "ico_sc.bmp", Summary = "Reveal the secrets of the deep that are hidden near Izlude!", BgName = "reco_94.bmp", 
+QuestInfo1 = {"An incident occurred where Sirud went missing while fishing in Izlude.", "Three months later, the items he had were discovered.", "------------------------", "Go to <NAVI>[Izlude]<INFO>izlude,132,49,0,101,0</INFO></NAVI> and join the search for missing people!"}
+, 
+QuestInfo2 = {"Unknown Sea", "Deep Sea Cave"}
+, 
+QuestInfo3 = {"^ff0000This page is an update introduction, not a quest. Please note that the quest will not be deleted even if you complete it.^000000"}
+}
 }
 

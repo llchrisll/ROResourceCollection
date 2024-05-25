@@ -2597,3 +2597,39 @@ te_prt_gld.rsw#te_prt_gld.rsw#
 8@thts.rsw#8@thts.rsw#
 유저인터페이스\map\8@thts.bmp#유저인터페이스\map\8@thts.bmp#
 //=======================2024 1Q UPDATE end
+
+//소닉 콜라보
+유저인터페이스\map\1@vrsn.bmp#유저인터페이스\map\1@vrsn.bmp#
+1@vrsn.gnd#1@vrsn.gnd#
+1@vrsn.gat#1@vrsn.gat#
+1@vrsn.rsw#1@vrsn.rsw#
+
+//==========2024 2Q UPDATE====================
+//EP18
+// 에피소드 18 기도의 방향
+1@nyr.gnd#1@nyr.gnd#
+1@nyr.gat#1@nyr.gat#
+1@nyr.rsw#1@nyr.rsw#
+유저인터페이스\map\1@nyr.bmp#유저인터페이스\map\1@nyr.bmp#
+2@nyr.gnd#2@nyr.gnd#
+2@nyr.gat#2@nyr.gat#
+2@nyr.rsw#2@nyr.rsw#
+유저인터페이스\map\2@nyr.bmp#유저인터페이스\map\2@nyr.bmp#
+1@advs.gnd#1@advs.gnd#
+1@advs.gat#1@advs.gat#
+1@advs.rsw#1@advs.rsw#
+유저인터페이스\map\1@advs.bmp#유저인터페이스\map\1@advs.bmp#
+1@adv.gnd#1@adv.gnd#
+1@adv.gat#1@adv.gat#
+1@adv.rsw#1@adv.rsw#
+유저인터페이스\map\1@adv.bmp#유저인터페이스\map\1@adv.bmp#
+1@oz.gnd#1@oz.gnd#
+1@oz.gat#1@oz.gat#
+1@oz.rsw#1@oz.rsw#
+유저인터페이스\map\1@oz.bmp#유저인터페이스\map\1@oz.bmp#
+1@tcamp.gnd#1@tcamp.gnd#
+1@tcamp.gat#1@tcamp.gat#
+1@tcamp.rsw#1@tcamp.rsw#
+유저인터페이스\map\1@tcamp.bmp#유저인터페이스\map\1@tcamp.bmp#
+
+//==========2024 2Q UPDATE end

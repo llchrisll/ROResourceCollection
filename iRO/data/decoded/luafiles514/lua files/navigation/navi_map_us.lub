@@ -194,6 +194,8 @@ Navi_Map = {
 , 
 {"cmd_in02", "Inside Comodo", 5003, 240, 240}
 , 
+{"com_d02_i", "North Cave Luanda", 5001, 300, 300}
+, 
 {"comodo", "Beach town,Comodo", 5001, 360, 380}
 , 
 {"conch_in", "Inside the Kon-Kilina", 5003, 200, 120}
@@ -201,6 +203,16 @@ Navi_Map = {
 {"dali", "Dimensional Gap", 5001, 200, 200}
 , 
 {"dali02", "Dimensional Gap", 5001, 200, 200}
+, 
+{"dew_dun01", "Krakatau Volcanic Island", 5001, 360, 360}
+, 
+{"dew_dun02", "Istana Cave", 5001, 320, 320}
+, 
+{"dew_fild01", "Dewata Field_Zati Tribe\'s Village", 5001, 400, 400}
+, 
+{"dew_in01", "Inside the Zati Tribe\'s Village", 5003, 60, 60}
+, 
+{"dewata", "Dewata", 5001, 340, 340}
 , 
 {"dic_dun01", "Kamidal Tunnel", 5001, 400, 256}
 , 
@@ -239,6 +251,8 @@ Navi_Map = {
 {"ecl_tdun04", "Bifrost Floor 4", 5001, 60, 60}
 , 
 {"eclage", "Eclage", 5001, 400, 400}
+, 
+{"ein_d02_i", "Nasarian Empire", 5001, 300, 300}
 , 
 {"ein_dun01", "Mine Dungeon", 5001, 300, 300}
 , 
@@ -406,6 +420,10 @@ Navi_Map = {
 , 
 {"grademk", "Grade-up Center", 5001, 200, 200}
 , 
+{"gw_fild01", "Gray Wolf Forest", 5001, 400, 400}
+, 
+{"gw_fild02", "Gray Wolf Forest", 5001, 400, 400}
+, 
 {"har_in01", "Rock Ridge", 5003, 120, 120}
 , 
 {"harboro1", "Rock Ridge", 5001, 400, 360}
@@ -429,6 +447,8 @@ Navi_Map = {
 {"hu_in01", "Inside Hugel", 5003, 400, 400}
 , 
 {"hugel", "Hugel, the Quaint Garden Village", 5001, 268, 280}
+, 
+{"ice_d03_i", "Frozen Memory", 5001, 300, 300}
 , 
 {"ice_dun01", "Ice Cave", 5001, 300, 300}
 , 
@@ -456,11 +476,17 @@ Navi_Map = {
 , 
 {"in_sphinx5", "Sphinx", 5001, 200, 200}
 , 
+{"int_land", "Remote Island", 5001, 140, 140}
+, 
 {"itemmall", "Kafra Shop", 5001, 200, 100}
 , 
 {"iz_ac01", "Academy1st floor", 5003, 220, 200}
 , 
 {"iz_ac02", "Academy2nd floor", 5003, 240, 240}
+, 
+{"iz_d04_i", "Illusion of Underwater 1F", 5001, 280, 300}
+, 
+{"iz_d05_i", "Illusion of Underwater 2F", 5001, 280, 280}
 , 
 {"iz_dun00", "Undersea Tunnel", 5001, 400, 400}
 , 
@@ -530,6 +556,8 @@ Navi_Map = {
 , 
 {"job_duncer", "Comodo Theatre", 5001, 140, 172}
 , 
+{"job_gun", "Shelter of Liberation", 5001, 300, 200}
+, 
 {"job_hunte", "Hunter Job Change Place", 5001, 200, 200}
 , 
 {"job_knt", "Knight Realm", 5001, 200, 200}
@@ -596,9 +624,13 @@ Navi_Map = {
 , 
 {"lasa_in01", "Inside Lasagna", 5003, 200, 120}
 , 
+{"lasa_sea", "Nyail Cave", 5001, 220, 220}
+, 
 {"lasagna", "Port city of Lasagna", 5001, 400, 400}
 , 
 {"lhz_airport", "Lighthalzen Airport", 5002, 300, 120}
+, 
+{"lhz_d_n2", "Space of Thoughts", 5001, 96, 64}
 , 
 {"lhz_dun01", "Somatology Laboratory", 5001, 300, 300}
 , 
@@ -876,9 +908,15 @@ Navi_Map = {
 , 
 {"ordeal_3-4", "Battle Ordeal Mode", 5001, 308, 308}
 , 
+{"oz_dun01", "Oz Labyrinth 1F", 5001, 300, 300}
+, 
+{"oz_dun02", "Oz Labyrinth 2F", 5001, 300, 300}
+, 
 {"p_track01", "Monster Race Arena", 5001, 100, 80}
 , 
 {"p_track02", "Monster Race Arena", 5001, 100, 80}
+, 
+{"paramk", "Para Market", 5003, 200, 200}
 , 
 {"pay_arche", "Archer Village", 5001, 200, 200}
 , 
@@ -924,6 +962,8 @@ Navi_Map = {
 , 
 {"payon_in02", "Inside Payon", 5003, 100, 100}
 , 
+{"payon_in03", "Inside Payon", 5003, 200, 200}
+, 
 {"payon_mem", "Memory of Payon", 5001, 200, 200}
 , 
 {"poring_w01", "Poring War - Waiting Room", 5001, 200, 200}
@@ -947,6 +987,8 @@ Navi_Map = {
 {"prt_cas_q", "Prontera Royal Villa", 5003, 180, 200}
 , 
 {"prt_church", "the Sanctuary", 5003, 200, 200}
+, 
+{"prt_evt_in", "Hunting Ground Cabin", 5003, 60, 60}
 , 
 {"prt_fild00", "Prontera Field", 5001, 400, 400}
 , 
@@ -988,6 +1030,8 @@ Navi_Map = {
 , 
 {"prt_monk", "St. Capitolina Abbey", 5001, 400, 300}
 , 
+{"prt_mz03_i", "Illusion Labyrinth", 5001, 200, 200}
+, 
 {"prt_pri00", "Prontera Prison", 5001, 200, 200}
 , 
 {"prt_prison", "Prontera Underground Prison", 5001, 300, 300}
@@ -1022,6 +1066,8 @@ Navi_Map = {
 , 
 {"que_lhz", "Human Experimentation Laboratory B4", 5001, 300, 300}
 , 
+{"que_ng", "Unknown Area", 5003, 200, 200}
+, 
 {"que_qsch01", "Fallacious Okolnir", 5001, 400, 400}
 , 
 {"que_rachel", "Inside Temple", 5001, 340, 340}
@@ -1029,6 +1075,8 @@ Navi_Map = {
 {"que_swat", "Heart_Hunter War_Base", 5001, 360, 360}
 , 
 {"que_thor", "Thor Volcano Dungeon", 5001, 200, 100}
+, 
+{"que_thr", "Inside Thor Volcano", 5001, 200, 100}
 , 
 {"ra_fild01", "Audhumbla Grassland", 5001, 400, 400}
 , 
@@ -1132,8 +1180,6 @@ Navi_Map = {
 , 
 {"teg_dun02", "Subterranean Guild Dungeon", 5001, 200, 200}
 , 
-{"tha_scene01", "UnKnown", 5001, 400, 400}
-, 
 {"tha_t01", "Thanatos Tower - Lower Level", 5001, 300, 300}
 , 
 {"tha_t02", "Thanatos Tower - Lower Level", 5001, 300, 300}
@@ -1170,6 +1216,8 @@ Navi_Map = {
 , 
 {"thor_v03", "Thor Volcano Dungeon", 5001, 300, 300}
 , 
+{"tra_fild", "Prontera Training Ground", 5001, 200, 200}
+, 
 {"treasure01", "Sunken Ship", 5001, 200, 200}
 , 
 {"treasure02", "Sunken Ship", 5001, 200, 200}
@@ -1177,6 +1225,10 @@ Navi_Map = {
 {"treasure_n1", "Izlude wreck 1st floor", 5001, 200, 200}
 , 
 {"treasure_n2", "Izlude wreck 2nd floor", 5001, 200, 200}
+, 
+{"tur_d03_i", "Lonesome Good Turtles Village", 5001, 248, 248}
+, 
+{"tur_d04_i", "Gloomy Turtle Palace", 5001, 200, 200}
 , 
 {"tur_dun01", "Turtle Island", 5001, 300, 300}
 , 
@@ -1242,6 +1294,22 @@ Navi_Map = {
 , 
 {"verus04", "Verus Findspot", 5001, 280, 280}
 , 
+{"vis_h01", "Corridor of Phantoms Floor 1", 5001, 240, 240}
+, 
+{"vis_h02", "Corridor of Phantoms Floor 2", 5001, 240, 240}
+, 
+{"vis_h03", "Corridor of Phantoms Floor 3", 5001, 240, 240}
+, 
+{"vis_h04", "Corridor of Phantoms Floor 4", 5001, 240, 240}
+, 
+{"wolfvill", "Gray Wolf Village", 5001, 300, 300}
+, 
+{"x_lhz", "Lighthalzen of Parallell World", 5001, 140, 140}
+, 
+{"x_prt", "Prontera of Parallell World", 5001, 140, 140}
+, 
+{"x_ra", "Rachel of Parallell World", 5001, 140, 140}
+, 
 {"xmas", "Lutie, Snow Village", 5001, 300, 360}
 , 
 {"xmas_dun01", "Toy Factory Warehouse", 5001, 260, 260}
@@ -1295,6 +1363,16 @@ Navi_Map = {
 {"1@sara", "Sara\'s Memory", 5001, 300, 360}
 , 
 {"1@bamn", "Garden at Dusk", 5001, 400, 400}
+, 
+{"1@os_a", "Os Occupation", 5001, 400, 400}
+, 
+{"1@pop2", "The Way Home", 5001, 160, 300}
+, 
+{"1@pop3", "Sky Garden", 5001, 116, 116}
+, 
+{"1@nyr", "Sanctuary Sessrumnir Garden", 5001, 240, 240}
+, 
+{"2@nyr", "Sanctuary Sessrumnir Heart Storage", 5001, 240, 240}
 , 
 {"NULL", "", 0, 0, 0}
 }

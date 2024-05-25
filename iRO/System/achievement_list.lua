@@ -3388,7 +3388,7 @@ resource = {
 reward = {item = 667}
 , score = 5}
 , 
-[999980] = {UI_Type = 0, group = "ADVENTURE", major = 4, minor = 1, title = "Depth¡¯s Detail", 
+[999980] = {UI_Type = 0, group = "ADVENTURE", major = 4, minor = 1, title = "Depthï¿½ï¿½s Detail", 
 content = {summary = "Discover Hidden Treasure", details = "Discover lost pirate treasure all over the world."}
 , 
 resource = {

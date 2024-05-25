@@ -3532,12 +3532,12 @@ Not enough Energy Balls.#
 "It contains a skill(%s) that cannot be learned.#
 /frame#
 This skill can be casted within the time limit after using Weapon Blocking.#
+Your ID or Password is incorrect. Please check again.#
 #
 #
 #
 #
-#
-#
+you must have an Access Ticket to login#
 Loading a storage.#
 #
 Delete#
@@ -3634,7 +3634,7 @@ AP#
 #
 You are a character who has not acquired basic skill.#
 #
-#
+Take Off#
 Get#
 Gets information on the item last registered in the stall#
 #
@@ -3775,7 +3775,7 @@ Target's AP is maxed out#
 #
 #
 #
-#
+Search#
 Enters Research Report state.#
 Exits Research Report state.#
 #
@@ -3825,38 +3825,38 @@ No auxiliary material is applied. Would you like to continue with the reinforcem
 #
 #
 #
-#
-#
-#
-#
+Reputation#
+%u / 1000 P#
+All#
+NOW LOADING..#
 Auxiliary material selection will be reset.#
 #
+Normal#
+Unconditonal#
+Enhancable#
+Initialize#
+Weight limit has reached to over 70%. Please empty your Inventory and try again.#
+Enchant#
+Enchant#
+Enhancable#
+Initialize#
+You can not use Rodex during enchanting items. Rodex was truned off.#
+You can not use Rodex during enchanting items.#
+#
+#
+#
+Create#
+There are no ingredients to be combined#
 #
 #
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+More Info#
+Please check More Info.#
+There are no items that can be combined.#
+Enchant Succeeded!#
+Enchant Failed!#
 #
 #
 #

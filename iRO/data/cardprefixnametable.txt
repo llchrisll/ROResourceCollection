@@ -1032,3 +1032,38 @@
 27342#Metal Ground#
 27343#Holy Spell#
 //2024.03.05 일루전 오브 라비린스 Illusion of Labyrinth end
+
+//==========2024 2Q UPDATE==============
+//EP18
+300211#Magic Ground#
+300212#Anti Darkness#
+300213#Devil Catch#
+300214#Power Quarter#
+300215#Geothermal#
+300216#High Blast#
+300217#of Burning Fang#
+300218#High Immortal#
+300219#Dark Magical#
+300220#Wolf Scratch#
+300221#Intangible Exorcist#
+300222#High Wind#
+300223#Wolf Tackle#
+300227#Angel Killer#
+300228#Devil Killer#
+
+//==========2024 2Q UPDATE end
+
+//2024.04.23 일루전 오브 언더워터
+300140#Enhance Thunder#
+300141#Mermaid's#
+300142#Undersea#
+300143#of Anti Insect#
+300144#Stabbing#
+300145#of Abyss Witch#
+300146#Fatal Fish#
+300147#Seabed#
+300148#Deep Sea#
+300149#of Fish Killer#
+300150#of Sword Expert#
+300151#Marine Nightmare#
+//2024.04.23 일루전 오브 언더워터 end

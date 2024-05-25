@@ -5073,6 +5073,22 @@
 31820	1	1	0	1	1	1	1	1	//C_Golden_Baseball_Cap
 410253	1	1	0	1	1	1	1	1	//C_Alien_Sunglass_GN
 
+//2024.03.26 소닉 콜라보
+9156	1	1	0	1	0	1	1	1	//Sonic_Chao_Egg
+410262	1	1	0	1	0	1	1	1	//C_Sonic_Mini
+410263	1	0	0	0	1	0	1	0	//C_Super_Sonic_Mini
+410264	1	1	0	1	0	1	1	1	//C_Tails_Mini
+410265	1	1	0	1	0	1	1	1	//C_S_Attack_Ring
+400502	1	1	0	1	0	1	1	1	//C_Sonic_Ring
+1001474	1	1	0	1	0	1	1	1	//VR_RING
+420303	1	0	0	0	1	0	1	0	//C_Chaos_Emerald
+102800	1	1	0	1	0	1	1	1	//VR_High_Speed
+102801	1	1	0	1	0	1	1	1	//VR_1UP
+440012	1	1	0	1	0	1	1	1	//C_Dr_Eggman_Mask
+1001549	1	1	0	1	1	1	1	1	//S_Badge
+200377	1	1	0	1	1	1	1	1	//S_Badge_pack_
+200378	1	1	0	1	1	1	1	1	//Super_Sonic_pack_
+200379	1	1	0	1	1	1	1	1	//Chaos_Emerald_pack_
 
 //2024.02.20 2월 카츄아 Feb Kachua
 28984	0	0	0	0	0	1	1	0	//Forbidden_Grimoire_TH
@@ -5125,3 +5141,139 @@
 14621	1	1	0	1	1	1	1	1	//LUK_Biscuit_Stick
 14766	1	1	0	1	1	1	1	1	//Limit_Power_Booster
 102803	1	1	0	1	1	1	1	1	//Force_Booster
+
+//2024.03.26 소닉 콜라보 신규 패키지
+200382	1	1	0	1	1	1	1	1	//Sonic_Premium_Pack1_US
+200383	1	1	0	1	1	1	1	1	//Sonic_Premium_Pack2_US
+
+//2024.03.19 3월 카츄아
+400447	1	0	0	0	0	0	0	0	//Poenetentia_B_Crown
+400457	1	0	0	0	0	0	0	0	//Poenetentia_V_Crown
+400469	1	0	0	0	0	0	0	0	//Poenetentia_D_Crown
+400482	1	0	0	0	0	0	0	0	//Poenetentia_H_Crown
+450355	1	0	0	0	0	0	0	0	//Violent_D_S_Armor
+450356	1	0	0	0	0	0	0	0	//Abbys_L_H_Armor
+450360	0	0	0	0	1	1	0	0	//Alphabeast_Armor_US
+450361	0	0	0	0	1	1	1	0	//Great_Gunner_US
+470263	1	0	0	0	1	1	1	0	//Zodiac_Boots_AC
+9877	1	1	0	1	1	1	1	1	//Tempest_S_Box
+102984	1	1	0	1	1	1	1	1	//PoenetCrown_BOX_US
+
+//2024.03.19 부활절 이벤트 보상 변경
+20067	1	1	0	1	0	1	1	1	//C_Whrabbit_Hband
+
+
+//============2024 2Q UPDATE==================================
+//평판 시스템
+100626	1	1	0	1	0	1	1	1	//GrayWolf_7_Ticket
+100627	1	1	0	1	0	1	1	1	//GrayWolf_9_Ticket
+
+//EP18
+400127	1	1	1	1	1	1	1	1	//Ep18_Mini_Elly
+1000406	1	1	1	1	0	1	1	1	//Ep18_Very_Ddan_Crystal
+1000407	1	1	1	1	0	1	1	1	//Ep18_Half_Flower
+1000408	1	1	1	1	0	1	1	1	//Ep18_Recording_Note
+1000409	1	1	1	1	0	1	1	1	//Ep18_Docu_File
+1000410	1	1	1	1	0	1	1	1	//Ep18_Water_Filter
+1000411	1	1	1	1	0	1	1	1	//Ep18_Purified_Bucket
+1000412	1	1	1	1	0	1	1	1	//Ep18_Trapped01
+1000413	1	1	1	1	0	1	1	1	//Ep18_Trapped02
+1000414	1	1	1	1	0	1	1	1	//Ep18_Trapped03
+
+25073	1	1	1	1	0	1	1	1	//Worn_Out_Papyrus
+25077	1	1	1	1	0	1	1	1	//KnightsSupply
+1000282	1	1	0	1	1	1	1	1	//EpisodClear16
+1000287	1	1	0	1	1	1	1	1	//EpisodClear17
+
+//============2024 2Q UPDATE end
+
+
+//2024.04.23 일루전 오브 언더워터
+25898	1	1	1	1	1	1	1	1	//Siroods_Fish_Rod
+
+//2024.04.02 일일출석 보상 추가
+31415	0	0	0	0	0	1	1	1	//C_Wanderer_Sakkat
+
+//2024.04.02 OCP 58
+22178	0	0	0	0	0	0	0	0	//Anony_Sm_Shoes
+450242	0	0	0	0	0	0	0	0	//Elemental_Possession
+460057	0	0	0	0	0	0	0	0	//Spenta_Armaiti
+470254	0	0	0	0	0	0	0	0	//KenZen_Ichinyo
+490428	0	0	0	0	0	0	0	0	//Chemical_R_Glove
+490471	0	0	0	0	0	0	0	0	//Ring_of_Artemis
+103029	1	1	0	1	1	1	1	1	//OCP_APR_2024
+
+//2024.04.02 개더링 파티 코스타마
+19952	0	0	0	0	0	1	1	0	//C_Bubble_Gum_In_Mouth
+31501	1	0	0	0	1	1	1	1	//C_Sparkler_Fountain_TH
+31823	0	0	0	0	0	1	1	0	//C_Nose_Glasses_J
+410296	0	0	0	0	0	1	1	1	//C_One_Sho_Bottle
+420234	0	0	0	0	0	1	1	1	//C_Festival_Stalls
+420306	0	0	0	0	0	1	1	1	//C_Kotatsu
+480121	0	0	0	0	0	1	1	1	//C_Striking_Mikoshi
+103022	1	1	0	1	1	1	1	1	//2404_Gathering_US
+
+//2024.04.09 소닉 콜라보 추가 패키지(2차)
+200388	1	1	0	1	1	1	1	1	//Sonic_Premium_Pack3_US
+200389	1	1	0	1	1	1	1	1	//Sonic_Premium_Pack4_US
+
+//2024.04.23 캐시샵 신규 아이템 추가
+17575	1	1	0	1	1	1	1	1	//Service30_M_01_Box
+17576	1	1	0	1	1	1	1	1	//Service30_F_01_Box
+17920	1	1	0	1	1	1	1	1	//Zero_Merchant_Bell_Box
+22907	1	1	1	1	1	1	1	1	//Service30_M_01_Call
+22908	1	1	1	1	1	1	1	1	//Service30_F_01_Call
+22914	1	1	1	1	1	1	1	1	//Bubble_Gum_24h
+22929	1	1	1	1	1	1	1	1	//Job_Manual25_24h
+23647	1	1	0	1	1	1	1	1	//Zero_Merchant_Bell
+
+//2024.04.23 카프라 포인트 소비 이벤트 보상
+410001	0	0	0	0	0	1	1	0	//Phalanx
+420159	0	0	0	0	0	1	1	1	//C_Yesterday_Once_More
+420222	0	0	0	0	0	1	1	1	//C_Consecrate_F_Aureola
+450220	0	0	0	0	0	1	1	1	//Chrome_Plate_Armor
+
+//2024.04.23 4월 카츄아
+410313	0	0	0	0	0	1	1	0	//Eye_Of_Storm_TH
+420329	0	0	0	0	1	1	1	0	//Twinhead_DragonScale_US
+470095	1	0	0	0	0	0	0	0	//Destroy_World_Boots
+9857	1	1	0	1	1	1	1	1	//Penetration_S_Box
+
+//2024.05.07 OCP 59
+22212	0	0	0	0	0	1	1	0	//Hollow_Shoes
+400667	0	0	0	0	1	1	1	0	//Peco_Warrior_Hat_US
+410254	1	0	0	0	0	0	0	0	//Old_Moroc_Acc
+420323	1	0	0	0	1	0	0	0	//CharmOfAnywhere
+610029	0	0	0	0	0	1	1	1	//Kings_Double_Edge_A
+103111	1	1	0	1	1	1	1	1	//OCP_MAY_2024
+500009	0	0	0	0	0	1	1	0	//Copy_Gram
+
+//2024.05.07 신규 캐시샵 아이템 추가
+200408	0	0	0	0	1	1	1	1	//Pet_Egg_Scroll_8_US
+
+//2024.05.07 사이버 웨폰 코스타마
+31807	0	0	0	0	0	1	1	0	//C_Peacock_Feather
+420321	0	0	0	0	0	1	1	1	//C_Neon_Half_Long
+480272	0	0	0	0	0	1	1	1	//C_Angelic_Long_RBD
+480419	0	0	0	0	0	1	1	1	//C_Cyber_Sword
+480420	0	0	0	0	0	1	1	1	//C_Cyber_Rifle
+480421	0	0	0	0	0	1	1	1	//C_Defense_Shield
+103087	1	1	0	1	1	1	1	1	//2405_Cyber_US
+
+//2024.05.07 5월 일일출석 보상
+20052	0	0	0	0	0	1	1	0	//C_Notice_Board
+
+//2024.05.21 5월 카츄아
+410067	0	0	0	0	0	1	1	1	//Professor_MiniGlass_
+470097	0	0	0	0	0	1	1	1	//HalfBloodPrincess_Shoes
+470258	1	0	0	0	1	1	1	0	//Zodiac_Boots_MG
+470267	1	0	0	0	1	1	1	0	//Zodiac_Boots_MC
+470270	1	0	0	0	1	1	1	0	//Zodiac_Boots_AL
+470272	1	0	0	0	1	1	1	0	//Zodiac_Boots_TF
+480455	0	0	0	0	1	1	1	0	//Performer_Manteau_US
+490359	0	0	0	0	0	1	1	1	//Lord_of_Elemental
+490553	1	0	0	0	1	1	1	0	//Divine_Bell_TH
+100536	1	1	1	1	1	1	1	1	//Main_Lucky_Box_US
+103097	1	0	0	0	1	1	1	0	//Zodiac_Boots_Box_TH
+103143	1	1	0	1	1	1	1	1	//Thanos_Box_US
+103144	1	1	0	1	1	1	1	1	//Faith_Box1_US

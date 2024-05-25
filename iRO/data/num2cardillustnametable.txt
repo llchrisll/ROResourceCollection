@@ -1163,3 +1163,37 @@
 27336#혼돈의사이드와인더카드#
 27343#혼돈의복사카드#
 27337#혼돈의헌터플라이카드#
+
+//2024.04.23 일루전 오브 언더워터
+//일루전오브언터워터
+300140#ILL_Sropho_Card#
+300141#ILL_Obeaune_Card#
+300142#ILL_Deviace_Card#
+300143#ILL_Marse_Card#
+300144#ILL_Merman_Card#
+300145#ILL_Abysmal_Witch_Card#
+300146#ILL_Sedora_Card#
+300147#ILL_Sword_Fish_Card#
+300148#ILL_Strouf_Card#
+300149#ILL_Phen_Card#
+300150#ILL_King_Dramoh_Card#
+300151#ILL_Kraken_Card#
+
+//===========2024 2Q UPDATE===============
+//EP18
+300211#EP18_Ash_Toad_Card#
+300212#EP18_Rakehand_Card#
+300213#EP18_Spark_Card#
+300214#EP18_Hot_Molar_Card#
+300215#EP18_Volcaring_Card#
+300216#EP18_Lava_Toad_Card#
+300217#EP18_Burning_Fang_Card#
+300218#EP18_Ashhopper_Card#
+300219#EP18_Ashring_Card#
+300220#EP18_Grey_Wolf_Card#
+300221#EP18_Tumble_Ring_Card#
+300222#EP18_Firewind_Kite_Card#
+300223#EP18_Phantom_Wolf_Card#
+300227#EP18_Schulang_Card#
+300228#EP18_Demi_Freyja_Card#
+//===========2024 2Q UPDATE end

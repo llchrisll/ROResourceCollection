@@ -509,6 +509,46 @@ SourceItems = {
 }
 , NeedSource_String = "+7 Race Shadow"}
 , 
+RaceShadow_Mix = {ItemID = 23281, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Homers_Shield", 1, 24056}
+, 
+{"S_Cadi_Shield", 1, 24061}
+, 
+{"S_Requiem_Shield", 1, 24060}
+, 
+{"S_Flameguard_Shield", 1, 24059}
+, 
+{"S_Satanic_Shield", 1, 24058}
+, 
+{"S_Dragoon_Shield", 1, 24057}
+, 
+{"S_Gargantua_Shield", 1, 24055}
+, 
+{"S_Brutal_Shield", 1, 24054}
+, 
+{"S_Cranial_Shield", 1, 24052}
+, 
+{"S_Divine_Shoes", 1, 24070}
+, 
+{"S_Beholder_Shoes", 1, 24069}
+, 
+{"S_Seraphim_Shoes", 1, 24068}
+, 
+{"S_Fisher_Shoes", 1, 24067}
+, 
+{"S_Insecticide_Shoes", 1, 24066}
+, 
+{"S_Clamorous_Shoes", 1, 24065}
+, 
+{"S_Chemical_Shoes", 1, 24064}
+, 
+{"S_Bloody_Shoes", 1, 24062}
+, 
+{"S_Dragoon_Shoes", 1, 24071}
+}
+, NeedSource_String = "+7 Race Shadow"}
+, 
 Remodel_Hero_Boots = {ItemID = 100273, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
 SourceItems = {
 {"Ancient_Hero_Boots", 1, 22171}
@@ -525,7 +565,7 @@ SourceItems = {
 , 
 {"Egir_Manteau_K", 1, 20756}
 }
-, NeedSource_String = "Sea God Egir Equipment"}
+, NeedSource_String = "Sea God Egir\'s Armor"}
 , 
 Mammoth_Mix = {ItemID = 100621, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
 SourceItems = {
@@ -596,6 +636,164 @@ SourceItems = {
 {"S_Bearers_Shield", 1, 24182}
 }
 , NeedSource_String = "Bearer\'s Shadows"}
+, 
+FullTempShadow_Mix = {ItemID = 100596, NeedCount = 10, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Tempest_Shoes", 1, 24346}
+, 
+{"S_Tempest_Shield", 1, 24345}
+, 
+{"S_M_ExeHoly_Armor", 1, 24347}
+, 
+{"S_M_ExoCorrupt_Armor", 1, 24348}
+, 
+{"S_M_DragonVib_Armor", 1, 24349}
+, 
+{"S_M_SciHunting_Armor", 1, 24350}
+, 
+{"S_M_FishInsect_Armor", 1, 24351}
+, 
+{"S_Tempest_Earring", 1, 24168}
+, 
+{"S_Tempest_Pendent", 1, 24169}
+, 
+{"S_M_Executioner_Weapon", 1, 24170}
+, 
+{"S_M_Exorcist_Weapon", 1, 24171}
+, 
+{"S_M_Hunting_Weapon", 1, 24172}
+, 
+{"S_M_Insect_Net_Weapon", 1, 24173}
+, 
+{"S_M_Fishing_Weapon", 1, 24174}
+, 
+{"S_M_Dragon_K_Weapon", 1, 24175}
+, 
+{"S_M_Corrupt_Weapon", 1, 24176}
+, 
+{"S_M_Vibration_Weapon", 1, 24177}
+, 
+{"S_M_Holy_Water_Weapon", 1, 24178}
+, 
+{"S_M_Scissors_Weapon", 1, 24179}
+, 
+{"S2_Spirit_M_E_Weapon", 1, 24329}
+, 
+{"S_Tempest_Weapon", 1, 24423}
+, 
+{"S_Tempest_Armor", 1, 24424}
+, 
+{"S_M_Exe_Ho_Weapon", 1, 24431}
+, 
+{"S_M_Fis_In_Weapon", 1, 24430}
+, 
+{"S_M_Sci_Hu_Weapon", 1, 24429}
+, 
+{"S_M_Viv_Dr_Weapon", 1, 24428}
+, 
+{"S_M_Exo_Co_Weapon", 1, 24427}
+}
+, NeedSource_String = "+7 Tempest Shadows"}
+, 
+FullPeneShadow_Mix = {ItemID = 100572, NeedCount = 10, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Penetration_Shoes", 1, 24373}
+, 
+{"S_Penetration_Shield", 1, 24374}
+, 
+{"S_ExeHoly_Armor", 1, 24375}
+, 
+{"S_ExoCorrupt_Armor", 1, 24376}
+, 
+{"S_DragonVib_Armor", 1, 24377}
+, 
+{"S_SciHunting_Armor", 1, 24378}
+, 
+{"S_FishInsect_Armor", 1, 24379}
+, 
+{"S_Penetration_Earring", 1, 24166}
+, 
+{"S_Penetration_Pendent", 1, 24167}
+, 
+{"S_Executioner_Weapon", 1, 24156}
+, 
+{"S_Exorcist_Weapon", 1, 24157}
+, 
+{"S_Hunting_Weapon", 1, 24158}
+, 
+{"S_Insect_Net_Weapon", 1, 24159}
+, 
+{"S_Fishing_Weapon", 1, 24160}
+, 
+{"S_Dragon_Killer_Weapon", 1, 24161}
+, 
+{"S_Corrupt_Weapon", 1, 24162}
+, 
+{"S_Vibration_Weapon", 1, 24163}
+, 
+{"S_Holy_Water_Weapon", 1, 24164}
+, 
+{"S_Scissors_Weapon", 1, 24165}
+, 
+{"S2_Force_Ex_Weapon", 1, 24328}
+, 
+{"S_Penetration_Weapon", 1, 24432}
+, 
+{"S_Penetration_Armor", 1, 24433}
+, 
+{"S_Exe_Ho_Weapon", 1, 24434}
+, 
+{"S_Fis_In_Weapon", 1, 24435}
+, 
+{"S_Sci_Hu_Weapon", 1, 24436}
+, 
+{"S_Viv_Dr_Weapon", 1, 24437}
+, 
+{"S_Exo_Co_Weapon", 1, 24438}
+}
+, NeedSource_String = "+7 Penetrataion Shadows"}
+, 
+SpellCasterShadow_Mix = {ItemID = 101182, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S2_Spell_Flow_Shield", 1, 24323}
+, 
+{"S_Spell_Flow_Shield", 1, 24113}
+, 
+{"S_Spell_Flow_Armor", 1, 24112}
+, 
+{"S_Spell_Flow_Shoes", 1, 24111}
+, 
+{"S2_Caster_Armor", 1, 24330}
+, 
+{"S_Caster_Armor", 1, 24242}
+, 
+{"S_Caster_Shield", 1, 24241}
+, 
+{"S_Caster_Shoes", 1, 24240}
+, 
+{"S_Caster_Weapon", 1, 24110}
+, 
+{"S_Caster_earring", 1, 24109}
+, 
+{"S_Caster_Pendant", 1, 24048}
+}
+, NeedSource_String = "Spell Flow Shadows, Caster Shadows"}
+, 
+MajorAutoSpell_Mix = {ItemID = 100783, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_AutoSpell_Shoes", 1, 24724}
+, 
+{"S_AutoSpell_Armor", 1, 24723}
+, 
+{"S_AutoSpell_Weapon", 1, 24725}
+, 
+{"S_AutoSpell_Shield", 1, 24722}
+, 
+{"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_AutoSpell_Pendant", 1, 24726}
+}
+, NeedSource_String = "Auto Spell Shadows"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0
