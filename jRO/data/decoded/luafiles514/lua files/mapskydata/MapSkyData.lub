@@ -653,6 +653,14 @@ Old_Cloud_Effect = {1}
 ["apr_rui3_5.rsw"] = {
 BG_Color = {41, 0, 134}
 , Star_Effect = true}
+, 
+["apr_rui4_5.rsw"] = {
+BG_Color = {75, 95, 147}
+, Star_Effect = true}
+, 
+["apr_rui4_5c.rsw"] = {
+BG_Color = {75, 95, 147}
+, Star_Effect = true}
 }
 IsExistMapSkyData = function(mapName)
   -- function num : 0_0

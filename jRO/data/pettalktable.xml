@@ -10452,5 +10452,107 @@
 		<perfor_3>わたくしのフェロモンで虜にしてあげましょう。</perfor_3>
 	</so_full>
 </MISTRESS2>
+<VR_CHAO>
+	<hungry>
+		<feeding>チャオチャオ～（お腹が空いたチャオ～）</feeding>
+		<feeding>チャオチャオ！　チャオ。（ちょうどお腹空いてたチャオ！　ありがとうチャオ！）</feeding>
+		<hunting>チャオ、チャオ～（冒険者、すごいチャオ～）</hunting>
+		<hunting>チャオチャオ～。（狩りもいいけどお腹が空いたチャオ）</hunting>
+		<danger>チャオ！（危険チャオ！）</danger>
+		<danger>チャオチャオ…（冒険者は大変だチャオ…）</danger>
+		<dead>チャオチャオ～（しっかりするチャオ～）</dead>
+		<dead>チャオ～（大変チャオ～）</dead>
+		<stand>チャオチャオ。（いい天気チャオ。）</stand>
+		<stand>チャオ？（呼んだチャオ？）</stand>
+		<connect>チャオチャオ！（待ってたチャオ！！）</connect>
+		<connect>チャオ～！　チャオチャオ。（こんにちはチャオ～！　また会ったチャオね。）</connect>
+		<levelup>チャオチャオ！（もっと強くなったチャオ！）</levelup>
+		<levelup>チャオチャオチャオ！（この勢いチャオ！）</levelup>
+		<perfor_1>チャオチャオ。（今日も頑張るチャオ。）</perfor_1>
+		<perfor_2>チャオチャオ～（良いことがありそうチャオ～）</perfor_2>
+		<perfor_3>チャオチャオ～（良い予感がするチャオ～）</perfor_3>
+		<perfor_s>チャオチャオチャオ～。（チャオ登場チャオ～。）</perfor_s>
+	</hungry>
+	<bit_hungry>
+		<feeding>チャオチャオ～（ありがとうチャオ～）</feeding>
+		<feeding>チャオチャオチャオ～（冒険者もおいしいものを食べるチャオ～）</feeding>
+		<hunting>チャオチャオ！（頑張るチャオ！）</hunting>
+		<hunting>チャオチャオ～（もっと強くなるチャオ～）</hunting>
+		<danger>チャオチャオ、チャオ～（危険なら逃げるチャオ～）</danger>
+		<danger>チャオ？　チャオチャオ？（逃げたほうがいいチャオ？）</danger>
+		<dead>チャオ～…（元気出せチャオ～…）</dead>
+		<dead>チャオチャオ～（しっかりしてチャオ～）</dead>
+		<stand>チャオチャオ。（良いことがありそうチャオ。）</stand>
+		<stand>チャオチャオ～！（散歩に良い天気チャオ！！）</stand>
+		<connect>チャオチャオ！（待ってたチャオ！！）</connect>
+		<connect>チャオ～！　チャオチャオ。（こんにちはチャオ～！　また会ったチャオね。）</connect>
+		<levelup>チャオチャオ！（もっと強くなったチャオ！）</levelup>
+		<levelup>チャオチャオ、チャオ！（この勢いで行くチャオ！）</levelup>
+		<perfor_1>チャオチャオ。（今日も頑張るチャオ。）</perfor_1>
+		<perfor_2>チャオチャオ～（良いことがありそうチャオ～）</perfor_2>
+		<perfor_3>チャオチャオ～（良い予感がするチャオ～）</perfor_3>
+		<perfor_s>チャオチャオチャオ～。（チャオ登場チャオ～。）</perfor_s>
+	</bit_hungry>
+	<noting>
+		<feeding>チャオ～（おいしいチャオ～）</feeding>
+		<feeding>チャオチャオ！（楽しいごはんタイムチャオ！）</feeding>
+		<hunting>チャオチャオ～（今日も一生懸命チャオ～）</hunting>
+		<hunting>チャオ！　チャオ！（おやすみチャオ！）</hunting>
+		<danger>チャオチャオ～（アイテムを使うチャオ～）</danger>
+		<danger>チャオチャオ！（後退するのも手チャオ！）</danger>
+		<dead>チャオチャオ～（大丈夫だからもう一度やるチャオ～）</dead>
+		<dead>チャオ、チャオチャオ～（そうかもしれないチャオ～）</dead>
+		<stand>チャオ～（良い予感がするチャオ～）</stand>
+		<stand>チャオチャオ～（今日はいい日チャオ～。）</stand>
+		<connect>チャオチャオ～！（待ってたチャオ～！）</connect>
+		<connect>チャオチャオ。（チャオ登場チャオ。）</connect>
+		<levelup>チャオチャオ！（もっと強くなったチャオ！）</levelup>
+		<levelup>チャオチャオ、チャオ！（この勢いで行くチャオ！）</levelup>
+		<perfor_1>チャオチャオ。（今日も頑張るチャオ。）</perfor_1>
+		<perfor_2>チャオチャオ～（良いことがありそうチャオ～）</perfor_2>
+		<perfor_3>チャオチャオ～（良い予感がするチャオ～）</perfor_3>
+		<perfor_s>チャオチャオチャオ～。（チャオ登場チャオ～。）</perfor_s>
+	</noting>
+	<full>
+		<feeding>チャオチャオ。（たくさん食べたチャオ。）</feeding>
+		<feeding>チャオチャオ～。（お腹いっぱいチャオ～。）</feeding>
+		<hunting>チャオチャオ～（チャオも何かできると思うチャオ～）</hunting>
+		<hunting>チャオチャオ…（お腹が空いて大変チャオ…）</hunting>
+		<danger>チャオ！　チャオチャオ！（後退するチャオ！）</danger>
+		<danger>チャオチャオ～（アイテムを使うチャオ～）</danger>
+		<dead>チャオ～チャオチャオ～（そうかもしれないチャオ～）</dead>
+		<dead>チャオチャオ～（力を出してチャオ～）</dead>
+		<stand>チャオ～（良い予感がするチャオ～）</stand>
+		<stand>チャオチャオ～（楽しい日チャオ～）</stand>
+		<connect>チャオ～！　チャオチャオ。（こんにちはチャオ～！　また会ったチャオね。）</connect>
+		<connect>チャオチャオチャオ～。（チャオ登場チャオ～。）</connect>
+		<levelup>チャオチャオ！（もっと強くなったチャオ！）</levelup>
+		<levelup>チャオチャオ、チャオ！（この勢いで行くチャオ！）</levelup>
+		<perfor_1>チャオチャオ。（今日も頑張るチャオ。）</perfor_1>
+		<perfor_2>チャオチャオ～（良いことがありそうチャオ～）</perfor_2>
+		<perfor_3>チャオチャオ～（良い予感がするチャオ～）</perfor_3>
+		<perfor_s>チャオチャオチャオ～。（チャオ登場チャオ～。）</perfor_s>
+	</full>
+	<so_full>
+		<feeding>チャオ～チャオ～～。（お腹いっぱいチャオ～。）</feeding>
+		<feeding>チャオチャオチャオ～。（たくさん食べたチャオ～。）</feeding>
+		<hunting>チャオチャオ～（チャオも何かできると思うチャオ～）</hunting>
+		<hunting>チャオチャオ…（お腹が空いて大変チャオ…）</hunting>
+		<danger>チャオ！　チャオチャオ！（後退するチャオ！）</danger>
+		<danger>チャオチャオ～（アイテムを使うチャオ～）</danger>
+		<dead>チャオチャオチャオ～（そうかもしれないチャオ～）</dead>
+		<dead>チャオチャオ～（頑張るチャオ～）</dead>
+		<stand>チャオ～（良い予感がするチャオ～）</stand>
+		<stand>チャオチャオ～（楽しい日チャオ～）</stand>
+		<connect>チャオ～！　チャオチャオ。（こんにちはチャオ～！　また会ったチャオね。）</connect>
+		<connect>チャオチャオチャオ。（チャオ登場チャオ。）</connect>
+		<levelup>チャオチャオ！（もっと強くなったチャオ！）</levelup>
+		<levelup>チャオチャオ、チャオ！（この勢いで行くチャオ！）</levelup>
+		<perfor_1>チャオチャオ。（今日も頑張るチャオ。）</perfor_1>
+		<perfor_2>チャオチャオ～（良いことがありそうチャオ～）</perfor_2>
+		<perfor_3>チャオチャオ～（良い予感がするチャオ～）</perfor_3>
+		<perfor_s>チャオチャオチャオ～。（チャオ登場チャオ～。）</perfor_s>
+	</so_full>
+</VR_CHAO>
 
 </monster_talk_table>

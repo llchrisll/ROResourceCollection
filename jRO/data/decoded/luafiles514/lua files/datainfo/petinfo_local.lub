@@ -405,4 +405,7 @@ PetStringTable[jobtbl.JT_GIANT_HONET] = "ジャイアントホーネット"
 -- DECOMPILER ERROR at PC535: Confused about usage of register: R0 in 'UnsetPending'
 
 PetStringTable[jobtbl.JT_HORNET] = "ホーネット"
+-- DECOMPILER ERROR at PC539: Confused about usage of register: R0 in 'UnsetPending'
+
+PetStringTable[jobtbl.JT_VR_CHAO] = "チャオ"
 

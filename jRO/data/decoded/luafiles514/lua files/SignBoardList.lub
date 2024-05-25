@@ -1124,11 +1124,11 @@ SignBoardList = {
 , 
 {"yuno", 216, 345, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  生体工学研究所の記録", "255,255,255"}
 , 
-{"yuno", 213, 348, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  戦闘モード", "255,255,255"}
-, 
 {"yuno", 220, 352, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  思念体武器エンチャント", "255,255,255"}
 , 
 {"yuno", 223, 343, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  思念体武器精錬", "255,255,255"}
+, 
+{"yuno", 213, 348, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  戦闘・4thモード", "255,255,255"}
 , 
 {"izlude", 153, 139, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  レベルアップチケット", "255,255,255"}
 , 
@@ -1213,6 +1213,8 @@ SignBoardList = {
 {"ev_season01", 37, 116, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  装備の交換", "255,255,255"}
 , 
 {"ev_season01", 13, 113, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  メロン素材", "255,255,255"}
+, 
+{"ev_season01", 9, 114, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  強化キット", "255,255,255"}
 , 
 {"ba_maison", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  バルムント邸案内", "255,255,255"}
 , 
@@ -1397,6 +1399,8 @@ SignBoardList = {
 {"glast_01", 141, 293, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  アイテム交換", "255,255,255"}
 , 
 {"glast_01", 146, 277, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  並行世界のGH武器精錬", "255,255,255"}
+, 
+{"glast_01", 152, 282, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  時間のサークレット", "255,255,255"}
 , 
 {"apr_main1", 135, 76, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  プロンテラへ", "255,255,255"}
 , 
@@ -2211,5 +2215,31 @@ SignBoardList = {
 {"ac_cl_room", 49, 32, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
 , 
 {"lasagna", 314, 237, 6, IT_SIGNBOARD, "signboard\\over_event.bmp", "  ミミミのミッションマスター", "255,255,255"}
+, 
+{"apr_rui4_s", 53, 167, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  探索開始", "255,255,255"}
+, 
+{"apr_rui4_s", 62, 152, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  探索の記録と称号", "255,255,255"}
+, 
+{"apr_rui4_s", 62, 160, 6, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  遺跡群の報酬", "255,255,255"}
+, 
+{"apr_rui4_s", 53, 132, 6, IT_SIGNBOARD, "signboard\\sign_val03.bmp", "  遺跡群の出口", "255,255,255"}
+, 
+{"apr_rui4_s", 69, 145, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  倉庫【40Zeny】", "255,255,255"}
+, 
+{"apr_rui4_s", 45, 160, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  遺跡群の各種説明", "255,255,255"}
+, 
+{"apr_rui4_s", 62, 146, 6, IT_SIGNBOARD, "signboard\\over_kafra.bmp", "  従者の斡旋", "255,255,255"}
+, 
+{"apr_rui4_s", 45, 137, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  暗号解読", "255,255,255"}
+, 
+{"apr_rui4_s", 46, 150, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  キャンプの説明", "255,255,255"}
+, 
+{"apr_rui4_s", 42, 145, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  キャンプ飯の報酬", "255,255,255"}
+, 
+{"apr_main1", 150, 45, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  キャンプ飯の報酬", "255,255,255"}
+, 
+{"apr_rui4_g2", 123, 262, 12, IT_SIGNBOARD, "signboard\\over_bulb.bmp", "  Lv.4 ゴール!!", "255,255,255"}
+, 
+{"apr_rui4_g2", 123, 229, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  最後の転職", "255,255,255"}
 }
 

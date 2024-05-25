@@ -2098,8 +2098,8 @@ resource = {
 reward = {title = 2215}
 , score = 1}
 , 
-[500219] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者RK」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500219] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者RK」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2108,8 +2108,8 @@ resource = {
 reward = {title = 2216}
 , score = 1}
 , 
-[500220] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者RG」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500220] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者RG」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2118,8 +2118,8 @@ resource = {
 reward = {title = 2217}
 , score = 1}
 , 
-[500221] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者MN」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500221] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者MN」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2128,8 +2128,8 @@ resource = {
 reward = {title = 2218}
 , score = 1}
 , 
-[500222] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者GN」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500222] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者GN」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2138,8 +2138,8 @@ resource = {
 reward = {title = 2219}
 , score = 1}
 , 
-[500223] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者WL」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500223] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者WL」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2148,8 +2148,8 @@ resource = {
 reward = {title = 2220}
 , score = 1}
 , 
-[500224] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SO」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500224] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SO」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2158,8 +2158,8 @@ resource = {
 reward = {title = 2221}
 , score = 1}
 , 
-[500225] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者RA」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500225] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者RA」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2168,8 +2168,8 @@ resource = {
 reward = {title = 2222}
 , score = 1}
 , 
-[500226] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者MI」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500226] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者MI」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2178,8 +2178,8 @@ resource = {
 reward = {title = 2223}
 , score = 1}
 , 
-[500227] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者WA」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500227] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者WA」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2188,8 +2188,8 @@ resource = {
 reward = {title = 2224}
 , score = 1}
 , 
-[500228] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者GC」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500228] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者GC」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2198,8 +2198,8 @@ resource = {
 reward = {title = 2225}
 , score = 1}
 , 
-[500229] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SC」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500229] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SC」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2208,8 +2208,8 @@ resource = {
 reward = {title = 2226}
 , score = 1}
 , 
-[500230] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者AB」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500230] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者AB」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2218,8 +2218,8 @@ resource = {
 reward = {title = 2227}
 , score = 1}
 , 
-[500231] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SR」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500231] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SR」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2228,8 +2228,8 @@ resource = {
 reward = {title = 2228}
 , score = 1}
 , 
-[500232] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SE」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500232] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SE」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2238,8 +2238,8 @@ resource = {
 reward = {title = 2229}
 , score = 1}
 , 
-[500233] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SP」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500233] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SP」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2248,8 +2248,8 @@ resource = {
 reward = {title = 2230}
 , score = 1}
 , 
-[500234] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者KA」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500234] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者KA」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2258,8 +2258,8 @@ resource = {
 reward = {title = 2231}
 , score = 1}
 , 
-[500235] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者OB」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500235] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者OB」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2268,8 +2268,8 @@ resource = {
 reward = {title = 2232}
 , score = 1}
 , 
-[500236] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者RL」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500236] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者RL」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2278,8 +2278,8 @@ resource = {
 reward = {title = 2233}
 , score = 1}
 , 
-[500237] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者SN」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500237] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SN」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -2288,8 +2288,8 @@ resource = {
 reward = {title = 2234}
 , score = 1}
 , 
-[500238] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.3 従者DO」", 
-content = {summary = "ゴール到達時の従者の職業", details = "「廃亡遺跡群Lv.3」にてゴールした後、　　　　　　 「廃亡遺跡群Lv.3【はじまりは酒場】」の座標(54,70) にいるNPC「記録官」に話しかけて 「称号の確認」を行う"}
+[500238] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者DO」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
 , 
 resource = {
 [1] = {text = ""}
@@ -3036,6 +3036,296 @@ resource = {
 }
 , 
 reward = {title = 2300}
+, score = 1}
+, 
+[500304] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.4 ①」", 
+content = {summary = "ゴールのフロアに到達する", details = "「廃亡遺跡群Lv.4」にてゴールのフロアに達した後、 「廃亡遺跡群」の入口に居るNPC「記録官」 に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2301}
+, score = 1}
+, 
+[500305] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.4 ②」", 
+content = {summary = "最大到達フロアが規定数以上", details = "「廃亡遺跡群Lv.4」にて最大到達フロアが 「200」を超えた後、「廃亡遺跡群」の入口に居る NPC「記録官」に話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2302}
+, score = 1}
+, 
+[500306] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.4 ③」", 
+content = {summary = "キャンプ飯を作って食べる", details = "「廃亡遺跡群」のキャンプ時に キャンプ飯を「2」回作って食べた後、 「廃亡遺跡群」の入口に居るNPC「記録官」に 話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2303}
+, score = 1}
+, 
+[500307] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.4 ④」", 
+content = {summary = "キャンプ飯を作って食べる", details = "「廃亡遺跡群」のキャンプ時に キャンプ飯を「10」回作って食べた後、 「廃亡遺跡群」の入口に居るNPC「記録官」に 話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2304}
+, score = 1}
+, 
+[500308] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.4 ⑤」", 
+content = {summary = "キャンプ飯を作って食べる", details = "「廃亡遺跡群」のキャンプ時に キャンプ飯を「20」回作って食べた後、 「廃亡遺跡群」の入口に居るNPC「記録官」に 話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2305}
+, score = 1}
+, 
+[500309] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.4 ⑥」", 
+content = {summary = "従者にツールをプレゼントする", details = "「廃亡遺跡群Lv.4」のキャンプ時に 従者にツールを「10」回プレゼントした後、 「廃亡遺跡群」の入口に居るNPC「記録官」に 話しかけて「称号の確認」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2306}
+, score = 1}
+, 
+[500310] = {UI_Type = 1, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群Lv.4(特別)」", 
+content = {summary = "ヒットクイーン宝箱Lv.4を討伐する", details = "「廃亡遺跡群Lv.4」に出現する　　　　 「ヒットクイーン宝箱Lv.4」を1体討伐する"}
+, 
+resource = {
+[1] = {text = "「ヒットクイーン宝箱Lv.4」討伐", count = 1}
+}
+, 
+reward = {title = 2307}
+, score = 1}
+, 
+[500311] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者DK」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2308}
+, score = 1}
+, 
+[500312] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者IG」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2309}
+, score = 1}
+, 
+[500313] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者MT」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2310}
+, score = 1}
+, 
+[500314] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者BO」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2311}
+, score = 1}
+, 
+[500315] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者AM」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2312}
+, score = 1}
+, 
+[500316] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者EM」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2313}
+, score = 1}
+, 
+[500317] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者WH」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2314}
+, score = 1}
+, 
+[500318] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者TB」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2315}
+, score = 1}
+, 
+[500319] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者TV」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2316}
+, score = 1}
+, 
+[500320] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SX」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2317}
+, score = 1}
+, 
+[500321] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者AC」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2318}
+, score = 1}
+, 
+[500322] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者CD」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2319}
+, score = 1}
+, 
+[500323] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者IQ」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2320}
+, score = 1}
+, 
+[500324] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者TT」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2321}
+, score = 1}
+, 
+[500325] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SA」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2322}
+, score = 1}
+, 
+[500326] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SK」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2323}
+, score = 1}
+, 
+[500327] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SI」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2324}
+, score = 1}
+, 
+[500328] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者NW」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2325}
+, score = 1}
+, 
+[500329] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者HN」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2326}
+, score = 1}
+, 
+[500330] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 従者SH」", 
+content = {summary = "従者の転職", details = "「廃亡遺跡群」にて従者が 該当する職に転職した際に課題が達成される。"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2327}
+, score = 1}
+, 
+[500331] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 食材探求 ①」", 
+content = {summary = "食材モンスターでキャンプ飯を作る", details = "「廃亡遺跡群」のキャンプ時に キャンプ飯で「1」種類の食材モンスターを食べた後、 「廃亡遺跡群」の入口に居るNPC「食材探求家」に 話しかけて「食材の報告」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2328}
+, score = 1}
+, 
+[500332] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 2, minor = 1, title = "期間限定「遺跡群 食材探求 ②」", 
+content = {summary = "食材モンスターでキャンプ飯を作る", details = "「廃亡遺跡群」のキャンプ時に キャンプ飯で「5」種類の食材モンスターを食べた後、 「廃亡遺跡群」の入口に居るNPC「食材探求家」に 話しかけて「食材の報告」を行う"}
+, 
+resource = {
+[1] = {text = ""}
+}
+, 
+reward = {title = 2329}
 , score = 1}
 }
 main = function()

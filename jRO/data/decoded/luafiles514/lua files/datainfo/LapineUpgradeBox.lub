@@ -1322,6 +1322,22 @@ TargetItems = {
 {"Wicked_Axe", 620016}
 }
 , NeedSource_String = "ゼンマイ制御機"}
+, 
+Snow_F_Refine2_JP = {ItemID = 102983, NeedRefineMin = 0, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Snowflower_Armor", 450206}
+, 
+{"Snowflower_Robe", 450207}
+, 
+{"Snowflower_Boots", 470115}
+, 
+{"Snowflower_Shoes", 470116}
+, 
+{"Snowflower_Manteau", 480159}
+, 
+{"Snowflower_Muffler", 480160}
+}
+, NeedSource_String = "エンハンスキューブII(雪花)"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

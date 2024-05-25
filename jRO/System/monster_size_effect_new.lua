@@ -3430,6 +3430,30 @@ EFFECT.EF_JRO_TEMP_003 = 1978
 -- DECOMPILER ERROR at PC4314: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_JRO_TEMP_004 = 1982
+-- DECOMPILER ERROR at PC4318: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_005 = 2368
+-- DECOMPILER ERROR at PC4322: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_006 = 1149
+-- DECOMPILER ERROR at PC4326: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_007 = 1850
+-- DECOMPILER ERROR at PC4330: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_008 = 1811
+-- DECOMPILER ERROR at PC4334: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_009 = 2166
+-- DECOMPILER ERROR at PC4338: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_010 = 1576
+-- DECOMPILER ERROR at PC4342: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_011 = 2031
+-- DECOMPILER ERROR at PC4346: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_012 = 2087
 tbl = {
 [3000] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_PINKBODY}
@@ -9349,6 +9373,242 @@ MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_QSCARABA, EFFECT.EF_WATER_BELOW}
 , 
 [23230] = {MonsterSize = 1.4, 
 MonsterEff = {EFFECT.EF_LEVEL150_SUB, EFFECT.EF_RED_WAVE2, EFFECT.EF_FLOWERSMOKE}
+}
+, 
+[23243] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_AMDARAIS_EFFECT, EFFECT.EF_LEVEL160_BLACK}
+}
+, 
+[23244] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL160_BLACK}
+}
+, 
+[23246] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL160_WHITE}
+}
+, 
+[23255] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[23245] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[23249] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[23250] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[23251] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_REDLIGHTBODY, EFFECT.EF_LEVEL185_SUB}
+}
+, 
+[23253] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[23247] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[23254] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_REDLIGHTBODY, EFFECT.EF_LEVEL185_SUB}
+}
+, 
+[23248] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_REDLIGHTBODY, EFFECT.EF_LEVEL185_SUB}
+}
+, 
+[23252] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23256] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY}
+}
+, 
+[21102] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N3}
+}
+, 
+[21103] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N5}
+}
+, 
+[21104] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N7}
+}
+, 
+[21105] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N2}
+}
+, 
+[21106] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N4, EFFECT.EF_GUARD3}
+}
+, 
+[21107] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N4, EFFECT.EF_GUARD}
+}
+, 
+[21108] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N8}
+}
+, 
+[21109] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_JRO_TEMP_005}
+}
+, 
+[21110] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_JRO_TEMP_005}
+}
+, 
+[21111] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_JRO_TEMP_005}
+}
+, 
+[21112] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GUARD3}
+}
+, 
+[21113] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GUARD}
+}
+, 
+[21114] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21115] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21116] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21117] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21118] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL150_SUB}
+}
+, 
+[21239] = {MonsterSize = 0, 
+MonsterEff = {EFFECT.EF_JRO_TEMP_007, EFFECT.EF_JRO_TEMP_008, EFFECT.EF_JRO_TEMP_009}
+}
+, 
+[21240] = {MonsterSize = 0, 
+MonsterEff = {EFFECT.EF_JRO_TEMP_010, EFFECT.EF_JRO_TEMP_011, EFFECT.EF_JRO_TEMP_012}
+}
+, 
+[21241] = {MonsterSize = 0, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21242] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_REDLIGHTBODY, EFFECT.EF_LEVEL185_SUB}
+}
+, 
+[21243] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_REDLIGHTBODY, EFFECT.EF_LEVEL185_SUB}
+}
+, 
+[21244] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_REDLIGHTBODY, EFFECT.EF_LEVEL185_SUB}
+}
+, 
+[21245] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N3}
+}
+, 
+[21246] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N5}
+}
+, 
+[21247] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N7}
+}
+, 
+[21248] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N2}
+}
+, 
+[21249] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N4, EFFECT.EF_GUARD3}
+}
+, 
+[21250] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N4, EFFECT.EF_GUARD}
+}
+, 
+[21251] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_BEGINSPELL_N8}
+}
+, 
+[23278] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23279] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23280] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23281] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23282] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23283] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23284] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23285] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23286] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23287] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23288] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23289] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23290] = {MonsterSize = 1.1, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23291] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[23292] = {MonsterSize = 0.8, 
+MonsterEff = {EFFECT.EF_LEVEL99_3}
 }
 }
 main = function()

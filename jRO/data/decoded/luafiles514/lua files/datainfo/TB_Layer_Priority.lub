@@ -1480,6 +1480,46 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Neon_Half_Long] = {Default = 150, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Clover_Hairpin] = {Default = 450, 
+Direction = {[3] = 321, [4] = 321, [5] = 321}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Chewy_Low_Twin] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Randgris_Hair] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_D_Freyja] = {Default = 100, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Eye_Mask] = {Default = 100, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_WEISSWURST] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Sweet_Potato_In_Mouth] = {Default = 480, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Kitchen_Car] = {Default = 850, isIgnoreRiding = true, isHelmRobe = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Signon_Loop] = {Default = 150, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Bakery] = {Default = 450, isIgnoreRiding = true, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
