@@ -15,7 +15,5 @@ World_List = {
 {"localizing 01", "worldtable_localizing1", "worldtable_localizing1_Dun", "worldmap_localizing1.bmp"}
 , 
 {"localizing 02", "worldtable_localizing2", "worldtable_localizing2_Dun", "worldmap_localizing2.bmp"}
-, 
-{"Far-Star", "worldtable_Doram", "worldtable_Doram_Dun", "pasta.jpg"}
 }
 

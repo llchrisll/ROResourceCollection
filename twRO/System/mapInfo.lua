@@ -3827,6 +3827,82 @@ signName = {subTitle = "幻想叢書", mainTitle = "克里圖拉學院1樓"}
 ["1@vrac2.rsw"] = {displayName = "幻想叢書-學院2樓", notifyEnter = true, 
 signName = {subTitle = "幻想叢書", mainTitle = "克里圖拉學院2樓"}
 , backgroundBmp = "village"}
+, 
+["icecastle.rsw"] = {displayName = "伊斯加爾特冰封之城", notifyEnter = true, 
+signName = {subTitle = "伊斯加爾特", mainTitle = "冰封之城"}
+, backgroundBmp = "village"}
+, 
+["icas_in.rsw"] = {displayName = "冰封之城內部", notifyEnter = true, 
+signName = {mainTitle = "冰封之城內部"}
+, backgroundBmp = "village_s2"}
+, 
+["jor_tail.rsw"] = {displayName = "冰鱗盡頭", notifyEnter = true, 
+signName = {mainTitle = "冰鱗盡頭"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_back1.rsw"] = {displayName = "冰鱗山丘", notifyEnter = true, 
+signName = {mainTitle = "冰鱗山丘"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_back2.rsw"] = {displayName = "冰鱗平原", notifyEnter = true, 
+signName = {mainTitle = "冰鱗平原"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_back3.rsw"] = {displayName = "冰鱗冰川", notifyEnter = true, 
+signName = {mainTitle = "冰鱗冰川"}
+, backgroundBmp = "field2_s2"}
+, 
+["jor_nest.rsw"] = {displayName = "蛇巢", notifyEnter = true, 
+signName = {subTitle = "蠕蟲藏身處", mainTitle = "蛇巢"}
+, backgroundBmp = "noname"}
+, 
+["jor_dun01.rsw"] = {displayName = "蛇神的吐息1樓", notifyEnter = true, 
+signName = {mainTitle = "蛇神的吐息1樓"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun02.rsw"] = {displayName = "蛇神的吐息2樓", notifyEnter = true, 
+signName = {mainTitle = "蛇神的吐息2樓"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_dun03.rsw"] = {displayName = "蛇巢內部", notifyEnter = true, 
+signName = {mainTitle = "蛇巢內部"}
+, backgroundBmp = "noname_s2"}
+, 
+["jor_ab01.rsw"] = {displayName = "廢棄坑洞1樓", notifyEnter = true, 
+signName = {mainTitle = "廢棄坑洞1樓"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_ab02.rsw"] = {displayName = "廢棄坑洞2樓", notifyEnter = true, 
+signName = {mainTitle = "廢棄坑洞2樓"}
+, backgroundBmp = "dungeon_s2"}
+, 
+["jor_que.rsw"] = {displayName = "廢棄蛇神的吐息", notifyEnter = true, 
+signName = {mainTitle = "廢棄蛇神的吐息"}
+, backgroundBmp = "noname_s2"}
+, 
+["air_if.rsw"] = {displayName = "飛空艇伊夫號內部", notifyEnter = true, 
+signName = {mainTitle = "飛空艇伊夫號內部"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@iwp.rsw"] = {displayName = "冰鱗山丘", notifyEnter = true, 
+signName = {mainTitle = "冰鱗山丘"}
+, backgroundBmp = "field2_s2"}
+, 
+["1@jorchs.rsw"] = {displayName = "混亂的蛇巢", notifyEnter = true, 
+signName = {mainTitle = "混亂的蛇巢"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@jorlab.rsw"] = {displayName = "巴格的研究室", notifyEnter = true, 
+signName = {mainTitle = "巴格的研究室"}
+, backgroundBmp = "noname_s2"}
+, 
+["1@whl.rsw"] = {displayName = "飛空艇瓦爾(1)號內部", notifyEnter = true, 
+signName = {subTitle = "霸肋門德飛空艇收藏No.3", mainTitle = "飛空艇瓦爾(1)號內部"}
+, backgroundBmp = "noname"}
+, 
+["1@vrsn.rsw"] = {displayName = "蛋頭博士的秘密基地", notifyEnter = true, 
+signName = {subTitle = "幻想叢書-索尼克", mainTitle = "蛋頭博士的秘密基地"}
+, backgroundBmp = "noname"}
 }
 main = function()
   -- function num : 0_0

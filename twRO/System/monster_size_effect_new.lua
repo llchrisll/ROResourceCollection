@@ -6310,6 +6310,10 @@ MonsterEff = {EFFECT.MAGIC_CIRCLE_INSECT}
 MonsterEff = {EFFECT.MAGIC_CIRCLE_UNDEAD}
 }
 , 
+[21651] = {MonsterSize = 0.8, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
 [23242] = {MonsterSize = 1.3, 
 MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
 }
@@ -6332,6 +6336,30 @@ MonsterEff = {EFFECT.EF_NONE}
 , 
 [10432] = {MonsterSize = 0.3, 
 MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21531] = {MonsterSize = 1.7, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21588] = {MonsterSize = 2.5, 
+MonsterEff = {EFFECT.EF_NONE}
+}
+, 
+[21590] = {MonsterSize = 1.4, 
+MonsterEff = {EFFECT.EF_REDLIGHTBODY}
+}
+, 
+[21537] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6}
+}
+, 
+[21853] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DRAGON}
+}
+, 
+[21854] = {MonsterSize = 1.2, 
+MonsterEff = {EFFECT.MAGIC_CIRCLE_DEVIL}
 }
 }
 main = function()

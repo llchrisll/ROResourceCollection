@@ -1,34 +1,47 @@
 <?xml version="1.0" encoding="euc-kr" ?>
 
 <clientinfo>
-
-	<desc>Taiwan SelfService Server</desc>
-	<servicetype>taiwan</servicetype>
+	<desc>MSP Live Server</desc>
+	<servicetype>philippine</servicetype>
 	<servertype>primary</servertype>
 	<hideaccountlist></hideaccountlist>
 	<extendedslot></extendedslot>
 	
 	<connection>
-		<display>Taiwan Main</display>
+		<display>MSP Live</display>
 		<desc>None</desc>
-		<domain>twro-acc.gnjoy.com.tw:6900</domain>
+		<address>18.136.20.146</address>
 		<port>6900</port>
-		<version>1</version>
-		<langtype>4</langtype>
-		<registrationweb>https://member.gnjoy.com.tw/signin.aspx</registrationweb>
+		<version>15</version>
+		<registrationweb>https://www.gnjoy.asia/member/sign-up.php</registrationweb>
 		<aid>
-			<admin>23769077</admin>
-			<admin>23769078</admin>
-			<admin>23769079</admin>
-			<admin>23769080</admin>
-			<admin>23769081</admin>
-			<admin>24414416</admin>
-			<admin>24414417</admin>
-			<admin>24414418</admin>
-			<admin>23769076</admin>
-			<admin>23769082</admin>
-			<admin>23769083</admin>
-			<admin>23769085</admin>
+			<admin>137151</admin>
+			<admin>137152</admin>
+			<admin>137153</admin>
+			<admin>137154</admin>
+			<admin>137155</admin>
+			<admin>137156</admin>
+			<admin>137157</admin>
+			<admin>137158</admin>
+			<admin>137159</admin>
+			<admin>137160</admin>
+			<admin>137161</admin>
+			<admin>137162</admin>
+			<admin>137163</admin>
+			<admin>137164</admin>
+			<admin>137165</admin>
+			<admin>137166</admin>
+			<admin>228582</admin>
+			<admin>228598</admin>
+			<admin>230296</admin>
+			<admin>230300</admin>
+			<admin>228597</admin>
+			<admin>228588</admin>
+			<admin>230302</admin>
+			<admin>228580</admin>
+			<admin>228593</admin>
+			<admin>251586</admin>
+			<admin>251587</admin>
 		</aid>
 	</connection>
 </clientinfo>

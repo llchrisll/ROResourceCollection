@@ -1,72 +1,90 @@
 %faf0e6
-^000088-盧恩 米德加茲王國主婦最喜愛的暢銷書，切勿錯失良機!!!!-^000000 
-  也深受顧家型丈夫們的喜愛。
+^000088- A best seller among Rune-Midgard housewives! 
+Don't miss this chance to become a master of cooking! -^000000 
+Also a best seller among family men: let your wife rest during weekends. 
+This book teaches you how to cook Level 3 recipes easily!
 
-放假天就讓愛妻好好休息吧!你也可以輕鬆烹調的3等級料理。
 
-^ff0000爆炸牛排 :^000000火山爆發般的辣味，讓你的胃口大開!
-材料 : ^4b0082肉1個、破舊平底鍋1個、綠色藥草1個、紅辣椒1個、辣調味料1個^000000
-烹調方式 : 用鐵錘等敲打準備好的肉，
-          將乾燥好的綠藥草和辣椒片，事先在肉上調味。
-          將平底鍋加熱後先倒入食用油，將奶油融化後撒上鹽煎肉。 
-          煎之前要撒上鹽肉質不會變老才好吃。
-          一面煎熟了就撒鹽調味，只翻一次煎成褐色即可。
-          把肉盛到盤子上，用3、4片新鮮的綠色藥草葉裝飾，最後撒上辣椒調味料。
+^ff0000Bomber Steak:^000000 the explosive, spicy taste will definitely stimulate your appetite!
+Ingredients: ^4b00824 Meat, 1 Old Frying Pan, 10 Green Herbs, 5 Red Chile, 1 Spicy Sauce ^000000
+Directions: 
+	1. Tenderize the Meat by pounding the Meat with the back of a Mace.
+	2. Grind well-dried Green Herbs and Red Chiles.
+	3. Marinade the tenderized Meat in the mixture of Green Herbs and Red Chiles.
+	4. Heat the Old Frying Pan over medium heat, and then add oil and butter.
+	5. Sprinkle a little salt on the Meat just before cooking.
+	6. Start cooking the Meat in the frying pan on the one side.
+	7. When one side is well cooked, sprinkle a little more salt, and then turn it over.
+	8. Cook the other side of Meat until it is crisp and dark brown.
+	9. Please the steak on a plate, and garnish with 3 or 4 Green Herb leaves, 
+                    and then serve with Spicy Sauce.
+          
 
-^0000ff藥草蜂蜜茶 :^000000 推薦給喜愛淡淡香氣的你!
-材料 : ^4b0082蜂蜜1個、白色藥草1個、黃色香料1個^000000
-烹調方式 : 原則上香草茶應使用乾燥過的藥草，
-           使用新鮮藥草(生葉)也無妨。 
-          但是要考慮藥草是含90%以上水分的植物。
-          如果使用新鮮藥草，必須使用乾燥藥草的3~4倍，
-          才能品嚐到完整的香氣。(也能減量改用黃色香料)
-          將適量倒入茶壺中，倒入熱水泡開。
-          記得要蓋上壺蓋，以免香味飄散。
-          新鮮藥草大約泡4~5分鐘，
-          乾燥藥草約泡3分鐘左右，時間可依自己喜好。
-          添加少許黃色香料，增加香味；添加蜂蜜，可增加甜味。
+^0000ffHoney Herbal Tea:^000000an aromatic tea that leaves behind refreshing minty breath!
+Ingredients: ^4b00822 Honey, 10 White Herbs, 1 Yellow Spice ^000000
+Directions: 
+Dried herbs are usually used to brew herbal tea, but fresh herbs are usually used in 
+this recipe. Herbs are 90% moisture, so you'll need to use 3 to 4 times more fresh herbs 
+than dried herbs for fuller flavor. If you don't have enough herbs, you can substitute 
+a portion of them with more Yellow Spice.
+	1. Place the herbs into the teapot, pour hot water, and then close the lid.
+	2. Infuse the tea for 4 to 5 minutes, especially since you're using fresh herbs. 
+                    If you are substituting dried herbs, brew for 3 minutes.
+	3. Add Yellow Spice and Honey to taste, and enjoy.
 
-^800000水果刨冰 :^000000 清脆的水果饗宴!
-材料 : ^4b0082蘋果1個、香蕉1個、柳橙1個、草莓1個、黃色香料1個^000000
-烹調方式 : 蘋果、柳橙、草莓洗乾淨備好。
-          蘋果和柳橙、香蕉去皮，切成適合食用的大小，
-          草莓縱向切成兩半。
-          在有深度的玻璃杯下面放上蘋果和柳橙，
-          香蕉和草莓最好放在上面，但攪拌方法看自己喜好。
-          在盛在杯子裏的水果上撒上香辛料糖漿。
+
+^800000Fruit Mix:^000000 enjoy a crunchy texture of sweet, fresh fruit!
+Ingredients: ^4b00825 Apples, 5 Bananas, 5 Oranges, 5 Strawberries, 1 Yellow Spice ^000000
+Directions: 
+	1. Rinse Apples, Oranges, and Strawberries.
+	2. Skin Apples, Oranges, and Bananas, and cut them into bite sized pieces. 
+                    Slice the Strawberries in halves.
+	3. Place the Apples and Oranges into a long glass, and add the Bananas and 
+                    Strawberries on top of the Apples and Oranges. This is merely 
+                    a serving suggestion, and you can mix the fruit as you please.
+	4. Serve the mixed fruit with Yellow Spice sprinkled on top.
          
-^008040觸鬚起士湯 :^000000 滑溜溜的觸鬚上加了滿滿的起士!
-材料 : ^4b0082觸鬚1個、起士1個、美味蕃薯1個、甜調味料1個^000000
-烹調方式 : 蕃薯去皮後，切成大塊狀。
-          觸鬚洗淨後切成3~4cm長。
-          在熱鍋中倒入油和觸鬚，
-          輕輕翻炒，放入鹽、胡椒粉調味。
-          把奶油塗在焗烤碗裏，裝上炒過的觸鬚和煮蕃薯後，
-          撒上滿滿的甜調味料和起士，在烤箱裏烤10分鐘左右。
+^008040Tentacle Cheese Gratin:^000000 enjoy the rich taste of gratin made with cheese and 
+                                                     smooth Tentacles.
+Ingredients: ^4b008210 Tentacles, 10 cheese, 5 Yam, and 1 Sweet Sauce ^000000
+Directions:
+	1. Rinse and skin Yams. Chop the Yams into large squares.
+	2. Rinse Tentacles, and cut them into 3 to 4 cm lengthwise pieces.
+	3. Heat a frying pan over medium heat.
+	4. Add Oil to the pan, and fry the tentacles. 
+	5. Add salt and pepper while frying.
+	6. Spread butter in a gratin bowl, and add the fried Tentacles and cut Yams. 
+	7. Spread the Sweet Sauce and Cheese on the top of the Tentacles and Yams.
+	8. Broil in the oven for 10 minutes.
 
-^ff8040蛤蜊湯 :^000000 鮮美的蛤蜊湯 OUT!香甜的蛤蜊湯 IN!
-材料 : ^4b0082蛤蜊肉1個、海螺1個、蜂蜜1個、甜調味料1個^000000
-烹調方式 : 海螺洗淨煮熟後取出內臟，切成適當的大小。
-          煮出泡沫時，舀出湯汁後用細棉布過濾高湯。 
-          將蛤蜊和海螺加入過濾後的高湯中，然後再次煮沸，
-          用蜂蜜和甜調味料來調味。
+^ff8040Clam Soup:^000000 forget bland taste soup. Now is the time to enjoy a bowl of 
+                              uniquely sweet Clam Soup!
+Ingredients: ^4b008220 Clam Flesh, 10 Conch, 1 Honey, 1 Sweet Sauce ^000000
+Directions: 
+	1. Rub and clean Conches under cold water.
+	2. Steam the Conches, and remove intestines. Slice the cooked Conch flesh into 
+                    large squares.
+	3. Add water and the Conch flesh to a pot, and start boiling.
+	4. Skim off bubbles from the broth while boiling, and filter the broth 
+                    after it is boiled.
+	5. Pour the filtered broth to a pot, and add the Clam Flesh and Conch flesh.
+	6. Boil the soup, and add Honey and Sweet Sauce.
+        
 
-^400080麻糖 :^000000外酥內軟的好滋味!
-材料 : ^4b0082蕃薯1個、美味蕃薯1個、魔物番薯1個、甜調味料1個^000000
-烹調方式 : 將蕃薯洗淨，切塊備用。
-          此時烤蕃薯就一口吃掉。
-          油準備到蕃薯可以浸泡的程度，
-          溫度上升後，把準備好的蕃薯都放進去， 
-          一直炸到金黃色或褐色，  
-          將炸好的蕃薯放入盤子裏，過濾多餘的油渣， 
-          在鍋中加入1大匙食用油和1份甜調味料後混合。 
-          在平底鍋中放入蕃薯，均勻沾上糖漿， 
-          一直燉到酥脆為止。
-          盛在盤子裏後撒上黑芝麻，香氣就會倍增。
-
-
-
-
-
-
+^400080Fried Sweet Potato:^000000cooked and honeyed potato that is soft on the inside, 
+                                             and crunchy on the outside!
+Ingredients: ^4b008210 Potatoes, 10 Yams, 1 Sweet Potato,1 Sweet Sauce ^000000
+Directions:
+	1. Clean and rinse Potatoes and Yams. Cut them into a bite sized pieces 
+                    with the skin intact. The Sweet Potato is for relieving your hunger 
+                    before the dish is done, so eat it while you cook.
+	2. Prepare a large pot, and pour enough oil to dip the Potatoes and Yams. Heat the oil.
+	3. When the oil starts bubbling, add the Potatoes and Yams, and fry them 
+                    until the skin is crisp and golden brown.
+	4. Bring the fried Potatoes and Yams out of the oil, and place them in a strainer 
+                    to remove excessive oil.
+	5. Add 1 TS of cooking oil and 1 Yellow Sauce to a pan. Mix the oil and sauce together.
+	6. Add the fried Potatoes and Yams to the pan, and boil them down until the sauce 
+                    and oil mixture is sticky.
+Serve the cooked Potatoes and Yams on a plate with black sesame seeds sprinkled on top.
 

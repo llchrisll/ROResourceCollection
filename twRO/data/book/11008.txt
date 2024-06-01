@@ -1,29 +1,60 @@
 %c0c0c0
-^483d8b人名大字典? 朱諾國立大學字典編輯委員會共同編撰^000000
-A.W 1003年 發行
+^483d8bBiographical Dictionary coauthored by Juno National University Dictionary 
+Compilation Committee ^000000
+Published in A.W. 1003
 
-^8b008b大賢者‘霸肋門德’(A.W 667~???)^000000
+^8b008bDoctor Varmundt (A.W. 667~???)^000000
 
-大賢者 霸肋門德出生於A.W(After War)667年 秀發茲發德的一個小鄉鎮村落裡，
-霸肋門德是獨子 有一個誠實卻貧窮的農夫父親 和一個家庭主婦的溫和母親。從小他就展露出比其它孩子聰明有才能的一面。
-因此他家經貧窮不能接受一般的正規教育，於是他父母就請了本來在朱諾國立大學任教 後隱退到鄉下的海契教授來教他。
-海契教授一眼就看出霸肋門德的不平凡 於是收他為弟子，
-之後，當霸肋門德14歲之時 受到海契教授的推薦以最年輕之姿進入朱諾國立大學，接受當代最權威教授們最好的教育指導。
-優異的霸肋門德漸漸在生物科學，考古學和古代科學等領域中展露頭角，
-7年後他以21歲的天才年少之姿 成為朱諾國立大學最年輕的教授，
-雖然這麼年輕就成為教壇教書 但比起後學養成，他更沉迷於古代遺跡的發掘和研究。
-但就當時的學界而言，古代遺跡和科學研究對他仍有許多阻礙。尤其巨大的發掘工程有財政上的困難，但很早就注意到 霸肋門德才華的xxx社（註1）不惜重本決定支援他 因此讓霸肋門德更專注於研究工作了。
-他一生都致力於古代遺跡研究和科學研究，xxx社也因他而獲得卓越的成績而成長發展了。
-霸肋門德與其他大部份的學者不同 他不只專一熱衷於學問研究，對於文學、繪畫和音樂都有傑出的天份及能力。傾力於創作活動的他到死前留下不少作品 可惜在他的狂人般的整理癖好之下 他家因‘傭兵叛亂事件’（註2）遭到大肆掠奪而失火 造成大部份作品無法遺留後世。
-霸肋門德如此天才型的研究與創作活動不論是為當代，或後世的科學和藝術都留下傲人的成績，但他進入晚年後就斷絕與外界的聯絡 在如城堡般的官邸裡過著隱居的生活。
-他在家裡集所有研究於大成，並努力復原曾研究過的古代創作科學技術。
-在經過霸肋門德如此執著努力和實驗之後 終於誕生與古代遺物有類似水準的創作作品（註3），他將這些創作物收藏在家中。
-他的晚年如何不得而知。只知道晚期他將自己流放 在四處擺滿了自己創作作品的日子中過活 而一直沒人發現他死亡或是任何遺骸留存。
-但唯一有與霸肋門德有書信往來，也是他與世界唯一的溝通窗口，就是他的女弟子‘***'不知道何時隱匿起來了 人們那時候就開始推測那就是霸肋門德最後的結局。
-霸肋門德死後已廢棄多年的官邸和研究室 終於在A.W781年所發生的傭兵叛亂事件 而首次曝光在世人面前。
-被鎮壓軍逼退的傭兵們佔領了霸肋門德的大官邸當作最後的堡壘，經過2個多月對峙之後 遭逢鎮壓軍開始攻擊大官邸 傭兵激烈抵抗 終究寡不敵眾。一個俘虜都不留的激烈鎮壓過程中 霸肋門德的創作作品與他輝煌的成績大部份都被摧毀殆盡了。
-如今流傳下來的只有他少許的書信，以及學習古代科學必知的公式和法則時，僅存這些能證明這位天才的存在了
+Doctor Varmundt was born in a small rural village in the Schwartzvald Republic A.W. 
+(After War) 667. He was the only son born to a poor yet hardworking couple: his father 
+was a farmer, and his mother was a housekeeper. He demonstrated uncommon intelligence 
+as a child, but his parents couldn't afford to send him to school. 
+Luckily, they introduced him to Professor Hedge, a retired professor from 
+the Juno National University that was now living in their village. Professor Hedge 
+immediately recognized Varmundt's potential and accepted him as his student.
 
-註 1）企業都市的監護人魔物研究＆開發＆生產部門
-註 2）A.W781年發生的傭兵們的叛亂，有鑒於機械監護人魔物大量投入而感到危機意識的傭兵們所引起的叛亂，紛擾了共和國1年多的時間，最後導致當時的總理和執政官史上頭一遭集體下台了
-註 3）魔物? 代表的是愛麗絲女僕
+Varmundt entered Juno National University under Professor Hedge's personal recommendation 
+as the youngest student in its history when he was fourteen. He studied under 
+the greatest professors of the time and excelled in all fields of study, specializing in 
+somatology, archeology, and ancient sciences.  Seven years later, the twenty-one-year-old 
+genius earned his doctorate, becoming the youngest professor at Juno National University. 
+Varmundt focused on researching ancient relics and science, which was considered taboo in 
+the academic world at the time. He had difficulty financing his early projects and relic 
+excavations since few people were willing to fund his research.
+
+Doctor Varmundt finally procured funding for research when he met representatives from 
+a corporation named XXX (Reference 1). The corporation recognized his talents and 
+promised to finance all of his projects providing that he share his discoveries with them. 
+Their partnership proved profitable to both parties: Doctor Varmundt made tremendous 
+progress in his studies of ancient relics and science, and this knowledge was used to 
+develop advanced technology for use by the corporation.
+ 
+The doctor was a genius in many fields and was also prolific in literature, art, and music. 
+He was almost fanatically devoted to pursuing his studies and his art and accomplishing 
+his lifetime goals: he wanted to recreate the ancient technology he had uncovered in 
+his excavations, and compile his life's research before he died. To these ends, he spent 
+much of his life secluded in his mansion, which is rumored to have been filled with 
+working reproductions of the ancient robots he discovered. Doctor Varmundt's home was 
+also filled with his countless paintings, but all of his possessions were destroyed 
+when his mansion was illegally occupied, plundered, and then burned down by mercenaries 
+in the Mercenary Rebellion (Reference 2). 
+
+The cause of Doctor Varmundt's death has never been determined because of his seclusion. 
+It is widely assumed that he passed away because his female pupil, the one person from 
+the outside world that communicated with him, suddenly disappeared. Doctor Varmundt's 
+mansion and a research center were also seemingly abandoned for a few years until they were 
+occupied by rebel mercenaries in the Mercenary Rebellion in an effort to defend themselves 
+from the Republic Army. The mercenaries were able to hold off the Republic Forces 
+in the mansion stronghold for two months, but they were eventually overcome 
+by sheer numbers. The Republic Army used excessive force, did not leave any survivors, 
+and laid waste to all of Doctor Varmundt's remarkable achievements. All that remains of 
+Doctor Varmundt are a few of his letters and some of his written theoretical papers about 
+ancient science.
+
+Reference 1) Schwartzvald's biggest corporation studied, developed, and manufactured 
+                      Guardians
+Reference 2) Rebellion of mercenary soldiers in A.W. 781 that felt threatened by 
+                      mechanical Guardians, and terrorized the republic for a year. 
+                      The rebellion resulted in the prime minister and his secretaries 
+                      stepping down from power.
+Reference 3) Representative creature: Monster Alice

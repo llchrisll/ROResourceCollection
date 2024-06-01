@@ -585,6 +585,14 @@ harboro1 = {
 , 
 {name = "商店", X = 312, Y = 193, TYPE = 0}
 }
+, 
+icecastle = {
+{name = "貝俊德研究室", X = 186, Y = 222, TYPE = 0}
+, 
+{name = "導覽員", X = 59, Y = 123, TYPE = 4}
+, 
+{name = "冰羽民宿", X = 64, Y = 224, TYPE = 5}
+}
 }
 main = function()
   -- function num : 0_0

@@ -54,6 +54,8 @@ worldtable_main = {
 , 
 {5, "abyss_03.rsw", 945, 10, 1024, 44, WORLD_MSGID.MSI_5_ABYSS_03, "130"}
 , 
+{5, "abyss_04.rsw", 945, 10, 1024, 44, WORLD_MSGID.MSI_5_ABYSS_04, "130"}
+, 
 {6, "juperos_01.rsw", 984, 48, 1045, 82, WORLD_MSGID.MSI_6_JUPEROS_01, "110"}
 , 
 {6, "juperos_02.rsw", 984, 48, 1045, 82, WORLD_MSGID.MSI_6_JUPEROS_02, "110"}
@@ -91,6 +93,8 @@ worldtable_main = {
 {9, "ein_dun01.rsw", 579, 360, 645, 394, WORLD_MSGID.MSI_9_EIN_DUN01, "90"}
 , 
 {9, "ein_dun02.rsw", 579, 360, 645, 394, WORLD_MSGID.MSI_9_EIN_DUN02, "100"}
+, 
+{9, "ein_dun03.rsw", 579, 360, 645, 394, WORLD_MSGID.MSI_9_EIN_DUN03, "100"}
 , 
 {10, "mjo_dun01.rsw", 495, 413, 560, 447, WORLD_MSGID.MSI_10_MJO_DUN01, "40"}
 , 
@@ -148,7 +152,13 @@ worldtable_main = {
 , 
 {14, "gef_dun02.rsw", 328, 579, 392, 613, WORLD_MSGID.MSI_14_GEF_DUN02, "90"}
 , 
-{15, "gef_dun03.rsw", 410, 649, 500, 683, WORLD_MSGID.MSI_15_GEF_DUN03, "120"}
+{15, "gefenia01.rsw", 410, 649, 500, 683, WORLD_MSGID.MSI_15_GEFENIA01, "120"}
+, 
+{15, "gefenia02.rsw", 410, 649, 500, 683, WORLD_MSGID.MSI_15_GEFENIA02, "120"}
+, 
+{15, "gefenia03.rsw", 410, 649, 500, 683, WORLD_MSGID.MSI_15_GEFENIA03, "120"}
+, 
+{15, "gefenia04.rsw", 410, 649, 500, 683, WORLD_MSGID.MSI_15_GEFENIA04, "120"}
 , 
 {16, "niflheim.rsw", 190, 661, 280, 695, WORLD_MSGID.MSI_16_NIFLHEIM, "100"}
 , 
@@ -248,12 +258,6 @@ worldtable_main = {
 , 
 {43, "mal_dun01.rsw", 1144, 512, 1234, 548, WORLD_MSGID.MSI_43_MAL_DUN01, "90"}
 , 
-{45, "odin_past.rsw", 1146, 109, 1236, 145, WORLD_MSGID.MSI_45_ODIN_PAST, "180"}
-, 
-{46, "oz_dun01.rsw", 53, 232, 130, 268, WORLD_MSGID.MSI_46_OZ_DUN01, "170"}
-, 
-{46, "oz_dun02.rsw", 53, 232, 130, 268, WORLD_MSGID.MSI_46_OZ_DUN02, "200"}
-, 
 {100, "hugel.rsw", 871, 0, 927, 57, WORLD_MSGID.MSI_100_HUGEL, ""}
 , 
 {100, "hu_fild01.rsw", 695, 0, 752, 57, WORLD_MSGID.MSI_100_HU_FILD01, "90"}
@@ -298,10 +302,6 @@ worldtable_main = {
 , 
 {101, "ra_fild12.rsw", 283, 292, 341, 351, WORLD_MSGID.MSI_101_RA_FILD12, "95"}
 , 
-{101, "gw_fild01.rsw", 50, 292, 106, 351, WORLD_MSGID.MSI_101_GW_FILD01, "170"}
-, 
-{105, "gw_fild02.rsw", 50, 352, 106, 409, WORLD_MSGID.MSI_101_GW_FILD02, "170"}
-, 
 {102, "ra_fild06.rsw", 401, 174, 459, 234, WORLD_MSGID.MSI_102_RA_FILD06, "108"}
 , 
 {102, "lighthalzen.rsw", 401, 292, 459, 346, WORLD_MSGID.MSI_102_LIGHTHALZEN, ""}
@@ -312,7 +312,7 @@ worldtable_main = {
 , 
 {102, "lhz_fild03.rsw", 460, 292, 517, 351, WORLD_MSGID.MSI_102_LHZ_FILD03, "92"}
 , 
-{102, "ein_fild03.rsw", 460, 174, 517, 234, WORLD_MSGID.MSI_102_EIN_FILD03, "81"}
+{102, "ein_fild03.rsw", 460, 174, 517, 234, WORLD_MSGID.MSI_102_EIN_FILD03, "91"}
 , 
 {102, "ein_fild04.rsw", 518, 174, 575, 234, WORLD_MSGID.MSI_102_EIN_FILD04, "87"}
 , 
@@ -539,12 +539,6 @@ worldtable_main = {
 {111, "tur_dun01.rsw", 1164, 975, 1191, 1004, WORLD_MSGID.MSI_111_TUR_DUN01, "88"}
 , 
 {112, "malangdo.rsw", 1158, 587, 1216, 642, WORLD_MSGID.MSI_112_MALANGDO, ""}
-, 
-{5, "abyss_04.rsw", 945, 10, 1024, 44, WORLD_MSGID.MSI_5_ABYSS_04, "130"}
-, 
-{9, "ein_dun03.rsw", 579, 360, 645, 394, WORLD_MSGID.MSI_9_EIN_DUN03, "100"}
-, 
-{45, "odin_past.rsw", 1146, 109, 1236, 145, WORLD_MSGID.MSI_45_ODIN_PAST, "180"}
 }
 worldtable_main_Dun = {
 {1, 725, 17, 745, 37, WORLD_MSGID.MSI_DUN1, "110~130"}
@@ -575,7 +569,7 @@ worldtable_main_Dun = {
 , 
 {14, 607, 554, 627, 574, WORLD_MSGID.MSI_DUN14, "60~70"}
 , 
-{15, 606, 568, 626, 588, WORLD_MSGID.MSI_DUN15, "120~130"}
+{15, 606, 568, 626, 588, WORLD_MSGID.MSI_DUN15, "110~130"}
 , 
 {16, 322, 668, 342, 688, WORLD_MSGID.MSI_DUN16, "100~110"}
 , 
@@ -775,8 +769,18 @@ worldtable_Crack_of_Dimension1 = {
 {100, "dali02.rsw", 525, 771, 685, 927, WORLD_MSGID.MSI_100_DALI02, ""}
 }
 worldtable_Crack_of_Dimension1_Dun = {}
-worldtable_north = {}
-worldtable_north_Dun = {}
+worldtable_north = {
+{1, "xmas_dun01.rsw", 873, 872, 1000, 906, WORLD_MSGID.MSI_1_XMAS_DUN01, "35"}
+, 
+{1, "xmas_dun02.rsw", 873, 872, 1000, 906, WORLD_MSGID.MSI_1_XMAS_DUN02, "40"}
+, 
+{100, "xmas_fild01.rsw", 795, 963, 854, 1018, WORLD_MSGID.MSI_100_XMAS_FILD01, "37"}
+, 
+{100, "xmas.rsw", 795, 904, 854, 963, WORLD_MSGID.MSI_100_XMAS, ""}
+}
+worldtable_north_Dun = {
+{1, 818, 909, 838, 929, WORLD_MSGID.MSI_DUN44, "35~40"}
+}
 worldtable_Doram = {
 {1, "lasa_dun01.rsw", 971, 728, 1076, 762, WORLD_MSGID.MSI_1_LASA_DUN01, "15"}
 , 

@@ -26935,6 +26935,10 @@ Description = {"擊殺^4d4dff小胖蜜糖波利^000000後，收集^4d4dff熟成可可豆^000000 1
 Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
 , Summary = ""}
 , 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[12月的晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV50以上的魚貝型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
 , Summary = ""}
@@ -30231,6 +30235,10 @@ Description = {"找到了躲起來的寵物後，和寵物一起去找<NAVI>[賽勒]<INFO>yuno,150,1
 Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
 , Summary = ""}
 , 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[12月的晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV50以上的魚貝型怪100隻", "後，去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
 , Summary = ""}
@@ -30740,34 +30748,34 @@ Description = {"該任務為每日任務，可於重置時間過後再次承接執行，可透過伊甸園高級
 , Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [293384] = {Title = "血的教訓", IconName = "ico_ev.bmp", 
-Description = {"聽說正在準備ROS大賽，但補給品不足，將5個<ITEM>[沾血硬幣]<INFO>7642</INFO></ITEM>送給ROS補給官!"}
+Description = {"補給品不足，請將5個<ITEM>[沾血硬幣]<INFO>7642</INFO></ITEM>送給凱薩補給官!"}
 , Summary = "沾血硬幣5個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
 , 
 [293385] = {Title = "魔法殘片", IconName = "ico_ev.bmp", 
-Description = {"聽說正在準備ROS大賽，但補給品不足，將5個<ITEM>[吉芬魔法大賽硬幣]<INFO>6671</INFO></ITEM>送給ROS補給官!"}
+Description = {"補給品不足，請將5個<ITEM>[吉芬魔法大賽硬幣]<INFO>6671</INFO></ITEM>送給凱薩補給官!"}
 , Summary = "吉芬魔法大賽硬幣5個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
 , 
 [293386] = {Title = "基勘特斯的低語", IconName = "ico_ev.bmp", 
-Description = {"聽說正在準備ROS大賽，但補給品不足，將1個<ITEM>[基勘特斯的碎片]<INFO>6803</INFO></ITEM>送給ROS補給官!"}
+Description = {"補給品不足，請將1個<ITEM>[基勘特斯的碎片]<INFO>6803</INFO></ITEM>送給凱薩補給官!"}
 , Summary = "基勘特斯的碎片1個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
 , 
 [293387] = {Title = "凝結的物質", IconName = "ico_ev.bmp", 
-Description = {"聽說正在準備ROS大賽，但補給品不足，將10個<ITEM>[凝結的魔力]<INFO>6608</INFO></ITEM>送給ROS補給官!"}
+Description = {"補給品不足，請將10個<ITEM>[凝結的魔力]<INFO>6608</INFO></ITEM>送給凱薩補給官!"}
 , Summary = "凝結的魔力10個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
 , 
 [293388] = {Title = "死者甦醒", IconName = "ico_ev.bmp", 
-Description = {"聽說正在準備ROS大賽，但補給品不足，將3個<ITEM>[天地樹葉子]<INFO>610</INFO></ITEM>送給ROS補給官!"}
+Description = {"補給品不足，請將3個<ITEM>[天地樹葉子]<INFO>610</INFO></ITEM>送給凱薩補給官!"}
 , Summary = "天地樹葉子3個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
 , 
 [293389] = {Title = "魔力泉源", IconName = "ico_ev.bmp", 
-Description = {"聽說正在準備ROS大賽，但補給品不足，將5個<ITEM>[超時空魔力]<INFO>25866</INFO></ITEM>送給ROS補給官!"}
+Description = {"補給品不足，請將5個<ITEM>[超時空魔力]<INFO>25866</INFO></ITEM>送給凱薩補給官!"}
 , Summary = "超時空魔力5個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
 , 
 [293390] = {Title = "科技零件", IconName = "ico_ev.bmp", 
-Description = {"聽說正在準備ROS大賽，但補給品不足，將10個<ITEM>[生物研究零件]<INFO>25787</INFO></ITEM>送給ROS補給官!"}
+Description = {"補給品不足，請將10個<ITEM>[生物研究零件]<INFO>25787</INFO></ITEM>送給凱薩補給官!"}
 , Summary = "生物研究零件10個", NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
 , 
-[293391] = {Title = "ROS補給品支援-等候", IconName = "ico_ev.bmp", 
+[293391] = {Title = "凱薩補給品支援-等候", IconName = "ico_ev.bmp", 
 Description = {"該任務為每日任務，重置時間過後可再次承接。"}
 , Summary = "凌晨4點重置", CoolTimeQuest = 1, NpcSpr = "4_M_ZONDAOYAJI", NpcNavi = "rachel", NpcPosX = 132, NpcPosY = 117}
 , 
@@ -30990,6 +30998,10 @@ Description = {"今年的湯麵節又吸引了許多觀眾前來參與，與其他<NAVI>[觀眾]<INFO>la
 [19066] = {Title = "調查官晁白溪的隱情", IconName = "ico_ev.bmp", 
 Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
 , Summary = ""}
+, 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[12月的晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
 , 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV50以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
@@ -31939,6 +31951,10 @@ Description = {"與卑金屬收集家對話"}
 Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
 , Summary = ""}
 , 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[12月的晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
 [19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
 Description = {"擊殺LV50以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
 , Summary = ""}
@@ -32230,74 +32246,6 @@ Description = {"擊殺Lv220以上的魔物250隻"}
 [293419] = {Title = "P助的謝禮-等待", IconName = "ico_ev.bmp", 
 Description = {"該任務為每日任務，冷卻時間後才可再次接取每日任務。"}
 , Summary = "凌晨4點重置", CoolTimeQuest = 1}
-, 
-[17738] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"跟隨嫌疑人在艾爾帕蘭留下的<NAVI>[蹤跡]<INFO>aldebaran,143,177,0,101,0</INFO></NAVI>。"}
-, Summary = "找尋蹤跡"}
-, 
-[17739] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"跟隨嫌疑人在艾爾帕蘭留下的<NAVI>[蹤跡]<INFO>aldebaran,137,238,0,101,0</INFO></NAVI>。"}
-, Summary = "找尋蹤跡"}
-, 
-[17740] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"追查嫌疑人的<NAVI>[蹤跡]<INFO>yuno_fild01,222,48,0,101,0</INFO></NAVI>，一直到國界檢查站。"}
-, Summary = "尋找蹤跡"}
-, 
-[17741] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"在國界檢查站附近，跟隨嫌疑人留下的<NAVI>[蹤跡]<INFO>yuno_fild01,260,89,0,101,0</INFO></NAVI>。"}
-, Summary = "尋找蹤跡"}
-, 
-[17742] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"在國界檢查站附近，嫌疑人留下的<NAVI>[蹤跡]<INFO>yuno_fild01,250,140,0,101,0</INFO></NAVI>變得更加清晰，看來就在附近？！"}
-, Summary = "找尋蹤跡"}
-, 
-[17743] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"帶著迷路的小狗回到艾爾帕蘭的<NAVI>[會場]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
-, Summary = "前往會場"}
-, 
-[17744] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"需要5個晶瑩白雪來製作小狗雪人，前往<NAVI>[薑餅城]<INFO>xmas_fild01,128,123,0,101,0</INFO></NAVI>。"}
-, Summary = "晶瑩白雪"}
-, 
-[17745] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"已獲得1個晶瑩白雪，前往下一個<NAVI>[地點]<INFO>xmas_fild01,141,166,0,101,0</INFO></NAVI>。"}
-, Summary = "晶瑩白雪"}
-, 
-[17746] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"晶瑩白雪已足夠，前往另一個<NAVI>[地方]<INFO>xmas_fild01,169,214,0,101,0</INFO></NAVI>看看。"}
-, Summary = "晶瑩白雪"}
-, 
-[17747] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"努力堆雪人總算有了回報，尋找其他 <NAVI>[晶瑩白雪]<INFO>xmas_fild01,59,219,0,101,0</INFO></NAVI>。"}
-, Summary = "晶瑩白雪"}
-, 
-[17748] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"現在只剩最後一個了！尋找有<NAVI>[晶瑩白雪]<INFO>xmas_fild01,119,52,0,101,0</INFO></NAVI>的地方。"}
-, Summary = "晶瑩白雪"}
-, 
-[17749] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"已獲得所有晶瑩白雪，帶著1個肉回去找<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
-, Summary = "肉 1"}
-, 
-[17750] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"已獲得所有晶瑩白雪，帶著1個肉回去找<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
-, Summary = "肉 1"}
-, 
-[17751] = {Title = "等待: 冬季雪花節", IconName = "ico_ev.bmp", 
-Description = {"等凌晨過後再來幫助<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
-, Summary = "凌晨四點重置", CoolTimeQuest = 1}
-, 
-[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
-Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他三個<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[12月的晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
-, Summary = "凌晨四點重置", CoolTimeQuest = 1}
-, 
-[293426] = {Title = "GUNGUN的試煉", IconName = "ico_ev.bmp", 
-Description = {"GUNGUN的試煉，要擊殺1000隻Lv100以上的怪物，完成後，將能獲得可觀的經驗值，單獨完成難度較高，建議組隊挑戰。"}
-, Summary = "擊殺Lv100以上怪物1000隻"}
-, 
-[293427] = {Title = "GUNGUN的試煉 – 等待", IconName = "ico_ev.bmp", 
-Description = {"此為每日任務，冷卻時間過後可再承接任務。"}
-, Summary = "凌晨四點重置"}
 , 
 [8806] = {Title = "種植一株植物", 
 Description = {"如何在短短的六秒鐘裡完成呢，完成幻想叢書植物實務一次後打勾。"}
@@ -32950,5 +32898,1663 @@ Description = {"告訴1樓的斯瀑拉齊體驗結束了。"}
 [23085] = {Title = "結束體驗", IconName = "ico_vr.bmp", 
 Description = {"所有體驗結束了，和印克對話領取紀念品吧。"}
 , Summary = "與印克對話"}
+, 
+[3446] = {Title = "幻影調查團齊魯克", 
+Description = {"與幻影調查團齊魯克對話。"}
+, Summary = "與齊魯克對話"}
+, 
+[3447] = {Title = "擊殺月光幻影100隻", IconName = "ico_dq.bmp", 
+Description = {"在月光幻影中隨意擊殺100隻魔物。"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3448] = {Title = "擊殺月光幻影100隻 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，等待時間結束後可再次領取並執行。 可透過<NAVI>[齊魯克]<INFO>pay_d03_i,149,34,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置"}
+, 
+[3449] = {Title = "幻影調查團愛麗希雅", 
+Description = {"與幻影調查團愛麗希雅對話。"}
+, Summary = "與愛麗希雅對話"}
+, 
+[3450] = {Title = "擊殺極凍幻影100隻", IconName = "ico_dq.bmp", 
+Description = {"在極凍幻影隨意擊殺100隻魔物。"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3451] = {Title = "擊殺極凍幻影100隻 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，等待時間結束後可再次領取並執行。 可透過<NAVI>[愛麗希雅]<INFO>ice_dun02,142,18,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置"}
+, 
+[3452] = {Title = "幻影調查團拉迪米爾", 
+Description = {"與幻影調查團拉迪米爾對話。"}
+, Summary = "與拉迪米爾對話"}
+, 
+[3453] = {Title = "擊殺吸血鬼幻影100隻", IconName = "ico_dq.bmp", 
+Description = {"在第250頁隨意擊殺100隻魔物。"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3454] = {Title = "擊殺吸血鬼幻影100隻 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，等待時間結束後可再次領取並執行。 可透過<NAVI>[拉迪米爾]<INFO>gef_d01_i,122,237,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置"}
+, 
+[3455] = {Title = "幻影調查團瑪喬珂", 
+Description = {"與幻影調查團瑪喬珂對話。"}
+, Summary = "與瑪喬珂對話"}
+, 
+[3456] = {Title = "擊殺幻影泰迪熊100隻", IconName = "ico_dq.bmp", 
+Description = {"在幻影泰迪熊隨意擊殺100隻魔物。"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3457] = {Title = "擊殺幻影泰迪熊100隻 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，等待時間結束後可再次領取並執行。 可透過<NAVI>[瑪喬珂]<INFO>ein_d02_i,161,180,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置"}
+, 
+[3458] = {Title = "幻影調查團奧里安", 
+Description = {"與幻影調查團奧里安對話。"}
+, Summary = "與奧里安對話"}
+, 
+[3459] = {Title = "擊殺舊良宮幻影100隻", IconName = "ico_dq.bmp", 
+Description = {"在淒涼舊良宮隨意擊殺100隻魔物。", "^FF0000任務指定地圖只限原分流^000000"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3460] = {Title = "擊殺舊良宮幻影100隻 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，等待時間結束後可再次領取並執行。 可透過<NAVI>[奧里安]<INFO>tur_d03_i,125,86,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置"}
+, 
+[3461] = {Title = "幻影調查團凱西斯", 
+Description = {"與幻影調查團凱西斯對話。"}
+, Summary = "與凱西斯對話"}
+, 
+[3462] = {Title = "擊殺盧安達幻影100隻", IconName = "ico_dq.bmp", 
+Description = {"在盧安達幻影隨意擊殺100隻魔物。"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3463] = {Title = "擊殺盧安達幻影100隻 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，等待時間結束後可再次領取並執行。 可透過<NAVI>[凱西斯]<INFO>com_d02_i,253,232,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置"}
+, 
+[3464] = {Title = "幻影調查團泰瑞安", 
+Description = {"與幻影調查團泰瑞安對話。"}
+, Summary = "與泰瑞安對話"}
+, 
+[3465] = {Title = "擊殺迷宮幻影100隻", IconName = "ico_dq.bmp", 
+Description = {"在迷宮幻影隨意擊殺100隻魔物。"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3466] = {Title = "擊殺迷宮幻影100隻 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，等待時間結束後可再次領取並執行。 可透過<NAVI>[泰瑞安]<INFO>prt_fild01,131,364,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置"}
+, 
+[3467] = {Title = "幻影調查團莉絲塔", 
+Description = {"與幻影調查團莉絲塔對話。"}
+, Summary = "與莉絲塔對話"}
+, 
+[3468] = {Title = "擊殺幻影海底洞穴100隻", IconName = "ico_dq.bmp", 
+Description = {"在深淵海底洞穴下層樓隨意擊殺100隻魔物。"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3469] = {Title = "擊殺幻影海底洞穴100隻 - 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，等待時間結束後可再次領取並執行。 可透過<NAVI>[莉絲塔]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置"}
+, 
+[3470] = {Title = "加入幻影調查團", 
+Description = {"透過調查團長喬爾加入調查團吧。"}
+, Summary = "與喬爾對話"}
+, 
+[17382] = {Title = "製作雪花花束", IconName = "ico_ev.bmp", 
+Description = {"[你想製作雪花花束嗎?那請你收集<ITEM>[魔力雪花]<INFO>25425</INFO></ITEM>10個後再過來<NAVI>[這裡]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>吧!"}
+, Summary = "魔力雪花10個"}
+, 
+[17383] = {Title = "製作雪花花束", IconName = "ico_ev.bmp", 
+Description = {"雪花花束製作活動會由<NAVI>[夢幻雪花魔術師]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>負責，有興趣的人可以去找他。"}
+, Summary = "去找夢幻雪花魔術師"}
+, 
+[17384] = {Title = "溫暖的過冬", IconName = "ico_ev.bmp", 
+Description = {"請在不下雪的地方賜雪、寒冷的地區賜保暖的棉花吧!如果想幫他們就去找<NAVI>[柯蒂]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>或沃習吧!"}
+, Summary = "去找柯蒂"}
+, 
+[17385] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"你在邪惡禮盒中找到卡片是嗎?那就交給<NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>和小玲吧!可以換成特別的精美禮物喔!"}
+, Summary = "去找小溫"}
+, 
+[17386] = {Title = "和觀光客分享快樂", IconName = "ico_ev.bmp", 
+Description = {"和來到雪花節的<NAVI>[觀光客]<INFO>aldebaran,162,127,0,101,0</INFO></NAVI>一起開心享受雪花節的歡樂氣氛吧!"}
+, Summary = "前往鐘塔附近"}
+, 
+[17387] = {Title = "製作雪花花束", IconName = "ico_ev.bmp", 
+Description = {"作雪花花束需要<ITEM>[魔力雪花]<INFO>25425</INFO></ITEM>10個，還有裝飾雪人鼻上的<ITEM>[紅蘿蔔]<INFO>515</INFO></ITEM>1個，不要忘了喔! - <NAVI>[麥霖]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "魔力雪花10個、紅蘿蔔1個"}
+, 
+[17388] = {Title = "等候: 冷卻時間", IconName = "ico_ev.bmp", 
+Description = {"目前尚餘留魔力雪花的效果，請凌晨過後再來吧! - <NAVI>[麥霖]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17389] = {Title = "溫暖的過冬", IconName = "ico_ev.bmp", 
+Description = {"請在不下雪的地方賜雪、寒冷的地區賜保暖的棉花吧!請給<NAVI>[我們]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI><ITEM>[保暖棉花]<INFO>25426</INFO></ITEM>10個吧!"}
+, Summary = "保暖棉花10個"}
+, 
+[17390] = {Title = "等候: 打包棉花中", IconName = "ico_ev.bmp", 
+Description = {"正在打包棉花中，請凌晨過後再來吧! - <NAVI>[柯蒂]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17391] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"冒險家的幸運集字是DECEMBER!!從邪惡禮盒身上取得雪花節卡片信封後打開，再收集D.E.C.E.M.B.E.R字卡回來即可，共有8張。 - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "收集DECEMBER字卡"}
+, 
+[17392] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"冒險家的幸運集字是SNOW!!從邪惡禮盒身上取得雪花節卡片信封後打開，再收集S. N. O. W. 字卡回來即可，共有4張。 - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "收集SNOW字卡"}
+, 
+[17393] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"冒險家的幸運集字是FESTIVAL!!從邪惡禮盒身上取得雪花節卡片信封後打開，再收集F. E. S. T. I. V. A. L.字卡回來即可，共有8張。 - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "收集FESTIVAL字卡"}
+, 
+[17394] = {Title = "兌換雪花節卡片", IconName = "ico_ev.bmp", 
+Description = {"冒險家的幸運集字是WHITE!!從邪惡禮盒身上取得雪花節卡片信封後打開，再收集W.H.I.T.E字卡回來即可，共有5張。 - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "收集WHITE字卡"}
+, 
+[17395] = {Title = "等候: 字卡兌換限1天1次", IconName = "ico_ev.bmp", 
+Description = {"字卡兌換限1天1次，請凌晨過後再來吧! - <NAVI>[小溫]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17396] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"哄哄在哭鬧的<NAVI>[閃閃]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>吧!"}
+, Summary = "和閃閃對話"}
+, 
+[17397] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"地瓜3個、牛奶3個、雪花節字卡L.O.V.E各帶來一張! - <NAVI>[閃閃]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"}
+, Summary = "準備愛心冬季零食"}
+, 
+[17398] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"走!把愛心零食拿給<NAVI>[暴徒]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>們!"}
+, Summary = "給暴徒愛心零食1"}
+, 
+[17399] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"給把愛心零食拿給下一位 <NAVI>[暴徒]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>!"}
+, Summary = "給暴徒愛心零食2"}
+, 
+[17400] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"給把愛心零食拿給最後一位<NAVI>[暴徒]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>!"}
+, Summary = "給暴徒愛心零食3"}
+, 
+[17401] = {Title = "時間暫停", IconName = "ico_ev.bmp", 
+Description = {"再次前往鐘塔附近阻止<NAVI>[暴徒]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>隊長的計畫!"}
+, Summary = "鐘塔附近"}
+, 
+[17402] = {Title = "渴望關心", IconName = "ico_ev.bmp", 
+Description = {"我以為暴徒們也會喜歡冬季零食，請帶來3個地瓜、5個禮盒和3個雪花卡片信封! - <NAVI>[閃閃]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"}
+, Summary = "為了暴徒們的禮物"}
+, 
+[17403] = {Title = "等候: 渴望關心", IconName = "ico_ev.bmp", 
+Description = {"我就知道冬季零食和友誼小卡行得通，現在可以先休息了，請凌晨過後再來吧! - <NAVI>[閃閃]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17596] = {Title = "製作雪人比賽", IconName = "ico_ev.bmp", 
+Description = {"雖然是沒有下雪的雪花節，不過仍然要製作雪人乾過癮一下啊!前往製作雪人<NAVI>[比賽會場]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>吧!不知道大家會做哪一種雪人呢?"}
+, Summary = "前往比賽會場"}
+, 
+[17597] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"雪莉跑到中央<NAVI>[活動會場]<INFO>aldebaran,179,159,0,101,0</INFO></NAVI> 了，應該不難找到她。"}
+, Summary = "去找雪莉"}
+, 
+[17598] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"請轉告我一找到解決方法就會立刻去找<NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "去找柯隆"}
+, 
+[17599] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"重新製作雪人需要晶瑩白雪5個，可以去<NAVI>[薑餅城]<INFO>xmas_fild01,128,123,0,101,0</INFO></NAVI>收集。"}
+, Summary = "晶瑩白雪"}
+, 
+[17600] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"獲得晶瑩白雪一個，前往下一個<NAVI>[地點]<INFO>xmas_fild01,141,166,0,101,0</INFO></NAVI>吧!"}
+, Summary = "晶瑩白雪"}
+, 
+[17601] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"這些晶瑩白雪已足夠了，前往下一個<NAVI>[地方]<INFO>xmas_fild01,169,214,0,101,0</INFO></NAVI>吧!"}
+, Summary = "晶瑩白雪"}
+, 
+[17602] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"認真挖雪大有斬獲，再去找其他乾淨的<NAVI>[雪]<INFO>xmas_fild01,59,219,0,101,0</INFO></NAVI>吧!"}
+, Summary = "晶瑩白雪"}
+, 
+[17603] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"只要再找最後一個就好了，去找堆積乾淨的<NAVI>[雪]<INFO>xmas_fild01,119,52,0,101,0</INFO></NAVI>的地方吧!"}
+, Summary = "晶瑩白雪"}
+, 
+[17604] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"晶瑩白雪已全部取得，帶著魔力雪花10個去找<NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>吧!"}
+, Summary = "魔力雪花"}
+, 
+[17605] = {Title = "等候: 最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"終於可以製作雪人了，我需要再補強一下，請你凌晨過後再來吧! - <NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17606] = {Title = "最棒的雪人", IconName = "ico_ev.bmp", 
+Description = {"晶瑩白雪已全部取得，帶著魔力雪花10個去找<NAVI>[柯隆]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>吧!"}
+, Summary = "魔力雪花"}
+, 
+[17738] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"跟隨嫌疑人在艾爾帕蘭留下的<NAVI>[蹤跡]<INFO>aldebaran,143,177,0,101,0</INFO></NAVI>。"}
+, Summary = "找尋蹤跡"}
+, 
+[17739] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"跟隨嫌疑人在艾爾帕蘭留下的<NAVI>[蹤跡]<INFO>aldebaran,137,238,0,101,0</INFO></NAVI>。"}
+, Summary = "找尋蹤跡"}
+, 
+[17740] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"追查嫌疑人的<NAVI>[蹤跡]<INFO>yuno_fild01,222,48,0,101,0</INFO></NAVI>，一直到國界檢查站。"}
+, Summary = "尋找蹤跡"}
+, 
+[17741] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"在國界檢查站附近，跟隨嫌疑人留下的<NAVI>[蹤跡]<INFO>yuno_fild01,260,89,0,101,0</INFO></NAVI>。"}
+, Summary = "尋找蹤跡"}
+, 
+[17742] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"在國界檢查站附近，嫌疑人留下的<NAVI>[蹤跡]<INFO>yuno_fild01,250,140,0,101,0</INFO></NAVI>變得更加清晰，看來就在附近？！"}
+, Summary = "找尋蹤跡"}
+, 
+[17743] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"帶著迷路的小狗回到艾爾帕蘭的<NAVI>[會場]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "前往會場"}
+, 
+[17744] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"需要5個晶瑩白雪來製作小狗雪人，前往<NAVI>[薑餅城]<INFO>xmas_fild01,128,123,0,101,0</INFO></NAVI>。"}
+, Summary = "晶瑩白雪"}
+, 
+[17745] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"已獲得1個晶瑩白雪，前往下一個<NAVI>[地點]<INFO>xmas_fild01,141,166,0,101,0</INFO></NAVI>。"}
+, Summary = "晶瑩白雪"}
+, 
+[17746] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"晶瑩白雪已足夠，前往另一個<NAVI>[地方]<INFO>xmas_fild01,169,214,0,101,0</INFO></NAVI>看看。"}
+, Summary = "晶瑩白雪"}
+, 
+[17747] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"努力堆雪人總算有了回報，尋找其他 <NAVI>[晶瑩白雪]<INFO>xmas_fild01,59,219,0,101,0</INFO></NAVI>。"}
+, Summary = "晶瑩白雪"}
+, 
+[17748] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"現在只剩最後一個了！尋找有<NAVI>[晶瑩白雪]<INFO>xmas_fild01,119,52,0,101,0</INFO></NAVI>的地方。"}
+, Summary = "晶瑩白雪"}
+, 
+[17749] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"已獲得所有晶瑩白雪，帶著1個肉回去找<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "肉 1"}
+, 
+[17750] = {Title = "冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"已獲得所有晶瑩白雪，帶著1個肉回去找<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "肉 1"}
+, 
+[17751] = {Title = "等待: 冬季雪花節", IconName = "ico_ev.bmp", 
+Description = {"等凌晨過後再來幫助<NAVI>[卡米爾]<INFO>aldebaran,122,112,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19066] = {Title = "調查官晁白溪的隱情", IconName = "ico_ev.bmp", 
+Description = {"聽取了調查官晁白溪的隱情，", "現在開始可以執行來自", "朱諾魔物學會提供的委託。"}
+, Summary = ""}
+, 
+[19067] = {Title = "[等候]晁白溪的委託", IconName = "ico_dq.bmp", 
+Description = {"晁白溪的委託基本上每天只能執行", "一次，但給他三個<ITEM>[獼猴桃果實]<INFO>6417</INFO></ITEM>的話，", "或許會不一定呢?", "回去找晁白溪吧!", "　", "<NAVI>[12月的晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[19068] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19069] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19070] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19071] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的魚貝型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>malangdo,209,151,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19072] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19073] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19074] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19075] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的小型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,163,92,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19076] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19077] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19078] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19079] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的無型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>yuno,180,145,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19080] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19081] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19082] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19083] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的地屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,170,288,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19084] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19085] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19086] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19087] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的大型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>geffen,74,42,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19088] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19089] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19090] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19091] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的火屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>comodo,248,128,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19092] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19093] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19094] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19095] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的念屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>lasagna,87,206,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19096] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19097] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19098] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19099] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的中型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prontera,149,305,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19100] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19101] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19102] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19103] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的植物型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>alberta,131,174,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19104] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19105] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19106] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19107] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的惡魔型怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>niflheim,198,238,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19108] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19109] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19110] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19111] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19112] = {Title = "晁白溪的委託Lv1", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV50以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19113] = {Title = "晁白溪的委託Lv2", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV100以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19114] = {Title = "晁白溪的委託Lv3", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV150以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[19115] = {Title = "晁白溪的委託Lv4", IconName = "ico_ev.bmp", 
+Description = {"擊殺LV200以上的水屬性怪100隻後，", "去找<NAVI>[調查官晁白溪]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>領取獎勵吧!"}
+, Summary = ""}
+, 
+[293426] = {Title = "GUNGUN的試煉", IconName = "ico_ev.bmp", 
+Description = {"GUNGUN的試煉，要擊殺1000隻Lv100以上的怪物，完成後，將能獲得可觀的經驗值，單獨完成難度較高，建議組隊挑戰。"}
+, Summary = "擊殺Lv100以上怪物1000隻"}
+, 
+[293427] = {Title = "GUNGUN的試煉 – 等待", IconName = "ico_ev.bmp", 
+Description = {"此為每日任務，冷卻時間過後可再承接任務。"}
+, Summary = "凌晨四點重置"}
+, 
+[5972] = {Title = "白鷹巡邏隊", IconName = "ico_ep.bmp", 
+Description = {"已加入白鷹巡邏隊。", "準備好出發的話，就去找<NAVI>[巡邏隊長]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>吧。"}
+, Summary = ""}
+, 
+[5973] = {Title = "[等待]與白鷹一起巡邏", IconName = "ico_dq.bmp", 
+Description = {"與白鷹巡邏隊一起", "完成冰鱗山丘的巡邏。", "如果明天想再參加巡邏，就去找<NAVI>[巡邏隊長]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>吧。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[5974] = {Title = "與白鷹一起巡邏(1)", IconName = "ico_dq.bmp", 
+Description = {"和白鷹巡邏隊一起前往冰鱗山丘巡邏。"}
+, Summary = ""}
+, 
+[5975] = {Title = "與白鷹一起巡邏(2)", IconName = "ico_dq.bmp", 
+Description = {"和白鷹巡邏隊一起完成", "冰鱗山丘的巡邏，再去找巡邏隊長領取獎勵。"}
+, Summary = ""}
+, 
+[5976] = {Title = "補給官戈爾", IconName = "ico_nq.bmp", 
+Description = {"見了補給官戈爾後，收到了一個請求。"}
+, Summary = ""}
+, 
+[5977] = {Title = "[等待]請勿餵食", IconName = "ico_dq.bmp", 
+Description = {"應補給官之託，", "已經有人把給野生動物的食物收回了，", "不會太難，獎勵也不錯", "明天再去找<NAVI>[補給官戈爾]<INFO>icecastle,97,177,0,101,0</INFO></NAVI>吧。", "-", "※ 若在記憶迷宮內進行可能找不到路。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[5978] = {Title = "請勿餵食(1)", IconName = "ico_dq.bmp", 
+Description = {"受到補給官戈爾的請求，", "和白鷹巡邏隊一起巡邏，", "有時間的話，去<NAVI>[冰鱗山丘]<INFO>jor_back1,380,229,0,101,0</INFO></NAVI>收回野生動物的食物。"}
+, Summary = ""}
+, 
+[5979] = {Title = "請勿餵食(2)", IconName = "ico_dq.bmp", 
+Description = {"收回了遺留在戶外的野生動物的食物，", "現在去向<NAVI>[補給官戈爾]<INFO>icecastle,97,177,0,101,0</INFO></NAVI>報告吧。", "-", "※ 若在記憶迷宮內進行可能找不到路。"}
+, Summary = ""}
+, 
+[5980] = {Title = "隱秘的樂趣", IconName = "ico_nq.bmp", 
+Description = {"在白鷹巡邏隊的營地裡，遇見了一兵霍魯。"}
+, Summary = ""}
+, 
+[5981] = {Title = "[等待]隱秘的樂趣", IconName = "ico_dq.bmp", 
+Description = {"據說帶來的羽毛", "會被暗中更換為補給品，明天也", "秘密地交給<NAVI>[一兵霍魯魯]<INFO>icas_in,34,56,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[5982] = {Title = "隱秘的樂趣", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[一兵霍魯]<INFO>icas_in,34,56,0,101,0</INFO></NAVI>似乎需要", "一種溫暖的羽毛來抵擋寒冷，從以下", "選擇一種羽毛並帶來10個。", "-", "<ITEM>[輕盈羽毛]<INFO>6393</INFO></ITEM>", "<ITEM>[柔軟的羽毛]<INFO>7063</INFO></ITEM>", "<ITEM>[火焰羽毛]<INFO>6691</INFO></ITEM>", "<ITEM>[紅色羽毛]<INFO>7440</INFO></ITEM>", "<ITEM>[羽毛]<INFO>916</INFO></ITEM>", "<ITEM>[天堂鳥羽毛]<INFO>6405</INFO></ITEM>", "<ITEM>[七彩大嘴鳥之羽]<INFO>7101</INFO></ITEM>", "<ITEM>[藍色羽毛]<INFO>7441</INFO></ITEM>", "<ITEM>[哈比的羽毛]<INFO>7115</INFO></ITEM>"}
+, Summary = ""}
+, 
+[5983] = {Title = "實驗體210426遭遇", IconName = "ico_ep.bmp", 
+Description = {"在搜索過程中遇到了一名可疑的年輕人，但很快", "就消失了，他好像說他會去<NAVI>[冰鱗平原]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>，", "有時間的話去找找看吧。", "-", "※ 若在記憶迷宮內進行可能找不到路。"}
+, Summary = ""}
+, 
+[5984] = {Title = "蠕蟲變身卷軸", IconName = "ico_ep.bmp", 
+Description = {"在冰鱗平原上遇到的朋友日光", "好像能夠變換不同的外貌，帶著日光給的<ITEM>[蠕蟲變身卷軸]<INFO>101162</INFO></ITEM>", "前去<NAVI>[冰封之城]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>報告。"}
+, Summary = "前往冰封之城..."}
+, 
+[5985] = {Title = "[等待]日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"已經準備了<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>的飲食，明天有時間的話，再過來準備吧！"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1, NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5986] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要吃破碎的酒缸，帶來10個<ITEM>[破碎的酒缸]<INFO>7158</INFO></ITEM>吧。"}
+, Summary = "破碎的酒缸10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5987] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用片雲，帶來10個<ITEM>[片雲]<INFO>7162</INFO></ITEM>吧。"}
+, Summary = "片雲10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5988] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用竹籃，帶來10個<ITEM>[竹籃]<INFO>7299</INFO></ITEM>吧。"}
+, Summary = "竹籃10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5989] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用舞獅的假牙，帶來10個<ITEM>[舞獅的假牙]<INFO>7266</INFO></ITEM>吧。"}
+, Summary = "舞獅的假牙10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5990] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用亞卡祖母的杵棒，帶來10個<ITEM>[亞卡祖母的杵棒]<INFO>7762</INFO></ITEM>吧。"}
+, Summary = "亞卡祖母的杵棒10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5991] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用花豹外皮，帶來10個<ITEM>[花豹外皮]<INFO>7171</INFO></ITEM>吧。"}
+, Summary = "花豹外皮10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5992] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用天堂鳥羽毛，帶來10個<ITEM>[天堂鳥羽毛]<INFO>6405</INFO></ITEM>吧。"}
+, Summary = "天堂鳥羽毛10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5993] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用光澤傑勒比結晶，帶來10個<ITEM>[光澤傑勒比結晶]<INFO>6498</INFO></ITEM>吧。"}
+, Summary = "光澤傑勒比結晶10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5994] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用溝鼠尾巴，帶來10個<ITEM>[溝鼠尾巴]<INFO>25285</INFO></ITEM>吧。"}
+, Summary = "溝鼠尾巴10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[5995] = {Title = "日光的菜單選擇", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用竹筒，帶來10個<ITEM>[竹筒]<INFO>7150</INFO></ITEM>吧。"}
+, Summary = "竹筒10", NpcSpr = "4_EP19_LUNCH", NpcNavi = "jor_back2", NpcPosX = 250, NpcPosY = 30}
+, 
+[8784] = {Title = "莫拉拉的釣魚助手", IconName = "ico_ep.bmp", 
+Description = {"因為擅長釣海帶而受到認可，現在被指派獵捕閃亮海帶，擊殺20條海帶後，返回冰鱗盡頭的<NAVI>[莫拉拉]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI>。"}
+, Summary = "擊殺閃亮海帶"}
+, 
+[8785] = {Title = "莫拉拉的釣魚助手-等待", IconName = "ico_dq.bmp", 
+Description = {"此任務為每日任務，冷卻時間結束後可以再次向<NAVI>[莫拉拉]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8786] = {Title = "莫拉拉的釣魚助手", IconName = "ico_dq.bmp", 
+Description = {"在這種環境下沒有信心釣魚，所以擊殺20條閃亮海帶後，返回找冰鱗盡頭的<NAVI>[莫拉拉]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI>。"}
+, Summary = "擊殺閃亮海帶"}
+, 
+[8787] = {Title = "與佐拉拉的愉快午餐時光", IconName = "ico_ep.bmp", 
+Description = {"原以為會協助佐拉拉烹飪…結果卻被派去拿白鷹幼崽喜歡的冰蛇鰻外皮，將<ITEM>[薄而堅固的外皮]<INFO>1000830</INFO></ITEM>15個，交給在冰封之城餐廳的<NAVI>[佐拉拉]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>。"}
+, Summary = "取得薄而堅固的外皮15個"}
+, 
+[8788] = {Title = "與佐拉拉的愉快午餐時光-等待", IconName = "ico_dq.bmp", 
+Description = {"此任務為每日任務，冷卻時間結束後可以再次向<NAVI>[莫拉拉]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8789] = {Title = "與佐拉拉的愉快午餐時光", IconName = "ico_dq.bmp", 
+Description = {"將15個白鷹幼崽喜歡的<ITEM>[薄而堅固的外皮]<INFO>1000830</INFO></ITEM>交給冰之城餐廳的<NAVI>[佐拉拉]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>。"}
+, Summary = "取得薄而堅固的外皮15個"}
+, 
+[8790] = {Title = "神父，慈悲？", IconName = "ico_ep.bmp", 
+Description = {"在蛇穴的<NAVI>[帕布亞薩維岡德]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>請求從外面取得<ITEM>[殼]<INFO>1000822</INFO></ITEM>，大約需要30個。"}
+, Summary = "取得殼30個"}
+, 
+[8791] = {Title = "神父，慈悲？-等待", IconName = "ico_dq.bmp", 
+Description = {"此任務為每日任務，冷卻時間結束後可以再次向<NAVI>[帕布亞薩維岡德]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8792] = {Title = "神父，慈悲？?", IconName = "ico_dq.bmp", 
+Description = {"在蛇穴的<NAVI>[帕布亞薩維岡德]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>請求從外面取得<ITEM>[殼]<INFO>1000822</INFO></ITEM>，大約需要30個。"}
+, Summary = "取得殼30個"}
+, 
+[8793] = {Title = "好奇心", IconName = "ico_ep.bmp", 
+Description = {"在蛇穴的<NAVI>[德帕納岡德]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>要求與在孵化場工作的中級蠕蟲們，<NAVI>[聽話的孩子]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>、<NAVI>[懶惰的孩子]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>、<NAVI>[不聽話的孩子]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>聊聊。"}
+, Summary = "與中級蠕蟲對話"}
+, 
+[8794] = {Title = "年老的蛇", IconName = "ico_ep.bmp", 
+Description = {"在蛇穴的<NAVI>[阿雷岡德]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>要求帶來<ITEM>[蠕蟲的低級魔力核]<INFO>1000707</INFO></ITEM>15個。"}
+, Summary = "取得蠕蟲的低級魔力核"}
+, 
+[8795] = {Title = "教理與講解", IconName = "ico_ep.bmp", 
+Description = {"蛇穴中的貝爾納岡德講解結束後，<NAVI>[尤拉米岡德]<INFO>jor_nest,18,92,0,101,0</INFO></NAVI>召喚冒險家模樣的蠕蟲。"}
+, Summary = "與尤拉米岡德對話"}
+, 
+[8796] = {Title = "初次見面的傢伙們", IconName = "ico_ep.bmp", 
+Description = {"在蛇穴的<NAVI>[西德爾岡德]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>要求擊殺20隻原始蠕蟲。"}
+, Summary = "擊殺原始蠕蟲"}
+, 
+[8797] = {Title = "讓蠕蟲工作-等待", IconName = "ico_dq.bmp", 
+Description = {"此任務為每日任務，冷卻時間結束後可以再次向<NAVI>[西德爾岡德]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8798] = {Title = "讓蠕蟲工作", IconName = "ico_dq.bmp", 
+Description = {"頂級蠕蟲<NAVI>[西德爾岡德]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>要求擊殺20隻原始蠕蟲。"}
+, Summary = "擊殺原始蠕蟲"}
+, 
+[8799] = {Title = "孵化場的蠕蟲(1)", IconName = "ico_ep.bmp", 
+Description = {"和在蛇穴的<NAVI>[聽話的孩子]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>、<NAVI>[懶惰的孩子]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>、<NAVI>[不聽話的孩子]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>聊聊。"}
+, Summary = "和中級蠕蟲對話"}
+, 
+[8800] = {Title = "孵化場的蠕蟲(2)", IconName = "ico_ep.bmp", 
+Description = {"和在蛇穴的<NAVI>[聽話的孩子]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>、<NAVI>[懶惰的孩子]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>、<NAVI>[不聽話的孩子]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>聊聊。"}
+, Summary = "和中級蠕蟲對話"}
+, 
+[8801] = {Title = "孵化場的蠕蟲(3)", IconName = "ico_ep.bmp", 
+Description = {"蛇穴的<NAVI>[德帕納岡德]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>的請託已全數確認，再次和他對話。"}
+, Summary = "和德帕納岡德對話"}
+, 
+[8802] = {Title = "孵化場的蠕蟲1號", IconName = "ico_ep.bmp", Summary = ""}
+, 
+[8803] = {Title = "孵化場的蠕蟲2號", IconName = "ico_ep.bmp", Summary = ""}
+, 
+[8804] = {Title = "孵化場的蠕蟲3號", IconName = "ico_ep.bmp", Summary = ""}
+, 
+[11794] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"博克林德似乎在找某位樞機主教，與一同搭乘飛空艇到冰封之城的<NAVI>[朋友們]<INFO>icas_in,130,201,0,101,0</INFO></NAVI>詢問樞機主教的去向。"}
+, Summary = "與馬藍對話"}
+, 
+[11795] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"馬藍沒有見到博克林德正在尋找的樞機主教，問問看剛返回冰封之城的<NAVI>[雷拉爾]<INFO>icas_in,136,197,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與雷拉爾對話"}
+, 
+[11796] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"雷拉爾似乎也不知道聖女的去向，向冰封之城內的<NAVI>[博克林德]<INFO>icas_in,164,228,0,101,0</INFO></NAVI>匯報情況。"}
+, Summary = "與博克林德對話"}
+, 
+[11797] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"為了找聖女，必須返回米德加爾特，前往冰鱗盡頭找<NAVI>[海洛克]<INFO>jor_tail,211,63,0,101,0</INFO></NAVI>。"}
+, Summary = "與海洛克對話"}
+, 
+[11798] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"搭乘海洛克的雪橇到達艾爾帕蘭，再次與<NAVI>[海洛克]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與海洛克對話"}
+, 
+[11799] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"為了獲取聖女的情報，在普隆德拉與<NAVI>[服務導師艾莉絲]<INFO>prontera,254,309,0,101,0</INFO></NAVI>會面。"}
+, Summary = "與艾莉絲對話"}
+, 
+[11800] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"跟著艾莉絲前往<NAVI>[聖女住所]<INFO>prt_cas,20,32,0,101,0</INFO></NAVI>。"}
+, Summary = "尋找聖女"}
+, 
+[11801] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"在普隆德拉皇宮找到<NAVI>[聖女]<INFO>prt_cas,18,32,0,101,0</INFO></NAVI>，她正在準備前往伊斯加爾特，為了等艾莉絲帶搬運工回來，我們在這裡等她。"}
+, Summary = "與聖女對話"}
+, 
+[11802] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"艾莉絲帶搬運工回到普隆德拉皇宮，但芙蕾德莉卡的行李完全沒有整理，而且很多，為了減輕重量，檢查一下<NAVI>[旅行袋]<INFO>prt_cas,15,31,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查旅行袋"}
+, 
+[11803] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"普隆德拉王國內，檢查芙蕾德莉卡寢室裡的另一個<NAVI>[旅行袋]<INFO>prt_cas,16,27,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查旅行袋"}
+, 
+[11804] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"普隆德拉王國內，檢查芙蕾德莉卡寢室裡的另一個<NAVI>[旅行袋]<INFO>prt_cas,26,27,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查旅行袋"}
+, 
+[11805] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"普隆德拉王國內，檢查芙蕾德莉卡寢室裡的另一個<NAVI>[旅行袋]<INFO>prt_cas,23,36,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查旅行袋"}
+, 
+[11806] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"普隆德拉王國內，檢查芙蕾德莉卡寢室裡的另一個<NAVI>[旅行袋]<INFO>prt_cas,22,30,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查旅行袋"}
+, 
+[11807] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"行李已經整理好了，回普隆德拉皇宮內，與<NAVI>[服事導師 艾莉絲]<INFO>prt_cas,21,31,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與艾莉絲對話"}
+, 
+[11808] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"準備好離開伊斯加爾特，在艾爾帕蘭與<NAVI>[海洛克]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>對話，前往伊斯加爾特。"}
+, Summary = "與海洛克對話"}
+, 
+[11809] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"再次抵達伊斯加爾特，與芙蕾德莉卡前往<NAVI>[冰封之城]<INFO>icecastle,23,123,0,101,0</INFO></NAVI>。"}
+, Summary = "前往冰封之城"}
+, 
+[11810] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"進入冰封之城，移動到<NAVI>[芙蕾德莉卡]<INFO>icecastle,59,213,0,101,0</INFO></NAVI>的房間。"}
+, Summary = "與芙蕾德莉卡對話"}
+, 
+[11811] = {Title = "淨化聖女", IconName = "ico_ep.bmp", 
+Description = {"在冰封之城，博克林德來到芙蕾德莉卡的房間，確認芙蕾德莉卡安全抵達後離開，下一步任務好像交給<NAVI>[雷拉爾]<INFO>icas_in,35,118,0,101,0</INFO></NAVI>處理，試著與他對話吧。"}
+, Summary = "與雷拉爾對話"}
+, 
+[11812] = {Title = "芙蕾德莉卡的一天", IconName = "ico_ep.bmp", 
+Description = {"在冰封之城，留在房間的<NAVI>[芙蕾德莉卡]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>得知博克林德委託她淨化蠕蟲的魔力核，聽聽她怎麼說吧。"}
+, Summary = "與芙蕾德莉卡對話"}
+, 
+[11813] = {Title = "芙蕾德莉卡的一天", IconName = "ico_dq.bmp", 
+Description = {"在蛇神的熱氣中，擊敗各10隻原始蠕蟲和最下級蠕蟲，收集10個蠕蟲的魔力核後，回去找<NAVI>[芙蕾德莉卡]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>。"}
+, Summary = "收集蠕蟲魔力核"}
+, 
+[11814] = {Title = "芙蕾德莉卡的一天-等待", IconName = "ico_dq.bmp", 
+Description = {"已經幫助過芙蕾德莉卡，明天再來挑戰吧。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[11815] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"在冰封之城，秀拉拉帶來的塔塔琳，在芙蕾德莉卡的力量下被淨化了，與醒來的<NAVI>[塔塔琳]<INFO>icas_in,28,119,0,101,0</INFO></NAVI>對話，了解情況。"}
+, Summary = "與塔塔琳對話"}
+, 
+[11816] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"塔塔琳說她需要調查一下自己掉進的坑洞，在調查之前，先在冰鱗山丘附近檢查一下<NAVI>[捕獸夾]<INFO>jor_back1,300,272,0,101,0</INFO></NAVI>，看看有沒有異常。"}
+, Summary = "檢查捕獸夾"}
+, 
+[11817] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"捕獸夾中並沒有發現任何問題，在冰鱗山丘檢查另一個<NAVI>[捕獸夾]<INFO>jor_back2,346,203,0,101,0</INFO></NAVI>，看看有沒有異常。"}
+, Summary = "檢查捕獸夾"}
+, 
+[11818] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"捕獸夾中也沒有發現任何問題，前往冰鱗平原的<NAVI>[捕獸夾]<INFO>jor_back2,260,294,0,101,0</INFO></NAVI>，看看有沒有異常。"}
+, Summary = "檢查捕獸夾"}
+, 
+[11819] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"在捕獸夾中發現了腐蝕的問題，回冰鱗平原附近找<NAVI>[秀拉拉]<INFO>jor_back2,255,312,0,101,0</INFO></NAVI>，向她報告捕獸夾的情況。"}
+, Summary = "與秀拉拉對話"}
+, 
+[11820] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"塔塔琳掉進的坑洞內毒氣太強，即使穿潛水服也無法進入，回到冰封之城，與<NAVI>[芙蕾德莉卡]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>對話，請求協助。"}
+, Summary = "與芙蕾德莉卡對話"}
+, 
+[11821] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"成功說服芙蕾德莉卡，返回冰鱗平原的<NAVI>[坑洞]<INFO>jor_back2,258,314,0,101,0</INFO></NAVI>，淨化毒氣。"}
+, Summary = "返回坑洞中"}
+, 
+[11822] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"已淨化坑洞，為了預防潛在危險，穿著潛水服的秀拉拉說她會先進行調查，在秀拉拉進行坑洞調查的同時，為了防止怪物靠近，請先消滅冰鱗平原周圍的10隻怪物，並收集3個結凍的肉，然後與完成調查的<NAVI>[秀拉拉]<INFO>jor_back2,255,312,0,101,0</INFO></NAVI>對話。"}
+, Summary = "結凍的肉 3個"}
+, 
+[11823] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"冰鱗平原的秀拉拉講述了她調查<NAVI>[坑洞]<INFO>jor_back2,258,314,0,101,0</INFO></NAVI>的故事，並提議一起前往。"}
+, Summary = "前往坑洞"}
+, 
+[11824] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"往下到坑洞裡，與先到達的<NAVI>[愛芙]<INFO>jor_ab01,115,14,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與愛芙對話"}
+, 
+[11825] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"在廢棄坑洞1樓周圍擊敗5隻怪物，然後調查下一個<NAVI>[可疑的痕跡]<INFO>jor_ab01,222,107,0,101,0</INFO></NAVI>。"}
+, Summary = "調查可疑的痕跡"}
+, 
+[11826] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"在廢棄坑洞1樓周圍擊敗5隻怪物，然後調查下一個<NAVI>[可疑的痕跡]<INFO>jor_ab01,104,270,0,101,0</INFO></NAVI>。"}
+, Summary = "調查可疑的痕跡"}
+, 
+[11827] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"找到了通往廢棄坑洞2樓的通道，擊敗廢棄坑洞1樓的5隻怪物，然後收集2個結凍的肉，最後前往<NAVI>[下一個區域]<INFO>jor_ab01,16,235,0,101,0</INFO></NAVI>。"}
+, Summary = "前往其他區域"}
+, 
+[11828] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"進入了廢棄坑洞2樓，擊敗廢棄坑洞2樓的10隻怪物，收集2個結凍的肉，然後<NAVI>[檢查]<INFO>jor_ab02,28,253,0,101,0</INFO></NAVI>是否有其他連接的地方。"}
+, Summary = "調查坑道盡頭"}
+, 
+[11829] = {Title = "冰鱗海洋", IconName = "ico_ep.bmp", 
+Description = {"完成了廢棄坑洞的調查，返回冰封之城，將收集的物品交給<NAVI>[芙蕾德莉卡]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>。"}
+, Summary = "與芙蕾德莉卡對話"}
+, 
+[11830] = {Title = "廢棄坑洞", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[秀拉拉]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>提到了廢棄坑洞的危險性，可能需要進一步的調查。"}
+, Summary = "與秀拉拉對話"}
+, 
+[11831] = {Title = "被遺棄的地方", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[秀拉拉]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>要求在^e5555e廢棄坑洞1樓^000000擊敗約^e5555e40隻^000000怪物，並收集^e5555e20個^000000結凍的肉，然後將其帶回。"}
+, Summary = "結凍的肉20個"}
+, 
+[11832] = {Title = "足以廢棄的地點(1)-等待", IconName = "ico_dq.bmp", 
+Description = {"協助秀拉拉調查了坑洞，明天再加油吧！"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[11833] = {Title = "被遺棄的地方", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[秀拉拉]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>要求在^e5555e廢棄坑洞2樓^000000擊敗約^e5555e40隻^000000怪物，並收集^e5555e20個^000000 ^e5555e結凍的肉^000000，並將其帶回。"}
+, Summary = "結凍的肉20個"}
+, 
+[11834] = {Title = "足以廢棄的地點(2)-等待", IconName = "ico_dq.bmp", 
+Description = {"協助秀拉拉調查了坑洞，明天再加油吧！"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[11835] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"為了進行廢棄坑洞的調查，愛芙先行出發，在廢棄坑洞中，與<NAVI>[愛芙]<INFO>jor_ab01,115,14,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與愛芙對話"}
+, 
+[11836] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"愛芙要求調查不祥的痕跡，調查結束後，向<NAVI>[秀拉拉]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>匯報。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11837] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab01,163,253,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11838] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab01,117,141,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11839] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab01,222,125,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11840] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab01,196,260,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11841] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab01,112,62,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11842] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab01,25,265,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11843] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab02,151,272,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11844] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab02,139,148,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11845] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab02,182,83,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11846] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab02,48,27,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11847] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab02,208,48,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11848] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"在廢棄坑洞中，調查愛芙提到的<NAVI>[不祥的痕跡]<INFO>jor_ab02,201,184,0,101,0</INFO></NAVI>。"}
+, Summary = "調查不祥的痕跡"}
+, 
+[11849] = {Title = "在坑洞裡挖呀挖呀挖", IconName = "ico_dq.bmp", 
+Description = {"調查了廢棄坑洞中的不祥的痕跡，向<NAVI>[秀拉拉]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>匯報調查結果。"}
+, Summary = "與秀拉拉對話"}
+, 
+[11850] = {Title = "在坑洞裡挖呀挖呀挖-等待", IconName = "ico_dq.bmp", 
+Description = {"協助秀拉拉調查了的坑洞，明天再加油吧！"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[11851] = {Title = "需要冰箱嗎？", IconName = "ico_dq.bmp", 
+Description = {"冰封之城的<NAVI>[塔塔琳]<INFO>icas_in,28,119,0,101,0</INFO></NAVI>似乎對糧食採集感到擔憂。"}
+, Summary = "與塔塔琳對話"}
+, 
+[11852] = {Title = "需要冰箱嗎？", IconName = "ico_dq.bmp", 
+Description = {"在冰封之城，幫助生病的<NAVI>[塔塔琳]<INFO>icas_in,28,119,0,101,0</INFO></NAVI>，在^e5555e冰鱗平原^000000狩獵^e5555e20隻以上^000000怪物，並收集^e5555e10個以上^000000 ^e5555e結凍的肉^000000。"}
+, Summary = "結凍的肉10個"}
+, 
+[11853] = {Title = "需要冰箱嗎？-等待", IconName = "ico_dq.bmp", 
+Description = {"在冰封之城，幫助了塔塔琳糧食採集，明天再回來吧！"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[11854] = {Title = "酥脆的工具", IconName = "ico_dq.bmp", 
+Description = {"在冰封之城，塔塔琳擔心在寒冷的天氣中捕獸夾可能會壞掉，檢查<NAVI>[結凍的捕獸夾]<INFO>jor_back2,367,36,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查結凍的捕獸夾"}
+, 
+[11855] = {Title = "酥脆的工具", IconName = "ico_dq.bmp", 
+Description = {"在冰封之城，塔塔琳擔心在寒冷的天氣中捕獸夾可能會壞掉，檢查<NAVI>[結凍的捕獸夾]<INFO>jor_back2,84,88,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查結凍的捕獸夾"}
+, 
+[11856] = {Title = "酥脆的工具", IconName = "ico_dq.bmp", 
+Description = {"在冰封之城，塔塔琳擔心在寒冷的天氣中捕獸夾可能會壞掉，檢查<NAVI>[結凍的捕獸夾]<INFO>jor_back2,158,320,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查結凍的捕獸夾"}
+, 
+[11857] = {Title = "酥脆的工具", IconName = "ico_dq.bmp", 
+Description = {"在冰封之城，塔塔琳擔心在寒冷的天氣中捕獸夾可能會壞掉，檢查<NAVI>[結凍的捕獸夾]<INFO>jor_back2,190,184,0,101,0</INFO></NAVI>。"}
+, Summary = "檢查結凍的捕獸夾"}
+, 
+[11858] = {Title = "酥脆的工具", IconName = "ico_dq.bmp", 
+Description = {"檢查了結凍的捕獸夾，返回找<NAVI>[塔塔琳]<INFO>icas_in,28,119,0,101,0</INFO></NAVI>。"}
+, Summary = "與塔塔琳對話"}
+, 
+[11859] = {Title = "酥脆的工具-等待", IconName = "ico_dq.bmp", 
+Description = {"在冰封之城幫助塔塔琳修理捕獸夾了，明天再來吧！"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[12560] = {Title = "等待:飛空艇失效", 
+Description = {"我們成功地使飛空艇失效，一段時間內無法運作，如果看到飛空艇再次啟動，可能需要再次滲透。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[12561] = {Title = "核心失效", 
+Description = {"完全炸毀飛空艇核心存在一定的風險，目前無法測定，先將讓飛空艇運作的核心失效。"}
+, Summary = "核心失效"}
+, 
+[16636] = {Title = "尋找線索-蓉可兒研究室", IconName = "ico_ep.bmp", 
+Description = {"在無人的情況下，進入蛇巢的<NAVI>[蓉可兒研究室]<INFO>jor_nest,51,152,0,101,0</INFO></NAVI>進行探索。"}
+, Summary = "探索蓉可兒研究室"}
+, 
+[16637] = {Title = "尋找線索-巴格的研究室", IconName = "ico_ep.bmp", 
+Description = {"在無人的情況下，進入蛇巢的<NAVI>[巴格的研究室]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>進行探索。"}
+, Summary = "探索巴格的研究室"}
+, 
+[16638] = {Title = "尋找線索-蠕蟲警備兵", IconName = "ico_ep.bmp", 
+Description = {"在無人的情況下，進入蛇巢的<NAVI>[蠕蟲警備兵]<INFO>jor_nest,177,176,0,101,0</INFO></NAVI>附近進行探索。"}
+, Summary = "探索蠕蟲警備兵"}
+, 
+[16639] = {Title = "蓉可兒研究室", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢內的蓉可兒研究室，搜查<NAVI>[文件堆]<INFO>jor_nest,19,142,0,101,0</INFO></NAVI>。"}
+, Summary = "搜查文件堆"}
+, 
+[16640] = {Title = "蓉可兒研究室", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢內的蓉可兒研究室，搜查<NAVI>[文件堆]<INFO>jor_nest,21,195,0,101,0</INFO></NAVI>。"}
+, Summary = "搜查文件堆"}
+, 
+[16641] = {Title = "巴格的研究室", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢內的<NAVI>[巴格的研究室]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>搜查文件堆。"}
+, Summary = "搜查文件堆"}
+, 
+[16642] = {Title = "巴格的研究室", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢內的<NAVI>[巴格的研究室]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>搜查文件堆。"}
+, Summary = "搜查文件堆"}
+, 
+[16643] = {Title = "蠕蟲警備兵", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢內的蠕蟲警備兵附近有<NAVI>[帳簿]<INFO>jor_nest,181,173,0,101,0</INFO></NAVI>，稍微查看一下。"}
+, Summary = "搜查文件堆"}
+, 
+[16644] = {Title = "蠕蟲警備兵", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢內的<NAVI>[蠕蟲警備兵]<INFO>jor_nest,173,177,0,101,0</INFO></NAVI>附近偷偷聽他們的對話。"}
+, Summary = "偷聽蠕蟲警備兵的對話"}
+, 
+[16645] = {Title = "分享線索", IconName = "ico_ep.bmp", 
+Description = {"收集了一些線索，向蛇巢內化身為蠕蟲的<NAVI>[雷基]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>分享所收集到的線索並交換意見。"}
+, Summary = "與雷基對話"}
+, 
+[16646] = {Title = "悄悄潛行", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢蓉可兒研究室，與<NAVI>[蓉可兒]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>對話，建立友誼。"}
+, Summary = "與蓉可兒對話"}
+, 
+[16647] = {Title = "悄悄潛行", IconName = "ico_ep.bmp", 
+Description = {"蓉可兒似乎想吃點甜的，回到<NAVI>[冰封之城]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>尋找一些甜點給她。"}
+, Summary = "與冒險家對話"}
+, 
+[16648] = {Title = "悄悄潛行", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢蓉可兒研究室，與<NAVI>[蓉可兒]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>對話，將冰凍餅乾交給他。"}
+, Summary = "與蓉可兒對話"}
+, 
+[16649] = {Title = "悄悄潛行", IconName = "ico_ep.bmp", 
+Description = {"蛇巢內等待的 <NAVI>[蓉可兒]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> 需要帶回 <NAVI>[冰封之城]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>，可獲得的冰凍餅乾1個或 <ITEM>[蠕蟲的低級魔力核]<INFO>1000707</INFO></ITEM> 10個。"}
+, Summary = "完成蓉可兒的請求"}
+, 
+[16650] = {Title = "悄悄潛行", IconName = "ico_ep.bmp", 
+Description = {"蛇巢內等待的 <NAVI>[蓉可兒]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> 需要帶回 <NAVI>[冰封之城]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>，可獲得的冰凍餅乾1個或 <ITEM>[蠕蟲的低級魔力核]<INFO>1000707</INFO></ITEM> 10個。"}
+, Summary = "完成蓉可兒的請求"}
+, 
+[16651] = {Title = "悄悄潛行", IconName = "ico_ep.bmp", 
+Description = {"前往蛇巢蓉可兒研究室，向<NAVI>[蓉可兒]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>展示從蠕蟲警備兵那裡帶回的帳簿。"}
+, Summary = "與蓉可兒對話"}
+, 
+[16652] = {Title = "悄悄潛行", IconName = "ico_ep.bmp", 
+Description = {"巴格出現在蛇巢蓉可兒研究室裡，跟<NAVI>[蓉可兒]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>互動，努力阻止他察覺。"}
+, Summary = "與蓉可兒對話"}
+, 
+[16653] = {Title = "積累的懷疑", IconName = "ico_ep.bmp", 
+Description = {"返回<NAVI>[冰封之城]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>與<NAVI>[雷基]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>交流這段時間的成果。"}
+, Summary = "與雷基對話"}
+, 
+[16654] = {Title = "積累的懷疑", IconName = "ico_ep.bmp", 
+Description = {"在冰封之城，與雷基和<NAVI>[米莉安]<INFO>icas_in,249,199,0,101,0</INFO></NAVI>繼續對話。"}
+, Summary = "與米莉安對話"}
+, 
+[16655] = {Title = "分毫之差", IconName = "ico_ep.bmp", 
+Description = {"決定加快進展，前往蛇巢的<NAVI>[蓉可兒研究室]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>與蓉可兒交談，看能否說服他。"}
+, Summary = "前往蓉可兒研究室"}
+, 
+[16656] = {Title = "分毫之差", IconName = "ico_ep.bmp", 
+Description = {"在蓉可兒研究室附近發現一個沒看過的箱子，裡面流出液體，去找<NAVI>[容器]<INFO>jor_nest,20,194,0,101,0</INFO></NAVI>來盛裝。"}
+, Summary = "取得蓉可兒的試驗管"}
+, 
+[16657] = {Title = "分毫之差", IconName = "ico_ep.bmp", 
+Description = {"在蓉可兒研究室裡，用空的試驗管在<NAVI>[箱子]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>周邊收集液體。"}
+, Summary = "取得紅色液體的試驗管"}
+, 
+[16658] = {Title = "分毫之差", IconName = "ico_ep.bmp", 
+Description = {"試圖悄悄離開蓉可兒研究室時，被一個陌生的<NAVI>[蠕蟲]<INFO>jor_nest,24,185,0,101,0</INFO></NAVI>發現，他似乎有話想對你說。"}
+, Summary = "與蠕蟲對話"}
+, 
+[16659] = {Title = "分毫之差", IconName = "ico_ep.bmp", 
+Description = {"前往<NAVI>[巴格的研究室]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>，蓉可兒正在那等你。"}
+, Summary = "與蓉可兒對話"}
+, 
+[16660] = {Title = "分毫之差", IconName = "ico_ep.bmp", 
+Description = {"在<NAVI>[巴格的研究室]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>與蓉可兒對話。"}
+, Summary = "與蓉可兒對話"}
+, 
+[16661] = {Title = "分毫之差", IconName = "ico_ep.bmp", 
+Description = {"帶著魔物化的蓉可兒返回村莊，和<NAVI>[呼嚕嚕]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>對話。"}
+, Summary = "返回村莊"}
+, 
+[16662] = {Title = "模擬戰鬥", IconName = "ico_dq.bmp", 
+Description = {"跟在巴格的研究室前等待的<NAVI>[亞亞]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>對話，利用蓉可兒的虛擬數據和仿真蓉可兒進行模擬戰鬥。"}
+, Summary = "與冒險家對話"}
+, 
+[16663] = {Title = "模擬戰鬥-等待", IconName = "ico_dq.bmp", 
+Description = {"擊敗仿真蓉可兒之後，休息一天，然後和在巴格的研究室前的<NAVI>[亞亞]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>再次對話，可以再次進行戰鬥。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[17619] = {Title = "雷基的作戰計畫", IconName = "ico_ep.bmp", 
+Description = {"使用蠕蟲變身卷軸，潛入蠕蟲的<NAVI>[大本營]<INFO>jor_back3,98,318,0,101,0</INFO></NAVI>，別忘了拿變身卷軸。"}
+, Summary = "進入蠕蟲的大本營"}
+, 
+[17620] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"冒險家進入蛇的<NAVI>[巢穴]<INFO>jor_dun02,263,170,0,101,0</INFO></NAVI>，假裝成新孵化的蠕蟲。"}
+, Summary = "假扮幼蠕蟲"}
+, 
+[17621] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"你們在這裡可是不尋常的存在，先去巢穴的<NAVI>[上方]<INFO>jor_nest,184,49,0,101,0</INFO></NAVI>，要跟好喔。"}
+, Summary = "前往高級區域"}
+, 
+[17622] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"在前往接受拉斯甘德祝福洗禮的路上，要先展示位於蛇巢中的<NAVI>[蛋孵化場]<INFO>jor_nest,196,202,0,101,0</INFO></NAVI>。"}
+, Summary = "前往高級蛋孵化場"}
+, 
+[17623] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"在前往的路上，會經過外部人的<NAVI>[居所]<INFO>jor_nest,115,187,0,101,0</INFO></NAVI>，會告訴你位置，但請小心不要亂入。"}
+, Summary = "外部人的居所"}
+, 
+[17624] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"好的，現在真的該去接受拉斯甘德的祝福洗禮了，向上爬到蛇巢的<NAVI>[頂部]<INFO>jor_nest,53,244,0,101,0</INFO></NAVI>吧。"}
+, Summary = "拉斯甘德的居所"}
+, 
+[17625] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"如果無處可去，就去蛇巢的虛幻派研究室看看吧，去找<NAVI>[蓉可兒]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI>做個健康檢查什麼的。"}
+, Summary = "前往找蓉可兒"}
+, 
+[17626] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"休息好了嗎？現在來做點事吧，你對蛇巢應該已經不陌生了吧？靠近一點，來<NAVI>[內部]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI>接受檢查。"}
+, Summary = "與蓉可兒對話"}
+, 
+[17627] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"你剛才經過的<NAVI>[蛋]<INFO>jor_dun02,263,170,0,101,0</INFO></NAVI>應該可以使用，去蛇巢拿些高級蠕蟲蛋殼來，我們需要研究一下蛋殼和其中殘存的魔力，據說是從蛇神的吐息中孵化出來的？"}
+, Summary = "回到我誕生的地方"}
+, 
+[17628] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"看來高級蛋有個別的分類，去<NAVI>[蛇巢]<INFO>jor_nest,23,58,0,101,0</INFO></NAVI>看看吧。"}
+, Summary = "前往高級蛋孵化場"}
+, 
+[17629] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"順利獲得了高級蠕蟲蛋殼，回到蛇巢向<NAVI>[蓉可兒]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI>展示蛋殼。"}
+, Summary = "與蓉可兒對話"}
+, 
+[17630] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"巴格現身在蛇巢的虛幻派研究室了，去聽聽<NAVI>[巴格]<INFO>jor_nest,26,142,0,101,0</INFO></NAVI>有什麼目的吧。"}
+, Summary = "與巴格對話"}
+, 
+[17631] = {Title = "潛入蛇巢", IconName = "ico_ep.bmp", 
+Description = {"對於巴格突然出現在蛇巢並單方面通報<NAVI>[蓉可兒]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI>非常生氣，是因為什麼呢？"}
+, Summary = "與蓉可兒對話"}
+, 
+[17632] = {Title = "潛入作戰中期報告", IconName = "ico_ep.bmp", 
+Description = {"蓉可兒那裡已經沒有更多的消息了，先離開巢穴到<NAVI>[外面]<INFO>jor_nest,87,164,0,101,0</INFO></NAVI>與雷基商量一下吧。"}
+, Summary = "到外面"}
+, 
+[17633] = {Title = "潛入作戰中期報告", IconName = "ico_ep.bmp", 
+Description = {"首先確認一下蛇巢裡的<NAVI>[飛空艇]<INFO>jor_nest,24,252,0,101,0</INFO></NAVI>吧，需要了解巡邏人員和位置等情報。"}
+, Summary = "確認飛空艇"}
+, 
+[17634] = {Title = "潛入作戰中期報告", IconName = "ico_ep.bmp", 
+Description = {"知道了飛空艇的位置後，回去制定對策吧，現在去<NAVI>[蛇神的吐息]<INFO>jor_dun02,153,239,0,101,0</INFO></NAVI>處救同伴吧！"}
+, Summary = "救援下級區域的同伴"}
+, 
+[17635] = {Title = "潛入作戰中期報告", IconName = "ico_ep.bmp", 
+Description = {"在<NAVI>[蛇神的吐息]<INFO>jor_dun02,150,269,0,101,0</INFO></NAVI>裡，有一些被奴役的<NAVI>[祭司]<INFO>jor_dun02,150,269,0,101,0</INFO></NAVI>，不是要帶他們走嗎？趕快帶他們離開吧。"}
+, Summary = "進去裡面"}
+, 
+[17636] = {Title = "潛入作戰中期報告", IconName = "ico_ep.bmp", 
+Description = {"還有很多事要做，快去<NAVI>[冰封之城]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>制定對策吧。"}
+, Summary = "前往冰封之城"}
+, 
+[17637] = {Title = "破壞飛空艇作戰", IconName = "ico_ep.bmp", 
+Description = {"必須讓蛇巢裡的<NAVI>[飛空艇]<INFO>jor_nest,22,254,0,101,0</INFO></NAVI>無法運作，這樣就可以拖住他們的腳步，仔細看看。"}
+, Summary = "前往飛空艇"}
+, 
+[17638] = {Title = "找出弱點", IconName = "ico_ep.bmp", 
+Description = {"回到<NAVI>[蛇巢]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>，仔細找出弱點吧。"}
+, Summary = "返回蛇巢"}
+, 
+[17639] = {Title = "巡邏報告同行", IconName = "ico_ep.bmp", 
+Description = {"我也在去冰封之城的路上，一起去吧，飯吃得差不多了，我在<NAVI>[餐廳]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>等你。"}
+, Summary = "前往冰封之城餐廳"}
+, 
+[17640] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"肩負的蠕蟲是什麼？我在冰封之城的<NAVI>[家]<INFO>icas_in,247,116,0,101,0</INFO></NAVI>離這裡很近，就先去那裡吧。"}
+, Summary = "前往呼嚕嚕的家"}
+, 
+[17641] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"我會製作解毒劑，所以請帶著蠕蟲的低級魔力核20個到<NAVI>[冰封之城]<INFO>icas_in,247,116,0,101,0</INFO></NAVI>來。"}
+, Summary = "蠕蟲的低級魔力核20"}
+, 
+[17642] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"在呼嚕嚕的家裡，醒來的<NAVI>[蓉可兒]<INFO>icas_in,243,117,0,101,0</INFO></NAVI>似乎在煩惱什麼，看來是說服他的好時機。"}
+, Summary = "說服蓉可兒"}
+, 
+[17643] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"在位於冰封之城的呼嚕嚕的家裡，<NAVI>[奧萊利]<INFO>icas_in,249,113,0,101,0</INFO></NAVI>現身傳遞消息，會是什麼大事？"}
+, Summary = "與奧萊利對話"}
+, 
+[17644] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"巡邏隊回報蠕蟲的行動很可疑，我們也動身去<NAVI>[蛇巢]<INFO>jor_que,271,88,0,101,0</INFO></NAVI>看看吧。"}
+, Summary = "前往蛇巢"}
+, 
+[17645] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"分組去調查<NAVI>[蛇神的吐息]<INFO>jor_que,144,253,0,101,0</INFO></NAVI>的情況吧，那裡可能還有一些高級蠕蟲。"}
+, Summary = "調查蛇巢"}
+, 
+[17646] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"這裡只有快速移動的痕跡，<NAVI>[知情者]<INFO>jor_que,131,148,0,101,0</INFO></NAVI>那裡應該有情報。"}
+, Summary = "知情者"}
+, 
+[17647] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"尊貴的…各位…都…聚在一起……不是這裡…去巢穴的<NAVI>[上方]<INFO>jor_que,32,37,0,101,0</INFO></NAVI>…所以…請趕快去…尊貴的各位…"}
+, Summary = "前往高級區域"}
+, 
+[17648] = {Title = "混亂的蛇巢", IconName = "ico_ep.bmp", 
+Description = {"穿過擋住巢穴<NAVI>[入口]<INFO>jor_que,32,37,0,101,0</INFO></NAVI>的牆，擊敗在那邊的蠕蟲，就可以見到拉斯甘德了吧？"}
+, Summary = "進入蛇巢"}
+, 
+[17649] = {Title = "消失的人", IconName = "ico_ep.bmp", 
+Description = {"這扇門怎麼樣都打不開，只能先設監視者守候著，回<NAVI>[冰封之城]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>再商量一下吧。"}
+, Summary = "返回冰封之城"}
+, 
+[17650] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"感謝你提供幫助，現在不應該浪費時間在這裡，先回到<NAVI>[外面]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>再討論搜尋的方法吧。"}
+, Summary = "返回外面"}
+, 
+[17651] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back2,222,123,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17652] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back2,49,175,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17653] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back2,309,99,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17654] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back2,113,235,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17655] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back2,279,307,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17656] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back3,152,359,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17657] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back3,328,277,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17658] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back3,128,138,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17659] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back3,264,133,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17660] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"把這個超強力觸角埋在冰鱗平原可能會有蠕蟲出現的<NAVI>[地方]<INFO>jor_back3,46,324,0,101,0</INFO></NAVI>，我已經預先標記好了，應該很容易找到。"}
+, Summary = "在標記處找觸角"}
+, 
+[17661] = {Title = "從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"所有超強力觸角都已經埋在指定的地點，回去向<NAVI>[呼嚕嚕]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>報告吧。"}
+, Summary = "向呼嚕嚕報告"}
+, 
+[17662] = {Title = "等待：從地面尋找地底聖所", IconName = "ico_dq.bmp", 
+Description = {"等到天亮時電池可能會沒電，到時候再回到冰封之城來更換電池吧，今天就先休息吧。- <NAVI>[呼嚕嚕]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[18119] = {Title = "乘北風而來的訪客 1", IconName = "ico_ep.bmp", 
+Description = {"已經充分地聽到北方大地的消息，決定和馬蘭、米麗安前往霸肋門德大宅，我們將在霸肋門德大宅的接待室等待，與<NAVI>[愛麗]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>討論未來的計劃。"}
+, Summary = "前往霸肋門德大宅"}
+, 
+[18120] = {Title = "乘北風而來的訪客 2", IconName = "ico_ep.bmp", 
+Description = {"決定從普隆德拉皇宮獲取有關伊斯加爾特的情報，在霸肋門德大宅，跟<NAVI>[克魯斯]<INFO>ba_in01,386,110,0,101,0</INFO></NAVI>的引導下前往普隆德拉皇宮。"}
+, Summary = "前往普隆德拉皇宮"}
+, 
+[18121] = {Title = "守護者之盒和邀請函 1", IconName = "ico_ep.bmp", 
+Description = {"雷拉爾說他需要透過守護者之盒向伊斯加爾特的守護者們請教是否能造訪，去使用在普隆德拉皇宮<NAVI>[尼西]<INFO>prt_cas,331,343,0,101,0</INFO></NAVI>的守護者之盒，獲取邀請函。"}
+, Summary = "在尼西的房間與尼西對話"}
+, 
+[18122] = {Title = "守護者之盒和邀請函 2", IconName = "ico_ep.bmp", 
+Description = {"獲得了邀請函，回到<NAVI>[霸肋門德大宅]<INFO>ba_maison,186,251,0,101,0</INFO></NAVI>與隊伍會合。"}
+, Summary = "回到霸肋門德大宅"}
+, 
+[18123] = {Title = "守護者之盒和邀請函 3", IconName = "ico_ep.bmp", 
+Description = {"抵達霸肋門德大宅後，前往<NAVI>[飛空艇機坪]<INFO>ba_in01,30,264,0,101,0</INFO></NAVI>，隨時可以啟程，登上飛空艇，將邀請函交給小薑。"}
+, Summary = "與小薑對話"}
+, 
+[18124] = {Title = "守護者之盒和邀請函 5", IconName = "ico_ep.bmp", 
+Description = {"邀請函上的守護魔法籠罩著飛空艇伊夫號，安全降落在伊斯加爾特，下飛空艇後四處看看，找到<NAVI>[雷拉爾]<INFO>jor_tail,221,53,0,101,0</INFO></NAVI>並接受他的引導。"}
+, Summary = "與雷拉爾對話"}
+, 
+[18125] = {Title = "前往冰封之城", IconName = "ico_ep.bmp", 
+Description = {"在雷拉爾的指引下，決定前往被稱為冰封之城的地方，到達冰封之城後，透過<NAVI>[雷拉爾]<INFO>icas_in,141,216,0,101,0</INFO></NAVI>介紹自己給守護者。"}
+, Summary = "與雷拉爾對話"}
+, 
+[18126] = {Title = "冰封之城相遇", IconName = "ico_ep.bmp", 
+Description = {"在伊斯加爾特的冰封之城，守護者雷文和奧萊利與白鷹一起守住封印，與<NAVI>[雷文]<INFO>icas_in,138,220,0,101,0</INFO></NAVI>繼續對話。"}
+, Summary = "與雷文對話"}
+, 
+[18127] = {Title = "與白鷹巡邏隊會面", IconName = "ico_ep.bmp", 
+Description = {"雷文建議，如果能夠遇到定期巡邏伊斯加德爾的白鷹巡邏隊，可能會很有幫助，去冰封之城的入口找<NAVI>[巡邏隊長]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>。"}
+, Summary = "與白鷹巡邏隊對話"}
+, 
+[18128] = {Title = "與博克林德會面", IconName = "ico_ep.bmp", 
+Description = {"博克林德似乎有些好奇，去見在冰封之城內等待的<NAVI>[博克林德]<INFO>icas_in,162,224,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與博克林德對話"}
+, 
+[18129] = {Title = "守護者之盒和邀請函 4", IconName = "ico_ep.bmp", 
+Description = {"與一同登上飛空艇伊夫號的同伴交流對話。"}
+, Summary = "與同伴對話"}
+, 
+[18130] = {Title = "貝俊德的研究材料取得", IconName = "ico_dq.bmp", 
+Description = {"冰封之城的貝俊德正在研究耶夢加得的詛咒，並需要大量淨化魔力核作為材料，擊殺蠕蟲所獲得的低級魔法石可透過芙蕾德莉卡的協助進行淨化，並將其帶給貝俊德。"}
+, Summary = "淨化魔力核3個"}
+, 
+[18131] = {Title = "取得貝俊德的研究材料-等待", IconName = "ico_dq.bmp", 
+Description = {"此任務為每日任務，冷卻時間結束後，可再次透過冰封之城的<NAVI>[貝俊德]<INFO>icas_in,185,63,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[18132] = {Title = "需要人手", IconName = "ico_ep.bmp", 
+Description = {"在冰封之城大廳遇到的雷拉爾說雷文急需幫手，找到<NAVI>[雷文]<INFO>icas_in,42,252,0,101,0</INFO></NAVI>並聽聽他的怎麼說。"}
+, Summary = "與雷文對話"}
+, 
+[18133] = {Title = "雷文的故事", IconName = "ico_ep.bmp", 
+Description = {"與<NAVI>[米麗安]<INFO>icas_in,48,252,0,101,0</INFO></NAVI>一同討論，詳細計劃如何拯救在伊斯加爾特冰原受困的倖存者。"}
+, Summary = "與米麗安對話"}
+, 
+[18134] = {Title = "搜救倖存者-冰鱗冰川", IconName = "ico_dq.bmp", 
+Description = {"與米麗安一同劃分區域，前往伊斯加爾特搜救被俘的大陸居民，在冰鱗冰川尋找倖存者。"}
+, Summary = "尋找倖存者"}
+, 
+[18135] = {Title = "搜救倖存者-冰鱗平原", IconName = "ico_dq.bmp", 
+Description = {"與米麗安一同劃分區域，前往伊斯加爾特搜救被俘的大陸居民，在冰鱗平原尋找倖存者。"}
+, Summary = "尋找倖存者"}
+, 
+[18136] = {Title = "搜救行動完成", IconName = "ico_dq.bmp", 
+Description = {"找到在伊斯加爾特被困的大陸居民，返回冰封之城，帶他們去找<NAVI>[馬蘭]<INFO>icas_in,262,179,0,101,0</INFO></NAVI>。"}
+, Summary = "與馬蘭對話"}
+, 
+[18137] = {Title = "搜救倖存者-等待", IconName = "ico_dq.bmp", 
+Description = {"尋找在伊斯加爾特被困的大陸居民工作先暫緩，等冷卻時間結束後，再找<NAVI>[米麗安]<INFO>icas_in,48,252,0,101,0</INFO></NAVI>劃分區域進行搜救。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[18138] = {Title = "特殊生存方式", IconName = "ico_ep.bmp", 
+Description = {"在蛇穴中遇到的<NAVI>[米米爾岡德]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>想要收集罪孽生物的魔力核，罪孽生物指的是原始蠕蟲和最下級蠕蟲，清理罪孽生物並收集10個蠕蟲的低級魔力核。"}
+, Summary = "蠕蟲的低級魔力核10個"}
+, 
+[18139] = {Title = "珍貴的培育", IconName = "ico_dq.bmp", 
+Description = {"在蛇穴遇到的<NAVI>[米米爾岡德]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>仍想要收集罪孽生物的魔力，擊殺原始蠕蟲和最下級蠕蟲，收集30個蠕蟲的低級魔力核。"}
+, Summary = "蠕蟲的低級魔力核30個"}
+, 
+[18140] = {Title = "珍貴的培育-等待", IconName = "ico_dq.bmp", 
+Description = {"伊斯加爾特的蛇穴，每天都需要收集魔力核，有興趣的話，等一段時間後再去找<NAVI>[米米爾岡德]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>幫忙。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[18141] = {Title = "優雅的愛好生活", IconName = "ico_dq.bmp", 
+Description = {"在蛇穴以製作飾品為興趣的<NAVI>[貝爾貝爾岡德]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>希望能收集一些材料，材料包括：克拉結晶、螢光色的液體、水鈴花、薄而堅固的外皮各10個，這些材料可從冰川或冰原的怪物身上獲得。"}
+, Summary = "收集材料後與貝爾貝爾岡德對話"}
+, 
+[18142] = {Title = "優雅的愛好生活-等待", IconName = "ico_dq.bmp", 
+Description = {"此任務為每日任務，冷卻時間結束後可以再次接取，可向在蛇穴的<NAVI>[貝爾貝爾岡德]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[18143] = {Title = "為了安全的勞動", IconName = "ico_dq.bmp", 
+Description = {"在蛇穴裡，負責採集冰的<NAVI>[哈納岡德]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI>說因外面生物的威脅使得採集冰變得困難，去擊殺在冰川的青翅巨鳥和克拉波利。"}
+, Summary = "擊敗冰川區域的怪物"}
+, 
+[18144] = {Title = "為了安全的勞動-等待", IconName = "ico_dq.bmp", 
+Description = {"此任務為每日任務，冷卻時間結束後可以再次接取，可向在蛇穴的<NAVI>[哈納岡德]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8860] = {Title = "蛋頭博士的秘密基地", IconName = "ico_vr.bmp", 
+Description = {"在圖書館的角落突然遇到索尼克的冒險家，與索尼克和塔爾斯一起擊敗蛋頭博士，並收回混沌翡翠！"}
+, Summary = "擊敗蛋頭博士"}
+, 
+[8861] = {Title = "蛋頭博士的秘密基地-等待", IconName = "ico_vr.bmp", 
+Description = {"該任務為每日任務，冷卻時間結束後，能夠再次閱讀<NAVI>[該書本]<INFO>prt_elib,40,35,0,101,0</INFO></NAVI>。", "蛋頭博士的秘密基地，可將<ITEM>[索尼克徽章]<INFO>1001549</INFO></ITEM>給<NAVI>[塔爾斯]<INFO>prt_elib,40,39,0,101,0</INFO></NAVI>，就可以再閱讀1次<NAVI>[書籍]<INFO>prt_elib,40,35,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[8862] = {Title = "這些傢伙為什麼在這裡?", IconName = "ico_vr.bmp", 
+Description = {"拯救動物"}
+, Summary = "拯救動物"}
+, 
+[8863] = {Title = "進入基地內部…", IconName = "ico_vr.bmp", 
+Description = {"雖然無法預測基地內會有什麼危險，但決定與索尼克、塔爾斯一起探索。"}
+, Summary = "探查基地"}
+, 
+[8864] = {Title = "和巧歐對話", IconName = "ico_vr.bmp", 
+Description = {"和巧歐對話看看。"}
+, Summary = "和巧歐對話"}
+, 
+[8865] = {Title = "巧歐的答覆", IconName = "ico_vr.bmp", 
+Description = {"和巧歐說話了。"}
+, Summary = ""}
+, 
+[8866] = {Title = "巧歐的答覆", IconName = "ico_vr.bmp", 
+Description = {"和巧歐說話了。"}
+, Summary = ""}
+, 
+[8867] = {Title = "巧歐的答覆", IconName = "ico_vr.bmp", 
+Description = {"和巧歐說話了。"}
+, Summary = ""}
+, 
+[8868] = {Title = "巧歐的答覆", IconName = "ico_vr.bmp", 
+Description = {"和巧歐說話了。"}
+, Summary = ""}
+, 
+[8869] = {Title = "與索尼克對話", IconName = "ico_vr.bmp", 
+Description = {"巧歐們好像不要緊，與索尼克對話。"}
+, Summary = "與索尼克對話"}
+, 
+[8870] = {Title = "冒險結束", IconName = "ico_vr.bmp", 
+Description = {"與索尼克、塔爾斯、納克魯斯共同經歷的冒險將永生難忘！但是...似乎有<NAVI>[某人]<INFO>prt_elib,45,51,0,101,0</INFO></NAVI>在呼喚。"}
+, Summary = "和圖書館員交談"}
+, 
+[8871] = {Title = "新書", IconName = "ico_vr.bmp", 
+Description = {"普隆德拉東邊圖書館內現已放置一本<NAVI>[新書]<INFO>prt_elib,40,35,0,101,0</INFO></NAVI>，限定期間內可以閱讀。"}
+, Summary = "與索尼克對話"}
+, 
+[8872] = {Title = "進入基地內部…", IconName = "ico_vr.bmp", 
+Description = {"如果有動物朋友被蛋頭博士洗腦，只需摧毀洗腦裝置即可，但…如果不是動物朋友的話..."}
+, Summary = "往通道移動"}
+, 
+[8873] = {Title = "擊敗金屬索尼克！", IconName = "ico_vr.bmp", 
+Description = {"阻擋道路的金屬索尼克似乎對冒險家充滿敵意，擊敗金屬索尼克，然後前進下一區域！"}
+, Summary = "擊敗金屬索尼克"}
+, 
+[8874] = {Title = "進入基地內部…", IconName = "ico_vr.bmp", 
+Description = {"擊敗金屬索尼克後，前方等著的是...？"}
+, Summary = "往通道移動"}
+, 
+[8875] = {Title = "擊敗納克魯斯！", IconName = "ico_vr.bmp", 
+Description = {"剛才索尼克不是說納克魯斯是同伴嗎？"}
+, Summary = "擊敗納克魯斯"}
+, 
+[8876] = {Title = "進入基地內部…", IconName = "ico_vr.bmp", 
+Description = {"如果有動物朋友被蛋頭博士洗腦，只需摧毀洗腦裝置即可。"}
+, Summary = "往通道移動"}
+, 
+[8877] = {Title = "進入基地內部…", IconName = "ico_vr.bmp", 
+Description = {"如果有動物朋友被蛋頭博士洗腦，只需摧毀洗腦裝置即可，但…如果不是動物朋友的話..."}
+, Summary = "往通道移動"}
+, 
+[8878] = {Title = "擊敗蛋頭博士！ ", IconName = "ico_vr.bmp", 
+Description = {"擊敗蛋頭博士，收回混沌翡翠！"}
+, Summary = "擊敗蛋頭博士"}
+, 
+[8879] = {Title = "別逃！", IconName = "ico_vr.bmp", 
+Description = {"找到逃跑的蛋頭博士！"}
+, Summary = "往通道移動"}
+, 
+[8880] = {Title = "擊敗蛋頭博士！", IconName = "ico_vr.bmp", 
+Description = {"擊敗蛋頭博士，收回混沌翡翠！"}
+, Summary = "擊敗蛋頭博士"}
+, 
+[8881] = {Title = "塔爾斯的著作重新閱讀機會-等待", IconName = "ico_vr.bmp", 
+Description = {"此任務為每日任務，冷卻時間結束後，能夠再次閱讀<NAVI>[該書本]<INFO>prt_elib,40,35,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23184] = {Title = "新一季浪漫春櫻季", IconName = "ico_ev.bmp", 
+Description = {"從今年開始，在普隆德拉王城舉辦了新一季浪漫櫻花季活動，去找在普隆德拉的活動總召<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與伊伏對話"}
+, 
+[23185] = {Title = "新一季浪漫櫻花季", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉的浪漫櫻花季活動總召<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>似乎很忙，要等一下嗎…？"}
+, Summary = "一分鐘後重置"}
+, 
+[23186] = {Title = "新一季浪漫春櫻季", IconName = "ico_ev.bmp", 
+Description = {"伊伏似乎獨自一人承擔著別人負責的工作，如果想幫助伊伏的話，就再去普隆德拉找一次<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與伊伏對話"}
+, 
+[23187] = {Title = "真正的春日活動", IconName = "ico_ev.bmp", 
+Description = {"伊伏請求找來其他活動委員雷斯和席特蓮娜，先去普隆德拉找<NAVI>[雷斯]<INFO>prontera,179,126,0,101,0</INFO></NAVI>吧。"}
+, Summary = "與雷斯對話"}
+, 
+[23188] = {Title = "真正的春日活動", IconName = "ico_ev.bmp", 
+Description = {"雷斯不想面對情人節被浪漫櫻花季取代，看來很難改變雷斯的想法，去普隆德拉說服<NAVI>[席特蓮娜]<INFO>prontera,245,161,0,101,0</INFO></NAVI>。"}
+, Summary = "與席特蓮娜對話"}
+, 
+[23189] = {Title = "真正的春日活動", IconName = "ico_ev.bmp", 
+Description = {"雖然原因有點奇怪，席特蓮娜決定參加浪漫櫻花季，去普隆德拉告訴<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>這個好消息吧。"}
+, Summary = "與伊伏對話"}
+, 
+[23190] = {Title = "真正的春日活動", IconName = "ico_ev.bmp", 
+Description = {"席特蓮娜能順利幫忙舉辦浪漫櫻花季嗎？去普隆德拉<NAVI>[席特蓮娜]<INFO>prontera,168,280,0,101,0</INFO></NAVI>，去看看進展吧。"}
+, Summary = "與席特蓮娜對話"}
+, 
+[23191] = {Title = "酸甜甜點的時代來臨", IconName = "ico_ev.bmp", 
+Description = {"雷斯得知席特蓮娜將參加浪漫春櫻季的消息後感到憤怒，但聽到席特蓮娜願意金援他的食譜實驗所需的所有材料後，似乎稍微平靜了下來，去找普隆德拉的<NAVI>[雷斯]<INFO>prontera,168,283,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與雷斯對話"}
+, 
+[23192] = {Title = "酸甜甜點的時代來臨", IconName = "ico_ev.bmp", 
+Description = {"雷斯似乎並未完全改變主意，但他不想錯過用別人的錢來實驗食譜的難得機會，與普隆德拉的<NAVI>[雷斯]<INFO>prontera,168,283,0,101,0</INFO></NAVI>再次對話。"}
+, Summary = "與雷斯對話"}
+, 
+[23193] = {Title = "因甜點凝聚的友情", IconName = "ico_ev.bmp", 
+Description = {"在進行實驗時，伊伏突然現身，但他看起來似乎不想打擾雷斯和席特蓮娜，於是默默離開了，前往普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>。"}
+, Summary = "與伊伏對話"}
+, 
+[23194] = {Title = "因甜點凝聚的友情", IconName = "ico_ev.bmp", 
+Description = {"伊伏內心好像很羨慕雷斯和席特蓮娜的友誼，他看起來有點沮喪，該如何安慰他呢？與普隆德拉的<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>再次對話。"}
+, Summary = "與伊伏對話"}
+, 
+[23195] = {Title = "幸福之蛋由朱諾開始", IconName = "ico_ev.bmp", 
+Description = {"在雷斯和席特蓮娜的友情出現危機時，感受到某處有黯然神傷的視線，前往普隆德拉北邊的<NAVI>[牆後]<INFO>prontera,184,309,0,101,0</INFO></NAVI>，查看視線來源。"}
+, Summary = "找到視線的來源"}
+, 
+[23196] = {Title = "幸福之蛋由朱諾開始", IconName = "ico_ev.bmp", 
+Description = {"亞瑟洛拉對於幸福之蛋被取消，且未能成為浪漫春櫻季的委員感到遺憾，與普隆德拉的<NAVI>[亞瑟洛拉]<INFO>prontera,184,309,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與亞瑟洛拉對話"}
+, 
+[23197] = {Title = "傳達心中的愛 -等待-", IconName = "ico_ev.bmp", 
+Description = {"前往普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>，參加浪漫櫻花季活動。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23198] = {Title = "傳達心中的愛", IconName = "ico_ev.bmp", 
+Description = {"伊伏在普隆德拉的各處放了花朵，選擇其中一種帶去就能製作成花束當作禮物，將想要的花朵摘齊後，返回普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>。"}
+, Summary = "在普隆德拉尋找花朵"}
+, 
+[23199] = {Title = "裝滿玫瑰了！", IconName = "ico_ev.bmp", 
+Description = {"花籃裝滿了玫瑰，帶著花籃去普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>，他會幫你製作美麗的花束。"}
+, Summary = ""}
+, 
+[23200] = {Title = "裝滿海葵花了！", IconName = "ico_ev.bmp", 
+Description = {"花籃裝滿了海葵花，帶著花籃去普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>，他會幫你製作美麗的花束。"}
+, Summary = ""}
+, 
+[23201] = {Title = "裝滿繡球花了！", IconName = "ico_ev.bmp", 
+Description = {"花籃裝滿了繡球花，帶著花籃去普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>，他會幫你製作美麗的花束。"}
+, Summary = ""}
+, 
+[23202] = {Title = "裝滿百合花了！", IconName = "ico_ev.bmp", 
+Description = {"花籃裝滿了百合花，帶著花籃去普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>，他會幫你製作美麗的花束。"}
+, Summary = ""}
+, 
+[23203] = {Title = "裝滿洋桔梗了！", IconName = "ico_ev.bmp", 
+Description = {"花籃裝滿了洋桔梗，帶著花籃去普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>，他會幫你製作美麗的花束。"}
+, Summary = ""}
+, 
+[23204] = {Title = "裝滿小蒼蘭了！", IconName = "ico_ev.bmp", 
+Description = {"花籃裝滿了小蒼蘭，帶著花籃去普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>，他會幫你製作美麗的花束。"}
+, Summary = ""}
+, 
+[23205] = {Title = "裝滿鬱金香了！", IconName = "ico_ev.bmp", 
+Description = {"花籃裝滿了鬱金香，帶著花籃去普隆德拉找<NAVI>[伊伏]<INFO>prontera,168,294,0,101,0</INFO></NAVI>，他會幫你製作美麗的花束。"}
+, Summary = ""}
+, 
+[23206] = {Title = "傳達了心中的愛意！", IconName = "ico_ev.bmp", 
+Description = {"第一次和伊伏一起做花束，明天該選擇什麼花呢？"}
+, Summary = ""}
+, 
+[23207] = {Title = "酸甜的平衡 -等待-", IconName = "ico_ev.bmp", 
+Description = {"普隆德拉的<NAVI>[雷斯]<INFO>prontera,168,283,0,101,0</INFO></NAVI>似乎要花一整天來挽救失敗的食譜，明天再來和他一起研究食譜吧。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23208] = {Title = "酸甜的平衡", IconName = "ico_ev.bmp", 
+Description = {"雷斯正在進行實驗，他請你幫忙找擺盤所需的材料，拿3個綠色藥草給<NAVI>[雷斯]<INFO>prontera,168,283,0,101,0</INFO></NAVI>。"}
+, Summary = "綠色藥草 3個"}
+, 
+[23209] = {Title = "酸甜的平衡", IconName = "ico_ev.bmp", 
+Description = {"雷斯還需要一些材料，2個草莓、1個柳橙、5株藍色草藥、10根紅蘿蔔中選擇一種，然後帶去給在普隆德拉的<NAVI>[雷斯]<INFO>prontera,168,283,0,101,0</INFO></NAVI>。"}
+, Summary = "尋找雷斯所需的材料"}
+, 
+[23210] = {Title = "酸甜哈密瓜的正統繼承人出現！ -等待-", IconName = "ico_ev.bmp", 
+Description = {"席特蓮娜專注於哈密瓜的栽培，如果你想幫助她，明天再次前往普隆德拉找<NAVI>[席特蓮娜]<INFO>prontera,168,280,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23211] = {Title = "酸甜哈密瓜的正統繼承人出現！", IconName = "ico_ev.bmp", 
+Description = {"和席特蓮娜一起聽音樂，試著感受哈密瓜的心情...應該吧？"}
+, Summary = ""}
+, 
+[23212] = {Title = "酸甜哈密瓜的正統繼承人出現！", IconName = "ico_ev.bmp", 
+Description = {"席特蓮娜栽培哈密瓜的過程中遇到困難，她認為哈密瓜生長不良是因為音樂影響的緣故...？與普隆德拉的<NAVI>[席特蓮娜]<INFO>prontera,168,280,0,101,0</INFO></NAVI>一起感受哈密瓜的心情吧。"}
+, Summary = "與席特蓮娜對話"}
+, 
+[23213] = {Title = "席特蓮娜電台", IconName = "ico_ev.bmp", 
+Description = {"收聽音樂中！若中途離開，將重新開始！", "-種植哈密瓜並取得重大突破的普隆德拉天才<NAVI>[席特蓮娜]<INFO>prontera,168,280,0,101,0</INFO></NAVI>-"}
+, Summary = ""}
+, 
+[23214] = {Title = "演算法魔法販賣機 -等待-", IconName = "ico_ev.bmp", 
+Description = {"亞瑟洛拉正在努力修正魔法販賣機的演算法，想幫忙測試的話，明天去普隆德拉找<NAVI>[亞瑟洛拉]<INFO>prontera,184,309,0,101,0</INFO></NAVI>。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23215] = {Title = "演算法魔法販賣機", IconName = "ico_ev.bmp", 
+Description = {"幫助亞瑟洛拉測試了魔法販賣機，但不是很懂，看來魔法販賣機比想像中複雜..."}
+, Summary = ""}
+, 
+[23216] = {Title = "演算法魔法販賣機", IconName = "ico_ev.bmp", 
+Description = {"亞瑟洛拉請求測試他昨晚修改的魔法販賣機演算法內容，魔法販賣機就在普隆德拉亞瑟洛拉的旁邊，進入管理員模式，測試一下<NAVI>[魔法販賣機]<INFO>prontera,184,309,0,101,0</INFO></NAVI>。"}
+, Summary = "魔法販賣機測試"}
+, 
+[23217] = {Title = "演算法魔法販賣機", IconName = "ico_ev.bmp", 
+Description = {"完成了魔法販賣機的測試，去普隆德拉找<NAVI>[亞瑟洛拉]<INFO>prontera,184,309,0,101,0</INFO></NAVI>回報結果。"}
+, Summary = "與亞瑟洛拉對話"}
+, 
+[23218] = {Title = "無止盡的哈密波利改良之路", IconName = "ico_ev.bmp", 
+Description = {"和席特蓮娜一起走上酸甜哈密瓜的品種改良之路吧！"}
+, Summary = ""}
+, 
+[23219] = {Title = "無止盡的哈密波利改良之路 -植物型篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv50以上的植物型怪物100隻。"}
+, Summary = ""}
+, 
+[23220] = {Title = "無止盡的哈密波利改良之路 -植物型篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv100以上的植物型怪物100隻。"}
+, Summary = ""}
+, 
+[23221] = {Title = "無止盡的哈密波利改良之路 -植物型篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv150以上的植物型怪物100隻。"}
+, Summary = ""}
+, 
+[23222] = {Title = "無止盡的哈密波利改良之路 -植物型篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv200以上的植物型怪物100隻。"}
+, Summary = ""}
+, 
+[23223] = {Title = "無止盡的哈密波利改良之路 -小型篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI> 改良研究數據，狩獵Lv50以上的小型怪物100隻。"}
+, Summary = ""}
+, 
+[23224] = {Title = "無止盡的哈密波利改良之路 -小型篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv100以上的小型怪物100隻。"}
+, Summary = ""}
+, 
+[23225] = {Title = "無止盡的哈密波利改良之路 -小型篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv150以上的小型怪物100隻。"}
+, Summary = ""}
+, 
+[23226] = {Title = "無止盡的哈密波利改良之路 -小型篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv200以上的小型怪物100隻。"}
+, Summary = ""}
+, 
+[23227] = {Title = "無止盡的哈密波利改良之路 -地屬性篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv50以上的地屬性怪物100隻。"}
+, Summary = ""}
+, 
+[23228] = {Title = "無止盡的哈密波利改良之路 -地屬性篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv100以上的地屬性怪物100隻。"}
+, Summary = ""}
+, 
+[23229] = {Title = "無止盡的哈密波利改良之路 -地屬性篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv150以上的地屬性怪物100隻。"}
+, Summary = ""}
+, 
+[23230] = {Title = "無止盡的哈密波利改良之路 -地屬性篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵Lv200以上的地屬性怪物100隻。"}
+, Summary = ""}
+, 
+[23231] = {Title = "無止盡的哈密波利改良之路 -噬人花篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究的數據，狩獵噬人花20隻。"}
+, Summary = ""}
+, 
+[23232] = {Title = "無止盡的哈密波利改良之路 -南瓜魂篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI> 改良研究的數據，狩獵南瓜魂20隻。"}
+, Summary = ""}
+, 
+[23233] = {Title = "無止盡的哈密波利改良之路 -飼養場篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI> 改良研究的數據，狩獵在<NAVI>[飼養場-失落的山谷]<INFO>ba_lost,162,41,0,101,0</INFO></NAVI>的怪物20隻。"}
+, Summary = ""}
+, 
+[23234] = {Title = "無止盡的哈密波利改良之路 -魯杜斯篇-", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究的數據，狩獵在<NAVI>[實驗體廢棄場魯杜斯四樓]<INFO>sp_rudus4,254,41,0,101,0</INFO></NAVI>的怪物20隻。"}
+, Summary = ""}
+, 
+[23235] = {Title = "無止盡的哈密波利改良之路-屬性篇-等待-", IconName = "ico_ev.bmp", 
+Description = {"協助進行改良<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>的研究，若明天仍想繼續協助，請於凌晨四點後再次尋找哈密波利。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23236] = {Title = "無止盡的哈密波利改良之路-魔物篇-等待-", IconName = "ico_ev.bmp", 
+Description = {"協助進行改良<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>的研究，若明天仍想繼續協助，請於凌晨四點後再次尋找哈密波利。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[23237] = {Title = "帶點甜味也沒關係", IconName = "ico_ev.bmp", 
+Description = {"哈密波利稍微變甜也沒關係？"}
+, Summary = ""}
+, 
+[23238] = {Title = "帶點甜味也沒關係", IconName = "ico_ev.bmp", 
+Description = {"為了收集普隆德拉<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>改良研究數據，狩獵10隻蜜糖土波利。"}
+, Summary = ""}
+, 
+[23239] = {Title = "帶點甜味也沒關係 -等待-", IconName = "ico_ev.bmp", 
+Description = {"協助進行<NAVI>[哈密波利]<INFO>prontera,171,278,0,101,0</INFO></NAVI>的改良研究，若明天仍想繼續協助，請於凌晨四點後再次尋找哈密波利。"}
+, Summary = "凌晨四點重置", CoolTimeQuest = 1}
+, 
+[3507] = {Title = "幻影調查團世新", 
+Description = {"與幻影調查團<NAVI>[世新]<INFO>ant_d02_i,167,184,0,101,0</INFO></NAVI>對話。"}
+, Summary = "與世新對話"}
+, 
+[3508] = {Title = "擊殺孿生幻影100隻", IconName = "ico_dq.bmp", 
+Description = {"在<NAVI>[幻影螞蟻地獄]<INFO>ant_d02_i,166,170,0,101,0</INFO></NAVI>擊殺任何種類魔物100隻。"}
+, Summary = "擊殺魔物100隻"}
+, 
+[3509] = {Title = "擊殺孿生幻影100隻 – 等待", IconName = "ico_dq.bmp", 
+Description = {"該任務為每日任務，可於等待時間結束後再次接取。可透過<NAVI>[世新]<INFO>ant_d02_i,167,184,0,101,0</INFO></NAVI>接取任務。"}
+, Summary = "04點重置", CoolTimeQuest = 1}
 }
 

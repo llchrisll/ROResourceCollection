@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	<desc>philippine Indoor Server</desc>
+	<servicetype>philippine</servicetype>
+	<servertype>local</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+	<readfolder></readfolder> 
+	<connection>
+		<display>MyServer</display>
+		<desc>None</desc>
+		<address>192.168.5.64</address>
+		<port>6900</port>
+		<version>1</version>
+		<registrationweb>https://member.gnjoy.com.tw/signin.aspx</registrationweb>
+		<aid>
+			<admin>23769057</admin>
+		</aid>
+	</connection>
+</clientinfo>
+

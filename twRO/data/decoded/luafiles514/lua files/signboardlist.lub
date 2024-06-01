@@ -8,57 +8,55 @@ IT_BMP = 1
 IT_SPRITE = 2
 IT_SIGNBOARD = 3
 SignBoardList = {
-{"Default", 157, 278, 0, IT_BMP, "information\\over_kafra.bmp", "伊甸園傳送師", "#0x009EBDFF"}
+{"Default", 157, 278, 0, IT_BMP, "collection\\粒陛雖.bmp", "殮溘寰ж樟蝗棲棻", "#0x009EBDFF"}
 , 
-{"prontera", 82, 108, 0, IT_BMP, "information\\over_mkect.bmp"}
+{"prontera", 124, 76, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"prontera", 124, 76, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"moc_ruins", 68, 164, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"moc_ruins", 68, 164, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"geffen", 132, 66, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"geffen", 132, 66, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"alberta", 124, 67, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"alberta", 124, 67, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"aldebaran", 133, 119, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"aldebaran", 133, 119, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"payon", 177, 111, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"payon", 177, 111, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"morocc", 161, 97, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "   Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"morocc", 161, 97, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"izlude", 131, 148, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"izlude", 131, 148, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"umbala", 105, 158, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"umbala", 105, 158, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"comodo", 202, 151, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"comodo", 202, 151, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"yuno", 144, 189, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"yuno", 144, 189, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"hugel", 93, 153, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"hugel", 93, 153, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"einbroch", 250, 211, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"einbroch", 250, 211, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"lighthalzen", 164, 86, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"lighthalzen", 164, 86, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"rachel", 125, 144, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"rachel", 125, 144, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"veins", 220, 109, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"veins", 220, 109, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"amatsu", 100, 145, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"amatsu", 100, 145, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"ayothaya", 221, 191, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"ayothaya", 221, 191, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"louyang", 224, 107, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"louyang", 224, 107, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"gonryun", 162, 122, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"gonryun", 162, 122, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"moscovia", 209, 197, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"moscovia", 209, 197, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"brasilis", 191, 224, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"brasilis", 191, 224, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"dewata", 192, 193, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"dewata", 192, 193, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
-, 
-{"malaya", 225, 218, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "伊甸園傳送師", "#0x00FFFFFF"}
+{"malaya", 225, 218, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
 {"alberta", 113, 60, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
@@ -156,6 +154,8 @@ SignBoardList = {
 , 
 {"dewata", 202, 184, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
+{"dewata", 182, 164, 0, IT_BMP, "information\\over_store.bmp"}
+, 
 {"dic_in01", 254, 119, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
 {"dicastes01", 189, 191, 0, IT_BMP, "information\\over_guide.bmp"}
@@ -212,8 +212,6 @@ SignBoardList = {
 , 
 {"geffen_in", 77, 167, 0, IT_BMP, "information\\over_store.bmp"}
 , 
-{"geffen_in", 171, 123, 0, IT_BMP, "information\\over_store.bmp"}
-, 
 {"gonryun", 147, 84, 0, IT_BMP, "information\\over_store.bmp"}
 , 
 {"gonryun", 159, 122, 0, IT_BMP, "information\\over_kafra.bmp"}
@@ -231,6 +229,8 @@ SignBoardList = {
 {"hugel", 88, 168, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
 {"hugel", 98, 56, 0, IT_BMP, "information\\over_guide.bmp"}
+, 
+{"hu_in01", 241, 368, 0, IT_BMP, "嶸盪檣攪む檜蝶\\information\\over_store.bmp"}
 , 
 {"izlude", 120, 207, 0, IT_BMP, "information\\over_guide.bmp"}
 , 
@@ -277,14 +277,6 @@ SignBoardList = {
 {"izlude_in", 60, 127, 0, IT_BMP, "information\\over_weaponshop.bmp"}
 , 
 {"izlude_in", 70, 127, 0, IT_BMP, "information\\over_armorshops.bmp"}
-, 
-{"lasagna", 134, 113, 0, IT_BMP, "information\\over_style.bmp"}
-, 
-{"lasagna", 165, 125, 0, IT_BMP, "information\\over_store.bmp"}
-, 
-{"lasagna", 174, 160, 0, IT_BMP, "information\\over_guide.bmp"}
-, 
-{"lasagna", 208, 188, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
 {"lhz_in02", 100, 143, 0, IT_BMP, "information\\over_style.bmp"}
 , 
@@ -338,6 +330,8 @@ SignBoardList = {
 , 
 {"malangdo", 224, 172, 0, IT_BMP, "information\\over_smithy.bmp"}
 , 
+{"malangdo", 232, 163, 0, IT_BMP, "information\\over_store.bmp"}
+, 
 {"malaya", 224, 204, 0, IT_BMP, "information\\over_guide.bmp"}
 , 
 {"malaya", 234, 204, 0, IT_BMP, "information\\over_kafra.bmp"}
@@ -347,6 +341,8 @@ SignBoardList = {
 {"malaya", 71, 72, 0, IT_BMP, "information\\over_guide.bmp"}
 , 
 {"malaya", 71, 79, 0, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"ma_in01", 22, 23, 0, IT_BMP, "information\\over_store.bmp"}
 , 
 {"morocc", 146, 103, 0, IT_BMP, "information\\over_store.bmp"}
 , 
@@ -414,8 +410,6 @@ SignBoardList = {
 , 
 {"niflheim", 202, 180, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
-{"nif_in", 37, 94, 0, IT_BMP, "information\\over_weaponshop.bmp"}
-, 
 {"pay_arche", 55, 123, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
 {"pay_arche", 86, 33, 0, IT_BMP, "information\\over_guide.bmp"}
@@ -470,8 +464,6 @@ SignBoardList = {
 , 
 {"prontera", 29, 207, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
-{"prontera", 189, 192, 0, IT_BMP, "information\\over_smithy.bmp"}
-, 
 {"prt_in", 126, 76, 0, IT_BMP, "information\\over_store.bmp"}
 , 
 {"prt_in", 165, 140, 0, IT_BMP, "information\\over_weaponshop.bmp"}
@@ -491,8 +483,6 @@ SignBoardList = {
 {"prt_in", 63, 60, 0, IT_BMP, "information\\over_smithy.bmp"}
 , 
 {"prt_in", 90, 72, 0, IT_BMP, "information\\over_smithy.bmp"}
-, 
-{"prt_in", 27, 73, 0, IT_BMP, "information\\over_smithy.bmp"}
 , 
 {"ra_in01", 175, 364, 0, IT_BMP, "information\\over_armorshops.bmp"}
 , 
@@ -590,494 +580,158 @@ SignBoardList = {
 , 
 {"prt_monk", 135, 263, 0, IT_BMP, "information\\over_weaponshop.bmp"}
 , 
-{"harboro1", 291, 207, 0, IT_BMP, "information\\over_kafra.bmp"}
+{"dali", 109, 94, 0, IT_BMP, "嶸盪檣攪む檜蝶\\information\\over_store.bmp"}
 , 
-{"harboro1", 156, 215, 0, IT_BMP, "information\\over_inn.bmp"}
+{"moro_vol", 95, 96, 0, IT_BMP, "嶸盪檣攪む檜蝶\\information\\over_store.bmp"}
 , 
-{"harboro1", 356, 211, 0, IT_BMP, "information\\over_guide.bmp"}
+{"verus04", 144, 239, 0, IT_BMP, "嶸盪檣攪む檜蝶\\information\\over_store.bmp"}
 , 
-{"harboro1", 80, 211, 0, IT_BMP, "information\\over_guide.bmp"}
+{"mosk_in", 21, 254, 0, IT_BMP, "嶸盪檣攪む檜蝶\\information\\over_store.bmp"}
 , 
-{"har_in01", 34, 84, 0, IT_BMP, "information\\over_store.bmp"}
+{"itemmall", 19, 74, 0, IT_BMP, "information\\over_style.bmp"}
 , 
-{"har_in01", 19, 86, 0, IT_BMP, "information\\over_weaponshop.bmp"}
+{"itemmall", 24, 77, 0, IT_BMP, "information\\over_smithy.bmp"}
 , 
-{"har_in01", 16, 86, 0, IT_BMP, "information\\over_armorshops.bmp"}
+{"dewata", 218, 164, 0, IT_BMP, "information\\over_weaponshop.bmp"}
 , 
-{"alberta", 189, 151, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "搭客輪", "#0x00FFFFFF"}
+{"dewata", 158, 182, 0, IT_BMP, "information\\over_armorshops.bmp"}
 , 
-{"alb2trea", 39, 50, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"hu_in01", 100, 390, 0, IT_BMP, "information\\over_weaponshop.bmp"}
 , 
-{"alberta", 195, 151, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往失事輪", "#0x00FFFFFF"}
+{"hu_in01", 93, 390, 0, IT_BMP, "information\\over_weaponshop.bmp"}
 , 
-{"cmd_fild07", 299, 83, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "搭客輪", "#0x00FFFFFF"}
+{"hu_in01", 94, 313, 0, IT_BMP, "information\\over_armorshops.bmp"}
 , 
-{"cmd_fild07", 94, 134, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "搭客輪", "#0x00FFFFFF"}
+{"hu_in01", 252, 368, 0, IT_BMP, "information\\over_store.bmp"}
 , 
-{"izlude", 197, 205, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "搭客輪", "#0x00FFFFFF"}
+{"ma_in01", 73, 22, 0, IT_BMP, "information\\over_weaponshop.bmp"}
 , 
-{"izlu2dun", 108, 27, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往依斯魯得島", "#0x00FFFFFF"}
+{"ma_in01", 67, 13, 0, IT_BMP, "information\\over_armorshops.bmp"}
 , 
-{"izlude", 180, 224, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往爪哇", "#0x00FFFFFF"}
+{"mosk_in", 31, 180, 0, IT_BMP, "information\\over_weaponshop.bmp"}
 , 
-{"jawaii", 122, 263, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"nif_in", 37, 93, 0, IT_BMP, "information\\over_weaponshop.bmp"}
 , 
-{"jawaii", 239, 112, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往依斯魯得島", "#0x00FFFFFF"}
+{"cmd_fild07", 136, 134, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
-{"aldebaran", 168, 168, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往薑餅城", "#0x00FFFFFF"}
+{"turbo_room", 130, 92, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
-{"hugel", 209, 109, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往奧丁神殿", "#0x00FFFFFF"}
+{"hero_lb", 128, 151, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
-{"odin_tem01", 93, 146, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往毀葛", "#0x00FFFFFF"}
+{"lhz_in02", 237, 284, 0, IT_BMP, "information\\over_kafra.bmp"}
 , 
-{"alberta", 246, 40, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往龍之城", "#0x00FFFFFF"}
+{"alberta", 189, 151, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"lou_fild01", 190, 101, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"alb2trea", 39, 50, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"alberta", 246, 74, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往天津町", "#0x00FFFFFF"}
+{"alberta", 195, 151, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Sunken Ship", "#0x00FFFFFF"}
 , 
-{"amatsu", 194, 79, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"cmd_fild07", 299, 83, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"alberta", 246, 29, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往哎喲泰雅", "#0x00FFFFFF"}
+{"cmd_fild07", 94, 134, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"ayothaya", 152, 68, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"izlude", 197, 205, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"alberta", 246, 82, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往巴西", "#0x00FFFFFF"}
+{"izlu2dun", 108, 27, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Izlude", "#0x00FFFFFF"}
 , 
-{"brasilis", 316, 57, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"izlude", 180, 224, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Jawaii", "#0x00FFFFFF"}
 , 
-{"alberta", 246, 62, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往崑崙", "#0x00FFFFFF"}
+{"jawaii", 122, 263, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"gon_fild01", 255, 79, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"jawaii", 239, 112, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Izlude", "#0x00FFFFFF"}
 , 
-{"alberta", 196, 202, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往馬來港", "#0x00FFFFFF"}
+{"aldebaran", 168, 168, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Lutie", "#0x00FFFFFF"}
 , 
-{"malaya", 276, 55, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"hugel", 209, 109, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Odin Temple", "#0x00FFFFFF"}
 , 
-{"alberta", 212, 202, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往德瓦他", "#0x00FFFFFF"}
+{"odin_tem01", 93, 146, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Hugel", "#0x00FFFFFF"}
 , 
-{"dewata", 229, 49, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"alberta", 246, 40, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Louyang", "#0x00FFFFFF"}
 , 
-{"alberta", 246, 51, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往莫斯科", "#0x00FFFFFF"}
+{"lou_fild01", 190, 101, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"moscovia", 166, 53, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"alberta", 246, 74, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Amatsu", "#0x00FFFFFF"}
 , 
-{"alberta", 240, 103, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往洛克理奇岩嶺 ", "#0x00FFFFFF"}
+{"amatsu", 194, 79, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"harboro1", 60, 215, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"alberta", 246, 29, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Ayothaya", "#0x00FFFFFF"}
 , 
-{"alberta", 244, 118, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往龜島", "#0x00FFFFFF"}
+{"ayothaya", 152, 68, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"tur_dun01", 165, 29, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往艾爾貝塔", "#0x00FFFFFF"}
+{"alberta", 246, 82, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Brasilis", "#0x00FFFFFF"}
 , 
-{"lasagna", 205, 325, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "搭客輪", "#0x00FFFFFF"}
+{"brasilis", 316, 57, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"izlude", 195, 213, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往羅札納", "#0x00FFFFFF"}
+{"alberta", 246, 62, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Gonryun", "#0x00FFFFFF"}
 , 
-{"malangdo", 218, 81, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往羅札納", "#0x00FFFFFF"}
+{"gon_fild01", 255, 79, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"izlude", 182, 218, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往綿綿島", "#0x00FFFFFF"}
+{"alberta", 196, 202, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Port Malaya", "#0x00FFFFFF"}
 , 
-{"alberta", 200, 151, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "開往綿綿島", "#0x00FFFFFF"}
+{"malaya", 276, 55, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"malangdo", 219, 86, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "搭客輪", "#0x00FFFFFF"}
+{"alberta", 212, 202, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Dewata", "#0x00FFFFFF"}
 , 
-{"prontera", 150, 191, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"dewata", 229, 49, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"payon", 178, 106, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"alberta", 246, 51, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Moscovia", "#0x00FFFFFF"}
 , 
-{"geffen", 128, 68, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"moscovia", 166, 53, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"aldebaran", 146, 122, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"harboro1", 60, 215, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"morocc", 168, 107, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"alberta", 244, 118, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Turtle Island", "#0x00FFFFFF"}
 , 
-{"umbala", 106, 160, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"tur_dun01", 165, 29, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Alberta", "#0x00FFFFFF"}
 , 
-{"comodo", 204, 153, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude", 182, 218, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Malangdo", "#0x00FFFFFF"}
 , 
-{"izlude", 133, 149, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"alberta", 200, 151, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Malangdo", "#0x00FFFFFF"}
 , 
-{"alberta", 114, 65, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"malangdo", 219, 86, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"xmas", 155, 140, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_a", 131, 148, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"niflheim", 200, 184, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_a", 197, 205, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"yuno", 176, 187, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_a", 180, 224, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Jawaii", "#0x00FFFFFF"}
 , 
-{"hugel", 91, 158, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_a", 182, 218, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Malangdo", "#0x00FFFFFF"}
 , 
-{"lighthalzen", 162, 102, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_b", 131, 148, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"einbroch", 238, 203, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_b", 197, 205, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"einbech", 182, 124, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_b", 180, 224, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Jawaii", "#0x00FFFFFF"}
 , 
-{"rachel", 123, 145, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_b", 182, 218, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Malangdo", "#0x00FFFFFF"}
 , 
-{"veins", 205, 130, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_c", 131, 148, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"louyang", 210, 111, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_c", 197, 205, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"brasilis", 204, 227, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_c", 180, 224, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Jawaii", "#0x00FFFFFF"}
 , 
-{"amatsu", 100, 156, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_c", 182, 218, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Malangdo", "#0x00FFFFFF"}
 , 
-{"gonryun", 164, 127, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_d", 131, 148, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "  Eden Group Teleport Service", "#0x00FFFFFF"}
 , 
-{"moscovia", 211, 200, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_d", 197, 205, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry Service", "#0x00FFFFFF"}
 , 
-{"ayothaya", 203, 173, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_d", 180, 224, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Jawaii", "#0x00FFFFFF"}
 , 
-{"dewata", 196, 193, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"izlude_d", 182, 218, 10, IT_SIGNBOARD, "item\\ship_ticket.bmp", "  Ferry to Malangdo", "#0x00FFFFFF"}
 , 
-{"malaya", 238, 206, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"prt_in", 33, 114, 10, IT_SIGNBOARD, "clan_system\\clan_emblem01.bmp", "  Sword Clan", "#0x00FFFFFF"}
 , 
-{"harboro1", 288, 212, 0, IT_BMP, "information\\over_gldstg.bmp"}
+{"prt_in", 35, 114, 10, IT_SIGNBOARD, "clan_system\\clan_emblem02.bmp", "  Arc Wand Clan", "#0x00FFFFFF"}
 , 
-{"prt_in", 33, 114, 10, IT_SIGNBOARD, "clan_system\\clan_emblem01.bmp", "刀劍代表公會", "#0x00FFFFFF"}
+{"prt_in", 37, 114, 10, IT_SIGNBOARD, "clan_system\\clan_emblem03.bmp", "  Golden Mace Clan", "#0x00FFFFFF"}
 , 
-{"prt_in", 35, 114, 10, IT_SIGNBOARD, "clan_system\\clan_emblem02.bmp", "言靈魔杖代表公會", "#0x00FFFFFF"}
+{"prt_in", 39, 114, 10, IT_SIGNBOARD, "clan_system\\clan_emblem04.bmp", "  Crossbow Clan", "#0x00FFFFFF"}
 , 
-{"prt_in", 37, 114, 10, IT_SIGNBOARD, "clan_system\\clan_emblem03.bmp", "黃金之錘代表公會", "#0x00FFFFFF"}
+{"prt_church", 97, 100, 10, IT_SIGNBOARD, "item\\wedding.bmp", "  Marriage Register", "#0x00FFFFFF"}
 , 
-{"prt_in", 39, 114, 10, IT_SIGNBOARD, "clan_system\\clan_emblem04.bmp", "十字弓代表公會", "#0x00FFFFFF"}
-, 
-{"prontera", 32, 325, 10, IT_SIGNBOARD, "clan_system\\clan_emblem01.bmp", "刀劍代表公會", "#0x00FFFFFF"}
-, 
-{"prontera", 47, 112, 10, IT_SIGNBOARD, "clan_system\\clan_emblem02.bmp", "言靈魔杖代表公會", "#0x00FFFFFF"}
-, 
-{"prontera", 226, 355, 10, IT_SIGNBOARD, "clan_system\\clan_emblem03.bmp", "黃金之錘代表公會", "#0x00FFFFFF"}
-, 
-{"prontera", 204, 259, 10, IT_SIGNBOARD, "clan_system\\clan_emblem04.bmp", "十字弓代表公會", "#0x00FFFFFF"}
-, 
-{"prt_church", 97, 100, 10, IT_SIGNBOARD, "item\\wedding.bmp", "結婚申請", "#0x00FFFFFF"}
-, 
-{"lasagna", 335, 248, 10, IT_SIGNBOARD, "item\\wedding.bmp", "結婚申請", "#0x00FFFFFF"}
-, 
-{"lasagna", 100, 200, 10, IT_SIGNBOARD, "item\\inde_permit.bmp", "獨立幫手", "#0x00FFFFFF"}
-, 
-{"prt_in", 285, 169, 0, IT_BMP, "information\\over_nmtrade.bmp"}
-, 
-{"prt_in", 162, 135, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"izlude_in", 73, 103, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"morocc_in", 128, 66, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"geffen_in", 22, 167, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"alberta_in", 177, 23, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"payon_in01", 8, 132, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"in_hunter", 104, 108, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"aldeba_in", 37, 47, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"xmas_in", 169, 93, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"cmd_in01", 117, 173, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"um_in", 158, 127, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"yuno_in01", 99, 26, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"hu_in01", 99, 383, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"lhz_in02", 268, 92, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"ein_in01", 95, 22, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"ra_in01", 169, 363, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"ve_in", 349, 243, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"ama_in01", 100, 17, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"gonryun", 175, 95, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"lou_in02", 134, 176, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"ayo_in01", 77, 161, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"brasilis", 252, 247, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"ma_in01", 69, 21, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"dewata", 223, 167, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"mosk_in", 24, 173, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"har_in01", 32, 81, 0, IT_BMP, "information\\over_arrow.bmp"}
-, 
-{"prt_in", 162, 137, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"izlude_in", 73, 105, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"morocc_in", 128, 68, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"geffen_in", 22, 169, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"alberta_in", 177, 25, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"payon_in01", 10, 132, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"aldeba_in", 37, 49, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"xmas_in", 171, 93, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"cmd_in01", 119, 173, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"um_in", 156, 127, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"yuno_in01", 99, 24, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"hu_in01", 95, 383, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"lhz_in02", 266, 92, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"ein_in01", 95, 24, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"ra_in01", 169, 365, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"ve_in", 351, 243, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"ama_in01", 100, 19, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"gonryun", 175, 97, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"lou_in02", 134, 178, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"ayo_in01", 77, 163, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"brasilis", 252, 249, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"ma_in01", 67, 21, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"dewata", 223, 169, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"mosk_in", 26, 174, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"har_in01", 32, 79, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"que_ng", 180, 79, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"job_gun", 220, 138, 0, IT_BMP, "information\\over_bullet.bmp"}
-, 
-{"prt_in", 162, 139, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"izlude_in", 73, 101, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"morocc_in", 128, 70, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"geffen_in", 22, 165, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"alberta_in", 177, 27, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"payon_in01", 12, 132, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"aldeba_in", 37, 45, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"xmas_in", 173, 93, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"cmd_in01", 115, 173, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"yuno_in01", 99, 22, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"ama_in01", 100, 21, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"gonryun", 175, 99, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"um_in", 154, 127, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"lou_in02", 134, 180, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"ayo_in01", 77, 165, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"ein_in01", 95, 20, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"lhz_in02", 264, 92, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"ra_in01", 169, 367, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"ve_in", 353, 243, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"brasilis", 252, 251, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"hu_in01", 93, 383, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"ma_in01", 65, 21, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"dewata", 223, 171, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"mosk_in", 22, 172, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"har_in01", 32, 77, 0, IT_BMP, "information\\over_kunai.bmp"}
-, 
-{"prt_in", 162, 141, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"izlude_in", 73, 99, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"morocc_in", 128, 72, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"geffen_in", 22, 163, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"alberta_in", 177, 29, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"payon_in01", 14, 132, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"aldeba_in", 37, 43, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"xmas_in", 175, 93, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"cmd_in01", 113, 173, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"um_in", 152, 127, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"yuno_in01", 99, 20, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"hu_in01", 101, 383, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"lhz_in02", 262, 92, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"ein_in01", 95, 18, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"ra_in01", 169, 361, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"ve_in", 355, 243, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"ama_in01", 100, 23, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"gonryun", 175, 93, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"lou_in02", 134, 174, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"ayo_in01", 77, 159, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"brasilis", 252, 253, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"ma_in01", 71, 21, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"dewata", 223, 173, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"mosk_in", 20, 172, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"har_in01", 32, 83, 0, IT_BMP, "information\\over_madogear.bmp"}
-, 
-{"ein_dun02", 16, 250, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "未滿180Lv禁止進入。", "#0x00FFFFFF"}
-, 
-{"odin_tem03", 276, 236, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "未滿180Lv禁止進入。", "#0x00FFFFFF"}
-, 
-{"abyss_03", 91, 110, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "未滿190Lv禁止進入。", "#0x00FFFFFF"}
-, 
-{"airplane_01", 243, 73, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "飛空艇出口", "#0x00FFFFFF"}
-, 
-{"airplane_01", 243, 30, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "飛空艇出口", "#0x00FFFFFF"}
-, 
-{"izlude", 202, 75, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "朱諾-拉赫航線", "#0x00FFFFFF"}
-, 
-{"ra_fild12", 295, 208, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  朱諾-依斯魯得島航線", "#0x00FFFFFF"}
-, 
-{"y_airport", 148, 46, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  依斯魯得島-拉赫航線", "#0x00FFFFFF"}
-, 
-{"y_airport", 158, 46, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  依斯魯得島-拉赫航線", "#0x00FFFFFF"}
-, 
-{"airplane", 243, 73, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "飛空艇出口", "#0x00FFFFFF"}
-, 
-{"airplane", 243, 30, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "飛空艇出口", "#0x00FFFFFF"}
-, 
-{"y_airport", 128, 46, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
-, 
-{"y_airport", 138, 46, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
-, 
-{"hugel", 186, 147, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
-, 
-{"airport", 148, 46, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
-, 
-{"airport", 138, 46, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
-, 
-{"lhz_airport", 148, 43, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
-, 
-{"lhz_airport", 138, 43, 0, IT_SIGNBOARD, "information\\over_valkyrie_air.bmp", "  秀發茲發德國內線", "#0x00FFFFFF"}
-, 
-{"prontera", 50, 293, 10, IT_SIGNBOARD, "information\\ebl_manus.bmp", " 等級強化所", "#0x00FFFFFF"}
-, 
-{"moc_para01", 105, 41, 10, IT_SIGNBOARD, "information\\over_nmtrade.bmp", "伊甸園市集", "#0x00FFFFFF"}
-, 
-{"memohall", 82, 89, 0, IT_BMP, "information\\over_kafra.bmp"}
-, 
-{"moc_para01", 110, 79, 10, IT_SIGNBOARD, "item\\C_Popping_Poring_Aura.bmp", "支援基本裝備", "#0x00FFFFFF"}
-, 
-{"moc_para01", 110, 83, 10, IT_SIGNBOARD, "item\\t_sword_of_kingdom.bmp", "支援高級裝備", "#0x00FFFFFF"}
-, 
-{"moc_para01", 110, 87, 10, IT_SIGNBOARD, "item\\md_geffen_shield.bmp", "支援高級防具", "#0x00FFFFFF"}
-, 
-{"moc_para01", 110, 91, 10, IT_SIGNBOARD, "item\\suffragium.bmp", "租賃影子裝備", "#0x00FFFFFF"}
-, 
-{"prt_in", 162, 133, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"izlude_in", 72, 106, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"morocc_in", 128, 64, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"geffen_in", 22, 161, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"alberta_in", 177, 21, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"payon_in01", 6, 132, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"aldeba_in", 35, 50, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"xmas_in", 167, 93, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"cmd_in01", 112, 174, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"um_in", 150, 127, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"yuno_in01", 99, 18, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"hu_in01", 91, 383, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"lhz_in02", 270, 92, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"ein_in01", 95, 26, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"ra_in01", 169, 359, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"ve_in", 347, 243, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"ama_in01", 100, 25, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"gonryun", 175, 91, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"lou_in02", 134, 172, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"ayo_in01", 77, 157, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"brasilis", 252, 245, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"ma_in01", 63, 19, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"dewata", 223, 165, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"mosk_in", 18, 174, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"har_in01", 30, 84, 0, IT_BMP, "group\\group_12.bmp"}
-, 
-{"ba_in01", 310, 38, 0, IT_SIGNBOARD, "item\\wl_frostmisty.bmp", "標本環境–冰凍", "#0x00FFFFFF"}
-, 
-{"ba_in01", 311, 56, 0, IT_SIGNBOARD, "item\\gs_grounddrift.bmp", "標本環境–火燄", "#0x00FFFFFF"}
-, 
-{"ba_in01", 325, 56, 0, IT_SIGNBOARD, "item\\sg_star_bless.bmp", "標本環境–草原", "#0x00FFFFFF"}
-, 
-{"ba_in01", 339, 56, 0, IT_SIGNBOARD, "item\\rl_banishing_buster.bmp", "標本環境–死靈", "#0x00FFFFFF"}
-, 
-{"ba_in01", 229, 302, 0, IT_SIGNBOARD, "item\\ab_eucharistica.bmp", "標本環境 - 聖殿", "#0x00FFFFFF"}
-, 
-{"ba_in01", 215, 302, 0, IT_SIGNBOARD, "item\\gc_researchnewpoison.bmp", "標本環境 - 劇毒", "#0x00FFFFFF"}
-, 
-{"ba_in01", 201, 302, 0, IT_SIGNBOARD, "item\\pf_soulburn.bmp", "標本環境 - 靈魂", "#0x00FFFFFF"}
+{"prt_in", 211, 169, 0, IT_BMP, "information\\over_nmtrade.bmp"}
 }
 

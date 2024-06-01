@@ -65,43 +65,17 @@
 ;
 (StylingShop.AddHeadStyle)(23, {zeny = 100000})
 ;
-(StylingShop.AddHeadStyle)(24, {itid = 7622, boxitid = 13870})
+(StylingShop.AddHeadStyle)(24, {itid = 7622, boxitid = 16843})
 ;
-(StylingShop.AddHeadStyle)(25, {itid = 7622, boxitid = 13870})
+(StylingShop.AddHeadStyle)(25, {itid = 7622, boxitid = 16843})
 ;
-(StylingShop.AddHeadStyle)(26, {itid = 7622, boxitid = 13870})
+(StylingShop.AddHeadStyle)(26, {itid = 7622, boxitid = 16843})
 ;
-(StylingShop.AddHeadStyle)(27, {itid = 7622, boxitid = 13870})
+(StylingShop.AddHeadStyle)(27, {itid = 7622, boxitid = 16843})
 ;
-(StylingShop.AddHeadStyle)(28, {itid = 6707, boxitid = 17336})
+(StylingShop.AddHeadStyle)(28, {itid = 7622, boxitid = 16843})
 ;
-(StylingShop.AddHeadStyle)(29, {itid = 6707, boxitid = 17336})
-;
-(StylingShop.AddHeadStyle)(30, {itid = 25736, boxitid = 25736})
-;
-(StylingShop.AddHeadStyle)(31, {itid = 25736, boxitid = 25736})
-;
-(StylingShop.AddHeadStyle)(32, {zeny = 100000})
-;
-(StylingShop.AddHeadStyle)(33, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(34, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(35, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(36, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(37, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(38, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(39, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(40, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(41, {zeny = 3000000})
-;
-(StylingShop.AddHeadStyle)(42, {zeny = 3000000})
+(StylingShop.AddHeadStyle)(29, {itid = 7622, boxitid = 16843})
 ;
 (StylingShop.AddBodyPalette)(0, {itid = 6047, boxitid = 16855})
 ;
@@ -109,73 +83,27 @@
 ;
 (StylingShop.AddBodyPalette)(3, {itid = 6046, boxitid = 16854})
 ;
-(StylingShop.AddBodyPalette)(4, {itid = 6046, boxitid = 16854})
+(StylingShop.AddTopAccessory)(2220, {zeny = 1000}, true)
 ;
-(StylingShop.AddBodyPalette)(5, {itid = 6046, boxitid = 16854})
+(StylingShop.AddTopAccessory)(2208, {zeny = 800}, true)
 ;
-(StylingShop.AddBodyPalette)(6, {itid = 6046, boxitid = 16854})
+(StylingShop.AddTopAccessory)(2211, {zeny = 400}, true)
 ;
-(StylingShop.AddBodyPalette)(7, {itid = 6046, boxitid = 16854})
+(StylingShop.AddMidAccessory)(2239, {zeny = 10000}, true)
 ;
-(StylingShop.AddTopAccessory)(2220, {zeny = 1000})
+(StylingShop.AddMidAccessory)(2201, {zeny = 5000}, true)
 ;
-(StylingShop.AddTopAccessory)(2208, {zeny = 800})
+(StylingShop.AddMidAccessory)(2242, {zeny = 24000}, true)
 ;
-(StylingShop.AddTopAccessory)(2211, {zeny = 400})
+(StylingShop.AddMidAccessory)(2243, {zeny = 20000}, true)
 ;
-(StylingShop.AddTopAccessory)(19996, {itid = 25477, boxitid = 25477})
+(StylingShop.AddMidAccessory)(2205, {zeny = 3500}, true)
 ;
-(StylingShop.AddTopAccessory)(31371, {itid = 25722, boxitid = 25722})
+(StylingShop.AddMidAccessory)(2203, {zeny = 4000}, true)
 ;
-(StylingShop.AddMidAccessory)(2239, {zeny = 10000})
+(StylingShop.AddMidAccessory)(2212, {zeny = 1000}, true)
 ;
-(StylingShop.AddMidAccessory)(2201, {zeny = 5000})
-;
-(StylingShop.AddMidAccessory)(2242, {zeny = 24000})
-;
-(StylingShop.AddMidAccessory)(2243, {zeny = 20000})
-;
-(StylingShop.AddMidAccessory)(2205, {zeny = 3500})
-;
-(StylingShop.AddMidAccessory)(2203, {zeny = 4000})
-;
-(StylingShop.AddMidAccessory)(2212, {zeny = 1000})
-;
-(StylingShop.AddBottomAccessory)(2241, {zeny = 5000})
-;
-(StylingShop.AddDoramHeadStyle)(1, {zeny = 100000}, true)
-;
-(StylingShop.AddDoramHeadStyle)(2, {zeny = 100000}, false)
-;
-(StylingShop.AddDoramHeadStyle)(3, {zeny = 100000}, true)
-;
-(StylingShop.AddDoramHeadStyle)(4, {zeny = 100000}, true)
-;
-(StylingShop.AddDoramHeadStyle)(5, {zeny = 100000}, false)
-;
-(StylingShop.AddDoramHeadStyle)(6, {zeny = 100000}, false)
-;
-(StylingShop.AddDoramHeadStyle)(7, {itid = 25736, boxitid = 25736}, false)
-;
-(StylingShop.AddDoramHeadStyle)(8, {itid = 25736, boxitid = 25736}, false)
-;
-(StylingShop.AddDoramHeadStyle)(9, {itid = 25736, boxitid = 25736}, false)
-;
-(StylingShop.AddDoramHeadStyle)(10, {itid = 25736, boxitid = 25736}, false)
-;
-(StylingShop.AddDoramBodyPalette)(0, {itid = 6047, boxitid = 16855})
-;
-(StylingShop.AddDoramBodyPalette)(2, {itid = 6046, boxitid = 16854})
-;
-(StylingShop.AddDoramBodyPalette)(3, {itid = 6046, boxitid = 16854})
-;
-(StylingShop.AddDoramBodyPalette)(4, {itid = 6046, boxitid = 16854})
-;
-(StylingShop.AddDoramBodyPalette)(5, {itid = 6046, boxitid = 16854})
-;
-(StylingShop.AddDoramBodyPalette)(6, {itid = 6046, boxitid = 16854})
-;
-(StylingShop.AddDoramBodyPalette)(7, {itid = 6046, boxitid = 16854})
+(StylingShop.AddBottomAccessory)(2241, {zeny = 5000}, true)
 ;
 (StylingShop.AddSecondCostume)(0, {itid = 6959, boxitid = 6959})
 ;

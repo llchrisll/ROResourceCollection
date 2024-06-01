@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="euc-kr" ?>
 
 <clientinfo>
-
-	<desc>Taiwan TEST Lapine Box</desc>
-	<servicetype>taiwan</servicetype>
+	
+	<servicetype>thai</servicetype>
 	<servertype>primary</servertype>
+	<passwordencrypt></passwordencrypt>
 	<extendedslot></extendedslot>
 	<readfolder></readfolder>
 	
+	<desc>Ragnarok Client Information - Indoor Test</desc>
+	
 	<connection>
-		<display>Taiwan TEST Edda_and_Etc</display>
-		<desc>None</desc>
-		<address>192.168.5.40</address>
-		<port>6900</port>
-		<version>1</version>
-		<langtype>4</langtype>
-		<registrationweb>https://member.gnjoy.com.tw/signin.aspx</registrationweb>
-		<aid>
-			<admin>100096</admin>
-		</aid>
+		<display>Indoor Test</display>
+		<subconnection>
+			<display>Indoor</display>
+			<balloon>Indoor</balloon>
+			<desc>None</desc>
+			<domain>192.168.5.94:6900</domain>
+			<port>6900</port>
+			<version>24</version>
+			<langtype>5</langtype>
+			<registrationweb>http://ro.gnjoy.in.th</registrationweb>
+			<aid>
+			</aid>
+		</subconnection>	
 	</connection>
 </clientinfo>
-
