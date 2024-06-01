@@ -1362,3 +1362,25 @@
 4649#무한프리오니카드#
 4650#무한오크히어로카드#
 4651#무한타오군카카드#
+
+//일루전오브언터워터
+300140#ILL_Sropho_Card#
+300141#ILL_Obeaune_Card#
+300142#ILL_Deviace_Card#
+300143#ILL_Marse_Card#
+300144#ILL_Merman_Card#
+300145#ILL_Abysmal_Witch_Card#
+300146#ILL_Sedora_Card#
+300147#ILL_Sword_Fish_Card#
+300148#ILL_Strouf_Card#
+300149#ILL_Phen_Card#
+300150#ILL_King_Dramoh_Card#
+300151#ILL_Kraken_Card#
+
+//왕실 사냥대회 2022
+300421#Catherine_Card#
+300422#S_Catherine_Card#
+300423#Friedrich_Card#
+300424#S_Friedrich_Card#
+300425#Crux_Card#
+300426#S_Crux_Card#

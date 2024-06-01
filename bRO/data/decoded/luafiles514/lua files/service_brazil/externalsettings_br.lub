@@ -3,7 +3,7 @@
 
 -- params : ...
 -- function num : 0
-MaxLevelTable = {BaseLevel = 99, BaseLevel3rd = 185, BaseLevelExtend2 = 160, BaseLevelUpperJob = 175, BaseLevelHomun = 185, BaseLevelDoram = 175, JobLevelNovice = 10, JobLevelSuperNovice = 99, JobLevelBase = 50, JobLevel2nd = 70, JobLevel3rd = 65, JobLevelExtend2 = 50, JobLevelUpperJob = 60, JobLevelDoram = 50}
+MaxLevelTable = {BaseLevel = 99, BaseLevel3rd = 185, BaseLevelExtend2 = 185, BaseLevelUpperJob = 185, BaseLevelHomun = 185, BaseLevelDoram = 185, JobLevelNovice = 10, JobLevelSuperNovice = 99, JobLevelBase = 50, JobLevel2nd = 70, JobLevel3rd = 65, JobLevelExtend2 = 65, JobLevelUpperJob = 65, JobLevelDoram = 55}
 MakeableRace = {Doram = true}
 AssistAddr = ""
 AssistAddrTbl = {["200.229.50.36:6900"] = "200.229.50.36:3001", ["200.229.50.3:6900"] = "200.229.50.3:3001"}
@@ -39,7 +39,7 @@ LEVELAURA.EF_LEVEL185 = 1226
 
 LEVELAURA.EF_LEVEL185_SUB = 1227
 Level99AuraTable = {Default99LvAura = LEVELAURA.EF_LEVEL99, Default99LvAura_sub = LEVELAURA.EF_LEVEL99_ORB1, Baby99LvAura = LEVELAURA.EF_LEVEL99, Baby99LvAura_sub = LEVELAURA.EF_LEVEL99_ORB2, SecondHigh99LvAura = 0, SecondHigh99LvAura_sub = 0, Homun99LvAura = 0, Homun99LvAura_sub = 0, Boss99LvAura_sub = LEVELAURA.EF_LEVEL99_ORB1}
-MaxLevelAuraTable = {Default150LvAura = LEVELAURA.EF_LEVEL150, Default150LvAura_sub = LEVELAURA.EF_LEVEL150_SUB, Default160LvAura = LEVELAURA.EF_LEVEL160, Default160LvAura_sub = LEVELAURA.EF_LEVEL160_SUB, Default185LvAura = LEVELAURA.EF_LEVEL185, Default185LvAura_sub = LEVELAURA.EF_LEVEL185_SUB, HomunMaxLvAura = LEVELAURA.EF_LEVEL185, HomunMaxLvAura_sub = LEVELAURA.EF_LEVEL185_SUB}
+MaxLevelAuraTable = {Default150LvAura = LEVELAURA.EF_LEVEL150, Default150LvAura_sub = LEVELAURA.EF_LEVEL150_SUB, Default160LvAura = LEVELAURA.EF_LEVEL185, Default160LvAura_sub = LEVELAURA.EF_LEVEL185_SUB, Default185LvAura = LEVELAURA.EF_LEVEL185, Default185LvAura_sub = LEVELAURA.EF_LEVEL185_SUB, UpperJobMaxLvAura = LEVELAURA.EF_LEVEL185, UpperJobMaxLvAura_sub = LEVELAURA.EF_LEVEL185_SUB, HomunMaxLvAura = LEVELAURA.EF_LEVEL185, HomunMaxLvAura_sub = LEVELAURA.EF_LEVEL185_SUB}
 GetTableIntValueForC = function(tableName, keyName)
   -- function num : 0_0
   local t = _G[tableName]

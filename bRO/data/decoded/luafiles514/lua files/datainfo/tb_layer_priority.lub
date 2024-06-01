@@ -89,6 +89,38 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_BG] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_YL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_CB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_LB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_LPP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_JBL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_WH] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_MN_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_Kururinpa_Hair_BD] = {Default = 102, 
 Direction = {}
 }
@@ -118,6 +150,18 @@ Direction = {}
 }
 , 
 [ACCESSORY_IDs.ACCESSORY_C_Valkyrie_Hair] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_White_Corone] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Twin] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_TV_Hair_PK] = {Default = 102, 
 Direction = {}
 }
 , 

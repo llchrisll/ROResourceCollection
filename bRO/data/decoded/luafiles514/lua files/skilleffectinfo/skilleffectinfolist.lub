@@ -229,5 +229,11 @@ effectID = {EFID.EF_SOUL_REAPER}
 [SKID.SP_CURSEEXPLOSION] = {targetEffectNum = 1, 
 targetEffectID = {EFID.EF_CURSE_EXPLOSION}
 }
+, 
+[SKID.RL_FIREDANCE] = {effectNum = 1, 
+effectID = {EFID.EF_FIREDANCE}
+, targetEffectNum = 1, 
+targetEffectID = {EFID.EF_TRACKING}
+, waveFileName = "effect\\데스페라도.wav"}
 }
 

@@ -9419,4 +9419,223 @@ Por favor?</dead>
 	</so_full>			
 	</VR_CHAO>
 
+	<nightmare_terror_mj>
+		<hungry>
+			<feeding> iiirrrri! iiirrrri! </feeding>
+			<feeding> Quero devorar os seus sonhos... </feeding>
+			<feeding> Vou devorar seus sonhos!</feeding>
+			<hunting> iiirrrri! iiirrrri! iiirrrri! </hunting>
+			<hunting> Que corpo musculoso! </hunting>
+			<hunting> Mostre seu poder!! </hunting>
+			<danger> Ah... mestre... em perigo! </danger>
+			<danger> iiih... Perigo eminente. O que fazer agora? </danger>
+			<danger> Sinto que meu mestre vai dormir. </danger>
+			<dead> Snif........ Snif... ....</dead>
+			<dead> Dormindo desse jeito, poderei devorar seu sonho! </dead>
+			<dead> Posso ser seu pior Pesadelo? </dead>
+			<stand> Quer fugir da realidade? </stand>
+			<stand> Qual seu sonho? Deve ser delicioso. </stand>
+			<stand> Tem medo de me ver fora dos seu sonho? </stand>
+			<connect> Dormiu bem? </connect>
+			<connect> Como foi seu sonho? </connect>
+			<connect> Agora que acordou, me conte seu sonho.. </connect>
+			<levelup> Sou mais poderoso nos seus sonhos... </levelup>
+			<levelup> iiirrrri!!! Posso sentir seu imenso poder!!! </levelup>
+			<levelup> iiirrrri!! Nada mal, hein? </levelup>
+		</hungry>
+		<bit_hungry>
+			<feeding> iiirrrri! iiirrrri! </feeding>
+			<feeding> Quero devorar os seus sonhos... </feeding>
+			<feeding> Vou devorar seus sonhos!</feeding>
+			<hunting> iiirrrri! iiirrrri! iiirrrri! </hunting>
+			<hunting> Que corpo musculoso! </hunting>
+			<hunting> Mostre seu poder!! </hunting>
+			<danger> Ah... mestre... em perigo! </danger>
+			<danger> iiih... Perigo eminente. O que fazer agora? </danger>
+			<danger> Sinto que meu mestre vai dormir. </danger>
+			<dead> Snif........ Snif... ....</dead>
+			<dead> Dormindo desse jeito, poderei devorar seu sonho! </dead>
+			<dead> Posso ser seu pior Pesadelo? </dead>
+			<stand> Quer fugir da realidade? </stand>
+			<stand> Qual seu sonho? Deve ser delicioso. </stand>
+			<stand> Tem medo de me ver fora dos seu sonho? </stand>
+			<connect> Dormiu bem? </connect>
+			<connect> Como foi seu sonho? </connect>
+			<connect> Agora que acordou, me conte seu sonho.. </connect>
+			<levelup> Sou mais poderoso nos seus sonhos... </levelup>
+			<levelup> iiirrrri!!! Posso sentir seu imenso poder!!! </levelup>
+			<levelup> iiirrrri!! Nada mal, hein? </levelup>
+		</bit_hungry>
+		<noting>
+			<feeding> iiirrrri! iiirrrri! </feeding>
+			<feeding> Quero devorar os seus sonhos... </feeding>
+			<feeding> Vou devorar seus sonhos!</feeding>
+			<hunting> iiirrrri! iiirrrri! iiirrrri! </hunting>
+			<hunting> Que corpo musculoso! </hunting>
+			<hunting> Mostre seu poder!! </hunting>
+			<danger> Ah... mestre... em perigo! </danger>
+			<danger> iiih... Perigo eminente. O que fazer agora? </danger>
+			<danger> Sinto que meu mestre vai dormir. </danger>
+			<dead> Snif........ Snif... ....</dead>
+			<dead> Dormindo desse jeito, poderei devorar seu sonho! </dead>
+			<dead> Posso ser seu pior Pesadelo? </dead>
+			<stand> Quer fugir da realidade? </stand>
+			<stand> Qual seu sonho? Deve ser delicioso. </stand>
+			<stand> Tem medo de me ver fora dos seu sonho? </stand>
+			<connect> Dormiu bem? </connect>
+			<connect> Como foi seu sonho? </connect>
+			<connect> Agora que acordou, me conte seu sonho.. </connect>
+			<levelup> Sou mais poderoso nos seus sonhos... </levelup>
+			<levelup> iiirrrri!!! Posso sentir seu imenso poder!!! </levelup>
+			<levelup> iiirrrri!! Nada mal, hein? </levelup>
+
+		</noting>
+		<full>
+			<feeding> Eu estou muito cheio... </feeding>
+			<hunting> iiirrrri! iiirrrri! iiirrrri! </hunting>
+			<hunting> Que corpo musculoso! </hunting>
+			<hunting> Mostre seu poder!! </hunting>
+			<danger> Ah... mestre... em perigo! </danger>
+			<danger> iiih... Perigo eminente. O que fazer agora? </danger>
+			<danger> Sinto que meu mestre vai dormir. </danger>
+			<dead> Snif........ Snif... ....</dead>
+			<dead> Dormindo desse jeito, poderei devorar seu sonho! </dead>
+			<dead> Posso ser seu pior Pesadelo? </dead>
+			<stand> Quer fugir da realidade? </stand>
+			<stand> Qual seu sonho? Deve ser delicioso. </stand>
+			<stand> Tem medo de me ver fora dos seu sonho? </stand>
+			<connect> Dormiu bem? </connect>
+			<connect> Como foi seu sonho? </connect>
+			<connect> Agora que acordou, me conte seu sonho.. </connect>
+			<levelup> Sou mais poderoso nos seus sonhos... </levelup>
+			<levelup> iiirrrri!!! Posso sentir seu imenso poder!!! </levelup>
+			<levelup> iiirrrri!! Nada mal, hein? </levelup>
+
+		</full>
+		<so_full>
+			<feeding> Eu estou muito cheio. iiirrrri..</feeding>
+			<hunting> iiirrrri! iiirrrri! iiirrrri! </hunting>
+			<hunting> Que corpo musculoso! </hunting>
+			<hunting> Mostre seu poder!! </hunting>
+			<danger> Ah... mestre... em perigo! </danger>
+			<danger> iiih... Perigo eminente. O que fazer agora? </danger>
+			<danger> Sinto que meu mestre vai dormir. </danger>
+			<dead> Snif........ Snif... ....</dead>
+			<dead> Dormindo desse jeito, poderei devorar seu sonho! </dead>
+			<dead> Posso ser seu pior Pesadelo? </dead>
+			<stand> Quer fugir da realidade? </stand>
+			<stand> Qual seu sonho? Deve ser delicioso. </stand>
+			<stand> Tem medo de me ver fora dos seu sonho? </stand>
+			<connect> Dormiu bem? </connect>
+			<connect> Como foi seu sonho? </connect>
+			<connect> Agora que acordou, me conte seu sonho.. </connect>
+			<levelup> Sou mais poderoso nos seus sonhos... </levelup>
+			<levelup> iiirrrri!!! Posso sentir seu imenso poder!!! </levelup>
+			<levelup> iiirrrri!! Nada mal, hein? </levelup>
+		</so_full>
+	</nightmare_terror_mj>
+	<wander_man_mj>
+		<hungry>
+			<feeding> Vai me alimentar agora, animal? </feeding>
+			<feeding> Lembrou de mim agora?  </feeding>
+			<feeding> Consegui matar minha sede </feeding>
+			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
+			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Quem te treinou te odeia muito. </hunting>
+			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
+			<danger> Jamais abaixe sua guarda. </danger>
+			<dead> Levante e tente novamente. </dead>
+			<dead> Quem vai beber comigo, agora? </dead>
+			<dead> Desapontado, mas nem um pouco surpreso. </dead>
+			<stand> Minha garganta queima.. </stand>
+			<stand> Finja que nem estou aqui... </stand>
+			<stand> Sinto um vento estranho soprando...!  </stand>
+			<stand> Foi uma vida dura...  </stand>
+			<connect> Bem-vindo... vamos beber? </connect>
+			<connect> Trouxe bebida?  </connect>
+			<levelup> Vamos comemorar com muita bebida! </levelup>
+			<levelup> Quanto mais forte ficamos, mais tenho vontade de beber... </levelup>
+		</hungry>
+		<bit_hungry>
+			<feeding> Vai me alimentar agora, animal? </feeding>
+			<feeding> Lembrou de mim agora?  </feeding>
+			<feeding> Consegui matar minha sede </feeding>
+			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
+			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Quem te treinou te odeia muito. </hunting>
+			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
+			<danger> Jamais abaixe sua guarda. </danger>
+			<dead> Levante e tente novamente. </dead>
+			<dead> Quem vai beber comigo, agora? </dead>
+			<dead> Desapontado, mas nem um pouco surpreso. </dead>
+			<stand> Minha garganta queima.. </stand>
+			<stand> Finja que nem estou aqui... </stand>
+			<stand> Sinto um vento estranho soprando...!  </stand>
+			<stand> Foi uma vida dura...  </stand>
+			<connect> Bem-vindo... vamos beber? </connect>
+			<connect> Trouxe bebida?  </connect>
+			<levelup> Vamos comemorar com muita bebida! </levelup>
+			<levelup> Quanto mais forte ficamos, mais tenho vontade de beber... </levelup>
+		</bit_hungry>
+		<noting>
+			<feeding> Vai me alimentar agora, animal? </feeding>
+			<feeding> Lembrou de mim agora?  </feeding>
+			<feeding> Consegui matar minha sede </feeding>
+			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
+			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Quem te treinou te odeia muito. </hunting>
+			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
+			<danger> Jamais abaixe sua guarda. </danger>
+			<dead> Levante e tente novamente. </dead>
+			<dead> Quem vai beber comigo, agora? </dead>
+			<dead> Desapontado, mas nem um pouco surpreso. </dead>
+			<stand> Minha garganta queima.. </stand>
+			<stand> Finja que nem estou aqui... </stand>
+			<stand> Sinto um vento estranho soprando...!  </stand>
+			<stand> Foi uma vida dura...  </stand>
+			<connect> Bem-vindo... vamos beber? </connect>
+			<connect> Trouxe bebida?  </connect>
+			<levelup> Vamos comemorar com muita bebida! </levelup>
+			<levelup> Quanto mais forte ficamos, mais tenho vontade de beber... </levelup>
+		</noting>
+		<full>
+			<feeding> Eu estou cheio, por favor, pode parar de me alimentar?  </feeding>
+			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
+			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Quem te treinou te odeia muito. </hunting>
+			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
+			<danger> Jamais abaixe sua guarda. </danger>
+			<dead> Levante e tente novamente. </dead>
+			<dead> Quem vai beber comigo, agora? </dead>
+			<dead> Desapontado, mas nem um pouco surpreso. </dead>
+			<stand> Minha garganta queima.. </stand>
+			<stand> Finja que nem estou aqui... </stand>
+			<stand> Sinto um vento estranho soprando...!  </stand>
+			<stand> Foi uma vida dura...  </stand>
+			<connect> Bem-vindo... vamos beber? </connect>
+			<connect> Trouxe bebida?  </connect>
+			<levelup> Vamos comemorar com muita bebida! </levelup>
+			<levelup> Quanto mais forte ficamos, mais tenho vontade de beber... </levelup>
+		</full>
+		<so_full>
+			<feeding> Eu vou desistir de te seguir se continuar me alimentando... </feeding>
+			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
+			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Quem te treinou te odeia muito. </hunting>
+			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
+			<danger> Jamais abaixe sua guarda. </danger>
+			<dead> Levante e tente novamente. </dead>
+			<dead> Quem vai beber comigo, agora? </dead>
+			<dead> Desapontado, mas nem um pouco surpreso. </dead>
+			<stand> Minha garganta queima.. </stand>
+			<stand> Finja que nem estou aqui... </stand>
+			<stand> Sinto um vento estranho soprando...!  </stand>
+			<stand> Foi uma vida dura...  </stand>
+			<connect> Bem-vindo... vamos beber? </connect>
+			<connect> Trouxe bebida?  </connect>
+			<levelup> Vamos comemorar com muita bebida! </levelup>
+			<levelup> Quanto mais forte ficamos, mais tenho vontade de beber... </levelup>
+		</so_full>
+	</wander_man_mj>
+
 </monster_talk_table>

@@ -1027,3 +1027,6 @@ sp_rudus3.rsw#bgm\\176.mp3#
 
 //해당 bgm은 임시설정이며 아직 검수확인이 되지 않았습니다. 231228
 1@vrsn.rsw#bgm\\168.mp3#
+
+iz_d04_i.rsw#bgm\\49.mp3#
+iz_d05_i.rsw#bgm\\49.mp3#

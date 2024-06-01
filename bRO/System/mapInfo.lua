@@ -3499,6 +3499,14 @@ signName = {mainTitle = "PvP Colisseu"}
 ["1@vrsn.rsw"] = {displayName = "Base Secreta do Dr. Eggman", notifyEnter = true, 
 signName = {subTitle = "Livros Fantásticos - Sonic", mainTitle = "Base Secreta"}
 , backgroundBmp = "noname"}
+, 
+["iz_d04_i.rsw"] = {displayName = "Ilusão Submarina (1)", notifyEnter = true, 
+signName = {subTitle = "Túnel das Fossas Abissais", mainTitle = "Ilusão Submarina"}
+, backgroundBmp = "dungeon"}
+, 
+["iz_d05_i.rsw"] = {displayName = "Ilusão Submarina (2)", notifyEnter = true, 
+signName = {subTitle = "Templo das Fossas Abissais", mainTitle = "Ilusão Submarina"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0

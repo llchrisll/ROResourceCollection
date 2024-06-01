@@ -23898,5 +23898,65 @@ Description = {"Derrote Eggman e recupere as Esmeraldas do Caos!"}
 [8881] = {Title = "Base Secreta do Eggman", IconName = "ico_vr.bmp", 
 Description = {"Esta missão \233 diária e quando o tempo de espera expirar, voc\234 poder\225 ler o <NAVI>[Livro Fantástico]<INFO>prt_in,40,35,0,101,0</INFO></NAVI>  novamente."}
 , Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[3407] = {Title = "Ilusão Submarina", 
+Description = {"Vamos levar a Vara de Pescaria do Sirud para <NAVI>[Jeremias]<INFO>prt_in,157,66,0,101,0</INFO></NAVI> em Prontera."}
+, Summary = "Para Jeremias"}
+, 
+[3408] = {Title = "Ilusão Submarina", 
+Description = {"Vamos levar a Essência Abismal para <NAVI>[Jeremias]<INFO>prt_in,157,66,0,101,0</INFO></NAVI> em Prontera."}
+, Summary = "Para Jeremias"}
+, 
+[3409] = {Title = "Ilusão Submarina", 
+Description = {"\201 melhor ir para <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI> conversar com Jeremias."}
+, Summary = "Jeremias em Izlude"}
+, 
+[3410] = {Title = "Ilusão Submarina", 
+Description = {"Sirud quer ir junto com voc\234."}
+, Summary = "Para Sirud"}
+, 
+[3411] = {Title = "Ilusão Submarina", 
+Description = {"Vamos caçar 10 ^4d4dffSrophos Abismais^000000, 10 ^4d4dffDeviaces Abismais^000000 e 10 ^4d4dffMarses Abismais^000000 na Ilusão Submarina."}
+, Summary = "Elimine os monstros"}
+, 
+[3412] = {Title = "Ilusão Submarina", 
+Description = {"Vamos coletar 10 ^4d4dffEssências do Abismo^000000 e entreg\225-las para <NAVI>[Jeremias]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> na Ilusão do Submarino."}
+, Summary = "10 Essências do Abismo"}
+, 
+[3413] = {Title = "Amostra de Essências", IconName = "ico_dq.bmp", 
+Description = {"Vamos coletar 10 ^4d4dffEssências do Abismo^000000 e entreg\225-las para <NAVI>[Jeremias]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> na Ilusão do Submarino."}
+, Summary = "10 Essências do Abismo"}
+, 
+[3414] = {Title = "[Espera] Amostra de Essências", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida no dia seguinte. <NAVI>[Jeremias]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> aguardar\225 voc\234 na Ilusão Submarina."}
+, Summary = "Reseta 4 da manh\227."}
+, 
+[3415] = {Title = "Controle de Criaturas", IconName = "ico_dq.bmp", 
+Description = {"Vamos caçar 10 ^4d4dffSrophos Abismais^000000, 10 ^4d4dffDeviaces Abismais^000000 e 10 ^4d4dffMarses Abismais^000000 na Ilusão Submarina."}
+, Summary = "Elimine os monstros"}
+, 
+[3416] = {Title = "[Espera] Controle de Criaturas", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida no dia seguinte. <NAVI>[Jeremias]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> aguardar\225 voc\234 na Ilusão Submarina."}
+, Summary = "Reseta 4 da manh\227."}
+, 
+[3417] = {Title = "Controle de Peixes", IconName = "ico_dq.bmp", 
+Description = {"Vamos caçar 10 ^4d4dffPeixes Abismais^000000, 10 ^4d4dffFens Abismais^000000 e 10 ^4d4dffDramohs Abismais^000000 na Ilusão Submarina."}
+, Summary = "Elimine os monstros"}
+, 
+[3418] = {Title = "[Espera] Controle de Peixes", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida no dia seguinte. <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> aguardar\225 voc\234 na Ilusão Submarina."}
+, Summary = "Reseta 4 da manh\227."}
+, 
+[3419] = {Title = "Controle de Espécies", IconName = "ico_dq.bmp", 
+Description = {"Vamos caçar 10 ^4d4dffStroufs Abismais^000000 e 10 ^4d4dffSedoras Abismais^000000 na Ilusão Submarina."}
+, Summary = "Elimine os monstros"}
+, 
+[3420] = {Title = "[Espera] Controle de Espécies", IconName = "ico_dq.bmp", 
+Description = {"Essa missão pode ser repetida no dia seguinte. <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> aguardar\225 voc\234 na Ilusão Submarina."}
+, Summary = "Reseta 4 da manh\227."}
+, 
+[5846] = {Title = "Corredor das Almas", IconName = "ico_dq.bmp", 
+Description = {"Voc\234 pode conseguir um <ITEM>[Selo Visionário]<INFO>25504</INFO></ITEM> de 1 hora de duração com o <NAVI>[Espectro da Morte]<INFO>comodo,217,207,000,0</INFO></NAVI> uma vez por dia."}
+, Summary = "Reseta 4 da manh\227."}
 }
 

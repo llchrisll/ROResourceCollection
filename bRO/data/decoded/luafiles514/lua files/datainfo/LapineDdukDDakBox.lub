@@ -1022,6 +1022,52 @@ SourceItems = {
 {"S_Thief_earring", 1, 28391}
 , 
 {"S_Archer_earring", 1, 28392}
+, 
+{"S_Reload_Shoes", 1, 24243}
+, 
+{"S_Reload_Shield", 1, 24244}
+, 
+{"S_Reload_Armor", 1, 24245}
+, 
+{"S2_Reload_Armor", 1, 24331}
+, 
+{"S_S_Reload_Shield", 1, 24746}
+, 
+{"S2_Bearers_Armor", 1, 24337}
+, 
+{"S2_Bearers_Shoes", 1, 24338}
+, 
+{"S_M_Mammoth_Armor", 1, 24679}
+, 
+{"S_M_Mammoth_Shoes", 1, 24680}
+, 
+{"S_M_Mammoth_Earring", 1, 24681}
+, 
+{"S_M_Mammoth_Pendant", 1, 24682}
+, 
+{"S_M_AutoSpell_Armor", 1, 24728}
+, 
+{"S_M_AutoSpell_Shoes", 1, 24729}
+, 
+{"S_M_AutoSpell_Earring", 1, 24730}
+, 
+{"S_M_AutoSpell_Pendant", 1, 24731}
+, 
+{"S_AllRace_Shoes", 1, 24341}
+, 
+{"S_AllRace_Shield", 1, 24342}
+, 
+{"S_PerfectSize_Weapon", 1, 24425}
+, 
+{"S_PerfectSize_Armor", 1, 24426}
+, 
+{"S_TrueGem_Armor", 1, 24675}
+, 
+{"S_TrueGem_Shoes", 1, 24676}
+, 
+{"S_TrueGem_Earring", 1, 24677}
+, 
+{"S_TrueGem_Pendant", 1, 24678}
 }
 , NeedSource_String = "Equip. Sombrio"}
 , 
@@ -2284,6 +2330,350 @@ SourceItems = {
 {"S2_Malicious_Armor", 1, 24325}
 }
 , NeedSource_String = "Sombrio de Conversão"}
+, 
+PerfectSize_Mix = {ItemID = 100010, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Big_Weapon", 1, 24075}
+, 
+{"S_Medium_Weapon", 1, 24076}
+, 
+{"S_Small_Weapon", 1, 24077}
+, 
+{"S_Big_Armor", 1, 24072}
+, 
+{"S_Medium_Armor", 1, 24073}
+, 
+{"S_Small_Armor", 1, 24074}
+}
+, NeedSource_String = "Sombrios de Tamanho"}
+, 
+RaceShadow_Mix = {ItemID = 23281, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Homers_Shield", 1, 24056}
+, 
+{"S_Cadi_Shield", 1, 24061}
+, 
+{"S_Requiem_Shield", 1, 24060}
+, 
+{"S_Flameguard_Shield", 1, 24059}
+, 
+{"S_Satanic_Shield", 1, 24058}
+, 
+{"S_Dragoon_Shield", 1, 24057}
+, 
+{"S_Gargantua_Shield", 1, 24055}
+, 
+{"S_Brutal_Shield", 1, 24054}
+, 
+{"S_Cranial_Shield", 1, 24052}
+, 
+{"S_Divine_Shoes", 1, 24070}
+, 
+{"S_Beholder_Shoes", 1, 24069}
+, 
+{"S_Seraphim_Shoes", 1, 24068}
+, 
+{"S_Fisher_Shoes", 1, 24067}
+, 
+{"S_Insecticide_Shoes", 1, 24066}
+, 
+{"S_Clamorous_Shoes", 1, 24065}
+, 
+{"S_Chemical_Shoes", 1, 24064}
+, 
+{"S_Bloody_Shoes", 1, 24062}
+, 
+{"S_Dragoon_Shoes", 1, 24071}
+}
+, NeedSource_String = "[Sombrios Raciais"}
+, 
+Bs_Item_M_S_01_BR = {ItemID = 102903, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Iron_nail", 1, 1837}
+, 
+{"Shadowdecon", 50, 25729}
+, 
+{"Taegeuk_Plate", 30, 7169}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_02_BR = {ItemID = 102905, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Shadowdecon", 50, 25729}
+, 
+{"Scale_Of_Red_Dragon", 20, 7451}
+, 
+{"Royal_Bow", 1, 18117}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_03_BR = {ItemID = 102906, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Lacma_BR", 1, 28739}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Loki\'s_Whispers", 50, 7019}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_04_BR = {ItemID = 102909, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Demon_Hunting_Bible_BR", 1, 28617}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Baphomet_Doll", 10, 750}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_05_BR = {ItemID = 102914, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Meteor_Strike_BR", 1, 16074}
+, 
+{"Shadowdecon", 25, 25729}
+, 
+{"Pocket_Watch", 150, 7513}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_06_BR = {ItemID = 102916, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Will_Of_Darkness_", 50, 7566}
+, 
+{"Shadowdecon", 20, 25729}
+, 
+{"RWC_Memory_Knife", 1, 13092}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_07_BR = {ItemID = 102923, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"RWC_Memory_Mace", 1, 16026}
+, 
+{"Token_of_OrcGeneral", 50, 25508}
+, 
+{"Shadowdecon", 20, 25729}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_08_BR = {ItemID = 102927, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"RWC_Memory_Staff", 1, 1670}
+, 
+{"Voucher_Of_Orcish_Hero", 50, 968}
+, 
+{"Shadowdecon", 20, 25729}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_09_BR = {ItemID = 102928, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Trumpet_Shell", 1, 1940}
+, 
+{"Queen_Wing_Piece", 50, 6326}
+, 
+{"Shadowdecon", 20, 25729}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_10_BR = {ItemID = 102929, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Concertina_Wire", 1, 1993}
+, 
+{"Piece_Of_Bone_Armor", 100, 7450}
+, 
+{"Shadowdecon", 50, 25729}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_11_BR = {ItemID = 102931, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Capricon_Diadem", 1, 5745}
+, 
+{"Tutankhamen\'s_Mask", 150, 7114}
+, 
+{"Zelunium", 20, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_12_BR = {ItemID = 102932, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zaha_Doll_Hat", 1, 5464}
+, 
+{"White_Snake_Tear", 150, 25622}
+, 
+{"Zelunium", 20, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_13_BR = {ItemID = 102933, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Sagittarius_Diadem", 1, 5740}
+, 
+{"Osiris_Doll", 30, 751}
+, 
+{"Zelunium", 10, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_14_BR = {ItemID = 102934, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Floating_Stone_Of_Int", 1, 19022}
+, 
+{"Mother\'s_Nightmare", 150, 7020}
+, 
+{"Zelunium", 10, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_15_BR = {ItemID = 102935, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Taurus_Crown", 1, 5550}
+, 
+{"Mother\'s_Nightmare", 150, 7020}
+, 
+{"Zelunium", 10, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_16_BR = {ItemID = 102936, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Noble_Mask", 1, 5985}
+, 
+{"Konts_Letter", 150, 25629}
+, 
+{"Zelunium", 20, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_17_BR = {ItemID = 102937, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Taurus_Diadem", 1, 5549}
+, 
+{"Young_Twig", 150, 7018}
+, 
+{"Zelunium", 20, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_18_BR = {ItemID = 102938, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Libra_Diadem", 1, 5663}
+, 
+{"Shine_Spear_Blade", 50, 7109}
+, 
+{"Zelunium", 10, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_19_BR = {ItemID = 102939, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Immortal_Dog_Tag", 1, 32204}
+, 
+{"Pocket_Watch", 150, 7513}
+, 
+{"Zelunium", 20, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_20_BR = {ItemID = 102940, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Red_Pencil_Mouth", 1, 5945}
+, 
+{"Young_Twig", 150, 7018}
+, 
+{"Zelunium", 20, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_21_BR = {ItemID = 102941, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Amistr_Cap", 1, 5766}
+, 
+{"Valhalla_Flower", 150, 7510}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_22_BR = {ItemID = 102942, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Primordial_Scale", 1, 450005}
+, 
+{"Dark_Red_Scale", 150, 6091}
+, 
+{"Zelunium", 20, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_23_BR = {ItemID = 102943, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Sagittarius_Crown", 1, 5739}
+, 
+{"Fang_Of_Garm", 120, 7036}
+, 
+{"Zelunium", 10, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_24_BR = {ItemID = 102944, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Wondering_Wolf_Helm", 1, 5498}
+, 
+{"Tiger_Footskin", 150, 1030}
+, 
+{"Zelunium", 20, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+Bs_Item_M_S_25_BR = {ItemID = 102945, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Imp_Hat", 1, 5658}
+, 
+{"Broken_Crown", 150, 7754}
+, 
+{"Zelunium", 10, 25731}
+}
+, NeedSource_String = "Manufatura"}
+, 
+GemstoneShadow_Mix = {ItemID = 23248, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Gemstone_Pendent", 1, 24089}
+, 
+{"S_Gemstone_Armor", 1, 24084}
+, 
+{"S_Gemstone_Shoes", 1, 24085}
+, 
+{"S_Gemstone_Shield", 1, 24086}
+, 
+{"S_Gemstone_Earring", 1, 24088}
+, 
+{"S_Gemstone_Weapon", 1, 24087}
+}
+, NeedSource_String = "Sombrio de Joias"}
+, 
+True_GemShadow_Mix = {ItemID = 100620, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Gemstone_Shoes", 1, 24085}
+, 
+{"S_Gemstone_Shield", 1, 24086}
+, 
+{"S_Gemstone_Weapon", 1, 24087}
+, 
+{"S_Gemstone_Earring", 1, 24088}
+, 
+{"S_Gemstone_Pendent", 1, 24089}
+, 
+{"S_Gemstone_Armor", 1, 24084}
+, 
+{"S2_Gemstone_Weapon", 1, 24335}
+, 
+{"S2_Gemstone_Shield", 1, 24336}
+, 
+{"S2_Gemstone_Earring", 1, 24322}
+}
+, NeedSource_String = "Sombrio de Joias"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

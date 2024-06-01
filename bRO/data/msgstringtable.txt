@@ -835,15 +835,15 @@ Você foi impedido de usar o chat e habilidades por %d minutos pelo sistema.#
 %d minutos restantes para poder usar o chat e habilidades.#
 Bloqueio de chat automático terminou. Por favor, não digite a mesma mensagem muitas vezes.#
 %s e %s se divorciaram.#
-%s foi escolhido(a) como %s do Sol.#
-%s foi escolhido(a) como %s da Lua.#
-%s foi escolhido(a) como %s da Estrela.#
+%s escolheu %s como mapa do Sol.#
+%s escolheu %s como mapa da Lua.#
+%s escolheu %s como mapa da Estrela.#
 O Sol de %s é %s.#
 A Lua de %s é %s.#
 A Estrela de %s é %s.#
-%s foi escolhido(a) como Monstro %s do Sol.#
-%s foi escolhido(a) como Monstro %s da Lua.#
-%s foi escolhido(a) como Monstro %s da Estrela.#
+%s alinhou [%s] como alvo do Sol.#
+%s alinhou [%s] como alvo da Lua.#
+%s alinhou [%s] como alvo da Estrela.#
 O Sol de %s é %s.#
 A Lua de %s é %s.#
 A Estrela de %s é %s.#
@@ -3885,30 +3885,30 @@ Mensagem#
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Amorfo#
+Morto-vivo#
+Bruto#
+Planta#
+Inseto#
+Peixe#
+Demônio#
+Humanoide#
+Anjo#
+Dragão#
+Neutro#
+Água#
+Terra#
+Fogo#
+Vento#
+Veneno#
+Sagrado#
+Sombrio#
+Fantasma#
+Maldito#
+Pequeno#
+Médio#
+Grande#
+DEF#
 #
 #
 #

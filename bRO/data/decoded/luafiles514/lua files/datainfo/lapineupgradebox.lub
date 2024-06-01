@@ -758,6 +758,18 @@ TargetItems = {
 {"Hunter_Bow_IL", 18174}
 , 
 {"Tablet_IL", 28626}
+, 
+{"Death_Guidance_IL", 600011}
+, 
+{"KatarOfCold_Icicle_IL", 610012}
+, 
+{"Brionac_IL", 630006}
+, 
+{"Zephyrus_IL", 630007}
+, 
+{"Electronic_Guitar_IL", 570008}
+, 
+{"Electric_Eel_IL", 580008}
 }
 , NeedSource_String = "Armas Ilusionais"}
 , 
@@ -812,6 +824,18 @@ TargetItems = {
 {"Hunter_Bow_IL", 18174}
 , 
 {"Tablet_IL", 28626}
+, 
+{"Death_Guidance_IL", 600011}
+, 
+{"KatarOfCold_Icicle_IL", 610012}
+, 
+{"Brionac_IL", 630006}
+, 
+{"Zephyrus_IL", 630007}
+, 
+{"Electronic_Guitar_IL", 570008}
+, 
+{"Electric_Eel_IL", 580008}
 }
 , NeedSource_String = "Armas Ilusionais"}
 , 
@@ -1523,6 +1547,10 @@ TargetItems = {
 , 
 {"S_AllMighty_Pendant", 24340}
 , 
+{"S_AllRace_Shoes", 24341}
+, 
+{"S_AllRace_Shield", 24342}
+, 
 {"S_Blitz_Weapon", 24343}
 , 
 {"S_Blitz_Armor", 24344}
@@ -1596,6 +1624,10 @@ TargetItems = {
 {"S_Tempest_Weapon", 24423}
 , 
 {"S_Tempest_Armor", 24424}
+, 
+{"S_PerfectSize_Weapon", 24425}
+, 
+{"S_PerfectSize_Armor", 24426}
 , 
 {"S_M_Exo_Co_Weapon", 24427}
 , 
@@ -1734,6 +1766,70 @@ TargetItems = {
 {"S_Thief_earring", 28391}
 , 
 {"S_Archer_earring", 28392}
+, 
+{"S_Reload_Shoes", 24243}
+, 
+{"S_Reload_Shield", 24244}
+, 
+{"S_Reload_Armor", 24245}
+, 
+{"S2_Reload_Armor", 24331}
+, 
+{"S_S_Reload_Shield", 24746}
+, 
+{"S2_Bearers_Armor", 24337}
+, 
+{"S2_Bearers_Shoes", 24338}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
+, 
+{"S_M_AutoSpell_Armor", 24728}
+, 
+{"S_M_AutoSpell_Shoes", 24729}
+, 
+{"S_M_AutoSpell_Earring", 24730}
+, 
+{"S_M_AutoSpell_Pendant", 24731}
+, 
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
+, 
+{"S_Ignition_Weapon", 24443}
+, 
+{"S_Ignition_Pendant", 24444}
+, 
+{"S_Ignition_Earing", 24445}
+, 
+{"S_Shooting_Weapon", 24461}
+, 
+{"S_Shooting_Pendant", 24462}
+, 
+{"S_Shooting_Earing", 24463}
+, 
+{"S_Boomerang_Weapon", 24467}
+, 
+{"S_Boomerang_Pendant", 24468}
+, 
+{"S_Boomerang_Earing", 24469}
+, 
+{"S_TrueGem_Armor", 24675}
+, 
+{"S_TrueGem_Shoes", 24676}
+, 
+{"S_TrueGem_Earring", 24677}
+, 
+{"S_TrueGem_Pendant", 24678}
 }
 , NeedSource_String = "Equip. Sombrio"}
 , 
@@ -6142,6 +6238,64 @@ TargetItems = {
 {"Clover_Ace_Defense", 420269}
 }
 , NeedSource_String = "Selo de Bastões"}
+, 
+God_Favor_TW = {ItemID = 101484, NeedRefineMin = 0, NeedRefineMax = 20, NeedOptionNumMin = 0, NotSocketEnchantItem = true, 
+TargetItems = {
+{"Ultio_Cape_TW", 480088}
+}
+, NeedSource_String = "Capa Ultio-OS"}
+, 
+Underwater_Box_IL = {ItemID = 100425, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Death_Guidance_IL", 600011}
+, 
+{"KatarOfCold_Icicle_IL", 610012}
+, 
+{"Brionac_IL", 630006}
+, 
+{"Zephyrus_IL", 630007}
+, 
+{"Electronic_Guitar_IL", 570008}
+, 
+{"Electric_Eel_IL", 580008}
+, 
+{"Saint_Robe_IL", 450144}
+, 
+{"Water_Sprits_Armor_IL", 450145}
+, 
+{"Chain_Mail_IL", 450146}
+, 
+{"Morrigane_Helm_IL", 400053}
+, 
+{"Morrigane_Manyeau_IL", 480054}
+}
+, NeedSource_String = "Ilusão Submarina"}
+, 
+S_Underwater_Box_IL = {ItemID = 100426, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Death_Guidance_IL", 600011}
+, 
+{"KatarOfCold_Icicle_IL", 610012}
+, 
+{"Brionac_IL", 630006}
+, 
+{"Zephyrus_IL", 630007}
+, 
+{"Electronic_Guitar_IL", 570008}
+, 
+{"Electric_Eel_IL", 580008}
+, 
+{"Saint_Robe_IL", 450144}
+, 
+{"Water_Sprits_Armor_IL", 450145}
+, 
+{"Chain_Mail_IL", 450146}
+, 
+{"Morrigane_Helm_IL", 400053}
+, 
+{"Morrigane_Manyeau_IL", 480054}
+}
+, NeedSource_String = "Ilusão Submarina"}
 }
 , serverMain = function()
   -- function num : 0_0

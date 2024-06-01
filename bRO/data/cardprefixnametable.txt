@@ -1467,3 +1467,27 @@
 27108#Cantante#
 27107#Dançante#
 27109#do Pianista#
+//*****************************************************
+//---------------Update em 2024-04-16------------------
+//*****************************************************
+300140#do Vento Mágico#
+300141#da Sereia Má# 
+300142#do Submarino#
+300143#do Pesticida#
+300144#Lacinante#
+300145#das Fossas Abissais#
+300146#do Peixeiro#
+300147#dos Sete Mares#
+300148#das Profundezas#
+300149#Vendaval#
+300150#do Esgrimista#
+300151#do Marasmo#
+//*****************************************************
+//---------------Update em 2024-05-14------------------
+//*****************************************************
+300421#Autografado por Catherine#
+300422#de Gaebolg#
+300423#Autografado por Friedrich#
+300424#de Stolz#
+300425#Autografado por Crux Findel#
+300426#de Findel#
