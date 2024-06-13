@@ -1,0 +1,24 @@
+%f5f5dc
+^000088Splendid Selling Item^000000
+
+คุณสามารถซื้อของเหล่านี้ได้ด้วย Splendide Coin
+
+^008040[Pinguicula's Fruit Jam]^000000
+แยมรสหวานที่ทำจากผล Pinguicula
+Physical Attack Damage ต่อมอนเตอร์ใน Splendide Area เพิ่มขึ้น 10% เป็นเวลา 10 นาที
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+^ffffff_^000000
+น้ำหนัก: ^7777775^000000
+
+^008040[Luciola's Honey Jam]^000000
+แยมที่ทำจาก Luciola's Honey และสมุนไพร
+Physical & Magical Damage จากมอนเตอร์ใน Splendide Area ลดลง 10% เป็นเวลา 10 นาที
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+^ffffff_^000000
+น้ำหนัก: ^7777775^000000
+
+^008040[Tear of Cornus]^000000
+Potion ที่ทำจาก Cornus' Tears ไม่มีใครรู้ว่าพวกเขาได้มันมาได้อย่างไร
+Magical Attack Damage ต่อมอนเตอร์ใน Splendide Area เพิ่มขึ้น 10% เป็นเวลา 10 นาที
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+น้ำหนัก: ^7777775^000000

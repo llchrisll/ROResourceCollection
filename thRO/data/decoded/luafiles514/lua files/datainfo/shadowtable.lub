@@ -1,0 +1,7 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\datainfo\shadowtable.lub 
+
+-- params : ...
+-- function num : 0
+ShadowFactorTable = {[JTtbl.JT_STAR_EMPEROR_B] = 0.82, [JTtbl.JT_SOUL_REAPER_B] = 0.82, [JTtbl.JT_HAETAE_STAR_EMPEROR] = 1.5, [JTtbl.JT_HAETAE_SOUL_REAPER] = 1.5, [JTtbl.JT_HAETAE_STAR_EMPEROR_B] = 1, [JTtbl.JT_HAETAE_SOUL_REAPER_B] = 1, [jobtbl.JT_IMMORTAL_CO_CMDER] = 3, [jobtbl.JT_BAPHOMET2] = 1.2, [jobtbl.JT_MD_THANATOS] = 2, [jobtbl.JT_MD_BROKEN_THANATOS] = 2, [jobtbl.JT_MD_THA_ANGER] = 1.5, [jobtbl.JT_THA_ANGER] = 1.5, [jobtbl.JT_MD_THA_ANGER] = 1.5, [jobtbl.JT_THA_ANGER] = 1.5, [jobtbl.JT_4_VR_CHAO] = 0.2, [jobtbl.JT_VR_MD_ANGELING_SONIC] = 0.8, [jobtbl.JT_VR_MD_KNUCKLES] = 0.7, [jobtbl.JT_VR_MD_MEGALITH_SONIC] = 1.4, [jobtbl.JT_VR_MD_METALSONIC] = 0.7, [jobtbl.JT_VR_MD_SAVAGE_SONIC] = 1.1, [jobtbl.JT_VR_MD_SPORE_SONIC] = 0.6, [jobtbl.JT_VR_SONIC_SPIN] = 0.7, [jobtbl.JT_VR_SONIC_WALK] = 0.7, [jobtbl.JT_VR_CHAO] = 0.2}
+

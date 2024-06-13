@@ -1,0 +1,72 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\selectpackage\selectpackageitem.lub 
+
+-- params : ...
+-- function num : 0
+packageitemboxName = {
+{102631, 0, "Costume Flying Cinnamoroll"}
+, 
+{102631, 1, "Costume Cinnamoroll"}
+, 
+{102631, 2, "Costume Cinnamoroll Bag"}
+, 
+{102631, 3, "Costume Crown Cinnamoroll Bag"}
+, 
+{103056, 0, "Magic Feather Effect (Upper)"}
+, 
+{103056, 1, "Baby Camellia Effect (Upper)"}
+, 
+{103056, 2, "Time Accessory Effect (Middle)"}
+, 
+{103120, 0, "Costume Rising Black Dragon"}
+, 
+{103120, 1, "Costume Ifrit\'s Breath"}
+, 
+{103120, 2, "Costume Little Abyss Dragon"}
+, 
+{103120, 3, "Costume Green Pitaya Bag"}
+, 
+{0, 0, "0"}
+}
+packageitemsetbox = {
+{102631, 0, 410268, 1, 0, 0, 0}
+, 
+{102631, 1, 410267, 1, 0, 0, 0}
+, 
+{102631, 2, 480243, 1, 0, 0, 0}
+, 
+{102631, 3, 480244, 1, 0, 0, 0}
+, 
+{103056, 0, 1000365, 1, 0, 0, 0}
+, 
+{103056, 1, 1001069, 1, 0, 0, 0}
+, 
+{103056, 2, 1000345, 1, 0, 0, 0}
+, 
+{103120, 0, 19575, 1, 0, 0, 0}
+, 
+{103120, 1, 19817, 1, 0, 0, 0}
+, 
+{103120, 2, 410212, 1, 0, 0, 0}
+, 
+{103120, 3, 480181, 1, 0, 0, 0}
+, 
+{0, -1, 0, 0, 0, 0, 0}
+}
+querypackageitemboxname = function(Index)
+  -- function num : 0_0
+  if packageitemboxName[Index] == nil then
+    return nil, nil, nil
+  end
+  return (packageitemboxName[Index])[1], (packageitemboxName[Index])[2], (packageitemboxName[Index])[3]
+end
+
+querychoicepackageitemlist = function(Index)
+  -- function num : 0_1
+  if packageitemsetbox[Index] == nil then
+    return nil, nil, nil, nil, nil, nil, nil, nil, nil
+  end
+  return (packageitemsetbox[Index])[1], (packageitemsetbox[Index])[2], (packageitemsetbox[Index])[3], (packageitemsetbox[Index])[4], (packageitemsetbox[Index])[5], (packageitemsetbox[Index])[6], (packageitemsetbox[Index])[7], (packageitemsetbox[Index])[8], (packageitemsetbox[Index])[9]
+end
+
+

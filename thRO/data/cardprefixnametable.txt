@@ -1,0 +1,1179 @@
+4001#Lucky#
+4002#Vital#
+4003#Hard#
+4004#Dexterous#
+4005#Hallowed#
+4006#Lucky#
+4007#Beholder#
+4008#Extra#
+4009#Light#
+4010#Wise#
+4011#Dynamic#
+4012#Rigid#
+4013#Excellent#
+4014#of Champion#
+4015#Quick#
+4016#Speedy#
+4017#Stun#
+4018#Smart#
+4019#Martyr#
+4020#Blink#
+4021#Skillful#
+4022#of Spore#
+4023#of Desert#
+4024#Drowsy#
+4025#Keen#
+4026#Shrewd#
+4027#Athletic#
+4028#Double-Forced#
+4029#Wolverine#
+4030#Windy#
+4031#of Ares#
+4032#of Athena#
+4033#Detoxication#
+4034#Clever#
+4035#Bloody#
+4036#Robust#
+4037#Untouchable#
+4038#Healthy#
+4039#Aristo#
+4040#Teleport#
+4041#of Sandman#
+4042#of Heman#
+4043#Hurricane#
+4044#Hiding#
+4045#Heavy#
+4046#of Cleric#
+4047#Ghost#
+4048#Poison#
+4049#Flammable#
+4050#of Hermes#
+4051#of Flash#
+4052#Erudite#
+4053#Healing#
+4054#Holy#
+4055#Ice#
+4056#of Warmth#
+4057#Silence#
+4058#Cranial#
+4059#Cadi#
+4060#Clamorous#
+4061#Immortal#
+4062#Envenom#
+4063#Insecticide#
+4064#Nimble#
+4065#Underneath#
+4066#Brutal#
+4067#Atomic#
+4068#Chemical#
+4069#Saharic#
+4070#of Witch#
+4071#Angelic#
+4072#Solid#
+4073#Discount#
+4074#of Gargantua#
+4075#Hypnotic#
+4076#Cursing#
+4077#Under a Cast#
+4078#of Recovery#
+4079#of Power#
+4080#Fisher#
+4081#Glorious#
+4082#Gigantic#
+4083#Homer's#
+4084#Blast#
+4085#Damned#
+4086#Critical#
+4087#Order#
+4088#Guard#
+4089#Aqua#
+4090#Amulet#
+4091#of Counter#
+4092#Boned#
+4093#Cure#
+4094#Kingbird#
+4095#Genie's#
+4096#Venomous#
+4097#Green#
+4098#of Zephyrus#
+4099#of Ifrit#
+4100#Soul-Enchanted#
+4101#of Gnome#
+4102#Mocking#
+4103#Clairvoyant#
+4104#Chaos#
+4105#Unfrozen#
+4106#Ancient#
+4107#Fledged#
+4108#Innoxious#
+4109#Flameguard#
+4110#Viper's#
+4111#Decussate#
+4112#Fearless#
+4113#of Ghost#
+4114#Poisoning#
+4115#Malicious#
+4116#Divine#
+4117#Hybrid#
+4118#Dragoon#
+4119#Evil#
+4120#of Dragoon#
+4121#Perfect#
+4122#Adulate#
+4123#Bearer's#
+4124#Plasterer's#
+4125#Aqua#
+4126#Titan#
+4127#Insomniac#
+4128#of Deaf#
+4129#of Rogue#
+4130#Divine#
+4131#Hasty#
+4132#of Gemstone#
+4133#Immune#
+4134#Spiritual#
+4135#Mirror#
+4136#from Hell#
+4137#of Infinity#
+4138#Satanic#
+4139#of Moonlight#
+4140#Liberation#
+4141#Deadly#
+4142#of Berserk#
+4143#Neutral#
+4144#of Eternity#
+4145#of Bigmouth#
+4146#Reflect#
+4147#Scythelike#
+4148#of Kirin#
+4149#of Clear Sky#
+4150#of Resist Spell Power#
+4151#of Nature Destroyer#
+4152#Juicy#
+4153#Cancer#
+4154#of Candy Smell#
+4155#Fatal Goblin#
+4156#Fatal Flame#
+4157#Hard Hit#
+4158#of Slaughter#
+4159#High Level#
+4160#High Level#
+4161#Anti-Magic#
+4162#of Blind#
+4163#Wild#
+4164#of Fisherman#
+4165#Insect Soul Gain#
+4166#of Jinx#
+4167#Beast Soul Gain#
+4168#of Doom#
+4169#of Spell Master#
+4170#Hardened#
+4171#Soul Drain#
+4172#Slash#
+4173#Hynotizable#
+4174#Wondering#
+4175#Pushing#
+4176#Fatal Serpent#
+4177#of Green Stone#
+4178#of Bow Master#
+4179#High Light#
+4180#Dragonic Soul Gain#
+4181#of Silence#
+4182#Demonic Soul Gain#
+4183#Werewolf#
+4184#Break#
+4185#Wisdom#
+4186#Strenuous#
+4187#of Gloomy Evening#
+4188#of Red Stone#
+4189#of Misfortune#
+4190#of Laugh Maker#
+4191#of Life Stream#
+4192#Fatal Pisces#
+4193#of Patience#
+4194#of Stun#
+4195#of Blue Stone#
+4196#of Jellopy#
+4197#High Lucky#
+4198#of True Sight#
+4199#of Dash#
+4200#of Resist Spell Power#
+4201#Binding Stun#
+4202#Exorcism#
+4203#Burning#
+4204#of Poacher#
+4205#of Blue Cubic#
+4206#Cubic#
+4207#Anti-Small#
+4208#of Full Energy#
+4209#of Crack#
+4210#Pressure#
+4211#Expert#
+4212#Knock Back#
+4213#Silent#
+4214#Man Eater#
+4215#of Food#
+4216#of Freeze#
+4217#Auto Healing#
+4218#Nightmare#
+4219#of Magic Stone#
+4220#Faithful#
+4221#of Insect Collector#
+4222#of Sleep#
+4223#Resist Stun#
+4224#of Rainy Day#
+4225#Shooting#
+4226#High Level#
+4227#of Meat Smell#
+4228#of Languid Day#
+4229#Faster#
+4230#of Coward#
+4231#Charging#
+4232#Refresh#
+4233#Petit Luck#
+4234#of Stainless Mirror#
+4235#of Corrupt Angel#
+4236#of Protection#
+4237#of God's Wrath#
+4238#of Double Power#
+4239#of Veteran Hunter#
+4240#of Resist Spell Power#
+4241#Two Lucky Seven#
+4242#High Level#
+4243#of Escape#
+4244#of Seeker#
+4245#of Assassin#
+4246#Kill#
+4247#Star Fish#
+4248#Shining Cross#
+4249#of Exorcist#
+4250#Anti-Large#
+4251#Invade#
+4252#of Four Leafed Clover#
+4253#of Royal Guard#
+4254#Anti-Medium#
+4255#Smash#
+4256#Desired#
+4257#Wing#
+4258#Improved Intelligence#
+4259#of Nature#
+4260#Confusion Guard#
+4261#Blinding Guard#
+4262#of Cloudy Day#
+4263#Bloody Lust#
+4264#Lightning#
+4265#of Dawn#
+4266#Resist Magic#
+4267#of Dragon Slayer#
+4268#Extending#
+4269#of Nightmare#
+4270#of Venom#
+4271#of Yellow Stone#
+4272#Speedy#
+4273#Shell#
+4274#Undead Soul Gain#
+4275#of Undead Slayer#
+4276#Crisis#
+4277#of Shooting Master#
+4278#of Resist Spell Power#
+4279#of Soul Collector#
+4280#of Great Blessing#
+4281#Hard Working#
+4282#of Potion#
+4283#Mana Sphere#
+4284#Gentle Touch#
+4285#Casted by Elf#
+4286#of Panic#
+4287#of Resist Spell Power#
+4288#High Level#
+4289#Plant Soul Gain#
+4290#Reflect#
+4291#Fatal Kobold#
+4292#Fatal Plant#
+4293#Chance#
+4294#of Quick Witted#
+4295#of Black Out#
+4296#Greed#
+4297#Pouching#
+4298#of Chaos#
+4299#Guardian#
+4300#of Poison Charge#
+4301#of Bleeding#
+4302#of High Risk#
+4303#Mystic#
+4304#of Shield Master#
+4305#Blast#
+4306#of King#
+4307#Seaforce Soul Gain#
+4308#Force Drain#
+4309#Hard Covering#
+4310#Fatal Evil#
+4311#Anti Evil Power#
+4312#Spirit#
+4313#of Bog#
+4314#Frame Guard#
+4315#of Stone Curse#
+4316#Angelic Soul Gain#
+4317#Aura#
+4318#Storm Causing#
+4319#of Sword Master#
+4320#Meteor Light#
+4321#of Polymorph#
+4322#of Counter Attack#
+4323#Frost#
+4324#Frozen#
+4325#Toughness#
+4326#of Fish Smell#
+4327#Spell Flow#
+4328#Hyper#
+4329#Soul Gain#
+4330#Uncurse#
+4331#of Evade#
+4332#of Talent#
+4333#of Chaotic Venom#
+4334#Anti-Sniping#
+4335#Gnome#
+4336#of Vitality#
+4337#of Wild Cat#
+4338#of Vital Switching#
+4339#of Stone Wall#
+4340#of Requiem#
+4341#Disarm#
+4342#Mammoth#
+4343#of Creator#
+4344#of Value#
+4345#Sylph#
+4346#of Power Switching#
+4347#Stamina#
+4348#Gangster#
+4349#Anti Arrow#
+4350#Undine#
+4351#Low Level#
+4352#of Regeneration#
+4353#of Rejuvenation#
+4354#of Stability#
+4355#Healthy#
+4356#Magic Cancel#
+4357#of Fury#
+4358#Listless#
+4359#of Shadow#
+4360#Assassin#
+4361#of Hollgrehenn#
+4362#Hit#
+4363#Protection#
+4364#of Magic Sealing#
+4365#of Tempest#
+4366#of Caster#
+4367#of Squeezing#
+4368#Rapid#
+4369#of Luck Switching#
+4370#Weaken#
+4371#of Paladin#
+4372#Life Stream#
+4373#Cursed#
+4374#of Vision#
+4375#Extra High Level#
+4376#Manaful#
+4377#Sweetie#
+4378#Low Level#
+4379#Low Level#
+4380#Salamander#
+4381#of Wanderer#
+4382#of Scholar#
+4383#Chaotic#
+4384#Magic Eater#
+4385#Drink#
+4386#of Magic Shelter#
+4387#of Agility Switching#
+4388#Soul#
+4389#Elemental#
+4390#Blooding#
+4391#Snack#
+4392#of Dexterity Switching#
+4393#of Intelligence Switching#
+4394#Devine Cross#
+4395#Slug#
+4396#Dull#
+4397#Thickheaded#
+4398#Darkness#
+4399#Penetration#
+4400#of Temptation#
+4401#Swift#
+4402#Strange#
+4403#of Reload#
+4404#of Chaotic Bleeding#
+4405#of Magic Mirror#
+4406#Twinkle#
+4407#of Elimination#
+//-----EP 11.3-----
+4408#Abyss#
+4409#Panic#
+4410#Mad#
+4411#Arta's#
+4412#Aria#
+4413#Resistant#
+4414#Gorgon's#
+4415#Sweet#
+4416#of Yana#
+4417#of Flaw#
+4418#of Hail#
+4419#Jack Frost's#
+4420#of Comfort#
+4421#of Chinook#
+4422#Breezy#
+4423#of Sharkia#
+4424#Stony#
+4425#Beast#
+4426#Exceeding#
+4427#of Force#
+4428#of Shaft#
+4429#Nessus's#
+4430#of Inferno#
+4431#Stygian#
+4432#Scorching#
+4433#of Ignis#
+4434#Miner's#
+4435#Outrageous#
+4436#Lunatic#
+4437#Rabid#
+4438#Mental#
+4439#of Anathema#
+4440#of Ignoring#
+4441#Arrogant#
+
+4442#of Basis#
+4443#of Saharic#
+4444#of Underneath#
+4445#of Windy#
+4447#of Envenom#
+4448#of Damned#
+4449#of Hallowed#
+4450#Surplus#
+4451#of Access#
+4452#Magical#
+4453#Violent#
+
+4454#Sorry#
+4455#Love#
+
+4456#Spell Master#
+4457#Psychic#
+4458#of Illusion#
+4459#of Fast#
+4460#of Healing#
+4461#of Sharp#
+4462#Prime Defense#
+4463#Prime Attack#
+4464#Fatal#
+4465#Sweep#
+4466#Straight#
+4467#Heavy#
+4468#Pollution#
+4469#Marine#
+4470#Botanic#
+4471#Draco#
+4472#Cannibal#
+4473#Undead#
+4474#Mortal#
+4475#Intangible#
+4476#Entomic#
+4477#Demonic#
+
+//---------- Update 25.01.2013
+4480#of Half Reload#
+4481#Half Jack Frost's#
+4482#of Half Regeneration#
+4483#Half Spiritual#
+4484#of Half Gemstone#
+4485#Half Abyss#
+4486#of Half Bigmouth#
+4487#Half Inferno#
+4488#Half Doom#
+4489#of Half Kirin#
+4490#Half Hasty#
+4491#Half Squeezing#
+4492#Half Neutral#
+4493#Half High Risk#
+4494#Half Blast#
+4495#of Half Protective's#
+4496#of Half Infinity#
+4497#Half Storm Gust's#
+4498#Half Manaful#
+4499#Half Bloody Lust#
+4500#Half Mirror#
+4501#Half Protection#
+4502#of Half Hollgrehenn#
+4503#of Half Vision#
+4504#Half Bearer's#
+4505#of Mad Witch#
+4506#of Archer#
+4507#Scaraba#
+4508#of Mad Berserker#
+4509#Insect-proof#
+4510#Black out#
+4511#Silentium#
+4512#of Acolyte#
+4513#of Thief#
+4514#Exorcism#
+4515#Flora#
+4516#of Stoneskin#
+4517#of Magician#
+4518#Hellfire#
+4519#Seraphim#
+4520#Scream#
+4521#Mortal Blow#
+4522#Cold#
+4523#Aquarius#
+4524#of Swordman#
+4525#Sweep#
+4526#of Magic Defense#
+4527#of Defense#
+4528#Willpower#
+4529#Muscular#
+4530#of Merchant#
+4531#Under Curse#
+4532#Running#
+4533#Blinding#
+4534#Water Cannon#
+4535#of Half Elimination#
+4536#Half Beast#
+4537#Half Perfect#
+4538#Half Life Stream#
+4539#Half Arrogant#
+4540#Half Crisis#
+4541#of Half Tempest#
+4542#of Half Magic Shelter#
+4543#Half Frozen#
+4544#Half Uncurse#
+
+4545#Newbie#
+
+31016#of Sorrow#
+31017#of Hate#
+31018#Frustration#
+31019#Chilly#
+31020#of Anger#
+31021#Madness#
+31022#Desperation#
+31023#Maniac#
+
+27211#Half Scythelike#
+27212#Half Reflect#
+
+4652#Punishment#
+4653#Immortal Beast#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotic#
+4657#Flame#
+4658#Magical#
+
+4556#Power Word#
+4557#Orb Spell Power#
+
+4625#Wisdom of#
+4626#Vibration of#
+4627#Shake of#
+4628#Invisible Horror Orb#
+4629#Bone-dry#
+4630#Time Keeper Orb#
+4631#Expeditious#
+4632#Voltaic#
+
+4560#of Bragi#
+4561#of Magic Protection#
+4562#of Penetrating#
+4563#of Acid#
+4564#of Gentleman#
+4565#of Grand Cross#
+4566#of Lucky#
+4567#of Bard#
+4568#of Gnosis#
+4569#of Origin#
+4570#of Fast Recovery#
+4571#of Bind#
+4572#of Solidity#
+4573#of Dancer#
+4574#Sword Master#
+4575#Short Cut#
+4576#Educe#
+4577#Psychic#
+4578#Fear#
+4579#Morning Star#
+4580#of Devilish#
+4581#Toilet#
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
+4585#Cursed#
+4586#of Wind#
+4587#Slasher#
+4588#of Power#
+4589#of Richness#
+4590#of Helplessness#
+4591#of Bloody#
+4592#of Stone Curse#
+4593#of Shooter#
+4594#of Death Blow#
+4595#of Acid#
+4596#of Intellectual#
+4597#of Water#
+4598#of Telekinesis#
+4599#of Fire#
+4600#of Ground#
+4601#of Explosion#
+4602#of Fury#
+4603#of Evil Spirit#
+4604#of Evil God#
+4605#of Hunger#
+4606#of Revenge#
+4607#of Librarian#
+
+// 에피소드 14.3 //
+4559#Blitz#
+4908#Strong#
+4909#Strong#
+4910#Strong#
+4911#intelligent#
+4912#intelligent#
+4913#intelligent#
+4914#Agile#
+4915#Agile#
+4916#Agile#
+4917#Strong#
+4918#Strong#
+4919#Strong#
+4920#Clever#
+4921#Clever#
+4922#Clever#
+4923#Lucky#
+4924#Lucky#
+4925#Lucky#
+27026#Burning#
+27027#Flamimg#
+27028#Blazing#
+27029#Flameter#
+27030#Firebug#
+27106#Musician #
+27107#Dancing#
+27108#Singing#
+27109#Jitterbug's#
+
+//--- 고성메모리얼 상급
+4608#Knight#
+4609#Knight#
+
+//2017년 9월 모스코비아 카드
+27157#of Aquawood#
+27158#Of Windness#
+27159#Demon Hunter#
+27160#Dodge#
+27161#Land Blast#of Aquawood
+27162#Soul Steal#
+
+//EP15_1
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+27012#Active Protection#
+27013#Vulcan#
+
+//EP15_2
+27014#Mirage#
+27015#Restore#
+27016#All Scan#
+27017#Temporary#
+27018#Overclock#
+27019#Debug#
+27020#System Error#
+
+//2021 0408 말랑도 인챈트 스톤 11
+29224##
+29225##
+29226##
+29227##
+29228##
+29229##
+
+// 2015 06 무한의던전
+4642#Side Step#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Immortal#
+4648#Provocation#
+4649#Fatal Blow#
+4650#Magic Stern#
+4651#King of#
+
+//2021 0513 말랑도 인챈트 스톤 12
+29358##
+29359##
+29360##
+29361##
+29362##
+
+//2021 0527 1주년 기념 이벤트 아이템
+300291#The First#
+
+//2021 0610 인챈트 스톤 13
+29423##
+29424##
+29425##
+29426##
+29428##
+29429##
+29430##
+29431##
+29432##
+29433##
+29434##
+29435##
+
+//2015 신종족
+4659#Adventurer's#
+4660#Strong Willed#
+4661#Toughness#
+4662#Trinitarian#
+4663#Pretty#
+4664#Pure#
+4665#Honey#
+4666#Sugar#
+4667#Wake#
+4668#Silky#
+4669#Gust#
+4670#Blaze#
+
+//EP16_1
+4446#Sharpen#
+4633#Queenbird#
+4634#Fatal#
+4635#Solid#
+4636#Armed#
+4637#Of Drain#
+4638#Flade#
+4639#Military#
+4640#Intellectual#
+4641#Of Soul Gathering#
+31024#Volcanic#
+31025#Deadly#
+31026#Auto magic#
+4994##
+4995##
+4996##
+4997##
+4998##
+4999##
+29000##
+29001##
+29002##
+29003##
+29004##
+29005##
+29006##
+29007##
+29008##
+29009##
+29010##
+29011##
+
+//영웅의 흔적 파트3 펜릴과사라 MD
+4610#Blessed#
+
+//2021 0701 브라질리스 카드 추가
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal Wave#
+27123#Insect collective#
+27124#Hunting#
+27125#Aqua Benedict#
+27126#Python#
+
+//2021 0715 태국 팝콘 이벤트(KRO 2017 버전)
+29239##
+29380##
+29381##
+4870##
+
+//2021 0811 영웅의 흔적 Part 1 카드 추가
+27163#Abranchia#
+27164#Coya#
+27165#Avian#
+27166#Frio#
+27167#Glacial#
+27168#Padre#
+27169#Infante#
+
+//2021 0826 데빌 스크롤
+300209#Weak Punishment#
+
+//2021 0902 EP16_2 추가컨텐츠
+27147#Intensive#
+27148#Deft#
+27149#Sage#
+27150#of High Level#
+27151#Freeze#
+27152#Prompt#
+
+//2021 1007 캔디위치 스크롤
+27221#Half Educe#
+
+//2021 1014 인챈트 스톤 상자 15
+29477##
+29478##
+29479##
+29480##
+29481##
+29482##
+29483##
+29484##
+29485##
+29486##
+29487##
+29488##
+
+//2021 1021 신규카드 32종(락릿지 제외)
+27249#Archi#
+27250#Anemos#
+27251#Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Hase#
+27257#Akuma#
+27258#Ifodes#
+27259#Licheniyes#
+27260#Odorico#
+27261#Juu#
+27262#Dwigh#
+27263#Kanavian#
+27264#Evil Shadow#
+27265#Evil Fanatic#
+
+//2021 1111 생체연구소 : 전사자의 무덤
+4671#of Sorcerer#
+4672#of Sura#
+4673#of Minstrel#
+4674#of Guillotine Cross#
+4675#of Archbishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of RuneKnight#
+4680#of RoyalGuard#
+4681#of Genetic#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Powerstorm#
+4689#Ignition#
+4690#Drive#
+4691#Neostorm#
+4692#Varetyr#
+4693#Rampage Blast#
+4694#Decoy#
+4695#Rainstorm#
+4696#Sound Shock#
+
+//2022 0127 일루전 오브 문라이트
+27081#Moonlight#
+27082#Fox Tail#
+27083#Growth#
+27084#Macabre#
+27085#Delicate#
+27086#Sagittarius#
+27087#Truth#
+27088#Instigating#
+
+//2022 0203 인 러브 스크롤
+4501#Half Protection#
+
+//2022 0224 일루전 오브 뱀파이어
+27101#Sorcery#
+27102#Fire Immune#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
+
+//2022 0414 로컬라이징 락 릿지
+27170#Dust#
+27171#Sunset#
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27176#Dirty#
+27177#Marsh#
+27178#Zero Guard#
+27179#Wild Fang#
+27180#Power Break#
+
+//2022 0414 일루전 오브 프로즌
+// 2017년 2월 일루전 오브 프로즌
+27110#Fast-footed#
+27111#Crisp#
+27112#Hardy#
+27113#Frozen#
+
+//2017년 4월 일루전 오브 터틀아일랜드
+27114#Firm#
+27115#Sensible#
+27116#Dual Critical#
+27117#Lethal#
+27118#of Pierce#
+27119#of Turtle Shell#
+
+//2022 5월 2주년 이벤트
+27417#Joyful#
+
+//2022 06 일루전 테디베어
+27286#Lumping#
+27287#of Luminant#
+27288#of Worker#
+27289#Proper#
+27290#of Obsidian#
+
+//2022 3분기 3차 직업군 레벨확장(185lv)
+27346#of Howling#
+27347#Crack#
+27348#Nowhere#
+27349#of Flame Barrier#
+27350#of Dragon Spirit#
+27351#of Dragon Heart#
+27352#Slumber#
+27353#of Demonic Barrier#
+27354#of Deprave#
+27355#Depraved#
+27356#of Frozen Guard#
+27357#of Dirty Glove#
+27358#Breaking#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Heavy Blade#
+27362#of Queen Spider#
+27363#Doomed#
+
+//영웅의 흔적 2파트
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Onslaught#
+27184#Salvation#
+
+//2022 07 21 신성한 스크롤 신규 봉카
+300207#of half Luminant#
+
+//일루전 오브 루안다
+27291#Full Charging#
+27292#of Stalactic#
+27293#of Cricler#
+27294#of Big stone#
+27295#of Stone shooter#
+27296#of Wootan shooter#
+27297#Wootan Fist#
+27298#of Big Shileder#
+
+//2018 에피 17.1 카드
+27304#Health#
+27305#Hell Inferno#
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sacred#
+27309#of Holy Power#
+27310#of Immortal#
+27311#Heavy knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27318#of Tiger Power#
+27319#Poison Break#
+27320#Enhance Fire#
+
+//일루전오브라비린스 카드
+27338#Of Double Power#
+27339#The Ghost#
+27340#Of Angry Killer#
+27334#Of Chaotic#
+27341#Of Watershell#
+27335#Of Black Guard#
+27342#Metal Ground#
+27336#Of Viper#
+27343#Holy Spell#
+27337#Hunting Breeze#
+
+//글래스트헤임 에다 카드
+27329#Of Schmidt#
+
+//2023 05 25 3aniv
+27196#Heine#
+27197#Lugenburg#
+27198#Wigner#
+27199#Nerious#
+27200#Nihil's#
+27201#Agnes's#
+27202#Jurgen's#
+27203#Spica's#
+27330#Kronecker's#
+27331#of Granz Heine#
+27332#Skia's#
+27333#of Shiny Nerious#
+27393#Kathryn's#
+27394#of Virtuos Wigner#
+27395#Isaac's#
+27396#of Bright Wigner#
+300127#Wolf's#
+300128#of Wolf Lugenburg#
+300129#Poe's#
+300130#of Richard#
+300307#Meyer's#
+300308#of Meyer#
+300309#Helmut's#
+300310#of Lugenburg#
+27418#Agony#
+27419#Grudge#
+27420#Decree#
+300479#Agony#
+300480#Grudge#
+300481#Decree#
+
+//에피소드14.3 모로크카드
+27325#Muspelheim#
+27326#Destructive#
+27327#Grim Reaper Ankou#
+27321#Demon God's#
+27328#Corrupt Life#
+27322#Dominator's#
+27323#Coordinator's#
+27324#Brinaranea#
+
+//2023 08 10
+4550#Upper Shaft#
+
+//2023 3Q part2 고성 도전모드
+27381#of Fallen Angel#
+27382#of Creep#
+27383#of Relax#
+27384#Magical Knightage#
+27385#Magical Knightage#
+27386#Exorcist's#
+27387#Undead Slayer's#
+27388#Strong Recovery#
+
+
+//2023 4Q - 200레벨 확장 지역 카드
+300001#High Envenom#
+300002#Bulletproof Vest's#
+300003#of Wild Dog#
+300004#of Iron Wall#
+300005#of High Worker#
+300006#of Psychic#
+300007#Solid Break#
+300008#Holy Twinkle#
+300009#Ghost Magical#
+300010#Wind Magical#
+300011#Saint Magical#
+300012#of Sacred#
+300013#Reginleif#
+300014#Ingrid#
+300015#Remedy Low Level#
+300016#of Treasure#
+300017#High Hallowed#
+300018#High Damned#
+300019#Dragon Slayer's#
+300020#Poacher's#
+300021#Dragon Killer#
+
+//2023 09 21
+27210#Half Penetration#
+
+//2023 10 19
+27421#of Strength#
+27422#of Agility#
+27423#of Dexterity#
+27424#of Fatality#
+27425#of Vitality#
+27426#of Intelligence#
+
+//2024 1Q
+
+//에피소드17.2카드
+300076#of Royal Guard#
+300077#of Mechanic#
+300078#Mad Dance#
+300079#Middle Dry#
+300080#Dry#
+300081#of Magician#
+300082#Piercing#
+300083#of Ninja#
+300084#of Holy#
+300085#of Taekwon#
+300086#Heavy Attack#
+300087#of Shadow Cat#
+300088#Cross Flower#
+300089#of Assault#
+300090#of Land Power#
+300091#of Gunman#
+300092#of Merchant#
+300093#of Acolyte#
+300094#Mad Lethal#
+300095#of Keen#
+300096#Harmony#
+300097#of Thief#
+300098#Ninja's#
+300099#of Minor Guard#
+300100#of Major Guard#
+300101#of Rune Knight#
+300102#of Genetic#
+300103#Mermaid#
+300104#of Sorcerer#
+300105#of Warlock#
+300106#Fire Magical#
+300107#Fruit#
+300108#of Shadow Chaser#
+300109#of Guillotine Cross#
+300110#of Kagerou#
+300111#of Oboro#
+300112#of Soul Reaper#
+300113#of Talent#
+300114#Immortal Magical#
+300115#of Archbishop#
+300116#of Sura#
+300117#of Ranger#
+300118#of Star Master#
+300119#of Rebellion#
+300120#Shoal's#
+300121#Purified Water's#
+300122#Saint#
+300123#Formless's#
+300124#Water Magical#
+300125#of Summoner#
+
+//2024 05 09 일루전 언더워터
+300140#Enhance Thunder#
+300141#Mermaid's#
+300142#Undersea#
+300143#of Anti Insect#
+300144#Stabbing#
+300145#of Abyss Witch#
+300146#Fatal Fish#
+300147#Seabed#
+300148#Deep sea#
+300149#of Fish Killer#
+300150#of Sword Expert#
+300151#Marine Nightmare#
+
+//2024 05 30
+300553#Highness#
+300421#Catherine's#
+300422#of Gaebolg#
+300423#Friedrich's#
+300424#of Stolz Heine#
+300425#Crux's#
+300426#of Findel#

@@ -1,0 +1,58 @@
+%faf0e6
+^000088หิวจนไส้กิ่ว จะ Poring หรือ Poporing ก็จะจับมาทำอาหารให้หมดเลย!^000000  
+
+แน่นอนว่าวิถีการทำอาหารคือการทิ้งอาหารให้เหลือเอาไว้! - สูตรอาหารเลเวล 7 -  
+
+
+^ff0000Whole Barbecue :^000000 เนื้อย่างทั้งชิ้นแสนอร่อย!  
+วัตถุดิบ : ^4b0082Meat 1 ea, Live Coal 1 ea, Coal 1 ea, Hot Sauce 1 ea, Trunk 1 ea, White Herb 1 ea^000000  
+วิธีทำ : ล้าง Meat ให้สะอาด แล้วทาด้วย Hot Sauce ให้ทั่ว  
+          หั่น White Herb เป็นชิ้นเล็ก ๆ โรยลงไปบนเนื้อเล็กน้อย นำเนื้อไปวางบนตอไม้ที่สะอาดที่มีไฟถ่านจุดอยู่ด้านล่าง   
+          ช่วงที่เนื้อกำลังย่าง ให้ทา Hot Sauce ลงไปเรื่อย ๆ ตบท้ายด้วยการโรย White Herb อีกครั้ง  
+
+^0000ffSpecial Royal Jelly Herbal Tea :^000000 ระหว่างที่ดื่มชา ไม่ต้องกังวลว่าจะโดนผึ้งต่อย!  
+วัตถุดิบ : ^4b0082Royal Jelly 1 ea, Honey 1 ea, White Herb 1 ea, Hinalle Leaflet 1 ea, Yellow Spice 1 ea^000000  
+วิธีทำ : เหมือนกับ Herbal Honey Tea เลเวล 3 แต่ใช้ Hinalle Leaflet ที่คุณภาพดีกว่า  
+          และมี Honey กับ Royal Jelly ให้เคี้ยวเพลิน ๆ ด้วย  
+
+
+^800000Soul Haunted Bread :^000000 กินแล้วเหมือนวิญญาณจะหลุดออกจากร่าง  
+วัตถุดิบ : ^4b0082Bread 1 ea, Mastela Fruit 1 ea, Sweet Sauce 1 ea, Ment 1 ea, Amulet 1 ea, Unripe Apple 1 ea^000000  
+วิธีทำ : ปลอกเปลือกผล Mastela และ Apple เป็นชิ้นเล็ก ๆ  
+         ล้างใบ Ment ให้สะอาดแล้ว และหมัก Mastela Fruit และ Apple ที่หั่นเอาไว้กับน้ำตาลเป็นเวลา 30 นาที (น้ำตาลในอัตรา 1:1)  
+         ต้มวัตถุดิบที่เตรียมเอาไว้ทั้งหมด เมื่อเริ่มเดือด ลดให้ไฟเหลือเพียงปานกลาง แล้วใส่น้ำตาลเพิ่มเล็กน้อย และต้มต่อด้วยไฟอ่อน ๆ (ต้องคนเรื่อย ๆ ไม่ให้ติดก้นหม้อ)  
+         ใส่เกลือลงไปต้มจนมันเงาเพื่อทำเป็นแยม  
+         บด Amulet ให้ละเอียด และบ่มด้วย Sweet Sauce  
+         ทาแยมและ Sweet Sauce ลงบน Bread เป็นอันเสร็จ  
+
+^008040Steamed Alligator with Vegetable :^000000 เนื้อนุ่มและหนึบหนับจนน่าประหลาดใจ!  
+วัตถุดิบ : ^4b0082Anolian Skin 1 ea, Pumpkin-Head 1 ea, Carrot 1 ea, Aloe Leaflet 1 ea,  
+         Yellow Herb 1 ea, Yellow Spice 1 ea^000000  
+วิธีทำ : ล้าง Anolian Skin ให้สะอาด สับให้ละเอียด ใส่เกลือ พริกไทย ไข่แดง น้ำ และ Yellow Spice หมักให้เข้ากัน
+          นำ Carrot หั่นเป็นเส้นยาว นำ Aloe Leaflet และ Yellow Herb แล้วนำไปลวกน้ำเตรียมเอาไว้  
+          ส่วน Pumpkin-Head หั่นเป็นเส้น และนำไปผัดเล็กน้อย  
+          นำ Anolian Skin วางบนผ้าขาวบาง แล้วนึ่งในหม้อประมาณ 15 นาที  
+          และเอาออกมาหั่นเป็นชิ้นพอดีคำ รับประทานพร้อมกับผัก  
+
+^ff8040Sumptuous Feast :^000000 กินแล้วอยากไปจับหมูป่าบนเขา อยากตกปลาในทะเล!!  
+วัตถุดิบ : ^4b0082Fish Tail 1 ea, Aloe Leaflet 1 ea, Mane 1 ea, Delicious Fish 1 ea, 
+         Pet Food 1 ea, Sweet Sauce 1 ea^000000  
+วิธีทำ : ล้าง Aloe Leaflet ด้วยน้ำเกลือเตรียมเอาไว้  
+          ปอกเปลือกกระเทียม ทา Sweet Sauce ลงบน Delicious Fish แล้วทิ้งเอาไว้ 10 นาที  
+          ห่อ Delicious Fish ที่หมักทิ้งเอาไว้ด้วย Aloe Leaflet แล้วนำไปนึ่งพร้อมกับ Fish Tail เป็นเวลา 10 นาที  
+          หั่น Mane เป็นท่อนประมาณ 4cm แล้วนำไปลวกในน้ำเล็กน้อย  
+          จากนั้นนำ Pet Food มาหั่นเป็นชิ้นพอดีคำ ราดด้วย Sweet Sauce แล้วนำไปย่างบนกระทะร้อน  
+         
+
+^400080Assorted Shish Kebob :^000000 ถ้าไม่อยากโดนหนามทิ่มตอนกิน ก็ต้องเด็ดหนามให้สิ้นซาก!  
+วัตถุดิบ : ^4b0082Scale Shell 1 ea, Gill 1 ea, Soft Blade of Grass 1 ea, Meat 1 ea, 
+         Mushroom 1 ea, Clam Flesh 1 ea^000000  
+วิธีทำ : นำ Soft Blade of Grass มาหั่นเป็นสี่เหลี่ยม 4cm แล้วหั่น Mushroom ตามด้านยาว  
+          ล้าง Scale Shell ให้สะอาด และเลือกหนาม Gill ที่ชอบเตรียมเอาไว้   
+          ลวก Meat และ Clam Flesh เล็กน้อย  
+          นำ Meat, ผักต่าง ๆ, Clam Flesh ไปเสียบบนหนามของ Gill ที่เตรียมเอาไว้ตามลำดับ  
+          วาง Scale Shell ลงบนตะแกรง จากนั้นนำเนื้อย่างเสียบไม้ย่างให้ร้อนเป็นอันเสร็จ  
+
+^ff3366Level 7 Dishes :^000000 จานหลักของ Level 7 Dishes  
+วัตถุดิบ : ^4b0082Whole Barbecue 1 ea, Special Royal Jelly Herbal Tea 1 ea, Soul Haunted Bread 1 ea, Steamed Alligator with Vegetable 1 ea, Sumptuous Feast 1 ea, Assorted Shish Kebob 1 ea^000000  
+วิธีทำ : รวบรวมเมนูอาหาร Level 7 ทั้งหมดมาขึ้นโต๊ะอาหารอย่างยิ่งใหญ่เต็มที่  

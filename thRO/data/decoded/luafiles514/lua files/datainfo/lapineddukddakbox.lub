@@ -1,0 +1,4715 @@
+-- Decompiled using luadec 2.2 rev: 895d923 for Lua 5.1 from https://github.com/viruscamp/luadec
+-- Command line: .\data\luafiles514\lua files\datainfo\lapineddukddakbox.lub 
+
+-- params : ...
+-- function num : 0
+tblLapineDdukddakBox = {
+sources = {
+Shadow_Mix_Recipe_TH = {ItemID = 100623, NeedCount = 5, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Medium_Armor", 1, 24073}
+, 
+{"S_Medium_Weapon", 1, 24076}
+, 
+{"S_Lucky_Armor", 1, 24040}
+, 
+{"S_Lucky_Weapon", 1, 24034}
+, 
+{"S_Saharic_Shield", 1, 24200}
+, 
+{"S_Saharic_Armor", 1, 24188}
+, 
+{"S_Force_Weapon", 1, 24224}
+, 
+{"S_Force_Earring", 1, 24225}
+, 
+{"S_Force_Pendant", 1, 24226}
+, 
+{"S_Power_Earring", 1, 24035}
+, 
+{"S_Int_Earring", 1, 24042}
+, 
+{"S_Power_Pendant", 1, 24041}
+, 
+{"S_Int_Pendant", 1, 24036}
+, 
+{"S_Rookie_Shield", 1, 24213}
+, 
+{"S_Rookie_Shoes", 1, 24212}
+, 
+{"S_Flam_Shield", 1, 24202}
+, 
+{"S_Flam_Armor", 1, 24190}
+, 
+{"S_Ancient_Armor", 1, 24029}
+, 
+{"S_Kingbird_Weapon", 1, 24031}
+, 
+{"S_Gigantic_Earring", 1, 24238}
+, 
+{"S_Gigantic_Pendant", 1, 24239}
+, 
+{"S_Vital_Shield", 1, 24044}
+, 
+{"S_Vital_Shoes", 1, 24038}
+, 
+{"S_Athletic_Shield", 1, 24039}
+, 
+{"S_Athletic_Shoes", 1, 24045}
+, 
+{"S_Spiritual_Pendent", 1, 24080}
+, 
+{"S_Spiritual_Earring", 1, 24079}
+, 
+{"S_Spiritual_Weapon", 1, 24078}
+, 
+{"S_Malicious_Shield", 1, 24083}
+, 
+{"S_Malicious_Shoes", 1, 24082}
+, 
+{"S_Malicious_Armor", 1, 24081}
+, 
+{"S_Wise_Earring", 1, 24050}
+, 
+{"S_Hard_Earring", 1, 24049}
+, 
+{"S_Critical_Armor", 1, 24030}
+, 
+{"S_Cri_Hit_Weapon", 1, 24032}
+, 
+{"S_Spirit_Weapon", 1, 24228}
+, 
+{"S_Spirit_Earring", 1, 24229}
+, 
+{"S_Magical_Earring", 1, 24021}
+, 
+{"S_Magical_Weapon", 1, 24022}
+, 
+{"S_Caster_earring", 1, 24109}
+, 
+{"S_Caster_Weapon", 1, 24110}
+, 
+{"S_Blitz_Pendent", 1, 24218}
+, 
+{"S_Blitz_Earring", 1, 24217}
+, 
+{"S_Magical_Pendant", 1, 24023}
+, 
+{"S_Spirit_Pendant", 1, 24230}
+, 
+{"S_Caster_Pendant", 1, 24048}
+, 
+{"S_Blitz_Shoes", 1, 24231}
+, 
+{"S_Blitz_Shield", 1, 24232}
+, 
+{"S_Magician_Pendant", 1, 24254}
+, 
+{"S_Magician_earring", 1, 24249}
+, 
+{"S_Wizard_Shoes", 1, 24264}
+, 
+{"S_Wizard_Armor", 1, 24277}
+, 
+{"S_Warlock_Weapon", 1, 24296}
+, 
+{"S_Warlock_Shield", 1, 24309}
+, 
+{"S_Peerless_Armor", 1, 24095}
+, 
+{"S_Adurate_Armor", 1, 24097}
+, 
+{"S_Plasterer\'s_Armor", 1, 24091}
+, 
+{"S_Plasterer\'s_Shoes", 1, 24092}
+, 
+{"S_Adurate_Shoes", 1, 24098}
+, 
+{"S_Peerless_Shoes", 1, 24096}
+, 
+{"S_Stability_Shield", 1, 24090}
+, 
+{"S_Advanced_Shoes", 1, 24214}
+, 
+{"S_Advanced_Shield", 1, 24215}
+, 
+{"S_Big_Armor", 1, 24072}
+, 
+{"S_Big_Weapon", 1, 24075}
+, 
+{"S_Reload_Shield", 1, 24244}
+, 
+{"S_Reload_Shoes", 1, 24243}
+, 
+{"S_Reload_Armor", 1, 24245}
+, 
+{"S_Swordman_earring", 1, 24246}
+, 
+{"S_Swordman_Pendant", 1, 24250}
+, 
+{"S_Knight_Armor", 1, 24269}
+, 
+{"S_Knight_Shoes", 1, 24256}
+, 
+{"S_Assassin_Shoes", 1, 24262}
+, 
+{"S_Assassin_Armor", 1, 24275}
+, 
+{"S_Bearers_Armor", 1, 24180}
+, 
+{"S_Bearers_Shoes", 1, 24181}
+, 
+{"S_Bearers_Shield", 1, 24182}
+, 
+{"S_Bearers_Weapon", 1, 24183}
+, 
+{"S_Bearers_Earring", 1, 24184}
+, 
+{"S_Bearers_Pendent", 1, 24185}
+, 
+{"S_LightingBolt_Armor", 1, 24221}
+, 
+{"S_EarthSpike_Armor", 1, 24222}
+, 
+{"S_Neutral_Earring", 1, 24105}
+, 
+{"S_Neutral_Weapon", 1, 24104}
+, 
+{"S_Neutral_Pendent", 1, 24106}
+, 
+{"S_ColdBolt_Armor", 1, 24219}
+, 
+{"S_FireBolt_Armor", 1, 24220}
+, 
+{"S_Greed_Weapon", 1, 24117}
+, 
+{"S_Greed_Shoes", 1, 24115}
+, 
+{"S_Greed_Pendant", 1, 24119}
+, 
+{"S_Greed_Shield", 1, 24116}
+, 
+{"S_Greed_Earring", 1, 24118}
+, 
+{"S_Greed_Armor", 1, 24114}
+, 
+{"S_Gemstone_Armor", 1, 24084}
+, 
+{"S_Gemstone_Shield", 1, 24086}
+, 
+{"S_Gemstone_Shoes", 1, 24085}
+, 
+{"S_Gemstone_Weapon", 1, 24087}
+, 
+{"S_Gemstone_Earring", 1, 24088}
+, 
+{"S_Gemstone_Pendent", 1, 24089}
+, 
+{"S_Heal_Shoes", 1, 24121}
+, 
+{"S_Heal_Shield", 1, 24122}
+, 
+{"S_Cloaking_Armor", 1, 24132}
+, 
+{"S_Cloaking_Weapon", 1, 24135}
+, 
+{"S_Hiding_Earring", 1, 24130}
+, 
+{"S_Hiding_Pendant", 1, 24131}
+, 
+{"S_Immune_Armor", 1, 24027}
+, 
+{"S_Athena_Shield", 1, 24026}
+, 
+{"S_Penetration_Earring", 1, 24166}
+, 
+{"S_Penetration_Pendent", 1, 24167}
+, 
+{"S_Vibration_Weapon", 1, 24163}
+, 
+{"S_Exorcist_Weapon", 1, 24157}
+, 
+{"S_Tempest_Earring", 1, 24168}
+, 
+{"S_Tempest_Pendent", 1, 24169}
+, 
+{"S_M_Vibration_Weapon", 1, 24177}
+, 
+{"S_M_Exorcist_Weapon", 1, 24171}
+, 
+{"S_Guillotine_Weapon", 1, 24294}
+, 
+{"S_Guillotine_Shield", 1, 24307}
+, 
+{"S_Thief_earring", 1, 28391}
+, 
+{"S_Thief_Pendant", 1, 24253}
+, 
+{"S_Blitz_Weapon", 1, 24343}
+, 
+{"S_Blitz_Armor", 1, 24344}
+, 
+{"Unfreeze_Pendent_S", 1, 24101}
+, 
+{"Unfreeze_Earing_S", 1, 24100}
+, 
+{"Unfreez_Weapon_S", 1, 24099}
+, 
+{"S_Sorcerer_Weapon", 1, 24297}
+, 
+{"S_Sorcerer_Shield", 1, 24310}
+, 
+{"S_Immortal_Pendant", 1, 24155}
+, 
+{"S_Immortal_Armor", 1, 24154}
+, 
+{"S_Solid_Earring", 1, 24153}
+, 
+{"S_Solid_Weapon", 1, 24152}
+, 
+{"S_Titan_Earring", 1, 24234}
+, 
+{"S_Titan_Pendant", 1, 24235}
+, 
+{"S_Runeknight_Weapon", 1, 24288}
+, 
+{"S_Runeknight_Shield", 1, 24301}
+, 
+{"S_Sage_Shoes", 1, 24265}
+, 
+{"S_Sage_Armor", 1, 24278}
+, 
+{"S_M_Fishing_Weapon", 1, 24174}
+, 
+{"S_M_Insect_Net_Weapon", 1, 24173}
+, 
+{"S_Fishing_Weapon", 1, 24160}
+, 
+{"S_Insect_Net_Weapon", 1, 24159}
+, 
+{"S_Mechanic_weapon", 1, 24290}
+, 
+{"S_Mechanic_Shield", 1, 24303}
+, 
+{"S_Merchant_Pendant", 1, 24251}
+, 
+{"S_Merchant_earring", 1, 24247}
+, 
+{"S_Blacksmith_Armor", 1, 24271}
+, 
+{"S_Blacksmith_Shoes", 1, 24258}
+, 
+{"S_M_Holy_Water_Weapon", 1, 24178}
+, 
+{"S_Holy_Water_Weapon", 1, 24164}
+, 
+{"S_Infinity_Earring", 1, 24150}
+, 
+{"S_Infinity_Pendant", 1, 24151}
+, 
+{"S_Shadowchaser_Shield", 1, 24308}
+, 
+{"S_Shadowchaser_Weapon", 1, 24295}
+, 
+{"S_Physical_Weapon", 1, 24019}
+, 
+{"S_Physical_Pendant", 1, 24020}
+, 
+{"S_Physical_Earring", 1, 24018}
+, 
+{"S_Archer_Pendant", 1, 24255}
+, 
+{"S_Archer_earring", 1, 28392}
+, 
+{"S_Hunter_Armor", 1, 24279}
+, 
+{"S_Hunter_Shoes", 1, 24266}
+, 
+{"S_Royalguard_Weapon", 1, 24289}
+, 
+{"S_Royalguard_Shield", 1, 24302}
+, 
+{"S_Heal_Pendant", 1, 24125}
+, 
+{"S_Steal_Pendant", 1, 24149}
+, 
+{"S_Teleport_Pendant", 1, 24143}
+, 
+{"S_Heal_Earring", 1, 24124}
+, 
+{"S_Steal_Earring", 1, 24148}
+, 
+{"S_Teleport_Earring", 1, 24142}
+, 
+{"S_Acolyte_earring", 1, 24248}
+, 
+{"S_Acolyte_Pendant", 1, 24252}
+, 
+{"S_Crusader_Armor", 1, 24270}
+, 
+{"S_Crusader_Shoes", 1, 24257}
+, 
+{"S_Executioner_Weapon", 1, 24156}
+, 
+{"S_M_Executioner_Weapon", 1, 24170}
+, 
+{"S_Breezy_Armor", 1, 24024}
+, 
+{"S_Hard_Armor", 1, 24028}
+, 
+{"S_Champion_Shoes", 1, 24025}
+, 
+{"S_Rogue_Armor", 1, 24276}
+, 
+{"S_Rogue_Shoes", 1, 24263}
+, 
+{"S_Flameguard_Shield", 1, 24059}
+, 
+{"S_Dragoon_Shield", 1, 24057}
+, 
+{"S_Dragoon_Shoes", 1, 24071}
+, 
+{"S_Beholder_Shoes", 1, 24069}
+, 
+{"S_Dragon_Killer_Weapon", 1, 24161}
+, 
+{"S_Scissors_Weapon", 1, 24165}
+, 
+{"S_Corrupt_Weapon", 1, 24162}
+, 
+{"S_Hunting_Weapon", 1, 24158}
+, 
+{"S_Spell_Flow_Shoes", 1, 24111}
+, 
+{"S_Spell_Flow_Shield", 1, 24113}
+, 
+{"S_Spell_Flow_Armor", 1, 24112}
+, 
+{"S_Hasty_Armor", 1, 24197}
+, 
+{"S_Hasty_Shoes", 1, 24196}
+, 
+{"S_M_Scissors_Weapon", 1, 24179}
+, 
+{"S_M_Corrupt_Weapon", 1, 24176}
+, 
+{"S_M_Dragon_K_Weapon", 1, 24175}
+, 
+{"S_M_Hunting_Weapon", 1, 24172}
+, 
+{"S_DoramPhysical_Weapon", 1, 24287}
+, 
+{"S_DoramPhysical_Shield", 1, 24316}
+, 
+{"S_DoramMagical_Weapon", 1, 24286}
+, 
+{"S_DoramMagical_Shield", 1, 24317}
+, 
+{"Vitality_Earing_S", 1, 24102}
+, 
+{"Vitality_Pendant_S", 1, 24103}
+, 
+{"S_Bard_Armor", 1, 24280}
+, 
+{"S_Bard_Shoes", 1, 24267}
+, 
+{"S_Dancer_Armor", 1, 24281}
+, 
+{"S_Dancer_Shoes", 1, 24268}
+, 
+{"S_Ninja_Shield", 1, 24314}
+, 
+{"S_Ninja_Weapon", 1, 24285}
+, 
+{"S_Requiem_Shield", 1, 24060}
+, 
+{"S_Divine_Shoes", 1, 24070}
+, 
+{"S_Hiding_Weapon", 1, 24129}
+, 
+{"S_Steal_Weapon", 1, 24147}
+, 
+{"S_Teleport_Weapon", 1, 24141}
+, 
+{"S_Alchemist_Armor", 1, 24272}
+, 
+{"S_Alchemist_Shoes", 1, 24259}
+, 
+{"S_Genetic_Shield", 1, 24304}
+, 
+{"S_Genetic_Weapon", 1, 24291}
+, 
+{"S_Curse_Lift_Earring", 1, 24107}
+, 
+{"S_Curse_Lift_Pendent", 1, 24108}
+, 
+{"S_Hiding_Shield", 1, 24128}
+, 
+{"S_Steal_Shield", 1, 24146}
+, 
+{"S_Teleport_Shield", 1, 24140}
+, 
+{"S_Rapid_Pendant", 1, 24047}
+, 
+{"S_Satanic_Shield", 1, 24058}
+, 
+{"S_Seraphim_Shoes", 1, 24068}
+, 
+{"S_Critical_Shoes", 1, 24333}
+, 
+{"S_Critical_Shield", 1, 24332}
+, 
+{"S_Archbishop_Weapon", 1, 24292}
+, 
+{"S_Archbishop_Shield", 1, 24305}
+, 
+{"S_SuperNovice_Shield", 1, 24318}
+, 
+{"S_SuperNovice_Weapon", 1, 24282}
+, 
+{"S_Priest_Shoes", 1, 24260}
+, 
+{"S_Priest_Armor", 1, 24273}
+, 
+{"S_Bloody_Shoes", 1, 24062}
+, 
+{"S_Chemical_Shoes", 1, 24064}
+, 
+{"S_Cranial_Shield", 1, 24052}
+, 
+{"S_Cadi_Shield", 1, 24061}
+, 
+{"S_Hiding_Shoes", 1, 24127}
+, 
+{"S_Steal_Shoes", 1, 24145}
+, 
+{"S_Teleport_Shoes", 1, 24139}
+, 
+{"S_Monk_Shoes", 1, 24261}
+, 
+{"S_Monk_Armor", 1, 24274}
+, 
+{"S_Gunslinger_Weapon", 1, 24283}
+, 
+{"S_Gunslinger_Shield", 1, 24319}
+, 
+{"S_Dexterous_Weapon", 1, 24043}
+, 
+{"S_Dexterous_Armor", 1, 24037}
+, 
+{"S_Sura_weapon", 1, 24293}
+, 
+{"S_Sura_Shield", 1, 24306}
+, 
+{"S_Minstrel_Weapon", 1, 24299}
+, 
+{"S_Wanderer_Weapon", 1, 24300}
+, 
+{"S_Minstrel_Shield", 1, 24312}
+, 
+{"S_Wanderer_Shield", 1, 24313}
+, 
+{"S_Enhance_Force_Weapon", 1, 24223}
+, 
+{"S_Enhance_Spirit_Weapon", 1, 24227}
+, 
+{"S_Ranger_Shield", 1, 24311}
+, 
+{"S_Ranger_Weapon", 1, 24298}
+, 
+{"S_Sigrun_Armor", 1, 24326}
+, 
+{"S_Sigrun_Shield", 1, 24327}
+, 
+{"S_Taekwon_Weapon", 1, 24284}
+, 
+{"S_Taekwon_Shield", 1, 24315}
+, 
+{"S_Gargantua_Shield", 1, 24055}
+, 
+{"S_Insecticide_Shoes", 1, 24066}
+, 
+{"S_Brutal_Shield", 1, 24054}
+, 
+{"S_Clamorous_Shoes", 1, 24065}
+, 
+{"S_Resist_Spell_Pendant", 1, 24046}
+, 
+{"S_Cloaking_Pendant", 1, 24137}
+, 
+{"S_Boned_Pendant", 1, 24237}
+, 
+{"S_Athena_Earring", 1, 24051}
+, 
+{"S_Cloaking_Earring", 1, 24136}
+, 
+{"S_DoramMagical_Shoes", 1, 24411}
+, 
+{"S_DoramMagical_Armor", 1, 24410}
+, 
+{"S_Insomniac_Armor", 1, 24093}
+, 
+{"S_Insomniac_Shoes", 1, 24094}
+, 
+{"S_Boned_Earring", 1, 24236}
+, 
+{"S_Tension_Weapon", 1, 24360}
+, 
+{"S_Tension_Earring", 1, 24361}
+, 
+{"S_Tension_Pendent", 1, 24362}
+, 
+{"S_Elegant_Weapon", 1, 24363}
+, 
+{"S_Elegant_Earring", 1, 24364}
+, 
+{"S_Elegant_Pendent", 1, 24365}
+, 
+{"S_Rebellion_Shoes", 1, 24405}
+, 
+{"S_Rebellion_Armor", 1, 24402}
+, 
+{"S_Penetration_Shoes", 1, 24373}
+, 
+{"S_Penetration_Shield", 1, 24374}
+, 
+{"S_ExeHoly_Armor", 1, 24375}
+, 
+{"S_ExoCorrupt_Armor", 1, 24376}
+, 
+{"S_DragonVib_Armor", 1, 24377}
+, 
+{"S_SciHunting_Armor", 1, 24378}
+, 
+{"S_FishInsect_Armor", 1, 24379}
+, 
+{"S_Tempest_Shield", 1, 24345}
+, 
+{"S_Tempest_Shoes", 1, 24346}
+, 
+{"S_M_ExeHoly_Armor", 1, 24347}
+, 
+{"S_M_ExoCorrupt_Armor", 1, 24348}
+, 
+{"S_M_DragonVib_Armor", 1, 24349}
+, 
+{"S_M_SciHunting_Armor", 1, 24350}
+, 
+{"S_M_FishInsect_Armor", 1, 24351}
+, 
+{"S_Cloaking_Shield", 1, 24134}
+, 
+{"S_Oboro_Shoes", 1, 24407}
+, 
+{"S_Kagerou_Shoes", 1, 24406}
+, 
+{"S_Oboro_Armor", 1, 24404}
+, 
+{"S_Kagerou_Armor", 1, 24403}
+, 
+{"S_Fisher_Shoes", 1, 24067}
+, 
+{"S_Steal_Armor", 1, 24144}
+, 
+{"S_Beginner_Shield", 1, 24211}
+, 
+{"S_Beginner_Shoes", 1, 24210}
+, 
+{"S_DoramPhysical_Shoes", 1, 24409}
+, 
+{"S_DoramPhysical_Armor", 1, 24408}
+, 
+{"S_Small_Weapon", 1, 24077}
+, 
+{"S_Exceed_Weapon", 1, 24233}
+, 
+{"S_Healing_Weapon", 1, 24033}
+, 
+{"S_Heal_Weapon", 1, 24123}
+, 
+{"S_Caster_Shoes", 1, 24240}
+, 
+{"S_Caster_Armor", 1, 24242}
+, 
+{"S_Damned_Armor", 1, 24193}
+, 
+{"S_Attack_Armor", 1, 24216}
+, 
+{"S_Penetration_Armor", 1, 24433}
+, 
+{"S_Penetration_Weapon", 1, 24432}
+, 
+{"S_Windy_Shield", 1, 24203}
+, 
+{"S_Envenom_Shield", 1, 24204}
+, 
+{"S_Windy_Armor", 1, 24191}
+, 
+{"S_Envenom_Armor", 1, 24192}
+, 
+{"S_Rampage_Armor", 1, 24476}
+, 
+{"S_Rampage_Shield", 1, 24477}
+, 
+{"S_Rampage_Shoes", 1, 24478}
+, 
+{"S_Adoramus_Weapon", 1, 24491}
+, 
+{"S_Adoramus_Pendant", 1, 24492}
+, 
+{"S_Adoramus_Earing", 1, 24493}
+, 
+{"S_Cannon_Cart_Weapon", 1, 24563}
+, 
+{"S_Cannon_Cart_Pendant", 1, 24564}
+, 
+{"S_Cannon_Cart_Earing", 1, 24565}
+, 
+{"S_Arms_Weapon", 1, 24473}
+, 
+{"S_Arms_Pendant", 1, 24474}
+, 
+{"S_Arms_Earing", 1, 24475}
+, 
+{"S_Menace_Armor", 1, 24530}
+, 
+{"S_Menace_Shield", 1, 24531}
+, 
+{"S_Menace_Shoes", 1, 24532}
+, 
+{"S_Crimson_Shoes", 1, 24520}
+, 
+{"S_Crimson_Armor", 1, 24518}
+, 
+{"S_Crimson_Shield", 1, 24519}
+, 
+{"S_Rainstorm_Shoes", 1, 24502}
+, 
+{"S_Rainstorm_Armor", 1, 24500}
+, 
+{"S_Rainstorm_Shield", 1, 24501}
+, 
+{"S_Rolling_Shoes", 1, 24538}
+, 
+{"S_Rolling_Armor", 1, 24536}
+, 
+{"S_Rolling_Shield", 1, 24537}
+, 
+{"S_Genesis_Earing", 1, 24583}
+, 
+{"S_Genesis_Pendant", 1, 24582}
+, 
+{"S_Genesis_Weapon", 1, 24581}
+, 
+{"S_Dust_Shoes", 1, 24550}
+, 
+{"S_Dust_Armor", 1, 24548}
+, 
+{"S_Dust_Shield", 1, 24549}
+, 
+{"S_Arrow_Armor", 1, 24458}
+, 
+{"S_Arrow_Shoes", 1, 24460}
+, 
+{"S_Arrow_Shield", 1, 24459}
+, 
+{"S_F_Breath_Earing", 1, 24451}
+, 
+{"S_F_Breath_Pendant", 1, 24450}
+, 
+{"S_F_Breath_Weapon", 1, 24449}
+, 
+{"S_W_Breath_Shoes", 1, 24448}
+, 
+{"S_W_Breath_Armor", 1, 24446}
+, 
+{"S_W_Breath_Shield", 1, 24447}
+, 
+{"S_Judex_Armor", 1, 24494}
+, 
+{"S_Judex_Shield", 1, 24495}
+, 
+{"S_Judex_Shoes", 1, 24496}
+, 
+{"S_Chain_Weapon", 1, 24521}
+, 
+{"S_Chain_Pendant", 1, 24522}
+, 
+{"S_Chain_Earing", 1, 24523}
+, 
+{"S_Banish_Cannon_Armor", 1, 24578}
+, 
+{"S_Banish_Cannon_Shield", 1, 24579}
+, 
+{"S_Banish_Cannon_Shoes", 1, 24580}
+, 
+{"S_Shadowspell_Weapon", 1, 24527}
+, 
+{"S_Shadowspell_Pendant", 1, 24528}
+, 
+{"S_Shadowspell_Earing", 1, 24529}
+, 
+{"S_Slash_Armor", 1, 24542}
+, 
+{"S_Slash_Shield", 1, 24543}
+, 
+{"S_Slash_Shoes", 1, 24544}
+, 
+{"S_Cart_Tornado_Armor", 1, 24560}
+, 
+{"S_Cart_Tornado_Shield", 1, 24561}
+, 
+{"S_Cart_Tornado_Shoes", 1, 24562}
+, 
+{"S_Star_Emperor_Armor", 1, 24412}
+, 
+{"S_Star_Emperor_Shoes", 1, 24413}
+, 
+{"S_Soul_Reaper_Armor", 1, 24414}
+, 
+{"S_Soul_Reaper_Shoes", 1, 24415}
+, 
+{"S_Trip_Weapon", 1, 24613}
+, 
+{"S_Trip_Shield", 1, 24614}
+, 
+{"S_Trip_Armor", 1, 24615}
+, 
+{"S_Syuriken_Earing", 1, 24625}
+, 
+{"S_Syuriken_Pendant", 1, 24626}
+, 
+{"S_Syuriken_Shoes", 1, 24627}
+, 
+{"S_Huusouka_Earing", 1, 24631}
+, 
+{"S_Huusouka_Pendant", 1, 24632}
+, 
+{"S_Huusouka_Shoes", 1, 24633}
+, 
+{"S_Arrowvulcan_Earing", 1, 24505}
+, 
+{"S_Arrowvulcan_Pendant", 1, 24504}
+, 
+{"S_Arrowvulcan_Weapon", 1, 24503}
+, 
+{"S_Tornado_Shoes", 1, 24466}
+, 
+{"S_Tornado_Armor", 1, 24464}
+, 
+{"S_Tornado_Shield", 1, 24465}
+, 
+{"S_Aimed_Earing", 1, 24457}
+, 
+{"S_Aimed_Pendant", 1, 24456}
+, 
+{"S_Aimed_Weapon", 1, 24455}
+, 
+{"S_Super_Power_Weapon", 1, 24619}
+, 
+{"S_Super_Power_Pendant", 1, 24620}
+, 
+{"S_Super_Power_Earing", 1, 24621}
+, 
+{"S_S_Weapon", 1, 24655}
+, 
+{"S_S_Shield", 1, 24656}
+, 
+{"S_S_Armor", 1, 24657}
+, 
+{"S_TigerCannon_Weapon", 1, 24485}
+, 
+{"S_Tigercannon_Pendant", 1, 24486}
+, 
+{"S_Tigercannon_Earing", 1, 24487}
+, 
+{"S_Grave_Weapon", 1, 24551}
+, 
+{"S_Grave_Pendant", 1, 24552}
+, 
+{"S_Grave_Earing", 1, 24553}
+, 
+{"S_Small_Armor", 1, 24074}
+, 
+{"S_Duplelight_Shoes", 1, 24490}
+, 
+{"S_Duplelight_Armor", 1, 24488}
+, 
+{"S_Duplelight_Shield", 1, 24489}
+, 
+{"S_Metalic_Shoes", 1, 24508}
+, 
+{"S_Metalic_Armor", 1, 24506}
+, 
+{"S_Metalic_Shield", 1, 24507}
+, 
+{"S_Strain_Earing", 1, 24517}
+, 
+{"S_Strain_Pendant", 1, 24516}
+, 
+{"S_Strain_Weapon", 1, 24515}
+, 
+{"S_Cluster_Armor", 1, 24452}
+, 
+{"S_Cluster_Shield", 1, 24453}
+, 
+{"S_Cluster_Shoes", 1, 24454}
+, 
+{"S_Triangle_Armor", 1, 24524}
+, 
+{"S_Triangle_Shield", 1, 24525}
+, 
+{"S_Triangle_Shoes", 1, 24526}
+, 
+{"S_Sunshine_Weapon", 1, 24646}
+, 
+{"S_Sunshine_Shield", 1, 24647}
+, 
+{"S_Sunshine_Armor", 1, 24648}
+, 
+{"S_Shatter_Buster_Earing", 1, 24610}
+, 
+{"S_Shatter_B_Pendant", 1, 24611}
+, 
+{"S_Shatter_Buster_Shoes", 1, 24612}
+, 
+{"S_Catnip_Weapon", 1, 24640}
+, 
+{"S_Catnip_Shield", 1, 24641}
+, 
+{"S_Catnip_Armor", 1, 24642}
+, 
+{"S_Psychic_Armor", 1, 24554}
+, 
+{"S_Psychic_Shield", 1, 24555}
+, 
+{"S_Psychic_Shoes", 1, 24556}
+, 
+{"S_Kunai_Weapon", 1, 24622}
+, 
+{"S_Kunai_Shield", 1, 24623}
+, 
+{"S_Kunai_Armor", 1, 24624}
+, 
+{"S_SavageRabbit_Earing", 1, 24637}
+, 
+{"S_SavageRabbit_Pendant", 1, 24638}
+, 
+{"S_SavageRabbit_Shoes", 1, 24639}
+, 
+{"S_Tail_Dragon_Weapon", 1, 24601}
+, 
+{"S_Tail_Dragon_Shield", 1, 24602}
+, 
+{"S_Tail_Dragon_Armor", 1, 24603}
+, 
+{"S_Sonic_Shield", 1, 24441}
+, 
+{"S_Sonic_Armor", 1, 24440}
+, 
+{"S_Sonic_Shoes", 1, 24442}
+, 
+{"S_Ignition_Weapon", 1, 24443}
+, 
+{"S_Ignition_Pendant", 1, 24444}
+, 
+{"S_Ignition_Earing", 1, 24445}
+, 
+{"S_Moonlight_Earring", 1, 24649}
+, 
+{"S_Moonlight_Pendant", 1, 24650}
+, 
+{"S_Moonlight_Shoes", 1, 24651}
+, 
+{"S_Skynetblow_Weapon", 1, 24479}
+, 
+{"S_Skynetblow_Pendant", 1, 24480}
+, 
+{"S_Skynetblow_Earing", 1, 24481}
+, 
+{"S_Spore_Bomb_Armor", 1, 24566}
+, 
+{"S_Spore_Bomb_Shield", 1, 24567}
+, 
+{"S_Spore_Bomb_Shoes", 1, 24568}
+, 
+{"S_Flare_Dance_Earing", 1, 24604}
+, 
+{"S_Flare_Dance_Pendant", 1, 24605}
+, 
+{"S_Flare_Dance_Shoes", 1, 24606}
+, 
+{"S_Shooting_Weapon", 1, 24461}
+, 
+{"S_Shooting_Pendant", 1, 24462}
+, 
+{"S_Shooting_Earing", 1, 24463}
+, 
+{"S_Super_Magic_Shield", 1, 24616}
+, 
+{"S_Super_Magic_Armor", 1, 24617}
+, 
+{"S_Super_Magic_Shoes", 1, 24618}
+, 
+{"S_Pickyrush_Weapon", 1, 24634}
+, 
+{"S_Pickyrush_Shield", 1, 24635}
+, 
+{"S_Pickyrush_Armor", 1, 24636}
+, 
+{"S_Boomerang_Weapon", 1, 24467}
+, 
+{"S_Boomerang_Pendant", 1, 24468}
+, 
+{"S_Boomerang_Earing", 1, 24469}
+, 
+{"S_Magnus_Weapon", 1, 24497}
+, 
+{"S_Magnus_Pendant", 1, 24498}
+, 
+{"S_Magnus_Earing", 1, 24499}
+, 
+{"S_Brand_Armor", 1, 24572}
+, 
+{"S_Brand_Shield", 1, 24573}
+, 
+{"S_Brand_Shoes", 1, 24574}
+, 
+{"S_Knucklearrow_Armor", 1, 24482}
+, 
+{"S_Knucklearrow_Shield", 1, 24483}
+, 
+{"S_Knucklearrow_Shoes", 1, 24484}
+, 
+{"S_Jack_Armor", 1, 24512}
+, 
+{"S_Jack_Shield", 1, 24513}
+, 
+{"S_Jack_Shoes", 1, 24514}
+, 
+{"S_Varetyr_Weapon", 1, 24557}
+, 
+{"S_Varetyr_Pendant", 1, 24558}
+, 
+{"S_Varetyr_Earing", 1, 24559}
+, 
+{"S_Ripper_Weapon", 1, 24545}
+, 
+{"S_Ripper_Pendant", 1, 24546}
+, 
+{"S_Ripper_Earing", 1, 24547}
+, 
+{"S_Stardust_Weapon", 1, 24652}
+, 
+{"S_Stardust_Shield", 1, 24653}
+, 
+{"S_Stardust_Armor", 1, 24654}
+, 
+{"S_God_Hammer_Weapon", 1, 24607}
+, 
+{"S_God_Hammer_Shield", 1, 24608}
+, 
+{"S_God_Hammer_Armor", 1, 24609}
+, 
+{"S_Paint_Weapon", 1, 24533}
+, 
+{"S_Paint_Pendant", 1, 24534}
+, 
+{"S_Paint_Earing", 1, 24535}
+, 
+{"S_Evilcurse_Earring", 1, 24658}
+, 
+{"S_Evilcurse_Pendant", 1, 24659}
+, 
+{"S_Evilcurse_Shoes", 1, 24660}
+, 
+{"S_Chain_Press_Weapon", 1, 24575}
+, 
+{"S_Chain_Press_Pendant", 1, 24576}
+, 
+{"S_Chain_Press_Earing", 1, 24577}
+, 
+{"S_Silvervine_Earing", 1, 24643}
+, 
+{"S_Silvervine_Pendant", 1, 24644}
+, 
+{"S_Silvervine_Shoes", 1, 24645}
+, 
+{"S_Kamaenraku_Weapon", 1, 24628}
+, 
+{"S_Kamaenraku_Shield", 1, 24629}
+, 
+{"S_Kamaenraku_Armor", 1, 24630}
+, 
+{"S_Crazy_Weapon", 1, 24569}
+, 
+{"S_Crazy_Pendant", 1, 24570}
+, 
+{"S_Crazy_Earing", 1, 24571}
+, 
+{"S_Reverberation_Weapon", 1, 24509}
+, 
+{"S_Reverberation_Pendant", 1, 24510}
+, 
+{"S_Reverberation_Earing", 1, 24511}
+, 
+{"S_Katar_Weapon", 1, 24539}
+, 
+{"S_Katar_Pendant", 1, 24540}
+, 
+{"S_Katar_Earing", 1, 24541}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Vulcan_Armor", 1, 24470}
+, 
+{"S_Vulcan_Shield", 1, 24471}
+, 
+{"S_Vulcan_Shoes", 1, 24472}
+, 
+{"S_AutoSpell_Armor", 1, 24723}
+, 
+{"S_AutoSpell_Pendant", 1, 24726}
+, 
+{"S_AutoSpell_Earring", 1, 24727}
+, 
+{"S_AutoSpell_Shield", 1, 24722}
+, 
+{"S_AutoSpell_Shoes", 1, 24724}
+, 
+{"S_AutoSpell_Weapon", 1, 24725}
+}
+, NeedSource_String = "Shadow Equipment"}
+, 
+EnchantStone_Recipe = {ItemID = 23151, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"STRStone_Top", 1, 6636}
+, 
+{"INTStone_Top", 1, 6637}
+, 
+{"AGIStone_Top", 1, 6638}
+, 
+{"DEXStone_Top", 1, 6639}
+, 
+{"VITStone_Top", 1, 6640}
+, 
+{"LUKStone_Top", 1, 6641}
+, 
+{"ATKStone_Middle", 1, 6642}
+, 
+{"MATKStone_Middle", 1, 6643}
+, 
+{"HITStone_Bottom", 1, 6644}
+, 
+{"FLEEStone_Bottom", 1, 6645}
+, 
+{"HealStone_Top", 1, 6740}
+, 
+{"HealStone2_Top", 1, 6741}
+, 
+{"HealStone_Middle", 1, 6742}
+, 
+{"HPStone_Middle", 1, 6743}
+, 
+{"SPStone_Middle", 1, 6744}
+, 
+{"HealStone_Bottom", 1, 6745}
+, 
+{"BigStone_Top", 1, 6790}
+, 
+{"MediumStone_Top", 1, 6791}
+, 
+{"SmallStone_Top", 1, 6792}
+, 
+{"ASPDStone_Robe", 1, 6908}
+, 
+{"STRStone_Middle", 1, 6945}
+, 
+{"INTStone_Middle", 1, 6946}
+, 
+{"AGIStone_Middle", 1, 6947}
+, 
+{"DEXStone_Middle", 1, 6948}
+, 
+{"VITStone_Middle", 1, 6949}
+, 
+{"LUKStone_Middle", 1, 6950}
+, 
+{"HPStone_Bottom", 1, 6951}
+, 
+{"HPdrainStone_Robe", 1, 6963}
+, 
+{"SPdrainStone_Robe", 1, 6964}
+, 
+{"HPdrainStone_Top", 1, 6999}
+, 
+{"SPdrainStone_Top", 1, 25000}
+, 
+{"ATKStone_Top", 1, 6943}
+, 
+{"MATKStone_Top", 1, 6944}
+, 
+{"ATKStone_Bottom", 1, 25016}
+, 
+{"MATKStone_Bottom", 1, 25017}
+, 
+{"ChangeLUK_Middle", 1, 25002}
+, 
+{"ChangeSTR_Middle", 1, 25003}
+, 
+{"ChangeAGI_Middle", 1, 25004}
+, 
+{"ChangeINT_Middle", 1, 25005}
+, 
+{"ChangeVIT_Middle", 1, 25006}
+, 
+{"ChangeDEX_Middle", 1, 25007}
+, 
+{"ChangeVIT_Bottom", 1, 25008}
+, 
+{"ChangeAGI_Bottom", 1, 25009}
+, 
+{"ChangeDEX_Bottom", 1, 25010}
+, 
+{"ChangeLUK_Bottom", 1, 25011}
+, 
+{"ChangeSTR_Bottom", 1, 25012}
+, 
+{"ChangeINT_Bottom", 1, 25013}
+, 
+{"DEFStone_Middle", 1, 25001}
+, 
+{"MDEFStone_Bottom", 1, 25014}
+, 
+{"EXPStone_Bottom", 1, 25015}
+, 
+{"CastingStone_Robe", 1, 25067}
+, 
+{"Kyrie_Stone", 1, 25072}
+, 
+{"ASPDStone_Top", 1, 25068}
+, 
+{"Greed_Stone", 1, 25062}
+, 
+{"ReloadStone_Top", 1, 25069}
+, 
+{"ReloadStone_Middle", 1, 25070}
+, 
+{"ReloadStone_Bottom", 1, 25071}
+, 
+{"Critical_Stone", 1, 25060}
+, 
+{"Range_Stone", 1, 25061}
+, 
+{"TwinkleEffect_Top", 1, 25058}
+, 
+{"GhostEffect_Middle", 1, 25059}
+, 
+{"MaxHP2_Stone", 1, 25063}
+, 
+{"MaxSP2_Stone", 1, 25064}
+, 
+{"Detoxify_Stone", 1, 25065}
+, 
+{"Recovery_Stone", 1, 25066}
+, 
+{"ShrinkEffect_Middle", 1, 25138}
+, 
+{"ElectricEffect_Middle", 1, 25136}
+, 
+{"GreenFloor_Bottom", 1, 25137}
+, 
+{"Identify_Stone", 1, 25139}
+, 
+{"EXPStone_Middle", 1, 25141}
+, 
+{"ShadowEffect_Middle", 1, 25177}
+, 
+{"MinorCastingStone_Robe", 1, 25170}
+, 
+{"LexAeternaStone_Middle", 1, 25175}
+, 
+{"PinkGlowEffect_Middle", 1, 25178}
+, 
+{"BlueAuraEffect_Middle", 1, 25176}
+, 
+{"CastingStone_Top", 1, 25172}
+, 
+{"CastingStone_Middle", 1, 25173}
+, 
+{"CastingStone_Bottom", 1, 25174}
+, 
+{"EXPStone_Top", 1, 25171}
+, 
+{"WhiteBodyEffect_Middle", 1, 25224}
+, 
+{"ExplodingEffect_Middle", 1, 25225}
+, 
+{"WaterFieldEffect_Bottom", 1, 25226}
+, 
+{"Heal_Stone", 1, 25227}
+, 
+{"Teleport_Stone", 1, 25228}
+, 
+{"Steal_Stone", 1, 25229}
+, 
+{"DoubleAttack_Stone", 1, 25302}
+, 
+{"Critical_Stone_Robe", 1, 25303}
+, 
+{"CastStone_Robe", 1, 25306}
+, 
+{"ShrinkEffect_Bottom", 1, 25205}
+, 
+{"Critical_Stone_Top", 1, 25304}
+, 
+{"Critical_Stone_Bottom", 1, 25305}
+, 
+{"SuraStone_Robe", 1, 25412}
+, 
+{"RangerStone_Robe", 1, 25416}
+, 
+{"SorcererStone_Robe", 1, 25420}
+, 
+{"SuraStone_Top", 1, 25409}
+, 
+{"SuraStone_Middle", 1, 25410}
+, 
+{"SuraStone_Bottom", 1, 25411}
+, 
+{"RangerStone_Top", 1, 25413}
+, 
+{"RangerStone_Middle", 1, 25414}
+, 
+{"RangerStone_Bottom", 1, 25415}
+, 
+{"SorcererStone_Top", 1, 25417}
+, 
+{"SorcererStone_Middle", 1, 25418}
+, 
+{"SorcererStone_Bottom", 1, 25419}
+, 
+{"RuneknightStone_Robe", 1, 25448}
+, 
+{"GeneticStone_Robe", 1, 25449}
+, 
+{"WarlockStone_Robe", 1, 25456}
+, 
+{"RuneknightStone_Top", 1, 25445}
+, 
+{"RuneknightStone_Middle", 1, 25446}
+, 
+{"RuneknightStone_Bottom", 1, 25447}
+, 
+{"GeneticStone_Top", 1, 25450}
+, 
+{"GeneticStone_Middle", 1, 25451}
+, 
+{"GeneticStone_Bottom", 1, 25452}
+, 
+{"WarlockStone_Top", 1, 25453}
+, 
+{"WarlockStone_Middle", 1, 25454}
+, 
+{"WarlockStone_Bottom", 1, 25455}
+, 
+{"ShadowchaserStone_Robe", 1, 25493}
+, 
+{"MechanicStone_Robe", 1, 25497}
+, 
+{"WanderMinstreStone_Robe", 1, 25501}
+, 
+{"ShadowchaserStone_Top", 1, 25490}
+, 
+{"ShadowchaseStone_Middle", 1, 25491}
+, 
+{"ShadowchaseStone_Bottom", 1, 25492}
+, 
+{"MechanicStone_Top", 1, 25494}
+, 
+{"MechanicStone_Middle", 1, 25495}
+, 
+{"MechanicStone_Bottom", 1, 25496}
+, 
+{"WanderMinstrelStone_Top", 1, 25498}
+, 
+{"WanderMinstStone_Middle", 1, 25499}
+, 
+{"WanderMinstStone_Bottom", 1, 25500}
+, 
+{"ArchbishopStone_Robe", 1, 25709}
+, 
+{"RoyalguardStone_Robe", 1, 25713}
+, 
+{"GuillcrossStone_Robe", 1, 25717}
+, 
+{"HighpriestStone_Top", 1, 25706}
+, 
+{"HighpriestStone_Middle", 1, 25707}
+, 
+{"HighpriestStone_Bottom", 1, 25708}
+, 
+{"PaladinStone_Top", 1, 25710}
+, 
+{"PaladinStone_Middle", 1, 25711}
+, 
+{"PaladinStone_Bottom", 1, 25712}
+, 
+{"AssacrossStone_Top", 1, 25714}
+, 
+{"AssacrossStone_Middle", 1, 25715}
+, 
+{"AssacrossStone_Bottom", 1, 25716}
+, 
+{"SuraStone_Bottom2", 1, 25798}
+, 
+{"SuraStone_Middle2", 1, 25799}
+, 
+{"SuraStone_Top2", 1, 25800}
+, 
+{"SorcererStone_Bottom2", 1, 25802}
+, 
+{"SorcererStone_Middle2", 1, 25803}
+, 
+{"SorcererStone_Top2", 1, 25804}
+, 
+{"ShadowchasStone_Bottom2", 1, 25806}
+, 
+{"ShadowchasStone_Middle2", 1, 25807}
+, 
+{"ShadowchaserStone_Top2", 1, 25808}
+, 
+{"SuraStone_Robe2", 1, 25797}
+, 
+{"SorcererStone_Robe2", 1, 25801}
+, 
+{"ShadowchaserStone_Robe2", 1, 25805}
+, 
+{"KagerouStone_Robe", 1, 25853}
+, 
+{"OboroStone_Robe", 1, 25854}
+, 
+{"RebellionStone_Robe", 1, 25858}
+, 
+{"DoramStone_Robe", 1, 25862}
+, 
+{"SoullinkerStone_Top", 1, 25843}
+, 
+{"SoullinkerStone_Middle", 1, 25844}
+, 
+{"SoullinkerStone_Bottom", 1, 25845}
+, 
+{"GladiatorStone_Top", 1, 25846}
+, 
+{"GladiatorStone_Middle", 1, 25847}
+, 
+{"GladiatorStone_Bottom", 1, 25848}
+, 
+{"NinjaStone_Top", 1, 25850}
+, 
+{"NinjaStone_Middle", 1, 25851}
+, 
+{"NinjaStone_Bottom", 1, 25852}
+, 
+{"GunslingerStone_Top", 1, 25855}
+, 
+{"GunslingerStone_Middle", 1, 25856}
+, 
+{"GunslingerStone_Bottom", 1, 25857}
+, 
+{"DoramStone_Top", 1, 25859}
+, 
+{"DoramStone_Middle", 1, 25860}
+, 
+{"DoramStone_Bottom", 1, 25861}
+, 
+{"SoulreaperStone_Robe", 1, 25842}
+, 
+{"StaremperorStone_Robe", 1, 25849}
+, 
+{"RangerStone_Top2", 1, 1000008}
+, 
+{"RangerStone_Middle2", 1, 1000009}
+, 
+{"RangerStone_Bottom2", 1, 1000010}
+, 
+{"RangerStone_Robe2", 1, 1000011}
+, 
+{"MechanicStone_Top2", 1, 1000012}
+, 
+{"MechanicStone_Middle2", 1, 1000013}
+, 
+{"MechanicStone_Bottom2", 1, 1000014}
+, 
+{"MechanicStone_Robe2", 1, 1000015}
+, 
+{"HighpriestStone_Top2", 1, 1000016}
+, 
+{"HighpriestStone_Middle2", 1, 1000017}
+, 
+{"HighpriestStone_Bottom2", 1, 1000018}
+, 
+{"ArchbishopStone_Robe2", 1, 1000019}
+, 
+{"WarlockStone_Robe2", 1, 1000213}
+, 
+{"WarlockStone_Top2", 1, 1000214}
+, 
+{"WarlockStone_Middle2", 1, 1000215}
+, 
+{"WarlockStone_Bottom2", 1, 1000216}
+, 
+{"RoyalguardStone_Robe2", 1, 1000217}
+, 
+{"PaladinStone_Top2", 1, 1000218}
+, 
+{"PaladinStone_Middle2", 1, 1000219}
+, 
+{"PaladinStone_Bottom2", 1, 1000220}
+, 
+{"GuillcrossStone_Robe2", 1, 1000221}
+, 
+{"AssacrossStone_Top2", 1, 1000222}
+, 
+{"AssacrossStone_Middle2", 1, 1000223}
+, 
+{"AssacrossStone_Bottom2", 1, 1000224}
+, 
+{"RuneknightStone_Robe2", 1, 1000296}
+, 
+{"GeneticStone_Robe2", 1, 1000300}
+, 
+{"WanderMinsStone_Robe2", 1, 1000304}
+, 
+{"RuneknightStone_Top2", 1, 1000297}
+, 
+{"RuneknightStone_Middle2", 1, 1000298}
+, 
+{"RuneknightStone_Bottom2", 1, 1000299}
+, 
+{"GeneticStone_Top2", 1, 1000301}
+, 
+{"GeneticStone_Middle2", 1, 1000302}
+, 
+{"GeneticStone_Bottom2", 1, 1000303}
+, 
+{"WanderMinsStone_Top2", 1, 1000305}
+, 
+{"WanderMinsStone_Middle2", 1, 1000306}
+, 
+{"WanderMinsStone_Bottom2", 1, 1000307}
+, 
+{"Range_Stone_Top", 1, 1000375}
+, 
+{"Range_Stone_Bottom", 1, 1000376}
+, 
+{"Melee_Stone_Top", 1, 1000377}
+, 
+{"Melee_Stone_Middle", 1, 1000378}
+, 
+{"Melee_Stone_Bottom", 1, 1000379}
+}
+, NeedSource_String = "Costume Enchant Stone"}
+, 
+Nyang_Costume_Recipe = {ItemID = 23154, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"C_Choco_Minihat", 1, 31195}
+, 
+{"C_Droopy_Alice_Doll", 1, 20253}
+, 
+{"C_Priest_Hat_J", 1, 31295}
+, 
+{"C_Gray_Drooping_Kitty", 1, 19927}
+, 
+{"C_Gray_Deviruchi_Cap", 1, 20170}
+, 
+{"C_White_Cat_Hood", 1, 19823}
+, 
+{"C_Artist_Hat", 1, 20306}
+, 
+{"C_Rabbit_Magic_Hat", 1, 19652}
+, 
+{"C_Imp_Hat", 1, 19599}
+, 
+{"C_Cryptura_Hair_Cap", 1, 19860}
+, 
+{"C_Rabbit_Ear_Hat", 1, 19876}
+, 
+{"C_Elemental_Crown", 1, 20467}
+, 
+{"C_Rabbit_Ear_Knit_Hat", 1, 19780}
+, 
+{"C_Rabbit_Earplug", 1, 19540}
+, 
+{"C_Tayelin_Doll_Hat", 1, 20412}
+, 
+{"C_Sorin_Doll_Hat", 1, 31371}
+, 
+{"C_Bongun_Hat", 1, 19850}
+, 
+{"C_Idun_Wing_Ears", 1, 20076}
+, 
+{"C_Protect_Cloth", 1, 31625}
+, 
+{"C_Ribbon_Yellow", 1, 20254}
+, 
+{"C_Mechanical_Plant_Hat", 1, 20374}
+, 
+{"C_Sunflower", 1, 20271}
+, 
+{"C_Whisper_Mask", 1, 19610}
+, 
+{"C_Aviator_Hat", 1, 31836}
+, 
+{"C_Roast_Memory", 1, 31172}
+, 
+{"C_Hat_Of_Bundle", 1, 20453}
+, 
+{"C_Silver_Exclamation", 1, 19978}
+, 
+{"C_Chick_Hat", 1, 19608}
+, 
+{"C_Panda_Cap", 1, 19733}
+, 
+{"C_Feather_Bonnet", 1, 20057}
+, 
+{"C_Hill_Wind_Mask", 1, 20300}
+, 
+{"C_Captain_Hat", 1, 19657}
+, 
+{"C_Inccubus_Horn", 1, 19863}
+, 
+{"Beret_Of_Artist", 1, 20019}
+, 
+{"C_CD_In_Mouth", 1, 20313}
+, 
+{"C_Whisper_Tall_Hat", 1, 20130}
+, 
+{"C_Blossom_Fluttering", 1, 20285}
+, 
+{"C_SurviveOrb", 1, 31386}
+, 
+{"C_Blinking_Thin_Eyes", 1, 31398}
+, 
+{"C_Rudra_Wing", 1, 20746}
+, 
+{"C_Man_Medal", 1, 20278}
+, 
+{"C_Blue_Head_Dress", 1, 20258}
+, 
+{"C_SharkHead", 1, 440000}
+, 
+{"C_CatEars_Cyber_HeadP", 1, 20317}
+, 
+{"C_Fluffy_Angel_Cape", 1, 31438}
+, 
+{"C_Face_Crusher", 1, 20299}
+, 
+{"C_Secret_Zipper", 1, 20266}
+, 
+{"C_Horse_King", 1, 20102}
+, 
+{"C_Bow_On_the_Back", 1, 20591}
+, 
+{"C_Tiger", 1, 410048}
+, 
+{"C_Notice_Board", 1, 20052}
+, 
+{"C_Angola_Intention", 1, 31815}
+, 
+{"C_Nut_Cracker", 1, 21206}
+, 
+{"C_Blinking_Eyes_BU", 1, 31924}
+, 
+{"C_Popping_Poring_Aura", 1, 20548}
+, 
+{"C_First_Love_Cheek", 1, 31047}
+, 
+{"C_Blue_Pajamas_Hat", 1, 19866}
+, 
+{"C_Pink_Pajamas_Hat", 1, 19867}
+, 
+{"C_Warm_Cat_Muffler_BL", 1, 31533}
+, 
+{"C_Wing_Of_Happiness", 1, 20761}
+, 
+{"C_Black_Cat_Hood", 1, 31028}
+, 
+{"C_Tipsy", 1, 31473}
+, 
+{"C_Frantic_Looking", 1, 31946}
+, 
+{"C_Amistr_Beret", 1, 20197}
+, 
+{"C_Mechanical_Butterfly", 1, 20988}
+, 
+{"C_BeachBall", 1, 400020}
+, 
+{"C_Smiling_Eyes", 1, 31699}
+, 
+{"C_Baseball_Cap", 1, 19834}
+, 
+{"C_T_Bear_Bag", 1, 20582}
+, 
+{"C_Rabbit_Winged_Robe", 1, 31816}
+, 
+{"C_Machoman_Glasses", 1, 20142}
+, 
+{"C_Chilly_Breath", 1, 19992}
+, 
+{"C_Cat_Ear_Hat_White", 1, 31252}
+, 
+{"C_Cat_Ears_Cape_Red", 1, 31189}
+, 
+{"C_Hair_Of_The_Strong", 1, 18740}
+, 
+{"C_Kyel_hyre_Ulti_TW", 1, 20614}
+, 
+{"C_Whale_Cap", 1, 400163}
+, 
+{"C_Sailor_Collar_WH", 1, 420044}
+, 
+{"C_Hooked_Straw_Hat", 1, 480127}
+, 
+{"C_Fishbone_Hair", 1, 420027}
+, 
+{"C_Giant_Shark", 1, 480126}
+, 
+{"C_Ear_Of_Angel\'s_Wing_", 1, 19781}
+, 
+{"C_White_Boys_Hat", 1, 20282}
+, 
+{"C_Miyabi_Long_Hair_LPP", 1, 31933}
+, 
+{"C_White_Baby_Cat_Ears", 1, 19649}
+, 
+{"C_Stall_Of_Angel", 1, 31315}
+, 
+{"C_Wing_Of_Angel_Move", 1, 480069}
+, 
+{"C_Gothic_Pumpkin_Head", 1, 31385}
+, 
+{"C_Dark_Snake_Lord_Stall", 1, 31611}
+, 
+{"C_Vampire_Familiar", 1, 31120}
+, 
+{"C_B_EarWitchHat", 1, 31607}
+, 
+{"C_Nifl_Bloom", 1, 20588}
+, 
+{"C_False_Ears", 1, 31384}
+, 
+{"C_Wolf_Masquerade", 1, 31179}
+, 
+{"C_Bloody_Wing", 1, 20525}
+, 
+{"C_Two_Tone_Beret", 1, 20463}
+, 
+{"C_Tone_Of_Gold", 1, 20440}
+, 
+{"C_Swirling_Flame", 1, 480131}
+, 
+{"C_Gift_Of_Snow", 1, 20240}
+, 
+{"C_Blinking_Eyes", 1, 31301}
+, 
+{"C_L_RibbonMuff_Red", 1, 20441}
+, 
+{"C_Snownow_Hat", 1, 20242}
+, 
+{"C_Santa_Backpack", 1, 20592}
+, 
+{"C_Decoration_bluerose", 1, 20046}
+, 
+{"C_Electro_Two_Side_Up", 1, 31575}
+, 
+{"C_Blue_Frill_Ribbon", 1, 31451}
+, 
+{"C_Under_Rim_Glasses_Bu", 1, 31601}
+, 
+{"C_Blue_Strong_Hair", 1, 31613}
+, 
+{"C_Fish_Marche", 1, 410068}
+, 
+{"C_Old_Pink_Poo_Hat", 1, 31535}
+, 
+{"C_NettyHeart_BalloonGum", 1, 20305}
+, 
+{"C_CatEarRibbon_TW", 1, 31483}
+, 
+{"C_Cat_Ear_Red_Hat_TW", 1, 400204}
+, 
+{"C_Floating_Parasol", 1, 410055}
+, 
+{"C_Intake_WH", 1, 410116}
+, 
+{"C_Carefree_Face", 1, 410062}
+, 
+{"C_Bear_Head", 1, 440010}
+, 
+{"C_RK_Hair_WH", 1, 31966}
+, 
+{"C_Triple_Ice_Cream", 1, 480129}
+, 
+{"C_Teardrop", 1, 20335}
+, 
+{"C_Piece_Of_White_Cloth", 1, 420063}
+, 
+{"C_Mike_Hat", 1, 31464}
+, 
+{"C_Mermaid_Longing", 1, 20209}
+, 
+{"C_Samba_Carnival", 1, 480122}
+, 
+{"C_Tiger_Mask", 1, 31161}
+, 
+{"C_ScarfOfHero_TW", 1, 31700}
+, 
+{"C_Black_Cat_Ears_Beret", 1, 20191}
+, 
+{"C_Desert_Wolf_B", 1, 31686}
+, 
+{"C_Niflheim_Key", 1, 480119}
+, 
+{"C_Released_Ground", 1, 410081}
+, 
+{"C_DancingButterfly_TW", 1, 31618}
+, 
+{"C_Blue_Rose_Ornament", 1, 31137}
+, 
+{"C_Blue_Rose_Garden", 1, 480176}
+, 
+{"C_Miracle_Plant", 1, 31729}
+, 
+{"C_Blessed_Veil", 1, 20604}
+, 
+{"C_Antique_Pipe_J", 1, 19692}
+, 
+{"C_Guardian_Helm", 1, 410121}
+, 
+{"C_Royal_Mantle", 1, 420046}
+, 
+{"C_Dog_Officer", 1, 31202}
+, 
+{"C_Nydhog_Rumor", 1, 480123}
+, 
+{"C_Spot_Light", 1, 410127}
+, 
+{"C_Scarf", 1, 19715}
+, 
+{"C_Vassalage_Necklace", 1, 31954}
+, 
+{"C_L_RibbonMuff_Black", 1, 31453}
+, 
+{"C_B_Shiba_Inu_TW", 1, 410108}
+, 
+{"C_Big_Ribbon_Cloak", 1, 20594}
+, 
+{"C_W_King_Tiger_Doll_Hat", 1, 31888}
+, 
+{"C_Youinone_Mask", 1, 20468}
+, 
+{"C_L_Knitting_Low_Twin_W", 1, 420072}
+, 
+{"C_Luwmin_Ice", 1, 31432}
+, 
+{"C_G_DaeHyon_Sword_TW", 1, 480118}
+, 
+{"C_Devoted_Eyes", 1, 19787}
+, 
+{"C_Happy_Peace_Proof", 1, 19762}
+, 
+{"C_Alpha_Long_Pony", 1, 420140}
+, 
+{"C_Bldy_Light_Dark_Crown", 1, 20408}
+, 
+{"C_Guardian_Angelwing", 1, 480201}
+, 
+{"C_Kid_Deviling", 1, 31525}
+, 
+{"C_Jack_Castle_Bat", 1, 20034}
+, 
+{"C_Stall_Of_Bat", 1, 31121}
+, 
+{"C_Devi_Headphone", 1, 20167}
+, 
+{"C_Gerhard_Von_Devi_Bag", 1, 20518}
+, 
+{"C_Snow_Bear_Food", 1, 31440}
+, 
+{"C_Pure_Love_Muffler", 1, 31887}
+, 
+{"C_Virgo_Crown", 1, 31412}
+, 
+{"C_Snow_Powder", 1, 480097}
+, 
+{"C_Baby_Penguin", 1, 31437}
+, 
+{"C_Full_Bloom_Hairpin", 1, 19806}
+, 
+{"C_Wish_Tree_Hat_J", 1, 410171}
+, 
+{"C_Tengu_Scroll", 1, 31470}
+, 
+{"C_Onihime_Camellia", 1, 420015}
+, 
+{"C_Chasher_Ear", 1, 31151}
+, 
+{"C_Fox_Bamboo_Hat", 1, 400343}
+, 
+{"C_YinYang_Earring", 1, 19755}
+, 
+{"C_Muranyasa", 1, 480223}
+, 
+{"C_J_Umbrella", 1, 480222}
+, 
+{"C_Crow_Tengu_Mask", 1, 20399}
+, 
+{"C_Blessing_Sky_Lantern", 1, 31460}
+, 
+{"C_Ninetail_Tail", 1, 480221}
+, 
+{"C_Sakura_Fes_TW", 1, 480052}
+, 
+{"C_Falling_Snow", 1, 410051}
+, 
+{"C_Assassin_Skull_Mask", 1, 31118}
+, 
+{"C_Magic_Circle_BL", 1, 480203}
+, 
+{"C_Princess_Ribbon_Crown", 1, 31565}
+, 
+{"C_Ghostring_Tall_Hat", 1, 31123}
+, 
+{"C_Angelic_Long_RSV", 1, 480274}
+, 
+{"C_Spinning_Skulls", 1, 410201}
+, 
+{"C_RoCelebrationHat", 1, 31105}
+, 
+{"C_Poring_Bag", 1, 20507}
+, 
+{"C_Sweet_Chef_Hat", 1, 400197}
+, 
+{"C_20Y_Anniv_Helmet", 1, 400351}
+, 
+{"C_BearBalloon", 1, 31732}
+, 
+{"C_Princess_Headphone", 1, 410178}
+, 
+{"C_Balloon_Wing", 1, 20577}
+, 
+{"C_1st_Evt_Balloon_MSP", 1, 420195}
+, 
+{"C_Round_Eyes", 1, 19624}
+, 
+{"C_Frill_Collar", 1, 31916}
+, 
+{"C_Drooping_Panda", 1, 20103}
+, 
+{"C_Brother_Keen_Eye", 1, 410245}
+, 
+{"C_Eremes_Scarf_Black", 1, 31057}
+, 
+{"C_Mono_Gothic_Bonnet", 1, 31188}
+, 
+{"C_White_Strong_Hair", 1, 20250}
+, 
+{"C_FlutterButterfly_BL", 1, 31316}
+, 
+{"C_Crescent_Helm_V", 1, 400495}
+, 
+{"C_Kabuki_Mask_V", 1, 410258}
+, 
+{"C_Scroll_Of_Tsunade", 1, 420240}
+, 
+{"C_Temari_Candy_Hair", 1, 420241}
+, 
+{"C_Horo_Ears_WH", 1, 400496}
+, 
+{"C_Ninetail_Tail_WH", 1, 480362}
+, 
+{"C_Big_Shuriken", 1, 480360}
+, 
+{"C_Evil_Double_Edged", 1, 480361}
+, 
+{"C_Fluttering_Haze", 1, 420242}
+, 
+{"C_Small_Poring_Band", 1, 20447}
+, 
+{"C_Blink_Eyes_Bloody", 1, 410278}
+, 
+{"C_Bogy_Cap_TW", 1, 31628}
+, 
+{"C_Willothewisp", 1, 31583}
+, 
+{"C_Shining_Angel_Wing", 1, 20524}
+, 
+{"C_Bf_Recruiter_Hat", 1, 19698}
+, 
+{"C_Gf_Recruiter_Hat", 1, 19699}
+, 
+{"C_Alien_Sunglass_RD", 1, 410252}
+, 
+{"C_HeartOfCat_TW", 1, 31624}
+, 
+{"C_Sleep_RedSheep", 1, 420211}
+, 
+{"C_Campus_Festival", 1, 19664}
+, 
+{"C_Shih_Tzu_Long", 1, 31797}
+, 
+{"C_Blink_Eyes_Golden", 1, 410049}
+, 
+{"C_Rifle", 1, 480337}
+, 
+{"C_BirthDay_Balloon_TW", 1, 410082}
+, 
+{"C_HappySummer_SunVisor", 1, 31051}
+, 
+{"C_Mask_of_Ifrit", 1, 20481}
+, 
+{"C_One_Sho_Bottle", 1, 410296}
+, 
+{"C_Flutter_Butterfly", 1, 5914}
+, 
+{"C_Scepter", 1, 480093}
+}
+, NeedSource_String = "Costume Malangdo"}
+, 
+Lapine_Old_Hat = {ItemID = 100758, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Sales_Signboard", 1, 5100}
+, 
+{"Hat_Of_Cake_", 1, 5105}
+, 
+{"Close_Helmet", 1, 5131}
+, 
+{"Sheep_Hat", 1, 5133}
+, 
+{"Twin_Ribbon", 1, 5187}
+, 
+{"Ribbon_Black", 1, 5191}
+, 
+{"Ribbon_Yellow", 1, 5192}
+, 
+{"Ribbon_Green", 1, 5193}
+, 
+{"Ribbon_Pink", 1, 5194}
+, 
+{"Ribbon_Orange", 1, 5196}
+, 
+{"Ribbon_White", 1, 5197}
+, 
+{"Flying_Angel", 1, 5210}
+, 
+{"White_Deviruchi_Cap", 1, 5228}
+, 
+{"Gray_Deviruchi_Cap", 1, 5229}
+, 
+{"White_Drooping_Kitty", 1, 5230}
+, 
+{"Gray_Drooping_Kitty", 1, 5231}
+, 
+{"Blue_Drooping_Kitty", 1, 5233}
+, 
+{"Yellow_Drooping_Kitty", 1, 5234}
+, 
+{"Gray_Fur_Hat", 1, 5235}
+, 
+{"Blue_Fur_Hat", 1, 5236}
+, 
+{"Gray_Wizardry_Hat", 1, 5240}
+, 
+{"Blue_Wizardry_Hat", 1, 5241}
+, 
+{"Yellow_Wizardry_Hat", 1, 5242}
+, 
+{"Water_Lily_Crown", 1, 5284}
+, 
+{"Vane_Hairpin", 1, 5285}
+, 
+{"Vacation_Hat", 1, 5287}
+, 
+{"Red_Glasses", 1, 5288}
+, 
+{"Vanilmirth_Hat", 1, 5289}
+, 
+{"Drooping_Bunny_", 1, 5290}
+, 
+{"Kettle_Hat", 1, 5291}
+, 
+{"Dragon_Skull", 1, 5292}
+, 
+{"Ramen_Hat", 1, 5293}
+, 
+{"Whisper_Mask", 1, 5294}
+, 
+{"Bf_Recruiter_Hat", 1, 5338}
+, 
+{"Gf_Recruiter_Hat", 1, 5346}
+, 
+{"Gang_Scarf", 1, 5361}
+, 
+{"Fried_Egg", 1, 5365}
+, 
+{"Santa_Hat_1", 1, 5384}
+, 
+{"Academy_Graduating_Cap", 1, 5407}
+, 
+{"Beer_Cap", 1, 5416}
+, 
+{"Linguistic_Book_Cap", 1, 5422}
+, 
+{"Wondering_Wolf_Helm", 1, 5498}
+, 
+{"Leaf_Cat_Hat", 1, 5555}
+, 
+{"Fur_Seal_Hat", 1, 5556}
+, 
+{"Wild_Rose_Hat", 1, 5557}
+, 
+{"Rasta_Wig", 1, 5571}
+, 
+{"Scooter_Hat_J", 1, 5656}
+, 
+{"Golden_Crown", 1, 5666}
+, 
+{"Rudolf_Santa_Hat", 1, 5742}
+, 
+{"Blue_Arara_Hat", 1, 5778}
+, 
+{"Onigiri_In_Mouth", 1, 18617}
+, 
+{"Cow_Hat", 1, 18646}
+, 
+{"Trident_Helmet", 1, 18661}
+, 
+{"Cat_Lace_Hairband", 1, 18667}
+, 
+{"Aqua_Bunny_Band", 1, 18887}
+, 
+{"Red_Bread_Hat", 1, 18601}
+, 
+{"Savage_Baby_Hat", 1, 5572}
+, 
+{"Angel_Spirit", 1, 5389}
+, 
+{"Cat_Hat", 1, 5099}
+, 
+{"Crescent_Helm", 1, 5142}
+, 
+{"Kabuki_Mask", 1, 5143}
+, 
+{"Marcher_Hat", 1, 5225}
+, 
+{"Claris_Doll_Hat", 1, 5341}
+, 
+{"Sorin_Doll_Hat", 1, 5342}
+, 
+{"Tayelin_Doll_Hat", 1, 5343}
+, 
+{"Binit_Doll_Hat", 1, 5344}
+, 
+{"Debril_Doll_Hat", 1, 5345}
+, 
+{"Fish_Head_Hat", 1, 5380}
+, 
+{"Santa_Poring_Hat", 1, 5381}
+, 
+{"Coke_Hat", 1, 5435}
+, 
+{"Helm_Of_Dragoon", 1, 5467}
+, 
+{"Rabbit_Earplug", 1, 5520}
+, 
+{"Majestic_Evil_Horn", 1, 5584}
+, 
+{"Snowman_Hat", 1, 5738}
+, 
+{"Passion_FB_Hat", 1, 5856}
+, 
+{"Cool_FB_Hat", 1, 5857}
+, 
+{"Glory_FB_Hat", 1, 5859}
+, 
+{"Horn_Of_Ancient", 1, 18595}
+, 
+{"Tare_Pope_", 1, 18673}
+, 
+{"Heart_Card_In_Mouth", 1, 19306}
+, 
+{"Lion_Model_Hat", 1, 18931}
+, 
+{"Angelic_Chain_", 1, 5215}
+, 
+{"Satanic_Chain_", 1, 5216}
+, 
+{"Magestic_Goat_TW", 1, 5217}
+, 
+{"Bunny_Band_", 1, 5218}
+, 
+{"Drooping_Kitty_", 1, 5219}
+, 
+{"Smoking_Pipe_", 1, 5220}
+, 
+{"Pair_Of_Red_Ribbon_", 1, 5221}
+, 
+{"Fish_On_Head_", 1, 5222}
+, 
+{"Big_Golden_Bell_", 1, 5223}
+, 
+{"Poporing_Cap", 1, 5352}
+, 
+{"Mischievous_Fairy", 1, 5402}
+, 
+{"Campfire_Hat", 1, 5414}
+, 
+{"Crown_Parrot", 1, 5417}
+, 
+{"Soldier_Hat", 1, 5418}
+, 
+{"Forceps_Hairpin", 1, 5473}
+, 
+{"Asara_Fairy_Hat", 1, 5505}
+, 
+{"RJC_Katusa", 1, 5547}
+, 
+{"Rabbit_Magic_Hat_J", 1, 5561}
+, 
+{"Holy_Marching_Hat_J", 1, 5654}
+, 
+{"Filir_Wing", 1, 5664}
+, 
+{"Drooping_Boto", 1, 5779}
+, 
+{"Grim_Reaper_Hat", 1, 18614}
+, 
+{"Thief_Bandana", 1, 18619}
+, 
+{"Citron_Hat", 1, 18638}
+, 
+{"Naval_Officer_Hat", 1, 18639}
+, 
+{"Ribbon_Magic_Hat", 1, 18641}
+, 
+{"Sailor_Hat", 1, 18645}
+, 
+{"Tongue_Charm", 1, 18648}
+, 
+{"Antler_Fedora", 1, 18662}
+, 
+{"Droopy_Turtle_Hat", 1, 18668}
+, 
+{"Korean_Judge_Hat", 1, 18572}
+, 
+{"New_Cowboy_Hat", 1, 5409}
+, 
+{"Evolved_Leaf", 1, 5419}
+, 
+{"Hairband_Of_Grandpeco", 1, 5476}
+, 
+{"Bro_Flag", 1, 5477}
+, 
+{"Dragon_Arhat_Mask", 1, 5565}
+, 
+{"Tiger_Arhat_Mask", 1, 5566}
+, 
+{"Triangle_Rune_Cap", 1, 5682}
+, 
+{"Shaman_Hat", 1, 5665}
+, 
+{"EXP_Processor", 1, 410012}
+, 
+{"Masquerade_", 1, 19132}
+, 
+{"Baby_Dragon_Hat", 1, 19010}
+, 
+{"Mercury_Helm", 1, 18597}
+, 
+{"New_Wave_Sunglasses", 1, 18813}
+, 
+{"Spider_Temp_TW", 1, 19328}
+, 
+{"Blood_Buffterfly", 1, 18915}
+, 
+{"Ghostring_Balloon", 1, 19153}
+, 
+{"SantaPoring_Balloon", 1, 19148}
+, 
+{"Metaling_Balloon", 1, 19150}
+, 
+{"Angeling_Balloon", 1, 19152}
+, 
+{"Drops_Balloon", 1, 19147}
+, 
+{"Poring_Balloon", 1, 19143}
+, 
+{"Marin_Balloon", 1, 19146}
+, 
+{"Deviruchi_Balloon", 1, 18944}
+, 
+{"Toy_Syringe_K", 1, 19240}
+, 
+{"CD_In_Mouth", 1, 18666}
+, 
+{"Desert_Prince", 1, 5591}
+, 
+{"Dolor_Hat", 1, 5563}
+, 
+{"Gold_Spirit_Chain", 1, 5207}
+, 
+{"Injured_Eyepatch", 1, 18615}
+, 
+{"Long_Tongue", 1, 18616}
+, 
+{"Notice_Board", 1, 5474}
+, 
+{"Onigiri_Hat", 1, 5575}
+, 
+{"Orange_In_Mouth", 1, 18665}
+, 
+{"Skull_Hood", 1, 5667}
+, 
+{"Turtle_Hat", 1, 5611}
+, 
+{"Airplane_Hat", 1, 18618}
+, 
+{"Carrot_In_Mouth", 1, 18683}
+, 
+{"Heart_Eyepatch", 1, 18620}
+, 
+{"B_Dragon_Hat", 1, 5531}
+, 
+{"Celestial_Hat", 1, 5465}
+, 
+{"Frog_Cap", 1, 5447}
+, 
+{"Noble_Hat", 1, 5469}
+, 
+{"Raven_Cap", 1, 5530}
+, 
+{"Blinker", 1, 2295}
+, 
+{"Angeling_Wanna_Fly", 1, 5334}
+, 
+{"Antique_Pipe", 1, 5377}
+, 
+{"Carmen_Miranda\'s_Hat", 1, 5307}
+, 
+{"Chung_Hairband", 1, 5609}
+, 
+{"Dice_Hat", 1, 5496}
+, 
+{"Donut_In_Mouth", 1, 5594}
+, 
+{"Evil_Mask", 1, 18540}
+, 
+{"Fish_In_Mouth", 1, 5403}
+, 
+{"Fisherman_Hat", 1, 5317}
+, 
+{"Gryphon_Hat", 1, 5660}
+, 
+{"Holy_Mom_Love", 1, 5790}
+, 
+{"Ice_Wing_Ear", 1, 5610}
+, 
+{"Jasper_Crest", 1, 5396}
+, 
+{"King_Frog_Hat", 1, 5528}
+, 
+{"Lady_Tanee_Doll", 1, 5526}
+, 
+{"Lunatic_Hat", 1, 5527}
+, 
+{"Muslim_Hat_F", 1, 5355}
+, 
+{"Muslim_Hat_M", 1, 5354}
+, 
+{"Paperhand_Model", 1, 18644}
+, 
+{"Peacock_Feather", 1, 5519}
+, 
+{"Pencil_In_Mouth", 1, 5574}
+, 
+{"Pink_Drooping_Kitty", 1, 5232}
+, 
+{"Pizza_Hat", 1, 5499}
+, 
+{"Rabbit_Magic_Hat", 1, 5503}
+, 
+{"Radio_Antenna", 1, 5333}
+, 
+{"Rainbow_Scarf", 1, 5463}
+, 
+{"Red_Deviruchi_Cap", 1, 5227}
+, 
+{"Rockhand_Model", 1, 18643}
+, 
+{"Samambaia", 1, 5511}
+, 
+{"Satanic_Chain_P", 1, 5376}
+, 
+{"hand_Scissorhand_Model", 1, 18642}
+, 
+{"Shark_Hat", 1, 5508}
+, 
+{"Side_Cap", 1, 5535}
+, 
+{"Sleepr_Hat", 1, 5659}
+, 
+{"Spiked_Scarf", 1, 5462}
+, 
+{"Sprout_Hat", 1, 18596}
+, 
+{"Tiraya_Bonnet", 1, 5395}
+, 
+{"Tucan_Hat", 1, 5538}
+, 
+{"Wanderer\'s_Sakkat", 1, 5579}
+, 
+{"YinYang_Earring", 1, 18576}
+, 
+{"Amistr_Cap", 1, 5766}
+, 
+{"Angeling_Hairpin", 1, 5153}
+, 
+{"Anubis_Helm", 1, 5490}
+, 
+{"Ati_Atihan_Hat", 1, 5263}
+, 
+{"Ayothaya_Hat", 1, 5312}
+, 
+{"Black_Bunny_Band", 1, 5213}
+, 
+{"Black_Musang_Hat", 1, 18613}
+, 
+{"Black_Tail_Ribbon", 1, 5765}
+, 
+{"Blazing_Sun", 1, 5776}
+, 
+{"Blush_Of_Groom", 1, 5800}
+, 
+{"Bread_Bag2", 1, 5410}
+, 
+{"Bridal_Ribbon", 1, 18636}
+, 
+{"Cactus_Hat", 1, 5737}
+, 
+{"Cap_Of_Blindness", 1, 5304}
+, 
+{"Charming_Ribbon", 1, 5140}
+, 
+{"Chicken_Hat", 1, 5431}
+, 
+{"China_Wedding_Veil", 1, 5504}
+, 
+{"Darkness_Helm", 1, 5373}
+, 
+{"Droopy_Alice_Doll", 1, 18630}
+, 
+{"Devil_Whisper", 1, 18538}
+, 
+{"Deviling_Hat", 1, 5254}
+, 
+{"Diadem", 1, 5313}
+, 
+{"Drooping_White_Kitty", 1, 5372}
+, 
+{"Drooping_Wild_Rose", 1, 18529}
+, 
+{"Duneyrr_Helm", 1, 5762}
+, 
+{"Evil\'s_Bone_Hat", 1, 5529}
+, 
+{"Fancy_Phantom_Mask", 1, 18534}
+, 
+{"Filir_Hat", 1, 5405}
+, 
+{"Happy_Wig", 1, 5273}
+, 
+{"Hat_Of_Outlaw", 1, 5491}
+, 
+{"Hawkeyes", 1, 5680}
+, 
+{"Headset_OST", 1, 5151}
+, 
+{"Helm_Of_Abyss", 1, 5363}
+, 
+{"Hockey_Mask", 1, 5314}
+, 
+{"Icecream_Hat", 1, 5500}
+, 
+{"Ifrit\'s_Ear", 1, 5421}
+, 
+{"Imp_Hat", 1, 5658}
+, 
+{"Jaguar_Hat", 1, 5539}
+, 
+{"L_Orc_Hero_Helm", 1, 5375}
+, 
+{"Large_Hibiscus", 1, 5311}
+, 
+{"Lif_Doll_Hat", 1, 5253}
+, 
+{"Little_Angel_Doll", 1, 5324}
+, 
+{"Lord_of_Death", 1, 18574}
+, 
+{"Lucky_Hat", 1, 18571}
+, 
+{"Mask_Of_Ifrit", 1, 5420}
+, 
+{"Mini_Propeller_", 1, 5226}
+, 
+{"Minstrel_Hat", 1, 5188}
+, 
+{"Moonlight_Flower_Hat", 1, 5214}
+, 
+{"Necromencer\'s_Hood", 1, 5502}
+, 
+{"Neko_Mimi_Kafra", 1, 5387}
+, 
+{"Ninja_Scroll", 1, 5362}
+, 
+{"Observer", 1, 5315}
+, 
+{"Pecopeco_Wing_Ears", 1, 5358}
+, 
+{"Pegasus_Wing_Ears", 1, 18657}
+, 
+{"Pig_Moneybox", 1, 5674}
+, 
+{"Pirate_Dagger", 1, 5305}
+, 
+{"Pirate\'s_Pride", 1, 5501}
+, 
+{"Popcorn_Hat", 1, 5413}
+, 
+{"Power_Of_Thor", 1, 5495}
+, 
+{"Quati_Hat", 1, 5537}
+, 
+{"Rabbit_Ear_Hat", 1, 5378}
+, 
+{"Red_Beret", 1, 5580}
+, 
+{"Rideword_Hat", 1, 5208}
+, 
+{"Samurai_Mask", 1, 5767}
+, 
+{"Sedora_Hat", 1, 18727}
+, 
+{"Sloth_Hat", 1, 5761}
+, 
+{"Snake_Head", 1, 5388}
+, 
+{"Soulless_Wing", 1, 5257}
+, 
+{"Splash_Hat", 1, 5770}
+, 
+{"Sting_Hat", 1, 5509}
+, 
+{"Thanatos_Mal_Mask", 1, 5789}
+, 
+{"Valentine_Hat", 1, 5393}
+, 
+{"Valkyrie_Feather_Band", 1, 5256}
+, 
+{"White_Musang_Hat", 1, 18612}
+, 
+{"Wunderkammer", 1, 18575}
+, 
+{"Yggdrasil_Crown", 1, 18580}
+, 
+{"Alice_Doll", 1, 5137}
+, 
+{"Love_Guard", 1, 18542}
+, 
+{"Ribbon_Of_Bride", 1, 5801}
+, 
+{"Robo_Eye", 1, 5325}
+, 
+{"Syringe_In_Mouth", 1, 18697}
+, 
+{"Cheesy_Snack_In_Mouth", 1, 18698}
+, 
+{"Shaving_Cream", 1, 18702}
+, 
+{"Stem_In_Mouth", 1, 18703}
+, 
+{"Cherry_Twig_In_Mouth", 1, 18677}
+, 
+{"Leek_In_Mouth", 1, 18678}
+, 
+{"Abacus_In_Mouth", 1, 18679}
+, 
+{"Phoenix_Crown", 1, 18695}
+, 
+{"Starfish_Headband", 1, 18640}
+, 
+{"3D_Glasses", 1, 5788}
+, 
+{"Blood_Sucker", 1, 18754}
+, 
+{"Rainbow_Star", 1, 18894}
+, 
+{"Celestial_Dark_Flame", 1, 18895}
+, 
+{"Pterios_Fins", 1, 18896}
+, 
+{"Azure_Diadem", 1, 18897}
+, 
+{"Rolf_Von_Gigue_666", 1, 18832}
+, 
+{"LoveLove_Balloon", 1, 18917}
+, 
+{"Aviator_Hat", 1, 18855}
+, 
+{"Hexagon_Spectacles", 1, 18676}
+, 
+{"Seppl_Hat", 1, 18901}
+, 
+{"Weisswurst", 1, 18900}
+, 
+{"Long_Octopus_Balloon", 1, 18918}
+, 
+{"Aries_Diadem", 1, 5545}
+, 
+{"Aries_Crown", 1, 5546}
+, 
+{"Taurus_Diadem", 1, 5549}
+, 
+{"Taurus_Crown", 1, 5550}
+, 
+{"Gemini_Diadem", 1, 5569}
+, 
+{"Gemini_Crown", 1, 5570}
+, 
+{"Cancer_Diadem", 1, 5581}
+, 
+{"Cancer_Crown", 1, 5582}
+, 
+{"Leo_Crown", 1, 5588}
+, 
+{"Leo_Diadem", 1, 5589}
+, 
+{"Virgo_Crown", 1, 5598}
+, 
+{"Virgo_Diadem", 1, 5599}
+, 
+{"Libra_Crown", 1, 5662}
+, 
+{"Libra_Diadem", 1, 5663}
+, 
+{"Scorpio_Diadem", 1, 5677}
+, 
+{"Scorpio_Crown", 1, 5676}
+, 
+{"Sagittarius_Crown", 1, 5739}
+, 
+{"Sagittarius_Diadem", 1, 5740}
+, 
+{"Capricon_Crown", 1, 5744}
+, 
+{"Capricon_Diadem", 1, 5745}
+, 
+{"Aquarius_Crown", 1, 5513}
+, 
+{"Aquarius_Diadem", 1, 5512}
+, 
+{"Pisces_Crown", 1, 5515}
+, 
+{"Pisces_Diadem", 1, 5514}
+, 
+{"Showy_High_Cap", 1, 18684}
+, 
+{"Ignis_Cap", 1, 18651}
+, 
+{"Nero_Mask", 1, 18799}
+, 
+{"Anemos_Mask", 1, 18786}
+, 
+{"Earth_Godess_Mask", 1, 18800}
+, 
+{"Fortier_Mask", 1, 18737}
+, 
+{"L_Magestic_Goat", 1, 5374}
+, 
+{"Dark_Snake_Lord_Hat_J", 1, 5655}
+, 
+{"Jaty_C", 1, 18520}
+, 
+{"Hellomother_Hat", 1, 5319}
+, 
+{"Bell_Ribbon", 1, 5382}
+, 
+{"Lover_In_Mouth", 1, 18546}
+, 
+{"Octopus_Hat", 1, 5554}
+, 
+{"Mosquito_Coil", 1, 5586}
+}
+, NeedSource_String = "Hats from Old Hat Box 1, 2"}
+, 
+KingbirdAncient_Mix = {ItemID = 23668, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Kingbird_Weapon", 1, 24031}
+, 
+{"S_Ancient_Armor", 1, 24029}
+}
+, NeedSource_String = "Kingbird&Ancient Shadow"}
+, 
+PhysicalMagical_Mix = {ItemID = 23665, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Physical_Weapon", 1, 24019}
+, 
+{"S_Physical_Earring", 1, 24018}
+, 
+{"S_Physical_Pendant", 1, 24020}
+, 
+{"S_Magical_Weapon", 1, 24022}
+, 
+{"S_Magical_Earring", 1, 24021}
+, 
+{"S_Magical_Pendant", 1, 24023}
+}
+, NeedSource_String = "Physical or Magical Shdows"}
+, 
+Fan_Upgrade_Kit = {ItemID = 23170, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"SeeOtter_Fan", 1, 28439}
+}
+, NeedSource_String = "Seaotter Mini Fan"}
+, 
+Silver_Statue = {ItemID = 23545, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Bloody_Knight_Shield", 1, 28942}
+}
+, NeedSource_String = "Cursed Knight Shield"}
+, 
+CriticalHit_Mix = {ItemID = 23669, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Critical_Shoes", 1, 24333}
+, 
+{"S_Critical_Shield", 1, 24332}
+, 
+{"S_Cri_Hit_Weapon", 1, 24032}
+, 
+{"S_Critical_Armor", 1, 24030}
+}
+, NeedSource_String = "Ciritical Shadows"}
+, 
+StatusShadow_Mix = {ItemID = 23247, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Lucky_Weapon", 1, 24034}
+, 
+{"S_Power_Earring", 1, 24035}
+, 
+{"S_Int_Pendant", 1, 24036}
+, 
+{"S_Dexterous_Armor", 1, 24037}
+, 
+{"S_Vital_Shoes", 1, 24038}
+, 
+{"S_Athletic_Shield", 1, 24039}
+, 
+{"S_Lucky_Armor", 1, 24040}
+, 
+{"S_Power_Pendant", 1, 24041}
+, 
+{"S_Int_Earring", 1, 24042}
+, 
+{"S_Dexterous_Weapon", 1, 24043}
+, 
+{"S_Vital_Shield", 1, 24044}
+, 
+{"S_Athletic_Shoes", 1, 24045}
+}
+, NeedSource_String = "Status Shadows"}
+, 
+BearersShadow_Mix = {ItemID = 23249, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Bearers_Shoes", 1, 24181}
+, 
+{"S_Bearers_Armor", 1, 24180}
+, 
+{"S_Bearers_Shield", 1, 24182}
+, 
+{"S_Bearers_Earring", 1, 24184}
+, 
+{"S_Bearers_Weapon", 1, 24183}
+, 
+{"S_Bearers_Pendent", 1, 24185}
+}
+, NeedSource_String = "Bearers Shadows"}
+, 
+JobShadow_Mix_Earing = {ItemID = 23241, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Swordman_earring", 1, 24246}
+, 
+{"S_Merchant_earring", 1, 24247}
+, 
+{"S_Acolyte_earring", 1, 24248}
+, 
+{"S_Magician_earring", 1, 24249}
+, 
+{"S_Thief_earring", 1, 28391}
+, 
+{"S_Archer_earring", 1, 28392}
+}
+, NeedSource_String = "+7 Class Earring Shadows"}
+, 
+JobShadow_Mix_Weapon = {ItemID = 23236, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_SuperNovice_Weapon", 1, 24282}
+, 
+{"S_Gunslinger_Weapon", 1, 24283}
+, 
+{"S_Ninja_Weapon", 1, 24285}
+, 
+{"S_DoramMagical_Weapon", 1, 24286}
+, 
+{"S_DoramPhysical_Weapon", 1, 24287}
+, 
+{"S_Runeknight_Weapon", 1, 24288}
+, 
+{"S_Royalguard_Weapon", 1, 24289}
+, 
+{"S_Mechanic_weapon", 1, 24290}
+, 
+{"S_Genetic_Weapon", 1, 24291}
+, 
+{"S_Archbishop_Weapon", 1, 24292}
+, 
+{"S_Sura_weapon", 1, 24293}
+, 
+{"S_Guillotine_Weapon", 1, 24294}
+, 
+{"S_Shadowchaser_Weapon", 1, 24295}
+, 
+{"S_Warlock_Weapon", 1, 24296}
+, 
+{"S_Sorcerer_Weapon", 1, 24297}
+, 
+{"S_Minstrel_Weapon", 1, 24299}
+, 
+{"S_Wanderer_Weapon", 1, 24300}
+, 
+{"S_Ranger_Weapon", 1, 24298}
+, 
+{"S_Taekwon_Weapon", 1, 24284}
+}
+, NeedSource_String = "+7 Class Weapon Shadows"}
+, 
+ComposeShadow_Mix = {ItemID = 23250, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_ColdBolt_Armor", 1, 24219}
+, 
+{"S_FireBolt_Armor", 1, 24220}
+, 
+{"S_LightingBolt_Armor", 1, 24221}
+, 
+{"S_EarthSpike_Armor", 1, 24222}
+}
+, NeedSource_String = "+7 Bolt Series Shadows"}
+, 
+InfinityShadow_Mix = {ItemID = 23474, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Infinity_Earring", 1, 24150}
+, 
+{"S_Infinity_Pendant", 1, 24151}
+}
+, NeedSource_String = "+7 Infinity Shadows"}
+, 
+JobShadow_Mix_Armor = {ItemID = 23237, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Knight_Armor", 1, 24269}
+, 
+{"S_Crusader_Armor", 1, 24270}
+, 
+{"S_Blacksmith_Armor", 1, 24271}
+, 
+{"S_Alchemist_Armor", 1, 24272}
+, 
+{"S_Priest_Armor", 1, 24273}
+, 
+{"S_Monk_Armor", 1, 24274}
+, 
+{"S_Assassin_Armor", 1, 24275}
+, 
+{"S_Rogue_Armor", 1, 24276}
+, 
+{"S_Wizard_Armor", 1, 24277}
+, 
+{"S_Sage_Armor", 1, 24278}
+, 
+{"S_Hunter_Armor", 1, 24279}
+, 
+{"S_Bard_Armor", 1, 24280}
+, 
+{"S_Dancer_Armor", 1, 24281}
+, 
+{"S_DoramPhysical_Armor", 1, 24408}
+, 
+{"S_DoramMagical_Armor", 1, 24410}
+, 
+{"S_Soul_Reaper_Armor", 1, 24414}
+, 
+{"S_Star_Emperor_Armor", 1, 24412}
+, 
+{"S_Kagerou_Armor", 1, 24403}
+, 
+{"S_Oboro_Armor", 1, 24404}
+, 
+{"S_Rebellion_Armor", 1, 24402}
+}
+, NeedSource_String = "+7 Class Armor Shadows"}
+, 
+JobShadow_Mix_Pendant = {ItemID = 23240, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Swordman_Pendant", 1, 24250}
+, 
+{"S_Merchant_Pendant", 1, 24251}
+, 
+{"S_Acolyte_Pendant", 1, 24252}
+, 
+{"S_Thief_Pendant", 1, 24253}
+, 
+{"S_Magician_Pendant", 1, 24254}
+, 
+{"S_Archer_Pendant", 1, 24255}
+}
+, NeedSource_String = "+7 Class Pendant Shadows"}
+, 
+JobShadow_Mix_Shoes = {ItemID = 23238, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Knight_Shoes", 1, 24256}
+, 
+{"S_Crusader_Shoes", 1, 24257}
+, 
+{"S_Blacksmith_Shoes", 1, 24258}
+, 
+{"S_Alchemist_Shoes", 1, 24259}
+, 
+{"S_Priest_Shoes", 1, 24260}
+, 
+{"S_Monk_Shoes", 1, 24261}
+, 
+{"S_Assassin_Shoes", 1, 24262}
+, 
+{"S_Rogue_Shoes", 1, 24263}
+, 
+{"S_Wizard_Shoes", 1, 24264}
+, 
+{"S_Sage_Shoes", 1, 24265}
+, 
+{"S_Hunter_Shoes", 1, 24266}
+, 
+{"S_Bard_Shoes", 1, 24267}
+, 
+{"S_Dancer_Shoes", 1, 24268}
+, 
+{"S_Rebellion_Shoes", 1, 24405}
+, 
+{"S_Kagerou_Shoes", 1, 24406}
+, 
+{"S_Oboro_Shoes", 1, 24407}
+, 
+{"S_DoramMagical_Shoes", 1, 24411}
+, 
+{"S_DoramPhysical_Shoes", 1, 24409}
+, 
+{"S_Soul_Reaper_Shoes", 1, 24415}
+, 
+{"S_Star_Emperor_Shoes", 1, 24413}
+}
+, NeedSource_String = "+7 Class Shoes Shadows"}
+, 
+JobShadow_Mix_Shield = {ItemID = 23239, NeedCount = 1, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Runeknight_Shield", 1, 24301}
+, 
+{"S_Royalguard_Shield", 1, 24302}
+, 
+{"S_Mechanic_Shield", 1, 24303}
+, 
+{"S_Genetic_Shield", 1, 24304}
+, 
+{"S_Archbishop_Shield", 1, 24305}
+, 
+{"S_Sura_Shield", 1, 24306}
+, 
+{"S_Guillotine_Shield", 1, 24307}
+, 
+{"S_Shadowchaser_Shield", 1, 24308}
+, 
+{"S_Warlock_Shield", 1, 24309}
+, 
+{"S_Sorcerer_Shield", 1, 24310}
+, 
+{"S_Ranger_Shield", 1, 24311}
+, 
+{"S_Minstrel_Shield", 1, 24312}
+, 
+{"S_Wanderer_Shield", 1, 24313}
+, 
+{"S_Ninja_Shield", 1, 24314}
+, 
+{"S_Taekwon_Shield", 1, 24315}
+, 
+{"S_DoramPhysical_Shield", 1, 24316}
+, 
+{"S_DoramMagical_Shield", 1, 24317}
+, 
+{"S_SuperNovice_Shield", 1, 24318}
+, 
+{"S_Gunslinger_Shield", 1, 24319}
+}
+, NeedSource_String = "+7 Class Shield Shadows"}
+, 
+GemstoneShadow_Mix = {ItemID = 23248, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Gemstone_Pendent", 1, 24089}
+, 
+{"S_Gemstone_Armor", 1, 24084}
+, 
+{"S_Gemstone_Shoes", 1, 24085}
+, 
+{"S_Gemstone_Shield", 1, 24086}
+, 
+{"S_Gemstone_Earring", 1, 24088}
+, 
+{"S_Gemstone_Weapon", 1, 24087}
+}
+, NeedSource_String = "+7 Gemstone Shadows"}
+, 
+RaceShadow_Mix = {ItemID = 23281, NeedCount = 4, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Homers_Shield", 1, 24056}
+, 
+{"S_Cadi_Shield", 1, 24061}
+, 
+{"S_Requiem_Shield", 1, 24060}
+, 
+{"S_Flameguard_Shield", 1, 24059}
+, 
+{"S_Satanic_Shield", 1, 24058}
+, 
+{"S_Dragoon_Shield", 1, 24057}
+, 
+{"S_Gargantua_Shield", 1, 24055}
+, 
+{"S_Brutal_Shield", 1, 24054}
+, 
+{"S_Cranial_Shield", 1, 24052}
+, 
+{"S_Divine_Shoes", 1, 24070}
+, 
+{"S_Beholder_Shoes", 1, 24069}
+, 
+{"S_Seraphim_Shoes", 1, 24068}
+, 
+{"S_Fisher_Shoes", 1, 24067}
+, 
+{"S_Insecticide_Shoes", 1, 24066}
+, 
+{"S_Clamorous_Shoes", 1, 24065}
+, 
+{"S_Chemical_Shoes", 1, 24064}
+, 
+{"S_Bloody_Shoes", 1, 24062}
+, 
+{"S_Dragoon_Shoes", 1, 24071}
+}
+, NeedSource_String = "+7 Race Shadows"}
+, 
+Magical_Cat_Hand = {ItemID = 23311, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Cat_Lace_Hairband_K", 1, 19242}
+}
+, NeedSource_String = "Kitten Headdress"}
+, 
+StabilityShadow_Mix = {ItemID = 23324, NeedCount = 3, NeedRefineMin = 5, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Plasterer\'s_Armor", 1, 24091}
+, 
+{"S_Plasterer\'s_Shoes", 1, 24092}
+, 
+{"S_Insomniac_Armor", 1, 24093}
+, 
+{"S_Insomniac_Shoes", 1, 24094}
+, 
+{"S_Peerless_Armor", 1, 24095}
+, 
+{"S_Peerless_Shoes", 1, 24096}
+, 
+{"S_Adurate_Armor", 1, 24097}
+, 
+{"S_Adurate_Shoes", 1, 24098}
+, 
+{"Unfreez_Weapon_S", 1, 24099}
+, 
+{"Unfreeze_Earing_S", 1, 24100}
+, 
+{"Unfreeze_Pendent_S", 1, 24101}
+, 
+{"Vitality_Earing_S", 1, 24102}
+, 
+{"Vitality_Pendant_S", 1, 24103}
+, 
+{"S_Neutral_Weapon", 1, 24104}
+, 
+{"S_Neutral_Earring", 1, 24105}
+, 
+{"S_Neutral_Pendent", 1, 24106}
+, 
+{"S_Curse_Lift_Earring", 1, 24107}
+, 
+{"S_Curse_Lift_Pendent", 1, 24108}
+}
+, NeedSource_String = "+5 Staus Effect Shadows"}
+, 
+ImmunedAthena_Mix = {ItemID = 23666, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Immune_Armor", 1, 24027}
+, 
+{"S_Athena_Shield", 1, 24026}
+, 
+{"S_Athena_Earring", 1, 24051}
+}
+, NeedSource_String = "Immune and Athena Shadows"}
+, 
+HardChamption_Mix = {ItemID = 23667, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Hard_Armor", 1, 24028}
+, 
+{"S_Hard_Earring", 1, 24049}
+, 
+{"S_Champion_Shoes", 1, 24025}
+}
+, NeedSource_String = "Hard and Champion Shadows"}
+, 
+FallenAngelWing_Reset = {ItemID = 23229, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"K_Fallen_Angel_Wing", 1, 20835}
+, 
+{"Fallen_Angel_Wing", 1, 2589}
+}
+, NeedSource_String = "Fallen Angel Wing"}
+, 
+Gunslinger_Enchant = {ItemID = 23100, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Droop_Gunslinger", 1, 19157}
+}
+, NeedSource_String = "Droop Gunslinger"}
+, 
+Piercing_Mix = {ItemID = 100053, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 9, 
+SourceItems = {
+{"S_Executioner_Weapon", 1, 24156}
+, 
+{"S_Exorcist_Weapon", 1, 24157}
+, 
+{"S_Hunting_Weapon", 1, 24158}
+, 
+{"S_Insect_Net_Weapon", 1, 24159}
+, 
+{"S_Fishing_Weapon", 1, 24160}
+, 
+{"S_Dragon_Killer_Weapon", 1, 24161}
+, 
+{"S_Corrupt_Weapon", 1, 24162}
+, 
+{"S_Vibration_Weapon", 1, 24163}
+, 
+{"S_Holy_Water_Weapon", 1, 24164}
+, 
+{"S_Scissors_Weapon", 1, 24165}
+}
+, NeedSource_String = "+7 Piercing Shadow Equipment"}
+, 
+MagicPiercing_Mix = {ItemID = 100011, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_M_Executioner_Weapon", 1, 24170}
+, 
+{"S_M_Exorcist_Weapon", 1, 24171}
+, 
+{"S_M_Hunting_Weapon", 1, 24172}
+, 
+{"S_M_Insect_Net_Weapon", 1, 24173}
+, 
+{"S_M_Fishing_Weapon", 1, 24174}
+, 
+{"S_M_Dragon_K_Weapon", 1, 24175}
+, 
+{"S_M_Corrupt_Weapon", 1, 24176}
+, 
+{"S_M_Vibration_Weapon", 1, 24177}
+, 
+{"S_M_Holy_Water_Weapon", 1, 24178}
+, 
+{"S_M_Scissors_Weapon", 1, 24179}
+}
+, NeedSource_String = "+7 Magic Piercing Shadow"}
+, 
+OSWeapon_Recipe_TH = {ItemID = 101891, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Beam_Claymore_OS", 1, 21047}
+, 
+{"Meuchler_OS", 1, 28038}
+, 
+{"Blasti_OS", 1, 28136}
+, 
+{"Virtual_Bow_OS", 1, 18178}
+, 
+{"MH_P89_OS", 1, 18179}
+, 
+{"AC_B44_OS", 1, 18180}
+, 
+{"HR_S55_OS", 1, 28253}
+, 
+{"Burning_Knuckle_OS", 1, 1862}
+, 
+{"Cannon_Rapier_OS", 1, 13493}
+, 
+{"Saphir_Hall_OS", 1, 16088}
+, 
+{"Ultio_Spes_OS", 1, 16089}
+, 
+{"Rutilus_Stick_OS", 1, 26151}
+, 
+{"ElectricFox_OS", 1, 26164}
+, 
+{"Circuit_Board_OS", 1, 28629}
+, 
+{"Kuroiro_OS", 1, 28755}
+, 
+{"Boost_Lance_OS", 1, 32019}
+}
+, NeedSource_String = "OS Weapon"}
+, 
+BP2_Bs_Item_M_S_1 = {ItemID = 101969, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Boroken_Shiled_Piece", 300, 7108}
+}
+, NeedSource_String = "Resource"}
+, 
+BP2_Bs_Item_M_S_2 = {ItemID = 101970, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Rojerta_Piece", 300, 7211}
+}
+, NeedSource_String = "Resource"}
+, 
+BP2_Bs_Item_M_S_3 = {ItemID = 101971, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Taegeuk_Plate", 300, 7169}
+}
+, NeedSource_String = "Resource"}
+, 
+BP2_Bs_Item_M_S_4 = {ItemID = 101972, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Rojerta_Piece", 300, 7211}
+}
+, NeedSource_String = "Resource"}
+, 
+BP2_Bs_Item_M_S_5 = {ItemID = 101973, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Valhalla_Flower", 600, 7510}
+}
+, NeedSource_String = "Resource"}
+, 
+BP2_Bs_Item_M_S_6 = {ItemID = 101974, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Taegeuk_Plate", 300, 7169}
+}
+, NeedSource_String = "Resource"}
+, 
+BP2_Bs_Item_M_S_7 = {ItemID = 101975, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Broken_Crown", 300, 7754}
+}
+, NeedSource_String = "Resource"}
+, 
+Bs_Item_M_S_01_TH = {ItemID = 102138, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Boroken_Shiled_Piece", 300, 7108}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_02_TH = {ItemID = 102139, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Young_Twig", 300, 7018}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_03_TH = {ItemID = 102140, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Rojerta_Piece", 300, 7211}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_04_TH = {ItemID = 102141, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Taegeuk_Plate", 300, 7169}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_05_TH = {ItemID = 102142, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Valhalla_Flower", 600, 7510}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_06_TH = {ItemID = 102143, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Rojerta_Piece", 300, 7211}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_07_TH = {ItemID = 102144, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Taegeuk_Plate", 300, 7169}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_08_TH = {ItemID = 102145, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 50, 25731}
+, 
+{"Shadowdecon", 50, 25729}
+, 
+{"Broken_Crown", 200, 7754}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_09_TH = {ItemID = 102146, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Dark_Red_Scale", 300, 6091}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_10_TH = {ItemID = 102147, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Ice_Scale", 300, 7562}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_11_TH = {ItemID = 102148, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Gemstone", 300, 7300}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_12_TH = {ItemID = 102149, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Mother\'s_Nightmare", 300, 7020}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_13_TH = {ItemID = 102150, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Pocket_Watch", 300, 7513}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_14_TH = {ItemID = 102151, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 50, 25731}
+, 
+{"Shadowdecon", 50, 25729}
+, 
+{"Valhalla_Flower", 250, 7510}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_15_TH = {ItemID = 102152, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"Shadowdecon", 30, 25729}
+, 
+{"Dark_Red_Scale", 300, 6091}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_16_TH = {ItemID = 102153, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 30, 25731}
+, 
+{"Shadowdecon", 30, 25729}
+, 
+{"Ice_Scale", 300, 7562}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_17_TH = {ItemID = 102154, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 25, 25731}
+, 
+{"Shadowdecon", 25, 25729}
+, 
+{"Loki\'s_Whispers", 200, 7019}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_18_TH = {ItemID = 102155, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Fang_Of_Garm", 480, 7036}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_19_TH = {ItemID = 102156, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Mother\'s_Nightmare", 600, 7020}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_20_TH = {ItemID = 102157, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Konts_Letter", 600, 25629}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_21_TH = {ItemID = 102158, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Piece_Of_Bone_Armor", 600, 7450}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_22_TH = {ItemID = 102159, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Token_of_OrcGeneral", 600, 25508}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_23_TH = {ItemID = 102160, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Valhalla_Flower", 600, 7510}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_24_TH = {ItemID = 102161, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Mother\'s_Nightmare", 300, 7020}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_25_TH = {ItemID = 102162, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Konts_Letter", 300, 25629}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_26_TH = {ItemID = 102163, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Piece_Of_Bone_Armor", 300, 7450}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_27_TH = {ItemID = 102164, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Token_of_OrcGeneral", 300, 25508}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_28_TH = {ItemID = 102165, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Valhalla_Flower", 300, 7510}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_29_TH = {ItemID = 102166, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Scale_Of_Red_Dragon", 300, 7451}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_30_TH = {ItemID = 102167, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Taegeuk_Plate", 300, 7169}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_31_TH = {ItemID = 102168, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Mother\'s_Nightmare", 600, 7020}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_32_TH = {ItemID = 102169, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Konts_Letter", 600, 25629}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_33_TH = {ItemID = 102170, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Token_of_OrcGeneral", 300, 25508}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_34_TH = {ItemID = 102171, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Tutankhamen\'s_Mask", 300, 7114}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_35_TH = {ItemID = 102172, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 15, 25731}
+, 
+{"Shadowdecon", 15, 25729}
+, 
+{"Young_Twig", 300, 7018}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_36_TH = {ItemID = 102173, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Young_Twig", 300, 7018}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_37_TH = {ItemID = 102174, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Broken_Crown", 300, 7754}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_38_TH = {ItemID = 102175, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Boroken_Shiled_Piece", 300, 7108}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_39_TH = {ItemID = 102176, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Young_Twig", 300, 7018}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_40_TH = {ItemID = 102177, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Rojerta_Piece", 300, 7211}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_41_TH = {ItemID = 102178, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Taegeuk_Plate", 300, 7169}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_42_TH = {ItemID = 102179, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Valhalla_Flower", 600, 7510}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_43_TH = {ItemID = 102180, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Rojerta_Piece", 300, 7211}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_44_TH = {ItemID = 102181, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Taegeuk_Plate", 300, 7169}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_45_TH = {ItemID = 102182, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Fang_Of_Garm", 480, 7036}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_46_TH = {ItemID = 102183, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Mother\'s_Nightmare", 600, 7020}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_47_TH = {ItemID = 102184, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Konts_Letter", 600, 25629}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_48_TH = {ItemID = 102185, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Piece_Of_Bone_Armor", 600, 7450}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_49_TH = {ItemID = 102186, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 10, 25731}
+, 
+{"Shadowdecon", 10, 25729}
+, 
+{"Token_of_OrcGeneral", 150, 25508}
+}
+, NeedSource_String = ""}
+, 
+PerfectSize_Mix = {ItemID = 100010, NeedCount = 3, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S_Big_Weapon", 1, 24075}
+, 
+{"S_Medium_Weapon", 1, 24076}
+, 
+{"S_Small_Weapon", 1, 24077}
+, 
+{"S_Big_Armor", 1, 24072}
+, 
+{"S_Medium_Armor", 1, 24073}
+, 
+{"S_Small_Armor", 1, 24074}
+}
+, NeedSource_String = "+7 Size Shadow"}
+, 
+Sprout_Pot_TW = {ItemID = 101202, NeedCount = 8, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Tree_Of_Sprout_VIT", 1, 420021}
+, 
+{"Tree_Of_Sprout_INT", 1, 420022}
+, 
+{"Tree_Of_Sprout_AGI", 1, 420019}
+, 
+{"Tree_Of_Sprout_LUK", 1, 420020}
+, 
+{"Tree_Of_Sprout_STR", 1, 420017}
+, 
+{"Tree_Of_Sprout_DEX", 1, 420018}
+}
+, NeedSource_String = "Tree of Sprout"}
+, 
+Oriental_Sword_Cube = {ItemID = 100274, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Oriental_Sword", 1, 21038}
+}
+, NeedSource_String = "+9 Oriental Sword"}
+, 
+Dragonic_Slayer_Cube = {ItemID = 100275, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Dragonic_Slayer", 1, 600004}
+}
+, NeedSource_String = "+9 Dragonic Slayer"}
+, 
+Shiver_Katar_K_Cube = {ItemID = 100276, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Shiver_Katar_K", 1, 28039}
+}
+, NeedSource_String = "+9 Shiver Katar"}
+, 
+Blade_Katar_Cube = {ItemID = 100277, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blade_Katar", 1, 610003}
+}
+, NeedSource_String = "+9 Blade Katar"}
+, 
+Sword_Of_Bluefire_Cube = {ItemID = 100327, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Sword_Of_Bluefire", 1, 13485}
+}
+, NeedSource_String = "+9 Sword of Bluefire"}
+, 
+Slate_Sword_Cube = {ItemID = 100328, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Slate_Sword", 1, 500004}
+}
+, NeedSource_String = "+9 Slate Sword"}
+, 
+Narcis_Bow_Cube = {ItemID = 100329, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Narcis_Bow", 1, 18170}
+}
+, NeedSource_String = "+9 Narcis Bow"}
+, 
+Trumpet_Shell_K_Cube = {ItemID = 100330, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Trumpet_Shell_K", 1, 570002}
+}
+, NeedSource_String = "+9 Trumpet Shell"}
+, 
+Barb_Wire_K_Cube = {ItemID = 100331, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Barb_Wire_K", 1, 580002}
+}
+, NeedSource_String = "+9 Barbed Wire Whip K"}
+, 
+Avenger_Cube = {ItemID = 100360, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Avenger", 1, 28130}
+}
+, NeedSource_String = "+9 Avenger"}
+, 
+Meteor_Striker_Cube = {ItemID = 100361, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Meteor_Striker", 1, 590002}
+}
+, NeedSource_String = "+9 Meteor Striker"}
+, 
+Magic_Sword_Cube = {ItemID = 100362, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Magic_Sword", 1, 28744}
+}
+, NeedSource_String = "+9 Magic Sword"}
+, 
+Fatalist_Cube = {ItemID = 100363, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Fatalist", 1, 510006}
+}
+, NeedSource_String = "+9 Fatalist"}
+, 
+Royal_Bow_K_Cube = {ItemID = 100376, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Royal_Bow_K", 1, 18164}
+}
+, NeedSource_String = "+9 Royal bow"}
+, 
+Scalet_Dragon_L_Cube = {ItemID = 100377, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Scalet_Dragon_L_Bow", 1, 700003}
+}
+, NeedSource_String = "+9 Scarlet Dragon Leather Bow"}
+, 
+Shadow_Staff_K_Cube = {ItemID = 100378, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Shadow_Staff_K", 1, 26118}
+}
+, NeedSource_String = "+9 Shadow Staff"}
+, 
+Freezing_Rod_Cube = {ItemID = 100379, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Freezing_Rod", 1, 550007}
+}
+, NeedSource_String = "+9 Freezing Rod"}
+, 
+Iron_Nail_K_Cube = {ItemID = 100388, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Iron_Nail_K", 1, 1847}
+}
+, NeedSource_String = "+9 Iron Nail"}
+, 
+Ray_Knuckle_Cube = {ItemID = 100390, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Ray_Knuckle", 1, 560002}
+}
+, NeedSource_String = "+9 Ray Knukle"}
+, 
+Undine_Spear_K_Cube = {ItemID = 100393, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Undine_Spear_K", 1, 32018}
+}
+, NeedSource_String = "+9 Undine Spear"}
+, 
+Light_Blade_Cube = {ItemID = 100394, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Light_Blade", 1, 500003}
+}
+, NeedSource_String = "+9 Light Blade"}
+, 
+Iron_Staff_Cube = {ItemID = 100395, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Iron_Staff", 1, 2048}
+}
+, NeedSource_String = "+9 Iron Staff"}
+, 
+Blue_Crystal_Staff_Cube = {ItemID = 100396, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blue_Crystal_Staff", 1, 640004}
+}
+, NeedSource_String = "+9 Blue Crystal Staff"}
+, 
+Demon_Hunt_Bible_Cube = {ItemID = 100397, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Demon_Hunting_Bible_K", 1, 28630}
+}
+, NeedSource_String = "+9 Demon Hunting Bible"}
+, 
+Saint_Hall_Cube = {ItemID = 100398, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Saint_Hall", 1, 590003}
+}
+, NeedSource_String = "+9 Saint Hall"}
+, 
+MeawFoxtail_Cube = {ItemID = 100399, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"MeawFoxtail", 1, 26155}
+}
+, NeedSource_String = "+9 Meowmeow Foxtail"}
+, 
+Fog_Dew_Sword_Cube = {ItemID = 100400, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Fog_Dew_Sword", 1, 28764}
+}
+, NeedSource_String = "+9 Kiri no Tsuyu"}
+, 
+Humma_Clear_Cube = {ItemID = 100401, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Humma_Clear", 1, 13345}
+}
+, NeedSource_String = "+9 Huuma Shuriken Clearness"}
+, 
+OneSkyOneSun_Cube = {ItemID = 100402, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"OneSkyOneSun", 1, 28631}
+}
+, NeedSource_String = "+9 One Sky One Sun"}
+, 
+SoulWeight_Cube = {ItemID = 100403, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"SoulWeight", 1, 26154}
+}
+, NeedSource_String = "+9 Spirit Pendulum"}
+, 
+Crimson_Rose_Cube = {ItemID = 100404, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Crimson_Rose", 1, 32302}
+}
+, NeedSource_String = "+9 Crimson Rose"}
+, 
+Master_Soul_Rifle_Cube = {ItemID = 100405, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Master_Soul_Rifle", 1, 28255}
+}
+, NeedSource_String = "+9 Master Soul Rifle"}
+, 
+Golden_L_Launcher_Cube = {ItemID = 100406, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Golden_L_Launcher", 1, 28257}
+}
+, NeedSource_String = "+9 Golden Lord Launcher"}
+, 
+The_Black_Gatling_Cube = {ItemID = 100407, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"The_Black_Gatling", 1, 28258}
+}
+, NeedSource_String = "+9 The Black"}
+, 
+Demon_S_Shot_Cube = {ItemID = 100408, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Demon_S_Shot", 1, 28256}
+}
+, NeedSource_String = "+9 Demon Slayer Shot"}
+, 
+Freedom_Stick_Cube = {ItemID = 101482, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Freedom_Stick", 1, 550080}
+}
+, NeedSource_String = "+9 Freedom Stick"}
+, 
+Blessed_Knife_Cube = {ItemID = 101483, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Blessed_Knife", 1, 510070}
+}
+, NeedSource_String = "+9 Blessed Knife"}
+, 
+Remodel_Hero_Boots = {ItemID = 100273, NeedCount = 1, NeedRefineMin = 9, NeedRefineMax = 20, 
+SourceItems = {
+{"Ancient_Hero_Boots", 1, 22171}
+}
+, NeedSource_String = "Ancient Hero Boots"}
+, 
+Egirnion_Box = {ItemID = 100468, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 20, 
+SourceItems = {
+{"Egir_Helm_K", 1, 19026}
+, 
+{"Egir_Armor_K", 1, 15138}
+, 
+{"Egir_Shoes_K", 1, 22059}
+, 
+{"Egir_Manteau_K", 1, 20756}
+}
+, NeedSource_String = "Egirnion Equipment"}
+, 
+Hasty_Mix = {ItemID = 100058, NeedCount = 2, NeedRefineMin = 7, NeedRefineMax = 20, 
+SourceItems = {
+{"S2_Hasty_Shoes", 1, 24320}
+, 
+{"S_Hasty_Armor", 1, 24197}
+, 
+{"S_Hasty_Shoes", 1, 24196}
+}
+, NeedSource_String = "+7 Hasty Shadow"}
+, 
+AbsorbShadow_Mix = {ItemID = 100691, NeedCount = 5, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Spiritual_Weapon", 1, 24078}
+, 
+{"S_Spiritual_Earring", 1, 24079}
+, 
+{"S_Spiritual_Pendent", 1, 24080}
+, 
+{"S2_Spiritual_Weapon", 1, 24324}
+, 
+{"S_Malicious_Armor", 1, 24081}
+, 
+{"S_Malicious_Shoes", 1, 24082}
+, 
+{"S_Malicious_Shield", 1, 24083}
+, 
+{"S2_Malicious_Armor", 1, 24325}
+}
+, NeedSource_String = "Spiritual, Malicious Shadow"}
+, 
+Bs_Item_M_S_50_TH = {ItemID = 102752, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Queen_Wing_Piece", 600, 6326}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_51_TH = {ItemID = 102753, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Pocket_Watch", 300, 7513}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_52_TH = {ItemID = 102754, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Konts_Letter", 300, 25629}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_53_TH = {ItemID = 102755, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Broken_Crown", 300, 7754}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_54_TH = {ItemID = 102756, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Dark_Red_Scale", 300, 6091}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_55_TH = {ItemID = 102757, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Piece_Of_Bone_Armor", 300, 7450}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_56_TH = {ItemID = 102758, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 50, 25731}
+, 
+{"Shadowdecon", 50, 25729}
+, 
+{"Ice_Scale", 300, 7562}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_57_TH = {ItemID = 102759, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 50, 25731}
+, 
+{"Shadowdecon", 50, 25729}
+, 
+{"Taegeuk_Plate", 300, 7169}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_58_TH = {ItemID = 102760, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 50, 25731}
+, 
+{"Shadowdecon", 50, 25729}
+, 
+{"Konts_Letter", 300, 25629}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_59_TH = {ItemID = 102761, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 100, 25731}
+, 
+{"Shadowdecon", 100, 25729}
+, 
+{"Token_of_OrcGeneral", 600, 25508}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_60_TH = {ItemID = 102762, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Scale_Of_Red_Dragon", 300, 7451}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_61_TH = {ItemID = 102763, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 50, 25731}
+, 
+{"Shadowdecon", 50, 25729}
+, 
+{"Broken_Horn", 600, 6649}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_62_TH = {ItemID = 102764, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Will_Of_Darkness_", 300, 7566}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_63_TH = {ItemID = 102765, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"White_Snake_Tear", 300, 25622}
+}
+, NeedSource_String = ""}
+, 
+Bs_Item_M_S_64_TH = {ItemID = 102766, NeedCount = 3, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Zelunium", 60, 25731}
+, 
+{"Shadowdecon", 60, 25729}
+, 
+{"Rojerta_Piece", 300, 7211}
+}
+, NeedSource_String = ""}
+, 
+PendantStoneForWork = {ItemID = 100579, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Thanatos_Pendant", 1, 490099}
+}
+, NeedSource_String = "Thanatos Pendant"}
+, 
+ReloadShadow_Mix = {ItemID = 101181, NeedCount = 3, NeedRefineMin = 9, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Reload_Armor", 1, 24245}
+, 
+{"S_Reload_Shoes", 1, 24243}
+, 
+{"S_Reload_Shield", 1, 24244}
+, 
+{"S2_Reload_Armor", 1, 24331}
+}
+, NeedSource_String = "+9 Reload Shadow"}
+, 
+FullPeneShadow_Mix = {ItemID = 100572, NeedCount = 10, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Penetration_Shoes", 1, 24373}
+, 
+{"S_Penetration_Shield", 1, 24374}
+, 
+{"S_ExeHoly_Armor", 1, 24375}
+, 
+{"S_ExoCorrupt_Armor", 1, 24376}
+, 
+{"S_DragonVib_Armor", 1, 24377}
+, 
+{"S_SciHunting_Armor", 1, 24378}
+, 
+{"S_FishInsect_Armor", 1, 24379}
+, 
+{"S_Penetration_Earring", 1, 24166}
+, 
+{"S_Penetration_Pendent", 1, 24167}
+, 
+{"S_Executioner_Weapon", 1, 24156}
+, 
+{"S_Exorcist_Weapon", 1, 24157}
+, 
+{"S_Hunting_Weapon", 1, 24158}
+, 
+{"S_Insect_Net_Weapon", 1, 24159}
+, 
+{"S_Fishing_Weapon", 1, 24160}
+, 
+{"S_Dragon_Killer_Weapon", 1, 24161}
+, 
+{"S_Corrupt_Weapon", 1, 24162}
+, 
+{"S_Vibration_Weapon", 1, 24163}
+, 
+{"S_Holy_Water_Weapon", 1, 24164}
+, 
+{"S_Scissors_Weapon", 1, 24165}
+, 
+{"S_Penetration_Weapon", 1, 24432}
+, 
+{"S_Penetration_Armor", 1, 24433}
+, 
+{"S_Exe_Ho_Weapon", 1, 24434}
+, 
+{"S_Fis_In_Weapon", 1, 24435}
+, 
+{"S_Sci_Hu_Weapon", 1, 24436}
+, 
+{"S_Viv_Dr_Weapon", 1, 24437}
+, 
+{"S_Exo_Co_Weapon", 1, 24438}
+}
+, NeedSource_String = "+7 Penetration Shadow"}
+, 
+FullTempShadow_Mix = {ItemID = 100596, NeedCount = 10, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Tempest_Shoes", 1, 24346}
+, 
+{"S_Tempest_Shield", 1, 24345}
+, 
+{"S_M_ExeHoly_Armor", 1, 24347}
+, 
+{"S_M_ExoCorrupt_Armor", 1, 24348}
+, 
+{"S_M_DragonVib_Armor", 1, 24349}
+, 
+{"S_M_SciHunting_Armor", 1, 24350}
+, 
+{"S_M_FishInsect_Armor", 1, 24351}
+, 
+{"S_Tempest_Earring", 1, 24168}
+, 
+{"S_Tempest_Pendent", 1, 24169}
+, 
+{"S_M_Executioner_Weapon", 1, 24170}
+, 
+{"S_M_Exorcist_Weapon", 1, 24171}
+, 
+{"S_M_Hunting_Weapon", 1, 24172}
+, 
+{"S_M_Insect_Net_Weapon", 1, 24173}
+, 
+{"S_M_Fishing_Weapon", 1, 24174}
+, 
+{"S_M_Dragon_K_Weapon", 1, 24175}
+, 
+{"S_M_Corrupt_Weapon", 1, 24176}
+, 
+{"S_M_Vibration_Weapon", 1, 24177}
+, 
+{"S_M_Holy_Water_Weapon", 1, 24178}
+, 
+{"S_M_Scissors_Weapon", 1, 24179}
+, 
+{"S_M_Exe_Ho_Weapon", 1, 24431}
+, 
+{"S_M_Fis_In_Weapon", 1, 24430}
+, 
+{"S_M_Sci_Hu_Weapon", 1, 24429}
+, 
+{"S_M_Viv_Dr_Weapon", 1, 24428}
+, 
+{"S_M_Exo_Co_Weapon", 1, 24427}
+}
+, NeedSource_String = "+7 Tempest Shadow"}
+, 
+Guarantee_W_Mod12_Box = {ItemID = 103122, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Guarantee_Weapon_11Up", 5, 6238}
+}
+, NeedSource_String = "Guarantee Weapon 11Up"}
+, 
+Guarantee_A_Mod12_Box = {ItemID = 103123, NeedCount = 1, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Guarantee_Armor_11Up", 5, 6239}
+}
+, NeedSource_String = "Guarantee Armor 11Up"}
+, 
+Tengu_Mod_Cube = {ItemID = 103126, NeedCount = 10, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Tengu_Scroll", 1, 19112}
+}
+, NeedSource_String = "Tengu Scroll"}
+, 
+Tengu_Mod_Cube_H = {ItemID = 103127, NeedCount = 6, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Crow_Tengu_Mask", 1, 5933}
+}
+, NeedSource_String = "Crow Tengu Mask"}
+, 
+Sprout_Mod_Cube = {ItemID = 103128, NeedCount = 10, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Tree_Of_Sprout_JP", 1, 19299}
+}
+, NeedSource_String = "Tree Sprout"}
+, 
+Kardui_Mod_Cube_H = {ItemID = 103129, NeedCount = 6, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"KarduiEar", 1, 5966}
+}
+, NeedSource_String = "Kardui Ear"}
+, 
+Seraphim_Mod_Cube = {ItemID = 103130, NeedCount = 10, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Feather_Of_Seraphim", 1, 19327}
+}
+, NeedSource_String = "Feather of Seraphim"}
+, 
+Seraphim_Mod_Cube_H = {ItemID = 103131, NeedCount = 6, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"SeraphimCoronet", 1, 19138}
+}
+, NeedSource_String = "Seraphim Coronet"}
+, 
+Illusion_Module_Mix = {ItemID = 100601, NeedCount = 5, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"EP17_1_EVT03", 1, 25670}
+, 
+{"EP17_1_EVT04", 1, 25671}
+, 
+{"EP17_1_EVT05", 1, 25672}
+, 
+{"EP17_1_EVT06", 1, 25673}
+, 
+{"EP17_1_EVT07", 1, 25674}
+, 
+{"EP17_1_EVT08", 1, 25675}
+, 
+{"EP17_1_EVT09", 1, 25676}
+, 
+{"EP17_1_EVT10", 1, 25677}
+, 
+{"EP17_1_EVT11", 1, 25678}
+, 
+{"EP17_1_EVT12", 1, 25679}
+, 
+{"EP17_1_EVT13", 1, 25680}
+, 
+{"EP17_1_EVT14", 1, 25681}
+, 
+{"EP17_1_EVT15", 1, 25682}
+, 
+{"EP17_1_EVT16", 1, 25683}
+, 
+{"EP17_1_EVT17", 1, 25684}
+, 
+{"EP17_1_EVT18", 1, 25685}
+, 
+{"EP17_1_EVT19", 1, 25686}
+, 
+{"EP17_1_EVT20", 1, 25687}
+, 
+{"EP17_1_EVT21", 1, 25688}
+, 
+{"EP17_1_EVT22", 1, 25689}
+, 
+{"EP17_1_EVT23", 1, 25690}
+, 
+{"EP17_1_EVT24", 1, 25691}
+, 
+{"EP17_1_EVT25", 1, 25692}
+, 
+{"EP17_1_EVT26", 1, 25693}
+, 
+{"EP17_1_EVT27", 1, 25694}
+, 
+{"EP17_1_EVT28", 1, 25695}
+, 
+{"EP17_1_EVT29", 1, 25696}
+, 
+{"EP17_1_EVT30", 1, 25697}
+, 
+{"EP17_1_EVT31", 1, 25698}
+, 
+{"EP17_1_EVT32", 1, 25699}
+, 
+{"EP17_1_EVT33", 1, 25700}
+, 
+{"EP17_1_EVT34", 1, 25701}
+, 
+{"EP17_1_EVT35", 1, 25702}
+, 
+{"EP17_1_EVT36", 1, 25703}
+, 
+{"EP17_1_EVT37", 1, 25704}
+, 
+{"EP17_1_EVT38", 1, 25705}
+}
+, NeedSource_String = "Illusion Module"}
+, 
+Automatic_Module_Mix = {ItemID = 100602, NeedCount = 5, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"EP17_2_NO1", 1, 1000105}
+, 
+{"EP17_2_NO2", 1, 1000106}
+, 
+{"EP17_2_NO3", 1, 1000107}
+, 
+{"EP17_2_NO4", 1, 1000108}
+, 
+{"EP17_2_NO5", 1, 1000109}
+, 
+{"EP17_2_NO6", 1, 1000110}
+, 
+{"EP17_2_NO7", 1, 1000111}
+, 
+{"EP17_2_NO8", 1, 1000112}
+, 
+{"EP17_2_RA1", 1, 1000113}
+, 
+{"EP17_2_RA2", 1, 1000114}
+, 
+{"EP17_2_RA3", 1, 1000115}
+, 
+{"EP17_2_RA4", 1, 1000116}
+, 
+{"EP17_2_RA5", 1, 1000117}
+, 
+{"EP17_2_RA6", 1, 1000118}
+, 
+{"EP17_2_RA7", 1, 1000119}
+, 
+{"EP17_2_RA8", 1, 1000120}
+, 
+{"EP17_2_RA9", 1, 1000121}
+, 
+{"EP17_2_RA10", 1, 1000122}
+, 
+{"EP17_2_RA11", 1, 1000123}
+, 
+{"EP17_2_RA12", 1, 1000124}
+, 
+{"EP17_2_RA13", 1, 1000125}
+, 
+{"EP17_2_RA14", 1, 1000126}
+, 
+{"EP17_2_RA15", 1, 1000127}
+, 
+{"EP17_2_RA16", 1, 1000128}
+, 
+{"EP17_2_RA17", 1, 1000129}
+, 
+{"EP17_2_RA18", 1, 1000130}
+, 
+{"EP17_2_RA19", 1, 1000131}
+, 
+{"EP17_2_RA20", 1, 1000132}
+, 
+{"EP17_2_UQ1", 1, 1000133}
+, 
+{"EP17_2_UQ2", 1, 1000134}
+, 
+{"EP17_2_UQ3", 1, 1000135}
+, 
+{"EP17_2_UQ4", 1, 1000136}
+, 
+{"EP17_2_UQ5", 1, 1000137}
+, 
+{"EP17_2_UQ6", 1, 1000138}
+, 
+{"EP17_2_UQ7", 1, 1000139}
+, 
+{"EP17_2_UQ8", 1, 1000140}
+, 
+{"EP17_2_UQ9", 1, 1000141}
+, 
+{"EP17_2_UQ10", 1, 1000142}
+, 
+{"EP17_2_UQ11", 1, 1000143}
+, 
+{"EP17_2_LE1", 1, 1000144}
+, 
+{"EP17_2_LE2", 1, 1000145}
+, 
+{"EP17_2_LE3", 1, 1000146}
+, 
+{"EP17_2_LE4", 1, 1000147}
+, 
+{"EP17_2_LE5", 1, 1000148}
+, 
+{"EP17_2_LE6", 1, 1000149}
+, 
+{"EP17_2_EP1", 1, 1000152}
+, 
+{"EP17_2_EP2", 1, 1000153}
+, 
+{"EP17_2_EP3", 1, 1000154}
+, 
+{"EP17_2_EP4", 1, 1000155}
+, 
+{"EP17_2_EP5", 1, 1000156}
+, 
+{"EP17_2_EP6", 1, 1000157}
+, 
+{"EP17_2_EP7", 1, 1000158}
+, 
+{"EP17_2_EP8", 1, 1000159}
+, 
+{"EP17_2_EP9", 1, 1000160}
+, 
+{"EP17_2_EP10", 1, 1000161}
+, 
+{"EP17_2_EP11", 1, 1000162}
+, 
+{"EP17_2_EP12", 1, 1000163}
+, 
+{"EP17_2_EP13", 1, 1000164}
+, 
+{"EP17_2_EP14", 1, 1000165}
+, 
+{"EP17_2_EP15", 1, 1000166}
+, 
+{"EP17_2_EP16", 1, 1000167}
+, 
+{"EP17_2_EP17", 1, 1000168}
+, 
+{"EP17_2_EP18", 1, 1000169}
+, 
+{"EP17_2_EP19", 1, 1000170}
+, 
+{"EP17_2_EP20", 1, 1000171}
+, 
+{"EP17_2_EP21", 1, 1000172}
+, 
+{"EP17_2_EP22", 1, 1000173}
+, 
+{"EP17_2_EP23", 1, 1000174}
+, 
+{"EP17_2_EP24", 1, 1000175}
+, 
+{"EP17_2_EP25", 1, 1000176}
+, 
+{"EP17_2_EP26", 1, 1000177}
+, 
+{"EP17_2_EP27", 1, 1000178}
+, 
+{"EP17_2_EP28", 1, 1000179}
+, 
+{"EP17_2_EP29", 1, 1000180}
+, 
+{"EP17_2_EP30", 1, 1000181}
+, 
+{"EP17_2_EP31", 1, 1000182}
+, 
+{"EP17_2_EP32", 1, 1000183}
+, 
+{"EP17_2_EP33", 1, 1000184}
+, 
+{"EP17_2_EP34", 1, 1000185}
+, 
+{"EP17_2_EP35", 1, 1000186}
+, 
+{"EP17_2_EP36", 1, 1000187}
+, 
+{"EP17_2_EP37", 1, 1000188}
+, 
+{"EP17_2_EP38", 1, 1000189}
+, 
+{"EP17_2_EP39", 1, 1000190}
+, 
+{"EP17_2_EP40", 1, 1000191}
+, 
+{"EP17_2_EP41", 1, 1000192}
+, 
+{"EP17_2_EP42", 1, 1000193}
+, 
+{"EP17_2_EP43", 1, 1000194}
+, 
+{"EP17_2_EP44", 1, 1000195}
+, 
+{"EP17_2_EP45", 1, 1000196}
+, 
+{"EP17_2_EP46", 1, 1000197}
+, 
+{"EP17_2_EP47", 1, 1000198}
+, 
+{"EP17_2_EP48", 1, 1000199}
+, 
+{"EP17_2_EP49", 1, 1000200}
+, 
+{"EP17_2_EP50", 1, 1000201}
+, 
+{"EP17_2_EP51", 1, 1000202}
+, 
+{"EP17_2_RA21", 1, 1000207}
+, 
+{"EP17_2_UQ12", 1, 1000208}
+}
+, NeedSource_String = "Automatic Module"}
+}
+, get_lapine_box = function(in_box_id)
+  -- function num : 0_0
+  for box_name,box_info in pairs(tblLapineDdukddakBox.sources) do
+    if box_info.ItemID == in_box_id then
+      return box_info
+    end
+  end
+  return nil
+end
+, get_need_item_count = function(in_box_id)
+  -- function num : 0_1
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedCount
+  end
+  return 0
+end
+, get_min_need_refine = function(in_box_id)
+  -- function num : 0_2
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedRefineMin
+  end
+  return 0
+end
+, get_max_need_refine = function(in_box_id)
+  -- function num : 0_3
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil and box.NeedRefineMax ~= nil then
+    return box.NeedRefineMax
+  end
+  return 20
+end
+, get_need_source_string = function(in_box_id)
+  -- function num : 0_4
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    return box.NeedSource_String
+  end
+  return 0
+end
+, set_resource_item_list = function(in_box_id)
+  -- function num : 0_5
+  local box = (tblLapineDdukddakBox.get_lapine_box)(in_box_id)
+  if box ~= nil then
+    for k,v in pairs(box.SourceItems) do
+      add_ingredient(v[3], v[2])
+    end
+  end
+end
+}
+

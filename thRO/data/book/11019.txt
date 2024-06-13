@@ -1,0 +1,27 @@
+%f5f5dc
+^000088Manuk Selling Item^000000
+
+คุณสามารถซื้อของเหล่านี้ได้ด้วย Manuk Coin
+
+^008040[Manuk's Opportunity]^000000
+อาหารเสริมที่ทำขึ้นจากหน่วยงานวิจัยของ Manuk เหมาะสำหรับคนงานเหมืองโดยเฉพาะ
+Physical Attack Damage ต่อมอนเตอร์ใน Manuk Area เพิ่มขึ้น 10% เป็นเวลา 10 นาที
+^000088(Nepenthes, Centipede, CentipedeLarva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+น้ำหนัก: ^7777775^000000
+
+
+^008040[Manuk's Courage]^000000
+อาหารเสริมที่ทำขึ้นจากหน่วยงานวิจัยของ Manuk เหมาะสำหรับคนงานเหมืองโดยเฉพาะ
+Physical & Magical Damage จากมอนเตอร์ใน Manuk Area ลดลง 10% เป็นเวลา 10 นาที
+^000088(Nepenthes, Centipede, CentipedeLarva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+น้ำหนัก: ^7777775^000000
+
+
+^008040[Manuk's Faith]^000000
+อาหารเสริมที่ทำขึ้นจากหน่วยงานวิจัยของ Manuk เหมาะสำหรับคนงานเหมืองโดยเฉพาะ
+Magical Attack Damage ต่อมอนเตอร์ใน Manuk Area เพิ่มขึ้น 10% เป็นเวลา 10 นาที
+^000088(Nepenthes, Centipede, CentipedeLarva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+น้ำหนัก: ^7777775^000000
