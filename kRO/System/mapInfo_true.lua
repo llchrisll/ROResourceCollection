@@ -4,6 +4,10 @@
 -- params : ...
 -- function num : 0
 mapTbl = {
+["prt_mk.rsw"] = {displayName = "프론테라 시장 거리", notifyEnter = true, 
+signName = {mainTitle = "프론테라 시장 거리"}
+, backgroundBmp = "village_s2"}
+, 
 ["jor_crk.rsw"] = {displayName = "비늘섬", notifyEnter = true, 
 signName = {subTitle = "이스가르드", mainTitle = "비늘섬"}
 , backgroundBmp = "noname"}

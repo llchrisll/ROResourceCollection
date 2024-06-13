@@ -3,7 +3,7 @@
 
 -- params : ...
 -- function num : 0
-Runesystemtbl_tag = {[RUNETAGIDTBL.EPISODE17] = "EP17", [RUNETAGIDTBL.EPISODE18] = "EP18", [RUNETAGIDTBL.EVT] = "EVT"}
+Runesystemtbl_tag = {[RUNETAGIDTBL.EPISODE17] = "EP17", [RUNETAGIDTBL.EPISODE18] = "EP18", [RUNETAGIDTBL.EPISODE19] = "EP19", [RUNETAGIDTBL.EVT] = "EVT"}
 RuneSettbl_desc = {
 [RUNETAGIDTBL.EPISODE17] = {
 [RUNESETIDTBL.Rt_Ep17_Doubt] = {RuneSetDisplayName = "의문의 부속품", 
@@ -195,6 +195,86 @@ RuneSetDescription = {
 [2] = {"보스형 몬스터에게 주는", "물리/마법 데미지 10% 증가."}
 , 
 [3] = {"보스형 몬스터에게 주는", "물리/마법 데미지 15% 증가.", "3강화 당,", "보스형 몬스터에게 주는", "물리/마법 데미지 3%씩 추가 증가."}
+}
+}
+}
+, 
+[RUNETAGIDTBL.EPISODE19] = {
+[RUNESETIDTBL.Rt_Ep19_SnowFlower] = {RuneSetDisplayName = "설화의 방어구", 
+RuneSetDescription = {
+[2] = {"에피소드19 몬스터에게 주는", "물리/마법 데미지 10% 증가.", "3강화 당,", "에피소드19 몬스터에게 주는", "물리/마법 데미지 1%씩 추가 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_Glacier] = {RuneSetDisplayName = "빙하의 무기", 
+RuneSetDescription = {
+[2] = {"ATK + 35, MATK + 35."}
+, 
+[4] = {"P.ATK + 2, S.MATK + 2.", "5강화 당,", "P.ATK + 1, S.MATK + 1씩 추가증가."}
+, 
+[6] = {"근접 물리 데미지 4% 증가,", "원거리 물리 데미지 4% 증가,", "모든 속성 마법 데미지 3% 증가,"}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_Ulrali] = {RuneSetDisplayName = "울라 리마키나", 
+RuneSetDescription = {
+[2] = {"RES + 55, MRES + 55.", "3강화 당,", "WIS, STA + 2씩 증가,", "RES + 5, MRES + 5씩 추가증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_Juncea] = {RuneSetDisplayName = "융합체", 
+RuneSetDescription = {
+[2] = {"S.MATK + 15,", "모든 속성 공격에 대한 내성 15% 감소.", "3강화 당,", "모든 속성 공격에 대한 내성 3%씩 증가,", "독속성, 염속성 마법 데미지 4%씩 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_snowfield] = {RuneSetDisplayName = "설원", 
+RuneSetDescription = {
+[2] = {"P.ATK + 2,", "스킬 사용 시 SP 소모량 5% 증가.", "3강화 당,", "원거리 물리 데미지 1%, 증가."}
+, 
+[3] = {"원거리 물리 데미지 4% 추가 증가,", "스킬 사용 시 SP 소모량 5% 감소."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_Family] = {RuneSetDisplayName = "가족", 
+RuneSetDescription = {
+[2] = {"5강화 당,", "MHP + 1%, MSP + 1%씩 증가."}
+, 
+[3] = {"MHP + 4%, MSP + 4%."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_Irritation] = {RuneSetDisplayName = "이물질", 
+RuneSetDescription = {
+[2] = {"CRI - 3,", "크리티컬 데미지 4% 감소."}
+, 
+[3] = {"C.Rate + 1.", "3강화 당,", "CRI +2씩, 크리티컬 데미지 2%씩 증가."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_Basement] = {RuneSetDisplayName = "반지하", 
+RuneSetDescription = {
+[2] = {"S.MATK + 3,", "스킬 사용 시 SP 소모량 5% 증가.", "5강화 당,", "수, 독, 암, 염속성 마법데미지 1% 증가."}
+, 
+[3] = {"수, 독, 암, 염속성 마법데미지 5% 증가.", "스킬 사용 시 SP 소모량 5% 감소."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_Rgan] = {RuneSetDisplayName = "르간", 
+RuneSetDescription = {
+[2] = {"P.ATK + 2,", "스킬 사용 시 SP 소모량 5% 증가.", "3강화 당,", "근접 물리 데미지 1%, 증가."}
+, 
+[3] = {"근접 물리 데미지 4% 추가 증가,", "스킬 사용 시 SP 소모량 5% 감소."}
+}
+}
+, 
+[RUNESETIDTBL.Rt_Ep19_Rabre] = {RuneSetDisplayName = "라브르 수집기", 
+RuneSetDescription = {
+[2] = {"식물형 몬스터에게 주는", "물리/마법 데미지 6% 증가.", "5강화 당,", "식물형 몬스터에게 주는.", "물리/마법 데미지 3%씩 추가 증가."}
+, 
+[3] = {"어패형 몬스터에게 주는", "물리/마법 데미지 6% 증가.", "5강화 당,", "어패형 몬스터에게 주는", "물리/마법 데미지 3%씩 추가 증가."}
+, 
+[4] = {"곤충형 몬스터에게 주는", "물리/마법 데미지 6% 증가.", "5강화 당,", "곤충형 몬스터에게 주는", "물리/마법 데미지 3%씩 추가 증가."}
 }
 }
 }

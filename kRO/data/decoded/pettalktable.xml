@@ -12750,4 +12750,43 @@
 		</so_full>			
 	</VR_CHAO>				
 
+	<ep21_iceseahorse>
+		<hungry>
+			<feeding>	½ó-	</feeding>
+			<danger>	½Ù½ó½ó	</danger>
+			<dead>	½ó-½ó°ì...	</dead>
+			<stand>	½ó°ì-! ½ó.½ó.½ó.!!	</stand>
+			<levelup>	½ó-½ó-¾·~ ½ó½ó½ó-°ì~	</levelup>
+		</hungry>
+		<bit_hungry>
+			<feeding>	½ó-	</feeding>
+			<danger>	½Ù½ó½ó	</danger>
+			<dead>	½ó-½ó°ì...	</dead>
+			<stand>	½ó°ì-! ½ó.½ó.½ó.!!	</stand>
+			<levelup>	½ó-½ó-¾·~ ½ó½ó½ó-°ì~	</levelup>
+		</bit_hungry>
+		<noting>
+			<feeding>	½ó-	</feeding>
+			<danger>	½Ù½ó½ó	</danger>
+			<dead>	½ó-½ó°ì...	</dead>
+			<stand>	½ó°ì-! ½ó.½ó.½ó.!!	</stand>
+			<levelup>	½ó-½ó-¾·~ ½ó½ó½ó-°ì~	</levelup>
+		</noting>
+		<full>
+			<feeding>	½ó! ½ó°ì°ì!!!!	</feeding>
+			<danger>	½Ù½ó½ó	</danger>
+			<dead>	½ó-½ó°ì...	</dead>
+			<stand>	½ó°ì-! ½ó.½ó.½ó.!!	</stand>
+			<levelup>	½ó-½ó-¾·~ ½ó½ó½ó-°ì~	</levelup>
+		</full>
+		<so_full>
+			<feeding>	½ó! ½ó°ì°ì!!!!	</feeding>
+			<danger>	½Ù½ó½ó	</danger>
+			<dead>	½ó-½ó°ì...	</dead>
+			<stand>	½ó°ì-! ½ó.½ó.½ó.!!	</stand>
+			<levelup>	½ó-½ó-¾·~ ½ó½ó½ó-°ì~	</levelup>
+		</so_full>
+	</ep21_iceseahorse>
+
+
 </monster_talk_table>

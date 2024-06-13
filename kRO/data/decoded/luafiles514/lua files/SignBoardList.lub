@@ -1381,5 +1381,65 @@ SignBoardList = {
 {"jor_albe", 118, 150, 5, IT_BMP, "information\\over_store.bmp"}
 , 
 {"jalbe_in", 32, 142, 5, IT_BMP, "information\\over_inn.bmp"}
+, 
+{"prt_mk", 162, 153, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 172, 24, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 295, 171, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 28, 154, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 152, 299, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 300, 73, 5, IT_BMP, "information\\over_store.bmp"}
+, 
+{"prt_mk", 53, 23, 5, IT_BMP, "information\\over_store.bmp"}
+, 
+{"prt_mk", 27, 275, 5, IT_BMP, "information\\over_store.bmp"}
+, 
+{"prt_mk", 272, 299, 5, IT_BMP, "information\\over_store.bmp"}
+, 
+{"prt_mk", 299, 91, 5, IT_BMP, "information\\over_guide.bmp"}
+, 
+{"prt_mk", 24, 256, 5, IT_BMP, "information\\over_guide.bmp"}
+, 
+{"prt_mk", 71, 20, 5, IT_BMP, "information\\over_guide.bmp"}
+, 
+{"prt_mk", 252, 303, 5, IT_BMP, "information\\over_guide.bmp"}
+, 
+{"prt_mk", 161, 171, 5, IT_BMP, "information\\over_guide.bmp"}
+, 
+{"prt_mk", 100, 224, 10, IT_BMP, "information\\over_warp3.bmp"}
+, 
+{"prt_mk", 100, 96, 10, IT_BMP, "information\\over_warp3.bmp"}
+, 
+{"prt_mk", 224, 224, 10, IT_BMP, "information\\over_warp3.bmp"}
+, 
+{"prt_mk", 224, 96, 10, IT_BMP, "information\\over_warp3.bmp"}
+, 
+{"prt_mk", 255, 304, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 258, 304, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 261, 304, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 300, 88, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 300, 85, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 300, 82, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 68, 19, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 65, 19, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 62, 19, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 23, 259, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 23, 262, 5, IT_BMP, "information\\over_kafra.bmp"}
+, 
+{"prt_mk", 23, 265, 5, IT_BMP, "information\\over_kafra.bmp"}
 }
 

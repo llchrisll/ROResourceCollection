@@ -6177,7 +6177,7 @@ tbl = {
 , 
 {id = 2058, prob = 555, name = "디텍팅 스태프 [2]", group = 6}
 , 
-{id = 13346, prob = 555, name = " 그라인더 풍마수리검 [2]", group = 6}
+{id = 13346, prob = 555, name = "그라인더 풍마수리검 [2]", group = 6}
 , 
 {id = 28045, prob = 555, name = "볼트 크러셔 [2]", group = 6}
 , 
@@ -23175,45 +23175,47 @@ tbl = {
 [22825] = {
 {id = 7000, prob = 1, name = "냥다래 마일리지 쿠폰", group = 0}
 , 
-{id = 420242, prob = 50, name = "의상 길게 뻗은 안개", group = 6}
+{id = 31532, prob = 37, name = "의상 레드 바렛", group = 6}
 , 
-{id = 31251, prob = 50, name = "의상 고양이 입", group = 6}
+{id = 31626, prob = 37, name = "의상 부유하는 날개", group = 6}
 , 
-{id = 31191, prob = 50, name = "의상 황금 휘케바인의 귀", group = 6}
+{id = 31552, prob = 37, name = "의상 블루 리본", group = 6}
 , 
-{id = 31532, prob = 50, name = "의상 레드 바렛", group = 6}
+{id = 31315, prob = 37, name = "의상 천사의 스톨", group = 6}
 , 
-{id = 31626, prob = 50, name = "의상 부유하는 날개", group = 6}
+{id = 19895, prob = 37, name = "의상 나이트 캡", group = 6}
 , 
-{id = 31552, prob = 50, name = "의상 블루 리본", group = 6}
+{id = 15905, prob = 37, name = "의상 지크프리트의 투구", group = 6}
 , 
-{id = 31315, prob = 50, name = "의상 천사의 스톨", group = 6}
+{id = 420181, prob = 37, name = "의상 에이스 슈핀네", group = 6}
 , 
-{id = 19895, prob = 50, name = "의상 나이트 캡", group = 6}
+{id = 410212, prob = 37, name = "의상 리틀 어비스 드래곤", group = 6}
 , 
-{id = 15905, prob = 50, name = "의상 지크프리트의 투구", group = 6}
+{id = 31137, prob = 37, name = "의상 파랑새의 장미장식", group = 6}
 , 
-{id = 420181, prob = 50, name = "의상 에이스 슈핀네", group = 6}
+{id = 31449, prob = 37, name = "의상 파란장미의 안대", group = 6}
 , 
-{id = 410212, prob = 50, name = "의상 리틀 어비스 드래곤", group = 6}
+{id = 420193, prob = 37, name = "의상 커다란 리본 머플러(파랑)", group = 6}
 , 
-{id = 31137, prob = 50, name = "의상 파랑새의 장미장식", group = 6}
+{id = 31590, prob = 37, name = "의상 디자이너의 붓", group = 6}
 , 
-{id = 31449, prob = 50, name = "의상 파란장미의 안대", group = 6}
+{id = 410200, prob = 37, name = "의상 토끼 집사", group = 6}
 , 
-{id = 420193, prob = 50, name = "의상 커다란 리본 머플러(파랑)", group = 6}
+{id = 400436, prob = 37, name = "의상 오버핏 피아멧트의 두건", group = 6}
 , 
-{id = 31590, prob = 50, name = "의상 디자이너의 붓", group = 6}
+{id = 420241, prob = 37, name = "의상 캔디 헤어", group = 6}
 , 
-{id = 410200, prob = 50, name = "의상 토끼 집사", group = 6}
+{id = 20115, prob = 37, name = "의상 언더림 안경", group = 6}
 , 
-{id = 400436, prob = 50, name = "의상 오버핏 피아멧트의 두건", group = 6}
+{id = 19930, prob = 37, name = "의상 천사의 미니실크햇", group = 6}
 , 
-{id = 420241, prob = 50, name = "의상 캔디 헤어", group = 6}
+{id = 400406, prob = 111, name = "의상 디저트의 포로", group = 6}
 , 
-{id = 20115, prob = 50, name = "의상 언더림 안경", group = 6}
+{id = 31686, prob = 111, name = "의상 새끼 데저트 울프", group = 6}
 , 
-{id = 19930, prob = 50, name = "의상 천사의 미니실크햇", group = 6}
+{id = 420088, prob = 111, name = "의상 하트 천사", group = 6}
+, 
+{id = 480429, prob = 38, name = "의상 냥이 도너츠", group = 6}
 }
 , 
 [22826] = {

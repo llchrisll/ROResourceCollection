@@ -3605,13 +3605,13 @@ Page = {"안녕하쇼. 모험가 친구. 디나이트로 채굴 장비를 구매하거나 광석을 디나이�
 [6110] = {Title = "Q X세기 XX골트 (180)#휘겔#오딘신전#3층#180#", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"스케골트의 옛 모습을 볼 수 있는 드문 기?다. 두 종류의 \'엔젤골트\'를 상대해 주시지 않겠슴까? 보답은 경험치로 하겠슴다!\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"스케골트의 옛 모습을 볼 수 있는 드문 기횜다. 두 종류의 \'엔젤골트\'를 상대해 주시지 않겠슴까? 보답은 경험치로 하겠슴다!\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6111] = {Title = "Q 발키리란 무엇인가 (180)#휘겔#오딘신전#3층#180#", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"프루스와 스코글의 옛 모습을 볼 수 있는 드문 기?다. 어째서 신의 종자가 인간에게 적대적인 모습을 보이는지 의문임다만 알 때까지 들이대는게 학자 아니겠슴까?\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"프루스와 스코글의 옛 모습을 볼 수 있는 드문 기횜다. 어째서 신의 종자가 인간에게 적대적인 모습을 보이는지 의문임다만 알 때까지 들이대는게 학자 아니겠슴까?\n\t\t^663399◈레벨 180 이상^000000\n\t\t\n\t\t<NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶지역 퀘스트: 휘겔<INFO>4159</INFO></TIPBOX>\n\t\t<TIPBOX>▶퀘스트 레벨 180~189<INFO>4133</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6112] = {Title = "Q 특이한 색의 페러스 (190)#어비스#호수#4층#190#", Search = 1, Image = "", 
@@ -3719,13 +3719,13 @@ Page = {"글래스트헤임은 옛 룬-미드가츠 왕성의 터로 던전마다 다양한 종류와 레벨대
 [6204] = {Title = "니플헤임#던전#망자#연회장#오페라#하우스#200#240", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"죽은자의 나라 니플헤임은 100레벨 대 모험가가 사냥하기 좋은 던전으로 니플헤임 마을에는 200레벨 이상을 위한 던전이 따로 마련되어 있습니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[흐베르겔미르의 샘<INFO>yggdrasil01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>(이그드라실줄기)]<INFO>yggdrasil01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 외딴마을 스켈링튼]<INFO>nif_fild01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 굘의 골짜기]<INFO>nif_fild02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[죽은자의 나라 니플헤임]<INFO>niflheim,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[니플헤임 던전 1층<INFO>nif_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>망자의 연회장]<INFO>nif_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 던전 2층<INFO>nif_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>무너진 오페라 하우스]<INFO>nif_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>▶지역 퀘스트: 니플헤임<INFO>4154</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"죽은자의 나라 니플헤임은 100레벨 대 모험가가 사냥하기 좋은 던전으로 니플헤임 마을에는 200레벨 이상을 위한 던전이 따로 마련되어 있습니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\t^FF0000던전 내 일부 지역 입장에는 제니, 아이템, 레벨 또는 선행 퀘스트가 필요 합니다.^000000\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[흐베르겔미르의 샘<INFO>yggdrasil01,0,0,0,-222,1</INFO></NAVI>\n\t\t　　　　　　　<NAVI>(이그드라실줄기)]<INFO>yggdrasil01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 외딴마을 스켈링튼]<INFO>nif_fild01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 굘의 골짜기]<INFO>nif_fild02,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[죽은자의 나라 니플헤임]<INFO>niflheim,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈확장 던전◈^000000\n\t\t<NAVI>[니플헤임 던전 1층<INFO>nif_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t　　　　　<NAVI>망자의 연회장]<INFO>nif_dun01,0,0,0,-222,1</INFO></NAVI>\n\t\t<NAVI>[니플헤임 던전 2층<INFO>nif_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t　　　　　<NAVI>무너진 오페라 하우스]<INFO>nif_dun02,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>▶지역 퀘스트: 니플헤임<INFO>4154</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6209] = {Title = "마력이 뒤틀린 평원#던전#레벨확장#250", Search = 1, Image = "", 
 Imgcoord = {Position = 5, Size = 100}
 , 
-Page = {"라헬의 서쪽 오즈의 협곡 너머에 존재하는 오염된 평원으로 250레벨 이상의 강력한 몬스터가 등장하는 던전입니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\tLv250↑\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[마력이 뒤틀린 평원]<INFO>ra_pol01,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>Q 마력이 뒤틀린 평원<INFO>4323</INFO></TIPBOX>\n\t\t<TIPBOX>정화 작업 (250)<INFO>4323</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
+Page = {"라헬의 서쪽 오즈의 협곡 너머에 존재하는 오염된 평원으로 250레벨 이상의 강력한 몬스터가 등장하는 던전입니다.\n\t\t\n\t\t^663399◈입장 조건◈^000000\n\t\tLv250↑\n\t\t\n\t\t^663399◈던전 리스트◈^000000\n\t\t<NAVI>[마력이 뒤틀린 평원]<INFO>ra_pol01,0,0,0,-222,1</INFO></NAVI>\n\t\t\n\t\t^663399◈기타◈^000000\n\t\t<TIPBOX>Q 마력이 뒤틀린 평원<INFO>4323</INFO></TIPBOX>\n\t\t　　　　　　　　<TIPBOX>정화 작업 (250)<INFO>4323</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶던전 페이지로<INFO>6150</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"}
 }
 , 
 [6211] = {Title = "모로크 피라미드#던전#나이트메어#110", Search = 1, Image = "", 

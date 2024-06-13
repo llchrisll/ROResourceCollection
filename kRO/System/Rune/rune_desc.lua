@@ -108,6 +108,42 @@ Runetbl_desc = {
 [RUNEIDTBL.Rp_Ep18_Demi] = {Rune_DisplayName = "반신"}
 }
 , 
+[RUNETAGIDTBL.EPISODE19] = {
+[RUNEIDTBL.Rp_Ep19_Armor_A] = {Rune_DisplayName = "설화의 방어구 A"}
+, 
+[RUNEIDTBL.Rp_Ep19_Armor_B] = {Rune_DisplayName = "설화의 방어구 B"}
+, 
+[RUNEIDTBL.Rp_Ep19_Sword] = {Rune_DisplayName = "글레이시아 블레이드"}
+, 
+[RUNEIDTBL.Rp_Ep19_Heavy] = {Rune_DisplayName = "글레이시아 크래셔"}
+, 
+[RUNEIDTBL.Rp_Ep19_Edge] = {Rune_DisplayName = "글레이시아 그레이버"}
+, 
+[RUNEIDTBL.Rp_Ep19_Range] = {Rune_DisplayName = "글레이시아 피어서"}
+, 
+[RUNEIDTBL.Rp_Ep19_Magic] = {Rune_DisplayName = "글레이시아 캐스터"}
+, 
+[RUNEIDTBL.Rp_Ep19_Gun] = {Rune_DisplayName = "글레이시아 마크맨"}
+, 
+[RUNEIDTBL.Rp_Ep19_Limacina] = {Rune_DisplayName = "리마키나"}
+, 
+[RUNEIDTBL.Rp_Ep19_Juncea] = {Rune_DisplayName = "융합"}
+, 
+[RUNEIDTBL.Rp_Ep19_Snow] = {Rune_DisplayName = "설화"}
+, 
+[RUNEIDTBL.Rp_Ep19_Frozen] = {Rune_DisplayName = "얼어붙은 호수"}
+, 
+[RUNEIDTBL.Rp_Ep19_Dollo] = {Rune_DisplayName = "주시자"}
+, 
+[RUNEIDTBL.Rp_Ep19_Hallu] = {Rune_DisplayName = "가족"}
+, 
+[RUNEIDTBL.Rp_Ep19_Lesser] = {Rune_DisplayName = "실패"}
+, 
+[RUNEIDTBL.Rp_Ep19_Middle] = {Rune_DisplayName = "잠입"}
+, 
+[RUNEIDTBL.Rp_Ep19_Upper] = {Rune_DisplayName = "개변"}
+}
+, 
 [RUNETAGIDTBL.EVT] = {
 [RUNEIDTBL.Rp_21th_Poring] = {Rune_DisplayName = "야시장 포링"}
 , 

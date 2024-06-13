@@ -633,6 +633,28 @@ jor_albe = {
 , 
 {name = "상점", X = 118, Y = 150, TYPE = 0}
 }
+, 
+prt_mk = {
+{name = "편의서비스", X = 162, Y = 153, TYPE = 6}
+, 
+{name = "편의서비스", X = 172, Y = 24, TYPE = 6}
+, 
+{name = "편의서비스", X = 295, Y = 171, TYPE = 6}
+, 
+{name = "편의서비스", X = 28, Y = 154, TYPE = 6}
+, 
+{name = "편의서비스", X = 152, Y = 299, TYPE = 6}
+, 
+{name = "안내원", X = 252, Y = 300, TYPE = 4}
+, 
+{name = "안내원", X = 299, Y = 91, TYPE = 4}
+, 
+{name = "안내원", X = 71, Y = 20, TYPE = 4}
+, 
+{name = "안내원", X = 24, Y = 256, TYPE = 4}
+, 
+{name = "안내원", X = 161, Y = 171, TYPE = 4}
+}
 }
 main = function()
   -- function num : 0_0

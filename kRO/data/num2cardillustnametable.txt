@@ -1287,8 +1287,8 @@
 300191#MD_Geffen_Dy_Card#
 
 //회한의 무덤 카드
-300192#sorry#
-300193#sorry#
+300192#Sakray_Card#
+300193#Tiara_Card#
 
 //에피18
 300211#EP18_Ash_Toad_Card#
