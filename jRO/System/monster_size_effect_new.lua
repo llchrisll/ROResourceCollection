@@ -3454,6 +3454,12 @@ EFFECT.EF_JRO_TEMP_011 = 2031
 -- DECOMPILER ERROR at PC4346: Confused about usage of register: R0 in 'UnsetPending'
 
 EFFECT.EF_JRO_TEMP_012 = 2087
+-- DECOMPILER ERROR at PC4350: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_013 = 2021
+-- DECOMPILER ERROR at PC4354: Confused about usage of register: R0 in 'UnsetPending'
+
+EFFECT.EF_JRO_TEMP_014 = 2191
 tbl = {
 [3000] = {MonsterSize = 1, 
 MonsterEff = {EFFECT.EF_PINKBODY}
@@ -9499,15 +9505,15 @@ MonsterEff = {EFFECT.EF_NONE}
 MonsterEff = {EFFECT.EF_BLUELIGHTBODY, EFFECT.EF_LEVEL150_SUB}
 }
 , 
-[21239] = {MonsterSize = 0, 
-MonsterEff = {EFFECT.EF_JRO_TEMP_007, EFFECT.EF_JRO_TEMP_008, EFFECT.EF_JRO_TEMP_009}
+[21239] = {MonsterSize = 0.01, 
+MonsterEff = {EFFECT.EF_NONE}
 }
 , 
-[21240] = {MonsterSize = 0, 
-MonsterEff = {EFFECT.EF_JRO_TEMP_010, EFFECT.EF_JRO_TEMP_011, EFFECT.EF_JRO_TEMP_012}
+[21240] = {MonsterSize = 0.01, 
+MonsterEff = {EFFECT.EF_NONE}
 }
 , 
-[21241] = {MonsterSize = 0, 
+[21241] = {MonsterSize = 0.01, 
 MonsterEff = {EFFECT.EF_NONE}
 }
 , 
@@ -9609,6 +9615,26 @@ MonsterEff = {EFFECT.EF_LEVEL99_3}
 , 
 [23292] = {MonsterSize = 0.8, 
 MonsterEff = {EFFECT.EF_LEVEL99_3}
+}
+, 
+[21214] = {MonsterSize = 0.2, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING}
+}
+, 
+[21215] = {MonsterSize = 2, 
+MonsterEff = {EFFECT.EF_AB_OFFERTORIUM_RING}
+}
+, 
+[10145] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_JRO_TEMP_013, EFFECT.EF_JRO_TEMP_014, EFFECT.EF_KO_ZENKAI_WATER, EFFECT.EF_MAP_GREENLIGHT, EFFECT.EF_LEVEL99_2}
+}
+, 
+[10146] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_JRO_TEMP_013, EFFECT.EF_JRO_TEMP_014, EFFECT.EF_KO_ZENKAI_WATER, EFFECT.EF_MAP_GREENLIGHT, EFFECT.EF_LEVEL99_2}
+}
+, 
+[10243] = {MonsterSize = 1, 
+MonsterEff = {EFFECT.EF_JRO_TEMP_013, EFFECT.EF_JRO_TEMP_014, EFFECT.EF_KO_ZENKAI_WATER, EFFECT.EF_MAP_GREENLIGHT, EFFECT.EF_LEVEL99_2}
 }
 }
 main = function()

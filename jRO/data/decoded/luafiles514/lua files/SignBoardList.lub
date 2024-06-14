@@ -1590,6 +1590,8 @@ SignBoardList = {
 , 
 {"enchant01", 99, 95, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ¬‚³‚È•X‰Ø‚Ì–‚Î", "255,255,255"}
 , 
+{"enchant01", 103, 95, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ¬‚³‚È•X‰Ø‚Ì–‚Î", "255,255,255"}
+, 
 {"melon_f1", 105, 61, 6, IT_SIGNBOARD, "signboard\\over_smithy.bmp", "  ¸˜BEC—", "255,255,255"}
 , 
 {"melon_f1", 103, 55, 6, IT_SIGNBOARD, "signboard\\over_guide.bmp", "  ‘fŞ‚ÌˆÄ“à", "255,255,255"}

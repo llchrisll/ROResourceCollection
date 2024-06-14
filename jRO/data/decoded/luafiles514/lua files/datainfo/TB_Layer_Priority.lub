@@ -1520,6 +1520,14 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Fluffy_Bakery] = {Default = 450, isIgnoreRiding = true, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Guardian_Of_Abyss] = {Default = 141, isHelmRobe = true, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_Interdimensional_Rift] = {Default = 421, isHelmRobe = true, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0

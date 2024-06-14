@@ -31586,7 +31586,7 @@ identifiedDescriptionName = {}
 unidentifiedDescriptionName = {}
 , identifiedDisplayName = "", identifiedResourceName = "", 
 identifiedDescriptionName = {}
-, slotCount = 0, ClassNum = 220, costume = true}
+, slotCount = 0, ClassNum = 2546, costume = true}
 , 
 [410325] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
 unidentifiedDescriptionName = {}
@@ -31598,7 +31598,7 @@ identifiedDescriptionName = {}
 unidentifiedDescriptionName = {}
 , identifiedDisplayName = "", identifiedResourceName = "", 
 identifiedDescriptionName = {}
-, slotCount = 0, ClassNum = 220, costume = true}
+, slotCount = 0, ClassNum = 2546, costume = true}
 , 
 [420336] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
 unidentifiedDescriptionName = {}
@@ -31610,7 +31610,7 @@ identifiedDescriptionName = {}
 unidentifiedDescriptionName = {}
 , identifiedDisplayName = "", identifiedResourceName = "", 
 identifiedDescriptionName = {}
-, slotCount = 0, ClassNum = 220, costume = true}
+, slotCount = 0, ClassNum = 2546, costume = true}
 , 
 [480444] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
 unidentifiedDescriptionName = {}
@@ -31677,6 +31677,12 @@ unidentifiedDescriptionName = {}
 , identifiedDisplayName = "", identifiedResourceName = "", 
 identifiedDescriptionName = {}
 , slotCount = 0, ClassNum = 0, costume = true}
+, 
+[460074] = {unidentifiedDisplayName = "", unidentifiedResourceName = "", 
+unidentifiedDescriptionName = {}
+, identifiedDisplayName = "", identifiedResourceName = "", 
+identifiedDescriptionName = {}
+, slotCount = 0, ClassNum = 3, costume = false}
 }
 main = function()
   -- function num : 0_0
