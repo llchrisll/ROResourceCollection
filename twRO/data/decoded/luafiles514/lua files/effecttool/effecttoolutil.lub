@@ -46,6 +46,7 @@ MSG_SET_HEIGHT18 = 39
 MSG_SET_HEIGHT19 = 40
 MSG_SET_HEIGHT20 = 41
 MSG_SET_SIZE2 = 42
+MSG_SET_ZENABLE = 43
 IsOpenedEmitterInfoFiles = function(InfoTableName)
   -- function num : 0_0
   local EmitterInfoTable = _G[InfoTableName]
@@ -67,6 +68,7 @@ end
 ReadEmitterInfoz = function(InfoTableName)
   -- function num : 0_2
   local EmitterInfoTable = _G[InfoTableName]
+  local version = _G[InfoTableName .. "_version"]
   if EmitterInfoTable ~= nil then
     for k,v in pairs(EmitterInfoTable) do
       SetEffectInfo(k, MSG_SET_MAXPARTICLE, (v.maxcount)[1])
@@ -82,6 +84,9 @@ ReadEmitterInfoz = function(InfoTableName)
       SetEffectInfo(k, MSG_SET_SPEED, (v.speed)[1])
       SetEffectInfo(k, MSG_SET_SRCMODE, (v.srcmode)[1])
       SetEffectInfo(k, MSG_SET_DESTMODE, (v.destmode)[1])
+      if version == 1 then
+        SetEffectInfo(k, MSG_SET_ZENABLE, (v.zenable)[1])
+      end
       SetEffectInfo(k, MSG_SET_INIT)
     end
   end

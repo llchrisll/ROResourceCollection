@@ -4485,15 +4485,45 @@ Material = {Armor_Stone_2 = 150, Zelunium = 1000, M_Dimension_Essence = 7, Barmu
 , ResultItem = "Battle_Aura_Manteau_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
 InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
 }
+, 
+[967] = {BaseItem = "Officer_Cap", 
+Material = {Armor_Stone_1 = 100, ["Black_Bear\'s_Skin"] = 100}
+, ResultItem = "Officer_Cap_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "3) 卡片及附魔 : 保留"}
+}
+, 
+[968] = {BaseItem = "Officer_Cap", 
+Material = {Armor_Stone_2 = 100, ["Black_Bear\'s_Skin"] = 200}
+, ResultItem = "Officer_Cap_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "3) 卡片及附魔 : 保留"}
+}
+, 
+[977] = {BaseItem = "Officer_Cap_LT", 
+Material = {Blacksmith_Blessing = 14}
+, ResultItem = "Officer_Cap_LT", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^4D4DFF+1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10086] = {BaseItem = "GEMS_DarkBlood", 
+Material = {Armor_Stone_1 = 150, Zelunium = 1000, Old_Hilt = 50, Soul_Barmund_Rune2 = 100, Ymir_Heart_P_TW = 3}
+, ResultItem = "GEMS_DarkBlood_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -5, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-5^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
+, 
+[10087] = {BaseItem = "GEMS_DarkBlood", 
+Material = {Armor_Stone_2 = 150, Zelunium = 1000, Old_Hilt = 50, Soul_Barmund_Rune2 = 100, Ymir_Heart_P_TW = 3}
+, ResultItem = "GEMS_DarkBlood_LT", NeedRefineMin = 9, NeedRefineMax = 20, NeedOptionNumMin = 0, IsEmptySocket = true, ChangeRefineValue = -1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>改造資訊說明</B>", "1) 精煉值 : ^FF0000-1^000000", "2) 附加能力 : 保留", "3) 卡片及附魔 : 保留", "4) 評價階級 : 保留"}
+}
 }
 ReformItemList = {
 Thanos_W_Reform_1 = {12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24}
 , 
 Thanos_W_Reform_2 = {25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37}
 , 
-C_Armor_Reform_1 = {103, 105, 107, 109, 173, 174, 175, 176, 177, 178, 285, 630, 631, 632, 633, 634, 635, 636, 10001, 10003, 10005, 10007, 10009, 10011, 10013, 10015, 10017, 10019, 10021, 10023, 10025, 10027, 10029, 10031, 10033, 10035, 499, 500, 10048, 10050, 10052, 10054, 10056, 10061, 10067, 10069, 10071, 10075, 10077, 10082, 10084}
+C_Armor_Reform_1 = {103, 105, 107, 109, 173, 174, 175, 176, 177, 178, 285, 630, 631, 632, 633, 634, 635, 636, 967, 10001, 10003, 10005, 10007, 10009, 10011, 10013, 10015, 10017, 10019, 10021, 10023, 10025, 10027, 10029, 10031, 10033, 10035, 499, 500, 10048, 10050, 10052, 10054, 10056, 10061, 10067, 10069, 10071, 10075, 10077, 10082, 10084, 10086}
 , 
-C_Armor_Reform_2 = {104, 106, 108, 110, 179, 180, 181, 182, 183, 184, 286, 637, 638, 639, 640, 641, 642, 643, 10002, 10004, 10006, 10008, 10010, 10012, 10014, 10016, 10018, 10020, 10022, 10024, 10026, 10028, 10030, 10032, 10034, 10036, 501, 502, 10049, 10051, 10053, 10055, 10057, 10062, 10065, 10068, 10070, 10072, 10076, 10078, 10083, 10085}
+C_Armor_Reform_2 = {104, 106, 108, 110, 179, 180, 181, 182, 183, 184, 286, 637, 638, 639, 640, 641, 642, 643, 968, 10002, 10004, 10006, 10008, 10010, 10012, 10014, 10016, 10018, 10020, 10022, 10024, 10026, 10028, 10030, 10032, 10034, 10036, 501, 502, 10049, 10051, 10053, 10055, 10057, 10062, 10065, 10068, 10070, 10072, 10076, 10078, 10083, 10085, 10087}
 , 
 C_Armor_Reform_3 = {185, 10037, 10038, 10045, 10046, 10047, 10058, 10059, 10060, 10063, 10064, 10066, 10073, 10074, 10079, 10080, 10081}
 , 
@@ -4578,5 +4608,7 @@ Vivatus_Weapon_Hammer = {318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 
 EP19_DGW_Refine = {716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741}
 , 
 Poenitentia_Hammer = {523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 586, 587, 588}
+, 
+Special_Hat_Hammer = {494, 495, 496, 497, 498, 977}
 }
 

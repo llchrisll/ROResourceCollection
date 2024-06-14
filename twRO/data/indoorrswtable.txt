@@ -1,23 +1,96 @@
-//파라마켓 전용 맵
-paramk.rsw#
 
-//3분기 Ep.16.1 prt_cas
+//20230613 X주년 프론테라 야시장 실내
+x_prt_in.rsw#
+
+//20220628 20주년 차원수호 기념관
+memohall.rsw#
+
+//20220330 환상총서 상반기 업데이트
+1@vrcas.rsw#
+2@vrclo.rsw#
+1@vrgen.rsw#
+prt_elib.rsw#
+
+//20211105 EP19 얼음의 성 실내
+icas_in.rsw#
+
+//20200117 4차 전직 추가맵
+1@4mag.rsw#
+job4_bio.rsw#
+
+//20191128 4차 전직
+job4_mag.rsw#
+
+//20191118 타나토스타워
+1@thts.rsw#
+
+//20190227 EP17.2 1차 바르문트 실내
+ba_in01.rsw#
+
+
+//201805 17.1 추가맵
+pub_cat.rsw#
+
+//왕실 사냥대회
+prt_evt_in.rsw#
+
+
+//IA 콜라보레이션
+d_mond01.rsw#
+
+//2016 rockridge 
+har_in01.rsw#
+
+
+//201606 추석이벤트
+nakhyang.rsw#
+
+//201502 16.2
+rebel_in.rsw#
+
+
+//도람족관련 복사맵 요청 2015.05.26(말랑도 내부복사)
+
+conch_in.rsw#
+lasa_in01.rsw#
+
+
+//Ep.16.1 prt_cas
+
 prt_cas.rsw#
 prt_cas_q.rsw#
 1@sthc.rsw#
 prt_pri00.rsw#
 
+//EP.15.2베루스  2013.12.11
 
-//12월 EP15.2
 un_bunker.rsw#
 un_bk_q.rsw#
 un_myst.rsw#
 
-//8월 영웅의흔적 파트2
+//파라마켓 전용 맵
+
+paramk.rsw#
+
+//북미요청 복사맵 
+
+prt_cas_evt.rsw#
+prt_in_evt.rsw#
+prt_ch_evt.rsw#
+lhz_cu_evt.rsw#
+air_evt.rsw#
+new_1-2_evt.rsw#
+
+
+//사크라이 12.08.27
+
 1@gef_in.rsw#
 
-//201606 추석이벤트
-nakhyang.rsw#
+
+//사크라이 12.3.6
+
+iz_ng01.rsw#
+
 
 //사크라이 11.11.07
 ecl_in01.rsw#
@@ -139,3 +212,6 @@ ve_in.rsw#
 ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
+
+//20211105 EP19 얼음의 성 실내
+icas_in.rsw#

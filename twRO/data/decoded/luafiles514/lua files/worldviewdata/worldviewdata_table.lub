@@ -32,6 +32,8 @@ worldtable_main = {
 , 
 {2, "mag_dun02.rsw", 465, 45, 533, 79, WORLD_MSGID.MSI_2_MAG_DUN02, "110"}
 , 
+{2, "mag_dun03.rsw", 465, 45, 533, 79, WORLD_MSGID.MSI_2_MAG_DUN03, "110"}
+, 
 {3, "ice_dun01.rsw", 380, 121, 447, 155, WORLD_MSGID.MSI_3_ICE_DUN01, "100"}
 , 
 {3, "ice_dun02.rsw", 380, 121, 447, 155, WORLD_MSGID.MSI_3_ICE_DUN02, "105"}
@@ -258,6 +260,12 @@ worldtable_main = {
 , 
 {43, "mal_dun01.rsw", 1144, 512, 1234, 548, WORLD_MSGID.MSI_43_MAL_DUN01, "90"}
 , 
+{45, "odin_past.rsw", 1146, 109, 1236, 145, WORLD_MSGID.MSI_45_ODIN_PAST, "180"}
+, 
+{46, "oz_dun01.rsw", 53, 232, 130, 268, WORLD_MSGID.MSI_46_OZ_DUN01, "170"}
+, 
+{46, "oz_dun02.rsw", 53, 232, 130, 268, WORLD_MSGID.MSI_46_OZ_DUN02, "200"}
+, 
 {100, "hugel.rsw", 871, 0, 927, 57, WORLD_MSGID.MSI_100_HUGEL, ""}
 , 
 {100, "hu_fild01.rsw", 695, 0, 752, 57, WORLD_MSGID.MSI_100_HU_FILD01, "90"}
@@ -296,11 +304,15 @@ worldtable_main = {
 , 
 {101, "ra_fild08.rsw", 283, 235, 341, 291, WORLD_MSGID.MSI_101_RA_FILD08, "100"}
 , 
-{101, "ra_fild10.rsw", 107, 292, 163, 351, WORLD_MSGID.MSI_101_RA_FILD10, "150"}
+{101, "ra_fild10.rsw", 107, 292, 163, 351, WORLD_MSGID.MSI_101_RA_FILD10, "165"}
 , 
-{101, "ra_fild11.rsw", 164, 292, 223, 351, WORLD_MSGID.MSI_101_RA_FILD11, "160"}
+{101, "ra_fild11.rsw", 164, 292, 223, 351, WORLD_MSGID.MSI_101_RA_FILD11, "168"}
 , 
 {101, "ra_fild12.rsw", 283, 292, 341, 351, WORLD_MSGID.MSI_101_RA_FILD12, "95"}
+, 
+{101, "gw_fild01.rsw", 50, 292, 106, 351, WORLD_MSGID.MSI_101_GW_FILD01, "185"}
+, 
+{105, "gw_fild02.rsw", 50, 352, 106, 409, WORLD_MSGID.MSI_101_GW_FILD02, "185"}
 , 
 {102, "ra_fild06.rsw", 401, 174, 459, 234, WORLD_MSGID.MSI_102_RA_FILD06, "108"}
 , 
@@ -539,6 +551,12 @@ worldtable_main = {
 {111, "tur_dun01.rsw", 1164, 975, 1191, 1004, WORLD_MSGID.MSI_111_TUR_DUN01, "88"}
 , 
 {112, "malangdo.rsw", 1158, 587, 1216, 642, WORLD_MSGID.MSI_112_MALANGDO, ""}
+, 
+{5, "abyss_04.rsw", 945, 10, 1024, 44, WORLD_MSGID.MSI_5_ABYSS_04, "130"}
+, 
+{9, "ein_dun03.rsw", 579, 360, 645, 394, WORLD_MSGID.MSI_9_EIN_DUN03, "100"}
+, 
+{45, "odin_past.rsw", 1146, 109, 1236, 145, WORLD_MSGID.MSI_45_ODIN_PAST, "180"}
 }
 worldtable_main_Dun = {
 {1, 725, 17, 745, 37, WORLD_MSGID.MSI_DUN1, "110~130"}
@@ -690,23 +708,23 @@ worldtable_localizing1 = {
 , 
 {100, "amatsu.rsw", 282, 258, 366, 343, WORLD_MSGID.MSI_100_AMATSU, ""}
 , 
-{100, "ama_fild01.rsw", 334, 167, 417, 251, WORLD_MSGID.MSI_100_AMA_FILD01, "75"}
+{100, "ama_fild01.rsw", 334, 167, 417, 251, WORLD_MSGID.MSI_100_AMA_FILD01, "72"}
 , 
 {101, "gonryun.rsw", 907, 172, 991, 255, WORLD_MSGID.MSI_101_GONRYUN, ""}
 , 
-{101, "gon_fild01.rsw", 912, 270, 996, 353, WORLD_MSGID.MSI_101_GON_FILD01, "65"}
+{101, "gon_fild01.rsw", 912, 270, 996, 353, WORLD_MSGID.MSI_101_GON_FILD01, "60"}
 , 
-{101, "gon_dun02.rsw", 1031, 102, 1115, 185, WORLD_MSGID.MSI_101_GON_DUN02, "95"}
+{101, "gon_dun02.rsw", 1031, 102, 1115, 185, WORLD_MSGID.MSI_101_GON_DUN02, "92"}
 , 
 {102, "louyang.rsw", 277, 675, 361, 760, WORLD_MSGID.MSI_102_LOUYANG, ""}
 , 
-{102, "lou_fild01.rsw", 277, 770, 361, 854, WORLD_MSGID.MSI_102_LOU_FILD01, "80"}
+{102, "lou_fild01.rsw", 277, 770, 361, 854, WORLD_MSGID.MSI_102_LOU_FILD01, "83"}
 , 
 {102, "lou_dun01.rsw", 179, 672, 262, 757, WORLD_MSGID.MSI_102_DUN01, "80"}
 , 
 {103, "ayothaya.rsw", 829, 727, 912, 810, WORLD_MSGID.MSI_103_AYOTHAYA, ""}
 , 
-{103, "ayo_fild01.rsw", 921, 736, 1005, 820, WORLD_MSGID.MSI_103_AYO_FILD01, "35"}
+{103, "ayo_fild01.rsw", 921, 736, 1005, 820, WORLD_MSGID.MSI_103_AYO_FILD01, "38"}
 }
 worldtable_localizing1_Dun = {
 {1, 310, 303, 330, 323, WORLD_MSGID.MSI_DUN31, "90~100"}
@@ -732,27 +750,27 @@ worldtable_localizing2 = {
 , 
 {100, "mosk_fild02.rsw", 189, 301, 272, 386, WORLD_MSGID.MSI_100_MOSK_FILD02, "70"}
 , 
-{100, "mosk_dun01.rsw", 186, 208, 270, 293, WORLD_MSGID.MSI_100_MOSK_DUN01, "80"}
+{100, "mosk_dun01.rsw", 186, 208, 270, 293, WORLD_MSGID.MSI_100_MOSK_DUN01, "81"}
 , 
-{100, "mosk_dun02.rsw", 209, 113, 292, 197, WORLD_MSGID.MSI_100_MOSK_DUN02, "85"}
+{100, "mosk_dun02.rsw", 209, 113, 292, 197, WORLD_MSGID.MSI_100_MOSK_DUN02, "82"}
 , 
-{100, "mosk_dun03.rsw", 307, 129, 391, 212, WORLD_MSGID.MSI_100_MOSK_DUN03, "85"}
+{100, "mosk_dun03.rsw", 307, 129, 391, 212, WORLD_MSGID.MSI_100_MOSK_DUN03, "87"}
 , 
 {101, "brasilis.rsw", 925, 257, 1009, 342, WORLD_MSGID.MSI_101_BRASILIS, ""}
 , 
-{101, "bra_fild01.rsw", 1000, 113, 1084, 197, WORLD_MSGID.MSI_101_BRA_FILD01, "75"}
+{101, "bra_fild01.rsw", 1000, 113, 1084, 197, WORLD_MSGID.MSI_101_BRA_FILD01, "70"}
 , 
 {102, "dewata.rsw", 234, 714, 317, 797, WORLD_MSGID.MSI_102_DEWATA, ""}
 , 
 {102, "dew_fild01.rsw", 39, 670, 122, 754, WORLD_MSGID.MSI_102_DEW_FILD01, "80"}
 , 
-{102, "dew_dun01.rsw", 339, 839, 422, 923, WORLD_MSGID.MSI_102_DEW_DUN01, "80"}
+{102, "dew_dun01.rsw", 339, 839, 422, 923, WORLD_MSGID.MSI_102_DEW_DUN01, "81"}
 , 
 {103, "malaya.rsw", 834, 886, 917, 970, WORLD_MSGID.MSI_103_MALAYA, ""}
 , 
-{103, "ma_fild01.rsw", 957, 812, 1041, 897, WORLD_MSGID.MSI_103_MA_FILD01, "110"}
+{103, "ma_fild01.rsw", 957, 812, 1041, 897, WORLD_MSGID.MSI_103_MA_FILD01, "105"}
 , 
-{103, "ma_fild02.rsw", 947, 715, 1032, 799, WORLD_MSGID.MSI_103_MA_FILD02, "120"}
+{103, "ma_fild02.rsw", 947, 715, 1032, 799, WORLD_MSGID.MSI_103_MA_FILD02, "121"}
 , 
 {103, "ma_scene01.rsw", 1077, 603, 1161, 687, WORLD_MSGID.MSI_103_MA_SCENE01, ""}
 }
@@ -790,11 +808,33 @@ worldtable_Doram = {
 , 
 {100, "lasagna.rsw", 401, 375, 576, 547, WORLD_MSGID.MSI_100_LASAGNA, ""}
 , 
-{100, "lasa_fild01.rsw", 404, 704, 580, 875, WORLD_MSGID.MSI_100_LASA_FILD01, "5"}
+{100, "lasa_fild01.rsw", 404, 704, 580, 875, WORLD_MSGID.MSI_100_LASA_FILD01, "1"}
 , 
-{100, "lasa_fild02.rsw", 1027, 437, 1202, 609, WORLD_MSGID.MSI_100_LASA_FILD02, "11"}
+{100, "lasa_fild02.rsw", 1027, 437, 1202, 609, WORLD_MSGID.MSI_100_LASA_FILD02, "14"}
 }
 worldtable_Doram_Dun = {
 {1, 1107, 543, 1112, 547, WORLD_MSGID.MSI_DUN42, "15~150"}
 }
+worldtable_Isgard = {
+{100, "icecastle.rsw", 998, 789, 1114, 905, WORLD_MSGID.MSI_100_ICECASTLE, ""}
+, 
+{100, "jor_tail.rsw", 881, 906, 997, 1018, WORLD_MSGID.MSI_100_JOR_TAIL, "208"}
+, 
+{100, "jor_back1.rsw", 881, 789, 997, 905, WORLD_MSGID.MSI_100_JOR_BACK1, "211"}
+, 
+{100, "jor_back2.rsw", 881, 672, 997, 788, WORLD_MSGID.MSI_100_JOR_BACK2, "212"}
+, 
+{100, "jor_back3.rsw", 764, 672, 880, 788, WORLD_MSGID.MSI_100_JOR_BACK3, "213"}
+, 
+{100, "jor_back4.rsw", 764, 556, 880, 670, WORLD_MSGID.MSI_100_JOR_BACK4, "220"}
+, 
+{100, "jor_back5.rsw", 647, 438, 763, 554, WORLD_MSGID.MSI_100_JOR_BACK5, "220"}
+, 
+{100, "jor_back6.rsw", 530, 438, 646, 554, WORLD_MSGID.MSI_100_JOR_BACK6, "244"}
+, 
+{100, "jor_twice.rsw", 530, 204, 646, 319, WORLD_MSGID.MSI_100_JOR_TWICE, "222"}
+, 
+{100, "jor_twig.rsw", 296, 87, 412, 203, WORLD_MSGID.MSI_100_JOR_TWIG, ""}
+}
+worldtable_Isgard_Dun = {}
 

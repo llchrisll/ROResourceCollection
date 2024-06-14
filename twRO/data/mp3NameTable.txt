@@ -1,4 +1,17 @@
+//-최종갱신 오전 11:16 2013-04-23 본서버
 //맵이름.rsw#bgm\\음악번호#
+
+// 신종족 도람 라자냐 마을
+lasagna.rsw#bgm\\170.mp3#
+lasa_fild01.rsw#bgm\\169.mp3#
+lasa_fild02.rsw#bgm\\169.mp3#
+lasa_dun01.rsw#bgm\\168.mp3#
+lasa_dun02.rsw#bgm\\168.mp3#
+lasa_dun03.rsw#bgm\\168.mp3#
+conch_in.rsw#bgm\\170.mp3#
+lasa_in01.rsw#bgm\\170.mp3#
+lasa_dun_q.rsw#bgm\\168.mp3#
+
 
 //--- 통상판 마을음악
 prt_church.rsw#bgm\\10.mp3#
@@ -29,46 +42,50 @@ hu_in01.rsw#bgm\\93.mp3#
 //prontera.rsw#bgm\\55.mp3#
 //prt_in.rsw#bgm\\55.mp3#
 //prt_church.rsw#bgm\\56.mp3#
-//evt_xmas.rsw#bgm\\58.mp3#
-//evt_mobroom.rsw#bgm\\18.mp3#
+
+//운영팀이벤트
+e_hugel.rsw#bgm\\48.mp3#
 
 //시계탑 나이트메어
 c_tower2_.rsw#bgm\\60.mp3#
 c_tower3_.rsw#bgm\\60.mp3#
-// 수상한 난파선
-1@tre.rsw#bgm\\52.mp3#
 
-//인트로 개편
-iz_int.rsw#bgm\\88.mp3#
-iz_int01.rsw#bgm\\88.mp3#
-iz_int02.rsw#bgm\\88.mp3#
-iz_int03.rsw#bgm\\88.mp3#
-iz_int04.rsw#bgm\\88.mp3#
-iz_int05.rsw#bgm\\88.mp3#
-iz_int06.rsw#bgm\\88.mp3#
-iz_int07.rsw#bgm\\88.mp3#
-iz_int08.rsw#bgm\\88.mp3#
+// 설날 이벤트 비단뱀의 은신처 //
+silk_lair.rsw#bgm\\146.mp3#
 
-int_land.rsw#bgm\\64.mp3#
-int_land01.rsw#bgm\\64.mp3#
-int_land02.rsw#bgm\\64.mp3#
-int_land03.rsw#bgm\\64.mp3#
-int_land04.rsw#bgm\\64.mp3#
-int_land05.rsw#bgm\\64.mp3#
-int_land06.rsw#bgm\\64.mp3#
-int_land07.rsw#bgm\\64.mp3#
-int_land08.rsw#bgm\\64.mp3#
+//14.3 2차//
+1@jtb.rsw#bgm\\160.mp3#
+1@eom.rsw#bgm\\156.mp3#
+
+// 에피소드 14.3 //
+1@dth1.rsw#bgm\\157.mp3#
+1@dth2.rsw#bgm\\157.mp3#
+1@dth3.rsw#bgm\\157.mp3#
+1@rev.rsw#bgm\\158.mp3#
+moro_vol.rsw#bgm\\159.mp3#
+moro_cav.rsw#bgm\\159.mp3#
 
 //호러장난감공장
 1@xm_d.rsw#bgm\\997.mp3#
 
+
 //영웅의흔적
+dali02.rsw#bgm\\60.mp3#
 1@face.rsw#bgm\\36.mp3#
 1@sara.rsw#bgm\\37.mp3#
 dali.rsw#bgm\\60.mp3#
+1@tnm1.rsw#bgm\\102.mp3#
+1@tnm2.rsw#bgm\\113.mp3#
+1@tnm3.rsw#bgm\\112.mp3#
+1@ge_st.rsw#bgm\\103.mp3#
+1@gef.rsw#bgm\\13.mp3#
+1@gef_in.rsw#bgm\\13.mp3#
+1@spa.rsw#bgm\\117.mp3#
 
-//웨이브모드
+//몬스터웨이브
 1@def01.rsw#bgm\\19.mp3# 
+1@def02.rsw#bgm\\75.mp3# 
+1@def03.rsw#bgm\\152.mp3# 
 
 //고성메모리얼
 gl_cas02_.rsw#bgm\\43.mp3#
@@ -93,29 +110,29 @@ te_aldecas5.rsw#bgm\\66.mp3#
 teg_dun02.rsw#bgm\\44.mp3#
 
 //튜토리얼 (복사맵)
-prt_fild08a.rsw#bgm\\12.mp3#
-prt_fild08b.rsw#bgm\\12.mp3#
-prt_fild08c.rsw#bgm\\12.mp3#
 prt_fild08d.rsw#bgm\\12.mp3#
-izlude_a.rsw#bgm\\26.mp3#
-izlude_b.rsw#bgm\\26.mp3#
-izlude_c.rsw#bgm\\26.mp3#
+prt_fild08c.rsw#bgm\\12.mp3#
+prt_fild08b.rsw#bgm\\12.mp3#
+prt_fild08a.rsw#bgm\\12.mp3#
 izlude_d.rsw#bgm\\26.mp3#
-iz_ac01_a.rsw#bgm\\26.mp3#
-iz_ac02_a.rsw#bgm\\26.mp3#
-iz_ac01_b.rsw#bgm\\26.mp3#
-iz_ac02_b.rsw#bgm\\26.mp3#
-iz_ac01_c.rsw#bgm\\26.mp3#
-iz_ac02_c.rsw#bgm\\26.mp3#
+izlude_c.rsw#bgm\\26.mp3#
+izlude_b.rsw#bgm\\26.mp3#
+izlude_a.rsw#bgm\\26.mp3#
 iz_ac01_d.rsw#bgm\\26.mp3#
 iz_ac02_d.rsw#bgm\\26.mp3#
+iz_ac01_c.rsw#bgm\\26.mp3#
+iz_ac02_c.rsw#bgm\\26.mp3#
+iz_ac01_b.rsw#bgm\\26.mp3#
+iz_ac02_b.rsw#bgm\\26.mp3#
+iz_ac01_a.rsw#bgm\\26.mp3#
+iz_ac02_a.rsw#bgm\\26.mp3#
 
 //이즈루드리뉴얼
-//iz_int.rsw#bgm\\26.mp3#
-//iz_int01.rsw#bgm\\26.mp3#
-//iz_int02.rsw#bgm\\26.mp3#
-//iz_int03.rsw#bgm\\26.mp3#
-//iz_int04.rsw#bgm\\26.mp3#
+iz_int.rsw#bgm\\26.mp3#
+iz_int01.rsw#bgm\\26.mp3#
+iz_int02.rsw#bgm\\26.mp3#
+iz_int03.rsw#bgm\\26.mp3#
+iz_int04.rsw#bgm\\26.mp3#
 iz_ac01.rsw#bgm\\26.mp3#
 iz_ac02.rsw#bgm\\26.mp3#
 iz_ng01.rsw#bgm\\26.mp3#
@@ -179,6 +196,7 @@ mal_dun01.rsw#bgm\\146.mp3#
 1@cash.rsw#bgm\\147.mp3#
 1@pump.rsw#bgm\\148.mp3#
 2@pump.rsw#bgm\\148.mp3#
+evt_hello.rsw#bgm\\47.mp3#
 dic_dun03.rsw#bgm\\136.mp3#
 que_house_s.rsw#bgm\\05.mp3#
 dewata.rsw#bgm\\142.mp3#
@@ -461,7 +479,6 @@ ein_fild06.rsw#bgm\\87.mp3#
 airplane.rsw#bgm\\87.mp3#
 airport.rsw#bgm\\86.mp3#
 ein_in01.rsw#bgm\\86.mp3#
-einbech.rsw#bgm\\86.mp3#
 einbroch.rsw#bgm\\86.mp3#
 nif_fild02.rsw#bgm\\85.mp3#
 nif_fild01.rsw#bgm\\85.mp3#
@@ -922,6 +939,45 @@ pvp_y_8-5.rsw#bgm\\119.mp3#
 pvp_y_room.rsw#bgm\\52.mp3#
 pvp_2vs2.rsw#bgm\\02.mp3#
 pvp_room.rsw#bgm\\52.mp3#
+edic_fild01.rsw#bgm\\89.mp3#
+ehu_fild01.rsw#bgm\\103.mp3#
+eabyss_03.rsw#bgm\\118.mp3#
+
+te_prt_gld.rsw#bgm\\66.mp3#
+te_prtcas01.rsw#bgm\\66.mp3#
+te_prtcas02.rsw#bgm\\66.mp3#
+te_prtcas03.rsw#bgm\\66.mp3#
+te_prtcas04.rsw#bgm\\66.mp3#
+te_prtcas05.rsw#bgm\\66.mp3#
+teg_dun01.rsw#bgm\\44.mp3#
+te_alde_gld.rsw#bgm\\66.mp3#
+te_aldecas1.rsw#bgm\\66.mp3#
+te_aldecas2.rsw#bgm\\66.mp3#
+te_aldecas3.rsw#bgm\\66.mp3#
+te_aldecas4.rsw#bgm\\66.mp3#
+te_aldecas5.rsw#bgm\\66.mp3#
+teg_dun02.rsw#bgm\\44.mp3#
+
+gl_cas02_.rsw#bgm\\43.mp3#
+gl_chyard_.rsw#bgm\\40.mp3#
+1@gl_k.rsw#bgm\\44.mp3#
+2@gl_k.rsw#bgm\\44.mp3#
+
+//영웅의흔적
+dali02.rsw#bgm\\60.mp3#
+1@tnm1.rsw#bgm\\102.mp3#
+1@tnm2.rsw#bgm\\113.mp3#
+1@tnm3.rsw#bgm\\112.mp3#
+1@ge_st.rsw#bgm\\103.mp3#
+1@gef.rsw#bgm\\13.mp3#
+1@gef_in.rsw#bgm\\13.mp3#
+1@spa.rsw#bgm\\117.mp3#
+
+1@def01.rsw#bgm\\19.mp3# 
+
+//시계탑 나이트메어
+c_tower2_.rsw#bgm\\60.mp3#
+c_tower3_.rsw#bgm\\60.mp3#
 
 // 에피소드 14.3 //
 1@dth1.rsw#bgm\\157.mp3#
@@ -934,45 +990,36 @@ moro_cav.rsw#bgm\\159.mp3#
 1@eom.rsw#bgm\\156.mp3#
 
 
-//-크리스마스 이벤트 신규 추가 맵 BGM
-niflxmas.rsw#bgm\\54.mp3#
-l_k.rsw#bgm\\44.mp3#
+ehu_fild01l.rsw#bgm\\103.mp3#
+ehu_fild01m.rsw#bgm\\103.mp3#
+ehu_fild01h.rsw#bgm\\103.mp3#
+edic_dun02l.rsw#bgm\\02.mp3#
+eabyss_03m.rsw#bgm\\02.mp3#
+eman_fld03h.rsw#bgm\\02.mp3#
+ebeach_dun.rsw#bgm\\41.mp3#
+ebeach_dunl.rsw#bgm\\41.mp3#
+ebeach_dunm.rsw#bgm\\41.mp3#
+ebeach_dunh.rsw#bgm\\41.mp3#
+egef_dun03l.rsw#bgm\\50.mp3#
+egef_dun03m.rsw#bgm\\50.mp3#
+egef_dun03h.rsw#bgm\\50.mp3#
 
-dali02.rsw#bgm\\60.mp3#
-//화산섬 코로도
-1@crd.rsw#bgm\\62.mp3#
-
-// 7월 국수 축제
-lasa_sea.rsw#bgm\\93.mp3#
-1@drdo.rsw#bgm\\99.mp3#
-
-//8월 영웅의흔적 파트2
-1@tnm1.rsw#bgm\\102.mp3#
-1@tnm2.rsw#bgm\\113.mp3#
-1@tnm3.rsw#bgm\\112.mp3#
-1@ge_st.rsw#bgm\\103.mp3#
-1@gef.rsw#bgm\\13.mp3#
-1@gef_in.rsw#bgm\\13.mp3#
-1@spa.rsw#bgm\\117.mp3#
-//8월 영웅의흔적 파트3
+// 영웅의흔적 3
 1@air1.rsw#bgm\\87.mp3#
 1@air2.rsw#bgm\\87.mp3#
 1@glast.rsw#bgm\\95.mp3#
+ealde_dun02m.rsw#bgm\\64.mp3#
+egld2_aldl.rsw#bgm\\64.mp3#
+emal_dun01h.rsw#bgm\\64.mp3#
 
-//9월15일 포링섬
-poring_tw.rsw#bgm\\85.mp3#
-
-//10월 컨텐츠 시계탑 나이트메어
-c_tower2_.rsw#bgm\\60.mp3#
-c_tower3_.rsw#bgm\\60.mp3#
-
-//11월 ep15.1 판타스마고리카
+//ep15.1 판타스마고리카
 ver_eju.rsw#bgm\\89.mp3#
 ver_tunn.rsw#bgm\\89.mp3#
 verus04.rsw#bgm\\164.mp3#
 verus03.rsw#bgm\\164.mp3#
+1@mcd.rsw#bgm\\160.mp3#
 
-//12월 ep15.2 판타스마고리카
+// ep15.2 판타스마고리카
 verus01.rsw#bgm\\161.mp3#
 verus02.rsw#bgm\\161.mp3#
 un_bk_q.rsw#bgm\\122.mp3#
@@ -981,24 +1028,36 @@ un_myst.rsw#bgm\\121.mp3#
 1@uns.rsw#bgm\\163.mp3#
 1@lab.rsw#bgm\\162.mp3#
 
-1@mcd.rsw#bgm\\160.mp3#
 
-//4월 13일 훈련장
-tra_fild.rsw#bgm\\08.mp3#
+//-크리스마스 이벤트 신규 추가 맵 BGM
 
-//6월 22일 2분기 요일메모리얼
-1@md_gef.rsw#bgm\\50.mp3#
-1@md_pay.rsw#bgm\\20.mp3#
-//--- 고성메모리얼 상급
-1@gl_kh.rsw#bgm\\44.mp3#
-2@gl_kh.rsw#bgm\\44.mp3#
+niflxmas.rsw#bgm\\54#
 
-//8월 3일 싱가폴 말레이시아 국경일 이벤트
-odin1_msp.rsw#bgm\\162.mp3#
-odin2_msp.rsw#bgm\\162.mp3#
-odin3_msp.rsw#bgm\\162.mp3#
+//2016 맵채널링
+gl_ch_a.rsw#bgm\\40.mp3#
+gl_ch_b.rsw#bgm\\40.mp3#
+gl_chy_a.rsw#bgm\\40.mp3#
+gl_chy_b.rsw#bgm\\40.mp3#
+iz_du05_a.rsw#bgm\\49.mp3#
+iz_du05_b.rsw#bgm\\49.mp3#
+mag_d01_a.rsw#bgm\\06.mp3#
+mag_d01_b.rsw#bgm\\06.mp3#
+mag_d02_a.rsw#bgm\\06.mp3#
+mag_d02_b.rsw#bgm\\06.mp3#
+verus01_a.rsw#bgm\\161.mp3#
+verus01_b.rsw#bgm\\161.mp3#
+verus02_a.rsw#bgm\\161.mp3#
+verus02_b.rsw#bgm\\161.mp3#
+verus03_a.rsw#bgm\\164.mp3#
+verus03_b.rsw#bgm\\164.mp3#
+verus04_a.rsw#bgm\\164.mp3#
+verus04_b.rsw#bgm\\164.mp3#
+ecltd02_a.rsw#bgm\\154.mp3#
+ecltd02_b.rsw#bgm\\154.mp3#
+ecltd03_a.rsw#bgm\\154.mp3#
+ecltd03_b.rsw#bgm\\154.mp3#
 
-//3분기 ep16.1 영웅을 위한 연회 + 프론테라 리뉴얼
+// ep16.1 영웅을 위한 연회 + 프론테라 리뉴얼
 1@mir.rsw#bgm\\166.mp3#
 2@mir.rsw#bgm\\10.mp3#
 1@sthb.rsw#bgm\\165.mp3#
@@ -1011,35 +1070,334 @@ prt_cas_q.rsw#bgm\\09.mp3#
 prt_pri00.rsw#bgm\\09.mp3#
 prt_prison.rsw#bgm\\125.mp3#
 prt_q.rsw#bgm\\167.mp3#
+
+// 생체던전 신규 전사자의 무덤
+lhz_dun_n.rsw#bgm\\124.mp3#
+
+//170817채널이동기수정
+abyss_03_a.rsw#bgm\\100.mp3#
+abyss_03_b.rsw#bgm\\100.mp3#
+ra_san01_a.rsw#bgm\\95.mp3#
+ra_san01_b.rsw#bgm\\95.mp3#
+ve_fild03_a.rsw#bgm\\105.mp3#
+ve_fild03_b.rsw#bgm\\105.mp3#
+ve_fild07_a.rsw#bgm\\105.mp3#
+ve_fild07_b.rsw#bgm\\105.mp3#
+lasa_d02_a.rsw#bgm\\168.mp3#
+lasa_d02_b.rsw#bgm\\168.mp3#
+lasa_d03_a.rsw#bgm\\168.mp3#
+lasa_d03_b.rsw#bgm\\168.mp3#
+
+// IA 콜라보
+d_mond01.rsw#bgm\\141.mp3#
+d_mond02.rsw#bgm\\139.mp3#
+d_mond03.rsw#bgm\\115.mp3#
+
+//-최종갱신 오전 10:27 2015-10-26 본서버
+//맵이름.rsw#bgm\\음악번호#
+
 // 교황 메모리얼 낮에나온 반달
 1@pop1.rsw#bgm\\95.mp3#
 1@pop2.rsw#bgm\\94.mp3#
 1@pop3.rsw#bgm\\138.mp3#
 
-//11월 23일 건슬링거 레벨링
-ayo_dun2a.rsw#bgm\\02.mp3#
-bossnia_1a.rsw#bgm\\27.mp3#
-//11월 23일 슈퍼노비스 레벨링
-moc_pryd4a.rsw#bgm\\91.mp3#
-ra_fild8a.rsw#bgm\\73.mp3#
-tur_dun4a.rsw#bgm\\106.mp3#
-//11월 23일 국가대항전의상
-thor_v02a.rsw#bgm\\120.mp3#
+//-최종갱신 오전 10:45 2016-03-08 본서버
+//맵이름.rsw#bgm\\음악번호#
 
+// ep16.2
+1@slw.rsw#bgm\\124.mp3#
+1@swat.rsw#bgm\\87.mp3#
+que_swat.rsw#bgm\\87.mp3#
+slabw01.rsw#bgm\\87.mp3#
+rebel_in.rsw#bgm\\86.mp3#
 
-//4분기 리벨리온 전직맵
-job_gun.rsw#bgm\\132.mp3#
-1@infi.rsw#bgm\\95.mp3#
+//-최종갱신 2017-12-26
+//맵이름.rsw#bgm\\음악번호#
 
-//2월 15일
-iz_dun02a.rsw#bgm\\166.mp3#
-vis_h01.rsw#bgm\\123.mp3#
-vis_h02.rsw#bgm\\123.mp3#
+//--- 고성메모리얼 상급
+1@gl_kh.rsw#bgm\\44.mp3#
+2@gl_kh.rsw#bgm\\44.mp3#
 
-//3월 28일 1분기
+//일루전 페이욘 (문라이트)
+pay_d03_i.rsw#bgm\\47.mp3#
+
+// 일루전 게펜 (뱀파이어)
+gef_d01_i.rsw#bgm\\51.mp3#
+
+//2018대만쌍십절
+poring_tw.rsw#bgm\\03.mp3#
+
+// 2018 할로윈
+1@halo.rsw#bgm\\84.mp3#
+
+// 로컬라이징 락릿지
+har_in01.rsw#bgm\\171.mp3#
+harboro1.rsw#bgm\\171.mp3#
+harboro2.rsw#bgm\\171.mp3#
+rockmi1.rsw#bgm\\172.mp3#
+rockmi2.rsw#bgm\\172.mp3#
+rockrdg1.rsw#bgm\\172.mp3#
+rockrdg2.rsw#bgm\\172.mp3#
+
+// 11월 사냥대회
+hu_fild03.rsw#bgm\\91.mp3#
+que_house_s.rsw#bgm\\05.mp3#
+
+//신년 돼지 이벤트
+ prt_f05_tw.rsw#bgm\\12.mp3#
+
+//낙원단 (포링마을,수상한난파선)
+1@begi.rsw#bgm\\12.mp3#
+1@tre.rsw#bgm\\52.mp3#
+
+// 성제
+star_frst.rsw#bgm\\14.mp3#
+star_in.rsw#bgm\\14.mp3#
+1@soul.rsw#bgm\\40.mp3#
+
+// 레벨확장 컨텐츠
+mag_dun03.rsw#bgm\\06.mp3#
+mag_d03_a.rsw#bgm\\06.mp3#
+mag_d03_b.rsw#bgm\\06.mp3#
+gl_cas01_.rsw#bgm\\43.mp3#
+gl_c01_a.rsw#bgm\\43.mp3#
+gl_c01_b.rsw#bgm\\43.mp3#
+
+// 일루전 거북섬 (구양궁)
+tur_d03_i.rsw#bgm\\65.mp3#
+tur_d04_i.rsw#bgm\\65.mp3#
+
+// 일루전 오브 루안다
+com_d02_i.rsw#bgm\\41.mp3#
+
+// EDDA 글래스트 헤임의 몰락
+1@gl_prq.rsw#bgm\\48.mp3#
+
+// 에피소드 17.1 태동, 일루시온
+1@cor.rsw#bgm\\103.mp3#
+1@os_a.rsw#bgm\\102.mp3#
+1@os_b.rsw#bgm\\87.mp3#
+1@rgsr.rsw#bgm\\162.mp3#
+rgsr_in.rsw#bgm\\90.mp3#
+pub_cat.rsw#bgm\\175.mp3#
+sp_cor.rsw#bgm\\174.mp3#
+sp_os.rsw#bgm\\174.mp3#
+sp_rudus.rsw#bgm\\176.mp3#
+sp_rudus2.rsw#bgm\\176.mp3#
+sp_rudus3.rsw#bgm\\176.mp3#
+
+// 글래스트 헤임 도전모드
+1@gl_he.rsw#bgm\\166.mp3#
+
+// 채널링 맵 추가
+orcsd01a.rsw#bgm\\48.mp3#
+orcsd01b.rsw#bgm\\48.mp3#
+tur_d03ia.rsw#bgm\\65.mp3#
+tur_d03ib.rsw#bgm\\65.mp3#
+tur_d04ia.rsw#bgm\\65.mp3#
+tur_d04ib.rsw#bgm\\65.mp3#
+
+// 9월 컨텐츠 일루전 라비린스
+prt_mz03_i.rsw#bgm\\16.mp3#
+
+//신규 훈련장
+tra_fild.rsw#bgm\\08.mp3#
+
+//12월 컨텐츠 EDDA 생체연구소 - 원정의 여로
+1@gol1.rsw#bgm\\124.mp3#
+1@gol2.rsw#bgm\\124.mp3#
+//치킨모드 호러 장난감 공장
+1@xm_d2.rsw#bgm\\997.mp3#
+// 치킨모드 고성
+1@gl_k2.rsw#bgm\\44.mp3#
+2@gl_k2.rsw#bgm\\44.mp3#
+
+// 200 레벨확장 컨텐츠
+odin_past.rsw#bgm\\10.mp3#
+abyss_04.rsw#bgm\\100.mp3#
+ein_dun03.rsw#bgm\\88.mp3#
+// 200 레벨 맵 채널
+odin_p_a.rsw#bgm\\10.mp3#
+odin_p_b.rsw#bgm\\10.mp3#
+abyss_04a.rsw#bgm\\100.mp3#
+abyss_04b.rsw#bgm\\100.mp3#
+prt_m3_ia.rsw#bgm\\16.mp3#
+prt_m3_ib.rsw#bgm\\16.mp3#
+
+//210601 6월 컨텐츠
+ba_maison.rsw#bgm\\177.mp3#
+ba_in01.rsw#bgm\\177.mp3#
+ba_pw01.rsw#bgm\\181.mp3#
+ba_pw03.rsw#bgm\\181.mp3#
+ba_pw02.rsw#bgm\\181.mp3#
+ba_bath.rsw#bgm\\179.mp3#
+ba_2whs01.rsw#bgm\\181.mp3#
+ba_2whs02.rsw#bgm\\181.mp3#
+ba_lost.rsw#bgm\\179.mp3#
+ba_lib.rsw#bgm\\180.mp3#
+ba_go.rsw#bgm\\180.mp3#
+ba_chess.rsw#bgm\\180.mp3#
+1@lost.rsw#bgm\\179.mp3#
+1@herbs.rsw#bgm\\178.mp3#
+1@ghg.rsw#bgm\\179.mp3#
+1@bamn.rsw#bgm\\177.mp3#
+1@bamq.rsw#bgm\\177.mp3#
+
+//210713 7월 컨텐츠
+1@thts.rsw#bgm\\108.mp3#
+2@thts.rsw#bgm\\108.mp3#
+3@thts.rsw#bgm\\108.mp3#
+4@thts.rsw#bgm\\108.mp3#
+5@thts.rsw#bgm\\108.mp3#
+6@thts.rsw#bgm\\108.mp3#
+7@thts.rsw#bgm\\108.mp3#
+8@thts.rsw#bgm\\103.mp3#
+
+//211012 8월 컨텐츠
+iz_d04_i.rsw#bgm\\49.mp3#
+iz_d05_i.rsw#bgm\\49.mp3#
+
+//220322 4차 직업
+// 4차 전직 퀘스트
+1@4sac.rsw#bgm\\16.mp3#
+1@4inq.rsw#bgm\\124.mp3#
+1@4mst.rsw#bgm\\106.mp3#
+1@4cdn.rsw#bgm\\120.mp3#
+1@4igd.rsw#bgm\\159.mp3#
+1@4drk.rsw#bgm\\100.mp3#
+1@4win.rsw#bgm\\65.mp3#
+1@4tro.rsw#bgm\\129.mp3#
+job4_tro.rsw#bgm\\129.mp3#
+1@4mag.rsw#bgm\\128.mp3#
+job4_mag.rsw#bgm\\128.mp3#
+job4_bio.rsw#bgm\\163.mp3#
+// 250 레벨 확장 컨텐츠
+sp_rudus4.rsw#bgm\\176.mp3#
+amicitia1.rsw#bgm\\124.mp3#
+amicitia2.rsw#bgm\\124.mp3#
+nif_dun01.rsw#bgm\\84.mp3#
+nif_dun02.rsw#bgm\\85.mp3#
+
+// 등급강화소
+grademk.rsw#bgm\\143.mp3#
+
+// 4차 신규 맵 채널
+sp_rud4_a.rsw#bgm\\176.mp3#
+amic1_a.rsw#bgm\\124.mp3#
+amic2_a.rsw#bgm\\124.mp3#
+nifd01_a.rsw#bgm\\84.mp3#
+nifd02_a.rsw#bgm\\85.mp3#
+sp_rud4_b.rsw#bgm\\176.mp3#
+amic1_b.rsw#bgm\\124.mp3#
+amic2_b.rsw#bgm\\124.mp3#
+nifd01_b.rsw#bgm\\84.mp3#
+nifd02_b.rsw#bgm\\85.mp3#
+
+// 프론테라 맵 채널
+prontera1.rsw#bgm\\08.mp3#
+
+//파라마켓
 paramk.rsw#bgm\\143.mp3#
 
-//4월 25일
-// 환상총서 소닉콜라보 - Dr. 에그맨의 비밀 기지(임시)
+// 게펜 야간 투기장
+1@ge_sn.rsw#bgm\\159.mp3#
+
+//220816 8월 컨텐츠
+// 영웅의 흔적 외전 회한의 무덤
+1@spa2.rsw#bgm\\117.mp3#
+// 영웅의 흔적 외전 비공정추락지
+1@mjo1.rsw#bgm\\34.mp3#
+1@mjo2.rsw#bgm\\35.mp3#
+
+//220920 9월 컨텐츠 성좌의 탑
+1@ch_t.rsw#bgm\\125.mp3#
+2@ch_t.rsw#bgm\\125.mp3#
+3@ch_t.rsw#bgm\\125.mp3#
+
+// 20주년
+1@dime.rsw#bgm\\191.mp3#
+memohall.rsw#bgm\\192.mp3#
+
+// 230117 1월 컨텐츠 에피소드 18
+wolfvill.rsw#bgm\\186.mp3#
+gw_fild01.rsw#bgm\\183.mp3#
+gw_fild02.rsw#bgm\\183.mp3#
+oz_dun01.rsw#bgm\\184.mp3#
+oz_dun02.rsw#bgm\\184.mp3#
+1@oz.rsw#bgm\\184.mp3#
+1@nyr.rsw#bgm\\94.mp3#
+2@nyr.rsw#bgm\\95.mp3#
+1@adv.rsw#bgm\\185.mp3#
+1@advs.rsw#bgm\\185.mp3#
+que_thr.rsw#bgm\\106.mp3#
+1@tcamp.rsw#bgm\\106.mp3#
+
+//230307 3월 컨텐츠 일루전 오브 트윈스
+ant_d02_i.rsw#bgm\\46.mp3#
+
+// 230523 5월 컨텐츠 가라앉은 탑
+1@ch_u.rsw#bgm\\125.mp3#
+
+// 23년 8월 프론테라 차원의 균열 야시장
+x_prt_evt.rsw#bgm\\172.mp3#
+x_prt_in.rsw#bgm\\172.mp3#
+
+//231017 10월 컨텐츠 240레벨 컨텐츠 시계탑 미지의 지하층
+clock_01.rsw#bgm\\61.mp3#
+
+einbech.rsw#bgm\\86.mp3#
+
+// 바르문트 인공생태환경 바이오스피어
+bl_grass.rsw#bgm\\31.mp3#
+bl_lava.rsw#bgm\\106.mp3#
+bl_ice.rsw#bgm\\138.mp3#
+bl_death.rsw#bgm\\84.mp3#
+
+bl_venom.rsw#bgm\\106.mp3#
+bl_temple.rsw#bgm\\110.mp3#
+bl_soul.rsw#bgm\\40.mp3#
+
+
+
+// 환상총서 1차
+prt_elib.rsw#bgm\\08.mp3#
+1@vrcas.rsw#bgm\\177.mp3#
+1@vrev.rsw#bgm\\88.mp3#
+1@vrgen.rsw#bgm\\90.mp3#
+
+// 환상총서 2차
+vr_bob.rsw#bgm\\03.mp3#
+1@vrpo.rsw#bgm\\05.mp3#
+
+// 환상총서 3차
+1@vrclo.rsw#bgm\\28.mp3#
+2@vrclo.rsw#bgm\\117.mp3#
+1@vrhha.rsw#bgm\\86.mp3#
+1@vrac1.rsw#bgm\\28.mp3#
+1@vrac2.rsw#bgm\\28.mp3#
+
+clock_01a.rsw#bgm\\61.mp3#
+clock_01b.rsw#bgm\\61.mp3#
+
+// 에피소드 19 설화의 땅 이스가르드
+icecastle.rsw#bgm\\188.mp3#
+icas_in.rsw#bgm\\188.mp3#
+jor_tail.rsw#bgm\\187.mp3#
+jor_back1.rsw#bgm\\187.mp3#
+jor_back2.rsw#bgm\\187.mp3#
+jor_back3.rsw#bgm\\187.mp3#
+jor_nest.rsw#bgm\\190.mp3#
+jor_dun01.rsw#bgm\\189.mp3#
+jor_dun02.rsw#bgm\\189.mp3#
+jor_dun03.rsw#bgm\\190.mp3#
+jor_ab01.rsw#bgm\\189.mp3#
+jor_ab02.rsw#bgm\\189.mp3#
+jor_que.rsw#bgm\\189.mp3#
+air_if.rsw#bgm\\178.mp3#
+1@iwp.rsw#bgm\\187.mp3#
+1@jorchs.rsw#bgm\\190.mp3#
+1@jorlab.rsw#bgm\\190.mp3#
+1@whl.rsw#bgm\\87.mp3#
+
+//해당 bgm은 임시설정이며 아직 검수확인이 되지 않았습니다. 231228
 1@vrsn.rsw#bgm\\168.mp3#
- 
