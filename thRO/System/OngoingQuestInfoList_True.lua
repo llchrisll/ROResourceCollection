@@ -24435,6 +24435,10 @@ Description = {"หมู่นี\233 นักรบผู้กล้าตระกูล Nerious ของเราถู\161 ^ff0000Ju^000
 Description = {"วันนี้ท่านได้กำจัดมอนสเตอร์ที่น่าปวดหัวไปแล้\199 ค่อยกลับไปรับภารกิจในวันพรุ่งนี้อีกครั้งที\232 <NAVI>[Nerious Guard]<INFO>prt_fild08.gat,138,361,0,101,0</INFO></NAVI>  "}
 , Summary = "รีเซ็ตเวลา 04.00 \185.  ", CoolTimeQuest = 1}
 , 
+[295410] = {Title = "ตระกูล Gaebolg - การซื้\205 Royal Certificate (Waiting)  ", IconName = "ico_dq.bmp", 
+Description = {"คุณจะสามารถซื้\205 Royal Certificate ได้อีกครั้งในวันพรุ่งนี้ <NAVI>[Gaebolg\'s Merchant]<INFO>prt_fild08.gat,142,357,0,101,0</INFO></NAVI>  "}
+, Summary = "รีเซ็ตเวลา 04.00 \185.  ", CoolTimeQuest = 1}
+, 
 [295411] = {Title = "ของสนับสนุนประจำวันของตระกูล Gaebolg (Waiting)  ", IconName = "ico_dq.bmp", 
 Description = {"กลับมาในวันพรุ่งนี้จะสามารถรับของสนับสนุนได้ที\232 <NAVI>[Gaebolg Regent]<INFO>prt_fild08.gat,146,354,0,101,0</INFO></NAVI> อีกครั้ง  "}
 , Summary = "รีเซ็ตเวลา 04.00 \185.  ", CoolTimeQuest = 1}
@@ -24814,5 +24818,25 @@ Description = {"หมู่นี\233 นักรบผู้กล้าตระกูล Nerious ของเราถู\161 ^ff0000Runawa
 [295488] = {Title = "ตระกูล Gaebolg - สำรวจความผิดปกติในดันเจี้ย\185  ", IconName = "ico_dq.bmp", 
 Description = {"หมู่นี\233 นักรบผู้กล้าตระกูล Gaebolg ของเราถู\161 ^ff0000Runaway Felock^000000 ตามไล่ล่าจนปฏิบัติงานไม่ได\233 รบกวนนักผจญภัยกำจัดมอนสเตอร์นั้นทีนะ  "}
 , Summary = ""}
+, 
+[295485] = {Title = "4th Anniversary Daily Gift (Waiting)  ", IconName = "ico_dq.bmp", 
+Description = {"สามารถพบกั\186 <NAVI>[4th Anniversary GM Gift]<INFO>alberta.gat,145,82,0,101,0</INFO></NAVI> และเข้าร่วมได้หลังจากผ่านไปหนึ่งวั\185  "}
+, Summary = "รีเซ็ต 04.00 \185.  ", CoolTimeQuest = 1}
+, 
+[295480] = {Title = "GM RSX 0806 Gift (Waiting)  ", IconName = "ico_dq.bmp", 
+Description = {"กิจกรรมรับไอเท็มผ่านกิจกรร\193 GM Live สามารถรับได้แค่ตัวละครละ 1 ครั้งเท่านั้\185  "}
+, Summary = "รีเซ็ต 04.00 \185.  ", CoolTimeQuest = 7}
+, 
+[295481] = {Title = "GM Deviluchi Gift (Waiting)  ", IconName = "ico_dq.bmp", 
+Description = {"กิจกรรมรับไอเท็มผ่านกิจกรร\193 GM Live สามารถรับได้แค่ตัวละครละ 1 ครั้งเท่านั้\185  "}
+, Summary = "รีเซ็ต 04.00 \185.  ", CoolTimeQuest = 7}
+, 
+[295482] = {Title = "GM Dokebi Gift (Waiting)  ", IconName = "ico_dq.bmp", 
+Description = {"กิจกรรมรับไอเท็มผ่านกิจกรร\193 GM Live สามารถรับได้แค่ตัวละครละ 1 ครั้งเท่านั้\185  "}
+, Summary = "รีเซ็ต 04.00 \185.  ", CoolTimeQuest = 7}
+, 
+[295483] = {Title = "GM PORING Gift (Waiting)  ", IconName = "ico_dq.bmp", 
+Description = {"กิจกรรมรับไอเท็มผ่านกิจกรร\193 GM Live สามารถรับได้แค่ตัวละครละ 1 ครั้งเท่านั้\185  "}
+, Summary = "รีเซ็ต 04.00 \185.  ", CoolTimeQuest = 7}
 }
 

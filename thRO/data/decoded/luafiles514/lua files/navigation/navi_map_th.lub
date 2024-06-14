@@ -544,7 +544,7 @@ Navi_Map = {
 , 
 {"lasa_in01", "Inside Lasagna", 5003, 200, 120}
 , 
-{"lasa_sea", "bgm\\\\93.mp3", 5001, 220, 220}
+{"lasa_sea", "Nyail Cave", 5001, 220, 220}
 , 
 {"lasagna", "Port Lasagna", 5001, 400, 400}
 , 
@@ -900,11 +900,13 @@ Navi_Map = {
 , 
 {"prt_maze03", "Labyrinth Forest 3F", 5005, 200, 200}
 , 
+{"prt_mk", "Prontera Market Street", 5001, 320, 320}
+, 
 {"prt_monk", "St. Capitolina Abbey", 5001, 400, 300}
 , 
 {"prt_mz03_i", "Hidden Labyrinth Forest", 5005, 200, 200}
 , 
-{"prt_pri00", "Prontera Prison", 5003, 200, 200}
+{"prt_pri00", "Prontera Jail", 5003, 200, 200}
 , 
 {"prt_prison", "Prontera Dungeon", 5001, 300, 300}
 , 

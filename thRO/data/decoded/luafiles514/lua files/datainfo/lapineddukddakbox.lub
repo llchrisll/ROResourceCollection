@@ -1984,6 +1984,16 @@ SourceItems = {
 {"C_Flutter_Butterfly", 1, 5914}
 , 
 {"C_Scepter", 1, 480093}
+, 
+{"C_Small_Deviling_Hat", 1, 400565}
+, 
+{"C_Cat_Footprints", 1, 420077}
+, 
+{"C_Grisly_Soul", 1, 410276}
+, 
+{"C_Unicorn_Fan_trav", 1, 480423}
+, 
+{"C_Reliance_Crown", 1, 400311}
 }
 , NeedSource_String = "Costume Malangdo"}
 , 
@@ -4660,6 +4670,54 @@ SourceItems = {
 {"EP17_2_UQ12", 1, 1000208}
 }
 , NeedSource_String = "Automatic Module"}
+, 
+Gambler_Mod_Cube_H = {ItemID = 103166, NeedCount = 6, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Gambler_Seal", 1, 5918}
+}
+, NeedSource_String = "Gambler Seal"}
+, 
+Heart_Card_Mod_Cube = {ItemID = 103167, NeedCount = 10, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Heart_Card_In_Mouth", 1, 19306}
+}
+, NeedSource_String = "Heart Card In Mouth"}
+, 
+RGNecklace_Mod_Cube_H = {ItemID = 103172, NeedCount = 6, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Royalguard_Necklace", 1, 19246}
+}
+, NeedSource_String = "Royal Guard Necklace"}
+, 
+ImFeather_Mod_Cube = {ItemID = 103173, NeedCount = 10, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Imperial_Feather", 1, 18823}
+}
+, NeedSource_String = "Imperial Feather"}
+, 
+Protect_Mod_Cube = {ItemID = 103177, NeedCount = 10, NeedRefineMin = 0, NeedRefineMax = 0, 
+SourceItems = {
+{"Protect_Feathers", 1, 19024}
+, 
+{"Protect_cloth", 1, 19381}
+}
+, NeedSource_String = "Protect Equipment"}
+, 
+Mammoth_Mix = {ItemID = 100621, NeedCount = 6, NeedRefineMin = 7, NeedRefineMax = 10, 
+SourceItems = {
+{"S_Mammoth_Armor", 1, 24669}
+, 
+{"S_Mammoth_Shoes", 1, 24670}
+, 
+{"S_Mammoth_Pendant", 1, 24671}
+, 
+{"S_Mammoth_Earring", 1, 24672}
+, 
+{"S_Mammoth_Weapon", 1, 24673}
+, 
+{"S_Mammoth_Shield", 1, 24674}
+}
+, NeedSource_String = "Mammoth Shadow"}
 }
 , get_lapine_box = function(in_box_id)
   -- function num : 0_0

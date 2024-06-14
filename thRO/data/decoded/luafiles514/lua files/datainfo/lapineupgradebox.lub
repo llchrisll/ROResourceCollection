@@ -1298,6 +1298,14 @@ TargetItems = {
 {"S_FullTemp_Shoes", 24666}
 , 
 {"S_FullTemp_Earring", 24665}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
 }
 , NeedSource_String = "Shadow Items"}
 , 
@@ -2406,6 +2414,14 @@ TargetItems = {
 {"S_FullTemp_Shoes", 24666}
 , 
 {"S_FullTemp_Earring", 24665}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
 }
 , NeedSource_String = "+7 Shadow Item"}
 , 
@@ -6382,6 +6398,14 @@ TargetItems = {
 {"S_FullTemp_Shoes", 24666}
 , 
 {"S_FullTemp_Earring", 24665}
+, 
+{"S_M_Mammoth_Armor", 24679}
+, 
+{"S_M_Mammoth_Shoes", 24680}
+, 
+{"S_M_Mammoth_Earring", 24681}
+, 
+{"S_M_Mammoth_Pendant", 24682}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 

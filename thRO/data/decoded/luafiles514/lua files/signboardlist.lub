@@ -968,26 +968,6 @@ SignBoardList = {
 , 
 {"abyss_03", 91, 110, 0, IT_SIGNBOARD, "item\\as_poisonreact.bmp", "  เลเวลต่ำกว่า 190 ห้ามเข้า ", "#0x00FFFFFF"}
 , 
-{"prontera", 164, 282, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  สร้า\167/อัพเกร\180   ", "#0x00FFFFFF"}
-, 
-{"prontera", 164, 287, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  เสริมคุณสมบัติพิเศ\201   ", "#0x00FFFFFF"}
-, 
-{"prontera", 164, 302, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  ตรวจสอ\186 Battle Pass   ", "#0x00FFFFFF"}
-, 
-{"prontera", 164, 297, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  เควสรายวัน/เควสกิจกรร\193   ", "#0x00FFFFFF"}
-, 
-{"morocc", 128, 101, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  โบนัสเคว\202   ", "#0x00FFFFFF"}
-, 
-{"payon", 210, 59, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  ค้นคว้างานวิจัยที่นี\232   ", "#0x00FFFFFF"}
-, 
-{"geffen", 167, 79, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  ค้นคว้างานวิจัยที่นี\232   ", "#0x00FFFFFF"}
-, 
-{"morocc", 211, 66, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  ค้นคว้างานวิจัยที่นี\232   ", "#0x00FFFFFF"}
-, 
-{"alberta", 147, 41, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  ค้นคว้างานวิจัยที่นี\232   ", "#0x00FFFFFF"}
-, 
-{"yuno", 190, 360, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  ค้นคว้างานวิจัยที่นี\232   ", "#0x00FFFFFF"}
-, 
 {"malangdo", 130, 133, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  Guarantee Enchant อยู่นี\232   ", "#0x00FFFFFF"}
 , 
 {"malangdo", 134, 144, 0, IT_SIGNBOARD, "group\\group_2.bmp", "  สุ่ม Enchant Slot 4 ตรงนี้   ", "#0x00FFFFFF"}

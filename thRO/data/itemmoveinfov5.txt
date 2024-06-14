@@ -1,4 +1,4 @@
-//아이템 ID, drop, 교환창올리기, 창고, 카트, NPC판매, 메일, 옥션, 길드창고									
+//아이템 ID, drop, 교환창올리기, 창고, 카트, NPC판매, 메일, 옥션, 길드창고	
 //이형식은 공백 라인을 인정하지 않습니다. 주의하세요								
 547	0	0	0	0	1	0	0	0	//화이트슬림포션
 603	0	0	0	0	1	0	0	0	//오래된파란상자
@@ -7822,8 +7822,8 @@
 19817	1	1	0	1	1	1	1	1	//C_Ifrits_Breath
 410212	1	1	0	1	1	1	1	1	//C_Little_Abyss_Dragon
 480181	1	1	0	1	1	1	1	1	//C_Pitaya_G_Bag
-1000991	1	1	1	1	1	1	1	1	//Lv_Up_T_150
-1000992	1	1	1	1	1	1	1	1	//Lv_Up_T_170
+1000991	1	1	0	1	1	1	1	1	//Lv_Up_T_150
+1000992	1	1	0	1	1	1	1	1	//Lv_Up_T_170
 103120	0	0	0	0	1	1	1	0	//Razer_4thAnni_C_Box
 103112	1	1	0	1	1	1	1	1	//Booster_Box_Comback2024
 835	1	1	0	1	1	1	1	1	//Cos_Coin_TH
@@ -7931,3 +7931,36 @@
 100340	1	1	1	1	0	1	1	1	//Booster_W_Up_3
 1001754	1	0	0	0	1	1	1	0	//DF_GachaSSS_Mat01
 103151	1	0	0	0	1	1	1	0	//4th_Anni_Scroll_TH
+
+//2024 06 06
+103156	1	0	0	0	1	1	1	0	//LI_Silvervine_Box1_20
+6302	1	1	0	1	0	1	1	1	//GM_Handwriting
+19777	1	1	0	1	0	1	1	1	//C_Twinkle_Little_Star
+19997	1	1	0	1	0	1	1	1	//C_Bomb_Hat
+
+//2024 06 13
+24679	0	0	0	0	0	1	1	0	//S_M_Mammoth_Armor
+24680	0	0	0	0	0	1	1	0	//S_M_Mammoth_Shoes
+24681	0	0	0	0	0	1	1	0	//S_M_Mammoth_Earring
+24682	0	0	0	0	0	1	1	0	//S_M_Mammoth_Pendant
+410344	1	0	0	0	1	1	1	0	//Clown_Smiling
+410345	1	0	0	0	1	1	1	0	//Clown_Smiling_
+410346	1	0	0	0	1	1	1	0	//Imperial_Earwing
+410347	1	0	0	0	1	1	1	0	//Imperial_Earwing_
+410348	1	0	0	0	1	1	1	0	//D_Protect_Shields
+460004	0	0	0	0	0	1	1	0	//Illusion_Shield_A
+460014	0	0	0	0	0	1	1	0	//Illusion_Shield_B
+100621	0	0	0	0	0	1	1	0	//Mammoth_Mix
+101022	0	0	0	0	0	1	1	0	//S_RoyalGuard_Cube
+101024	0	0	0	0	0	1	1	0	//S_Sorcerer_Cube
+101025	0	0	0	0	0	1	1	0	//S_Mechanic_Cube
+101027	0	0	0	0	0	1	1	0	//S_ArchBishop_Cube
+101030	0	0	0	0	0	1	1	0	//S_ShadowChaser_Cube
+101031	0	0	0	0	0	1	1	0	//S_Ranger_Cube
+101033	0	0	0	0	0	1	1	0	//S_Minstrel_Cube
+103166	1	0	0	0	1	1	1	0	//Gambler_Mod_Cube_H
+103167	1	0	0	0	1	1	1	0	//Heart_Card_Mod_Cube
+103172	1	0	0	0	1	1	1	0	//RGNecklace_Mod_Cube_H
+103173	1	0	0	0	1	1	1	0	//ImFeather_Mod_Cube
+103177	1	0	0	0	1	1	1	0	//Protect_Mod_Cube
+103181	1	0	0	0	1	1	1	0	//Universal_Scroll_TH2
