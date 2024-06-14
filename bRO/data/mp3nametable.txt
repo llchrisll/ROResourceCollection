@@ -1030,3 +1030,6 @@ sp_rudus3.rsw#bgm\\176.mp3#
 
 iz_d04_i.rsw#bgm\\49.mp3#
 iz_d05_i.rsw#bgm\\49.mp3#
+
+// 일루전 오브 트윈스
+ant_d02_i.rsw#bgm\\46.mp3#

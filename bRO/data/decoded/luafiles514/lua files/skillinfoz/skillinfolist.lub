@@ -5676,7 +5676,7 @@ SpAmount = {0, 0, 0, 0, 0}
 AttackRange = {1, 1, 1, 1, 1}
 }
 , 
-[SKID.AM_AXEMASTERY] = {"AM_AXEMASTERY"; SkillName = "Perícia com Machado", MaxLv = 10, 
+[SKID.AM_AXEMASTERY] = {"AM_AXEMASTERY"; SkillName = "Perícia com Machado e Espada", MaxLv = 10, 
 SpAmount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 , bSeperateLv = false, 
 AttackRange = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
@@ -9282,31 +9282,31 @@ _NeedSkillList = {
 }
 }
 , 
-[SKID.KO_KAHU_ENTEN] = {"KO_KAHU_ENTEN"; SkillName = "Amuleto Espiritual: Fogo", MaxLv = 1, 
+[SKID.KO_KAHU_ENTEN] = {"KO_KAHU_ENTEN"; SkillName = "Amuleto de Fogo", MaxLv = 1, 
 SpAmount = {20}
 , bSeperateLv = false, 
 AttackRange = {1}
 }
 , 
-[SKID.KO_HYOUHU_HUBUKI] = {"KO_HYOUHU_HUBUKI"; SkillName = "Amuleto Espiritual: Água", MaxLv = 1, 
+[SKID.KO_HYOUHU_HUBUKI] = {"KO_HYOUHU_HUBUKI"; SkillName = "Amuleto de Água", MaxLv = 1, 
 SpAmount = {20}
 , bSeperateLv = false, 
 AttackRange = {1}
 }
 , 
-[SKID.KO_KAZEHU_SEIRAN] = {"KO_KAZEHU_SEIRAN"; SkillName = "Amuleto Espiritual: Vento", MaxLv = 1, 
+[SKID.KO_KAZEHU_SEIRAN] = {"KO_KAZEHU_SEIRAN"; SkillName = "Amuleto de Vento", MaxLv = 1, 
 SpAmount = {20}
 , bSeperateLv = false, 
 AttackRange = {1}
 }
 , 
-[SKID.KO_DOHU_KOUKAI] = {"KO_DOHU_KOUKAI"; SkillName = "Amuleto Espiritual: Terra", MaxLv = 1, 
+[SKID.KO_DOHU_KOUKAI] = {"KO_DOHU_KOUKAI"; SkillName = "Amuleto de Terra", MaxLv = 1, 
 SpAmount = {20}
 , bSeperateLv = false, 
 AttackRange = {1}
 }
 , 
-[SKID.KO_KAIHOU] = {"KO_KAIHOU"; SkillName = "Arremessar Amuleto Espiritual", MaxLv = 1, 
+[SKID.KO_KAIHOU] = {"KO_KAIHOU"; SkillName = "Arremessar Amuleto", MaxLv = 1, 
 SpAmount = {10}
 , bSeperateLv = false, 
 AttackRange = {1}
@@ -9733,16 +9733,6 @@ AttackRange = {0}
 , 
 _NeedSkillList = {
 {SKID.GS_CHAINACTION, 1}
-}
-}
-, 
-[SKID.RL_C_MARKER] = {"RL_C_MARKER"; SkillName = "Marcar em Brasa", MaxLv = 1, 
-SpAmount = {10}
-, bSeperateLv = false, 
-AttackRange = {11}
-, 
-_NeedSkillList = {
-{SKID.GS_GLITTERING, 1}
 }
 }
 , 

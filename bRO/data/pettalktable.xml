@@ -1581,25 +1581,25 @@
 	</mastering>	
 <LITTLE_PORING>			
 	<hungry>		
-		<feeding>Ao alimentar seu mascote, a lealdade aumenta tamb?!</feeding>
-		<feeding>Eu amo Suco de Maçã, mas a comida varia dependendo do mascote.</feeding>
-		<hunting>Voc?pode capturar um monstro como bichinho de estimação, usando a isca adequada!</hunting>
-		<hunting>  poss?el transformar Maçã em Suco de Maçã l?em Payon!</hunting>
-		<danger>Cuidado! Se voc?morrer, a lealdade do mascote ser?reduzida.</danger>
-		<danger>Voc?precisa recuperar seu HP e eu preciso de comida!</danger>
-		<dead>Mascotes n? morrem, mas se a lealdade estiver baixa, eles abandonar? voc?..</dead>
-		<dead>A lealdade do mascote diminui se voc?aliment?lo demais, mant?lo com fome ou morrer.</dead>
-		<stand>Se voc?quiser me alimentar, d?um clique com o bot? direito em cima de mim. Eu s?bebo Suco de Maçã.</stand>
-		<stand>Voc?pode ganhar dinheiro vendendo itens em algum NPC!</stand>
+		<feeding>Ao alimentar seu mascote, a lealdade aumenta tambem?!</feeding>
+		<feeding>Eu amo Suco de Maca, mas a comida varia dependendo do mascote.</feeding>
+		<hunting>Voce pode capturar um monstro como bichinho de estimacao, usando a isca adequada!</hunting>
+		<hunting> E possiviel transformar Maca em Suco de Maca la em Payon!</hunting>
+		<danger>Cuidado! Se voce morrer, a lealdade do mascote sere reduzida.</danger>
+		<danger>Voce precisa recuperar seu HP e eu preciso de comida!</danger>
+		<dead>Mascotes nao morrem, mas se a lealdade estiver baixa, eles abandonarao voce..</dead>
+		<dead>A lealdade do mascote diminui se voce alimenta-lo demais, mante-lo com fome ou morrer.</dead>
+		<stand>Se voce quiser me alimentar, de um clique com o botao direito em cima de mim. Eu so bebo Suco de Maca.</stand>
+		<stand>Voce pode ganhar dinheiro vendendo itens em algum NPC!</stand>
 		<stand>Alguns mascotes usam equipamentos, como Mochilas e Capacetes.</stand>
-		<connect>Seja bem-vindo ao mundo de Ragnar? Online!</connect>
-		<connect>Ao entrar no jogo, verifique se seu mascote est?alimentado.</connect>
-		<levelup>Bichos de estimação n? sobem de n?el nem possuem habilidades.</levelup>
-		<levelup>Quando voc?aumenta a lealdade do seu mascote, pode receber alguns b?us deles.</levelup>
-		<perfor_1>Brincar com um mascote exibe uma animação! Eu n? exibo, mas outros monstros sim!</perfor_1>
-		<perfor_2>Voc?pode ver diferentes animações conforme a lealdade dele aumenta!</perfor_2>
-		<perfor_3>Brincadeiras n? t? efeito algum, ?puramente visual!</perfor_3>
-		<perfor_s>Brincar com um mascote n? aumenta a lealdade!</perfor_s>
+		<connect>Seja bem-vindo ao mundo de Ragnarok Online!</connect>
+		<connect>Ao entrar no jogo, verifique se seu mascote esta alimentado.</connect>
+		<levelup>Bichos de estimacao nao sobem de nivel nem possuem habilidades.</levelup>
+		<levelup>Quando voce aumenta a lealdade do seu mascote, pode receber alguns bonus deles.</levelup>
+		<perfor_1>Brincar com um mascote exibe uma animacao! Eu nao exibo, mas outros monstros sim!</perfor_1>
+		<perfor_2>Voce pode ver diferentes animacoes conforme a lealdade dele aumenta!</perfor_2>
+		<perfor_3>Brincadeiras nao tem efeito algum, e puramente visual!</perfor_3>
+		<perfor_s>Brincar com um mascote nao aumenta a lealdade!</perfor_s>
 	</hungry>		
 	<bit_hungry>		
 		<feeding>Alimentar seu mascote quando estiver com fome aumenta a lealdade!</feeding>
@@ -9322,100 +9322,100 @@ Por favor?</dead>
 		<feeding>	ChaoChao! Chao. 	</feeding>
 		<hunting>	Chao, Chao~ (Me alimente~)	</hunting>
 		<hunting>	ChaoChao~. (Quero comer.)	</hunting>
-		<danger>	É perigoso!! Chao!	</danger>
+		<danger>	  perigoso!! Chao!	</danger>
 		<danger>	ChaoChao... Sem noção!!	</danger>
 		<dead>	Chao morreu~?	</dead>
 		<dead>	Chao... TT.TT	</dead>
-		<stand>	O clima Chao está muito bom~	</stand>
+		<stand>	O clima Chao est?muito bom~	</stand>
 		<stand>	Chao Chao entediado?	</stand>
 		<connect>	Chao voltou!	</connect>
 		<connect>	Chao~! ChaoChao.	</connect>
-		<levelup>	Chao está mais forte!!	</levelup>
-		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<levelup>	Chao est?mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parab?s!!)	</levelup>
 		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
 		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
-		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
-		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+		<perfor_3>	Chao est?com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar at?o Chao!	</perfor_s>
 	</hungry>			
 	<bit_hungry>			
 		<feeding>	Chao com fome~	</feeding>
 		<feeding>	ChaoChao! Chao. 	</feeding>
 		<hunting>	Chao, Chao~ (Me alimente~)	</hunting>
 		<hunting>	ChaoChao~. (Quero comer.)	</hunting>
-		<danger>	É perigoso!! Chao!	</danger>
+		<danger>	  perigoso!! Chao!	</danger>
 		<danger>	ChaoChao... Sem noção!!	</danger>
 		<dead>	Chao morreu~?	</dead>
 		<dead>	Chao... TT.TT	</dead>
-		<stand>	O clima Chao está muito bom~	</stand>
+		<stand>	O clima Chao est?muito bom~	</stand>
 		<stand>	Chao Chao entediado?	</stand>
 		<connect>	Chao voltou!	</connect>
 		<connect>	Chao~! ChaoChao.	</connect>
-		<levelup>	Chao está mais forte!!	</levelup>
-		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<levelup>	Chao est?mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parab?s!!)	</levelup>
 		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
 		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
-		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
-		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+		<perfor_3>	Chao est?com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar at?o Chao!	</perfor_s>
 	</bit_hungry>			
 	<noting>			
 		<feeding>	Chao com fome~	</feeding>
 		<feeding>	Chao Chao agradece a comida!	</feeding>
 		<hunting>	Chao Chao~	</hunting>
 		<hunting>	Bom trabalho! Chao Chao	</hunting>
-		<danger>	É perigoso!! Chao!	</danger>
+		<danger>	  perigoso!! Chao!	</danger>
 		<danger>	Use um Chao Chao para se curar!!!	</danger>
 		<dead>	Chao triste TT.TT	</dead>
-		<dead>	Tá tudo bem, Chao Chao, vamos voltar~	</dead>
-		<stand>	Chao está com um bom pressentimento!	</stand>
+		<dead>	T?tudo bem, Chao Chao, vamos voltar~	</dead>
+		<stand>	Chao est?com um bom pressentimento!	</stand>
 		<stand>	Chao acha que hoje vai ser um dia feliz!	</stand>
 		<connect>	Chao voltou!	</connect>
 		<connect>	Chao~! ChaoChao.	</connect>
-		<levelup>	Chao está mais forte!!	</levelup>
-		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<levelup>	Chao est?mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parab?s!!)	</levelup>
 		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
 		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
-		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
-		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+		<perfor_3>	Chao est?com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar at?o Chao!	</perfor_s>
 	</noting>			
 	<full>			
-		<feeding>	Chao já comeu muito!	</feeding>
-		<feeding>	Chao Chao não quer mais comida!	</feeding>
+		<feeding>	Chao j?comeu muito!	</feeding>
+		<feeding>	Chao Chao n? quer mais comida!	</feeding>
 		<hunting>	Chao Chao podia ajudar!!	</hunting>
-		<hunting>	ChaoChao... Não consegue se mover por estar cheio!	</hunting>
-		<danger>	É perigoso!! Chao!	</danger>
+		<hunting>	ChaoChao... N? consegue se mover por estar cheio!	</hunting>
+		<danger>	  perigoso!! Chao!	</danger>
 		<danger>	Use um Chao Chao para se curar!!!	</danger>
 		<dead>	Chao triste TT.TT	</dead>
-		<dead>	Tá tudo bem, Chao Chao, vamos voltar~	</dead>
-		<stand>	Chao está com um bom pressentimento!	</stand>
+		<dead>	T?tudo bem, Chao Chao, vamos voltar~	</dead>
+		<stand>	Chao est?com um bom pressentimento!	</stand>
 		<stand>	Chao acha que hoje vai ser um dia feliz!	</stand>
 		<connect>	Chao voltou!	</connect>
 		<connect>	Chao~! ChaoChao.	</connect>
-		<levelup>	Chao está mais forte!!	</levelup>
-		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<levelup>	Chao est?mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parab?s!!)	</levelup>
 		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
 		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
-		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
-		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+		<perfor_3>	Chao est?com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar at?o Chao!	</perfor_s>
 	</full>			
 	<so_full>			
 		<feeding>	Chao comeu demais!!!	</feeding>
-		<feeding>	Chao Chao não quer mais comida!	</feeding>
+		<feeding>	Chao Chao n? quer mais comida!	</feeding>
 		<hunting>	Chao Chao podia ajudar!!	</hunting>
-		<hunting>	ChaoChao... Não consegue se mover por estar cheio!	</hunting>
-		<danger>	É perigoso!! Chao!	</danger>
+		<hunting>	ChaoChao... N? consegue se mover por estar cheio!	</hunting>
+		<danger>	  perigoso!! Chao!	</danger>
 		<danger>	Use um Chao Chao para se curar!!!	</danger>
 		<dead>	Chao triste TT.TT	</dead>
-		<dead>	Tá tudo bem, Chao Chao, vamos voltar~	</dead>
-		<stand>	Chao está com um bom pressentimento!	</stand>
+		<dead>	T?tudo bem, Chao Chao, vamos voltar~	</dead>
+		<stand>	Chao est?com um bom pressentimento!	</stand>
 		<stand>	Chao acha que hoje vai ser um dia feliz!	</stand>
 		<connect>	Chao voltou!	</connect>
 		<connect>	Chao~! ChaoChao.	</connect>
-		<levelup>	Chao está mais forte!!	</levelup>
-		<levelup>	ChaoChaoChao! (Parabéns!!)	</levelup>
+		<levelup>	Chao est?mais forte!!	</levelup>
+		<levelup>	ChaoChaoChao! (Parab?s!!)	</levelup>
 		<perfor_1>	Vamos dar o nosso melhor, Chao!	</perfor_1>
 		<perfor_2>	Acho que algo Chao vai acontecer hoje!	</perfor_2>
-		<perfor_3>	Chao está com um bom pressentimento!	</perfor_3>
-		<perfor_s>	Chao vai rebolar até o Chao!	</perfor_s>
+		<perfor_3>	Chao est?com um bom pressentimento!	</perfor_3>
+		<perfor_s>	Chao vai rebolar at?o Chao!	</perfor_s>
 	</so_full>			
 	</VR_CHAO>
 
@@ -9540,7 +9540,7 @@ Por favor?</dead>
 			<feeding> Lembrou de mim agora?  </feeding>
 			<feeding> Consegui matar minha sede </feeding>
 			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
-			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Eu fa? isso 10 vezes melhor e mais veloz.  </hunting>
 			<hunting> Quem te treinou te odeia muito. </hunting>
 			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
 			<danger> Jamais abaixe sua guarda. </danger>
@@ -9561,7 +9561,7 @@ Por favor?</dead>
 			<feeding> Lembrou de mim agora?  </feeding>
 			<feeding> Consegui matar minha sede </feeding>
 			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
-			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Eu fa? isso 10 vezes melhor e mais veloz.  </hunting>
 			<hunting> Quem te treinou te odeia muito. </hunting>
 			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
 			<danger> Jamais abaixe sua guarda. </danger>
@@ -9582,7 +9582,7 @@ Por favor?</dead>
 			<feeding> Lembrou de mim agora?  </feeding>
 			<feeding> Consegui matar minha sede </feeding>
 			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
-			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Eu fa? isso 10 vezes melhor e mais veloz.  </hunting>
 			<hunting> Quem te treinou te odeia muito. </hunting>
 			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
 			<danger> Jamais abaixe sua guarda. </danger>
@@ -9601,7 +9601,7 @@ Por favor?</dead>
 		<full>
 			<feeding> Eu estou cheio, por favor, pode parar de me alimentar?  </feeding>
 			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
-			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Eu fa? isso 10 vezes melhor e mais veloz.  </hunting>
 			<hunting> Quem te treinou te odeia muito. </hunting>
 			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
 			<danger> Jamais abaixe sua guarda. </danger>
@@ -9620,7 +9620,7 @@ Por favor?</dead>
 		<so_full>
 			<feeding> Eu vou desistir de te seguir se continuar me alimentando... </feeding>
 			<hunting> Quem te ensinou esse golpe ruim?  </hunting>
-			<hunting> Eu faço isso 10 vezes melhor e mais veloz.  </hunting>
+			<hunting> Eu fa? isso 10 vezes melhor e mais veloz.  </hunting>
 			<hunting> Quem te treinou te odeia muito. </hunting>
 			<danger> Regra no.1 para sobreviver - Evite morrer </danger>
 			<danger> Jamais abaixe sua guarda. </danger>

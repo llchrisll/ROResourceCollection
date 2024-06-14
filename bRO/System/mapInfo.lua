@@ -3507,6 +3507,10 @@ signName = {subTitle = "Túnel das Fossas Abissais", mainTitle = "Ilusão Submarin
 ["iz_d05_i.rsw"] = {displayName = "Ilusão Submarina (2)", notifyEnter = true, 
 signName = {subTitle = "Templo das Fossas Abissais", mainTitle = "Ilusão Submarina"}
 , backgroundBmp = "dungeon"}
+, 
+["ant_d02_i.rsw"] = {displayName = "Ilusão dos Gêmeos", notifyEnter = true, 
+signName = {subTitle = "Jardim da Percepção", mainTitle = "Ilusão dos Gêmeos"}
+, backgroundBmp = "dungeon"}
 }
 main = function()
   -- function num : 0_0

@@ -23958,5 +23958,197 @@ Description = {"Essa missão pode ser repetida no dia seguinte. <NAVI>[Kenna]<INF
 [5846] = {Title = "Corredor das Almas", IconName = "ico_dq.bmp", 
 Description = {"Voc\234 pode conseguir um <ITEM>[Selo Visionário]<INFO>25504</INFO></ITEM> de 1 hora de duração com o <NAVI>[Espectro da Morte]<INFO>comodo,217,207,000,0</INFO></NAVI> uma vez por dia."}
 , Summary = "Reseta 4 da manh\227."}
+, 
+[8719] = {Title = "Ilusão dos Gêmeos", 
+Description = {"Mirko e Yolanda descobriram um novo túnel no Formigueiro Infernal, mas..."}
+, Summary = "Fale com Mirko"}
+, 
+[8720] = {Title = "Ilusão dos Gêmeos", 
+Description = {"Mirko diz que o aventureiro Briashen desapareceu. Briashen foi explorar o recém-descoberto Jardim da Percepção, mas não voltou."}
+, Summary = "Fale com Mirko"}
+, 
+[8721] = {Title = "Ilusão dos Gêmeos", 
+Description = {"Voc\234 deve encontrar Briashen no Jardim da Percepção. Espero que esteja vivo."}
+, Summary = "Fale com Briashen"}
+, 
+[8722] = {Title = "Ilusão dos Gêmeos", 
+Description = {"Briashen não pode voltar agora e pede para voc\234 voltar a falar com <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>. Est\225 tudo muito estranho."}
+, Summary = "Fale com Mirko"}
+, 
+[8723] = {Title = "Ilusão dos Gêmeos", 
+Description = {"Mirko pede que voc\234 ajude Briashen no Jardim da Percepção."}
+, Summary = "Fale com Briashen"}
+, 
+[8724] = {Title = "Ilusão dos Gêmeos", 
+Description = {"Não importa o quanto tentemos aceitar a história de Briashen, uma conversa normal \233 impossível. Ele pede para voc\234 encontrar Kharis. Alguém muito parecido com ele."}
+, Summary = "Procure Kharis"}
+, 
+[8725] = {Title = "Um Gêmeo (1)", 
+Description = {"Uma Sentinela chamada Leila est\225 procurando Briashen. Mas esse não era o nome que procuramos... Depois disso, Leila desapareceu."}
+, Summary = ""}
+, 
+[8726] = {Title = "Um Gêmeo (2)", 
+Description = {"Um Sentinela chamado Kharis est\225 procurando um amigo perdido. Mas depois de ouvir a história, foi Briashen quem se feriu... Quando contei que a história era diferente, Kharis desapareceu."}
+, Summary = ""}
+, 
+[8727] = {Title = "Um Gêmeo (3)", 
+Description = {"Um Justiceiro chamado Kharis est\225 procurando um amigo perdido. Mas o Kharis que Briashen procurava \233 um Sentinela... Depois de dizer isso, Kharis desapareceu."}
+, Summary = ""}
+, 
+[8728] = {Title = "Ilusão dos Gêmeos", 
+Description = {"As pessoas que se parecem com Briashen no Jardim da Percepção não parecem ser pessoas. Vamos falar com <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> sobre isso."}
+, Summary = "Fale com Mirko"}
+, 
+[8729] = {Title = "Ilusão dos Gêmeos", 
+Description = {"Kharis pode ser uma Vitata. Qual \233 a intenção...? Numa situação em que nada se sabe, Mirko pede mais uma vez para entrar no Jardim da Percepção e resgatar Briashen."}
+, Summary = "Encontre Briashen"}
+, 
+[8730] = {Title = "Ilusão dos Gêmeos", 
+Description = {"Mirko fica ansioso ao dizer que realmente viu Kharis e que pensou que fosse uma formiga. De qualquer forma, tirar Briashen do Jardim da Percepção parece ser a principal prioridade."}
+, Summary = "Volte a Mirko"}
+, 
+[8731] = {Title = "Levantamento Geológico", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> pediu 20  <ITEM>[Areias Ressecadas]<INFO>1000504</INFO></ITEM> que caem do Giearth Intrépido no Jardim da Percepção."}
+, Summary = "20 Areias Ressecadas"}
+, 
+[8732] = {Title = "[Espera] Levantamento Geológico", IconName = "ico_dq.bmp", 
+Description = {"Missão concluída. Pode ser repetida após o tempo de espera acabar falando com <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[8733] = {Title = "Fonte de Poder", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> pediu 20 <ITEM>[Líquidos Opacos]<INFO>1000505</INFO></ITEM> que caem das formigas Diligentes no Jardim da Percepção."}
+, Summary = "20 Líquidos Opacos"}
+, 
+[8734] = {Title = "[Espera] Fonte de Poder", IconName = "ico_dq.bmp", 
+Description = {"Missão concluída. Pode ser repetida após o tempo de espera acabar falando com <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[8735] = {Title = "A Mesma Coisa", IconName = "ico_dq.bmp", 
+Description = {"De acordo com a hipótese at\233 o momento, os elementos que causam distorção da realidade no Jardim da Percepção são as formigas. <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> quer que voc\234 elimine 10 delas."}
+, Summary = "Elimine os monstros"}
+, 
+[8736] = {Title = "[Espera] A Mesma Coisa", IconName = "ico_dq.bmp", 
+Description = {"Missão concluída. Pode ser repetida após o tempo de espera acabar falando com <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[8737] = {Title = "Memórias Compartilhadas", IconName = "ico_dq.bmp", 
+Description = {"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> pediu 20 <ITEM>[Peles de Formiga]<INFO>1000506</INFO></ITEM> que caem dos monstros no Jardim da Percepção."}
+, Summary = "20 Peles de Formiga"}
+, 
+[8738] = {Title = "[Espera] Memórias Compartilhadas", IconName = "ico_dq.bmp", 
+Description = {"Missão concluída. Pode ser repetida após o tempo de espera acabar falando com <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."}
+, Summary = "Reseta 4 da manh\227.", CoolTimeQuest = 1}
+, 
+[3446] = {Title = "Detetive Zeroker", 
+Description = {"Procure por <NAVI>[Zeroker]<INFO>pay_d03_i,149,34,0,101,0</INFO></NAVI> da Agência de Investigação Ilusional."}
+, Summary = "Fale com Zeroker"}
+, 
+[3447] = {Title = "Investigar o Luar", IconName = "ico_dq.bmp", 
+Description = {"Elimine 100 monstros do mapa da Ilusão da Lua, independente da espécie."}
+, Summary = "Caçar 100 monstros"}
+, 
+[3448] = {Title = "[Espera] Investigar o Luar", IconName = "ico_dq.bmp", 
+Description = {"Missão da Agência de Investigação Ilusional completa. <NAVI>[Zeroker]<INFO>pay_d03_i,149,34,0,101,0</INFO></NAVI> aguardar\225 voc\234 voltar amanh\227 se desejar repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[3449] = {Title = "Detetive Eliane", 
+Description = {"Procure por <NAVI>[Eliane]<INFO>ice_dun02,142,18,0,101,0</INFO></NAVI> da Agência de Investigação Ilusional."}
+, Summary = "Fale com Eliane"}
+, 
+[3450] = {Title = "Investigar o Gelo", IconName = "ico_dq.bmp", 
+Description = {"Elimine 100 monstros do mapa da Ilusão do Gelo, independente da espécie."}
+, Summary = "Caçar 100 monstros"}
+, 
+[3451] = {Title = "[Espera] Investigar o Gelo", IconName = "ico_dq.bmp", 
+Description = {"Missão da Agência de Investigação Ilusional completa. <NAVI>[Eliane]<INFO>ice_dun02,142,18,0,101,0</INFO></NAVI> aguardar\225 voc\234 voltar amanh\227 se desejar repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[3452] = {Title = "Detetive Radmir", 
+Description = {"Procure por <NAVI>[Radmir]<INFO>gef_d01_i,122,237,0,101,0</INFO></NAVI> da Agência de Investigação Ilusional."}
+, Summary = "Fale com Radmir"}
+, 
+[3453] = {Title = "Investigar o Vampiro", IconName = "ico_dq.bmp", 
+Description = {"Elimine 100 monstros do mapa da Ilusão do Vampiro, independente da espécie."}
+, Summary = "Caçar 100 monstros"}
+, 
+[3454] = {Title = "[Espera] Investigar o Vampiro", IconName = "ico_dq.bmp", 
+Description = {"Missão da Agência de Investigação Ilusional completa. <NAVI>[Radmir]<INFO>gef_d01_i,122,237,0,101,0</INFO></NAVI> aguardar\225 voc\234 voltar amanh\227 se desejar repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[3455] = {Title = "Detetive Mahoco", 
+Description = {"Procure por <NAVI>[Mahoco]<INFO>ein_d02_i,161,180,0,101,0</INFO></NAVI> da Agência de Investigação Ilusional."}
+, Summary = "Fale com Mahoco"}
+, 
+[3456] = {Title = "Investigar o Ursinho", IconName = "ico_dq.bmp", 
+Description = {"Elimine 100 monstros do mapa da Ilusão do Ursinho, independente da espécie."}
+, Summary = "Caçar 100 monstros"}
+, 
+[3457] = {Title = "[Espera] Investigar o Ursinho", IconName = "ico_dq.bmp", 
+Description = {"Missão da Agência de Investigação Ilusional completa. <NAVI>[Mahoco]<INFO>ein_d02_i,161,180,0,101,0</INFO></NAVI> aguardar\225 voc\234 voltar amanh\227 se desejar repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[3458] = {Title = "Detetive Orian", 
+Description = {"Procure por <NAVI>[Orian]<INFO>tur_d03_i,125,86,0,101,0</INFO></NAVI> da Agência de Investigação Ilusional."}
+, Summary = "Fale com Orian"}
+, 
+[3459] = {Title = "Investigar a Tartaruga", IconName = "ico_dq.bmp", 
+Description = {"Elimine 100 monstros do mapa da Ilusão da Tartaruga, independente da espécie."}
+, Summary = "Caçar 100 monstros"}
+, 
+[3460] = {Title = "[Espera] Investigar a Tartaruga", IconName = "ico_dq.bmp", 
+Description = {"Missão da Agência de Investigação Ilusional completa. <NAVI>[Orian]<INFO>tur_d03_i,125,86,0,101,0</INFO></NAVI> aguardar\225 voc\234 voltar amanh\227 se desejar repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[3461] = {Title = "Detetive Kesis", 
+Description = {"Procure por <NAVI>[Kesis]<INFO>com_d02_i,253,232,0,101,0</INFO></NAVI> da Agência de Investigação Ilusional."}
+, Summary = "Fale com Kesis"}
+, 
+[3462] = {Title = "Investigar Luanda", IconName = "ico_dq.bmp", 
+Description = {"Elimine 100 monstros do mapa da Ilusão de Luanda, independente da espécie."}
+, Summary = "Caçar 100 monstros"}
+, 
+[3463] = {Title = "[Espera] Investigar Luanda", IconName = "ico_dq.bmp", 
+Description = {"Missão da Agência de Investigação Ilusional completa. <NAVI>[Kesis]<INFO>com_d02_i,253,232,0,101,0</INFO></NAVI> aguardar\225 voc\234 voltar amanh\227 se desejar repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[3464] = {Title = "Detetive Terrian", 
+Description = {"Procure por <NAVI>[Terrian]<INFO>prt_fild01,131,364,0,101,0</INFO></NAVI> da Agência de Investigação Ilusional."}
+, Summary = "Fale com Terrian"}
+, 
+[3465] = {Title = "Investigar o Labirinto", IconName = "ico_dq.bmp", 
+Description = {"Elimine 100 monstros do mapa da Ilusão do Labirinto, independente da espécie."}
+, Summary = "Caçar 100 monstros"}
+, 
+[3466] = {Title = "[Espera] Investigar o Labirinto", IconName = "ico_dq.bmp", 
+Description = {"Missão da Agência de Investigação Ilusional completa. <NAVI>[Terrian]<INFO>prt_fild01,131,364,0,101,0</INFO></NAVI> aguardar\225 voc\234 voltar amanh\227 se desejar repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[3467] = {Title = "Detetive Rista", 
+Description = {"Procure por <NAVI>[Rista]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI> da Agência de Investigação Ilusional."}
+, Summary = "Fale com Rista"}
+, 
+[3468] = {Title = "Investigar Byalan", IconName = "ico_dq.bmp", 
+Description = {"Elimine 100 monstros do mapa da Ilusão de Byalan, independente da espécie."}
+, Summary = "Caçar 100 monstros"}
+, 
+[3469] = {Title = "[Espera] Investigar Byalan", IconName = "ico_dq.bmp", 
+Description = {"Missão da Agência de Investigação Ilusional completa. <NAVI>[Rista]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI> aguardar\225 voc\234 voltar amanh\227 se desejar repetir."}
+, Summary = "Volte amanh\227"}
+, 
+[3470] = {Title = "Agência Ilusional", 
+Description = {"Vamos nos juntar \224 Agência de Investigação Ilusional falando com o líder Joel."}
+, Summary = "Fale com Joel"}
+, 
+[3507] = {Title = "Bem-vindo Equipe de Investigação Seshin", 
+Description = {"Vamos conversar com Seshin da equipe de investigação de boas-vindas."}
+, Summary = "Conversa com Seshin"}
+, 
+[3508] = {Title = "Matar 100 Ilusão de Gêmeos", IconName = "ico_dq.bmp", 
+Description = {"Vamos matar 100 monstros independentemente do seu tipo na masmorra Ilusão dos Gêmeos."}
+, Summary = "Mate 100 monstros"}
+, 
+[3509] = {Title = "Matar 100 Ilusão de Gêmeos - Espera", IconName = "ico_dq.bmp", 
+Description = {"Esta missão \233 diária e pode ser concluída novamente quando o tempo de espera expirar. Voc\234 pode aceitar a missão através de Senshin"}
+, Summary = "Redefinir às 04:00", CoolTimeQuest = 1}
 }
 

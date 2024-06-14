@@ -828,7 +828,7 @@
 4895#(ATQ +5%) #
 4904#(ATQ +6%) #
 4905#(ATQ +7%) #
-4883#(ATQM 1) #
+4883#(ATQM +1%) #
 4896#(ATQM 2) #
 4897#(ATQM 3) #
 4898#(ATQM 4) #
@@ -1491,3 +1491,17 @@
 300424#de Stolz#
 300425#Autografado por Crux Findel#
 300426#de Findel#
+//*****************************************************
+//---------------Update em 2024-05-28------------------
+//*****************************************************
+300230#Amarelante#
+300231#do Operário#
+300232#das Crias#
+300233#Vermelhante#
+300234#Esverdeante#
+300235#de Ovo#
+300236#Insistente#
+300237#Terebrante#
+300238#do Tratamento#
+300239#da Distorção#
+4884#(Pre +1) #

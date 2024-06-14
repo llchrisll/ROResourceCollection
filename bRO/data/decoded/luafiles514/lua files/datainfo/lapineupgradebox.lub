@@ -770,6 +770,18 @@ TargetItems = {
 {"Electronic_Guitar_IL", 570008}
 , 
 {"Electric_Eel_IL", 580008}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
 }
 , NeedSource_String = "Armas Ilusionais"}
 , 
@@ -836,6 +848,18 @@ TargetItems = {
 {"Electronic_Guitar_IL", 570008}
 , 
 {"Electric_Eel_IL", 580008}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
 }
 , NeedSource_String = "Armas Ilusionais"}
 , 
@@ -6296,6 +6320,54 @@ TargetItems = {
 {"Morrigane_Manyeau_IL", 480054}
 }
 , NeedSource_String = "Ilusão Submarina"}
+, 
+Twins_Box_IL = {ItemID = 100699, NeedRefineMin = 4, NeedRefineMax = 9, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Guard_IL", 460017}
+, 
+{"Siver_Guard_IL", 460018}
+, 
+{"Sprint_Shoes_IL", 470066}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
+, 
+{"Sprint_Mail_IL", 450182}
+}
+, NeedSource_String = "Ilusão dos Gêmeos"}
+, 
+S_Twins_Box_IL = {ItemID = 100700, NeedRefineMin = 4, NeedRefineMax = 11, NeedOptionNumMin = 0, NotSocketEnchantItem = false, 
+TargetItems = {
+{"Guard_IL", 460017}
+, 
+{"Siver_Guard_IL", 460018}
+, 
+{"Sprint_Shoes_IL", 470066}
+, 
+{"Doom_Slayer_IL", 620010}
+, 
+{"Excalibur_IL", 500030}
+, 
+{"Ancient_Dagger_IL", 510034}
+, 
+{"Gelerdria_IL", 530015}
+, 
+{"Thorn_Staff_IL", 550030}
+, 
+{"Dea_Staff_IL", 550031}
+, 
+{"Sprint_Mail_IL", 450182}
+}
+, NeedSource_String = "Ilusão dos Gêmeos"}
 }
 , serverMain = function()
   -- function num : 0_0

@@ -117,6 +117,38 @@ Direction = {}
 Direction = {}
 }
 , 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_BG] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_YL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_CB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_LB] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_LPP] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_JBL] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_WH] = {Default = 102, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_RA_Hair_OM] = {Default = 102, 
+Direction = {}
+}
+, 
 [ACCESSORY_IDs.ACCESSORY_C_MN_Hair_OM] = {Default = 102, 
 Direction = {}
 }
