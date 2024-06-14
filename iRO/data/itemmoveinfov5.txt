@@ -5277,3 +5277,34 @@
 103097	1	0	0	0	1	1	1	0	//Zodiac_Boots_Box_TH
 103143	1	1	0	1	1	1	1	1	//Thanos_Box_US
 103144	1	1	0	1	1	1	1	1	//Faith_Box1_US
+
+//2024.06.04 21주년 기념 코스타마
+31481	1	0	0	0	0	1	1	1	//C_CatCoffeeCup_TW
+400431	0	0	0	0	0	1	1	1	//C_Sakura_Witch_Hat
+420084	0	0	0	0	0	1	1	1	//C_Mermaid_Wig_Peach
+420237	0	0	0	0	0	1	1	1	//C_Tiger_Muffler_MSP
+420325	0	0	0	0	0	1	1	1	//C_Chewy_Low_Twin
+480377	0	0	0	0	0	1	1	1	//C_Cat_Doll_WH
+480411	0	0	0	0	0	1	1	1	//C_Rabbit_Tail
+480430	0	0	0	0	0	1	1	1	//C_Sakura_Rod
+480431	0	0	0	0	0	1	1	1	//C_Sweet_Flower_Garden
+480432	0	0	0	0	0	1	1	1	//C_Glass_Rose_Garden
+103138	1	1	0	1	1	1	1	1	//2406_Anniv_US
+
+//2024.06.04 OCP 60
+22203	0	0	0	0	0	1	1	0	//Space_shoes_JP
+400409	0	0	0	0	0	1	1	1	//Wild_Beast
+410342	0	0	0	0	1	1	1	1	//Purified_Pigeon_US
+450205	0	0	0	0	0	1	1	0	//Orc_Load_Mail_
+470106	0	0	0	0	0	1	1	1	//Shoes_Of_Judex_
+470274	0	0	0	0	0	1	1	1	//Twinhead_dragon_Boots
+490208	1	0	0	0	1	0	0	0	//Palace_Ring
+103157	1	1	0	1	1	1	1	1	//OCP_JUN_2024
+
+//2024.06.04 일일출석 체크
+20069	0	0	0	0	0	1	1	1	//C_Gryphon_Hairband
+
+//2024.06.04 낚시 이벤트
+19536	1	0	0	0	0	0	0	0	//C_Rose_Corsage
+20509	0	0	0	0	1	1	1	0	//C_Wings_of_Uriel
+400188	0	0	0	0	1	1	1	0	//C_Evt_RagFes_band

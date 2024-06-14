@@ -3,7 +3,7 @@
 
 -- params : ...
 -- function num : 0
-Config = {StartDate = 20240507, EndDate = 20240531}
+Config = {StartDate = 20240604, EndDate = 20240630}
 Reward = {
 {1, 14575, 10}
 , 
@@ -43,7 +43,7 @@ Reward = {
 , 
 {19, 23899, 10}
 , 
-{20, 20052, 1}
+{20, 20069, 1}
 }
 main = function()
   -- function num : 0_0

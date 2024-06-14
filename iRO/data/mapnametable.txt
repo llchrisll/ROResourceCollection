@@ -1086,81 +1086,81 @@ com_d02_i.rsw#North Cave Luanda#
 prt_mz03_i.rsw#Illusion Labyrinth#
 
 //2024 2Q 업데이트 대비 MapInfo에만 있는 데이터 정리
-vis_h01.rsw#Corridor of Phantoms Floor 1
-vis_h02.rsw#Corridor of Phantoms Floor 2
-vis_h03.rsw#Corridor of Phantoms Floor 3
-vis_h04.rsw#Corridor of Phantoms Floor 4
-2@gl_kh.rsw#Old Chivalry Floor 2
-1@gl_kh.rsw#Old Chivalry Floor 1
-prt_evt_in.rsw#Hunting Ground Cabin
-x_prt.rsw#Prontera of Parallell World
-x_lhz.rsw#Lighthalzen of Parallell World
-x_ra.rsw#Rachel of Parallell World
-lasa_sea.rsw#Nyail Cave
-1@drdo.rsw#Legendary Dorado
-que_ng.rsw#Unknown Area
-1@crd.rsw#Volcanic Island Korodo
-tur_d03_i.rsw#Lonesome Good Turtles Village
-tur_d04_i.rsw#Gloomy Turtle Palace
-1@begi.rsw#Poring Village
-1@tre.rsw#Suspicious Shipwreck
-ice_d03_i.rsw#Frozen Memory
-1@xm_d2.rsw#Horror Toy Factory
-1@gl_k2.rsw#Old Chivalry Floor 1
-2@gl_k2.rsw#Old Chivalry Floor 2
-1@md_pay.rsw#Weekend Memorial
-int_land.rsw#Remote Island
-int_land01.rsw#Remote Island
-int_land02.rsw#Remote Island
-int_land03.rsw#Remote Island
-int_land04.rsw#Remote Island
-1@ffp.rsw#Remnants Hideout
-1@infi.rsw#Infinite Space
-paramk.rsw#Para Market
-lhz_d_n2.rsw#Space of Thoughts
-job_gun.rsw#Shelter of Liberation
-e_hugel.rsw#Invaded Hugel
-silk_lair.rsw#Python's Lair
-1@def02.rsw#Wave Dungeon - Sky
-1@def03.rsw#Wave Dungeon - Lava
-evt_bomb.rsw#Event Labyrinth
-te_aldecas01.rsw#Leliah
-te_aldecas02.rsw#Pavianne
-te_aldecas03.rsw#Jasmine
-te_aldecas04.rsw#Roxie
-te_aldecas05.rsw#Curly Sue
-dewata.rsw#Dewata
-dew_in01.rsw#Inside the Zati Tribe's Village
-dew_fild01.rsw#Dewata Field_Zati Tribe's Village
-dew_dun01.rsw#Krakatau Volcanic Island
-dew_dun02.rsw#Istana Cave
-guild_vs5.rsw#Guild War Arena
-guild_vs4.rsw#Guild War Arena
-payon_in03.rsw#Inside Payon
-tra_fild.rsw#Prontera Training Ground
-1@ge_sn.rsw#Geffen Night Arena
-1@spa2.rsw#Tomb of Remorse
-1@mjo1.rsw#Mjolnir Mountains Airplane Crash Site
-1@mjo2.rsw#Mjolnir Mountains Forgotten Cavity
-1@thts.rsw#Thanatos Tower
-2@thts.rsw#Angel's Warning
-3@thts.rsw#Memory of Hatred
-4@thts.rsw#Memory of Agony
-5@thts.rsw#Memory of Sorrow
-6@thts.rsw#Memory of Despair
-7@thts.rsw#Memory of Anger
-8@thts.rsw#Thanatos Tower
-wolfvill.rsw#Gray Wolf Village
-gw_fild01.rsw#Gray Wolf Forest
-gw_fild02.rsw#Gray Wolf Forest
-oz_dun01.rsw#Oz Labyrinth 1F
-oz_dun02.rsw#Oz Labyrinth 2F
-1@oz.rsw#Oz Labyrinth
-que_thr.rsw#Inside Thor Volcano
-1@tcamp.rsw#Thor Volcano Military Base
-1@nyr.rsw#Sanctuary Sessrumnir Garden
-2@nyr.rsw#Sanctuary Sessrumnir Heart Storage
-1@adv.rsw#High Priest Villa
-1@advs.rsw#Villa of Deception
-iz_d04_i.rsw#Illusion of Underwater 1F
-iz_d05_i.rsw#Illusion of Underwater 2F
+vis_h01.rsw#Corridor of Phantoms Floor 1#
+vis_h02.rsw#Corridor of Phantoms Floor 2#
+vis_h03.rsw#Corridor of Phantoms Floor 3#
+vis_h04.rsw#Corridor of Phantoms Floor 4#
+2@gl_kh.rsw#Old Chivalry Floor 2#
+1@gl_kh.rsw#Old Chivalry Floor 1#
+prt_evt_in.rsw#Hunting Ground Cabin#
+x_prt.rsw#Prontera of Parallell World#
+x_lhz.rsw#Lighthalzen of Parallell World#
+x_ra.rsw#Rachel of Parallell World#
+lasa_sea.rsw#Nyail Cave#
+1@drdo.rsw#Legendary Dorado#
+que_ng.rsw#Unknown Area#
+1@crd.rsw#Volcanic Island Korodo#
+tur_d03_i.rsw#Lonesome Good Turtles Village#
+tur_d04_i.rsw#Gloomy Turtle Palace#
+1@begi.rsw#Poring Village#
+1@tre.rsw#Suspicious Shipwreck#
+ice_d03_i.rsw#Frozen Memory#
+1@xm_d2.rsw#Horror Toy Factory#
+1@gl_k2.rsw#Old Chivalry Floor 1#
+2@gl_k2.rsw#Old Chivalry Floor 2#
+1@md_pay.rsw#Weekend Memorial#
+int_land.rsw#Remote Island#
+int_land01.rsw#Remote Island#
+int_land02.rsw#Remote Island#
+int_land03.rsw#Remote Island#
+int_land04.rsw#Remote Island#
+1@ffp.rsw#Remnants Hideout#
+1@infi.rsw#Infinite Space#
+paramk.rsw#Para Market#
+lhz_d_n2.rsw#Space of Thoughts#
+job_gun.rsw#Shelter of Liberation#
+e_hugel.rsw#Invaded Hugel#
+silk_lair.rsw#Python's Lair#
+1@def02.rsw#Wave Dungeon - Sky#
+1@def03.rsw#Wave Dungeon - Lava#
+evt_bomb.rsw#Event Labyrinth#
+te_aldecas01.rsw#Leliah#
+te_aldecas02.rsw#Pavianne#
+te_aldecas03.rsw#Jasmine#
+te_aldecas04.rsw#Roxie#
+te_aldecas05.rsw#Curly Sue#
+dewata.rsw#Dewata#
+dew_in01.rsw#Inside the Zati Tribe's Village#
+dew_fild01.rsw#Dewata Field_Zati Tribe's Village#
+dew_dun01.rsw#Krakatau Volcanic Island#
+dew_dun02.rsw#Istana Cave#
+guild_vs5.rsw#Guild War Arena#
+guild_vs4.rsw#Guild War Arena#
+payon_in03.rsw#Inside Payon#
+tra_fild.rsw#Prontera Training Ground#
+1@ge_sn.rsw#Geffen Night Arena#
+1@spa2.rsw#Tomb of Remorse#
+1@mjo1.rsw#Mjolnir Mountains Airplane Crash Site#
+1@mjo2.rsw#Mjolnir Mountains Forgotten Cavity#
+1@thts.rsw#Thanatos Tower#
+2@thts.rsw#Angel's Warning#
+3@thts.rsw#Memory of Hatred#
+4@thts.rsw#Memory of Agony#
+5@thts.rsw#Memory of Sorrow#
+6@thts.rsw#Memory of Despair#
+7@thts.rsw#Memory of Anger#
+8@thts.rsw#Thanatos Tower#
+wolfvill.rsw#Gray Wolf Village#
+gw_fild01.rsw#Gray Wolf Forest#
+gw_fild02.rsw#Gray Wolf Forest#
+oz_dun01.rsw#Oz Labyrinth 1F#
+oz_dun02.rsw#Oz Labyrinth 2F#
+1@oz.rsw#Oz Labyrinth#
+que_thr.rsw#Inside Thor Volcano#
+1@tcamp.rsw#Thor Volcano Military Base#
+1@nyr.rsw#Sanctuary Sessrumnir Garden#
+2@nyr.rsw#Sanctuary Sessrumnir Heart Storage#
+1@adv.rsw#High Priest Villa#
+1@advs.rsw#Villa of Deception#
+iz_d04_i.rsw#Illusion of Underwater 1F#
+iz_d05_i.rsw#Illusion of Underwater 2F#

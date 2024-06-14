@@ -250,6 +250,18 @@ Direction = {}
 [ACCESSORY_IDs.ACCESSORY_C_Angelic_Long_RBD] = {Default = 143, 
 Direction = {}
 }
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig_Peach] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_C_Chewy_Low_Twin] = {Default = 143, 
+Direction = {}
+}
+, 
+[ACCESSORY_IDs.ACCESSORY_BELL_PIGEON] = {Default = 301, 
+Direction = {}
+}
 }
 , IsIgnoredRidingState = function(acc_id)
   -- function num : 0_0
