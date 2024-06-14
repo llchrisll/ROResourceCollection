@@ -869,5 +869,13 @@ SignBoardList = {
 {"lhz_in01", 39, 15, 6, IT_SIGNBOARD, "item\\buy_arbeit_3lv.bmp", " Time-Slipping Trader", "#0x00FFFFFF"}
 , 
 {"lhz_in01", 43, 17, 6, IT_SIGNBOARD, "item\\³É¹îÁö.bmp", " Black Fredas", "#0x00FFFFFF"}
+, 
+{"einbroch", 225, 269, 2, IT_SIGNBOARD, "item\\¿ø³äÀÇÆÄÆí.bmp", " To Einbech", "#0x00FFFFFF"}
+, 
+{"einbech", 36, 215, 2, IT_SIGNBOARD, "item\\¿ø³äÀÇÆÄÆí.bmp", " To Einbroch", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 36, 21, 4, IT_SIGNBOARD, "item\\evt_20th_invasion.bmp", " Gacha Guarantee", "#0x00FFFFFF"}
+, 
+{"lhz_in01", 36, 46, 4, IT_SIGNBOARD, "item\\bar_d_co_rune.bmp", " Multiverse Trader", "#0x00FFFFFF"}
 }
 

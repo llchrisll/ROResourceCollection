@@ -1218,6 +1218,28 @@ TargetItems = {
 {"S_Pickyrush_Shield", 24635}
 , 
 {"S_Pickyrush_Armor", 24636}
+, 
+{"S_Knucklearrow_Armor", 24482}
+, 
+{"S_Knucklearrow_Shield", 24483}
+, 
+{"S_Knucklearrow_Shoes", 24484}
+, 
+{"S_Brand_Armor", 24572}
+, 
+{"S_Brand_Shield", 24573}
+, 
+{"S_Brand_Shoes", 24574}
+, 
+{"S_Kunai_Weapon", 24622}
+, 
+{"S_Kunai_Shield", 24623}
+, 
+{"S_Kunai_Armor", 24624}
+, 
+{"S_Infinity_Weapon", 24386}
+, 
+{"S_Infinity_Shield", 24733}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 
@@ -2246,6 +2268,28 @@ TargetItems = {
 {"S_Pickyrush_Shield", 24635}
 , 
 {"S_Pickyrush_Armor", 24636}
+, 
+{"S_Knucklearrow_Armor", 24482}
+, 
+{"S_Knucklearrow_Shield", 24483}
+, 
+{"S_Knucklearrow_Shoes", 24484}
+, 
+{"S_Brand_Armor", 24572}
+, 
+{"S_Brand_Shield", 24573}
+, 
+{"S_Brand_Shoes", 24574}
+, 
+{"S_Kunai_Weapon", 24622}
+, 
+{"S_Kunai_Shield", 24623}
+, 
+{"S_Kunai_Armor", 24624}
+, 
+{"S_Infinity_Weapon", 24386}
+, 
+{"S_Infinity_Shield", 24733}
 }
 , NeedSource_String = "+7 Shadow Equipment"}
 , 
@@ -3382,6 +3426,28 @@ TargetItems = {
 {"S_Pickyrush_Shield", 24635}
 , 
 {"S_Pickyrush_Armor", 24636}
+, 
+{"S_Knucklearrow_Armor", 24482}
+, 
+{"S_Knucklearrow_Shield", 24483}
+, 
+{"S_Knucklearrow_Shoes", 24484}
+, 
+{"S_Brand_Armor", 24572}
+, 
+{"S_Brand_Shield", 24573}
+, 
+{"S_Brand_Shoes", 24574}
+, 
+{"S_Kunai_Weapon", 24622}
+, 
+{"S_Kunai_Shield", 24623}
+, 
+{"S_Kunai_Armor", 24624}
+, 
+{"S_Infinity_Weapon", 24386}
+, 
+{"S_Infinity_Shield", 24733}
 }
 , NeedSource_String = "Shadow Equipment"}
 , 

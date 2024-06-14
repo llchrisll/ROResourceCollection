@@ -2,6 +2,109 @@
 
 	<monster_talk_table>
 
+		<VR_CHAO>				
+			<hungry>			
+				<feeding>	Feeding1	</feeding>
+				<feeding>	Feeding2	</feeding>
+				<hunting>	Hunting1	</hunting>
+				<hunting>	Hunting2	</hunting>
+				<danger>	Danger1	</danger>
+				<danger>	Danger2	</danger>
+				<dead>	Dead1	</dead>
+				<dead>	Dead2	</dead>
+				<stand>	Stand1	</stand>
+				<stand>	Stand2	</stand>
+				<connect>	Connect1	</connect>
+				<connect>	Connect1	</connect>
+				<levelup>	Levelup1	</levelup>
+				<levelup>	Levelup2	</levelup>
+				<perfor_1>	Perfor_1	</perfor_1>
+				<perfor_2>	Perfor_2	</perfor_2>
+				<perfor_3>	Perfor_3	</perfor_3>
+				<perfor_s>	Perfor_s	</perfor_s>
+			</hungry>			
+			<bit_hungry>			
+				<feeding>	Feeding1	</feeding>
+				<feeding>	Feeding2	</feeding>
+				<hunting>	Hunting1	</hunting>
+				<hunting>	Hunting2	</hunting>
+				<danger>	Danger1	</danger>
+				<danger>	Danger2	</danger>
+				<dead>	Dead1	</dead>
+				<dead>	Dead2	</dead>
+				<stand>	Stand1	</stand>
+				<stand>	Stand2	</stand>
+				<connect>	Connect1	</connect>
+				<connect>	Connect1	</connect>
+				<levelup>	Levelup1	</levelup>
+				<levelup>	Levelup2	</levelup>
+				<perfor_1>	Perfor_1	</perfor_1>
+				<perfor_2>	Perfor_2	</perfor_2>
+				<perfor_3>	Perfor_3	</perfor_3>
+				<perfor_s>	Perfor_s	</perfor_s>
+			</bit_hungry>			
+			<noting>			
+				<feeding>	Feeding1	</feeding>
+				<feeding>	Feeding2	</feeding>
+				<hunting>	Hunting1	</hunting>
+				<hunting>	Hunting2	</hunting>
+				<danger>	Danger1	</danger>
+				<danger>	Danger2	</danger>
+				<dead>	Dead1	</dead>
+				<dead>	Dead2	</dead>
+				<stand>	Stand1	</stand>
+				<stand>	Stand2	</stand>
+				<connect>	Connect1	</connect>
+				<connect>	Connect1	</connect>
+				<levelup>	Levelup1	</levelup>
+				<levelup>	Levelup2	</levelup>
+				<perfor_1>	Perfor_1	</perfor_1>
+				<perfor_2>	Perfor_2	</perfor_2>
+				<perfor_3>	Perfor_3	</perfor_3>
+				<perfor_s>	Perfor_s	</perfor_s>
+			</noting>			
+			<full>			
+				<feeding>	Feeding1	</feeding>
+				<feeding>	Feeding2	</feeding>
+				<hunting>	Hunting1	</hunting>
+				<hunting>	Hunting2	</hunting>
+				<danger>	Danger1	</danger>
+				<danger>	Danger2	</danger>
+				<dead>	Dead1	</dead>
+				<dead>	Dead2	</dead>
+				<stand>	Stand1	</stand>
+				<stand>	Stand2	</stand>
+				<connect>	Connect1	</connect>
+				<connect>	Connect1	</connect>
+				<levelup>	Levelup1	</levelup>
+				<levelup>	Levelup2	</levelup>
+				<perfor_1>	Perfor_1	</perfor_1>
+				<perfor_2>	Perfor_2	</perfor_2>
+				<perfor_3>	Perfor_3	</perfor_3>
+				<perfor_s>	Perfor_s	</perfor_s>
+			</full>			
+			<so_full>			
+				<feeding>	Feeding1	</feeding>
+				<feeding>	Feeding2	</feeding>
+				<hunting>	Hunting1	</hunting>
+				<hunting>	Hunting2	</hunting>
+				<danger>	Danger1	</danger>
+				<danger>	Danger2	</danger>
+				<dead>	Dead1	</dead>
+				<dead>	Dead2	</dead>
+				<stand>	Stand1	</stand>
+				<stand>	Stand2	</stand>
+				<connect>	Connect1	</connect>
+				<connect>	Connect1	</connect>
+				<levelup>	Levelup1	</levelup>
+				<levelup>	Levelup2	</levelup>
+				<perfor_1>	Perfor_1	</perfor_1>
+				<perfor_2>	Perfor_2	</perfor_2>
+				<perfor_3>	Perfor_3	</perfor_3>
+				<perfor_s>	Perfor_s	</perfor_s>
+			</so_full>			
+		</VR_CHAO>	
+
 		<poring>
 
 			<hungry>

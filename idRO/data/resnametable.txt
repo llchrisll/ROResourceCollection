@@ -1701,9 +1701,15 @@ strm_lng.rsw#strm_lng.rsw#
 1@gol1.gnd#1@gol1.gnd#
 1@gol1.gat#1@gol1.gat#
 1@gol1.rsw#1@gol1.rsw#
-user_interface\map\1@gol1.bmp#user_interface\map\1@gol1.bmp#
+유저인터페이스\map\1@gol1.bmp#유저인터페이스\map\1@gol1.bmp#
 
 1@gol2.gnd#1@gol2.gnd#
 1@gol2.gat#1@gol2.gat#
 1@gol2.rsw#1@gol2.rsw#
-user_interface\map\1@gol2.bmp#user_interface\map\1@gol2.bmp#
+유저인터페이스\map\1@gol2.bmp#유저인터페이스\map\1@gol2.bmp#
+
+//ROFL x SONIC
+1@vrsn.gnd#1@vrsn.gnd#
+1@vrsn.gat#1@vrsn.gat#
+1@vrsn.rsw#1@vrsn.rsw#
+유저인터페이스\map\1@vrsn.bmp#유저인터페이스\map\1@vrsn.bmp#

@@ -618,6 +618,22 @@ SourceItems = {
 {"C_Pope_Ribbon_R", 1, 410224}
 , 
 {"C_Carrot_In_Mouth_J", 1, 420081}
+, 
+{"C_Lucky_Purse", 1, 400588}
+, 
+{"C_Tuktuk", 1, 410248}
+, 
+{"C_Charm_Of_Flame_Heart", 1, 420109}
+, 
+{"C_Master_Cat", 1, 19424}
+, 
+{"C_Clockwise", 1, 400594}
+, 
+{"C_Rebel_Pocket_Watch", 1, 410234}
+, 
+{"C_Charm_Of_Mistic_Froze", 1, 420103}
+, 
+{"C_Bushy_Moustache", 1, 420254}
 }
 , NeedSource_String = "Silvervine Costume"}
 , 

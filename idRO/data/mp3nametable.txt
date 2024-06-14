@@ -1129,3 +1129,6 @@ star_in.rsw#bgm\\14.mp3#
 // EDDA - Biolab
 1@gol1.rsw#bgm\\124.mp3#
 1@gol2.rsw#bgm\\124.mp3#
+
+//ROFL x SONIC
+1@vrsn.rsw#bgm\\168.mp3#

@@ -2342,13 +2342,13 @@ descript = {
 
 StateIconList[EFST_IDs.EFST_MANU_ATK] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
 descript = {
-{"Manuk\'s Golden Chance", COLOR_TITLE_BUFF}
+{"Aegis Rune Buff", COLOR_TITLE_BUFF}
 , 
 {"%s", COLOR_TIME}
 , 
-{"Increase physical ATK"}
+{"kebal terhadap semua serangan"}
 , 
-{"to the monsters in Manuk fields"}
+{"magic dan serangan fisk jarak-jauh selama 5 detik"}
 }
 }
 -- DECOMPILER ERROR at PC4731: Confused about usage of register: R0 in 'UnsetPending'
@@ -5850,6 +5850,54 @@ descript = {
 {"%s", COLOR_TIME}
 , 
 {"Mengurangi shadow resist."}
+}
+}
+-- DECOMPILER ERROR at PC12083: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_JP_EVENT01] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"X-ON", COLOR_TITLE_BUFF}
+, 
+{"Buff X-ON"}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC12107: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_JP_EVENT03] = {haveTimeLimit = 1, posTimeLimitStr = 3, 
+descript = {
+{"Y-ON", COLOR_TITLE_BUFF}
+, 
+{"Buff Y-ON"}
+, 
+{"%s", COLOR_TIME}
+}
+}
+-- DECOMPILER ERROR at PC12134: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_JP_EVENT02] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Virus X-01", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Resist element berikut berkurang sebesar 30%:"}
+, 
+{"Holy, Undead, Fire, Wind, Neutral"}
+}
+}
+-- DECOMPILER ERROR at PC12161: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_JP_EVENT04] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"Virus Y-01", COLOR_TITLE_DEBUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"Resist element berikut berkurang sebesar 30%:"}
+, 
+{"Shadow, Ghost, Water, Earth, Poison"}
 }
 }
 

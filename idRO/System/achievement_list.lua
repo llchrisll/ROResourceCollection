@@ -2524,11 +2524,11 @@ resource = {
 reward = {title = 2047}
 , score = 50}
 , 
-[310047] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[Title Ticket] GE S10 Winner", 
-content = {summary = "[Title Ticket] GE S10 Winner", details = "Title pemenang GE Season 10 - ROFL Indonesia"}
+[310047] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "    ", 
+content = {summary = "    ", details = "    "}
 , 
 resource = {
-[1] = {text = "FOREVER REQUEST"}
+[1] = {text = "    "}
 }
 , 
 reward = {title = 2048}
@@ -2542,6 +2542,46 @@ resource = {
 }
 , 
 reward = {title = 2049}
+, score = 50}
+, 
+[310049] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "[Title Ticket] GE S10 Winner", 
+content = {summary = "[Title Ticket] GE S10 Winner", details = "Title pemenang GE Season 10 - ROFL Indonesia"}
+, 
+resource = {
+[1] = {text = "FOREVER REQUEST"}
+}
+, 
+reward = {title = 2050}
+, score = 50}
+, 
+[310050] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "Swirly"}
+}
+, 
+reward = {title = 2051}
+, score = 50}
+, 
+[129021] = {UI_Type = 1, group = "BATTLE", major = 5, minor = 0, title = "Glastheim Challenge Mode", 
+content = {summary = "Completion of Glastheim Challenge Mode", details = "Complete the Memorial Dungeon"}
+, 
+resource = {
+[1] = {text = "Number of challenge successes", count = 100}
+}
+, 
+reward = {title = 1045}
+, score = 10}
+, 
+[310051] = {UI_Type = 0, group = "GOAL_ACHIEVE", major = 6, minor = 0, title = "RO SUPREME", 
+content = {summary = "Didapatkan dengan membeli Supreme Package!", details = "Title yang didapatkan dari Supreme Package."}
+, 
+resource = {
+[1] = {text = "CUTIES SWEETS"}
+}
+, 
+reward = {title = 2052}
 , score = 50}
 }
 main = function()
