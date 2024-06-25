@@ -14983,6 +14983,30 @@ Description = {"이제, 멤버를 재정비해 솟아오른 대지 북부로 이동하자. 교단에 <NAV
 Description = {"위그너 상단의 라라이라 위그너는 <NAVI>[발터 선장]<INFO>jalbe_in,68,46,0,101,0</INFO></NAVI>에게 편지를 전해 달라고 부탁했다. 중요한 서신일까?"}
 , Summary = "마리스텔라 발터와 대화"}
 , 
+[8895] = {Title = "품격 없는 층간소음(짧게)", IconName = "ico_dq.bmp", 
+Description = {"니플헤임의 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 시끄러운 것을 싫어한다. 시간이 있다면 <NAVI>[무너진 오페라 하우스]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>의 시끄러운 망자들을 300마리정도 탈탈 털어버려 달라고 한다."}
+, Summary = "니플헤임 던전 2층 300마리 처치"}
+, 
+[8896] = {Title = "품격 없는 층간소음(짧게) - 대기", IconName = "ico_dq.bmp", 
+Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[8897] = {Title = "품격 없는 층간소음(짧게)", IconName = "ico_dq.bmp", 
+Description = {"니플헤임의 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 시끄러운 것을 싫어한다. 시간이 있다면 <NAVI>[무너진 오페라 하우스]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>의 시끄러운 망자들을 300마리정도 탈탈 털어버려 달라고 한다."}
+, Summary = "니플헤임 던전 2층 300마리 처치"}
+, 
+[8898] = {Title = "품격 없는 층간소음(길게)", IconName = "ico_nq.bmp", 
+Description = {"니플헤임의 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 시끄러운 것을 싫어한다. 시간이 있다면 <NAVI>[무너진 오페라 하우스]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>의 시끄러운 망자들을 1500마리정도 탈탈 털어버려 달라고 한다."}
+, Summary = "니플헤임 던전 2층 1500마리 처치"}
+, 
+[8899] = {Title = "품격 없는 층간소음(길게) - 대기", IconName = "ico_nq.bmp", 
+Description = {"해당 퀘스트는 주간 퀘스트로, 금요일 4시에 대기시간이 만료됩니다. 이후 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."}
+, Summary = "금요일 04시 초기화", CoolTimeQuest = 1}
+, 
+[8900] = {Title = "품격 없는 층간소음(길게)", IconName = "ico_nq.bmp", 
+Description = {"니플헤임의 <NAVI>[밀라]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>는 시끄러운 것을 싫어한다. 시간이 있다면 <NAVI>[무너진 오페라 하우스]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>의 시끄러운 망자들을 1500마리정도 탈탈 털어버려 달라고 한다."}
+, Summary = "니플헤임 던전 2층 1500마리 처치"}
+, 
 [9000] = {Title = "나이트 전직으로의 시작", IconName = "ico_jq.bmp", 
 Description = {"기사단장 헤르만은 기사전직을 위해 우선 다른 <NAVI>[기사]<INFO>prt_in,75,107,0,101,0</INFO></NAVI>들의 승인을 받아야한다고 했다."}
 , Summary = "다른 기사들과 대화"}
@@ -18320,7 +18344,7 @@ Description = {"요리장의 구령에 맞춰 그리핀 통구이를 만들자."}
 , Summary = "그리핀 통구이 제작"}
 , 
 [11424] = {Title = "연회: 그리핀의 통구이", IconName = "ico_dq.bmp", 
-Description = {"완성한 특제 소스를 끼얹은 껍질은 바삭하고 속은 촉촉한 그리핀 통구이를 <NAVI>[식당]<INFO>prt_cas,358,124,0,101,0</INFO></NAVI>으로 옮기자."}
+Description = {"완성한 특제 소스를 끼얹은 껍질은 바삭하고 속은 촉촉한 그리핀 통구이를 <NAVI>[식당]<INFO>prt_cas,361,124,0,101,0</INFO></NAVI>으로 옮기자."}
 , Summary = "식당으로 배달"}
 , 
 [11425] = {Title = "오늘 통구이제작 완료", IconName = "ico_dq.bmp", 
@@ -18842,7 +18866,7 @@ Description = {"줄의 제일 앞쪽에서 남자의 비명소리가 들려온다. 앞쪽의 상황을 확�
 , Summary = "줄의 제일 앞으로"}
 , 
 [11558] = {Title = "사라진 스티븐", 
-Description = {"앞에 서있던 곰인형에게 왜인지 양보를 받았다. 안으로 들어가보자."}
+Description = {"앞에 서 있던 곰인형에게 왜인지 양보를 받았다. 안으로 들어가 보자."}
 , Summary = "던전 안으로"}
 , 
 [11559] = {Title = "사라진 스티븐", 
@@ -18854,23 +18878,23 @@ Description = {"스티븐은 산의 건강을 걱정하며 병원비를 전해달라고 한다. 아인브로
 , Summary = "아인브로크로"}
 , 
 [11561] = {Title = "사라진 스티븐", 
-Description = {"산은 스티븐이 걱정 된다며 직접 광산으로 가보겠다고 한다. 산과 함께 광산으로 가자."}
+Description = {"산은 스티븐이 걱정된다며 직접 광산으로 가보겠다고 한다. 산과 함께 광산으로 가자."}
 , Summary = "다시 광산으로"}
 , 
 [11562] = {Title = "사라진 스티븐", 
-Description = {"스티븐은 북쪽에서 이상한 소리가 들리는 것 같다고 한다. 북쪽으로 가서 소리의 정체를 확인해보자."}
+Description = {"스티븐은 북쪽에서 이상한 소리가 들리는 것 같다고 한다. 북쪽으로 가서 소리의 정체를 확인해 보자."}
 , Summary = "북쪽으로"}
 , 
 [11563] = {Title = "나사리안의 음모", 
-Description = {"나사리안들의 대화를 엿듣던 중 들킨 것 같다. 쫓아오는 빨간 곰인형, 노란 곰인형, 초록 곰인형을 각각 10마리씩 처치하고 입구쪽의 스티븐과 대화하자."}
+Description = {"나사리안들의 대화를 엿듣던 중 들킨 것 같다. 쫓아오는 빨간 곰인형, 노란 곰인형, 초록 곰인형을 각각 10마리씩 처치하고 입구 쪽의 스티븐과 대화하자."}
 , Summary = "나사리안을 처치하며 입구로"}
 , 
 [11564] = {Title = "나사리안의 음모", 
-Description = {"나사리안들의 대화를 엿듣던 중 들킨 것 같다. 쫓아오는 파란 곰인형, 하얀 곰인형을 각각 10마리씩 처치하고 입구쪽의 스티븐과 대화하자."}
+Description = {"나사리안들의 대화를 엿듣던 중 들킨 것 같다. 쫓아오는 파란 곰인형, 하얀 곰인형을 각각 10마리씩 처치하고 입구 쪽의 스티븐과 대화하자."}
 , Summary = "나사리안을 처치하며 입구로"}
 , 
 [11565] = {Title = "도망쳐!!!!", 
-Description = {"전투에 익숙한 사람이라면 모를까 전투에 익숙하지 않은 인형장인들은 여길 빠져나가기 쉽지 않겠어. 노동형 핏맨, 영혼의 파편, 사념이 깃든 옵시디언 처치 좀 도와주라."}
+Description = {"전투에 익숙한 사람이라면 모를까 전투에 익숙하지 않은 인형 장인들은 여길 빠져나가기 쉽지 않겠어. 노동형 핏맨, 영혼의 파편, 사념이 깃든 옵시디언 처치 좀 도와주라."}
 , Summary = "노동형 핏맨, 영혼의 파편, 사념이 깃든 옵시디언 10마리"}
 , 
 [11566] = {Title = "도망쳐!!!! - 대기", 
@@ -18890,7 +18914,7 @@ Description = {"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 <NAVI>[우울한 곰인
 , Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [11570] = {Title = "빛이 어둠을 집어삼킬지어다.", 
-Description = {"혹시 근처에서 커다랗고 엄청나게 ^ff0000빛나는 곰인형^000000 못보셨어요? 겨우 입구근처까지 왔는데 나가려고만 하면 그 놈이 나타나서 며칠째 여기에 숨어만 있어요."}
+Description = {"혹시 근처에서 커다랗고 엄청나게 ^ff0000빛나는 곰인형^000000 못 보셨어요? 겨우 입구 근처까지 왔는데 나가려고만 하면 그놈이 나타나서 며칠째 여기에 숨어만 있어요."}
 , Summary = "빛나는 곰인형 처치"}
 , 
 [11571] = {Title = "빛이 어둠을 집어삼킬지어다. - 대기", 
@@ -32630,6 +32654,146 @@ Description = {"수고했어. 푹 쉬고 새벽이 지난 뒤에 루나포마의 이자리에서 <NAVI>[
 [17790] = {Title = "보급품 수급 계획", IconName = "ico_dq.bmp", 
 Description = {"<NAVI>[만델]<INFO>jor_mbase,217,172,0,101,0</INFO></NAVI>이 요청한 루나포마의 보급품을 조달하자."}
 , Summary = ""}
+, 
+[17791] = {Title = "세스룸니르 오션위크", IconName = "ico_ev.bmp", 
+Description = {"라헬의 세스룸니르에서 오션위크를 주최한 <NAVI>[마람]<INFO>ra_temple,137,127,0,101,0</INFO></NAVI>은 고민이 있는듯하다."}
+, Summary = "마람의 고민"}
+, 
+[17792] = {Title = "세스룸니르 오션위크", IconName = "ico_ev.bmp", 
+Description = {"라헬의 세스룸니르 어딘가에 교황님이 있다고 한다. 교황님이 <NAVI>[계실법한 곳]<INFO>ra_temple,30,155,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "교황님?"}
+, 
+[17793] = {Title = "세스룸니르 오션위크", IconName = "ico_ev.bmp", 
+Description = {"한발 늦었다. 라헬의 세스룸니르 안의 <NAVI>[다른 곳]<INFO>ra_temple,121,93,0,101,0</INFO></NAVI>을 찾아봐야 할 것 같다."}
+, Summary = "교황님??"}
+, 
+[17794] = {Title = "세스룸니르 오션위크", IconName = "ico_ev.bmp", 
+Description = {"라헬의 세스룸니르 오션위크의 <NAVI>[행사장]<INFO>ra_temple,201,168,0,101,0</INFO></NAVI> 위주로 찾아보기로 했다. 먼저 간식을 파는 곳 주변을 살펴보자."}
+, Summary = "간식을 파는 곳"}
+, 
+[17795] = {Title = "세스룸니르 오션위크", IconName = "ico_ev.bmp", 
+Description = {"라헬의 세스룸니르 오션위크 <NAVI>[행사장]<INFO>ra_temple,213,166,0,101,0</INFO></NAVI>에 맛있는 냄새가 퍼졌다. 교황님을 모시고 가보자."}
+, Summary = "냄새에 이끌려"}
+, 
+[17796] = {Title = "세스룸니르 오션위크", IconName = "ico_ev.bmp", 
+Description = {"입가심으로 시원한 수박 디저트를 추천받았다. 라헬의 세스룸니르 오션위크 행사장 한편에 마련된 <NAVI>[수박 디저트]<INFO>ra_temple,79,59,0,101,0</INFO></NAVI>를 먹으러 가자."}
+, Summary = "달콤한 디저트"}
+, 
+[17797] = {Title = "세스룸니르 오션위크", IconName = "ico_ev.bmp", 
+Description = {"교황님은 물놀이를 하고 싶어 하시는 것 같다. 라헬의 세스룸니르에서 적당한 <NAVI>[물놀이장]<INFO>ra_temple,210,117,0,101,0</INFO></NAVI>을 찾아보자."}
+, Summary = "여름엔 물놀이"}
+, 
+[17798] = {Title = "세스룸니르 오션위크", IconName = "ico_ev.bmp", 
+Description = {"교황님은 이 정도면 충분하다고 하신다. 세스룸니르에서 교황님을 기다리고 있을 <NAVI>[사람들]<INFO>ra_temple,137,127,0,101,0</INFO></NAVI>에게 교황님을 모셔다드리자."}
+, Summary = "무사 귀환"}
+, 
+[17799] = {Title = "여름엔 물놀이", IconName = "ico_ev.bmp", 
+Description = {"세스룸니르 오션위크를 열면서 <NAVI>[물놀이장]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>을 많이 만들었거든요. 한 번 쭉 둘러보시는 것도 좋을 것 같아요."}
+, Summary = "물놀이장으로"}
+, 
+[17800] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 90레벨 이상의 악마형 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.90이상 악마형"}
+, 
+[17801] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 150레벨 이상의 악마형 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.150이상 악마형"}
+, 
+[17802] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 200레벨 이상의 악마형 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.200이상 악마형"}
+, 
+[17803] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 90레벨 이상의 수속성 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.90이상 수속성"}
+, 
+[17804] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 150레벨 이상의 수속성 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.150이상 수속성"}
+, 
+[17805] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 200레벨 이상의 수속성 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.200이상 수속성"}
+, 
+[17806] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 90레벨 이상의 어패형 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.90이상 어패형"}
+, 
+[17807] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 150레벨 이상의 어패형 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.150이상 어패형"}
+, 
+[17808] = {Title = "트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>에서 안전하고 즐거운 물놀이를 하기 위해서는 체력이 필수입니다. 200레벨 이상의 어패형 몬스터를 100마리 정도 잡으며 체력을 단련하는 겁니다."}
+, Summary = "Lv.200이상 어패형"}
+, 
+[17809] = {Title = "대기: 트레이너의 야욕", IconName = "ico_ev.bmp", 
+Description = {"몸을 많이 움직인다고 좋은 것이 아닙니다. 쉬는 것도 중요합니다. 충분히 쉰 뒤 이곳, <NAVI>[세스룸니르]<INFO>ra_temple,29,92,0,101,0</INFO></NAVI>로 다시 모이십시오."}
+, Summary = "체력 회복 시간", CoolTimeQuest = 1}
+, 
+[17810] = {Title = "여름날의 이야기", IconName = "ico_ev.bmp", 
+Description = {"세스룸니르 오션위크에는 다양한 이벤트를 준비했어요. <NAVI>[친구들]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI>끼리 둘러앉아 재미있는 이야기를 나누는 기분을 느껴보는 건 어때요?"}
+, Summary = "이야기를 들으러"}
+, 
+[17811] = {Title = "만담꾼의 의뢰", IconName = "ico_ev.bmp", 
+Description = {"이 근처 필드에 코볼트들이 살잖아요? 나는 무서워서 근처에도 못 가봤어요. 망치를 든 코볼트를 20마리쯤 상대해 보고 이곳 <NAVI>[세스룸니르]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI>로 돌아와서 얘기해 줘요."}
+, Summary = "코볼트 20"}
+, 
+[17812] = {Title = "만담꾼의 의뢰", IconName = "ico_ev.bmp", 
+Description = {"저기 저 머나먼 파-스타 대륙의 던전에 산다는 초록색의 돌격 바질리스크를 상대한 뒤 <NAVI>[세스룸니르]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI>로 돌아와 얘기해 주세요. 20마리쯤이면 될까나."}
+, Summary = "돌격 바질리스크 20"}
+, 
+[17813] = {Title = "만담꾼의 의뢰", IconName = "ico_ev.bmp", 
+Description = {"저기 저 멀리에 있는 얼어붙은 꼬리에 대해서 말만 들어 봤지 실제로 가본 적은 없어요. 그곳에 산다는 몬스터를 20마리쯤 상대하고 <NAVI>[세스룸니르]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI>로 돌아와서 얘기해 줘요."}
+, Summary = "얼어붙은 꼬리의 몬스터"}
+, 
+[17814] = {Title = "대기: 만담꾼의 의뢰", IconName = "ico_ev.bmp", 
+Description = {"새벽이 지난 뒤에 저, 세스룸니르의 <NAVI>[만담꾼]<INFO>ra_temple,40,163,0,101,0</INFO></NAVI>을 찾아주세요. 그동안 다음 이야기를 구상해 볼게요."}
+, Summary = "이야기 구상 시간", CoolTimeQuest = 1}
+, 
+[17815] = {Title = "수영을 하고 나면", IconName = "ico_ev.bmp", 
+Description = {"국수가 이렇게 인기가 많을 줄이야... 멋쟁이 별 10마리 정도를 잡아서 매끈한 국수 10개를 주시면 돼요. 여기, 세스룸니르 <NAVI>[행사장]<INFO>ra_temple,203,170,0,101,0</INFO></NAVI>에 있을게요."}
+, Summary = "매끈한 국수 10"}
+, 
+[17816] = {Title = "대기: 수영을 하고 나면", IconName = "ico_ev.bmp", 
+Description = {"가져다주신 국수 재료는 감사히 잘 받았습니다. 새벽이 지난 후 내일 또 세스룸니르 오션위크 <NAVI>[행사장]<INFO>ra_temple,203,170,0,101,0</INFO></NAVI>에 와주시면 좋겠어요."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17817] = {Title = "맛집의 비밀 재료", IconName = "ico_ev.bmp", 
+Description = {"마법의 허브를 10포기 정도 뜯어서 몸에 좋은 허브 10개를 가져다주세요. 행사 기간엔 <NAVI>[세스룸니르]<INFO>ra_temple,215,168,0,101,0</INFO></NAVI>에 늘 있어요."}
+, Summary = "몸에 좋은 허브 10"}
+, 
+[17818] = {Title = "대기: 맛집의 비밀 재료", IconName = "ico_ev.bmp", 
+Description = {"허브 고마워요. 내일 또 필요하게 되겠죠. 새벽이 지나면 이곳 세스룸니르 오션위크 <NAVI>[행사장]<INFO>ra_temple,215,168,0,101,0</INFO></NAVI>으로 와주시면 돼요."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17819] = {Title = "여름 최고의 간식은", IconName = "ico_ev.bmp", 
+Description = {"<NAVI>[세스룸니르]<INFO>ra_temple,79,59,0,101,0</INFO></NAVI> 오션위크 디저트의 운명은 당신의 손에 달렸어요. 수박링 10마리를 잡고 여름 수박 10개를 가져다주세요."}
+, Summary = "여름 수박 10"}
+, 
+[17820] = {Title = "대기: 여름 최고의 간식은", IconName = "ico_ev.bmp", 
+Description = {"가져다주신 여름 수박으로 <NAVI>[세스룸니르]<INFO>ra_temple,79,59,0,101,0</INFO></NAVI> 오션위크의 명물인 수박 디저트를 만들고 있어요. 새벽이 지난 뒤에 다시 찾아와 주세요."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
+, 
+[17821] = {Title = "물놀이장의 사연", IconName = "ico_ev.bmp", 
+Description = {"이곳은 사막이라 수영 방법을 모르는 사람이 태반이에요. 세스룸니르 오션위크 <NAVI>[물놀이장]<INFO>ra_temple,211,91,0,101,0</INFO></NAVI>을 둘러보면서 수영을 가르쳐 주세요."}
+, Summary = "수영 강습"}
+, 
+[17822] = {Title = "물놀이장의 사연", IconName = "ico_ev.bmp", 
+Description = {"사람들이 양심을 지키면 얼마나 좋을까요? <NAVI>[세스룸니르]<INFO>ra_temple,120,114,0,101,0</INFO></NAVI>를 둘러보면서 쓰레기를 건져주세요."}
+, Summary = "정화 작업"}
+, 
+[17823] = {Title = "물놀이장의 사연", IconName = "ico_ev.bmp", 
+Description = {"세스룸니르 오션위크의 행사 규모가 크다 보니 안전을 소홀히 하면 자칫 대형 사고가 날 수 있거든요. 둘러보면서 <NAVI>[시설]<INFO>ra_temple,66,171,0,101,0</INFO></NAVI> 점검 좀 해주세요."}
+, Summary = "시설 점검"}
+, 
+[17824] = {Title = "물놀이장의 사연", IconName = "ico_ev.bmp", 
+Description = {"할 일은 모두 마쳤다. 세스룸니르의 <NAVI>[안전 요원]<INFO>ra_temple,213,120,0,101,0</INFO></NAVI>에게 돌아가자."}
+, Summary = "안전 요원에게"}
+, 
+[17825] = {Title = "대기: 물놀이장의 사연", IconName = "ico_ev.bmp", 
+Description = {"내일은 또 내일의 할 일이 있겠죠. 푹 쉬시고 날이 밝으면 세스룸니르 오션위크 <NAVI>[행사장]<INFO>ra_temple,213,120,0,101,0</INFO></NAVI>으로 돌아와서 도와주세요."}
+, Summary = "04시 초기화", CoolTimeQuest = 1}
 , 
 [18000] = {Title = "진입 준비", IconName = "ico_ep.bmp", 
 Description = {"드디어 하수관의 잠금장치 해제에 성공한 리벨리온. 루키는 하수관으로 진입할 준비가 다 되면 다시 말을 걸어 달라고 했다."}

@@ -252,11 +252,11 @@ worldtable_main = {
 , 
 {29, "abbey03.rsw", 173, 718, 236, 751, WORLD_MSGID.MSI_29_ABBEY03, "130"}
 , 
-{30, "prt_maze01.rsw", 960, 597, 1050, 633, WORLD_MSGID.MSI_30_PRT_MAZE01, "60"}
+{30, "prt_maze01.rsw", 960, 460, 1050, 493, WORLD_MSGID.MSI_30_PRT_MAZE01, "60"}
 , 
-{30, "prt_maze02.rsw", 960, 597, 1050, 633, WORLD_MSGID.MSI_30_PRT_MAZE02, "70"}
+{30, "prt_maze02.rsw", 960, 460, 1050, 493, WORLD_MSGID.MSI_30_PRT_MAZE02, "70"}
 , 
-{30, "prt_maze03.rsw", 960, 597, 1050, 633, WORLD_MSGID.MSI_30_PRT_MAZE03, "80"}
+{30, "prt_maze03.rsw", 960, 460, 1050, 493, WORLD_MSGID.MSI_30_PRT_MAZE03, "80"}
 , 
 {43, "mal_dun01.rsw", 1144, 512, 1234, 548, WORLD_MSGID.MSI_43_MAL_DUN01, "90"}
 , 
@@ -265,6 +265,8 @@ worldtable_main = {
 {46, "oz_dun01.rsw", 53, 232, 130, 268, WORLD_MSGID.MSI_46_OZ_DUN01, "170"}
 , 
 {46, "oz_dun02.rsw", 53, 232, 130, 268, WORLD_MSGID.MSI_46_OZ_DUN02, "200"}
+, 
+{47, "prt_mk.rsw", 942, 589, 1002, 610, WORLD_MSGID.MSI_47_PRONTERA_MARKET_STREET, ""}
 , 
 {100, "hugel.rsw", 871, 0, 927, 57, WORLD_MSGID.MSI_100_HUGEL, ""}
 , 
@@ -618,6 +620,8 @@ worldtable_main_Dun = {
 {45, 1083, 136, 1103, 156, WORLD_MSGID.MSI_DUN45, "180"}
 , 
 {46, 97, 321, 117, 341, WORLD_MSGID.MSI_DUN46, "170~200"}
+, 
+{47, 836, 605, 846, 615, WORLD_MSGID.MSI_DUN47_MARKET, ""}
 }
 worldtable_dimensions = {
 {1, "ecl_tdun01.rsw", 242, 354, 332, 388, WORLD_MSGID.MSI_1_ECL_TDUN01, "145"}

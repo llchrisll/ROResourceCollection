@@ -4880,7 +4880,6 @@
 25657	1	1	1	1	0	1	1	1	//Evt_July01_KR
 25658	1	1	1	1	0	1	1	1	//Evt_July02_KR
 25664	1	1	1	1	0	1	1	1	//Evt_July03_KR
-25841	1	1	1	1	0	1	1	1	//Smooth_Noodle
 450018	1	1	1	1	0	1	1	1	//Noblesse_Breath_Armor
 450019	1	1	1	1	0	1	1	1	//Noblesse_Knight_Armor
 450020	1	1	1	1	0	1	1	1	//Noblesse_Spear_Armor
@@ -6196,3 +6195,17 @@
 1001722	1	1	0	1	0	1	1	1	//R_Glacier_Shotgun
 1001723	1	1	0	1	0	1	1	1	//R_Glacier_Gatling
 1001724	1	1	0	1	0	1	1	1	//R_Glacier_Launcher
+490557	1	1	0	1	0	1	1	1	//Sesrumnir_Evt_Ring
+25342	1	1	1	1	0	1	1	1	//몸에좋은허브
+25841	1	1	1	1	0	1	1	1	//Smooth_Noodle
+1001740	1	1	1	1	0	1	1	1	//Summer_Ticket
+1001741	1	1	1	1	0	1	1	1	//Summer_W_Melon
+11636	1	1	0	1	1	1	1	1	//24_S_Ev_Lime_Soda
+11637	1	1	0	1	1	1	1	1	//24_S_Ev_Berry_Soda
+103065	1	1	0	1	1	1	1	1	//24_S_Ev_Noodle
+103066	1	1	0	1	1	1	1	1	//24_S_Ev_Grilled
+103067	1	1	0	1	1	1	1	1	//24_S_Ev_Podding
+103068	1	1	0	1	1	1	1	1	//24_S_Ev_Juice
+103069	1	1	0	1	1	1	1	1	//24_S_Ev_IceFlake
+103070	1	1	0	1	1	1	1	1	//24_S_Ev_Pop_Corn
+103071	1	1	0	1	1	1	1	1	//24_S_Ev_Ripe_Melon

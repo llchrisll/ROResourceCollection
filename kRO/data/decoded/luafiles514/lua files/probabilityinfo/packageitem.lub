@@ -6028,50 +6028,6 @@ tbl = {
 {id = 7444, prob = 2, name = "보물상자", group = 6}
 }
 , 
-[1721] = {
-{id = 5467, prob = 250, name = "드래군 헬름 [1]", group = 1}
-, 
-{id = 2527, prob = 400, name = "드래곤의 숨결 [1]", group = 1}
-, 
-{id = 1180, prob = 400, name = "드래곤슬레이어 [2]", group = 1}
-, 
-{id = 1269, prob = 400, name = "인버스 스케어", group = 1}
-, 
-{id = 1480, prob = 400, name = "가에볼그 [2]", group = 1}
-, 
-{id = 1559, prob = 400, name = "드래곤의 유산", group = 1}
-, 
-{id = 1724, prob = 400, name = "드래곤 윙", group = 1}
-, 
-{id = 13030, prob = 400, name = "드래곤킬러 [2]", group = 1}
-, 
-{id = 2399, prob = 500, name = "드래곤 베스트 [1]", group = 1}
-, 
-{id = 2553, prob = 500, name = "드래곤의 망토 [1]", group = 1}
-, 
-{id = 6234, prob = 90, name = "방어구 7 제련 보장권", group = 1}
-, 
-{id = 6230, prob = 90, name = "무기 7 제련 보장권", group = 1}
-, 
-{id = 6232, prob = 5, name = "방어구 9 제련 보장권", group = 1}
-, 
-{id = 6228, prob = 5, name = "무기 9 제련 보장권", group = 1}
-, 
-{id = 6484, prob = 3000, name = "인챈트 소개장", group = 1}
-, 
-{id = 616, prob = 400, name = "낡은 카드첩", group = 1}
-, 
-{id = 12103, prob = 155, name = "피묻은 나무가지", group = 1}
-, 
-{id = 12246, prob = 5, name = "마력이 깃든 카드첩", group = 1}
-, 
-{id = 12264, prob = 500, name = "[비매품]풍선껌 2개", group = 1}
-, 
-{id = 12263, prob = 500, name = "[비매품]전투 교범 2개", group = 1}
-, 
-{id = 7444, prob = 1200, name = "보물상자", group = 1}
-}
-, 
 [9510] = {
 {id = 25302, prob = 2, name = "더블어택 스톤(걸칠것)", group = 1}
 , 
@@ -10140,6 +10096,50 @@ tbl = {
 {id = 300279, prob = 1, name = "죽음의 책 카드", group = 6}
 }
 , 
+[12785] = {
+{id = 5467, prob = 250, name = "드래군 헬름 [1]", group = 1}
+, 
+{id = 2527, prob = 400, name = "드래곤의 숨결 [1]", group = 1}
+, 
+{id = 1180, prob = 400, name = "드래곤슬레이어 [2]", group = 1}
+, 
+{id = 1269, prob = 400, name = "인버스 스케어", group = 1}
+, 
+{id = 1480, prob = 400, name = "가에볼그 [2]", group = 1}
+, 
+{id = 1559, prob = 400, name = "드래곤의 유산", group = 1}
+, 
+{id = 1724, prob = 400, name = "드래곤 윙", group = 1}
+, 
+{id = 13030, prob = 400, name = "드래곤킬러 [2]", group = 1}
+, 
+{id = 2399, prob = 500, name = "드래곤 베스트 [1]", group = 1}
+, 
+{id = 2553, prob = 500, name = "드래곤의 망토 [1]", group = 1}
+, 
+{id = 6234, prob = 90, name = "방어구 7 제련 보장권", group = 1}
+, 
+{id = 6230, prob = 90, name = "무기 7 제련 보장권", group = 1}
+, 
+{id = 6232, prob = 5, name = "방어구 9 제련 보장권", group = 1}
+, 
+{id = 6228, prob = 5, name = "무기 9 제련 보장권", group = 1}
+, 
+{id = 6484, prob = 3000, name = "인챈트 소개장", group = 1}
+, 
+{id = 616, prob = 400, name = "낡은 카드첩", group = 1}
+, 
+{id = 12103, prob = 155, name = "피묻은 나무가지", group = 1}
+, 
+{id = 12246, prob = 5, name = "마력이 깃든 카드첩", group = 1}
+, 
+{id = 12264, prob = 500, name = "[비매품]풍선껌 2개", group = 1}
+, 
+{id = 12263, prob = 500, name = "[비매품]전투 교범 2개", group = 1}
+, 
+{id = 7444, prob = 1200, name = "보물상자", group = 1}
+}
+, 
 [12795] = {
 {id = 7444, prob = 1200, name = "보물상자", group = 1}
 , 
@@ -12047,7 +12047,7 @@ tbl = {
 , 
 {id = 12685, prob = 1, name = "그리폰의 알", group = 1}
 , 
-{id = 1721, prob = 1, name = "리피팅 크로스 보우 [1]", group = 1}
+{id = 12785, prob = 1, name = "드래곤의 알", group = 1}
 , 
 {id = 12795, prob = 1, name = "2011 RWC 스크롤", group = 1}
 , 
@@ -12081,7 +12081,7 @@ tbl = {
 , 
 {id = 12685, prob = 2, name = "그리폰의 알", group = 2}
 , 
-{id = 1721, prob = 2, name = "리피팅 크로스 보우 [1]", group = 2}
+{id = 12785, prob = 2, name = "드래곤의 알", group = 2}
 , 
 {id = 12795, prob = 2, name = "2011 RWC 스크롤", group = 2}
 , 
@@ -12441,7 +12441,7 @@ tbl = {
 , 
 {id = 4237, prob = 2, name = "아울듀크 카드", group = 1}
 , 
-{id = 1386, prob = 2, name = "둠 슬레이어", group = 1}
+{id = 2415, prob = 2, name = "토끼 슬리퍼 [1]", group = 1}
 , 
 {id = 5219, prob = 2, name = "늘어진 고양이", group = 1}
 , 
@@ -15871,7 +15871,7 @@ tbl = {
 , 
 {id = 12259, prob = 1, name = "환상의 영약", group = 1}
 , 
-{id = 1386, prob = 14, name = "둠 슬레이어", group = 1}
+{id = 2415, prob = 14, name = "토끼 슬리퍼 [1]", group = 1}
 , 
 {id = 12209, prob = 135, name = "생명보험 증서 5개", group = 1}
 , 
@@ -19139,7 +19139,7 @@ tbl = {
 [17144] = {
 {id = 17145, prob = 1, name = "모듬요리상자", group = 0}
 , 
-{id = 1721, prob = 1, name = "리피팅 크로스 보우 [1]", group = 0}
+{id = 12785, prob = 1, name = "드래곤의 알", group = 0}
 }
 , 
 [17145] = {
@@ -23175,47 +23175,45 @@ tbl = {
 [22825] = {
 {id = 7000, prob = 1, name = "냥다래 마일리지 쿠폰", group = 0}
 , 
-{id = 31532, prob = 37, name = "의상 레드 바렛", group = 6}
+{id = 31532, prob = 50, name = "의상 레드 바렛", group = 6}
 , 
-{id = 31626, prob = 37, name = "의상 부유하는 날개", group = 6}
+{id = 31626, prob = 50, name = "의상 부유하는 날개", group = 6}
 , 
-{id = 31552, prob = 37, name = "의상 블루 리본", group = 6}
+{id = 31552, prob = 50, name = "의상 블루 리본", group = 6}
 , 
-{id = 31315, prob = 37, name = "의상 천사의 스톨", group = 6}
+{id = 31315, prob = 50, name = "의상 천사의 스톨", group = 6}
 , 
-{id = 19895, prob = 37, name = "의상 나이트 캡", group = 6}
+{id = 19895, prob = 50, name = "의상 나이트 캡", group = 6}
 , 
-{id = 15905, prob = 37, name = "의상 지크프리트의 투구", group = 6}
+{id = 15905, prob = 50, name = "의상 지크프리트의 투구", group = 6}
 , 
-{id = 420181, prob = 37, name = "의상 에이스 슈핀네", group = 6}
+{id = 420181, prob = 50, name = "의상 에이스 슈핀네", group = 6}
 , 
-{id = 410212, prob = 37, name = "의상 리틀 어비스 드래곤", group = 6}
+{id = 410212, prob = 50, name = "의상 리틀 어비스 드래곤", group = 6}
 , 
-{id = 31137, prob = 37, name = "의상 파랑새의 장미장식", group = 6}
+{id = 31137, prob = 50, name = "의상 파랑새의 장미장식", group = 6}
 , 
-{id = 31449, prob = 37, name = "의상 파란장미의 안대", group = 6}
+{id = 31449, prob = 50, name = "의상 파란장미의 안대", group = 6}
 , 
-{id = 420193, prob = 37, name = "의상 커다란 리본 머플러(파랑)", group = 6}
+{id = 420193, prob = 50, name = "의상 커다란 리본 머플러(파랑)", group = 6}
 , 
-{id = 31590, prob = 37, name = "의상 디자이너의 붓", group = 6}
+{id = 31590, prob = 50, name = "의상 디자이너의 붓", group = 6}
 , 
-{id = 410200, prob = 37, name = "의상 토끼 집사", group = 6}
+{id = 410200, prob = 50, name = "의상 토끼 집사", group = 6}
 , 
-{id = 400436, prob = 37, name = "의상 오버핏 피아멧트의 두건", group = 6}
+{id = 400436, prob = 50, name = "의상 오버핏 피아멧트의 두건", group = 6}
 , 
-{id = 420241, prob = 37, name = "의상 캔디 헤어", group = 6}
+{id = 420241, prob = 50, name = "의상 캔디 헤어", group = 6}
 , 
-{id = 20115, prob = 37, name = "의상 언더림 안경", group = 6}
+{id = 20115, prob = 50, name = "의상 언더림 안경", group = 6}
 , 
-{id = 19930, prob = 37, name = "의상 천사의 미니실크햇", group = 6}
+{id = 19930, prob = 50, name = "의상 천사의 미니실크햇", group = 6}
 , 
-{id = 400406, prob = 111, name = "의상 디저트의 포로", group = 6}
+{id = 400406, prob = 50, name = "의상 디저트의 포로", group = 6}
 , 
-{id = 31686, prob = 111, name = "의상 새끼 데저트 울프", group = 6}
+{id = 31686, prob = 50, name = "의상 새끼 데저트 울프", group = 6}
 , 
-{id = 420088, prob = 111, name = "의상 하트 천사", group = 6}
-, 
-{id = 480429, prob = 38, name = "의상 냥이 도너츠", group = 6}
+{id = 420088, prob = 50, name = "의상 하트 천사", group = 6}
 }
 , 
 [22826] = {
@@ -33979,11 +33977,11 @@ tbl = {
 , 
 {id = 102226, prob = 9, name = "봉인된 보스 카드첩", group = 6}
 , 
-{id = 1000854, prob = 10, name = "쉐도우 교환 티켓", group = 6}
+{id = 19242, prob = 10, name = "새끼 고양이 헤드드레스 [1]", group = 6}
 , 
-{id = 19095, prob = 10, name = "해피 벌룬", group = 6}
+{id = 19118, prob = 10, name = "포링 선글래스+ [1]", group = 6}
 , 
-{id = 23168, prob = 10, name = "미니 선풍기 상자", group = 6}
+{id = 460020, prob = 10, name = "매드바니-LT [1]", group = 6}
 , 
 {id = 102733, prob = 10, name = "입에 문 에이스 카드 선택상자", group = 6}
 , 
@@ -33991,23 +33989,27 @@ tbl = {
 , 
 {id = 25041, prob = 20, name = "영혼의 뚫어뻥", group = 6}
 , 
-{id = 620040, prob = 50, name = "퓨리어스 기간틱 액스 [2]", group = 6}
+{id = 570072, prob = 50, name = "퓨리어스 메탈 바이올린 [2]", group = 6}
 , 
-{id = 590087, prob = 50, name = "진노의 망치 [2]", group = 6}
+{id = 580072, prob = 50, name = "퓨리어스 메탈 휩 [2]", group = 6}
 , 
-{id = 540090, prob = 50, name = "퓨리어스 마스터 스펠북 [2]", group = 6}
+{id = 570073, prob = 50, name = "진노의 하프 [2]", group = 6}
 , 
-{id = 540091, prob = 50, name = "진노의 마도서 [2]", group = 6}
+{id = 580073, prob = 50, name = "진노의 채찍 [2]", group = 6}
 , 
-{id = 550145, prob = 50, name = "퓨리어스 소울 [2]", group = 6}
+{id = 500101, prob = 50, name = "퓨리어스 레이피어 [2]", group = 6}
 , 
-{id = 550146, prob = 50, name = "진노의 영도장 [2]", group = 6}
+{id = 500102, prob = 50, name = "진노의 샤프소드 [2]", group = 6}
 , 
-{id = 400661, prob = 50, name = "진노의 관(마이스터) [1]", group = 6}
+{id = 550148, prob = 50, name = "퓨리어스 스틱 [2]", group = 6}
 , 
-{id = 400662, prob = 50, name = "진노의 관(엘레멘탈 마스터) [1]", group = 6}
+{id = 500103, prob = 50, name = "진노의 백검 [2]", group = 6}
 , 
-{id = 400663, prob = 50, name = "진노의 관(영도사) [1]", group = 6}
+{id = 400673, prob = 50, name = "진노의 관(트루바두르&트루베르) [1]", group = 6}
+, 
+{id = 400674, prob = 50, name = "진노의 관(바이올로) [1]", group = 6}
+, 
+{id = 400675, prob = 50, name = "진노의 관(하이퍼 노비스) [1]", group = 6}
 , 
 {id = 470265, prob = 50, name = "진노의 부츠 [1]", group = 6}
 , 
@@ -34031,19 +34033,19 @@ tbl = {
 , 
 {id = 102543, prob = 100, name = "M.이어링 쉐도우 상자", group = 6}
 , 
-{id = 101666, prob = 368, name = "특별한 쉐도우 마법서 상자", group = 6}
+{id = 101666, prob = 343, name = "특별한 쉐도우 마법서 상자", group = 6}
 , 
-{id = 6635, prob = 370, name = "대장장이의 축복", group = 6}
+{id = 6635, prob = 345, name = "대장장이의 축복", group = 6}
 , 
-{id = 1001253, prob = 370, name = "쉐도우 에센스", group = 6}
+{id = 1001253, prob = 345, name = "쉐도우 에센스", group = 6}
+, 
+{id = 23436, prob = 345, name = "홀그렌의 쉐도우 제련망치", group = 6}
 , 
 {id = 102734, prob = 100, name = "로키의 동전 선택상자", group = 6}
 , 
 {id = 102735, prob = 100, name = "로키의 조언 선택상자", group = 6}
 , 
 {id = 100690, prob = 150, name = "매터리얼 쉐도우큐브 II", group = 6}
-, 
-{id = 23436, prob = 370, name = "홀그렌의 쉐도우 제련망치", group = 6}
 , 
 {id = 100198, prob = 300, name = "스킬 쉐도우 큐브", group = 6}
 , 

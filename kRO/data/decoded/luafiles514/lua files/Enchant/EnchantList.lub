@@ -22518,6 +22518,22 @@ Table[147] = CreateEnchantInfo()
 ;
 (Table[147]):AddTargetItem_Duplicate("SpiritStick_Furious")
 ;
+(Table[147]):AddTargetItem_Duplicate("Lapier_Furious")
+;
+(Table[147]):AddTargetItem_Duplicate("SharpSword_Furious")
+;
+(Table[147]):AddTargetItem_Duplicate("WhiteSword_Furious")
+;
+(Table[147]):AddTargetItem_Duplicate("Stick_Furious")
+;
+(Table[147]):AddTargetItem_Duplicate("MetalVilolin_Furious")
+;
+(Table[147]):AddTargetItem_Duplicate("Harp_Furious")
+;
+(Table[147]):AddTargetItem_Duplicate("MetalWhip_Furious")
+;
+(Table[147]):AddTargetItem_Duplicate("Whip_Furious")
+;
 (Table[147]):SetCondition(0, 0)
 ;
 (Table[147]):ApproveRandomOption(true)
@@ -22565,7 +22581,7 @@ Table[147] = CreateEnchantInfo()
 (((Table[147]).Slot)[2]):AddPerfectEnchant("FuriousEnergy_Dem", 500000, {"EP19_D_P_Crystal", 30}, {"EP19_N_P_Crystal", 30})
 ;
 (((Table[147]).Slot)[2]):AddPerfectEnchant("FuriousEnergy_Und", 500000, {"EP19_D_P_Crystal", 30}, {"EP19_N_P_Crystal", 30})
--- DECOMPILER ERROR at PC147591: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC147639: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[148] = CreateEnchantInfo()
 ;
@@ -22594,6 +22610,12 @@ Table[148] = CreateEnchantInfo()
 (Table[148]):AddTargetItem_Duplicate("FuriousCirclet_EM")
 ;
 (Table[148]):AddTargetItem_Duplicate("FuriousCirclet_SOA")
+;
+(Table[148]):AddTargetItem_Duplicate("FuriousCirclet_TR")
+;
+(Table[148]):AddTargetItem_Duplicate("FuriousCirclet_BO")
+;
+(Table[148]):AddTargetItem_Duplicate("FuriousCirclet_HN")
 ;
 (Table[148]):SetCondition(0, 0)
 ;
@@ -22664,7 +22686,7 @@ Table[148] = CreateEnchantInfo()
 (((Table[148]).Slot)[2]):AddUpgradeEnchant("마정2", "마정3", 0, {"EP19_D_P_Stone", 3})
 ;
 (((Table[148]).Slot)[2]):AddUpgradeEnchant("마력2", "마력3", 0, {"EP19_D_P_Stone", 3})
--- DECOMPILER ERROR at PC148324: Confused about usage of register: R0 in 'UnsetPending'
+-- DECOMPILER ERROR at PC148390: Confused about usage of register: R0 in 'UnsetPending'
 
 Table[149] = CreateEnchantInfo()
 ;

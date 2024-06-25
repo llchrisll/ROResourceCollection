@@ -9188,4 +9188,82 @@ descript = {
 {"모든 특성 스테이터스 + 10"}
 }
 }
+-- DECOMPILER ERROR at PC19115: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_15] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"여름 잔치 국수", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"모든 속성 적에게 주는 물리 데미지 증가"}
+, 
+{"모든 속성 적에게 주는 마법 데미지 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19142: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_16] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"허브 오징어 통구이", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"모든 크기의 적에게 주는 물리 데미지 증가"}
+, 
+{"모든 크기의 적에게 주는 마법 데미지 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19169: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_17] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"달콤한 수박 푸딩", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"근접 및 원거리 물리 데미지 증가"}
+, 
+{"모든 속성 마법 데미지 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19196: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_18] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"시원한 수박쥬스", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"ATK % 증가"}
+, 
+{"MATK % 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19223: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_19] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"시원한 팥빙수", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"MHP % 증가"}
+, 
+{"MSP % 증가"}
+}
+}
+-- DECOMPILER ERROR at PC19250: Confused about usage of register: R0 in 'UnsetPending'
+
+StateIconList[EFST_IDs.EFST_CONTENTS_20] = {haveTimeLimit = 1, posTimeLimitStr = 2, 
+descript = {
+{"고메 버터 팝콘", COLOR_TITLE_BUFF}
+, 
+{"%s", COLOR_TIME}
+, 
+{"변동 캐스팅 감소"}
+, 
+{"ASPD 증가"}
+}
+}
 

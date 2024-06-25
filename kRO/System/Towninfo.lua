@@ -647,13 +647,21 @@ prt_mk = {
 , 
 {name = "안내원", X = 252, Y = 300, TYPE = 4}
 , 
-{name = "안내원", X = 299, Y = 91, TYPE = 4}
+{name = "안내원", X = 299, Y = 67, TYPE = 4}
 , 
 {name = "안내원", X = 71, Y = 20, TYPE = 4}
 , 
 {name = "안내원", X = 24, Y = 256, TYPE = 4}
 , 
 {name = "안내원", X = 161, Y = 171, TYPE = 4}
+, 
+{name = "상점", X = 297, Y = 47, TYPE = 0}
+, 
+{name = "상점", X = 53, Y = 23, TYPE = 0}
+, 
+{name = "상점", X = 27, Y = 275, TYPE = 0}
+, 
+{name = "상점", X = 272, Y = 299, TYPE = 0}
 }
 }
 main = function()

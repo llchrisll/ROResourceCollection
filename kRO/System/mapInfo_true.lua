@@ -574,11 +574,11 @@ signName = {subTitle = "버려진 연구소 아미키티아", mainTitle = "1층 종합연구실"}
 signName = {subTitle = "버려진 연구소 아미키티아", mainTitle = "2층 집중배양실"}
 , backgroundBmp = "dungeon"}
 , 
-["nif_dun01.rsw"] = {displayName = "니플헤임 던전 망자의 연회장", notifyEnter = true, 
+["nif_dun01.rsw"] = {displayName = "망자의 연회장", notifyEnter = true, 
 signName = {subTitle = "니플헤임 던전 1층", mainTitle = "망자의 연회장"}
 , backgroundBmp = "dungeon"}
 , 
-["nif_dun02.rsw"] = {displayName = "니플헤임 던전 무너진 오페라 하우스", notifyEnter = true, 
+["nif_dun02.rsw"] = {displayName = "무너진 오페라 하우스", notifyEnter = true, 
 signName = {subTitle = "니플헤임 던전 2층", mainTitle = "무너진 오페라 하우스"}
 , backgroundBmp = "dungeon"}
 , 

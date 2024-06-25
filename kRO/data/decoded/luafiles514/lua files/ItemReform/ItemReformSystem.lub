@@ -7237,6 +7237,72 @@ Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
 , ResultItem = "FuriousCirclet_SOA", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
 InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
 }
+, 
+[1241] = {BaseItem = "FuriousCirclet_TR", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_TR", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1242] = {BaseItem = "FuriousCirclet_BO", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_BO", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1243] = {BaseItem = "FuriousCirclet_HN", 
+Material = {HD_Ethernium = 10, Enriched_Ethernium = 20}
+, ResultItem = "FuriousCirclet_HN", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1244] = {BaseItem = "Lapier_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Lapier_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1245] = {BaseItem = "SharpSword_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "SharpSword_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1246] = {BaseItem = "WhiteSword_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "WhiteSword_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1247] = {BaseItem = "Stick_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Stick_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1248] = {BaseItem = "MetalVilolin_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "MetalVilolin_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1249] = {BaseItem = "Harp_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Harp_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1250] = {BaseItem = "MetalWhip_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "MetalWhip_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
+, 
+[1251] = {BaseItem = "Whip_Furious", 
+Material = {HD_Etherdeocon = 10, Enriched_Etherdeocon = 20}
+, ResultItem = "Whip_Furious", NeedRefineMin = 9, NeedRefineMax = 11, NeedOptionNumMin = 0, IsEmptySocket = false, ChangeRefineValue = 1, RandomOptionCode = "", PreserveSocketItem = true, PreserveGrade = true, 
+InformationString = {"<B>조합 결과 정보 안내</B>", "1) 제련도 : ^4D4DFF+1^000000", "2) 카드 및 인챈트 정보 : 유지됨", "3) 등급 정보 : 유지됨"}
+}
 }
 ReformItemList = {
 IDTest_Special = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
@@ -7413,7 +7479,7 @@ Season_H_Upgrade = {1048, 1049, 1050, 1051}
 , 
 Dimen_W_Refine = {1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1119, 1120, 1121, 1122, 1123, 1124, 1125, 1126, 1127, 1128, 1129, 1130, 1131, 1132, 1133, 1134, 1135, 1136, 1137, 1141}
 , 
-Refine_Furious = {1166, 1167, 1168, 1169, 1170, 1171, 1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1189, 1190, 1191, 1192, 1193, 1194, 1195, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240}
+Refine_Furious = {1166, 1167, 1168, 1169, 1170, 1171, 1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1189, 1190, 1191, 1192, 1193, 1194, 1195, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251}
 , 
 Gaebolg_A_Hammer_1 = {1148, 1149, 1150, 1151, 1152, 1153}
 , 

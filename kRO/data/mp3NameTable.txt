@@ -1,5 +1,5 @@
 // ==========================================================================
-// mp3NameTable.txt 본서버 최종수정: 2024-05-08 - 프론테라 시장 추가
+// mp3NameTable.txt 본서버 최종수정: 2024-05-31 - 여름 이벤트 세스룸니르 오션위크
 // ==========================================================================
 //맵이름.rsw#bgm\\음악번호#
 
@@ -32,6 +32,10 @@ hu_in01.rsw#bgm\\93.mp3#
 //alberta_in.rsw#bgm\\54.mp3#
 //hugel.rsw#bgm\\54.mp3#
 //hu_in01.rsw#bgm\\54.mp3#
+
+// 여름 이벤트 세스룸니르 오션위크
+ra_temple.rsw#bgm\\139.mp3#
+//ra_temple.rsw#bgm\\95.mp3#
 
 // 프론테라 시장
 prt_mk.rsw#bgm\\08.mp3#
@@ -813,7 +817,7 @@ thor_v03.rsw#bgm\\106.mp3#
 06guild_08.rsw#bgm\\07.mp3#
 rachel.rsw#bgm\\94.mp3#
 ra_in01.rsw#bgm\\94.mp3#
-ra_temple.rsw#bgm\\95.mp3#
+
 ra_temin.rsw#bgm\\95.mp3#
 que_rachel.rsw#bgm\\95.mp3#
 ra_temsky.rsw#bgm\\95.mp3#
